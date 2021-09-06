@@ -1,0 +1,468 @@
+[
+  {
+    "name": "I Wish I Never Met You",
+    "link": "https://music.163.com/song?id=1403597982",
+    "duration": "02:59",
+    "artists": [
+      { "name": "Oh Wonder", "link": "https://music.163.com/artist?id=1050128" }
+    ],
+    "album": {
+      "name": "No One Else Can Wear Your Crown",
+      "link": "https://music.163.com/album?id=85538401"
+    }
+  },
+  {
+    "name": "Red Wine",
+    "link": "https://music.163.com/song?id=1318115725",
+    "duration": "03:22",
+    "artists": [
+      { "name": "MØ", "link": "https://music.163.com/artist?id=783150" },
+      {
+        "name": "Empress Of",
+        "link": "https://music.163.com/artist?id=1070074"
+      }
+    ],
+    "album": {
+      "name": "Forever Neverland",
+      "link": "https://music.163.com/album?id=73931721"
+    }
+  },
+  {
+    "name": "Genie in a Bottle",
+    "link": "https://music.163.com/song?id=865898531",
+    "duration": "02:31",
+    "artists": [
+      {
+        "name": "Campsite Dream",
+        "link": "https://music.163.com/artist?id=1146068"
+      }
+    ],
+    "album": {
+      "name": "Genie in a Bottle",
+      "link": "https://music.163.com/album?id=71802940"
+    }
+  },
+  {
+    "name": "Do It Yourself",
+    "link": "https://music.163.com/song?id=1353001850",
+    "duration": "02:49",
+    "artists": [
+      { "name": "Ilira", "link": "https://music.163.com/artist?id=847380" }
+    ],
+    "album": {
+      "name": "Do It Yourself",
+      "link": "https://music.163.com/album?id=75906720"
+    }
+  },
+  {
+    "name": "Magical",
+    "link": "https://music.163.com/song?id=1406067418",
+    "duration": "02:38",
+    "artists": [
+      {
+        "name": "Newclaess",
+        "link": "https://music.163.com/artist?id=13335706"
+      },
+      { "name": "Anvy", "link": "https://music.163.com/artist?id=14203234" }
+    ],
+    "album": {
+      "name": "Magical",
+      "link": "https://music.163.com/album?id=83680136"
+    }
+  },
+  {
+    "name": "望",
+    "link": "https://music.163.com/song?id=1441232932",
+    "duration": "04:21",
+    "artists": [
+      { "name": "ZeaN", "link": "https://music.163.com/artist?id=34663156" }
+    ],
+    "album": { "name": "望", "link": "https://music.163.com/album?id=88127765" }
+  },
+  {
+    "name": "≈",
+    "link": "https://music.163.com/song?id=1300595099",
+    "duration": "03:46",
+    "artists": [
+      { "name": "Inogg", "link": "https://music.163.com/artist?id=12643745" }
+    ],
+    "album": { "name": "≈", "link": "https://music.163.com/album?id=72070292" }
+  },
+  {
+    "name": "Love Ain't Changin",
+    "link": "https://music.163.com/song?id=1396178566",
+    "duration": "03:17",
+    "artists": [
+      {
+        "name": "GhostDragon",
+        "link": "https://music.163.com/artist?id=12202354"
+      },
+      { "name": "Caslow", "link": "https://music.163.com/artist?id=15109745" },
+      {
+        "name": "Red Comet",
+        "link": "https://music.163.com/artist?id=13128065"
+      },
+      {
+        "name": "Alina Renae",
+        "link": "https://music.163.com/artist?id=844803"
+      }
+    ],
+    "album": {
+      "name": "Love Ain't Changing",
+      "link": "https://music.163.com/album?id=82299007"
+    }
+  },
+  {
+    "name": "ODYSSEY",
+    "link": "https://music.163.com/song?id=28323519",
+    "duration": "04:18",
+    "artists": [
+      {
+        "name": "Dance With The Dead",
+        "link": "https://music.163.com/artist?id=999192"
+      }
+    ],
+    "album": {
+      "name": "INTO THE ABYSS",
+      "link": "https://music.163.com/album?id=2776049"
+    }
+  },
+  {
+    "name": "Distress Signal",
+    "link": "https://music.163.com/song?id=26064582",
+    "duration": "03:37",
+    "artists": [
+      { "name": "Lazerhawk", "link": "https://music.163.com/artist?id=392109" }
+    ],
+    "album": {
+      "name": "Redline",
+      "link": "https://music.163.com/album?id=2369862"
+    }
+  },
+  {
+    "name": "Draconis",
+    "link": "https://music.163.com/song?id=1337009230",
+    "duration": "04:52",
+    "artists": [
+      {
+        "name": "Starlyte",
+        "link": "https://music.163.com/artist?id=12006394"
+      },
+      { "name": "Jim Yosef", "link": "https://music.163.com/artist?id=1063121" }
+    ],
+    "album": {
+      "name": "Draconis",
+      "link": "https://music.163.com/album?id=75025714"
+    }
+  },
+  {
+    "name": "Offworld",
+    "link": "https://music.163.com/song?id=1412645134",
+    "duration": "03:38",
+    "artists": [
+      {
+        "name": "Essenger",
+        "link": "https://music.163.com/artist?id=31400823"
+      },
+      { "name": "PYLOT", "link": "https://music.163.com/artist?id=865032" }
+    ],
+    "album": {
+      "name": "Offworld",
+      "link": "https://music.163.com/album?id=84570461"
+    }
+  },
+  {
+    "name": "Famous",
+    "link": "https://music.163.com/song?id=522647397",
+    "duration": "03:43",
+    "artists": [
+      {
+        "name": "Ivy Adara",
+        "link": "https://music.163.com/artist?id=12925126"
+      }
+    ],
+    "album": {
+      "name": "Famous",
+      "link": "https://music.163.com/album?id=36921067"
+    }
+  },
+  {
+    "name": "Better Next Time",
+    "link": "https://music.163.com/song?id=1378479918",
+    "duration": "03:36",
+    "artists": [
+      {
+        "name": "BarbarianKing蛮王",
+        "link": "https://music.163.com/artist?id=32766579"
+      },
+      { "name": "JWoods", "link": "https://music.163.com/artist?id=30959670" }
+    ],
+    "album": {
+      "name": "Better Next Time",
+      "link": "https://music.163.com/album?id=80439171"
+    }
+  },
+  {
+    "name": "Antisocial",
+    "link": "https://music.163.com/song?id=550124208",
+    "duration": "02:42",
+    "artists": [
+      { "name": "BEAUZ", "link": "https://music.163.com/artist?id=12131436" },
+      {
+        "name": "Heather Sommer",
+        "link": "https://music.163.com/artist?id=13134228"
+      }
+    ],
+    "album": {
+      "name": "Antisocial",
+      "link": "https://music.163.com/album?id=38226050"
+    }
+  },
+  {
+    "name": "Cosmic Fate",
+    "link": "https://music.163.com/song?id=532267293",
+    "duration": "02:32",
+    "artists": [
+      { "name": "Wisp X", "link": "https://music.163.com/artist?id=1046123" }
+    ],
+    "album": {
+      "name": "Cosmic Fate",
+      "link": "https://music.163.com/album?id=37353614"
+    }
+  },
+  {
+    "name": "Particle Arts",
+    "link": "https://music.163.com/song?id=523251142",
+    "duration": "03:54",
+    "artists": [
+      {
+        "name": "Virtual Self",
+        "link": "https://music.163.com/artist?id=12773843"
+      }
+    ],
+    "album": {
+      "name": "Virtual Self",
+      "link": "https://music.163.com/album?id=36633233"
+    }
+  },
+  {
+    "name": "E.T.",
+    "link": "https://music.163.com/song?id=2871185",
+    "duration": "03:26",
+    "artists": [
+      { "name": "Katy Perry", "link": "https://music.163.com/artist?id=62888" }
+    ],
+    "album": { "name": "E.T.", "link": "https://music.163.com/album?id=289910" }
+  },
+  {
+    "name": "Whatever It Takes",
+    "link": "https://music.163.com/song?id=1470907433",
+    "duration": "03:22",
+    "artists": [
+      {
+        "name": "Imagine Dragons",
+        "link": "https://music.163.com/artist?id=94779"
+      }
+    ],
+    "album": {
+      "name": "Best of 2018",
+      "link": "https://music.163.com/album?id=93941420"
+    }
+  },
+  {
+    "name": "Galaxy",
+    "link": "https://music.163.com/song?id=536307878",
+    "duration": "03:37",
+    "artists": [
+      { "name": "Azricle", "link": "https://music.163.com/artist?id=1131003" }
+    ],
+    "album": {
+      "name": "Galaxy",
+      "link": "https://music.163.com/album?id=37547228"
+    }
+  },
+  {
+    "name": "夏",
+    "link": "https://music.163.com/song?id=1294687461",
+    "duration": "04:14",
+    "artists": [
+      {
+        "name": "Austin Carl",
+        "link": "https://music.163.com/artist?id=12303121"
+      },
+      {
+        "name": "HankJerry",
+        "link": "https://music.163.com/artist?id=12320668"
+      }
+    ],
+    "album": { "name": "夏", "link": "https://music.163.com/album?id=71846444" }
+  },
+  {
+    "name": "Number",
+    "link": "https://music.163.com/song?id=537407969",
+    "duration": "02:59",
+    "artists": [
+      {
+        "name": "Alexander Oscar",
+        "link": "https://music.163.com/artist?id=12312150"
+      }
+    ],
+    "album": {
+      "name": "Number",
+      "link": "https://music.163.com/album?id=37561418"
+    }
+  },
+  {
+    "name": "Alienate（Cover 初音ミクDark）",
+    "link": "https://music.163.com/song?id=512797561",
+    "duration": "04:10",
+    "artists": [
+      {
+        "name": "Sawako碎花",
+        "link": "https://music.163.com/artist?id=12292130"
+      }
+    ],
+    "album": {
+      "name": "Alienate",
+      "link": "https://music.163.com/album?id=36548147"
+    }
+  },
+  {
+    "name": "ハルキミ feat.Himawari",
+    "link": "https://music.163.com/song?id=463279914",
+    "duration": "02:40",
+    "artists": [
+      { "name": "Reguluz", "link": "https://music.163.com/artist?id=1197090" },
+      {
+        "name": "Saiakoup",
+        "link": "https://music.163.com/artist?id=12083147"
+      },
+      { "name": "Himawari", "link": "https://music.163.com/artist?id=12291154" }
+    ],
+    "album": {
+      "name": "ハルキミ　",
+      "link": "https://music.163.com/album?id=35239061"
+    }
+  },
+  {
+    "name": "Λsʜᴇs<MODv>",
+    "link": "https://music.163.com/song?id=1449790487",
+    "duration": "04:28",
+    "artists": [
+      {
+        "name": "R!N/Gemie",
+        "link": "https://music.163.com/artist?id=12531080"
+      }
+    ],
+    "album": {
+      "name": "「プロメア オリジナルサウンドトラック」リミックス&リアレンジCD",
+      "link": "https://music.163.com/album?id=89750459"
+    }
+  },
+  {
+    "name": "Monody (Andreas B Remix)",
+    "link": "https://music.163.com/song?id=550136229",
+    "duration": "04:10",
+    "artists": [
+      {
+        "name": "Andreas B.",
+        "link": "https://music.163.com/artist?id=299713"
+      },
+      {
+        "name": "TheFatRat",
+        "link": "https://music.163.com/artist?id=1019952"
+      },
+      {
+        "name": "Laura Brehm",
+        "link": "https://music.163.com/artist?id=207693"
+      }
+    ],
+    "album": {
+      "name": "Monody (Andreas B Remix)",
+      "link": "https://music.163.com/album?id=38225052"
+    }
+  },
+  {
+    "name": "Intruded",
+    "link": "https://music.163.com/song?id=1811391851",
+    "duration": "03:06",
+    "artists": [
+      {
+        "name": "Justine Skye",
+        "link": "https://music.163.com/artist?id=819003"
+      },
+      { "name": "Timbaland", "link": "https://music.163.com/artist?id=44263" }
+    ],
+    "album": {
+      "name": "Intruded",
+      "link": "https://music.163.com/album?id=121534423"
+    }
+  },
+  {
+    "name": "Padma (Original Mix)",
+    "link": "https://music.163.com/song?id=434659539",
+    "duration": "07:18",
+    "artists": [
+      {
+        "name": "Attila Syah",
+        "link": "https://music.163.com/artist?id=12007019"
+      },
+      { "name": "LTN", "link": "https://music.163.com/artist?id=191742" }
+    ],
+    "album": {
+      "name": "Padma",
+      "link": "https://music.163.com/album?id=34898986"
+    }
+  },
+  {
+    "name": "Teeth",
+    "link": "https://music.163.com/song?id=1385738126",
+    "duration": "03:24",
+    "artists": [
+      {
+        "name": "5 Seconds of Summer",
+        "link": "https://music.163.com/artist?id=893624"
+      }
+    ],
+    "album": {
+      "name": "Teeth",
+      "link": "https://music.163.com/album?id=81075734"
+    }
+  },
+  {
+    "name": "I Like Me Better",
+    "link": "https://music.163.com/song?id=479223413",
+    "duration": "03:17",
+    "artists": [
+      { "name": "Lauv", "link": "https://music.163.com/artist?id=1057226" }
+    ],
+    "album": {
+      "name": "I Like Me Better",
+      "link": "https://music.163.com/album?id=35536102"
+    }
+  },
+  {
+    "name": "Happy Ending",
+    "link": "https://music.163.com/song?id=525958561",
+    "duration": "03:06",
+    "artists": [
+      { "name": "shift334", "link": "https://music.163.com/artist?id=12258221" }
+    ],
+    "album": {
+      "name": "Happy Ending",
+      "link": "https://music.163.com/album?id=37051229"
+    }
+  },
+  {
+    "name": "给你呀（又名：for ya）",
+    "link": "https://music.163.com/song?id=1497588709",
+    "duration": "02:33",
+    "artists": [
+      { "name": "蒋小呢", "link": "https://music.163.com/artist?id=37540088" }
+    ],
+    "album": {
+      "name": "for ya",
+      "link": "https://music.163.com/album?id=98659782"
+    }
+  }
+]

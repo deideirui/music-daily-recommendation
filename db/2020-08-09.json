@@ -1,0 +1,430 @@
+[
+  {
+    "name": "Firehazard",
+    "link": "https://music.163.com/song?id=1368725152",
+    "duration": "03:09",
+    "artists": [
+      { "name": "Syence", "link": "https://music.163.com/artist?id=12233011" },
+      {
+        "name": "Emily Falvey",
+        "link": "https://music.163.com/artist?id=31678015"
+      }
+    ],
+    "album": {
+      "name": "Firehazard",
+      "link": "https://music.163.com/album?id=79513899"
+    }
+  },
+  {
+    "name": "Cruel To Be Kind",
+    "link": "https://music.163.com/song?id=1368704802",
+    "duration": "02:53",
+    "artists": [
+      { "name": "Ea Kaya", "link": "https://music.163.com/artist?id=12279345" }
+    ],
+    "album": {
+      "name": "Cruel To Be Kind",
+      "link": "https://music.163.com/album?id=79512158"
+    }
+  },
+  {
+    "name": "Once Upon a Time",
+    "link": "https://music.163.com/song?id=1381053651",
+    "duration": "03:54",
+    "artists": [
+      {
+        "name": "Aash Mehta",
+        "link": "https://music.163.com/artist?id=1094364"
+      }
+    ],
+    "album": {
+      "name": "Once Upon a Time",
+      "link": "https://music.163.com/album?id=80684363"
+    }
+  },
+  {
+    "name": "Do Or Die",
+    "link": "https://music.163.com/song?id=1305016436",
+    "duration": "03:24",
+    "artists": [
+      {
+        "name": "Axel Johansson",
+        "link": "https://music.163.com/artist?id=12872604"
+      }
+    ],
+    "album": {
+      "name": "Do Or Die",
+      "link": "https://music.163.com/album?id=72625633"
+    }
+  },
+  {
+    "name": "Nobody's Home",
+    "link": "https://music.163.com/song?id=1343455536",
+    "duration": "03:36",
+    "artists": [
+      { "name": "Mallrat", "link": "https://music.163.com/artist?id=12073489" },
+      { "name": "Basenji", "link": "https://music.163.com/artist?id=1007025" }
+    ],
+    "album": {
+      "name": "Nobody's Home",
+      "link": "https://music.163.com/album?id=75404931"
+    }
+  },
+  {
+    "name": "Seven Seas",
+    "link": "https://music.163.com/song?id=1374002541",
+    "duration": "02:45",
+    "artists": [
+      {
+        "name": "Curtis Walsh",
+        "link": "https://music.163.com/artist?id=28103564"
+      }
+    ],
+    "album": {
+      "name": "Seven Seas",
+      "link": "https://music.163.com/album?id=79997374"
+    }
+  },
+  {
+    "name": "DINO",
+    "link": "https://music.163.com/song?id=1345956604",
+    "duration": "03:43",
+    "artists": [
+      { "name": "BRÍET", "link": "https://music.163.com/artist?id=13162090" }
+    ],
+    "album": {
+      "name": "DINO",
+      "link": "https://music.163.com/album?id=75551834"
+    }
+  },
+  {
+    "name": "Crushing",
+    "link": "https://music.163.com/song?id=1382830610",
+    "duration": "03:10",
+    "artists": [
+      { "name": "Trace", "link": "https://music.163.com/artist?id=80473" }
+    ],
+    "album": {
+      "name": "Crushing",
+      "link": "https://music.163.com/album?id=80833954"
+    }
+  },
+  {
+    "name": "Priority",
+    "link": "https://music.163.com/song?id=1313120762",
+    "duration": "03:12",
+    "artists": [
+      {
+        "name": "Emily Vaughn",
+        "link": "https://music.163.com/artist?id=12049240"
+      }
+    ],
+    "album": {
+      "name": "Priority",
+      "link": "https://music.163.com/album?id=73649695"
+    }
+  },
+  {
+    "name": "First Date",
+    "link": "https://music.163.com/song?id=1422778166",
+    "duration": "02:26",
+    "artists": [
+      {
+        "name": "Adib Sin",
+        "link": "https://music.163.com/artist?id=12244027"
+      },
+      {
+        "name": "Hikaru Station",
+        "link": "https://music.163.com/artist?id=12082087"
+      }
+    ],
+    "album": {
+      "name": "First Date",
+      "link": "https://music.163.com/album?id=85664965"
+    }
+  },
+  {
+    "name": "RULES",
+    "link": "https://music.163.com/song?id=1418388532",
+    "duration": "03:26",
+    "artists": [
+      { "name": "AViVA", "link": "https://music.163.com/artist?id=12074178" }
+    ],
+    "album": {
+      "name": "RULES",
+      "link": "https://music.163.com/album?id=85160327"
+    }
+  },
+  {
+    "name": "Running In The Night (feat. Ollie Wride)",
+    "link": "https://music.163.com/song?id=411921883",
+    "duration": "04:30",
+    "artists": [
+      { "name": "FM-84", "link": "https://music.163.com/artist?id=12046467" }
+    ],
+    "album": {
+      "name": "Atlas",
+      "link": "https://music.163.com/album?id=34686652"
+    }
+  },
+  {
+    "name": "Saltwater",
+    "link": "https://music.163.com/song?id=423314485",
+    "duration": "04:07",
+    "artists": [
+      { "name": "Geowulf", "link": "https://music.163.com/artist?id=12087103" }
+    ],
+    "album": {
+      "name": "Saltwater",
+      "link": "https://music.163.com/album?id=34790355"
+    }
+  },
+  {
+    "name": "Talk Talk",
+    "link": "https://music.163.com/song?id=1364583240",
+    "duration": "03:35",
+    "artists": [
+      { "name": "Cannons", "link": "https://music.163.com/artist?id=1022051" }
+    ],
+    "album": {
+      "name": "Talk Talk",
+      "link": "https://music.163.com/album?id=79057433"
+    }
+  },
+  {
+    "name": "Know",
+    "link": "https://music.163.com/song?id=1379445278",
+    "duration": "02:54",
+    "artists": [
+      {
+        "name": "ATTIC BEATS",
+        "link": "https://music.163.com/artist?id=12007025"
+      }
+    ],
+    "album": {
+      "name": "Know",
+      "link": "https://music.163.com/album?id=80535326"
+    }
+  },
+  {
+    "name": "Underneath The Waves (feat. Monika Santucci)",
+    "link": "https://music.163.com/song?id=1431498410",
+    "duration": "04:04",
+    "artists": [
+      {
+        "name": "Last Heroes",
+        "link": "https://music.163.com/artist?id=11987034"
+      },
+      {
+        "name": "Monika Santucci",
+        "link": "https://music.163.com/artist?id=13989763"
+      }
+    ],
+    "album": {
+      "name": "Underneath The Waves (feat. Monika Santucci)",
+      "link": "https://music.163.com/album?id=86562170"
+    }
+  },
+  {
+    "name": "Pray",
+    "link": "https://music.163.com/song?id=1353374366",
+    "duration": "04:55",
+    "artists": [
+      { "name": "ILLENIUM", "link": "https://music.163.com/artist?id=1050518" },
+      {
+        "name": "Kameron Alexander",
+        "link": "https://music.163.com/artist?id=31724757"
+      }
+    ],
+    "album": {
+      "name": "Pray",
+      "link": "https://music.163.com/album?id=77773109"
+    }
+  },
+  {
+    "name": "Birthday Suit",
+    "link": "https://music.163.com/song?id=485410433",
+    "duration": "03:10",
+    "artists": [
+      {
+        "name": "Dan Talevski",
+        "link": "https://music.163.com/artist?id=1050677"
+      }
+    ],
+    "album": {
+      "name": "Birthday Suit",
+      "link": "https://music.163.com/album?id=35630589"
+    }
+  },
+  {
+    "name": "You Used To",
+    "link": "https://music.163.com/song?id=1405206289",
+    "duration": "03:21",
+    "artists": [
+      { "name": "Duumu", "link": "https://music.163.com/artist?id=12007367" },
+      {
+        "name": "I See Colors",
+        "link": "https://music.163.com/artist?id=33423122"
+      },
+      { "name": "Luma", "link": "https://music.163.com/artist?id=211460" }
+    ],
+    "album": {
+      "name": "You Used To",
+      "link": "https://music.163.com/album?id=83583346"
+    }
+  },
+  {
+    "name": "No Sleep",
+    "link": "https://music.163.com/song?id=1400345322",
+    "duration": "02:42",
+    "artists": [
+      { "name": "Tails", "link": "https://music.163.com/artist?id=13738077" },
+      {
+        "name": "Beach Season",
+        "link": "https://music.163.com/artist?id=12131022"
+      }
+    ],
+    "album": {
+      "name": "No Sleep / Hyperventilate",
+      "link": "https://music.163.com/album?id=82910616"
+    }
+  },
+  {
+    "name": "Lifted",
+    "link": "https://music.163.com/song?id=469104847",
+    "duration": "03:14",
+    "artists": [
+      { "name": "Allie X", "link": "https://music.163.com/artist?id=973030" }
+    ],
+    "album": {
+      "name": "CollXtion II",
+      "link": "https://music.163.com/album?id=35297807"
+    }
+  },
+  {
+    "name": "Some Day (feat. Noctilucent) (Navion Remix)",
+    "link": "https://music.163.com/song?id=1371926441",
+    "duration": "03:40",
+    "artists": [
+      {
+        "name": "Misael Gauna",
+        "link": "https://music.163.com/artist?id=1054136"
+      }
+    ],
+    "album": {
+      "name": "Some Day: The Remixes (feat. Noctilucent)",
+      "link": "https://music.163.com/album?id=79805273"
+    }
+  },
+  {
+    "name": "Problems",
+    "link": "https://music.163.com/song?id=1375646180",
+    "duration": "03:02",
+    "artists": [
+      {
+        "name": "Stephen Walking",
+        "link": "https://music.163.com/artist?id=101860"
+      },
+      { "name": "Ephixa", "link": "https://music.163.com/artist?id=205684" }
+    ],
+    "album": {
+      "name": "Problems",
+      "link": "https://music.163.com/album?id=80177297"
+    }
+  },
+  {
+    "name": "Taste",
+    "link": "https://music.163.com/song?id=554391703",
+    "duration": "03:22",
+    "artists": [
+      { "name": "Betty Who", "link": "https://music.163.com/artist?id=832218" }
+    ],
+    "album": {
+      "name": "Taste",
+      "link": "https://music.163.com/album?id=38436852"
+    }
+  },
+  {
+    "name": "Collisions",
+    "link": "https://music.163.com/song?id=488647719",
+    "duration": "02:27",
+    "artists": [
+      { "name": "DROELOE", "link": "https://music.163.com/artist?id=12011203" }
+    ],
+    "album": {
+      "name": "Rocket League x Monstercat Vol. 1",
+      "link": "https://music.163.com/album?id=35644274"
+    }
+  },
+  {
+    "name": "Before I Go",
+    "link": "https://music.163.com/song?id=1392408337",
+    "duration": "03:56",
+    "artists": [
+      {
+        "name": "Sullivan King",
+        "link": "https://music.163.com/artist?id=1032439"
+      }
+    ],
+    "album": {
+      "name": "Show Some Teeth",
+      "link": "https://music.163.com/album?id=81821000"
+    }
+  },
+  {
+    "name": "NVRLND",
+    "link": "https://music.163.com/song?id=1460830602",
+    "duration": "02:20",
+    "artists": [
+      { "name": "Omnia", "link": "https://music.163.com/artist?id=179006" }
+    ],
+    "album": {
+      "name": "NVRLND",
+      "link": "https://music.163.com/album?id=92024685"
+    }
+  },
+  {
+    "name": "Warning Signs",
+    "link": "https://music.163.com/song?id=1421173890",
+    "duration": "03:48",
+    "artists": [
+      {
+        "name": "Hex Cougar",
+        "link": "https://music.163.com/artist?id=1081443"
+      },
+      { "name": "Kuuro", "link": "https://music.163.com/artist?id=12131546" }
+    ],
+    "album": {
+      "name": "Warning Signs",
+      "link": "https://music.163.com/album?id=85501885"
+    }
+  },
+  {
+    "name": "Unity",
+    "link": "https://music.163.com/song?id=411907349",
+    "duration": "05:05",
+    "artists": [
+      {
+        "name": "Jordan Kelvin James",
+        "link": "https://music.163.com/artist?id=1120171"
+      },
+      { "name": "Starlyte", "link": "https://music.163.com/artist?id=12006394" }
+    ],
+    "album": {
+      "name": "Unity",
+      "link": "https://music.163.com/album?id=34686438"
+    }
+  },
+  {
+    "name": "Re*Vanilla",
+    "link": "https://music.163.com/song?id=529391624",
+    "duration": "02:38",
+    "artists": [
+      { "name": "Banshi", "link": "https://music.163.com/artist?id=29864694" }
+    ],
+    "album": {
+      "name": "crystal snow e​.​p.",
+      "link": "https://music.163.com/album?id=37099569"
+    }
+  }
+]

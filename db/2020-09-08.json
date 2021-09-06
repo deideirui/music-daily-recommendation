@@ -1,0 +1,500 @@
+[
+  {
+    "name": "Love Like Us (feat. RUNN)",
+    "link": "https://music.163.com/song?id=1471948142",
+    "duration": "03:54",
+    "artists": [
+      {
+        "name": "Last Heroes",
+        "link": "https://music.163.com/artist?id=11987034"
+      },
+      { "name": "Runn", "link": "https://music.163.com/artist?id=15237536" }
+    ],
+    "album": {
+      "name": "Love Like Us (feat. RUNN)",
+      "link": "https://music.163.com/album?id=94117714"
+    }
+  },
+  {
+    "name": "For What It's Worth",
+    "link": "https://music.163.com/song?id=1406396085",
+    "duration": "02:52",
+    "artists": [
+      {
+        "name": "Tiggi Hawke",
+        "link": "https://music.163.com/artist?id=12047351"
+      },
+      { "name": "Sondr", "link": "https://music.163.com/artist?id=12023180" }
+    ],
+    "album": {
+      "name": "For What It's Worth",
+      "link": "https://music.163.com/album?id=83731961"
+    }
+  },
+  {
+    "name": "What's Done Is Done (Delta Heavy Remix)",
+    "link": "https://music.163.com/song?id=1459161363",
+    "duration": "04:05",
+    "artists": [
+      {
+        "name": "Seven Lions",
+        "link": "https://music.163.com/artist?id=44204"
+      },
+      { "name": "HALIENE", "link": "https://music.163.com/artist?id=13202710" },
+      {
+        "name": "Delta Heavy",
+        "link": "https://music.163.com/artist?id=757017"
+      }
+    ],
+    "album": {
+      "name": "Find Another Way (Remixes)",
+      "link": "https://music.163.com/album?id=91732603"
+    }
+  },
+  {
+    "name": "I'll Wait",
+    "link": "https://music.163.com/song?id=1434419312",
+    "duration": "03:35",
+    "artists": [
+      { "name": "Kygo", "link": "https://music.163.com/artist?id=844410" },
+      {
+        "name": "Sasha Sloan",
+        "link": "https://music.163.com/artist?id=12646102"
+      }
+    ],
+    "album": {
+      "name": "I'll Wait",
+      "link": "https://music.163.com/album?id=86883079"
+    }
+  },
+  {
+    "name": "Biting My Lip",
+    "link": "https://music.163.com/song?id=1465220382",
+    "duration": "03:47",
+    "artists": [
+      {
+        "name": "Thomas Gold",
+        "link": "https://music.163.com/artist?id=196219"
+      },
+      { "name": "Kosling", "link": "https://music.163.com/artist?id=29289583" },
+      {
+        "name": "Richard Judge",
+        "link": "https://music.163.com/artist?id=1147093"
+      }
+    ],
+    "album": {
+      "name": "Biting My Lip",
+      "link": "https://music.163.com/album?id=92926762"
+    }
+  },
+  {
+    "name": "Good Together",
+    "link": "https://music.163.com/song?id=1434225467",
+    "duration": "03:57",
+    "artists": [
+      { "name": "Shallou", "link": "https://music.163.com/artist?id=12029377" },
+      { "name": "Ashe", "link": "https://music.163.com/artist?id=12278097" }
+    ],
+    "album": {
+      "name": "Magical Thinking",
+      "link": "https://music.163.com/album?id=86859888"
+    }
+  },
+  {
+    "name": "Waiting",
+    "link": "https://music.163.com/song?id=1364530152",
+    "duration": "03:25",
+    "artists": [
+      { "name": "Vicetone", "link": "https://music.163.com/artist?id=747030" },
+      {
+        "name": "Daisy Guttridge",
+        "link": "https://music.163.com/artist?id=13222414"
+      },
+      {
+        "name": "Eric Leva",
+        "link": "https://music.163.com/artist?id=14269985"
+      }
+    ],
+    "album": {
+      "name": "Waiting",
+      "link": "https://music.163.com/album?id=79053879"
+    }
+  },
+  {
+    "name": "I'd Do It Again",
+    "link": "https://music.163.com/song?id=1369985055",
+    "duration": "03:29",
+    "artists": [
+      { "name": "CRaymak", "link": "https://music.163.com/artist?id=1192118" },
+      {
+        "name": "Saint Yves",
+        "link": "https://music.163.com/artist?id=14911934"
+      }
+    ],
+    "album": {
+      "name": "I'd Do It Again",
+      "link": "https://music.163.com/album?id=79629405"
+    }
+  },
+  {
+    "name": "Takeaway",
+    "link": "https://music.163.com/song?id=1380001880",
+    "duration": "03:29",
+    "artists": [
+      {
+        "name": "The Chainsmokers",
+        "link": "https://music.163.com/artist?id=893484"
+      },
+      { "name": "ILLENIUM", "link": "https://music.163.com/artist?id=1050518" },
+      {
+        "name": "Lennon Stella",
+        "link": "https://music.163.com/artist?id=12213160"
+      }
+    ],
+    "album": {
+      "name": "World War Joy...Takeaway",
+      "link": "https://music.163.com/album?id=78222139"
+    }
+  },
+  {
+    "name": "Selfish",
+    "link": "https://music.163.com/song?id=1371711645",
+    "duration": "03:32",
+    "artists": [
+      {
+        "name": "Virginia To Vegas",
+        "link": "https://music.163.com/artist?id=942191"
+      }
+    ],
+    "album": {
+      "name": "Hartland St.",
+      "link": "https://music.163.com/album?id=79787048"
+    }
+  },
+  {
+    "name": "Lost with You",
+    "link": "https://music.163.com/song?id=1385542436",
+    "duration": "04:07",
+    "artists": [
+      { "name": "Far Out", "link": "https://music.163.com/artist?id=824107" },
+      {
+        "name": "Ruby Chase",
+        "link": "https://music.163.com/artist?id=29781533"
+      }
+    ],
+    "album": {
+      "name": "Lost with You",
+      "link": "https://music.163.com/album?id=81061298"
+    }
+  },
+  {
+    "name": "Airplane",
+    "link": "https://music.163.com/song?id=1446962953",
+    "duration": "03:47",
+    "artists": [
+      { "name": "Max Oazo", "link": "https://music.163.com/artist?id=13159084" }
+    ],
+    "album": {
+      "name": "Airplane",
+      "link": "https://music.163.com/album?id=89240666"
+    }
+  },
+  {
+    "name": "Quiet Sound",
+    "link": "https://music.163.com/song?id=1430420634",
+    "duration": "03:22",
+    "artists": [
+      { "name": "Manse", "link": "https://music.163.com/artist?id=855409" },
+      {
+        "name": "Rich Edwards",
+        "link": "https://music.163.com/artist?id=1038214"
+      }
+    ],
+    "album": {
+      "name": "Quiet Sound",
+      "link": "https://music.163.com/album?id=86456257"
+    }
+  },
+  {
+    "name": "Drove You Away",
+    "link": "https://music.163.com/song?id=1406417163",
+    "duration": "03:15",
+    "artists": [
+      {
+        "name": "Fly by Midnight",
+        "link": "https://music.163.com/artist?id=1163027"
+      }
+    ],
+    "album": {
+      "name": "Happy About Everything Else...",
+      "link": "https://music.163.com/album?id=83737510"
+    }
+  },
+  {
+    "name": "WHAT IF YOU FELL IN LOVE?",
+    "link": "https://music.163.com/song?id=1355150031",
+    "duration": "03:18",
+    "artists": [
+      {
+        "name": "Jake Miller",
+        "link": "https://music.163.com/artist?id=776761"
+      }
+    ],
+    "album": {
+      "name": "BASED ON A TRUE STORY.",
+      "link": "https://music.163.com/album?id=78243648"
+    }
+  },
+  {
+    "name": "Body Back (MitiS Remix)",
+    "link": "https://music.163.com/song?id=1419448378",
+    "duration": "04:22",
+    "artists": [
+      { "name": "Gryffin", "link": "https://music.163.com/artist?id=1181504" },
+      {
+        "name": "Maia Wright",
+        "link": "https://music.163.com/artist?id=12561660"
+      },
+      { "name": "MitiS", "link": "https://music.163.com/artist?id=40245" }
+    ],
+    "album": {
+      "name": "Body Back (The Remixes)",
+      "link": "https://music.163.com/album?id=85305174"
+    }
+  },
+  {
+    "name": "85% (Acoustic)",
+    "link": "https://music.163.com/song?id=1361335791",
+    "duration": "02:40",
+    "artists": [
+      { "name": "Loote", "link": "https://music.163.com/artist?id=12408152" }
+    ],
+    "album": {
+      "name": "85% (Acoustic)",
+      "link": "https://music.163.com/album?id=78779461"
+    }
+  },
+  {
+    "name": "Feel Your Touch",
+    "link": "https://music.163.com/song?id=1421558586",
+    "duration": "02:48",
+    "artists": [
+      {
+        "name": "RetroVision",
+        "link": "https://music.163.com/artist?id=11976142"
+      }
+    ],
+    "album": {
+      "name": "Feel Your Touch",
+      "link": "https://music.163.com/album?id=85556328"
+    }
+  },
+  {
+    "name": "I Like When We",
+    "link": "https://music.163.com/song?id=1431478623",
+    "duration": "04:09",
+    "artists": [
+      {
+        "name": "Jesper Jenset",
+        "link": "https://music.163.com/artist?id=1081707"
+      }
+    ],
+    "album": {
+      "name": "Facade",
+      "link": "https://music.163.com/album?id=86558278"
+    }
+  },
+  {
+    "name": "Mistakes",
+    "link": "https://music.163.com/song?id=1426850713",
+    "duration": "03:06",
+    "artists": [
+      {
+        "name": "Jonas Blue",
+        "link": "https://music.163.com/artist?id=1192069"
+      },
+      {
+        "name": "Paloma Faith",
+        "link": "https://music.163.com/artist?id=72526"
+      }
+    ],
+    "album": {
+      "name": "Mistakes",
+      "link": "https://music.163.com/album?id=86094739"
+    }
+  },
+  {
+    "name": "Coconut",
+    "link": "https://music.163.com/song?id=1422630486",
+    "duration": "02:52",
+    "artists": [
+      { "name": "Kastelo", "link": "https://music.163.com/artist?id=33706224" },
+      { "name": "Nev", "link": "https://music.163.com/artist?id=137569" }
+    ],
+    "album": {
+      "name": "Coconut",
+      "link": "https://music.163.com/album?id=85652831"
+    }
+  },
+  {
+    "name": "Enemies",
+    "link": "https://music.163.com/song?id=564000298",
+    "duration": "03:14",
+    "artists": [
+      { "name": "Lauv", "link": "https://music.163.com/artist?id=1057226" }
+    ],
+    "album": {
+      "name": "I met you when I was 18. (the playlist)",
+      "link": "https://music.163.com/album?id=39087647"
+    }
+  },
+  {
+    "name": "Underground",
+    "link": "https://music.163.com/song?id=1438895873",
+    "duration": "02:59",
+    "artists": [
+      { "name": "HIDDN", "link": "https://music.163.com/artist?id=12322027" }
+    ],
+    "album": {
+      "name": "Underground",
+      "link": "https://music.163.com/album?id=87799391"
+    }
+  },
+  {
+    "name": "What Is Love 2016",
+    "link": "https://music.163.com/song?id=1474753510",
+    "duration": "03:08",
+    "artists": [
+      {
+        "name": "Lost Frequencies",
+        "link": "https://music.163.com/artist?id=1039114"
+      }
+    ],
+    "album": {
+      "name": "Armada Classics - Remixed (Vol. 8)",
+      "link": "https://music.163.com/album?id=94625318"
+    }
+  },
+  {
+    "name": "Number",
+    "link": "https://music.163.com/song?id=537407969",
+    "duration": "02:59",
+    "artists": [
+      {
+        "name": "Alexander Oscar",
+        "link": "https://music.163.com/artist?id=12312150"
+      }
+    ],
+    "album": {
+      "name": "Number",
+      "link": "https://music.163.com/album?id=37561418"
+    }
+  },
+  {
+    "name": "Library Thugs",
+    "link": "https://music.163.com/song?id=1400753311",
+    "duration": "02:20",
+    "artists": [
+      {
+        "name": "Jonas Aden",
+        "link": "https://music.163.com/artist?id=12029056"
+      },
+      {
+        "name": "Conor Ross",
+        "link": "https://music.163.com/artist?id=13128139"
+      },
+      { "name": "RebMoe", "link": "https://music.163.com/artist?id=13228188" }
+    ],
+    "album": {
+      "name": "Library Thugs",
+      "link": "https://music.163.com/album?id=82955399"
+    }
+  },
+  {
+    "name": "Here With Me (feat. Nevve)",
+    "link": "https://music.163.com/song?id=1410775641",
+    "duration": "03:22",
+    "artists": [
+      { "name": "ARMNHMR", "link": "https://music.163.com/artist?id=1132078" },
+      { "name": "Nevve", "link": "https://music.163.com/artist?id=12567101" }
+    ],
+    "album": {
+      "name": "Here With Me (feat. Nevve)",
+      "link": "https://music.163.com/album?id=84233860"
+    }
+  },
+  {
+    "name": "Let's Be Free",
+    "link": "https://music.163.com/song?id=1418382143",
+    "duration": "03:03",
+    "artists": [
+      {
+        "name": "Blackcode",
+        "link": "https://music.163.com/artist?id=30013002"
+      },
+      { "name": "Feerty", "link": "https://music.163.com/artist?id=29436784" },
+      {
+        "name": "Revealed Recordings",
+        "link": "https://music.163.com/artist?id=28753573"
+      },
+      {
+        "name": "PRYVT RYN",
+        "link": "https://music.163.com/artist?id=13902661"
+      }
+    ],
+    "album": {
+      "name": "Let's Be Free",
+      "link": "https://music.163.com/album?id=85158505"
+    }
+  },
+  {
+    "name": "Don't Know Why",
+    "link": "https://music.163.com/song?id=1389240548",
+    "duration": "04:15",
+    "artists": [
+      {
+        "name": "We Are Fury",
+        "link": "https://music.163.com/artist?id=12506160"
+      },
+      {
+        "name": "Danyka Nadeau",
+        "link": "https://music.163.com/artist?id=1078277"
+      }
+    ],
+    "album": {
+      "name": "DAWN",
+      "link": "https://music.163.com/album?id=81433441"
+    }
+  },
+  {
+    "name": "To The End",
+    "link": "https://music.163.com/song?id=1398909221",
+    "duration": "02:53",
+    "artists": [
+      {
+        "name": "Asketa & Natan Chaim",
+        "link": "https://music.163.com/artist?id=32523005"
+      },
+      {
+        "name": "Do It Big",
+        "link": "https://music.163.com/artist?id=13498377"
+      }
+    ],
+    "album": {
+      "name": "To The End",
+      "link": "https://music.163.com/album?id=82705212"
+    }
+  },
+  {
+    "name": "If Only You (Dub Mix)",
+    "link": "https://music.163.com/song?id=1302168986",
+    "duration": "04:06",
+    "artists": [
+      { "name": "Suprafive", "link": "https://music.163.com/artist?id=1022142" }
+    ],
+    "album": {
+      "name": "SPRV Dub Mixes",
+      "link": "https://music.163.com/album?id=72337852"
+    }
+  }
+]

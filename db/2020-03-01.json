@@ -1,0 +1,459 @@
+[
+  {
+    "name": "Don't You Worry Child (Charming Horses Remix)",
+    "link": "https://music.163.com/song?id=403710479",
+    "duration": "03:36",
+    "artists": [
+      { "name": "Beth", "link": "https://music.163.com/artist?id=50791" },
+      {
+        "name": "Charming Horses",
+        "link": "https://music.163.com/artist?id=1137480"
+      }
+    ],
+    "album": {
+      "name": "Armada Sunset, Vol. 3",
+      "link": "https://music.163.com/album?id=34497122"
+    }
+  },
+  {
+    "name": "All In My Head",
+    "link": "https://music.163.com/song?id=34923725",
+    "duration": "04:43",
+    "artists": [
+      { "name": "Nadia Ali", "link": "https://music.163.com/artist?id=70174" },
+      { "name": "PANG!", "link": "https://music.163.com/artist?id=367927" }
+    ],
+    "album": {
+      "name": "All In My Head",
+      "link": "https://music.163.com/album?id=3306245"
+    }
+  },
+  {
+    "name": "Walk Thru Fire ",
+    "link": "https://music.163.com/song?id=1322460396",
+    "duration": "03:14",
+    "artists": [
+      { "name": "Vicetone", "link": "https://music.163.com/artist?id=747030" },
+      {
+        "name": "Meron Ryan",
+        "link": "https://music.163.com/artist?id=1181020"
+      }
+    ],
+    "album": {
+      "name": "Monstercat Instinct Vol. 2",
+      "link": "https://music.163.com/album?id=74225629"
+    }
+  },
+  {
+    "name": "Bleeding",
+    "link": "https://music.163.com/song?id=28592500",
+    "duration": "03:23",
+    "artists": [
+      {
+        "name": "The Ready Set",
+        "link": "https://music.163.com/artist?id=44458"
+      }
+    ],
+    "album": {
+      "name": "The Bad & The Better",
+      "link": "https://music.163.com/album?id=2848248"
+    }
+  },
+  {
+    "name": "Mysterious Girl",
+    "link": "https://music.163.com/song?id=28190369",
+    "duration": "03:37",
+    "artists": [
+      {
+        "name": "Sunrise Inc",
+        "link": "https://music.163.com/artist?id=101870"
+      }
+    ],
+    "album": {
+      "name": "Mysterious Girl",
+      "link": "https://music.163.com/album?id=2743036"
+    }
+  },
+  {
+    "name": "On The Top",
+    "link": "https://music.163.com/song?id=440208814",
+    "duration": "03:32",
+    "artists": [
+      { "name": "LIZOT", "link": "https://music.163.com/artist?id=1137483" },
+      {
+        "name": "Emelie Cyréus",
+        "link": "https://music.163.com/artist?id=13312243"
+      }
+    ],
+    "album": {
+      "name": "On The Top",
+      "link": "https://music.163.com/album?id=34985248"
+    }
+  },
+  {
+    "name": "Set Me Free",
+    "link": "https://music.163.com/song?id=1311826934",
+    "duration": "03:00",
+    "artists": [
+      {
+        "name": "Max Oazo",
+        "link": "https://music.163.com/artist?id=13159084"
+      },
+      { "name": "Cami", "link": "https://music.163.com/artist?id=283909" }
+    ],
+    "album": {
+      "name": "Set Me Free",
+      "link": "https://music.163.com/album?id=73535928"
+    }
+  },
+  {
+    "name": "Insomnia",
+    "link": "https://music.163.com/song?id=1350638256",
+    "duration": "02:59",
+    "artists": [
+      { "name": "Daya", "link": "https://music.163.com/artist?id=1081186" }
+    ],
+    "album": {
+      "name": "Insomnia",
+      "link": "https://music.163.com/album?id=75797761"
+    }
+  },
+  {
+    "name": "Stuttering",
+    "link": "https://music.163.com/song?id=17783969",
+    "duration": "03:09",
+    "artists": [
+      { "name": "Fefe Dobson", "link": "https://music.163.com/artist?id=57223" }
+    ],
+    "album": {
+      "name": "Stuttering",
+      "link": "https://music.163.com/album?id=1636868"
+    }
+  },
+  {
+    "name": "New Dance",
+    "link": "https://music.163.com/song?id=1323272440",
+    "duration": "02:40",
+    "artists": [
+      { "name": "MKJ", "link": "https://music.163.com/artist?id=469200" }
+    ],
+    "album": {
+      "name": "Time After Time",
+      "link": "https://music.163.com/album?id=74263822"
+    }
+  },
+  {
+    "name": "So Am I",
+    "link": "https://music.163.com/song?id=1349945658",
+    "duration": "03:04",
+    "artists": [
+      { "name": "Ava Max", "link": "https://music.163.com/artist?id=14486166" }
+    ],
+    "album": {
+      "name": "So Am I",
+      "link": "https://music.163.com/album?id=75764156"
+    }
+  },
+  {
+    "name": "Only Dreamers",
+    "link": "https://music.163.com/song?id=22228497",
+    "duration": "03:31",
+    "artists": [
+      {
+        "name": "Helene Fischer",
+        "link": "https://music.163.com/artist?id=60252"
+      }
+    ],
+    "album": {
+      "name": "Best Of",
+      "link": "https://music.163.com/album?id=2043289"
+    }
+  },
+  {
+    "name": "When I see the light at that Time",
+    "link": "https://music.163.com/song?id=510309106",
+    "duration": "04:29",
+    "artists": [
+      {
+        "name": "Snigellin",
+        "link": "https://music.163.com/artist?id=12052064"
+      }
+    ],
+    "album": {
+      "name": "When I see the light at that Time",
+      "link": "https://music.163.com/album?id=36460593"
+    }
+  },
+  {
+    "name": "Age Of Innocence",
+    "link": "https://music.163.com/song?id=35470925",
+    "duration": "03:30",
+    "artists": [
+      { "name": "Trouze", "link": "https://music.163.com/artist?id=12262447" },
+      { "name": "Elephante", "link": "https://music.163.com/artist?id=1050284" }
+    ],
+    "album": {
+      "name": "Age Of Innocence",
+      "link": "https://music.163.com/album?id=3317585"
+    }
+  },
+  {
+    "name": "Au Volant",
+    "link": "https://music.163.com/song?id=426906738",
+    "duration": "03:15",
+    "artists": [
+      {
+        "name": "Elsa & Emilie",
+        "link": "https://music.163.com/artist?id=1003033"
+      }
+    ],
+    "album": {
+      "name": "Au Volant",
+      "link": "https://music.163.com/album?id=34844063"
+    }
+  },
+  {
+    "name": "Better Apart",
+    "link": "https://music.163.com/song?id=1354608659",
+    "duration": "03:54",
+    "artists": [
+      { "name": "Jai Wolf", "link": "https://music.163.com/artist?id=1063048" },
+      { "name": "Dresage", "link": "https://music.163.com/artist?id=12845274" }
+    ],
+    "album": {
+      "name": "The Cure To Loneliness",
+      "link": "https://music.163.com/album?id=78300643"
+    }
+  },
+  {
+    "name": "Speeding Cars",
+    "link": "https://music.163.com/song?id=36215395",
+    "duration": "04:02",
+    "artists": [
+      {
+        "name": "Walking On Cars",
+        "link": "https://music.163.com/artist?id=743047"
+      }
+    ],
+    "album": {
+      "name": "Everything This Way",
+      "link": "https://music.163.com/album?id=3388155"
+    }
+  },
+  {
+    "name": "Fading",
+    "link": "https://music.163.com/song?id=1320697603",
+    "duration": "03:27",
+    "artists": [
+      {
+        "name": "Alle Farben",
+        "link": "https://music.163.com/artist?id=206027"
+      },
+      { "name": "Ilira", "link": "https://music.163.com/artist?id=847380" }
+    ],
+    "album": {
+      "name": "Fading",
+      "link": "https://music.163.com/album?id=74107109"
+    }
+  },
+  {
+    "name": "Versailles",
+    "link": "https://music.163.com/song?id=1341925028",
+    "duration": "03:36",
+    "artists": [
+      { "name": "Axollo", "link": "https://music.163.com/artist?id=12041012" },
+      { "name": "MAJRO", "link": "https://music.163.com/artist?id=31350786" }
+    ],
+    "album": {
+      "name": "Versailles",
+      "link": "https://music.163.com/album?id=75321374"
+    }
+  },
+  {
+    "name": "Limitless (feat. Sophie Rose)",
+    "link": "https://music.163.com/song?id=504399003",
+    "duration": "03:30",
+    "artists": [
+      { "name": "SAM F", "link": "https://music.163.com/artist?id=12074533" },
+      { "name": "Sophie Rose", "link": "https://music.163.com/artist?id=78099" }
+    ],
+    "album": {
+      "name": "Limitless (feat. Sophie Rose) (Remixes)",
+      "link": "https://music.163.com/album?id=36108321"
+    }
+  },
+  {
+    "name": "Replay",
+    "link": "https://music.163.com/song?id=501326901",
+    "duration": "03:22",
+    "artists": [
+      { "name": "Cire", "link": "https://music.163.com/artist?id=344911" },
+      { "name": "Davaï", "link": "https://music.163.com/artist?id=12526499" }
+    ],
+    "album": {
+      "name": "Replay",
+      "link": "https://music.163.com/album?id=35903920"
+    }
+  },
+  {
+    "name": "Cut Loose",
+    "link": "https://music.163.com/song?id=567098986",
+    "duration": "03:25",
+    "artists": [
+      { "name": "Emma Bale", "link": "https://music.163.com/artist?id=1044152" }
+    ],
+    "album": {
+      "name": "Cut Loose",
+      "link": "https://music.163.com/album?id=39318388"
+    }
+  },
+  {
+    "name": "Inside Out",
+    "link": "https://music.163.com/song?id=1309975421",
+    "duration": "03:07",
+    "artists": [
+      {
+        "name": "ItaloBrothers",
+        "link": "https://music.163.com/artist?id=94730"
+      }
+    ],
+    "album": {
+      "name": "Inside Out",
+      "link": "https://music.163.com/album?id=73332809"
+    }
+  },
+  {
+    "name": "Just Dance",
+    "link": "https://music.163.com/song?id=21038756",
+    "duration": "04:01",
+    "artists": [
+      { "name": "Lady Gaga", "link": "https://music.163.com/artist?id=64147" },
+      { "name": "RedOne", "link": "https://music.163.com/artist?id=42886" },
+      {
+        "name": "Colby O'Donis",
+        "link": "https://music.163.com/artist?id=29983"
+      }
+    ],
+    "album": {
+      "name": "Just Dance",
+      "link": "https://music.163.com/album?id=1947208"
+    }
+  },
+  {
+    "name": "Let It Die",
+    "link": "https://music.163.com/song?id=30053583",
+    "duration": "03:51",
+    "artists": [
+      {
+        "name": "Tayler Buono",
+        "link": "https://music.163.com/artist?id=83212"
+      }
+    ],
+    "album": {
+      "name": "Unseen",
+      "link": "https://music.163.com/album?id=3092084"
+    }
+  },
+  {
+    "name": "Release The Pain",
+    "link": "https://music.163.com/song?id=28892127",
+    "duration": "03:59",
+    "artists": [
+      { "name": "Lora", "link": "https://music.163.com/artist?id=66158" }
+    ],
+    "album": {
+      "name": "最新热歌慢摇76",
+      "link": "https://music.163.com/album?id=2923073"
+    }
+  },
+  {
+    "name": "Pendulum",
+    "link": "https://music.163.com/song?id=27949670",
+    "duration": "03:59",
+    "artists": [
+      {
+        "name": "Tatiana Owens",
+        "link": "https://music.163.com/artist?id=1047320"
+      }
+    ],
+    "album": {
+      "name": "最新热歌慢摇31",
+      "link": "https://music.163.com/album?id=2698209"
+    }
+  },
+  {
+    "name": "the nights",
+    "link": "https://music.163.com/song?id=535214115",
+    "duration": "03:05",
+    "artists": [
+      { "name": "Axerem", "link": "https://music.163.com/artist?id=13153597" }
+    ],
+    "album": {
+      "name": "the nights",
+      "link": "https://music.163.com/album?id=37440689"
+    }
+  },
+  {
+    "name": "Watch Me Fly",
+    "link": "https://music.163.com/song?id=31356283",
+    "duration": "04:07",
+    "artists": [
+      {
+        "name": "Elliot Hamilton Brown",
+        "link": "https://music.163.com/artist?id=1058196"
+      }
+    ],
+    "album": {
+      "name": "Empyrean",
+      "link": "https://music.163.com/album?id=3117469"
+    }
+  },
+  {
+    "name": "Love Come Down",
+    "link": "https://music.163.com/song?id=28478411",
+    "duration": "03:09",
+    "artists": [
+      {
+        "name": "Bodybangers",
+        "link": "https://music.163.com/artist?id=220606"
+      },
+      { "name": "Tome", "link": "https://music.163.com/artist?id=932009" },
+      {
+        "name": "Jaicko Lawrence",
+        "link": "https://music.163.com/artist?id=932010"
+      }
+    ],
+    "album": {
+      "name": "Kirmes Sound's Vol. 6 ",
+      "link": "https://music.163.com/album?id=2807871"
+    }
+  },
+  {
+    "name": "Max Oazo;Moonessa-Once Upon a Time (Bonzana Remix)",
+    "link": "https://music.163.com/song?id=1337605608",
+    "duration": "04:19",
+    "artists": [
+      {
+        "name": "Axele/Music",
+        "link": "https://music.163.com/artist?id=30003710"
+      },
+      { "name": "Max Oazo", "link": "https://music.163.com/artist?id=13159084" }
+    ],
+    "album": {
+      "name": "Once Upon a Time (Bonzana Remix)",
+      "link": "https://music.163.com/album?id=75038963"
+    }
+  },
+  {
+    "name": "50 Feet",
+    "link": "https://music.163.com/song?id=526116053",
+    "duration": "03:05",
+    "artists": [
+      { "name": "SoMo", "link": "https://music.163.com/artist?id=892040" }
+    ],
+    "album": {
+      "name": "50 Feet",
+      "link": "https://music.163.com/album?id=37026331"
+    }
+  }
+]

@@ -1,0 +1,465 @@
+[
+  {
+    "name": "My 22 (Inst.)",
+    "link": "https://music.163.com/song?id=1330972472",
+    "duration": "03:14",
+    "artists": [
+      { "name": "逆时针向", "link": "https://music.163.com/artist?id=12128251" }
+    ],
+    "album": {
+      "name": "My 22",
+      "link": "https://music.163.com/album?id=74748693"
+    }
+  },
+  {
+    "name": "告白之夜（纯音乐）（Cover：Ayasa绚沙）",
+    "link": "https://music.163.com/song?id=1353301300",
+    "duration": "01:01",
+    "artists": [
+      { "name": "CMJ", "link": "https://music.163.com/artist?id=12157336" }
+    ],
+    "album": {
+      "name": "告白の夜",
+      "link": "https://music.163.com/album?id=75869575"
+    }
+  },
+  {
+    "name": "Memory_α",
+    "link": "https://music.163.com/song?id=527286376",
+    "duration": "03:29",
+    "artists": [
+      { "name": "K kure", "link": "https://music.163.com/artist?id=12256202" },
+      { "name": "TAVOS", "link": "https://music.163.com/artist?id=12491406" }
+    ],
+    "album": {
+      "name": "Memory_α",
+      "link": "https://music.163.com/album?id=37112444"
+    }
+  },
+  {
+    "name": "By Your Side",
+    "link": "https://music.163.com/song?id=437909145",
+    "duration": "03:21",
+    "artists": [
+      {
+        "name": "Jonas Blue",
+        "link": "https://music.163.com/artist?id=1192069"
+      },
+      { "name": "Raye", "link": "https://music.163.com/artist?id=1077053" }
+    ],
+    "album": {
+      "name": "By Your Side",
+      "link": "https://music.163.com/album?id=34950031"
+    }
+  },
+  {
+    "name": "Afterglow",
+    "link": "https://music.163.com/song?id=530397372",
+    "duration": "02:38",
+    "artists": [
+      { "name": "Saiakoup", "link": "https://music.163.com/artist?id=12083147" }
+    ],
+    "album": {
+      "name": "Afterglow",
+      "link": "https://music.163.com/album?id=37271204"
+    }
+  },
+  {
+    "name": "渺小祈愿",
+    "link": "https://music.163.com/song?id=1384527320",
+    "duration": "03:50",
+    "artists": [
+      { "name": "星葵77", "link": "https://music.163.com/artist?id=12919057" }
+    ],
+    "album": {
+      "name": "渺小祈愿【HB to COP】",
+      "link": "https://music.163.com/album?id=80934197"
+    }
+  },
+  {
+    "name": "Rolling Dice (Last Heroes Remix)",
+    "link": "https://music.163.com/song?id=453492007",
+    "duration": "03:26",
+    "artists": [
+      {
+        "name": "Last Heroes",
+        "link": "https://music.163.com/artist?id=11987034"
+      },
+      {
+        "name": "Just A Gent",
+        "link": "https://music.163.com/artist?id=893239"
+      }
+    ],
+    "album": {
+      "name": "Rolling Dice (Last Heroes Remix)",
+      "link": "https://music.163.com/album?id=35123625"
+    }
+  },
+  {
+    "name": "Unbreakable (feat. Danyka Nadeau)",
+    "link": "https://music.163.com/song?id=410925171",
+    "duration": "04:24",
+    "artists": [
+      {
+        "name": "Hyper Potions",
+        "link": "https://music.163.com/artist?id=1074092"
+      },
+      {
+        "name": "Danyka Nadeau",
+        "link": "https://music.163.com/artist?id=1078277"
+      }
+    ],
+    "album": {
+      "name": "Unbreakable (feat. Danyka Nadeau)",
+      "link": "https://music.163.com/album?id=34609953"
+    }
+  },
+  {
+    "name": "Show & Tell",
+    "link": "https://music.163.com/song?id=1301861948",
+    "duration": "03:05",
+    "artists": [
+      {
+        "name": "Said The Sky",
+        "link": "https://music.163.com/artist?id=1026094"
+      },
+      {
+        "name": "Claire Ridgely",
+        "link": "https://music.163.com/artist?id=14935781"
+      }
+    ],
+    "album": {
+      "name": "Wide-Eyed",
+      "link": "https://music.163.com/album?id=72316725"
+    }
+  },
+  {
+    "name": "Let Me Down Slowly",
+    "link": "https://music.163.com/song?id=1338098071",
+    "duration": "02:49",
+    "artists": [
+      {
+        "name": "Alec Benjamin",
+        "link": "https://music.163.com/artist?id=1028104"
+      },
+      {
+        "name": "Alessia Cara",
+        "link": "https://music.163.com/artist?id=1074089"
+      }
+    ],
+    "album": {
+      "name": "Let Me Down Slowly",
+      "link": "https://music.163.com/album?id=75079273"
+    }
+  },
+  {
+    "name": "Rays of Light",
+    "link": "https://music.163.com/song?id=28819017",
+    "duration": "03:52",
+    "artists": [
+      { "name": "Broiler", "link": "https://music.163.com/artist?id=886022" }
+    ],
+    "album": {
+      "name": "Rays of Light",
+      "link": "https://music.163.com/album?id=2902011"
+    }
+  },
+  {
+    "name": "Happy",
+    "link": "https://music.163.com/song?id=512691214",
+    "duration": "03:12",
+    "artists": [
+      { "name": "LJY", "link": "https://music.163.com/artist?id=1211039" }
+    ],
+    "album": {
+      "name": "Happy",
+      "link": "https://music.163.com/album?id=36520845"
+    }
+  },
+  {
+    "name": "Everything Changed",
+    "link": "https://music.163.com/song?id=506139197",
+    "duration": "04:35",
+    "artists": [
+      {
+        "name": "John Stanford",
+        "link": "https://music.163.com/artist?id=37294"
+      },
+      {
+        "name": "Dallin Applebaum",
+        "link": "https://music.163.com/artist?id=29033370"
+      }
+    ],
+    "album": {
+      "name": "Automatica",
+      "link": "https://music.163.com/album?id=36049733"
+    }
+  },
+  {
+    "name": "U Make Me",
+    "link": "https://music.163.com/song?id=544056528",
+    "duration": "03:08",
+    "artists": [
+      {
+        "name": "Disco Fries",
+        "link": "https://music.163.com/artist?id=330684"
+      },
+      {
+        "name": "Raquel Castro",
+        "link": "https://music.163.com/artist?id=896205"
+      }
+    ],
+    "album": {
+      "name": "U Make Me",
+      "link": "https://music.163.com/album?id=37763691"
+    }
+  },
+  {
+    "name": "Beautiful World (Radio Edit)",
+    "link": "https://music.163.com/song?id=28119432",
+    "duration": "03:25",
+    "artists": [
+      {
+        "name": "Paul Oakenfold",
+        "link": "https://music.163.com/artist?id=41200"
+      },
+      { "name": "Spitfire", "link": "https://music.163.com/artist?id=76139" },
+      {
+        "name": "Disfunktion",
+        "link": "https://music.163.com/artist?id=851543"
+      }
+    ],
+    "album": {
+      "name": "Armada House - Best Of 2013",
+      "link": "https://music.163.com/album?id=2730921"
+    }
+  },
+  {
+    "name": "Masked Raver",
+    "link": "https://music.163.com/song?id=440207015",
+    "duration": "04:43",
+    "artists": [
+      { "name": "Vexento", "link": "https://music.163.com/artist?id=12037010" }
+    ],
+    "album": {
+      "name": "Masked Raver",
+      "link": "https://music.163.com/album?id=34984014"
+    }
+  },
+  {
+    "name": "Airplanes [ft. Hayley Williams](AndyWho Remix) ",
+    "link": "https://music.163.com/song?id=34766107",
+    "duration": "04:16",
+    "artists": [
+      { "name": "AndyWho", "link": "https://music.163.com/artist?id=1150144" },
+      { "name": "B.o.B", "link": "https://music.163.com/artist?id=129271" },
+      {
+        "name": "Hayley Williams",
+        "link": "https://music.163.com/artist?id=60268"
+      }
+    ],
+    "album": {
+      "name": "Airplanes [ft. Hayley Williams](AndyWho Remix)",
+      "link": "https://music.163.com/album?id=3295362"
+    }
+  },
+  {
+    "name": "Begin",
+    "link": "https://music.163.com/song?id=469699866",
+    "duration": "04:02",
+    "artists": [
+      { "name": "Shallou", "link": "https://music.163.com/artist?id=12029377" },
+      { "name": "Wales", "link": "https://music.163.com/artist?id=27873985" }
+    ],
+    "album": {
+      "name": "Begin",
+      "link": "https://music.163.com/album?id=35327920"
+    }
+  },
+  {
+    "name": "Sad Machine (Xeuphoria's Goodbye Ver.)",
+    "link": "https://music.163.com/song?id=406086508",
+    "duration": "02:35",
+    "artists": [
+      { "name": "Xeuphoria", "link": "https://music.163.com/artist?id=1064078" }
+    ],
+    "album": {
+      "name": "Sad Machine (Xeuphoria's Goodbye Ver.)",
+      "link": "https://music.163.com/album?id=34527731"
+    }
+  },
+  {
+    "name": "Puzzle",
+    "link": "https://music.163.com/song?id=520442466",
+    "duration": "04:33",
+    "artists": [
+      { "name": "Keega", "link": "https://music.163.com/artist?id=12276986" }
+    ],
+    "album": {
+      "name": "Puzzle",
+      "link": "https://music.163.com/album?id=36839614"
+    }
+  },
+  {
+    "name": "Class Over",
+    "link": "https://music.163.com/song?id=557344230",
+    "duration": "02:46",
+    "artists": [
+      {
+        "name": "小妖怪大智慧",
+        "link": "https://music.163.com/artist?id=13450404"
+      }
+    ],
+    "album": {
+      "name": "Class Over",
+      "link": "https://music.163.com/album?id=38563101"
+    }
+  },
+  {
+    "name": "Down",
+    "link": "https://music.163.com/song?id=5039560",
+    "duration": "04:05",
+    "artists": [
+      {
+        "name": "Jason Walker",
+        "link": "https://music.163.com/artist?id=12869734"
+      }
+    ],
+    "album": {
+      "name": "The Vampire Diaries (Original Television Soundtrack)",
+      "link": "https://music.163.com/album?id=500569"
+    }
+  },
+  {
+    "name": "精灵别归去",
+    "link": "https://music.163.com/song?id=1380438084",
+    "duration": "04:09",
+    "artists": [
+      { "name": "格里特", "link": "https://music.163.com/artist?id=12611793" },
+      { "name": "URUUT", "link": "https://music.163.com/artist?id=12064164" }
+    ],
+    "album": {
+      "name": "精灵别归去",
+      "link": "https://music.163.com/album?id=80566589"
+    }
+  },
+  {
+    "name": "Play",
+    "link": "https://music.163.com/song?id=1356925947",
+    "duration": "02:57",
+    "artists": [
+      { "name": "SaMZIng", "link": "https://music.163.com/artist?id=1203033" }
+    ],
+    "album": {
+      "name": "Play",
+      "link": "https://music.163.com/album?id=78204252"
+    }
+  },
+  {
+    "name": "Good Time",
+    "link": "https://music.163.com/song?id=17706562",
+    "duration": "03:27",
+    "artists": [
+      { "name": "Owl City", "link": "https://music.163.com/artist?id=40859" },
+      {
+        "name": "Carly Rae Jepsen",
+        "link": "https://music.163.com/artist?id=50934"
+      }
+    ],
+    "album": {
+      "name": "Good Time",
+      "link": "https://music.163.com/album?id=1627908"
+    }
+  },
+  {
+    "name": "color-X 3D",
+    "link": "https://music.163.com/song?id=34380473",
+    "duration": "04:03",
+    "artists": [
+      { "name": "徐梦圆", "link": "https://music.163.com/artist?id=1142042" }
+    ],
+    "album": {
+      "name": "3D-E",
+      "link": "https://music.163.com/album?id=3283211"
+    }
+  },
+  {
+    "name": "Stronger (What Doesn't Kill You)",
+    "link": "https://music.163.com/song?id=2870985",
+    "duration": "03:41",
+    "artists": [
+      {
+        "name": "Kelly Clarkson",
+        "link": "https://music.163.com/artist?id=62885"
+      }
+    ],
+    "album": {
+      "name": "Stronger (Japanese Edition)",
+      "link": "https://music.163.com/album?id=289886"
+    }
+  },
+  {
+    "name": "Tattoo",
+    "link": "https://music.163.com/song?id=27984264",
+    "duration": "03:46",
+    "artists": [
+      { "name": "Gjan", "link": "https://music.163.com/artist?id=851014" }
+    ],
+    "album": {
+      "name": "Tattoo",
+      "link": "https://music.163.com/album?id=2709043"
+    }
+  },
+  {
+    "name": "Quest (Mix Cut)",
+    "link": "https://music.163.com/song?id=539741327",
+    "duration": "01:41",
+    "artists": [
+      {
+        "name": "Super8 & Tab",
+        "link": "https://music.163.com/artist?id=100916"
+      }
+    ],
+    "album": {
+      "name": "Live at Ultra Mexico 2017 (Highlights)",
+      "link": "https://music.163.com/album?id=37697082"
+    }
+  },
+  {
+    "name": "XAL--边（灵影 / XAL- remix）",
+    "link": "https://music.163.com/song?id=1370209722",
+    "duration": "02:56",
+    "artists": [
+      { "name": "灵影", "link": "https://music.163.com/artist?id=12407452" },
+      { "name": "XAL-", "link": "https://music.163.com/artist?id=12570998" }
+    ],
+    "album": { "name": "边", "link": "https://music.163.com/album?id=79566466" }
+  },
+  {
+    "name": "Here With You",
+    "link": "https://music.163.com/song?id=27583305",
+    "duration": "03:45",
+    "artists": [
+      {
+        "name": "Asher Monroe",
+        "link": "https://music.163.com/artist?id=28727"
+      }
+    ],
+    "album": {
+      "name": "Here With You",
+      "link": "https://music.163.com/album?id=2641180"
+    }
+  },
+  {
+    "name": "一荤一素 (Live)",
+    "link": "https://music.163.com/song?id=1422992245",
+    "duration": "05:14",
+    "artists": [
+      { "name": "毛不易", "link": "https://music.163.com/artist?id=12138269" }
+    ],
+    "album": {
+      "name": "歌手·当打之年 第2期",
+      "link": "https://music.163.com/album?id=85684430"
+    }
+  }
+]

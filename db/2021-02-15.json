@@ -1,0 +1,482 @@
+[
+  {
+    "name": "Good Together",
+    "link": "https://music.163.com/song?id=1434225467",
+    "duration": "03:57",
+    "artists": [
+      { "name": "Shallou", "link": "https://music.163.com/artist?id=12029377" },
+      { "name": "Ashe", "link": "https://music.163.com/artist?id=12278097" }
+    ],
+    "album": {
+      "name": "Magical Thinking",
+      "link": "https://music.163.com/album?id=86859888"
+    }
+  },
+  {
+    "name": "Rooftop",
+    "link": "https://music.163.com/song?id=1456602326",
+    "duration": "03:13",
+    "artists": [
+      { "name": "MVRT", "link": "https://music.163.com/artist?id=35396819" },
+      {
+        "name": "Vijay & Sofia Zlatko",
+        "link": "https://music.163.com/artist?id=1155154"
+      }
+    ],
+    "album": {
+      "name": "Rooftop",
+      "link": "https://music.163.com/album?id=91205407"
+    }
+  },
+  {
+    "name": "Only Yours",
+    "link": "https://music.163.com/song?id=1366670488",
+    "duration": "03:11",
+    "artists": [
+      { "name": "Nudø", "link": "https://music.163.com/artist?id=28893214" }
+    ],
+    "album": {
+      "name": "Only Yours",
+      "link": "https://music.163.com/album?id=79279498"
+    }
+  },
+  {
+    "name": "Bipolar Heart",
+    "link": "https://music.163.com/song?id=1460639468",
+    "duration": "03:14",
+    "artists": [
+      {
+        "name": "Adam Turley",
+        "link": "https://music.163.com/artist?id=12409052"
+      },
+      {
+        "name": "Jordan Jack",
+        "link": "https://music.163.com/artist?id=34858600"
+      }
+    ],
+    "album": {
+      "name": "Bipolar Heart",
+      "link": "https://music.163.com/album?id=91988089"
+    }
+  },
+  {
+    "name": "Crab Rave",
+    "link": "https://music.163.com/song?id=551339076",
+    "duration": "02:41",
+    "artists": [
+      { "name": "Noisestorm", "link": "https://music.163.com/artist?id=98081" }
+    ],
+    "album": {
+      "name": "Crab Rave",
+      "link": "https://music.163.com/album?id=38273025"
+    }
+  },
+  {
+    "name": "Don't Look Back",
+    "link": "https://music.163.com/song?id=1378548516",
+    "duration": "02:58",
+    "artists": [
+      {
+        "name": "Rich James",
+        "link": "https://music.163.com/artist?id=12073076"
+      },
+      {
+        "name": "Jon Barnard",
+        "link": "https://music.163.com/artist?id=12698199"
+      }
+    ],
+    "album": {
+      "name": "Don't Look Back",
+      "link": "https://music.163.com/album?id=80444637"
+    }
+  },
+  {
+    "name": "Airplane",
+    "link": "https://music.163.com/song?id=1446962953",
+    "duration": "03:47",
+    "artists": [
+      {
+        "name": "Max Oazo",
+        "link": "https://music.163.com/artist?id=13159084"
+      },
+      { "name": "Moonessa", "link": "https://music.163.com/artist?id=29834706" }
+    ],
+    "album": {
+      "name": "Airplane",
+      "link": "https://music.163.com/album?id=89240666"
+    }
+  },
+  {
+    "name": "Paskui Tave",
+    "link": "https://music.163.com/song?id=1294910445",
+    "duration": "03:43",
+    "artists": [
+      { "name": "Gjan", "link": "https://music.163.com/artist?id=851014" }
+    ],
+    "album": {
+      "name": "Paskui Tave",
+      "link": "https://music.163.com/album?id=71856939"
+    }
+  },
+  {
+    "name": "Can't Stop Now",
+    "link": "https://music.163.com/song?id=1314121942",
+    "duration": "03:03",
+    "artists": [
+      { "name": "Allie X", "link": "https://music.163.com/artist?id=973030" }
+    ],
+    "album": {
+      "name": "Super Sunset",
+      "link": "https://music.163.com/album?id=73718954"
+    }
+  },
+  {
+    "name": "We Won't Be Alone (feat. Laura Brehm)",
+    "link": "https://music.163.com/song?id=34766078",
+    "duration": "03:54",
+    "artists": [
+      { "name": "Feint", "link": "https://music.163.com/artist?id=93062" },
+      {
+        "name": "Laura Brehm",
+        "link": "https://music.163.com/artist?id=207693"
+      }
+    ],
+    "album": {
+      "name": "We Won't Be Alone",
+      "link": "https://music.163.com/album?id=3295346"
+    }
+  },
+  {
+    "name": "Shoot You Down",
+    "link": "https://music.163.com/song?id=409916258",
+    "duration": "03:54",
+    "artists": [
+      {
+        "name": "Nea Nelson",
+        "link": "https://music.163.com/artist?id=11997028"
+      }
+    ],
+    "album": {
+      "name": "Shoot You Down",
+      "link": "https://music.163.com/album?id=34610075"
+    }
+  },
+  {
+    "name": "RULES",
+    "link": "https://music.163.com/song?id=1418388532",
+    "duration": "03:26",
+    "artists": [
+      { "name": "AViVA", "link": "https://music.163.com/artist?id=12074178" }
+    ],
+    "album": {
+      "name": "RULES",
+      "link": "https://music.163.com/album?id=85160327"
+    }
+  },
+  {
+    "name": "Blame",
+    "link": "https://music.163.com/song?id=33692120",
+    "duration": "03:27",
+    "artists": [
+      {
+        "name": "Calvin Harris",
+        "link": "https://music.163.com/artist?id=29968"
+      }
+    ],
+    "album": {
+      "name": "Mujeres y Hombres y Viceversa, Vol 6",
+      "link": "https://music.163.com/album?id=3250307"
+    }
+  },
+  {
+    "name": "We'll Be Alright",
+    "link": "https://music.163.com/song?id=554245621",
+    "duration": "03:14",
+    "artists": [
+      { "name": "GSPR", "link": "https://music.163.com/artist?id=12263887" }
+    ],
+    "album": {
+      "name": "We'll Be Alright",
+      "link": "https://music.163.com/album?id=38430149"
+    }
+  },
+  {
+    "name": "Vibrance",
+    "link": "https://music.163.com/song?id=30780431",
+    "duration": "04:01",
+    "artists": [
+      { "name": "Wisp X", "link": "https://music.163.com/artist?id=1046123" }
+    ],
+    "album": {
+      "name": "Vibrance",
+      "link": "https://music.163.com/album?id=3103221"
+    }
+  },
+  {
+    "name": "Animal",
+    "link": "https://music.163.com/song?id=1341890252",
+    "duration": "03:35",
+    "artists": [
+      { "name": "AURORA", "link": "https://music.163.com/artist?id=1043338" }
+    ],
+    "album": {
+      "name": "Animal",
+      "link": "https://music.163.com/album?id=75318391"
+    }
+  },
+  {
+    "name": "These Heights",
+    "link": "https://music.163.com/song?id=475264147",
+    "duration": "03:03",
+    "artists": [
+      {
+        "name": "Lucas & Steve",
+        "link": "https://music.163.com/artist?id=1039527"
+      },
+      {
+        "name": "Bassjackers",
+        "link": "https://music.163.com/artist?id=268447"
+      },
+      {
+        "name": "Caroline Pennell",
+        "link": "https://music.163.com/artist?id=837233"
+      }
+    ],
+    "album": {
+      "name": "These Heights",
+      "link": "https://music.163.com/album?id=35448083"
+    }
+  },
+  {
+    "name": "Genius",
+    "link": "https://music.163.com/song?id=556203261",
+    "duration": "03:33",
+    "artists": [
+      { "name": "LSD", "link": "https://music.163.com/artist?id=575566" },
+      { "name": "Sia", "link": "https://music.163.com/artist?id=74625" },
+      { "name": "Diplo", "link": "https://music.163.com/artist?id=31645" },
+      { "name": "Labrinth", "link": "https://music.163.com/artist?id=38644" }
+    ],
+    "album": {
+      "name": "Genius",
+      "link": "https://music.163.com/album?id=38530111"
+    }
+  },
+  {
+    "name": "Hold It Together (Ahmed Romel Remix)",
+    "link": "https://music.163.com/song?id=35040286",
+    "duration": "07:35",
+    "artists": [
+      { "name": "MaRLo", "link": "https://music.163.com/artist?id=150599" },
+      {
+        "name": "Ahmed Romel",
+        "link": "https://music.163.com/artist?id=191841"
+      }
+    ],
+    "album": {
+      "name": "Hold It Together (Remixes)",
+      "link": "https://music.163.com/album?id=3308521"
+    }
+  },
+  {
+    "name": "The Dust Settles",
+    "link": "https://music.163.com/song?id=471763902",
+    "duration": "05:01",
+    "artists": [
+      {
+        "name": "Broken Elegance",
+        "link": "https://music.163.com/artist?id=12046674"
+      }
+    ],
+    "album": {
+      "name": "The Dust Settles",
+      "link": "https://music.163.com/album?id=35358472"
+    }
+  },
+  {
+    "name": "Piano In Love (Original Edit)",
+    "link": "https://music.163.com/song?id=26205380",
+    "duration": "03:56",
+    "artists": [
+      { "name": "Raven", "link": "https://music.163.com/artist?id=30617656" },
+      { "name": "Kleekamp", "link": "https://music.163.com/artist?id=209673" }
+    ],
+    "album": {
+      "name": "Dream Dance Vol.67 2013",
+      "link": "https://music.163.com/album?id=2420484"
+    }
+  },
+  {
+    "name": "Dragonhearted Remix",
+    "link": "https://music.163.com/song?id=1415154256",
+    "duration": "04:11",
+    "artists": [
+      {
+        "name": "Approaching Nirvana",
+        "link": "https://music.163.com/artist?id=86884"
+      },
+      {
+        "name": "TryHardNinja",
+        "link": "https://music.163.com/artist?id=12024128"
+      }
+    ],
+    "album": {
+      "name": "Dragonhearted Remix",
+      "link": "https://music.163.com/album?id=84825972"
+    }
+  },
+  {
+    "name": "Overwatch - Victory Theme (Remix)",
+    "link": "https://music.163.com/song?id=425008411",
+    "duration": "02:31",
+    "artists": [
+      {
+        "name": "VideoGameRemixes",
+        "link": "https://music.163.com/artist?id=12091221"
+      }
+    ],
+    "album": {
+      "name": "Overwatch - Victory Theme (Remix)",
+      "link": "https://music.163.com/album?id=34808682"
+    }
+  },
+  {
+    "name": "Don't Say (Felix Palmqvist & Severo Remix)",
+    "link": "https://music.163.com/song?id=491294233",
+    "duration": "03:21",
+    "artists": [
+      {
+        "name": "The Chainsmokers",
+        "link": "https://music.163.com/artist?id=893484"
+      },
+      {
+        "name": "Emily Warren",
+        "link": "https://music.163.com/artist?id=12356790"
+      },
+      {
+        "name": "Felix Palmqvist",
+        "link": "https://music.163.com/artist?id=12263227"
+      },
+      { "name": "Severo", "link": "https://music.163.com/artist?id=1115077" }
+    ],
+    "album": {
+      "name": "Don't Say (Felix Palmqvist & Severo Remix)",
+      "link": "https://music.163.com/album?id=35757387"
+    }
+  },
+  {
+    "name": "Up In This (Original Mix)",
+    "link": "https://music.163.com/song?id=409646184",
+    "duration": "04:15",
+    "artists": [
+      {
+        "name": "Sophie Francis",
+        "link": "https://music.163.com/artist?id=12008050"
+      }
+    ],
+    "album": {
+      "name": "Up In This",
+      "link": "https://music.163.com/album?id=34611079"
+    }
+  },
+  {
+    "name": "You Wait For Rain",
+    "link": "https://music.163.com/song?id=29401935",
+    "duration": "03:42",
+    "artists": [
+      {
+        "name": "Kyler England",
+        "link": "https://music.163.com/artist?id=63658"
+      }
+    ],
+    "album": {
+      "name": "The Vampire Diary Season 2",
+      "link": "https://music.163.com/album?id=3017487"
+    }
+  },
+  {
+    "name": "anemone",
+    "link": "https://music.163.com/song?id=476323053",
+    "duration": "03:48",
+    "artists": [
+      {
+        "name": "slenderbodies",
+        "link": "https://music.163.com/artist?id=12381092"
+      }
+    ],
+    "album": {
+      "name": "fabulist",
+      "link": "https://music.163.com/album?id=35455026"
+    }
+  },
+  {
+    "name": "Higher Ground",
+    "link": "https://music.163.com/song?id=548823766",
+    "duration": "03:35",
+    "artists": [
+      { "name": "ODESZA", "link": "https://music.163.com/artist?id=839108" },
+      {
+        "name": "Naomi Wild",
+        "link": "https://music.163.com/artist?id=29750448"
+      }
+    ],
+    "album": {
+      "name": "Higher Ground Remixes",
+      "link": "https://music.163.com/album?id=38033575"
+    }
+  },
+  {
+    "name": "The Good, the Bad, and the Ugly",
+    "link": "https://music.163.com/song?id=1155155",
+    "duration": "02:33",
+    "artists": [
+      {
+        "name": "California Guitar Trio",
+        "link": "https://music.163.com/artist?id=30006"
+      }
+    ],
+    "album": {
+      "name": "An Opening Act: On Tour with King Crimson",
+      "link": "https://music.163.com/album?id=119476"
+    }
+  },
+  {
+    "name": "Lily (Original Mix) ",
+    "link": "https://music.163.com/song?id=36587473",
+    "duration": "04:46",
+    "artists": [
+      { "name": "Ziu", "link": "https://music.163.com/artist?id=1083070" }
+    ],
+    "album": {
+      "name": "Lily (Original Mix)",
+      "link": "https://music.163.com/album?id=3395561"
+    }
+  },
+  {
+    "name": "Winter's Tale (Original Mix)",
+    "link": "https://music.163.com/song?id=28078010",
+    "duration": "06:54",
+    "artists": [
+      {
+        "name": "Cosmic Funk",
+        "link": "https://music.163.com/artist?id=202457"
+      }
+    ],
+    "album": {
+      "name": "PHW & Friends 002",
+      "link": "https://music.163.com/album?id=2724323"
+    }
+  },
+  {
+    "name": "Hey Boy",
+    "link": "https://music.163.com/song?id=1819813376",
+    "duration": "02:29",
+    "artists": [
+      { "name": "Sia", "link": "https://music.163.com/artist?id=74625" }
+    ],
+    "album": {
+      "name": "Music (Songs From And Inspired By The Motion Picture)",
+      "link": "https://music.163.com/album?id=122974015"
+    }
+  }
+]

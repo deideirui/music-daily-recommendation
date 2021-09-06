@@ -1,0 +1,535 @@
+[
+  {
+    "name": "Million Days",
+    "link": "https://music.163.com/song?id=1417055605",
+    "duration": "03:28",
+    "artists": [
+      { "name": "Sabai", "link": "https://music.163.com/artist?id=32093901" },
+      { "name": "Hoang", "link": "https://music.163.com/artist?id=27694442" },
+      {
+        "name": "Claire Ridgely",
+        "link": "https://music.163.com/artist?id=14935781"
+      }
+    ],
+    "album": {
+      "name": "Million Days",
+      "link": "https://music.163.com/album?id=85020147"
+    }
+  },
+  {
+    "name": "Famous",
+    "link": "https://music.163.com/song?id=522647397",
+    "duration": "03:43",
+    "artists": [
+      {
+        "name": "Ivy Adara",
+        "link": "https://music.163.com/artist?id=12925126"
+      }
+    ],
+    "album": {
+      "name": "Famous",
+      "link": "https://music.163.com/album?id=36921067"
+    }
+  },
+  {
+    "name": "Slow Down",
+    "link": "https://music.163.com/song?id=1399417660",
+    "duration": "03:02",
+    "artists": [
+      {
+        "name": "Sineself",
+        "link": "https://music.163.com/artist?id=32945422"
+      },
+      {
+        "name": "Angel Pieters",
+        "link": "https://music.163.com/artist?id=12749893"
+      }
+    ],
+    "album": {
+      "name": "Slow Down",
+      "link": "https://music.163.com/album?id=82773522"
+    }
+  },
+  {
+    "name": "Make A Move",
+    "link": "https://music.163.com/song?id=1344438011",
+    "duration": "03:09",
+    "artists": [
+      {
+        "name": "EMMA WAHLIN",
+        "link": "https://music.163.com/artist?id=29426733"
+      }
+    ],
+    "album": {
+      "name": "Make A Move",
+      "link": "https://music.163.com/album?id=75470738"
+    }
+  },
+  {
+    "name": "Gone (feat. Kianna)",
+    "link": "https://music.163.com/song?id=1336856653",
+    "duration": "02:52",
+    "artists": [
+      { "name": "Hoang", "link": "https://music.163.com/artist?id=27694442" },
+      { "name": "Kianna", "link": "https://music.163.com/artist?id=197017" }
+    ],
+    "album": {
+      "name": "Gone (feat. Kianna)",
+      "link": "https://music.163.com/album?id=75016971"
+    }
+  },
+  {
+    "name": "世界で一番近くに居るのに",
+    "link": "https://music.163.com/song?id=1392566187",
+    "duration": "04:57",
+    "artists": [
+      { "name": "鹿乃", "link": "https://music.163.com/artist?id=17014" }
+    ],
+    "album": {
+      "name": "いつかの約束を君に",
+      "link": "https://music.163.com/album?id=81834709"
+    }
+  },
+  {
+    "name": "Bästa som hänt",
+    "link": "https://music.163.com/song?id=1836013628",
+    "duration": "03:52",
+    "artists": [
+      { "name": "BUNT.", "link": "https://music.163.com/artist?id=744145" },
+      { "name": "HON", "link": "https://music.163.com/artist?id=34733953" }
+    ],
+    "album": {
+      "name": "Bästa som hänt",
+      "link": "https://music.163.com/album?id=125797551"
+    }
+  },
+  {
+    "name": "Paradise",
+    "link": "https://music.163.com/song?id=1312104048",
+    "duration": "03:35",
+    "artists": [
+      {
+        "name": "Nicky Romero",
+        "link": "https://music.163.com/artist?id=195142"
+      },
+      {
+        "name": "Deniz Koyu",
+        "link": "https://music.163.com/artist?id=201960"
+      },
+      {
+        "name": "Walk off the Earth",
+        "link": "https://music.163.com/artist?id=105493"
+      }
+    ],
+    "album": {
+      "name": "Paradise",
+      "link": "https://music.163.com/album?id=73559204"
+    }
+  },
+  {
+    "name": "Too Young",
+    "link": "https://music.163.com/song?id=487454262",
+    "duration": "03:23",
+    "artists": [
+      { "name": "ayokay", "link": "https://music.163.com/artist?id=1116021" },
+      {
+        "name": "Baker Grace",
+        "link": "https://music.163.com/artist?id=12603136"
+      }
+    ],
+    "album": {
+      "name": "Too Young",
+      "link": "https://music.163.com/album?id=35657353"
+    }
+  },
+  {
+    "name": "Take It off",
+    "link": "https://music.163.com/song?id=1337340011",
+    "duration": "03:14",
+    "artists": [
+      {
+        "name": "Two Friends",
+        "link": "https://music.163.com/artist?id=536718"
+      }
+    ],
+    "album": {
+      "name": "Take It off",
+      "link": "https://music.163.com/album?id=75043818"
+    }
+  },
+  {
+    "name": "One Day",
+    "link": "https://music.163.com/song?id=1363638029",
+    "duration": "02:44",
+    "artists": [
+      {
+        "name": "Diamond Pistols",
+        "link": "https://music.163.com/artist?id=806218"
+      },
+      {
+        "name": "Emily Vaughn",
+        "link": "https://music.163.com/artist?id=12049240"
+      }
+    ],
+    "album": {
+      "name": "One Day",
+      "link": "https://music.163.com/album?id=78959758"
+    }
+  },
+  {
+    "name": "Better Off Lonely",
+    "link": "https://music.163.com/song?id=1467062551",
+    "duration": "04:30",
+    "artists": [
+      { "name": "Nurko", "link": "https://music.163.com/artist?id=11991089" },
+      { "name": "RØRY", "link": "https://music.163.com/artist?id=28774080" }
+    ],
+    "album": {
+      "name": "Better Off Lonely",
+      "link": "https://music.163.com/album?id=93251099"
+    }
+  },
+  {
+    "name": "Riptide",
+    "link": "https://music.163.com/song?id=1380987876",
+    "duration": "03:19",
+    "artists": [
+      { "name": "Trivecta", "link": "https://music.163.com/artist?id=954338" },
+      { "name": "AMIDY", "link": "https://music.163.com/artist?id=12203566" },
+      { "name": "RØRY", "link": "https://music.163.com/artist?id=28774080" }
+    ],
+    "album": {
+      "name": "Riptide",
+      "link": "https://music.163.com/album?id=80677696"
+    }
+  },
+  {
+    "name": "I'm So Tired Of Love Songs",
+    "link": "https://music.163.com/song?id=1344262001",
+    "duration": "03:10",
+    "artists": [
+      {
+        "name": "Wildflowers",
+        "link": "https://music.163.com/artist?id=12977810"
+      },
+      {
+        "name": "Megan Tibbits",
+        "link": "https://music.163.com/artist?id=30065117"
+      }
+    ],
+    "album": {
+      "name": "I'm So Tired Of Love Songs",
+      "link": "https://music.163.com/album?id=75459203"
+    }
+  },
+  {
+    "name": "Every Little Piece",
+    "link": "https://music.163.com/song?id=1392122040",
+    "duration": "03:02",
+    "artists": [
+      {
+        "name": "Michael Schulte",
+        "link": "https://music.163.com/artist?id=40222"
+      }
+    ],
+    "album": {
+      "name": "Highs & Lows",
+      "link": "https://music.163.com/album?id=81791622"
+    }
+  },
+  {
+    "name": "That’s Why",
+    "link": "https://music.163.com/song?id=1384496793",
+    "duration": "04:12",
+    "artists": [
+      { "name": "ILLENIUM", "link": "https://music.163.com/artist?id=1050518" },
+      {
+        "name": "Josh Golden",
+        "link": "https://music.163.com/artist?id=12935364"
+      }
+    ],
+    "album": {
+      "name": "ASCEND",
+      "link": "https://music.163.com/album?id=80981667"
+    }
+  },
+  {
+    "name": "Show You Again",
+    "link": "https://music.163.com/song?id=1304848675",
+    "duration": "03:10",
+    "artists": [
+      {
+        "name": "Patrick Moreno",
+        "link": "https://music.163.com/artist?id=12440347"
+      },
+      { "name": "Sage", "link": "https://music.163.com/artist?id=896326" }
+    ],
+    "album": {
+      "name": "Show You Again",
+      "link": "https://music.163.com/album?id=72574401"
+    }
+  },
+  {
+    "name": "Vibe",
+    "link": "https://music.163.com/song?id=533017528",
+    "duration": "03:18",
+    "artists": [
+      {
+        "name": "Fly by Midnight",
+        "link": "https://music.163.com/artist?id=1163027"
+      }
+    ],
+    "album": {
+      "name": "Vibe",
+      "link": "https://music.163.com/album?id=37391205"
+    }
+  },
+  {
+    "name": "Save Me",
+    "link": "https://music.163.com/song?id=1441213258",
+    "duration": "03:48",
+    "artists": [
+      { "name": "Evan", "link": "https://music.163.com/artist?id=34208599" }
+    ],
+    "album": {
+      "name": "Save Me",
+      "link": "https://music.163.com/album?id=88104802"
+    }
+  },
+  {
+    "name": "Heart Of Steel (Festival Mix)",
+    "link": "https://music.163.com/song?id=864100339",
+    "duration": "03:41",
+    "artists": [
+      { "name": "Raiden", "link": "https://music.163.com/artist?id=130300" },
+      {
+        "name": "Bright Lights",
+        "link": "https://music.163.com/artist?id=905065"
+      }
+    ],
+    "album": {
+      "name": "Heart Of Steel (Festival Mix)",
+      "link": "https://music.163.com/album?id=71613108"
+    }
+  },
+  {
+    "name": "Fall Again",
+    "link": "https://music.163.com/song?id=1341922614",
+    "duration": "03:05",
+    "artists": [
+      { "name": "Arcando", "link": "https://music.163.com/artist?id=11975134" },
+      {
+        "name": "Daniel Garrick",
+        "link": "https://music.163.com/artist?id=1163065"
+      },
+      {
+        "name": "Nessa Bransan",
+        "link": "https://music.163.com/artist?id=31289821"
+      }
+    ],
+    "album": {
+      "name": "Revealed Recordings presents Progressive EP Vol. 1",
+      "link": "https://music.163.com/album?id=75321316"
+    }
+  },
+  {
+    "name": "“diary”（RnB type beat）",
+    "link": "https://music.163.com/song?id=1367900235",
+    "duration": "03:02",
+    "artists": [
+      { "name": "治静音乐", "link": "https://music.163.com/artist?id=12760796" }
+    ],
+    "album": {
+      "name": "【售断】“diary”（RnB type beat）",
+      "link": "https://music.163.com/album?id=79403821"
+    }
+  },
+  {
+    "name": "Where Do We Go (VIP)",
+    "link": "https://music.163.com/song?id=1410330948",
+    "duration": "04:01",
+    "artists": [
+      { "name": "Mazare", "link": "https://music.163.com/artist?id=29718513" },
+      { "name": "RUNN", "link": "https://music.163.com/artist?id=15237536" }
+    ],
+    "album": {
+      "name": "Where Do We Go (VIP)",
+      "link": "https://music.163.com/album?id=84172169"
+    }
+  },
+  {
+    "name": "Downtown",
+    "link": "https://music.163.com/song?id=469104851",
+    "duration": "03:57",
+    "artists": [
+      { "name": "Allie X", "link": "https://music.163.com/artist?id=973030" }
+    ],
+    "album": {
+      "name": "CollXtion II",
+      "link": "https://music.163.com/album?id=35297807"
+    }
+  },
+  {
+    "name": "GRRRLS",
+    "link": "https://music.163.com/song?id=515647696",
+    "duration": "03:48",
+    "artists": [
+      { "name": "AViVA", "link": "https://music.163.com/artist?id=12074178" }
+    ],
+    "album": {
+      "name": "GRRRLS",
+      "link": "https://music.163.com/album?id=36525894"
+    }
+  },
+  {
+    "name": "Drifting Apart",
+    "link": "https://music.163.com/song?id=1303019029",
+    "duration": "03:50",
+    "artists": [
+      {
+        "name": "Adib Sin",
+        "link": "https://music.163.com/artist?id=12244027"
+      },
+      { "name": "Salsa", "link": "https://music.163.com/artist?id=141594" }
+    ],
+    "album": {
+      "name": "Drifting Apart",
+      "link": "https://music.163.com/album?id=72302028"
+    }
+  },
+  {
+    "name": "The Otherside",
+    "link": "https://music.163.com/song?id=1491071608",
+    "duration": "02:55",
+    "artists": [
+      { "name": "Cam", "link": "https://music.163.com/artist?id=51092" }
+    ],
+    "album": {
+      "name": "The Otherside",
+      "link": "https://music.163.com/album?id=97565155"
+    }
+  },
+  {
+    "name": "Levels",
+    "link": "https://music.163.com/song?id=1461317556",
+    "duration": "03:38",
+    "artists": [
+      {
+        "name": "Marin Hoxha",
+        "link": "https://music.163.com/artist?id=12474391"
+      },
+      {
+        "name": "Mike Watson",
+        "link": "https://music.163.com/artist?id=13046433"
+      }
+    ],
+    "album": {
+      "name": "Levels",
+      "link": "https://music.163.com/album?id=92123563"
+    }
+  },
+  {
+    "name": "今から晴れます",
+    "link": "https://music.163.com/song?id=1402685563",
+    "duration": "02:48",
+    "artists": [
+      { "name": "SEOGER", "link": "https://music.163.com/artist?id=33323624" }
+    ],
+    "album": {
+      "name": "今から晴れます",
+      "link": "https://music.163.com/album?id=83103196"
+    }
+  },
+  {
+    "name": "Turns To Dust (Ryan Exley Remix)",
+    "link": "https://music.163.com/song?id=1382366117",
+    "duration": "03:50",
+    "artists": [
+      {
+        "name": "Sound Surfer",
+        "link": "https://music.163.com/artist?id=1186004"
+      },
+      { "name": "Verso", "link": "https://music.163.com/artist?id=338218" },
+      {
+        "name": "Ryan Exley",
+        "link": "https://music.163.com/artist?id=1053024"
+      }
+    ],
+    "album": {
+      "name": "Turns To Dust (Ryan Exley Remix)",
+      "link": "https://music.163.com/album?id=80796219"
+    }
+  },
+  {
+    "name": "Lost Time",
+    "link": "https://music.163.com/song?id=1349213793",
+    "duration": "03:52",
+    "artists": [
+      { "name": "LÉON", "link": "https://music.163.com/artist?id=1178081" }
+    ],
+    "album": {
+      "name": "LÉON",
+      "link": "https://music.163.com/album?id=75738382"
+    }
+  },
+  {
+    "name": "This Way (Radio Edit)",
+    "link": "https://music.163.com/song?id=1818021139",
+    "duration": "03:31",
+    "artists": [
+      { "name": "MaRLo", "link": "https://music.163.com/artist?id=150599" },
+      { "name": "MatricK", "link": "https://music.163.com/artist?id=13193122" },
+      { "name": "Sendr", "link": "https://music.163.com/artist?id=1132388" },
+      { "name": "NOHC", "link": "https://music.163.com/artist?id=15211994" }
+    ],
+    "album": {
+      "name": "This Way",
+      "link": "https://music.163.com/album?id=122626238"
+    }
+  },
+  {
+    "name": "地球最後の告白を",
+    "link": "https://music.163.com/song?id=476638469",
+    "duration": "04:23",
+    "artists": [
+      { "name": "H△G", "link": "https://music.163.com/artist?id=996276" }
+    ],
+    "album": {
+      "name": "声 ~VOCALOID Cover Album~",
+      "link": "https://music.163.com/album?id=35357285"
+    }
+  },
+  {
+    "name": "放空",
+    "link": "https://music.163.com/song?id=1841002409",
+    "duration": "02:30",
+    "artists": [
+      { "name": "大籽", "link": "https://music.163.com/artist?id=33735716" },
+      { "name": "Lil E", "link": "https://music.163.com/artist?id=35518640" }
+    ],
+    "album": {
+      "name": "放空",
+      "link": "https://music.163.com/album?id=126689451"
+    }
+  },
+  {
+    "name": "千年の恋 - (“千年之恋”日文版)",
+    "link": "https://music.163.com/song?id=1859954221",
+    "duration": "04:32",
+    "artists": [
+      {
+        "name": "芝麻Mochi",
+        "link": "https://music.163.com/artist?id=12195788"
+      },
+      {
+        "name": "恋恋故人难",
+        "link": "https://music.163.com/artist?id=32041318"
+      },
+      { "name": "出羽良彰", "link": "https://music.163.com/artist?id=855541" }
+    ],
+    "album": {
+      "name": "千年の恋",
+      "link": "https://music.163.com/album?id=130151254"
+    }
+  }
+]

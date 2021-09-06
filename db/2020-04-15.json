@@ -1,0 +1,486 @@
+[
+  {
+    "name": "This Town",
+    "link": "https://music.163.com/song?id=507903881",
+    "duration": "03:22",
+    "artists": [
+      { "name": "Kygo", "link": "https://music.163.com/artist?id=844410" },
+      {
+        "name": "Sasha Sloan",
+        "link": "https://music.163.com/artist?id=12646102"
+      }
+    ],
+    "album": {
+      "name": "Stargazing",
+      "link": "https://music.163.com/album?id=36296886"
+    }
+  },
+  {
+    "name": "Rough Cut",
+    "link": "https://music.163.com/song?id=573617890",
+    "duration": "03:13",
+    "artists": [
+      {
+        "name": "Cassie Dasilva",
+        "link": "https://music.163.com/artist?id=13466044"
+      }
+    ],
+    "album": {
+      "name": "Rough Cut",
+      "link": "https://music.163.com/album?id=39716281"
+    }
+  },
+  {
+    "name": "Monarch",
+    "link": "https://music.163.com/song?id=1298287270",
+    "duration": "03:42",
+    "artists": [
+      { "name": "Fleurie", "link": "https://music.163.com/artist?id=860929" }
+    ],
+    "album": {
+      "name": "Portals",
+      "link": "https://music.163.com/album?id=72101155"
+    }
+  },
+  {
+    "name": "Start Over",
+    "link": "https://music.163.com/song?id=573027032",
+    "duration": "03:04",
+    "artists": [
+      { "name": "Ellis", "link": "https://music.163.com/artist?id=32932" },
+      {
+        "name": "Laura Brehm",
+        "link": "https://music.163.com/artist?id=207693"
+      }
+    ],
+    "album": {
+      "name": "Start Over",
+      "link": "https://music.163.com/album?id=39674887"
+    }
+  },
+  {
+    "name": "Ready For It",
+    "link": "https://music.163.com/song?id=28370908",
+    "duration": "02:47",
+    "artists": [
+      { "name": "RAC", "link": "https://music.163.com/artist?id=148811" },
+      { "name": "St. Lucia", "link": "https://music.163.com/artist?id=87837" }
+    ],
+    "album": {
+      "name": "Strangers Part II",
+      "link": "https://music.163.com/album?id=2780512"
+    }
+  },
+  {
+    "name": "I'm fine (feat. Nevve)",
+    "link": "https://music.163.com/song?id=1381082572",
+    "duration": "03:30",
+    "artists": [
+      {
+        "name": "William Black",
+        "link": "https://music.163.com/artist?id=248957"
+      },
+      { "name": "Nevve", "link": "https://music.163.com/artist?id=12567101" }
+    ],
+    "album": {
+      "name": "Pages",
+      "link": "https://music.163.com/album?id=80685180"
+    }
+  },
+  {
+    "name": "Everything Changed",
+    "link": "https://music.163.com/song?id=506139197",
+    "duration": "04:35",
+    "artists": [
+      {
+        "name": "John Stanford",
+        "link": "https://music.163.com/artist?id=37294"
+      },
+      {
+        "name": "Dallin Applebaum",
+        "link": "https://music.163.com/artist?id=29033370"
+      }
+    ],
+    "album": {
+      "name": "Automatica",
+      "link": "https://music.163.com/album?id=36049733"
+    }
+  },
+  {
+    "name": "Pathetic",
+    "link": "https://music.163.com/song?id=1305875823",
+    "duration": "03:42",
+    "artists": [
+      {
+        "name": "Ninajirachi",
+        "link": "https://music.163.com/artist?id=12279106"
+      },
+      { "name": "NaaH", "link": "https://music.163.com/artist?id=14468402" }
+    ],
+    "album": {
+      "name": "Pathetic",
+      "link": "https://music.163.com/album?id=72762114"
+    }
+  },
+  {
+    "name": "Fire (Paris Blohm Remix)",
+    "link": "https://music.163.com/song?id=454438123",
+    "duration": "03:13",
+    "artists": [
+      { "name": "3LAU", "link": "https://music.163.com/artist?id=762511" },
+      {
+        "name": "Paris Blohm",
+        "link": "https://music.163.com/artist?id=851710"
+      },
+      {
+        "name": "NÉONHÈART",
+        "link": "https://music.163.com/artist?id=12273083"
+      },
+      {
+        "name": "Said The Sky",
+        "link": "https://music.163.com/artist?id=1026094"
+      }
+    ],
+    "album": {
+      "name": "Fire (Remixes)",
+      "link": "https://music.163.com/album?id=35123956"
+    }
+  },
+  {
+    "name": "Breathe",
+    "link": "https://music.163.com/song?id=1350633321",
+    "duration": "03:37",
+    "artists": [
+      {
+        "name": "Tommee Profitt",
+        "link": "https://music.163.com/artist?id=28975"
+      },
+      { "name": "Fleurie", "link": "https://music.163.com/artist?id=860929" }
+    ],
+    "album": {
+      "name": "Cinematic Songs (Vol. 2)",
+      "link": "https://music.163.com/album?id=75797023"
+    }
+  },
+  {
+    "name": "Ain't Nothing Like It",
+    "link": "https://music.163.com/song?id=1348835834",
+    "duration": "02:46",
+    "artists": [
+      { "name": "KLYMVX", "link": "https://music.163.com/artist?id=1149091" }
+    ],
+    "album": {
+      "name": "Ain't Nothing Like It",
+      "link": "https://music.163.com/album?id=75717310"
+    }
+  },
+  {
+    "name": "All Or Nothing",
+    "link": "https://music.163.com/song?id=436487040",
+    "duration": "02:37",
+    "artists": [
+      {
+        "name": "Lost Frequencies",
+        "link": "https://music.163.com/artist?id=1039114"
+      },
+      {
+        "name": "Axel Ehnström",
+        "link": "https://music.163.com/artist?id=13191063"
+      }
+    ],
+    "album": {
+      "name": "Less Is More",
+      "link": "https://music.163.com/album?id=34887003"
+    }
+  },
+  {
+    "name": "Otter Pop",
+    "link": "https://music.163.com/song?id=528478724",
+    "duration": "02:47",
+    "artists": [
+      {
+        "name": "Shawn Wasabi",
+        "link": "https://music.163.com/artist?id=1022005"
+      },
+      { "name": "Hollis", "link": "https://music.163.com/artist?id=14325403" }
+    ],
+    "album": {
+      "name": "Otter Pop",
+      "link": "https://music.163.com/album?id=37099429"
+    }
+  },
+  {
+    "name": "Loving You",
+    "link": "https://music.163.com/song?id=26387123",
+    "duration": "03:26",
+    "artists": [
+      {
+        "name": "Allexinno & Mirabela",
+        "link": "https://music.163.com/artist?id=757276"
+      }
+    ],
+    "album": {
+      "name": "Loving You",
+      "link": "https://music.163.com/album?id=2476016"
+    }
+  },
+  {
+    "name": "This One's For You",
+    "link": "https://music.163.com/song?id=570477491",
+    "duration": "02:43",
+    "artists": [
+      { "name": "MÖWE", "link": "https://music.163.com/artist?id=976362" },
+      {
+        "name": "Abi F Jones",
+        "link": "https://music.163.com/artist?id=1137160"
+      }
+    ],
+    "album": {
+      "name": "This One's For You",
+      "link": "https://music.163.com/album?id=39543185"
+    }
+  },
+  {
+    "name": "None Of My Business",
+    "link": "https://music.163.com/song?id=1318822532",
+    "duration": "03:04",
+    "artists": [
+      { "name": "Cher Lloyd", "link": "https://music.163.com/artist?id=53041" }
+    ],
+    "album": {
+      "name": "None Of My Business",
+      "link": "https://music.163.com/album?id=73978749"
+    }
+  },
+  {
+    "name": "Black Samurai",
+    "link": "https://music.163.com/song?id=1402818475",
+    "duration": "03:18",
+    "artists": [
+      { "name": "WYR GEMI", "link": "https://music.163.com/artist?id=33698765" }
+    ],
+    "album": {
+      "name": "Black Samurai",
+      "link": "https://music.163.com/album?id=83216729"
+    }
+  },
+  {
+    "name": "So Good (Alex Adair Remix)",
+    "link": "https://music.163.com/song?id=441566422",
+    "duration": "03:29",
+    "artists": [
+      {
+        "name": "Louisa Johnson",
+        "link": "https://music.163.com/artist?id=1192273"
+      },
+      {
+        "name": "Alex Adair",
+        "link": "https://music.163.com/artist?id=1043131"
+      }
+    ],
+    "album": {
+      "name": "So Good (Alex Adair Remix)",
+      "link": "https://music.163.com/album?id=34970671"
+    }
+  },
+  {
+    "name": "Wild One",
+    "link": "https://music.163.com/song?id=467953113",
+    "duration": "03:02",
+    "artists": [
+      {
+        "name": "Lucky Rose",
+        "link": "https://music.163.com/artist?id=12107760"
+      },
+      { "name": "Tep No", "link": "https://music.163.com/artist?id=956357" }
+    ],
+    "album": {
+      "name": "Wild One",
+      "link": "https://music.163.com/album?id=35313049"
+    }
+  },
+  {
+    "name": "Lullaby",
+    "link": "https://music.163.com/song?id=529557738",
+    "duration": "02:40",
+    "artists": [
+      { "name": "R3hab", "link": "https://music.163.com/artist?id=197248" },
+      {
+        "name": "Mike Williams",
+        "link": "https://music.163.com/artist?id=302020"
+      }
+    ],
+    "album": {
+      "name": "Lullaby",
+      "link": "https://music.163.com/album?id=37252068"
+    }
+  },
+  {
+    "name": "Bright Lights",
+    "link": "https://music.163.com/song?id=1433950377",
+    "duration": "03:33",
+    "artists": [
+      { "name": "Nyte", "link": "https://music.163.com/artist?id=1034003" }
+    ],
+    "album": {
+      "name": "Bright Lights",
+      "link": "https://music.163.com/album?id=86829829"
+    }
+  },
+  {
+    "name": "I'll Be Gone (feat. Katie McConnell)",
+    "link": "https://music.163.com/song?id=1398909708",
+    "duration": "03:24",
+    "artists": [
+      { "name": "Axero", "link": "https://music.163.com/artist?id=1035020" },
+      {
+        "name": "Katie McConnell",
+        "link": "https://music.163.com/artist?id=29818086"
+      }
+    ],
+    "album": {
+      "name": "I'll Be Gone (feat. Katie McConnell)",
+      "link": "https://music.163.com/album?id=82706243"
+    }
+  },
+  {
+    "name": "Wicked Game (Extended)",
+    "link": "https://music.163.com/song?id=1304760687",
+    "duration": "04:26",
+    "artists": [
+      { "name": "Max Oazo", "link": "https://music.163.com/artist?id=13159084" }
+    ],
+    "album": {
+      "name": "Wicked Game (Extended)",
+      "link": "https://music.163.com/album?id=72566147"
+    }
+  },
+  {
+    "name": "Back To Me",
+    "link": "https://music.163.com/song?id=463049020",
+    "duration": "02:58",
+    "artists": [
+      { "name": "KSHMR", "link": "https://music.163.com/artist?id=896139" },
+      {
+        "name": "Crossnaders",
+        "link": "https://music.163.com/artist?id=12080276"
+      },
+      { "name": "Micky Blue", "link": "https://music.163.com/artist?id=340631" }
+    ],
+    "album": {
+      "name": "Back To Me",
+      "link": "https://music.163.com/album?id=35237017"
+    }
+  },
+  {
+    "name": "Thrill Over Fear",
+    "link": "https://music.163.com/song?id=509313563",
+    "duration": "02:58",
+    "artists": [
+      {
+        "name": "A Flow Mobz",
+        "link": "https://music.163.com/artist?id=12657098"
+      },
+      {
+        "name": "Luna Blake",
+        "link": "https://music.163.com/artist?id=12323229"
+      }
+    ],
+    "album": {
+      "name": "Thrill Over Fear (feat. Luna Blake)",
+      "link": "https://music.163.com/album?id=36436099"
+    }
+  },
+  {
+    "name": "Just Friends",
+    "link": "https://music.163.com/song?id=1367323675",
+    "duration": "02:48",
+    "artists": [
+      {
+        "name": "Virginia To Vegas",
+        "link": "https://music.163.com/artist?id=942191"
+      }
+    ],
+    "album": {
+      "name": "Just Friends",
+      "link": "https://music.163.com/album?id=79368683"
+    }
+  },
+  {
+    "name": "Scars To Your Beautiful",
+    "link": "https://music.163.com/song?id=36587834",
+    "duration": "03:50",
+    "artists": [
+      {
+        "name": "Alessia Cara",
+        "link": "https://music.163.com/artist?id=1074089"
+      }
+    ],
+    "album": {
+      "name": "Know-It-All",
+      "link": "https://music.163.com/album?id=3391032"
+    }
+  },
+  {
+    "name": "The Love Potion (Original Mix)",
+    "link": "https://music.163.com/song?id=1408141936",
+    "duration": "04:06",
+    "artists": [
+      {
+        "name": "Ahmed Romel",
+        "link": "https://music.163.com/artist?id=191841"
+      },
+      {
+        "name": "Simon O'Shine",
+        "link": "https://music.163.com/artist?id=207035"
+      }
+    ],
+    "album": {
+      "name": "The Love Potion",
+      "link": "https://music.163.com/album?id=83955823"
+    }
+  },
+  {
+    "name": "You're the One for Me",
+    "link": "https://music.163.com/song?id=29523822",
+    "duration": "03:50",
+    "artists": [
+      {
+        "name": "Great Good Fine OK",
+        "link": "https://music.163.com/artist?id=905068"
+      }
+    ],
+    "album": {
+      "name": "Body Diamond EP",
+      "link": "https://music.163.com/album?id=3038268"
+    }
+  },
+  {
+    "name": "Better Anyway",
+    "link": "https://music.163.com/song?id=1367114866",
+    "duration": "03:06",
+    "artists": [
+      { "name": "Borgeous", "link": "https://music.163.com/artist?id=904048" },
+      { "name": "Runaground", "link": "https://music.163.com/artist?id=945002" }
+    ],
+    "album": {
+      "name": "Better Anyway",
+      "link": "https://music.163.com/album?id=79341361"
+    }
+  },
+  {
+    "name": "Last Summer",
+    "link": "https://music.163.com/song?id=1311075507",
+    "duration": "02:35",
+    "artists": [
+      {
+        "name": "Johnny Orlando",
+        "link": "https://music.163.com/artist?id=590458"
+      }
+    ],
+    "album": {
+      "name": "Last Summer",
+      "link": "https://music.163.com/album?id=73434289"
+    }
+  }
+]

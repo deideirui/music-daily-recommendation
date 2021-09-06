@@ -1,0 +1,465 @@
+[
+  {
+    "name": "Waiting",
+    "link": "https://music.163.com/song?id=1364530152",
+    "duration": "03:25",
+    "artists": [
+      { "name": "Vicetone", "link": "https://music.163.com/artist?id=747030" },
+      {
+        "name": "Daisy Guttridge",
+        "link": "https://music.163.com/artist?id=13222414"
+      },
+      {
+        "name": "Eric Leva",
+        "link": "https://music.163.com/artist?id=14269985"
+      }
+    ],
+    "album": {
+      "name": "Waiting",
+      "link": "https://music.163.com/album?id=79053879"
+    }
+  },
+  {
+    "name": "Wait For You",
+    "link": "https://music.163.com/song?id=404182792",
+    "duration": "04:08",
+    "artists": [
+      {
+        "name": "Wasted Penguinz",
+        "link": "https://music.163.com/artist?id=816508"
+      },
+      {
+        "name": "Vegas (GR)",
+        "link": "https://music.163.com/artist?id=1182158"
+      }
+    ],
+    "album": {
+      "name": "Wait For You",
+      "link": "https://music.163.com/album?id=34503237"
+    }
+  },
+  {
+    "name": "Back 2 Me",
+    "link": "https://music.163.com/song?id=1425090995",
+    "duration": "03:06",
+    "artists": [
+      { "name": "Landis", "link": "https://music.163.com/artist?id=1064147" }
+    ],
+    "album": {
+      "name": "Back 2 Me",
+      "link": "https://music.163.com/album?id=85908928"
+    }
+  },
+  {
+    "name": "Heartless (Original Mix)",
+    "link": "https://music.163.com/song?id=863715746",
+    "duration": "03:38",
+    "artists": [
+      { "name": "Avi8", "link": "https://music.163.com/artist?id=12000033" }
+    ],
+    "album": {
+      "name": "Heartless",
+      "link": "https://music.163.com/album?id=71708426"
+    }
+  },
+  {
+    "name": "New Fate",
+    "link": "https://music.163.com/song?id=1378617831",
+    "duration": "03:17",
+    "artists": [
+      { "name": "Arston", "link": "https://music.163.com/artist?id=776576" },
+      { "name": "Lux", "link": "https://music.163.com/artist?id=65954" }
+    ],
+    "album": {
+      "name": "New Fate",
+      "link": "https://music.163.com/album?id=80455339"
+    }
+  },
+  {
+    "name": "Freedom (2018 Edit)",
+    "link": "https://music.163.com/song?id=420513208",
+    "duration": "03:47",
+    "artists": [
+      { "name": "Ezenia", "link": "https://music.163.com/artist?id=12024484" }
+    ],
+    "album": {
+      "name": "Freedom",
+      "link": "https://music.163.com/album?id=34768666"
+    }
+  },
+  {
+    "name": "Bloom of Youth",
+    "link": "https://music.163.com/song?id=760058",
+    "duration": "02:28",
+    "artists": [
+      { "name": "清水淳一", "link": "https://music.163.com/artist?id=12523046" }
+    ],
+    "album": {
+      "name": "クドわふたー オリジナル サウンドトラック",
+      "link": "https://music.163.com/album?id=74699"
+    }
+  },
+  {
+    "name": "Have No Fear (Original Mix)",
+    "link": "https://music.163.com/song?id=459720239",
+    "duration": "04:16",
+    "artists": [
+      {
+        "name": "Third Party",
+        "link": "https://music.163.com/artist?id=784231"
+      }
+    ],
+    "album": {
+      "name": "Have No Fear",
+      "link": "https://music.163.com/album?id=35174315"
+    }
+  },
+  {
+    "name": "Sonoran Sunset",
+    "link": "https://music.163.com/song?id=32320820",
+    "duration": "03:21",
+    "artists": [
+      {
+        "name": "Zachary Bruno",
+        "link": "https://music.163.com/artist?id=1081062"
+      }
+    ],
+    "album": {
+      "name": "Before the Rain",
+      "link": "https://music.163.com/album?id=3154564"
+    }
+  },
+  {
+    "name": "Because of You",
+    "link": "https://music.163.com/song?id=28828074",
+    "duration": "03:46",
+    "artists": [
+      { "name": "Josh Vietti", "link": "https://music.163.com/artist?id=37065" }
+    ],
+    "album": {
+      "name": "Best of Both Worlds",
+      "link": "https://music.163.com/album?id=2902215"
+    }
+  },
+  {
+    "name": "Hue",
+    "link": "https://music.163.com/song?id=1355169880",
+    "duration": "04:06",
+    "artists": [
+      {
+        "name": "Dave Thomas Junior",
+        "link": "https://music.163.com/artist?id=32233"
+      }
+    ],
+    "album": {
+      "name": "Hue",
+      "link": "https://music.163.com/album?id=78245972"
+    }
+  },
+  {
+    "name": "Tasukete",
+    "link": "https://music.163.com/song?id=424262363",
+    "duration": "03:05",
+    "artists": [
+      { "name": "Manu Lei", "link": "https://music.163.com/artist?id=1178041" }
+    ],
+    "album": {
+      "name": "Tasukete",
+      "link": "https://music.163.com/album?id=34808122"
+    }
+  },
+  {
+    "name": "On the Run",
+    "link": "https://music.163.com/song?id=26612932",
+    "duration": "04:00",
+    "artists": [
+      {
+        "name": "Postiljonen",
+        "link": "https://music.163.com/artist?id=725356"
+      }
+    ],
+    "album": {
+      "name": "Skyer",
+      "link": "https://music.163.com/album?id=2535635"
+    }
+  },
+  {
+    "name": "Serenity (Original Mix)",
+    "link": "https://music.163.com/song?id=427139312",
+    "duration": "12:38",
+    "artists": [
+      {
+        "name": "Sound Apparel",
+        "link": "https://music.163.com/artist?id=385722"
+      }
+    ],
+    "album": {
+      "name": "The Love That Lasts The Longest",
+      "link": "https://music.163.com/album?id=34839383"
+    }
+  },
+  {
+    "name": "Paradise",
+    "link": "https://music.163.com/song?id=1440570903",
+    "duration": "04:38",
+    "artists": [
+      { "name": "Coldplay", "link": "https://music.163.com/artist?id=89365" }
+    ],
+    "album": {
+      "name": "2011 Pop Hits",
+      "link": "https://music.163.com/album?id=88009389"
+    }
+  },
+  {
+    "name": "High On Words",
+    "link": "https://music.163.com/song?id=34964223",
+    "duration": "02:33",
+    "artists": [
+      { "name": "Airia", "link": "https://music.163.com/artist?id=1084012" }
+    ],
+    "album": {
+      "name": "High On Words",
+      "link": "https://music.163.com/album?id=3292683"
+    }
+  },
+  {
+    "name": "Bailando",
+    "link": "https://music.163.com/song?id=28306220",
+    "duration": "04:03",
+    "artists": [
+      {
+        "name": "Enrique Iglesias",
+        "link": "https://music.163.com/artist?id=32662"
+      },
+      {
+        "name": "Descemer Bueno",
+        "link": "https://music.163.com/artist?id=383946"
+      },
+      {
+        "name": "Gente De Zona",
+        "link": "https://music.163.com/artist?id=59083"
+      }
+    ],
+    "album": {
+      "name": "*** and Love",
+      "link": "https://music.163.com/album?id=2767598"
+    }
+  },
+  {
+    "name": "A Spring Without You (Resonance Remix)",
+    "link": "https://music.163.com/song?id=35845570",
+    "duration": "05:14",
+    "artists": [
+      { "name": "Resonance", "link": "https://music.163.com/artist?id=196588" },
+      { "name": "Kozoro", "link": "https://music.163.com/artist?id=1050567" }
+    ],
+    "album": {
+      "name": "A Spring Without You (Resonance Remix)",
+      "link": "https://music.163.com/album?id=3367352"
+    }
+  },
+  {
+    "name": "Let You Go (Thero Remix)",
+    "link": "https://music.163.com/song?id=34364244",
+    "duration": "04:19",
+    "artists": [
+      { "name": "Thero", "link": "https://music.163.com/artist?id=1141019" },
+      {
+        "name": "The Chainsmokers",
+        "link": "https://music.163.com/artist?id=893484"
+      }
+    ],
+    "album": {
+      "name": "Let You Go (Thero Remix)",
+      "link": "https://music.163.com/album?id=3281035"
+    }
+  },
+  {
+    "name": "Lean On Olympus (Wavers Mashup)",
+    "link": "https://music.163.com/song?id=407679557",
+    "duration": "04:33",
+    "artists": [
+      { "name": "Wavers", "link": "https://music.163.com/artist?id=12006167" },
+      {
+        "name": "Major Lazer",
+        "link": "https://music.163.com/artist?id=96309"
+      },
+      {
+        "name": "Maestro Harrell",
+        "link": "https://music.163.com/artist?id=1116270"
+      }
+    ],
+    "album": {
+      "name": "Lean On Olympus (Wavers Mashup)",
+      "link": "https://music.163.com/album?id=34589176"
+    }
+  },
+  {
+    "name": "Life Moves On",
+    "link": "https://music.163.com/song?id=552160193",
+    "duration": "04:11",
+    "artists": [
+      { "name": "FINNEAS", "link": "https://music.163.com/artist?id=12676847" }
+    ],
+    "album": {
+      "name": "Life Moves On",
+      "link": "https://music.163.com/album?id=38099486"
+    }
+  },
+  {
+    "name": "You and Me",
+    "link": "https://music.163.com/song?id=516576382",
+    "duration": "03:54",
+    "artists": [
+      { "name": "Shallou", "link": "https://music.163.com/artist?id=12029377" }
+    ],
+    "album": {
+      "name": "You and Me",
+      "link": "https://music.163.com/album?id=36673826"
+    }
+  },
+  {
+    "name": "Leave This Island",
+    "link": "https://music.163.com/song?id=28267932",
+    "duration": "04:01",
+    "artists": [
+      { "name": "Maxïmo Park", "link": "https://music.163.com/artist?id=38907" }
+    ],
+    "album": {
+      "name": "Leave This Island",
+      "link": "https://music.163.com/album?id=2762369"
+    }
+  },
+  {
+    "name": "Collide (Extended Mix)",
+    "link": "https://music.163.com/song?id=493551045",
+    "duration": "03:31",
+    "artists": [
+      { "name": "Rosi Golan", "link": "https://music.163.com/artist?id=72733" },
+      { "name": "Vicetone", "link": "https://music.163.com/artist?id=747030" }
+    ],
+    "album": {
+      "name": "Collide",
+      "link": "https://music.163.com/album?id=35848033"
+    }
+  },
+  {
+    "name": "Never Give Up",
+    "link": "https://music.163.com/song?id=30512348",
+    "duration": "03:36",
+    "artists": [
+      { "name": "Vexento", "link": "https://music.163.com/artist?id=12037010" }
+    ],
+    "album": {
+      "name": "Never Give Up",
+      "link": "https://music.163.com/album?id=3102390"
+    }
+  },
+  {
+    "name": "Floating Symmetry (Mark & Lukas Remix)",
+    "link": "https://music.163.com/song?id=520459393",
+    "duration": "06:10",
+    "artists": [
+      {
+        "name": "Roald Velden",
+        "link": "https://music.163.com/artist?id=178498"
+      },
+      {
+        "name": "Vince Forwards",
+        "link": "https://music.163.com/artist?id=763088"
+      },
+      {
+        "name": "Mark & Lukas",
+        "link": "https://music.163.com/artist?id=1104097"
+      }
+    ],
+    "album": {
+      "name": "Floating Symmetry",
+      "link": "https://music.163.com/album?id=36853133"
+    }
+  },
+  {
+    "name": "Revelation",
+    "link": "https://music.163.com/song?id=435552384",
+    "duration": "04:23",
+    "artists": [
+      { "name": "JJD", "link": "https://music.163.com/artist?id=472822" }
+    ],
+    "album": {
+      "name": "Revelation",
+      "link": "https://music.163.com/album?id=34922053"
+    }
+  },
+  {
+    "name": "Only You (Extended Mix)",
+    "link": "https://music.163.com/song?id=536570593",
+    "duration": "08:08",
+    "artists": [
+      { "name": "Driftmoon", "link": "https://music.163.com/artist?id=845037" },
+      {
+        "name": "Julie Thompson",
+        "link": "https://music.163.com/artist?id=62648"
+      }
+    ],
+    "album": {
+      "name": "Only You",
+      "link": "https://music.163.com/album?id=37575150"
+    }
+  },
+  {
+    "name": "So Lonely (Original Mix)",
+    "link": "https://music.163.com/song?id=35845929",
+    "duration": "05:16",
+    "artists": [
+      { "name": "DJ Feel", "link": "https://music.163.com/artist?id=32008" },
+      {
+        "name": "Chris Jones",
+        "link": "https://music.163.com/artist?id=52331"
+      },
+      {
+        "name": "Vadim Spark",
+        "link": "https://music.163.com/artist?id=268682"
+      }
+    ],
+    "album": {
+      "name": "So Lonely",
+      "link": "https://music.163.com/album?id=3367413"
+    }
+  },
+  {
+    "name": "Zither Headshot (Gustavo B O & Sorrock Edit)",
+    "link": "https://music.163.com/song?id=34497095",
+    "duration": "03:09",
+    "artists": [
+      {
+        "name": " JAYDEN PARX",
+        "link": "https://music.163.com/artist?id=789275"
+      },
+      { "name": "GMAXX", "link": "https://music.163.com/artist?id=1084154" },
+      { "name": "MAXXD", "link": "https://music.163.com/artist?id=1084160" },
+      {
+        "name": "Gustavo B O & Sorrock",
+        "link": "https://music.163.com/artist?id=1146067"
+      }
+    ],
+    "album": {
+      "name": "Zither Headshot (Gustavo B O & Sorrock Edit)",
+      "link": "https://music.163.com/album?id=3286162"
+    }
+  },
+  {
+    "name": "Pretty Girl",
+    "link": "https://music.163.com/song?id=26697861",
+    "duration": "03:14",
+    "artists": [
+      {
+        "name": "Aaron Smith",
+        "link": "https://music.163.com/artist?id=145965"
+      }
+    ],
+    "album": {
+      "name": "Love Stoned",
+      "link": "https://music.163.com/album?id=2549641"
+    }
+  }
+]

@@ -1,0 +1,389 @@
+[
+  {
+    "name": "You & I",
+    "link": "https://music.163.com/song?id=1402906599",
+    "duration": "03:50",
+    "artists": [
+      { "name": "milet", "link": "https://music.163.com/artist?id=31464106" }
+    ],
+    "album": {
+      "name": "You & I",
+      "link": "https://music.163.com/album?id=83229295"
+    }
+  },
+  {
+    "name": "See-Through",
+    "link": "https://music.163.com/song?id=569105350",
+    "duration": "04:24",
+    "artists": [
+      { "name": "Chad Valley", "link": "https://music.163.com/artist?id=31012" }
+    ],
+    "album": {
+      "name": "Imaginary Music",
+      "link": "https://music.163.com/album?id=39391229"
+    }
+  },
+  {
+    "name": "缶ビール - (罐装啤酒)",
+    "link": "https://music.163.com/song?id=1387105693",
+    "duration": "02:52",
+    "artists": [
+      { "name": "みゆな", "link": "https://music.163.com/artist?id=30110388" }
+    ],
+    "album": {
+      "name": "ユラレル",
+      "link": "https://music.163.com/album?id=81675046"
+    }
+  },
+  {
+    "name": "Fall In Love",
+    "link": "https://music.163.com/song?id=1347227665",
+    "duration": "03:45",
+    "artists": [
+      { "name": "SF9", "link": "https://music.163.com/artist?id=12121227" }
+    ],
+    "album": {
+      "name": "NARCISSUS",
+      "link": "https://music.163.com/album?id=75638263"
+    }
+  },
+  {
+    "name": "ハッピーエンド",
+    "link": "https://music.163.com/song?id=441116300",
+    "duration": "05:14",
+    "artists": [
+      { "name": "back number", "link": "https://music.163.com/artist?id=18771" }
+    ],
+    "album": {
+      "name": "ハッピーエンド",
+      "link": "https://music.163.com/album?id=34984461"
+    }
+  },
+  {
+    "name": "너의 기억을 - (你的记忆)",
+    "link": "https://music.163.com/song?id=464188613",
+    "duration": "03:05",
+    "artists": [
+      { "name": "MJ", "link": "https://music.163.com/artist?id=124333" }
+    ],
+    "album": {
+      "name": "같은이별 다른온도",
+      "link": "https://music.163.com/album?id=35256183"
+    }
+  },
+  {
+    "name": "風に吹かれて  - (TV动画《辉夜大小姐想让我告白? ~天才们的恋爱头脑战~》片尾曲)",
+    "link": "https://music.163.com/song?id=1443613262",
+    "duration": "04:32",
+    "artists": [
+      { "name": "福原遥", "link": "https://music.163.com/artist?id=16463" }
+    ],
+    "album": {
+      "name": "風に吹かれて ",
+      "link": "https://music.163.com/album?id=88576463"
+    }
+  },
+  {
+    "name": "Still Alive - (存活)",
+    "link": "https://music.163.com/song?id=29392943",
+    "duration": "04:32",
+    "artists": [
+      { "name": "Niha", "link": "https://music.163.com/artist?id=13849" }
+    ],
+    "album": {
+      "name": "Everything's gonna be all lie",
+      "link": "https://music.163.com/album?id=3018076"
+    }
+  },
+  {
+    "name": "All The Things",
+    "link": "https://music.163.com/song?id=554242625",
+    "duration": "03:11",
+    "artists": [
+      { "name": "IONE", "link": "https://music.163.com/artist?id=12068070" }
+    ],
+    "album": {
+      "name": "All The Things",
+      "link": "https://music.163.com/album?id=38433164"
+    }
+  },
+  {
+    "name": "Raise your voice",
+    "link": "https://music.163.com/song?id=1392728804",
+    "duration": "03:25",
+    "artists": [
+      { "name": "金钟国", "link": "https://music.163.com/artist?id=123748" },
+      { "name": "哈哈", "link": "https://music.163.com/artist?id=123646" },
+      { "name": "Gummy", "link": "https://music.163.com/artist?id=125351" }
+    ],
+    "album": {
+      "name": "런닝맨 팬미팅 런닝구 프로젝트",
+      "link": "https://music.163.com/album?id=81852669"
+    }
+  },
+  {
+    "name": "So Blue",
+    "link": "https://music.163.com/song?id=27885068",
+    "duration": "03:34",
+    "artists": [
+      { "name": "Akon", "link": "https://music.163.com/artist?id=27595" }
+    ],
+    "album": {
+      "name": "So Blue",
+      "link": "https://music.163.com/album?id=2689264"
+    }
+  },
+  {
+    "name": "HALF - (TVアニメ「東京喰種:re」EDテーマ)",
+    "link": "https://music.163.com/song?id=553543182",
+    "duration": "03:58",
+    "artists": [
+      { "name": "女王蜂", "link": "https://music.163.com/artist?id=22492" }
+    ],
+    "album": {
+      "name": "HALF",
+      "link": "https://music.163.com/album?id=38274138"
+    }
+  },
+  {
+    "name": "Beautiful Journey",
+    "link": "https://music.163.com/song?id=1375914761",
+    "duration": "04:18",
+    "artists": [
+      { "name": "平井 大", "link": "https://music.163.com/artist?id=14270" }
+    ],
+    "album": {
+      "name": "Beautiful Journey",
+      "link": "https://music.163.com/album?id=80216530"
+    }
+  },
+  {
+    "name": "誰にだって訳がある - (电影《再见，嘴唇》插曲 / 映画「さよならくちびる」挿入歌)",
+    "link": "https://music.163.com/song?id=1366904129",
+    "duration": "02:53",
+    "artists": [
+      { "name": "ハルレオ", "link": "https://music.163.com/artist?id=31979780" }
+    ],
+    "album": {
+      "name": "さよならくちびる",
+      "link": "https://music.163.com/album?id=79310385"
+    }
+  },
+  {
+    "name": "GUILTY",
+    "link": "https://music.163.com/song?id=1440802928",
+    "duration": "05:03",
+    "artists": [
+      { "name": "DEPAPEPE", "link": "https://music.163.com/artist?id=19107" }
+    ],
+    "album": {
+      "name": "Seek",
+      "link": "https://music.163.com/album?id=88048933"
+    }
+  },
+  {
+    "name": "Crashing vs. Destiny",
+    "link": "https://music.163.com/song?id=1454865517",
+    "duration": "02:52",
+    "artists": [
+      { "name": "ILLENIUM", "link": "https://music.163.com/artist?id=1050518" },
+      { "name": "Blanke", "link": "https://music.163.com/artist?id=13369420" },
+      { "name": "1788-L", "link": "https://music.163.com/artist?id=13579058" },
+      { "name": "Bahari", "link": "https://music.163.com/artist?id=1044218" }
+    ],
+    "album": {
+      "name": "ASCEND (Tour Edits)",
+      "link": "https://music.163.com/album?id=90763326"
+    }
+  },
+  {
+    "name": "Regret",
+    "link": "https://music.163.com/song?id=26137945",
+    "duration": "04:53",
+    "artists": [
+      {
+        "name": "Eric Chiryoku",
+        "link": "https://music.163.com/artist?id=14058"
+      }
+    ],
+    "album": {
+      "name": "Autumn Journey",
+      "link": "https://music.163.com/album?id=2394704"
+    }
+  },
+  {
+    "name": "まちがいさがし - (日剧《完美世界》片尾曲)",
+    "link": "https://music.163.com/song?id=1376756259",
+    "duration": "03:43",
+    "artists": [
+      { "name": "菅田将暉", "link": "https://music.163.com/artist?id=12334348" }
+    ],
+    "album": {
+      "name": "LOVE",
+      "link": "https://music.163.com/album?id=80281719"
+    }
+  },
+  {
+    "name": "Goodbyes",
+    "link": "https://music.163.com/song?id=1376091996",
+    "duration": "02:54",
+    "artists": [
+      {
+        "name": "Post Malone",
+        "link": "https://music.163.com/artist?id=1057092"
+      },
+      { "name": "Young Thug", "link": "https://music.163.com/artist?id=287014" }
+    ],
+    "album": {
+      "name": "Goodbyes",
+      "link": "https://music.163.com/album?id=80235962"
+    }
+  },
+  {
+    "name": "oath sign - (TVアニメ「Fate/Zero」OP1テーマ)",
+    "link": "https://music.163.com/song?id=608404",
+    "duration": "04:09",
+    "artists": [
+      { "name": "LiSA", "link": "https://music.163.com/artist?id=16995" }
+    ],
+    "album": {
+      "name": "oath sign",
+      "link": "https://music.163.com/album?id=57738"
+    }
+  },
+  {
+    "name": "remember - (剧场版动画《夏目友人帐: 缘结空蝉》主题曲 ； 劇場版动画『夏目友人帳 ~うつせみに結ぶ~』主題歌)",
+    "link": "https://music.163.com/song?id=1311347592",
+    "duration": "05:47",
+    "artists": [
+      { "name": "Uru", "link": "https://music.163.com/artist?id=12062125" }
+    ],
+    "album": {
+      "name": "Remember",
+      "link": "https://music.163.com/album?id=73470777"
+    }
+  },
+  {
+    "name": "カノジョ",
+    "link": "https://music.163.com/song?id=22736708",
+    "duration": "03:17",
+    "artists": [
+      {
+        "name": "UPLIFT SPICE",
+        "link": "https://music.163.com/artist?id=22191"
+      }
+    ],
+    "album": {
+      "name": "Uplift Spice",
+      "link": "https://music.163.com/album?id=2087719"
+    }
+  },
+  {
+    "name": "名前のない怪物 - (TV动画《心理测量者》一期ED1 / TVアニメ「PSYCHO-PASS サイコパス」第1期ED1)",
+    "link": "https://music.163.com/song?id=31649320",
+    "duration": "01:38",
+    "artists": [
+      { "name": "EGOIST", "link": "https://music.163.com/artist?id=19353" }
+    ],
+    "album": {
+      "name": "ノイタミナ FAN BEST",
+      "link": "https://music.163.com/album?id=3121709"
+    }
+  },
+  {
+    "name": "The Comeback Kid",
+    "link": "https://music.163.com/song?id=426026092",
+    "duration": "05:21",
+    "artists": [
+      {
+        "name": "The Midnight",
+        "link": "https://music.163.com/artist?id=12023492"
+      }
+    ],
+    "album": {
+      "name": "Endless Summer",
+      "link": "https://music.163.com/album?id=34826028"
+    }
+  },
+  {
+    "name": "素直になれたら",
+    "link": "https://music.163.com/song?id=447281461",
+    "duration": "03:59",
+    "artists": [
+      { "name": "miu-clips", "link": "https://music.163.com/artist?id=17088" }
+    ],
+    "album": {
+      "name": "「オーバー・フェンス」オリジナル・サウンドトラック",
+      "link": "https://music.163.com/album?id=35012932"
+    }
+  },
+  {
+    "name": "Story",
+    "link": "https://music.163.com/song?id=26432340",
+    "duration": "04:00",
+    "artists": [
+      { "name": "西野カナ", "link": "https://music.163.com/artist?id=17313" }
+    ],
+    "album": {
+      "name": "Believe",
+      "link": "https://music.163.com/album?id=2497469"
+    }
+  },
+  {
+    "name": "12 Face to Face",
+    "link": "https://music.163.com/song?id=1377021951",
+    "duration": "06:04",
+    "artists": [
+      { "name": "E.O.S", "link": "https://music.163.com/artist?id=12996779" }
+    ],
+    "album": {
+      "name": "The Last Light",
+      "link": "https://music.163.com/album?id=80307455"
+    }
+  },
+  {
+    "name": "Saying Goodnight",
+    "link": "https://music.163.com/song?id=1073700",
+    "duration": "03:25",
+    "artists": [
+      { "name": "NCThompson", "link": "https://music.163.com/artist?id=29055" }
+    ],
+    "album": {
+      "name": "Another Quiet Winter",
+      "link": "https://music.163.com/album?id=111915"
+    }
+  },
+  {
+    "name": "Always Ends",
+    "link": "https://music.163.com/song?id=520277063",
+    "duration": "03:25",
+    "artists": [
+      {
+        "name": "Adib Sin",
+        "link": "https://music.163.com/artist?id=12244027"
+      },
+      { "name": "Auratrnc", "link": "https://music.163.com/artist?id=14714103" }
+    ],
+    "album": {
+      "name": "Always Ends",
+      "link": "https://music.163.com/album?id=36844028"
+    }
+  },
+  {
+    "name": "春、恋、花以外の（翻自 匀子） ",
+    "link": "https://music.163.com/song?id=1308032189",
+    "duration": "03:15",
+    "artists": [
+      { "name": "茶玖", "link": "https://music.163.com/artist?id=12699916" },
+      {
+        "name": "熊太kuma",
+        "link": "https://music.163.com/artist?id=12428075"
+      },
+      { "name": "池树", "link": "https://music.163.com/artist?id=28638283" }
+    ],
+    "album": {
+      "name": "春、恋、花以外の（原曲：봄 사랑 벚꽃 말고/除了春天 爱情和樱花）",
+      "link": "https://music.163.com/album?id=72980307"
+    }
+  }
+]

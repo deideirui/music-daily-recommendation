@@ -1,0 +1,455 @@
+[
+  {
+    "name": "Faces",
+    "link": "https://music.163.com/song?id=1393864721",
+    "duration": "03:25",
+    "artists": [
+      { "name": "Jade Key", "link": "https://music.163.com/artist?id=33590472" }
+    ],
+    "album": {
+      "name": "Faces",
+      "link": "https://music.163.com/album?id=82011639"
+    }
+  },
+  {
+    "name": "Falling",
+    "link": "https://music.163.com/song?id=409931826",
+    "duration": "03:30",
+    "artists": [
+      { "name": "AndyM", "link": "https://music.163.com/artist?id=12023320" }
+    ],
+    "album": {
+      "name": "Falling",
+      "link": "https://music.163.com/album?id=34613580"
+    }
+  },
+  {
+    "name": "Moral of the Story",
+    "link": "https://music.163.com/song?id=1345485671",
+    "duration": "03:21",
+    "artists": [
+      { "name": "Ashe", "link": "https://music.163.com/artist?id=12278097" }
+    ],
+    "album": {
+      "name": "Moral of the Story",
+      "link": "https://music.163.com/album?id=75518183"
+    }
+  },
+  {
+    "name": "Flying Nimbus",
+    "link": "https://music.163.com/song?id=1416475545",
+    "duration": "02:53",
+    "artists": [
+      {
+        "name": "Julian Calor",
+        "link": "https://music.163.com/artist?id=894039"
+      },
+      {
+        "name": "BeauDamian",
+        "link": "https://music.163.com/artist?id=12131454"
+      }
+    ],
+    "album": {
+      "name": "Flying Nimbus",
+      "link": "https://music.163.com/album?id=84956129"
+    }
+  },
+  {
+    "name": "Shiawase (VIP)",
+    "link": "https://music.163.com/song?id=1468913160",
+    "duration": "03:01",
+    "artists": [
+      {
+        "name": "Dion Timmer",
+        "link": "https://music.163.com/artist?id=11998053"
+      }
+    ],
+    "album": {
+      "name": "Shiawase (VIP)",
+      "link": "https://music.163.com/album?id=93595945"
+    }
+  },
+  {
+    "name": "Sad Robot",
+    "link": "https://music.163.com/song?id=1418900020",
+    "duration": "02:46",
+    "artists": [
+      { "name": "Vexento", "link": "https://music.163.com/artist?id=12037010" }
+    ],
+    "album": {
+      "name": "Sad Robot",
+      "link": "https://music.163.com/album?id=85213884"
+    }
+  },
+  {
+    "name": "0.0",
+    "link": "https://music.163.com/song?id=1381126000",
+    "duration": "04:12",
+    "artists": [
+      {
+        "name": "AJonnyCool",
+        "link": "https://music.163.com/artist?id=12282902"
+      }
+    ],
+    "album": {
+      "name": "0.0",
+      "link": "https://music.163.com/album?id=80697620"
+    }
+  },
+  {
+    "name": "aLIEz - (TV动画《ALDNOAH.ZERO》ED2 )",
+    "link": "https://music.163.com/song?id=29307041",
+    "duration": "04:28",
+    "artists": [
+      {
+        "name": "mizuki (瑞葵)",
+        "link": "https://music.163.com/artist?id=981205"
+      },
+      {
+        "name": "SawanoHiroyuki[nZk]",
+        "link": "https://music.163.com/artist?id=1096011"
+      }
+    ],
+    "album": {
+      "name": "A/Z | aLIEz",
+      "link": "https://music.163.com/album?id=2982127"
+    }
+  },
+  {
+    "name": "Promised Land",
+    "link": "https://music.163.com/song?id=1403528212",
+    "duration": "02:34",
+    "artists": [
+      {
+        "name": "Audiomachine",
+        "link": "https://music.163.com/artist?id=87066"
+      }
+    ],
+    "album": {
+      "name": "Nomad",
+      "link": "https://music.163.com/album?id=83340826"
+    }
+  },
+  {
+    "name": "GLASSY SKY - (琉璃夜空)",
+    "link": "https://music.163.com/song?id=30706129",
+    "duration": "04:54",
+    "artists": [
+      { "name": "Donna Burke", "link": "https://music.163.com/artist?id=55424" }
+    ],
+    "album": {
+      "name": "TV ANIMATION Tokyo Ghoul Original Soundtrack",
+      "link": "https://music.163.com/album?id=3104199"
+    }
+  },
+  {
+    "name": "Queen Of The Night",
+    "link": "https://music.163.com/song?id=1378849987",
+    "duration": "03:17",
+    "artists": [
+      {
+        "name": "Hey Violet",
+        "link": "https://music.163.com/artist?id=1102151"
+      }
+    ],
+    "album": {
+      "name": "Queen Of The Night",
+      "link": "https://music.163.com/album?id=80493711"
+    }
+  },
+  {
+    "name": "Circles",
+    "link": "https://music.163.com/song?id=1337110019",
+    "duration": "04:12",
+    "artists": [
+      {
+        "name": "Immediate Music",
+        "link": "https://music.163.com/artist?id=35054"
+      }
+    ],
+    "album": {
+      "name": "Dream Worlds",
+      "link": "https://music.163.com/album?id=75029323"
+    }
+  },
+  {
+    "name": "Always in a Nightmare",
+    "link": "https://music.163.com/song?id=1418205389",
+    "duration": "06:17",
+    "artists": [
+      { "name": "Au5", "link": "https://music.163.com/artist?id=359309" },
+      { "name": "Nytrix", "link": "https://music.163.com/artist?id=11996010" }
+    ],
+    "album": {
+      "name": "Always in a Nightmare",
+      "link": "https://music.163.com/album?id=85135082"
+    }
+  },
+  {
+    "name": "Pale Love",
+    "link": "https://music.163.com/song?id=512358392",
+    "duration": "03:39",
+    "artists": [
+      { "name": "AK", "link": "https://music.163.com/artist?id=1192509" },
+      { "name": "Faodail", "link": "https://music.163.com/artist?id=12334011" }
+    ],
+    "album": {
+      "name": "Pale Love",
+      "link": "https://music.163.com/album?id=36530086"
+    }
+  },
+  {
+    "name": "Life Of Sin Pt. 6",
+    "link": "https://music.163.com/song?id=1373264025",
+    "duration": "04:26",
+    "artists": [
+      { "name": "MitiS", "link": "https://music.163.com/artist?id=40245" }
+    ],
+    "album": {
+      "name": "Life Of Sin Series (2019)",
+      "link": "https://music.163.com/album?id=79931476"
+    }
+  },
+  {
+    "name": "The Future",
+    "link": "https://music.163.com/song?id=1405639141",
+    "duration": "03:35",
+    "artists": [
+      {
+        "name": "Max Brhon",
+        "link": "https://music.163.com/artist?id=32906516"
+      }
+    ],
+    "album": {
+      "name": "The Future",
+      "link": "https://music.163.com/album?id=83635256"
+    }
+  },
+  {
+    "name": "****** Up",
+    "link": "https://music.163.com/song?id=1374155242",
+    "duration": "03:39",
+    "artists": [
+      { "name": "Bahari", "link": "https://music.163.com/artist?id=1044218" }
+    ],
+    "album": {
+      "name": "****** Up",
+      "link": "https://music.163.com/album?id=80009071"
+    }
+  },
+  {
+    "name": "count on",
+    "link": "https://music.163.com/song?id=1322648216",
+    "duration": "03:26",
+    "artists": [
+      { "name": "Shallou", "link": "https://music.163.com/artist?id=12029377" },
+      {
+        "name": "Colin Mags",
+        "link": "https://music.163.com/artist?id=29948406"
+      }
+    ],
+    "album": {
+      "name": "count on",
+      "link": "https://music.163.com/album?id=74233695"
+    }
+  },
+  {
+    "name": "裳裳者华(Original Mix)",
+    "link": "https://music.163.com/song?id=538737139",
+    "duration": "03:05",
+    "artists": [
+      { "name": "杨世贸", "link": "https://music.163.com/artist?id=12571508" },
+      { "name": "ゼレル", "link": "https://music.163.com/artist?id=12571227" }
+    ],
+    "album": {
+      "name": "裳裳者华 (Originial Mix)",
+      "link": "https://music.163.com/album?id=37641336"
+    }
+  },
+  {
+    "name": "Forward(Original Mix)",
+    "link": "https://music.163.com/song?id=450986159",
+    "duration": "03:38",
+    "artists": [
+      { "name": "CLARE", "link": "https://music.163.com/artist?id=12077115" }
+    ],
+    "album": {
+      "name": "Forward",
+      "link": "https://music.163.com/album?id=35102815"
+    }
+  },
+  {
+    "name": "When I See You",
+    "link": "https://music.163.com/song?id=540712100",
+    "duration": "03:23",
+    "artists": [
+      { "name": "Mokita", "link": "https://music.163.com/artist?id=12033046" }
+    ],
+    "album": {
+      "name": "When I See You",
+      "link": "https://music.163.com/album?id=37730722"
+    }
+  },
+  {
+    "name": "Please Don't Go",
+    "link": "https://music.163.com/song?id=37653063",
+    "duration": "03:30",
+    "artists": [
+      {
+        "name": "Joel Adams",
+        "link": "https://music.163.com/artist?id=1188100"
+      }
+    ],
+    "album": {
+      "name": "Please Don't Go",
+      "link": "https://music.163.com/album?id=3415755"
+    }
+  },
+  {
+    "name": "Safe & Sound",
+    "link": "https://music.163.com/song?id=1428681306",
+    "duration": "03:39",
+    "artists": [
+      {
+        "name": "Novaspace",
+        "link": "https://music.163.com/artist?id=1144030"
+      },
+      { "name": "Vade", "link": "https://music.163.com/artist?id=13973122" }
+    ],
+    "album": {
+      "name": "Safe & Sound",
+      "link": "https://music.163.com/album?id=86278405"
+    }
+  },
+  {
+    "name": "Sundress",
+    "link": "https://music.163.com/song?id=1327323511",
+    "duration": "02:38",
+    "artists": [
+      { "name": "A$AP Rocky", "link": "https://music.163.com/artist?id=29100" }
+    ],
+    "album": {
+      "name": "Sundress",
+      "link": "https://music.163.com/album?id=74511317"
+    }
+  },
+  {
+    "name": "Open Road",
+    "link": "https://music.163.com/song?id=1419436595",
+    "duration": "03:20",
+    "artists": [
+      { "name": "Calvo", "link": "https://music.163.com/artist?id=1146039" },
+      {
+        "name": "Agatino Romero",
+        "link": "https://music.163.com/artist?id=12388136"
+      }
+    ],
+    "album": {
+      "name": "Open Road",
+      "link": "https://music.163.com/album?id=85299600"
+    }
+  },
+  {
+    "name": "Rise Above",
+    "link": "https://music.163.com/song?id=1382603082",
+    "duration": "02:45",
+    "artists": [
+      {
+        "name": "Chester Young",
+        "link": "https://music.163.com/artist?id=13703846"
+      },
+      { "name": "Triple M", "link": "https://music.163.com/artist?id=599396" },
+      {
+        "name": "Nathan Brumley",
+        "link": "https://music.163.com/artist?id=1081182"
+      }
+    ],
+    "album": {
+      "name": "Rise Above",
+      "link": "https://music.163.com/album?id=80817072"
+    }
+  },
+  {
+    "name": "When You're Lonely",
+    "link": "https://music.163.com/song?id=1416550753",
+    "duration": "02:51",
+    "artists": [
+      { "name": "Hoang", "link": "https://music.163.com/artist?id=27694442" }
+    ],
+    "album": {
+      "name": "When You're Lonely",
+      "link": "https://music.163.com/album?id=84967168"
+    }
+  },
+  {
+    "name": "Cosmos",
+    "link": "https://music.163.com/song?id=1383130983",
+    "duration": "02:50",
+    "artists": [
+      {
+        "name": "Liam Thomas",
+        "link": "https://music.163.com/artist?id=28387367"
+      }
+    ],
+    "album": {
+      "name": "Cosmos",
+      "link": "https://music.163.com/album?id=80862853"
+    }
+  },
+  {
+    "name": "Adagio for Summer Wind",
+    "link": "https://music.163.com/song?id=760037",
+    "duration": "02:21",
+    "artists": [
+      { "name": "清水淳一", "link": "https://music.163.com/artist?id=12523046" }
+    ],
+    "album": {
+      "name": "クドわふたー オリジナル サウンドトラック",
+      "link": "https://music.163.com/album?id=74699"
+    }
+  },
+  {
+    "name": "Outline",
+    "link": "https://music.163.com/song?id=36308024",
+    "duration": "05:37",
+    "artists": [
+      { "name": "Vanze", "link": "https://music.163.com/artist?id=1081008" },
+      { "name": "Amnesys", "link": "https://music.163.com/artist?id=393106" },
+      {
+        "name": "Brenton Mattheus",
+        "link": "https://music.163.com/artist?id=777352"
+      }
+    ],
+    "album": {
+      "name": "Outline",
+      "link": "https://music.163.com/album?id=3395009"
+    }
+  },
+  {
+    "name": "Better",
+    "link": "https://music.163.com/song?id=473740379",
+    "duration": "03:33",
+    "artists": [
+      {
+        "name": "Skylar Fri",
+        "link": "https://music.163.com/artist?id=12384046"
+      }
+    ],
+    "album": {
+      "name": "Better",
+      "link": "https://music.163.com/album?id=35422123"
+    }
+  },
+  {
+    "name": "Childhood Dreams",
+    "link": "https://music.163.com/song?id=461301178",
+    "duration": "03:07",
+    "artists": [
+      { "name": "ARY", "link": "https://music.163.com/artist?id=12289488" }
+    ],
+    "album": {
+      "name": "Childhood Dreams",
+      "link": "https://music.163.com/album?id=35194448"
+    }
+  }
+]

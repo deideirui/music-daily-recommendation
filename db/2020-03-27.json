@@ -1,0 +1,454 @@
+[
+  {
+    "name": "State Lines",
+    "link": "https://music.163.com/song?id=550034717",
+    "duration": "03:25",
+    "artists": [
+      { "name": "Novo Amor", "link": "https://music.163.com/artist?id=904041" }
+    ],
+    "album": {
+      "name": "State Lines",
+      "link": "https://music.163.com/album?id=38214150"
+    }
+  },
+  {
+    "name": "If We Could Stay High",
+    "link": "https://music.163.com/song?id=556066472",
+    "duration": "03:41",
+    "artists": [
+      {
+        "name": "Chelsea Lankes",
+        "link": "https://music.163.com/artist?id=53032"
+      },
+      { "name": "SJ", "link": "https://music.163.com/artist?id=288146" }
+    ],
+    "album": {
+      "name": "Calabasas",
+      "link": "https://music.163.com/album?id=38519338"
+    }
+  },
+  {
+    "name": "Insomnia",
+    "link": "https://music.163.com/song?id=1350638256",
+    "duration": "02:59",
+    "artists": [
+      { "name": "Daya", "link": "https://music.163.com/artist?id=1081186" }
+    ],
+    "album": {
+      "name": "Insomnia",
+      "link": "https://music.163.com/album?id=75797761"
+    }
+  },
+  {
+    "name": "All My Friends",
+    "link": "https://music.163.com/song?id=1374591773",
+    "duration": "03:40",
+    "artists": [
+      { "name": "Gazzo", "link": "https://music.163.com/artist?id=565266" },
+      {
+        "name": "Jackie Young",
+        "link": "https://music.163.com/artist?id=32485497"
+      }
+    ],
+    "album": {
+      "name": "All My Friends",
+      "link": "https://music.163.com/album?id=80063022"
+    }
+  },
+  {
+    "name": "Whispers",
+    "link": "https://music.163.com/song?id=413834135",
+    "duration": "03:22",
+    "artists": [
+      {
+        "name": "Dave Erpson",
+        "link": "https://music.163.com/artist?id=12031055"
+      }
+    ],
+    "album": {
+      "name": "Whispers",
+      "link": "https://music.163.com/album?id=34702413"
+    }
+  },
+  {
+    "name": "Remember (Original Mix)",
+    "link": "https://music.163.com/song?id=27644359",
+    "duration": "05:37",
+    "artists": [
+      { "name": "Sensitive", "link": "https://music.163.com/artist?id=820340" },
+      {
+        "name": "Bogdan Bondarenko",
+        "link": "https://music.163.com/artist?id=820341"
+      }
+    ],
+    "album": {
+      "name": "Remember",
+      "link": "https://music.163.com/album?id=2651201"
+    }
+  },
+  {
+    "name": "Time Of Your Life",
+    "link": "https://music.163.com/song?id=534066097",
+    "duration": "02:43",
+    "artists": [
+      { "name": "Chicane", "link": "https://music.163.com/artist?id=50971" }
+    ],
+    "album": {
+      "name": "Sun:Sets 2018 (Selected by Chicane)",
+      "link": "https://music.163.com/album?id=37443054"
+    }
+  },
+  {
+    "name": "By Your Side",
+    "link": "https://music.163.com/song?id=456370693",
+    "duration": "03:21",
+    "artists": [
+      { "name": "Raye", "link": "https://music.163.com/artist?id=1077053" },
+      {
+        "name": "Jonas Blue",
+        "link": "https://music.163.com/artist?id=1192069"
+      }
+    ],
+    "album": {
+      "name": "Crowd Pleasers",
+      "link": "https://music.163.com/album?id=35156236"
+    }
+  },
+  {
+    "name": "Number",
+    "link": "https://music.163.com/song?id=537407969",
+    "duration": "02:59",
+    "artists": [
+      {
+        "name": "Alexander Oscar",
+        "link": "https://music.163.com/artist?id=12312150"
+      }
+    ],
+    "album": {
+      "name": "Number",
+      "link": "https://music.163.com/album?id=37561418"
+    }
+  },
+  {
+    "name": "In the eyes",
+    "link": "https://music.163.com/song?id=1303027439",
+    "duration": "03:21",
+    "artists": [
+      { "name": "江映东", "link": "https://music.163.com/artist?id=29148309" }
+    ],
+    "album": {
+      "name": "In the eyes",
+      "link": "https://music.163.com/album?id=72383752"
+    }
+  },
+  {
+    "name": "All Time Low (Cash Cash Remix)",
+    "link": "https://music.163.com/song?id=463159617",
+    "duration": "03:33",
+    "artists": [
+      { "name": "Cash Cash", "link": "https://music.163.com/artist?id=50905" },
+      {
+        "name": "Jon Bellion",
+        "link": "https://music.163.com/artist?id=860113"
+      }
+    ],
+    "album": {
+      "name": "All Time Low (Cash Cash Remix)",
+      "link": "https://music.163.com/album?id=35235334"
+    }
+  },
+  {
+    "name": "Witchcraft (Original Mix)",
+    "link": "https://music.163.com/song?id=520459040",
+    "duration": "02:36",
+    "artists": [
+      {
+        "name": "Matisse & Sadko",
+        "link": "https://music.163.com/artist?id=947054"
+      }
+    ],
+    "album": {
+      "name": "Witchcraft",
+      "link": "https://music.163.com/album?id=36855021"
+    }
+  },
+  {
+    "name": "Everything (Original Mix)",
+    "link": "https://music.163.com/song?id=403012599",
+    "duration": "06:14",
+    "artists": [
+      {
+        "name": "Sunbrothers",
+        "link": "https://music.163.com/artist?id=11996233"
+      },
+      {
+        "name": "Danny Claire",
+        "link": "https://music.163.com/artist?id=208076"
+      }
+    ],
+    "album": {
+      "name": "Everything",
+      "link": "https://music.163.com/album?id=34477508"
+    }
+  },
+  {
+    "name": "The Sign",
+    "link": "https://music.163.com/song?id=529768998",
+    "duration": "03:53",
+    "artists": [
+      { "name": "BaoJunDe", "link": "https://music.163.com/artist?id=12599289" }
+    ],
+    "album": {
+      "name": "The Sign",
+      "link": "https://music.163.com/album?id=37224284"
+    }
+  },
+  {
+    "name": "Monkey See Monkey Do (Feat. Jimmy Hennessy)",
+    "link": "https://music.163.com/song?id=1323272446",
+    "duration": "03:37",
+    "artists": [
+      { "name": "MKJ", "link": "https://music.163.com/artist?id=469200" },
+      { "name": "Haukjem", "link": "https://music.163.com/artist?id=1132228" },
+      {
+        "name": "Jimmy Hennessy",
+        "link": "https://music.163.com/artist?id=13930478"
+      }
+    ],
+    "album": {
+      "name": "Time After Time",
+      "link": "https://music.163.com/album?id=74263822"
+    }
+  },
+  {
+    "name": "Are You My Villain - SJUR Remix",
+    "link": "https://music.163.com/song?id=1396953911",
+    "duration": "02:21",
+    "artists": [
+      { "name": "J.Fla", "link": "https://music.163.com/artist?id=805090" },
+      { "name": "SJUR", "link": "https://music.163.com/artist?id=1137419" }
+    ],
+    "album": {
+      "name": "Are You My Villain (SJUR Remix)",
+      "link": "https://music.163.com/album?id=82411404"
+    }
+  },
+  {
+    "name": "Do You Think About Me",
+    "link": "https://music.163.com/song?id=475597835",
+    "duration": "03:12",
+    "artists": [
+      {
+        "name": "Benjamin Ingrosso",
+        "link": "https://music.163.com/artist?id=1180073"
+      }
+    ],
+    "album": {
+      "name": "Do You Think About Me",
+      "link": "https://music.163.com/album?id=35371975"
+    }
+  },
+  {
+    "name": "It's On",
+    "link": "https://music.163.com/song?id=478720038",
+    "duration": "02:44",
+    "artists": [
+      { "name": "Vin", "link": "https://music.163.com/artist?id=12424108" }
+    ],
+    "album": {
+      "name": "It's On",
+      "link": "https://music.163.com/album?id=35512255"
+    }
+  },
+  {
+    "name": "Let It Flow",
+    "link": "https://music.163.com/song?id=443292082",
+    "duration": "03:48",
+    "artists": [
+      { "name": "Audiofreq", "link": "https://music.163.com/artist?id=402430" },
+      {
+        "name": "Dave Revan",
+        "link": "https://music.163.com/artist?id=1087163"
+      }
+    ],
+    "album": {
+      "name": "Audiology",
+      "link": "https://music.163.com/album?id=35017374"
+    }
+  },
+  {
+    "name": "Forever Away",
+    "link": "https://music.163.com/song?id=1345972276",
+    "duration": "05:07",
+    "artists": [
+      { "name": "千卟", "link": "https://music.163.com/artist?id=29588697" },
+      {
+        "name": "Little End",
+        "link": "https://music.163.com/artist?id=12611210"
+      }
+    ],
+    "album": {
+      "name": "Forever Away",
+      "link": "https://music.163.com/album?id=75522601"
+    }
+  },
+  {
+    "name": "Rescue Me",
+    "link": "https://music.163.com/song?id=1365844416",
+    "duration": "02:38",
+    "artists": [
+      { "name": "OneRepublic", "link": "https://music.163.com/artist?id=98105" }
+    ],
+    "album": {
+      "name": "Rescue Me",
+      "link": "https://music.163.com/album?id=79186892"
+    }
+  },
+  {
+    "name": "Work This Out",
+    "link": "https://music.163.com/song?id=522510373",
+    "duration": "02:35",
+    "artists": [
+      {
+        "name": "Frank Pole",
+        "link": "https://music.163.com/artist?id=12046116"
+      },
+      { "name": "Vitø", "link": "https://music.163.com/artist?id=12786078" }
+    ],
+    "album": {
+      "name": "Work This Out",
+      "link": "https://music.163.com/album?id=36913080"
+    }
+  },
+  {
+    "name": "Forever Young",
+    "link": "https://music.163.com/song?id=1296637878",
+    "duration": "02:47",
+    "artists": [
+      {
+        "name": "John De Sohn",
+        "link": "https://music.163.com/artist?id=290019"
+      },
+      { "name": "Liamoo", "link": "https://music.163.com/artist?id=12409114" }
+    ],
+    "album": {
+      "name": "Forever Young",
+      "link": "https://music.163.com/album?id=72021852"
+    }
+  },
+  {
+    "name": "Hello My Love",
+    "link": "https://music.163.com/song?id=1338728670",
+    "duration": "03:34",
+    "artists": [
+      { "name": "Westlife", "link": "https://music.163.com/artist?id=45839" }
+    ],
+    "album": {
+      "name": "Hello My Love",
+      "link": "https://music.163.com/album?id=75119241"
+    }
+  },
+  {
+    "name": "Wonderlight",
+    "link": "https://music.163.com/song?id=514055600",
+    "duration": "02:45",
+    "artists": [
+      { "name": "Steerner", "link": "https://music.163.com/artist?id=783190" }
+    ],
+    "album": {
+      "name": "Sea of Stars",
+      "link": "https://music.163.com/album?id=36633108"
+    }
+  },
+  {
+    "name": "Narcissist",
+    "link": "https://music.163.com/song?id=1304633827",
+    "duration": "03:15",
+    "artists": [
+      { "name": "No Rome", "link": "https://music.163.com/artist?id=759131" },
+      { "name": "The 1975", "link": "https://music.163.com/artist?id=104457" }
+    ],
+    "album": {
+      "name": "RIP Indo Hisashi",
+      "link": "https://music.163.com/album?id=72528791"
+    }
+  },
+  {
+    "name": "Part-Time Lover",
+    "link": "https://music.163.com/song?id=1347227963",
+    "duration": "03:39",
+    "artists": [
+      { "name": "Dabin", "link": "https://music.163.com/artist?id=783446" },
+      {
+        "name": "Claire Ridgely",
+        "link": "https://music.163.com/artist?id=14935781"
+      }
+    ],
+    "album": {
+      "name": "Wild Youth",
+      "link": "https://music.163.com/album?id=75638746"
+    }
+  },
+  {
+    "name": "Where The Love Goes",
+    "link": "https://music.163.com/song?id=475264163",
+    "duration": "03:04",
+    "artists": [
+      { "name": "Anjulie", "link": "https://music.163.com/artist?id=46502" },
+      {
+        "name": "Oskar Flood",
+        "link": "https://music.163.com/artist?id=14078515"
+      }
+    ],
+    "album": {
+      "name": "Where The Love Goes",
+      "link": "https://music.163.com/album?id=35448092"
+    }
+  },
+  {
+    "name": "Miracle In The Middle Of My Heart (Original Mix)",
+    "link": "https://music.163.com/song?id=36492196",
+    "duration": "04:14",
+    "artists": [
+      {
+        "name": "Clément Bcx",
+        "link": "https://music.163.com/artist?id=1078228"
+      }
+    ],
+    "album": {
+      "name": "Miracle In The Middle Of My Heart (Original Mix)",
+      "link": "https://music.163.com/album?id=3394292"
+    }
+  },
+  {
+    "name": "Illusion",
+    "link": "https://music.163.com/song?id=515453038",
+    "duration": "03:23",
+    "artists": [
+      { "name": "Jubël", "link": "https://music.163.com/artist?id=12312412" }
+    ],
+    "album": {
+      "name": "Illusion",
+      "link": "https://music.163.com/album?id=36680015"
+    }
+  },
+  {
+    "name": "Beautiful Days (Intro Mix)",
+    "link": "https://music.163.com/song?id=28877658",
+    "duration": "06:16",
+    "artists": [
+      {
+        "name": "Melosense",
+        "link": "https://music.163.com/artist?id=12082032"
+      },
+      {
+        "name": "Stratos Messinis",
+        "link": "https://music.163.com/artist?id=29814078"
+      }
+    ],
+    "album": {
+      "name": "Elemental Progressions Volume 1",
+      "link": "https://music.163.com/album?id=2919560"
+    }
+  }
+]

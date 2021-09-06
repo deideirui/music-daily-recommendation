@@ -1,0 +1,449 @@
+[
+  {
+    "name": "Don't Miss Missing You",
+    "link": "https://music.163.com/song?id=2415517",
+    "duration": "04:11",
+    "artists": [
+      {
+        "name": "Claudia Cream",
+        "link": "https://music.163.com/artist?id=53188"
+      }
+    ],
+    "album": {
+      "name": "Wrong Girl for That",
+      "link": "https://music.163.com/album?id=243745"
+    }
+  },
+  {
+    "name": "More Than Friends",
+    "link": "https://music.163.com/song?id=1377262610",
+    "duration": "02:39",
+    "artists": [
+      { "name": "Mokita", "link": "https://music.163.com/artist?id=12033046" }
+    ],
+    "album": {
+      "name": "4201",
+      "link": "https://music.163.com/album?id=80333414"
+    }
+  },
+  {
+    "name": "Once Upon a Time",
+    "link": "https://music.163.com/song?id=1381053651",
+    "duration": "03:54",
+    "artists": [
+      {
+        "name": "Aash Mehta",
+        "link": "https://music.163.com/artist?id=1094364"
+      }
+    ],
+    "album": {
+      "name": "Once Upon a Time",
+      "link": "https://music.163.com/album?id=80684363"
+    }
+  },
+  {
+    "name": "Hollow",
+    "link": "https://music.163.com/song?id=29712215",
+    "duration": "03:02",
+    "artists": [
+      { "name": "Janet Leon", "link": "https://music.163.com/artist?id=37016" }
+    ],
+    "album": {
+      "name": "Hollow",
+      "link": "https://music.163.com/album?id=2958355"
+    }
+  },
+  {
+    "name": "Curtain Call",
+    "link": "https://music.163.com/song?id=1089465",
+    "duration": "03:11",
+    "artists": [
+      { "name": "Bryan Rice", "link": "https://music.163.com/artist?id=29362" }
+    ],
+    "album": {
+      "name": "Another Piece of Me",
+      "link": "https://music.163.com/album?id=113249"
+    }
+  },
+  {
+    "name": "Verliebt, verlobt, verflixt nochmal",
+    "link": "https://music.163.com/song?id=544232123",
+    "duration": "03:18",
+    "artists": [
+      {
+        "name": "Beatrice Egli",
+        "link": "https://music.163.com/artist?id=768331"
+      }
+    ],
+    "album": {
+      "name": "Verliebt, verlobt, verflixt nochmal",
+      "link": "https://music.163.com/album?id=37895040"
+    }
+  },
+  {
+    "name": "Hubble",
+    "link": "https://music.163.com/song?id=1332489570",
+    "duration": "02:36",
+    "artists": [
+      {
+        "name": "Audiomachine",
+        "link": "https://music.163.com/artist?id=87066"
+      }
+    ],
+    "album": {
+      "name": "Intros 2",
+      "link": "https://music.163.com/album?id=74829841"
+    }
+  },
+  {
+    "name": "Living in Stereo (Steve Modana Radio Edit)",
+    "link": "https://music.163.com/song?id=26066912",
+    "duration": "03:28",
+    "artists": [
+      { "name": "R.I.O.", "link": "https://music.163.com/artist?id=42495" }
+    ],
+    "album": {
+      "name": "Living in Stereo",
+      "link": "https://music.163.com/album?id=2371268"
+    }
+  },
+  {
+    "name": "Boomerang",
+    "link": "https://music.163.com/song?id=1299983820",
+    "duration": "02:10",
+    "artists": [
+      {
+        "name": "Felix Snow",
+        "link": "https://music.163.com/artist?id=11985058"
+      },
+      {
+        "name": "Teflon Sega",
+        "link": "https://music.163.com/artist?id=12154027"
+      },
+      { "name": "TYSM", "link": "https://music.163.com/artist?id=12278200" }
+    ],
+    "album": {
+      "name": "Boomerang",
+      "link": "https://music.163.com/album?id=72198395"
+    }
+  },
+  {
+    "name": "Sweet Liar",
+    "link": "https://music.163.com/song?id=28188103",
+    "duration": "03:35",
+    "artists": [
+      { "name": "Ms Trez", "link": "https://music.163.com/artist?id=866010" }
+    ],
+    "album": {
+      "name": "Sweet Liar",
+      "link": "https://music.163.com/album?id=2742024"
+    }
+  },
+  {
+    "name": "8 Letters (R3HAB Remix)",
+    "link": "https://music.163.com/song?id=1312710292",
+    "duration": "02:12",
+    "artists": [
+      {
+        "name": "Why Don't We",
+        "link": "https://music.163.com/artist?id=12468277"
+      },
+      { "name": "R3hab", "link": "https://music.163.com/artist?id=197248" }
+    ],
+    "album": {
+      "name": "8 Letters (R3HAB Remix)",
+      "link": "https://music.163.com/album?id=73606437"
+    }
+  },
+  {
+    "name": "Rollercoaster",
+    "link": "https://music.163.com/song?id=419116144",
+    "duration": "03:01",
+    "artists": [
+      {
+        "name": "Dolly Style",
+        "link": "https://music.163.com/artist?id=1057284"
+      }
+    ],
+    "album": {
+      "name": "Melodifestivalen 2016",
+      "link": "https://music.163.com/album?id=34749355"
+    }
+  },
+  {
+    "name": "Que Sera",
+    "link": "https://music.163.com/song?id=28546410",
+    "duration": "03:30",
+    "artists": [
+      {
+        "name": "Justice Crew",
+        "link": "https://music.163.com/artist?id=95133"
+      }
+    ],
+    "album": {
+      "name": "Que Sera",
+      "link": "https://music.163.com/album?id=2834086"
+    }
+  },
+  {
+    "name": "水(Original Mix)",
+    "link": "https://music.163.com/song?id=460793376",
+    "duration": "02:50",
+    "artists": [
+      { "name": "LeeAlive", "link": "https://music.163.com/artist?id=12002020" }
+    ],
+    "album": {
+      "name": "水(Original Mix)",
+      "link": "https://music.163.com/album?id=35190493"
+    }
+  },
+  {
+    "name": "Hue",
+    "link": "https://music.163.com/song?id=1355169880",
+    "duration": "04:06",
+    "artists": [
+      {
+        "name": "Dave Thomas Junior",
+        "link": "https://music.163.com/artist?id=32233"
+      }
+    ],
+    "album": {
+      "name": "Hue",
+      "link": "https://music.163.com/album?id=78245972"
+    }
+  },
+  {
+    "name": "Fallen",
+    "link": "https://music.163.com/song?id=29947252",
+    "duration": "03:32",
+    "artists": [
+      {
+        "name": "Stine Hjelm",
+        "link": "https://music.163.com/artist?id=1045117"
+      }
+    ],
+    "album": {
+      "name": "Fallen",
+      "link": "https://music.163.com/album?id=3087253"
+    }
+  },
+  {
+    "name": "Paper Love",
+    "link": "https://music.163.com/song?id=475207414",
+    "duration": "03:17",
+    "artists": [
+      { "name": "Allie X", "link": "https://music.163.com/artist?id=973030" }
+    ],
+    "album": {
+      "name": "Paper Love",
+      "link": "https://music.163.com/album?id=35377988"
+    }
+  },
+  {
+    "name": "Wannabe",
+    "link": "https://music.163.com/song?id=501220770",
+    "duration": "03:37",
+    "artists": [
+      {
+        "name": "Why Mona",
+        "link": "https://music.163.com/artist?id=15008055"
+      },
+      {
+        "name": "Unlike Pluto",
+        "link": "https://music.163.com/artist?id=860945"
+      },
+      {
+        "name": "Joanna Jones",
+        "link": "https://music.163.com/artist?id=13932656"
+      }
+    ],
+    "album": {
+      "name": "Wannabe",
+      "link": "https://music.163.com/album?id=36030485"
+    }
+  },
+  {
+    "name": "A Story of Fate - (三生树)",
+    "link": "https://music.163.com/song?id=512989806",
+    "duration": "03:33",
+    "artists": [
+      { "name": "Jannik", "link": "https://music.163.com/artist?id=12065179" }
+    ],
+    "album": {
+      "name": "A Story of Fate",
+      "link": "https://music.163.com/album?id=36568111"
+    }
+  },
+  {
+    "name": "Teenage Dream",
+    "link": "https://music.163.com/song?id=22441762",
+    "duration": "03:47",
+    "artists": [
+      { "name": "Katy Perry", "link": "https://music.163.com/artist?id=62888" }
+    ],
+    "album": {
+      "name": "Teenage Dream",
+      "link": "https://music.163.com/album?id=2054346"
+    }
+  },
+  {
+    "name": "Made in Hollywood",
+    "link": "https://music.163.com/song?id=31814116",
+    "duration": "03:34",
+    "artists": [
+      { "name": "LANY", "link": "https://music.163.com/artist?id=999460" }
+    ],
+    "album": {
+      "name": "Made in Hollywood",
+      "link": "https://music.163.com/album?id=3140026"
+    }
+  },
+  {
+    "name": "Jar Of Love",
+    "link": "https://music.163.com/song?id=25713016",
+    "duration": "03:52",
+    "artists": [
+      { "name": "曲婉婷", "link": "https://music.163.com/artist?id=9178" }
+    ],
+    "album": {
+      "name": "Everything In The World (白金庆功版)",
+      "link": "https://music.163.com/album?id=2289002"
+    }
+  },
+  {
+    "name": "I Am You",
+    "link": "https://music.163.com/song?id=2919622",
+    "duration": "04:34",
+    "artists": [
+      { "name": "Kim Taylor", "link": "https://music.163.com/artist?id=63943" }
+    ],
+    "album": {
+      "name": "I Am You",
+      "link": "https://music.163.com/album?id=294835"
+    }
+  },
+  {
+    "name": "I've Got The Love",
+    "link": "https://music.163.com/song?id=30590616",
+    "duration": "04:41",
+    "artists": [
+      {
+        "name": "Various Artists",
+        "link": "https://music.163.com/artist?id=104700"
+      }
+    ],
+    "album": {
+      "name": "最新热歌慢摇1",
+      "link": "https://music.163.com/album?id=2515015"
+    }
+  },
+  {
+    "name": "Sub Aripa Ta",
+    "link": "https://music.163.com/song?id=31356347",
+    "duration": "03:25",
+    "artists": [
+      { "name": "Ester", "link": "https://music.163.com/artist?id=1058206" },
+      { "name": "Vescan", "link": "https://music.163.com/artist?id=1015071" }
+    ],
+    "album": {
+      "name": "最新热歌慢摇76",
+      "link": "https://music.163.com/album?id=2923073"
+    }
+  },
+  {
+    "name": "NERVOUS",
+    "link": "https://music.163.com/song?id=1383171494",
+    "duration": "02:57",
+    "artists": [
+      {
+        "name": "Jake Miller",
+        "link": "https://music.163.com/artist?id=776761"
+      },
+      { "name": "Tomos", "link": "https://music.163.com/artist?id=29597924" }
+    ],
+    "album": {
+      "name": "NERVOUS",
+      "link": "https://music.163.com/album?id=80866352"
+    }
+  },
+  {
+    "name": "Pagoda",
+    "link": "https://music.163.com/song?id=1325892124",
+    "duration": "05:10",
+    "artists": [
+      { "name": "Xomu", "link": "https://music.163.com/artist?id=12903205" },
+      { "name": "Amidst", "link": "https://music.163.com/artist?id=12715779" }
+    ],
+    "album": {
+      "name": "Pagoda",
+      "link": "https://music.163.com/album?id=74395409"
+    }
+  },
+  {
+    "name": "Out Cold",
+    "link": "https://music.163.com/song?id=1378742137",
+    "duration": "02:46",
+    "artists": [
+      { "name": "AYEON", "link": "https://music.163.com/artist?id=30713803" }
+    ],
+    "album": {
+      "name": "Out Cold",
+      "link": "https://music.163.com/album?id=80464590"
+    }
+  },
+  {
+    "name": "Rain Falling Down",
+    "link": "https://music.163.com/song?id=26253147",
+    "duration": "03:31",
+    "artists": [
+      { "name": "Sianna", "link": "https://music.163.com/artist?id=214421" }
+    ],
+    "album": {
+      "name": "Romanian March Hits Vol.5 (2013)",
+      "link": "https://music.163.com/album?id=2431827"
+    }
+  },
+  {
+    "name": "Samurai",
+    "link": "https://music.163.com/song?id=407889615",
+    "duration": "05:35",
+    "artists": [
+      { "name": "DEAF KEV", "link": "https://music.163.com/artist?id=1079127" }
+    ],
+    "album": {
+      "name": "Samurai ",
+      "link": "https://music.163.com/album?id=34589389"
+    }
+  },
+  {
+    "name": "Five Days",
+    "link": "https://music.163.com/song?id=33789785",
+    "duration": "03:19",
+    "artists": [
+      { "name": "Patrick Nuo", "link": "https://music.163.com/artist?id=41161" }
+    ],
+    "album": {
+      "name": "Five Days",
+      "link": "https://music.163.com/album?id=3263283"
+    }
+  },
+  {
+    "name": "Faded",
+    "link": "https://music.163.com/song?id=36990266",
+    "duration": "03:32",
+    "artists": [
+      {
+        "name": "Alan Walker",
+        "link": "https://music.163.com/artist?id=1045123"
+      },
+      {
+        "name": "Iselin Solheim",
+        "link": "https://music.163.com/artist?id=1078390"
+      }
+    ],
+    "album": {
+      "name": "Faded",
+      "link": "https://music.163.com/album?id=3406843"
+    }
+  }
+]

@@ -1,0 +1,437 @@
+[
+  {
+    "name": "Dusk Till Dawn",
+    "link": "https://music.163.com/song?id=524148450",
+    "duration": "03:14",
+    "artists": [
+      { "name": "MADILYN", "link": "https://music.163.com/artist?id=69270" }
+    ],
+    "album": {
+      "name": "Dusk Till Dawn",
+      "link": "https://music.163.com/album?id=36978150"
+    }
+  },
+  {
+    "name": "Keep On",
+    "link": "https://music.163.com/song?id=1397321352",
+    "duration": "03:00",
+    "artists": [
+      {
+        "name": "Sasha Sloan",
+        "link": "https://music.163.com/artist?id=12646102"
+      }
+    ],
+    "album": {
+      "name": "Self Portrait",
+      "link": "https://music.163.com/album?id=82468267"
+    }
+  },
+  {
+    "name": "Hymn For The Weekend [Remix]",
+    "link": "https://music.163.com/song?id=419594258",
+    "duration": "03:50",
+    "artists": [
+      {
+        "name": "Alan Walker",
+        "link": "https://music.163.com/artist?id=1045123"
+      },
+      { "name": "Coldplay", "link": "https://music.163.com/artist?id=89365" }
+    ],
+    "album": {
+      "name": "Hymn For The Weekend [Remix]",
+      "link": "https://music.163.com/album?id=34767073"
+    }
+  },
+  {
+    "name": "ID2 (Radio Edit)",
+    "link": "https://music.163.com/song?id=29378069",
+    "duration": "03:24",
+    "artists": [
+      {
+        "name": "Dimitri Vangelis & Wyman",
+        "link": "https://music.163.com/artist?id=881024"
+      }
+    ],
+    "album": { "name": "ID2", "link": "https://music.163.com/album?id=3017020" }
+  },
+  {
+    "name": "Saga",
+    "link": "https://music.163.com/song?id=1300435588",
+    "duration": "02:55",
+    "artists": [
+      {
+        "name": "Matisse & Sadko",
+        "link": "https://music.163.com/artist?id=947054"
+      }
+    ],
+    "album": {
+      "name": "Saga",
+      "link": "https://music.163.com/album?id=72231627"
+    }
+  },
+  {
+    "name": "Bulletproof (DubVision Remix)",
+    "link": "https://music.163.com/song?id=407699875",
+    "duration": "04:45",
+    "artists": [
+      { "name": "NERVO", "link": "https://music.163.com/artist?id=97927" },
+      {
+        "name": "Harrison Miya",
+        "link": "https://music.163.com/artist?id=12024170"
+      },
+      { "name": "DubVision", "link": "https://music.163.com/artist?id=357950" }
+    ],
+    "album": {
+      "name": "Bulletproof (Remixes)",
+      "link": "https://music.163.com/album?id=34590119"
+    }
+  },
+  {
+    "name": "Boom Clap",
+    "link": "https://music.163.com/song?id=1440571286",
+    "duration": "02:49",
+    "artists": [
+      { "name": "Charli XCX", "link": "https://music.163.com/artist?id=53092" }
+    ],
+    "album": {
+      "name": "2014 Pop Hits",
+      "link": "https://music.163.com/album?id=88010379"
+    }
+  },
+  {
+    "name": "Starfall - (崩坏3动画短片《天穹流星》印象曲)",
+    "link": "https://music.163.com/song?id=1426087898",
+    "duration": "03:11",
+    "artists": [
+      { "name": "袁娅维", "link": "https://music.163.com/artist?id=10473" }
+    ],
+    "album": {
+      "name": "Starfall",
+      "link": "https://music.163.com/album?id=85996536"
+    }
+  },
+  {
+    "name": "Tell 'Em Why",
+    "link": "https://music.163.com/song?id=465833911",
+    "duration": "03:18",
+    "artists": [
+      {
+        "name": "Sammy Arriaga",
+        "link": "https://music.163.com/artist?id=12334036"
+      }
+    ],
+    "album": {
+      "name": "Meet in the Middle",
+      "link": "https://music.163.com/album?id=35274139"
+    }
+  },
+  {
+    "name": "Heartbeat Song",
+    "link": "https://music.163.com/song?id=30039186",
+    "duration": "03:18",
+    "artists": [
+      {
+        "name": "Kelly Clarkson",
+        "link": "https://music.163.com/artist?id=62885"
+      }
+    ],
+    "album": {
+      "name": "Heartbeat Song",
+      "link": "https://music.163.com/album?id=3090704"
+    }
+  },
+  {
+    "name": "Stay Here Forever",
+    "link": "https://music.163.com/song?id=26851338",
+    "duration": "02:59",
+    "artists": [
+      { "name": "Jewel", "link": "https://music.163.com/artist?id=60923" }
+    ],
+    "album": {
+      "name": "Promo Only: Country Radio, March 2010",
+      "link": "https://music.163.com/album?id=2562399"
+    }
+  },
+  {
+    "name": "Hero",
+    "link": "https://music.163.com/song?id=26510101",
+    "duration": "03:06",
+    "artists": [
+      { "name": "Skillet", "link": "https://music.163.com/artist?id=74640" }
+    ],
+    "album": {
+      "name": "The Best Of",
+      "link": "https://music.163.com/album?id=2512320"
+    }
+  },
+  {
+    "name": "起风了 - (BILIBILI 11周年演讲)",
+    "link": "https://music.163.com/song?id=1475596788",
+    "duration": "05:11",
+    "artists": [
+      { "name": "周深", "link": "https://music.163.com/artist?id=1030001" }
+    ],
+    "album": {
+      "name": "起风了",
+      "link": "https://music.163.com/album?id=94765283"
+    }
+  },
+  {
+    "name": "Take Me Hand",
+    "link": "https://music.163.com/song?id=1500439504",
+    "duration": "03:35",
+    "artists": [
+      {
+        "name": "Cécile Corbel",
+        "link": "https://music.163.com/artist?id=51012"
+      }
+    ],
+    "album": {
+      "name": "Take Me Hand",
+      "link": "https://music.163.com/album?id=99135673"
+    }
+  },
+  {
+    "name": "二十七摄氏度",
+    "link": "https://music.163.com/song?id=1840682092",
+    "duration": "03:03",
+    "artists": [
+      { "name": "马铭", "link": "https://music.163.com/artist?id=46895919" }
+    ],
+    "album": {
+      "name": "二十七摄氏度",
+      "link": "https://music.163.com/album?id=126629150"
+    }
+  },
+  {
+    "name": "Bubbles",
+    "link": "https://music.163.com/song?id=17270614",
+    "duration": "02:50",
+    "artists": [
+      {
+        "name": "Make It Pink",
+        "link": "https://music.163.com/artist?id=97055"
+      }
+    ],
+    "album": {
+      "name": "Dirth",
+      "link": "https://music.163.com/album?id=1591207"
+    }
+  },
+  {
+    "name": "靴の花火 - (靴上的烟火)",
+    "link": "https://music.163.com/song?id=487527983",
+    "duration": "05:03",
+    "artists": [
+      { "name": "ヨルシカ", "link": "https://music.163.com/artist?id=12390232" }
+    ],
+    "album": {
+      "name": "夏草が邪魔をする",
+      "link": "https://music.163.com/album?id=35670522"
+    }
+  },
+  {
+    "name": "Hall of Fame",
+    "link": "https://music.163.com/song?id=26624703",
+    "duration": "03:21",
+    "artists": [
+      {
+        "name": "The Script",
+        "link": "https://music.163.com/artist?id=102028"
+      },
+      { "name": "will.i.am", "link": "https://music.163.com/artist?id=45838" }
+    ],
+    "album": {
+      "name": "Kokowääh 2 (Original Motion Picture Soundtrack)",
+      "link": "https://music.163.com/album?id=2536612"
+    }
+  },
+  {
+    "name": "Don't You Worry",
+    "link": "https://music.163.com/song?id=1454455334",
+    "duration": "03:39",
+    "artists": [
+      { "name": "Oh Wonder", "link": "https://music.163.com/artist?id=1050128" }
+    ],
+    "album": {
+      "name": "Home Tapes",
+      "link": "https://music.163.com/album?id=91529139"
+    }
+  },
+  {
+    "name": "Hands in the Fire",
+    "link": "https://music.163.com/song?id=1306497271",
+    "duration": "02:56",
+    "artists": [
+      {
+        "name": "James Carter",
+        "link": "https://music.163.com/artist?id=12047749"
+      },
+      { "name": "Nevve", "link": "https://music.163.com/artist?id=12567101" }
+    ],
+    "album": {
+      "name": "Hands in the Fire",
+      "link": "https://music.163.com/album?id=72797681"
+    }
+  },
+  {
+    "name": "She said , Come along",
+    "link": "https://music.163.com/song?id=1393446297",
+    "duration": "02:47",
+    "artists": [
+      { "name": "kidult.", "link": "https://music.163.com/artist?id=12194916" }
+    ],
+    "album": {
+      "name": "002",
+      "link": "https://music.163.com/album?id=81872079"
+    }
+  },
+  {
+    "name": "Radioactive",
+    "link": "https://music.163.com/song?id=19945726",
+    "duration": "03:08",
+    "artists": [
+      {
+        "name": "Imagine Dragons",
+        "link": "https://music.163.com/artist?id=94779"
+      }
+    ],
+    "album": {
+      "name": "Continued Silence EP",
+      "link": "https://music.163.com/album?id=1844255"
+    }
+  },
+  {
+    "name": "Still Waiting",
+    "link": "https://music.163.com/song?id=4278394",
+    "duration": "02:38",
+    "artists": [
+      { "name": "Sum 41", "link": "https://music.163.com/artist?id=99989" }
+    ],
+    "album": {
+      "name": "The Best Of Sum 41",
+      "link": "https://music.163.com/album?id=432401"
+    }
+  },
+  {
+    "name": "Happiness is a butterfly",
+    "link": "https://music.163.com/song?id=1387548482",
+    "duration": "04:32",
+    "artists": [
+      {
+        "name": "Lana Del Rey",
+        "link": "https://music.163.com/artist?id=66212"
+      }
+    ],
+    "album": {
+      "name": "Norman ****ing Rockwell!",
+      "link": "https://music.163.com/album?id=81096083"
+    }
+  },
+  {
+    "name": "The Day You Went Away",
+    "link": "https://music.163.com/song?id=864648190",
+    "duration": "03:42",
+    "artists": [
+      { "name": "M2M", "link": "https://music.163.com/artist?id=66344" }
+    ],
+    "album": {
+      "name": "The Day You Went Away",
+      "link": "https://music.163.com/album?id=71720465"
+    }
+  },
+  {
+    "name": "marigold in winter",
+    "link": "https://music.163.com/song?id=32192221",
+    "duration": "03:24",
+    "artists": [
+      { "name": "Haux", "link": "https://music.163.com/artist?id=1078427" }
+    ],
+    "album": {
+      "name": "the bluest sage",
+      "link": "https://music.163.com/album?id=3154147"
+    }
+  },
+  {
+    "name": "追梦赤子心",
+    "link": "https://music.163.com/song?id=522320058",
+    "duration": "04:31",
+    "artists": [
+      { "name": "群星", "link": "https://music.163.com/artist?id=122455" }
+    ],
+    "album": {
+      "name": "追梦敢不敢",
+      "link": "https://music.163.com/album?id=36875180"
+    }
+  },
+  {
+    "name": "Be Real (Instrumental)",
+    "link": "https://music.163.com/song?id=553483888",
+    "duration": "03:46",
+    "artists": [
+      {
+        "name": "Rasmus Faber",
+        "link": "https://music.163.com/artist?id=42480"
+      },
+      { "name": "Metaxas", "link": "https://music.163.com/artist?id=29189260" }
+    ],
+    "album": {
+      "name": "Be Real",
+      "link": "https://music.163.com/album?id=38377373"
+    }
+  },
+  {
+    "name": "我曾很爱很爱你",
+    "link": "https://music.163.com/song?id=1384113848",
+    "duration": "02:19",
+    "artists": [
+      { "name": "JSore", "link": "https://music.163.com/artist?id=12002137" }
+    ],
+    "album": {
+      "name": "J（终）",
+      "link": "https://music.163.com/album?id=80924697"
+    }
+  },
+  {
+    "name": "Dream With You",
+    "link": "https://music.163.com/song?id=462523376",
+    "duration": "04:17",
+    "artists": [
+      {
+        "name": "Blvmenkind",
+        "link": "https://music.163.com/artist?id=12301349"
+      }
+    ],
+    "album": {
+      "name": "Dream With You",
+      "link": "https://music.163.com/album?id=35210563"
+    }
+  },
+  {
+    "name": "End Of The Night",
+    "link": "https://music.163.com/song?id=1324159296",
+    "duration": "03:25",
+    "artists": [
+      {
+        "name": "Danny Avila",
+        "link": "https://music.163.com/artist?id=471420"
+      }
+    ],
+    "album": {
+      "name": "End Of The Night",
+      "link": "https://music.163.com/album?id=74327710"
+    }
+  },
+  {
+    "name": "一路远方",
+    "link": "https://music.163.com/song?id=1824724643",
+    "duration": "03:14",
+    "artists": [
+      { "name": "三亩地", "link": "https://music.163.com/artist?id=1044144" }
+    ],
+    "album": {
+      "name": "一路远方",
+      "link": "https://music.163.com/album?id=123811145"
+    }
+  }
+]

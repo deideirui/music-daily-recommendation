@@ -1,0 +1,501 @@
+[
+  {
+    "name": "Into You",
+    "link": "https://music.163.com/song?id=523042017",
+    "duration": "02:41",
+    "artists": [
+      {
+        "name": "Matisse & Sadko",
+        "link": "https://music.163.com/artist?id=947054"
+      },
+      {
+        "name": "Hanne Mjøen",
+        "link": "https://music.163.com/artist?id=12122217"
+      }
+    ],
+    "album": {
+      "name": "Into You",
+      "link": "https://music.163.com/album?id=36913178"
+    }
+  },
+  {
+    "name": "Rooftop",
+    "link": "https://music.163.com/song?id=1456602326",
+    "duration": "03:13",
+    "artists": [
+      { "name": "MVRT", "link": "https://music.163.com/artist?id=35396819" },
+      {
+        "name": "Vijay & Sofia Zlatko",
+        "link": "https://music.163.com/artist?id=1155154"
+      }
+    ],
+    "album": {
+      "name": "Rooftop",
+      "link": "https://music.163.com/album?id=91205407"
+    }
+  },
+  {
+    "name": "Should I",
+    "link": "https://music.163.com/song?id=515223490",
+    "duration": "03:05",
+    "artists": [
+      {
+        "name": "Phoebe Ryan",
+        "link": "https://music.163.com/artist?id=854363"
+      }
+    ],
+    "album": {
+      "name": "James - EP",
+      "link": "https://music.163.com/album?id=36515723"
+    }
+  },
+  {
+    "name": "Sway",
+    "link": "https://music.163.com/song?id=556053856",
+    "duration": "03:30",
+    "artists": [
+      { "name": "Tove Styrke", "link": "https://music.163.com/artist?id=83188" }
+    ],
+    "album": {
+      "name": "Sway",
+      "link": "https://music.163.com/album?id=38519290"
+    }
+  },
+  {
+    "name": "Please Don’t Touch",
+    "link": "https://music.163.com/song?id=1409277284",
+    "duration": "03:38",
+    "artists": [
+      { "name": "Raye", "link": "https://music.163.com/artist?id=1077053" }
+    ],
+    "album": {
+      "name": "Please Don’t Touch",
+      "link": "https://music.163.com/album?id=84068551"
+    }
+  },
+  {
+    "name": "桜ノ雨",
+    "link": "https://music.163.com/song?id=476638474",
+    "duration": "06:08",
+    "artists": [
+      { "name": "H△G", "link": "https://music.163.com/artist?id=996276" }
+    ],
+    "album": {
+      "name": "声 ~VOCALOID Cover Album~",
+      "link": "https://music.163.com/album?id=35357285"
+    }
+  },
+  {
+    "name": "Never Give Up",
+    "link": "https://music.163.com/song?id=1415143048",
+    "duration": "03:06",
+    "artists": [
+      {
+        "name": "WildVibes",
+        "link": "https://music.163.com/artist?id=1181751"
+      },
+      {
+        "name": "Arild Aas",
+        "link": "https://music.163.com/artist?id=13436856"
+      }
+    ],
+    "album": {
+      "name": "Never Give Up",
+      "link": "https://music.163.com/album?id=84823330"
+    }
+  },
+  {
+    "name": "Runnin",
+    "link": "https://music.163.com/song?id=1329657649",
+    "duration": "03:39",
+    "artists": [
+      { "name": "Kosling", "link": "https://music.163.com/artist?id=29289583" },
+      { "name": "CHRNS", "link": "https://music.163.com/artist?id=12945477" },
+      { "name": "LUX (US)", "link": "https://music.163.com/artist?id=35049288" }
+    ],
+    "album": {
+      "name": "Runnin",
+      "link": "https://music.163.com/album?id=74669786"
+    }
+  },
+  {
+    "name": "STFD",
+    "link": "https://music.163.com/song?id=454435829",
+    "duration": "03:46",
+    "artists": [
+      {
+        "name": "TeZATalks",
+        "link": "https://music.163.com/artist?id=12011097"
+      }
+    ],
+    "album": {
+      "name": "STFD",
+      "link": "https://music.163.com/album?id=35138093"
+    }
+  },
+  {
+    "name": "Haifa (AKI Amano Remix)",
+    "link": "https://music.163.com/song?id=507794235",
+    "duration": "07:43",
+    "artists": [
+      { "name": "Valentin", "link": "https://music.163.com/artist?id=1081885" },
+      { "name": "AKI Amano", "link": "https://music.163.com/artist?id=333601" }
+    ],
+    "album": {
+      "name": "Haifa",
+      "link": "https://music.163.com/album?id=36304064"
+    }
+  },
+  {
+    "name": "Say (Radio Edit)",
+    "link": "https://music.163.com/song?id=535520320",
+    "duration": "03:47",
+    "artists": [
+      {
+        "name": "Legal Divide",
+        "link": "https://music.163.com/artist?id=1137356"
+      },
+      { "name": "Tom Ven", "link": "https://music.163.com/artist?id=1137357" },
+      { "name": "KWT", "link": "https://music.163.com/artist?id=1137355" }
+    ],
+    "album": {
+      "name": "Armada Trice In Ibiza 2015",
+      "link": "https://music.163.com/album?id=3280041"
+    }
+  },
+  {
+    "name": "我也不知道",
+    "link": "https://music.163.com/song?id=165355",
+    "duration": "03:48",
+    "artists": [
+      { "name": "汪苏泷", "link": "https://music.163.com/artist?id=5538" }
+    ],
+    "album": {
+      "name": "好安静",
+      "link": "https://music.163.com/album?id=16608"
+    }
+  },
+  {
+    "name": "Kids (with Miranda Glory)",
+    "link": "https://music.163.com/song?id=1341503663",
+    "duration": "04:20",
+    "artists": [
+      { "name": "LIONE", "link": "https://music.163.com/artist?id=11986064" },
+      {
+        "name": "Miranda Glory",
+        "link": "https://music.163.com/artist?id=12463504"
+      }
+    ],
+    "album": {
+      "name": "Kids (with Miranda Glory)",
+      "link": "https://music.163.com/album?id=75290322"
+    }
+  },
+  {
+    "name": "Future Funk",
+    "link": "https://music.163.com/song?id=27639209",
+    "duration": "02:02",
+    "artists": [
+      { "name": "Varien", "link": "https://music.163.com/artist?id=205718" }
+    ],
+    "album": {
+      "name": "Pick Your Poison Vol. 01",
+      "link": "https://music.163.com/album?id=2650651"
+    }
+  },
+  {
+    "name": "mind games",
+    "link": "https://music.163.com/song?id=1359717287",
+    "duration": "03:41",
+    "artists": [
+      {
+        "name": "renforshort",
+        "link": "https://music.163.com/artist?id=31477800"
+      }
+    ],
+    "album": {
+      "name": "mind games",
+      "link": "https://music.163.com/album?id=78604851"
+    }
+  },
+  {
+    "name": "Doing To Me (Stripped Down)",
+    "link": "https://music.163.com/song?id=1390597738",
+    "duration": "02:56",
+    "artists": [
+      { "name": "Astrid S", "link": "https://music.163.com/artist?id=1081844" }
+    ],
+    "album": {
+      "name": "Doing To Me (Stripped Down)",
+      "link": "https://music.163.com/album?id=81606873"
+    }
+  },
+  {
+    "name": "Feel the Same",
+    "link": "https://music.163.com/song?id=1322356404",
+    "duration": "03:11",
+    "artists": [
+      { "name": "Olly Murs", "link": "https://music.163.com/artist?id=41034" }
+    ],
+    "album": {
+      "name": "You Know I Know (Deluxe)",
+      "link": "https://music.163.com/album?id=74214813"
+    }
+  },
+  {
+    "name": "I'm No Magician",
+    "link": "https://music.163.com/song?id=1347136305",
+    "duration": "03:21",
+    "artists": [
+      { "name": "Vincent", "link": "https://music.163.com/artist?id=133031" },
+      {
+        "name": "Love, Alexa",
+        "link": "https://music.163.com/artist?id=14081775"
+      }
+    ],
+    "album": {
+      "name": "For You",
+      "link": "https://music.163.com/album?id=75632364"
+    }
+  },
+  {
+    "name": "One (Extended Mix)",
+    "link": "https://music.163.com/song?id=1501374116",
+    "duration": "04:30",
+    "artists": [
+      {
+        "name": "projectOne",
+        "link": "https://music.163.com/artist?id=37683386"
+      }
+    ],
+    "album": {
+      "name": "Remixed",
+      "link": "https://music.163.com/album?id=99259927"
+    }
+  },
+  {
+    "name": "Feels Right (feat. RUNN)",
+    "link": "https://music.163.com/song?id=1401179677",
+    "duration": "03:32",
+    "artists": [
+      {
+        "name": "Crystal Skies",
+        "link": "https://music.163.com/artist?id=1063127"
+      },
+      { "name": "RUNN", "link": "https://music.163.com/artist?id=15237536" }
+    ],
+    "album": {
+      "name": "Constellations",
+      "link": "https://music.163.com/album?id=83001751"
+    }
+  },
+  {
+    "name": "マイライフ",
+    "link": "https://music.163.com/song?id=1350330823",
+    "duration": "03:17",
+    "artists": [
+      { "name": "CY8ER", "link": "https://music.163.com/artist?id=12046863" }
+    ],
+    "album": {
+      "name": "デッドボーイ、デッドガール",
+      "link": "https://music.163.com/album?id=75781185"
+    }
+  },
+  {
+    "name": "How Far I'll Go - (电影《海洋奇缘》主题曲)",
+    "link": "https://music.163.com/song?id=437856225",
+    "duration": "02:55",
+    "artists": [
+      {
+        "name": "Alessia Cara",
+        "link": "https://music.163.com/artist?id=1074089"
+      }
+    ],
+    "album": {
+      "name": "How Far I'll Go",
+      "link": "https://music.163.com/album?id=34943683"
+    }
+  },
+  {
+    "name": "CAM-The Other Side (feat. Cam)（LVICII remix）",
+    "link": "https://music.163.com/song?id=1418746074",
+    "duration": "02:50",
+    "artists": [
+      { "name": "LVICII", "link": "https://music.163.com/artist?id=33936666" }
+    ],
+    "album": {
+      "name": "FOREVER",
+      "link": "https://music.163.com/album?id=84155943"
+    }
+  },
+  {
+    "name": "Avicii-Promise Of Tears(Feat.Avicii)（Atfort/Rebirth Remix）",
+    "link": "https://music.163.com/song?id=1394217807",
+    "duration": "04:10",
+    "artists": [
+      { "name": "Atfort", "link": "https://music.163.com/artist?id=32719664" },
+      {
+        "name": "Hämish Olsson",
+        "link": "https://music.163.com/artist?id=33102381"
+      }
+    ],
+    "album": {
+      "name": "Promise Of Tears(Feat. Tim ",
+      "link": "https://music.163.com/album?id=81980596"
+    }
+  },
+  {
+    "name": "Eye Water",
+    "link": "https://music.163.com/song?id=1351784375",
+    "duration": "02:32",
+    "artists": [
+      { "name": "itsuwari", "link": "https://music.163.com/artist?id=31659950" }
+    ],
+    "album": {
+      "name": "Eye Water",
+      "link": "https://music.163.com/album?id=75840897"
+    }
+  },
+  {
+    "name": "sh0ut - (TV动画《Re:CREATORS》OP2)",
+    "link": "https://music.163.com/song?id=487003518",
+    "duration": "04:05",
+    "artists": [
+      { "name": "Tielle", "link": "https://music.163.com/artist?id=12629228" },
+      {
+        "name": "R!N/Gemie",
+        "link": "https://music.163.com/artist?id=12531080"
+      },
+      {
+        "name": "SawanoHiroyuki[nZk]",
+        "link": "https://music.163.com/artist?id=1096011"
+      }
+    ],
+    "album": {
+      "name": "gravityWall/sh0ut",
+      "link": "https://music.163.com/album?id=35377381"
+    }
+  },
+  {
+    "name": "情人知己",
+    "link": "https://music.163.com/song?id=406089317",
+    "duration": "04:35",
+    "artists": [
+      { "name": "叶倩文", "link": "https://music.163.com/artist?id=10209" }
+    ],
+    "album": {
+      "name": "华纳我爱经典系列-叶倩文",
+      "link": "https://music.163.com/album?id=34543578"
+    }
+  },
+  {
+    "name": "Glimmer (William Black Remix)",
+    "link": "https://music.163.com/song?id=571336983",
+    "duration": "03:46",
+    "artists": [
+      {
+        "name": "William Black",
+        "link": "https://music.163.com/artist?id=248957"
+      },
+      { "name": "LIONE", "link": "https://music.163.com/artist?id=11986064" },
+      {
+        "name": "Heather Sommer",
+        "link": "https://music.163.com/artist?id=13134228"
+      }
+    ],
+    "album": {
+      "name": "Glimmer (William Black Remix)",
+      "link": "https://music.163.com/album?id=39593252"
+    }
+  },
+  {
+    "name": "ウルフ",
+    "link": "https://music.163.com/song?id=541499340",
+    "duration": "03:51",
+    "artists": [
+      {
+        "name": "CHiCO with HoneyWorks",
+        "link": "https://music.163.com/artist?id=1049332"
+      }
+    ],
+    "album": {
+      "name": "私を染めるiの歌",
+      "link": "https://music.163.com/album?id=37575286"
+    }
+  },
+  {
+    "name": "These Words Between Us (Dub)",
+    "link": "https://music.163.com/song?id=33051322",
+    "duration": "07:04",
+    "artists": [
+      { "name": "Aelyn", "link": "https://music.163.com/artist?id=199554" },
+      {
+        "name": "Smooth Stab",
+        "link": "https://music.163.com/artist?id=15233716"
+      }
+    ],
+    "album": {
+      "name": "These Words Between Us",
+      "link": "https://music.163.com/album?id=3177162"
+    }
+  },
+  {
+    "name": "80 Juta",
+    "link": "https://music.163.com/song?id=1341158234",
+    "duration": "05:20",
+    "artists": [
+      { "name": "Alusty", "link": "https://music.163.com/artist?id=31328150" }
+    ],
+    "album": {
+      "name": "80 Juta",
+      "link": "https://music.163.com/album?id=75270615"
+    }
+  },
+  {
+    "name": "マインドボイス",
+    "link": "https://music.163.com/song?id=1392566184",
+    "duration": "03:49",
+    "artists": [
+      { "name": "鹿乃", "link": "https://music.163.com/artist?id=17014" }
+    ],
+    "album": {
+      "name": "いつかの約束を君に",
+      "link": "https://music.163.com/album?id=81834709"
+    }
+  },
+  {
+    "name": "Someone You Loved",
+    "link": "https://music.163.com/song?id=1393230495",
+    "duration": "02:28",
+    "artists": [
+      {
+        "name": "Conor Maynard",
+        "link": "https://music.163.com/artist?id=29020"
+      }
+    ],
+    "album": {
+      "name": "Someone You Loved",
+      "link": "https://music.163.com/album?id=81926125"
+    }
+  },
+  {
+    "name": "Peaches",
+    "link": "https://music.163.com/song?id=1860518817",
+    "duration": "03:18",
+    "artists": [
+      {
+        "name": "Justin Bieber",
+        "link": "https://music.163.com/artist?id=35531"
+      },
+      {
+        "name": "Daniel Caesar",
+        "link": "https://music.163.com/artist?id=1021293"
+      },
+      { "name": "Giveon", "link": "https://music.163.com/artist?id=32396647" }
+    ],
+    "album": {
+      "name": "Beach Party Music 2021",
+      "link": "https://music.163.com/album?id=130226831"
+    }
+  }
+]

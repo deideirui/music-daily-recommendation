@@ -1,0 +1,454 @@
+[
+  {
+    "name": "Do Or Die",
+    "link": "https://music.163.com/song?id=1305016436",
+    "duration": "03:24",
+    "artists": [
+      {
+        "name": "Axel Johansson",
+        "link": "https://music.163.com/artist?id=12872604"
+      }
+    ],
+    "album": {
+      "name": "Do Or Die",
+      "link": "https://music.163.com/album?id=72625633"
+    }
+  },
+  {
+    "name": "Here We Go Again",
+    "link": "https://music.163.com/song?id=1355149884",
+    "duration": "02:42",
+    "artists": [
+      { "name": "SIGMA", "link": "https://music.163.com/artist?id=101736" },
+      {
+        "name": "Louisa Johnson",
+        "link": "https://music.163.com/artist?id=1192273"
+      }
+    ],
+    "album": {
+      "name": "Here We Go Again",
+      "link": "https://music.163.com/album?id=78243126"
+    }
+  },
+  {
+    "name": "清秋舞",
+    "link": "https://music.163.com/song?id=1326608274",
+    "duration": "04:08",
+    "artists": [
+      { "name": "钟渊", "link": "https://music.163.com/artist?id=13448626" }
+    ],
+    "album": {
+      "name": "清秋客",
+      "link": "https://music.163.com/album?id=74448190"
+    }
+  },
+  {
+    "name": "凝眸",
+    "link": "https://music.163.com/song?id=1294153371",
+    "duration": "03:04",
+    "artists": [
+      { "name": "Hea2t", "link": "https://music.163.com/artist?id=12020036" }
+    ],
+    "album": {
+      "name": "凝眸",
+      "link": "https://music.163.com/album?id=71848881"
+    }
+  },
+  {
+    "name": "We’re The Same‬‬",
+    "link": "https://music.163.com/song?id=1364333108",
+    "duration": "02:54",
+    "artists": [
+      { "name": "Vigiland", "link": "https://music.163.com/artist?id=1046407" },
+      {
+        "name": "Alexander Tidebrink",
+        "link": "https://music.163.com/artist?id=12532181"
+      }
+    ],
+    "album": {
+      "name": "We’re The Same‬‬",
+      "link": "https://music.163.com/album?id=79035231"
+    }
+  },
+  {
+    "name": "China-F",
+    "link": "https://music.163.com/song?id=1389664176",
+    "duration": "02:56",
+    "artists": [
+      {
+        "name": "鲸鱼先生Whale",
+        "link": "https://music.163.com/artist?id=29026642"
+      }
+    ],
+    "album": {
+      "name": "China-F",
+      "link": "https://music.163.com/album?id=81419973"
+    }
+  },
+  {
+    "name": "Complicated",
+    "link": "https://music.163.com/song?id=493283657",
+    "duration": "03:04",
+    "artists": [
+      {
+        "name": "Dimitri Vegas & Like Mike",
+        "link": "https://music.163.com/artist?id=791298"
+      },
+      {
+        "name": "David Guetta",
+        "link": "https://music.163.com/artist?id=31211"
+      },
+      { "name": "Kiiara", "link": "https://music.163.com/artist?id=1124598" }
+    ],
+    "album": {
+      "name": "Complicated",
+      "link": "https://music.163.com/album?id=35834474"
+    }
+  },
+  {
+    "name": "The Spectre",
+    "link": "https://music.163.com/song?id=506092035",
+    "duration": "03:13",
+    "artists": [
+      {
+        "name": "Alan Walker",
+        "link": "https://music.163.com/artist?id=1045123"
+      }
+    ],
+    "album": {
+      "name": "The Spectre",
+      "link": "https://music.163.com/album?id=36224021"
+    }
+  },
+  {
+    "name": "Virgo",
+    "link": "https://music.163.com/song?id=1839599993",
+    "duration": "02:02",
+    "artists": [
+      {
+        "name": "Maninwhite白衣渡川",
+        "link": "https://music.163.com/artist?id=46828207"
+      }
+    ],
+    "album": {
+      "name": "Virgo",
+      "link": "https://music.163.com/album?id=126432357"
+    }
+  },
+  {
+    "name": "By Your Side",
+    "link": "https://music.163.com/song?id=456370693",
+    "duration": "03:21",
+    "artists": [
+      { "name": "Raye", "link": "https://music.163.com/artist?id=1077053" },
+      {
+        "name": "Jonas Blue",
+        "link": "https://music.163.com/artist?id=1192069"
+      }
+    ],
+    "album": {
+      "name": "Crowd Pleasers",
+      "link": "https://music.163.com/album?id=35156236"
+    }
+  },
+  {
+    "name": "Inside",
+    "link": "https://music.163.com/song?id=1453248204",
+    "duration": "03:56",
+    "artists": [
+      { "name": "FEWZ", "link": "https://music.163.com/artist?id=12008133" }
+    ],
+    "album": {
+      "name": "Inside",
+      "link": "https://music.163.com/album?id=90401629"
+    }
+  },
+  {
+    "name": "Lose Control",
+    "link": "https://music.163.com/song?id=1396304601",
+    "duration": "02:48",
+    "artists": [
+      { "name": "Meduza", "link": "https://music.163.com/artist?id=136629" },
+      {
+        "name": "Becky Hill",
+        "link": "https://music.163.com/artist?id=391079"
+      },
+      { "name": "Goodboys", "link": "https://music.163.com/artist?id=31385169" }
+    ],
+    "album": {
+      "name": "Lose Control",
+      "link": "https://music.163.com/album?id=82318572"
+    }
+  },
+  {
+    "name": "Don't Need Love (Majestic Remix)",
+    "link": "https://music.163.com/song?id=1437158714",
+    "duration": "04:30",
+    "artists": [
+      { "name": "220 KID", "link": "https://music.163.com/artist?id=29468983" },
+      { "name": "GRACEY", "link": "https://music.163.com/artist?id=31638408" }
+    ],
+    "album": {
+      "name": "Don't Need Love (Majestic Remix)",
+      "link": "https://music.163.com/album?id=87538251"
+    }
+  },
+  {
+    "name": "眩しいDNAだけ - (只 是耀眼的DNA)",
+    "link": "https://music.163.com/song?id=1348704277",
+    "duration": "03:47",
+    "artists": [
+      {
+        "name": "ずっと真夜中でいいのに。",
+        "link": "https://music.163.com/artist?id=15021101"
+      }
+    ],
+    "album": {
+      "name": "眩しいDNAだけ",
+      "link": "https://music.163.com/album?id=75712978"
+    }
+  },
+  {
+    "name": "Nobody But You",
+    "link": "https://music.163.com/song?id=19361715",
+    "duration": "02:26",
+    "artists": [
+      {
+        "name": "Trembling Blue Stars",
+        "link": "https://music.163.com/artist?id=78217"
+      }
+    ],
+    "album": {
+      "name": "Her Handwriting",
+      "link": "https://music.163.com/album?id=1780631"
+    }
+  },
+  {
+    "name": "陽のあたる場所へ - (前往阳光普照之处)",
+    "link": "https://music.163.com/song?id=1465230223",
+    "duration": "03:52",
+    "artists": [
+      { "name": "平井 大", "link": "https://music.163.com/artist?id=14270" }
+    ],
+    "album": {
+      "name": "陽のあたる場所へ",
+      "link": "https://music.163.com/album?id=92928470"
+    }
+  },
+  {
+    "name": "心予報 - (ガーナチョコレート “ピンクバレンタイン\" テーマソング)",
+    "link": "https://music.163.com/song?id=1423990087",
+    "duration": "03:19",
+    "artists": [
+      { "name": "Eve", "link": "https://music.163.com/artist?id=1075075" }
+    ],
+    "album": {
+      "name": "Smile",
+      "link": "https://music.163.com/album?id=122478661"
+    }
+  },
+  {
+    "name": "Prayer X - (TV动画《战栗杀机》片尾曲)",
+    "link": "https://music.163.com/song?id=1299557936",
+    "duration": "03:17",
+    "artists": [
+      { "name": "King Gnu", "link": "https://music.163.com/artist?id=12551173" }
+    ],
+    "album": {
+      "name": "Prayer X",
+      "link": "https://music.163.com/album?id=74268935"
+    }
+  },
+  {
+    "name": "Roadtrip",
+    "link": "https://music.163.com/song?id=1816446904",
+    "duration": "02:13",
+    "artists": [
+      { "name": "Dream", "link": "https://music.163.com/artist?id=46944209" },
+      { "name": "PmBata", "link": "https://music.163.com/artist?id=34486906" }
+    ],
+    "album": {
+      "name": "Roadtrip",
+      "link": "https://music.163.com/album?id=122381842"
+    }
+  },
+  {
+    "name": "Sleepyhead",
+    "link": "https://music.163.com/song?id=444267630",
+    "duration": "03:44",
+    "artists": [
+      { "name": "Galen Crew", "link": "https://music.163.com/artist?id=34435" }
+    ],
+    "album": {
+      "name": "Sleepyhead EP",
+      "link": "https://music.163.com/album?id=35023403"
+    }
+  },
+  {
+    "name": "東京ウインターセッション feat.瀬戸口優・榎本夏樹・望月蒼太・早坂あかり・芹沢春輝・合田美桜",
+    "link": "https://music.163.com/song?id=1416875888",
+    "duration": "04:15",
+    "artists": [
+      { "name": "神谷浩史", "link": "https://music.163.com/artist?id=14463" },
+      { "name": "戸松遥", "link": "https://music.163.com/artist?id=17905" },
+      { "name": "梶裕貴", "link": "https://music.163.com/artist?id=14572" },
+      { "name": "阿澄佳奈", "link": "https://music.163.com/artist?id=16131" },
+      { "name": "鈴村健一", "link": "https://music.163.com/artist?id=15295" },
+      { "name": "豊崎愛生", "link": "https://music.163.com/artist?id=17966" }
+    ],
+    "album": {
+      "name": "好きすぎてやばい。～告白実行委員会キャラクターソング集～",
+      "link": "https://music.163.com/album?id=85003222"
+    }
+  },
+  {
+    "name": "夏凪ぎ - (TV动画《成神之日》插曲)",
+    "link": "https://music.163.com/song?id=1806096402",
+    "duration": "04:37",
+    "artists": [
+      { "name": "麻枝准", "link": "https://music.163.com/artist?id=14782" },
+      { "name": "やなぎなぎ", "link": "https://music.163.com/artist?id=18303" }
+    ],
+    "album": {
+      "name": "夏凪ぎ／宝物になった日",
+      "link": "https://music.163.com/album?id=120721350"
+    }
+  },
+  {
+    "name": "琥珀の身体",
+    "link": "https://music.163.com/song?id=1432169641",
+    "duration": "04:23",
+    "artists": [
+      { "name": "HIMEHINA", "link": "https://music.163.com/artist?id=31153261" }
+    ],
+    "album": {
+      "name": "琥珀の身体",
+      "link": "https://music.163.com/album?id=86633940"
+    }
+  },
+  {
+    "name": "Say Hello",
+    "link": "https://music.163.com/song?id=18449193",
+    "duration": "02:21",
+    "artists": [
+      {
+        "name": "Rosie Thomas",
+        "link": "https://music.163.com/artist?id=41926"
+      },
+      {
+        "name": "Sufjan Stevens",
+        "link": "https://music.163.com/artist?id=42955"
+      }
+    ],
+    "album": {
+      "name": "These Friends Of Mine",
+      "link": "https://music.163.com/album?id=1690931"
+    }
+  },
+  {
+    "name": "Dream Odyssey",
+    "link": "https://music.163.com/song?id=776622",
+    "duration": "08:10",
+    "artists": [
+      { "name": "MONO", "link": "https://music.163.com/artist?id=20452" }
+    ],
+    "album": {
+      "name": "For My Parents",
+      "link": "https://music.163.com/album?id=76557"
+    }
+  },
+  {
+    "name": "This Is Why",
+    "link": "https://music.163.com/song?id=1331352910",
+    "duration": "04:11",
+    "artists": [
+      { "name": "ZIV", "link": "https://music.163.com/artist?id=32938255" }
+    ],
+    "album": {
+      "name": "This Is Why",
+      "link": "https://music.163.com/album?id=74779683"
+    }
+  },
+  {
+    "name": "The Winter",
+    "link": "https://music.163.com/song?id=26111234",
+    "duration": "05:48",
+    "artists": [
+      { "name": "Balmorhea", "link": "https://music.163.com/artist?id=88170" }
+    ],
+    "album": {
+      "name": "Pastel Music 10th Anniversary",
+      "link": "https://music.163.com/album?id=2389135"
+    }
+  },
+  {
+    "name": "Niche",
+    "link": "https://music.163.com/song?id=27554001",
+    "duration": "04:23",
+    "artists": [
+      {
+        "name": "Rain Catalogue",
+        "link": "https://music.163.com/artist?id=813392"
+      }
+    ],
+    "album": {
+      "name": "Niche",
+      "link": "https://music.163.com/album?id=2631964"
+    }
+  },
+  {
+    "name": "Resistance (Andreas B. Remix)",
+    "link": "https://music.163.com/song?id=31381864",
+    "duration": "03:43",
+    "artists": [
+      { "name": "Andreas B.", "link": "https://music.163.com/artist?id=299713" }
+    ],
+    "album": {
+      "name": "Resistance (Andreas B. Remix)",
+      "link": "https://music.163.com/album?id=3111766"
+    }
+  },
+  {
+    "name": "Empty Love",
+    "link": "https://music.163.com/song?id=1435828582",
+    "duration": "02:50",
+    "artists": [
+      { "name": "Lulleaux", "link": "https://music.163.com/artist?id=1115185" },
+      {
+        "name": "Kid Princess",
+        "link": "https://music.163.com/artist?id=34704316"
+      }
+    ],
+    "album": {
+      "name": "Empty Love (feat. Kid Princess)",
+      "link": "https://music.163.com/album?id=87122489"
+    }
+  },
+  {
+    "name": "Love In My Pocket",
+    "link": "https://music.163.com/song?id=1473603737",
+    "duration": "03:43",
+    "artists": [
+      {
+        "name": "Rich Brian",
+        "link": "https://music.163.com/artist?id=12024301"
+      }
+    ],
+    "album": {
+      "name": "1999",
+      "link": "https://music.163.com/album?id=94412608"
+    }
+  },
+  {
+    "name": "大凉山的孩子",
+    "link": "https://music.163.com/song?id=1839931352",
+    "duration": "05:03",
+    "artists": [
+      { "name": "三亩地", "link": "https://music.163.com/artist?id=1044144" }
+    ],
+    "album": {
+      "name": "大凉山的孩子",
+      "link": "https://music.163.com/album?id=126496874"
+    }
+  }
+]

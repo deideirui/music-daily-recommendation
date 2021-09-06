@@ -1,0 +1,476 @@
+[
+  {
+    "name": "Paradise",
+    "link": "https://music.163.com/song?id=1312104048",
+    "duration": "03:35",
+    "artists": [
+      {
+        "name": "Nicky Romero",
+        "link": "https://music.163.com/artist?id=195142"
+      },
+      {
+        "name": "Deniz Koyu",
+        "link": "https://music.163.com/artist?id=201960"
+      },
+      {
+        "name": "Walk off the Earth",
+        "link": "https://music.163.com/artist?id=105493"
+      }
+    ],
+    "album": {
+      "name": "Paradise",
+      "link": "https://music.163.com/album?id=73559204"
+    }
+  },
+  {
+    "name": "Someone You Loved (Future Humans Remix)",
+    "link": "https://music.163.com/song?id=1350077865",
+    "duration": "03:09",
+    "artists": [
+      {
+        "name": "Lewis Capaldi",
+        "link": "https://music.163.com/artist?id=12474140"
+      }
+    ],
+    "album": {
+      "name": "Someone You Loved (Future Humans Remix)",
+      "link": "https://music.163.com/album?id=75768865"
+    }
+  },
+  {
+    "name": "Senseless (feat. Tyler Graves) (Nurko Remix)",
+    "link": "https://music.163.com/song?id=1459162254",
+    "duration": "04:37",
+    "artists": [
+      {
+        "name": "Seven Lions",
+        "link": "https://music.163.com/artist?id=44204"
+      },
+      {
+        "name": "Tyler Graves",
+        "link": "https://music.163.com/artist?id=31834852"
+      },
+      { "name": "Nurko", "link": "https://music.163.com/artist?id=11991089" }
+    ],
+    "album": {
+      "name": "Find Another Way (Remixes)",
+      "link": "https://music.163.com/album?id=91732603"
+    }
+  },
+  {
+    "name": "Genie In a Bottle",
+    "link": "https://music.163.com/song?id=1449668615",
+    "duration": "02:40",
+    "artists": [
+      {
+        "name": "Marc Benjamin",
+        "link": "https://music.163.com/artist?id=424771"
+      }
+    ],
+    "album": {
+      "name": "Genie In a Bottle",
+      "link": "https://music.163.com/album?id=89731044"
+    }
+  },
+  {
+    "name": "Some Say (Felix Jaehn Remix)",
+    "link": "https://music.163.com/song?id=1415464258",
+    "duration": "03:06",
+    "artists": [
+      { "name": "Nea", "link": "https://music.163.com/artist?id=34133567" },
+      {
+        "name": "Felix Jaehn",
+        "link": "https://music.163.com/artist?id=963083"
+      }
+    ],
+    "album": {
+      "name": "Some Say (Felix Jaehn Remix)",
+      "link": "https://music.163.com/album?id=84864697"
+    }
+  },
+  {
+    "name": "Somebody New",
+    "link": "https://music.163.com/song?id=523001614",
+    "duration": "03:10",
+    "artists": [
+      { "name": "Faustix", "link": "https://music.163.com/artist?id=1155054" },
+      {
+        "name": "Alexander Oscar",
+        "link": "https://music.163.com/artist?id=12312150"
+      }
+    ],
+    "album": {
+      "name": "Faustix",
+      "link": "https://music.163.com/album?id=36900296"
+    }
+  },
+  {
+    "name": "Lean Back",
+    "link": "https://music.163.com/song?id=1389210080",
+    "duration": "02:56",
+    "artists": [
+      { "name": "Ruhde", "link": "https://music.163.com/artist?id=12560506" }
+    ],
+    "album": {
+      "name": "Lean Back",
+      "link": "https://music.163.com/album?id=81427638"
+    }
+  },
+  {
+    "name": "Standing Still",
+    "link": "https://music.163.com/song?id=1440850870",
+    "duration": "03:06",
+    "artists": [
+      {
+        "name": "Joakim Molitor",
+        "link": "https://music.163.com/artist?id=13972238"
+      },
+      {
+        "name": "Victoria Voss",
+        "link": "https://music.163.com/artist?id=29628377"
+      }
+    ],
+    "album": {
+      "name": "Standing Still",
+      "link": "https://music.163.com/album?id=88064689"
+    }
+  },
+  {
+    "name": "Lapse",
+    "link": "https://music.163.com/song?id=1419388376",
+    "duration": "02:51",
+    "artists": [
+      {
+        "name": "Ordinary",
+        "link": "https://music.163.com/artist?id=34578243"
+      },
+      {
+        "name": "Arch Valentines",
+        "link": "https://music.163.com/artist?id=34250309"
+      }
+    ],
+    "album": {
+      "name": "Lapse",
+      "link": "https://music.163.com/album?id=85281511"
+    }
+  },
+  {
+    "name": "We'll Meet Again",
+    "link": "https://music.163.com/song?id=1457772407",
+    "duration": "03:15",
+    "artists": [
+      {
+        "name": "TheFatRat",
+        "link": "https://music.163.com/artist?id=1019952"
+      },
+      {
+        "name": "Laura Brehm",
+        "link": "https://music.163.com/artist?id=207693"
+      }
+    ],
+    "album": {
+      "name": "We'll Meet Again",
+      "link": "https://music.163.com/album?id=91437445"
+    }
+  },
+  {
+    "name": "If You Fall (feat. Derrick Ryan)",
+    "link": "https://music.163.com/song?id=1409236978",
+    "duration": "02:33",
+    "artists": [
+      { "name": "B3nte", "link": "https://music.163.com/artist?id=1144036" },
+      {
+        "name": "Mike Emilio",
+        "link": "https://music.163.com/artist?id=12073956"
+      },
+      { "name": "HuuxX", "link": "https://music.163.com/artist?id=12279951" },
+      {
+        "name": "Derrick Ryan",
+        "link": "https://music.163.com/artist?id=33456897"
+      }
+    ],
+    "album": {
+      "name": "If You Fall (feat. Derrick Ryan)",
+      "link": "https://music.163.com/album?id=84062134"
+    }
+  },
+  {
+    "name": "Fusion",
+    "link": "https://music.163.com/song?id=1461084919",
+    "duration": "03:35",
+    "artists": [
+      { "name": "Rogue", "link": "https://music.163.com/artist?id=21246" }
+    ],
+    "album": {
+      "name": "Fusion",
+      "link": "https://music.163.com/album?id=92074428"
+    }
+  },
+  {
+    "name": "By My Side",
+    "link": "https://music.163.com/song?id=1450882444",
+    "duration": "03:15",
+    "artists": [
+      {
+        "name": "Julian Calor",
+        "link": "https://music.163.com/artist?id=894039"
+      }
+    ],
+    "album": {
+      "name": "By My Side",
+      "link": "https://music.163.com/album?id=89942760"
+    }
+  },
+  {
+    "name": "The Beginning",
+    "link": "https://music.163.com/song?id=573004928",
+    "duration": "03:25",
+    "artists": [
+      {
+        "name": "Richie Krisak",
+        "link": "https://music.163.com/artist?id=14440964"
+      },
+      {
+        "name": "Emelie Cyréus",
+        "link": "https://music.163.com/artist?id=13312243"
+      }
+    ],
+    "album": {
+      "name": "The Beginning",
+      "link": "https://music.163.com/album?id=39675368"
+    }
+  },
+  {
+    "name": "Further",
+    "link": "https://music.163.com/song?id=1454340427",
+    "duration": "04:05",
+    "artists": [
+      { "name": "Direct", "link": "https://music.163.com/artist?id=758029" },
+      {
+        "name": "CloudNone",
+        "link": "https://music.163.com/artist?id=28407606"
+      }
+    ],
+    "album": {
+      "name": "Further",
+      "link": "https://music.163.com/album?id=90642052"
+    }
+  },
+  {
+    "name": "Wild Life",
+    "link": "https://music.163.com/song?id=1391787652",
+    "duration": "03:12",
+    "artists": [
+      { "name": "Jinco", "link": "https://music.163.com/artist?id=956041" },
+      { "name": "Sam Bruno", "link": "https://music.163.com/artist?id=1081428" }
+    ],
+    "album": {
+      "name": "Wild Life",
+      "link": "https://music.163.com/album?id=81744194"
+    }
+  },
+  {
+    "name": "You're Not Missing Me",
+    "link": "https://music.163.com/song?id=536570777",
+    "duration": "03:33",
+    "artists": [
+      {
+        "name": "Chelsea Cutler",
+        "link": "https://music.163.com/artist?id=1150112"
+      }
+    ],
+    "album": {
+      "name": "You're Not Missing Me",
+      "link": "https://music.163.com/album?id=37575186"
+    }
+  },
+  {
+    "name": "Real Shit",
+    "link": "https://music.163.com/song?id=1356160049",
+    "duration": "02:44",
+    "artists": [
+      { "name": "Boehm", "link": "https://music.163.com/artist?id=805212" }
+    ],
+    "album": {
+      "name": "Real Shit",
+      "link": "https://music.163.com/album?id=78290996"
+    }
+  },
+  {
+    "name": "On & On",
+    "link": "https://music.163.com/song?id=1404954562",
+    "duration": "02:27",
+    "artists": [
+      { "name": "Alok", "link": "https://music.163.com/artist?id=1170012" },
+      { "name": "Dynoro", "link": "https://music.163.com/artist?id=13485238" }
+    ],
+    "album": {
+      "name": "On & On",
+      "link": "https://music.163.com/album?id=83546032"
+    }
+  },
+  {
+    "name": "Poor Surgeon",
+    "link": "https://music.163.com/song?id=1340120106",
+    "duration": "03:29",
+    "artists": [
+      { "name": "Midoca", "link": "https://music.163.com/artist?id=12066143" }
+    ],
+    "album": {
+      "name": "Poor Surgeon",
+      "link": "https://music.163.com/album?id=75205747"
+    }
+  },
+  {
+    "name": "Be My Escape (Sunburn Mix)",
+    "link": "https://music.163.com/song?id=514478088",
+    "duration": "03:08",
+    "artists": [
+      {
+        "name": "Michael Badal",
+        "link": "https://music.163.com/artist?id=146555"
+      },
+      {
+        "name": "Abigail Barlow",
+        "link": "https://music.163.com/artist?id=13581288"
+      }
+    ],
+    "album": {
+      "name": "Be My Escape (Sunburn Mix)",
+      "link": "https://music.163.com/album?id=36577001"
+    }
+  },
+  {
+    "name": "0202",
+    "link": "https://music.163.com/song?id=488647722",
+    "duration": "03:15",
+    "artists": [
+      { "name": "Eminence", "link": "https://music.163.com/artist?id=207564" }
+    ],
+    "album": {
+      "name": "Rocket League x Monstercat Vol. 1",
+      "link": "https://music.163.com/album?id=35644274"
+    }
+  },
+  {
+    "name": "Wasteland (Wooli Remix)",
+    "link": "https://music.163.com/song?id=1453683590",
+    "duration": "04:23",
+    "artists": [
+      { "name": "Trivecta", "link": "https://music.163.com/artist?id=954338" },
+      { "name": "Wooli", "link": "https://music.163.com/artist?id=12203238" }
+    ],
+    "album": {
+      "name": "Wasteland (Wooli Remix)",
+      "link": "https://music.163.com/album?id=90499347"
+    }
+  },
+  {
+    "name": "Talk To Me",
+    "link": "https://music.163.com/song?id=1317193095",
+    "duration": "03:29",
+    "artists": [
+      {
+        "name": "Anthony Dircson",
+        "link": "https://music.163.com/artist?id=13674635"
+      },
+      { "name": "Susan H", "link": "https://music.163.com/artist?id=12436030" }
+    ],
+    "album": {
+      "name": "Talk To Me",
+      "link": "https://music.163.com/album?id=73875963"
+    }
+  },
+  {
+    "name": "Light (WRLD Remix)",
+    "link": "https://music.163.com/song?id=446512624",
+    "duration": "03:29",
+    "artists": [
+      { "name": "WRLD", "link": "https://music.163.com/artist?id=948057" },
+      { "name": "San Holo", "link": "https://music.163.com/artist?id=1017035" }
+    ],
+    "album": {
+      "name": "Light (WRLD Remix)",
+      "link": "https://music.163.com/album?id=35045337"
+    }
+  },
+  {
+    "name": "Blame It On Your Love (feat. Lizzo)",
+    "link": "https://music.163.com/song?id=1390487336",
+    "duration": "03:11",
+    "artists": [
+      { "name": "Charli XCX", "link": "https://music.163.com/artist?id=53092" },
+      { "name": "Lizzo", "link": "https://music.163.com/artist?id=840165" }
+    ],
+    "album": {
+      "name": "Charli",
+      "link": "https://music.163.com/album?id=81593693"
+    }
+  },
+  {
+    "name": "Rum n Tequila",
+    "link": "https://music.163.com/song?id=1361104021",
+    "duration": "02:17",
+    "artists": [
+      { "name": "JOHN.k", "link": "https://music.163.com/artist?id=12931567" }
+    ],
+    "album": {
+      "name": "if we never met",
+      "link": "https://music.163.com/album?id=78750577"
+    }
+  },
+  {
+    "name": "Pillow talk",
+    "link": "https://music.163.com/song?id=29723074",
+    "duration": "03:47",
+    "artists": [
+      { "name": "Auryn", "link": "https://music.163.com/artist?id=87424" }
+    ],
+    "album": {
+      "name": "Circus Avenue (Fan Edition)",
+      "link": "https://music.163.com/album?id=3066283"
+    }
+  },
+  {
+    "name": "Bloom (Extended Mix)",
+    "link": "https://music.163.com/song?id=1449294987",
+    "duration": "03:58",
+    "artists": [
+      { "name": "Omnia", "link": "https://music.163.com/artist?id=179006" }
+    ],
+    "album": {
+      "name": "Bloom",
+      "link": "https://music.163.com/album?id=88347065"
+    }
+  },
+  {
+    "name": "Better By Myself",
+    "link": "https://music.163.com/song?id=1358194354",
+    "duration": "03:14",
+    "artists": [
+      {
+        "name": "Hey Violet",
+        "link": "https://music.163.com/artist?id=1102151"
+      }
+    ],
+    "album": {
+      "name": "Better By Myself",
+      "link": "https://music.163.com/album?id=78480671"
+    }
+  },
+  {
+    "name": "Nobody Compares",
+    "link": "https://music.163.com/song?id=26608504",
+    "duration": "03:31",
+    "artists": [
+      {
+        "name": "One Direction",
+        "link": "https://music.163.com/artist?id=98351"
+      }
+    ],
+    "album": {
+      "name": "Take Me Home (Special Deluxe Edition)",
+      "link": "https://music.163.com/album?id=2532168"
+    }
+  }
+]

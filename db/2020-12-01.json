@@ -1,0 +1,432 @@
+[
+  {
+    "name": "We Won't Be Alone (feat. Laura Brehm)",
+    "link": "https://music.163.com/song?id=34766078",
+    "duration": "03:54",
+    "artists": [
+      { "name": "Feint", "link": "https://music.163.com/artist?id=93062" },
+      {
+        "name": "Laura Brehm",
+        "link": "https://music.163.com/artist?id=207693"
+      }
+    ],
+    "album": {
+      "name": "We Won't Be Alone",
+      "link": "https://music.163.com/album?id=3295346"
+    }
+  },
+  {
+    "name": "Chasing The Light",
+    "link": "https://music.163.com/song?id=1420914778",
+    "duration": "02:37",
+    "artists": [
+      { "name": "Maryn", "link": "https://music.163.com/artist?id=12861041" },
+      {
+        "name": "Jordan Shaw",
+        "link": "https://music.163.com/artist?id=13628884"
+      }
+    ],
+    "album": {
+      "name": "Chasing The Light",
+      "link": "https://music.163.com/album?id=85465752"
+    }
+  },
+  {
+    "name": "So Far Away",
+    "link": "https://music.163.com/song?id=521416693",
+    "duration": "03:03",
+    "artists": [
+      {
+        "name": "Martin Garrix",
+        "link": "https://music.163.com/artist?id=780003"
+      },
+      {
+        "name": "David Guetta",
+        "link": "https://music.163.com/artist?id=31211"
+      },
+      {
+        "name": "Jamie Scott",
+        "link": "https://music.163.com/artist?id=141813"
+      },
+      { "name": "Romy Dya", "link": "https://music.163.com/artist?id=12900365" }
+    ],
+    "album": {
+      "name": "So Far Away",
+      "link": "https://music.163.com/album?id=36873174"
+    }
+  },
+  {
+    "name": "Time to Pretend",
+    "link": "https://music.163.com/song?id=1377642003",
+    "duration": "05:14",
+    "artists": [
+      {
+        "name": "Lazer Boomerang",
+        "link": "https://music.163.com/artist?id=13976294"
+      }
+    ],
+    "album": {
+      "name": "Time to Pretend",
+      "link": "https://music.163.com/album?id=80371789"
+    }
+  },
+  {
+    "name": "Limitless (feat. Sophie Rose)",
+    "link": "https://music.163.com/song?id=504399003",
+    "duration": "03:30",
+    "artists": [
+      { "name": "SAM F", "link": "https://music.163.com/artist?id=12074533" },
+      { "name": "Sophie Rose", "link": "https://music.163.com/artist?id=78099" }
+    ],
+    "album": {
+      "name": "Limitless (feat. Sophie Rose) (Remixes)",
+      "link": "https://music.163.com/album?id=36108321"
+    }
+  },
+  {
+    "name": "Turn Back Time",
+    "link": "https://music.163.com/song?id=515947938",
+    "duration": "03:43",
+    "artists": [
+      {
+        "name": "Daniel Schulz",
+        "link": "https://music.163.com/artist?id=12811024"
+      }
+    ],
+    "album": {
+      "name": "Turn Back Time",
+      "link": "https://music.163.com/album?id=36689057"
+    }
+  },
+  {
+    "name": "Forever (Original Mix)",
+    "link": "https://music.163.com/song?id=1301573649",
+    "duration": "03:31",
+    "artists": [
+      { "name": "Suprafive", "link": "https://music.163.com/artist?id=1022142" }
+    ],
+    "album": {
+      "name": "Forever",
+      "link": "https://music.163.com/album?id=72302741"
+    }
+  },
+  {
+    "name": "Waterfall",
+    "link": "https://music.163.com/song?id=33911581",
+    "duration": "07:27",
+    "artists": [
+      {
+        "name": "Luigi Lusini",
+        "link": "https://music.163.com/artist?id=38282"
+      }
+    ],
+    "album": {
+      "name": "I'll Be Home",
+      "link": "https://music.163.com/album?id=3266157"
+    }
+  },
+  {
+    "name": "OT",
+    "link": "https://music.163.com/song?id=553955770",
+    "duration": "03:11",
+    "artists": [
+      { "name": "John K", "link": "https://music.163.com/artist?id=12931567" }
+    ],
+    "album": { "name": "OT", "link": "https://music.163.com/album?id=38413285" }
+  },
+  {
+    "name": "Legend",
+    "link": "https://music.163.com/song?id=1407546865",
+    "duration": "03:11",
+    "artists": [
+      { "name": "SSR", "link": "https://music.163.com/artist?id=32856339" }
+    ],
+    "album": {
+      "name": "Legend",
+      "link": "https://music.163.com/album?id=83844843"
+    }
+  },
+  {
+    "name": "I Want You (Original Mix)",
+    "link": "https://music.163.com/song?id=502486293",
+    "duration": "07:00",
+    "artists": [
+      {
+        "name": "Anton Ishutin",
+        "link": "https://music.163.com/artist?id=789422"
+      },
+      {
+        "name": "Veselina Popova",
+        "link": "https://music.163.com/artist?id=1182470"
+      }
+    ],
+    "album": {
+      "name": "I Want You",
+      "link": "https://music.163.com/album?id=36079810"
+    }
+  },
+  {
+    "name": "夜、萤火虫和你",
+    "link": "https://music.163.com/song?id=509720124",
+    "duration": "03:08",
+    "artists": [
+      { "name": "AniFace", "link": "https://music.163.com/artist?id=12259037" }
+    ],
+    "album": {
+      "name": "夜、萤火虫和你",
+      "link": "https://music.163.com/album?id=36417372"
+    }
+  },
+  {
+    "name": "KILL EM WIS KINDNE$$（Blade Cross Mash up)",
+    "link": "https://music.163.com/song?id=543203947",
+    "duration": "03:32",
+    "artists": [
+      {
+        "name": "Seven†Cross",
+        "link": "https://music.163.com/artist?id=12405374"
+      }
+    ],
+    "album": {
+      "name": "KILL EM WIS KINDNE$$（Blade Cross Mashup）",
+      "link": "https://music.163.com/album?id=37798701"
+    }
+  },
+  {
+    "name": "Concentrate",
+    "link": "https://music.163.com/song?id=1352787191",
+    "duration": "03:08",
+    "artists": [
+      { "name": "Anti Up", "link": "https://music.163.com/artist?id=27848770" }
+    ],
+    "album": {
+      "name": "Concentrate",
+      "link": "https://music.163.com/album?id=75889109"
+    }
+  },
+  {
+    "name": "Wide Awake",
+    "link": "https://music.163.com/song?id=1711027",
+    "duration": "04:01",
+    "artists": [
+      {
+        "name": "Making April",
+        "link": "https://music.163.com/artist?id=38916"
+      }
+    ],
+    "album": {
+      "name": "The Egg Hunt",
+      "link": "https://music.163.com/album?id=173342"
+    }
+  },
+  {
+    "name": "Out Of Time",
+    "link": "https://music.163.com/song?id=1407640126",
+    "duration": "02:50",
+    "artists": [
+      {
+        "name": "Why So Sad",
+        "link": "https://music.163.com/artist?id=31588006"
+      }
+    ],
+    "album": {
+      "name": "Out Of Time",
+      "link": "https://music.163.com/album?id=83890129"
+    }
+  },
+  {
+    "name": "Rave After Rave (Original Mix)",
+    "link": "https://music.163.com/song?id=31081097",
+    "duration": "03:57",
+    "artists": [
+      { "name": "W&W", "link": "https://music.163.com/artist?id=46131" }
+    ],
+    "album": {
+      "name": "Rave After Rave",
+      "link": "https://music.163.com/album?id=3109684"
+    }
+  },
+  {
+    "name": "夏野与暗恋",
+    "link": "https://music.163.com/song?id=421934070",
+    "duration": "02:44",
+    "artists": [
+      { "name": "闫东炜", "link": "https://music.163.com/artist?id=4621" }
+    ],
+    "album": {
+      "name": "小清新与小情绪",
+      "link": "https://music.163.com/album?id=34615284"
+    }
+  },
+  {
+    "name": "Sounds From The Valley (Original Mix)",
+    "link": "https://music.163.com/song?id=1447306359",
+    "duration": "07:00",
+    "artists": [
+      { "name": "Melchi", "link": "https://music.163.com/artist?id=12058010" }
+    ],
+    "album": {
+      "name": "Sounds From The Valley",
+      "link": "https://music.163.com/album?id=89300453"
+    }
+  },
+  {
+    "name": "Saltwater",
+    "link": "https://music.163.com/song?id=423314485",
+    "duration": "04:07",
+    "artists": [
+      { "name": "Geowulf", "link": "https://music.163.com/artist?id=12087103" }
+    ],
+    "album": {
+      "name": "Saltwater",
+      "link": "https://music.163.com/album?id=34790355"
+    }
+  },
+  {
+    "name": "儿时的夏日",
+    "link": "https://music.163.com/song?id=467744316",
+    "duration": "04:34",
+    "artists": [
+      { "name": "余日秋山", "link": "https://music.163.com/artist?id=12065110" }
+    ],
+    "album": {
+      "name": "儿时的夏日",
+      "link": "https://music.163.com/album?id=35309159"
+    }
+  },
+  {
+    "name": "Parallel Life (Original Mix)",
+    "link": "https://music.163.com/song?id=458711465",
+    "duration": "05:23",
+    "artists": [
+      { "name": "NekliFF", "link": "https://music.163.com/artist?id=312099" },
+      {
+        "name": "Mary S.K.",
+        "link": "https://music.163.com/artist?id=14130154"
+      }
+    ],
+    "album": {
+      "name": "Parallel Life",
+      "link": "https://music.163.com/album?id=35157878"
+    }
+  },
+  {
+    "name": "Gone",
+    "link": "https://music.163.com/song?id=1336856653",
+    "duration": "02:53",
+    "artists": [
+      { "name": "Hoang", "link": "https://music.163.com/artist?id=27694442" },
+      { "name": "Kianna", "link": "https://music.163.com/artist?id=197017" }
+    ],
+    "album": {
+      "name": "Gone",
+      "link": "https://music.163.com/album?id=75016971"
+    }
+  },
+  {
+    "name": "Years From Now (Original Mix)",
+    "link": "https://music.163.com/song?id=516318056",
+    "duration": "07:51",
+    "artists": [
+      {
+        "name": "Roald Velden",
+        "link": "https://music.163.com/artist?id=178498"
+      }
+    ],
+    "album": {
+      "name": "Behind Every Picture",
+      "link": "https://music.163.com/album?id=36700035"
+    }
+  },
+  {
+    "name": "Legends Never Die - (传奇永不熄—英雄联盟2017全球总决赛主题曲)",
+    "link": "https://music.163.com/song?id=506196018",
+    "duration": "03:55",
+    "artists": [
+      {
+        "name": "Against the Current",
+        "link": "https://music.163.com/artist?id=783418"
+      }
+    ],
+    "album": {
+      "name": "Legends Never Die",
+      "link": "https://music.163.com/album?id=75816481"
+    }
+  },
+  {
+    "name": "Lights",
+    "link": "https://music.163.com/song?id=410519101",
+    "duration": "03:28",
+    "artists": [
+      {
+        "name": "Bobby Green",
+        "link": "https://music.163.com/artist?id=1043466"
+      }
+    ],
+    "album": {
+      "name": "Lights ",
+      "link": "https://music.163.com/album?id=34666036"
+    }
+  },
+  {
+    "name": "Make Me Move (Tobu Remix)",
+    "link": "https://music.163.com/song?id=476630942",
+    "duration": "03:01",
+    "artists": [
+      { "name": "Tobu", "link": "https://music.163.com/artist?id=964486" },
+      {
+        "name": "Culture Code",
+        "link": "https://music.163.com/artist?id=1049930"
+      },
+      { "name": "Karra", "link": "https://music.163.com/artist?id=1081582" }
+    ],
+    "album": {
+      "name": "Make Me Move (Tobu Remix)",
+      "link": "https://music.163.com/album?id=35456392"
+    }
+  },
+  {
+    "name": "Spirals",
+    "link": "https://music.163.com/song?id=32857435",
+    "duration": "06:03",
+    "artists": [
+      {
+        "name": "Sound Remedy",
+        "link": "https://music.163.com/artist?id=777618"
+      },
+      { "name": "ILLENIUM", "link": "https://music.163.com/artist?id=1050518" },
+      { "name": "King Deco", "link": "https://music.163.com/artist?id=908182" }
+    ],
+    "album": {
+      "name": "Spirals",
+      "link": "https://music.163.com/album?id=3171548"
+    }
+  },
+  {
+    "name": "Altitude",
+    "link": "https://music.163.com/song?id=407679741",
+    "duration": "05:34",
+    "artists": [
+      {
+        "name": "James Woods",
+        "link": "https://music.163.com/artist?id=369295"
+      }
+    ],
+    "album": {
+      "name": "Warm Wind",
+      "link": "https://music.163.com/album?id=34588209"
+    }
+  },
+  {
+    "name": "Wolves",
+    "link": "https://music.163.com/song?id=549484811",
+    "duration": "03:17",
+    "artists": [
+      { "name": "川下穷江", "link": "https://music.163.com/artist?id=12814210" }
+    ],
+    "album": {
+      "name": "Wolves",
+      "link": "https://music.163.com/album?id=38076573"
+    }
+  }
+]

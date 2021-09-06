@@ -1,0 +1,438 @@
+[
+  {
+    "name": "Outerspace",
+    "link": "https://music.163.com/song?id=1478293828",
+    "duration": "02:54",
+    "artists": [
+      { "name": "BEAUZ", "link": "https://music.163.com/artist?id=12131436" }
+    ],
+    "album": {
+      "name": "Outerspace",
+      "link": "https://music.163.com/album?id=95247502"
+    }
+  },
+  {
+    "name": "Not My Baby",
+    "link": "https://music.163.com/song?id=1434309751",
+    "duration": "02:48",
+    "artists": [
+      { "name": "Inna", "link": "https://music.163.com/artist?id=60848" }
+    ],
+    "album": {
+      "name": "Not My Baby",
+      "link": "https://music.163.com/album?id=86867305"
+    }
+  },
+  {
+    "name": "Little Light",
+    "link": "https://music.163.com/song?id=1439177900",
+    "duration": "02:42",
+    "artists": [
+      { "name": "Spada", "link": "https://music.163.com/artist?id=142013" },
+      { "name": "Aurya", "link": "https://music.163.com/artist?id=34817547" }
+    ],
+    "album": {
+      "name": "Little Light",
+      "link": "https://music.163.com/album?id=87830525"
+    }
+  },
+  {
+    "name": "Fly To New York",
+    "link": "https://music.163.com/song?id=30064146",
+    "duration": "05:21",
+    "artists": [
+      {
+        "name": "Above & Beyond",
+        "link": "https://music.163.com/artist?id=85548"
+      },
+      {
+        "name": "Zoë Johnston",
+        "link": "https://music.163.com/artist?id=85283"
+      }
+    ],
+    "album": {
+      "name": "We Are All We Need",
+      "link": "https://music.163.com/album?id=3046086"
+    }
+  },
+  {
+    "name": "Limit",
+    "link": "https://music.163.com/song?id=1323272445",
+    "duration": "02:57",
+    "artists": [
+      { "name": "MKJ", "link": "https://music.163.com/artist?id=469200" }
+    ],
+    "album": {
+      "name": "Time After Time",
+      "link": "https://music.163.com/album?id=74263822"
+    }
+  },
+  {
+    "name": "Live Forever",
+    "link": "https://music.163.com/song?id=461518838",
+    "duration": "04:01",
+    "artists": [
+      {
+        "name": "Third Party",
+        "link": "https://music.163.com/artist?id=784231"
+      }
+    ],
+    "album": {
+      "name": "HOPE",
+      "link": "https://music.163.com/album?id=35210200"
+    }
+  },
+  {
+    "name": "Inside Out",
+    "link": "https://music.163.com/song?id=1309975421",
+    "duration": "03:07",
+    "artists": [
+      {
+        "name": "ItaloBrothers",
+        "link": "https://music.163.com/artist?id=94730"
+      }
+    ],
+    "album": {
+      "name": "Inside Out",
+      "link": "https://music.163.com/album?id=73332809"
+    }
+  },
+  {
+    "name": "No Regrets",
+    "link": "https://music.163.com/song?id=29091053",
+    "duration": "04:49",
+    "artists": [
+      {
+        "name": "Makeup and Vanity Set",
+        "link": "https://music.163.com/artist?id=725480"
+      }
+    ],
+    "album": {
+      "name": "88:88",
+      "link": "https://music.163.com/album?id=2988567"
+    }
+  },
+  {
+    "name": "Middle Of The Night (Extended Mix)",
+    "link": "https://music.163.com/song?id=1461637595",
+    "duration": "03:58",
+    "artists": [
+      { "name": "Taiga", "link": "https://music.163.com/artist?id=36135315" }
+    ],
+    "album": {
+      "name": "Middle Of The Night",
+      "link": "https://music.163.com/album?id=92205970"
+    }
+  },
+  {
+    "name": "纵酒",
+    "link": "https://music.163.com/song?id=1321299870",
+    "duration": "03:24",
+    "artists": [
+      {
+        "name": "Forwe兰斯",
+        "link": "https://music.163.com/artist?id=12079166"
+      },
+      { "name": "Snikm", "link": "https://music.163.com/artist?id=12119610" }
+    ],
+    "album": {
+      "name": "纵酒",
+      "link": "https://music.163.com/album?id=74123975"
+    }
+  },
+  {
+    "name": "Shores (feat. Moonessa)",
+    "link": "https://music.163.com/song?id=1360884080",
+    "duration": "03:32",
+    "artists": [
+      { "name": "Ash", "link": "https://music.163.com/artist?id=840746" },
+      { "name": "Moonessa", "link": "https://music.163.com/artist?id=29834706" }
+    ],
+    "album": {
+      "name": "Shores ",
+      "link": "https://music.163.com/album?id=78728056"
+    }
+  },
+  {
+    "name": "Blazer",
+    "link": "https://music.163.com/song?id=1347717316",
+    "duration": "02:51",
+    "artists": [
+      {
+        "name": "Jarah Damiel",
+        "link": "https://music.163.com/artist?id=427246"
+      }
+    ],
+    "album": {
+      "name": "Blazer",
+      "link": "https://music.163.com/album?id=75667044"
+    }
+  },
+  {
+    "name": "Worlds Apart",
+    "link": "https://music.163.com/song?id=1341819224",
+    "duration": "03:34",
+    "artists": [
+      { "name": "Far Out", "link": "https://music.163.com/artist?id=824107" }
+    ],
+    "album": {
+      "name": "Worlds Apart",
+      "link": "https://music.163.com/album?id=75317249"
+    }
+  },
+  {
+    "name": "Everything Changed",
+    "link": "https://music.163.com/song?id=506139197",
+    "duration": "04:35",
+    "artists": [
+      {
+        "name": "John Stanford",
+        "link": "https://music.163.com/artist?id=37294"
+      },
+      {
+        "name": "Dallin Applebaum",
+        "link": "https://music.163.com/artist?id=29033370"
+      }
+    ],
+    "album": {
+      "name": "Automatica",
+      "link": "https://music.163.com/album?id=36049733"
+    }
+  },
+  {
+    "name": "Warriors",
+    "link": "https://music.163.com/song?id=1344439276",
+    "duration": "02:49",
+    "artists": [
+      {
+        "name": "Paris Blohm",
+        "link": "https://music.163.com/artist?id=851710"
+      },
+      { "name": "Nevlin", "link": "https://music.163.com/artist?id=15022237" },
+      { "name": "Romysa", "link": "https://music.163.com/artist?id=31281537" }
+    ],
+    "album": {
+      "name": "Warriors",
+      "link": "https://music.163.com/album?id=75469830"
+    }
+  },
+  {
+    "name": "All I Need",
+    "link": "https://music.163.com/song?id=1380228195",
+    "duration": "03:12",
+    "artists": [
+      {
+        "name": "Michael Schulte",
+        "link": "https://music.163.com/artist?id=40222"
+      }
+    ],
+    "album": {
+      "name": "All I Need",
+      "link": "https://music.163.com/album?id=80617781"
+    }
+  },
+  {
+    "name": "Overthinker",
+    "link": "https://music.163.com/song?id=1311091060",
+    "duration": "04:28",
+    "artists": [
+      { "name": "INZO", "link": "https://music.163.com/artist?id=1108051" }
+    ],
+    "album": {
+      "name": "Overthinker",
+      "link": "https://music.163.com/album?id=73436622"
+    }
+  },
+  {
+    "name": "Seed",
+    "link": "https://music.163.com/song?id=565765841",
+    "duration": "08:30",
+    "artists": [
+      { "name": "foldin", "link": "https://music.163.com/artist?id=1158025" }
+    ],
+    "album": {
+      "name": "seed",
+      "link": "https://music.163.com/album?id=39112609"
+    }
+  },
+  {
+    "name": "Nebula（DkCheng Remix）",
+    "link": "https://music.163.com/song?id=554874527",
+    "duration": "03:16",
+    "artists": [
+      { "name": "Dk澄", "link": "https://music.163.com/artist?id=12236188" },
+      { "name": "Worezh", "link": "https://music.163.com/artist?id=1158066" },
+      {
+        "name": "ChakYoun9",
+        "link": "https://music.163.com/artist?id=12094429"
+      }
+    ],
+    "album": {
+      "name": "Nebula（DkCheng Remix）",
+      "link": "https://music.163.com/album?id=38449098"
+    }
+  },
+  {
+    "name": "Still Sleeping",
+    "link": "https://music.163.com/song?id=1356229856",
+    "duration": "04:46",
+    "artists": [
+      { "name": "Jai Wolf", "link": "https://music.163.com/artist?id=1063048" }
+    ],
+    "album": {
+      "name": "The Cure To Loneliness",
+      "link": "https://music.163.com/album?id=78300643"
+    }
+  },
+  {
+    "name": "Skying High",
+    "link": "https://music.163.com/song?id=26612936",
+    "duration": "03:07",
+    "artists": [
+      {
+        "name": "Postiljonen",
+        "link": "https://music.163.com/artist?id=725356"
+      }
+    ],
+    "album": {
+      "name": "Skyer",
+      "link": "https://music.163.com/album?id=2535635"
+    }
+  },
+  {
+    "name": "Wanna Go",
+    "link": "https://music.163.com/song?id=1429111293",
+    "duration": "02:53",
+    "artists": [
+      {
+        "name": "Blvmenkind",
+        "link": "https://music.163.com/artist?id=12301349"
+      },
+      { "name": "Tom Wavy", "link": "https://music.163.com/artist?id=34525721" }
+    ],
+    "album": {
+      "name": "Wanna Go",
+      "link": "https://music.163.com/album?id=86321811"
+    }
+  },
+  {
+    "name": "Monkey Me",
+    "link": "https://music.163.com/song?id=27879558",
+    "duration": "04:13",
+    "artists": [
+      {
+        "name": "Mylène Farmer",
+        "link": "https://music.163.com/artist?id=66380"
+      }
+    ],
+    "album": {
+      "name": "Monkey Me (Remixes)",
+      "link": "https://music.163.com/album?id=2688789"
+    }
+  },
+  {
+    "name": "Locked Away",
+    "link": "https://music.163.com/song?id=406072193",
+    "duration": "04:20",
+    "artists": [
+      {
+        "name": "OutaMatic",
+        "link": "https://music.163.com/artist?id=1181741"
+      },
+      {
+        "name": "Maddie Wilson",
+        "link": "https://music.163.com/artist?id=935125"
+      },
+      {
+        "name": "Madilyn Paige",
+        "link": "https://music.163.com/artist?id=935127"
+      }
+    ],
+    "album": {
+      "name": "Locked Away (Maddie Wilson & Madilyn Paige) [OutaMatic Remix]",
+      "link": "https://music.163.com/album?id=34526759"
+    }
+  },
+  {
+    "name": "All I See Is You (DJ Afrojack Edit)",
+    "link": "https://music.163.com/song?id=543987454",
+    "duration": "03:45",
+    "artists": [
+      {
+        "name": "Jewelz & Sparks",
+        "link": "https://music.163.com/artist?id=947051"
+      },
+      { "name": "Afrojack", "link": "https://music.163.com/artist?id=28745" }
+    ],
+    "album": {
+      "name": "All I See Is You",
+      "link": "https://music.163.com/album?id=37886085"
+    }
+  },
+  {
+    "name": "You Will Never Be",
+    "link": "https://music.163.com/song?id=2868903",
+    "duration": "03:44",
+    "artists": [
+      { "name": "Julia Sheer", "link": "https://music.163.com/artist?id=62719" }
+    ],
+    "album": {
+      "name": "Julia Sheer",
+      "link": "https://music.163.com/album?id=289648"
+    }
+  },
+  {
+    "name": "Don't go dark (feat. helena j)",
+    "link": "https://music.163.com/song?id=28926971",
+    "duration": "04:05",
+    "artists": [
+      { "name": " kill fm", "link": "https://music.163.com/artist?id=985106" }
+    ],
+    "album": {
+      "name": "don't go dark ep",
+      "link": "https://music.163.com/album?id=2949410"
+    }
+  },
+  {
+    "name": "Sandblast",
+    "link": "https://music.163.com/song?id=27492545",
+    "duration": "05:26",
+    "artists": [
+      {
+        "name": "Fox Stevenson",
+        "link": "https://music.163.com/artist?id=794279"
+      }
+    ],
+    "album": {
+      "name": "Sandblast - Single",
+      "link": "https://music.163.com/album?id=2614683"
+    }
+  },
+  {
+    "name": "That's Christmas To Me",
+    "link": "https://music.163.com/song?id=29544245",
+    "duration": "03:02",
+    "artists": [
+      { "name": "Pentatonix", "link": "https://music.163.com/artist?id=99292" }
+    ],
+    "album": {
+      "name": "That's Christmas To Me",
+      "link": "https://music.163.com/album?id=3041018"
+    }
+  },
+  {
+    "name": "Rose Tinted View",
+    "link": "https://music.163.com/song?id=1325896538",
+    "duration": "03:56",
+    "artists": [
+      {
+        "name": "Teflon Sega",
+        "link": "https://music.163.com/artist?id=12154027"
+      }
+    ],
+    "album": {
+      "name": "Rose Tinted View",
+      "link": "https://music.163.com/album?id=74267164"
+    }
+  }
+]

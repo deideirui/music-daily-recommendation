@@ -1,0 +1,493 @@
+[
+  {
+    "name": "Happy Robot",
+    "link": "https://music.163.com/song?id=1440515553",
+    "duration": "03:10",
+    "artists": [
+      { "name": "Vexento", "link": "https://music.163.com/artist?id=12037010" }
+    ],
+    "album": {
+      "name": "Happy Robot",
+      "link": "https://music.163.com/album?id=87997771"
+    }
+  },
+  {
+    "name": "Maze",
+    "link": "https://music.163.com/song?id=1439407612",
+    "duration": "02:54",
+    "artists": [
+      {
+        "name": "Mike Perry",
+        "link": "https://music.163.com/artist?id=195021"
+      },
+      {
+        "name": "Wanja Janeva",
+        "link": "https://music.163.com/artist?id=12839904"
+      },
+      { "name": "Mangoo", "link": "https://music.163.com/artist?id=13340051" }
+    ],
+    "album": {
+      "name": "Maze",
+      "link": "https://music.163.com/album?id=87858483"
+    }
+  },
+  {
+    "name": "Burning Bridges",
+    "link": "https://music.163.com/song?id=1428651009",
+    "duration": "02:52",
+    "artists": [
+      { "name": "Ella Vos", "link": "https://music.163.com/artist?id=12121298" }
+    ],
+    "album": {
+      "name": "Burning Bridges",
+      "link": "https://music.163.com/album?id=86275808"
+    }
+  },
+  {
+    "name": "Turns To Dust (Ryan Exley Remix)",
+    "link": "https://music.163.com/song?id=1382366117",
+    "duration": "03:50",
+    "artists": [
+      {
+        "name": "Sound Surfer",
+        "link": "https://music.163.com/artist?id=1186004"
+      },
+      { "name": "Verso", "link": "https://music.163.com/artist?id=338218" },
+      {
+        "name": "Ryan Exley",
+        "link": "https://music.163.com/artist?id=1053024"
+      }
+    ],
+    "album": {
+      "name": "Turns To Dust (Ryan Exley Remix)",
+      "link": "https://music.163.com/album?id=80796219"
+    }
+  },
+  {
+    "name": "Please Don't Go",
+    "link": "https://music.163.com/song?id=1424220043",
+    "duration": "03:00",
+    "artists": [
+      { "name": "BEAUZ", "link": "https://music.163.com/artist?id=12131436" },
+      { "name": "BSY", "link": "https://music.163.com/artist?id=34372552" },
+      { "name": "JSY", "link": "https://music.163.com/artist?id=34371015" },
+      { "name": "Cappa", "link": "https://music.163.com/artist?id=1053281" }
+    ],
+    "album": {
+      "name": "Please Don't Go",
+      "link": "https://music.163.com/album?id=85814637"
+    }
+  },
+  {
+    "name": "Broken Glass",
+    "link": "https://music.163.com/song?id=1447684658",
+    "duration": "03:24",
+    "artists": [
+      { "name": "Sabai", "link": "https://music.163.com/artist?id=32093901" },
+      { "name": "Merseh", "link": "https://music.163.com/artist?id=35246030" }
+    ],
+    "album": {
+      "name": "Broken Glass",
+      "link": "https://music.163.com/album?id=89367275"
+    }
+  },
+  {
+    "name": "Falling",
+    "link": "https://music.163.com/song?id=1428699247",
+    "duration": "03:20",
+    "artists": [
+      { "name": "Kosling", "link": "https://music.163.com/artist?id=29289583" },
+      { "name": "AWR", "link": "https://music.163.com/artist?id=12047294" }
+    ],
+    "album": {
+      "name": "Falling",
+      "link": "https://music.163.com/album?id=86280152"
+    }
+  },
+  {
+    "name": "Love Is Violence",
+    "link": "https://music.163.com/song?id=1452779667",
+    "duration": "03:17",
+    "artists": [
+      {
+        "name": "Blackcode",
+        "link": "https://music.163.com/artist?id=30013002"
+      },
+      {
+        "name": "Adventurer",
+        "link": "https://music.163.com/artist?id=975551"
+      },
+      {
+        "name": "Revealed Recordings",
+        "link": "https://music.163.com/artist?id=28753573"
+      }
+    ],
+    "album": {
+      "name": "Love Is Violence",
+      "link": "https://music.163.com/album?id=90292169"
+    }
+  },
+  {
+    "name": "This Is How U Feel",
+    "link": "https://music.163.com/song?id=1422856447",
+    "duration": "03:04",
+    "artists": [
+      { "name": "Loote", "link": "https://music.163.com/artist?id=12408152" }
+    ],
+    "album": {
+      "name": "This Is How U Feel",
+      "link": "https://music.163.com/album?id=85672386"
+    }
+  },
+  {
+    "name": "351",
+    "link": "https://music.163.com/song?id=1447937423",
+    "duration": "04:47",
+    "artists": [
+      {
+        "name": "CloudNone",
+        "link": "https://music.163.com/artist?id=28407606"
+      }
+    ],
+    "album": {
+      "name": "Lights Out",
+      "link": "https://music.163.com/album?id=89416914"
+    }
+  },
+  {
+    "name": "For You",
+    "link": "https://music.163.com/song?id=1409288398",
+    "duration": "03:31",
+    "artists": [
+      {
+        "name": "Chill Satellite",
+        "link": "https://music.163.com/artist?id=33421944"
+      }
+    ],
+    "album": {
+      "name": "For You",
+      "link": "https://music.163.com/album?id=84069518"
+    }
+  },
+  {
+    "name": "Deserve My Time",
+    "link": "https://music.163.com/song?id=1428153026",
+    "duration": "03:20",
+    "artists": [
+      {
+        "name": "Timmo Hendriks",
+        "link": "https://music.163.com/artist?id=1146077"
+      },
+      { "name": "Trilane", "link": "https://music.163.com/artist?id=12671609" },
+      {
+        "name": "Carys Selvey",
+        "link": "https://music.163.com/artist?id=12175244"
+      }
+    ],
+    "album": {
+      "name": "Deserve My Time",
+      "link": "https://music.163.com/album?id=86227490"
+    }
+  },
+  {
+    "name": "Happy with You (feat. WildHearts)",
+    "link": "https://music.163.com/song?id=1453160534",
+    "duration": "03:57",
+    "artists": [
+      {
+        "name": "WildVibes",
+        "link": "https://music.163.com/artist?id=1181751"
+      },
+      {
+        "name": "Wildhearts",
+        "link": "https://music.163.com/artist?id=132424"
+      },
+      { "name": "WINARTA", "link": "https://music.163.com/artist?id=35804048" },
+      {
+        "name": "Arild Aas",
+        "link": "https://music.163.com/artist?id=13436856"
+      }
+    ],
+    "album": {
+      "name": "Happy with You (Radio Edit)",
+      "link": "https://music.163.com/album?id=90379139"
+    }
+  },
+  {
+    "name": "Thin Air",
+    "link": "https://music.163.com/song?id=1390297954",
+    "duration": "05:09",
+    "artists": [
+      {
+        "name": "Animadrop",
+        "link": "https://music.163.com/artist?id=12356789"
+      },
+      {
+        "name": "Ben Walter",
+        "link": "https://music.163.com/artist?id=12054163"
+      },
+      { "name": "Aeris", "link": "https://music.163.com/artist?id=336536" }
+    ],
+    "album": {
+      "name": "Thin Air",
+      "link": "https://music.163.com/album?id=81569579"
+    }
+  },
+  {
+    "name": "Pasta",
+    "link": "https://music.163.com/song?id=1429355183",
+    "duration": "02:57",
+    "artists": [
+      {
+        "name": "New Rules",
+        "link": "https://music.163.com/artist?id=31007341"
+      }
+    ],
+    "album": {
+      "name": "Pasta",
+      "link": "https://music.163.com/album?id=86339138"
+    }
+  },
+  {
+    "name": "Stacy",
+    "link": "https://music.163.com/song?id=1384361802",
+    "duration": "02:48",
+    "artists": [
+      {
+        "name": "Quinn XCII",
+        "link": "https://music.163.com/artist?id=12043047"
+      }
+    ],
+    "album": {
+      "name": "Stacy (Original + Acoustic)",
+      "link": "https://music.163.com/album?id=80963866"
+    }
+  },
+  {
+    "name": "Typo",
+    "link": "https://music.163.com/song?id=1409271942",
+    "duration": "02:58",
+    "artists": [
+      {
+        "name": "Discrete",
+        "link": "https://music.163.com/artist?id=31215441"
+      },
+      { "name": "Sistek", "link": "https://music.163.com/artist?id=12765268" },
+      { "name": "TUDOR", "link": "https://music.163.com/artist?id=12355078" },
+      { "name": "Voss", "link": "https://music.163.com/artist?id=244172" }
+    ],
+    "album": {
+      "name": "Typo",
+      "link": "https://music.163.com/album?id=84067871"
+    }
+  },
+  {
+    "name": "Painkiller",
+    "link": "https://music.163.com/song?id=1347107394",
+    "duration": "04:36",
+    "artists": [
+      {
+        "name": "Before You Exit",
+        "link": "https://music.163.com/artist?id=88867"
+      }
+    ],
+    "album": {
+      "name": "002_pain",
+      "link": "https://music.163.com/album?id=75630523"
+    }
+  },
+  {
+    "name": "As I Am",
+    "link": "https://music.163.com/song?id=1428542048",
+    "duration": "03:02",
+    "artists": [
+      { "name": "JLV", "link": "https://music.163.com/artist?id=12335463" }
+    ],
+    "album": {
+      "name": "As I Am",
+      "link": "https://music.163.com/album?id=86263558"
+    }
+  },
+  {
+    "name": "Feelings",
+    "link": "https://music.163.com/song?id=1442172727",
+    "duration": "03:02",
+    "artists": [
+      { "name": "Bearson", "link": "https://music.163.com/artist?id=1057034" },
+      { "name": "Hart", "link": "https://music.163.com/artist?id=142037" }
+    ],
+    "album": {
+      "name": "Feelings",
+      "link": "https://music.163.com/album?id=88288644"
+    }
+  },
+  {
+    "name": "Move",
+    "link": "https://music.163.com/song?id=1314977260",
+    "duration": "02:45",
+    "artists": [
+      {
+        "name": "Sleepy Tom",
+        "link": "https://music.163.com/artist?id=777178"
+      },
+      {
+        "name": "Sophia Black",
+        "link": "https://music.163.com/artist?id=1019947"
+      }
+    ],
+    "album": {
+      "name": "Move",
+      "link": "https://music.163.com/album?id=73756156"
+    }
+  },
+  {
+    "name": "Your Love",
+    "link": "https://music.163.com/song?id=1456050499",
+    "duration": "02:29",
+    "artists": [
+      { "name": "Siks", "link": "https://music.163.com/artist?id=13381341" }
+    ],
+    "album": {
+      "name": "Your Love",
+      "link": "https://music.163.com/album?id=91071675"
+    }
+  },
+  {
+    "name": "Nightmare (Nurko x Miles Away Remix)",
+    "link": "https://music.163.com/song?id=1369404655",
+    "duration": "03:50",
+    "artists": [
+      { "name": "Nurko", "link": "https://music.163.com/artist?id=11991089" },
+      { "name": "Miles Away", "link": "https://music.163.com/artist?id=96821" },
+      { "name": "Halsey", "link": "https://music.163.com/artist?id=964321" }
+    ],
+    "album": {
+      "name": "Nightmare (Nurko x Miles Away Remix)",
+      "link": "https://music.163.com/album?id=79572451"
+    }
+  },
+  {
+    "name": "My Friend",
+    "link": "https://music.163.com/song?id=1450064275",
+    "duration": "02:33",
+    "artists": [
+      {
+        "name": "Tom & Jame",
+        "link": "https://music.163.com/artist?id=975137"
+      },
+      { "name": "Æmes", "link": "https://music.163.com/artist?id=32084327" }
+    ],
+    "album": {
+      "name": "My Friend",
+      "link": "https://music.163.com/album?id=89802569"
+    }
+  },
+  {
+    "name": "Without You",
+    "link": "https://music.163.com/song?id=1461807878",
+    "duration": "03:49",
+    "artists": [
+      { "name": "Protostar", "link": "https://music.163.com/artist?id=711491" },
+      {
+        "name": "Megan Lenius",
+        "link": "https://music.163.com/artist?id=30809052"
+      }
+    ],
+    "album": {
+      "name": "Without You",
+      "link": "https://music.163.com/album?id=92240566"
+    }
+  },
+  {
+    "name": "Don't Stop",
+    "link": "https://music.163.com/song?id=1461822067",
+    "duration": "02:46",
+    "artists": [
+      { "name": "Kuuro", "link": "https://music.163.com/artist?id=12131546" }
+    ],
+    "album": {
+      "name": "Don't Stop",
+      "link": "https://music.163.com/album?id=92245863"
+    }
+  },
+  {
+    "name": "A Different Way",
+    "link": "https://music.163.com/song?id=1358247909",
+    "duration": "03:11",
+    "artists": [
+      {
+        "name": "Max Oazo",
+        "link": "https://music.163.com/artist?id=13159084"
+      },
+      { "name": "Cami", "link": "https://music.163.com/artist?id=283909" }
+    ],
+    "album": {
+      "name": "A Different Way",
+      "link": "https://music.163.com/album?id=78483191"
+    }
+  },
+  {
+    "name": "Need You Now",
+    "link": "https://music.163.com/song?id=1457530028",
+    "duration": "03:29",
+    "artists": [
+      { "name": "Carda", "link": "https://music.163.com/artist?id=12095135" },
+      { "name": "Keeks", "link": "https://music.163.com/artist?id=13192145" }
+    ],
+    "album": {
+      "name": "Need You Now",
+      "link": "https://music.163.com/album?id=91376883"
+    }
+  },
+  {
+    "name": "The Warehouse",
+    "link": "https://music.163.com/song?id=1462552024",
+    "duration": "04:42",
+    "artists": [
+      { "name": "Muzz", "link": "https://music.163.com/artist?id=158046" },
+      { "name": "PAV4N", "link": "https://music.163.com/artist?id=34372797" },
+      {
+        "name": "Miss Trouble",
+        "link": "https://music.163.com/artist?id=217669"
+      }
+    ],
+    "album": {
+      "name": "The Warehouse",
+      "link": "https://music.163.com/album?id=92378891"
+    }
+  },
+  {
+    "name": "LAST TEXT",
+    "link": "https://music.163.com/song?id=1386055783",
+    "duration": "02:54",
+    "artists": [
+      {
+        "name": "Jake Miller",
+        "link": "https://music.163.com/artist?id=776761"
+      }
+    ],
+    "album": {
+      "name": "LAST TEXT",
+      "link": "https://music.163.com/album?id=81103522"
+    }
+  },
+  {
+    "name": "Without You Now",
+    "link": "https://music.163.com/song?id=1374313959",
+    "duration": "02:51",
+    "artists": [
+      {
+        "name": "Digital Farm Animals",
+        "link": "https://music.163.com/artist?id=840929"
+      },
+      {
+        "name": "AJ MitChell",
+        "link": "https://music.163.com/artist?id=12914329"
+      }
+    ],
+    "album": {
+      "name": "Without You Now",
+      "link": "https://music.163.com/album?id=80028566"
+    }
+  }
+]

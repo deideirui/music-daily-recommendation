@@ -1,0 +1,470 @@
+[
+  {
+    "name": "Loyal",
+    "link": "https://music.163.com/song?id=1386012372",
+    "duration": "03:16",
+    "artists": [
+      {
+        "name": "YOUNG BOMBS",
+        "link": "https://music.163.com/artist?id=1137360"
+      },
+      { "name": "Gigi", "link": "https://music.163.com/artist?id=28083466" }
+    ],
+    "album": {
+      "name": "Loyal",
+      "link": "https://music.163.com/album?id=81100110"
+    }
+  },
+  {
+    "name": "Told You So",
+    "link": "https://music.163.com/song?id=1421000950",
+    "duration": "02:26",
+    "artists": [
+      {
+        "name": "Mike Perry",
+        "link": "https://music.163.com/artist?id=195021"
+      },
+      {
+        "name": "Orange Villa",
+        "link": "https://music.163.com/artist?id=37490449"
+      }
+    ],
+    "album": {
+      "name": "Told You So",
+      "link": "https://music.163.com/album?id=85478926"
+    }
+  },
+  {
+    "name": "Free Fall",
+    "link": "https://music.163.com/song?id=507585217",
+    "duration": "03:25",
+    "artists": [
+      { "name": "ILLENIUM", "link": "https://music.163.com/artist?id=1050518" },
+      { "name": "Runn", "link": "https://music.163.com/artist?id=15237536" }
+    ],
+    "album": {
+      "name": "Awake",
+      "link": "https://music.163.com/album?id=36290028"
+    }
+  },
+  {
+    "name": "Zero Gravity (feat. Lights) [Radio Edit]",
+    "link": "https://music.163.com/song?id=32752238",
+    "duration": "03:47",
+    "artists": [
+      { "name": "Borgeous", "link": "https://music.163.com/artist?id=904048" },
+      { "name": "Lights", "link": "https://music.163.com/artist?id=64226" }
+    ],
+    "album": {
+      "name": "Zero Gravity (feat. Lights)",
+      "link": "https://music.163.com/album?id=3165566"
+    }
+  },
+  {
+    "name": "Home (Original Mix)",
+    "link": "https://music.163.com/song?id=28145396",
+    "duration": "06:28",
+    "artists": [
+      {
+        "name": "Ivan Gough",
+        "link": "https://music.163.com/artist?id=290032"
+      },
+      { "name": "Walden", "link": "https://music.163.com/artist?id=205701" },
+      { "name": "Jebu", "link": "https://music.163.com/artist?id=148833" },
+      {
+        "name": "Penelope Austin",
+        "link": "https://music.163.com/artist?id=774347"
+      }
+    ],
+    "album": {
+      "name": "Home (Incl. Stefan Dabruck Remix)",
+      "link": "https://music.163.com/album?id=2735376"
+    }
+  },
+  {
+    "name": "Our Home",
+    "link": "https://music.163.com/song?id=1331480269",
+    "duration": "07:10",
+    "artists": [
+      {
+        "name": "Mark & Lukas",
+        "link": "https://music.163.com/artist?id=1104097"
+      }
+    ],
+    "album": {
+      "name": "Our Home",
+      "link": "https://music.163.com/album?id=74783336"
+    }
+  },
+  {
+    "name": "Restless Hearts",
+    "link": "https://music.163.com/song?id=37610468",
+    "duration": "03:01",
+    "artists": [
+      {
+        "name": "Mark Sixma",
+        "link": "https://music.163.com/artist?id=178755"
+      },
+      { "name": "Emma Hewitt", "link": "https://music.163.com/artist?id=56751" }
+    ],
+    "album": {
+      "name": "A State Of Trance Radio Top 20 - November / December 2015",
+      "link": "https://music.163.com/album?id=3415716"
+    }
+  },
+  {
+    "name": "Elysium (Full Track)",
+    "link": "https://music.163.com/song?id=429450816",
+    "duration": "03:30",
+    "artists": [
+      { "name": "Andreas B.", "link": "https://music.163.com/artist?id=299713" }
+    ],
+    "album": {
+      "name": "Enemy (Full Version)",
+      "link": "https://music.163.com/album?id=34861993"
+    }
+  },
+  {
+    "name": "Oasis",
+    "link": "https://music.163.com/song?id=1343842947",
+    "duration": "03:23",
+    "artists": [
+      { "name": "Worezh", "link": "https://music.163.com/artist?id=1158066" }
+    ],
+    "album": {
+      "name": "Oasis",
+      "link": "https://music.163.com/album?id=75409106"
+    }
+  },
+  {
+    "name": "Eon",
+    "link": "https://music.163.com/song?id=422977864",
+    "duration": "07:44",
+    "artists": [
+      { "name": "Musty", "link": "https://music.163.com/artist?id=12080271" }
+    ],
+    "album": {
+      "name": "Eon / Sofia",
+      "link": "https://music.163.com/album?id=34791474"
+    }
+  },
+  {
+    "name": "Lettera D'Amore (Original Mix)",
+    "link": "https://music.163.com/song?id=518896143",
+    "duration": "08:27",
+    "artists": [
+      {
+        "name": "DreamLife",
+        "link": "https://music.163.com/artist?id=12278102"
+      },
+      {
+        "name": "Grand Piano",
+        "link": "https://music.163.com/artist?id=483040"
+      }
+    ],
+    "album": {
+      "name": "Lettera D'Amore",
+      "link": "https://music.163.com/album?id=36812062"
+    }
+  },
+  {
+    "name": "Infinite Sky (Original Mix)",
+    "link": "https://music.163.com/song?id=1500692663",
+    "duration": "08:18",
+    "artists": [
+      { "name": "SoundLift", "link": "https://music.163.com/artist?id=44015" }
+    ],
+    "album": {
+      "name": "Infinite Sky",
+      "link": "https://music.163.com/album?id=99176672"
+    }
+  },
+  {
+    "name": "さよならの夏～コクリコ坂から～",
+    "link": "https://music.163.com/song?id=526656",
+    "duration": "04:08",
+    "artists": [
+      { "name": "手嶌葵", "link": "https://music.163.com/artist?id=17904" }
+    ],
+    "album": {
+      "name": "コクリコ坂から サウンドトラック",
+      "link": "https://music.163.com/album?id=49624"
+    }
+  },
+  {
+    "name": "Aitai",
+    "link": "https://music.163.com/song?id=1485676740",
+    "duration": "05:18",
+    "artists": [
+      { "name": "幾田りら", "link": "https://music.163.com/artist?id=35488854" }
+    ],
+    "album": {
+      "name": "INSPIRE -加藤ミリヤTRIBUTE-",
+      "link": "https://music.163.com/album?id=96775331"
+    }
+  },
+  {
+    "name": "iB",
+    "link": "https://music.163.com/song?id=1407263772",
+    "duration": "02:57",
+    "artists": [
+      {
+        "name": "Cö shu Nie",
+        "link": "https://music.163.com/artist?id=12136070"
+      }
+    ],
+    "album": {
+      "name": "PURE",
+      "link": "https://music.163.com/album?id=83992205"
+    }
+  },
+  {
+    "name": "ninelie - (TV动画《甲铁城的卡巴内瑞》片尾曲)",
+    "link": "https://music.163.com/song?id=409872504",
+    "duration": "04:20",
+    "artists": [
+      { "name": "Aimer", "link": "https://music.163.com/artist?id=16152" },
+      { "name": "EGOIST", "link": "https://music.163.com/artist?id=19353" }
+    ],
+    "album": {
+      "name": "ninelie",
+      "link": "https://music.163.com/album?id=34609370"
+    }
+  },
+  {
+    "name": "Baikal (Original Mix)",
+    "link": "https://music.163.com/song?id=36308928",
+    "duration": "08:59",
+    "artists": [
+      { "name": "Plutian", "link": "https://music.163.com/artist?id=1078194" }
+    ],
+    "album": {
+      "name": "Baikal",
+      "link": "https://music.163.com/album?id=3394234"
+    }
+  },
+  {
+    "name": "One Last Memory (Resonance Remix)",
+    "link": "https://music.163.com/song?id=406086987",
+    "duration": "04:11",
+    "artists": [
+      { "name": "Resonance", "link": "https://music.163.com/artist?id=196588" },
+      { "name": "Kozoro", "link": "https://music.163.com/artist?id=1050567" }
+    ],
+    "album": {
+      "name": "One Last Memory (Resonance Remix)",
+      "link": "https://music.163.com/album?id=34527801"
+    }
+  },
+  {
+    "name": "Outline",
+    "link": "https://music.163.com/song?id=36308024",
+    "duration": "05:37",
+    "artists": [
+      { "name": "Vanze", "link": "https://music.163.com/artist?id=1081008" },
+      { "name": "Amnesys", "link": "https://music.163.com/artist?id=393106" },
+      {
+        "name": "Brenton Mattheus",
+        "link": "https://music.163.com/artist?id=777352"
+      }
+    ],
+    "album": {
+      "name": "Outline",
+      "link": "https://music.163.com/album?id=3395009"
+    }
+  },
+  {
+    "name": "See You",
+    "link": "https://music.163.com/song?id=459720301",
+    "duration": "04:26",
+    "artists": [
+      { "name": "Namorog", "link": "https://music.163.com/artist?id=12142152" },
+      { "name": "L3V3LS", "link": "https://music.163.com/artist?id=12007340" }
+    ],
+    "album": {
+      "name": "See You",
+      "link": "https://music.163.com/album?id=35176274"
+    }
+  },
+  {
+    "name": "βίος <MK+nZk Version>",
+    "link": "https://music.163.com/song?id=498187",
+    "duration": "04:55",
+    "artists": [
+      { "name": "小林未郁", "link": "https://music.163.com/artist?id=16823" }
+    ],
+    "album": {
+      "name": "THEME SONGS COLLECTION",
+      "link": "https://music.163.com/album?id=47602"
+    }
+  },
+  {
+    "name": "STYX HELIX - (TV动画《Re:从零开始异世界生活》ED1)",
+    "link": "https://music.163.com/song?id=413961906",
+    "duration": "04:51",
+    "artists": [
+      {
+        "name": "MYTH & ROID",
+        "link": "https://music.163.com/artist?id=1137126"
+      }
+    ],
+    "album": {
+      "name": "STYX HELIX",
+      "link": "https://music.163.com/album?id=34700546"
+    }
+  },
+  {
+    "name": "叮叮叮叮叮",
+    "link": "https://music.163.com/song?id=488681024",
+    "duration": "04:11",
+    "artists": [
+      {
+        "name": "Serrini樹妮妮",
+        "link": "https://music.163.com/artist?id=916007"
+      }
+    ],
+    "album": {
+      "name": "閃閃發亮Serrini",
+      "link": "https://music.163.com/album?id=35702648"
+    }
+  },
+  {
+    "name": "Take Your Time (Original Mix)",
+    "link": "https://music.163.com/song?id=399354022",
+    "duration": "05:29",
+    "artists": [
+      { "name": "FL1CS", "link": "https://music.163.com/artist?id=11974019" },
+      { "name": "Enti", "link": "https://music.163.com/artist?id=13742732" }
+    ],
+    "album": {
+      "name": "Take Your Time (Original Mix)",
+      "link": "https://music.163.com/album?id=34408018"
+    }
+  },
+  {
+    "name": "More Than Beautiful (Original Mix)",
+    "link": "https://music.163.com/song?id=26483610",
+    "duration": "08:49",
+    "artists": [
+      { "name": "Etasonic", "link": "https://music.163.com/artist?id=777274" }
+    ],
+    "album": {
+      "name": "More Than Beautiful",
+      "link": "https://music.163.com/album?id=2506168"
+    }
+  },
+  {
+    "name": "Reunion (kozoro Mix)",
+    "link": "https://music.163.com/song?id=36871440",
+    "duration": "04:12",
+    "artists": [
+      { "name": "Kozoro", "link": "https://music.163.com/artist?id=1050567" },
+      { "name": "Makaseo", "link": "https://music.163.com/artist?id=12068067" }
+    ],
+    "album": {
+      "name": "Reunion (kozoro Mix)",
+      "link": "https://music.163.com/album?id=3410021"
+    }
+  },
+  {
+    "name": "For Love (Emotional Mix)",
+    "link": "https://music.163.com/song?id=29897005",
+    "duration": "09:16",
+    "artists": [
+      { "name": "Playme", "link": "https://music.163.com/artist?id=432748" }
+    ],
+    "album": {
+      "name": "Uplifting Only 2014 Top-Voted Tunes, Vol.2",
+      "link": "https://music.163.com/album?id=3086459"
+    }
+  },
+  {
+    "name": "Like a New Love (Extended Mix)",
+    "link": "https://music.163.com/song?id=404783818",
+    "duration": "04:11",
+    "artists": [
+      { "name": "Achtabahn", "link": "https://music.163.com/artist?id=1103069" }
+    ],
+    "album": {
+      "name": "Like A New Love",
+      "link": "https://music.163.com/album?id=34527236"
+    }
+  },
+  {
+    "name": "Elynnea (Hiroki Nagamine Remix)",
+    "link": "https://music.163.com/song?id=406096857",
+    "duration": "07:30",
+    "artists": [
+      {
+        "name": "Paul Hided",
+        "link": "https://music.163.com/artist?id=1155035"
+      },
+      { "name": "Rya", "link": "https://music.163.com/artist?id=146155" },
+      {
+        "name": "Hiroki Nagamine",
+        "link": "https://music.163.com/artist?id=844817"
+      }
+    ],
+    "album": {
+      "name": "Elynnea",
+      "link": "https://music.163.com/album?id=34515733"
+    }
+  },
+  {
+    "name": "Blowfish",
+    "link": "https://music.163.com/song?id=34928675",
+    "duration": "03:46",
+    "artists": [
+      {
+        "name": "Emeric Boxall",
+        "link": "https://music.163.com/artist?id=1132346"
+      }
+    ],
+    "album": {
+      "name": "Blowfish (Emeric Boxall Bootleg)",
+      "link": "https://music.163.com/album?id=3306441"
+    }
+  },
+  {
+    "name": "Firefly",
+    "link": "https://music.163.com/song?id=28871700",
+    "duration": "03:12",
+    "artists": [
+      { "name": "I am Sam", "link": "https://music.163.com/artist?id=437038" },
+      { "name": "Archie", "link": "https://music.163.com/artist?id=28349" },
+      {
+        "name": "Sophia Brown",
+        "link": "https://music.163.com/artist?id=349860"
+      }
+    ],
+    "album": {
+      "name": "Kontor Summer Jam 2014",
+      "link": "https://music.163.com/album?id=2919062"
+    }
+  },
+  {
+    "name": "All Over",
+    "link": "https://music.163.com/song?id=425828572",
+    "duration": "04:30",
+    "artists": [
+      { "name": "L3V3LS", "link": "https://music.163.com/artist?id=12007340" }
+    ],
+    "album": {
+      "name": "All Over",
+      "link": "https://music.163.com/album?id=34817752"
+    }
+  },
+  {
+    "name": "Inferno",
+    "link": "https://music.163.com/song?id=1367333216",
+    "duration": "03:54",
+    "artists": [
+      { "name": "mpi", "link": "https://music.163.com/artist?id=12475614" },
+      { "name": "Benjamin", "link": "https://music.163.com/artist?id=28373729" }
+    ],
+    "album": {
+      "name": "「プロメア」オリジナルサウンドトラック",
+      "link": "https://music.163.com/album?id=79369276"
+    }
+  }
+]

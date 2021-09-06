@@ -1,0 +1,419 @@
+[
+  {
+    "name": "You should be sad",
+    "link": "https://music.163.com/song?id=1415775603",
+    "duration": "03:25",
+    "artists": [
+      { "name": "Halsey", "link": "https://music.163.com/artist?id=964321" }
+    ],
+    "album": {
+      "name": "Manic",
+      "link": "https://music.163.com/album?id=85020251"
+    }
+  },
+  {
+    "name": "Test Drive",
+    "link": "https://music.163.com/song?id=1294304120",
+    "duration": "02:53",
+    "artists": [
+      {
+        "name": "Emily Burns",
+        "link": "https://music.163.com/artist?id=12234023"
+      }
+    ],
+    "album": {
+      "name": "Seven Scenes from the Same Summer",
+      "link": "https://music.163.com/album?id=71871673"
+    }
+  },
+  {
+    "name": "****** Up",
+    "link": "https://music.163.com/song?id=1374155242",
+    "duration": "03:39",
+    "artists": [
+      { "name": "Bahari", "link": "https://music.163.com/artist?id=1044218" }
+    ],
+    "album": {
+      "name": "****** Up",
+      "link": "https://music.163.com/album?id=80009071"
+    }
+  },
+  {
+    "name": "霓 虹 骑 士",
+    "link": "https://music.163.com/song?id=1418441577",
+    "duration": "02:52",
+    "artists": [
+      { "name": "Zemo子墨", "link": "https://music.163.com/artist?id=12276372" }
+    ],
+    "album": {
+      "name": "霓 虹 骑 士",
+      "link": "https://music.163.com/album?id=85153736"
+    }
+  },
+  {
+    "name": "Journey",
+    "link": "https://music.163.com/song?id=1398486688",
+    "duration": "03:53",
+    "artists": [
+      { "name": "JINGYAN", "link": "https://music.163.com/artist?id=30645561" }
+    ],
+    "album": {
+      "name": "Journey",
+      "link": "https://music.163.com/album?id=82625100"
+    }
+  },
+  {
+    "name": "1606",
+    "link": "https://music.163.com/song?id=1371147859",
+    "duration": "04:31",
+    "artists": [
+      { "name": "JWoods", "link": "https://music.163.com/artist?id=30959670" }
+    ],
+    "album": {
+      "name": "1606",
+      "link": "https://music.163.com/album?id=79724840"
+    }
+  },
+  {
+    "name": "Locke",
+    "link": "https://music.163.com/song?id=454966825",
+    "duration": "05:25",
+    "artists": [
+      { "name": "PYLOT", "link": "https://music.163.com/artist?id=865032" }
+    ],
+    "album": {
+      "name": "Shadowtask EP ",
+      "link": "https://music.163.com/album?id=35138481"
+    }
+  },
+  {
+    "name": "Fly (feat. Summer Haze)",
+    "link": "https://music.163.com/song?id=1436556578",
+    "duration": "03:38",
+    "artists": [
+      {
+        "name": "Sineself",
+        "link": "https://music.163.com/artist?id=32945422"
+      },
+      {
+        "name": "Summer Haze",
+        "link": "https://music.163.com/artist?id=29727079"
+      },
+      { "name": "Esydia", "link": "https://music.163.com/artist?id=28678197" }
+    ],
+    "album": {
+      "name": "Fly (feat. Summer Haze)",
+      "link": "https://music.163.com/album?id=87359154"
+    }
+  },
+  {
+    "name": "Skies",
+    "link": "https://music.163.com/song?id=1370933164",
+    "duration": "03:23",
+    "artists": [
+      {
+        "name": "Glass玻璃",
+        "link": "https://music.163.com/artist?id=30476499"
+      },
+      { "name": "JWoods", "link": "https://music.163.com/artist?id=30959670" }
+    ],
+    "album": {
+      "name": "Skies",
+      "link": "https://music.163.com/album?id=79701730"
+    }
+  },
+  {
+    "name": "Apex",
+    "link": "https://music.163.com/song?id=1333144056",
+    "duration": "03:26",
+    "artists": [
+      { "name": "Far Out", "link": "https://music.163.com/artist?id=824107" }
+    ],
+    "album": {
+      "name": "Apex",
+      "link": "https://music.163.com/album?id=74870190"
+    }
+  },
+  {
+    "name": "atlantis",
+    "link": "https://music.163.com/song?id=1306472173",
+    "duration": "02:47",
+    "artists": [
+      { "name": "暴君de", "link": "https://music.163.com/artist?id=12599289" }
+    ],
+    "album": {
+      "name": "atlantis",
+      "link": "https://music.163.com/album?id=72763439"
+    }
+  },
+  {
+    "name": "Defiant",
+    "link": "https://music.163.com/song?id=1317370704",
+    "duration": "04:09",
+    "artists": [
+      { "name": "Feint", "link": "https://music.163.com/artist?id=93062" },
+      {
+        "name": "Laura Brehm",
+        "link": "https://music.163.com/artist?id=207693"
+      }
+    ],
+    "album": {
+      "name": "Defiant",
+      "link": "https://music.163.com/album?id=73887301"
+    }
+  },
+  {
+    "name": "Light",
+    "link": "https://music.163.com/song?id=1332509518",
+    "duration": "03:52",
+    "artists": [
+      {
+        "name": "Dio Deer",
+        "link": "https://music.163.com/artist?id=12319430"
+      },
+      { "name": "格里特", "link": "https://music.163.com/artist?id=12611793" }
+    ],
+    "album": {
+      "name": "Light of origin",
+      "link": "https://music.163.com/album?id=74802440"
+    }
+  },
+  {
+    "name": "This Is What You Came For",
+    "link": "https://music.163.com/song?id=411314681",
+    "duration": "03:42",
+    "artists": [
+      {
+        "name": "Calvin Harris",
+        "link": "https://music.163.com/artist?id=29968"
+      },
+      { "name": "Rihanna", "link": "https://music.163.com/artist?id=72724" }
+    ],
+    "album": {
+      "name": "This Is What You Came For",
+      "link": "https://music.163.com/album?id=34686251"
+    }
+  },
+  {
+    "name": "憂一乗 - (仅有忧伤)",
+    "link": "https://music.163.com/song?id=1387099644",
+    "duration": "04:32",
+    "artists": [
+      { "name": "ヨルシカ", "link": "https://music.163.com/artist?id=12390232" }
+    ],
+    "album": {
+      "name": "エルマ",
+      "link": "https://music.163.com/album?id=81207880"
+    }
+  },
+  {
+    "name": "プロローグ - (日剧《中学圣日记》主题曲)",
+    "link": "https://music.163.com/song?id=1321382214",
+    "duration": "05:02",
+    "artists": [
+      { "name": "Uru", "link": "https://music.163.com/artist?id=12062125" }
+    ],
+    "album": {
+      "name": "プロローグ",
+      "link": "https://music.163.com/album?id=74151665"
+    }
+  },
+  {
+    "name": "Mirrors (Acoustic)",
+    "link": "https://music.163.com/song?id=1429588446",
+    "duration": "03:24",
+    "artists": [
+      { "name": "Beth", "link": "https://music.163.com/artist?id=50791" }
+    ],
+    "album": {
+      "name": "Mirrors (Acoustic)",
+      "link": "https://music.163.com/album?id=86365367"
+    }
+  },
+  {
+    "name": "爱的哲学",
+    "link": "https://music.163.com/song?id=1833679921",
+    "duration": "02:20",
+    "artists": [
+      { "name": "马小弟", "link": "https://music.163.com/artist?id=47256454" }
+    ],
+    "album": {
+      "name": "《抖音热搜》",
+      "link": "https://music.163.com/album?id=125250413"
+    }
+  },
+  {
+    "name": "HATENA - (网络动画《高达创形者 再起 第二季》片头曲)",
+    "link": "https://music.163.com/song?id=1438227450",
+    "duration": "03:29",
+    "artists": [
+      {
+        "name": "PENGUIN RESEARCH",
+        "link": "https://music.163.com/artist?id=11982014"
+      }
+    ],
+    "album": {
+      "name": "HATENA",
+      "link": "https://music.163.com/album?id=87701976"
+    }
+  },
+  {
+    "name": "MILABO - (灯球)",
+    "link": "https://music.163.com/song?id=1462389992",
+    "duration": "04:28",
+    "artists": [
+      {
+        "name": "ずっと真夜中でいいのに。",
+        "link": "https://music.163.com/artist?id=15021101"
+      }
+    ],
+    "album": {
+      "name": "朗らかな皮膚とて不服",
+      "link": "https://music.163.com/album?id=93375491"
+    }
+  },
+  {
+    "name": "廻廻奇譚 - (TV动画《咒术回战》片头曲)",
+    "link": "https://music.163.com/song?id=1484409732",
+    "duration": "03:39",
+    "artists": [
+      { "name": "Eve", "link": "https://music.163.com/artist?id=1075075" }
+    ],
+    "album": {
+      "name": "廻廻奇譚",
+      "link": "https://music.163.com/album?id=98601233"
+    }
+  },
+  {
+    "name": "In My Secret Life",
+    "link": "https://music.163.com/song?id=20954450",
+    "duration": "04:55",
+    "artists": [
+      {
+        "name": "Leonard Cohen",
+        "link": "https://music.163.com/artist?id=38114"
+      }
+    ],
+    "album": {
+      "name": "Ten New Songs",
+      "link": "https://music.163.com/album?id=1941065"
+    }
+  },
+  {
+    "name": "Champagne",
+    "link": "https://music.163.com/song?id=470211564",
+    "duration": "03:04",
+    "artists": [
+      { "name": "Adoo", "link": "https://music.163.com/artist?id=187419" },
+      {
+        "name": "Baba Moe",
+        "link": "https://music.163.com/artist?id=30215780"
+      },
+      { "name": "Same", "link": "https://music.163.com/artist?id=472582" }
+    ],
+    "album": {
+      "name": "Champagne",
+      "link": "https://music.163.com/album?id=35328434"
+    }
+  },
+  {
+    "name": "ラプンツェル（Cover 初音ミク）",
+    "link": "https://music.163.com/song?id=442853350",
+    "duration": "04:25",
+    "artists": [
+      {
+        "name": "芝麻Mochi",
+        "link": "https://music.163.com/artist?id=12195788"
+      }
+    ],
+    "album": {
+      "name": "2016",
+      "link": "https://music.163.com/album?id=35013156"
+    }
+  },
+  {
+    "name": "ピロートーク",
+    "link": "https://music.163.com/song?id=408328050",
+    "duration": "04:09",
+    "artists": [
+      {
+        "name": "ちょまいよ",
+        "link": "https://music.163.com/artist?id=12074791"
+      }
+    ],
+    "album": {
+      "name": "TYO見聞録",
+      "link": "https://music.163.com/album?id=34590373"
+    }
+  },
+  {
+    "name": "Lovefool",
+    "link": "https://music.163.com/song?id=1446769897",
+    "duration": "03:10",
+    "artists": [
+      {
+        "name": "twocolors",
+        "link": "https://music.163.com/artist?id=14177760"
+      }
+    ],
+    "album": {
+      "name": "Lovefool",
+      "link": "https://music.163.com/album?id=89208199"
+    }
+  },
+  {
+    "name": "Pizza",
+    "link": "https://music.163.com/song?id=501220051",
+    "duration": "04:15",
+    "artists": [
+      {
+        "name": "Martin Garrix",
+        "link": "https://music.163.com/artist?id=780003"
+      }
+    ],
+    "album": {
+      "name": "Pizza",
+      "link": "https://music.163.com/album?id=36031298"
+    }
+  },
+  {
+    "name": "1000 More Suns",
+    "link": "https://music.163.com/song?id=1831390774",
+    "duration": "04:24",
+    "artists": [
+      { "name": "Chicane", "link": "https://music.163.com/artist?id=50971" },
+      {
+        "name": "Joseph Aquilina",
+        "link": "https://music.163.com/artist?id=14849160"
+      }
+    ],
+    "album": {
+      "name": "1000 More Suns",
+      "link": "https://music.163.com/album?id=124874102"
+    }
+  },
+  {
+    "name": "Serenity",
+    "link": "https://music.163.com/song?id=526472093",
+    "duration": "02:46",
+    "artists": [
+      { "name": "FEWZ", "link": "https://music.163.com/artist?id=12008133" }
+    ],
+    "album": {
+      "name": "Serenity",
+      "link": "https://music.163.com/album?id=37087023"
+    }
+  },
+  {
+    "name": "Sitting Next To You",
+    "link": "https://music.163.com/song?id=29816970",
+    "duration": "03:42",
+    "artists": [
+      { "name": "Mokoa", "link": "https://music.163.com/artist?id=1043367" }
+    ],
+    "album": {
+      "name": "Sitting Next To You",
+      "link": "https://music.163.com/album?id=3081515"
+    }
+  }
+]

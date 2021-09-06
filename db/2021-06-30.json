@@ -1,0 +1,392 @@
+[
+  {
+    "name": "Let it fly",
+    "link": "https://music.163.com/song?id=424262575",
+    "duration": "05:30",
+    "artists": [
+      { "name": "Leola", "link": "https://music.163.com/artist?id=12043069" }
+    ],
+    "album": {
+      "name": "Let it fly",
+      "link": "https://music.163.com/album?id=34808187"
+    }
+  },
+  {
+    "name": "Answer - (東京海上日動あんしん生命「あんしん就業不能保障保険」CM曲)",
+    "link": "https://music.163.com/song?id=1821815008",
+    "duration": "04:06",
+    "artists": [
+      { "name": "幾田りら", "link": "https://music.163.com/artist?id=35488854" }
+    ],
+    "album": {
+      "name": "Answer",
+      "link": "https://music.163.com/album?id=123336046"
+    }
+  },
+  {
+    "name": "籠の中に鳥 - (TV动画《昨日之歌》主题曲)",
+    "link": "https://music.163.com/song?id=1436010135",
+    "duration": "05:16",
+    "artists": [
+      { "name": "ユアネス", "link": "https://music.163.com/artist?id=31000917" }
+    ],
+    "album": {
+      "name": "籠の中に鳥",
+      "link": "https://music.163.com/album?id=87168350"
+    }
+  },
+  {
+    "name": "Before my body is dry",
+    "link": "https://music.163.com/song?id=28152387",
+    "duration": "04:06",
+    "artists": [
+      { "name": "小林未郁", "link": "https://music.163.com/artist?id=16823" },
+      {
+        "name": "David Whitaker",
+        "link": "https://music.163.com/artist?id=46932044"
+      }
+    ],
+    "album": {
+      "name": "キルラキルオリジナルサウンドトラック",
+      "link": "https://music.163.com/album?id=2732474"
+    }
+  },
+  {
+    "name": "ミカヅキ - (TV动画《乱步奇谭》片尾曲)",
+    "link": "https://music.163.com/song?id=34179228",
+    "duration": "04:21",
+    "artists": [
+      { "name": "さユり", "link": "https://music.163.com/artist?id=1116297" }
+    ],
+    "album": {
+      "name": "ミカヅキ",
+      "link": "https://music.163.com/album?id=3275169"
+    }
+  },
+  {
+    "name": "Break - (TV动画《半妖的夜叉姬》片尾曲)",
+    "link": "https://music.163.com/song?id=1481710228",
+    "duration": "04:53",
+    "artists": [
+      { "name": "Uru", "link": "https://music.163.com/artist?id=12062125" }
+    ],
+    "album": {
+      "name": "Break／振り子",
+      "link": "https://music.163.com/album?id=96676462"
+    }
+  },
+  {
+    "name": "Shout Baby",
+    "link": "https://music.163.com/song?id=1420533654",
+    "duration": "04:26",
+    "artists": [
+      {
+        "name": "緑黄色社会",
+        "link": "https://music.163.com/artist?id=13058010"
+      }
+    ],
+    "album": {
+      "name": "Shout Baby",
+      "link": "https://music.163.com/album?id=85418198"
+    }
+  },
+  {
+    "name": "oblivious ~俯瞰風景 mix - (剧场版《空之境界》片尾曲)",
+    "link": "https://music.163.com/song?id=22682824",
+    "duration": "06:35",
+    "artists": [
+      { "name": "Kalafina", "link": "https://music.163.com/artist?id=20032" }
+    ],
+    "album": {
+      "name": "Re/oblivious",
+      "link": "https://music.163.com/album?id=2080922"
+    }
+  },
+  {
+    "name": "逆さまの蝶 - (TV动画《地狱少女》片头曲)",
+    "link": "https://music.163.com/song?id=643982",
+    "duration": "04:33",
+    "artists": [
+      { "name": "SNoW", "link": "https://music.163.com/artist?id=17643" }
+    ],
+    "album": {
+      "name": "逆さまの蝶",
+      "link": "https://music.163.com/album?id=61790"
+    }
+  },
+  {
+    "name": "I beg you - (剧场版动画《Fate/stay night [Heaven's Feel]」Ⅱ.lostbutterfly》主题曲)",
+    "link": "https://music.163.com/song?id=1338149091",
+    "duration": "04:30",
+    "artists": [
+      { "name": "Aimer", "link": "https://music.163.com/artist?id=16152" }
+    ],
+    "album": {
+      "name": "I beg you / 花びらたちのマーチ / Sailing",
+      "link": "https://music.163.com/album?id=75062421"
+    }
+  },
+  {
+    "name": "ロックな君とはお別れだ - (与摇滚的你告别)",
+    "link": "https://music.163.com/song?id=1428275781",
+    "duration": "03:28",
+    "artists": [
+      { "name": "ツユ", "link": "https://music.163.com/artist?id=34505358" }
+    ],
+    "album": {
+      "name": "やっぱり雨は降るんだね",
+      "link": "https://music.163.com/album?id=86237839"
+    }
+  },
+  {
+    "name": "レイン - (TV动画《钢之炼金术师 FULLMETAL ALCHEMIST》OP5)",
+    "link": "https://music.163.com/song?id=752420",
+    "duration": "04:15",
+    "artists": [
+      { "name": "シド", "link": "https://music.163.com/artist?id=19970" }
+    ],
+    "album": {
+      "name": "レイン",
+      "link": "https://music.163.com/album?id=73839"
+    }
+  },
+  {
+    "name": "Fragments",
+    "link": "https://music.163.com/song?id=566443609",
+    "duration": "03:22",
+    "artists": [
+      { "name": "FEWZ", "link": "https://music.163.com/artist?id=12008133" }
+    ],
+    "album": {
+      "name": "Fragments",
+      "link": "https://music.163.com/album?id=39263156"
+    }
+  },
+  {
+    "name": "Hello,world! - (TV动画《血界战线》片头曲)",
+    "link": "https://music.163.com/song?id=31311449",
+    "duration": "04:15",
+    "artists": [
+      {
+        "name": "BUMP OF CHICKEN",
+        "link": "https://music.163.com/artist?id=18705"
+      }
+    ],
+    "album": {
+      "name": "Hello,world! / コロニー",
+      "link": "https://music.163.com/album?id=3117111"
+    }
+  },
+  {
+    "name": "裏切りの夕焼け - (TV动画《无头骑士异闻录》OP1)",
+    "link": "https://music.163.com/song?id=28949182",
+    "duration": "03:28",
+    "artists": [
+      {
+        "name": "THEATRE BROOK",
+        "link": "https://music.163.com/artist?id=21920"
+      }
+    ],
+    "album": {
+      "name": "裏切りの夕焼け",
+      "link": "https://music.163.com/album?id=2956030"
+    }
+  },
+  {
+    "name": "Letter Song",
+    "link": "https://music.163.com/song?id=27571001",
+    "duration": "05:34",
+    "artists": [
+      { "name": "ヲタみん", "link": "https://music.163.com/artist?id=18149" }
+    ],
+    "album": {
+      "name": "Letter Song",
+      "link": "https://music.163.com/album?id=2639322"
+    }
+  },
+  {
+    "name": "I wish ~tri.Version~ - (动画《数码兽大冒险 tri. 第一章「再会」》片尾曲:アニメ「デジモンアドベンチャー tri. 第1章「再会」」EDテーマ)",
+    "link": "https://music.163.com/song?id=37169617",
+    "duration": "03:44",
+    "artists": [
+      { "name": "前田愛", "link": "https://music.163.com/artist?id=17122" }
+    ],
+    "album": {
+      "name": "I wish ~tri.Version~",
+      "link": "https://music.163.com/album?id=3415484"
+    }
+  },
+  {
+    "name": "春泥棒",
+    "link": "https://music.163.com/song?id=1810759765",
+    "duration": "04:50",
+    "artists": [
+      { "name": "ヨルシカ", "link": "https://music.163.com/artist?id=12390232" }
+    ],
+    "album": {
+      "name": "春泥棒",
+      "link": "https://music.163.com/album?id=121433199"
+    }
+  },
+  {
+    "name": "余命3日少女（翻自 プロペリン） ",
+    "link": "https://music.163.com/song?id=1323760916",
+    "duration": "03:54",
+    "artists": [
+      { "name": "米白", "link": "https://music.163.com/artist?id=12112270" }
+    ],
+    "album": {
+      "name": "余命3日少女",
+      "link": "https://music.163.com/album?id=74298622"
+    }
+  },
+  {
+    "name": "Let Me Hear - (TV动画《寄生兽 生命的准则》片头曲)",
+    "link": "https://music.163.com/song?id=35023412",
+    "duration": "03:45",
+    "artists": [
+      {
+        "name": "Fear, and Loathing in Las Vegas",
+        "link": "https://music.163.com/artist?id=19440"
+      }
+    ],
+    "album": {
+      "name": "Feeling of Unity",
+      "link": "https://music.163.com/album?id=3308415"
+    }
+  },
+  {
+    "name": "Bad Apple!!",
+    "link": "https://music.163.com/song?id=22645196",
+    "duration": "05:19",
+    "artists": [
+      { "name": "のみこ", "link": "https://music.163.com/artist?id=17423" },
+      {
+        "name": "Masayoshi Minoshima",
+        "link": "https://music.163.com/artist?id=190901"
+      }
+    ],
+    "album": {
+      "name": "Lovelight",
+      "link": "https://music.163.com/album?id=2076221"
+    }
+  },
+  {
+    "name": "Don't say \"lazy\"",
+    "link": "https://music.163.com/song?id=26201885",
+    "duration": "04:23",
+    "artists": [
+      { "name": "桜高軽音部", "link": "https://music.163.com/artist?id=161104" }
+    ],
+    "album": {
+      "name": "K-ON! Music History's Box",
+      "link": "https://music.163.com/album?id=2420303"
+    }
+  },
+  {
+    "name": "BLAZE [ZERO-TWO Ver.]",
+    "link": "https://music.163.com/song?id=498861",
+    "duration": "03:42",
+    "artists": [
+      { "name": "澤野弘之", "link": "https://music.163.com/artist?id=15290" }
+    ],
+    "album": {
+      "name": "「戦国BASARA弐」音楽絵巻 弐 ～乱世、再び！～",
+      "link": "https://music.163.com/album?id=47647"
+    }
+  },
+  {
+    "name": "M12+13",
+    "link": "https://music.163.com/song?id=591930",
+    "duration": "02:10",
+    "artists": [
+      { "name": "梶浦由記", "link": "https://music.163.com/artist?id=16692" }
+    ],
+    "album": {
+      "name": "空の境界 Vol.1 俯瞰风景",
+      "link": "https://music.163.com/album?id=55949"
+    }
+  },
+  {
+    "name": "our story",
+    "link": "https://music.163.com/song?id=1376425795",
+    "duration": "03:36",
+    "artists": [
+      { "name": "chaochai", "link": "https://music.163.com/artist?id=30475601" }
+    ],
+    "album": {
+      "name": "Our Story",
+      "link": "https://music.163.com/album?id=80189451"
+    }
+  },
+  {
+    "name": "心动未果",
+    "link": "https://music.163.com/song?id=1433584797",
+    "duration": "03:39",
+    "artists": [{ "name": "珩c4Lk.", "link": "" }],
+    "album": {
+      "name": "成果粒",
+      "link": "https://music.163.com/album?id=86075311"
+    }
+  },
+  {
+    "name": "Instant",
+    "link": "https://music.163.com/song?id=484907411",
+    "duration": "04:11",
+    "artists": [
+      { "name": "浮云心丶", "link": "https://music.163.com/artist?id=12350867" }
+    ],
+    "album": {
+      "name": "Instant",
+      "link": "https://music.163.com/album?id=35638518"
+    }
+  },
+  {
+    "name": "一个发现",
+    "link": "https://music.163.com/song?id=1423254754",
+    "duration": "02:59",
+    "artists": [
+      { "name": "扶遥", "link": "https://music.163.com/artist?id=34317924" }
+    ],
+    "album": {
+      "name": "写给犬来八荒",
+      "link": "https://music.163.com/album?id=85694089"
+    }
+  },
+  {
+    "name": "罗生门",
+    "link": "https://music.163.com/song?id=33471531",
+    "duration": "04:22",
+    "artists": [
+      { "name": "麦浚龙", "link": "https://music.163.com/artist?id=4483" },
+      { "name": "谢安琪", "link": "https://music.163.com/artist?id=9952" }
+    ],
+    "album": {
+      "name": "Addendum",
+      "link": "https://music.163.com/album?id=3213075"
+    }
+  },
+  {
+    "name": "Tropical Love(剧情版)——动画《刺客伍六七》衍生曲",
+    "link": "https://music.163.com/song?id=1839440136",
+    "duration": "03:56",
+    "artists": [
+      { "name": "柠七汐Y", "link": "https://music.163.com/artist?id=34473258" },
+      {
+        "name": "Jim Virslox",
+        "link": "https://music.163.com/artist?id=32618243"
+      },
+      {
+        "name": "皖兮YUAKER",
+        "link": "https://music.163.com/artist?id=13908604"
+      },
+      { "name": "乔炔念", "link": "https://music.163.com/artist?id=30225638" },
+      { "name": "二二e", "link": "https://music.163.com/artist?id=36027306" },
+      { "name": "小周er", "link": "https://music.163.com/artist?id=35729392" }
+    ],
+    "album": {
+      "name": "Tropical Love——动画《刺客伍六七》衍生曲",
+      "link": "https://music.163.com/album?id=126403153"
+    }
+  }
+]

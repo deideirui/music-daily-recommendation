@@ -1,0 +1,461 @@
+[
+  {
+    "name": "All The Girls",
+    "link": "https://music.163.com/song?id=574915327",
+    "duration": "03:25",
+    "artists": [
+      { "name": "Marija", "link": "https://music.163.com/artist?id=210571" }
+    ],
+    "album": {
+      "name": "All The Girls",
+      "link": "https://music.163.com/album?id=39779319"
+    }
+  },
+  {
+    "name": "Losing My Head",
+    "link": "https://music.163.com/song?id=1367095619",
+    "duration": "03:23",
+    "artists": [
+      {
+        "name": "Lizzy Land",
+        "link": "https://music.163.com/artist?id=12192259"
+      }
+    ],
+    "album": {
+      "name": "intro music plays",
+      "link": "https://music.163.com/album?id=79337749"
+    }
+  },
+  {
+    "name": "Sad About It",
+    "link": "https://music.163.com/song?id=1376158520",
+    "duration": "03:43",
+    "artists": [
+      {
+        "name": "Gill Chang",
+        "link": "https://music.163.com/artist?id=13868921"
+      },
+      { "name": "Luma", "link": "https://music.163.com/artist?id=211460" }
+    ],
+    "album": {
+      "name": "Sad About It",
+      "link": "https://music.163.com/album?id=80238984"
+    }
+  },
+  {
+    "name": "Black Mascara",
+    "link": "https://music.163.com/song?id=27984050",
+    "duration": "03:58",
+    "artists": [
+      { "name": "Eliane", "link": "https://music.163.com/artist?id=56756" }
+    ],
+    "album": {
+      "name": "Venus & Mars",
+      "link": "https://music.163.com/album?id=2709008"
+    }
+  },
+  {
+    "name": "Erase Me",
+    "link": "https://music.163.com/song?id=1301861956",
+    "duration": "03:30",
+    "artists": [
+      {
+        "name": "Said The Sky",
+        "link": "https://music.163.com/artist?id=1026094"
+      },
+      {
+        "name": "NÉONHÈART",
+        "link": "https://music.163.com/artist?id=12273083"
+      }
+    ],
+    "album": {
+      "name": "Wide-Eyed",
+      "link": "https://music.163.com/album?id=72316725"
+    }
+  },
+  {
+    "name": "Sunsets",
+    "link": "https://music.163.com/song?id=1333144356",
+    "duration": "03:43",
+    "artists": [
+      { "name": "Nurko", "link": "https://music.163.com/artist?id=11991089" },
+      {
+        "name": "Olivia Lunny",
+        "link": "https://music.163.com/artist?id=29994561"
+      }
+    ],
+    "album": {
+      "name": "Sunsets",
+      "link": "https://music.163.com/album?id=74870722"
+    }
+  },
+  {
+    "name": "La Guitarra (Original Mix)",
+    "link": "https://music.163.com/song?id=29382911",
+    "duration": "08:18",
+    "artists": [
+      {
+        "name": "Ørjan Nilsen",
+        "link": "https://music.163.com/artist?id=41064"
+      }
+    ],
+    "album": {
+      "name": "Armind #BeatportDecade Trance",
+      "link": "https://music.163.com/album?id=3015340"
+    }
+  },
+  {
+    "name": "Salvation (Remix)",
+    "link": "https://music.163.com/song?id=402070949",
+    "duration": "03:30",
+    "artists": [
+      { "name": "HEYHEY", "link": "https://music.163.com/artist?id=11995134" },
+      {
+        "name": "Gabrielle Aplin",
+        "link": "https://music.163.com/artist?id=59169"
+      }
+    ],
+    "album": {
+      "name": "Salvation (Remix)",
+      "link": "https://music.163.com/album?id=34477292"
+    }
+  },
+  {
+    "name": "OMG",
+    "link": "https://music.163.com/song?id=1381314214",
+    "duration": "03:35",
+    "artists": [
+      { "name": "Gryffin", "link": "https://music.163.com/artist?id=1181504" },
+      {
+        "name": "Carly Rae Jepsen",
+        "link": "https://music.163.com/artist?id=50934"
+      }
+    ],
+    "album": {
+      "name": "OMG",
+      "link": "https://music.163.com/album?id=80714627"
+    }
+  },
+  {
+    "name": "Salt",
+    "link": "https://music.163.com/song?id=1299557938",
+    "duration": "03:02",
+    "artists": [
+      { "name": "Ava Max", "link": "https://music.163.com/artist?id=14486166" }
+    ],
+    "album": {
+      "name": "Salt",
+      "link": "https://music.163.com/album?id=72070237"
+    }
+  },
+  {
+    "name": "I Can Tell",
+    "link": "https://music.163.com/song?id=1376817015",
+    "duration": "03:10",
+    "artists": [
+      { "name": "Domeno", "link": "https://music.163.com/artist?id=1132772" },
+      {
+        "name": "Karl Sylver",
+        "link": "https://music.163.com/artist?id=32715201"
+      },
+      {
+        "name": "Garrett Raff",
+        "link": "https://music.163.com/artist?id=14914549"
+      }
+    ],
+    "album": {
+      "name": "Revealed Recordings presents Progressive EP Vol. 2",
+      "link": "https://music.163.com/album?id=80287909"
+    }
+  },
+  {
+    "name": "Starlight",
+    "link": "https://music.163.com/song?id=1397741110",
+    "duration": "03:29",
+    "artists": [
+      { "name": "J.Fla", "link": "https://music.163.com/artist?id=805090" }
+    ],
+    "album": {
+      "name": "Starlight",
+      "link": "https://music.163.com/album?id=82528589"
+    }
+  },
+  {
+    "name": "Sunshine Blue (Extended Mix)",
+    "link": "https://music.163.com/song?id=411314534",
+    "duration": "06:44",
+    "artists": [
+      {
+        "name": "Denis Kenzo",
+        "link": "https://music.163.com/artist?id=263670"
+      },
+      { "name": "Sveta B.", "link": "https://music.163.com/artist?id=839779" }
+    ],
+    "album": {
+      "name": "Sunshine Blue",
+      "link": "https://music.163.com/album?id=34685157"
+    }
+  },
+  {
+    "name": "Ready To Love You",
+    "link": "https://music.163.com/song?id=514206286",
+    "duration": "03:29",
+    "artists": [
+      { "name": "Hedegaard", "link": "https://music.163.com/artist?id=938013" }
+    ],
+    "album": {
+      "name": "Ready To Love You",
+      "link": "https://music.163.com/album?id=36641162"
+    }
+  },
+  {
+    "name": "Dancing In The Rain (Extended Mix)",
+    "link": "https://music.163.com/song?id=1361726344",
+    "duration": "05:43",
+    "artists": [
+      {
+        "name": "FUTURECODE",
+        "link": "https://music.163.com/artist?id=31577450"
+      },
+      {
+        "name": "Roxanne Emery",
+        "link": "https://music.163.com/artist?id=74561"
+      }
+    ],
+    "album": {
+      "name": "Dancing In The Rain",
+      "link": "https://music.163.com/album?id=78265721"
+    }
+  },
+  {
+    "name": "The Upside of Down",
+    "link": "https://music.163.com/song?id=1206828",
+    "duration": "03:45",
+    "artists": [
+      {
+        "name": "Chris August",
+        "link": "https://music.163.com/artist?id=30783"
+      }
+    ],
+    "album": {
+      "name": "The Upside of Down",
+      "link": "https://music.163.com/album?id=125021"
+    }
+  },
+  {
+    "name": "晨",
+    "link": "https://music.163.com/song?id=472685705",
+    "duration": "03:24",
+    "artists": [
+      {
+        "name": "Frank_Jiang",
+        "link": "https://music.163.com/artist?id=12198951"
+      }
+    ],
+    "album": { "name": "晨", "link": "https://music.163.com/album?id=35373761" }
+  },
+  {
+    "name": "Where Are You Now",
+    "link": "https://music.163.com/song?id=27896556",
+    "duration": "04:00",
+    "artists": [
+      { "name": "Union J", "link": "https://music.163.com/artist?id=763059" }
+    ],
+    "album": {
+      "name": "Union J (Deluxe Version)",
+      "link": "https://music.163.com/album?id=2692022"
+    }
+  },
+  {
+    "name": "Lost and Found",
+    "link": "https://music.163.com/song?id=35847302",
+    "duration": "03:36",
+    "artists": [
+      {
+        "name": "Ellie Goulding",
+        "link": "https://music.163.com/artist?id=56598"
+      }
+    ],
+    "album": {
+      "name": "Lost and Found",
+      "link": "https://music.163.com/album?id=3378046"
+    }
+  },
+  {
+    "name": "Final Song",
+    "link": "https://music.163.com/song?id=412902094",
+    "duration": "03:55",
+    "artists": [
+      { "name": "MØ", "link": "https://music.163.com/artist?id=783150" }
+    ],
+    "album": {
+      "name": "Final Song",
+      "link": "https://music.163.com/album?id=34686000"
+    }
+  },
+  {
+    "name": "Outta Mind",
+    "link": "https://music.163.com/song?id=1321722298",
+    "duration": "03:21",
+    "artists": [
+      {
+        "name": "Angelika Vee",
+        "link": "https://music.163.com/artist?id=904230"
+      },
+      { "name": "Dave202", "link": "https://music.163.com/artist?id=131661" }
+    ],
+    "album": {
+      "name": "Ibiza After Season",
+      "link": "https://music.163.com/album?id=74176170"
+    }
+  },
+  {
+    "name": "Version Of Me",
+    "link": "https://music.163.com/song?id=1328085413",
+    "duration": "03:02",
+    "artists": [
+      {
+        "name": "Sasha Sloan",
+        "link": "https://music.163.com/artist?id=12646102"
+      }
+    ],
+    "album": {
+      "name": "Loser",
+      "link": "https://music.163.com/album?id=74572383"
+    }
+  },
+  {
+    "name": "Be Alright",
+    "link": "https://music.163.com/song?id=521646021",
+    "duration": "03:27",
+    "artists": [
+      { "name": "J.Boss", "link": "https://music.163.com/artist?id=12287730" }
+    ],
+    "album": {
+      "name": "Be Alright",
+      "link": "https://music.163.com/album?id=36869616"
+    }
+  },
+  {
+    "name": "hungoverheadcrack",
+    "link": "https://music.163.com/song?id=1341502470",
+    "duration": "02:46",
+    "artists": [
+      {
+        "name": "Terror Jr",
+        "link": "https://music.163.com/artist?id=12031048"
+      }
+    ],
+    "album": {
+      "name": "Unfortunately, Terror Jr",
+      "link": "https://music.163.com/album?id=75290798"
+    }
+  },
+  {
+    "name": "Lie",
+    "link": "https://music.163.com/song?id=528128482",
+    "duration": "03:35",
+    "artists": [
+      { "name": "Shallou", "link": "https://music.163.com/artist?id=12029377" },
+      { "name": "Riah", "link": "https://music.163.com/artist?id=28143999" }
+    ],
+    "album": {
+      "name": "Lie",
+      "link": "https://music.163.com/album?id=37150937"
+    }
+  },
+  {
+    "name": "Appalachian Wine",
+    "link": "https://music.163.com/song?id=29375057",
+    "duration": "03:44",
+    "artists": [
+      {
+        "name": "Eleventyseven",
+        "link": "https://music.163.com/artist?id=32706"
+      }
+    ],
+    "album": {
+      "name": "Attack of the Mountain Medley",
+      "link": "https://music.163.com/album?id=2960205"
+    }
+  },
+  {
+    "name": "All I Ever Wanted",
+    "link": "https://music.163.com/song?id=1361804167",
+    "duration": "03:33",
+    "artists": [
+      {
+        "name": "WildVibes",
+        "link": "https://music.163.com/artist?id=1181751"
+      },
+      {
+        "name": "Martin Miller",
+        "link": "https://music.163.com/artist?id=12534226"
+      },
+      {
+        "name": "Arild Aas",
+        "link": "https://music.163.com/artist?id=13436856"
+      }
+    ],
+    "album": {
+      "name": "All I Ever Wanted",
+      "link": "https://music.163.com/album?id=78814883"
+    }
+  },
+  {
+    "name": "Outa My Head",
+    "link": "https://music.163.com/song?id=28557134",
+    "duration": "03:32",
+    "artists": [
+      {
+        "name": "Janine Berenson",
+        "link": "https://music.163.com/artist?id=1047174"
+      }
+    ],
+    "album": {
+      "name": "最新热歌慢摇63",
+      "link": "https://music.163.com/album?id=2821018"
+    }
+  },
+  {
+    "name": "Every Breath You Take",
+    "link": "https://music.163.com/song?id=1363677553",
+    "duration": "03:32",
+    "artists": [
+      {
+        "name": "Max Oazo",
+        "link": "https://music.163.com/artist?id=13159084"
+      },
+      { "name": "Cami", "link": "https://music.163.com/artist?id=283909" }
+    ],
+    "album": {
+      "name": "Every Breath You Take",
+      "link": "https://music.163.com/album?id=78965938"
+    }
+  },
+  {
+    "name": "Fight",
+    "link": "https://music.163.com/song?id=1378420575",
+    "duration": "03:04",
+    "artists": [
+      { "name": "DEAMN", "link": "https://music.163.com/artist?id=12047335" }
+    ],
+    "album": {
+      "name": "Fight",
+      "link": "https://music.163.com/album?id=80435647"
+    }
+  },
+  {
+    "name": "Ribs(Zeni's Love Mix)",
+    "link": "https://music.163.com/song?id=35331981",
+    "duration": "04:09",
+    "artists": [
+      { "name": "ZENI", "link": "https://music.163.com/artist?id=1038138" },
+      { "name": "Lorde", "link": "https://music.163.com/artist?id=784001" }
+    ],
+    "album": {
+      "name": "Ribs",
+      "link": "https://music.163.com/album?id=3319114"
+    }
+  }
+]

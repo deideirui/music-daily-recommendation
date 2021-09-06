@@ -1,0 +1,431 @@
+[
+  {
+    "name": "Crash & Burn",
+    "link": "https://music.163.com/song?id=1481304442",
+    "duration": "03:13",
+    "artists": [
+      {
+        "name": "Crystal Skies",
+        "link": "https://music.163.com/artist?id=1063127"
+      }
+    ],
+    "album": {
+      "name": "Collide EP",
+      "link": "https://music.163.com/album?id=95774856"
+    }
+  },
+  {
+    "name": "Criminal",
+    "link": "https://music.163.com/song?id=1374604554",
+    "duration": "02:28",
+    "artists": [
+      { "name": "Grey", "link": "https://music.163.com/artist?id=58424" }
+    ],
+    "album": {
+      "name": "Criminal",
+      "link": "https://music.163.com/album?id=80064989"
+    }
+  },
+  {
+    "name": "Three Words",
+    "link": "https://music.163.com/song?id=1446445809",
+    "duration": "03:19",
+    "artists": [
+      { "name": "Juze", "link": "https://music.163.com/artist?id=14851382" }
+    ],
+    "album": {
+      "name": "Three Words",
+      "link": "https://music.163.com/album?id=89132826"
+    }
+  },
+  {
+    "name": "The Storm",
+    "link": "https://music.163.com/song?id=1417907835",
+    "duration": "02:48",
+    "artists": [
+      {
+        "name": "TheFatRat",
+        "link": "https://music.163.com/artist?id=1019952"
+      },
+      { "name": "Maisy Kay", "link": "https://music.163.com/artist?id=1124551" }
+    ],
+    "album": {
+      "name": "The Storm",
+      "link": "https://music.163.com/album?id=85101961"
+    }
+  },
+  {
+    "name": "Burn The Stars",
+    "link": "https://music.163.com/song?id=477332354",
+    "duration": "03:00",
+    "artists": [
+      {
+        "name": "Massive Vibes",
+        "link": "https://music.163.com/artist?id=336281"
+      }
+    ],
+    "album": {
+      "name": "Burn the Stars Burn the Stars",
+      "link": "https://music.163.com/album?id=35474087"
+    }
+  },
+  {
+    "name": "Reprise (Original Mix)",
+    "link": "https://music.163.com/song?id=17867237",
+    "duration": "04:06",
+    "artists": [
+      { "name": "Feint", "link": "https://music.163.com/artist?id=93062" }
+    ],
+    "album": {
+      "name": "Feint EP1",
+      "link": "https://music.163.com/album?id=1644797"
+    }
+  },
+  {
+    "name": "No More I Sleep (Radio Edit)",
+    "link": "https://music.163.com/song?id=28620869",
+    "duration": "04:09",
+    "artists": [
+      { "name": "Chicane", "link": "https://music.163.com/artist?id=50971" },
+      { "name": "Senadee", "link": "https://music.163.com/artist?id=193224" }
+    ],
+    "album": {
+      "name": "No More I Sleep",
+      "link": "https://music.163.com/album?id=2860186"
+    }
+  },
+  {
+    "name": "PSYCHO",
+    "link": "https://music.163.com/song?id=1396930659",
+    "duration": "03:34",
+    "artists": [
+      { "name": "AViVA", "link": "https://music.163.com/artist?id=12074178" }
+    ],
+    "album": {
+      "name": "PSYCHO",
+      "link": "https://music.163.com/album?id=82407923"
+    }
+  },
+  {
+    "name": "Final Moments",
+    "link": "https://music.163.com/song?id=30780436",
+    "duration": "03:13",
+    "artists": [
+      { "name": "Wisp X", "link": "https://music.163.com/artist?id=1046123" }
+    ],
+    "album": {
+      "name": "Final Moments",
+      "link": "https://music.163.com/album?id=3103226"
+    }
+  },
+  {
+    "name": "The Story Never Ends (Piano Version)",
+    "link": "https://music.163.com/song?id=437802479",
+    "duration": "03:49",
+    "artists": [
+      { "name": "Lauv", "link": "https://music.163.com/artist?id=1057226" }
+    ],
+    "album": {
+      "name": "The Story Never Ends (Piano Version)",
+      "link": "https://music.163.com/album?id=34923230"
+    }
+  },
+  {
+    "name": "Wasted",
+    "link": "https://music.163.com/song?id=16783825",
+    "duration": "03:47",
+    "artists": [
+      {
+        "name": "Brandi Carlile",
+        "link": "https://music.163.com/artist?id=48515"
+      }
+    ],
+    "album": {
+      "name": "The Story",
+      "link": "https://music.163.com/album?id=1547032"
+    }
+  },
+  {
+    "name": "Do It",
+    "link": "https://music.163.com/song?id=513360706",
+    "duration": "03:42",
+    "artists": [
+      { "name": "Gjan", "link": "https://music.163.com/artist?id=851014" }
+    ],
+    "album": {
+      "name": "Do It",
+      "link": "https://music.163.com/album?id=36579122"
+    }
+  },
+  {
+    "name": "What I Need",
+    "link": "https://music.163.com/song?id=476324155",
+    "duration": "05:04",
+    "artists": [
+      {
+        "name": "Approaching Nirvana",
+        "link": "https://music.163.com/artist?id=86884"
+      }
+    ],
+    "album": {
+      "name": "What I Need",
+      "link": "https://music.163.com/album?id=35456059"
+    }
+  },
+  {
+    "name": "Move Up (Lost Gravity)",
+    "link": "https://music.163.com/song?id=406072775",
+    "duration": "03:04",
+    "artists": [
+      {
+        "name": "Mr. Polska",
+        "link": "https://music.163.com/artist?id=1161187"
+      }
+    ],
+    "album": {
+      "name": "Move Up (Lost Gravity)",
+      "link": "https://music.163.com/album?id=34526890"
+    }
+  },
+  {
+    "name": "You Belong To Me - (电影《怪物史莱克》插曲)",
+    "link": "https://music.163.com/song?id=5053289",
+    "duration": "02:41",
+    "artists": [
+      { "name": "Jason Wade", "link": "https://music.163.com/artist?id=36662" }
+    ],
+    "album": {
+      "name": "Shrek (Music From the Original Motion Picture)",
+      "link": "https://music.163.com/album?id=501303"
+    }
+  },
+  {
+    "name": "dear",
+    "link": "https://music.163.com/song?id=532940218",
+    "duration": "02:35",
+    "artists": [
+      { "name": "vietra", "link": "https://music.163.com/artist?id=12468266" }
+    ],
+    "album": {
+      "name": "dear",
+      "link": "https://music.163.com/album?id=37251736"
+    }
+  },
+  {
+    "name": "August",
+    "link": "https://music.163.com/song?id=1410339379",
+    "duration": "03:27",
+    "artists": [
+      {
+        "name": "Intelligency",
+        "link": "https://music.163.com/artist?id=13714181"
+      }
+    ],
+    "album": {
+      "name": "Renovatio",
+      "link": "https://music.163.com/album?id=84174069"
+    }
+  },
+  {
+    "name": "September",
+    "link": "https://music.163.com/song?id=1316184355",
+    "duration": "03:22",
+    "artists": [
+      {
+        "name": "DarkSpirit",
+        "link": "https://music.163.com/artist?id=12528208"
+      }
+    ],
+    "album": {
+      "name": "September",
+      "link": "https://music.163.com/album?id=73777457"
+    }
+  },
+  {
+    "name": "8月31日",
+    "link": "https://music.163.com/song?id=1306448973",
+    "duration": "03:13",
+    "artists": [
+      { "name": "吴宇深", "link": "https://music.163.com/artist?id=12281745" }
+    ],
+    "album": {
+      "name": "8月31日",
+      "link": "https://music.163.com/album?id=72780905"
+    }
+  },
+  {
+    "name": "Woes",
+    "link": "https://music.163.com/song?id=479198612",
+    "duration": "03:39",
+    "artists": [
+      {
+        "name": "Tom Rosenthal",
+        "link": "https://music.163.com/artist?id=1019769"
+      }
+    ],
+    "album": {
+      "name": "B-Sides",
+      "link": "https://music.163.com/album?id=35498583"
+    }
+  },
+  {
+    "name": "1000 Träume weit (Tornero)",
+    "link": "https://music.163.com/song?id=26704518",
+    "duration": "04:12",
+    "artists": [
+      {
+        "name": "Anna-Maria Zimmermann",
+        "link": "https://music.163.com/artist?id=156458"
+      }
+    ],
+    "album": {
+      "name": "Ballermann Hits Oktoberfest Party",
+      "link": "https://music.163.com/album?id=2549680"
+    }
+  },
+  {
+    "name": "雫",
+    "link": "https://music.163.com/song?id=533343413",
+    "duration": "02:23",
+    "artists": [
+      { "name": "Funton", "link": "https://music.163.com/artist?id=12476269" }
+    ],
+    "album": {
+      "name": "my shelter, my island, my eden.",
+      "link": "https://music.163.com/album?id=91694219"
+    }
+  },
+  {
+    "name": "Dusk",
+    "link": "https://music.163.com/song?id=36953776",
+    "duration": "02:05",
+    "artists": [
+      {
+        "name": "Peter Jeremias",
+        "link": "https://music.163.com/artist?id=1181948"
+      }
+    ],
+    "album": {
+      "name": "Emotional Piano - Hope",
+      "link": "https://music.163.com/album?id=3397642"
+    }
+  },
+  {
+    "name": "Oops J'Aime Pas L'Anglais !",
+    "link": "https://music.163.com/song?id=2697889",
+    "duration": "02:56",
+    "artists": [
+      { "name": "Gullia", "link": "https://music.163.com/artist?id=59147" }
+    ],
+    "album": {
+      "name": "Oops Jaime Pas Langlais",
+      "link": "https://music.163.com/album?id=272122"
+    }
+  },
+  {
+    "name": "Good Bye Brave World",
+    "link": "https://music.163.com/song?id=26624722",
+    "duration": "02:02",
+    "artists": [
+      {
+        "name": "Dirk Reichardt",
+        "link": "https://music.163.com/artist?id=861517"
+      },
+      {
+        "name": "David Juergens",
+        "link": "https://music.163.com/artist?id=15016003"
+      }
+    ],
+    "album": {
+      "name": "Kokowääh 2 (Original Motion Picture Soundtrack)",
+      "link": "https://music.163.com/album?id=2536612"
+    }
+  },
+  {
+    "name": "Na Na Na (Club Mix)",
+    "link": "https://music.163.com/song?id=436501923",
+    "duration": "04:16",
+    "artists": [
+      {
+        "name": "Jack Mazzoni",
+        "link": "https://music.163.com/artist?id=471172"
+      }
+    ],
+    "album": {
+      "name": "Na Na Na",
+      "link": "https://music.163.com/album?id=34932383"
+    }
+  },
+  {
+    "name": "One Time",
+    "link": "https://music.163.com/song?id=508052502",
+    "duration": "03:38",
+    "artists": [
+      {
+        "name": "Marian Hill",
+        "link": "https://music.163.com/artist?id=893433"
+      }
+    ],
+    "album": {
+      "name": "Dinner Party",
+      "link": "https://music.163.com/album?id=36278207"
+    }
+  },
+  {
+    "name": "Sun and Stars",
+    "link": "https://music.163.com/song?id=496619042",
+    "duration": "03:19",
+    "artists": [
+      {
+        "name": "Audiomachine",
+        "link": "https://music.163.com/artist?id=87066"
+      }
+    ],
+    "album": {
+      "name": "Worlds of Wonder",
+      "link": "https://music.163.com/album?id=35909015"
+    }
+  },
+  {
+    "name": "Atemlos Durch Die Nacht",
+    "link": "https://music.163.com/song?id=27818782",
+    "duration": "03:41",
+    "artists": [
+      {
+        "name": "Helene Fischer",
+        "link": "https://music.163.com/artist?id=60252"
+      }
+    ],
+    "album": {
+      "name": "Farbenspiel",
+      "link": "https://music.163.com/album?id=2682771"
+    }
+  },
+  {
+    "name": "Sanctum (Full Version)",
+    "link": "https://music.163.com/song?id=38392588",
+    "duration": "03:56",
+    "artists": [
+      { "name": "Andreas B.", "link": "https://music.163.com/artist?id=299713" }
+    ],
+    "album": {
+      "name": "Sanctum  (Original Mix)",
+      "link": "https://music.163.com/album?id=3427414"
+    }
+  },
+  {
+    "name": "Buried Treasure",
+    "link": "https://music.163.com/song?id=17982527",
+    "duration": "04:25",
+    "artists": [
+      {
+        "name": "Grant-Lee Phillips",
+        "link": "https://music.163.com/artist?id=33943"
+      }
+    ],
+    "album": {
+      "name": "Little Moon",
+      "link": "https://music.163.com/album?id=1654133"
+    }
+  }
+]

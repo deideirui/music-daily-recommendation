@@ -1,0 +1,429 @@
+[
+  {
+    "name": "My Heart Wants Me Dead",
+    "link": "https://music.163.com/song?id=405089430",
+    "duration": "03:02",
+    "artists": [
+      { "name": "Lisa Ajax", "link": "https://music.163.com/artist?id=1156059" }
+    ],
+    "album": {
+      "name": "My Heart Wants Me Dead",
+      "link": "https://music.163.com/album?id=34504255"
+    }
+  },
+  {
+    "name": "Six Degrees to Go",
+    "link": "https://music.163.com/song?id=30039684",
+    "duration": "03:47",
+    "artists": [
+      {
+        "name": "Jennifer Lynn",
+        "link": "https://music.163.com/artist?id=407250"
+      }
+    ],
+    "album": {
+      "name": "6 Degrees",
+      "link": "https://music.163.com/album?id=3090761"
+    }
+  },
+  {
+    "name": "Messenger",
+    "link": "https://music.163.com/song?id=1423285",
+    "duration": "03:21",
+    "artists": [
+      { "name": "Galen Crew", "link": "https://music.163.com/artist?id=34435" }
+    ],
+    "album": {
+      "name": "Better Than a Fairy Tale",
+      "link": "https://music.163.com/album?id=145852"
+    }
+  },
+  {
+    "name": "Pride",
+    "link": "https://music.163.com/song?id=26418705",
+    "duration": "03:37",
+    "artists": [
+      {
+        "name": "Leanne Mitchell",
+        "link": "https://music.163.com/artist?id=736078"
+      }
+    ],
+    "album": {
+      "name": "Leanne Mitchell (Deluxe)",
+      "link": "https://music.163.com/album?id=2489124"
+    }
+  },
+  {
+    "name": "Cameras",
+    "link": "https://music.163.com/song?id=544246934",
+    "duration": "03:20",
+    "artists": [
+      {
+        "name": "Justice Skolnik",
+        "link": "https://music.163.com/artist?id=12155050"
+      },
+      {
+        "name": "Jeremy Zucker",
+        "link": "https://music.163.com/artist?id=12096183"
+      }
+    ],
+    "album": {
+      "name": "Cameras",
+      "link": "https://music.163.com/album?id=37896150"
+    }
+  },
+  {
+    "name": "Hello Summer (Radio Edit)",
+    "link": "https://music.163.com/song?id=424477211",
+    "duration": "02:32",
+    "artists": [
+      { "name": "Rameez", "link": "https://music.163.com/artist?id=386580" }
+    ],
+    "album": {
+      "name": "Hello Summer (Radio Edit)",
+      "link": "https://music.163.com/album?id=34809328"
+    }
+  },
+  {
+    "name": "Overture",
+    "link": "https://music.163.com/song?id=533471403",
+    "duration": "03:34",
+    "artists": [
+      { "name": "Chicane", "link": "https://music.163.com/artist?id=50971" }
+    ],
+    "album": {
+      "name": "Behind The Sun (Deluxe Version) [Remastered]",
+      "link": "https://music.163.com/album?id=37422521"
+    }
+  },
+  {
+    "name": "Waiting For",
+    "link": "https://music.163.com/song?id=491271737",
+    "duration": "03:05",
+    "artists": [
+      {
+        "name": "Joakim Lundell",
+        "link": "https://music.163.com/artist?id=12289052"
+      }
+    ],
+    "album": {
+      "name": "Feelings",
+      "link": "https://music.163.com/album?id=39791888"
+    }
+  },
+  {
+    "name": "Dust to Dust",
+    "link": "https://music.163.com/song?id=27529757",
+    "duration": "03:49",
+    "artists": [
+      {
+        "name": "The Civil Wars",
+        "link": "https://music.163.com/artist?id=103399"
+      }
+    ],
+    "album": {
+      "name": "The Civil Wars",
+      "link": "https://music.163.com/album?id=2627192"
+    }
+  },
+  {
+    "name": "DEAR JOHN",
+    "link": "https://music.163.com/song?id=207497",
+    "duration": "05:11",
+    "artists": [
+      { "name": "比莉", "link": "https://music.163.com/artist?id=7169" }
+    ],
+    "album": {
+      "name": "傻瓜就是我",
+      "link": "https://music.163.com/album?id=21116"
+    }
+  },
+  {
+    "name": "Contra",
+    "link": "https://music.163.com/song?id=474409781",
+    "duration": "03:45",
+    "artists": [
+      { "name": "Talos", "link": "https://music.163.com/artist?id=1177180" }
+    ],
+    "album": {
+      "name": "Wild Alee",
+      "link": "https://music.163.com/album?id=35377572"
+    }
+  },
+  {
+    "name": "Trampoline",
+    "link": "https://music.163.com/song?id=563733742",
+    "duration": "03:04",
+    "artists": [
+      { "name": "Shaed", "link": "https://music.163.com/artist?id=12086115" }
+    ],
+    "album": {
+      "name": "Trampoline",
+      "link": "https://music.163.com/album?id=39070136"
+    }
+  },
+  {
+    "name": "Rise",
+    "link": "https://music.163.com/song?id=567145750",
+    "duration": "03:14",
+    "artists": [
+      {
+        "name": "Jonas Blue",
+        "link": "https://music.163.com/artist?id=1192069"
+      },
+      {
+        "name": "Jack & Jack",
+        "link": "https://music.163.com/artist?id=647673"
+      }
+    ],
+    "album": {
+      "name": "Rise",
+      "link": "https://music.163.com/album?id=39322119"
+    }
+  },
+  {
+    "name": "Break Up in a Small Town",
+    "link": "https://music.163.com/song?id=29592100",
+    "duration": "03:51",
+    "artists": [
+      { "name": "Sam Hunt", "link": "https://music.163.com/artist?id=942264" }
+    ],
+    "album": {
+      "name": "Montevallo",
+      "link": "https://music.163.com/album?id=3050199"
+    }
+  },
+  {
+    "name": "Believer (Kaskade Remix)",
+    "link": "https://music.163.com/song?id=483156032",
+    "duration": "03:10",
+    "artists": [
+      {
+        "name": "Imagine Dragons",
+        "link": "https://music.163.com/artist?id=94779"
+      },
+      { "name": "Kaskade", "link": "https://music.163.com/artist?id=37559" }
+    ],
+    "album": {
+      "name": "Believer (Kaskade Remix)",
+      "link": "https://music.163.com/album?id=35558597"
+    }
+  },
+  {
+    "name": "Verge",
+    "link": "https://music.163.com/song?id=32803246",
+    "duration": "03:33",
+    "artists": [
+      { "name": "Owl City", "link": "https://music.163.com/artist?id=40859" },
+      { "name": "Aloe Blacc", "link": "https://music.163.com/artist?id=47425" }
+    ],
+    "album": {
+      "name": "Verge",
+      "link": "https://music.163.com/album?id=3171199"
+    }
+  },
+  {
+    "name": "Lost Without You",
+    "link": "https://music.163.com/song?id=516587855",
+    "duration": "03:45",
+    "artists": [
+      {
+        "name": "Freya Ridings",
+        "link": "https://music.163.com/artist?id=12408238"
+      }
+    ],
+    "album": {
+      "name": "Lost Without You",
+      "link": "https://music.163.com/album?id=36674768"
+    }
+  },
+  {
+    "name": "Siren",
+    "link": "https://music.163.com/song?id=1304857466",
+    "duration": "03:20",
+    "artists": [
+      {
+        "name": "Kailee Morgue",
+        "link": "https://music.163.com/artist?id=12740178"
+      }
+    ],
+    "album": {
+      "name": "Siren",
+      "link": "https://music.163.com/album?id=72575794"
+    }
+  },
+  {
+    "name": "I Can Do Better",
+    "link": "https://music.163.com/song?id=28557223",
+    "duration": "04:09",
+    "artists": [
+      { "name": "Saje", "link": "https://music.163.com/artist?id=1031034" }
+    ],
+    "album": {
+      "name": "最新热歌慢摇63",
+      "link": "https://music.163.com/album?id=2821018"
+    }
+  },
+  {
+    "name": "Back to You",
+    "link": "https://music.163.com/song?id=28468757",
+    "duration": "03:35",
+    "artists": [
+      {
+        "name": "Amanda Noelle",
+        "link": "https://music.163.com/artist?id=909047"
+      }
+    ],
+    "album": {
+      "name": "Beautiful Name",
+      "link": "https://music.163.com/album?id=2805079"
+    }
+  },
+  {
+    "name": "Loyal to Me",
+    "link": "https://music.163.com/song?id=1300594510",
+    "duration": "03:11",
+    "artists": [
+      {
+        "name": "Nina Nesbitt",
+        "link": "https://music.163.com/artist?id=70292"
+      }
+    ],
+    "album": {
+      "name": "Loyal to Me",
+      "link": "https://music.163.com/album?id=72071473"
+    }
+  },
+  {
+    "name": "Your Sound is All I Need",
+    "link": "https://music.163.com/song?id=483690568",
+    "duration": "03:34",
+    "artists": [
+      { "name": "Foxen", "link": "https://music.163.com/artist?id=12462336" }
+    ],
+    "album": {
+      "name": "Your Sound Is All I Need",
+      "link": "https://music.163.com/album?id=35590958"
+    }
+  },
+  {
+    "name": "Could Be",
+    "link": "https://music.163.com/song?id=29343746",
+    "duration": "03:39",
+    "artists": [
+      {
+        "name": "Ally Sereda",
+        "link": "https://music.163.com/artist?id=1011019"
+      }
+    ],
+    "album": {
+      "name": "High World",
+      "link": "https://music.163.com/album?id=3010093"
+    }
+  },
+  {
+    "name": "Paradise",
+    "link": "https://music.163.com/song?id=28838745",
+    "duration": "03:48",
+    "artists": [
+      { "name": "Mischa", "link": "https://music.163.com/artist?id=975255" }
+    ],
+    "album": {
+      "name": "Paradise",
+      "link": "https://music.163.com/album?id=2901265"
+    }
+  },
+  {
+    "name": "心上华海（VOCALOID）",
+    "link": "https://music.163.com/song?id=1330289785",
+    "duration": "04:04",
+    "artists": [
+      {
+        "name": "Nekock·LK",
+        "link": "https://music.163.com/artist?id=12116049"
+      },
+      { "name": "心华", "link": "https://music.163.com/artist?id=1085035" }
+    ],
+    "album": {
+      "name": "心上华海",
+      "link": "https://music.163.com/album?id=74693925"
+    }
+  },
+  {
+    "name": "如果星星能记得(Vocaloid)",
+    "link": "https://music.163.com/song?id=447309968",
+    "duration": "02:37",
+    "artists": [
+      { "name": "石页", "link": "https://music.163.com/artist?id=12200045" }
+    ],
+    "album": {
+      "name": "石页的V家曲",
+      "link": "https://music.163.com/album?id=35060085"
+    }
+  },
+  {
+    "name": "My Privacy",
+    "link": "https://music.163.com/song?id=2529497",
+    "duration": "03:34",
+    "artists": [
+      {
+        "name": "Dorothy Valentine",
+        "link": "https://music.163.com/artist?id=55473"
+      }
+    ],
+    "album": {
+      "name": "Dorothy Valentine",
+      "link": "https://music.163.com/album?id=254646"
+    }
+  },
+  {
+    "name": "Temple Of Dreams",
+    "link": "https://music.163.com/song?id=26196174",
+    "duration": "07:01",
+    "artists": [
+      { "name": "Mflex", "link": "https://music.163.com/artist?id=735016" }
+    ],
+    "album": {
+      "name": "Kidnap My Soul",
+      "link": "https://music.163.com/album?id=2419522"
+    }
+  },
+  {
+    "name": "Untouchable",
+    "link": "https://music.163.com/song?id=529619042",
+    "duration": "03:11",
+    "artists": [
+      { "name": "MVJESTY", "link": "https://music.163.com/artist?id=12041102" },
+      { "name": "Lauren", "link": "https://music.163.com/artist?id=214536" }
+    ],
+    "album": {
+      "name": "UNTOUCHABLE",
+      "link": "https://music.163.com/album?id=37238017"
+    }
+  },
+  {
+    "name": "Antares",
+    "link": "https://music.163.com/song?id=465016050",
+    "duration": "03:32",
+    "artists": [
+      { "name": "Ryan有光", "link": "https://music.163.com/artist?id=12185226" }
+    ],
+    "album": {
+      "name": "Antares",
+      "link": "https://music.163.com/album?id=35255944"
+    }
+  },
+  {
+    "name": "Journey",
+    "link": "https://music.163.com/song?id=546126882",
+    "duration": "02:28",
+    "artists": [
+      { "name": "冷魚", "link": "https://music.163.com/artist?id=12090271" },
+      { "name": "夜の律", "link": "https://music.163.com/artist?id=13537449" }
+    ],
+    "album": {
+      "name": "Night Law 01:Embark",
+      "link": "https://music.163.com/album?id=37964117"
+    }
+  }
+]

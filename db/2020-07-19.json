@@ -1,0 +1,497 @@
+[
+  {
+    "name": "Firestorm",
+    "link": "https://music.163.com/song?id=1386447299",
+    "duration": "03:16",
+    "artists": [
+      {
+        "name": "Daniel Garrick",
+        "link": "https://music.163.com/artist?id=1163065"
+      },
+      {
+        "name": "Clef & Canberra",
+        "link": "https://music.163.com/artist?id=12171077"
+      },
+      {
+        "name": "Revealed Recordings",
+        "link": "https://music.163.com/artist?id=28753573"
+      }
+    ],
+    "album": {
+      "name": "Firestorm",
+      "link": "https://music.163.com/album?id=81141739"
+    }
+  },
+  {
+    "name": "Promises (Radio Edit)",
+    "link": "https://music.163.com/song?id=1409603561",
+    "duration": "02:41",
+    "artists": [
+      { "name": "PULLER", "link": "https://music.163.com/artist?id=12048004" },
+      { "name": "Wyko", "link": "https://music.163.com/artist?id=12628059" },
+      { "name": "Blanee", "link": "https://music.163.com/artist?id=29740358" }
+    ],
+    "album": {
+      "name": "Promises",
+      "link": "https://music.163.com/album?id=84102082"
+    }
+  },
+  {
+    "name": "Interlude",
+    "link": "https://music.163.com/song?id=1333159923",
+    "duration": "01:19",
+    "artists": [
+      {
+        "name": "Alan Walker",
+        "link": "https://music.163.com/artist?id=1045123"
+      }
+    ],
+    "album": {
+      "name": "Different World",
+      "link": "https://music.163.com/album?id=74571750"
+    }
+  },
+  {
+    "name": "Me & You",
+    "link": "https://music.163.com/song?id=1380930863",
+    "duration": "02:40",
+    "artists": [
+      { "name": "T.L.I.D", "link": "https://music.163.com/artist?id=28038208" }
+    ],
+    "album": {
+      "name": "Me & You",
+      "link": "https://music.163.com/album?id=80674404"
+    }
+  },
+  {
+    "name": "Antares",
+    "link": "https://music.163.com/song?id=1313035852",
+    "duration": "02:44",
+    "artists": [
+      { "name": "DubVision", "link": "https://music.163.com/artist?id=357950" }
+    ],
+    "album": {
+      "name": "Antares",
+      "link": "https://music.163.com/album?id=73640937"
+    }
+  },
+  {
+    "name": "ナツゾラ - (Natsuzora)",
+    "link": "https://music.163.com/song?id=509728520",
+    "duration": "03:33",
+    "artists": [
+      {
+        "name": "HoneyComeBear",
+        "link": "https://music.163.com/artist?id=12675383"
+      }
+    ],
+    "album": {
+      "name": "ナツゾラ",
+      "link": "https://music.163.com/album?id=36450243"
+    }
+  },
+  {
+    "name": "Your Love",
+    "link": "https://music.163.com/song?id=1377442158",
+    "duration": "03:15",
+    "artists": [
+      {
+        "name": "Dirty Palm",
+        "link": "https://music.163.com/artist?id=1155029"
+      }
+    ],
+    "album": {
+      "name": "Your Love",
+      "link": "https://music.163.com/album?id=80349975"
+    }
+  },
+  {
+    "name": "Destination",
+    "link": "https://music.163.com/song?id=504646345",
+    "duration": "04:39",
+    "artists": [
+      { "name": "iMeiden", "link": "https://music.163.com/artist?id=12332173" }
+    ],
+    "album": {
+      "name": "Destination",
+      "link": "https://music.163.com/album?id=36128519"
+    }
+  },
+  {
+    "name": "Lie To Me (Nicky Romero Remix)",
+    "link": "https://music.163.com/song?id=1305041063",
+    "duration": "03:27",
+    "artists": [
+      { "name": "Steve Aoki", "link": "https://music.163.com/artist?id=43608" },
+      {
+        "name": "Ina Wroldsen",
+        "link": "https://music.163.com/artist?id=60879"
+      },
+      {
+        "name": "Nicky Romero",
+        "link": "https://music.163.com/artist?id=195142"
+      }
+    ],
+    "album": {
+      "name": "Lie To Me (Remixes Part 2)",
+      "link": "https://music.163.com/album?id=72626213"
+    }
+  },
+  {
+    "name": "In My Arms",
+    "link": "https://music.163.com/song?id=409941537",
+    "duration": "03:35",
+    "artists": [
+      { "name": "Qulinez", "link": "https://music.163.com/artist?id=352208" },
+      {
+        "name": "Sex Panther",
+        "link": "https://music.163.com/artist?id=13852894"
+      }
+    ],
+    "album": {
+      "name": "In My Arms",
+      "link": "https://music.163.com/album?id=34613510"
+    }
+  },
+  {
+    "name": "Touch me",
+    "link": "https://music.163.com/song?id=22637174",
+    "duration": "04:22",
+    "artists": [
+      {
+        "name": "元気ロケッツ",
+        "link": "https://music.163.com/artist?id=16777"
+      }
+    ],
+    "album": {
+      "name": "GENKI ROCKETS II -No border between us-",
+      "link": "https://music.163.com/album?id=2075248"
+    }
+  },
+  {
+    "name": "Young (Nicky Romero Remix) (Radio)",
+    "link": "https://music.163.com/song?id=504016018",
+    "duration": "03:40",
+    "artists": [
+      {
+        "name": "Nicky Romero",
+        "link": "https://music.163.com/artist?id=195142"
+      },
+      {
+        "name": "The Chainsmokers",
+        "link": "https://music.163.com/artist?id=893484"
+      }
+    ],
+    "album": {
+      "name": "Young (Nicky Romero Remix)",
+      "link": "https://music.163.com/album?id=36138013"
+    }
+  },
+  {
+    "name": "Maboroshi",
+    "link": "https://music.163.com/song?id=1354965157",
+    "duration": "04:04",
+    "artists": [
+      {
+        "name": "Hyper Potions",
+        "link": "https://music.163.com/artist?id=1074092"
+      },
+      {
+        "name": "Synthion",
+        "link": "https://music.163.com/artist?id=12229021"
+      },
+      { "name": "MYLK", "link": "https://music.163.com/artist?id=12046352" }
+    ],
+    "album": {
+      "name": "Maboroshi",
+      "link": "https://music.163.com/album?id=78230784"
+    }
+  },
+  {
+    "name": "Last Goodbye (Original Mix)",
+    "link": "https://music.163.com/song?id=399354580",
+    "duration": "03:53",
+    "artists": [
+      {
+        "name": "Kerafix & Vultaire",
+        "link": "https://music.163.com/artist?id=1147046"
+      },
+      {
+        "name": "Nathan Brumley",
+        "link": "https://music.163.com/artist?id=1081182"
+      }
+    ],
+    "album": {
+      "name": "Last Goodbye (Original Mix)",
+      "link": "https://music.163.com/album?id=34407186"
+    }
+  },
+  {
+    "name": "Show You the Way",
+    "link": "https://music.163.com/song?id=1347112336",
+    "duration": "03:16",
+    "artists": [
+      {
+        "name": "Starlyte",
+        "link": "https://music.163.com/artist?id=12006394"
+      },
+      {
+        "name": "Bentley Jones",
+        "link": "https://music.163.com/artist?id=31156380"
+      }
+    ],
+    "album": {
+      "name": "Show You the Way",
+      "link": "https://music.163.com/album?id=75630635"
+    }
+  },
+  {
+    "name": "Dreamer (Nicky Romero Remix)",
+    "link": "https://music.163.com/song?id=1331666156",
+    "duration": "03:44",
+    "artists": [
+      {
+        "name": "Martin Garrix",
+        "link": "https://music.163.com/artist?id=780003"
+      },
+      {
+        "name": "Mike Yung",
+        "link": "https://music.163.com/artist?id=30528326"
+      },
+      {
+        "name": "Nicky Romero",
+        "link": "https://music.163.com/artist?id=195142"
+      }
+    ],
+    "album": {
+      "name": "Dreamer (Remixes Vol. 1)",
+      "link": "https://music.163.com/album?id=74796589"
+    }
+  },
+  {
+    "name": "One Last Night (SMLE Remix)",
+    "link": "https://music.163.com/song?id=32717499",
+    "duration": "03:49",
+    "artists": [
+      { "name": "SMLE", "link": "https://music.163.com/artist?id=1084201" },
+      { "name": "Vaults", "link": "https://music.163.com/artist?id=80349" }
+    ],
+    "album": {
+      "name": "One Last Night (SMLE Remix)",
+      "link": "https://music.163.com/album?id=3161904"
+    }
+  },
+  {
+    "name": "Coming After Your Love",
+    "link": "https://music.163.com/song?id=1299973361",
+    "duration": "03:08",
+    "artists": [
+      { "name": "iLY", "link": "https://music.163.com/artist?id=528294" },
+      { "name": "Tom Ferry", "link": "https://music.163.com/artist?id=1137498" }
+    ],
+    "album": {
+      "name": "Coming After Your Love",
+      "link": "https://music.163.com/album?id=72197849"
+    }
+  },
+  {
+    "name": "富田美憂-HAPPY!!ストレンジフレンズ（kiraramagic remix）",
+    "link": "https://music.163.com/song?id=1333448460",
+    "duration": "03:41",
+    "artists": [
+      {
+        "name": "Kirara Magic",
+        "link": "https://music.163.com/artist?id=30226109"
+      }
+    ],
+    "album": {
+      "name": "HAPPY!!ストレンジフレンズ(Kiraramagic remix)",
+      "link": "https://music.163.com/album?id=74758264"
+    }
+  },
+  {
+    "name": "Sunset Tea Cup",
+    "link": "https://music.163.com/song?id=485960121",
+    "duration": "03:07",
+    "artists": [
+      { "name": "YUC'e", "link": "https://music.163.com/artist?id=12054347" }
+    ],
+    "album": {
+      "name": "Frequency Blitz 5",
+      "link": "https://music.163.com/album?id=35645935"
+    }
+  },
+  {
+    "name": "Season 2 Episode 3",
+    "link": "https://music.163.com/song?id=427295080",
+    "duration": "04:03",
+    "artists": [
+      {
+        "name": "Glass Animals",
+        "link": "https://music.163.com/artist?id=847346"
+      }
+    ],
+    "album": {
+      "name": "Season 2 Episode 3",
+      "link": "https://music.163.com/album?id=34850020"
+    }
+  },
+  {
+    "name": "Take Me Home (Original Mix)",
+    "link": "https://music.163.com/song?id=32358966",
+    "duration": "05:01",
+    "artists": [
+      {
+        "name": "Thomas Gold",
+        "link": "https://music.163.com/artist?id=196219"
+      },
+      { "name": "Harrison", "link": "https://music.163.com/artist?id=34714" },
+      { "name": "HIIO", "link": "https://music.163.com/artist?id=793035" }
+    ],
+    "album": {
+      "name": "Take Me Home",
+      "link": "https://music.163.com/album?id=3154821"
+    }
+  },
+  {
+    "name": "She (Original Mix)",
+    "link": "https://music.163.com/song?id=437859803",
+    "duration": "06:22",
+    "artists": [
+      { "name": "Glaue", "link": "https://music.163.com/artist?id=1021009" }
+    ],
+    "album": {
+      "name": "Trance Autumn Essentials 2016",
+      "link": "https://music.163.com/album?id=34943823"
+    }
+  },
+  {
+    "name": "They Don't Know About Us",
+    "link": "https://music.163.com/song?id=25882982",
+    "duration": "03:21",
+    "artists": [
+      {
+        "name": "One Direction",
+        "link": "https://music.163.com/artist?id=98351"
+      }
+    ],
+    "album": {
+      "name": "Take Me Home",
+      "link": "https://music.163.com/album?id=2338175"
+    }
+  },
+  {
+    "name": "Dawn On Sunset (Invisible Brothers Remix)",
+    "link": "https://music.163.com/song?id=26524238",
+    "duration": "07:03",
+    "artists": [
+      { "name": "E-Spectro", "link": "https://music.163.com/artist?id=783035" }
+    ],
+    "album": {
+      "name": "Dawn On Sunset",
+      "link": "https://music.163.com/album?id=2519057"
+    }
+  },
+  {
+    "name": "白ゆきの独白",
+    "link": "https://music.163.com/song?id=422790938",
+    "duration": "01:18",
+    "artists": [
+      { "name": "n-buna", "link": "https://music.163.com/artist?id=981185" }
+    ],
+    "album": {
+      "name": "月を歩いている",
+      "link": "https://music.163.com/album?id=34790139"
+    }
+  },
+  {
+    "name": "With You",
+    "link": "https://music.163.com/song?id=403710536",
+    "duration": "03:06",
+    "artists": [
+      { "name": "ILLENIUM", "link": "https://music.163.com/artist?id=1050518" },
+      {
+        "name": "Quinn XCII",
+        "link": "https://music.163.com/artist?id=12043047"
+      }
+    ],
+    "album": {
+      "name": "Ashes",
+      "link": "https://music.163.com/album?id=34497141"
+    }
+  },
+  {
+    "name": "Black Window",
+    "link": "https://music.163.com/song?id=541806014",
+    "duration": "03:19",
+    "artists": [
+      { "name": "Rainy", "link": "https://music.163.com/artist?id=209559" }
+    ],
+    "album": {
+      "name": "Nowhere",
+      "link": "https://music.163.com/album?id=37768359"
+    }
+  },
+  {
+    "name": "Bring You Home (Radio Edit)",
+    "link": "https://music.163.com/song?id=31381317",
+    "duration": "04:00",
+    "artists": [
+      {
+        "name": "Dennis Sheperd",
+        "link": "https://music.163.com/artist?id=32497"
+      }
+    ],
+    "album": {
+      "name": "Pure Bliss Vocals - Winter 2015",
+      "link": "https://music.163.com/album?id=3111705"
+    }
+  },
+  {
+    "name": "IA-アスノヨゾラ哨戒班/明日的夜空哨戒班（REGG$HOTS / Akie秋绘 / 夏璃夜 remix）",
+    "link": "https://music.163.com/song?id=1354016079",
+    "duration": "03:26",
+    "artists": [
+      { "name": "RADI8", "link": "https://music.163.com/artist?id=28071541" },
+      {
+        "name": "Akie秋绘",
+        "link": "https://music.163.com/artist?id=12184145"
+      },
+      { "name": "夏璃夜", "link": "https://music.163.com/artist?id=12236114" }
+    ],
+    "album": {
+      "name": "アスノヨゾラ哨戒班/明日的夜空哨戒班（REGG$HOTS REMIX）",
+      "link": "https://music.163.com/album?id=75616521"
+    }
+  },
+  {
+    "name": "Pinô",
+    "link": "https://music.163.com/song?id=28245308",
+    "duration": "02:45",
+    "artists": [
+      {
+        "name": "Otto A Totland",
+        "link": "https://music.163.com/artist?id=893498"
+      }
+    ],
+    "album": {
+      "name": "Pinô",
+      "link": "https://music.163.com/album?id=2761008"
+    }
+  },
+  {
+    "name": "Wildest Dreams",
+    "link": "https://music.163.com/song?id=35090871",
+    "duration": "03:24",
+    "artists": [
+      {
+        "name": "Anthem Lights",
+        "link": "https://music.163.com/artist?id=86862"
+      }
+    ],
+    "album": {
+      "name": "Wildest Dreams",
+      "link": "https://music.163.com/album?id=3308754"
+    }
+  }
+]

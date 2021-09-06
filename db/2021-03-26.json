@@ -1,0 +1,400 @@
+[
+  {
+    "name": "Lost",
+    "link": "https://music.163.com/song?id=545823954",
+    "duration": "04:27",
+    "artists": [
+      { "name": "Azricle", "link": "https://music.163.com/artist?id=1131003" }
+    ],
+    "album": {
+      "name": "Lost",
+      "link": "https://music.163.com/album?id=37921403"
+    }
+  },
+  {
+    "name": "Here And Now",
+    "link": "https://music.163.com/song?id=36270215",
+    "duration": "02:26",
+    "artists": [
+      { "name": "PAXEL", "link": "https://music.163.com/artist?id=1094020" }
+    ],
+    "album": {
+      "name": "Here And Now",
+      "link": "https://music.163.com/album?id=3389343"
+    }
+  },
+  {
+    "name": "China-Z",
+    "link": "https://music.163.com/song?id=1428179775",
+    "duration": "03:31",
+    "artists": [
+      { "name": "Z-HEN", "link": "https://music.163.com/artist?id=34468999" }
+    ],
+    "album": {
+      "name": "China-Z",
+      "link": "https://music.163.com/album?id=86209978"
+    }
+  },
+  {
+    "name": "Gaiety",
+    "link": "https://music.163.com/song?id=1460644606",
+    "duration": "03:18",
+    "artists": [
+      { "name": "JWoods", "link": "https://music.163.com/artist?id=30959670" }
+    ],
+    "album": {
+      "name": "Gaiety",
+      "link": "https://music.163.com/album?id=91960021"
+    }
+  },
+  {
+    "name": "Can't Help Falling In Love (DARK)",
+    "link": "https://music.163.com/song?id=1373145150",
+    "duration": "02:49",
+    "artists": [
+      {
+        "name": "Tommee Profitt",
+        "link": "https://music.163.com/artist?id=28975"
+      },
+      { "name": "Brooke", "link": "https://music.163.com/artist?id=202531" }
+    ],
+    "album": {
+      "name": "Can't Help Falling In Love",
+      "link": "https://music.163.com/album?id=79916725"
+    }
+  },
+  {
+    "name": "WRLDS",
+    "link": "https://music.163.com/song?id=1415072449",
+    "duration": "04:09",
+    "artists": [
+      { "name": "STA", "link": "https://music.163.com/artist?id=12035123" }
+    ],
+    "album": {
+      "name": "Worlds",
+      "link": "https://music.163.com/album?id=84813228"
+    }
+  },
+  {
+    "name": "Hope",
+    "link": "https://music.163.com/song?id=537278829",
+    "duration": "03:48",
+    "artists": [
+      { "name": "Inogg", "link": "https://music.163.com/artist?id=12643745" }
+    ],
+    "album": {
+      "name": "Hope",
+      "link": "https://music.163.com/album?id=37550630"
+    }
+  },
+  {
+    "name": "2019！(Instrumental)",
+    "link": "https://music.163.com/song?id=1344307036",
+    "duration": "02:18",
+    "artists": [
+      { "name": "李祥晖", "link": "https://music.163.com/artist?id=12483027" }
+    ],
+    "album": {
+      "name": "2019！(Instrumental)",
+      "link": "https://music.163.com/album?id=75421328"
+    }
+  },
+  {
+    "name": "Sdorica \"the Story Unfolds\"",
+    "link": "https://music.163.com/song?id=1445139782",
+    "duration": "02:01",
+    "artists": [
+      { "name": "Hoskey", "link": "https://music.163.com/artist?id=1135268" },
+      { "name": "RayRay", "link": "https://music.163.com/artist?id=33700610" }
+    ],
+    "album": {
+      "name": "Sdorica Sunset (Original Soundtrack, Vol. 1)",
+      "link": "https://music.163.com/album?id=88868547"
+    }
+  },
+  {
+    "name": "旅程",
+    "link": "https://music.163.com/song?id=519009829",
+    "duration": "03:24",
+    "artists": [
+      {
+        "name": "Austin Carl",
+        "link": "https://music.163.com/artist?id=12303121"
+      },
+      { "name": "OYRH", "link": "https://music.163.com/artist?id=12308092" }
+    ],
+    "album": {
+      "name": "旅程",
+      "link": "https://music.163.com/album?id=36790535"
+    }
+  },
+  {
+    "name": "Always Afternoon",
+    "link": "https://music.163.com/song?id=1469327796",
+    "duration": "02:41",
+    "artists": [
+      { "name": "Ivoris", "link": "https://music.163.com/artist?id=29403986" }
+    ],
+    "album": {
+      "name": "Always Afternoon",
+      "link": "https://music.163.com/album?id=93660342"
+    }
+  },
+  {
+    "name": "Not So Bad in LA",
+    "link": "https://music.163.com/song?id=1314126165",
+    "duration": "02:50",
+    "artists": [
+      { "name": "Allie X", "link": "https://music.163.com/artist?id=973030" }
+    ],
+    "album": {
+      "name": "Super Sunset",
+      "link": "https://music.163.com/album?id=73718954"
+    }
+  },
+  {
+    "name": "イチリンソウ",
+    "link": "https://music.163.com/song?id=1359263334",
+    "duration": "03:46",
+    "artists": [
+      { "name": "山本彩", "link": "https://music.163.com/artist?id=1188103" }
+    ],
+    "album": {
+      "name": "イチリンソウ",
+      "link": "https://music.163.com/album?id=78559723"
+    }
+  },
+  {
+    "name": "Oceans Brawl",
+    "link": "https://music.163.com/song?id=34228361",
+    "duration": "05:09",
+    "artists": [
+      {
+        "name": "Coeur de Pirate",
+        "link": "https://music.163.com/artist?id=50899"
+      }
+    ],
+    "album": {
+      "name": "Roses (Deluxe)",
+      "link": "https://music.163.com/album?id=3275671"
+    }
+  },
+  {
+    "name": "SUMIRE_02",
+    "link": "https://music.163.com/song?id=1452668341",
+    "duration": "02:02",
+    "artists": [
+      { "name": "mamomo", "link": "https://music.163.com/artist?id=159337" }
+    ],
+    "album": {
+      "name": "Paysage",
+      "link": "https://music.163.com/album?id=90276813"
+    }
+  },
+  {
+    "name": "Inside You - (日剧《丑闻专门律师QUEEN》片头曲:ドラマ『スキャンダル専門弁護士 QUEEN』オープニングテーマ)",
+    "link": "https://music.163.com/song?id=1345488418",
+    "duration": "03:40",
+    "artists": [
+      { "name": "milet", "link": "https://music.163.com/artist?id=31464106" }
+    ],
+    "album": {
+      "name": "inside you",
+      "link": "https://music.163.com/album?id=75771135"
+    }
+  },
+  {
+    "name": "For+",
+    "link": "https://music.163.com/song?id=22778081",
+    "duration": "04:32",
+    "artists": [
+      { "name": "AVTechNO!", "link": "https://music.163.com/artist?id=18535" },
+      {
+        "name": "ELECTROCUTICA",
+        "link": "https://music.163.com/artist?id=21960"
+      }
+    ],
+    "album": {
+      "name": "DYE SYNTHESIS -extended-",
+      "link": "https://music.163.com/album?id=2092810"
+    }
+  },
+  {
+    "name": "ヒカリ",
+    "link": "https://music.163.com/song?id=1805823160",
+    "duration": "04:05",
+    "artists": [
+      { "name": "幾田りら", "link": "https://music.163.com/artist?id=35488854" }
+    ],
+    "album": {
+      "name": "ヒカリ",
+      "link": "https://music.163.com/album?id=120688058"
+    }
+  },
+  {
+    "name": "La Vida Seguirá",
+    "link": "https://music.163.com/song?id=34033985",
+    "duration": "02:47",
+    "artists": [
+      {
+        "name": "Álvaro Soler",
+        "link": "https://music.163.com/artist?id=1078381"
+      }
+    ],
+    "album": {
+      "name": "Eterno Agosto (Standard Edition)",
+      "link": "https://music.163.com/album?id=3270588"
+    }
+  },
+  {
+    "name": "Spirits",
+    "link": "https://music.163.com/song?id=410338496",
+    "duration": "03:23",
+    "artists": [
+      {
+        "name": "The Strumbellas",
+        "link": "https://music.163.com/artist?id=847371"
+      }
+    ],
+    "album": {
+      "name": "Hope",
+      "link": "https://music.163.com/album?id=34504330"
+    }
+  },
+  {
+    "name": "What Are You Waiting For?",
+    "link": "https://music.163.com/song?id=29307037",
+    "duration": "03:40",
+    "artists": [
+      { "name": "Nickelback", "link": "https://music.163.com/artist?id=40422" }
+    ],
+    "album": {
+      "name": "What Are You Waiting For?",
+      "link": "https://music.163.com/album?id=3003012"
+    }
+  },
+  {
+    "name": "The Last Dancer",
+    "link": "https://music.163.com/song?id=546863698",
+    "duration": "03:30",
+    "artists": [
+      {
+        "name": "Armin van Buuren",
+        "link": "https://music.163.com/artist?id=27621"
+      },
+      { "name": "Shapov", "link": "https://music.163.com/artist?id=1058085" }
+    ],
+    "album": {
+      "name": "The Last Dancer",
+      "link": "https://music.163.com/album?id=37993430"
+    }
+  },
+  {
+    "name": "Edge Of My Life",
+    "link": "https://music.163.com/song?id=28878559",
+    "duration": "03:33",
+    "artists": [
+      { "name": "Manafest", "link": "https://music.163.com/artist?id=66455" }
+    ],
+    "album": {
+      "name": "The Moment ",
+      "link": "https://music.163.com/album?id=2919692"
+    }
+  },
+  {
+    "name": "The Sound of Silence",
+    "link": "https://music.163.com/song?id=445238199",
+    "duration": "03:05",
+    "artists": [
+      {
+        "name": "Simon & Garfunkel",
+        "link": "https://music.163.com/artist?id=185017"
+      }
+    ],
+    "album": {
+      "name": "The Origins",
+      "link": "https://music.163.com/album?id=35032052"
+    }
+  },
+  {
+    "name": "RADICAL DREAMERS",
+    "link": "https://music.163.com/song?id=35437037",
+    "duration": "05:27",
+    "artists": [
+      {
+        "name": "Sarah Alainn",
+        "link": "https://music.163.com/artist?id=1021295"
+      }
+    ],
+    "album": {
+      "name": "ハルカナルトキノカナタヘ",
+      "link": "https://music.163.com/album?id=3329005"
+    }
+  },
+  {
+    "name": "Wild Ones (feat. Ollie Wride)",
+    "link": "https://music.163.com/song?id=411907930",
+    "duration": "04:28",
+    "artists": [
+      { "name": "FM-84", "link": "https://music.163.com/artist?id=12046467" }
+    ],
+    "album": {
+      "name": "Atlas",
+      "link": "https://music.163.com/album?id=34686652"
+    }
+  },
+  {
+    "name": "Labyrinth",
+    "link": "https://music.163.com/song?id=29144541",
+    "duration": "03:30",
+    "artists": [
+      {
+        "name": "Astronauts, etc.",
+        "link": "https://music.163.com/artist?id=742424"
+      }
+    ],
+    "album": {
+      "name": "Supermelodic Pulp",
+      "link": "https://music.163.com/album?id=2994575"
+    }
+  },
+  {
+    "name": "in the rain-Acoustic ver.-",
+    "link": "https://music.163.com/song?id=524408543",
+    "duration": "05:23",
+    "artists": [
+      { "name": "Haguki", "link": "https://music.163.com/artist?id=12943142" }
+    ],
+    "album": {
+      "name": "in the rain-Acoustic-",
+      "link": "https://music.163.com/album?id=36988132"
+    }
+  },
+  {
+    "name": "Memory",
+    "link": "https://music.163.com/song?id=29950675",
+    "duration": "03:44",
+    "artists": [
+      { "name": "SizzleBird", "link": "https://music.163.com/artist?id=742310" }
+    ],
+    "album": {
+      "name": "Memory",
+      "link": "https://music.163.com/album?id=3089082"
+    }
+  },
+  {
+    "name": "Ring A Bell",
+    "link": "https://music.163.com/song?id=27080389",
+    "duration": "05:17",
+    "artists": [
+      {
+        "name": "Noah Gundersen",
+        "link": "https://music.163.com/artist?id=97907"
+      }
+    ],
+    "album": {
+      "name": "Saints & Liars",
+      "link": "https://music.163.com/album?id=2585123"
+    }
+  }
+]

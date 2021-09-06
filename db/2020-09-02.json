@@ -1,0 +1,489 @@
+[
+  {
+    "name": "I'm Not",
+    "link": "https://music.163.com/song?id=1394369412",
+    "duration": "02:58",
+    "artists": [
+      {
+        "name": "Lena Leon",
+        "link": "https://music.163.com/artist?id=14537825"
+      }
+    ],
+    "album": {
+      "name": "I'm Not",
+      "link": "https://music.163.com/album?id=82076580"
+    }
+  },
+  {
+    "name": "Would You Wait for Me (Arty Violin Remix)",
+    "link": "https://music.163.com/song?id=1440400794",
+    "duration": "03:47",
+    "artists": [
+      {
+        "name": "Max Oazo",
+        "link": "https://music.163.com/artist?id=13159084"
+      },
+      {
+        "name": "Arty Violin",
+        "link": "https://music.163.com/artist?id=36321943"
+      }
+    ],
+    "album": {
+      "name": "Would You Wait for Me (Arty Violin Remix)",
+      "link": "https://music.163.com/album?id=87967833"
+    }
+  },
+  {
+    "name": "Wasted Summer",
+    "link": "https://music.163.com/song?id=1418275106",
+    "duration": "02:49",
+    "artists": [
+      {
+        "name": "teamwork.",
+        "link": "https://music.163.com/artist?id=32284518"
+      },
+      { "name": "Loote", "link": "https://music.163.com/artist?id=12408152" },
+      { "name": "JOHN.k", "link": "https://music.163.com/artist?id=12931567" }
+    ],
+    "album": {
+      "name": "Wasted Summer",
+      "link": "https://music.163.com/album?id=85143847"
+    }
+  },
+  {
+    "name": "Save You",
+    "link": "https://music.163.com/song?id=1435897501",
+    "duration": "02:56",
+    "artists": [
+      { "name": "Sabai", "link": "https://music.163.com/artist?id=32093901" },
+      { "name": "Kermode", "link": "https://music.163.com/artist?id=11998052" }
+    ],
+    "album": {
+      "name": "Save You",
+      "link": "https://music.163.com/album?id=87139275"
+    }
+  },
+  {
+    "name": "Midnight Sun",
+    "link": "https://music.163.com/song?id=1450044624",
+    "duration": "02:32",
+    "artists": [
+      {
+        "name": "Mike Perry",
+        "link": "https://music.163.com/artist?id=195021"
+      },
+      {
+        "name": "Forgét Mej",
+        "link": "https://music.163.com/artist?id=35261264"
+      }
+    ],
+    "album": {
+      "name": "Midnight Sun",
+      "link": "https://music.163.com/album?id=89799234"
+    }
+  },
+  {
+    "name": "In Your Head",
+    "link": "https://music.163.com/song?id=1432936294",
+    "duration": "03:19",
+    "artists": [
+      { "name": "Kosling", "link": "https://music.163.com/artist?id=29289583" },
+      { "name": "CHRNS", "link": "https://music.163.com/artist?id=12945477" }
+    ],
+    "album": {
+      "name": "In Your Head",
+      "link": "https://music.163.com/album?id=86731559"
+    }
+  },
+  {
+    "name": "I Cried At The Rave",
+    "link": "https://music.163.com/song?id=1415743881",
+    "duration": "02:37",
+    "artists": [
+      {
+        "name": "Sonny Alven",
+        "link": "https://music.163.com/artist?id=1102253"
+      },
+      { "name": "Mags", "link": "https://music.163.com/artist?id=15323406" }
+    ],
+    "album": {
+      "name": "I Cried At The Rave",
+      "link": "https://music.163.com/album?id=84894807"
+    }
+  },
+  {
+    "name": "Die in Your Arms",
+    "link": "https://music.163.com/song?id=1438579512",
+    "duration": "02:49",
+    "artists": [
+      { "name": "Zeper", "link": "https://music.163.com/artist?id=12086179" },
+      {
+        "name": "Alex France",
+        "link": "https://music.163.com/artist?id=30009805"
+      }
+    ],
+    "album": {
+      "name": "Die in Your Arms",
+      "link": "https://music.163.com/album?id=87752013"
+    }
+  },
+  {
+    "name": "Doubt You",
+    "link": "https://music.163.com/song?id=1418253725",
+    "duration": "04:04",
+    "artists": [
+      { "name": "Rival", "link": "https://music.163.com/artist?id=12741030" },
+      { "name": "Cadmium", "link": "https://music.163.com/artist?id=12945908" },
+      {
+        "name": "Natalie Holmes",
+        "link": "https://music.163.com/artist?id=14493769"
+      }
+    ],
+    "album": {
+      "name": "Doubt You",
+      "link": "https://music.163.com/album?id=85142117"
+    }
+  },
+  {
+    "name": "Riot",
+    "link": "https://music.163.com/song?id=1448130485",
+    "duration": "03:10",
+    "artists": [
+      { "name": "Arcando", "link": "https://music.163.com/artist?id=11975134" },
+      { "name": "Trove", "link": "https://music.163.com/artist?id=12390270" }
+    ],
+    "album": {
+      "name": "Riot",
+      "link": "https://music.163.com/album?id=89452254"
+    }
+  },
+  {
+    "name": "Voices In My Head",
+    "link": "https://music.163.com/song?id=1459977157",
+    "duration": "02:22",
+    "artists": [
+      { "name": "Castion", "link": "https://music.163.com/artist?id=27687018" }
+    ],
+    "album": {
+      "name": "Voices In My Head",
+      "link": "https://music.163.com/album?id=91892123"
+    }
+  },
+  {
+    "name": "Concrete Angel (MitiS Remix)",
+    "link": "https://music.163.com/song?id=535685788",
+    "duration": "03:31",
+    "artists": [
+      {
+        "name": "Christina Novelli",
+        "link": "https://music.163.com/artist?id=840292"
+      },
+      {
+        "name": "Gareth Emery",
+        "link": "https://music.163.com/artist?id=34318"
+      },
+      { "name": "MitiS", "link": "https://music.163.com/artist?id=40245" }
+    ],
+    "album": {
+      "name": "Concrete Angel",
+      "link": "https://music.163.com/album?id=37525589"
+    }
+  },
+  {
+    "name": "Erase",
+    "link": "https://music.163.com/song?id=1328289749",
+    "duration": "03:31",
+    "artists": [
+      { "name": "FRND", "link": "https://music.163.com/artist?id=12107565" }
+    ],
+    "album": {
+      "name": "Before U I Didn't Exist",
+      "link": "https://music.163.com/album?id=74585433"
+    }
+  },
+  {
+    "name": "I Need You More Than You Want Me",
+    "link": "https://music.163.com/song?id=1389093122",
+    "duration": "02:28",
+    "artists": [
+      {
+        "name": "Fly by Midnight",
+        "link": "https://music.163.com/artist?id=1163027"
+      }
+    ],
+    "album": {
+      "name": "I Need You More Than You Want Me",
+      "link": "https://music.163.com/album?id=81410625"
+    }
+  },
+  {
+    "name": "Magical",
+    "link": "https://music.163.com/song?id=1387737226",
+    "duration": "02:54",
+    "artists": [
+      {
+        "name": "Timmo Hendriks",
+        "link": "https://music.163.com/artist?id=1146077"
+      },
+      {
+        "name": "Lindequist",
+        "link": "https://music.163.com/artist?id=1132958"
+      },
+      { "name": "Robin Vane", "link": "https://music.163.com/artist?id=860213" }
+    ],
+    "album": {
+      "name": "Magical",
+      "link": "https://music.163.com/album?id=81273874"
+    }
+  },
+  {
+    "name": "Jealous",
+    "link": "https://music.163.com/song?id=523001618",
+    "duration": "03:43",
+    "artists": [
+      { "name": "Faustix", "link": "https://music.163.com/artist?id=1155054" }
+    ],
+    "album": {
+      "name": "Faustix",
+      "link": "https://music.163.com/album?id=36900296"
+    }
+  },
+  {
+    "name": "Stand By You",
+    "link": "https://music.163.com/song?id=1418382140",
+    "duration": "03:10",
+    "artists": [
+      {
+        "name": "Jac & Harri",
+        "link": "https://music.163.com/artist?id=12776287"
+      },
+      {
+        "name": "Bailey Coats",
+        "link": "https://music.163.com/artist?id=31888376"
+      }
+    ],
+    "album": {
+      "name": "Stand By You",
+      "link": "https://music.163.com/album?id=85158501"
+    }
+  },
+  {
+    "name": "Coming Up",
+    "link": "https://music.163.com/song?id=511678789",
+    "duration": "02:55",
+    "artists": [
+      {
+        "name": "Victor Crone",
+        "link": "https://music.163.com/artist?id=1081705"
+      },
+      {
+        "name": "Tungevaag & Raaban",
+        "link": "https://music.163.com/artist?id=1090022"
+      }
+    ],
+    "album": {
+      "name": "Coming Up",
+      "link": "https://music.163.com/album?id=36320948"
+    }
+  },
+  {
+    "name": "Kodak & Codeine",
+    "link": "https://music.163.com/song?id=1420908221",
+    "duration": "02:58",
+    "artists": [
+      { "name": "SKOTT", "link": "https://music.163.com/artist?id=12061139" }
+    ],
+    "album": {
+      "name": "Kodak & Codeine",
+      "link": "https://music.163.com/album?id=85463487"
+    }
+  },
+  {
+    "name": "Curse",
+    "link": "https://music.163.com/song?id=1378773135",
+    "duration": "02:44",
+    "artists": [
+      { "name": "Adam Rom", "link": "https://music.163.com/artist?id=32213559" }
+    ],
+    "album": {
+      "name": "Curse",
+      "link": "https://music.163.com/album?id=80479681"
+    }
+  },
+  {
+    "name": "Crashing Down",
+    "link": "https://music.163.com/song?id=1424191052",
+    "duration": "02:55",
+    "artists": [
+      { "name": "MKJ", "link": "https://music.163.com/artist?id=469200" },
+      {
+        "name": "No ExpressioN",
+        "link": "https://music.163.com/artist?id=30121790"
+      },
+      {
+        "name": "Spinner Sunny",
+        "link": "https://music.163.com/artist?id=34284557"
+      }
+    ],
+    "album": {
+      "name": "Crashing Down",
+      "link": "https://music.163.com/album?id=85812486"
+    }
+  },
+  {
+    "name": "Missing You (feat. Abby) [Suprafive Remix]",
+    "link": "https://music.163.com/song?id=1371441372",
+    "duration": "03:23",
+    "artists": [
+      {
+        "name": "Anthony Keyrouz",
+        "link": "https://music.163.com/artist?id=12203139"
+      },
+      { "name": "Abby", "link": "https://music.163.com/artist?id=235963" },
+      { "name": "Suprafive", "link": "https://music.163.com/artist?id=1022142" }
+    ],
+    "album": {
+      "name": "Missing You (Suprafive Remix)",
+      "link": "https://music.163.com/album?id=79759489"
+    }
+  },
+  {
+    "name": "Turn Back Time",
+    "link": "https://music.163.com/song?id=1331800077",
+    "duration": "03:09",
+    "artists": [
+      {
+        "name": "Rich Edwards",
+        "link": "https://music.163.com/artist?id=1038214"
+      },
+      { "name": "Emelie", "link": "https://music.163.com/artist?id=15352429" }
+    ],
+    "album": {
+      "name": "Turn Back Time",
+      "link": "https://music.163.com/album?id=74808833"
+    }
+  },
+  {
+    "name": "Fight",
+    "link": "https://music.163.com/song?id=1412523959",
+    "duration": "03:04",
+    "artists": [
+      { "name": "DEAMN", "link": "https://music.163.com/artist?id=12047335" }
+    ],
+    "album": {
+      "name": "Frozen",
+      "link": "https://music.163.com/album?id=84552036"
+    }
+  },
+  {
+    "name": "Come My Way",
+    "link": "https://music.163.com/song?id=1446395314",
+    "duration": "02:28",
+    "artists": [
+      { "name": "JLV", "link": "https://music.163.com/artist?id=12335463" },
+      {
+        "name": "Jawedsway",
+        "link": "https://music.163.com/artist?id=31256404"
+      },
+      {
+        "name": "Jerry Island",
+        "link": "https://music.163.com/artist?id=30173784"
+      }
+    ],
+    "album": {
+      "name": "Come My Way",
+      "link": "https://music.163.com/album?id=89122051"
+    }
+  },
+  {
+    "name": "Don't Call Me Crazy (Suprafive & Creative Ades Remix)",
+    "link": "https://music.163.com/song?id=1433454305",
+    "duration": "02:57",
+    "artists": [
+      { "name": "Ashlee", "link": "https://music.163.com/artist?id=32061404" },
+      {
+        "name": "Suprafive",
+        "link": "https://music.163.com/artist?id=1022142"
+      },
+      {
+        "name": "Creative Ades",
+        "link": "https://music.163.com/artist?id=15092279"
+      }
+    ],
+    "album": {
+      "name": "Don't Call Me Crazy (Suprafive & Creative Ades Remix)",
+      "link": "https://music.163.com/album?id=86779377"
+    }
+  },
+  {
+    "name": "Alone, Pt. II (RetroVision Remix)",
+    "link": "https://music.163.com/song?id=1422840655",
+    "duration": "03:50",
+    "artists": [
+      {
+        "name": "Alan Walker",
+        "link": "https://music.163.com/artist?id=1045123"
+      },
+      { "name": "Ava Max", "link": "https://music.163.com/artist?id=14486166" },
+      {
+        "name": "RetroVision",
+        "link": "https://music.163.com/artist?id=11976142"
+      }
+    ],
+    "album": {
+      "name": "Alone, Pt. II (Remixes)",
+      "link": "https://music.163.com/album?id=85670574"
+    }
+  },
+  {
+    "name": "are you sure?",
+    "link": "https://music.163.com/song?id=1371712205",
+    "duration": "03:24",
+    "artists": [
+      { "name": "Loote", "link": "https://music.163.com/artist?id=12408152" }
+    ],
+    "album": {
+      "name": "lost",
+      "link": "https://music.163.com/album?id=79787129"
+    }
+  },
+  {
+    "name": "Alien",
+    "link": "https://music.163.com/song?id=447281066",
+    "duration": "02:49",
+    "artists": [
+      { "name": "Omnia", "link": "https://music.163.com/artist?id=179006" }
+    ],
+    "album": {
+      "name": "A State Of Trance Year Mix 2016",
+      "link": "https://music.163.com/album?id=35012885"
+    }
+  },
+  {
+    "name": "Nightlight",
+    "link": "https://music.163.com/song?id=1474018731",
+    "duration": "03:42",
+    "artists": [
+      { "name": "ILLENIUM", "link": "https://music.163.com/artist?id=1050518" }
+    ],
+    "album": {
+      "name": "Nightlight",
+      "link": "https://music.163.com/album?id=94488272"
+    }
+  },
+  {
+    "name": "Don't Throw it Away",
+    "link": "https://music.163.com/song?id=1370200925",
+    "duration": "02:52",
+    "artists": [
+      {
+        "name": "Jonas Brothers",
+        "link": "https://music.163.com/artist?id=94966"
+      }
+    ],
+    "album": {
+      "name": "Happiness Begins",
+      "link": "https://music.163.com/album?id=79648295"
+    }
+  }
+]

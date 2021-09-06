@@ -1,0 +1,438 @@
+[
+  {
+    "name": "Takin' Back My Love (Main Version)",
+    "link": "https://music.163.com/song?id=1297159",
+    "duration": "03:50",
+    "artists": [
+      {
+        "name": "Enrique Iglesias",
+        "link": "https://music.163.com/artist?id=32662"
+      },
+      { "name": "Ciara", "link": "https://music.163.com/artist?id=50897" }
+    ],
+    "album": {
+      "name": "Takin' Back My Love",
+      "link": "https://music.163.com/album?id=133817"
+    }
+  },
+  {
+    "name": "Brave",
+    "link": "https://music.163.com/song?id=18801783",
+    "duration": "04:13",
+    "artists": [
+      {
+        "name": "Jennifer Lopez",
+        "link": "https://music.163.com/artist?id=60932"
+      }
+    ],
+    "album": {
+      "name": "Brave",
+      "link": "https://music.163.com/album?id=1721966"
+    }
+  },
+  {
+    "name": "Pam Pam",
+    "link": "https://music.163.com/song?id=29498812",
+    "duration": "03:15",
+    "artists": [
+      { "name": "Noel Toto", "link": "https://music.163.com/artist?id=1019797" }
+    ],
+    "album": {
+      "name": "Pam Pam",
+      "link": "https://music.163.com/album?id=3029784"
+    }
+  },
+  {
+    "name": "Cry For You",
+    "link": "https://music.163.com/song?id=3417837",
+    "duration": "03:29",
+    "artists": [
+      { "name": "September", "link": "https://music.163.com/artist?id=74718" }
+    ],
+    "album": {
+      "name": "Dancing Shoes",
+      "link": "https://music.163.com/album?id=346259"
+    }
+  },
+  {
+    "name": "Rocking on the Floor (Radio Mix)",
+    "link": "https://music.163.com/song?id=31134500",
+    "duration": "03:54",
+    "artists": [
+      {
+        "name": "Christian Tanz",
+        "link": "https://music.163.com/artist?id=1054122"
+      }
+    ],
+    "album": {
+      "name": "Rocking on the Floor",
+      "link": "https://music.163.com/album?id=3112358"
+    }
+  },
+  {
+    "name": "Wake",
+    "link": "https://music.163.com/song?id=34218286",
+    "duration": "03:20",
+    "artists": [
+      { "name": "Wisp X", "link": "https://music.163.com/artist?id=1046123" }
+    ],
+    "album": {
+      "name": "Wake",
+      "link": "https://music.163.com/album?id=3275467"
+    }
+  },
+  {
+    "name": "Driving Home for Christmas",
+    "link": "https://music.163.com/song?id=440310367",
+    "duration": "02:54",
+    "artists": [
+      {
+        "name": "Campsite Dream",
+        "link": "https://music.163.com/artist?id=1146068"
+      }
+    ],
+    "album": {
+      "name": "Driving Home for Christmas",
+      "link": "https://music.163.com/album?id=34970374"
+    }
+  },
+  {
+    "name": "Everything",
+    "link": "https://music.163.com/song?id=536624047",
+    "duration": "02:53",
+    "artists": [
+      { "name": "Firebeatz", "link": "https://music.163.com/artist?id=702005" },
+      {
+        "name": "Peppermint",
+        "link": "https://music.163.com/artist?id=12885527"
+      },
+      {
+        "name": "Aidan O'Brien",
+        "link": "https://music.163.com/artist?id=13372303"
+      }
+    ],
+    "album": {
+      "name": "Everything",
+      "link": "https://music.163.com/album?id=37577027"
+    }
+  },
+  {
+    "name": "Ohlala",
+    "link": "https://music.163.com/song?id=540333226",
+    "duration": "03:01",
+    "artists": [
+      { "name": "Mr. DA-NOS", "link": "https://music.163.com/artist?id=544019" }
+    ],
+    "album": {
+      "name": "Ohlala",
+      "link": "https://music.163.com/album?id=37561769"
+    }
+  },
+  {
+    "name": "Where Have You Gone (Anywhere)",
+    "link": "https://music.163.com/song?id=1312710726",
+    "duration": "02:38",
+    "artists": [
+      {
+        "name": "Lucas & Steve",
+        "link": "https://music.163.com/artist?id=1039527"
+      }
+    ],
+    "album": {
+      "name": "Where Have You Gone (Anywhere)",
+      "link": "https://music.163.com/album?id=73606555"
+    }
+  },
+  {
+    "name": "Love Games (feat. Olivia Addams)",
+    "link": "https://music.163.com/song?id=1375491585",
+    "duration": "03:00",
+    "artists": [
+      {
+        "name": "Alex Parker",
+        "link": "https://music.163.com/artist?id=280735"
+      },
+      {
+        "name": "Olivia Addams",
+        "link": "https://music.163.com/artist?id=28657767"
+      }
+    ],
+    "album": {
+      "name": "Love Games (feat. Olivia Addams)",
+      "link": "https://music.163.com/album?id=80152372"
+    }
+  },
+  {
+    "name": "Wrecking Ball",
+    "link": "https://music.163.com/song?id=17721274",
+    "duration": "03:23",
+    "artists": [
+      { "name": "Frankmusik", "link": "https://music.163.com/artist?id=33368" }
+    ],
+    "album": {
+      "name": "Do It In The AM",
+      "link": "https://music.163.com/album?id=1631613"
+    }
+  },
+  {
+    "name": "incipient",
+    "link": "https://music.163.com/song?id=866247124",
+    "duration": "01:05",
+    "artists": [
+      { "name": "Ryan有光", "link": "https://music.163.com/artist?id=12185226" }
+    ],
+    "album": {
+      "name": "Resistant.",
+      "link": "https://music.163.com/album?id=71775480"
+    }
+  },
+  {
+    "name": "Maybe",
+    "link": "https://music.163.com/song?id=1318522028",
+    "duration": "02:33",
+    "artists": [
+      { "name": "Janieck", "link": "https://music.163.com/artist?id=12132070" },
+      { "name": "Bunt.", "link": "https://music.163.com/artist?id=744145" }
+    ],
+    "album": {
+      "name": "Maybe",
+      "link": "https://music.163.com/album?id=73950414"
+    }
+  },
+  {
+    "name": "Dirty Water",
+    "link": "https://music.163.com/song?id=1307399550",
+    "duration": "03:51",
+    "artists": [
+      {
+        "name": "The Outdoor Type",
+        "link": "https://music.163.com/artist?id=1050513"
+      }
+    ],
+    "album": {
+      "name": "Dirty Water",
+      "link": "https://music.163.com/album?id=72986751"
+    }
+  },
+  {
+    "name": "Something More",
+    "link": "https://music.163.com/song?id=464674246",
+    "duration": "03:21",
+    "artists": [
+      { "name": "Ralph", "link": "https://music.163.com/artist?id=12049282" }
+    ],
+    "album": {
+      "name": "Ralph",
+      "link": "https://music.163.com/album?id=35261060"
+    }
+  },
+  {
+    "name": "我也不知道",
+    "link": "https://music.163.com/song?id=165355",
+    "duration": "03:48",
+    "artists": [
+      { "name": "汪苏泷", "link": "https://music.163.com/artist?id=5538" }
+    ],
+    "album": {
+      "name": "好安静",
+      "link": "https://music.163.com/album?id=16608"
+    }
+  },
+  {
+    "name": "None Of My Business",
+    "link": "https://music.163.com/song?id=1318822532",
+    "duration": "03:04",
+    "artists": [
+      { "name": "Cher Lloyd", "link": "https://music.163.com/artist?id=53041" }
+    ],
+    "album": {
+      "name": "None Of My Business",
+      "link": "https://music.163.com/album?id=73978749"
+    }
+  },
+  {
+    "name": "Out My Mind (Club Mix)",
+    "link": "https://music.163.com/song?id=552430438",
+    "duration": "04:00",
+    "artists": [
+      { "name": "Tritonal", "link": "https://music.163.com/artist?id=104133" },
+      {
+        "name": "Riley Clemmons",
+        "link": "https://music.163.com/artist?id=12926023"
+      }
+    ],
+    "album": {
+      "name": "Out My Mind (Club Mix)",
+      "link": "https://music.163.com/album?id=38307220"
+    }
+  },
+  {
+    "name": "Where The Lights Are (Original Mix)",
+    "link": "https://music.163.com/song?id=33789858",
+    "duration": "03:56",
+    "artists": [
+      { "name": "Arston", "link": "https://music.163.com/artist?id=776576" },
+      {
+        "name": "Christian Burns",
+        "link": "https://music.163.com/artist?id=658096"
+      }
+    ],
+    "album": {
+      "name": "Where The Lights Are",
+      "link": "https://music.163.com/album?id=3263303"
+    }
+  },
+  {
+    "name": "Together Now",
+    "link": "https://music.163.com/song?id=864639378",
+    "duration": "03:34",
+    "artists": [
+      {
+        "name": "Arc North",
+        "link": "https://music.163.com/artist?id=1137410"
+      },
+      {
+        "name": "Polarbearz",
+        "link": "https://music.163.com/artist?id=12843558"
+      },
+      {
+        "name": "Camilla Neideman",
+        "link": "https://music.163.com/artist?id=29192364"
+      }
+    ],
+    "album": {
+      "name": "Together Now",
+      "link": "https://music.163.com/album?id=71613337"
+    }
+  },
+  {
+    "name": "With You",
+    "link": "https://music.163.com/song?id=1318620393",
+    "duration": "02:34",
+    "artists": [
+      { "name": "Mokita", "link": "https://music.163.com/artist?id=12033046" }
+    ],
+    "album": {
+      "name": "With You",
+      "link": "https://music.163.com/album?id=73960992"
+    }
+  },
+  {
+    "name": "All About Us",
+    "link": "https://music.163.com/song?id=4108623",
+    "duration": "03:26",
+    "artists": [
+      {
+        "name": "He Is We",
+        "link": "https://music.163.com/artist?id=15024219"
+      },
+      { "name": "Owl City", "link": "https://music.163.com/artist?id=40859" },
+      { "name": "Adam Young", "link": "https://music.163.com/artist?id=191571" }
+    ],
+    "album": {
+      "name": "All About Us",
+      "link": "https://music.163.com/album?id=415423"
+    }
+  },
+  {
+    "name": "Chase You Down",
+    "link": "https://music.163.com/song?id=30987291",
+    "duration": "03:48",
+    "artists": [
+      { "name": "tyDi", "link": "https://music.163.com/artist?id=45044" },
+      { "name": "Runaground", "link": "https://music.163.com/artist?id=945002" }
+    ],
+    "album": {
+      "name": "Chase You Down",
+      "link": "https://music.163.com/album?id=3109052"
+    }
+  },
+  {
+    "name": "Time Traveller",
+    "link": "https://music.163.com/song?id=1387878319",
+    "duration": "04:00",
+    "artists": [
+      { "name": "闹闹丶", "link": "https://music.163.com/artist?id=12357233" },
+      { "name": "洛天依", "link": "https://music.163.com/artist?id=906118" }
+    ],
+    "album": {
+      "name": "Time Traveller",
+      "link": "https://music.163.com/album?id=81266778"
+    }
+  },
+  {
+    "name": "This Life (Janji Bootleg)",
+    "link": "https://music.163.com/song?id=404744065",
+    "duration": "03:28",
+    "artists": [
+      { "name": "Janji", "link": "https://music.163.com/artist?id=1032229" }
+    ],
+    "album": {
+      "name": "This Life (Janji Bootleg)",
+      "link": "https://music.163.com/album?id=34525027"
+    }
+  },
+  {
+    "name": "Confidence",
+    "link": "https://music.163.com/song?id=569105338",
+    "duration": "03:43",
+    "artists": [
+      { "name": "Gjan", "link": "https://music.163.com/artist?id=851014" }
+    ],
+    "album": {
+      "name": "Confidence",
+      "link": "https://music.163.com/album?id=39391227"
+    }
+  },
+  {
+    "name": "Don't Touch the Ground",
+    "link": "https://music.163.com/song?id=1316563714",
+    "duration": "03:03",
+    "artists": [
+      { "name": "Foria", "link": "https://music.163.com/artist?id=1181950" }
+    ],
+    "album": {
+      "name": "Don't Touch the Ground",
+      "link": "https://music.163.com/album?id=73468366"
+    }
+  },
+  {
+    "name": "Never Fade Away (Original Mix)",
+    "link": "https://music.163.com/song?id=18633982",
+    "duration": "05:00",
+    "artists": [
+      {
+        "name": "John O'Callaghan",
+        "link": "https://music.163.com/artist?id=36845"
+      }
+    ],
+    "album": {
+      "name": "Never Fade Away",
+      "link": "https://music.163.com/album?id=1709503"
+    }
+  },
+  {
+    "name": "逆时针向 - 夏新晨 (冷魚 Remix)",
+    "link": "https://music.163.com/song?id=498631835",
+    "duration": "02:50",
+    "artists": [
+      { "name": "冷魚", "link": "https://music.163.com/artist?id=12090271" }
+    ],
+    "album": {
+      "name": "夏新晨 (冷魚 Remix)",
+      "link": "https://music.163.com/album?id=35945375"
+    }
+  },
+  {
+    "name": "Running In The Night (feat. Ollie Wride)",
+    "link": "https://music.163.com/song?id=411921883",
+    "duration": "04:30",
+    "artists": [
+      { "name": "FM-84", "link": "https://music.163.com/artist?id=12046467" }
+    ],
+    "album": {
+      "name": "Atlas",
+      "link": "https://music.163.com/album?id=34686652"
+    }
+  }
+]

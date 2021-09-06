@@ -1,0 +1,433 @@
+[
+  {
+    "name": "リセット - (TV动画《强风吹拂》ED)",
+    "link": "https://music.163.com/song?id=1311347602",
+    "duration": "04:09",
+    "artists": [
+      { "name": "向井太一", "link": "https://music.163.com/artist?id=12192084" }
+    ],
+    "album": {
+      "name": "リセット",
+      "link": "https://music.163.com/album?id=73467802"
+    }
+  },
+  {
+    "name": "Best of my Love - (宇宙战舰大和号2199 ED2)",
+    "link": "https://music.163.com/song?id=29460679",
+    "duration": "05:44",
+    "artists": [
+      { "name": "安田レイ", "link": "https://music.163.com/artist?id=787220" }
+    ],
+    "album": {
+      "name": "Will",
+      "link": "https://music.163.com/album?id=3017168"
+    }
+  },
+  {
+    "name": "再会 (produced by Ayase)",
+    "link": "https://music.163.com/song?id=1492062605",
+    "duration": "04:02",
+    "artists": [
+      { "name": "LiSA", "link": "https://music.163.com/artist?id=16995" },
+      { "name": "Uru", "link": "https://music.163.com/artist?id=12062125" }
+    ],
+    "album": {
+      "name": "再会 (produced by Ayase)",
+      "link": "https://music.163.com/album?id=97723881"
+    }
+  },
+  {
+    "name": "X.U. - (TV动画《终结的炽天使》OP1)",
+    "link": "https://music.163.com/song?id=32102071",
+    "duration": "04:45",
+    "artists": [
+      {
+        "name": "R!N/Gemie",
+        "link": "https://music.163.com/artist?id=12531080"
+      },
+      {
+        "name": "SawanoHiroyuki[nZk]",
+        "link": "https://music.163.com/artist?id=1096011"
+      }
+    ],
+    "album": {
+      "name": "X.U. / scaPEGoat",
+      "link": "https://music.163.com/album?id=3152214"
+    }
+  },
+  {
+    "name": "Sing My Pleasure - (TV动画《Vivy -Fluorite Eye's Song-》片头曲)",
+    "link": "https://music.163.com/song?id=1835620512",
+    "duration": "04:49",
+    "artists": [
+      { "name": "八木海莉", "link": "https://music.163.com/artist?id=47426916" }
+    ],
+    "album": {
+      "name": "Sing My Pleasure",
+      "link": "https://music.163.com/album?id=125705761"
+    }
+  },
+  {
+    "name": "A/Z - (TV动画《ALDNOAH.ZERO》ED1:TVアニメ「アルドノア・ゼロ」ED1)",
+    "link": "https://music.163.com/song?id=29027056",
+    "duration": "05:17",
+    "artists": [
+      {
+        "name": "mizuki (瑞葵)",
+        "link": "https://music.163.com/artist?id=981205"
+      },
+      {
+        "name": "SawanoHiroyuki[nZk]",
+        "link": "https://music.163.com/artist?id=1096011"
+      }
+    ],
+    "album": {
+      "name": "A/Z | aLIEz",
+      "link": "https://music.163.com/album?id=2982127"
+    }
+  },
+  {
+    "name": "Dear Mr 「F」",
+    "link": "https://music.163.com/song?id=1399788801",
+    "duration": "05:26",
+    "artists": [
+      {
+        "name": "ずっと真夜中でいいのに。",
+        "link": "https://music.163.com/artist?id=15021101"
+      }
+    ],
+    "album": {
+      "name": "潜潜話",
+      "link": "https://music.163.com/album?id=82815921"
+    }
+  },
+  {
+    "name": "HEADHUNT - (TV动画《无头骑士异闻录第二季》片头曲)",
+    "link": "https://music.163.com/song?id=30064458",
+    "duration": "04:29",
+    "artists": [
+      { "name": "OKAMOTO'S", "link": "https://music.163.com/artist?id=20920" }
+    ],
+    "album": {
+      "name": "HEADHUNT",
+      "link": "https://music.163.com/album?id=3093070"
+    }
+  },
+  {
+    "name": "Headlight",
+    "link": "https://music.163.com/song?id=776782",
+    "duration": "05:21",
+    "artists": [
+      {
+        "name": "MONKEY MAJIK",
+        "link": "https://music.163.com/artist?id=20453"
+      }
+    ],
+    "album": {
+      "name": "Headlight",
+      "link": "https://music.163.com/album?id=76576"
+    }
+  },
+  {
+    "name": "Eugene",
+    "link": "https://music.163.com/song?id=1821439494",
+    "duration": "02:26",
+    "artists": [
+      { "name": "风徙", "link": "https://music.163.com/artist?id=32549226" }
+    ],
+    "album": {
+      "name": "DREAMMATE",
+      "link": "https://music.163.com/album?id=123230231"
+    }
+  },
+  {
+    "name": "Missing You",
+    "link": "https://music.163.com/song?id=420513450",
+    "duration": "04:20",
+    "artists": [
+      {
+        "name": "MY FIRST STORY",
+        "link": "https://music.163.com/artist?id=20689"
+      }
+    ],
+    "album": {
+      "name": "ANTITHESE",
+      "link": "https://music.163.com/album?id=34767106"
+    }
+  },
+  {
+    "name": "DeadRock",
+    "link": "https://music.163.com/song?id=1485814156",
+    "duration": "04:36",
+    "artists": [
+      { "name": "みゆな", "link": "https://music.163.com/artist?id=30110388" }
+    ],
+    "album": {
+      "name": "reply",
+      "link": "https://music.163.com/album?id=97276971"
+    }
+  },
+  {
+    "name": "ギラギラ",
+    "link": "https://music.163.com/song?id=1820266508",
+    "duration": "04:36",
+    "artists": [
+      { "name": "Ado", "link": "https://music.163.com/artist?id=37231059" }
+    ],
+    "album": {
+      "name": "ギラギラ",
+      "link": "https://music.163.com/album?id=123061546"
+    }
+  },
+  {
+    "name": "星が降るユメ - (TV动画《Fate/Grand Order 绝对魔兽战线 巴比伦尼亚》片尾曲)",
+    "link": "https://music.163.com/song?id=1398447392",
+    "duration": "04:08",
+    "artists": [
+      { "name": "藍井エイル", "link": "https://music.163.com/artist?id=16151" }
+    ],
+    "album": {
+      "name": "星が降るユメ",
+      "link": "https://music.163.com/album?id=82619167"
+    }
+  },
+  {
+    "name": "Wavelet",
+    "link": "https://music.163.com/song?id=1470986113",
+    "duration": "02:34",
+    "artists": [
+      { "name": "春野", "link": "https://music.163.com/artist?id=30074584" }
+    ],
+    "album": {
+      "name": "IS SHE ANYBODY?",
+      "link": "https://music.163.com/album?id=93950675"
+    }
+  },
+  {
+    "name": "EXIT - (TV动画《无头骑士异闻录×2 转》片尾曲 )",
+    "link": "https://music.163.com/song?id=33728079",
+    "duration": "03:38",
+    "artists": [
+      { "name": "REVALCY", "link": "https://music.163.com/artist?id=1033017" }
+    ],
+    "album": {
+      "name": "EXIT",
+      "link": "https://music.163.com/album?id=3257011"
+    }
+  },
+  {
+    "name": "BL - (日剧《10的秘密》片头曲)",
+    "link": "https://music.163.com/song?id=1420536131",
+    "duration": "03:13",
+    "artists": [
+      { "name": "女王蜂", "link": "https://music.163.com/artist?id=22492" }
+    ],
+    "album": { "name": "BL", "link": "https://music.163.com/album?id=85418207" }
+  },
+  {
+    "name": "ターゲット~赤い冲撃~ - (TV动画《数码宝贝2》片头曲)",
+    "link": "https://music.163.com/song?id=4940921",
+    "duration": "04:26",
+    "artists": [
+      { "name": "和田光司", "link": "https://music.163.com/artist?id=15800" }
+    ],
+    "album": {
+      "name": "DIGIMON HISTORY 1999-2006 All The Best",
+      "link": "https://music.163.com/album?id=494028"
+    }
+  },
+  {
+    "name": "君が夢を連れてきた - (TV动画《樱花庄的宠物女孩》OP1)",
+    "link": "https://music.163.com/song?id=26093675",
+    "duration": "04:19",
+    "artists": [
+      {
+        "name": "ペットな彼女たち",
+        "link": "https://music.163.com/artist?id=711113"
+      }
+    ],
+    "album": {
+      "name": "君が夢を連れてきた",
+      "link": "https://music.163.com/album?id=2386202"
+    }
+  },
+  {
+    "name": "Tough & Alone",
+    "link": "https://music.163.com/song?id=474739195",
+    "duration": "03:57",
+    "artists": [
+      {
+        "name": "MYTH & ROID",
+        "link": "https://music.163.com/artist?id=1137126"
+      }
+    ],
+    "album": {
+      "name": "eYe's",
+      "link": "https://music.163.com/album?id=35377620"
+    }
+  },
+  {
+    "name": "スウィートタイム（翻自 巡音ルカ） ",
+    "link": "https://music.163.com/song?id=1316589134",
+    "duration": "04:12",
+    "artists": [
+      {
+        "name": "Sawako碎花",
+        "link": "https://music.163.com/artist?id=12292130"
+      },
+      { "name": "Näo", "link": "https://music.163.com/artist?id=97948" },
+      { "name": "熊子", "link": "https://music.163.com/artist?id=12084089" },
+      {
+        "name": "纱琉璃Shelley",
+        "link": "https://music.163.com/artist?id=12114115"
+      },
+      { "name": "Harasu", "link": "https://music.163.com/artist?id=12237188" },
+      {
+        "name": "里桜Saneyori",
+        "link": "https://music.163.com/artist?id=12125056"
+      }
+    ],
+    "album": {
+      "name": "Sweet time",
+      "link": "https://music.163.com/album?id=73826672"
+    }
+  },
+  {
+    "name": "Rightfully - (TV动画《哥布林杀手》片头曲:TVアニメ「ゴブリンスレイヤー」OPテーマ)",
+    "link": "https://music.163.com/song?id=1325711137",
+    "duration": "03:33",
+    "artists": [
+      { "name": "Mili", "link": "https://music.163.com/artist?id=339594" }
+    ],
+    "album": {
+      "name": "Rightfully",
+      "link": "https://music.163.com/album?id=74269017"
+    }
+  },
+  {
+    "name": "Faster",
+    "link": "https://music.163.com/song?id=1297148078",
+    "duration": "03:14",
+    "artists": [
+      { "name": "暴君de", "link": "https://music.163.com/artist?id=12599289" }
+    ],
+    "album": {
+      "name": "Faster",
+      "link": "https://music.163.com/album?id=72029988"
+    }
+  },
+  {
+    "name": "Dogfight - (TVアニメ「頭文字D Fourth Stage」OP1テーマ)",
+    "link": "https://music.163.com/song?id=4981387",
+    "duration": "04:21",
+    "artists": [
+      { "name": "m.o.v.e", "link": "https://music.163.com/artist?id=20466" }
+    ],
+    "album": {
+      "name": "Initial D Best Song Collection 1998-2004",
+      "link": "https://music.163.com/album?id=496219"
+    }
+  },
+  {
+    "name": "EXPLORE",
+    "link": "https://music.163.com/song?id=1351559167",
+    "duration": "03:23",
+    "artists": [
+      { "name": "coldkids", "link": "https://music.163.com/artist?id=28175418" }
+    ],
+    "album": {
+      "name": "EXPLORE",
+      "link": "https://music.163.com/album?id=75831101"
+    }
+  },
+  {
+    "name": "Up",
+    "link": "https://music.163.com/song?id=1380038951",
+    "duration": "03:33",
+    "artists": [
+      { "name": "LeWinD", "link": "https://music.163.com/artist?id=32624970" },
+      { "name": "JWoods", "link": "https://music.163.com/artist?id=30959670" }
+    ],
+    "album": { "name": "Up", "link": "https://music.163.com/album?id=80603436" }
+  },
+  {
+    "name": "We are Immortal (Full Version)",
+    "link": "https://music.163.com/song?id=429769765",
+    "duration": "03:24",
+    "artists": [
+      { "name": "Andreas B.", "link": "https://music.163.com/artist?id=299713" }
+    ],
+    "album": {
+      "name": "We are Immortal (Full Version)",
+      "link": "https://music.163.com/album?id=34874197"
+    }
+  },
+  {
+    "name": "别烦着我",
+    "link": "https://music.163.com/song?id=27562858",
+    "duration": "03:46",
+    "artists": [
+      { "name": "糖兄妹", "link": "https://music.163.com/artist?id=13074" }
+    ],
+    "album": {
+      "name": "谢谢您",
+      "link": "https://music.163.com/album?id=2639107"
+    }
+  },
+  {
+    "name": "動天",
+    "link": "https://music.163.com/song?id=531925",
+    "duration": "03:03",
+    "artists": [
+      { "name": "高梨康治", "link": "https://music.163.com/artist?id=15639" }
+    ],
+    "album": {
+      "name": "NARUTO-ナルト- 疾風伝 オリジナル・サウンドトラック",
+      "link": "https://music.163.com/album?id=50071"
+    }
+  },
+  {
+    "name": "果不其然（prod by WayMen）",
+    "link": "https://music.163.com/song?id=1429741112",
+    "duration": "03:13",
+    "artists": [
+      { "name": "近衛", "link": "https://music.163.com/artist?id=34516540" }
+    ],
+    "album": {
+      "name": "果不其然",
+      "link": "https://music.163.com/album?id=86350314"
+    }
+  },
+  {
+    "name": "怎麼可以吃兔兔：Green Tea Biaches",
+    "link": "https://music.163.com/song?id=475172610",
+    "duration": "03:02",
+    "artists": [
+      { "name": "GTB", "link": "https://music.163.com/artist?id=14472547" }
+    ],
+    "album": {
+      "name": "GTB",
+      "link": "https://music.163.com/album?id=35440192"
+    }
+  },
+  {
+    "name": "Peaches",
+    "link": "https://music.163.com/song?id=1856963505",
+    "duration": "03:18",
+    "artists": [
+      {
+        "name": "Justin Bieber",
+        "link": "https://music.163.com/artist?id=35531"
+      },
+      {
+        "name": "Daniel Caesar",
+        "link": "https://music.163.com/artist?id=1021293"
+      },
+      { "name": "Giveon", "link": "https://music.163.com/artist?id=32396647" }
+    ],
+    "album": {
+      "name": "HOT PARTY SUMMER 2021",
+      "link": "https://music.163.com/album?id=129623248"
+    }
+  }
+]

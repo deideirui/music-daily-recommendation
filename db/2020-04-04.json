@@ -1,0 +1,469 @@
+[
+  {
+    "name": "Find Our Way",
+    "link": "https://music.163.com/song?id=574928903",
+    "duration": "03:28",
+    "artists": [
+      {
+        "name": "Midnight Kids",
+        "link": "https://music.163.com/artist?id=13192314"
+      },
+      { "name": "Klei", "link": "https://music.163.com/artist?id=12995337" }
+    ],
+    "album": {
+      "name": "Find Our Way",
+      "link": "https://music.163.com/album?id=39792222"
+    }
+  },
+  {
+    "name": "Like It's Over",
+    "link": "https://music.163.com/song?id=436633110",
+    "duration": "05:18",
+    "artists": [
+      { "name": "Jai Wolf", "link": "https://music.163.com/artist?id=1063048" },
+      { "name": "MNDR", "link": "https://music.163.com/artist?id=97106" }
+    ],
+    "album": {
+      "name": "Like It's Over",
+      "link": "https://music.163.com/album?id=34930258"
+    }
+  },
+  {
+    "name": "Alone with You",
+    "link": "https://music.163.com/song?id=1381854510",
+    "duration": "02:33",
+    "artists": [
+      {
+        "name": "Y.V.E. 48",
+        "link": "https://music.163.com/artist?id=1032445"
+      },
+      { "name": "Loé", "link": "https://music.163.com/artist?id=12334353" }
+    ],
+    "album": {
+      "name": "Alone with You",
+      "link": "https://music.163.com/album?id=80761818"
+    }
+  },
+  {
+    "name": "Ride It",
+    "link": "https://music.163.com/song?id=1379945341",
+    "duration": "02:37",
+    "artists": [
+      { "name": "Regard", "link": "https://music.163.com/artist?id=12260125" }
+    ],
+    "album": {
+      "name": "Ride It",
+      "link": "https://music.163.com/album?id=80594567"
+    }
+  },
+  {
+    "name": "U & Me",
+    "link": "https://music.163.com/song?id=1375778323",
+    "duration": "03:30",
+    "artists": [
+      { "name": "KASTRA", "link": "https://music.163.com/artist?id=1105094" },
+      { "name": "twoDB", "link": "https://music.163.com/artist?id=28377054" },
+      {
+        "name": "Evangelia",
+        "link": "https://music.163.com/artist?id=29835191"
+      }
+    ],
+    "album": {
+      "name": "U & Me",
+      "link": "https://music.163.com/album?id=80200904"
+    }
+  },
+  {
+    "name": "Firework",
+    "link": "https://music.163.com/song?id=18981901",
+    "duration": "03:48",
+    "artists": [
+      { "name": "Katy Perry", "link": "https://music.163.com/artist?id=62888" }
+    ],
+    "album": {
+      "name": "Teenage Dream",
+      "link": "https://music.163.com/album?id=1738877"
+    }
+  },
+  {
+    "name": "Temporary High",
+    "link": "https://music.163.com/song?id=1374012749",
+    "duration": "03:12",
+    "artists": [
+      { "name": "Syence", "link": "https://music.163.com/artist?id=12233011" },
+      {
+        "name": "Heather Sommer",
+        "link": "https://music.163.com/artist?id=13134228"
+      }
+    ],
+    "album": {
+      "name": "Temporary High",
+      "link": "https://music.163.com/album?id=79999708"
+    }
+  },
+  {
+    "name": "Apart",
+    "link": "https://music.163.com/song?id=439911313",
+    "duration": "03:37",
+    "artists": [
+      { "name": "Resonance", "link": "https://music.163.com/artist?id=196588" }
+    ],
+    "album": {
+      "name": "Apart",
+      "link": "https://music.163.com/album?id=34976362"
+    }
+  },
+  {
+    "name": "You're The One",
+    "link": "https://music.163.com/song?id=427542524",
+    "duration": "03:13",
+    "artists": [
+      {
+        "name": "Matthew Steeper",
+        "link": "https://music.163.com/artist?id=1094011"
+      },
+      { "name": "Vorwerk", "link": "https://music.163.com/artist?id=136899" },
+      { "name": "Mazare", "link": "https://music.163.com/artist?id=29718513" }
+    ],
+    "album": {
+      "name": "You're The One (feat. Matthew Steeper)",
+      "link": "https://music.163.com/album?id=34855228"
+    }
+  },
+  {
+    "name": "Erhu",
+    "link": "https://music.163.com/song?id=1341503728",
+    "duration": "03:14",
+    "artists": [
+      { "name": "DJ Dark", "link": "https://music.163.com/artist?id=315300" },
+      { "name": "MD DJ", "link": "https://music.163.com/artist?id=12577319" }
+    ],
+    "album": {
+      "name": "Erhu",
+      "link": "https://music.163.com/album?id=75290339"
+    }
+  },
+  {
+    "name": "The Storm",
+    "link": "https://music.163.com/song?id=1417907835",
+    "duration": "02:48",
+    "artists": [
+      {
+        "name": "TheFatRat",
+        "link": "https://music.163.com/artist?id=1019952"
+      },
+      { "name": "Maisy Kay", "link": "https://music.163.com/artist?id=1124551" }
+    ],
+    "album": {
+      "name": "The Storm",
+      "link": "https://music.163.com/album?id=85101961"
+    }
+  },
+  {
+    "name": "Breath and Life (******* Remix)",
+    "link": "https://music.163.com/song?id=29809089",
+    "duration": "03:34",
+    "artists": [
+      {
+        "name": "Audiomachine",
+        "link": "https://music.163.com/artist?id=87066"
+      }
+    ],
+    "album": {
+      "name": "Remixed",
+      "link": "https://music.163.com/album?id=3081236"
+    }
+  },
+  {
+    "name": "New Ting",
+    "link": "https://music.163.com/song?id=512617800",
+    "duration": "02:54",
+    "artists": [
+      {
+        "name": "Marc E. Bassy",
+        "link": "https://music.163.com/artist?id=12046521"
+      }
+    ],
+    "album": {
+      "name": "Gossip Columns",
+      "link": "https://music.163.com/album?id=36506697"
+    }
+  },
+  {
+    "name": "Good Things Fall Apart",
+    "link": "https://music.163.com/song?id=1365046574",
+    "duration": "03:36",
+    "artists": [
+      { "name": "ILLENIUM", "link": "https://music.163.com/artist?id=1050518" },
+      {
+        "name": "Jon Bellion",
+        "link": "https://music.163.com/artist?id=860113"
+      }
+    ],
+    "album": {
+      "name": "Good Things Fall Apart",
+      "link": "https://music.163.com/album?id=79087093"
+    }
+  },
+  {
+    "name": "That's me",
+    "link": "https://music.163.com/song?id=1296990374",
+    "duration": "04:33",
+    "artists": [
+      { "name": "KWXZ", "link": "https://music.163.com/artist?id=12193637" }
+    ],
+    "album": {
+      "name": "That's me",
+      "link": "https://music.163.com/album?id=72020981"
+    }
+  },
+  {
+    "name": "Waves",
+    "link": "https://music.163.com/song?id=29759408",
+    "duration": "04:26",
+    "artists": [
+      { "name": "Axero", "link": "https://music.163.com/artist?id=1035020" }
+    ],
+    "album": {
+      "name": "Waves",
+      "link": "https://music.163.com/album?id=3056865"
+    }
+  },
+  {
+    "name": "Stay The Night",
+    "link": "https://music.163.com/song?id=1376075781",
+    "duration": "02:46",
+    "artists": [
+      {
+        "name": "Just Kiddin",
+        "link": "https://music.163.com/artist?id=688618"
+      },
+      {
+        "name": "Camden Cox",
+        "link": "https://music.163.com/artist?id=13226292"
+      }
+    ],
+    "album": {
+      "name": "Stay The Night",
+      "link": "https://music.163.com/album?id=80233055"
+    }
+  },
+  {
+    "name": "Have Some Fun",
+    "link": "https://music.163.com/song?id=28018134",
+    "duration": "04:04",
+    "artists": [
+      { "name": "Pitbull", "link": "https://music.163.com/artist?id=41143" },
+      {
+        "name": "The Wanted",
+        "link": "https://music.163.com/artist?id=103095"
+      },
+      { "name": "Afrojack", "link": "https://music.163.com/artist?id=28745" }
+    ],
+    "album": {
+      "name": "Global Warming (Deluxe Version)",
+      "link": "https://music.163.com/album?id=2709192"
+    }
+  },
+  {
+    "name": "Into My Heart",
+    "link": "https://music.163.com/song?id=1356580767",
+    "duration": "03:41",
+    "artists": [
+      { "name": "Yetep", "link": "https://music.163.com/artist?id=12356399" },
+      { "name": "Zephure", "link": "https://music.163.com/artist?id=11997043" },
+      { "name": "GLNNA", "link": "https://music.163.com/artist?id=28693365" }
+    ],
+    "album": {
+      "name": "Into My Heart",
+      "link": "https://music.163.com/album?id=78328751"
+    }
+  },
+  {
+    "name": "Shelter",
+    "link": "https://music.163.com/song?id=425280053",
+    "duration": "03:38",
+    "artists": [
+      {
+        "name": "Porter Robinson",
+        "link": "https://music.163.com/artist?id=185871"
+      },
+      { "name": "Madeon", "link": "https://music.163.com/artist?id=40280" }
+    ],
+    "album": {
+      "name": "Shelter",
+      "link": "https://music.163.com/album?id=34818014"
+    }
+  },
+  {
+    "name": "Another Friend",
+    "link": "https://music.163.com/song?id=556064597",
+    "duration": "00:00",
+    "artists": [
+      { "name": "Kiso", "link": "https://music.163.com/artist?id=1089102" },
+      { "name": "Tep No", "link": "https://music.163.com/artist?id=956357" }
+    ],
+    "album": {
+      "name": "Another Friend",
+      "link": "https://music.163.com/album?id=38519324"
+    }
+  },
+  {
+    "name": "When the Summer Ends",
+    "link": "https://music.163.com/song?id=1294110653",
+    "duration": "03:26",
+    "artists": [
+      {
+        "name": "Savoir Adore",
+        "link": "https://music.163.com/artist?id=100380"
+      }
+    ],
+    "album": {
+      "name": "When the Summer Ends",
+      "link": "https://music.163.com/album?id=71863115"
+    }
+  },
+  {
+    "name": "2 Gone",
+    "link": "https://music.163.com/song?id=575015436",
+    "duration": "03:10",
+    "artists": [
+      { "name": "CVBZ", "link": "https://music.163.com/artist?id=12095284" }
+    ],
+    "album": {
+      "name": "2 Gone",
+      "link": "https://music.163.com/album?id=39807048"
+    }
+  },
+  {
+    "name": "Breathe (Original Mix)",
+    "link": "https://music.163.com/song?id=413812817",
+    "duration": "03:45",
+    "artists": [
+      { "name": "EMBRZ", "link": "https://music.163.com/artist?id=1173001" }
+    ],
+    "album": {
+      "name": "Breathe ",
+      "link": "https://music.163.com/album?id=34702622"
+    }
+  },
+  {
+    "name": "Frisbee",
+    "link": "https://music.163.com/song?id=418602744",
+    "duration": "03:11",
+    "artists": [
+      { "name": "Ahxello", "link": "https://music.163.com/artist?id=1046348" }
+    ],
+    "album": {
+      "name": "Frisbee",
+      "link": "https://music.163.com/album?id=34749256"
+    }
+  },
+  {
+    "name": "When Winter Comes",
+    "link": "https://music.163.com/song?id=417250199",
+    "duration": "06:31",
+    "artists": [
+      {
+        "name": "Miroslav Vrlik",
+        "link": "https://music.163.com/artist?id=96725"
+      },
+      {
+        "name": "Mark & Lukas",
+        "link": "https://music.163.com/artist?id=1104097"
+      }
+    ],
+    "album": {
+      "name": "When Winter Comes ",
+      "link": "https://music.163.com/album?id=34738081"
+    }
+  },
+  {
+    "name": "Dance With Me",
+    "link": "https://music.163.com/song?id=33486106",
+    "duration": "03:27",
+    "artists": [
+      {
+        "name": "Felix Jaehn",
+        "link": "https://music.163.com/artist?id=963083"
+      },
+      {
+        "name": "THALLIE ANN SEENYEN",
+        "link": "https://music.163.com/artist?id=1041028"
+      }
+    ],
+    "album": {
+      "name": "Deep Sounds The Very Best Of Deep House (Spring Edition)",
+      "link": "https://music.163.com/album?id=3217041"
+    }
+  },
+  {
+    "name": "Calipso",
+    "link": "https://music.163.com/song?id=31191037",
+    "duration": "02:52",
+    "artists": [
+      { "name": "DRYM", "link": "https://music.163.com/artist?id=1192413" }
+    ],
+    "album": {
+      "name": "A State Of Trance 2015",
+      "link": "https://music.163.com/album?id=3109046"
+    }
+  },
+  {
+    "name": "Lost Together (Entis Remix)",
+    "link": "https://music.163.com/song?id=401382170",
+    "duration": "08:23",
+    "artists": [
+      {
+        "name": "Stan Seba",
+        "link": "https://music.163.com/artist?id=1104091"
+      },
+      { "name": "Entis", "link": "https://music.163.com/artist?id=11992151" }
+    ],
+    "album": {
+      "name": "Lost Together (Entis Remix)",
+      "link": "https://music.163.com/album?id=34443266"
+    }
+  },
+  {
+    "name": "ILY (Edit)",
+    "link": "https://music.163.com/song?id=407459619",
+    "duration": "02:45",
+    "artists": [
+      { "name": "Cyber", "link": "https://music.163.com/artist?id=1072052" }
+    ],
+    "album": {
+      "name": "ILY (Pro Mix)",
+      "link": "https://music.163.com/album?id=34502291"
+    }
+  },
+  {
+    "name": "Hands in the Fire",
+    "link": "https://music.163.com/song?id=1306497271",
+    "duration": "02:55",
+    "artists": [
+      {
+        "name": "James Carter",
+        "link": "https://music.163.com/artist?id=12047749"
+      },
+      { "name": "Nevve", "link": "https://music.163.com/artist?id=12567101" }
+    ],
+    "album": {
+      "name": "Hands in the Fire",
+      "link": "https://music.163.com/album?id=72797681"
+    }
+  },
+  {
+    "name": "Fractures (EFL117) [Track Of The Week]",
+    "link": "https://music.163.com/song?id=545738141",
+    "duration": "03:57",
+    "artists": [
+      { "name": "Nevve", "link": "https://music.163.com/artist?id=12567101" },
+      { "name": "ILLENIUM", "link": "https://music.163.com/artist?id=1050518" }
+    ],
+    "album": {
+      "name": "Electric For Life Episode 117",
+      "link": "https://music.163.com/album?id=37950276"
+    }
+  }
+]

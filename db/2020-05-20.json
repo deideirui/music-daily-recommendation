@@ -1,0 +1,499 @@
+[
+  {
+    "name": "In My Mind",
+    "link": "https://music.163.com/song?id=1361115586",
+    "duration": "03:21",
+    "artists": [
+      {
+        "name": "Jealous Friend",
+        "link": "https://music.163.com/artist?id=31382683"
+      },
+      {
+        "name": "Alex Parker",
+        "link": "https://music.163.com/artist?id=280735"
+      },
+      {
+        "name": "Olivia Addams",
+        "link": "https://music.163.com/artist?id=28657767"
+      }
+    ],
+    "album": {
+      "name": "In My Mind",
+      "link": "https://music.163.com/album?id=78751934"
+    }
+  },
+  {
+    "name": "Don't Give Up",
+    "link": "https://music.163.com/song?id=401386096",
+    "duration": "07:44",
+    "artists": [
+      { "name": "RAM", "link": "https://music.163.com/artist?id=73231" },
+      {
+        "name": "Chris Metcalfe",
+        "link": "https://music.163.com/artist?id=1087595"
+      },
+      {
+        "name": "Natalie Gioia",
+        "link": "https://music.163.com/artist?id=839403"
+      }
+    ],
+    "album": {
+      "name": "Don't Give Up",
+      "link": "https://music.163.com/album?id=34443252"
+    }
+  },
+  {
+    "name": "We Go Up",
+    "link": "https://music.163.com/song?id=517891053",
+    "duration": "02:57",
+    "artists": [
+      { "name": "LNY TNZ", "link": "https://music.163.com/artist?id=1039647" }
+    ],
+    "album": {
+      "name": "We Go Up",
+      "link": "https://music.163.com/album?id=36767020"
+    }
+  },
+  {
+    "name": "Humans (Let Me Love You)",
+    "link": "https://music.163.com/song?id=1366703054",
+    "duration": "02:41",
+    "artists": [
+      {
+        "name": "Sick Individuals",
+        "link": "https://music.163.com/artist?id=379612"
+      },
+      {
+        "name": "April Bender",
+        "link": "https://music.163.com/artist?id=13080174"
+      }
+    ],
+    "album": {
+      "name": "Humans (Let Me Love You)",
+      "link": "https://music.163.com/album?id=79288793"
+    }
+  },
+  {
+    "name": "Zocalo",
+    "link": "https://music.163.com/song?id=436487645",
+    "duration": "04:03",
+    "artists": [
+      {
+        "name": "Armin van Buuren",
+        "link": "https://music.163.com/artist?id=27621"
+      },
+      { "name": "Gabriel", "link": "https://music.163.com/artist?id=191612" },
+      { "name": "Dresden", "link": "https://music.163.com/artist?id=91422" }
+    ],
+    "album": {
+      "name": "A State Of Trance - 15 Years",
+      "link": "https://music.163.com/album?id=34923062"
+    }
+  },
+  {
+    "name": "All For You",
+    "link": "https://music.163.com/song?id=1384056976",
+    "duration": "03:26",
+    "artists": [
+      {
+        "name": "The Waked",
+        "link": "https://music.163.com/artist?id=13974125"
+      }
+    ],
+    "album": {
+      "name": "All For You",
+      "link": "https://music.163.com/album?id=80930389"
+    }
+  },
+  {
+    "name": "Ubiquity (No Choir, No Vocals)",
+    "link": "https://music.163.com/song?id=1371143887",
+    "duration": "02:55",
+    "artists": [
+      {
+        "name": "Audiomachine",
+        "link": "https://music.163.com/artist?id=87066"
+      }
+    ],
+    "album": {
+      "name": "Burn Point",
+      "link": "https://music.163.com/album?id=79724495"
+    }
+  },
+  {
+    "name": "Falling Down (Extended Mix)",
+    "link": "https://music.163.com/song?id=470736714",
+    "duration": "05:49",
+    "artists": [
+      { "name": "MaRLo", "link": "https://music.163.com/artist?id=150599" },
+      { "name": "First State", "link": "https://music.163.com/artist?id=92742" }
+    ],
+    "album": {
+      "name": "Falling Down",
+      "link": "https://music.163.com/album?id=35346391"
+    }
+  },
+  {
+    "name": "When The Morning Breaks",
+    "link": "https://music.163.com/song?id=1429420514",
+    "duration": "02:40",
+    "artists": [
+      {
+        "name": "Nightcall",
+        "link": "https://music.163.com/artist?id=1083067"
+      },
+      {
+        "name": "Henri Purnell",
+        "link": "https://music.163.com/artist?id=12074325"
+      },
+      { "name": "Eke", "link": "https://music.163.com/artist?id=13992835" }
+    ],
+    "album": {
+      "name": "When The Morning Breaks",
+      "link": "https://music.163.com/album?id=86343726"
+    }
+  },
+  {
+    "name": "Constellation",
+    "link": "https://music.163.com/song?id=1429604070",
+    "duration": "02:52",
+    "artists": [
+      { "name": "Far Out", "link": "https://music.163.com/artist?id=824107" },
+      { "name": "Karra", "link": "https://music.163.com/artist?id=1081582" }
+    ],
+    "album": {
+      "name": "Constellation",
+      "link": "https://music.163.com/album?id=86368314"
+    }
+  },
+  {
+    "name": "Inside Out",
+    "link": "https://music.163.com/song?id=1432058576",
+    "duration": "02:37",
+    "artists": [
+      { "name": "Steve Aoki", "link": "https://music.163.com/artist?id=43608" },
+      {
+        "name": "Felix Jaehn",
+        "link": "https://music.163.com/artist?id=963083"
+      },
+      {
+        "name": "Jamie Scott",
+        "link": "https://music.163.com/artist?id=141813"
+      }
+    ],
+    "album": {
+      "name": "Neon Future IV",
+      "link": "https://music.163.com/album?id=86622717"
+    }
+  },
+  {
+    "name": "Million Miles",
+    "link": "https://music.163.com/song?id=1374602799",
+    "duration": "03:22",
+    "artists": [
+      { "name": "Mark Sixma", "link": "https://music.163.com/artist?id=178755" }
+    ],
+    "album": {
+      "name": "Million Miles",
+      "link": "https://music.163.com/album?id=80064850"
+    }
+  },
+  {
+    "name": "In Your Head",
+    "link": "https://music.163.com/song?id=1432936294",
+    "duration": "03:19",
+    "artists": [
+      { "name": "Kosling", "link": "https://music.163.com/artist?id=29289583" },
+      { "name": "CHRNS", "link": "https://music.163.com/artist?id=12945477" }
+    ],
+    "album": {
+      "name": "In Your Head",
+      "link": "https://music.163.com/album?id=86731559"
+    }
+  },
+  {
+    "name": "Sky Dancer (Arctic Moon Remix)",
+    "link": "https://music.163.com/song?id=417247340",
+    "duration": "06:33",
+    "artists": [
+      {
+        "name": "Arctic Moon",
+        "link": "https://music.163.com/artist?id=820034"
+      },
+      {
+        "name": "Hans Seo",
+        "link": "https://music.163.com/artist?id=12048020"
+      },
+      {
+        "name": "Anna Toth",
+        "link": "https://music.163.com/artist?id=13720638"
+      }
+    ],
+    "album": {
+      "name": "Sky Dancer (Arctic Moon Remix)",
+      "link": "https://music.163.com/album?id=34739171"
+    }
+  },
+  {
+    "name": "Fallout (Extended Mix)",
+    "link": "https://music.163.com/song?id=469065224",
+    "duration": "05:52",
+    "artists": [
+      {
+        "name": "Davey Asprey",
+        "link": "https://music.163.com/artist?id=447706"
+      }
+    ],
+    "album": {
+      "name": "Fallout",
+      "link": "https://music.163.com/album?id=35326237"
+    }
+  },
+  {
+    "name": "Rebel",
+    "link": "https://music.163.com/song?id=469243020",
+    "duration": "02:43",
+    "artists": [
+      { "name": "Lady Bee", "link": "https://music.163.com/artist?id=216999" },
+      {
+        "name": "Jalise Romy",
+        "link": "https://music.163.com/artist?id=29626462"
+      }
+    ],
+    "album": {
+      "name": "Rebel",
+      "link": "https://music.163.com/album?id=35333014"
+    }
+  },
+  {
+    "name": "Blazer",
+    "link": "https://music.163.com/song?id=1347717316",
+    "duration": "02:51",
+    "artists": [
+      {
+        "name": "Jarah Damiel",
+        "link": "https://music.163.com/artist?id=427246"
+      }
+    ],
+    "album": {
+      "name": "Blazer",
+      "link": "https://music.163.com/album?id=75667044"
+    }
+  },
+  {
+    "name": "Stronger (Steve Allen & Enzo Extended Remix)",
+    "link": "https://music.163.com/song?id=474574276",
+    "duration": "05:46",
+    "artists": [
+      {
+        "name": "Steve Allen",
+        "link": "https://music.163.com/artist?id=76574"
+      },
+      { "name": "Enzo", "link": "https://music.163.com/artist?id=12361469" },
+      {
+        "name": "Frainbreeze",
+        "link": "https://music.163.com/artist?id=11992076"
+      },
+      { "name": "Cari", "link": "https://music.163.com/artist?id=1132863" }
+    ],
+    "album": {
+      "name": "Stronger (Steve Allen & Enzo Extended Remix)",
+      "link": "https://music.163.com/album?id=35431071"
+    }
+  },
+  {
+    "name": "Two Of Us",
+    "link": "https://music.163.com/song?id=1426795735",
+    "duration": "03:19",
+    "artists": [
+      { "name": "Ryos", "link": "https://music.163.com/artist?id=1053137" }
+    ],
+    "album": {
+      "name": "Two Of Us",
+      "link": "https://music.163.com/album?id=86089370"
+    }
+  },
+  {
+    "name": "Somebody (feat. Alex Hosking)",
+    "link": "https://music.163.com/song?id=1441200435",
+    "duration": "03:35",
+    "artists": [
+      { "name": "QUIX", "link": "https://music.163.com/artist?id=1174028" },
+      {
+        "name": "Alex Hosking",
+        "link": "https://music.163.com/artist?id=30629303"
+      }
+    ],
+    "album": {
+      "name": "Somebody (feat. Alex Hosking)",
+      "link": "https://music.163.com/album?id=88133239"
+    }
+  },
+  {
+    "name": "Dead To Life",
+    "link": "https://music.163.com/song?id=572847507",
+    "duration": "04:24",
+    "artists": [
+      { "name": "Krigarè", "link": "https://music.163.com/artist?id=12929958" },
+      { "name": "Ecstatic", "link": "https://music.163.com/artist?id=12010228" }
+    ],
+    "album": {
+      "name": "Dead to Life",
+      "link": "https://music.163.com/album?id=39668685"
+    }
+  },
+  {
+    "name": "Enough (Original Mix)",
+    "link": "https://music.163.com/song?id=454069689",
+    "duration": "06:36",
+    "artists": [
+      { "name": "4 Strings", "link": "https://music.163.com/artist?id=85464" },
+      {
+        "name": "Fenna Day",
+        "link": "https://music.163.com/artist?id=13202914"
+      }
+    ],
+    "album": {
+      "name": "Enough",
+      "link": "https://music.163.com/album?id=35124630"
+    }
+  },
+  {
+    "name": "Gravity",
+    "link": "https://music.163.com/song?id=472050284",
+    "duration": "03:02",
+    "artists": [
+      {
+        "name": "Leo Stannard",
+        "link": "https://music.163.com/artist?id=1055019"
+      },
+      { "name": "Frances", "link": "https://music.163.com/artist?id=1105075" }
+    ],
+    "album": {
+      "name": "Gravity",
+      "link": "https://music.163.com/album?id=35328871"
+    }
+  },
+  {
+    "name": "Detached",
+    "link": "https://music.163.com/song?id=1350354367",
+    "duration": "03:05",
+    "artists": [
+      { "name": "KTRL", "link": "https://music.163.com/artist?id=12090088" }
+    ],
+    "album": {
+      "name": "Detached",
+      "link": "https://music.163.com/album?id=75781460"
+    }
+  },
+  {
+    "name": "Let the Right One In",
+    "link": "https://music.163.com/song?id=28993080",
+    "duration": "03:08",
+    "artists": [
+      {
+        "name": "Isaac Sakima",
+        "link": "https://music.163.com/artist?id=996655"
+      }
+    ],
+    "album": {
+      "name": "Let the Right One In",
+      "link": "https://music.163.com/album?id=2971308"
+    }
+  },
+  {
+    "name": "My Own Way",
+    "link": "https://music.163.com/song?id=1336856872",
+    "duration": "03:02",
+    "artists": [
+      { "name": "Sterkøl", "link": "https://music.163.com/artist?id=1081901" }
+    ],
+    "album": {
+      "name": "My Own Way",
+      "link": "https://music.163.com/album?id=75018123"
+    }
+  },
+  {
+    "name": "Rave Is Our Cure",
+    "link": "https://music.163.com/song?id=1439544256",
+    "duration": "03:41",
+    "artists": [
+      { "name": "KEVU", "link": "https://music.163.com/artist?id=12024356" }
+    ],
+    "album": {
+      "name": "Rave Is Our Cure",
+      "link": "https://music.163.com/album?id=87871107"
+    }
+  },
+  {
+    "name": "Somebody Like You",
+    "link": "https://music.163.com/song?id=1299570463",
+    "duration": "03:13",
+    "artists": [
+      {
+        "name": "James Carter",
+        "link": "https://music.163.com/artist?id=12047749"
+      },
+      {
+        "name": "Katrine Stenbekk",
+        "link": "https://music.163.com/artist?id=13202648"
+      }
+    ],
+    "album": {
+      "name": "Somebody Like You",
+      "link": "https://music.163.com/album?id=72071108"
+    }
+  },
+  {
+    "name": "Delay",
+    "link": "https://music.163.com/song?id=1411600300",
+    "duration": "03:06",
+    "artists": [
+      { "name": "Ed Queen", "link": "https://music.163.com/artist?id=33937808" }
+    ],
+    "album": {
+      "name": "белая книга",
+      "link": "https://music.163.com/album?id=84264347"
+    }
+  },
+  {
+    "name": "Twenty-two",
+    "link": "https://music.163.com/song?id=535361577",
+    "duration": "04:28",
+    "artists": [
+      { "name": "Moderian", "link": "https://music.163.com/artist?id=12270226" }
+    ],
+    "album": {
+      "name": "Twenty-two",
+      "link": "https://music.163.com/album?id=37436905"
+    }
+  },
+  {
+    "name": "Liratia",
+    "link": "https://music.163.com/song?id=496647658",
+    "duration": "04:04",
+    "artists": [
+      { "name": "Ryan有光", "link": "https://music.163.com/artist?id=12185226" }
+    ],
+    "album": {
+      "name": "Liratia",
+      "link": "https://music.163.com/album?id=35890777"
+    }
+  },
+  {
+    "name": "SUCKER",
+    "link": "https://music.163.com/song?id=1336864189",
+    "duration": "02:44",
+    "artists": [
+      {
+        "name": "Tyzo Bloom",
+        "link": "https://music.163.com/artist?id=12108614"
+      },
+      { "name": "Gigi", "link": "https://music.163.com/artist?id=93337" }
+    ],
+    "album": {
+      "name": "SUCKER",
+      "link": "https://music.163.com/album?id=75018738"
+    }
+  }
+]

@@ -1,0 +1,451 @@
+[
+  {
+    "name": "Set Me Free",
+    "link": "https://music.163.com/song?id=1311826934",
+    "duration": "03:00",
+    "artists": [
+      {
+        "name": "Max Oazo",
+        "link": "https://music.163.com/artist?id=13159084"
+      },
+      { "name": "Cami", "link": "https://music.163.com/artist?id=283909" }
+    ],
+    "album": {
+      "name": "Set Me Free",
+      "link": "https://music.163.com/album?id=73535928"
+    }
+  },
+  {
+    "name": "This Town (Gucci Mane Edit)",
+    "link": "https://music.163.com/song?id=536243882",
+    "duration": "03:22",
+    "artists": [
+      { "name": "Kygo", "link": "https://music.163.com/artist?id=844410" },
+      {
+        "name": "Sasha Sloan",
+        "link": "https://music.163.com/artist?id=12646102"
+      },
+      { "name": "Gucci Mane", "link": "https://music.163.com/artist?id=33919" }
+    ],
+    "album": {
+      "name": "Kids in Love (Remixes)",
+      "link": "https://music.163.com/album?id=37561188"
+    }
+  },
+  {
+    "name": "Listen To Me",
+    "link": "https://music.163.com/song?id=522510205",
+    "duration": "02:51",
+    "artists": [
+      { "name": "Subfer", "link": "https://music.163.com/artist?id=12046307" }
+    ],
+    "album": {
+      "name": "Listen To Me",
+      "link": "https://music.163.com/album?id=36911058"
+    }
+  },
+  {
+    "name": "We Are Young",
+    "link": "https://music.163.com/song?id=425280065",
+    "duration": "03:31",
+    "artists": [
+      { "name": "Borgeous", "link": "https://music.163.com/artist?id=904048" },
+      {
+        "name": "Ashley Wallbridge",
+        "link": "https://music.163.com/artist?id=29252"
+      },
+      { "name": "Anki", "link": "https://music.163.com/artist?id=145808" }
+    ],
+    "album": { "name": "13", "link": "https://music.163.com/album?id=34818015" }
+  },
+  {
+    "name": "Both of Us ",
+    "link": "https://music.163.com/song?id=520458037",
+    "duration": "03:18",
+    "artists": [
+      {
+        "name": "Yellow Claw",
+        "link": "https://music.163.com/artist?id=832880"
+      },
+      { "name": "STOR-i", "link": "https://music.163.com/artist?id=27692239" }
+    ],
+    "album": {
+      "name": "Both Of Us",
+      "link": "https://music.163.com/album?id=36854019"
+    }
+  },
+  {
+    "name": "Only Love",
+    "link": "https://music.163.com/song?id=34003562",
+    "duration": "05:00",
+    "artists": [
+      { "name": "PVRIS", "link": "https://music.163.com/artist?id=960005" }
+    ],
+    "album": {
+      "name": "Paris EP",
+      "link": "https://music.163.com/album?id=3270343"
+    }
+  },
+  {
+    "name": "New Dance",
+    "link": "https://music.163.com/song?id=1323272440",
+    "duration": "02:40",
+    "artists": [
+      { "name": "MKJ", "link": "https://music.163.com/artist?id=469200" }
+    ],
+    "album": {
+      "name": "Time After Time",
+      "link": "https://music.163.com/album?id=74263822"
+    }
+  },
+  {
+    "name": "Orange Juice",
+    "link": "https://music.163.com/song?id=1393223594",
+    "duration": "02:51",
+    "artists": [
+      {
+        "name": "Henri Purnell",
+        "link": "https://music.163.com/artist?id=12074325"
+      },
+      {
+        "name": "Steve Reece",
+        "link": "https://music.163.com/artist?id=1147021"
+      },
+      { "name": "Youkii", "link": "https://music.163.com/artist?id=32496429" }
+    ],
+    "album": {
+      "name": "Orange Juice",
+      "link": "https://music.163.com/album?id=81925155"
+    }
+  },
+  {
+    "name": "Mood",
+    "link": "https://music.163.com/song?id=476428197",
+    "duration": "03:03",
+    "artists": [
+      {
+        "name": "Emily Vaughn",
+        "link": "https://music.163.com/artist?id=12049240"
+      }
+    ],
+    "album": {
+      "name": "Mood",
+      "link": "https://music.163.com/album?id=35445323"
+    }
+  },
+  {
+    "name": "Dreamin'",
+    "link": "https://music.163.com/song?id=865021923",
+    "duration": "05:20",
+    "artists": [
+      {
+        "name": "Seven Lions",
+        "link": "https://music.163.com/artist?id=44204"
+      },
+      { "name": "Fiora", "link": "https://music.163.com/artist?id=57924" }
+    ],
+    "album": {
+      "name": "Dreamin'",
+      "link": "https://music.163.com/album?id=71723159"
+    }
+  },
+  {
+    "name": "Best Is Yet To Come",
+    "link": "https://music.163.com/song?id=402668045",
+    "duration": "03:19",
+    "artists": [
+      { "name": "Luvbug", "link": "https://music.163.com/artist?id=522612" }
+    ],
+    "album": {
+      "name": "Best Is Yet To Come",
+      "link": "https://music.163.com/album?id=34480397"
+    }
+  },
+  {
+    "name": "Last Night Every Night",
+    "link": "https://music.163.com/song?id=1341670329",
+    "duration": "03:08",
+    "artists": [
+      {
+        "name": "Hannah Jane Lewis",
+        "link": "https://music.163.com/artist?id=1049129"
+      }
+    ],
+    "album": {
+      "name": "Last Night Every Night",
+      "link": "https://music.163.com/album?id=75307431"
+    }
+  },
+  {
+    "name": "I'll Wait For You",
+    "link": "https://music.163.com/song?id=1330499748",
+    "duration": "03:23",
+    "artists": [
+      {
+        "name": "Prince Woods",
+        "link": "https://music.163.com/artist?id=13873618"
+      }
+    ],
+    "album": {
+      "name": "I'll Wait For You",
+      "link": "https://music.163.com/album?id=74721380"
+    }
+  },
+  {
+    "name": "Don’t Feel Like Crying",
+    "link": "https://music.163.com/song?id=1340400160",
+    "duration": "02:37",
+    "artists": [
+      { "name": "Sigrid", "link": "https://music.163.com/artist?id=205795" }
+    ],
+    "album": {
+      "name": "Sucker Punch",
+      "link": "https://music.163.com/album?id=75796710"
+    }
+  },
+  {
+    "name": "Forget",
+    "link": "https://music.163.com/song?id=1333384536",
+    "duration": "02:58",
+    "artists": [
+      {
+        "name": "The Tech Thieves",
+        "link": "https://music.163.com/artist?id=12080267"
+      }
+    ],
+    "album": {
+      "name": "Forget",
+      "link": "https://music.163.com/album?id=74880213"
+    }
+  },
+  {
+    "name": "Worth It (Reunify vs. Kris Maydak vs. Danyka Nadeau) [feat. Danyka Nadeau] [Radio Mix]",
+    "link": "https://music.163.com/song?id=399342363",
+    "duration": "03:56",
+    "artists": [
+      {
+        "name": "Danyka Nadeau",
+        "link": "https://music.163.com/artist?id=1078277"
+      },
+      {
+        "name": "Kris Maydak",
+        "link": "https://music.163.com/artist?id=900098"
+      },
+      { "name": "Reunify", "link": "https://music.163.com/artist?id=904231" }
+    ],
+    "album": {
+      "name": "Enhanced Best Of 2015",
+      "link": "https://music.163.com/album?id=34403048"
+    }
+  },
+  {
+    "name": "Promises",
+    "link": "https://music.163.com/song?id=1302091180",
+    "duration": "03:33",
+    "artists": [
+      {
+        "name": "Calvin Harris",
+        "link": "https://music.163.com/artist?id=29968"
+      },
+      { "name": "Sam Smith", "link": "https://music.163.com/artist?id=740216" }
+    ],
+    "album": {
+      "name": "Promises",
+      "link": "https://music.163.com/album?id=72300907"
+    }
+  },
+  {
+    "name": "We Won't Be Alone",
+    "link": "https://music.163.com/song?id=36307046",
+    "duration": "03:54",
+    "artists": [
+      { "name": "Feint", "link": "https://music.163.com/artist?id=93062" },
+      {
+        "name": "Laura Brehm",
+        "link": "https://music.163.com/artist?id=207693"
+      }
+    ],
+    "album": {
+      "name": "Monstercat 024 - Vanguard",
+      "link": "https://music.163.com/album?id=3395024"
+    }
+  },
+  {
+    "name": "Lion",
+    "link": "https://music.163.com/song?id=415792762",
+    "duration": "03:24",
+    "artists": [
+      { "name": "CASI", "link": "https://music.163.com/artist?id=12053424" }
+    ],
+    "album": {
+      "name": "Lion",
+      "link": "https://music.163.com/album?id=34721654"
+    }
+  },
+  {
+    "name": "Fearless",
+    "link": "https://music.163.com/song?id=514774639",
+    "duration": "03:14",
+    "artists": [
+      { "name": "Tule", "link": "https://music.163.com/artist?id=12676322" }
+    ],
+    "album": {
+      "name": "Lost",
+      "link": "https://music.163.com/album?id=36636227"
+    }
+  },
+  {
+    "name": "Alright",
+    "link": "https://music.163.com/song?id=542635760",
+    "duration": "02:58",
+    "artists": [
+      { "name": "CYN", "link": "https://music.163.com/artist?id=499016" }
+    ],
+    "album": {
+      "name": "Alright",
+      "link": "https://music.163.com/album?id=37823826"
+    }
+  },
+  {
+    "name": "Holding On",
+    "link": "https://music.163.com/song?id=501220832",
+    "duration": "03:37",
+    "artists": [
+      {
+        "name": "it's different",
+        "link": "https://music.163.com/artist?id=12061129"
+      },
+      { "name": "HVNNIBVL", "link": "https://music.163.com/artist?id=12046906" }
+    ],
+    "album": {
+      "name": "Holding On",
+      "link": "https://music.163.com/album?id=36031490"
+    }
+  },
+  {
+    "name": "Cold (Elekid Remix)",
+    "link": "https://music.163.com/song?id=410518498",
+    "duration": "05:18",
+    "artists": [
+      { "name": "Elekid", "link": "https://music.163.com/artist?id=1182710" },
+      { "name": "Novo Amor", "link": "https://music.163.com/artist?id=904041" }
+    ],
+    "album": {
+      "name": "Cold (Elekid Remix)",
+      "link": "https://music.163.com/album?id=34667127"
+    }
+  },
+  {
+    "name": "Sparks",
+    "link": "https://music.163.com/song?id=32548869",
+    "duration": "03:05",
+    "artists": [
+      { "name": "Hilary Duff", "link": "https://music.163.com/artist?id=59235" }
+    ],
+    "album": {
+      "name": "Breathe In. Breathe Out.",
+      "link": "https://music.163.com/album?id=3162749"
+    }
+  },
+  {
+    "name": "New Light",
+    "link": "https://music.163.com/song?id=557584447",
+    "duration": "03:36",
+    "artists": [
+      { "name": "John Mayer", "link": "https://music.163.com/artist?id=35335" }
+    ],
+    "album": {
+      "name": "New Light",
+      "link": "https://music.163.com/album?id=38591166"
+    }
+  },
+  {
+    "name": "Shimmer",
+    "link": "https://music.163.com/song?id=456175631",
+    "duration": "04:46",
+    "artists": [
+      { "name": "Notaker", "link": "https://music.163.com/artist?id=12035151" }
+    ],
+    "album": {
+      "name": "Shimmer",
+      "link": "https://music.163.com/album?id=35158168"
+    }
+  },
+  {
+    "name": "Atoms (Said the Sky Remix)",
+    "link": "https://music.163.com/song?id=1346093052",
+    "duration": "04:14",
+    "artists": [
+      { "name": "RL Grime", "link": "https://music.163.com/artist?id=797020" },
+      {
+        "name": "Said The Sky",
+        "link": "https://music.163.com/artist?id=1026094"
+      },
+      {
+        "name": "Jeremy Zucker",
+        "link": "https://music.163.com/artist?id=12096183"
+      }
+    ],
+    "album": {
+      "name": "NOVA Remixs VOI1",
+      "link": "https://music.163.com/album?id=75018294"
+    }
+  },
+  {
+    "name": "All Gone (RAM Uplifting Mix)",
+    "link": "https://music.163.com/song?id=32405669",
+    "duration": "07:30",
+    "artists": [
+      { "name": "Andy Moor", "link": "https://music.163.com/artist?id=28854" }
+    ],
+    "album": {
+      "name": "All Gone (RAM Uplifting Mix)",
+      "link": "https://music.163.com/album?id=3154969"
+    }
+  },
+  {
+    "name": "Youngblood",
+    "link": "https://music.163.com/song?id=551970360",
+    "duration": "03:23",
+    "artists": [
+      {
+        "name": "5 Seconds of Summer",
+        "link": "https://music.163.com/artist?id=893624"
+      }
+    ],
+    "album": {
+      "name": "Youngblood (Deluxe)",
+      "link": "https://music.163.com/album?id=39716022"
+    }
+  },
+  {
+    "name": "Atemlos Durch Die Nacht",
+    "link": "https://music.163.com/song?id=27818782",
+    "duration": "03:41",
+    "artists": [
+      {
+        "name": "Helene Fischer",
+        "link": "https://music.163.com/artist?id=60252"
+      }
+    ],
+    "album": {
+      "name": "Farbenspiel",
+      "link": "https://music.163.com/album?id=2682771"
+    }
+  },
+  {
+    "name": "Vibe",
+    "link": "https://music.163.com/song?id=533017528",
+    "duration": "03:18",
+    "artists": [
+      {
+        "name": "Fly by Midnight",
+        "link": "https://music.163.com/artist?id=1163027"
+      }
+    ],
+    "album": {
+      "name": "Vibe",
+      "link": "https://music.163.com/album?id=37391205"
+    }
+  }
+]

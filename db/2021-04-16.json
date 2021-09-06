@@ -1,0 +1,428 @@
+[
+  {
+    "name": "China-D",
+    "link": "https://music.163.com/song?id=1337772246",
+    "duration": "03:32",
+    "artists": [
+      { "name": "Aexly", "link": "https://music.163.com/artist?id=30548630" }
+    ],
+    "album": {
+      "name": "CHINA",
+      "link": "https://music.163.com/album?id=75039176"
+    }
+  },
+  {
+    "name": "闹",
+    "link": "https://music.163.com/song?id=1492934824",
+    "duration": "02:46",
+    "artists": [
+      { "name": "橙汁本色", "link": "https://music.163.com/artist?id=34142917" }
+    ],
+    "album": { "name": "闹", "link": "https://music.163.com/album?id=97783317" }
+  },
+  {
+    "name": "Never Over",
+    "link": "https://music.163.com/song?id=509135896",
+    "duration": "02:36",
+    "artists": [
+      { "name": "BEAUZ", "link": "https://music.163.com/artist?id=12131436" },
+      { "name": "Michi", "link": "https://music.163.com/artist?id=12390142" }
+    ],
+    "album": {
+      "name": "Never Over",
+      "link": "https://music.163.com/album?id=36412220"
+    }
+  },
+  {
+    "name": "China L",
+    "link": "https://music.163.com/song?id=1375601037",
+    "duration": "04:46",
+    "artists": [
+      {
+        "name": "lzx丶千鹤",
+        "link": "https://music.163.com/artist?id=30709362"
+      }
+    ],
+    "album": {
+      "name": "China",
+      "link": "https://music.163.com/album?id=80136876"
+    }
+  },
+  {
+    "name": "Limitless (feat. Sophie Rose)",
+    "link": "https://music.163.com/song?id=504399003",
+    "duration": "03:30",
+    "artists": [
+      { "name": "SAM F", "link": "https://music.163.com/artist?id=12074533" },
+      { "name": "Sophie Rose", "link": "https://music.163.com/artist?id=78099" }
+    ],
+    "album": {
+      "name": "Limitless (feat. Sophie Rose) (Remixes)",
+      "link": "https://music.163.com/album?id=36108321"
+    }
+  },
+  {
+    "name": "Typo",
+    "link": "https://music.163.com/song?id=1409271942",
+    "duration": "02:58",
+    "artists": [
+      {
+        "name": "Discrete",
+        "link": "https://music.163.com/artist?id=31215441"
+      },
+      { "name": "Sistek", "link": "https://music.163.com/artist?id=12765268" },
+      { "name": "TUDOR", "link": "https://music.163.com/artist?id=12355078" },
+      { "name": "Voss", "link": "https://music.163.com/artist?id=244172" }
+    ],
+    "album": {
+      "name": "Typo",
+      "link": "https://music.163.com/album?id=84067871"
+    }
+  },
+  {
+    "name": "Artery",
+    "link": "https://music.163.com/song?id=517656272",
+    "duration": "03:30",
+    "artists": [
+      { "name": "董子龙", "link": "https://music.163.com/artist?id=12037288" }
+    ],
+    "album": {
+      "name": "Artery",
+      "link": "https://music.163.com/album?id=36740179"
+    }
+  },
+  {
+    "name": "our story",
+    "link": "https://music.163.com/song?id=1376425795",
+    "duration": "03:36",
+    "artists": [
+      { "name": "chaochai", "link": "https://music.163.com/artist?id=30475601" }
+    ],
+    "album": {
+      "name": "Our Story",
+      "link": "https://music.163.com/album?id=80189451"
+    }
+  },
+  {
+    "name": "New Journey",
+    "link": "https://music.163.com/song?id=1408083222",
+    "duration": "03:58",
+    "artists": [
+      { "name": "PoiNix", "link": "https://music.163.com/artist?id=30959670" }
+    ],
+    "album": {
+      "name": "New Journey",
+      "link": "https://music.163.com/album?id=83845602"
+    }
+  },
+  {
+    "name": "It's Gotta Be You",
+    "link": "https://music.163.com/song?id=441835840",
+    "duration": "03:11",
+    "artists": [
+      { "name": "Isaiah", "link": "https://music.163.com/artist?id=12192247" }
+    ],
+    "album": {
+      "name": "It's Gotta Be You",
+      "link": "https://music.163.com/album?id=34923866"
+    }
+  },
+  {
+    "name": "Wing Chun（咏春拳）",
+    "link": "https://music.163.com/song?id=1462665369",
+    "duration": "03:24",
+    "artists": [
+      {
+        "name": "DJ Gooner",
+        "link": "https://music.163.com/artist?id=32439369"
+      }
+    ],
+    "album": {
+      "name": "Wing Chun",
+      "link": "https://music.163.com/album?id=92325205"
+    }
+  },
+  {
+    "name": "悠哉China~",
+    "link": "https://music.163.com/song?id=1359879658",
+    "duration": "03:11",
+    "artists": [
+      { "name": "罗晨渝", "link": "https://music.163.com/artist?id=30294440" }
+    ],
+    "album": {
+      "name": "China悠哉~",
+      "link": "https://music.163.com/album?id=78535453"
+    }
+  },
+  {
+    "name": "More Than Friends",
+    "link": "https://music.163.com/song?id=1377262610",
+    "duration": "02:39",
+    "artists": [
+      { "name": "Mokita", "link": "https://music.163.com/artist?id=12033046" }
+    ],
+    "album": {
+      "name": "4201",
+      "link": "https://music.163.com/album?id=80333414"
+    }
+  },
+  {
+    "name": "Scarlet",
+    "link": "https://music.163.com/song?id=422960067",
+    "duration": "03:27",
+    "artists": [
+      { "name": "Killigrew", "link": "https://music.163.com/artist?id=38066" }
+    ],
+    "album": {
+      "name": "Animus II",
+      "link": "https://music.163.com/album?id=34791251"
+    }
+  },
+  {
+    "name": "誰にだって訳がある - (电影《再见，嘴唇》插曲)",
+    "link": "https://music.163.com/song?id=1366904129",
+    "duration": "02:53",
+    "artists": [
+      { "name": "ハルレオ", "link": "https://music.163.com/artist?id=31979780" }
+    ],
+    "album": {
+      "name": "さよならくちびる",
+      "link": "https://music.163.com/album?id=79310385"
+    }
+  },
+  {
+    "name": "一笑懸命",
+    "link": "https://music.163.com/song?id=399249",
+    "duration": "03:50",
+    "artists": [
+      { "name": "遊助", "link": "https://music.163.com/artist?id=13775" }
+    ],
+    "album": {
+      "name": "一笑懸命 / イナヅマ侍",
+      "link": "https://music.163.com/album?id=39504"
+    }
+  },
+  {
+    "name": "マイライフ",
+    "link": "https://music.163.com/song?id=1350330823",
+    "duration": "03:17",
+    "artists": [
+      { "name": "CY8ER", "link": "https://music.163.com/artist?id=12046863" }
+    ],
+    "album": {
+      "name": "デッドボーイ、デッドガール",
+      "link": "https://music.163.com/album?id=75781185"
+    }
+  },
+  {
+    "name": "ナラタージュ - (电影《爱，不由自主》主题曲)",
+    "link": "https://music.163.com/song?id=501220772",
+    "duration": "05:40",
+    "artists": [
+      { "name": "adieu", "link": "https://music.163.com/artist?id=1186037" }
+    ],
+    "album": {
+      "name": "ナラタージュ",
+      "link": "https://music.163.com/album?id=36031462"
+    }
+  },
+  {
+    "name": "ハローハロー",
+    "link": "https://music.163.com/song?id=476638473",
+    "duration": "03:21",
+    "artists": [
+      { "name": "H△G", "link": "https://music.163.com/artist?id=996276" }
+    ],
+    "album": {
+      "name": "声 ~VOCALOID Cover Album~",
+      "link": "https://music.163.com/album?id=35357285"
+    }
+  },
+  {
+    "name": "Better Days",
+    "link": "https://music.163.com/song?id=1433904258",
+    "duration": "02:24",
+    "artists": [
+      { "name": "OneRepublic", "link": "https://music.163.com/artist?id=98105" }
+    ],
+    "album": {
+      "name": "Better Days",
+      "link": "https://music.163.com/album?id=86823819"
+    }
+  },
+  {
+    "name": "Calc.",
+    "link": "https://music.163.com/song?id=537854740",
+    "duration": "03:26",
+    "artists": [
+      { "name": "鹿乃", "link": "https://music.163.com/artist?id=17014" }
+    ],
+    "album": {
+      "name": "one",
+      "link": "https://music.163.com/album?id=37542486"
+    }
+  },
+  {
+    "name": "Happy Birthday",
+    "link": "https://music.163.com/song?id=1350901175",
+    "duration": "04:18",
+    "artists": [
+      { "name": "茶泡饭", "link": "https://music.163.com/artist?id=31217314" },
+      { "name": "春茶", "link": "https://music.163.com/artist?id=29690148" }
+    ],
+    "album": {
+      "name": "Happy Birthday",
+      "link": "https://music.163.com/album?id=75780341"
+    }
+  },
+  {
+    "name": "Undercover Martyn",
+    "link": "https://music.163.com/song?id=19610402",
+    "duration": "02:48",
+    "artists": [
+      {
+        "name": "Two Door Cinema Club",
+        "link": "https://music.163.com/artist?id=102717"
+      }
+    ],
+    "album": {
+      "name": "Undercover Martyn",
+      "link": "https://music.163.com/album?id=1804804"
+    }
+  },
+  {
+    "name": "Wake Within Me",
+    "link": "https://music.163.com/song?id=1461821047",
+    "duration": "03:41",
+    "artists": [
+      {
+        "name": "Kim Michelle Star",
+        "link": "https://music.163.com/artist?id=32537897"
+      }
+    ],
+    "album": {
+      "name": "Wake Within Me",
+      "link": "https://music.163.com/album?id=92246635"
+    }
+  },
+  {
+    "name": "Shout Baby",
+    "link": "https://music.163.com/song?id=1420533654",
+    "duration": "04:22",
+    "artists": [
+      {
+        "name": "緑黄色社会",
+        "link": "https://music.163.com/artist?id=13058010"
+      }
+    ],
+    "album": {
+      "name": "Shout Baby",
+      "link": "https://music.163.com/album?id=85418198"
+    }
+  },
+  {
+    "name": "MUKANJYO - (TV动画《冰海战记》片头曲)",
+    "link": "https://music.163.com/song?id=1381794832",
+    "duration": "03:12",
+    "artists": [
+      {
+        "name": "Survive Said The Prophet",
+        "link": "https://music.163.com/artist?id=159700"
+      }
+    ],
+    "album": {
+      "name": "MUKANJYO",
+      "link": "https://music.163.com/album?id=80758864"
+    }
+  },
+  {
+    "name": "One Winter's Day",
+    "link": "https://music.163.com/song?id=1349840731",
+    "duration": "04:17",
+    "artists": [
+      {
+        "name": "Justin Rutledge",
+        "link": "https://music.163.com/artist?id=35407"
+      }
+    ],
+    "album": {
+      "name": "One Winter's Day",
+      "link": "https://music.163.com/album?id=75758921"
+    }
+  },
+  {
+    "name": "Tears Of The Sun (Extended Uplifting Mix)",
+    "link": "https://music.163.com/song?id=456175592",
+    "duration": "06:33",
+    "artists": [
+      {
+        "name": "Alan Morris",
+        "link": "https://music.163.com/artist?id=193174"
+      },
+      { "name": "Marco Cera", "link": "https://music.163.com/artist?id=459164" }
+    ],
+    "album": {
+      "name": "Tears Of The Sun",
+      "link": "https://music.163.com/album?id=35158163"
+    }
+  },
+  {
+    "name": "Augury",
+    "link": "https://music.163.com/song?id=41650520",
+    "duration": "04:37",
+    "artists": [
+      { "name": "Dimatis", "link": "https://music.163.com/artist?id=1087344" }
+    ],
+    "album": {
+      "name": "Augury",
+      "link": "https://music.163.com/album?id=3451275"
+    }
+  },
+  {
+    "name": "Blackbird",
+    "link": "https://music.163.com/song?id=494947541",
+    "duration": "03:49",
+    "artists": [
+      { "name": "Beeches", "link": "https://music.163.com/artist?id=12560391" }
+    ],
+    "album": {
+      "name": "Famous Friends",
+      "link": "https://music.163.com/album?id=35869748"
+    }
+  },
+  {
+    "name": "If Nothing Goes Right, Go Left",
+    "link": "https://music.163.com/song?id=29557513",
+    "duration": "03:50",
+    "artists": [
+      {
+        "name": "I Spell it Nature",
+        "link": "https://music.163.com/artist?id=94622"
+      }
+    ],
+    "album": {
+      "name": "North",
+      "link": "https://music.163.com/album?id=3042549"
+    }
+  },
+  {
+    "name": "You",
+    "link": "https://music.163.com/song?id=1835950126",
+    "duration": "03:53",
+    "artists": [
+      { "name": "Regard", "link": "https://music.163.com/artist?id=12260125" },
+      {
+        "name": "Troye Sivan",
+        "link": "https://music.163.com/artist?id=45129"
+      },
+      {
+        "name": "Tate McRae",
+        "link": "https://music.163.com/artist?id=30784458"
+      }
+    ],
+    "album": {
+      "name": "You",
+      "link": "https://music.163.com/album?id=125777512"
+    }
+  }
+]

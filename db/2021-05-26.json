@@ -1,0 +1,491 @@
+[
+  {
+    "name": "Somebody",
+    "link": "https://music.163.com/song?id=1453248203",
+    "duration": "03:04",
+    "artists": [
+      { "name": "FEWZ", "link": "https://music.163.com/artist?id=12008133" }
+    ],
+    "album": {
+      "name": "Inside",
+      "link": "https://music.163.com/album?id=90401629"
+    }
+  },
+  {
+    "name": "214 National Highway (Original Mix)",
+    "link": "https://music.163.com/song?id=1443869151",
+    "duration": "07:22",
+    "artists": [
+      { "name": "Melchi", "link": "https://music.163.com/artist?id=12058010" }
+    ],
+    "album": {
+      "name": "214 National Highway",
+      "link": "https://music.163.com/album?id=88618312"
+    }
+  },
+  {
+    "name": "春珏",
+    "link": "https://music.163.com/song?id=1821963478",
+    "duration": "02:56",
+    "artists": [
+      {
+        "name": "Hope Boy",
+        "link": "https://music.163.com/artist?id=12851419"
+      },
+      {
+        "name": "张天奕ZTYick",
+        "link": "https://music.163.com/artist?id=12304366"
+      },
+      {
+        "name": "Beccaberry",
+        "link": "https://music.163.com/artist?id=34601632"
+      },
+      {
+        "name": "Yurium幼里安",
+        "link": "https://music.163.com/artist?id=31374204"
+      },
+      { "name": "杨世贸", "link": "https://music.163.com/artist?id=12571508" }
+    ],
+    "album": {
+      "name": "春珏",
+      "link": "https://music.163.com/album?id=123343012"
+    }
+  },
+  {
+    "name": "因为你",
+    "link": "https://music.163.com/song?id=1455849734",
+    "duration": "03:39",
+    "artists": [
+      {
+        "name": "OneCandy",
+        "link": "https://music.163.com/artist?id=12286389"
+      },
+      { "name": "张叶蕾", "link": "https://music.163.com/artist?id=12213291" },
+      { "name": "Aou", "link": "https://music.163.com/artist?id=12546065" }
+    ],
+    "album": {
+      "name": "因为你",
+      "link": "https://music.163.com/album?id=90951715"
+    }
+  },
+  {
+    "name": "Without You (Starlyte Remix)",
+    "link": "https://music.163.com/song?id=573582374",
+    "duration": "04:08",
+    "artists": [
+      {
+        "name": "Starlyte",
+        "link": "https://music.163.com/artist?id=12006394"
+      },
+      { "name": "Avicii", "link": "https://music.163.com/artist?id=45236" },
+      {
+        "name": "Sandro Cavazza",
+        "link": "https://music.163.com/artist?id=12323230"
+      }
+    ],
+    "album": {
+      "name": "Without You (Starlyte Remix) ",
+      "link": "https://music.163.com/album?id=39720116"
+    }
+  },
+  {
+    "name": "Love Story (Pop Mix)",
+    "link": "https://music.163.com/song?id=1439303315",
+    "duration": "03:53",
+    "artists": [
+      {
+        "name": "Taylor Swift",
+        "link": "https://music.163.com/artist?id=44266"
+      }
+    ],
+    "album": {
+      "name": "Love Story (Pop Mix)",
+      "link": "https://music.163.com/album?id=87850174"
+    }
+  },
+  {
+    "name": "Back To U",
+    "link": "https://music.163.com/song?id=1442681212",
+    "duration": "03:34",
+    "artists": [
+      { "name": "SLANDER", "link": "https://music.163.com/artist?id=1137239" },
+      {
+        "name": "William Black",
+        "link": "https://music.163.com/artist?id=248957"
+      }
+    ],
+    "album": {
+      "name": "Back To U",
+      "link": "https://music.163.com/album?id=88388886"
+    }
+  },
+  {
+    "name": "为什么人类不冬眠呢",
+    "link": "https://music.163.com/song?id=1817839113",
+    "duration": "03:27",
+    "artists": [
+      { "name": "杨世贸", "link": "https://music.163.com/artist?id=12571508" }
+    ],
+    "album": {
+      "name": "为什么人类不冬眠呢",
+      "link": "https://music.163.com/album?id=122579177"
+    }
+  },
+  {
+    "name": "Get Down",
+    "link": "https://music.163.com/song?id=862862104",
+    "duration": "02:55",
+    "artists": [
+      { "name": "Klaas", "link": "https://music.163.com/artist?id=106210" }
+    ],
+    "album": {
+      "name": "Get Down",
+      "link": "https://music.163.com/album?id=71674596"
+    }
+  },
+  {
+    "name": "Superb",
+    "link": "https://music.163.com/song?id=29487452",
+    "duration": "06:52",
+    "artists": [
+      { "name": "Mossy", "link": "https://music.163.com/artist?id=205303" }
+    ],
+    "album": {
+      "name": "Superb",
+      "link": "https://music.163.com/album?id=3033062"
+    }
+  },
+  {
+    "name": "Tears of Memories",
+    "link": "https://music.163.com/song?id=1389110709",
+    "duration": "06:59",
+    "artists": [
+      {
+        "name": "Mark & Lukas",
+        "link": "https://music.163.com/artist?id=1104097"
+      }
+    ],
+    "album": {
+      "name": "Life Is About Moments / Tears of Memories",
+      "link": "https://music.163.com/album?id=81412137"
+    }
+  },
+  {
+    "name": "I'm So Sorry",
+    "link": "https://music.163.com/song?id=1373168761",
+    "duration": "03:00",
+    "artists": [
+      {
+        "name": "Hearts & Colors",
+        "link": "https://music.163.com/artist?id=12399051"
+      }
+    ],
+    "album": {
+      "name": "I'm So Sorry",
+      "link": "https://music.163.com/album?id=79920106"
+    }
+  },
+  {
+    "name": "夏夜蝉鸣起",
+    "link": "https://music.163.com/song?id=1442411301",
+    "duration": "02:30",
+    "artists": [
+      { "name": "CarNo", "link": "https://music.163.com/artist?id=34136393" },
+      { "name": "白鸿", "link": "https://music.163.com/artist?id=31008744" }
+    ],
+    "album": {
+      "name": "暮晓",
+      "link": "https://music.163.com/album?id=87971492"
+    }
+  },
+  {
+    "name": "Lonely Eyes",
+    "link": "https://music.163.com/song?id=1426777560",
+    "duration": "03:16",
+    "artists": [
+      { "name": "Lauv", "link": "https://music.163.com/artist?id=1057226" }
+    ],
+    "album": {
+      "name": "~how i'm feeling~",
+      "link": "https://music.163.com/album?id=86086054"
+    }
+  },
+  {
+    "name": "Cage <NTv> - (剧场版《机动战士高达NT》 插入曲 / 劇場版『機動戦士ガンダムNT』挿入歌)",
+    "link": "https://music.163.com/song?id=1328183119",
+    "duration": "04:39",
+    "artists": [
+      {
+        "name": "SawanoHiroyuki[nZk]",
+        "link": "https://music.163.com/artist?id=1096011"
+      },
+      { "name": "Tielle", "link": "https://music.163.com/artist?id=12629228" }
+    ],
+    "album": {
+      "name": "narrative / NOISEofRAIN",
+      "link": "https://music.163.com/album?id=74579102"
+    }
+  },
+  {
+    "name": "We Got the Power",
+    "link": "https://music.163.com/song?id=1348448302",
+    "duration": "03:09",
+    "artists": [
+      {
+        "name": "Zayde Wølf",
+        "link": "https://music.163.com/artist?id=12073833"
+      }
+    ],
+    "album": {
+      "name": "Modern Alchemy (Deluxe)",
+      "link": "https://music.163.com/album?id=75702812"
+    }
+  },
+  {
+    "name": "Good Bye Brave World",
+    "link": "https://music.163.com/song?id=26624722",
+    "duration": "02:02",
+    "artists": [
+      {
+        "name": "Dirk Reichardt",
+        "link": "https://music.163.com/artist?id=861517"
+      },
+      {
+        "name": "David Juergens",
+        "link": "https://music.163.com/artist?id=15016003"
+      }
+    ],
+    "album": {
+      "name": "Kokowääh 2 (Original Motion Picture Soundtrack)",
+      "link": "https://music.163.com/album?id=2536612"
+    }
+  },
+  {
+    "name": "出发(Feat.洛天依)",
+    "link": "https://music.163.com/song?id=524453979",
+    "duration": "04:12",
+    "artists": [
+      {
+        "name": "HawkLegend",
+        "link": "https://music.163.com/artist?id=12272947"
+      },
+      { "name": "洛天依", "link": "https://music.163.com/artist?id=906118" }
+    ],
+    "album": {
+      "name": "出发(Feat.洛天依)",
+      "link": "https://music.163.com/album?id=36992255"
+    }
+  },
+  {
+    "name": "誰がその鐘を鳴らすのか？ - (谁来敲响这座钟呢？)",
+    "link": "https://music.163.com/song?id=1467909540",
+    "duration": "04:05",
+    "artists": [
+      { "name": "欅坂46", "link": "https://music.163.com/artist?id=12009134" }
+    ],
+    "album": {
+      "name": "誰がその鐘を鳴らすのか？",
+      "link": "https://music.163.com/album?id=93383270"
+    }
+  },
+  {
+    "name": "全部アナタのせいなんだ - (全部都是你的错)",
+    "link": "https://music.163.com/song?id=1444648358",
+    "duration": "03:50",
+    "artists": [
+      {
+        "name": "I Don't Like Mondays.",
+        "link": "https://music.163.com/artist?id=1017071"
+      }
+    ],
+    "album": {
+      "name": "全部アナタのせいなんだ",
+      "link": "https://music.163.com/album?id=88772152"
+    }
+  },
+  {
+    "name": "Dream About You (Original Mix)",
+    "link": "https://music.163.com/song?id=27586173",
+    "duration": "08:40",
+    "artists": [
+      {
+        "name": "Simon O'Shine",
+        "link": "https://music.163.com/artist?id=207035"
+      }
+    ],
+    "album": {
+      "name": "Inside The Source",
+      "link": "https://music.163.com/album?id=2642138"
+    }
+  },
+  {
+    "name": "Maiden‘s Prayer",
+    "link": "https://music.163.com/song?id=549169680",
+    "duration": "03:07",
+    "artists": [
+      { "name": "十指流玉", "link": "https://music.163.com/artist?id=12021027" }
+    ],
+    "album": {
+      "name": "世界尽头与冷酷仙境",
+      "link": "https://music.163.com/album?id=38103148"
+    }
+  },
+  {
+    "name": "Dancing Water (Original Mix)",
+    "link": "https://music.163.com/song?id=546540831",
+    "duration": "08:34",
+    "artists": [
+      {
+        "name": "DreamLife",
+        "link": "https://music.163.com/artist?id=12278102"
+      },
+      { "name": "Laucco", "link": "https://music.163.com/artist?id=758192" }
+    ],
+    "album": {
+      "name": "Dancing Water",
+      "link": "https://music.163.com/album?id=37941781"
+    }
+  },
+  {
+    "name": "Daydaydream",
+    "link": "https://music.163.com/song?id=1828858733",
+    "duration": "04:08",
+    "artists": [
+      {
+        "name": "塞壬唱片-MSR",
+        "link": "https://music.163.com/artist?id=32540734"
+      },
+      {
+        "name": "THE EITHER",
+        "link": "https://music.163.com/artist?id=12797039"
+      }
+    ],
+    "album": {
+      "name": "Daydaydream",
+      "link": "https://music.163.com/album?id=124465362"
+    }
+  },
+  {
+    "name": "那么骄傲",
+    "link": "https://music.163.com/song?id=1395499543",
+    "duration": "04:07",
+    "artists": [
+      { "name": "桃ki", "link": "https://music.163.com/artist?id=31953808" }
+    ],
+    "album": {
+      "name": "那么骄傲",
+      "link": "https://music.163.com/album?id=82167979"
+    }
+  },
+  {
+    "name": "恋の恋による恋のための恋 - (由对爱之爱而生的为爱而爱)",
+    "link": "https://music.163.com/song?id=1825021569",
+    "duration": "03:58",
+    "artists": [
+      {
+        "name": "ピノキオピー",
+        "link": "https://music.163.com/artist?id=15229"
+      }
+    ],
+    "album": {
+      "name": "恋の恋による恋のための恋",
+      "link": "https://music.163.com/album?id=123914239"
+    }
+  },
+  {
+    "name": "ずっとそばに",
+    "link": "https://music.163.com/song?id=1486767553",
+    "duration": "04:06",
+    "artists": [
+      {
+        "name": "Cö shu Nie",
+        "link": "https://music.163.com/artist?id=12136070"
+      }
+    ],
+    "album": {
+      "name": "LITMUS",
+      "link": "https://music.163.com/album?id=97356037"
+    }
+  },
+  {
+    "name": "Runaway",
+    "link": "https://music.163.com/song?id=28383907",
+    "duration": "04:31",
+    "artists": [
+      {
+        "name": "Pierce Fulton",
+        "link": "https://music.163.com/artist?id=904134"
+      }
+    ],
+    "album": {
+      "name": "Runaway EP",
+      "link": "https://music.163.com/album?id=2781276"
+    }
+  },
+  {
+    "name": "落樱",
+    "link": "https://music.163.com/song?id=1450438524",
+    "duration": "03:22",
+    "artists": [
+      {
+        "name": "逸然_太白",
+        "link": "https://music.163.com/artist?id=12271851"
+      }
+    ],
+    "album": {
+      "name": "落樱",
+      "link": "https://music.163.com/album?id=89853873"
+    }
+  },
+  {
+    "name": "HENTAI",
+    "link": "https://music.163.com/song?id=1445403543",
+    "duration": "03:07",
+    "artists": [
+      { "name": "Selphius", "link": "https://music.163.com/artist?id=29895129" }
+    ],
+    "album": {
+      "name": "HENTAI",
+      "link": "https://music.163.com/album?id=88917900"
+    }
+  },
+  {
+    "name": "半调子",
+    "link": "https://music.163.com/song?id=1439354293",
+    "duration": "04:33",
+    "artists": [
+      { "name": "羽果", "link": "https://music.163.com/artist?id=13422" }
+    ],
+    "album": {
+      "name": "怒马",
+      "link": "https://music.163.com/album?id=87837737"
+    }
+  },
+  {
+    "name": "窗",
+    "link": "https://music.163.com/song?id=1847250546",
+    "duration": "03:00",
+    "artists": [
+      { "name": "虎二", "link": "https://music.163.com/artist?id=12286700" }
+    ],
+    "album": {
+      "name": "窗",
+      "link": "https://music.163.com/album?id=127826800"
+    }
+  },
+  {
+    "name": "ミニスカートとハイライト",
+    "link": "https://music.163.com/song?id=1847019480",
+    "duration": "02:48",
+    "artists": [
+      {
+        "name": "あいみょん",
+        "link": "https://music.163.com/artist?id=1053279"
+      }
+    ],
+    "album": {
+      "name": "愛を知るまでは/桜が降る夜は",
+      "link": "https://music.163.com/album?id=127803721"
+    }
+  }
+]

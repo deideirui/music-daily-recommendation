@@ -1,0 +1,460 @@
+[
+  {
+    "name": "Deep Blue (feat. Monika Santucci)",
+    "link": "https://music.163.com/song?id=1381084455",
+    "duration": "03:21",
+    "artists": [
+      {
+        "name": "William Black",
+        "link": "https://music.163.com/artist?id=248957"
+      },
+      {
+        "name": "Monika Santucci",
+        "link": "https://music.163.com/artist?id=13989763"
+      }
+    ],
+    "album": {
+      "name": "Pages",
+      "link": "https://music.163.com/album?id=80685180"
+    }
+  },
+  {
+    "name": "Feelings",
+    "link": "https://music.163.com/song?id=1356527766",
+    "duration": "02:43",
+    "artists": [
+      {
+        "name": "Deep Chills",
+        "link": "https://music.163.com/artist?id=1063083"
+      },
+      { "name": "Natania", "link": "https://music.163.com/artist?id=12785081" }
+    ],
+    "album": {
+      "name": "Feelings",
+      "link": "https://music.163.com/album?id=78326170"
+    }
+  },
+  {
+    "name": "Potions",
+    "link": "https://music.163.com/song?id=1367524424",
+    "duration": "03:36",
+    "artists": [
+      { "name": "SLANDER", "link": "https://music.163.com/artist?id=1137239" },
+      {
+        "name": "Said The Sky",
+        "link": "https://music.163.com/artist?id=1026094"
+      },
+      { "name": "JT Roach", "link": "https://music.163.com/artist?id=12935954" }
+    ],
+    "album": {
+      "name": "Potions",
+      "link": "https://music.163.com/album?id=79392768"
+    }
+  },
+  {
+    "name": "No Angels",
+    "link": "https://music.163.com/song?id=1374313054",
+    "duration": "02:58",
+    "artists": [
+      {
+        "name": "Jay Made",
+        "link": "https://music.163.com/artist?id=27863747"
+      },
+      {
+        "name": "Miranda Glory",
+        "link": "https://music.163.com/artist?id=12463504"
+      }
+    ],
+    "album": {
+      "name": "No Angels",
+      "link": "https://music.163.com/album?id=80028149"
+    }
+  },
+  {
+    "name": "What I Like About You",
+    "link": "https://music.163.com/song?id=1353368988",
+    "duration": "03:40",
+    "artists": [
+      {
+        "name": "Jonas Blue",
+        "link": "https://music.163.com/artist?id=1192069"
+      },
+      {
+        "name": "Theresa Rex",
+        "link": "https://music.163.com/artist?id=30282713"
+      }
+    ],
+    "album": {
+      "name": "What I Like About You",
+      "link": "https://music.163.com/album?id=77634351"
+    }
+  },
+  {
+    "name": "Throw It All Away",
+    "link": "https://music.163.com/song?id=1380257292",
+    "duration": "03:14",
+    "artists": [
+      { "name": "Madnap", "link": "https://music.163.com/artist?id=896042" },
+      { "name": "SMLE", "link": "https://music.163.com/artist?id=1084201" },
+      { "name": "Aviella", "link": "https://music.163.com/artist?id=31275749" }
+    ],
+    "album": {
+      "name": "Throw It All Away",
+      "link": "https://music.163.com/album?id=80620359"
+    }
+  },
+  {
+    "name": "Know Me",
+    "link": "https://music.163.com/song?id=1378937717",
+    "duration": "03:15",
+    "artists": [
+      { "name": "Domastic", "link": "https://music.163.com/artist?id=12249119" }
+    ],
+    "album": {
+      "name": "Know Me",
+      "link": "https://music.163.com/album?id=80500239"
+    }
+  },
+  {
+    "name": "Crossfire",
+    "link": "https://music.163.com/song?id=1361724855",
+    "duration": "03:10",
+    "artists": [
+      {
+        "name": "Robby East",
+        "link": "https://music.163.com/artist?id=999079"
+      },
+      { "name": "Salvo", "link": "https://music.163.com/artist?id=369219" }
+    ],
+    "album": {
+      "name": "Crossfire",
+      "link": "https://music.163.com/album?id=78808003"
+    }
+  },
+  {
+    "name": "Break It Off (Radio Edit)",
+    "link": "https://music.163.com/song?id=440354438",
+    "duration": "03:19",
+    "artists": [
+      {
+        "name": "Dani 3Palacios",
+        "link": "https://music.163.com/artist?id=12046541"
+      },
+      {
+        "name": "Francis Davila",
+        "link": "https://music.163.com/artist?id=203789"
+      },
+      {
+        "name": "Suzie Del Vecchio",
+        "link": "https://music.163.com/artist?id=12213016"
+      }
+    ],
+    "album": {
+      "name": "Break It Off",
+      "link": "https://music.163.com/album?id=34983205"
+    }
+  },
+  {
+    "name": "Otherside (Extended Mix)",
+    "link": "https://music.163.com/song?id=406096288",
+    "duration": "04:22",
+    "artists": [
+      { "name": "HIIO", "link": "https://music.163.com/artist?id=793035" },
+      {
+        "name": "Danyka Nadeau",
+        "link": "https://music.163.com/artist?id=1078277"
+      }
+    ],
+    "album": {
+      "name": "Revealed Recordings presents Miami Sampler 2016",
+      "link": "https://music.163.com/album?id=34515649"
+    }
+  },
+  {
+    "name": "Daylight",
+    "link": "https://music.163.com/song?id=864100217",
+    "duration": "03:11",
+    "artists": [
+      { "name": "Fluex", "link": "https://music.163.com/artist?id=12213292" }
+    ],
+    "album": {
+      "name": "Daylight ",
+      "link": "https://music.163.com/album?id=71723712"
+    }
+  },
+  {
+    "name": "Saga",
+    "link": "https://music.163.com/song?id=1300435588",
+    "duration": "03:52",
+    "artists": [
+      {
+        "name": "Matisse & Sadko",
+        "link": "https://music.163.com/artist?id=947054"
+      }
+    ],
+    "album": {
+      "name": "Saga",
+      "link": "https://music.163.com/album?id=72231627"
+    }
+  },
+  {
+    "name": "Open Your Eyes",
+    "link": "https://music.163.com/song?id=28212253",
+    "duration": "03:32",
+    "artists": [
+      { "name": "Will K", "link": "https://music.163.com/artist?id=881025" },
+      {
+        "name": "Mitch Thompson",
+        "link": "https://music.163.com/artist?id=881026"
+      }
+    ],
+    "album": {
+      "name": "Absolute Dance Winter 2014",
+      "link": "https://music.163.com/album?id=2745529"
+    }
+  },
+  {
+    "name": "Live For You",
+    "link": "https://music.163.com/song?id=1361144788",
+    "duration": "03:35",
+    "artists": [
+      {
+        "name": "Kill The Buzz",
+        "link": "https://music.163.com/artist?id=331525"
+      },
+      {
+        "name": "Abe Stewart",
+        "link": "https://music.163.com/artist?id=13986863"
+      }
+    ],
+    "album": {
+      "name": "Live For You",
+      "link": "https://music.163.com/album?id=78758008"
+    }
+  },
+  {
+    "name": "Summer Night Hiking",
+    "link": "https://music.163.com/song?id=1300595165",
+    "duration": "03:40",
+    "artists": [
+      { "name": "YUC'e", "link": "https://music.163.com/artist?id=12054347" }
+    ],
+    "album": {
+      "name": "Summer Night Hiking",
+      "link": "https://music.163.com/album?id=72070316"
+    }
+  },
+  {
+    "name": "Our Story (Wisp X Remix)",
+    "link": "https://music.163.com/song?id=30780434",
+    "duration": "04:26",
+    "artists": [
+      { "name": "Wisp X", "link": "https://music.163.com/artist?id=1046123" },
+      { "name": "Mako", "link": "https://music.163.com/artist?id=68192" }
+    ],
+    "album": {
+      "name": "Our Story (Wisp X Remix)",
+      "link": "https://music.163.com/album?id=3103224"
+    }
+  },
+  {
+    "name": "Feels Like Gold",
+    "link": "https://music.163.com/song?id=550795493",
+    "duration": "03:45",
+    "artists": [
+      { "name": "Qulinez", "link": "https://music.163.com/artist?id=352208" },
+      { "name": "Lost Boy", "link": "https://music.163.com/artist?id=12279141" }
+    ],
+    "album": {
+      "name": "Feels Like Gold",
+      "link": "https://music.163.com/album?id=38245848"
+    }
+  },
+  {
+    "name": "make.believe (八王子P Mix)",
+    "link": "https://music.163.com/song?id=22637159",
+    "duration": "06:06",
+    "artists": [
+      {
+        "name": "元気ロケッツ",
+        "link": "https://music.163.com/artist?id=16777"
+      }
+    ],
+    "album": {
+      "name": "Genki Rockets II -No border between us- Repackage",
+      "link": "https://music.163.com/album?id=2075247"
+    }
+  },
+  {
+    "name": "Enigmatic Dollz - Eris loves Nextdoor Remix - (原曲:エニグマティクドール「蓬莱人形/稀翁玉」)",
+    "link": "https://music.163.com/song?id=503268096",
+    "duration": "04:01",
+    "artists": [
+      { "name": "cold kiss", "link": "https://music.163.com/artist?id=19058" }
+    ],
+    "album": {
+      "name": "50/50",
+      "link": "https://music.163.com/album?id=36037877"
+    }
+  },
+  {
+    "name": "Born (Original Mix)",
+    "link": "https://music.163.com/song?id=26278741",
+    "duration": "04:27",
+    "artists": [
+      { "name": "MitiS", "link": "https://music.163.com/artist?id=40245" }
+    ],
+    "album": {
+      "name": "Born",
+      "link": "https://music.163.com/album?id=2441937"
+    }
+  },
+  {
+    "name": "Until now I have been looking for you",
+    "link": "https://music.163.com/song?id=500412153",
+    "duration": "04:02",
+    "artists": [
+      {
+        "name": "浅場佳苗",
+        "link": "https://music.163.com/artist?id=12154286"
+      },
+      { "name": "MK", "link": "https://music.163.com/artist?id=1177036" }
+    ],
+    "album": {
+      "name": "REVOLUTION OF HAPPY #02",
+      "link": "https://music.163.com/album?id=36017076"
+    }
+  },
+  {
+    "name": "Until The Stars Collide",
+    "link": "https://music.163.com/song?id=33248341",
+    "duration": "03:00",
+    "artists": [
+      { "name": "Tiscore", "link": "https://music.163.com/artist?id=1101049" }
+    ],
+    "album": {
+      "name": "Dream Dance Vol.76",
+      "link": "https://music.163.com/album?id=3195009"
+    }
+  },
+  {
+    "name": "Morning Light (Original Mix)",
+    "link": "https://music.163.com/song?id=29490362",
+    "duration": "07:45",
+    "artists": [
+      {
+        "name": "Roald Velden",
+        "link": "https://music.163.com/artist?id=178498"
+      }
+    ],
+    "album": {
+      "name": "Last Flight Home",
+      "link": "https://music.163.com/album?id=3033342"
+    }
+  },
+  {
+    "name": "Canto Grande (Original Mix)",
+    "link": "https://music.163.com/song?id=412016384",
+    "duration": "07:22",
+    "artists": [
+      { "name": "Musty", "link": "https://music.163.com/artist?id=12080271" }
+    ],
+    "album": {
+      "name": "Elliptical Sun Sampler 016",
+      "link": "https://music.163.com/album?id=34678583"
+    }
+  },
+  {
+    "name": "Fall With Me (Original Mix)",
+    "link": "https://music.163.com/song?id=31600821",
+    "duration": "06:11",
+    "artists": [
+      {
+        "name": "the Glass Child",
+        "link": "https://music.163.com/artist?id=851410"
+      },
+      { "name": "Ben Gold", "link": "https://music.163.com/artist?id=152127" }
+    ],
+    "album": {
+      "name": "Trance Travel Vol.62 (All Around the World)",
+      "link": "https://music.163.com/album?id=3129359"
+    }
+  },
+  {
+    "name": "Cheap Thrills",
+    "link": "https://music.163.com/song?id=39224884",
+    "duration": "03:31",
+    "artists": [
+      { "name": "Sia", "link": "https://music.163.com/artist?id=74625" }
+    ],
+    "album": {
+      "name": "This Is Acting",
+      "link": "https://music.163.com/album?id=3394107"
+    }
+  },
+  {
+    "name": "You Don't Love Me",
+    "link": "https://music.163.com/song?id=534067174",
+    "duration": "04:13",
+    "artists": [
+      { "name": "tyDi", "link": "https://music.163.com/artist?id=45044" },
+      {
+        "name": "Christopher Tin",
+        "link": "https://music.163.com/artist?id=30780"
+      },
+      { "name": "Freesia", "link": "https://music.163.com/artist?id=12286659" }
+    ],
+    "album": {
+      "name": "You Don't Love Me",
+      "link": "https://music.163.com/album?id=37442077"
+    }
+  },
+  {
+    "name": "I Still Do",
+    "link": "https://music.163.com/song?id=1462785779",
+    "duration": "03:09",
+    "artists": [
+      { "name": "Kiiara", "link": "https://music.163.com/artist?id=1124598" }
+    ],
+    "album": {
+      "name": "I Still Do",
+      "link": "https://music.163.com/album?id=92419438"
+    }
+  },
+  {
+    "name": "skeletons",
+    "link": "https://music.163.com/song?id=1378191814",
+    "duration": "02:32",
+    "artists": [
+      { "name": "keshi", "link": "https://music.163.com/artist?id=12544511" }
+    ],
+    "album": {
+      "name": "skeletons",
+      "link": "https://music.163.com/album?id=80416147"
+    }
+  },
+  {
+    "name": "Patty (Smile)",
+    "link": "https://music.163.com/song?id=4432603",
+    "duration": "03:43",
+    "artists": [
+      { "name": "Work Drugs", "link": "https://music.163.com/artist?id=105431" }
+    ],
+    "album": {
+      "name": "Aurora Lies",
+      "link": "https://music.163.com/album?id=447387"
+    }
+  },
+  {
+    "name": "Magic Idea",
+    "link": "https://music.163.com/song?id=27011191",
+    "duration": "03:22",
+    "artists": [
+      { "name": "solar year", "link": "https://music.163.com/artist?id=688939" }
+    ],
+    "album": {
+      "name": "Waverly",
+      "link": "https://music.163.com/album?id=2582111"
+    }
+  }
+]

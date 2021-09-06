@@ -1,0 +1,440 @@
+[
+  {
+    "name": "Think Before I Talk (Acoustic)",
+    "link": "https://music.163.com/song?id=515579868",
+    "duration": "03:37",
+    "artists": [
+      { "name": "Astrid S", "link": "https://music.163.com/artist?id=1081844" }
+    ],
+    "album": {
+      "name": "Think Before I Talk (Acoustic)",
+      "link": "https://music.163.com/album?id=36683363"
+    }
+  },
+  {
+    "name": "Lionheart",
+    "link": "https://music.163.com/song?id=1345863606",
+    "duration": "03:27",
+    "artists": [
+      {
+        "name": "Gareth Emery",
+        "link": "https://music.163.com/artist?id=34318"
+      },
+      {
+        "name": "Ashley Wallbridge",
+        "link": "https://music.163.com/artist?id=29252"
+      },
+      { "name": "Pollyanna", "link": "https://music.163.com/artist?id=136461" }
+    ],
+    "album": {
+      "name": "Lionheart",
+      "link": "https://music.163.com/album?id=75544764"
+    }
+  },
+  {
+    "name": "Miss You (Original Mix)",
+    "link": "https://music.163.com/song?id=403136410",
+    "duration": "07:39",
+    "artists": [
+      { "name": "RAM", "link": "https://music.163.com/artist?id=73231" },
+      { "name": "Kim Kiona", "link": "https://music.163.com/artist?id=1078281" }
+    ],
+    "album": {
+      "name": "Miss You",
+      "link": "https://music.163.com/album?id=34477459"
+    }
+  },
+  {
+    "name": "While You Were Gone",
+    "link": "https://music.163.com/song?id=514162244",
+    "duration": "05:20",
+    "artists": [
+      {
+        "name": "Paul van Dyk",
+        "link": "https://music.163.com/artist?id=41145"
+      },
+      {
+        "name": "Vincent Corver",
+        "link": "https://music.163.com/artist?id=30248921"
+      }
+    ],
+    "album": {
+      "name": "From Then On",
+      "link": "https://music.163.com/album?id=36636004"
+    }
+  },
+  {
+    "name": "Viva La Vida",
+    "link": "https://music.163.com/song?id=1444307599",
+    "duration": "04:02",
+    "artists": [
+      { "name": "Coldplay", "link": "https://music.163.com/artist?id=89365" }
+    ],
+    "album": {
+      "name": "Happy Songs",
+      "link": "https://music.163.com/album?id=88695969"
+    }
+  },
+  {
+    "name": "last words",
+    "link": "https://music.163.com/song?id=539717756",
+    "duration": "03:43",
+    "artists": [
+      {
+        "name": "Isaac Gracie",
+        "link": "https://music.163.com/artist?id=12023212"
+      }
+    ],
+    "album": {
+      "name": "last words",
+      "link": "https://music.163.com/album?id=37661492"
+    }
+  },
+  {
+    "name": "她的眼睛会唱歌",
+    "link": "https://music.163.com/song?id=1435601549",
+    "duration": "02:42",
+    "artists": [
+      { "name": "张宇佳", "link": "https://music.163.com/artist?id=33174146" }
+    ],
+    "album": {
+      "name": "她的眼睛会唱歌",
+      "link": "https://music.163.com/album?id=87068406"
+    }
+  },
+  {
+    "name": "Leave This Island",
+    "link": "https://music.163.com/song?id=28267932",
+    "duration": "04:01",
+    "artists": [
+      { "name": "Maxïmo Park", "link": "https://music.163.com/artist?id=38907" }
+    ],
+    "album": {
+      "name": "Leave This Island",
+      "link": "https://music.163.com/album?id=2762369"
+    }
+  },
+  {
+    "name": "Nothing Else",
+    "link": "https://music.163.com/song?id=506986380",
+    "duration": "04:24",
+    "artists": [
+      {
+        "name": "Angus & Julia Stone",
+        "link": "https://music.163.com/artist?id=85532"
+      }
+    ],
+    "album": {
+      "name": "Snow",
+      "link": "https://music.163.com/album?id=36192683"
+    }
+  },
+  {
+    "name": "Conrad",
+    "link": "https://music.163.com/song?id=428423172",
+    "duration": "03:43",
+    "artists": [
+      { "name": "SOHN", "link": "https://music.163.com/artist?id=770049" }
+    ],
+    "album": {
+      "name": "Rennen",
+      "link": "https://music.163.com/album?id=34866055"
+    }
+  },
+  {
+    "name": "Shook Down",
+    "link": "https://music.163.com/song?id=19902626",
+    "duration": "03:26",
+    "artists": [
+      { "name": "Yuck", "link": "https://music.163.com/artist?id=105712" }
+    ],
+    "album": {
+      "name": "Yuck",
+      "link": "https://music.163.com/album?id=1836673"
+    }
+  },
+  {
+    "name": "無能",
+    "link": "https://music.163.com/song?id=30854807",
+    "duration": "03:40",
+    "artists": [
+      {
+        "name": "österreich",
+        "link": "https://music.163.com/artist?id=1047433"
+      }
+    ],
+    "album": {
+      "name": "無能",
+      "link": "https://music.163.com/album?id=3104766"
+    }
+  },
+  {
+    "name": "(What Is) Love?",
+    "link": "https://music.163.com/song?id=2774741",
+    "duration": "04:24",
+    "artists": [
+      {
+        "name": "Jennifer Lopez",
+        "link": "https://music.163.com/artist?id=60932"
+      }
+    ],
+    "album": {
+      "name": "(What Is) Love?",
+      "link": "https://music.163.com/album?id=279890"
+    }
+  },
+  {
+    "name": "I'd Rather Go Blind",
+    "link": "https://music.163.com/song?id=1309261",
+    "duration": "02:36",
+    "artists": [
+      { "name": "Etta James", "link": "https://music.163.com/artist?id=32693" }
+    ],
+    "album": {
+      "name": "Tell Mama",
+      "link": "https://music.163.com/album?id=134684"
+    }
+  },
+  {
+    "name": "Mykonos",
+    "link": "https://music.163.com/song?id=17902096",
+    "duration": "04:35",
+    "artists": [
+      { "name": "Fleet Foxes", "link": "https://music.163.com/artist?id=92441" }
+    ],
+    "album": {
+      "name": "Sun Giant",
+      "link": "https://music.163.com/album?id=1646817"
+    }
+  },
+  {
+    "name": "Change Your Life (feat. Jhené Aiko)",
+    "link": "https://music.163.com/song?id=1446799846",
+    "duration": "03:11",
+    "artists": [
+      { "name": "Kehlani", "link": "https://music.163.com/artist?id=1060155" },
+      { "name": "Jhene Aiko", "link": "https://music.163.com/artist?id=844172" }
+    ],
+    "album": {
+      "name": "It Was Good Until It Wasn't",
+      "link": "https://music.163.com/album?id=89214034"
+    }
+  },
+  {
+    "name": "Smack That",
+    "link": "https://music.163.com/song?id=5102694",
+    "duration": "03:33",
+    "artists": [
+      { "name": "Akon", "link": "https://music.163.com/artist?id=27595" },
+      { "name": "Eminem", "link": "https://music.163.com/artist?id=32665" }
+    ],
+    "album": {
+      "name": "**** R&B",
+      "link": "https://music.163.com/album?id=504141"
+    }
+  },
+  {
+    "name": "Questions",
+    "link": "https://music.163.com/song?id=565258283",
+    "duration": "01:56",
+    "artists": [
+      {
+        "name": "khai dreams",
+        "link": "https://music.163.com/artist?id=12176301"
+      },
+      { "name": "Atwood", "link": "https://music.163.com/artist?id=14057176" }
+    ],
+    "album": {
+      "name": "Nice Colors",
+      "link": "https://music.163.com/album?id=39169188"
+    }
+  },
+  {
+    "name": "Wanderers（翻自 JULIA SHORTREED） ",
+    "link": "https://music.163.com/song?id=1350113662",
+    "duration": "03:34",
+    "artists": [
+      { "name": "eddy盖", "link": "https://music.163.com/artist?id=12195567" }
+    ],
+    "album": {
+      "name": "Unravel/Wanderers",
+      "link": "https://music.163.com/album?id=75759955"
+    }
+  },
+  {
+    "name": "I Pray (Extended Mix)",
+    "link": "https://music.163.com/song?id=518894158",
+    "duration": "05:13",
+    "artists": [
+      {
+        "name": "Ellie Lawson",
+        "link": "https://music.163.com/artist?id=56061"
+      },
+      {
+        "name": "Frainbreeze",
+        "link": "https://music.163.com/artist?id=11992076"
+      }
+    ],
+    "album": {
+      "name": "I Pray",
+      "link": "https://music.163.com/album?id=36812065"
+    }
+  },
+  {
+    "name": "Let It Snow",
+    "link": "https://music.163.com/song?id=37820827",
+    "duration": "02:09",
+    "artists": [
+      {
+        "name": "Daniela Andrade",
+        "link": "https://music.163.com/artist?id=975673"
+      }
+    ],
+    "album": {
+      "name": "The Christmas",
+      "link": "https://music.163.com/album?id=3415951"
+    }
+  },
+  {
+    "name": "Til The Sun Rise Up (Jay Eskar Remix)",
+    "link": "https://music.163.com/song?id=515455242",
+    "duration": "03:35",
+    "artists": [
+      {
+        "name": "Jay Eskar",
+        "link": "https://music.163.com/artist?id=12132198"
+      },
+      {
+        "name": "Bob Sinclar",
+        "link": "https://music.163.com/artist?id=29843"
+      },
+      { "name": "Akon", "link": "https://music.163.com/artist?id=27595" }
+    ],
+    "album": {
+      "name": "Til The Sun Rise Up (Jay Eskar Remix)",
+      "link": "https://music.163.com/album?id=36681036"
+    }
+  },
+  {
+    "name": "Bud",
+    "link": "https://music.163.com/song?id=464797841",
+    "duration": "03:35",
+    "artists": [
+      {
+        "name": "Fenne Lily",
+        "link": "https://music.163.com/artist?id=12132176"
+      }
+    ],
+    "album": {
+      "name": "Bud",
+      "link": "https://music.163.com/album?id=35241524"
+    }
+  },
+  {
+    "name": "Heaven",
+    "link": "https://music.163.com/song?id=411314156",
+    "duration": "03:45",
+    "artists": [
+      { "name": "Avicii", "link": "https://music.163.com/artist?id=45236" },
+      {
+        "name": "Simon Aldred",
+        "link": "https://music.163.com/artist?id=13855993"
+      }
+    ],
+    "album": {
+      "name": "Heaven",
+      "link": "https://music.163.com/album?id=3427794"
+    }
+  },
+  {
+    "name": "Five Days",
+    "link": "https://music.163.com/song?id=33789785",
+    "duration": "03:19",
+    "artists": [
+      { "name": "Patrick Nuo", "link": "https://music.163.com/artist?id=41161" }
+    ],
+    "album": {
+      "name": "Five Days",
+      "link": "https://music.163.com/album?id=3263283"
+    }
+  },
+  {
+    "name": "Close to Where You Are",
+    "link": "https://music.163.com/song?id=28493594",
+    "duration": "03:28",
+    "artists": [
+      {
+        "name": "Brooklyn Haley",
+        "link": "https://music.163.com/artist?id=912027"
+      }
+    ],
+    "album": {
+      "name": "Close to Where You Are",
+      "link": "https://music.163.com/album?id=2805257"
+    }
+  },
+  {
+    "name": "I've changed for you",
+    "link": "https://music.163.com/song?id=1297486203",
+    "duration": "03:15",
+    "artists": [
+      { "name": "Kina", "link": "https://music.163.com/artist?id=12826481" },
+      { "name": "Madson", "link": "https://music.163.com/artist?id=14469084" }
+    ],
+    "album": {
+      "name": "I've changed for you",
+      "link": "https://music.163.com/album?id=72056653"
+    }
+  },
+  {
+    "name": "Heliopause (Original Mix)",
+    "link": "https://music.163.com/song?id=467164292",
+    "duration": "07:20",
+    "artists": [
+      {
+        "name": "Robert Nickson",
+        "link": "https://music.163.com/artist?id=137509"
+      }
+    ],
+    "album": {
+      "name": "Heliopause",
+      "link": "https://music.163.com/album?id=35293540"
+    }
+  },
+  {
+    "name": "This Is Home",
+    "link": "https://music.163.com/song?id=1359554132",
+    "duration": "03:46",
+    "artists": [
+      { "name": "Cavetown", "link": "https://music.163.com/artist?id=13021855" }
+    ],
+    "album": {
+      "name": "This Is Home",
+      "link": "https://music.163.com/album?id=78585595"
+    }
+  },
+  {
+    "name": "9 PM (Till I Come) [Sequential One Remix]",
+    "link": "https://music.163.com/song?id=994072",
+    "duration": "05:50",
+    "artists": [
+      { "name": "ATB", "link": "https://music.163.com/artist?id=27623" }
+    ],
+    "album": {
+      "name": "The DJ in the Mix",
+      "link": "https://music.163.com/album?id=104126"
+    }
+  },
+  {
+    "name": "Life Of The Party",
+    "link": "https://music.163.com/song?id=2185080",
+    "duration": "03:30",
+    "artists": [
+      { "name": "Aleesia", "link": "https://music.163.com/artist?id=48272" }
+    ],
+    "album": {
+      "name": "Girl Talk",
+      "link": "https://music.163.com/album?id=220410"
+    }
+  }
+]

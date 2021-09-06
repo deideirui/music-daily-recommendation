@@ -1,0 +1,467 @@
+[
+  {
+    "name": "Into the Sea",
+    "link": "https://music.163.com/song?id=1365306313",
+    "duration": "03:06",
+    "artists": [
+      {
+        "name": "Wave Wave",
+        "link": "https://music.163.com/artist?id=12262095"
+      },
+      { "name": "Hilla", "link": "https://music.163.com/artist?id=13106679" }
+    ],
+    "album": {
+      "name": "Into the Sea",
+      "link": "https://music.163.com/album?id=79118879"
+    }
+  },
+  {
+    "name": "Miracles",
+    "link": "https://music.163.com/song?id=1363601127",
+    "duration": "03:11",
+    "artists": [
+      {
+        "name": "Axel Johansson",
+        "link": "https://music.163.com/artist?id=12872604"
+      },
+      {
+        "name": "Tina Stachowiak",
+        "link": "https://music.163.com/artist?id=905727"
+      }
+    ],
+    "album": {
+      "name": "Miracles",
+      "link": "https://music.163.com/album?id=78957694"
+    }
+  },
+  {
+    "name": "Down The Line",
+    "link": "https://music.163.com/song?id=1456652121",
+    "duration": "02:22",
+    "artists": [
+      {
+        "name": "Mike Perry",
+        "link": "https://music.163.com/artist?id=195021"
+      },
+      {
+        "name": "Ten Times",
+        "link": "https://music.163.com/artist?id=31930131"
+      }
+    ],
+    "album": {
+      "name": "Down The Line",
+      "link": "https://music.163.com/album?id=91213980"
+    }
+  },
+  {
+    "name": "Ok Without You (Kahikko Remix)",
+    "link": "https://music.163.com/song?id=1331058293",
+    "duration": "02:41",
+    "artists": [
+      { "name": "Klaas", "link": "https://music.163.com/artist?id=106210" },
+      { "name": "Kahikko", "link": "https://music.163.com/artist?id=12155254" }
+    ],
+    "album": {
+      "name": "Ok Without You",
+      "link": "https://music.163.com/album?id=74766787"
+    }
+  },
+  {
+    "name": "I'm Not",
+    "link": "https://music.163.com/song?id=1394369412",
+    "duration": "02:58",
+    "artists": [
+      {
+        "name": "Lena Leon",
+        "link": "https://music.163.com/artist?id=14537825"
+      }
+    ],
+    "album": {
+      "name": "I'm Not",
+      "link": "https://music.163.com/album?id=82076580"
+    }
+  },
+  {
+    "name": "Sweet Little Lies",
+    "link": "https://music.163.com/song?id=1347650968",
+    "duration": "02:55",
+    "artists": [
+      { "name": "Bülow", "link": "https://music.163.com/artist?id=12809019" }
+    ],
+    "album": {
+      "name": "Sweet Little Lies",
+      "link": "https://music.163.com/album?id=75664437"
+    }
+  },
+  {
+    "name": "Infina (Original Mix)",
+    "link": "https://music.163.com/song?id=534322041",
+    "duration": "05:47",
+    "artists": [
+      { "name": "Omnia", "link": "https://music.163.com/artist?id=179006" }
+    ],
+    "album": {
+      "name": "Infina",
+      "link": "https://music.163.com/album?id=37454417"
+    }
+  },
+  {
+    "name": "Downfalls",
+    "link": "https://music.163.com/song?id=1438808727",
+    "duration": "03:10",
+    "artists": [
+      {
+        "name": "Cally Rhodes",
+        "link": "https://music.163.com/artist?id=12603359"
+      }
+    ],
+    "album": {
+      "name": "Downfalls",
+      "link": "https://music.163.com/album?id=87793610"
+    }
+  },
+  {
+    "name": "Lash Out",
+    "link": "https://music.163.com/song?id=549941993",
+    "duration": "03:14",
+    "artists": [
+      {
+        "name": "Alice Merton",
+        "link": "https://music.163.com/artist?id=12202371"
+      }
+    ],
+    "album": {
+      "name": "Lash Out",
+      "link": "https://music.163.com/album?id=38033897"
+    }
+  },
+  {
+    "name": "Lone Ranger",
+    "link": "https://music.163.com/song?id=29803676",
+    "duration": "03:07",
+    "artists": [
+      {
+        "name": "Rachel Platten",
+        "link": "https://music.163.com/artist?id=74518"
+      }
+    ],
+    "album": {
+      "name": "Fight Song",
+      "link": "https://music.163.com/album?id=3081170"
+    }
+  },
+  {
+    "name": "Move",
+    "link": "https://music.163.com/song?id=30621637",
+    "duration": "05:03",
+    "artists": [
+      { "name": "Axero", "link": "https://music.163.com/artist?id=1035020" },
+      { "name": "Itro", "link": "https://music.163.com/artist?id=1049096" }
+    ],
+    "album": {
+      "name": "Move",
+      "link": "https://music.163.com/album?id=3104054"
+    }
+  },
+  {
+    "name": "One Night",
+    "link": "https://music.163.com/song?id=1344292306",
+    "duration": "03:35",
+    "artists": [
+      { "name": "LeBrock", "link": "https://music.163.com/artist?id=13970913" }
+    ],
+    "album": {
+      "name": "Action & Romance (Remastered)",
+      "link": "https://music.163.com/album?id=75462144"
+    }
+  },
+  {
+    "name": "Burn the House Down",
+    "link": "https://music.163.com/song?id=545655045",
+    "duration": "03:32",
+    "artists": [
+      { "name": "AJR", "link": "https://music.163.com/artist?id=88089" }
+    ],
+    "album": {
+      "name": "Burn the House Down",
+      "link": "https://music.163.com/album?id=37767609"
+    }
+  },
+  {
+    "name": "怪物 - (TV动画《BEASTARS》第二季片头曲)",
+    "link": "https://music.163.com/song?id=1803908863",
+    "duration": "03:26",
+    "artists": [
+      { "name": "YOASOBI", "link": "https://music.163.com/artist?id=33927412" }
+    ],
+    "album": {
+      "name": "怪物",
+      "link": "https://music.163.com/album?id=120375092"
+    }
+  },
+  {
+    "name": "Million Eyes",
+    "link": "https://music.163.com/song?id=437116736",
+    "duration": "04:14",
+    "artists": [
+      {
+        "name": "Loïc Nottet",
+        "link": "https://music.163.com/artist?id=1057277"
+      }
+    ],
+    "album": {
+      "name": "Million Eyes",
+      "link": "https://music.163.com/album?id=34928433"
+    }
+  },
+  {
+    "name": "Monsters",
+    "link": "https://music.163.com/song?id=513360707",
+    "duration": "03:41",
+    "artists": [
+      { "name": "Gjan", "link": "https://music.163.com/artist?id=851014" }
+    ],
+    "album": {
+      "name": "Do It",
+      "link": "https://music.163.com/album?id=36579122"
+    }
+  },
+  {
+    "name": "压轴戏",
+    "link": "https://music.163.com/song?id=1351449194",
+    "duration": "03:24",
+    "artists": [
+      {
+        "name": "唐伯虎Annie",
+        "link": "https://music.163.com/artist?id=1193004"
+      }
+    ],
+    "album": {
+      "name": "压轴戏",
+      "link": "https://music.163.com/album?id=75741582"
+    }
+  },
+  {
+    "name": "Believe in you - (TV动画《Re:从零开始的异世界生活 第2期后半部分》ED2)",
+    "link": "https://music.163.com/song?id=1824473220",
+    "duration": "04:39",
+    "artists": [
+      { "name": "nonoc", "link": "https://music.163.com/artist?id=30460993" }
+    ],
+    "album": {
+      "name": "Believe in you",
+      "link": "https://music.163.com/album?id=123802482"
+    }
+  },
+  {
+    "name": "インドア系ならトラックメイカー - (内向都是作曲家)",
+    "link": "https://music.163.com/song?id=424262056",
+    "duration": "03:17",
+    "artists": [
+      { "name": "Yunomi", "link": "https://music.163.com/artist?id=1025016" },
+      { "name": "nicamoq", "link": "https://music.163.com/artist?id=12605718" }
+    ],
+    "album": {
+      "name": "インドア系ならトラックメイカー",
+      "link": "https://music.163.com/album?id=34809022"
+    }
+  },
+  {
+    "name": "云宫迅音(西游记序曲)摇滚演奏",
+    "link": "https://music.163.com/song?id=1475747056",
+    "duration": "02:31",
+    "artists": [
+      {
+        "name": "万伟康from无人周六",
+        "link": "https://music.163.com/artist?id=12194305"
+      }
+    ],
+    "album": {
+      "name": "云宫迅音(西游记序曲)摇滚演奏",
+      "link": "https://music.163.com/album?id=94784619"
+    }
+  },
+  {
+    "name": "Sound Of War",
+    "link": "https://music.163.com/song?id=1358170853",
+    "duration": "04:07",
+    "artists": [
+      {
+        "name": "Tommee Profitt",
+        "link": "https://music.163.com/artist?id=28975"
+      },
+      { "name": "Fleurie", "link": "https://music.163.com/artist?id=860929" }
+    ],
+    "album": {
+      "name": "Gloria Regali",
+      "link": "https://music.163.com/album?id=78477606"
+    }
+  },
+  {
+    "name": "相思 - (电视剧《西游记后传》片尾曲)",
+    "link": "https://music.163.com/song?id=276294",
+    "duration": "03:01",
+    "artists": [
+      { "name": "毛阿敏", "link": "https://music.163.com/artist?id=8921" }
+    ],
+    "album": { "name": "腔.调", "link": "https://music.163.com/album?id=27444" }
+  },
+  {
+    "name": "わたしの",
+    "link": "https://music.163.com/song?id=1803321252",
+    "duration": "04:19",
+    "artists": [
+      { "name": "小新", "link": "https://music.163.com/artist?id=37456747" }
+    ],
+    "album": {
+      "name": "わたしの晴",
+      "link": "https://music.163.com/album?id=120256959"
+    }
+  },
+  {
+    "name": "Ontario",
+    "link": "https://music.163.com/song?id=517902795",
+    "duration": "03:12",
+    "artists": [
+      { "name": "Novo Amor", "link": "https://music.163.com/artist?id=904041" },
+      {
+        "name": "Ed Tullett",
+        "link": "https://music.163.com/artist?id=12863130"
+      }
+    ],
+    "album": {
+      "name": "Heiress",
+      "link": "https://music.163.com/album?id=36771113"
+    }
+  },
+  {
+    "name": "ソレソレ - (来吧来吧)",
+    "link": "https://music.163.com/song?id=29307597",
+    "duration": "04:19",
+    "artists": [
+      { "name": "JABBERLOOP", "link": "https://music.163.com/artist?id=19997" }
+    ],
+    "album": {
+      "name": "Jabberloop 台湾特选辑",
+      "link": "https://music.163.com/album?id=2966183"
+    }
+  },
+  {
+    "name": "丹歌惊鸿（动画《一人之下2》片尾曲王也角色歌）",
+    "link": "https://music.163.com/song?id=564879697",
+    "duration": "03:55",
+    "artists": [
+      { "name": "坡上村", "link": "https://music.163.com/artist?id=839563" }
+    ],
+    "album": {
+      "name": "丹歌惊鸿（动画《一人之下》片尾曲王也角色歌）",
+      "link": "https://music.163.com/album?id=39067617"
+    }
+  },
+  {
+    "name": "say you love me ",
+    "link": "https://music.163.com/song?id=467590719",
+    "duration": "02:18",
+    "artists": [
+      {
+        "name": "T R Λ P C O D E",
+        "link": "https://music.163.com/artist?id=12331015"
+      }
+    ],
+    "album": {
+      "name": "say you love me",
+      "link": "https://music.163.com/album?id=35306209"
+    }
+  },
+  {
+    "name": "星游记的奇迹mix",
+    "link": "https://music.163.com/song?id=497597331",
+    "duration": "03:30",
+    "artists": [
+      { "name": "Spade S", "link": "https://music.163.com/artist?id=12085301" },
+      {
+        "name": "牛奶咖啡。",
+        "link": "https://music.163.com/artist?id=30249347"
+      },
+      {
+        "name": "逃跑计划。",
+        "link": "https://music.163.com/artist?id=30249348"
+      },
+      {
+        "name": "神秘的彩虹海旅客",
+        "link": "https://music.163.com/artist?id=30248890"
+      }
+    ],
+    "album": {
+      "name": "星游记Remix",
+      "link": "https://music.163.com/album?id=35927520"
+    }
+  },
+  {
+    "name": "そばにいるね - (留在我身边)",
+    "link": "https://music.163.com/song?id=555142",
+    "duration": "05:04",
+    "artists": [
+      { "name": "青山テルマ", "link": "https://music.163.com/artist?id=16017" }
+    ],
+    "album": {
+      "name": "そばにいるね",
+      "link": "https://music.163.com/album?id=51913"
+    }
+  },
+  {
+    "name": "Nemure",
+    "link": "https://music.163.com/song?id=873013",
+    "duration": "04:21",
+    "artists": [
+      { "name": "3nd", "link": "https://music.163.com/artist?id=22521" }
+    ],
+    "album": { "name": "DEMO", "link": "https://music.163.com/album?id=87231" }
+  },
+  {
+    "name": "my long forgotten cloistered sleep (unreleased work of Xenosaga) - (WEBアニメ「ゼノサーガ エピソードII to III a missing year」EDテーマ)",
+    "link": "https://music.163.com/song?id=590414",
+    "duration": "05:52",
+    "artists": [
+      {
+        "name": "Emily Bindiger",
+        "link": "https://music.163.com/artist?id=29809121"
+      }
+    ],
+    "album": {
+      "name": "FICTION II",
+      "link": "https://music.163.com/album?id=55827"
+    }
+  },
+  {
+    "name": "Morning (Instrumental Mix)",
+    "link": "https://music.163.com/song?id=435307723",
+    "duration": "01:15",
+    "artists": [
+      { "name": "Allfine", "link": "https://music.163.com/artist?id=1122109" }
+    ],
+    "album": {
+      "name": "Morning (Instrumental Mix)",
+      "link": "https://music.163.com/album?id=34916384"
+    }
+  },
+  {
+    "name": "Believers",
+    "link": "https://music.163.com/song?id=1842153924",
+    "duration": "02:39",
+    "artists": [
+      {
+        "name": "Alan Walker",
+        "link": "https://music.163.com/artist?id=1045123"
+      },
+      {
+        "name": "Conor Maynard",
+        "link": "https://music.163.com/artist?id=29020"
+      }
+    ],
+    "album": {
+      "name": "Believers",
+      "link": "https://music.163.com/album?id=126864673"
+    }
+  }
+]

@@ -1,0 +1,483 @@
+[
+  {
+    "name": "Replay",
+    "link": "https://music.163.com/song?id=501326901",
+    "duration": "03:22",
+    "artists": [
+      { "name": "Cire", "link": "https://music.163.com/artist?id=344911" },
+      { "name": "Davaï", "link": "https://music.163.com/artist?id=12526499" }
+    ],
+    "album": {
+      "name": "Replay",
+      "link": "https://music.163.com/album?id=35903920"
+    }
+  },
+  {
+    "name": "Shadows",
+    "link": "https://music.163.com/song?id=544000236",
+    "duration": "02:39",
+    "artists": [
+      {
+        "name": "Aero Chord",
+        "link": "https://music.163.com/artist?id=845121"
+      },
+      { "name": "Nevve", "link": "https://music.163.com/artist?id=12567101" }
+    ],
+    "album": {
+      "name": "Shadows",
+      "link": "https://music.163.com/album?id=37887044"
+    }
+  },
+  {
+    "name": "City Of Dreams",
+    "link": "https://music.163.com/song?id=27995584",
+    "duration": "03:37",
+    "artists": [
+      {
+        "name": "Dirty South",
+        "link": "https://music.163.com/artist?id=133017"
+      },
+      { "name": "Alesso", "link": "https://music.163.com/artist?id=29251" },
+      { "name": "Ruben Haze", "link": "https://music.163.com/artist?id=338426" }
+    ],
+    "album": {
+      "name": "Electronica - The Ultimate EDM",
+      "link": "https://music.163.com/album?id=2710862"
+    }
+  },
+  {
+    "name": "Ain't Nothing Like It",
+    "link": "https://music.163.com/song?id=1348835834",
+    "duration": "02:46",
+    "artists": [
+      { "name": "KLYMVX", "link": "https://music.163.com/artist?id=1149091" }
+    ],
+    "album": {
+      "name": "Ain't Nothing Like It",
+      "link": "https://music.163.com/album?id=75717310"
+    }
+  },
+  {
+    "name": "Head Up",
+    "link": "https://music.163.com/song?id=531181477",
+    "duration": "03:11",
+    "artists": [
+      {
+        "name": "Don Diablo",
+        "link": "https://music.163.com/artist?id=139072"
+      },
+      {
+        "name": "James Newman",
+        "link": "https://music.163.com/artist?id=1102200"
+      }
+    ],
+    "album": {
+      "name": "FUTURE",
+      "link": "https://music.163.com/album?id=37252290"
+    }
+  },
+  {
+    "name": "This Love (Original Mix)",
+    "link": "https://music.163.com/song?id=1317457087",
+    "duration": "02:49",
+    "artists": [
+      { "name": "Vivid", "link": "https://music.163.com/artist?id=140014" }
+    ],
+    "album": {
+      "name": "This Love",
+      "link": "https://music.163.com/album?id=73468485"
+    }
+  },
+  {
+    "name": "Body Dancing",
+    "link": "https://music.163.com/song?id=30870960",
+    "duration": "03:18",
+    "artists": [
+      { "name": "Qulinez", "link": "https://music.163.com/artist?id=352208" },
+      {
+        "name": "Belle Humble",
+        "link": "https://music.163.com/artist?id=209231"
+      }
+    ],
+    "album": {
+      "name": "Body Dancing",
+      "link": "https://music.163.com/album?id=3106006"
+    }
+  },
+  {
+    "name": "When I See You",
+    "link": "https://music.163.com/song?id=540712100",
+    "duration": "03:23",
+    "artists": [
+      { "name": "Mokita", "link": "https://music.163.com/artist?id=12033046" }
+    ],
+    "album": {
+      "name": "When I See You",
+      "link": "https://music.163.com/album?id=37730722"
+    }
+  },
+  {
+    "name": "Stupid",
+    "link": "https://music.163.com/song?id=3780390",
+    "duration": "02:50",
+    "artists": [
+      {
+        "name": "Tone Damli Aaberge",
+        "link": "https://music.163.com/artist?id=83122"
+      }
+    ],
+    "album": {
+      "name": "Cocool",
+      "link": "https://music.163.com/album?id=382490"
+    }
+  },
+  {
+    "name": "Lost in",
+    "link": "https://music.163.com/song?id=1823924447",
+    "duration": "03:45",
+    "artists": [
+      { "name": "Moony", "link": "https://music.163.com/artist?id=31962821" },
+      {
+        "name": "ConverseK",
+        "link": "https://music.163.com/artist?id=46830699"
+      },
+      { "name": "Show-N", "link": "https://music.163.com/artist?id=46705459" }
+    ],
+    "album": {
+      "name": "Lost in",
+      "link": "https://music.163.com/album?id=123616872"
+    }
+  },
+  {
+    "name": "I'll Wait",
+    "link": "https://music.163.com/song?id=1434419312",
+    "duration": "03:35",
+    "artists": [
+      { "name": "Kygo", "link": "https://music.163.com/artist?id=844410" },
+      {
+        "name": "Sasha Sloan",
+        "link": "https://music.163.com/artist?id=12646102"
+      }
+    ],
+    "album": {
+      "name": "I'll Wait",
+      "link": "https://music.163.com/album?id=86883079"
+    }
+  },
+  {
+    "name": "Take Me Down (Extended Mix)",
+    "link": "https://music.163.com/song?id=427542181",
+    "duration": "03:38",
+    "artists": [
+      {
+        "name": "Mike Williams",
+        "link": "https://music.163.com/artist?id=302020"
+      }
+    ],
+    "album": {
+      "name": "Take Me Down",
+      "link": "https://music.163.com/album?id=34855090"
+    }
+  },
+  {
+    "name": "All Your Days",
+    "link": "https://music.163.com/song?id=1346184637",
+    "duration": "04:35",
+    "artists": [
+      { "name": "Shallou", "link": "https://music.163.com/artist?id=12029377" },
+      {
+        "name": "Emmit Fenn",
+        "link": "https://music.163.com/artist?id=12006313"
+      }
+    ],
+    "album": {
+      "name": "All Your Days",
+      "link": "https://music.163.com/album?id=75566487"
+    }
+  },
+  {
+    "name": "Awake",
+    "link": "https://music.163.com/song?id=405612296",
+    "duration": "03:12",
+    "artists": [
+      { "name": "WRLD", "link": "https://music.163.com/artist?id=948057" },
+      {
+        "name": "Colordrive",
+        "link": "https://music.163.com/artist?id=1106017"
+      }
+    ],
+    "album": {
+      "name": "Awake",
+      "link": "https://music.163.com/album?id=34515454"
+    }
+  },
+  {
+    "name": "Love Yourself",
+    "link": "https://music.163.com/song?id=1366738250",
+    "duration": "03:05",
+    "artists": [
+      {
+        "name": "Genevieve Somers",
+        "link": "https://music.163.com/artist?id=14468344"
+      }
+    ],
+    "album": {
+      "name": "Monte Carlo Deep House Summer",
+      "link": "https://music.163.com/album?id=79292549"
+    }
+  },
+  {
+    "name": "The Way Down",
+    "link": "https://music.163.com/song?id=1399103028",
+    "duration": "02:43",
+    "artists": [
+      { "name": "Kazukii", "link": "https://music.163.com/artist?id=12054389" }
+    ],
+    "album": {
+      "name": "The Way Down",
+      "link": "https://music.163.com/album?id=82742384"
+    }
+  },
+  {
+    "name": "Close",
+    "link": "https://music.163.com/song?id=534228258",
+    "duration": "03:31",
+    "artists": [
+      { "name": "3LAU", "link": "https://music.163.com/artist?id=762511" },
+      { "name": "Oly", "link": "https://music.163.com/artist?id=12289226" }
+    ],
+    "album": {
+      "name": "Ultraviolet",
+      "link": "https://music.163.com/album?id=37252777"
+    }
+  },
+  {
+    "name": "Try",
+    "link": "https://music.163.com/song?id=27515086",
+    "duration": "04:09",
+    "artists": [
+      { "name": "P!nk", "link": "https://music.163.com/artist?id=70821" }
+    ],
+    "album": { "name": "Try", "link": "https://music.163.com/album?id=2623253" }
+  },
+  {
+    "name": "Survive",
+    "link": "https://music.163.com/song?id=445144239",
+    "duration": "04:32",
+    "artists": [
+      { "name": "Vanze", "link": "https://music.163.com/artist?id=1081008" },
+      {
+        "name": "Neon Dreams",
+        "link": "https://music.163.com/artist?id=816217"
+      }
+    ],
+    "album": {
+      "name": "Survive",
+      "link": "https://music.163.com/album?id=35023749"
+    }
+  },
+  {
+    "name": "15 Sleeps",
+    "link": "https://music.163.com/song?id=541687706",
+    "duration": "03:10",
+    "artists": [
+      { "name": "KO:YU", "link": "https://music.163.com/artist?id=12122177" },
+      { "name": "RuthAnne", "link": "https://music.163.com/artist?id=13428148" }
+    ],
+    "album": {
+      "name": "15 Sleeps",
+      "link": "https://music.163.com/album?id=37562008"
+    }
+  },
+  {
+    "name": "From Lights Above",
+    "link": "https://music.163.com/song?id=543987404",
+    "duration": "03:32",
+    "artists": [
+      {
+        "name": "Radiology",
+        "link": "https://music.163.com/artist?id=12023332"
+      },
+      {
+        "name": "Max Landry",
+        "link": "https://music.163.com/artist?id=13493957"
+      }
+    ],
+    "album": {
+      "name": "From Lights Above",
+      "link": "https://music.163.com/album?id=37888068"
+    }
+  },
+  {
+    "name": "Innerspace (Dan & Sam Intro Mix)",
+    "link": "https://music.163.com/song?id=28977991",
+    "duration": "07:31",
+    "artists": [
+      {
+        "name": "Gregory Esayan",
+        "link": "https://music.163.com/artist?id=193198"
+      }
+    ],
+    "album": {
+      "name": "Silk Royal Showcase 03",
+      "link": "https://music.163.com/album?id=2971131"
+    }
+  },
+  {
+    "name": "Heavens (Original Mix)",
+    "link": "https://music.163.com/song?id=431826048",
+    "duration": "06:33",
+    "artists": [
+      {
+        "name": "Blood Groove & Kikis",
+        "link": "https://music.163.com/artist?id=311599"
+      }
+    ],
+    "album": {
+      "name": "HEAVENS",
+      "link": "https://music.163.com/album?id=34895022"
+    }
+  },
+  {
+    "name": "Have You Seen My Love?",
+    "link": "https://music.163.com/song?id=18449233",
+    "duration": "02:56",
+    "artists": [
+      {
+        "name": "Rosie Thomas",
+        "link": "https://music.163.com/artist?id=41926"
+      }
+    ],
+    "album": {
+      "name": "When We Were Small",
+      "link": "https://music.163.com/album?id=1690936"
+    }
+  },
+  {
+    "name": "Samburu Moon",
+    "link": "https://music.163.com/song?id=28050995",
+    "duration": "04:59",
+    "artists": [
+      {
+        "name": "Martin Mittone",
+        "link": "https://music.163.com/artist?id=841127"
+      }
+    ],
+    "album": {
+      "name": "Nomolos",
+      "link": "https://music.163.com/album?id=2718651"
+    }
+  },
+  {
+    "name": "Launch",
+    "link": "https://music.163.com/song?id=407889990",
+    "duration": "05:18",
+    "artists": [
+      { "name": "Resonance", "link": "https://music.163.com/artist?id=196588" }
+    ],
+    "album": {
+      "name": "Launch",
+      "link": "https://music.163.com/album?id=34588419"
+    }
+  },
+  {
+    "name": "Take a Chance",
+    "link": "https://music.163.com/song?id=27902402",
+    "duration": "03:32",
+    "artists": [
+      {
+        "name": "Young London",
+        "link": "https://music.163.com/artist?id=105733"
+      }
+    ],
+    "album": {
+      "name": "Take a Chance",
+      "link": "https://music.163.com/album?id=2692162"
+    }
+  },
+  {
+    "name": "Shut up and Drive",
+    "link": "https://music.163.com/song?id=497745621",
+    "duration": "03:28",
+    "artists": [
+      {
+        "name": "Approaching Nirvana",
+        "link": "https://music.163.com/artist?id=86884"
+      },
+      {
+        "name": "Rebecca Need-Menear",
+        "link": "https://music.163.com/artist?id=14418483"
+      }
+    ],
+    "album": {
+      "name": "Shut up and Drive",
+      "link": "https://music.163.com/album?id=35909759"
+    }
+  },
+  {
+    "name": "Guadalupe (Original Mix)",
+    "link": "https://music.163.com/song?id=29402172",
+    "duration": "08:45",
+    "artists": [
+      {
+        "name": "James Woods",
+        "link": "https://music.163.com/artist?id=369295"
+      },
+      { "name": "Alex H", "link": "https://music.163.com/artist?id=370950" }
+    ],
+    "album": {
+      "name": "Guadalupe",
+      "link": "https://music.163.com/album?id=3019512"
+    }
+  },
+  {
+    "name": "Loose My Mind",
+    "link": "https://music.163.com/song?id=26237917",
+    "duration": "03:01",
+    "artists": [
+      {
+        "name": "Brennan Heart",
+        "link": "https://music.163.com/artist?id=688203"
+      },
+      { "name": "Wildstylez", "link": "https://music.163.com/artist?id=666014" }
+    ],
+    "album": {
+      "name": "DJ Top 100 2013 Vol. 1",
+      "link": "https://music.163.com/album?id=2430600"
+    }
+  },
+  {
+    "name": "Light Year",
+    "link": "https://music.163.com/song?id=18002262",
+    "duration": "03:38",
+    "artists": [
+      {
+        "name": "Gregory Alan Isakov",
+        "link": "https://music.163.com/artist?id=33865"
+      }
+    ],
+    "album": {
+      "name": "This Empty Northern Hemisphere",
+      "link": "https://music.163.com/album?id=1655380"
+    }
+  },
+  {
+    "name": "Lonely",
+    "link": "https://music.163.com/song?id=1823431990",
+    "duration": "02:29",
+    "artists": [
+      {
+        "name": "Justin Bieber",
+        "link": "https://music.163.com/artist?id=35531"
+      },
+      {
+        "name": "Benny Blanco",
+        "link": "https://music.163.com/artist?id=286948"
+      }
+    ],
+    "album": {
+      "name": "JB6",
+      "link": "https://music.163.com/album?id=123629087"
+    }
+  }
+]

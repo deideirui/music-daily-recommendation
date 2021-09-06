@@ -1,0 +1,457 @@
+[
+  {
+    "name": "We'll Meet Again",
+    "link": "https://music.163.com/song?id=1457772407",
+    "duration": "03:15",
+    "artists": [
+      {
+        "name": "TheFatRat",
+        "link": "https://music.163.com/artist?id=1019952"
+      },
+      {
+        "name": "Laura Brehm",
+        "link": "https://music.163.com/artist?id=207693"
+      }
+    ],
+    "album": {
+      "name": "We'll Meet Again",
+      "link": "https://music.163.com/album?id=91437445"
+    }
+  },
+  {
+    "name": "Frontlines (feat. Jessica Chertock)",
+    "link": "https://music.163.com/song?id=1436961238",
+    "duration": "02:32",
+    "artists": [
+      { "name": "MKJ", "link": "https://music.163.com/artist?id=469200" },
+      {
+        "name": "Jessica Chertock",
+        "link": "https://music.163.com/artist?id=33521647"
+      }
+    ],
+    "album": {
+      "name": "Frontlines (feat. Jessica Chertock)",
+      "link": "https://music.163.com/album?id=87506663"
+    }
+  },
+  {
+    "name": "Colourblind",
+    "link": "https://music.163.com/song?id=1478315976",
+    "duration": "02:38",
+    "artists": [
+      { "name": "SeeB", "link": "https://music.163.com/artist?id=1182169" },
+      {
+        "name": "St. Lundi",
+        "link": "https://music.163.com/artist?id=34341491"
+      }
+    ],
+    "album": {
+      "name": "Colourblind",
+      "link": "https://music.163.com/album?id=95253522"
+    }
+  },
+  {
+    "name": "Throwback",
+    "link": "https://music.163.com/song?id=1338352431",
+    "duration": "03:46",
+    "artists": [
+      {
+        "name": "Delaney Jane",
+        "link": "https://music.163.com/artist?id=1132286"
+      },
+      {
+        "name": "Shaun Frank",
+        "link": "https://music.163.com/artist?id=844064"
+      }
+    ],
+    "album": {
+      "name": "Throwback",
+      "link": "https://music.163.com/album?id=75089907"
+    }
+  },
+  {
+    "name": "Sorry",
+    "link": "https://music.163.com/song?id=1819549824",
+    "duration": "02:45",
+    "artists": [
+      {
+        "name": "Alan Walker",
+        "link": "https://music.163.com/artist?id=1045123"
+      },
+      { "name": "ISÁK", "link": "https://music.163.com/artist?id=13885541" }
+    ],
+    "album": {
+      "name": "Sorry",
+      "link": "https://music.163.com/album?id=122904186"
+    }
+  },
+  {
+    "name": "Waiting For Love",
+    "link": "https://music.163.com/song?id=1491147616",
+    "duration": "03:52",
+    "artists": [
+      { "name": "Avicii", "link": "https://music.163.com/artist?id=45236" }
+    ],
+    "album": {
+      "name": "Einweihungsparty",
+      "link": "https://music.163.com/album?id=97583003"
+    }
+  },
+  {
+    "name": "一起看海的人比海更温柔 (Piano Version)",
+    "link": "https://music.163.com/song?id=1383011259",
+    "duration": "05:04",
+    "artists": [
+      { "name": "林鹿言", "link": "https://music.163.com/artist?id=12228672" }
+    ],
+    "album": {
+      "name": "一起看海的人比海更温柔",
+      "link": "https://music.163.com/album?id=80832255"
+    }
+  },
+  {
+    "name": "おやすみ バカ",
+    "link": "https://music.163.com/song?id=1408178500",
+    "duration": "02:31",
+    "artists": [
+      { "name": "梓黎", "link": "https://music.163.com/artist?id=29026389" }
+    ],
+    "album": {
+      "name": "晚安，笨蛋笨",
+      "link": "https://music.163.com/album?id=83944695"
+    }
+  },
+  {
+    "name": "面条",
+    "link": "https://music.163.com/song?id=1842462296",
+    "duration": "02:54",
+    "artists": [
+      { "name": "Unikey", "link": "https://music.163.com/artist?id=33751673" }
+    ],
+    "album": {
+      "name": "面条",
+      "link": "https://music.163.com/album?id=126930128"
+    }
+  },
+  {
+    "name": "思い出は奇麗で",
+    "link": "https://music.163.com/song?id=1297747304",
+    "duration": "03:31",
+    "artists": [
+      { "name": "Aimer", "link": "https://music.163.com/artist?id=16152" }
+    ],
+    "album": {
+      "name": "Black Bird / Tiny Dancers / 思い出は奇麗で",
+      "link": "https://music.163.com/album?id=72072714"
+    }
+  },
+  {
+    "name": "King",
+    "link": "https://music.163.com/song?id=422132112",
+    "duration": "03:18",
+    "artists": [
+      {
+        "name": "Zayde Wølf",
+        "link": "https://music.163.com/artist?id=12073833"
+      }
+    ],
+    "album": {
+      "name": "Rare Breed",
+      "link": "https://music.163.com/album?id=34751916"
+    }
+  },
+  {
+    "name": "2009-2020一年一首动漫神曲燃向串烧（翻自 群星）",
+    "link": "https://music.163.com/song?id=1462262786",
+    "duration": "05:08",
+    "artists": [
+      {
+        "name": "暮肆_Mousse",
+        "link": "https://music.163.com/artist?id=34230369"
+      }
+    ],
+    "album": {
+      "name": "2009-2020年神级动漫单曲燃向串烧",
+      "link": "https://music.163.com/album?id=92254339"
+    }
+  },
+  {
+    "name": "LiSA-紅蓮華（ROCK_2027 remix）",
+    "link": "https://music.163.com/song?id=1460137406",
+    "duration": "04:03",
+    "artists": [
+      {
+        "name": "2021.3.28-さようなら",
+        "link": "https://music.163.com/artist?id=34645736"
+      }
+    ],
+    "album": {
+      "name": "鬼滅の刃（鬼灭之刃）",
+      "link": "https://music.163.com/album?id=91883941"
+    }
+  },
+  {
+    "name": "DEJA VU (EXTENDED MIX) - (逮虾户)",
+    "link": "https://music.163.com/song?id=1364973839",
+    "duration": "04:22",
+    "artists": [
+      {
+        "name": "Dave Rodgers",
+        "link": "https://music.163.com/artist?id=132283"
+      }
+    ],
+    "album": {
+      "name": "DEJA VU",
+      "link": "https://music.163.com/album?id=79080715"
+    }
+  },
+  {
+    "name": "One Day - (游戏《NBA 2K10》插曲)",
+    "link": "https://music.163.com/song?id=5041604",
+    "duration": "03:27",
+    "artists": [
+      { "name": "Matisyahu", "link": "https://music.163.com/artist?id=38945" }
+    ],
+    "album": {
+      "name": "NBA 2K10 Soundtrack",
+      "link": "https://music.163.com/album?id=500684"
+    }
+  },
+  {
+    "name": "Immortals - (电影《超能陆战队》主题曲)",
+    "link": "https://music.163.com/song?id=30967261",
+    "duration": "03:15",
+    "artists": [
+      {
+        "name": "Fall Out Boy",
+        "link": "https://music.163.com/artist?id=56782"
+      }
+    ],
+    "album": {
+      "name": "ベイマックス オリジナル・サウンドトラック",
+      "link": "https://music.163.com/album?id=3107030"
+    }
+  },
+  {
+    "name": "馀灰",
+    "link": "https://music.163.com/song?id=499165825",
+    "duration": "04:21",
+    "artists": [
+      { "name": "Snikm", "link": "https://music.163.com/artist?id=12119610" }
+    ],
+    "album": {
+      "name": "馀火",
+      "link": "https://music.163.com/album?id=35956444"
+    }
+  },
+  {
+    "name": "Fade Away (DEAF KEV Remix)",
+    "link": "https://music.163.com/song?id=408055538",
+    "duration": "05:07",
+    "artists": [
+      { "name": "DEAF KEV", "link": "https://music.163.com/artist?id=1079127" },
+      {
+        "name": "Jacob Tillberg",
+        "link": "https://music.163.com/artist?id=12010140"
+      }
+    ],
+    "album": {
+      "name": "Fade Away (DEAF KEV Remix)",
+      "link": "https://music.163.com/album?id=34588344"
+    }
+  },
+  {
+    "name": "Follow You",
+    "link": "https://music.163.com/song?id=1826961928",
+    "duration": "02:55",
+    "artists": [
+      {
+        "name": "Imagine Dragons",
+        "link": "https://music.163.com/artist?id=94779"
+      }
+    ],
+    "album": {
+      "name": "Follow You / Cutthroat",
+      "link": "https://music.163.com/album?id=124258379"
+    }
+  },
+  {
+    "name": "In the End",
+    "link": "https://music.163.com/song?id=1309896289",
+    "duration": "03:54",
+    "artists": [
+      {
+        "name": "Tommee Profitt",
+        "link": "https://music.163.com/artist?id=28975"
+      },
+      {
+        "name": "Jung Youth",
+        "link": "https://music.163.com/artist?id=852308"
+      },
+      { "name": "Fleurie", "link": "https://music.163.com/artist?id=860929" }
+    ],
+    "album": {
+      "name": "IN THE END (Cinematic Cover)",
+      "link": "https://music.163.com/album?id=73326692"
+    }
+  },
+  {
+    "name": "Sandcastles",
+    "link": "https://music.163.com/song?id=1349273130",
+    "duration": "03:59",
+    "artists": [
+      { "name": "Galen Crew", "link": "https://music.163.com/artist?id=34435" }
+    ],
+    "album": {
+      "name": "Apologue: Volume 4",
+      "link": "https://music.163.com/album?id=75741647"
+    }
+  },
+  {
+    "name": "フリージア - (TV动画《机动战士高达 铁血的孤儿 第二季》ED2:TVアニメ「機動戦士ガンダム 鉄血のオルフェンズ」第2期ED2テーマ)",
+    "link": "https://music.163.com/song?id=459925524",
+    "duration": "05:35",
+    "artists": [
+      { "name": "Uru", "link": "https://music.163.com/artist?id=12062125" }
+    ],
+    "album": {
+      "name": "フリージア ＜通常盤＞",
+      "link": "https://music.163.com/album?id=35174608"
+    }
+  },
+  {
+    "name": "Winter",
+    "link": "https://music.163.com/song?id=1478799",
+    "duration": "03:28",
+    "artists": [
+      {
+        "name": "Joshua Radin",
+        "link": "https://music.163.com/artist?id=35349"
+      }
+    ],
+    "album": {
+      "name": "First Between 3rd & 4th",
+      "link": "https://music.163.com/album?id=151210"
+    }
+  },
+  {
+    "name": "RAGE OF DUST - (TV动画《机动战士高达 铁血的孤儿 第二季》片头曲)",
+    "link": "https://music.163.com/song?id=442589034",
+    "duration": "03:24",
+    "artists": [
+      { "name": "SPYAIR", "link": "https://music.163.com/artist?id=21503" }
+    ],
+    "album": {
+      "name": "RAGE OF DUST (初回限定盤)",
+      "link": "https://music.163.com/album?id=35005440"
+    }
+  },
+  {
+    "name": "Euphoria",
+    "link": "https://music.163.com/song?id=1356668706",
+    "duration": "03:40",
+    "artists": [
+      { "name": "Bülow", "link": "https://music.163.com/artist?id=12809019" }
+    ],
+    "album": {
+      "name": "Crystalline",
+      "link": "https://music.163.com/album?id=78334140"
+    }
+  },
+  {
+    "name": "Stars Algin - 电音蔡依林",
+    "link": "https://music.163.com/song?id=1835431581",
+    "duration": "02:41",
+    "artists": [
+      {
+        "name": "巴啦啦啦噜",
+        "link": "https://music.163.com/artist?id=47132171"
+      }
+    ],
+    "album": {
+      "name": "Stars Align - 和平精英",
+      "link": "https://music.163.com/album?id=125663623"
+    }
+  },
+  {
+    "name": "つちかひの唄",
+    "link": "https://music.163.com/song?id=471403214",
+    "duration": "04:26",
+    "artists": [
+      {
+        "name": "stellatram",
+        "link": "https://music.163.com/artist?id=12023150"
+      }
+    ],
+    "album": {
+      "name": "Kaleido Sphere ～天淵の双つ星～",
+      "link": "https://music.163.com/album?id=35338410"
+    }
+  },
+  {
+    "name": "パレード - (游行)",
+    "link": "https://music.163.com/song?id=1357628744",
+    "duration": "04:59",
+    "artists": [
+      { "name": "ヨルシカ", "link": "https://music.163.com/artist?id=12390232" }
+    ],
+    "album": {
+      "name": "だから僕は音楽を辞めた",
+      "link": "https://music.163.com/album?id=78399571"
+    }
+  },
+  {
+    "name": "Rise",
+    "link": "https://music.163.com/song?id=4374941",
+    "duration": "03:19",
+    "artists": [
+      {
+        "name": "The Dry Spells",
+        "link": "https://music.163.com/artist?id=102588"
+      }
+    ],
+    "album": {
+      "name": "Dry Spells",
+      "link": "https://music.163.com/album?id=441539"
+    }
+  },
+  {
+    "name": "Rumi's Nation",
+    "link": "https://music.163.com/song?id=3912794",
+    "duration": "06:29",
+    "artists": [
+      { "name": "Whale Fall", "link": "https://music.163.com/artist?id=86050" }
+    ],
+    "album": {
+      "name": "Whale Fall",
+      "link": "https://music.163.com/album?id=395694"
+    }
+  },
+  {
+    "name": "Lovers",
+    "link": "https://music.163.com/song?id=26471803",
+    "duration": "04:16",
+    "artists": [
+      { "name": "Deadhorse", "link": "https://music.163.com/artist?id=90958" }
+    ],
+    "album": {
+      "name": "MMXIII Demo",
+      "link": "https://music.163.com/album?id=2505139"
+    }
+  },
+  {
+    "name": "愛を知るまでは - (日剧《短剧开始啦》主题曲)",
+    "link": "https://music.163.com/song?id=1842312887",
+    "duration": "04:36",
+    "artists": [
+      {
+        "name": "あいみょん",
+        "link": "https://music.163.com/artist?id=1053279"
+      }
+    ],
+    "album": {
+      "name": "愛を知るまでは",
+      "link": "https://music.163.com/album?id=126890530"
+    }
+  }
+]

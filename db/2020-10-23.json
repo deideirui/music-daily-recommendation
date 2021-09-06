@@ -1,0 +1,462 @@
+[
+  {
+    "name": "52 Weeks",
+    "link": "https://music.163.com/song?id=39436744",
+    "duration": "03:04",
+    "artists": [
+      { "name": "AK", "link": "https://music.163.com/artist?id=1192509" }
+    ],
+    "album": {
+      "name": "52 Weeks",
+      "link": "https://music.163.com/album?id=3436132"
+    }
+  },
+  {
+    "name": "Sunny day",
+    "link": "https://music.163.com/song?id=1460726853",
+    "duration": "04:04",
+    "artists": [
+      { "name": "KWXZ", "link": "https://music.163.com/artist?id=12193637" }
+    ],
+    "album": {
+      "name": "Sunny day",
+      "link": "https://music.163.com/album?id=91956348"
+    }
+  },
+  {
+    "name": "Difficult",
+    "link": "https://music.163.com/song?id=1371476393",
+    "duration": "02:44",
+    "artists": [
+      {
+        "name": "Jay Bombay",
+        "link": "https://music.163.com/artist?id=327248"
+      },
+      { "name": "NEIMY", "link": "https://music.163.com/artist?id=12742289" }
+    ],
+    "album": {
+      "name": "Difficult",
+      "link": "https://music.163.com/album?id=79762476"
+    }
+  },
+  {
+    "name": "Erase You",
+    "link": "https://music.163.com/song?id=1448413352",
+    "duration": "03:29",
+    "artists": [
+      { "name": "Kaaze", "link": "https://music.163.com/artist?id=952052" },
+      {
+        "name": "Millennial",
+        "link": "https://music.163.com/artist?id=14371911"
+      }
+    ],
+    "album": {
+      "name": "Erase You",
+      "link": "https://music.163.com/album?id=89511807"
+    }
+  },
+  {
+    "name": "Where We Started",
+    "link": "https://music.163.com/song?id=1389194224",
+    "duration": "03:42",
+    "artists": [
+      {
+        "name": "Lost Sky",
+        "link": "https://music.163.com/artist?id=28389556"
+      },
+      { "name": "Jex", "link": "https://music.163.com/artist?id=12007273" }
+    ],
+    "album": {
+      "name": "Where We Started",
+      "link": "https://music.163.com/album?id=81423960"
+    }
+  },
+  {
+    "name": "Between Worlds",
+    "link": "https://music.163.com/song?id=28661549",
+    "duration": "05:09",
+    "artists": [
+      {
+        "name": "Roger Subirana",
+        "link": "https://music.163.com/artist?id=42057"
+      }
+    ],
+    "album": {
+      "name": "X I I",
+      "link": "https://music.163.com/album?id=2866275"
+    }
+  },
+  {
+    "name": "8 Letters",
+    "link": "https://music.163.com/song?id=1352929828",
+    "duration": "03:10",
+    "artists": [
+      {
+        "name": "Why Don't We",
+        "link": "https://music.163.com/artist?id=12468277"
+      }
+    ],
+    "album": {
+      "name": "Easter Party",
+      "link": "https://music.163.com/album?id=75901480"
+    }
+  },
+  {
+    "name": "Talk Talk",
+    "link": "https://music.163.com/song?id=1364583240",
+    "duration": "03:35",
+    "artists": [
+      { "name": "Cannons", "link": "https://music.163.com/artist?id=1022051" }
+    ],
+    "album": {
+      "name": "Talk Talk",
+      "link": "https://music.163.com/album?id=79057433"
+    }
+  },
+  {
+    "name": "Shattered (feat. RUNN)",
+    "link": "https://music.163.com/song?id=1396158063",
+    "duration": "04:12",
+    "artists": [
+      { "name": "MitiS", "link": "https://music.163.com/artist?id=40245" },
+      { "name": "Runn", "link": "https://music.163.com/artist?id=15237536" }
+    ],
+    "album": {
+      "name": "Shattered EP",
+      "link": "https://music.163.com/album?id=82295940"
+    }
+  },
+  {
+    "name": "Hana",
+    "link": "https://music.163.com/song?id=32640442",
+    "duration": "03:18",
+    "artists": [
+      { "name": "Wisp X", "link": "https://music.163.com/artist?id=1046123" }
+    ],
+    "album": {
+      "name": "Hana",
+      "link": "https://music.163.com/album?id=3161768"
+    }
+  },
+  {
+    "name": "Ridin' With You",
+    "link": "https://music.163.com/song?id=1449957050",
+    "duration": "02:50",
+    "artists": [
+      { "name": "J. Lisk", "link": "https://music.163.com/artist?id=12121101" }
+    ],
+    "album": {
+      "name": "Ridin' With You",
+      "link": "https://music.163.com/album?id=89759791"
+    }
+  },
+  {
+    "name": "夜空与雪、都不能吃",
+    "link": "https://music.163.com/song?id=1435567748",
+    "duration": "03:04",
+    "artists": [
+      {
+        "name": "Candy_Wind",
+        "link": "https://music.163.com/artist?id=1084178"
+      }
+    ],
+    "album": {
+      "name": "夜空与雪、都不能吃",
+      "link": "https://music.163.com/album?id=86993051"
+    }
+  },
+  {
+    "name": "Unite (Omnia Remix)",
+    "link": "https://music.163.com/song?id=542692992",
+    "duration": "03:03",
+    "artists": [
+      {
+        "name": "Roman Messer",
+        "link": "https://music.163.com/artist?id=905394"
+      },
+      {
+        "name": "Betsie Larkin",
+        "link": "https://music.163.com/artist?id=50834"
+      }
+    ],
+    "album": {
+      "name": "Unite (Remixes)",
+      "link": "https://music.163.com/album?id=37834060"
+    }
+  },
+  {
+    "name": "We'll Be Alright",
+    "link": "https://music.163.com/song?id=1431471073",
+    "duration": "02:58",
+    "artists": [
+      { "name": "BEAUZ", "link": "https://music.163.com/artist?id=12131436" },
+      { "name": "BSY", "link": "https://music.163.com/artist?id=34372552" },
+      { "name": "JSY", "link": "https://music.163.com/artist?id=34371015" }
+    ],
+    "album": {
+      "name": "We'll Be Alright",
+      "link": "https://music.163.com/album?id=86557896"
+    }
+  },
+  {
+    "name": "Changed",
+    "link": "https://music.163.com/song?id=1397573140",
+    "duration": "04:10",
+    "artists": [
+      {
+        "name": "CloudNone",
+        "link": "https://music.163.com/artist?id=28407606"
+      },
+      {
+        "name": "Laura Brehm",
+        "link": "https://music.163.com/artist?id=207693"
+      }
+    ],
+    "album": {
+      "name": "Changed",
+      "link": "https://music.163.com/album?id=82506103"
+    }
+  },
+  {
+    "name": "Fix You",
+    "link": "https://music.163.com/song?id=1362607511",
+    "duration": "05:36",
+    "artists": [
+      {
+        "name": "Danny Olson",
+        "link": "https://music.163.com/artist?id=1178296"
+      },
+      { "name": "Jadelyn", "link": "https://music.163.com/artist?id=32087580" }
+    ],
+    "album": {
+      "name": "Fix You",
+      "link": "https://music.163.com/album?id=78880282"
+    }
+  },
+  {
+    "name": "Hue",
+    "link": "https://music.163.com/song?id=1355169880",
+    "duration": "04:06",
+    "artists": [
+      {
+        "name": "Dave Thomas Junior",
+        "link": "https://music.163.com/artist?id=32233"
+      }
+    ],
+    "album": {
+      "name": "Hue",
+      "link": "https://music.163.com/album?id=78245972"
+    }
+  },
+  {
+    "name": "Battlecry",
+    "link": "https://music.163.com/song?id=1398588957",
+    "duration": "04:00",
+    "artists": [
+      { "name": "Mazare", "link": "https://music.163.com/artist?id=29718513" },
+      {
+        "name": "Philip Strand",
+        "link": "https://music.163.com/artist?id=13210678"
+      }
+    ],
+    "album": {
+      "name": "Battlecry",
+      "link": "https://music.163.com/album?id=82641443"
+    }
+  },
+  {
+    "name": "Long Way Home",
+    "link": "https://music.163.com/song?id=1409438317",
+    "duration": "03:34",
+    "artists": [
+      { "name": "Tritonal", "link": "https://music.163.com/artist?id=104133" },
+      { "name": "HALIENE", "link": "https://music.163.com/artist?id=13202710" },
+      { "name": "Schala", "link": "https://music.163.com/artist?id=11995110" },
+      { "name": "Jorza", "link": "https://music.163.com/artist?id=12594166" }
+    ],
+    "album": {
+      "name": "Long Way Home",
+      "link": "https://music.163.com/album?id=84085801"
+    }
+  },
+  {
+    "name": "Boss Dem",
+    "link": "https://music.163.com/song?id=1459013544",
+    "duration": "03:07",
+    "artists": [
+      { "name": "SWACQ", "link": "https://music.163.com/artist?id=12280005" }
+    ],
+    "album": {
+      "name": "Boss Dem",
+      "link": "https://music.163.com/album?id=91697250"
+    }
+  },
+  {
+    "name": "Reverie",
+    "link": "https://music.163.com/song?id=403710535",
+    "duration": "04:59",
+    "artists": [
+      { "name": "ILLENIUM", "link": "https://music.163.com/artist?id=1050518" },
+      { "name": "King Deco", "link": "https://music.163.com/artist?id=908182" }
+    ],
+    "album": {
+      "name": "Ashes",
+      "link": "https://music.163.com/album?id=34497141"
+    }
+  },
+  {
+    "name": "Holding On",
+    "link": "https://music.163.com/song?id=1415581032",
+    "duration": "03:37",
+    "artists": [
+      { "name": "Dabin", "link": "https://music.163.com/artist?id=783446" },
+      { "name": "Lowell", "link": "https://music.163.com/artist?id=434720" }
+    ],
+    "album": {
+      "name": "Holding On",
+      "link": "https://music.163.com/album?id=84880935"
+    }
+  },
+  {
+    "name": "Try",
+    "link": "https://music.163.com/song?id=27515086",
+    "duration": "04:09",
+    "artists": [
+      { "name": "P!nk", "link": "https://music.163.com/artist?id=70821" }
+    ],
+    "album": { "name": "Try", "link": "https://music.163.com/album?id=2623253" }
+  },
+  {
+    "name": "You Used To",
+    "link": "https://music.163.com/song?id=1405206289",
+    "duration": "03:21",
+    "artists": [
+      { "name": "Duumu", "link": "https://music.163.com/artist?id=12007367" },
+      {
+        "name": "I See Colors",
+        "link": "https://music.163.com/artist?id=33423122"
+      },
+      { "name": "Luma", "link": "https://music.163.com/artist?id=211460" }
+    ],
+    "album": {
+      "name": "You Used To",
+      "link": "https://music.163.com/album?id=83583346"
+    }
+  },
+  {
+    "name": "Leave",
+    "link": "https://music.163.com/song?id=1337345800",
+    "duration": "03:13",
+    "artists": [
+      { "name": "Borgeous", "link": "https://music.163.com/artist?id=904048" },
+      {
+        "name": "Jordyn Jones",
+        "link": "https://music.163.com/artist?id=1122010"
+      }
+    ],
+    "album": {
+      "name": "Leave",
+      "link": "https://music.163.com/album?id=75043824"
+    }
+  },
+  {
+    "name": "Together",
+    "link": "https://music.163.com/song?id=1444895003",
+    "duration": "02:41",
+    "artists": [
+      { "name": "Manse", "link": "https://music.163.com/artist?id=855409" },
+      {
+        "name": "David Shane",
+        "link": "https://music.163.com/artist?id=29840982"
+      }
+    ],
+    "album": {
+      "name": "Together",
+      "link": "https://music.163.com/album?id=88823276"
+    }
+  },
+  {
+    "name": "Pathfinder",
+    "link": "https://music.163.com/song?id=1358189191",
+    "duration": "02:03",
+    "artists": [
+      { "name": "Resonance", "link": "https://music.163.com/artist?id=196588" }
+    ],
+    "album": {
+      "name": "Pathfinder",
+      "link": "https://music.163.com/album?id=78479683"
+    }
+  },
+  {
+    "name": "Where'd You Go (Original Mix)",
+    "link": "https://music.163.com/song?id=1323042714",
+    "duration": "04:00",
+    "artists": [
+      { "name": "CMA", "link": "https://music.163.com/artist?id=300739" }
+    ],
+    "album": {
+      "name": "Where'd You Go (Original Mix)",
+      "link": "https://music.163.com/album?id=74249395"
+    }
+  },
+  {
+    "name": "Good Bye Brave World",
+    "link": "https://music.163.com/song?id=26624722",
+    "duration": "02:02",
+    "artists": [
+      {
+        "name": "Dirk Reichardt",
+        "link": "https://music.163.com/artist?id=861517"
+      },
+      {
+        "name": "David Juergens",
+        "link": "https://music.163.com/artist?id=15016003"
+      }
+    ],
+    "album": {
+      "name": "Kokowääh 2 (Original Motion Picture Soundtrack)",
+      "link": "https://music.163.com/album?id=2536612"
+    }
+  },
+  {
+    "name": "Fade (Full Version)",
+    "link": "https://music.163.com/song?id=429769654",
+    "duration": "03:34",
+    "artists": [
+      { "name": "Andreas B.", "link": "https://music.163.com/artist?id=299713" }
+    ],
+    "album": {
+      "name": "Fade (Full Version)",
+      "link": "https://music.163.com/album?id=34874178"
+    }
+  },
+  {
+    "name": "Take Me",
+    "link": "https://music.163.com/song?id=1299563521",
+    "duration": "03:12",
+    "artists": [
+      {
+        "name": "William Black",
+        "link": "https://music.163.com/artist?id=248957"
+      },
+      { "name": "Matte", "link": "https://music.163.com/artist?id=12335355" },
+      { "name": "Runn", "link": "https://music.163.com/artist?id=15237536" }
+    ],
+    "album": {
+      "name": "Take Me",
+      "link": "https://music.163.com/album?id=72073087"
+    }
+  },
+  {
+    "name": "经济舱 (Live)",
+    "link": "https://music.163.com/song?id=1487528112",
+    "duration": "03:43",
+    "artists": [
+      { "name": "Kafe.Hu", "link": "https://music.163.com/artist?id=12024274" }
+    ],
+    "album": {
+      "name": "中国新说唱2020 第十期",
+      "link": "https://music.163.com/album?id=96887565"
+    }
+  }
+]

@@ -1,0 +1,458 @@
+[
+  {
+    "name": "I Like Me Better (Ruhde Remix)",
+    "link": "https://music.163.com/song?id=496869889",
+    "duration": "03:12",
+    "artists": [
+      { "name": "Ruhde", "link": "https://music.163.com/artist?id=12560506" },
+      { "name": "Lauv", "link": "https://music.163.com/artist?id=1057226" }
+    ],
+    "album": {
+      "name": "I Like Me Better (Ruhde Remix)",
+      "link": "https://music.163.com/album?id=35909441"
+    }
+  },
+  {
+    "name": "Space",
+    "link": "https://music.163.com/song?id=499465427",
+    "duration": "02:48",
+    "artists": [
+      { "name": "Famba", "link": "https://music.163.com/artist?id=12121068" }
+    ],
+    "album": {
+      "name": "Space",
+      "link": "https://music.163.com/album?id=35903619"
+    }
+  },
+  {
+    "name": "By Your Side (feat. Fanchon)",
+    "link": "https://music.163.com/song?id=1420563507",
+    "duration": "03:12",
+    "artists": [
+      { "name": "Axero", "link": "https://music.163.com/artist?id=1035020" },
+      { "name": "Fanchon", "link": "https://music.163.com/artist?id=34306873" }
+    ],
+    "album": {
+      "name": "By Your Side",
+      "link": "https://music.163.com/album?id=85422686"
+    }
+  },
+  {
+    "name": "Here With Me",
+    "link": "https://music.163.com/song?id=1350656778",
+    "duration": "02:36",
+    "artists": [
+      {
+        "name": "Marshmello",
+        "link": "https://music.163.com/artist?id=1060019"
+      },
+      { "name": "CHVRCHES", "link": "https://music.163.com/artist?id=694027" }
+    ],
+    "album": {
+      "name": "Here With Me",
+      "link": "https://music.163.com/album?id=75798672"
+    }
+  },
+  {
+    "name": "Somebody That You Loved",
+    "link": "https://music.163.com/song?id=1381704370",
+    "duration": "03:36",
+    "artists": [
+      {
+        "name": "Bruno Martini",
+        "link": "https://music.163.com/artist?id=12355546"
+      },
+      {
+        "name": "New Hope Club",
+        "link": "https://music.163.com/artist?id=12408153"
+      }
+    ],
+    "album": {
+      "name": "Somebody That You Loved",
+      "link": "https://music.163.com/album?id=80748472"
+    }
+  },
+  {
+    "name": "Strongest (Alan Walker Remix)",
+    "link": "https://music.163.com/song?id=521657045",
+    "duration": "03:30",
+    "artists": [
+      {
+        "name": "Ina Wroldsen",
+        "link": "https://music.163.com/artist?id=60879"
+      },
+      {
+        "name": "Alan Walker",
+        "link": "https://music.163.com/artist?id=1045123"
+      }
+    ],
+    "album": {
+      "name": "Strongest (Alan Walker Remix)",
+      "link": "https://music.163.com/album?id=36864037"
+    }
+  },
+  {
+    "name": "Die Hard",
+    "link": "https://music.163.com/song?id=540333737",
+    "duration": "03:34",
+    "artists": [
+      { "name": "Refeci", "link": "https://music.163.com/artist?id=12608111" },
+      {
+        "name": "Emelie Cyréus",
+        "link": "https://music.163.com/artist?id=13312243"
+      }
+    ],
+    "album": {
+      "name": "Die Hard",
+      "link": "https://music.163.com/album?id=37561829"
+    }
+  },
+  {
+    "name": "Rodeo",
+    "link": "https://music.163.com/song?id=1374580281",
+    "duration": "02:39",
+    "artists": [
+      { "name": "Trinix", "link": "https://music.163.com/artist?id=11998064" }
+    ],
+    "album": {
+      "name": "Rodeo",
+      "link": "https://music.163.com/album?id=80060326"
+    }
+  },
+  {
+    "name": "Feels Like",
+    "link": "https://music.163.com/song?id=1346474112",
+    "duration": "03:11",
+    "artists": [
+      { "name": "Vicetone", "link": "https://music.163.com/artist?id=747030" },
+      { "name": "LAUR", "link": "https://music.163.com/artist?id=35757701" }
+    ],
+    "album": {
+      "name": "Elements",
+      "link": "https://music.163.com/album?id=75589857"
+    }
+  },
+  {
+    "name": "Don't Stop Now",
+    "link": "https://music.163.com/song?id=536396243",
+    "duration": "02:29",
+    "artists": [
+      {
+        "name": "Ben Phipps",
+        "link": "https://music.163.com/artist?id=1135005"
+      },
+      {
+        "name": "Sam DeRosa",
+        "link": "https://music.163.com/artist?id=13819986"
+      }
+    ],
+    "album": {
+      "name": "Don't Stop Now",
+      "link": "https://music.163.com/album?id=37568087"
+    }
+  },
+  {
+    "name": "On The Top",
+    "link": "https://music.163.com/song?id=440208814",
+    "duration": "03:32",
+    "artists": [
+      { "name": "LIZOT", "link": "https://music.163.com/artist?id=1137483" },
+      {
+        "name": "Emelie Cyréus",
+        "link": "https://music.163.com/artist?id=13312243"
+      }
+    ],
+    "album": {
+      "name": "On The Top",
+      "link": "https://music.163.com/album?id=34985248"
+    }
+  },
+  {
+    "name": "Love Alone",
+    "link": "https://music.163.com/song?id=566443287",
+    "duration": "03:05",
+    "artists": [
+      { "name": "Mokita", "link": "https://music.163.com/artist?id=12033046" }
+    ],
+    "album": {
+      "name": "Love Alone",
+      "link": "https://music.163.com/album?id=39264094"
+    }
+  },
+  {
+    "name": "Everything",
+    "link": "https://music.163.com/song?id=536624047",
+    "duration": "02:53",
+    "artists": [
+      { "name": "Firebeatz", "link": "https://music.163.com/artist?id=702005" },
+      {
+        "name": "Peppermint",
+        "link": "https://music.163.com/artist?id=12885527"
+      },
+      {
+        "name": "Aidan O'Brien",
+        "link": "https://music.163.com/artist?id=13372303"
+      }
+    ],
+    "album": {
+      "name": "Everything",
+      "link": "https://music.163.com/album?id=37577027"
+    }
+  },
+  {
+    "name": "Got You",
+    "link": "https://music.163.com/song?id=520525413",
+    "duration": "02:42",
+    "artists": [
+      {
+        "name": "Matt Terry",
+        "link": "https://music.163.com/artist?id=12214141"
+      }
+    ],
+    "album": {
+      "name": "Trouble",
+      "link": "https://music.163.com/album?id=36827686"
+    }
+  },
+  {
+    "name": "Bottom of the Sea",
+    "link": "https://music.163.com/song?id=862657373",
+    "duration": "03:13",
+    "artists": [
+      {
+        "name": "Erik Van Tools",
+        "link": "https://music.163.com/artist?id=13601811"
+      },
+      { "name": "Max Oazo", "link": "https://music.163.com/artist?id=13159084" }
+    ],
+    "album": {
+      "name": "Sirup Deep Anthems Rome 2018",
+      "link": "https://music.163.com/album?id=71664237"
+    }
+  },
+  {
+    "name": "Close to You (Radio Edit)",
+    "link": "https://music.163.com/song?id=562434582",
+    "duration": "02:52",
+    "artists": [
+      { "name": "Norda", "link": "https://music.163.com/artist?id=1111008" },
+      {
+        "name": "Camilla Daum",
+        "link": "https://music.163.com/artist?id=14455104"
+      }
+    ],
+    "album": {
+      "name": "Close to You",
+      "link": "https://music.163.com/album?id=38970313"
+    }
+  },
+  {
+    "name": "About Us",
+    "link": "https://music.163.com/song?id=1352954080",
+    "duration": "03:02",
+    "artists": [
+      { "name": "Disero", "link": "https://music.163.com/artist?id=14675307" },
+      { "name": "FTKS", "link": "https://music.163.com/artist?id=12274047" },
+      { "name": "WINTER", "link": "https://music.163.com/artist?id=30903401" }
+    ],
+    "album": {
+      "name": "About Us",
+      "link": "https://music.163.com/album?id=75903519"
+    }
+  },
+  {
+    "name": "Conmigo",
+    "link": "https://music.163.com/song?id=1304854165",
+    "duration": "03:21",
+    "artists": [
+      {
+        "name": "Max Oazo",
+        "link": "https://music.163.com/artist?id=13159084"
+      },
+      { "name": "Bonzana", "link": "https://music.163.com/artist?id=29294467" }
+    ],
+    "album": {
+      "name": "Conmigo",
+      "link": "https://music.163.com/album?id=72574881"
+    }
+  },
+  {
+    "name": "Dynamite (Dub Mix)",
+    "link": "https://music.163.com/song?id=1302171641",
+    "duration": "04:40",
+    "artists": [
+      { "name": "Suprafive", "link": "https://music.163.com/artist?id=1022142" }
+    ],
+    "album": {
+      "name": "SPRV Dub Mixes",
+      "link": "https://music.163.com/album?id=72337852"
+    }
+  },
+  {
+    "name": "Cruel",
+    "link": "https://music.163.com/song?id=563323623",
+    "duration": "03:50",
+    "artists": [
+      { "name": "Tobu", "link": "https://music.163.com/artist?id=964486" }
+    ],
+    "album": {
+      "name": "Cruel",
+      "link": "https://music.163.com/album?id=38792821"
+    }
+  },
+  {
+    "name": "All I Want",
+    "link": "https://music.163.com/song?id=431853775",
+    "duration": "02:39",
+    "artists": [
+      { "name": "Alok", "link": "https://music.163.com/artist?id=1170012" },
+      { "name": "Liu", "link": "https://music.163.com/artist?id=12046870" },
+      { "name": "Stonefox", "link": "https://music.163.com/artist?id=912065" }
+    ],
+    "album": {
+      "name": "All I Want",
+      "link": "https://music.163.com/album?id=34897084"
+    }
+  },
+  {
+    "name": "Wildcard (Jasper Dietze Remix)",
+    "link": "https://music.163.com/song?id=489997574",
+    "duration": "03:30",
+    "artists": [
+      {
+        "name": "Mickey Valen",
+        "link": "https://music.163.com/artist?id=12073190"
+      }
+    ],
+    "album": {
+      "name": "Wildcard (Remixes)",
+      "link": "https://music.163.com/album?id=35745141"
+    }
+  },
+  {
+    "name": "All The Feels",
+    "link": "https://music.163.com/song?id=557505144",
+    "duration": "03:03",
+    "artists": [
+      {
+        "name": "Fly by Midnight",
+        "link": "https://music.163.com/artist?id=1163027"
+      }
+    ],
+    "album": {
+      "name": "All The Feels",
+      "link": "https://music.163.com/album?id=38583208"
+    }
+  },
+  {
+    "name": "Love Yourself",
+    "link": "https://music.163.com/song?id=1478327145",
+    "duration": "03:52",
+    "artists": [
+      {
+        "name": "Justin Bieber",
+        "link": "https://music.163.com/artist?id=35531"
+      }
+    ],
+    "album": {
+      "name": "Work From Home Bops",
+      "link": "https://music.163.com/album?id=95256667"
+    }
+  },
+  {
+    "name": "Bombai",
+    "link": "https://music.163.com/song?id=1368693956",
+    "duration": "03:43",
+    "artists": [
+      { "name": "Dyro", "link": "https://music.163.com/artist?id=330726" }
+    ],
+    "album": {
+      "name": "Bombai",
+      "link": "https://music.163.com/album?id=79511685"
+    }
+  },
+  {
+    "name": "Falling",
+    "link": "https://music.163.com/song?id=1387274453",
+    "duration": "03:12",
+    "artists": [
+      { "name": "Dropgun", "link": "https://music.163.com/artist?id=972015" },
+      {
+        "name": "Asketa & Natan Chaim",
+        "link": "https://music.163.com/artist?id=32523005"
+      }
+    ],
+    "album": {
+      "name": "Falling",
+      "link": "https://music.163.com/album?id=81218932"
+    }
+  },
+  {
+    "name": "Game Time",
+    "link": "https://music.163.com/song?id=1419551373",
+    "duration": "02:24",
+    "artists": [
+      {
+        "name": "Lost Capital",
+        "link": "https://music.163.com/artist?id=28481039"
+      }
+    ],
+    "album": {
+      "name": "Game Time",
+      "link": "https://music.163.com/album?id=85314198"
+    }
+  },
+  {
+    "name": "In The Zone",
+    "link": "https://music.163.com/song?id=1417878644",
+    "duration": "02:40",
+    "artists": [
+      { "name": "Tobtok", "link": "https://music.163.com/artist?id=996071" },
+      { "name": "JLV", "link": "https://music.163.com/artist?id=12335463" }
+    ],
+    "album": {
+      "name": "In The Zone",
+      "link": "https://music.163.com/album?id=85098822"
+    }
+  },
+  {
+    "name": "Children",
+    "link": "https://music.163.com/song?id=1454622259",
+    "duration": "03:24",
+    "artists": [
+      { "name": "Rameses B", "link": "https://music.163.com/artist?id=42898" }
+    ],
+    "album": {
+      "name": "Children",
+      "link": "https://music.163.com/album?id=90708348"
+    }
+  },
+  {
+    "name": "Let It Go",
+    "link": "https://music.163.com/song?id=1439197426",
+    "duration": "02:59",
+    "artists": [
+      { "name": "Sagan", "link": "https://music.163.com/artist?id=77502" },
+      { "name": "RITN", "link": "https://music.163.com/artist?id=34363702" }
+    ],
+    "album": {
+      "name": "Let It Go",
+      "link": "https://music.163.com/album?id=87832963"
+    }
+  },
+  {
+    "name": "Collapsing World (Original Mix)",
+    "link": "https://music.163.com/song?id=38018486",
+    "duration": "03:10",
+    "artists": [
+      {
+        "name": "Lightscape",
+        "link": "https://music.163.com/artist?id=1084238"
+      }
+    ],
+    "album": {
+      "name": "Collapsing World ",
+      "link": "https://music.163.com/album?id=3427126"
+    }
+  }
+]

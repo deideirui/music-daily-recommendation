@@ -1,0 +1,440 @@
+[
+  {
+    "name": "Faces",
+    "link": "https://music.163.com/song?id=557578859",
+    "duration": "03:15",
+    "artists": [
+      {
+        "name": "Felix Cartal",
+        "link": "https://music.163.com/artist?id=2830"
+      },
+      { "name": "Veronica", "link": "https://music.163.com/artist?id=106614" }
+    ],
+    "album": {
+      "name": "Next Season",
+      "link": "https://music.163.com/album?id=38590164"
+    }
+  },
+  {
+    "name": "Drama",
+    "link": "https://music.163.com/song?id=1337130734",
+    "duration": "03:25",
+    "artists": [
+      { "name": "Hannie", "link": "https://music.163.com/artist?id=12073011" },
+      { "name": "HICARI", "link": "https://music.163.com/artist?id=13961629" },
+      {
+        "name": "Isaiah Dreads",
+        "link": "https://music.163.com/artist?id=12154223"
+      }
+    ],
+    "album": {
+      "name": "Drama",
+      "link": "https://music.163.com/album?id=75030910"
+    }
+  },
+  {
+    "name": "新 世 界",
+    "link": "https://music.163.com/song?id=518092000",
+    "duration": "02:50",
+    "artists": [
+      { "name": "Snikm", "link": "https://music.163.com/artist?id=12119610" }
+    ],
+    "album": {
+      "name": "New World(Snikm Remix)",
+      "link": "https://music.163.com/album?id=36762332"
+    }
+  },
+  {
+    "name": "What I Like About You",
+    "link": "https://music.163.com/song?id=1353368988",
+    "duration": "03:40",
+    "artists": [
+      {
+        "name": "Jonas Blue",
+        "link": "https://music.163.com/artist?id=1192069"
+      },
+      {
+        "name": "Theresa Rex",
+        "link": "https://music.163.com/artist?id=30282713"
+      }
+    ],
+    "album": {
+      "name": "What I Like About You",
+      "link": "https://music.163.com/album?id=77634351"
+    }
+  },
+  {
+    "name": "Impossible",
+    "link": "https://music.163.com/song?id=25706371",
+    "duration": "03:30",
+    "artists": [
+      {
+        "name": "James Arthur",
+        "link": "https://music.163.com/artist?id=673004"
+      }
+    ],
+    "album": {
+      "name": "Impossible",
+      "link": "https://music.163.com/album?id=2285031"
+    }
+  },
+  {
+    "name": "Birthday Cakes",
+    "link": "https://music.163.com/song?id=442458648",
+    "duration": "03:04",
+    "artists": [
+      {
+        "name": "Rikke Darling",
+        "link": "https://music.163.com/artist?id=12196069"
+      },
+      {
+        "name": "THE NGHTL1FE",
+        "link": "https://music.163.com/artist?id=29895992"
+      }
+    ],
+    "album": {
+      "name": "Birthday Cakes",
+      "link": "https://music.163.com/album?id=34970933"
+    }
+  },
+  {
+    "name": "Infina (3rd Planet Radio Edit)",
+    "link": "https://music.163.com/song?id=534322044",
+    "duration": "03:08",
+    "artists": [
+      { "name": "Omnia", "link": "https://music.163.com/artist?id=179006" }
+    ],
+    "album": {
+      "name": "Infina",
+      "link": "https://music.163.com/album?id=37454417"
+    }
+  },
+  {
+    "name": "Heart Linked - (心弦)",
+    "link": "https://music.163.com/song?id=423058298",
+    "duration": "03:50",
+    "artists": [
+      { "name": "Jannik", "link": "https://music.163.com/artist?id=12065179" }
+    ],
+    "album": {
+      "name": "Into the Dream",
+      "link": "https://music.163.com/album?id=34743986"
+    }
+  },
+  {
+    "name": "Six Feet Under",
+    "link": "https://music.163.com/song?id=418603177",
+    "duration": "03:09",
+    "artists": [
+      {
+        "name": "Billie Eilish",
+        "link": "https://music.163.com/artist?id=11972054"
+      }
+    ],
+    "album": {
+      "name": "Six Feet Under",
+      "link": "https://music.163.com/album?id=34749058"
+    }
+  },
+  {
+    "name": "Princesses Don't Cry",
+    "link": "https://music.163.com/song?id=536870202",
+    "duration": "03:32",
+    "artists": [
+      { "name": "AViVA", "link": "https://music.163.com/artist?id=12074178" }
+    ],
+    "album": {
+      "name": "Songs About Boys",
+      "link": "https://music.163.com/album?id=37586032"
+    }
+  },
+  {
+    "name": "GQ",
+    "link": "https://music.163.com/song?id=410654865",
+    "duration": "02:42",
+    "artists": [
+      {
+        "name": "Lola Coca",
+        "link": "https://music.163.com/artist?id=12040030"
+      }
+    ],
+    "album": { "name": "GQ", "link": "https://music.163.com/album?id=34609808" }
+  },
+  {
+    "name": "Coming My Way",
+    "link": "https://music.163.com/song?id=28805826",
+    "duration": "03:12",
+    "artists": [
+      {
+        "name": "Walking On Cars",
+        "link": "https://music.163.com/artist?id=743047"
+      }
+    ],
+    "album": {
+      "name": "Hand In Hand EP",
+      "link": "https://music.163.com/album?id=2896760"
+    }
+  },
+  {
+    "name": "Hold My Hand",
+    "link": "https://music.163.com/song?id=30903196",
+    "duration": "03:47",
+    "artists": [
+      {
+        "name": "Jess Glynne",
+        "link": "https://music.163.com/artist?id=904046"
+      }
+    ],
+    "album": {
+      "name": "Hold My Hand",
+      "link": "https://music.163.com/album?id=3106039"
+    }
+  },
+  {
+    "name": "Real Emotion",
+    "link": "https://music.163.com/song?id=431753107",
+    "duration": "04:40",
+    "artists": [
+      { "name": "Paper Route", "link": "https://music.163.com/artist?id=41179" }
+    ],
+    "album": {
+      "name": "Real Emotion",
+      "link": "https://music.163.com/album?id=34854455"
+    }
+  },
+  {
+    "name": "Ferrari",
+    "link": "https://music.163.com/song?id=550936829",
+    "duration": "03:32",
+    "artists": [
+      { "name": "Bebe Rexha", "link": "https://music.163.com/artist?id=336466" }
+    ],
+    "album": {
+      "name": "Expectations",
+      "link": "https://music.163.com/album?id=39763861"
+    }
+  },
+  {
+    "name": "Comfort Crowd",
+    "link": "https://music.163.com/song?id=1388868260",
+    "duration": "02:54",
+    "artists": [
+      {
+        "name": "Conan Gray",
+        "link": "https://music.163.com/artist?id=13080534"
+      }
+    ],
+    "album": {
+      "name": "Comfort Crowd",
+      "link": "https://music.163.com/album?id=81383953"
+    }
+  },
+  {
+    "name": "Lucky for You",
+    "link": "https://music.163.com/song?id=1346251896",
+    "duration": "02:16",
+    "artists": [
+      { "name": "Novo Amor", "link": "https://music.163.com/artist?id=904041" },
+      {
+        "name": "Gia Margaret",
+        "link": "https://music.163.com/artist?id=30572502"
+      }
+    ],
+    "album": {
+      "name": "No Fun / Lucky for You",
+      "link": "https://music.163.com/album?id=75576146"
+    }
+  },
+  {
+    "name": "Wide Eyed",
+    "link": "https://music.163.com/song?id=431096495",
+    "duration": "02:42",
+    "artists": [
+      {
+        "name": "Billy Lockett",
+        "link": "https://music.163.com/artist?id=12121180"
+      }
+    ],
+    "album": {
+      "name": "Wide Eyed",
+      "link": "https://music.163.com/album?id=34874621"
+    }
+  },
+  {
+    "name": "清秋客",
+    "link": "https://music.163.com/song?id=1330781244",
+    "duration": "03:38",
+    "artists": [
+      { "name": "钟渊", "link": "https://music.163.com/artist?id=13448626" }
+    ],
+    "album": {
+      "name": "清秋客",
+      "link": "https://music.163.com/album?id=74448190"
+    }
+  },
+  {
+    "name": "That Girl",
+    "link": "https://music.163.com/song?id=440208476",
+    "duration": "02:56",
+    "artists": [
+      { "name": "Olly Murs", "link": "https://music.163.com/artist?id=41034" }
+    ],
+    "album": {
+      "name": "24 HRS (Deluxe)",
+      "link": "https://music.163.com/album?id=34970031"
+    }
+  },
+  {
+    "name": "The Phoenix",
+    "link": "https://music.163.com/song?id=26199445",
+    "duration": "04:04",
+    "artists": [
+      {
+        "name": "Fall Out Boy",
+        "link": "https://music.163.com/artist?id=56782"
+      }
+    ],
+    "album": {
+      "name": "Save Rock And Roll",
+      "link": "https://music.163.com/album?id=2419988"
+    }
+  },
+  {
+    "name": "Daydream ft. Slyleaf",
+    "link": "https://music.163.com/song?id=417250967",
+    "duration": "03:35",
+    "artists": [
+      { "name": "Trifect", "link": "https://music.163.com/artist?id=12061045" },
+      { "name": "Slyleaf", "link": "https://music.163.com/artist?id=12155045" }
+    ],
+    "album": {
+      "name": "Daydream ft. Slyleaf",
+      "link": "https://music.163.com/album?id=34739476"
+    }
+  },
+  {
+    "name": "Why",
+    "link": "https://music.163.com/song?id=549943487",
+    "duration": "02:50",
+    "artists": [
+      {
+        "name": "Matt Patterson",
+        "link": "https://music.163.com/artist?id=13696660"
+      },
+      { "name": "PAIGE", "link": "https://music.163.com/artist?id=1192126" }
+    ],
+    "album": {
+      "name": "Why",
+      "link": "https://music.163.com/album?id=38212075"
+    }
+  },
+  {
+    "name": "Chaperone",
+    "link": "https://music.163.com/song?id=509531459",
+    "duration": "02:51",
+    "artists": [
+      { "name": "Hurts", "link": "https://music.163.com/artist?id=94043" }
+    ],
+    "album": {
+      "name": "Desire",
+      "link": "https://music.163.com/album?id=36320086"
+    }
+  },
+  {
+    "name": "Fuerteventura",
+    "link": "https://music.163.com/song?id=18680851",
+    "duration": "02:15",
+    "artists": [
+      { "name": "Russian Red", "link": "https://music.163.com/artist?id=72726" }
+    ],
+    "album": {
+      "name": "Fuerteventura",
+      "link": "https://music.163.com/album?id=1713277"
+    }
+  },
+  {
+    "name": "First Light",
+    "link": "https://music.163.com/song?id=415793049",
+    "duration": "04:25",
+    "artists": [
+      {
+        "name": "Dustin Tebbutt",
+        "link": "https://music.163.com/artist?id=840431"
+      }
+    ],
+    "album": {
+      "name": "First Light",
+      "link": "https://music.163.com/album?id=34721405"
+    }
+  },
+  {
+    "name": "Feeling of Being",
+    "link": "https://music.163.com/song?id=2931581",
+    "duration": "03:05",
+    "artists": [
+      {
+        "name": "Lucy Schwartz",
+        "link": "https://music.163.com/artist?id=64250"
+      }
+    ],
+    "album": {
+      "name": "Keep Me",
+      "link": "https://music.163.com/album?id=295976"
+    }
+  },
+  {
+    "name": "Last Soul on Earth",
+    "link": "https://music.163.com/song?id=26534131",
+    "duration": "03:23",
+    "artists": [
+      {
+        "name": "Miriam Bryant",
+        "link": "https://music.163.com/artist?id=699004"
+      }
+    ],
+    "album": {
+      "name": "Raised in Rain",
+      "link": "https://music.163.com/album?id=2520699"
+    }
+  },
+  {
+    "name": "Be With You (Nedu Remix) ",
+    "link": "https://music.163.com/song?id=35726099",
+    "duration": "04:11",
+    "artists": [
+      { "name": "Nedu", "link": "https://music.163.com/artist?id=1172048" },
+      { "name": "Akon", "link": "https://music.163.com/artist?id=27595" }
+    ],
+    "album": {
+      "name": "Be With You (Nedu Remix)",
+      "link": "https://music.163.com/album?id=3357158"
+    }
+  },
+  {
+    "name": "Bomb",
+    "link": "https://music.163.com/song?id=28838905",
+    "duration": "03:30",
+    "artists": [
+      { "name": "Isa", "link": "https://music.163.com/artist?id=975317" }
+    ],
+    "album": {
+      "name": "Bomb",
+      "link": "https://music.163.com/album?id=2901288"
+    }
+  },
+  {
+    "name": "Lost In Your Eyes (ft Per Rinaldo)",
+    "link": "https://music.163.com/song?id=29400872",
+    "duration": "04:52",
+    "artists": [
+      {
+        "name": "Timecop1983",
+        "link": "https://music.163.com/artist?id=954496"
+      }
+    ],
+    "album": {
+      "name": "Vox Populi 2: A Sequel",
+      "link": "https://music.163.com/album?id=3019452"
+    }
+  }
+]

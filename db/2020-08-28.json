@@ -1,0 +1,469 @@
+[
+  {
+    "name": "Get 2 Me",
+    "link": "https://music.163.com/song?id=1449669177",
+    "duration": "02:41",
+    "artists": [
+      { "name": "G-POL", "link": "https://music.163.com/artist?id=12054195" },
+      { "name": "Castion", "link": "https://music.163.com/artist?id=27687018" }
+    ],
+    "album": {
+      "name": "Get 2 Me",
+      "link": "https://music.163.com/album?id=89730558"
+    }
+  },
+  {
+    "name": "My Love",
+    "link": "https://music.163.com/song?id=1448588370",
+    "duration": "02:24",
+    "artists": [
+      {
+        "name": "Danny Avila",
+        "link": "https://music.163.com/artist?id=471420"
+      }
+    ],
+    "album": {
+      "name": "My Love",
+      "link": "https://music.163.com/album?id=89541407"
+    }
+  },
+  {
+    "name": "Lucky",
+    "link": "https://music.163.com/song?id=1446402652",
+    "duration": "02:40",
+    "artists": [
+      {
+        "name": "musicbyLUKAS",
+        "link": "https://music.163.com/artist?id=12763029"
+      },
+      { "name": "Melsen", "link": "https://music.163.com/artist?id=11977189" }
+    ],
+    "album": {
+      "name": "Lucky",
+      "link": "https://music.163.com/album?id=89124921"
+    }
+  },
+  {
+    "name": "Gone",
+    "link": "https://music.163.com/song?id=1336856653",
+    "duration": "02:53",
+    "artists": [
+      { "name": "Hoang", "link": "https://music.163.com/artist?id=27694442" },
+      { "name": "Kianna", "link": "https://music.163.com/artist?id=197017" }
+    ],
+    "album": {
+      "name": "Gone",
+      "link": "https://music.163.com/album?id=75016971"
+    }
+  },
+  {
+    "name": "Drama Free",
+    "link": "https://music.163.com/song?id=1371043420",
+    "duration": "03:05",
+    "artists": [
+      {
+        "name": "Maria Lynn",
+        "link": "https://music.163.com/artist?id=12273415"
+      },
+      {
+        "name": "Steve Reece",
+        "link": "https://music.163.com/artist?id=1147021"
+      }
+    ],
+    "album": {
+      "name": "Drama Free",
+      "link": "https://music.163.com/album?id=79711861"
+    }
+  },
+  {
+    "name": "Light Years Away",
+    "link": "https://music.163.com/song?id=517891055",
+    "duration": "03:13",
+    "artists": [
+      {
+        "name": "Julian Jordan",
+        "link": "https://music.163.com/artist?id=205395"
+      },
+      { "name": "TYMEN", "link": "https://music.163.com/artist?id=13550132" }
+    ],
+    "album": {
+      "name": "Light Years Away",
+      "link": "https://music.163.com/album?id=36767024"
+    }
+  },
+  {
+    "name": "Escape The Night",
+    "link": "https://music.163.com/song?id=1473761226",
+    "duration": "03:00",
+    "artists": [
+      { "name": "Omnia", "link": "https://music.163.com/artist?id=179006" }
+    ],
+    "album": {
+      "name": "Escape The Night",
+      "link": "https://music.163.com/album?id=94439639"
+    }
+  },
+  {
+    "name": "Fantasy (Felix Jaehn Remix)",
+    "link": "https://music.163.com/song?id=36271177",
+    "duration": "03:14",
+    "artists": [
+      {
+        "name": "Alina Baraz",
+        "link": "https://music.163.com/artist?id=860532"
+      },
+      {
+        "name": "Galimatias",
+        "link": "https://music.163.com/artist?id=820738"
+      },
+      {
+        "name": "Felix Jaehn",
+        "link": "https://music.163.com/artist?id=963083"
+      }
+    ],
+    "album": {
+      "name": "Fantasy (Felix Jaehn Remix)",
+      "link": "https://music.163.com/album?id=3389338"
+    }
+  },
+  {
+    "name": "Vagrant",
+    "link": "https://music.163.com/song?id=1456137007",
+    "duration": "04:05",
+    "artists": [
+      { "name": "Mazare", "link": "https://music.163.com/artist?id=29718513" },
+      {
+        "name": "Young Medicine",
+        "link": "https://music.163.com/artist?id=11995190"
+      }
+    ],
+    "album": {
+      "name": "Vagrant",
+      "link": "https://music.163.com/album?id=91089454"
+    }
+  },
+  {
+    "name": "Arp Of Astronomical Wisdom",
+    "link": "https://music.163.com/song?id=1445180281",
+    "duration": "03:37",
+    "artists": [
+      {
+        "name": "Julian Calor",
+        "link": "https://music.163.com/artist?id=894039"
+      }
+    ],
+    "album": {
+      "name": "Arp of Astronomical Wisdom",
+      "link": "https://music.163.com/album?id=88881142"
+    }
+  },
+  {
+    "name": "Juliet",
+    "link": "https://music.163.com/song?id=1347162288",
+    "duration": "03:56",
+    "artists": [
+      {
+        "name": "CloudNone",
+        "link": "https://music.163.com/artist?id=28407606"
+      },
+      { "name": "Matt Van", "link": "https://music.163.com/artist?id=12441178" }
+    ],
+    "album": {
+      "name": "Midnight Underground",
+      "link": "https://music.163.com/album?id=75634741"
+    }
+  },
+  {
+    "name": "Fix of You",
+    "link": "https://music.163.com/song?id=543930519",
+    "duration": "03:20",
+    "artists": [
+      {
+        "name": "Sasha Brown",
+        "link": "https://music.163.com/artist?id=12530060"
+      }
+    ],
+    "album": {
+      "name": "Fix of You",
+      "link": "https://music.163.com/album?id=37763309"
+    }
+  },
+  {
+    "name": "Mirrors",
+    "link": "https://music.163.com/song?id=1396157324",
+    "duration": "03:12",
+    "artists": [
+      { "name": "MitiS", "link": "https://music.163.com/artist?id=40245" }
+    ],
+    "album": {
+      "name": "Shattered EP",
+      "link": "https://music.163.com/album?id=82295940"
+    }
+  },
+  {
+    "name": "Fade To You",
+    "link": "https://music.163.com/song?id=475073475",
+    "duration": "03:21",
+    "artists": [
+      { "name": "Alvin Risk", "link": "https://music.163.com/artist?id=29299" },
+      {
+        "name": "Angelika Vee",
+        "link": "https://music.163.com/artist?id=904230"
+      }
+    ],
+    "album": {
+      "name": "Fade To You",
+      "link": "https://music.163.com/album?id=35443110"
+    }
+  },
+  {
+    "name": "Left Behind",
+    "link": "https://music.163.com/song?id=1397021940",
+    "duration": "03:29",
+    "artists": [
+      { "name": "Direct", "link": "https://music.163.com/artist?id=758029" }
+    ],
+    "album": {
+      "name": "Cold Ground",
+      "link": "https://music.163.com/album?id=82419089"
+    }
+  },
+  {
+    "name": "Alive",
+    "link": "https://music.163.com/song?id=509530616",
+    "duration": "04:08",
+    "artists": [
+      { "name": "BEATCORE", "link": "https://music.163.com/artist?id=1181857" },
+      {
+        "name": "Ashley Apollodor",
+        "link": "https://music.163.com/artist?id=12247036"
+      }
+    ],
+    "album": {
+      "name": "Alive",
+      "link": "https://music.163.com/album?id=36450089"
+    }
+  },
+  {
+    "name": "you should see me in a crown",
+    "link": "https://music.163.com/song?id=1399978963",
+    "duration": "02:59",
+    "artists": [
+      {
+        "name": "Besomorph",
+        "link": "https://music.163.com/artist?id=13406913"
+      },
+      { "name": "Miles Away", "link": "https://music.163.com/artist?id=96821" },
+      { "name": "braev", "link": "https://music.163.com/artist?id=33054799" }
+    ],
+    "album": {
+      "name": "you should see me in a crown",
+      "link": "https://music.163.com/album?id=82844239"
+    }
+  },
+  {
+    "name": "Numb",
+    "link": "https://music.163.com/song?id=1424954716",
+    "duration": "02:29",
+    "artists": [
+      {
+        "name": "Merk & Kremont",
+        "link": "https://music.163.com/artist?id=844467"
+      },
+      { "name": "SVEA", "link": "https://music.163.com/artist?id=14231266" },
+      { "name": "Ernia", "link": "https://music.163.com/artist?id=12458027" }
+    ],
+    "album": {
+      "name": "Numb",
+      "link": "https://music.163.com/album?id=85897546"
+    }
+  },
+  {
+    "name": "Call My Number",
+    "link": "https://music.163.com/song?id=1378839359",
+    "duration": "02:57",
+    "artists": [
+      { "name": "Sickrate", "link": "https://music.163.com/artist?id=32795333" }
+    ],
+    "album": {
+      "name": "Call My Number",
+      "link": "https://music.163.com/album?id=80489936"
+    }
+  },
+  {
+    "name": "Breathe Without",
+    "link": "https://music.163.com/song?id=1338368352",
+    "duration": "03:46",
+    "artists": [
+      { "name": "Nurko", "link": "https://music.163.com/artist?id=11991089" },
+      { "name": "Luma", "link": "https://music.163.com/artist?id=211460" }
+    ],
+    "album": {
+      "name": "Breathe Without",
+      "link": "https://music.163.com/album?id=75091057"
+    }
+  },
+  {
+    "name": "Stronger",
+    "link": "https://music.163.com/song?id=1404879065",
+    "duration": "02:39",
+    "artists": [
+      { "name": "Fenox", "link": "https://music.163.com/artist?id=28669872" }
+    ],
+    "album": {
+      "name": "Stronger",
+      "link": "https://music.163.com/album?id=83534434"
+    }
+  },
+  {
+    "name": "Reminding Me",
+    "link": "https://music.163.com/song?id=472219602",
+    "duration": "03:29",
+    "artists": [
+      { "name": "Shawn Hook", "link": "https://music.163.com/artist?id=44247" },
+      {
+        "name": "Vanessa Hudgens",
+        "link": "https://music.163.com/artist?id=83519"
+      }
+    ],
+    "album": {
+      "name": "Reminding Me",
+      "link": "https://music.163.com/album?id=35357334"
+    }
+  },
+  {
+    "name": "Emotion",
+    "link": "https://music.163.com/song?id=1375380647",
+    "duration": "03:24",
+    "artists": [
+      {
+        "name": "hazey eyes",
+        "link": "https://music.163.com/artist?id=12047491"
+      },
+      { "name": "Panama", "link": "https://music.163.com/artist?id=308297" }
+    ],
+    "album": {
+      "name": "Emotion (Remixes)",
+      "link": "https://music.163.com/album?id=80128861"
+    }
+  },
+  {
+    "name": "Same Page",
+    "link": "https://music.163.com/song?id=1338210422",
+    "duration": "03:02",
+    "artists": [
+      { "name": "Vincent", "link": "https://music.163.com/artist?id=133031" },
+      { "name": "Yetep", "link": "https://music.163.com/artist?id=12356399" },
+      {
+        "name": "Brooke Daye",
+        "link": "https://music.163.com/artist?id=30061218"
+      }
+    ],
+    "album": {
+      "name": "Same Page",
+      "link": "https://music.163.com/album?id=75084071"
+    }
+  },
+  {
+    "name": "Otherside (Radio Edit)",
+    "link": "https://music.163.com/song?id=28660098",
+    "duration": "03:27",
+    "artists": [
+      { "name": "Tom Swoon", "link": "https://music.163.com/artist?id=725010" }
+    ],
+    "album": {
+      "name": "Otherside",
+      "link": "https://music.163.com/album?id=2875025"
+    }
+  },
+  {
+    "name": "One More Night",
+    "link": "https://music.163.com/song?id=1401180143",
+    "duration": "04:15",
+    "artists": [
+      {
+        "name": "Crystal Skies",
+        "link": "https://music.163.com/artist?id=1063127"
+      }
+    ],
+    "album": {
+      "name": "Constellations",
+      "link": "https://music.163.com/album?id=83001751"
+    }
+  },
+  {
+    "name": "Matches (Mr FijiWiji Remix) [feat. Aaron Richards]",
+    "link": "https://music.163.com/song?id=439915100",
+    "duration": "05:07",
+    "artists": [
+      { "name": "Ephixa", "link": "https://music.163.com/artist?id=205684" },
+      {
+        "name": "Mr FijiWiji",
+        "link": "https://music.163.com/artist?id=40353"
+      },
+      {
+        "name": "Stephen Walking",
+        "link": "https://music.163.com/artist?id=101860"
+      },
+      {
+        "name": "Aaron Richards",
+        "link": "https://music.163.com/artist?id=14055238"
+      }
+    ],
+    "album": {
+      "name": "Matches (The Remixes) [Feat. Aaron Richards]",
+      "link": "https://music.163.com/album?id=34975359"
+    }
+  },
+  {
+    "name": "Should I",
+    "link": "https://music.163.com/song?id=515223490",
+    "duration": "03:05",
+    "artists": [
+      {
+        "name": "Phoebe Ryan",
+        "link": "https://music.163.com/artist?id=854363"
+      }
+    ],
+    "album": {
+      "name": "James - EP",
+      "link": "https://music.163.com/album?id=36515723"
+    }
+  },
+  {
+    "name": "Official",
+    "link": "https://music.163.com/song?id=1390484776",
+    "duration": "03:04",
+    "artists": [
+      { "name": "Charli XCX", "link": "https://music.163.com/artist?id=53092" }
+    ],
+    "album": {
+      "name": "Charli",
+      "link": "https://music.163.com/album?id=81593693"
+    }
+  },
+  {
+    "name": "if this is the last time",
+    "link": "https://music.163.com/song?id=1459407504",
+    "duration": "03:23",
+    "artists": [
+      { "name": "LANY", "link": "https://music.163.com/artist?id=999460" }
+    ],
+    "album": {
+      "name": "if this is the last time",
+      "link": "https://music.163.com/album?id=91786584"
+    }
+  },
+  {
+    "name": "Regulars",
+    "link": "https://music.163.com/song?id=1395896656",
+    "duration": "03:41",
+    "artists": [
+      { "name": "Allie X", "link": "https://music.163.com/artist?id=973030" }
+    ],
+    "album": {
+      "name": "Regulars",
+      "link": "https://music.163.com/album?id=82250056"
+    }
+  }
+]

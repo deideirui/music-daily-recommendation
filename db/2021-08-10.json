@@ -1,0 +1,488 @@
+[
+  {
+    "name": "Borealis",
+    "link": "https://music.163.com/song?id=1403355872",
+    "duration": "04:45",
+    "artists": [
+      { "name": "Madeon", "link": "https://music.163.com/artist?id=40280" }
+    ],
+    "album": {
+      "name": "Good Faith",
+      "link": "https://music.163.com/album?id=83312518"
+    }
+  },
+  {
+    "name": "Moon Rider (feat. Wrabel)",
+    "link": "https://music.163.com/song?id=1415339510",
+    "duration": "03:38",
+    "artists": [
+      { "name": "Jai Wolf", "link": "https://music.163.com/artist?id=1063048" },
+      { "name": "Wrabel", "link": "https://music.163.com/artist?id=942221" }
+    ],
+    "album": {
+      "name": "Moon Rider (feat. Wrabel)",
+      "link": "https://music.163.com/album?id=84851692"
+    }
+  },
+  {
+    "name": "Dance Around It",
+    "link": "https://music.163.com/song?id=1364343558",
+    "duration": "03:24",
+    "artists": [
+      { "name": "Parachute", "link": "https://music.163.com/artist?id=41209" }
+    ],
+    "album": {
+      "name": "Parachute",
+      "link": "https://music.163.com/album?id=79037219"
+    }
+  },
+  {
+    "name": "Insurgence",
+    "link": "https://music.163.com/song?id=1357621728",
+    "duration": "04:20",
+    "artists": [
+      {
+        "name": "Jim Yosef",
+        "link": "https://music.163.com/artist?id=1063121"
+      },
+      { "name": "Starlyte", "link": "https://music.163.com/artist?id=12006394" }
+    ],
+    "album": {
+      "name": "Insurgence",
+      "link": "https://music.163.com/album?id=78399461"
+    }
+  },
+  {
+    "name": "Loner",
+    "link": "https://music.163.com/song?id=1397109098",
+    "duration": "03:31",
+    "artists": [
+      { "name": "Wisp X", "link": "https://music.163.com/artist?id=1046123" }
+    ],
+    "album": {
+      "name": "Loner",
+      "link": "https://music.163.com/album?id=82434757"
+    }
+  },
+  {
+    "name": "忘れたくて…",
+    "link": "https://music.163.com/song?id=22699154",
+    "duration": "04:16",
+    "artists": [
+      { "name": "山口リサ", "link": "https://music.163.com/artist?id=18208" }
+    ],
+    "album": {
+      "name": "Explosions",
+      "link": "https://music.163.com/album?id=2082846"
+    }
+  },
+  {
+    "name": "Junction Seven (Original Mix)",
+    "link": "https://music.163.com/song?id=411236296",
+    "duration": "05:06",
+    "artists": [
+      { "name": "Muzz", "link": "https://music.163.com/artist?id=158046" }
+    ],
+    "album": {
+      "name": "Junction Seven",
+      "link": "https://music.163.com/album?id=34678096"
+    }
+  },
+  {
+    "name": "Running In The Night (feat. Ollie Wride)",
+    "link": "https://music.163.com/song?id=411921883",
+    "duration": "04:30",
+    "artists": [
+      { "name": "FM-84", "link": "https://music.163.com/artist?id=12046467" }
+    ],
+    "album": {
+      "name": "Atlas",
+      "link": "https://music.163.com/album?id=34686652"
+    }
+  },
+  {
+    "name": "Takes All Night",
+    "link": "https://music.163.com/song?id=1380326327",
+    "duration": "03:21",
+    "artists": [
+      { "name": "LeBrock", "link": "https://music.163.com/artist?id=13970913" }
+    ],
+    "album": {
+      "name": "Takes All Night",
+      "link": "https://music.163.com/album?id=80624233"
+    }
+  },
+  {
+    "name": "The Equaliser (Not Alone)",
+    "link": "https://music.163.com/song?id=426027090",
+    "duration": "03:49",
+    "artists": [
+      {
+        "name": "The Midnight",
+        "link": "https://music.163.com/artist?id=12023492"
+      }
+    ],
+    "album": {
+      "name": "Endless Summer",
+      "link": "https://music.163.com/album?id=34826028"
+    }
+  },
+  {
+    "name": "Dreamer",
+    "link": "https://music.163.com/song?id=28310843",
+    "duration": "04:10",
+    "artists": [
+      { "name": "Adna", "link": "https://music.163.com/artist?id=897179" }
+    ],
+    "album": {
+      "name": "Night",
+      "link": "https://music.163.com/album?id=2771338"
+    }
+  },
+  {
+    "name": "Two Minds (KSHMR & Crossnaders Remix)",
+    "link": "https://music.163.com/song?id=466794336",
+    "duration": "03:56",
+    "artists": [
+      { "name": "KSHMR", "link": "https://music.163.com/artist?id=896139" },
+      {
+        "name": "Crossnaders",
+        "link": "https://music.163.com/artist?id=12080276"
+      },
+      { "name": "Nero", "link": "https://music.163.com/artist?id=97822" }
+    ],
+    "album": {
+      "name": "Two Minds (KSHMR & Crossnaders Remix)",
+      "link": "https://music.163.com/album?id=35292309"
+    }
+  },
+  {
+    "name": "I Wish (Matte X Kuur Remix)",
+    "link": "https://music.163.com/song?id=565966094",
+    "duration": "04:18",
+    "artists": [
+      { "name": "Matte", "link": "https://music.163.com/artist?id=12335355" },
+      { "name": "Skylr", "link": "https://music.163.com/artist?id=13122138" },
+      { "name": "Kuur", "link": "https://music.163.com/artist?id=12347091" },
+      {
+        "name": "William Black",
+        "link": "https://music.163.com/artist?id=248957"
+      }
+    ],
+    "album": {
+      "name": "I Wish (Matte & Kuur Remix)",
+      "link": "https://music.163.com/album?id=39223024"
+    }
+  },
+  {
+    "name": "you should see me in a crown",
+    "link": "https://music.163.com/song?id=1399978963",
+    "duration": "02:59",
+    "artists": [
+      {
+        "name": "Besomorph",
+        "link": "https://music.163.com/artist?id=13406913"
+      },
+      { "name": "Miles Away", "link": "https://music.163.com/artist?id=96821" },
+      { "name": "braev", "link": "https://music.163.com/artist?id=33054799" }
+    ],
+    "album": {
+      "name": "you should see me in a crown",
+      "link": "https://music.163.com/album?id=82844239"
+    }
+  },
+  {
+    "name": "Let It All Out (Miro Remix)",
+    "link": "https://music.163.com/song?id=35310118",
+    "duration": "04:19",
+    "artists": [
+      { "name": "Miro", "link": "https://music.163.com/artist?id=129703" }
+    ],
+    "album": {
+      "name": "Let It All Out (Miro Remix)",
+      "link": "https://music.163.com/album?id=3317020"
+    }
+  },
+  {
+    "name": "I Miss You",
+    "link": "https://music.163.com/song?id=419250748",
+    "duration": "04:48",
+    "artists": [
+      {
+        "name": "Misael Gauna ",
+        "link": "https://music.163.com/artist?id=1054136"
+      },
+      {
+        "name": "Noctilucent",
+        "link": "https://music.163.com/artist?id=1150036"
+      }
+    ],
+    "album": {
+      "name": "I Miss You",
+      "link": "https://music.163.com/album?id=34753239"
+    }
+  },
+  {
+    "name": "星河不可及",
+    "link": "https://music.163.com/song?id=1409136605",
+    "duration": "03:50",
+    "artists": [
+      { "name": "CMJ", "link": "https://music.163.com/artist?id=12157336" }
+    ],
+    "album": {
+      "name": "星河不可及",
+      "link": "https://music.163.com/album?id=84025036"
+    }
+  },
+  {
+    "name": "和煦的糖果风",
+    "link": "https://music.163.com/song?id=439142564",
+    "duration": "03:03",
+    "artists": [
+      {
+        "name": "Candy_Wind",
+        "link": "https://music.163.com/artist?id=1084178"
+      }
+    ],
+    "album": {
+      "name": "和煦的糖果风",
+      "link": "https://music.163.com/album?id=34979224"
+    }
+  },
+  {
+    "name": "Beneath Us (Original Mix)",
+    "link": "https://music.163.com/song?id=33071119",
+    "duration": "04:56",
+    "artists": [
+      { "name": "MitiS", "link": "https://music.163.com/artist?id=40245" },
+      { "name": "SubLioN", "link": "https://music.163.com/artist?id=1180070" }
+    ],
+    "album": {
+      "name": "Beneath Us",
+      "link": "https://music.163.com/album?id=3180022"
+    }
+  },
+  {
+    "name": "Love Is Gone (feat. Dylan Matthew) (Acoustic)",
+    "link": "https://music.163.com/song?id=1401671455",
+    "duration": "02:56",
+    "artists": [
+      { "name": "SLANDER", "link": "https://music.163.com/artist?id=1137239" },
+      {
+        "name": "Dylan Matthew",
+        "link": "https://music.163.com/artist?id=28684353"
+      }
+    ],
+    "album": {
+      "name": "Love Is Gone (Acoustic)",
+      "link": "https://music.163.com/album?id=83079277"
+    }
+  },
+  {
+    "name": "僕が死のうと思ったのは - (我也曾想过一了百了)",
+    "link": "https://music.163.com/song?id=405612712",
+    "duration": "06:34",
+    "artists": [
+      { "name": "amazarashi", "link": "https://music.163.com/artist?id=18480" }
+    ],
+    "album": {
+      "name": "MIKA NAKASHIMA TRIBUTE",
+      "link": "https://music.163.com/album?id=34515484"
+    }
+  },
+  {
+    "name": "目及皆是你",
+    "link": "https://music.163.com/song?id=1847975477",
+    "duration": "03:51",
+    "artists": [
+      { "name": "小蓝背心", "link": "https://music.163.com/artist?id=46961650" }
+    ],
+    "album": {
+      "name": "目及皆是你",
+      "link": "https://music.163.com/album?id=127968653"
+    }
+  },
+  {
+    "name": "カノジョ",
+    "link": "https://music.163.com/song?id=22736708",
+    "duration": "03:17",
+    "artists": [
+      {
+        "name": "UPLIFT SPICE",
+        "link": "https://music.163.com/artist?id=22191"
+      }
+    ],
+    "album": {
+      "name": "Uplift Spice",
+      "link": "https://music.163.com/album?id=2087719"
+    }
+  },
+  {
+    "name": "Once Upon a Time",
+    "link": "https://music.163.com/song?id=1299570939",
+    "duration": "03:26",
+    "artists": [
+      {
+        "name": "Max Oazo",
+        "link": "https://music.163.com/artist?id=13159084"
+      },
+      { "name": "Moonessa", "link": "https://music.163.com/artist?id=29834706" }
+    ],
+    "album": {
+      "name": "Once Upon a Time",
+      "link": "https://music.163.com/album?id=72073258"
+    }
+  },
+  {
+    "name": "Lovefool",
+    "link": "https://music.163.com/song?id=1446769897",
+    "duration": "03:10",
+    "artists": [
+      {
+        "name": "twocolors",
+        "link": "https://music.163.com/artist?id=14177760"
+      }
+    ],
+    "album": {
+      "name": "Lovefool",
+      "link": "https://music.163.com/album?id=89208199"
+    }
+  },
+  {
+    "name": "Glassy Sky（Cover Donna Burke / 山田豊）",
+    "link": "https://music.163.com/song?id=516661022",
+    "duration": "04:54",
+    "artists": [
+      { "name": "Galaxy盖", "link": "https://music.163.com/artist?id=12195567" }
+    ],
+    "album": {
+      "name": "Glassy Sky/On My Own",
+      "link": "https://music.163.com/album?id=36706280"
+    }
+  },
+  {
+    "name": "Drown (feat. Clinton Kane) (Alle Farben Remix)",
+    "link": "https://music.163.com/song?id=1437031748",
+    "duration": "02:49",
+    "artists": [
+      {
+        "name": "Martin Garrix",
+        "link": "https://music.163.com/artist?id=780003"
+      },
+      {
+        "name": "Clinton Kane",
+        "link": "https://music.163.com/artist?id=32796183"
+      },
+      {
+        "name": "Alle Farben",
+        "link": "https://music.163.com/artist?id=206027"
+      }
+    ],
+    "album": {
+      "name": "Drown (feat. Clinton Kane) (Alle Farben Remix)",
+      "link": "https://music.163.com/album?id=87513279"
+    }
+  },
+  {
+    "name": "Nevada",
+    "link": "https://music.163.com/song?id=418602088",
+    "duration": "03:28",
+    "artists": [
+      { "name": "Vicetone", "link": "https://music.163.com/artist?id=747030" },
+      {
+        "name": "Cozi Zuehlsdorff",
+        "link": "https://music.163.com/artist?id=1097153"
+      }
+    ],
+    "album": {
+      "name": "Nevada",
+      "link": "https://music.163.com/album?id=34750015"
+    }
+  },
+  {
+    "name": "Please Don't Go",
+    "link": "https://music.163.com/song?id=37653063",
+    "duration": "03:30",
+    "artists": [
+      {
+        "name": "Joel Adams",
+        "link": "https://music.163.com/artist?id=1188100"
+      }
+    ],
+    "album": {
+      "name": "Please Don't Go",
+      "link": "https://music.163.com/album?id=3415755"
+    }
+  },
+  {
+    "name": "Silvery",
+    "link": "https://music.163.com/song?id=517902788",
+    "duration": "03:52",
+    "artists": [
+      { "name": "Novo Amor", "link": "https://music.163.com/artist?id=904041" },
+      {
+        "name": "Ed Tullett",
+        "link": "https://music.163.com/artist?id=12863130"
+      }
+    ],
+    "album": {
+      "name": "Heiress",
+      "link": "https://music.163.com/album?id=36771113"
+    }
+  },
+  {
+    "name": "Mine (Illenium Remix)",
+    "link": "https://music.163.com/song?id=30780496",
+    "duration": "04:09",
+    "artists": [
+      { "name": "ILLENIUM", "link": "https://music.163.com/artist?id=1050518" },
+      {
+        "name": "Phoebe Ryan",
+        "link": "https://music.163.com/artist?id=854363"
+      }
+    ],
+    "album": {
+      "name": "Mine (Illenium Remix)",
+      "link": "https://music.163.com/album?id=3103256"
+    }
+  },
+  {
+    "name": "Words",
+    "link": "https://music.163.com/song?id=18002270",
+    "duration": "04:01",
+    "artists": [
+      {
+        "name": "Gregory Alan Isakov",
+        "link": "https://music.163.com/artist?id=33865"
+      }
+    ],
+    "album": {
+      "name": "This Empty Northern Hemisphere",
+      "link": "https://music.163.com/album?id=1655380"
+    }
+  },
+  {
+    "name": "陽菜と、走る帆高",
+    "link": "https://music.163.com/song?id=1378492144",
+    "duration": "02:23",
+    "artists": [
+      { "name": "RADWIMPS", "link": "https://music.163.com/artist?id=21132" }
+    ],
+    "album": {
+      "name": "天気の子",
+      "link": "https://music.163.com/album?id=80440087"
+    }
+  },
+  {
+    "name": "End",
+    "link": "https://music.163.com/song?id=1862436609",
+    "duration": "03:53",
+    "artists": [
+      { "name": "坂本龍一", "link": "https://music.163.com/artist?id=15289" }
+    ],
+    "album": {
+      "name": "End",
+      "link": "https://music.163.com/album?id=130568266"
+    }
+  }
+]

@@ -1,0 +1,441 @@
+[
+  {
+    "name": "One Day",
+    "link": "https://music.163.com/song?id=27506983",
+    "duration": "03:15",
+    "artists": [
+      { "name": "Emblem3", "link": "https://music.163.com/artist?id=804398" }
+    ],
+    "album": {
+      "name": "Nothing To Lose",
+      "link": "https://music.163.com/album?id=2621296"
+    }
+  },
+  {
+    "name": "Rock the World",
+    "link": "https://music.163.com/song?id=503020028",
+    "duration": "03:10",
+    "artists": [
+      { "name": "The Script", "link": "https://music.163.com/artist?id=102028" }
+    ],
+    "album": {
+      "name": "Freedom Child",
+      "link": "https://music.163.com/album?id=35903909"
+    }
+  },
+  {
+    "name": "Honest",
+    "link": "https://music.163.com/song?id=470547659",
+    "duration": "03:28",
+    "artists": [
+      {
+        "name": "The Chainsmokers",
+        "link": "https://music.163.com/artist?id=893484"
+      }
+    ],
+    "album": {
+      "name": "Memories...Do Not Open",
+      "link": "https://music.163.com/album?id=35347078"
+    }
+  },
+  {
+    "name": "Parachute",
+    "link": "https://music.163.com/song?id=27867132",
+    "duration": "03:05",
+    "artists": [
+      { "name": "Lawson", "link": "https://music.163.com/artist?id=96193" }
+    ],
+    "album": {
+      "name": "Chapman Square Chapter II (Deluxe Version)",
+      "link": "https://music.163.com/album?id=2685308"
+    }
+  },
+  {
+    "name": "Inside Out",
+    "link": "https://music.163.com/song?id=1366897971",
+    "duration": "02:56",
+    "artists": [
+      { "name": "Mokita", "link": "https://music.163.com/artist?id=12033046" }
+    ],
+    "album": {
+      "name": "Inside Out",
+      "link": "https://music.163.com/album?id=79310713"
+    }
+  },
+  {
+    "name": "The Other Side (Tenishia Intro Mix)",
+    "link": "https://music.163.com/song?id=4396833",
+    "duration": "06:52",
+    "artists": [
+      { "name": "Susana", "link": "https://music.163.com/artist?id=77990" }
+    ],
+    "album": {
+      "name": "Trance World, Vol. 12",
+      "link": "https://music.163.com/album?id=443821"
+    }
+  },
+  {
+    "name": "Here Comes Forever",
+    "link": "https://music.163.com/song?id=27770321",
+    "duration": "03:15",
+    "artists": [
+      { "name": "R5", "link": "https://music.163.com/artist?id=818671" }
+    ],
+    "album": {
+      "name": "Louder",
+      "link": "https://music.163.com/album?id=2674042"
+    }
+  },
+  {
+    "name": "Good Day",
+    "link": "https://music.163.com/song?id=28493605",
+    "duration": "03:29",
+    "artists": [
+      {
+        "name": "Lucky Stroke",
+        "link": "https://music.163.com/artist?id=95914"
+      }
+    ],
+    "album": {
+      "name": "Good Day",
+      "link": "https://music.163.com/album?id=2805262"
+    }
+  },
+  {
+    "name": "Hard To Say Goodbye (feat. Chloe Angelides) [Ship Wrek Remix]",
+    "link": "https://music.163.com/song?id=1441442168",
+    "duration": "03:58",
+    "artists": [
+      { "name": "Ekali", "link": "https://music.163.com/artist?id=1132925" },
+      { "name": "ILLENIUM", "link": "https://music.163.com/artist?id=1050518" },
+      {
+        "name": "Chloe Angelides",
+        "link": "https://music.163.com/artist?id=901014"
+      }
+    ],
+    "album": {
+      "name": "Hard To Say Goodbye (feat. Chloe Angelides) [Ship Wrek Remix]",
+      "link": "https://music.163.com/album?id=88183068"
+    }
+  },
+  {
+    "name": "Eternal Twilight",
+    "link": "https://music.163.com/song?id=1335349532",
+    "duration": "04:31",
+    "artists": [
+      { "name": "Wisp X", "link": "https://music.163.com/artist?id=1046123" }
+    ],
+    "album": {
+      "name": "Glass Heart",
+      "link": "https://music.163.com/album?id=74937654"
+    }
+  },
+  {
+    "name": "If You Leave Me Now",
+    "link": "https://music.163.com/song?id=557602901",
+    "duration": "04:08",
+    "artists": [
+      { "name": "Lowes", "link": "https://music.163.com/artist?id=12743082" }
+    ],
+    "album": {
+      "name": "If You Leave Me Now",
+      "link": "https://music.163.com/album?id=38586652"
+    }
+  },
+  {
+    "name": "Pizza",
+    "link": "https://music.163.com/song?id=501220051",
+    "duration": "04:15",
+    "artists": [
+      {
+        "name": "Martin Garrix",
+        "link": "https://music.163.com/artist?id=780003"
+      }
+    ],
+    "album": {
+      "name": "Pizza",
+      "link": "https://music.163.com/album?id=36031298"
+    }
+  },
+  {
+    "name": "Unstoppable (Vinai Remix)",
+    "link": "https://music.163.com/song?id=28870229",
+    "duration": "03:47",
+    "artists": [
+      { "name": "R3hab", "link": "https://music.163.com/artist?id=197248" },
+      { "name": "VINAI", "link": "https://music.163.com/artist?id=804422" }
+    ],
+    "album": {
+      "name": "Unstoppable (Remixes)",
+      "link": "https://music.163.com/album?id=2918203"
+    }
+  },
+  {
+    "name": "Survive",
+    "link": "https://music.163.com/song?id=445144239",
+    "duration": "04:32",
+    "artists": [
+      { "name": "Vanze", "link": "https://music.163.com/artist?id=1081008" },
+      {
+        "name": "Neon Dreams",
+        "link": "https://music.163.com/artist?id=816217"
+      }
+    ],
+    "album": {
+      "name": "Survive",
+      "link": "https://music.163.com/album?id=35023749"
+    }
+  },
+  {
+    "name": "Holding On",
+    "link": "https://music.163.com/song?id=520274067",
+    "duration": "03:25",
+    "artists": [
+      {
+        "name": "Adib Sin",
+        "link": "https://music.163.com/artist?id=12244027"
+      },
+      { "name": "Salsa", "link": "https://music.163.com/artist?id=141594" }
+    ],
+    "album": {
+      "name": "Holding On",
+      "link": "https://music.163.com/album?id=36845027"
+    }
+  },
+  {
+    "name": "Can't Help Myself",
+    "link": "https://music.163.com/song?id=484365609",
+    "duration": "03:30",
+    "artists": [
+      {
+        "name": "Jake Miller",
+        "link": "https://music.163.com/artist?id=776761"
+      }
+    ],
+    "album": {
+      "name": "2:00am in LA",
+      "link": "https://music.163.com/album?id=35630260"
+    }
+  },
+  {
+    "name": "Tu vas me manquer (Pilule Bleue)",
+    "link": "https://music.163.com/song?id=36025856",
+    "duration": "04:10",
+    "artists": [
+      {
+        "name": "Maître Gims",
+        "link": "https://music.163.com/artist?id=710267"
+      }
+    ],
+    "album": {
+      "name": "Mon coeur avait raison",
+      "link": "https://music.163.com/album?id=3367822"
+    }
+  },
+  {
+    "name": "Moshi Moshi",
+    "link": "https://music.163.com/song?id=509728841",
+    "duration": "03:41",
+    "artists": [
+      { "name": "Poppy", "link": "https://music.163.com/artist?id=12441148" }
+    ],
+    "album": {
+      "name": "Poppy.Computer",
+      "link": "https://music.163.com/album?id=36451347"
+    }
+  },
+  {
+    "name": "Lunisolar",
+    "link": "https://music.163.com/song?id=509792932",
+    "duration": "03:42",
+    "artists": [
+      { "name": "SHAUN", "link": "https://music.163.com/artist?id=1150188" }
+    ],
+    "album": {
+      "name": "WE LOVE VOCAL EDM, Season 4",
+      "link": "https://music.163.com/album?id=36459283"
+    }
+  },
+  {
+    "name": "Mesmerize",
+    "link": "https://music.163.com/song?id=29379951",
+    "duration": "04:22",
+    "artists": [
+      { "name": "Tobu", "link": "https://music.163.com/artist?id=964486" }
+    ],
+    "album": {
+      "name": "Mesmerize",
+      "link": "https://music.163.com/album?id=3018005"
+    }
+  },
+  {
+    "name": "SkyCity(天空之城)",
+    "link": "https://music.163.com/song?id=456658875",
+    "duration": "03:00",
+    "artists": [
+      {
+        "name": "Forwe兰斯",
+        "link": "https://music.163.com/artist?id=12079166"
+      }
+    ],
+    "album": {
+      "name": "SkyCity(天空之城)",
+      "link": "https://music.163.com/album?id=35154486"
+    }
+  },
+  {
+    "name": "I Run Away (Original Mix)",
+    "link": "https://music.163.com/song?id=431080854",
+    "duration": "04:29",
+    "artists": [
+      {
+        "name": "Moonnight",
+        "link": "https://music.163.com/artist?id=1050317"
+      },
+      {
+        "name": "MarGo Lane",
+        "link": "https://music.163.com/artist?id=12659815"
+      }
+    ],
+    "album": {
+      "name": "I Run Away",
+      "link": "https://music.163.com/album?id=34869955"
+    }
+  },
+  {
+    "name": "What Else Is There To Love",
+    "link": "https://music.163.com/song?id=1374281536",
+    "duration": "03:31",
+    "artists": [
+      { "name": "Aurosonic", "link": "https://music.163.com/artist?id=86532" },
+      { "name": "Bote", "link": "https://music.163.com/artist?id=33351875" },
+      {
+        "name": "Neev Kennedy",
+        "link": "https://music.163.com/artist?id=191532"
+      }
+    ],
+    "album": {
+      "name": "What Else Is There To Love",
+      "link": "https://music.163.com/album?id=80025677"
+    }
+  },
+  {
+    "name": "Truly Yours",
+    "link": "https://music.163.com/song?id=419646470",
+    "duration": "03:34",
+    "artists": [
+      { "name": "Fether", "link": "https://music.163.com/artist?id=12069059" }
+    ],
+    "album": {
+      "name": "Truly Yours",
+      "link": "https://music.163.com/album?id=34751292"
+    }
+  },
+  {
+    "name": "Raise the Dead",
+    "link": "https://music.163.com/song?id=411236237",
+    "duration": "04:45",
+    "artists": [
+      { "name": "RAIGN", "link": "https://music.163.com/artist?id=916093" }
+    ],
+    "album": {
+      "name": "Raise the Dead",
+      "link": "https://music.163.com/album?id=34678076"
+    }
+  },
+  {
+    "name": "Break Me Up",
+    "link": "https://music.163.com/song?id=30590268",
+    "duration": "02:58",
+    "artists": [
+      {
+        "name": "Erika Selin",
+        "link": "https://music.163.com/artist?id=444990"
+      }
+    ],
+    "album": {
+      "name": "Break Me Up",
+      "link": "https://music.163.com/album?id=3102813"
+    }
+  },
+  {
+    "name": "Angel With A Shotgun  ",
+    "link": "https://music.163.com/song?id=30051135",
+    "duration": "03:13",
+    "artists": [
+      { "name": "Nightcore", "link": "https://music.163.com/artist?id=1018108" }
+    ],
+    "album": {
+      "name": "Angel With a Shotgun - Single",
+      "link": "https://music.163.com/album?id=3090835"
+    }
+  },
+  {
+    "name": "Our Home",
+    "link": "https://music.163.com/song?id=1367920957",
+    "duration": "07:10",
+    "artists": [
+      {
+        "name": "Mark & Lukas",
+        "link": "https://music.163.com/artist?id=1104097"
+      }
+    ],
+    "album": {
+      "name": "2 Years Synth Collective",
+      "link": "https://music.163.com/album?id=79412326"
+    }
+  },
+  {
+    "name": "Violets & Roses",
+    "link": "https://music.163.com/song?id=523412387",
+    "duration": "03:14",
+    "artists": [
+      { "name": "AK", "link": "https://music.163.com/artist?id=1192509" }
+    ],
+    "album": {
+      "name": "Violets & Roses",
+      "link": "https://music.163.com/album?id=36949144"
+    }
+  },
+  {
+    "name": "Paladin",
+    "link": "https://music.163.com/song?id=32063592",
+    "duration": "04:00",
+    "artists": [
+      { "name": "EnV", "link": "https://music.163.com/artist?id=836033" }
+    ],
+    "album": {
+      "name": "Paladin",
+      "link": "https://music.163.com/album?id=3152123"
+    }
+  },
+  {
+    "name": "Linkin Park-In The End（CokeCod / 7unknown remix）",
+    "link": "https://music.163.com/song?id=1429090683",
+    "duration": "03:10",
+    "artists": [
+      { "name": "7ouTp", "link": "https://music.163.com/artist?id=34368955" },
+      { "name": "7unknown", "link": "https://music.163.com/artist?id=34375133" }
+    ],
+    "album": {
+      "name": "In The End（Remix）",
+      "link": "https://music.163.com/album?id=86316747"
+    }
+  },
+  {
+    "name": "Far Away",
+    "link": "https://music.163.com/song?id=31245739",
+    "duration": "04:07",
+    "artists": [
+      { "name": "Wisp X", "link": "https://music.163.com/artist?id=1046123" },
+      {
+        "name": "LilyCloud",
+        "link": "https://music.163.com/artist?id=13540700"
+      }
+    ],
+    "album": {
+      "name": "Far Away",
+      "link": "https://music.163.com/album?id=3111384"
+    }
+  }
+]

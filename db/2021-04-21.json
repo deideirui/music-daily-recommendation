@@ -1,0 +1,418 @@
+[
+  {
+    "name": "China-R",
+    "link": "https://music.163.com/song?id=1397324346",
+    "duration": "04:22",
+    "artists": [
+      {
+        "name": "Arealy仁辰",
+        "link": "https://music.163.com/artist?id=12537035"
+      },
+      { "name": "南有乔木", "link": "https://music.163.com/artist?id=12662666" }
+    ],
+    "album": {
+      "name": "China-R",
+      "link": "https://music.163.com/album?id=82397136"
+    }
+  },
+  {
+    "name": "琴韵-陆",
+    "link": "https://music.163.com/song?id=1345334174",
+    "duration": "03:30",
+    "artists": [
+      { "name": "OneFanki", "link": "https://music.163.com/artist?id=12172155" }
+    ],
+    "album": {
+      "name": "琴韵-陆",
+      "link": "https://music.163.com/album?id=75503132"
+    }
+  },
+  {
+    "name": "China-S",
+    "link": "https://music.163.com/song?id=1404790475",
+    "duration": "04:14",
+    "artists": [
+      {
+        "name": "The Roses",
+        "link": "https://music.163.com/artist?id=13698665"
+      }
+    ],
+    "album": {
+      "name": "China-S",
+      "link": "https://music.163.com/album?id=82887288"
+    }
+  },
+  {
+    "name": "Throwaway",
+    "link": "https://music.163.com/song?id=1373140736",
+    "duration": "03:00",
+    "artists": [
+      { "name": "SG Lewis", "link": "https://music.163.com/artist?id=1130009" },
+      { "name": "Clairo", "link": "https://music.163.com/artist?id=12191215" }
+    ],
+    "album": {
+      "name": "Dawn",
+      "link": "https://music.163.com/album?id=79915987"
+    }
+  },
+  {
+    "name": "Eyes Closed",
+    "link": "https://music.163.com/song?id=476428979",
+    "duration": "03:21",
+    "artists": [
+      { "name": "Halsey", "link": "https://music.163.com/artist?id=964321" }
+    ],
+    "album": {
+      "name": "Eyes Closed",
+      "link": "https://music.163.com/album?id=35445430"
+    }
+  },
+  {
+    "name": "あなたがここにいて抱きしめることができるなら",
+    "link": "https://music.163.com/song?id=518863323",
+    "duration": "06:08",
+    "artists": [
+      { "name": "Uru", "link": "https://music.163.com/artist?id=12062125" }
+    ],
+    "album": {
+      "name": "奇蹟",
+      "link": "https://music.163.com/album?id=36784196"
+    }
+  },
+  {
+    "name": "Cetus",
+    "link": "https://music.163.com/song?id=33887924",
+    "duration": "04:48",
+    "artists": [
+      { "name": "Lensko", "link": "https://music.163.com/artist?id=1041110" }
+    ],
+    "album": {
+      "name": "NCS: Uplifting",
+      "link": "https://music.163.com/album?id=3263842"
+    }
+  },
+  {
+    "name": "カタオモイ - (单相思)",
+    "link": "https://music.163.com/song?id=431259256",
+    "duration": "03:27",
+    "artists": [
+      { "name": "Aimer", "link": "https://music.163.com/artist?id=16152" }
+    ],
+    "album": {
+      "name": "Daydream",
+      "link": "https://music.163.com/album?id=34826361"
+    }
+  },
+  {
+    "name": "Treat You Better",
+    "link": "https://music.163.com/song?id=415904452",
+    "duration": "03:08",
+    "artists": [
+      {
+        "name": "Shawn Mendes",
+        "link": "https://music.163.com/artist?id=956238"
+      }
+    ],
+    "album": {
+      "name": "Treat You Better",
+      "link": "https://music.163.com/album?id=34726351"
+    }
+  },
+  {
+    "name": "再生 - (电影《尸人庄杀人事件》主题曲)",
+    "link": "https://music.163.com/song?id=1406598531",
+    "duration": "04:43",
+    "artists": [
+      { "name": "Perfume", "link": "https://music.163.com/artist?id=20965" }
+    ],
+    "album": {
+      "name": "再生",
+      "link": "https://music.163.com/album?id=83762608"
+    }
+  },
+  {
+    "name": "ONENESS",
+    "link": "https://music.163.com/song?id=31311708",
+    "duration": "03:54",
+    "artists": [
+      { "name": "miwa", "link": "https://music.163.com/artist?id=17120" }
+    ],
+    "album": {
+      "name": "ONENESS",
+      "link": "https://music.163.com/album?id=3117176"
+    }
+  },
+  {
+    "name": "たぶん",
+    "link": "https://music.163.com/song?id=1500152660",
+    "duration": "04:16",
+    "artists": [
+      { "name": "YOASOBI", "link": "https://music.163.com/artist?id=33927412" }
+    ],
+    "album": {
+      "name": "THE BOOK",
+      "link": "https://music.163.com/album?id=99079344"
+    }
+  },
+  {
+    "name": "Stay With Us",
+    "link": "https://music.163.com/song?id=27565433",
+    "duration": "03:58",
+    "artists": [
+      { "name": "Seoul", "link": "https://music.163.com/artist?id=511048" }
+    ],
+    "album": {
+      "name": "Stay With Us",
+      "link": "https://music.163.com/album?id=2636759"
+    }
+  },
+  {
+    "name": "Today",
+    "link": "https://music.163.com/song?id=1308623834",
+    "duration": "02:56",
+    "artists": [
+      { "name": "暴君de", "link": "https://music.163.com/artist?id=12599289" }
+    ],
+    "album": {
+      "name": "Today",
+      "link": "https://music.163.com/album?id=73166855"
+    }
+  },
+  {
+    "name": "Prover - (TV动画《Fate/Grand Order 绝对魔兽战线 巴比伦尼亚》片尾曲2:TVアニメ「Fate/Grand Order -絶対魔獣戦線バビロニア-」第2クールEDテーマ)",
+    "link": "https://music.163.com/song?id=1417453306",
+    "duration": "03:58",
+    "artists": [
+      { "name": "milet", "link": "https://music.163.com/artist?id=31464106" }
+    ],
+    "album": {
+      "name": "Prover / Tell me",
+      "link": "https://music.163.com/album?id=85060247"
+    }
+  },
+  {
+    "name": "Sense （特别篇）",
+    "link": "https://music.163.com/song?id=455127877",
+    "duration": "04:18",
+    "artists": [
+      { "name": "董子龙", "link": "https://music.163.com/artist?id=12037288" }
+    ],
+    "album": {
+      "name": "Sense （特别篇）",
+      "link": "https://music.163.com/album?id=35135970"
+    }
+  },
+  {
+    "name": "Easy",
+    "link": "https://music.163.com/song?id=1396038662",
+    "duration": "03:14",
+    "artists": [
+      {
+        "name": "Camila Cabello",
+        "link": "https://music.163.com/artist?id=12136039"
+      }
+    ],
+    "album": {
+      "name": "Easy",
+      "link": "https://music.163.com/album?id=82272695"
+    }
+  },
+  {
+    "name": "crack",
+    "link": "https://music.163.com/song?id=1384290310",
+    "duration": "04:32",
+    "artists": [
+      { "name": "鹿乃", "link": "https://music.163.com/artist?id=17014" }
+    ],
+    "album": {
+      "name": "three",
+      "link": "https://music.163.com/album?id=80954715"
+    }
+  },
+  {
+    "name": "たばこ",
+    "link": "https://music.163.com/song?id=1303296958",
+    "duration": "06:17",
+    "artists": [
+      {
+        "name": "Sawako碎花",
+        "link": "https://music.163.com/artist?id=12292130"
+      }
+    ],
+    "album": {
+      "name": "烟草",
+      "link": "https://music.163.com/album?id=72365256"
+    }
+  },
+  {
+    "name": "Lost Without You",
+    "link": "https://music.163.com/song?id=516587855",
+    "duration": "03:45",
+    "artists": [
+      {
+        "name": "Freya Ridings",
+        "link": "https://music.163.com/artist?id=12408238"
+      }
+    ],
+    "album": {
+      "name": "Lost Without You",
+      "link": "https://music.163.com/album?id=36674768"
+    }
+  },
+  {
+    "name": "Hue",
+    "link": "https://music.163.com/song?id=1355169880",
+    "duration": "04:06",
+    "artists": [
+      {
+        "name": "Dave Thomas Junior",
+        "link": "https://music.163.com/artist?id=32233"
+      }
+    ],
+    "album": {
+      "name": "Hue",
+      "link": "https://music.163.com/album?id=78245972"
+    }
+  },
+  {
+    "name": "Magical Forest",
+    "link": "https://music.163.com/song?id=33378219",
+    "duration": "05:32",
+    "artists": [
+      { "name": "Dimatis", "link": "https://music.163.com/artist?id=1087344" }
+    ],
+    "album": {
+      "name": "Magical Forest",
+      "link": "https://music.163.com/album?id=3206043"
+    }
+  },
+  {
+    "name": "ハイエナ",
+    "link": "https://music.163.com/song?id=1468721426",
+    "duration": "04:15",
+    "artists": [
+      {
+        "name": "MY FIRST STORY",
+        "link": "https://music.163.com/artist?id=20689"
+      }
+    ],
+    "album": { "name": "Ⅴ", "link": "https://music.163.com/album?id=93559023" }
+  },
+  {
+    "name": "優しい人 - (温柔的人)",
+    "link": "https://music.163.com/song?id=1466597804",
+    "duration": "03:28",
+    "artists": [
+      { "name": "米津玄師", "link": "https://music.163.com/artist?id=159300" }
+    ],
+    "album": {
+      "name": "STRAY SHEEP",
+      "link": "https://music.163.com/album?id=93162249"
+    }
+  },
+  {
+    "name": "Bloom",
+    "link": "https://music.163.com/song?id=27848769",
+    "duration": "03:29",
+    "artists": [
+      {
+        "name": "The Paper Kites",
+        "link": "https://music.163.com/artist?id=103888"
+      }
+    ],
+    "album": {
+      "name": "Woodland & Young North EP Box Set",
+      "link": "https://music.163.com/album?id=2686016"
+    }
+  },
+  {
+    "name": "まちがいさがし - (日剧《完美世界》片尾曲)",
+    "link": "https://music.163.com/song?id=1376756259",
+    "duration": "03:43",
+    "artists": [
+      { "name": "菅田将暉", "link": "https://music.163.com/artist?id=12334348" }
+    ],
+    "album": {
+      "name": "LOVE",
+      "link": "https://music.163.com/album?id=80281719"
+    }
+  },
+  {
+    "name": "Let It Be Me",
+    "link": "https://music.163.com/song?id=18449211",
+    "duration": "03:40",
+    "artists": [
+      {
+        "name": "Rosie Thomas",
+        "link": "https://music.163.com/artist?id=41926"
+      }
+    ],
+    "album": {
+      "name": "If Songs Could Be Held",
+      "link": "https://music.163.com/album?id=1690933"
+    }
+  },
+  {
+    "name": "Komorebi",
+    "link": "https://music.163.com/song?id=533888373",
+    "duration": "05:31",
+    "artists": [
+      {
+        "name": "God Is An Astronaut",
+        "link": "https://music.163.com/artist?id=93184"
+      }
+    ],
+    "album": {
+      "name": "Epitaph",
+      "link": "https://music.163.com/album?id=37421891"
+    }
+  },
+  {
+    "name": "Leave Me No Light",
+    "link": "https://music.163.com/song?id=40188862",
+    "duration": "06:59",
+    "artists": [
+      { "name": "April Rain", "link": "https://music.163.com/artist?id=572393" }
+    ],
+    "album": {
+      "name": "Leave Me No Light",
+      "link": "https://music.163.com/album?id=3439572"
+    }
+  },
+  {
+    "name": "Between Woodland",
+    "link": "https://music.163.com/song?id=17673455",
+    "duration": "03:29",
+    "artists": [
+      { "name": "Epic45", "link": "https://music.163.com/artist?id=91728" }
+    ],
+    "album": {
+      "name": "Slides",
+      "link": "https://music.163.com/album?id=1626346"
+    }
+  },
+  {
+    "name": "每当星辰变幻时",
+    "link": "https://music.163.com/song?id=1411877301",
+    "duration": "04:31",
+    "artists": [
+      { "name": "章沐", "link": "https://music.163.com/artist?id=1184041" }
+    ],
+    "album": {
+      "name": "每当星辰变幻时",
+      "link": "https://music.163.com/album?id=84341199"
+    }
+  },
+  {
+    "name": "The Nights",
+    "link": "https://music.163.com/song?id=1838446486",
+    "duration": "02:58",
+    "artists": [
+      { "name": "Avicii", "link": "https://music.163.com/artist?id=45236" }
+    ],
+    "album": {
+      "name": "Sambil WFH",
+      "link": "https://music.163.com/album?id=126192394"
+    }
+  }
+]

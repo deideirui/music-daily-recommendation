@@ -1,0 +1,443 @@
+[
+  {
+    "name": "All For You",
+    "link": "https://music.163.com/song?id=1384056976",
+    "duration": "03:27",
+    "artists": [
+      {
+        "name": "The Waked",
+        "link": "https://music.163.com/artist?id=13974125"
+      },
+      {
+        "name": "Hanna Löwenborg",
+        "link": "https://music.163.com/artist?id=34323317"
+      }
+    ],
+    "album": {
+      "name": "All For You",
+      "link": "https://music.163.com/album?id=80930389"
+    }
+  },
+  {
+    "name": "Constellation",
+    "link": "https://music.163.com/song?id=1429604070",
+    "duration": "02:52",
+    "artists": [
+      { "name": "Far Out", "link": "https://music.163.com/artist?id=824107" },
+      { "name": "Karra", "link": "https://music.163.com/artist?id=1081582" }
+    ],
+    "album": {
+      "name": "Constellation",
+      "link": "https://music.163.com/album?id=86368314"
+    }
+  },
+  {
+    "name": "Love Me Back",
+    "link": "https://music.163.com/song?id=1341512162",
+    "duration": "02:58",
+    "artists": [
+      { "name": "RITUAL", "link": "https://music.163.com/artist?id=12355563" },
+      { "name": "Tove Styrke", "link": "https://music.163.com/artist?id=83188" }
+    ],
+    "album": {
+      "name": "Love Me Back",
+      "link": "https://music.163.com/album?id=75291853"
+    }
+  },
+  {
+    "name": "Find Our Way",
+    "link": "https://music.163.com/song?id=574928903",
+    "duration": "03:26",
+    "artists": [
+      {
+        "name": "Midnight Kids",
+        "link": "https://music.163.com/artist?id=13192314"
+      },
+      { "name": "Klei", "link": "https://music.163.com/artist?id=12995337" }
+    ],
+    "album": {
+      "name": "Find Our Way",
+      "link": "https://music.163.com/album?id=39792222"
+    }
+  },
+  {
+    "name": "Loving You",
+    "link": "https://music.163.com/song?id=26387123",
+    "duration": "03:26",
+    "artists": [
+      {
+        "name": "Allexinno & Mirabela",
+        "link": "https://music.163.com/artist?id=757276"
+      }
+    ],
+    "album": {
+      "name": "Loving You",
+      "link": "https://music.163.com/album?id=2476016"
+    }
+  },
+  {
+    "name": "No One but Me",
+    "link": "https://music.163.com/song?id=543237932",
+    "duration": "02:45",
+    "artists": [
+      { "name": "WAO", "link": "https://music.163.com/artist?id=1164040" }
+    ],
+    "album": {
+      "name": "No One but Me",
+      "link": "https://music.163.com/album?id=37853026"
+    }
+  },
+  {
+    "name": "Cross the Line",
+    "link": "https://music.163.com/song?id=460112695",
+    "duration": "05:16",
+    "artists": [
+      {
+        "name": "Matt Hart",
+        "link": "https://music.163.com/artist?id=12290045"
+      },
+      {
+        "name": "Kenny Clarke",
+        "link": "https://music.163.com/artist?id=37633"
+      }
+    ],
+    "album": {
+      "name": "Cross the Line",
+      "link": "https://music.163.com/album?id=35174891"
+    }
+  },
+  {
+    "name": "A Thousand Miles",
+    "link": "https://music.163.com/song?id=421148441",
+    "duration": "03:15",
+    "artists": [
+      {
+        "name": "Julian Jordan",
+        "link": "https://music.163.com/artist?id=205395"
+      },
+      {
+        "name": "Ruby Prophet",
+        "link": "https://music.163.com/artist?id=29671507"
+      }
+    ],
+    "album": {
+      "name": "A Thousand Miles",
+      "link": "https://music.163.com/album?id=34780137"
+    }
+  },
+  {
+    "name": "Live Love Die (feat. Sirena) [Radio Edit]",
+    "link": "https://music.163.com/song?id=31719726",
+    "duration": "02:54",
+    "artists": [
+      {
+        "name": "Dimitri Vangelis & Wyman",
+        "link": "https://music.163.com/artist?id=881024"
+      },
+      { "name": "Sirena", "link": "https://music.163.com/artist?id=100904" }
+    ],
+    "album": {
+      "name": "Live Love Die (feat. Sirena)",
+      "link": "https://music.163.com/album?id=3136143"
+    }
+  },
+  {
+    "name": "Distraction (Original Mix)",
+    "link": "https://music.163.com/song?id=425684226",
+    "duration": "04:09",
+    "artists": [
+      { "name": "Joe Lyons", "link": "https://music.163.com/artist?id=498067" }
+    ],
+    "album": {
+      "name": "Distraction",
+      "link": "https://music.163.com/album?id=34816627"
+    }
+  },
+  {
+    "name": "From Here (Extended Mix)",
+    "link": "https://music.163.com/song?id=414118656",
+    "duration": "04:57",
+    "artists": [
+      { "name": "Matt Nash", "link": "https://music.163.com/artist?id=1054160" }
+    ],
+    "album": {
+      "name": "From Here",
+      "link": "https://music.163.com/album?id=34700620"
+    }
+  },
+  {
+    "name": "Alive Again",
+    "link": "https://music.163.com/song?id=33361521",
+    "duration": "03:41",
+    "artists": [
+      { "name": "3LAU", "link": "https://music.163.com/artist?id=762511" },
+      { "name": "Emma Hewitt", "link": "https://music.163.com/artist?id=56751" }
+    ],
+    "album": {
+      "name": "Alive Again",
+      "link": "https://music.163.com/album?id=3203091"
+    }
+  },
+  {
+    "name": "あの頃~ジンジンバオヂュオニー~",
+    "link": "https://music.163.com/song?id=35090707",
+    "duration": "05:46",
+    "artists": [
+      { "name": "whiteeeen", "link": "https://music.163.com/artist?id=1051003" }
+    ],
+    "album": {
+      "name": "あの頃～ジンジンバオヂュオニー～",
+      "link": "https://music.163.com/album?id=3308703"
+    }
+  },
+  {
+    "name": "Colours of Life",
+    "link": "https://music.163.com/song?id=439911367",
+    "duration": "07:38",
+    "artists": [
+      {
+        "name": "Mark & Lukas",
+        "link": "https://music.163.com/artist?id=1104097"
+      }
+    ],
+    "album": {
+      "name": "Colours of Life",
+      "link": "https://music.163.com/album?id=34975440"
+    }
+  },
+  {
+    "name": "Freeze Time (Original Mix)",
+    "link": "https://music.163.com/song?id=31421472",
+    "duration": "04:41",
+    "artists": [
+      { "name": "Manse", "link": "https://music.163.com/artist?id=855409" }
+    ],
+    "album": {
+      "name": "Freeze Time",
+      "link": "https://music.163.com/album?id=3119401"
+    }
+  },
+  {
+    "name": "イチリンソウ",
+    "link": "https://music.163.com/song?id=1359263334",
+    "duration": "03:46",
+    "artists": [
+      { "name": "山本彩", "link": "https://music.163.com/artist?id=1188103" }
+    ],
+    "album": {
+      "name": "イチリンソウ",
+      "link": "https://music.163.com/album?id=78559723"
+    }
+  },
+  {
+    "name": "アカシア - (Acacia)",
+    "link": "https://music.163.com/song?id=1480366978",
+    "duration": "04:22",
+    "artists": [
+      {
+        "name": "BUMP OF CHICKEN",
+        "link": "https://music.163.com/artist?id=18705"
+      }
+    ],
+    "album": {
+      "name": "アカシア",
+      "link": "https://music.163.com/album?id=95627046"
+    }
+  },
+  {
+    "name": "After Rain",
+    "link": "https://music.163.com/song?id=27979413",
+    "duration": "04:52",
+    "artists": [
+      { "name": "Aimer", "link": "https://music.163.com/artist?id=16152" }
+    ],
+    "album": {
+      "name": "After Dark",
+      "link": "https://music.163.com/album?id=2706118"
+    }
+  },
+  {
+    "name": "アンコール - (Encore)",
+    "link": "https://music.163.com/song?id=1500151579",
+    "duration": "04:31",
+    "artists": [
+      { "name": "YOASOBI", "link": "https://music.163.com/artist?id=33927412" }
+    ],
+    "album": {
+      "name": "THE BOOK",
+      "link": "https://music.163.com/album?id=99079344"
+    }
+  },
+  {
+    "name": "Tomorrow Is Today(Original Mix)",
+    "link": "https://music.163.com/song?id=34228628",
+    "duration": "04:13",
+    "artists": [
+      {
+        "name": "Jack Howes",
+        "link": "https://music.163.com/artist?id=1132341"
+      }
+    ],
+    "album": {
+      "name": "Tomorrow Is Today",
+      "link": "https://music.163.com/album?id=3275717"
+    }
+  },
+  {
+    "name": "Faith (Original Mix)",
+    "link": "https://music.163.com/song?id=32803103",
+    "duration": "04:43",
+    "artists": [
+      { "name": "D!avolo", "link": "https://music.163.com/artist?id=1085107" },
+      { "name": "Vhana", "link": "https://music.163.com/artist?id=1081165" },
+      {
+        "name": "Nathan Brumley",
+        "link": "https://music.163.com/artist?id=1081182"
+      }
+    ],
+    "album": {
+      "name": "Faith",
+      "link": "https://music.163.com/album?id=3171180"
+    }
+  },
+  {
+    "name": "Sunny Place (Mark & Lukas Remix)",
+    "link": "https://music.163.com/song?id=1348382404",
+    "duration": "08:49",
+    "artists": [
+      { "name": "AKI Amano", "link": "https://music.163.com/artist?id=333601" },
+      {
+        "name": "Mark & Lukas",
+        "link": "https://music.163.com/artist?id=1104097"
+      }
+    ],
+    "album": {
+      "name": "SUNNY PLACE",
+      "link": "https://music.163.com/album?id=75699386"
+    }
+  },
+  {
+    "name": "大迷惑星。",
+    "link": "https://music.163.com/song?id=1479312521",
+    "duration": "04:12",
+    "artists": [
+      { "name": "當山みれい", "link": "https://music.163.com/artist?id=954456" }
+    ],
+    "album": {
+      "name": "大迷惑星。",
+      "link": "https://music.163.com/album?id=95405962"
+    }
+  },
+  {
+    "name": "Tasukete",
+    "link": "https://music.163.com/song?id=424262363",
+    "duration": "03:05",
+    "artists": [
+      { "name": "Manu Lei", "link": "https://music.163.com/artist?id=1178041" }
+    ],
+    "album": {
+      "name": "Tasukete",
+      "link": "https://music.163.com/album?id=34808122"
+    }
+  },
+  {
+    "name": "Invincible (ThimLife Remix)",
+    "link": "https://music.163.com/song?id=32341444",
+    "duration": "05:41",
+    "artists": [
+      { "name": "Borgeous", "link": "https://music.163.com/artist?id=904048" },
+      { "name": "ThimLife", "link": "https://music.163.com/artist?id=1046016" },
+      {
+        "name": "Julia Michaels",
+        "link": "https://music.163.com/artist?id=12097049"
+      }
+    ],
+    "album": {
+      "name": "Invincible (The Remixes)",
+      "link": "https://music.163.com/album?id=3050058"
+    }
+  },
+  {
+    "name": "Monody (L3V3LS Remix)",
+    "link": "https://music.163.com/song?id=425828571",
+    "duration": "05:22",
+    "artists": [
+      { "name": "L3V3LS", "link": "https://music.163.com/artist?id=12007340" },
+      {
+        "name": "TheFatRat",
+        "link": "https://music.163.com/artist?id=1019952"
+      },
+      {
+        "name": "Laura Brehm",
+        "link": "https://music.163.com/artist?id=207693"
+      }
+    ],
+    "album": {
+      "name": "Monody (L3V3LS Remix)",
+      "link": "https://music.163.com/album?id=34817751"
+    }
+  },
+  {
+    "name": "深海少女",
+    "link": "https://music.163.com/song?id=857619",
+    "duration": "03:36",
+    "artists": [
+      { "name": "のぶなが", "link": "https://music.163.com/artist?id=191321" }
+    ],
+    "album": {
+      "name": "voices in a bottle ～海を越え届いた歌声～",
+      "link": "https://music.163.com/album?id=85498"
+    }
+  },
+  {
+    "name": "ツギハギスタッカート",
+    "link": "https://music.163.com/song?id=38689090",
+    "duration": "04:08",
+    "artists": [
+      { "name": "nameless", "link": "https://music.163.com/artist?id=1150207" }
+    ],
+    "album": { "name": "212", "link": "https://music.163.com/album?id=3426487" }
+  },
+  {
+    "name": "Best of my Love - (TV动画《宇宙战舰大和号2199》ED2)",
+    "link": "https://music.163.com/song?id=26590305",
+    "duration": "05:45",
+    "artists": [
+      { "name": "安田レイ", "link": "https://music.163.com/artist?id=787220" }
+    ],
+    "album": {
+      "name": "Best of my Love (期間限定生産盤)",
+      "link": "https://music.163.com/album?id=2529179"
+    }
+  },
+  {
+    "name": "暁の車 - (TV动画《机动战士高达SEED》插曲 )",
+    "link": "https://music.163.com/song?id=724495",
+    "duration": "05:04",
+    "artists": [
+      {
+        "name": "FictionJunction",
+        "link": "https://music.163.com/artist?id=19391"
+      }
+    ],
+    "album": {
+      "name": "暁の車",
+      "link": "https://music.163.com/album?id=70971"
+    }
+  },
+  {
+    "name": "Attention",
+    "link": "https://music.163.com/song?id=473817398",
+    "duration": "03:28",
+    "artists": [
+      {
+        "name": "Charlie Puth",
+        "link": "https://music.163.com/artist?id=90331"
+      }
+    ],
+    "album": {
+      "name": "Voicenotes",
+      "link": "https://music.163.com/album?id=38530129"
+    }
+  }
+]

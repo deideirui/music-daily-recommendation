@@ -1,0 +1,452 @@
+[
+  {
+    "name": "Escape",
+    "link": "https://music.163.com/song?id=1415736290",
+    "duration": "03:11",
+    "artists": [
+      {
+        "name": "Thomas Gold",
+        "link": "https://music.163.com/artist?id=196219"
+      },
+      { "name": "Kosling", "link": "https://music.163.com/artist?id=29289583" },
+      {
+        "name": "David Shane",
+        "link": "https://music.163.com/artist?id=29840982"
+      }
+    ],
+    "album": {
+      "name": "Escape",
+      "link": "https://music.163.com/album?id=84892859"
+    }
+  },
+  {
+    "name": "Never Gonna Let You",
+    "link": "https://music.163.com/song?id=533471294",
+    "duration": "03:17",
+    "artists": [
+      { "name": "Galavant", "link": "https://music.163.com/artist?id=858132" },
+      { "name": "Dafina", "link": "https://music.163.com/artist?id=13551498" },
+      { "name": "Max S", "link": "https://music.163.com/artist?id=13551005" }
+    ],
+    "album": {
+      "name": "Signs EP",
+      "link": "https://music.163.com/album?id=37422499"
+    }
+  },
+  {
+    "name": "Tears (feat. Veronica Bravo)",
+    "link": "https://music.163.com/song?id=1316149922",
+    "duration": "02:52",
+    "artists": [
+      {
+        "name": "MagSonics",
+        "link": "https://music.163.com/artist?id=13784662"
+      },
+      {
+        "name": "Broeging",
+        "link": "https://music.163.com/artist?id=12877012"
+      },
+      {
+        "name": "Veronica Bravo",
+        "link": "https://music.163.com/artist?id=14296763"
+      }
+    ],
+    "album": {
+      "name": "Tears (feat. Veronica Bravo)",
+      "link": "https://music.163.com/album?id=73810322"
+    }
+  },
+  {
+    "name": "Shores (feat. Moonessa)",
+    "link": "https://music.163.com/song?id=1360884080",
+    "duration": "03:32",
+    "artists": [
+      { "name": "Ash", "link": "https://music.163.com/artist?id=840746" },
+      { "name": "Moonessa", "link": "https://music.163.com/artist?id=29834706" }
+    ],
+    "album": {
+      "name": "Shores ",
+      "link": "https://music.163.com/album?id=78728056"
+    }
+  },
+  {
+    "name": "Stuck On You",
+    "link": "https://music.163.com/song?id=1430075673",
+    "duration": "03:12",
+    "artists": [
+      { "name": "RAC", "link": "https://music.163.com/artist?id=148811" },
+      { "name": "Phil Good", "link": "https://music.163.com/artist?id=757159" }
+    ],
+    "album": {
+      "name": "Stuck On You",
+      "link": "https://music.163.com/album?id=86413814"
+    }
+  },
+  {
+    "name": "Pathetic",
+    "link": "https://music.163.com/song?id=1305875823",
+    "duration": "03:42",
+    "artists": [
+      {
+        "name": "Ninajirachi",
+        "link": "https://music.163.com/artist?id=12279106"
+      },
+      { "name": "NaaH", "link": "https://music.163.com/artist?id=14468402" }
+    ],
+    "album": {
+      "name": "Pathetic",
+      "link": "https://music.163.com/album?id=72762114"
+    }
+  },
+  {
+    "name": "the other girl (with Halsey)",
+    "link": "https://music.163.com/song?id=1432287747",
+    "duration": "03:21",
+    "artists": [
+      {
+        "name": "Kelsea Ballerini",
+        "link": "https://music.163.com/artist?id=976243"
+      },
+      { "name": "Halsey", "link": "https://music.163.com/artist?id=964321" }
+    ],
+    "album": {
+      "name": "kelsea",
+      "link": "https://music.163.com/album?id=86641273"
+    }
+  },
+  {
+    "name": "Up & Down",
+    "link": "https://music.163.com/song?id=1401310250",
+    "duration": "03:12",
+    "artists": [
+      { "name": "Razko", "link": "https://music.163.com/artist?id=28018681" }
+    ],
+    "album": {
+      "name": "Up & Down",
+      "link": "https://music.163.com/album?id=83017194"
+    }
+  },
+  {
+    "name": "What U Do",
+    "link": "https://music.163.com/song?id=1456096563",
+    "duration": "02:32",
+    "artists": [
+      { "name": "Siks", "link": "https://music.163.com/artist?id=13381341" }
+    ],
+    "album": {
+      "name": "What U Do",
+      "link": "https://music.163.com/album?id=91077145"
+    }
+  },
+  {
+    "name": "Nobody Like You (RetroVision Flip)",
+    "link": "https://music.163.com/song?id=1387271644",
+    "duration": "03:25",
+    "artists": [
+      { "name": "Landis", "link": "https://music.163.com/artist?id=1064147" }
+    ],
+    "album": {
+      "name": "Nobody Like You (RetroVision Flip)",
+      "link": "https://music.163.com/album?id=81219650"
+    }
+  },
+  {
+    "name": "Get Get Down",
+    "link": "https://music.163.com/song?id=1376274192",
+    "duration": "02:29",
+    "artists": [
+      { "name": "Tom & Jame", "link": "https://music.163.com/artist?id=975137" }
+    ],
+    "album": {
+      "name": "Get Get Down",
+      "link": "https://music.163.com/album?id=80249059"
+    }
+  },
+  {
+    "name": "Believe",
+    "link": "https://music.163.com/song?id=1376184741",
+    "duration": "03:03",
+    "artists": [
+      { "name": "Matt Nash", "link": "https://music.163.com/artist?id=1054160" }
+    ],
+    "album": {
+      "name": "Believe",
+      "link": "https://music.163.com/album?id=80241099"
+    }
+  },
+  {
+    "name": "Romance",
+    "link": "https://music.163.com/song?id=1390291265",
+    "duration": "03:51",
+    "artists": [
+      { "name": "Bayza", "link": "https://music.163.com/artist?id=12691118" }
+    ],
+    "album": {
+      "name": "Genuine",
+      "link": "https://music.163.com/album?id=81567191"
+    }
+  },
+  {
+    "name": "Sky High",
+    "link": "https://music.163.com/song?id=451126088",
+    "duration": "03:56",
+    "artists": [
+      {
+        "name": "Elektronomia",
+        "link": "https://music.163.com/artist?id=1081540"
+      }
+    ],
+    "album": {
+      "name": "Sky High",
+      "link": "https://music.163.com/album?id=35104224"
+    }
+  },
+  {
+    "name": "Masked Heroes",
+    "link": "https://music.163.com/song?id=30854966",
+    "duration": "03:31",
+    "artists": [
+      { "name": "Vexento", "link": "https://music.163.com/artist?id=12037010" }
+    ],
+    "album": {
+      "name": "Masked Heroes",
+      "link": "https://music.163.com/album?id=3104829"
+    }
+  },
+  {
+    "name": "Tonight",
+    "link": "https://music.163.com/song?id=1336856743",
+    "duration": "03:34",
+    "artists": [
+      { "name": "Nurko", "link": "https://music.163.com/artist?id=11991089" },
+      { "name": "Luma", "link": "https://music.163.com/artist?id=211460" }
+    ],
+    "album": {
+      "name": "Tonight",
+      "link": "https://music.163.com/album?id=75020054"
+    }
+  },
+  {
+    "name": "Pentru Ca",
+    "link": "https://music.163.com/song?id=556030638",
+    "duration": "03:29",
+    "artists": [
+      { "name": "Inna", "link": "https://music.163.com/artist?id=60848" },
+      {
+        "name": "The Motans",
+        "link": "https://music.163.com/artist?id=12710132"
+      }
+    ],
+    "album": {
+      "name": "Pentru Ca",
+      "link": "https://music.163.com/album?id=38509256"
+    }
+  },
+  {
+    "name": "Time (Official)",
+    "link": "https://music.163.com/song?id=33035611",
+    "duration": "03:56",
+    "artists": [
+      { "name": "MKJ", "link": "https://music.163.com/artist?id=469200" }
+    ],
+    "album": {
+      "name": "Time After Time",
+      "link": "https://music.163.com/album?id=74263822"
+    }
+  },
+  {
+    "name": "Relax (Take It Easy)",
+    "link": "https://music.163.com/song?id=27965271",
+    "duration": "03:41",
+    "artists": [
+      { "name": "Mika", "link": "https://music.163.com/artist?id=38849" }
+    ],
+    "album": {
+      "name": "Songbook, Vol.1",
+      "link": "https://music.163.com/album?id=2702038"
+    }
+  },
+  {
+    "name": "Lost Control (Original Mix)",
+    "link": "https://music.163.com/song?id=417859039",
+    "duration": "04:29",
+    "artists": [
+      {
+        "name": "Tyron Hapi",
+        "link": "https://music.163.com/artist?id=1191114"
+      },
+      { "name": "Bianca", "link": "https://music.163.com/artist?id=50563" }
+    ],
+    "album": {
+      "name": "Lost Control",
+      "link": "https://music.163.com/album?id=34738443"
+    }
+  },
+  {
+    "name": "Found A Reason",
+    "link": "https://music.163.com/song?id=1444059623",
+    "duration": "02:47",
+    "artists": [
+      { "name": "SMLE", "link": "https://music.163.com/artist?id=1084201" }
+    ],
+    "album": {
+      "name": "Found A Reason",
+      "link": "https://music.163.com/album?id=88647992"
+    }
+  },
+  {
+    "name": "Can't Feel It",
+    "link": "https://music.163.com/song?id=1343799406",
+    "duration": "03:42",
+    "artists": [
+      { "name": "Chime", "link": "https://music.163.com/artist?id=417220" }
+    ],
+    "album": {
+      "name": "Can't Feel it",
+      "link": "https://music.163.com/album?id=75423674"
+    }
+  },
+  {
+    "name": "Nobody Else",
+    "link": "https://music.163.com/song?id=1461515292",
+    "duration": "03:27",
+    "artists": [
+      { "name": "NONSENS", "link": "https://music.163.com/artist?id=1190100" },
+      { "name": "Karra", "link": "https://music.163.com/artist?id=1081582" }
+    ],
+    "album": {
+      "name": "Nobody Else",
+      "link": "https://music.163.com/album?id=92171938"
+    }
+  },
+  {
+    "name": "Arcade",
+    "link": "https://music.163.com/song?id=1464636984",
+    "duration": "03:30",
+    "artists": [
+      {
+        "name": "Half an Orange",
+        "link": "https://music.163.com/artist?id=12492297"
+      },
+      { "name": "Nitro Fun", "link": "https://music.163.com/artist?id=956168" }
+    ],
+    "album": {
+      "name": "Arcade",
+      "link": "https://music.163.com/album?id=92791850"
+    }
+  },
+  {
+    "name": "Big in Japan",
+    "link": "https://music.163.com/song?id=1451428658",
+    "duration": "02:48",
+    "artists": [
+      { "name": "Triple M", "link": "https://music.163.com/artist?id=599396" },
+      { "name": "Blanee", "link": "https://music.163.com/artist?id=29740358" },
+      {
+        "name": "Stage Republic",
+        "link": "https://music.163.com/artist?id=29254093"
+      }
+    ],
+    "album": {
+      "name": "Big in Japan",
+      "link": "https://music.163.com/album?id=90053728"
+    }
+  },
+  {
+    "name": "Outside",
+    "link": "https://music.163.com/song?id=29561077",
+    "duration": "03:47",
+    "artists": [
+      {
+        "name": "Calvin Harris",
+        "link": "https://music.163.com/artist?id=29968"
+      },
+      {
+        "name": "Ellie Goulding",
+        "link": "https://music.163.com/artist?id=56598"
+      }
+    ],
+    "album": {
+      "name": "Motion",
+      "link": "https://music.163.com/album?id=3029170"
+    }
+  },
+  {
+    "name": "SOS",
+    "link": "https://music.163.com/song?id=1440298208",
+    "duration": "04:18",
+    "artists": [
+      { "name": "Stonebank", "link": "https://music.163.com/artist?id=938033" },
+      { "name": "Elizaveta", "link": "https://music.163.com/artist?id=56674" }
+    ],
+    "album": {
+      "name": "SOS",
+      "link": "https://music.163.com/album?id=87948641"
+    }
+  },
+  {
+    "name": "Gone",
+    "link": "https://music.163.com/song?id=1375635033",
+    "duration": "02:46",
+    "artists": [
+      { "name": "Lulleaux", "link": "https://music.163.com/artist?id=1115185" },
+      {
+        "name": "Sugar Jesus",
+        "link": "https://music.163.com/artist?id=484516"
+      }
+    ],
+    "album": {
+      "name": "Gone (feat. Mary Leay)",
+      "link": "https://music.163.com/album?id=80175218"
+    }
+  },
+  {
+    "name": "Higher Ground",
+    "link": "https://music.163.com/song?id=1434212712",
+    "duration": "03:25",
+    "artists": [
+      {
+        "name": "Delta Heavy",
+        "link": "https://music.163.com/artist?id=757017"
+      },
+      {
+        "name": "Cammie Robinson",
+        "link": "https://music.163.com/artist?id=13932261"
+      },
+      { "name": "Muzz", "link": "https://music.163.com/artist?id=158046" }
+    ],
+    "album": {
+      "name": "Higher Ground",
+      "link": "https://music.163.com/album?id=86859025"
+    }
+  },
+  {
+    "name": "Checklist (feat. Chromeo)",
+    "link": "https://music.163.com/song?id=1411899517",
+    "duration": "02:15",
+    "artists": [
+      { "name": "MAX", "link": "https://music.163.com/artist?id=759100" },
+      { "name": "Chromeo", "link": "https://music.163.com/artist?id=50975" }
+    ],
+    "album": {
+      "name": "Checklist (feat. Chromeo)",
+      "link": "https://music.163.com/album?id=84344729"
+    }
+  },
+  {
+    "name": "Out Of Time",
+    "link": "https://music.163.com/song?id=418603791",
+    "duration": "03:39",
+    "artists": [
+      { "name": "KVDS", "link": "https://music.163.com/artist?id=12074079" },
+      {
+        "name": "Darien Gautier",
+        "link": "https://music.163.com/artist?id=29862924"
+      }
+    ],
+    "album": {
+      "name": "Out Of Time",
+      "link": "https://music.163.com/album?id=34750259"
+    }
+  }
+]

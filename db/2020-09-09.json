@@ -1,0 +1,465 @@
+[
+  {
+    "name": "The Reason",
+    "link": "https://music.163.com/song?id=1420929627",
+    "duration": "03:00",
+    "artists": [
+      {
+        "name": "Gill Chang",
+        "link": "https://music.163.com/artist?id=13868921"
+      }
+    ],
+    "album": {
+      "name": "The Reason",
+      "link": "https://music.163.com/album?id=85470657"
+    }
+  },
+  {
+    "name": "Ambitious",
+    "link": "https://music.163.com/song?id=1398486548",
+    "duration": "03:01",
+    "artists": [
+      { "name": "Taiga", "link": "https://music.163.com/artist?id=13177969" }
+    ],
+    "album": {
+      "name": "Ambitious",
+      "link": "https://music.163.com/album?id=82624541"
+    }
+  },
+  {
+    "name": "Worth It All",
+    "link": "https://music.163.com/song?id=1426759304",
+    "duration": "03:07",
+    "artists": [
+      { "name": "Tritonal", "link": "https://music.163.com/artist?id=104133" },
+      { "name": "Man Cub", "link": "https://music.163.com/artist?id=30816484" }
+    ],
+    "album": {
+      "name": "Worth It All",
+      "link": "https://music.163.com/album?id=86083062"
+    }
+  },
+  {
+    "name": "Rasendriya",
+    "link": "https://music.163.com/song?id=1419592481",
+    "duration": "03:27",
+    "artists": [
+      {
+        "name": "THEDETSTRIKE",
+        "link": "https://music.163.com/artist?id=12628313"
+      },
+      {
+        "name": "Fakhri Violin",
+        "link": "https://music.163.com/artist?id=14254025"
+      }
+    ],
+    "album": {
+      "name": "Rasendriya",
+      "link": "https://music.163.com/album?id=85319708"
+    }
+  },
+  {
+    "name": "Chains (with RØRY)",
+    "link": "https://music.163.com/song?id=1418382211",
+    "duration": "03:44",
+    "artists": [
+      {
+        "name": "Jason Ross",
+        "link": "https://music.163.com/artist?id=906123"
+      },
+      { "name": "RØRY", "link": "https://music.163.com/artist?id=28774080" }
+    ],
+    "album": {
+      "name": "1000 Faces",
+      "link": "https://music.163.com/album?id=85158537"
+    }
+  },
+  {
+    "name": "Where I Am",
+    "link": "https://music.163.com/song?id=1404531134",
+    "duration": "03:34",
+    "artists": [
+      { "name": "4URA", "link": "https://music.163.com/artist?id=33019808" }
+    ],
+    "album": {
+      "name": "Where I Am",
+      "link": "https://music.163.com/album?id=83491140"
+    }
+  },
+  {
+    "name": "Sweet Harmony",
+    "link": "https://music.163.com/song?id=1431929319",
+    "duration": "02:40",
+    "artists": [
+      { "name": "Stadiumx", "link": "https://music.163.com/artist?id=1004052" },
+      { "name": "Lux", "link": "https://music.163.com/artist?id=65954" }
+    ],
+    "album": {
+      "name": "Sweet Harmony",
+      "link": "https://music.163.com/album?id=86609166"
+    }
+  },
+  {
+    "name": "Two Of Us",
+    "link": "https://music.163.com/song?id=1426795735",
+    "duration": "03:19",
+    "artists": [
+      { "name": "Ryos", "link": "https://music.163.com/artist?id=1053137" }
+    ],
+    "album": {
+      "name": "Two Of Us",
+      "link": "https://music.163.com/album?id=86089370"
+    }
+  },
+  {
+    "name": "You Don't Know",
+    "link": "https://music.163.com/song?id=1402204810",
+    "duration": "02:41",
+    "artists": [
+      {
+        "name": "Raven & Kreyn",
+        "link": "https://music.163.com/artist?id=12355744"
+      }
+    ],
+    "album": {
+      "name": "You Don't Know",
+      "link": "https://music.163.com/album?id=83148975"
+    }
+  },
+  {
+    "name": "Griffin",
+    "link": "https://music.163.com/song?id=1434354175",
+    "duration": "02:07",
+    "artists": [
+      { "name": "FSB", "link": "https://music.163.com/artist?id=577227" },
+      { "name": "Naems", "link": "https://music.163.com/artist?id=14280950" },
+      {
+        "name": "Revealed Recordings",
+        "link": "https://music.163.com/artist?id=28753573"
+      }
+    ],
+    "album": {
+      "name": "Griffin",
+      "link": "https://music.163.com/album?id=86873882"
+    }
+  },
+  {
+    "name": "Every Day Is A Song",
+    "link": "https://music.163.com/song?id=1426798836",
+    "duration": "03:48",
+    "artists": [
+      { "name": "BUNT.", "link": "https://music.163.com/artist?id=744145" },
+      {
+        "name": "Austin Jenckes",
+        "link": "https://music.163.com/artist?id=837232"
+      }
+    ],
+    "album": {
+      "name": "Every Day Is A Song",
+      "link": "https://music.163.com/album?id=86089512"
+    }
+  },
+  {
+    "name": "Never Give Up",
+    "link": "https://music.163.com/song?id=1415143048",
+    "duration": "03:06",
+    "artists": [
+      {
+        "name": "WildVibes",
+        "link": "https://music.163.com/artist?id=1181751"
+      },
+      {
+        "name": "Arild Aas",
+        "link": "https://music.163.com/artist?id=13436856"
+      }
+    ],
+    "album": {
+      "name": "Never Give Up",
+      "link": "https://music.163.com/album?id=84823330"
+    }
+  },
+  {
+    "name": "On My Life",
+    "link": "https://music.163.com/song?id=1442447317",
+    "duration": "02:59",
+    "artists": [
+      {
+        "name": "Cheat Codes",
+        "link": "https://music.163.com/artist?id=1078252"
+      }
+    ],
+    "album": {
+      "name": "On My Life",
+      "link": "https://music.163.com/album?id=88344514"
+    }
+  },
+  {
+    "name": "Disappear",
+    "link": "https://music.163.com/song?id=1417998239",
+    "duration": "03:29",
+    "artists": [
+      { "name": "ANG", "link": "https://music.163.com/artist?id=12121366" },
+      { "name": "Dyson", "link": "https://music.163.com/artist?id=301602" }
+    ],
+    "album": {
+      "name": "Disappear",
+      "link": "https://music.163.com/album?id=85113060"
+    }
+  },
+  {
+    "name": "Peer Pressure",
+    "link": "https://music.163.com/song?id=1364338800",
+    "duration": "02:56",
+    "artists": [
+      { "name": "James Bay", "link": "https://music.163.com/artist?id=861040" },
+      {
+        "name": "Julia Michaels",
+        "link": "https://music.163.com/artist?id=12097049"
+      }
+    ],
+    "album": {
+      "name": "Oh My Messy Mind",
+      "link": "https://music.163.com/album?id=79036828"
+    }
+  },
+  {
+    "name": "Never Fade (Radio Edit)",
+    "link": "https://music.163.com/song?id=31477997",
+    "duration": "03:04",
+    "artists": [
+      {
+        "name": "Sick Individuals",
+        "link": "https://music.163.com/artist?id=379612"
+      }
+    ],
+    "album": {
+      "name": "Never Fade",
+      "link": "https://music.163.com/album?id=3117205"
+    }
+  },
+  {
+    "name": "POEM",
+    "link": "https://music.163.com/song?id=1358276784",
+    "duration": "03:40",
+    "artists": [
+      {
+        "name": "The Motans",
+        "link": "https://music.163.com/artist?id=12710132"
+      },
+      {
+        "name": "Irina Rimes",
+        "link": "https://music.163.com/artist?id=12390115"
+      }
+    ],
+    "album": {
+      "name": "POEM",
+      "link": "https://music.163.com/album?id=78483951"
+    }
+  },
+  {
+    "name": "Never Gonna Give You Up",
+    "link": "https://music.163.com/song?id=1408650149",
+    "duration": "03:18",
+    "artists": [
+      { "name": "TripL", "link": "https://music.163.com/artist?id=11972070" }
+    ],
+    "album": {
+      "name": "Never Gonna Give You Up",
+      "link": "https://music.163.com/album?id=83992104"
+    }
+  },
+  {
+    "name": "Back 2 Me",
+    "link": "https://music.163.com/song?id=1425090995",
+    "duration": "03:06",
+    "artists": [
+      { "name": "Landis", "link": "https://music.163.com/artist?id=1064147" }
+    ],
+    "album": {
+      "name": "Back 2 Me",
+      "link": "https://music.163.com/album?id=85908928"
+    }
+  },
+  {
+    "name": "Somebody (Stadiumx Edit)",
+    "link": "https://music.163.com/song?id=1441263685",
+    "duration": "03:16",
+    "artists": [
+      { "name": "Metrush", "link": "https://music.163.com/artist?id=13225328" },
+      { "name": "GSPR", "link": "https://music.163.com/artist?id=12263887" }
+    ],
+    "album": {
+      "name": "Somebody (Stadiumx Edit)",
+      "link": "https://music.163.com/album?id=88144618"
+    }
+  },
+  {
+    "name": "Sugar (Extended Mix)",
+    "link": "https://music.163.com/song?id=403711288",
+    "duration": "04:32",
+    "artists": [
+      {
+        "name": "Wild Culture",
+        "link": "https://music.163.com/artist?id=787041"
+      },
+      { "name": "Karmin", "link": "https://music.163.com/artist?id=153001" }
+    ],
+    "album": {
+      "name": "Sugar (Extended Mix)",
+      "link": "https://music.163.com/album?id=34497082"
+    }
+  },
+  {
+    "name": "DYSYLM",
+    "link": "https://music.163.com/song?id=1449742418",
+    "duration": "02:56",
+    "artists": [
+      { "name": "Gammer", "link": "https://music.163.com/artist?id=131542" },
+      {
+        "name": "Darren Styles",
+        "link": "https://music.163.com/artist?id=31597"
+      }
+    ],
+    "album": {
+      "name": "DYSYLM",
+      "link": "https://music.163.com/album?id=89745315"
+    }
+  },
+  {
+    "name": "Something Comforting",
+    "link": "https://music.163.com/song?id=1427889071",
+    "duration": "04:41",
+    "artists": [
+      {
+        "name": "Porter Robinson",
+        "link": "https://music.163.com/artist?id=185871"
+      }
+    ],
+    "album": {
+      "name": "Something Comforting",
+      "link": "https://music.163.com/album?id=86201532"
+    }
+  },
+  {
+    "name": "This Is Who We Are",
+    "link": "https://music.163.com/song?id=32574972",
+    "duration": "03:06",
+    "artists": [
+      {
+        "name": "Dash Berlin",
+        "link": "https://music.163.com/artist?id=32124"
+      },
+      { "name": "Syzz", "link": "https://music.163.com/artist?id=961150" }
+    ],
+    "album": {
+      "name": "This Is Who We Are",
+      "link": "https://music.163.com/album?id=3161700"
+    }
+  },
+  {
+    "name": "Seven Days Walking / Day 1:Low Mist Var. 1",
+    "link": "https://music.163.com/song?id=1474043460",
+    "duration": "02:29",
+    "artists": [
+      {
+        "name": "Ludovico Einaudi",
+        "link": "https://music.163.com/artist?id=38127"
+      },
+      {
+        "name": "Federico Mecozzi",
+        "link": "https://music.163.com/artist?id=30720989"
+      },
+      {
+        "name": "Redi Hasa",
+        "link": "https://music.163.com/artist?id=13022459"
+      }
+    ],
+    "album": {
+      "name": "Calming Down",
+      "link": "https://music.163.com/album?id=94497085"
+    }
+  },
+  {
+    "name": "So Long",
+    "link": "https://music.163.com/song?id=1439803847",
+    "duration": "03:08",
+    "artists": [
+      { "name": "LinG", "link": "https://music.163.com/artist?id=30692240" }
+    ],
+    "album": {
+      "name": "So Long",
+      "link": "https://music.163.com/album?id=87893650"
+    }
+  },
+  {
+    "name": "Gamle Dager",
+    "link": "https://music.163.com/song?id=1435830084",
+    "duration": "03:05",
+    "artists": [
+      {
+        "name": "Morgan Sulele",
+        "link": "https://music.163.com/artist?id=1085061"
+      },
+      {
+        "name": "Måns Zelmerlöw",
+        "link": "https://music.163.com/artist?id=38903"
+      }
+    ],
+    "album": {
+      "name": "Gamle Dager",
+      "link": "https://music.163.com/album?id=87122921"
+    }
+  },
+  {
+    "name": "Dancing With A Stranger (Acoustic)",
+    "link": "https://music.163.com/song?id=1346053083",
+    "duration": "03:07",
+    "artists": [
+      { "name": "Sam Smith", "link": "https://music.163.com/artist?id=740216" },
+      { "name": "Normani", "link": "https://music.163.com/artist?id=12330142" }
+    ],
+    "album": {
+      "name": "Dancing With A Stranger (Acoustic)",
+      "link": "https://music.163.com/album?id=75556831"
+    }
+  },
+  {
+    "name": "In My Fantasy",
+    "link": "https://music.163.com/song?id=1437258862",
+    "duration": "02:51",
+    "artists": [
+      {
+        "name": "Lucas Estrada",
+        "link": "https://music.163.com/artist?id=12409125"
+      }
+    ],
+    "album": {
+      "name": "In My Fantasy",
+      "link": "https://music.163.com/album?id=87550666"
+    }
+  },
+  {
+    "name": "Find Somebody",
+    "link": "https://music.163.com/song?id=1396178833",
+    "duration": "02:48",
+    "artists": [
+      { "name": "Shavi", "link": "https://music.163.com/artist?id=12262422" }
+    ],
+    "album": {
+      "name": "Find Somebody",
+      "link": "https://music.163.com/album?id=82298414"
+    }
+  },
+  {
+    "name": "Legend",
+    "link": "https://music.163.com/song?id=1407546865",
+    "duration": "03:11",
+    "artists": [
+      { "name": "SSR", "link": "https://music.163.com/artist?id=32856339" }
+    ],
+    "album": {
+      "name": "Legend",
+      "link": "https://music.163.com/album?id=83844843"
+    }
+  }
+]

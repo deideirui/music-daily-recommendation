@@ -1,0 +1,446 @@
+[
+  {
+    "name": "Nothing Left",
+    "link": "https://music.163.com/song?id=407450694",
+    "duration": "03:56",
+    "artists": [
+      { "name": "Kygo", "link": "https://music.163.com/artist?id=844410" },
+      { "name": "Will Heard", "link": "https://music.163.com/artist?id=858350" }
+    ],
+    "album": {
+      "name": "Cloud Nine",
+      "link": "https://music.163.com/album?id=34569393"
+    }
+  },
+  {
+    "name": "Fading",
+    "link": "https://music.163.com/song?id=1320697603",
+    "duration": "03:27",
+    "artists": [
+      {
+        "name": "Alle Farben",
+        "link": "https://music.163.com/artist?id=206027"
+      },
+      { "name": "Ilira", "link": "https://music.163.com/artist?id=847380" }
+    ],
+    "album": {
+      "name": "Fading",
+      "link": "https://music.163.com/album?id=74107109"
+    }
+  },
+  {
+    "name": "Heartless",
+    "link": "https://music.163.com/song?id=1309715770",
+    "duration": "02:44",
+    "artists": [
+      {
+        "name": "Nick Peters",
+        "link": "https://music.163.com/artist?id=12006124"
+      },
+      {
+        "name": "Bianca & Rook",
+        "link": "https://music.163.com/artist?id=30008017"
+      }
+    ],
+    "album": {
+      "name": "Heartless",
+      "link": "https://music.163.com/album?id=73306181"
+    }
+  },
+  {
+    "name": "New Dance",
+    "link": "https://music.163.com/song?id=1323272440",
+    "duration": "02:40",
+    "artists": [
+      { "name": "MKJ", "link": "https://music.163.com/artist?id=469200" }
+    ],
+    "album": {
+      "name": "Time After Time",
+      "link": "https://music.163.com/album?id=74263822"
+    }
+  },
+  {
+    "name": "Way Down We Go (Stripped)",
+    "link": "https://music.163.com/song?id=418602464",
+    "duration": "03:28",
+    "artists": [
+      { "name": "Kaleo", "link": "https://music.163.com/artist?id=1147015" }
+    ],
+    "album": {
+      "name": "Way Down We Go (Stripped)",
+      "link": "https://music.163.com/album?id=34749142"
+    }
+  },
+  {
+    "name": "Back to the Start",
+    "link": "https://music.163.com/song?id=1337949941",
+    "duration": "03:13",
+    "artists": [
+      {
+        "name": "Michael Schulte",
+        "link": "https://music.163.com/artist?id=40222"
+      }
+    ],
+    "album": {
+      "name": "Back to the Start",
+      "link": "https://music.163.com/album?id=75071532"
+    }
+  },
+  {
+    "name": "Halcyon",
+    "link": "https://music.163.com/song?id=2319986",
+    "duration": "07:14",
+    "artists": [
+      { "name": "Chicane", "link": "https://music.163.com/artist?id=50971" }
+    ],
+    "album": {
+      "name": "The Best Of Chicane 1996 - 2009",
+      "link": "https://music.163.com/album?id=233963"
+    }
+  },
+  {
+    "name": "Strike",
+    "link": "https://music.163.com/song?id=1422474165",
+    "duration": "03:11",
+    "artists": [
+      { "name": "Far Out", "link": "https://music.163.com/artist?id=824107" }
+    ],
+    "album": {
+      "name": "Bridges in Time",
+      "link": "https://music.163.com/album?id=85632176"
+    }
+  },
+  {
+    "name": "More Than You Know",
+    "link": "https://music.163.com/song?id=498331794",
+    "duration": "03:23",
+    "artists": [
+      {
+        "name": "Axwell Λ Ingrosso",
+        "link": "https://music.163.com/artist?id=12037212"
+      }
+    ],
+    "album": {
+      "name": "More Than You Know",
+      "link": "https://music.163.com/album?id=35903502"
+    }
+  },
+  {
+    "name": "Lion",
+    "link": "https://music.163.com/song?id=28071895",
+    "duration": "06:00",
+    "artists": [
+      { "name": "HVOB", "link": "https://music.163.com/artist?id=688969" }
+    ],
+    "album": {
+      "name": "Lion",
+      "link": "https://music.163.com/album?id=2722549"
+    }
+  },
+  {
+    "name": "Burden",
+    "link": "https://music.163.com/song?id=33365241",
+    "duration": "03:45",
+    "artists": [
+      { "name": "Subtact", "link": "https://music.163.com/artist?id=1050602" },
+      {
+        "name": "Jay Rodger",
+        "link": "https://music.163.com/artist?id=29813974"
+      }
+    ],
+    "album": {
+      "name": "Burden",
+      "link": "https://music.163.com/album?id=3203221"
+    }
+  },
+  {
+    "name": "Sayonara",
+    "link": "https://music.163.com/song?id=1373142332",
+    "duration": "02:36",
+    "artists": [
+      { "name": "BEAUZ", "link": "https://music.163.com/artist?id=12131436" },
+      {
+        "name": "Maggie Szabo",
+        "link": "https://music.163.com/artist?id=12008039"
+      }
+    ],
+    "album": {
+      "name": "Sayonara",
+      "link": "https://music.163.com/album?id=79915501"
+    }
+  },
+  {
+    "name": "Forget",
+    "link": "https://music.163.com/song?id=1333384536",
+    "duration": "02:58",
+    "artists": [
+      {
+        "name": "The Tech Thieves",
+        "link": "https://music.163.com/artist?id=12080267"
+      }
+    ],
+    "album": {
+      "name": "Forget",
+      "link": "https://music.163.com/album?id=74880213"
+    }
+  },
+  {
+    "name": "Rise Up",
+    "link": "https://music.163.com/song?id=1357953225",
+    "duration": "03:08",
+    "artists": [
+      { "name": "Egzod", "link": "https://music.163.com/artist?id=11970036" },
+      {
+        "name": "Veronica Bravo",
+        "link": "https://music.163.com/artist?id=14296763"
+      },
+      { "name": "M.I.M.E", "link": "https://music.163.com/artist?id=28387300" }
+    ],
+    "album": {
+      "name": "Rise Up",
+      "link": "https://music.163.com/album?id=78435474"
+    }
+  },
+  {
+    "name": "The Climb",
+    "link": "https://music.163.com/song?id=34228369",
+    "duration": "03:17",
+    "artists": [
+      {
+        "name": "Coeur de Pirate",
+        "link": "https://music.163.com/artist?id=50899"
+      }
+    ],
+    "album": {
+      "name": "Roses (Deluxe)",
+      "link": "https://music.163.com/album?id=3275671"
+    }
+  },
+  {
+    "name": "Raise the Dead",
+    "link": "https://music.163.com/song?id=411236237",
+    "duration": "04:45",
+    "artists": [
+      { "name": "RAIGN", "link": "https://music.163.com/artist?id=916093" }
+    ],
+    "album": {
+      "name": "Raise the Dead",
+      "link": "https://music.163.com/album?id=34678076"
+    }
+  },
+  {
+    "name": "Fire In Our Hearts (Original Mix)",
+    "link": "https://music.163.com/song?id=28547233",
+    "duration": "05:37",
+    "artists": [
+      {
+        "name": "Swanky Tunes",
+        "link": "https://music.163.com/artist?id=206627"
+      },
+      {
+        "name": "C. Todd Nielsen",
+        "link": "https://music.163.com/artist?id=13334788"
+      }
+    ],
+    "album": {
+      "name": "Fire In Our Hearts",
+      "link": "https://music.163.com/album?id=2835027"
+    }
+  },
+  {
+    "name": "Pixel Empire",
+    "link": "https://music.163.com/song?id=31152271",
+    "duration": "04:04",
+    "artists": [
+      { "name": "Madeon", "link": "https://music.163.com/artist?id=40280" }
+    ],
+    "album": {
+      "name": "Adventure (Deluxe)",
+      "link": "https://music.163.com/album?id=3102713"
+    }
+  },
+  {
+    "name": "Home",
+    "link": "https://music.163.com/song?id=520209720",
+    "duration": "04:16",
+    "artists": [
+      { "name": "AK", "link": "https://music.163.com/artist?id=1192509" },
+      { "name": "Mapps", "link": "https://music.163.com/artist?id=509267" }
+    ],
+    "album": {
+      "name": "Sonder",
+      "link": "https://music.163.com/album?id=36836413"
+    }
+  },
+  {
+    "name": "Neleisk Man Užmigt",
+    "link": "https://music.163.com/song?id=1383229941",
+    "duration": "03:42",
+    "artists": [
+      { "name": "Gjan", "link": "https://music.163.com/artist?id=851014" }
+    ],
+    "album": {
+      "name": "Neleisk Man Užmigt",
+      "link": "https://music.163.com/album?id=80870024"
+    }
+  },
+  {
+    "name": "Cheap Thrills",
+    "link": "https://music.163.com/song?id=39224884",
+    "duration": "03:31",
+    "artists": [
+      { "name": "Sia", "link": "https://music.163.com/artist?id=74625" }
+    ],
+    "album": {
+      "name": "This Is Acting",
+      "link": "https://music.163.com/album?id=3394107"
+    }
+  },
+  {
+    "name": "iBelieve",
+    "link": "https://music.163.com/song?id=430208629",
+    "duration": "03:11",
+    "artists": [
+      { "name": "Bobina", "link": "https://music.163.com/artist?id=129629" },
+      { "name": "Jes", "link": "https://music.163.com/artist?id=62659" }
+    ],
+    "album": {
+      "name": "iBelieve",
+      "link": "https://music.163.com/album?id=34869663"
+    }
+  },
+  {
+    "name": "Worlds Away",
+    "link": "https://music.163.com/song?id=453185080",
+    "duration": "04:20",
+    "artists": [
+      { "name": "Vexento", "link": "https://music.163.com/artist?id=12037010" }
+    ],
+    "album": {
+      "name": "Worlds Away",
+      "link": "https://music.163.com/album?id=35124035"
+    }
+  },
+  {
+    "name": "Superhuman (Original Mix)",
+    "link": "https://music.163.com/song?id=28953262",
+    "duration": "05:20",
+    "artists": [
+      { "name": "Juventa", "link": "https://music.163.com/artist?id=805386" }
+    ],
+    "album": {
+      "name": " Superhuman ",
+      "link": "https://music.163.com/album?id=2957046"
+    }
+  },
+  {
+    "name": "You Wait for Rain",
+    "link": "https://music.163.com/song?id=2909494",
+    "duration": "03:42",
+    "artists": [
+      {
+        "name": "Kyler England",
+        "link": "https://music.163.com/artist?id=63658"
+      }
+    ],
+    "album": {
+      "name": "Simple Machine",
+      "link": "https://music.163.com/album?id=293760"
+    }
+  },
+  {
+    "name": "Welcome to Wonderland",
+    "link": "https://music.163.com/song?id=552060841",
+    "duration": "03:19",
+    "artists": [
+      {
+        "name": "Anson Seabra",
+        "link": "https://music.163.com/artist?id=14470054"
+      }
+    ],
+    "album": {
+      "name": "Welcome to Wonderland",
+      "link": "https://music.163.com/album?id=38306451"
+    }
+  },
+  {
+    "name": "IV",
+    "link": "https://music.163.com/song?id=3947469",
+    "duration": "05:59",
+    "artists": [
+      { "name": "Athletics", "link": "https://music.163.com/artist?id=88009" }
+    ],
+    "album": {
+      "name": "Who You Are Is Not Enough",
+      "link": "https://music.163.com/album?id=399323"
+    }
+  },
+  {
+    "name": "Nervous Part 2",
+    "link": "https://music.163.com/song?id=1884394",
+    "duration": "05:04",
+    "artists": [
+      {
+        "name": "Oliver Dodd",
+        "link": "https://music.163.com/artist?id=140074"
+      }
+    ],
+    "album": {
+      "name": "Sounds From Can Elles",
+      "link": "https://music.163.com/album?id=189939"
+    }
+  },
+  {
+    "name": "Moonlight",
+    "link": "https://music.163.com/song?id=437292360",
+    "duration": "04:28",
+    "artists": [
+      { "name": "Seffy", "link": "https://music.163.com/artist?id=12154042" }
+    ],
+    "album": {
+      "name": "Moonlight",
+      "link": "https://music.163.com/album?id=34943130"
+    }
+  },
+  {
+    "name": "Temple Of Dreams",
+    "link": "https://music.163.com/song?id=26196174",
+    "duration": "07:01",
+    "artists": [
+      { "name": "Mflex", "link": "https://music.163.com/artist?id=735016" }
+    ],
+    "album": {
+      "name": "Kidnap My Soul",
+      "link": "https://music.163.com/album?id=2419522"
+    }
+  },
+  {
+    "name": "#HWFG!(Official Here We Fckin Go! 2015 Anthem)",
+    "link": "https://music.163.com/song?id=33715428",
+    "duration": "04:21",
+    "artists": [
+      { "name": "Ziggy", "link": "https://music.163.com/artist?id=844708" },
+      {
+        "name": "Tune Addicts",
+        "link": "https://music.163.com/artist?id=1124349"
+      }
+    ],
+    "album": {
+      "name": "#HWFG!(Official Here We Fckin Go! 2015 Anthem)",
+      "link": "https://music.163.com/album?id=3233558"
+    }
+  },
+  {
+    "name": "10,000 Tears (feat. Ed Sheeran)",
+    "link": "https://music.163.com/song?id=1820888987",
+    "duration": "04:34",
+    "artists": [
+      { "name": "Ghetts", "link": "https://music.163.com/artist?id=34305" },
+      { "name": "Ed Sheeran", "link": "https://music.163.com/artist?id=33184" }
+    ],
+    "album": {
+      "name": "Conflict Of Interest",
+      "link": "https://music.163.com/album?id=123152336"
+    }
+  }
+]

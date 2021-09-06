@@ -1,0 +1,429 @@
+[
+  {
+    "name": "Outta Mind",
+    "link": "https://music.163.com/song?id=1321722298",
+    "duration": "03:21",
+    "artists": [
+      {
+        "name": "Angelika Vee",
+        "link": "https://music.163.com/artist?id=904230"
+      },
+      { "name": "Dave202", "link": "https://music.163.com/artist?id=131661" }
+    ],
+    "album": {
+      "name": "Ibiza After Season",
+      "link": "https://music.163.com/album?id=74176170"
+    }
+  },
+  {
+    "name": "Intervantion",
+    "link": "https://music.163.com/song?id=519909141",
+    "duration": "02:57",
+    "artists": [
+      { "name": "浅場佳苗", "link": "https://music.163.com/artist?id=12154286" }
+    ],
+    "album": {
+      "name": "C [Cosmos]",
+      "link": "https://music.163.com/album?id=36835038"
+    }
+  },
+  {
+    "name": "Don't Say (Felix Palmqvist & Severo Remix)",
+    "link": "https://music.163.com/song?id=491294233",
+    "duration": "03:21",
+    "artists": [
+      {
+        "name": "Felix Palmqvist",
+        "link": "https://music.163.com/artist?id=12263227"
+      },
+      { "name": "Severo", "link": "https://music.163.com/artist?id=1115077" },
+      {
+        "name": "The Chainsmokers",
+        "link": "https://music.163.com/artist?id=893484"
+      }
+    ],
+    "album": {
+      "name": "Don't Say (Felix Palmqvist & Severo Remix)",
+      "link": "https://music.163.com/album?id=35757387"
+    }
+  },
+  {
+    "name": "Once More",
+    "link": "https://music.163.com/song?id=1338940981",
+    "duration": "03:03",
+    "artists": [
+      { "name": "YUC'e", "link": "https://music.163.com/artist?id=12054347" }
+    ],
+    "album": {
+      "name": "S'more",
+      "link": "https://music.163.com/album?id=75134948"
+    }
+  },
+  {
+    "name": "Sunday Silence",
+    "link": "https://music.163.com/song?id=34852499",
+    "duration": "04:43",
+    "artists": [
+      { "name": "C-Show", "link": "https://music.163.com/artist?id=1182758" }
+    ],
+    "album": {
+      "name": "サビカルライク",
+      "link": "https://music.163.com/album?id=3295781"
+    }
+  },
+  {
+    "name": "Dark Side (NOTD Remix)",
+    "link": "https://music.163.com/song?id=465833702",
+    "duration": "03:24",
+    "artists": [
+      {
+        "name": "Phoebe Ryan",
+        "link": "https://music.163.com/artist?id=854363"
+      },
+      { "name": "NOTD", "link": "https://music.163.com/artist?id=12262306" }
+    ],
+    "album": {
+      "name": "Dark Side (Remixed)",
+      "link": "https://music.163.com/album?id=35274088"
+    }
+  },
+  {
+    "name": "High Without Your Love",
+    "link": "https://music.163.com/song?id=475254755",
+    "duration": "03:11",
+    "artists": [
+      { "name": "Loote", "link": "https://music.163.com/artist?id=12408152" }
+    ],
+    "album": {
+      "name": "High Without Your Love",
+      "link": "https://music.163.com/album?id=35357923"
+    }
+  },
+  {
+    "name": "Old Me",
+    "link": "https://music.163.com/song?id=1294924708",
+    "duration": "03:05",
+    "artists": [
+      {
+        "name": "Elias Abid",
+        "link": "https://music.163.com/artist?id=12996814"
+      }
+    ],
+    "album": {
+      "name": "Old Me",
+      "link": "https://music.163.com/album?id=71856044"
+    }
+  },
+  {
+    "name": "キミソラキセキ",
+    "link": "https://music.163.com/song?id=722904",
+    "duration": "05:08",
+    "artists": [
+      { "name": "EGOIST", "link": "https://music.163.com/artist?id=19353" }
+    ],
+    "album": {
+      "name": "The Everlasting Guilty Crown",
+      "link": "https://music.163.com/album?id=70822"
+    }
+  },
+  {
+    "name": "Losing Sleep",
+    "link": "https://music.163.com/song?id=27836839",
+    "duration": "04:42",
+    "artists": [
+      {
+        "name": "John Newman",
+        "link": "https://music.163.com/artist?id=195302"
+      }
+    ],
+    "album": {
+      "name": "Tribute",
+      "link": "https://music.163.com/album?id=2685108"
+    }
+  },
+  {
+    "name": "Only Us",
+    "link": "https://music.163.com/song?id=30512962",
+    "duration": "04:24",
+    "artists": [
+      { "name": "Redmoon", "link": "https://music.163.com/artist?id=475183" },
+      { "name": "Jonny Rose", "link": "https://music.163.com/artist?id=904226" }
+    ],
+    "album": {
+      "name": "Only Us",
+      "link": "https://music.163.com/album?id=3102557"
+    }
+  },
+  {
+    "name": "Something I Need",
+    "link": "https://music.163.com/song?id=26060071",
+    "duration": "04:00",
+    "artists": [
+      { "name": "OneRepublic", "link": "https://music.163.com/artist?id=98105" }
+    ],
+    "album": {
+      "name": "Native (Deluxe Version)",
+      "link": "https://music.163.com/album?id=2302008"
+    }
+  },
+  {
+    "name": "悲しみはオーロラに",
+    "link": "https://music.163.com/song?id=560144",
+    "duration": "04:24",
+    "artists": [
+      { "name": "Aimer", "link": "https://music.163.com/artist?id=16152" }
+    ],
+    "album": {
+      "name": "六等星の夜",
+      "link": "https://music.163.com/album?id=52429"
+    }
+  },
+  {
+    "name": "Seacret Cm",
+    "link": "https://music.163.com/song?id=22724027",
+    "duration": "04:05",
+    "artists": [
+      {
+        "name": "凛として時雨",
+        "link": "https://music.163.com/artist?id=160421"
+      }
+    ],
+    "album": {
+      "name": "just A moment",
+      "link": "https://music.163.com/album?id=2086034"
+    }
+  },
+  {
+    "name": "MAMAMOO-WIND FLOWER（AKEN Remix）",
+    "link": "https://music.163.com/song?id=1341601718",
+    "duration": "03:56",
+    "artists": [
+      { "name": "AKEN", "link": "https://music.163.com/artist?id=12156061" }
+    ],
+    "album": {
+      "name": "风花",
+      "link": "https://music.163.com/album?id=75297769"
+    }
+  },
+  {
+    "name": "Undercover",
+    "link": "https://music.163.com/song?id=1369828695",
+    "duration": "02:44",
+    "artists": [
+      {
+        "name": "Chester Young",
+        "link": "https://music.163.com/artist?id=13703846"
+      },
+      { "name": "Castion", "link": "https://music.163.com/artist?id=27687018" }
+    ],
+    "album": {
+      "name": "Undercover",
+      "link": "https://music.163.com/album?id=79611422"
+    }
+  },
+  {
+    "name": "Kill This Love -JP Ver.-",
+    "link": "https://music.163.com/song?id=1397226690",
+    "duration": "03:09",
+    "artists": [
+      {
+        "name": "BLACKPINK",
+        "link": "https://music.163.com/artist?id=12068017"
+      }
+    ],
+    "album": {
+      "name": "KILL THIS LOVE -JP Ver.-",
+      "link": "https://music.163.com/album?id=82451822"
+    }
+  },
+  {
+    "name": "누가 봐도 우린 (Be My Love)",
+    "link": "https://music.163.com/song?id=1378436698",
+    "duration": "03:35",
+    "artists": [
+      { "name": "EXO-CBX", "link": "https://music.163.com/artist?id=12155133" }
+    ],
+    "album": {
+      "name": "연애플레이리스트4 Part.1",
+      "link": "https://music.163.com/album?id=80435209"
+    }
+  },
+  {
+    "name": "Goodbye",
+    "link": "https://music.163.com/song?id=1372706833",
+    "duration": "01:49",
+    "artists": [
+      { "name": "KRZ", "link": "https://music.163.com/artist?id=13837138" }
+    ],
+    "album": {
+      "name": "Tell Dem",
+      "link": "https://music.163.com/album?id=79874246"
+    }
+  },
+  {
+    "name": "Rё∀˥ <C+nZk Version>",
+    "link": "https://music.163.com/song?id=498191",
+    "duration": "04:11",
+    "artists": [
+      { "name": "Cyua", "link": "https://music.163.com/artist?id=1181299" }
+    ],
+    "album": {
+      "name": "THEME SONGS COLLECTION",
+      "link": "https://music.163.com/album?id=47602"
+    }
+  },
+  {
+    "name": "Momentary",
+    "link": "https://music.163.com/song?id=416554194",
+    "duration": "01:53",
+    "artists": [
+      { "name": "小瀬村晶", "link": "https://music.163.com/artist?id=13773" }
+    ],
+    "album": {
+      "name": "MOMENTARY: Memories of the Beginning",
+      "link": "https://music.163.com/album?id=34726537"
+    }
+  },
+  {
+    "name": "Aurora (The Calm II)",
+    "link": "https://music.163.com/song?id=1993738",
+    "duration": "05:00",
+    "artists": [
+      { "name": "Soulostar", "link": "https://music.163.com/artist?id=43844" }
+    ],
+    "album": {
+      "name": "Sanctuary",
+      "link": "https://music.163.com/album?id=201016"
+    }
+  },
+  {
+    "name": "chant alone",
+    "link": "https://music.163.com/song?id=472112795",
+    "duration": "04:37",
+    "artists": [
+      { "name": "逆时针向", "link": "https://music.163.com/artist?id=12128251" }
+    ],
+    "album": {
+      "name": "chant alone",
+      "link": "https://music.163.com/album?id=35374024"
+    }
+  },
+  {
+    "name": "Velvet",
+    "link": "https://music.163.com/song?id=28361205",
+    "duration": "07:25",
+    "artists": [
+      {
+        "name": "Blood Groove & Kikis",
+        "link": "https://music.163.com/artist?id=311599"
+      }
+    ],
+    "album": {
+      "name": "Wonderland (Bonus Track Version)",
+      "link": "https://music.163.com/album?id=2779563"
+    }
+  },
+  {
+    "name": "Beautiful Girl",
+    "link": "https://music.163.com/song?id=30987373",
+    "duration": "04:00",
+    "artists": [
+      {
+        "name": "레게 강 같은 평화 (RGP)",
+        "link": "https://music.163.com/artist?id=159554"
+      },
+      { "name": "权正烈", "link": "https://music.163.com/artist?id=1053028" }
+    ],
+    "album": {
+      "name": "Beautiful Girl",
+      "link": "https://music.163.com/album?id=3109061"
+    }
+  },
+  {
+    "name": "삐삐 - (BBIBBI)",
+    "link": "https://music.163.com/song?id=1316563427",
+    "duration": "03:14",
+    "artists": [
+      { "name": "IU", "link": "https://music.163.com/artist?id=160947" }
+    ],
+    "album": {
+      "name": "삐삐",
+      "link": "https://music.163.com/album?id=73835728"
+    }
+  },
+  {
+    "name": "So Lonely (Original Mix)",
+    "link": "https://music.163.com/song?id=35845929",
+    "duration": "05:16",
+    "artists": [
+      { "name": "DJ Feel", "link": "https://music.163.com/artist?id=32008" },
+      {
+        "name": "Chris Jones",
+        "link": "https://music.163.com/artist?id=52331"
+      },
+      {
+        "name": "Vadim Spark",
+        "link": "https://music.163.com/artist?id=268682"
+      }
+    ],
+    "album": {
+      "name": "So Lonely",
+      "link": "https://music.163.com/album?id=3367413"
+    }
+  },
+  {
+    "name": "Wolke 7",
+    "link": "https://music.163.com/song?id=992593",
+    "duration": "04:19",
+    "artists": [
+      { "name": "Sine", "link": "https://music.163.com/artist?id=77565" }
+    ],
+    "album": {
+      "name": "ATB Sunset Beach DJ Session 2",
+      "link": "https://music.163.com/album?id=104034"
+    }
+  },
+  {
+    "name": "Heartbeat(Original Vocal Mix)",
+    "link": "https://music.163.com/song?id=26590303",
+    "duration": "05:55",
+    "artists": [
+      { "name": "Miguel Migs", "link": "https://music.163.com/artist?id=39039" }
+    ],
+    "album": {
+      "name": "Heartbeat",
+      "link": "https://music.163.com/album?id=2529177"
+    }
+  },
+  {
+    "name": "I Got My Eye on You (Cristian Marchi & Paolo Sandrini Perfect Mix)",
+    "link": "https://music.163.com/song?id=1215281",
+    "duration": "05:15",
+    "artists": [
+      {
+        "name": "Cristian Marchi",
+        "link": "https://music.163.com/artist?id=31178"
+      }
+    ],
+    "album": {
+      "name": "I Got My Eye On You (feat. Luciana)",
+      "link": "https://music.163.com/album?id=125820"
+    }
+  },
+  {
+    "name": "Secret Bazaar (Wavers Mashup)",
+    "link": "https://music.163.com/song?id=407679577",
+    "duration": "04:31",
+    "artists": [
+      { "name": "Wavers", "link": "https://music.163.com/artist?id=12006167" },
+      { "name": "Tiësto", "link": "https://music.163.com/artist?id=688047" },
+      { "name": "KSHMR", "link": "https://music.163.com/artist?id=896139" },
+      { "name": "Marnik", "link": "https://music.163.com/artist?id=1005048" },
+      { "name": "Vassy", "link": "https://music.163.com/artist?id=84004" }
+    ],
+    "album": {
+      "name": "Secret Bazaar (Wavers Mashup)",
+      "link": "https://music.163.com/album?id=34589181"
+    }
+  }
+]

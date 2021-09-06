@@ -1,0 +1,411 @@
+[
+  {
+    "name": "名前",
+    "link": "https://music.163.com/song?id=34014854",
+    "duration": "05:56",
+    "artists": [
+      { "name": "amazarashi", "link": "https://music.163.com/artist?id=18480" }
+    ],
+    "album": {
+      "name": "スピードと摩擦",
+      "link": "https://music.163.com/album?id=3263001"
+    }
+  },
+  {
+    "name": "Parachute",
+    "link": "https://music.163.com/song?id=22551663",
+    "duration": "03:19",
+    "artists": [
+      { "name": "Sean Lennon", "link": "https://music.163.com/artist?id=42951" }
+    ],
+    "album": {
+      "name": "Friendly Fire",
+      "link": "https://music.163.com/album?id=2064921"
+    }
+  },
+  {
+    "name": "SLUMP (Japanese version) - (TV动画《神之塔》片尾曲)",
+    "link": "https://music.163.com/song?id=1444777986",
+    "duration": "02:17",
+    "artists": [
+      {
+        "name": "Stray Kids",
+        "link": "https://music.163.com/artist?id=12647860"
+      }
+    ],
+    "album": {
+      "name": "SLUMP (Japanese version)",
+      "link": "https://music.163.com/album?id=88797520"
+    }
+  },
+  {
+    "name": "Blind to you",
+    "link": "https://music.163.com/song?id=1383736733",
+    "duration": "04:39",
+    "artists": [
+      { "name": "Aimer", "link": "https://music.163.com/artist?id=16152" }
+    ],
+    "album": {
+      "name": "Torches",
+      "link": "https://music.163.com/album?id=80794387"
+    }
+  },
+  {
+    "name": "I'm Machine",
+    "link": "https://music.163.com/song?id=500665309",
+    "duration": "04:39",
+    "artists": [
+      {
+        "name": "凛として時雨",
+        "link": "https://music.163.com/artist?id=160421"
+      }
+    ],
+    "album": {
+      "name": "Die Meets Hard",
+      "link": "https://music.163.com/album?id=35934898"
+    }
+  },
+  {
+    "name": "Dyed in the Wool",
+    "link": "https://music.163.com/song?id=529391471",
+    "duration": "03:35",
+    "artists": [
+      { "name": "Bootstraps", "link": "https://music.163.com/artist?id=89316" }
+    ],
+    "album": {
+      "name": "To Each His Own",
+      "link": "https://music.163.com/album?id=37099549"
+    }
+  },
+  {
+    "name": "Night Changes",
+    "link": "https://music.163.com/song?id=29719175",
+    "duration": "03:46",
+    "artists": [
+      {
+        "name": "One Direction",
+        "link": "https://music.163.com/artist?id=98351"
+      }
+    ],
+    "album": {
+      "name": "Four",
+      "link": "https://music.163.com/album?id=3003016"
+    }
+  },
+  {
+    "name": "an artist",
+    "link": "https://music.163.com/song?id=29017067",
+    "duration": "04:01",
+    "artists": [
+      {
+        "name": "TK from 凛として時雨",
+        "link": "https://music.163.com/artist?id=159644"
+      }
+    ],
+    "album": {
+      "name": "Fantastic Magic",
+      "link": "https://music.163.com/album?id=2979005"
+    }
+  },
+  {
+    "name": "Desiderium 207",
+    "link": "https://music.163.com/song?id=16388608",
+    "duration": "02:08",
+    "artists": [
+      {
+        "name": "Armin van Buuren",
+        "link": "https://music.163.com/artist?id=27621"
+      },
+      { "name": "Susana", "link": "https://music.163.com/artist?id=77990" }
+    ],
+    "album": {
+      "name": "Mirage",
+      "link": "https://music.163.com/album?id=1511343"
+    }
+  },
+  {
+    "name": "The Box",
+    "link": "https://music.163.com/song?id=1444323475",
+    "duration": "03:16",
+    "artists": [
+      {
+        "name": "Roddy Ricch",
+        "link": "https://music.163.com/artist?id=27695866"
+      }
+    ],
+    "album": {
+      "name": "Flossin'",
+      "link": "https://music.163.com/album?id=88700302"
+    }
+  },
+  {
+    "name": "Flamingo - (火烈鸟)",
+    "link": "https://music.163.com/song?id=1318880077",
+    "duration": "03:15",
+    "artists": [
+      { "name": "米津玄師", "link": "https://music.163.com/artist?id=159300" }
+    ],
+    "album": {
+      "name": "Flamingo / TEENAGE RIOT",
+      "link": "https://music.163.com/album?id=73985639"
+    }
+  },
+  {
+    "name": "Mr. Lonely",
+    "link": "https://music.163.com/song?id=1116237",
+    "duration": "02:41",
+    "artists": [
+      {
+        "name": "Bobby Vinton",
+        "link": "https://music.163.com/artist?id=29603"
+      }
+    ],
+    "album": {
+      "name": "Mr. Lonely",
+      "link": "https://music.163.com/album?id=115655"
+    }
+  },
+  {
+    "name": "Butter-Fly - (TV动画《数码宝贝》片头曲 / TVアニメ「デジモンアドベンチャー」OP)",
+    "link": "https://music.163.com/song?id=4940920",
+    "duration": "04:18",
+    "artists": [
+      { "name": "和田光司", "link": "https://music.163.com/artist?id=15800" }
+    ],
+    "album": {
+      "name": "DIGIMON HISTORY 1999-2006 All The Best",
+      "link": "https://music.163.com/album?id=494028"
+    }
+  },
+  {
+    "name": "Love Me Like You Do",
+    "link": "https://music.163.com/song?id=536870026",
+    "duration": "04:13",
+    "artists": [
+      {
+        "name": "Ellie Goulding",
+        "link": "https://music.163.com/artist?id=56598"
+      }
+    ],
+    "album": {
+      "name": "Fifty Shades Freed (Original Motion Picture Soundtrack)",
+      "link": "https://music.163.com/album?id=37586010"
+    }
+  },
+  {
+    "name": "Dime",
+    "link": "https://music.163.com/song?id=1446137814",
+    "duration": "02:45",
+    "artists": [
+      { "name": "SoMo", "link": "https://music.163.com/artist?id=892040" }
+    ],
+    "album": {
+      "name": "Dime",
+      "link": "https://music.163.com/album?id=89068920"
+    }
+  },
+  {
+    "name": "good days",
+    "link": "https://music.163.com/song?id=557581862",
+    "duration": "03:48",
+    "artists": [
+      { "name": "keshi", "link": "https://music.163.com/artist?id=12544511" }
+    ],
+    "album": {
+      "name": "good days",
+      "link": "https://music.163.com/album?id=71852822"
+    }
+  },
+  {
+    "name": "來日方長",
+    "link": "https://music.163.com/song?id=1380302185",
+    "duration": "03:11",
+    "artists": [
+      { "name": "张雪飞", "link": "https://music.163.com/artist?id=12138252" },
+      { "name": "Lil.Fred", "link": "https://music.163.com/artist?id=30220303" }
+    ],
+    "album": {
+      "name": "来日方長",
+      "link": "https://music.163.com/album?id=80564485"
+    }
+  },
+  {
+    "name": "쓰레기 - (垃圾)",
+    "link": "https://music.163.com/song?id=27698434",
+    "duration": "03:55",
+    "artists": [
+      { "name": "河佑镇", "link": "https://music.163.com/artist?id=123640" },
+      { "name": "淑熙", "link": "https://music.163.com/artist?id=125935" }
+    ],
+    "album": {
+      "name": "쓰레기",
+      "link": "https://music.163.com/album?id=2662050"
+    }
+  },
+  {
+    "name": "if Comethazine made lofi hip hop (Walk)",
+    "link": "https://music.163.com/song?id=1407577945",
+    "duration": "01:26",
+    "artists": [
+      { "name": "LLusion", "link": "https://music.163.com/artist?id=33619965" }
+    ],
+    "album": {
+      "name": "if Comethazine made lofi hip hop (Walk)",
+      "link": "https://music.163.com/album?id=83880577"
+    }
+  },
+  {
+    "name": "NE:ONE - (剧场版《反叛的鲁路修 III 皇道》主题曲 ； 劇場版「コードギアス 反逆のルルーシュ III 皇道」主題歌)",
+    "link": "https://music.163.com/song?id=570332133",
+    "duration": "04:14",
+    "artists": [
+      {
+        "name": "Survive Said The Prophet",
+        "link": "https://music.163.com/artist?id=159700"
+      }
+    ],
+    "album": {
+      "name": "NE:ONE / HI | LO (初回生産限定盤)",
+      "link": "https://music.163.com/album?id=39539035"
+    }
+  },
+  {
+    "name": "それでも来た道",
+    "link": "https://music.163.com/song?id=562888",
+    "duration": "05:14",
+    "artists": [
+      { "name": "柴田淳", "link": "https://music.163.com/artist?id=16215" }
+    ],
+    "album": {
+      "name": "それでも来た道",
+      "link": "https://music.163.com/album?id=52812"
+    }
+  },
+  {
+    "name": "thank u, next (MACROSS 82​-​99 REMIX)",
+    "link": "https://music.163.com/song?id=1342771313",
+    "duration": "03:21",
+    "artists": [
+      {
+        "name": "マクロスMACROSS 82-99",
+        "link": "https://music.163.com/artist?id=850045"
+      }
+    ],
+    "album": {
+      "name": "thank u, next (MACROSS 82​-​99 REMIX)",
+      "link": "https://music.163.com/album?id=75363661"
+    }
+  },
+  {
+    "name": "7150日",
+    "link": "https://music.163.com/song?id=1304922033",
+    "duration": "03:27",
+    "artists": [
+      { "name": "Sou", "link": "https://music.163.com/artist?id=1193225" }
+    ],
+    "album": {
+      "name": "7150日",
+      "link": "https://music.163.com/album?id=72384904"
+    }
+  },
+  {
+    "name": "Inferno",
+    "link": "https://music.163.com/song?id=1367333216",
+    "duration": "03:54",
+    "artists": [
+      { "name": "mpi", "link": "https://music.163.com/artist?id=12475614" },
+      { "name": "Benjamin", "link": "https://music.163.com/artist?id=133219" }
+    ],
+    "album": {
+      "name": "プロメア ORIGINAL SOUNDTRACK",
+      "link": "https://music.163.com/album?id=79369276"
+    }
+  },
+  {
+    "name": "恋愛サーキュレーション - (恋爱循环)",
+    "link": "https://music.163.com/song?id=579954",
+    "duration": "04:13",
+    "artists": [
+      { "name": "花澤香菜", "link": "https://music.163.com/artist?id=16456" }
+    ],
+    "album": {
+      "name": "恋爱サーキュレーション",
+      "link": "https://music.163.com/album?id=54680"
+    }
+  },
+  {
+    "name": "いつも何度でも - (「千と千尋の神隠し」 主題歌)",
+    "link": "https://music.163.com/song?id=584155",
+    "duration": "03:48",
+    "artists": [
+      { "name": "伊藤サチコ", "link": "https://music.163.com/artist?id=16605" }
+    ],
+    "album": {
+      "name": "ジブリを聴きながら、上を向いて歩こう",
+      "link": "https://music.163.com/album?id=55112"
+    }
+  },
+  {
+    "name": "ツギハギスタッカート",
+    "link": "https://music.163.com/song?id=38689090",
+    "duration": "04:08",
+    "artists": [
+      { "name": "nameless", "link": "https://music.163.com/artist?id=1150207" }
+    ],
+    "album": { "name": "212", "link": "https://music.163.com/album?id=3426487" }
+  },
+  {
+    "name": "Subversion",
+    "link": "https://music.163.com/song?id=1416805115",
+    "duration": "03:48",
+    "artists": [
+      { "name": "Ed Queen", "link": "https://music.163.com/artist?id=33937808" }
+    ],
+    "album": {
+      "name": "Subversion",
+      "link": "https://music.163.com/album?id=84975743"
+    }
+  },
+  {
+    "name": "Lust",
+    "link": "https://music.163.com/song?id=21965691",
+    "duration": "03:37",
+    "artists": [
+      {
+        "name": "The Raveonettes",
+        "link": "https://music.163.com/artist?id=102030"
+      }
+    ],
+    "album": {
+      "name": "Lust Lust Lust (Bonus Track Version)",
+      "link": "https://music.163.com/album?id=2017732"
+    }
+  },
+  {
+    "name": "YELLOW",
+    "link": "https://music.163.com/song?id=1356248072",
+    "duration": "02:58",
+    "artists": [
+      { "name": "神山羊", "link": "https://music.163.com/artist?id=12323265" }
+    ],
+    "album": {
+      "name": "しあわせなおとな",
+      "link": "https://music.163.com/album?id=78301494"
+    }
+  },
+  {
+    "name": "M.I.A.",
+    "link": "https://music.163.com/song?id=566442442",
+    "duration": "02:55",
+    "artists": [
+      {
+        "name": "JAKE HOPE",
+        "link": "https://music.163.com/artist?id=14713122"
+      }
+    ],
+    "album": {
+      "name": "M.I.A.",
+      "link": "https://music.163.com/album?id=39263112"
+    }
+  }
+]

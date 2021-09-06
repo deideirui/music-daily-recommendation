@@ -1,0 +1,522 @@
+[
+  {
+    "name": "Deep Blue (Nurko Remix)",
+    "link": "https://music.163.com/song?id=1420948750",
+    "duration": "03:36",
+    "artists": [
+      {
+        "name": "William Black",
+        "link": "https://music.163.com/artist?id=248957"
+      },
+      {
+        "name": "Monika Santucci",
+        "link": "https://music.163.com/artist?id=13989763"
+      },
+      { "name": "Nurko", "link": "https://music.163.com/artist?id=11991089" }
+    ],
+    "album": {
+      "name": "Pages (The Remixes)",
+      "link": "https://music.163.com/album?id=85470482"
+    }
+  },
+  {
+    "name": "Need Your Love (Nurko Remix)",
+    "link": "https://music.163.com/song?id=1444945223",
+    "duration": "04:10",
+    "artists": [
+      { "name": "Gryffin", "link": "https://music.163.com/artist?id=1181504" },
+      {
+        "name": "Seven Lions",
+        "link": "https://music.163.com/artist?id=44204"
+      },
+      {
+        "name": "Noah Kahan",
+        "link": "https://music.163.com/artist?id=12278138"
+      },
+      { "name": "Nurko", "link": "https://music.163.com/artist?id=11991089" }
+    ],
+    "album": {
+      "name": "Need Your Love (Remixes)",
+      "link": "https://music.163.com/album?id=88832542"
+    }
+  },
+  {
+    "name": "Long Run (feat. Nina Nesbitt)",
+    "link": "https://music.163.com/song?id=1461101124",
+    "duration": "02:54",
+    "artists": [
+      { "name": "Deacon", "link": "https://music.163.com/artist?id=35863215" },
+      {
+        "name": "Nina Nesbitt",
+        "link": "https://music.163.com/artist?id=70292"
+      }
+    ],
+    "album": {
+      "name": "Long Run (feat. Nina Nesbitt)",
+      "link": "https://music.163.com/album?id=92077390"
+    }
+  },
+  {
+    "name": "Crazy",
+    "link": "https://music.163.com/song?id=1340143947",
+    "duration": "03:08",
+    "artists": [
+      { "name": "BEAUZ", "link": "https://music.163.com/artist?id=12131436" },
+      { "name": "JVNA", "link": "https://music.163.com/artist?id=28692563" }
+    ],
+    "album": {
+      "name": "Crazy",
+      "link": "https://music.163.com/album?id=75206414"
+    }
+  },
+  {
+    "name": "They Told Me",
+    "link": "https://music.163.com/song?id=1331905927",
+    "duration": "03:01",
+    "artists": [
+      {
+        "name": "Palm Trees",
+        "link": "https://music.163.com/artist?id=1135109"
+      },
+      {
+        "name": "Sophia Ayana",
+        "link": "https://music.163.com/artist?id=12446102"
+      }
+    ],
+    "album": {
+      "name": "They Told Me",
+      "link": "https://music.163.com/album?id=74812473"
+    }
+  },
+  {
+    "name": "Natural",
+    "link": "https://music.163.com/song?id=1294378245",
+    "duration": "03:09",
+    "artists": [
+      {
+        "name": "Imagine Dragons",
+        "link": "https://music.163.com/artist?id=94779"
+      }
+    ],
+    "album": {
+      "name": "Origins (Deluxe)",
+      "link": "https://music.163.com/album?id=74265645"
+    }
+  },
+  {
+    "name": "Half Past You",
+    "link": "https://music.163.com/song?id=862256988",
+    "duration": "02:53",
+    "artists": [
+      { "name": "ayokay", "link": "https://music.163.com/artist?id=1116021" },
+      {
+        "name": "Future Jr.",
+        "link": "https://music.163.com/artist?id=12046719"
+      }
+    ],
+    "album": {
+      "name": "Half Past You",
+      "link": "https://music.163.com/album?id=71643636"
+    }
+  },
+  {
+    "name": "One Thousand Suns (Soundprank Vocal Mix)",
+    "link": "https://music.163.com/song?id=27932690",
+    "duration": "02:55",
+    "artists": [
+      { "name": "Chicane", "link": "https://music.163.com/artist?id=50971" },
+      {
+        "name": "Ferry Corsten",
+        "link": "https://music.163.com/artist?id=33395"
+      },
+      {
+        "name": "Christian Burns",
+        "link": "https://music.163.com/artist?id=658096"
+      }
+    ],
+    "album": {
+      "name": "Simple Modern Answers",
+      "link": "https://music.163.com/album?id=2697294"
+    }
+  },
+  {
+    "name": "Wasted (KAJ Remix)",
+    "link": "https://music.163.com/song?id=1422626002",
+    "duration": "02:54",
+    "artists": [
+      { "name": "Carda", "link": "https://music.163.com/artist?id=12095135" },
+      {
+        "name": "Emily Falvey",
+        "link": "https://music.163.com/artist?id=31678015"
+      }
+    ],
+    "album": {
+      "name": "Wasted (Remixes)",
+      "link": "https://music.163.com/album?id=85652766"
+    }
+  },
+  {
+    "name": "Hollow Life",
+    "link": "https://music.163.com/song?id=1405639135",
+    "duration": "03:59",
+    "artists": [
+      { "name": "Tritan", "link": "https://music.163.com/artist?id=12425031" },
+      { "name": "Ratfoot", "link": "https://music.163.com/artist?id=13461250" }
+    ],
+    "album": {
+      "name": "Hollow Life",
+      "link": "https://music.163.com/album?id=83635253"
+    }
+  },
+  {
+    "name": "All We Know",
+    "link": "https://music.163.com/song?id=432698441",
+    "duration": "03:14",
+    "artists": [
+      {
+        "name": "The Chainsmokers",
+        "link": "https://music.163.com/artist?id=893484"
+      },
+      {
+        "name": "Phoebe Ryan",
+        "link": "https://music.163.com/artist?id=854363"
+      }
+    ],
+    "album": {
+      "name": "All We Know",
+      "link": "https://music.163.com/album?id=34897575"
+    }
+  },
+  {
+    "name": "Heartline",
+    "link": "https://music.163.com/song?id=506094036",
+    "duration": "03:12",
+    "artists": [
+      {
+        "name": "Craig David",
+        "link": "https://music.163.com/artist?id=29959"
+      },
+      {
+        "name": "Jonas Blue",
+        "link": "https://music.163.com/artist?id=1192069"
+      }
+    ],
+    "album": {
+      "name": "Heartline",
+      "link": "https://music.163.com/album?id=36224023"
+    }
+  },
+  {
+    "name": "Deep End",
+    "link": "https://music.163.com/song?id=470573623",
+    "duration": "03:37",
+    "artists": [
+      { "name": "LU2VYK", "link": "https://music.163.com/artist?id=12356140" }
+    ],
+    "album": {
+      "name": "Deep End",
+      "link": "https://music.163.com/album?id=35346122"
+    }
+  },
+  {
+    "name": "Heavyweight",
+    "link": "https://music.163.com/song?id=31514176",
+    "duration": "03:16",
+    "artists": [
+      { "name": "Redmoon", "link": "https://music.163.com/artist?id=475183" },
+      {
+        "name": "Meron Ryan",
+        "link": "https://music.163.com/artist?id=1181020"
+      }
+    ],
+    "album": {
+      "name": "Heavyweight",
+      "link": "https://music.163.com/album?id=3121235"
+    }
+  },
+  {
+    "name": "Adrenaline (Original Mix)",
+    "link": "https://music.163.com/song?id=565106196",
+    "duration": "03:26",
+    "artists": [
+      {
+        "name": "Brooke Williams",
+        "link": "https://music.163.com/artist?id=1060216"
+      }
+    ],
+    "album": {
+      "name": "Adrenaline",
+      "link": "https://music.163.com/album?id=39159132"
+    }
+  },
+  {
+    "name": "By Your Side",
+    "link": "https://music.163.com/song?id=437909145",
+    "duration": "03:21",
+    "artists": [
+      {
+        "name": "Jonas Blue",
+        "link": "https://music.163.com/artist?id=1192069"
+      },
+      { "name": "Raye", "link": "https://music.163.com/artist?id=1077053" }
+    ],
+    "album": {
+      "name": "By Your Side",
+      "link": "https://music.163.com/album?id=34950031"
+    }
+  },
+  {
+    "name": "Shine",
+    "link": "https://music.163.com/song?id=1381708152",
+    "duration": "02:43",
+    "artists": [
+      { "name": "Manse", "link": "https://music.163.com/artist?id=855409" },
+      {
+        "name": "David Shane",
+        "link": "https://music.163.com/artist?id=29840982"
+      },
+      {
+        "name": "Greencoast",
+        "link": "https://music.163.com/artist?id=28691722"
+      }
+    ],
+    "album": {
+      "name": "Shine",
+      "link": "https://music.163.com/album?id=80751654"
+    }
+  },
+  {
+    "name": "Drink About",
+    "link": "https://music.163.com/song?id=550169452",
+    "duration": "03:02",
+    "artists": [
+      { "name": "SeeB", "link": "https://music.163.com/artist?id=1182169" },
+      {
+        "name": "Dagny Norvoll Sandvik",
+        "link": "https://music.163.com/artist?id=1156155"
+      }
+    ],
+    "album": {
+      "name": "Drink About",
+      "link": "https://music.163.com/album?id=38227072"
+    }
+  },
+  {
+    "name": "are you sure?",
+    "link": "https://music.163.com/song?id=1371712205",
+    "duration": "03:24",
+    "artists": [
+      { "name": "Loote", "link": "https://music.163.com/artist?id=12408152" }
+    ],
+    "album": {
+      "name": "lost",
+      "link": "https://music.163.com/album?id=79787129"
+    }
+  },
+  {
+    "name": "Save Me Now",
+    "link": "https://music.163.com/song?id=1413981894",
+    "duration": "03:25",
+    "artists": [
+      { "name": "J3RO", "link": "https://music.163.com/artist?id=30365180" },
+      { "name": "Notbad", "link": "https://music.163.com/artist?id=34104681" },
+      {
+        "name": "Revealed Recordings",
+        "link": "https://music.163.com/artist?id=28753573"
+      },
+      {
+        "name": "Cornelia Antonijev",
+        "link": "https://music.163.com/artist?id=30364216"
+      }
+    ],
+    "album": {
+      "name": "Save Me Now",
+      "link": "https://music.163.com/album?id=84698733"
+    }
+  },
+  {
+    "name": "Shelter",
+    "link": "https://music.163.com/song?id=425280053",
+    "duration": "03:38",
+    "artists": [
+      {
+        "name": "Porter Robinson",
+        "link": "https://music.163.com/artist?id=185871"
+      },
+      { "name": "Madeon", "link": "https://music.163.com/artist?id=40280" }
+    ],
+    "album": {
+      "name": "Shelter",
+      "link": "https://music.163.com/album?id=34818014"
+    }
+  },
+  {
+    "name": "Complicated",
+    "link": "https://music.163.com/song?id=1340346997",
+    "duration": "03:06",
+    "artists": [
+      {
+        "name": "Alexander Oscar",
+        "link": "https://music.163.com/artist?id=12312150"
+      },
+      { "name": "SVEA", "link": "https://music.163.com/artist?id=14231266" }
+    ],
+    "album": {
+      "name": "Highs & Lows",
+      "link": "https://music.163.com/album?id=75217613"
+    }
+  },
+  {
+    "name": "Bad in Common",
+    "link": "https://music.163.com/song?id=544739231",
+    "duration": "02:59",
+    "artists": [
+      {
+        "name": "SHY Martin",
+        "link": "https://music.163.com/artist?id=12354062"
+      }
+    ],
+    "album": {
+      "name": "Bad in Common",
+      "link": "https://music.163.com/album?id=37763868"
+    }
+  },
+  {
+    "name": "Goodbye",
+    "link": "https://music.163.com/song?id=1805277464",
+    "duration": "02:24",
+    "artists": [
+      { "name": "Imanbek", "link": "https://music.163.com/artist?id=33251576" },
+      { "name": "Goodboys", "link": "https://music.163.com/artist?id=31385169" }
+    ],
+    "album": {
+      "name": "Goodbye",
+      "link": "https://music.163.com/album?id=120604129"
+    }
+  },
+  {
+    "name": "Someone You Loved (Acoustic)",
+    "link": "https://music.163.com/song?id=1401424495",
+    "duration": "03:28",
+    "artists": [
+      { "name": "Cimorelli", "link": "https://music.163.com/artist?id=90268" }
+    ],
+    "album": {
+      "name": "Someone You Loved (Acoustic)",
+      "link": "https://music.163.com/album?id=83037371"
+    }
+  },
+  {
+    "name": "You're The One",
+    "link": "https://music.163.com/song?id=427542524",
+    "duration": "03:13",
+    "artists": [
+      {
+        "name": "Matthew Steeper",
+        "link": "https://music.163.com/artist?id=1094011"
+      },
+      { "name": "Vorwerk", "link": "https://music.163.com/artist?id=136899" },
+      { "name": "Mazare", "link": "https://music.163.com/artist?id=29718513" }
+    ],
+    "album": {
+      "name": "You're The One (feat. Matthew Steeper)",
+      "link": "https://music.163.com/album?id=34855228"
+    }
+  },
+  {
+    "name": "at least i look cool",
+    "link": "https://music.163.com/song?id=1378503720",
+    "duration": "02:51",
+    "artists": [
+      {
+        "name": "Sasha Sloan",
+        "link": "https://music.163.com/artist?id=12646102"
+      }
+    ],
+    "album": {
+      "name": "at least i look cool",
+      "link": "https://music.163.com/album?id=80441745"
+    }
+  },
+  {
+    "name": "All We Need (feat. Shy Girls)",
+    "link": "https://music.163.com/song?id=29115591",
+    "duration": "03:31",
+    "artists": [
+      { "name": "ODESZA", "link": "https://music.163.com/artist?id=839108" }
+    ],
+    "album": {
+      "name": "In Return",
+      "link": "https://music.163.com/album?id=2987605"
+    }
+  },
+  {
+    "name": "Bye Bye",
+    "link": "https://music.163.com/song?id=1467245638",
+    "duration": "03:34",
+    "artists": [
+      {
+        "name": "Chordashian",
+        "link": "https://music.163.com/artist?id=419861"
+      }
+    ],
+    "album": {
+      "name": "Technikart 03 - Spring Melodies",
+      "link": "https://music.163.com/album?id=93276045"
+    }
+  },
+  {
+    "name": "Like Strangers Do",
+    "link": "https://music.163.com/song?id=1397490453",
+    "duration": "02:40",
+    "artists": [
+      {
+        "name": "AJ MitChell",
+        "link": "https://music.163.com/artist?id=12914329"
+      }
+    ],
+    "album": {
+      "name": "Like Strangers Do",
+      "link": "https://music.163.com/album?id=82498708"
+    }
+  },
+  {
+    "name": "コイワズライ - (相思病)",
+    "link": "https://music.163.com/song?id=1357775528",
+    "duration": "03:52",
+    "artists": [
+      { "name": "Aimer", "link": "https://music.163.com/artist?id=16152" }
+    ],
+    "album": {
+      "name": "Sun Dance",
+      "link": "https://music.163.com/album?id=78422025"
+    }
+  },
+  {
+    "name": "Prayer X - (TV动画《战栗杀机》片尾曲)",
+    "link": "https://music.163.com/song?id=1299557936",
+    "duration": "03:17",
+    "artists": [
+      { "name": "King Gnu", "link": "https://music.163.com/artist?id=12551173" }
+    ],
+    "album": {
+      "name": "Prayer X",
+      "link": "https://music.163.com/album?id=74268935"
+    }
+  },
+  {
+    "name": "EZ4ENCE (kannatuslaulu) - (PC游戏《CS:GO》芬兰ENCE战队应援歌)",
+    "link": "https://music.163.com/song?id=1346907833",
+    "duration": "02:34",
+    "artists": [
+      {
+        "name": "The Verkkars",
+        "link": "https://music.163.com/artist?id=31523273"
+      }
+    ],
+    "album": {
+      "name": "EZ4ENCE (kannatuslaulu)",
+      "link": "https://music.163.com/album?id=75622304"
+    }
+  }
+]

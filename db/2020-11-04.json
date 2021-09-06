@@ -1,0 +1,446 @@
+[
+  {
+    "name": "Drunk On You",
+    "link": "https://music.163.com/song?id=1421439466",
+    "duration": "03:08",
+    "artists": [
+      { "name": "Oh Wonder", "link": "https://music.163.com/artist?id=1050128" }
+    ],
+    "album": {
+      "name": "No One Else Can Wear Your Crown",
+      "link": "https://music.163.com/album?id=85538401"
+    }
+  },
+  {
+    "name": "Green Sky",
+    "link": "https://music.163.com/song?id=30064291",
+    "duration": "03:48",
+    "artists": [
+      {
+        "name": "Alex Skrindo",
+        "link": "https://music.163.com/artist?id=1046359"
+      }
+    ],
+    "album": {
+      "name": "Green Sky",
+      "link": "https://music.163.com/album?id=3093056"
+    }
+  },
+  {
+    "name": "Can't Complain",
+    "link": "https://music.163.com/song?id=26492802",
+    "duration": "03:13",
+    "artists": [
+      { "name": "Relient K", "link": "https://music.163.com/artist?id=41943" }
+    ],
+    "album": {
+      "name": "Collapsible Lung",
+      "link": "https://music.163.com/album?id=2509081"
+    }
+  },
+  {
+    "name": "烟袋斜街",
+    "link": "https://music.163.com/song?id=464863017",
+    "duration": "03:33",
+    "artists": [
+      {
+        "name": "接个吻，开一枪",
+        "link": "https://music.163.com/artist?id=12085016"
+      }
+    ],
+    "album": {
+      "name": "烟袋斜街",
+      "link": "https://music.163.com/album?id=35258839"
+    }
+  },
+  {
+    "name": "周折",
+    "link": "https://music.163.com/song?id=1456170547",
+    "duration": "04:01",
+    "artists": [
+      { "name": "小眼鑫", "link": "https://music.163.com/artist?id=29581171" }
+    ],
+    "album": {
+      "name": "周折",
+      "link": "https://music.163.com/album?id=91097415"
+    }
+  },
+  {
+    "name": "当我想你的时候 (Live)",
+    "link": "https://music.163.com/song?id=25702216",
+    "duration": "03:33",
+    "artists": [
+      { "name": "陈明", "link": "https://music.163.com/artist?id=7233" }
+    ],
+    "album": {
+      "name": "我是歌手第一季 第2期",
+      "link": "https://music.163.com/album?id=2282020"
+    }
+  },
+  {
+    "name": "唤",
+    "link": "https://music.163.com/song?id=1465257863",
+    "duration": "06:11",
+    "artists": [
+      { "name": "foldin", "link": "https://music.163.com/artist?id=1158025" }
+    ],
+    "album": {
+      "name": "恢：THE LOST SIGNAL",
+      "link": "https://music.163.com/album?id=92855795"
+    }
+  },
+  {
+    "name": "October Skies",
+    "link": "https://music.163.com/song?id=22359594",
+    "duration": "04:18",
+    "artists": [
+      {
+        "name": "Waking Ashland",
+        "link": "https://music.163.com/artist?id=84075"
+      }
+    ],
+    "album": {
+      "name": "Composure",
+      "link": "https://music.163.com/album?id=2050646"
+    }
+  },
+  {
+    "name": "Give It All",
+    "link": "https://music.163.com/song?id=1312714711",
+    "duration": "03:12",
+    "artists": [
+      {
+        "name": "Emily Zeck",
+        "link": "https://music.163.com/artist?id=12356669"
+      }
+    ],
+    "album": {
+      "name": "Give It All",
+      "link": "https://music.163.com/album?id=73607758"
+    }
+  },
+  {
+    "name": "Double Down",
+    "link": "https://music.163.com/song?id=544056874",
+    "duration": "04:22",
+    "artists": [
+      {
+        "name": "Dave Thomas Junior",
+        "link": "https://music.163.com/artist?id=32233"
+      }
+    ],
+    "album": {
+      "name": "Double Down",
+      "link": "https://music.163.com/album?id=37763783"
+    }
+  },
+  {
+    "name": "First Date",
+    "link": "https://music.163.com/song?id=1422778166",
+    "duration": "02:26",
+    "artists": [
+      {
+        "name": "Adib Sin",
+        "link": "https://music.163.com/artist?id=12244027"
+      },
+      {
+        "name": "Hikaru Station",
+        "link": "https://music.163.com/artist?id=12082087"
+      }
+    ],
+    "album": {
+      "name": "First Date",
+      "link": "https://music.163.com/album?id=85664965"
+    }
+  },
+  {
+    "name": "Crushing",
+    "link": "https://music.163.com/song?id=1382830610",
+    "duration": "03:10",
+    "artists": [
+      { "name": "Trace", "link": "https://music.163.com/artist?id=80473" }
+    ],
+    "album": {
+      "name": "Crushing",
+      "link": "https://music.163.com/album?id=80833954"
+    }
+  },
+  {
+    "name": "Tie Me Down",
+    "link": "https://music.163.com/song?id=1298505546",
+    "duration": "03:38",
+    "artists": [
+      { "name": "Gryffin", "link": "https://music.163.com/artist?id=1181504" },
+      {
+        "name": "Elley Duhé",
+        "link": "https://music.163.com/artist?id=12207014"
+      }
+    ],
+    "album": {
+      "name": "Tie Me Down",
+      "link": "https://music.163.com/album?id=72042813"
+    }
+  },
+  {
+    "name": "Don't Panic",
+    "link": "https://music.163.com/song?id=862239356",
+    "duration": "03:11",
+    "artists": [
+      { "name": "XYLØ", "link": "https://music.163.com/artist?id=1050511" }
+    ],
+    "album": {
+      "name": "Don't Panic",
+      "link": "https://music.163.com/album?id=71629393"
+    }
+  },
+  {
+    "name": "While Everything Burns",
+    "link": "https://music.163.com/song?id=498286024",
+    "duration": "04:40",
+    "artists": [
+      {
+        "name": "Fabrizio Paterlini",
+        "link": "https://music.163.com/artist?id=33664"
+      }
+    ],
+    "album": {
+      "name": "Secret Book",
+      "link": "https://music.163.com/album?id=35934123"
+    }
+  },
+  {
+    "name": "Underneath",
+    "link": "https://music.163.com/song?id=1360935072",
+    "duration": "03:41",
+    "artists": [
+      {
+        "name": "Jac & Harri",
+        "link": "https://music.163.com/artist?id=12776287"
+      },
+      {
+        "name": "Nino Lucarelli",
+        "link": "https://music.163.com/artist?id=13954602"
+      }
+    ],
+    "album": {
+      "name": "Underneath",
+      "link": "https://music.163.com/album?id=78734752"
+    }
+  },
+  {
+    "name": "Thinkin 'Bout You",
+    "link": "https://music.163.com/song?id=1429827400",
+    "duration": "02:55",
+    "artists": [
+      {
+        "name": "Conor Ross",
+        "link": "https://music.163.com/artist?id=13128139"
+      }
+    ],
+    "album": {
+      "name": "Thinkin' Bout You",
+      "link": "https://music.163.com/album?id=86389327"
+    }
+  },
+  {
+    "name": "No Crime",
+    "link": "https://music.163.com/song?id=1422612356",
+    "duration": "03:20",
+    "artists": [
+      {
+        "name": "Asketa & Natan Chaim",
+        "link": "https://music.163.com/artist?id=32523005"
+      },
+      {
+        "name": "Jess Ball",
+        "link": "https://music.163.com/artist?id=33784327"
+      }
+    ],
+    "album": {
+      "name": "No Crime",
+      "link": "https://music.163.com/album?id=85650331"
+    }
+  },
+  {
+    "name": "80 Juta",
+    "link": "https://music.163.com/song?id=1341158234",
+    "duration": "05:20",
+    "artists": [
+      { "name": "Alusty", "link": "https://music.163.com/artist?id=31328150" }
+    ],
+    "album": {
+      "name": "80 Juta",
+      "link": "https://music.163.com/album?id=75270615"
+    }
+  },
+  {
+    "name": "Flowers (feat. Chandler Blasé)",
+    "link": "https://music.163.com/song?id=1386968544",
+    "duration": "03:18",
+    "artists": [
+      {
+        "name": "Dirty Palm",
+        "link": "https://music.163.com/artist?id=1155029"
+      },
+      {
+        "name": "Conor Ross",
+        "link": "https://music.163.com/artist?id=13128139"
+      }
+    ],
+    "album": {
+      "name": "Dance Top Hits of Strange Fruits",
+      "link": "https://music.163.com/album?id=81194306"
+    }
+  },
+  {
+    "name": "Chasing Parties",
+    "link": "https://music.163.com/song?id=1318089139",
+    "duration": "02:44",
+    "artists": [
+      {
+        "name": "Sasha Sloan",
+        "link": "https://music.163.com/artist?id=12646102"
+      }
+    ],
+    "album": {
+      "name": "Chasing Parties",
+      "link": "https://music.163.com/album?id=73924291"
+    }
+  },
+  {
+    "name": "有两意",
+    "link": "https://music.163.com/song?id=1372954303",
+    "duration": "04:33",
+    "artists": [
+      { "name": "妖扬", "link": "https://music.163.com/artist?id=12084589" }
+    ],
+    "album": {
+      "name": "今夕何夕",
+      "link": "https://music.163.com/album?id=94771478"
+    }
+  },
+  {
+    "name": "Know",
+    "link": "https://music.163.com/song?id=1379445278",
+    "duration": "02:54",
+    "artists": [
+      {
+        "name": "ATTIC BEATS",
+        "link": "https://music.163.com/artist?id=12007025"
+      }
+    ],
+    "album": {
+      "name": "Know",
+      "link": "https://music.163.com/album?id=80535326"
+    }
+  },
+  {
+    "name": "Take Me With You",
+    "link": "https://music.163.com/song?id=518895995",
+    "duration": "03:58",
+    "artists": [
+      { "name": "Fleurie", "link": "https://music.163.com/artist?id=860929" },
+      { "name": "Ruslan", "link": "https://music.163.com/artist?id=816254" }
+    ],
+    "album": {
+      "name": "Take Me With You",
+      "link": "https://music.163.com/album?id=36813215"
+    }
+  },
+  {
+    "name": "红色",
+    "link": "https://music.163.com/song?id=1384547520",
+    "duration": "03:22",
+    "artists": [
+      { "name": "郭子潇", "link": "https://music.163.com/artist?id=12571129" }
+    ],
+    "album": {
+      "name": "红色",
+      "link": "https://music.163.com/album?id=80955938"
+    }
+  },
+  {
+    "name": "Boombox 2012",
+    "link": "https://music.163.com/song?id=33525480",
+    "duration": "04:45",
+    "artists": [
+      { "name": "K-391", "link": "https://music.163.com/artist?id=1049937" }
+    ],
+    "album": {
+      "name": "Boombox 2012",
+      "link": "https://music.163.com/album?id=3222315"
+    }
+  },
+  {
+    "name": "Blue Dream",
+    "link": "https://music.163.com/song?id=1367709776",
+    "duration": "03:33",
+    "artists": [
+      { "name": "KWXZ", "link": "https://music.163.com/artist?id=12193637" }
+    ],
+    "album": {
+      "name": "Blue Dream",
+      "link": "https://music.163.com/album?id=79298543"
+    }
+  },
+  {
+    "name": "A Spring Without You",
+    "link": "https://music.163.com/song?id=32574583",
+    "duration": "03:19",
+    "artists": [
+      { "name": "Kozoro", "link": "https://music.163.com/artist?id=1050567" }
+    ],
+    "album": {
+      "name": "A Spring Without You",
+      "link": "https://music.163.com/album?id=3161622"
+    }
+  },
+  {
+    "name": "Deeper Waters",
+    "link": "https://music.163.com/song?id=1331086927",
+    "duration": "03:47",
+    "artists": [
+      { "name": "Galen Crew", "link": "https://music.163.com/artist?id=34435" }
+    ],
+    "album": {
+      "name": "Apologue: Volume 3",
+      "link": "https://music.163.com/album?id=74768842"
+    }
+  },
+  {
+    "name": "Katie Sky-Wa kaka ti Yo（DJMuchY remix）",
+    "link": "https://music.163.com/song?id=1473874287",
+    "duration": "04:37",
+    "artists": [
+      { "name": "DJMuchY", "link": "https://music.163.com/artist?id=13152025" }
+    ],
+    "album": {
+      "name": "Wa kaka ti Yo",
+      "link": "https://music.163.com/album?id=94348480"
+    }
+  },
+  {
+    "name": "08M31 Quantifiable Connection",
+    "link": "https://music.163.com/song?id=404783770",
+    "duration": "03:36",
+    "artists": [
+      { "name": "Hans Zimmer", "link": "https://music.163.com/artist?id=34517" }
+    ],
+    "album": {
+      "name": "Interstellar (Complete Motion Picture Score)",
+      "link": "https://music.163.com/album?id=34527220"
+    }
+  },
+  {
+    "name": "Axero-River（Keega Remix）",
+    "link": "https://music.163.com/song?id=456855165",
+    "duration": "03:36",
+    "artists": [
+      { "name": "Keega", "link": "https://music.163.com/artist?id=12276986" }
+    ],
+    "album": {
+      "name": "River (Keega Bootleg)",
+      "link": "https://music.163.com/album?id=35153754"
+    }
+  }
+]

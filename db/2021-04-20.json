@@ -1,0 +1,488 @@
+[
+  {
+    "name": "Till the end of Time",
+    "link": "https://music.163.com/song?id=1372432493",
+    "duration": "03:40",
+    "artists": [
+      {
+        "name": "夜狼Worzen",
+        "link": "https://music.163.com/artist?id=13198165"
+      },
+      { "name": "轻水", "link": "https://music.163.com/artist?id=12272740" }
+    ],
+    "album": {
+      "name": "I will wait for u",
+      "link": "https://music.163.com/album?id=79796367"
+    }
+  },
+  {
+    "name": "Exactly",
+    "link": "https://music.163.com/song?id=1436667901",
+    "duration": "04:15",
+    "artists": [
+      {
+        "name": "亚哲大大",
+        "link": "https://music.163.com/artist?id=13607735"
+      },
+      {
+        "name": "HPEIRTAZ",
+        "link": "https://music.163.com/artist?id=34490444"
+      },
+      {
+        "name": "AnderstandU",
+        "link": "https://music.163.com/artist?id=32541591"
+      }
+    ],
+    "album": {
+      "name": "Exactly",
+      "link": "https://music.163.com/album?id=87343004"
+    }
+  },
+  {
+    "name": "Light Your Dream",
+    "link": "https://music.163.com/song?id=1339735518",
+    "duration": "03:59",
+    "artists": [
+      { "name": "Mr Chip", "link": "https://music.163.com/artist?id=12563879" }
+    ],
+    "album": {
+      "name": "SoulNotes Vol.1",
+      "link": "https://music.163.com/album?id=75178863"
+    }
+  },
+  {
+    "name": "Zelda",
+    "link": "https://music.163.com/song?id=1440765397",
+    "duration": "04:13",
+    "artists": [
+      {
+        "name": "ChakYoun9",
+        "link": "https://music.163.com/artist?id=12094429"
+      }
+    ],
+    "album": {
+      "name": "Zelda",
+      "link": "https://music.163.com/album?id=87988430"
+    }
+  },
+  {
+    "name": "China-R",
+    "link": "https://music.163.com/song?id=1334528153",
+    "duration": "03:05",
+    "artists": [
+      { "name": "Aexly", "link": "https://music.163.com/artist?id=30548630" }
+    ],
+    "album": {
+      "name": "China-R",
+      "link": "https://music.163.com/album?id=74918059"
+    }
+  },
+  {
+    "name": "Everything",
+    "link": "https://music.163.com/song?id=536624047",
+    "duration": "02:53",
+    "artists": [
+      { "name": "Firebeatz", "link": "https://music.163.com/artist?id=702005" },
+      {
+        "name": "Peppermint",
+        "link": "https://music.163.com/artist?id=12885527"
+      },
+      {
+        "name": "Aidan O'Brien",
+        "link": "https://music.163.com/artist?id=13372303"
+      }
+    ],
+    "album": {
+      "name": "Everything",
+      "link": "https://music.163.com/album?id=37577027"
+    }
+  },
+  {
+    "name": "Fragments",
+    "link": "https://music.163.com/song?id=566443609",
+    "duration": "03:22",
+    "artists": [
+      { "name": "FEWZ", "link": "https://music.163.com/artist?id=12008133" }
+    ],
+    "album": {
+      "name": "Fragments",
+      "link": "https://music.163.com/album?id=39263156"
+    }
+  },
+  {
+    "name": "昏",
+    "link": "https://music.163.com/song?id=1472659407",
+    "duration": "03:30",
+    "artists": [
+      { "name": "橙汁本色", "link": "https://music.163.com/artist?id=34142917" }
+    ],
+    "album": { "name": "昏", "link": "https://music.163.com/album?id=94239804" }
+  },
+  {
+    "name": "Vibe",
+    "link": "https://music.163.com/song?id=1465784982",
+    "duration": "02:25",
+    "artists": [
+      {
+        "name": "Kirara Magic",
+        "link": "https://music.163.com/artist?id=30226109"
+      }
+    ],
+    "album": {
+      "name": "Neon Dystopia",
+      "link": "https://music.163.com/album?id=92963333"
+    }
+  },
+  {
+    "name": "Icarus",
+    "link": "https://music.163.com/song?id=34033385",
+    "duration": "02:24",
+    "artists": [
+      { "name": "CVR", "link": "https://music.163.com/artist?id=1132873" }
+    ],
+    "album": {
+      "name": "Icarus",
+      "link": "https://music.163.com/album?id=3270512"
+    }
+  },
+  {
+    "name": "Space",
+    "link": "https://music.163.com/song?id=499465427",
+    "duration": "02:48",
+    "artists": [
+      { "name": "Famba", "link": "https://music.163.com/artist?id=12121068" }
+    ],
+    "album": {
+      "name": "Space",
+      "link": "https://music.163.com/album?id=35903619"
+    }
+  },
+  {
+    "name": "Inside Out",
+    "link": "https://music.163.com/song?id=1366897971",
+    "duration": "02:56",
+    "artists": [
+      { "name": "Mokita", "link": "https://music.163.com/artist?id=12033046" }
+    ],
+    "album": {
+      "name": "Inside Out",
+      "link": "https://music.163.com/album?id=79310713"
+    }
+  },
+  {
+    "name": "Hung Up",
+    "link": "https://music.163.com/song?id=556066474",
+    "duration": "03:40",
+    "artists": [
+      { "name": "Tritonal", "link": "https://music.163.com/artist?id=104133" },
+      { "name": "Sj", "link": "https://music.163.com/artist?id=288146" },
+      {
+        "name": "Emma Gatsby",
+        "link": "https://music.163.com/artist?id=12086040"
+      }
+    ],
+    "album": {
+      "name": "Calabasas",
+      "link": "https://music.163.com/album?id=38519338"
+    }
+  },
+  {
+    "name": "Mountain",
+    "link": "https://music.163.com/song?id=458679687",
+    "duration": "04:18",
+    "artists": [
+      { "name": "Thunse", "link": "https://music.163.com/artist?id=1081769" }
+    ],
+    "album": {
+      "name": "Mountain",
+      "link": "https://music.163.com/album?id=35167692"
+    }
+  },
+  {
+    "name": "Cool Again",
+    "link": "https://music.163.com/song?id=1316769844",
+    "duration": "03:11",
+    "artists": [
+      { "name": "Shoffy", "link": "https://music.163.com/artist?id=1156094" }
+    ],
+    "album": {
+      "name": "Cool Again",
+      "link": "https://music.163.com/album?id=73846142"
+    }
+  },
+  {
+    "name": "猫 (The First Take Version)",
+    "link": "https://music.163.com/song?id=1445787052",
+    "duration": "04:33",
+    "artists": [
+      { "name": "北村匠海", "link": "https://music.163.com/artist?id=35147654" }
+    ],
+    "album": {
+      "name": "猫 (THE FIRST TAKE Version)",
+      "link": "https://music.163.com/album?id=88991282"
+    }
+  },
+  {
+    "name": "白猫海賊船",
+    "link": "https://music.163.com/song?id=1343016814",
+    "duration": "03:22",
+    "artists": [
+      { "name": "日南結里", "link": "https://music.163.com/artist?id=1045054" },
+      { "name": "Yunomi", "link": "https://music.163.com/artist?id=1025016" }
+    ],
+    "album": {
+      "name": "未来茶屋 vol.0",
+      "link": "https://music.163.com/album?id=75378630"
+    }
+  },
+  {
+    "name": "エイミー - (Amy)",
+    "link": "https://music.163.com/song?id=1387098938",
+    "duration": "03:32",
+    "artists": [
+      { "name": "ヨルシカ", "link": "https://music.163.com/artist?id=12390232" }
+    ],
+    "album": {
+      "name": "エルマ",
+      "link": "https://music.163.com/album?id=81207880"
+    }
+  },
+  {
+    "name": "Silent Night",
+    "link": "https://music.163.com/song?id=431610395",
+    "duration": "04:37",
+    "artists": [
+      {
+        "name": "SINGERS GUILD",
+        "link": "https://music.163.com/artist?id=1171075"
+      },
+      { "name": "SHIROSE", "link": "https://music.163.com/artist?id=12335420" }
+    ],
+    "album": {
+      "name": "Silent Night",
+      "link": "https://music.163.com/album?id=34881557"
+    }
+  },
+  {
+    "name": "Strike a Match",
+    "link": "https://music.163.com/song?id=422132115",
+    "duration": "03:00",
+    "artists": [
+      {
+        "name": "Zayde Wølf",
+        "link": "https://music.163.com/artist?id=12073833"
+      }
+    ],
+    "album": {
+      "name": "Rare Breed",
+      "link": "https://music.163.com/album?id=34751916"
+    }
+  },
+  {
+    "name": "Distance -voice & piano-",
+    "link": "https://music.163.com/song?id=600799",
+    "duration": "05:32",
+    "artists": [
+      { "name": "和紗", "link": "https://music.163.com/artist?id=159594" }
+    ],
+    "album": {
+      "name": "Stand Up For Love",
+      "link": "https://music.163.com/album?id=56927"
+    }
+  },
+  {
+    "name": "I Go To Sleep",
+    "link": "https://music.163.com/song?id=27043570",
+    "duration": "03:45",
+    "artists": [
+      { "name": "Sia", "link": "https://music.163.com/artist?id=74625" }
+    ],
+    "album": {
+      "name": "Fierce Angel Presents Angels Fall 2",
+      "link": "https://music.163.com/album?id=2580746"
+    }
+  },
+  {
+    "name": "Inferno",
+    "link": "https://music.163.com/song?id=1367333216",
+    "duration": "03:54",
+    "artists": [
+      { "name": "mpi", "link": "https://music.163.com/artist?id=12475614" },
+      {
+        "name": "Benjamin Anderson",
+        "link": "https://music.163.com/artist?id=28373729"
+      }
+    ],
+    "album": {
+      "name": "「プロメア」オリジナルサウンドトラック",
+      "link": "https://music.163.com/album?id=79369276"
+    }
+  },
+  {
+    "name": "宝物になった日 - (TV动画《成神之日》插曲)",
+    "link": "https://music.163.com/song?id=1806095503",
+    "duration": "03:30",
+    "artists": [
+      { "name": "麻枝准", "link": "https://music.163.com/artist?id=14782" },
+      { "name": "やなぎなぎ", "link": "https://music.163.com/artist?id=18303" }
+    ],
+    "album": {
+      "name": "夏凪ぎ／宝物になった日",
+      "link": "https://music.163.com/album?id=120721350"
+    }
+  },
+  {
+    "name": "Always You",
+    "link": "https://music.163.com/song?id=3405119",
+    "duration": "02:52",
+    "artists": [
+      {
+        "name": "Sophie Zelmani",
+        "link": "https://music.163.com/artist?id=74613"
+      }
+    ],
+    "album": {
+      "name": "Sophie Zelmani",
+      "link": "https://music.163.com/album?id=345174"
+    }
+  },
+  {
+    "name": "Love Me Like You Do (Cyan Lpegd Remix)",
+    "link": "https://music.163.com/song?id=427015432",
+    "duration": "05:08",
+    "artists": [
+      {
+        "name": "Cyan Lpegd",
+        "link": "https://music.163.com/artist?id=12052050"
+      },
+      {
+        "name": "Ellie Goulding",
+        "link": "https://music.163.com/artist?id=56598"
+      }
+    ],
+    "album": {
+      "name": "Love Me Like You Do (Cyan Lpegd Remix)",
+      "link": "https://music.163.com/album?id=34846218"
+    }
+  },
+  {
+    "name": "the way that you see me",
+    "link": "https://music.163.com/song?id=1820070746",
+    "duration": "03:02",
+    "artists": [
+      { "name": "Powfu", "link": "https://music.163.com/artist?id=28900371" },
+      { "name": "Rxseboy", "link": "https://music.163.com/artist?id=31873694" },
+      {
+        "name": "Sarcastic Sounds",
+        "link": "https://music.163.com/artist?id=12928025"
+      },
+      {
+        "name": "ayleen valentine",
+        "link": "https://music.163.com/artist?id=34627876"
+      }
+    ],
+    "album": {
+      "name": "the way that you see me",
+      "link": "https://music.163.com/album?id=123024326"
+    }
+  },
+  {
+    "name": "Latest News",
+    "link": "https://music.163.com/song?id=532604094",
+    "duration": "03:21",
+    "artists": [
+      { "name": "Envotion", "link": "https://music.163.com/artist?id=824191" }
+    ],
+    "album": {
+      "name": "We Are",
+      "link": "https://music.163.com/album?id=37385036"
+    }
+  },
+  {
+    "name": "神乐府",
+    "link": "https://music.163.com/song?id=1836669426",
+    "duration": "01:56",
+    "artists": [
+      { "name": "小vie", "link": "https://music.163.com/artist?id=1039518" }
+    ],
+    "album": {
+      "name": "神乐府",
+      "link": "https://music.163.com/album?id=125888631"
+    }
+  },
+  {
+    "name": "Addiction（暗杀星 remix）",
+    "link": "https://music.163.com/song?id=457269365",
+    "duration": "05:00",
+    "artists": [
+      {
+        "name": "热心网友",
+        "link": "https://music.163.com/artist?id=12079204"
+      },
+      { "name": "Addice", "link": "https://music.163.com/artist?id=1203021" }
+    ],
+    "album": {
+      "name": "Addiction",
+      "link": "https://music.163.com/album?id=34846030"
+    }
+  },
+  {
+    "name": "rambling pleat",
+    "link": "https://music.163.com/song?id=1499313749",
+    "duration": "02:18",
+    "artists": [
+      {
+        "name": "アリスソフト",
+        "link": "https://music.163.com/artist?id=12274273"
+      }
+    ],
+    "album": {
+      "name": "アリスサウンドアルバムVol.33 ドーナドーナ いっしょにわるいことをしよう",
+      "link": "https://music.163.com/album?id=98917530"
+    }
+  },
+  {
+    "name": "Sunrise (Original Mix)",
+    "link": "https://music.163.com/song?id=26271255",
+    "duration": "07:14",
+    "artists": [
+      {
+        "name": "Denis Kenzo",
+        "link": "https://music.163.com/artist?id=263670"
+      }
+    ],
+    "album": {
+      "name": "Sunrise",
+      "link": "https://music.163.com/album?id=2438546"
+    }
+  },
+  {
+    "name": "还是会想你",
+    "link": "https://music.163.com/song?id=1827600686",
+    "duration": "03:10",
+    "artists": [
+      { "name": "林达浪", "link": "https://music.163.com/artist?id=15199791" },
+      { "name": "h3R3", "link": "https://music.163.com/artist?id=12631485" }
+    ],
+    "album": {
+      "name": "还是会想你",
+      "link": "https://music.163.com/album?id=124309279"
+    }
+  },
+  {
+    "name": "Intentions",
+    "link": "https://music.163.com/song?id=1838448668",
+    "duration": "03:32",
+    "artists": [
+      {
+        "name": "Justin Bieber",
+        "link": "https://music.163.com/artist?id=35531"
+      },
+      { "name": "Quavo", "link": "https://music.163.com/artist?id=12086073" }
+    ],
+    "album": {
+      "name": "Pop Santai",
+      "link": "https://music.163.com/album?id=126192461"
+    }
+  }
+]

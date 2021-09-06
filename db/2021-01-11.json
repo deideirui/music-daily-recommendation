@@ -1,0 +1,435 @@
+[
+  {
+    "name": "Adagio for Summer Wind",
+    "link": "https://music.163.com/song?id=760037",
+    "duration": "02:21",
+    "artists": [
+      { "name": "清水淳一", "link": "https://music.163.com/artist?id=12523046" }
+    ],
+    "album": {
+      "name": "クドわふたー オリジナル サウンドトラック",
+      "link": "https://music.163.com/album?id=74699"
+    }
+  },
+  {
+    "name": "Work It Out",
+    "link": "https://music.163.com/song?id=519935364",
+    "duration": "03:11",
+    "artists": [
+      { "name": "RYD", "link": "https://music.163.com/artist?id=12250118" }
+    ],
+    "album": {
+      "name": "Now There's Nowhere",
+      "link": "https://music.163.com/album?id=36813328"
+    }
+  },
+  {
+    "name": "Cumulus",
+    "link": "https://music.163.com/song?id=1314223132",
+    "duration": "03:08",
+    "artists": [
+      { "name": "K kure", "link": "https://music.163.com/artist?id=12256202" }
+    ],
+    "album": {
+      "name": "Cumulus",
+      "link": "https://music.163.com/album?id=73695816"
+    }
+  },
+  {
+    "name": "Somewhere",
+    "link": "https://music.163.com/song?id=5307932",
+    "duration": "03:49",
+    "artists": [
+      { "name": "July", "link": "https://music.163.com/artist?id=123825" }
+    ],
+    "album": {
+      "name": "Somewhere",
+      "link": "https://music.163.com/album?id=517117"
+    }
+  },
+  {
+    "name": "Rose Petals",
+    "link": "https://music.163.com/song?id=1393394355",
+    "duration": "06:58",
+    "artists": [
+      {
+        "name": "Peder B. Helland",
+        "link": "https://music.163.com/artist?id=33330419"
+      }
+    ],
+    "album": {
+      "name": "Bright Future",
+      "link": "https://music.163.com/album?id=81949095"
+    }
+  },
+  {
+    "name": "Double Down",
+    "link": "https://music.163.com/song?id=544056874",
+    "duration": "04:22",
+    "artists": [
+      {
+        "name": "Dave Thomas Junior",
+        "link": "https://music.163.com/artist?id=32233"
+      }
+    ],
+    "album": {
+      "name": "Double Down",
+      "link": "https://music.163.com/album?id=37763783"
+    }
+  },
+  {
+    "name": "Honor (Original Mix)",
+    "link": "https://music.163.com/song?id=32450204",
+    "duration": "09:11",
+    "artists": [
+      { "name": "SoundLift", "link": "https://music.163.com/artist?id=44015" }
+    ],
+    "album": {
+      "name": "Plenitude",
+      "link": "https://music.163.com/album?id=3161189"
+    }
+  },
+  {
+    "name": "Blood Machines Theme",
+    "link": "https://music.163.com/song?id=1441136426",
+    "duration": "03:20",
+    "artists": [
+      {
+        "name": "Carpenter Brut",
+        "link": "https://music.163.com/artist?id=831295"
+      }
+    ],
+    "album": {
+      "name": "Blood Machines - Original Motion Picture Soundtrack",
+      "link": "https://music.163.com/album?id=88121118"
+    }
+  },
+  {
+    "name": "Every Second",
+    "link": "https://music.163.com/song?id=442605044",
+    "duration": "04:12",
+    "artists": [
+      { "name": "L3V3LS", "link": "https://music.163.com/artist?id=12007340" }
+    ],
+    "album": {
+      "name": "Every Second",
+      "link": "https://music.163.com/album?id=35005460"
+    }
+  },
+  {
+    "name": "Claude's Girl",
+    "link": "https://music.163.com/song?id=30621959",
+    "duration": "02:38",
+    "artists": [
+      {
+        "name": "Marika Hackman",
+        "link": "https://music.163.com/artist?id=813212"
+      }
+    ],
+    "album": {
+      "name": "We Slept at Last",
+      "link": "https://music.163.com/album?id=3104149"
+    }
+  },
+  {
+    "name": "Evening Sky (Original Mix)",
+    "link": "https://music.163.com/song?id=29490363",
+    "duration": "07:19",
+    "artists": [
+      {
+        "name": "Roald Velden",
+        "link": "https://music.163.com/artist?id=178498"
+      }
+    ],
+    "album": {
+      "name": "Last Flight Home",
+      "link": "https://music.163.com/album?id=3033342"
+    }
+  },
+  {
+    "name": "Blue Hour",
+    "link": "https://music.163.com/song?id=23686601",
+    "duration": "08:49",
+    "artists": [
+      { "name": "Alwoods", "link": "https://music.163.com/artist?id=29118" }
+    ],
+    "album": {
+      "name": "Ethnoscapes",
+      "link": "https://music.163.com/album?id=2145630"
+    }
+  },
+  {
+    "name": "She (Original Mix)",
+    "link": "https://music.163.com/song?id=437859803",
+    "duration": "06:22",
+    "artists": [
+      { "name": "Glaue", "link": "https://music.163.com/artist?id=1021009" }
+    ],
+    "album": {
+      "name": "Trance Autumn Essentials 2016",
+      "link": "https://music.163.com/album?id=34943823"
+    }
+  },
+  {
+    "name": "Hindenburg Lover",
+    "link": "https://music.163.com/song?id=1440687084",
+    "duration": "05:02",
+    "artists": [
+      {
+        "name": "Anson Seabra",
+        "link": "https://music.163.com/artist?id=14470054"
+      }
+    ],
+    "album": {
+      "name": "Songs I Wrote in My Bedroom",
+      "link": "https://music.163.com/album?id=89390158"
+    }
+  },
+  {
+    "name": "It Hurts the Heart",
+    "link": "https://music.163.com/song?id=28234342",
+    "duration": "04:59",
+    "artists": [
+      { "name": "Tim Walker", "link": "https://music.163.com/artist?id=893068" }
+    ],
+    "album": {
+      "name": "You/Me",
+      "link": "https://music.163.com/album?id=2759041"
+    }
+  },
+  {
+    "name": "Berlin",
+    "link": "https://music.163.com/song?id=28359949",
+    "duration": "03:38",
+    "artists": [
+      { "name": "Small Sur", "link": "https://music.163.com/artist?id=101306" }
+    ],
+    "album": {
+      "name": "Labor",
+      "link": "https://music.163.com/album?id=2779404"
+    }
+  },
+  {
+    "name": "Our Sound",
+    "link": "https://music.163.com/song?id=1373875293",
+    "duration": "03:02",
+    "artists": [
+      {
+        "name": "DJ Blyatman",
+        "link": "https://music.163.com/artist?id=31586577"
+      },
+      { "name": "DJ Pelix", "link": "https://music.163.com/artist?id=32608852" }
+    ],
+    "album": {
+      "name": "Our Sound",
+      "link": "https://music.163.com/album?id=79983644"
+    }
+  },
+  {
+    "name": "Someone You Loved (Future Humans Remix)",
+    "link": "https://music.163.com/song?id=1350077865",
+    "duration": "03:09",
+    "artists": [
+      {
+        "name": "Lewis Capaldi",
+        "link": "https://music.163.com/artist?id=12474140"
+      }
+    ],
+    "album": {
+      "name": "Someone You Loved (Future Humans Remix)",
+      "link": "https://music.163.com/album?id=75768865"
+    }
+  },
+  {
+    "name": "半疑じゃない(moeNAGI Edit)",
+    "link": "https://music.163.com/song?id=484173867",
+    "duration": "02:50",
+    "artists": [
+      { "name": "moeNAGI", "link": "https://music.163.com/artist?id=12443354" }
+    ],
+    "album": {
+      "name": "Groove it",
+      "link": "https://music.163.com/album?id=35607457"
+    }
+  },
+  {
+    "name": "Officially Missing You",
+    "link": "https://music.163.com/song?id=5077144",
+    "duration": "04:06",
+    "artists": [
+      { "name": "Tamia", "link": "https://music.163.com/artist?id=78291" }
+    ],
+    "album": {
+      "name": "Acoustic",
+      "link": "https://music.163.com/album?id=502987"
+    }
+  },
+  {
+    "name": "Normal No More",
+    "link": "https://music.163.com/song?id=1440570723",
+    "duration": "03:19",
+    "artists": [
+      { "name": "TYSM", "link": "https://music.163.com/artist?id=12278200" }
+    ],
+    "album": {
+      "name": "Normal No More",
+      "link": "https://music.163.com/album?id=88010289"
+    }
+  },
+  {
+    "name": "Tomboy",
+    "link": "https://music.163.com/song?id=1349062060",
+    "duration": "03:23",
+    "artists": [
+      {
+        "name": "Destiny Rogers",
+        "link": "https://music.163.com/artist?id=31593700"
+      }
+    ],
+    "album": {
+      "name": "Tomboy",
+      "link": "https://music.163.com/album?id=75733010"
+    }
+  },
+  {
+    "name": "Autumn Journey",
+    "link": "https://music.163.com/song?id=26137944",
+    "duration": "04:02",
+    "artists": [
+      {
+        "name": "Eric Chiryoku",
+        "link": "https://music.163.com/artist?id=14058"
+      }
+    ],
+    "album": {
+      "name": "Autumn Journey",
+      "link": "https://music.163.com/album?id=2394704"
+    }
+  },
+  {
+    "name": "Aurora Borealis",
+    "link": "https://music.163.com/song?id=29027341",
+    "duration": "05:22",
+    "artists": [
+      {
+        "name": "John H. Clarke",
+        "link": "https://music.163.com/artist?id=37088"
+      }
+    ],
+    "album": {
+      "name": "String & Wood",
+      "link": "https://music.163.com/album?id=1846211"
+    }
+  },
+  {
+    "name": "Leaves in the Wind",
+    "link": "https://music.163.com/song?id=19934760",
+    "duration": "03:38",
+    "artists": [
+      {
+        "name": "Isaac Shepard",
+        "link": "https://music.163.com/artist?id=35042"
+      }
+    ],
+    "album": {
+      "name": "Deep Joy",
+      "link": "https://music.163.com/album?id=1842917"
+    }
+  },
+  {
+    "name": "Between Worlds",
+    "link": "https://music.163.com/song?id=28661549",
+    "duration": "05:09",
+    "artists": [
+      {
+        "name": "Roger Subirana",
+        "link": "https://music.163.com/artist?id=42057"
+      }
+    ],
+    "album": {
+      "name": "X I I",
+      "link": "https://music.163.com/album?id=2866275"
+    }
+  },
+  {
+    "name": "Crusing",
+    "link": "https://music.163.com/song?id=1359815572",
+    "duration": "05:35",
+    "artists": [
+      {
+        "name": "Ambien Scott",
+        "link": "https://music.163.com/artist?id=31990007"
+      }
+    ],
+    "album": {
+      "name": "Vacío",
+      "link": "https://music.163.com/album?id=78618490"
+    }
+  },
+  {
+    "name": "A Thousand Seas",
+    "link": "https://music.163.com/song?id=552173526",
+    "duration": "04:00",
+    "artists": [
+      { "name": "MaRLo", "link": "https://music.163.com/artist?id=150599" },
+      {
+        "name": "Roxanne Emery",
+        "link": "https://music.163.com/artist?id=74561"
+      }
+    ],
+    "album": {
+      "name": "A Thousand Seas",
+      "link": "https://music.163.com/album?id=38319294"
+    }
+  },
+  {
+    "name": "Ca' rossa",
+    "link": "https://music.163.com/song?id=510265875",
+    "duration": "03:34",
+    "artists": [
+      {
+        "name": "Ruggero Passarini",
+        "link": "https://music.163.com/artist?id=428714"
+      }
+    ],
+    "album": {
+      "name": "La sottana compilation",
+      "link": "https://music.163.com/album?id=36467507"
+    }
+  },
+  {
+    "name": "Waiting for the Sun",
+    "link": "https://music.163.com/song?id=41667689",
+    "duration": "03:41",
+    "artists": [
+      {
+        "name": "Songs To Your Eyes",
+        "link": "https://music.163.com/artist?id=11997025"
+      },
+      {
+        "name": "Dwayne Ford",
+        "link": "https://music.163.com/artist?id=144521"
+      }
+    ],
+    "album": {
+      "name": "The Fathers",
+      "link": "https://music.163.com/album?id=3451925"
+    }
+  },
+  {
+    "name": "Illusive Dream (feat. Sky Child)",
+    "link": "https://music.163.com/song?id=33497715",
+    "duration": "04:13",
+    "artists": [
+      {
+        "name": "Erio & Mythic Creature",
+        "link": "https://music.163.com/artist?id=1116263"
+      },
+      { "name": "Sky Child", "link": "https://music.163.com/artist?id=1116262" }
+    ],
+    "album": {
+      "name": "Illusive Dream ",
+      "link": "https://music.163.com/album?id=3213409"
+    }
+  }
+]

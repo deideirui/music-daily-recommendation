@@ -1,0 +1,442 @@
+[
+  {
+    "name": "One Day",
+    "link": "https://music.163.com/song?id=17106409",
+    "duration": "03:13",
+    "artists": [
+      { "name": "Charice", "link": "https://music.163.com/artist?id=50982" }
+    ],
+    "album": {
+      "name": "One Day",
+      "link": "https://music.163.com/album?id=1576106"
+    }
+  },
+  {
+    "name": "Touch the Rain - (和雨相拥)",
+    "link": "https://music.163.com/song?id=422428337",
+    "duration": "04:26",
+    "artists": [
+      { "name": "Jannik", "link": "https://music.163.com/artist?id=12065179" }
+    ],
+    "album": {
+      "name": "Into the Dream",
+      "link": "https://music.163.com/album?id=34743986"
+    }
+  },
+  {
+    "name": "The last time (Single)",
+    "link": "https://music.163.com/song?id=28468815",
+    "duration": "03:04",
+    "artists": [
+      { "name": "Sheelah", "link": "https://music.163.com/artist?id=910003" }
+    ],
+    "album": {
+      "name": "The Last Time",
+      "link": "https://music.163.com/album?id=2805093"
+    }
+  },
+  {
+    "name": "Holy",
+    "link": "https://music.163.com/song?id=32166838",
+    "duration": "03:26",
+    "artists": [
+      {
+        "name": "Wolf Colony",
+        "link": "https://music.163.com/artist?id=818119"
+      }
+    ],
+    "album": {
+      "name": "Unmasked",
+      "link": "https://music.163.com/album?id=3154096"
+    }
+  },
+  {
+    "name": "Make It Up",
+    "link": "https://music.163.com/song?id=418316214",
+    "duration": "03:31",
+    "artists": [
+      { "name": "Shura", "link": "https://music.163.com/artist?id=413181" }
+    ],
+    "album": {
+      "name": "Nothing's Real",
+      "link": "https://music.163.com/album?id=34565044"
+    }
+  },
+  {
+    "name": "Summer Jam",
+    "link": "https://music.163.com/song?id=26365344",
+    "duration": "03:02",
+    "artists": [
+      { "name": "R.I.O.", "link": "https://music.163.com/artist?id=42495" },
+      { "name": "U-Jean", "link": "https://music.163.com/artist?id=205414" }
+    ],
+    "album": {
+      "name": "Ready Or Not (The Album)",
+      "link": "https://music.163.com/album?id=2467452"
+    }
+  },
+  {
+    "name": "If You Come To Me",
+    "link": "https://music.163.com/song?id=22513538",
+    "duration": "03:46",
+    "artists": [
+      {
+        "name": "Atomic Kitten",
+        "link": "https://music.163.com/artist?id=85511"
+      }
+    ],
+    "album": {
+      "name": "Ladies Night",
+      "link": "https://music.163.com/album?id=2061783"
+    }
+  },
+  {
+    "name": "Heartline",
+    "link": "https://music.163.com/song?id=506094036",
+    "duration": "03:12",
+    "artists": [
+      {
+        "name": "Craig David",
+        "link": "https://music.163.com/artist?id=29959"
+      },
+      {
+        "name": "Jonas Blue",
+        "link": "https://music.163.com/artist?id=1192069"
+      }
+    ],
+    "album": {
+      "name": "Heartline",
+      "link": "https://music.163.com/album?id=36224023"
+    }
+  },
+  {
+    "name": "1000 Träume weit (Tornero)",
+    "link": "https://music.163.com/song?id=22373021",
+    "duration": "04:13",
+    "artists": [
+      {
+        "name": "Anna-Maria Zimmermann",
+        "link": "https://music.163.com/artist?id=156458"
+      }
+    ],
+    "album": {
+      "name": "Hurra Wir Leben Noch",
+      "link": "https://music.163.com/album?id=2051410"
+    }
+  },
+  {
+    "name": "To Be Human",
+    "link": "https://music.163.com/song?id=1356599587",
+    "duration": "04:06",
+    "artists": [
+      { "name": "MARINA", "link": "https://music.163.com/artist?id=68932" }
+    ],
+    "album": {
+      "name": "LOVE",
+      "link": "https://music.163.com/album?id=78328991"
+    }
+  },
+  {
+    "name": "Here for You",
+    "link": "https://music.163.com/song?id=34383209",
+    "duration": "04:04",
+    "artists": [
+      { "name": "Kygo", "link": "https://music.163.com/artist?id=844410" },
+      {
+        "name": "Ella Henderson",
+        "link": "https://music.163.com/artist?id=906141"
+      }
+    ],
+    "album": {
+      "name": "Here for You",
+      "link": "https://music.163.com/album?id=3285015"
+    }
+  },
+  {
+    "name": "Hung Up",
+    "link": "https://music.163.com/song?id=556066474",
+    "duration": "03:40",
+    "artists": [
+      { "name": "SJ", "link": "https://music.163.com/artist?id=288146" },
+      { "name": "Tritonal", "link": "https://music.163.com/artist?id=104133" },
+      {
+        "name": "Emma Gatsby",
+        "link": "https://music.163.com/artist?id=12086040"
+      }
+    ],
+    "album": {
+      "name": "Calabasas",
+      "link": "https://music.163.com/album?id=38519338"
+    }
+  },
+  {
+    "name": "Not Today",
+    "link": "https://music.163.com/song?id=1356160438",
+    "duration": "02:52",
+    "artists": [
+      {
+        "name": "Robby East",
+        "link": "https://music.163.com/artist?id=999079"
+      },
+      { "name": "Foxa", "link": "https://music.163.com/artist?id=465662" },
+      {
+        "name": "Veronica Bravo",
+        "link": "https://music.163.com/artist?id=14296763"
+      }
+    ],
+    "album": {
+      "name": "Not Today",
+      "link": "https://music.163.com/album?id=78291915"
+    }
+  },
+  {
+    "name": "A Brand New Day",
+    "link": "https://music.163.com/song?id=16612803",
+    "duration": "03:44",
+    "artists": [
+      {
+        "name": "Lisa Miskovsky",
+        "link": "https://music.163.com/artist?id=64222"
+      }
+    ],
+    "album": {
+      "name": "Fallingwater",
+      "link": "https://music.163.com/album?id=1530836"
+    }
+  },
+  {
+    "name": "Happy",
+    "link": "https://music.163.com/song?id=1318088495",
+    "duration": "02:39",
+    "artists": [
+      {
+        "name": "Palm Trees",
+        "link": "https://music.163.com/artist?id=1135109"
+      },
+      { "name": "RØRY", "link": "https://music.163.com/artist?id=28774080" }
+    ],
+    "album": {
+      "name": "Happy",
+      "link": "https://music.163.com/album?id=73922478"
+    }
+  },
+  {
+    "name": "Vintage",
+    "link": "https://music.163.com/song?id=469104844",
+    "duration": "03:39",
+    "artists": [
+      { "name": "Allie X", "link": "https://music.163.com/artist?id=973030" }
+    ],
+    "album": {
+      "name": "CollXtion II",
+      "link": "https://music.163.com/album?id=35297807"
+    }
+  },
+  {
+    "name": "Jeans, T-Shirt und Freiheit",
+    "link": "https://music.163.com/song?id=28342768",
+    "duration": "03:41",
+    "artists": [
+      {
+        "name": "Wolkenfrei",
+        "link": "https://music.163.com/artist?id=1179123"
+      }
+    ],
+    "album": {
+      "name": "Schlager 2013 - Die Hits des Jahres",
+      "link": "https://music.163.com/album?id=2777840"
+    }
+  },
+  {
+    "name": "Curiosity",
+    "link": "https://music.163.com/song?id=2313952",
+    "duration": "03:26",
+    "artists": [
+      {
+        "name": "Carly Rae Jepsen",
+        "link": "https://music.163.com/artist?id=50934"
+      }
+    ],
+    "album": {
+      "name": "Curiosity",
+      "link": "https://music.163.com/album?id=233436"
+    }
+  },
+  {
+    "name": "Hand In Hand",
+    "link": "https://music.163.com/song?id=28805824",
+    "duration": "03:48",
+    "artists": [
+      {
+        "name": "Walking On Cars",
+        "link": "https://music.163.com/artist?id=743047"
+      }
+    ],
+    "album": {
+      "name": "Hand In Hand EP",
+      "link": "https://music.163.com/album?id=2896760"
+    }
+  },
+  {
+    "name": "Wait For You",
+    "link": "https://music.163.com/song?id=1362232263",
+    "duration": "02:52",
+    "artists": [
+      {
+        "name": "Mike Williams",
+        "link": "https://music.163.com/artist?id=302020"
+      },
+      {
+        "name": "Maia Wright",
+        "link": "https://music.163.com/artist?id=12561660"
+      }
+    ],
+    "album": {
+      "name": "Wait For You",
+      "link": "https://music.163.com/album?id=78851397"
+    }
+  },
+  {
+    "name": "Vibe",
+    "link": "https://music.163.com/song?id=1310999362",
+    "duration": "04:01",
+    "artists": [
+      {
+        "name": "Guy Gabriel",
+        "link": "https://music.163.com/artist?id=13133238"
+      },
+      { "name": "AV", "link": "https://music.163.com/artist?id=12091201" }
+    ],
+    "album": {
+      "name": "Vibe",
+      "link": "https://music.163.com/album?id=73426064"
+    }
+  },
+  {
+    "name": "Enemies",
+    "link": "https://music.163.com/song?id=564000298",
+    "duration": "03:14",
+    "artists": [
+      { "name": "Lauv", "link": "https://music.163.com/artist?id=1057226" }
+    ],
+    "album": {
+      "name": "I met you when I was 18. (the playlist)",
+      "link": "https://music.163.com/album?id=39087647"
+    }
+  },
+  {
+    "name": "Up",
+    "link": "https://music.163.com/song?id=2175260",
+    "duration": "02:55",
+    "artists": [
+      {
+        "name": "Amy Deasismont",
+        "link": "https://music.163.com/artist?id=12049097"
+      }
+    ],
+    "album": {
+      "name": "Swings & Roundabouts",
+      "link": "https://music.163.com/album?id=219340"
+    }
+  },
+  {
+    "name": "Closer to my heart",
+    "link": "https://music.163.com/song?id=409646367",
+    "duration": "03:03",
+    "artists": [
+      {
+        "name": "Ylva & Linda",
+        "link": "https://music.163.com/artist?id=12031046"
+      }
+    ],
+    "album": {
+      "name": "Ylva & Linda 2016",
+      "link": "https://music.163.com/album?id=34613134"
+    }
+  },
+  {
+    "name": "You Smile",
+    "link": "https://music.163.com/song?id=2539225",
+    "duration": "03:37",
+    "artists": [
+      { "name": "Eternity ∞", "link": "https://music.163.com/artist?id=55588" }
+    ],
+    "album": {
+      "name": "Eternity",
+      "link": "https://music.163.com/album?id=255409"
+    }
+  },
+  {
+    "name": "Run Away",
+    "link": "https://music.163.com/song?id=4199756",
+    "duration": "03:01",
+    "artists": [
+      { "name": "Megan & Liz", "link": "https://music.163.com/artist?id=97094" }
+    ],
+    "album": {
+      "name": "Run Away",
+      "link": "https://music.163.com/album?id=424747"
+    }
+  },
+  {
+    "name": "狂徒",
+    "link": "https://music.163.com/song?id=478963730",
+    "duration": "02:33",
+    "artists": [
+      { "name": "大宇", "link": "https://music.163.com/artist?id=1212016" }
+    ],
+    "album": {
+      "name": "狂徒",
+      "link": "https://music.163.com/album?id=35513641"
+    }
+  },
+  {
+    "name": "I Can Feel Love (album version)",
+    "link": "https://music.163.com/song?id=17889672",
+    "duration": "03:32",
+    "artists": [
+      { "name": "FM Belfast", "link": "https://music.163.com/artist?id=92902" }
+    ],
+    "album": {
+      "name": "How To Make Friends",
+      "link": "https://music.163.com/album?id=1645844"
+    }
+  },
+  {
+    "name": "Better Than Her",
+    "link": "https://music.163.com/song?id=3161878",
+    "duration": "03:58",
+    "artists": [
+      { "name": "Matisse", "link": "https://music.163.com/artist?id=69160" },
+      { "name": "Akon", "link": "https://music.163.com/artist?id=27595" }
+    ],
+    "album": {
+      "name": "Better Than Her (feat. Akon)",
+      "link": "https://music.163.com/album?id=319995"
+    }
+  },
+  {
+    "name": "In Flames",
+    "link": "https://music.163.com/song?id=422977412",
+    "duration": "04:18",
+    "artists": [
+      { "name": "Lungley", "link": "https://music.163.com/artist?id=12082165" }
+    ],
+    "album": {
+      "name": "In Flames",
+      "link": "https://music.163.com/album?id=34796057"
+    }
+  },
+  {
+    "name": "South Beach (Original Mix)",
+    "link": "https://music.163.com/song?id=1316562828",
+    "duration": "03:21",
+    "artists": [
+      { "name": "Vicetone", "link": "https://music.163.com/artist?id=747030" }
+    ],
+    "album": {
+      "name": "South Beach",
+      "link": "https://music.163.com/album?id=73835820"
+    }
+  }
+]

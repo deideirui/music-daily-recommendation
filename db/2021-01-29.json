@@ -1,0 +1,464 @@
+[
+  {
+    "name": "Fighter",
+    "link": "https://music.163.com/song?id=1409693925",
+    "duration": "02:44",
+    "artists": [
+      { "name": "Klaas", "link": "https://music.163.com/artist?id=106210" }
+    ],
+    "album": {
+      "name": "Fighter",
+      "link": "https://music.163.com/album?id=84108436"
+    }
+  },
+  {
+    "name": "Better Days",
+    "link": "https://music.163.com/song?id=1405111187",
+    "duration": "03:07",
+    "artists": [
+      {
+        "name": "Arman Cekin",
+        "link": "https://music.163.com/artist?id=1132987"
+      },
+      { "name": "Faydee", "link": "https://music.163.com/artist?id=33624" },
+      { "name": "Karra", "link": "https://music.163.com/artist?id=1081582" }
+    ],
+    "album": {
+      "name": "Better Days",
+      "link": "https://music.163.com/album?id=83569827"
+    }
+  },
+  {
+    "name": "Melodies",
+    "link": "https://music.163.com/song?id=1347682213",
+    "duration": "02:40",
+    "artists": [
+      {
+        "name": "Hot Shade",
+        "link": "https://music.163.com/artist?id=12197226"
+      },
+      {
+        "name": "Nomi Bontegarde",
+        "link": "https://music.163.com/artist?id=29724082"
+      }
+    ],
+    "album": {
+      "name": "Melodies",
+      "link": "https://music.163.com/album?id=75665162"
+    }
+  },
+  {
+    "name": "Love to Come Home",
+    "link": "https://music.163.com/song?id=1451366468",
+    "duration": "02:42",
+    "artists": [
+      {
+        "name": "Blewbird",
+        "link": "https://music.163.com/artist?id=30181315"
+      },
+      { "name": "madugo", "link": "https://music.163.com/artist?id=34615701" }
+    ],
+    "album": {
+      "name": "Love to Come Home",
+      "link": "https://music.163.com/album?id=90040395"
+    }
+  },
+  {
+    "name": "Stacy",
+    "link": "https://music.163.com/song?id=1384361802",
+    "duration": "02:48",
+    "artists": [
+      {
+        "name": "Quinn XCII",
+        "link": "https://music.163.com/artist?id=12043047"
+      }
+    ],
+    "album": {
+      "name": "Stacy (Original + Acoustic)",
+      "link": "https://music.163.com/album?id=80963866"
+    }
+  },
+  {
+    "name": "Carry On - (电影《大侦探皮卡丘》主题曲)",
+    "link": "https://music.163.com/song?id=1359113596",
+    "duration": "03:35",
+    "artists": [
+      { "name": "Kygo", "link": "https://music.163.com/artist?id=844410" },
+      { "name": "Rita Ora", "link": "https://music.163.com/artist?id=74575" }
+    ],
+    "album": {
+      "name": "Carry On",
+      "link": "https://music.163.com/album?id=78539320"
+    }
+  },
+  {
+    "name": "Prelude (VIP Edit)",
+    "link": "https://music.163.com/song?id=444524688",
+    "duration": "03:38",
+    "artists": [
+      {
+        "name": "TheFatRat",
+        "link": "https://music.163.com/artist?id=1019952"
+      },
+      { "name": "JJD", "link": "https://music.163.com/artist?id=472822" }
+    ],
+    "album": {
+      "name": "Prelude (VIP Edit)",
+      "link": "https://music.163.com/album?id=35022683"
+    }
+  },
+  {
+    "name": "Red Eagle",
+    "link": "https://music.163.com/song?id=1451252188",
+    "duration": "02:43",
+    "artists": [
+      {
+        "name": "Mariana BO",
+        "link": "https://music.163.com/artist?id=12289474"
+      },
+      { "name": "LaCrême", "link": "https://music.163.com/artist?id=30283475" }
+    ],
+    "album": {
+      "name": "Red Eagle",
+      "link": "https://music.163.com/album?id=90011538"
+    }
+  },
+  {
+    "name": "Feel It",
+    "link": "https://music.163.com/song?id=1475792543",
+    "duration": "02:59",
+    "artists": [
+      {
+        "name": "Will Sparks",
+        "link": "https://music.163.com/artist?id=725093"
+      },
+      { "name": "MaRLo", "link": "https://music.163.com/artist?id=150599" }
+    ],
+    "album": {
+      "name": "Feel It",
+      "link": "https://music.163.com/album?id=94809211"
+    }
+  },
+  {
+    "name": "Goodbye ",
+    "link": "https://music.163.com/song?id=425137989",
+    "duration": "04:03",
+    "artists": [
+      { "name": "FM-84", "link": "https://music.163.com/artist?id=12046467" },
+      {
+        "name": "Clive Farrington",
+        "link": "https://music.163.com/artist?id=12976118"
+      }
+    ],
+    "album": {
+      "name": "Cafe Del Mar Vol. 22",
+      "link": "https://music.163.com/album?id=34816309"
+    }
+  },
+  {
+    "name": "Feelings",
+    "link": "https://music.163.com/song?id=1359399646",
+    "duration": "03:50",
+    "artists": [
+      {
+        "name": "Eyad Farag",
+        "link": "https://music.163.com/artist?id=31973151"
+      }
+    ],
+    "album": {
+      "name": "Feelings",
+      "link": "https://music.163.com/album?id=78571351"
+    }
+  },
+  {
+    "name": "Repercussions (Odium Remix)",
+    "link": "https://music.163.com/song?id=1487555362",
+    "duration": "02:30",
+    "artists": [
+      { "name": "Angerfist", "link": "https://music.163.com/artist?id=688068" },
+      {
+        "name": "Radical Redemption",
+        "link": "https://music.163.com/artist?id=854357"
+      },
+      { "name": "Odium", "link": "https://music.163.com/artist?id=33562642" }
+    ],
+    "album": {
+      "name": "Resolute Remixes",
+      "link": "https://music.163.com/album?id=96893598"
+    }
+  },
+  {
+    "name": "Afar, We Stand",
+    "link": "https://music.163.com/song?id=430297530",
+    "duration": "03:18",
+    "artists": [
+      { "name": "Vexaic", "link": "https://music.163.com/artist?id=1083119" }
+    ],
+    "album": {
+      "name": "Afar, We Stand",
+      "link": "https://music.163.com/album?id=34874423"
+    }
+  },
+  {
+    "name": "Beautiful Creature",
+    "link": "https://music.163.com/song?id=412016737",
+    "duration": "03:45",
+    "artists": [
+      {
+        "name": "Ana Criado",
+        "link": "https://music.163.com/artist?id=191522"
+      },
+      {
+        "name": "Denis Kenzo",
+        "link": "https://music.163.com/artist?id=263670"
+      }
+    ],
+    "album": {
+      "name": "A State Of Trance 2016",
+      "link": "https://music.163.com/album?id=34678627"
+    }
+  },
+  {
+    "name": "Lifetime Change (Original Mix)",
+    "link": "https://music.163.com/song?id=29794523",
+    "duration": "06:23",
+    "artists": [
+      {
+        "name": "Denis Kenzo",
+        "link": "https://music.163.com/artist?id=263670"
+      }
+    ],
+    "album": {
+      "name": "Lifetime Change",
+      "link": "https://music.163.com/album?id=3080208"
+    }
+  },
+  {
+    "name": "Farewell (Original Mix)",
+    "link": "https://music.163.com/song?id=481537259",
+    "duration": "07:09",
+    "artists": [
+      { "name": "Night Sky", "link": "https://music.163.com/artist?id=840166" }
+    ],
+    "album": {
+      "name": "Farewell",
+      "link": "https://music.163.com/album?id=35561382"
+    }
+  },
+  {
+    "name": "Good Together (Acoustic)",
+    "link": "https://music.163.com/song?id=528272458",
+    "duration": "03:30",
+    "artists": [
+      {
+        "name": "SHY Martin",
+        "link": "https://music.163.com/artist?id=12354062"
+      }
+    ],
+    "album": {
+      "name": "Good Together (Acoustic)",
+      "link": "https://music.163.com/album?id=37179196"
+    }
+  },
+  {
+    "name": "How You Make Me Feel",
+    "link": "https://music.163.com/song?id=32619054",
+    "duration": "03:51",
+    "artists": [
+      {
+        "name": "Various Artists",
+        "link": "https://music.163.com/artist?id=104700"
+      }
+    ],
+    "album": {
+      "name": "最新热歌慢摇102",
+      "link": "https://music.163.com/album?id=3159845"
+    }
+  },
+  {
+    "name": "Flaws",
+    "link": "https://music.163.com/song?id=28383716",
+    "duration": "03:19",
+    "artists": [
+      {
+        "name": "Vancouver Sleep Clinic",
+        "link": "https://music.163.com/artist?id=844692"
+      }
+    ],
+    "album": {
+      "name": "Winter",
+      "link": "https://music.163.com/album?id=2781254"
+    }
+  },
+  {
+    "name": "The End",
+    "link": "https://music.163.com/song?id=547973520",
+    "duration": "05:48",
+    "artists": [
+      { "name": "Day 7", "link": "https://music.163.com/artist?id=12009131" }
+    ],
+    "album": {
+      "name": "The End",
+      "link": "https://music.163.com/album?id=38045114"
+    }
+  },
+  {
+    "name": "Elixir",
+    "link": "https://music.163.com/song?id=461081007",
+    "duration": "04:04",
+    "artists": [
+      {
+        "name": "Jay Hifive",
+        "link": "https://music.163.com/artist?id=11978028"
+      }
+    ],
+    "album": {
+      "name": "Elixir",
+      "link": "https://music.163.com/album?id=35188608"
+    }
+  },
+  {
+    "name": "Visions of Gideon - (电影《请以你的名字呼唤我》插曲)",
+    "link": "https://music.163.com/song?id=516358165",
+    "duration": "04:07",
+    "artists": [
+      {
+        "name": "Sufjan Stevens",
+        "link": "https://music.163.com/artist?id=42955"
+      }
+    ],
+    "album": {
+      "name": "Call Me By Your Name (Original Motion Picture Soundtrack)",
+      "link": "https://music.163.com/album?id=36525952"
+    }
+  },
+  {
+    "name": "Colourway",
+    "link": "https://music.163.com/song?id=480769622",
+    "duration": "03:48",
+    "artists": [
+      { "name": "Novo Amor", "link": "https://music.163.com/artist?id=904041" }
+    ],
+    "album": {
+      "name": "Bathing Beach",
+      "link": "https://music.163.com/album?id=35562140"
+    }
+  },
+  {
+    "name": "The Prize",
+    "link": "https://music.163.com/song?id=17214002",
+    "duration": "03:06",
+    "artists": [
+      {
+        "name": "Dave Thomas Junior",
+        "link": "https://music.163.com/artist?id=32233"
+      }
+    ],
+    "album": {
+      "name": "The Prize",
+      "link": "https://music.163.com/album?id=1586281"
+    }
+  },
+  {
+    "name": "裳裳者华(Original Mix)",
+    "link": "https://music.163.com/song?id=538737139",
+    "duration": "03:05",
+    "artists": [
+      { "name": "杨世贸", "link": "https://music.163.com/artist?id=12571508" },
+      { "name": "ゼレル", "link": "https://music.163.com/artist?id=12571227" }
+    ],
+    "album": {
+      "name": "裳裳者华 (Originial Mix)",
+      "link": "https://music.163.com/album?id=37641336"
+    }
+  },
+  {
+    "name": "Cobalt",
+    "link": "https://music.163.com/song?id=422977877",
+    "duration": "03:36",
+    "artists": [
+      { "name": "Enzalla", "link": "https://music.163.com/artist?id=1137013" }
+    ],
+    "album": {
+      "name": "Cobalt",
+      "link": "https://music.163.com/album?id=34791483"
+    }
+  },
+  {
+    "name": "Gloria",
+    "link": "https://music.163.com/song?id=28999941",
+    "duration": "04:49",
+    "artists": [
+      {
+        "name": "The Midnight",
+        "link": "https://music.163.com/artist?id=12023492"
+      }
+    ],
+    "album": {
+      "name": "Days of Thunder",
+      "link": "https://music.163.com/album?id=2976060"
+    }
+  },
+  {
+    "name": "Eventide",
+    "link": "https://music.163.com/song?id=399341174",
+    "duration": "03:21",
+    "artists": [
+      { "name": "Nylon", "link": "https://music.163.com/artist?id=235376" }
+    ],
+    "album": {
+      "name": "Eventide",
+      "link": "https://music.163.com/album?id=34401047"
+    }
+  },
+  {
+    "name": "春风十里报新年 - (2020集五福主题曲)",
+    "link": "https://music.163.com/song?id=1413464902",
+    "duration": "03:29",
+    "artists": [
+      {
+        "name": "接个吻，开一枪",
+        "link": "https://music.163.com/artist?id=12085016"
+      },
+      { "name": "火鸡", "link": "https://music.163.com/artist?id=28862362" },
+      { "name": "吕口口", "link": "https://music.163.com/artist?id=28304831" },
+      { "name": "Lambert", "link": "https://music.163.com/artist?id=31668975" },
+      { "name": "杨胖雨", "link": "https://music.163.com/artist?id=31051426" }
+    ],
+    "album": {
+      "name": "春风十里报新年",
+      "link": "https://music.163.com/album?id=84652174"
+    }
+  },
+  {
+    "name": "Hold Me (Original Mix)",
+    "link": "https://music.163.com/song?id=403136494",
+    "duration": "04:33",
+    "artists": [
+      {
+        "name": "Galactixx",
+        "link": "https://music.163.com/artist?id=11996225"
+      }
+    ],
+    "album": {
+      "name": "Hold Me (Original Mix)",
+      "link": "https://music.163.com/album?id=34477489"
+    }
+  },
+  {
+    "name": "Sorry",
+    "link": "https://music.163.com/song?id=1813163123",
+    "duration": "02:45",
+    "artists": [
+      {
+        "name": "Alan Walker",
+        "link": "https://music.163.com/artist?id=1045123"
+      },
+      { "name": "ISÁK", "link": "https://music.163.com/artist?id=13885541" }
+    ],
+    "album": {
+      "name": "Sorry",
+      "link": "https://music.163.com/album?id=121824365"
+    }
+  }
+]

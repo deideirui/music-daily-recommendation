@@ -1,0 +1,429 @@
+[
+  {
+    "name": "Shuttle",
+    "link": "https://music.163.com/song?id=1443669521",
+    "duration": "02:16",
+    "artists": [
+      { "name": "7Speed", "link": "https://music.163.com/artist?id=34957479" }
+    ],
+    "album": {
+      "name": "Shuttle",
+      "link": "https://music.163.com/album?id=88546052"
+    }
+  },
+  {
+    "name": "Earth",
+    "link": "https://music.163.com/song?id=1340703419",
+    "duration": "02:38",
+    "artists": [
+      { "name": "Tangent", "link": "https://music.163.com/artist?id=30285833" }
+    ],
+    "album": {
+      "name": "Earth",
+      "link": "https://music.163.com/album?id=75246838"
+    }
+  },
+  {
+    "name": "New Horizons",
+    "link": "https://music.163.com/song?id=399410811",
+    "duration": "04:17",
+    "artists": [
+      { "name": "Nyte", "link": "https://music.163.com/artist?id=1034003" }
+    ],
+    "album": {
+      "name": "New Horizons",
+      "link": "https://music.163.com/album?id=34420229"
+    }
+  },
+  {
+    "name": "寻",
+    "link": "https://music.163.com/song?id=1441891917",
+    "duration": "02:37",
+    "artists": [
+      { "name": "Aexly", "link": "https://music.163.com/artist?id=30548630" }
+    ],
+    "album": {
+      "name": "China-Rain",
+      "link": "https://music.163.com/album?id=87914370"
+    }
+  },
+  {
+    "name": "Stacy",
+    "link": "https://music.163.com/song?id=1384361802",
+    "duration": "02:48",
+    "artists": [
+      {
+        "name": "Quinn XCII",
+        "link": "https://music.163.com/artist?id=12043047"
+      }
+    ],
+    "album": {
+      "name": "Stacy (Original + Acoustic)",
+      "link": "https://music.163.com/album?id=80963866"
+    }
+  },
+  {
+    "name": "Ready Yet (San Holo Remix)",
+    "link": "https://music.163.com/song?id=542437942",
+    "duration": "03:38",
+    "artists": [
+      {
+        "name": "Sasha Sloan",
+        "link": "https://music.163.com/artist?id=12646102"
+      },
+      { "name": "San Holo", "link": "https://music.163.com/artist?id=1017035" }
+    ],
+    "album": {
+      "name": "Ready Yet (San Holo Remix)",
+      "link": "https://music.163.com/album?id=37815235"
+    }
+  },
+  {
+    "name": "Don't You",
+    "link": "https://music.163.com/song?id=34125945",
+    "duration": "03:14",
+    "artists": [
+      {
+        "name": "Wonderful Humans",
+        "link": "https://music.163.com/artist?id=956265"
+      }
+    ],
+    "album": {
+      "name": "Don't You",
+      "link": "https://music.163.com/album?id=3271370"
+    }
+  },
+  {
+    "name": "甘雨",
+    "link": "https://music.163.com/song?id=487337134",
+    "duration": "03:54",
+    "artists": [
+      { "name": "Azricle", "link": "https://music.163.com/artist?id=1131003" }
+    ],
+    "album": {
+      "name": "甘雨",
+      "link": "https://music.163.com/album?id=35678701"
+    }
+  },
+  {
+    "name": "云水谣",
+    "link": "https://music.163.com/song?id=1835932324",
+    "duration": "04:02",
+    "artists": [
+      { "name": "北北koni", "link": "https://music.163.com/artist?id=34865278" }
+    ],
+    "album": {
+      "name": "云水谣",
+      "link": "https://music.163.com/album?id=125773954"
+    }
+  },
+  {
+    "name": "Best Part",
+    "link": "https://music.163.com/song?id=1443011517",
+    "duration": "02:57",
+    "artists": [
+      { "name": "The Score", "link": "https://music.163.com/artist?id=212904" }
+    ],
+    "album": {
+      "name": "Best Part",
+      "link": "https://music.163.com/album?id=88460907"
+    }
+  },
+  {
+    "name": "Glisten",
+    "link": "https://music.163.com/song?id=479571057",
+    "duration": "03:29",
+    "artists": [
+      { "name": "浮云心丶", "link": "https://music.163.com/artist?id=12350867" }
+    ],
+    "album": {
+      "name": "Glisten",
+      "link": "https://music.163.com/album?id=35533566"
+    }
+  },
+  {
+    "name": "ピアノ·レッスン(piano.ver)（翻自 古川本舗） ",
+    "link": "https://music.163.com/song?id=566294182",
+    "duration": "02:53",
+    "artists": [
+      { "name": "米白", "link": "https://music.163.com/artist?id=12112270" },
+      { "name": "碰碰", "link": "https://music.163.com/artist?id=12113094" }
+    ],
+    "album": {
+      "name": "ピアノ·レッスン",
+      "link": "https://music.163.com/album?id=39203118"
+    }
+  },
+  {
+    "name": "Morning sunshine(Instrumental)",
+    "link": "https://music.163.com/song?id=1307861972",
+    "duration": "03:18",
+    "artists": [
+      { "name": "Dio Deer", "link": "https://music.163.com/artist?id=12319430" }
+    ],
+    "album": {
+      "name": "Morning sunshine(Instrumental)",
+      "link": "https://music.163.com/album?id=72980174"
+    }
+  },
+  {
+    "name": "Believe In Myself - (TV动画《听我的电波吧》插曲)",
+    "link": "https://music.163.com/song?id=1447590646",
+    "duration": "04:23",
+    "artists": [
+      { "name": "遥海", "link": "https://music.163.com/artist?id=33551357" }
+    ],
+    "album": {
+      "name": "Believe In Myself",
+      "link": "https://music.163.com/album?id=89347081"
+    }
+  },
+  {
+    "name": "CHO-DARI-",
+    "link": "https://music.163.com/song?id=1383011071",
+    "duration": "02:39",
+    "artists": [
+      { "name": "23.exe", "link": "https://music.163.com/artist?id=12090195" },
+      { "name": "初音ミク", "link": "https://music.163.com/artist?id=159692" }
+    ],
+    "album": {
+      "name": "CHO-DARI-",
+      "link": "https://music.163.com/album?id=80851045"
+    }
+  },
+  {
+    "name": "ΛSHES ~RETURNS~",
+    "link": "https://music.163.com/song?id=1367333219",
+    "duration": "02:24",
+    "artists": [
+      {
+        "name": "R!N/Gemie",
+        "link": "https://music.163.com/artist?id=12531080"
+      }
+    ],
+    "album": {
+      "name": "「プロメア」オリジナルサウンドトラック",
+      "link": "https://music.163.com/album?id=79369276"
+    }
+  },
+  {
+    "name": "願い - (TV动画《满月之战Granbelm》片尾曲)",
+    "link": "https://music.163.com/song?id=1380438486",
+    "duration": "05:00",
+    "artists": [
+      { "name": "Uru", "link": "https://music.163.com/artist?id=12062125" }
+    ],
+    "album": {
+      "name": "願い",
+      "link": "https://music.163.com/album?id=80638826"
+    }
+  },
+  {
+    "name": "Swimming In The Stars",
+    "link": "https://music.163.com/song?id=1499462445",
+    "duration": "03:21",
+    "artists": [
+      {
+        "name": "Britney Spears",
+        "link": "https://music.163.com/artist?id=48432"
+      }
+    ],
+    "album": {
+      "name": "Swimming In The Stars",
+      "link": "https://music.163.com/album?id=98942235"
+    }
+  },
+  {
+    "name": "I'll Find My Way",
+    "link": "https://music.163.com/song?id=461332148",
+    "duration": "02:17",
+    "artists": [
+      { "name": "Nomyn", "link": "https://music.163.com/artist?id=12029121" }
+    ],
+    "album": {
+      "name": "I'll Find My Way",
+      "link": "https://music.163.com/album?id=35194517"
+    }
+  },
+  {
+    "name": "The End",
+    "link": "https://music.163.com/song?id=547973520",
+    "duration": "05:48",
+    "artists": [
+      { "name": "Day 7", "link": "https://music.163.com/artist?id=12009131" }
+    ],
+    "album": {
+      "name": "The End",
+      "link": "https://music.163.com/album?id=38045114"
+    }
+  },
+  {
+    "name": "Luxury",
+    "link": "https://music.163.com/song?id=1479162074",
+    "duration": "02:14",
+    "artists": [
+      { "name": "WYR GEMI", "link": "https://music.163.com/artist?id=33698765" }
+    ],
+    "album": {
+      "name": "Luxury",
+      "link": "https://music.163.com/album?id=95379543"
+    }
+  },
+  {
+    "name": "Control",
+    "link": "https://music.163.com/song?id=1597845",
+    "duration": "03:34",
+    "artists": [
+      {
+        "name": "Jarle Bernhoft",
+        "link": "https://music.163.com/artist?id=36809"
+      }
+    ],
+    "album": {
+      "name": "Solidarity Breaks",
+      "link": "https://music.163.com/album?id=162594"
+    }
+  },
+  {
+    "name": "Pretender",
+    "link": "https://music.163.com/song?id=563263998",
+    "duration": "03:08",
+    "artists": [
+      {
+        "name": "Lil Yachty",
+        "link": "https://music.163.com/artist?id=12029208"
+      },
+      { "name": "AJR", "link": "https://music.163.com/artist?id=88089" },
+      { "name": "Steve Aoki", "link": "https://music.163.com/artist?id=43608" }
+    ],
+    "album": {
+      "name": "Pretender",
+      "link": "https://music.163.com/album?id=39032738"
+    }
+  },
+  {
+    "name": "Elixir",
+    "link": "https://music.163.com/song?id=461081007",
+    "duration": "04:04",
+    "artists": [
+      {
+        "name": "Jay Hifive",
+        "link": "https://music.163.com/artist?id=11978028"
+      }
+    ],
+    "album": {
+      "name": "Elixir",
+      "link": "https://music.163.com/album?id=35188608"
+    }
+  },
+  {
+    "name": "A Good Night",
+    "link": "https://music.163.com/song?id=549498719",
+    "duration": "03:23",
+    "artists": [
+      {
+        "name": "John Legend",
+        "link": "https://music.163.com/artist?id=35342"
+      },
+      {
+        "name": "BloodPop",
+        "link": "https://music.163.com/artist?id=12567543"
+      },
+      {
+        "name": "Sasha Sloan",
+        "link": "https://music.163.com/artist?id=12646102"
+      },
+      { "name": "Raye", "link": "https://music.163.com/artist?id=1077053" }
+    ],
+    "album": {
+      "name": "A Good Night",
+      "link": "https://music.163.com/album?id=38013830"
+    }
+  },
+  {
+    "name": "Candy Shop (DJ版)",
+    "link": "https://music.163.com/song?id=1386946638",
+    "duration": "02:17",
+    "artists": [
+      { "name": "新旭", "link": "https://music.163.com/artist?id=12205044" }
+    ],
+    "album": {
+      "name": "Be Your Sun",
+      "link": "https://music.163.com/album?id=81190867"
+    }
+  },
+  {
+    "name": "西街",
+    "link": "https://music.163.com/song?id=33471962",
+    "duration": "04:36",
+    "artists": [
+      { "name": "48V", "link": "https://music.163.com/artist?id=13729" }
+    ],
+    "album": {
+      "name": "南方Ⅱ",
+      "link": "https://music.163.com/album?id=3213086"
+    }
+  },
+  {
+    "name": "寂寞患者",
+    "link": "https://music.163.com/song?id=1496913897",
+    "duration": "04:14",
+    "artists": [
+      { "name": "光泽", "link": "https://music.163.com/artist?id=12136042" },
+      { "name": "信乐团", "link": "https://music.163.com/artist?id=13283" }
+    ],
+    "album": {
+      "name": "寂寞患者",
+      "link": "https://music.163.com/album?id=98567333"
+    }
+  },
+  {
+    "name": "Vendredi",
+    "link": "https://music.163.com/song?id=2001321",
+    "duration": "02:58",
+    "artists": [
+      { "name": "Tamas Wells", "link": "https://music.163.com/artist?id=44262" }
+    ],
+    "album": {
+      "name": "A Plea en Vendredi",
+      "link": "https://music.163.com/album?id=201763"
+    }
+  },
+  {
+    "name": "Fck Boys",
+    "link": "https://music.163.com/song?id=1825815055",
+    "duration": "02:43",
+    "artists": [
+      { "name": "Blxst", "link": "https://music.163.com/artist?id=31100277" },
+      { "name": "Russ", "link": "https://music.163.com/artist?id=241588" }
+    ],
+    "album": {
+      "name": "Just for Clarity",
+      "link": "https://music.163.com/album?id=124046398"
+    }
+  },
+  {
+    "name": "you belong to me",
+    "link": "https://music.163.com/song?id=17086516",
+    "duration": "03:01",
+    "artists": [
+      { "name": "Carla Bruni", "link": "https://music.163.com/artist?id=50887" }
+    ],
+    "album": {
+      "name": "Comme si de rien n'etait",
+      "link": "https://music.163.com/album?id=1574835"
+    }
+  },
+  {
+    "name": "I'm Not Mad",
+    "link": "https://music.163.com/song?id=1494985594",
+    "duration": "02:53",
+    "artists": [
+      { "name": "Halsey", "link": "https://music.163.com/artist?id=964321" }
+    ],
+    "album": {
+      "name": "Manic: Revenge EP",
+      "link": "https://music.163.com/album?id=98255761"
+    }
+  }
+]

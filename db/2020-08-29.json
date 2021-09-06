@@ -1,0 +1,479 @@
+[
+  {
+    "name": "Good Enough",
+    "link": "https://music.163.com/song?id=1446097045",
+    "duration": "03:32",
+    "artists": [
+      { "name": "Man Cub", "link": "https://music.163.com/artist?id=30816484" },
+      { "name": "jen", "link": "https://music.163.com/artist?id=62737" }
+    ],
+    "album": {
+      "name": "Good Enough",
+      "link": "https://music.163.com/album?id=89060906"
+    }
+  },
+  {
+    "name": "Living With Regret",
+    "link": "https://music.163.com/song?id=1443491832",
+    "duration": "03:44",
+    "artists": [
+      {
+        "name": "ROY KNOX",
+        "link": "https://music.163.com/artist?id=33149404"
+      },
+      {
+        "name": "Shiah Maisel",
+        "link": "https://music.163.com/artist?id=13500608"
+      }
+    ],
+    "album": {
+      "name": "Living With Regret",
+      "link": "https://music.163.com/album?id=88548159"
+    }
+  },
+  {
+    "name": "Butterflies",
+    "link": "https://music.163.com/song?id=1418092940",
+    "duration": "03:21",
+    "artists": [
+      {
+        "name": "William Black",
+        "link": "https://music.163.com/artist?id=248957"
+      },
+      {
+        "name": "Fairlane",
+        "link": "https://music.163.com/artist?id=12665028"
+      },
+      {
+        "name": "Dia Frampton",
+        "link": "https://music.163.com/artist?id=55454"
+      }
+    ],
+    "album": {
+      "name": "Butterflies",
+      "link": "https://music.163.com/album?id=85121717"
+    }
+  },
+  {
+    "name": "Babylonia (feat. Sarah De Warren)",
+    "link": "https://music.163.com/song?id=1456124479",
+    "duration": "02:39",
+    "artists": [
+      { "name": "The Him", "link": "https://music.163.com/artist?id=1106130" },
+      {
+        "name": "Robby East",
+        "link": "https://music.163.com/artist?id=999079"
+      },
+      {
+        "name": "Sarah De Warren",
+        "link": "https://music.163.com/artist?id=13222653"
+      }
+    ],
+    "album": {
+      "name": "Babylonia (feat. Sarah De Warren)",
+      "link": "https://music.163.com/album?id=91083647"
+    }
+  },
+  {
+    "name": "Know You",
+    "link": "https://music.163.com/song?id=1338634308",
+    "duration": "03:06",
+    "artists": [
+      {
+        "name": "Kill The Buzz",
+        "link": "https://music.163.com/artist?id=331525"
+      },
+      {
+        "name": "Doublefast",
+        "link": "https://music.163.com/artist?id=1190094"
+      },
+      { "name": "Lux", "link": "https://music.163.com/artist?id=65954" }
+    ],
+    "album": {
+      "name": "Know You",
+      "link": "https://music.163.com/album?id=75113021"
+    }
+  },
+  {
+    "name": "Fobos",
+    "link": "https://music.163.com/song?id=1448518107",
+    "duration": "02:22",
+    "artists": [
+      { "name": "KPLR", "link": "https://music.163.com/artist?id=31380376" }
+    ],
+    "album": {
+      "name": "Fobos",
+      "link": "https://music.163.com/album?id=89529386"
+    }
+  },
+  {
+    "name": "Drank",
+    "link": "https://music.163.com/song?id=1442096622",
+    "duration": "02:21",
+    "artists": [
+      {
+        "name": "Raven & Kreyn",
+        "link": "https://music.163.com/artist?id=12355744"
+      },
+      { "name": "RudeLies", "link": "https://music.163.com/artist?id=12416051" }
+    ],
+    "album": {
+      "name": "Drank",
+      "link": "https://music.163.com/album?id=88275079"
+    }
+  },
+  {
+    "name": "Around the World",
+    "link": "https://music.163.com/song?id=1454622381",
+    "duration": "02:57",
+    "artists": [
+      {
+        "name": "Half an Orange",
+        "link": "https://music.163.com/artist?id=12492297"
+      },
+      {
+        "name": "Saxsquatch",
+        "link": "https://music.163.com/artist?id=35690796"
+      }
+    ],
+    "album": {
+      "name": "Around the World",
+      "link": "https://music.163.com/album?id=90709135"
+    }
+  },
+  {
+    "name": "Truth",
+    "link": "https://music.163.com/song?id=1465483478",
+    "duration": "03:07",
+    "artists": [
+      {
+        "name": "Bad Computer",
+        "link": "https://music.163.com/artist?id=12647410"
+      }
+    ],
+    "album": {
+      "name": "Truth",
+      "link": "https://music.163.com/album?id=92980429"
+    }
+  },
+  {
+    "name": "Back to the Start",
+    "link": "https://music.163.com/song?id=1337949941",
+    "duration": "03:13",
+    "artists": [
+      {
+        "name": "Michael Schulte",
+        "link": "https://music.163.com/artist?id=40222"
+      }
+    ],
+    "album": {
+      "name": "Back to the Start",
+      "link": "https://music.163.com/album?id=75071532"
+    }
+  },
+  {
+    "name": "Therapy",
+    "link": "https://music.163.com/song?id=1441129507",
+    "duration": "03:06",
+    "artists": [
+      { "name": "Conro", "link": "https://music.163.com/artist?id=1063229" }
+    ],
+    "album": {
+      "name": "Level Days",
+      "link": "https://music.163.com/album?id=88117373"
+    }
+  },
+  {
+    "name": "Speak Français",
+    "link": "https://music.163.com/song?id=1450888348",
+    "duration": "03:20",
+    "artists": [
+      { "name": "Ellis", "link": "https://music.163.com/artist?id=32932" },
+      { "name": "NOËP", "link": "https://music.163.com/artist?id=1181214" }
+    ],
+    "album": {
+      "name": "Speak Français",
+      "link": "https://music.163.com/album?id=89945081"
+    }
+  },
+  {
+    "name": "Neo Soul",
+    "link": "https://music.163.com/song?id=1451894973",
+    "duration": "04:38",
+    "artists": [
+      { "name": "Cyazon", "link": "https://music.163.com/artist?id=32904658" },
+      { "name": "Essenger", "link": "https://music.163.com/artist?id=31400823" }
+    ],
+    "album": {
+      "name": "Neo Soul",
+      "link": "https://music.163.com/album?id=90143408"
+    }
+  },
+  {
+    "name": "Deep End",
+    "link": "https://music.163.com/song?id=470573623",
+    "duration": "03:37",
+    "artists": [
+      { "name": "LU2VYK", "link": "https://music.163.com/artist?id=12356140" }
+    ],
+    "album": {
+      "name": "Deep End",
+      "link": "https://music.163.com/album?id=35346122"
+    }
+  },
+  {
+    "name": "Feeling Me (The Distance & Igi Remix)",
+    "link": "https://music.163.com/song?id=1443244007",
+    "duration": "04:59",
+    "artists": [
+      { "name": "Max Oazo", "link": "https://music.163.com/artist?id=13159084" }
+    ],
+    "album": {
+      "name": "Feeling Me (The Distance & Igi Remix)",
+      "link": "https://music.163.com/album?id=88503003"
+    }
+  },
+  {
+    "name": "Going Numb",
+    "link": "https://music.163.com/song?id=1305364234",
+    "duration": "03:56",
+    "artists": [
+      {
+        "name": "Aash Mehta",
+        "link": "https://music.163.com/artist?id=1094364"
+      }
+    ],
+    "album": {
+      "name": "Going Numb ",
+      "link": "https://music.163.com/album?id=72709691"
+    }
+  },
+  {
+    "name": "Anybody",
+    "link": "https://music.163.com/song?id=1406279346",
+    "duration": "02:32",
+    "artists": [
+      {
+        "name": "Asketa & Natan Chaim",
+        "link": "https://music.163.com/artist?id=32523005"
+      },
+      { "name": "Mo Falk", "link": "https://music.163.com/artist?id=28683052" }
+    ],
+    "album": {
+      "name": "Anybody",
+      "link": "https://music.163.com/album?id=83708491"
+    }
+  },
+  {
+    "name": "Nothing Without You",
+    "link": "https://music.163.com/song?id=573418501",
+    "duration": "02:59",
+    "artists": [
+      { "name": "Adaptiv", "link": "https://music.163.com/artist?id=12246015" },
+      { "name": "Timbo", "link": "https://music.163.com/artist?id=80901" },
+      {
+        "name": "Daisy Kilbourne",
+        "link": "https://music.163.com/artist?id=13162283"
+      }
+    ],
+    "album": {
+      "name": "Nothing Without You",
+      "link": "https://music.163.com/album?id=39705528"
+    }
+  },
+  {
+    "name": "Venice",
+    "link": "https://music.163.com/song?id=1387322097",
+    "duration": "03:16",
+    "artists": [
+      {
+        "name": "Magdalena Bay",
+        "link": "https://music.163.com/artist?id=12603779"
+      }
+    ],
+    "album": {
+      "name": "Venice",
+      "link": "https://music.163.com/album?id=81224999"
+    }
+  },
+  {
+    "name": "Young Ones (RudeLies Remix)",
+    "link": "https://music.163.com/song?id=1411691571",
+    "duration": "03:18",
+    "artists": [
+      {
+        "name": "Johnning",
+        "link": "https://music.163.com/artist?id=12330010"
+      },
+      { "name": "Avenza", "link": "https://music.163.com/artist?id=1087433" },
+      { "name": "RudeLies", "link": "https://music.163.com/artist?id=12416051" }
+    ],
+    "album": {
+      "name": "Young Ones (RudeLies Remix) [feat. Johnning]",
+      "link": "https://music.163.com/album?id=84319758"
+    }
+  },
+  {
+    "name": "I'm Sorry",
+    "link": "https://music.163.com/song?id=1341512868",
+    "duration": "02:57",
+    "artists": [
+      { "name": "Jonth", "link": "https://music.163.com/artist?id=12636028" }
+    ],
+    "album": {
+      "name": "I'm Sorry",
+      "link": "https://music.163.com/album?id=75292064"
+    }
+  },
+  {
+    "name": "Amateurs",
+    "link": "https://music.163.com/song?id=1348509309",
+    "duration": "03:36",
+    "artists": [
+      { "name": "Sleepy Tom", "link": "https://music.163.com/artist?id=777178" }
+    ],
+    "album": {
+      "name": "Amateurs",
+      "link": "https://music.163.com/album?id=75705678"
+    }
+  },
+  {
+    "name": "Legends (feat. TeamMate) (Hyper Potions Remix)",
+    "link": "https://music.163.com/song?id=35307020",
+    "duration": "03:16",
+    "artists": [
+      {
+        "name": "Hyper Potions",
+        "link": "https://music.163.com/artist?id=1074092"
+      },
+      { "name": "Razihel", "link": "https://music.163.com/artist?id=331285" },
+      { "name": "Teammate", "link": "https://music.163.com/artist?id=1091008" }
+    ],
+    "album": {
+      "name": "Legends (feat. TeamMate) (Hyper Potions Remix)",
+      "link": "https://music.163.com/album?id=3316145"
+    }
+  },
+  {
+    "name": "Losing Our Minds",
+    "link": "https://music.163.com/song?id=1310024267",
+    "duration": "03:28",
+    "artists": [
+      {
+        "name": "Taska Black",
+        "link": "https://music.163.com/artist?id=12066018"
+      },
+      { "name": "Nevve", "link": "https://music.163.com/artist?id=12567101" }
+    ],
+    "album": {
+      "name": "Losing Our Minds",
+      "link": "https://music.163.com/album?id=73337309"
+    }
+  },
+  {
+    "name": "Out Of Town (My Own Road)",
+    "link": "https://music.163.com/song?id=1433323883",
+    "duration": "03:06",
+    "artists": [
+      {
+        "name": "RetroVision",
+        "link": "https://music.163.com/artist?id=11976142"
+      },
+      { "name": "JANEE", "link": "https://music.163.com/artist?id=12274245" },
+      { "name": "Lunis", "link": "https://music.163.com/artist?id=32056972" }
+    ],
+    "album": {
+      "name": "Out Of Town (My Own Road)",
+      "link": "https://music.163.com/album?id=86766109"
+    }
+  },
+  {
+    "name": "If U Don't Luv Me Now",
+    "link": "https://music.163.com/song?id=28575543",
+    "duration": "03:13",
+    "artists": [
+      { "name": "Dania Gio", "link": "https://music.163.com/artist?id=938059" }
+    ],
+    "album": {
+      "name": "NRJ Hit List 2014",
+      "link": "https://music.163.com/album?id=2846390"
+    }
+  },
+  {
+    "name": "Fade Out",
+    "link": "https://music.163.com/song?id=1456584522",
+    "duration": "03:18",
+    "artists": [
+      { "name": "Bensley", "link": "https://music.163.com/artist?id=1093024" }
+    ],
+    "album": {
+      "name": "Fade Out",
+      "link": "https://music.163.com/album?id=91196357"
+    }
+  },
+  {
+    "name": "Next Summer",
+    "link": "https://music.163.com/song?id=427542629",
+    "duration": "03:38",
+    "artists": [
+      { "name": "WHYLO", "link": "https://music.163.com/artist?id=12322304" },
+      {
+        "name": "Swedish Red Elephant",
+        "link": "https://music.163.com/artist?id=14277069"
+      }
+    ],
+    "album": {
+      "name": "Next Summer",
+      "link": "https://music.163.com/album?id=34855273"
+    }
+  },
+  {
+    "name": "Armageddon",
+    "link": "https://music.163.com/song?id=423407189",
+    "duration": "03:30",
+    "artists": [
+      { "name": "Joey Dale", "link": "https://music.163.com/artist?id=908121" },
+      { "name": "Ryos", "link": "https://music.163.com/artist?id=1053137" },
+      {
+        "name": "Tony Rodini",
+        "link": "https://music.163.com/artist?id=14252103"
+      }
+    ],
+    "album": {
+      "name": "Armageddon",
+      "link": "https://music.163.com/album?id=34799057"
+    }
+  },
+  {
+    "name": "Sahara Love (Seven Lions Remix)",
+    "link": "https://music.163.com/song?id=1350078187",
+    "duration": "05:22",
+    "artists": [
+      {
+        "name": "Above & Beyond",
+        "link": "https://music.163.com/artist?id=85548"
+      },
+      {
+        "name": "Zoë Johnston",
+        "link": "https://music.163.com/artist?id=85283"
+      },
+      { "name": "Seven Lions", "link": "https://music.163.com/artist?id=44204" }
+    ],
+    "album": {
+      "name": "Sahara Love",
+      "link": "https://music.163.com/album?id=75769638"
+    }
+  },
+  {
+    "name": "LEAVE II",
+    "link": "https://music.163.com/song?id=479938154",
+    "duration": "04:48",
+    "artists": [
+      { "name": "Synx", "link": "https://music.163.com/artist?id=1061017" }
+    ],
+    "album": {
+      "name": "LEAVE II",
+      "link": "https://music.163.com/album?id=35544343"
+    }
+  }
+]

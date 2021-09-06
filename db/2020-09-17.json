@@ -1,0 +1,438 @@
+[
+  {
+    "name": "Slip Away",
+    "link": "https://music.163.com/song?id=1382623484",
+    "duration": "02:53",
+    "artists": [
+      { "name": "Sineself", "link": "https://music.163.com/artist?id=32945422" }
+    ],
+    "album": {
+      "name": "Slip Away",
+      "link": "https://music.163.com/album?id=80818330"
+    }
+  },
+  {
+    "name": "Better Days",
+    "link": "https://music.163.com/song?id=1405111187",
+    "duration": "03:07",
+    "artists": [
+      {
+        "name": "Arman Cekin",
+        "link": "https://music.163.com/artist?id=1132987"
+      },
+      { "name": "Faydee", "link": "https://music.163.com/artist?id=33624" }
+    ],
+    "album": {
+      "name": "Better Days",
+      "link": "https://music.163.com/album?id=83569827"
+    }
+  },
+  {
+    "name": "Ain't Nothing Like It",
+    "link": "https://music.163.com/song?id=1348835834",
+    "duration": "02:46",
+    "artists": [
+      { "name": "KLYMVX", "link": "https://music.163.com/artist?id=1149091" }
+    ],
+    "album": {
+      "name": "Ain't Nothing Like It",
+      "link": "https://music.163.com/album?id=75717310"
+    }
+  },
+  {
+    "name": "Insomnia",
+    "link": "https://music.163.com/song?id=1350638256",
+    "duration": "02:59",
+    "artists": [
+      { "name": "Daya", "link": "https://music.163.com/artist?id=1081186" }
+    ],
+    "album": {
+      "name": "Insomnia",
+      "link": "https://music.163.com/album?id=75797761"
+    }
+  },
+  {
+    "name": "Avem (The Aviation Theme)",
+    "link": "https://music.163.com/song?id=1400077458",
+    "duration": "03:19",
+    "artists": [
+      {
+        "name": "Alan Walker",
+        "link": "https://music.163.com/artist?id=1045123"
+      }
+    ],
+    "album": {
+      "name": "Avem (The Aviation Theme)",
+      "link": "https://music.163.com/album?id=82856737"
+    }
+  },
+  {
+    "name": "How We Do",
+    "link": "https://music.163.com/song?id=1397748420",
+    "duration": "02:44",
+    "artists": [
+      {
+        "name": "Nigel Stately",
+        "link": "https://music.163.com/artist?id=28259766"
+      },
+      { "name": "Moonessa", "link": "https://music.163.com/artist?id=29834706" }
+    ],
+    "album": {
+      "name": "How We Do",
+      "link": "https://music.163.com/album?id=82530978"
+    }
+  },
+  {
+    "name": "Are You With Me (Christmas Mix)",
+    "link": "https://music.163.com/song?id=399340150",
+    "duration": "02:18",
+    "artists": [
+      { "name": "Christmas", "link": "https://music.163.com/artist?id=11322" },
+      {
+        "name": "Lost Frequencies",
+        "link": "https://music.163.com/artist?id=1039114"
+      }
+    ],
+    "album": {
+      "name": "Are You With Me / Reality",
+      "link": "https://music.163.com/album?id=34400042"
+    }
+  },
+  {
+    "name": "New World Sound",
+    "link": "https://music.163.com/song?id=1395041187",
+    "duration": "02:20",
+    "artists": [
+      { "name": "Tom & Jame", "link": "https://music.163.com/artist?id=975137" }
+    ],
+    "album": {
+      "name": "New World Sound",
+      "link": "https://music.163.com/album?id=82145578"
+    }
+  },
+  {
+    "name": "Green",
+    "link": "https://music.163.com/song?id=1436474150",
+    "duration": "03:00",
+    "artists": [
+      { "name": "MAY-A", "link": "https://music.163.com/artist?id=35099467" }
+    ],
+    "album": {
+      "name": "Green",
+      "link": "https://music.163.com/album?id=87342265"
+    }
+  },
+  {
+    "name": "Hundred Miles",
+    "link": "https://music.163.com/song?id=35739155",
+    "duration": "02:52",
+    "artists": [
+      { "name": "Yall", "link": "https://music.163.com/artist?id=1177135" }
+    ],
+    "album": {
+      "name": "Hundred Miles",
+      "link": "https://music.163.com/album?id=3365174"
+    }
+  },
+  {
+    "name": "Clouds",
+    "link": "https://music.163.com/song?id=1368546535",
+    "duration": "03:43",
+    "artists": [
+      { "name": "Nurko", "link": "https://music.163.com/artist?id=11991089" },
+      {
+        "name": "Delaney Kai",
+        "link": "https://music.163.com/artist?id=12171219"
+      }
+    ],
+    "album": {
+      "name": "Clouds",
+      "link": "https://music.163.com/album?id=79485406"
+    }
+  },
+  {
+    "name": "End With You",
+    "link": "https://music.163.com/song?id=475264090",
+    "duration": "03:21",
+    "artists": [
+      { "name": "Snavs", "link": "https://music.163.com/artist?id=1011006" },
+      { "name": "KING", "link": "https://music.163.com/artist?id=12041080" }
+    ],
+    "album": {
+      "name": "End With You",
+      "link": "https://music.163.com/album?id=35448057"
+    }
+  },
+  {
+    "name": "Devil I Know",
+    "link": "https://music.163.com/song?id=1413982723",
+    "duration": "02:52",
+    "artists": [
+      { "name": "Allie X", "link": "https://music.163.com/artist?id=973030" }
+    ],
+    "album": {
+      "name": "Devil I Know",
+      "link": "https://music.163.com/album?id=84697893"
+    }
+  },
+  {
+    "name": "Broken Glass",
+    "link": "https://music.163.com/song?id=1449290148",
+    "duration": "03:23",
+    "artists": [
+      { "name": "Kygo", "link": "https://music.163.com/artist?id=844410" },
+      { "name": "Kim Petras", "link": "https://music.163.com/artist?id=63935" }
+    ],
+    "album": {
+      "name": "Golden Hour",
+      "link": "https://music.163.com/album?id=89653973"
+    }
+  },
+  {
+    "name": "Cover It Up",
+    "link": "https://music.163.com/song?id=1368482632",
+    "duration": "03:14",
+    "artists": [
+      {
+        "name": "Robert Cristian",
+        "link": "https://music.163.com/artist?id=13505102"
+      }
+    ],
+    "album": {
+      "name": "Cover It Up",
+      "link": "https://music.163.com/album?id=79479618"
+    }
+  },
+  {
+    "name": "High",
+    "link": "https://music.163.com/song?id=30854051",
+    "duration": "03:12",
+    "artists": [
+      { "name": "JPB", "link": "https://music.163.com/artist?id=1050628" }
+    ],
+    "album": {
+      "name": "High",
+      "link": "https://music.163.com/album?id=3104632"
+    }
+  },
+  {
+    "name": "MAKE That",
+    "link": "https://music.163.com/song?id=1422550393",
+    "duration": "02:53",
+    "artists": [
+      { "name": "G-POL", "link": "https://music.163.com/artist?id=12054195" }
+    ],
+    "album": {
+      "name": "MAKE That",
+      "link": "https://music.163.com/album?id=85640924"
+    }
+  },
+  {
+    "name": "Hard To Love (25BIT Remix)",
+    "link": "https://music.163.com/song?id=1381472468",
+    "duration": "03:10",
+    "artists": [
+      { "name": "Dasco", "link": "https://music.163.com/artist?id=1171064" },
+      { "name": "Haneri", "link": "https://music.163.com/artist?id=12834932" }
+    ],
+    "album": {
+      "name": "Hard To Love (Remixes)",
+      "link": "https://music.163.com/album?id=80725171"
+    }
+  },
+  {
+    "name": "I'm Falling In Love",
+    "link": "https://music.163.com/song?id=1323148445",
+    "duration": "03:04",
+    "artists": [
+      {
+        "name": "Wildflowers",
+        "link": "https://music.163.com/artist?id=12977810"
+      },
+      { "name": "Emmi", "link": "https://music.163.com/artist?id=140606" }
+    ],
+    "album": {
+      "name": "Buttercup",
+      "link": "https://music.163.com/album?id=74254239"
+    }
+  },
+  {
+    "name": "Take Me Higher",
+    "link": "https://music.163.com/song?id=1416999210",
+    "duration": "03:30",
+    "artists": [
+      { "name": "BOTNEK", "link": "https://music.163.com/artist?id=88948" }
+    ],
+    "album": {
+      "name": "Take Me Higher",
+      "link": "https://music.163.com/album?id=85011458"
+    }
+  },
+  {
+    "name": "Don't Need Love (Acoustic)",
+    "link": "https://music.163.com/song?id=1443016434",
+    "duration": "03:00",
+    "artists": [
+      { "name": "220 KID", "link": "https://music.163.com/artist?id=29468983" },
+      { "name": "GRACEY", "link": "https://music.163.com/artist?id=31638408" }
+    ],
+    "album": {
+      "name": "Don't Need Love (Acoustic)",
+      "link": "https://music.163.com/album?id=88462918"
+    }
+  },
+  {
+    "name": "Heroes",
+    "link": "https://music.163.com/song?id=1447658841",
+    "duration": "03:42",
+    "artists": [
+      { "name": "Throttle", "link": "https://music.163.com/artist?id=794398" },
+      { "name": "NICOLOSI", "link": "https://music.163.com/artist?id=34843079" }
+    ],
+    "album": {
+      "name": "Heroes",
+      "link": "https://music.163.com/album?id=89360865"
+    }
+  },
+  {
+    "name": "I Remember",
+    "link": "https://music.163.com/song?id=1467366365",
+    "duration": "02:56",
+    "artists": [
+      { "name": "Inverness", "link": "https://music.163.com/artist?id=216883" },
+      {
+        "name": "Jack Newsome",
+        "link": "https://music.163.com/artist?id=29219108"
+      }
+    ],
+    "album": {
+      "name": "I Remember",
+      "link": "https://music.163.com/album?id=93301594"
+    }
+  },
+  {
+    "name": "Groove It to the Sun",
+    "link": "https://music.163.com/song?id=1460010703",
+    "duration": "03:08",
+    "artists": [
+      {
+        "name": "David Bulla",
+        "link": "https://music.163.com/artist?id=1049861"
+      },
+      {
+        "name": "WildVibes",
+        "link": "https://music.163.com/artist?id=1181751"
+      },
+      { "name": "LionX", "link": "https://music.163.com/artist?id=12475349" }
+    ],
+    "album": {
+      "name": "Groove It to the Sun",
+      "link": "https://music.163.com/album?id=91897214"
+    }
+  },
+  {
+    "name": "Fighters",
+    "link": "https://music.163.com/song?id=1421146975",
+    "duration": "03:46",
+    "artists": [
+      { "name": "Conro", "link": "https://music.163.com/artist?id=1063229" }
+    ],
+    "album": {
+      "name": "Fighters",
+      "link": "https://music.163.com/album?id=85494922"
+    }
+  },
+  {
+    "name": "Pour the Milk",
+    "link": "https://music.163.com/song?id=1399963025",
+    "duration": "02:52",
+    "artists": [
+      {
+        "name": "Robbie Doherty",
+        "link": "https://music.163.com/artist?id=13547909"
+      },
+      { "name": "Keees.", "link": "https://music.163.com/artist?id=33547296" }
+    ],
+    "album": {
+      "name": "Pour the Milk",
+      "link": "https://music.163.com/album?id=82839320"
+    }
+  },
+  {
+    "name": "Feels",
+    "link": "https://music.163.com/song?id=484314654",
+    "duration": "03:43",
+    "artists": [
+      {
+        "name": "Calvin Harris",
+        "link": "https://music.163.com/artist?id=29968"
+      },
+      {
+        "name": "Pharrell Williams",
+        "link": "https://music.163.com/artist?id=41151"
+      },
+      { "name": "Katy Perry", "link": "https://music.163.com/artist?id=62888" },
+      { "name": "Big Sean", "link": "https://music.163.com/artist?id=185832" }
+    ],
+    "album": {
+      "name": "Feels",
+      "link": "https://music.163.com/album?id=35622486"
+    }
+  },
+  {
+    "name": "Goldfinch",
+    "link": "https://music.163.com/song?id=1324254793",
+    "duration": "03:48",
+    "artists": [
+      { "name": "Chime", "link": "https://music.163.com/artist?id=417220" }
+    ],
+    "album": {
+      "name": "Goldfinch",
+      "link": "https://music.163.com/album?id=74334034"
+    }
+  },
+  {
+    "name": "Tell Me",
+    "link": "https://music.163.com/song?id=1463589569",
+    "duration": "04:03",
+    "artists": [
+      { "name": "Crankdat", "link": "https://music.163.com/artist?id=12006283" }
+    ],
+    "album": {
+      "name": "Tell Me",
+      "link": "https://music.163.com/album?id=92611298"
+    }
+  },
+  {
+    "name": "Memories Of You",
+    "link": "https://music.163.com/song?id=1390601273",
+    "duration": "03:58",
+    "artists": [
+      { "name": "Ray Volpe", "link": "https://music.163.com/artist?id=758154" }
+    ],
+    "album": {
+      "name": "Memories Of You",
+      "link": "https://music.163.com/album?id=81606984"
+    }
+  },
+  {
+    "name": "深深深几许",
+    "link": "https://music.163.com/song?id=1461633520",
+    "duration": "03:40",
+    "artists": [
+      {
+        "name": "国风物语",
+        "link": "https://music.163.com/artist?id=35517812"
+      },
+      {
+        "name": "满汉女神",
+        "link": "https://music.163.com/artist?id=12109145"
+      },
+      { "name": "国风堂", "link": "https://music.163.com/artist?id=31862479" }
+    ],
+    "album": {
+      "name": "深深深几许",
+      "link": "https://music.163.com/album?id=92203614"
+    }
+  }
+]

@@ -1,0 +1,437 @@
+[
+  {
+    "name": "Do It Yourself",
+    "link": "https://music.163.com/song?id=1353001850",
+    "duration": "02:49",
+    "artists": [
+      { "name": "Ilira", "link": "https://music.163.com/artist?id=847380" }
+    ],
+    "album": {
+      "name": "Do It Yourself",
+      "link": "https://music.163.com/album?id=75906720"
+    }
+  },
+  {
+    "name": "Off Limits",
+    "link": "https://music.163.com/song?id=1330292022",
+    "duration": "02:39",
+    "artists": [
+      { "name": "BAYNK", "link": "https://music.163.com/artist?id=12096025" },
+      { "name": "GLADES", "link": "https://music.163.com/artist?id=1156401" }
+    ],
+    "album": {
+      "name": "Off Limits",
+      "link": "https://music.163.com/album?id=74715668"
+    }
+  },
+  {
+    "name": "Shattered (feat. RUNN)",
+    "link": "https://music.163.com/song?id=1396158063",
+    "duration": "04:12",
+    "artists": [
+      { "name": "MitiS", "link": "https://music.163.com/artist?id=40245" },
+      { "name": "Runn", "link": "https://music.163.com/artist?id=15237536" }
+    ],
+    "album": {
+      "name": "Shattered EP",
+      "link": "https://music.163.com/album?id=82295940"
+    }
+  },
+  {
+    "name": "Holding On",
+    "link": "https://music.163.com/song?id=1415581032",
+    "duration": "03:37",
+    "artists": [
+      { "name": "Dabin", "link": "https://music.163.com/artist?id=783446" },
+      { "name": "Lowell", "link": "https://music.163.com/artist?id=434720" }
+    ],
+    "album": {
+      "name": "Holding On",
+      "link": "https://music.163.com/album?id=84880935"
+    }
+  },
+  {
+    "name": "I Wish I Never Met You",
+    "link": "https://music.163.com/song?id=1403597982",
+    "duration": "02:59",
+    "artists": [
+      { "name": "Oh Wonder", "link": "https://music.163.com/artist?id=1050128" }
+    ],
+    "album": {
+      "name": "No One Else Can Wear Your Crown",
+      "link": "https://music.163.com/album?id=85538401"
+    }
+  },
+  {
+    "name": "Finally // beautiful stranger",
+    "link": "https://music.163.com/song?id=1407950282",
+    "duration": "03:41",
+    "artists": [
+      { "name": "Halsey", "link": "https://music.163.com/artist?id=964321" }
+    ],
+    "album": {
+      "name": "Manic",
+      "link": "https://music.163.com/album?id=85020251"
+    }
+  },
+  {
+    "name": "No More I Sleep (Disco Citizens Rockin' Mix)",
+    "link": "https://music.163.com/song?id=30355984",
+    "duration": "04:41",
+    "artists": [
+      { "name": "Chicane", "link": "https://music.163.com/artist?id=50971" },
+      { "name": "Senadee", "link": "https://music.163.com/artist?id=193224" }
+    ],
+    "album": {
+      "name": "The Sum Of Its Parts",
+      "link": "https://music.163.com/album?id=3095168"
+    }
+  },
+  {
+    "name": "Deep Down",
+    "link": "https://music.163.com/song?id=1351913687",
+    "duration": "02:49",
+    "artists": [
+      {
+        "name": "Johnny Orlando",
+        "link": "https://music.163.com/artist?id=590458"
+      }
+    ],
+    "album": {
+      "name": "Teenage Fever",
+      "link": "https://music.163.com/album?id=75848224"
+    }
+  },
+  {
+    "name": "Please Don’t Touch",
+    "link": "https://music.163.com/song?id=1409277284",
+    "duration": "03:38",
+    "artists": [
+      { "name": "Raye", "link": "https://music.163.com/artist?id=1077053" }
+    ],
+    "album": {
+      "name": "Please Don’t Touch",
+      "link": "https://music.163.com/album?id=84068551"
+    }
+  },
+  {
+    "name": "Silver Lining",
+    "link": "https://music.163.com/song?id=1377450766",
+    "duration": "02:16",
+    "artists": [
+      { "name": "Wallaby", "link": "https://music.163.com/artist?id=12086070" },
+      {
+        "name": "Ellie May",
+        "link": "https://music.163.com/artist?id=32943397"
+      }
+    ],
+    "album": {
+      "name": "Silver Lining",
+      "link": "https://music.163.com/album?id=80352895"
+    }
+  },
+  {
+    "name": "What’s Done Is Done",
+    "link": "https://music.163.com/song?id=1433425152",
+    "duration": "04:50",
+    "artists": [
+      {
+        "name": "Seven Lions",
+        "link": "https://music.163.com/artist?id=44204"
+      },
+      { "name": "HALIENE", "link": "https://music.163.com/artist?id=13202710" }
+    ],
+    "album": {
+      "name": "Find Another Way",
+      "link": "https://music.163.com/album?id=86776607"
+    }
+  },
+  {
+    "name": "On A Roll",
+    "link": "https://music.163.com/song?id=1371721991",
+    "duration": "02:34",
+    "artists": [
+      { "name": "Ashley O", "link": "https://music.163.com/artist?id=32533250" }
+    ],
+    "album": {
+      "name": "On A Roll",
+      "link": "https://music.163.com/album?id=79787993"
+    }
+  },
+  {
+    "name": "Sun In Our Eyes",
+    "link": "https://music.163.com/song?id=865895558",
+    "duration": "03:37",
+    "artists": [
+      { "name": "MØ", "link": "https://music.163.com/artist?id=783150" },
+      { "name": "Diplo", "link": "https://music.163.com/artist?id=31645" }
+    ],
+    "album": {
+      "name": "Sun In Our Eyes",
+      "link": "https://music.163.com/album?id=71801882"
+    }
+  },
+  {
+    "name": "How Will I Know",
+    "link": "https://music.163.com/song?id=1304602291",
+    "duration": "03:02",
+    "artists": [
+      {
+        "name": "Guestlist.",
+        "link": "https://music.163.com/artist?id=28308125"
+      }
+    ],
+    "album": {
+      "name": "How Will I Know",
+      "link": "https://music.163.com/album?id=72507064"
+    }
+  },
+  {
+    "name": "South Beach",
+    "link": "https://music.163.com/song?id=1316562828",
+    "duration": "03:21",
+    "artists": [
+      { "name": "Vicetone", "link": "https://music.163.com/artist?id=747030" }
+    ],
+    "album": {
+      "name": "South Beach",
+      "link": "https://music.163.com/album?id=73835820"
+    }
+  },
+  {
+    "name": "Roam",
+    "link": "https://music.163.com/song?id=431096594",
+    "duration": "03:47",
+    "artists": [
+      { "name": "Theia", "link": "https://music.163.com/artist?id=12121195" }
+    ],
+    "album": {
+      "name": "Roam",
+      "link": "https://music.163.com/album?id=34874646"
+    }
+  },
+  {
+    "name": "Try",
+    "link": "https://music.163.com/song?id=520525416",
+    "duration": "03:12",
+    "artists": [
+      {
+        "name": "Matt Terry",
+        "link": "https://music.163.com/artist?id=12214141"
+      }
+    ],
+    "album": {
+      "name": "Trouble",
+      "link": "https://music.163.com/album?id=36827686"
+    }
+  },
+  {
+    "name": "Should've Started",
+    "link": "https://music.163.com/song?id=533018652",
+    "duration": "03:46",
+    "artists": [
+      { "name": "Neovaii", "link": "https://music.163.com/artist?id=12356095" }
+    ],
+    "album": {
+      "name": "Onward",
+      "link": "https://music.163.com/album?id=37374496"
+    }
+  },
+  {
+    "name": "We Won't Be Alone (feat. Laura Brehm)",
+    "link": "https://music.163.com/song?id=34766078",
+    "duration": "03:54",
+    "artists": [
+      { "name": "Feint", "link": "https://music.163.com/artist?id=93062" },
+      {
+        "name": "Laura Brehm",
+        "link": "https://music.163.com/artist?id=207693"
+      }
+    ],
+    "album": {
+      "name": "We Won't Be Alone",
+      "link": "https://music.163.com/album?id=3295346"
+    }
+  },
+  {
+    "name": "Edge of the World",
+    "link": "https://music.163.com/song?id=1391314766",
+    "duration": "02:28",
+    "artists": [
+      {
+        "name": "DESERT STAR",
+        "link": "https://music.163.com/artist?id=31890379"
+      }
+    ],
+    "album": {
+      "name": "Edge of the World",
+      "link": "https://music.163.com/album?id=81684630"
+    }
+  },
+  {
+    "name": "What's Love",
+    "link": "https://music.163.com/song?id=1389925731",
+    "duration": "02:56",
+    "artists": [
+      { "name": "Conro", "link": "https://music.163.com/artist?id=1063229" }
+    ],
+    "album": {
+      "name": "What's Love",
+      "link": "https://music.163.com/album?id=81513301"
+    }
+  },
+  {
+    "name": "Blink",
+    "link": "https://music.163.com/song?id=435413210",
+    "duration": "03:56",
+    "artists": [
+      { "name": "FRANKIE", "link": "https://music.163.com/artist?id=1053086" }
+    ],
+    "album": {
+      "name": "Blink",
+      "link": "https://music.163.com/album?id=34900832"
+    }
+  },
+  {
+    "name": "Antidote",
+    "link": "https://music.163.com/song?id=533455454",
+    "duration": "04:30",
+    "artists": [
+      {
+        "name": "Sinner's Heist",
+        "link": "https://music.163.com/artist?id=12262174"
+      },
+      {
+        "name": "Heather Sommer",
+        "link": "https://music.163.com/artist?id=13134228"
+      },
+      {
+        "name": "Rory Alexzander",
+        "link": "https://music.163.com/artist?id=13159030"
+      }
+    ],
+    "album": {
+      "name": "Antidote",
+      "link": "https://music.163.com/album?id=37391371"
+    }
+  },
+  {
+    "name": "Naked Soul",
+    "link": "https://music.163.com/song?id=1357447061",
+    "duration": "03:59",
+    "artists": [
+      { "name": "Nurko", "link": "https://music.163.com/artist?id=11991089" },
+      { "name": "Cherney", "link": "https://music.163.com/artist?id=12047010" },
+      { "name": "Elle Vee", "link": "https://music.163.com/artist?id=1046258" }
+    ],
+    "album": {
+      "name": "Naked Soul",
+      "link": "https://music.163.com/album?id=78376123"
+    }
+  },
+  {
+    "name": "Hold Me Now",
+    "link": "https://music.163.com/song?id=427139291",
+    "duration": "04:16",
+    "artists": [
+      { "name": "Mike Wit", "link": "https://music.163.com/artist?id=1122050" }
+    ],
+    "album": {
+      "name": "Hold Me Now",
+      "link": "https://music.163.com/album?id=34839374"
+    }
+  },
+  {
+    "name": "Battlecry",
+    "link": "https://music.163.com/song?id=1398588957",
+    "duration": "04:00",
+    "artists": [
+      { "name": "Mazare", "link": "https://music.163.com/artist?id=29718513" },
+      {
+        "name": "Philip Strand",
+        "link": "https://music.163.com/artist?id=13210678"
+      }
+    ],
+    "album": {
+      "name": "Battlecry",
+      "link": "https://music.163.com/album?id=82641443"
+    }
+  },
+  {
+    "name": "Wake Up, You're Dreaming",
+    "link": "https://music.163.com/song?id=488641756",
+    "duration": "04:18",
+    "artists": [
+      { "name": "Notaker", "link": "https://music.163.com/artist?id=12035151" }
+    ],
+    "album": {
+      "name": "Rocket League x Monstercat Vol. 1",
+      "link": "https://music.163.com/album?id=35644274"
+    }
+  },
+  {
+    "name": "Sing To Me",
+    "link": "https://music.163.com/song?id=1401686731",
+    "duration": "03:09",
+    "artists": [
+      { "name": "Missio", "link": "https://music.163.com/artist?id=1038292" },
+      {
+        "name": "Death Stranding: Timefall",
+        "link": "https://music.163.com/artist?id=33505479"
+      }
+    ],
+    "album": {
+      "name": "DEATH STRANDING: Timefall (Original Music from the World of Death Stranding)",
+      "link": "https://music.163.com/album?id=83080815"
+    }
+  },
+  {
+    "name": "Miss You 2",
+    "link": "https://music.163.com/song?id=1407909532",
+    "duration": "03:16",
+    "artists": [
+      {
+        "name": "Gabrielle Aplin",
+        "link": "https://music.163.com/artist?id=59169"
+      },
+      {
+        "name": "Nina Nesbitt",
+        "link": "https://music.163.com/artist?id=70292"
+      }
+    ],
+    "album": {
+      "name": "Miss You 2",
+      "link": "https://music.163.com/album?id=83927472"
+    }
+  },
+  {
+    "name": "KMS",
+    "link": "https://music.163.com/song?id=1429856441",
+    "duration": "02:40",
+    "artists": [
+      {
+        "name": "Sub Urban",
+        "link": "https://music.163.com/artist?id=29722383"
+      }
+    ],
+    "album": {
+      "name": "Thrill Seeker",
+      "link": "https://music.163.com/album?id=86393157"
+    }
+  },
+  {
+    "name": "Jesus Christ",
+    "link": "https://music.163.com/song?id=521415529",
+    "duration": "04:46",
+    "artists": [
+      {
+        "name": "Luna Shadows",
+        "link": "https://music.163.com/artist?id=12000103"
+      }
+    ],
+    "album": {
+      "name": "Jesus Christ",
+      "link": "https://music.163.com/album?id=36873143"
+    }
+  }
+]

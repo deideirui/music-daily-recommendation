@@ -1,0 +1,443 @@
+[
+  {
+    "name": "Your Way",
+    "link": "https://music.163.com/song?id=1345673141",
+    "duration": "04:26",
+    "artists": [
+      { "name": "Jai Wolf", "link": "https://music.163.com/artist?id=1063048" },
+      { "name": "Day Wave", "link": "https://music.163.com/artist?id=1074058" }
+    ],
+    "album": {
+      "name": "The Cure To Loneliness",
+      "link": "https://music.163.com/album?id=78300643"
+    }
+  },
+  {
+    "name": "One Night",
+    "link": "https://music.163.com/song?id=1344292306",
+    "duration": "03:35",
+    "artists": [
+      { "name": "LeBrock", "link": "https://music.163.com/artist?id=13970913" }
+    ],
+    "album": {
+      "name": "Action & Romance (Remastered)",
+      "link": "https://music.163.com/album?id=75462144"
+    }
+  },
+  {
+    "name": "The Beginning",
+    "link": "https://music.163.com/song?id=573004928",
+    "duration": "03:25",
+    "artists": [
+      {
+        "name": "Richie Krisak",
+        "link": "https://music.163.com/artist?id=14440964"
+      },
+      {
+        "name": "Emelie Cyréus",
+        "link": "https://music.163.com/artist?id=13312243"
+      }
+    ],
+    "album": {
+      "name": "The Beginning",
+      "link": "https://music.163.com/album?id=39675368"
+    }
+  },
+  {
+    "name": "Monsters",
+    "link": "https://music.163.com/song?id=1460319076",
+    "duration": "03:17",
+    "artists": [
+      {
+        "name": "The Midnight",
+        "link": "https://music.163.com/artist?id=12023492"
+      },
+      {
+        "name": "Jupiter Winter",
+        "link": "https://music.163.com/artist?id=35823452"
+      }
+    ],
+    "album": {
+      "name": "Monsters",
+      "link": "https://music.163.com/album?id=91949236"
+    }
+  },
+  {
+    "name": "Nightfall",
+    "link": "https://music.163.com/song?id=528273380",
+    "duration": "04:17",
+    "artists": [
+      {
+        "name": "Luka Krajina",
+        "link": "https://music.163.com/artist?id=1149130"
+      }
+    ],
+    "album": {
+      "name": "Nightfall",
+      "link": "https://music.163.com/album?id=37176140"
+    }
+  },
+  {
+    "name": "Tornado",
+    "link": "https://music.163.com/song?id=1358393929",
+    "duration": "03:09",
+    "artists": [
+      { "name": "Trivecta", "link": "https://music.163.com/artist?id=954338" },
+      {
+        "name": "Monika Santucci",
+        "link": "https://music.163.com/artist?id=13989763"
+      }
+    ],
+    "album": {
+      "name": "Tornado",
+      "link": "https://music.163.com/album?id=78490537"
+    }
+  },
+  {
+    "name": "All My Friends",
+    "link": "https://music.163.com/song?id=1368205168",
+    "duration": "03:24",
+    "artists": [
+      { "name": "Madeon", "link": "https://music.163.com/artist?id=40280" }
+    ],
+    "album": {
+      "name": "All My Friends",
+      "link": "https://music.163.com/album?id=79442407"
+    }
+  },
+  {
+    "name": "Playing Through",
+    "link": "https://music.163.com/song?id=545276861",
+    "duration": "02:23",
+    "artists": [
+      { "name": "X-Ray Dog", "link": "https://music.163.com/artist?id=105618" }
+    ],
+    "album": {
+      "name": "Boxer",
+      "link": "https://music.163.com/album?id=37924307"
+    }
+  },
+  {
+    "name": "Children (Eat Me Edit)",
+    "link": "https://music.163.com/song?id=5086070",
+    "duration": "04:05",
+    "artists": [
+      {
+        "name": "Robert Miles",
+        "link": "https://music.163.com/artist?id=41957"
+      }
+    ],
+    "album": {
+      "name": "Into The Deep Vol.02",
+      "link": "https://music.163.com/album?id=503391"
+    }
+  },
+  {
+    "name": "Farewell Forever (Original Mix)",
+    "link": "https://music.163.com/song?id=489997842",
+    "duration": "09:27",
+    "artists": [
+      { "name": "Etasonic", "link": "https://music.163.com/artist?id=777274" }
+    ],
+    "album": {
+      "name": "Farewell Forever",
+      "link": "https://music.163.com/album?id=35745211"
+    }
+  },
+  {
+    "name": "Sword of the Seas",
+    "link": "https://music.163.com/song?id=408055223",
+    "duration": "04:18",
+    "artists": [
+      {
+        "name": "Marcus Warner",
+        "link": "https://music.163.com/artist?id=1046308"
+      }
+    ],
+    "album": {
+      "name": "Grand Flying Machines",
+      "link": "https://music.163.com/album?id=34589313"
+    }
+  },
+  {
+    "name": "All of You",
+    "link": "https://music.163.com/song?id=1324035458",
+    "duration": "03:25",
+    "artists": [
+      {
+        "name": "Prince paris",
+        "link": "https://music.163.com/artist?id=574147"
+      },
+      {
+        "name": "Beau Collins",
+        "link": "https://music.163.com/artist?id=12192231"
+      }
+    ],
+    "album": {
+      "name": "All of You",
+      "link": "https://music.163.com/album?id=74323065"
+    }
+  },
+  {
+    "name": "Planes (Score)",
+    "link": "https://music.163.com/song?id=27566150",
+    "duration": "02:33",
+    "artists": [
+      {
+        "name": "Mark Mancina",
+        "link": "https://music.163.com/artist?id=39909"
+      }
+    ],
+    "album": {
+      "name": "Planes (Original Motion Picture Soundtrack)",
+      "link": "https://music.163.com/album?id=2639146"
+    }
+  },
+  {
+    "name": "This I Vow",
+    "link": "https://music.163.com/song?id=1436384922",
+    "duration": "03:40",
+    "artists": [
+      {
+        "name": "Armin van Buuren",
+        "link": "https://music.163.com/artist?id=27621"
+      },
+      { "name": "MaRLo", "link": "https://music.163.com/artist?id=150599" },
+      {
+        "name": "Mila Josef",
+        "link": "https://music.163.com/artist?id=34698062"
+      }
+    ],
+    "album": {
+      "name": "This I Vow",
+      "link": "https://music.163.com/album?id=87320807"
+    }
+  },
+  {
+    "name": "Thy Word",
+    "link": "https://music.163.com/song?id=4252270",
+    "duration": "03:00",
+    "artists": [
+      {
+        "name": "Praise Baby Collection",
+        "link": "https://music.163.com/artist?id=98913"
+      }
+    ],
+    "album": {
+      "name": "Praises And Smiles",
+      "link": "https://music.163.com/album?id=429844"
+    }
+  },
+  {
+    "name": "Miss You (Original Mix)",
+    "link": "https://music.163.com/song?id=403136410",
+    "duration": "07:39",
+    "artists": [
+      { "name": "RAM", "link": "https://music.163.com/artist?id=73231" },
+      { "name": "Kim Kiona", "link": "https://music.163.com/artist?id=1078281" }
+    ],
+    "album": {
+      "name": "Miss You",
+      "link": "https://music.163.com/album?id=34477459"
+    }
+  },
+  {
+    "name": "Tremble (Original Mix)",
+    "link": "https://music.163.com/song?id=27553170",
+    "duration": "05:53",
+    "artists": [
+      { "name": "Vicetone", "link": "https://music.163.com/artist?id=747030" }
+    ],
+    "album": {
+      "name": "Tremble",
+      "link": "https://music.163.com/album?id=2631835"
+    }
+  },
+  {
+    "name": "Fireisland",
+    "link": "https://music.163.com/song?id=21617145",
+    "duration": "06:26",
+    "artists": [
+      { "name": "Solarstone", "link": "https://music.163.com/artist?id=44234" },
+      { "name": "Aly & Fila", "link": "https://music.163.com/artist?id=86717" }
+    ],
+    "album": {
+      "name": "Pure",
+      "link": "https://music.163.com/album?id=1991494"
+    }
+  },
+  {
+    "name": "Erytheia (Original Mix)",
+    "link": "https://music.163.com/song?id=458238461",
+    "duration": "06:36",
+    "artists": [
+      {
+        "name": "Simon O'Shine",
+        "link": "https://music.163.com/artist?id=207035"
+      },
+      {
+        "name": "Ahmed Romel",
+        "link": "https://music.163.com/artist?id=191841"
+      }
+    ],
+    "album": {
+      "name": "Erytheia",
+      "link": "https://music.163.com/album?id=35158377"
+    }
+  },
+  {
+    "name": "Fiona Coyne",
+    "link": "https://music.163.com/song?id=28911956",
+    "duration": "04:04",
+    "artists": [
+      {
+        "name": "Skylar Spence",
+        "link": "https://music.163.com/artist?id=725498"
+      }
+    ],
+    "album": {
+      "name": "Fiona Coyne / Fall Harder",
+      "link": "https://music.163.com/album?id=2922771"
+    }
+  },
+  {
+    "name": "Last Call",
+    "link": "https://music.163.com/song?id=1380834060",
+    "duration": "03:17",
+    "artists": [
+      {
+        "name": "Adib Sin",
+        "link": "https://music.163.com/artist?id=12244027"
+      },
+      { "name": "Redza", "link": "https://music.163.com/artist?id=1132960" },
+      { "name": "Eliorkid", "link": "https://music.163.com/artist?id=32865897" }
+    ],
+    "album": {
+      "name": "Last Call",
+      "link": "https://music.163.com/album?id=80657791"
+    }
+  },
+  {
+    "name": "Rising",
+    "link": "https://music.163.com/song?id=1457928511",
+    "duration": "02:51",
+    "artists": [
+      { "name": "Duskus", "link": "https://music.163.com/artist?id=1045080" }
+    ],
+    "album": {
+      "name": "Rising",
+      "link": "https://music.163.com/album?id=91475395"
+    }
+  },
+  {
+    "name": "Motion Picture (Album Version)",
+    "link": "https://music.163.com/song?id=17404254",
+    "duration": "04:34",
+    "artists": [
+      { "name": "Dinka", "link": "https://music.163.com/artist?id=55403" }
+    ],
+    "album": {
+      "name": "Tales of the Sun",
+      "link": "https://music.163.com/album?id=1603523"
+    }
+  },
+  {
+    "name": "Anahera",
+    "link": "https://music.163.com/song?id=436487635",
+    "duration": "04:30",
+    "artists": [
+      {
+        "name": "Ferry Corsten",
+        "link": "https://music.163.com/artist?id=33395"
+      },
+      { "name": "Gouryella", "link": "https://music.163.com/artist?id=129615" }
+    ],
+    "album": {
+      "name": "A State Of Trance - 15 Years",
+      "link": "https://music.163.com/album?id=34923062"
+    }
+  },
+  {
+    "name": "Born in Dance Floor",
+    "link": "https://music.163.com/song?id=1496973883",
+    "duration": "03:24",
+    "artists": [
+      {
+        "name": "Moony \"Basquiat\"",
+        "link": "https://music.163.com/artist?id=12140408"
+      }
+    ],
+    "album": {
+      "name": "Born in Dance Floor",
+      "link": "https://music.163.com/album?id=98522105"
+    }
+  },
+  {
+    "name": "One Day",
+    "link": "https://music.163.com/song?id=21157332",
+    "duration": "03:26",
+    "artists": [
+      { "name": "Matisyahu", "link": "https://music.163.com/artist?id=38945" }
+    ],
+    "album": {
+      "name": "One Day",
+      "link": "https://music.163.com/album?id=1956474"
+    }
+  },
+  {
+    "name": "The Thinking Spot (Denis Neve Remix) ",
+    "link": "https://music.163.com/song?id=406072104",
+    "duration": "05:29",
+    "artists": [
+      { "name": "Intrinity", "link": "https://music.163.com/artist?id=711647" },
+      { "name": "Denis Neve", "link": "https://music.163.com/artist?id=858447" }
+    ],
+    "album": {
+      "name": "The Thinking Spot",
+      "link": "https://music.163.com/album?id=34527616"
+    }
+  },
+  {
+    "name": "LEAVE II",
+    "link": "https://music.163.com/song?id=479938154",
+    "duration": "04:48",
+    "artists": [
+      { "name": "Synx", "link": "https://music.163.com/artist?id=1061017" }
+    ],
+    "album": {
+      "name": "LEAVE II",
+      "link": "https://music.163.com/album?id=35544343"
+    }
+  },
+  {
+    "name": "Silent Skies",
+    "link": "https://music.163.com/song?id=486814261",
+    "duration": "04:06",
+    "artists": [
+      {
+        "name": "Seven Lions",
+        "link": "https://music.163.com/artist?id=44204"
+      },
+      { "name": "Karra", "link": "https://music.163.com/artist?id=1081582" }
+    ],
+    "album": {
+      "name": "Where I Won’t Be Found",
+      "link": "https://music.163.com/album?id=35578313"
+    }
+  },
+  {
+    "name": "The Train From Novi Sad (Original Mix)",
+    "link": "https://music.163.com/song?id=405612251",
+    "duration": "06:11",
+    "artists": [
+      {
+        "name": "Andrew Lang",
+        "link": "https://music.163.com/artist?id=745028"
+      }
+    ],
+    "album": {
+      "name": "Reflecting",
+      "link": "https://music.163.com/album?id=34515444"
+    }
+  }
+]

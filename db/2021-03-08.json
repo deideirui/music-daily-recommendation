@@ -1,0 +1,458 @@
+[
+  {
+    "name": "Dying Day (feat. Prettyheartbreak)",
+    "link": "https://music.163.com/song?id=1381082568",
+    "duration": "03:08",
+    "artists": [
+      {
+        "name": "William Black",
+        "link": "https://music.163.com/artist?id=248957"
+      },
+      {
+        "name": "Prettyheartbreak",
+        "link": "https://music.163.com/artist?id=13878660"
+      }
+    ],
+    "album": {
+      "name": "Pages",
+      "link": "https://music.163.com/album?id=80685180"
+    }
+  },
+  {
+    "name": "Agilité",
+    "link": "https://music.163.com/song?id=1348239321",
+    "duration": "02:57",
+    "artists": [
+      {
+        "name": "The Darkmaker",
+        "link": "https://music.163.com/artist?id=31492299"
+      }
+    ],
+    "album": {
+      "name": "Agilité",
+      "link": "https://music.163.com/album?id=75679763"
+    }
+  },
+  {
+    "name": "Silhouette",
+    "link": "https://music.163.com/song?id=1398764652",
+    "duration": "03:28",
+    "artists": [
+      { "name": "Bvrnout", "link": "https://music.163.com/artist?id=12046065" },
+      { "name": "AXYL", "link": "https://music.163.com/artist?id=31244261" }
+    ],
+    "album": {
+      "name": "Silhouette",
+      "link": "https://music.163.com/album?id=82671946"
+    }
+  },
+  {
+    "name": "Eclipse",
+    "link": "https://music.163.com/song?id=553815184",
+    "duration": "04:31",
+    "artists": [
+      { "name": "Burgess", "link": "https://music.163.com/artist?id=477655" },
+      { "name": "JESSIA", "link": "https://music.163.com/artist?id=15142184" }
+    ],
+    "album": {
+      "name": "Eclipse",
+      "link": "https://music.163.com/album?id=38403050"
+    }
+  },
+  {
+    "name": "Memories",
+    "link": "https://music.163.com/song?id=1376986505",
+    "duration": "03:59",
+    "artists": [
+      {
+        "name": "Eyad Farag",
+        "link": "https://music.163.com/artist?id=31973151"
+      }
+    ],
+    "album": {
+      "name": "Memories",
+      "link": "https://music.163.com/album?id=80304288"
+    }
+  },
+  {
+    "name": "Road So Far",
+    "link": "https://music.163.com/song?id=1407531823",
+    "duration": "02:56",
+    "artists": [
+      { "name": "TonyZ", "link": "https://music.163.com/artist?id=28345386" }
+    ],
+    "album": {
+      "name": "Road So Far (Orchestral Version)",
+      "link": "https://music.163.com/album?id=83874854"
+    }
+  },
+  {
+    "name": "Freehand",
+    "link": "https://music.163.com/song?id=517902798",
+    "duration": "03:09",
+    "artists": [
+      { "name": "Novo Amor", "link": "https://music.163.com/artist?id=904041" },
+      {
+        "name": "Ed Tullett",
+        "link": "https://music.163.com/artist?id=12863130"
+      }
+    ],
+    "album": {
+      "name": "Heiress",
+      "link": "https://music.163.com/album?id=36771113"
+    }
+  },
+  {
+    "name": "Back To U",
+    "link": "https://music.163.com/song?id=1442681212",
+    "duration": "03:34",
+    "artists": [
+      { "name": "SLANDER", "link": "https://music.163.com/artist?id=1137239" },
+      {
+        "name": "William Black",
+        "link": "https://music.163.com/artist?id=248957"
+      }
+    ],
+    "album": {
+      "name": "Back To U",
+      "link": "https://music.163.com/album?id=88388886"
+    }
+  },
+  {
+    "name": "Runaway",
+    "link": "https://music.163.com/song?id=521784134",
+    "duration": "03:38",
+    "artists": [
+      {
+        "name": "Sasha Sloan",
+        "link": "https://music.163.com/artist?id=12646102"
+      }
+    ],
+    "album": {
+      "name": "Runaway",
+      "link": "https://music.163.com/album?id=36871274"
+    }
+  },
+  {
+    "name": "Walking Trough The Rain",
+    "link": "https://music.163.com/song?id=420125422",
+    "duration": "07:12",
+    "artists": [
+      {
+        "name": "Jay Hifive",
+        "link": "https://music.163.com/artist?id=11978028"
+      }
+    ],
+    "album": {
+      "name": "Walking Trough The Rain",
+      "link": "https://music.163.com/album?id=34767434"
+    }
+  },
+  {
+    "name": "Reminescence",
+    "link": "https://music.163.com/song?id=504264377",
+    "duration": "04:12",
+    "artists": [
+      { "name": "Alivvve", "link": "https://music.163.com/artist?id=12468217" }
+    ],
+    "album": {
+      "name": "Reminescence",
+      "link": "https://music.163.com/album?id=36149125"
+    }
+  },
+  {
+    "name": "Embrace",
+    "link": "https://music.163.com/song?id=485354138",
+    "duration": "04:36",
+    "artists": [
+      {
+        "name": "Sappheiros",
+        "link": "https://music.163.com/artist?id=11995187"
+      }
+    ],
+    "album": {
+      "name": "Embrace",
+      "link": "https://music.163.com/album?id=35645354"
+    }
+  },
+  {
+    "name": "Alive",
+    "link": "https://music.163.com/song?id=1306346199",
+    "duration": "03:54",
+    "artists": [
+      {
+        "name": "Alan Morris",
+        "link": "https://music.163.com/artist?id=193174"
+      },
+      {
+        "name": "Daniel Garrick",
+        "link": "https://music.163.com/artist?id=1163065"
+      }
+    ],
+    "album": {
+      "name": "Alive",
+      "link": "https://music.163.com/album?id=72785723"
+    }
+  },
+  {
+    "name": "Beyond Horizons (Original Mix)",
+    "link": "https://music.163.com/song?id=26775244",
+    "duration": "08:22",
+    "artists": [
+      {
+        "name": "Luigi Lusini",
+        "link": "https://music.163.com/artist?id=38282"
+      }
+    ],
+    "album": {
+      "name": "Global DJ Broadcast Top 20 - May 2012",
+      "link": "https://music.163.com/album?id=2553650"
+    }
+  },
+  {
+    "name": "LOVE ME HARD",
+    "link": "https://music.163.com/song?id=1419165577",
+    "duration": "03:38",
+    "artists": [
+      {
+        "name": "Elley Duhé",
+        "link": "https://music.163.com/artist?id=12207014"
+      }
+    ],
+    "album": {
+      "name": "LOVE ME HARD",
+      "link": "https://music.163.com/album?id=85244304"
+    }
+  },
+  {
+    "name": "Somebody That I Used To Know",
+    "link": "https://music.163.com/song?id=17939827",
+    "duration": "04:04",
+    "artists": [
+      { "name": "Gotye", "link": "https://music.163.com/artist?id=34376" },
+      { "name": "Kimbra", "link": "https://music.163.com/artist?id=64036" }
+    ],
+    "album": {
+      "name": "Making Mirrors",
+      "link": "https://music.163.com/album?id=1649702"
+    }
+  },
+  {
+    "name": "Where'd You Go (Original Mix)",
+    "link": "https://music.163.com/song?id=1323042714",
+    "duration": "04:00",
+    "artists": [
+      { "name": "CMA", "link": "https://music.163.com/artist?id=300739" }
+    ],
+    "album": {
+      "name": "Where'd You Go (Original Mix)",
+      "link": "https://music.163.com/album?id=74249395"
+    }
+  },
+  {
+    "name": "Let Her Go",
+    "link": "https://music.163.com/song?id=27846862",
+    "duration": "02:52",
+    "artists": [
+      {
+        "name": "Jasmine Thompson",
+        "link": "https://music.163.com/artist?id=863042"
+      }
+    ],
+    "album": {
+      "name": "Bundle of Tantrums",
+      "link": "https://music.163.com/album?id=2684938"
+    }
+  },
+  {
+    "name": "Beautiful",
+    "link": "https://music.163.com/song?id=1491103940",
+    "duration": "02:07",
+    "artists": [
+      {
+        "name": "Interval 941",
+        "link": "https://music.163.com/artist?id=13222420"
+      }
+    ],
+    "album": {
+      "name": "Cover Songs",
+      "link": "https://music.163.com/album?id=97575986"
+    }
+  },
+  {
+    "name": "Here With You",
+    "link": "https://music.163.com/song?id=27583305",
+    "duration": "03:45",
+    "artists": [
+      {
+        "name": "Asher Monroe",
+        "link": "https://music.163.com/artist?id=28727"
+      }
+    ],
+    "album": {
+      "name": "Here With You",
+      "link": "https://music.163.com/album?id=2641180"
+    }
+  },
+  {
+    "name": "Looking For America",
+    "link": "https://music.163.com/song?id=1383131802",
+    "duration": "02:42",
+    "artists": [
+      {
+        "name": "Lana Del Rey",
+        "link": "https://music.163.com/artist?id=66212"
+      }
+    ],
+    "album": {
+      "name": "Looking For America",
+      "link": "https://music.163.com/album?id=80863028"
+    }
+  },
+  {
+    "name": "Chernobyl 2017",
+    "link": "https://music.163.com/song?id=445664021",
+    "duration": "03:16",
+    "artists": [
+      {
+        "name": "Meland X Hauken",
+        "link": "https://music.163.com/artist?id=12047913"
+      }
+    ],
+    "album": {
+      "name": "Chernobyl 2017",
+      "link": "https://music.163.com/album?id=35041016"
+    }
+  },
+  {
+    "name": "Perfect Ed Sheeran Beyoncé",
+    "link": "https://music.163.com/song?id=1294978740",
+    "duration": "04:17",
+    "artists": [
+      {
+        "name": "Boyce Avenue",
+        "link": "https://music.163.com/artist?id=29709"
+      }
+    ],
+    "album": {
+      "name": "Perfect Ed Sheeran Beyoncé",
+      "link": "https://music.163.com/album?id=71909762"
+    }
+  },
+  {
+    "name": "Tomorrow",
+    "link": "https://music.163.com/song?id=18449216",
+    "duration": "03:19",
+    "artists": [
+      {
+        "name": "Rosie Thomas",
+        "link": "https://music.163.com/artist?id=41926"
+      }
+    ],
+    "album": {
+      "name": "If Songs Could Be Held",
+      "link": "https://music.163.com/album?id=1690933"
+    }
+  },
+  {
+    "name": "Love Drunk",
+    "link": "https://music.163.com/song?id=444524933",
+    "duration": "03:46",
+    "artists": [
+      { "name": "Gazzo", "link": "https://music.163.com/artist?id=565266" },
+      {
+        "name": "Matt McAndrew",
+        "link": "https://music.163.com/artist?id=1024363"
+      }
+    ],
+    "album": {
+      "name": "The Evolution",
+      "link": "https://music.163.com/album?id=35023685"
+    }
+  },
+  {
+    "name": "Stay for a While",
+    "link": "https://music.163.com/song?id=473873551",
+    "duration": "04:04",
+    "artists": [
+      {
+        "name": "Peter Bradley Adams",
+        "link": "https://music.163.com/artist?id=41166"
+      }
+    ],
+    "album": {
+      "name": "A Face Like Mine",
+      "link": "https://music.163.com/album?id=35377348"
+    }
+  },
+  {
+    "name": "Time Decides",
+    "link": "https://music.163.com/song?id=27946702",
+    "duration": "03:46",
+    "artists": [
+      { "name": "Trent Dabbs", "link": "https://music.163.com/artist?id=45163" }
+    ],
+    "album": {
+      "name": "The Way We Look at Horses",
+      "link": "https://music.163.com/album?id=2698138"
+    }
+  },
+  {
+    "name": "Loving Strangers",
+    "link": "https://music.163.com/song?id=2788529",
+    "duration": "03:59",
+    "artists": [
+      {
+        "name": "Jocelyn Pook",
+        "link": "https://music.163.com/artist?id=61082"
+      },
+      { "name": "Russian Red", "link": "https://music.163.com/artist?id=72726" }
+    ],
+    "album": {
+      "name": "Habitación En Roma",
+      "link": "https://music.163.com/album?id=281067"
+    }
+  },
+  {
+    "name": "...Love",
+    "link": "https://music.163.com/song?id=479408191",
+    "duration": "04:39",
+    "artists": [
+      { "name": "Shallou", "link": "https://music.163.com/artist?id=12029377" }
+    ],
+    "album": {
+      "name": "All Becomes Okay",
+      "link": "https://music.163.com/album?id=35544021"
+    }
+  },
+  {
+    "name": "Time Flies By (Original Mix)",
+    "link": "https://music.163.com/song?id=35778200",
+    "duration": "07:14",
+    "artists": [
+      {
+        "name": "Roald Velden",
+        "link": "https://music.163.com/artist?id=178498"
+      }
+    ],
+    "album": {
+      "name": "Time Flies By",
+      "link": "https://music.163.com/album?id=3369037"
+    }
+  },
+  {
+    "name": "Sorry",
+    "link": "https://music.163.com/song?id=1825132294",
+    "duration": "03:20",
+    "artists": [
+      {
+        "name": "Justin Bieber",
+        "link": "https://music.163.com/artist?id=35531"
+      }
+    ],
+    "album": {
+      "name": "Twenty-Tens Pop",
+      "link": "https://music.163.com/album?id=123938580"
+    }
+  }
+]

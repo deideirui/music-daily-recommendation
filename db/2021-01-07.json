@@ -1,0 +1,466 @@
+[
+  {
+    "name": "Runaway",
+    "link": "https://music.163.com/song?id=1486435682",
+    "duration": "02:45",
+    "artists": [
+      {
+        "name": "Sick Individuals",
+        "link": "https://music.163.com/artist?id=379612"
+      },
+      { "name": "Vigel", "link": "https://music.163.com/artist?id=334251" },
+      {
+        "name": "Nazzereene",
+        "link": "https://music.163.com/artist?id=32513137"
+      }
+    ],
+    "album": {
+      "name": "Runaway",
+      "link": "https://music.163.com/album?id=96669606"
+    }
+  },
+  {
+    "name": "Cloned",
+    "link": "https://music.163.com/song?id=862694290",
+    "duration": "04:20",
+    "artists": [
+      {
+        "name": "GrunJ idle",
+        "link": "https://music.163.com/artist?id=13977801"
+      }
+    ],
+    "album": {
+      "name": "Cloned",
+      "link": "https://music.163.com/album?id=71666561"
+    }
+  },
+  {
+    "name": "Hypnotise",
+    "link": "https://music.163.com/song?id=411237001",
+    "duration": "03:19",
+    "artists": [
+      { "name": "Polarheart", "link": "https://music.163.com/artist?id=964307" }
+    ],
+    "album": {
+      "name": "Hypnotise",
+      "link": "https://music.163.com/album?id=34678182"
+    }
+  },
+  {
+    "name": "Fade (Full Version)",
+    "link": "https://music.163.com/song?id=429769654",
+    "duration": "03:34",
+    "artists": [
+      { "name": "Andreas B.", "link": "https://music.163.com/artist?id=299713" }
+    ],
+    "album": {
+      "name": "Fade (Full Version)",
+      "link": "https://music.163.com/album?id=34874178"
+    }
+  },
+  {
+    "name": "Next Level",
+    "link": "https://music.163.com/song?id=1410537430",
+    "duration": "03:21",
+    "artists": [
+      {
+        "name": "Conor Ross",
+        "link": "https://music.163.com/artist?id=13128139"
+      }
+    ],
+    "album": {
+      "name": "Next Level",
+      "link": "https://music.163.com/album?id=84203601"
+    }
+  },
+  {
+    "name": "Release (Radio Edit)",
+    "link": "https://music.163.com/song?id=36872090",
+    "duration": "03:58",
+    "artists": [
+      {
+        "name": "Atmozfears",
+        "link": "https://music.163.com/artist?id=753086"
+      },
+      {
+        "name": "David Spekter",
+        "link": "https://music.163.com/artist?id=14642456"
+      }
+    ],
+    "album": {
+      "name": "Release",
+      "link": "https://music.163.com/album?id=3409136"
+    }
+  },
+  {
+    "name": "Magic",
+    "link": "https://music.163.com/song?id=1387392286",
+    "duration": "03:52",
+    "artists": [
+      { "name": "ThimLife", "link": "https://music.163.com/artist?id=1046016" },
+      { "name": "Tomsis", "link": "https://music.163.com/artist?id=33118901" }
+    ],
+    "album": {
+      "name": "Magic",
+      "link": "https://music.163.com/album?id=81228507"
+    }
+  },
+  {
+    "name": "The Solution",
+    "link": "https://music.163.com/song?id=1323468287",
+    "duration": "03:15",
+    "artists": [
+      {
+        "name": "Phuture Noize",
+        "link": "https://music.163.com/artist?id=808091"
+      },
+      { "name": "B-Front", "link": "https://music.163.com/artist?id=711625" }
+    ],
+    "album": {
+      "name": "The Solution",
+      "link": "https://music.163.com/album?id=74279712"
+    }
+  },
+  {
+    "name": "Never Gonna Give You Up",
+    "link": "https://music.163.com/song?id=1408650149",
+    "duration": "03:18",
+    "artists": [
+      { "name": "TripL", "link": "https://music.163.com/artist?id=11972070" }
+    ],
+    "album": {
+      "name": "Never Gonna Give You Up",
+      "link": "https://music.163.com/album?id=83992104"
+    }
+  },
+  {
+    "name": "Duality",
+    "link": "https://music.163.com/song?id=573521415",
+    "duration": "03:56",
+    "artists": [
+      {
+        "name": "Nicky Romero",
+        "link": "https://music.163.com/artist?id=195142"
+      }
+    ],
+    "album": {
+      "name": "Duality",
+      "link": "https://music.163.com/album?id=39714000"
+    }
+  },
+  {
+    "name": "Back In Time",
+    "link": "https://music.163.com/song?id=1385290135",
+    "duration": "02:54",
+    "artists": [
+      { "name": "Refuzion", "link": "https://music.163.com/artist?id=1081221" }
+    ],
+    "album": {
+      "name": "Back In Time",
+      "link": "https://music.163.com/album?id=81042637"
+    }
+  },
+  {
+    "name": "Feel Your Touch",
+    "link": "https://music.163.com/song?id=1421558586",
+    "duration": "02:48",
+    "artists": [
+      {
+        "name": "RetroVision",
+        "link": "https://music.163.com/artist?id=11976142"
+      }
+    ],
+    "album": {
+      "name": "Feel Your Touch",
+      "link": "https://music.163.com/album?id=85556328"
+    }
+  },
+  {
+    "name": "Of The Night",
+    "link": "https://music.163.com/song?id=27863196",
+    "duration": "03:34",
+    "artists": [
+      { "name": "Bastille", "link": "https://music.163.com/artist?id=89090" }
+    ],
+    "album": {
+      "name": "Of The Night",
+      "link": "https://music.163.com/album?id=2687295"
+    }
+  },
+  {
+    "name": "The One (Original Mix)",
+    "link": "https://music.163.com/song?id=32924533",
+    "duration": "04:02",
+    "artists": [
+      { "name": "W&W", "link": "https://music.163.com/artist?id=46131" }
+    ],
+    "album": {
+      "name": "The One",
+      "link": "https://music.163.com/album?id=3171717"
+    }
+  },
+  {
+    "name": "Bulletproof (DubVision Remix)",
+    "link": "https://music.163.com/song?id=407699875",
+    "duration": "04:45",
+    "artists": [
+      { "name": "NERVO", "link": "https://music.163.com/artist?id=97927" },
+      {
+        "name": "Harrison Miya",
+        "link": "https://music.163.com/artist?id=12024170"
+      },
+      { "name": "DubVision", "link": "https://music.163.com/artist?id=357950" }
+    ],
+    "album": {
+      "name": "Bulletproof (Remixes)",
+      "link": "https://music.163.com/album?id=34590119"
+    }
+  },
+  {
+    "name": "Pixel World (Original Mix)",
+    "link": "https://music.163.com/song?id=506462883",
+    "duration": "03:37",
+    "artists": [
+      { "name": "Clarv", "link": "https://music.163.com/artist?id=12107447" }
+    ],
+    "album": {
+      "name": "Pixel World",
+      "link": "https://music.163.com/album?id=36236344"
+    }
+  },
+  {
+    "name": "Love Me Wrong",
+    "link": "https://music.163.com/song?id=1402415971",
+    "duration": "03:12",
+    "artists": [
+      { "name": "Allie X", "link": "https://music.163.com/artist?id=973030" },
+      { "name": "Troye Sivan", "link": "https://music.163.com/artist?id=45129" }
+    ],
+    "album": {
+      "name": "Love Me Wrong",
+      "link": "https://music.163.com/album?id=83185651"
+    }
+  },
+  {
+    "name": "Sweater Weather",
+    "link": "https://music.163.com/song?id=26231595",
+    "duration": "04:00",
+    "artists": [
+      {
+        "name": "The Neighbourhood",
+        "link": "https://music.163.com/artist?id=104437"
+      }
+    ],
+    "album": {
+      "name": "I Love You.",
+      "link": "https://music.163.com/album?id=2429822"
+    }
+  },
+  {
+    "name": "Alps",
+    "link": "https://music.163.com/song?id=412175309",
+    "duration": "03:14",
+    "artists": [
+      { "name": "Novo Amor", "link": "https://music.163.com/artist?id=904041" },
+      {
+        "name": "Ed Tullett",
+        "link": "https://music.163.com/artist?id=12863130"
+      }
+    ],
+    "album": {
+      "name": "Alps",
+      "link": "https://music.163.com/album?id=34685770"
+    }
+  },
+  {
+    "name": "Romantic Ibiza",
+    "link": "https://music.163.com/song?id=27796283",
+    "duration": "10:11",
+    "artists": [
+      {
+        "name": "Dennis O'Neill",
+        "link": "https://music.163.com/artist?id=249283"
+      }
+    ],
+    "album": {
+      "name": "Die Heilkraft der Meere",
+      "link": "https://music.163.com/album?id=2678125"
+    }
+  },
+  {
+    "name": "My Favourite Game",
+    "link": "https://music.163.com/song?id=1347529493",
+    "duration": "03:18",
+    "artists": [
+      {
+        "name": "Arctic Lake",
+        "link": "https://music.163.com/artist?id=1063197"
+      }
+    ],
+    "album": {
+      "name": "My Favourite Game",
+      "link": "https://music.163.com/album?id=75657324"
+    }
+  },
+  {
+    "name": "Together with You (Original Mix)",
+    "link": "https://music.163.com/song?id=560569369",
+    "duration": "05:58",
+    "artists": [
+      { "name": "V.Ray", "link": "https://music.163.com/artist?id=193228" },
+      {
+        "name": "K.S. Project",
+        "link": "https://music.163.com/artist?id=38062"
+      },
+      { "name": "AI K", "link": "https://music.163.com/artist?id=13681584" }
+    ],
+    "album": {
+      "name": "Instant (Relax, Chillout, Lounge, Downtempo), Vol. 3",
+      "link": "https://music.163.com/album?id=38769822"
+    }
+  },
+  {
+    "name": "Chasing All the Stars",
+    "link": "https://music.163.com/song?id=28133171",
+    "duration": "03:23",
+    "artists": [
+      { "name": "Fleurie", "link": "https://music.163.com/artist?id=860929" }
+    ],
+    "album": {
+      "name": "Fear & Fable",
+      "link": "https://music.163.com/album?id=2734148"
+    }
+  },
+  {
+    "name": "Rare",
+    "link": "https://music.163.com/song?id=425828570",
+    "duration": "03:44",
+    "artists": [
+      { "name": "L3V3LS", "link": "https://music.163.com/artist?id=12007340" }
+    ],
+    "album": {
+      "name": "Rare",
+      "link": "https://music.163.com/album?id=34816780"
+    }
+  },
+  {
+    "name": "L'Amour Toujours (Tiesto Edit)",
+    "link": "https://music.163.com/song?id=507983351",
+    "duration": "04:08",
+    "artists": [
+      {
+        "name": "Dzeko & Torres",
+        "link": "https://music.163.com/artist?id=282072"
+      },
+      {
+        "name": "Delaney Jane",
+        "link": "https://music.163.com/artist?id=1132286"
+      },
+      { "name": "Tiësto", "link": "https://music.163.com/artist?id=688047" }
+    ],
+    "album": {
+      "name": "L'Amour Toujours",
+      "link": "https://music.163.com/album?id=36324628"
+    }
+  },
+  {
+    "name": "Sign",
+    "link": "https://music.163.com/song?id=440101136",
+    "duration": "03:11",
+    "artists": [
+      { "name": "DEAMN", "link": "https://music.163.com/artist?id=12047335" }
+    ],
+    "album": {
+      "name": "Sign",
+      "link": "https://music.163.com/album?id=34923535"
+    }
+  },
+  {
+    "name": "Someone to Stay",
+    "link": "https://music.163.com/song?id=439037325",
+    "duration": "04:15",
+    "artists": [
+      {
+        "name": "Vancouver Sleep Clinic",
+        "link": "https://music.163.com/artist?id=844692"
+      }
+    ],
+    "album": {
+      "name": "Someone to Stay",
+      "link": "https://music.163.com/album?id=34970070"
+    }
+  },
+  {
+    "name": "Driving Through the Dark (Extended Mix)",
+    "link": "https://music.163.com/song?id=553345821",
+    "duration": "06:22",
+    "artists": [
+      {
+        "name": "Dennis Sheperd",
+        "link": "https://music.163.com/artist?id=32497"
+      },
+      { "name": "Liuck", "link": "https://music.163.com/artist?id=12074296" },
+      {
+        "name": "Betsie Larkin",
+        "link": "https://music.163.com/artist?id=50834"
+      }
+    ],
+    "album": {
+      "name": "Driving Through the Dark",
+      "link": "https://music.163.com/album?id=38376080"
+    }
+  },
+  {
+    "name": "We Don't Talk Anymore (BOXINBOX & LIONSIZE Remix)",
+    "link": "https://music.163.com/song?id=437856219",
+    "duration": "03:39",
+    "artists": [
+      {
+        "name": "Boxinbox & Lionsize",
+        "link": "https://music.163.com/artist?id=12031141"
+      },
+      {
+        "name": "Charlie Puth",
+        "link": "https://music.163.com/artist?id=90331"
+      },
+      {
+        "name": "Selena Gomez",
+        "link": "https://music.163.com/artist?id=140196"
+      }
+    ],
+    "album": {
+      "name": "We Don't Talk Anymore (BOXINBOX & LIONSIZE Remix)",
+      "link": "https://music.163.com/album?id=34943680"
+    }
+  },
+  {
+    "name": "IGNITE (Radio Edit)",
+    "link": "https://music.163.com/song?id=28793590",
+    "duration": "03:47",
+    "artists": [
+      {
+        "name": "Michael Mind Project",
+        "link": "https://music.163.com/artist?id=97036"
+      }
+    ],
+    "album": {
+      "name": "IGNITE",
+      "link": "https://music.163.com/album?id=2894173"
+    }
+  },
+  {
+    "name": "End Of The Night",
+    "link": "https://music.163.com/song?id=1324159296",
+    "duration": "03:25",
+    "artists": [
+      {
+        "name": "Danny Avila",
+        "link": "https://music.163.com/artist?id=471420"
+      }
+    ],
+    "album": {
+      "name": "End Of The Night",
+      "link": "https://music.163.com/album?id=74327710"
+    }
+  }
+]

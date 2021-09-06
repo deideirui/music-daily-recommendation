@@ -1,0 +1,468 @@
+[
+  {
+    "name": "Let You Go",
+    "link": "https://music.163.com/song?id=547825917",
+    "duration": "03:00",
+    "artists": [
+      {
+        "name": "bvd kult",
+        "link": "https://music.163.com/artist?id=12263379"
+      },
+      { "name": "OT", "link": "https://music.163.com/artist?id=127403" }
+    ],
+    "album": {
+      "name": "Let You Go",
+      "link": "https://music.163.com/album?id=38013414"
+    }
+  },
+  {
+    "name": "Brightest Days",
+    "link": "https://music.163.com/song?id=443277149",
+    "duration": "03:51",
+    "artists": [
+      {
+        "name": "Wasted Penguinz",
+        "link": "https://music.163.com/artist?id=816508"
+      }
+    ],
+    "album": {
+      "name": "Clarity",
+      "link": "https://music.163.com/album?id=35017376"
+    }
+  },
+  {
+    "name": "Hey Mamma (Radio Edit)",
+    "link": "https://music.163.com/song?id=482246882",
+    "duration": "02:59",
+    "artists": [
+      {
+        "name": "Sunstroke Project",
+        "link": "https://music.163.com/artist?id=1049232"
+      }
+    ],
+    "album": {
+      "name": "Hey Mamma",
+      "link": "https://music.163.com/album?id=35572288"
+    }
+  },
+  {
+    "name": "My Everything",
+    "link": "https://music.163.com/song?id=402061023",
+    "duration": "03:45",
+    "artists": [
+      { "name": "Owl City", "link": "https://music.163.com/artist?id=40859" }
+    ],
+    "album": {
+      "name": "My Everything",
+      "link": "https://music.163.com/album?id=34476047"
+    }
+  },
+  {
+    "name": "summer",
+    "link": "https://music.163.com/song?id=34779102",
+    "duration": "02:26",
+    "artists": [
+      { "name": "徐梦圆", "link": "https://music.163.com/artist?id=1142042" }
+    ],
+    "album": { "name": "E", "link": "https://music.163.com/album?id=3298040" }
+  },
+  {
+    "name": "My Heart (Radio Version)",
+    "link": "https://music.163.com/song?id=411309015",
+    "duration": "03:24",
+    "artists": [
+      { "name": "Sephyx", "link": "https://music.163.com/artist?id=1084035" },
+      { "name": "Sewy", "link": "https://music.163.com/artist?id=28434269" }
+    ],
+    "album": {
+      "name": "My Heart",
+      "link": "https://music.163.com/album?id=34683012"
+    }
+  },
+  {
+    "name": "Undercover Martyn",
+    "link": "https://music.163.com/song?id=19610381",
+    "duration": "02:46",
+    "artists": [
+      {
+        "name": "Two Door Cinema Club",
+        "link": "https://music.163.com/artist?id=102717"
+      }
+    ],
+    "album": {
+      "name": "Tourist History",
+      "link": "https://music.163.com/album?id=1804799"
+    }
+  },
+  {
+    "name": "Bloom",
+    "link": "https://music.163.com/song?id=1440854697",
+    "duration": "05:23",
+    "artists": [
+      {
+        "name": "Approaching Nirvana",
+        "link": "https://music.163.com/artist?id=86884"
+      }
+    ],
+    "album": {
+      "name": "Bloom",
+      "link": "https://music.163.com/album?id=88066358"
+    }
+  },
+  {
+    "name": "Man on a Mission",
+    "link": "https://music.163.com/song?id=465920383",
+    "duration": "03:31",
+    "artists": [
+      {
+        "name": "Oh The Larceny",
+        "link": "https://music.163.com/artist?id=12333048"
+      }
+    ],
+    "album": {
+      "name": "Oh the Larceny",
+      "link": "https://music.163.com/album?id=35288108"
+    }
+  },
+  {
+    "name": "Raise Your Hands (Radio Edit)",
+    "link": "https://music.163.com/song?id=29848221",
+    "duration": "03:11",
+    "artists": [
+      {
+        "name": "Ummet Ozcan",
+        "link": "https://music.163.com/artist?id=711465"
+      }
+    ],
+    "album": {
+      "name": "Spinnin Records Best of Dance 2014",
+      "link": "https://music.163.com/album?id=3086251"
+    }
+  },
+  {
+    "name": "They Don't Know About Us",
+    "link": "https://music.163.com/song?id=25882982",
+    "duration": "03:21",
+    "artists": [
+      {
+        "name": "One Direction",
+        "link": "https://music.163.com/artist?id=98351"
+      }
+    ],
+    "album": {
+      "name": "Take Me Home",
+      "link": "https://music.163.com/album?id=2338175"
+    }
+  },
+  {
+    "name": "Firestone (Slice N Dice Remix)",
+    "link": "https://music.163.com/song?id=405599025",
+    "duration": "04:11",
+    "artists": [
+      {
+        "name": "Slice N Dice",
+        "link": "https://music.163.com/artist?id=1193522"
+      },
+      { "name": "Kygo", "link": "https://music.163.com/artist?id=844410" }
+    ],
+    "album": {
+      "name": "Firestone (Slice N Dice Remix)",
+      "link": "https://music.163.com/album?id=34527445"
+    }
+  },
+  {
+    "name": "Tvillingen",
+    "link": "https://music.163.com/song?id=506139360",
+    "duration": "03:00",
+    "artists": [
+      { "name": "Darin", "link": "https://music.163.com/artist?id=31200" }
+    ],
+    "album": {
+      "name": "Tvillingen",
+      "link": "https://music.163.com/album?id=36049757"
+    }
+  },
+  {
+    "name": "Take Me",
+    "link": "https://music.163.com/song?id=1299563521",
+    "duration": "03:12",
+    "artists": [
+      {
+        "name": "William Black",
+        "link": "https://music.163.com/artist?id=248957"
+      },
+      { "name": "Matte", "link": "https://music.163.com/artist?id=12335355" },
+      { "name": "Runn", "link": "https://music.163.com/artist?id=15237536" }
+    ],
+    "album": {
+      "name": "Take Me",
+      "link": "https://music.163.com/album?id=72073087"
+    }
+  },
+  {
+    "name": "Worlds Away",
+    "link": "https://music.163.com/song?id=453185080",
+    "duration": "04:20",
+    "artists": [
+      { "name": "Vexento", "link": "https://music.163.com/artist?id=12037010" }
+    ],
+    "album": {
+      "name": "Worlds Away",
+      "link": "https://music.163.com/album?id=35124035"
+    }
+  },
+  {
+    "name": "The Heaven (Radio Edit)",
+    "link": "https://music.163.com/song?id=417250374",
+    "duration": "03:45",
+    "artists": [
+      {
+        "name": "Asteroidz",
+        "link": "https://music.163.com/artist?id=1074134"
+      },
+      { "name": "Wallaby", "link": "https://music.163.com/artist?id=12086070" }
+    ],
+    "album": {
+      "name": "The Heaven",
+      "link": "https://music.163.com/album?id=34739204"
+    }
+  },
+  {
+    "name": "I Need a New love (Bryan Milton Remix)",
+    "link": "https://music.163.com/song?id=36492730",
+    "duration": "06:25",
+    "artists": [
+      {
+        "name": "Bryan Milton",
+        "link": "https://music.163.com/artist?id=1058218"
+      },
+      {
+        "name": "Moonnight",
+        "link": "https://music.163.com/artist?id=1050317"
+      },
+      { "name": "Natune", "link": "https://music.163.com/artist?id=1050316" }
+    ],
+    "album": {
+      "name": "I Need a New love (Bryan Milton Remix)",
+      "link": "https://music.163.com/album?id=3394429"
+    }
+  },
+  {
+    "name": "Luck (Full Version)",
+    "link": "https://music.163.com/song?id=429769695",
+    "duration": "03:35",
+    "artists": [
+      { "name": "Andreas B.", "link": "https://music.163.com/artist?id=299713" }
+    ],
+    "album": {
+      "name": "Luck (Full Version)",
+      "link": "https://music.163.com/album?id=34874183"
+    }
+  },
+  {
+    "name": "Here With You",
+    "link": "https://music.163.com/song?id=27583305",
+    "duration": "03:45",
+    "artists": [
+      {
+        "name": "Asher Monroe",
+        "link": "https://music.163.com/artist?id=28727"
+      }
+    ],
+    "album": {
+      "name": "Here With You",
+      "link": "https://music.163.com/album?id=2641180"
+    }
+  },
+  {
+    "name": "You’ll Be Mine",
+    "link": "https://music.163.com/song?id=27836503",
+    "duration": "04:10",
+    "artists": [
+      {
+        "name": "Havana Brown",
+        "link": "https://music.163.com/artist?id=55440"
+      },
+      { "name": "R3hab", "link": "https://music.163.com/artist?id=197248" }
+    ],
+    "album": {
+      "name": "Flashing Lights (Deluxe Version)",
+      "link": "https://music.163.com/album?id=2685073"
+    }
+  },
+  {
+    "name": "Tattoo",
+    "link": "https://music.163.com/song?id=27984264",
+    "duration": "03:46",
+    "artists": [
+      { "name": "Gjan", "link": "https://music.163.com/artist?id=851014" }
+    ],
+    "album": {
+      "name": "Tattoo",
+      "link": "https://music.163.com/album?id=2709043"
+    }
+  },
+  {
+    "name": "Keep Moving (MILLON Remix)",
+    "link": "https://music.163.com/song?id=446728118",
+    "duration": "03:49",
+    "artists": [
+      { "name": "MILLÓN", "link": "https://music.163.com/artist?id=12046925" },
+      {
+        "name": "The Boxer Rebellion",
+        "link": "https://music.163.com/artist?id=103390"
+      }
+    ],
+    "album": {
+      "name": "Keep Moving (MILLÓN Remix)",
+      "link": "https://music.163.com/album?id=35044493"
+    }
+  },
+  {
+    "name": "Talamanca Beach (Original Mix)",
+    "link": "https://music.163.com/song?id=26197203",
+    "duration": "08:04",
+    "artists": [
+      { "name": "Talamanca", "link": "https://music.163.com/artist?id=355244" }
+    ],
+    "album": {
+      "name": "Talamanca Beach",
+      "link": "https://music.163.com/album?id=2419637"
+    }
+  },
+  {
+    "name": "Blame (Tim Gunter Remix)",
+    "link": "https://music.163.com/song?id=521417643",
+    "duration": "03:13",
+    "artists": [
+      {
+        "name": "Tim Gunter",
+        "link": "https://music.163.com/artist?id=12007149"
+      },
+      { "name": "graves", "link": "https://music.163.com/artist?id=58068" }
+    ],
+    "album": {
+      "name": "Blame (Tim Gunter Remix)",
+      "link": "https://music.163.com/album?id=36871160"
+    }
+  },
+  {
+    "name": "Heart Like California",
+    "link": "https://music.163.com/song?id=28828120",
+    "duration": "03:40",
+    "artists": [
+      {
+        "name": "Before You Exit",
+        "link": "https://music.163.com/artist?id=88867"
+      }
+    ],
+    "album": {
+      "name": "Heart Like California",
+      "link": "https://music.163.com/album?id=2902234"
+    }
+  },
+  {
+    "name": "Legends Never Die - (传奇永不熄—英雄联盟2017全球总决赛主题曲)",
+    "link": "https://music.163.com/song?id=506196018",
+    "duration": "03:55",
+    "artists": [
+      {
+        "name": "Against the Current",
+        "link": "https://music.163.com/artist?id=783418"
+      }
+    ],
+    "album": {
+      "name": "Legends Never Die",
+      "link": "https://music.163.com/album?id=75816481"
+    }
+  },
+  {
+    "name": "Where I Begin (Club Mix)",
+    "link": "https://music.163.com/song?id=34770426",
+    "duration": "04:15",
+    "artists": [
+      {
+        "name": "Dennis Sheperd",
+        "link": "https://music.163.com/artist?id=32497"
+      },
+      {
+        "name": "Katty Heath",
+        "link": "https://music.163.com/artist?id=852242"
+      }
+    ],
+    "album": {
+      "name": "A State of Trance 727",
+      "link": "https://music.163.com/album?id=3292242"
+    }
+  },
+  {
+    "name": "Les Ailes (Album Mix)",
+    "link": "https://music.163.com/song?id=32040867",
+    "duration": "04:30",
+    "artists": [
+      {
+        "name": "Dennis Sheperd",
+        "link": "https://music.163.com/artist?id=32497"
+      }
+    ],
+    "album": {
+      "name": "Fight Your Fears",
+      "link": "https://music.163.com/album?id=3146998"
+    }
+  },
+  {
+    "name": "C U Again",
+    "link": "https://music.163.com/song?id=447281375",
+    "duration": "03:23",
+    "artists": [
+      { "name": "Cartoon", "link": "https://music.163.com/artist?id=51293" },
+      {
+        "name": "Futuristik",
+        "link": "https://music.163.com/artist?id=12091065"
+      }
+    ],
+    "album": {
+      "name": "NCS: The Best of 2016",
+      "link": "https://music.163.com/album?id=35012920"
+    }
+  },
+  {
+    "name": "Cyka Blyat",
+    "link": "https://music.163.com/song?id=1368324900",
+    "duration": "03:02",
+    "artists": [
+      {
+        "name": "DJ Blyatman",
+        "link": "https://music.163.com/artist?id=31586577"
+      },
+      {
+        "name": "Russian Village Boys",
+        "link": "https://music.163.com/artist?id=13618375"
+      }
+    ],
+    "album": {
+      "name": "Cyka Blyat",
+      "link": "https://music.163.com/album?id=79461538"
+    }
+  },
+  {
+    "name": "Don't Say (Felix Palmqvist & Severo Remix)",
+    "link": "https://music.163.com/song?id=491294233",
+    "duration": "03:21",
+    "artists": [
+      {
+        "name": "Felix Palmqvist",
+        "link": "https://music.163.com/artist?id=12263227"
+      },
+      { "name": "Severo", "link": "https://music.163.com/artist?id=1115077" },
+      {
+        "name": "The Chainsmokers",
+        "link": "https://music.163.com/artist?id=893484"
+      }
+    ],
+    "album": {
+      "name": "Don't Say (Felix Palmqvist & Severo Remix)",
+      "link": "https://music.163.com/album?id=35757387"
+    }
+  }
+]

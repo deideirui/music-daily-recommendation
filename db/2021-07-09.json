@@ -1,0 +1,497 @@
+[
+  {
+    "name": "Here We Are",
+    "link": "https://music.163.com/song?id=863284898",
+    "duration": "03:26",
+    "artists": [
+      { "name": "MaRLo", "link": "https://music.163.com/artist?id=150599" },
+      {
+        "name": "Emma Chatt",
+        "link": "https://music.163.com/artist?id=13202658"
+      }
+    ],
+    "album": {
+      "name": "Here We Are",
+      "link": "https://music.163.com/album?id=71696274"
+    }
+  },
+  {
+    "name": "Save My Mind",
+    "link": "https://music.163.com/song?id=1419697707",
+    "duration": "03:38",
+    "artists": [
+      { "name": "BUNT.", "link": "https://music.163.com/artist?id=744145" },
+      {
+        "name": "Benemy Slope",
+        "link": "https://music.163.com/artist?id=34262576"
+      }
+    ],
+    "album": {
+      "name": "Save My Mind",
+      "link": "https://music.163.com/album?id=85334425"
+    }
+  },
+  {
+    "name": "Max Elto - Shadow Of The Sun (shadows-wolf Remix)",
+    "link": "https://music.163.com/song?id=467945187",
+    "duration": "03:59",
+    "artists": [
+      {
+        "name": "Shadows-wolf",
+        "link": "https://music.163.com/artist?id=12226695"
+      }
+    ],
+    "album": {
+      "name": "Shadow Of The Sun EP",
+      "link": "https://music.163.com/album?id=35290592"
+    }
+  },
+  {
+    "name": "Broken Hearts",
+    "link": "https://music.163.com/song?id=1399335951",
+    "duration": "03:09",
+    "artists": [
+      {
+        "name": "Justin Caruso",
+        "link": "https://music.163.com/artist?id=1193462"
+      },
+      { "name": "Hilda", "link": "https://music.163.com/artist?id=60265" }
+    ],
+    "album": {
+      "name": "Broken Hearts",
+      "link": "https://music.163.com/album?id=82767855"
+    }
+  },
+  {
+    "name": "Blindspot, Pt. 2",
+    "link": "https://music.163.com/song?id=1498646179",
+    "duration": "04:28",
+    "artists": [
+      { "name": "Nurko", "link": "https://music.163.com/artist?id=11991089" },
+      {
+        "name": "Devon Baldwin",
+        "link": "https://music.163.com/artist?id=1181449"
+      }
+    ],
+    "album": {
+      "name": "Blindspot, Pt. 1 + 2",
+      "link": "https://music.163.com/album?id=98838797"
+    }
+  },
+  {
+    "name": "Corvette (Vion Konger Remix)",
+    "link": "https://music.163.com/song?id=1343244220",
+    "duration": "02:52",
+    "artists": [
+      { "name": "LIZOT", "link": "https://music.163.com/artist?id=1137483" }
+    ],
+    "album": {
+      "name": "Corvette (Vion Konger Remix)",
+      "link": "https://music.163.com/album?id=75388544"
+    }
+  },
+  {
+    "name": "Borlis Pass (Original Mix)",
+    "link": "https://music.163.com/song?id=28078008",
+    "duration": "08:00",
+    "artists": [
+      { "name": "Alex H", "link": "https://music.163.com/artist?id=370950" }
+    ],
+    "album": {
+      "name": "PHW & Friends 002",
+      "link": "https://music.163.com/album?id=2724323"
+    }
+  },
+  {
+    "name": "sisirc",
+    "link": "https://music.163.com/song?id=480097447",
+    "duration": "07:46",
+    "artists": [
+      { "name": "澤野弘之", "link": "https://music.163.com/artist?id=15290" }
+    ],
+    "album": {
+      "name": "「CRISIS 公安機動捜査隊特捜班」ORIGINAL SOUNDTRACK",
+      "link": "https://music.163.com/album?id=35498825"
+    }
+  },
+  {
+    "name": "Don't Say",
+    "link": "https://music.163.com/song?id=862099429",
+    "duration": "03:02",
+    "artists": [
+      { "name": "Hoang", "link": "https://music.163.com/artist?id=27694442" },
+      { "name": "Nevve", "link": "https://music.163.com/artist?id=12567101" }
+    ],
+    "album": {
+      "name": "Don't Say",
+      "link": "https://music.163.com/album?id=71614737"
+    }
+  },
+  {
+    "name": "Real Life",
+    "link": "https://music.163.com/song?id=505665222",
+    "duration": "03:03",
+    "artists": [
+      {
+        "name": "Gill Chang",
+        "link": "https://music.163.com/artist?id=1177230"
+      },
+      { "name": "Aviella", "link": "https://music.163.com/artist?id=12475609" }
+    ],
+    "album": {
+      "name": "Words Unspoken",
+      "link": "https://music.163.com/album?id=36192246"
+    }
+  },
+  {
+    "name": "New Fate",
+    "link": "https://music.163.com/song?id=1378617831",
+    "duration": "03:17",
+    "artists": [
+      { "name": "Arston", "link": "https://music.163.com/artist?id=776576" },
+      { "name": "LUX (US)", "link": "https://music.163.com/artist?id=35049288" }
+    ],
+    "album": {
+      "name": "New Fate",
+      "link": "https://music.163.com/album?id=80455339"
+    }
+  },
+  {
+    "name": "Bright Lights-Bright Lights(Avicii Remix)（Kear remix）",
+    "link": "https://music.163.com/song?id=1389276182",
+    "duration": "04:36",
+    "artists": [
+      { "name": "Kear", "link": "https://music.163.com/artist?id=12270737" }
+    ],
+    "album": {
+      "name": "Birght Lights（Avicii Rimix）",
+      "link": "https://music.163.com/album?id=81301601"
+    }
+  },
+  {
+    "name": "Believe",
+    "link": "https://music.163.com/song?id=523251167",
+    "duration": "03:02",
+    "artists": [
+      { "name": "Vinil", "link": "https://music.163.com/artist?id=12143027" },
+      { "name": "Sterkøl", "link": "https://music.163.com/artist?id=1081901" }
+    ],
+    "album": {
+      "name": "Believe",
+      "link": "https://music.163.com/album?id=36948060"
+    }
+  },
+  {
+    "name": "夜撫でるメノウ (Ayase ver.) - (夜抚玛瑙)",
+    "link": "https://music.163.com/song?id=1466019532",
+    "duration": "04:23",
+    "artists": [
+      { "name": "Ayase", "link": "https://music.163.com/artist?id=35135807" }
+    ],
+    "album": {
+      "name": "幽霊東京 (digital edition)",
+      "link": "https://music.163.com/album?id=90356231"
+    }
+  },
+  {
+    "name": "///",
+    "link": "https://music.163.com/song?id=442853877",
+    "duration": "04:15",
+    "artists": [
+      { "name": "KAII", "link": "https://music.163.com/artist?id=1050520" }
+    ],
+    "album": {
+      "name": "///",
+      "link": "https://music.163.com/album?id=35014291"
+    }
+  },
+  {
+    "name": "Break the Light",
+    "link": "https://music.163.com/song?id=430297025",
+    "duration": "05:37",
+    "artists": [
+      { "name": "武川アイ", "link": "https://music.163.com/artist?id=17979" },
+      {
+        "name": "Adam Sobiech",
+        "link": "https://music.163.com/artist?id=1115104"
+      }
+    ],
+    "album": {
+      "name": "Break the Light",
+      "link": "https://music.163.com/album?id=34869527"
+    }
+  },
+  {
+    "name": "Wanderers",
+    "link": "https://music.163.com/song?id=31152752",
+    "duration": "03:46",
+    "artists": [
+      { "name": "やまだ豊", "link": "https://music.163.com/artist?id=896309" }
+    ],
+    "album": {
+      "name": "TV ANIMATION Tokyo Ghoul Original Soundtrack",
+      "link": "https://music.163.com/album?id=3104199"
+    }
+  },
+  {
+    "name": "Tornado",
+    "link": "https://music.163.com/song?id=1358393929",
+    "duration": "03:09",
+    "artists": [
+      { "name": "Trivecta", "link": "https://music.163.com/artist?id=954338" },
+      {
+        "name": "Monika Santucci",
+        "link": "https://music.163.com/artist?id=13989763"
+      }
+    ],
+    "album": {
+      "name": "Tornado",
+      "link": "https://music.163.com/album?id=78490537"
+    }
+  },
+  {
+    "name": "Moonlight(Backing Track)",
+    "link": "https://music.163.com/song?id=817743",
+    "duration": "04:18",
+    "artists": [
+      { "name": "S.E.N.S.", "link": "https://music.163.com/artist?id=21309" }
+    ],
+    "album": {
+      "name": "MOONLIGHT",
+      "link": "https://music.163.com/album?id=80997"
+    }
+  },
+  {
+    "name": "Better Apart",
+    "link": "https://music.163.com/song?id=1354608659",
+    "duration": "03:54",
+    "artists": [
+      { "name": "Jai Wolf", "link": "https://music.163.com/artist?id=1063048" },
+      {
+        "name": "Keeley Bumford",
+        "link": "https://music.163.com/artist?id=12845274"
+      }
+    ],
+    "album": {
+      "name": "The Cure To Loneliness",
+      "link": "https://music.163.com/album?id=78300643"
+    }
+  },
+  {
+    "name": "Once More",
+    "link": "https://music.163.com/song?id=29748070",
+    "duration": "06:24",
+    "artists": [
+      {
+        "name": "Gregory Esayan",
+        "link": "https://music.163.com/artist?id=193198"
+      },
+      { "name": "武川アイ", "link": "https://music.163.com/artist?id=17979" }
+    ],
+    "album": {
+      "name": "Impressionism",
+      "link": "https://music.163.com/album?id=3056668"
+    }
+  },
+  {
+    "name": "Ephemeral Memories",
+    "link": "https://music.163.com/song?id=554308724",
+    "duration": "03:55",
+    "artists": [
+      { "name": "MoreanP", "link": "https://music.163.com/artist?id=12275337" }
+    ],
+    "album": {
+      "name": "Ephemeral Memories",
+      "link": "https://music.163.com/album?id=38381663"
+    }
+  },
+  {
+    "name": "Senseless (feat. Tyler Graves) (Nurko Remix)",
+    "link": "https://music.163.com/song?id=1459162254",
+    "duration": "04:37",
+    "artists": [
+      {
+        "name": "Seven Lions",
+        "link": "https://music.163.com/artist?id=44204"
+      },
+      {
+        "name": "Tyler Graves",
+        "link": "https://music.163.com/artist?id=31834852"
+      },
+      { "name": "Nurko", "link": "https://music.163.com/artist?id=11991089" }
+    ],
+    "album": {
+      "name": "Find Another Way (Remixes)",
+      "link": "https://music.163.com/album?id=91732603"
+    }
+  },
+  {
+    "name": "One More Day (Nicky Romero Remix)",
+    "link": "https://music.163.com/song?id=571338342",
+    "duration": "04:00",
+    "artists": [
+      {
+        "name": "Nicky Romero",
+        "link": "https://music.163.com/artist?id=195142"
+      },
+      { "name": "Afrojack", "link": "https://music.163.com/artist?id=28745" },
+      {
+        "name": "Jewelz & Sparks",
+        "link": "https://music.163.com/artist?id=947051"
+      }
+    ],
+    "album": {
+      "name": "One More Day (Nicky Romero Remix)",
+      "link": "https://music.163.com/album?id=39591108"
+    }
+  },
+  {
+    "name": "Sleepwalker",
+    "link": "https://music.163.com/song?id=403711527",
+    "duration": "04:10",
+    "artists": [
+      { "name": "ILLENIUM", "link": "https://music.163.com/artist?id=1050518" },
+      {
+        "name": "Joni Fatora",
+        "link": "https://music.163.com/artist?id=758231"
+      }
+    ],
+    "album": {
+      "name": "Ashes",
+      "link": "https://music.163.com/album?id=34497141"
+    }
+  },
+  {
+    "name": "No Money,No Honey",
+    "link": "https://music.163.com/song?id=29772435",
+    "duration": "04:21",
+    "artists": [
+      { "name": "文艺", "link": "https://music.163.com/artist?id=966153" }
+    ],
+    "album": {
+      "name": "Fantasy",
+      "link": "https://music.163.com/album?id=3078055"
+    }
+  },
+  {
+    "name": "Bloom (Nurko Remix)",
+    "link": "https://music.163.com/song?id=1382942100",
+    "duration": "04:11",
+    "artists": [
+      { "name": "Dabin", "link": "https://music.163.com/artist?id=783446" },
+      {
+        "name": "Dia Frampton",
+        "link": "https://music.163.com/artist?id=55454"
+      }
+    ],
+    "album": {
+      "name": "Wild Youth (The Remixes)",
+      "link": "https://music.163.com/album?id=80845413"
+    }
+  },
+  {
+    "name": "Some Say (Felix Jaehn Remix)",
+    "link": "https://music.163.com/song?id=1415464258",
+    "duration": "03:06",
+    "artists": [
+      { "name": "Nea", "link": "https://music.163.com/artist?id=34133567" },
+      {
+        "name": "Felix Jaehn",
+        "link": "https://music.163.com/artist?id=963083"
+      }
+    ],
+    "album": {
+      "name": "Some Say (Felix Jaehn Remix)",
+      "link": "https://music.163.com/album?id=84864697"
+    }
+  },
+  {
+    "name": "COULD HAVE BEEN YOU",
+    "link": "https://music.163.com/song?id=1392102918",
+    "duration": "03:22",
+    "artists": [
+      {
+        "name": "Jake Miller",
+        "link": "https://music.163.com/artist?id=776761"
+      }
+    ],
+    "album": {
+      "name": "SUMMER 19",
+      "link": "https://music.163.com/album?id=81790043"
+    }
+  },
+  {
+    "name": "luv(drunk)",
+    "link": "https://music.163.com/song?id=1499501071",
+    "duration": "03:01",
+    "artists": [
+      { "name": "Conro", "link": "https://music.163.com/artist?id=1063229" }
+    ],
+    "album": {
+      "name": "luv(drunk)",
+      "link": "https://music.163.com/album?id=98957812"
+    }
+  },
+  {
+    "name": "More Than Air",
+    "link": "https://music.163.com/song?id=443876555",
+    "duration": "03:29",
+    "artists": [
+      {
+        "name": "Local Sound",
+        "link": "https://music.163.com/artist?id=12203125"
+      },
+      { "name": "Fleurie", "link": "https://music.163.com/artist?id=860929" }
+    ],
+    "album": {
+      "name": "More Than Air",
+      "link": "https://music.163.com/album?id=35023141"
+    }
+  },
+  {
+    "name": "ドリームレス・ドリームス (セルフカバー) - (Dreamless Dreams)",
+    "link": "https://music.163.com/song?id=490006876",
+    "duration": "03:47",
+    "artists": [
+      {
+        "name": "はるまきごはん",
+        "link": "https://music.163.com/artist?id=12175308"
+      }
+    ],
+    "album": {
+      "name": "ドリームレス・ドリームス",
+      "link": "https://music.163.com/album?id=35743248"
+    }
+  },
+  {
+    "name": "Mama",
+    "link": "https://music.163.com/song?id=476323620",
+    "duration": "03:04",
+    "artists": [
+      {
+        "name": "Jonas Blue",
+        "link": "https://music.163.com/artist?id=1192069"
+      },
+      {
+        "name": "William Singe",
+        "link": "https://music.163.com/artist?id=11980015"
+      }
+    ],
+    "album": {
+      "name": "Mama",
+      "link": "https://music.163.com/album?id=35455190"
+    }
+  },
+  {
+    "name": "could cry just thinkin about you (Full Version)",
+    "link": "https://music.163.com/song?id=1859838718",
+    "duration": "02:38",
+    "artists": [
+      { "name": "Troye Sivan", "link": "https://music.163.com/artist?id=45129" }
+    ],
+    "album": {
+      "name": "could cry just thinkin about you (Full Version)",
+      "link": "https://music.163.com/album?id=130136678"
+    }
+  }
+]

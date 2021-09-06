@@ -1,0 +1,456 @@
+[
+  {
+    "name": "Monsters",
+    "link": "https://music.163.com/song?id=1442453411",
+    "duration": "03:57",
+    "artists": [
+      {
+        "name": "Midnight Kids",
+        "link": "https://music.163.com/artist?id=13192314"
+      }
+    ],
+    "album": {
+      "name": "Monsters",
+      "link": "https://music.163.com/album?id=88347039"
+    }
+  },
+  {
+    "name": "By Your Side",
+    "link": "https://music.163.com/song?id=1420563507",
+    "duration": "03:12",
+    "artists": [
+      { "name": "Axero", "link": "https://music.163.com/artist?id=1035020" },
+      { "name": "Fanchon", "link": "https://music.163.com/artist?id=34306873" }
+    ],
+    "album": {
+      "name": "By Your Side",
+      "link": "https://music.163.com/album?id=85422686"
+    }
+  },
+  {
+    "name": "Fight For You",
+    "link": "https://music.163.com/song?id=1345494813",
+    "duration": "03:05",
+    "artists": [
+      { "name": "Zay", "link": "https://music.163.com/artist?id=564662" },
+      { "name": "Alius", "link": "https://music.163.com/artist?id=12441378" },
+      {
+        "name": "Rasmus Hagen",
+        "link": "https://music.163.com/artist?id=29757552"
+      }
+    ],
+    "album": {
+      "name": "Fight For You",
+      "link": "https://music.163.com/album?id=75518592"
+    }
+  },
+  {
+    "name": "Every Second",
+    "link": "https://music.163.com/song?id=442605044",
+    "duration": "04:12",
+    "artists": [
+      { "name": "L3V3LS", "link": "https://music.163.com/artist?id=12007340" }
+    ],
+    "album": {
+      "name": "Every Second",
+      "link": "https://music.163.com/album?id=35005460"
+    }
+  },
+  {
+    "name": "Three Words",
+    "link": "https://music.163.com/song?id=1446445809",
+    "duration": "03:19",
+    "artists": [
+      { "name": "Juze", "link": "https://music.163.com/artist?id=14851382" }
+    ],
+    "album": {
+      "name": "Three Words",
+      "link": "https://music.163.com/album?id=89132826"
+    }
+  },
+  {
+    "name": "Mesmerize",
+    "link": "https://music.163.com/song?id=29379951",
+    "duration": "04:22",
+    "artists": [
+      { "name": "Tobu", "link": "https://music.163.com/artist?id=964486" }
+    ],
+    "album": {
+      "name": "Mesmerize",
+      "link": "https://music.163.com/album?id=3018005"
+    }
+  },
+  {
+    "name": "もう一度",
+    "link": "https://music.163.com/song?id=1421273800",
+    "duration": "04:24",
+    "artists": [
+      {
+        "name": "BillyBiano",
+        "link": "https://music.163.com/artist?id=12434377"
+      },
+      {
+        "name": "夏野Natsuno",
+        "link": "https://music.163.com/artist?id=29023386"
+      }
+    ],
+    "album": {
+      "name": "もう一度",
+      "link": "https://music.163.com/album?id=85513840"
+    }
+  },
+  {
+    "name": "Forget About Us",
+    "link": "https://music.163.com/song?id=1417647997",
+    "duration": "03:23",
+    "artists": [
+      { "name": "JOE WANG", "link": "https://music.163.com/artist?id=225978" },
+      { "name": "ZTTZ", "link": "https://music.163.com/artist?id=31709726" }
+    ],
+    "album": {
+      "name": "Forget About Us",
+      "link": "https://music.163.com/album?id=85069797"
+    }
+  },
+  {
+    "name": "Why Baby Why",
+    "link": "https://music.163.com/song?id=509531185",
+    "duration": "02:27",
+    "artists": [
+      { "name": "MyKey", "link": "https://music.163.com/artist?id=12675032" }
+    ],
+    "album": {
+      "name": "Why Baby Why",
+      "link": "https://music.163.com/album?id=36450050"
+    }
+  },
+  {
+    "name": "Adventures",
+    "link": "https://music.163.com/song?id=866298707",
+    "duration": "03:01",
+    "artists": [
+      { "name": "Inogg", "link": "https://music.163.com/artist?id=12643745" },
+      { "name": "8bite", "link": "https://music.163.com/artist?id=12606242" }
+    ],
+    "album": {
+      "name": "Adventures",
+      "link": "https://music.163.com/album?id=71806880"
+    }
+  },
+  {
+    "name": "Darkmoon",
+    "link": "https://music.163.com/song?id=1378713378",
+    "duration": "03:38",
+    "artists": [
+      { "name": "JINGYAN", "link": "https://music.163.com/artist?id=30645561" }
+    ],
+    "album": {
+      "name": "Darkmoon",
+      "link": "https://music.163.com/album?id=80464022"
+    }
+  },
+  {
+    "name": "Freedom(Original Mix)",
+    "link": "https://music.163.com/song?id=1445117407",
+    "duration": "03:35",
+    "artists": [
+      {
+        "name": "Wheazewolf",
+        "link": "https://music.163.com/artist?id=30704290"
+      }
+    ],
+    "album": {
+      "name": "Freedom(Original Version)",
+      "link": "https://music.163.com/album?id=88847902"
+    }
+  },
+  {
+    "name": "約束",
+    "link": "https://music.163.com/song?id=1346961369",
+    "duration": "04:51",
+    "artists": [
+      { "name": "微笑子", "link": "https://music.163.com/artist?id=29023259" }
+    ],
+    "album": {
+      "name": "約束",
+      "link": "https://music.163.com/album?id=75420331"
+    }
+  },
+  {
+    "name": "New Year",
+    "link": "https://music.163.com/song?id=1335676292",
+    "duration": "04:11",
+    "artists": [
+      { "name": "Dyako", "link": "https://music.163.com/artist?id=12291302" }
+    ],
+    "album": {
+      "name": "New Year",
+      "link": "https://music.163.com/album?id=74977178"
+    }
+  },
+  {
+    "name": "ハルキミ feat.Himawari",
+    "link": "https://music.163.com/song?id=463279914",
+    "duration": "02:40",
+    "artists": [
+      { "name": "Reguluz", "link": "https://music.163.com/artist?id=1197090" },
+      {
+        "name": "Saiakoup",
+        "link": "https://music.163.com/artist?id=12083147"
+      },
+      { "name": "Himawari", "link": "https://music.163.com/artist?id=12291154" }
+    ],
+    "album": {
+      "name": "ハルキミ　",
+      "link": "https://music.163.com/album?id=35239061"
+    }
+  },
+  {
+    "name": "群青 - (BOURBON波路梦「帆船mini巧克力饼干」新CM曲)",
+    "link": "https://music.163.com/song?id=1472480890",
+    "duration": "04:08",
+    "artists": [
+      { "name": "YOASOBI", "link": "https://music.163.com/artist?id=33927412" }
+    ],
+    "album": {
+      "name": "群青",
+      "link": "https://music.163.com/album?id=94214994"
+    }
+  },
+  {
+    "name": "A Sad Me In Your Eyes",
+    "link": "https://music.163.com/song?id=1404709472",
+    "duration": "04:18",
+    "artists": [
+      {
+        "name": "昨夜派对（L.N Party）",
+        "link": "https://music.163.com/artist?id=13104057"
+      }
+    ],
+    "album": {
+      "name": "无尽美丽的事物",
+      "link": "https://music.163.com/album?id=89805567"
+    }
+  },
+  {
+    "name": "Fairytale",
+    "link": "https://music.163.com/song?id=1332157070",
+    "duration": "03:34",
+    "artists": [
+      { "name": "8bite", "link": "https://music.163.com/artist?id=12606242" }
+    ],
+    "album": {
+      "name": "Fairytale",
+      "link": "https://music.163.com/album?id=74789509"
+    }
+  },
+  {
+    "name": "Alienate（Cover 初音ミクDark）",
+    "link": "https://music.163.com/song?id=512797561",
+    "duration": "04:10",
+    "artists": [
+      {
+        "name": "Sawako碎花",
+        "link": "https://music.163.com/artist?id=12292130"
+      }
+    ],
+    "album": {
+      "name": "Alienate",
+      "link": "https://music.163.com/album?id=36548147"
+    }
+  },
+  {
+    "name": "My Garden (Original Mix)",
+    "link": "https://music.163.com/song?id=19057218",
+    "duration": "08:55",
+    "artists": [
+      { "name": "SoundLift", "link": "https://music.163.com/artist?id=44015" }
+    ],
+    "album": {
+      "name": "My Garden EP",
+      "link": "https://music.163.com/album?id=1745447"
+    }
+  },
+  {
+    "name": "Our Age-instrumental",
+    "link": "https://music.163.com/song?id=478313725",
+    "duration": "04:55",
+    "artists": [
+      { "name": "Azricle", "link": "https://music.163.com/artist?id=1131003" }
+    ],
+    "album": {
+      "name": "Our Age(Original Mix)-instrumental",
+      "link": "https://music.163.com/album?id=35502582"
+    }
+  },
+  {
+    "name": "Lost at Heart",
+    "link": "https://music.163.com/song?id=31452028",
+    "duration": "04:45",
+    "artists": [
+      { "name": "Kozoro", "link": "https://music.163.com/artist?id=1050567" },
+      { "name": "Evence", "link": "https://music.163.com/artist?id=1061032" }
+    ],
+    "album": {
+      "name": "Lost at Heart",
+      "link": "https://music.163.com/album?id=3111956"
+    }
+  },
+  {
+    "name": "Home",
+    "link": "https://music.163.com/song?id=428391496",
+    "duration": "06:06",
+    "artists": [
+      { "name": "2A", "link": "https://music.163.com/artist?id=12115071" },
+      {
+        "name": "無名MUMEI",
+        "link": "https://music.163.com/artist?id=32563556"
+      }
+    ],
+    "album": {
+      "name": "2A和他的小伙伴们都惊呆了",
+      "link": "https://music.163.com/album?id=34863213"
+    }
+  },
+  {
+    "name": "Alexandria",
+    "link": "https://music.163.com/song?id=1396943866",
+    "duration": "02:03",
+    "artists": [
+      {
+        "name": "Jessi Blue",
+        "link": "https://music.163.com/artist?id=33407878"
+      }
+    ],
+    "album": {
+      "name": "Alexandria",
+      "link": "https://music.163.com/album?id=82410177"
+    }
+  },
+  {
+    "name": "Un Año",
+    "link": "https://music.163.com/song?id=1340519788",
+    "duration": "02:44",
+    "artists": [
+      {
+        "name": "Sebastián Yatra",
+        "link": "https://music.163.com/artist?id=911143"
+      },
+      { "name": "Reik", "link": "https://music.163.com/artist?id=41963" }
+    ],
+    "album": {
+      "name": "Un Año",
+      "link": "https://music.163.com/album?id=75227364"
+    }
+  },
+  {
+    "name": "哪儿",
+    "link": "https://music.163.com/song?id=863553295",
+    "duration": "03:00",
+    "artists": [
+      { "name": "Lil' Ashes", "link": "https://music.163.com/artist?id=956430" }
+    ],
+    "album": {
+      "name": "Recall A Little Bit",
+      "link": "https://music.163.com/album?id=71706942"
+    }
+  },
+  {
+    "name": "Souvenir",
+    "link": "https://music.163.com/song?id=1439184760",
+    "duration": "02:41",
+    "artists": [
+      {
+        "name": "Selena Gomez",
+        "link": "https://music.163.com/artist?id=140196"
+      }
+    ],
+    "album": {
+      "name": "Rare (Deluxe)",
+      "link": "https://music.163.com/album?id=87832777"
+    }
+  },
+  {
+    "name": "Sea Wave",
+    "link": "https://music.163.com/song?id=495484072",
+    "duration": "03:29",
+    "artists": [
+      {
+        "name": "HawkLegend",
+        "link": "https://music.163.com/artist?id=12272947"
+      }
+    ],
+    "album": {
+      "name": "Sea Wave",
+      "link": "https://music.163.com/album?id=35880227"
+    }
+  },
+  {
+    "name": "其实寂寞",
+    "link": "https://music.163.com/song?id=1351743678",
+    "duration": "04:21",
+    "artists": [
+      { "name": "谢安琪", "link": "https://music.163.com/artist?id=9952" }
+    ],
+    "album": {
+      "name": "其实寂寞",
+      "link": "https://music.163.com/album?id=75839878"
+    }
+  },
+  {
+    "name": "一切很美只因有你",
+    "link": "https://music.163.com/song?id=29734316",
+    "duration": "04:29",
+    "artists": [
+      {
+        "name": "Robynn & Kendy",
+        "link": "https://music.163.com/artist?id=9263"
+      }
+    ],
+    "album": {
+      "name": "Picturesque",
+      "link": "https://music.163.com/album?id=3056474"
+    }
+  },
+  {
+    "name": "BLACKOUT",
+    "link": "https://music.163.com/song?id=1386891381",
+    "duration": "03:17",
+    "artists": [
+      { "name": "AViVA", "link": "https://music.163.com/artist?id=12074178" }
+    ],
+    "album": {
+      "name": "BLACKOUT",
+      "link": "https://music.163.com/album?id=81176308"
+    }
+  },
+  {
+    "name": "Future is Mine - (手游《神角技巧与11名破坏者》主题曲)",
+    "link": "https://music.163.com/song?id=1490859492",
+    "duration": "03:54",
+    "artists": [
+      {
+        "name": "MYTH & ROID",
+        "link": "https://music.163.com/artist?id=1137126"
+      }
+    ],
+    "album": {
+      "name": "Future is Mine",
+      "link": "https://music.163.com/album?id=97521297"
+    }
+  },
+  {
+    "name": "Möbius - (剧场版1《机动战士高达 闪光的哈萨维》 剧中曲)",
+    "link": "https://music.163.com/song?id=1837733029",
+    "duration": "03:53",
+    "artists": [
+      { "name": "mpi", "link": "https://music.163.com/artist?id=12475614" },
+      { "name": "Laco", "link": "https://music.163.com/artist?id=32469869" },
+      { "name": "Benjamin", "link": "https://music.163.com/artist?id=32823298" }
+    ],
+    "album": {
+      "name": "Mobile Suit GUNDAM Hathaway Original Motion Picture Soundtrack",
+      "link": "https://music.163.com/album?id=126082827"
+    }
+  }
+]

@@ -1,0 +1,455 @@
+[
+  {
+    "name": "Choose to Believe",
+    "link": "https://music.163.com/song?id=1377657663",
+    "duration": "03:29",
+    "artists": [
+      { "name": "RØYLS", "link": "https://music.163.com/artist?id=31531724" }
+    ],
+    "album": {
+      "name": "Choose to Believe",
+      "link": "https://music.163.com/album?id=80373498"
+    }
+  },
+  {
+    "name": "Green",
+    "link": "https://music.163.com/song?id=1436474150",
+    "duration": "03:00",
+    "artists": [
+      { "name": "MAY-A", "link": "https://music.163.com/artist?id=35099467" }
+    ],
+    "album": {
+      "name": "Green",
+      "link": "https://music.163.com/album?id=87342265"
+    }
+  },
+  {
+    "name": "Don't You Wanna Play?",
+    "link": "https://music.163.com/song?id=1459862653",
+    "duration": "02:18",
+    "artists": [
+      { "name": "SeeB", "link": "https://music.163.com/artist?id=1182169" },
+      {
+        "name": "Julie Bergan",
+        "link": "https://music.163.com/artist?id=896964"
+      }
+    ],
+    "album": {
+      "name": "Don't You Wanna Play?",
+      "link": "https://music.163.com/album?id=91874346"
+    }
+  },
+  {
+    "name": "Happy with You (feat. WildHearts)",
+    "link": "https://music.163.com/song?id=1453160534",
+    "duration": "03:57",
+    "artists": [
+      {
+        "name": "WildVibes",
+        "link": "https://music.163.com/artist?id=1181751"
+      },
+      {
+        "name": "Wildhearts",
+        "link": "https://music.163.com/artist?id=132424"
+      },
+      { "name": "WINARTA", "link": "https://music.163.com/artist?id=35804048" },
+      {
+        "name": "Arild Aas",
+        "link": "https://music.163.com/artist?id=13436856"
+      }
+    ],
+    "album": {
+      "name": "Happy with You (Radio Edit)",
+      "link": "https://music.163.com/album?id=90379139"
+    }
+  },
+  {
+    "name": "Ride",
+    "link": "https://music.163.com/song?id=1401696102",
+    "duration": "03:01",
+    "artists": [
+      { "name": "Cappa", "link": "https://music.163.com/artist?id=1053281" },
+      {
+        "name": "Jon Santana",
+        "link": "https://music.163.com/artist?id=14291695"
+      }
+    ],
+    "album": {
+      "name": "Ride",
+      "link": "https://music.163.com/album?id=83081863"
+    }
+  },
+  {
+    "name": "Aloha",
+    "link": "https://music.163.com/song?id=405089094",
+    "duration": "03:38",
+    "artists": [
+      { "name": "Møme", "link": "https://music.163.com/artist?id=12007418" },
+      {
+        "name": "Merryn Jeann",
+        "link": "https://music.163.com/artist?id=14090548"
+      }
+    ],
+    "album": {
+      "name": "Aloha",
+      "link": "https://music.163.com/album?id=34504201"
+    }
+  },
+  {
+    "name": "I'm Dreaming Of You",
+    "link": "https://music.163.com/song?id=1427776614",
+    "duration": "03:22",
+    "artists": [
+      {
+        "name": "Candelion",
+        "link": "https://music.163.com/artist?id=34380446"
+      },
+      {
+        "name": "Cody Francis",
+        "link": "https://music.163.com/artist?id=28766743"
+      }
+    ],
+    "album": {
+      "name": "Dream",
+      "link": "https://music.163.com/album?id=86188077"
+    }
+  },
+  {
+    "name": "Sink or Swim",
+    "link": "https://music.163.com/song?id=1333230175",
+    "duration": "03:42",
+    "artists": [
+      { "name": "Luude", "link": "https://music.163.com/artist?id=1193233" },
+      { "name": "Example", "link": "https://music.163.com/artist?id=33102" },
+      { "name": "Georgi Kay", "link": "https://music.163.com/artist?id=290036" }
+    ],
+    "album": {
+      "name": "Sink or Swim",
+      "link": "https://music.163.com/album?id=74872457"
+    }
+  },
+  {
+    "name": "Tender Skin",
+    "link": "https://music.163.com/song?id=31545899",
+    "duration": "07:15",
+    "artists": [
+      { "name": "HVOB", "link": "https://music.163.com/artist?id=688969" }
+    ],
+    "album": {
+      "name": "Trialog",
+      "link": "https://music.163.com/album?id=3124060"
+    }
+  },
+  {
+    "name": "Channel",
+    "link": "https://music.163.com/song?id=1341942695",
+    "duration": "06:08",
+    "artists": [
+      { "name": "Recondite", "link": "https://music.163.com/artist?id=42871" }
+    ],
+    "album": {
+      "name": "Silk",
+      "link": "https://music.163.com/album?id=75323186"
+    }
+  },
+  {
+    "name": "A Simple Beautiful Truth",
+    "link": "https://music.163.com/song?id=28571383",
+    "duration": "02:35",
+    "artists": [
+      {
+        "name": "Wild Beasts",
+        "link": "https://music.163.com/artist?id=105092"
+      }
+    ],
+    "album": {
+      "name": "A Simple Beautiful Truth",
+      "link": "https://music.163.com/album?id=2836998"
+    }
+  },
+  {
+    "name": "Evolution (Original Mix)",
+    "link": "https://music.163.com/song?id=1421688967",
+    "duration": "06:22",
+    "artists": [
+      { "name": "Umek", "link": "https://music.163.com/artist?id=83358" },
+      {
+        "name": "Cosmic Boys",
+        "link": "https://music.163.com/artist?id=588541"
+      }
+    ],
+    "album": {
+      "name": "Evolution / Feels Like a Tunnel",
+      "link": "https://music.163.com/album?id=85572484"
+    }
+  },
+  {
+    "name": "Roses",
+    "link": "https://music.163.com/song?id=1390717712",
+    "duration": "03:05",
+    "artists": [
+      { "name": "Kurosuke", "link": "https://music.163.com/artist?id=32720906" }
+    ],
+    "album": {
+      "name": "Roses",
+      "link": "https://music.163.com/album?id=81621043"
+    }
+  },
+  {
+    "name": "When the Morning Comes",
+    "link": "https://music.163.com/song?id=36587685",
+    "duration": "03:45",
+    "artists": [
+      {
+        "name": "A Great Big World",
+        "link": "https://music.163.com/artist?id=843001"
+      }
+    ],
+    "album": {
+      "name": "When the Morning Comes",
+      "link": "https://music.163.com/album?id=3378069"
+    }
+  },
+  {
+    "name": "Pierre",
+    "link": "https://music.163.com/song?id=1391251170",
+    "duration": "03:26",
+    "artists": [
+      {
+        "name": "Men I Trust",
+        "link": "https://music.163.com/artist?id=1132243"
+      }
+    ],
+    "album": {
+      "name": "Oncle Jazz",
+      "link": "https://music.163.com/album?id=81677349"
+    }
+  },
+  {
+    "name": "Dreams (Umek Version)",
+    "link": "https://music.163.com/song?id=1409766030",
+    "duration": "06:21",
+    "artists": [
+      { "name": "Quench", "link": "https://music.163.com/artist?id=99335" }
+    ],
+    "album": {
+      "name": "Dreams (Umek Version)",
+      "link": "https://music.163.com/album?id=84112555"
+    }
+  },
+  {
+    "name": "Car Park",
+    "link": "https://music.163.com/song?id=551340498",
+    "duration": "02:53",
+    "artists": [
+      {
+        "name": "Fenne Lily",
+        "link": "https://music.163.com/artist?id=12132176"
+      }
+    ],
+    "album": {
+      "name": "Car Park",
+      "link": "https://music.163.com/album?id=38034003"
+    }
+  },
+  {
+    "name": "In Silence",
+    "link": "https://music.163.com/song?id=502706534",
+    "duration": "06:33",
+    "artists": [
+      {
+        "name": "Amelie Lens",
+        "link": "https://music.163.com/artist?id=12400011"
+      }
+    ],
+    "album": {
+      "name": "A-Sides, Vol. 6",
+      "link": "https://music.163.com/album?id=36030883"
+    }
+  },
+  {
+    "name": "Seventeen",
+    "link": "https://music.163.com/song?id=1329719437",
+    "duration": "03:26",
+    "artists": [
+      {
+        "name": "Summer Salt",
+        "link": "https://music.163.com/artist?id=13057602"
+      }
+    ],
+    "album": {
+      "name": "Happy Camper",
+      "link": "https://music.163.com/album?id=74632045"
+    }
+  },
+  {
+    "name": "Conversation",
+    "link": "https://music.163.com/song?id=3716423",
+    "duration": "03:32",
+    "artists": [
+      {
+        "name": "The Silent League",
+        "link": "https://music.163.com/artist?id=81222"
+      }
+    ],
+    "album": {
+      "name": "The Orchestra, Sadly, Has Refused",
+      "link": "https://music.163.com/album?id=375757"
+    }
+  },
+  {
+    "name": "Blood and Bones",
+    "link": "https://music.163.com/song?id=511678894",
+    "duration": "03:52",
+    "artists": [
+      { "name": "Kodaline", "link": "https://music.163.com/artist?id=727007" }
+    ],
+    "album": {
+      "name": "I Wouldn't Be",
+      "link": "https://music.163.com/album?id=36320971"
+    }
+  },
+  {
+    "name": "A Royal Command",
+    "link": "https://music.163.com/song?id=1390597819",
+    "duration": "04:49",
+    "artists": [
+      { "name": "John Lunn", "link": "https://music.163.com/artist?id=37062" },
+      {
+        "name": "The Chamber Orchestra Of London",
+        "link": "https://music.163.com/artist?id=1193041"
+      }
+    ],
+    "album": {
+      "name": "Downton Abbey (Original Score)",
+      "link": "https://music.163.com/album?id=81606892"
+    }
+  },
+  {
+    "name": "Bad Dream",
+    "link": "https://music.163.com/song?id=1379772383",
+    "duration": "04:35",
+    "artists": [
+      {
+        "name": "Vancouver Sleep Clinic",
+        "link": "https://music.163.com/artist?id=844692"
+      }
+    ],
+    "album": {
+      "name": "Bad Dream",
+      "link": "https://music.163.com/album?id=80576574"
+    }
+  },
+  {
+    "name": "Concrete",
+    "link": "https://music.163.com/song?id=416531371",
+    "duration": "03:50",
+    "artists": [
+      { "name": "Tom Odell", "link": "https://music.163.com/artist?id=711016" }
+    ],
+    "album": {
+      "name": "Wrong Crowd (Deluxe)",
+      "link": "https://music.163.com/album?id=34591427"
+    }
+  },
+  {
+    "name": "The Most Beautiful Thing",
+    "link": "https://music.163.com/song?id=1437149744",
+    "duration": "03:55",
+    "artists": [
+      {
+        "name": "Bruno Major",
+        "link": "https://music.163.com/artist?id=12250109"
+      }
+    ],
+    "album": {
+      "name": "The Most Beautiful Thing",
+      "link": "https://music.163.com/album?id=87537071"
+    }
+  },
+  {
+    "name": "Waves",
+    "link": "https://music.163.com/song?id=27956340",
+    "duration": "02:53",
+    "artists": [
+      { "name": "Mr. Probz", "link": "https://music.163.com/artist?id=278247" }
+    ],
+    "album": {
+      "name": "Waves",
+      "link": "https://music.163.com/album?id=2700353"
+    }
+  },
+  {
+    "name": "Good Times",
+    "link": "https://music.163.com/song?id=543087013",
+    "duration": "03:29",
+    "artists": [
+      {
+        "name": "Drianu, Marx",
+        "link": "https://music.163.com/artist?id=13472848"
+      }
+    ],
+    "album": {
+      "name": "Good Times Ft. Marx",
+      "link": "https://music.163.com/album?id=37849499"
+    }
+  },
+  {
+    "name": "Tightrope",
+    "link": "https://music.163.com/song?id=1923416",
+    "duration": "04:27",
+    "artists": [
+      { "name": "Ron Pope", "link": "https://music.163.com/artist?id=42489" }
+    ],
+    "album": {
+      "name": "Whatever It Takes",
+      "link": "https://music.163.com/album?id=193966"
+    }
+  },
+  {
+    "name": "Bridgeburner",
+    "link": "https://music.163.com/song?id=3915686",
+    "duration": "10:42",
+    "artists": [
+      { "name": "Arktika", "link": "https://music.163.com/artist?id=86150" }
+    ],
+    "album": {
+      "name": "Symmetry",
+      "link": "https://music.163.com/album?id=395985"
+    }
+  },
+  {
+    "name": "Tuesday (Original Mix)",
+    "link": "https://music.163.com/song?id=506726178",
+    "duration": "04:01",
+    "artists": [
+      {
+        "name": "Burak Yeter",
+        "link": "https://music.163.com/artist?id=963635"
+      },
+      {
+        "name": "Danelle Sandoval",
+        "link": "https://music.163.com/artist?id=12583018"
+      }
+    ],
+    "album": {
+      "name": "Tuesday",
+      "link": "https://music.163.com/album?id=36247630"
+    }
+  },
+  {
+    "name": "Buscando Amor",
+    "link": "https://music.163.com/song?id=1826915866",
+    "duration": "03:08",
+    "artists": [
+      {
+        "name": "Selena Gomez",
+        "link": "https://music.163.com/artist?id=140196"
+      }
+    ],
+    "album": {
+      "name": "Revelación - EP",
+      "link": "https://music.163.com/album?id=124251779"
+    }
+  }
+]

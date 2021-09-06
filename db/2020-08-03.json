@@ -1,0 +1,460 @@
+[
+  {
+    "name": "Alright",
+    "link": "https://music.163.com/song?id=1355388671",
+    "duration": "02:49",
+    "artists": [
+      { "name": "NLSN", "link": "https://music.163.com/artist?id=12121013" },
+      { "name": "towty", "link": "https://music.163.com/artist?id=31809420" }
+    ],
+    "album": {
+      "name": "Alright",
+      "link": "https://music.163.com/album?id=78256215"
+    }
+  },
+  {
+    "name": "Fall For You",
+    "link": "https://music.163.com/song?id=1356668467",
+    "duration": "03:17",
+    "artists": [
+      { "name": "Steve James", "link": "https://music.163.com/artist?id=43322" }
+    ],
+    "album": {
+      "name": "Fall For You",
+      "link": "https://music.163.com/album?id=78334079"
+    }
+  },
+  {
+    "name": "Hungry For Your Love",
+    "link": "https://music.163.com/song?id=416424958",
+    "duration": "03:31",
+    "artists": [
+      { "name": "Lenno", "link": "https://music.163.com/artist?id=851470" },
+      {
+        "name": "Jack Novak",
+        "link": "https://music.163.com/artist?id=1087420"
+      },
+      { "name": "Racella", "link": "https://music.163.com/artist?id=28764384" }
+    ],
+    "album": {
+      "name": "All Eyes On Us",
+      "link": "https://music.163.com/album?id=34735094"
+    }
+  },
+  {
+    "name": "Close Your Eyes",
+    "link": "https://music.163.com/song?id=1405289525",
+    "duration": "02:40",
+    "artists": [
+      {
+        "name": "Felix Jaehn",
+        "link": "https://music.163.com/artist?id=963083"
+      },
+      { "name": "VIZE", "link": "https://music.163.com/artist?id=27752357" },
+      { "name": "Miss Li", "link": "https://music.163.com/artist?id=68882" }
+    ],
+    "album": {
+      "name": "Close Your Eyes",
+      "link": "https://music.163.com/album?id=83598177"
+    }
+  },
+  {
+    "name": "Little More",
+    "link": "https://music.163.com/song?id=1332891451",
+    "duration": "02:45",
+    "artists": [
+      { "name": "Reboost", "link": "https://music.163.com/artist?id=12047332" }
+    ],
+    "album": {
+      "name": "Little More",
+      "link": "https://music.163.com/album?id=74857640"
+    }
+  },
+  {
+    "name": "Friends Again",
+    "link": "https://music.163.com/song?id=556201299",
+    "duration": "03:16",
+    "artists": [
+      { "name": "LVTHER", "link": "https://music.163.com/artist?id=1182112" },
+      {
+        "name": "Claire Ridgely",
+        "link": "https://music.163.com/artist?id=14935781"
+      }
+    ],
+    "album": {
+      "name": "Friends Again",
+      "link": "https://music.163.com/album?id=38531104"
+    }
+  },
+  {
+    "name": "Daydreamer",
+    "link": "https://music.163.com/song?id=1300595227",
+    "duration": "04:12",
+    "artists": [
+      {
+        "name": "William Black",
+        "link": "https://music.163.com/artist?id=248957"
+      },
+      { "name": "AMIDY", "link": "https://music.163.com/artist?id=12203566" }
+    ],
+    "album": {
+      "name": "Daydreamer",
+      "link": "https://music.163.com/album?id=72072326"
+    }
+  },
+  {
+    "name": "On My Own",
+    "link": "https://music.163.com/song?id=862100907",
+    "duration": "04:30",
+    "artists": [
+      { "name": "Far Out", "link": "https://music.163.com/artist?id=824107" },
+      { "name": "Karra", "link": "https://music.163.com/artist?id=1081582" }
+    ],
+    "album": {
+      "name": "On My Own",
+      "link": "https://music.163.com/album?id=71613868"
+    }
+  },
+  {
+    "name": "Together Alone",
+    "link": "https://music.163.com/song?id=530986137",
+    "duration": "03:40",
+    "artists": [
+      { "name": "Miles Away", "link": "https://music.163.com/artist?id=96821" },
+      {
+        "name": "Marcus James",
+        "link": "https://music.163.com/artist?id=435909"
+      }
+    ],
+    "album": {
+      "name": "Together Alone",
+      "link": "https://music.163.com/album?id=37253398"
+    }
+  },
+  {
+    "name": "Where I Belong",
+    "link": "https://music.163.com/song?id=1410333116",
+    "duration": "04:28",
+    "artists": [
+      { "name": "Protostar", "link": "https://music.163.com/artist?id=711491" },
+      {
+        "name": "Emma McGann",
+        "link": "https://music.163.com/artist?id=12941089"
+      }
+    ],
+    "album": {
+      "name": "Where I Belong",
+      "link": "https://music.163.com/album?id=84173220"
+    }
+  },
+  {
+    "name": "Tell Me (Color Source Remix)",
+    "link": "https://music.163.com/song?id=525240107",
+    "duration": "03:15",
+    "artists": [
+      {
+        "name": "Color Source",
+        "link": "https://music.163.com/artist?id=1097152"
+      },
+      {
+        "name": "PineHaven ",
+        "link": "https://music.163.com/artist?id=12047806"
+      },
+      {
+        "name": "Lilianna Wilde",
+        "link": "https://music.163.com/artist?id=14711114"
+      }
+    ],
+    "album": {
+      "name": "Tell Me (Color Source Remix)",
+      "link": "https://music.163.com/album?id=37027043"
+    }
+  },
+  {
+    "name": "Crying Shame",
+    "link": "https://music.163.com/song?id=1393492579",
+    "duration": "03:20",
+    "artists": [
+      {
+        "name": "Pegboard Nerds",
+        "link": "https://music.163.com/artist?id=205700"
+      },
+      { "name": "NERVO", "link": "https://music.163.com/artist?id=97927" }
+    ],
+    "album": {
+      "name": "Crying Shame",
+      "link": "https://music.163.com/album?id=81960415"
+    }
+  },
+  {
+    "name": "We Would Never Do (Live Session) ",
+    "link": "https://music.163.com/song?id=547971135",
+    "duration": "02:25",
+    "artists": [
+      {
+        "name": "Taska Black",
+        "link": "https://music.163.com/artist?id=12066018"
+      },
+      { "name": "Nevve", "link": "https://music.163.com/artist?id=12567101" }
+    ],
+    "album": {
+      "name": "We Would Never Do (Live Session)",
+      "link": "https://music.163.com/album?id=38044030"
+    }
+  },
+  {
+    "name": "colorblind",
+    "link": "https://music.163.com/song?id=1401899720",
+    "duration": "03:13",
+    "artists": [
+      { "name": "Mokita", "link": "https://music.163.com/artist?id=12033046" }
+    ],
+    "album": {
+      "name": "colorblind",
+      "link": "https://music.163.com/album?id=83102480"
+    }
+  },
+  {
+    "name": "Get to Know U",
+    "link": "https://music.163.com/song?id=1385506275",
+    "duration": "03:20",
+    "artists": [
+      { "name": "Orkid", "link": "https://music.163.com/artist?id=12971173" }
+    ],
+    "album": {
+      "name": "Get to Know U",
+      "link": "https://music.163.com/album?id=81056266"
+    }
+  },
+  {
+    "name": "Only Now (feat. Tyler Graves)",
+    "link": "https://music.163.com/song?id=1424216182",
+    "duration": "03:31",
+    "artists": [
+      {
+        "name": "Seven Lions",
+        "link": "https://music.163.com/artist?id=44204"
+      },
+      {
+        "name": "Tyler Graves",
+        "link": "https://music.163.com/artist?id=31834852"
+      }
+    ],
+    "album": {
+      "name": "Only Now (feat. Tyler Graves)",
+      "link": "https://music.163.com/album?id=85814450"
+    }
+  },
+  {
+    "name": "Omen In The Rain (Seven Lions Remix)",
+    "link": "https://music.163.com/song?id=485960392",
+    "duration": "04:39",
+    "artists": [
+      { "name": "Myon", "link": "https://music.163.com/artist?id=96759" },
+      {
+        "name": "Seven Lions",
+        "link": "https://music.163.com/artist?id=44204"
+      },
+      {
+        "name": "Alissa Feudo",
+        "link": "https://music.163.com/artist?id=13202723"
+      }
+    ],
+    "album": {
+      "name": "Omen In The Rain (The Remixes)",
+      "link": "https://music.163.com/album?id=35663019"
+    }
+  },
+  {
+    "name": "Take Me With You",
+    "link": "https://music.163.com/song?id=518895995",
+    "duration": "03:58",
+    "artists": [
+      { "name": "Fleurie", "link": "https://music.163.com/artist?id=860929" },
+      { "name": "Ruslan", "link": "https://music.163.com/artist?id=816254" }
+    ],
+    "album": {
+      "name": "Take Me With You",
+      "link": "https://music.163.com/album?id=36813215"
+    }
+  },
+  {
+    "name": "Maybe",
+    "link": "https://music.163.com/song?id=1363686226",
+    "duration": "02:29",
+    "artists": [
+      {
+        "name": "Tim Schaufert",
+        "link": "https://music.163.com/artist?id=12355110"
+      },
+      { "name": "Chymes", "link": "https://music.163.com/artist?id=12067050" }
+    ],
+    "album": {
+      "name": "Maybe",
+      "link": "https://music.163.com/album?id=78966845"
+    }
+  },
+  {
+    "name": "Peppermint Lips",
+    "link": "https://music.163.com/song?id=483242395",
+    "duration": "03:57",
+    "artists": [
+      { "name": "Krizin", "link": "https://music.163.com/artist?id=1193202" },
+      { "name": "Slyleaf", "link": "https://music.163.com/artist?id=12155045" }
+    ],
+    "album": {
+      "name": "Peppermint Lips",
+      "link": "https://music.163.com/album?id=35590671"
+    }
+  },
+  {
+    "name": "Ison",
+    "link": "https://music.163.com/song?id=36587524",
+    "duration": "05:31",
+    "artists": [
+      { "name": "Au5", "link": "https://music.163.com/artist?id=359309" },
+      { "name": "Fractal", "link": "https://music.163.com/artist?id=135396" }
+    ],
+    "album": {
+      "name": "Ison / Pavonine",
+      "link": "https://music.163.com/album?id=3394563"
+    }
+  },
+  {
+    "name": "Should I",
+    "link": "https://music.163.com/song?id=515223490",
+    "duration": "03:05",
+    "artists": [
+      {
+        "name": "Phoebe Ryan",
+        "link": "https://music.163.com/artist?id=854363"
+      }
+    ],
+    "album": {
+      "name": "James - EP",
+      "link": "https://music.163.com/album?id=36515723"
+    }
+  },
+  {
+    "name": "Bruk It Down (feat. TxTHEWAY)",
+    "link": "https://music.163.com/song?id=1442445972",
+    "duration": "02:17",
+    "artists": [
+      { "name": "KSHMR", "link": "https://music.163.com/artist?id=896139" },
+      { "name": "Sak Noel", "link": "https://music.163.com/artist?id=44006" },
+      { "name": "TxTHEWAY", "link": "https://music.163.com/artist?id=34930214" }
+    ],
+    "album": {
+      "name": "Bruk It Down (feat. TxTHEWAY)",
+      "link": "https://music.163.com/album?id=88344734"
+    }
+  },
+  {
+    "name": "Hometown",
+    "link": "https://music.163.com/song?id=570295132",
+    "duration": "03:07",
+    "artists": [
+      { "name": "Sheppard", "link": "https://music.163.com/artist?id=200742" }
+    ],
+    "album": {
+      "name": "Hometown",
+      "link": "https://music.163.com/album?id=39533026"
+    }
+  },
+  {
+    "name": "Live A Little Louder",
+    "link": "https://music.163.com/song?id=1432440332",
+    "duration": "03:06",
+    "artists": [
+      {
+        "name": "Thomas Gold",
+        "link": "https://music.163.com/artist?id=196219"
+      }
+    ],
+    "album": {
+      "name": "Live A Little Louder",
+      "link": "https://music.163.com/album?id=86672177"
+    }
+  },
+  {
+    "name": "Don't Call Me Up",
+    "link": "https://music.163.com/song?id=1340507796",
+    "duration": "02:58",
+    "artists": [
+      { "name": "Mabel", "link": "https://music.163.com/artist?id=1176005" }
+    ],
+    "album": {
+      "name": "Ivy To Roses (Mixtape)",
+      "link": "https://music.163.com/album?id=75226531"
+    }
+  },
+  {
+    "name": "Get Out My Head",
+    "link": "https://music.163.com/song?id=1414639583",
+    "duration": "02:38",
+    "artists": [
+      { "name": "HINA", "link": "https://music.163.com/artist?id=12649631" }
+    ],
+    "album": {
+      "name": "Get Out My Head",
+      "link": "https://music.163.com/album?id=84660611"
+    }
+  },
+  {
+    "name": "Mountain",
+    "link": "https://music.163.com/song?id=1349750998",
+    "duration": "03:22",
+    "artists": [
+      {
+        "name": "The Darkmaker",
+        "link": "https://music.163.com/artist?id=31492299"
+      },
+      { "name": "MYCH", "link": "https://music.163.com/artist?id=32826882" }
+    ],
+    "album": {
+      "name": "Mountain",
+      "link": "https://music.163.com/album?id=75718562"
+    }
+  },
+  {
+    "name": "Weekender Girl",
+    "link": "https://music.163.com/song?id=26115913",
+    "duration": "03:33",
+    "artists": [
+      { "name": "livetune", "link": "https://music.163.com/artist?id=20374" },
+      { "name": "初音ミク", "link": "https://music.163.com/artist?id=159692" },
+      { "name": "八王子P", "link": "https://music.163.com/artist?id=15983" }
+    ],
+    "album": {
+      "name": "Re:Dial",
+      "link": "https://music.163.com/album?id=2389625"
+    }
+  },
+  {
+    "name": "There For You",
+    "link": "https://music.163.com/song?id=554726630",
+    "duration": "02:46",
+    "artists": [
+      { "name": "J.Fla", "link": "https://music.163.com/artist?id=805090" }
+    ],
+    "album": {
+      "name": "Rose",
+      "link": "https://music.163.com/album?id=38454856"
+    }
+  },
+  {
+    "name": "Calling",
+    "link": "https://music.163.com/song?id=1363677518",
+    "duration": "03:51",
+    "artists": [
+      {
+        "name": "HoneyComeBear",
+        "link": "https://music.163.com/artist?id=12675383"
+      }
+    ],
+    "album": {
+      "name": "Holic",
+      "link": "https://music.163.com/album?id=78965591"
+    }
+  }
+]

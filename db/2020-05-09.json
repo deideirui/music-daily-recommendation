@@ -1,0 +1,441 @@
+[
+  {
+    "name": "So Cold",
+    "link": "https://music.163.com/song?id=1350187829",
+    "duration": "03:17",
+    "artists": [
+      { "name": "Mahalo", "link": "https://music.163.com/artist?id=12053112" },
+      { "name": "DLMT", "link": "https://music.163.com/artist?id=12036036" },
+      {
+        "name": "Lily Denning",
+        "link": "https://music.163.com/artist?id=14310113"
+      }
+    ],
+    "album": {
+      "name": "So Cold",
+      "link": "https://music.163.com/album?id=75774105"
+    }
+  },
+  {
+    "name": "Touch My Hand",
+    "link": "https://music.163.com/song?id=17241387",
+    "duration": "04:21",
+    "artists": [
+      {
+        "name": "David Archuleta",
+        "link": "https://music.163.com/artist?id=31192"
+      }
+    ],
+    "album": {
+      "name": "David Archuleta",
+      "link": "https://music.163.com/album?id=1589193"
+    }
+  },
+  {
+    "name": "Holy",
+    "link": "https://music.163.com/song?id=31341269",
+    "duration": "04:55",
+    "artists": [
+      { "name": "PVRIS", "link": "https://music.163.com/artist?id=960005" }
+    ],
+    "album": {
+      "name": "White Noise",
+      "link": "https://music.163.com/album?id=3111506"
+    }
+  },
+  {
+    "name": "Little Babylon",
+    "link": "https://music.163.com/song?id=418603524",
+    "duration": "03:09",
+    "artists": [
+      { "name": "Polina", "link": "https://music.163.com/artist?id=985084" }
+    ],
+    "album": {
+      "name": "Little Babylon",
+      "link": "https://music.163.com/album?id=34749158"
+    }
+  },
+  {
+    "name": "It Is What It Is",
+    "link": "https://music.163.com/song?id=16650843",
+    "duration": "03:21",
+    "artists": [
+      { "name": "Lifehouse", "link": "https://music.163.com/artist?id=95434" }
+    ],
+    "album": {
+      "name": "Smoke & Mirrors",
+      "link": "https://music.163.com/album?id=1534790"
+    }
+  },
+  {
+    "name": "Dans Un Autre Reve",
+    "link": "https://music.163.com/song?id=408055514",
+    "duration": "03:57",
+    "artists": [
+      { "name": "Brett", "link": "https://music.163.com/artist?id=967045" }
+    ],
+    "album": {
+      "name": "Mode",
+      "link": "https://music.163.com/album?id=34588340"
+    }
+  },
+  {
+    "name": "Swear Like a Sailor",
+    "link": "https://music.163.com/song?id=35283616",
+    "duration": "03:54",
+    "artists": [
+      { "name": "Tep No", "link": "https://music.163.com/artist?id=956357" }
+    ],
+    "album": {
+      "name": "Swear Like a Sailor",
+      "link": "https://music.163.com/album?id=3308960"
+    }
+  },
+  {
+    "name": "Catch My Breath (Suprafive Remix)",
+    "link": "https://music.163.com/song?id=458238609",
+    "duration": "04:35",
+    "artists": [
+      {
+        "name": "Suprafive",
+        "link": "https://music.163.com/artist?id=1022142"
+      },
+      {
+        "name": "Kelly Clarkson",
+        "link": "https://music.163.com/artist?id=62885"
+      }
+    ],
+    "album": {
+      "name": "Catch My Breath (Suprafive Remix)",
+      "link": "https://music.163.com/album?id=35157465"
+    }
+  },
+  {
+    "name": "Leave a Trace",
+    "link": "https://music.163.com/song?id=33255880",
+    "duration": "03:57",
+    "artists": [
+      { "name": "CHVRCHES", "link": "https://music.163.com/artist?id=694027" }
+    ],
+    "album": {
+      "name": "Leave a Trace",
+      "link": "https://music.163.com/album?id=3196130"
+    }
+  },
+  {
+    "name": "Catch Me If You Can",
+    "link": "https://music.163.com/song?id=475207252",
+    "duration": "03:09",
+    "artists": [
+      {
+        "name": "John Dahlbäck",
+        "link": "https://music.163.com/artist?id=688498"
+      }
+    ],
+    "album": {
+      "name": "Catch Me If You Can",
+      "link": "https://music.163.com/album?id=35377959"
+    }
+  },
+  {
+    "name": "Tell 'Em Why",
+    "link": "https://music.163.com/song?id=465833911",
+    "duration": "03:18",
+    "artists": [
+      {
+        "name": "Sammy Arriaga",
+        "link": "https://music.163.com/artist?id=12334036"
+      }
+    ],
+    "album": {
+      "name": "Meet in the Middle",
+      "link": "https://music.163.com/album?id=35274139"
+    }
+  },
+  {
+    "name": "Sirius",
+    "link": "https://music.163.com/song?id=436016809",
+    "duration": "03:09",
+    "artists": [
+      {
+        "name": "Gianni Kosta",
+        "link": "https://music.163.com/artist?id=1097125"
+      },
+      { "name": "Belle", "link": "https://music.163.com/artist?id=50827" }
+    ],
+    "album": {
+      "name": "The Bearded Man - Beards In The Club",
+      "link": "https://music.163.com/album?id=34886982"
+    }
+  },
+  {
+    "name": "It's Not Living (If It's Not With You)",
+    "link": "https://music.163.com/song?id=1318700849",
+    "duration": "04:08",
+    "artists": [
+      { "name": "The 1975", "link": "https://music.163.com/artist?id=104457" }
+    ],
+    "album": {
+      "name": "It's Not Living (If It's Not With You)",
+      "link": "https://music.163.com/album?id=73968393"
+    }
+  },
+  {
+    "name": "Pteryla",
+    "link": "https://music.163.com/song?id=517902792",
+    "duration": "04:27",
+    "artists": [
+      { "name": "Novo Amor", "link": "https://music.163.com/artist?id=904041" },
+      {
+        "name": "Ed Tullett",
+        "link": "https://music.163.com/artist?id=12863130"
+      }
+    ],
+    "album": {
+      "name": "Heiress",
+      "link": "https://music.163.com/album?id=36771113"
+    }
+  },
+  {
+    "name": "Remedy",
+    "link": "https://music.163.com/song?id=493551013",
+    "duration": "02:58",
+    "artists": [
+      {
+        "name": "Zonderling",
+        "link": "https://music.163.com/artist?id=981038"
+      },
+      { "name": "Mingue", "link": "https://music.163.com/artist?id=13678630" }
+    ],
+    "album": {
+      "name": "Remedy",
+      "link": "https://music.163.com/album?id=35848011"
+    }
+  },
+  {
+    "name": "Gravity Waves",
+    "link": "https://music.163.com/song?id=506139199",
+    "duration": "05:24",
+    "artists": [
+      {
+        "name": "John Stanford",
+        "link": "https://music.163.com/artist?id=37294"
+      }
+    ],
+    "album": {
+      "name": "Automatica",
+      "link": "https://music.163.com/album?id=36049733"
+    }
+  },
+  {
+    "name": "Dandelion's Promise",
+    "link": "https://music.163.com/song?id=1387775063",
+    "duration": "04:15",
+    "artists": [
+      { "name": "胡伟佳", "link": "https://music.163.com/artist?id=13450520" }
+    ],
+    "album": {
+      "name": "Dandelion's Promise",
+      "link": "https://music.163.com/album?id=81254710"
+    }
+  },
+  {
+    "name": "Music In You (Extended Mix)",
+    "link": "https://music.163.com/song?id=406096370",
+    "duration": "05:01",
+    "artists": [
+      {
+        "name": "Sebastien",
+        "link": "https://music.163.com/artist?id=1171040"
+      },
+      {
+        "name": "Boy Tedson",
+        "link": "https://music.163.com/artist?id=11975139"
+      }
+    ],
+    "album": {
+      "name": "Armada Miami 2016 - The Deep Edition",
+      "link": "https://music.163.com/album?id=34515666"
+    }
+  },
+  {
+    "name": "Bdy",
+    "link": "https://music.163.com/song?id=442589213",
+    "duration": "03:08",
+    "artists": [
+      { "name": "Stalgia", "link": "https://music.163.com/artist?id=1079129" }
+    ],
+    "album": {
+      "name": "Bdy",
+      "link": "https://music.163.com/album?id=35004562"
+    }
+  },
+  {
+    "name": "Waves (Original Mix)",
+    "link": "https://music.163.com/song?id=33190132",
+    "duration": "05:10",
+    "artists": [
+      {
+        "name": "Alex Skrindo",
+        "link": "https://music.163.com/artist?id=1046359"
+      }
+    ],
+    "album": {
+      "name": "Waves",
+      "link": "https://music.163.com/album?id=3189038"
+    }
+  },
+  {
+    "name": "Runnin'",
+    "link": "https://music.163.com/song?id=16343605",
+    "duration": "03:48",
+    "artists": [
+      {
+        "name": "Adam Lambert",
+        "link": "https://music.163.com/artist?id=27604"
+      }
+    ],
+    "album": {
+      "name": "Trespassing (Deluxe Version)",
+      "link": "https://music.163.com/album?id=1508237"
+    }
+  },
+  {
+    "name": "Rise Up",
+    "link": "https://music.163.com/song?id=1399061280",
+    "duration": "02:49",
+    "artists": [
+      { "name": "TheFatRat", "link": "https://music.163.com/artist?id=1019952" }
+    ],
+    "album": {
+      "name": "Rise Up",
+      "link": "https://music.163.com/album?id=82735096"
+    }
+  },
+  {
+    "name": "Sad Robot",
+    "link": "https://music.163.com/song?id=1418900020",
+    "duration": "02:46",
+    "artists": [
+      { "name": "Vexento", "link": "https://music.163.com/artist?id=12037010" }
+    ],
+    "album": {
+      "name": "Sad Robot",
+      "link": "https://music.163.com/album?id=85213884"
+    }
+  },
+  {
+    "name": "Lost Control",
+    "link": "https://music.163.com/song?id=1333160781",
+    "duration": "03:42",
+    "artists": [
+      {
+        "name": "Alan Walker",
+        "link": "https://music.163.com/artist?id=1045123"
+      },
+      { "name": "Sorana", "link": "https://music.163.com/artist?id=427708" }
+    ],
+    "album": {
+      "name": "Different World",
+      "link": "https://music.163.com/album?id=74571750"
+    }
+  },
+  {
+    "name": "Imagination",
+    "link": "https://music.163.com/song?id=29488446",
+    "duration": "03:37",
+    "artists": [
+      {
+        "name": "Gorgon City",
+        "link": "https://music.163.com/artist?id=762398"
+      }
+    ],
+    "album": {
+      "name": "Sirens (Deluxe Version)",
+      "link": "https://music.163.com/album?id=3033150"
+    }
+  },
+  {
+    "name": "Wolves",
+    "link": "https://music.163.com/song?id=536937732",
+    "duration": "02:30",
+    "artists": [
+      {
+        "name": "Alexander Stewart",
+        "link": "https://music.163.com/artist?id=12389236"
+      }
+    ],
+    "album": {
+      "name": "Wolves",
+      "link": "https://music.163.com/album?id=37542312"
+    }
+  },
+  {
+    "name": "What Doesn't Kill You (Stronger) (Glee Cast Version)",
+    "link": "https://music.163.com/song?id=18155638",
+    "duration": "03:41",
+    "artists": [
+      { "name": "Glee Cast", "link": "https://music.163.com/artist?id=93226" }
+    ],
+    "album": {
+      "name": "What Doesn't Kill You (Stronger) (Glee Cast Version)",
+      "link": "https://music.163.com/album?id=1667691"
+    }
+  },
+  {
+    "name": "Only You (Extended Mix)",
+    "link": "https://music.163.com/song?id=536570593",
+    "duration": "08:08",
+    "artists": [
+      { "name": "Driftmoon", "link": "https://music.163.com/artist?id=845037" },
+      {
+        "name": "Julie Thompson",
+        "link": "https://music.163.com/artist?id=62648"
+      }
+    ],
+    "album": {
+      "name": "Only You",
+      "link": "https://music.163.com/album?id=37575150"
+    }
+  },
+  {
+    "name": "BassJam (Remix)",
+    "link": "https://music.163.com/song?id=492146902",
+    "duration": "02:52",
+    "artists": [
+      {
+        "name": "LevitateXC",
+        "link": "https://music.163.com/artist?id=12183535"
+      },
+      { "name": "AVALON", "link": "https://music.163.com/artist?id=12228495" }
+    ],
+    "album": {
+      "name": "BassJam (Convex Remix) [XC Flip]",
+      "link": "https://music.163.com/album?id=35786853"
+    }
+  },
+  {
+    "name": "Will Not Back Down",
+    "link": "https://music.163.com/song?id=1007548",
+    "duration": "04:04",
+    "artists": [
+      { "name": "Alex Band", "link": "https://music.163.com/artist?id=27703" }
+    ],
+    "album": {
+      "name": "We've All Been There",
+      "link": "https://music.163.com/album?id=105304"
+    }
+  },
+  {
+    "name": "Eternity",
+    "link": "https://music.163.com/song?id=425684635",
+    "duration": "05:32",
+    "artists": [
+      { "name": "L3V3LS", "link": "https://music.163.com/artist?id=12007340" }
+    ],
+    "album": {
+      "name": "Eternity",
+      "link": "https://music.163.com/album?id=34816774"
+    }
+  }
+]

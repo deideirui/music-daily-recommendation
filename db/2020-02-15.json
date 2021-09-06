@@ -1,0 +1,425 @@
+[
+  {
+    "name": "Traffic Light",
+    "link": "https://music.163.com/song?id=1356806520",
+    "duration": "02:43",
+    "artists": [
+      { "name": "Rival", "link": "https://music.163.com/artist?id=12741030" },
+      { "name": "Orkid", "link": "https://music.163.com/artist?id=12971173" }
+    ],
+    "album": {
+      "name": "Traffic Light",
+      "link": "https://music.163.com/album?id=78341647"
+    }
+  },
+  {
+    "name": "The Waking of Insects（惊蛰）",
+    "link": "https://music.163.com/song?id=863344341",
+    "duration": "02:43",
+    "artists": [
+      { "name": "THT", "link": "https://music.163.com/artist?id=12495253" },
+      { "name": "VIIOX", "link": "https://music.163.com/artist?id=12923633" }
+    ],
+    "album": {
+      "name": "The Waking of Insects（惊蛰）",
+      "link": "https://music.163.com/album?id=71681895"
+    }
+  },
+  {
+    "name": "Resistant.",
+    "link": "https://music.163.com/song?id=1294204408",
+    "duration": "02:13",
+    "artists": [
+      { "name": "Ryan有光", "link": "https://music.163.com/artist?id=12185226" }
+    ],
+    "album": {
+      "name": "Resistant.",
+      "link": "https://music.163.com/album?id=71775480"
+    }
+  },
+  {
+    "name": "Miss It (feat. RUNN)",
+    "link": "https://music.163.com/song?id=1381082570",
+    "duration": "03:18",
+    "artists": [
+      {
+        "name": "William Black",
+        "link": "https://music.163.com/artist?id=248957"
+      },
+      { "name": "Runn", "link": "https://music.163.com/artist?id=15237536" }
+    ],
+    "album": {
+      "name": "Pages",
+      "link": "https://music.163.com/album?id=80685180"
+    }
+  },
+  {
+    "name": "The Way I Still Love You",
+    "link": "https://music.163.com/song?id=28718313",
+    "duration": "03:46",
+    "artists": [
+      {
+        "name": "Reynard Silva",
+        "link": "https://music.163.com/artist?id=42608"
+      }
+    ],
+    "album": {
+      "name": "Reynard Silva",
+      "link": "https://music.163.com/album?id=2866545"
+    }
+  },
+  {
+    "name": "Heart",
+    "link": "https://music.163.com/song?id=1361335790",
+    "duration": "03:15",
+    "artists": [
+      { "name": "OTR", "link": "https://music.163.com/artist?id=12232013" },
+      { "name": "Shallou", "link": "https://music.163.com/artist?id=12029377" }
+    ],
+    "album": {
+      "name": "Heart",
+      "link": "https://music.163.com/album?id=78779459"
+    }
+  },
+  {
+    "name": "漫游者",
+    "link": "https://music.163.com/song?id=544733584",
+    "duration": "04:17",
+    "artists": [
+      { "name": "蓝云木", "link": "https://music.163.com/artist?id=12277201" }
+    ],
+    "album": {
+      "name": "Rover",
+      "link": "https://music.163.com/album?id=37875559"
+    }
+  },
+  {
+    "name": "Light Hope",
+    "link": "https://music.163.com/song?id=508183250",
+    "duration": "03:57",
+    "artists": [
+      { "name": "浮云心丶", "link": "https://music.163.com/artist?id=12350867" }
+    ],
+    "album": {
+      "name": "Light Hope",
+      "link": "https://music.163.com/album?id=36321173"
+    }
+  },
+  {
+    "name": "Azure Galaxy（苍蓝星系-伴奏）",
+    "link": "https://music.163.com/song?id=487289489",
+    "duration": "03:22",
+    "artists": [
+      { "name": "DJ Soviet", "link": "https://music.163.com/artist?id=999451" }
+    ],
+    "album": {
+      "name": "Azure Galaxy [ HB.to巨蟹座们 ]",
+      "link": "https://music.163.com/album?id=35676736"
+    }
+  },
+  {
+    "name": "七瓶半下肚",
+    "link": "https://music.163.com/song?id=1345884566",
+    "duration": "03:56",
+    "artists": [
+      { "name": "绛舞乱丸", "link": "https://music.163.com/artist?id=12286669" }
+    ],
+    "album": {
+      "name": "Antiobey",
+      "link": "https://music.163.com/album?id=75022100"
+    }
+  },
+  {
+    "name": "Starset",
+    "link": "https://music.163.com/song?id=455502171",
+    "duration": "03:07",
+    "artists": [
+      {
+        "name": "Cody Sorenson",
+        "link": "https://music.163.com/artist?id=12273358"
+      },
+      { "name": "Kadenza", "link": "https://music.163.com/artist?id=12068052" }
+    ],
+    "album": {
+      "name": "Starset",
+      "link": "https://music.163.com/album?id=35139474"
+    }
+  },
+  {
+    "name": "别念",
+    "link": "https://music.163.com/song?id=552560922",
+    "duration": "03:54",
+    "artists": [
+      { "name": "Funton", "link": "https://music.163.com/artist?id=12476269" }
+    ],
+    "album": {
+      "name": "别念",
+      "link": "https://music.163.com/album?id=38311298"
+    }
+  },
+  {
+    "name": "Tales of Neverland（inspiring)",
+    "link": "https://music.163.com/song?id=410628806",
+    "duration": "02:15",
+    "artists": [
+      {
+        "name": "J.T.Peterson",
+        "link": "https://music.163.com/artist?id=12035111"
+      }
+    ],
+    "album": {
+      "name": "Tales of Neverland（inspiring)",
+      "link": "https://music.163.com/album?id=34670141"
+    }
+  },
+  {
+    "name": "Back in My Arms",
+    "link": "https://music.163.com/song?id=1360863944",
+    "duration": "03:15",
+    "artists": [
+      {
+        "name": "Carlie Hanson",
+        "link": "https://music.163.com/artist?id=12566129"
+      }
+    ],
+    "album": {
+      "name": "Back in My Arms",
+      "link": "https://music.163.com/album?id=78726616"
+    }
+  },
+  {
+    "name": "Step Into Infinity",
+    "link": "https://music.163.com/song?id=410801173",
+    "duration": "04:41",
+    "artists": [
+      { "name": "Alwone", "link": "https://music.163.com/artist?id=12029046" }
+    ],
+    "album": {
+      "name": "Step Into Infinity",
+      "link": "https://music.163.com/album?id=34675048"
+    }
+  },
+  {
+    "name": "Good Times",
+    "link": "https://music.163.com/song?id=411754071",
+    "duration": "04:16",
+    "artists": [
+      { "name": "Childsion", "link": "https://music.163.com/artist?id=1215014" }
+    ],
+    "album": {
+      "name": "Good Times",
+      "link": "https://music.163.com/album?id=34672705"
+    }
+  },
+  {
+    "name": "心做し（Cover GUMI）",
+    "link": "https://music.163.com/song?id=478303470",
+    "duration": "04:28",
+    "artists": [
+      { "name": "双笙", "link": "https://music.163.com/artist?id=12025552" }
+    ],
+    "album": {
+      "name": "心做し",
+      "link": "https://music.163.com/album?id=35502568"
+    }
+  },
+  {
+    "name": "The Storm",
+    "link": "https://music.163.com/song?id=1417907835",
+    "duration": "02:48",
+    "artists": [
+      {
+        "name": "TheFatRat",
+        "link": "https://music.163.com/artist?id=1019952"
+      },
+      { "name": "Maisy Kay", "link": "https://music.163.com/artist?id=1124551" }
+    ],
+    "album": {
+      "name": "The Storm",
+      "link": "https://music.163.com/album?id=85101961"
+    }
+  },
+  {
+    "name": "MONG KOK",
+    "link": "https://music.163.com/song?id=1367136346",
+    "duration": "03:55",
+    "artists": [
+      { "name": "N2V", "link": "https://music.163.com/artist?id=1058125" }
+    ],
+    "album": {
+      "name": "PROJECT INITIATION",
+      "link": "https://music.163.com/album?id=79344005"
+    }
+  },
+  {
+    "name": "Summertime",
+    "link": "https://music.163.com/song?id=32166628",
+    "duration": "04:45",
+    "artists": [
+      { "name": "K-391", "link": "https://music.163.com/artist?id=1049937" }
+    ],
+    "album": {
+      "name": "Sunshine",
+      "link": "https://music.163.com/album?id=3154076"
+    }
+  },
+  {
+    "name": "Tobu / Itro - Sunburst（亚索台词版remix）",
+    "link": "https://music.163.com/song?id=450455548",
+    "duration": "03:15",
+    "artists": [
+      {
+        "name": "GOI7（温世超）",
+        "link": "https://music.163.com/artist?id=12025035"
+      }
+    ],
+    "album": {
+      "name": "（亚索台词版remix）",
+      "link": "https://music.163.com/album?id=35103271"
+    }
+  },
+  {
+    "name": "Qingyuan",
+    "link": "https://music.163.com/song?id=862939541",
+    "duration": "02:46",
+    "artists": [
+      { "name": "牧渔", "link": "https://music.163.com/artist?id=12611098" }
+    ],
+    "album": { "name": "忆", "link": "https://music.163.com/album?id=36519138" }
+  },
+  {
+    "name": "Silver Scrapes - (英雄联盟2012全球总决赛主题曲)",
+    "link": "https://music.163.com/song?id=27946894",
+    "duration": "03:19",
+    "artists": [
+      { "name": "英雄联盟", "link": "https://music.163.com/artist?id=1047337" },
+      {
+        "name": "Danny McCarthy",
+        "link": "https://music.163.com/artist?id=1047006"
+      }
+    ],
+    "album": {
+      "name": "最新热歌慢摇16",
+      "link": "https://music.163.com/album?id=2698161"
+    }
+  },
+  {
+    "name": "Too Far Gone (COASTR. Remix)",
+    "link": "https://music.163.com/song?id=1380057788",
+    "duration": "02:50",
+    "artists": [
+      {
+        "name": "Lost Kings",
+        "link": "https://music.163.com/artist?id=847225"
+      },
+      {
+        "name": "Anna Clendening",
+        "link": "https://music.163.com/artist?id=12533901"
+      }
+    ],
+    "album": {
+      "name": "Too Far Gone (Remixes)",
+      "link": "https://music.163.com/album?id=80605133"
+    }
+  },
+  {
+    "name": "lifter",
+    "link": "https://music.163.com/song?id=33190483",
+    "duration": "03:43",
+    "artists": [
+      { "name": "Galen Crew", "link": "https://music.163.com/artist?id=34435" }
+    ],
+    "album": {
+      "name": "Let Them Sing",
+      "link": "https://music.163.com/album?id=3189104"
+    }
+  },
+  {
+    "name": "Seawalk",
+    "link": "https://music.163.com/song?id=537677748",
+    "duration": "04:20",
+    "artists": [
+      { "name": "冷魚", "link": "https://music.163.com/artist?id=12090271" }
+    ],
+    "album": {
+      "name": "Seawalk",
+      "link": "https://music.163.com/album?id=37554952"
+    }
+  },
+  {
+    "name": "似水流年•落英",
+    "link": "https://music.163.com/song?id=482636852",
+    "duration": "01:45",
+    "artists": [
+      { "name": "群星", "link": "https://music.163.com/artist?id=122455" }
+    ],
+    "album": {
+      "name": "海棠树下",
+      "link": "https://music.163.com/album?id=35590188"
+    }
+  },
+  {
+    "name": "Lift Me Up (FlyBoy Remix)",
+    "link": "https://music.163.com/song?id=35955099",
+    "duration": "03:42",
+    "artists": [
+      { "name": "FlyBoy", "link": "https://music.163.com/artist?id=1063144" },
+      { "name": "Mree", "link": "https://music.163.com/artist?id=69194" }
+    ],
+    "album": {
+      "name": "Lift Me Up (FlyBoy Remix)",
+      "link": "https://music.163.com/album?id=3378204"
+    }
+  },
+  {
+    "name": "Colourway",
+    "link": "https://music.163.com/song?id=480769622",
+    "duration": "03:48",
+    "artists": [
+      { "name": "Novo Amor", "link": "https://music.163.com/artist?id=904041" }
+    ],
+    "album": {
+      "name": "Bathing Beach",
+      "link": "https://music.163.com/album?id=35562140"
+    }
+  },
+  {
+    "name": "星宿计时",
+    "link": "https://music.163.com/song?id=534048495",
+    "duration": "05:01",
+    "artists": [
+      { "name": "杉田朗", "link": "https://music.163.com/artist?id=13147350" },
+      { "name": "洛天依", "link": "https://music.163.com/artist?id=906118" }
+    ],
+    "album": {
+      "name": "杉田朗",
+      "link": "https://music.163.com/album?id=37435027"
+    }
+  },
+  {
+    "name": "执笔画棠",
+    "link": "https://music.163.com/song?id=1353753801",
+    "duration": "03:57",
+    "artists": [
+      { "name": "闹闹丶", "link": "https://music.163.com/artist?id=12357233" },
+      { "name": "洛天依", "link": "https://music.163.com/artist?id=906118" },
+      { "name": "乐正绫", "link": "https://music.163.com/artist?id=1102240" }
+    ],
+    "album": {
+      "name": "执笔画棠",
+      "link": "https://music.163.com/album?id=78143927"
+    }
+  },
+  {
+    "name": "斗牛 (Live)",
+    "link": "https://music.163.com/song?id=1422992414",
+    "duration": "06:22",
+    "artists": [
+      { "name": "华晨宇", "link": "https://music.163.com/artist?id=861777" }
+    ],
+    "album": {
+      "name": "歌手·当打之年 第2期",
+      "link": "https://music.163.com/album?id=85684430"
+    }
+  }
+]

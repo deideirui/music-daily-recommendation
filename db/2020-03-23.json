@@ -1,0 +1,464 @@
+[
+  {
+    "name": "The Hollow Mountain",
+    "link": "https://music.163.com/song?id=2022748",
+    "duration": "02:38",
+    "artists": [
+      {
+        "name": "Twinsistermoon",
+        "link": "https://music.163.com/artist?id=44513"
+      }
+    ],
+    "album": {
+      "name": "The Hollow Mountain",
+      "link": "https://music.163.com/album?id=203697"
+    }
+  },
+  {
+    "name": "Cast Away",
+    "link": "https://music.163.com/song?id=1318708602",
+    "duration": "03:12",
+    "artists": [
+      { "name": "Ella Vos", "link": "https://music.163.com/artist?id=12121298" }
+    ],
+    "album": {
+      "name": "Watch & Wait",
+      "link": "https://music.163.com/album?id=74991484"
+    }
+  },
+  {
+    "name": "Wild Child",
+    "link": "https://music.163.com/song?id=27501701",
+    "duration": "03:04",
+    "artists": [
+      { "name": "Elen Levon", "link": "https://music.163.com/artist?id=56730" }
+    ],
+    "album": {
+      "name": "Wild Child",
+      "link": "https://music.163.com/album?id=2621121"
+    }
+  },
+  {
+    "name": "Tie You Up (Radio Mix)",
+    "link": "https://music.163.com/song?id=30064764",
+    "duration": "03:17",
+    "artists": [
+      {
+        "name": "Angelika Vee",
+        "link": "https://music.163.com/artist?id=904230"
+      }
+    ],
+    "album": {
+      "name": "Tie You Up",
+      "link": "https://music.163.com/album?id=3093105"
+    }
+  },
+  {
+    "name": "Traffic Light",
+    "link": "https://music.163.com/song?id=1356806520",
+    "duration": "02:43",
+    "artists": [
+      { "name": "Rival", "link": "https://music.163.com/artist?id=12741030" },
+      { "name": "Orkid", "link": "https://music.163.com/artist?id=12971173" }
+    ],
+    "album": {
+      "name": "Traffic Light",
+      "link": "https://music.163.com/album?id=78341647"
+    }
+  },
+  {
+    "name": "One For You",
+    "link": "https://music.163.com/song?id=1343109819",
+    "duration": "03:02",
+    "artists": [
+      {
+        "name": "Gill Chang",
+        "link": "https://music.163.com/artist?id=13868921"
+      },
+      { "name": "glasscat", "link": "https://music.163.com/artist?id=30729379" }
+    ],
+    "album": {
+      "name": "One For You",
+      "link": "https://music.163.com/album?id=75382010"
+    }
+  },
+  {
+    "name": "Winter of Love (Dub Mix)",
+    "link": "https://music.163.com/song?id=513959062",
+    "duration": "07:25",
+    "artists": [
+      {
+        "name": "Sunlight Project",
+        "link": "https://music.163.com/artist?id=858214"
+      }
+    ],
+    "album": {
+      "name": "Winter of Love",
+      "link": "https://music.163.com/album?id=36617732"
+    }
+  },
+  {
+    "name": "Deep Blue (feat. Monika Santucci)",
+    "link": "https://music.163.com/song?id=1381084455",
+    "duration": "03:21",
+    "artists": [
+      {
+        "name": "William Black",
+        "link": "https://music.163.com/artist?id=248957"
+      },
+      {
+        "name": "Monika Santucci",
+        "link": "https://music.163.com/artist?id=13989763"
+      }
+    ],
+    "album": {
+      "name": "Pages",
+      "link": "https://music.163.com/album?id=80685180"
+    }
+  },
+  {
+    "name": "Slow Down",
+    "link": "https://music.163.com/song?id=1356658022",
+    "duration": "03:23",
+    "artists": [
+      { "name": "Madnap", "link": "https://music.163.com/artist?id=896042" },
+      {
+        "name": "Pauline Herr",
+        "link": "https://music.163.com/artist?id=13080654"
+      }
+    ],
+    "album": {
+      "name": "Slow Down",
+      "link": "https://music.163.com/album?id=78333509"
+    }
+  },
+  {
+    "name": "So Am I",
+    "link": "https://music.163.com/song?id=1349945658",
+    "duration": "03:04",
+    "artists": [
+      { "name": "Ava Max", "link": "https://music.163.com/artist?id=14486166" }
+    ],
+    "album": {
+      "name": "So Am I",
+      "link": "https://music.163.com/album?id=75764156"
+    }
+  },
+  {
+    "name": "Follow You",
+    "link": "https://music.163.com/song?id=1341556036",
+    "duration": "02:52",
+    "artists": [
+      {
+        "name": "Emily Coulston",
+        "link": "https://music.163.com/artist?id=29794032"
+      }
+    ],
+    "album": {
+      "name": "Follow You",
+      "link": "https://music.163.com/album?id=75292884"
+    }
+  },
+  {
+    "name": "Love Myself",
+    "link": "https://music.163.com/song?id=33781715",
+    "duration": "03:38",
+    "artists": [
+      {
+        "name": "Hailee Steinfeld",
+        "link": "https://music.163.com/artist?id=1085045"
+      }
+    ],
+    "album": {
+      "name": "Love Myself",
+      "link": "https://music.163.com/album?id=3263019"
+    }
+  },
+  {
+    "name": "Devil Pray",
+    "link": "https://music.163.com/song?id=29809869",
+    "duration": "04:05",
+    "artists": [
+      { "name": "Madonna", "link": "https://music.163.com/artist?id=66364" }
+    ],
+    "album": {
+      "name": "Rebel Heart",
+      "link": "https://music.163.com/album?id=3081328"
+    }
+  },
+  {
+    "name": "Rodeo",
+    "link": "https://music.163.com/song?id=1374580281",
+    "duration": "02:39",
+    "artists": [
+      { "name": "Trinix", "link": "https://music.163.com/artist?id=11998064" }
+    ],
+    "album": {
+      "name": "Rodeo",
+      "link": "https://music.163.com/album?id=80060326"
+    }
+  },
+  {
+    "name": "Fading",
+    "link": "https://music.163.com/song?id=1320697603",
+    "duration": "03:27",
+    "artists": [
+      {
+        "name": "Alle Farben",
+        "link": "https://music.163.com/artist?id=206027"
+      },
+      { "name": "Ilira", "link": "https://music.163.com/artist?id=847380" }
+    ],
+    "album": {
+      "name": "Fading",
+      "link": "https://music.163.com/album?id=74107109"
+    }
+  },
+  {
+    "name": "Losing Me",
+    "link": "https://music.163.com/song?id=1378713654",
+    "duration": "03:00",
+    "artists": [
+      {
+        "name": "Gabrielle Aplin",
+        "link": "https://music.163.com/artist?id=59169"
+      },
+      { "name": "JP Cooper", "link": "https://music.163.com/artist?id=415889" }
+    ],
+    "album": {
+      "name": "Losing Me",
+      "link": "https://music.163.com/album?id=80463145"
+    }
+  },
+  {
+    "name": "Your Firefly (Georgia Power and Toyota Advert)",
+    "link": "https://music.163.com/song?id=28468152",
+    "duration": "03:12",
+    "artists": [
+      { "name": "Ben Cocks", "link": "https://music.163.com/artist?id=226739" }
+    ],
+    "album": {
+      "name": "...As Heard In",
+      "link": "https://music.163.com/album?id=2805019"
+    }
+  },
+  {
+    "name": "Old Town Road",
+    "link": "https://music.163.com/song?id=1380345824",
+    "duration": "02:27",
+    "artists": [
+      { "name": "MADILYN", "link": "https://music.163.com/artist?id=69270" }
+    ],
+    "album": {
+      "name": "Old Town Road",
+      "link": "https://music.163.com/album?id=80626369"
+    }
+  },
+  {
+    "name": "Wicked Game (Radio)",
+    "link": "https://music.163.com/song?id=1304517647",
+    "duration": "03:38",
+    "artists": [
+      {
+        "name": "Max Oazo",
+        "link": "https://music.163.com/artist?id=13159084"
+      },
+      { "name": "Cami", "link": "https://music.163.com/artist?id=283909" }
+    ],
+    "album": {
+      "name": "Wicked Game (Radio)",
+      "link": "https://music.163.com/album?id=72492027"
+    }
+  },
+  {
+    "name": "Runaway",
+    "link": "https://music.163.com/song?id=552575139",
+    "duration": "03:37",
+    "artists": [
+      {
+        "name": "Sasha Sloan",
+        "link": "https://music.163.com/artist?id=12646102"
+      }
+    ],
+    "album": {
+      "name": "sad girl",
+      "link": "https://music.163.com/album?id=38315180"
+    }
+  },
+  {
+    "name": "Let Me Down Slowly",
+    "link": "https://music.163.com/song?id=566977275",
+    "duration": "02:49",
+    "artists": [
+      {
+        "name": "Alec Benjamin",
+        "link": "https://music.163.com/artist?id=1028104"
+      }
+    ],
+    "album": {
+      "name": "Let Me Down Slowly",
+      "link": "https://music.163.com/album?id=39308895"
+    }
+  },
+  {
+    "name": "Just Hold On",
+    "link": "https://music.163.com/song?id=445845802",
+    "duration": "03:19",
+    "artists": [
+      { "name": "Steve Aoki", "link": "https://music.163.com/artist?id=43608" },
+      {
+        "name": "Louis Tomlinson",
+        "link": "https://music.163.com/artist?id=12214129"
+      }
+    ],
+    "album": {
+      "name": "Just Hold On",
+      "link": "https://music.163.com/album?id=35044197"
+    }
+  },
+  {
+    "name": "Hold Us Together",
+    "link": "https://music.163.com/song?id=480517594",
+    "duration": "03:41",
+    "artists": [
+      { "name": "WILD", "link": "https://music.163.com/artist?id=12074090" }
+    ],
+    "album": {
+      "name": "Hold Us Together",
+      "link": "https://music.163.com/album?id=35550333"
+    }
+  },
+  {
+    "name": "Thank Me Later",
+    "link": "https://music.163.com/song?id=1370378324",
+    "duration": "03:23",
+    "artists": [
+      {
+        "name": "Anna of the North",
+        "link": "https://music.163.com/artist?id=1024012"
+      }
+    ],
+    "album": {
+      "name": "Thank Me Later",
+      "link": "https://music.163.com/album?id=79662999"
+    }
+  },
+  {
+    "name": "Sleepless Nights",
+    "link": "https://music.163.com/song?id=1298371213",
+    "duration": "03:16",
+    "artists": [
+      { "name": "ayokay", "link": "https://music.163.com/artist?id=1116021" },
+      { "name": "Nightly", "link": "https://music.163.com/artist?id=12107608" }
+    ],
+    "album": {
+      "name": "Sleepless Nights",
+      "link": "https://music.163.com/album?id=72105065"
+    }
+  },
+  {
+    "name": "Easier",
+    "link": "https://music.163.com/song?id=1367234935",
+    "duration": "02:37",
+    "artists": [
+      {
+        "name": "5 Seconds of Summer",
+        "link": "https://music.163.com/artist?id=893624"
+      }
+    ],
+    "album": {
+      "name": "Easier",
+      "link": "https://music.163.com/album?id=79358631"
+    }
+  },
+  {
+    "name": "Take Me With You",
+    "link": "https://music.163.com/song?id=518895995",
+    "duration": "03:58",
+    "artists": [
+      { "name": "Fleurie", "link": "https://music.163.com/artist?id=860929" },
+      { "name": "Ruslan", "link": "https://music.163.com/artist?id=816254" }
+    ],
+    "album": {
+      "name": "Take Me With You",
+      "link": "https://music.163.com/album?id=36813215"
+    }
+  },
+  {
+    "name": "LAST TEXT",
+    "link": "https://music.163.com/song?id=1386055783",
+    "duration": "02:54",
+    "artists": [
+      {
+        "name": "Jake Miller",
+        "link": "https://music.163.com/artist?id=776761"
+      }
+    ],
+    "album": {
+      "name": "LAST TEXT",
+      "link": "https://music.163.com/album?id=81103522"
+    }
+  },
+  {
+    "name": "Reprieve",
+    "link": "https://music.163.com/song?id=30569879",
+    "duration": "04:14",
+    "artists": [
+      {
+        "name": "Vallis Alps",
+        "link": "https://music.163.com/artist?id=1050143"
+      }
+    ],
+    "album": {
+      "name": "Vallis Alps",
+      "link": "https://music.163.com/album?id=3102736"
+    }
+  },
+  {
+    "name": "Always or Never",
+    "link": "https://music.163.com/song?id=1383196152",
+    "duration": "03:30",
+    "artists": [
+      {
+        "name": "Vacation Club",
+        "link": "https://music.163.com/artist?id=29183282"
+      }
+    ],
+    "album": {
+      "name": "Always or Never",
+      "link": "https://music.163.com/album?id=80868751"
+    }
+  },
+  {
+    "name": "ヘンゼルとグレーテルの森",
+    "link": "https://music.163.com/song?id=469744526",
+    "duration": "02:56",
+    "artists": [
+      { "name": "Aiobahn", "link": "https://music.163.com/artist?id=1137416" },
+      { "name": "YUC'e", "link": "https://music.163.com/artist?id=12054347" }
+    ],
+    "album": {
+      "name": "Märchen",
+      "link": "https://music.163.com/album?id=35326861"
+    }
+  },
+  {
+    "name": "223's",
+    "link": "https://music.163.com/song?id=1382666583",
+    "duration": "02:56",
+    "artists": [
+      {
+        "name": "YNW Melly",
+        "link": "https://music.163.com/artist?id=13672034"
+      },
+      {
+        "name": "9lokknine",
+        "link": "https://music.163.com/artist?id=32444358"
+      }
+    ],
+    "album": {
+      "name": "223's",
+      "link": "https://music.163.com/album?id=80820375"
+    }
+  }
+]

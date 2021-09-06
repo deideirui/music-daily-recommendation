@@ -1,0 +1,444 @@
+[
+  {
+    "name": "This Moment (feat. Gallie Fisher)",
+    "link": "https://music.163.com/song?id=1481304439",
+    "duration": "03:31",
+    "artists": [
+      {
+        "name": "Crystal Skies",
+        "link": "https://music.163.com/artist?id=1063127"
+      },
+      {
+        "name": "Gallie Fisher",
+        "link": "https://music.163.com/artist?id=31376375"
+      }
+    ],
+    "album": {
+      "name": "Collide EP",
+      "link": "https://music.163.com/album?id=95774856"
+    }
+  },
+  {
+    "name": "See You at the End",
+    "link": "https://music.163.com/song?id=1472588120",
+    "duration": "04:12",
+    "artists": [
+      { "name": "Abandoned", "link": "https://music.163.com/artist?id=28319" },
+      {
+        "name": "Infinoise",
+        "link": "https://music.163.com/artist?id=12598455"
+      },
+      { "name": "Mendum", "link": "https://music.163.com/artist?id=1045065" },
+      {
+        "name": "Brenton Mattheus",
+        "link": "https://music.163.com/artist?id=777352"
+      }
+    ],
+    "album": {
+      "name": "See You at the End",
+      "link": "https://music.163.com/album?id=94242654"
+    }
+  },
+  {
+    "name": "Overflow",
+    "link": "https://music.163.com/song?id=456185223",
+    "duration": "03:36",
+    "artists": [
+      { "name": "SMLE", "link": "https://music.163.com/artist?id=1084201" },
+      {
+        "name": "Helen Tess",
+        "link": "https://music.163.com/artist?id=13311799"
+      }
+    ],
+    "album": {
+      "name": "Overflow (feat. Helen Tess)",
+      "link": "https://music.163.com/album?id=35158070"
+    }
+  },
+  {
+    "name": "Hold Onto Me",
+    "link": "https://music.163.com/song?id=1343696454",
+    "duration": "03:29",
+    "artists": [
+      { "name": "Awakend", "link": "https://music.163.com/artist?id=13049055" },
+      { "name": "Herrin", "link": "https://music.163.com/artist?id=12279436" },
+      {
+        "name": "Sara Skinner",
+        "link": "https://music.163.com/artist?id=1132406"
+      }
+    ],
+    "album": {
+      "name": "Hold Onto Me",
+      "link": "https://music.163.com/album?id=75418301"
+    }
+  },
+  {
+    "name": "All We Do ",
+    "link": "https://music.163.com/song?id=32897951",
+    "duration": "03:28",
+    "artists": [
+      { "name": "Oh Wonder", "link": "https://music.163.com/artist?id=1050128" }
+    ],
+    "album": {
+      "name": " All We Do  ",
+      "link": "https://music.163.com/album?id=3109468"
+    }
+  },
+  {
+    "name": "Remember Not to Forget - (不忘初心)",
+    "link": "https://music.163.com/song?id=512376219",
+    "duration": "03:12",
+    "artists": [
+      {
+        "name": "Audiomachine",
+        "link": "https://music.163.com/artist?id=87066"
+      }
+    ],
+    "album": {
+      "name": "Life",
+      "link": "https://music.163.com/album?id=36528056"
+    }
+  },
+  {
+    "name": "My Feelings",
+    "link": "https://music.163.com/song?id=1442454146",
+    "duration": "03:02",
+    "artists": [
+      {
+        "name": "Riggi & Piros",
+        "link": "https://music.163.com/artist?id=1032116"
+      },
+      { "name": "VENIICE", "link": "https://music.163.com/artist?id=12218056" },
+      { "name": "RANI", "link": "https://music.163.com/artist?id=13774039" }
+    ],
+    "album": {
+      "name": "My Feelings",
+      "link": "https://music.163.com/album?id=88347029"
+    }
+  },
+  {
+    "name": "Keep Raving",
+    "link": "https://music.163.com/song?id=1428416618",
+    "duration": "02:52",
+    "artists": [
+      { "name": "Wax Motif", "link": "https://music.163.com/artist?id=1024419" }
+    ],
+    "album": {
+      "name": "Keep Raving",
+      "link": "https://music.163.com/album?id=86251873"
+    }
+  },
+  {
+    "name": "Answers",
+    "link": "https://music.163.com/song?id=30987269",
+    "duration": "05:44",
+    "artists": [
+      { "name": "Puppet", "link": "https://music.163.com/artist?id=152355" },
+      { "name": "Koo", "link": "https://music.163.com/artist?id=273482" }
+    ],
+    "album": {
+      "name": "Answers",
+      "link": "https://music.163.com/album?id=3109041"
+    }
+  },
+  {
+    "name": "The 7 Seas",
+    "link": "https://music.163.com/song?id=41644553",
+    "duration": "02:22",
+    "artists": [
+      { "name": "F-777", "link": "https://music.163.com/artist?id=742301" }
+    ],
+    "album": {
+      "name": "Pirate Dance Machine",
+      "link": "https://music.163.com/album?id=3450003"
+    }
+  },
+  {
+    "name": "City Glow",
+    "link": "https://music.163.com/song?id=1347616651",
+    "duration": "04:26",
+    "artists": [
+      { "name": "PYLOT", "link": "https://music.163.com/artist?id=865032" }
+    ],
+    "album": {
+      "name": "Solai",
+      "link": "https://music.163.com/album?id=75662489"
+    }
+  },
+  {
+    "name": "Sugar for the Pill",
+    "link": "https://music.163.com/song?id=468738013",
+    "duration": "04:30",
+    "artists": [
+      { "name": "Slowdive", "link": "https://music.163.com/artist?id=100003" }
+    ],
+    "album": {
+      "name": "Slowdive",
+      "link": "https://music.163.com/album?id=35297469"
+    }
+  },
+  {
+    "name": "A Moment Apart",
+    "link": "https://music.163.com/song?id=484249650",
+    "duration": "03:54",
+    "artists": [
+      { "name": "ODESZA", "link": "https://music.163.com/artist?id=839108" }
+    ],
+    "album": {
+      "name": "A Moment Apart",
+      "link": "https://music.163.com/album?id=35630099"
+    }
+  },
+  {
+    "name": "Blame It On The Kids",
+    "link": "https://music.163.com/song?id=1386887797",
+    "duration": "03:16",
+    "artists": [
+      { "name": "AViVA", "link": "https://music.163.com/artist?id=12074178" }
+    ],
+    "album": {
+      "name": "Blame It On The Kids",
+      "link": "https://music.163.com/album?id=81175443"
+    }
+  },
+  {
+    "name": "Get Stüpid",
+    "link": "https://music.163.com/song?id=1356668705",
+    "duration": "02:52",
+    "artists": [
+      { "name": "Bülow", "link": "https://music.163.com/artist?id=12809019" }
+    ],
+    "album": {
+      "name": "Crystalline",
+      "link": "https://music.163.com/album?id=78334140"
+    }
+  },
+  {
+    "name": "Wind Blowing (Melchi Remix)",
+    "link": "https://music.163.com/song?id=1345285423",
+    "duration": "07:04",
+    "artists": [
+      { "name": "Asioto", "link": "https://music.163.com/artist?id=15079967" },
+      { "name": "Melchi", "link": "https://music.163.com/artist?id=12058010" }
+    ],
+    "album": {
+      "name": "Wind Blowing",
+      "link": "https://music.163.com/album?id=75510757"
+    }
+  },
+  {
+    "name": "Fake",
+    "link": "https://music.163.com/song?id=1344644402",
+    "duration": "02:21",
+    "artists": [
+      {
+        "name": "The Tech Thieves",
+        "link": "https://music.163.com/artist?id=12080267"
+      }
+    ],
+    "album": {
+      "name": "Fake",
+      "link": "https://music.163.com/album?id=75479490"
+    }
+  },
+  {
+    "name": "Take Me to Infinity (Radio Edit)",
+    "link": "https://music.163.com/song?id=431855270",
+    "duration": "03:27",
+    "artists": [
+      {
+        "name": "Consoul Trainin",
+        "link": "https://music.163.com/artist?id=207285"
+      }
+    ],
+    "album": {
+      "name": "Take Me to Infinity",
+      "link": "https://music.163.com/album?id=34898052"
+    }
+  },
+  {
+    "name": "Wonderful You",
+    "link": "https://music.163.com/song?id=1402818549",
+    "duration": "05:21",
+    "artists": [
+      { "name": "Melchi", "link": "https://music.163.com/artist?id=12058010" }
+    ],
+    "album": {
+      "name": "Nanjing",
+      "link": "https://music.163.com/album?id=83216469"
+    }
+  },
+  {
+    "name": "So Into You",
+    "link": "https://music.163.com/song?id=1357816082",
+    "duration": "03:02",
+    "artists": [
+      {
+        "name": "My Buddy Mike",
+        "link": "https://music.163.com/artist?id=12260229"
+      },
+      {
+        "name": "Love Alexa",
+        "link": "https://music.163.com/artist?id=29433871"
+      }
+    ],
+    "album": {
+      "name": "So Into You ",
+      "link": "https://music.163.com/album?id=78424448"
+    }
+  },
+  {
+    "name": "Lost Soul ",
+    "link": "https://music.163.com/song?id=33391788",
+    "duration": "04:07",
+    "artists": [
+      {
+        "name": "West District",
+        "link": "https://music.163.com/artist?id=1050867"
+      },
+      { "name": "Mona Moua", "link": "https://music.163.com/artist?id=292048" }
+    ],
+    "album": {
+      "name": " Lost Soul",
+      "link": "https://music.163.com/album?id=3208070"
+    }
+  },
+  {
+    "name": "Naked Soul",
+    "link": "https://music.163.com/song?id=1357447061",
+    "duration": "03:59",
+    "artists": [
+      { "name": "Nurko", "link": "https://music.163.com/artist?id=11991089" },
+      { "name": "Cherney", "link": "https://music.163.com/artist?id=12047010" },
+      { "name": "Elle Vee", "link": "https://music.163.com/artist?id=1046258" }
+    ],
+    "album": {
+      "name": "Naked Soul",
+      "link": "https://music.163.com/album?id=78376123"
+    }
+  },
+  {
+    "name": "You (Spirix Remix)",
+    "link": "https://music.163.com/song?id=529823164",
+    "duration": "02:40",
+    "artists": [
+      { "name": "Spirix", "link": "https://music.163.com/artist?id=12121364" },
+      { "name": "Lines", "link": "https://music.163.com/artist?id=251635" }
+    ],
+    "album": {
+      "name": "You (Spirix Remix)",
+      "link": "https://music.163.com/album?id=37251055"
+    }
+  },
+  {
+    "name": "I'm So Sorry",
+    "link": "https://music.163.com/song?id=1373168761",
+    "duration": "03:00",
+    "artists": [
+      {
+        "name": "Hearts & Colors",
+        "link": "https://music.163.com/artist?id=12399051"
+      }
+    ],
+    "album": {
+      "name": "I'm So Sorry",
+      "link": "https://music.163.com/album?id=79920106"
+    }
+  },
+  {
+    "name": "Come Alive (Talamanca Remix)",
+    "link": "https://music.163.com/song?id=506083821",
+    "duration": "07:37",
+    "artists": [
+      {
+        "name": "South Pole",
+        "link": "https://music.163.com/artist?id=1132390"
+      },
+      { "name": "Talamanca", "link": "https://music.163.com/artist?id=355244" }
+    ],
+    "album": {
+      "name": "Come Alive",
+      "link": "https://music.163.com/album?id=36192636"
+    }
+  },
+  {
+    "name": "Near Skyline",
+    "link": "https://music.163.com/song?id=28055653",
+    "duration": "05:26",
+    "artists": [
+      {
+        "name": "Martin Mittone",
+        "link": "https://music.163.com/artist?id=841127"
+      }
+    ],
+    "album": {
+      "name": "Finally",
+      "link": "https://music.163.com/album?id=2721101"
+    }
+  },
+  {
+    "name": "I Wish",
+    "link": "https://music.163.com/song?id=519935056",
+    "duration": "04:09",
+    "artists": [
+      {
+        "name": "William Black",
+        "link": "https://music.163.com/artist?id=248957"
+      },
+      { "name": "Skylr", "link": "https://music.163.com/artist?id=13122138" }
+    ],
+    "album": {
+      "name": "I Wish",
+      "link": "https://music.163.com/album?id=36813250"
+    }
+  },
+  {
+    "name": "Beautiful Days (Intro Mix)",
+    "link": "https://music.163.com/song?id=28877658",
+    "duration": "06:16",
+    "artists": [
+      {
+        "name": "Melosense",
+        "link": "https://music.163.com/artist?id=12082032"
+      },
+      {
+        "name": "Stratos Messinis",
+        "link": "https://music.163.com/artist?id=29814078"
+      }
+    ],
+    "album": {
+      "name": "Elemental Progressions Volume 1",
+      "link": "https://music.163.com/album?id=2919560"
+    }
+  },
+  {
+    "name": "Winter Without You",
+    "link": "https://music.163.com/song?id=1352962983",
+    "duration": "03:14",
+    "artists": [
+      {
+        "name": "Gloria Kim",
+        "link": "https://music.163.com/artist?id=1163012"
+      }
+    ],
+    "album": {
+      "name": "Winter Without You",
+      "link": "https://music.163.com/album?id=75905628"
+    }
+  },
+  {
+    "name": "Rising Sun",
+    "link": "https://music.163.com/song?id=573583288",
+    "duration": "02:08",
+    "artists": [
+      {
+        "name": "Cody Sorenson",
+        "link": "https://music.163.com/artist?id=12273358"
+      }
+    ],
+    "album": {
+      "name": "Rising Sun",
+      "link": "https://music.163.com/album?id=39719073"
+    }
+  }
+]

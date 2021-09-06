@@ -1,0 +1,434 @@
+[
+  {
+    "name": "All for You (Radio Version)",
+    "link": "https://music.163.com/song?id=3882923",
+    "duration": "03:38",
+    "artists": [
+      { "name": "Ace of Base", "link": "https://music.163.com/artist?id=85522" }
+    ],
+    "album": {
+      "name": "The Golden Ratio",
+      "link": "https://music.163.com/album?id=392826"
+    }
+  },
+  {
+    "name": "La La Love",
+    "link": "https://music.163.com/song?id=28652444",
+    "duration": "03:02",
+    "artists": [
+      { "name": "Ivi Adamou", "link": "https://music.163.com/artist?id=60895" }
+    ],
+    "album": {
+      "name": "Ponane Oi Agapes",
+      "link": "https://music.163.com/album?id=2868887"
+    }
+  },
+  {
+    "name": "Don't Know Sh*t",
+    "link": "https://music.163.com/song?id=1371441510",
+    "duration": "02:35",
+    "artists": [
+      {
+        "name": "Dante Klein",
+        "link": "https://music.163.com/artist?id=1040080"
+      },
+      { "name": "Greff", "link": "https://music.163.com/artist?id=15231778" }
+    ],
+    "album": {
+      "name": "Don't Know Sh*t",
+      "link": "https://music.163.com/album?id=79759541"
+    }
+  },
+  {
+    "name": "Party Around the World (Michael Mind Project Remix Edit)",
+    "link": "https://music.163.com/song?id=28111317",
+    "duration": "03:03",
+    "artists": [
+      { "name": "Carlprit", "link": "https://music.163.com/artist?id=30916" }
+    ],
+    "album": {
+      "name": "Party Around the World",
+      "link": "https://music.163.com/album?id=2732055"
+    }
+  },
+  {
+    "name": "Tu vas me manquer (Pilule Bleue)",
+    "link": "https://music.163.com/song?id=36025856",
+    "duration": "04:10",
+    "artists": [
+      {
+        "name": "Maître Gims",
+        "link": "https://music.163.com/artist?id=710267"
+      }
+    ],
+    "album": {
+      "name": "Mon coeur avait raison",
+      "link": "https://music.163.com/album?id=3367822"
+    }
+  },
+  {
+    "name": "This Is Nightlife (Video Edit)",
+    "link": "https://music.163.com/song?id=26063697",
+    "duration": "02:42",
+    "artists": [
+      {
+        "name": "ItaloBrothers",
+        "link": "https://music.163.com/artist?id=94730"
+      }
+    ],
+    "album": {
+      "name": "This Is Nightlife",
+      "link": "https://music.163.com/album?id=2369702"
+    }
+  },
+  {
+    "name": "Renegades (Extended Mix)",
+    "link": "https://music.163.com/song?id=453268139",
+    "duration": "05:40",
+    "artists": [
+      {
+        "name": "Ørjan Nilsen",
+        "link": "https://music.163.com/artist?id=41064"
+      },
+      {
+        "name": "Jochen Miller",
+        "link": "https://music.163.com/artist?id=131600"
+      }
+    ],
+    "album": {
+      "name": "Renegades",
+      "link": "https://music.163.com/album?id=35123287"
+    }
+  },
+  {
+    "name": "Ring My Bells",
+    "link": "https://music.163.com/song?id=17579310",
+    "duration": "03:55",
+    "artists": [
+      {
+        "name": "Enrique Iglesias",
+        "link": "https://music.163.com/artist?id=32662"
+      }
+    ],
+    "album": {
+      "name": "Insomniac",
+      "link": "https://music.163.com/album?id=1618991"
+    }
+  },
+  {
+    "name": "The Best Thing",
+    "link": "https://music.163.com/song?id=29304742",
+    "duration": "03:53",
+    "artists": [
+      {
+        "name": "Electric Youth",
+        "link": "https://music.163.com/artist?id=658235"
+      }
+    ],
+    "album": {
+      "name": "Innerworld",
+      "link": "https://music.163.com/album?id=2998213"
+    }
+  },
+  {
+    "name": "WHY DONT YOU PLAY LOUDER",
+    "link": "https://music.163.com/song?id=25862793",
+    "duration": "03:18",
+    "artists": [
+      {
+        "name": "Rimini Project",
+        "link": "https://music.163.com/artist?id=99574"
+      }
+    ],
+    "album": {
+      "name": "苏荷酒吧",
+      "link": "https://music.163.com/album?id=2337206"
+    }
+  },
+  {
+    "name": "In My Mind",
+    "link": "https://music.163.com/song?id=437909647",
+    "duration": "03:32",
+    "artists": [
+      {
+        "name": "Maty Noyes",
+        "link": "https://music.163.com/artist?id=12073280"
+      }
+    ],
+    "album": {
+      "name": "Noyes Complaint",
+      "link": "https://music.163.com/album?id=34950085"
+    }
+  },
+  {
+    "name": "Always",
+    "link": "https://music.163.com/song?id=28591875",
+    "duration": "05:14",
+    "artists": [
+      { "name": "Brett", "link": "https://music.163.com/artist?id=967045" }
+    ],
+    "album": {
+      "name": "Brett",
+      "link": "https://music.163.com/album?id=2853161"
+    }
+  },
+  {
+    "name": "Creepin' Up On You",
+    "link": "https://music.163.com/song?id=17282443",
+    "duration": "04:53",
+    "artists": [
+      {
+        "name": "Darren Hayes",
+        "link": "https://music.163.com/artist?id=31190"
+      }
+    ],
+    "album": {
+      "name": "Spin",
+      "link": "https://music.163.com/album?id=1593265"
+    }
+  },
+  {
+    "name": "Into the Night",
+    "link": "https://music.163.com/song?id=37906420",
+    "duration": "04:09",
+    "artists": [
+      {
+        "name": "Madeline Juno",
+        "link": "https://music.163.com/artist?id=896584"
+      }
+    ],
+    "album": {
+      "name": "Salvation",
+      "link": "https://music.163.com/album?id=3424121"
+    }
+  },
+  {
+    "name": "Best I Can",
+    "link": "https://music.163.com/song?id=1426799503",
+    "duration": "03:10",
+    "artists": [
+      {
+        "name": "American Authors",
+        "link": "https://music.163.com/artist?id=762135"
+      },
+      { "name": "SeeB", "link": "https://music.163.com/artist?id=1182169" }
+    ],
+    "album": {
+      "name": "Best I Can",
+      "link": "https://music.163.com/album?id=86089479"
+    }
+  },
+  {
+    "name": "Are You With Me",
+    "link": "https://music.163.com/song?id=29806043",
+    "duration": "02:18",
+    "artists": [
+      {
+        "name": "Lost Frequencies",
+        "link": "https://music.163.com/artist?id=1039114"
+      }
+    ],
+    "album": {
+      "name": "Are You With Me",
+      "link": "https://music.163.com/album?id=3080631"
+    }
+  },
+  {
+    "name": "Fragments",
+    "link": "https://music.163.com/song?id=453130276",
+    "duration": "03:18",
+    "artists": [
+      { "name": "千坂", "link": "https://music.163.com/artist?id=12138261" }
+    ],
+    "album": {
+      "name": "Fragments",
+      "link": "https://music.163.com/album?id=35117884"
+    }
+  },
+  {
+    "name": "Tianjin（China Version）",
+    "link": "https://music.163.com/song?id=539756674",
+    "duration": "04:19",
+    "artists": [
+      {
+        "name": "Eric Chen",
+        "link": "https://music.163.com/artist?id=12605661"
+      }
+    ],
+    "album": {
+      "name": "Tianjin",
+      "link": "https://music.163.com/album?id=37631925"
+    }
+  },
+  {
+    "name": "Bulletproof",
+    "link": "https://music.163.com/song?id=457761714",
+    "duration": "03:30",
+    "artists": [
+      {
+        "name": "Griffin Oskar",
+        "link": "https://music.163.com/artist?id=12279066"
+      }
+    ],
+    "album": {
+      "name": "Hostage",
+      "link": "https://music.163.com/album?id=35165131"
+    }
+  },
+  {
+    "name": "火车开过破晓",
+    "link": "https://music.163.com/song?id=1387110808",
+    "duration": "03:39",
+    "artists": [
+      { "name": "房东的猫", "link": "https://music.163.com/artist?id=1050282" }
+    ],
+    "album": {
+      "name": "火车开过破晓",
+      "link": "https://music.163.com/album?id=81208577"
+    }
+  },
+  {
+    "name": "Ocean Hill",
+    "link": "https://music.163.com/song?id=460413211",
+    "duration": "03:21",
+    "artists": [
+      { "name": "Trinix", "link": "https://music.163.com/artist?id=11998064" }
+    ],
+    "album": {
+      "name": "Hide",
+      "link": "https://music.163.com/album?id=35164883"
+    }
+  },
+  {
+    "name": "China-PiPa",
+    "link": "https://music.163.com/song?id=423104116",
+    "duration": "04:19",
+    "artists": [
+      { "name": "徐梦圆", "link": "https://music.163.com/artist?id=1142042" }
+    ],
+    "album": {
+      "name": "China-Pipa",
+      "link": "https://music.163.com/album?id=34793590"
+    }
+  },
+  {
+    "name": "Häschenparty (Album Version)",
+    "link": "https://music.163.com/song?id=19098254",
+    "duration": "02:43",
+    "artists": [
+      { "name": "Schnuffel", "link": "https://music.163.com/artist?id=74809" }
+    ],
+    "album": {
+      "name": "Ich hab' Dich lieb",
+      "link": "https://music.163.com/album?id=1750651"
+    }
+  },
+  {
+    "name": "Work It Out",
+    "link": "https://music.163.com/song?id=519935364",
+    "duration": "03:11",
+    "artists": [
+      { "name": "RYD", "link": "https://music.163.com/artist?id=12250118" }
+    ],
+    "album": {
+      "name": "Now There's Nowhere",
+      "link": "https://music.163.com/album?id=36813328"
+    }
+  },
+  {
+    "name": "Ghosts",
+    "link": "https://music.163.com/song?id=34913468",
+    "duration": "04:11",
+    "artists": [
+      { "name": "BANNERS", "link": "https://music.163.com/artist?id=1150181" }
+    ],
+    "album": {
+      "name": "Ghosts",
+      "link": "https://music.163.com/album?id=3305074"
+    }
+  },
+  {
+    "name": "This Time ",
+    "link": "https://music.163.com/song?id=467595413",
+    "duration": "02:48",
+    "artists": [
+      {
+        "name": "Paul & Friends",
+        "link": "https://music.163.com/artist?id=12047249"
+      },
+      { "name": "Elsa", "link": "https://music.163.com/artist?id=55548" }
+    ],
+    "album": {
+      "name": "This Time",
+      "link": "https://music.163.com/album?id=35304136"
+    }
+  },
+  {
+    "name": "Do You Believe",
+    "link": "https://music.163.com/song?id=16334195",
+    "duration": "03:28",
+    "artists": [
+      {
+        "name": "Aggro Santos",
+        "link": "https://music.163.com/artist?id=28603"
+      },
+      {
+        "name": "Esmée Denters",
+        "link": "https://music.163.com/artist?id=55604"
+      }
+    ],
+    "album": {
+      "name": "Aggrosantos.com",
+      "link": "https://music.163.com/album?id=1506623"
+    }
+  },
+  {
+    "name": "坏孩子",
+    "link": "https://music.163.com/song?id=167879",
+    "duration": "04:05",
+    "artists": [
+      { "name": "许嵩", "link": "https://music.163.com/artist?id=5771" }
+    ],
+    "album": {
+      "name": "自定义",
+      "link": "https://music.163.com/album?id=16953"
+    }
+  },
+  {
+    "name": "Start",
+    "link": "https://music.163.com/song?id=527612367",
+    "duration": "03:11",
+    "artists": [
+      { "name": "∀", "link": "https://music.163.com/artist?id=12198948" }
+    ],
+    "album": {
+      "name": "Start",
+      "link": "https://music.163.com/album?id=37112837"
+    }
+  },
+  {
+    "name": "27",
+    "link": "https://music.163.com/song?id=481853407",
+    "duration": "03:34",
+    "artists": [
+      { "name": "Majik", "link": "https://music.163.com/artist?id=425162" }
+    ],
+    "album": { "name": "27", "link": "https://music.163.com/album?id=35579077" }
+  },
+  {
+    "name": "Lovers",
+    "link": "https://music.163.com/song?id=428095141",
+    "duration": "06:14",
+    "artists": [
+      {
+        "name": "Timecop1983",
+        "link": "https://music.163.com/artist?id=954496"
+      },
+      { "name": "SEAWAVES", "link": "https://music.163.com/artist?id=12263678" }
+    ],
+    "album": {
+      "name": "Lovers",
+      "link": "https://music.163.com/album?id=34860054"
+    }
+  }
+]

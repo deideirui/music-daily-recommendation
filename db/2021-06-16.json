@@ -1,0 +1,462 @@
+[
+  {
+    "name": "Too Close",
+    "link": "https://music.163.com/song?id=1412691681",
+    "duration": "02:56",
+    "artists": [
+      {
+        "name": "Cally Rhodes",
+        "link": "https://music.163.com/artist?id=12603359"
+      }
+    ],
+    "album": {
+      "name": "Too Close",
+      "link": "https://music.163.com/album?id=84576016"
+    }
+  },
+  {
+    "name": "Adventures",
+    "link": "https://music.163.com/song?id=33922813",
+    "duration": "03:39",
+    "artists": [
+      {
+        "name": "Alex Skrindo",
+        "link": "https://music.163.com/artist?id=1046359"
+      }
+    ],
+    "album": {
+      "name": "Adventures",
+      "link": "https://music.163.com/album?id=3266386"
+    }
+  },
+  {
+    "name": "Antisocial",
+    "link": "https://music.163.com/song?id=550124208",
+    "duration": "02:42",
+    "artists": [
+      { "name": "BEAUZ", "link": "https://music.163.com/artist?id=12131436" },
+      {
+        "name": "Heather Sommer",
+        "link": "https://music.163.com/artist?id=13134228"
+      }
+    ],
+    "album": {
+      "name": "Antisocial",
+      "link": "https://music.163.com/album?id=38226050"
+    }
+  },
+  {
+    "name": "Number",
+    "link": "https://music.163.com/song?id=537407969",
+    "duration": "02:59",
+    "artists": [
+      {
+        "name": "Alexander Oscar",
+        "link": "https://music.163.com/artist?id=12312150"
+      }
+    ],
+    "album": {
+      "name": "Number",
+      "link": "https://music.163.com/album?id=37561418"
+    }
+  },
+  {
+    "name": "Sunshine (Original Mix)",
+    "link": "https://music.163.com/song?id=1297572184",
+    "duration": "07:49",
+    "artists": [
+      { "name": "Etasonic", "link": "https://music.163.com/artist?id=777274" }
+    ],
+    "album": {
+      "name": "Sunshine",
+      "link": "https://music.163.com/album?id=72059313"
+    }
+  },
+  {
+    "name": "对你上瘾 (TurtleDove斑鸠 Remix)",
+    "link": "https://music.163.com/song?id=1323304479",
+    "duration": "04:18",
+    "artists": [
+      {
+        "name": "Turtle Dove斑鸠",
+        "link": "https://music.163.com/artist?id=12283168"
+      },
+      {
+        "name": "OneCandy",
+        "link": "https://music.163.com/artist?id=12286389"
+      },
+      { "name": "谢雨纯", "link": "https://music.163.com/artist?id=12605484" },
+      { "name": "Amaj", "link": "https://music.163.com/artist?id=12118628" }
+    ],
+    "album": {
+      "name": "对你上瘾FULL EP",
+      "link": "https://music.163.com/album?id=74268773"
+    }
+  },
+  {
+    "name": "You'll Be Mine (LeWinD Remix)",
+    "link": "https://music.163.com/song?id=1384319019",
+    "duration": "03:30",
+    "artists": [
+      { "name": "LeWinD", "link": "https://music.163.com/artist?id=32624970" },
+      { "name": "白鸿", "link": "https://music.163.com/artist?id=31008744" }
+    ],
+    "album": {
+      "name": "You'll Be Mine (LeWinD Remix)",
+      "link": "https://music.163.com/album?id=80957249"
+    }
+  },
+  {
+    "name": "Serenity (Original Mix)",
+    "link": "https://music.163.com/song?id=427139312",
+    "duration": "12:38",
+    "artists": [
+      {
+        "name": "Sound Apparel",
+        "link": "https://music.163.com/artist?id=385722"
+      }
+    ],
+    "album": {
+      "name": "The Love That Lasts The Longest",
+      "link": "https://music.163.com/album?id=34839383"
+    }
+  },
+  {
+    "name": "寂しい夏のせいにして（Cover 初音ミク）",
+    "link": "https://music.163.com/song?id=493964975",
+    "duration": "03:55",
+    "artists": [
+      { "name": "尋音", "link": "https://music.163.com/artist?id=12264207" }
+    ],
+    "album": {
+      "name": "寂しい夏のせいにして",
+      "link": "https://music.163.com/album?id=35847481"
+    }
+  },
+  {
+    "name": "Dreams",
+    "link": "https://music.163.com/song?id=497517254",
+    "duration": "04:10",
+    "artists": [
+      { "name": "李祥晖", "link": "https://music.163.com/artist?id=12483027" }
+    ],
+    "album": { "name": "梦", "link": "https://music.163.com/album?id=35927412" }
+  },
+  {
+    "name": "ストロボメモリー - (TV动画《SSSS.DYNAZENON》片尾曲)",
+    "link": "https://music.163.com/song?id=1834823818",
+    "duration": "04:43",
+    "artists": [
+      { "name": "内田真礼", "link": "https://music.163.com/artist?id=18091" }
+    ],
+    "album": {
+      "name": "ストロボメモリー",
+      "link": "https://music.163.com/album?id=125576040"
+    }
+  },
+  {
+    "name": "Now You",
+    "link": "https://music.163.com/song?id=29216700",
+    "duration": "03:31",
+    "artists": [
+      { "name": "Gjan", "link": "https://music.163.com/artist?id=851014" }
+    ],
+    "album": {
+      "name": "Now You",
+      "link": "https://music.163.com/album?id=2997222"
+    }
+  },
+  {
+    "name": "Sea",
+    "link": "https://music.163.com/song?id=549800624",
+    "duration": "04:24",
+    "artists": [
+      {
+        "name": "Ina Wroldsen",
+        "link": "https://music.163.com/artist?id=60879"
+      }
+    ],
+    "album": {
+      "name": "Sea",
+      "link": "https://music.163.com/album?id=38013961"
+    }
+  },
+  {
+    "name": "Tranquility (Original Mix)",
+    "link": "https://music.163.com/song?id=26631923",
+    "duration": "07:04",
+    "artists": [
+      { "name": "Afternova", "link": "https://music.163.com/artist?id=794061" }
+    ],
+    "album": {
+      "name": "Tranquility",
+      "link": "https://music.163.com/album?id=2538317"
+    }
+  },
+  {
+    "name": "Inspiration (Intro Mix)",
+    "link": "https://music.163.com/song?id=1306357792",
+    "duration": "06:33",
+    "artists": [
+      {
+        "name": "Sandro Mireno",
+        "link": "https://music.163.com/artist?id=12975544"
+      },
+      {
+        "name": "Aleksey Gunichev",
+        "link": "https://music.163.com/artist?id=12691236"
+      }
+    ],
+    "album": {
+      "name": "Inspiration",
+      "link": "https://music.163.com/album?id=72785074"
+    }
+  },
+  {
+    "name": "約束をしよう",
+    "link": "https://music.163.com/song?id=825615",
+    "duration": "03:30",
+    "artists": [
+      { "name": "supercell", "link": "https://music.163.com/artist?id=21397" }
+    ],
+    "album": {
+      "name": "さよならメモリーズ",
+      "link": "https://music.163.com/album?id=81913"
+    }
+  },
+  {
+    "name": "ΛSHES",
+    "link": "https://music.163.com/song?id=1367329337",
+    "duration": "02:21",
+    "artists": [
+      {
+        "name": "R!N/Gemie",
+        "link": "https://music.163.com/artist?id=12531080"
+      }
+    ],
+    "album": {
+      "name": "「プロメア」オリジナルサウンドトラック",
+      "link": "https://music.163.com/album?id=79369276"
+    }
+  },
+  {
+    "name": "三月は夜の底 - (黑夜深處的三月)",
+    "link": "https://music.163.com/song?id=31997441",
+    "duration": "04:25",
+    "artists": [
+      { "name": "古川本舗", "link": "https://music.163.com/artist?id=19475" }
+    ],
+    "album": {
+      "name": "SINGALONG7",
+      "link": "https://music.163.com/album?id=3139519"
+    }
+  },
+  {
+    "name": "Ham",
+    "link": "https://music.163.com/song?id=1467857808",
+    "duration": "03:40",
+    "artists": [
+      {
+        "name": "ずっと真夜中でいいのに。",
+        "link": "https://music.163.com/artist?id=15021101"
+      }
+    ],
+    "album": {
+      "name": "朗らかな皮膚とて不服",
+      "link": "https://music.163.com/album?id=93375491"
+    }
+  },
+  {
+    "name": "所以我放弃了音乐/だから僕は音楽を辞めた",
+    "link": "https://music.163.com/song?id=1396378815",
+    "duration": "04:05",
+    "artists": [
+      { "name": "微笑子", "link": "https://music.163.com/artist?id=29023259" },
+      { "name": "盖盖Nyan", "link": "https://music.163.com/artist?id=12627262" }
+    ],
+    "album": {
+      "name": "所以我放弃了音乐/だから僕は音楽を辞めた",
+      "link": "https://music.163.com/album?id=82300812"
+    }
+  },
+  {
+    "name": "A Billion Stars Above (Extended Mix)",
+    "link": "https://music.163.com/song?id=503206674",
+    "duration": "07:32",
+    "artists": [
+      { "name": "RAM", "link": "https://music.163.com/artist?id=73231" },
+      {
+        "name": "Arctic Moon",
+        "link": "https://music.163.com/artist?id=820034"
+      },
+      {
+        "name": "Stine Grove",
+        "link": "https://music.163.com/artist?id=840197"
+      }
+    ],
+    "album": {
+      "name": "A Billion Stars Above",
+      "link": "https://music.163.com/album?id=36107147"
+    }
+  },
+  {
+    "name": "Long shot - (TV动画《Re:从零开始的异世界生活》第二季OP2)",
+    "link": "https://music.163.com/song?id=1812289601",
+    "duration": "04:15",
+    "artists": [
+      { "name": "前島麻由", "link": "https://music.163.com/artist?id=32018304" }
+    ],
+    "album": {
+      "name": "Long shot",
+      "link": "https://music.163.com/album?id=121699001"
+    }
+  },
+  {
+    "name": "Only the Brave",
+    "link": "https://music.163.com/song?id=1344291729",
+    "duration": "04:50",
+    "artists": [
+      { "name": "LeBrock", "link": "https://music.163.com/artist?id=13970913" }
+    ],
+    "album": {
+      "name": "Real Thing (Remastered)",
+      "link": "https://music.163.com/album?id=75462145"
+    }
+  },
+  {
+    "name": "**** it I love you",
+    "link": "https://music.163.com/song?id=1385988348",
+    "duration": "03:38",
+    "artists": [
+      {
+        "name": "Lana Del Rey",
+        "link": "https://music.163.com/artist?id=66212"
+      }
+    ],
+    "album": {
+      "name": "Norman ****ing Rockwell!",
+      "link": "https://music.163.com/album?id=81096083"
+    }
+  },
+  {
+    "name": "Ian P",
+    "link": "https://music.163.com/song?id=1406043551",
+    "duration": "14:35",
+    "artists": [
+      { "name": "Childs", "link": "https://music.163.com/artist?id=727014" }
+    ],
+    "album": {
+      "name": "Yui",
+      "link": "https://music.163.com/album?id=83678262"
+    }
+  },
+  {
+    "name": "I Can Hear You (Beat Service Remix Edit)",
+    "link": "https://music.163.com/song?id=536531143",
+    "duration": "05:00",
+    "artists": [
+      { "name": "Aly & Fila", "link": "https://music.163.com/artist?id=86717" },
+      {
+        "name": "Sue McLaren",
+        "link": "https://music.163.com/artist?id=191658"
+      }
+    ],
+    "album": {
+      "name": "Trance Top 100, Vol. 11",
+      "link": "https://music.163.com/album?id=37565406"
+    }
+  },
+  {
+    "name": "Violetta",
+    "link": "https://music.163.com/song?id=26340506",
+    "duration": "03:15",
+    "artists": [
+      {
+        "name": "Orjan Nilsen",
+        "link": "https://music.163.com/artist?id=41064"
+      }
+    ],
+    "album": {
+      "name": "Violetta",
+      "link": "https://music.163.com/album?id=2456213"
+    }
+  },
+  {
+    "name": "When Im Gone",
+    "link": "https://music.163.com/song?id=1316218595",
+    "duration": "04:25",
+    "artists": [
+      {
+        "name": "Dustin Thompson",
+        "link": "https://music.163.com/artist?id=13646464"
+      }
+    ],
+    "album": {
+      "name": "When Im Gone",
+      "link": "https://music.163.com/album?id=73811427"
+    }
+  },
+  {
+    "name": "Veins",
+    "link": "https://music.163.com/song?id=535520413",
+    "duration": "03:41",
+    "artists": [
+      {
+        "name": "Craig Connelly",
+        "link": "https://music.163.com/artist?id=191566"
+      }
+    ],
+    "album": {
+      "name": "Veins",
+      "link": "https://music.163.com/album?id=3189012"
+    }
+  },
+  {
+    "name": "Orca (New World Intro Mix Remaster)",
+    "link": "https://music.163.com/song?id=30070498",
+    "duration": "10:25",
+    "artists": [
+      { "name": "Avenger", "link": "https://music.163.com/artist?id=146904" }
+    ],
+    "album": {
+      "name": "Uplifting Only - 1st Anniversary: Orchestral Trance Year Mix",
+      "link": "https://music.163.com/album?id=3093205"
+    }
+  },
+  {
+    "name": "Titan (Original Mix)",
+    "link": "https://music.163.com/song?id=501515099",
+    "duration": "07:44",
+    "artists": [
+      { "name": "Type 41", "link": "https://music.163.com/artist?id=207645" }
+    ],
+    "album": {
+      "name": "Titan",
+      "link": "https://music.163.com/album?id=36053597"
+    }
+  },
+  {
+    "name": "Clean",
+    "link": "https://music.163.com/song?id=33517573",
+    "duration": "04:21",
+    "artists": [
+      { "name": "Allfine", "link": "https://music.163.com/artist?id=1122109" }
+    ],
+    "album": {
+      "name": "Clean",
+      "link": "https://music.163.com/album?id=3212445"
+    }
+  },
+  {
+    "name": "絶体絶命 - (手游《碧蓝航线》国服4周年纪念主题曲)",
+    "link": "https://music.163.com/song?id=1849359143",
+    "duration": "04:22",
+    "artists": [
+      { "name": "EGOIST", "link": "https://music.163.com/artist?id=19353" }
+    ],
+    "album": {
+      "name": "絶体絶命",
+      "link": "https://music.163.com/album?id=128235110"
+    }
+  }
+]

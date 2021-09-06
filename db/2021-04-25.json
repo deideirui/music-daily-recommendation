@@ -1,0 +1,444 @@
+[
+  {
+    "name": "Iris",
+    "link": "https://music.163.com/song?id=28713459",
+    "duration": "05:01",
+    "artists": [
+      { "name": "Aimer", "link": "https://music.163.com/artist?id=16152" }
+    ],
+    "album": {
+      "name": "Midnight Sun",
+      "link": "https://music.163.com/album?id=2875035"
+    }
+  },
+  {
+    "name": "长安",
+    "link": "https://music.163.com/song?id=1437171144",
+    "duration": "03:25",
+    "artists": [
+      { "name": "MeCHJ", "link": "https://music.163.com/artist?id=12568468" }
+    ],
+    "album": {
+      "name": "唐长安城",
+      "link": "https://music.163.com/album?id=87540269"
+    }
+  },
+  {
+    "name": "Elegance-H",
+    "link": "https://music.163.com/song?id=1333926882",
+    "duration": "03:13",
+    "artists": [
+      { "name": "清清der", "link": "https://music.163.com/artist?id=15196710" }
+    ],
+    "album": {
+      "name": "Elegance-H",
+      "link": "https://music.163.com/album?id=74882277"
+    }
+  },
+  {
+    "name": "夜行 - (Night Journey)",
+    "link": "https://music.163.com/song?id=1466520418",
+    "duration": "03:22",
+    "artists": [
+      { "name": "ヨルシカ", "link": "https://music.163.com/artist?id=12390232" }
+    ],
+    "album": {
+      "name": "盗作",
+      "link": "https://music.163.com/album?id=93148762"
+    }
+  },
+  {
+    "name": "桃花酿",
+    "link": "https://music.163.com/song?id=1401052337",
+    "duration": "03:31",
+    "artists": [
+      { "name": "饼饼", "link": "https://music.163.com/artist?id=31152709" },
+      { "name": "国音", "link": "https://music.163.com/artist?id=33578274" }
+    ],
+    "album": {
+      "name": "桃花酿",
+      "link": "https://music.163.com/album?id=82969712"
+    }
+  },
+  {
+    "name": "Like It Is",
+    "link": "https://music.163.com/song?id=1431950435",
+    "duration": "03:03",
+    "artists": [
+      { "name": "Kygo", "link": "https://music.163.com/artist?id=844410" },
+      {
+        "name": "Zara Larsson",
+        "link": "https://music.163.com/artist?id=816461"
+      },
+      { "name": "Tyga", "link": "https://music.163.com/artist?id=45033" }
+    ],
+    "album": {
+      "name": "Like It Is",
+      "link": "https://music.163.com/album?id=86610360"
+    }
+  },
+  {
+    "name": "RPG",
+    "link": "https://music.163.com/song?id=1327341487",
+    "duration": "04:16",
+    "artists": [
+      {
+        "name": "Lefty Hand Cream",
+        "link": "https://music.163.com/artist?id=13158142"
+      }
+    ],
+    "album": {
+      "name": "Lefty Hand Covers Ⅱ",
+      "link": "https://music.163.com/album?id=74512181"
+    }
+  },
+  {
+    "name": "Sunflower",
+    "link": "https://music.163.com/song?id=27899008",
+    "duration": "03:27",
+    "artists": [
+      {
+        "name": "Emma Stevens",
+        "link": "https://music.163.com/artist?id=817087"
+      }
+    ],
+    "album": {
+      "name": "Sunflower",
+      "link": "https://music.163.com/album?id=2691527"
+    }
+  },
+  {
+    "name": "留在这里",
+    "link": "https://music.163.com/song?id=1839331856",
+    "duration": "02:57",
+    "artists": [
+      { "name": "NainF", "link": "https://music.163.com/artist?id=33950039" }
+    ],
+    "album": {
+      "name": "11-21",
+      "link": "https://music.163.com/album?id=126372168"
+    }
+  },
+  {
+    "name": "世界は恋に落ちている - (我的世界已坠入爱河)",
+    "link": "https://music.163.com/song?id=28891491",
+    "duration": "05:11",
+    "artists": [
+      {
+        "name": "CHiCO with HoneyWorks",
+        "link": "https://music.163.com/artist?id=1049332"
+      }
+    ],
+    "album": {
+      "name": "世界は恋に落ちている",
+      "link": "https://music.163.com/album?id=2922404"
+    }
+  },
+  {
+    "name": "ユラレル - (动摇)",
+    "link": "https://music.163.com/song?id=1379424260",
+    "duration": "03:43",
+    "artists": [
+      { "name": "みゆな", "link": "https://music.163.com/artist?id=30110388" }
+    ],
+    "album": {
+      "name": "ユラレル",
+      "link": "https://music.163.com/album?id=80535681"
+    }
+  },
+  {
+    "name": "Modern Loneliness",
+    "link": "https://music.163.com/song?id=1420888258",
+    "duration": "04:12",
+    "artists": [
+      { "name": "Lauv", "link": "https://music.163.com/artist?id=1057226" }
+    ],
+    "album": {
+      "name": "~how i'm feeling~",
+      "link": "https://music.163.com/album?id=86086054"
+    }
+  },
+  {
+    "name": "SUGA's Interlude",
+    "link": "https://music.163.com/song?id=1407950285",
+    "duration": "02:18",
+    "artists": [
+      { "name": "Halsey", "link": "https://music.163.com/artist?id=964321" },
+      { "name": "SUGA", "link": "https://music.163.com/artist?id=1088131" }
+    ],
+    "album": {
+      "name": "Manic",
+      "link": "https://music.163.com/album?id=85020251"
+    }
+  },
+  {
+    "name": "Seaside",
+    "link": "https://music.163.com/song?id=421203729",
+    "duration": "03:26",
+    "artists": [
+      { "name": "Haux", "link": "https://music.163.com/artist?id=1078427" }
+    ],
+    "album": {
+      "name": "All We've Known",
+      "link": "https://music.163.com/album?id=34751725"
+    }
+  },
+  {
+    "name": "Ordinary People",
+    "link": "https://music.163.com/song?id=1452469903",
+    "duration": "04:13",
+    "artists": [
+      {
+        "name": "Blake Rose",
+        "link": "https://music.163.com/artist?id=12170014"
+      }
+    ],
+    "album": {
+      "name": "Ordinary People",
+      "link": "https://music.163.com/album?id=90232579"
+    }
+  },
+  {
+    "name": "Lost at Sea",
+    "link": "https://music.163.com/song?id=28612195",
+    "duration": "05:11",
+    "artists": [
+      {
+        "name": "Dave Thomas Junior",
+        "link": "https://music.163.com/artist?id=32233"
+      }
+    ],
+    "album": {
+      "name": "The Lucky Ones",
+      "link": "https://music.163.com/album?id=2848333"
+    }
+  },
+  {
+    "name": "Butterfly - (TV动画《异度侵入 ID:INVADED》第十二话插曲)",
+    "link": "https://music.163.com/song?id=1379819365",
+    "duration": "03:19",
+    "artists": [
+      { "name": "MIYAVI", "link": "https://music.163.com/artist?id=14732" }
+    ],
+    "album": {
+      "name": "NO SLEEP TILL TOKYO",
+      "link": "https://music.163.com/album?id=80583621"
+    }
+  },
+  {
+    "name": "Dawning of Spring",
+    "link": "https://music.163.com/song?id=1447803278",
+    "duration": "04:17",
+    "artists": [
+      {
+        "name": "Anson Seabra",
+        "link": "https://music.163.com/artist?id=14470054"
+      }
+    ],
+    "album": {
+      "name": "Songs I Wrote in My Bedroom",
+      "link": "https://music.163.com/album?id=89390158"
+    }
+  },
+  {
+    "name": "Twenty Seven Strangers",
+    "link": "https://music.163.com/song?id=19675491",
+    "duration": "03:24",
+    "artists": [
+      { "name": "Villagers", "link": "https://music.163.com/artist?id=45732" }
+    ],
+    "album": {
+      "name": "Becoming A Jackal",
+      "link": "https://music.163.com/album?id=1813906"
+    }
+  },
+  {
+    "name": "君を想った回数",
+    "link": "https://music.163.com/song?id=1403639062",
+    "duration": "03:25",
+    "artists": [
+      { "name": "Cho_Nans", "link": "https://music.163.com/artist?id=33728210" }
+    ],
+    "album": {
+      "name": "君を想った回数",
+      "link": "https://music.163.com/album?id=83367017"
+    }
+  },
+  {
+    "name": "[Samskeyti]",
+    "link": "https://music.163.com/song?id=4278960",
+    "duration": "06:33",
+    "artists": [
+      { "name": "Sigur Rós", "link": "https://music.163.com/artist?id=99990" }
+    ],
+    "album": { "name": "( )", "link": "https://music.163.com/album?id=432448" }
+  },
+  {
+    "name": "nasa (live)",
+    "link": "https://music.163.com/song?id=1411563461",
+    "duration": "03:05",
+    "artists": [
+      {
+        "name": "Ariana Grande",
+        "link": "https://music.163.com/artist?id=48161"
+      }
+    ],
+    "album": {
+      "name": "k bye for now (swt live)",
+      "link": "https://music.163.com/album?id=84306454"
+    }
+  },
+  {
+    "name": "Green to Gone",
+    "link": "https://music.163.com/song?id=19186210",
+    "duration": "03:19",
+    "artists": [
+      { "name": "Snowblink", "link": "https://music.163.com/artist?id=101068" }
+    ],
+    "album": {
+      "name": "Long Live",
+      "link": "https://music.163.com/album?id=1759486"
+    }
+  },
+  {
+    "name": "glow",
+    "link": "https://music.163.com/song?id=537854742",
+    "duration": "04:43",
+    "artists": [
+      { "name": "鹿乃", "link": "https://music.163.com/artist?id=17014" }
+    ],
+    "album": {
+      "name": "one",
+      "link": "https://music.163.com/album?id=37542486"
+    }
+  },
+  {
+    "name": "インタビュア/Interviewer Piano ver.",
+    "link": "https://music.163.com/song?id=437387593",
+    "duration": "04:50",
+    "artists": [
+      {
+        "name": "佐天Tamako",
+        "link": "https://music.163.com/artist?id=12146229"
+      }
+    ],
+    "album": {
+      "name": "ありがとう、さようなら",
+      "link": "https://music.163.com/album?id=34936765"
+    }
+  },
+  {
+    "name": "Closing",
+    "link": "https://music.163.com/song?id=1351442450",
+    "duration": "04:44",
+    "artists": [
+      {
+        "name": "Josh Alexander",
+        "link": "https://music.163.com/artist?id=13227273"
+      }
+    ],
+    "album": {
+      "name": "Closing",
+      "link": "https://music.163.com/album?id=75824811"
+    }
+  },
+  {
+    "name": "Comforting Sounds",
+    "link": "https://music.163.com/song?id=3026715",
+    "duration": "08:53",
+    "artists": [
+      { "name": "Mew", "link": "https://music.163.com/artist?id=66351" }
+    ],
+    "album": {
+      "name": "Frengers",
+      "link": "https://music.163.com/album?id=306195"
+    }
+  },
+  {
+    "name": "Crossed Paths",
+    "link": "https://music.163.com/song?id=423314156",
+    "duration": "04:32",
+    "artists": [
+      {
+        "name": "Elektronomia",
+        "link": "https://music.163.com/artist?id=1081540"
+      }
+    ],
+    "album": {
+      "name": "Ninety9lives 93: Finish Him",
+      "link": "https://music.163.com/album?id=34790313"
+    }
+  },
+  {
+    "name": "Walked Out",
+    "link": "https://music.163.com/song?id=1820965981",
+    "duration": "02:22",
+    "artists": [
+      {
+        "name": "iann dior",
+        "link": "https://music.163.com/artist?id=31532704"
+      },
+      {
+        "name": "Audio Chateau",
+        "link": "https://music.163.com/artist?id=36759294"
+      }
+    ],
+    "album": {
+      "name": "Walked Out",
+      "link": "https://music.163.com/album?id=123179705"
+    }
+  },
+  {
+    "name": "Dimension of Miracles",
+    "link": "https://music.163.com/song?id=27882856",
+    "duration": "11:35",
+    "artists": [
+      { "name": "Mooncake", "link": "https://music.163.com/artist?id=38875" }
+    ],
+    "album": {
+      "name": "Zaris",
+      "link": "https://music.163.com/album?id=2689073"
+    }
+  },
+  {
+    "name": "Sunbathe",
+    "link": "https://music.163.com/song?id=1821465678",
+    "duration": "02:50",
+    "artists": [
+      { "name": "Tainy", "link": "https://music.163.com/artist?id=14264774" },
+      { "name": "Miguel", "link": "https://music.163.com/artist?id=39895" }
+    ],
+    "album": {
+      "name": "Sunbathe",
+      "link": "https://music.163.com/album?id=123277556"
+    }
+  },
+  {
+    "name": "Beyond Earth",
+    "link": "https://music.163.com/song?id=401382205",
+    "duration": "04:11",
+    "artists": [
+      { "name": "Dimatis", "link": "https://music.163.com/artist?id=1087344" },
+      { "name": "KISNOU", "link": "https://music.163.com/artist?id=1156316" }
+    ],
+    "album": {
+      "name": "Beyond Earth",
+      "link": "https://music.163.com/album?id=34443278"
+    }
+  },
+  {
+    "name": "Love Yourself",
+    "link": "https://music.163.com/song?id=1838908088",
+    "duration": "03:52",
+    "artists": [
+      {
+        "name": "Justin Bieber",
+        "link": "https://music.163.com/artist?id=35531"
+      }
+    ],
+    "album": {
+      "name": "Jom Karaoke",
+      "link": "https://music.163.com/album?id=126281717"
+    }
+  }
+]

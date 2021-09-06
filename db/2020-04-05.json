@@ -1,0 +1,464 @@
+[
+  {
+    "name": "Not Ok",
+    "link": "https://music.163.com/song?id=1367054137",
+    "duration": "03:30",
+    "artists": [
+      { "name": "Kygo", "link": "https://music.163.com/artist?id=844410" },
+      {
+        "name": "Chelsea Cutler",
+        "link": "https://music.163.com/artist?id=1150112"
+      }
+    ],
+    "album": {
+      "name": "Not Ok",
+      "link": "https://music.163.com/album?id=79332255"
+    }
+  },
+  {
+    "name": "Driving Home for Christmas",
+    "link": "https://music.163.com/song?id=440310367",
+    "duration": "02:54",
+    "artists": [
+      {
+        "name": "Campsite Dream",
+        "link": "https://music.163.com/artist?id=1146068"
+      }
+    ],
+    "album": {
+      "name": "Driving Home for Christmas",
+      "link": "https://music.163.com/album?id=34970374"
+    }
+  },
+  {
+    "name": "Sky of Dreams",
+    "link": "https://music.163.com/song?id=1353220624",
+    "duration": "03:16",
+    "artists": [
+      {
+        "name": "Greenjelin",
+        "link": "https://music.163.com/artist?id=13021897"
+      },
+      {
+        "name": "Paulina Cameron",
+        "link": "https://music.163.com/artist?id=31713537"
+      }
+    ],
+    "album": {
+      "name": "Sky of Dreams",
+      "link": "https://music.163.com/album?id=77425178"
+    }
+  },
+  {
+    "name": "Hello My Loneliness",
+    "link": "https://music.163.com/song?id=1381703334",
+    "duration": "03:21",
+    "artists": [
+      {
+        "name": "Delaney Jane",
+        "link": "https://music.163.com/artist?id=1132286"
+      },
+      {
+        "name": "Call Me Karizma",
+        "link": "https://music.163.com/artist?id=12047264"
+      }
+    ],
+    "album": {
+      "name": "Hello My Loneliness",
+      "link": "https://music.163.com/album?id=80749024"
+    }
+  },
+  {
+    "name": "Hold feat. Daniela Andrade (Original Mix)",
+    "link": "https://music.163.com/song?id=37853621",
+    "duration": "05:59",
+    "artists": [
+      { "name": "Dabin", "link": "https://music.163.com/artist?id=783446" },
+      {
+        "name": "Daniela Andrade",
+        "link": "https://music.163.com/artist?id=975673"
+      }
+    ],
+    "album": {
+      "name": "Hold / She Was",
+      "link": "https://music.163.com/album?id=3422346"
+    }
+  },
+  {
+    "name": "Love Like This",
+    "link": "https://music.163.com/song?id=1374507041",
+    "duration": "03:46",
+    "artists": [
+      { "name": "Koni", "link": "https://music.163.com/artist?id=1154018" },
+      { "name": "Svrcina", "link": "https://music.163.com/artist?id=12047724" }
+    ],
+    "album": {
+      "name": "Love Like This",
+      "link": "https://music.163.com/album?id=80050881"
+    }
+  },
+  {
+    "name": "Heart is in There",
+    "link": "https://music.163.com/song?id=1386135007",
+    "duration": "02:13",
+    "artists": [
+      { "name": "Heki", "link": "https://music.163.com/artist?id=1132057" }
+    ],
+    "album": {
+      "name": "Heart is in There",
+      "link": "https://music.163.com/album?id=81070249"
+    }
+  },
+  {
+    "name": "Trust (feat. Gioto)",
+    "link": "https://music.163.com/song?id=1378926868",
+    "duration": "03:19",
+    "artists": [
+      { "name": "Nurko", "link": "https://music.163.com/artist?id=11991089" },
+      {
+        "name": "Adam Pearce",
+        "link": "https://music.163.com/artist?id=12066017"
+      },
+      { "name": "Gioto", "link": "https://music.163.com/artist?id=29581343" }
+    ],
+    "album": {
+      "name": "Trust (feat. Gioto)",
+      "link": "https://music.163.com/album?id=80499492"
+    }
+  },
+  {
+    "name": "Paradise",
+    "link": "https://music.163.com/song?id=1312104048",
+    "duration": "03:35",
+    "artists": [
+      {
+        "name": "Nicky Romero",
+        "link": "https://music.163.com/artist?id=195142"
+      },
+      {
+        "name": "Deniz Koyu",
+        "link": "https://music.163.com/artist?id=201960"
+      },
+      {
+        "name": "Walk off the Earth",
+        "link": "https://music.163.com/artist?id=105493"
+      }
+    ],
+    "album": {
+      "name": "Paradise",
+      "link": "https://music.163.com/album?id=73559204"
+    }
+  },
+  {
+    "name": "Titanium",
+    "link": "https://music.163.com/song?id=3406918",
+    "duration": "03:57",
+    "artists": [
+      {
+        "name": "David Guetta",
+        "link": "https://music.163.com/artist?id=31211"
+      },
+      { "name": "Sia", "link": "https://music.163.com/artist?id=74625" }
+    ],
+    "album": {
+      "name": "Best Of...",
+      "link": "https://music.163.com/album?id=345313"
+    }
+  },
+  {
+    "name": "Curse",
+    "link": "https://music.163.com/song?id=1378773135",
+    "duration": "02:44",
+    "artists": [
+      { "name": "Adam Rom", "link": "https://music.163.com/artist?id=32213559" }
+    ],
+    "album": {
+      "name": "Curse",
+      "link": "https://music.163.com/album?id=80479681"
+    }
+  },
+  {
+    "name": "All About You Now (Acoustic Version)",
+    "link": "https://music.163.com/song?id=1304857543",
+    "duration": "02:28",
+    "artists": [
+      { "name": "Kev", "link": "https://music.163.com/artist?id=11998022" }
+    ],
+    "album": {
+      "name": "All About You Now (The Remixes)",
+      "link": "https://music.163.com/album?id=72575804"
+    }
+  },
+  {
+    "name": "Paycheck",
+    "link": "https://music.163.com/song?id=1387555528",
+    "duration": "02:57",
+    "artists": [
+      { "name": "ROOKIES", "link": "https://music.163.com/artist?id=12074184" },
+      {
+        "name": "New Hope Club",
+        "link": "https://music.163.com/artist?id=12408153"
+      }
+    ],
+    "album": {
+      "name": "Paycheck",
+      "link": "https://music.163.com/album?id=81253315"
+    }
+  },
+  {
+    "name": "Lonely Together",
+    "link": "https://music.163.com/song?id=496869520",
+    "duration": "03:01",
+    "artists": [
+      { "name": "Avicii", "link": "https://music.163.com/artist?id=45236" },
+      { "name": "Rita Ora", "link": "https://music.163.com/artist?id=74575" }
+    ],
+    "album": {
+      "name": "AVĪCI (01)",
+      "link": "https://music.163.com/album?id=35919060"
+    }
+  },
+  {
+    "name": "Inferno",
+    "link": "https://music.163.com/song?id=475597470",
+    "duration": "04:05",
+    "artists": [
+      { "name": "Hechmann", "link": "https://music.163.com/artist?id=12011121" }
+    ],
+    "album": {
+      "name": "Inferno",
+      "link": "https://music.163.com/album?id=35371911"
+    }
+  },
+  {
+    "name": "All I Want",
+    "link": "https://music.163.com/song?id=431853775",
+    "duration": "02:39",
+    "artists": [
+      { "name": "Alok", "link": "https://music.163.com/artist?id=1170012" },
+      { "name": "Liu", "link": "https://music.163.com/artist?id=12046870" },
+      { "name": "Stonefox", "link": "https://music.163.com/artist?id=912065" }
+    ],
+    "album": {
+      "name": "All I Want",
+      "link": "https://music.163.com/album?id=34897084"
+    }
+  },
+  {
+    "name": "Follow Me",
+    "link": "https://music.163.com/song?id=477933081",
+    "duration": "04:18",
+    "artists": [
+      { "name": "Refuzion", "link": "https://music.163.com/artist?id=1081221" },
+      {
+        "name": "Christian Carlucci",
+        "link": "https://music.163.com/artist?id=15159611"
+      }
+    ],
+    "album": {
+      "name": "Follow Me",
+      "link": "https://music.163.com/album?id=35501018"
+    }
+  },
+  {
+    "name": "Melody",
+    "link": "https://music.163.com/song?id=555724507",
+    "duration": "02:29",
+    "artists": [
+      {
+        "name": "Lost Frequencies",
+        "link": "https://music.163.com/artist?id=1039114"
+      },
+      { "name": "James Blunt", "link": "https://music.163.com/artist?id=35329" }
+    ],
+    "album": {
+      "name": "Melody",
+      "link": "https://music.163.com/album?id=38497993"
+    }
+  },
+  {
+    "name": "Fences",
+    "link": "https://music.163.com/song?id=1339221426",
+    "duration": "03:31",
+    "artists": [
+      { "name": "Vicetone", "link": "https://music.163.com/artist?id=747030" },
+      { "name": "Matt Wertz", "link": "https://music.163.com/artist?id=38873" }
+    ],
+    "album": {
+      "name": "Fences",
+      "link": "https://music.163.com/album?id=75164996"
+    }
+  },
+  {
+    "name": "are you sure?",
+    "link": "https://music.163.com/song?id=1371712205",
+    "duration": "03:24",
+    "artists": [
+      { "name": "Loote", "link": "https://music.163.com/artist?id=12408152" }
+    ],
+    "album": {
+      "name": "lost",
+      "link": "https://music.163.com/album?id=79787129"
+    }
+  },
+  {
+    "name": "Somebody New (feat. Alexander Oscar)",
+    "link": "https://music.163.com/song?id=523001614",
+    "duration": "03:10",
+    "artists": [
+      { "name": "Faustix", "link": "https://music.163.com/artist?id=1155054" }
+    ],
+    "album": {
+      "name": "Faustix",
+      "link": "https://music.163.com/album?id=36900296"
+    }
+  },
+  {
+    "name": "Here With Me",
+    "link": "https://music.163.com/song?id=1350656778",
+    "duration": "02:36",
+    "artists": [
+      {
+        "name": "Marshmello",
+        "link": "https://music.163.com/artist?id=1060019"
+      },
+      { "name": "CHVRCHES", "link": "https://music.163.com/artist?id=694027" }
+    ],
+    "album": {
+      "name": "Here With Me",
+      "link": "https://music.163.com/album?id=75798672"
+    }
+  },
+  {
+    "name": "The In Between",
+    "link": "https://music.163.com/song?id=548999213",
+    "duration": "03:33",
+    "artists": [
+      {
+        "name": "Elephante",
+        "link": "https://music.163.com/artist?id=1050284"
+      },
+      { "name": "Anjulie", "link": "https://music.163.com/artist?id=46502" }
+    ],
+    "album": {
+      "name": "The In Between",
+      "link": "https://music.163.com/album?id=38116519"
+    }
+  },
+  {
+    "name": "Limitless (feat. Sophie Rose)",
+    "link": "https://music.163.com/song?id=504399003",
+    "duration": "03:30",
+    "artists": [
+      { "name": "SAM F", "link": "https://music.163.com/artist?id=12074533" },
+      { "name": "Sophie Rose", "link": "https://music.163.com/artist?id=78099" }
+    ],
+    "album": {
+      "name": "Limitless (feat. Sophie Rose) (Remixes)",
+      "link": "https://music.163.com/album?id=36108321"
+    }
+  },
+  {
+    "name": "Crime",
+    "link": "https://music.163.com/song?id=504492138",
+    "duration": "02:55",
+    "artists": [
+      { "name": "Grey", "link": "https://music.163.com/artist?id=58424" },
+      { "name": "SKOTT", "link": "https://music.163.com/artist?id=12061139" }
+    ],
+    "album": {
+      "name": "Crime",
+      "link": "https://music.163.com/album?id=36150227"
+    }
+  },
+  {
+    "name": "Something Just Like This (Megamix)",
+    "link": "https://music.163.com/song?id=471565537",
+    "duration": "04:09",
+    "artists": [
+      {
+        "name": "AnDyWuMUSICLAND",
+        "link": "https://music.163.com/artist?id=11998011"
+      }
+    ],
+    "album": {
+      "name": "Something Just Like This",
+      "link": "https://music.163.com/album?id=35358163"
+    }
+  },
+  {
+    "name": "Lights Go Out",
+    "link": "https://music.163.com/song?id=1385157704",
+    "duration": "03:09",
+    "artists": [
+      {
+        "name": "Lydia Halloway",
+        "link": "https://music.163.com/artist?id=31977443"
+      }
+    ],
+    "album": {
+      "name": "Lights Go Out",
+      "link": "https://music.163.com/album?id=81029943"
+    }
+  },
+  {
+    "name": "Fatality (Original Mix)",
+    "link": "https://music.163.com/song?id=26179214",
+    "duration": "07:53",
+    "artists": [
+      {
+        "name": "Brian Cameron",
+        "link": "https://music.163.com/artist?id=324546"
+      }
+    ],
+    "album": {
+      "name": "Fatality",
+      "link": "https://music.163.com/album?id=2401602"
+    }
+  },
+  {
+    "name": "Fight for You (feat. Zay)",
+    "link": "https://music.163.com/song?id=1345494813",
+    "duration": "03:05",
+    "artists": [
+      { "name": "Zay", "link": "https://music.163.com/artist?id=564662" },
+      { "name": "Alius", "link": "https://music.163.com/artist?id=12441378" },
+      {
+        "name": "Rasmus Hagen",
+        "link": "https://music.163.com/artist?id=29757552"
+      }
+    ],
+    "album": {
+      "name": "Fight for You",
+      "link": "https://music.163.com/album?id=75518592"
+    }
+  },
+  {
+    "name": "Departure",
+    "link": "https://music.163.com/song?id=416552052",
+    "duration": "06:51",
+    "artists": [
+      { "name": "Joe Lyons", "link": "https://music.163.com/artist?id=498067" }
+    ],
+    "album": {
+      "name": "Departure",
+      "link": "https://music.163.com/album?id=34721786"
+    }
+  },
+  {
+    "name": "Once Upon A Time",
+    "link": "https://music.163.com/song?id=1299570939",
+    "duration": "03:26",
+    "artists": [
+      {
+        "name": "Max Oazo",
+        "link": "https://music.163.com/artist?id=13159084"
+      },
+      { "name": "Moonessa", "link": "https://music.163.com/artist?id=29834706" }
+    ],
+    "album": {
+      "name": "Once Upon A Time",
+      "link": "https://music.163.com/album?id=72073258"
+    }
+  }
+]

@@ -1,0 +1,445 @@
+[
+  {
+    "name": "Into the Sea",
+    "link": "https://music.163.com/song?id=1365306313",
+    "duration": "03:06",
+    "artists": [
+      {
+        "name": "Wave Wave",
+        "link": "https://music.163.com/artist?id=12262095"
+      },
+      { "name": "Hilla", "link": "https://music.163.com/artist?id=13106679" }
+    ],
+    "album": {
+      "name": "Into the Sea",
+      "link": "https://music.163.com/album?id=79118879"
+    }
+  },
+  {
+    "name": "Ocean Eyes",
+    "link": "https://music.163.com/song?id=529814866",
+    "duration": "02:58",
+    "artists": [
+      {
+        "name": "Jay Cosmic",
+        "link": "https://music.163.com/artist?id=1038196"
+      }
+    ],
+    "album": {
+      "name": "Ocean Eyes",
+      "link": "https://music.163.com/album?id=37254240"
+    }
+  },
+  {
+    "name": "Always (Original Mix)",
+    "link": "https://music.163.com/song?id=517887072",
+    "duration": "03:13",
+    "artists": [
+      { "name": "The Him", "link": "https://music.163.com/artist?id=1106130" }
+    ],
+    "album": {
+      "name": "Always",
+      "link": "https://music.163.com/album?id=36767022"
+    }
+  },
+  {
+    "name": "Disarm You (Arrient Remix)",
+    "link": "https://music.163.com/song?id=36019635",
+    "duration": "03:36",
+    "artists": [
+      { "name": "Arrient", "link": "https://music.163.com/artist?id=1132059" },
+      { "name": "Kaskade", "link": "https://music.163.com/artist?id=37559" }
+    ],
+    "album": {
+      "name": "Disarm You (Arrient Remix)",
+      "link": "https://music.163.com/album?id=3367760"
+    }
+  },
+  {
+    "name": "Rings & Roses",
+    "link": "https://music.163.com/song?id=1347200333",
+    "duration": "03:56",
+    "artists": [
+      { "name": "Dabin", "link": "https://music.163.com/artist?id=783446" },
+      {
+        "name": "Conor Bryne",
+        "link": "https://music.163.com/artist?id=31531677"
+      }
+    ],
+    "album": {
+      "name": "Rings & Roses",
+      "link": "https://music.163.com/album?id=75636382"
+    }
+  },
+  {
+    "name": "Complexity",
+    "link": "https://music.163.com/song?id=408532744",
+    "duration": "03:06",
+    "artists": [
+      { "name": "MadEye", "link": "https://music.163.com/artist?id=12108505" }
+    ],
+    "album": {
+      "name": "Complexity",
+      "link": "https://music.163.com/album?id=34589886"
+    }
+  },
+  {
+    "name": "Wild Life",
+    "link": "https://music.163.com/song?id=1391787652",
+    "duration": "03:12",
+    "artists": [
+      { "name": "Jinco", "link": "https://music.163.com/artist?id=956041" },
+      { "name": "Sam Bruno", "link": "https://music.163.com/artist?id=1081428" }
+    ],
+    "album": {
+      "name": "Wild Life",
+      "link": "https://music.163.com/album?id=81744194"
+    }
+  },
+  {
+    "name": "Breathe Us To Life (Monoverse Remix)",
+    "link": "https://music.163.com/song?id=560706282",
+    "duration": "04:09",
+    "artists": [
+      { "name": "HALIENE", "link": "https://music.163.com/artist?id=13202710" },
+      { "name": "Aly & Fila", "link": "https://music.163.com/artist?id=86717" },
+      { "name": "Monoverse", "link": "https://music.163.com/artist?id=805384" }
+    ],
+    "album": {
+      "name": "Breathe Us To Life",
+      "link": "https://music.163.com/album?id=38780474"
+    }
+  },
+  {
+    "name": "All Or Nothing (feat. BAER)",
+    "link": "https://music.163.com/song?id=1320180097",
+    "duration": "02:58",
+    "artists": [
+      { "name": "BEAUZ", "link": "https://music.163.com/artist?id=12131436" },
+      { "name": "BAER", "link": "https://music.163.com/artist?id=1181843" }
+    ],
+    "album": {
+      "name": "All Or Nothing (feat. BAER)",
+      "link": "https://music.163.com/album?id=74069323"
+    }
+  },
+  {
+    "name": "Lately",
+    "link": "https://music.163.com/song?id=1365590702",
+    "duration": "03:13",
+    "artists": [
+      { "name": "Nitro", "link": "https://music.163.com/artist?id=97553" }
+    ],
+    "album": {
+      "name": "Failed Attempts",
+      "link": "https://music.163.com/album?id=79155743"
+    }
+  },
+  {
+    "name": "Always Mine",
+    "link": "https://music.163.com/song?id=29460374",
+    "duration": "03:23",
+    "artists": [
+      {
+        "name": "Thomas Bergersen",
+        "link": "https://music.163.com/artist?id=45336"
+      }
+    ],
+    "album": { "name": "Sun", "link": "https://music.163.com/album?id=3029236" }
+  },
+  {
+    "name": "Cosmic Fate",
+    "link": "https://music.163.com/song?id=532267293",
+    "duration": "02:32",
+    "artists": [
+      { "name": "Wisp X", "link": "https://music.163.com/artist?id=1046123" }
+    ],
+    "album": {
+      "name": "Cosmic Fate",
+      "link": "https://music.163.com/album?id=37353614"
+    }
+  },
+  {
+    "name": "Step Into The Light",
+    "link": "https://music.163.com/song?id=31191040",
+    "duration": "03:36",
+    "artists": [
+      { "name": "Fabio XB", "link": "https://music.163.com/artist?id=207476" },
+      {
+        "name": "Christina Novelli",
+        "link": "https://music.163.com/artist?id=840292"
+      },
+      { "name": "Liuck", "link": "https://music.163.com/artist?id=12074296" }
+    ],
+    "album": {
+      "name": "A State Of Trance 2015",
+      "link": "https://music.163.com/album?id=3109046"
+    }
+  },
+  {
+    "name": "While You Were Gone",
+    "link": "https://music.163.com/song?id=514162244",
+    "duration": "05:20",
+    "artists": [
+      {
+        "name": "Paul van Dyk",
+        "link": "https://music.163.com/artist?id=41145"
+      },
+      {
+        "name": "Vincent Corver",
+        "link": "https://music.163.com/artist?id=30248921"
+      }
+    ],
+    "album": {
+      "name": "From Then On",
+      "link": "https://music.163.com/album?id=36636004"
+    }
+  },
+  {
+    "name": "Alone",
+    "link": "https://music.163.com/song?id=512359501",
+    "duration": "04:06",
+    "artists": [
+      { "name": "ARMNHMR", "link": "https://music.163.com/artist?id=1132078" },
+      {
+        "name": "Nolan Van Lith",
+        "link": "https://music.163.com/artist?id=11997026"
+      },
+      {
+        "name": "Dylan Matthew",
+        "link": "https://music.163.com/artist?id=28684353"
+      }
+    ],
+    "album": {
+      "name": "Alone",
+      "link": "https://music.163.com/album?id=36530096"
+    }
+  },
+  {
+    "name": "Inner Power",
+    "link": "https://music.163.com/song?id=36586599",
+    "duration": "02:56",
+    "artists": [
+      {
+        "name": "Epic Soul Factory",
+        "link": "https://music.163.com/artist?id=92325"
+      },
+      {
+        "name": "Cesc Vilà",
+        "link": "https://music.163.com/artist?id=13157099"
+      },
+      {
+        "name": "Fran Soto",
+        "link": "https://music.163.com/artist?id=13157100"
+      }
+    ],
+    "album": {
+      "name": "Sigma",
+      "link": "https://music.163.com/album?id=3394605"
+    }
+  },
+  {
+    "name": "Hiraeth",
+    "link": "https://music.163.com/song?id=516823199",
+    "duration": "03:07",
+    "artists": [
+      {
+        "name": "Jo Blankenburg",
+        "link": "https://music.163.com/artist?id=36976"
+      }
+    ],
+    "album": {
+      "name": "Cronos",
+      "link": "https://music.163.com/album?id=36726092"
+    }
+  },
+  {
+    "name": "NERVOUS",
+    "link": "https://music.163.com/song?id=1392102965",
+    "duration": "02:57",
+    "artists": [
+      {
+        "name": "Jake Miller",
+        "link": "https://music.163.com/artist?id=776761"
+      },
+      { "name": "Tomos", "link": "https://music.163.com/artist?id=29597924" }
+    ],
+    "album": {
+      "name": "SUMMER 19",
+      "link": "https://music.163.com/album?id=81790043"
+    }
+  },
+  {
+    "name": "We Lost",
+    "link": "https://music.163.com/song?id=418550259",
+    "duration": "06:29",
+    "artists": [
+      { "name": "Anoraak", "link": "https://music.163.com/artist?id=185201" }
+    ],
+    "album": {
+      "name": "Figure",
+      "link": "https://music.163.com/album?id=34746170"
+    }
+  },
+  {
+    "name": "Take It Easy",
+    "link": "https://music.163.com/song?id=565017501",
+    "duration": "03:14",
+    "artists": [
+      { "name": "Triathalon", "link": "https://music.163.com/artist?id=812023" }
+    ],
+    "album": {
+      "name": "Nothing Bothers Me",
+      "link": "https://music.163.com/album?id=39150965"
+    }
+  },
+  {
+    "name": "See the Light",
+    "link": "https://music.163.com/song?id=520458038",
+    "duration": "03:00",
+    "artists": [
+      { "name": "Manse", "link": "https://music.163.com/artist?id=855409" }
+    ],
+    "album": {
+      "name": "Flashback EP ",
+      "link": "https://music.163.com/album?id=36855024"
+    }
+  },
+  {
+    "name": "Yearmix 2017",
+    "link": "https://music.163.com/song?id=526470380",
+    "duration": "11:10",
+    "artists": [
+      { "name": "NEXU", "link": "https://music.163.com/artist?id=11971041" }
+    ],
+    "album": {
+      "name": "Yearmix 2017",
+      "link": "https://music.163.com/album?id=37084149"
+    }
+  },
+  {
+    "name": "What Else Is There To Love",
+    "link": "https://music.163.com/song?id=1374281536",
+    "duration": "03:31",
+    "artists": [
+      { "name": "Aurosonic", "link": "https://music.163.com/artist?id=86532" },
+      { "name": "Bote", "link": "https://music.163.com/artist?id=33351875" },
+      {
+        "name": "Neev Kennedy",
+        "link": "https://music.163.com/artist?id=191532"
+      }
+    ],
+    "album": {
+      "name": "What Else Is There To Love",
+      "link": "https://music.163.com/album?id=80025677"
+    }
+  },
+  {
+    "name": "Face Down (Original Mix)",
+    "link": "https://music.163.com/song?id=29491727",
+    "duration": "04:02",
+    "artists": [
+      { "name": "Feint", "link": "https://music.163.com/artist?id=93062" }
+    ],
+    "album": {
+      "name": "Voyage",
+      "link": "https://music.163.com/album?id=3034069"
+    }
+  },
+  {
+    "name": "Like You",
+    "link": "https://music.163.com/song?id=36190194",
+    "duration": "04:54",
+    "artists": [
+      { "name": "WHYZDM", "link": "https://music.163.com/artist?id=1180055" }
+    ],
+    "album": {
+      "name": "Like You",
+      "link": "https://music.163.com/album?id=3391014"
+    }
+  },
+  {
+    "name": "Talk About Me  (Kuur Remix)",
+    "link": "https://music.163.com/song?id=471763670",
+    "duration": "03:47",
+    "artists": [
+      { "name": "Kuur", "link": "https://music.163.com/artist?id=12347091" },
+      {
+        "name": "Justin Caruso",
+        "link": "https://music.163.com/artist?id=1193462"
+      },
+      {
+        "name": "Victoria Zaro",
+        "link": "https://music.163.com/artist?id=13058594"
+      }
+    ],
+    "album": {
+      "name": "Talk About Me  (Kuur Remix)",
+      "link": "https://music.163.com/album?id=35358396"
+    }
+  },
+  {
+    "name": "Time (Zembek Remix)",
+    "link": "https://music.163.com/song?id=36578027",
+    "duration": "02:31",
+    "artists": [
+      { "name": "Zembek", "link": "https://music.163.com/artist?id=1149045" },
+      {
+        "name": "Satellite Empire",
+        "link": "https://music.163.com/artist?id=1116247"
+      }
+    ],
+    "album": {
+      "name": "Time (Zembek Remix)",
+      "link": "https://music.163.com/album?id=3403133"
+    }
+  },
+  {
+    "name": "Project Log",
+    "link": "https://music.163.com/song?id=41644747",
+    "duration": "01:32",
+    "artists": [
+      { "name": "Lovett", "link": "https://music.163.com/artist?id=11992024" }
+    ],
+    "album": {
+      "name": "Synchronicity (Original Motion Picture Soundtrack)",
+      "link": "https://music.163.com/album?id=3450040"
+    }
+  },
+  {
+    "name": "For You",
+    "link": "https://music.163.com/song?id=1399660914",
+    "duration": "05:32",
+    "artists": [
+      { "name": "Au5", "link": "https://music.163.com/artist?id=359309" }
+    ],
+    "album": {
+      "name": "For You",
+      "link": "https://music.163.com/album?id=82798137"
+    }
+  },
+  {
+    "name": "All Along",
+    "link": "https://music.163.com/song?id=411315864",
+    "duration": "03:31",
+    "artists": [
+      { "name": "Vorsa", "link": "https://music.163.com/artist?id=1193224" }
+    ],
+    "album": {
+      "name": "All Along",
+      "link": "https://music.163.com/album?id=34685264"
+    }
+  },
+  {
+    "name": "Departure",
+    "link": "https://music.163.com/song?id=416552052",
+    "duration": "06:51",
+    "artists": [
+      { "name": "Joe Lyons", "link": "https://music.163.com/artist?id=498067" }
+    ],
+    "album": {
+      "name": "Departure",
+      "link": "https://music.163.com/album?id=34721786"
+    }
+  }
+]

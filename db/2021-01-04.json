@@ -1,0 +1,464 @@
+[
+  {
+    "name": "Difficult",
+    "link": "https://music.163.com/song?id=1371476393",
+    "duration": "02:44",
+    "artists": [
+      {
+        "name": "Jay Bombay",
+        "link": "https://music.163.com/artist?id=327248"
+      },
+      { "name": "NEIMY", "link": "https://music.163.com/artist?id=12742289" }
+    ],
+    "album": {
+      "name": "Difficult",
+      "link": "https://music.163.com/album?id=79762476"
+    }
+  },
+  {
+    "name": "Funny",
+    "link": "https://music.163.com/song?id=1462389947",
+    "duration": "03:41",
+    "artists": [
+      { "name": "Zedd", "link": "https://music.163.com/artist?id=46376" },
+      {
+        "name": "Jasmine Thompson",
+        "link": "https://music.163.com/artist?id=863042"
+      }
+    ],
+    "album": {
+      "name": "Funny",
+      "link": "https://music.163.com/album?id=92342653"
+    }
+  },
+  {
+    "name": "Too Good At Goodbyes",
+    "link": "https://music.163.com/song?id=532950095",
+    "duration": "02:57",
+    "artists": [
+      { "name": "MADILYN", "link": "https://music.163.com/artist?id=69270" }
+    ],
+    "album": {
+      "name": "Too Good At Goodbyes",
+      "link": "https://music.163.com/album?id=37316424"
+    }
+  },
+  {
+    "name": "All Night Alone",
+    "link": "https://music.163.com/song?id=1470906294",
+    "duration": "02:59",
+    "artists": [
+      {
+        "name": "Josement",
+        "link": "https://music.163.com/artist?id=12670069"
+      },
+      { "name": "Chris Lake", "link": "https://music.163.com/artist?id=30013" }
+    ],
+    "album": {
+      "name": "All Night Alone",
+      "link": "https://music.163.com/album?id=93941049"
+    }
+  },
+  {
+    "name": "Antares",
+    "link": "https://music.163.com/song?id=1313035852",
+    "duration": "02:44",
+    "artists": [
+      { "name": "DubVision", "link": "https://music.163.com/artist?id=357950" }
+    ],
+    "album": {
+      "name": "Antares",
+      "link": "https://music.163.com/album?id=73640937"
+    }
+  },
+  {
+    "name": "Run Back to You (feat. Alisa)",
+    "link": "https://music.163.com/song?id=1471391509",
+    "duration": "03:13",
+    "artists": [
+      { "name": "Hoang", "link": "https://music.163.com/artist?id=27694442" },
+      { "name": "Alisa", "link": "https://music.163.com/artist?id=32840235" }
+    ],
+    "album": {
+      "name": "Run Back to You (feat. Alisa)",
+      "link": "https://music.163.com/album?id=94018381"
+    }
+  },
+  {
+    "name": "Payphone",
+    "link": "https://music.163.com/song?id=1447922434",
+    "duration": "03:20",
+    "artists": [
+      {
+        "name": "Daniel Padim",
+        "link": "https://music.163.com/artist?id=1021003"
+      }
+    ],
+    "album": {
+      "name": "Payphone",
+      "link": "https://music.163.com/album?id=89411610"
+    }
+  },
+  {
+    "name": "Talk Talk",
+    "link": "https://music.163.com/song?id=1364583240",
+    "duration": "03:35",
+    "artists": [
+      { "name": "Cannons", "link": "https://music.163.com/artist?id=1022051" }
+    ],
+    "album": {
+      "name": "Talk Talk",
+      "link": "https://music.163.com/album?id=79057433"
+    }
+  },
+  {
+    "name": "Paint The Sky",
+    "link": "https://music.163.com/song?id=1428148984",
+    "duration": "03:20",
+    "artists": [
+      {
+        "name": "Mark Sixma",
+        "link": "https://music.163.com/artist?id=178755"
+      },
+      { "name": "Eline", "link": "https://music.163.com/artist?id=30696426" }
+    ],
+    "album": {
+      "name": "Paint The Sky",
+      "link": "https://music.163.com/album?id=86227463"
+    }
+  },
+  {
+    "name": "Moving On Without You",
+    "link": "https://music.163.com/song?id=1353357422",
+    "duration": "03:26",
+    "artists": [
+      { "name": "Warren", "link": "https://music.163.com/artist?id=34379664" },
+      { "name": "SƠN", "link": "https://music.163.com/artist?id=31724344" },
+      {
+        "name": "Emelie Cyréus",
+        "link": "https://music.163.com/artist?id=13312243"
+      }
+    ],
+    "album": {
+      "name": "Revealed Recordings presents Miami Festival EP 2019",
+      "link": "https://music.163.com/album?id=77574554"
+    }
+  },
+  {
+    "name": "Together",
+    "link": "https://music.163.com/song?id=30780808",
+    "duration": "06:48",
+    "artists": [
+      { "name": "Kozoro", "link": "https://music.163.com/artist?id=1050567" },
+      { "name": "ZENI", "link": "https://music.163.com/artist?id=1038138" }
+    ],
+    "album": {
+      "name": "Together",
+      "link": "https://music.163.com/album?id=3103329"
+    }
+  },
+  {
+    "name": "Body Back",
+    "link": "https://music.163.com/song?id=1397616467",
+    "duration": "03:34",
+    "artists": [
+      { "name": "Gryffin", "link": "https://music.163.com/artist?id=1181504" },
+      {
+        "name": "Maia Wright",
+        "link": "https://music.163.com/artist?id=12561660"
+      }
+    ],
+    "album": {
+      "name": "Gravity",
+      "link": "https://music.163.com/album?id=82692723"
+    }
+  },
+  {
+    "name": "Evergreen",
+    "link": "https://music.163.com/song?id=1326153376",
+    "duration": "04:14",
+    "artists": [
+      {
+        "name": "Wasted Penguinz",
+        "link": "https://music.163.com/artist?id=816508"
+      }
+    ],
+    "album": {
+      "name": "Evergreen",
+      "link": "https://music.163.com/album?id=74452854"
+    }
+  },
+  {
+    "name": "Carry Me (Radio Edit)",
+    "link": "https://music.163.com/song?id=447925831",
+    "duration": "02:29",
+    "artists": [
+      { "name": "Avi8", "link": "https://music.163.com/artist?id=12000033" }
+    ],
+    "album": {
+      "name": "Carry Me",
+      "link": "https://music.163.com/album?id=35069211"
+    }
+  },
+  {
+    "name": "Lost Soul",
+    "link": "https://music.163.com/song?id=1385128517",
+    "duration": "03:50",
+    "artists": [
+      { "name": "Deniz Koyu", "link": "https://music.163.com/artist?id=201960" }
+    ],
+    "album": {
+      "name": "Lost Soul",
+      "link": "https://music.163.com/album?id=81027583"
+    }
+  },
+  {
+    "name": "Butterflies",
+    "link": "https://music.163.com/song?id=1453084967",
+    "duration": "02:56",
+    "artists": [
+      {
+        "name": "Fiji Blue",
+        "link": "https://music.163.com/artist?id=32648365"
+      }
+    ],
+    "album": {
+      "name": "Butterflies",
+      "link": "https://music.163.com/album?id=90355685"
+    }
+  },
+  {
+    "name": "Timeless (radio edit)",
+    "link": "https://music.163.com/song?id=27553910",
+    "duration": "04:16",
+    "artists": [
+      { "name": "Wildstylez", "link": "https://music.163.com/artist?id=666014" }
+    ],
+    "album": {
+      "name": "Timeless EP",
+      "link": "https://music.163.com/album?id=2631955"
+    }
+  },
+  {
+    "name": "Another Place",
+    "link": "https://music.163.com/song?id=483378483",
+    "duration": "02:49",
+    "artists": [
+      { "name": "Duumu", "link": "https://music.163.com/artist?id=12007367" }
+    ],
+    "album": {
+      "name": "Dissociated",
+      "link": "https://music.163.com/album?id=35589782"
+    }
+  },
+  {
+    "name": "Outlaws",
+    "link": "https://music.163.com/song?id=1398399334",
+    "duration": "03:37",
+    "artists": [
+      { "name": "Manse", "link": "https://music.163.com/artist?id=855409" },
+      { "name": "JRL", "link": "https://music.163.com/artist?id=12995921" },
+      { "name": "Jonny Rose", "link": "https://music.163.com/artist?id=904226" }
+    ],
+    "album": {
+      "name": "Outlaws",
+      "link": "https://music.163.com/album?id=82612666"
+    }
+  },
+  {
+    "name": "Sleepless",
+    "link": "https://music.163.com/song?id=866040893",
+    "duration": "03:22",
+    "artists": [
+      { "name": "Novo Amor", "link": "https://music.163.com/artist?id=904041" }
+    ],
+    "album": {
+      "name": "Birthplace",
+      "link": "https://music.163.com/album?id=71809380"
+    }
+  },
+  {
+    "name": "One More Day (Nicky Romero Remix)",
+    "link": "https://music.163.com/song?id=571338342",
+    "duration": "04:00",
+    "artists": [
+      {
+        "name": "Nicky Romero",
+        "link": "https://music.163.com/artist?id=195142"
+      },
+      { "name": "Afrojack", "link": "https://music.163.com/artist?id=28745" },
+      {
+        "name": "Jewelz & Sparks",
+        "link": "https://music.163.com/artist?id=947051"
+      }
+    ],
+    "album": {
+      "name": "One More Day (Nicky Romero Remix)",
+      "link": "https://music.163.com/album?id=39591108"
+    }
+  },
+  {
+    "name": "No Way Out (feat. Kat Nestel) [Radio Edit]",
+    "link": "https://music.163.com/song?id=30854139",
+    "duration": "03:26",
+    "artists": [
+      { "name": "Vicetone", "link": "https://music.163.com/artist?id=747030" },
+      {
+        "name": "Kat Nestel",
+        "link": "https://music.163.com/artist?id=1066090"
+      }
+    ],
+    "album": {
+      "name": "No Way Out",
+      "link": "https://music.163.com/album?id=3104654"
+    }
+  },
+  {
+    "name": "Japan",
+    "link": "https://music.163.com/song?id=1388891081",
+    "duration": "03:32",
+    "artists": [
+      { "name": "Throttle", "link": "https://music.163.com/artist?id=794398" }
+    ],
+    "album": {
+      "name": "Japan",
+      "link": "https://music.163.com/album?id=81386625"
+    }
+  },
+  {
+    "name": "Virtual Riot, PRXZM - In My Head (Keega Bootleg)",
+    "link": "https://music.163.com/song?id=1403971132",
+    "duration": "03:36",
+    "artists": [
+      { "name": "Keega", "link": "https://music.163.com/artist?id=12276986" }
+    ],
+    "album": {
+      "name": "Virtual Riot, PRXZM - In My Head (Keega Bootleg)",
+      "link": "https://music.163.com/album?id=83235608"
+    }
+  },
+  {
+    "name": "Last Night Every Night",
+    "link": "https://music.163.com/song?id=1341670329",
+    "duration": "03:08",
+    "artists": [
+      {
+        "name": "Hannah Jane Lewis",
+        "link": "https://music.163.com/artist?id=1049129"
+      }
+    ],
+    "album": {
+      "name": "Last Night Every Night",
+      "link": "https://music.163.com/album?id=75307431"
+    }
+  },
+  {
+    "name": "A Billion Stars Above (Extended Mix)",
+    "link": "https://music.163.com/song?id=503206674",
+    "duration": "07:32",
+    "artists": [
+      { "name": "RAM", "link": "https://music.163.com/artist?id=73231" },
+      {
+        "name": "Arctic Moon",
+        "link": "https://music.163.com/artist?id=820034"
+      },
+      {
+        "name": "Stine Grove",
+        "link": "https://music.163.com/artist?id=840197"
+      }
+    ],
+    "album": {
+      "name": "A Billion Stars Above",
+      "link": "https://music.163.com/album?id=36107147"
+    }
+  },
+  {
+    "name": "Rise - Epic Music",
+    "link": "https://music.163.com/song?id=28283137",
+    "duration": "02:18",
+    "artists": [
+      {
+        "name": "John Dreamer",
+        "link": "https://music.163.com/artist?id=896177"
+      }
+    ],
+    "album": {
+      "name": "Rise - Epic Music",
+      "link": "https://music.163.com/album?id=2767285"
+    }
+  },
+  {
+    "name": "Wostok (Original Mix)",
+    "link": "https://music.163.com/song?id=28988404",
+    "duration": "09:04",
+    "artists": [
+      {
+        "name": "Sergey Nevone",
+        "link": "https://music.163.com/artist?id=240783"
+      },
+      {
+        "name": "Simon O'Shine",
+        "link": "https://music.163.com/artist?id=207035"
+      }
+    ],
+    "album": {
+      "name": "Wostok",
+      "link": "https://music.163.com/album?id=2972337"
+    }
+  },
+  {
+    "name": "with you/for you",
+    "link": "https://music.163.com/song?id=1294653260",
+    "duration": "03:51",
+    "artists": [
+      {
+        "name": "Prateek Kuhad",
+        "link": "https://music.163.com/artist?id=13691883"
+      }
+    ],
+    "album": {
+      "name": "cold / mess",
+      "link": "https://music.163.com/album?id=71890133"
+    }
+  },
+  {
+    "name": "Teardrop",
+    "link": "https://music.163.com/song?id=22575474",
+    "duration": "05:31",
+    "artists": [
+      {
+        "name": "Massive Attack",
+        "link": "https://music.163.com/artist?id=96265"
+      }
+    ],
+    "album": {
+      "name": "Teardrop",
+      "link": "https://music.163.com/album?id=2066694"
+    }
+  },
+  {
+    "name": "The Last Time",
+    "link": "https://music.163.com/song?id=479223022",
+    "duration": "02:59",
+    "artists": [
+      { "name": "X-Change", "link": "https://music.163.com/artist?id=425362" },
+      { "name": "nicci", "link": "https://music.163.com/artist?id=776447" }
+    ],
+    "album": {
+      "name": "The Last Time",
+      "link": "https://music.163.com/album?id=35526219"
+    }
+  },
+  {
+    "name": "Humanity",
+    "link": "https://music.163.com/song?id=1807565246",
+    "duration": "03:04",
+    "artists": [
+      { "name": "Panta.Q", "link": "https://music.163.com/artist?id=1050465" }
+    ],
+    "album": {
+      "name": "Humanity",
+      "link": "https://music.163.com/album?id=120922774"
+    }
+  }
+]

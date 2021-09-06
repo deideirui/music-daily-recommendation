@@ -1,0 +1,445 @@
+[
+  {
+    "name": "八荒",
+    "link": "https://music.163.com/song?id=1425442542",
+    "duration": "04:18",
+    "artists": [
+      { "name": "南筱", "link": "https://music.163.com/artist?id=33480431" }
+    ],
+    "album": {
+      "name": "八荒",
+      "link": "https://music.163.com/album?id=85887472"
+    }
+  },
+  {
+    "name": "LIMERANCE",
+    "link": "https://music.163.com/song?id=1427888972",
+    "duration": "03:13",
+    "artists": [
+      {
+        "name": "皖兮YUAKER",
+        "link": "https://music.163.com/artist?id=13908604"
+      },
+      { "name": "竹正尚", "link": "https://music.163.com/artist?id=28069580" },
+      {
+        "name": "白言昭临",
+        "link": "https://music.163.com/artist?id=32462894"
+      },
+      {
+        "name": "Jim Virslox",
+        "link": "https://music.163.com/artist?id=32618243"
+      },
+      { "name": "CH月寒", "link": "https://music.163.com/artist?id=31621532" },
+      { "name": "Z.H.E.N", "link": "https://music.163.com/artist?id=29235907" }
+    ],
+    "album": {
+      "name": "《爱情公寓》诸葛大力应援曲",
+      "link": "https://music.163.com/album?id=86168114"
+    }
+  },
+  {
+    "name": "Something Real",
+    "link": "https://music.163.com/song?id=1377264142",
+    "duration": "02:59",
+    "artists": [
+      {
+        "name": "Armin van Buuren",
+        "link": "https://music.163.com/artist?id=27621"
+      },
+      {
+        "name": "Avian Grays",
+        "link": "https://music.163.com/artist?id=32730297"
+      },
+      {
+        "name": "Jordan Shaw",
+        "link": "https://music.163.com/artist?id=13628884"
+      }
+    ],
+    "album": {
+      "name": "Something Real",
+      "link": "https://music.163.com/album?id=80334002"
+    }
+  },
+  {
+    "name": "Signs",
+    "link": "https://music.163.com/song?id=39224890",
+    "duration": "03:15",
+    "artists": [
+      { "name": "Project 46", "link": "https://music.163.com/artist?id=776674" }
+    ],
+    "album": {
+      "name": "Signs (feat. Shantee)",
+      "link": "https://music.163.com/album?id=3428933"
+    }
+  },
+  {
+    "name": "I Hear When I Think",
+    "link": "https://music.163.com/song?id=1374506020",
+    "duration": "03:19",
+    "artists": [
+      { "name": "L3V3LS", "link": "https://music.163.com/artist?id=12007340" }
+    ],
+    "album": {
+      "name": "I Hear When I Think",
+      "link": "https://music.163.com/album?id=80050394"
+    }
+  },
+  {
+    "name": "Anti-Everything",
+    "link": "https://music.163.com/song?id=1338762884",
+    "duration": "03:03",
+    "artists": [
+      {
+        "name": "Lost Kings",
+        "link": "https://music.163.com/artist?id=847225"
+      },
+      {
+        "name": "Loren Gray",
+        "link": "https://music.163.com/artist?id=28802007"
+      }
+    ],
+    "album": {
+      "name": "Anti-Everything",
+      "link": "https://music.163.com/album?id=75120586"
+    }
+  },
+  {
+    "name": "Versailles",
+    "link": "https://music.163.com/song?id=1341925028",
+    "duration": "03:36",
+    "artists": [
+      { "name": "Axollo", "link": "https://music.163.com/artist?id=12041012" },
+      { "name": "MAJRO", "link": "https://music.163.com/artist?id=31350786" }
+    ],
+    "album": {
+      "name": "Versailles",
+      "link": "https://music.163.com/album?id=75321374"
+    }
+  },
+  {
+    "name": "Dreaming of you",
+    "link": "https://music.163.com/song?id=1406857109",
+    "duration": "02:16",
+    "artists": [
+      { "name": "暴君de", "link": "https://music.163.com/artist?id=12599289" }
+    ],
+    "album": {
+      "name": "Dreaming of you",
+      "link": "https://music.163.com/album?id=83755162"
+    }
+  },
+  {
+    "name": "重生",
+    "link": "https://music.163.com/song?id=1351001724",
+    "duration": "04:02",
+    "artists": [
+      { "name": "色匠", "link": "https://music.163.com/artist?id=30918389" }
+    ],
+    "album": {
+      "name": "重生",
+      "link": "https://music.163.com/album?id=75785036"
+    }
+  },
+  {
+    "name": "阿珍爱上了阿强",
+    "link": "https://music.163.com/song?id=1352321625",
+    "duration": "01:30",
+    "artists": [
+      { "name": "成轩遥", "link": "https://music.163.com/artist?id=12282699" }
+    ],
+    "album": {
+      "name": "刺客五六七主题曲",
+      "link": "https://music.163.com/album?id=75842287"
+    }
+  },
+  {
+    "name": "Humbug",
+    "link": "https://music.163.com/song?id=442867641",
+    "duration": "04:27",
+    "artists": [
+      { "name": "Owl City", "link": "https://music.163.com/artist?id=40859" }
+    ],
+    "album": {
+      "name": "Humbug",
+      "link": "https://music.163.com/album?id=35016203"
+    }
+  },
+  {
+    "name": "夜行",
+    "link": "https://music.163.com/song?id=1428153831",
+    "duration": "03:24",
+    "artists": [
+      { "name": "ヨルシカ", "link": "https://music.163.com/artist?id=12390232" }
+    ],
+    "album": {
+      "name": "夜行",
+      "link": "https://music.163.com/album?id=86228902"
+    }
+  },
+  {
+    "name": "LOSER",
+    "link": "https://music.163.com/song?id=432509390",
+    "duration": "04:05",
+    "artists": [
+      { "name": "米津玄師", "link": "https://music.163.com/artist?id=159300" }
+    ],
+    "album": {
+      "name": "LOSER / ナンバーナイン",
+      "link": "https://music.163.com/album?id=34897352"
+    }
+  },
+  {
+    "name": "“枫”她会对我说谎吗",
+    "link": "https://music.163.com/song?id=1496136100",
+    "duration": "03:00",
+    "artists": [
+      { "name": "小新", "link": "https://music.163.com/artist?id=37456747" }
+    ],
+    "album": {
+      "name": "“枫”",
+      "link": "https://music.163.com/album?id=98419659"
+    }
+  },
+  {
+    "name": " Pretender（翻自 Official髭男dism） ",
+    "link": "https://music.163.com/song?id=1367411487",
+    "duration": "05:07",
+    "artists": [
+      {
+        "name": "kobasolo",
+        "link": "https://music.163.com/artist?id=12602415"
+      },
+      { "name": "春茶", "link": "https://music.163.com/artist?id=29690148" }
+    ],
+    "album": {
+      "name": "Pretender",
+      "link": "https://music.163.com/album?id=79262437"
+    }
+  },
+  {
+    "name": "晚星",
+    "link": "https://music.163.com/song?id=1319520140",
+    "duration": "03:13",
+    "artists": [
+      { "name": "逆时针向", "link": "https://music.163.com/artist?id=12128251" }
+    ],
+    "album": {
+      "name": "晚星",
+      "link": "https://music.163.com/album?id=74009778"
+    }
+  },
+  {
+    "name": "星星在唱歌（纯音乐）",
+    "link": "https://music.163.com/song?id=1803321138",
+    "duration": "02:56",
+    "artists": [
+      { "name": "CMJ", "link": "https://music.163.com/artist?id=12157336" }
+    ],
+    "album": {
+      "name": "星星在唱歌（网易云音乐2020年度听歌报告主题曲）",
+      "link": "https://music.163.com/album?id=120264162"
+    }
+  },
+  {
+    "name": "浮生皆纵 恍如一梦",
+    "link": "https://music.163.com/song?id=1417465877",
+    "duration": "02:15",
+    "artists": [
+      { "name": "白鸿", "link": "https://music.163.com/artist?id=31008744" },
+      { "name": "OVEITSUK", "link": "https://music.163.com/artist?id=31375397" }
+    ],
+    "album": {
+      "name": "浮生皆纵 恍如一梦",
+      "link": "https://music.163.com/album?id=85028123"
+    }
+  },
+  {
+    "name": "End Of Time（Original Mix）",
+    "link": "https://music.163.com/song?id=1316147243",
+    "duration": "03:21",
+    "artists": [
+      { "name": "Inogg", "link": "https://music.163.com/artist?id=12643745" }
+    ],
+    "album": {
+      "name": "End Of Time",
+      "link": "https://music.163.com/album?id=73799923"
+    }
+  },
+  {
+    "name": "幽霊",
+    "link": "https://music.163.com/song?id=1446131098",
+    "duration": "02:12",
+    "artists": [
+      {
+        "name": "植川理一",
+        "link": "https://music.163.com/artist?id=30374245"
+      },
+      {
+        "name": "Sawako碎花",
+        "link": "https://music.163.com/artist?id=12292130"
+      }
+    ],
+    "album": {
+      "name": "幽霊",
+      "link": "https://music.163.com/album?id=88975555"
+    }
+  },
+  {
+    "name": "LOVE SONG",
+    "link": "https://music.163.com/song?id=1348431322",
+    "duration": "03:59",
+    "artists": [
+      {
+        "name": "Sekai no Owari",
+        "link": "https://music.163.com/artist?id=21463"
+      }
+    ],
+    "album": {
+      "name": "Eye",
+      "link": "https://music.163.com/album?id=75701460"
+    }
+  },
+  {
+    "name": "Hill Of Sorrow",
+    "link": "https://music.163.com/song?id=498143",
+    "duration": "04:11",
+    "artists": [
+      { "name": "mpi", "link": "https://music.163.com/artist?id=12475614" }
+    ],
+    "album": {
+      "name": "ギルティクラウン オリジナルサウンドトラック",
+      "link": "https://music.163.com/album?id=47595"
+    }
+  },
+  {
+    "name": "いかないで",
+    "link": "https://music.163.com/song?id=1302953068",
+    "duration": "03:02",
+    "artists": [
+      { "name": "鹿乃", "link": "https://music.163.com/artist?id=17014" }
+    ],
+    "album": {
+      "name": "two",
+      "link": "https://music.163.com/album?id=72378630"
+    }
+  },
+  {
+    "name": "Grab the air",
+    "link": "https://music.163.com/song?id=1447595486",
+    "duration": "04:34",
+    "artists": [
+      { "name": "milet", "link": "https://music.163.com/artist?id=31464106" }
+    ],
+    "album": {
+      "name": "eyes",
+      "link": "https://music.163.com/album?id=89348129"
+    }
+  },
+  {
+    "name": "Sonar (Full Version)",
+    "link": "https://music.163.com/song?id=506092106",
+    "duration": "03:41",
+    "artists": [
+      { "name": "Andreas B.", "link": "https://music.163.com/artist?id=299713" }
+    ],
+    "album": {
+      "name": "Sonar (Full Version)",
+      "link": "https://music.163.com/album?id=36224036"
+    }
+  },
+  {
+    "name": "Unicorn",
+    "link": "https://music.163.com/song?id=499009",
+    "duration": "04:46",
+    "artists": [
+      { "name": "澤野弘之", "link": "https://music.163.com/artist?id=15290" }
+    ],
+    "album": {
+      "name": "機動戦士ガンダムUC オリジナル・サウンドトラック",
+      "link": "https://music.163.com/album?id=47655"
+    }
+  },
+  {
+    "name": "繭色(まゆいろ)",
+    "link": "https://music.163.com/song?id=1496338103",
+    "duration": "04:04",
+    "artists": [
+      {
+        "name": "sajou no hana",
+        "link": "https://music.163.com/artist?id=29151370"
+      }
+    ],
+    "album": {
+      "name": "繭色",
+      "link": "https://music.163.com/album?id=98475002"
+    }
+  },
+  {
+    "name": "BRE@TH//LESS - (TV动画《ALDNOAH.ZERO》插曲)",
+    "link": "https://music.163.com/song?id=29307195",
+    "duration": "04:01",
+    "artists": [
+      { "name": "小林未郁", "link": "https://music.163.com/artist?id=16823" }
+    ],
+    "album": {
+      "name": "アルドノア・ゼロ オリジナル・サウンドトラック",
+      "link": "https://music.163.com/album?id=3003031"
+    }
+  },
+  {
+    "name": "SLEEPWALK",
+    "link": "https://music.163.com/song?id=1345508968",
+    "duration": "04:04",
+    "artists": [
+      { "name": "ヒトリエ", "link": "https://music.163.com/artist?id=784134" }
+    ],
+    "album": {
+      "name": "HOWLS",
+      "link": "https://music.163.com/album?id=75715783"
+    }
+  },
+  {
+    "name": "Peace Of Mind",
+    "link": "https://music.163.com/song?id=28889785",
+    "duration": "04:42",
+    "artists": [
+      { "name": "Jacoo", "link": "https://music.163.com/artist?id=347497" }
+    ],
+    "album": {
+      "name": "Hurt EP",
+      "link": "https://music.163.com/album?id=2922260"
+    }
+  },
+  {
+    "name": "Voyage",
+    "link": "https://music.163.com/song?id=31427000",
+    "duration": "04:49",
+    "artists": [
+      { "name": "Kozoro", "link": "https://music.163.com/artist?id=1050567" },
+      { "name": "Ryzu", "link": "https://music.163.com/artist?id=1081255" }
+    ],
+    "album": {
+      "name": "Voyage",
+      "link": "https://music.163.com/album?id=3111951"
+    }
+  },
+  {
+    "name": "Another Level",
+    "link": "https://music.163.com/song?id=1853549372",
+    "duration": "02:25",
+    "artists": [
+      {
+        "name": "Timmy Trumpet",
+        "link": "https://music.163.com/artist?id=858362"
+      },
+      {
+        "name": "Lovespeake",
+        "link": "https://music.163.com/artist?id=12474630"
+      }
+    ],
+    "album": {
+      "name": "Another Level",
+      "link": "https://music.163.com/album?id=129073701"
+    }
+  }
+]

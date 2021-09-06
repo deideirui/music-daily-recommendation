@@ -1,0 +1,462 @@
+[
+  {
+    "name": "Long Time",
+    "link": "https://music.163.com/song?id=1377465875",
+    "duration": "03:26",
+    "artists": [
+      {
+        "name": "Radiology",
+        "link": "https://music.163.com/artist?id=12023332"
+      },
+      { "name": "AXYS", "link": "https://music.163.com/artist?id=13080193" },
+      {
+        "name": "Revealed Recordings",
+        "link": "https://music.163.com/artist?id=28753573"
+      }
+    ],
+    "album": {
+      "name": "Long Time",
+      "link": "https://music.163.com/album?id=80355956"
+    }
+  },
+  {
+    "name": "Lost Souls",
+    "link": "https://music.163.com/song?id=1425212936",
+    "duration": "02:29",
+    "artists": [
+      { "name": "Blewbird", "link": "https://music.163.com/artist?id=30181315" }
+    ],
+    "album": {
+      "name": "Lost Souls",
+      "link": "https://music.163.com/album?id=85922886"
+    }
+  },
+  {
+    "name": "With or Without You",
+    "link": "https://music.163.com/song?id=1407238316",
+    "duration": "03:21",
+    "artists": [
+      {
+        "name": "Max Oazo",
+        "link": "https://music.163.com/artist?id=13159084"
+      },
+      { "name": "Camishe", "link": "https://music.163.com/artist?id=33741446" }
+    ],
+    "album": {
+      "name": "With or Without You",
+      "link": "https://music.163.com/album?id=83825390"
+    }
+  },
+  {
+    "name": "Wrong",
+    "link": "https://music.163.com/song?id=1442875789",
+    "duration": "03:10",
+    "artists": [
+      {
+        "name": "Ryan Riback",
+        "link": "https://music.163.com/artist?id=312151"
+      },
+      {
+        "name": "Olivia Noelle",
+        "link": "https://music.163.com/artist?id=12008106"
+      }
+    ],
+    "album": {
+      "name": "Wrong",
+      "link": "https://music.163.com/album?id=88432181"
+    }
+  },
+  {
+    "name": "Rendezvous",
+    "link": "https://music.163.com/song?id=544151691",
+    "duration": "03:10",
+    "artists": [
+      { "name": "DEAMN", "link": "https://music.163.com/artist?id=12047335" }
+    ],
+    "album": {
+      "name": "Save Me",
+      "link": "https://music.163.com/album?id=37873487"
+    }
+  },
+  {
+    "name": "Won't Let You Down",
+    "link": "https://music.163.com/song?id=521418261",
+    "duration": "03:23",
+    "artists": [
+      { "name": "MARC", "link": "https://music.163.com/artist?id=12073436" },
+      {
+        "name": "Caroline Høier",
+        "link": "https://music.163.com/artist?id=12903086"
+      }
+    ],
+    "album": {
+      "name": "Won't Let You Down",
+      "link": "https://music.163.com/album?id=36871046"
+    }
+  },
+  {
+    "name": "Endless Summer",
+    "link": "https://music.163.com/song?id=1378481487",
+    "duration": "03:22",
+    "artists": [
+      { "name": "Cashae", "link": "https://music.163.com/artist?id=30024231" },
+      { "name": "Kiddo AI", "link": "https://music.163.com/artist?id=14380800" }
+    ],
+    "album": {
+      "name": "Endless Summer",
+      "link": "https://music.163.com/album?id=80439907"
+    }
+  },
+  {
+    "name": "Solid Ground",
+    "link": "https://music.163.com/song?id=1382892617",
+    "duration": "02:52",
+    "artists": [
+      { "name": "Laeko", "link": "https://music.163.com/artist?id=13858295" }
+    ],
+    "album": {
+      "name": "Solid Ground",
+      "link": "https://music.163.com/album?id=80839890"
+    }
+  },
+  {
+    "name": "If We Could Stay High",
+    "link": "https://music.163.com/song?id=556066472",
+    "duration": "03:41",
+    "artists": [
+      { "name": "Sj", "link": "https://music.163.com/artist?id=288146" },
+      {
+        "name": "Chelsea Lankes",
+        "link": "https://music.163.com/artist?id=53032"
+      }
+    ],
+    "album": {
+      "name": "Calabasas",
+      "link": "https://music.163.com/album?id=38519338"
+    }
+  },
+  {
+    "name": "Out There",
+    "link": "https://music.163.com/song?id=1455156529",
+    "duration": "05:33",
+    "artists": [
+      { "name": "Muzz", "link": "https://music.163.com/artist?id=158046" },
+      { "name": "MVE", "link": "https://music.163.com/artist?id=11975160" }
+    ],
+    "album": {
+      "name": "Out There",
+      "link": "https://music.163.com/album?id=90828708"
+    }
+  },
+  {
+    "name": "Nothing Like You",
+    "link": "https://music.163.com/song?id=1410393012",
+    "duration": "02:19",
+    "artists": [
+      {
+        "name": "Lucas Estrada",
+        "link": "https://music.163.com/artist?id=12409125"
+      },
+      { "name": "Twan Ray", "link": "https://music.163.com/artist?id=15090822" }
+    ],
+    "album": {
+      "name": "Nothing Like You",
+      "link": "https://music.163.com/album?id=84185300"
+    }
+  },
+  {
+    "name": "There's Nothing Holding Me Back",
+    "link": "https://music.163.com/song?id=1352820800",
+    "duration": "03:20",
+    "artists": [
+      { "name": "MADILYN", "link": "https://music.163.com/artist?id=69270" },
+      {
+        "name": "Christian Collins",
+        "link": "https://music.163.com/artist?id=12408050"
+      }
+    ],
+    "album": {
+      "name": "The Cover Games, Vol. 5",
+      "link": "https://music.163.com/album?id=75892924"
+    }
+  },
+  {
+    "name": "Where'd U Go",
+    "link": "https://music.163.com/song?id=507585221",
+    "duration": "03:04",
+    "artists": [
+      { "name": "ILLENIUM", "link": "https://music.163.com/artist?id=1050518" },
+      {
+        "name": "Said The Sky",
+        "link": "https://music.163.com/artist?id=1026094"
+      }
+    ],
+    "album": {
+      "name": "Awake",
+      "link": "https://music.163.com/album?id=36290028"
+    }
+  },
+  {
+    "name": "I'm A Human",
+    "link": "https://music.163.com/song?id=1422621896",
+    "duration": "02:24",
+    "artists": [
+      { "name": "Deekey", "link": "https://music.163.com/artist?id=12883069" }
+    ],
+    "album": {
+      "name": "I'm A Human",
+      "link": "https://music.163.com/album?id=85651344"
+    }
+  },
+  {
+    "name": "All for Nothing",
+    "link": "https://music.163.com/song?id=1415342801",
+    "duration": "04:22",
+    "artists": [
+      { "name": "Duumu", "link": "https://music.163.com/artist?id=12007367" },
+      { "name": "MYRNE", "link": "https://music.163.com/artist?id=791151" }
+    ],
+    "album": {
+      "name": "All for Nothing",
+      "link": "https://music.163.com/album?id=84852750"
+    }
+  },
+  {
+    "name": "Video Games",
+    "link": "https://music.163.com/song?id=1398984873",
+    "duration": "03:10",
+    "artists": [
+      {
+        "name": "Half an Orange",
+        "link": "https://music.163.com/artist?id=12492297"
+      }
+    ],
+    "album": {
+      "name": "Mostly We Grow Pt. 2",
+      "link": "https://music.163.com/album?id=82717470"
+    }
+  },
+  {
+    "name": "Wishes & Wonders",
+    "link": "https://music.163.com/song?id=1472491090",
+    "duration": "04:12",
+    "artists": [
+      { "name": "Nyte", "link": "https://music.163.com/artist?id=1034003" }
+    ],
+    "album": {
+      "name": "Wishes & Wonders",
+      "link": "https://music.163.com/album?id=94217319"
+    }
+  },
+  {
+    "name": "Alone",
+    "link": "https://music.163.com/song?id=1396658581",
+    "duration": "03:20",
+    "artists": [
+      { "name": "Ryos", "link": "https://music.163.com/artist?id=1053137" }
+    ],
+    "album": {
+      "name": "Alone",
+      "link": "https://music.163.com/album?id=82367604"
+    }
+  },
+  {
+    "name": "Better Days",
+    "link": "https://music.163.com/song?id=531051304",
+    "duration": "02:47",
+    "artists": [
+      {
+        "name": "Morgin Madison",
+        "link": "https://music.163.com/artist?id=13056623"
+      }
+    ],
+    "album": {
+      "name": "All Of This",
+      "link": "https://music.163.com/album?id=37256374"
+    }
+  },
+  {
+    "name": "Erase Me (Last Heroes Remix)",
+    "link": "https://music.163.com/song?id=1417684386",
+    "duration": "03:24",
+    "artists": [
+      {
+        "name": "Last Heroes",
+        "link": "https://music.163.com/artist?id=11987034"
+      },
+      {
+        "name": "NÉONHÈART",
+        "link": "https://music.163.com/artist?id=12273083"
+      },
+      {
+        "name": "Said The Sky",
+        "link": "https://music.163.com/artist?id=1026094"
+      }
+    ],
+    "album": {
+      "name": "Erase Me (Last Heroes Remix)",
+      "link": "https://music.163.com/album?id=85072280"
+    }
+  },
+  {
+    "name": "Slow Motion",
+    "link": "https://music.163.com/song?id=1429820087",
+    "duration": "02:15",
+    "artists": [
+      { "name": "Stvcks", "link": "https://music.163.com/artist?id=12213227" },
+      { "name": "Jaxomy", "link": "https://music.163.com/artist?id=29701895" },
+      { "name": "Youkii", "link": "https://music.163.com/artist?id=32496429" }
+    ],
+    "album": {
+      "name": "Slow Motion",
+      "link": "https://music.163.com/album?id=86388993"
+    }
+  },
+  {
+    "name": "Hold Your Kite",
+    "link": "https://music.163.com/song?id=536624049",
+    "duration": "03:00",
+    "artists": [
+      { "name": "Goldfish", "link": "https://music.163.com/artist?id=93494" },
+      { "name": "Sorana", "link": "https://music.163.com/artist?id=427708" }
+    ],
+    "album": {
+      "name": "Hold Your Kite",
+      "link": "https://music.163.com/album?id=37578025"
+    }
+  },
+  {
+    "name": "Hang Up",
+    "link": "https://music.163.com/song?id=551338063",
+    "duration": "03:19",
+    "artists": [
+      { "name": "WRLD", "link": "https://music.163.com/artist?id=948057" },
+      { "name": "Savoi", "link": "https://music.163.com/artist?id=964322" }
+    ],
+    "album": {
+      "name": "Hang Up",
+      "link": "https://music.163.com/album?id=38274019"
+    }
+  },
+  {
+    "name": "Help Me Out",
+    "link": "https://music.163.com/song?id=1471699627",
+    "duration": "03:13",
+    "artists": [
+      { "name": "Maroon 5", "link": "https://music.163.com/artist?id=96266" },
+      {
+        "name": "Julia Michaels",
+        "link": "https://music.163.com/artist?id=12097049"
+      }
+    ],
+    "album": {
+      "name": "Hiturile verii",
+      "link": "https://music.163.com/album?id=94072150"
+    }
+  },
+  {
+    "name": "Save Me",
+    "link": "https://music.163.com/song?id=444524927",
+    "duration": "02:51",
+    "artists": [
+      {
+        "name": "Adventure Club",
+        "link": "https://music.163.com/artist?id=792045"
+      },
+      { "name": "Adara", "link": "https://music.163.com/artist?id=1177069" },
+      { "name": "Terravita", "link": "https://music.163.com/artist?id=789283" }
+    ],
+    "album": {
+      "name": "Red // Blue",
+      "link": "https://music.163.com/album?id=35012476"
+    }
+  },
+  {
+    "name": "Another Way (with April Bender)",
+    "link": "https://music.163.com/song?id=1433426227",
+    "duration": "04:24",
+    "artists": [
+      {
+        "name": "Seven Lions",
+        "link": "https://music.163.com/artist?id=44204"
+      },
+      {
+        "name": "April Bender",
+        "link": "https://music.163.com/artist?id=13080174"
+      }
+    ],
+    "album": {
+      "name": "Find Another Way",
+      "link": "https://music.163.com/album?id=86776607"
+    }
+  },
+  {
+    "name": "Miami 82 (Avicii Edit)",
+    "link": "https://music.163.com/song?id=28030008",
+    "duration": "05:05",
+    "artists": [
+      { "name": "Syn Cole", "link": "https://music.163.com/artist?id=854432" },
+      { "name": "Avicii", "link": "https://music.163.com/artist?id=45236" }
+    ],
+    "album": {
+      "name": "Miami 82",
+      "link": "https://music.163.com/album?id=2715761"
+    }
+  },
+  {
+    "name": "Help Me",
+    "link": "https://music.163.com/song?id=1417975454",
+    "duration": "03:38",
+    "artists": [
+      {
+        "name": "Danny MeeGaa",
+        "link": "https://music.163.com/artist?id=33205700"
+      }
+    ],
+    "album": {
+      "name": "Help Me",
+      "link": "https://music.163.com/album?id=85108331"
+    }
+  },
+  {
+    "name": "Butterfly Effect",
+    "link": "https://music.163.com/song?id=1419431066",
+    "duration": "03:27",
+    "artists": [
+      { "name": "KOVEN.", "link": "https://music.163.com/artist?id=370675" }
+    ],
+    "album": {
+      "name": "Butterfly Effect",
+      "link": "https://music.163.com/album?id=85297635"
+    }
+  },
+  {
+    "name": "Faded",
+    "link": "https://music.163.com/song?id=482988252",
+    "duration": "02:34",
+    "artists": [
+      { "name": "J. Lisk", "link": "https://music.163.com/artist?id=12121101" }
+    ],
+    "album": {
+      "name": "Faded",
+      "link": "https://music.163.com/album?id=35590453"
+    }
+  },
+  {
+    "name": "Universe",
+    "link": "https://music.163.com/song?id=1381044579",
+    "duration": "03:40",
+    "artists": [
+      { "name": "LU2VYK", "link": "https://music.163.com/artist?id=12356140" },
+      {
+        "name": "The JOST",
+        "link": "https://music.163.com/artist?id=12364054"
+      },
+      { "name": "Janethan", "link": "https://music.163.com/artist?id=28253141" }
+    ],
+    "album": {
+      "name": "Universe",
+      "link": "https://music.163.com/album?id=80684058"
+    }
+  }
+]

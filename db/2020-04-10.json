@@ -1,0 +1,450 @@
+[
+  {
+    "name": "Hue",
+    "link": "https://music.163.com/song?id=1355169880",
+    "duration": "04:06",
+    "artists": [
+      {
+        "name": "Dave Thomas Junior",
+        "link": "https://music.163.com/artist?id=32233"
+      }
+    ],
+    "album": {
+      "name": "Hue",
+      "link": "https://music.163.com/album?id=78245972"
+    }
+  },
+  {
+    "name": "Never Been Hurt Before",
+    "link": "https://music.163.com/song?id=1381472859",
+    "duration": "03:05",
+    "artists": [
+      { "name": "Tep No", "link": "https://music.163.com/artist?id=956357" },
+      {
+        "name": "Jocelyn Alice",
+        "link": "https://music.163.com/artist?id=12006150"
+      }
+    ],
+    "album": {
+      "name": "Never Been Hurt Before",
+      "link": "https://music.163.com/album?id=80725384"
+    }
+  },
+  {
+    "name": "I Said Hi",
+    "link": "https://music.163.com/song?id=549800595",
+    "duration": "02:48",
+    "artists": [
+      { "name": "Amy Shark", "link": "https://music.163.com/artist?id=864087" }
+    ],
+    "album": {
+      "name": "Love Monster",
+      "link": "https://music.163.com/album?id=71754911"
+    }
+  },
+  {
+    "name": "Wanna Say",
+    "link": "https://music.163.com/song?id=2920881",
+    "duration": "03:26",
+    "artists": [
+      { "name": "Kat Graham", "link": "https://music.163.com/artist?id=63998" }
+    ],
+    "album": {
+      "name": "Against The Wall",
+      "link": "https://music.163.com/album?id=294955"
+    }
+  },
+  {
+    "name": "Umbrella (Electus Remix)",
+    "link": "https://music.163.com/song?id=1299570089",
+    "duration": "04:09",
+    "artists": [
+      { "name": "Electus", "link": "https://music.163.com/artist?id=1032300" }
+    ],
+    "album": {
+      "name": "Umbrella (Electus Remix)",
+      "link": "https://music.163.com/album?id=72071981"
+    }
+  },
+  {
+    "name": "One",
+    "link": "https://music.163.com/song?id=1326037333",
+    "duration": "02:44",
+    "artists": [
+      {
+        "name": "Axel Johansson",
+        "link": "https://music.163.com/artist?id=12872604"
+      }
+    ],
+    "album": {
+      "name": "One",
+      "link": "https://music.163.com/album?id=74442476"
+    }
+  },
+  {
+    "name": "Anywhere But Here",
+    "link": "https://music.163.com/song?id=1819259",
+    "duration": "05:23",
+    "artists": [
+      {
+        "name": "Ørjan Nilsen",
+        "link": "https://music.163.com/artist?id=41064"
+      }
+    ],
+    "album": {
+      "name": "In My Opinion",
+      "link": "https://music.163.com/album?id=183891"
+    }
+  },
+  {
+    "name": "On My Head",
+    "link": "https://music.163.com/song?id=1305174455",
+    "duration": "02:50",
+    "artists": [
+      { "name": "Perlo", "link": "https://music.163.com/artist?id=28387443" }
+    ],
+    "album": {
+      "name": "Day by Day",
+      "link": "https://music.163.com/album?id=72665791"
+    }
+  },
+  {
+    "name": "Monday (with Ashe)",
+    "link": "https://music.163.com/song?id=1379959117",
+    "duration": "03:15",
+    "artists": [
+      { "name": "filous", "link": "https://music.163.com/artist?id=1081131" },
+      { "name": "Ashe", "link": "https://music.163.com/artist?id=12278097" }
+    ],
+    "album": {
+      "name": "Monday (with Ashe)",
+      "link": "https://music.163.com/album?id=80595176"
+    }
+  },
+  {
+    "name": "Dealer",
+    "link": "https://music.163.com/song?id=1371327139",
+    "duration": "02:26",
+    "artists": [
+      {
+        "name": "Romeo Blanco",
+        "link": "https://music.163.com/artist?id=208266"
+      }
+    ],
+    "album": {
+      "name": "Dealer",
+      "link": "https://music.163.com/album?id=79751023"
+    }
+  },
+  {
+    "name": "U Make Me",
+    "link": "https://music.163.com/song?id=544056528",
+    "duration": "03:08",
+    "artists": [
+      {
+        "name": "Disco Fries",
+        "link": "https://music.163.com/artist?id=330684"
+      },
+      {
+        "name": "Raquel Castro",
+        "link": "https://music.163.com/artist?id=896205"
+      }
+    ],
+    "album": {
+      "name": "U Make Me",
+      "link": "https://music.163.com/album?id=37763691"
+    }
+  },
+  {
+    "name": "Somewhere New (Radio Edit)",
+    "link": "https://music.163.com/song?id=427322558",
+    "duration": "03:28",
+    "artists": [
+      { "name": "Klingande", "link": "https://music.163.com/artist?id=759489" },
+      { "name": "M-22", "link": "https://music.163.com/artist?id=1181648" }
+    ],
+    "album": {
+      "name": "Somewhere New",
+      "link": "https://music.163.com/album?id=34854082"
+    }
+  },
+  {
+    "name": "Fog",
+    "link": "https://music.163.com/song?id=35691378",
+    "duration": "04:29",
+    "artists": [
+      {
+        "name": "Jabberwocky",
+        "link": "https://music.163.com/artist?id=562358"
+      },
+      { "name": "Ana Zimmer", "link": "https://music.163.com/artist?id=250740" }
+    ],
+    "album": {
+      "name": "Lunar Lane",
+      "link": "https://music.163.com/album?id=3339155"
+    }
+  },
+  {
+    "name": "Lone Ranger",
+    "link": "https://music.163.com/song?id=29803676",
+    "duration": "03:07",
+    "artists": [
+      {
+        "name": "Rachel Platten",
+        "link": "https://music.163.com/artist?id=74518"
+      }
+    ],
+    "album": {
+      "name": "Fight Song",
+      "link": "https://music.163.com/album?id=3081170"
+    }
+  },
+  {
+    "name": "Paper Love",
+    "link": "https://music.163.com/song?id=475207414",
+    "duration": "03:17",
+    "artists": [
+      { "name": "Allie X", "link": "https://music.163.com/artist?id=973030" }
+    ],
+    "album": {
+      "name": "Paper Love",
+      "link": "https://music.163.com/album?id=35377988"
+    }
+  },
+  {
+    "name": "Sonnenmädchen (feat. Jason Anousheh) [LIZOT Radio Edit]",
+    "link": "https://music.163.com/song?id=36308012",
+    "duration": "03:22",
+    "artists": [
+      { "name": "LIZOT", "link": "https://music.163.com/artist?id=1137483" },
+      {
+        "name": "Charming Horses",
+        "link": "https://music.163.com/artist?id=1137480"
+      }
+    ],
+    "album": {
+      "name": "Sonnenmädchen",
+      "link": "https://music.163.com/album?id=35274613"
+    }
+  },
+  {
+    "name": "Get Down",
+    "link": "https://music.163.com/song?id=862862104",
+    "duration": "02:55",
+    "artists": [
+      { "name": "Klaas", "link": "https://music.163.com/artist?id=106210" }
+    ],
+    "album": {
+      "name": "Get Down",
+      "link": "https://music.163.com/album?id=71674596"
+    }
+  },
+  {
+    "name": "Tell Me Who (Deeperise Remix)",
+    "link": "https://music.163.com/song?id=486837540",
+    "duration": "04:13",
+    "artists": [
+      {
+        "name": "Deeperise",
+        "link": "https://music.163.com/artist?id=1190120"
+      },
+      { "name": "Vanotek", "link": "https://music.163.com/artist?id=1081048" }
+    ],
+    "album": {
+      "name": "Tell Me Who (Deeperise Remix)",
+      "link": "https://music.163.com/album?id=35663496"
+    }
+  },
+  {
+    "name": "Sun Goes Down",
+    "link": "https://music.163.com/song?id=506092377",
+    "duration": "03:09",
+    "artists": [
+      { "name": "Koni", "link": "https://music.163.com/artist?id=1154018" },
+      {
+        "name": "Jeongwoo",
+        "link": "https://music.163.com/artist?id=12561633"
+      },
+      {
+        "name": "Lilianna Wilde",
+        "link": "https://music.163.com/artist?id=14711114"
+      }
+    ],
+    "album": {
+      "name": "Sun Goes Down",
+      "link": "https://music.163.com/album?id=36225090"
+    }
+  },
+  {
+    "name": "Rich & Famous",
+    "link": "https://music.163.com/song?id=549800712",
+    "duration": "02:43",
+    "artists": [
+      { "name": "SJUR", "link": "https://music.163.com/artist?id=1137419" },
+      {
+        "name": "Isac Elliot",
+        "link": "https://music.163.com/artist?id=772147"
+      }
+    ],
+    "album": {
+      "name": "Rich & Famous",
+      "link": "https://music.163.com/album?id=38013975"
+    }
+  },
+  {
+    "name": "Mirage",
+    "link": "https://music.163.com/song?id=520460268",
+    "duration": "03:13",
+    "artists": [
+      {
+        "name": "Satin Jackets",
+        "link": "https://music.163.com/artist?id=695039"
+      }
+    ],
+    "album": {
+      "name": "Mirage",
+      "link": "https://music.163.com/album?id=36856068"
+    }
+  },
+  {
+    "name": "Solo Dance",
+    "link": "https://music.163.com/song?id=439076364",
+    "duration": "02:54",
+    "artists": [
+      {
+        "name": "Martin Jensen",
+        "link": "https://music.163.com/artist?id=1060055"
+      }
+    ],
+    "album": {
+      "name": "Solo Dance",
+      "link": "https://music.163.com/album?id=34972068"
+    }
+  },
+  {
+    "name": "Dream Catcher ",
+    "link": "https://music.163.com/song?id=29013014",
+    "duration": "03:37",
+    "artists": [
+      { "name": "Rameses B", "link": "https://music.163.com/artist?id=42898" },
+      {
+        "name": "Charlotte Haining",
+        "link": "https://music.163.com/artist?id=1084251"
+      }
+    ],
+    "album": {
+      "name": "Dream Catcher",
+      "link": "https://music.163.com/album?id=2976683"
+    }
+  },
+  {
+    "name": "Los Angeles",
+    "link": "https://music.163.com/song?id=33085162",
+    "duration": "03:29",
+    "artists": [
+      {
+        "name": "The Bird And The Bee",
+        "link": "https://music.163.com/artist?id=102014"
+      }
+    ],
+    "album": {
+      "name": "Recreational Love",
+      "link": "https://music.163.com/album?id=3184043"
+    }
+  },
+  {
+    "name": "Don't Hurt",
+    "link": "https://music.163.com/song?id=475264037",
+    "duration": "03:35",
+    "artists": [
+      {
+        "name": "Mike Williams",
+        "link": "https://music.163.com/artist?id=302020"
+      }
+    ],
+    "album": {
+      "name": "Don't Hurt",
+      "link": "https://music.163.com/album?id=35448026"
+    }
+  },
+  {
+    "name": "Against The Sun",
+    "link": "https://music.163.com/song?id=29497338",
+    "duration": "03:32",
+    "artists": [
+      { "name": "Rootkit", "link": "https://music.163.com/artist?id=956260" },
+      {
+        "name": "Anna Yvette",
+        "link": "https://music.163.com/artist?id=1150079"
+      }
+    ],
+    "album": {
+      "name": "Against The Sun",
+      "link": "https://music.163.com/album?id=3029621"
+    }
+  },
+  {
+    "name": "Fly (OutaMatic Remix)",
+    "link": "https://music.163.com/song?id=496617158",
+    "duration": "02:56",
+    "artists": [
+      { "name": "Odyssey", "link": "https://music.163.com/artist?id=70663" },
+      { "name": "OutaMatic", "link": "https://music.163.com/artist?id=1181741" }
+    ],
+    "album": {
+      "name": "Fly (OutaMatic Remix)",
+      "link": "https://music.163.com/album?id=35909040"
+    }
+  },
+  {
+    "name": "Out of Time",
+    "link": "https://music.163.com/song?id=1309262108",
+    "duration": "03:07",
+    "artists": [
+      { "name": "Shane 54", "link": "https://music.163.com/artist?id=158539" },
+      {
+        "name": "Cubicore",
+        "link": "https://music.163.com/artist?id=28408444"
+      },
+      {
+        "name": "Eric Lumiere",
+        "link": "https://music.163.com/artist?id=537263"
+      }
+    ],
+    "album": {
+      "name": "Out of Time (feat. Eric Lumiere)",
+      "link": "https://music.163.com/album?id=73246434"
+    }
+  },
+  {
+    "name": "Creep",
+    "link": "https://music.163.com/song?id=485612576",
+    "duration": "02:55",
+    "artists": [
+      {
+        "name": "Gamper & Dadoni",
+        "link": "https://music.163.com/artist?id=1085102"
+      },
+      {
+        "name": "Ember Island",
+        "link": "https://music.163.com/artist?id=1100001"
+      }
+    ],
+    "album": {
+      "name": "Creep",
+      "link": "https://music.163.com/album?id=35644823"
+    }
+  },
+  {
+    "name": "Happy Home",
+    "link": "https://music.163.com/song?id=28590161",
+    "duration": "03:36",
+    "artists": [
+      { "name": "Hedegaard", "link": "https://music.163.com/artist?id=938013" }
+    ],
+    "album": {
+      "name": "Happy Home",
+      "link": "https://music.163.com/album?id=2852009"
+    }
+  }
+]

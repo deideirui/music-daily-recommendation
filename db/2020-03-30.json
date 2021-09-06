@@ -1,0 +1,504 @@
+[
+  {
+    "name": "Drama Free",
+    "link": "https://music.163.com/song?id=1371043420",
+    "duration": "03:05",
+    "artists": [
+      {
+        "name": "Maria Lynn",
+        "link": "https://music.163.com/artist?id=12273415"
+      },
+      {
+        "name": "Steve Reece",
+        "link": "https://music.163.com/artist?id=1147021"
+      }
+    ],
+    "album": {
+      "name": "Drama Free",
+      "link": "https://music.163.com/album?id=79711861"
+    }
+  },
+  {
+    "name": "Crossroads",
+    "link": "https://music.163.com/song?id=30780806",
+    "duration": "05:04",
+    "artists": [
+      { "name": "Kozoro", "link": "https://music.163.com/artist?id=1050567" }
+    ],
+    "album": {
+      "name": "Crossroads",
+      "link": "https://music.163.com/album?id=3103327"
+    }
+  },
+  {
+    "name": "Dying Day (feat. Prettyheartbreak)",
+    "link": "https://music.163.com/song?id=1381082568",
+    "duration": "03:08",
+    "artists": [
+      {
+        "name": "William Black",
+        "link": "https://music.163.com/artist?id=248957"
+      },
+      {
+        "name": "Prettyheartbreak",
+        "link": "https://music.163.com/artist?id=13878660"
+      }
+    ],
+    "album": {
+      "name": "Pages",
+      "link": "https://music.163.com/album?id=80685180"
+    }
+  },
+  {
+    "name": "Grapevine Valentine",
+    "link": "https://music.163.com/song?id=29556039",
+    "duration": "03:21",
+    "artists": [
+      { "name": "Kingsfoil", "link": "https://music.163.com/artist?id=63287" }
+    ],
+    "album": {
+      "name": "A beating heart is a bleeding heart",
+      "link": "https://music.163.com/album?id=3041133"
+    }
+  },
+  {
+    "name": "Dream in Color",
+    "link": "https://music.163.com/song?id=551339078",
+    "duration": "03:25",
+    "artists": [
+      { "name": "HALIENE", "link": "https://music.163.com/artist?id=13202710" }
+    ],
+    "album": {
+      "name": "Dream in Color",
+      "link": "https://music.163.com/album?id=38272028"
+    }
+  },
+  {
+    "name": "Until You Were Gone",
+    "link": "https://music.163.com/song?id=34723034",
+    "duration": "03:35",
+    "artists": [
+      {
+        "name": "The Chainsmokers",
+        "link": "https://music.163.com/artist?id=893484"
+      },
+      { "name": "Tritonal", "link": "https://music.163.com/artist?id=104133" },
+      {
+        "name": "Emily Warren",
+        "link": "https://music.163.com/artist?id=12356790"
+      }
+    ],
+    "album": {
+      "name": "Until You Were Gone",
+      "link": "https://music.163.com/album?id=3295014"
+    }
+  },
+  {
+    "name": "Back In Time",
+    "link": "https://music.163.com/song?id=1385290135",
+    "duration": "02:54",
+    "artists": [
+      { "name": "Refuzion", "link": "https://music.163.com/artist?id=1081221" }
+    ],
+    "album": {
+      "name": "Back In Time",
+      "link": "https://music.163.com/album?id=81042637"
+    }
+  },
+  {
+    "name": "Hold My Hand (Duet with Akon)",
+    "link": "https://music.163.com/song?id=21178136",
+    "duration": "03:32",
+    "artists": [
+      {
+        "name": "Michael Jackson",
+        "link": "https://music.163.com/artist?id=38853"
+      },
+      { "name": "Akon", "link": "https://music.163.com/artist?id=27595" }
+    ],
+    "album": {
+      "name": "Hold My Hand (Duet With Akon)",
+      "link": "https://music.163.com/album?id=1958198"
+    }
+  },
+  {
+    "name": "Long Shot",
+    "link": "https://music.163.com/song?id=422977912",
+    "duration": "02:38",
+    "artists": [
+      {
+        "name": "Trademark",
+        "link": "https://music.163.com/artist?id=12145030"
+      },
+      { "name": "Cash Cash", "link": "https://music.163.com/artist?id=50905" },
+      {
+        "name": "Clean Bandit",
+        "link": "https://music.163.com/artist?id=754010"
+      },
+      {
+        "name": "The Chainsmokers",
+        "link": "https://music.163.com/artist?id=893484"
+      },
+      {
+        "name": "Jess Glynne",
+        "link": "https://music.163.com/artist?id=904046"
+      },
+      { "name": "SirenXX", "link": "https://music.163.com/artist?id=1122046" }
+    ],
+    "album": {
+      "name": "Long Shot",
+      "link": "https://music.163.com/album?id=34791499"
+    }
+  },
+  {
+    "name": "Summer Memories",
+    "link": "https://music.163.com/song?id=34766841",
+    "duration": "03:25",
+    "artists": [
+      { "name": "Janji", "link": "https://music.163.com/artist?id=1032229" }
+    ],
+    "album": {
+      "name": "Summer Memories",
+      "link": "https://music.163.com/album?id=3295529"
+    }
+  },
+  {
+    "name": "Last Weekend",
+    "link": "https://music.163.com/song?id=516655110",
+    "duration": "03:28",
+    "artists": [
+      {
+        "name": "Luca Testa",
+        "link": "https://music.163.com/artist?id=1181227"
+      }
+    ],
+    "album": {
+      "name": "Last Weekend",
+      "link": "https://music.163.com/album?id=36713044"
+    }
+  },
+  {
+    "name": "Follow Me",
+    "link": "https://music.163.com/song?id=476324207",
+    "duration": "02:48",
+    "artists": [
+      {
+        "name": "Pink Panda",
+        "link": "https://music.163.com/artist?id=12054022"
+      },
+      { "name": "ZY", "link": "https://music.163.com/artist?id=12155122" }
+    ],
+    "album": {
+      "name": "Follow Me",
+      "link": "https://music.163.com/album?id=35456083"
+    }
+  },
+  {
+    "name": "Something More (Tom Legacy Remix)",
+    "link": "https://music.163.com/song?id=407679631",
+    "duration": "04:02",
+    "artists": [
+      {
+        "name": "Tom Legacy",
+        "link": "https://music.163.com/artist?id=12024125"
+      },
+      { "name": "Kozoro", "link": "https://music.163.com/artist?id=1050567" }
+    ],
+    "album": {
+      "name": "Something More (Tom Legacy Remix)",
+      "link": "https://music.163.com/album?id=34589208"
+    }
+  },
+  {
+    "name": "星光 - (电视剧《真命天女》片头曲)",
+    "link": "https://music.163.com/song?id=375352",
+    "duration": "03:54",
+    "artists": [
+      { "name": "S.H.E", "link": "https://music.163.com/artist?id=12709" }
+    ],
+    "album": {
+      "name": "Forever 新歌+精选",
+      "link": "https://music.163.com/album?id=37155"
+    }
+  },
+  {
+    "name": "欧美随行公路旅游BGM",
+    "link": "https://music.163.com/song?id=1359553799",
+    "duration": "02:32",
+    "artists": [
+      { "name": "安筱冷", "link": "https://music.163.com/artist?id=28387245" }
+    ],
+    "album": {
+      "name": "关于我们你遗憾吗",
+      "link": "https://music.163.com/album?id=78586606"
+    }
+  },
+  {
+    "name": "At The End Of The Night (Original Mix)",
+    "link": "https://music.163.com/song?id=38018452",
+    "duration": "04:12",
+    "artists": [
+      {
+        "name": "Swanky Tunes",
+        "link": "https://music.163.com/artist?id=206627"
+      },
+      { "name": "Arston", "link": "https://music.163.com/artist?id=776576" },
+      {
+        "name": "C. Todd Nielsen",
+        "link": "https://music.163.com/artist?id=13334788"
+      }
+    ],
+    "album": {
+      "name": "At The End Of The Night",
+      "link": "https://music.163.com/album?id=3428117"
+    }
+  },
+  {
+    "name": "最后的狂欢 (Live)",
+    "link": "https://music.163.com/song?id=1386080627",
+    "duration": "04:43",
+    "artists": [
+      {
+        "name": "杨和苏KeyNG",
+        "link": "https://music.163.com/artist?id=13899303"
+      }
+    ],
+    "album": {
+      "name": "中国新说唱2019 第十一期",
+      "link": "https://music.163.com/album?id=81106864"
+    }
+  },
+  {
+    "name": "黑夜我们和解",
+    "link": "https://music.163.com/song?id=1387601420",
+    "duration": "02:26",
+    "artists": [
+      { "name": "Zha zhA", "link": "https://music.163.com/artist?id=30129945" }
+    ],
+    "album": {
+      "name": "黑夜我们和解吧",
+      "link": "https://music.163.com/album?id=81182745"
+    }
+  },
+  {
+    "name": "Alaska (Toby Green Remix)",
+    "link": "https://music.163.com/song?id=487594649",
+    "duration": "03:05",
+    "artists": [
+      {
+        "name": "Maggie Rogers",
+        "link": "https://music.163.com/artist?id=69269"
+      },
+      { "name": "Toby Green", "link": "https://music.163.com/artist?id=850069" }
+    ],
+    "album": {
+      "name": "Alaska (Toby Green Remix)",
+      "link": "https://music.163.com/album?id=35697131"
+    }
+  },
+  {
+    "name": "爱上你是一个错",
+    "link": "https://music.163.com/song?id=176430",
+    "duration": "04:05",
+    "artists": [
+      { "name": "杨培安", "link": "https://music.163.com/artist?id=6071" }
+    ],
+    "album": {
+      "name": "午夜两点半的我",
+      "link": "https://music.163.com/album?id=17871"
+    }
+  },
+  {
+    "name": "Gone",
+    "link": "https://music.163.com/song?id=1336856653",
+    "duration": "02:53",
+    "artists": [
+      { "name": "Hoang", "link": "https://music.163.com/artist?id=27694442" },
+      { "name": "Kianna", "link": "https://music.163.com/artist?id=197017" }
+    ],
+    "album": {
+      "name": "Gone",
+      "link": "https://music.163.com/album?id=75016971"
+    }
+  },
+  {
+    "name": "Floating Symmetry (Mark & Lukas Remix)",
+    "link": "https://music.163.com/song?id=520459393",
+    "duration": "06:10",
+    "artists": [
+      {
+        "name": "Roald Velden",
+        "link": "https://music.163.com/artist?id=178498"
+      },
+      {
+        "name": "Vince Forwards",
+        "link": "https://music.163.com/artist?id=763088"
+      },
+      {
+        "name": "Mark & Lukas",
+        "link": "https://music.163.com/artist?id=1104097"
+      }
+    ],
+    "album": {
+      "name": "Floating Symmetry EP",
+      "link": "https://music.163.com/album?id=36853133"
+    }
+  },
+  {
+    "name": "Stay Young",
+    "link": "https://music.163.com/song?id=503020019",
+    "duration": "02:36",
+    "artists": [
+      {
+        "name": "Mike Perry",
+        "link": "https://music.163.com/artist?id=195021"
+      },
+      { "name": "Tessa", "link": "https://music.163.com/artist?id=410467" }
+    ],
+    "album": {
+      "name": "Stay Young",
+      "link": "https://music.163.com/album?id=36098015"
+    }
+  },
+  {
+    "name": "决不回头",
+    "link": "https://music.163.com/song?id=1424334234",
+    "duration": "04:46",
+    "artists": [
+      { "name": "胡彦斌", "link": "https://music.163.com/artist?id=3066" }
+    ],
+    "album": {
+      "name": "决不回头",
+      "link": "https://music.163.com/album?id=85821081"
+    }
+  },
+  {
+    "name": "Bulletproof Heart [Radio Edit] [Radio Edit]",
+    "link": "https://music.163.com/song?id=29713316",
+    "duration": "03:11",
+    "artists": [
+      {
+        "name": "Indian Boi",
+        "link": "https://music.163.com/artist?id=1026024"
+      }
+    ],
+    "album": {
+      "name": "Bulletproof Heart",
+      "link": "https://music.163.com/album?id=3064054"
+    }
+  },
+  {
+    "name": "丢",
+    "link": "https://music.163.com/song?id=536976917",
+    "duration": "03:32",
+    "artists": [
+      {
+        "name": "孜然胳肢窝",
+        "link": "https://music.163.com/artist?id=13196409"
+      },
+      { "name": "郭子潇", "link": "https://music.163.com/artist?id=12571129" }
+    ],
+    "album": { "name": "丢", "link": "https://music.163.com/album?id=37550507" }
+  },
+  {
+    "name": "Blessing (Full Version)",
+    "link": "https://music.163.com/song?id=429769767",
+    "duration": "03:45",
+    "artists": [
+      {
+        "name": "Andreas B.",
+        "link": "https://music.163.com/artist?id=299713"
+      },
+      {
+        "name": "Charlotte Haining",
+        "link": "https://music.163.com/artist?id=1084251"
+      }
+    ],
+    "album": {
+      "name": "Blessing (Full Version)",
+      "link": "https://music.163.com/album?id=34869426"
+    }
+  },
+  {
+    "name": "Young Together",
+    "link": "https://music.163.com/song?id=495220342",
+    "duration": "04:27",
+    "artists": [
+      { "name": "Kazlo", "link": "https://music.163.com/artist?id=1178325" },
+      {
+        "name": "Helen Tess",
+        "link": "https://music.163.com/artist?id=13311799"
+      }
+    ],
+    "album": {
+      "name": "Young Together (feat. Helen Tess)",
+      "link": "https://music.163.com/album?id=35877114"
+    }
+  },
+  {
+    "name": "Uncover (Afterfab Remix)",
+    "link": "https://music.163.com/song?id=429261825",
+    "duration": "02:51",
+    "artists": [
+      {
+        "name": "Afterfab",
+        "link": "https://music.163.com/artist?id=12040097"
+      },
+      {
+        "name": "Zara Larsson",
+        "link": "https://music.163.com/artist?id=816461"
+      }
+    ],
+    "album": {
+      "name": "Uncover (Afterfab Remix)",
+      "link": "https://music.163.com/album?id=34861004"
+    }
+  },
+  {
+    "name": "Insightful Melody (Mark & Lukas Remix)",
+    "link": "https://music.163.com/song?id=472752118",
+    "duration": "06:24",
+    "artists": [
+      {
+        "name": "Soundliner",
+        "link": "https://music.163.com/artist?id=12370251"
+      },
+      { "name": "Lukas", "link": "https://music.163.com/artist?id=668001" },
+      { "name": "Mark", "link": "https://music.163.com/artist?id=151834" }
+    ],
+    "album": {
+      "name": "Insightful Melody",
+      "link": "https://music.163.com/album?id=35368441"
+    }
+  },
+  {
+    "name": "悬溺（Demo Ver.）（Cover：葛东琪）",
+    "link": "https://music.163.com/song?id=1398495632",
+    "duration": "00:31",
+    "artists": [
+      {
+        "name": "Morris赖仔",
+        "link": "https://music.163.com/artist?id=12291727"
+      }
+    ],
+    "album": {
+      "name": "抖音原声集-Morris赖仔",
+      "link": "https://music.163.com/album?id=75027169"
+    }
+  },
+  {
+    "name": "Dance Monkey",
+    "link": "https://music.163.com/song?id=1364343491",
+    "duration": "03:29",
+    "artists": [
+      {
+        "name": "Tones and I",
+        "link": "https://music.163.com/artist?id=32152093"
+      }
+    ],
+    "album": {
+      "name": "Dance Monkey",
+      "link": "https://music.163.com/album?id=79038004"
+    }
+  }
+]

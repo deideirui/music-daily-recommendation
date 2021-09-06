@@ -1,0 +1,404 @@
+[
+  {
+    "name": "特訓II 成長",
+    "link": "https://music.163.com/song?id=1391282835",
+    "duration": "01:25",
+    "artists": [
+      {
+        "name": "ハマ・オカモト",
+        "link": "https://music.163.com/artist?id=32669082"
+      },
+      { "name": "STUTS", "link": "https://music.163.com/artist?id=12474685" }
+    ],
+    "album": {
+      "name": "HELLO WORLD (Original Sound Track)",
+      "link": "https://music.163.com/album?id=81680754"
+    }
+  },
+  {
+    "name": "Fiction",
+    "link": "https://music.163.com/song?id=22826954",
+    "duration": "03:54",
+    "artists": [
+      { "name": "Beast", "link": "https://music.163.com/artist?id=126377" }
+    ],
+    "album": {
+      "name": "Fiction and Fact",
+      "link": "https://music.163.com/album?id=2099123"
+    }
+  },
+  {
+    "name": "僕と君のララバイ - (我与你的摇篮曲)",
+    "link": "https://music.163.com/song?id=1391228949",
+    "duration": "04:36",
+    "artists": [
+      { "name": "みゆな", "link": "https://music.163.com/artist?id=30110388" }
+    ],
+    "album": {
+      "name": "ユラレル",
+      "link": "https://music.163.com/album?id=81675046"
+    }
+  },
+  {
+    "name": "夜行",
+    "link": "https://music.163.com/song?id=1428153831",
+    "duration": "03:24",
+    "artists": [
+      { "name": "ヨルシカ", "link": "https://music.163.com/artist?id=12390232" }
+    ],
+    "album": {
+      "name": "夜行",
+      "link": "https://music.163.com/album?id=86228902"
+    }
+  },
+  {
+    "name": "너라는 통증 - (以你为名的痛症)",
+    "link": "https://music.163.com/song?id=533017713",
+    "duration": "03:54",
+    "artists": [
+      { "name": "MJ", "link": "https://music.163.com/artist?id=124333" },
+      { "name": "가음", "link": "https://music.163.com/artist?id=1193519" }
+    ],
+    "album": {
+      "name": "너라는 통증",
+      "link": "https://music.163.com/album?id=37391236"
+    }
+  },
+  {
+    "name": "HATENA - (网络动画《高达创形者 再起 第二季》片头曲)",
+    "link": "https://music.163.com/song?id=1438227450",
+    "duration": "03:29",
+    "artists": [
+      {
+        "name": "PENGUIN RESEARCH",
+        "link": "https://music.163.com/artist?id=11982014"
+      }
+    ],
+    "album": {
+      "name": "HATENA",
+      "link": "https://music.163.com/album?id=87701976"
+    }
+  },
+  {
+    "name": "うちで踊ろう - (在我的世界里跳舞)",
+    "link": "https://music.163.com/song?id=1439042896",
+    "duration": "00:57",
+    "artists": [
+      { "name": "星野源", "link": "https://music.163.com/artist?id=14242" }
+    ],
+    "album": {
+      "name": "うちで踊ろう",
+      "link": "https://music.163.com/album?id=89220708"
+    }
+  },
+  {
+    "name": "Nu",
+    "link": "https://music.163.com/song?id=29819848",
+    "duration": "04:01",
+    "artists": [
+      { "name": "DJ Project", "link": "https://music.163.com/artist?id=91079" },
+      { "name": "Giulia", "link": "https://music.163.com/artist?id=59153" }
+    ],
+    "album": { "name": "Nu", "link": "https://music.163.com/album?id=3084595" }
+  },
+  {
+    "name": "Favela",
+    "link": "https://music.163.com/song?id=1300720292",
+    "duration": "03:05",
+    "artists": [
+      {
+        "name": "Ina Wroldsen",
+        "link": "https://music.163.com/artist?id=60879"
+      },
+      { "name": "Alok", "link": "https://music.163.com/artist?id=1170012" }
+    ],
+    "album": {
+      "name": "Favela",
+      "link": "https://music.163.com/album?id=72249583"
+    }
+  },
+  {
+    "name": "Autumn Dream",
+    "link": "https://music.163.com/song?id=1397118776",
+    "duration": "03:24",
+    "artists": [
+      { "name": "N.Flying", "link": "https://music.163.com/artist?id=886043" }
+    ],
+    "album": {
+      "name": "야호(夜好)",
+      "link": "https://music.163.com/album?id=82436650"
+    }
+  },
+  {
+    "name": "Be With Me (Original Mix)",
+    "link": "https://music.163.com/song?id=513738981",
+    "duration": "04:24",
+    "artists": [
+      {
+        "name": "Pascal Letoublon",
+        "link": "https://music.163.com/artist?id=12634325"
+      }
+    ],
+    "album": {
+      "name": "Be With Me",
+      "link": "https://music.163.com/album?id=36576706"
+    }
+  },
+  {
+    "name": "Always Remember Us This Way",
+    "link": "https://music.163.com/song?id=1315441719",
+    "duration": "03:30",
+    "artists": [
+      { "name": "Lady Gaga", "link": "https://music.163.com/artist?id=64147" }
+    ],
+    "album": {
+      "name": "A Star Is Born Soundtrack",
+      "link": "https://music.163.com/album?id=73781284"
+    }
+  },
+  {
+    "name": "傘 - (ブルボン「アルフォート」CMソング)",
+    "link": "https://music.163.com/song?id=1395766828",
+    "duration": "03:22",
+    "artists": [
+      { "name": "King Gnu", "link": "https://music.163.com/artist?id=12551173" }
+    ],
+    "album": { "name": "傘", "link": "https://music.163.com/album?id=82233863" }
+  },
+  {
+    "name": "흉터  - (伤痕)",
+    "link": "https://music.163.com/song?id=34923458",
+    "duration": "03:36",
+    "artists": [
+      { "name": "曺炯雨", "link": "https://music.163.com/artist?id=985047" },
+      { "name": "Cheetah", "link": "https://music.163.com/artist?id=957145" }
+    ],
+    "album": {
+      "name": "흉터",
+      "link": "https://music.163.com/album?id=3306213"
+    }
+  },
+  {
+    "name": "Say So (Original Version)",
+    "link": "https://music.163.com/song?id=1446855406",
+    "duration": "03:26",
+    "artists": [
+      { "name": "Doja Cat", "link": "https://music.163.com/artist?id=911131" },
+      { "name": "Nicki Minaj", "link": "https://music.163.com/artist?id=70183" }
+    ],
+    "album": {
+      "name": "Say So (Original Version)",
+      "link": "https://music.163.com/album?id=89224864"
+    }
+  },
+  {
+    "name": "Live For Falling",
+    "link": "https://music.163.com/song?id=1310505934",
+    "duration": "03:01",
+    "artists": [
+      { "name": "Cinth", "link": "https://music.163.com/artist?id=12521742" }
+    ],
+    "album": {
+      "name": "Live For Falling",
+      "link": "https://music.163.com/album?id=73297371"
+    }
+  },
+  {
+    "name": "Sink（Original Mix）",
+    "link": "https://music.163.com/song?id=458349449",
+    "duration": "04:11",
+    "artists": [
+      { "name": "逆时针向", "link": "https://music.163.com/artist?id=12128251" }
+    ],
+    "album": {
+      "name": "asphyxia",
+      "link": "https://music.163.com/album?id=35132652"
+    }
+  },
+  {
+    "name": "이 노래가 클럽에서 나온다면 - (如果在CLUB听到这首歌)",
+    "link": "https://music.163.com/song?id=1341580878",
+    "duration": "03:39",
+    "artists": [
+      { "name": "Woody", "link": "https://music.163.com/artist?id=12534326" }
+    ],
+    "album": {
+      "name": "이 노래가 클럽에서 나온다면",
+      "link": "https://music.163.com/album?id=75293268"
+    }
+  },
+  {
+    "name": "어제처럼 굿나잇 - (像昨天一样晚安)",
+    "link": "https://music.163.com/song?id=29719149",
+    "duration": "03:41",
+    "artists": [
+      { "name": "Lovelyz", "link": "https://music.163.com/artist?id=1026002" }
+    ],
+    "album": {
+      "name": "Girls' Invasion",
+      "link": "https://music.163.com/album?id=3066044"
+    }
+  },
+  {
+    "name": "These Are The Times",
+    "link": "https://music.163.com/song?id=1378762448",
+    "duration": "03:08",
+    "artists": [
+      {
+        "name": "Martin Garrix",
+        "link": "https://music.163.com/artist?id=780003"
+      },
+      { "name": "JRM", "link": "https://music.163.com/artist?id=12682822" }
+    ],
+    "album": {
+      "name": "These Are The Times",
+      "link": "https://music.163.com/album?id=80475547"
+    }
+  },
+  {
+    "name": "花鳥風月",
+    "link": "https://music.163.com/song?id=22814470",
+    "duration": "04:35",
+    "artists": [
+      {
+        "name": "Sekai no Owari",
+        "link": "https://music.163.com/artist?id=21463"
+      }
+    ],
+    "album": {
+      "name": "ENTERTAINMENT",
+      "link": "https://music.163.com/album?id=2097288"
+    }
+  },
+  {
+    "name": "I Say",
+    "link": "https://music.163.com/song?id=458507202",
+    "duration": "03:28",
+    "artists": [
+      { "name": "Who r u?", "link": "https://music.163.com/artist?id=11975241" }
+    ],
+    "album": {
+      "name": "I Say",
+      "link": "https://music.163.com/album?id=35157614"
+    }
+  },
+  {
+    "name": "flower",
+    "link": "https://music.163.com/song?id=769663",
+    "duration": "04:39",
+    "artists": [
+      {
+        "name": "TK from 凛として時雨",
+        "link": "https://music.163.com/artist?id=159644"
+      }
+    ],
+    "album": {
+      "name": "flowering",
+      "link": "https://music.163.com/album?id=75706"
+    }
+  },
+  {
+    "name": "おちつけ",
+    "link": "https://music.163.com/song?id=1443016431",
+    "duration": "03:14",
+    "artists": [
+      { "name": "三浦透子", "link": "https://music.163.com/artist?id=32664726" }
+    ],
+    "album": {
+      "name": "ASTERISK",
+      "link": "https://music.163.com/album?id=89994979"
+    }
+  },
+  {
+    "name": "Where the Water Ends",
+    "link": "https://music.163.com/song?id=493283652",
+    "duration": "02:54",
+    "artists": [
+      { "name": "VINAI", "link": "https://music.163.com/artist?id=804422" },
+      { "name": "Anjulie", "link": "https://music.163.com/artist?id=46502" }
+    ],
+    "album": {
+      "name": "Where the Water Ends",
+      "link": "https://music.163.com/album?id=35834469"
+    }
+  },
+  {
+    "name": "灯火 - (日剧《东京爱情故事 2020》主题歌)",
+    "link": "https://music.163.com/song?id=1446628274",
+    "duration": "02:58",
+    "artists": [
+      { "name": "Vaundy", "link": "https://music.163.com/artist?id=34343313" }
+    ],
+    "album": {
+      "name": "strobo",
+      "link": "https://music.163.com/album?id=89955472"
+    }
+  },
+  {
+    "name": "失波 (Lost Frequencis)",
+    "link": "https://music.163.com/song?id=426342468",
+    "duration": "03:15",
+    "artists": [
+      { "name": "R7CKY", "link": "https://music.163.com/artist?id=1044054" }
+    ],
+    "album": {
+      "name": "失波 (Lost Frequencis)",
+      "link": "https://music.163.com/album?id=34829225"
+    }
+  },
+  {
+    "name": "Silver Lining (Original Mix)",
+    "link": "https://music.163.com/song?id=28105993",
+    "duration": "07:12",
+    "artists": [
+      {
+        "name": "Paul Denton",
+        "link": "https://music.163.com/artist?id=827439"
+      }
+    ],
+    "album": {
+      "name": "Silver Lining EP",
+      "link": "https://music.163.com/album?id=2729197"
+    }
+  },
+  {
+    "name": "大嫌い",
+    "link": "https://music.163.com/song?id=1369048385",
+    "duration": "04:04",
+    "artists": [
+      {
+        "name": "當山みれい",
+        "link": "https://music.163.com/artist?id=954456"
+      },
+      { "name": "さなり", "link": "https://music.163.com/artist?id=32450151" }
+    ],
+    "album": {
+      "name": "大嫌い",
+      "link": "https://music.163.com/album?id=79541013"
+    }
+  },
+  {
+    "name": "All Alone With You - (TV动画《心理测量者》一期ED2 ； TVアニメ「PSYCHO-PASS サイコパス」第1期ED2)",
+    "link": "https://music.163.com/song?id=31649322",
+    "duration": "01:29",
+    "artists": [
+      { "name": "EGOIST", "link": "https://music.163.com/artist?id=19353" }
+    ],
+    "album": {
+      "name": "ノイタミナ FAN BEST",
+      "link": "https://music.163.com/album?id=3121709"
+    }
+  },
+  {
+    "name": "おちゃめ機能",
+    "link": "https://music.163.com/song?id=34586069",
+    "duration": "01:30",
+    "artists": [
+      { "name": "ろん", "link": "https://music.163.com/artist?id=17017" }
+    ],
+    "album": {
+      "name": "ろん J-POP Cover Collection",
+      "link": "https://music.163.com/album?id=3288018"
+    }
+  }
+]

@@ -1,0 +1,419 @@
+[
+  {
+    "name": "Pathfinder",
+    "link": "https://music.163.com/song?id=1358189191",
+    "duration": "02:03",
+    "artists": [
+      { "name": "Resonance", "link": "https://music.163.com/artist?id=196588" }
+    ],
+    "album": {
+      "name": "Pathfinder",
+      "link": "https://music.163.com/album?id=78479683"
+    }
+  },
+  {
+    "name": "Down The Line",
+    "link": "https://music.163.com/song?id=1456652121",
+    "duration": "02:22",
+    "artists": [
+      {
+        "name": "Mike Perry",
+        "link": "https://music.163.com/artist?id=195021"
+      },
+      {
+        "name": "Ten Times",
+        "link": "https://music.163.com/artist?id=31930131"
+      }
+    ],
+    "album": {
+      "name": "Down The Line",
+      "link": "https://music.163.com/album?id=91213980"
+    }
+  },
+  {
+    "name": "Menage A Trois",
+    "link": "https://music.163.com/song?id=1409010161",
+    "duration": "02:48",
+    "artists": [
+      { "name": "LIZOT", "link": "https://music.163.com/artist?id=1137483" },
+      {
+        "name": "Holy Molly",
+        "link": "https://music.163.com/artist?id=1050670"
+      }
+    ],
+    "album": {
+      "name": "Menage A Trois",
+      "link": "https://music.163.com/album?id=84040097"
+    }
+  },
+  {
+    "name": "For You",
+    "link": "https://music.163.com/song?id=538802072",
+    "duration": "02:35",
+    "artists": [
+      { "name": "Dubdogz", "link": "https://music.163.com/artist?id=12742168" },
+      { "name": "Shapeless", "link": "https://music.163.com/artist?id=502943" }
+    ],
+    "album": {
+      "name": "For You",
+      "link": "https://music.163.com/album?id=37561432"
+    }
+  },
+  {
+    "name": "Little Do You Know",
+    "link": "https://music.163.com/song?id=475597495",
+    "duration": "02:48",
+    "artists": [
+      {
+        "name": "Campsite Dream",
+        "link": "https://music.163.com/artist?id=1146068"
+      }
+    ],
+    "album": {
+      "name": "Little Do You Know",
+      "link": "https://music.163.com/album?id=35371918"
+    }
+  },
+  {
+    "name": "This is Us",
+    "link": "https://music.163.com/song?id=1423417557",
+    "duration": "03:25",
+    "artists": [
+      {
+        "name": "Jimmie Allen",
+        "link": "https://music.163.com/artist?id=30021162"
+      },
+      {
+        "name": "Noah Cyrus",
+        "link": "https://music.163.com/artist?id=12175271"
+      }
+    ],
+    "album": {
+      "name": "This is Us",
+      "link": "https://music.163.com/album?id=85738366"
+    }
+  },
+  {
+    "name": "Give & Take",
+    "link": "https://music.163.com/song?id=1432437563",
+    "duration": "03:01",
+    "artists": [
+      { "name": "Wankelmut", "link": "https://music.163.com/artist?id=710280" },
+      { "name": "SVEA", "link": "https://music.163.com/artist?id=14231266" }
+    ],
+    "album": {
+      "name": "Give & Take",
+      "link": "https://music.163.com/album?id=86672033"
+    }
+  },
+  {
+    "name": "Nothing Compares 2 U",
+    "link": "https://music.163.com/song?id=1385468286",
+    "duration": "03:30",
+    "artists": [
+      {
+        "name": "Tim3bomb",
+        "link": "https://music.163.com/artist?id=12047455"
+      },
+      { "name": "Tim Schou", "link": "https://music.163.com/artist?id=932066" }
+    ],
+    "album": {
+      "name": "Nothing Compares 2 U",
+      "link": "https://music.163.com/album?id=81054669"
+    }
+  },
+  {
+    "name": "Go Solo",
+    "link": "https://music.163.com/song?id=425684928",
+    "duration": "02:22",
+    "artists": [
+      {
+        "name": "Tom Rosenthal",
+        "link": "https://music.163.com/artist?id=1019769"
+      }
+    ],
+    "album": {
+      "name": "The Pleasant Trees",
+      "link": "https://music.163.com/album?id=34816875"
+    }
+  },
+  {
+    "name": "We Can't Stop",
+    "link": "https://music.163.com/song?id=26429346",
+    "duration": "03:52",
+    "artists": [
+      { "name": "Miley Cyrus", "link": "https://music.163.com/artist?id=66361" }
+    ],
+    "album": {
+      "name": "We Can't Stop - Single",
+      "link": "https://music.163.com/album?id=2499063"
+    }
+  },
+  {
+    "name": "Stories of Hope",
+    "link": "https://music.163.com/song?id=1349017786",
+    "duration": "02:47",
+    "artists": [
+      {
+        "name": "Steven Coltart",
+        "link": "https://music.163.com/artist?id=31593582"
+      },
+      {
+        "name": "Marcus Warner",
+        "link": "https://music.163.com/artist?id=1046308"
+      }
+    ],
+    "album": {
+      "name": "Pinnacle",
+      "link": "https://music.163.com/album?id=75731337"
+    }
+  },
+  {
+    "name": "I'm Born To Run",
+    "link": "https://music.163.com/song?id=409374302",
+    "duration": "03:26",
+    "artists": [
+      {
+        "name": "American Authors",
+        "link": "https://music.163.com/artist?id=762135"
+      }
+    ],
+    "album": {
+      "name": "What We Live For",
+      "link": "https://music.163.com/album?id=34598650"
+    }
+  },
+  {
+    "name": "Legacy",
+    "link": "https://music.163.com/song?id=506092358",
+    "duration": "03:33",
+    "artists": [
+      { "name": "AK", "link": "https://music.163.com/artist?id=1192509" }
+    ],
+    "album": {
+      "name": "Lost in Thoughts",
+      "link": "https://music.163.com/album?id=36224085"
+    }
+  },
+  {
+    "name": "Hearts",
+    "link": "https://music.163.com/song?id=486194146",
+    "duration": "03:52",
+    "artists": [
+      { "name": "Aviella", "link": "https://music.163.com/artist?id=12475609" },
+      {
+        "name": "Gill Chang",
+        "link": "https://music.163.com/artist?id=1177230"
+      }
+    ],
+    "album": {
+      "name": "Hearts",
+      "link": "https://music.163.com/album?id=35663181"
+    }
+  },
+  {
+    "name": "Future Looks Good",
+    "link": "https://music.163.com/song?id=431096958",
+    "duration": "03:30",
+    "artists": [
+      { "name": "OneRepublic", "link": "https://music.163.com/artist?id=98105" }
+    ],
+    "album": {
+      "name": "Oh My My",
+      "link": "https://music.163.com/album?id=34881077"
+    }
+  },
+  {
+    "name": "E.P.I.C",
+    "link": "https://music.163.com/song?id=501946628",
+    "duration": "05:00",
+    "artists": [
+      {
+        "name": "ELE SHEEP",
+        "link": "https://music.163.com/artist?id=12147203"
+      }
+    ],
+    "album": {
+      "name": "E.P.I.C",
+      "link": "https://music.163.com/album?id=36057382"
+    }
+  },
+  {
+    "name": "In Reverse",
+    "link": "https://music.163.com/song?id=550616199",
+    "duration": "04:23",
+    "artists": [
+      { "name": "Tsundere", "link": "https://music.163.com/artist?id=13807098" }
+    ],
+    "album": {
+      "name": "In Reverse",
+      "link": "https://music.163.com/album?id=38099153"
+    }
+  },
+  {
+    "name": "A Story of Fate - (三生树)",
+    "link": "https://music.163.com/song?id=512989806",
+    "duration": "03:33",
+    "artists": [
+      { "name": "Jannik", "link": "https://music.163.com/artist?id=12065179" }
+    ],
+    "album": {
+      "name": "A Story of Fate",
+      "link": "https://music.163.com/album?id=36568111"
+    }
+  },
+  {
+    "name": "NYC 2 LA ",
+    "link": "https://music.163.com/song?id=1359964583",
+    "duration": "03:11",
+    "artists": [
+      { "name": "Wuki", "link": "https://music.163.com/artist?id=794286" },
+      { "name": "Roxanna", "link": "https://music.163.com/artist?id=514139" }
+    ],
+    "album": { "name": "2", "link": "https://music.163.com/album?id=78639951" }
+  },
+  {
+    "name": "别念",
+    "link": "https://music.163.com/song?id=552560922",
+    "duration": "03:54",
+    "artists": [
+      { "name": "Funton", "link": "https://music.163.com/artist?id=12476269" }
+    ],
+    "album": {
+      "name": "my shelter, my island, my eden.",
+      "link": "https://music.163.com/album?id=91694219"
+    }
+  },
+  {
+    "name": "Back And Forth",
+    "link": "https://music.163.com/song?id=1305644204",
+    "duration": "03:06",
+    "artists": [
+      { "name": "Da Tweekaz", "link": "https://music.163.com/artist?id=334026" }
+    ],
+    "album": {
+      "name": "Back And Forth",
+      "link": "https://music.163.com/album?id=72748847"
+    }
+  },
+  {
+    "name": "Life Goes On",
+    "link": "https://music.163.com/song?id=29836744",
+    "duration": "05:36",
+    "artists": [
+      { "name": "CMA", "link": "https://music.163.com/artist?id=300739" }
+    ],
+    "album": {
+      "name": "Life",
+      "link": "https://music.163.com/album?id=3081760"
+    }
+  },
+  {
+    "name": "Happiness is a butterfly",
+    "link": "https://music.163.com/song?id=1387548482",
+    "duration": "04:32",
+    "artists": [
+      {
+        "name": "Lana Del Rey",
+        "link": "https://music.163.com/artist?id=66212"
+      }
+    ],
+    "album": {
+      "name": "Norman ****ing Rockwell!",
+      "link": "https://music.163.com/album?id=81096083"
+    }
+  },
+  {
+    "name": "Generations",
+    "link": "https://music.163.com/song?id=425828554",
+    "duration": "04:41",
+    "artists": [
+      { "name": "L3V3LS", "link": "https://music.163.com/artist?id=12007340" }
+    ],
+    "album": {
+      "name": "Generations",
+      "link": "https://music.163.com/album?id=34816776"
+    }
+  },
+  {
+    "name": "la vie en rose",
+    "link": "https://music.163.com/song?id=523248511",
+    "duration": "02:20",
+    "artists": [
+      { "name": "mxmtoon", "link": "https://music.163.com/artist?id=12309190" }
+    ],
+    "album": {
+      "name": "la vie en rose",
+      "link": "https://music.163.com/album?id=36950193"
+    }
+  },
+  {
+    "name": "Water",
+    "link": "https://music.163.com/song?id=427017128",
+    "duration": "04:03",
+    "artists": [
+      { "name": "徐梦圆", "link": "https://music.163.com/artist?id=1142042" }
+    ],
+    "album": {
+      "name": "Water",
+      "link": "https://music.163.com/album?id=34848074"
+    }
+  },
+  {
+    "name": "jupiter",
+    "link": "https://music.163.com/song?id=489997938",
+    "duration": "04:31",
+    "artists": [
+      {
+        "name": "Flower Face",
+        "link": "https://music.163.com/artist?id=1019640"
+      }
+    ],
+    "album": {
+      "name": "Fever Dreams",
+      "link": "https://music.163.com/album?id=35746275"
+    }
+  },
+  {
+    "name": "Will Not Back Down",
+    "link": "https://music.163.com/song?id=1007548",
+    "duration": "04:04",
+    "artists": [
+      { "name": "Alex Band", "link": "https://music.163.com/artist?id=27703" }
+    ],
+    "album": {
+      "name": "We've All Been There",
+      "link": "https://music.163.com/album?id=105304"
+    }
+  },
+  {
+    "name": "One Thing About You (Somna's Deeper Mix)",
+    "link": "https://music.163.com/song?id=37722194",
+    "duration": "06:30",
+    "artists": [
+      { "name": "Somna", "link": "https://music.163.com/artist?id=335224" },
+      {
+        "name": "Amy Kirkpatrick",
+        "link": "https://music.163.com/artist?id=1101071"
+      },
+      { "name": "Andy Moor", "link": "https://music.163.com/artist?id=28854" }
+    ],
+    "album": {
+      "name": "One Thing About You (Somna Remix)",
+      "link": "https://music.163.com/album?id=3421065"
+    }
+  },
+  {
+    "name": "Across the Water (Long Version)",
+    "link": "https://music.163.com/song?id=41667563",
+    "duration": "03:50",
+    "artists": [
+      { "name": "ThimLife", "link": "https://music.163.com/artist?id=1046016" },
+      { "name": "Dodobeatz", "link": "https://music.163.com/artist?id=1191103" }
+    ],
+    "album": {
+      "name": "Across the Water",
+      "link": "https://music.163.com/album?id=3451904"
+    }
+  }
+]

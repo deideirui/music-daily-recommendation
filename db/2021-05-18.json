@@ -1,0 +1,438 @@
+[
+  {
+    "name": "California Vibes",
+    "link": "https://music.163.com/song?id=1447696197",
+    "duration": "02:43",
+    "artists": [
+      {
+        "name": "Alex Skrindo",
+        "link": "https://music.163.com/artist?id=1046359"
+      },
+      { "name": "KLARA", "link": "https://music.163.com/artist?id=12262741" }
+    ],
+    "album": {
+      "name": "California Vibes",
+      "link": "https://music.163.com/album?id=89371351"
+    }
+  },
+  {
+    "name": "Someone Like You",
+    "link": "https://music.163.com/song?id=1354296120",
+    "duration": "02:55",
+    "artists": [
+      { "name": "Klaas", "link": "https://music.163.com/artist?id=106210" }
+    ],
+    "album": {
+      "name": "Someone Like You",
+      "link": "https://music.163.com/album?id=78194578"
+    }
+  },
+  {
+    "name": "We'll Meet Again (Instrumental)",
+    "link": "https://music.163.com/song?id=1457772408",
+    "duration": "03:15",
+    "artists": [
+      {
+        "name": "TheFatRat",
+        "link": "https://music.163.com/artist?id=1019952"
+      },
+      {
+        "name": "Laura Brehm",
+        "link": "https://music.163.com/artist?id=207693"
+      }
+    ],
+    "album": {
+      "name": "We'll Meet Again",
+      "link": "https://music.163.com/album?id=91437445"
+    }
+  },
+  {
+    "name": "One More in the Crowd",
+    "link": "https://music.163.com/song?id=562926865",
+    "duration": "03:30",
+    "artists": [
+      {
+        "name": "Thomas Sekelius",
+        "link": "https://music.163.com/artist?id=12403028"
+      },
+      {
+        "name": "Alex D'Rosso",
+        "link": "https://music.163.com/artist?id=12212047"
+      },
+      {
+        "name": "Lucas Estrada",
+        "link": "https://music.163.com/artist?id=12409125"
+      }
+    ],
+    "album": {
+      "name": "One More in the Crowd (Alex D’Rosso & Lucas Estrada Remix)",
+      "link": "https://music.163.com/album?id=39009079"
+    }
+  },
+  {
+    "name": "True",
+    "link": "https://music.163.com/song?id=1356593848",
+    "duration": "03:29",
+    "artists": [
+      { "name": "MARINA", "link": "https://music.163.com/artist?id=68932" }
+    ],
+    "album": {
+      "name": "LOVE",
+      "link": "https://music.163.com/album?id=78328991"
+    }
+  },
+  {
+    "name": "Cumulus",
+    "link": "https://music.163.com/song?id=1314223132",
+    "duration": "03:08",
+    "artists": [
+      { "name": "K kure", "link": "https://music.163.com/artist?id=12256202" }
+    ],
+    "album": {
+      "name": "Cumulus",
+      "link": "https://music.163.com/album?id=73695816"
+    }
+  },
+  {
+    "name": "One&only,Toy(Mashup)",
+    "link": "https://music.163.com/song?id=477083172",
+    "duration": "03:30",
+    "artists": [
+      { "name": "塞米七", "link": "https://music.163.com/artist?id=12027560" },
+      { "name": "Nelly", "link": "https://music.163.com/artist?id=40431" }
+    ],
+    "album": {
+      "name": "One&only,Toy(Mashup)",
+      "link": "https://music.163.com/album?id=35457939"
+    }
+  },
+  {
+    "name": "Rolling star - (TV动画《死神》OP5 )",
+    "link": "https://music.163.com/song?id=26082104",
+    "duration": "03:10",
+    "artists": [
+      { "name": "YUI", "link": "https://music.163.com/artist?id=18168" }
+    ],
+    "album": {
+      "name": "Rolling star",
+      "link": "https://music.163.com/album?id=2379021"
+    }
+  },
+  {
+    "name": "桜樹街道",
+    "link": "https://music.163.com/song?id=1323302259",
+    "duration": "02:48",
+    "artists": [
+      {
+        "name": "Kozato snow",
+        "link": "https://music.163.com/artist?id=1098122"
+      }
+    ],
+    "album": {
+      "name": "WAVEAT SPECIAL SOUNDTRACK Vol.2 ",
+      "link": "https://music.163.com/album?id=74265717"
+    }
+  },
+  {
+    "name": "サムライハート(Some Like It Hot!!) - (TV动画《銀魂》ED1:TVアニメ「銀魂'」ED1テーマ)",
+    "link": "https://music.163.com/song?id=28018217",
+    "duration": "03:09",
+    "artists": [
+      { "name": "SPYAIR", "link": "https://music.163.com/artist?id=21503" }
+    ],
+    "album": {
+      "name": "银魂BEST3",
+      "link": "https://music.163.com/album?id=2713027"
+    }
+  },
+  {
+    "name": "17:40",
+    "link": "https://music.163.com/song?id=496349294",
+    "duration": "03:39",
+    "artists": [
+      { "name": "AniFace", "link": "https://music.163.com/artist?id=12259037" }
+    ],
+    "album": {
+      "name": "慵懒的课后时光",
+      "link": "https://music.163.com/album?id=35893194"
+    }
+  },
+  {
+    "name": "Hesitate",
+    "link": "https://music.163.com/song?id=34183392",
+    "duration": "03:31",
+    "artists": [
+      { "name": "Noicybino", "link": "https://music.163.com/artist?id=1074042" }
+    ],
+    "album": {
+      "name": "L.A.N.E",
+      "link": "https://music.163.com/album?id=3276152"
+    }
+  },
+  {
+    "name": "Flowers (feat. Chandler Blasé)",
+    "link": "https://music.163.com/song?id=1386973153",
+    "duration": "03:18",
+    "artists": [
+      {
+        "name": "Dirty Palm",
+        "link": "https://music.163.com/artist?id=1155029"
+      },
+      {
+        "name": "Conor Ross",
+        "link": "https://music.163.com/artist?id=13128139"
+      }
+    ],
+    "album": {
+      "name": "Compilação Músicas Mais Tocadas de Strange Fruits",
+      "link": "https://music.163.com/album?id=81195339"
+    }
+  },
+  {
+    "name": "甜不辣",
+    "link": "https://music.163.com/song?id=32897612",
+    "duration": "03:24",
+    "artists": [
+      { "name": "郑国锋", "link": "https://music.163.com/artist?id=6725" },
+      { "name": "小凌", "link": "https://music.163.com/artist?id=10123" }
+    ],
+    "album": {
+      "name": "热门华语266",
+      "link": "https://music.163.com/album?id=3159840"
+    }
+  },
+  {
+    "name": "永世のクレイドル - (永世的摇篮)",
+    "link": "https://music.163.com/song?id=455502615",
+    "duration": "04:32",
+    "artists": [
+      { "name": "鈴華優子", "link": "https://music.163.com/artist?id=861613" }
+    ],
+    "album": {
+      "name": "CRADLE OF ETERNITY",
+      "link": "https://music.163.com/album?id=35139581"
+    }
+  },
+  {
+    "name": "Caravan",
+    "link": "https://music.163.com/song?id=32192199",
+    "duration": "03:55",
+    "artists": [
+      {
+        "name": "Paper Aeroplanes",
+        "link": "https://music.163.com/artist?id=98777"
+      }
+    ],
+    "album": { "name": "Joy", "link": "https://music.163.com/album?id=3154143" }
+  },
+  {
+    "name": "River's Heart  (Original Mix)",
+    "link": "https://music.163.com/song?id=38391648",
+    "duration": "03:42",
+    "artists": [
+      {
+        "name": "Andreas B.",
+        "link": "https://music.163.com/artist?id=299713"
+      },
+      { "name": "Felix", "link": "https://music.163.com/artist?id=93104" }
+    ],
+    "album": {
+      "name": "River's Heart  (Original Mix)",
+      "link": "https://music.163.com/album?id=3428393"
+    }
+  },
+  {
+    "name": "阿吽のビーツ - (Cover: v_flower & 羽生迷子)",
+    "link": "https://music.163.com/song?id=1325898763",
+    "duration": "03:28",
+    "artists": [
+      {
+        "name": "いすぼくろ",
+        "link": "https://music.163.com/artist?id=12006116"
+      }
+    ],
+    "album": {
+      "name": "SUNRISE",
+      "link": "https://music.163.com/album?id=74266333"
+    }
+  },
+  {
+    "name": "Running Up That Hill",
+    "link": "https://music.163.com/song?id=29774396",
+    "duration": "04:26",
+    "artists": [
+      {
+        "name": "Track and Field",
+        "link": "https://music.163.com/artist?id=1038204"
+      }
+    ],
+    "album": {
+      "name": "Running Up That Hill",
+      "link": "https://music.163.com/album?id=3056982"
+    }
+  },
+  {
+    "name": "Haunted",
+    "link": "https://music.163.com/song?id=36586982",
+    "duration": "02:43",
+    "artists": [
+      {
+        "name": "Emilio Kauderer",
+        "link": "https://music.163.com/artist?id=33127"
+      }
+    ],
+    "album": {
+      "name": "Secret in Their Eyes (Original Motion Picture Soundtrack)",
+      "link": "https://music.163.com/album?id=3394671"
+    }
+  },
+  {
+    "name": "百家策",
+    "link": "https://music.163.com/song?id=1363476384",
+    "duration": "04:10",
+    "artists": [
+      { "name": "祖娅纳惜", "link": "https://music.163.com/artist?id=12279635" }
+    ],
+    "album": {
+      "name": "百家策",
+      "link": "https://music.163.com/album?id=78925828"
+    }
+  },
+  {
+    "name": "菅野祐悟-JOJO的奇妙冒险白金之星处刑曲电音版（Kirara Magic Remix）",
+    "link": "https://music.163.com/song?id=1347846723",
+    "duration": "03:07",
+    "artists": [
+      {
+        "name": "Kirara Magic",
+        "link": "https://music.163.com/artist?id=30226109"
+      }
+    ],
+    "album": {
+      "name": "JOJO的奇妙冒险白金之星处刑曲电音版",
+      "link": "https://music.163.com/album?id=75657939"
+    }
+  },
+  {
+    "name": "明日少年——记巫哲原著《轻狂》",
+    "link": "https://music.163.com/song?id=1384986622",
+    "duration": "04:03",
+    "artists": [
+      { "name": "灿鸩", "link": "https://music.163.com/artist?id=30546184" },
+      { "name": "景向谁依", "link": "https://music.163.com/artist?id=12788788" }
+    ],
+    "album": {
+      "name": "明日少年——记《轻狂》",
+      "link": "https://music.163.com/album?id=81005805"
+    }
+  },
+  {
+    "name": "踏浪",
+    "link": "https://music.163.com/song?id=308212",
+    "duration": "04:04",
+    "artists": [
+      { "name": "徐怀钰", "link": "https://music.163.com/artist?id=9954" }
+    ],
+    "album": { "name": "Love", "link": "https://music.163.com/album?id=30599" }
+  },
+  {
+    "name": "比翼の羽根 - (TV动画《缘之空》片头曲)",
+    "link": "https://music.163.com/song?id=718551",
+    "duration": "04:44",
+    "artists": [
+      { "name": "eufonius", "link": "https://music.163.com/artist?id=19271" }
+    ],
+    "album": {
+      "name": "比翼の羽根",
+      "link": "https://music.163.com/album?id=70302"
+    }
+  },
+  {
+    "name": "陈年DEMO（动画《刺客伍六七》第二季同人原创歌曲）",
+    "link": "https://music.163.com/song?id=1364727960",
+    "duration": "03:00",
+    "artists": [
+      {
+        "name": "空白君MAX",
+        "link": "https://music.163.com/artist?id=12432318"
+      },
+      { "name": "音海生花", "link": "https://music.163.com/artist?id=13702556" }
+    ],
+    "album": {
+      "name": "陈年（动画《刺客伍六七》第二季原创专辑）",
+      "link": "https://music.163.com/album?id=79044848"
+    }
+  },
+  {
+    "name": "多啦A梦(国)",
+    "link": "https://music.163.com/song?id=214389",
+    "duration": "03:34",
+    "artists": [
+      { "name": "陈慧琳", "link": "https://music.163.com/artist?id=7235" }
+    ],
+    "album": {
+      "name": "唱游小时候",
+      "link": "https://music.163.com/album?id=21697"
+    }
+  },
+  {
+    "name": "煌めく瞬間に捕われて (Cinema Version) (Bonus Track)",
+    "link": "https://music.163.com/song?id=4990429",
+    "duration": "02:29",
+    "artists": [
+      { "name": "MANISH", "link": "https://music.163.com/artist?id=20472" }
+    ],
+    "album": {
+      "name": "THE BEST OF TV ANIMATION SLAM DUNK~Single Collection~",
+      "link": "https://music.163.com/album?id=496630"
+    }
+  },
+  {
+    "name": "亲爱的姑娘你为何要离开（录音棚一遍过版）",
+    "link": "https://music.163.com/song?id=1332748907",
+    "duration": "04:44",
+    "artists": [
+      { "name": "郑冰冰", "link": "https://music.163.com/artist?id=1060061" }
+    ],
+    "album": {
+      "name": "亲爱的姑娘你为何要离开",
+      "link": "https://music.163.com/album?id=74828907"
+    }
+  },
+  {
+    "name": "逍遥一神仙 - (我是大神仙》动画插曲)",
+    "link": "https://music.163.com/song?id=1805077343",
+    "duration": "02:42",
+    "artists": [
+      { "name": "张丹锋", "link": "https://music.163.com/artist?id=905120" }
+    ],
+    "album": {
+      "name": "逍遥一神仙",
+      "link": "https://music.163.com/album?id=120561454"
+    }
+  },
+  {
+    "name": "川流不息 - (动画版《三国演义》片尾曲)",
+    "link": "https://music.163.com/song?id=33872921",
+    "duration": "02:30",
+    "artists": [
+      { "name": "吴炜", "link": "https://music.163.com/artist?id=1132074" }
+    ],
+    "album": {
+      "name": "热门华语271",
+      "link": "https://music.163.com/album?id=3222017"
+    }
+  },
+  {
+    "name": "New beginning（2020）",
+    "link": "https://music.163.com/song?id=1413554013",
+    "duration": "03:03",
+    "artists": [
+      { "name": "Pacos", "link": "https://music.163.com/artist?id=30129404" }
+    ],
+    "album": {
+      "name": "New beginning（2020）",
+      "link": "https://music.163.com/album?id=84652730"
+    }
+  }
+]

@@ -1,0 +1,460 @@
+[
+  {
+    "name": "10,000 Feet",
+    "link": "https://music.163.com/song?id=1446201045",
+    "duration": "02:40",
+    "artists": [
+      { "name": "INViDA", "link": "https://music.163.com/artist?id=33196292" },
+      {
+        "name": "Robbie Rosen",
+        "link": "https://music.163.com/artist?id=14143678"
+      }
+    ],
+    "album": {
+      "name": "10,000 Feet",
+      "link": "https://music.163.com/album?id=89084227"
+    }
+  },
+  {
+    "name": "Nights Like That",
+    "link": "https://music.163.com/song?id=1474569664",
+    "duration": "03:12",
+    "artists": [
+      { "name": "BUNT.", "link": "https://music.163.com/artist?id=744145" },
+      {
+        "name": "Georgia Ku",
+        "link": "https://music.163.com/artist?id=14388929"
+      }
+    ],
+    "album": {
+      "name": "Nights Like That",
+      "link": "https://music.163.com/album?id=94597051"
+    }
+  },
+  {
+    "name": "Fade (Running in the Night)",
+    "link": "https://music.163.com/song?id=1483021440",
+    "duration": "05:00",
+    "artists": [
+      { "name": "FM-84", "link": "https://music.163.com/artist?id=12046467" }
+    ],
+    "album": {
+      "name": "Maverick",
+      "link": "https://music.163.com/album?id=96077505"
+    }
+  },
+  {
+    "name": "Lose It All",
+    "link": "https://music.163.com/song?id=1458183805",
+    "duration": "02:56",
+    "artists": [
+      { "name": "Matt Nash", "link": "https://music.163.com/artist?id=1054160" }
+    ],
+    "album": {
+      "name": "Lose It All",
+      "link": "https://music.163.com/album?id=91524387"
+    }
+  },
+  {
+    "name": "There Will Be Angels",
+    "link": "https://music.163.com/song?id=544331064",
+    "duration": "03:31",
+    "artists": [
+      {
+        "name": "Audrey Gallagher",
+        "link": "https://music.163.com/artist?id=191513"
+      },
+      { "name": "Ben Gold", "link": "https://music.163.com/artist?id=152127" }
+    ],
+    "album": {
+      "name": "There Will Be Angels",
+      "link": "https://music.163.com/album?id=37894491"
+    }
+  },
+  {
+    "name": "Searchlight",
+    "link": "https://music.163.com/song?id=501220045",
+    "duration": "03:27",
+    "artists": [
+      { "name": "Omnia", "link": "https://music.163.com/artist?id=179006" }
+    ],
+    "album": {
+      "name": "Searchlight",
+      "link": "https://music.163.com/album?id=36030297"
+    }
+  },
+  {
+    "name": "Love Me Back",
+    "link": "https://music.163.com/song?id=1341512162",
+    "duration": "02:58",
+    "artists": [
+      { "name": "RITUAL", "link": "https://music.163.com/artist?id=12355563" },
+      { "name": "Tove Styrke", "link": "https://music.163.com/artist?id=83188" }
+    ],
+    "album": {
+      "name": "Love Me Back",
+      "link": "https://music.163.com/album?id=75291853"
+    }
+  },
+  {
+    "name": "Dance Around It",
+    "link": "https://music.163.com/song?id=1364343558",
+    "duration": "03:24",
+    "artists": [
+      { "name": "Parachute", "link": "https://music.163.com/artist?id=41209" }
+    ],
+    "album": {
+      "name": "Parachute",
+      "link": "https://music.163.com/album?id=79037219"
+    }
+  },
+  {
+    "name": "Follow Your Dream (Extended Mix)",
+    "link": "https://music.163.com/song?id=508903724",
+    "duration": "08:42",
+    "artists": [
+      {
+        "name": "Sound Apparel",
+        "link": "https://music.163.com/artist?id=385722"
+      }
+    ],
+    "album": {
+      "name": "Follow Your Dream",
+      "link": "https://music.163.com/album?id=36304420"
+    }
+  },
+  {
+    "name": "Feelings",
+    "link": "https://music.163.com/song?id=1356527766",
+    "duration": "02:43",
+    "artists": [
+      {
+        "name": "Deep Chills",
+        "link": "https://music.163.com/artist?id=1063083"
+      },
+      { "name": "Natania", "link": "https://music.163.com/artist?id=12785081" }
+    ],
+    "album": {
+      "name": "Feelings",
+      "link": "https://music.163.com/album?id=78326170"
+    }
+  },
+  {
+    "name": "Neon Pink",
+    "link": "https://music.163.com/song?id=550137215",
+    "duration": "04:20",
+    "artists": [
+      { "name": "AIKA", "link": "https://music.163.com/artist?id=12023360" },
+      { "name": "HANA", "link": "https://music.163.com/artist?id=34013097" }
+    ],
+    "album": {
+      "name": "Neon Pink EP",
+      "link": "https://music.163.com/album?id=38224055"
+    }
+  },
+  {
+    "name": "Lights",
+    "link": "https://music.163.com/song?id=31514565",
+    "duration": "03:45",
+    "artists": [
+      { "name": "Jim Yosef", "link": "https://music.163.com/artist?id=1063121" }
+    ],
+    "album": {
+      "name": "Lights",
+      "link": "https://music.163.com/album?id=3121288"
+    }
+  },
+  {
+    "name": "Between The Lines",
+    "link": "https://music.163.com/song?id=21700379",
+    "duration": "04:34",
+    "artists": [
+      {
+        "name": "Sara Bareilles",
+        "link": "https://music.163.com/artist?id=74629"
+      }
+    ],
+    "album": {
+      "name": "Little Voice",
+      "link": "https://music.163.com/album?id=1997332"
+    }
+  },
+  {
+    "name": "Snowing In L.A.",
+    "link": "https://music.163.com/song?id=1333331718",
+    "duration": "03:58",
+    "artists": [
+      { "name": "Naika", "link": "https://music.163.com/artist?id=332829" }
+    ],
+    "album": {
+      "name": "Snowing In L.A.",
+      "link": "https://music.163.com/album?id=74878844"
+    }
+  },
+  {
+    "name": "Someone Like You (RAM & Standerwick Remix)",
+    "link": "https://music.163.com/song?id=32192449",
+    "duration": "07:20",
+    "artists": [
+      { "name": "RAM", "link": "https://music.163.com/artist?id=73231" },
+      {
+        "name": "STANDERWICK",
+        "link": "https://music.163.com/artist?id=975646"
+      },
+      { "name": "Susana", "link": "https://music.163.com/artist?id=77990" }
+    ],
+    "album": {
+      "name": "Someone Like You (RAM & Standerwick Remix)",
+      "link": "https://music.163.com/album?id=3154177"
+    }
+  },
+  {
+    "name": "Believe",
+    "link": "https://music.163.com/song?id=546730409",
+    "duration": "03:37",
+    "artists": [
+      {
+        "name": "Don Diablo",
+        "link": "https://music.163.com/artist?id=139072"
+      },
+      {
+        "name": "Ansel Elgort",
+        "link": "https://music.163.com/artist?id=12073811"
+      }
+    ],
+    "album": {
+      "name": "FUTURE",
+      "link": "https://music.163.com/album?id=37252290"
+    }
+  },
+  {
+    "name": "Train To Nowhere",
+    "link": "https://music.163.com/song?id=1464332067",
+    "duration": "02:42",
+    "artists": [
+      { "name": "Fatum", "link": "https://music.163.com/artist?id=92792" },
+      {
+        "name": "Dylan Matthew",
+        "link": "https://music.163.com/artist?id=28684353"
+      }
+    ],
+    "album": {
+      "name": "Train To Nowhere",
+      "link": "https://music.163.com/album?id=92734002"
+    }
+  },
+  {
+    "name": "The Island (MaxNRG Drum & Bass Remix)",
+    "link": "https://music.163.com/song?id=31967227",
+    "duration": "05:01",
+    "artists": [
+      { "name": "Pendulum", "link": "https://music.163.com/artist?id=41153" },
+      { "name": "MaxNRG", "link": "https://music.163.com/artist?id=28540556" }
+    ],
+    "album": {
+      "name": "The Island (MaxNRG Drum & Bass Remix)",
+      "link": "https://music.163.com/album?id=3145046"
+    }
+  },
+  {
+    "name": "Frame of Mind",
+    "link": "https://music.163.com/song?id=28473540",
+    "duration": "04:34",
+    "artists": [
+      { "name": "Tristam", "link": "https://music.163.com/artist?id=104350" },
+      { "name": "Braken", "link": "https://music.163.com/artist?id=840822" }
+    ],
+    "album": {
+      "name": "Frame of Mind",
+      "link": "https://music.163.com/album?id=2807303"
+    }
+  },
+  {
+    "name": "Hearts on Fire",
+    "link": "https://music.163.com/song?id=1806481080",
+    "duration": "03:56",
+    "artists": [
+      { "name": "ILLENIUM", "link": "https://music.163.com/artist?id=1050518" },
+      { "name": "Dabin", "link": "https://music.163.com/artist?id=783446" },
+      { "name": "Lights", "link": "https://music.163.com/artist?id=64226" }
+    ],
+    "album": {
+      "name": "Hearts on Fire",
+      "link": "https://music.163.com/album?id=120788160"
+    }
+  },
+  {
+    "name": "Feels Like",
+    "link": "https://music.163.com/song?id=1346474112",
+    "duration": "03:11",
+    "artists": [
+      { "name": "Vicetone", "link": "https://music.163.com/artist?id=747030" },
+      { "name": "LAUR", "link": "https://music.163.com/artist?id=35757701" }
+    ],
+    "album": {
+      "name": "Elements",
+      "link": "https://music.163.com/album?id=75589857"
+    }
+  },
+  {
+    "name": "C U Again",
+    "link": "https://music.163.com/song?id=447281375",
+    "duration": "03:22",
+    "artists": [
+      { "name": "Cartoon", "link": "https://music.163.com/artist?id=51293" },
+      {
+        "name": "Futuristik",
+        "link": "https://music.163.com/artist?id=12091065"
+      }
+    ],
+    "album": {
+      "name": "NCS: The Best of 2016",
+      "link": "https://music.163.com/album?id=35012920"
+    }
+  },
+  {
+    "name": "Won't You See (Original Mix)",
+    "link": "https://music.163.com/song?id=29493921",
+    "duration": "03:10",
+    "artists": [
+      { "name": "GL", "link": "https://music.163.com/artist?id=1161052" }
+    ],
+    "album": {
+      "name": "Poolside Croatia",
+      "link": "https://music.163.com/album?id=3033501"
+    }
+  },
+  {
+    "name": "Dead of Night",
+    "link": "https://music.163.com/song?id=523249092",
+    "duration": "04:06",
+    "artists": [
+      {
+        "name": "Dance With The Dead",
+        "link": "https://music.163.com/artist?id=999192"
+      }
+    ],
+    "album": {
+      "name": "The Rise of the Synths (The Official Companion Album) ",
+      "link": "https://music.163.com/album?id=36950017"
+    }
+  },
+  {
+    "name": "Senseless",
+    "link": "https://music.163.com/song?id=1306507801",
+    "duration": "03:40",
+    "artists": [
+      { "name": "Adib Sin", "link": "https://music.163.com/artist?id=12244027" }
+    ],
+    "album": {
+      "name": "Senseless",
+      "link": "https://music.163.com/album?id=72794848"
+    }
+  },
+  {
+    "name": "Jesus Christ",
+    "link": "https://music.163.com/song?id=521415529",
+    "duration": "04:46",
+    "artists": [
+      {
+        "name": "Luna Shadows",
+        "link": "https://music.163.com/artist?id=12000103"
+      }
+    ],
+    "album": {
+      "name": "Jesus Christ",
+      "link": "https://music.163.com/album?id=36873143"
+    }
+  },
+  {
+    "name": "Colors",
+    "link": "https://music.163.com/song?id=36307911",
+    "duration": "03:49",
+    "artists": [
+      { "name": "Minnesota", "link": "https://music.163.com/artist?id=688614" }
+    ],
+    "album": {
+      "name": "Colors",
+      "link": "https://music.163.com/album?id=3395239"
+    }
+  },
+  {
+    "name": "High",
+    "link": "https://music.163.com/song?id=27598731",
+    "duration": "03:00",
+    "artists": [
+      {
+        "name": "Tiffany Houghton",
+        "link": "https://music.163.com/artist?id=83278"
+      }
+    ],
+    "album": {
+      "name": "High",
+      "link": "https://music.163.com/album?id=2643288"
+    }
+  },
+  {
+    "name": "Melting Point",
+    "link": "https://music.163.com/song?id=34601995",
+    "duration": "04:43",
+    "artists": [
+      {
+        "name": "Mitch Murder",
+        "link": "https://music.163.com/artist?id=710374"
+      }
+    ],
+    "album": {
+      "name": "Selection 3",
+      "link": "https://music.163.com/album?id=3279935"
+    }
+  },
+  {
+    "name": "I Wish (tofû & Yetep Remix)",
+    "link": "https://music.163.com/song?id=529814689",
+    "duration": "04:30",
+    "artists": [
+      { "name": "tofû", "link": "https://music.163.com/artist?id=12068021" },
+      { "name": "Yetep", "link": "https://music.163.com/artist?id=12356399" },
+      {
+        "name": "William Black",
+        "link": "https://music.163.com/artist?id=248957"
+      },
+      { "name": "Skylr", "link": "https://music.163.com/artist?id=13122138" }
+    ],
+    "album": {
+      "name": "I Wish (tofû & Yetep Remix)",
+      "link": "https://music.163.com/album?id=37256166"
+    }
+  },
+  {
+    "name": "Good Time",
+    "link": "https://music.163.com/song?id=17706535",
+    "duration": "03:25",
+    "artists": [
+      { "name": "Owl City", "link": "https://music.163.com/artist?id=40859" },
+      {
+        "name": "Carly Rae Jepsen",
+        "link": "https://music.163.com/artist?id=50934"
+      }
+    ],
+    "album": {
+      "name": "The Midsummer Station",
+      "link": "https://music.163.com/album?id=1627901"
+    }
+  },
+  {
+    "name": "Thank you",
+    "link": "https://music.163.com/song?id=525235462",
+    "duration": "06:33",
+    "artists": [
+      {
+        "name": "MiracleK-9",
+        "link": "https://music.163.com/artist?id=1160218"
+      }
+    ],
+    "album": {
+      "name": "Thank you",
+      "link": "https://music.163.com/album?id=37014203"
+    }
+  }
+]

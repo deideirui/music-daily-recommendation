@@ -1,0 +1,527 @@
+[
+  {
+    "name": "Pathetic",
+    "link": "https://music.163.com/song?id=1305875823",
+    "duration": "03:42",
+    "artists": [
+      {
+        "name": "Ninajirachi",
+        "link": "https://music.163.com/artist?id=12279106"
+      },
+      { "name": "NaaH", "link": "https://music.163.com/artist?id=14468402" }
+    ],
+    "album": {
+      "name": "Pathetic",
+      "link": "https://music.163.com/album?id=72762114"
+    }
+  },
+  {
+    "name": "Standing Still",
+    "link": "https://music.163.com/song?id=1440850870",
+    "duration": "03:06",
+    "artists": [
+      {
+        "name": "Joakim Molitor",
+        "link": "https://music.163.com/artist?id=13972238"
+      },
+      {
+        "name": "Victoria Voss",
+        "link": "https://music.163.com/artist?id=29628377"
+      }
+    ],
+    "album": {
+      "name": "Standing Still",
+      "link": "https://music.163.com/album?id=88064689"
+    }
+  },
+  {
+    "name": "Freak On (Radio Edit)",
+    "link": "https://music.163.com/song?id=515947800",
+    "duration": "02:43",
+    "artists": [
+      { "name": "Karlyn", "link": "https://music.163.com/artist?id=571463" },
+      {
+        "name": "Charming Horses",
+        "link": "https://music.163.com/artist?id=1137480"
+      }
+    ],
+    "album": {
+      "name": "Freak On (Radio Edit)",
+      "link": "https://music.163.com/album?id=36689027"
+    }
+  },
+  {
+    "name": "Where Is The Love? (Soule Rework)",
+    "link": "https://music.163.com/song?id=34144434",
+    "duration": "05:18",
+    "artists": [
+      {
+        "name": "Clément Bcx",
+        "link": "https://music.163.com/artist?id=1078228"
+      },
+      {
+        "name": "Black Eyed Peas",
+        "link": "https://music.163.com/artist?id=88146"
+      },
+      {
+        "name": "Ellena Soule",
+        "link": "https://music.163.com/artist?id=1081902"
+      },
+      { "name": "Soule", "link": "https://music.163.com/artist?id=32964452" }
+    ],
+    "album": {
+      "name": "Where Is The Love",
+      "link": "https://music.163.com/album?id=3271445"
+    }
+  },
+  {
+    "name": "Le Le Le Go",
+    "link": "https://music.163.com/song?id=1407959857",
+    "duration": "02:40",
+    "artists": [
+      {
+        "name": "Lucas Estrada",
+        "link": "https://music.163.com/artist?id=12409125"
+      },
+      {
+        "name": "Alex Schulz",
+        "link": "https://music.163.com/artist?id=1101039"
+      },
+      { "name": "NEIMY", "link": "https://music.163.com/artist?id=12742289" }
+    ],
+    "album": {
+      "name": "Le Le Let Go",
+      "link": "https://music.163.com/album?id=83935437"
+    }
+  },
+  {
+    "name": "Fight The Night",
+    "link": "https://music.163.com/song?id=34928347",
+    "duration": "04:16",
+    "artists": [
+      { "name": "ONE OK ROCK", "link": "https://music.163.com/artist?id=20878" }
+    ],
+    "album": {
+      "name": "35xxxv (Deluxe Edition)",
+      "link": "https://music.163.com/album?id=3286282"
+    }
+  },
+  {
+    "name": "Prosecco",
+    "link": "https://music.163.com/song?id=1357704108",
+    "duration": "03:15",
+    "artists": [
+      {
+        "name": "Patrik Jean",
+        "link": "https://music.163.com/artist?id=777055"
+      }
+    ],
+    "album": {
+      "name": "Prosecco",
+      "link": "https://music.163.com/album?id=78415897"
+    }
+  },
+  {
+    "name": "Mr Emotional",
+    "link": "https://music.163.com/song?id=1379814770",
+    "duration": "02:41",
+    "artists": [
+      { "name": "Syence", "link": "https://music.163.com/artist?id=12233011" },
+      { "name": "Lux", "link": "https://music.163.com/artist?id=65954" }
+    ],
+    "album": {
+      "name": "Temporary High",
+      "link": "https://music.163.com/album?id=80581608"
+    }
+  },
+  {
+    "name": "All Together",
+    "link": "https://music.163.com/song?id=1384496795",
+    "duration": "03:58",
+    "artists": [
+      { "name": "ILLENIUM", "link": "https://music.163.com/artist?id=1050518" },
+      { "name": "Oekiin", "link": "https://music.163.com/artist?id=32428618" }
+    ],
+    "album": {
+      "name": "ASCEND",
+      "link": "https://music.163.com/album?id=80981667"
+    }
+  },
+  {
+    "name": "Be Alright",
+    "link": "https://music.163.com/song?id=1351603766",
+    "duration": "03:16",
+    "artists": [
+      { "name": "MADILYN", "link": "https://music.163.com/artist?id=69270" }
+    ],
+    "album": {
+      "name": "Be Alright",
+      "link": "https://music.163.com/album?id=75832974"
+    }
+  },
+  {
+    "name": "Paint The Sky",
+    "link": "https://music.163.com/song?id=1428148984",
+    "duration": "03:20",
+    "artists": [
+      {
+        "name": "Mark Sixma",
+        "link": "https://music.163.com/artist?id=178755"
+      },
+      { "name": "Eline", "link": "https://music.163.com/artist?id=30696426" }
+    ],
+    "album": {
+      "name": "Paint The Sky",
+      "link": "https://music.163.com/album?id=86227463"
+    }
+  },
+  {
+    "name": "Energy",
+    "link": "https://music.163.com/song?id=431080988",
+    "duration": "03:18",
+    "artists": [
+      {
+        "name": "Elektronomia",
+        "link": "https://music.163.com/artist?id=1081540"
+      }
+    ],
+    "album": {
+      "name": "Energy",
+      "link": "https://music.163.com/album?id=34874699"
+    }
+  },
+  {
+    "name": "Crocodile Tears",
+    "link": "https://music.163.com/song?id=1480280183",
+    "duration": "03:38",
+    "artists": [
+      { "name": "BUNT.", "link": "https://music.163.com/artist?id=744145" },
+      { "name": "Jens Hult", "link": "https://music.163.com/artist?id=1150086" }
+    ],
+    "album": {
+      "name": "Crocodile Tears",
+      "link": "https://music.163.com/album?id=95612112"
+    }
+  },
+  {
+    "name": "Beaten Hearts",
+    "link": "https://music.163.com/song?id=473742954",
+    "duration": "03:10",
+    "artists": [
+      { "name": "Husman", "link": "https://music.163.com/artist?id=295320" },
+      { "name": "APEK", "link": "https://music.163.com/artist?id=1182277" },
+      {
+        "name": "Happy Sometimes",
+        "link": "https://music.163.com/artist?id=12859026"
+      }
+    ],
+    "album": {
+      "name": "Beaten Hearts",
+      "link": "https://music.163.com/album?id=35423215"
+    }
+  },
+  {
+    "name": "I See You",
+    "link": "https://music.163.com/song?id=1351664230",
+    "duration": "03:48",
+    "artists": [
+      { "name": "Missio", "link": "https://music.163.com/artist?id=1038292" }
+    ],
+    "album": {
+      "name": "I See You",
+      "link": "https://music.163.com/album?id=75836312"
+    }
+  },
+  {
+    "name": "Tension",
+    "link": "https://music.163.com/song?id=563855834",
+    "duration": "03:06",
+    "artists": [
+      { "name": "Cappa", "link": "https://music.163.com/artist?id=1053281" }
+    ],
+    "album": {
+      "name": "Tension",
+      "link": "https://music.163.com/album?id=39077833"
+    }
+  },
+  {
+    "name": "Timeless",
+    "link": "https://music.163.com/song?id=438466592",
+    "duration": "03:52",
+    "artists": [
+      { "name": "Kadenza", "link": "https://music.163.com/artist?id=12068052" }
+    ],
+    "album": {
+      "name": "Timeless",
+      "link": "https://music.163.com/album?id=34951092"
+    }
+  },
+  {
+    "name": "Need You",
+    "link": "https://music.163.com/song?id=1436967572",
+    "duration": "03:27",
+    "artists": [
+      { "name": "Fablers", "link": "https://music.163.com/artist?id=34751307" },
+      {
+        "name": "Revealed Recordings",
+        "link": "https://music.163.com/artist?id=28753573"
+      },
+      {
+        "name": "Sam Knight",
+        "link": "https://music.163.com/artist?id=30292124"
+      }
+    ],
+    "album": {
+      "name": "Need You",
+      "link": "https://music.163.com/album?id=87507103"
+    }
+  },
+  {
+    "name": "Left Behinds (Radio Edit)",
+    "link": "https://music.163.com/song?id=31365236",
+    "duration": "03:00",
+    "artists": [
+      {
+        "name": "Paris Blohm",
+        "link": "https://music.163.com/artist?id=851710"
+      },
+      {
+        "name": "Taylr Renee",
+        "link": "https://music.163.com/artist?id=844804"
+      }
+    ],
+    "album": {
+      "name": "Revealed 5 Year Anniversary",
+      "link": "https://music.163.com/album?id=3111606"
+    }
+  },
+  {
+    "name": "Another Friend",
+    "link": "https://music.163.com/song?id=556064597",
+    "duration": "02:52",
+    "artists": [
+      { "name": "Kiso", "link": "https://music.163.com/artist?id=1089102" },
+      { "name": "Tep No", "link": "https://music.163.com/artist?id=956357" }
+    ],
+    "album": {
+      "name": "Another Friend",
+      "link": "https://music.163.com/album?id=38519324"
+    }
+  },
+  {
+    "name": "I Like When We",
+    "link": "https://music.163.com/song?id=1431478623",
+    "duration": "04:09",
+    "artists": [
+      {
+        "name": "Jesper Jenset",
+        "link": "https://music.163.com/artist?id=1081707"
+      }
+    ],
+    "album": {
+      "name": "Facade",
+      "link": "https://music.163.com/album?id=86558278"
+    }
+  },
+  {
+    "name": "Everything We Touch",
+    "link": "https://music.163.com/song?id=30706541",
+    "duration": "03:49",
+    "artists": [
+      {
+        "name": "Say Lou Lou",
+        "link": "https://music.163.com/artist?id=757244"
+      }
+    ],
+    "album": {
+      "name": "Lucid Dreaming (Deluxe Edition)",
+      "link": "https://music.163.com/album?id=3104278"
+    }
+  },
+  {
+    "name": "The #IcePack Rises (Original Mix)",
+    "link": "https://music.163.com/song?id=403711524",
+    "duration": "03:43",
+    "artists": [
+      { "name": "EnV", "link": "https://music.163.com/artist?id=836033" }
+    ],
+    "album": {
+      "name": "The #IcePack Rises",
+      "link": "https://music.163.com/album?id=34498145"
+    }
+  },
+  {
+    "name": "Sad Song",
+    "link": "https://music.163.com/song?id=435403553",
+    "duration": "03:31",
+    "artists": [
+      {
+        "name": "Parson James",
+        "link": "https://music.163.com/artist?id=1073025"
+      }
+    ],
+    "album": {
+      "name": "Sad Song",
+      "link": "https://music.163.com/album?id=34900722"
+    }
+  },
+  {
+    "name": "Spaceman",
+    "link": "https://music.163.com/song?id=18171213",
+    "duration": "06:19",
+    "artists": [
+      { "name": "Hardwell", "link": "https://music.163.com/artist?id=34994" }
+    ],
+    "album": {
+      "name": "Spaceman",
+      "link": "https://music.163.com/album?id=1669804"
+    }
+  },
+  {
+    "name": "H.O.L.Y.",
+    "link": "https://music.163.com/song?id=411314536",
+    "duration": "03:14",
+    "artists": [
+      {
+        "name": "Florida Georgia Line",
+        "link": "https://music.163.com/artist?id=181011"
+      }
+    ],
+    "album": {
+      "name": "H.O.L.Y.",
+      "link": "https://music.163.com/album?id=34686184"
+    }
+  },
+  {
+    "name": "Rise Again (Omnia Remix)",
+    "link": "https://music.163.com/song?id=27526090",
+    "duration": "06:11",
+    "artists": [
+      {
+        "name": "Ronski Speed",
+        "link": "https://music.163.com/artist?id=42372"
+      },
+      {
+        "name": "Lucy Saunders",
+        "link": "https://music.163.com/artist?id=177924"
+      }
+    ],
+    "album": {
+      "name": "Rise Again",
+      "link": "https://music.163.com/album?id=2626019"
+    }
+  },
+  {
+    "name": "get you the moon",
+    "link": "https://music.163.com/song?id=549309101",
+    "duration": "02:59",
+    "artists": [
+      { "name": "Kina", "link": "https://music.163.com/artist?id=12826481" },
+      { "name": "SNØW", "link": "https://music.163.com/artist?id=14786438" }
+    ],
+    "album": {
+      "name": "Get You The Moon",
+      "link": "https://music.163.com/album?id=38139019"
+    }
+  },
+  {
+    "name": "Black Out",
+    "link": "https://music.163.com/song?id=1300712117",
+    "duration": "03:05",
+    "artists": [
+      { "name": "Daxten", "link": "https://music.163.com/artist?id=28766694" }
+    ],
+    "album": {
+      "name": "Flawless",
+      "link": "https://music.163.com/album?id=72249259"
+    }
+  },
+  {
+    "name": "Back To You (Nurko Remix)",
+    "link": "https://music.163.com/song?id=401250940",
+    "duration": "04:09",
+    "artists": [
+      { "name": "Nurko", "link": "https://music.163.com/artist?id=11991089" },
+      { "name": "WILD", "link": "https://music.163.com/artist?id=12074090" }
+    ],
+    "album": {
+      "name": "Back To You (Nurko Remix)",
+      "link": "https://music.163.com/album?id=34443201"
+    }
+  },
+  {
+    "name": "brooklyn boy",
+    "link": "https://music.163.com/song?id=1817947923",
+    "duration": "02:55",
+    "artists": [
+      {
+        "name": "Jeremy Zucker",
+        "link": "https://music.163.com/artist?id=12096183"
+      }
+    ],
+    "album": {
+      "name": "brent ii",
+      "link": "https://music.163.com/album?id=122616639"
+    }
+  },
+  {
+    "name": "For You",
+    "link": "https://music.163.com/song?id=1399660914",
+    "duration": "05:32",
+    "artists": [
+      { "name": "Au5", "link": "https://music.163.com/artist?id=359309" }
+    ],
+    "album": {
+      "name": "For You",
+      "link": "https://music.163.com/album?id=82798137"
+    }
+  },
+  {
+    "name": "タイムマシンにのって",
+    "link": "https://music.163.com/song?id=448316044",
+    "duration": "04:33",
+    "artists": [
+      { "name": "辻詩音", "link": "https://music.163.com/artist?id=17644" }
+    ],
+    "album": {
+      "name": "OH! MY MISTAKES!",
+      "link": "https://music.163.com/album?id=35075017"
+    }
+  },
+  {
+    "name": "Chance",
+    "link": "https://music.163.com/song?id=536513830",
+    "duration": "03:33",
+    "artists": [
+      { "name": "Aspyer", "link": "https://music.163.com/artist?id=12409085" },
+      {
+        "name": "Kyle Reynolds",
+        "link": "https://music.163.com/artist?id=1179061"
+      },
+      {
+        "name": "Carly Jay",
+        "link": "https://music.163.com/artist?id=30395435"
+      }
+    ],
+    "album": {
+      "name": "Chance",
+      "link": "https://music.163.com/album?id=37552481"
+    }
+  },
+  {
+    "name": "First Time",
+    "link": "https://music.163.com/song?id=1860988924",
+    "duration": "02:45",
+    "artists": [
+      { "name": "ILLENIUM", "link": "https://music.163.com/artist?id=1050518" },
+      {
+        "name": "iann dior",
+        "link": "https://music.163.com/artist?id=31532704"
+      }
+    ],
+    "album": {
+      "name": "Fallen Embers",
+      "link": "https://music.163.com/album?id=130311646"
+    }
+  }
+]

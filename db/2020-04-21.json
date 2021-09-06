@@ -1,0 +1,474 @@
+[
+  {
+    "name": "Mardröm",
+    "link": "https://music.163.com/song?id=520012872",
+    "duration": "03:09",
+    "artists": [
+      { "name": "Darin", "link": "https://music.163.com/artist?id=31200" },
+      {
+        "name": "Smith & Thell",
+        "link": "https://music.163.com/artist?id=1024185"
+      }
+    ],
+    "album": {
+      "name": "Tvillingen",
+      "link": "https://music.163.com/album?id=36827624"
+    }
+  },
+  {
+    "name": "Sayonara",
+    "link": "https://music.163.com/song?id=1373142332",
+    "duration": "02:36",
+    "artists": [
+      { "name": "BEAUZ", "link": "https://music.163.com/artist?id=12131436" },
+      {
+        "name": "Maggie Szabo",
+        "link": "https://music.163.com/artist?id=12008039"
+      }
+    ],
+    "album": {
+      "name": "Sayonara",
+      "link": "https://music.163.com/album?id=79915501"
+    }
+  },
+  {
+    "name": "Ships In The Night",
+    "link": "https://music.163.com/song?id=21156308",
+    "duration": "04:16",
+    "artists": [
+      { "name": "Mat Kearney", "link": "https://music.163.com/artist?id=38877" }
+    ],
+    "album": {
+      "name": "Young Love",
+      "link": "https://music.163.com/album?id=1956378"
+    }
+  },
+  {
+    "name": "Sink Or Swim",
+    "link": "https://music.163.com/song?id=19274538",
+    "duration": "02:58",
+    "artists": [
+      {
+        "name": "Tyrone Wells",
+        "link": "https://music.163.com/artist?id=44358"
+      }
+    ],
+    "album": {
+      "name": "Remain",
+      "link": "https://music.163.com/album?id=1768461"
+    }
+  },
+  {
+    "name": "Stay with Me Tonight",
+    "link": "https://music.163.com/song?id=506139202",
+    "duration": "04:08",
+    "artists": [
+      {
+        "name": "John Stanford",
+        "link": "https://music.163.com/artist?id=37294"
+      },
+      { "name": "Catey Shaw", "link": "https://music.163.com/artist?id=740086" }
+    ],
+    "album": {
+      "name": "Automatica",
+      "link": "https://music.163.com/album?id=36049733"
+    }
+  },
+  {
+    "name": "Ocean",
+    "link": "https://music.163.com/song?id=1379772057",
+    "duration": "03:09",
+    "artists": [
+      { "name": "Vivid", "link": "https://music.163.com/artist?id=140014" },
+      {
+        "name": "Emery Taylor",
+        "link": "https://music.163.com/artist?id=30181019"
+      }
+    ],
+    "album": {
+      "name": "Ocean",
+      "link": "https://music.163.com/album?id=80576504"
+    }
+  },
+  {
+    "name": "Shots",
+    "link": "https://music.163.com/song?id=427416943",
+    "duration": "03:49",
+    "artists": [
+      { "name": "INGLSH", "link": "https://music.163.com/artist?id=12087161" }
+    ],
+    "album": {
+      "name": "Prisoner No More",
+      "link": "https://music.163.com/album?id=34798303"
+    }
+  },
+  {
+    "name": "You Could Be Anybody",
+    "link": "https://music.163.com/song?id=26387260",
+    "duration": "04:08",
+    "artists": [
+      { "name": "Club 8", "link": "https://music.163.com/artist?id=89361" }
+    ],
+    "album": {
+      "name": "Above the City",
+      "link": "https://music.163.com/album?id=2476041"
+    }
+  },
+  {
+    "name": "Stacy",
+    "link": "https://music.163.com/song?id=1372847645",
+    "duration": "02:48",
+    "artists": [
+      {
+        "name": "Quinn XCII",
+        "link": "https://music.163.com/artist?id=12043047"
+      }
+    ],
+    "album": {
+      "name": "Stacy",
+      "link": "https://music.163.com/album?id=79887677"
+    }
+  },
+  {
+    "name": "Blue in My Eyes",
+    "link": "https://music.163.com/song?id=1300355030",
+    "duration": "03:18",
+    "artists": [
+      { "name": "NLSN", "link": "https://music.163.com/artist?id=12121013" },
+      { "name": "Lisa Rowe", "link": "https://music.163.com/artist?id=1049327" }
+    ],
+    "album": {
+      "name": "Blue in My Eyes",
+      "link": "https://music.163.com/album?id=72226634"
+    }
+  },
+  {
+    "name": "Stranger Things (Alan Walker Remix)",
+    "link": "https://music.163.com/song?id=536243886",
+    "duration": "02:58",
+    "artists": [
+      { "name": "Kygo", "link": "https://music.163.com/artist?id=844410" },
+      {
+        "name": "OneRepublic",
+        "link": "https://music.163.com/artist?id=98105"
+      },
+      {
+        "name": "Alan Walker",
+        "link": "https://music.163.com/artist?id=1045123"
+      }
+    ],
+    "album": {
+      "name": "Kids in Love (Remixes)",
+      "link": "https://music.163.com/album?id=37561188"
+    }
+  },
+  {
+    "name": "City Of Dreams",
+    "link": "https://music.163.com/song?id=27995584",
+    "duration": "03:37",
+    "artists": [
+      {
+        "name": "Dirty South",
+        "link": "https://music.163.com/artist?id=133017"
+      },
+      { "name": "Alesso", "link": "https://music.163.com/artist?id=29251" },
+      { "name": "Ruben Haze", "link": "https://music.163.com/artist?id=338426" }
+    ],
+    "album": {
+      "name": "Electronica - The Ultimate EDM",
+      "link": "https://music.163.com/album?id=2710862"
+    }
+  },
+  {
+    "name": "Deep In My Heart (Radio Edit)",
+    "link": "https://music.163.com/song?id=29576152",
+    "duration": "04:01",
+    "artists": [
+      {
+        "name": "Denis Kenzo",
+        "link": "https://music.163.com/artist?id=263670"
+      }
+    ],
+    "album": {
+      "name": "Deep In My Heart",
+      "link": "https://music.163.com/album?id=3047513"
+    }
+  },
+  {
+    "name": "Rise",
+    "link": "https://music.163.com/song?id=567145750",
+    "duration": "03:14",
+    "artists": [
+      {
+        "name": "Jonas Blue",
+        "link": "https://music.163.com/artist?id=1192069"
+      },
+      {
+        "name": "Jack & Jack",
+        "link": "https://music.163.com/artist?id=647673"
+      }
+    ],
+    "album": {
+      "name": "Rise",
+      "link": "https://music.163.com/album?id=39322119"
+    }
+  },
+  {
+    "name": "Not That Complicated",
+    "link": "https://music.163.com/song?id=1359698363",
+    "duration": "03:04",
+    "artists": [
+      { "name": "Osrin", "link": "https://music.163.com/artist?id=12249118" },
+      { "name": "Hilda", "link": "https://music.163.com/artist?id=60265" }
+    ],
+    "album": {
+      "name": "Not That Complicated",
+      "link": "https://music.163.com/album?id=78602009"
+    }
+  },
+  {
+    "name": "5AM",
+    "link": "https://music.163.com/song?id=1307398848",
+    "duration": "03:36",
+    "artists": [
+      {
+        "name": "Total Ape",
+        "link": "https://music.163.com/artist?id=12061182"
+      },
+      {
+        "name": "Nico & Vinz",
+        "link": "https://music.163.com/artist?id=896217"
+      }
+    ],
+    "album": {
+      "name": "In a Haze",
+      "link": "https://music.163.com/album?id=72986192"
+    }
+  },
+  {
+    "name": "Apollo Road",
+    "link": "https://music.163.com/song?id=27760101",
+    "duration": "03:10",
+    "artists": [
+      { "name": "ATB", "link": "https://music.163.com/artist?id=27623" },
+      { "name": "Dash Berlin", "link": "https://music.163.com/artist?id=32124" }
+    ],
+    "album": {
+      "name": "#musicislife (#deluxe)",
+      "link": "https://music.163.com/album?id=2672403"
+    }
+  },
+  {
+    "name": "In Your Arms",
+    "link": "https://music.163.com/song?id=1384492898",
+    "duration": "03:40",
+    "artists": [
+      { "name": "ILLENIUM", "link": "https://music.163.com/artist?id=1050518" },
+      {
+        "name": "X Ambassadors",
+        "link": "https://music.163.com/artist?id=780159"
+      }
+    ],
+    "album": {
+      "name": "ASCEND",
+      "link": "https://music.163.com/album?id=80981667"
+    }
+  },
+  {
+    "name": "Leave Soon",
+    "link": "https://music.163.com/song?id=551335083",
+    "duration": "03:15",
+    "artists": [
+      {
+        "name": "Joshua Francois",
+        "link": "https://music.163.com/artist?id=12900061"
+      },
+      { "name": "ELKO", "link": "https://music.163.com/artist?id=476048" }
+    ],
+    "album": {
+      "name": "Leave Soon",
+      "link": "https://music.163.com/album?id=38274027"
+    }
+  },
+  {
+    "name": "Anything",
+    "link": "https://music.163.com/song?id=1300745124",
+    "duration": "03:20",
+    "artists": [
+      {
+        "name": "Alex Mattson",
+        "link": "https://music.163.com/artist?id=11998070"
+      },
+      { "name": "RØRY", "link": "https://music.163.com/artist?id=28774080" }
+    ],
+    "album": {
+      "name": "Anything",
+      "link": "https://music.163.com/album?id=72251026"
+    }
+  },
+  {
+    "name": "Cruise",
+    "link": "https://music.163.com/song?id=500684127",
+    "duration": "02:58",
+    "artists": [
+      { "name": "AndyM", "link": "https://music.163.com/artist?id=12023320" }
+    ],
+    "album": {
+      "name": "Cruise",
+      "link": "https://music.163.com/album?id=36031039"
+    }
+  },
+  {
+    "name": "Red Ribbon",
+    "link": "https://music.163.com/song?id=1352831223",
+    "duration": "03:23",
+    "artists": [
+      { "name": "MADILYN", "link": "https://music.163.com/artist?id=69270" }
+    ],
+    "album": {
+      "name": "Red Ribbon",
+      "link": "https://music.163.com/album?id=75891371"
+    }
+  },
+  {
+    "name": "Trouble",
+    "link": "https://music.163.com/song?id=1356223648",
+    "duration": "03:07",
+    "artists": [
+      { "name": "Tiësto", "link": "https://music.163.com/artist?id=688047" },
+      { "name": "7 Skies", "link": "https://music.163.com/artist?id=230698" },
+      { "name": "Micky Blue", "link": "https://music.163.com/artist?id=340631" }
+    ],
+    "album": {
+      "name": "Together",
+      "link": "https://music.163.com/album?id=78297636"
+    }
+  },
+  {
+    "name": "What We Started",
+    "link": "https://music.163.com/song?id=420069067",
+    "duration": "03:23",
+    "artists": [
+      {
+        "name": "Don Diablo",
+        "link": "https://music.163.com/artist?id=139072"
+      },
+      { "name": "Steve Aoki", "link": "https://music.163.com/artist?id=43608" },
+      {
+        "name": "Lush & Simon",
+        "link": "https://music.163.com/artist?id=358207"
+      },
+      {
+        "name": "BullySongs",
+        "link": "https://music.163.com/artist?id=1156096"
+      }
+    ],
+    "album": {
+      "name": "What We Started",
+      "link": "https://music.163.com/album?id=34770033"
+    }
+  },
+  {
+    "name": "How Can I Forget",
+    "link": "https://music.163.com/song?id=1311756591",
+    "duration": "02:57",
+    "artists": [
+      { "name": "MKTO", "link": "https://music.163.com/artist?id=893440" }
+    ],
+    "album": {
+      "name": "How Can I Forget",
+      "link": "https://music.163.com/album?id=73523664"
+    }
+  },
+  {
+    "name": "Paprika",
+    "link": "https://music.163.com/song?id=412187158",
+    "duration": "03:57",
+    "artists": [
+      {
+        "name": "Gill Chang",
+        "link": "https://music.163.com/artist?id=1177230"
+      }
+    ],
+    "album": {
+      "name": "Stay Quiet",
+      "link": "https://music.163.com/album?id=34436064"
+    }
+  },
+  {
+    "name": "Weightless",
+    "link": "https://music.163.com/song?id=440207408",
+    "duration": "03:39",
+    "artists": [
+      {
+        "name": "First State",
+        "link": "https://music.163.com/artist?id=92742"
+      },
+      { "name": "Digital X", "link": "https://music.163.com/artist?id=744158" },
+      {
+        "name": "Aloma Steele",
+        "link": "https://music.163.com/artist?id=1015497"
+      }
+    ],
+    "album": {
+      "name": "Weightless",
+      "link": "https://music.163.com/album?id=34985134"
+    }
+  },
+  {
+    "name": "Fragments",
+    "link": "https://music.163.com/song?id=566443609",
+    "duration": "03:22",
+    "artists": [
+      { "name": "FEWZ", "link": "https://music.163.com/artist?id=12008133" }
+    ],
+    "album": {
+      "name": "Fragments   ",
+      "link": "https://music.163.com/album?id=39263156"
+    }
+  },
+  {
+    "name": "Silver City",
+    "link": "https://music.163.com/song?id=37095772",
+    "duration": "03:52",
+    "artists": [
+      { "name": "Myrne", "link": "https://music.163.com/artist?id=791151" },
+      { "name": "Linying", "link": "https://music.163.com/artist?id=1043382" }
+    ],
+    "album": {
+      "name": " Silver City / Release Me",
+      "link": "https://music.163.com/album?id=3414461"
+    }
+  },
+  {
+    "name": "Happy Ending",
+    "link": "https://music.163.com/song?id=525958561",
+    "duration": "03:06",
+    "artists": [
+      { "name": "shift334", "link": "https://music.163.com/artist?id=12258221" }
+    ],
+    "album": {
+      "name": "Happy Ending",
+      "link": "https://music.163.com/album?id=37051229"
+    }
+  },
+  {
+    "name": "Hot2Touch",
+    "link": "https://music.163.com/song?id=477992045",
+    "duration": "02:40",
+    "artists": [
+      {
+        "name": "Felix Jaehn",
+        "link": "https://music.163.com/artist?id=963083"
+      },
+      {
+        "name": "Alex Aiono",
+        "link": "https://music.163.com/artist?id=12093055"
+      }
+    ],
+    "album": {
+      "name": "Hot2Touch",
+      "link": "https://music.163.com/album?id=35498094"
+    }
+  }
+]

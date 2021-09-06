@@ -1,0 +1,449 @@
+[
+  {
+    "name": "Feel Something",
+    "link": "https://music.163.com/song?id=445144934",
+    "duration": "03:52",
+    "artists": [
+      { "name": "Anevo", "link": "https://music.163.com/artist?id=368578" },
+      {
+        "name": "Kayla Diamond",
+        "link": "https://music.163.com/artist?id=13023833"
+      }
+    ],
+    "album": {
+      "name": "Feel Something",
+      "link": "https://music.163.com/album?id=35022931"
+    }
+  },
+  {
+    "name": "Monkey Me",
+    "link": "https://music.163.com/song?id=27879558",
+    "duration": "04:13",
+    "artists": [
+      {
+        "name": "Mylène Farmer",
+        "link": "https://music.163.com/artist?id=66380"
+      }
+    ],
+    "album": {
+      "name": "Monkey Me (Remixes)",
+      "link": "https://music.163.com/album?id=2688789"
+    }
+  },
+  {
+    "name": "Crumble",
+    "link": "https://music.163.com/song?id=1352962927",
+    "duration": "03:09",
+    "artists": [
+      {
+        "name": "Fairlane",
+        "link": "https://music.163.com/artist?id=12665028"
+      },
+      { "name": "Trove", "link": "https://music.163.com/artist?id=12390270" }
+    ],
+    "album": {
+      "name": "Crumble",
+      "link": "https://music.163.com/album?id=75905030"
+    }
+  },
+  {
+    "name": "Kick im Augenblick",
+    "link": "https://music.163.com/song?id=440397672",
+    "duration": "03:27",
+    "artists": [
+      {
+        "name": "Beatrice Egli",
+        "link": "https://music.163.com/artist?id=768331"
+      }
+    ],
+    "album": {
+      "name": "Kick im Augenblick (Fan Edition)",
+      "link": "https://music.163.com/album?id=34983317"
+    }
+  },
+  {
+    "name": "Nur noch einmal schlafen",
+    "link": "https://music.163.com/song?id=29559746",
+    "duration": "03:01",
+    "artists": [
+      {
+        "name": "Anna-Maria Zimmermann",
+        "link": "https://music.163.com/artist?id=156458"
+      }
+    ],
+    "album": {
+      "name": "Schlager Aktuell Die Besten",
+      "link": "https://music.163.com/album?id=3042719"
+    }
+  },
+  {
+    "name": "Ain't Nothing Like It",
+    "link": "https://music.163.com/song?id=1348835834",
+    "duration": "02:46",
+    "artists": [
+      { "name": "KLYMVX", "link": "https://music.163.com/artist?id=1149091" }
+    ],
+    "album": {
+      "name": "Ain't Nothing Like It",
+      "link": "https://music.163.com/album?id=75717310"
+    }
+  },
+  {
+    "name": "Beauty Queen",
+    "link": "https://music.163.com/song?id=26256201",
+    "duration": "04:22",
+    "artists": [
+      { "name": "Foxes", "link": "https://music.163.com/artist?id=57950" }
+    ],
+    "album": {
+      "name": "Beauty Queen ",
+      "link": "https://music.163.com/album?id=2436057"
+    }
+  },
+  {
+    "name": "Stranger Things (Alan Walker Remix)",
+    "link": "https://music.163.com/song?id=536243886",
+    "duration": "02:58",
+    "artists": [
+      { "name": "Kygo", "link": "https://music.163.com/artist?id=844410" },
+      {
+        "name": "OneRepublic",
+        "link": "https://music.163.com/artist?id=98105"
+      },
+      {
+        "name": "Alan Walker",
+        "link": "https://music.163.com/artist?id=1045123"
+      }
+    ],
+    "album": {
+      "name": "Kids in Love (Remixes)",
+      "link": "https://music.163.com/album?id=37561188"
+    }
+  },
+  {
+    "name": "Jackpot (Dirty Nano Remix)",
+    "link": "https://music.163.com/song?id=549004927",
+    "duration": "05:01",
+    "artists": [
+      {
+        "name": "The Motans",
+        "link": "https://music.163.com/artist?id=12710132"
+      }
+    ],
+    "album": {
+      "name": "Jackpot (Dirty Nano Remix)",
+      "link": "https://music.163.com/album?id=38117080"
+    }
+  },
+  {
+    "name": "Lo que quedó",
+    "link": "https://music.163.com/song?id=1363833490",
+    "duration": "02:54",
+    "artists": [
+      { "name": "Jarana", "link": "https://music.163.com/artist?id=27958853" }
+    ],
+    "album": {
+      "name": "Cumbia",
+      "link": "https://music.163.com/album?id=78979510"
+    }
+  },
+  {
+    "name": "So Incredible",
+    "link": "https://music.163.com/song?id=3932668",
+    "duration": "04:09",
+    "artists": [
+      { "name": "AZIATIX", "link": "https://music.163.com/artist?id=86907" },
+      {
+        "name": "Stevie Hoang",
+        "link": "https://music.163.com/artist?id=42958"
+      }
+    ],
+    "album": {
+      "name": "Nocturnal (Japan Deluxe Editioin)",
+      "link": "https://music.163.com/album?id=397734"
+    }
+  },
+  {
+    "name": "♫♩♪♬‖♯♭♮∮",
+    "link": "https://music.163.com/song?id=1397360744",
+    "duration": "02:49",
+    "artists": [
+      { "name": "拿花负荷", "link": "https://music.163.com/artist?id=33428842" }
+    ],
+    "album": {
+      "name": "如封面所示",
+      "link": "https://music.163.com/album?id=82454748"
+    }
+  },
+  {
+    "name": "Shoot You Down",
+    "link": "https://music.163.com/song?id=409916258",
+    "duration": "03:54",
+    "artists": [
+      {
+        "name": "Nea Nelson",
+        "link": "https://music.163.com/artist?id=11997028"
+      }
+    ],
+    "album": {
+      "name": "Shoot You Down",
+      "link": "https://music.163.com/album?id=34610075"
+    }
+  },
+  {
+    "name": "No Angels",
+    "link": "https://music.163.com/song?id=1374313054",
+    "duration": "02:58",
+    "artists": [
+      {
+        "name": "Jay Made",
+        "link": "https://music.163.com/artist?id=27863747"
+      },
+      {
+        "name": "Miranda Glory",
+        "link": "https://music.163.com/artist?id=12463504"
+      }
+    ],
+    "album": {
+      "name": "No Angels",
+      "link": "https://music.163.com/album?id=80028149"
+    }
+  },
+  {
+    "name": "Flames",
+    "link": "https://music.163.com/song?id=1350395694",
+    "duration": "03:47",
+    "artists": [
+      { "name": "千坂", "link": "https://music.163.com/artist?id=12138261" }
+    ],
+    "album": {
+      "name": "Ardently love",
+      "link": "https://music.163.com/album?id=75756391"
+    }
+  },
+  {
+    "name": "A Town Called Paradise",
+    "link": "https://music.163.com/song?id=28660081",
+    "duration": "04:09",
+    "artists": [
+      { "name": "Tiësto", "link": "https://music.163.com/artist?id=688047" },
+      {
+        "name": "Zac Barnett",
+        "link": "https://music.163.com/artist?id=28527986"
+      }
+    ],
+    "album": {
+      "name": "A Town Called Paradise (Deluxe Version)",
+      "link": "https://music.163.com/album?id=2875023"
+    }
+  },
+  {
+    "name": "Superheroes",
+    "link": "https://music.163.com/song?id=28832241",
+    "duration": "04:03",
+    "artists": [
+      { "name": "The Script", "link": "https://music.163.com/artist?id=102028" }
+    ],
+    "album": {
+      "name": "Superheroes",
+      "link": "https://music.163.com/album?id=2905044"
+    }
+  },
+  {
+    "name": "我不害怕",
+    "link": "https://music.163.com/song?id=509750823",
+    "duration": "03:05",
+    "artists": [
+      {
+        "name": "接个吻，开一枪",
+        "link": "https://music.163.com/artist?id=12085016"
+      },
+      {
+        "name": "小猪迷糊糊",
+        "link": "https://music.163.com/artist?id=12056052"
+      }
+    ],
+    "album": {
+      "name": "我不害怕",
+      "link": "https://music.163.com/album?id=36417980"
+    }
+  },
+  {
+    "name": "China-O",
+    "link": "https://music.163.com/song?id=466327445",
+    "duration": "03:51",
+    "artists": [
+      { "name": "徐梦圆", "link": "https://music.163.com/artist?id=1142042" }
+    ],
+    "album": {
+      "name": "China-O",
+      "link": "https://music.163.com/album?id=35289468"
+    }
+  },
+  {
+    "name": "Fallin' All In You",
+    "link": "https://music.163.com/song?id=567145047",
+    "duration": "03:55",
+    "artists": [
+      {
+        "name": "Shawn Mendes",
+        "link": "https://music.163.com/artist?id=956238"
+      }
+    ],
+    "album": {
+      "name": "Shawn Mendes",
+      "link": "https://music.163.com/album?id=39322036"
+    }
+  },
+  {
+    "name": "晴",
+    "link": "https://music.163.com/song?id=28724351",
+    "duration": "04:10",
+    "artists": [
+      { "name": "汪苏泷", "link": "https://music.163.com/artist?id=5538" }
+    ],
+    "album": {
+      "name": "传世乐章",
+      "link": "https://music.163.com/album?id=2882154"
+    }
+  },
+  {
+    "name": "Breathe (Original Mix)",
+    "link": "https://music.163.com/song?id=413812817",
+    "duration": "03:45",
+    "artists": [
+      { "name": "EMBRZ", "link": "https://music.163.com/artist?id=1173001" }
+    ],
+    "album": {
+      "name": "Breathe ",
+      "link": "https://music.163.com/album?id=34702622"
+    }
+  },
+  {
+    "name": "Take me hand - (抓紧我的手)",
+    "link": "https://music.163.com/song?id=26092806",
+    "duration": "04:19",
+    "artists": [
+      {
+        "name": "DAISHI DANCE",
+        "link": "https://music.163.com/artist?id=13953"
+      },
+      {
+        "name": "Cecile Corbel",
+        "link": "https://music.163.com/artist?id=51012"
+      }
+    ],
+    "album": {
+      "name": "WONDER Tourism",
+      "link": "https://music.163.com/album?id=2386097"
+    }
+  },
+  {
+    "name": "You Are My Defense",
+    "link": "https://music.163.com/song?id=27630183",
+    "duration": "03:47",
+    "artists": [
+      {
+        "name": "Christa Wells",
+        "link": "https://music.163.com/artist?id=53047"
+      }
+    ],
+    "album": {
+      "name": "Feed Your Soul",
+      "link": "https://music.163.com/album?id=2646147"
+    }
+  },
+  {
+    "name": "Good Time (Radio Edit)",
+    "link": "https://music.163.com/song?id=26591511",
+    "duration": "02:53",
+    "artists": [
+      {
+        "name": "Flava & Stevenson",
+        "link": "https://music.163.com/artist?id=789847"
+      }
+    ],
+    "album": {
+      "name": "Good Time",
+      "link": "https://music.163.com/album?id=2528631"
+    }
+  },
+  {
+    "name": "안녕 - (再见)",
+    "link": "https://music.163.com/song?id=485347116",
+    "duration": "04:01",
+    "artists": [
+      { "name": "DIA", "link": "https://music.163.com/artist?id=125296" }
+    ],
+    "album": {
+      "name": "Stardust",
+      "link": "https://music.163.com/album?id=35644353"
+    }
+  },
+  {
+    "name": "MN84 Theme",
+    "link": "https://music.163.com/song?id=25749032",
+    "duration": "01:16",
+    "artists": [
+      {
+        "name": "Miami Nights 1984",
+        "link": "https://music.163.com/artist?id=688257"
+      }
+    ],
+    "album": {
+      "name": "Turbulence",
+      "link": "https://music.163.com/album?id=2304897"
+    }
+  },
+  {
+    "name": "Perform Ur Mission",
+    "link": "https://music.163.com/song?id=27642834",
+    "duration": "05:00",
+    "artists": [
+      { "name": "Void", "link": "https://music.163.com/artist?id=83745" }
+    ],
+    "album": {
+      "name": "works.3",
+      "link": "https://music.163.com/album?id=2651004"
+    }
+  },
+  {
+    "name": "Andromeda",
+    "link": "https://music.163.com/song?id=28999605",
+    "duration": "05:00",
+    "artists": [
+      {
+        "name": "Dance With The Dead",
+        "link": "https://music.163.com/artist?id=999192"
+      }
+    ],
+    "album": {
+      "name": "Near Dark",
+      "link": "https://music.163.com/album?id=2976026"
+    }
+  },
+  {
+    "name": "祝榕蔚 给你们（Cover：张宇）",
+    "link": "https://music.163.com/song?id=1404228691",
+    "duration": "02:46",
+    "artists": [
+      { "name": "曲贺", "link": "https://music.163.com/artist?id=12228845" }
+    ],
+    "album": {
+      "name": "南骚北浪",
+      "link": "https://music.163.com/album?id=35073165"
+    }
+  },
+  {
+    "name": "Dimension Ninja",
+    "link": "https://music.163.com/song?id=450222922",
+    "duration": "04:54",
+    "artists": [
+      { "name": "Street", "link": "https://music.163.com/artist?id=12773404" }
+    ],
+    "album": {
+      "name": "Athenarium",
+      "link": "https://music.163.com/album?id=35105188"
+    }
+  }
+]

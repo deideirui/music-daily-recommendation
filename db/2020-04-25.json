@@ -1,0 +1,464 @@
+[
+  {
+    "name": "Sooner Or Later",
+    "link": "https://music.163.com/song?id=21156310",
+    "duration": "03:57",
+    "artists": [
+      { "name": "Mat Kearney", "link": "https://music.163.com/artist?id=38877" }
+    ],
+    "album": {
+      "name": "Young Love",
+      "link": "https://music.163.com/album?id=1956378"
+    }
+  },
+  {
+    "name": "Dream Away",
+    "link": "https://music.163.com/song?id=28468994",
+    "duration": "03:25",
+    "artists": [
+      { "name": "Darin", "link": "https://music.163.com/artist?id=31200" },
+      {
+        "name": "Eagle-Eye Cherry",
+        "link": "https://music.163.com/artist?id=32733"
+      }
+    ],
+    "album": {
+      "name": "Dream Away",
+      "link": "https://music.163.com/album?id=2805119"
+    }
+  },
+  {
+    "name": "Gold (Acoustic)",
+    "link": "https://music.163.com/song?id=27514263",
+    "duration": "03:55",
+    "artists": [
+      { "name": "Owl City", "link": "https://music.163.com/artist?id=40859" }
+    ],
+    "album": {
+      "name": "The Midsummer Station Acoustic EP",
+      "link": "https://music.163.com/album?id=2623133"
+    }
+  },
+  {
+    "name": "Dynamite",
+    "link": "https://music.163.com/song?id=1376076133",
+    "duration": "03:32",
+    "artists": [
+      { "name": "Westlife", "link": "https://music.163.com/artist?id=45839" }
+    ],
+    "album": {
+      "name": "Spectrum",
+      "link": "https://music.163.com/album?id=83392596"
+    }
+  },
+  {
+    "name": "1000 Träume weit (Tornero)",
+    "link": "https://music.163.com/song?id=26704518",
+    "duration": "04:12",
+    "artists": [
+      {
+        "name": "Anna-Maria Zimmermann",
+        "link": "https://music.163.com/artist?id=156458"
+      }
+    ],
+    "album": {
+      "name": "Ballermann Hits Oktoberfest Party",
+      "link": "https://music.163.com/album?id=2549680"
+    }
+  },
+  {
+    "name": "Pillow talk",
+    "link": "https://music.163.com/song?id=29723074",
+    "duration": "03:47",
+    "artists": [
+      { "name": "Auryn", "link": "https://music.163.com/artist?id=87424" }
+    ],
+    "album": {
+      "name": "Circus Avenue (Fan Edition)",
+      "link": "https://music.163.com/album?id=3066283"
+    }
+  },
+  {
+    "name": "Wind It Up",
+    "link": "https://music.163.com/song?id=506139205",
+    "duration": "04:15",
+    "artists": [
+      {
+        "name": "John Stanford",
+        "link": "https://music.163.com/artist?id=37294"
+      }
+    ],
+    "album": {
+      "name": "Automatica",
+      "link": "https://music.163.com/album?id=36049733"
+    }
+  },
+  {
+    "name": "Just To Hear",
+    "link": "https://music.163.com/song?id=476630950",
+    "duration": "03:21",
+    "artists": [
+      {
+        "name": "Denis Kenzo",
+        "link": "https://music.163.com/artist?id=263670"
+      },
+      { "name": "Sveta B.", "link": "https://music.163.com/artist?id=839779" }
+    ],
+    "album": {
+      "name": "Just to Hear",
+      "link": "https://music.163.com/album?id=35456395"
+    }
+  },
+  {
+    "name": "Boom Boom",
+    "link": "https://music.163.com/song?id=1336776008",
+    "duration": "03:02",
+    "artists": [
+      { "name": "Nexeri", "link": "https://music.163.com/artist?id=12463182" },
+      {
+        "name": "Dj Antonio",
+        "link": "https://music.163.com/artist?id=12175143"
+      },
+      { "name": "Moonessa", "link": "https://music.163.com/artist?id=29834706" }
+    ],
+    "album": {
+      "name": "Boom Boom",
+      "link": "https://music.163.com/album?id=75005578"
+    }
+  },
+  {
+    "name": "Bleeding",
+    "link": "https://music.163.com/song?id=28592500",
+    "duration": "03:23",
+    "artists": [
+      {
+        "name": "The Ready Set",
+        "link": "https://music.163.com/artist?id=44458"
+      }
+    ],
+    "album": {
+      "name": "The Bad & The Better",
+      "link": "https://music.163.com/album?id=2848248"
+    }
+  },
+  {
+    "name": "Guava Breeze",
+    "link": "https://music.163.com/song?id=1342769557",
+    "duration": "04:23",
+    "artists": [
+      { "name": "Vexento", "link": "https://music.163.com/artist?id=12037010" }
+    ],
+    "album": {
+      "name": "Guava Breeze",
+      "link": "https://music.163.com/album?id=75363022"
+    }
+  },
+  {
+    "name": "Wildest Dream",
+    "link": "https://music.163.com/song?id=1351000659",
+    "duration": "03:07",
+    "artists": [
+      {
+        "name": "Thomas Gold",
+        "link": "https://music.163.com/artist?id=196219"
+      },
+      { "name": "Kosling", "link": "https://music.163.com/artist?id=29289583" },
+      {
+        "name": "Matthew Steeper",
+        "link": "https://music.163.com/artist?id=1094011"
+      }
+    ],
+    "album": {
+      "name": "Wildest Dream",
+      "link": "https://music.163.com/album?id=75807257"
+    }
+  },
+  {
+    "name": "For the One You Love",
+    "link": "https://music.163.com/song?id=555949589",
+    "duration": "04:41",
+    "artists": [
+      {
+        "name": "Natalie Gioia",
+        "link": "https://music.163.com/artist?id=839403"
+      },
+      { "name": "RAM", "link": "https://music.163.com/artist?id=73231" },
+      { "name": "Roger Shah", "link": "https://music.163.com/artist?id=191618" }
+    ],
+    "album": {
+      "name": "No Boundaries",
+      "link": "https://music.163.com/album?id=38507752"
+    }
+  },
+  {
+    "name": "California Crush",
+    "link": "https://music.163.com/song?id=554169128",
+    "duration": "03:20",
+    "artists": [
+      { "name": "Sad Eye", "link": "https://music.163.com/artist?id=12175215" },
+      {
+        "name": "Chris Kilroy",
+        "link": "https://music.163.com/artist?id=12219173"
+      },
+      {
+        "name": "Swedish Red Elephant",
+        "link": "https://music.163.com/artist?id=14277069"
+      }
+    ],
+    "album": {
+      "name": "California Crush",
+      "link": "https://music.163.com/album?id=38307499"
+    }
+  },
+  {
+    "name": "XOXO (Original Mix)",
+    "link": "https://music.163.com/song?id=460514766",
+    "duration": "02:45",
+    "artists": [
+      {
+        "name": "Laidback Luke",
+        "link": "https://music.163.com/artist?id=38306"
+      },
+      {
+        "name": "Ina Wroldsen",
+        "link": "https://music.163.com/artist?id=60879"
+      },
+      { "name": "Ralvero", "link": "https://music.163.com/artist?id=421108" }
+    ],
+    "album": {
+      "name": "XOXO",
+      "link": "https://music.163.com/album?id=35188261"
+    }
+  },
+  {
+    "name": "Another Day",
+    "link": "https://music.163.com/song?id=1349078023",
+    "duration": "03:02",
+    "artists": [
+      { "name": "Dabin", "link": "https://music.163.com/artist?id=783446" },
+      { "name": "Inukshuk", "link": "https://music.163.com/artist?id=1115191" },
+      { "name": "Nevve", "link": "https://music.163.com/artist?id=12567101" }
+    ],
+    "album": {
+      "name": "Another Day",
+      "link": "https://music.163.com/album?id=75733215"
+    }
+  },
+  {
+    "name": "It's Gotta Be You",
+    "link": "https://music.163.com/song?id=441835840",
+    "duration": "03:11",
+    "artists": [
+      { "name": "Isaiah", "link": "https://music.163.com/artist?id=12192247" }
+    ],
+    "album": {
+      "name": "It's Gotta Be You",
+      "link": "https://music.163.com/album?id=34923866"
+    }
+  },
+  {
+    "name": "Scientific Mysteries",
+    "link": "https://music.163.com/song?id=32544026",
+    "duration": "06:19",
+    "artists": [
+      { "name": "Dhamika", "link": "https://music.163.com/artist?id=339793" }
+    ],
+    "album": {
+      "name": "Energy Flow",
+      "link": "https://music.163.com/album?id=3161429"
+    }
+  },
+  {
+    "name": "Waves",
+    "link": "https://music.163.com/song?id=434687132",
+    "duration": "04:01",
+    "artists": [
+      {
+        "name": "Dean Lewis",
+        "link": "https://music.163.com/artist?id=12132624"
+      }
+    ],
+    "album": {
+      "name": "Waves",
+      "link": "https://music.163.com/album?id=34907253"
+    }
+  },
+  {
+    "name": "Glide",
+    "link": "https://music.163.com/song?id=571315121",
+    "duration": "03:16",
+    "artists": [
+      {
+        "name": "Stephen Walking",
+        "link": "https://music.163.com/artist?id=101860"
+      }
+    ],
+    "album": {
+      "name": "Glide",
+      "link": "https://music.163.com/album?id=39586571"
+    }
+  },
+  {
+    "name": "Better Not",
+    "link": "https://music.163.com/song?id=1304848880",
+    "duration": "03:42",
+    "artists": [
+      {
+        "name": "Louis The Child",
+        "link": "https://music.163.com/artist?id=1124134"
+      },
+      { "name": "Wafia", "link": "https://music.163.com/artist?id=1178106" }
+    ],
+    "album": {
+      "name": "2018 Rising Artists",
+      "link": "https://music.163.com/album?id=72574841"
+    }
+  },
+  {
+    "name": "Grow up",
+    "link": "https://music.163.com/song?id=528734784",
+    "duration": "03:54",
+    "artists": [
+      {
+        "name": "AJonnyCool",
+        "link": "https://music.163.com/artist?id=12282902"
+      }
+    ],
+    "album": {
+      "name": "Grow up",
+      "link": "https://music.163.com/album?id=37182413"
+    }
+  },
+  {
+    "name": "Fearless Pt. II",
+    "link": "https://music.163.com/song?id=529391087",
+    "duration": "03:14",
+    "artists": [
+      { "name": "Tule", "link": "https://music.163.com/artist?id=12676322" },
+      {
+        "name": "Chris Linton",
+        "link": "https://music.163.com/artist?id=14297663"
+      }
+    ],
+    "album": {
+      "name": "NCS: The Best of 2017",
+      "link": "https://music.163.com/album?id=37099494"
+    }
+  },
+  {
+    "name": "True Stories",
+    "link": "https://music.163.com/song?id=35314106",
+    "duration": "04:34",
+    "artists": [
+      { "name": "Axero", "link": "https://music.163.com/artist?id=1035020" }
+    ],
+    "album": {
+      "name": "True Stories",
+      "link": "https://music.163.com/album?id=3316317"
+    }
+  },
+  {
+    "name": "Fly Away",
+    "link": "https://music.163.com/song?id=480648424",
+    "duration": "03:14",
+    "artists": [
+      { "name": "Anjulie", "link": "https://music.163.com/artist?id=46502" },
+      { "name": "TheFatRat", "link": "https://music.163.com/artist?id=1019952" }
+    ],
+    "album": {
+      "name": "Fly Away",
+      "link": "https://music.163.com/album?id=35558237"
+    }
+  },
+  {
+    "name": "Move Up (Lost Gravity)",
+    "link": "https://music.163.com/song?id=406072775",
+    "duration": "03:04",
+    "artists": [
+      {
+        "name": "Mr. Polska",
+        "link": "https://music.163.com/artist?id=1161187"
+      }
+    ],
+    "album": {
+      "name": "Move Up (Lost Gravity)",
+      "link": "https://music.163.com/album?id=34526890"
+    }
+  },
+  {
+    "name": "This Is What You Came For",
+    "link": "https://music.163.com/song?id=411314681",
+    "duration": "03:42",
+    "artists": [
+      {
+        "name": "Calvin Harris",
+        "link": "https://music.163.com/artist?id=29968"
+      },
+      { "name": "Rihanna", "link": "https://music.163.com/artist?id=72724" }
+    ],
+    "album": {
+      "name": "This Is What You Came For",
+      "link": "https://music.163.com/album?id=34686251"
+    }
+  },
+  {
+    "name": "Together",
+    "link": "https://music.163.com/song?id=1304758900",
+    "duration": "04:18",
+    "artists": [
+      { "name": "JKW", "link": "https://music.163.com/artist?id=14003358" }
+    ],
+    "album": {
+      "name": "Together",
+      "link": "https://music.163.com/album?id=72565330"
+    }
+  },
+  {
+    "name": "Miracle (Full Version) ",
+    "link": "https://music.163.com/song?id=430043546",
+    "duration": "03:40",
+    "artists": [
+      { "name": "Andreas B.", "link": "https://music.163.com/artist?id=299713" }
+    ],
+    "album": {
+      "name": "Miracle (Full Version)",
+      "link": "https://music.163.com/album?id=34874188"
+    }
+  },
+  {
+    "name": "Let It All Out (L3V3LS Remix)",
+    "link": "https://music.163.com/song?id=425828566",
+    "duration": "04:55",
+    "artists": [
+      { "name": "L3V3LS", "link": "https://music.163.com/artist?id=12007340" },
+      { "name": "Kap Slap", "link": "https://music.163.com/artist?id=761048" },
+      {
+        "name": "Angelika Vee",
+        "link": "https://music.163.com/artist?id=904230"
+      }
+    ],
+    "album": {
+      "name": "Let It All Out (L3V3LS Remix)",
+      "link": "https://music.163.com/album?id=34817750"
+    }
+  },
+  {
+    "name": "Wherever You Are",
+    "link": "https://music.163.com/song?id=1345681553",
+    "duration": "02:38",
+    "artists": [
+      {
+        "name": "adam&steve",
+        "link": "https://music.163.com/artist?id=31211364"
+      },
+      {
+        "name": "Maty Noyes",
+        "link": "https://music.163.com/artist?id=12073280"
+      }
+    ],
+    "album": {
+      "name": "Wherever You Are",
+      "link": "https://music.163.com/album?id=75532598"
+    }
+  }
+]

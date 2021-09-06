@@ -1,0 +1,456 @@
+[
+  {
+    "name": "Reminding Me",
+    "link": "https://music.163.com/song?id=472219602",
+    "duration": "03:29",
+    "artists": [
+      { "name": "Shawn Hook", "link": "https://music.163.com/artist?id=44247" },
+      {
+        "name": "Vanessa Hudgens",
+        "link": "https://music.163.com/artist?id=83519"
+      }
+    ],
+    "album": {
+      "name": "Reminding Me",
+      "link": "https://music.163.com/album?id=35357334"
+    }
+  },
+  {
+    "name": "Try (feat. RØRY)",
+    "link": "https://music.163.com/song?id=1809318323",
+    "duration": "04:12",
+    "artists": [
+      { "name": "MitiS", "link": "https://music.163.com/artist?id=40245" },
+      { "name": "RØRY", "link": "https://music.163.com/artist?id=28774080" }
+    ],
+    "album": {
+      "name": "Try (feat. RØRY)",
+      "link": "https://music.163.com/album?id=121175668"
+    }
+  },
+  {
+    "name": "Time Machine",
+    "link": "https://music.163.com/song?id=1457416379",
+    "duration": "03:21",
+    "artists": [
+      {
+        "name": "Asketa & Natan Chaim",
+        "link": "https://music.163.com/artist?id=32523005"
+      },
+      {
+        "name": "Tim Morrison",
+        "link": "https://music.163.com/artist?id=12506877"
+      }
+    ],
+    "album": {
+      "name": "Time Machine",
+      "link": "https://music.163.com/album?id=91340453"
+    }
+  },
+  {
+    "name": "Number",
+    "link": "https://music.163.com/song?id=537407969",
+    "duration": "02:59",
+    "artists": [
+      {
+        "name": "Alexander Oscar",
+        "link": "https://music.163.com/artist?id=12312150"
+      }
+    ],
+    "album": {
+      "name": "Number",
+      "link": "https://music.163.com/album?id=37561418"
+    }
+  },
+  {
+    "name": "Antisocial",
+    "link": "https://music.163.com/song?id=550124208",
+    "duration": "02:42",
+    "artists": [
+      { "name": "BEAUZ", "link": "https://music.163.com/artist?id=12131436" },
+      {
+        "name": "Heather Sommer",
+        "link": "https://music.163.com/artist?id=13134228"
+      }
+    ],
+    "album": {
+      "name": "Antisocial",
+      "link": "https://music.163.com/album?id=38226050"
+    }
+  },
+  {
+    "name": "Moody",
+    "link": "https://music.163.com/song?id=1367394991",
+    "duration": "03:09",
+    "artists": [
+      {
+        "name": "Savannah Sgro",
+        "link": "https://music.163.com/artist?id=31381918"
+      }
+    ],
+    "album": {
+      "name": "Moody",
+      "link": "https://music.163.com/album?id=79376858"
+    }
+  },
+  {
+    "name": "Pushing 21",
+    "link": "https://music.163.com/song?id=1354240664",
+    "duration": "03:27",
+    "artists": [
+      {
+        "name": "Liv Dawson",
+        "link": "https://music.163.com/artist?id=12046546"
+      }
+    ],
+    "album": {
+      "name": "Pushing 21",
+      "link": "https://music.163.com/album?id=78193658"
+    }
+  },
+  {
+    "name": "Trampoline",
+    "link": "https://music.163.com/song?id=1301062404",
+    "duration": "03:04",
+    "artists": [
+      { "name": "Shaed", "link": "https://music.163.com/artist?id=12086115" }
+    ],
+    "album": {
+      "name": "You Got Me Like",
+      "link": "https://music.163.com/album?id=72269635"
+    }
+  },
+  {
+    "name": "The Other (Madison Mars Remix)",
+    "link": "https://music.163.com/song?id=466332798",
+    "duration": "03:27",
+    "artists": [
+      { "name": "Lauv", "link": "https://music.163.com/artist?id=1057226" },
+      {
+        "name": "Madison Mars",
+        "link": "https://music.163.com/artist?id=1178176"
+      }
+    ],
+    "album": {
+      "name": "The Other (Remixes)",
+      "link": "https://music.163.com/album?id=35293231"
+    }
+  },
+  {
+    "name": "Give It All",
+    "link": "https://music.163.com/song?id=1312714711",
+    "duration": "03:12",
+    "artists": [
+      {
+        "name": "Emily Zeck",
+        "link": "https://music.163.com/artist?id=12356669"
+      }
+    ],
+    "album": {
+      "name": "Give It All",
+      "link": "https://music.163.com/album?id=73607758"
+    }
+  },
+  {
+    "name": "Losing Me (Piano Version)",
+    "link": "https://music.163.com/song?id=1388503739",
+    "duration": "03:10",
+    "artists": [
+      {
+        "name": "Gabrielle Aplin",
+        "link": "https://music.163.com/artist?id=59169"
+      },
+      { "name": "JP Cooper", "link": "https://music.163.com/artist?id=415889" }
+    ],
+    "album": {
+      "name": "Losing Me (Piano Version)",
+      "link": "https://music.163.com/album?id=81341723"
+    }
+  },
+  {
+    "name": "Savage",
+    "link": "https://music.163.com/song?id=552681508",
+    "duration": "02:44",
+    "artists": [
+      { "name": "Bahari", "link": "https://music.163.com/artist?id=1044218" }
+    ],
+    "album": {
+      "name": "Savage",
+      "link": "https://music.163.com/album?id=38347611"
+    }
+  },
+  {
+    "name": "Not My Party",
+    "link": "https://music.163.com/song?id=1403374745",
+    "duration": "02:53",
+    "artists": [
+      {
+        "name": "Strandels",
+        "link": "https://music.163.com/artist?id=12171083"
+      }
+    ],
+    "album": {
+      "name": "Not My Party",
+      "link": "https://music.163.com/album?id=83316624"
+    }
+  },
+  {
+    "name": "Reasons",
+    "link": "https://music.163.com/song?id=1403074111",
+    "duration": "02:48",
+    "artists": [
+      {
+        "name": "Adib Sin",
+        "link": "https://music.163.com/artist?id=12244027"
+      },
+      { "name": "Chevy", "link": "https://music.163.com/artist?id=30811112" }
+    ],
+    "album": {
+      "name": "Reasons",
+      "link": "https://music.163.com/album?id=83263476"
+    }
+  },
+  {
+    "name": "Phantom",
+    "link": "https://music.163.com/song?id=862098840",
+    "duration": "04:02",
+    "artists": [
+      {
+        "name": "Dimitri Vangelis & Wyman",
+        "link": "https://music.163.com/artist?id=881024"
+      }
+    ],
+    "album": {
+      "name": "Phantom",
+      "link": "https://music.163.com/album?id=71614851"
+    }
+  },
+  {
+    "name": "Georgia",
+    "link": "https://music.163.com/song?id=449578853",
+    "duration": "02:14",
+    "artists": [
+      {
+        "name": "Racoon Racoon",
+        "link": "https://music.163.com/artist?id=12251121"
+      }
+    ],
+    "album": {
+      "name": "Our Love's Funeral",
+      "link": "https://music.163.com/album?id=35176446"
+    }
+  },
+  {
+    "name": "Ontario",
+    "link": "https://music.163.com/song?id=517902795",
+    "duration": "03:12",
+    "artists": [
+      { "name": "Novo Amor", "link": "https://music.163.com/artist?id=904041" },
+      {
+        "name": "Ed Tullett",
+        "link": "https://music.163.com/artist?id=12863130"
+      }
+    ],
+    "album": {
+      "name": "Heiress",
+      "link": "https://music.163.com/album?id=36771113"
+    }
+  },
+  {
+    "name": "Time",
+    "link": "https://music.163.com/song?id=462516497",
+    "duration": "04:34",
+    "artists": [
+      { "name": "Kidswaste", "link": "https://music.163.com/artist?id=1116302" }
+    ],
+    "album": {
+      "name": "Spleen",
+      "link": "https://music.163.com/album?id=35064104"
+    }
+  },
+  {
+    "name": "A Million Dreams (The Greatest Showman) [Fingerstyle]",
+    "link": "https://music.163.com/song?id=1443980601",
+    "duration": "04:25",
+    "artists": [
+      {
+        "name": "Daniel Padim",
+        "link": "https://music.163.com/artist?id=1021003"
+      }
+    ],
+    "album": {
+      "name": "A Million Dreams (The Greatest Showman) [Fingerstyle]",
+      "link": "https://music.163.com/album?id=88632662"
+    }
+  },
+  {
+    "name": "baby blue",
+    "link": "https://music.163.com/song?id=1350638342",
+    "duration": "02:40",
+    "artists": [
+      { "name": "jiwoo", "link": "https://music.163.com/artist?id=13935055" }
+    ],
+    "album": {
+      "name": "baby blue",
+      "link": "https://music.163.com/album?id=75797769"
+    }
+  },
+  {
+    "name": "Lost at Sea",
+    "link": "https://music.163.com/song?id=28612195",
+    "duration": "05:11",
+    "artists": [
+      {
+        "name": "Dave Thomas Junior",
+        "link": "https://music.163.com/artist?id=32233"
+      }
+    ],
+    "album": {
+      "name": "The Lucky Ones",
+      "link": "https://music.163.com/album?id=2848333"
+    }
+  },
+  {
+    "name": "Something Just Like This Cover",
+    "link": "https://music.163.com/song?id=1357576741",
+    "duration": "03:38",
+    "artists": [
+      {
+        "name": "Youngso Kim",
+        "link": "https://music.163.com/artist?id=31872922"
+      }
+    ],
+    "album": {
+      "name": "Something Just Like This Cover",
+      "link": "https://music.163.com/album?id=78397005"
+    }
+  },
+  {
+    "name": "水星上的鲸",
+    "link": "https://music.163.com/song?id=535093555",
+    "duration": "02:59",
+    "artists": [
+      {
+        "name": "hui sonata",
+        "link": "https://music.163.com/artist?id=12798588"
+      }
+    ],
+    "album": {
+      "name": "水星上的鲸",
+      "link": "https://music.163.com/album?id=37485023"
+    }
+  },
+  {
+    "name": "More Than Beautiful (Original Mix)",
+    "link": "https://music.163.com/song?id=26483610",
+    "duration": "08:49",
+    "artists": [
+      { "name": "Etasonic", "link": "https://music.163.com/artist?id=777274" }
+    ],
+    "album": {
+      "name": "More Than Beautiful",
+      "link": "https://music.163.com/album?id=2506168"
+    }
+  },
+  {
+    "name": "80 Juta",
+    "link": "https://music.163.com/song?id=1341158234",
+    "duration": "05:20",
+    "artists": [
+      { "name": "Alusty", "link": "https://music.163.com/artist?id=31328150" }
+    ],
+    "album": {
+      "name": "80 Juta",
+      "link": "https://music.163.com/album?id=75270615"
+    }
+  },
+  {
+    "name": "Moon River - (Happy Birthday Anna)",
+    "link": "https://music.163.com/song?id=479028072",
+    "duration": "02:55",
+    "artists": [
+      {
+        "name": "Scott James",
+        "link": "https://music.163.com/artist?id=12430019"
+      }
+    ],
+    "album": {
+      "name": "Moon River",
+      "link": "https://music.163.com/album?id=35526040"
+    }
+  },
+  {
+    "name": "so weak（female voice mix）",
+    "link": "https://music.163.com/song?id=472167986",
+    "duration": "03:35",
+    "artists": [
+      {
+        "name": "李柄桦(Slaughter King）",
+        "link": "https://music.163.com/artist?id=12132197"
+      }
+    ],
+    "album": {
+      "name": "so weak",
+      "link": "https://music.163.com/album?id=35374049"
+    }
+  },
+  {
+    "name": "Shape Of My Heart",
+    "link": "https://music.163.com/song?id=1440844746",
+    "duration": "03:37",
+    "artists": [
+      {
+        "name": "Luca Stricagnoli",
+        "link": "https://music.163.com/artist?id=1192360"
+      }
+    ],
+    "album": {
+      "name": "Change of Rules",
+      "link": "https://music.163.com/album?id=88062380"
+    }
+  },
+  {
+    "name": "Chains (with Project 46) (Extended Mix)",
+    "link": "https://music.163.com/song?id=1441378351",
+    "duration": "04:32",
+    "artists": [
+      { "name": "Kaskade", "link": "https://music.163.com/artist?id=37559" },
+      { "name": "Project 46", "link": "https://music.163.com/artist?id=776674" }
+    ],
+    "album": {
+      "name": "Chains (with Project 46) (Extended Mix)",
+      "link": "https://music.163.com/album?id=88166122"
+    }
+  },
+  {
+    "name": "Believer",
+    "link": "https://music.163.com/song?id=1338149101",
+    "duration": "03:39",
+    "artists": [
+      {
+        "name": "Imagine Dragons",
+        "link": "https://music.163.com/artist?id=94779"
+      },
+      { "name": "Lil Wayne", "link": "https://music.163.com/artist?id=38118" }
+    ],
+    "album": {
+      "name": "Believer",
+      "link": "https://music.163.com/album?id=75082998"
+    }
+  },
+  {
+    "name": "Not Angry",
+    "link": "https://music.163.com/song?id=1478568147",
+    "duration": "03:19",
+    "artists": [
+      {
+        "name": "Chris James",
+        "link": "https://music.163.com/artist?id=145038"
+      }
+    ],
+    "album": {
+      "name": "Not Angry",
+      "link": "https://music.163.com/album?id=95295367"
+    }
+  }
+]

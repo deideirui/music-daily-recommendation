@@ -1,0 +1,431 @@
+[
+  {
+    "name": "Broken Hearts",
+    "link": "https://music.163.com/song?id=1399335951",
+    "duration": "03:09",
+    "artists": [
+      {
+        "name": "Justin Caruso",
+        "link": "https://music.163.com/artist?id=1193462"
+      },
+      { "name": "Hilda", "link": "https://music.163.com/artist?id=60265" }
+    ],
+    "album": {
+      "name": "Broken Hearts",
+      "link": "https://music.163.com/album?id=82767855"
+    }
+  },
+  {
+    "name": "Make A Move",
+    "link": "https://music.163.com/song?id=1344438011",
+    "duration": "03:09",
+    "artists": [
+      {
+        "name": "EMMA WAHLIN",
+        "link": "https://music.163.com/artist?id=29426733"
+      }
+    ],
+    "album": {
+      "name": "Make A Move",
+      "link": "https://music.163.com/album?id=75470738"
+    }
+  },
+  {
+    "name": "Don't Forget",
+    "link": "https://music.163.com/song?id=1391790131",
+    "duration": "02:29",
+    "artists": [
+      { "name": "LIZOT", "link": "https://music.163.com/artist?id=1137483" },
+      { "name": "Nevve", "link": "https://music.163.com/artist?id=12567101" }
+    ],
+    "album": {
+      "name": "Don't Forget",
+      "link": "https://music.163.com/album?id=81744341"
+    }
+  },
+  {
+    "name": "Just a Lie",
+    "link": "https://music.163.com/song?id=572393241",
+    "duration": "03:14",
+    "artists": [
+      { "name": "Zeper", "link": "https://music.163.com/artist?id=12086179" },
+      {
+        "name": "Mazen Awad",
+        "link": "https://music.163.com/artist?id=15114524"
+      }
+    ],
+    "album": {
+      "name": "Just a Lie",
+      "link": "https://music.163.com/album?id=39646321"
+    }
+  },
+  {
+    "name": "Sleep (Ruhde Remix)",
+    "link": "https://music.163.com/song?id=1313102183",
+    "duration": "02:28",
+    "artists": [
+      { "name": "DIMA", "link": "https://music.163.com/artist?id=27888431" },
+      {
+        "name": "Erika Sirola",
+        "link": "https://music.163.com/artist?id=28797479"
+      }
+    ],
+    "album": {
+      "name": "Sleep (Ruhde Remix)",
+      "link": "https://music.163.com/album?id=73470924"
+    }
+  },
+  {
+    "name": "Never Gonna Regret U",
+    "link": "https://music.163.com/song?id=1349242120",
+    "duration": "03:09",
+    "artists": [
+      { "name": "BEAUZ", "link": "https://music.163.com/artist?id=12131436" },
+      { "name": "SIIGHTS", "link": "https://music.163.com/artist?id=28897450" }
+    ],
+    "album": {
+      "name": "Never Gonna Regret U",
+      "link": "https://music.163.com/album?id=75739803"
+    }
+  },
+  {
+    "name": "Back To You",
+    "link": "https://music.163.com/song?id=1352962917",
+    "duration": "03:05",
+    "artists": [
+      { "name": "NATIIVE", "link": "https://music.163.com/artist?id=13775064" },
+      {
+        "name": "Cailee Rae",
+        "link": "https://music.163.com/artist?id=12448021"
+      }
+    ],
+    "album": {
+      "name": "Back To You",
+      "link": "https://music.163.com/album?id=75904612"
+    }
+  },
+  {
+    "name": "Told You So",
+    "link": "https://music.163.com/song?id=1351917732",
+    "duration": "02:57",
+    "artists": [
+      { "name": "HRVY", "link": "https://music.163.com/artist?id=12501125" }
+    ],
+    "album": {
+      "name": "Told You So",
+      "link": "https://music.163.com/album?id=75848323"
+    }
+  },
+  {
+    "name": "All of You",
+    "link": "https://music.163.com/song?id=1324035458",
+    "duration": "03:25",
+    "artists": [
+      {
+        "name": "Prince paris",
+        "link": "https://music.163.com/artist?id=574147"
+      },
+      {
+        "name": "Beau Collins",
+        "link": "https://music.163.com/artist?id=12192231"
+      }
+    ],
+    "album": {
+      "name": "All of You",
+      "link": "https://music.163.com/album?id=74323065"
+    }
+  },
+  {
+    "name": "Turn It Up",
+    "link": "https://music.163.com/song?id=564742278",
+    "duration": "02:55",
+    "artists": [
+      { "name": "Elysa", "link": "https://music.163.com/artist?id=14609476" },
+      { "name": "s7erre", "link": "https://music.163.com/artist?id=14607671" }
+    ],
+    "album": {
+      "name": "Turn It Up",
+      "link": "https://music.163.com/album?id=39136079"
+    }
+  },
+  {
+    "name": "Shatter",
+    "link": "https://music.163.com/song?id=37095438",
+    "duration": "03:25",
+    "artists": [
+      { "name": "Feint", "link": "https://music.163.com/artist?id=93062" }
+    ],
+    "album": {
+      "name": "Fall Away",
+      "link": "https://music.163.com/album?id=3414372"
+    }
+  },
+  {
+    "name": "X's",
+    "link": "https://music.163.com/song?id=1300269466",
+    "duration": "03:34",
+    "artists": [
+      { "name": "CMC$", "link": "https://music.163.com/artist?id=1086052" },
+      { "name": "GRX", "link": "https://music.163.com/artist?id=845068" },
+      { "name": "Icona Pop", "link": "https://music.163.com/artist?id=94773" }
+    ],
+    "album": {
+      "name": "X's",
+      "link": "https://music.163.com/album?id=72220734"
+    }
+  },
+  {
+    "name": "Words",
+    "link": "https://music.163.com/song?id=1301572238",
+    "duration": "02:41",
+    "artists": [
+      {
+        "name": "Steve Void",
+        "link": "https://music.163.com/artist?id=12062200"
+      },
+      { "name": "BEAUZ", "link": "https://music.163.com/artist?id=12131436" },
+      {
+        "name": "Bri Tolani",
+        "link": "https://music.163.com/artist?id=12203231"
+      }
+    ],
+    "album": {
+      "name": "Words",
+      "link": "https://music.163.com/album?id=72302664"
+    }
+  },
+  {
+    "name": "No Way",
+    "link": "https://music.163.com/song?id=1300720211",
+    "duration": "03:07",
+    "artists": [
+      { "name": "JRL", "link": "https://music.163.com/artist?id=12995921" }
+    ],
+    "album": {
+      "name": "No Way",
+      "link": "https://music.163.com/album?id=72249566"
+    }
+  },
+  {
+    "name": "Walking Dead (Original Mix)",
+    "link": "https://music.163.com/song?id=518896889",
+    "duration": "03:06",
+    "artists": [
+      { "name": "Streex", "link": "https://music.163.com/artist?id=12067132" }
+    ],
+    "album": {
+      "name": "Walking Dead",
+      "link": "https://music.163.com/album?id=36814237"
+    }
+  },
+  {
+    "name": "Seasons",
+    "link": "https://music.163.com/song?id=1313014216",
+    "duration": "04:08",
+    "artists": [
+      { "name": "Rival", "link": "https://music.163.com/artist?id=12741030" },
+      { "name": "Cadmium", "link": "https://music.163.com/artist?id=12945908" },
+      {
+        "name": "Harley Bird",
+        "link": "https://music.163.com/artist?id=12355691"
+      }
+    ],
+    "album": {
+      "name": "Seasons",
+      "link": "https://music.163.com/album?id=73633326"
+    }
+  },
+  {
+    "name": "Feel That Way",
+    "link": "https://music.163.com/song?id=1424639298",
+    "duration": "03:04",
+    "artists": [
+      { "name": "Ellis", "link": "https://music.163.com/artist?id=32932" }
+    ],
+    "album": {
+      "name": "Feel That Way",
+      "link": "https://music.163.com/album?id=85856691"
+    }
+  },
+  {
+    "name": "Carry On - (电影《大侦探皮卡丘》主题曲)",
+    "link": "https://music.163.com/song?id=1359113596",
+    "duration": "03:35",
+    "artists": [
+      { "name": "Kygo", "link": "https://music.163.com/artist?id=844410" },
+      { "name": "Rita Ora", "link": "https://music.163.com/artist?id=74575" }
+    ],
+    "album": {
+      "name": "Carry On",
+      "link": "https://music.163.com/album?id=78539320"
+    }
+  },
+  {
+    "name": "Cities",
+    "link": "https://music.163.com/song?id=1394898022",
+    "duration": "03:16",
+    "artists": [
+      { "name": "Throttle", "link": "https://music.163.com/artist?id=794398" }
+    ],
+    "album": {
+      "name": "Where U Are",
+      "link": "https://music.163.com/album?id=82132355"
+    }
+  },
+  {
+    "name": "Gold",
+    "link": "https://music.163.com/song?id=1419917049",
+    "duration": "04:20",
+    "artists": [
+      { "name": "KOVEN.", "link": "https://music.163.com/artist?id=370675" }
+    ],
+    "album": {
+      "name": "Gold / YES",
+      "link": "https://music.163.com/album?id=85358017"
+    }
+  },
+  {
+    "name": "Feels Right (feat. RUNN)",
+    "link": "https://music.163.com/song?id=1401179677",
+    "duration": "03:32",
+    "artists": [
+      {
+        "name": "Crystal Skies",
+        "link": "https://music.163.com/artist?id=1063127"
+      },
+      { "name": "Runn", "link": "https://music.163.com/artist?id=15237536" }
+    ],
+    "album": {
+      "name": "Constellations",
+      "link": "https://music.163.com/album?id=83001751"
+    }
+  },
+  {
+    "name": "Sit Still, Look Pretty",
+    "link": "https://music.163.com/song?id=433681275",
+    "duration": "03:22",
+    "artists": [
+      { "name": "Daya", "link": "https://music.163.com/artist?id=1081186" }
+    ],
+    "album": {
+      "name": "Sit Still, Look Pretty",
+      "link": "https://music.163.com/album?id=34898699"
+    }
+  },
+  {
+    "name": "Glide",
+    "link": "https://music.163.com/song?id=571315121",
+    "duration": "03:16",
+    "artists": [
+      {
+        "name": "Stephen Walking",
+        "link": "https://music.163.com/artist?id=101860"
+      }
+    ],
+    "album": {
+      "name": "Glide",
+      "link": "https://music.163.com/album?id=39586571"
+    }
+  },
+  {
+    "name": "Ready Yet (San Holo Remix)",
+    "link": "https://music.163.com/song?id=542437942",
+    "duration": "03:38",
+    "artists": [
+      {
+        "name": "Sasha Sloan",
+        "link": "https://music.163.com/artist?id=12646102"
+      },
+      { "name": "San Holo", "link": "https://music.163.com/artist?id=1017035" }
+    ],
+    "album": {
+      "name": "Ready Yet (San Holo Remix)",
+      "link": "https://music.163.com/album?id=37815235"
+    }
+  },
+  {
+    "name": "Found Us (feat. Luma)",
+    "link": "https://music.163.com/song?id=1388285645",
+    "duration": "03:44",
+    "artists": [
+      {
+        "name": "Last Heroes",
+        "link": "https://music.163.com/artist?id=11987034"
+      },
+      { "name": "Luma", "link": "https://music.163.com/artist?id=211460" }
+    ],
+    "album": {
+      "name": "Moments EP",
+      "link": "https://music.163.com/album?id=81318000"
+    }
+  },
+  {
+    "name": "Say (Valoriz Remix)",
+    "link": "https://music.163.com/song?id=523248351",
+    "duration": "03:13",
+    "artists": [
+      { "name": "Valoriz", "link": "https://music.163.com/artist?id=1177237" },
+      {
+        "name": "The Spacies",
+        "link": "https://music.163.com/artist?id=12175190"
+      }
+    ],
+    "album": {
+      "name": "Say (Valoriz Remix)",
+      "link": "https://music.163.com/album?id=36957125"
+    }
+  },
+  {
+    "name": "Neon Rainbow (feat. Anna Yvette)",
+    "link": "https://music.163.com/song?id=409931573",
+    "duration": "04:12",
+    "artists": [
+      { "name": "Rameses B", "link": "https://music.163.com/artist?id=42898" },
+      {
+        "name": "Anna Yvette",
+        "link": "https://music.163.com/artist?id=1150079"
+      }
+    ],
+    "album": {
+      "name": "Neon Rainbow (feat. Anna Yvette)",
+      "link": "https://music.163.com/album?id=34613506"
+    }
+  },
+  {
+    "name": "Monday (with Ashe)",
+    "link": "https://music.163.com/song?id=1379959117",
+    "duration": "03:15",
+    "artists": [
+      { "name": "filous", "link": "https://music.163.com/artist?id=1081131" },
+      { "name": "Ashe", "link": "https://music.163.com/artist?id=12278097" }
+    ],
+    "album": {
+      "name": "Monday (with Ashe)",
+      "link": "https://music.163.com/album?id=80595176"
+    }
+  },
+  {
+    "name": "Healing",
+    "link": "https://music.163.com/song?id=1302091527",
+    "duration": "03:17",
+    "artists": [
+      { "name": "Adib Sin", "link": "https://music.163.com/artist?id=12244027" }
+    ],
+    "album": {
+      "name": "Healing",
+      "link": "https://music.163.com/album?id=72302022"
+    }
+  },
+  {
+    "name": "Supersonic",
+    "link": "https://music.163.com/song?id=458496962",
+    "duration": "03:54",
+    "artists": [
+      { "name": "Rob Gasser", "link": "https://music.163.com/artist?id=762199" }
+    ],
+    "album": {
+      "name": "Supersonic",
+      "link": "https://music.163.com/album?id=35157746"
+    }
+  }
+]

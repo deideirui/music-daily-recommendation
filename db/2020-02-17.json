@@ -1,0 +1,429 @@
+[
+  {
+    "name": "Starry Night",
+    "link": "https://music.163.com/song?id=1342840047",
+    "duration": "02:48",
+    "artists": [
+      { "name": "Couple N", "link": "https://music.163.com/artist?id=29832422" }
+    ],
+    "album": {
+      "name": "Starry Night",
+      "link": "https://music.163.com/album?id=75340465"
+    }
+  },
+  {
+    "name": "Sakura",
+    "link": "https://music.163.com/song?id=1370022201",
+    "duration": "01:00",
+    "artists": [
+      { "name": "CMJ", "link": "https://music.163.com/artist?id=12157336" }
+    ],
+    "album": {
+      "name": "Sakura",
+      "link": "https://music.163.com/album?id=79619626"
+    }
+  },
+  {
+    "name": "World",
+    "link": "https://music.163.com/song?id=513156080",
+    "duration": "03:37",
+    "artists": [
+      { "name": "Dio Deer", "link": "https://music.163.com/artist?id=12319430" }
+    ],
+    "album": {
+      "name": "World",
+      "link": "https://music.163.com/album?id=36568352"
+    }
+  },
+  {
+    "name": "句号",
+    "link": "https://music.163.com/song?id=1405283464",
+    "duration": "03:55",
+    "artists": [
+      { "name": "G.E.M.邓紫棋", "link": "https://music.163.com/artist?id=7763" }
+    ],
+    "album": {
+      "name": "摩天动物园",
+      "link": "https://music.163.com/album?id=84391762"
+    }
+  },
+  {
+    "name": "crybaby",
+    "link": "https://music.163.com/song?id=1381627463",
+    "duration": "02:20",
+    "artists": [
+      { "name": "Seto", "link": "https://music.163.com/artist?id=30950035" }
+    ],
+    "album": { "name": "➴♡", "link": "https://music.163.com/album?id=80689443" }
+  },
+  {
+    "name": "Ride",
+    "link": "https://music.163.com/song?id=1307740117",
+    "duration": "02:51",
+    "artists": [
+      { "name": "Dirtcaps", "link": "https://music.163.com/artist?id=1073072" },
+      {
+        "name": "Rachel West",
+        "link": "https://music.163.com/artist?id=28139536"
+      }
+    ],
+    "album": {
+      "name": "Ride",
+      "link": "https://music.163.com/album?id=73035031"
+    }
+  },
+  {
+    "name": "南极星",
+    "link": "https://music.163.com/song?id=1321947842",
+    "duration": "03:38",
+    "artists": [
+      { "name": "小鹿岛", "link": "https://music.163.com/artist?id=12923180" }
+    ],
+    "album": {
+      "name": "南 极 星",
+      "link": "https://music.163.com/album?id=74174027"
+    }
+  },
+  {
+    "name": "The Song Of Doremi",
+    "link": "https://music.163.com/song?id=454438494",
+    "duration": "02:33",
+    "artists": [
+      { "name": "林澜叶", "link": "https://music.163.com/artist?id=817092" }
+    ],
+    "album": {
+      "name": "Dream into Melody",
+      "link": "https://music.163.com/album?id=35138048"
+    }
+  },
+  {
+    "name": "You're My Life",
+    "link": "https://music.163.com/song?id=488256567",
+    "duration": "03:33",
+    "artists": [
+      { "name": "ThimLife", "link": "https://music.163.com/artist?id=1046016" },
+      {
+        "name": "Julia Lauber",
+        "link": "https://music.163.com/artist?id=28054700"
+      }
+    ],
+    "album": {
+      "name": "You're My Life",
+      "link": "https://music.163.com/album?id=35696397"
+    }
+  },
+  {
+    "name": "QAQ",
+    "link": "https://music.163.com/song?id=482084496",
+    "duration": "02:47",
+    "artists": [
+      { "name": "u3rt", "link": "https://music.163.com/artist?id=12338326" }
+    ],
+    "album": { "name": "My", "link": "https://music.163.com/album?id=35574206" }
+  },
+  {
+    "name": "I Like Me Better",
+    "link": "https://music.163.com/song?id=479223413",
+    "duration": "03:17",
+    "artists": [
+      { "name": "Lauv", "link": "https://music.163.com/artist?id=1057226" }
+    ],
+    "album": {
+      "name": "I Like Me Better",
+      "link": "https://music.163.com/album?id=35536102"
+    }
+  },
+  {
+    "name": "晨",
+    "link": "https://music.163.com/song?id=472685705",
+    "duration": "03:24",
+    "artists": [
+      {
+        "name": "Frank_Jiang",
+        "link": "https://music.163.com/artist?id=12198951"
+      }
+    ],
+    "album": { "name": "晨", "link": "https://music.163.com/album?id=35373761" }
+  },
+  {
+    "name": "Surya",
+    "link": "https://music.163.com/song?id=1354529004",
+    "duration": "02:50",
+    "artists": [
+      {
+        "name": "22 Bullets",
+        "link": "https://music.163.com/artist?id=1182656"
+      },
+      { "name": "RMCM", "link": "https://music.163.com/artist?id=12290236" }
+    ],
+    "album": {
+      "name": "Surya",
+      "link": "https://music.163.com/album?id=78216518"
+    }
+  },
+  {
+    "name": "Fine",
+    "link": "https://music.163.com/song?id=1345076086",
+    "duration": "03:19",
+    "artists": [
+      {
+        "name": "IslandWind",
+        "link": "https://music.163.com/artist?id=13537270"
+      },
+      {
+        "name": "PIKASONIC",
+        "link": "https://music.163.com/artist?id=13499634"
+      },
+      { "name": "PLEEG", "link": "https://music.163.com/artist?id=12935595" }
+    ],
+    "album": {
+      "name": "Fine",
+      "link": "https://music.163.com/album?id=75436611"
+    }
+  },
+  {
+    "name": "盛夏与蝉鸣",
+    "link": "https://music.163.com/song?id=557850882",
+    "duration": "02:50",
+    "artists": [
+      { "name": "Hea2t", "link": "https://music.163.com/artist?id=12020036" }
+    ],
+    "album": {
+      "name": "盛夏与蝉鸣",
+      "link": "https://music.163.com/album?id=38603157"
+    }
+  },
+  {
+    "name": "梦回古城(feat. 洛天依)",
+    "link": "https://music.163.com/song?id=1363408289",
+    "duration": "03:30",
+    "artists": [
+      { "name": "Hope Boy", "link": "https://music.163.com/artist?id=12851419" }
+    ],
+    "album": {
+      "name": "梦回古城(feat. 洛天依)",
+      "link": "https://music.163.com/album?id=78536302"
+    }
+  },
+  {
+    "name": "Reprieve",
+    "link": "https://music.163.com/song?id=30569879",
+    "duration": "04:14",
+    "artists": [
+      {
+        "name": "Vallis Alps",
+        "link": "https://music.163.com/artist?id=1050143"
+      }
+    ],
+    "album": {
+      "name": "Vallis Alps",
+      "link": "https://music.163.com/album?id=3102736"
+    }
+  },
+  {
+    "name": "星芒(Feat.洛天依)",
+    "link": "https://music.163.com/song?id=1378626275",
+    "duration": "04:30",
+    "artists": [
+      {
+        "name": "HawkLegend",
+        "link": "https://music.163.com/artist?id=12272947"
+      }
+    ],
+    "album": {
+      "name": "星芒(Feat.洛天依)",
+      "link": "https://music.163.com/album?id=80420008"
+    }
+  },
+  {
+    "name": "Key (Inukshuk Remix)",
+    "link": "https://music.163.com/song?id=529814196",
+    "duration": "03:38",
+    "artists": [
+      { "name": "Inukshuk", "link": "https://music.163.com/artist?id=1115191" },
+      {
+        "name": "Virtual Self",
+        "link": "https://music.163.com/artist?id=12773843"
+      }
+    ],
+    "album": {
+      "name": "Key (Inukshuk Remix)",
+      "link": "https://music.163.com/album?id=37256042"
+    }
+  },
+  {
+    "name": "Dancin (Krono Remix)",
+    "link": "https://music.163.com/song?id=439121233",
+    "duration": "03:18",
+    "artists": [
+      {
+        "name": "Aaron Smith",
+        "link": "https://music.163.com/artist?id=145965"
+      },
+      { "name": "Luvli", "link": "https://music.163.com/artist?id=296961" },
+      { "name": "Krono", "link": "https://music.163.com/artist?id=438424" }
+    ],
+    "album": {
+      "name": "Dancin",
+      "link": "https://music.163.com/album?id=34975067"
+    }
+  },
+  {
+    "name": "Just The Same",
+    "link": "https://music.163.com/song?id=533455199",
+    "duration": "03:31",
+    "artists": [
+      {
+        "name": "Charlotte Lawrence",
+        "link": "https://music.163.com/artist?id=12335330"
+      }
+    ],
+    "album": {
+      "name": "Just The Same",
+      "link": "https://music.163.com/album?id=37391328"
+    }
+  },
+  {
+    "name": "Floating With You",
+    "link": "https://music.163.com/song?id=407450734",
+    "duration": "03:39",
+    "artists": [
+      { "name": "Vexento", "link": "https://music.163.com/artist?id=12037010" }
+    ],
+    "album": {
+      "name": "Floating With You",
+      "link": "https://music.163.com/album?id=34567435"
+    }
+  },
+  {
+    "name": "Destroy Me",
+    "link": "https://music.163.com/song?id=33035576",
+    "duration": "03:56",
+    "artists": [
+      { "name": "Project 46", "link": "https://music.163.com/artist?id=776674" }
+    ],
+    "album": {
+      "name": "Beautiful",
+      "link": "https://music.163.com/album?id=3158277"
+    }
+  },
+  {
+    "name": "No Promises",
+    "link": "https://music.163.com/song?id=467952465",
+    "duration": "03:43",
+    "artists": [
+      {
+        "name": "Cheat Codes",
+        "link": "https://music.163.com/artist?id=1078252"
+      },
+      { "name": "Demi Lovato", "link": "https://music.163.com/artist?id=53236" }
+    ],
+    "album": {
+      "name": "No Promises",
+      "link": "https://music.163.com/album?id=35326218"
+    }
+  },
+  {
+    "name": "-The Loneliest Girl (TSAR / Carole & Tuesday Remix)（TSAR Remix）",
+    "link": "https://music.163.com/song?id=1366098786",
+    "duration": "04:40",
+    "artists": [
+      { "name": "TSAR", "link": "https://music.163.com/artist?id=1050510" }
+    ],
+    "album": {
+      "name": "CAROLE & TUESDAY",
+      "link": "https://music.163.com/album?id=79117651"
+    }
+  },
+  {
+    "name": "Twenty-two",
+    "link": "https://music.163.com/song?id=535361577",
+    "duration": "04:28",
+    "artists": [
+      { "name": "Moderian", "link": "https://music.163.com/artist?id=12270226" }
+    ],
+    "album": {
+      "name": "Twenty-two",
+      "link": "https://music.163.com/album?id=37436905"
+    }
+  },
+  {
+    "name": "Save Me",
+    "link": "https://music.163.com/song?id=477250181",
+    "duration": "04:08",
+    "artists": [
+      {
+        "name": "Zero Venture",
+        "link": "https://music.163.com/artist?id=1150141"
+      },
+      {
+        "name": "telepathics",
+        "link": "https://music.163.com/artist?id=12279871"
+      }
+    ],
+    "album": {
+      "name": "Save Me",
+      "link": "https://music.163.com/album?id=35456543"
+    }
+  },
+  {
+    "name": "Dreamer",
+    "link": "https://music.163.com/song?id=1365331138",
+    "duration": "03:42",
+    "artists": [
+      {
+        "name": "Seantonio",
+        "link": "https://music.163.com/artist?id=32190601"
+      }
+    ],
+    "album": {
+      "name": "The Travel",
+      "link": "https://music.163.com/album?id=79120526"
+    }
+  },
+  {
+    "name": "Zodiac",
+    "link": "https://music.163.com/song?id=41632841",
+    "duration": "02:53",
+    "artists": [
+      { "name": "DRYM", "link": "https://music.163.com/artist?id=1192413" }
+    ],
+    "album": {
+      "name": "A State Of Trance Radio Top 20 - January 2016",
+      "link": "https://music.163.com/album?id=3443639"
+    }
+  },
+  {
+    "name": "征 (Conquest)",
+    "link": "https://music.163.com/song?id=483240706",
+    "duration": "03:55",
+    "artists": [
+      { "name": "Snikm", "link": "https://music.163.com/artist?id=12119610" }
+    ],
+    "album": { "name": "征", "link": "https://music.163.com/album?id=35592274" }
+  },
+  {
+    "name": "One Night",
+    "link": "https://music.163.com/song?id=425295074",
+    "duration": "03:46",
+    "artists": [
+      { "name": "SHANAHAN", "link": "https://music.163.com/artist?id=1039840" }
+    ],
+    "album": {
+      "name": "One Night",
+      "link": "https://music.163.com/album?id=34816334"
+    }
+  },
+  {
+    "name": "冬眠",
+    "link": "https://music.163.com/song?id=1398663411",
+    "duration": "04:29",
+    "artists": [
+      { "name": "司南", "link": "https://music.163.com/artist?id=28863695" }
+    ],
+    "album": {
+      "name": "冬眠",
+      "link": "https://music.163.com/album?id=82655016"
+    }
+  }
+]

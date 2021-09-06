@@ -1,0 +1,440 @@
+[
+  {
+    "name": "Closer Than You",
+    "link": "https://music.163.com/song?id=1489265170",
+    "duration": "03:39",
+    "artists": [
+      {
+        "name": "William Black",
+        "link": "https://music.163.com/artist?id=248957"
+      },
+      { "name": "AMIDY", "link": "https://music.163.com/artist?id=12203566" }
+    ],
+    "album": {
+      "name": "Closer Than You",
+      "link": "https://music.163.com/album?id=97227406"
+    }
+  },
+  {
+    "name": "First Time",
+    "link": "https://music.163.com/song?id=1368709104",
+    "duration": "02:22",
+    "artists": [
+      { "name": "Grey", "link": "https://music.163.com/artist?id=58424" },
+      { "name": "Robinson", "link": "https://music.163.com/artist?id=12448024" }
+    ],
+    "album": {
+      "name": "First Time",
+      "link": "https://music.163.com/album?id=79512828"
+    }
+  },
+  {
+    "name": "Find Yourself",
+    "link": "https://music.163.com/song?id=480583051",
+    "duration": "02:56",
+    "artists": [
+      {
+        "name": "Great Good Fine OK",
+        "link": "https://music.163.com/artist?id=905068"
+      },
+      {
+        "name": "Before You Exit",
+        "link": "https://music.163.com/artist?id=88867"
+      }
+    ],
+    "album": {
+      "name": "Find Yourself",
+      "link": "https://music.163.com/album?id=35555067"
+    }
+  },
+  {
+    "name": "Quite Miss Home (Steve Void Remix)",
+    "link": "https://music.163.com/song?id=1404947771",
+    "duration": "03:40",
+    "artists": [
+      {
+        "name": "James Arthur",
+        "link": "https://music.163.com/artist?id=673004"
+      },
+      {
+        "name": "Steve Void",
+        "link": "https://music.163.com/artist?id=12062200"
+      }
+    ],
+    "album": {
+      "name": "Quite Miss Home (Steve Void Remix)",
+      "link": "https://music.163.com/album?id=83545657"
+    }
+  },
+  {
+    "name": "Heart Shaped Box",
+    "link": "https://music.163.com/song?id=1421380899",
+    "duration": "04:50",
+    "artists": [
+      { "name": "Neovaii", "link": "https://music.163.com/artist?id=12356095" }
+    ],
+    "album": {
+      "name": "Closure",
+      "link": "https://music.163.com/album?id=85525885"
+    }
+  },
+  {
+    "name": "Don't Touch the Ground",
+    "link": "https://music.163.com/song?id=1316563714",
+    "duration": "03:03",
+    "artists": [
+      { "name": "Foria", "link": "https://music.163.com/artist?id=1181950" }
+    ],
+    "album": {
+      "name": "Don't Touch the Ground",
+      "link": "https://music.163.com/album?id=73468366"
+    }
+  },
+  {
+    "name": "Destroy Me",
+    "link": "https://music.163.com/song?id=33035576",
+    "duration": "03:56",
+    "artists": [
+      { "name": "Project 46", "link": "https://music.163.com/artist?id=776674" }
+    ],
+    "album": {
+      "name": "Beautiful",
+      "link": "https://music.163.com/album?id=3158277"
+    }
+  },
+  {
+    "name": "Wrap Me In Plastic",
+    "link": "https://music.163.com/song?id=1383205688",
+    "duration": "03:13",
+    "artists": [
+      {
+        "name": "CHROMANCE",
+        "link": "https://music.163.com/artist?id=32965506"
+      },
+      {
+        "name": "Marcus Layton",
+        "link": "https://music.163.com/artist?id=1132101"
+      }
+    ],
+    "album": {
+      "name": "Wrap Me In Plastic",
+      "link": "https://music.163.com/album?id=80868365"
+    }
+  },
+  {
+    "name": "Closer",
+    "link": "https://music.163.com/song?id=32944521",
+    "duration": "04:31",
+    "artists": [
+      { "name": "Lemâitre", "link": "https://music.163.com/artist?id=96089" }
+    ],
+    "album": {
+      "name": "Closer",
+      "link": "https://music.163.com/album?id=3174676"
+    }
+  },
+  {
+    "name": "Lookin' For (R3HAB Remix)",
+    "link": "https://music.163.com/song?id=1357799948",
+    "duration": "02:53",
+    "artists": [
+      {
+        "name": "Digital Farm Animals",
+        "link": "https://music.163.com/artist?id=840929"
+      },
+      {
+        "name": "Danny Ocean",
+        "link": "https://music.163.com/artist?id=192438"
+      },
+      { "name": "R3hab", "link": "https://music.163.com/artist?id=197248" }
+    ],
+    "album": {
+      "name": "Lookin' For (R3HAB Remix)",
+      "link": "https://music.163.com/album?id=78424017"
+    }
+  },
+  {
+    "name": "The Woods",
+    "link": "https://music.163.com/song?id=39449186",
+    "duration": "03:58",
+    "artists": [
+      {
+        "name": "Hollow Coves",
+        "link": "https://music.163.com/artist?id=1147102"
+      }
+    ],
+    "album": {
+      "name": "Drifting",
+      "link": "https://music.163.com/album?id=3426914"
+    }
+  },
+  {
+    "name": "Easy Come",
+    "link": "https://music.163.com/song?id=1369930486",
+    "duration": "02:32",
+    "artists": [
+      {
+        "name": "Antoine Chambe",
+        "link": "https://music.163.com/artist?id=1177057"
+      }
+    ],
+    "album": {
+      "name": "Youth",
+      "link": "https://music.163.com/album?id=79619579"
+    }
+  },
+  {
+    "name": "Coming Down",
+    "link": "https://music.163.com/song?id=1356146948",
+    "duration": "02:47",
+    "artists": [
+      { "name": "Kiddo", "link": "https://music.163.com/artist?id=63446" },
+      { "name": "GASHI", "link": "https://music.163.com/artist?id=13056064" }
+    ],
+    "album": {
+      "name": "Coming Down",
+      "link": "https://music.163.com/album?id=78291631"
+    }
+  },
+  {
+    "name": "Hypnotic",
+    "link": "https://music.163.com/song?id=30967821",
+    "duration": "02:56",
+    "artists": [
+      { "name": "Zella Day", "link": "https://music.163.com/artist?id=900106" }
+    ],
+    "album": {
+      "name": "Kicker",
+      "link": "https://music.163.com/album?id=3107109"
+    }
+  },
+  {
+    "name": "When I'm with You",
+    "link": "https://music.163.com/song?id=1374382497",
+    "duration": "03:08",
+    "artists": [
+      {
+        "name": "Newclaess",
+        "link": "https://music.163.com/artist?id=13335706"
+      }
+    ],
+    "album": {
+      "name": "When I'm with You",
+      "link": "https://music.163.com/album?id=80035004"
+    }
+  },
+  {
+    "name": "By The River",
+    "link": "https://music.163.com/song?id=1346111359",
+    "duration": "03:32",
+    "artists": [
+      { "name": "FEWZ", "link": "https://music.163.com/artist?id=12008133" }
+    ],
+    "album": {
+      "name": "By The River",
+      "link": "https://music.163.com/album?id=75558383"
+    }
+  },
+  {
+    "name": "Real Love",
+    "link": "https://music.163.com/song?id=1357428560",
+    "duration": "03:14",
+    "artists": [
+      {
+        "name": "Asketa & Natan Chaim",
+        "link": "https://music.163.com/artist?id=32523005"
+      },
+      {
+        "name": "Kyle Reynolds",
+        "link": "https://music.163.com/artist?id=1179061"
+      }
+    ],
+    "album": {
+      "name": "Real Love EP",
+      "link": "https://music.163.com/album?id=78376659"
+    }
+  },
+  {
+    "name": "Hey Brother",
+    "link": "https://music.163.com/song?id=28082567",
+    "duration": "04:15",
+    "artists": [
+      { "name": "Avicii", "link": "https://music.163.com/artist?id=45236" }
+    ],
+    "album": {
+      "name": "The Dome Vol.68",
+      "link": "https://music.163.com/album?id=2724513"
+    }
+  },
+  {
+    "name": "burning 燃烧",
+    "link": "https://music.163.com/song?id=5096876",
+    "duration": "03:59",
+    "artists": [
+      {
+        "name": "Various Artists",
+        "link": "https://music.163.com/artist?id=104700"
+      }
+    ],
+    "album": {
+      "name": "Miss Blues",
+      "link": "https://music.163.com/album?id=503876"
+    }
+  },
+  {
+    "name": "13 Months",
+    "link": "https://music.163.com/song?id=28389677",
+    "duration": "03:20",
+    "artists": [
+      { "name": "Raven", "link": "https://music.163.com/artist?id=30617656" },
+      { "name": "Kleekamp", "link": "https://music.163.com/artist?id=209673" }
+    ],
+    "album": {
+      "name": "Dream Dance Vol.71",
+      "link": "https://music.163.com/album?id=2781623"
+    }
+  },
+  {
+    "name": "The One You Like (Original Mix)",
+    "link": "https://music.163.com/song?id=33314033",
+    "duration": "05:42",
+    "artists": [
+      { "name": "Mark Lower", "link": "https://music.163.com/artist?id=568916" }
+    ],
+    "album": {
+      "name": "The One You Like / This Love Won't Fade",
+      "link": "https://music.163.com/album?id=3196171"
+    }
+  },
+  {
+    "name": "Back In Time",
+    "link": "https://music.163.com/song?id=484314871",
+    "duration": "03:16",
+    "artists": [
+      { "name": "WAVES", "link": "https://music.163.com/artist?id=12230013" }
+    ],
+    "album": {
+      "name": "Back In Time",
+      "link": "https://music.163.com/album?id=35622536"
+    }
+  },
+  {
+    "name": "Uncanny",
+    "link": "https://music.163.com/song?id=439911471",
+    "duration": "03:21",
+    "artists": [
+      {
+        "name": "Paul Garzon",
+        "link": "https://music.163.com/artist?id=12171224"
+      }
+    ],
+    "album": {
+      "name": "Uncanny",
+      "link": "https://music.163.com/album?id=34976421"
+    }
+  },
+  {
+    "name": "Faded (Steve James Remix)",
+    "link": "https://music.163.com/song?id=29046166",
+    "duration": "04:47",
+    "artists": [
+      { "name": "ZHU", "link": "https://music.163.com/artist?id=210132" }
+    ],
+    "album": {
+      "name": " Faded (The Remixes)",
+      "link": "https://music.163.com/album?id=2989025"
+    }
+  },
+  {
+    "name": "Nobody But You (Radio Edit)",
+    "link": "https://music.163.com/song?id=411315345",
+    "duration": "03:43",
+    "artists": [
+      { "name": "Wild∅nes", "link": "https://music.163.com/artist?id=1137146" },
+      {
+        "name": "David Julien",
+        "link": "https://music.163.com/artist?id=1137499"
+      }
+    ],
+    "album": {
+      "name": "Nobody But You",
+      "link": "https://music.163.com/album?id=34686118"
+    }
+  },
+  {
+    "name": "Every Step I Take (feat. Bright Lights) [Album Edit]",
+    "link": "https://music.163.com/song?id=33346296",
+    "duration": "03:42",
+    "artists": [
+      {
+        "name": "Wildstylez",
+        "link": "https://music.163.com/artist?id=666014"
+      },
+      {
+        "name": "Bright Lights",
+        "link": "https://music.163.com/artist?id=905065"
+      }
+    ],
+    "album": {
+      "name": "Lose Control",
+      "link": "https://music.163.com/album?id=3201017"
+    }
+  },
+  {
+    "name": "Single Ladies",
+    "link": "https://music.163.com/song?id=26292050",
+    "duration": "03:42",
+    "artists": [
+      { "name": "Remady", "link": "https://music.163.com/artist?id=42785" },
+      { "name": "J-Son", "link": "https://music.163.com/artist?id=384952" }
+    ],
+    "album": {
+      "name": "The Original 2k13 Edition",
+      "link": "https://music.163.com/album?id=2446184"
+    }
+  },
+  {
+    "name": "Hung Up (Original Mix)",
+    "link": "https://music.163.com/song?id=444269147",
+    "duration": "03:40",
+    "artists": [
+      { "name": "Tritonal", "link": "https://music.163.com/artist?id=104133" },
+      { "name": "Sj", "link": "https://music.163.com/artist?id=288146" },
+      {
+        "name": "Emma Gatsby",
+        "link": "https://music.163.com/artist?id=12086040"
+      }
+    ],
+    "album": {
+      "name": "Hung Up",
+      "link": "https://music.163.com/album?id=35023292"
+    }
+  },
+  {
+    "name": "Mi Amor",
+    "link": "https://music.163.com/song?id=1072982",
+    "duration": "03:20",
+    "artists": [
+      { "name": "Matt Hunter", "link": "https://music.163.com/artist?id=29004" }
+    ],
+    "album": {
+      "name": "Mi Amor",
+      "link": "https://music.163.com/album?id=111827"
+    }
+  },
+  {
+    "name": "Burn Out",
+    "link": "https://music.163.com/song?id=29343906",
+    "duration": "03:43",
+    "artists": [
+      {
+        "name": "Plug In Stereo",
+        "link": "https://music.163.com/artist?id=41537"
+      }
+    ],
+    "album": {
+      "name": "Plug In Stereo",
+      "link": "https://music.163.com/album?id=3010132"
+    }
+  }
+]

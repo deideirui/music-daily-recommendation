@@ -1,0 +1,482 @@
+[
+  {
+    "name": "Next To Me",
+    "link": "https://music.163.com/song?id=1408639572",
+    "duration": "02:53",
+    "artists": [
+      {
+        "name": "jeonghyeon",
+        "link": "https://music.163.com/artist?id=28748581"
+      },
+      {
+        "name": "yourbeagle",
+        "link": "https://music.163.com/artist?id=28264962"
+      }
+    ],
+    "album": {
+      "name": "Next To Me",
+      "link": "https://music.163.com/album?id=83991959"
+    }
+  },
+  {
+    "name": "Like Lovers Do",
+    "link": "https://music.163.com/song?id=1402765837",
+    "duration": "02:34",
+    "artists": [
+      { "name": "NLSN", "link": "https://music.163.com/artist?id=12121013" },
+      {
+        "name": "Bonny Lauren",
+        "link": "https://music.163.com/artist?id=33698310"
+      }
+    ],
+    "album": {
+      "name": "Like Lovers Do",
+      "link": "https://music.163.com/album?id=83212911"
+    }
+  },
+  {
+    "name": "Taking Over",
+    "link": "https://music.163.com/song?id=1363548740",
+    "duration": "02:27",
+    "artists": [
+      {
+        "name": "Edwin Klift",
+        "link": "https://music.163.com/artist?id=32117813"
+      },
+      { "name": "Nanna", "link": "https://music.163.com/artist?id=146774" }
+    ],
+    "album": {
+      "name": "Taking Over",
+      "link": "https://music.163.com/album?id=78953441"
+    }
+  },
+  {
+    "name": "Wear Me Out",
+    "link": "https://music.163.com/song?id=1390390581",
+    "duration": "02:38",
+    "artists": [
+      {
+        "name": "Ralph Felix",
+        "link": "https://music.163.com/artist?id=12262651"
+      },
+      {
+        "name": "Amy Grace",
+        "link": "https://music.163.com/artist?id=29836145"
+      }
+    ],
+    "album": {
+      "name": "Wear Me Out",
+      "link": "https://music.163.com/album?id=81579565"
+    }
+  },
+  {
+    "name": "Bad Habit",
+    "link": "https://music.163.com/song?id=1433603448",
+    "duration": "02:56",
+    "artists": [
+      { "name": "Notalike", "link": "https://music.163.com/artist?id=13902656" }
+    ],
+    "album": {
+      "name": "Bad Habit",
+      "link": "https://music.163.com/album?id=86793131"
+    }
+  },
+  {
+    "name": "How You Love Me (Acoustic Version)",
+    "link": "https://music.163.com/song?id=28987101",
+    "duration": "02:51",
+    "artists": [
+      { "name": "3LAU", "link": "https://music.163.com/artist?id=762511" },
+      {
+        "name": "Bright Lights",
+        "link": "https://music.163.com/artist?id=905065"
+      }
+    ],
+    "album": {
+      "name": "How You Love Me (Acoustic Version)",
+      "link": "https://music.163.com/album?id=2971142"
+    }
+  },
+  {
+    "name": "One More Night",
+    "link": "https://music.163.com/song?id=1406565131",
+    "duration": "02:46",
+    "artists": [
+      {
+        "name": "One of Six",
+        "link": "https://music.163.com/artist?id=30365425"
+      }
+    ],
+    "album": {
+      "name": "One More Night",
+      "link": "https://music.163.com/album?id=83754157"
+    }
+  },
+  {
+    "name": "Dead 2 Me",
+    "link": "https://music.163.com/song?id=1362919228",
+    "duration": "02:45",
+    "artists": [
+      {
+        "name": "Emily Vaughn",
+        "link": "https://music.163.com/artist?id=12049240"
+      }
+    ],
+    "album": {
+      "name": "***** Bops",
+      "link": "https://music.163.com/album?id=78902571"
+    }
+  },
+  {
+    "name": "Test Drive",
+    "link": "https://music.163.com/song?id=1294304120",
+    "duration": "02:53",
+    "artists": [
+      {
+        "name": "Emily Burns",
+        "link": "https://music.163.com/artist?id=12234023"
+      }
+    ],
+    "album": {
+      "name": "Seven Scenes from the Same Summer",
+      "link": "https://music.163.com/album?id=71871673"
+    }
+  },
+  {
+    "name": "Already Know",
+    "link": "https://music.163.com/song?id=1385765724",
+    "duration": "03:50",
+    "artists": [
+      {
+        "name": "Adventure Club",
+        "link": "https://music.163.com/artist?id=792045"
+      },
+      {
+        "name": "Said The Sky",
+        "link": "https://music.163.com/artist?id=1026094"
+      },
+      {
+        "name": "Caly Bevier",
+        "link": "https://music.163.com/artist?id=30322783"
+      }
+    ],
+    "album": {
+      "name": "Already Know",
+      "link": "https://music.163.com/album?id=81077402"
+    }
+  },
+  {
+    "name": "Leave It All",
+    "link": "https://music.163.com/song?id=1301575147",
+    "duration": "05:20",
+    "artists": [
+      { "name": "ARMNHMR", "link": "https://music.163.com/artist?id=1132078" },
+      { "name": "Luma", "link": "https://music.163.com/artist?id=211460" }
+    ],
+    "album": {
+      "name": " Leave It All",
+      "link": "https://music.163.com/album?id=72302646"
+    }
+  },
+  {
+    "name": "Can't Stop Now",
+    "link": "https://music.163.com/song?id=1314121942",
+    "duration": "03:03",
+    "artists": [
+      { "name": "Allie X", "link": "https://music.163.com/artist?id=973030" }
+    ],
+    "album": {
+      "name": "Super Sunset",
+      "link": "https://music.163.com/album?id=73718954"
+    }
+  },
+  {
+    "name": "Sweet Dreams",
+    "link": "https://music.163.com/song?id=550297837",
+    "duration": "02:39",
+    "artists": [
+      {
+        "name": "Breathe Carolina",
+        "link": "https://music.163.com/artist?id=88214"
+      },
+      { "name": "Dropgun", "link": "https://music.163.com/artist?id=972015" },
+      {
+        "name": "Kaleena Zanders",
+        "link": "https://music.163.com/artist?id=13368664"
+      }
+    ],
+    "album": {
+      "name": "Sweet Dreams",
+      "link": "https://music.163.com/album?id=38228875"
+    }
+  },
+  {
+    "name": "Needed You",
+    "link": "https://music.163.com/song?id=507585222",
+    "duration": "05:05",
+    "artists": [
+      { "name": "ILLENIUM", "link": "https://music.163.com/artist?id=1050518" },
+      {
+        "name": "Dia Frampton",
+        "link": "https://music.163.com/artist?id=55454"
+      }
+    ],
+    "album": {
+      "name": "Awake",
+      "link": "https://music.163.com/album?id=36290028"
+    }
+  },
+  {
+    "name": "One More Step",
+    "link": "https://music.163.com/song?id=409031333",
+    "duration": "03:53",
+    "artists": [
+      { "name": "Extan", "link": "https://music.163.com/artist?id=737251" }
+    ],
+    "album": {
+      "name": "One More Step",
+      "link": "https://music.163.com/album?id=34589999"
+    }
+  },
+  {
+    "name": "All I Ever Wanted",
+    "link": "https://music.163.com/song?id=1361804167",
+    "duration": "03:33",
+    "artists": [
+      {
+        "name": "WildVibes",
+        "link": "https://music.163.com/artist?id=1181751"
+      },
+      {
+        "name": "Martin Miller",
+        "link": "https://music.163.com/artist?id=12534226"
+      },
+      {
+        "name": "Arild Aas",
+        "link": "https://music.163.com/artist?id=13436856"
+      }
+    ],
+    "album": {
+      "name": "All I Ever Wanted",
+      "link": "https://music.163.com/album?id=78814883"
+    }
+  },
+  {
+    "name": "One Night",
+    "link": "https://music.163.com/song?id=1344292306",
+    "duration": "03:35",
+    "artists": [
+      { "name": "LeBrock", "link": "https://music.163.com/artist?id=13970913" }
+    ],
+    "album": {
+      "name": "Action & Romance (Remastered)",
+      "link": "https://music.163.com/album?id=75462144"
+    }
+  },
+  {
+    "name": "Cirque",
+    "link": "https://music.163.com/song?id=1429856443",
+    "duration": "03:04",
+    "artists": [
+      {
+        "name": "Sub Urban",
+        "link": "https://music.163.com/artist?id=29722383"
+      }
+    ],
+    "album": {
+      "name": "Thrill Seeker",
+      "link": "https://music.163.com/album?id=86393157"
+    }
+  },
+  {
+    "name": "All We Do ",
+    "link": "https://music.163.com/song?id=32897951",
+    "duration": "03:28",
+    "artists": [
+      { "name": "Oh Wonder", "link": "https://music.163.com/artist?id=1050128" }
+    ],
+    "album": {
+      "name": " All We Do  ",
+      "link": "https://music.163.com/album?id=3109468"
+    }
+  },
+  {
+    "name": "Hard Rock House (Radio Edit)",
+    "link": "https://music.163.com/song?id=29713344",
+    "duration": "03:25",
+    "artists": [
+      {
+        "name": "Maison & Dragen",
+        "link": "https://music.163.com/artist?id=193179"
+      }
+    ],
+    "album": {
+      "name": "DJ Box - November 2014",
+      "link": "https://music.163.com/album?id=3064066"
+    }
+  },
+  {
+    "name": "Roll 'n Rock",
+    "link": "https://music.163.com/song?id=1395041190",
+    "duration": "02:30",
+    "artists": [
+      {
+        "name": "Bali Bandits",
+        "link": "https://music.163.com/artist?id=1016007"
+      }
+    ],
+    "album": {
+      "name": "Roll 'N Rock",
+      "link": "https://music.163.com/album?id=82145581"
+    }
+  },
+  {
+    "name": "Heart Shaped Box",
+    "link": "https://music.163.com/song?id=1421380899",
+    "duration": "04:50",
+    "artists": [
+      { "name": "Neovaii", "link": "https://music.163.com/artist?id=12356095" }
+    ],
+    "album": {
+      "name": "Closure",
+      "link": "https://music.163.com/album?id=85525885"
+    }
+  },
+  {
+    "name": "Fall Away",
+    "link": "https://music.163.com/song?id=37095437",
+    "duration": "05:10",
+    "artists": [
+      { "name": "Feint", "link": "https://music.163.com/artist?id=93062" }
+    ],
+    "album": {
+      "name": "Fall Away",
+      "link": "https://music.163.com/album?id=3414372"
+    }
+  },
+  {
+    "name": "October",
+    "link": "https://music.163.com/song?id=1388327265",
+    "duration": "04:00",
+    "artists": [
+      {
+        "name": "Alessia Cara",
+        "link": "https://music.163.com/artist?id=1074089"
+      }
+    ],
+    "album": {
+      "name": "This Summer",
+      "link": "https://music.163.com/album?id=81599529"
+    }
+  },
+  {
+    "name": "Blame It On The Kids",
+    "link": "https://music.163.com/song?id=1386887797",
+    "duration": "03:16",
+    "artists": [
+      { "name": "AViVA", "link": "https://music.163.com/artist?id=12074178" }
+    ],
+    "album": {
+      "name": "Blame It On The Kids",
+      "link": "https://music.163.com/album?id=81175443"
+    }
+  },
+  {
+    "name": "Dreaming (feat. Luma)",
+    "link": "https://music.163.com/song?id=1420650860",
+    "duration": "04:43",
+    "artists": [
+      {
+        "name": "Last Heroes",
+        "link": "https://music.163.com/artist?id=11987034"
+      },
+      { "name": "Luma", "link": "https://music.163.com/artist?id=211460" }
+    ],
+    "album": {
+      "name": "Dreaming (feat. Luma)",
+      "link": "https://music.163.com/album?id=85434753"
+    }
+  },
+  {
+    "name": "Still",
+    "link": "https://music.163.com/song?id=1418510707",
+    "duration": "03:27",
+    "artists": [
+      { "name": "Glacier", "link": "https://music.163.com/artist?id=860352" }
+    ],
+    "album": {
+      "name": "Temple Inward",
+      "link": "https://music.163.com/album?id=85175335"
+    }
+  },
+  {
+    "name": "Legends (feat. TeamMate)",
+    "link": "https://music.163.com/song?id=41647482",
+    "duration": "04:32",
+    "artists": [
+      { "name": "Razihel", "link": "https://music.163.com/artist?id=331285" }
+    ],
+    "album": {
+      "name": "Monstercat - Best of 2015",
+      "link": "https://music.163.com/album?id=3451175"
+    }
+  },
+  {
+    "name": "I'll Give You The World (feat. JVMIE)",
+    "link": "https://music.163.com/song?id=543987386",
+    "duration": "04:14",
+    "artists": [
+      { "name": "QUIX", "link": "https://music.163.com/artist?id=1174028" },
+      { "name": "JVMIE", "link": "https://music.163.com/artist?id=14042600" }
+    ],
+    "album": {
+      "name": "I'll Give You The World (feat. JVMIE)",
+      "link": "https://music.163.com/album?id=37888066"
+    }
+  },
+  {
+    "name": "ON MY WAY(prod.Redkiller)",
+    "link": "https://music.163.com/song?id=1425643841",
+    "duration": "03:33",
+    "artists": [
+      {
+        "name": "damoclesdontkill",
+        "link": "https://music.163.com/artist?id=32954400"
+      }
+    ],
+    "album": {
+      "name": "ON MY WAY",
+      "link": "https://music.163.com/album?id=85950830"
+    }
+  },
+  {
+    "name": "NORF",
+    "link": "https://music.163.com/song?id=1418253395",
+    "duration": "03:18",
+    "artists": [
+      {
+        "name": "Slumberjack",
+        "link": "https://music.163.com/artist?id=419221"
+      }
+    ],
+    "album": {
+      "name": "Black & Blue",
+      "link": "https://music.163.com/album?id=85142013"
+    }
+  },
+  {
+    "name": "You and I",
+    "link": "https://music.163.com/song?id=536396470",
+    "duration": "03:31",
+    "artists": [
+      {
+        "name": "Millie Turner",
+        "link": "https://music.163.com/artist?id=12505975"
+      }
+    ],
+    "album": {
+      "name": "Eyes on You",
+      "link": "https://music.163.com/album?id=37568180"
+    }
+  }
+]

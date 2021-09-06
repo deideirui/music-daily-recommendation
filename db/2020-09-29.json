@@ -1,0 +1,446 @@
+[
+  {
+    "name": "Next To Me",
+    "link": "https://music.163.com/song?id=552575409",
+    "duration": "02:59",
+    "artists": [
+      {
+        "name": "Axel Johansson",
+        "link": "https://music.163.com/artist?id=12872604"
+      },
+      {
+        "name": "Tina Stachowiak",
+        "link": "https://music.163.com/artist?id=905727"
+      }
+    ],
+    "album": {
+      "name": "Next To Me",
+      "link": "https://music.163.com/album?id=38315215"
+    }
+  },
+  {
+    "name": "Better Now",
+    "link": "https://music.163.com/song?id=1451785950",
+    "duration": "03:04",
+    "artists": [
+      { "name": "Man Cub", "link": "https://music.163.com/artist?id=30816484" },
+      { "name": "jen", "link": "https://music.163.com/artist?id=62737" }
+    ],
+    "album": {
+      "name": "Better Now",
+      "link": "https://music.163.com/album?id=90115197"
+    }
+  },
+  {
+    "name": "When I'm with You",
+    "link": "https://music.163.com/song?id=1374382497",
+    "duration": "03:08",
+    "artists": [
+      {
+        "name": "Newclaess",
+        "link": "https://music.163.com/artist?id=13335706"
+      }
+    ],
+    "album": {
+      "name": "When I'm with You",
+      "link": "https://music.163.com/album?id=80035004"
+    }
+  },
+  {
+    "name": "I Like It",
+    "link": "https://music.163.com/song?id=1393692429",
+    "duration": "02:54",
+    "artists": [
+      {
+        "name": "Sebastian Mateo",
+        "link": "https://music.163.com/artist?id=12416166"
+      },
+      { "name": "Dexum", "link": "https://music.163.com/artist?id=30555322" }
+    ],
+    "album": {
+      "name": "I Like It",
+      "link": "https://music.163.com/album?id=81988275"
+    }
+  },
+  {
+    "name": "Inferno",
+    "link": "https://music.163.com/song?id=475597470",
+    "duration": "04:05",
+    "artists": [
+      { "name": "Hechmann", "link": "https://music.163.com/artist?id=12011121" }
+    ],
+    "album": {
+      "name": "Inferno",
+      "link": "https://music.163.com/album?id=35371911"
+    }
+  },
+  {
+    "name": "Flare",
+    "link": "https://music.163.com/song?id=1423316784",
+    "duration": "03:23",
+    "artists": [
+      { "name": "Vexento", "link": "https://music.163.com/artist?id=12037010" }
+    ],
+    "album": {
+      "name": "Flare",
+      "link": "https://music.163.com/album?id=85725768"
+    }
+  },
+  {
+    "name": "Gone in the Morning",
+    "link": "https://music.163.com/song?id=1364478109",
+    "duration": "03:21",
+    "artists": [
+      {
+        "name": "Liam Ferrari",
+        "link": "https://music.163.com/artist?id=12812995"
+      }
+    ],
+    "album": {
+      "name": "Gone in the Morning",
+      "link": "https://music.163.com/album?id=79047799"
+    }
+  },
+  {
+    "name": "Walking On The Moon (Bad Computer Remix)",
+    "link": "https://music.163.com/song?id=1469144294",
+    "duration": "03:09",
+    "artists": [
+      {
+        "name": "Infected Mushroom",
+        "link": "https://music.163.com/artist?id=35044"
+      },
+      {
+        "name": "Bad Computer",
+        "link": "https://music.163.com/artist?id=12647410"
+      }
+    ],
+    "album": {
+      "name": "Walking on the Moon (Bad Computer Remix)",
+      "link": "https://music.163.com/album?id=93628155"
+    }
+  },
+  {
+    "name": "Downfalls",
+    "link": "https://music.163.com/song?id=1438808727",
+    "duration": "03:10",
+    "artists": [
+      {
+        "name": "Cally Rhodes",
+        "link": "https://music.163.com/artist?id=12603359"
+      }
+    ],
+    "album": {
+      "name": "Downfalls",
+      "link": "https://music.163.com/album?id=87793610"
+    }
+  },
+  {
+    "name": "Dark",
+    "link": "https://music.163.com/song?id=1399606328",
+    "duration": "03:37",
+    "artists": [
+      { "name": "Stonebank", "link": "https://music.163.com/artist?id=938033" }
+    ],
+    "album": {
+      "name": "Life & Death",
+      "link": "https://music.163.com/album?id=82789235"
+    }
+  },
+  {
+    "name": "Used To",
+    "link": "https://music.163.com/song?id=1347814906",
+    "duration": "02:48",
+    "artists": [
+      {
+        "name": "James Carter",
+        "link": "https://music.163.com/artist?id=12047749"
+      },
+      { "name": "Kaii", "link": "https://music.163.com/artist?id=28457718" }
+    ],
+    "album": {
+      "name": "Used To",
+      "link": "https://music.163.com/album?id=75670536"
+    }
+  },
+  {
+    "name": "Lollipop",
+    "link": "https://music.163.com/song?id=1331530075",
+    "duration": "02:30",
+    "artists": [
+      { "name": "Sevenn", "link": "https://music.163.com/artist?id=12777308" }
+    ],
+    "album": {
+      "name": "Lollipop",
+      "link": "https://music.163.com/album?id=74787508"
+    }
+  },
+  {
+    "name": "Dreamer",
+    "link": "https://music.163.com/song?id=1365331138",
+    "duration": "03:42",
+    "artists": [
+      {
+        "name": "Seantonio",
+        "link": "https://music.163.com/artist?id=32190601"
+      }
+    ],
+    "album": {
+      "name": "The Travel",
+      "link": "https://music.163.com/album?id=79120526"
+    }
+  },
+  {
+    "name": "Chin Up",
+    "link": "https://music.163.com/song?id=523250099",
+    "duration": "03:21",
+    "artists": [
+      { "name": "Puppet", "link": "https://music.163.com/artist?id=152355" },
+      {
+        "name": "Azuria Sky",
+        "link": "https://music.163.com/artist?id=12914272"
+      }
+    ],
+    "album": {
+      "name": "Life Overseas EP",
+      "link": "https://music.163.com/album?id=36948028"
+    }
+  },
+  {
+    "name": "Dusk Till Dawn",
+    "link": "https://music.163.com/song?id=524148450",
+    "duration": "03:14",
+    "artists": [
+      { "name": "MADILYN", "link": "https://music.163.com/artist?id=69270" }
+    ],
+    "album": {
+      "name": "Dusk Till Dawn",
+      "link": "https://music.163.com/album?id=36978150"
+    }
+  },
+  {
+    "name": "You're The One",
+    "link": "https://music.163.com/song?id=427542524",
+    "duration": "03:13",
+    "artists": [
+      {
+        "name": "Matthew Steeper",
+        "link": "https://music.163.com/artist?id=1094011"
+      },
+      { "name": "Vorwerk", "link": "https://music.163.com/artist?id=136899" },
+      { "name": "Mazare", "link": "https://music.163.com/artist?id=29718513" }
+    ],
+    "album": {
+      "name": "You're The One (feat. Matthew Steeper)",
+      "link": "https://music.163.com/album?id=34855228"
+    }
+  },
+  {
+    "name": "Don't Kill My Vibe (Gryffin Remix)",
+    "link": "https://music.163.com/song?id=470563290",
+    "duration": "03:50",
+    "artists": [
+      { "name": "Gryffin", "link": "https://music.163.com/artist?id=1181504" },
+      { "name": "Sigrid", "link": "https://music.163.com/artist?id=205795" }
+    ],
+    "album": {
+      "name": "Don't Kill My Vibe (Gryffin Remix)",
+      "link": "https://music.163.com/album?id=35348108"
+    }
+  },
+  {
+    "name": "Weird",
+    "link": "https://music.163.com/song?id=862098838",
+    "duration": "02:44",
+    "artists": [
+      { "name": "TV Noise", "link": "https://music.163.com/artist?id=905771" }
+    ],
+    "album": {
+      "name": "Weird",
+      "link": "https://music.163.com/album?id=71611830"
+    }
+  },
+  {
+    "name": "Tornado",
+    "link": "https://music.163.com/song?id=1358393929",
+    "duration": "03:09",
+    "artists": [
+      { "name": "Trivecta", "link": "https://music.163.com/artist?id=954338" },
+      {
+        "name": "Monika Santucci",
+        "link": "https://music.163.com/artist?id=13989763"
+      }
+    ],
+    "album": {
+      "name": "Tornado",
+      "link": "https://music.163.com/album?id=78490537"
+    }
+  },
+  {
+    "name": "Fluctuate",
+    "link": "https://music.163.com/song?id=425053025",
+    "duration": "05:11",
+    "artists": [
+      { "name": "Elecprok", "link": "https://music.163.com/artist?id=1203041" }
+    ],
+    "album": {
+      "name": "Fluctuate",
+      "link": "https://music.163.com/album?id=34812470"
+    }
+  },
+  {
+    "name": "Good Time (feat. Lola Rhodes) [Sylow Remix]",
+    "link": "https://music.163.com/song?id=1408064773",
+    "duration": "03:49",
+    "artists": [
+      { "name": "Nexeri", "link": "https://music.163.com/artist?id=12463182" },
+      {
+        "name": "Max Oazo",
+        "link": "https://music.163.com/artist?id=13159084"
+      },
+      {
+        "name": "Lola Rhodes",
+        "link": "https://music.163.com/artist?id=13517955"
+      },
+      { "name": "Sylow", "link": "https://music.163.com/artist?id=12132271" }
+    ],
+    "album": {
+      "name": "Good Time (feat. Lola Rhodes) [Remixes]",
+      "link": "https://music.163.com/album?id=83946886"
+    }
+  },
+  {
+    "name": "Without You",
+    "link": "https://music.163.com/song?id=1361391826",
+    "duration": "04:14",
+    "artists": [
+      {
+        "name": "Pascal Letoublon",
+        "link": "https://music.163.com/artist?id=12634325"
+      }
+    ],
+    "album": {
+      "name": "Without You",
+      "link": "https://music.163.com/album?id=78786657"
+    }
+  },
+  {
+    "name": "Сон (Jarico Remix)",
+    "link": "https://music.163.com/song?id=1359699809",
+    "duration": "04:03",
+    "artists": [
+      { "name": "Sam Wick", "link": "https://music.163.com/artist?id=13662712" }
+    ],
+    "album": {
+      "name": "Сон (Jarico Remix)",
+      "link": "https://music.163.com/album?id=78602219"
+    }
+  },
+  {
+    "name": "How To Love (Acoustic)",
+    "link": "https://music.163.com/song?id=417250187",
+    "duration": "03:21",
+    "artists": [
+      { "name": "Cash Cash", "link": "https://music.163.com/artist?id=50905" },
+      {
+        "name": "Sofia Reyes",
+        "link": "https://music.163.com/artist?id=999195"
+      }
+    ],
+    "album": {
+      "name": "How To Love (Acoustic & Spanish)",
+      "link": "https://music.163.com/album?id=34739104"
+    }
+  },
+  {
+    "name": "City",
+    "link": "https://music.163.com/song?id=1472492918",
+    "duration": "03:15",
+    "artists": [
+      { "name": "BISHU", "link": "https://music.163.com/artist?id=1011005" },
+      {
+        "name": "Sophie Strauss",
+        "link": "https://music.163.com/artist?id=28647537"
+      }
+    ],
+    "album": {
+      "name": "City",
+      "link": "https://music.163.com/album?id=94218796"
+    }
+  },
+  {
+    "name": "Limitless (feat. Sophie Rose)",
+    "link": "https://music.163.com/song?id=504399003",
+    "duration": "03:30",
+    "artists": [
+      { "name": "SAM F", "link": "https://music.163.com/artist?id=12074533" },
+      { "name": "Sophie Rose", "link": "https://music.163.com/artist?id=78099" }
+    ],
+    "album": {
+      "name": "Limitless (feat. Sophie Rose) (Remixes)",
+      "link": "https://music.163.com/album?id=36108321"
+    }
+  },
+  {
+    "name": "On & On",
+    "link": "https://music.163.com/song?id=33579224",
+    "duration": "03:27",
+    "artists": [
+      { "name": "Cartoon", "link": "https://music.163.com/artist?id=51293" },
+      { "name": "Daniel Levi", "link": "https://music.163.com/artist?id=32220" }
+    ],
+    "album": {
+      "name": "On & On",
+      "link": "https://music.163.com/album?id=3227226"
+    }
+  },
+  {
+    "name": "Scars To Your Beautiful",
+    "link": "https://music.163.com/song?id=36587834",
+    "duration": "03:50",
+    "artists": [
+      {
+        "name": "Alessia Cara",
+        "link": "https://music.163.com/artist?id=1074089"
+      }
+    ],
+    "album": {
+      "name": "Know-It-All",
+      "link": "https://music.163.com/album?id=3391032"
+    }
+  },
+  {
+    "name": "To The Back",
+    "link": "https://music.163.com/song?id=1425212271",
+    "duration": "02:35",
+    "artists": [
+      {
+        "name": "Dirty Palm",
+        "link": "https://music.163.com/artist?id=1155029"
+      },
+      {
+        "name": "Purple Velvet Curtains",
+        "link": "https://music.163.com/artist?id=12713738"
+      }
+    ],
+    "album": {
+      "name": "To The Back",
+      "link": "https://music.163.com/album?id=85922701"
+    }
+  },
+  {
+    "name": "All For You",
+    "link": "https://music.163.com/song?id=1384056976",
+    "duration": "03:26",
+    "artists": [
+      {
+        "name": "The Waked",
+        "link": "https://music.163.com/artist?id=13974125"
+      }
+    ],
+    "album": {
+      "name": "All For You",
+      "link": "https://music.163.com/album?id=80930389"
+    }
+  }
+]

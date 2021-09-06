@@ -1,0 +1,480 @@
+[
+  {
+    "name": "Wanted",
+    "link": "https://music.163.com/song?id=1393557000",
+    "duration": "02:41",
+    "artists": [
+      { "name": "NOTD", "link": "https://music.163.com/artist?id=12262306" },
+      { "name": "Daya", "link": "https://music.163.com/artist?id=1081186" }
+    ],
+    "album": {
+      "name": "Wanted",
+      "link": "https://music.163.com/album?id=81973693"
+    }
+  },
+  {
+    "name": "Ecstasy (Club Mix)",
+    "link": "https://music.163.com/song?id=16336636",
+    "duration": "05:25",
+    "artists": [
+      { "name": "ATB", "link": "https://music.163.com/artist?id=27623" }
+    ],
+    "album": {
+      "name": "Ecstasy",
+      "link": "https://music.163.com/album?id=1506751"
+    }
+  },
+  {
+    "name": "Save Me",
+    "link": "https://music.163.com/song?id=407862280",
+    "duration": "06:14",
+    "artists": [
+      {
+        "name": "Gareth Emery",
+        "link": "https://music.163.com/artist?id=34318"
+      },
+      {
+        "name": "Christina Novelli",
+        "link": "https://music.163.com/artist?id=840292"
+      }
+    ],
+    "album": {
+      "name": "100 Reasons To Live",
+      "link": "https://music.163.com/album?id=34590162"
+    }
+  },
+  {
+    "name": "The Air I Breathe",
+    "link": "https://music.163.com/song?id=862098822",
+    "duration": "03:35",
+    "artists": [
+      {
+        "name": "Richard Durand",
+        "link": "https://music.163.com/artist?id=42207"
+      }
+    ],
+    "album": {
+      "name": "The Air I Breathe",
+      "link": "https://music.163.com/album?id=71612853"
+    }
+  },
+  {
+    "name": "Run It",
+    "link": "https://music.163.com/song?id=1408825563",
+    "duration": "03:39",
+    "artists": [
+      {
+        "name": "Midnight Kids",
+        "link": "https://music.163.com/artist?id=13192314"
+      },
+      {
+        "name": "Annika Wells",
+        "link": "https://music.163.com/artist?id=12108797"
+      }
+    ],
+    "album": {
+      "name": "Run It",
+      "link": "https://music.163.com/album?id=84008492"
+    }
+  },
+  {
+    "name": "Kissing Other People (R3HAB Remix)",
+    "link": "https://music.163.com/song?id=1417908543",
+    "duration": "02:27",
+    "artists": [
+      {
+        "name": "Lennon Stella",
+        "link": "https://music.163.com/artist?id=12213160"
+      },
+      { "name": "R3hab", "link": "https://music.163.com/artist?id=197248" }
+    ],
+    "album": {
+      "name": "Kissing Other People (R3HAB Remix)",
+      "link": "https://music.163.com/album?id=85101116"
+    }
+  },
+  {
+    "name": "Alien",
+    "link": "https://music.163.com/song?id=1334345267",
+    "duration": "02:49",
+    "artists": [
+      { "name": "Omnia", "link": "https://music.163.com/artist?id=179006" }
+    ],
+    "album": {
+      "name": "A State Of Trance Year Mix 2016 (Mixed by Armin van Buuren)",
+      "link": "https://music.163.com/album?id=74931089"
+    }
+  },
+  {
+    "name": "Erytheia (Original Mix)",
+    "link": "https://music.163.com/song?id=458238461",
+    "duration": "06:36",
+    "artists": [
+      {
+        "name": "Simon O'Shine",
+        "link": "https://music.163.com/artist?id=207035"
+      },
+      {
+        "name": "Ahmed Romel",
+        "link": "https://music.163.com/artist?id=191841"
+      }
+    ],
+    "album": {
+      "name": "Erytheia",
+      "link": "https://music.163.com/album?id=35158377"
+    }
+  },
+  {
+    "name": "Push Through (Extended Mix)",
+    "link": "https://music.163.com/song?id=548060273",
+    "duration": "08:10",
+    "artists": [
+      {
+        "name": "Fady & Mina",
+        "link": "https://music.163.com/artist?id=199560"
+      },
+      { "name": "Leolani", "link": "https://music.163.com/artist?id=13190039" }
+    ],
+    "album": {
+      "name": "Push Through",
+      "link": "https://music.163.com/album?id=38052128"
+    }
+  },
+  {
+    "name": "Sphinx (Original Mix)",
+    "link": "https://music.163.com/song?id=417833382",
+    "duration": "06:34",
+    "artists": [
+      {
+        "name": "Matt Bukovski",
+        "link": "https://music.163.com/artist?id=711657"
+      },
+      {
+        "name": "Andy Elliass",
+        "link": "https://music.163.com/artist?id=447682"
+      }
+    ],
+    "album": {
+      "name": "Sphinx",
+      "link": "https://music.163.com/album?id=34739628"
+    }
+  },
+  {
+    "name": "Live Forever (Gareth Emery Remix)",
+    "link": "https://music.163.com/song?id=459720202",
+    "duration": "03:26",
+    "artists": [
+      {
+        "name": "Ferry Corsten",
+        "link": "https://music.163.com/artist?id=33395"
+      },
+      { "name": "Aruna", "link": "https://music.163.com/artist?id=201130" },
+      {
+        "name": "Gareth Emery",
+        "link": "https://music.163.com/artist?id=34318"
+      }
+    ],
+    "album": {
+      "name": "Live Forever Remixed",
+      "link": "https://music.163.com/album?id=35176242"
+    }
+  },
+  {
+    "name": "Glisten",
+    "link": "https://music.163.com/song?id=479571057",
+    "duration": "03:29",
+    "artists": [
+      { "name": "浮云心丶", "link": "https://music.163.com/artist?id=12350867" }
+    ],
+    "album": {
+      "name": "Glisten",
+      "link": "https://music.163.com/album?id=35533566"
+    }
+  },
+  {
+    "name": "Magitek (Extended Mix)",
+    "link": "https://music.163.com/song?id=1371064758",
+    "duration": "07:01",
+    "artists": [
+      {
+        "name": "Andrew Bayer",
+        "link": "https://music.163.com/artist?id=28912"
+      }
+    ],
+    "album": {
+      "name": "Magitek",
+      "link": "https://music.163.com/album?id=79716667"
+    }
+  },
+  {
+    "name": "For The One You Love (Extended Mix)",
+    "link": "https://music.163.com/song?id=866220896",
+    "duration": "07:28",
+    "artists": [
+      {
+        "name": "Roger Shah",
+        "link": "https://music.163.com/artist?id=191618"
+      },
+      { "name": "RAM", "link": "https://music.163.com/artist?id=73231" },
+      {
+        "name": "Natalie Gioia",
+        "link": "https://music.163.com/artist?id=839403"
+      }
+    ],
+    "album": {
+      "name": "For The One You Love",
+      "link": "https://music.163.com/album?id=71821895"
+    }
+  },
+  {
+    "name": "No Longer Making Time",
+    "link": "https://music.163.com/song?id=468738015",
+    "duration": "05:48",
+    "artists": [
+      { "name": "Slowdive", "link": "https://music.163.com/artist?id=100003" }
+    ],
+    "album": {
+      "name": "Slowdive",
+      "link": "https://music.163.com/album?id=35297469"
+    }
+  },
+  {
+    "name": "Timeless (Orchestral Trance Intro Mix)",
+    "link": "https://music.163.com/song?id=409430449",
+    "duration": "09:46",
+    "artists": [
+      {
+        "name": "Kelly Andrew",
+        "link": "https://music.163.com/artist?id=196369"
+      }
+    ],
+    "album": {
+      "name": "Timeless",
+      "link": "https://music.163.com/album?id=34609138"
+    }
+  },
+  {
+    "name": "Robbers",
+    "link": "https://music.163.com/song?id=27678541",
+    "duration": "04:14",
+    "artists": [
+      { "name": "The 1975", "link": "https://music.163.com/artist?id=104457" }
+    ],
+    "album": {
+      "name": "The 1975 (Deluxe Edition)",
+      "link": "https://music.163.com/album?id=2659082"
+    }
+  },
+  {
+    "name": "Hypnotise",
+    "link": "https://music.163.com/song?id=411237001",
+    "duration": "03:19",
+    "artists": [
+      { "name": "Polarheart", "link": "https://music.163.com/artist?id=964307" }
+    ],
+    "album": {
+      "name": "Hypnotise",
+      "link": "https://music.163.com/album?id=34678182"
+    }
+  },
+  {
+    "name": "Forever Faces",
+    "link": "https://music.163.com/song?id=1307776279",
+    "duration": "02:59",
+    "artists": [
+      {
+        "name": "Softer Still",
+        "link": "https://music.163.com/artist?id=12073501"
+      }
+    ],
+    "album": {
+      "name": "Forever Faces",
+      "link": "https://music.163.com/album?id=73039178"
+    }
+  },
+  {
+    "name": "Illuminate (Global Influence Remix)",
+    "link": "https://music.163.com/song?id=28184184",
+    "duration": "07:28",
+    "artists": [
+      {
+        "name": "Sergey Shabanov",
+        "link": "https://music.163.com/artist?id=318622"
+      }
+    ],
+    "album": {
+      "name": "Illuminate",
+      "link": "https://music.163.com/album?id=2740479"
+    }
+  },
+  {
+    "name": "Birthplace",
+    "link": "https://music.163.com/song?id=866045310",
+    "duration": "03:10",
+    "artists": [
+      { "name": "Novo Amor", "link": "https://music.163.com/artist?id=904041" }
+    ],
+    "album": {
+      "name": "Birthplace",
+      "link": "https://music.163.com/album?id=71809380"
+    }
+  },
+  {
+    "name": "ハーメルン",
+    "link": "https://music.163.com/song?id=1417870362",
+    "duration": "03:19",
+    "artists": [
+      { "name": "Reol", "link": "https://music.163.com/artist?id=13059968" }
+    ],
+    "album": {
+      "name": "金字塔",
+      "link": "https://music.163.com/album?id=85097755"
+    }
+  },
+  {
+    "name": "No Angels",
+    "link": "https://music.163.com/song?id=1374313054",
+    "duration": "02:58",
+    "artists": [
+      {
+        "name": "Jay Made",
+        "link": "https://music.163.com/artist?id=27863747"
+      },
+      {
+        "name": "Miranda Glory",
+        "link": "https://music.163.com/artist?id=12463504"
+      }
+    ],
+    "album": {
+      "name": "No Angels",
+      "link": "https://music.163.com/album?id=80028149"
+    }
+  },
+  {
+    "name": "Love Of My Control (Original Mix)",
+    "link": "https://music.163.com/song?id=33715039",
+    "duration": "07:13",
+    "artists": [
+      { "name": "Sneijder", "link": "https://music.163.com/artist?id=179847" },
+      {
+        "name": "Christina Novelli",
+        "link": "https://music.163.com/artist?id=840292"
+      }
+    ],
+    "album": {
+      "name": "Love Of My Control",
+      "link": "https://music.163.com/album?id=3233511"
+    }
+  },
+  {
+    "name": "Atlantis",
+    "link": "https://music.163.com/song?id=36271161",
+    "duration": "03:49",
+    "artists": [
+      { "name": "Seafret", "link": "https://music.163.com/artist?id=1018059" }
+    ],
+    "album": {
+      "name": "Atlantis",
+      "link": "https://music.163.com/album?id=3390323"
+    }
+  },
+  {
+    "name": "I Believe",
+    "link": "https://music.163.com/song?id=1370202554",
+    "duration": "03:37",
+    "artists": [
+      {
+        "name": "Jonas Brothers",
+        "link": "https://music.163.com/artist?id=94966"
+      }
+    ],
+    "album": {
+      "name": "Happiness Begins",
+      "link": "https://music.163.com/album?id=79648295"
+    }
+  },
+  {
+    "name": "Running In The Night (feat. Ollie Wride)",
+    "link": "https://music.163.com/song?id=411921883",
+    "duration": "04:30",
+    "artists": [
+      { "name": "FM-84", "link": "https://music.163.com/artist?id=12046467" }
+    ],
+    "album": {
+      "name": "Atlas",
+      "link": "https://music.163.com/album?id=34686652"
+    }
+  },
+  {
+    "name": "Fortress",
+    "link": "https://music.163.com/song?id=403711526",
+    "duration": "03:23",
+    "artists": [
+      { "name": "ILLENIUM", "link": "https://music.163.com/artist?id=1050518" },
+      {
+        "name": "Joni Fatora",
+        "link": "https://music.163.com/artist?id=758231"
+      }
+    ],
+    "album": {
+      "name": "Ashes",
+      "link": "https://music.163.com/album?id=34497141"
+    }
+  },
+  {
+    "name": "All I Want (Extended Mix)",
+    "link": "https://music.163.com/song?id=1383677641",
+    "duration": "06:55",
+    "artists": [
+      {
+        "name": "Ciaran McAuley",
+        "link": "https://music.163.com/artist?id=520913"
+      },
+      {
+        "name": "Clare Stagg",
+        "link": "https://music.163.com/artist?id=665057"
+      }
+    ],
+    "album": {
+      "name": "All I Want",
+      "link": "https://music.163.com/album?id=80899419"
+    }
+  },
+  {
+    "name": "If I Run (Venom One Remix)",
+    "link": "https://music.163.com/song?id=34770369",
+    "duration": "03:18",
+    "artists": [
+      { "name": "Antillas", "link": "https://music.163.com/artist?id=710243" },
+      { "name": "Anki", "link": "https://music.163.com/artist?id=145808" },
+      { "name": "Venom One", "link": "https://music.163.com/artist?id=832516" }
+    ],
+    "album": {
+      "name": "A State Of Trance 729",
+      "link": "https://music.163.com/album?id=3292239"
+    }
+  },
+  {
+    "name": "Horizon (Alan Morris Extended Remix)",
+    "link": "https://music.163.com/song?id=534065501",
+    "duration": "05:42",
+    "artists": [
+      {
+        "name": "Alan Morris",
+        "link": "https://music.163.com/artist?id=193174"
+      },
+      {
+        "name": "Hysteria!",
+        "link": "https://music.163.com/artist?id=12931325"
+      },
+      {
+        "name": "Ferrin & Morris",
+        "link": "https://music.163.com/artist?id=748023"
+      }
+    ],
+    "album": {
+      "name": "Horizon (Alan Morris Remix)",
+      "link": "https://music.163.com/album?id=37443149"
+    }
+  }
+]

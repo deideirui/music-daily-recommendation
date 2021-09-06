@@ -1,0 +1,432 @@
+[
+  {
+    "name": "Close To The Sun",
+    "link": "https://music.163.com/song?id=1392141694",
+    "duration": "03:12",
+    "artists": [
+      {
+        "name": "TheFatRat",
+        "link": "https://music.163.com/artist?id=1019952"
+      },
+      { "name": "Anjulie", "link": "https://music.163.com/artist?id=46502" }
+    ],
+    "album": {
+      "name": "Close To the Sun",
+      "link": "https://music.163.com/album?id=81794674"
+    }
+  },
+  {
+    "name": "We'll Be Alright",
+    "link": "https://music.163.com/song?id=1431471073",
+    "duration": "02:58",
+    "artists": [
+      { "name": "BEAUZ", "link": "https://music.163.com/artist?id=12131436" },
+      { "name": "BSY", "link": "https://music.163.com/artist?id=34372552" },
+      { "name": "JSY", "link": "https://music.163.com/artist?id=34371015" }
+    ],
+    "album": {
+      "name": "We'll Be Alright",
+      "link": "https://music.163.com/album?id=86557896"
+    }
+  },
+  {
+    "name": "Tie Me Down",
+    "link": "https://music.163.com/song?id=1298505546",
+    "duration": "03:38",
+    "artists": [
+      { "name": "Gryffin", "link": "https://music.163.com/artist?id=1181504" },
+      {
+        "name": "Elley Duhé",
+        "link": "https://music.163.com/artist?id=12207014"
+      }
+    ],
+    "album": {
+      "name": "Tie Me Down",
+      "link": "https://music.163.com/album?id=72042813"
+    }
+  },
+  {
+    "name": "Freak On (Radio Edit)",
+    "link": "https://music.163.com/song?id=515947800",
+    "duration": "02:43",
+    "artists": [
+      { "name": "Karlyn", "link": "https://music.163.com/artist?id=571463" },
+      {
+        "name": "Charming Horses",
+        "link": "https://music.163.com/artist?id=1137480"
+      }
+    ],
+    "album": {
+      "name": "Freak On (Radio Edit)",
+      "link": "https://music.163.com/album?id=36689027"
+    }
+  },
+  {
+    "name": "i'm so tired...",
+    "link": "https://music.163.com/song?id=1339216146",
+    "duration": "02:42",
+    "artists": [
+      { "name": "Lauv", "link": "https://music.163.com/artist?id=1057226" },
+      { "name": "Troye Sivan", "link": "https://music.163.com/artist?id=45129" }
+    ],
+    "album": {
+      "name": "i'm so tired...",
+      "link": "https://music.163.com/album?id=75163674"
+    }
+  },
+  {
+    "name": "Dancing With A Stranger",
+    "link": "https://music.163.com/song?id=1338962014",
+    "duration": "02:51",
+    "artists": [
+      { "name": "Sam Smith", "link": "https://music.163.com/artist?id=740216" },
+      { "name": "Normani", "link": "https://music.163.com/artist?id=12330142" }
+    ],
+    "album": {
+      "name": "Dancing With A Stranger",
+      "link": "https://music.163.com/album?id=75135397"
+    }
+  },
+  {
+    "name": "Inside Out (DubVision Remix)",
+    "link": "https://music.163.com/song?id=421246673",
+    "duration": "04:59",
+    "artists": [
+      {
+        "name": "The Chainsmokers",
+        "link": "https://music.163.com/artist?id=893484"
+      },
+      { "name": "DubVision", "link": "https://music.163.com/artist?id=357950" }
+    ],
+    "album": {
+      "name": "Inside Out (DubVision Remix)",
+      "link": "https://music.163.com/album?id=34769972"
+    }
+  },
+  {
+    "name": "When the Sun Goes Down (Extended Mix)",
+    "link": "https://music.163.com/song?id=472948174",
+    "duration": "07:14",
+    "artists": [
+      { "name": "Talamanca", "link": "https://music.163.com/artist?id=355244" }
+    ],
+    "album": {
+      "name": "Arrivals & Departures",
+      "link": "https://music.163.com/album?id=35392056"
+    }
+  },
+  {
+    "name": "風を食む - (饮风)",
+    "link": "https://music.163.com/song?id=1485319473",
+    "duration": "04:29",
+    "artists": [
+      { "name": "ヨルシカ", "link": "https://music.163.com/artist?id=12390232" }
+    ],
+    "album": {
+      "name": "風を食む",
+      "link": "https://music.163.com/album?id=96494813"
+    }
+  },
+  {
+    "name": "Empty (Original mix)",
+    "link": "https://music.163.com/song?id=514121385",
+    "duration": "06:01",
+    "artists": [
+      { "name": "Winterya", "link": "https://music.163.com/artist?id=12777977" }
+    ],
+    "album": {
+      "name": "Empty / Limerence",
+      "link": "https://music.163.com/album?id=36637362"
+    }
+  },
+  {
+    "name": "Freedom (Intro Mix)",
+    "link": "https://music.163.com/song?id=29922248",
+    "duration": "11:28",
+    "artists": [
+      { "name": "SoundLift", "link": "https://music.163.com/artist?id=44015" }
+    ],
+    "album": {
+      "name": "Victorious",
+      "link": "https://music.163.com/album?id=3087024"
+    }
+  },
+  {
+    "name": "Abandoned",
+    "link": "https://music.163.com/song?id=38019035",
+    "duration": "03:04",
+    "artists": [
+      { "name": "Resonance", "link": "https://music.163.com/artist?id=196588" }
+    ],
+    "album": {
+      "name": "Abandoned",
+      "link": "https://music.163.com/album?id=3427011"
+    }
+  },
+  {
+    "name": "Chase the Light",
+    "link": "https://music.163.com/song?id=35310220",
+    "duration": "06:33",
+    "artists": [
+      { "name": "Sundriver", "link": "https://music.163.com/artist?id=143845" }
+    ],
+    "album": {
+      "name": "Silk Royal Showcase 05",
+      "link": "https://music.163.com/album?id=3317050"
+    }
+  },
+  {
+    "name": "Embrace",
+    "link": "https://music.163.com/song?id=485354138",
+    "duration": "04:36",
+    "artists": [
+      {
+        "name": "Sappheiros",
+        "link": "https://music.163.com/artist?id=11995187"
+      }
+    ],
+    "album": {
+      "name": "Embrace",
+      "link": "https://music.163.com/album?id=35645354"
+    }
+  },
+  {
+    "name": "失波 (Lost Frequencis)",
+    "link": "https://music.163.com/song?id=426342468",
+    "duration": "03:15",
+    "artists": [
+      { "name": "R7CKY", "link": "https://music.163.com/artist?id=1044054" }
+    ],
+    "album": {
+      "name": "失波 (Lost Frequencis)",
+      "link": "https://music.163.com/album?id=34829225"
+    }
+  },
+  {
+    "name": "I miss you, I’m sorry",
+    "link": "https://music.163.com/song?id=1462753119",
+    "duration": "02:47",
+    "artists": [
+      {
+        "name": "Gracie Abrams",
+        "link": "https://music.163.com/artist?id=33515545"
+      }
+    ],
+    "album": {
+      "name": "minor",
+      "link": "https://music.163.com/album?id=92408535"
+    }
+  },
+  {
+    "name": "Trust Me",
+    "link": "https://music.163.com/song?id=404783944",
+    "duration": "03:48",
+    "artists": [
+      {
+        "name": "Jordan Kelvin James",
+        "link": "https://music.163.com/artist?id=1120171"
+      },
+      { "name": "Axis", "link": "https://music.163.com/artist?id=139604" }
+    ],
+    "album": {
+      "name": "Trust Me",
+      "link": "https://music.163.com/album?id=34526313"
+    }
+  },
+  {
+    "name": "醒来后的第二天",
+    "link": "https://music.163.com/song?id=1364035764",
+    "duration": "02:16",
+    "artists": [
+      { "name": "马晨阳", "link": "https://music.163.com/artist?id=12111175" }
+    ],
+    "album": {
+      "name": "默剧",
+      "link": "https://music.163.com/album?id=78919504"
+    }
+  },
+  {
+    "name": "Sémillon",
+    "link": "https://music.163.com/song?id=452526756",
+    "duration": "03:05",
+    "artists": [
+      { "name": "尚先生", "link": "https://music.163.com/artist?id=1185054" }
+    ],
+    "album": {
+      "name": "不打烊的小酒馆 贰",
+      "link": "https://music.163.com/album?id=34760075"
+    }
+  },
+  {
+    "name": "My Remedy (Original Mix)",
+    "link": "https://music.163.com/song?id=423314022",
+    "duration": "05:02",
+    "artists": [
+      { "name": "twoloud", "link": "https://music.163.com/artist?id=837342" }
+    ],
+    "album": {
+      "name": "My Remedy",
+      "link": "https://music.163.com/album?id=34790286"
+    }
+  },
+  {
+    "name": "Dizzy",
+    "link": "https://music.163.com/song?id=1333336620",
+    "duration": "02:49",
+    "artists": [
+      {
+        "name": "Lucy Daydream",
+        "link": "https://music.163.com/artist?id=28763347"
+      }
+    ],
+    "album": {
+      "name": "Dizzy / Awake & Dreaming",
+      "link": "https://music.163.com/album?id=74878355"
+    }
+  },
+  {
+    "name": "Last Goodbye (Etasonic & Marc Tatossian Intro Edit)",
+    "link": "https://music.163.com/song?id=41654399",
+    "duration": "07:35",
+    "artists": [
+      {
+        "name": "George Bakh",
+        "link": "https://music.163.com/artist?id=1078241"
+      },
+      { "name": "Etasonic", "link": "https://music.163.com/artist?id=777274" },
+      {
+        "name": "Marc Tatossian",
+        "link": "https://music.163.com/artist?id=29972668"
+      }
+    ],
+    "album": {
+      "name": "Uplifting Only: Fan Favorites 2014-2015",
+      "link": "https://music.163.com/album?id=3451441"
+    }
+  },
+  {
+    "name": "Sky",
+    "link": "https://music.163.com/song?id=1395758797",
+    "duration": "04:35",
+    "artists": [
+      { "name": "Solarstone", "link": "https://music.163.com/artist?id=44234" }
+    ],
+    "album": {
+      "name": "Sky",
+      "link": "https://music.163.com/album?id=82231441"
+    }
+  },
+  {
+    "name": "Indian Summer (Lenno Remix)",
+    "link": "https://music.163.com/song?id=27892215",
+    "duration": "04:23",
+    "artists": [
+      {
+        "name": "Rasmus Faber",
+        "link": "https://music.163.com/artist?id=42480"
+      }
+    ],
+    "album": {
+      "name": "Indian Summer",
+      "link": "https://music.163.com/album?id=2691043"
+    }
+  },
+  {
+    "name": "ilomilo",
+    "link": "https://music.163.com/song?id=1355147938",
+    "duration": "02:36",
+    "artists": [
+      {
+        "name": "Billie Eilish",
+        "link": "https://music.163.com/artist?id=11972054"
+      }
+    ],
+    "album": {
+      "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+      "link": "https://music.163.com/album?id=78243642"
+    }
+  },
+  {
+    "name": "Something More",
+    "link": "https://music.163.com/song?id=34040896",
+    "duration": "03:13",
+    "artists": [
+      { "name": "Kozoro", "link": "https://music.163.com/artist?id=1050567" }
+    ],
+    "album": {
+      "name": "Something More",
+      "link": "https://music.163.com/album?id=3270742"
+    }
+  },
+  {
+    "name": "When I'm with You (Original Mix)",
+    "link": "https://music.163.com/song?id=408328133",
+    "duration": "08:06",
+    "artists": [
+      {
+        "name": "Andy Elliass",
+        "link": "https://music.163.com/artist?id=447682"
+      },
+      { "name": "ARCZI", "link": "https://music.163.com/artist?id=1088070" }
+    ],
+    "album": {
+      "name": "When I'm With You",
+      "link": "https://music.163.com/album?id=34590386"
+    }
+  },
+  {
+    "name": "Spiritual (Full Version)",
+    "link": "https://music.163.com/song?id=31381960",
+    "duration": "04:00",
+    "artists": [
+      { "name": "Andreas B.", "link": "https://music.163.com/artist?id=299713" }
+    ],
+    "album": {
+      "name": "Spiritual",
+      "link": "https://music.163.com/album?id=3111776"
+    }
+  },
+  {
+    "name": "This Is Living (L3V3LS Remix)",
+    "link": "https://music.163.com/song?id=405599986",
+    "duration": "04:38",
+    "artists": [
+      { "name": "L3V3LS", "link": "https://music.163.com/artist?id=12007340" },
+      {
+        "name": "Hillsong Young & Free",
+        "link": "https://music.163.com/artist?id=835002"
+      }
+    ],
+    "album": {
+      "name": "Hillsong Young and Free (L3V3LS Remix)",
+      "link": "https://music.163.com/album?id=34527621"
+    }
+  },
+  {
+    "name": "Sorrow (SoundLift Remix)",
+    "link": "https://music.163.com/song?id=29794527",
+    "duration": "08:05",
+    "artists": [
+      { "name": "Icone", "link": "https://music.163.com/artist?id=1124379" }
+    ],
+    "album": {
+      "name": "Sorrow",
+      "link": "https://music.163.com/album?id=3080210"
+    }
+  },
+  {
+    "name": "Love Yourself",
+    "link": "https://music.163.com/song?id=1848436899",
+    "duration": "03:52",
+    "artists": [
+      {
+        "name": "Justin Bieber",
+        "link": "https://music.163.com/artist?id=35531"
+      }
+    ],
+    "album": {
+      "name": "Best Hits 2010",
+      "link": "https://music.163.com/album?id=128064410"
+    }
+  }
+]

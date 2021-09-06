@@ -1,0 +1,468 @@
+[
+  {
+    "name": "Dance in the Dark",
+    "link": "https://music.163.com/song?id=1375698473",
+    "duration": "02:58",
+    "artists": [
+      { "name": "Au/Ra", "link": "https://music.163.com/artist?id=12143031" }
+    ],
+    "album": {
+      "name": "Dance in the Dark",
+      "link": "https://music.163.com/album?id=80182140"
+    }
+  },
+  {
+    "name": "Need You",
+    "link": "https://music.163.com/song?id=1436967572",
+    "duration": "03:27",
+    "artists": [
+      { "name": "Fablers", "link": "https://music.163.com/artist?id=34751307" },
+      {
+        "name": "Revealed Recordings",
+        "link": "https://music.163.com/artist?id=28753573"
+      },
+      {
+        "name": "Sam Knight",
+        "link": "https://music.163.com/artist?id=30292124"
+      }
+    ],
+    "album": {
+      "name": "Need You",
+      "link": "https://music.163.com/album?id=87507103"
+    }
+  },
+  {
+    "name": "Into Your Eyes",
+    "link": "https://music.163.com/song?id=1441110815",
+    "duration": "03:13",
+    "artists": [
+      {
+        "name": "Jack & James",
+        "link": "https://music.163.com/artist?id=29469070"
+      },
+      {
+        "name": "David Jarvis",
+        "link": "https://music.163.com/artist?id=31181187"
+      },
+      { "name": "Goiza", "link": "https://music.163.com/artist?id=34883518" },
+      {
+        "name": "Revealed Recordings",
+        "link": "https://music.163.com/artist?id=28753573"
+      }
+    ],
+    "album": {
+      "name": "Into Your Eyes",
+      "link": "https://music.163.com/album?id=88110876"
+    }
+  },
+  {
+    "name": "Sober",
+    "link": "https://music.163.com/song?id=1444326036",
+    "duration": "02:42",
+    "artists": [
+      { "name": "Inna", "link": "https://music.163.com/artist?id=60848" }
+    ],
+    "album": {
+      "name": "Sober",
+      "link": "https://music.163.com/album?id=88701874"
+    }
+  },
+  {
+    "name": "Find You (Club Mix)",
+    "link": "https://music.163.com/song?id=529814295",
+    "duration": "03:05",
+    "artists": [
+      {
+        "name": "Charming Horses",
+        "link": "https://music.163.com/artist?id=1137480"
+      }
+    ],
+    "album": {
+      "name": "Find You",
+      "link": "https://music.163.com/album?id=37256058"
+    }
+  },
+  {
+    "name": "Underneath",
+    "link": "https://music.163.com/song?id=1360935072",
+    "duration": "03:41",
+    "artists": [
+      {
+        "name": "Jac & Harri",
+        "link": "https://music.163.com/artist?id=12776287"
+      },
+      {
+        "name": "Nino Lucarelli",
+        "link": "https://music.163.com/artist?id=13954602"
+      }
+    ],
+    "album": {
+      "name": "Underneath",
+      "link": "https://music.163.com/album?id=78734752"
+    }
+  },
+  {
+    "name": "Tokyo Nights",
+    "link": "https://music.163.com/song?id=544247276",
+    "duration": "04:03",
+    "artists": [
+      {
+        "name": "Digital Farm Animals",
+        "link": "https://music.163.com/artist?id=840929"
+      },
+      {
+        "name": "Shaun Frank",
+        "link": "https://music.163.com/artist?id=844064"
+      },
+      { "name": "Dragonette", "link": "https://music.163.com/artist?id=53303" }
+    ],
+    "album": {
+      "name": "Tokyo Nights",
+      "link": "https://music.163.com/album?id=37767347"
+    }
+  },
+  {
+    "name": "Drink About",
+    "link": "https://music.163.com/song?id=550169452",
+    "duration": "03:02",
+    "artists": [
+      { "name": "SeeB", "link": "https://music.163.com/artist?id=1182169" },
+      {
+        "name": "Dagny Norvoll Sandvik",
+        "link": "https://music.163.com/artist?id=1156155"
+      }
+    ],
+    "album": {
+      "name": "Drink About",
+      "link": "https://music.163.com/album?id=38227072"
+    }
+  },
+  {
+    "name": "为你着迷",
+    "link": "https://music.163.com/song?id=1823238284",
+    "duration": "02:29",
+    "artists": [
+      { "name": "辉辉", "link": "https://music.163.com/artist?id=12173070" }
+    ],
+    "album": {
+      "name": "为你着迷",
+      "link": "https://music.163.com/album?id=123598711"
+    }
+  },
+  {
+    "name": "Pay No Mind (Lemaitre Remix)",
+    "link": "https://music.163.com/song?id=34248717",
+    "duration": "03:48",
+    "artists": [
+      { "name": "Madeon", "link": "https://music.163.com/artist?id=40280" },
+      { "name": "Passion Pit", "link": "https://music.163.com/artist?id=41182" }
+    ],
+    "album": {
+      "name": "Pay No Mind (Remixes)",
+      "link": "https://music.163.com/album?id=3275855"
+    }
+  },
+  {
+    "name": "Make You Remember",
+    "link": "https://music.163.com/song?id=573673964",
+    "duration": "03:33",
+    "artists": [
+      {
+        "name": "Your Friends",
+        "link": "https://music.163.com/artist?id=12871356"
+      },
+      {
+        "name": "Lazy Weekends",
+        "link": "https://music.163.com/artist?id=12046750"
+      }
+    ],
+    "album": {
+      "name": "Make You Remember",
+      "link": "https://music.163.com/album?id=39729140"
+    }
+  },
+  {
+    "name": "Paradise",
+    "link": "https://music.163.com/song?id=31134651",
+    "duration": "04:22",
+    "artists": [
+      {
+        "name": "Misael Gauna",
+        "link": "https://music.163.com/artist?id=1054136"
+      }
+    ],
+    "album": {
+      "name": "Paradise",
+      "link": "https://music.163.com/album?id=3112378"
+    }
+  },
+  {
+    "name": "You're Somebody Else",
+    "link": "https://music.163.com/song?id=1353027224",
+    "duration": "03:39",
+    "artists": [
+      {
+        "name": "Flora Cash",
+        "link": "https://music.163.com/artist?id=1132016"
+      }
+    ],
+    "album": {
+      "name": "Press",
+      "link": "https://music.163.com/album?id=75908219"
+    }
+  },
+  {
+    "name": "Flare",
+    "link": "https://music.163.com/song?id=1423316784",
+    "duration": "03:23",
+    "artists": [
+      { "name": "Vexento", "link": "https://music.163.com/artist?id=12037010" }
+    ],
+    "album": {
+      "name": "Flare",
+      "link": "https://music.163.com/album?id=85725768"
+    }
+  },
+  {
+    "name": "Something More",
+    "link": "https://music.163.com/song?id=424849029",
+    "duration": "03:21",
+    "artists": [
+      { "name": "Ralph", "link": "https://music.163.com/artist?id=12049282" }
+    ],
+    "album": {
+      "name": "Something More",
+      "link": "https://music.163.com/album?id=34790571"
+    }
+  },
+  {
+    "name": "Samurai",
+    "link": "https://music.163.com/song?id=1804481955",
+    "duration": "04:08",
+    "artists": [
+      { "name": "Rameses B", "link": "https://music.163.com/artist?id=42898" }
+    ],
+    "album": {
+      "name": "Samurai",
+      "link": "https://music.163.com/album?id=120446957"
+    }
+  },
+  {
+    "name": "Just The Same",
+    "link": "https://music.163.com/song?id=533455199",
+    "duration": "03:31",
+    "artists": [
+      {
+        "name": "Charlotte Lawrence",
+        "link": "https://music.163.com/artist?id=12335330"
+      }
+    ],
+    "album": {
+      "name": "Just The Same",
+      "link": "https://music.163.com/album?id=37391328"
+    }
+  },
+  {
+    "name": "High Society",
+    "link": "https://music.163.com/song?id=28642416",
+    "duration": "03:51",
+    "artists": [
+      { "name": "Betty Who", "link": "https://music.163.com/artist?id=832218" }
+    ],
+    "album": {
+      "name": "Worlds Apart",
+      "link": "https://music.163.com/album?id=2866149"
+    }
+  },
+  {
+    "name": "Party Around the World (Michael Mind Project Remix Edit)",
+    "link": "https://music.163.com/song?id=28111317",
+    "duration": "03:03",
+    "artists": [
+      { "name": "Carlprit", "link": "https://music.163.com/artist?id=30916" },
+      {
+        "name": "Michael Mind Project",
+        "link": "https://music.163.com/artist?id=97036"
+      }
+    ],
+    "album": {
+      "name": "Party Around the World",
+      "link": "https://music.163.com/album?id=2732055"
+    }
+  },
+  {
+    "name": "Waterfall",
+    "link": "https://music.163.com/song?id=33911581",
+    "duration": "07:27",
+    "artists": [
+      {
+        "name": "Luigi Lusini",
+        "link": "https://music.163.com/artist?id=38282"
+      }
+    ],
+    "album": {
+      "name": "I'll Be Home",
+      "link": "https://music.163.com/album?id=3266157"
+    }
+  },
+  {
+    "name": "La La Love",
+    "link": "https://music.163.com/song?id=28652444",
+    "duration": "03:04",
+    "artists": [
+      { "name": "Ivi Adamou", "link": "https://music.163.com/artist?id=60895" }
+    ],
+    "album": {
+      "name": "Ponane Oi Agapes",
+      "link": "https://music.163.com/album?id=2868887"
+    }
+  },
+  {
+    "name": "Love Like You Care",
+    "link": "https://music.163.com/song?id=1299550450",
+    "duration": "03:13",
+    "artists": [
+      { "name": "Perlo", "link": "https://music.163.com/artist?id=28387443" }
+    ],
+    "album": {
+      "name": "Love Like You Care",
+      "link": "https://music.163.com/album?id=72070052"
+    }
+  },
+  {
+    "name": "Magic (Original Mix)",
+    "link": "https://music.163.com/song?id=27723940",
+    "duration": "04:35",
+    "artists": [
+      { "name": "FM Attack", "link": "https://music.163.com/artist?id=828113" }
+    ],
+    "album": {
+      "name": "Deja Vu",
+      "link": "https://music.163.com/album?id=2664565"
+    }
+  },
+  {
+    "name": "Shake the Earth",
+    "link": "https://music.163.com/song?id=31370950",
+    "duration": "04:31",
+    "artists": [
+      {
+        "name": "Elephante",
+        "link": "https://music.163.com/artist?id=1050284"
+      },
+      { "name": "Lyon Hart", "link": "https://music.163.com/artist?id=1161030" }
+    ],
+    "album": {
+      "name": "Shake the Earth",
+      "link": "https://music.163.com/album?id=3119137"
+    }
+  },
+  {
+    "name": "Fluctuate",
+    "link": "https://music.163.com/song?id=425053025",
+    "duration": "05:11",
+    "artists": [
+      { "name": "Elecprok", "link": "https://music.163.com/artist?id=1203041" }
+    ],
+    "album": {
+      "name": "Fluctuate",
+      "link": "https://music.163.com/album?id=34812470"
+    }
+  },
+  {
+    "name": "Young (Sam Feldt Remix)",
+    "link": "https://music.163.com/song?id=479219402",
+    "duration": "03:16",
+    "artists": [
+      {
+        "name": "Frank Walker",
+        "link": "https://music.163.com/artist?id=12073886"
+      },
+      {
+        "name": "Andrew Jackson",
+        "link": "https://music.163.com/artist?id=12053587"
+      },
+      { "name": "Sam Feldt", "link": "https://music.163.com/artist?id=1025255" }
+    ],
+    "album": {
+      "name": "Young (Sam Feldt Remix)",
+      "link": "https://music.163.com/album?id=35536105"
+    }
+  },
+  {
+    "name": "Crime Wave",
+    "link": "https://music.163.com/song?id=28619727",
+    "duration": "02:42",
+    "artists": [
+      {
+        "name": "Danger Mode",
+        "link": "https://music.163.com/artist?id=826525"
+      }
+    ],
+    "album": {
+      "name": "Crime Wave",
+      "link": "https://music.163.com/album?id=2860048"
+    }
+  },
+  {
+    "name": "UH",
+    "link": "https://music.163.com/song?id=17852504",
+    "duration": "03:00",
+    "artists": [
+      {
+        "name": "Fujiya & Miyagi",
+        "link": "https://music.163.com/artist?id=92463"
+      }
+    ],
+    "album": {
+      "name": "Lightbulbs",
+      "link": "https://music.163.com/album?id=1642834"
+    }
+  },
+  {
+    "name": "Nothing Breaks Like a Heart (Dimitri from Paris Remix)",
+    "link": "https://music.163.com/song?id=1336776006",
+    "duration": "03:32",
+    "artists": [
+      {
+        "name": "Mark Ronson",
+        "link": "https://music.163.com/artist?id=38898"
+      },
+      { "name": "Miley Cyrus", "link": "https://music.163.com/artist?id=66361" }
+    ],
+    "album": {
+      "name": "Nothing Breaks Like a Heart (Dimitri from Paris Remix)",
+      "link": "https://music.163.com/album?id=75009411"
+    }
+  },
+  {
+    "name": "Rain to Snow",
+    "link": "https://music.163.com/song?id=1332872231",
+    "duration": "03:12",
+    "artists": [
+      {
+        "name": "Alee Kinder",
+        "link": "https://music.163.com/artist?id=31018345"
+      }
+    ],
+    "album": {
+      "name": "Rain to Snow",
+      "link": "https://music.163.com/album?id=74855035"
+    }
+  },
+  {
+    "name": "Reprieve",
+    "link": "https://music.163.com/song?id=30569879",
+    "duration": "04:14",
+    "artists": [
+      {
+        "name": "Vallis Alps",
+        "link": "https://music.163.com/artist?id=1050143"
+      }
+    ],
+    "album": {
+      "name": "Vallis Alps",
+      "link": "https://music.163.com/album?id=3102736"
+    }
+  }
+]

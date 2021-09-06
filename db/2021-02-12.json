@@ -1,0 +1,484 @@
+[
+  {
+    "name": "Mine (Illenium Remix)",
+    "link": "https://music.163.com/song?id=30780496",
+    "duration": "04:09",
+    "artists": [
+      { "name": "ILLENIUM", "link": "https://music.163.com/artist?id=1050518" },
+      {
+        "name": "Phoebe Ryan",
+        "link": "https://music.163.com/artist?id=854363"
+      }
+    ],
+    "album": {
+      "name": "Mine (Illenium Remix)",
+      "link": "https://music.163.com/album?id=3103256"
+    }
+  },
+  {
+    "name": "Time to Pretend",
+    "link": "https://music.163.com/song?id=1377642003",
+    "duration": "05:14",
+    "artists": [
+      {
+        "name": "Lazer Boomerang",
+        "link": "https://music.163.com/artist?id=13976294"
+      }
+    ],
+    "album": {
+      "name": "Time to Pretend",
+      "link": "https://music.163.com/album?id=80371789"
+    }
+  },
+  {
+    "name": "OH MY GOD",
+    "link": "https://music.163.com/song?id=1342822602",
+    "duration": "03:10",
+    "artists": [
+      {
+        "name": "Amberlake",
+        "link": "https://music.163.com/artist?id=30262778"
+      }
+    ],
+    "album": {
+      "name": "OH MY GOD",
+      "link": "https://music.163.com/album?id=75366925"
+    }
+  },
+  {
+    "name": "Already Home",
+    "link": "https://music.163.com/song?id=1497732822",
+    "duration": "04:06",
+    "artists": [
+      { "name": "AMIDY", "link": "https://music.163.com/artist?id=12203566" },
+      { "name": "HALIENE", "link": "https://music.163.com/artist?id=13202710" }
+    ],
+    "album": {
+      "name": "Already Home",
+      "link": "https://music.163.com/album?id=98693456"
+    }
+  },
+  {
+    "name": "In My Head",
+    "link": "https://music.163.com/song?id=1486646454",
+    "duration": "03:37",
+    "artists": [
+      {
+        "name": "Last Heroes",
+        "link": "https://music.163.com/artist?id=11987034"
+      },
+      { "name": "Woodlock", "link": "https://music.163.com/artist?id=742037" }
+    ],
+    "album": {
+      "name": "Finding Light",
+      "link": "https://music.163.com/album?id=96707479"
+    }
+  },
+  {
+    "name": "Hell Froze Over",
+    "link": "https://music.163.com/song?id=1311696928",
+    "duration": "03:45",
+    "artists": [
+      { "name": "Kodaline", "link": "https://music.163.com/artist?id=727007" }
+    ],
+    "album": {
+      "name": "Politics of Living",
+      "link": "https://music.163.com/album?id=73515563"
+    }
+  },
+  {
+    "name": "Inside",
+    "link": "https://music.163.com/song?id=1453248204",
+    "duration": "03:56",
+    "artists": [
+      { "name": "FEWZ", "link": "https://music.163.com/artist?id=12008133" }
+    ],
+    "album": {
+      "name": "Inside",
+      "link": "https://music.163.com/album?id=90401629"
+    }
+  },
+  {
+    "name": "Dig Deep",
+    "link": "https://music.163.com/song?id=35345484",
+    "duration": "04:24",
+    "artists": [
+      { "name": "Mazde", "link": "https://music.163.com/artist?id=1024181" },
+      { "name": "LissA", "link": "https://music.163.com/artist?id=66172" }
+    ],
+    "album": {
+      "name": "Mazde X LissA",
+      "link": "https://music.163.com/album?id=3319207"
+    }
+  },
+  {
+    "name": "Sarah Come Home",
+    "link": "https://music.163.com/song?id=1407281976",
+    "duration": "03:33",
+    "artists": [
+      { "name": "Allie X", "link": "https://music.163.com/artist?id=973030" }
+    ],
+    "album": {
+      "name": "Cape God",
+      "link": "https://music.163.com/album?id=83833042"
+    }
+  },
+  {
+    "name": "Dusk Till Dawn",
+    "link": "https://music.163.com/song?id=524148450",
+    "duration": "03:14",
+    "artists": [
+      { "name": "MADILYN", "link": "https://music.163.com/artist?id=69270" }
+    ],
+    "album": {
+      "name": "Dusk Till Dawn",
+      "link": "https://music.163.com/album?id=36978150"
+    }
+  },
+  {
+    "name": "I Won't Fall",
+    "link": "https://music.163.com/song?id=34723363",
+    "duration": "03:05",
+    "artists": [
+      {
+        "name": "Noctilucent",
+        "link": "https://music.163.com/artist?id=1150036"
+      }
+    ],
+    "album": {
+      "name": "Stars",
+      "link": "https://music.163.com/album?id=3295088"
+    }
+  },
+  {
+    "name": "Away We Go",
+    "link": "https://music.163.com/song?id=1318089157",
+    "duration": "02:57",
+    "artists": [
+      {
+        "name": "Ted Nights",
+        "link": "https://music.163.com/artist?id=12436013"
+      }
+    ],
+    "album": {
+      "name": "Away We Go",
+      "link": "https://music.163.com/album?id=73924297"
+    }
+  },
+  {
+    "name": "Bipolar",
+    "link": "https://music.163.com/song?id=1356237274",
+    "duration": "02:52",
+    "artists": [
+      { "name": "BEAUZ", "link": "https://music.163.com/artist?id=12131436" },
+      {
+        "name": "ThatBehavior",
+        "link": "https://music.163.com/artist?id=12917127"
+      },
+      {
+        "name": "Luna Vexa",
+        "link": "https://music.163.com/artist?id=33169792"
+      }
+    ],
+    "album": {
+      "name": "Bipolar",
+      "link": "https://music.163.com/album?id=78301113"
+    }
+  },
+  {
+    "name": "Chasing The Light",
+    "link": "https://music.163.com/song?id=1420914778",
+    "duration": "02:37",
+    "artists": [
+      { "name": "Maryn", "link": "https://music.163.com/artist?id=12861041" },
+      {
+        "name": "Jordan Shaw",
+        "link": "https://music.163.com/artist?id=13628884"
+      }
+    ],
+    "album": {
+      "name": "Chasing The Light",
+      "link": "https://music.163.com/album?id=85465752"
+    }
+  },
+  {
+    "name": "Secrets",
+    "link": "https://music.163.com/song?id=20200842",
+    "duration": "03:44",
+    "artists": [
+      { "name": "OneRepublic", "link": "https://music.163.com/artist?id=98105" }
+    ],
+    "album": {
+      "name": "Waking Up",
+      "link": "https://music.163.com/album?id=1873643"
+    }
+  },
+  {
+    "name": "Get It Together",
+    "link": "https://music.163.com/song?id=509573636",
+    "duration": "02:58",
+    "artists": [
+      {
+        "name": "Charlie Who?",
+        "link": "https://music.163.com/artist?id=12073500"
+      },
+      { "name": "Nomi", "link": "https://music.163.com/artist?id=69853" }
+    ],
+    "album": {
+      "name": "Get It Together",
+      "link": "https://music.163.com/album?id=36320332"
+    }
+  },
+  {
+    "name": "Leave a Light On (Acoustic)",
+    "link": "https://music.163.com/song?id=521657090",
+    "duration": "03:37",
+    "artists": [
+      {
+        "name": "Tom Walker",
+        "link": "https://music.163.com/artist?id=12010043"
+      }
+    ],
+    "album": {
+      "name": "Leave a Light On (Acoustic)",
+      "link": "https://music.163.com/album?id=36864043"
+    }
+  },
+  {
+    "name": "KMS",
+    "link": "https://music.163.com/song?id=1429856441",
+    "duration": "02:40",
+    "artists": [
+      {
+        "name": "Sub Urban",
+        "link": "https://music.163.com/artist?id=29722383"
+      }
+    ],
+    "album": {
+      "name": "Thrill Seeker",
+      "link": "https://music.163.com/album?id=86393157"
+    }
+  },
+  {
+    "name": "Nasty Freestyle",
+    "link": "https://music.163.com/song?id=36841048",
+    "duration": "02:27",
+    "artists": [
+      { "name": "Veorra", "link": "https://music.163.com/artist?id=1149081" }
+    ],
+    "album": {
+      "name": "Sapphire",
+      "link": "https://music.163.com/album?id=3291225"
+    }
+  },
+  {
+    "name": "Burden(Mr FijiWiji Remix)",
+    "link": "https://music.163.com/song?id=35314199",
+    "duration": "04:24",
+    "artists": [
+      {
+        "name": "Mr FijiWiji",
+        "link": "https://music.163.com/artist?id=40353"
+      },
+      { "name": "Subtact", "link": "https://music.163.com/artist?id=1050602" }
+    ],
+    "album": {
+      "name": "Burden (Mr FijiWiji Remix)",
+      "link": "https://music.163.com/album?id=3316328"
+    }
+  },
+  {
+    "name": "We Bought A Zoo - (电影《我家买了动物园》主题配乐)",
+    "link": "https://music.163.com/song?id=1597441",
+    "duration": "04:20",
+    "artists": [
+      { "name": "Jónsi", "link": "https://music.163.com/artist?id=36798" }
+    ],
+    "album": {
+      "name": "We Bought A Zoo (Motion Picture Soundtrack)",
+      "link": "https://music.163.com/album?id=162571"
+    }
+  },
+  {
+    "name": "我们终于活成自己不喜欢的人",
+    "link": "https://music.163.com/song?id=1817136195",
+    "duration": "03:52",
+    "artists": [
+      { "name": "十四爷", "link": "https://music.163.com/artist?id=46720135" }
+    ],
+    "album": {
+      "name": "我们终于活成自己不喜欢的人",
+      "link": "https://music.163.com/album?id=122479774"
+    }
+  },
+  {
+    "name": "Devil In My Hand (Part 2)",
+    "link": "https://music.163.com/song?id=27566253",
+    "duration": "02:34",
+    "artists": [
+      {
+        "name": "The Dentals",
+        "link": "https://music.163.com/artist?id=804420"
+      }
+    ],
+    "album": {
+      "name": "Tennessee",
+      "link": "https://music.163.com/album?id=2621336"
+    }
+  },
+  {
+    "name": "Won't Let You Down",
+    "link": "https://music.163.com/song?id=521418261",
+    "duration": "03:23",
+    "artists": [
+      { "name": "MARC", "link": "https://music.163.com/artist?id=12073436" },
+      {
+        "name": "Caroline Høier",
+        "link": "https://music.163.com/artist?id=12903086"
+      }
+    ],
+    "album": {
+      "name": "Won't Let You Down",
+      "link": "https://music.163.com/album?id=36871046"
+    }
+  },
+  {
+    "name": "Fljótavik",
+    "link": "https://music.163.com/song?id=4278456",
+    "duration": "03:49",
+    "artists": [
+      { "name": "Sigur Rós", "link": "https://music.163.com/artist?id=99990" }
+    ],
+    "album": {
+      "name": "We Play Endlessly",
+      "link": "https://music.163.com/album?id=432403"
+    }
+  },
+  {
+    "name": "Queen Of The Abyss (Original Mix)",
+    "link": "https://music.163.com/song?id=512099272",
+    "duration": "07:44",
+    "artists": [
+      { "name": "Taival", "link": "https://music.163.com/artist?id=1156329" }
+    ],
+    "album": {
+      "name": "Queen Of The Abyss",
+      "link": "https://music.163.com/album?id=36516037"
+    }
+  },
+  {
+    "name": "Feelings",
+    "link": "https://music.163.com/song?id=34040832",
+    "duration": "03:54",
+    "artists": [
+      { "name": "Kedam", "link": "https://music.163.com/artist?id=1132957" }
+    ],
+    "album": {
+      "name": "Feelings",
+      "link": "https://music.163.com/album?id=3270726"
+    }
+  },
+  {
+    "name": "Standing By... (Original Mix)",
+    "link": "https://music.163.com/song?id=34040786",
+    "duration": "04:00",
+    "artists": [
+      { "name": "Dripice", "link": "https://music.163.com/artist?id=1050671" }
+    ],
+    "album": {
+      "name": "Standing By... ",
+      "link": "https://music.163.com/album?id=3270714"
+    }
+  },
+  {
+    "name": "Valhalla",
+    "link": "https://music.163.com/song?id=27612134",
+    "duration": "03:44",
+    "artists": [
+      {
+        "name": "Arctic Moon",
+        "link": "https://music.163.com/artist?id=820034"
+      },
+      {
+        "name": "Paul Webster",
+        "link": "https://music.163.com/artist?id=1096073"
+      }
+    ],
+    "album": {
+      "name": "Valhalla",
+      "link": "https://music.163.com/album?id=2646019"
+    }
+  },
+  {
+    "name": "Heartbeat (feat. Brooke Forman) [Nicky Romero Edit]",
+    "link": "https://music.163.com/song?id=31789056",
+    "duration": "05:02",
+    "artists": [
+      {
+        "name": "Nicky Romero",
+        "link": "https://music.163.com/artist?id=195142"
+      },
+      {
+        "name": "Magnificence",
+        "link": "https://music.163.com/artist?id=1078162"
+      },
+      {
+        "name": "Alec Maire",
+        "link": "https://music.163.com/artist?id=1078163"
+      },
+      {
+        "name": "Brooke Forman",
+        "link": "https://music.163.com/artist?id=1078164"
+      }
+    ],
+    "album": {
+      "name": "\tHeartbeat (feat. Brooke Forman) [Nicky Romero Edit]",
+      "link": "https://music.163.com/album?id=3138015"
+    }
+  },
+  {
+    "name": "One (feat. E-Life & Noah Jacobs) [Album Edit]",
+    "link": "https://music.163.com/song?id=33346292",
+    "duration": "03:25",
+    "artists": [
+      { "name": "Wildstylez", "link": "https://music.163.com/artist?id=666014" }
+    ],
+    "album": {
+      "name": "Lose Control",
+      "link": "https://music.163.com/album?id=3201017"
+    }
+  },
+  {
+    "name": "Let It All Out (L3V3LS Remix)",
+    "link": "https://music.163.com/song?id=425828566",
+    "duration": "04:55",
+    "artists": [
+      { "name": "L3V3LS", "link": "https://music.163.com/artist?id=12007340" },
+      { "name": "Kap Slap", "link": "https://music.163.com/artist?id=761048" },
+      {
+        "name": "Angelika Vee",
+        "link": "https://music.163.com/artist?id=904230"
+      }
+    ],
+    "album": {
+      "name": "Let It All Out (L3V3LS Remix)",
+      "link": "https://music.163.com/album?id=34817750"
+    }
+  },
+  {
+    "name": "Sorry",
+    "link": "https://music.163.com/song?id=1819549824",
+    "duration": "02:45",
+    "artists": [
+      {
+        "name": "Alan Walker",
+        "link": "https://music.163.com/artist?id=1045123"
+      },
+      { "name": "ISÁK", "link": "https://music.163.com/artist?id=13885541" }
+    ],
+    "album": {
+      "name": "Sorry",
+      "link": "https://music.163.com/album?id=122904186"
+    }
+  }
+]

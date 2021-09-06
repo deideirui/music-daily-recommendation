@@ -1,0 +1,469 @@
+[
+  {
+    "name": "We Are the Universe",
+    "link": "https://music.163.com/song?id=1299570097",
+    "duration": "06:32",
+    "artists": [
+      { "name": "Rameses B", "link": "https://music.163.com/artist?id=42898" }
+    ],
+    "album": {
+      "name": "Spacewalk II: Zero Gravity",
+      "link": "https://music.163.com/album?id=72071012"
+    }
+  },
+  {
+    "name": "Butterfly",
+    "link": "https://music.163.com/song?id=1457416374",
+    "duration": "02:50",
+    "artists": [
+      { "name": "Marnik", "link": "https://music.163.com/artist?id=1005048" },
+      {
+        "name": "Hard Lights",
+        "link": "https://music.163.com/artist?id=12737783"
+      }
+    ],
+    "album": {
+      "name": "Butterfly",
+      "link": "https://music.163.com/album?id=91340442"
+    }
+  },
+  {
+    "name": "I'll Wait",
+    "link": "https://music.163.com/song?id=1434419312",
+    "duration": "03:35",
+    "artists": [
+      { "name": "Kygo", "link": "https://music.163.com/artist?id=844410" },
+      {
+        "name": "Sasha Sloan",
+        "link": "https://music.163.com/artist?id=12646102"
+      }
+    ],
+    "album": {
+      "name": "I'll Wait",
+      "link": "https://music.163.com/album?id=86883079"
+    }
+  },
+  {
+    "name": "Blissful Blue Sky (Original Mix)",
+    "link": "https://music.163.com/song?id=424264753",
+    "duration": "06:53",
+    "artists": [
+      { "name": "SoundLift", "link": "https://music.163.com/artist?id=44015" }
+    ],
+    "album": {
+      "name": "Blissful Blue Sky",
+      "link": "https://music.163.com/album?id=34809222"
+    }
+  },
+  {
+    "name": "Sleep, For The Weak! (Lost Frequencies Remix)",
+    "link": "https://music.163.com/song?id=399341408",
+    "duration": "03:20",
+    "artists": [
+      { "name": "Lea Rue", "link": "https://music.163.com/artist?id=1124213" },
+      {
+        "name": "Lost Frequencies",
+        "link": "https://music.163.com/artist?id=1039114"
+      }
+    ],
+    "album": {
+      "name": "Sleep/For The Weak (Lost Frequencies Remix)",
+      "link": "https://music.163.com/album?id=34400113"
+    }
+  },
+  {
+    "name": "Take Everything",
+    "link": "https://music.163.com/song?id=1333128472",
+    "duration": "03:32",
+    "artists": [
+      {
+        "name": "Gareth Emery",
+        "link": "https://music.163.com/artist?id=34318"
+      },
+      { "name": "Emma Hewitt", "link": "https://music.163.com/artist?id=56751" }
+    ],
+    "album": {
+      "name": "Take Everything",
+      "link": "https://music.163.com/album?id=74869418"
+    }
+  },
+  {
+    "name": "Close To The Sun",
+    "link": "https://music.163.com/song?id=1392141694",
+    "duration": "03:12",
+    "artists": [
+      {
+        "name": "TheFatRat",
+        "link": "https://music.163.com/artist?id=1019952"
+      },
+      { "name": "Anjulie", "link": "https://music.163.com/artist?id=46502" }
+    ],
+    "album": {
+      "name": "Close To the Sun",
+      "link": "https://music.163.com/album?id=81794674"
+    }
+  },
+  {
+    "name": "We Should Be Sorry",
+    "link": "https://music.163.com/song?id=1435876256",
+    "duration": "03:06",
+    "artists": [
+      {
+        "name": "Axel Johansson",
+        "link": "https://music.163.com/artist?id=12872604"
+      }
+    ],
+    "album": {
+      "name": "We Should Be Sorry",
+      "link": "https://music.163.com/album?id=87134256"
+    }
+  },
+  {
+    "name": "Rippling and Rising",
+    "link": "https://music.163.com/song?id=534625392",
+    "duration": "02:36",
+    "artists": [
+      {
+        "name": "Jamie Salisbury",
+        "link": "https://music.163.com/artist?id=1120097"
+      }
+    ],
+    "album": {
+      "name": "Cinematic Pop Rock: Epic, Exciting & Energetic",
+      "link": "https://music.163.com/album?id=37463618"
+    }
+  },
+  {
+    "name": "Charge into 2017",
+    "link": "https://music.163.com/song?id=470601918",
+    "duration": "03:36",
+    "artists": [
+      {
+        "name": "Dexter Britain",
+        "link": "https://music.163.com/artist?id=784341"
+      }
+    ],
+    "album": {
+      "name": "Charge into 2017",
+      "link": "https://music.163.com/album?id=35338237"
+    }
+  },
+  {
+    "name": "Hey Boy",
+    "link": "https://music.163.com/song?id=1496643815",
+    "duration": "02:29",
+    "artists": [
+      { "name": "Sia", "link": "https://music.163.com/artist?id=74625" }
+    ],
+    "album": {
+      "name": "Hey Boy",
+      "link": "https://music.163.com/album?id=98521080"
+    }
+  },
+  {
+    "name": "All Or Nothing (Original Mix)",
+    "link": "https://music.163.com/song?id=29402292",
+    "duration": "06:10",
+    "artists": [
+      { "name": "Ben Gold", "link": "https://music.163.com/artist?id=152127" },
+      {
+        "name": "Christina Novelli",
+        "link": "https://music.163.com/artist?id=840292"
+      }
+    ],
+    "album": {
+      "name": "All Or Nothing",
+      "link": "https://music.163.com/album?id=3019542"
+    }
+  },
+  {
+    "name": "Body Back (MitiS Remix)",
+    "link": "https://music.163.com/song?id=1419448378",
+    "duration": "04:22",
+    "artists": [
+      { "name": "Gryffin", "link": "https://music.163.com/artist?id=1181504" },
+      {
+        "name": "Maia Wright",
+        "link": "https://music.163.com/artist?id=12561660"
+      },
+      { "name": "MitiS", "link": "https://music.163.com/artist?id=40245" }
+    ],
+    "album": {
+      "name": "Body Back (The Remixes)",
+      "link": "https://music.163.com/album?id=85305174"
+    }
+  },
+  {
+    "name": "By the Brook",
+    "link": "https://music.163.com/song?id=1346358121",
+    "duration": "06:53",
+    "artists": [
+      { "name": "Worakls", "link": "https://music.163.com/artist?id=311004" }
+    ],
+    "album": {
+      "name": "Orchestra",
+      "link": "https://music.163.com/album?id=75583876"
+    }
+  },
+  {
+    "name": "Sunset in Zhuhai",
+    "link": "https://music.163.com/song?id=1420413653",
+    "duration": "07:03",
+    "artists": [
+      { "name": "Melchi", "link": "https://music.163.com/artist?id=12058010" }
+    ],
+    "album": {
+      "name": "Sunset in Zhuhai",
+      "link": "https://music.163.com/album?id=85406318"
+    }
+  },
+  {
+    "name": "Last Time",
+    "link": "https://music.163.com/song?id=1419166168",
+    "duration": "03:44",
+    "artists": [
+      {
+        "name": "Midnight Kids",
+        "link": "https://music.163.com/artist?id=13192314"
+      }
+    ],
+    "album": {
+      "name": "Last Time",
+      "link": "https://music.163.com/album?id=85244302"
+    }
+  },
+  {
+    "name": "For the One You Love",
+    "link": "https://music.163.com/song?id=555949589",
+    "duration": "04:41",
+    "artists": [
+      {
+        "name": "Natalie Gioia",
+        "link": "https://music.163.com/artist?id=839403"
+      },
+      { "name": "RAM", "link": "https://music.163.com/artist?id=73231" },
+      { "name": "Roger Shah", "link": "https://music.163.com/artist?id=191618" }
+    ],
+    "album": {
+      "name": "No Boundaries",
+      "link": "https://music.163.com/album?id=38507752"
+    }
+  },
+  {
+    "name": "Erase You",
+    "link": "https://music.163.com/song?id=1478054205",
+    "duration": "03:44",
+    "artists": [
+      { "name": "Excision", "link": "https://music.163.com/artist?id=33221" },
+      { "name": "Wooli", "link": "https://music.163.com/artist?id=12203238" },
+      { "name": "HALIENE", "link": "https://music.163.com/artist?id=13202710" }
+    ],
+    "album": {
+      "name": "Erase You",
+      "link": "https://music.163.com/album?id=95203469"
+    }
+  },
+  {
+    "name": "Like Hell",
+    "link": "https://music.163.com/song?id=1323780727",
+    "duration": "03:09",
+    "artists": [
+      {
+        "name": "HIGHSOCIETY",
+        "link": "https://music.163.com/artist?id=14377330"
+      },
+      {
+        "name": "Sunnie Williams",
+        "link": "https://music.163.com/artist?id=13982587"
+      }
+    ],
+    "album": {
+      "name": "Like Hell",
+      "link": "https://music.163.com/album?id=74297180"
+    }
+  },
+  {
+    "name": "Into You",
+    "link": "https://music.163.com/song?id=573518552",
+    "duration": "04:04",
+    "artists": [
+      {
+        "name": "Jason Ross",
+        "link": "https://music.163.com/artist?id=906123"
+      },
+      { "name": "Karra", "link": "https://music.163.com/artist?id=1081582" }
+    ],
+    "album": {
+      "name": "Into You",
+      "link": "https://music.163.com/album?id=39713838"
+    }
+  },
+  {
+    "name": "Freaky With You",
+    "link": "https://music.163.com/song?id=1302434270",
+    "duration": "02:57",
+    "artists": [
+      {
+        "name": "Robert Falcon",
+        "link": "https://music.163.com/artist?id=12210015"
+      }
+    ],
+    "album": {
+      "name": "Freaky With You",
+      "link": "https://music.163.com/album?id=72351737"
+    }
+  },
+  {
+    "name": "CYBERPUNK",
+    "link": "https://music.163.com/song?id=865626210",
+    "duration": "03:28",
+    "artists": [
+      { "name": "Omnia", "link": "https://music.163.com/artist?id=179006" }
+    ],
+    "album": {
+      "name": "CYBERPUNK",
+      "link": "https://music.163.com/album?id=71792079"
+    }
+  },
+  {
+    "name": "Be Alright",
+    "link": "https://music.163.com/song?id=544000547",
+    "duration": "02:33",
+    "artists": [
+      {
+        "name": "Jake Miller",
+        "link": "https://music.163.com/artist?id=776761"
+      }
+    ],
+    "album": {
+      "name": "Silver Lining",
+      "link": "https://music.163.com/album?id=37887082"
+    }
+  },
+  {
+    "name": "Requiem (Original Mix)",
+    "link": "https://music.163.com/song?id=413740244",
+    "duration": "10:27",
+    "artists": [
+      {
+        "name": "Sound Apparel",
+        "link": "https://music.163.com/artist?id=385722"
+      }
+    ],
+    "album": {
+      "name": "Requiem",
+      "link": "https://music.163.com/album?id=34700319"
+    }
+  },
+  {
+    "name": "Tranquility (Original Mix)",
+    "link": "https://music.163.com/song?id=26631923",
+    "duration": "07:04",
+    "artists": [
+      { "name": "Afternova", "link": "https://music.163.com/artist?id=794061" }
+    ],
+    "album": {
+      "name": "Tranquility",
+      "link": "https://music.163.com/album?id=2538317"
+    }
+  },
+  {
+    "name": "Catching Fire",
+    "link": "https://music.163.com/song?id=1410858446",
+    "duration": "03:24",
+    "artists": [
+      { "name": "Ryos", "link": "https://music.163.com/artist?id=1053137" },
+      {
+        "name": "Arjay Dang",
+        "link": "https://music.163.com/artist?id=31773969"
+      }
+    ],
+    "album": {
+      "name": "Catching Fire",
+      "link": "https://music.163.com/album?id=84242616"
+    }
+  },
+  {
+    "name": "Everything Changed",
+    "link": "https://music.163.com/song?id=506139197",
+    "duration": "04:35",
+    "artists": [
+      {
+        "name": "John Stanford",
+        "link": "https://music.163.com/artist?id=37294"
+      },
+      {
+        "name": "Dallin Applebaum",
+        "link": "https://music.163.com/artist?id=29033370"
+      }
+    ],
+    "album": {
+      "name": "Automatica",
+      "link": "https://music.163.com/album?id=36049733"
+    }
+  },
+  {
+    "name": "Into The Fire (Original Mix)",
+    "link": "https://music.163.com/song?id=415793214",
+    "duration": "02:44",
+    "artists": [
+      { "name": "VINAI", "link": "https://music.163.com/artist?id=804422" },
+      { "name": "Anjulie", "link": "https://music.163.com/artist?id=46502" }
+    ],
+    "album": {
+      "name": "Into The Fire",
+      "link": "https://music.163.com/album?id=34720513"
+    }
+  },
+  {
+    "name": "Need You",
+    "link": "https://music.163.com/song?id=1436967572",
+    "duration": "03:27",
+    "artists": [
+      { "name": "Fablers", "link": "https://music.163.com/artist?id=34751307" },
+      {
+        "name": "Revealed Recordings",
+        "link": "https://music.163.com/artist?id=28753573"
+      },
+      {
+        "name": "Sam Knight",
+        "link": "https://music.163.com/artist?id=30292124"
+      }
+    ],
+    "album": {
+      "name": "Need You",
+      "link": "https://music.163.com/album?id=87507103"
+    }
+  },
+  {
+    "name": "Say (Valoriz Remix)",
+    "link": "https://music.163.com/song?id=523248351",
+    "duration": "03:13",
+    "artists": [
+      { "name": "Valoriz", "link": "https://music.163.com/artist?id=1177237" },
+      {
+        "name": "The Spacies",
+        "link": "https://music.163.com/artist?id=12175190"
+      }
+    ],
+    "album": {
+      "name": "Say (Valoriz Remix)",
+      "link": "https://music.163.com/album?id=36957125"
+    }
+  },
+  {
+    "name": "Belong",
+    "link": "https://music.163.com/song?id=1382769883",
+    "duration": "03:48",
+    "artists": [
+      {
+        "name": "Rachael Nemiroff",
+        "link": "https://music.163.com/artist?id=28102310"
+      }
+    ],
+    "album": {
+      "name": "Belong",
+      "link": "https://music.163.com/album?id=80830713"
+    }
+  }
+]

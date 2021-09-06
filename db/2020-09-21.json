@@ -1,0 +1,462 @@
+[
+  {
+    "name": "We Are the Young",
+    "link": "https://music.163.com/song?id=1401526936",
+    "duration": "02:56",
+    "artists": [
+      { "name": "Addal", "link": "https://music.163.com/artist?id=427686" },
+      { "name": "Henri Pfr", "link": "https://music.163.com/artist?id=1135286" }
+    ],
+    "album": {
+      "name": "We Are the Young",
+      "link": "https://music.163.com/album?id=83053492"
+    }
+  },
+  {
+    "name": "I'll Be Gone (feat. Katie McConnell)",
+    "link": "https://music.163.com/song?id=1398909708",
+    "duration": "03:24",
+    "artists": [
+      { "name": "Axero", "link": "https://music.163.com/artist?id=1035020" },
+      {
+        "name": "Katie McConnell",
+        "link": "https://music.163.com/artist?id=29818086"
+      }
+    ],
+    "album": {
+      "name": "I'll Be Gone (feat. Katie McConnell)",
+      "link": "https://music.163.com/album?id=82706243"
+    }
+  },
+  {
+    "name": "Sky of Dreams",
+    "link": "https://music.163.com/song?id=1353220624",
+    "duration": "03:16",
+    "artists": [
+      {
+        "name": "Greenjelin",
+        "link": "https://music.163.com/artist?id=13021897"
+      },
+      {
+        "name": "Paulina Cameron",
+        "link": "https://music.163.com/artist?id=31713537"
+      }
+    ],
+    "album": {
+      "name": "Sky of Dreams",
+      "link": "https://music.163.com/album?id=77425178"
+    }
+  },
+  {
+    "name": "Not With Me",
+    "link": "https://music.163.com/song?id=1398720941",
+    "duration": "03:18",
+    "artists": [
+      { "name": "LIZOT", "link": "https://music.163.com/artist?id=1137483" },
+      {
+        "name": "Charming Horses",
+        "link": "https://music.163.com/artist?id=1137480"
+      },
+      {
+        "name": "David Taylor",
+        "link": "https://music.163.com/artist?id=12734324"
+      }
+    ],
+    "album": {
+      "name": "Not With Me",
+      "link": "https://music.163.com/album?id=82665697"
+    }
+  },
+  {
+    "name": "Letting Go",
+    "link": "https://music.163.com/song?id=1456249416",
+    "duration": "02:36",
+    "artists": [
+      {
+        "name": "Swizznife",
+        "link": "https://music.163.com/artist?id=34434428"
+      }
+    ],
+    "album": {
+      "name": "Letting Go",
+      "link": "https://music.163.com/album?id=91117465"
+    }
+  },
+  {
+    "name": "WOW",
+    "link": "https://music.163.com/song?id=1361109294",
+    "duration": "02:59",
+    "artists": [
+      {
+        "name": "Zara Larsson",
+        "link": "https://music.163.com/artist?id=816461"
+      }
+    ],
+    "album": {
+      "name": "WOW",
+      "link": "https://music.163.com/album?id=78750497"
+    }
+  },
+  {
+    "name": "Beyond Good And Evil",
+    "link": "https://music.163.com/song?id=3934529",
+    "duration": "01:45",
+    "artists": [
+      {
+        "name": "Audiomachine",
+        "link": "https://music.163.com/artist?id=87066"
+      }
+    ],
+    "album": {
+      "name": "Chronicles",
+      "link": "https://music.163.com/album?id=397936"
+    }
+  },
+  {
+    "name": "This One's For You",
+    "link": "https://music.163.com/song?id=570477491",
+    "duration": "02:43",
+    "artists": [
+      { "name": "MÖWE", "link": "https://music.163.com/artist?id=976362" },
+      {
+        "name": "Abi F Jones",
+        "link": "https://music.163.com/artist?id=1137160"
+      }
+    ],
+    "album": {
+      "name": "This One's For You",
+      "link": "https://music.163.com/album?id=39543185"
+    }
+  },
+  {
+    "name": "Strangers",
+    "link": "https://music.163.com/song?id=1356064083",
+    "duration": "03:08",
+    "artists": [
+      { "name": "Far Out", "link": "https://music.163.com/artist?id=824107" }
+    ],
+    "album": {
+      "name": "Strangers",
+      "link": "https://music.163.com/album?id=78284133"
+    }
+  },
+  {
+    "name": "Part of Our World",
+    "link": "https://music.163.com/song?id=1316911925",
+    "duration": "03:16",
+    "artists": [
+      { "name": "AGEZ", "link": "https://music.163.com/artist?id=30257627" },
+      { "name": "Elle Vee", "link": "https://music.163.com/artist?id=1046258" }
+    ],
+    "album": {
+      "name": "Part of Our World",
+      "link": "https://music.163.com/album?id=73854815"
+    }
+  },
+  {
+    "name": "Good Girls Gone Wild",
+    "link": "https://music.163.com/song?id=1401169467",
+    "duration": "02:42",
+    "artists": [
+      { "name": "Klaas", "link": "https://music.163.com/artist?id=106210" }
+    ],
+    "album": {
+      "name": "Good Girls Gone Wild",
+      "link": "https://music.163.com/album?id=82997486"
+    }
+  },
+  {
+    "name": "Instant Gratification (Marky Style & Guy Gabriel Remix)",
+    "link": "https://music.163.com/song?id=524231211",
+    "duration": "03:27",
+    "artists": [
+      {
+        "name": "Miranda Glory",
+        "link": "https://music.163.com/artist?id=12463504"
+      },
+      {
+        "name": "Marky Style",
+        "link": "https://music.163.com/artist?id=12302135"
+      },
+      {
+        "name": "Guy Gabriel",
+        "link": "https://music.163.com/artist?id=13133238"
+      }
+    ],
+    "album": {
+      "name": "Instant Gratification (Remixes)",
+      "link": "https://music.163.com/album?id=36901478"
+    }
+  },
+  {
+    "name": "New Horizon",
+    "link": "https://music.163.com/song?id=1361209511",
+    "duration": "02:33",
+    "artists": [
+      { "name": "JPB", "link": "https://music.163.com/artist?id=1050628" },
+      { "name": "Deverano", "link": "https://music.163.com/artist?id=1182061" }
+    ],
+    "album": {
+      "name": "New Horizon",
+      "link": "https://music.163.com/album?id=78763392"
+    }
+  },
+  {
+    "name": "Take Me There",
+    "link": "https://music.163.com/song?id=1398908669",
+    "duration": "02:53",
+    "artists": [
+      { "name": "Sagan", "link": "https://music.163.com/artist?id=77502" }
+    ],
+    "album": {
+      "name": "Take Me There",
+      "link": "https://music.163.com/album?id=82705243"
+    }
+  },
+  {
+    "name": "Chasers",
+    "link": "https://music.163.com/song?id=1306648317",
+    "duration": "03:00",
+    "artists": [
+      { "name": "Bahari", "link": "https://music.163.com/artist?id=1044218" }
+    ],
+    "album": {
+      "name": "Chasers",
+      "link": "https://music.163.com/album?id=72806761"
+    }
+  },
+  {
+    "name": "I'm Fine Without You",
+    "link": "https://music.163.com/song?id=1398921764",
+    "duration": "03:01",
+    "artists": [
+      { "name": "Otzzo", "link": "https://music.163.com/artist?id=30254332" }
+    ],
+    "album": {
+      "name": "I'm Fine Without You",
+      "link": "https://music.163.com/album?id=82709777"
+    }
+  },
+  {
+    "name": "House Party",
+    "link": "https://music.163.com/song?id=1393692397",
+    "duration": "02:56",
+    "artists": [
+      {
+        "name": "jeonghyeon",
+        "link": "https://music.163.com/artist?id=28748581"
+      },
+      { "name": "Mitte", "link": "https://music.163.com/artist?id=12262773" }
+    ],
+    "album": {
+      "name": "House Party",
+      "link": "https://music.163.com/album?id=81988262"
+    }
+  },
+  {
+    "name": "Gravity",
+    "link": "https://music.163.com/song?id=1376818371",
+    "duration": "03:16",
+    "artists": [
+      {
+        "name": "Blackcode",
+        "link": "https://music.163.com/artist?id=30013002"
+      },
+      { "name": "Feerty", "link": "https://music.163.com/artist?id=29436784" }
+    ],
+    "album": {
+      "name": "Revealed Recordings presents Progressive EP Vol. 2",
+      "link": "https://music.163.com/album?id=80287909"
+    }
+  },
+  {
+    "name": "From Here (Extended Mix)",
+    "link": "https://music.163.com/song?id=414118656",
+    "duration": "04:57",
+    "artists": [
+      { "name": "Matt Nash", "link": "https://music.163.com/artist?id=1054160" }
+    ],
+    "album": {
+      "name": "From Here",
+      "link": "https://music.163.com/album?id=34700620"
+    }
+  },
+  {
+    "name": "Heart Of Steel (Festival Mix)",
+    "link": "https://music.163.com/song?id=864100339",
+    "duration": "03:41",
+    "artists": [
+      { "name": "Raiden", "link": "https://music.163.com/artist?id=130300" },
+      {
+        "name": "Bright Lights",
+        "link": "https://music.163.com/artist?id=905065"
+      }
+    ],
+    "album": {
+      "name": "Heart Of Steel (Festival Mix)",
+      "link": "https://music.163.com/album?id=71613108"
+    }
+  },
+  {
+    "name": "Lost Melodies",
+    "link": "https://music.163.com/song?id=1321930172",
+    "duration": "02:45",
+    "artists": [
+      {
+        "name": "John Dahlbäck",
+        "link": "https://music.163.com/artist?id=688498"
+      }
+    ],
+    "album": {
+      "name": "Lost Melodies",
+      "link": "https://music.163.com/album?id=74183565"
+    }
+  },
+  {
+    "name": "Back To Life",
+    "link": "https://music.163.com/song?id=1382765921",
+    "duration": "03:28",
+    "artists": [
+      {
+        "name": "Aérotique",
+        "link": "https://music.163.com/artist?id=12080243"
+      },
+      { "name": "Glaceo", "link": "https://music.163.com/artist?id=12607200" }
+    ],
+    "album": {
+      "name": "Back To Life",
+      "link": "https://music.163.com/album?id=80828600"
+    }
+  },
+  {
+    "name": "Smoke and Fire",
+    "link": "https://music.163.com/song?id=473571249",
+    "duration": "03:16",
+    "artists": [
+      { "name": "Cuebrick", "link": "https://music.163.com/artist?id=364737" },
+      { "name": "Karra", "link": "https://music.163.com/artist?id=1081582" }
+    ],
+    "album": {
+      "name": "Smoke and Fire",
+      "link": "https://music.163.com/album?id=35420066"
+    }
+  },
+  {
+    "name": "So Wrong",
+    "link": "https://music.163.com/song?id=1430420971",
+    "duration": "02:35",
+    "artists": [
+      {
+        "name": "Jac & Harri",
+        "link": "https://music.163.com/artist?id=12776287"
+      }
+    ],
+    "album": {
+      "name": "So Wrong",
+      "link": "https://music.163.com/album?id=86456373"
+    }
+  },
+  {
+    "name": "Return Of The Raver",
+    "link": "https://music.163.com/song?id=31721425",
+    "duration": "03:28",
+    "artists": [
+      { "name": "Vexento", "link": "https://music.163.com/artist?id=12037010" }
+    ],
+    "album": {
+      "name": "Return Of The Raver",
+      "link": "https://music.163.com/album?id=3121985"
+    }
+  },
+  {
+    "name": "Boys Will Be Boys",
+    "link": "https://music.163.com/song?id=1394954787",
+    "duration": "02:35",
+    "artists": [
+      { "name": "Bülow", "link": "https://music.163.com/artist?id=12809019" }
+    ],
+    "album": {
+      "name": "The Contender",
+      "link": "https://music.163.com/album?id=82140051"
+    }
+  },
+  {
+    "name": "Animal",
+    "link": "https://music.163.com/song?id=1341890252",
+    "duration": "03:35",
+    "artists": [
+      { "name": "AURORA", "link": "https://music.163.com/artist?id=1043338" }
+    ],
+    "album": {
+      "name": "Animal",
+      "link": "https://music.163.com/album?id=75318391"
+    }
+  },
+  {
+    "name": "Last Summer",
+    "link": "https://music.163.com/song?id=1298291722",
+    "duration": "02:46",
+    "artists": [
+      {
+        "name": "Andrew Rayel",
+        "link": "https://music.163.com/artist?id=191512"
+      },
+      { "name": "Garibay", "link": "https://music.163.com/artist?id=29718322" },
+      {
+        "name": "Jake Torrey",
+        "link": "https://music.163.com/artist?id=28191598"
+      }
+    ],
+    "album": {
+      "name": "Last Summer",
+      "link": "https://music.163.com/album?id=72101893"
+    }
+  },
+  {
+    "name": "Eclipse",
+    "link": "https://music.163.com/song?id=1313014555",
+    "duration": "04:37",
+    "artists": [
+      {
+        "name": "Last Heroes",
+        "link": "https://music.163.com/artist?id=11987034"
+      },
+      {
+        "name": "TwoWorldsApart",
+        "link": "https://music.163.com/artist?id=12214272"
+      },
+      { "name": "AERYN", "link": "https://music.163.com/artist?id=13895932" }
+    ],
+    "album": {
+      "name": "Eclipse",
+      "link": "https://music.163.com/album?id=73633470"
+    }
+  },
+  {
+    "name": "Sunday",
+    "link": "https://music.163.com/song?id=1438816637",
+    "duration": "02:33",
+    "artists": [
+      {
+        "name": "Sara Diamond",
+        "link": "https://music.163.com/artist?id=12011192"
+      }
+    ],
+    "album": {
+      "name": "Sunday",
+      "link": "https://music.163.com/album?id=87794909"
+    }
+  },
+  {
+    "name": "Feel Again",
+    "link": "https://music.163.com/song?id=1395040280",
+    "duration": "02:44",
+    "artists": [
+      { "name": "JLV", "link": "https://music.163.com/artist?id=12335463" }
+    ],
+    "album": {
+      "name": "Feel Again",
+      "link": "https://music.163.com/album?id=82145572"
+    }
+  }
+]

@@ -1,0 +1,483 @@
+[
+  {
+    "name": "Close My Eyes",
+    "link": "https://music.163.com/song?id=1367325695",
+    "duration": "03:22",
+    "artists": [
+      {
+        "name": "Hey Violet",
+        "link": "https://music.163.com/artist?id=1102151"
+      }
+    ],
+    "album": {
+      "name": "Close My Eyes",
+      "link": "https://music.163.com/album?id=79369000"
+    }
+  },
+  {
+    "name": "Every Little Piece",
+    "link": "https://music.163.com/song?id=1392122040",
+    "duration": "03:02",
+    "artists": [
+      {
+        "name": "Michael Schulte",
+        "link": "https://music.163.com/artist?id=40222"
+      }
+    ],
+    "album": {
+      "name": "Highs & Lows",
+      "link": "https://music.163.com/album?id=81791622"
+    }
+  },
+  {
+    "name": "Wasted (KAJ Remix)",
+    "link": "https://music.163.com/song?id=1422626002",
+    "duration": "02:54",
+    "artists": [
+      { "name": "Carda", "link": "https://music.163.com/artist?id=12095135" },
+      {
+        "name": "Emily Falvey",
+        "link": "https://music.163.com/artist?id=31678015"
+      }
+    ],
+    "album": {
+      "name": "Wasted (Remixes)",
+      "link": "https://music.163.com/album?id=85652766"
+    }
+  },
+  {
+    "name": "Choose to Believe",
+    "link": "https://music.163.com/song?id=1377657663",
+    "duration": "03:29",
+    "artists": [
+      { "name": "RØYLS", "link": "https://music.163.com/artist?id=31531724" }
+    ],
+    "album": {
+      "name": "Choose to Believe",
+      "link": "https://music.163.com/album?id=80373498"
+    }
+  },
+  {
+    "name": "Magical",
+    "link": "https://music.163.com/song?id=1406067418",
+    "duration": "02:38",
+    "artists": [
+      {
+        "name": "Newclaess",
+        "link": "https://music.163.com/artist?id=13335706"
+      },
+      { "name": "Anvy", "link": "https://music.163.com/artist?id=14203234" }
+    ],
+    "album": {
+      "name": "Magical",
+      "link": "https://music.163.com/album?id=83680136"
+    }
+  },
+  {
+    "name": "Back to Me",
+    "link": "https://music.163.com/song?id=1426272975",
+    "duration": "03:49",
+    "artists": [
+      { "name": "Caslow", "link": "https://music.163.com/artist?id=15109745" },
+      { "name": "Xela", "link": "https://music.163.com/artist?id=32154679" }
+    ],
+    "album": {
+      "name": "Back to Me",
+      "link": "https://music.163.com/album?id=86025167"
+    }
+  },
+  {
+    "name": "Summer Rain",
+    "link": "https://music.163.com/song?id=1382515441",
+    "duration": "03:07",
+    "artists": [
+      { "name": "Manse", "link": "https://music.163.com/artist?id=855409" },
+      { "name": "Yaro", "link": "https://music.163.com/artist?id=133708" },
+      {
+        "name": "Philip Strand",
+        "link": "https://music.163.com/artist?id=13210678"
+      }
+    ],
+    "album": {
+      "name": "Summer Rain",
+      "link": "https://music.163.com/album?id=80810004"
+    }
+  },
+  {
+    "name": "Hope It Hurts",
+    "link": "https://music.163.com/song?id=1428684697",
+    "duration": "04:17",
+    "artists": [
+      { "name": "Dabin", "link": "https://music.163.com/artist?id=783446" },
+      { "name": "Essenger", "link": "https://music.163.com/artist?id=31400823" }
+    ],
+    "album": {
+      "name": "Hope It Hurts",
+      "link": "https://music.163.com/album?id=86279741"
+    }
+  },
+  {
+    "name": "Miss Me More",
+    "link": "https://music.163.com/song?id=1385993747",
+    "duration": "03:11",
+    "artists": [
+      { "name": "3LAU", "link": "https://music.163.com/artist?id=762511" }
+    ],
+    "album": {
+      "name": "Miss Me More",
+      "link": "https://music.163.com/album?id=81097790"
+    }
+  },
+  {
+    "name": "Come Home (Hazey Eyes Remix)",
+    "link": "https://music.163.com/song?id=500353059",
+    "duration": "03:01",
+    "artists": [
+      { "name": "BAYNK", "link": "https://music.163.com/artist?id=12096025" },
+      { "name": "Shallou", "link": "https://music.163.com/artist?id=12029377" },
+      {
+        "name": "hazey eyes",
+        "link": "https://music.163.com/artist?id=12047491"
+      }
+    ],
+    "album": {
+      "name": "Come Home (Remixes)",
+      "link": "https://music.163.com/album?id=36008033"
+    }
+  },
+  {
+    "name": "Wannabe",
+    "link": "https://music.163.com/song?id=1375686901",
+    "duration": "03:07",
+    "artists": [
+      { "name": "Jonasu", "link": "https://music.163.com/artist?id=28527997" }
+    ],
+    "album": {
+      "name": "Wannabe",
+      "link": "https://music.163.com/album?id=80181811"
+    }
+  },
+  {
+    "name": "First Time (Acoustic)",
+    "link": "https://music.163.com/song?id=1340514532",
+    "duration": "04:11",
+    "artists": [
+      {
+        "name": "Seven Lions",
+        "link": "https://music.163.com/artist?id=44204"
+      },
+      { "name": "SLANDER", "link": "https://music.163.com/artist?id=1137239" },
+      { "name": "Dabin", "link": "https://music.163.com/artist?id=783446" },
+      {
+        "name": "Dylan Matthew",
+        "link": "https://music.163.com/artist?id=28684353"
+      }
+    ],
+    "album": {
+      "name": "First Time (Acoustic)",
+      "link": "https://music.163.com/album?id=75227017"
+    }
+  },
+  {
+    "name": "Feel Like (17)",
+    "link": "https://music.163.com/song?id=1400073772",
+    "duration": "03:11",
+    "artists": [
+      {
+        "name": "Ashton Love",
+        "link": "https://music.163.com/artist?id=1046021"
+      },
+      { "name": "MPV", "link": "https://music.163.com/artist?id=11974108" },
+      { "name": "4Beats", "link": "https://music.163.com/artist?id=33585659" },
+      {
+        "name": "Conan Mac",
+        "link": "https://music.163.com/artist?id=32653927"
+      }
+    ],
+    "album": {
+      "name": "Feel Like (17)",
+      "link": "https://music.163.com/album?id=82856756"
+    }
+  },
+  {
+    "name": "Ibiza",
+    "link": "https://music.163.com/song?id=1325165053",
+    "duration": "03:22",
+    "artists": [
+      { "name": "AndyM", "link": "https://music.163.com/artist?id=12023320" },
+      {
+        "name": "Decimal 5",
+        "link": "https://music.163.com/artist?id=12408029"
+      },
+      {
+        "name": "Ralph Larenzo",
+        "link": "https://music.163.com/artist?id=13976824"
+      }
+    ],
+    "album": {
+      "name": "Ibiza",
+      "link": "https://music.163.com/album?id=74397798"
+    }
+  },
+  {
+    "name": "Halcyon (Mo Falk Remix)",
+    "link": "https://music.163.com/song?id=1442387907",
+    "duration": "02:25",
+    "artists": [
+      {
+        "name": "Danny Olson",
+        "link": "https://music.163.com/artist?id=1178296"
+      },
+      {
+        "name": "Henry Hartley",
+        "link": "https://music.163.com/artist?id=29283004"
+      }
+    ],
+    "album": {
+      "name": "Halcyon (Mo Falk Remix)",
+      "link": "https://music.163.com/album?id=88330552"
+    }
+  },
+  {
+    "name": "Enough Is Enough (feat. Richard Caddock)",
+    "link": "https://music.163.com/song?id=399366526",
+    "duration": "03:19",
+    "artists": [
+      { "name": "Puppet", "link": "https://music.163.com/artist?id=152355" },
+      { "name": "Cormak", "link": "https://music.163.com/artist?id=1050882" },
+      {
+        "name": "Richard Caddock",
+        "link": "https://music.163.com/artist?id=1084247"
+      }
+    ],
+    "album": {
+      "name": "Enough Is Enough (feat. Richard Caddock)",
+      "link": "https://music.163.com/album?id=34408421"
+    }
+  },
+  {
+    "name": "Alibi",
+    "link": "https://music.163.com/song?id=1443498363",
+    "duration": "03:12",
+    "artists": [
+      { "name": "Distrion", "link": "https://music.163.com/artist?id=1050853" },
+      { "name": "Heleen", "link": "https://music.163.com/artist?id=28866940" }
+    ],
+    "album": {
+      "name": "Alibi",
+      "link": "https://music.163.com/album?id=88548182"
+    }
+  },
+  {
+    "name": "I Want U",
+    "link": "https://music.163.com/song?id=1401826804",
+    "duration": "02:31",
+    "artists": [
+      {
+        "name": "Martin Fritzon",
+        "link": "https://music.163.com/artist?id=12766221"
+      },
+      { "name": "Theis EZ", "link": "https://music.163.com/artist?id=13194343" }
+    ],
+    "album": {
+      "name": "I Want U",
+      "link": "https://music.163.com/album?id=83093856"
+    }
+  },
+  {
+    "name": "Enough",
+    "link": "https://music.163.com/song?id=1354605470",
+    "duration": "03:38",
+    "artists": [
+      {
+        "name": "Mr FijiWiji",
+        "link": "https://music.163.com/artist?id=40353"
+      },
+      { "name": "Matt Van", "link": "https://music.163.com/artist?id=12441178" }
+    ],
+    "album": {
+      "name": "Enough",
+      "link": "https://music.163.com/album?id=78220074"
+    }
+  },
+  {
+    "name": "First Time (feat. Dylan Matthew)",
+    "link": "https://music.163.com/song?id=1316562834",
+    "duration": "04:57",
+    "artists": [
+      {
+        "name": "Seven Lions",
+        "link": "https://music.163.com/artist?id=44204"
+      },
+      { "name": "SLANDER", "link": "https://music.163.com/artist?id=1137239" },
+      { "name": "Dabin", "link": "https://music.163.com/artist?id=783446" },
+      {
+        "name": "Dylan Matthew",
+        "link": "https://music.163.com/artist?id=28684353"
+      }
+    ],
+    "album": {
+      "name": "First Time (feat. Dylan Matthew)",
+      "link": "https://music.163.com/album?id=73468400"
+    }
+  },
+  {
+    "name": "Save Me Now",
+    "link": "https://music.163.com/song?id=1413981894",
+    "duration": "03:25",
+    "artists": [
+      { "name": "J3RO", "link": "https://music.163.com/artist?id=30365180" },
+      { "name": "Notbad", "link": "https://music.163.com/artist?id=34104681" },
+      {
+        "name": "Revealed Recordings",
+        "link": "https://music.163.com/artist?id=28753573"
+      },
+      {
+        "name": "Cornelia Antonijev",
+        "link": "https://music.163.com/artist?id=30364216"
+      }
+    ],
+    "album": {
+      "name": "Save Me Now",
+      "link": "https://music.163.com/album?id=84698733"
+    }
+  },
+  {
+    "name": "I Don't Mind",
+    "link": "https://music.163.com/song?id=532940294",
+    "duration": "03:47",
+    "artists": [
+      { "name": "Direct", "link": "https://music.163.com/artist?id=758029" },
+      { "name": "Matt Van", "link": "https://music.163.com/artist?id=12441178" }
+    ],
+    "album": {
+      "name": "I Don't Mind",
+      "link": "https://music.163.com/album?id=37316496"
+    }
+  },
+  {
+    "name": "Someone That I Needed (with Dia Frampton)",
+    "link": "https://music.163.com/song?id=1418381608",
+    "duration": "04:14",
+    "artists": [
+      {
+        "name": "Jason Ross",
+        "link": "https://music.163.com/artist?id=906123"
+      },
+      {
+        "name": "Dia Frampton",
+        "link": "https://music.163.com/artist?id=55454"
+      }
+    ],
+    "album": {
+      "name": "1000 Faces",
+      "link": "https://music.163.com/album?id=85158537"
+    }
+  },
+  {
+    "name": "Dilemma",
+    "link": "https://music.163.com/song?id=1450866941",
+    "duration": "02:32",
+    "artists": [
+      {
+        "name": "Pixel Terror",
+        "link": "https://music.163.com/artist?id=12901261"
+      },
+      { "name": "Dyson", "link": "https://music.163.com/artist?id=301602" }
+    ],
+    "album": {
+      "name": "Dilemma",
+      "link": "https://music.163.com/album?id=89939745"
+    }
+  },
+  {
+    "name": "White Rabbit",
+    "link": "https://music.163.com/song?id=1419415977",
+    "duration": "02:05",
+    "artists": [
+      {
+        "name": "Lilianna Wilde",
+        "link": "https://music.163.com/artist?id=14711114"
+      }
+    ],
+    "album": {
+      "name": "White Rabbit",
+      "link": "https://music.163.com/album?id=85292510"
+    }
+  },
+  {
+    "name": "Fire To Start",
+    "link": "https://music.163.com/song?id=536870201",
+    "duration": "02:44",
+    "artists": [
+      { "name": "CARYS", "link": "https://music.163.com/artist?id=14639123" }
+    ],
+    "album": {
+      "name": "Songs About Boys",
+      "link": "https://music.163.com/album?id=37586032"
+    }
+  },
+  {
+    "name": "Doing To Me",
+    "link": "https://music.163.com/song?id=1387546996",
+    "duration": "03:10",
+    "artists": [
+      { "name": "Astrid S", "link": "https://music.163.com/artist?id=1081844" }
+    ],
+    "album": {
+      "name": "Trust Issues",
+      "link": "https://music.163.com/album?id=81251499"
+    }
+  },
+  {
+    "name": "Insight",
+    "link": "https://music.163.com/song?id=41647479",
+    "duration": "03:41",
+    "artists": [
+      { "name": "Haywyre", "link": "https://music.163.com/artist?id=35031" }
+    ],
+    "album": {
+      "name": "Monstercat - Best of 2015",
+      "link": "https://music.163.com/album?id=3451175"
+    }
+  },
+  {
+    "name": "Riddle",
+    "link": "https://music.163.com/song?id=1440250320",
+    "duration": "03:48",
+    "artists": [
+      {
+        "name": "Bad Computer",
+        "link": "https://music.163.com/artist?id=12647410"
+      }
+    ],
+    "album": {
+      "name": "Riddle",
+      "link": "https://music.163.com/album?id=87938967"
+    }
+  },
+  {
+    "name": "Revenger",
+    "link": "https://music.163.com/song?id=1428126645",
+    "duration": "03:42",
+    "artists": [
+      { "name": "F.O.O.L", "link": "https://music.163.com/artist?id=93082" }
+    ],
+    "album": {
+      "name": "Revenger",
+      "link": "https://music.163.com/album?id=86223106"
+    }
+  },
+  {
+    "name": "Bulletproof",
+    "link": "https://music.163.com/song?id=1416675100",
+    "duration": "03:44",
+    "artists": [
+      { "name": "ARMNHMR", "link": "https://music.163.com/artist?id=1132078" }
+    ],
+    "album": {
+      "name": "The Free World",
+      "link": "https://music.163.com/album?id=84981689"
+    }
+  }
+]

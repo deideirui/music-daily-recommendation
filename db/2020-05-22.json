@@ -1,0 +1,457 @@
+[
+  {
+    "name": "Sometimes",
+    "link": "https://music.163.com/song?id=1352734671",
+    "duration": "03:02",
+    "artists": [
+      { "name": "DallasK", "link": "https://music.163.com/artist?id=282095" },
+      {
+        "name": "Nicky Romero",
+        "link": "https://music.163.com/artist?id=195142"
+      },
+      { "name": "XYLØ", "link": "https://music.163.com/artist?id=1050511" }
+    ],
+    "album": {
+      "name": "Sometimes",
+      "link": "https://music.163.com/album?id=75883439"
+    }
+  },
+  {
+    "name": "Time Of Our Lives",
+    "link": "https://music.163.com/song?id=456185085",
+    "duration": "03:00",
+    "artists": [
+      { "name": "Manse", "link": "https://music.163.com/artist?id=855409" }
+    ],
+    "album": {
+      "name": "Time Of Our Lives",
+      "link": "https://music.163.com/album?id=35157025"
+    }
+  },
+  {
+    "name": "Smiling Down On Me",
+    "link": "https://music.163.com/song?id=1423294",
+    "duration": "03:14",
+    "artists": [
+      { "name": "Galen Crew", "link": "https://music.163.com/artist?id=34435" }
+    ],
+    "album": {
+      "name": "Better Than a Fairy Tale",
+      "link": "https://music.163.com/album?id=145852"
+    }
+  },
+  {
+    "name": "Fickle Game",
+    "link": "https://music.163.com/song?id=451701071",
+    "duration": "04:23",
+    "artists": [
+      { "name": "Amber Run", "link": "https://music.163.com/artist?id=855388" }
+    ],
+    "album": {
+      "name": "Fickle Game",
+      "link": "https://music.163.com/album?id=35113216"
+    }
+  },
+  {
+    "name": "Put You Together Again (Extended Mix)",
+    "link": "https://music.163.com/song?id=542692728",
+    "duration": "07:27",
+    "artists": [
+      { "name": "Sarah Lynn", "link": "https://music.163.com/artist?id=813383" }
+    ],
+    "album": {
+      "name": "Put You Together Again",
+      "link": "https://music.163.com/album?id=37782996"
+    }
+  },
+  {
+    "name": "Siren",
+    "link": "https://music.163.com/song?id=409031749",
+    "duration": "03:19",
+    "artists": [
+      { "name": "Vicetone", "link": "https://music.163.com/artist?id=747030" },
+      { "name": "Pia Toscano", "link": "https://music.163.com/artist?id=71453" }
+    ],
+    "album": {
+      "name": "Siren",
+      "link": "https://music.163.com/album?id=34608032"
+    }
+  },
+  {
+    "name": "Re-Election",
+    "link": "https://music.163.com/song?id=1447943118",
+    "duration": "03:12",
+    "artists": [
+      {
+        "name": "Ørjan Nilsen",
+        "link": "https://music.163.com/artist?id=41064"
+      },
+      {
+        "name": "DJ Governor",
+        "link": "https://music.163.com/artist?id=207486"
+      }
+    ],
+    "album": {
+      "name": "Re-Election",
+      "link": "https://music.163.com/album?id=89419877"
+    }
+  },
+  {
+    "name": "GLASSY SKY - (琉璃夜空)",
+    "link": "https://music.163.com/song?id=30706129",
+    "duration": "04:54",
+    "artists": [
+      { "name": "Donna Burke", "link": "https://music.163.com/artist?id=55424" }
+    ],
+    "album": {
+      "name": "TV ANIMATION Tokyo Ghoul Original Soundtrack",
+      "link": "https://music.163.com/album?id=3104199"
+    }
+  },
+  {
+    "name": "Without You",
+    "link": "https://music.163.com/song?id=1442996726",
+    "duration": "03:10",
+    "artists": [
+      { "name": "Brooks", "link": "https://music.163.com/artist?id=49308" },
+      {
+        "name": "Julian Jordan",
+        "link": "https://music.163.com/artist?id=205395"
+      }
+    ],
+    "album": {
+      "name": "Without You",
+      "link": "https://music.163.com/album?id=88456993"
+    }
+  },
+  {
+    "name": "反面角色",
+    "link": "https://music.163.com/song?id=547360643",
+    "duration": "03:59",
+    "artists": [
+      { "name": "李多娜", "link": "https://music.163.com/artist?id=12468201" }
+    ],
+    "album": {
+      "name": "反面角色",
+      "link": "https://music.163.com/album?id=38001489"
+    }
+  },
+  {
+    "name": "会いたい",
+    "link": "https://music.163.com/song?id=408604",
+    "duration": "04:56",
+    "artists": [
+      { "name": "徳永英明", "link": "https://music.163.com/artist?id=13961" }
+    ],
+    "album": {
+      "name": "VOCALIST",
+      "link": "https://music.163.com/album?id=40354"
+    }
+  },
+  {
+    "name": "Raver Dome",
+    "link": "https://music.163.com/song?id=1446339174",
+    "duration": "03:39",
+    "artists": [
+      {
+        "name": "3 Are Legend",
+        "link": "https://music.163.com/artist?id=32842526"
+      },
+      {
+        "name": "Justin Prime",
+        "link": "https://music.163.com/artist?id=897015"
+      },
+      {
+        "name": "Sandro Silva",
+        "link": "https://music.163.com/artist?id=205463"
+      }
+    ],
+    "album": {
+      "name": "Raver Dome",
+      "link": "https://music.163.com/album?id=89109550"
+    }
+  },
+  {
+    "name": "Worlds Apart",
+    "link": "https://music.163.com/song?id=29950502",
+    "duration": "03:42",
+    "artists": [
+      {
+        "name": "Joshua Radin",
+        "link": "https://music.163.com/artist?id=35349"
+      }
+    ],
+    "album": {
+      "name": "Onward and Sideways",
+      "link": "https://music.163.com/album?id=3089051"
+    }
+  },
+  {
+    "name": "Fall On Me",
+    "link": "https://music.163.com/song?id=1405639996",
+    "duration": "04:23",
+    "artists": [
+      {
+        "name": "A Great Big World",
+        "link": "https://music.163.com/artist?id=843001"
+      },
+      {
+        "name": "Christina Aguilera",
+        "link": "https://music.163.com/artist?id=50892"
+      }
+    ],
+    "album": {
+      "name": "Fall On Me",
+      "link": "https://music.163.com/album?id=83637695"
+    }
+  },
+  {
+    "name": "Follow",
+    "link": "https://music.163.com/song?id=17417072",
+    "duration": "02:45",
+    "artists": [
+      { "name": "DIIV", "link": "https://music.163.com/artist?id=91627" }
+    ],
+    "album": {
+      "name": "Oshin",
+      "link": "https://music.163.com/album?id=1605565"
+    }
+  },
+  {
+    "name": "Creo en Mi",
+    "link": "https://music.163.com/song?id=29562331",
+    "duration": "03:48",
+    "artists": [
+      {
+        "name": "Natalia Jiménez",
+        "link": "https://music.163.com/artist?id=70218"
+      }
+    ],
+    "album": {
+      "name": "Creo en Mi",
+      "link": "https://music.163.com/album?id=3044088"
+    }
+  },
+  {
+    "name": "ninelie - (TV动画「甲铁城的卡巴内瑞」ED)",
+    "link": "https://music.163.com/song?id=409872504",
+    "duration": "04:20",
+    "artists": [
+      { "name": "Aimer", "link": "https://music.163.com/artist?id=16152" },
+      { "name": "EGOIST", "link": "https://music.163.com/artist?id=19353" }
+    ],
+    "album": {
+      "name": "ninelie",
+      "link": "https://music.163.com/album?id=34609370"
+    }
+  },
+  {
+    "name": "First Kiss",
+    "link": "https://music.163.com/song?id=485992075",
+    "duration": "03:08",
+    "artists": [
+      {
+        "name": "Marcus & Martinus",
+        "link": "https://music.163.com/artist?id=1132109"
+      }
+    ],
+    "album": {
+      "name": "First Kiss",
+      "link": "https://music.163.com/album?id=35630845"
+    }
+  },
+  {
+    "name": "Taco Tuesday",
+    "link": "https://music.163.com/song?id=1445988502",
+    "duration": "01:36",
+    "artists": [
+      { "name": "Migos", "link": "https://music.163.com/artist?id=776824" }
+    ],
+    "album": {
+      "name": "Taco Tuesday",
+      "link": "https://music.163.com/album?id=89041404"
+    }
+  },
+  {
+    "name": "Piano Dreams (Full Version)",
+    "link": "https://music.163.com/song?id=429450822",
+    "duration": "03:43",
+    "artists": [
+      {
+        "name": "Andreas B.",
+        "link": "https://music.163.com/artist?id=299713"
+      },
+      { "name": "Felix", "link": "https://music.163.com/artist?id=93104" }
+    ],
+    "album": {
+      "name": "Piano Dreams (Full Version)",
+      "link": "https://music.163.com/album?id=34862000"
+    }
+  },
+  {
+    "name": "This Time Tomorrow",
+    "link": "https://music.163.com/song?id=2057433",
+    "duration": "04:27",
+    "artists": [
+      { "name": "Trent Dabbs", "link": "https://music.163.com/artist?id=45163" }
+    ],
+    "album": {
+      "name": "This Time Tomorrow",
+      "link": "https://music.163.com/album?id=207316"
+    }
+  },
+  {
+    "name": "Take It Slow",
+    "link": "https://music.163.com/song?id=410654864",
+    "duration": "03:29",
+    "artists": [
+      { "name": "Monogem", "link": "https://music.163.com/artist?id=1078007" }
+    ],
+    "album": {
+      "name": "Take It Slow",
+      "link": "https://music.163.com/album?id=34609807"
+    }
+  },
+  {
+    "name": "重生",
+    "link": "https://music.163.com/song?id=1378409664",
+    "duration": "01:11",
+    "artists": [
+      { "name": "陈达飞", "link": "https://music.163.com/artist?id=12078188" }
+    ],
+    "album": {
+      "name": "永远的7日之都 印象集II",
+      "link": "https://music.163.com/album?id=74751216"
+    }
+  },
+  {
+    "name": "Aftermath",
+    "link": "https://music.163.com/song?id=19673433",
+    "duration": "03:59",
+    "artists": [
+      { "name": "Doveman", "link": "https://music.163.com/artist?id=31613" }
+    ],
+    "album": {
+      "name": "The Conformist",
+      "link": "https://music.163.com/album?id=1814524"
+    }
+  },
+  {
+    "name": "Spirits of the Old Lake",
+    "link": "https://music.163.com/song?id=4150121",
+    "duration": "10:40",
+    "artists": [
+      { "name": "Koan", "link": "https://music.163.com/artist?id=95385" }
+    ],
+    "album": {
+      "name": "Legends: Inhale",
+      "link": "https://music.163.com/album?id=419563"
+    }
+  },
+  {
+    "name": "Paper Stars",
+    "link": "https://music.163.com/song?id=482988290",
+    "duration": "03:06",
+    "artists": [
+      {
+        "name": "West Coast Massive",
+        "link": "https://music.163.com/artist?id=12441143"
+      },
+      { "name": "Cappa", "link": "https://music.163.com/artist?id=1053281" }
+    ],
+    "album": {
+      "name": "Paper Stars",
+      "link": "https://music.163.com/album?id=35590467"
+    }
+  },
+  {
+    "name": "America Online",
+    "link": "https://music.163.com/song?id=1382563286",
+    "duration": "05:49",
+    "artists": [
+      {
+        "name": "The Midnight",
+        "link": "https://music.163.com/artist?id=12023492"
+      }
+    ],
+    "album": {
+      "name": "America Online",
+      "link": "https://music.163.com/album?id=80814868"
+    }
+  },
+  {
+    "name": "Habitual Overtones",
+    "link": "https://music.163.com/song?id=527424694",
+    "duration": "08:56",
+    "artists": [
+      {
+        "name": "Entheogenic",
+        "link": "https://music.163.com/artist?id=129718"
+      }
+    ],
+    "album": {
+      "name": "Spontaneous Illumination",
+      "link": "https://music.163.com/album?id=37142244"
+    }
+  },
+  {
+    "name": "Keep Going (Original Mix)",
+    "link": "https://music.163.com/song?id=33378326",
+    "duration": "05:20",
+    "artists": [
+      { "name": "Berger", "link": "https://music.163.com/artist?id=133529" },
+      { "name": "Shaqiri", "link": "https://music.163.com/artist?id=1111026" },
+      { "name": "future nat", "link": "https://music.163.com/artist?id=658164" }
+    ],
+    "album": {
+      "name": "Keep Going",
+      "link": "https://music.163.com/album?id=3206065"
+    }
+  },
+  {
+    "name": "Let It Die",
+    "link": "https://music.163.com/song?id=30053583",
+    "duration": "03:51",
+    "artists": [
+      {
+        "name": "Tayler Buono",
+        "link": "https://music.163.com/artist?id=83212"
+      }
+    ],
+    "album": {
+      "name": "Unseen",
+      "link": "https://music.163.com/album?id=3092084"
+    }
+  },
+  {
+    "name": "I Had This Thing (Sebastien Remix) ",
+    "link": "https://music.163.com/song?id=35617848",
+    "duration": "06:15",
+    "artists": [
+      {
+        "name": "Sebastien",
+        "link": "https://music.163.com/artist?id=1171040"
+      },
+      { "name": "Röyksopp", "link": "https://music.163.com/artist?id=99380" }
+    ],
+    "album": {
+      "name": "I Had This Thing",
+      "link": "https://music.163.com/album?id=3357132"
+    }
+  },
+  {
+    "name": "Dancing With Your Ghost",
+    "link": "https://music.163.com/song?id=1374329431",
+    "duration": "03:17",
+    "artists": [
+      {
+        "name": "Sasha Sloan",
+        "link": "https://music.163.com/artist?id=12646102"
+      }
+    ],
+    "album": {
+      "name": "Dancing With Your Ghost",
+      "link": "https://music.163.com/album?id=80029518"
+    }
+  }
+]

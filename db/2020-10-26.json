@@ -1,0 +1,465 @@
+[
+  {
+    "name": "Trip",
+    "link": "https://music.163.com/song?id=36492599",
+    "duration": "03:08",
+    "artists": [
+      { "name": "Axero", "link": "https://music.163.com/artist?id=1035020" }
+    ],
+    "album": {
+      "name": "Trip",
+      "link": "https://music.163.com/album?id=3395395"
+    }
+  },
+  {
+    "name": "Sky (Radio Edit)",
+    "link": "https://music.163.com/song?id=29553031",
+    "duration": "03:56",
+    "artists": [
+      { "name": "Steerner", "link": "https://music.163.com/artist?id=783190" },
+      { "name": "Martell", "link": "https://music.163.com/artist?id=12023568" }
+    ],
+    "album": { "name": "Sky", "link": "https://music.163.com/album?id=3044006" }
+  },
+  {
+    "name": "I Wish I Never Met You",
+    "link": "https://music.163.com/song?id=1403597982",
+    "duration": "02:59",
+    "artists": [
+      { "name": "Oh Wonder", "link": "https://music.163.com/artist?id=1050128" }
+    ],
+    "album": {
+      "name": "No One Else Can Wear Your Crown",
+      "link": "https://music.163.com/album?id=85538401"
+    }
+  },
+  {
+    "name": "far out of sight",
+    "link": "https://music.163.com/song?id=1358189193",
+    "duration": "02:43",
+    "artists": [
+      { "name": "Resonance", "link": "https://music.163.com/artist?id=196588" }
+    ],
+    "album": {
+      "name": "far out of sight",
+      "link": "https://music.163.com/album?id=78479687"
+    }
+  },
+  {
+    "name": "Gamle Dager",
+    "link": "https://music.163.com/song?id=1435830084",
+    "duration": "03:05",
+    "artists": [
+      {
+        "name": "Morgan Sulele",
+        "link": "https://music.163.com/artist?id=1085061"
+      },
+      {
+        "name": "Måns Zelmerlöw",
+        "link": "https://music.163.com/artist?id=38903"
+      }
+    ],
+    "album": {
+      "name": "Gamle Dager",
+      "link": "https://music.163.com/album?id=87122921"
+    }
+  },
+  {
+    "name": "Bloom",
+    "link": "https://music.163.com/song?id=1354634080",
+    "duration": "03:45",
+    "artists": [
+      {
+        "name": "Tony Anderson",
+        "link": "https://music.163.com/artist?id=79757"
+      },
+      {
+        "name": "Bonnie Brooksbank",
+        "link": "https://music.163.com/artist?id=31484048"
+      }
+    ],
+    "album": {
+      "name": "Bloom",
+      "link": "https://music.163.com/album?id=78221666"
+    }
+  },
+  {
+    "name": "All I Want",
+    "link": "https://music.163.com/song?id=26505362",
+    "duration": "05:05",
+    "artists": [
+      { "name": "Kodaline", "link": "https://music.163.com/artist?id=727007" }
+    ],
+    "album": {
+      "name": "In A Perfect World",
+      "link": "https://music.163.com/album?id=2512079"
+    }
+  },
+  {
+    "name": "Dusk To Dawn",
+    "link": "https://music.163.com/song?id=503127087",
+    "duration": "04:33",
+    "artists": [
+      {
+        "name": "Josh Leake",
+        "link": "https://music.163.com/artist?id=12387197"
+      }
+    ],
+    "album": {
+      "name": "Dusk To Dawn",
+      "link": "https://music.163.com/album?id=36104045"
+    }
+  },
+  {
+    "name": "Before I Go",
+    "link": "https://music.163.com/song?id=1392408337",
+    "duration": "03:56",
+    "artists": [
+      {
+        "name": "Sullivan King",
+        "link": "https://music.163.com/artist?id=1032439"
+      }
+    ],
+    "album": {
+      "name": "Show Some Teeth",
+      "link": "https://music.163.com/album?id=81821000"
+    }
+  },
+  {
+    "name": "Losing Me (Piano Version)",
+    "link": "https://music.163.com/song?id=1388503739",
+    "duration": "03:10",
+    "artists": [
+      {
+        "name": "Gabrielle Aplin",
+        "link": "https://music.163.com/artist?id=59169"
+      },
+      { "name": "JP Cooper", "link": "https://music.163.com/artist?id=415889" }
+    ],
+    "album": {
+      "name": "Losing Me (Piano Version)",
+      "link": "https://music.163.com/album?id=81341723"
+    }
+  },
+  {
+    "name": "源氏(GenJi)",
+    "link": "https://music.163.com/song?id=457516012",
+    "duration": "03:35",
+    "artists": [
+      {
+        "name": "Forwe兰斯",
+        "link": "https://music.163.com/artist?id=12079166"
+      }
+    ],
+    "album": {
+      "name": "双龙(Dragons)",
+      "link": "https://music.163.com/album?id=35163260"
+    }
+  },
+  {
+    "name": "Last Train",
+    "link": "https://music.163.com/song?id=1460319080",
+    "duration": "04:22",
+    "artists": [
+      {
+        "name": "The Midnight",
+        "link": "https://music.163.com/artist?id=12023492"
+      }
+    ],
+    "album": {
+      "name": "Monsters",
+      "link": "https://music.163.com/album?id=91949236"
+    }
+  },
+  {
+    "name": "Some Day (Navion Remix)",
+    "link": "https://music.163.com/song?id=1371926441",
+    "duration": "03:40",
+    "artists": [
+      {
+        "name": "Misael Gauna ",
+        "link": "https://music.163.com/artist?id=1054136"
+      },
+      {
+        "name": "Noctilucent",
+        "link": "https://music.163.com/artist?id=1150036"
+      },
+      { "name": "Navion", "link": "https://music.163.com/artist?id=12096296" }
+    ],
+    "album": {
+      "name": "Some Day: The Remixes (feat. Noctilucent)",
+      "link": "https://music.163.com/album?id=79805273"
+    }
+  },
+  {
+    "name": "Sleeping Beauty",
+    "link": "https://music.163.com/song?id=862223911",
+    "duration": "04:12",
+    "artists": [
+      {
+        "name": "End of the World",
+        "link": "https://music.163.com/artist?id=35398530"
+      },
+      { "name": "Epik High", "link": "https://music.163.com/artist?id=126682" }
+    ],
+    "album": {
+      "name": "Sleeping Beauty",
+      "link": "https://music.163.com/album?id=71630217"
+    }
+  },
+  {
+    "name": "Chasing Lights",
+    "link": "https://music.163.com/song?id=491222808",
+    "duration": "04:00",
+    "artists": [
+      { "name": "千坂", "link": "https://music.163.com/artist?id=12138261" }
+    ],
+    "album": {
+      "name": "Chasing Lights",
+      "link": "https://music.163.com/album?id=35755974"
+    }
+  },
+  {
+    "name": "Time Traveller",
+    "link": "https://music.163.com/song?id=1387878319",
+    "duration": "04:00",
+    "artists": [
+      { "name": "闹闹丶", "link": "https://music.163.com/artist?id=12357233" },
+      { "name": "洛天依", "link": "https://music.163.com/artist?id=906118" }
+    ],
+    "album": {
+      "name": "Time Traveller",
+      "link": "https://music.163.com/album?id=81266778"
+    }
+  },
+  {
+    "name": "だから僕は音楽を辞めた - (所以我放弃了音乐)",
+    "link": "https://music.163.com/song?id=1357953768",
+    "duration": "04:02",
+    "artists": [
+      { "name": "ヨルシカ", "link": "https://music.163.com/artist?id=12390232" }
+    ],
+    "album": {
+      "name": "だから僕は音楽を辞めた",
+      "link": "https://music.163.com/album?id=78399571"
+    }
+  },
+  {
+    "name": "aranami - (TV动画《听我的电波吧》片头曲)",
+    "link": "https://music.163.com/song?id=1441322136",
+    "duration": "04:05",
+    "artists": [
+      { "name": "tacica", "link": "https://music.163.com/artist?id=21869" }
+    ],
+    "album": {
+      "name": "aranami",
+      "link": "https://music.163.com/album?id=88153339"
+    }
+  },
+  {
+    "name": "約束（翻自 リリィ、さよなら。） ",
+    "link": "https://music.163.com/song?id=1354451040",
+    "duration": "04:52",
+    "artists": [
+      { "name": "Akie秋绘", "link": "https://music.163.com/artist?id=12184145" }
+    ],
+    "album": {
+      "name": "约定",
+      "link": "https://music.163.com/album?id=78195836"
+    }
+  },
+  {
+    "name": "夕日",
+    "link": "https://music.163.com/song?id=700032",
+    "duration": "03:12",
+    "artists": [
+      { "name": "bassy", "link": "https://music.163.com/artist?id=36065004" },
+      { "name": "茶太", "link": "https://music.163.com/artist?id=17601" }
+    ],
+    "album": {
+      "name": "音楽ピューパとやさしい世界",
+      "link": "https://music.163.com/album?id=68077"
+    }
+  },
+  {
+    "name": "Maps",
+    "link": "https://music.163.com/song?id=31152570",
+    "duration": "03:18",
+    "artists": [
+      {
+        "name": "Alyson Stoner",
+        "link": "https://music.163.com/artist?id=48064"
+      },
+      { "name": "MAX", "link": "https://music.163.com/artist?id=759100" },
+      {
+        "name": "Kurt Hugo Schneider",
+        "link": "https://music.163.com/artist?id=37962"
+      }
+    ],
+    "album": {
+      "name": "Maps",
+      "link": "https://music.163.com/album?id=3112508"
+    }
+  },
+  {
+    "name": "Paper Thin",
+    "link": "https://music.163.com/song?id=1488678413",
+    "duration": "03:17",
+    "artists": [
+      { "name": "ILLENIUM", "link": "https://music.163.com/artist?id=1050518" },
+      {
+        "name": "Tom DeLonge",
+        "link": "https://music.163.com/artist?id=1053002"
+      },
+      {
+        "name": "Angels & Airwaves",
+        "link": "https://music.163.com/artist?id=129635"
+      }
+    ],
+    "album": {
+      "name": "Paper Thin",
+      "link": "https://music.163.com/album?id=97098885"
+    }
+  },
+  {
+    "name": "Rainy Bunny",
+    "link": "https://music.163.com/song?id=1372411347",
+    "duration": "04:12",
+    "artists": [
+      { "name": "人形兎", "link": "https://music.163.com/artist?id=12100072" }
+    ],
+    "album": {
+      "name": "Rainy Bunny",
+      "link": "https://music.163.com/album?id=79798231"
+    }
+  },
+  {
+    "name": "Pointless",
+    "link": "https://music.163.com/song?id=1482330439",
+    "duration": "04:25",
+    "artists": [
+      {
+        "name": "Event Horizon",
+        "link": "https://music.163.com/artist?id=1084265"
+      }
+    ],
+    "album": {
+      "name": "To Genesis",
+      "link": "https://music.163.com/album?id=95975935"
+    }
+  },
+  {
+    "name": "Truly",
+    "link": "https://music.163.com/song?id=480769654",
+    "duration": "04:03",
+    "artists": [
+      { "name": "CAS", "link": "https://music.163.com/artist?id=12023319" }
+    ],
+    "album": {
+      "name": "Cigarettes After ***",
+      "link": "https://music.163.com/album?id=35561162"
+    }
+  },
+  {
+    "name": "【洛天依】影子小姐",
+    "link": "https://music.163.com/song?id=1298762936",
+    "duration": "04:12",
+    "artists": [
+      {
+        "name": "著小生zoki",
+        "link": "https://music.163.com/artist?id=12558238"
+      },
+      { "name": "洛天依", "link": "https://music.163.com/artist?id=906118" }
+    ],
+    "album": {
+      "name": "影子小姐",
+      "link": "https://music.163.com/album?id=72067467"
+    }
+  },
+  {
+    "name": "Cyka Blyat",
+    "link": "https://music.163.com/song?id=1368324900",
+    "duration": "03:02",
+    "artists": [
+      {
+        "name": "DJ Blyatman",
+        "link": "https://music.163.com/artist?id=31586577"
+      },
+      {
+        "name": "Russian Village Boys",
+        "link": "https://music.163.com/artist?id=13618375"
+      }
+    ],
+    "album": {
+      "name": "Cyka Blyat",
+      "link": "https://music.163.com/album?id=79461538"
+    }
+  },
+  {
+    "name": "Reach",
+    "link": "https://music.163.com/song?id=28668204",
+    "duration": "03:15",
+    "artists": [
+      {
+        "name": "Grant Bowtie",
+        "link": "https://music.163.com/artist?id=904201"
+      }
+    ],
+    "album": {
+      "name": "Monstercat 017 - Ascension",
+      "link": "https://music.163.com/album?id=2877017"
+    }
+  },
+  {
+    "name": "超有感",
+    "link": "https://music.163.com/song?id=26479835",
+    "duration": "03:51",
+    "artists": [
+      { "name": "黄鸿升", "link": "https://music.163.com/artist?id=3101" }
+    ],
+    "album": {
+      "name": "超有感",
+      "link": "https://music.163.com/album?id=2505858"
+    }
+  },
+  {
+    "name": "China Anthem - (英雄联盟2016季中冠军赛LPL赛区战歌)",
+    "link": "https://music.163.com/song?id=414979145",
+    "duration": "02:50",
+    "artists": [
+      { "name": "英雄联盟", "link": "https://music.163.com/artist?id=1047337" }
+    ],
+    "album": {
+      "name": "2016 Mid-Season Invitational",
+      "link": "https://music.163.com/album?id=34721045"
+    }
+  },
+  {
+    "name": "Silence",
+    "link": "https://music.163.com/song?id=387837",
+    "duration": "04:20",
+    "artists": [
+      { "name": "小熊饼干", "link": "https://music.163.com/artist?id=13287" }
+    ],
+    "album": {
+      "name": "你要的我都有",
+      "link": "https://music.163.com/album?id=38420"
+    }
+  },
+  {
+    "name": "投降 Surrender",
+    "link": "https://music.163.com/song?id=1449821007",
+    "duration": "02:58",
+    "artists": [
+      { "name": "Psy.P", "link": "https://music.163.com/artist?id=29303235" },
+      {
+        "name": "Higher Brothers",
+        "link": "https://music.163.com/artist?id=12002201"
+      }
+    ],
+    "album": {
+      "name": "PSYLIFE.25",
+      "link": "https://music.163.com/album?id=89754896"
+    }
+  }
+]

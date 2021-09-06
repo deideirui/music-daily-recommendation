@@ -1,0 +1,460 @@
+[
+  {
+    "name": "Miracle",
+    "link": "https://music.163.com/song?id=551970123",
+    "duration": "03:08",
+    "artists": [
+      { "name": "CHVRCHES", "link": "https://music.163.com/artist?id=694027" }
+    ],
+    "album": {
+      "name": "Love Is Dead",
+      "link": "https://music.163.com/album?id=39596019"
+    }
+  },
+  {
+    "name": "Shogun X Adara - Face In The Crowd ",
+    "link": "https://music.163.com/song?id=1377129934",
+    "duration": "03:25",
+    "artists": [
+      { "name": "Shogun", "link": "https://music.163.com/artist?id=43743" },
+      { "name": "Adara", "link": "https://music.163.com/artist?id=1177069" }
+    ],
+    "album": {
+      "name": "Shogun X Adara - Face In The Crowd ",
+      "link": "https://music.163.com/album?id=80318599"
+    }
+  },
+  {
+    "name": "If Only You",
+    "link": "https://music.163.com/song?id=31514310",
+    "duration": "04:25",
+    "artists": [
+      {
+        "name": "Drop Tower",
+        "link": "https://music.163.com/artist?id=1057186"
+      }
+    ],
+    "album": {
+      "name": "If Only You",
+      "link": "https://music.163.com/album?id=3121250"
+    }
+  },
+  {
+    "name": "Somber (Acoustic)",
+    "link": "https://music.163.com/song?id=550616628",
+    "duration": "03:57",
+    "artists": [
+      {
+        "name": "Violet Days",
+        "link": "https://music.163.com/artist?id=947272"
+      },
+      { "name": "morgxn", "link": "https://music.163.com/artist?id=12053396" }
+    ],
+    "album": {
+      "name": "Somber (Acoustic)",
+      "link": "https://music.163.com/album?id=38099295"
+    }
+  },
+  {
+    "name": "Mind over Matter (Acoustic)",
+    "link": "https://music.163.com/song?id=28475344",
+    "duration": "03:23",
+    "artists": [
+      { "name": "PVRIS", "link": "https://music.163.com/artist?id=960005" }
+    ],
+    "album": {
+      "name": "Acoustic - EP",
+      "link": "https://music.163.com/album?id=2807560"
+    }
+  },
+  {
+    "name": "Fog",
+    "link": "https://music.163.com/song?id=35691378",
+    "duration": "04:29",
+    "artists": [
+      {
+        "name": "Jabberwocky",
+        "link": "https://music.163.com/artist?id=562358"
+      },
+      { "name": "Ana Zimmer", "link": "https://music.163.com/artist?id=250740" }
+    ],
+    "album": {
+      "name": "Lunar Lane",
+      "link": "https://music.163.com/album?id=3339155"
+    }
+  },
+  {
+    "name": "Without You",
+    "link": "https://music.163.com/song?id=496869523",
+    "duration": "03:01",
+    "artists": [
+      { "name": "Avicii", "link": "https://music.163.com/artist?id=45236" },
+      {
+        "name": "Sandro Cavazza",
+        "link": "https://music.163.com/artist?id=12323230"
+      }
+    ],
+    "album": {
+      "name": "AVĪCI (01)",
+      "link": "https://music.163.com/album?id=35919060"
+    }
+  },
+  {
+    "name": "Hollow",
+    "link": "https://music.163.com/song?id=1316563817",
+    "duration": "04:09",
+    "artists": [
+      { "name": "Wisp X", "link": "https://music.163.com/artist?id=1046123" }
+    ],
+    "album": {
+      "name": "Hollow",
+      "link": "https://music.163.com/album?id=73471394"
+    }
+  },
+  {
+    "name": "Until the Light(微光)",
+    "link": "https://music.163.com/song?id=1376410225",
+    "duration": "03:19",
+    "artists": [
+      { "name": "是Arealy", "link": "https://music.163.com/artist?id=12537035" }
+    ],
+    "album": {
+      "name": "Avalon(弦念)",
+      "link": "https://music.163.com/album?id=78382749"
+    }
+  },
+  {
+    "name": "Anything",
+    "link": "https://music.163.com/song?id=1300745124",
+    "duration": "03:20",
+    "artists": [
+      {
+        "name": "Alex Mattson",
+        "link": "https://music.163.com/artist?id=11998070"
+      },
+      { "name": "RØRY", "link": "https://music.163.com/artist?id=28774080" }
+    ],
+    "album": {
+      "name": "Anything",
+      "link": "https://music.163.com/album?id=72251026"
+    }
+  },
+  {
+    "name": "dark",
+    "link": "https://music.163.com/song?id=865021305",
+    "duration": "02:49",
+    "artists": [
+      {
+        "name": "Lindequist",
+        "link": "https://music.163.com/artist?id=1132958"
+      }
+    ],
+    "album": {
+      "name": "dark ",
+      "link": "https://music.163.com/album?id=71723007"
+    }
+  },
+  {
+    "name": "Tell Me",
+    "link": "https://music.163.com/song?id=571340327",
+    "duration": "02:38",
+    "artists": [
+      {
+        "name": "Marshmello",
+        "link": "https://music.163.com/artist?id=1060019"
+      }
+    ],
+    "album": {
+      "name": "Tell Me",
+      "link": "https://music.163.com/album?id=39590112"
+    }
+  },
+  {
+    "name": "How Can I Forget",
+    "link": "https://music.163.com/song?id=1311756591",
+    "duration": "02:57",
+    "artists": [
+      { "name": "MKTO", "link": "https://music.163.com/artist?id=893440" }
+    ],
+    "album": {
+      "name": "How Can I Forget",
+      "link": "https://music.163.com/album?id=73523664"
+    }
+  },
+  {
+    "name": "Home",
+    "link": "https://music.163.com/song?id=480613454",
+    "duration": "02:31",
+    "artists": [
+      {
+        "name": "Bruno Bavota",
+        "link": "https://music.163.com/artist?id=973044"
+      }
+    ],
+    "album": {
+      "name": "Selected Works",
+      "link": "https://music.163.com/album?id=35558115"
+    }
+  },
+  {
+    "name": "Spring Is Coming",
+    "link": "https://music.163.com/song?id=29922786",
+    "duration": "02:38",
+    "artists": [
+      {
+        "name": "Lifetheory",
+        "link": "https://music.163.com/artist?id=1045034"
+      }
+    ],
+    "album": {
+      "name": "Let's Bring It All Together!",
+      "link": "https://music.163.com/album?id=3087072"
+    }
+  },
+  {
+    "name": "8月31日",
+    "link": "https://music.163.com/song?id=1306448973",
+    "duration": "03:13",
+    "artists": [
+      { "name": "吴宇深", "link": "https://music.163.com/artist?id=12281745" }
+    ],
+    "album": {
+      "name": "8月31日",
+      "link": "https://music.163.com/album?id=72780905"
+    }
+  },
+  {
+    "name": "May I see U again-I love you 3000 times（Cover：MT1990）",
+    "link": "https://music.163.com/song?id=1386495856",
+    "duration": "04:30",
+    "artists": [
+      { "name": "MappleZS", "link": "https://music.163.com/artist?id=31003678" }
+    ],
+    "album": {
+      "name": "MappleZS",
+      "link": "https://music.163.com/album?id=74921374"
+    }
+  },
+  {
+    "name": "Wheel of Life",
+    "link": "https://music.163.com/song?id=547892151",
+    "duration": "04:00",
+    "artists": [
+      {
+        "name": "紫樱-Sakura",
+        "link": "https://music.163.com/artist?id=13110241"
+      },
+      { "name": "Croem", "link": "https://music.163.com/artist?id=12610351" }
+    ],
+    "album": {
+      "name": "Wheel of Life",
+      "link": "https://music.163.com/album?id=37996907"
+    }
+  },
+  {
+    "name": "Say Hi",
+    "link": "https://music.163.com/song?id=573635435",
+    "duration": "04:20",
+    "artists": [
+      { "name": "Oniroz", "link": "https://music.163.com/artist?id=12303579" },
+      { "name": "夜の律", "link": "https://music.163.com/artist?id=13537449" }
+    ],
+    "album": {
+      "name": "Night Law 02: Alternation",
+      "link": "https://music.163.com/album?id=39688483"
+    }
+  },
+  {
+    "name": "Thinkin Bout You",
+    "link": "https://music.163.com/song?id=1300192920",
+    "duration": "03:18",
+    "artists": [
+      { "name": "Um41k", "link": "https://music.163.com/artist?id=28691849" },
+      {
+        "name": "Martin Fritzon",
+        "link": "https://music.163.com/artist?id=12766221"
+      }
+    ],
+    "album": {
+      "name": "Thinkin Bout You",
+      "link": "https://music.163.com/album?id=72213572"
+    }
+  },
+  {
+    "name": "銀河鉄道のペンギン (Stripe.P Remix)",
+    "link": "https://music.163.com/song?id=411907742",
+    "duration": "03:54",
+    "artists": [
+      {
+        "name": "Stripe.P",
+        "link": "https://music.163.com/artist?id=12046424"
+      },
+      { "name": "Aiobahn", "link": "https://music.163.com/artist?id=1137416" },
+      { "name": "Yunomi", "link": "https://music.163.com/artist?id=1025016" },
+      { "name": "nicamoq", "link": "https://music.163.com/artist?id=12605718" }
+    ],
+    "album": {
+      "name": "銀河鉄道のペンギン (Stripe.P Remix)",
+      "link": "https://music.163.com/album?id=34686589"
+    }
+  },
+  {
+    "name": "A Quiet Departure",
+    "link": "https://music.163.com/song?id=473940855",
+    "duration": "03:45",
+    "artists": [
+      {
+        "name": "Josh Leake",
+        "link": "https://music.163.com/artist?id=12387197"
+      }
+    ],
+    "album": {
+      "name": "Benjamin",
+      "link": "https://music.163.com/album?id=35425190"
+    }
+  },
+  {
+    "name": "零六零五(洛天依 ver.)",
+    "link": "https://music.163.com/song?id=571522631",
+    "duration": "02:53",
+    "artists": [
+      { "name": "髅髅", "link": "https://music.163.com/artist?id=12226929" },
+      {
+        "name": "Bauhinia7x",
+        "link": "https://music.163.com/artist?id=12965906"
+      }
+    ],
+    "album": {
+      "name": "零六零五",
+      "link": "https://music.163.com/album?id=39516688"
+    }
+  },
+  {
+    "name": "All Night",
+    "link": "https://music.163.com/song?id=1304407417",
+    "duration": "03:17",
+    "artists": [
+      { "name": "The Vamps", "link": "https://music.163.com/artist?id=837191" },
+      { "name": "Matoma", "link": "https://music.163.com/artist?id=1054100" }
+    ],
+    "album": {
+      "name": "One In A Million",
+      "link": "https://music.163.com/album?id=72475945"
+    }
+  },
+  {
+    "name": "01 - Planet 0781",
+    "link": "https://music.163.com/song?id=549149300",
+    "duration": "04:25",
+    "artists": [
+      { "name": "Cre-sc3NT", "link": "https://music.163.com/artist?id=1211009" }
+    ],
+    "album": {
+      "name": "Epoch：Incandescence",
+      "link": "https://music.163.com/album?id=38082439"
+    }
+  },
+  {
+    "name": "Twinbow",
+    "link": "https://music.163.com/song?id=466126524",
+    "duration": "02:46",
+    "artists": [
+      { "name": "Slushii", "link": "https://music.163.com/artist?id=1193232" },
+      {
+        "name": "Marshmello",
+        "link": "https://music.163.com/artist?id=1060019"
+      }
+    ],
+    "album": {
+      "name": "Twinbow",
+      "link": "https://music.163.com/album?id=35288389"
+    }
+  },
+  {
+    "name": "Broken Love",
+    "link": "https://music.163.com/song?id=1362743850",
+    "duration": "03:23",
+    "artists": [
+      { "name": "Fella", "link": "https://music.163.com/artist?id=57865" },
+      { "name": "Lucky Luke", "link": "https://music.163.com/artist?id=487609" }
+    ],
+    "album": {
+      "name": "Broken Love",
+      "link": "https://music.163.com/album?id=78889221"
+    }
+  },
+  {
+    "name": "Haze (with Doffbeat)",
+    "link": "https://music.163.com/song?id=536833913",
+    "duration": "04:17",
+    "artists": [
+      {
+        "name": "Doffbeat",
+        "link": "https://music.163.com/artist?id=12310204"
+      },
+      { "name": "Yonetro", "link": "https://music.163.com/artist?id=12095285" }
+    ],
+    "album": {
+      "name": "Upbeat House",
+      "link": "https://music.163.com/album?id=37585308"
+    }
+  },
+  {
+    "name": "Venger",
+    "link": "https://music.163.com/song?id=437290998",
+    "duration": "05:08",
+    "artists": [
+      {
+        "name": "Perturbator",
+        "link": "https://music.163.com/artist?id=768308"
+      },
+      {
+        "name": "Greta Link",
+        "link": "https://music.163.com/artist?id=29862827"
+      }
+    ],
+    "album": {
+      "name": "The Uncanny Valley",
+      "link": "https://music.163.com/album?id=34943328"
+    }
+  },
+  {
+    "name": "对望",
+    "link": "https://music.163.com/song?id=557199195",
+    "duration": "03:57",
+    "artists": [
+      { "name": "爱星人", "link": "https://music.163.com/artist?id=1050216" }
+    ],
+    "album": {
+      "name": "对望",
+      "link": "https://music.163.com/album?id=38533741"
+    }
+  },
+  {
+    "name": "Shawn Mendes-There's Nothing Holdin' Me Back（Ted remix）",
+    "link": "https://music.163.com/song?id=525964142",
+    "duration": "02:41",
+    "artists": [
+      { "name": "Ted", "link": "https://music.163.com/artist?id=12606603" }
+    ],
+    "album": {
+      "name": "There's nothing holdin' me back(Ted Remix)",
+      "link": "https://music.163.com/album?id=37046337"
+    }
+  },
+  {
+    "name": "Love Is What You Need (Look Ahead) [Dr Packer Remix]",
+    "link": "https://music.163.com/song?id=466233333",
+    "duration": "07:41",
+    "artists": [
+      {
+        "name": "King Unique",
+        "link": "https://music.163.com/artist?id=139963"
+      }
+    ],
+    "album": {
+      "name": "Glitterbox - Love Is The Message",
+      "link": "https://music.163.com/album?id=35280549"
+    }
+  }
+]

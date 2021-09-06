@@ -1,0 +1,456 @@
+[
+  {
+    "name": "Too Long",
+    "link": "https://music.163.com/song?id=1492656824",
+    "duration": "03:11",
+    "artists": [
+      { "name": "Holseek", "link": "https://music.163.com/artist?id=35205001" },
+      {
+        "name": "Axel Paerel",
+        "link": "https://music.163.com/artist?id=36902536"
+      }
+    ],
+    "album": {
+      "name": "Too Long",
+      "link": "https://music.163.com/album?id=97841180"
+    }
+  },
+  {
+    "name": "Magic Sun",
+    "link": "https://music.163.com/song?id=1409172703",
+    "duration": "02:44",
+    "artists": [
+      {
+        "name": "Aurora Night",
+        "link": "https://music.163.com/artist?id=12274347"
+      }
+    ],
+    "album": {
+      "name": "Magic Sun",
+      "link": "https://music.163.com/album?id=84058044"
+    }
+  },
+  {
+    "name": "Good Girl",
+    "link": "https://music.163.com/song?id=1461487117",
+    "duration": "02:57",
+    "artists": [
+      { "name": "Lørean", "link": "https://music.163.com/artist?id=11972026" },
+      { "name": "Annna", "link": "https://music.163.com/artist?id=12829176" }
+    ],
+    "album": {
+      "name": "Good Girl",
+      "link": "https://music.163.com/album?id=92163912"
+    }
+  },
+  {
+    "name": "Nicknames",
+    "link": "https://music.163.com/song?id=1433256980",
+    "duration": "03:06",
+    "artists": [
+      {
+        "name": "Walk off the Earth",
+        "link": "https://music.163.com/artist?id=105493"
+      },
+      { "name": "gnash", "link": "https://music.163.com/artist?id=1137226" }
+    ],
+    "album": {
+      "name": "Nicknames",
+      "link": "https://music.163.com/album?id=86761684"
+    }
+  },
+  {
+    "name": "Ayamaye",
+    "link": "https://music.163.com/song?id=1490391991",
+    "duration": "03:23",
+    "artists": [
+      { "name": "INOV8", "link": "https://music.163.com/artist?id=36509822" }
+    ],
+    "album": {
+      "name": "Ayamaye",
+      "link": "https://music.163.com/album?id=97417855"
+    }
+  },
+  {
+    "name": "Secrets",
+    "link": "https://music.163.com/song?id=1469060369",
+    "duration": "02:26",
+    "artists": [
+      { "name": "Artelax", "link": "https://music.163.com/artist?id=12783049" },
+      { "name": "Jeanway", "link": "https://music.163.com/artist?id=13438465" },
+      {
+        "name": "Revealed Recordings",
+        "link": "https://music.163.com/artist?id=28753573"
+      }
+    ],
+    "album": {
+      "name": "Secrets",
+      "link": "https://music.163.com/album?id=93616325"
+    }
+  },
+  {
+    "name": "How You Like It",
+    "link": "https://music.163.com/song?id=1486524785",
+    "duration": "03:57",
+    "artists": [
+      { "name": "Hitch", "link": "https://music.163.com/artist?id=12930253" }
+    ],
+    "album": {
+      "name": "How You Like It",
+      "link": "https://music.163.com/album?id=96681451"
+    }
+  },
+  {
+    "name": "Hearts and Stars",
+    "link": "https://music.163.com/song?id=1483269511",
+    "duration": "03:02",
+    "artists": [
+      { "name": "Aeden", "link": "https://music.163.com/artist?id=372253" },
+      { "name": "Arlow", "link": "https://music.163.com/artist?id=12996317" },
+      {
+        "name": "Harley Bird",
+        "link": "https://music.163.com/artist?id=12355691"
+      }
+    ],
+    "album": {
+      "name": "Hearts and Stars",
+      "link": "https://music.163.com/album?id=96126164"
+    }
+  },
+  {
+    "name": "A Real Hero",
+    "link": "https://music.163.com/song?id=1303246315",
+    "duration": "04:27",
+    "artists": [
+      {
+        "name": "Electric Youth",
+        "link": "https://music.163.com/artist?id=658235"
+      },
+      { "name": "College", "link": "https://music.163.com/artist?id=89694" }
+    ],
+    "album": {
+      "name": "Innerworld (Deluxe Edition)",
+      "link": "https://music.163.com/album?id=72400292"
+    }
+  },
+  {
+    "name": "Sonoran Sunset",
+    "link": "https://music.163.com/song?id=32320820",
+    "duration": "03:21",
+    "artists": [
+      {
+        "name": "Zachary Bruno",
+        "link": "https://music.163.com/artist?id=1081062"
+      }
+    ],
+    "album": {
+      "name": "Before the Rain",
+      "link": "https://music.163.com/album?id=3154564"
+    }
+  },
+  {
+    "name": "Take My Hand",
+    "link": "https://music.163.com/song?id=1817328",
+    "duration": "04:52",
+    "artists": [
+      { "name": "Omar Akram", "link": "https://music.163.com/artist?id=41002" }
+    ],
+    "album": {
+      "name": "Echoes of Love",
+      "link": "https://music.163.com/album?id=183707"
+    }
+  },
+  {
+    "name": "eau",
+    "link": "https://music.163.com/song?id=29535887",
+    "duration": "03:43",
+    "artists": [
+      {
+        "name": "yutaka hirasaka",
+        "link": "https://music.163.com/artist?id=15927"
+      }
+    ],
+    "album": {
+      "name": "breath",
+      "link": "https://music.163.com/album?id=3029959"
+    }
+  },
+  {
+    "name": "사랑에 베이다 - (Cut in love)",
+    "link": "https://music.163.com/song?id=5308001",
+    "duration": "04:24",
+    "artists": [
+      { "name": "July", "link": "https://music.163.com/artist?id=123825" }
+    ],
+    "album": {
+      "name": "Happiness",
+      "link": "https://music.163.com/album?id=517126"
+    }
+  },
+  {
+    "name": "First Love",
+    "link": "https://music.163.com/song?id=22786040",
+    "duration": "04:30",
+    "artists": [
+      {
+        "name": "宇多田ヒカル",
+        "link": "https://music.163.com/artist?id=18122"
+      }
+    ],
+    "album": {
+      "name": "Music Box",
+      "link": "https://music.163.com/album?id=2093858"
+    }
+  },
+  {
+    "name": "水(Original Mix)",
+    "link": "https://music.163.com/song?id=460793376",
+    "duration": "02:50",
+    "artists": [
+      { "name": "LeeAlive", "link": "https://music.163.com/artist?id=12002020" }
+    ],
+    "album": {
+      "name": "水(Original Mix)",
+      "link": "https://music.163.com/album?id=35190493"
+    }
+  },
+  {
+    "name": "YOUTH(Kissgun Remix)",
+    "link": "https://music.163.com/song?id=438900437",
+    "duration": "03:05",
+    "artists": [
+      {
+        "name": "接个吻，开一枪",
+        "link": "https://music.163.com/artist?id=12085016"
+      }
+    ],
+    "album": {
+      "name": "YOUTH(Kissgun Remix)",
+      "link": "https://music.163.com/album?id=34966145"
+    }
+  },
+  {
+    "name": "Paragon",
+    "link": "https://music.163.com/song?id=28360908",
+    "duration": "04:27",
+    "artists": [
+      { "name": "A.N.O.", "link": "https://music.163.com/artist?id=13228211" },
+      { "name": "Shadowx", "link": "https://music.163.com/artist?id=13226201" }
+    ],
+    "album": {
+      "name": "Paragon",
+      "link": "https://music.163.com/album?id=2779526"
+    }
+  },
+  {
+    "name": "Tony Igy-Astronomia（Jiaye remix）",
+    "link": "https://music.163.com/song?id=446154202",
+    "duration": "03:43",
+    "artists": [
+      { "name": "Jiaye", "link": "https://music.163.com/artist?id=12027336" }
+    ],
+    "album": {
+      "name": "Astronomia (Jiaye Bootleg)",
+      "link": "https://music.163.com/album?id=35035991"
+    }
+  },
+  {
+    "name": "Telescope",
+    "link": "https://music.163.com/song?id=522444650",
+    "duration": "02:55",
+    "artists": [
+      {
+        "name": "Tim Legend",
+        "link": "https://music.163.com/artist?id=12006158"
+      },
+      {
+        "name": "Transviolet",
+        "link": "https://music.163.com/artist?id=1122080"
+      }
+    ],
+    "album": {
+      "name": "Telescope",
+      "link": "https://music.163.com/album?id=36901220"
+    }
+  },
+  {
+    "name": "Life Moves On",
+    "link": "https://music.163.com/song?id=552160193",
+    "duration": "04:11",
+    "artists": [
+      { "name": "FINNEAS", "link": "https://music.163.com/artist?id=12676847" }
+    ],
+    "album": {
+      "name": "Life Moves On",
+      "link": "https://music.163.com/album?id=38099486"
+    }
+  },
+  {
+    "name": "Endless Summer",
+    "link": "https://music.163.com/song?id=426026089",
+    "duration": "06:45",
+    "artists": [
+      {
+        "name": "The Midnight",
+        "link": "https://music.163.com/artist?id=12023492"
+      }
+    ],
+    "album": {
+      "name": "Endless Summer",
+      "link": "https://music.163.com/album?id=34826028"
+    }
+  },
+  {
+    "name": "Dusk Till Dawn",
+    "link": "https://music.163.com/song?id=504265014",
+    "duration": "04:27",
+    "artists": [
+      { "name": "ZAYN", "link": "https://music.163.com/artist?id=1108049" },
+      { "name": "Sia", "link": "https://music.163.com/artist?id=74625" }
+    ],
+    "album": {
+      "name": "Dusk Till Dawn",
+      "link": "https://music.163.com/album?id=36150011"
+    }
+  },
+  {
+    "name": "君は天然色",
+    "link": "https://music.163.com/song?id=22711225",
+    "duration": "05:06",
+    "artists": [
+      { "name": "大瀧詠一", "link": "https://music.163.com/artist?id=160225" }
+    ],
+    "album": {
+      "name": "A Long Vacation",
+      "link": "https://music.163.com/album?id=2084446"
+    }
+  },
+  {
+    "name": "爱，存在",
+    "link": "https://music.163.com/song?id=1460682363",
+    "duration": "04:42",
+    "artists": [
+      {
+        "name": "卢卢快闭嘴",
+        "link": "https://music.163.com/artist?id=35136304"
+      }
+    ],
+    "album": {
+      "name": "爱，存在",
+      "link": "https://music.163.com/album?id=91991564"
+    }
+  },
+  {
+    "name": "The Cure",
+    "link": "https://music.163.com/song?id=472045959",
+    "duration": "03:31",
+    "artists": [
+      { "name": "Lady Gaga", "link": "https://music.163.com/artist?id=64147" }
+    ],
+    "album": {
+      "name": "The Cure",
+      "link": "https://music.163.com/album?id=35338880"
+    }
+  },
+  {
+    "name": "Aurora (The Calm II)",
+    "link": "https://music.163.com/song?id=1993738",
+    "duration": "05:00",
+    "artists": [
+      { "name": "Soulostar", "link": "https://music.163.com/artist?id=43844" }
+    ],
+    "album": {
+      "name": "Sanctuary",
+      "link": "https://music.163.com/album?id=201016"
+    }
+  },
+  {
+    "name": "WHITE ALBUM PIANO",
+    "link": "https://music.163.com/song?id=32303027",
+    "duration": "03:32",
+    "artists": [
+      { "name": "石川真也", "link": "https://music.163.com/artist?id=12034065" }
+    ],
+    "album": {
+      "name": "WHITE ALBUM ～綴られる冬の想い出～ ORIGINAL SOUNDTRACK",
+      "link": "https://music.163.com/album?id=3157209"
+    }
+  },
+  {
+    "name": "Horizon (Original Mix)",
+    "link": "https://music.163.com/song?id=29344981",
+    "duration": "06:50",
+    "artists": [
+      {
+        "name": "Mhammed El Alami",
+        "link": "https://music.163.com/artist?id=956459"
+      },
+      { "name": "Illitheas", "link": "https://music.163.com/artist?id=1072023" }
+    ],
+    "album": {
+      "name": "Horizon",
+      "link": "https://music.163.com/album?id=2998570"
+    }
+  },
+  {
+    "name": "デイダラ 曉 之 青 龍 迪 達 拉",
+    "link": "https://music.163.com/song?id=564217781",
+    "duration": "02:45",
+    "artists": [
+      {
+        "name": "Half-blood Kakashi",
+        "link": "https://music.163.com/artist?id=12293736"
+      }
+    ],
+    "album": {
+      "name": "デイダラ（青龍 Deidara Sama）",
+      "link": "https://music.163.com/album?id=38812934"
+    }
+  },
+  {
+    "name": "Autumn's Wind",
+    "link": "https://music.163.com/song?id=29047200",
+    "duration": "03:31",
+    "artists": [],
+    "album": {
+      "name": "The Sun of Blue Winter",
+      "link": "https://music.163.com/album?id=2988113"
+    }
+  },
+  {
+    "name": "Tassel",
+    "link": "https://music.163.com/song?id=357126",
+    "duration": "04:30",
+    "artists": [
+      { "name": "Cymophane", "link": "https://music.163.com/artist?id=90374" }
+    ],
+    "album": {
+      "name": "Dulcet Series spring special collection",
+      "link": "https://music.163.com/album?id=35262"
+    }
+  },
+  {
+    "name": "Get Up",
+    "link": "https://music.163.com/song?id=425684630",
+    "duration": "06:09",
+    "artists": [
+      { "name": "L3V3LS", "link": "https://music.163.com/artist?id=12007340" }
+    ],
+    "album": {
+      "name": "Get Up",
+      "link": "https://music.163.com/album?id=34817740"
+    }
+  },
+  {
+    "name": "Unstoppable",
+    "link": "https://music.163.com/song?id=400876320",
+    "duration": "03:37",
+    "artists": [
+      { "name": "Sia", "link": "https://music.163.com/artist?id=74625" }
+    ],
+    "album": {
+      "name": "This Is Acting",
+      "link": "https://music.163.com/album?id=3394107"
+    }
+  }
+]

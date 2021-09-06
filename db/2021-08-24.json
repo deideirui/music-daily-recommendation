@@ -1,0 +1,522 @@
+[
+  {
+    "name": "Bring Me",
+    "link": "https://music.163.com/song?id=1333547132",
+    "duration": "03:20",
+    "artists": [
+      {
+        "name": "Matt Dean",
+        "link": "https://music.163.com/artist?id=31034360"
+      },
+      {
+        "name": "Addie Nicole",
+        "link": "https://music.163.com/artist?id=13226181"
+      }
+    ],
+    "album": {
+      "name": "Bring Me",
+      "link": "https://music.163.com/album?id=74890373"
+    }
+  },
+  {
+    "name": "Fragile",
+    "link": "https://music.163.com/song?id=1335940693",
+    "duration": "03:18",
+    "artists": [
+      { "name": "Arcades", "link": "https://music.163.com/artist?id=399074" },
+      { "name": "Sofia", "link": "https://music.163.com/artist?id=30618641" }
+    ],
+    "album": {
+      "name": "Fragile",
+      "link": "https://music.163.com/album?id=74991489"
+    }
+  },
+  {
+    "name": "Last Goodbye",
+    "link": "https://music.163.com/song?id=1460652203",
+    "duration": "03:55",
+    "artists": [
+      {
+        "name": "Dreweybear",
+        "link": "https://music.163.com/artist?id=12066019"
+      },
+      { "name": "Vaance", "link": "https://music.163.com/artist?id=13160077" },
+      {
+        "name": "wilo wilde",
+        "link": "https://music.163.com/artist?id=34585305"
+      }
+    ],
+    "album": {
+      "name": "Last Goodbye",
+      "link": "https://music.163.com/album?id=91988804"
+    }
+  },
+  {
+    "name": "About Love (From The Netflix Film “To All The Boys: P.S. I Still Love You”)",
+    "link": "https://music.163.com/song?id=1421433638",
+    "duration": "03:34",
+    "artists": [
+      { "name": "MARINA", "link": "https://music.163.com/artist?id=68932" }
+    ],
+    "album": {
+      "name": "About Love (From The Netflix Film “To All The Boys: P.S. I Still Love You”)",
+      "link": "https://music.163.com/album?id=85537620"
+    }
+  },
+  {
+    "name": "Somebody",
+    "link": "https://music.163.com/song?id=479219365",
+    "duration": "03:29",
+    "artists": [
+      {
+        "name": "Lush & Simon",
+        "link": "https://music.163.com/artist?id=358207"
+      },
+      { "name": "IZII", "link": "https://music.163.com/artist?id=12154276" }
+    ],
+    "album": {
+      "name": "Somebody",
+      "link": "https://music.163.com/album?id=35535115"
+    }
+  },
+  {
+    "name": "Cutting Shapes",
+    "link": "https://music.163.com/song?id=427542143",
+    "duration": "02:59",
+    "artists": [
+      { "name": "Don Diablo", "link": "https://music.163.com/artist?id=139072" }
+    ],
+    "album": {
+      "name": "Cutting Shapes",
+      "link": "https://music.163.com/album?id=34855075"
+    }
+  },
+  {
+    "name": "All To You (feat. Micah Martin)",
+    "link": "https://music.163.com/song?id=1847868527",
+    "duration": "03:09",
+    "artists": [
+      {
+        "name": "Crystal Skies",
+        "link": "https://music.163.com/artist?id=1063127"
+      },
+      {
+        "name": "Fairlane",
+        "link": "https://music.163.com/artist?id=12665028"
+      },
+      {
+        "name": "Micah Martin",
+        "link": "https://music.163.com/artist?id=13723243"
+      }
+    ],
+    "album": {
+      "name": "All To You (feat. Micah Martin)",
+      "link": "https://music.163.com/album?id=127942106"
+    }
+  },
+  {
+    "name": "Hold On To Me",
+    "link": "https://music.163.com/song?id=1468764302",
+    "duration": "03:27",
+    "artists": [
+      { "name": "Dimatis", "link": "https://music.163.com/artist?id=1087344" },
+      { "name": "Bayza", "link": "https://music.163.com/artist?id=12691118" }
+    ],
+    "album": {
+      "name": "Hold On To Me",
+      "link": "https://music.163.com/album?id=93564812"
+    }
+  },
+  {
+    "name": "Ghost in the Machine",
+    "link": "https://music.163.com/song?id=1826129411",
+    "duration": "04:28",
+    "artists": [
+      { "name": "Trivecta", "link": "https://music.163.com/artist?id=954338" }
+    ],
+    "album": {
+      "name": "Ghost in the Machine",
+      "link": "https://music.163.com/album?id=124127687"
+    }
+  },
+  {
+    "name": "Heart of Mine",
+    "link": "https://music.163.com/song?id=1824974288",
+    "duration": "03:25",
+    "artists": [
+      { "name": "Gero Z", "link": "https://music.163.com/artist?id=34178290" },
+      { "name": "Awakcn", "link": "https://music.163.com/artist?id=34422355" }
+    ],
+    "album": {
+      "name": "Stories Records 4 Years",
+      "link": "https://music.163.com/album?id=123906112"
+    }
+  },
+  {
+    "name": "Be Yourself",
+    "link": "https://music.163.com/song?id=1423088417",
+    "duration": "03:12",
+    "artists": [
+      { "name": "4Hunnid", "link": "https://music.163.com/artist?id=30602265" }
+    ],
+    "album": {
+      "name": "Be Yourself",
+      "link": "https://music.163.com/album?id=85636868"
+    }
+  },
+  {
+    "name": "Future",
+    "link": "https://music.163.com/song?id=428599678",
+    "duration": "03:06",
+    "artists": [
+      {
+        "name": "Transviolet",
+        "link": "https://music.163.com/artist?id=1122080"
+      }
+    ],
+    "album": {
+      "name": "EPIC LIT",
+      "link": "https://music.163.com/album?id=34854530"
+    }
+  },
+  {
+    "name": "On The Run",
+    "link": "https://music.163.com/song?id=1470149634",
+    "duration": "05:00",
+    "artists": [
+      {
+        "name": "Timecop1983",
+        "link": "https://music.163.com/artist?id=954496"
+      }
+    ],
+    "album": {
+      "name": "Night Drive",
+      "link": "https://music.163.com/album?id=93794957"
+    }
+  },
+  {
+    "name": "Out of Time",
+    "link": "https://music.163.com/song?id=1830343121",
+    "duration": "03:40",
+    "artists": [
+      {
+        "name": "Midnight Kids",
+        "link": "https://music.163.com/artist?id=13192314"
+      },
+      { "name": "Yueku", "link": "https://music.163.com/artist?id=47174466" }
+    ],
+    "album": {
+      "name": "Out of Time",
+      "link": "https://music.163.com/album?id=124673300"
+    }
+  },
+  {
+    "name": "Falling Down (feat. James Delaney)",
+    "link": "https://music.163.com/song?id=1493077219",
+    "duration": "03:27",
+    "artists": [
+      {
+        "name": "Wild Cards",
+        "link": "https://music.163.com/artist?id=12218142"
+      },
+      {
+        "name": "James Delaney",
+        "link": "https://music.163.com/artist?id=12896142"
+      }
+    ],
+    "album": {
+      "name": "Falling Down (feat. James Delaney)",
+      "link": "https://music.163.com/album?id=97930909"
+    }
+  },
+  {
+    "name": "Hold On",
+    "link": "https://music.163.com/song?id=1384492893",
+    "duration": "03:55",
+    "artists": [
+      { "name": "ILLENIUM", "link": "https://music.163.com/artist?id=1050518" },
+      {
+        "name": "Georgia Ku",
+        "link": "https://music.163.com/artist?id=14388929"
+      }
+    ],
+    "album": {
+      "name": "ASCEND",
+      "link": "https://music.163.com/album?id=80981667"
+    }
+  },
+  {
+    "name": "About You",
+    "link": "https://music.163.com/song?id=1380123398",
+    "duration": "03:04",
+    "artists": [
+      { "name": "Ascence", "link": "https://music.163.com/artist?id=31245506" }
+    ],
+    "album": {
+      "name": "About You",
+      "link": "https://music.163.com/album?id=80608444"
+    }
+  },
+  {
+    "name": "Summer Wave",
+    "link": "https://music.163.com/song?id=1450018772",
+    "duration": "03:11",
+    "artists": [
+      { "name": "Stories", "link": "https://music.163.com/artist?id=12178030" },
+      { "name": "NABI", "link": "https://music.163.com/artist?id=13039533" }
+    ],
+    "album": {
+      "name": "Summer Wave",
+      "link": "https://music.163.com/album?id=89795676"
+    }
+  },
+  {
+    "name": "Crumble",
+    "link": "https://music.163.com/song?id=1352962927",
+    "duration": "03:09",
+    "artists": [
+      {
+        "name": "Fairlane",
+        "link": "https://music.163.com/artist?id=12665028"
+      },
+      { "name": "Trove", "link": "https://music.163.com/artist?id=12390270" }
+    ],
+    "album": {
+      "name": "Crumble",
+      "link": "https://music.163.com/album?id=75905030"
+    }
+  },
+  {
+    "name": "Without You (Starlyte Remix)",
+    "link": "https://music.163.com/song?id=573582374",
+    "duration": "04:08",
+    "artists": [
+      {
+        "name": "Starlyte",
+        "link": "https://music.163.com/artist?id=12006394"
+      },
+      { "name": "Avicii", "link": "https://music.163.com/artist?id=45236" },
+      {
+        "name": "Sandro Cavazza",
+        "link": "https://music.163.com/artist?id=12323230"
+      }
+    ],
+    "album": {
+      "name": "Without You (Starlyte Remix) ",
+      "link": "https://music.163.com/album?id=39720116"
+    }
+  },
+  {
+    "name": "Shadows",
+    "link": "https://music.163.com/song?id=544000236",
+    "duration": "02:39",
+    "artists": [
+      {
+        "name": "Aero Chord",
+        "link": "https://music.163.com/artist?id=845121"
+      },
+      { "name": "Nevve", "link": "https://music.163.com/artist?id=12567101" }
+    ],
+    "album": {
+      "name": "Shadows",
+      "link": "https://music.163.com/album?id=37887044"
+    }
+  },
+  {
+    "name": "Middle Of The Night (Original Mix)",
+    "link": "https://music.163.com/song?id=1461637594",
+    "duration": "03:05",
+    "artists": [
+      { "name": "Taiga", "link": "https://music.163.com/artist?id=36135315" }
+    ],
+    "album": {
+      "name": "Middle Of The Night",
+      "link": "https://music.163.com/album?id=92205970"
+    }
+  },
+  {
+    "name": "只对你倾心Feat.汪川（杨世贸 Remix）",
+    "link": "https://music.163.com/song?id=1804115391",
+    "duration": "03:09",
+    "artists": [
+      { "name": "杨世贸", "link": "https://music.163.com/artist?id=12571508" },
+      {
+        "name": "OneCandy",
+        "link": "https://music.163.com/artist?id=12286389"
+      },
+      { "name": "Aou", "link": "https://music.163.com/artist?id=12546065" },
+      { "name": "ClearYxY", "link": "https://music.163.com/artist?id=12185165" }
+    ],
+    "album": {
+      "name": "只对你倾心Feat.汪川（Remixes）",
+      "link": "https://music.163.com/album?id=120384144"
+    }
+  },
+  {
+    "name": "Before It's Over",
+    "link": "https://music.163.com/song?id=1426391313",
+    "duration": "03:20",
+    "artists": [
+      { "name": "S1LVA", "link": "https://music.163.com/artist?id=12914324" },
+      { "name": "Luma", "link": "https://music.163.com/artist?id=211460" }
+    ],
+    "album": {
+      "name": "Before It's Over",
+      "link": "https://music.163.com/album?id=86034553"
+    }
+  },
+  {
+    "name": "月牙湾 x Monsters (Terry Zhong Mashup)",
+    "link": "https://music.163.com/song?id=1806207980",
+    "duration": "02:13",
+    "artists": [
+      {
+        "name": "Terry Zhong 钟天利",
+        "link": "https://music.163.com/artist?id=1155005"
+      }
+    ],
+    "album": {
+      "name": "月牙湾 x Monsters (Terry Zhong Mashup)",
+      "link": "https://music.163.com/album?id=120694623"
+    }
+  },
+  {
+    "name": "Around The World",
+    "link": "https://music.163.com/song?id=1356229860",
+    "duration": "04:43",
+    "artists": [
+      { "name": "Jai Wolf", "link": "https://music.163.com/artist?id=1063048" },
+      { "name": "Now, Now", "link": "https://music.163.com/artist?id=98015" }
+    ],
+    "album": {
+      "name": "The Cure To Loneliness",
+      "link": "https://music.163.com/album?id=78300643"
+    }
+  },
+  {
+    "name": "Memories That You Call (feat. Monsoonsiren) (ODESZA & Golden Features VIP Remix)",
+    "link": "https://music.163.com/song?id=1329665674",
+    "duration": "03:39",
+    "artists": [
+      { "name": "ODESZA", "link": "https://music.163.com/artist?id=839108" },
+      {
+        "name": "Monsoonsiren",
+        "link": "https://music.163.com/artist?id=1064160"
+      }
+    ],
+    "album": {
+      "name": "A Moment Apart (Deluxe Edition)",
+      "link": "https://music.163.com/album?id=74669989"
+    }
+  },
+  {
+    "name": "Pushing 21",
+    "link": "https://music.163.com/song?id=1354240664",
+    "duration": "03:27",
+    "artists": [
+      {
+        "name": "Liv Dawson",
+        "link": "https://music.163.com/artist?id=12046546"
+      }
+    ],
+    "album": {
+      "name": "Pushing 21",
+      "link": "https://music.163.com/album?id=78193658"
+    }
+  },
+  {
+    "name": "别让我等待",
+    "link": "https://music.163.com/song?id=1316254081",
+    "duration": "02:44",
+    "artists": [
+      {
+        "name": "孜然胳肢窝",
+        "link": "https://music.163.com/artist?id=13196409"
+      },
+      { "name": "刘茜悦", "link": "https://music.163.com/artist?id=31656077" }
+    ],
+    "album": {
+      "name": "别让我等待",
+      "link": "https://music.163.com/album?id=73762586"
+    }
+  },
+  {
+    "name": "Crescent (新月)",
+    "link": "https://music.163.com/song?id=1398628590",
+    "duration": "03:06",
+    "artists": [
+      { "name": "Janji", "link": "https://music.163.com/artist?id=1032229" },
+      { "name": "R7CKY", "link": "https://music.163.com/artist?id=1044054" },
+      {
+        "name": "朱婧汐Akini Jing",
+        "link": "https://music.163.com/artist?id=10582"
+      }
+    ],
+    "album": {
+      "name": "Crescent (新月)",
+      "link": "https://music.163.com/album?id=82651101"
+    }
+  },
+  {
+    "name": "Blue whale (蓝鲸)",
+    "link": "https://music.163.com/song?id=1379048619",
+    "duration": "03:00",
+    "artists": [
+      { "name": "凯瑟喵", "link": "https://music.163.com/artist?id=12003038" },
+      { "name": "Cibbs", "link": "https://music.163.com/artist?id=12316462" }
+    ],
+    "album": {
+      "name": "Blue whale (蓝鲸)",
+      "link": "https://music.163.com/album?id=80511835"
+    }
+  },
+  {
+    "name": "单线告别",
+    "link": "https://music.163.com/song?id=1377145341",
+    "duration": "03:03",
+    "artists": [
+      {
+        "name": "接个吻，开一枪",
+        "link": "https://music.163.com/artist?id=12085016"
+      },
+      { "name": "刘至佳", "link": "https://music.163.com/artist?id=1172023" },
+      {
+        "name": "霓虹歌舞厅",
+        "link": "https://music.163.com/artist?id=30953629"
+      }
+    ],
+    "album": {
+      "name": "跨越时空界限",
+      "link": "https://music.163.com/album?id=80320012"
+    }
+  },
+  {
+    "name": "Jawsh 685-Savage Love Tik Tok（J.Ale remix）",
+    "link": "https://music.163.com/song?id=1472999659",
+    "duration": "02:35",
+    "artists": [
+      { "name": "J.Ale", "link": "https://music.163.com/artist?id=35244269" }
+    ],
+    "album": {
+      "name": "Savage Love",
+      "link": "https://music.163.com/album?id=94245387"
+    }
+  },
+  {
+    "name": "Lordly (feat. Alex Aiono) [MDZN Remix]",
+    "link": "https://music.163.com/song?id=442562232",
+    "duration": "04:37",
+    "artists": [
+      {
+        "name": "Alex Aiono",
+        "link": "https://music.163.com/artist?id=12093055"
+      },
+      { "name": "Feder", "link": "https://music.163.com/artist?id=1046466" },
+      { "name": "MDZN", "link": "https://music.163.com/artist?id=12301091" }
+    ],
+    "album": {
+      "name": "Lordly (feat. Alex Aiono) [Remix EP]",
+      "link": "https://music.163.com/album?id=34923893"
+    }
+  }
+]

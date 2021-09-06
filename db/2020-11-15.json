@@ -1,0 +1,419 @@
+[
+  {
+    "name": "Be Kind",
+    "link": "https://music.163.com/song?id=1444959394",
+    "duration": "02:52",
+    "artists": [
+      {
+        "name": "Marshmello",
+        "link": "https://music.163.com/artist?id=1060019"
+      },
+      { "name": "Halsey", "link": "https://music.163.com/artist?id=964321" }
+    ],
+    "album": {
+      "name": "Be Kind",
+      "link": "https://music.163.com/album?id=88836925"
+    }
+  },
+  {
+    "name": "Charon",
+    "link": "https://music.163.com/song?id=1343460536",
+    "duration": "03:10",
+    "artists": [
+      { "name": "Mr Chip", "link": "https://music.163.com/artist?id=12563879" },
+      { "name": "5-HTP", "link": "https://music.163.com/artist?id=13196682" }
+    ],
+    "album": {
+      "name": "CHARON",
+      "link": "https://music.163.com/album?id=75383073"
+    }
+  },
+  {
+    "name": "暮秋沉眠",
+    "link": "https://music.163.com/song?id=1480584786",
+    "duration": "03:13",
+    "artists": [
+      { "name": "MoreanP", "link": "https://music.163.com/artist?id=12275337" }
+    ],
+    "album": {
+      "name": "暮秋沉眠",
+      "link": "https://music.163.com/album?id=95514554"
+    }
+  },
+  {
+    "name": "Icicle",
+    "link": "https://music.163.com/song?id=399410281",
+    "duration": "03:07",
+    "artists": [
+      { "name": "AK", "link": "https://music.163.com/artist?id=1192509" }
+    ],
+    "album": {
+      "name": "Icicle",
+      "link": "https://music.163.com/album?id=34419080"
+    }
+  },
+  {
+    "name": "Fast Lane",
+    "link": "https://music.163.com/song?id=1406099861",
+    "duration": "02:29",
+    "artists": [
+      {
+        "name": "Palm Trees",
+        "link": "https://music.163.com/artist?id=1135109"
+      },
+      { "name": "MdL", "link": "https://music.163.com/artist?id=313543" },
+      {
+        "name": "Abi F Jones",
+        "link": "https://music.163.com/artist?id=1137160"
+      }
+    ],
+    "album": {
+      "name": "Fast Lane",
+      "link": "https://music.163.com/album?id=83685772"
+    }
+  },
+  {
+    "name": "遗愿派对",
+    "link": "https://music.163.com/song?id=1442702339",
+    "duration": "05:38",
+    "artists": [
+      {
+        "name": "Today is a _ day",
+        "link": "https://music.163.com/artist?id=13201348"
+      }
+    ],
+    "album": {
+      "name": "Blue Moon' Hotel",
+      "link": "https://music.163.com/album?id=87381551"
+    }
+  },
+  {
+    "name": "963 Hz - Pinal Gland Activation",
+    "link": "https://music.163.com/song?id=486390382",
+    "duration": "11:06",
+    "artists": [
+      {
+        "name": "Ingmar Hansch",
+        "link": "https://music.163.com/artist?id=12348191"
+      }
+    ],
+    "album": {
+      "name": "Solfeggio Harmonies",
+      "link": "https://music.163.com/album?id=35673119"
+    }
+  },
+  {
+    "name": "I Don't Like You",
+    "link": "https://music.163.com/song?id=1397319840",
+    "duration": "03:13",
+    "artists": [
+      {
+        "name": "Grace VanderWaal",
+        "link": "https://music.163.com/artist?id=12121122"
+      }
+    ],
+    "album": {
+      "name": "I Don't Like You",
+      "link": "https://music.163.com/album?id=82468226"
+    }
+  },
+  {
+    "name": "I See The Light",
+    "link": "https://music.163.com/song?id=1483488563",
+    "duration": "03:20",
+    "artists": [
+      { "name": "SSR", "link": "https://music.163.com/artist?id=32856339" }
+    ],
+    "album": {
+      "name": "vogue V Family 2020",
+      "link": "https://music.163.com/album?id=96174731"
+    }
+  },
+  {
+    "name": "WAIT FOR YOU",
+    "link": "https://music.163.com/song?id=1323303957",
+    "duration": "02:59",
+    "artists": [
+      {
+        "name": "Jake Miller",
+        "link": "https://music.163.com/artist?id=776761"
+      }
+    ],
+    "album": {
+      "name": "WAIT FOR YOU",
+      "link": "https://music.163.com/album?id=74268967"
+    }
+  },
+  {
+    "name": "Our Symphony",
+    "link": "https://music.163.com/song?id=1443011948",
+    "duration": "03:15",
+    "artists": [
+      { "name": "Manse", "link": "https://music.163.com/artist?id=855409" },
+      {
+        "name": "WildVibes",
+        "link": "https://music.163.com/artist?id=1181751"
+      },
+      { "name": "Vories", "link": "https://music.163.com/artist?id=31063065" }
+    ],
+    "album": {
+      "name": "Our Symphony",
+      "link": "https://music.163.com/album?id=88461186"
+    }
+  },
+  {
+    "name": "Tension",
+    "link": "https://music.163.com/song?id=563855834",
+    "duration": "03:06",
+    "artists": [
+      { "name": "Cappa", "link": "https://music.163.com/artist?id=1053281" }
+    ],
+    "album": {
+      "name": "Tension",
+      "link": "https://music.163.com/album?id=39077833"
+    }
+  },
+  {
+    "name": "xoh qatma",
+    "link": "https://music.163.com/song?id=1364213041",
+    "duration": "12:32",
+    "artists": [
+      {
+        "name": "Mamatjan-Hekim",
+        "link": "https://music.163.com/artist?id=12184103"
+      }
+    ],
+    "album": {
+      "name": "xoh qatma",
+      "link": "https://music.163.com/album?id=78949321"
+    }
+  },
+  {
+    "name": "晚星",
+    "link": "https://music.163.com/song?id=1319520140",
+    "duration": "03:13",
+    "artists": [
+      { "name": "逆时针向", "link": "https://music.163.com/artist?id=12128251" }
+    ],
+    "album": {
+      "name": "晚星",
+      "link": "https://music.163.com/album?id=74009778"
+    }
+  },
+  {
+    "name": "If You Leave Me Now",
+    "link": "https://music.163.com/song?id=557602901",
+    "duration": "04:08",
+    "artists": [
+      { "name": "Lowes", "link": "https://music.163.com/artist?id=12743082" }
+    ],
+    "album": {
+      "name": "If You Leave Me Now",
+      "link": "https://music.163.com/album?id=38586652"
+    }
+  },
+  {
+    "name": "No Fear No More",
+    "link": "https://music.163.com/song?id=1403356922",
+    "duration": "03:15",
+    "artists": [
+      { "name": "Madeon", "link": "https://music.163.com/artist?id=40280" }
+    ],
+    "album": {
+      "name": "Good Faith",
+      "link": "https://music.163.com/album?id=83312518"
+    }
+  },
+  {
+    "name": "Because you are a woman",
+    "link": "https://music.163.com/song?id=16623534",
+    "duration": "04:10",
+    "artists": [
+      {
+        "name": "Brett Dennen",
+        "link": "https://music.163.com/artist?id=29340"
+      }
+    ],
+    "album": {
+      "name": "So Much More",
+      "link": "https://music.163.com/album?id=1533006"
+    }
+  },
+  {
+    "name": "Diamond Heart",
+    "link": "https://music.163.com/song?id=1311782175",
+    "duration": "03:59",
+    "artists": [
+      {
+        "name": "Alan Walker",
+        "link": "https://music.163.com/artist?id=1045123"
+      },
+      {
+        "name": "Sophia Somajo",
+        "link": "https://music.163.com/artist?id=77713"
+      }
+    ],
+    "album": {
+      "name": "Diamond Heart",
+      "link": "https://music.163.com/album?id=73526604"
+    }
+  },
+  {
+    "name": "Feel It All",
+    "link": "https://music.163.com/song?id=1468125789",
+    "duration": "04:54",
+    "artists": [
+      { "name": "Kompany", "link": "https://music.163.com/artist?id=12000027" }
+    ],
+    "album": {
+      "name": "Feel It All",
+      "link": "https://music.163.com/album?id=93432841"
+    }
+  },
+  {
+    "name": "R.E.D.",
+    "link": "https://music.163.com/song?id=1399368351",
+    "duration": "02:26",
+    "artists": [
+      { "name": "Sleiman", "link": "https://music.163.com/artist?id=12009018" },
+      { "name": "Gilli", "link": "https://music.163.com/artist?id=200503" },
+      { "name": "6ix9ine", "link": "https://music.163.com/artist?id=12863035" }
+    ],
+    "album": {
+      "name": "R.E.D.",
+      "link": "https://music.163.com/album?id=82769747"
+    }
+  },
+  {
+    "name": "Phantom",
+    "link": "https://music.163.com/song?id=1433517237",
+    "duration": "02:08",
+    "artists": [
+      { "name": "Guard", "link": "https://music.163.com/artist?id=34633471" }
+    ],
+    "album": {
+      "name": "phantom",
+      "link": "https://music.163.com/album?id=86787853"
+    }
+  },
+  {
+    "name": "Instrumental",
+    "link": "https://music.163.com/song?id=510396130",
+    "duration": "03:40",
+    "artists": [
+      { "name": "Keega", "link": "https://music.163.com/artist?id=12276986" }
+    ],
+    "album": {
+      "name": "Stay (Keega Bootleg)",
+      "link": "https://music.163.com/album?id=36460673"
+    }
+  },
+  {
+    "name": "Abandoned",
+    "link": "https://music.163.com/song?id=38019035",
+    "duration": "03:04",
+    "artists": [
+      { "name": "Resonance", "link": "https://music.163.com/artist?id=196588" }
+    ],
+    "album": {
+      "name": "Abandoned",
+      "link": "https://music.163.com/album?id=3427011"
+    }
+  },
+  {
+    "name": "Heart",
+    "link": "https://music.163.com/song?id=474791031",
+    "duration": "03:11",
+    "artists": [
+      { "name": "Kazukii", "link": "https://music.163.com/artist?id=12054389" },
+      {
+        "name": "Hikaru Station",
+        "link": "https://music.163.com/artist?id=12082087"
+      }
+    ],
+    "album": {
+      "name": "Heart",
+      "link": "https://music.163.com/album?id=35430237"
+    }
+  },
+  {
+    "name": "Healing",
+    "link": "https://music.163.com/song?id=1302091527",
+    "duration": "03:17",
+    "artists": [
+      { "name": "Adib Sin", "link": "https://music.163.com/artist?id=12244027" }
+    ],
+    "album": {
+      "name": "Healing",
+      "link": "https://music.163.com/album?id=72302022"
+    }
+  },
+  {
+    "name": "16 years already owned and the last 4 years",
+    "link": "https://music.163.com/song?id=1456908362",
+    "duration": "03:12",
+    "artists": [
+      {
+        "name": "La.Warden",
+        "link": "https://music.163.com/artist?id=34332796"
+      }
+    ],
+    "album": {
+      "name": "晚安",
+      "link": "https://music.163.com/album?id=90159573"
+    }
+  },
+  {
+    "name": "清晨6.47(inst.)",
+    "link": "https://music.163.com/song?id=1354301785",
+    "duration": "03:38",
+    "artists": [
+      { "name": "叶雨蒙", "link": "https://music.163.com/artist?id=12098013" }
+    ],
+    "album": {
+      "name": "2018 unreleased",
+      "link": "https://music.163.com/album?id=75794376"
+    }
+  },
+  {
+    "name": "Shine A Light",
+    "link": "https://music.163.com/song?id=862099069",
+    "duration": "03:16",
+    "artists": [
+      { "name": "Hardwell", "link": "https://music.163.com/artist?id=34994" },
+      {
+        "name": "Wildstylez",
+        "link": "https://music.163.com/artist?id=666014"
+      },
+      { "name": "KiFi", "link": "https://music.163.com/artist?id=13059523" }
+    ],
+    "album": {
+      "name": "Shine A Light",
+      "link": "https://music.163.com/album?id=71613635"
+    }
+  },
+  {
+    "name": "Five Hundred Miles-中文版：别想我（Mo Remix）",
+    "link": "https://music.163.com/song?id=538410754",
+    "duration": "03:26",
+    "artists": [
+      { "name": "Mo", "link": "https://music.163.com/artist?id=12897469" }
+    ],
+    "album": {
+      "name": "拥抱全世界[Whole World Around]",
+      "link": "https://music.163.com/album?id=36888729"
+    }
+  },
+  {
+    "name": "Game girl",
+    "link": "https://music.163.com/song?id=421885119",
+    "duration": "03:17",
+    "artists": [
+      { "name": "塞米七", "link": "https://music.163.com/artist?id=12027560" }
+    ],
+    "album": {
+      "name": "Game gril",
+      "link": "https://music.163.com/album?id=34779903"
+    }
+  }
+]

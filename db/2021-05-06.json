@@ -1,0 +1,440 @@
+[
+  {
+    "name": "Together",
+    "link": "https://music.163.com/song?id=514689047",
+    "duration": "03:14",
+    "artists": [
+      { "name": "Gjan", "link": "https://music.163.com/artist?id=851014" }
+    ],
+    "album": {
+      "name": "Together",
+      "link": "https://music.163.com/album?id=36661576"
+    }
+  },
+  {
+    "name": "I'm Not In Love",
+    "link": "https://music.163.com/song?id=1468302318",
+    "duration": "02:38",
+    "artists": [
+      { "name": "Valiant", "link": "https://music.163.com/artist?id=12369249" },
+      {
+        "name": "Scarlett O’Grady",
+        "link": "https://music.163.com/artist?id=36278398"
+      }
+    ],
+    "album": {
+      "name": "I'm Not In Love",
+      "link": "https://music.163.com/album?id=93462671"
+    }
+  },
+  {
+    "name": "At Least I Had Fun",
+    "link": "https://music.163.com/song?id=1470902634",
+    "duration": "02:50",
+    "artists": [
+      {
+        "name": "Martin Jensen",
+        "link": "https://music.163.com/artist?id=1060055"
+      },
+      { "name": "RANI", "link": "https://music.163.com/artist?id=13774039" }
+    ],
+    "album": {
+      "name": "At Least I Had Fun",
+      "link": "https://music.163.com/album?id=93939741"
+    }
+  },
+  {
+    "name": "Animal",
+    "link": "https://music.163.com/song?id=1341890252",
+    "duration": "03:35",
+    "artists": [
+      { "name": "AURORA", "link": "https://music.163.com/artist?id=1043338" }
+    ],
+    "album": {
+      "name": "Animal",
+      "link": "https://music.163.com/album?id=75318391"
+    }
+  },
+  {
+    "name": "Chasers",
+    "link": "https://music.163.com/song?id=1306648317",
+    "duration": "03:00",
+    "artists": [
+      { "name": "Bahari", "link": "https://music.163.com/artist?id=1044218" }
+    ],
+    "album": {
+      "name": "Chasers",
+      "link": "https://music.163.com/album?id=72806761"
+    }
+  },
+  {
+    "name": "Just Love Me",
+    "link": "https://music.163.com/song?id=1375779130",
+    "duration": "03:27",
+    "artists": [
+      { "name": "Ostwolf", "link": "https://music.163.com/artist?id=12635281" },
+      { "name": "Elle Vee", "link": "https://music.163.com/artist?id=1046258" }
+    ],
+    "album": {
+      "name": "Just Love Me",
+      "link": "https://music.163.com/album?id=80200900"
+    }
+  },
+  {
+    "name": "灰烬(Short Edit)",
+    "link": "https://music.163.com/song?id=499937712",
+    "duration": "04:14",
+    "artists": [
+      { "name": "foldin", "link": "https://music.163.com/artist?id=1158025" }
+    ],
+    "album": {
+      "name": "灰烬(Short Edit)",
+      "link": "https://music.163.com/album?id=35967841"
+    }
+  },
+  {
+    "name": "Rami-ʙʟᴜᴇ（HOPERUI remix）",
+    "link": "https://music.163.com/song?id=1446709762",
+    "duration": "02:28",
+    "artists": [
+      { "name": "HOPERUI", "link": "https://music.163.com/artist?id=33954709" }
+    ],
+    "album": {
+      "name": "ʙʟᴜᴇ",
+      "link": "https://music.163.com/album?id=89169977"
+    }
+  },
+  {
+    "name": "WOW",
+    "link": "https://music.163.com/song?id=1361109294",
+    "duration": "02:59",
+    "artists": [
+      {
+        "name": "Zara Larsson",
+        "link": "https://music.163.com/artist?id=816461"
+      }
+    ],
+    "album": {
+      "name": "WOW",
+      "link": "https://music.163.com/album?id=78750497"
+    }
+  },
+  {
+    "name": "Can't Stop Now",
+    "link": "https://music.163.com/song?id=1314121942",
+    "duration": "03:03",
+    "artists": [
+      { "name": "Allie X", "link": "https://music.163.com/artist?id=973030" }
+    ],
+    "album": {
+      "name": "Super Sunset",
+      "link": "https://music.163.com/album?id=73718954"
+    }
+  },
+  {
+    "name": "Discoteka",
+    "link": "https://music.163.com/song?id=1460726361",
+    "duration": "02:49",
+    "artists": [
+      { "name": "Minelli", "link": "https://music.163.com/artist?id=12535248" },
+      { "name": "INNA", "link": "https://music.163.com/artist?id=60848" }
+    ],
+    "album": {
+      "name": "Discoteka",
+      "link": "https://music.163.com/album?id=91997673"
+    }
+  },
+  {
+    "name": "Nasty Freestyle",
+    "link": "https://music.163.com/song?id=36841048",
+    "duration": "02:27",
+    "artists": [
+      { "name": "Veorra", "link": "https://music.163.com/artist?id=1149081" }
+    ],
+    "album": {
+      "name": "Sapphire",
+      "link": "https://music.163.com/album?id=3291225"
+    }
+  },
+  {
+    "name": "One",
+    "link": "https://music.163.com/song?id=413961696",
+    "duration": "03:16",
+    "artists": [
+      {
+        "name": "Amy Deasismont",
+        "link": "https://music.163.com/artist?id=12049097"
+      }
+    ],
+    "album": {
+      "name": "One",
+      "link": "https://music.163.com/album?id=34700512"
+    }
+  },
+  {
+    "name": "高二",
+    "link": "https://music.163.com/song?id=432430709",
+    "duration": "02:34",
+    "artists": [
+      { "name": "大宇", "link": "https://music.163.com/artist?id=1212016" }
+    ],
+    "album": {
+      "name": "高二",
+      "link": "https://music.163.com/album?id=34894723"
+    }
+  },
+  {
+    "name": "Bipolar Heart",
+    "link": "https://music.163.com/song?id=1460639468",
+    "duration": "03:14",
+    "artists": [
+      {
+        "name": "Adam Turley",
+        "link": "https://music.163.com/artist?id=12409052"
+      },
+      {
+        "name": "Jordan Jack",
+        "link": "https://music.163.com/artist?id=34858600"
+      }
+    ],
+    "album": {
+      "name": "Bipolar Heart",
+      "link": "https://music.163.com/album?id=91988089"
+    }
+  },
+  {
+    "name": "Gasoline",
+    "link": "https://music.163.com/song?id=34144942",
+    "duration": "03:19",
+    "artists": [
+      { "name": "Halsey", "link": "https://music.163.com/artist?id=964321" }
+    ],
+    "album": {
+      "name": "BADLANDS (Deluxe Edition)",
+      "link": "https://music.163.com/album?id=3271514"
+    }
+  },
+  {
+    "name": "CX",
+    "link": "https://music.163.com/song?id=455692044",
+    "duration": "03:07",
+    "artists": [
+      {
+        "name": "LevitateXC",
+        "link": "https://music.163.com/artist?id=12183535"
+      }
+    ],
+    "album": {
+      "name": "Cxetativel",
+      "link": "https://music.163.com/album?id=35148446"
+    }
+  },
+  {
+    "name": "Zero Issue",
+    "link": "https://music.163.com/song?id=1840943325",
+    "duration": "04:25",
+    "artists": [
+      {
+        "name": "Approaching Nirvana",
+        "link": "https://music.163.com/artist?id=86884"
+      }
+    ],
+    "album": {
+      "name": "Zero Issue",
+      "link": "https://music.163.com/album?id=126678855"
+    }
+  },
+  {
+    "name": "Sanctum (Full Version)",
+    "link": "https://music.163.com/song?id=38392588",
+    "duration": "03:56",
+    "artists": [
+      { "name": "Andreas B.", "link": "https://music.163.com/artist?id=299713" }
+    ],
+    "album": {
+      "name": "Sanctum  (Original Mix)",
+      "link": "https://music.163.com/album?id=3427414"
+    }
+  },
+  {
+    "name": "Come Back Down",
+    "link": "https://music.163.com/song?id=27978505",
+    "duration": "04:08",
+    "artists": [
+      { "name": "Mediks", "link": "https://music.163.com/artist?id=740032" }
+    ],
+    "album": {
+      "name": "Cannibals EP",
+      "link": "https://music.163.com/album?id=2707533"
+    }
+  },
+  {
+    "name": "ame",
+    "link": "https://music.163.com/song?id=22776557",
+    "duration": "02:28",
+    "artists": [
+      { "name": "点と線", "link": "https://music.163.com/artist?id=161296" }
+    ],
+    "album": {
+      "name": "ten to sen",
+      "link": "https://music.163.com/album?id=2092644"
+    }
+  },
+  {
+    "name": "Leevis",
+    "link": "https://music.163.com/song?id=30854873",
+    "duration": "03:25",
+    "artists": [
+      { "name": "Fri", "link": "https://music.163.com/artist?id=642651" },
+      { "name": "TomLeevis", "link": "https://music.163.com/artist?id=1050683" }
+    ],
+    "album": {
+      "name": "Leevis",
+      "link": "https://music.163.com/album?id=3104784"
+    }
+  },
+  {
+    "name": "Cafe’ Alpha(Main Theme)",
+    "link": "https://music.163.com/song?id=758005",
+    "duration": "03:07",
+    "artists": [
+      { "name": "Choro Club", "link": "https://music.163.com/artist?id=19060" }
+    ],
+    "album": {
+      "name": "ヨコハマ買い出し紀行-Quiet Country Cafe-オリジナル・サウンド・トラック",
+      "link": "https://music.163.com/album?id=74492"
+    }
+  },
+  {
+    "name": "Re:make",
+    "link": "https://music.163.com/song?id=794080",
+    "duration": "03:23",
+    "artists": [
+      { "name": "ONE OK ROCK", "link": "https://music.163.com/artist?id=20878" }
+    ],
+    "album": {
+      "name": "Re:make / NO SCARED",
+      "link": "https://music.163.com/album?id=78617"
+    }
+  },
+  {
+    "name": "U Got Me",
+    "link": "https://music.163.com/song?id=19878392",
+    "duration": "04:33",
+    "artists": [
+      {
+        "name": "Young London",
+        "link": "https://music.163.com/artist?id=105733"
+      }
+    ],
+    "album": {
+      "name": "Young London",
+      "link": "https://music.163.com/album?id=1836044"
+    }
+  },
+  {
+    "name": "Missing",
+    "link": "https://music.163.com/song?id=27876910",
+    "duration": "05:32",
+    "artists": [
+      { "name": "Emme Packer", "link": "https://music.163.com/artist?id=55532" }
+    ],
+    "album": {
+      "name": "15 Songs",
+      "link": "https://music.163.com/album?id=2685573"
+    }
+  },
+  {
+    "name": "Let's Build a Sandcastle",
+    "link": "https://music.163.com/song?id=28755081",
+    "duration": "03:42",
+    "artists": [
+      {
+        "name": "The Samuel Jackson Five",
+        "link": "https://music.163.com/artist?id=102147"
+      }
+    ],
+    "album": {
+      "name": "Seasons in the Hum",
+      "link": "https://music.163.com/album?id=2885966"
+    }
+  },
+  {
+    "name": "You Are Gold",
+    "link": "https://music.163.com/song?id=4397470",
+    "duration": "09:50",
+    "artists": [
+      {
+        "name": "The Candlepark Stars",
+        "link": "https://music.163.com/artist?id=103788"
+      }
+    ],
+    "album": {
+      "name": "Take Care and Safe Home",
+      "link": "https://music.163.com/album?id=443883"
+    }
+  },
+  {
+    "name": "Beautiful Things (Gabriel & Dresden Unplugged Mix)",
+    "link": "https://music.163.com/song?id=16483972",
+    "duration": "10:45",
+    "artists": [
+      { "name": "Andain", "link": "https://music.163.com/artist?id=87063" }
+    ],
+    "album": {
+      "name": "Beautiful Things",
+      "link": "https://music.163.com/album?id=1520578"
+    }
+  },
+  {
+    "name": "さくら ~あなたに出会えてよかった~",
+    "link": "https://music.163.com/song?id=805197",
+    "duration": "05:01",
+    "artists": [
+      { "name": "RSP", "link": "https://music.163.com/artist?id=21140" }
+    ],
+    "album": {
+      "name": "さくら~あなたに出会えてよかった~",
+      "link": "https://music.163.com/album?id=79921"
+    }
+  },
+  {
+    "name": "Ariadne",
+    "link": "https://music.163.com/song?id=16648459",
+    "duration": "08:02",
+    "artists": [
+      { "name": "Laura", "link": "https://music.163.com/artist?id=1081554" }
+    ],
+    "album": {
+      "name": "Mapping Your Dreams",
+      "link": "https://music.163.com/album?id=1534630"
+    }
+  },
+  {
+    "name": "芳香",
+    "link": "https://music.163.com/song?id=26328682",
+    "duration": "04:37",
+    "artists": [
+      { "name": "Beatsound", "link": "https://music.163.com/artist?id=2104" }
+    ],
+    "album": {
+      "name": "Lingering Sound Waves Vol.3",
+      "link": "https://music.163.com/album?id=2451647"
+    }
+  },
+  {
+    "name": "give it back - (TV动画《咒术回战》片尾曲2)",
+    "link": "https://music.163.com/song?id=1814040682",
+    "duration": "03:32",
+    "artists": [
+      {
+        "name": "Cö shu Nie",
+        "link": "https://music.163.com/artist?id=12136070"
+      }
+    ],
+    "album": {
+      "name": "give it back",
+      "link": "https://music.163.com/album?id=126873586"
+    }
+  }
+]

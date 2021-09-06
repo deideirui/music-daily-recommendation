@@ -1,0 +1,454 @@
+[
+  {
+    "name": "What U Wanted",
+    "link": "https://music.163.com/song?id=1454868789",
+    "duration": "02:37",
+    "artists": [
+      { "name": "Wiberg", "link": "https://music.163.com/artist?id=32843930" },
+      { "name": "Rentz", "link": "https://music.163.com/artist?id=12628381" }
+    ],
+    "album": {
+      "name": "What U Wanted",
+      "link": "https://music.163.com/album?id=90764518"
+    }
+  },
+  {
+    "name": "Safe Zone",
+    "link": "https://music.163.com/song?id=1465211730",
+    "duration": "03:11",
+    "artists": [
+      { "name": "SeeB", "link": "https://music.163.com/artist?id=1182169" },
+      {
+        "name": "Emelie Hollow",
+        "link": "https://music.163.com/artist?id=12136052"
+      }
+    ],
+    "album": {
+      "name": "Sad in Scandinavia (Part 1)",
+      "link": "https://music.163.com/album?id=92925715"
+    }
+  },
+  {
+    "name": "What's Done Is Done (Delta Heavy Remix)",
+    "link": "https://music.163.com/song?id=1459161363",
+    "duration": "04:05",
+    "artists": [
+      {
+        "name": "Seven Lions",
+        "link": "https://music.163.com/artist?id=44204"
+      },
+      { "name": "HALIENE", "link": "https://music.163.com/artist?id=13202710" },
+      {
+        "name": "Delta Heavy",
+        "link": "https://music.163.com/artist?id=757017"
+      }
+    ],
+    "album": {
+      "name": "Find Another Way (Remixes)",
+      "link": "https://music.163.com/album?id=91732603"
+    }
+  },
+  {
+    "name": "I'd Do It Again",
+    "link": "https://music.163.com/song?id=1369985055",
+    "duration": "03:29",
+    "artists": [
+      { "name": "CRaymak", "link": "https://music.163.com/artist?id=1192118" },
+      {
+        "name": "Saint Yves",
+        "link": "https://music.163.com/artist?id=14911934"
+      }
+    ],
+    "album": {
+      "name": "I'd Do It Again",
+      "link": "https://music.163.com/album?id=79629405"
+    }
+  },
+  {
+    "name": "Neos",
+    "link": "https://music.163.com/song?id=466794440",
+    "duration": "04:01",
+    "artists": [
+      { "name": "Glacier", "link": "https://music.163.com/artist?id=860352" }
+    ],
+    "album": {
+      "name": "Neos",
+      "link": "https://music.163.com/album?id=35292330"
+    }
+  },
+  {
+    "name": "The Echo of the Mountains",
+    "link": "https://music.163.com/song?id=439915306",
+    "duration": "07:17",
+    "artists": [
+      {
+        "name": "Mark & Lukas",
+        "link": "https://music.163.com/artist?id=1104097"
+      }
+    ],
+    "album": {
+      "name": "Colours of Life",
+      "link": "https://music.163.com/album?id=34975440"
+    }
+  },
+  {
+    "name": "Dance of the River Spirits",
+    "link": "https://music.163.com/song?id=41666281",
+    "duration": "04:42",
+    "artists": [
+      {
+        "name": "Marcus Warner",
+        "link": "https://music.163.com/artist?id=1046308"
+      }
+    ],
+    "album": {
+      "name": "Oceans",
+      "link": "https://music.163.com/album?id=3451718"
+    }
+  },
+  {
+    "name": "ここにいる (I'm Here)",
+    "link": "https://music.163.com/song?id=1390895037",
+    "duration": "04:09",
+    "artists": [
+      { "name": "Aiobahn", "link": "https://music.163.com/artist?id=1137416" },
+      { "name": "rionos", "link": "https://music.163.com/artist?id=12107075" }
+    ],
+    "album": {
+      "name": "ここにいる (I'm Here)",
+      "link": "https://music.163.com/album?id=81639688"
+    }
+  },
+  {
+    "name": "Blue",
+    "link": "https://music.163.com/song?id=33419099",
+    "duration": "03:16",
+    "artists": [
+      { "name": "Steerner", "link": "https://music.163.com/artist?id=783190" },
+      { "name": "Martell", "link": "https://music.163.com/artist?id=12023568" }
+    ],
+    "album": { "name": "Sun", "link": "https://music.163.com/album?id=3184517" }
+  },
+  {
+    "name": "Blame",
+    "link": "https://music.163.com/song?id=29460064",
+    "duration": "03:32",
+    "artists": [
+      {
+        "name": "Calvin Harris",
+        "link": "https://music.163.com/artist?id=29968"
+      },
+      {
+        "name": "John Newman",
+        "link": "https://music.163.com/artist?id=195302"
+      }
+    ],
+    "album": {
+      "name": "Motion",
+      "link": "https://music.163.com/album?id=3029170"
+    }
+  },
+  {
+    "name": "Someone To You",
+    "link": "https://music.163.com/song?id=1492065899",
+    "duration": "03:26",
+    "artists": [
+      {
+        "name": "The Piano Guys",
+        "link": "https://music.163.com/artist?id=99093"
+      }
+    ],
+    "album": { "name": "10", "link": "https://music.163.com/album?id=97724890" }
+  },
+  {
+    "name": "Submerge",
+    "link": "https://music.163.com/song?id=1394740122",
+    "duration": "08:26",
+    "artists": [
+      {
+        "name": "Roald Velden",
+        "link": "https://music.163.com/artist?id=178498"
+      },
+      {
+        "name": "Sunset Moments",
+        "link": "https://music.163.com/artist?id=12356690"
+      }
+    ],
+    "album": {
+      "name": "Submerge",
+      "link": "https://music.163.com/album?id=82119038"
+    }
+  },
+  {
+    "name": "In The Name Of Love",
+    "link": "https://music.163.com/song?id=423227295",
+    "duration": "03:18",
+    "artists": [
+      {
+        "name": "Martin Garrix",
+        "link": "https://music.163.com/artist?id=780003"
+      },
+      { "name": "Bebe Rexha", "link": "https://music.163.com/artist?id=336466" }
+    ],
+    "album": {
+      "name": "In The Name Of Love",
+      "link": "https://music.163.com/album?id=34791602"
+    }
+  },
+  {
+    "name": "Who I Am",
+    "link": "https://music.163.com/song?id=17241366",
+    "duration": "03:44",
+    "artists": [
+      {
+        "name": "David Archuleta",
+        "link": "https://music.163.com/artist?id=31192"
+      }
+    ],
+    "album": {
+      "name": "The Other Side of Down (Deluxe Edition)",
+      "link": "https://music.163.com/album?id=1589191"
+    }
+  },
+  {
+    "name": "小段",
+    "link": "https://music.163.com/song?id=1490306026",
+    "duration": "04:17",
+    "artists": [
+      { "name": "汪苏泷", "link": "https://music.163.com/artist?id=5538" }
+    ],
+    "album": {
+      "name": "大娱乐家",
+      "link": "https://music.163.com/album?id=98515529"
+    }
+  },
+  {
+    "name": "Rear View Mirror",
+    "link": "https://music.163.com/song?id=1415738531",
+    "duration": "02:45",
+    "artists": [
+      { "name": "WATEVA", "link": "https://music.163.com/artist?id=12475726" }
+    ],
+    "album": {
+      "name": "Rear View Mirror",
+      "link": "https://music.163.com/album?id=84894209"
+    }
+  },
+  {
+    "name": "Everybody Hurts",
+    "link": "https://music.163.com/song?id=16431979",
+    "duration": "03:41",
+    "artists": [
+      {
+        "name": "Avril Lavigne",
+        "link": "https://music.163.com/artist?id=46490"
+      }
+    ],
+    "album": {
+      "name": "Goodbye Lullaby",
+      "link": "https://music.163.com/album?id=1515095"
+    }
+  },
+  {
+    "name": "奢求",
+    "link": "https://music.163.com/song?id=1482659351",
+    "duration": "04:04",
+    "artists": [
+      { "name": "花千诚", "link": "https://music.163.com/artist?id=12281697" }
+    ],
+    "album": {
+      "name": "奢求",
+      "link": "https://music.163.com/album?id=96027351"
+    }
+  },
+  {
+    "name": "Apple Tree",
+    "link": "https://music.163.com/song?id=1370162635",
+    "duration": "03:08",
+    "artists": [
+      { "name": "AURORA", "link": "https://music.163.com/artist?id=1043338" }
+    ],
+    "album": {
+      "name": "A Different Kind Of Human – Step 2",
+      "link": "https://music.163.com/album?id=79643222"
+    }
+  },
+  {
+    "name": "Simon Says",
+    "link": "https://music.163.com/song?id=469104848",
+    "duration": "03:35",
+    "artists": [
+      { "name": "Allie X", "link": "https://music.163.com/artist?id=973030" }
+    ],
+    "album": {
+      "name": "CollXtion II",
+      "link": "https://music.163.com/album?id=35297807"
+    }
+  },
+  {
+    "name": "Coffee Black",
+    "link": "https://music.163.com/song?id=1430415672",
+    "duration": "04:25",
+    "artists": [
+      { "name": "Feed Me", "link": "https://music.163.com/artist?id=33728" }
+    ],
+    "album": {
+      "name": "Coffee Black",
+      "link": "https://music.163.com/album?id=86454726"
+    }
+  },
+  {
+    "name": "Tu vas me manquer (Pilule Bleue)",
+    "link": "https://music.163.com/song?id=36025856",
+    "duration": "04:10",
+    "artists": [
+      {
+        "name": "Maître Gims",
+        "link": "https://music.163.com/artist?id=710267"
+      }
+    ],
+    "album": {
+      "name": "Mon coeur avait raison",
+      "link": "https://music.163.com/album?id=3367822"
+    }
+  },
+  {
+    "name": "Cry For You",
+    "link": "https://music.163.com/song?id=1496248912",
+    "duration": "02:43",
+    "artists": [
+      {
+        "name": "2Elements",
+        "link": "https://music.163.com/artist?id=12062206"
+      }
+    ],
+    "album": {
+      "name": "Cry For You",
+      "link": "https://music.163.com/album?id=98459257"
+    }
+  },
+  {
+    "name": "Origin",
+    "link": "https://music.163.com/song?id=1353191063",
+    "duration": "02:02",
+    "artists": [
+      { "name": "TheFatRat", "link": "https://music.163.com/artist?id=1019952" }
+    ],
+    "album": {
+      "name": "Warrior Songs",
+      "link": "https://music.163.com/album?id=77423192"
+    }
+  },
+  {
+    "name": "Ava Max-Salt Bounce2.0（GOKI DJs remix）",
+    "link": "https://music.163.com/song?id=1457320956",
+    "duration": "04:00",
+    "artists": [
+      { "name": "GOKI DJs", "link": "https://music.163.com/artist?id=32767301" }
+    ],
+    "album": {
+      "name": "Salt - Ava Max",
+      "link": "https://music.163.com/album?id=91107948"
+    }
+  },
+  {
+    "name": "Metamodernity",
+    "link": "https://music.163.com/song?id=1386693530",
+    "duration": "02:42",
+    "artists": [
+      { "name": "Vansire", "link": "https://music.163.com/artist?id=12348095" }
+    ],
+    "album": {
+      "name": "Metamodernity",
+      "link": "https://music.163.com/album?id=81157603"
+    }
+  },
+  {
+    "name": "The Pizzicato Mafia",
+    "link": "https://music.163.com/song?id=423228231",
+    "duration": "07:00",
+    "artists": [
+      {
+        "name": "Sound Stabs",
+        "link": "https://music.163.com/artist?id=12080334"
+      }
+    ],
+    "album": {
+      "name": "ONE",
+      "link": "https://music.163.com/album?id=34791575"
+    }
+  },
+  {
+    "name": "Take a Walk (A Cappella)",
+    "link": "https://music.163.com/song?id=32807378",
+    "duration": "04:10",
+    "artists": [
+      {
+        "name": "AaronicStuff",
+        "link": "https://music.163.com/artist?id=1086039"
+      }
+    ],
+    "album": {
+      "name": "Take a Walk (A Cappella)",
+      "link": "https://music.163.com/album?id=3173072"
+    }
+  },
+  {
+    "name": "Tides",
+    "link": "https://music.163.com/song?id=561946600",
+    "duration": "03:23",
+    "artists": [
+      { "name": "Mes", "link": "https://music.163.com/artist?id=13609769" },
+      { "name": "Tuno桐音", "link": "https://music.163.com/artist?id=1216032" }
+    ],
+    "album": {
+      "name": "Tides",
+      "link": "https://music.163.com/album?id=38793327"
+    }
+  },
+  {
+    "name": "Crave",
+    "link": "https://music.163.com/song?id=483905050",
+    "duration": "04:53",
+    "artists": [
+      {
+        "name": "Ruby Haunt",
+        "link": "https://music.163.com/artist?id=12463474"
+      }
+    ],
+    "album": {
+      "name": "Crush",
+      "link": "https://music.163.com/album?id=35614013"
+    }
+  },
+  {
+    "name": "Moody",
+    "link": "https://music.163.com/song?id=1375241780",
+    "duration": "03:09",
+    "artists": [
+      {
+        "name": "Savannah Sgro",
+        "link": "https://music.163.com/artist?id=31381918"
+      }
+    ],
+    "album": {
+      "name": "Phobia",
+      "link": "https://music.163.com/album?id=80116504"
+    }
+  },
+  {
+    "name": "Like a Child",
+    "link": "https://music.163.com/song?id=1376158180",
+    "duration": "06:12",
+    "artists": [
+      {
+        "name": "Tony Anderson",
+        "link": "https://music.163.com/artist?id=79757"
+      }
+    ],
+    "album": {
+      "name": "Like a Child",
+      "link": "https://music.163.com/album?id=80239738"
+    }
+  }
+]

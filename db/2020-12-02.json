@@ -1,0 +1,465 @@
+[
+  {
+    "name": "Visions",
+    "link": "https://music.163.com/song?id=34040716",
+    "duration": "03:18",
+    "artists": [
+      { "name": "Acreix", "link": "https://music.163.com/artist?id=1132946" }
+    ],
+    "album": {
+      "name": "Visions",
+      "link": "https://music.163.com/album?id=3270699"
+    }
+  },
+  {
+    "name": "Sunray",
+    "link": "https://music.163.com/song?id=1424954598",
+    "duration": "02:11",
+    "artists": [
+      { "name": "Cuebrick", "link": "https://music.163.com/artist?id=364737" }
+    ],
+    "album": {
+      "name": "Sunray",
+      "link": "https://music.163.com/album?id=85898330"
+    }
+  },
+  {
+    "name": "First Flight",
+    "link": "https://music.163.com/song?id=1399531195",
+    "duration": "04:46",
+    "artists": [
+      {
+        "name": "Marcus Warner",
+        "link": "https://music.163.com/artist?id=1046308"
+      }
+    ],
+    "album": {
+      "name": "Reprise - EP",
+      "link": "https://music.163.com/album?id=82782578"
+    }
+  },
+  {
+    "name": "Anti-Everything (Jake Wolfe Remix)",
+    "link": "https://music.163.com/song?id=1359337683",
+    "duration": "02:33",
+    "artists": [
+      {
+        "name": "Lost Kings",
+        "link": "https://music.163.com/artist?id=847225"
+      },
+      {
+        "name": "Loren Gray",
+        "link": "https://music.163.com/artist?id=28802007"
+      }
+    ],
+    "album": {
+      "name": "Anti-Everything (Remixes)",
+      "link": "https://music.163.com/album?id=78568148"
+    }
+  },
+  {
+    "name": "Telepathy",
+    "link": "https://music.163.com/song?id=1339219109",
+    "duration": "03:49",
+    "artists": [
+      { "name": "Jai Wolf", "link": "https://music.163.com/artist?id=1063048" }
+    ],
+    "album": {
+      "name": "The Cure To Loneliness",
+      "link": "https://music.163.com/album?id=78300643"
+    }
+  },
+  {
+    "name": "Titan",
+    "link": "https://music.163.com/song?id=423314146",
+    "duration": "03:38",
+    "artists": [
+      { "name": "Starlyte", "link": "https://music.163.com/artist?id=12006394" }
+    ],
+    "album": {
+      "name": "Ninety9lives 93: Finish Him",
+      "link": "https://music.163.com/album?id=34790313"
+    }
+  },
+  {
+    "name": "Arcade",
+    "link": "https://music.163.com/song?id=1497512831",
+    "duration": "03:05",
+    "artists": [
+      {
+        "name": "Duncan Laurence",
+        "link": "https://music.163.com/artist?id=31635088"
+      }
+    ],
+    "album": {
+      "name": "Tiktock Best Of 2020",
+      "link": "https://music.163.com/album?id=98652211"
+    }
+  },
+  {
+    "name": "Two Of Us",
+    "link": "https://music.163.com/song?id=1426795735",
+    "duration": "03:19",
+    "artists": [
+      { "name": "Ryos", "link": "https://music.163.com/artist?id=1053137" }
+    ],
+    "album": {
+      "name": "Two Of Us",
+      "link": "https://music.163.com/album?id=86089370"
+    }
+  },
+  {
+    "name": "Espoir",
+    "link": "https://music.163.com/song?id=28279068",
+    "duration": "04:02",
+    "artists": [
+      { "name": "Darius", "link": "https://music.163.com/artist?id=1179173" }
+    ],
+    "album": {
+      "name": "Romance",
+      "link": "https://music.163.com/album?id=2768256"
+    }
+  },
+  {
+    "name": "Pure Sunlight (Original Mix)",
+    "link": "https://music.163.com/song?id=28612173",
+    "duration": "05:37",
+    "artists": [
+      {
+        "name": "Laura Brehm",
+        "link": "https://music.163.com/artist?id=207693"
+      },
+      {
+        "name": "Mr FijiWiji",
+        "link": "https://music.163.com/artist?id=40353"
+      },
+      { "name": "AgNo3", "link": "https://music.163.com/artist?id=28457540" }
+    ],
+    "album": {
+      "name": "Pure Sunlight",
+      "link": "https://music.163.com/album?id=2848331"
+    }
+  },
+  {
+    "name": "Come Back Down",
+    "link": "https://music.163.com/song?id=27978505",
+    "duration": "04:08",
+    "artists": [
+      { "name": "Mediks", "link": "https://music.163.com/artist?id=740032" }
+    ],
+    "album": {
+      "name": "Cannibals EP",
+      "link": "https://music.163.com/album?id=2707533"
+    }
+  },
+  {
+    "name": "Santa Monica",
+    "link": "https://music.163.com/song?id=445450067",
+    "duration": "03:18",
+    "artists": [
+      { "name": "Dripice", "link": "https://music.163.com/artist?id=1050671" },
+      { "name": "Pilton", "link": "https://music.163.com/artist?id=1050299" }
+    ],
+    "album": {
+      "name": "Santa Monica",
+      "link": "https://music.163.com/album?id=35023875"
+    }
+  },
+  {
+    "name": "Alive",
+    "link": "https://music.163.com/song?id=1341520066",
+    "duration": "06:05",
+    "artists": [
+      { "name": "Dabin", "link": "https://music.163.com/artist?id=783446" },
+      { "name": "Runn", "link": "https://music.163.com/artist?id=15237536" }
+    ],
+    "album": {
+      "name": "Alive",
+      "link": "https://music.163.com/album?id=75292055"
+    }
+  },
+  {
+    "name": "Solar Breeze",
+    "link": "https://music.163.com/song?id=1417604005",
+    "duration": "07:04",
+    "artists": [
+      { "name": "Gray-LAN", "link": "https://music.163.com/artist?id=30379375" }
+    ],
+    "album": {
+      "name": "Winter Sun 02",
+      "link": "https://music.163.com/album?id=85066688"
+    }
+  },
+  {
+    "name": "Changes",
+    "link": "https://music.163.com/song?id=1358189621",
+    "duration": "02:22",
+    "artists": [
+      {
+        "name": "Mike Perry",
+        "link": "https://music.163.com/artist?id=195021"
+      },
+      {
+        "name": "Dimitri Vangelis & Wyman",
+        "link": "https://music.163.com/artist?id=881024"
+      },
+      {
+        "name": "Ten Times",
+        "link": "https://music.163.com/artist?id=31930131"
+      },
+      {
+        "name": "The Companions",
+        "link": "https://music.163.com/artist?id=13383375"
+      }
+    ],
+    "album": {
+      "name": "Changes",
+      "link": "https://music.163.com/album?id=78479504"
+    }
+  },
+  {
+    "name": "Slow Down",
+    "link": "https://music.163.com/song?id=1356658022",
+    "duration": "03:23",
+    "artists": [
+      { "name": "Madnap", "link": "https://music.163.com/artist?id=896042" },
+      {
+        "name": "Pauline Herr",
+        "link": "https://music.163.com/artist?id=13080654"
+      }
+    ],
+    "album": {
+      "name": "Slow Down",
+      "link": "https://music.163.com/album?id=78333509"
+    }
+  },
+  {
+    "name": "Chances",
+    "link": "https://music.163.com/song?id=489110016",
+    "duration": "03:16",
+    "artists": [
+      { "name": "Mesto", "link": "https://music.163.com/artist?id=12007184" },
+      {
+        "name": "Brielle Von Hugel",
+        "link": "https://music.163.com/artist?id=13543037"
+      }
+    ],
+    "album": {
+      "name": "Chances",
+      "link": "https://music.163.com/album?id=35726012"
+    }
+  },
+  {
+    "name": "Bright Lights",
+    "link": "https://music.163.com/song?id=1428852864",
+    "duration": "02:36",
+    "artists": [
+      { "name": "Castion", "link": "https://music.163.com/artist?id=27687018" },
+      { "name": "Krozz", "link": "https://music.163.com/artist?id=12698100" }
+    ],
+    "album": {
+      "name": "Bright Lights",
+      "link": "https://music.163.com/album?id=86298022"
+    }
+  },
+  {
+    "name": "Interstellar",
+    "link": "https://music.163.com/song?id=1405248551",
+    "duration": "04:28",
+    "artists": [
+      { "name": "LeBrock", "link": "https://music.163.com/artist?id=13970913" }
+    ],
+    "album": {
+      "name": "Interstellar",
+      "link": "https://music.163.com/album?id=83591642"
+    }
+  },
+  {
+    "name": "Body",
+    "link": "https://music.163.com/song?id=515816187",
+    "duration": "02:43",
+    "artists": [
+      {
+        "name": "Loud Luxury",
+        "link": "https://music.163.com/artist?id=12096064"
+      },
+      { "name": "Brando", "link": "https://music.163.com/artist?id=49787" }
+    ],
+    "album": {
+      "name": "Body",
+      "link": "https://music.163.com/album?id=36682163"
+    }
+  },
+  {
+    "name": "Walk Away",
+    "link": "https://music.163.com/song?id=469243036",
+    "duration": "03:05",
+    "artists": [
+      {
+        "name": "LVNDSCAPE",
+        "link": "https://music.163.com/artist?id=1146024"
+      },
+      { "name": "Kaptan", "link": "https://music.163.com/artist?id=1182177" }
+    ],
+    "album": {
+      "name": "Walk Away",
+      "link": "https://music.163.com/album?id=35333022"
+    }
+  },
+  {
+    "name": "One I Want",
+    "link": "https://music.163.com/song?id=1417055633",
+    "duration": "02:58",
+    "artists": [
+      {
+        "name": "VARGENTA",
+        "link": "https://music.163.com/artist?id=12108656"
+      },
+      { "name": "Son", "link": "https://music.163.com/artist?id=263903" },
+      {
+        "name": "Revealed Recordings",
+        "link": "https://music.163.com/artist?id=28753573"
+      },
+      {
+        "name": "Max Landry",
+        "link": "https://music.163.com/artist?id=13493957"
+      }
+    ],
+    "album": {
+      "name": "One I Want",
+      "link": "https://music.163.com/album?id=85020161"
+    }
+  },
+  {
+    "name": "Undercover Martyn",
+    "link": "https://music.163.com/song?id=19610381",
+    "duration": "02:46",
+    "artists": [
+      {
+        "name": "Two Door Cinema Club",
+        "link": "https://music.163.com/artist?id=102717"
+      }
+    ],
+    "album": {
+      "name": "Tourist History",
+      "link": "https://music.163.com/album?id=1804799"
+    }
+  },
+  {
+    "name": "Follow You",
+    "link": "https://music.163.com/song?id=1341556036",
+    "duration": "02:52",
+    "artists": [
+      {
+        "name": "Emily Coulston",
+        "link": "https://music.163.com/artist?id=29794032"
+      }
+    ],
+    "album": {
+      "name": "Follow You",
+      "link": "https://music.163.com/album?id=75292884"
+    }
+  },
+  {
+    "name": "Alibi (Far Out Remix)",
+    "link": "https://music.163.com/song?id=863515475",
+    "duration": "03:39",
+    "artists": [
+      { "name": "Far Out", "link": "https://music.163.com/artist?id=824107" },
+      { "name": "Krewella", "link": "https://music.163.com/artist?id=208915" }
+    ],
+    "album": {
+      "name": "Alibi (Far Out Remix)",
+      "link": "https://music.163.com/album?id=71722753"
+    }
+  },
+  {
+    "name": "Always Ends",
+    "link": "https://music.163.com/song?id=520277063",
+    "duration": "03:25",
+    "artists": [
+      {
+        "name": "Adib Sin",
+        "link": "https://music.163.com/artist?id=12244027"
+      },
+      { "name": "Auratrnc", "link": "https://music.163.com/artist?id=14714103" }
+    ],
+    "album": {
+      "name": "Always Ends",
+      "link": "https://music.163.com/album?id=36844028"
+    }
+  },
+  {
+    "name": "Lost Boy",
+    "link": "https://music.163.com/song?id=1294889782",
+    "duration": "04:37",
+    "artists": [
+      {
+        "name": "The Midnight",
+        "link": "https://music.163.com/artist?id=12023492"
+      }
+    ],
+    "album": {
+      "name": "Lost Boy",
+      "link": "https://music.163.com/album?id=71853096"
+    }
+  },
+  {
+    "name": "Back2You",
+    "link": "https://music.163.com/song?id=32465217",
+    "duration": "03:46",
+    "artists": [
+      { "name": "Hellberg", "link": "https://music.163.com/artist?id=210570" }
+    ],
+    "album": {
+      "name": "Monstercat 022 - Contact",
+      "link": "https://music.163.com/album?id=3161306"
+    }
+  },
+  {
+    "name": "Lights Go Out",
+    "link": "https://music.163.com/song?id=1385157704",
+    "duration": "03:09",
+    "artists": [
+      {
+        "name": "Lydia Halloway",
+        "link": "https://music.163.com/artist?id=31977443"
+      }
+    ],
+    "album": {
+      "name": "Lights Go Out",
+      "link": "https://music.163.com/album?id=81029943"
+    }
+  },
+  {
+    "name": "Thrones (Last Heroes Remix)",
+    "link": "https://music.163.com/song?id=468517836",
+    "duration": "04:24",
+    "artists": [
+      {
+        "name": "Satellite Empire",
+        "link": "https://music.163.com/artist?id=1116247"
+      },
+      {
+        "name": "Last Heroes",
+        "link": "https://music.163.com/artist?id=11987034"
+      }
+    ],
+    "album": {
+      "name": "Thrones (The Second Canon)",
+      "link": "https://music.163.com/album?id=35314493"
+    }
+  },
+  {
+    "name": "Anew",
+    "link": "https://music.163.com/song?id=1293953821",
+    "duration": "03:18",
+    "artists": [
+      { "name": "Resonance", "link": "https://music.163.com/artist?id=196588" }
+    ],
+    "album": {
+      "name": "Anew   ",
+      "link": "https://music.163.com/album?id=71855766"
+    }
+  }
+]

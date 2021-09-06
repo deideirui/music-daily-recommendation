@@ -1,0 +1,463 @@
+[
+  {
+    "name": "2 AM",
+    "link": "https://music.163.com/song?id=1397622097",
+    "duration": "02:53",
+    "artists": [
+      { "name": "Jai Nova", "link": "https://music.163.com/artist?id=1083105" },
+      {
+        "name": "Carmen Rose",
+        "link": "https://music.163.com/artist?id=28694618"
+      }
+    ],
+    "album": {
+      "name": "2 AM",
+      "link": "https://music.163.com/album?id=82516762"
+    }
+  },
+  {
+    "name": "Better Days",
+    "link": "https://music.163.com/song?id=1405111187",
+    "duration": "03:07",
+    "artists": [
+      {
+        "name": "Arman Cekin",
+        "link": "https://music.163.com/artist?id=1132987"
+      },
+      { "name": "Faydee", "link": "https://music.163.com/artist?id=33624" }
+    ],
+    "album": {
+      "name": "Better Days",
+      "link": "https://music.163.com/album?id=83569827"
+    }
+  },
+  {
+    "name": "Broken",
+    "link": "https://music.163.com/song?id=1387301100",
+    "duration": "02:58",
+    "artists": [
+      {
+        "name": "We Are Fury",
+        "link": "https://music.163.com/artist?id=12506160"
+      },
+      { "name": "Luma", "link": "https://music.163.com/artist?id=211460" }
+    ],
+    "album": {
+      "name": "Broken",
+      "link": "https://music.163.com/album?id=81222995"
+    }
+  },
+  {
+    "name": "Spark",
+    "link": "https://music.163.com/song?id=1385757372",
+    "duration": "02:43",
+    "artists": [
+      { "name": "MOTI", "link": "https://music.163.com/artist?id=366384" },
+      {
+        "name": "Fly by Midnight",
+        "link": "https://music.163.com/artist?id=1163027"
+      }
+    ],
+    "album": {
+      "name": "Spark",
+      "link": "https://music.163.com/album?id=81076372"
+    }
+  },
+  {
+    "name": "Want You",
+    "link": "https://music.163.com/song?id=1383257166",
+    "duration": "02:43",
+    "artists": [
+      { "name": "Erkki.R", "link": "https://music.163.com/artist?id=12901022" }
+    ],
+    "album": {
+      "name": "Want You",
+      "link": "https://music.163.com/album?id=80871782"
+    }
+  },
+  {
+    "name": "Stories",
+    "link": "https://music.163.com/song?id=1391811816",
+    "duration": "02:48",
+    "artists": [
+      { "name": "Luke Bond", "link": "https://music.163.com/artist?id=191581" },
+      {
+        "name": "Ruby Chase",
+        "link": "https://music.163.com/artist?id=29781533"
+      }
+    ],
+    "album": {
+      "name": "Stories",
+      "link": "https://music.163.com/album?id=81750838"
+    }
+  },
+  {
+    "name": "Care",
+    "link": "https://music.163.com/song?id=1394311769",
+    "duration": "03:25",
+    "artists": [
+      { "name": "Hurshel", "link": "https://music.163.com/artist?id=13876977" }
+    ],
+    "album": {
+      "name": "Care",
+      "link": "https://music.163.com/album?id=82064422"
+    }
+  },
+  {
+    "name": "Love How It Hurts",
+    "link": "https://music.163.com/song?id=1447594147",
+    "duration": "03:19",
+    "artists": [
+      {
+        "name": "Axel Johansson",
+        "link": "https://music.163.com/artist?id=12872604"
+      },
+      {
+        "name": "Tina Stachowiak",
+        "link": "https://music.163.com/artist?id=905727"
+      }
+    ],
+    "album": {
+      "name": "Love How It Hurts",
+      "link": "https://music.163.com/album?id=89347918"
+    }
+  },
+  {
+    "name": "Somebody Else",
+    "link": "https://music.163.com/song?id=1401843956",
+    "duration": "02:41",
+    "artists": [
+      {
+        "name": "Isac Elliot",
+        "link": "https://music.163.com/artist?id=772147"
+      }
+    ],
+    "album": {
+      "name": "Somebody Else",
+      "link": "https://music.163.com/album?id=83096414"
+    }
+  },
+  {
+    "name": "Landslide",
+    "link": "https://music.163.com/song?id=1427819955",
+    "duration": "03:30",
+    "artists": [
+      { "name": "Noorlind", "link": "https://music.163.com/artist?id=34489206" }
+    ],
+    "album": {
+      "name": "Landslide",
+      "link": "https://music.163.com/album?id=86191614"
+    }
+  },
+  {
+    "name": "Just Like Me",
+    "link": "https://music.163.com/song?id=1419951729",
+    "duration": "02:42",
+    "artists": [
+      {
+        "name": "The Tech Thieves",
+        "link": "https://music.163.com/artist?id=12080267"
+      }
+    ],
+    "album": {
+      "name": "Just Like Me",
+      "link": "https://music.163.com/album?id=85362270"
+    }
+  },
+  {
+    "name": "Last Time",
+    "link": "https://music.163.com/song?id=1419166168",
+    "duration": "03:44",
+    "artists": [
+      {
+        "name": "Midnight Kids",
+        "link": "https://music.163.com/artist?id=13192314"
+      }
+    ],
+    "album": {
+      "name": "Last Time",
+      "link": "https://music.163.com/album?id=85244302"
+    }
+  },
+  {
+    "name": "Where Are You Now",
+    "link": "https://music.163.com/song?id=1400361708",
+    "duration": "02:37",
+    "artists": [
+      { "name": "Stadiumx", "link": "https://music.163.com/artist?id=1004052" }
+    ],
+    "album": {
+      "name": "Where Are You Now",
+      "link": "https://music.163.com/album?id=82914749"
+    }
+  },
+  {
+    "name": "Follow Me",
+    "link": "https://music.163.com/song?id=1440751063",
+    "duration": "03:37",
+    "artists": [
+      { "name": "Warren", "link": "https://music.163.com/artist?id=34379664" },
+      {
+        "name": "Revealed Recordings",
+        "link": "https://music.163.com/artist?id=28753573"
+      }
+    ],
+    "album": {
+      "name": "Follow Me",
+      "link": "https://music.163.com/album?id=88039696"
+    }
+  },
+  {
+    "name": "Catching Fire",
+    "link": "https://music.163.com/song?id=1410858446",
+    "duration": "03:24",
+    "artists": [
+      { "name": "Ryos", "link": "https://music.163.com/artist?id=1053137" },
+      {
+        "name": "Arjay Dang",
+        "link": "https://music.163.com/artist?id=31773969"
+      }
+    ],
+    "album": {
+      "name": "Catching Fire",
+      "link": "https://music.163.com/album?id=84242616"
+    }
+  },
+  {
+    "name": "Need Somebody",
+    "link": "https://music.163.com/song?id=1392174578",
+    "duration": "02:42",
+    "artists": [
+      {
+        "name": "Chris Ayer",
+        "link": "https://music.163.com/artist?id=12274427"
+      }
+    ],
+    "album": {
+      "name": "Endless Wonder",
+      "link": "https://music.163.com/album?id=81796263"
+    }
+  },
+  {
+    "name": "Back Together",
+    "link": "https://music.163.com/song?id=1361195268",
+    "duration": "03:31",
+    "artists": [
+      {
+        "name": "William Black",
+        "link": "https://music.163.com/artist?id=248957"
+      },
+      { "name": "Runn", "link": "https://music.163.com/artist?id=15237536" }
+    ],
+    "album": {
+      "name": "Pages",
+      "link": "https://music.163.com/album?id=80685180"
+    }
+  },
+  {
+    "name": "Hold You Tonight",
+    "link": "https://music.163.com/song?id=1438398994",
+    "duration": "03:39",
+    "artists": [
+      { "name": "Gryffin", "link": "https://music.163.com/artist?id=1181504" },
+      {
+        "name": "Chris Lane",
+        "link": "https://music.163.com/artist?id=1181677"
+      }
+    ],
+    "album": {
+      "name": "Hold You Tonight",
+      "link": "https://music.163.com/album?id=87726566"
+    }
+  },
+  {
+    "name": "Without You (Acoustic)",
+    "link": "https://music.163.com/song?id=1392085826",
+    "duration": "03:20",
+    "artists": [
+      {
+        "name": "John Newman",
+        "link": "https://music.163.com/artist?id=195302"
+      },
+      {
+        "name": "Nina Nesbitt",
+        "link": "https://music.163.com/artist?id=70292"
+      }
+    ],
+    "album": {
+      "name": "Without You (Acoustic)",
+      "link": "https://music.163.com/album?id=81786989"
+    }
+  },
+  {
+    "name": "All To Me",
+    "link": "https://music.163.com/song?id=1381388844",
+    "duration": "03:12",
+    "artists": [
+      { "name": "Deekey", "link": "https://music.163.com/artist?id=12883069" },
+      { "name": "Nairi", "link": "https://music.163.com/artist?id=29724253" },
+      {
+        "name": "Lola Rhodes",
+        "link": "https://music.163.com/artist?id=13517955"
+      }
+    ],
+    "album": {
+      "name": "All To Me",
+      "link": "https://music.163.com/album?id=80719449"
+    }
+  },
+  {
+    "name": "All We Know",
+    "link": "https://music.163.com/song?id=432698441",
+    "duration": "03:14",
+    "artists": [
+      {
+        "name": "The Chainsmokers",
+        "link": "https://music.163.com/artist?id=893484"
+      },
+      {
+        "name": "Phoebe Ryan",
+        "link": "https://music.163.com/artist?id=854363"
+      }
+    ],
+    "album": {
+      "name": "All We Know",
+      "link": "https://music.163.com/album?id=34897575"
+    }
+  },
+  {
+    "name": "Savage (Nightcore Remix)",
+    "link": "https://music.163.com/song?id=1348917629",
+    "duration": "02:33",
+    "artists": [
+      { "name": "Bahari", "link": "https://music.163.com/artist?id=1044218" }
+    ],
+    "album": {
+      "name": "Savage (Nightcore Remix)",
+      "link": "https://music.163.com/album?id=75725547"
+    }
+  },
+  {
+    "name": "Interstellar",
+    "link": "https://music.163.com/song?id=29562298",
+    "duration": "03:33",
+    "artists": [
+      { "name": "Laszlo", "link": "https://music.163.com/artist?id=38725" }
+    ],
+    "album": {
+      "name": "Monstercat 019 - Endeavour",
+      "link": "https://music.163.com/album?id=3044084"
+    }
+  },
+  {
+    "name": "Silver Lining (feat. KARRA)",
+    "link": "https://music.163.com/song?id=1398699606",
+    "duration": "03:34",
+    "artists": [
+      { "name": "ARMNHMR", "link": "https://music.163.com/artist?id=1132078" },
+      { "name": "Karra", "link": "https://music.163.com/artist?id=1081582" }
+    ],
+    "album": {
+      "name": "Silver Lining (feat. KARRA)",
+      "link": "https://music.163.com/album?id=82660858"
+    }
+  },
+  {
+    "name": "Into You",
+    "link": "https://music.163.com/song?id=1446417442",
+    "duration": "02:35",
+    "artists": [
+      {
+        "name": "Going Deeper",
+        "link": "https://music.163.com/artist?id=977174"
+      },
+      { "name": "RITN", "link": "https://music.163.com/artist?id=34363702" }
+    ],
+    "album": {
+      "name": "Into You",
+      "link": "https://music.163.com/album?id=89128278"
+    }
+  },
+  {
+    "name": "Never Let Me Go",
+    "link": "https://music.163.com/song?id=1419415591",
+    "duration": "02:52",
+    "artists": [
+      { "name": "Crunkz", "link": "https://music.163.com/artist?id=12545711" }
+    ],
+    "album": {
+      "name": "Never Let Me Go",
+      "link": "https://music.163.com/album?id=85292300"
+    }
+  },
+  {
+    "name": "Living in Hell",
+    "link": "https://music.163.com/song?id=1395926210",
+    "duration": "03:49",
+    "artists": [
+      { "name": "JVNA", "link": "https://music.163.com/artist?id=28692563" }
+    ],
+    "album": {
+      "name": "Living in Hell",
+      "link": "https://music.163.com/album?id=82256727"
+    }
+  },
+  {
+    "name": "Have You Never Been Mellow",
+    "link": "https://music.163.com/song?id=1418462816",
+    "duration": "02:27",
+    "artists": [
+      {
+        "name": "Keanu Silva",
+        "link": "https://music.163.com/artist?id=11974107"
+      }
+    ],
+    "album": {
+      "name": "Have You Never Been Mellow",
+      "link": "https://music.163.com/album?id=85171767"
+    }
+  },
+  {
+    "name": "Be Your Sound",
+    "link": "https://music.163.com/song?id=1325358555",
+    "duration": "04:11",
+    "artists": [
+      {
+        "name": "Cosmic Gate",
+        "link": "https://music.163.com/artist?id=89866"
+      },
+      { "name": "Emma Hewitt", "link": "https://music.163.com/artist?id=56751" }
+    ],
+    "album": {
+      "name": "First Ladies of Trance",
+      "link": "https://music.163.com/album?id=74409372"
+    }
+  },
+  {
+    "name": "Know You",
+    "link": "https://music.163.com/song?id=1441388917",
+    "duration": "02:33",
+    "artists": [
+      {
+        "name": "Jay Eskar",
+        "link": "https://music.163.com/artist?id=12132198"
+      }
+    ],
+    "album": {
+      "name": "Know You",
+      "link": "https://music.163.com/album?id=88169952"
+    }
+  },
+  {
+    "name": "Get Stüpid",
+    "link": "https://music.163.com/song?id=1356668705",
+    "duration": "02:52",
+    "artists": [
+      { "name": "Bülow", "link": "https://music.163.com/artist?id=12809019" }
+    ],
+    "album": {
+      "name": "Crystalline",
+      "link": "https://music.163.com/album?id=78334140"
+    }
+  }
+]

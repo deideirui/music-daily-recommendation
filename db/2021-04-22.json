@@ -1,0 +1,446 @@
+[
+  {
+    "name": "Assassin",
+    "link": "https://music.163.com/song?id=1463444586",
+    "duration": "03:06",
+    "artists": [
+      { "name": "Z1ONE", "link": "https://music.163.com/artist?id=32857655" },
+      {
+        "name": "VANGUARD RECORDS",
+        "link": "https://music.163.com/artist?id=34467528"
+      }
+    ],
+    "album": {
+      "name": "Assassin",
+      "link": "https://music.163.com/album?id=92580299"
+    }
+  },
+  {
+    "name": "Slow Down",
+    "link": "https://music.163.com/song?id=1399417660",
+    "duration": "03:02",
+    "artists": [
+      {
+        "name": "Sineself",
+        "link": "https://music.163.com/artist?id=32945422"
+      },
+      {
+        "name": "Angel Pieters",
+        "link": "https://music.163.com/artist?id=12749893"
+      }
+    ],
+    "album": {
+      "name": "Slow Down",
+      "link": "https://music.163.com/album?id=82773522"
+    }
+  },
+  {
+    "name": "轻音乐 - 蕲州",
+    "link": "https://music.163.com/song?id=549476882",
+    "duration": "03:04",
+    "artists": [
+      { "name": "文劲松", "link": "https://music.163.com/artist?id=1063066" }
+    ],
+    "album": {
+      "name": "蕲州",
+      "link": "https://music.163.com/album?id=38082726"
+    }
+  },
+  {
+    "name": "江南微雨",
+    "link": "https://music.163.com/song?id=1484017437",
+    "duration": "02:44",
+    "artists": [
+      { "name": "鸶夏", "link": "https://music.163.com/artist?id=34203894" }
+    ],
+    "album": {
+      "name": "江南微雨",
+      "link": "https://music.163.com/album?id=96249683"
+    }
+  },
+  {
+    "name": "Fast Lane",
+    "link": "https://music.163.com/song?id=1406099861",
+    "duration": "02:29",
+    "artists": [
+      {
+        "name": "Palm Trees",
+        "link": "https://music.163.com/artist?id=1135109"
+      },
+      { "name": "MdL", "link": "https://music.163.com/artist?id=313543" },
+      {
+        "name": "Abi F Jones",
+        "link": "https://music.163.com/artist?id=1137160"
+      }
+    ],
+    "album": {
+      "name": "Fast Lane",
+      "link": "https://music.163.com/album?id=83685772"
+    }
+  },
+  {
+    "name": "Sims",
+    "link": "https://music.163.com/song?id=1392786375",
+    "duration": "02:35",
+    "artists": [
+      { "name": "Lauv", "link": "https://music.163.com/artist?id=1057226" }
+    ],
+    "album": {
+      "name": "~how i'm feeling~",
+      "link": "https://music.163.com/album?id=86086054"
+    }
+  },
+  {
+    "name": "盗作 - (Plagiarism)",
+    "link": "https://music.163.com/song?id=1464737240",
+    "duration": "03:59",
+    "artists": [
+      { "name": "ヨルシカ", "link": "https://music.163.com/artist?id=12390232" }
+    ],
+    "album": {
+      "name": "盗作",
+      "link": "https://music.163.com/album?id=93148762"
+    }
+  },
+  {
+    "name": "My Friend",
+    "link": "https://music.163.com/song?id=22682066",
+    "duration": "03:51",
+    "artists": [
+      { "name": "SPYAIR", "link": "https://music.163.com/artist?id=21503" }
+    ],
+    "album": {
+      "name": "Rockin' The World",
+      "link": "https://music.163.com/album?id=2080848"
+    }
+  },
+  {
+    "name": "What's Luv Freestyle",
+    "link": "https://music.163.com/song?id=1838593717",
+    "duration": "02:26",
+    "artists": [
+      {
+        "name": "Kkkkkarric",
+        "link": "https://music.163.com/artist?id=46959937"
+      }
+    ],
+    "album": {
+      "name": "What's Love",
+      "link": "https://music.163.com/album?id=126210436"
+    }
+  },
+  {
+    "name": "願い~あの頃のキミへ~ - (Negai Anokorono Kimie)",
+    "link": "https://music.163.com/song?id=488388942",
+    "duration": "05:40",
+    "artists": [
+      { "name": "當山みれい", "link": "https://music.163.com/artist?id=954456" }
+    ],
+    "album": {
+      "name": "願い E.P.",
+      "link": "https://music.163.com/album?id=35670809"
+    }
+  },
+  {
+    "name": "夜撫でるメノウ（翻自 Ayase） ",
+    "link": "https://music.163.com/song?id=1437285525",
+    "duration": "04:28",
+    "artists": [
+      {
+        "name": "夜行性春下",
+        "link": "https://music.163.com/artist?id=34535246"
+      }
+    ],
+    "album": {
+      "name": "夜撫でるメノウ",
+      "link": "https://music.163.com/album?id=87467519"
+    }
+  },
+  {
+    "name": "Quantum (Virtual Riot Remix)",
+    "link": "https://music.163.com/song?id=28668218",
+    "duration": "04:51",
+    "artists": [
+      { "name": "Astronaut", "link": "https://music.163.com/artist?id=804065" },
+      {
+        "name": "Virtual Riot",
+        "link": "https://music.163.com/artist?id=813244"
+      }
+    ],
+    "album": {
+      "name": "Monstercat 017 - Ascension",
+      "link": "https://music.163.com/album?id=2877017"
+    }
+  },
+  {
+    "name": "ウルフ",
+    "link": "https://music.163.com/song?id=541499340",
+    "duration": "03:51",
+    "artists": [
+      {
+        "name": "CHiCO with HoneyWorks",
+        "link": "https://music.163.com/artist?id=1049332"
+      }
+    ],
+    "album": {
+      "name": "私を染めるiの歌",
+      "link": "https://music.163.com/album?id=37575286"
+    }
+  },
+  {
+    "name": "12.25.16 [untitled christmas song]",
+    "link": "https://music.163.com/song?id=1406360777",
+    "duration": "03:54",
+    "artists": [
+      { "name": "Crywolf", "link": "https://music.163.com/artist?id=753030" }
+    ],
+    "album": {
+      "name": "12.25.16 [untitled christmas song]",
+      "link": "https://music.163.com/album?id=83721518"
+    }
+  },
+  {
+    "name": "I'd Rather Be with You",
+    "link": "https://music.163.com/song?id=1478661",
+    "duration": "02:49",
+    "artists": [
+      {
+        "name": "Joshua Radin",
+        "link": "https://music.163.com/artist?id=35349"
+      }
+    ],
+    "album": {
+      "name": "Simple Times",
+      "link": "https://music.163.com/album?id=151201"
+    }
+  },
+  {
+    "name": "Life Moves On",
+    "link": "https://music.163.com/song?id=552160193",
+    "duration": "04:11",
+    "artists": [
+      { "name": "FINNEAS", "link": "https://music.163.com/artist?id=12676847" }
+    ],
+    "album": {
+      "name": "Life Moves On",
+      "link": "https://music.163.com/album?id=38099486"
+    }
+  },
+  {
+    "name": "us feat. ゆきな",
+    "link": "https://music.163.com/song?id=31889413",
+    "duration": "05:20",
+    "artists": [
+      { "name": "risou", "link": "https://music.163.com/artist?id=1074065" }
+    ],
+    "album": {
+      "name": "Homeopathy",
+      "link": "https://music.163.com/album?id=3139352"
+    }
+  },
+  {
+    "name": "缶ビール - (罐装啤酒)",
+    "link": "https://music.163.com/song?id=1387105693",
+    "duration": "02:52",
+    "artists": [
+      { "name": "みゆな", "link": "https://music.163.com/artist?id=30110388" }
+    ],
+    "album": {
+      "name": "ユラレル",
+      "link": "https://music.163.com/album?id=81675046"
+    }
+  },
+  {
+    "name": "Best Day Of My Life",
+    "link": "https://music.163.com/song?id=27646851",
+    "duration": "03:14",
+    "artists": [
+      {
+        "name": "American Authors",
+        "link": "https://music.163.com/artist?id=762135"
+      }
+    ],
+    "album": {
+      "name": "American Authors",
+      "link": "https://music.163.com/album?id=2646392"
+    }
+  },
+  {
+    "name": "First Light",
+    "link": "https://music.163.com/song?id=415793049",
+    "duration": "04:25",
+    "artists": [
+      {
+        "name": "Dustin Tebbutt",
+        "link": "https://music.163.com/artist?id=840431"
+      }
+    ],
+    "album": {
+      "name": "First Light",
+      "link": "https://music.163.com/album?id=34721405"
+    }
+  },
+  {
+    "name": "Life goes on",
+    "link": "https://music.163.com/song?id=1448496938",
+    "duration": "03:51",
+    "artists": [
+      { "name": "平井 大", "link": "https://music.163.com/artist?id=14270" }
+    ],
+    "album": {
+      "name": "Life goes on",
+      "link": "https://music.163.com/album?id=89527904"
+    }
+  },
+  {
+    "name": "狂おしいほど僕には美しい",
+    "link": "https://music.163.com/song?id=1338355334",
+    "duration": "04:19",
+    "artists": [
+      { "name": "majiko", "link": "https://music.163.com/artist?id=191316" }
+    ],
+    "album": {
+      "name": "Color",
+      "link": "https://music.163.com/album?id=75291452"
+    }
+  },
+  {
+    "name": "低血ボルト - (低血螺栓)",
+    "link": "https://music.163.com/song?id=1465076532",
+    "duration": "03:34",
+    "artists": [
+      {
+        "name": "ずっと真夜中でいいのに。",
+        "link": "https://music.163.com/artist?id=15021101"
+      }
+    ],
+    "album": {
+      "name": "朗らかな皮膚とて不服",
+      "link": "https://music.163.com/album?id=93375491"
+    }
+  },
+  {
+    "name": "凤仙花（Ori:結月ゆかり）",
+    "link": "https://music.163.com/song?id=1306072795",
+    "duration": "05:16",
+    "artists": [
+      { "name": "花满", "link": "https://music.163.com/artist?id=12265144" }
+    ],
+    "album": {
+      "name": "被孤立并非我的本意",
+      "link": "https://music.163.com/album?id=72740264"
+    }
+  },
+  {
+    "name": "キネマ",
+    "link": "https://music.163.com/song?id=421807905",
+    "duration": "08:48",
+    "artists": [
+      { "name": "別野加奈", "link": "https://music.163.com/artist?id=12073848" }
+    ],
+    "album": {
+      "name": "もう、見たくないよ、と言いつつそっと、硝子の中に閉じ込めた展",
+      "link": "https://music.163.com/album?id=34751886"
+    }
+  },
+  {
+    "name": "talking in my sleep",
+    "link": "https://music.163.com/song?id=1466577450",
+    "duration": "02:34",
+    "artists": [
+      {
+        "name": "Heather Sommer",
+        "link": "https://music.163.com/artist?id=13134228"
+      }
+    ],
+    "album": {
+      "name": "talking in my sleep",
+      "link": "https://music.163.com/album?id=93158718"
+    }
+  },
+  {
+    "name": "South Tree",
+    "link": "https://music.163.com/song?id=1424863",
+    "duration": "04:03",
+    "artists": [
+      { "name": "Helios", "link": "https://music.163.com/artist?id=34514" }
+    ],
+    "album": {
+      "name": "Unleft",
+      "link": "https://music.163.com/album?id=146004"
+    }
+  },
+  {
+    "name": "more",
+    "link": "https://music.163.com/song?id=1459170032",
+    "duration": "03:03",
+    "artists": [
+      { "name": "keshi", "link": "https://music.163.com/artist?id=12544511" }
+    ],
+    "album": {
+      "name": "more",
+      "link": "https://music.163.com/album?id=91735402"
+    }
+  },
+  {
+    "name": "Break In The Clouds",
+    "link": "https://music.163.com/song?id=17837152",
+    "duration": "04:14",
+    "artists": [
+      {
+        "name": "Freedom Voyagers",
+        "link": "https://music.163.com/artist?id=92780"
+      }
+    ],
+    "album": {
+      "name": "Freedom Voyagers",
+      "link": "https://music.163.com/album?id=1642083"
+    }
+  },
+  {
+    "name": "Syntax Error",
+    "link": "https://music.163.com/song?id=4381717",
+    "duration": "04:11",
+    "artists": [
+      {
+        "name": "The Half Open Sky Gives Us Hope",
+        "link": "https://music.163.com/artist?id=102882"
+      }
+    ],
+    "album": {
+      "name": "The Explorer",
+      "link": "https://music.163.com/album?id=442169"
+    }
+  },
+  {
+    "name": "parent song",
+    "link": "https://music.163.com/song?id=1817947921",
+    "duration": "04:23",
+    "artists": [
+      {
+        "name": "Jeremy Zucker",
+        "link": "https://music.163.com/artist?id=12096183"
+      },
+      {
+        "name": "Chelsea Cutler",
+        "link": "https://music.163.com/artist?id=1150112"
+      }
+    ],
+    "album": {
+      "name": "brent ii",
+      "link": "https://music.163.com/album?id=122616639"
+    }
+  },
+  {
+    "name": "Watch Me Work",
+    "link": "https://music.163.com/song?id=1304347114",
+    "duration": "04:29",
+    "artists": [
+      { "name": "Tinashe", "link": "https://music.163.com/artist?id=45221" }
+    ],
+    "album": {
+      "name": "Watch Me Work",
+      "link": "https://music.163.com/album?id=72470502"
+    }
+  }
+]

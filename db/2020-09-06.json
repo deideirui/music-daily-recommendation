@@ -1,0 +1,387 @@
+[
+  {
+    "name": "Good Life",
+    "link": "https://music.163.com/song?id=1457434682",
+    "duration": "02:54",
+    "artists": [
+      { "name": "RDGLDGRN", "link": "https://music.163.com/artist?id=789482" },
+      { "name": "Vanela", "link": "https://music.163.com/artist?id=31283534" }
+    ],
+    "album": {
+      "name": "Good Life",
+      "link": "https://music.163.com/album?id=91350434"
+    }
+  },
+  {
+    "name": "Astronomia (Original Mix)",
+    "link": "https://music.163.com/song?id=1442332360",
+    "duration": "02:57",
+    "artists": [
+      { "name": "MaxRiven", "link": "https://music.163.com/artist?id=12278745" }
+    ],
+    "album": {
+      "name": "Astronomia",
+      "link": "https://music.163.com/album?id=88321150"
+    }
+  },
+  {
+    "name": "所念皆星河",
+    "link": "https://music.163.com/song?id=1384026889",
+    "duration": "03:40",
+    "artists": [
+      { "name": "CMJ", "link": "https://music.163.com/artist?id=12157336" }
+    ],
+    "album": {
+      "name": "所念皆星河",
+      "link": "https://music.163.com/album?id=80887559"
+    }
+  },
+  {
+    "name": "你走demo",
+    "link": "https://music.163.com/song?id=558071673",
+    "duration": "04:04",
+    "artists": [
+      {
+        "name": "松紧先生（李宗锦）",
+        "link": "https://music.163.com/artist?id=12168149"
+      }
+    ],
+    "album": {
+      "name": "你走",
+      "link": "https://music.163.com/album?id=38602395"
+    }
+  },
+  {
+    "name": "把回忆拼好给你",
+    "link": "https://music.163.com/song?id=1403318151",
+    "duration": "06:21",
+    "artists": [
+      { "name": "王贰浪", "link": "https://music.163.com/artist?id=14312549" }
+    ],
+    "album": {
+      "name": "把回忆拼好给你",
+      "link": "https://music.163.com/album?id=83305009"
+    }
+  },
+  {
+    "name": "爱，存在 - (原唱：魏奇奇)",
+    "link": "https://music.163.com/song?id=1456286877",
+    "duration": "04:44",
+    "artists": [
+      { "name": "旺仔小乔", "link": "https://music.163.com/artist?id=32980337" }
+    ],
+    "album": {
+      "name": "爱，存在（正式版）",
+      "link": "https://music.163.com/album?id=92590956"
+    }
+  },
+  {
+    "name": "晚风",
+    "link": "https://music.163.com/song?id=1441758494",
+    "duration": "03:22",
+    "artists": [
+      { "name": "Copy", "link": "https://music.163.com/artist?id=32897995" },
+      { "name": "BT07-PZ", "link": "https://music.163.com/artist?id=12138038" }
+    ],
+    "album": {
+      "name": "晚风",
+      "link": "https://music.163.com/album?id=88188476"
+    }
+  },
+  {
+    "name": "叶里-谪仙（热搜DJ版）（AH.啊黑 / DJ佳赫 remix）",
+    "link": "https://music.163.com/song?id=1465758401",
+    "duration": "02:25",
+    "artists": [
+      { "name": "AH.啊黑", "link": "https://music.163.com/artist?id=33603609" },
+      { "name": "DJ佳赫", "link": "https://music.163.com/artist?id=35420706" }
+    ],
+    "album": {
+      "name": "谪仙（DJ热搜版）",
+      "link": "https://music.163.com/album?id=92963231"
+    }
+  },
+  {
+    "name": "雨爱",
+    "link": "https://music.163.com/song?id=1445761206",
+    "duration": "04:11",
+    "artists": [
+      { "name": "周星星", "link": "https://music.163.com/artist?id=12157330" }
+    ],
+    "album": {
+      "name": "雨爱",
+      "link": "https://music.163.com/album?id=88986638"
+    }
+  },
+  {
+    "name": "7 %",
+    "link": "https://music.163.com/song?id=1423241987",
+    "duration": "02:52",
+    "artists": [
+      { "name": "XMASwu", "link": "https://music.163.com/artist?id=31309410" }
+    ],
+    "album": { "name": "柒", "link": "https://music.163.com/album?id=85683316" }
+  },
+  {
+    "name": "囍（Chinese Wedding）",
+    "link": "https://music.163.com/song?id=1303289043",
+    "duration": "03:36",
+    "artists": [
+      { "name": "葛东琪", "link": "https://music.163.com/artist?id=12136078" }
+    ],
+    "album": {
+      "name": "囍（Chinese Wedding）",
+      "link": "https://music.163.com/album?id=72363263"
+    }
+  },
+  {
+    "name": "忘不了的是你",
+    "link": "https://music.163.com/song?id=1453972194",
+    "duration": "04:09",
+    "artists": [
+      { "name": "刘大壮", "link": "https://music.163.com/artist?id=31165848" }
+    ],
+    "album": {
+      "name": "忘不了的是你",
+      "link": "https://music.163.com/album?id=90535729"
+    }
+  },
+  {
+    "name": "天外来物",
+    "link": "https://music.163.com/song?id=1463165983",
+    "duration": "04:17",
+    "artists": [
+      { "name": "薛之谦", "link": "https://music.163.com/artist?id=5781" }
+    ],
+    "album": {
+      "name": "天外来物",
+      "link": "https://music.163.com/album?id=92510920"
+    }
+  },
+  {
+    "name": "情人",
+    "link": "https://music.163.com/song?id=1450574147",
+    "duration": "03:15",
+    "artists": [
+      { "name": "蔡徐坤", "link": "https://music.163.com/artist?id=12932368" }
+    ],
+    "album": {
+      "name": "情人",
+      "link": "https://music.163.com/album?id=89893813"
+    }
+  },
+  {
+    "name": "是想你的声音啊 - (你快听 滴答滴)",
+    "link": "https://music.163.com/song?id=1459950258",
+    "duration": "03:54",
+    "artists": [
+      { "name": "傲七爷", "link": "https://music.163.com/artist?id=13145036" }
+    ],
+    "album": {
+      "name": "是想你的声音啊",
+      "link": "https://music.163.com/album?id=91888443"
+    }
+  },
+  {
+    "name": "多情种",
+    "link": "https://music.163.com/song?id=1398508295",
+    "duration": "03:34",
+    "artists": [
+      {
+        "name": "要不要买菜",
+        "link": "https://music.163.com/artist?id=33435854"
+      }
+    ],
+    "album": {
+      "name": "多情种",
+      "link": "https://music.163.com/album?id=82606706"
+    }
+  },
+  {
+    "name": "情书",
+    "link": "https://music.163.com/song?id=547812462",
+    "duration": "03:27",
+    "artists": [
+      { "name": "克然Eli", "link": "https://music.163.com/artist?id=12780548" },
+      { "name": "Pary", "link": "https://music.163.com/artist?id=13254736" },
+      { "name": "苏克", "link": "https://music.163.com/artist?id=12853123" }
+    ],
+    "album": {
+      "name": "情书",
+      "link": "https://music.163.com/album?id=37995802"
+    }
+  },
+  {
+    "name": "烟火人间（完整版）（翻自 添儿呗）",
+    "link": "https://music.163.com/song?id=1454037844",
+    "duration": "03:56",
+    "artists": [
+      { "name": "星华", "link": "https://music.163.com/artist?id=30285373" }
+    ],
+    "album": {
+      "name": "《烟火人间》·抖音Cover（二）",
+      "link": "https://music.163.com/album?id=89610194"
+    }
+  },
+  {
+    "name": "回到夏天 - (我多想回到那个夏天)",
+    "link": "https://music.163.com/song?id=1449678888",
+    "duration": "04:01",
+    "artists": [
+      { "name": "傲七爷", "link": "https://music.163.com/artist?id=13145036" },
+      {
+        "name": "小田音乐社",
+        "link": "https://music.163.com/artist?id=12852319"
+      }
+    ],
+    "album": {
+      "name": "回到夏天",
+      "link": "https://music.163.com/album?id=89734732"
+    }
+  },
+  {
+    "name": "爸爸妈妈",
+    "link": "https://music.163.com/song?id=407450223",
+    "duration": "04:44",
+    "artists": [
+      { "name": "李荣浩", "link": "https://music.163.com/artist?id=4292" }
+    ],
+    "album": {
+      "name": "有理想",
+      "link": "https://music.163.com/album?id=34567265"
+    }
+  },
+  {
+    "name": "丢了你",
+    "link": "https://music.163.com/song?id=1442508316",
+    "duration": "04:37",
+    "artists": [
+      { "name": "井胧", "link": "https://music.163.com/artist?id=31253654" }
+    ],
+    "album": {
+      "name": "丢了你",
+      "link": "https://music.163.com/album?id=88361920"
+    }
+  },
+  {
+    "name": "夏天的风 - (原唱：温岚)",
+    "link": "https://music.163.com/song?id=1436709403",
+    "duration": "03:41",
+    "artists": [
+      {
+        "name": "火羊瞌睡了",
+        "link": "https://music.163.com/artist?id=34522800"
+      }
+    ],
+    "album": {
+      "name": "夏天的风",
+      "link": "https://music.163.com/album?id=87339204"
+    }
+  },
+  {
+    "name": "万有引力 - (原唱：汪苏泷)",
+    "link": "https://music.163.com/song?id=1425626819",
+    "duration": "04:03",
+    "artists": [
+      { "name": "F*yy", "link": "https://music.163.com/artist?id=34097025" }
+    ],
+    "album": {
+      "name": "万有引力",
+      "link": "https://music.163.com/album?id=89405876"
+    }
+  },
+  {
+    "name": "尘埃 - (原唱：家家)",
+    "link": "https://music.163.com/song?id=1426959223",
+    "duration": "04:03",
+    "artists": [
+      { "name": "王雨桐", "link": "https://music.163.com/artist?id=33995829" }
+    ],
+    "album": {
+      "name": "尘埃（完整版）",
+      "link": "https://music.163.com/album?id=91892579"
+    }
+  },
+  {
+    "name": "绝世舞姬",
+    "link": "https://music.163.com/song?id=1451145776",
+    "duration": "03:05",
+    "artists": [
+      {
+        "name": "一棵小葱张晓涵",
+        "link": "https://music.163.com/artist?id=14588567"
+      },
+      {
+        "name": "一棵小葱戚琦",
+        "link": "https://music.163.com/artist?id=14588611"
+      }
+    ],
+    "album": {
+      "name": "绝世舞姬",
+      "link": "https://music.163.com/album?id=89999788"
+    }
+  },
+  {
+    "name": "我要",
+    "link": "https://music.163.com/song?id=1463165960",
+    "duration": "04:11",
+    "artists": [
+      { "name": "野生三十", "link": "https://music.163.com/artist?id=12287611" }
+    ],
+    "album": {
+      "name": "我要",
+      "link": "https://music.163.com/album?id=92510439"
+    }
+  },
+  {
+    "name": "画画的Baby（开心真Giao Remix抖音版）",
+    "link": "https://music.163.com/song?id=1474342935",
+    "duration": "01:37",
+    "artists": [
+      {
+        "name": "黑猫警长Giao哥",
+        "link": "https://music.163.com/artist?id=29588260"
+      }
+    ],
+    "album": {
+      "name": "画画的Baby（开心真Giao Remix抖音版）",
+      "link": "https://music.163.com/album?id=94552546"
+    }
+  },
+  {
+    "name": "海底",
+    "link": "https://music.163.com/song?id=1426649237",
+    "duration": "01:44",
+    "artists": [
+      { "name": "一支榴莲", "link": "https://music.163.com/artist?id=33694141" }
+    ],
+    "album": {
+      "name": "《独》",
+      "link": "https://music.163.com/album?id=85613223"
+    }
+  },
+  {
+    "name": "与我无关",
+    "link": "https://music.163.com/song?id=1413585838",
+    "duration": "04:00",
+    "artists": [
+      { "name": "阿冗", "link": "https://music.163.com/artist?id=30116848" }
+    ],
+    "album": {
+      "name": "与我无关",
+      "link": "https://music.163.com/album?id=84664836"
+    }
+  },
+  {
+    "name": "收敛",
+    "link": "https://music.163.com/song?id=1435449062",
+    "duration": "03:24",
+    "artists": [
+      { "name": "不够", "link": "https://music.163.com/artist?id=31229236" }
+    ],
+    "album": {
+      "name": "收敛",
+      "link": "https://music.163.com/album?id=87044804"
+    }
+  }
+]

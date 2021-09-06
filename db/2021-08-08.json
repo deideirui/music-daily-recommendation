@@ -1,0 +1,472 @@
+[
+  {
+    "name": "Wake",
+    "link": "https://music.163.com/song?id=34218286",
+    "duration": "03:20",
+    "artists": [
+      { "name": "Wisp X", "link": "https://music.163.com/artist?id=1046123" }
+    ],
+    "album": {
+      "name": "Wake",
+      "link": "https://music.163.com/album?id=3275467"
+    }
+  },
+  {
+    "name": "Rare",
+    "link": "https://music.163.com/song?id=425828570",
+    "duration": "03:44",
+    "artists": [
+      { "name": "L3V3LS", "link": "https://music.163.com/artist?id=12007340" }
+    ],
+    "album": {
+      "name": "Rare",
+      "link": "https://music.163.com/album?id=34816780"
+    }
+  },
+  {
+    "name": "Creep",
+    "link": "https://music.163.com/song?id=485612576",
+    "duration": "02:55",
+    "artists": [
+      {
+        "name": "Gamper & Dadoni",
+        "link": "https://music.163.com/artist?id=1085102"
+      },
+      {
+        "name": "Ember Island",
+        "link": "https://music.163.com/artist?id=1100001"
+      }
+    ],
+    "album": {
+      "name": "Creep",
+      "link": "https://music.163.com/album?id=35644823"
+    }
+  },
+  {
+    "name": "Heart of the Melody (Full Version)",
+    "link": "https://music.163.com/song?id=35920549",
+    "duration": "04:12",
+    "artists": [
+      { "name": "Andreas B.", "link": "https://music.163.com/artist?id=299713" }
+    ],
+    "album": {
+      "name": "Heart of the Melody",
+      "link": "https://music.163.com/album?id=3367508"
+    }
+  },
+  {
+    "name": "極楽浄土 - (极乐净土)",
+    "link": "https://music.163.com/song?id=446875490",
+    "duration": "03:38",
+    "artists": [
+      { "name": "GARNiDELiA", "link": "https://music.163.com/artist?id=19605" }
+    ],
+    "album": {
+      "name": "Violet Cry",
+      "link": "https://music.163.com/album?id=35052105"
+    }
+  },
+  {
+    "name": "Love Me Like You Do - (电影《五十度灰》主题曲)",
+    "link": "https://music.163.com/song?id=29966565",
+    "duration": "04:10",
+    "artists": [
+      {
+        "name": "Ellie Goulding",
+        "link": "https://music.163.com/artist?id=56598"
+      }
+    ],
+    "album": {
+      "name": "Love Me Like You Do (From ",
+      "link": "https://music.163.com/album?id=3090199"
+    }
+  },
+  {
+    "name": "Dreams (Original Mix)",
+    "link": "https://music.163.com/song?id=411314139",
+    "duration": "03:15",
+    "artists": [
+      { "name": "Axlance", "link": "https://music.163.com/artist?id=12046039" },
+      {
+        "name": "Luka Krajina",
+        "link": "https://music.163.com/artist?id=1149130"
+      }
+    ],
+    "album": {
+      "name": "Dreams",
+      "link": "https://music.163.com/album?id=34686062"
+    }
+  },
+  {
+    "name": "Ephemeral Memories（Without Drum)",
+    "link": "https://music.163.com/song?id=554311296",
+    "duration": "03:45",
+    "artists": [
+      { "name": "MoreanP", "link": "https://music.163.com/artist?id=12275337" }
+    ],
+    "album": {
+      "name": "Ephemeral Memories",
+      "link": "https://music.163.com/album?id=38381663"
+    }
+  },
+  {
+    "name": "That's Why (Blunts & Blondes Remix)",
+    "link": "https://music.163.com/song?id=1448420677",
+    "duration": "04:00",
+    "artists": [
+      { "name": "ILLENIUM", "link": "https://music.163.com/artist?id=1050518" },
+      {
+        "name": "Josh Golden",
+        "link": "https://music.163.com/artist?id=12935364"
+      },
+      {
+        "name": "Blunts & Blondes",
+        "link": "https://music.163.com/artist?id=30901345"
+      }
+    ],
+    "album": {
+      "name": "ASCEND (Remixes)",
+      "link": "https://music.163.com/album?id=89513700"
+    }
+  },
+  {
+    "name": "Attention ",
+    "link": "https://music.163.com/song?id=488275105",
+    "duration": "02:53",
+    "artists": [
+      {
+        "name": "Cesar Chen",
+        "link": "https://music.163.com/artist?id=12276649"
+      }
+    ],
+    "album": {
+      "name": "Attention 钢琴版（Cover Charlie Puth）",
+      "link": "https://music.163.com/album?id=35701135"
+    }
+  },
+  {
+    "name": "LOSER",
+    "link": "https://music.163.com/song?id=512359195",
+    "duration": "04:03",
+    "artists": [
+      { "name": "米津玄師", "link": "https://music.163.com/artist?id=159300" }
+    ],
+    "album": {
+      "name": "BOOTLEG",
+      "link": "https://music.163.com/album?id=36529043"
+    }
+  },
+  {
+    "name": "MY ALL - (我的一切)",
+    "link": "https://music.163.com/song?id=22737627",
+    "duration": "05:22",
+    "artists": [
+      { "name": "浜崎あゆみ", "link": "https://music.163.com/artist?id=16405" }
+    ],
+    "album": {
+      "name": "GUILTY",
+      "link": "https://music.163.com/album?id=2087820"
+    }
+  },
+  {
+    "name": "灯火不完美",
+    "link": "https://music.163.com/song?id=1313474211",
+    "duration": "03:31",
+    "artists": [
+      {
+        "name": "smile丶轩",
+        "link": "https://music.163.com/artist?id=12286466"
+      }
+    ],
+    "album": {
+      "name": "斑斓",
+      "link": "https://music.163.com/album?id=73600274"
+    }
+  },
+  {
+    "name": "State Lines",
+    "link": "https://music.163.com/song?id=866045313",
+    "duration": "03:28",
+    "artists": [
+      { "name": "Novo Amor", "link": "https://music.163.com/artist?id=904041" }
+    ],
+    "album": {
+      "name": "Birthplace",
+      "link": "https://music.163.com/album?id=71809380"
+    }
+  },
+  {
+    "name": "1000x",
+    "link": "https://music.163.com/song?id=417908611",
+    "duration": "04:00",
+    "artists": [
+      { "name": "BROODS", "link": "https://music.163.com/artist?id=839948" },
+      {
+        "name": "Jarryd James",
+        "link": "https://music.163.com/artist?id=1049740"
+      }
+    ],
+    "album": {
+      "name": "1000x",
+      "link": "https://music.163.com/album?id=34732354"
+    }
+  },
+  {
+    "name": "sorry for not answering the phone, i'm too busy trying to fly away",
+    "link": "https://music.163.com/song?id=401382178",
+    "duration": "02:12",
+    "artists": [
+      {
+        "name": "In Love With A Ghost",
+        "link": "https://music.163.com/artist?id=11991120"
+      }
+    ],
+    "album": {
+      "name": "discography",
+      "link": "https://music.163.com/album?id=34444267"
+    }
+  },
+  {
+    "name": "Hero",
+    "link": "https://music.163.com/song?id=1379945911",
+    "duration": "03:22",
+    "artists": [
+      {
+        "name": "Mahmut Orhan",
+        "link": "https://music.163.com/artist?id=753025"
+      },
+      {
+        "name": "Irina Rimes",
+        "link": "https://music.163.com/artist?id=12390115"
+      }
+    ],
+    "album": {
+      "name": "Hero",
+      "link": "https://music.163.com/album?id=80594944"
+    }
+  },
+  {
+    "name": "僕が死のうと思ったのは - (曾经我也想过一了百了)",
+    "link": "https://music.163.com/song?id=26830207",
+    "duration": "06:20",
+    "artists": [
+      { "name": "中島美嘉", "link": "https://music.163.com/artist?id=160729" }
+    ],
+    "album": {
+      "name": "僕が死のうと思ったのは",
+      "link": "https://music.163.com/album?id=2565022"
+    }
+  },
+  {
+    "name": "Seaside",
+    "link": "https://music.163.com/song?id=421203729",
+    "duration": "03:26",
+    "artists": [
+      { "name": "Haux", "link": "https://music.163.com/artist?id=1078427" }
+    ],
+    "album": {
+      "name": "All We've Known",
+      "link": "https://music.163.com/album?id=34751725"
+    }
+  },
+  {
+    "name": "Morning Energy",
+    "link": "https://music.163.com/song?id=29747649",
+    "duration": "03:17",
+    "artists": [
+      { "name": "Tobu", "link": "https://music.163.com/artist?id=964486" }
+    ],
+    "album": {
+      "name": "Tobu作品集",
+      "link": "https://music.163.com/album?id=3070473"
+    }
+  },
+  {
+    "name": "紅蓮華 - (TV动画《鬼灭之刃》片头曲)",
+    "link": "https://music.163.com/song?id=1360592706",
+    "duration": "03:56",
+    "artists": [
+      { "name": "LiSA", "link": "https://music.163.com/artist?id=16995" }
+    ],
+    "album": {
+      "name": "紅蓮華",
+      "link": "https://music.163.com/album?id=78702707"
+    }
+  },
+  {
+    "name": "Butter-Fly - (TV动画《数码宝贝》片头曲)",
+    "link": "https://music.163.com/song?id=28850500",
+    "duration": "04:18",
+    "artists": [
+      { "name": "和田光司", "link": "https://music.163.com/artist?id=15800" }
+    ],
+    "album": {
+      "name": "Butter-Fly",
+      "link": "https://music.163.com/album?id=2915091"
+    }
+  },
+  {
+    "name": "ブルーバード - (青鸟)",
+    "link": "https://music.163.com/song?id=718765",
+    "duration": "03:38",
+    "artists": [
+      {
+        "name": "いきものがかり",
+        "link": "https://music.163.com/artist?id=19270"
+      }
+    ],
+    "album": {
+      "name": "ブルーバード",
+      "link": "https://music.163.com/album?id=70331"
+    }
+  },
+  {
+    "name": "自虐家のアリー",
+    "link": "https://music.163.com/song?id=525565564",
+    "duration": "05:28",
+    "artists": [
+      { "name": "amazarashi", "link": "https://music.163.com/artist?id=18480" }
+    ],
+    "album": {
+      "name": "季節は次々死んでいく",
+      "link": "https://music.163.com/album?id=37019899"
+    }
+  },
+  {
+    "name": "LAST STARDUST - (TV动画《Fate/stay night [Unlimited Blade Works] 第二季》插曲)",
+    "link": "https://music.163.com/song?id=33418857",
+    "duration": "05:18",
+    "artists": [
+      { "name": "Aimer", "link": "https://music.163.com/artist?id=16152" }
+    ],
+    "album": {
+      "name": "DAWN",
+      "link": "https://music.163.com/album?id=3211080"
+    }
+  },
+  {
+    "name": "Let It Snow",
+    "link": "https://music.163.com/song?id=37820827",
+    "duration": "02:09",
+    "artists": [
+      {
+        "name": "Daniela Andrade",
+        "link": "https://music.163.com/artist?id=975673"
+      }
+    ],
+    "album": {
+      "name": "The Christmas",
+      "link": "https://music.163.com/album?id=3415951"
+    }
+  },
+  {
+    "name": "Seth Rogen",
+    "link": "https://music.163.com/song?id=1312504181",
+    "duration": "03:54",
+    "artists": [
+      {
+        "name": "Ditch Days",
+        "link": "https://music.163.com/artist?id=28077359"
+      }
+    ],
+    "album": {
+      "name": "Seth Rogen",
+      "link": "https://music.163.com/album?id=73583335"
+    }
+  },
+  {
+    "name": "That Girl",
+    "link": "https://music.163.com/song?id=440208476",
+    "duration": "02:56",
+    "artists": [
+      { "name": "Olly Murs", "link": "https://music.163.com/artist?id=41034" }
+    ],
+    "album": {
+      "name": "24 HRS (Deluxe)",
+      "link": "https://music.163.com/album?id=34970031"
+    }
+  },
+  {
+    "name": "空飛ぶ電車",
+    "link": "https://music.163.com/song?id=22808226",
+    "duration": "04:27",
+    "artists": [
+      { "name": "遊助", "link": "https://music.163.com/artist?id=13775" }
+    ],
+    "album": {
+      "name": "「あの・・涙があるから愛があるんですケド。」コンプリートパック",
+      "link": "https://music.163.com/album?id=2096576"
+    }
+  },
+  {
+    "name": "インドア系ならトラックメイカー - (内向都是作曲家)",
+    "link": "https://music.163.com/song?id=424262056",
+    "duration": "03:17",
+    "artists": [
+      { "name": "Yunomi", "link": "https://music.163.com/artist?id=1025016" },
+      { "name": "nicamoq", "link": "https://music.163.com/artist?id=12605718" }
+    ],
+    "album": {
+      "name": "インドア系ならトラックメイカー",
+      "link": "https://music.163.com/album?id=34809022"
+    }
+  },
+  {
+    "name": "Soul Flag - (TV动画《非洲的动物上班族》片头曲)",
+    "link": "https://music.163.com/song?id=1399064420",
+    "duration": "04:44",
+    "artists": [
+      { "name": "下野紘", "link": "https://music.163.com/artist?id=15428" }
+    ],
+    "album": {
+      "name": "Soul Flag",
+      "link": "https://music.163.com/album?id=82735964"
+    }
+  },
+  {
+    "name": "Black Bird",
+    "link": "https://music.163.com/song?id=39449871",
+    "duration": "03:44",
+    "artists": [
+      {
+        "name": "ぼくのりりっくのぼうよみ",
+        "link": "https://music.163.com/artist?id=1193435"
+      }
+    ],
+    "album": {
+      "name": "hollow world",
+      "link": "https://music.163.com/album?id=3426973"
+    }
+  },
+  {
+    "name": "Supermarket Flowers",
+    "link": "https://music.163.com/song?id=460043710",
+    "duration": "03:41",
+    "artists": [
+      { "name": "Ed Sheeran", "link": "https://music.163.com/artist?id=33184" }
+    ],
+    "album": {
+      "name": "÷ (Deluxe)",
+      "link": "https://music.163.com/album?id=35150843"
+    }
+  },
+  {
+    "name": "Our Song",
+    "link": "https://music.163.com/song?id=1857909903",
+    "duration": "03:11",
+    "artists": [
+      {
+        "name": "TheFatRat",
+        "link": "https://music.163.com/artist?id=1019952"
+      },
+      {
+        "name": "Cecilia Gault",
+        "link": "https://music.163.com/artist?id=28021612"
+      }
+    ],
+    "album": {
+      "name": "Our Song",
+      "link": "https://music.163.com/album?id=129809791"
+    }
+  }
+]

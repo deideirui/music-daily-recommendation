@@ -1,0 +1,422 @@
+[
+  {
+    "name": "Be Kind",
+    "link": "https://music.163.com/song?id=1444959394",
+    "duration": "02:52",
+    "artists": [
+      {
+        "name": "Marshmello",
+        "link": "https://music.163.com/artist?id=1060019"
+      },
+      { "name": "Halsey", "link": "https://music.163.com/artist?id=964321" }
+    ],
+    "album": {
+      "name": "Be Kind",
+      "link": "https://music.163.com/album?id=88836925"
+    }
+  },
+  {
+    "name": "Sad Robot",
+    "link": "https://music.163.com/song?id=1418900020",
+    "duration": "02:46",
+    "artists": [
+      { "name": "Vexento", "link": "https://music.163.com/artist?id=12037010" }
+    ],
+    "album": {
+      "name": "Sad Robot",
+      "link": "https://music.163.com/album?id=85213884"
+    }
+  },
+  {
+    "name": "China-Travel",
+    "link": "https://music.163.com/song?id=534604221",
+    "duration": "03:02",
+    "artists": [
+      { "name": "Latifa♚", "link": "https://music.163.com/artist?id=12349972" }
+    ],
+    "album": {
+      "name": "China-Travel",
+      "link": "https://music.163.com/album?id=37437597"
+    }
+  },
+  {
+    "name": "悦新春（春节佳曲版）",
+    "link": "https://music.163.com/song?id=1413387204",
+    "duration": "02:58",
+    "artists": [
+      {
+        "name": "跑蠢Running Fool",
+        "link": "https://music.163.com/artist?id=30003690"
+      },
+      {
+        "name": "果然电音社",
+        "link": "https://music.163.com/artist?id=12275609"
+      }
+    ],
+    "album": {
+      "name": "悦新春 (春节佳曲版)",
+      "link": "https://music.163.com/album?id=84646170"
+    }
+  },
+  {
+    "name": "官渡老街",
+    "link": "https://music.163.com/song?id=1485643990",
+    "duration": "04:27",
+    "artists": [
+      {
+        "name": "The Roses",
+        "link": "https://music.163.com/artist?id=13698665"
+      }
+    ],
+    "album": {
+      "name": "官渡老街",
+      "link": "https://music.163.com/album?id=96543630"
+    }
+  },
+  {
+    "name": "清水寺",
+    "link": "https://music.163.com/song?id=1401905895",
+    "duration": "03:18",
+    "artists": [
+      { "name": "饼饼", "link": "https://music.163.com/artist?id=31152709" },
+      { "name": "国音", "link": "https://music.163.com/artist?id=33578274" }
+    ],
+    "album": {
+      "name": "清水寺",
+      "link": "https://music.163.com/album?id=82890847"
+    }
+  },
+  {
+    "name": "Faster",
+    "link": "https://music.163.com/song?id=1297148078",
+    "duration": "03:14",
+    "artists": [
+      { "name": "暴君de", "link": "https://music.163.com/artist?id=12599289" }
+    ],
+    "album": {
+      "name": "Faster",
+      "link": "https://music.163.com/album?id=72029988"
+    }
+  },
+  {
+    "name": "Losing Me (Piano Version)",
+    "link": "https://music.163.com/song?id=1388503739",
+    "duration": "03:10",
+    "artists": [
+      {
+        "name": "Gabrielle Aplin",
+        "link": "https://music.163.com/artist?id=59169"
+      },
+      { "name": "JP Cooper", "link": "https://music.163.com/artist?id=415889" }
+    ],
+    "album": {
+      "name": "Losing Me (Piano Version)",
+      "link": "https://music.163.com/album?id=81341723"
+    }
+  },
+  {
+    "name": "ONE -epilogue-",
+    "link": "https://music.163.com/song?id=1357774615",
+    "duration": "04:03",
+    "artists": [
+      { "name": "Aimer", "link": "https://music.163.com/artist?id=16152" }
+    ],
+    "album": {
+      "name": "Sun Dance",
+      "link": "https://music.163.com/album?id=78422025"
+    }
+  },
+  {
+    "name": "Fade miss",
+    "link": "https://music.163.com/song?id=502037038",
+    "duration": "04:20",
+    "artists": [
+      { "name": "Sise", "link": "https://music.163.com/artist?id=12410223" }
+    ],
+    "album": {
+      "name": "solitary",
+      "link": "https://music.163.com/album?id=36057533"
+    }
+  },
+  {
+    "name": "またあした",
+    "link": "https://music.163.com/song?id=1316582986",
+    "duration": "05:30",
+    "artists": [
+      {
+        "name": "Sawako碎花",
+        "link": "https://music.163.com/artist?id=12292130"
+      }
+    ],
+    "album": {
+      "name": "またあした",
+      "link": "https://music.163.com/album?id=73798613"
+    }
+  },
+  {
+    "name": "Game of Survival",
+    "link": "https://music.163.com/song?id=445666820",
+    "duration": "02:58",
+    "artists": [
+      { "name": "Ruelle", "link": "https://music.163.com/artist?id=1047114" }
+    ],
+    "album": {
+      "name": "Madness",
+      "link": "https://music.163.com/album?id=35012736"
+    }
+  },
+  {
+    "name": "情熱と残響（翻自 ちびた） ",
+    "link": "https://music.163.com/song?id=1378036886",
+    "duration": "04:47",
+    "artists": [
+      { "name": "米白", "link": "https://music.163.com/artist?id=12112270" }
+    ],
+    "album": {
+      "name": "天気雨",
+      "link": "https://music.163.com/album?id=80387864"
+    }
+  },
+  {
+    "name": "us - (日剧《伪装不伦》主题曲)",
+    "link": "https://music.163.com/song?id=1388137929",
+    "duration": "04:12",
+    "artists": [
+      { "name": "milet", "link": "https://music.163.com/artist?id=31464106" }
+    ],
+    "album": { "name": "us", "link": "https://music.163.com/album?id=81298658" }
+  },
+  {
+    "name": "Winter",
+    "link": "https://music.163.com/song?id=535268450",
+    "duration": "03:09",
+    "artists": [
+      { "name": "Demon-K", "link": "https://music.163.com/artist?id=12078075" }
+    ],
+    "album": {
+      "name": "四季",
+      "link": "https://music.163.com/album?id=37487140"
+    }
+  },
+  {
+    "name": "Othala",
+    "link": "https://music.163.com/song?id=412911819",
+    "duration": "06:03",
+    "artists": [
+      { "name": "Nihilum", "link": "https://music.163.com/artist?id=966167" }
+    ],
+    "album": {
+      "name": "Othala",
+      "link": "https://music.163.com/album?id=34701358"
+    }
+  },
+  {
+    "name": "落下(いっぱつにゅうこんver.)",
+    "link": "https://music.163.com/song?id=484249940",
+    "duration": "02:46",
+    "artists": [
+      { "name": "日向文", "link": "https://music.163.com/artist?id=12467180" }
+    ],
+    "album": {
+      "name": "cry",
+      "link": "https://music.163.com/album?id=35630143"
+    }
+  },
+  {
+    "name": "Let it fly",
+    "link": "https://music.163.com/song?id=424262575",
+    "duration": "05:30",
+    "artists": [
+      { "name": "Leola", "link": "https://music.163.com/artist?id=12043069" }
+    ],
+    "album": {
+      "name": "Let it fly",
+      "link": "https://music.163.com/album?id=34808187"
+    }
+  },
+  {
+    "name": "walkers-Unity（ZYX-Official Remix）",
+    "link": "https://music.163.com/song?id=1392832972",
+    "duration": "03:38",
+    "artists": [
+      {
+        "name": "ZYX-Official",
+        "link": "https://music.163.com/artist?id=33027583"
+      }
+    ],
+    "album": {
+      "name": "Unity(Ramake Bootleg)",
+      "link": "https://music.163.com/album?id=81839829"
+    }
+  },
+  {
+    "name": "What If I Loved You",
+    "link": "https://music.163.com/song?id=27588467",
+    "duration": "02:20",
+    "artists": [
+      { "name": "Galen Crew", "link": "https://music.163.com/artist?id=34435" }
+    ],
+    "album": {
+      "name": "Acoustic Daydreams",
+      "link": "https://music.163.com/album?id=2643056"
+    }
+  },
+  {
+    "name": "The Journey of Life",
+    "link": "https://music.163.com/song?id=429450818",
+    "duration": "03:50",
+    "artists": [
+      { "name": "Andreas B.", "link": "https://music.163.com/artist?id=299713" }
+    ],
+    "album": {
+      "name": "The Journey of Life",
+      "link": "https://music.163.com/album?id=34861995"
+    }
+  },
+  {
+    "name": "Bill Durry",
+    "link": "https://music.163.com/song?id=32028010",
+    "duration": "04:03",
+    "artists": [
+      { "name": "Combo!", "link": "https://music.163.com/artist?id=1078209" }
+    ],
+    "album": {
+      "name": "Bill Durry",
+      "link": "https://music.163.com/album?id=3146694"
+    }
+  },
+  {
+    "name": "Be My Love",
+    "link": "https://music.163.com/song?id=562598057",
+    "duration": "03:00",
+    "artists": [
+      {
+        "name": "2 Man Embassy",
+        "link": "https://music.163.com/artist?id=14471059"
+      },
+      {
+        "name": "Emily Coulston",
+        "link": "https://music.163.com/artist?id=29794032"
+      }
+    ],
+    "album": {
+      "name": "Be My Love",
+      "link": "https://music.163.com/album?id=38984020"
+    }
+  },
+  {
+    "name": "ツバメの季節に",
+    "link": "https://music.163.com/song?id=1499765321",
+    "duration": "04:23",
+    "artists": [
+      { "name": "坂本慎太郎", "link": "https://music.163.com/artist?id=15501" }
+    ],
+    "album": {
+      "name": "ツバメの季節に / 歴史をいじらないで",
+      "link": "https://music.163.com/album?id=99001744"
+    }
+  },
+  {
+    "name": "The Longer I Run",
+    "link": "https://music.163.com/song?id=18026619",
+    "duration": "04:11",
+    "artists": [
+      {
+        "name": "Peter Bradley Adams",
+        "link": "https://music.163.com/artist?id=41166"
+      }
+    ],
+    "album": {
+      "name": "Leavetaking",
+      "link": "https://music.163.com/album?id=1653947"
+    }
+  },
+  {
+    "name": "Emergency Contact",
+    "link": "https://music.163.com/song?id=1481294907",
+    "duration": "03:00",
+    "artists": [
+      { "name": "Trella", "link": "https://music.163.com/artist?id=12191304" }
+    ],
+    "album": {
+      "name": "Emergency Contact",
+      "link": "https://music.163.com/album?id=95770967"
+    }
+  },
+  {
+    "name": "Falling Awake",
+    "link": "https://music.163.com/song?id=17956466",
+    "duration": "05:11",
+    "artists": [
+      { "name": "Gary Jules", "link": "https://music.163.com/artist?id=33854" }
+    ],
+    "album": {
+      "name": "Gary Jules",
+      "link": "https://music.163.com/album?id=1651637"
+    }
+  },
+  {
+    "name": "If You Love Her",
+    "link": "https://music.163.com/song?id=26284002",
+    "duration": "04:13",
+    "artists": [
+      {
+        "name": "To Be Frank",
+        "link": "https://music.163.com/artist?id=734019"
+      }
+    ],
+    "album": {
+      "name": "If You Love Her",
+      "link": "https://music.163.com/album?id=2444002"
+    }
+  },
+  {
+    "name": "Whirl",
+    "link": "https://music.163.com/song?id=1465557562",
+    "duration": "03:12",
+    "artists": [
+      { "name": "UltraV", "link": "https://music.163.com/artist?id=12120673" },
+      { "name": "EinWil", "link": "https://music.163.com/artist?id=13037895" }
+    ],
+    "album": {
+      "name": "Whirl",
+      "link": "https://music.163.com/album?id=92959808"
+    }
+  },
+  {
+    "name": "60km/h",
+    "link": "https://music.163.com/song?id=28748458",
+    "duration": "07:43",
+    "artists": [
+      { "name": "晨曦光廊", "link": "https://music.163.com/artist?id=11318" }
+    ],
+    "album": {
+      "name": "60 km/h",
+      "link": "https://music.163.com/album?id=2866716"
+    }
+  },
+  {
+    "name": "Soaked Through",
+    "link": "https://music.163.com/song?id=461124355",
+    "duration": "03:20",
+    "artists": [
+      { "name": "Sara", "link": "https://music.163.com/artist?id=12290338" }
+    ],
+    "album": {
+      "name": "Haunt",
+      "link": "https://music.163.com/album?id=35188501"
+    }
+  },
+  {
+    "name": "相思相愛",
+    "link": "https://music.163.com/song?id=1806912997",
+    "duration": "03:23",
+    "artists": [
+      { "name": "GReeeeN", "link": "https://music.163.com/artist?id=19550" }
+    ],
+    "album": {
+      "name": "ボクたちの電光石火",
+      "link": "https://music.163.com/album?id=121224677"
+    }
+  }
+]

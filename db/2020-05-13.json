@@ -1,0 +1,459 @@
+[
+  {
+    "name": "Fragrance",
+    "link": "https://music.163.com/song?id=461080215",
+    "duration": "04:05",
+    "artists": [
+      { "name": "Galen Crew", "link": "https://music.163.com/artist?id=34435" }
+    ],
+    "album": {
+      "name": "Fragrance",
+      "link": "https://music.163.com/album?id=35194231"
+    }
+  },
+  {
+    "name": "Twenty Something",
+    "link": "https://music.163.com/song?id=1371704145",
+    "duration": "04:37",
+    "artists": [
+      { "name": "Nightly", "link": "https://music.163.com/artist?id=12107608" }
+    ],
+    "album": {
+      "name": "Talk You Down",
+      "link": "https://music.163.com/album?id=79785920"
+    }
+  },
+  {
+    "name": "Drama",
+    "link": "https://music.163.com/song?id=1337130734",
+    "duration": "03:25",
+    "artists": [
+      { "name": "Hannie", "link": "https://music.163.com/artist?id=12073011" },
+      { "name": "HICARI", "link": "https://music.163.com/artist?id=13961629" },
+      {
+        "name": "Isaiah Dreads",
+        "link": "https://music.163.com/artist?id=12154223"
+      }
+    ],
+    "album": {
+      "name": "Drama",
+      "link": "https://music.163.com/album?id=75030910"
+    }
+  },
+  {
+    "name": "When We Were Young",
+    "link": "https://music.163.com/song?id=557628431",
+    "duration": "03:13",
+    "artists": [
+      {
+        "name": "Norma Jean Martine",
+        "link": "https://music.163.com/artist?id=964326"
+      },
+      { "name": "Lost Kings", "link": "https://music.163.com/artist?id=847225" }
+    ],
+    "album": {
+      "name": "When We Were Young",
+      "link": "https://music.163.com/album?id=38587969"
+    }
+  },
+  {
+    "name": "Another World (Full Version)",
+    "link": "https://music.163.com/song?id=430043476",
+    "duration": "03:17",
+    "artists": [
+      { "name": "Andreas B.", "link": "https://music.163.com/artist?id=299713" }
+    ],
+    "album": {
+      "name": "Another World (Full Version)",
+      "link": "https://music.163.com/album?id=34874169"
+    }
+  },
+  {
+    "name": "In Your Arms (Alan Walker Remix)",
+    "link": "https://music.163.com/song?id=1446771121",
+    "duration": "04:09",
+    "artists": [
+      { "name": "ILLENIUM", "link": "https://music.163.com/artist?id=1050518" },
+      {
+        "name": "X Ambassadors",
+        "link": "https://music.163.com/artist?id=780159"
+      },
+      {
+        "name": "Alan Walker",
+        "link": "https://music.163.com/artist?id=1045123"
+      }
+    ],
+    "album": {
+      "name": "In Your Arms (Alan Walker Remix)",
+      "link": "https://music.163.com/album?id=89207534"
+    }
+  },
+  {
+    "name": "Sanctuary",
+    "link": "https://music.163.com/song?id=17966853",
+    "duration": "07:49",
+    "artists": [
+      {
+        "name": "Gareth Emery",
+        "link": "https://music.163.com/artist?id=34318"
+      },
+      {
+        "name": "Lucy Saunders",
+        "link": "https://music.163.com/artist?id=177924"
+      }
+    ],
+    "album": {
+      "name": "Northern Lights",
+      "link": "https://music.163.com/album?id=1652150"
+    }
+  },
+  {
+    "name": "Never Really Over (R3HAB Remix)",
+    "link": "https://music.163.com/song?id=1380264017",
+    "duration": "03:07",
+    "artists": [
+      { "name": "Katy Perry", "link": "https://music.163.com/artist?id=62888" },
+      { "name": "R3hab", "link": "https://music.163.com/artist?id=197248" }
+    ],
+    "album": {
+      "name": "Never Really Over (R3HAB Remix)",
+      "link": "https://music.163.com/album?id=80621112"
+    }
+  },
+  {
+    "name": "Tears Of The Sun (Extended Uplifting Mix)",
+    "link": "https://music.163.com/song?id=456175592",
+    "duration": "06:33",
+    "artists": [
+      {
+        "name": "Alan Morris",
+        "link": "https://music.163.com/artist?id=193174"
+      },
+      { "name": "Marco Cera", "link": "https://music.163.com/artist?id=459164" }
+    ],
+    "album": {
+      "name": "Tears Of The Sun",
+      "link": "https://music.163.com/album?id=35158163"
+    }
+  },
+  {
+    "name": "Correct Road",
+    "link": "https://music.163.com/song?id=1380277042",
+    "duration": "06:46",
+    "artists": [
+      { "name": "Dachs", "link": "https://music.163.com/artist?id=487464" }
+    ],
+    "album": {
+      "name": "Fiore Blu",
+      "link": "https://music.163.com/album?id=80621971"
+    }
+  },
+  {
+    "name": "Origin",
+    "link": "https://music.163.com/song?id=1313107236",
+    "duration": "03:13",
+    "artists": [
+      { "name": "Far Out", "link": "https://music.163.com/artist?id=824107" }
+    ],
+    "album": {
+      "name": "Origin",
+      "link": "https://music.163.com/album?id=73467944"
+    }
+  },
+  {
+    "name": "Licht und Schatten",
+    "link": "https://music.163.com/song?id=31152660",
+    "duration": "04:26",
+    "artists": [
+      { "name": "やまだ豊", "link": "https://music.163.com/artist?id=896309" }
+    ],
+    "album": {
+      "name": "TV ANIMATION Tokyo Ghoul Original Soundtrack",
+      "link": "https://music.163.com/album?id=3104199"
+    }
+  },
+  {
+    "name": "Rampage",
+    "link": "https://music.163.com/song?id=1346832598",
+    "duration": "03:27",
+    "artists": [
+      {
+        "name": "Rebelion",
+        "link": "https://music.163.com/artist?id=12053031"
+      },
+      { "name": "Ncrypta", "link": "https://music.163.com/artist?id=710166" },
+      {
+        "name": "Last Word",
+        "link": "https://music.163.com/artist?id=14234427"
+      }
+    ],
+    "album": {
+      "name": "Rampage",
+      "link": "https://music.163.com/album?id=75619618"
+    }
+  },
+  {
+    "name": "belong",
+    "link": "https://music.163.com/song?id=1369727570",
+    "duration": "02:53",
+    "artists": [
+      {
+        "name": "slenderbodies",
+        "link": "https://music.163.com/artist?id=12381092"
+      }
+    ],
+    "album": {
+      "name": "belong",
+      "link": "https://music.163.com/album?id=79603269"
+    }
+  },
+  {
+    "name": "White Flag",
+    "link": "https://music.163.com/song?id=540596558",
+    "duration": "03:49",
+    "artists": [
+      {
+        "name": "Bishop Briggs",
+        "link": "https://music.163.com/artist?id=198937"
+      }
+    ],
+    "album": {
+      "name": "White Flag",
+      "link": "https://music.163.com/album?id=37728808"
+    }
+  },
+  {
+    "name": "There Might Be Coffee",
+    "link": "https://music.163.com/song?id=17244979",
+    "duration": "07:02",
+    "artists": [
+      { "name": "deadmau5", "link": "https://music.163.com/artist?id=31348" }
+    ],
+    "album": {
+      "name": "> album title goes here <",
+      "link": "https://music.163.com/album?id=1589363"
+    }
+  },
+  {
+    "name": "  我会陪着你",
+    "link": "https://music.163.com/song?id=1333384398",
+    "duration": "03:48",
+    "artists": [
+      { "name": "王大毛", "link": "https://music.163.com/artist?id=13128032" }
+    ],
+    "album": {
+      "name": "我会陪着你",
+      "link": "https://music.163.com/album?id=74880880"
+    }
+  },
+  {
+    "name": "Meet At the End (Original Mix)",
+    "link": "https://music.163.com/song?id=414586101",
+    "duration": "06:40",
+    "artists": [
+      {
+        "name": "Craig Connelly",
+        "link": "https://music.163.com/artist?id=191566"
+      },
+      {
+        "name": "Tricia McTeague",
+        "link": "https://music.163.com/artist?id=1078169"
+      },
+      {
+        "name": "Rory O'Grady",
+        "link": "https://music.163.com/artist?id=13721216"
+      }
+    ],
+    "album": {
+      "name": "Meet At the End",
+      "link": "https://music.163.com/album?id=34701828"
+    }
+  },
+  {
+    "name": "Static",
+    "link": "https://music.163.com/song?id=479979729",
+    "duration": "05:02",
+    "artists": [
+      { "name": "Tom Adams", "link": "https://music.163.com/artist?id=82316" }
+    ],
+    "album": {
+      "name": "Silence",
+      "link": "https://music.163.com/album?id=35544587"
+    }
+  },
+  {
+    "name": "Promises (Original Mix)",
+    "link": "https://music.163.com/song?id=416554473",
+    "duration": "06:34",
+    "artists": [
+      {
+        "name": "Allen & Envy",
+        "link": "https://music.163.com/artist?id=817147"
+      }
+    ],
+    "album": {
+      "name": "Promises",
+      "link": "https://music.163.com/album?id=34726584"
+    }
+  },
+  {
+    "name": "Parallel Dimension (Extended)",
+    "link": "https://music.163.com/song?id=1402944391",
+    "duration": "08:06",
+    "artists": [
+      {
+        "name": "Paul van Dyk",
+        "link": "https://music.163.com/artist?id=41145"
+      },
+      { "name": "Elated", "link": "https://music.163.com/artist?id=29504850" }
+    ],
+    "album": {
+      "name": "Parallel Dimension",
+      "link": "https://music.163.com/album?id=83235885"
+    }
+  },
+  {
+    "name": "RAMelia (Tribute To Amelia) (Original Mix)",
+    "link": "https://music.163.com/song?id=28096177",
+    "duration": "08:17",
+    "artists": [
+      { "name": "RAM", "link": "https://music.163.com/artist?id=73231" },
+      { "name": "Susana", "link": "https://music.163.com/artist?id=77990" }
+    ],
+    "album": {
+      "name": "RAMelia (Tribute To Amelia)",
+      "link": "https://music.163.com/album?id=2727110"
+    }
+  },
+  {
+    "name": "Bird Set Free",
+    "link": "https://music.163.com/song?id=436487114",
+    "duration": "04:12",
+    "artists": [
+      { "name": "Sia", "link": "https://music.163.com/artist?id=74625" }
+    ],
+    "album": {
+      "name": "This Is Acting (Deluxe Version)",
+      "link": "https://music.163.com/album?id=34923011"
+    }
+  },
+  {
+    "name": "Our Love's Funeral",
+    "link": "https://music.163.com/song?id=449577832",
+    "duration": "02:45",
+    "artists": [
+      {
+        "name": "Racoon Racoon",
+        "link": "https://music.163.com/artist?id=12251121"
+      }
+    ],
+    "album": {
+      "name": "Our Love's Funeral",
+      "link": "https://music.163.com/album?id=35176446"
+    }
+  },
+  {
+    "name": "Taipei (All at Once)",
+    "link": "https://music.163.com/song?id=26903791",
+    "duration": "04:50",
+    "artists": [
+      { "name": "Kyte", "link": "https://music.163.com/artist?id=95282" }
+    ],
+    "album": {
+      "name": "Taipei (All at Once)",
+      "link": "https://music.163.com/album?id=2570120"
+    }
+  },
+  {
+    "name": "Julian",
+    "link": "https://music.163.com/song?id=30706542",
+    "duration": "03:42",
+    "artists": [
+      {
+        "name": "Say Lou Lou",
+        "link": "https://music.163.com/artist?id=757244"
+      }
+    ],
+    "album": {
+      "name": "Lucid Dreaming",
+      "link": "https://music.163.com/album?id=3104278"
+    }
+  },
+  {
+    "name": "Catching On",
+    "link": "https://music.163.com/song?id=421563890",
+    "duration": "03:47",
+    "artists": [
+      {
+        "name": "Elephante",
+        "link": "https://music.163.com/artist?id=1050284"
+      },
+      { "name": "Nevve", "link": "https://music.163.com/artist?id=12567101" }
+    ],
+    "album": {
+      "name": "Catching On",
+      "link": "https://music.163.com/album?id=34783491"
+    }
+  },
+  {
+    "name": "Don't Give Up (Original Mix)",
+    "link": "https://music.163.com/song?id=26617864",
+    "duration": "07:52",
+    "artists": [
+      {
+        "name": "Terry Da Libra",
+        "link": "https://music.163.com/artist?id=376756"
+      }
+    ],
+    "album": {
+      "name": "Trance 50 - The Ultimate Collection",
+      "link": "https://music.163.com/album?id=2536010"
+    }
+  },
+  {
+    "name": "Serenity (Extended Mix)",
+    "link": "https://music.163.com/song?id=1381562713",
+    "duration": "06:26",
+    "artists": [
+      {
+        "name": "Roman Messer",
+        "link": "https://music.163.com/artist?id=905394"
+      },
+      { "name": "Cari", "link": "https://music.163.com/artist?id=1132863" }
+    ],
+    "album": {
+      "name": "Serenity",
+      "link": "https://music.163.com/album?id=80733125"
+    }
+  },
+  {
+    "name": "Summer Vibe",
+    "link": "https://music.163.com/song?id=4433364",
+    "duration": "03:18",
+    "artists": [
+      {
+        "name": "Walk off the Earth",
+        "link": "https://music.163.com/artist?id=105493"
+      }
+    ],
+    "album": {
+      "name": "Summer Vibe",
+      "link": "https://music.163.com/album?id=447471"
+    }
+  },
+  {
+    "name": "Adore You",
+    "link": "https://music.163.com/song?id=1407951508",
+    "duration": "03:27",
+    "artists": [
+      {
+        "name": "Harry Styles",
+        "link": "https://music.163.com/artist?id=12355573"
+      }
+    ],
+    "album": {
+      "name": "Fine Line",
+      "link": "https://music.163.com/album?id=84048922"
+    }
+  }
+]

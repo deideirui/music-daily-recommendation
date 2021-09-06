@@ -1,0 +1,500 @@
+[
+  {
+    "name": "Movin' Forward (Original Mix)",
+    "link": "https://music.163.com/song?id=1393088406",
+    "duration": "03:14",
+    "artists": [
+      { "name": "Avi8", "link": "https://music.163.com/artist?id=12000033" }
+    ],
+    "album": {
+      "name": "Movin' Forward",
+      "link": "https://music.163.com/album?id=81900561"
+    }
+  },
+  {
+    "name": "Forever (Edit)",
+    "link": "https://music.163.com/song?id=417250365",
+    "duration": "02:58",
+    "artists": [
+      {
+        "name": "The Khemist",
+        "link": "https://music.163.com/artist?id=12062050"
+      }
+    ],
+    "album": {
+      "name": "Forever",
+      "link": "https://music.163.com/album?id=34739201"
+    }
+  },
+  {
+    "name": "Addict",
+    "link": "https://music.163.com/song?id=1456132713",
+    "duration": "02:45",
+    "artists": [
+      {
+        "name": "Morgan Page",
+        "link": "https://music.163.com/artist?id=39698"
+      },
+      {
+        "name": "jeonghyeon",
+        "link": "https://music.163.com/artist?id=28748581"
+      }
+    ],
+    "album": {
+      "name": "Addict",
+      "link": "https://music.163.com/album?id=91086483"
+    }
+  },
+  {
+    "name": "Everglow",
+    "link": "https://music.163.com/song?id=1448421768",
+    "duration": "03:47",
+    "artists": [
+      { "name": "Coldplay", "link": "https://music.163.com/artist?id=89365" }
+    ],
+    "album": {
+      "name": "Ballads",
+      "link": "https://music.163.com/album?id=89514147"
+    }
+  },
+  {
+    "name": "Supersonic",
+    "link": "https://music.163.com/song?id=33743746",
+    "duration": "04:29",
+    "artists": [
+      {
+        "name": "Demi Kanon",
+        "link": "https://music.163.com/artist?id=1083087"
+      }
+    ],
+    "album": {
+      "name": "Intents Festival 2015",
+      "link": "https://music.163.com/album?id=3258040"
+    }
+  },
+  {
+    "name": "Drank",
+    "link": "https://music.163.com/song?id=1442096622",
+    "duration": "02:21",
+    "artists": [
+      {
+        "name": "Raven & Kreyn",
+        "link": "https://music.163.com/artist?id=12355744"
+      },
+      { "name": "RudeLies", "link": "https://music.163.com/artist?id=12416051" }
+    ],
+    "album": {
+      "name": "Drank",
+      "link": "https://music.163.com/album?id=88275079"
+    }
+  },
+  {
+    "name": "Chicken Run",
+    "link": "https://music.163.com/song?id=1428365964",
+    "duration": "02:25",
+    "artists": [
+      { "name": "Dropgun", "link": "https://music.163.com/artist?id=972015" }
+    ],
+    "album": {
+      "name": "Chicken Run",
+      "link": "https://music.163.com/album?id=86244751"
+    }
+  },
+  {
+    "name": "Dans Un Autre Reve",
+    "link": "https://music.163.com/song?id=408055514",
+    "duration": "03:57",
+    "artists": [
+      { "name": "Brett", "link": "https://music.163.com/artist?id=967045" }
+    ],
+    "album": {
+      "name": "Mode",
+      "link": "https://music.163.com/album?id=34588340"
+    }
+  },
+  {
+    "name": "Ambitious",
+    "link": "https://music.163.com/song?id=1398486548",
+    "duration": "03:01",
+    "artists": [
+      { "name": "Taiga", "link": "https://music.163.com/artist?id=36135315" }
+    ],
+    "album": {
+      "name": "Ambitious",
+      "link": "https://music.163.com/album?id=82624541"
+    }
+  },
+  {
+    "name": "Afterhours",
+    "link": "https://music.163.com/song?id=1363620027",
+    "duration": "03:25",
+    "artists": [
+      {
+        "name": "teamwork",
+        "link": "https://music.163.com/artist?id=32120712"
+      },
+      {
+        "name": "Nina Nesbitt",
+        "link": "https://music.163.com/artist?id=70292"
+      },
+      {
+        "name": "AJ MitChell",
+        "link": "https://music.163.com/artist?id=12914329"
+      }
+    ],
+    "album": {
+      "name": "Afterhours",
+      "link": "https://music.163.com/album?id=78958233"
+    }
+  },
+  {
+    "name": "Lost at Heart",
+    "link": "https://music.163.com/song?id=31452028",
+    "duration": "04:45",
+    "artists": [
+      { "name": "Kozoro", "link": "https://music.163.com/artist?id=1050567" },
+      { "name": "Evence", "link": "https://music.163.com/artist?id=1061032" }
+    ],
+    "album": {
+      "name": "Lost at Heart",
+      "link": "https://music.163.com/album?id=3111956"
+    }
+  },
+  {
+    "name": "To The End",
+    "link": "https://music.163.com/song?id=1398909221",
+    "duration": "02:53",
+    "artists": [
+      {
+        "name": "Asketa & Natan Chaim",
+        "link": "https://music.163.com/artist?id=32523005"
+      },
+      {
+        "name": "Do It Big",
+        "link": "https://music.163.com/artist?id=13498377"
+      }
+    ],
+    "album": {
+      "name": "To The End",
+      "link": "https://music.163.com/album?id=82705212"
+    }
+  },
+  {
+    "name": "Today Is What I Live For",
+    "link": "https://music.163.com/song?id=1367319643",
+    "duration": "03:11",
+    "artists": [
+      { "name": "Beatmad", "link": "https://music.163.com/artist?id=12647016" },
+      { "name": "Arsen", "link": "https://music.163.com/artist?id=34334160" },
+      { "name": "Vyel", "link": "https://music.163.com/artist?id=12931719" },
+      {
+        "name": "Revealed Recordings",
+        "link": "https://music.163.com/artist?id=28753573"
+      }
+    ],
+    "album": {
+      "name": "Today Is What I Live For",
+      "link": "https://music.163.com/album?id=79367861"
+    }
+  },
+  {
+    "name": "Live Forever",
+    "link": "https://music.163.com/song?id=444548972",
+    "duration": "04:01",
+    "artists": [
+      {
+        "name": "Third Party",
+        "link": "https://music.163.com/artist?id=784231"
+      }
+    ],
+    "album": {
+      "name": "Live Forever",
+      "link": "https://music.163.com/album?id=35023707"
+    }
+  },
+  {
+    "name": "Somebody New",
+    "link": "https://music.163.com/song?id=523001614",
+    "duration": "03:10",
+    "artists": [
+      { "name": "Faustix", "link": "https://music.163.com/artist?id=1155054" },
+      {
+        "name": "Alexander Oscar",
+        "link": "https://music.163.com/artist?id=12312150"
+      }
+    ],
+    "album": {
+      "name": "Faustix",
+      "link": "https://music.163.com/album?id=36900296"
+    }
+  },
+  {
+    "name": "Sadness (Extended Mix)",
+    "link": "https://music.163.com/song?id=440208103",
+    "duration": "11:52",
+    "artists": [
+      {
+        "name": "Sound Apparel",
+        "link": "https://music.163.com/artist?id=385722"
+      }
+    ],
+    "album": {
+      "name": "Sadness",
+      "link": "https://music.163.com/album?id=34985050"
+    }
+  },
+  {
+    "name": "Eyes (Extended Mix)",
+    "link": "https://music.163.com/song?id=410925068",
+    "duration": "04:24",
+    "artists": [
+      {
+        "name": "Merk & Kremont",
+        "link": "https://music.163.com/artist?id=844467"
+      },
+      { "name": "Sunstars", "link": "https://music.163.com/artist?id=996297" }
+    ],
+    "album": {
+      "name": "Eyes",
+      "link": "https://music.163.com/album?id=34609944"
+    }
+  },
+  {
+    "name": "Love Again",
+    "link": "https://music.163.com/song?id=1395757943",
+    "duration": "03:26",
+    "artists": [
+      {
+        "name": "WildVibes",
+        "link": "https://music.163.com/artist?id=1181751"
+      },
+      {
+        "name": "Patrick Key",
+        "link": "https://music.163.com/artist?id=31242552"
+      },
+      {
+        "name": "Stine Kristiansen",
+        "link": "https://music.163.com/artist?id=30387959"
+      }
+    ],
+    "album": {
+      "name": "Love Again",
+      "link": "https://music.163.com/album?id=82232281"
+    }
+  },
+  {
+    "name": "Until You Were Gone",
+    "link": "https://music.163.com/song?id=34723034",
+    "duration": "03:35",
+    "artists": [
+      {
+        "name": "The Chainsmokers",
+        "link": "https://music.163.com/artist?id=893484"
+      },
+      { "name": "Tritonal", "link": "https://music.163.com/artist?id=104133" },
+      {
+        "name": "Emily Warren",
+        "link": "https://music.163.com/artist?id=12356790"
+      }
+    ],
+    "album": {
+      "name": "Until You Were Gone",
+      "link": "https://music.163.com/album?id=3295014"
+    }
+  },
+  {
+    "name": "At The End Of The Night (Original Mix)",
+    "link": "https://music.163.com/song?id=38018452",
+    "duration": "04:12",
+    "artists": [
+      {
+        "name": "Swanky Tunes",
+        "link": "https://music.163.com/artist?id=206627"
+      },
+      { "name": "Arston", "link": "https://music.163.com/artist?id=776576" },
+      {
+        "name": "C. Todd Nielsen",
+        "link": "https://music.163.com/artist?id=13334788"
+      }
+    ],
+    "album": {
+      "name": "At The End Of The Night",
+      "link": "https://music.163.com/album?id=3428117"
+    }
+  },
+  {
+    "name": "Undiscovered",
+    "link": "https://music.163.com/song?id=463001856",
+    "duration": "03:27",
+    "artists": [
+      {
+        "name": "Ashley Wallbridge",
+        "link": "https://music.163.com/artist?id=29252"
+      },
+      { "name": "Karra", "link": "https://music.163.com/artist?id=1081582" }
+    ],
+    "album": {
+      "name": "Undiscovered",
+      "link": "https://music.163.com/album?id=35235189"
+    }
+  },
+  {
+    "name": "Like I Would (Tom Budin Remix)",
+    "link": "https://music.163.com/song?id=409647737",
+    "duration": "03:42",
+    "artists": [
+      { "name": "Tom Budin", "link": "https://music.163.com/artist?id=797014" },
+      { "name": "ZAYN", "link": "https://music.163.com/artist?id=1108049" }
+    ],
+    "album": {
+      "name": "Like I Would (Tom Budin Remix)",
+      "link": "https://music.163.com/album?id=34611288"
+    }
+  },
+  {
+    "name": "Focus",
+    "link": "https://music.163.com/song?id=467685609",
+    "duration": "03:30",
+    "artists": [
+      {
+        "name": "Life of Dillon",
+        "link": "https://music.163.com/artist?id=1057068"
+      },
+      {
+        "name": "L. Marshall",
+        "link": "https://music.163.com/artist?id=273394"
+      }
+    ],
+    "album": {
+      "name": "Focus",
+      "link": "https://music.163.com/album?id=35274581"
+    }
+  },
+  {
+    "name": "Troth",
+    "link": "https://music.163.com/song?id=1430702204",
+    "duration": "03:50",
+    "artists": [
+      { "name": "RUQOA", "link": "https://music.163.com/artist?id=31281030" }
+    ],
+    "album": {
+      "name": "Troth",
+      "link": "https://music.163.com/album?id=86485781"
+    }
+  },
+  {
+    "name": "Break the Light",
+    "link": "https://music.163.com/song?id=430297025",
+    "duration": "05:37",
+    "artists": [
+      { "name": "武川アイ", "link": "https://music.163.com/artist?id=17979" },
+      {
+        "name": "Adam Sobiech",
+        "link": "https://music.163.com/artist?id=1115104"
+      }
+    ],
+    "album": {
+      "name": "Break the Light",
+      "link": "https://music.163.com/album?id=34869527"
+    }
+  },
+  {
+    "name": "Runnin",
+    "link": "https://music.163.com/song?id=1329657649",
+    "duration": "03:39",
+    "artists": [
+      { "name": "Kosling", "link": "https://music.163.com/artist?id=29289583" },
+      { "name": "CHRNS", "link": "https://music.163.com/artist?id=12945477" },
+      { "name": "Lux", "link": "https://music.163.com/artist?id=65954" }
+    ],
+    "album": {
+      "name": "Runnin",
+      "link": "https://music.163.com/album?id=74669786"
+    }
+  },
+  {
+    "name": "相思相愛",
+    "link": "https://music.163.com/song?id=1806912997",
+    "duration": "03:23",
+    "artists": [
+      { "name": "GReeeeN", "link": "https://music.163.com/artist?id=19550" }
+    ],
+    "album": {
+      "name": "相思相愛",
+      "link": "https://music.163.com/album?id=120855808"
+    }
+  },
+  {
+    "name": "Decisions (JIA LIH Remix)",
+    "link": "https://music.163.com/song?id=33705907",
+    "duration": "03:47",
+    "artists": [
+      {
+        "name": "ATTICUS ▰ BEATS",
+        "link": "https://music.163.com/artist?id=1124304"
+      },
+      { "name": "Woodes", "link": "https://music.163.com/artist?id=1124305" },
+      { "name": "JIA LIH", "link": "https://music.163.com/artist?id=1124307" }
+    ],
+    "album": {
+      "name": "DECISIONS",
+      "link": "https://music.163.com/album?id=3233493"
+    }
+  },
+  {
+    "name": "Things I'd Do For U",
+    "link": "https://music.163.com/song?id=29850136",
+    "duration": "03:44",
+    "artists": [
+      { "name": "Astronomyy", "link": "https://music.163.com/artist?id=976275" }
+    ],
+    "album": {
+      "name": "Things I’d Do For U",
+      "link": "https://music.163.com/album?id=3086355"
+    }
+  },
+  {
+    "name": "Remember Us",
+    "link": "https://music.163.com/song?id=566443728",
+    "duration": "03:37",
+    "artists": [
+      {
+        "name": "Dreweybear",
+        "link": "https://music.163.com/artist?id=12066019"
+      },
+      { "name": "JVNA", "link": "https://music.163.com/artist?id=28692563" }
+    ],
+    "album": {
+      "name": "Remember Us",
+      "link": "https://music.163.com/album?id=39264221"
+    }
+  },
+  {
+    "name": "Final Song (OutaMatic Remix)",
+    "link": "https://music.163.com/song?id=427614378",
+    "duration": "03:55",
+    "artists": [
+      {
+        "name": "OutaMatic",
+        "link": "https://music.163.com/artist?id=1181741"
+      },
+      { "name": "MØ", "link": "https://music.163.com/artist?id=783150" }
+    ],
+    "album": {
+      "name": " Final Song (OutaMatic Remix)",
+      "link": "https://music.163.com/album?id=34840772"
+    }
+  },
+  {
+    "name": "Self",
+    "link": "https://music.163.com/song?id=435004253",
+    "duration": "03:20",
+    "artists": [
+      { "name": "Joe Lyons", "link": "https://music.163.com/artist?id=498067" }
+    ],
+    "album": {
+      "name": "Self",
+      "link": "https://music.163.com/album?id=34908147"
+    }
+  }
+]

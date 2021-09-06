@@ -1,0 +1,472 @@
+[
+  {
+    "name": "Summer Rain",
+    "link": "https://music.163.com/song?id=1382515441",
+    "duration": "03:07",
+    "artists": [
+      { "name": "Manse", "link": "https://music.163.com/artist?id=855409" },
+      { "name": "Yaro", "link": "https://music.163.com/artist?id=133708" },
+      {
+        "name": "Philip Strand",
+        "link": "https://music.163.com/artist?id=13210678"
+      }
+    ],
+    "album": {
+      "name": "Summer Rain",
+      "link": "https://music.163.com/album?id=80810004"
+    }
+  },
+  {
+    "name": "Call Me a Fool",
+    "link": "https://music.163.com/song?id=1305810855",
+    "duration": "03:24",
+    "artists": [
+      { "name": "Perlo", "link": "https://music.163.com/artist?id=28387443" }
+    ],
+    "album": {
+      "name": "Call Me a Fool",
+      "link": "https://music.163.com/album?id=72758819"
+    }
+  },
+  {
+    "name": "tomorrow tonight",
+    "link": "https://music.163.com/song?id=1371714109",
+    "duration": "03:22",
+    "artists": [
+      { "name": "Loote", "link": "https://music.163.com/artist?id=12408152" }
+    ],
+    "album": {
+      "name": "lost",
+      "link": "https://music.163.com/album?id=79787129"
+    }
+  },
+  {
+    "name": "Distraction (Original Mix)",
+    "link": "https://music.163.com/song?id=425684226",
+    "duration": "04:09",
+    "artists": [
+      { "name": "Joe Lyons", "link": "https://music.163.com/artist?id=498067" }
+    ],
+    "album": {
+      "name": "Distraction",
+      "link": "https://music.163.com/album?id=34816627"
+    }
+  },
+  {
+    "name": "Empty (Original mix)",
+    "link": "https://music.163.com/song?id=514121385",
+    "duration": "06:01",
+    "artists": [
+      { "name": "Winterya", "link": "https://music.163.com/artist?id=12777977" }
+    ],
+    "album": {
+      "name": "Empty / Limerence",
+      "link": "https://music.163.com/album?id=36637362"
+    }
+  },
+  {
+    "name": "Face Of Summer (Omnia Remix)",
+    "link": "https://music.163.com/song?id=445528957",
+    "duration": "03:18",
+    "artists": [
+      {
+        "name": "Armin van Buuren",
+        "link": "https://music.163.com/artist?id=27621"
+      },
+      {
+        "name": "Sarah deCourcy",
+        "link": "https://music.163.com/artist?id=1177264"
+      },
+      { "name": "Omnia", "link": "https://music.163.com/artist?id=179006" }
+    ],
+    "album": {
+      "name": "Embrace Remix EP #5",
+      "link": "https://music.163.com/album?id=35012632"
+    }
+  },
+  {
+    "name": "Axis Of Your Love",
+    "link": "https://music.163.com/song?id=1374329448",
+    "duration": "03:40",
+    "artists": [
+      { "name": "Rival", "link": "https://music.163.com/artist?id=12331086" },
+      { "name": "Cadmium", "link": "https://music.163.com/artist?id=12945908" },
+      {
+        "name": "Veronica Bravo",
+        "link": "https://music.163.com/artist?id=14296763"
+      },
+      {
+        "name": "Jon Becker",
+        "link": "https://music.163.com/artist?id=14296748"
+      }
+    ],
+    "album": {
+      "name": "Axis Of Your Love",
+      "link": "https://music.163.com/album?id=80030127"
+    }
+  },
+  {
+    "name": "LA On A Saturday Night",
+    "link": "https://music.163.com/song?id=1318859321",
+    "duration": "03:15",
+    "artists": [
+      {
+        "name": "Hearts & Colors",
+        "link": "https://music.163.com/artist?id=12399051"
+      }
+    ],
+    "album": {
+      "name": "LA On A Saturday Night",
+      "link": "https://music.163.com/album?id=73980067"
+    }
+  },
+  {
+    "name": "Evergreen",
+    "link": "https://music.163.com/song?id=1326153376",
+    "duration": "04:14",
+    "artists": [
+      {
+        "name": "Wasted Penguinz",
+        "link": "https://music.163.com/artist?id=816508"
+      }
+    ],
+    "album": {
+      "name": "Evergreen",
+      "link": "https://music.163.com/album?id=74452854"
+    }
+  },
+  {
+    "name": "Hold Me While You Wait",
+    "link": "https://music.163.com/song?id=1362825341",
+    "duration": "03:25",
+    "artists": [
+      {
+        "name": "Lewis Capaldi",
+        "link": "https://music.163.com/artist?id=12474140"
+      }
+    ],
+    "album": {
+      "name": "Divinely Uninspired To A Hellish Extent",
+      "link": "https://music.163.com/album?id=79186238"
+    }
+  },
+  {
+    "name": "Neverland",
+    "link": "https://music.163.com/song?id=34033031",
+    "duration": "06:01",
+    "artists": [
+      { "name": "Crywolf", "link": "https://music.163.com/artist?id=753030" },
+      {
+        "name": "Charity Lane",
+        "link": "https://music.163.com/artist?id=1132853"
+      }
+    ],
+    "album": {
+      "name": "Dysphoria",
+      "link": "https://music.163.com/album?id=3270465"
+    }
+  },
+  {
+    "name": "Cloud 9",
+    "link": "https://music.163.com/song?id=29797443",
+    "duration": "04:37",
+    "artists": [
+      { "name": "Tobu", "link": "https://music.163.com/artist?id=964486" },
+      { "name": "Itro", "link": "https://music.163.com/artist?id=1049096" }
+    ],
+    "album": {
+      "name": "Cloud 9",
+      "link": "https://music.163.com/album?id=3077909"
+    }
+  },
+  {
+    "name": "Love is Gone",
+    "link": "https://music.163.com/song?id=1364247901",
+    "duration": "04:16",
+    "artists": [
+      { "name": "SLANDER", "link": "https://music.163.com/artist?id=1137239" },
+      {
+        "name": "Dylan Matthew",
+        "link": "https://music.163.com/artist?id=28684353"
+      }
+    ],
+    "album": {
+      "name": "Love is Gone",
+      "link": "https://music.163.com/album?id=79023777"
+    }
+  },
+  {
+    "name": "Andalusia (MKJ Remix)",
+    "link": "https://music.163.com/song?id=401249195",
+    "duration": "03:23",
+    "artists": [
+      { "name": "MKJ", "link": "https://music.163.com/artist?id=469200" },
+      {
+        "name": "Antoine Chambe",
+        "link": "https://music.163.com/artist?id=1177057"
+      },
+      {
+        "name": "Otter Berry",
+        "link": "https://music.163.com/artist?id=1132874"
+      },
+      { "name": "Hi-Ly", "link": "https://music.163.com/artist?id=1156093" }
+    ],
+    "album": {
+      "name": "Andalusia (MKJ Remix)",
+      "link": "https://music.163.com/album?id=34443042"
+    }
+  },
+  {
+    "name": "Reality (Original Edit)",
+    "link": "https://music.163.com/song?id=28433990",
+    "duration": "03:31",
+    "artists": [
+      { "name": "Rebourne", "link": "https://music.163.com/artist?id=896383" },
+      { "name": "Neilio", "link": "https://music.163.com/artist?id=210417" }
+    ],
+    "album": {
+      "name": "Reality",
+      "link": "https://music.163.com/album?id=2791582"
+    }
+  },
+  {
+    "name": "Godspeed You (Charming Horses Edit)",
+    "link": "https://music.163.com/song?id=33332181",
+    "duration": "03:18",
+    "artists": [
+      {
+        "name": "Francesco Rossi",
+        "link": "https://music.163.com/artist?id=207669"
+      },
+      { "name": "Ozark Henry", "link": "https://music.163.com/artist?id=40960" }
+    ],
+    "album": {
+      "name": "Deep House Ibiza Vol.2",
+      "link": "https://music.163.com/album?id=3197722"
+    }
+  },
+  {
+    "name": "The Solution",
+    "link": "https://music.163.com/song?id=1323468287",
+    "duration": "03:15",
+    "artists": [
+      {
+        "name": "Phuture Noize",
+        "link": "https://music.163.com/artist?id=808091"
+      },
+      { "name": "B-Front", "link": "https://music.163.com/artist?id=711625" }
+    ],
+    "album": {
+      "name": "The Solution",
+      "link": "https://music.163.com/album?id=74279712"
+    }
+  },
+  {
+    "name": "OKAY OKAY",
+    "link": "https://music.163.com/song?id=1386012292",
+    "duration": "02:38",
+    "artists": [
+      {
+        "name": "Alessia Cara",
+        "link": "https://music.163.com/artist?id=1074089"
+      }
+    ],
+    "album": {
+      "name": "OKAY OKAY",
+      "link": "https://music.163.com/album?id=81099368"
+    }
+  },
+  {
+    "name": "There's No Way",
+    "link": "https://music.163.com/song?id=1310619662",
+    "duration": "02:54",
+    "artists": [
+      { "name": "Lauv", "link": "https://music.163.com/artist?id=1057226" },
+      {
+        "name": "Julia Michaels",
+        "link": "https://music.163.com/artist?id=12097049"
+      }
+    ],
+    "album": {
+      "name": "There's No Way",
+      "link": "https://music.163.com/album?id=86108492"
+    }
+  },
+  {
+    "name": "Nevada (feat. Cozi Zuehlsdorff)",
+    "link": "https://music.163.com/song?id=418602088",
+    "duration": "03:28",
+    "artists": [
+      { "name": "Vicetone", "link": "https://music.163.com/artist?id=747030" },
+      {
+        "name": "Cozi Zuehlsdorff",
+        "link": "https://music.163.com/artist?id=1097153"
+      }
+    ],
+    "album": {
+      "name": "Nevada (feat. Cozi Zuehlsdorff)",
+      "link": "https://music.163.com/album?id=34750015"
+    }
+  },
+  {
+    "name": "Together",
+    "link": "https://music.163.com/song?id=454957629",
+    "duration": "03:53",
+    "artists": [
+      { "name": "Elecprok", "link": "https://music.163.com/artist?id=1203041" }
+    ],
+    "album": {
+      "name": "Together",
+      "link": "https://music.163.com/album?id=35136768"
+    }
+  },
+  {
+    "name": "Drink About",
+    "link": "https://music.163.com/song?id=554169475",
+    "duration": "03:02",
+    "artists": [
+      { "name": "SeeB", "link": "https://music.163.com/artist?id=1182169" },
+      {
+        "name": "Dagny Norvoll Sandvik",
+        "link": "https://music.163.com/artist?id=1156155"
+      }
+    ],
+    "album": {
+      "name": "Nice To Meet You",
+      "link": "https://music.163.com/album?id=38307531"
+    }
+  },
+  {
+    "name": "I Heart U",
+    "link": "https://music.163.com/song?id=483024211",
+    "duration": "03:16",
+    "artists": [
+      { "name": "Kretsen", "link": "https://music.163.com/artist?id=12006284" },
+      {
+        "name": "Violet Days",
+        "link": "https://music.163.com/artist?id=947272"
+      }
+    ],
+    "album": {
+      "name": "I Heart U",
+      "link": "https://music.163.com/album?id=35572356"
+    }
+  },
+  {
+    "name": "Superficial Love",
+    "link": "https://music.163.com/song?id=1316563030",
+    "duration": "03:52",
+    "artists": [
+      {
+        "name": "Karim Mika",
+        "link": "https://music.163.com/artist?id=261521"
+      },
+      { "name": "Gabs", "link": "https://music.163.com/artist?id=12636406" }
+    ],
+    "album": {
+      "name": "Superficial Love",
+      "link": "https://music.163.com/album?id=73836621"
+    }
+  },
+  {
+    "name": "Colours of Life (Original Mix)",
+    "link": "https://music.163.com/song?id=439911367",
+    "duration": "07:38",
+    "artists": [
+      {
+        "name": "Mark & Lukas",
+        "link": "https://music.163.com/artist?id=1104097"
+      }
+    ],
+    "album": {
+      "name": "Colours of Life",
+      "link": "https://music.163.com/album?id=34975440"
+    }
+  },
+  {
+    "name": "My Remedy (Original Mix)",
+    "link": "https://music.163.com/song?id=423314022",
+    "duration": "05:02",
+    "artists": [
+      { "name": "twoloud", "link": "https://music.163.com/artist?id=837342" }
+    ],
+    "album": {
+      "name": "My Remedy",
+      "link": "https://music.163.com/album?id=34790286"
+    }
+  },
+  {
+    "name": "Story",
+    "link": "https://music.163.com/song?id=419250586",
+    "duration": "03:06",
+    "artists": [
+      { "name": "Sailar", "link": "https://music.163.com/artist?id=12069073" }
+    ],
+    "album": {
+      "name": "Story",
+      "link": "https://music.163.com/album?id=34754155"
+    }
+  },
+  {
+    "name": "Bleed (Ben Walter Remix)",
+    "link": "https://music.163.com/song?id=464373640",
+    "duration": "03:42",
+    "artists": [
+      {
+        "name": "Ben Walter",
+        "link": "https://music.163.com/artist?id=12054163"
+      },
+      { "name": "Vorsa", "link": "https://music.163.com/artist?id=1193224" }
+    ],
+    "album": {
+      "name": "Bleed (Ben Walter Remix)",
+      "link": "https://music.163.com/album?id=35256429"
+    }
+  },
+  {
+    "name": "Who Knew (Original Mix)",
+    "link": "https://music.163.com/song?id=1388957276",
+    "duration": "03:45",
+    "artists": [
+      {
+        "name": "Ferry Tayle",
+        "link": "https://music.163.com/artist?id=191818"
+      },
+      {
+        "name": "Franco Riccobaldi",
+        "link": "https://music.163.com/artist?id=12441138"
+      }
+    ],
+    "album": {
+      "name": "Who Knew",
+      "link": "https://music.163.com/album?id=81394985"
+    }
+  },
+  {
+    "name": "You May Love (Original Mix)",
+    "link": "https://music.163.com/song?id=28884228",
+    "duration": "05:54",
+    "artists": [
+      {
+        "name": "Simon O'Shine",
+        "link": "https://music.163.com/artist?id=207035"
+      }
+    ],
+    "album": {
+      "name": "You May Love (Original Mix)",
+      "link": "https://music.163.com/album?id=2923040"
+    }
+  },
+  {
+    "name": "Shining Echoes",
+    "link": "https://music.163.com/song?id=26196237",
+    "duration": "07:01",
+    "artists": [
+      { "name": "Mflex", "link": "https://music.163.com/artist?id=735016" }
+    ],
+    "album": {
+      "name": "Electric Time",
+      "link": "https://music.163.com/album?id=2419526"
+    }
+  }
+]

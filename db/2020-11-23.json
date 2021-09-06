@@ -1,0 +1,506 @@
+[
+  {
+    "name": "U&I",
+    "link": "https://music.163.com/song?id=1437540776",
+    "duration": "03:09",
+    "artists": [
+      { "name": "Tobu", "link": "https://music.163.com/artist?id=964486" },
+      {
+        "name": "Alex Skrindo",
+        "link": "https://music.163.com/artist?id=1046359"
+      }
+    ],
+    "album": {
+      "name": "U&I",
+      "link": "https://music.163.com/album?id=87609995"
+    }
+  },
+  {
+    "name": "I Luv U",
+    "link": "https://music.163.com/song?id=1432440791",
+    "duration": "02:30",
+    "artists": [
+      {
+        "name": "Sofia Carson",
+        "link": "https://music.163.com/artist?id=12024488"
+      },
+      { "name": "R3hab", "link": "https://music.163.com/artist?id=197248" }
+    ],
+    "album": {
+      "name": "I Luv U",
+      "link": "https://music.163.com/album?id=86671615"
+    }
+  },
+  {
+    "name": "Daydreamer",
+    "link": "https://music.163.com/song?id=1300595227",
+    "duration": "04:12",
+    "artists": [
+      {
+        "name": "William Black",
+        "link": "https://music.163.com/artist?id=248957"
+      },
+      { "name": "AMIDY", "link": "https://music.163.com/artist?id=12203566" }
+    ],
+    "album": {
+      "name": "Daydreamer",
+      "link": "https://music.163.com/album?id=72072326"
+    }
+  },
+  {
+    "name": "Human (feat. She Is Jules)",
+    "link": "https://music.163.com/song?id=1481304440",
+    "duration": "02:53",
+    "artists": [
+      {
+        "name": "Crystal Skies",
+        "link": "https://music.163.com/artist?id=1063127"
+      },
+      {
+        "name": "She Is Jules",
+        "link": "https://music.163.com/artist?id=35435192"
+      }
+    ],
+    "album": {
+      "name": "Collide EP",
+      "link": "https://music.163.com/album?id=95774856"
+    }
+  },
+  {
+    "name": "Shine",
+    "link": "https://music.163.com/song?id=27572417",
+    "duration": "06:56",
+    "artists": [
+      {
+        "name": "Denis Laurent",
+        "link": "https://music.163.com/artist?id=816516"
+      }
+    ],
+    "album": {
+      "name": "Drops / Shine",
+      "link": "https://music.163.com/album?id=2640174"
+    }
+  },
+  {
+    "name": "21",
+    "link": "https://music.163.com/song?id=1496261821",
+    "duration": "03:05",
+    "artists": [
+      {
+        "name": "Gracie Abrams",
+        "link": "https://music.163.com/artist?id=33515545"
+      }
+    ],
+    "album": {
+      "name": "Dress You Up",
+      "link": "https://music.163.com/album?id=98463458"
+    }
+  },
+  {
+    "name": "Moi Rai (Suprafive 2020 Remix)",
+    "link": "https://music.163.com/song?id=1447573574",
+    "duration": "04:22",
+    "artists": [
+      {
+        "name": "Supersonya",
+        "link": "https://music.163.com/artist?id=31499071"
+      }
+    ],
+    "album": {
+      "name": "Moi Rai (Remix)",
+      "link": "https://music.163.com/album?id=89345299"
+    }
+  },
+  {
+    "name": "DIABLO",
+    "link": "https://music.163.com/song?id=1368415810",
+    "duration": "03:09",
+    "artists": [
+      { "name": "Ilira", "link": "https://music.163.com/artist?id=847380" },
+      { "name": "Juan Magan", "link": "https://music.163.com/artist?id=198069" }
+    ],
+    "album": {
+      "name": "DIABLO",
+      "link": "https://music.163.com/album?id=79472061"
+    }
+  },
+  {
+    "name": "For What It's Worth",
+    "link": "https://music.163.com/song?id=1406396085",
+    "duration": "02:52",
+    "artists": [
+      {
+        "name": "Tiggi Hawke",
+        "link": "https://music.163.com/artist?id=12047351"
+      },
+      { "name": "Sondr", "link": "https://music.163.com/artist?id=12023180" }
+    ],
+    "album": {
+      "name": "For What It's Worth",
+      "link": "https://music.163.com/album?id=83731961"
+    }
+  },
+  {
+    "name": "Nothing To Lose (Tom Swoon Radio Edit)",
+    "link": "https://music.163.com/song?id=535097194",
+    "duration": "03:00",
+    "artists": [
+      { "name": "Laces ", "link": "https://music.163.com/artist?id=1084117" },
+      { "name": "Vigel", "link": "https://music.163.com/artist?id=334251" }
+    ],
+    "album": {
+      "name": "Nothing To Lose (Tom Swoon Edit)",
+      "link": "https://music.163.com/album?id=3395277"
+    }
+  },
+  {
+    "name": "If Only You (Dub Mix)",
+    "link": "https://music.163.com/song?id=1302168986",
+    "duration": "04:06",
+    "artists": [
+      { "name": "Suprafive", "link": "https://music.163.com/artist?id=1022142" }
+    ],
+    "album": {
+      "name": "SPRV Dub Mixes",
+      "link": "https://music.163.com/album?id=72337852"
+    }
+  },
+  {
+    "name": "Trouble",
+    "link": "https://music.163.com/song?id=1401802361",
+    "duration": "02:49",
+    "artists": [
+      { "name": "NONSENS", "link": "https://music.163.com/artist?id=1190100" },
+      {
+        "name": "Sweater Beats",
+        "link": "https://music.163.com/artist?id=762151"
+      }
+    ],
+    "album": {
+      "name": "Trouble",
+      "link": "https://music.163.com/album?id=83090716"
+    }
+  },
+  {
+    "name": "Biting My Lip",
+    "link": "https://music.163.com/song?id=1465220382",
+    "duration": "03:47",
+    "artists": [
+      {
+        "name": "Thomas Gold",
+        "link": "https://music.163.com/artist?id=196219"
+      },
+      { "name": "Kosling", "link": "https://music.163.com/artist?id=29289583" },
+      {
+        "name": "Richard Judge",
+        "link": "https://music.163.com/artist?id=1147093"
+      }
+    ],
+    "album": {
+      "name": "Biting My Lip",
+      "link": "https://music.163.com/album?id=92926762"
+    }
+  },
+  {
+    "name": "Fairy Lights (Mark & Lukas Remix)",
+    "link": "https://music.163.com/song?id=1376905012",
+    "duration": "05:38",
+    "artists": [
+      { "name": "Axxound", "link": "https://music.163.com/artist?id=1179159" },
+      {
+        "name": "Mark & Lukas",
+        "link": "https://music.163.com/artist?id=1104097"
+      }
+    ],
+    "album": {
+      "name": "Fairy Lights",
+      "link": "https://music.163.com/album?id=80294543"
+    }
+  },
+  {
+    "name": "Spark",
+    "link": "https://music.163.com/song?id=1385757372",
+    "duration": "02:43",
+    "artists": [
+      { "name": "MOTI", "link": "https://music.163.com/artist?id=366384" },
+      {
+        "name": "Fly by Midnight",
+        "link": "https://music.163.com/artist?id=1163027"
+      }
+    ],
+    "album": {
+      "name": "Spark",
+      "link": "https://music.163.com/album?id=81076372"
+    }
+  },
+  {
+    "name": "In The End (Mellen Gi Remix)",
+    "link": "https://music.163.com/song?id=1353373426",
+    "duration": "03:38",
+    "artists": [
+      {
+        "name": "Tommee Profitt",
+        "link": "https://music.163.com/artist?id=28975"
+      },
+      { "name": "Fleurie", "link": "https://music.163.com/artist?id=860929" }
+    ],
+    "album": {
+      "name": "In The End",
+      "link": "https://music.163.com/album?id=77773088"
+    }
+  },
+  {
+    "name": "Disappear",
+    "link": "https://music.163.com/song?id=1417998239",
+    "duration": "03:29",
+    "artists": [
+      { "name": "ANG", "link": "https://music.163.com/artist?id=12121366" },
+      { "name": "Dyson", "link": "https://music.163.com/artist?id=301602" }
+    ],
+    "album": {
+      "name": "Disappear",
+      "link": "https://music.163.com/album?id=85113060"
+    }
+  },
+  {
+    "name": "Satellites",
+    "link": "https://music.163.com/song?id=1329889096",
+    "duration": "03:06",
+    "artists": [
+      { "name": "Kaaze", "link": "https://music.163.com/artist?id=952052" },
+      {
+        "name": "Nino Lucarelli",
+        "link": "https://music.163.com/artist?id=13954602"
+      }
+    ],
+    "album": {
+      "name": "Satellites",
+      "link": "https://music.163.com/album?id=74685882"
+    }
+  },
+  {
+    "name": "City Of Dreams",
+    "link": "https://music.163.com/song?id=27995584",
+    "duration": "03:37",
+    "artists": [
+      {
+        "name": "Dirty South",
+        "link": "https://music.163.com/artist?id=133017"
+      },
+      { "name": "Alesso", "link": "https://music.163.com/artist?id=29251" },
+      { "name": "Ruben Haze", "link": "https://music.163.com/artist?id=338426" }
+    ],
+    "album": {
+      "name": "Electronica - The Ultimate EDM",
+      "link": "https://music.163.com/album?id=2710862"
+    }
+  },
+  {
+    "name": "Magic",
+    "link": "https://music.163.com/song?id=443292096",
+    "duration": "04:00",
+    "artists": [
+      {
+        "name": "Wasted Penguinz",
+        "link": "https://music.163.com/artist?id=816508"
+      }
+    ],
+    "album": {
+      "name": "Clarity",
+      "link": "https://music.163.com/album?id=35017376"
+    }
+  },
+  {
+    "name": "Superstitious (Album Version)",
+    "link": "https://music.163.com/song?id=17404256",
+    "duration": "04:53",
+    "artists": [
+      { "name": "Dinka", "link": "https://music.163.com/artist?id=55403" }
+    ],
+    "album": {
+      "name": "Tales of the Sun",
+      "link": "https://music.163.com/album?id=1603523"
+    }
+  },
+  {
+    "name": "Stay The Whole Night",
+    "link": "https://music.163.com/song?id=1380326058",
+    "duration": "02:41",
+    "artists": [
+      { "name": "Breeze", "link": "https://music.163.com/artist?id=32865891" },
+      {
+        "name": "Bengston",
+        "link": "https://music.163.com/artist?id=28391408"
+      },
+      {
+        "name": "Revealed Recordings",
+        "link": "https://music.163.com/artist?id=28753573"
+      }
+    ],
+    "album": {
+      "name": "Stay The Whole Night",
+      "link": "https://music.163.com/album?id=80623414"
+    }
+  },
+  {
+    "name": "All 2 U",
+    "link": "https://music.163.com/song?id=1333336619",
+    "duration": "04:12",
+    "artists": [
+      {
+        "name": "Manila Killa",
+        "link": "https://music.163.com/artist?id=1147176"
+      },
+      {
+        "name": "Sara Skinner",
+        "link": "https://music.163.com/artist?id=1132406"
+      }
+    ],
+    "album": {
+      "name": "All 2 U",
+      "link": "https://music.163.com/album?id=74878354"
+    }
+  },
+  {
+    "name": "Labyrinth",
+    "link": "https://music.163.com/song?id=1418507200",
+    "duration": "03:52",
+    "artists": [
+      { "name": "Direct", "link": "https://music.163.com/artist?id=758029" },
+      { "name": "Essenger", "link": "https://music.163.com/artist?id=31400823" }
+    ],
+    "album": {
+      "name": "Labyrinth",
+      "link": "https://music.163.com/album?id=85175948"
+    }
+  },
+  {
+    "name": "Leave Soon",
+    "link": "https://music.163.com/song?id=551335083",
+    "duration": "03:15",
+    "artists": [
+      {
+        "name": "Joshua Francois",
+        "link": "https://music.163.com/artist?id=12900061"
+      },
+      { "name": "ELKO", "link": "https://music.163.com/artist?id=476048" }
+    ],
+    "album": {
+      "name": "Leave Soon",
+      "link": "https://music.163.com/album?id=38274027"
+    }
+  },
+  {
+    "name": "Dreamer (Original Mix)",
+    "link": "https://music.163.com/song?id=1361836703",
+    "duration": "07:03",
+    "artists": [
+      {
+        "name": "Sako Isoyan",
+        "link": "https://music.163.com/artist?id=12732474"
+      },
+      {
+        "name": "Irina Makosh",
+        "link": "https://music.163.com/artist?id=339757"
+      }
+    ],
+    "album": {
+      "name": "Dreamer",
+      "link": "https://music.163.com/album?id=78816588"
+    }
+  },
+  {
+    "name": "Ghost (Joe Stone Remix)",
+    "link": "https://music.163.com/song?id=1407767447",
+    "duration": "02:37",
+    "artists": [
+      { "name": "Au/Ra", "link": "https://music.163.com/artist?id=12143031" },
+      {
+        "name": "Alan Walker",
+        "link": "https://music.163.com/artist?id=1045123"
+      },
+      { "name": "Joe Stone", "link": "https://music.163.com/artist?id=1071007" }
+    ],
+    "album": {
+      "name": "Ghost (Remixes)",
+      "link": "https://music.163.com/album?id=83916213"
+    }
+  },
+  {
+    "name": "Tattoo",
+    "link": "https://music.163.com/song?id=458239005",
+    "duration": "03:13",
+    "artists": [
+      {
+        "name": "Calmani & Grey",
+        "link": "https://music.163.com/artist?id=12279328"
+      },
+      {
+        "name": "Pearl Andersson",
+        "link": "https://music.163.com/artist?id=13904126"
+      }
+    ],
+    "album": {
+      "name": "Tattoo (feat. Pearl Andersson)",
+      "link": "https://music.163.com/album?id=35157571"
+    }
+  },
+  {
+    "name": "Lifted",
+    "link": "https://music.163.com/song?id=469104847",
+    "duration": "03:14",
+    "artists": [
+      { "name": "Allie X", "link": "https://music.163.com/artist?id=973030" }
+    ],
+    "album": {
+      "name": "CollXtion II",
+      "link": "https://music.163.com/album?id=35297807"
+    }
+  },
+  {
+    "name": "By My Side",
+    "link": "https://music.163.com/song?id=1403754026",
+    "duration": "02:51",
+    "artists": [
+      { "name": "DEAMN", "link": "https://music.163.com/artist?id=12047335" }
+    ],
+    "album": {
+      "name": "By My Side",
+      "link": "https://music.163.com/album?id=83400151"
+    }
+  },
+  {
+    "name": "Never Give Up",
+    "link": "https://music.163.com/song?id=1415143048",
+    "duration": "03:06",
+    "artists": [
+      {
+        "name": "WildVibes",
+        "link": "https://music.163.com/artist?id=1181751"
+      },
+      {
+        "name": "Arild Aas",
+        "link": "https://music.163.com/artist?id=13436856"
+      }
+    ],
+    "album": {
+      "name": "Never Give Up",
+      "link": "https://music.163.com/album?id=84823330"
+    }
+  },
+  {
+    "name": "虞兮叹",
+    "link": "https://music.163.com/song?id=1479526505",
+    "duration": "03:30",
+    "artists": [
+      {
+        "name": "闻人听書_",
+        "link": "https://music.163.com/artist?id=13282198"
+      }
+    ],
+    "album": {
+      "name": "虞兮叹",
+      "link": "https://music.163.com/album?id=95455188"
+    }
+  }
+]

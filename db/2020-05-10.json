@@ -1,0 +1,479 @@
+[
+  {
+    "name": "New",
+    "link": "https://music.163.com/song?id=512385967",
+    "duration": "03:50",
+    "artists": [
+      { "name": "Daya", "link": "https://music.163.com/artist?id=1081186" }
+    ],
+    "album": {
+      "name": "New",
+      "link": "https://music.163.com/album?id=36506544"
+    }
+  },
+  {
+    "name": "Small Talk",
+    "link": "https://music.163.com/song?id=1385563785",
+    "duration": "03:40",
+    "artists": [
+      {
+        "name": "Max Oazo",
+        "link": "https://music.163.com/artist?id=13159084"
+      },
+      { "name": "Moonessa", "link": "https://music.163.com/artist?id=29834706" }
+    ],
+    "album": {
+      "name": "Close To Me",
+      "link": "https://music.163.com/album?id=81063266"
+    }
+  },
+  {
+    "name": "Pitfalls",
+    "link": "https://music.163.com/song?id=513360457",
+    "duration": "03:19",
+    "artists": [
+      { "name": "Sistek", "link": "https://music.163.com/artist?id=12765268" },
+      { "name": "TUDOR", "link": "https://music.163.com/artist?id=12355078" },
+      {
+        "name": "Amy J. Pryce",
+        "link": "https://music.163.com/artist?id=29895842"
+      }
+    ],
+    "album": {
+      "name": "Pitfalls",
+      "link": "https://music.163.com/album?id=36581105"
+    }
+  },
+  {
+    "name": "Paraply",
+    "link": "https://music.163.com/song?id=520012877",
+    "duration": "03:39",
+    "artists": [
+      { "name": "Darin", "link": "https://music.163.com/artist?id=31200" }
+    ],
+    "album": {
+      "name": "Tvillingen",
+      "link": "https://music.163.com/album?id=36827624"
+    }
+  },
+  {
+    "name": "What Is Love 2016",
+    "link": "https://music.163.com/song?id=436487041",
+    "duration": "03:08",
+    "artists": [
+      {
+        "name": "Lost Frequencies",
+        "link": "https://music.163.com/artist?id=1039114"
+      }
+    ],
+    "album": {
+      "name": "Less Is More",
+      "link": "https://music.163.com/album?id=34887003"
+    }
+  },
+  {
+    "name": "Innocence",
+    "link": "https://music.163.com/song?id=28013227",
+    "duration": "03:54",
+    "artists": [
+      {
+        "name": "Electric Youth",
+        "link": "https://music.163.com/artist?id=658235"
+      }
+    ],
+    "album": {
+      "name": "Innocence",
+      "link": "https://music.163.com/album?id=2712494"
+    }
+  },
+  {
+    "name": "Together",
+    "link": "https://music.163.com/song?id=1435759743",
+    "duration": "02:57",
+    "artists": [
+      { "name": "LNY TNZ", "link": "https://music.163.com/artist?id=1039647" },
+      { "name": "Ruthless", "link": "https://music.163.com/artist?id=145843" },
+      {
+        "name": "Little League",
+        "link": "https://music.163.com/artist?id=14413772"
+      }
+    ],
+    "album": {
+      "name": "Together EP",
+      "link": "https://music.163.com/album?id=87098998"
+    }
+  },
+  {
+    "name": "Final Song",
+    "link": "https://music.163.com/song?id=460323657",
+    "duration": "03:02",
+    "artists": [
+      { "name": "Natio", "link": "https://music.163.com/artist?id=1156296" },
+      { "name": "MØ", "link": "https://music.163.com/artist?id=783150" }
+    ],
+    "album": {
+      "name": "Final Song",
+      "link": "https://music.163.com/album?id=35188108"
+    }
+  },
+  {
+    "name": "It Won't Kill Ya",
+    "link": "https://music.163.com/song?id=470573538",
+    "duration": "03:37",
+    "artists": [
+      {
+        "name": "The Chainsmokers",
+        "link": "https://music.163.com/artist?id=893484"
+      },
+      { "name": "Louane", "link": "https://music.163.com/artist?id=1050778" }
+    ],
+    "album": {
+      "name": "Memories...Do Not Open",
+      "link": "https://music.163.com/album?id=35347078"
+    }
+  },
+  {
+    "name": "my story",
+    "link": "https://music.163.com/song?id=1430342527",
+    "duration": "03:34",
+    "artists": [
+      { "name": "Atmozfears", "link": "https://music.163.com/artist?id=753086" }
+    ],
+    "album": {
+      "name": "my story",
+      "link": "https://music.163.com/album?id=86445344"
+    }
+  },
+  {
+    "name": "YEU 5 (Hoaprox Remix)",
+    "link": "https://music.163.com/song?id=465675149",
+    "duration": "04:11",
+    "artists": [
+      { "name": "Hoaprox", "link": "https://music.163.com/artist?id=1177234" },
+      {
+        "name": "Rhymastic",
+        "link": "https://music.163.com/artist?id=12561282"
+      }
+    ],
+    "album": {
+      "name": "YEU 5 (Hoaprox Remix)",
+      "link": "https://music.163.com/album?id=35283047"
+    }
+  },
+  {
+    "name": "Treasure U",
+    "link": "https://music.163.com/song?id=1437387212",
+    "duration": "03:00",
+    "artists": [
+      { "name": "BEAUZ", "link": "https://music.163.com/artist?id=12131436" },
+      { "name": "BSY", "link": "https://music.163.com/artist?id=34372552" },
+      { "name": "JSY", "link": "https://music.163.com/artist?id=34371015" },
+      {
+        "name": "Sarah De Warren",
+        "link": "https://music.163.com/artist?id=13222653"
+      }
+    ],
+    "album": {
+      "name": "Treasure U",
+      "link": "https://music.163.com/album?id=87573191"
+    }
+  },
+  {
+    "name": "Good Time (Acoustic)",
+    "link": "https://music.163.com/song?id=27514261",
+    "duration": "03:35",
+    "artists": [
+      { "name": "Owl City", "link": "https://music.163.com/artist?id=40859" }
+    ],
+    "album": {
+      "name": "The Midsummer Station Acoustic EP",
+      "link": "https://music.163.com/album?id=2623133"
+    }
+  },
+  {
+    "name": "Love Alive",
+    "link": "https://music.163.com/song?id=410925920",
+    "duration": "04:15",
+    "artists": [
+      {
+        "name": "Aaron Krause",
+        "link": "https://music.163.com/artist?id=12043054"
+      }
+    ],
+    "album": {
+      "name": "Jade",
+      "link": "https://music.163.com/album?id=34678043"
+    }
+  },
+  {
+    "name": "River of Darkness",
+    "link": "https://music.163.com/song?id=1382563370",
+    "duration": "06:05",
+    "artists": [
+      {
+        "name": "The Midnight",
+        "link": "https://music.163.com/artist?id=12023492"
+      },
+      {
+        "name": "Timecop1983",
+        "link": "https://music.163.com/artist?id=954496"
+      }
+    ],
+    "album": {
+      "name": "Nocturnal",
+      "link": "https://music.163.com/album?id=80814887"
+    }
+  },
+  {
+    "name": "Toss It Up",
+    "link": "https://music.163.com/song?id=2590124",
+    "duration": "04:29",
+    "artists": [
+      { "name": "Akon", "link": "https://music.163.com/artist?id=27595" },
+      { "name": "Flipsyde", "link": "https://music.163.com/artist?id=56799" }
+    ],
+    "album": {
+      "name": "State of Survival",
+      "link": "https://music.163.com/album?id=260869"
+    }
+  },
+  {
+    "name": "Reach for the Light",
+    "link": "https://music.163.com/song?id=4397135",
+    "duration": "03:48",
+    "artists": [
+      {
+        "name": "Tim Be Told",
+        "link": "https://music.163.com/artist?id=103770"
+      }
+    ],
+    "album": {
+      "name": "Humanity",
+      "link": "https://music.163.com/album?id=443851"
+    }
+  },
+  {
+    "name": "Never Bring Us Down",
+    "link": "https://music.163.com/song?id=1440767813",
+    "duration": "03:41",
+    "artists": [
+      {
+        "name": "Wildstylez",
+        "link": "https://music.163.com/artist?id=666014"
+      },
+      { "name": "Aftershock", "link": "https://music.163.com/artist?id=85959" },
+      { "name": "LXCPR", "link": "https://music.163.com/artist?id=13998400" }
+    ],
+    "album": {
+      "name": "Never Bring Us Down",
+      "link": "https://music.163.com/album?id=88042754"
+    }
+  },
+  {
+    "name": "How Will I Know (Who You Are)",
+    "link": "https://music.163.com/song?id=5170291",
+    "duration": "03:35",
+    "artists": [
+      {
+        "name": "Jessica Folker",
+        "link": "https://music.163.com/artist?id=62706"
+      }
+    ],
+    "album": {
+      "name": "The Very Best of Late Night Moods",
+      "link": "https://music.163.com/album?id=507133"
+    }
+  },
+  {
+    "name": "Technology",
+    "link": "https://music.163.com/song?id=1441129834",
+    "duration": "04:05",
+    "artists": [
+      { "name": "Maddix", "link": "https://music.163.com/artist?id=957014" }
+    ],
+    "album": {
+      "name": "Technology",
+      "link": "https://music.163.com/album?id=88117955"
+    }
+  },
+  {
+    "name": "Towel",
+    "link": "https://music.163.com/song?id=544027919",
+    "duration": "04:34",
+    "artists": [
+      {
+        "name": "The Wldlfe",
+        "link": "https://music.163.com/artist?id=12975494"
+      }
+    ],
+    "album": {
+      "name": "Towel",
+      "link": "https://music.163.com/album?id=37763550"
+    }
+  },
+  {
+    "name": "I Know (Radio Edit)",
+    "link": "https://music.163.com/song?id=29491453",
+    "duration": "03:14",
+    "artists": [
+      { "name": "SHIFT K3Y", "link": "https://music.163.com/artist?id=837035" }
+    ],
+    "album": {
+      "name": "I Know (Radio Edit)",
+      "link": "https://music.163.com/album?id=3034039"
+    }
+  },
+  {
+    "name": "Reality",
+    "link": "https://music.163.com/song?id=429450821",
+    "duration": "03:32",
+    "artists": [
+      { "name": "Andreas B.", "link": "https://music.163.com/artist?id=299713" }
+    ],
+    "album": {
+      "name": "Reality",
+      "link": "https://music.163.com/album?id=34861998"
+    }
+  },
+  {
+    "name": "My Dilemma",
+    "link": "https://music.163.com/song?id=19192338",
+    "duration": "03:09",
+    "artists": [
+      {
+        "name": "Selena Gomez & The Scene",
+        "link": "https://music.163.com/artist?id=100213"
+      }
+    ],
+    "album": {
+      "name": "When The Sun Goes Down",
+      "link": "https://music.163.com/album?id=1760170"
+    }
+  },
+  {
+    "name": "Call You Tonight",
+    "link": "https://music.163.com/song?id=19827042",
+    "duration": "04:10",
+    "artists": [
+      {
+        "name": "Whitney Houston",
+        "link": "https://music.163.com/artist?id=84061"
+      }
+    ],
+    "album": {
+      "name": "I Look To You",
+      "link": "https://music.163.com/album?id=1830939"
+    }
+  },
+  {
+    "name": "Ya Odna",
+    "link": "https://music.163.com/song?id=571259507",
+    "duration": "03:01",
+    "artists": [
+      {
+        "name": "Carl Prit",
+        "link": "https://music.163.com/artist?id=15013815"
+      },
+      {
+        "name": "Blue Affair",
+        "link": "https://music.163.com/artist?id=15013816"
+      },
+      {
+        "name": "Sasha Dith",
+        "link": "https://music.163.com/artist?id=12679432"
+      }
+    ],
+    "album": {
+      "name": "Reload the Summer Vol. 1",
+      "link": "https://music.163.com/album?id=39580779"
+    }
+  },
+  {
+    "name": "Colors",
+    "link": "https://music.163.com/song?id=1423383147",
+    "duration": "03:41",
+    "artists": [
+      { "name": "KEVU", "link": "https://music.163.com/artist?id=12024356" }
+    ],
+    "album": {
+      "name": "Colors",
+      "link": "https://music.163.com/album?id=85735361"
+    }
+  },
+  {
+    "name": "Dakota",
+    "link": "https://music.163.com/song?id=1365490679",
+    "duration": "05:02",
+    "artists": [
+      {
+        "name": "The Wind and The Wave",
+        "link": "https://music.163.com/artist?id=976264"
+      }
+    ],
+    "album": {
+      "name": "Dakota",
+      "link": "https://music.163.com/album?id=79141644"
+    }
+  },
+  {
+    "name": "Perfect",
+    "link": "https://music.163.com/song?id=865560099",
+    "duration": "03:02",
+    "artists": [
+      {
+        "name": "Madilyn Paige",
+        "link": "https://music.163.com/artist?id=935127"
+      }
+    ],
+    "album": {
+      "name": "Perfect",
+      "link": "https://music.163.com/album?id=71787668"
+    }
+  },
+  {
+    "name": "CAN'T STOP THE FEELING! (Original Song From DreamWorks Animation's “Trolls”) - (梦工厂音乐动画电影《丑娃》原声带)",
+    "link": "https://music.163.com/song?id=411921855",
+    "duration": "03:56",
+    "artists": [
+      {
+        "name": "Justin Timberlake",
+        "link": "https://music.163.com/artist?id=35331"
+      }
+    ],
+    "album": {
+      "name": "CAN'T STOP THE FEELING! (Original Song From DreamWorks Animation's “Trolls”)",
+      "link": "https://music.163.com/album?id=34685592"
+    }
+  },
+  {
+    "name": "Walking Blind",
+    "link": "https://music.163.com/song?id=36783831",
+    "duration": "03:21",
+    "artists": [
+      {
+        "name": "Aidan Hawken",
+        "link": "https://music.163.com/artist?id=28625"
+      },
+      {
+        "name": "Carina Round",
+        "link": "https://music.163.com/artist?id=51026"
+      }
+    ],
+    "album": {
+      "name": "Walking Blind",
+      "link": "https://music.163.com/album?id=3403478"
+    }
+  },
+  {
+    "name": "Stand With Me",
+    "link": "https://music.163.com/song?id=29979829",
+    "duration": "04:33",
+    "artists": [
+      { "name": "Wisp X", "link": "https://music.163.com/artist?id=1046123" }
+    ],
+    "album": {
+      "name": " Stand With Me",
+      "link": "https://music.163.com/album?id=3090343"
+    }
+  }
+]

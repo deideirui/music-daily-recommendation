@@ -1,0 +1,446 @@
+[
+  {
+    "name": "Hurts",
+    "link": "https://music.163.com/song?id=28442476",
+    "duration": "03:34",
+    "artists": [
+      {
+        "name": "Electric Lady Lab",
+        "link": "https://music.163.com/artist?id=92066"
+      }
+    ],
+    "album": {
+      "name": "Hurts",
+      "link": "https://music.163.com/album?id=2794046"
+    }
+  },
+  {
+    "name": "Defeated",
+    "link": "https://music.163.com/song?id=16347673",
+    "duration": "03:55",
+    "artists": [
+      { "name": "Anastacia", "link": "https://music.163.com/artist?id=46538" }
+    ],
+    "album": {
+      "name": "Heavy Rotation",
+      "link": "https://music.163.com/album?id=1508534"
+    }
+  },
+  {
+    "name": "Lost Without You",
+    "link": "https://music.163.com/song?id=17393731",
+    "duration": "04:08",
+    "artists": [
+      {
+        "name": "Delta Goodrem",
+        "link": "https://music.163.com/artist?id=53241"
+      }
+    ],
+    "album": {
+      "name": "Lost Without You",
+      "link": "https://music.163.com/album?id=1603003"
+    }
+  },
+  {
+    "name": "I'll Remember This",
+    "link": "https://music.163.com/song?id=509480365",
+    "duration": "03:38",
+    "artists": [
+      {
+        "name": "Matthew Parker",
+        "link": "https://music.163.com/artist?id=837607"
+      },
+      {
+        "name": "Chris Howland",
+        "link": "https://music.163.com/artist?id=52745"
+      }
+    ],
+    "album": {
+      "name": "I'll Remember This",
+      "link": "https://music.163.com/album?id=36439355"
+    }
+  },
+  {
+    "name": "That Isn't You",
+    "link": "https://music.163.com/song?id=31477432",
+    "duration": "03:32",
+    "artists": [
+      {
+        "name": "Sofi de la Torre",
+        "link": "https://music.163.com/artist?id=1054050"
+      }
+    ],
+    "album": {
+      "name": "That Isn't You",
+      "link": "https://music.163.com/album?id=3124104"
+    }
+  },
+  {
+    "name": "Augen zu und durch",
+    "link": "https://music.163.com/song?id=28846670",
+    "duration": "03:24",
+    "artists": [
+      {
+        "name": "Wolfgang Petry",
+        "link": "https://music.163.com/artist?id=45946"
+      }
+    ],
+    "album": {
+      "name": "Einmal noch!",
+      "link": "https://music.163.com/album?id=2913224"
+    }
+  },
+  {
+    "name": "Light Me Up",
+    "link": "https://music.163.com/song?id=1409425974",
+    "duration": "02:37",
+    "artists": [
+      {
+        "name": "Sunlight Project",
+        "link": "https://music.163.com/artist?id=858214"
+      },
+      { "name": "Fanizza", "link": "https://music.163.com/artist?id=27811735" }
+    ],
+    "album": {
+      "name": "Light Me Up",
+      "link": "https://music.163.com/album?id=84083712"
+    }
+  },
+  {
+    "name": "Dance the Night Away",
+    "link": "https://music.163.com/song?id=550313516",
+    "duration": "03:13",
+    "artists": [
+      {
+        "name": "Tribal Saints",
+        "link": "https://music.163.com/artist?id=13176672"
+      },
+      { "name": "Hyp3d", "link": "https://music.163.com/artist?id=13176675" },
+      {
+        "name": "Reanna Armellino",
+        "link": "https://music.163.com/artist?id=13812026"
+      }
+    ],
+    "album": {
+      "name": "Dance the Night Away",
+      "link": "https://music.163.com/album?id=38233293"
+    }
+  },
+  {
+    "name": "Too Serious Too Soon",
+    "link": "https://music.163.com/song?id=25880411",
+    "duration": "03:42",
+    "artists": [
+      {
+        "name": "Gareth Gates",
+        "link": "https://music.163.com/artist?id=33841"
+      }
+    ],
+    "album": {
+      "name": "What My Heart Wants To Say",
+      "link": "https://music.163.com/album?id=2337577"
+    }
+  },
+  {
+    "name": "she's all yours",
+    "link": "https://music.163.com/song?id=1371714110",
+    "duration": "02:41",
+    "artists": [
+      { "name": "Loote", "link": "https://music.163.com/artist?id=12408152" }
+    ],
+    "album": {
+      "name": "lost",
+      "link": "https://music.163.com/album?id=79787129"
+    }
+  },
+  {
+    "name": "Of The Night",
+    "link": "https://music.163.com/song?id=27863196",
+    "duration": "03:34",
+    "artists": [
+      { "name": "Bastille", "link": "https://music.163.com/artist?id=89090" }
+    ],
+    "album": {
+      "name": "Of The Night",
+      "link": "https://music.163.com/album?id=2687295"
+    }
+  },
+  {
+    "name": "Colors",
+    "link": "https://music.163.com/song?id=407002458",
+    "duration": "03:20",
+    "artists": [
+      { "name": "Eric Saade", "link": "https://music.163.com/artist?id=33119" }
+    ],
+    "album": {
+      "name": "Colors",
+      "link": "https://music.163.com/album?id=34567077"
+    }
+  },
+  {
+    "name": "Dance Beat Step",
+    "link": "https://music.163.com/song?id=412951351",
+    "duration": "04:02",
+    "artists": [
+      {
+        "name": "livetune+",
+        "link": "https://music.163.com/artist?id=12007416"
+      }
+    ],
+    "album": {
+      "name": "Sweet Clapper(初回限定盤)",
+      "link": "https://music.163.com/album?id=34700096"
+    }
+  },
+  {
+    "name": "Cooler Than Me (Radio Edit)",
+    "link": "https://music.163.com/song?id=1365398014",
+    "duration": "02:59",
+    "artists": [
+      { "name": "Lucky Luke", "link": "https://music.163.com/artist?id=487609" }
+    ],
+    "album": {
+      "name": "Cooler Than Me (Radio Edit)",
+      "link": "https://music.163.com/album?id=79131994"
+    }
+  },
+  {
+    "name": "No Vacancy",
+    "link": "https://music.163.com/song?id=436669107",
+    "duration": "04:01",
+    "artists": [
+      { "name": "Nightly", "link": "https://music.163.com/artist?id=12107608" }
+    ],
+    "album": {
+      "name": "Honest",
+      "link": "https://music.163.com/album?id=34932416"
+    }
+  },
+  {
+    "name": "烟花",
+    "link": "https://music.163.com/song?id=517848757",
+    "duration": "03:26",
+    "artists": [
+      { "name": "OYRH", "link": "https://music.163.com/artist?id=12308092" },
+      { "name": "THT", "link": "https://music.163.com/artist?id=12495253" }
+    ],
+    "album": {
+      "name": "烟花",
+      "link": "https://music.163.com/album?id=36757271"
+    }
+  },
+  {
+    "name": "一直很安静 - (电视剧《仙剑奇侠传》插曲)",
+    "link": "https://music.163.com/song?id=5260494",
+    "duration": "04:10",
+    "artists": [
+      { "name": "阿桑", "link": "https://music.163.com/artist?id=7061" }
+    ],
+    "album": {
+      "name": "Listen To HIM",
+      "link": "https://music.163.com/album?id=512384"
+    }
+  },
+  {
+    "name": "Burn",
+    "link": "https://music.163.com/song?id=28148942",
+    "duration": "02:02",
+    "artists": [
+      {
+        "name": "Angelika Vee",
+        "link": "https://music.163.com/artist?id=904230"
+      }
+    ],
+    "album": {
+      "name": "Nero Bianco - Best of Chill out 2013",
+      "link": "https://music.163.com/album?id=2735675"
+    }
+  },
+  {
+    "name": "Escape",
+    "link": "https://music.163.com/song?id=1324114493",
+    "duration": "03:01",
+    "artists": [
+      { "name": "Mizmo", "link": "https://music.163.com/artist?id=27867874" },
+      { "name": "Sun7", "link": "https://music.163.com/artist?id=13479989" }
+    ],
+    "album": {
+      "name": "Escape",
+      "link": "https://music.163.com/album?id=74325368"
+    }
+  },
+  {
+    "name": "SUCKER",
+    "link": "https://music.163.com/song?id=1336864189",
+    "duration": "02:44",
+    "artists": [
+      {
+        "name": "Tyzo Bloom",
+        "link": "https://music.163.com/artist?id=12108614"
+      },
+      { "name": "Gigi", "link": "https://music.163.com/artist?id=93337" }
+    ],
+    "album": {
+      "name": "SUCKER",
+      "link": "https://music.163.com/album?id=75018738"
+    }
+  },
+  {
+    "name": "Regrete",
+    "link": "https://music.163.com/song?id=33211566",
+    "duration": "03:34",
+    "artists": [
+      { "name": "DJ Project", "link": "https://music.163.com/artist?id=91079" }
+    ],
+    "album": {
+      "name": "Best Of",
+      "link": "https://music.163.com/album?id=3190170"
+    }
+  },
+  {
+    "name": "Lipsa Ta",
+    "link": "https://music.163.com/song?id=29129424",
+    "duration": "03:45",
+    "artists": [
+      { "name": "Adina", "link": "https://music.163.com/artist?id=488900" }
+    ],
+    "album": {
+      "name": "Lipsa Ta",
+      "link": "https://music.163.com/album?id=2992185"
+    }
+  },
+  {
+    "name": "Labak vel neaizmiedz",
+    "link": "https://music.163.com/song?id=16411128",
+    "duration": "03:11",
+    "artists": [
+      {
+        "name": "Lauris Reiniks",
+        "link": "https://music.163.com/artist?id=38686"
+      }
+    ],
+    "album": {
+      "name": "Es skrienu",
+      "link": "https://music.163.com/album?id=1507831"
+    }
+  },
+  {
+    "name": "Dezbracati",
+    "link": "https://music.163.com/song?id=28941707",
+    "duration": "03:16",
+    "artists": [
+      {
+        "name": "Maga & Tudoran",
+        "link": "https://music.163.com/artist?id=990288"
+      }
+    ],
+    "album": {
+      "name": "Dezbracati",
+      "link": "https://music.163.com/album?id=2943362"
+    }
+  },
+  {
+    "name": "Thursdays (Single Version)",
+    "link": "https://music.163.com/song?id=4164322",
+    "duration": "03:00",
+    "artists": [
+      { "name": "Lovestoned", "link": "https://music.163.com/artist?id=95748" }
+    ],
+    "album": {
+      "name": "Rising Love",
+      "link": "https://music.163.com/album?id=420999"
+    }
+  },
+  {
+    "name": "Somebody Like You",
+    "link": "https://music.163.com/song?id=1299570463",
+    "duration": "03:13",
+    "artists": [
+      {
+        "name": "James Carter",
+        "link": "https://music.163.com/artist?id=12047749"
+      },
+      {
+        "name": "Katrine Stenbekk",
+        "link": "https://music.163.com/artist?id=13202648"
+      }
+    ],
+    "album": {
+      "name": "Somebody Like You",
+      "link": "https://music.163.com/album?id=72071108"
+    }
+  },
+  {
+    "name": "What I Know",
+    "link": "https://music.163.com/song?id=467805456",
+    "duration": "03:04",
+    "artists": [
+      {
+        "name": "Isaac Sakima",
+        "link": "https://music.163.com/artist?id=996655"
+      },
+      { "name": "AObeats", "link": "https://music.163.com/artist?id=1057269" }
+    ],
+    "album": {
+      "name": "What I Know",
+      "link": "https://music.163.com/album?id=35297259"
+    }
+  },
+  {
+    "name": "In the sun (Extended Version)",
+    "link": "https://music.163.com/song?id=407485835",
+    "duration": "06:29",
+    "artists": [],
+    "album": {
+      "name": "ZYX Italo Disco New Generation Vol. 7",
+      "link": "https://music.163.com/album?id=34565263"
+    }
+  },
+  {
+    "name": "Octahate (Natio Remix)",
+    "link": "https://music.163.com/song?id=498555694",
+    "duration": "02:24",
+    "artists": [
+      { "name": "Natio", "link": "https://music.163.com/artist?id=1156296" },
+      { "name": "Ryn Weaver", "link": "https://music.163.com/artist?id=956390" }
+    ],
+    "album": {
+      "name": "Octahate",
+      "link": "https://music.163.com/album?id=35951115"
+    }
+  },
+  {
+    "name": "Hide & Seek (Ruhde Remix)",
+    "link": "https://music.163.com/song?id=534540219",
+    "duration": "03:01",
+    "artists": [
+      { "name": "Ruhde", "link": "https://music.163.com/artist?id=12560506" },
+      {
+        "name": "Steve Void",
+        "link": "https://music.163.com/artist?id=12062200"
+      },
+      { "name": "BEAUZ", "link": "https://music.163.com/artist?id=12131436" },
+      {
+        "name": "Carly Paige",
+        "link": "https://music.163.com/artist?id=13499385"
+      }
+    ],
+    "album": {
+      "name": "Hide & Seek (Ruhde Remix)",
+      "link": "https://music.163.com/album?id=37465080"
+    }
+  },
+  {
+    "name": "Resonator",
+    "link": "https://music.163.com/song?id=534064135",
+    "duration": "02:18",
+    "artists": [
+      { "name": "kz", "link": "https://music.163.com/artist?id=12262115" },
+      { "name": "halca", "link": "https://music.163.com/artist?id=12457051" }
+    ],
+    "album": {
+      "name": "BEATLESS Special Soundtrack",
+      "link": "https://music.163.com/album?id=37443059"
+    }
+  }
+]

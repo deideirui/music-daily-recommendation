@@ -1,0 +1,474 @@
+[
+  {
+    "name": "love the way",
+    "link": "https://music.163.com/song?id=35504116",
+    "duration": "03:45",
+    "artists": [
+      { "name": "浅場佳苗", "link": "https://music.163.com/artist?id=12154286" }
+    ],
+    "album": {
+      "name": "A [Are you ready?]",
+      "link": "https://music.163.com/album?id=3331192"
+    }
+  },
+  {
+    "name": "Tides",
+    "link": "https://music.163.com/song?id=561946600",
+    "duration": "03:23",
+    "artists": [
+      { "name": "Mes", "link": "https://music.163.com/artist?id=13609769" },
+      { "name": "Tuno桐音", "link": "https://music.163.com/artist?id=1216032" }
+    ],
+    "album": {
+      "name": "Tides",
+      "link": "https://music.163.com/album?id=38793327"
+    }
+  },
+  {
+    "name": "Jelly",
+    "link": "https://music.163.com/song?id=1408601159",
+    "duration": "02:53",
+    "artists": [
+      {
+        "name": "Hyper Potions",
+        "link": "https://music.163.com/artist?id=1074092"
+      },
+      { "name": "MYLK", "link": "https://music.163.com/artist?id=12046352" }
+    ],
+    "album": {
+      "name": "Jelly",
+      "link": "https://music.163.com/album?id=83937474"
+    }
+  },
+  {
+    "name": "I Like It",
+    "link": "https://music.163.com/song?id=1393692429",
+    "duration": "02:54",
+    "artists": [
+      {
+        "name": "Sebastian Mateo",
+        "link": "https://music.163.com/artist?id=12416166"
+      },
+      { "name": "Dexum", "link": "https://music.163.com/artist?id=30555322" }
+    ],
+    "album": {
+      "name": "I Like It",
+      "link": "https://music.163.com/album?id=81988275"
+    }
+  },
+  {
+    "name": "Bittersweet",
+    "link": "https://music.163.com/song?id=1320558974",
+    "duration": "03:31",
+    "artists": [
+      {
+        "name": "Nicky Romero",
+        "link": "https://music.163.com/artist?id=195142"
+      },
+      { "name": "Trilane", "link": "https://music.163.com/artist?id=12671609" },
+      {
+        "name": "Kokaholla",
+        "link": "https://music.163.com/artist?id=12602687"
+      },
+      {
+        "name": "Quarterback",
+        "link": "https://music.163.com/artist?id=14669008"
+      }
+    ],
+    "album": {
+      "name": "Bittersweet",
+      "link": "https://music.163.com/album?id=74097673"
+    }
+  },
+  {
+    "name": "Stay The Whole Night",
+    "link": "https://music.163.com/song?id=1380326058",
+    "duration": "02:41",
+    "artists": [
+      { "name": "Breeze", "link": "https://music.163.com/artist?id=32865891" },
+      {
+        "name": "Bengston",
+        "link": "https://music.163.com/artist?id=28391408"
+      },
+      {
+        "name": "Revealed Recordings",
+        "link": "https://music.163.com/artist?id=28753573"
+      }
+    ],
+    "album": {
+      "name": "Stay The Whole Night",
+      "link": "https://music.163.com/album?id=80623414"
+    }
+  },
+  {
+    "name": "Make It Up To You (BEAUZ Remix)",
+    "link": "https://music.163.com/song?id=1357977171",
+    "duration": "02:52",
+    "artists": [
+      {
+        "name": "The Golden Pony",
+        "link": "https://music.163.com/artist?id=1179057"
+      },
+      {
+        "name": "Alicia Madison",
+        "link": "https://music.163.com/artist?id=1124380"
+      }
+    ],
+    "album": {
+      "name": "Make It Up To You (BEAUZ Remix)",
+      "link": "https://music.163.com/album?id=78437365"
+    }
+  },
+  {
+    "name": "Over Again",
+    "link": "https://music.163.com/song?id=1298622064",
+    "duration": "02:36",
+    "artists": [
+      { "name": "Wasback", "link": "https://music.163.com/artist?id=12474739" },
+      { "name": "DIVARO", "link": "https://music.163.com/artist?id=13651723" },
+      { "name": "RMCM", "link": "https://music.163.com/artist?id=12290236" }
+    ],
+    "album": {
+      "name": "Over Again",
+      "link": "https://music.163.com/album?id=72123546"
+    }
+  },
+  {
+    "name": "Your Love",
+    "link": "https://music.163.com/song?id=509726592",
+    "duration": "02:50",
+    "artists": [
+      { "name": "iLY", "link": "https://music.163.com/artist?id=528294" }
+    ],
+    "album": {
+      "name": "Your Love",
+      "link": "https://music.163.com/album?id=36450255"
+    }
+  },
+  {
+    "name": "Rainy Girl - レイニーガール",
+    "link": "https://music.163.com/song?id=1309903541",
+    "duration": "03:02",
+    "artists": [
+      {
+        "name": "HoneyComeBear",
+        "link": "https://music.163.com/artist?id=12675383"
+      }
+    ],
+    "album": {
+      "name": "Rainy Girl - レイニーガール",
+      "link": "https://music.163.com/album?id=73327740"
+    }
+  },
+  {
+    "name": "Underneath",
+    "link": "https://music.163.com/song?id=1360935072",
+    "duration": "03:41",
+    "artists": [
+      {
+        "name": "Jac & Harri",
+        "link": "https://music.163.com/artist?id=12776287"
+      },
+      {
+        "name": "Nino Lucarelli",
+        "link": "https://music.163.com/artist?id=13954602"
+      }
+    ],
+    "album": {
+      "name": "Underneath",
+      "link": "https://music.163.com/album?id=78734752"
+    }
+  },
+  {
+    "name": "Starry Night",
+    "link": "https://music.163.com/song?id=1342840047",
+    "duration": "02:48",
+    "artists": [
+      { "name": "Couple N", "link": "https://music.163.com/artist?id=29832422" }
+    ],
+    "album": {
+      "name": "Starry Night",
+      "link": "https://music.163.com/album?id=75340465"
+    }
+  },
+  {
+    "name": "You Are The Reason (MOTi Remix)",
+    "link": "https://music.163.com/song?id=533392751",
+    "duration": "02:53",
+    "artists": [
+      {
+        "name": "Calum Scott",
+        "link": "https://music.163.com/artist?id=12008165"
+      },
+      { "name": "MOTI", "link": "https://music.163.com/artist?id=366384" }
+    ],
+    "album": {
+      "name": "You Are The Reason (MOTi Remixes)",
+      "link": "https://music.163.com/album?id=37398428"
+    }
+  },
+  {
+    "name": "Where Dreams Are Made (Extended Mix)",
+    "link": "https://music.163.com/song?id=409647183",
+    "duration": "04:15",
+    "artists": [
+      { "name": "Joey Dale", "link": "https://music.163.com/artist?id=908121" }
+    ],
+    "album": {
+      "name": "Where Dreams Are Made",
+      "link": "https://music.163.com/album?id=34613075"
+    }
+  },
+  {
+    "name": "Million Dollar Mood",
+    "link": "https://music.163.com/song?id=1337296869",
+    "duration": "02:55",
+    "artists": [
+      {
+        "name": "WEALTHYSELF",
+        "link": "https://music.163.com/artist?id=27864242"
+      },
+      {
+        "name": "Miranda Glory",
+        "link": "https://music.163.com/artist?id=12463504"
+      },
+      { "name": "CANCUN?", "link": "https://music.163.com/artist?id=27863745" }
+    ],
+    "album": {
+      "name": "Million Dollar Mood",
+      "link": "https://music.163.com/album?id=75042967"
+    }
+  },
+  {
+    "name": "Sunny Place (Mark & Lukas Remix)",
+    "link": "https://music.163.com/song?id=1348382404",
+    "duration": "08:49",
+    "artists": [
+      { "name": "AKI Amano", "link": "https://music.163.com/artist?id=333601" },
+      {
+        "name": "Mark & Lukas",
+        "link": "https://music.163.com/artist?id=1104097"
+      }
+    ],
+    "album": {
+      "name": "SUNNY PLACE",
+      "link": "https://music.163.com/album?id=75699386"
+    }
+  },
+  {
+    "name": "Live Forever",
+    "link": "https://music.163.com/song?id=444548972",
+    "duration": "04:01",
+    "artists": [
+      {
+        "name": "Third Party",
+        "link": "https://music.163.com/artist?id=784231"
+      }
+    ],
+    "album": {
+      "name": "Live Forever",
+      "link": "https://music.163.com/album?id=35023707"
+    }
+  },
+  {
+    "name": "Chase the Light",
+    "link": "https://music.163.com/song?id=35310220",
+    "duration": "06:33",
+    "artists": [
+      { "name": "Sundriver", "link": "https://music.163.com/artist?id=143845" }
+    ],
+    "album": {
+      "name": "Silk Royal Showcase 05",
+      "link": "https://music.163.com/album?id=3317050"
+    }
+  },
+  {
+    "name": "Summer Of My Childhood (Mark & Lukas Remix)",
+    "link": "https://music.163.com/song?id=495218280",
+    "duration": "06:26",
+    "artists": [
+      {
+        "name": "George Ellinas",
+        "link": "https://music.163.com/artist?id=442621"
+      },
+      {
+        "name": "Mark & Lukas",
+        "link": "https://music.163.com/artist?id=1104097"
+      }
+    ],
+    "album": {
+      "name": "Summer Of My Childhood",
+      "link": "https://music.163.com/album?id=35878106"
+    }
+  },
+  {
+    "name": "Sleepwalker (Virtu Remix)",
+    "link": "https://music.163.com/song?id=417247737",
+    "duration": "03:55",
+    "artists": [
+      { "name": "Virtu", "link": "https://music.163.com/artist?id=789899" },
+      { "name": "ILLENIUM", "link": "https://music.163.com/artist?id=1050518" }
+    ],
+    "album": {
+      "name": "Sleepwalker (Virtu Remix)",
+      "link": "https://music.163.com/album?id=34739318"
+    }
+  },
+  {
+    "name": "Used To",
+    "link": "https://music.163.com/song?id=1347814906",
+    "duration": "02:48",
+    "artists": [
+      {
+        "name": "James Carter",
+        "link": "https://music.163.com/artist?id=12047749"
+      },
+      { "name": "Kaii", "link": "https://music.163.com/artist?id=28457718" }
+    ],
+    "album": {
+      "name": "Used To",
+      "link": "https://music.163.com/album?id=75670536"
+    }
+  },
+  {
+    "name": "Fortress (Just A Gent Remix)",
+    "link": "https://music.163.com/song?id=445144341",
+    "duration": "03:57",
+    "artists": [
+      {
+        "name": "Just A Gent",
+        "link": "https://music.163.com/artist?id=893239"
+      },
+      { "name": "ILLENIUM", "link": "https://music.163.com/artist?id=1050518" },
+      {
+        "name": "Joni Fatora",
+        "link": "https://music.163.com/artist?id=758231"
+      }
+    ],
+    "album": {
+      "name": "Ashes (Remixes)",
+      "link": "https://music.163.com/album?id=35012826"
+    }
+  },
+  {
+    "name": "Finish What I Started",
+    "link": "https://music.163.com/song?id=1419435248",
+    "duration": "02:59",
+    "artists": [
+      { "name": "NATIIVE", "link": "https://music.163.com/artist?id=13775064" },
+      {
+        "name": "Olivia Knight",
+        "link": "https://music.163.com/artist?id=27767910"
+      }
+    ],
+    "album": {
+      "name": "Finish What I Started",
+      "link": "https://music.163.com/album?id=85300028"
+    }
+  },
+  {
+    "name": "Rainbow",
+    "link": "https://music.163.com/song?id=437292516",
+    "duration": "03:08",
+    "artists": [
+      { "name": "B0untya", "link": "https://music.163.com/artist?id=12150035" },
+      { "name": "Ulchero", "link": "https://music.163.com/artist?id=12149036" }
+    ],
+    "album": {
+      "name": "Rainbow",
+      "link": "https://music.163.com/album?id=34943177"
+    }
+  },
+  {
+    "name": "Ride",
+    "link": "https://music.163.com/song?id=31356704",
+    "duration": "04:07",
+    "artists": [
+      {
+        "name": "Best Youth",
+        "link": "https://music.163.com/artist?id=1057155"
+      }
+    ],
+    "album": {
+      "name": "Highway Moon",
+      "link": "https://music.163.com/album?id=3117548"
+    }
+  },
+  {
+    "name": "Save Me",
+    "link": "https://music.163.com/song?id=460476510",
+    "duration": "03:04",
+    "artists": [
+      { "name": "DEAMN", "link": "https://music.163.com/artist?id=12047335" }
+    ],
+    "album": {
+      "name": "Save Me",
+      "link": "https://music.163.com/album?id=35150947"
+    }
+  },
+  {
+    "name": "All We Need",
+    "link": "https://music.163.com/song?id=35283794",
+    "duration": "03:31",
+    "artists": [
+      { "name": "ODESZA", "link": "https://music.163.com/artist?id=839108" },
+      { "name": "Shy Girls", "link": "https://music.163.com/artist?id=844068" }
+    ],
+    "album": {
+      "name": "In Return (Deluxe Edition)",
+      "link": "https://music.163.com/album?id=3308984"
+    }
+  },
+  {
+    "name": "Moody",
+    "link": "https://music.163.com/song?id=1367394991",
+    "duration": "03:09",
+    "artists": [
+      {
+        "name": "Savannah Sgro",
+        "link": "https://music.163.com/artist?id=31381918"
+      }
+    ],
+    "album": {
+      "name": "Moody",
+      "link": "https://music.163.com/album?id=79376858"
+    }
+  },
+  {
+    "name": "Sky (Radio Edit)",
+    "link": "https://music.163.com/song?id=29553031",
+    "duration": "03:56",
+    "artists": [
+      { "name": "Steerner", "link": "https://music.163.com/artist?id=783190" },
+      { "name": "Martell", "link": "https://music.163.com/artist?id=12023568" }
+    ],
+    "album": { "name": "Sky", "link": "https://music.163.com/album?id=3044006" }
+  },
+  {
+    "name": "クリティカルヒット",
+    "link": "https://music.163.com/song?id=1384327048",
+    "duration": "03:43",
+    "artists": [
+      { "name": "あよ", "link": "https://music.163.com/artist?id=29500370" }
+    ],
+    "album": {
+      "name": "OYATU 3時の世界作戦",
+      "link": "https://music.163.com/album?id=80957240"
+    }
+  },
+  {
+    "name": "Dancing With Your Ghost",
+    "link": "https://music.163.com/song?id=1374329431",
+    "duration": "03:17",
+    "artists": [
+      {
+        "name": "Sasha Sloan",
+        "link": "https://music.163.com/artist?id=12646102"
+      }
+    ],
+    "album": {
+      "name": "Dancing With Your Ghost",
+      "link": "https://music.163.com/album?id=80029518"
+    }
+  }
+]

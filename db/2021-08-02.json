@@ -1,0 +1,486 @@
+[
+  {
+    "name": "Hard To Love",
+    "link": "https://music.163.com/song?id=1396015066",
+    "duration": "02:55",
+    "artists": [
+      {
+        "name": "Danny Avila",
+        "link": "https://music.163.com/artist?id=471420"
+      }
+    ],
+    "album": {
+      "name": "Hard To Love",
+      "link": "https://music.163.com/album?id=82267329"
+    }
+  },
+  {
+    "name": "Scars To Your Beautiful",
+    "link": "https://music.163.com/song?id=36587834",
+    "duration": "03:50",
+    "artists": [
+      {
+        "name": "Alessia Cara",
+        "link": "https://music.163.com/artist?id=1074089"
+      }
+    ],
+    "album": {
+      "name": "Know-It-All",
+      "link": "https://music.163.com/album?id=3391032"
+    }
+  },
+  {
+    "name": "Crazy Times",
+    "link": "https://music.163.com/song?id=1860988929",
+    "duration": "03:50",
+    "artists": [
+      { "name": "ILLENIUM", "link": "https://music.163.com/artist?id=1050518" },
+      {
+        "name": "Said The Sky",
+        "link": "https://music.163.com/artist?id=1026094"
+      },
+      { "name": "Rock Mafia", "link": "https://music.163.com/artist?id=99738" }
+    ],
+    "album": {
+      "name": "Fallen Embers",
+      "link": "https://music.163.com/album?id=130311646"
+    }
+  },
+  {
+    "name": "Levitate",
+    "link": "https://music.163.com/song?id=406737893",
+    "duration": "04:04",
+    "artists": [
+      { "name": "FEWZ", "link": "https://music.163.com/artist?id=12008133" }
+    ],
+    "album": {
+      "name": "Levitate",
+      "link": "https://music.163.com/album?id=34555371"
+    }
+  },
+  {
+    "name": "Serious (with Matthew Koma) (CAZZETTE Remix)",
+    "link": "https://music.163.com/song?id=1343249662",
+    "duration": "03:09",
+    "artists": [
+      {
+        "name": "Midnight Kids",
+        "link": "https://music.163.com/artist?id=13192314"
+      },
+      {
+        "name": "Matthew Koma",
+        "link": "https://music.163.com/artist?id=694020"
+      },
+      { "name": "CAZZETTE", "link": "https://music.163.com/artist?id=346157" }
+    ],
+    "album": {
+      "name": "Serious (Remixes)",
+      "link": "https://music.163.com/album?id=75389598"
+    }
+  },
+  {
+    "name": "Bulletproof",
+    "link": "https://music.163.com/song?id=457761714",
+    "duration": "03:30",
+    "artists": [
+      {
+        "name": "Griffin Oskar",
+        "link": "https://music.163.com/artist?id=12279066"
+      }
+    ],
+    "album": {
+      "name": "Hostage",
+      "link": "https://music.163.com/album?id=35165131"
+    }
+  },
+  {
+    "name": "Nothing Like You",
+    "link": "https://music.163.com/song?id=1410393012",
+    "duration": "02:19",
+    "artists": [
+      {
+        "name": "Lucas Estrada",
+        "link": "https://music.163.com/artist?id=12409125"
+      },
+      { "name": "Twan Ray", "link": "https://music.163.com/artist?id=15090822" }
+    ],
+    "album": {
+      "name": "Nothing Like You",
+      "link": "https://music.163.com/album?id=84185300"
+    }
+  },
+  {
+    "name": "Le Tour de Trance [Mix Cut] (Original Mix)",
+    "link": "https://music.163.com/song?id=23771806",
+    "duration": "04:21",
+    "artists": [
+      {
+        "name": "Orjan Nilsen",
+        "link": "https://music.163.com/artist?id=41064"
+      }
+    ],
+    "album": {
+      "name": "Armada Trance, Vol. 13",
+      "link": "https://music.163.com/album?id=2149430"
+    }
+  },
+  {
+    "name": "Vibrance",
+    "link": "https://music.163.com/song?id=30780431",
+    "duration": "04:01",
+    "artists": [
+      { "name": "Wisp X", "link": "https://music.163.com/artist?id=1046123" }
+    ],
+    "album": {
+      "name": "Vibrance",
+      "link": "https://music.163.com/album?id=3103221"
+    }
+  },
+  {
+    "name": "Seventeen",
+    "link": "https://music.163.com/song?id=1365844533",
+    "duration": "03:14",
+    "artists": [
+      {
+        "name": "Thomas Gold",
+        "link": "https://music.163.com/artist?id=196219"
+      },
+      {
+        "name": "Bright Sparks",
+        "link": "https://music.163.com/artist?id=12278034"
+      }
+    ],
+    "album": {
+      "name": "Seventeen",
+      "link": "https://music.163.com/album?id=79186936"
+    }
+  },
+  {
+    "name": "All Time Low",
+    "link": "https://music.163.com/song?id=461544312",
+    "duration": "03:21",
+    "artists": [
+      {
+        "name": "Kurt Hugo Schneider",
+        "link": "https://music.163.com/artist?id=37962"
+      },
+      { "name": "Sam Tsui", "link": "https://music.163.com/artist?id=43722" },
+      {
+        "name": "Casey Breves",
+        "link": "https://music.163.com/artist?id=1086079"
+      }
+    ],
+    "album": {
+      "name": "All Time Low",
+      "link": "https://music.163.com/album?id=35196325"
+    }
+  },
+  {
+    "name": "Only Now (feat. Tyler Graves)",
+    "link": "https://music.163.com/song?id=1433425151",
+    "duration": "03:31",
+    "artists": [
+      {
+        "name": "Seven Lions",
+        "link": "https://music.163.com/artist?id=44204"
+      },
+      {
+        "name": "Tyler Graves",
+        "link": "https://music.163.com/artist?id=31834852"
+      }
+    ],
+    "album": {
+      "name": "Find Another Way",
+      "link": "https://music.163.com/album?id=86776607"
+    }
+  },
+  {
+    "name": "Escape this Moment (Original Mix)",
+    "link": "https://music.163.com/song?id=31245320",
+    "duration": "03:46",
+    "artists": [
+      {
+        "name": "Lightscape",
+        "link": "https://music.163.com/artist?id=1084238"
+      }
+    ],
+    "album": {
+      "name": "Flying Through The Universe Episode 2",
+      "link": "https://music.163.com/album?id=3111356"
+    }
+  },
+  {
+    "name": "Ascent",
+    "link": "https://music.163.com/song?id=34998386",
+    "duration": "04:34",
+    "artists": [
+      { "name": "Teminite", "link": "https://music.163.com/artist?id=1049513" }
+    ],
+    "album": {
+      "name": "Uprising",
+      "link": "https://music.163.com/album?id=38223060"
+    }
+  },
+  {
+    "name": "萤火之森",
+    "link": "https://music.163.com/song?id=1415706303",
+    "duration": "02:32",
+    "artists": [
+      { "name": "CMJ", "link": "https://music.163.com/artist?id=12157336" }
+    ],
+    "album": {
+      "name": "萤火之森",
+      "link": "https://music.163.com/album?id=84840204"
+    }
+  },
+  {
+    "name": "Emotion",
+    "link": "https://music.163.com/song?id=1375380647",
+    "duration": "03:24",
+    "artists": [
+      {
+        "name": "hazey eyes",
+        "link": "https://music.163.com/artist?id=12047491"
+      },
+      { "name": "Panama", "link": "https://music.163.com/artist?id=308297" }
+    ],
+    "album": {
+      "name": "Emotion (Remixes)",
+      "link": "https://music.163.com/album?id=80128861"
+    }
+  },
+  {
+    "name": "アイネクライネ - (Eine Kleine)",
+    "link": "https://music.163.com/song?id=28445990",
+    "duration": "04:50",
+    "artists": [
+      { "name": "米津玄師", "link": "https://music.163.com/artist?id=159300" }
+    ],
+    "album": {
+      "name": "YANKEE",
+      "link": "https://music.163.com/album?id=2794236"
+    }
+  },
+  {
+    "name": "secret base ~君がくれたもの~ (10 years after Ver.) - (TV动画《我们仍未知道那天所看见的花的名字》片尾曲)",
+    "link": "https://music.163.com/song?id=33911781",
+    "duration": "05:52",
+    "artists": [
+      { "name": "茅野愛衣", "link": "https://music.163.com/artist?id=16906" },
+      { "name": "戸松遥", "link": "https://music.163.com/artist?id=17905" },
+      { "name": "早見沙織", "link": "https://music.163.com/artist?id=16501" }
+    ],
+    "album": {
+      "name": "secret base ～君がくれたもの～",
+      "link": "https://music.163.com/album?id=3266177"
+    }
+  },
+  {
+    "name": "Another Place",
+    "link": "https://music.163.com/song?id=483378483",
+    "duration": "02:49",
+    "artists": [
+      { "name": "Duumu", "link": "https://music.163.com/artist?id=12007367" }
+    ],
+    "album": {
+      "name": "Dissociated",
+      "link": "https://music.163.com/album?id=35589782"
+    }
+  },
+  {
+    "name": "Take My Time",
+    "link": "https://music.163.com/song?id=1496739510",
+    "duration": "03:08",
+    "artists": [
+      {
+        "name": "Harry Hudson",
+        "link": "https://music.163.com/artist?id=303513"
+      }
+    ],
+    "album": {
+      "name": "Hey, I'm Here For You",
+      "link": "https://music.163.com/album?id=98546468"
+    }
+  },
+  {
+    "name": "Seeds (cloudfield Remix)",
+    "link": "https://music.163.com/song?id=520458135",
+    "duration": "03:06",
+    "artists": [
+      {
+        "name": "cloudfield",
+        "link": "https://music.163.com/artist?id=12108490"
+      },
+      { "name": "Fokushi", "link": "https://music.163.com/artist?id=12894272" },
+      { "name": "taobien", "link": "https://music.163.com/artist?id=29799434" }
+    ],
+    "album": {
+      "name": "Seeds (cloudfield Remix)",
+      "link": "https://music.163.com/album?id=36853044"
+    }
+  },
+  {
+    "name": "Cold Night",
+    "link": "https://music.163.com/song?id=19107212",
+    "duration": "06:30",
+    "artists": [
+      {
+        "name": "Sarah MacDougall",
+        "link": "https://music.163.com/artist?id=78066"
+      }
+    ],
+    "album": {
+      "name": "The Greatest Ones Alive",
+      "link": "https://music.163.com/album?id=1751515"
+    }
+  },
+  {
+    "name": "show me (The Nicholas Remix)",
+    "link": "https://music.163.com/song?id=1410578316",
+    "duration": "03:11",
+    "artists": [
+      { "name": "San Holo", "link": "https://music.163.com/artist?id=1017035" },
+      {
+        "name": "The Nicholas",
+        "link": "https://music.163.com/artist?id=13226156"
+      }
+    ],
+    "album": {
+      "name": "album1: a lot of remixes",
+      "link": "https://music.163.com/album?id=84210154"
+    }
+  },
+  {
+    "name": "Disturbia",
+    "link": "https://music.163.com/song?id=3314175",
+    "duration": "03:58",
+    "artists": [
+      { "name": "Rihanna", "link": "https://music.163.com/artist?id=72724" }
+    ],
+    "album": {
+      "name": "Good Girl Gone Bad",
+      "link": "https://music.163.com/album?id=335677"
+    }
+  },
+  {
+    "name": "I Don't Do Drugs",
+    "link": "https://music.163.com/song?id=1856531781",
+    "duration": "03:08",
+    "artists": [
+      { "name": "Doja Cat", "link": "https://music.163.com/artist?id=911131" },
+      {
+        "name": "Ariana Grande",
+        "link": "https://music.163.com/artist?id=48161"
+      }
+    ],
+    "album": {
+      "name": "Planet Her (Deluxe)",
+      "link": "https://music.163.com/album?id=129575300"
+    }
+  },
+  {
+    "name": "A Way To You Again",
+    "link": "https://music.163.com/song?id=28352987",
+    "duration": "03:46",
+    "artists": [
+      {
+        "name": "Peter Bradley Adams",
+        "link": "https://music.163.com/artist?id=41166"
+      }
+    ],
+    "album": {
+      "name": "The Mighty Storm",
+      "link": "https://music.163.com/album?id=2778688"
+    }
+  },
+  {
+    "name": "ALONE",
+    "link": "https://music.163.com/song?id=1491383874",
+    "duration": "03:39",
+    "artists": [
+      { "name": "XYLØ", "link": "https://music.163.com/artist?id=1050511" }
+    ],
+    "album": {
+      "name": "OUTSIDERS CLUB",
+      "link": "https://music.163.com/album?id=97621092"
+    }
+  },
+  {
+    "name": "What Do You Think?",
+    "link": "https://music.163.com/song?id=1455880257",
+    "duration": "03:36",
+    "artists": [
+      { "name": "Allday", "link": "https://music.163.com/artist?id=784209" }
+    ],
+    "album": {
+      "name": "What Do You Think?",
+      "link": "https://music.163.com/album?id=91001261"
+    }
+  },
+  {
+    "name": "Re:make",
+    "link": "https://music.163.com/song?id=794080",
+    "duration": "03:23",
+    "artists": [
+      { "name": "ONE OK ROCK", "link": "https://music.163.com/artist?id=20878" }
+    ],
+    "album": {
+      "name": "Re:make / NO SCARED",
+      "link": "https://music.163.com/album?id=78617"
+    }
+  },
+  {
+    "name": "To Be Lonely",
+    "link": "https://music.163.com/song?id=571338649",
+    "duration": "04:08",
+    "artists": [
+      { "name": "JRS", "link": "https://music.163.com/artist?id=12262090" }
+    ],
+    "album": {
+      "name": "To Be Lonely",
+      "link": "https://music.163.com/album?id=39593204"
+    }
+  },
+  {
+    "name": "Catch A Flame",
+    "link": "https://music.163.com/song?id=18036485",
+    "duration": "03:17",
+    "artists": [
+      {
+        "name": "Piers Faccini",
+        "link": "https://music.163.com/artist?id=41194"
+      }
+    ],
+    "album": {
+      "name": "Leave No Trace",
+      "link": "https://music.163.com/album?id=1658189"
+    }
+  },
+  {
+    "name": "football game",
+    "link": "https://music.163.com/song?id=1497007037",
+    "duration": "02:47",
+    "artists": [
+      {
+        "name": "Silver Sphere",
+        "link": "https://music.163.com/artist?id=31666357"
+      }
+    ],
+    "album": {
+      "name": "football game",
+      "link": "https://music.163.com/album?id=98592624"
+    }
+  },
+  {
+    "name": "My Everything",
+    "link": "https://music.163.com/song?id=402061023",
+    "duration": "03:45",
+    "artists": [
+      { "name": "Owl City", "link": "https://music.163.com/artist?id=40859" }
+    ],
+    "album": {
+      "name": "My Everything",
+      "link": "https://music.163.com/album?id=34476047"
+    }
+  }
+]

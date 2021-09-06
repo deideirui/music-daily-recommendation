@@ -1,0 +1,469 @@
+[
+  {
+    "name": "Miles Away",
+    "link": "https://music.163.com/song?id=1462817214",
+    "duration": "03:14",
+    "artists": [
+      {
+        "name": "SOUNXSTATE",
+        "link": "https://music.163.com/artist?id=32458073"
+      },
+      {
+        "name": "Aitor Blond",
+        "link": "https://music.163.com/artist?id=12893078"
+      }
+    ],
+    "album": {
+      "name": "Miles Away",
+      "link": "https://music.163.com/album?id=92433676"
+    }
+  },
+  {
+    "name": "Innocence",
+    "link": "https://music.163.com/song?id=1303247116",
+    "duration": "03:54",
+    "artists": [
+      {
+        "name": "Electric Youth",
+        "link": "https://music.163.com/artist?id=658235"
+      }
+    ],
+    "album": {
+      "name": "Innerworld (Deluxe Edition)",
+      "link": "https://music.163.com/album?id=72400292"
+    }
+  },
+  {
+    "name": "By My Side",
+    "link": "https://music.163.com/song?id=1498251625",
+    "duration": "03:18",
+    "artists": [
+      {
+        "name": "Approaching Nirvana",
+        "link": "https://music.163.com/artist?id=86884"
+      }
+    ],
+    "album": {
+      "name": "Isolated Frequencies",
+      "link": "https://music.163.com/album?id=98783163"
+    }
+  },
+  {
+    "name": "Coming Back To Life (Sunlight Project Remix)",
+    "link": "https://music.163.com/song?id=539492422",
+    "duration": "07:25",
+    "artists": [
+      {
+        "name": "Aley & Oshay",
+        "link": "https://music.163.com/artist?id=12049178"
+      },
+      {
+        "name": "Angel Falls",
+        "link": "https://music.163.com/artist?id=12474818"
+      }
+    ],
+    "album": {
+      "name": "I Found My Way / Coming Back To Life (Remixed)",
+      "link": "https://music.163.com/album?id=37686043"
+    }
+  },
+  {
+    "name": "Dreams",
+    "link": "https://music.163.com/song?id=563988075",
+    "duration": "04:03",
+    "artists": [
+      {
+        "name": "Midnight Fighters",
+        "link": "https://music.163.com/artist?id=13024035"
+      },
+      {
+        "name": "Juan Chiatello",
+        "link": "https://music.163.com/artist?id=14234289"
+      }
+    ],
+    "album": {
+      "name": "Night Visions",
+      "link": "https://music.163.com/album?id=39087147"
+    }
+  },
+  {
+    "name": "The Calling (Grotesque 300 Anthem)",
+    "link": "https://music.163.com/song?id=520458567",
+    "duration": "07:49",
+    "artists": [
+      { "name": "RAM", "link": "https://music.163.com/artist?id=73231" },
+      {
+        "name": "Darren Porter",
+        "link": "https://music.163.com/artist?id=742417"
+      }
+    ],
+    "album": {
+      "name": "The Calling (Grotesque 300 Anthem)",
+      "link": "https://music.163.com/album?id=36854153"
+    }
+  },
+  {
+    "name": "Lose My Mind",
+    "link": "https://music.163.com/song?id=1339218527",
+    "duration": "04:18",
+    "artists": [
+      { "name": "Jai Wolf", "link": "https://music.163.com/artist?id=1063048" },
+      {
+        "name": "Mr Gabriel",
+        "link": "https://music.163.com/artist?id=13940150"
+      }
+    ],
+    "album": {
+      "name": "The Cure To Loneliness",
+      "link": "https://music.163.com/album?id=78300643"
+    }
+  },
+  {
+    "name": "Enough (feat. Caraumel)",
+    "link": "https://music.163.com/song?id=1312166100",
+    "duration": "03:27",
+    "artists": [
+      {
+        "name": "Adib Sin",
+        "link": "https://music.163.com/artist?id=12244027"
+      },
+      { "name": "Caraumel", "link": "https://music.163.com/artist?id=30111284" }
+    ],
+    "album": {
+      "name": "Enough",
+      "link": "https://music.163.com/album?id=73479753"
+    }
+  },
+  {
+    "name": "Church Party",
+    "link": "https://music.163.com/song?id=1427018695",
+    "duration": "03:28",
+    "artists": [
+      { "name": "Gnoka", "link": "https://music.163.com/artist?id=12899439" }
+    ],
+    "album": {
+      "name": "Church Party",
+      "link": "https://music.163.com/album?id=86103683"
+    }
+  },
+  {
+    "name": "Shine",
+    "link": "https://music.163.com/song?id=1311735223",
+    "duration": "03:57",
+    "artists": [
+      { "name": "Gabrielle", "link": "https://music.163.com/artist?id=58001" }
+    ],
+    "album": {
+      "name": "Under My Skin",
+      "link": "https://music.163.com/album?id=73520225"
+    }
+  },
+  {
+    "name": "Won't Come Back",
+    "link": "https://music.163.com/song?id=571340581",
+    "duration": "04:18",
+    "artists": [
+      { "name": "ARMNHMR", "link": "https://music.163.com/artist?id=1132078" },
+      { "name": "Jex", "link": "https://music.163.com/artist?id=12007273" },
+      { "name": "Convex", "link": "https://music.163.com/artist?id=355739" }
+    ],
+    "album": {
+      "name": "Won't Come Back",
+      "link": "https://music.163.com/album?id=39593187"
+    }
+  },
+  {
+    "name": "5AM (T & Sugah Remix)",
+    "link": "https://music.163.com/song?id=33410967",
+    "duration": "03:48",
+    "artists": [
+      { "name": "Katy B", "link": "https://music.163.com/artist?id=63963" },
+      { "name": "T & Sugah", "link": "https://music.163.com/artist?id=1132923" }
+    ],
+    "album": {
+      "name": "5AM (T & Sugah Remix)",
+      "link": "https://music.163.com/album?id=3210112"
+    }
+  },
+  {
+    "name": "Flash Funk (Marshmello Remix) - (风光闪)",
+    "link": "https://music.163.com/song?id=400161903",
+    "duration": "03:41",
+    "artists": [
+      { "name": "英雄联盟", "link": "https://music.163.com/artist?id=1047337" },
+      {
+        "name": "Marshmello",
+        "link": "https://music.163.com/artist?id=1060019"
+      }
+    ],
+    "album": {
+      "name": "Warsongs",
+      "link": "https://music.163.com/album?id=34429106"
+    }
+  },
+  {
+    "name": "2nd Wave",
+    "link": "https://music.163.com/song?id=562759024",
+    "duration": "03:07",
+    "artists": [
+      {
+        "name": "Virgin Suicide",
+        "link": "https://music.163.com/artist?id=511688"
+      }
+    ],
+    "album": {
+      "name": "Virgin Suicide",
+      "link": "https://music.163.com/album?id=38995585"
+    }
+  },
+  {
+    "name": "Run Like A Rebel",
+    "link": "https://music.163.com/song?id=1383169192",
+    "duration": "02:46",
+    "artists": [
+      { "name": "The Score", "link": "https://music.163.com/artist?id=212904" }
+    ],
+    "album": {
+      "name": "Stay",
+      "link": "https://music.163.com/album?id=80866205"
+    }
+  },
+  {
+    "name": "December",
+    "link": "https://music.163.com/song?id=500412018",
+    "duration": "03:55",
+    "artists": [
+      { "name": "Yumi Zouma", "link": "https://music.163.com/artist?id=893365" }
+    ],
+    "album": {
+      "name": "Willowbank",
+      "link": "https://music.163.com/album?id=36017014"
+    }
+  },
+  {
+    "name": "We Are Electric",
+    "link": "https://music.163.com/song?id=4073990",
+    "duration": "03:28",
+    "artists": [
+      {
+        "name": "Flying Steps",
+        "link": "https://music.163.com/artist?id=92609"
+      }
+    ],
+    "album": {
+      "name": "B-Town",
+      "link": "https://music.163.com/album?id=411867"
+    }
+  },
+  {
+    "name": "1995",
+    "link": "https://music.163.com/song?id=477839664",
+    "duration": "04:41",
+    "artists": [
+      {
+        "name": "Molly Nilsson",
+        "link": "https://music.163.com/artist?id=78051"
+      }
+    ],
+    "album": {
+      "name": "Zenith",
+      "link": "https://music.163.com/album?id=35498043"
+    }
+  },
+  {
+    "name": "Skyll inte ifrån dig",
+    "link": "https://music.163.com/song?id=413812647",
+    "duration": "04:30",
+    "artists": [
+      { "name": "Kent", "link": "https://music.163.com/artist?id=95276" }
+    ],
+    "album": {
+      "name": "Då som nu för alltid",
+      "link": "https://music.163.com/album?id=34701635"
+    }
+  },
+  {
+    "name": "I Just Don't Care (In A Good Way) Anymore",
+    "link": "https://music.163.com/song?id=17517300",
+    "duration": "02:31",
+    "artists": [
+      { "name": "Egil Olsen", "link": "https://music.163.com/artist?id=32676" }
+    ],
+    "album": {
+      "name": "Nothing Like The Love I Have For You",
+      "link": "https://music.163.com/album?id=1612838"
+    }
+  },
+  {
+    "name": "How Far We've Come",
+    "link": "https://music.163.com/song?id=27445290",
+    "duration": "03:29",
+    "artists": [
+      {
+        "name": "Matchbox Twenty",
+        "link": "https://music.163.com/artist?id=66353"
+      }
+    ],
+    "album": {
+      "name": "The Rock Album (Triple M Radio, Australia)",
+      "link": "https://music.163.com/album?id=2607848"
+    }
+  },
+  {
+    "name": "Nevada",
+    "link": "https://music.163.com/song?id=418602088",
+    "duration": "03:28",
+    "artists": [
+      { "name": "Vicetone", "link": "https://music.163.com/artist?id=747030" },
+      {
+        "name": "Cozi Zuehlsdorff",
+        "link": "https://music.163.com/artist?id=1097153"
+      }
+    ],
+    "album": {
+      "name": "Nevada",
+      "link": "https://music.163.com/album?id=34750015"
+    }
+  },
+  {
+    "name": "Darlin' (I Think About You)",
+    "link": "https://music.163.com/song?id=2511818",
+    "duration": "04:18",
+    "artists": [
+      { "name": "Delegation", "link": "https://music.163.com/artist?id=54973" }
+    ],
+    "album": {
+      "name": "Eau De Vie",
+      "link": "https://music.163.com/album?id=252925"
+    }
+  },
+  {
+    "name": "Sentimental Way (Original Mix)",
+    "link": "https://music.163.com/song?id=28575001",
+    "duration": "08:23",
+    "artists": [
+      { "name": "Etasonic", "link": "https://music.163.com/artist?id=777274" }
+    ],
+    "album": {
+      "name": "Top-Voted Tunes - Vol. 1 (Ori Uplift)",
+      "link": "https://music.163.com/album?id=2846358"
+    }
+  },
+  {
+    "name": "Anxiety of Vanity",
+    "link": "https://music.163.com/song?id=440208101",
+    "duration": "09:19",
+    "artists": [
+      {
+        "name": "Sound Apparel",
+        "link": "https://music.163.com/artist?id=385722"
+      }
+    ],
+    "album": {
+      "name": "Making End Of Heart Tale",
+      "link": "https://music.163.com/album?id=34985048"
+    }
+  },
+  {
+    "name": "The Incursion (Epic Orchestral Trance Mix)",
+    "link": "https://music.163.com/song?id=26476983",
+    "duration": "09:38",
+    "artists": [
+      {
+        "name": "Kelly Andrew",
+        "link": "https://music.163.com/artist?id=196369"
+      }
+    ],
+    "album": {
+      "name": "The Incursion",
+      "link": "https://music.163.com/album?id=2505624"
+    }
+  },
+  {
+    "name": "Cheops (Original Mix)",
+    "link": "https://music.163.com/song?id=27737066",
+    "duration": "07:00",
+    "artists": [
+      {
+        "name": "Matt Bukovski",
+        "link": "https://music.163.com/artist?id=711657"
+      },
+      {
+        "name": "Andy Elliass",
+        "link": "https://music.163.com/artist?id=447682"
+      }
+    ],
+    "album": {
+      "name": "Cheops",
+      "link": "https://music.163.com/album?id=2669240"
+    }
+  },
+  {
+    "name": "Ethereal Rhapsody (Original Mix)",
+    "link": "https://music.163.com/song?id=36270521",
+    "duration": "10:16",
+    "artists": [
+      {
+        "name": "Simon O'Shine",
+        "link": "https://music.163.com/artist?id=207035"
+      },
+      {
+        "name": "Sergey Nevone",
+        "link": "https://music.163.com/artist?id=240783"
+      }
+    ],
+    "album": {
+      "name": "Ethereal Rhapsody (Original Mix)",
+      "link": "https://music.163.com/album?id=3389400"
+    }
+  },
+  {
+    "name": "Parthia",
+    "link": "https://music.163.com/song?id=1997838",
+    "duration": "07:35",
+    "artists": [
+      {
+        "name": "Farhad Mahdavi",
+        "link": "https://music.163.com/artist?id=196431"
+      }
+    ],
+    "album": {
+      "name": "Myths & Legends: Mixed By SoundLift",
+      "link": "https://music.163.com/album?id=201414"
+    }
+  },
+  {
+    "name": "Marathon (Simon O'Shine Mix)",
+    "link": "https://music.163.com/song?id=28774865",
+    "duration": "08:50",
+    "artists": [
+      {
+        "name": "Adam Navel ",
+        "link": "https://music.163.com/artist?id=744269"
+      },
+      {
+        "name": "Simon O'Shine",
+        "link": "https://music.163.com/artist?id=207035"
+      }
+    ],
+    "album": {
+      "name": "Marathon",
+      "link": "https://music.163.com/album?id=2887996"
+    }
+  },
+  {
+    "name": "Road Trip",
+    "link": "https://music.163.com/song?id=34468943",
+    "duration": "03:55",
+    "artists": [
+      {
+        "name": "Patrick Lite",
+        "link": "https://music.163.com/artist?id=1146061"
+      }
+    ],
+    "album": {
+      "name": "Road Trip (Original Mix)",
+      "link": "https://music.163.com/album?id=3286138"
+    }
+  }
+]

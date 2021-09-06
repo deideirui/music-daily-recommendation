@@ -1,0 +1,457 @@
+[
+  {
+    "name": "Garbage",
+    "link": "https://music.163.com/song?id=1363642894",
+    "duration": "03:11",
+    "artists": [
+      {
+        "name": "Joakim Molitor",
+        "link": "https://music.163.com/artist?id=13972238"
+      },
+      {
+        "name": "Cazzi Opeia",
+        "link": "https://music.163.com/artist?id=197008"
+      }
+    ],
+    "album": {
+      "name": "Garbage",
+      "link": "https://music.163.com/album?id=78961171"
+    }
+  },
+  {
+    "name": "Can't Stop Now (Matisse & Sadko Remix)",
+    "link": "https://music.163.com/song?id=27707720",
+    "duration": "06:11",
+    "artists": [
+      {
+        "name": "The Aston Shuffle",
+        "link": "https://music.163.com/artist?id=688400"
+      },
+      {
+        "name": "Matisse & Sadko",
+        "link": "https://music.163.com/artist?id=947054"
+      }
+    ],
+    "album": {
+      "name": "Can't Stop Now (Matisse & Sadko Remix)",
+      "link": "https://music.163.com/album?id=2661963"
+    }
+  },
+  {
+    "name": "Don't Speak",
+    "link": "https://music.163.com/song?id=505828528",
+    "duration": "03:27",
+    "artists": [
+      {
+        "name": "Eastblock Bitches",
+        "link": "https://music.163.com/artist?id=12389024"
+      }
+    ],
+    "album": {
+      "name": "Don't Speak",
+      "link": "https://music.163.com/album?id=36169243"
+    }
+  },
+  {
+    "name": "Akiba",
+    "link": "https://music.163.com/song?id=447280094",
+    "duration": "02:33",
+    "artists": [
+      { "name": "Synthion", "link": "https://music.163.com/artist?id=12229021" }
+    ],
+    "album": {
+      "name": "Akiba",
+      "link": "https://music.163.com/album?id=35064050"
+    }
+  },
+  {
+    "name": "Still Falling For You (Jonas Blue Remix)",
+    "link": "https://music.163.com/song?id=428442934",
+    "duration": "03:08",
+    "artists": [
+      {
+        "name": "Ellie Goulding",
+        "link": "https://music.163.com/artist?id=56598"
+      },
+      {
+        "name": "Jonas Blue",
+        "link": "https://music.163.com/artist?id=1192069"
+      }
+    ],
+    "album": {
+      "name": "Still Falling For You (Jonas Blue Remix)",
+      "link": "https://music.163.com/album?id=34867142"
+    }
+  },
+  {
+    "name": "What We Got",
+    "link": "https://music.163.com/song?id=509512619",
+    "duration": "02:53",
+    "artists": [
+      { "name": "Reboost", "link": "https://music.163.com/artist?id=12047332" }
+    ],
+    "album": {
+      "name": "What We Got",
+      "link": "https://music.163.com/album?id=36412414"
+    }
+  },
+  {
+    "name": "過ぎゆく日と君へ",
+    "link": "https://music.163.com/song?id=529823828",
+    "duration": "04:20",
+    "artists": [
+      { "name": "Aiobahn", "link": "https://music.163.com/artist?id=1137416" },
+      { "name": "nayuta", "link": "https://music.163.com/artist?id=17401" }
+    ],
+    "album": {
+      "name": "過ぎゆく日と君へ",
+      "link": "https://music.163.com/album?id=37251217"
+    }
+  },
+  {
+    "name": "Sleeping Forest",
+    "link": "https://music.163.com/song?id=483007651",
+    "duration": "04:21",
+    "artists": [
+      { "name": "TeddyLoid", "link": "https://music.163.com/artist?id=711121" },
+      {
+        "name": "Bonjour Suzuki",
+        "link": "https://music.163.com/artist?id=29812863"
+      }
+    ],
+    "album": {
+      "name": "SILENT PLANET 2 EP, Vol. 2",
+      "link": "https://music.163.com/album?id=35141758"
+    }
+  },
+  {
+    "name": "for him.",
+    "link": "https://music.163.com/song?id=37955044",
+    "duration": "03:28",
+    "artists": [
+      {
+        "name": "Troye Sivan",
+        "link": "https://music.163.com/artist?id=45129"
+      },
+      { "name": "Allday", "link": "https://music.163.com/artist?id=784209" }
+    ],
+    "album": {
+      "name": "Blue Neighbourhood (Deluxe)",
+      "link": "https://music.163.com/album?id=3329047"
+    }
+  },
+  {
+    "name": "Breeze (Original Mix)",
+    "link": "https://music.163.com/song?id=29808484",
+    "duration": "04:49",
+    "artists": [
+      { "name": "Axero", "link": "https://music.163.com/artist?id=1035020" }
+    ],
+    "album": {
+      "name": "Breeze",
+      "link": "https://music.163.com/album?id=3082191"
+    }
+  },
+  {
+    "name": "花びらたちのマーチ - (花瓣的游行)",
+    "link": "https://music.163.com/song?id=1338264578",
+    "duration": "03:15",
+    "artists": [
+      { "name": "Aimer", "link": "https://music.163.com/artist?id=16152" }
+    ],
+    "album": {
+      "name": "I beg you / 花びらたちのマーチ / Sailing",
+      "link": "https://music.163.com/album?id=75062421"
+    }
+  },
+  {
+    "name": "Need Of You (Lush & Simon Radio Remix)",
+    "link": "https://music.163.com/song?id=27994835",
+    "duration": "03:09",
+    "artists": [
+      {
+        "name": "Alex Martello",
+        "link": "https://music.163.com/artist?id=13501642"
+      },
+      {
+        "name": "Mat Twice",
+        "link": "https://music.163.com/artist?id=14008347"
+      }
+    ],
+    "album": {
+      "name": "Dream Dance Vol. 68",
+      "link": "https://music.163.com/album?id=2710788"
+    }
+  },
+  {
+    "name": "What I Am (Dave Neven Remix)",
+    "link": "https://music.163.com/song?id=570288632",
+    "duration": "03:29",
+    "artists": [
+      { "name": "Aneym", "link": "https://music.163.com/artist?id=193255" },
+      { "name": "Dan Chase", "link": "https://music.163.com/artist?id=334008" }
+    ],
+    "album": {
+      "name": "What I Am (Dave Neven Remix)",
+      "link": "https://music.163.com/album?id=39531487"
+    }
+  },
+  {
+    "name": "Start A Fire (feat. Martin Radoz) (Steerner Radio Edit)",
+    "link": "https://music.163.com/song?id=28181516",
+    "duration": "03:24",
+    "artists": [
+      {
+        "name": "Felix Zaltaio & Lindh Van Berg",
+        "link": "https://music.163.com/artist?id=866081"
+      }
+    ],
+    "album": {
+      "name": "Start A Fire (feat. Martin Radoz) (Steerner Edit)",
+      "link": "https://music.163.com/album?id=2740271"
+    }
+  },
+  {
+    "name": "Rush (Original Mix)",
+    "link": "https://music.163.com/song?id=31962154",
+    "duration": "05:52",
+    "artists": [
+      { "name": "Venom One", "link": "https://music.163.com/artist?id=832516" }
+    ],
+    "album": {
+      "name": "Rush",
+      "link": "https://music.163.com/album?id=3144723"
+    }
+  },
+  {
+    "name": "Hypnodancer",
+    "link": "https://music.163.com/song?id=1446336029",
+    "duration": "03:07",
+    "artists": [
+      { "name": "Little Big", "link": "https://music.163.com/artist?id=840473" }
+    ],
+    "album": {
+      "name": "Hypnodancer",
+      "link": "https://music.163.com/album?id=89109198"
+    }
+  },
+  {
+    "name": "호우주의보 - (暴雨警报)",
+    "link": "https://music.163.com/song?id=569200310",
+    "duration": "02:58",
+    "artists": [
+      { "name": "MJ", "link": "https://music.163.com/artist?id=124333" },
+      { "name": "ROO", "link": "https://music.163.com/artist?id=1000023" }
+    ],
+    "album": {
+      "name": "호우주의보",
+      "link": "https://music.163.com/album?id=39480067"
+    }
+  },
+  {
+    "name": "美♂-K $タすpAd",
+    "link": "https://music.163.com/song?id=498080",
+    "duration": "02:34",
+    "artists": [
+      { "name": "小林未郁", "link": "https://music.163.com/artist?id=16823" }
+    ],
+    "album": {
+      "name": "Guilty Crown Vol.2 特典CD",
+      "link": "https://music.163.com/album?id=47592"
+    }
+  },
+  {
+    "name": "Departures〜あなたにおくるアイの歌〜 - (TV动画《罪恶王冠》片尾曲 ； TVアニメ「ギルティクラウン」EDテーマ)",
+    "link": "https://music.163.com/song?id=722928",
+    "duration": "04:15",
+    "artists": [
+      { "name": "EGOIST", "link": "https://music.163.com/artist?id=19353" }
+    ],
+    "album": {
+      "name": "Departures~あなたにおくるアイの歌~",
+      "link": "https://music.163.com/album?id=70826"
+    }
+  },
+  {
+    "name": "Back",
+    "link": "https://music.163.com/song?id=28832078",
+    "duration": "03:53",
+    "artists": [
+      { "name": "Infinite", "link": "https://music.163.com/artist?id=126982" }
+    ],
+    "album": {
+      "name": "Be Back",
+      "link": "https://music.163.com/album?id=2905014"
+    }
+  },
+  {
+    "name": "Lost Soul (Daniel Kandi Remix)",
+    "link": "https://music.163.com/song?id=414980826",
+    "duration": "06:53",
+    "artists": [
+      { "name": "NoMosk", "link": "https://music.163.com/artist?id=344521" },
+      {
+        "name": "Roman Messer",
+        "link": "https://music.163.com/artist?id=905394"
+      },
+      {
+        "name": "Christina Novelli",
+        "link": "https://music.163.com/artist?id=840292"
+      },
+      {
+        "name": "Daniel Kandi",
+        "link": "https://music.163.com/artist?id=32478"
+      }
+    ],
+    "album": {
+      "name": "Lost Soul (Remixed)",
+      "link": "https://music.163.com/album?id=34721316"
+    }
+  },
+  {
+    "name": "ブルーバード - (青鸟)",
+    "link": "https://music.163.com/song?id=718765",
+    "duration": "03:35",
+    "artists": [
+      {
+        "name": "いきものがかり",
+        "link": "https://music.163.com/artist?id=19270"
+      }
+    ],
+    "album": {
+      "name": "ブルーバード",
+      "link": "https://music.163.com/album?id=70331"
+    }
+  },
+  {
+    "name": "aranami - (TV动画《听我的电波吧》片头曲)",
+    "link": "https://music.163.com/song?id=1441322136",
+    "duration": "04:05",
+    "artists": [
+      { "name": "tacica", "link": "https://music.163.com/artist?id=21869" }
+    ],
+    "album": {
+      "name": "aranami",
+      "link": "https://music.163.com/album?id=88153339"
+    }
+  },
+  {
+    "name": "Lip & Hip",
+    "link": "https://music.163.com/song?id=522351083",
+    "duration": "03:29",
+    "artists": [
+      { "name": "泫雅", "link": "https://music.163.com/artist?id=126066" }
+    ],
+    "album": {
+      "name": "Lip & Hip",
+      "link": "https://music.163.com/album?id=36895028"
+    }
+  },
+  {
+    "name": "Rё∀L",
+    "link": "https://music.163.com/song?id=498168",
+    "duration": "04:12",
+    "artists": [
+      { "name": "Cyua", "link": "https://music.163.com/artist?id=1181299" }
+    ],
+    "album": {
+      "name": "ギルティクラウン オリジナルサウンドトラック",
+      "link": "https://music.163.com/album?id=47595"
+    }
+  },
+  {
+    "name": "Supersensible (Daniel Kandi's Bangin Remix)",
+    "link": "https://music.163.com/song?id=26341130",
+    "duration": "06:55",
+    "artists": [
+      { "name": "Adam Navel", "link": "https://music.163.com/artist?id=744269" }
+    ],
+    "album": {
+      "name": "Supersensible",
+      "link": "https://music.163.com/album?id=2456269"
+    }
+  },
+  {
+    "name": "Fear (Original Mix)",
+    "link": "https://music.163.com/song?id=30064178",
+    "duration": "05:33",
+    "artists": [
+      { "name": "Luke Bond", "link": "https://music.163.com/artist?id=191581" },
+      {
+        "name": "Danyka Nadeau",
+        "link": "https://music.163.com/artist?id=1078277"
+      }
+    ],
+    "album": {
+      "name": "Fear",
+      "link": "https://music.163.com/album?id=3093030"
+    }
+  },
+  {
+    "name": "Radiate (Radio Mix)",
+    "link": "https://music.163.com/song?id=17404257",
+    "duration": "02:59",
+    "artists": [
+      { "name": "Dinka", "link": "https://music.163.com/artist?id=55403" },
+      {
+        "name": "Julie Thompson",
+        "link": "https://music.163.com/artist?id=62648"
+      }
+    ],
+    "album": {
+      "name": "Tales of the Sun",
+      "link": "https://music.163.com/album?id=1603523"
+    }
+  },
+  {
+    "name": "Soulmates (Citylanes Edit)",
+    "link": "https://music.163.com/song?id=26373065",
+    "duration": "07:42",
+    "artists": [
+      { "name": "Mango", "link": "https://music.163.com/artist?id=861423" }
+    ],
+    "album": {
+      "name": "Citylanes Airplanes",
+      "link": "https://music.163.com/album?id=2470010"
+    }
+  },
+  {
+    "name": "고마워 - (谢谢)",
+    "link": "https://music.163.com/song?id=544151646",
+    "duration": "03:46",
+    "artists": [
+      { "name": "GOT7", "link": "https://music.163.com/artist?id=881021" }
+    ],
+    "album": {
+      "name": "EYES ON YOU",
+      "link": "https://music.163.com/album?id=37873480"
+    }
+  },
+  {
+    "name": "Replica",
+    "link": "https://music.163.com/song?id=22724018",
+    "duration": "04:09",
+    "artists": [
+      {
+        "name": "凛として時雨",
+        "link": "https://music.163.com/artist?id=160421"
+      }
+    ],
+    "album": {
+      "name": "Still a Sigure Virgin?",
+      "link": "https://music.163.com/album?id=2086033"
+    }
+  },
+  {
+    "name": "NUMB",
+    "link": "https://music.163.com/song?id=545350938",
+    "duration": "03:06",
+    "artists": [
+      {
+        "name": "XXXTENTACION",
+        "link": "https://music.163.com/artist?id=12107961"
+      }
+    ],
+    "album": { "name": "?", "link": "https://music.163.com/album?id=37873747" }
+  }
+]

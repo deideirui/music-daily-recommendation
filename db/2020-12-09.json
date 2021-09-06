@@ -1,0 +1,456 @@
+[
+  {
+    "name": "Miracles",
+    "link": "https://music.163.com/song?id=1363601127",
+    "duration": "03:11",
+    "artists": [
+      {
+        "name": "Axel Johansson",
+        "link": "https://music.163.com/artist?id=12872604"
+      },
+      {
+        "name": "Tina Stachowiak",
+        "link": "https://music.163.com/artist?id=905727"
+      }
+    ],
+    "album": {
+      "name": "Miracles",
+      "link": "https://music.163.com/album?id=78957694"
+    }
+  },
+  {
+    "name": "We'll Meet Again",
+    "link": "https://music.163.com/song?id=1457772407",
+    "duration": "03:15",
+    "artists": [
+      {
+        "name": "TheFatRat",
+        "link": "https://music.163.com/artist?id=1019952"
+      },
+      {
+        "name": "Laura Brehm",
+        "link": "https://music.163.com/artist?id=207693"
+      }
+    ],
+    "album": {
+      "name": "We'll Meet Again",
+      "link": "https://music.163.com/album?id=91437445"
+    }
+  },
+  {
+    "name": "Frontlines (feat. Jessica Chertock)",
+    "link": "https://music.163.com/song?id=1436961238",
+    "duration": "02:32",
+    "artists": [
+      { "name": "MKJ", "link": "https://music.163.com/artist?id=469200" },
+      {
+        "name": "Jessica Chertock",
+        "link": "https://music.163.com/artist?id=33521647"
+      }
+    ],
+    "album": {
+      "name": "Frontlines (feat. Jessica Chertock)",
+      "link": "https://music.163.com/album?id=87506663"
+    }
+  },
+  {
+    "name": "Older",
+    "link": "https://music.163.com/song?id=1323832567",
+    "duration": "03:11",
+    "artists": [
+      {
+        "name": "Sasha Sloan",
+        "link": "https://music.163.com/artist?id=12646102"
+      }
+    ],
+    "album": {
+      "name": "Older",
+      "link": "https://music.163.com/album?id=74311921"
+    }
+  },
+  {
+    "name": "Ends of the Earth",
+    "link": "https://music.163.com/song?id=41666272",
+    "duration": "04:31",
+    "artists": [
+      {
+        "name": "Marcus Warner",
+        "link": "https://music.163.com/artist?id=1046308"
+      }
+    ],
+    "album": {
+      "name": "Oceans",
+      "link": "https://music.163.com/album?id=3451718"
+    }
+  },
+  {
+    "name": "Only the Brave",
+    "link": "https://music.163.com/song?id=1344291729",
+    "duration": "04:50",
+    "artists": [
+      { "name": "LeBrock", "link": "https://music.163.com/artist?id=13970913" }
+    ],
+    "album": {
+      "name": "Real Thing (Remastered)",
+      "link": "https://music.163.com/album?id=75462145"
+    }
+  },
+  {
+    "name": "Tomorrow People (Original Mix)",
+    "link": "https://music.163.com/song?id=28832098",
+    "duration": "05:12",
+    "artists": [
+      { "name": "Omnia", "link": "https://music.163.com/artist?id=179006" }
+    ],
+    "album": {
+      "name": "Tomorrow People",
+      "link": "https://music.163.com/album?id=2905020"
+    }
+  },
+  {
+    "name": "Shattered (feat. RUNN)",
+    "link": "https://music.163.com/song?id=1429601886",
+    "duration": "04:12",
+    "artists": [
+      { "name": "MitiS", "link": "https://music.163.com/artist?id=40245" },
+      { "name": "Runn", "link": "https://music.163.com/artist?id=15237536" }
+    ],
+    "album": {
+      "name": "Shattered EP (Remixes)",
+      "link": "https://music.163.com/album?id=86367600"
+    }
+  },
+  {
+    "name": "Around The World",
+    "link": "https://music.163.com/song?id=1356229860",
+    "duration": "04:43",
+    "artists": [
+      { "name": "Jai Wolf", "link": "https://music.163.com/artist?id=1063048" },
+      { "name": "Now, Now", "link": "https://music.163.com/artist?id=98015" }
+    ],
+    "album": {
+      "name": "The Cure To Loneliness",
+      "link": "https://music.163.com/album?id=78300643"
+    }
+  },
+  {
+    "name": "forever free",
+    "link": "https://music.163.com/song?id=1309123909",
+    "duration": "06:22",
+    "artists": [
+      { "name": "San Holo", "link": "https://music.163.com/artist?id=1017035" },
+      { "name": "Duskus", "link": "https://music.163.com/artist?id=1045080" }
+    ],
+    "album": {
+      "name": "album1",
+      "link": "https://music.163.com/album?id=73335204"
+    }
+  },
+  {
+    "name": "Spring Valley (Original Mix)",
+    "link": "https://music.163.com/song?id=26441995",
+    "duration": "05:52",
+    "artists": [
+      { "name": "Dinka", "link": "https://music.163.com/artist?id=55403" }
+    ],
+    "album": {
+      "name": "Closer",
+      "link": "https://music.163.com/album?id=2500594"
+    }
+  },
+  {
+    "name": "Weird",
+    "link": "https://music.163.com/song?id=862098838",
+    "duration": "02:44",
+    "artists": [
+      { "name": "TV Noise", "link": "https://music.163.com/artist?id=905771" }
+    ],
+    "album": {
+      "name": "Weird",
+      "link": "https://music.163.com/album?id=71611830"
+    }
+  },
+  {
+    "name": "Clear Eyes, Full Heart",
+    "link": "https://music.163.com/song?id=545276856",
+    "duration": "02:53",
+    "artists": [
+      { "name": "X-Ray Dog", "link": "https://music.163.com/artist?id=105618" }
+    ],
+    "album": {
+      "name": "Boxer",
+      "link": "https://music.163.com/album?id=37924307"
+    }
+  },
+  {
+    "name": "Fade ",
+    "link": "https://music.163.com/song?id=445143675",
+    "duration": "03:27",
+    "artists": [
+      {
+        "name": "Adventure Club",
+        "link": "https://music.163.com/artist?id=792045"
+      },
+      { "name": "Zak Waters", "link": "https://music.163.com/artist?id=46367" }
+    ],
+    "album": {
+      "name": "Red // Blue",
+      "link": "https://music.163.com/album?id=35012476"
+    }
+  },
+  {
+    "name": "Island",
+    "link": "https://music.163.com/song?id=1329900090",
+    "duration": "04:38",
+    "artists": [
+      {
+        "name": "Seven Lions",
+        "link": "https://music.163.com/artist?id=44204"
+      },
+      { "name": "Wooli", "link": "https://music.163.com/artist?id=12203238" },
+      { "name": "Trivecta", "link": "https://music.163.com/artist?id=954338" },
+      { "name": "Nevve", "link": "https://music.163.com/artist?id=12567101" }
+    ],
+    "album": {
+      "name": "Island",
+      "link": "https://music.163.com/album?id=74686230"
+    }
+  },
+  {
+    "name": "Choirs",
+    "link": "https://music.163.com/song?id=866151103",
+    "duration": "03:02",
+    "artists": [
+      { "name": "Ashe", "link": "https://music.163.com/artist?id=12278097" }
+    ],
+    "album": {
+      "name": "The Rabbit Hole",
+      "link": "https://music.163.com/album?id=71816440"
+    }
+  },
+  {
+    "name": "Tremble",
+    "link": "https://music.163.com/song?id=26895343",
+    "duration": "03:00",
+    "artists": [
+      { "name": "Vicetone", "link": "https://music.163.com/artist?id=747030" }
+    ],
+    "album": {
+      "name": "Sensation Into the Wild",
+      "link": "https://music.163.com/album?id=2550429"
+    }
+  },
+  {
+    "name": "Deep Blue",
+    "link": "https://music.163.com/song?id=1446433390",
+    "duration": "03:57",
+    "artists": [
+      {
+        "name": "The Midnight",
+        "link": "https://music.163.com/artist?id=12023492"
+      }
+    ],
+    "album": {
+      "name": "Deep Blue",
+      "link": "https://music.163.com/album?id=89130624"
+    }
+  },
+  {
+    "name": "你是落日弥漫的橘，天边透亮的星",
+    "link": "https://music.163.com/song?id=1463366813",
+    "duration": "03:18",
+    "artists": [
+      { "name": "Hea2t", "link": "https://music.163.com/artist?id=12020036" }
+    ],
+    "album": {
+      "name": "你是落日弥漫的橘，天边透亮的星",
+      "link": "https://music.163.com/album?id=92445455"
+    }
+  },
+  {
+    "name": "Real Shit",
+    "link": "https://music.163.com/song?id=1356160049",
+    "duration": "02:44",
+    "artists": [
+      { "name": "Boehm", "link": "https://music.163.com/artist?id=805212" }
+    ],
+    "album": {
+      "name": "Real Shit",
+      "link": "https://music.163.com/album?id=78290996"
+    }
+  },
+  {
+    "name": "Jaw Drop",
+    "link": "https://music.163.com/song?id=1456124250",
+    "duration": "02:53",
+    "artists": [
+      { "name": "Curbi", "link": "https://music.163.com/artist?id=1049915" }
+    ],
+    "album": {
+      "name": "Jaw Drop",
+      "link": "https://music.163.com/album?id=91082565"
+    }
+  },
+  {
+    "name": "Because Of You",
+    "link": "https://music.163.com/song?id=554244881",
+    "duration": "03:31",
+    "artists": [
+      {
+        "name": "Steve Void",
+        "link": "https://music.163.com/artist?id=12062200"
+      },
+      { "name": "Big Z", "link": "https://music.163.com/artist?id=189752" },
+      {
+        "name": "Bri Tolani",
+        "link": "https://music.163.com/artist?id=12203231"
+      }
+    ],
+    "album": {
+      "name": "Because Of You",
+      "link": "https://music.163.com/album?id=38430247"
+    }
+  },
+  {
+    "name": "Rollercoaster",
+    "link": "https://music.163.com/song?id=28748227",
+    "duration": "03:11",
+    "artists": [
+      { "name": "Bean", "link": "https://music.163.com/artist?id=401383" }
+    ],
+    "album": {
+      "name": "Rollercoaster - EP",
+      "link": "https://music.163.com/album?id=2866690"
+    }
+  },
+  {
+    "name": "Sunsoaked",
+    "link": "https://music.163.com/song?id=1302066604",
+    "duration": "03:16",
+    "artists": [
+      {
+        "name": "Adib Sin",
+        "link": "https://music.163.com/artist?id=12244027"
+      },
+      { "name": "Salsa", "link": "https://music.163.com/artist?id=141594" }
+    ],
+    "album": {
+      "name": "Sunsoaked",
+      "link": "https://music.163.com/album?id=72303005"
+    }
+  },
+  {
+    "name": "慢慢等 (Live)",
+    "link": "https://music.163.com/song?id=1486060197",
+    "duration": "03:37",
+    "artists": [
+      { "name": "刘瑞琦", "link": "https://music.163.com/artist?id=840134" },
+      {
+        "name": "音乐好朋友",
+        "link": "https://music.163.com/artist?id=37547047"
+      }
+    ],
+    "album": {
+      "name": "音乐好朋友 第三季",
+      "link": "https://music.163.com/album?id=95951744"
+    }
+  },
+  {
+    "name": "Once Upon a Time",
+    "link": "https://music.163.com/song?id=1299570939",
+    "duration": "03:26",
+    "artists": [
+      {
+        "name": "Max Oazo",
+        "link": "https://music.163.com/artist?id=13159084"
+      },
+      { "name": "Moonessa", "link": "https://music.163.com/artist?id=29834706" }
+    ],
+    "album": {
+      "name": "Once Upon a Time",
+      "link": "https://music.163.com/album?id=72073258"
+    }
+  },
+  {
+    "name": "Landslide",
+    "link": "https://music.163.com/song?id=1427819955",
+    "duration": "03:30",
+    "artists": [
+      { "name": "Noorlind", "link": "https://music.163.com/artist?id=34489206" }
+    ],
+    "album": {
+      "name": "Landslide",
+      "link": "https://music.163.com/album?id=86191614"
+    }
+  },
+  {
+    "name": "Come And Get It (Razihel Remix)",
+    "link": "https://music.163.com/song?id=26193501",
+    "duration": "03:38",
+    "artists": [
+      { "name": "Krewella", "link": "https://music.163.com/artist?id=208915" },
+      { "name": "Razihel", "link": "https://music.163.com/artist?id=331285" }
+    ],
+    "album": {
+      "name": "Come & Get It (The Remixes)",
+      "link": "https://music.163.com/album?id=2419268"
+    }
+  },
+  {
+    "name": "Lost Song",
+    "link": "https://music.163.com/song?id=479423003",
+    "duration": "08:08",
+    "artists": [
+      {
+        "name": "Roald Velden",
+        "link": "https://music.163.com/artist?id=178498"
+      }
+    ],
+    "album": {
+      "name": "Lost Song",
+      "link": "https://music.163.com/album?id=35543399"
+    }
+  },
+  {
+    "name": "When the Sun Goes Down (Extended Mix)",
+    "link": "https://music.163.com/song?id=472948174",
+    "duration": "07:14",
+    "artists": [
+      { "name": "Talamanca", "link": "https://music.163.com/artist?id=355244" }
+    ],
+    "album": {
+      "name": "Arrivals & Departures",
+      "link": "https://music.163.com/album?id=35392056"
+    }
+  },
+  {
+    "name": "A New Life",
+    "link": "https://music.163.com/song?id=36664662",
+    "duration": "04:28",
+    "artists": [
+      {
+        "name": "Must Save Jane!",
+        "link": "https://music.163.com/artist?id=762150"
+      }
+    ],
+    "album": {
+      "name": "MSJ 0010 Rebirth",
+      "link": "https://music.163.com/album?id=3395776"
+    }
+  },
+  {
+    "name": "Dancing With Your Ghost",
+    "link": "https://music.163.com/song?id=1374329431",
+    "duration": "03:17",
+    "artists": [
+      {
+        "name": "Sasha Sloan",
+        "link": "https://music.163.com/artist?id=12646102"
+      }
+    ],
+    "album": {
+      "name": "Dancing With Your Ghost",
+      "link": "https://music.163.com/album?id=80029518"
+    }
+  }
+]

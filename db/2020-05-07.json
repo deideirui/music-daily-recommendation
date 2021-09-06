@@ -1,0 +1,427 @@
+[
+  {
+    "name": "Lost ",
+    "link": "https://music.163.com/song?id=1299998060",
+    "duration": "04:01",
+    "artists": [
+      { "name": "Jai Wolf", "link": "https://music.163.com/artist?id=1063048" },
+      {
+        "name": "Chelsea Jade",
+        "link": "https://music.163.com/artist?id=12155341"
+      }
+    ],
+    "album": {
+      "name": "Lost",
+      "link": "https://music.163.com/album?id=72199345"
+    }
+  },
+  {
+    "name": "Somebody Else",
+    "link": "https://music.163.com/song?id=403392207",
+    "duration": "05:47",
+    "artists": [
+      { "name": "The 1975", "link": "https://music.163.com/artist?id=104457" }
+    ],
+    "album": {
+      "name": "I like it when you sleep, for you are so beautiful yet so unaware of it",
+      "link": "https://music.163.com/album?id=34422401"
+    }
+  },
+  {
+    "name": "Middle Finger",
+    "link": "https://music.163.com/song?id=1321276032",
+    "duration": "03:49",
+    "artists": [
+      { "name": "Bohnes", "link": "https://music.163.com/artist?id=12931022" }
+    ],
+    "album": {
+      "name": "Middle Finger",
+      "link": "https://music.163.com/album?id=74142214"
+    }
+  },
+  {
+    "name": "Crumble",
+    "link": "https://music.163.com/song?id=1352962927",
+    "duration": "03:09",
+    "artists": [
+      {
+        "name": "Fairlane",
+        "link": "https://music.163.com/artist?id=12665028"
+      },
+      { "name": "Trove", "link": "https://music.163.com/artist?id=12390270" }
+    ],
+    "album": {
+      "name": "Crumble",
+      "link": "https://music.163.com/album?id=75905030"
+    }
+  },
+  {
+    "name": "Ontario",
+    "link": "https://music.163.com/song?id=517902795",
+    "duration": "03:12",
+    "artists": [
+      { "name": "Novo Amor", "link": "https://music.163.com/artist?id=904041" },
+      {
+        "name": "Ed Tullett",
+        "link": "https://music.163.com/artist?id=12863130"
+      }
+    ],
+    "album": {
+      "name": "Heiress",
+      "link": "https://music.163.com/album?id=36771113"
+    }
+  },
+  {
+    "name": "Over And Over",
+    "link": "https://music.163.com/song?id=28391259",
+    "duration": "03:19",
+    "artists": [
+      { "name": "MIKESCHAIR", "link": "https://music.163.com/artist?id=39615" }
+    ],
+    "album": {
+      "name": "All Or Nothing",
+      "link": "https://music.163.com/album?id=2786054"
+    }
+  },
+  {
+    "name": "Nothing Compares 2 U",
+    "link": "https://music.163.com/song?id=1385468286",
+    "duration": "03:30",
+    "artists": [
+      {
+        "name": "Tim3bomb",
+        "link": "https://music.163.com/artist?id=12047455"
+      },
+      { "name": "Tim Schou", "link": "https://music.163.com/artist?id=932066" }
+    ],
+    "album": {
+      "name": "Nothing Compares 2 U",
+      "link": "https://music.163.com/album?id=81054669"
+    }
+  },
+  {
+    "name": "Like This Guy",
+    "link": "https://music.163.com/song?id=516765347",
+    "duration": "02:13",
+    "artists": [
+      { "name": "Bülow", "link": "https://music.163.com/artist?id=12809019" }
+    ],
+    "album": {
+      "name": "Damaged Vol. 1",
+      "link": "https://music.163.com/album?id=36694354"
+    }
+  },
+  {
+    "name": "Waves",
+    "link": "https://music.163.com/song?id=486999885",
+    "duration": "04:23",
+    "artists": [
+      {
+        "name": "Canyon City",
+        "link": "https://music.163.com/artist?id=12474881"
+      }
+    ],
+    "album": {
+      "name": "Midnight Waves",
+      "link": "https://music.163.com/album?id=35663735"
+    }
+  },
+  {
+    "name": "The Sixth Axis",
+    "link": "https://music.163.com/song?id=506139203",
+    "duration": "05:17",
+    "artists": [
+      {
+        "name": "John Stanford",
+        "link": "https://music.163.com/artist?id=37294"
+      }
+    ],
+    "album": {
+      "name": "Automatica",
+      "link": "https://music.163.com/album?id=36049733"
+    }
+  },
+  {
+    "name": "Pushing 21",
+    "link": "https://music.163.com/song?id=1354240664",
+    "duration": "03:27",
+    "artists": [
+      {
+        "name": "Liv Dawson",
+        "link": "https://music.163.com/artist?id=12046546"
+      }
+    ],
+    "album": {
+      "name": "Pushing 21",
+      "link": "https://music.163.com/album?id=78193658"
+    }
+  },
+  {
+    "name": "Loyal",
+    "link": "https://music.163.com/song?id=1386012372",
+    "duration": "03:16",
+    "artists": [
+      {
+        "name": "YOUNG BOMBS",
+        "link": "https://music.163.com/artist?id=1137360"
+      },
+      { "name": "Gigi", "link": "https://music.163.com/artist?id=28083466" }
+    ],
+    "album": {
+      "name": "Loyal",
+      "link": "https://music.163.com/album?id=81100110"
+    }
+  },
+  {
+    "name": "How To Break A Heart",
+    "link": "https://music.163.com/song?id=20707424",
+    "duration": "04:04",
+    "artists": [
+      { "name": "Westlife", "link": "https://music.163.com/artist?id=45839" }
+    ],
+    "album": {
+      "name": "Where We Are",
+      "link": "https://music.163.com/album?id=1923795"
+    }
+  },
+  {
+    "name": "I Don’t Like It, I Love It (feat. Robin Thicke & Verdine White)",
+    "link": "https://music.163.com/song?id=31234342",
+    "duration": "03:44",
+    "artists": [
+      {
+        "name": "Robin Thicke",
+        "link": "https://music.163.com/artist?id=41947"
+      },
+      { "name": "Flo Rida", "link": "https://music.163.com/artist?id=56783" }
+    ],
+    "album": {
+      "name": "My House",
+      "link": "https://music.163.com/album?id=3104701"
+    }
+  },
+  {
+    "name": "Don't Panic",
+    "link": "https://music.163.com/song?id=862239356",
+    "duration": "03:11",
+    "artists": [
+      { "name": "XYLØ", "link": "https://music.163.com/artist?id=1050511" }
+    ],
+    "album": {
+      "name": "Don't Panic",
+      "link": "https://music.163.com/album?id=71629393"
+    }
+  },
+  {
+    "name": "In Reverse",
+    "link": "https://music.163.com/song?id=550616199",
+    "duration": "04:23",
+    "artists": [
+      { "name": "Tsundere", "link": "https://music.163.com/artist?id=13807098" }
+    ],
+    "album": {
+      "name": "In Reverse",
+      "link": "https://music.163.com/album?id=38099153"
+    }
+  },
+  {
+    "name": "Throw It All Away",
+    "link": "https://music.163.com/song?id=1380257292",
+    "duration": "03:14",
+    "artists": [
+      { "name": "Madnap", "link": "https://music.163.com/artist?id=896042" },
+      { "name": "SMLE", "link": "https://music.163.com/artist?id=1084201" }
+    ],
+    "album": {
+      "name": "Throw It All Away",
+      "link": "https://music.163.com/album?id=80620359"
+    }
+  },
+  {
+    "name": "Life Moves On",
+    "link": "https://music.163.com/song?id=552160193",
+    "duration": "04:11",
+    "artists": [
+      { "name": "FINNEAS", "link": "https://music.163.com/artist?id=12676847" }
+    ],
+    "album": {
+      "name": "Life Moves On",
+      "link": "https://music.163.com/album?id=38099486"
+    }
+  },
+  {
+    "name": "Peace",
+    "link": "https://music.163.com/song?id=1356492618",
+    "duration": "02:57",
+    "artists": [
+      {
+        "name": "Alison Wonderland",
+        "link": "https://music.163.com/artist?id=791304"
+      }
+    ],
+    "album": {
+      "name": "Peace",
+      "link": "https://music.163.com/album?id=78324761"
+    }
+  },
+  {
+    "name": "Enchanted",
+    "link": "https://music.163.com/song?id=1807794",
+    "duration": "05:01",
+    "artists": [
+      { "name": "Owl City", "link": "https://music.163.com/artist?id=40859" }
+    ],
+    "album": {
+      "name": "Enchanted",
+      "link": "https://music.163.com/album?id=182584"
+    }
+  },
+  {
+    "name": "Last Night Every Night",
+    "link": "https://music.163.com/song?id=1341670329",
+    "duration": "03:08",
+    "artists": [
+      {
+        "name": "Hannah Jane Lewis",
+        "link": "https://music.163.com/artist?id=1049129"
+      }
+    ],
+    "album": {
+      "name": "Last Night Every Night",
+      "link": "https://music.163.com/album?id=75307431"
+    }
+  },
+  {
+    "name": "This I Promise You",
+    "link": "https://music.163.com/song?id=488654250",
+    "duration": "03:55",
+    "artists": [
+      {
+        "name": "Shane Filan",
+        "link": "https://music.163.com/artist?id=806048"
+      }
+    ],
+    "album": {
+      "name": "Love Always",
+      "link": "https://music.163.com/album?id=35670843"
+    }
+  },
+  {
+    "name": ":(",
+    "link": "https://music.163.com/song?id=1359492224",
+    "duration": "03:08",
+    "artists": [
+      { "name": "Bahari", "link": "https://music.163.com/artist?id=1044218" }
+    ],
+    "album": { "name": ":(", "link": "https://music.163.com/album?id=78582769" }
+  },
+  {
+    "name": "Feel the Same",
+    "link": "https://music.163.com/song?id=1322356404",
+    "duration": "03:11",
+    "artists": [
+      { "name": "Olly Murs", "link": "https://music.163.com/artist?id=41034" }
+    ],
+    "album": {
+      "name": "You Know I Know (Deluxe)",
+      "link": "https://music.163.com/album?id=74214813"
+    }
+  },
+  {
+    "name": "This Is The Morning",
+    "link": "https://music.163.com/song?id=3985412",
+    "duration": "01:15",
+    "artists": [
+      { "name": "Club 8", "link": "https://music.163.com/artist?id=89361" }
+    ],
+    "album": {
+      "name": "Best Wishes - Best Of Club 8",
+      "link": "https://music.163.com/album?id=403098"
+    }
+  },
+  {
+    "name": "Final Song (OutaMatic Remix)",
+    "link": "https://music.163.com/song?id=427614378",
+    "duration": "03:55",
+    "artists": [
+      {
+        "name": "OutaMatic",
+        "link": "https://music.163.com/artist?id=1181741"
+      },
+      { "name": "MØ", "link": "https://music.163.com/artist?id=783150" }
+    ],
+    "album": {
+      "name": " Final Song (OutaMatic Remix)",
+      "link": "https://music.163.com/album?id=34840772"
+    }
+  },
+  {
+    "name": "colorblind",
+    "link": "https://music.163.com/song?id=1401899720",
+    "duration": "03:14",
+    "artists": [
+      { "name": "Mokita", "link": "https://music.163.com/artist?id=12033046" }
+    ],
+    "album": {
+      "name": "colorblind",
+      "link": "https://music.163.com/album?id=83102480"
+    }
+  },
+  {
+    "name": "Reach For The Sky (Original Mix)",
+    "link": "https://music.163.com/song?id=28790714",
+    "duration": "06:49",
+    "artists": [
+      { "name": "Estiva", "link": "https://music.163.com/artist?id=789773" },
+      { "name": "Justin Oh", "link": "https://music.163.com/artist?id=791424" },
+      {
+        "name": "Justin Oh F. Abby Rae",
+        "link": "https://music.163.com/artist?id=904235"
+      }
+    ],
+    "album": {
+      "name": "Vocal Trance 2014 - The Collection",
+      "link": "https://music.163.com/album?id=2892878"
+    }
+  },
+  {
+    "name": "Free Fall",
+    "link": "https://music.163.com/song?id=507585217",
+    "duration": "03:25",
+    "artists": [
+      { "name": "ILLENIUM", "link": "https://music.163.com/artist?id=1050518" },
+      { "name": "Runn", "link": "https://music.163.com/artist?id=15237536" }
+    ],
+    "album": {
+      "name": "Awake",
+      "link": "https://music.163.com/album?id=36290028"
+    }
+  },
+  {
+    "name": "Car Park",
+    "link": "https://music.163.com/song?id=551340498",
+    "duration": "02:53",
+    "artists": [
+      {
+        "name": "Fenne Lily",
+        "link": "https://music.163.com/artist?id=12132176"
+      }
+    ],
+    "album": {
+      "name": "Car Park",
+      "link": "https://music.163.com/album?id=38034003"
+    }
+  },
+  {
+    "name": "Drift",
+    "link": "https://music.163.com/song?id=34280827",
+    "duration": "03:35",
+    "artists": [
+      { "name": " Satchmode", "link": "https://music.163.com/artist?id=858541" }
+    ],
+    "album": {
+      "name": "Afterglow",
+      "link": "https://music.163.com/album?id=3280053"
+    }
+  }
+]

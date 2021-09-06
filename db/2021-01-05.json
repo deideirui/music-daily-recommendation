@@ -1,0 +1,466 @@
+[
+  {
+    "name": "Bloodstream",
+    "link": "https://music.163.com/song?id=470547650",
+    "duration": "03:44",
+    "artists": [
+      {
+        "name": "The Chainsmokers",
+        "link": "https://music.163.com/artist?id=893484"
+      },
+      {
+        "name": "Phoebe Ryan",
+        "link": "https://music.163.com/artist?id=854363"
+      }
+    ],
+    "album": {
+      "name": "Memories...Do Not Open",
+      "link": "https://music.163.com/album?id=35347078"
+    }
+  },
+  {
+    "name": "Beat Again",
+    "link": "https://music.163.com/song?id=33035575",
+    "duration": "03:02",
+    "artists": [
+      {
+        "name": "Project 46",
+        "link": "https://music.163.com/artist?id=776674"
+      },
+      { "name": "Karl Wolf", "link": "https://music.163.com/artist?id=62952" }
+    ],
+    "album": {
+      "name": "Beautiful",
+      "link": "https://music.163.com/album?id=3158277"
+    }
+  },
+  {
+    "name": "Mid-Air",
+    "link": "https://music.163.com/song?id=1311346554",
+    "duration": "03:42",
+    "artists": [
+      { "name": "Vexento", "link": "https://music.163.com/artist?id=12037010" }
+    ],
+    "album": {
+      "name": "Mid-Air",
+      "link": "https://music.163.com/album?id=73467792"
+    }
+  },
+  {
+    "name": "Future Signs",
+    "link": "https://music.163.com/song?id=1298287272",
+    "duration": "03:33",
+    "artists": [
+      { "name": "Fleurie", "link": "https://music.163.com/artist?id=860929" }
+    ],
+    "album": {
+      "name": "Portals",
+      "link": "https://music.163.com/album?id=72101155"
+    }
+  },
+  {
+    "name": "Lapse",
+    "link": "https://music.163.com/song?id=1419388376",
+    "duration": "02:51",
+    "artists": [
+      {
+        "name": "Ordinary",
+        "link": "https://music.163.com/artist?id=34578243"
+      },
+      {
+        "name": "Arch Valentines",
+        "link": "https://music.163.com/artist?id=34250309"
+      }
+    ],
+    "album": {
+      "name": "Lapse",
+      "link": "https://music.163.com/album?id=85281511"
+    }
+  },
+  {
+    "name": "Forever Young (feat. Melanie Fontana)",
+    "link": "https://music.163.com/song?id=1416675099",
+    "duration": "02:58",
+    "artists": [
+      { "name": "ARMNHMR", "link": "https://music.163.com/artist?id=1132078" },
+      {
+        "name": "Melanie Fontana",
+        "link": "https://music.163.com/artist?id=13506276"
+      }
+    ],
+    "album": {
+      "name": "The Free World",
+      "link": "https://music.163.com/album?id=84981689"
+    }
+  },
+  {
+    "name": "Miracle (Full Version) ",
+    "link": "https://music.163.com/song?id=430043546",
+    "duration": "03:40",
+    "artists": [
+      { "name": "Andreas B.", "link": "https://music.163.com/artist?id=299713" }
+    ],
+    "album": {
+      "name": "Miracle (Full Version)",
+      "link": "https://music.163.com/album?id=34874188"
+    }
+  },
+  {
+    "name": "Rasendriya",
+    "link": "https://music.163.com/song?id=1419592481",
+    "duration": "03:27",
+    "artists": [
+      {
+        "name": "THEDETSTRIKE",
+        "link": "https://music.163.com/artist?id=12628313"
+      },
+      {
+        "name": "Fakhri Violin",
+        "link": "https://music.163.com/artist?id=14254025"
+      }
+    ],
+    "album": {
+      "name": "Rasendriya",
+      "link": "https://music.163.com/album?id=85319708"
+    }
+  },
+  {
+    "name": "Give in to Me",
+    "link": "https://music.163.com/song?id=1318225360",
+    "duration": "03:46",
+    "artists": [
+      {
+        "name": "Lika Morgan",
+        "link": "https://music.163.com/artist?id=1021227"
+      }
+    ],
+    "album": {
+      "name": "Give in to Me",
+      "link": "https://music.163.com/album?id=73919722"
+    }
+  },
+  {
+    "name": "Show You Again",
+    "link": "https://music.163.com/song?id=1304848675",
+    "duration": "03:10",
+    "artists": [
+      {
+        "name": "Patrick Moreno",
+        "link": "https://music.163.com/artist?id=12440347"
+      },
+      { "name": "Sage", "link": "https://music.163.com/artist?id=896326" }
+    ],
+    "album": {
+      "name": "Show You Again",
+      "link": "https://music.163.com/album?id=72574401"
+    }
+  },
+  {
+    "name": "I Should Have Walked Away",
+    "link": "https://music.163.com/song?id=1347618242",
+    "duration": "03:22",
+    "artists": [
+      { "name": "Kaaze", "link": "https://music.163.com/artist?id=952052" },
+      {
+        "name": "Nino Lucarelli",
+        "link": "https://music.163.com/artist?id=13954602"
+      }
+    ],
+    "album": {
+      "name": "I Should Have Walked Away",
+      "link": "https://music.163.com/album?id=75662680"
+    }
+  },
+  {
+    "name": "Show Me",
+    "link": "https://music.163.com/song?id=1436309747",
+    "duration": "02:54",
+    "artists": [
+      { "name": "Habstrakt", "link": "https://music.163.com/artist?id=777647" }
+    ],
+    "album": {
+      "name": "Show Me",
+      "link": "https://music.163.com/album?id=87268580"
+    }
+  },
+  {
+    "name": "Be Here Now",
+    "link": "https://music.163.com/song?id=415904189",
+    "duration": "03:53",
+    "artists": [
+      {
+        "name": "Brennan Heart",
+        "link": "https://music.163.com/artist?id=688203"
+      },
+      {
+        "name": "Jonathan Mendelsohn",
+        "link": "https://music.163.com/artist?id=826017"
+      }
+    ],
+    "album": {
+      "name": "I AM HARDSTYLE (The Album)",
+      "link": "https://music.163.com/album?id=34726320"
+    }
+  },
+  {
+    "name": "Space Factory (Original Edit)",
+    "link": "https://music.163.com/song?id=409060047",
+    "duration": "03:30",
+    "artists": [
+      { "name": "Faizar", "link": "https://music.163.com/artist?id=12023430" }
+    ],
+    "album": {
+      "name": "Space Factory / Uncharted",
+      "link": "https://music.163.com/album?id=34589946"
+    }
+  },
+  {
+    "name": "Never Look Back (Skydrops Remix)",
+    "link": "https://music.163.com/song?id=1346050333",
+    "duration": "03:18",
+    "artists": [
+      {
+        "name": "Tom & Jame",
+        "link": "https://music.163.com/artist?id=975137"
+      },
+      {
+        "name": "Alice Berg",
+        "link": "https://music.163.com/artist?id=13202706"
+      },
+      {
+        "name": "Revealed Recordings",
+        "link": "https://music.163.com/artist?id=28753573"
+      }
+    ],
+    "album": {
+      "name": "Never Look Back (The Remixes)",
+      "link": "https://music.163.com/album?id=75556726"
+    }
+  },
+  {
+    "name": "Sweet Harmony",
+    "link": "https://music.163.com/song?id=1431929319",
+    "duration": "02:40",
+    "artists": [
+      { "name": "Stadiumx", "link": "https://music.163.com/artist?id=1004052" },
+      { "name": "Lux", "link": "https://music.163.com/artist?id=65954" }
+    ],
+    "album": {
+      "name": "Sweet Harmony",
+      "link": "https://music.163.com/album?id=86609166"
+    }
+  },
+  {
+    "name": "Where Dreams Are Made (Extended Mix)",
+    "link": "https://music.163.com/song?id=409647183",
+    "duration": "04:15",
+    "artists": [
+      { "name": "Joey Dale", "link": "https://music.163.com/artist?id=908121" }
+    ],
+    "album": {
+      "name": "Where Dreams Are Made",
+      "link": "https://music.163.com/album?id=34613075"
+    }
+  },
+  {
+    "name": "Miracles",
+    "link": "https://music.163.com/song?id=1364056395",
+    "duration": "02:48",
+    "artists": [
+      { "name": "Refuzion", "link": "https://music.163.com/artist?id=1081221" },
+      { "name": "fawlin", "link": "https://music.163.com/artist?id=32141626" }
+    ],
+    "album": {
+      "name": "Miracles",
+      "link": "https://music.163.com/album?id=79003589"
+    }
+  },
+  {
+    "name": "Never Our Fault",
+    "link": "https://music.163.com/song?id=1310022346",
+    "duration": "03:01",
+    "artists": [
+      {
+        "name": "Lucas Estrada",
+        "link": "https://music.163.com/artist?id=12409125"
+      }
+    ],
+    "album": {
+      "name": "Never Our Fault",
+      "link": "https://music.163.com/album?id=73337169"
+    }
+  },
+  {
+    "name": "Super Sensual",
+    "link": "https://music.163.com/song?id=1410143586",
+    "duration": "02:44",
+    "artists": [
+      {
+        "name": "Croatia Squad",
+        "link": "https://music.163.com/artist?id=820489"
+      }
+    ],
+    "album": {
+      "name": "Wanna Be Someone",
+      "link": "https://music.163.com/album?id=84145658"
+    }
+  },
+  {
+    "name": "Northern Lights",
+    "link": "https://music.163.com/song?id=1351963606",
+    "duration": "05:00",
+    "artists": [
+      {
+        "name": "Third Party",
+        "link": "https://music.163.com/artist?id=784231"
+      }
+    ],
+    "album": {
+      "name": "Together LP",
+      "link": "https://music.163.com/album?id=75852072"
+    }
+  },
+  {
+    "name": "Crazy (Dash Berlin Remix)",
+    "link": "https://music.163.com/song?id=536833973",
+    "duration": "03:04",
+    "artists": [
+      {
+        "name": "Lost Frequencies",
+        "link": "https://music.163.com/artist?id=1039114"
+      },
+      {
+        "name": "Zonderling",
+        "link": "https://music.163.com/artist?id=981038"
+      },
+      { "name": "Dash Berlin", "link": "https://music.163.com/artist?id=32124" }
+    ],
+    "album": {
+      "name": "Crazy",
+      "link": "https://music.163.com/album?id=37584516"
+    }
+  },
+  {
+    "name": "Up & Down",
+    "link": "https://music.163.com/song?id=1357807151",
+    "duration": "02:44",
+    "artists": [
+      { "name": "Marnik", "link": "https://music.163.com/artist?id=1005048" }
+    ],
+    "album": {
+      "name": "Up & Down",
+      "link": "https://music.163.com/album?id=78424114"
+    }
+  },
+  {
+    "name": "All I Ever Wanted",
+    "link": "https://music.163.com/song?id=1361804167",
+    "duration": "03:33",
+    "artists": [
+      {
+        "name": "WildVibes",
+        "link": "https://music.163.com/artist?id=1181751"
+      },
+      {
+        "name": "Martin Miller",
+        "link": "https://music.163.com/artist?id=12534226"
+      },
+      {
+        "name": "Arild Aas",
+        "link": "https://music.163.com/artist?id=13436856"
+      }
+    ],
+    "album": {
+      "name": "All I Ever Wanted",
+      "link": "https://music.163.com/album?id=78814883"
+    }
+  },
+  {
+    "name": "See Me",
+    "link": "https://music.163.com/song?id=1345576063",
+    "duration": "03:50",
+    "artists": [
+      { "name": "Talos", "link": "https://music.163.com/artist?id=1177180" }
+    ],
+    "album": {
+      "name": "Far Out Dust",
+      "link": "https://music.163.com/album?id=75519935"
+    }
+  },
+  {
+    "name": "Dreamcatcher",
+    "link": "https://music.163.com/song?id=19185828",
+    "duration": "02:30",
+    "artists": [
+      { "name": "Sad Souls", "link": "https://music.163.com/artist?id=101674" }
+    ],
+    "album": {
+      "name": "Apeiron",
+      "link": "https://music.163.com/album?id=1759449"
+    }
+  },
+  {
+    "name": "Bloom",
+    "link": "https://music.163.com/song?id=1354634080",
+    "duration": "03:45",
+    "artists": [
+      {
+        "name": "Tony Anderson",
+        "link": "https://music.163.com/artist?id=79757"
+      },
+      {
+        "name": "Bonnie Brooksbank",
+        "link": "https://music.163.com/artist?id=31484048"
+      }
+    ],
+    "album": {
+      "name": "Bloom",
+      "link": "https://music.163.com/album?id=78221666"
+    }
+  },
+  {
+    "name": "Brighter Days",
+    "link": "https://music.163.com/song?id=471565577",
+    "duration": "06:37",
+    "artists": [
+      {
+        "name": "Mark & Lukas",
+        "link": "https://music.163.com/artist?id=1104097"
+      }
+    ],
+    "album": {
+      "name": "Coastal Selections 003",
+      "link": "https://music.163.com/album?id=35358184"
+    }
+  },
+  {
+    "name": "So You",
+    "link": "https://music.163.com/song?id=27969803",
+    "duration": "03:03",
+    "artists": [
+      {
+        "name": "The Morning After",
+        "link": "https://music.163.com/artist?id=102474"
+      }
+    ],
+    "album": {
+      "name": "So You",
+      "link": "https://music.163.com/album?id=2705077"
+    }
+  },
+  {
+    "name": "Paradis perdus",
+    "link": "https://music.163.com/song?id=28618124",
+    "duration": "03:35",
+    "artists": [
+      {
+        "name": "Christine and the Queens",
+        "link": "https://music.163.com/artist?id=734114"
+      }
+    ],
+    "album": {
+      "name": "Chaleur Humaine",
+      "link": "https://music.163.com/album?id=2858907"
+    }
+  }
+]

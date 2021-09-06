@@ -1,0 +1,431 @@
+[
+  {
+    "name": "Electric",
+    "link": "https://music.163.com/song?id=408055512",
+    "duration": "04:39",
+    "artists": [
+      { "name": "Brett", "link": "https://music.163.com/artist?id=967045" }
+    ],
+    "album": {
+      "name": "Mode",
+      "link": "https://music.163.com/album?id=34588340"
+    }
+  },
+  {
+    "name": "Los Angeles",
+    "link": "https://music.163.com/song?id=28999945",
+    "duration": "06:29",
+    "artists": [
+      {
+        "name": "The Midnight",
+        "link": "https://music.163.com/artist?id=12023492"
+      }
+    ],
+    "album": {
+      "name": "Days of Thunder",
+      "link": "https://music.163.com/album?id=2976060"
+    }
+  },
+  {
+    "name": "lost",
+    "link": "https://music.163.com/song?id=1371714107",
+    "duration": "02:56",
+    "artists": [
+      { "name": "Loote", "link": "https://music.163.com/artist?id=12408152" }
+    ],
+    "album": {
+      "name": "lost",
+      "link": "https://music.163.com/album?id=79787129"
+    }
+  },
+  {
+    "name": "Last Minute",
+    "link": "https://music.163.com/song?id=545884122",
+    "duration": "03:26",
+    "artists": [
+      { "name": "Trinix", "link": "https://music.163.com/artist?id=11998064" }
+    ],
+    "album": {
+      "name": "Last Minute",
+      "link": "https://music.163.com/album?id=37767771"
+    }
+  },
+  {
+    "name": "Life Of Sin Pt. 6",
+    "link": "https://music.163.com/song?id=1373264025",
+    "duration": "04:26",
+    "artists": [
+      { "name": "MitiS", "link": "https://music.163.com/artist?id=40245" }
+    ],
+    "album": {
+      "name": "Life Of Sin Series (2019)",
+      "link": "https://music.163.com/album?id=79931476"
+    }
+  },
+  {
+    "name": "Weis electronic-U",
+    "link": "https://music.163.com/song?id=1347191228",
+    "duration": "03:22",
+    "artists": [
+      { "name": "阳山伟伟", "link": "https://music.163.com/artist?id=12641107" }
+    ],
+    "album": {
+      "name": "Weis electronic-U",
+      "link": "https://music.163.com/album?id=75636262"
+    }
+  },
+  {
+    "name": "Hold On To You (Mix Cut)",
+    "link": "https://music.163.com/song?id=536113674",
+    "duration": "01:31",
+    "artists": [
+      { "name": "Omnia", "link": "https://music.163.com/artist?id=179006" },
+      {
+        "name": "Danyka Nadeau",
+        "link": "https://music.163.com/artist?id=1078277"
+      }
+    ],
+    "album": {
+      "name": "Vocal Trance Hits (Mini Mix 003) - Armada Music",
+      "link": "https://music.163.com/album?id=37537468"
+    }
+  },
+  {
+    "name": "Live Like A Warrior (Richello Remix)",
+    "link": "https://music.163.com/song?id=29812321",
+    "duration": "03:33",
+    "artists": [
+      { "name": "Matisyahu", "link": "https://music.163.com/artist?id=38945" }
+    ],
+    "album": {
+      "name": "Live Like A Warrior (Richello Remix)",
+      "link": "https://music.163.com/album?id=3084046"
+    }
+  },
+  {
+    "name": "****** It Up (Gas Gas Remix)",
+    "link": "https://music.163.com/song?id=1313275097",
+    "duration": "04:13",
+    "artists": [
+      {
+        "name": "Rony Rex",
+        "link": "https://music.163.com/artist?id=29360892"
+      },
+      { "name": "LCMDF", "link": "https://music.163.com/artist?id=12929749" }
+    ],
+    "album": {
+      "name": "****** It Up (Remixed)",
+      "link": "https://music.163.com/album?id=73665870"
+    }
+  },
+  {
+    "name": "Let's Run Away",
+    "link": "https://music.163.com/song?id=408814022",
+    "duration": "03:06",
+    "artists": [
+      { "name": "Vexento", "link": "https://music.163.com/artist?id=12037010" }
+    ],
+    "album": {
+      "name": "Inspiration",
+      "link": "https://music.163.com/album?id=34594797"
+    }
+  },
+  {
+    "name": "Audio Avenue",
+    "link": "https://music.163.com/song?id=17744068",
+    "duration": "04:25",
+    "artists": [
+      { "name": "FantomenK", "link": "https://music.163.com/artist?id=33767" }
+    ],
+    "album": {
+      "name": "FantomenK",
+      "link": "https://music.163.com/album?id=1634125"
+    }
+  },
+  {
+    "name": "Body",
+    "link": "https://music.163.com/song?id=515816187",
+    "duration": "02:43",
+    "artists": [
+      {
+        "name": "Loud Luxury",
+        "link": "https://music.163.com/artist?id=12096064"
+      },
+      { "name": "Brando", "link": "https://music.163.com/artist?id=49787" }
+    ],
+    "album": {
+      "name": "Body",
+      "link": "https://music.163.com/album?id=36682163"
+    }
+  },
+  {
+    "name": "I'm Crazy in Love",
+    "link": "https://music.163.com/song?id=32548285",
+    "duration": "04:09",
+    "artists": [
+      { "name": "DJ Project", "link": "https://music.163.com/artist?id=91079" },
+      { "name": "Giulia", "link": "https://music.163.com/artist?id=59153" }
+    ],
+    "album": {
+      "name": "I'm Crazy in Love",
+      "link": "https://music.163.com/album?id=3162636"
+    }
+  },
+  {
+    "name": "2AM (Matoma Remix)",
+    "link": "https://music.163.com/song?id=32526633",
+    "duration": "03:56",
+    "artists": [
+      { "name": "Astrid S", "link": "https://music.163.com/artist?id=1081844" },
+      { "name": "Matoma", "link": "https://music.163.com/artist?id=1054100" }
+    ],
+    "album": {
+      "name": "2AM (Remixes)",
+      "link": "https://music.163.com/album?id=3162538"
+    }
+  },
+  {
+    "name": "Take My Breath Away",
+    "link": "https://music.163.com/song?id=436514012",
+    "duration": "03:08",
+    "artists": [
+      { "name": "Alesso", "link": "https://music.163.com/artist?id=29251" }
+    ],
+    "album": {
+      "name": "Take My Breath Away",
+      "link": "https://music.163.com/album?id=34929244"
+    }
+  },
+  {
+    "name": "Antisocial",
+    "link": "https://music.163.com/song?id=550124208",
+    "duration": "02:42",
+    "artists": [
+      { "name": "BEAUZ", "link": "https://music.163.com/artist?id=12131436" },
+      {
+        "name": "Heather Sommer",
+        "link": "https://music.163.com/artist?id=13134228"
+      }
+    ],
+    "album": {
+      "name": "Antisocial",
+      "link": "https://music.163.com/album?id=38226050"
+    }
+  },
+  {
+    "name": "Open Eyes (MaHi Remix)",
+    "link": "https://music.163.com/song?id=426850771",
+    "duration": "03:56",
+    "artists": [
+      { "name": "MaHi", "link": "https://music.163.com/artist?id=1015367" },
+      { "name": "Estiva", "link": "https://music.163.com/artist?id=789773" },
+      { "name": "Adara", "link": "https://music.163.com/artist?id=1177069" }
+    ],
+    "album": {
+      "name": "Open Eyes (MaHi Remix)",
+      "link": "https://music.163.com/album?id=34839247"
+    }
+  },
+  {
+    "name": "Die Young",
+    "link": "https://music.163.com/song?id=25704014",
+    "duration": "03:33",
+    "artists": [
+      { "name": "Kesha", "link": "https://music.163.com/artist?id=63901" }
+    ],
+    "album": {
+      "name": "Die Young",
+      "link": "https://music.163.com/album?id=2284003"
+    }
+  },
+  {
+    "name": "Higher Ground ",
+    "link": "https://music.163.com/song?id=28953085",
+    "duration": "03:31",
+    "artists": [
+      { "name": "Blonde", "link": "https://music.163.com/artist?id=584202" }
+    ],
+    "album": {
+      "name": "Higher Ground",
+      "link": "https://music.163.com/album?id=2957018"
+    }
+  },
+  {
+    "name": "Empire (Instrumental)",
+    "link": "https://music.163.com/song?id=409830458",
+    "duration": "05:16",
+    "artists": [
+      { "name": "Voicians", "link": "https://music.163.com/artist?id=45804" }
+    ],
+    "album": {
+      "name": "Empire",
+      "link": "https://music.163.com/album?id=34609271"
+    }
+  },
+  {
+    "name": "中二也要弹钢琴",
+    "link": "https://music.163.com/song?id=34779260",
+    "duration": "02:43",
+    "artists": [
+      { "name": "徐梦圆", "link": "https://music.163.com/artist?id=1142042" }
+    ],
+    "album": {
+      "name": "曾经的纯音乐",
+      "link": "https://music.163.com/album?id=3298101"
+    }
+  },
+  {
+    "name": "Aspiration",
+    "link": "https://music.163.com/song?id=416552509",
+    "duration": "04:26",
+    "artists": [
+      { "name": "Teminite", "link": "https://music.163.com/artist?id=1049513" }
+    ],
+    "album": {
+      "name": "Inception",
+      "link": "https://music.163.com/album?id=34735091"
+    }
+  },
+  {
+    "name": "Me and My Broken Heart",
+    "link": "https://music.163.com/song?id=28308080",
+    "duration": "03:14",
+    "artists": [
+      { "name": "Rixton", "link": "https://music.163.com/artist?id=840899" }
+    ],
+    "album": {
+      "name": "Me and My Broken Heart",
+      "link": "https://music.163.com/album?id=2771094"
+    }
+  },
+  {
+    "name": "Find Me Again (Jeongwoo Park Remix)",
+    "link": "https://music.163.com/song?id=458725722",
+    "duration": "02:56",
+    "artists": [
+      {
+        "name": "The Dirty Code",
+        "link": "https://music.163.com/artist?id=1050246"
+      },
+      {
+        "name": "Jeongwoo Park",
+        "link": "https://music.163.com/artist?id=12046246"
+      },
+      { "name": "Skyknock", "link": "https://music.163.com/artist?id=955117" },
+      { "name": "Bettina", "link": "https://music.163.com/artist?id=12526564" }
+    ],
+    "album": {
+      "name": "Find Me Again (Jeongwoo Park Remix) ",
+      "link": "https://music.163.com/album?id=35157986"
+    }
+  },
+  {
+    "name": "Call Me Maybe",
+    "link": "https://music.163.com/song?id=17112299",
+    "duration": "03:13",
+    "artists": [
+      {
+        "name": "Carly Rae Jepsen",
+        "link": "https://music.163.com/artist?id=50934"
+      }
+    ],
+    "album": {
+      "name": "Call Me Maybe",
+      "link": "https://music.163.com/album?id=1576473"
+    }
+  },
+  {
+    "name": "Problems (Shallou Remix)",
+    "link": "https://music.163.com/song?id=547086934",
+    "duration": "03:27",
+    "artists": [
+      {
+        "name": "Petit Biscuit",
+        "link": "https://music.163.com/artist?id=1060063"
+      },
+      { "name": "Lido", "link": "https://music.163.com/artist?id=935192" },
+      { "name": "Shallou", "link": "https://music.163.com/artist?id=12029377" }
+    ],
+    "album": {
+      "name": "Problems (Shallou Remix)",
+      "link": "https://music.163.com/album?id=38004383"
+    }
+  },
+  {
+    "name": "Rainy Dumplings",
+    "link": "https://music.163.com/song?id=572182643",
+    "duration": "05:10",
+    "artists": [
+      {
+        "name": "饭碗的彼岸",
+        "link": "https://music.163.com/artist?id=1138028"
+      }
+    ],
+    "album": {
+      "name": "Rainy Dumplings",
+      "link": "https://music.163.com/album?id=39623496"
+    }
+  },
+  {
+    "name": "Real Friends (Vince Remix)",
+    "link": "https://music.163.com/song?id=529834681",
+    "duration": "03:04",
+    "artists": [
+      { "name": "VINCE", "link": "https://music.163.com/artist?id=12915115" },
+      {
+        "name": "Camila Cabello",
+        "link": "https://music.163.com/artist?id=12136039"
+      }
+    ],
+    "album": {
+      "name": "Real Friends (Vince Remix)",
+      "link": "https://music.163.com/album?id=37253226"
+    }
+  },
+  {
+    "name": "Counting Sheep",
+    "link": "https://music.163.com/song?id=31081299",
+    "duration": "02:53",
+    "artists": [
+      { "name": "SAFIA", "link": "https://music.163.com/artist?id=986155" }
+    ],
+    "album": {
+      "name": "Counting Sheep",
+      "link": "https://music.163.com/album?id=3109703"
+    }
+  },
+  {
+    "name": "Summertrain",
+    "link": "https://music.163.com/song?id=17996972",
+    "duration": "04:32",
+    "artists": [
+      {
+        "name": "Greyson Chance",
+        "link": "https://music.163.com/artist?id=34327"
+      }
+    ],
+    "album": {
+      "name": "Hold On ‘Til The Night",
+      "link": "https://music.163.com/album?id=1655060"
+    }
+  },
+  {
+    "name": "bad guy - with Justin Bieber",
+    "link": "https://music.163.com/song?id=1377450530",
+    "duration": "03:14",
+    "artists": [
+      {
+        "name": "Billie Eilish",
+        "link": "https://music.163.com/artist?id=11972054"
+      },
+      {
+        "name": "Justin Bieber",
+        "link": "https://music.163.com/artist?id=35531"
+      }
+    ],
+    "album": {
+      "name": "bad guy (with Justin Bieber)",
+      "link": "https://music.163.com/album?id=80352303"
+    }
+  }
+]

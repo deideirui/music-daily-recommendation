@@ -1,0 +1,439 @@
+[
+  {
+    "name": "Norway",
+    "link": "https://music.163.com/song?id=1482057091",
+    "duration": "03:41",
+    "artists": [
+      { "name": "Vexento", "link": "https://music.163.com/artist?id=12037010" }
+    ],
+    "album": {
+      "name": "Norway",
+      "link": "https://music.163.com/album?id=95921993"
+    }
+  },
+  {
+    "name": "Love Come Down (Radio Edit)",
+    "link": "https://music.163.com/song?id=28442474",
+    "duration": "03:05",
+    "artists": [
+      {
+        "name": "Bodybangers",
+        "link": "https://music.163.com/artist?id=220606"
+      }
+    ],
+    "album": {
+      "name": "Love Come Down",
+      "link": "https://music.163.com/album?id=2794044"
+    }
+  },
+  {
+    "name": "Spirits",
+    "link": "https://music.163.com/song?id=410338496",
+    "duration": "03:23",
+    "artists": [
+      {
+        "name": "The Strumbellas",
+        "link": "https://music.163.com/artist?id=847371"
+      }
+    ],
+    "album": {
+      "name": "Hope",
+      "link": "https://music.163.com/album?id=34504330"
+    }
+  },
+  {
+    "name": "Don't Stop (TheFatRat Remix)",
+    "link": "https://music.163.com/song?id=29550185",
+    "duration": "03:44",
+    "artists": [
+      {
+        "name": "TheFatRat",
+        "link": "https://music.163.com/artist?id=1019952"
+      },
+      {
+        "name": "Foster The People",
+        "link": "https://music.163.com/artist?id=92856"
+      }
+    ],
+    "album": {
+      "name": "Don't Stop (TheFatRat Remix)",
+      "link": "https://music.163.com/album?id=3034267"
+    }
+  },
+  {
+    "name": "Daisy",
+    "link": "https://music.163.com/song?id=1383736734",
+    "duration": "04:18",
+    "artists": [
+      { "name": "Aimer", "link": "https://music.163.com/artist?id=16152" }
+    ],
+    "album": {
+      "name": "Torches",
+      "link": "https://music.163.com/album?id=80794387"
+    }
+  },
+  {
+    "name": "Feel The Vibe",
+    "link": "https://music.163.com/song?id=1323303724",
+    "duration": "03:18",
+    "artists": [
+      {
+        "name": "SMiTHMUSiX",
+        "link": "https://music.163.com/artist?id=12202292"
+      },
+      {
+        "name": "Cael Dadian",
+        "link": "https://music.163.com/artist?id=30723380"
+      }
+    ],
+    "album": {
+      "name": "Feel The Vibe",
+      "link": "https://music.163.com/album?id=74266883"
+    }
+  },
+  {
+    "name": "夜綻花",
+    "link": "https://music.163.com/song?id=489274664",
+    "duration": "03:40",
+    "artists": [
+      { "name": "foldin", "link": "https://music.163.com/artist?id=1158025" }
+    ],
+    "album": {
+      "name": "夜綻花",
+      "link": "https://music.163.com/album?id=35717444"
+    }
+  },
+  {
+    "name": "Centuries",
+    "link": "https://music.163.com/song?id=1403699318",
+    "duration": "03:48",
+    "artists": [
+      {
+        "name": "Fall Out Boy",
+        "link": "https://music.163.com/artist?id=56782"
+      }
+    ],
+    "album": {
+      "name": "Believers Never Die (Volume Two)",
+      "link": "https://music.163.com/album?id=83389745"
+    }
+  },
+  {
+    "name": "Reach for the Light",
+    "link": "https://music.163.com/song?id=4397135",
+    "duration": "03:47",
+    "artists": [
+      {
+        "name": "Tim Be Told",
+        "link": "https://music.163.com/artist?id=103770"
+      }
+    ],
+    "album": {
+      "name": "Humanity",
+      "link": "https://music.163.com/album?id=443851"
+    }
+  },
+  {
+    "name": "βios",
+    "link": "https://music.163.com/song?id=498096",
+    "duration": "04:33",
+    "artists": [
+      { "name": "小林未郁", "link": "https://music.163.com/artist?id=16823" }
+    ],
+    "album": {
+      "name": "ギルティクラウン オリジナルサウンドトラック",
+      "link": "https://music.163.com/album?id=47595"
+    }
+  },
+  {
+    "name": "Freehand",
+    "link": "https://music.163.com/song?id=517902798",
+    "duration": "03:09",
+    "artists": [
+      { "name": "Novo Amor", "link": "https://music.163.com/artist?id=904041" },
+      {
+        "name": "Ed Tullett",
+        "link": "https://music.163.com/artist?id=12863130"
+      }
+    ],
+    "album": {
+      "name": "Heiress",
+      "link": "https://music.163.com/album?id=36771113"
+    }
+  },
+  {
+    "name": "Price Tag (Live)",
+    "link": "https://music.163.com/song?id=3161086",
+    "duration": "03:04",
+    "artists": [
+      { "name": "Maddi Jane", "link": "https://music.163.com/artist?id=69103" }
+    ],
+    "album": {
+      "name": "Price Tag",
+      "link": "https://music.163.com/album?id=319904"
+    }
+  },
+  {
+    "name": "Hybrid",
+    "link": "https://music.163.com/song?id=31381959",
+    "duration": "04:00",
+    "artists": [
+      { "name": "Andreas B.", "link": "https://music.163.com/artist?id=299713" }
+    ],
+    "album": {
+      "name": "Hybrid",
+      "link": "https://music.163.com/album?id=3111775"
+    }
+  },
+  {
+    "name": "パプリカ - (红辣椒)",
+    "link": "https://music.163.com/song?id=1294889666",
+    "duration": "03:28",
+    "artists": [
+      { "name": "Foorin", "link": "https://music.163.com/artist?id=28102365" }
+    ],
+    "album": {
+      "name": "パプリカ",
+      "link": "https://music.163.com/album?id=71853076"
+    }
+  },
+  {
+    "name": "Limbs Of Faith",
+    "link": "https://music.163.com/song?id=476987164",
+    "duration": "02:49",
+    "artists": [
+      { "name": "Beauvois", "link": "https://music.163.com/artist?id=12061205" }
+    ],
+    "album": {
+      "name": "Limbs Of Faith",
+      "link": "https://music.163.com/album?id=35455445"
+    }
+  },
+  {
+    "name": "好字唯之",
+    "link": "https://music.163.com/song?id=1455047532",
+    "duration": "03:25",
+    "artists": [
+      {
+        "name": "忘川风华录",
+        "link": "https://music.163.com/artist?id=27725536"
+      },
+      { "name": "海伊", "link": "https://music.163.com/artist?id=34712909" }
+    ],
+    "album": {
+      "name": "好字唯之",
+      "link": "https://music.163.com/album?id=90394270"
+    }
+  },
+  {
+    "name": "万水千山总是情 - (电视剧《万山千山总是情》主题曲 )",
+    "link": "https://music.163.com/song?id=4874668",
+    "duration": "02:59",
+    "artists": [
+      { "name": "汪明荃", "link": "https://music.163.com/artist?id=9624" }
+    ],
+    "album": {
+      "name": "港台影视怀旧金曲",
+      "link": "https://music.163.com/album?id=489889"
+    }
+  },
+  {
+    "name": "我终于失去了你",
+    "link": "https://music.163.com/song?id=189292",
+    "duration": "04:48",
+    "artists": [
+      { "name": "赵传", "link": "https://music.163.com/artist?id=6463" }
+    ],
+    "album": {
+      "name": "我终于失去了你",
+      "link": "https://music.163.com/album?id=19144"
+    }
+  },
+  {
+    "name": "うっせぇわ",
+    "link": "https://music.163.com/song?id=1489254523",
+    "duration": "03:24",
+    "artists": [
+      { "name": "Ado", "link": "https://music.163.com/artist?id=37231059" }
+    ],
+    "album": {
+      "name": "うっせぇわ",
+      "link": "https://music.163.com/album?id=97225639"
+    }
+  },
+  {
+    "name": "我从哪里来",
+    "link": "https://music.163.com/song?id=1830730921",
+    "duration": "04:13",
+    "artists": [
+      { "name": "邵帅", "link": "https://music.163.com/artist?id=29392693" }
+    ],
+    "album": {
+      "name": "我从哪里来",
+      "link": "https://music.163.com/album?id=124765887"
+    }
+  },
+  {
+    "name": "Walk Over You",
+    "link": "https://music.163.com/song?id=18036482",
+    "duration": "04:30",
+    "artists": [
+      {
+        "name": "Piers Faccini",
+        "link": "https://music.163.com/artist?id=41194"
+      }
+    ],
+    "album": {
+      "name": "Tearing Sky",
+      "link": "https://music.163.com/album?id=1658188"
+    }
+  },
+  {
+    "name": "倒港纸(兑港币)",
+    "link": "https://music.163.com/song?id=28587845",
+    "duration": "04:17",
+    "artists": [
+      { "name": "五条人", "link": "https://music.163.com/artist?id=938017" }
+    ],
+    "album": {
+      "name": "县城记",
+      "link": "https://music.163.com/album?id=2848191"
+    }
+  },
+  {
+    "name": "你是我胸口永远的痛 - (电影《旺角卡门》插曲)",
+    "link": "https://music.163.com/song?id=158102",
+    "duration": "05:11",
+    "artists": [
+      { "name": "王杰", "link": "https://music.163.com/artist?id=5358" },
+      { "name": "叶欢", "link": "https://music.163.com/artist?id=10210" }
+    ],
+    "album": {
+      "name": "影视金曲",
+      "link": "https://music.163.com/album?id=15885"
+    }
+  },
+  {
+    "name": "Don't Stop My Heart",
+    "link": "https://music.163.com/song?id=4186014",
+    "duration": "03:43",
+    "artists": [
+      { "name": "McClain", "link": "https://music.163.com/artist?id=96421" }
+    ],
+    "album": {
+      "name": "Southern Winds, Rolling Hills",
+      "link": "https://music.163.com/album?id=423222"
+    }
+  },
+  {
+    "name": "稳住别浪",
+    "link": "https://music.163.com/song?id=1396138242",
+    "duration": "03:30",
+    "artists": [
+      {
+        "name": "大石桥联盟蓝天晨",
+        "link": "https://music.163.com/artist?id=31442162"
+      }
+    ],
+    "album": {
+      "name": "稳住别浪",
+      "link": "https://music.163.com/album?id=82293259"
+    }
+  },
+  {
+    "name": "记忆中的我",
+    "link": "https://music.163.com/song?id=507532019",
+    "duration": "03:50",
+    "artists": [
+      { "name": "王唯旖", "link": "https://music.163.com/artist?id=12232132" }
+    ],
+    "album": {
+      "name": "记忆中的我",
+      "link": "https://music.163.com/album?id=36224317"
+    }
+  },
+  {
+    "name": "カノジョ",
+    "link": "https://music.163.com/song?id=22736708",
+    "duration": "03:17",
+    "artists": [
+      {
+        "name": "UPLIFT SPICE",
+        "link": "https://music.163.com/artist?id=22191"
+      }
+    ],
+    "album": {
+      "name": "Uplift Spice",
+      "link": "https://music.163.com/album?id=2087719"
+    }
+  },
+  {
+    "name": "情歌",
+    "link": "https://music.163.com/song?id=209155",
+    "duration": "04:49",
+    "artists": [
+      { "name": "陈珊妮", "link": "https://music.163.com/artist?id=7216" }
+    ],
+    "album": {
+      "name": "后来 我们都哭了",
+      "link": "https://music.163.com/album?id=21277"
+    }
+  },
+  {
+    "name": "Different World",
+    "link": "https://music.163.com/song?id=1365331140",
+    "duration": "03:15",
+    "artists": [
+      {
+        "name": "Seantonio",
+        "link": "https://music.163.com/artist?id=32190601"
+      }
+    ],
+    "album": {
+      "name": "The Travel",
+      "link": "https://music.163.com/album?id=79120526"
+    }
+  },
+  {
+    "name": "Boats&Birds",
+    "link": "https://music.163.com/song?id=2639853",
+    "duration": "02:54",
+    "artists": [
+      {
+        "name": "Gregory And The Hawk",
+        "link": "https://music.163.com/artist?id=57956"
+      }
+    ],
+    "album": {
+      "name": "The Boats&Birds",
+      "link": "https://music.163.com/album?id=266060"
+    }
+  },
+  {
+    "name": "仙儿 (Live)",
+    "link": "https://music.163.com/song?id=1357856747",
+    "duration": "04:23",
+    "artists": [
+      { "name": "二手玫瑰", "link": "https://music.163.com/artist?id=11514" }
+    ],
+    "album": {
+      "name": "如你所愿",
+      "link": "https://music.163.com/album?id=78429118"
+    }
+  },
+  {
+    "name": "一个师傅仨徒弟",
+    "link": "https://music.163.com/song?id=199768",
+    "duration": "02:11",
+    "artists": [
+      {
+        "name": "吸引力合唱组",
+        "link": "https://music.163.com/artist?id=188853"
+      }
+    ],
+    "album": {
+      "name": "西游记 央视动画片主题曲",
+      "link": "https://music.163.com/album?id=20081"
+    }
+  }
+]

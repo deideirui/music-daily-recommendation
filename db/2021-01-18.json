@@ -1,0 +1,468 @@
+[
+  {
+    "name": "Together",
+    "link": "https://music.163.com/song?id=436346329",
+    "duration": "03:41",
+    "artists": [
+      {
+        "name": "Martin Garrix",
+        "link": "https://music.163.com/artist?id=780003"
+      },
+      {
+        "name": "Matisse & Sadko",
+        "link": "https://music.163.com/artist?id=947054"
+      },
+      {
+        "name": "Max McElligott",
+        "link": "https://music.163.com/artist?id=15280202"
+      }
+    ],
+    "album": {
+      "name": "Together",
+      "link": "https://music.163.com/album?id=34929078"
+    }
+  },
+  {
+    "name": "Gasoline",
+    "link": "https://music.163.com/song?id=34144942",
+    "duration": "03:19",
+    "artists": [
+      { "name": "Halsey", "link": "https://music.163.com/artist?id=964321" }
+    ],
+    "album": {
+      "name": "BADLANDS (Deluxe Edition)",
+      "link": "https://music.163.com/album?id=3271514"
+    }
+  },
+  {
+    "name": "Walls",
+    "link": "https://music.163.com/song?id=528272637",
+    "duration": "03:16",
+    "artists": [
+      { "name": "Ruben", "link": "https://music.163.com/artist?id=12347080" }
+    ],
+    "album": {
+      "name": "Walls",
+      "link": "https://music.163.com/album?id=37176257"
+    }
+  },
+  {
+    "name": "I Love It",
+    "link": "https://music.163.com/song?id=1345318197",
+    "duration": "02:40",
+    "artists": [
+      {
+        "name": "Oscar Enestad",
+        "link": "https://music.163.com/artist?id=27693458"
+      }
+    ],
+    "album": {
+      "name": "I Love It",
+      "link": "https://music.163.com/album?id=75512276"
+    }
+  },
+  {
+    "name": "New Dawns",
+    "link": "https://music.163.com/song?id=445666845",
+    "duration": "03:02",
+    "artists": [
+      { "name": "Gaia", "link": "https://music.163.com/artist?id=12214159" }
+    ],
+    "album": {
+      "name": "New Dawns",
+      "link": "https://music.163.com/album?id=35012747"
+    }
+  },
+  {
+    "name": "Treasure U",
+    "link": "https://music.163.com/song?id=1437387212",
+    "duration": "03:00",
+    "artists": [
+      { "name": "BEAUZ", "link": "https://music.163.com/artist?id=12131436" },
+      { "name": "BSY", "link": "https://music.163.com/artist?id=34372552" },
+      { "name": "JSY", "link": "https://music.163.com/artist?id=34371015" },
+      {
+        "name": "Sarah De Warren",
+        "link": "https://music.163.com/artist?id=13222653"
+      }
+    ],
+    "album": {
+      "name": "Treasure U",
+      "link": "https://music.163.com/album?id=87573191"
+    }
+  },
+  {
+    "name": "Guide",
+    "link": "https://music.163.com/song?id=571939755",
+    "duration": "04:09",
+    "artists": [
+      {
+        "name": "Denis Kenzo",
+        "link": "https://music.163.com/artist?id=263670"
+      },
+      {
+        "name": "Kate Miles",
+        "link": "https://music.163.com/artist?id=13202746"
+      }
+    ],
+    "album": {
+      "name": "Guide",
+      "link": "https://music.163.com/album?id=39628812"
+    }
+  },
+  {
+    "name": "Over My Head (Better Off Dead)",
+    "link": "https://music.163.com/song?id=4278446",
+    "duration": "02:29",
+    "artists": [
+      { "name": "Sum 41", "link": "https://music.163.com/artist?id=99989" }
+    ],
+    "album": {
+      "name": "The Best Of Sum 41",
+      "link": "https://music.163.com/album?id=432401"
+    }
+  },
+  {
+    "name": "Happy Birthday Bendy",
+    "link": "https://music.163.com/song?id=1375260146",
+    "duration": "02:56",
+    "artists": [
+      {
+        "name": "Kyle Allen Music",
+        "link": "https://music.163.com/artist?id=31464125"
+      },
+      { "name": "Swiblet", "link": "https://music.163.com/artist?id=31530984" },
+      { "name": "Dagames", "link": "https://music.163.com/artist?id=12191100" }
+    ],
+    "album": {
+      "name": "Happy Birthday Bendy",
+      "link": "https://music.163.com/album?id=80118241"
+    }
+  },
+  {
+    "name": "睡在风里",
+    "link": "https://music.163.com/song?id=1806926997",
+    "duration": "03:48",
+    "artists": [
+      { "name": "彭席彦", "link": "https://music.163.com/artist?id=30644200" }
+    ],
+    "album": {
+      "name": "睡在风里",
+      "link": "https://music.163.com/album?id=120859045"
+    }
+  },
+  {
+    "name": "Nothing Hurts Like This",
+    "link": "https://music.163.com/song?id=32069280",
+    "duration": "03:14",
+    "artists": [
+      { "name": "Slo", "link": "https://music.163.com/artist?id=276525" }
+    ],
+    "album": { "name": "Slo", "link": "https://music.163.com/album?id=3139828" }
+  },
+  {
+    "name": "One That Got Away (with Dylan Matthew)",
+    "link": "https://music.163.com/song?id=1400361707",
+    "duration": "03:35",
+    "artists": [
+      {
+        "name": "Jason Ross",
+        "link": "https://music.163.com/artist?id=906123"
+      },
+      { "name": "Dabin", "link": "https://music.163.com/artist?id=783446" },
+      {
+        "name": "Dylan Matthew",
+        "link": "https://music.163.com/artist?id=28684353"
+      }
+    ],
+    "album": {
+      "name": "One That Got Away (with Dylan Matthew)",
+      "link": "https://music.163.com/album?id=82913948"
+    }
+  },
+  {
+    "name": "Child's Christmas Medley (Jolly Old St. Nicholas, Up On the Housetop, Toyland)",
+    "link": "https://music.163.com/song?id=32337064",
+    "duration": "03:41",
+    "artists": [
+      {
+        "name": "Brad Jacobsen",
+        "link": "https://music.163.com/artist?id=952257"
+      }
+    ],
+    "album": {
+      "name": "Deck the Halls ~ Solo Piano Christmas",
+      "link": "https://music.163.com/album?id=3154587"
+    }
+  },
+  {
+    "name": "At The Edge",
+    "link": "https://music.163.com/song?id=448596416",
+    "duration": "03:20",
+    "artists": [
+      { "name": "千坂", "link": "https://music.163.com/artist?id=12138261" }
+    ],
+    "album": {
+      "name": "At The Edge",
+      "link": "https://music.163.com/album?id=35072236"
+    }
+  },
+  {
+    "name": "Joy to the World",
+    "link": "https://music.163.com/song?id=1003961",
+    "duration": "02:07",
+    "artists": [
+      {
+        "name": "Iver Kleive",
+        "link": "https://music.163.com/artist?id=35259"
+      },
+      {
+        "name": "Aage Kvalbein",
+        "link": "https://music.163.com/artist?id=27676"
+      }
+    ],
+    "album": {
+      "name": "Julemeditasjoner",
+      "link": "https://music.163.com/album?id=104900"
+    }
+  },
+  {
+    "name": "dreamin'",
+    "link": "https://music.163.com/song?id=1422610151",
+    "duration": "03:27",
+    "artists": [
+      {
+        "name": "53 Thieves",
+        "link": "https://music.163.com/artist?id=33454756"
+      }
+    ],
+    "album": {
+      "name": "after hours",
+      "link": "https://music.163.com/album?id=85649990"
+    }
+  },
+  {
+    "name": "1995",
+    "link": "https://music.163.com/song?id=426303219",
+    "duration": "04:02",
+    "artists": [
+      {
+        "name": "Ólafur Arnalds",
+        "link": "https://music.163.com/artist?id=40858"
+      },
+      {
+        "name": "Dagný Arnalds",
+        "link": "https://music.163.com/artist?id=29725587"
+      }
+    ],
+    "album": {
+      "name": "Island Songs",
+      "link": "https://music.163.com/album?id=34828159"
+    }
+  },
+  {
+    "name": "Paper Window Dreams",
+    "link": "https://music.163.com/song?id=1608875",
+    "duration": "03:21",
+    "artists": [
+      { "name": "Jeff Pianki", "link": "https://music.163.com/artist?id=37147" }
+    ],
+    "album": {
+      "name": "Paper Window",
+      "link": "https://music.163.com/album?id=163524"
+    }
+  },
+  {
+    "name": "Endless Wave",
+    "link": "https://music.163.com/song?id=523942238",
+    "duration": "02:42",
+    "artists": [
+      {
+        "name": "Hanging Valleys",
+        "link": "https://music.163.com/artist?id=12219168"
+      }
+    ],
+    "album": { "name": "EP", "link": "https://music.163.com/album?id=36965997" }
+  },
+  {
+    "name": "烟袋斜街",
+    "link": "https://music.163.com/song?id=464863017",
+    "duration": "03:33",
+    "artists": [
+      {
+        "name": "接个吻，开一枪",
+        "link": "https://music.163.com/artist?id=12085016"
+      }
+    ],
+    "album": {
+      "name": "烟袋斜街",
+      "link": "https://music.163.com/album?id=35258839"
+    }
+  },
+  {
+    "name": "Supernova",
+    "link": "https://music.163.com/song?id=1428715347",
+    "duration": "03:14",
+    "artists": [
+      { "name": "周骏", "link": "https://music.163.com/artist?id=34518853" }
+    ],
+    "album": {
+      "name": "Supernova",
+      "link": "https://music.163.com/album?id=86280569"
+    }
+  },
+  {
+    "name": "Heavy",
+    "link": "https://music.163.com/song?id=1434474141",
+    "duration": "03:01",
+    "artists": [
+      { "name": "Haux", "link": "https://music.163.com/artist?id=1078427" }
+    ],
+    "album": {
+      "name": "Heavy",
+      "link": "https://music.163.com/album?id=86888664"
+    }
+  },
+  {
+    "name": "Last Forever",
+    "link": "https://music.163.com/song?id=1364380349",
+    "duration": "03:05",
+    "artists": [
+      { "name": "Manse", "link": "https://music.163.com/artist?id=855409" }
+    ],
+    "album": {
+      "name": "Last Forever",
+      "link": "https://music.163.com/album?id=79040358"
+    }
+  },
+  {
+    "name": "时间旅行有限公司",
+    "link": "https://music.163.com/song?id=1356246657",
+    "duration": "06:20",
+    "artists": [
+      { "name": "音速行星", "link": "https://music.163.com/artist?id=31320616" }
+    ],
+    "album": {
+      "name": "时间旅行有限公司",
+      "link": "https://music.163.com/album?id=80290773"
+    }
+  },
+  {
+    "name": "In Your Blood",
+    "link": "https://music.163.com/song?id=449578903",
+    "duration": "03:36",
+    "artists": [
+      {
+        "name": "Thom Byles",
+        "link": "https://music.163.com/artist?id=12251130"
+      }
+    ],
+    "album": {
+      "name": "In Your Blood",
+      "link": "https://music.163.com/album?id=35092282"
+    }
+  },
+  {
+    "name": "Your Distant World (Original Mix)",
+    "link": "https://music.163.com/song?id=494410222",
+    "duration": "09:43",
+    "artists": [
+      {
+        "name": "Simon O'Shine",
+        "link": "https://music.163.com/artist?id=207035"
+      }
+    ],
+    "album": {
+      "name": "Your Distant World",
+      "link": "https://music.163.com/album?id=35865027"
+    }
+  },
+  {
+    "name": "Hands of Time",
+    "link": "https://music.163.com/song?id=29557511",
+    "duration": "05:02",
+    "artists": [
+      {
+        "name": "I Spell it Nature",
+        "link": "https://music.163.com/artist?id=94622"
+      }
+    ],
+    "album": {
+      "name": "North",
+      "link": "https://music.163.com/album?id=3042549"
+    }
+  },
+  {
+    "name": "I Get High",
+    "link": "https://music.163.com/song?id=4099325",
+    "duration": "03:30",
+    "artists": [
+      { "name": "Glory Days", "link": "https://music.163.com/artist?id=93553" }
+    ],
+    "album": {
+      "name": "Summer Of Love",
+      "link": "https://music.163.com/album?id=414482"
+    }
+  },
+  {
+    "name": "Concorde (Extended Mix)",
+    "link": "https://music.163.com/song?id=509726825",
+    "duration": "09:05",
+    "artists": [
+      { "name": "Aly & Fila", "link": "https://music.163.com/artist?id=86717" },
+      {
+        "name": "Ferry Tayle",
+        "link": "https://music.163.com/artist?id=191818"
+      }
+    ],
+    "album": {
+      "name": "Concorde",
+      "link": "https://music.163.com/album?id=36450307"
+    }
+  },
+  {
+    "name": "Someone You Loved (Madism Radio Mix)",
+    "link": "https://music.163.com/song?id=1346050968",
+    "duration": "02:37",
+    "artists": [
+      {
+        "name": "Lewis Capaldi",
+        "link": "https://music.163.com/artist?id=12474140"
+      }
+    ],
+    "album": {
+      "name": "Someone You Loved (Madism Radio Mix)",
+      "link": "https://music.163.com/album?id=75556862"
+    }
+  },
+  {
+    "name": "Satellite",
+    "link": "https://music.163.com/song?id=28828374",
+    "duration": "03:29",
+    "artists": [
+      {
+        "name": "Andrew Allen",
+        "link": "https://music.163.com/artist?id=28694"
+      }
+    ],
+    "album": {
+      "name": "Satellite",
+      "link": "https://music.163.com/album?id=2902275"
+    }
+  },
+  {
+    "name": "Choices (Original mix)",
+    "link": "https://music.163.com/song?id=484058225",
+    "duration": "08:29",
+    "artists": [
+      {
+        "name": "Roald Velden",
+        "link": "https://music.163.com/artist?id=178498"
+      }
+    ],
+    "album": {
+      "name": "Your a Star in My Sky",
+      "link": "https://music.163.com/album?id=35623065"
+    }
+  }
+]

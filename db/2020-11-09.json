@@ -1,0 +1,432 @@
+[
+  {
+    "name": "Famous",
+    "link": "https://music.163.com/song?id=522647397",
+    "duration": "03:43",
+    "artists": [
+      {
+        "name": "Ivy Adara",
+        "link": "https://music.163.com/artist?id=12925126"
+      }
+    ],
+    "album": {
+      "name": "Famous",
+      "link": "https://music.163.com/album?id=36921067"
+    }
+  },
+  {
+    "name": "Monday (with Ashe)",
+    "link": "https://music.163.com/song?id=1379959117",
+    "duration": "03:15",
+    "artists": [
+      { "name": "filous", "link": "https://music.163.com/artist?id=1081131" },
+      { "name": "Ashe", "link": "https://music.163.com/artist?id=12278097" }
+    ],
+    "album": {
+      "name": "Monday (with Ashe)",
+      "link": "https://music.163.com/album?id=80595176"
+    }
+  },
+  {
+    "name": "Part-Time Lover",
+    "link": "https://music.163.com/song?id=1347227963",
+    "duration": "03:39",
+    "artists": [
+      { "name": "Dabin", "link": "https://music.163.com/artist?id=783446" },
+      {
+        "name": "Claire Ridgely",
+        "link": "https://music.163.com/artist?id=14935781"
+      }
+    ],
+    "album": {
+      "name": "Wild Youth",
+      "link": "https://music.163.com/album?id=75638746"
+    }
+  },
+  {
+    "name": "Ace",
+    "link": "https://music.163.com/song?id=1441105811",
+    "duration": "03:22",
+    "artists": [
+      { "name": "Debris", "link": "https://music.163.com/artist?id=640587" }
+    ],
+    "album": {
+      "name": "Ace",
+      "link": "https://music.163.com/album?id=88108541"
+    }
+  },
+  {
+    "name": "Feels Good",
+    "link": "https://music.163.com/song?id=1350389655",
+    "duration": "03:41",
+    "artists": [
+      {
+        "name": "Jay Made",
+        "link": "https://music.163.com/artist?id=27863747"
+      },
+      {
+        "name": "Miranda Glory",
+        "link": "https://music.163.com/artist?id=12463504"
+      },
+      { "name": "CANCUN?", "link": "https://music.163.com/artist?id=27863745" }
+    ],
+    "album": {
+      "name": "Feels Good",
+      "link": "https://music.163.com/album?id=75782872"
+    }
+  },
+  {
+    "name": "Ready for the Summer",
+    "link": "https://music.163.com/song?id=1437567668",
+    "duration": "03:11",
+    "artists": [
+      {
+        "name": "RudeLies",
+        "link": "https://music.163.com/artist?id=12416051"
+      },
+      {
+        "name": "Annie Sollange",
+        "link": "https://music.163.com/artist?id=369008"
+      }
+    ],
+    "album": {
+      "name": "Ready for the Summer",
+      "link": "https://music.163.com/album?id=87613718"
+    }
+  },
+  {
+    "name": "Midnight Magic",
+    "link": "https://music.163.com/song?id=1331733157",
+    "duration": "03:05",
+    "artists": [
+      {
+        "name": "Diamond Pistols",
+        "link": "https://music.163.com/artist?id=806218"
+      },
+      { "name": "Karra", "link": "https://music.163.com/artist?id=1081582" }
+    ],
+    "album": {
+      "name": "Midnight Magic",
+      "link": "https://music.163.com/album?id=74800458"
+    }
+  },
+  {
+    "name": "Wanna Know Your Name",
+    "link": "https://music.163.com/song?id=1422623157",
+    "duration": "02:17",
+    "artists": [
+      {
+        "name": "Sofus Wiene",
+        "link": "https://music.163.com/artist?id=13050086"
+      }
+    ],
+    "album": {
+      "name": "Wanna Know Your Name",
+      "link": "https://music.163.com/album?id=85651174"
+    }
+  },
+  {
+    "name": "ζ",
+    "link": "https://music.163.com/song?id=29137872",
+    "duration": "03:07",
+    "artists": [
+      { "name": "α·Pav", "link": "https://music.163.com/artist?id=4716" }
+    ],
+    "album": {
+      "name": "Pavonis ~ Piano Collection II ~",
+      "link": "https://music.163.com/album?id=2994337"
+    }
+  },
+  {
+    "name": "The Best Thing",
+    "link": "https://music.163.com/song?id=29304742",
+    "duration": "03:53",
+    "artists": [
+      {
+        "name": "Electric Youth",
+        "link": "https://music.163.com/artist?id=658235"
+      }
+    ],
+    "album": {
+      "name": "Innerworld",
+      "link": "https://music.163.com/album?id=2998213"
+    }
+  },
+  {
+    "name": "Alive",
+    "link": "https://music.163.com/song?id=1413374421",
+    "duration": "03:29",
+    "artists": [
+      {
+        "name": "Konrad Mil",
+        "link": "https://music.163.com/artist?id=12976054"
+      }
+    ],
+    "album": {
+      "name": "Alive",
+      "link": "https://music.163.com/album?id=84645886"
+    }
+  },
+  {
+    "name": "Hypochondriac",
+    "link": "https://music.163.com/song?id=862146457",
+    "duration": "03:01",
+    "artists": [
+      {
+        "name": "Miranda Glory",
+        "link": "https://music.163.com/artist?id=12463504"
+      }
+    ],
+    "album": {
+      "name": "Hypochondriac",
+      "link": "https://music.163.com/album?id=71620795"
+    }
+  },
+  {
+    "name": "Better With You",
+    "link": "https://music.163.com/song?id=449824945",
+    "duration": "03:54",
+    "artists": [
+      {
+        "name": "Austin Mahone",
+        "link": "https://music.163.com/artist?id=29121"
+      }
+    ],
+    "album": {
+      "name": "For Me + You",
+      "link": "https://music.163.com/album?id=35093372"
+    }
+  },
+  {
+    "name": "After the Storm",
+    "link": "https://music.163.com/song?id=1344912574",
+    "duration": "06:08",
+    "artists": [
+      {
+        "name": "Tony Anderson",
+        "link": "https://music.163.com/artist?id=79757"
+      }
+    ],
+    "album": {
+      "name": "After the Storm",
+      "link": "https://music.163.com/album?id=75492332"
+    }
+  },
+  {
+    "name": "Lovestory",
+    "link": "https://music.163.com/song?id=404783546",
+    "duration": "03:30",
+    "artists": [
+      { "name": "AK", "link": "https://music.163.com/artist?id=1192509" }
+    ],
+    "album": {
+      "name": "Lovestory",
+      "link": "https://music.163.com/album?id=34526140"
+    }
+  },
+  {
+    "name": "Falcon",
+    "link": "https://music.163.com/song?id=1460544777",
+    "duration": "02:35",
+    "artists": [
+      { "name": "Mr. Black", "link": "https://music.163.com/artist?id=239116" },
+      { "name": "Ben Nicky", "link": "https://music.163.com/artist?id=147866" }
+    ],
+    "album": {
+      "name": "Falcon",
+      "link": "https://music.163.com/album?id=91976251"
+    }
+  },
+  {
+    "name": "Tekno",
+    "link": "https://music.163.com/song?id=1461556292",
+    "duration": "04:01",
+    "artists": [
+      { "name": "Maddix", "link": "https://music.163.com/artist?id=957014" }
+    ],
+    "album": {
+      "name": "Tekno",
+      "link": "https://music.163.com/album?id=92188203"
+    }
+  },
+  {
+    "name": "Apologize",
+    "link": "https://music.163.com/song?id=24953439",
+    "duration": "03:28",
+    "artists": [
+      { "name": "OneRepublic", "link": "https://music.163.com/artist?id=98105" }
+    ],
+    "album": {
+      "name": "2009 GRAMMY Nominees",
+      "link": "https://music.163.com/album?id=2206679"
+    }
+  },
+  {
+    "name": "My Name Isn’t",
+    "link": "https://music.163.com/song?id=1340514784",
+    "duration": "02:54",
+    "artists": [
+      { "name": "LOVA", "link": "https://music.163.com/artist?id=13163116" }
+    ],
+    "album": {
+      "name": "My Name Isn’t",
+      "link": "https://music.163.com/album?id=75227059"
+    }
+  },
+  {
+    "name": "Hierba Mala",
+    "link": "https://music.163.com/song?id=1384463372",
+    "duration": "03:10",
+    "artists": [
+      { "name": "Reyko", "link": "https://music.163.com/artist?id=12335050" }
+    ],
+    "album": {
+      "name": "Hierba Mala",
+      "link": "https://music.163.com/album?id=80977099"
+    }
+  },
+  {
+    "name": "Roman Holiday",
+    "link": "https://music.163.com/song?id=34144935",
+    "duration": "03:21",
+    "artists": [
+      { "name": "Halsey", "link": "https://music.163.com/artist?id=964321" }
+    ],
+    "album": {
+      "name": "BADLANDS (Deluxe Edition)",
+      "link": "https://music.163.com/album?id=3271514"
+    }
+  },
+  {
+    "name": "Meant For You (feat. Lasso the Sun)",
+    "link": "https://music.163.com/song?id=1488688553",
+    "duration": "03:40",
+    "artists": [
+      {
+        "name": "WildVibes",
+        "link": "https://music.163.com/artist?id=1181751"
+      },
+      {
+        "name": "Patrick Key",
+        "link": "https://music.163.com/artist?id=31242552"
+      },
+      {
+        "name": "Lasso The Sun",
+        "link": "https://music.163.com/artist?id=34362560"
+      }
+    ],
+    "album": {
+      "name": "Meant For You (feat. Lasso the Sun)",
+      "link": "https://music.163.com/album?id=97102074"
+    }
+  },
+  {
+    "name": "Here With You",
+    "link": "https://music.163.com/song?id=27583305",
+    "duration": "03:45",
+    "artists": [
+      {
+        "name": "Asher Monroe",
+        "link": "https://music.163.com/artist?id=28727"
+      }
+    ],
+    "album": {
+      "name": "Here With You",
+      "link": "https://music.163.com/album?id=2641180"
+    }
+  },
+  {
+    "name": "Gone",
+    "link": "https://music.163.com/song?id=1336856653",
+    "duration": "02:53",
+    "artists": [
+      { "name": "Hoang", "link": "https://music.163.com/artist?id=27694442" },
+      { "name": "Kianna", "link": "https://music.163.com/artist?id=197017" }
+    ],
+    "album": {
+      "name": "Gone",
+      "link": "https://music.163.com/album?id=75016971"
+    }
+  },
+  {
+    "name": "繁华的寂静",
+    "link": "https://music.163.com/song?id=40257852",
+    "duration": "03:40",
+    "artists": [
+      { "name": "文武贝", "link": "https://music.163.com/artist?id=1197082" }
+    ],
+    "album": {
+      "name": "繁华的寂静",
+      "link": "https://music.163.com/album?id=3441379"
+    }
+  },
+  {
+    "name": "Waterfall Death Dance (Undertale Remix)",
+    "link": "https://music.163.com/song?id=432506102",
+    "duration": "06:01",
+    "artists": [
+      { "name": "SharaX", "link": "https://music.163.com/artist?id=12006337" }
+    ],
+    "album": {
+      "name": "Waterfall Death Dance (Undertale Remix)",
+      "link": "https://music.163.com/album?id=34897268"
+    }
+  },
+  {
+    "name": "All Night Long",
+    "link": "https://music.163.com/song?id=1297747234",
+    "duration": "03:35",
+    "artists": [
+      {
+        "name": "JST FRNDS",
+        "link": "https://music.163.com/artist?id=28390266"
+      }
+    ],
+    "album": {
+      "name": "All Night Long",
+      "link": "https://music.163.com/album?id=72069710"
+    }
+  },
+  {
+    "name": "Hold My Hand (Wisp X Remix)",
+    "link": "https://music.163.com/song?id=430297516",
+    "duration": "03:03",
+    "artists": [
+      { "name": "Wisp X", "link": "https://music.163.com/artist?id=1046123" },
+      { "name": "HanStone", "link": "https://music.163.com/artist?id=30460677" }
+    ],
+    "album": {
+      "name": "Hold My Hand (Wisp X Remix)",
+      "link": "https://music.163.com/album?id=34869678"
+    }
+  },
+  {
+    "name": "Effervescent",
+    "link": "https://music.163.com/song?id=1336866604",
+    "duration": "04:08",
+    "artists": [
+      { "name": "Resonance", "link": "https://music.163.com/artist?id=196588" }
+    ],
+    "album": {
+      "name": "Effervescent",
+      "link": "https://music.163.com/album?id=75017978"
+    }
+  },
+  {
+    "name": "Almost Home",
+    "link": "https://music.163.com/song?id=571059880",
+    "duration": "03:39",
+    "artists": [
+      {
+        "name": "Sultan + Shepard",
+        "link": "https://music.163.com/artist?id=101070"
+      },
+      { "name": "Nadia Ali", "link": "https://music.163.com/artist?id=70174" },
+      { "name": "IRO", "link": "https://music.163.com/artist?id=155288" }
+    ],
+    "album": {
+      "name": "Armada 15 Years",
+      "link": "https://music.163.com/album?id=39563203"
+    }
+  }
+]

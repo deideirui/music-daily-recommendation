@@ -1,0 +1,447 @@
+[
+  {
+    "name": "Nicknames",
+    "link": "https://music.163.com/song?id=1433256980",
+    "duration": "03:06",
+    "artists": [
+      {
+        "name": "Walk off the Earth",
+        "link": "https://music.163.com/artist?id=105493"
+      },
+      { "name": "gnash", "link": "https://music.163.com/artist?id=1137226" }
+    ],
+    "album": {
+      "name": "Nicknames",
+      "link": "https://music.163.com/album?id=86761684"
+    }
+  },
+  {
+    "name": "Hold Us Together",
+    "link": "https://music.163.com/song?id=480517594",
+    "duration": "03:41",
+    "artists": [
+      { "name": "WILD", "link": "https://music.163.com/artist?id=12074090" }
+    ],
+    "album": {
+      "name": "Hold Us Together",
+      "link": "https://music.163.com/album?id=35550333"
+    }
+  },
+  {
+    "name": "Dive",
+    "link": "https://music.163.com/song?id=1410797102",
+    "duration": "02:44",
+    "artists": [
+      {
+        "name": "Hot Shade",
+        "link": "https://music.163.com/artist?id=12197226"
+      },
+      {
+        "name": "Mike Perry",
+        "link": "https://music.163.com/artist?id=195021"
+      },
+      {
+        "name": "Chris James",
+        "link": "https://music.163.com/artist?id=145038"
+      }
+    ],
+    "album": {
+      "name": "Dive",
+      "link": "https://music.163.com/album?id=84236606"
+    }
+  },
+  {
+    "name": "Follow",
+    "link": "https://music.163.com/song?id=1456174313",
+    "duration": "02:58",
+    "artists": [
+      { "name": "Vigiland", "link": "https://music.163.com/artist?id=1046407" },
+      {
+        "name": "Father Viola",
+        "link": "https://music.163.com/artist?id=35782975"
+      }
+    ],
+    "album": {
+      "name": "Follow",
+      "link": "https://music.163.com/album?id=91098842"
+    }
+  },
+  {
+    "name": "Make That Call",
+    "link": "https://music.163.com/song?id=1357799854",
+    "duration": "03:07",
+    "artists": [
+      {
+        "name": "Ted Nights",
+        "link": "https://music.163.com/artist?id=12436013"
+      }
+    ],
+    "album": {
+      "name": "Make That Call",
+      "link": "https://music.163.com/album?id=78424814"
+    }
+  },
+  {
+    "name": "Waiting On You (Feat. SØPHIA)",
+    "link": "https://music.163.com/song?id=1397191263",
+    "duration": "02:48",
+    "artists": [
+      { "name": "ThimLife", "link": "https://music.163.com/artist?id=1046016" },
+      { "name": "SØPHIA", "link": "https://music.163.com/artist?id=33590275" }
+    ],
+    "album": {
+      "name": "Waiting On You",
+      "link": "https://music.163.com/album?id=82443989"
+    }
+  },
+  {
+    "name": "Ready Yet",
+    "link": "https://music.163.com/song?id=1477987285",
+    "duration": "02:32",
+    "artists": [
+      { "name": "Mokita", "link": "https://music.163.com/artist?id=12033046" }
+    ],
+    "album": {
+      "name": "Ready Yet",
+      "link": "https://music.163.com/album?id=95182228"
+    }
+  },
+  {
+    "name": "High Days ",
+    "link": "https://music.163.com/song?id=1338495341",
+    "duration": "02:47",
+    "artists": [
+      { "name": "Hoved", "link": "https://music.163.com/artist?id=12232048" },
+      {
+        "name": "Cara Melín",
+        "link": "https://music.163.com/artist?id=27812952"
+      }
+    ],
+    "album": {
+      "name": "High Days",
+      "link": "https://music.163.com/album?id=75097234"
+    }
+  },
+  {
+    "name": "Expectations (R3HAB Remix)",
+    "link": "https://music.163.com/song?id=1448196003",
+    "duration": "02:24",
+    "artists": [
+      {
+        "name": "Ella Isaacson",
+        "link": "https://music.163.com/artist?id=33730698"
+      },
+      { "name": "R3hab", "link": "https://music.163.com/artist?id=197248" },
+      { "name": "Gallant", "link": "https://music.163.com/artist?id=912056" }
+    ],
+    "album": {
+      "name": "Expectations (R3HAB Remix)",
+      "link": "https://music.163.com/album?id=89466485"
+    }
+  },
+  {
+    "name": "一笑懸命",
+    "link": "https://music.163.com/song?id=399249",
+    "duration": "03:50",
+    "artists": [
+      { "name": "遊助", "link": "https://music.163.com/artist?id=13775" }
+    ],
+    "album": {
+      "name": "一笑懸命 / イナヅマ侍",
+      "link": "https://music.163.com/album?id=39504"
+    }
+  },
+  {
+    "name": "Don't Surrender",
+    "link": "https://music.163.com/song?id=1477979880",
+    "duration": "02:45",
+    "artists": [
+      { "name": "Egzod", "link": "https://music.163.com/artist?id=11970036" },
+      { "name": "EMM", "link": "https://music.163.com/artist?id=36313435" }
+    ],
+    "album": {
+      "name": "Don't Surrender",
+      "link": "https://music.163.com/album?id=95180950"
+    }
+  },
+  {
+    "name": "OH MY GOD",
+    "link": "https://music.163.com/song?id=1342822602",
+    "duration": "03:10",
+    "artists": [
+      {
+        "name": "Amberlake",
+        "link": "https://music.163.com/artist?id=30262778"
+      }
+    ],
+    "album": {
+      "name": "OH MY GOD",
+      "link": "https://music.163.com/album?id=75366925"
+    }
+  },
+  {
+    "name": "Cheap Thrills",
+    "link": "https://music.163.com/song?id=466817872",
+    "duration": "03:33",
+    "artists": [
+      { "name": "Sia", "link": "https://music.163.com/artist?id=74625" }
+    ],
+    "album": {
+      "name": "Sunday Morning Songs, Vol. 2",
+      "link": "https://music.163.com/album?id=35274398"
+    }
+  },
+  {
+    "name": "勾指起誓",
+    "link": "https://music.163.com/song?id=1350160463",
+    "duration": "03:03",
+    "artists": [
+      { "name": "泠鸢yousa", "link": "https://music.163.com/artist?id=1047282" }
+    ],
+    "album": {
+      "name": "【泠鸢翻唱2019】",
+      "link": "https://music.163.com/album?id=75465297"
+    }
+  },
+  {
+    "name": "Call of Silence x YouSeeBIGGIRL",
+    "link": "https://music.163.com/song?id=496507504",
+    "duration": "08:29",
+    "artists": [
+      { "name": "EYAir", "link": "https://music.163.com/artist?id=12420556" }
+    ],
+    "album": {
+      "name": "「進撃の巨人」[进击的巨人]",
+      "link": "https://music.163.com/album?id=35890608"
+    }
+  },
+  {
+    "name": "豆芽歌",
+    "link": "https://music.163.com/song?id=1814939845",
+    "duration": "02:34",
+    "artists": [
+      { "name": "七号疯球", "link": "https://music.163.com/artist?id=46588906" }
+    ],
+    "album": {
+      "name": "七号疯球",
+      "link": "https://music.163.com/album?id=121904894"
+    }
+  },
+  {
+    "name": "Confidence",
+    "link": "https://music.163.com/song?id=569105338",
+    "duration": "03:43",
+    "artists": [
+      { "name": "Gjan", "link": "https://music.163.com/artist?id=851014" }
+    ],
+    "album": {
+      "name": "Confidence",
+      "link": "https://music.163.com/album?id=39391227"
+    }
+  },
+  {
+    "name": "Places We Won't Walk",
+    "link": "https://music.163.com/song?id=504264170",
+    "duration": "02:49",
+    "artists": [
+      {
+        "name": "Bruno Major",
+        "link": "https://music.163.com/artist?id=12250109"
+      }
+    ],
+    "album": {
+      "name": "A Song For Every Moon",
+      "link": "https://music.163.com/album?id=36149047"
+    }
+  },
+  {
+    "name": "我还好",
+    "link": "https://music.163.com/song?id=1375844159",
+    "duration": "02:41",
+    "artists": [
+      {
+        "name": "蝴蝶效应(B.E.)",
+        "link": "https://music.163.com/artist?id=12228818"
+      }
+    ],
+    "album": {
+      "name": "我还好",
+      "link": "https://music.163.com/album?id=80188782"
+    }
+  },
+  {
+    "name": "Adventures",
+    "link": "https://music.163.com/song?id=38391514",
+    "duration": "03:28",
+    "artists": [
+      { "name": "Starix​", "link": "https://music.163.com/artist?id=1058011" }
+    ],
+    "album": {
+      "name": "Adventures",
+      "link": "https://music.163.com/album?id=3428343"
+    }
+  },
+  {
+    "name": "ひとつのハートで - (TV动画《超魔神英雄传》OP1)",
+    "link": "https://music.163.com/song?id=29379375",
+    "duration": "04:04",
+    "artists": [
+      { "name": "三重野瞳", "link": "https://music.163.com/artist?id=17056" }
+    ],
+    "album": {
+      "name": "超魔神英雄伝ワタル 音楽篇I",
+      "link": "https://music.163.com/album?id=3007934"
+    }
+  },
+  {
+    "name": "孤独她呀",
+    "link": "https://music.163.com/song?id=1294889112",
+    "duration": "04:05",
+    "artists": [
+      { "name": "二珂", "link": "https://music.163.com/artist?id=1081635" }
+    ],
+    "album": {
+      "name": "孤独她呀",
+      "link": "https://music.163.com/album?id=71851857"
+    }
+  },
+  {
+    "name": "風になる - (幻化成风)",
+    "link": "https://music.163.com/song?id=482172",
+    "duration": "04:09",
+    "artists": [
+      { "name": "つじあやの", "link": "https://music.163.com/artist?id=17637" }
+    ],
+    "album": {
+      "name": "猫の恩返し サウンドトラック",
+      "link": "https://music.163.com/album?id=46190"
+    }
+  },
+  {
+    "name": "HUSHH",
+    "link": "https://music.163.com/song?id=1379843871",
+    "duration": "03:00",
+    "artists": [
+      { "name": "AViVA", "link": "https://music.163.com/artist?id=12074178" }
+    ],
+    "album": {
+      "name": "HUSHH",
+      "link": "https://music.163.com/album?id=80585287"
+    }
+  },
+  {
+    "name": "快点告诉你",
+    "link": "https://music.163.com/song?id=28409805",
+    "duration": "02:08",
+    "artists": [
+      { "name": "苑冉", "link": "https://music.163.com/artist?id=31156574" }
+    ],
+    "album": {
+      "name": "快点告诉你",
+      "link": "https://music.163.com/album?id=2786606"
+    }
+  },
+  {
+    "name": "扉をあけて - (TV动画《魔卡少女樱》OP2)",
+    "link": "https://music.163.com/song?id=555959",
+    "duration": "04:43",
+    "artists": [
+      { "name": "ANZA", "link": "https://music.163.com/artist?id=16037" }
+    ],
+    "album": {
+      "name": "扉をあけて",
+      "link": "https://music.163.com/album?id=52037"
+    }
+  },
+  {
+    "name": "EXEC_COSMOFLIPS/.",
+    "link": "https://music.163.com/song?id=4940455",
+    "duration": "03:36",
+    "artists": [
+      { "name": "KOKIA", "link": "https://music.163.com/artist?id=16686" }
+    ],
+    "album": {
+      "name": "咲夜琉命 ~Ar tonelicoIII hymmnos concert side. 苍~",
+      "link": "https://music.163.com/album?id=493991"
+    }
+  },
+  {
+    "name": "Only Us",
+    "link": "https://music.163.com/song?id=30512962",
+    "duration": "04:24",
+    "artists": [
+      { "name": "Redmoon", "link": "https://music.163.com/artist?id=475183" },
+      { "name": "Jonny Rose", "link": "https://music.163.com/artist?id=904226" }
+    ],
+    "album": {
+      "name": "Only Us",
+      "link": "https://music.163.com/album?id=3102557"
+    }
+  },
+  {
+    "name": "Broken",
+    "link": "https://music.163.com/song?id=1402845090",
+    "duration": "05:05",
+    "artists": [
+      {
+        "name": "Anson Seabra",
+        "link": "https://music.163.com/artist?id=14470054"
+      }
+    ],
+    "album": {
+      "name": "Broken",
+      "link": "https://music.163.com/album?id=83219227"
+    }
+  },
+  {
+    "name": "たぶん - (大概)",
+    "link": "https://music.163.com/song?id=1459343252",
+    "duration": "04:18",
+    "artists": [
+      { "name": "YOASOBI", "link": "https://music.163.com/artist?id=33927412" }
+    ],
+    "album": {
+      "name": "たぶん",
+      "link": "https://music.163.com/album?id=91768071"
+    }
+  },
+  {
+    "name": "Stimela",
+    "link": "https://music.163.com/song?id=3849569",
+    "duration": "04:31",
+    "artists": [
+      {
+        "name": "Wynter Gordon",
+        "link": "https://music.163.com/artist?id=84766"
+      }
+    ],
+    "album": {
+      "name": "Human Condition: Doleo",
+      "link": "https://music.163.com/album?id=389536"
+    }
+  },
+  {
+    "name": "Autumn",
+    "link": "https://music.163.com/song?id=36308723",
+    "duration": "03:26",
+    "artists": [
+      { "name": "Kozoro", "link": "https://music.163.com/artist?id=1050567" }
+    ],
+    "album": {
+      "name": "Autumn",
+      "link": "https://music.163.com/album?id=3395116"
+    }
+  },
+  {
+    "name": "SMALL TALK",
+    "link": "https://music.163.com/song?id=1839812377",
+    "duration": "02:01",
+    "artists": [
+      { "name": "Russ", "link": "https://music.163.com/artist?id=241588" }
+    ],
+    "album": {
+      "name": "SMALL TALK",
+      "link": "https://music.163.com/album?id=126477264"
+    }
+  }
+]

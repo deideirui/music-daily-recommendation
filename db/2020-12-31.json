@@ -1,0 +1,481 @@
+[
+  {
+    "name": "Back To U",
+    "link": "https://music.163.com/song?id=1442681212",
+    "duration": "03:34",
+    "artists": [
+      { "name": "SLANDER", "link": "https://music.163.com/artist?id=1137239" },
+      {
+        "name": "William Black",
+        "link": "https://music.163.com/artist?id=248957"
+      }
+    ],
+    "album": {
+      "name": "Back To U",
+      "link": "https://music.163.com/album?id=88388886"
+    }
+  },
+  {
+    "name": "Keep You Mine (Acoustic)",
+    "link": "https://music.163.com/song?id=1392089491",
+    "duration": "03:03",
+    "artists": [
+      { "name": "NOTD", "link": "https://music.163.com/artist?id=12262306" },
+      {
+        "name": "SHY Martin",
+        "link": "https://music.163.com/artist?id=12354062"
+      }
+    ],
+    "album": {
+      "name": "Keep You Mine (Acoustic)",
+      "link": "https://music.163.com/album?id=81786604"
+    }
+  },
+  {
+    "name": "Crossroads",
+    "link": "https://music.163.com/song?id=30780806",
+    "duration": "05:04",
+    "artists": [
+      { "name": "Kozoro", "link": "https://music.163.com/artist?id=1050567" }
+    ],
+    "album": {
+      "name": "Crossroads",
+      "link": "https://music.163.com/album?id=3103327"
+    }
+  },
+  {
+    "name": "Tales of Xin (Full Version)",
+    "link": "https://music.163.com/song?id=1404917400",
+    "duration": "03:18",
+    "artists": [
+      { "name": "Andreas B.", "link": "https://music.163.com/artist?id=299713" }
+    ],
+    "album": {
+      "name": "Tales of Xin (Full Version)",
+      "link": "https://music.163.com/album?id=83539021"
+    }
+  },
+  {
+    "name": "Hands",
+    "link": "https://music.163.com/song?id=407862278",
+    "duration": "04:22",
+    "artists": [
+      {
+        "name": "Gareth Emery",
+        "link": "https://music.163.com/artist?id=34318"
+      },
+      { "name": "Alastor", "link": "https://music.163.com/artist?id=85992" },
+      {
+        "name": "London Thor",
+        "link": "https://music.163.com/artist?id=1102061"
+      }
+    ],
+    "album": {
+      "name": "100 Reasons To Live",
+      "link": "https://music.163.com/album?id=34590162"
+    }
+  },
+  {
+    "name": "Pages",
+    "link": "https://music.163.com/song?id=484311618",
+    "duration": "03:42",
+    "artists": [
+      { "name": "ATB", "link": "https://music.163.com/artist?id=27623" },
+      { "name": "HALIENE", "link": "https://music.163.com/artist?id=13202710" }
+    ],
+    "album": {
+      "name": "Pages",
+      "link": "https://music.163.com/album?id=35622447"
+    }
+  },
+  {
+    "name": "I'll Wait",
+    "link": "https://music.163.com/song?id=1434419312",
+    "duration": "03:35",
+    "artists": [
+      { "name": "Kygo", "link": "https://music.163.com/artist?id=844410" },
+      {
+        "name": "Sasha Sloan",
+        "link": "https://music.163.com/artist?id=12646102"
+      }
+    ],
+    "album": {
+      "name": "I'll Wait",
+      "link": "https://music.163.com/album?id=86883079"
+    }
+  },
+  {
+    "name": "Bloom",
+    "link": "https://music.163.com/song?id=1347227968",
+    "duration": "04:00",
+    "artists": [
+      { "name": "Dabin", "link": "https://music.163.com/artist?id=783446" },
+      {
+        "name": "Dia Frampton",
+        "link": "https://music.163.com/artist?id=55454"
+      }
+    ],
+    "album": {
+      "name": "Wild Youth",
+      "link": "https://music.163.com/album?id=75638746"
+    }
+  },
+  {
+    "name": "I Will Love You",
+    "link": "https://music.163.com/song?id=510800700",
+    "duration": "04:37",
+    "artists": [
+      {
+        "name": "Roman JStreet",
+        "link": "https://music.163.com/artist?id=12716493"
+      }
+    ],
+    "album": {
+      "name": "I Will Love You",
+      "link": "https://music.163.com/album?id=36475737"
+    }
+  },
+  {
+    "name": "Young (Nicky Romero Remix) (Radio)",
+    "link": "https://music.163.com/song?id=504016018",
+    "duration": "03:40",
+    "artists": [
+      {
+        "name": "Nicky Romero",
+        "link": "https://music.163.com/artist?id=195142"
+      },
+      {
+        "name": "The Chainsmokers",
+        "link": "https://music.163.com/artist?id=893484"
+      }
+    ],
+    "album": {
+      "name": "Young (Nicky Romero Remix)",
+      "link": "https://music.163.com/album?id=36138013"
+    }
+  },
+  {
+    "name": "Wildest Dream",
+    "link": "https://music.163.com/song?id=1351000659",
+    "duration": "03:07",
+    "artists": [
+      {
+        "name": "Thomas Gold",
+        "link": "https://music.163.com/artist?id=196219"
+      },
+      { "name": "Kosling", "link": "https://music.163.com/artist?id=29289583" },
+      {
+        "name": "Matthew Steeper",
+        "link": "https://music.163.com/artist?id=1094011"
+      }
+    ],
+    "album": {
+      "name": "Wildest Dream",
+      "link": "https://music.163.com/album?id=75807257"
+    }
+  },
+  {
+    "name": "AnTi - Smile",
+    "link": "https://music.163.com/song?id=472948108",
+    "duration": "03:00",
+    "artists": [
+      { "name": "ThimLife", "link": "https://music.163.com/artist?id=1046016" }
+    ],
+    "album": {
+      "name": "AnTi - Smile",
+      "link": "https://music.163.com/album?id=35392043"
+    }
+  },
+  {
+    "name": "Don't Say",
+    "link": "https://music.163.com/song?id=862099429",
+    "duration": "03:02",
+    "artists": [
+      { "name": "Hoang", "link": "https://music.163.com/artist?id=27694442" },
+      { "name": "Nevve", "link": "https://music.163.com/artist?id=12567101" }
+    ],
+    "album": {
+      "name": "Don't Say",
+      "link": "https://music.163.com/album?id=71614737"
+    }
+  },
+  {
+    "name": "Love Letter",
+    "link": "https://music.163.com/song?id=1419401258",
+    "duration": "04:05",
+    "artists": [
+      { "name": "RUQOA", "link": "https://music.163.com/artist?id=31281030" },
+      { "name": "동백", "link": "https://music.163.com/artist?id=34250913" }
+    ],
+    "album": {
+      "name": "Love Letter",
+      "link": "https://music.163.com/album?id=85286031"
+    }
+  },
+  {
+    "name": "Atlantis (Original Mix)",
+    "link": "https://music.163.com/song?id=31986257",
+    "duration": "08:01",
+    "artists": [
+      { "name": "Plutian", "link": "https://music.163.com/artist?id=1078194" }
+    ],
+    "album": {
+      "name": "Atlantis",
+      "link": "https://music.163.com/album?id=3146094"
+    }
+  },
+  {
+    "name": "Twenty Something",
+    "link": "https://music.163.com/song?id=1355153108",
+    "duration": "04:37",
+    "artists": [
+      { "name": "Nightly", "link": "https://music.163.com/artist?id=12107608" }
+    ],
+    "album": {
+      "name": "Twenty Something",
+      "link": "https://music.163.com/album?id=78243726"
+    }
+  },
+  {
+    "name": "Tie Me Down",
+    "link": "https://music.163.com/song?id=1298505546",
+    "duration": "03:38",
+    "artists": [
+      { "name": "Gryffin", "link": "https://music.163.com/artist?id=1181504" },
+      {
+        "name": "Elley Duhé",
+        "link": "https://music.163.com/artist?id=12207014"
+      }
+    ],
+    "album": {
+      "name": "Tie Me Down",
+      "link": "https://music.163.com/album?id=72042813"
+    }
+  },
+  {
+    "name": "Northern Light",
+    "link": "https://music.163.com/song?id=1459853712",
+    "duration": "03:19",
+    "artists": [
+      {
+        "name": "Newclaess",
+        "link": "https://music.163.com/artist?id=13335706"
+      }
+    ],
+    "album": {
+      "name": "Northern Light",
+      "link": "https://music.163.com/album?id=91873573"
+    }
+  },
+  {
+    "name": "Brother",
+    "link": "https://music.163.com/song?id=485960410",
+    "duration": "03:22",
+    "artists": [
+      { "name": "Kodaline", "link": "https://music.163.com/artist?id=727007" }
+    ],
+    "album": {
+      "name": "Brother",
+      "link": "https://music.163.com/album?id=35663026"
+    }
+  },
+  {
+    "name": "Crash and Burn",
+    "link": "https://music.163.com/song?id=865916405",
+    "duration": "03:51",
+    "artists": [
+      { "name": "Refuzion", "link": "https://music.163.com/artist?id=1081221" }
+    ],
+    "album": {
+      "name": "Crash And Burn",
+      "link": "https://music.163.com/album?id=71802261"
+    }
+  },
+  {
+    "name": "Little Bit of Love",
+    "link": "https://music.163.com/song?id=1359705415",
+    "duration": "03:33",
+    "artists": [
+      { "name": "Tritonal", "link": "https://music.163.com/artist?id=104133" },
+      {
+        "name": "Rachel Platten",
+        "link": "https://music.163.com/artist?id=74518"
+      }
+    ],
+    "album": {
+      "name": "Little Bit of Love",
+      "link": "https://music.163.com/album?id=78603732"
+    }
+  },
+  {
+    "name": "Open Eyes (MaHi Remix)",
+    "link": "https://music.163.com/song?id=426850771",
+    "duration": "03:56",
+    "artists": [
+      { "name": "MaHi", "link": "https://music.163.com/artist?id=1015367" },
+      { "name": "Estiva", "link": "https://music.163.com/artist?id=789773" },
+      { "name": "Adara", "link": "https://music.163.com/artist?id=1177069" }
+    ],
+    "album": {
+      "name": "Open Eyes (MaHi Remix)",
+      "link": "https://music.163.com/album?id=34839247"
+    }
+  },
+  {
+    "name": "Lighthouse",
+    "link": "https://music.163.com/song?id=1402259424",
+    "duration": "04:00",
+    "artists": [
+      {
+        "name": "Wasted Penguinz",
+        "link": "https://music.163.com/artist?id=816508"
+      },
+      {
+        "name": "Michael Jo",
+        "link": "https://music.163.com/artist?id=31540520"
+      }
+    ],
+    "album": {
+      "name": "Lighthouse",
+      "link": "https://music.163.com/album?id=83158623"
+    }
+  },
+  {
+    "name": "Far Away (Original Mix)",
+    "link": "https://music.163.com/song?id=403710528",
+    "duration": "04:39",
+    "artists": [
+      { "name": "Klaas", "link": "https://music.163.com/artist?id=106210" },
+      {
+        "name": "Jelle Van Dael",
+        "link": "https://music.163.com/artist?id=1015707"
+      }
+    ],
+    "album": {
+      "name": "Far Away",
+      "link": "https://music.163.com/album?id=34497138"
+    }
+  },
+  {
+    "name": "White Lies",
+    "link": "https://music.163.com/song?id=1398963403",
+    "duration": "03:20",
+    "artists": [
+      {
+        "name": "ElementD",
+        "link": "https://music.163.com/artist?id=12192245"
+      },
+      {
+        "name": "Harley Bird",
+        "link": "https://music.163.com/artist?id=12355691"
+      }
+    ],
+    "album": {
+      "name": "White Lies",
+      "link": "https://music.163.com/album?id=82715788"
+    }
+  },
+  {
+    "name": "Hard To Be Myself",
+    "link": "https://music.163.com/song?id=512385861",
+    "duration": "03:09",
+    "artists": [
+      {
+        "name": "Fickle Friends",
+        "link": "https://music.163.com/artist?id=869026"
+      }
+    ],
+    "album": {
+      "name": "Hard To Be Myself",
+      "link": "https://music.163.com/album?id=36506533"
+    }
+  },
+  {
+    "name": "All They Wanna Be",
+    "link": "https://music.163.com/song?id=539982411",
+    "duration": "02:48",
+    "artists": [
+      {
+        "name": "Madison Mars",
+        "link": "https://music.163.com/artist?id=1178176"
+      },
+      { "name": "Caslin", "link": "https://music.163.com/artist?id=13982016" }
+    ],
+    "album": {
+      "name": "All They Wanna Be",
+      "link": "https://music.163.com/album?id=37590767"
+    }
+  },
+  {
+    "name": "Cyber Heart (Extended Version)",
+    "link": "https://music.163.com/song?id=1364123092",
+    "duration": "04:00",
+    "artists": [
+      { "name": "JLV", "link": "https://music.163.com/artist?id=12335463" }
+    ],
+    "album": {
+      "name": "Generation HEX 010",
+      "link": "https://music.163.com/album?id=79011907"
+    }
+  },
+  {
+    "name": "Horizon (Original Mix)",
+    "link": "https://music.163.com/song?id=29344981",
+    "duration": "06:50",
+    "artists": [
+      {
+        "name": "Mhammed El Alami",
+        "link": "https://music.163.com/artist?id=956459"
+      },
+      { "name": "Illitheas", "link": "https://music.163.com/artist?id=1072023" }
+    ],
+    "album": {
+      "name": "Horizon",
+      "link": "https://music.163.com/album?id=2998570"
+    }
+  },
+  {
+    "name": "Out Of Town (My Own Road)",
+    "link": "https://music.163.com/song?id=1433323883",
+    "duration": "03:06",
+    "artists": [
+      {
+        "name": "RetroVision",
+        "link": "https://music.163.com/artist?id=11976142"
+      },
+      { "name": "JANEE", "link": "https://music.163.com/artist?id=12274245" },
+      { "name": "Lunis", "link": "https://music.163.com/artist?id=32056972" }
+    ],
+    "album": {
+      "name": "Out Of Town (My Own Road)",
+      "link": "https://music.163.com/album?id=86766109"
+    }
+  },
+  {
+    "name": "Hope Island (Original Mix)",
+    "link": "https://music.163.com/song?id=427142284",
+    "duration": "11:54",
+    "artists": [
+      {
+        "name": "Sound Apparel",
+        "link": "https://music.163.com/artist?id=385722"
+      }
+    ],
+    "album": {
+      "name": "Hope Island",
+      "link": "https://music.163.com/album?id=34839386"
+    }
+  },
+  {
+    "name": "Flags",
+    "link": "https://music.163.com/song?id=1805378330",
+    "duration": "03:36",
+    "artists": [
+      { "name": "Coldplay", "link": "https://music.163.com/artist?id=89365" }
+    ],
+    "album": {
+      "name": "Flags",
+      "link": "https://music.163.com/album?id=120618650"
+    }
+  }
+]

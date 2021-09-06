@@ -1,0 +1,440 @@
+[
+  {
+    "name": "Paradox",
+    "link": "https://music.163.com/song?id=1406130985",
+    "duration": "03:16",
+    "artists": [
+      { "name": "TonyZ", "link": "https://music.163.com/artist?id=28345386" }
+    ],
+    "album": {
+      "name": "Paradox",
+      "link": "https://music.163.com/album?id=83690226"
+    }
+  },
+  {
+    "name": "Polaris",
+    "link": "https://music.163.com/song?id=1386591958",
+    "duration": "05:25",
+    "artists": [
+      { "name": "Elathan", "link": "https://music.163.com/artist?id=34203569" }
+    ],
+    "album": {
+      "name": "Polaris（北极星）",
+      "link": "https://music.163.com/album?id=81037851"
+    }
+  },
+  {
+    "name": "Roam",
+    "link": "https://music.163.com/song?id=865779160",
+    "duration": "03:08",
+    "artists": [
+      { "name": "Tabee1", "link": "https://music.163.com/artist?id=12491921" }
+    ],
+    "album": {
+      "name": "Roam",
+      "link": "https://music.163.com/album?id=71783777"
+    }
+  },
+  {
+    "name": "Torrent",
+    "link": "https://music.163.com/song?id=568160746",
+    "duration": "03:21",
+    "artists": [
+      { "name": "暴君de", "link": "https://music.163.com/artist?id=12599289" }
+    ],
+    "album": {
+      "name": "Torrent",
+      "link": "https://music.163.com/album?id=39286543"
+    }
+  },
+  {
+    "name": "Endless Rain",
+    "link": "https://music.163.com/song?id=1349384573",
+    "duration": "03:19",
+    "artists": [
+      { "name": "Tangent", "link": "https://music.163.com/artist?id=30285833" }
+    ],
+    "album": {
+      "name": "下不完的雨",
+      "link": "https://music.163.com/album?id=75718085"
+    }
+  },
+  {
+    "name": "Let's Run Away",
+    "link": "https://music.163.com/song?id=408814022",
+    "duration": "03:06",
+    "artists": [
+      { "name": "Vexento", "link": "https://music.163.com/artist?id=12037010" }
+    ],
+    "album": {
+      "name": "Inspiration",
+      "link": "https://music.163.com/album?id=34594797"
+    }
+  },
+  {
+    "name": "Devil I Know",
+    "link": "https://music.163.com/song?id=1413982723",
+    "duration": "02:52",
+    "artists": [
+      { "name": "Allie X", "link": "https://music.163.com/artist?id=973030" }
+    ],
+    "album": {
+      "name": "Devil I Know",
+      "link": "https://music.163.com/album?id=84697893"
+    }
+  },
+  {
+    "name": "Amelia",
+    "link": "https://music.163.com/song?id=431357312",
+    "duration": "03:14",
+    "artists": [
+      { "name": "SKOTT", "link": "https://music.163.com/artist?id=12061139" }
+    ],
+    "album": {
+      "name": "Amelia",
+      "link": "https://music.163.com/album?id=34874893"
+    }
+  },
+  {
+    "name": "Dogthief",
+    "link": "https://music.163.com/song?id=1831269663",
+    "duration": "02:11",
+    "artists": [
+      { "name": "Peach M", "link": "https://music.163.com/artist?id=47126707" }
+    ],
+    "album": {
+      "name": "Dogthief",
+      "link": "https://music.163.com/album?id=124760544"
+    }
+  },
+  {
+    "name": "The Edge ",
+    "link": "https://music.163.com/song?id=1315450595",
+    "duration": "03:13",
+    "artists": [
+      { "name": "Grant", "link": "https://music.163.com/artist?id=813362" },
+      { "name": "Nevve", "link": "https://music.163.com/artist?id=12567101" }
+    ],
+    "album": {
+      "name": "The Edge (feat. Nevve)",
+      "link": "https://music.163.com/album?id=73781583"
+    }
+  },
+  {
+    "name": "The Seed",
+    "link": "https://music.163.com/song?id=1356666025",
+    "duration": "04:26",
+    "artists": [
+      { "name": "AURORA", "link": "https://music.163.com/artist?id=1043338" }
+    ],
+    "album": {
+      "name": "The Seed",
+      "link": "https://music.163.com/album?id=78333513"
+    }
+  },
+  {
+    "name": "Round & Round",
+    "link": "https://music.163.com/song?id=477936528",
+    "duration": "03:30",
+    "artists": [
+      {
+        "name": "The Spacies",
+        "link": "https://music.163.com/artist?id=12175190"
+      }
+    ],
+    "album": {
+      "name": "Round & Round",
+      "link": "https://music.163.com/album?id=35500133"
+    }
+  },
+  {
+    "name": "ID (Ultra Music Festival Anthem)",
+    "link": "https://music.163.com/song?id=31053665",
+    "duration": "04:50",
+    "artists": [
+      { "name": "Kygo", "link": "https://music.163.com/artist?id=844410" }
+    ],
+    "album": {
+      "name": "ID (Ultra Music Festival Anthem)",
+      "link": "https://music.163.com/album?id=3109472"
+    }
+  },
+  {
+    "name": "Need Somebody",
+    "link": "https://music.163.com/song?id=1392174578",
+    "duration": "02:42",
+    "artists": [
+      {
+        "name": "Chris Ayer",
+        "link": "https://music.163.com/artist?id=12274427"
+      }
+    ],
+    "album": {
+      "name": "Endless Wonder",
+      "link": "https://music.163.com/album?id=81796263"
+    }
+  },
+  {
+    "name": "colorblind",
+    "link": "https://music.163.com/song?id=1401899720",
+    "duration": "03:13",
+    "artists": [
+      { "name": "Mokita", "link": "https://music.163.com/artist?id=12033046" }
+    ],
+    "album": {
+      "name": "colorblind",
+      "link": "https://music.163.com/album?id=83102480"
+    }
+  },
+  {
+    "name": "想化成风",
+    "link": "https://music.163.com/song?id=1398272535",
+    "duration": "03:13",
+    "artists": [
+      { "name": "秦洋", "link": "https://music.163.com/artist?id=12766324" }
+    ],
+    "album": {
+      "name": "想化成风",
+      "link": "https://music.163.com/album?id=82594951"
+    }
+  },
+  {
+    "name": "Pushing 21",
+    "link": "https://music.163.com/song?id=1354240664",
+    "duration": "03:27",
+    "artists": [
+      {
+        "name": "Liv Dawson",
+        "link": "https://music.163.com/artist?id=12046546"
+      }
+    ],
+    "album": {
+      "name": "Pushing 21",
+      "link": "https://music.163.com/album?id=78193658"
+    }
+  },
+  {
+    "name": "Keeper",
+    "link": "https://music.163.com/song?id=34468945",
+    "duration": "04:25",
+    "artists": [
+      { "name": "Furns", "link": "https://music.163.com/artist?id=1132267" }
+    ],
+    "album": {
+      "name": "Keeper",
+      "link": "https://music.163.com/album?id=3286139"
+    }
+  },
+  {
+    "name": "Fading Memories",
+    "link": "https://music.163.com/song?id=28347789",
+    "duration": "03:41",
+    "artists": [
+      {
+        "name": "Timecop1983",
+        "link": "https://music.163.com/artist?id=954496"
+      }
+    ],
+    "album": {
+      "name": "Synthetic Romance EP",
+      "link": "https://music.163.com/album?id=2778145"
+    }
+  },
+  {
+    "name": "Chasing Yesterday",
+    "link": "https://music.163.com/song?id=411921884",
+    "duration": "03:55",
+    "artists": [
+      { "name": "FM-84", "link": "https://music.163.com/artist?id=12046467" }
+    ],
+    "album": {
+      "name": "Atlas",
+      "link": "https://music.163.com/album?id=34686652"
+    }
+  },
+  {
+    "name": "Some Dreams",
+    "link": "https://music.163.com/song?id=986444",
+    "duration": "04:30",
+    "artists": [
+      {
+        "name": "Allan Taylor",
+        "link": "https://music.163.com/artist?id=27594"
+      }
+    ],
+    "album": {
+      "name": "Hotels & Dreamers",
+      "link": "https://music.163.com/album?id=103502"
+    }
+  },
+  {
+    "name": "I Am Not Alone",
+    "link": "https://music.163.com/song?id=28828716",
+    "duration": "04:12",
+    "artists": [
+      {
+        "name": "Priscilla Ahn",
+        "link": "https://music.163.com/artist?id=70820"
+      }
+    ],
+    "album": {
+      "name": "あなたのことが大すき。「思い出のマーニー」歌集アルバム",
+      "link": "https://music.163.com/album?id=2902344"
+    }
+  },
+  {
+    "name": "サラのテーマ - (Schala's Theme)",
+    "link": "https://music.163.com/song?id=35437032",
+    "duration": "04:04",
+    "artists": [
+      {
+        "name": "Laura Shigihara",
+        "link": "https://music.163.com/artist?id=65977"
+      }
+    ],
+    "album": {
+      "name": "ハルカナルトキノカナタヘ",
+      "link": "https://music.163.com/album?id=3329005"
+    }
+  },
+  {
+    "name": "Ágúst",
+    "link": "https://music.163.com/song?id=16139395",
+    "duration": "03:06",
+    "artists": [
+      {
+        "name": "Ólafur Arnalds",
+        "link": "https://music.163.com/artist?id=40858"
+      }
+    ],
+    "album": {
+      "name": "Living Room Songs",
+      "link": "https://music.163.com/album?id=1489044"
+    }
+  },
+  {
+    "name": "だから僕は音楽を辞めた - (所以我放弃了音乐)",
+    "link": "https://music.163.com/song?id=1357953768",
+    "duration": "04:02",
+    "artists": [
+      { "name": "ヨルシカ", "link": "https://music.163.com/artist?id=12390232" }
+    ],
+    "album": {
+      "name": "だから僕は音楽を辞めた",
+      "link": "https://music.163.com/album?id=78399571"
+    }
+  },
+  {
+    "name": "Versace on the Floor",
+    "link": "https://music.163.com/song?id=438803482",
+    "duration": "04:21",
+    "artists": [
+      { "name": "Bruno Mars", "link": "https://music.163.com/artist?id=178059" }
+    ],
+    "album": {
+      "name": "24K Magic",
+      "link": "https://music.163.com/album?id=34898697"
+    }
+  },
+  {
+    "name": "River of Darkness",
+    "link": "https://music.163.com/song?id=1382563370",
+    "duration": "06:05",
+    "artists": [
+      {
+        "name": "The Midnight",
+        "link": "https://music.163.com/artist?id=12023492"
+      },
+      {
+        "name": "Timecop1983",
+        "link": "https://music.163.com/artist?id=954496"
+      }
+    ],
+    "album": {
+      "name": "Nocturnal",
+      "link": "https://music.163.com/album?id=80814887"
+    }
+  },
+  {
+    "name": "Kharon (Original Mix)",
+    "link": "https://music.163.com/song?id=530931780",
+    "duration": "07:38",
+    "artists": [
+      {
+        "name": "Eric Senn",
+        "link": "https://music.163.com/artist?id=12046749"
+      }
+    ],
+    "album": {
+      "name": "Kharon",
+      "link": "https://music.163.com/album?id=37300446"
+    }
+  },
+  {
+    "name": "At least for me, this is what it feels like",
+    "link": "https://music.163.com/song?id=550138219",
+    "duration": "04:27",
+    "artists": [
+      { "name": "Xeuphoria", "link": "https://music.163.com/artist?id=1064078" }
+    ],
+    "album": {
+      "name": "At least for me, this is what it feels like",
+      "link": "https://music.163.com/album?id=38226063"
+    }
+  },
+  {
+    "name": "Sky",
+    "link": "https://music.163.com/song?id=475072093",
+    "duration": "04:02",
+    "artists": [
+      { "name": "Zak Gott", "link": "https://music.163.com/artist?id=12400023" }
+    ],
+    "album": {
+      "name": "Mare Imbrium",
+      "link": "https://music.163.com/album?id=35444026"
+    }
+  },
+  {
+    "name": "Last Days",
+    "link": "https://music.163.com/song?id=439911467",
+    "duration": "09:59",
+    "artists": [
+      { "name": "吉田靖", "link": "https://music.163.com/artist?id=15854" }
+    ],
+    "album": {
+      "name": "Heavenly Me Last Days",
+      "link": "https://music.163.com/album?id=34975490"
+    }
+  },
+  {
+    "name": "Otherworld",
+    "link": "https://music.163.com/song?id=422960066",
+    "duration": "03:27",
+    "artists": [
+      { "name": "Killigrew", "link": "https://music.163.com/artist?id=38066" }
+    ],
+    "album": {
+      "name": "Animus II",
+      "link": "https://music.163.com/album?id=34791251"
+    }
+  },
+  {
+    "name": "Confident (Single Version)",
+    "link": "https://music.163.com/song?id=1831371775",
+    "duration": "04:08",
+    "artists": [
+      {
+        "name": "Justin Bieber",
+        "link": "https://music.163.com/artist?id=35531"
+      },
+      {
+        "name": "Chance the Rapper",
+        "link": "https://music.163.com/artist?id=749038"
+      }
+    ],
+    "album": {
+      "name": "Running Music Hits 2021",
+      "link": "https://music.163.com/album?id=124873274"
+    }
+  }
+]

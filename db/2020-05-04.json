@@ -1,0 +1,446 @@
+[
+  {
+    "name": "Heartline",
+    "link": "https://music.163.com/song?id=506094036",
+    "duration": "03:12",
+    "artists": [
+      {
+        "name": "Craig David",
+        "link": "https://music.163.com/artist?id=29959"
+      },
+      {
+        "name": "Jonas Blue",
+        "link": "https://music.163.com/artist?id=1192069"
+      }
+    ],
+    "album": {
+      "name": "Heartline",
+      "link": "https://music.163.com/album?id=36224023"
+    }
+  },
+  {
+    "name": "East of Eden",
+    "link": "https://music.163.com/song?id=29009655",
+    "duration": "03:05",
+    "artists": [
+      { "name": "Zella Day", "link": "https://music.163.com/artist?id=900106" }
+    ],
+    "album": {
+      "name": "East of Eden",
+      "link": "https://music.163.com/album?id=2976629"
+    }
+  },
+  {
+    "name": "梦寻古镇",
+    "link": "https://music.163.com/song?id=556717614",
+    "duration": "02:51",
+    "artists": [
+      {
+        "name": "羽翼深蓝Wings",
+        "link": "https://music.163.com/artist?id=12118139"
+      }
+    ],
+    "album": {
+      "name": "梦寻古镇",
+      "link": "https://music.163.com/album?id=38520590"
+    }
+  },
+  {
+    "name": "Tonight",
+    "link": "https://music.163.com/song?id=1377019226",
+    "duration": "03:18",
+    "artists": [
+      {
+        "name": "Wav3motion",
+        "link": "https://music.163.com/artist?id=12031110"
+      }
+    ],
+    "album": {
+      "name": "Tonight",
+      "link": "https://music.163.com/album?id=80307177"
+    }
+  },
+  {
+    "name": "In Your Arms (Stripped)",
+    "link": "https://music.163.com/song?id=1444904251",
+    "duration": "04:04",
+    "artists": [
+      { "name": "ILLENIUM", "link": "https://music.163.com/artist?id=1050518" },
+      {
+        "name": "X Ambassadors",
+        "link": "https://music.163.com/artist?id=780159"
+      }
+    ],
+    "album": {
+      "name": "In Your Arms (Stripped)",
+      "link": "https://music.163.com/album?id=88825997"
+    }
+  },
+  {
+    "name": "My Love",
+    "link": "https://music.163.com/song?id=413077349",
+    "duration": "04:00",
+    "artists": [
+      { "name": "Eliane", "link": "https://music.163.com/artist?id=56756" }
+    ],
+    "album": {
+      "name": "Bright Lights",
+      "link": "https://music.163.com/album?id=34700211"
+    }
+  },
+  {
+    "name": "What Are Words",
+    "link": "https://music.163.com/song?id=27109804",
+    "duration": "03:08",
+    "artists": [
+      {
+        "name": "Chris Medina",
+        "link": "https://music.163.com/artist?id=30899"
+      }
+    ],
+    "album": {
+      "name": "Absolute Music 67",
+      "link": "https://music.163.com/album?id=2584515"
+    }
+  },
+  {
+    "name": "GRRRLS",
+    "link": "https://music.163.com/song?id=515647696",
+    "duration": "03:48",
+    "artists": [
+      { "name": "AViVA", "link": "https://music.163.com/artist?id=12074178" }
+    ],
+    "album": {
+      "name": "GRRRLS",
+      "link": "https://music.163.com/album?id=36525894"
+    }
+  },
+  {
+    "name": "Strawberries & Cigarettes",
+    "link": "https://music.163.com/song?id=544247584",
+    "duration": "03:21",
+    "artists": [
+      { "name": "Troye Sivan", "link": "https://music.163.com/artist?id=45129" }
+    ],
+    "album": {
+      "name": "Love, Simon (Original Motion Picture Soundtrack)",
+      "link": "https://music.163.com/album?id=37767398"
+    }
+  },
+  {
+    "name": "Body High",
+    "link": "https://music.163.com/song?id=541499602",
+    "duration": "03:45",
+    "artists": [
+      {
+        "name": "Paris Blohm",
+        "link": "https://music.163.com/artist?id=851710"
+      },
+      { "name": "Myah Marie", "link": "https://music.163.com/artist?id=69061" }
+    ],
+    "album": {
+      "name": "Body High",
+      "link": "https://music.163.com/album?id=37575328"
+    }
+  },
+  {
+    "name": "90",
+    "link": "https://music.163.com/song?id=31997127",
+    "duration": "04:32",
+    "artists": [
+      { "name": "Pompeya", "link": "https://music.163.com/artist?id=99221" }
+    ],
+    "album": {
+      "name": "Tropical",
+      "link": "https://music.163.com/album?id=3139508"
+    }
+  },
+  {
+    "name": "Thinking About You",
+    "link": "https://music.163.com/song?id=3968245",
+    "duration": "03:57",
+    "artists": [
+      {
+        "name": "Blazin' Squad",
+        "link": "https://music.163.com/artist?id=88431"
+      }
+    ],
+    "album": {
+      "name": "Now or Never",
+      "link": "https://music.163.com/album?id=401269"
+    }
+  },
+  {
+    "name": "Alla ögon på mig",
+    "link": "https://music.163.com/song?id=505060860",
+    "duration": "03:36",
+    "artists": [
+      { "name": "Darin", "link": "https://music.163.com/artist?id=31200" }
+    ],
+    "album": {
+      "name": "Alla ögon på mig",
+      "link": "https://music.163.com/album?id=36049690"
+    }
+  },
+  {
+    "name": "How Deep Is Your Love (Liva K Remix)",
+    "link": "https://music.163.com/song?id=34690580",
+    "duration": "07:10",
+    "artists": [
+      { "name": "Liva K", "link": "https://music.163.com/artist?id=1149103" },
+      { "name": "Disciples", "link": "https://music.163.com/artist?id=574165" },
+      {
+        "name": "Ina Wroldsen",
+        "link": "https://music.163.com/artist?id=60879"
+      }
+    ],
+    "album": {
+      "name": "How Deep Is Your Love (Liva K Remix)",
+      "link": "https://music.163.com/album?id=3291308"
+    }
+  },
+  {
+    "name": "I Like Me Better",
+    "link": "https://music.163.com/song?id=479223413",
+    "duration": "03:17",
+    "artists": [
+      { "name": "Lauv", "link": "https://music.163.com/artist?id=1057226" }
+    ],
+    "album": {
+      "name": "I Like Me Better",
+      "link": "https://music.163.com/album?id=35536102"
+    }
+  },
+  {
+    "name": "Beautiful Pain",
+    "link": "https://music.163.com/song?id=27907490",
+    "duration": "04:25",
+    "artists": [
+      { "name": "Eminem", "link": "https://music.163.com/artist?id=32665" },
+      { "name": "Sia", "link": "https://music.163.com/artist?id=74625" }
+    ],
+    "album": {
+      "name": "The Marshall Mathers LP 2 (Deluxe)",
+      "link": "https://music.163.com/album?id=2693025"
+    }
+  },
+  {
+    "name": "Edge Of Glory",
+    "link": "https://music.163.com/song?id=1349025502",
+    "duration": "03:30",
+    "artists": [
+      {
+        "name": "Phuture Noize",
+        "link": "https://music.163.com/artist?id=808091"
+      }
+    ],
+    "album": {
+      "name": "A New Day",
+      "link": "https://music.163.com/album?id=75018185"
+    }
+  },
+  {
+    "name": "Liberty",
+    "link": "https://music.163.com/song?id=1336866672",
+    "duration": "04:01",
+    "artists": [
+      { "name": "HELIX", "link": "https://music.163.com/artist?id=27693901" },
+      {
+        "name": "Hardstyle Pianist",
+        "link": "https://music.163.com/artist?id=15341778"
+      }
+    ],
+    "album": {
+      "name": "Liberty",
+      "link": "https://music.163.com/album?id=75019065"
+    }
+  },
+  {
+    "name": "Superb (original mix)",
+    "link": "https://music.163.com/song?id=29487452",
+    "duration": "06:52",
+    "artists": [
+      { "name": "Mossy", "link": "https://music.163.com/artist?id=205303" }
+    ],
+    "album": {
+      "name": "Superb",
+      "link": "https://music.163.com/album?id=3033062"
+    }
+  },
+  {
+    "name": "Somero",
+    "link": "https://music.163.com/song?id=414980898",
+    "duration": "04:46",
+    "artists": [
+      { "name": "Mich", "link": "https://music.163.com/artist?id=1087105" }
+    ],
+    "album": {
+      "name": "Somero",
+      "link": "https://music.163.com/album?id=34721346"
+    }
+  },
+  {
+    "name": "Girl From Heavens",
+    "link": "https://music.163.com/song?id=4150310",
+    "duration": "05:21",
+    "artists": [
+      { "name": "Koan", "link": "https://music.163.com/artist?id=95385" }
+    ],
+    "album": {
+      "name": "Two Moon Butterflies",
+      "link": "https://music.163.com/album?id=419583"
+    }
+  },
+  {
+    "name": "On the other side of sunset",
+    "link": "https://music.163.com/song?id=407889550",
+    "duration": "06:58",
+    "artists": [
+      {
+        "name": "Nega music project",
+        "link": "https://music.163.com/artist?id=40805"
+      }
+    ],
+    "album": {
+      "name": "Fantastic dreams 015",
+      "link": "https://music.163.com/album?id=34588329"
+    }
+  },
+  {
+    "name": "Clear (Shawn Wasabi Remix)",
+    "link": "https://music.163.com/song?id=417833443",
+    "duration": "03:01",
+    "artists": [
+      {
+        "name": "Shawn Wasabi",
+        "link": "https://music.163.com/artist?id=1022005"
+      },
+      { "name": "Pusher", "link": "https://music.163.com/artist?id=653710" },
+      { "name": "Mothica", "link": "https://music.163.com/artist?id=11996025" }
+    ],
+    "album": {
+      "name": "Clear (Shawn Wasabi Remix)",
+      "link": "https://music.163.com/album?id=34739652"
+    }
+  },
+  {
+    "name": "Eon (Original Mix)",
+    "link": "https://music.163.com/song?id=422977864",
+    "duration": "07:44",
+    "artists": [
+      { "name": "Musty", "link": "https://music.163.com/artist?id=12080271" }
+    ],
+    "album": {
+      "name": "Eon / Sofia",
+      "link": "https://music.163.com/album?id=34791474"
+    }
+  },
+  {
+    "name": "All Time Low",
+    "link": "https://music.163.com/song?id=461544312",
+    "duration": "03:21",
+    "artists": [
+      {
+        "name": "Kurt Hugo Schneider",
+        "link": "https://music.163.com/artist?id=37962"
+      },
+      { "name": "Sam Tsui", "link": "https://music.163.com/artist?id=43722" },
+      {
+        "name": "Casey Breves",
+        "link": "https://music.163.com/artist?id=1086079"
+      }
+    ],
+    "album": {
+      "name": "All Time Low",
+      "link": "https://music.163.com/album?id=35196325"
+    }
+  },
+  {
+    "name": "不是因为天气晴朗才爱你（翻自 理想混蛋 Bestards） ",
+    "link": "https://music.163.com/song?id=1372806543",
+    "duration": "03:59",
+    "artists": [
+      { "name": "丁芙妮", "link": "https://music.163.com/artist?id=12206844" }
+    ],
+    "album": {
+      "name": "不是因为天气晴朗才爱你",
+      "link": "https://music.163.com/album?id=79495385"
+    }
+  },
+  {
+    "name": "Come And Get It (Razihel Remix)",
+    "link": "https://music.163.com/song?id=26193501",
+    "duration": "03:38",
+    "artists": [
+      { "name": "Krewella", "link": "https://music.163.com/artist?id=208915" },
+      { "name": "Razihel", "link": "https://music.163.com/artist?id=331285" }
+    ],
+    "album": {
+      "name": "Come & Get It (The Remixes)",
+      "link": "https://music.163.com/album?id=2419268"
+    }
+  },
+  {
+    "name": "The Flow (Original Mix)",
+    "link": "https://music.163.com/song?id=36496614",
+    "duration": "07:37",
+    "artists": [
+      { "name": "MaHi", "link": "https://music.163.com/artist?id=1015367" }
+    ],
+    "album": {
+      "name": "The Flow",
+      "link": "https://music.163.com/album?id=3395405"
+    }
+  },
+  {
+    "name": "I Wish You Knew",
+    "link": "https://music.163.com/song?id=4302876",
+    "duration": "04:03",
+    "artists": [
+      { "name": "Some & Any", "link": "https://music.163.com/artist?id=100459" }
+    ],
+    "album": {
+      "name": "First Shot",
+      "link": "https://music.163.com/album?id=434662"
+    }
+  },
+  {
+    "name": "Her smile",
+    "link": "https://music.163.com/song?id=1444852971",
+    "duration": "02:34",
+    "artists": [
+      { "name": "CJ Howe", "link": "https://music.163.com/artist?id=34373462" }
+    ],
+    "album": {
+      "name": "Still miss you",
+      "link": "https://music.163.com/album?id=85824055"
+    }
+  },
+  {
+    "name": "梦中的婚礼（纯音乐钢琴版）",
+    "link": "https://music.163.com/song?id=503081050",
+    "duration": "02:44",
+    "artists": [
+      {
+        "name": "小后SAX后俊羲",
+        "link": "https://music.163.com/artist?id=12085112"
+      }
+    ],
+    "album": {
+      "name": "梦中的婚礼（纯音乐钢琴版）",
+      "link": "https://music.163.com/album?id=36082652"
+    }
+  },
+  {
+    "name": "Jealousy remains",
+    "link": "https://music.163.com/song?id=36921338",
+    "duration": "02:47",
+    "artists": [
+      { "name": "Club 8", "link": "https://music.163.com/artist?id=89361" }
+    ],
+    "album": {
+      "name": "Pleasure",
+      "link": "https://music.163.com/album?id=3378495"
+    }
+  }
+]

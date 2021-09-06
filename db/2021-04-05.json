@@ -1,0 +1,419 @@
+[
+  {
+    "name": "游云",
+    "link": "https://music.163.com/song?id=501441578",
+    "duration": "05:05",
+    "artists": [
+      { "name": "暴君de", "link": "https://music.163.com/artist?id=12599289" }
+    ],
+    "album": {
+      "name": "游云",
+      "link": "https://music.163.com/album?id=36046226"
+    }
+  },
+  {
+    "name": "Above the sky",
+    "link": "https://music.163.com/song?id=1439620623",
+    "duration": "03:33",
+    "artists": [
+      {
+        "name": "绘师岸田",
+        "link": "https://music.163.com/artist?id=12282208"
+      },
+      {
+        "name": "无音乐不人生",
+        "link": "https://music.163.com/artist?id=13911358"
+      }
+    ],
+    "album": {
+      "name": "Above the sky",
+      "link": "https://music.163.com/album?id=87517441"
+    }
+  },
+  {
+    "name": "Don't care",
+    "link": "https://music.163.com/song?id=1342960172",
+    "duration": "04:07",
+    "artists": [
+      { "name": "Inogg", "link": "https://music.163.com/artist?id=12643745" }
+    ],
+    "album": {
+      "name": "vogue V Family 2018",
+      "link": "https://music.163.com/album?id=75375157"
+    }
+  },
+  {
+    "name": ":(",
+    "link": "https://music.163.com/song?id=1359492224",
+    "duration": "03:08",
+    "artists": [
+      { "name": "Bahari", "link": "https://music.163.com/artist?id=1044218" }
+    ],
+    "album": { "name": ":(", "link": "https://music.163.com/album?id=78582769" }
+  },
+  {
+    "name": "Seriously?",
+    "link": "https://music.163.com/song?id=1350364030",
+    "duration": "03:04",
+    "artists": [
+      { "name": "Laoise", "link": "https://music.163.com/artist?id=603947" }
+    ],
+    "album": {
+      "name": "Mad",
+      "link": "https://music.163.com/album?id=75781516"
+    }
+  },
+  {
+    "name": "Freak (The Otherside Series, Vol.2)",
+    "link": "https://music.163.com/song?id=1345494163",
+    "duration": "02:51",
+    "artists": [
+      {
+        "name": "Le Castle Vania",
+        "link": "https://music.163.com/artist?id=38684"
+      }
+    ],
+    "album": {
+      "name": "Freak (The Otherside Series, Vol.2)",
+      "link": "https://music.163.com/album?id=75517597"
+    }
+  },
+  {
+    "name": "China-H",
+    "link": "https://music.163.com/song?id=1346873056",
+    "duration": "03:52",
+    "artists": [
+      { "name": "Aexly", "link": "https://music.163.com/artist?id=30548630" }
+    ],
+    "album": {
+      "name": "CHina-H",
+      "link": "https://music.163.com/album?id=75609743"
+    }
+  },
+  {
+    "name": "Better Days",
+    "link": "https://music.163.com/song?id=1405111187",
+    "duration": "03:07",
+    "artists": [
+      {
+        "name": "Arman Cekin",
+        "link": "https://music.163.com/artist?id=1132987"
+      },
+      { "name": "Faydee", "link": "https://music.163.com/artist?id=33624" },
+      { "name": "Karra", "link": "https://music.163.com/artist?id=1081582" }
+    ],
+    "album": {
+      "name": "Better Days",
+      "link": "https://music.163.com/album?id=83569827"
+    }
+  },
+  {
+    "name": "Never Our Fault",
+    "link": "https://music.163.com/song?id=1310022346",
+    "duration": "03:01",
+    "artists": [
+      {
+        "name": "Lucas Estrada",
+        "link": "https://music.163.com/artist?id=12409125"
+      }
+    ],
+    "album": {
+      "name": "Never Our Fault",
+      "link": "https://music.163.com/album?id=73337169"
+    }
+  },
+  {
+    "name": "Water Drop",
+    "link": "https://music.163.com/song?id=1434590810",
+    "duration": "04:09",
+    "artists": [
+      { "name": "JINGYAN", "link": "https://music.163.com/artist?id=30645561" },
+      {
+        "name": "Thorium丶 shine",
+        "link": "https://music.163.com/artist?id=33107876"
+      }
+    ],
+    "album": {
+      "name": "Water Drop",
+      "link": "https://music.163.com/album?id=86866567"
+    }
+  },
+  {
+    "name": "Crazy While We're Young",
+    "link": "https://music.163.com/song?id=1821458740",
+    "duration": "03:34",
+    "artists": [
+      {
+        "name": "Crystal Skies",
+        "link": "https://music.163.com/artist?id=1063127"
+      },
+      { "name": "JT Roach", "link": "https://music.163.com/artist?id=12935954" }
+    ],
+    "album": {
+      "name": "Crazy While We're Young",
+      "link": "https://music.163.com/album?id=123276009"
+    }
+  },
+  {
+    "name": "You'll Be Mine (LeWinD Remix)",
+    "link": "https://music.163.com/song?id=1384319019",
+    "duration": "03:30",
+    "artists": [
+      { "name": "LeWinD", "link": "https://music.163.com/artist?id=32624970" },
+      { "name": "白鸿", "link": "https://music.163.com/artist?id=31008744" }
+    ],
+    "album": {
+      "name": "You'll Be Mine (LeWinD Remix)",
+      "link": "https://music.163.com/album?id=80957249"
+    }
+  },
+  {
+    "name": "Flowers",
+    "link": "https://music.163.com/song?id=1358178956",
+    "duration": "03:03",
+    "artists": [
+      {
+        "name": "The Tech Thieves",
+        "link": "https://music.163.com/artist?id=12080267"
+      }
+    ],
+    "album": {
+      "name": "Flowers",
+      "link": "https://music.163.com/album?id=78478314"
+    }
+  },
+  {
+    "name": "Boom Boom Pow",
+    "link": "https://music.163.com/song?id=1822249090",
+    "duration": "03:05",
+    "artists": [
+      { "name": "Zafrir", "link": "https://music.163.com/artist?id=28442738" },
+      { "name": "Afrojack", "link": "https://music.163.com/artist?id=28745" }
+    ],
+    "album": {
+      "name": "Boom Boom Pow",
+      "link": "https://music.163.com/album?id=123393748"
+    }
+  },
+  {
+    "name": "Used To Love (Acoustic Version)",
+    "link": "https://music.163.com/song?id=1422556164",
+    "duration": "03:31",
+    "artists": [
+      {
+        "name": "Martin Garrix",
+        "link": "https://music.163.com/artist?id=780003"
+      },
+      {
+        "name": "Dean Lewis",
+        "link": "https://music.163.com/artist?id=12132624"
+      }
+    ],
+    "album": {
+      "name": "Used To Love (Acoustic Version)",
+      "link": "https://music.163.com/album?id=85641981"
+    }
+  },
+  {
+    "name": "Roman Holiday",
+    "link": "https://music.163.com/song?id=34144935",
+    "duration": "03:21",
+    "artists": [
+      { "name": "Halsey", "link": "https://music.163.com/artist?id=964321" }
+    ],
+    "album": {
+      "name": "BADLANDS (Deluxe Edition)",
+      "link": "https://music.163.com/album?id=3271514"
+    }
+  },
+  {
+    "name": "Enemies",
+    "link": "https://music.163.com/song?id=564000298",
+    "duration": "03:14",
+    "artists": [
+      { "name": "Lauv", "link": "https://music.163.com/artist?id=1057226" }
+    ],
+    "album": {
+      "name": "I met you when I was 18. (the playlist)",
+      "link": "https://music.163.com/album?id=39087647"
+    }
+  },
+  {
+    "name": "Honest",
+    "link": "https://music.163.com/song?id=470547659",
+    "duration": "03:28",
+    "artists": [
+      {
+        "name": "The Chainsmokers",
+        "link": "https://music.163.com/artist?id=893484"
+      }
+    ],
+    "album": {
+      "name": "Memories...Do Not Open",
+      "link": "https://music.163.com/album?id=35347078"
+    }
+  },
+  {
+    "name": "Rum n Tequila",
+    "link": "https://music.163.com/song?id=1361104021",
+    "duration": "02:17",
+    "artists": [
+      { "name": "John K", "link": "https://music.163.com/artist?id=12931567" }
+    ],
+    "album": {
+      "name": "if we never met",
+      "link": "https://music.163.com/album?id=78750577"
+    }
+  },
+  {
+    "name": "One more time, One more chance",
+    "link": "https://music.163.com/song?id=1311347593",
+    "duration": "05:44",
+    "artists": [
+      { "name": "Uru", "link": "https://music.163.com/artist?id=12062125" }
+    ],
+    "album": {
+      "name": "Remember",
+      "link": "https://music.163.com/album?id=73470777"
+    }
+  },
+  {
+    "name": "约束をしよう",
+    "link": "https://music.163.com/song?id=825615",
+    "duration": "03:30",
+    "artists": [
+      { "name": "supercell", "link": "https://music.163.com/artist?id=21397" }
+    ],
+    "album": {
+      "name": "さよならメモリーズ",
+      "link": "https://music.163.com/album?id=81913"
+    }
+  },
+  {
+    "name": "三月は夜の底 - (黑夜深處的三月)",
+    "link": "https://music.163.com/song?id=31997441",
+    "duration": "04:25",
+    "artists": [
+      { "name": "古川本舗", "link": "https://music.163.com/artist?id=19475" }
+    ],
+    "album": {
+      "name": "SINGALONG7",
+      "link": "https://music.163.com/album?id=3139519"
+    }
+  },
+  {
+    "name": "Cloudburst",
+    "link": "https://music.163.com/song?id=32574995",
+    "duration": "03:54",
+    "artists": [
+      { "name": "Syndec", "link": "https://music.163.com/artist?id=1083103" }
+    ],
+    "album": {
+      "name": "Cloudburst",
+      "link": "https://music.163.com/album?id=3161705"
+    }
+  },
+  {
+    "name": "STREETS",
+    "link": "https://music.163.com/song?id=1377274010",
+    "duration": "03:19",
+    "artists": [
+      { "name": "AViVA", "link": "https://music.163.com/artist?id=12074178" }
+    ],
+    "album": {
+      "name": "STREETS",
+      "link": "https://music.163.com/album?id=80336075"
+    }
+  },
+  {
+    "name": "Rewrite",
+    "link": "https://music.163.com/song?id=1388137930",
+    "duration": "04:03",
+    "artists": [
+      { "name": "milet", "link": "https://music.163.com/artist?id=31464106" }
+    ],
+    "album": { "name": "us", "link": "https://music.163.com/album?id=81298658" }
+  },
+  {
+    "name": "勘ぐれい - (灰心感)",
+    "link": "https://music.163.com/song?id=1498613705",
+    "duration": "04:09",
+    "artists": [
+      {
+        "name": "ずっと真夜中でいいのに。",
+        "link": "https://music.163.com/artist?id=15021101"
+      }
+    ],
+    "album": {
+      "name": "勘ぐれい",
+      "link": "https://music.163.com/album?id=98835352"
+    }
+  },
+  {
+    "name": "Sonar (Full Version)",
+    "link": "https://music.163.com/song?id=506092106",
+    "duration": "03:41",
+    "artists": [
+      { "name": "Andreas B.", "link": "https://music.163.com/artist?id=299713" }
+    ],
+    "album": {
+      "name": "Sonar (Full Version)",
+      "link": "https://music.163.com/album?id=36224036"
+    }
+  },
+  {
+    "name": "In Darkness, You Were My Light",
+    "link": "https://music.163.com/song?id=26625539",
+    "duration": "02:43",
+    "artists": [
+      { "name": "Near Light", "link": "https://music.163.com/artist?id=792618" }
+    ],
+    "album": {
+      "name": "Near Light: All B-Sides",
+      "link": "https://music.163.com/album?id=2536702"
+    }
+  },
+  {
+    "name": "Flow",
+    "link": "https://music.163.com/song?id=32196694",
+    "duration": "03:30",
+    "artists": [
+      { "name": "Olivera", "link": "https://music.163.com/artist?id=1079097" }
+    ],
+    "album": {
+      "name": "Flow",
+      "link": "https://music.163.com/album?id=3155144"
+    }
+  },
+  {
+    "name": "夢桜",
+    "link": "https://music.163.com/song?id=756162",
+    "duration": "05:07",
+    "artists": [
+      {
+        "name": "Jusqu'à Grand-Père",
+        "link": "https://music.163.com/artist?id=20025"
+      }
+    ],
+    "album": {
+      "name": "千年の戀",
+      "link": "https://music.163.com/album?id=74248"
+    }
+  },
+  {
+    "name": "Stay Mine",
+    "link": "https://music.163.com/song?id=1833798426",
+    "duration": "02:58",
+    "artists": [
+      {
+        "name": "Timmy Trumpet",
+        "link": "https://music.163.com/artist?id=858362"
+      },
+      { "name": "Afrojack", "link": "https://music.163.com/artist?id=28745" }
+    ],
+    "album": {
+      "name": "Stay Mine",
+      "link": "https://music.163.com/album?id=125396418"
+    }
+  }
+]

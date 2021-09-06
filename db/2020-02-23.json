@@ -1,0 +1,487 @@
+[
+  {
+    "name": "Show & Tell",
+    "link": "https://music.163.com/song?id=480769583",
+    "duration": "03:05",
+    "artists": [
+      {
+        "name": "Said The Sky",
+        "link": "https://music.163.com/artist?id=1026094"
+      },
+      {
+        "name": "Claire Ridgely",
+        "link": "https://music.163.com/artist?id=14935781"
+      }
+    ],
+    "album": {
+      "name": "Show & Tell",
+      "link": "https://music.163.com/album?id=35561153"
+    }
+  },
+  {
+    "name": "All Time Low (BOXINLION Remix)",
+    "link": "https://music.163.com/song?id=482999243",
+    "duration": "03:27",
+    "artists": [
+      {
+        "name": "Boxinbox & Lionsize",
+        "link": "https://music.163.com/artist?id=12031141"
+      },
+      {
+        "name": "Jon Bellion",
+        "link": "https://music.163.com/artist?id=860113"
+      }
+    ],
+    "album": {
+      "name": "All Time Low (BOXINLION Remix)",
+      "link": "https://music.163.com/album?id=35590484"
+    }
+  },
+  {
+    "name": "Miracles",
+    "link": "https://music.163.com/song?id=28649860",
+    "duration": "02:43",
+    "artists": [
+      {
+        "name": "Mike Candys",
+        "link": "https://music.163.com/artist?id=40119"
+      },
+      { "name": "Maury", "link": "https://music.163.com/artist?id=149567" }
+    ],
+    "album": {
+      "name": "Future Trance Vol. 67",
+      "link": "https://music.163.com/album?id=2868715"
+    }
+  },
+  {
+    "name": "Yearn (Original Mix)",
+    "link": "https://music.163.com/song?id=509156045",
+    "duration": "03:35",
+    "artists": [
+      {
+        "name": "Electronic Rat",
+        "link": "https://music.163.com/artist?id=12226208"
+      }
+    ],
+    "album": {
+      "name": "Yearn (渴望)",
+      "link": "https://music.163.com/album?id=36424096"
+    }
+  },
+  {
+    "name": "Bad Reputation",
+    "link": "https://music.163.com/song?id=1370108695",
+    "duration": "03:25",
+    "artists": [
+      { "name": "Avicii", "link": "https://music.163.com/artist?id=45236" },
+      {
+        "name": "Joe Janiak",
+        "link": "https://music.163.com/artist?id=29927849"
+      }
+    ],
+    "album": {
+      "name": "TIM",
+      "link": "https://music.163.com/album?id=79638731"
+    }
+  },
+  {
+    "name": "U Make Me (Natan Chaim & Asketa Extended Remix)",
+    "link": "https://music.163.com/song?id=572763271",
+    "duration": "02:36",
+    "artists": [
+      {
+        "name": "Disco Fries",
+        "link": "https://music.163.com/artist?id=330684"
+      },
+      {
+        "name": "Raquel Castro",
+        "link": "https://music.163.com/artist?id=896205"
+      },
+      {
+        "name": "Asketa & Natan Chaim",
+        "link": "https://music.163.com/artist?id=32523005"
+      }
+    ],
+    "album": {
+      "name": "U Make Me (Remixes)",
+      "link": "https://music.163.com/album?id=39662979"
+    }
+  },
+  {
+    "name": "无人之境",
+    "link": "https://music.163.com/song?id=1368854522",
+    "duration": "03:15",
+    "artists": [
+      {
+        "name": "白昼星BZX",
+        "link": "https://music.163.com/artist?id=1185031"
+      },
+      { "name": "谣君", "link": "https://music.163.com/artist?id=12282385" }
+    ],
+    "album": {
+      "name": "无人之境",
+      "link": "https://music.163.com/album?id=79499693"
+    }
+  },
+  {
+    "name": "Dreams pt. II",
+    "link": "https://music.163.com/song?id=1330206725",
+    "duration": "03:35",
+    "artists": [
+      {
+        "name": "Lost Sky",
+        "link": "https://music.163.com/artist?id=28389556"
+      },
+      {
+        "name": "Sara Skinner",
+        "link": "https://music.163.com/artist?id=1132406"
+      }
+    ],
+    "album": {
+      "name": "Dreams pt. II",
+      "link": "https://music.163.com/album?id=74712350"
+    }
+  },
+  {
+    "name": "Ego",
+    "link": "https://music.163.com/song?id=1360766293",
+    "duration": "03:04",
+    "artists": [
+      { "name": "Syence", "link": "https://music.163.com/artist?id=12233011" },
+      { "name": "Gazzo", "link": "https://music.163.com/artist?id=565266" }
+    ],
+    "album": {
+      "name": "Ego",
+      "link": "https://music.163.com/album?id=78717647"
+    }
+  },
+  {
+    "name": "Trouble (Mike Williams Extended Remix)",
+    "link": "https://music.163.com/song?id=490416030",
+    "duration": "04:57",
+    "artists": [
+      {
+        "name": "Mike Williams",
+        "link": "https://music.163.com/artist?id=302020"
+      },
+      { "name": "VÉRITÉ", "link": "https://music.163.com/artist?id=963498" },
+      { "name": "R3hab", "link": "https://music.163.com/artist?id=197248" }
+    ],
+    "album": {
+      "name": "Trouble (Mike Williams Remix)",
+      "link": "https://music.163.com/album?id=35688344"
+    }
+  },
+  {
+    "name": "桂林(Original Mix)",
+    "link": "https://music.163.com/song?id=461602138",
+    "duration": "03:36",
+    "artists": [
+      { "name": "Snikm", "link": "https://music.163.com/artist?id=12119610" }
+    ],
+    "album": {
+      "name": "桂林(Original Mix)",
+      "link": "https://music.163.com/album?id=35200446"
+    }
+  },
+  {
+    "name": " Dream",
+    "link": "https://music.163.com/song?id=29769300",
+    "duration": "04:11",
+    "artists": [
+      { "name": "Axero", "link": "https://music.163.com/artist?id=1035020" }
+    ],
+    "album": {
+      "name": "Dream",
+      "link": "https://music.163.com/album?id=3076044"
+    }
+  },
+  {
+    "name": "迎春",
+    "link": "https://music.163.com/song?id=537274013",
+    "duration": "03:46",
+    "artists": [
+      { "name": "Hea2t", "link": "https://music.163.com/artist?id=12020036" }
+    ],
+    "album": {
+      "name": "迎春",
+      "link": "https://music.163.com/album?id=37550627"
+    }
+  },
+  {
+    "name": "Tides",
+    "link": "https://music.163.com/song?id=561946600",
+    "duration": "03:23",
+    "artists": [
+      { "name": "Mes", "link": "https://music.163.com/artist?id=13609769" },
+      { "name": "Tuno桐音", "link": "https://music.163.com/artist?id=1216032" }
+    ],
+    "album": {
+      "name": "Tides",
+      "link": "https://music.163.com/album?id=38793327"
+    }
+  },
+  {
+    "name": "Avicii True Stories True Fans 100% bootleg",
+    "link": "https://music.163.com/song?id=1340603049",
+    "duration": "06:59",
+    "artists": [
+      {
+        "name": "We Love Avicii",
+        "link": "https://music.163.com/artist?id=15127401"
+      },
+      {
+        "name": "Avicii Cover Band",
+        "link": "https://music.163.com/artist?id=14290025"
+      },
+      { "name": "ZaleLes", "link": "https://music.163.com/artist?id=12118026" }
+    ],
+    "album": {
+      "name": "Avicii True Stories True Fans 100%",
+      "link": "https://music.163.com/album?id=75247625"
+    }
+  },
+  {
+    "name": "The Way I Do",
+    "link": "https://music.163.com/song?id=536570613",
+    "duration": "03:32",
+    "artists": [
+      { "name": "MARC", "link": "https://music.163.com/artist?id=12073436" },
+      {
+        "name": "Caroline Høier",
+        "link": "https://music.163.com/artist?id=12903086"
+      }
+    ],
+    "album": {
+      "name": "The Way I Do",
+      "link": "https://music.163.com/album?id=37578133"
+    }
+  },
+  {
+    "name": "Titan",
+    "link": "https://music.163.com/song?id=423314146",
+    "duration": "03:38",
+    "artists": [
+      { "name": "Starlyte", "link": "https://music.163.com/artist?id=12006394" }
+    ],
+    "album": {
+      "name": "Ninety9lives 93: Finish Him",
+      "link": "https://music.163.com/album?id=34790313"
+    }
+  },
+  {
+    "name": "Feet Won't Touch the Ground",
+    "link": "https://music.163.com/song?id=1319168908",
+    "duration": "02:10",
+    "artists": [
+      {
+        "name": "Stephen William Cornish",
+        "link": "https://music.163.com/artist?id=14333169"
+      },
+      {
+        "name": "Amanda Leigh Wilson",
+        "link": "https://music.163.com/artist?id=13966545"
+      }
+    ],
+    "album": {
+      "name": "Block: Attitude",
+      "link": "https://music.163.com/album?id=73997551"
+    }
+  },
+  {
+    "name": "Convergence",
+    "link": "https://music.163.com/song?id=431259490",
+    "duration": "02:54",
+    "artists": [
+      {
+        "name": "DDRKirby(ISQ)",
+        "link": "https://music.163.com/artist?id=939104"
+      }
+    ],
+    "album": {
+      "name": "The Ecstasy of Life",
+      "link": "https://music.163.com/album?id=34874877"
+    }
+  },
+  {
+    "name": "别让我等待",
+    "link": "https://music.163.com/song?id=1316254081",
+    "duration": "02:44",
+    "artists": [
+      {
+        "name": "孜然胳肢窝",
+        "link": "https://music.163.com/artist?id=13196409"
+      },
+      { "name": "刘茜悦", "link": "https://music.163.com/artist?id=31656077" }
+    ],
+    "album": {
+      "name": "别让我等待",
+      "link": "https://music.163.com/album?id=73762586"
+    }
+  },
+  {
+    "name": "长安城",
+    "link": "https://music.163.com/song?id=1373474933",
+    "duration": "03:43",
+    "artists": [
+      { "name": "SHEKINAH", "link": "https://music.163.com/artist?id=12537125" }
+    ],
+    "album": {
+      "name": "长安城",
+      "link": "https://music.163.com/album?id=79499517"
+    }
+  },
+  {
+    "name": "流光",
+    "link": "https://music.163.com/song?id=1310822377",
+    "duration": "03:19",
+    "artists": [
+      {
+        "name": "羽翼深蓝Wings",
+        "link": "https://music.163.com/artist?id=12118139"
+      }
+    ],
+    "album": {
+      "name": "流光",
+      "link": "https://music.163.com/album?id=73396687"
+    }
+  },
+  {
+    "name": "星河不可及",
+    "link": "https://music.163.com/song?id=1409136605",
+    "duration": "03:50",
+    "artists": [
+      { "name": "CMJ", "link": "https://music.163.com/artist?id=12157336" }
+    ],
+    "album": {
+      "name": "星河不可及",
+      "link": "https://music.163.com/album?id=84025036"
+    }
+  },
+  {
+    "name": "Temple of Time (Wisp X Remix)",
+    "link": "https://music.163.com/song?id=417250287",
+    "duration": "02:33",
+    "artists": [
+      { "name": "Wisp X", "link": "https://music.163.com/artist?id=1046123" },
+      {
+        "name": "Maplestory",
+        "link": "https://music.163.com/artist?id=30165374"
+      }
+    ],
+    "album": {
+      "name": "Temple of Time (Wisp X Remix)",
+      "link": "https://music.163.com/album?id=34739159"
+    }
+  },
+  {
+    "name": "Starflight",
+    "link": "https://music.163.com/song?id=864534194",
+    "duration": "02:34",
+    "artists": [
+      { "name": "R3hab", "link": "https://music.163.com/artist?id=197248" },
+      { "name": "Skytech", "link": "https://music.163.com/artist?id=813379" }
+    ],
+    "album": {
+      "name": "Starflight",
+      "link": "https://music.163.com/album?id=71737005"
+    }
+  },
+  {
+    "name": "Clsr (Aash Mehta Flip)",
+    "link": "https://music.163.com/song?id=427142481",
+    "duration": "04:41",
+    "artists": [
+      {
+        "name": "The Chainsmokers",
+        "link": "https://music.163.com/artist?id=893484"
+      },
+      {
+        "name": "Aash Mehta",
+        "link": "https://music.163.com/artist?id=1094364"
+      },
+      { "name": "Halsey", "link": "https://music.163.com/artist?id=964321" }
+    ],
+    "album": {
+      "name": "Clsr (Aash Mehta Flip)",
+      "link": "https://music.163.com/album?id=34840397"
+    }
+  },
+  {
+    "name": "Centuries",
+    "link": "https://music.163.com/song?id=29307038",
+    "duration": "03:51",
+    "artists": [
+      {
+        "name": "Fall Out Boy",
+        "link": "https://music.163.com/artist?id=56782"
+      }
+    ],
+    "album": {
+      "name": "Centuries",
+      "link": "https://music.163.com/album?id=3003013"
+    }
+  },
+  {
+    "name": "背影",
+    "link": "https://music.163.com/song?id=1347268195",
+    "duration": "04:30",
+    "artists": [
+      { "name": "杉卉先生", "link": "https://music.163.com/artist?id=31252052" }
+    ],
+    "album": { "name": "梦", "link": "https://music.163.com/album?id=75612016" }
+  },
+  {
+    "name": "Zella Day-East of Eden-AVALON Remix ver.-（夏璃夜 / AVALON remix）",
+    "link": "https://music.163.com/song?id=491082791",
+    "duration": "02:27",
+    "artists": [
+      { "name": "夏璃夜", "link": "https://music.163.com/artist?id=12236114" },
+      { "name": "AVALON", "link": "https://music.163.com/artist?id=12228495" }
+    ],
+    "album": {
+      "name": "East of Eden-AVALON Remix ver.-",
+      "link": "https://music.163.com/album?id=35754759"
+    }
+  },
+  {
+    "name": "Sofía",
+    "link": "https://music.163.com/song?id=409872465",
+    "duration": "03:30",
+    "artists": [
+      {
+        "name": "Álvaro Soler",
+        "link": "https://music.163.com/artist?id=1078381"
+      }
+    ],
+    "album": {
+      "name": "Sofia",
+      "link": "https://music.163.com/album?id=34609360"
+    }
+  },
+  {
+    "name": "时间旅行",
+    "link": "https://music.163.com/song?id=539902407",
+    "duration": "04:36",
+    "artists": [
+      { "name": "空气凝", "link": "https://music.163.com/artist?id=12078192" },
+      { "name": "洛天依", "link": "https://music.163.com/artist?id=906118" }
+    ],
+    "album": {
+      "name": "时间旅行",
+      "link": "https://music.163.com/album?id=37671515"
+    }
+  },
+  {
+    "name": "你要相信这不是最后一天 (Live)",
+    "link": "https://music.163.com/song?id=1424766676",
+    "duration": "06:06",
+    "artists": [
+      { "name": "华晨宇", "link": "https://music.163.com/artist?id=861777" }
+    ],
+    "album": {
+      "name": "歌手·当打之年 第3期",
+      "link": "https://music.163.com/album?id=85872925"
+    }
+  }
+]

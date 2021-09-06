@@ -1,0 +1,499 @@
+[
+  {
+    "name": "Nicknames",
+    "link": "https://music.163.com/song?id=1433256980",
+    "duration": "03:06",
+    "artists": [
+      {
+        "name": "Walk off the Earth",
+        "link": "https://music.163.com/artist?id=105493"
+      },
+      { "name": "gnash", "link": "https://music.163.com/artist?id=1137226" }
+    ],
+    "album": {
+      "name": "Nicknames",
+      "link": "https://music.163.com/album?id=86761684"
+    }
+  },
+  {
+    "name": "Slow Down",
+    "link": "https://music.163.com/song?id=1399417660",
+    "duration": "03:02",
+    "artists": [
+      {
+        "name": "Sineself",
+        "link": "https://music.163.com/artist?id=32945422"
+      },
+      {
+        "name": "Angel Pieters",
+        "link": "https://music.163.com/artist?id=12749893"
+      }
+    ],
+    "album": {
+      "name": "Slow Down",
+      "link": "https://music.163.com/album?id=82773522"
+    }
+  },
+  {
+    "name": "Wait For You",
+    "link": "https://music.163.com/song?id=1448265458",
+    "duration": "03:12",
+    "artists": [
+      { "name": "Herrin", "link": "https://music.163.com/artist?id=12279436" },
+      { "name": "Vaance", "link": "https://music.163.com/artist?id=13160077" },
+      { "name": "Luma", "link": "https://music.163.com/artist?id=211460" }
+    ],
+    "album": {
+      "name": "Wait For You",
+      "link": "https://music.163.com/album?id=89482842"
+    }
+  },
+  {
+    "name": "Up Into The Sky",
+    "link": "https://music.163.com/song?id=1453264976",
+    "duration": "02:38",
+    "artists": [
+      { "name": "Uplink", "link": "https://music.163.com/artist?id=1101051" }
+    ],
+    "album": {
+      "name": "Up Into The Sky",
+      "link": "https://music.163.com/album?id=90405379"
+    }
+  },
+  {
+    "name": "This is Us",
+    "link": "https://music.163.com/song?id=1423417557",
+    "duration": "03:25",
+    "artists": [
+      {
+        "name": "Jimmie Allen",
+        "link": "https://music.163.com/artist?id=30021162"
+      },
+      {
+        "name": "Noah Cyrus",
+        "link": "https://music.163.com/artist?id=12175271"
+      }
+    ],
+    "album": {
+      "name": "This is Us",
+      "link": "https://music.163.com/album?id=85738366"
+    }
+  },
+  {
+    "name": "One More Night",
+    "link": "https://music.163.com/song?id=1421177089",
+    "duration": "03:02",
+    "artists": [
+      { "name": "STLN", "link": "https://music.163.com/artist?id=32062699" }
+    ],
+    "album": {
+      "name": "One More Night",
+      "link": "https://music.163.com/album?id=85501512"
+    }
+  },
+  {
+    "name": "No Sleep",
+    "link": "https://music.163.com/song?id=1450893384",
+    "duration": "03:20",
+    "artists": [
+      {
+        "name": "Last Heroes",
+        "link": "https://music.163.com/artist?id=11987034"
+      },
+      { "name": "RØRY", "link": "https://music.163.com/artist?id=28774080" }
+    ],
+    "album": {
+      "name": "No Sleep // Naked Soul",
+      "link": "https://music.163.com/album?id=89947550"
+    }
+  },
+  {
+    "name": "Intro",
+    "link": "https://music.163.com/song?id=1333159919",
+    "duration": "01:16",
+    "artists": [
+      {
+        "name": "Alan Walker",
+        "link": "https://music.163.com/artist?id=1045123"
+      }
+    ],
+    "album": {
+      "name": "Different World",
+      "link": "https://music.163.com/album?id=74571750"
+    }
+  },
+  {
+    "name": "Drunken Truth",
+    "link": "https://music.163.com/song?id=1410779778",
+    "duration": "02:38",
+    "artists": [
+      {
+        "name": "Steve Void",
+        "link": "https://music.163.com/artist?id=12062200"
+      },
+      { "name": "Fannypack", "link": "https://music.163.com/artist?id=57289" },
+      {
+        "name": "Andy Marsh",
+        "link": "https://music.163.com/artist?id=13687321"
+      }
+    ],
+    "album": {
+      "name": "The Seed EP",
+      "link": "https://music.163.com/album?id=84234224"
+    }
+  },
+  {
+    "name": "Broken from the Start",
+    "link": "https://music.163.com/song?id=1342955242",
+    "duration": "05:18",
+    "artists": [
+      {
+        "name": "Ben Walter",
+        "link": "https://music.163.com/artist?id=12054163"
+      },
+      { "name": "Ento", "link": "https://music.163.com/artist?id=12011024" },
+      {
+        "name": "Matt Rysen",
+        "link": "https://music.163.com/artist?id=12132396"
+      },
+      { "name": "Niti", "link": "https://music.163.com/artist?id=28866488" }
+    ],
+    "album": {
+      "name": "Broken from the Start",
+      "link": "https://music.163.com/album?id=75375964"
+    }
+  },
+  {
+    "name": "Chasing Clouds",
+    "link": "https://music.163.com/song?id=1449510670",
+    "duration": "03:37",
+    "artists": [
+      {
+        "name": "Bad Computer",
+        "link": "https://music.163.com/artist?id=12647410"
+      },
+      {
+        "name": "Danyka Nadeau",
+        "link": "https://music.163.com/artist?id=1078277"
+      }
+    ],
+    "album": {
+      "name": "Chasing Clouds",
+      "link": "https://music.163.com/album?id=89700959"
+    }
+  },
+  {
+    "name": "Instructions",
+    "link": "https://music.163.com/song?id=513356744",
+    "duration": "03:41",
+    "artists": [
+      { "name": "Gjan", "link": "https://music.163.com/artist?id=851014" }
+    ],
+    "album": {
+      "name": "Do It",
+      "link": "https://music.163.com/album?id=36579122"
+    }
+  },
+  {
+    "name": "Lolly",
+    "link": "https://music.163.com/song?id=1432076045",
+    "duration": "03:22",
+    "artists": [
+      { "name": "DEAMN", "link": "https://music.163.com/artist?id=12047335" }
+    ],
+    "album": {
+      "name": "Lolly",
+      "link": "https://music.163.com/album?id=86624206"
+    }
+  },
+  {
+    "name": "For a Minute",
+    "link": "https://music.163.com/song?id=1451107808",
+    "duration": "03:17",
+    "artists": [
+      { "name": "Justin Oh", "link": "https://music.163.com/artist?id=791424" },
+      { "name": "JAMIE", "link": "https://music.163.com/artist?id=827360" }
+    ],
+    "album": {
+      "name": "For a Minute",
+      "link": "https://music.163.com/album?id=89987631"
+    }
+  },
+  {
+    "name": "Start Again",
+    "link": "https://music.163.com/song?id=1449949846",
+    "duration": "04:13",
+    "artists": [
+      { "name": "Muzz", "link": "https://music.163.com/artist?id=158046" }
+    ],
+    "album": {
+      "name": "Start Again",
+      "link": "https://music.163.com/album?id=89784627"
+    }
+  },
+  {
+    "name": "what are we",
+    "link": "https://music.163.com/song?id=1426850570",
+    "duration": "03:20",
+    "artists": [
+      {
+        "name": "Virginia To Vegas",
+        "link": "https://music.163.com/artist?id=942191"
+      }
+    ],
+    "album": {
+      "name": "a constant state of improvement.",
+      "link": "https://music.163.com/album?id=86094710"
+    }
+  },
+  {
+    "name": "Love Is Right",
+    "link": "https://music.163.com/song?id=1419689401",
+    "duration": "03:12",
+    "artists": [
+      {
+        "name": "Tim Gordon",
+        "link": "https://music.163.com/artist?id=29592312"
+      },
+      {
+        "name": "Scheffwell",
+        "link": "https://music.163.com/artist?id=13222130"
+      },
+      {
+        "name": "Revealed Recordings",
+        "link": "https://music.163.com/artist?id=28753573"
+      },
+      {
+        "name": "Max Landry",
+        "link": "https://music.163.com/artist?id=13493957"
+      }
+    ],
+    "album": {
+      "name": "Love Is Right",
+      "link": "https://music.163.com/album?id=85332934"
+    }
+  },
+  {
+    "name": "Miss You",
+    "link": "https://music.163.com/song?id=1344782760",
+    "duration": "03:12",
+    "artists": [
+      {
+        "name": "Blewbird",
+        "link": "https://music.163.com/artist?id=30181315"
+      },
+      {
+        "name": "Carmen Rose",
+        "link": "https://music.163.com/artist?id=28694618"
+      }
+    ],
+    "album": {
+      "name": "Miss You",
+      "link": "https://music.163.com/album?id=75486382"
+    }
+  },
+  {
+    "name": "Alone with You (Robert Cristian Remix)",
+    "link": "https://music.163.com/song?id=1368871182",
+    "duration": "03:09",
+    "artists": [
+      { "name": "Ashlee", "link": "https://music.163.com/artist?id=32061404" },
+      {
+        "name": "Robert Cristian",
+        "link": "https://music.163.com/artist?id=13505102"
+      }
+    ],
+    "album": {
+      "name": "Alone with You (Robert Cristian Remix)",
+      "link": "https://music.163.com/album?id=79526782"
+    }
+  },
+  {
+    "name": "After Midnight",
+    "link": "https://music.163.com/song?id=447926434",
+    "duration": "02:56",
+    "artists": [
+      { "name": "KLYMVX", "link": "https://music.163.com/artist?id=1149091" },
+      {
+        "name": "Emily Zeck",
+        "link": "https://music.163.com/artist?id=12356669"
+      }
+    ],
+    "album": {
+      "name": "After Midnight",
+      "link": "https://music.163.com/album?id=35068115"
+    }
+  },
+  {
+    "name": "Melody",
+    "link": "https://music.163.com/song?id=555724507",
+    "duration": "02:29",
+    "artists": [
+      {
+        "name": "Lost Frequencies",
+        "link": "https://music.163.com/artist?id=1039114"
+      },
+      { "name": "James Blunt", "link": "https://music.163.com/artist?id=35329" }
+    ],
+    "album": {
+      "name": "Melody",
+      "link": "https://music.163.com/album?id=38497993"
+    }
+  },
+  {
+    "name": "Hello My Loneliness",
+    "link": "https://music.163.com/song?id=1381703334",
+    "duration": "03:21",
+    "artists": [
+      {
+        "name": "Delaney Jane",
+        "link": "https://music.163.com/artist?id=1132286"
+      },
+      {
+        "name": "Call Me Karizma",
+        "link": "https://music.163.com/artist?id=12047264"
+      }
+    ],
+    "album": {
+      "name": "Hello My Loneliness",
+      "link": "https://music.163.com/album?id=80749024"
+    }
+  },
+  {
+    "name": "Ain't No Sunshine",
+    "link": "https://music.163.com/song?id=473964624",
+    "duration": "02:52",
+    "artists": [
+      {
+        "name": "Agatino Romero",
+        "link": "https://music.163.com/artist?id=12388136"
+      },
+      { "name": "Jette", "link": "https://music.163.com/artist?id=13066150" }
+    ],
+    "album": {
+      "name": "Ain't No Sunshine",
+      "link": "https://music.163.com/album?id=35425245"
+    }
+  },
+  {
+    "name": "Walls",
+    "link": "https://music.163.com/song?id=1472784623",
+    "duration": "02:52",
+    "artists": [
+      { "name": "ROZES", "link": "https://music.163.com/artist?id=1147101" },
+      { "name": "Mat Kearney", "link": "https://music.163.com/artist?id=38877" }
+    ],
+    "album": {
+      "name": "Crazy",
+      "link": "https://music.163.com/album?id=94282737"
+    }
+  },
+  {
+    "name": "Casanova",
+    "link": "https://music.163.com/song?id=516358230",
+    "duration": "03:46",
+    "artists": [
+      { "name": "Allie X", "link": "https://music.163.com/artist?id=973030" },
+      { "name": "VÉRITÉ", "link": "https://music.163.com/artist?id=963498" }
+    ],
+    "album": {
+      "name": "Casanova",
+      "link": "https://music.163.com/album?id=36525961"
+    }
+  },
+  {
+    "name": "Cool With That",
+    "link": "https://music.163.com/song?id=1394936381",
+    "duration": "03:14",
+    "artists": [
+      { "name": "Syn Cole", "link": "https://music.163.com/artist?id=854432" },
+      {
+        "name": "Golden Age",
+        "link": "https://music.163.com/artist?id=12279292"
+      }
+    ],
+    "album": {
+      "name": "Cool With That",
+      "link": "https://music.163.com/album?id=82135474"
+    }
+  },
+  {
+    "name": "Love Me Like a Friend",
+    "link": "https://music.163.com/song?id=1398622038",
+    "duration": "03:22",
+    "artists": [
+      {
+        "name": "Fly by Midnight",
+        "link": "https://music.163.com/artist?id=1163027"
+      }
+    ],
+    "album": {
+      "name": "Love Me Like a Friend",
+      "link": "https://music.163.com/album?id=82649819"
+    }
+  },
+  {
+    "name": "Heartbeat",
+    "link": "https://music.163.com/song?id=865302468",
+    "duration": "02:34",
+    "artists": [
+      { "name": "J. Lisk", "link": "https://music.163.com/artist?id=12121101" },
+      { "name": "Gvonni", "link": "https://music.163.com/artist?id=29804960" }
+    ],
+    "album": {
+      "name": "Heartbeat",
+      "link": "https://music.163.com/album?id=71740474"
+    }
+  },
+  {
+    "name": "I'm Sorry",
+    "link": "https://music.163.com/song?id=1438784752",
+    "duration": "03:12",
+    "artists": [
+      { "name": "Collen", "link": "https://music.163.com/artist?id=14245815" },
+      {
+        "name": "Thom Merlin",
+        "link": "https://music.163.com/artist?id=31639154"
+      }
+    ],
+    "album": {
+      "name": "I'm Sorry",
+      "link": "https://music.163.com/album?id=87790425"
+    }
+  },
+  {
+    "name": "Lost",
+    "link": "https://music.163.com/song?id=1341210709",
+    "duration": "03:54",
+    "artists": [
+      {
+        "name": "Blake Rose",
+        "link": "https://music.163.com/artist?id=12170014"
+      }
+    ],
+    "album": {
+      "name": "Lost",
+      "link": "https://music.163.com/album?id=75278025"
+    }
+  },
+  {
+    "name": "Animal",
+    "link": "https://music.163.com/song?id=1447669965",
+    "duration": "03:16",
+    "artists": [
+      { "name": "Vicetone", "link": "https://music.163.com/artist?id=747030" },
+      {
+        "name": "Jordan Powers",
+        "link": "https://music.163.com/artist?id=14025322"
+      },
+      {
+        "name": "Bekah Novi",
+        "link": "https://music.163.com/artist?id=35152087"
+      }
+    ],
+    "album": {
+      "name": "Animal",
+      "link": "https://music.163.com/album?id=89363653"
+    }
+  }
+]

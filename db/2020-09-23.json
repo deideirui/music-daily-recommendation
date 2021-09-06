@@ -1,0 +1,480 @@
+[
+  {
+    "name": "Circles",
+    "link": "https://music.163.com/song?id=1447773945",
+    "duration": "03:27",
+    "artists": [
+      { "name": "KASTRA", "link": "https://music.163.com/artist?id=1105094" },
+      {
+        "name": "Alex Byrne",
+        "link": "https://music.163.com/artist?id=12121159"
+      }
+    ],
+    "album": {
+      "name": "Circles",
+      "link": "https://music.163.com/album?id=89388624"
+    }
+  },
+  {
+    "name": "Simple",
+    "link": "https://music.163.com/song?id=1387112756",
+    "duration": "03:06",
+    "artists": [
+      { "name": "Sistek", "link": "https://music.163.com/artist?id=12765268" },
+      {
+        "name": "Knightly",
+        "link": "https://music.163.com/artist?id=13190870"
+      },
+      {
+        "name": "Josh Wood",
+        "link": "https://music.163.com/artist?id=15077733"
+      }
+    ],
+    "album": {
+      "name": "Simple",
+      "link": "https://music.163.com/album?id=81209723"
+    }
+  },
+  {
+    "name": "Under Your Skin",
+    "link": "https://music.163.com/song?id=483024252",
+    "duration": "03:49",
+    "artists": [
+      {
+        "name": "Sid Rosco",
+        "link": "https://music.163.com/artist?id=12149046"
+      }
+    ],
+    "album": {
+      "name": "Under Your Skin",
+      "link": "https://music.163.com/album?id=35572366"
+    }
+  },
+  {
+    "name": "Hard To Love",
+    "link": "https://music.163.com/song?id=1396015066",
+    "duration": "02:55",
+    "artists": [
+      {
+        "name": "Danny Avila",
+        "link": "https://music.163.com/artist?id=471420"
+      }
+    ],
+    "album": {
+      "name": "Hard To Love",
+      "link": "https://music.163.com/album?id=82267329"
+    }
+  },
+  {
+    "name": "Just Like You (Axero Remix)",
+    "link": "https://music.163.com/song?id=1371269315",
+    "duration": "03:00",
+    "artists": [
+      { "name": "Axero", "link": "https://music.163.com/artist?id=1035020" },
+      {
+        "name": "Adam Christopher",
+        "link": "https://music.163.com/artist?id=13157086"
+      }
+    ],
+    "album": {
+      "name": "Just Like You (Axero Remix)",
+      "link": "https://music.163.com/album?id=79737821"
+    }
+  },
+  {
+    "name": "Contact",
+    "link": "https://music.163.com/song?id=500412390",
+    "duration": "02:21",
+    "artists": [
+      { "name": "Lulleaux", "link": "https://music.163.com/artist?id=1115185" },
+      {
+        "name": "Giang Pham",
+        "link": "https://music.163.com/artist?id=28700236"
+      }
+    ],
+    "album": {
+      "name": "Contact",
+      "link": "https://music.163.com/album?id=36017158"
+    }
+  },
+  {
+    "name": "Way Back Home",
+    "link": "https://music.163.com/song?id=1395758957",
+    "duration": "03:15",
+    "artists": [
+      {
+        "name": "Blackcode",
+        "link": "https://music.163.com/artist?id=30013002"
+      },
+      { "name": "9Lives", "link": "https://music.163.com/artist?id=353551" },
+      { "name": "Heleen", "link": "https://music.163.com/artist?id=28866940" }
+    ],
+    "album": {
+      "name": "Way Back Home",
+      "link": "https://music.163.com/album?id=82232337"
+    }
+  },
+  {
+    "name": "Throwaway (SG Lewis x Clairo)",
+    "link": "https://music.163.com/song?id=1351918116",
+    "duration": "03:00",
+    "artists": [
+      { "name": "SG Lewis", "link": "https://music.163.com/artist?id=1130009" },
+      { "name": "Clairo", "link": "https://music.163.com/artist?id=12191215" }
+    ],
+    "album": {
+      "name": "Throwaway (SG Lewis x Clairo)",
+      "link": "https://music.163.com/album?id=75848990"
+    }
+  },
+  {
+    "name": "Survive",
+    "link": "https://music.163.com/song?id=445144239",
+    "duration": "04:32",
+    "artists": [
+      { "name": "Vanze", "link": "https://music.163.com/artist?id=1081008" },
+      {
+        "name": "Neon Dreams",
+        "link": "https://music.163.com/artist?id=816217"
+      }
+    ],
+    "album": {
+      "name": "Survive",
+      "link": "https://music.163.com/album?id=35023749"
+    }
+  },
+  {
+    "name": "This Is What You Came For",
+    "link": "https://music.163.com/song?id=411314681",
+    "duration": "03:42",
+    "artists": [
+      {
+        "name": "Calvin Harris",
+        "link": "https://music.163.com/artist?id=29968"
+      },
+      { "name": "Rihanna", "link": "https://music.163.com/artist?id=72724" }
+    ],
+    "album": {
+      "name": "This Is What You Came For",
+      "link": "https://music.163.com/album?id=34686251"
+    }
+  },
+  {
+    "name": "Dancin (Krono Remix)",
+    "link": "https://music.163.com/song?id=439121233",
+    "duration": "03:18",
+    "artists": [
+      {
+        "name": "Aaron Smith",
+        "link": "https://music.163.com/artist?id=145965"
+      },
+      { "name": "Luvli", "link": "https://music.163.com/artist?id=296961" },
+      { "name": "Krono", "link": "https://music.163.com/artist?id=438424" }
+    ],
+    "album": {
+      "name": "Dancin",
+      "link": "https://music.163.com/album?id=34975067"
+    }
+  },
+  {
+    "name": "Somebody New",
+    "link": "https://music.163.com/song?id=1322354757",
+    "duration": "02:46",
+    "artists": [
+      { "name": "Olly Murs", "link": "https://music.163.com/artist?id=41034" }
+    ],
+    "album": {
+      "name": "You Know I Know (Deluxe)",
+      "link": "https://music.163.com/album?id=74214813"
+    }
+  },
+  {
+    "name": "My Swag",
+    "link": "https://music.163.com/song?id=1405247849",
+    "duration": "02:37",
+    "artists": [
+      {
+        "name": "Marc Benjamin",
+        "link": "https://music.163.com/artist?id=424771"
+      },
+      { "name": "RayRay", "link": "https://music.163.com/artist?id=12475839" }
+    ],
+    "album": {
+      "name": "My Swag",
+      "link": "https://music.163.com/album?id=83592648"
+    }
+  },
+  {
+    "name": "All In",
+    "link": "https://music.163.com/song?id=1404940977",
+    "duration": "02:59",
+    "artists": [
+      { "name": "Bearson", "link": "https://music.163.com/artist?id=1057034" },
+      {
+        "name": "Georgia Ku",
+        "link": "https://music.163.com/artist?id=14388929"
+      },
+      { "name": "JRM", "link": "https://music.163.com/artist?id=12682822" }
+    ],
+    "album": {
+      "name": "All In",
+      "link": "https://music.163.com/album?id=83543291"
+    }
+  },
+  {
+    "name": "OK",
+    "link": "https://music.163.com/song?id=544794790",
+    "duration": "03:11",
+    "artists": [
+      {
+        "name": "James Blunt",
+        "link": "https://music.163.com/artist?id=35329"
+      },
+      {
+        "name": "Robin Schulz",
+        "link": "https://music.163.com/artist?id=837031"
+      }
+    ],
+    "album": {
+      "name": "Dance Hits 2018",
+      "link": "https://music.163.com/album?id=37916215"
+    }
+  },
+  {
+    "name": "Larg",
+    "link": "https://music.163.com/song?id=1393789519",
+    "duration": "03:12",
+    "artists": [
+      {
+        "name": "Elgit Doda",
+        "link": "https://music.163.com/artist?id=30035271"
+      }
+    ],
+    "album": {
+      "name": "Larg",
+      "link": "https://music.163.com/album?id=82000474"
+    }
+  },
+  {
+    "name": "Gimme Gimme Gimme",
+    "link": "https://music.163.com/song?id=1420939910",
+    "duration": "02:32",
+    "artists": [
+      { "name": "Syzz", "link": "https://music.163.com/artist?id=961150" }
+    ],
+    "album": {
+      "name": "Gimme Gimme Gimme",
+      "link": "https://music.163.com/album?id=85470462"
+    }
+  },
+  {
+    "name": "Happier To Lose",
+    "link": "https://music.163.com/song?id=1461046613",
+    "duration": "03:15",
+    "artists": [
+      { "name": "LVNDSCAPE", "link": "https://music.163.com/artist?id=1146024" }
+    ],
+    "album": {
+      "name": "Happier To Lose",
+      "link": "https://music.163.com/album?id=92062588"
+    }
+  },
+  {
+    "name": "Vampire",
+    "link": "https://music.163.com/song?id=36024033",
+    "duration": "03:34",
+    "artists": [
+      {
+        "name": "Lazyboy Empire",
+        "link": "https://music.163.com/artist?id=1178195"
+      }
+    ],
+    "album": {
+      "name": "Vampire",
+      "link": "https://music.163.com/album?id=3377376"
+    }
+  },
+  {
+    "name": "Take Me Away",
+    "link": "https://music.163.com/song?id=1430436202",
+    "duration": "03:54",
+    "artists": [
+      {
+        "name": "Third Party",
+        "link": "https://music.163.com/artist?id=784231"
+      }
+    ],
+    "album": {
+      "name": "Take Me Away",
+      "link": "https://music.163.com/album?id=86457434"
+    }
+  },
+  {
+    "name": "Genie In A Bottle",
+    "link": "https://music.163.com/song?id=1406486126",
+    "duration": "02:46",
+    "artists": [
+      {
+        "name": "Enes Yurtlu",
+        "link": "https://music.163.com/artist?id=30707115"
+      }
+    ],
+    "album": {
+      "name": "Genie In A Bottle",
+      "link": "https://music.163.com/album?id=83747601"
+    }
+  },
+  {
+    "name": "Abyss",
+    "link": "https://music.163.com/song?id=1438910274",
+    "duration": "02:57",
+    "artists": [
+      { "name": "Jonth", "link": "https://music.163.com/artist?id=12636028" }
+    ],
+    "album": {
+      "name": "Abyss",
+      "link": "https://music.163.com/album?id=87803060"
+    }
+  },
+  {
+    "name": "Hell",
+    "link": "https://music.163.com/song?id=1465939589",
+    "duration": "03:52",
+    "artists": [
+      { "name": "Malaa", "link": "https://music.163.com/artist?id=1124224" },
+      { "name": "Koos", "link": "https://music.163.com/artist?id=484975" }
+    ],
+    "album": {
+      "name": "Hell",
+      "link": "https://music.163.com/album?id=93046004"
+    }
+  },
+  {
+    "name": "Tell Me Who (Deeperise Remix)",
+    "link": "https://music.163.com/song?id=486837540",
+    "duration": "04:13",
+    "artists": [
+      {
+        "name": "Deeperise",
+        "link": "https://music.163.com/artist?id=1190120"
+      },
+      { "name": "Vanotek", "link": "https://music.163.com/artist?id=1081048" }
+    ],
+    "album": {
+      "name": "Tell Me Who (Deeperise Remix)",
+      "link": "https://music.163.com/album?id=35663496"
+    }
+  },
+  {
+    "name": "DejaVu",
+    "link": "https://music.163.com/song?id=1428936481",
+    "duration": "03:15",
+    "artists": [
+      {
+        "name": "Hilfilter",
+        "link": "https://music.163.com/artist?id=12108268"
+      }
+    ],
+    "album": {
+      "name": "DejaVu",
+      "link": "https://music.163.com/album?id=86306950"
+    }
+  },
+  {
+    "name": "Those Were The Days",
+    "link": "https://music.163.com/song?id=1365400738",
+    "duration": "03:20",
+    "artists": [
+      {
+        "name": "Midnight Kids",
+        "link": "https://music.163.com/artist?id=13192314"
+      },
+      { "name": "Jared Lee", "link": "https://music.163.com/artist?id=36693" }
+    ],
+    "album": {
+      "name": "Those Were The Days",
+      "link": "https://music.163.com/album?id=79131314"
+    }
+  },
+  {
+    "name": "Holding On",
+    "link": "https://music.163.com/song?id=520274067",
+    "duration": "03:25",
+    "artists": [
+      {
+        "name": "Adib Sin",
+        "link": "https://music.163.com/artist?id=12244027"
+      },
+      { "name": "Salsa", "link": "https://music.163.com/artist?id=141594" }
+    ],
+    "album": {
+      "name": "Holding On",
+      "link": "https://music.163.com/album?id=36845027"
+    }
+  },
+  {
+    "name": "Ghosts (Extended Mix)",
+    "link": "https://music.163.com/song?id=32235400",
+    "duration": "05:48",
+    "artists": [
+      {
+        "name": "Feenixpawl",
+        "link": "https://music.163.com/artist?id=290025"
+      },
+      {
+        "name": "Melissa Ramsay",
+        "link": "https://music.163.com/artist?id=13226796"
+      }
+    ],
+    "album": {
+      "name": "Ghosts",
+      "link": "https://music.163.com/album?id=3154318"
+    }
+  },
+  {
+    "name": "Nocturnal Horizons (Extended Mix)",
+    "link": "https://music.163.com/song?id=479938693",
+    "duration": "06:41",
+    "artists": [
+      {
+        "name": "Arctic Moon",
+        "link": "https://music.163.com/artist?id=820034"
+      }
+    ],
+    "album": {
+      "name": "Nocturnal Horizons",
+      "link": "https://music.163.com/album?id=35543575"
+    }
+  },
+  {
+    "name": "Thrones (Crystal Skies Remix)",
+    "link": "https://music.163.com/song?id=466794665",
+    "duration": "04:11",
+    "artists": [
+      {
+        "name": "Crystal Skies",
+        "link": "https://music.163.com/artist?id=1063127"
+      },
+      {
+        "name": "Satellite Empire",
+        "link": "https://music.163.com/artist?id=1116247"
+      }
+    ],
+    "album": {
+      "name": "Thrones (Crystal Skies Remix)",
+      "link": "https://music.163.com/album?id=35293402"
+    }
+  },
+  {
+    "name": "Never Coming Down",
+    "link": "https://music.163.com/song?id=1401599930",
+    "duration": "03:15",
+    "artists": [
+      { "name": "JLV", "link": "https://music.163.com/artist?id=12335463" }
+    ],
+    "album": {
+      "name": "Never Coming Down",
+      "link": "https://music.163.com/album?id=83063833"
+    }
+  }
+]

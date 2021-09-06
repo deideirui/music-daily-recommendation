@@ -1,0 +1,441 @@
+[
+  {
+    "name": "Must Be Something",
+    "link": "https://music.163.com/song?id=29023211",
+    "duration": "03:44",
+    "artists": [
+      { "name": "The Pierces", "link": "https://music.163.com/artist?id=78212" }
+    ],
+    "album": {
+      "name": "Creation",
+      "link": "https://music.163.com/album?id=2982015"
+    }
+  },
+  {
+    "name": "Porcelain",
+    "link": "https://music.163.com/song?id=28717854",
+    "duration": "02:56",
+    "artists": [
+      {
+        "name": "Rachel Taylor",
+        "link": "https://music.163.com/artist?id=74592"
+      }
+    ],
+    "album": {
+      "name": "Come Alive",
+      "link": "https://music.163.com/album?id=2883012"
+    }
+  },
+  {
+    "name": "Bravo",
+    "link": "https://music.163.com/song?id=16621720",
+    "duration": "03:27",
+    "artists": [
+      { "name": "Ledisi", "link": "https://music.163.com/artist?id=64247" }
+    ],
+    "album": {
+      "name": "Pieces Of Me",
+      "link": "https://music.163.com/album?id=1530945"
+    }
+  },
+  {
+    "name": "Shattered (feat. RUNN)",
+    "link": "https://music.163.com/song?id=1429601886",
+    "duration": "04:12",
+    "artists": [
+      { "name": "MitiS", "link": "https://music.163.com/artist?id=40245" },
+      { "name": "Runn", "link": "https://music.163.com/artist?id=15237536" }
+    ],
+    "album": {
+      "name": "Shattered EP (Remixes)",
+      "link": "https://music.163.com/album?id=86367600"
+    }
+  },
+  {
+    "name": "All of You",
+    "link": "https://music.163.com/song?id=1324035458",
+    "duration": "03:25",
+    "artists": [
+      {
+        "name": "Prince paris",
+        "link": "https://music.163.com/artist?id=574147"
+      },
+      {
+        "name": "Beau Collins",
+        "link": "https://music.163.com/artist?id=12192231"
+      }
+    ],
+    "album": {
+      "name": "All of You",
+      "link": "https://music.163.com/album?id=74323065"
+    }
+  },
+  {
+    "name": "Take Me Away",
+    "link": "https://music.163.com/song?id=17783934",
+    "duration": "03:29",
+    "artists": [
+      { "name": "Fefe Dobson", "link": "https://music.163.com/artist?id=57223" }
+    ],
+    "album": {
+      "name": "Fefe Dobson",
+      "link": "https://music.163.com/album?id=1636861"
+    }
+  },
+  {
+    "name": "Golden Shores",
+    "link": "https://music.163.com/song?id=1398601885",
+    "duration": "07:58",
+    "artists": [
+      {
+        "name": "Sunlight Project",
+        "link": "https://music.163.com/artist?id=858214"
+      }
+    ],
+    "album": {
+      "name": "Golden Shores / Scent of Summer",
+      "link": "https://music.163.com/album?id=82645121"
+    }
+  },
+  {
+    "name": "Tears & Tantrums (Remixed by Evan Gartner)",
+    "link": "https://music.163.com/song?id=1331677398",
+    "duration": "03:04",
+    "artists": [
+      {
+        "name": "Evan Gartner",
+        "link": "https://music.163.com/artist?id=12411125"
+      },
+      { "name": "XYLØ", "link": "https://music.163.com/artist?id=1050511" }
+    ],
+    "album": {
+      "name": "Tears & Tantrums",
+      "link": "https://music.163.com/album?id=74797519"
+    }
+  },
+  {
+    "name": "Mini World",
+    "link": "https://music.163.com/song?id=28279684",
+    "duration": "05:09",
+    "artists": [
+      { "name": "Indila", "link": "https://music.163.com/artist?id=199144" }
+    ],
+    "album": {
+      "name": "Mini World",
+      "link": "https://music.163.com/album?id=2768367"
+    }
+  },
+  {
+    "name": "Love Alone",
+    "link": "https://music.163.com/song?id=566443287",
+    "duration": "03:05",
+    "artists": [
+      { "name": "Mokita", "link": "https://music.163.com/artist?id=12033046" }
+    ],
+    "album": {
+      "name": "Love Alone",
+      "link": "https://music.163.com/album?id=39264094"
+    }
+  },
+  {
+    "name": "What You Are",
+    "link": "https://music.163.com/song?id=18836960",
+    "duration": "03:40",
+    "artists": [
+      { "name": "Jewel", "link": "https://music.163.com/artist?id=60923" }
+    ],
+    "album": {
+      "name": "Sweet And Wild",
+      "link": "https://music.163.com/album?id=1724814"
+    }
+  },
+  {
+    "name": "Turn this Club Around",
+    "link": "https://music.163.com/song?id=26821650",
+    "duration": "03:22",
+    "artists": [
+      { "name": "R.I.O.", "link": "https://music.163.com/artist?id=42495" },
+      { "name": "U-Jean", "link": "https://music.163.com/artist?id=205414" }
+    ],
+    "album": {
+      "name": "Club Sounds Vol. 59",
+      "link": "https://music.163.com/album?id=2562097"
+    }
+  },
+  {
+    "name": "Apocalypse",
+    "link": "https://music.163.com/song?id=467164485",
+    "duration": "04:50",
+    "artists": [
+      { "name": "CAS", "link": "https://music.163.com/artist?id=12023319" }
+    ],
+    "album": {
+      "name": "Apocalypse",
+      "link": "https://music.163.com/album?id=35293588"
+    }
+  },
+  {
+    "name": "Saved",
+    "link": "https://music.163.com/song?id=16978513",
+    "duration": "03:54",
+    "artists": [
+      {
+        "name": "Cornelia Mooswalder",
+        "link": "https://music.163.com/artist?id=53059"
+      }
+    ],
+    "album": {
+      "name": "Star On The Horizon",
+      "link": "https://music.163.com/album?id=1565046"
+    }
+  },
+  {
+    "name": "Creatures Of The Night (KVR Remix)",
+    "link": "https://music.163.com/song?id=522818651",
+    "duration": "02:51",
+    "artists": [
+      { "name": "Hardwell", "link": "https://music.163.com/artist?id=34994" },
+      {
+        "name": "Austin Mahone",
+        "link": "https://music.163.com/artist?id=29121"
+      },
+      { "name": "KVR", "link": "https://music.163.com/artist?id=1165020" }
+    ],
+    "album": {
+      "name": "Creatures Of The Night (KVR Remix)",
+      "link": "https://music.163.com/album?id=36902255"
+    }
+  },
+  {
+    "name": "Catch me if you can",
+    "link": "https://music.163.com/song?id=26576608",
+    "duration": "04:21",
+    "artists": [
+      {
+        "name": "Walking On Cars",
+        "link": "https://music.163.com/artist?id=743047"
+      }
+    ],
+    "album": {
+      "name": "As we fly south",
+      "link": "https://music.163.com/album?id=2525720"
+    }
+  },
+  {
+    "name": "Run",
+    "link": "https://music.163.com/song?id=2923244",
+    "duration": "05:14",
+    "artists": [
+      { "name": "Leona Lewis", "link": "https://music.163.com/artist?id=64150" }
+    ],
+    "album": { "name": "Run", "link": "https://music.163.com/album?id=295234" }
+  },
+  {
+    "name": "Oats In the Water",
+    "link": "https://music.163.com/song?id=25721054",
+    "duration": "04:59",
+    "artists": [
+      { "name": "Ben Howard", "link": "https://music.163.com/artist?id=204235" }
+    ],
+    "album": {
+      "name": "The Burgh Island",
+      "link": "https://music.163.com/album?id=2296009"
+    }
+  },
+  {
+    "name": "Limits",
+    "link": "https://music.163.com/song?id=31546195",
+    "duration": "03:13",
+    "artists": [
+      {
+        "name": "Arctic Lake",
+        "link": "https://music.163.com/artist?id=1063197"
+      }
+    ],
+    "album": {
+      "name": "Limits",
+      "link": "https://music.163.com/album?id=3121360"
+    }
+  },
+  {
+    "name": "Like I’m Gonna Lose You",
+    "link": "https://music.163.com/song?id=35314235",
+    "duration": "03:52",
+    "artists": [
+      {
+        "name": "Jasmine Thompson",
+        "link": "https://music.163.com/artist?id=863042"
+      }
+    ],
+    "album": {
+      "name": "Like I'm Gonna Lose You",
+      "link": "https://music.163.com/album?id=3316334"
+    }
+  },
+  {
+    "name": "A Little Bit",
+    "link": "https://music.163.com/song?id=32785456",
+    "duration": "03:26",
+    "artists": [
+      {
+        "name": "Sofi de la Torre",
+        "link": "https://music.163.com/artist?id=1054050"
+      }
+    ],
+    "album": {
+      "name": "Winter Mood, Vol. 2",
+      "link": "https://music.163.com/album?id=3172134"
+    }
+  },
+  {
+    "name": "Step Off",
+    "link": "https://music.163.com/song?id=27571335",
+    "duration": "03:03",
+    "artists": [
+      {
+        "name": "Kacey Musgraves",
+        "link": "https://music.163.com/artist?id=816361"
+      }
+    ],
+    "album": {
+      "name": "Same Trailer Different Park",
+      "link": "https://music.163.com/album?id=2639346"
+    }
+  },
+  {
+    "name": "cortado",
+    "link": "https://music.163.com/song?id=467164520",
+    "duration": "03:26",
+    "artists": [
+      { "name": "anton.", "link": "https://music.163.com/artist?id=12218167" }
+    ],
+    "album": {
+      "name": "cortado",
+      "link": "https://music.163.com/album?id=35293599"
+    }
+  },
+  {
+    "name": "Lose You",
+    "link": "https://music.163.com/song?id=2929797",
+    "duration": "03:29",
+    "artists": [
+      {
+        "name": "Linda Sundblad",
+        "link": "https://music.163.com/artist?id=64228"
+      }
+    ],
+    "album": {
+      "name": "Oh My God",
+      "link": "https://music.163.com/album?id=295839"
+    }
+  },
+  {
+    "name": "Just Like That",
+    "link": "https://music.163.com/song?id=1241874",
+    "duration": "03:08",
+    "artists": [
+      {
+        "name": "Danny Saucedo",
+        "link": "https://music.163.com/artist?id=208447"
+      }
+    ],
+    "album": {
+      "name": "Set Your Body Free",
+      "link": "https://music.163.com/album?id=128125"
+    }
+  },
+  {
+    "name": "Lady of My Fantasy",
+    "link": "https://music.163.com/song?id=524148831",
+    "duration": "05:49",
+    "artists": [
+      {
+        "name": "Boris Zhivago",
+        "link": "https://music.163.com/artist?id=827055"
+      }
+    ],
+    "album": {
+      "name": "Memories",
+      "link": "https://music.163.com/album?id=36980264"
+    }
+  },
+  {
+    "name": "Rollercoaster",
+    "link": "https://music.163.com/song?id=28748227",
+    "duration": "03:11",
+    "artists": [
+      { "name": "Bean", "link": "https://music.163.com/artist?id=401383" }
+    ],
+    "album": {
+      "name": "Rollercoaster",
+      "link": "https://music.163.com/album?id=2866690"
+    }
+  },
+  {
+    "name": "11:40",
+    "link": "https://music.163.com/song?id=553813065",
+    "duration": "03:03",
+    "artists": [
+      {
+        "name": "祝涵SONAM",
+        "link": "https://music.163.com/artist?id=12204909"
+      }
+    ],
+    "album": {
+      "name": "11:40",
+      "link": "https://music.163.com/album?id=38403022"
+    }
+  },
+  {
+    "name": "Blush",
+    "link": "https://music.163.com/song?id=485347176",
+    "duration": "02:44",
+    "artists": [
+      { "name": "Fusq", "link": "https://music.163.com/artist?id=1180077" },
+      { "name": "MYLK", "link": "https://music.163.com/artist?id=12046352" }
+    ],
+    "album": {
+      "name": "Polarity",
+      "link": "https://music.163.com/album?id=35644387"
+    }
+  },
+  {
+    "name": "I'm Not OK",
+    "link": "https://music.163.com/song?id=2057291",
+    "duration": "04:00",
+    "artists": [
+      { "name": "Trent Dabbs", "link": "https://music.163.com/artist?id=45163" }
+    ],
+    "album": {
+      "name": "Future Like Snow",
+      "link": "https://music.163.com/album?id=207304"
+    }
+  },
+  {
+    "name": "Haultclaire",
+    "link": "https://music.163.com/song?id=492710062",
+    "duration": "01:53",
+    "artists": [
+      { "name": "Ryan有光", "link": "https://music.163.com/artist?id=12185226" }
+    ],
+    "album": {
+      "name": "Haultclaire",
+      "link": "https://music.163.com/album?id=35810593"
+    }
+  },
+  {
+    "name": "Dancing With Your Ghost",
+    "link": "https://music.163.com/song?id=1374329431",
+    "duration": "03:17",
+    "artists": [
+      {
+        "name": "Sasha Sloan",
+        "link": "https://music.163.com/artist?id=12646102"
+      }
+    ],
+    "album": {
+      "name": "Dancing With Your Ghost",
+      "link": "https://music.163.com/album?id=80029518"
+    }
+  }
+]

@@ -1,0 +1,442 @@
+[
+  {
+    "name": "Walk With Me",
+    "link": "https://music.163.com/song?id=1379819366",
+    "duration": "03:16",
+    "artists": [
+      { "name": "MIYAVI", "link": "https://music.163.com/artist?id=14732" }
+    ],
+    "album": {
+      "name": "NO SLEEP TILL TOKYO",
+      "link": "https://music.163.com/album?id=80583621"
+    }
+  },
+  {
+    "name": "Prover - (TV动画《Fate/Grand Order 绝对魔兽战线 巴比伦尼亚》片尾曲2)",
+    "link": "https://music.163.com/song?id=1417453306",
+    "duration": "03:58",
+    "artists": [
+      { "name": "milet", "link": "https://music.163.com/artist?id=31464106" }
+    ],
+    "album": {
+      "name": "Prover / Tell me",
+      "link": "https://music.163.com/album?id=85060247"
+    }
+  },
+  {
+    "name": "またね幻",
+    "link": "https://music.163.com/song?id=1371306565",
+    "duration": "04:02",
+    "artists": [
+      {
+        "name": "ずっと真夜中でいいのに。",
+        "link": "https://music.163.com/artist?id=15021101"
+      }
+    ],
+    "album": {
+      "name": "今は今で誓いは笑みで",
+      "link": "https://music.163.com/album?id=79746208"
+    }
+  },
+  {
+    "name": "LOSER",
+    "link": "https://music.163.com/song?id=432509390",
+    "duration": "04:05",
+    "artists": [
+      { "name": "米津玄師", "link": "https://music.163.com/artist?id=159300" }
+    ],
+    "album": {
+      "name": "LOSER / ナンバーナイン",
+      "link": "https://music.163.com/album?id=34897352"
+    }
+  },
+  {
+    "name": "Wherever You Will Go",
+    "link": "https://music.163.com/song?id=17057139",
+    "duration": "03:17",
+    "artists": [
+      {
+        "name": "Charlene Soraia",
+        "link": "https://music.163.com/artist?id=52894"
+      }
+    ],
+    "album": {
+      "name": "Moonchild",
+      "link": "https://music.163.com/album?id=1571482"
+    }
+  },
+  {
+    "name": "Touch off - (TV动画《约定的梦幻岛》片头曲 / TVアニメ「約束のネバーランド」OPテーマ)",
+    "link": "https://music.163.com/song?id=1348625245",
+    "duration": "04:18",
+    "artists": [
+      { "name": "UVERworld", "link": "https://music.163.com/artist?id=22300" }
+    ],
+    "album": {
+      "name": "Touch off (初回生産限定盤)",
+      "link": "https://music.163.com/album?id=75710057"
+    }
+  },
+  {
+    "name": "Golden Shores (Morrison Kiers)",
+    "link": "https://music.163.com/song?id=1396905404",
+    "duration": "07:41",
+    "artists": [
+      {
+        "name": "Sunlight Project",
+        "link": "https://music.163.com/artist?id=858214"
+      }
+    ],
+    "album": {
+      "name": "Golden Shores (Remixes)",
+      "link": "https://music.163.com/album?id=82400525"
+    }
+  },
+  {
+    "name": "New Dawns",
+    "link": "https://music.163.com/song?id=445666845",
+    "duration": "03:02",
+    "artists": [
+      { "name": "Gaia", "link": "https://music.163.com/artist?id=12214159" }
+    ],
+    "album": {
+      "name": "New Dawns",
+      "link": "https://music.163.com/album?id=35012747"
+    }
+  },
+  {
+    "name": "You're Gonna Live Forever in Me",
+    "link": "https://music.163.com/song?id=472050059",
+    "duration": "03:10",
+    "artists": [
+      { "name": "John Mayer", "link": "https://music.163.com/artist?id=35335" }
+    ],
+    "album": {
+      "name": "The Search for Everything",
+      "link": "https://music.163.com/album?id=35328840"
+    }
+  },
+  {
+    "name": "Euphor",
+    "link": "https://music.163.com/song?id=517902789",
+    "duration": "04:03",
+    "artists": [
+      { "name": "Novo Amor", "link": "https://music.163.com/artist?id=904041" },
+      {
+        "name": "Ed Tullett",
+        "link": "https://music.163.com/artist?id=12863130"
+      }
+    ],
+    "album": {
+      "name": "Heiress",
+      "link": "https://music.163.com/album?id=36771113"
+    }
+  },
+  {
+    "name": "Rescue Me",
+    "link": "https://music.163.com/song?id=1365844416",
+    "duration": "02:38",
+    "artists": [
+      { "name": "OneRepublic", "link": "https://music.163.com/artist?id=98105" }
+    ],
+    "album": {
+      "name": "Rescue Me",
+      "link": "https://music.163.com/album?id=79186892"
+    }
+  },
+  {
+    "name": "竹林中",
+    "link": "https://music.163.com/song?id=1387304329",
+    "duration": "04:00",
+    "artists": [
+      {
+        "name": "Christine Welch",
+        "link": "https://music.163.com/artist?id=7520"
+      }
+    ],
+    "album": {
+      "name": "竹林中",
+      "link": "https://music.163.com/album?id=81224101"
+    }
+  },
+  {
+    "name": "Sweet Dreams",
+    "link": "https://music.163.com/song?id=1349283442",
+    "duration": "03:02",
+    "artists": [
+      {
+        "name": "Besomorph",
+        "link": "https://music.163.com/artist?id=13406913"
+      }
+    ],
+    "album": {
+      "name": "Sweet Dreams",
+      "link": "https://music.163.com/album?id=75741786"
+    }
+  },
+  {
+    "name": "There's Nothing Holdin' Me Back",
+    "link": "https://music.163.com/song?id=473602620",
+    "duration": "03:18",
+    "artists": [
+      {
+        "name": "Shawn Mendes",
+        "link": "https://music.163.com/artist?id=956238"
+      }
+    ],
+    "album": {
+      "name": "There's Nothing Holdin' Me Back",
+      "link": "https://music.163.com/album?id=35377237"
+    }
+  },
+  {
+    "name": "Oysters",
+    "link": "https://music.163.com/song?id=3069853",
+    "duration": "02:40",
+    "artists": [
+      {
+        "name": "Me'Shell Ndegéocello",
+        "link": "https://music.163.com/artist?id=66786"
+      }
+    ],
+    "album": {
+      "name": "Weather",
+      "link": "https://music.163.com/album?id=310356"
+    }
+  },
+  {
+    "name": "i'm so tired...",
+    "link": "https://music.163.com/song?id=1339216146",
+    "duration": "02:42",
+    "artists": [
+      { "name": "Lauv", "link": "https://music.163.com/artist?id=1057226" },
+      { "name": "Troye Sivan", "link": "https://music.163.com/artist?id=45129" }
+    ],
+    "album": {
+      "name": "i'm so tired...",
+      "link": "https://music.163.com/album?id=75163674"
+    }
+  },
+  {
+    "name": "Fall",
+    "link": "https://music.163.com/song?id=534544523",
+    "duration": "02:46",
+    "artists": [
+      {
+        "name": "Sasha Sloan",
+        "link": "https://music.163.com/artist?id=12646102"
+      }
+    ],
+    "album": {
+      "name": "Fall",
+      "link": "https://music.163.com/album?id=37391642"
+    }
+  },
+  {
+    "name": "One Less Star",
+    "link": "https://music.163.com/song?id=1344439577",
+    "duration": "04:30",
+    "artists": [
+      { "name": "Direct", "link": "https://music.163.com/artist?id=758029" },
+      {
+        "name": "Killabyte",
+        "link": "https://music.163.com/artist?id=1113022"
+      },
+      { "name": "Matt Van", "link": "https://music.163.com/artist?id=12441178" }
+    ],
+    "album": {
+      "name": "One Less Star",
+      "link": "https://music.163.com/album?id=75469852"
+    }
+  },
+  {
+    "name": "君の知らない物語 - (TV动画《化物语》ED1 ； TVアニメ「化物語」ED1テーマ)",
+    "link": "https://music.163.com/song?id=399367218",
+    "duration": "05:42",
+    "artists": [
+      { "name": "supercell", "link": "https://music.163.com/artist?id=21397" }
+    ],
+    "album": {
+      "name": "歌物語-〈物語〉シリーズ主題歌集-",
+      "link": "https://music.163.com/album?id=34408366"
+    }
+  },
+  {
+    "name": "ムーンライト伝説",
+    "link": "https://music.163.com/song?id=523248333",
+    "duration": "03:03",
+    "artists": [
+      {
+        "name": "東京フィルハーモニー交響楽団",
+        "link": "https://music.163.com/artist?id=161439"
+      },
+      { "name": "吉田誠", "link": "https://music.163.com/artist?id=12935599" }
+    ],
+    "album": {
+      "name": "美少女戦士セーラームーン 25周年記念Classic Concert ALBUM",
+      "link": "https://music.163.com/album?id=36950123"
+    }
+  },
+  {
+    "name": "it gon'last",
+    "link": "https://music.163.com/song?id=1405098776",
+    "duration": "02:40",
+    "artists": [
+      { "name": "bbno$", "link": "https://music.163.com/artist?id=12054171" }
+    ],
+    "album": {
+      "name": "i don't care at all",
+      "link": "https://music.163.com/album?id=83567206"
+    }
+  },
+  {
+    "name": "Hazy - (TV动画《花开伊吕波》ED1 )",
+    "link": "https://music.163.com/song?id=26386033",
+    "duration": "04:23",
+    "artists": [
+      { "name": "スフィア", "link": "https://music.163.com/artist?id=21334" }
+    ],
+    "album": {
+      "name": "花咲くいろは 湯乃鷺 Best Songs",
+      "link": "https://music.163.com/album?id=2474495"
+    }
+  },
+  {
+    "name": "潘玮柏-我想更懂你-(H Yong 黄勇 Remix)（H Yong黄勇 remix）",
+    "link": "https://music.163.com/song?id=1421276505",
+    "duration": "02:34",
+    "artists": [
+      {
+        "name": "H Yong黄勇",
+        "link": "https://music.163.com/artist?id=12580188"
+      }
+    ],
+    "album": {
+      "name": "我想更懂你",
+      "link": "https://music.163.com/album?id=85480055"
+    }
+  },
+  {
+    "name": "一笑懸命",
+    "link": "https://music.163.com/song?id=399249",
+    "duration": "03:50",
+    "artists": [
+      { "name": "遊助", "link": "https://music.163.com/artist?id=13775" }
+    ],
+    "album": {
+      "name": "一笑懸命 / イナヅマ侍",
+      "link": "https://music.163.com/album?id=39504"
+    }
+  },
+  {
+    "name": "secret base ~君がくれたもの~ (10 years after Ver.) - (TV动画《我们仍未知道那天所看见的花的名字》片尾曲)",
+    "link": "https://music.163.com/song?id=33911781",
+    "duration": "05:52",
+    "artists": [
+      { "name": "茅野愛衣", "link": "https://music.163.com/artist?id=16906" },
+      { "name": "戸松遥", "link": "https://music.163.com/artist?id=17905" },
+      { "name": "早見沙織", "link": "https://music.163.com/artist?id=16501" }
+    ],
+    "album": {
+      "name": "secret base～君がくれたもの～(初回生産限定盤)",
+      "link": "https://music.163.com/album?id=3266177"
+    }
+  },
+  {
+    "name": "Sea Of Stars",
+    "link": "https://music.163.com/song?id=22774633",
+    "duration": "04:48",
+    "artists": [
+      {
+        "name": "aozorafantasii",
+        "link": "https://music.163.com/artist?id=16089"
+      }
+    ],
+    "album": {
+      "name": "Flight",
+      "link": "https://music.163.com/album?id=2092394"
+    }
+  },
+  {
+    "name": "人間だった (はるまきごはん歌唱カバー)",
+    "link": "https://music.163.com/song?id=529391590",
+    "duration": "04:08",
+    "artists": [
+      {
+        "name": "はるまきごはん",
+        "link": "https://music.163.com/artist?id=12175308"
+      }
+    ],
+    "album": {
+      "name": "SLEEP SHEEP SUNROOM",
+      "link": "https://music.163.com/album?id=37099563"
+    }
+  },
+  {
+    "name": "コトバカゼ",
+    "link": "https://music.163.com/song?id=1354616291",
+    "duration": "04:21",
+    "artists": [
+      {
+        "name": "ときのそら",
+        "link": "https://music.163.com/artist?id=31154271"
+      }
+    ],
+    "album": {
+      "name": "Dreaming!",
+      "link": "https://music.163.com/album?id=78220266"
+    }
+  },
+  {
+    "name": "Seaside Serenade",
+    "link": "https://music.163.com/song?id=1375708215",
+    "duration": "01:20",
+    "artists": [
+      { "name": "Feyde", "link": "https://music.163.com/artist?id=31347852" }
+    ],
+    "album": {
+      "name": "Feyde",
+      "link": "https://music.163.com/album?id=80182895"
+    }
+  },
+  {
+    "name": "深海少女",
+    "link": "https://music.163.com/song?id=857619",
+    "duration": "03:36",
+    "artists": [
+      { "name": "のぶなが", "link": "https://music.163.com/artist?id=191321" }
+    ],
+    "album": {
+      "name": "voices in a bottle ～海を越え届いた歌声～",
+      "link": "https://music.163.com/album?id=85498"
+    }
+  },
+  {
+    "name": "命に嫌われている",
+    "link": "https://music.163.com/song?id=1325898758",
+    "duration": "04:37",
+    "artists": [
+      { "name": "Sou", "link": "https://music.163.com/artist?id=1193225" }
+    ],
+    "album": {
+      "name": "SUNRISE",
+      "link": "https://music.163.com/album?id=74266333"
+    }
+  },
+  {
+    "name": "Love Is Gone (feat. Dylan Matthew) (Acoustic)",
+    "link": "https://music.163.com/song?id=1401671455",
+    "duration": "02:56",
+    "artists": [
+      { "name": "SLANDER", "link": "https://music.163.com/artist?id=1137239" },
+      {
+        "name": "Dylan Matthew",
+        "link": "https://music.163.com/artist?id=28684353"
+      }
+    ],
+    "album": {
+      "name": "Love Is Gone (Acoustic)",
+      "link": "https://music.163.com/album?id=83079277"
+    }
+  }
+]

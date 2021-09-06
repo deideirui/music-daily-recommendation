@@ -1,0 +1,481 @@
+[
+  {
+    "name": "A Better Day",
+    "link": "https://music.163.com/song?id=1486646455",
+    "duration": "02:08",
+    "artists": [
+      {
+        "name": "Last Heroes",
+        "link": "https://music.163.com/artist?id=11987034"
+      }
+    ],
+    "album": {
+      "name": "Finding Light",
+      "link": "https://music.163.com/album?id=96707479"
+    }
+  },
+  {
+    "name": "One Life",
+    "link": "https://music.163.com/song?id=1393561591",
+    "duration": "03:24",
+    "artists": [
+      { "name": "Mike Perry", "link": "https://music.163.com/artist?id=195021" }
+    ],
+    "album": {
+      "name": "One Life",
+      "link": "https://music.163.com/album?id=81975161"
+    }
+  },
+  {
+    "name": "Hold Us Together",
+    "link": "https://music.163.com/song?id=480517594",
+    "duration": "03:41",
+    "artists": [
+      { "name": "WILD", "link": "https://music.163.com/artist?id=12074090" }
+    ],
+    "album": {
+      "name": "Hold Us Together",
+      "link": "https://music.163.com/album?id=35550333"
+    }
+  },
+  {
+    "name": "Back to the Start",
+    "link": "https://music.163.com/song?id=1337949941",
+    "duration": "03:13",
+    "artists": [
+      {
+        "name": "Michael Schulte",
+        "link": "https://music.163.com/artist?id=40222"
+      }
+    ],
+    "album": {
+      "name": "Back to the Start",
+      "link": "https://music.163.com/album?id=75071532"
+    }
+  },
+  {
+    "name": "Curtain Call",
+    "link": "https://music.163.com/song?id=1414940085",
+    "duration": "02:29",
+    "artists": [
+      {
+        "name": "Steam Phunk",
+        "link": "https://music.163.com/artist?id=1177079"
+      },
+      {
+        "name": "Lucy Neville",
+        "link": "https://music.163.com/artist?id=12031372"
+      }
+    ],
+    "album": {
+      "name": "Curtain Call",
+      "link": "https://music.163.com/album?id=84797920"
+    }
+  },
+  {
+    "name": "We Are Free",
+    "link": "https://music.163.com/song?id=1367575521",
+    "duration": "06:41",
+    "artists": [
+      { "name": "Axxound", "link": "https://music.163.com/artist?id=1179159" },
+      { "name": "Melchi", "link": "https://music.163.com/artist?id=12058010" }
+    ],
+    "album": {
+      "name": "We Are Free",
+      "link": "https://music.163.com/album?id=79395459"
+    }
+  },
+  {
+    "name": "Leave",
+    "link": "https://music.163.com/song?id=1337345800",
+    "duration": "03:13",
+    "artists": [
+      { "name": "Borgeous", "link": "https://music.163.com/artist?id=904048" },
+      {
+        "name": "Jordyn Jones",
+        "link": "https://music.163.com/artist?id=1122010"
+      }
+    ],
+    "album": {
+      "name": "Leave",
+      "link": "https://music.163.com/album?id=75043824"
+    }
+  },
+  {
+    "name": "Save Myself",
+    "link": "https://music.163.com/song?id=540274409",
+    "duration": "03:06",
+    "artists": [
+      {
+        "name": "Dash Berlin",
+        "link": "https://music.163.com/artist?id=32124"
+      },
+      { "name": "DBSTF", "link": "https://music.163.com/artist?id=147318" },
+      {
+        "name": "Josie Nelson",
+        "link": "https://music.163.com/artist?id=13191598"
+      }
+    ],
+    "album": {
+      "name": "Save Myself",
+      "link": "https://music.163.com/album?id=37711655"
+    }
+  },
+  {
+    "name": "Oasis",
+    "link": "https://music.163.com/song?id=1419185933",
+    "duration": "03:57",
+    "artists": [
+      {
+        "name": "Danny Olson",
+        "link": "https://music.163.com/artist?id=1178296"
+      },
+      {
+        "name": "Sammy Plotkin",
+        "link": "https://music.163.com/artist?id=32276980"
+      }
+    ],
+    "album": {
+      "name": "Oasis",
+      "link": "https://music.163.com/album?id=85251064"
+    }
+  },
+  {
+    "name": "Somber (Acoustic)",
+    "link": "https://music.163.com/song?id=550616628",
+    "duration": "03:57",
+    "artists": [
+      {
+        "name": "Violet Days",
+        "link": "https://music.163.com/artist?id=947272"
+      },
+      { "name": "morgxn", "link": "https://music.163.com/artist?id=12053396" }
+    ],
+    "album": {
+      "name": "Somber (Acoustic)",
+      "link": "https://music.163.com/album?id=38099295"
+    }
+  },
+  {
+    "name": "Cinematic (Radio Edit)",
+    "link": "https://music.163.com/song?id=32737848",
+    "duration": "03:55",
+    "artists": [
+      {
+        "name": "Fedde Le Grand",
+        "link": "https://music.163.com/artist?id=33528"
+      },
+      {
+        "name": "Denny White",
+        "link": "https://music.163.com/artist?id=975091"
+      }
+    ],
+    "album": {
+      "name": "Cinematic (Radio Edit)",
+      "link": "https://music.163.com/album?id=3171143"
+    }
+  },
+  {
+    "name": "Throwaway",
+    "link": "https://music.163.com/song?id=1373140736",
+    "duration": "03:00",
+    "artists": [
+      { "name": "SG Lewis", "link": "https://music.163.com/artist?id=1130009" },
+      { "name": "Clairo", "link": "https://music.163.com/artist?id=12191215" }
+    ],
+    "album": {
+      "name": "Dawn",
+      "link": "https://music.163.com/album?id=79915987"
+    }
+  },
+  {
+    "name": "I Wish I Never Met You",
+    "link": "https://music.163.com/song?id=1403597982",
+    "duration": "02:59",
+    "artists": [
+      { "name": "Oh Wonder", "link": "https://music.163.com/artist?id=1050128" }
+    ],
+    "album": {
+      "name": "No One Else Can Wear Your Crown",
+      "link": "https://music.163.com/album?id=85538401"
+    }
+  },
+  {
+    "name": "To Eternity",
+    "link": "https://music.163.com/song?id=1337983014",
+    "duration": "03:38",
+    "artists": [
+      {
+        "name": "Adib Sin",
+        "link": "https://music.163.com/artist?id=12244027"
+      },
+      { "name": "Cae", "link": "https://music.163.com/artist?id=513122" }
+    ],
+    "album": {
+      "name": "To Eternity",
+      "link": "https://music.163.com/album?id=75072955"
+    }
+  },
+  {
+    "name": "Sky Dancer (Arctic Moon Remix)",
+    "link": "https://music.163.com/song?id=417247340",
+    "duration": "06:33",
+    "artists": [
+      {
+        "name": "Arctic Moon",
+        "link": "https://music.163.com/artist?id=820034"
+      },
+      {
+        "name": "Hans Seo",
+        "link": "https://music.163.com/artist?id=12048020"
+      },
+      {
+        "name": "Anna Toth",
+        "link": "https://music.163.com/artist?id=13720638"
+      }
+    ],
+    "album": {
+      "name": "Sky Dancer (Arctic Moon Remix)",
+      "link": "https://music.163.com/album?id=34739171"
+    }
+  },
+  {
+    "name": "High Days ",
+    "link": "https://music.163.com/song?id=1338495341",
+    "duration": "02:47",
+    "artists": [
+      { "name": "Hoved", "link": "https://music.163.com/artist?id=12232048" },
+      {
+        "name": "Cara Melín",
+        "link": "https://music.163.com/artist?id=27812952"
+      }
+    ],
+    "album": {
+      "name": "High Days",
+      "link": "https://music.163.com/album?id=75097234"
+    }
+  },
+  {
+    "name": "Silk Wave",
+    "link": "https://music.163.com/song?id=1444905232",
+    "duration": "04:32",
+    "artists": [
+      { "name": "Koan Sound", "link": "https://music.163.com/artist?id=131914" }
+    ],
+    "album": {
+      "name": "Silk Wave",
+      "link": "https://music.163.com/album?id=88826387"
+    }
+  },
+  {
+    "name": "Turbulence",
+    "link": "https://music.163.com/song?id=1419394795",
+    "duration": "02:50",
+    "artists": [
+      { "name": "Ella Vos", "link": "https://music.163.com/artist?id=12121298" }
+    ],
+    "album": {
+      "name": "Turbulence",
+      "link": "https://music.163.com/album?id=85284931"
+    }
+  },
+  {
+    "name": "smiling when i die",
+    "link": "https://music.163.com/song?id=1391654690",
+    "duration": "03:26",
+    "artists": [
+      {
+        "name": "Sasha Sloan",
+        "link": "https://music.163.com/artist?id=12646102"
+      }
+    ],
+    "album": {
+      "name": "smiling when i die",
+      "link": "https://music.163.com/album?id=81727033"
+    }
+  },
+  {
+    "name": "Black Frost",
+    "link": "https://music.163.com/song?id=1468301626",
+    "duration": "03:58",
+    "artists": [
+      {
+        "name": "Asketa & Natan Chaim",
+        "link": "https://music.163.com/artist?id=32523005"
+      },
+      {
+        "name": "Requenze",
+        "link": "https://music.163.com/artist?id=12772502"
+      },
+      { "name": "Menno", "link": "https://music.163.com/artist?id=12533764" }
+    ],
+    "album": {
+      "name": "Black Frost",
+      "link": "https://music.163.com/album?id=93462028"
+    }
+  },
+  {
+    "name": "Feel The Vibe",
+    "link": "https://music.163.com/song?id=1323303724",
+    "duration": "03:18",
+    "artists": [
+      {
+        "name": "SMiTHMUSiX",
+        "link": "https://music.163.com/artist?id=12202292"
+      },
+      {
+        "name": "Cael Dadian",
+        "link": "https://music.163.com/artist?id=30723380"
+      }
+    ],
+    "album": {
+      "name": "Feel The Vibe",
+      "link": "https://music.163.com/album?id=74266883"
+    }
+  },
+  {
+    "name": "Leave This Place",
+    "link": "https://music.163.com/song?id=437605808",
+    "duration": "04:51",
+    "artists": [
+      { "name": "LIONE", "link": "https://music.163.com/artist?id=11986064" }
+    ],
+    "album": {
+      "name": "Leave This Place",
+      "link": "https://music.163.com/album?id=34944506"
+    }
+  },
+  {
+    "name": "Closer To Heaven (Extended Mix)",
+    "link": "https://music.163.com/song?id=412902796",
+    "duration": "06:38",
+    "artists": [
+      {
+        "name": "Alan Morris",
+        "link": "https://music.163.com/artist?id=193174"
+      }
+    ],
+    "album": {
+      "name": "Closer To Heaven",
+      "link": "https://music.163.com/album?id=34702269"
+    }
+  },
+  {
+    "name": "Nowhere To Be Found (Craig Connelly Remix)",
+    "link": "https://music.163.com/song?id=425988123",
+    "duration": "06:23",
+    "artists": [
+      { "name": "Fabio XB", "link": "https://music.163.com/artist?id=207476" },
+      {
+        "name": "Craig Connelly",
+        "link": "https://music.163.com/artist?id=191566"
+      },
+      { "name": "Liuck", "link": "https://music.163.com/artist?id=12074296" },
+      {
+        "name": "Roxanne Emery",
+        "link": "https://music.163.com/artist?id=74561"
+      }
+    ],
+    "album": {
+      "name": "Nowhere To Be Found (Remixes)",
+      "link": "https://music.163.com/album?id=34817884"
+    }
+  },
+  {
+    "name": "Freehand",
+    "link": "https://music.163.com/song?id=517902798",
+    "duration": "03:09",
+    "artists": [
+      { "name": "Novo Amor", "link": "https://music.163.com/artist?id=904041" },
+      {
+        "name": "Ed Tullett",
+        "link": "https://music.163.com/artist?id=12863130"
+      }
+    ],
+    "album": {
+      "name": "Heiress",
+      "link": "https://music.163.com/album?id=36771113"
+    }
+  },
+  {
+    "name": "Memory Lane",
+    "link": "https://music.163.com/song?id=1399957414",
+    "duration": "03:31",
+    "artists": [
+      {
+        "name": "Sandra Bae",
+        "link": "https://music.163.com/artist?id=29864436"
+      }
+    ],
+    "album": {
+      "name": "Memory Lane",
+      "link": "https://music.163.com/album?id=82838652"
+    }
+  },
+  {
+    "name": "Reality",
+    "link": "https://music.163.com/song?id=429450821",
+    "duration": "03:32",
+    "artists": [
+      { "name": "Andreas B.", "link": "https://music.163.com/artist?id=299713" }
+    ],
+    "album": {
+      "name": "Reality",
+      "link": "https://music.163.com/album?id=34861998"
+    }
+  },
+  {
+    "name": "Marry You",
+    "link": "https://music.163.com/song?id=26763886",
+    "duration": "03:49",
+    "artists": [
+      { "name": "Bruno Mars", "link": "https://music.163.com/artist?id=178059" }
+    ],
+    "album": {
+      "name": "Now! 19",
+      "link": "https://music.163.com/album?id=2553545"
+    }
+  },
+  {
+    "name": "On Our Own",
+    "link": "https://music.163.com/song?id=504265178",
+    "duration": "03:09",
+    "artists": [
+      {
+        "name": "Bruno Major",
+        "link": "https://music.163.com/artist?id=12250109"
+      }
+    ],
+    "album": {
+      "name": "On Our Own",
+      "link": "https://music.163.com/album?id=36149049"
+    }
+  },
+  {
+    "name": "Shoulder of Orion",
+    "link": "https://music.163.com/song?id=26064597",
+    "duration": "05:02",
+    "artists": [
+      { "name": "Lazerhawk", "link": "https://music.163.com/artist?id=392109" }
+    ],
+    "album": {
+      "name": "Visitors ",
+      "link": "https://music.163.com/album?id=2369863"
+    }
+  },
+  {
+    "name": "Chemtrails Over The Country Club",
+    "link": "https://music.163.com/song?id=1811183594",
+    "duration": "04:31",
+    "artists": [
+      {
+        "name": "Lana Del Rey",
+        "link": "https://music.163.com/artist?id=66212"
+      }
+    ],
+    "album": {
+      "name": "Chemtrails Over The Country Club",
+      "link": "https://music.163.com/album?id=121487366"
+    }
+  }
+]

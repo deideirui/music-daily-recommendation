@@ -1,0 +1,471 @@
+[
+  {
+    "name": "So Far Gone",
+    "link": "https://music.163.com/song?id=1371507475",
+    "duration": "03:32",
+    "artists": [
+      { "name": "Nurko", "link": "https://music.163.com/artist?id=11991089" },
+      { "name": "Autrey", "link": "https://music.163.com/artist?id=31064238" }
+    ],
+    "album": {
+      "name": "Armada Chill 2019",
+      "link": "https://music.163.com/album?id=79769385"
+    }
+  },
+  {
+    "name": "Used To",
+    "link": "https://music.163.com/song?id=1440691823",
+    "duration": "03:59",
+    "artists": [
+      { "name": "Max Oazo", "link": "https://music.163.com/artist?id=13159084" }
+    ],
+    "album": {
+      "name": "Used To",
+      "link": "https://music.163.com/album?id=88031222"
+    }
+  },
+  {
+    "name": "For Life",
+    "link": "https://music.163.com/song?id=1450985930",
+    "duration": "02:37",
+    "artists": [
+      { "name": "Rival", "link": "https://music.163.com/artist?id=12741030" },
+      { "name": "Cadmium", "link": "https://music.163.com/artist?id=12945908" },
+      { "name": "Marmy", "link": "https://music.163.com/artist?id=30661541" }
+    ],
+    "album": {
+      "name": "For Life",
+      "link": "https://music.163.com/album?id=89962975"
+    }
+  },
+  {
+    "name": "Feel Like That",
+    "link": "https://music.163.com/song?id=1336871815",
+    "duration": "03:14",
+    "artists": [
+      { "name": "No Joke", "link": "https://music.163.com/artist?id=31465494" }
+    ],
+    "album": {
+      "name": "Feel Like That",
+      "link": "https://music.163.com/album?id=75017140"
+    }
+  },
+  {
+    "name": "Before It's Over",
+    "link": "https://music.163.com/song?id=1426391313",
+    "duration": "03:20",
+    "artists": [
+      { "name": "S1LVA", "link": "https://music.163.com/artist?id=12914324" },
+      { "name": "Luma", "link": "https://music.163.com/artist?id=211460" }
+    ],
+    "album": {
+      "name": "Before It's Over",
+      "link": "https://music.163.com/album?id=86034553"
+    }
+  },
+  {
+    "name": "You Belong",
+    "link": "https://music.163.com/song?id=1322228543",
+    "duration": "02:59",
+    "artists": [
+      {
+        "name": "Fly by Midnight",
+        "link": "https://music.163.com/artist?id=1163027"
+      }
+    ],
+    "album": {
+      "name": "You Belong",
+      "link": "https://music.163.com/album?id=74185985"
+    }
+  },
+  {
+    "name": "Need You",
+    "link": "https://music.163.com/song?id=1436967572",
+    "duration": "03:27",
+    "artists": [
+      { "name": "Fablers", "link": "https://music.163.com/artist?id=34751307" },
+      {
+        "name": "Revealed Recordings",
+        "link": "https://music.163.com/artist?id=28753573"
+      },
+      {
+        "name": "Sam Knight",
+        "link": "https://music.163.com/artist?id=30292124"
+      }
+    ],
+    "album": {
+      "name": "Need You",
+      "link": "https://music.163.com/album?id=87507103"
+    }
+  },
+  {
+    "name": "Somebody Else",
+    "link": "https://music.163.com/song?id=1432447051",
+    "duration": "02:43",
+    "artists": [
+      { "name": "Loote", "link": "https://music.163.com/artist?id=12408152" }
+    ],
+    "album": {
+      "name": "Somebody Else",
+      "link": "https://music.163.com/album?id=86672528"
+    }
+  },
+  {
+    "name": "Ain't The Same",
+    "link": "https://music.163.com/song?id=1391654692",
+    "duration": "02:46",
+    "artists": [
+      {
+        "name": "Lost Kings",
+        "link": "https://music.163.com/artist?id=847225"
+      },
+      { "name": "CXLOE", "link": "https://music.163.com/artist?id=12946512" }
+    ],
+    "album": {
+      "name": "Ain't The Same",
+      "link": "https://music.163.com/album?id=81726423"
+    }
+  },
+  {
+    "name": "Bones",
+    "link": "https://music.163.com/song?id=512376317",
+    "duration": "03:13",
+    "artists": [
+      { "name": "JackLNDN", "link": "https://music.163.com/artist?id=384473" }
+    ],
+    "album": {
+      "name": "Bones",
+      "link": "https://music.163.com/album?id=36535071"
+    }
+  },
+  {
+    "name": "Bright Lights",
+    "link": "https://music.163.com/song?id=1428852864",
+    "duration": "02:36",
+    "artists": [
+      { "name": "Castion", "link": "https://music.163.com/artist?id=27687018" },
+      { "name": "Krozz", "link": "https://music.163.com/artist?id=12698100" }
+    ],
+    "album": {
+      "name": "Bright Lights",
+      "link": "https://music.163.com/album?id=86298022"
+    }
+  },
+  {
+    "name": "New Ting",
+    "link": "https://music.163.com/song?id=512617800",
+    "duration": "02:54",
+    "artists": [
+      {
+        "name": "Marc E. Bassy",
+        "link": "https://music.163.com/artist?id=12046521"
+      }
+    ],
+    "album": {
+      "name": "Gossip Columns",
+      "link": "https://music.163.com/album?id=36506697"
+    }
+  },
+  {
+    "name": "Be My Love (DubVision Remix)",
+    "link": "https://music.163.com/song?id=1373132571",
+    "duration": "02:56",
+    "artists": [
+      { "name": "Syzz", "link": "https://music.163.com/artist?id=961150" },
+      {
+        "name": "Taku-Hero",
+        "link": "https://music.163.com/artist?id=12326126"
+      },
+      { "name": "DubVision", "link": "https://music.163.com/artist?id=357950" }
+    ],
+    "album": {
+      "name": "Be My Love (DubVision Remix)",
+      "link": "https://music.163.com/album?id=79914151"
+    }
+  },
+  {
+    "name": "This Ain't Right (Original Mix)",
+    "link": "https://music.163.com/song?id=542368519",
+    "duration": "04:06",
+    "artists": [
+      {
+        "name": "Suprafive",
+        "link": "https://music.163.com/artist?id=1022142"
+      },
+      {
+        "name": "Bentley Grey",
+        "link": "https://music.163.com/artist?id=29733022"
+      }
+    ],
+    "album": {
+      "name": "This Ain't Right",
+      "link": "https://music.163.com/album?id=37782416"
+    }
+  },
+  {
+    "name": "Murcielago",
+    "link": "https://music.163.com/song?id=1410273269",
+    "duration": "02:37",
+    "artists": [
+      {
+        "name": "Do It Big",
+        "link": "https://music.163.com/artist?id=13498377"
+      }
+    ],
+    "album": {
+      "name": "Murcielago",
+      "link": "https://music.163.com/album?id=84157455"
+    }
+  },
+  {
+    "name": "Say (Radio Edit)",
+    "link": "https://music.163.com/song?id=535520320",
+    "duration": "03:47",
+    "artists": [
+      {
+        "name": "Legal Divide",
+        "link": "https://music.163.com/artist?id=1137356"
+      },
+      { "name": "Tom Ven", "link": "https://music.163.com/artist?id=1137357" },
+      { "name": "KWT", "link": "https://music.163.com/artist?id=1137355" }
+    ],
+    "album": {
+      "name": "Armada Trice In Ibiza 2015",
+      "link": "https://music.163.com/album?id=3280041"
+    }
+  },
+  {
+    "name": "I Remember",
+    "link": "https://music.163.com/song?id=1422537048",
+    "duration": "03:46",
+    "artists": [
+      { "name": "Dayon", "link": "https://music.163.com/artist?id=839378" }
+    ],
+    "album": {
+      "name": "I Remember",
+      "link": "https://music.163.com/album?id=85639548"
+    }
+  },
+  {
+    "name": "I Luv U",
+    "link": "https://music.163.com/song?id=1432440791",
+    "duration": "02:30",
+    "artists": [
+      {
+        "name": "Sofia Carson",
+        "link": "https://music.163.com/artist?id=12024488"
+      },
+      { "name": "R3hab", "link": "https://music.163.com/artist?id=197248" }
+    ],
+    "album": {
+      "name": "I Luv U",
+      "link": "https://music.163.com/album?id=86671615"
+    }
+  },
+  {
+    "name": "Chicken Run",
+    "link": "https://music.163.com/song?id=1428365964",
+    "duration": "02:25",
+    "artists": [
+      { "name": "Dropgun", "link": "https://music.163.com/artist?id=972015" }
+    ],
+    "album": {
+      "name": "Chicken Run",
+      "link": "https://music.163.com/album?id=86244751"
+    }
+  },
+  {
+    "name": "Until We Die",
+    "link": "https://music.163.com/song?id=1377830798",
+    "duration": "02:57",
+    "artists": [
+      { "name": "WATEVA", "link": "https://music.163.com/artist?id=12475726" },
+      {
+        "name": "Next to Neon",
+        "link": "https://music.163.com/artist?id=14470344"
+      }
+    ],
+    "album": {
+      "name": "Until We Die",
+      "link": "https://music.163.com/album?id=80383720"
+    }
+  },
+  {
+    "name": "Best Thing",
+    "link": "https://music.163.com/song?id=1421433164",
+    "duration": "02:54",
+    "artists": [
+      {
+        "name": "Matisse & Sadko",
+        "link": "https://music.163.com/artist?id=947054"
+      },
+      { "name": "Matluck", "link": "https://music.163.com/artist?id=13872061" }
+    ],
+    "album": {
+      "name": "Best Thing",
+      "link": "https://music.163.com/album?id=85536756"
+    }
+  },
+  {
+    "name": "Bad Intentions",
+    "link": "https://music.163.com/song?id=1434217174",
+    "duration": "03:03",
+    "artists": [
+      {
+        "name": "Alexander Oscar",
+        "link": "https://music.163.com/artist?id=12312150"
+      }
+    ],
+    "album": {
+      "name": "Bad Intentions",
+      "link": "https://music.163.com/album?id=86858445"
+    }
+  },
+  {
+    "name": "Fading Out",
+    "link": "https://music.163.com/song?id=488641304",
+    "duration": "03:18",
+    "artists": [
+      { "name": "Mazde", "link": "https://music.163.com/artist?id=1024181" },
+      { "name": "Rromarin", "link": "https://music.163.com/artist?id=13134049" }
+    ],
+    "album": {
+      "name": "Fading Out",
+      "link": "https://music.163.com/album?id=35696586"
+    }
+  },
+  {
+    "name": "I'm With You",
+    "link": "https://music.163.com/song?id=1372953285",
+    "duration": "03:28",
+    "artists": [
+      { "name": "JVNA", "link": "https://music.163.com/artist?id=28692563" }
+    ],
+    "album": {
+      "name": "I'm With You",
+      "link": "https://music.163.com/album?id=79899240"
+    }
+  },
+  {
+    "name": "Love Yourself",
+    "link": "https://music.163.com/song?id=1474018717",
+    "duration": "02:36",
+    "artists": [
+      {
+        "name": "Conor Maynard",
+        "link": "https://music.163.com/artist?id=29020"
+      }
+    ],
+    "album": {
+      "name": "Morning Songs",
+      "link": "https://music.163.com/album?id=94488264"
+    }
+  },
+  {
+    "name": "Gone My Way (Nurko Remix)",
+    "link": "https://music.163.com/song?id=1362692848",
+    "duration": "03:45",
+    "artists": [
+      {
+        "name": "Morgan Page",
+        "link": "https://music.163.com/artist?id=39698"
+      },
+      { "name": "Pex L", "link": "https://music.163.com/artist?id=348566" },
+      { "name": "Nurko", "link": "https://music.163.com/artist?id=11991089" }
+    ],
+    "album": {
+      "name": "Gone My Way (Nurko Remix)",
+      "link": "https://music.163.com/album?id=78886388"
+    }
+  },
+  {
+    "name": "Invitat (Dirty Nano Remix)",
+    "link": "https://music.163.com/song?id=1353613271",
+    "duration": "04:33",
+    "artists": [
+      {
+        "name": "The Motans",
+        "link": "https://music.163.com/artist?id=12710132"
+      }
+    ],
+    "album": {
+      "name": "Invitat (Dirty Nano Remix)",
+      "link": "https://music.163.com/album?id=78158544"
+    }
+  },
+  {
+    "name": "Hold Me While You Wait",
+    "link": "https://music.163.com/song?id=1362825341",
+    "duration": "03:25",
+    "artists": [
+      {
+        "name": "Lewis Capaldi",
+        "link": "https://music.163.com/artist?id=12474140"
+      }
+    ],
+    "album": {
+      "name": "Divinely Uninspired To A Hellish Extent",
+      "link": "https://music.163.com/album?id=79186238"
+    }
+  },
+  {
+    "name": "Made It This Far",
+    "link": "https://music.163.com/song?id=1449614378",
+    "duration": "03:48",
+    "artists": [
+      {
+        "name": "Katelyn Tarver",
+        "link": "https://music.163.com/artist?id=63875"
+      }
+    ],
+    "album": {
+      "name": "Made It This Far",
+      "link": "https://music.163.com/album?id=89683495"
+    }
+  },
+  {
+    "name": "Bloom (Nurko Remix)",
+    "link": "https://music.163.com/song?id=1382942100",
+    "duration": "04:11",
+    "artists": [
+      { "name": "Dabin", "link": "https://music.163.com/artist?id=783446" },
+      {
+        "name": "Dia Frampton",
+        "link": "https://music.163.com/artist?id=55454"
+      },
+      { "name": "Nurko", "link": "https://music.163.com/artist?id=11991089" }
+    ],
+    "album": {
+      "name": "Wild Youth (The Remixes)",
+      "link": "https://music.163.com/album?id=80845413"
+    }
+  },
+  {
+    "name": "Too Good At Goodbyes",
+    "link": "https://music.163.com/song?id=532950095",
+    "duration": "02:57",
+    "artists": [
+      { "name": "MADILYN", "link": "https://music.163.com/artist?id=69270" }
+    ],
+    "album": {
+      "name": "Too Good At Goodbyes",
+      "link": "https://music.163.com/album?id=37316424"
+    }
+  },
+  {
+    "name": "Siento",
+    "link": "https://music.163.com/song?id=567603847",
+    "duration": "03:04",
+    "artists": [
+      { "name": "KLYMVX", "link": "https://music.163.com/artist?id=1149091" },
+      {
+        "name": "Marissa Chibli",
+        "link": "https://music.163.com/artist?id=14777476"
+      }
+    ],
+    "album": {
+      "name": "Siento",
+      "link": "https://music.163.com/album?id=39355299"
+    }
+  }
+]

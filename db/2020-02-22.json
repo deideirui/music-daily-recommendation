@@ -1,0 +1,431 @@
+[
+  {
+    "name": "单线告别",
+    "link": "https://music.163.com/song?id=1377145341",
+    "duration": "03:03",
+    "artists": [
+      {
+        "name": "接个吻，开一枪",
+        "link": "https://music.163.com/artist?id=12085016"
+      },
+      { "name": "刘至佳", "link": "https://music.163.com/artist?id=1172023" }
+    ],
+    "album": {
+      "name": "单线告别",
+      "link": "https://music.163.com/album?id=80320012"
+    }
+  },
+  {
+    "name": "Easy Come",
+    "link": "https://music.163.com/song?id=1369930486",
+    "duration": "02:32",
+    "artists": [
+      {
+        "name": "Antoine Chambe",
+        "link": "https://music.163.com/artist?id=1177057"
+      }
+    ],
+    "album": {
+      "name": "Youth",
+      "link": "https://music.163.com/album?id=79619579"
+    }
+  },
+  {
+    "name": "Touched",
+    "link": "https://music.163.com/song?id=1376078383",
+    "duration": "03:33",
+    "artists": [
+      {
+        "name": "Tyron Hapi",
+        "link": "https://music.163.com/artist?id=1191114"
+      },
+      {
+        "name": "Roy Bing",
+        "link": "https://music.163.com/artist?id=32695394"
+      },
+      {
+        "name": "Carla Wehbe",
+        "link": "https://music.163.com/artist?id=12108999"
+      }
+    ],
+    "album": {
+      "name": "Touched",
+      "link": "https://music.163.com/album?id=80234136"
+    }
+  },
+  {
+    "name": "By Your Side",
+    "link": "https://music.163.com/song?id=492092475",
+    "duration": "03:21",
+    "artists": [
+      {
+        "name": "Jonas Blue",
+        "link": "https://music.163.com/artist?id=1192069"
+      },
+      { "name": "Raye", "link": "https://music.163.com/artist?id=1077053" }
+    ],
+    "album": {
+      "name": "EDM Superstar DJ 2017",
+      "link": "https://music.163.com/album?id=35802122"
+    }
+  },
+  {
+    "name": "Lucky",
+    "link": "https://music.163.com/song?id=1388770883",
+    "duration": "03:26",
+    "artists": [
+      {
+        "name": "Kirara Magic",
+        "link": "https://music.163.com/artist?id=30226109"
+      }
+    ],
+    "album": {
+      "name": "Magic Shop",
+      "link": "https://music.163.com/album?id=81298473"
+    }
+  },
+  {
+    "name": "China-D",
+    "link": "https://music.163.com/song?id=1337772246",
+    "duration": "03:20",
+    "artists": [
+      { "name": "Aexly", "link": "https://music.163.com/artist?id=30548630" }
+    ],
+    "album": {
+      "name": "CHINA",
+      "link": "https://music.163.com/album?id=75039176"
+    }
+  },
+  {
+    "name": "Poppiholla [ASOT 437] (Original Mix)",
+    "link": "https://music.163.com/song?id=548560912",
+    "duration": "01:27",
+    "artists": [
+      { "name": "Chicane", "link": "https://music.163.com/artist?id=50971" }
+    ],
+    "album": {
+      "name": "A State Of Trance Episode 437 (Year Mix 2009)",
+      "link": "https://music.163.com/album?id=38079197"
+    }
+  },
+  {
+    "name": "Wake",
+    "link": "https://music.163.com/song?id=29542751",
+    "duration": "04:13",
+    "artists": [
+      {
+        "name": "Capitol Kids!",
+        "link": "https://music.163.com/artist?id=1021206"
+      }
+    ],
+    "album": {
+      "name": "Capitol Kids! Worship",
+      "link": "https://music.163.com/album?id=3039866"
+    }
+  },
+  {
+    "name": "Set me Free(Radio Edit)",
+    "link": "https://music.163.com/song?id=487747002",
+    "duration": "04:04",
+    "artists": [
+      { "name": "Worezh", "link": "https://music.163.com/artist?id=1158066" }
+    ],
+    "album": {
+      "name": "Set me Free",
+      "link": "https://music.163.com/album?id=35693476"
+    }
+  },
+  {
+    "name": "Blue whale (蓝鲸)",
+    "link": "https://music.163.com/song?id=1379048619",
+    "duration": "02:57",
+    "artists": [
+      { "name": "凯瑟喵", "link": "https://music.163.com/artist?id=12003038" },
+      { "name": "Cibbs", "link": "https://music.163.com/artist?id=12316462" }
+    ],
+    "album": {
+      "name": "Blue whale (蓝鲸)",
+      "link": "https://music.163.com/album?id=80511835"
+    }
+  },
+  {
+    "name": "Think About Us",
+    "link": "https://music.163.com/song?id=543987543",
+    "duration": "03:04",
+    "artists": [
+      {
+        "name": "Jake Miller",
+        "link": "https://music.163.com/artist?id=776761"
+      }
+    ],
+    "album": {
+      "name": "Silver Lining",
+      "link": "https://music.163.com/album?id=37887082"
+    }
+  },
+  {
+    "name": "Sky",
+    "link": "https://music.163.com/song?id=512967018",
+    "duration": "03:22",
+    "artists": [
+      { "name": "Tabee1", "link": "https://music.163.com/artist?id=12491921" }
+    ],
+    "album": {
+      "name": "Sky",
+      "link": "https://music.163.com/album?id=36569056"
+    }
+  },
+  {
+    "name": "留下",
+    "link": "https://music.163.com/song?id=572274163",
+    "duration": "03:52",
+    "artists": [
+      { "name": "Phase Ⅱ", "link": "https://music.163.com/artist?id=12346587" }
+    ],
+    "album": {
+      "name": "留下",
+      "link": "https://music.163.com/album?id=39622527"
+    }
+  },
+  {
+    "name": "三浦透子-グランドエスケープ（TSAR remix）",
+    "link": "https://music.163.com/song?id=1400659124",
+    "duration": "03:40",
+    "artists": [
+      { "name": "TSAR", "link": "https://music.163.com/artist?id=1050510" }
+    ],
+    "album": {
+      "name": "天気の子",
+      "link": "https://music.163.com/album?id=82160063"
+    }
+  },
+  {
+    "name": "Jump",
+    "link": "https://music.163.com/song?id=1342771270",
+    "duration": "02:49",
+    "artists": [
+      { "name": "Vexento", "link": "https://music.163.com/artist?id=12037010" }
+    ],
+    "album": {
+      "name": "Jump",
+      "link": "https://music.163.com/album?id=75363035"
+    }
+  },
+  {
+    "name": "Standing When It All Falls Down (Official NiP Team Song)",
+    "link": "https://music.163.com/song?id=459025584",
+    "duration": "03:03",
+    "artists": [
+      {
+        "name": "John De Sohn",
+        "link": "https://music.163.com/artist?id=290019"
+      },
+      { "name": "roshi", "link": "https://music.163.com/artist?id=201098" }
+    ],
+    "album": {
+      "name": "Standing When It All Falls Down (Official NiP Team Song)",
+      "link": "https://music.163.com/album?id=35164503"
+    }
+  },
+  {
+    "name": "Orbion (Extended Version)",
+    "link": "https://music.163.com/song?id=16389531",
+    "duration": "09:34",
+    "artists": [
+      {
+        "name": "Armin van Buuren",
+        "link": "https://music.163.com/artist?id=27621"
+      }
+    ],
+    "album": {
+      "name": "Orbion",
+      "link": "https://music.163.com/album?id=1511423"
+    }
+  },
+  {
+    "name": "Windy Hill",
+    "link": "https://music.163.com/song?id=427606780",
+    "duration": "05:08",
+    "artists": [
+      { "name": "羽肿", "link": "https://music.163.com/artist?id=12094419" }
+    ],
+    "album": {
+      "name": "Windy Hill",
+      "link": "https://music.163.com/album?id=34856396"
+    }
+  },
+  {
+    "name": "Let Me Love You",
+    "link": "https://music.163.com/song?id=439572717",
+    "duration": "03:28",
+    "artists": [
+      { "name": "SJUR", "link": "https://music.163.com/artist?id=1137419" }
+    ],
+    "album": {
+      "name": "Let Me Love You",
+      "link": "https://music.163.com/album?id=34970313"
+    }
+  },
+  {
+    "name": "Rainy Blue (蓝色阴雨)",
+    "link": "https://music.163.com/song?id=1341912654",
+    "duration": "04:26",
+    "artists": [
+      {
+        "name": "饭碗的彼岸",
+        "link": "https://music.163.com/artist?id=1138028"
+      },
+      {
+        "name": "夜莺与玫瑰",
+        "link": "https://music.163.com/artist?id=31231235"
+      }
+    ],
+    "album": {
+      "name": "Rainy Dumplings",
+      "link": "https://music.163.com/album?id=39623496"
+    }
+  },
+  {
+    "name": "云村的风",
+    "link": "https://music.163.com/song?id=520849195",
+    "duration": "03:52",
+    "artists": [
+      { "name": "邱有句", "link": "https://music.163.com/artist?id=12079231" }
+    ],
+    "album": {
+      "name": "云村的风",
+      "link": "https://music.163.com/album?id=36858434"
+    }
+  },
+  {
+    "name": "Mirage",
+    "link": "https://music.163.com/song?id=520460268",
+    "duration": "03:13",
+    "artists": [
+      {
+        "name": "Satin Jackets",
+        "link": "https://music.163.com/artist?id=695039"
+      }
+    ],
+    "album": {
+      "name": "Mirage",
+      "link": "https://music.163.com/album?id=36856068"
+    }
+  },
+  {
+    "name": "夏夜",
+    "link": "https://music.163.com/song?id=410042763",
+    "duration": "03:04",
+    "artists": [
+      { "name": "四季音色", "link": "https://music.163.com/artist?id=12028059" }
+    ],
+    "album": {
+      "name": "春夏之交，轻旋淡律",
+      "link": "https://music.163.com/album?id=34615676"
+    }
+  },
+  {
+    "name": "晴天的周末在去学校补课的路上遇见了喜欢的人",
+    "link": "https://music.163.com/song?id=477310237",
+    "duration": "03:32",
+    "artists": [
+      { "name": "AniFace", "link": "https://music.163.com/artist?id=12259037" }
+    ],
+    "album": {
+      "name": "晴天的周末在去学校补课的路上遇见了喜欢的人",
+      "link": "https://music.163.com/album?id=35463044"
+    }
+  },
+  {
+    "name": "Close To You",
+    "link": "https://music.163.com/song?id=494940485",
+    "duration": "05:00",
+    "artists": [
+      { "name": "Tiësto", "link": "https://music.163.com/artist?id=688047" }
+    ],
+    "album": {
+      "name": "In My Memory",
+      "link": "https://music.163.com/album?id=35870083"
+    }
+  },
+  {
+    "name": "血小板",
+    "link": "https://music.163.com/song?id=1296253458",
+    "duration": "02:51",
+    "artists": [
+      { "name": "Croem", "link": "https://music.163.com/artist?id=12610351" }
+    ],
+    "album": {
+      "name": "血小板",
+      "link": "https://music.163.com/album?id=71981959"
+    }
+  },
+  {
+    "name": "Monarch Butterfly",
+    "link": "https://music.163.com/song?id=557868531",
+    "duration": "04:26",
+    "artists": [
+      {
+        "name": "浮云心丶",
+        "link": "https://music.163.com/artist?id=12350867"
+      },
+      { "name": "Ryan有光", "link": "https://music.163.com/artist?id=12185226" }
+    ],
+    "album": {
+      "name": "Monarch Butterfly",
+      "link": "https://music.163.com/album?id=38603187"
+    }
+  },
+  {
+    "name": "Savage (Nightcore Remix)",
+    "link": "https://music.163.com/song?id=1348917629",
+    "duration": "02:33",
+    "artists": [
+      { "name": "Bahari", "link": "https://music.163.com/artist?id=1044218" }
+    ],
+    "album": {
+      "name": "Savage (Nightcore Remix)",
+      "link": "https://music.163.com/album?id=75725547"
+    }
+  },
+  {
+    "name": "Can't Complain",
+    "link": "https://music.163.com/song?id=26492802",
+    "duration": "03:13",
+    "artists": [
+      { "name": "Relient K", "link": "https://music.163.com/artist?id=41943" }
+    ],
+    "album": {
+      "name": "Collapsible Lung",
+      "link": "https://music.163.com/album?id=2509081"
+    }
+  },
+  {
+    "name": "9'O Clock",
+    "link": "https://music.163.com/song?id=405167044",
+    "duration": "03:38",
+    "artists": [
+      { "name": "徐梦圆", "link": "https://music.163.com/artist?id=1142042" }
+    ],
+    "album": {
+      "name": "Alone",
+      "link": "https://music.163.com/album?id=3459167"
+    }
+  },
+  {
+    "name": "We Can't Stop",
+    "link": "https://music.163.com/song?id=29480187",
+    "duration": "03:42",
+    "artists": [
+      {
+        "name": "Boyce Avenue",
+        "link": "https://music.163.com/artist?id=29709"
+      },
+      { "name": "Bea Miller", "link": "https://music.163.com/artist?id=908180" }
+    ],
+    "album": {
+      "name": "Cover Sessions, Vol. 3",
+      "link": "https://music.163.com/album?id=83082810"
+    }
+  }
+]

@@ -1,0 +1,467 @@
+[
+  {
+    "name": "Leave",
+    "link": "https://music.163.com/song?id=1337345800",
+    "duration": "03:13",
+    "artists": [
+      { "name": "Borgeous", "link": "https://music.163.com/artist?id=904048" },
+      {
+        "name": "Jordyn Jones",
+        "link": "https://music.163.com/artist?id=1122010"
+      }
+    ],
+    "album": {
+      "name": "Leave",
+      "link": "https://music.163.com/album?id=75043824"
+    }
+  },
+  {
+    "name": "Hands",
+    "link": "https://music.163.com/song?id=407862278",
+    "duration": "04:22",
+    "artists": [
+      {
+        "name": "Gareth Emery",
+        "link": "https://music.163.com/artist?id=34318"
+      },
+      { "name": "Alastor", "link": "https://music.163.com/artist?id=85992" },
+      {
+        "name": "London Thor",
+        "link": "https://music.163.com/artist?id=1102061"
+      }
+    ],
+    "album": {
+      "name": "100 Reasons To Live",
+      "link": "https://music.163.com/album?id=34590162"
+    }
+  },
+  {
+    "name": "Sink or Swim",
+    "link": "https://music.163.com/song?id=1333230175",
+    "duration": "03:42",
+    "artists": [
+      { "name": "Luude", "link": "https://music.163.com/artist?id=1193233" },
+      { "name": "Example", "link": "https://music.163.com/artist?id=33102" },
+      { "name": "Georgi Kay", "link": "https://music.163.com/artist?id=290036" }
+    ],
+    "album": {
+      "name": "Sink or Swim",
+      "link": "https://music.163.com/album?id=74872457"
+    }
+  },
+  {
+    "name": "Under Your Skin",
+    "link": "https://music.163.com/song?id=483024252",
+    "duration": "03:49",
+    "artists": [
+      {
+        "name": "Sid Rosco",
+        "link": "https://music.163.com/artist?id=12149046"
+      }
+    ],
+    "album": {
+      "name": "Under Your Skin",
+      "link": "https://music.163.com/album?id=35572366"
+    }
+  },
+  {
+    "name": "Once Upon a Time",
+    "link": "https://music.163.com/song?id=1381053651",
+    "duration": "03:54",
+    "artists": [
+      {
+        "name": "Aash Mehta",
+        "link": "https://music.163.com/artist?id=1094364"
+      }
+    ],
+    "album": {
+      "name": "Once Upon a Time",
+      "link": "https://music.163.com/album?id=80684363"
+    }
+  },
+  {
+    "name": "By Your Side",
+    "link": "https://music.163.com/song?id=437909145",
+    "duration": "03:21",
+    "artists": [
+      {
+        "name": "Jonas Blue",
+        "link": "https://music.163.com/artist?id=1192069"
+      },
+      { "name": "Raye", "link": "https://music.163.com/artist?id=1077053" }
+    ],
+    "album": {
+      "name": "By Your Side",
+      "link": "https://music.163.com/album?id=34950031"
+    }
+  },
+  {
+    "name": "The Universe (Original Mix)",
+    "link": "https://music.163.com/song?id=34899070",
+    "duration": "04:53",
+    "artists": [
+      {
+        "name": "Lush & Simon",
+        "link": "https://music.163.com/artist?id=358207"
+      }
+    ],
+    "album": {
+      "name": "The Universe",
+      "link": "https://music.163.com/album?id=3301170"
+    }
+  },
+  {
+    "name": "Wolves",
+    "link": "https://music.163.com/song?id=532904894",
+    "duration": "03:10",
+    "artists": [
+      {
+        "name": "Emma Heesters",
+        "link": "https://music.163.com/artist?id=12074643"
+      }
+    ],
+    "album": {
+      "name": "Cover Sessions, Vol. 7",
+      "link": "https://music.163.com/album?id=37252679"
+    }
+  },
+  {
+    "name": "Dreamer",
+    "link": "https://music.163.com/song?id=1365331138",
+    "duration": "03:42",
+    "artists": [
+      {
+        "name": "Seantonio",
+        "link": "https://music.163.com/artist?id=32190601"
+      }
+    ],
+    "album": {
+      "name": "The Travel",
+      "link": "https://music.163.com/album?id=79120526"
+    }
+  },
+  {
+    "name": "Go Flex",
+    "link": "https://music.163.com/song?id=557602900",
+    "duration": "03:13",
+    "artists": [
+      { "name": "Oysang", "link": "https://music.163.com/artist?id=12864052" }
+    ],
+    "album": {
+      "name": "Go Flex",
+      "link": "https://music.163.com/album?id=38586650"
+    }
+  },
+  {
+    "name": "Walk Thru Fire",
+    "link": "https://music.163.com/song?id=1332041346",
+    "duration": "03:14",
+    "artists": [
+      { "name": "Vicetone", "link": "https://music.163.com/artist?id=747030" },
+      {
+        "name": "Meron Ryan",
+        "link": "https://music.163.com/artist?id=1181020"
+      }
+    ],
+    "album": {
+      "name": "Monstercat - Best of 2018",
+      "link": "https://music.163.com/album?id=74818484"
+    }
+  },
+  {
+    "name": "Creatures Of The Night (Luca Testa Remix)",
+    "link": "https://music.163.com/song?id=497131701",
+    "duration": "03:15",
+    "artists": [
+      { "name": "Hardwell", "link": "https://music.163.com/artist?id=34994" },
+      {
+        "name": "Luca Testa",
+        "link": "https://music.163.com/artist?id=1181227"
+      }
+    ],
+    "album": {
+      "name": "Creatures Of The Night (The Remixes)",
+      "link": "https://music.163.com/album?id=35919169"
+    }
+  },
+  {
+    "name": "I Am Lost",
+    "link": "https://music.163.com/song?id=865449538",
+    "duration": "02:35",
+    "artists": [
+      {
+        "name": "Degos & Re-Done",
+        "link": "https://music.163.com/artist?id=329973"
+      }
+    ],
+    "album": {
+      "name": "I Am Lost",
+      "link": "https://music.163.com/album?id=71779811"
+    }
+  },
+  {
+    "name": "Waterfall",
+    "link": "https://music.163.com/song?id=33911581",
+    "duration": "07:27",
+    "artists": [
+      {
+        "name": "Luigi Lusini",
+        "link": "https://music.163.com/artist?id=38282"
+      }
+    ],
+    "album": {
+      "name": "I'll Be Home",
+      "link": "https://music.163.com/album?id=3266157"
+    }
+  },
+  {
+    "name": "There For You",
+    "link": "https://music.163.com/song?id=480426313",
+    "duration": "03:41",
+    "artists": [
+      {
+        "name": "Martin Garrix",
+        "link": "https://music.163.com/artist?id=780003"
+      },
+      { "name": "Troye Sivan", "link": "https://music.163.com/artist?id=45129" }
+    ],
+    "album": {
+      "name": "There For You",
+      "link": "https://music.163.com/album?id=35554106"
+    }
+  },
+  {
+    "name": "bad guy",
+    "link": "https://music.163.com/song?id=1355147933",
+    "duration": "03:14",
+    "artists": [
+      {
+        "name": "Billie Eilish",
+        "link": "https://music.163.com/artist?id=11972054"
+      }
+    ],
+    "album": {
+      "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+      "link": "https://music.163.com/album?id=78243642"
+    }
+  },
+  {
+    "name": "Bud Like You",
+    "link": "https://music.163.com/song?id=487454620",
+    "duration": "03:50",
+    "artists": [
+      { "name": "AJR", "link": "https://music.163.com/artist?id=88089" }
+    ],
+    "album": {
+      "name": "The Click",
+      "link": "https://music.163.com/album?id=35657403"
+    }
+  },
+  {
+    "name": "Burn (Let Your Mind Go) (Extended Mix)",
+    "link": "https://music.163.com/song?id=29807512",
+    "duration": "03:45",
+    "artists": [
+      { "name": "KSHMR", "link": "https://music.163.com/artist?id=896139" },
+      { "name": "DallasK", "link": "https://music.163.com/artist?id=282095" },
+      { "name": "Luciana", "link": "https://music.163.com/artist?id=129232" }
+    ],
+    "album": {
+      "name": "Burn (Let Your Mind Go) ",
+      "link": "https://music.163.com/album?id=3082080"
+    }
+  },
+  {
+    "name": "Shotgun",
+    "link": "https://music.163.com/song?id=545884135",
+    "duration": "03:21",
+    "artists": [
+      {
+        "name": "George Ezra",
+        "link": "https://music.163.com/artist?id=844728"
+      }
+    ],
+    "album": {
+      "name": "Staying at Tamara's",
+      "link": "https://music.163.com/album?id=37767774"
+    }
+  },
+  {
+    "name": "Teknogym 2k19",
+    "link": "https://music.163.com/song?id=1365106883",
+    "duration": "03:14",
+    "artists": [
+      { "name": "TNT", "link": "https://music.163.com/artist?id=102345" }
+    ],
+    "album": {
+      "name": "Teknogym 2k19",
+      "link": "https://music.163.com/album?id=79092983"
+    }
+  },
+  {
+    "name": "Ascent",
+    "link": "https://music.163.com/song?id=34998386",
+    "duration": "04:34",
+    "artists": [
+      { "name": "Teminite", "link": "https://music.163.com/artist?id=1049513" }
+    ],
+    "album": {
+      "name": "Uprising",
+      "link": "https://music.163.com/album?id=38223060"
+    }
+  },
+  {
+    "name": "CX",
+    "link": "https://music.163.com/song?id=455692044",
+    "duration": "03:07",
+    "artists": [
+      {
+        "name": "LevitateXC",
+        "link": "https://music.163.com/artist?id=12183535"
+      }
+    ],
+    "album": {
+      "name": "Cxetativel",
+      "link": "https://music.163.com/album?id=35148446"
+    }
+  },
+  {
+    "name": "The Cure (Spiros Hamza Remix)",
+    "link": "https://music.163.com/song?id=1418055805",
+    "duration": "03:38",
+    "artists": [
+      {
+        "name": "Spiros Hamza",
+        "link": "https://music.163.com/artist?id=34213247"
+      }
+    ],
+    "album": {
+      "name": "The Cure（Spiros Hamza Remix)",
+      "link": "https://music.163.com/album?id=85118279"
+    }
+  },
+  {
+    "name": "Better Than One",
+    "link": "https://music.163.com/song?id=31446780",
+    "duration": "03:59",
+    "artists": [
+      { "name": "The Score", "link": "https://music.163.com/artist?id=212904" }
+    ],
+    "album": {
+      "name": "The Score EP 2",
+      "link": "https://music.163.com/album?id=3119641"
+    }
+  },
+  {
+    "name": "Frozen",
+    "link": "https://music.163.com/song?id=1412523915",
+    "duration": "02:40",
+    "artists": [
+      { "name": "DEAMN", "link": "https://music.163.com/artist?id=12047335" }
+    ],
+    "album": {
+      "name": "Frozen",
+      "link": "https://music.163.com/album?id=84552036"
+    }
+  },
+  {
+    "name": "Curious Elephants",
+    "link": "https://music.163.com/song?id=412187157",
+    "duration": "03:58",
+    "artists": [
+      {
+        "name": "Gill Chang",
+        "link": "https://music.163.com/artist?id=1177230"
+      }
+    ],
+    "album": {
+      "name": "Stay Quiet",
+      "link": "https://music.163.com/album?id=34436064"
+    }
+  },
+  {
+    "name": "Come Alive (Talamanca Remix)",
+    "link": "https://music.163.com/song?id=506083821",
+    "duration": "07:37",
+    "artists": [
+      {
+        "name": "South Pole",
+        "link": "https://music.163.com/artist?id=1132390"
+      },
+      { "name": "Talamanca", "link": "https://music.163.com/artist?id=355244" }
+    ],
+    "album": {
+      "name": "Come Alive",
+      "link": "https://music.163.com/album?id=36192636"
+    }
+  },
+  {
+    "name": "This Life",
+    "link": "https://music.163.com/song?id=557309678",
+    "duration": "03:46",
+    "artists": [
+      {
+        "name": "Craig Connelly",
+        "link": "https://music.163.com/artist?id=191566"
+      },
+      {
+        "name": "Roxanne Emery",
+        "link": "https://music.163.com/artist?id=74561"
+      }
+    ],
+    "album": {
+      "name": "This Life",
+      "link": "https://music.163.com/album?id=38566389"
+    }
+  },
+  {
+    "name": "Imagine (Original Mix)",
+    "link": "https://music.163.com/song?id=525240787",
+    "duration": "04:04",
+    "artists": [
+      {
+        "name": "Bass Modulators",
+        "link": "https://music.163.com/artist?id=710075"
+      }
+    ],
+    "album": {
+      "name": "Imagine",
+      "link": "https://music.163.com/album?id=37027261"
+    }
+  },
+  {
+    "name": "Hold on to Your Heart (Daniel Kandi Radio Edit)",
+    "link": "https://music.163.com/song?id=415126685",
+    "duration": "04:28",
+    "artists": [
+      { "name": "LTN", "link": "https://music.163.com/artist?id=191742" },
+      {
+        "name": "Christina Novelli",
+        "link": "https://music.163.com/artist?id=840292"
+      },
+      {
+        "name": "Daniel Kandi",
+        "link": "https://music.163.com/artist?id=32478"
+      }
+    ],
+    "album": {
+      "name": "People I'll Never Forget (Remixes)",
+      "link": "https://music.163.com/album?id=34726016"
+    }
+  },
+  {
+    "name": "Have No Fear (Original Mix)",
+    "link": "https://music.163.com/song?id=459720239",
+    "duration": "04:16",
+    "artists": [
+      {
+        "name": "Third Party",
+        "link": "https://music.163.com/artist?id=784231"
+      }
+    ],
+    "album": {
+      "name": "Have No Fear",
+      "link": "https://music.163.com/album?id=35174315"
+    }
+  }
+]

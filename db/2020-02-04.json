@@ -1,0 +1,477 @@
+[
+  {
+    "name": "Find You",
+    "link": "https://music.163.com/song?id=464192074",
+    "duration": "03:33",
+    "artists": [
+      { "name": "HIDDN", "link": "https://music.163.com/artist?id=12322027" },
+      { "name": "Beatrich", "link": "https://music.163.com/artist?id=12322300" }
+    ],
+    "album": {
+      "name": "Find You",
+      "link": "https://music.163.com/album?id=35256030"
+    }
+  },
+  {
+    "name": "This Is Me",
+    "link": "https://music.163.com/song?id=515535829",
+    "duration": "03:54",
+    "artists": [
+      {
+        "name": "Keala Settle",
+        "link": "https://music.163.com/artist?id=13157135"
+      },
+      {
+        "name": "The Greatest Showman Ensemble",
+        "link": "https://music.163.com/artist?id=13222411"
+      }
+    ],
+    "album": {
+      "name": "The Greatest Showman (Original Motion Picture Soundtrack)",
+      "link": "https://music.163.com/album?id=36674183"
+    }
+  },
+  {
+    "name": "这一秒只想在爱里沉溺（治愈《恋愛の資格》日语念白-溯 (Reverse).feat（Cover：小西克幸）",
+    "link": "https://music.163.com/song?id=1383715787",
+    "duration": "02:41",
+    "artists": [
+      { "name": "邓壬鑫", "link": "https://music.163.com/artist?id=12306430" }
+    ],
+    "album": {
+      "name": "夜の钢琴III",
+      "link": "https://music.163.com/album?id=38639610"
+    }
+  },
+  {
+    "name": "和煦的糖果风",
+    "link": "https://music.163.com/song?id=439142564",
+    "duration": "03:03",
+    "artists": [
+      {
+        "name": "Candy_Wind",
+        "link": "https://music.163.com/artist?id=1084178"
+      }
+    ],
+    "album": {
+      "name": "和煦的糖果风",
+      "link": "https://music.163.com/album?id=34979224"
+    }
+  },
+  {
+    "name": "Interstellar",
+    "link": "https://music.163.com/song?id=26064586",
+    "duration": "04:09",
+    "artists": [
+      { "name": "Lazerhawk", "link": "https://music.163.com/artist?id=392109" }
+    ],
+    "album": {
+      "name": "Redline",
+      "link": "https://music.163.com/album?id=2369862"
+    }
+  },
+  {
+    "name": "ＤＲＥＡＭ",
+    "link": "https://music.163.com/song?id=517565377",
+    "duration": "02:19",
+    "artists": [
+      { "name": "TRA$H", "link": "https://music.163.com/artist?id=12544560" }
+    ],
+    "album": {
+      "name": "ＤＲＥＡＭ",
+      "link": "https://music.163.com/album?id=36751106"
+    }
+  },
+  {
+    "name": "Void",
+    "link": "https://music.163.com/song?id=408522679",
+    "duration": "01:24",
+    "artists": [
+      {
+        "name": "Audiomachine",
+        "link": "https://music.163.com/artist?id=87066"
+      }
+    ],
+    "album": {
+      "name": "Prototype",
+      "link": "https://music.163.com/album?id=34588727"
+    }
+  },
+  {
+    "name": "Adventures",
+    "link": "https://music.163.com/song?id=33922813",
+    "duration": "03:39",
+    "artists": [
+      {
+        "name": "Alex Skrindo",
+        "link": "https://music.163.com/artist?id=1046359"
+      }
+    ],
+    "album": {
+      "name": "Adventures",
+      "link": "https://music.163.com/album?id=3266386"
+    }
+  },
+  {
+    "name": "夏野与暗恋",
+    "link": "https://music.163.com/song?id=421934070",
+    "duration": "02:44",
+    "artists": [
+      { "name": "闫东炜", "link": "https://music.163.com/artist?id=4621" }
+    ],
+    "album": {
+      "name": "小清新与小情绪",
+      "link": "https://music.163.com/album?id=34615284"
+    }
+  },
+  {
+    "name": "正 在 退 出 人 類 遊 戲 ▁ ▂ ▃",
+    "link": "https://music.163.com/song?id=1376035521",
+    "duration": "02:25",
+    "artists": [
+      { "name": "Seto", "link": "https://music.163.com/artist?id=30950035" }
+    ],
+    "album": {
+      "name": "正 在 退 出 人 類 遊 戲 ▁ ▂ ▃",
+      "link": "https://music.163.com/album?id=80186046"
+    }
+  },
+  {
+    "name": "H8 U 2",
+    "link": "https://music.163.com/song?id=40915095",
+    "duration": "04:23",
+    "artists": [
+      { "name": "LukHash", "link": "https://music.163.com/artist?id=95822" }
+    ],
+    "album": {
+      "name": "Falling Apart",
+      "link": "https://music.163.com/album?id=3439708"
+    }
+  },
+  {
+    "name": "夏の喚く",
+    "link": "https://music.163.com/song?id=434871406",
+    "duration": "04:56",
+    "artists": [
+      { "name": "邱有句", "link": "https://music.163.com/artist?id=12079231" }
+    ],
+    "album": {
+      "name": "夏の喚く",
+      "link": "https://music.163.com/album?id=34909035"
+    }
+  },
+  {
+    "name": "Freal Luv ",
+    "link": "https://music.163.com/song?id=436487102",
+    "duration": "03:10",
+    "artists": [
+      {
+        "name": "Far East Movement",
+        "link": "https://music.163.com/artist?id=92526"
+      },
+      {
+        "name": "Marshmello",
+        "link": "https://music.163.com/artist?id=1060019"
+      },
+      { "name": "灿烈", "link": "https://music.163.com/artist?id=1011017" },
+      { "name": "Tinashe", "link": "https://music.163.com/artist?id=45221" }
+    ],
+    "album": {
+      "name": "Identity",
+      "link": "https://music.163.com/album?id=34887009"
+    }
+  },
+  {
+    "name": "Instrospection",
+    "link": "https://music.163.com/song?id=400689495",
+    "duration": "05:24",
+    "artists": [
+      {
+        "name": "Waking Dreams",
+        "link": "https://music.163.com/artist?id=1192525"
+      }
+    ],
+    "album": {
+      "name": "Introspection",
+      "link": "https://music.163.com/album?id=34436191"
+    }
+  },
+  {
+    "name": "烟袋斜街",
+    "link": "https://music.163.com/song?id=464863017",
+    "duration": "03:33",
+    "artists": [
+      {
+        "name": "接个吻，开一枪",
+        "link": "https://music.163.com/artist?id=12085016"
+      }
+    ],
+    "album": {
+      "name": "烟袋斜街",
+      "link": "https://music.163.com/album?id=35258839"
+    }
+  },
+  {
+    "name": "TIRED",
+    "link": "https://music.163.com/song?id=1348792640",
+    "duration": "02:20",
+    "artists": [
+      {
+        "name": "Jasmine Sokko",
+        "link": "https://music.163.com/artist?id=12131303"
+      }
+    ],
+    "album": {
+      "name": "TIRED",
+      "link": "https://music.163.com/album?id=75715501"
+    }
+  },
+  {
+    "name": "Oceans Deep",
+    "link": "https://music.163.com/song?id=25964510",
+    "duration": "04:01",
+    "artists": [
+      {
+        "name": "Sons Of Day",
+        "link": "https://music.163.com/artist?id=742105"
+      }
+    ],
+    "album": {
+      "name": "Fragile People",
+      "link": "https://music.163.com/album?id=2349725"
+    }
+  },
+  {
+    "name": "Sway",
+    "link": "https://music.163.com/song?id=556053856",
+    "duration": "03:30",
+    "artists": [
+      { "name": "Tove Styrke", "link": "https://music.163.com/artist?id=83188" }
+    ],
+    "album": {
+      "name": "Sway",
+      "link": "https://music.163.com/album?id=38519290"
+    }
+  },
+  {
+    "name": "Under Your Skin",
+    "link": "https://music.163.com/song?id=483024252",
+    "duration": "03:49",
+    "artists": [
+      {
+        "name": "Sid Rosco",
+        "link": "https://music.163.com/artist?id=12149046"
+      }
+    ],
+    "album": {
+      "name": "Under Your Skin",
+      "link": "https://music.163.com/album?id=35572366"
+    }
+  },
+  {
+    "name": "梦寻古镇",
+    "link": "https://music.163.com/song?id=556717614",
+    "duration": "02:51",
+    "artists": [
+      {
+        "name": "羽翼深蓝Wings",
+        "link": "https://music.163.com/artist?id=12118139"
+      }
+    ],
+    "album": {
+      "name": "梦寻古镇",
+      "link": "https://music.163.com/album?id=38520590"
+    }
+  },
+  {
+    "name": "纸船漂",
+    "link": "https://music.163.com/song?id=560052446",
+    "duration": "03:34",
+    "artists": [
+      { "name": "DELA", "link": "https://music.163.com/artist?id=1088061" },
+      { "name": "洛天依", "link": "https://music.163.com/artist?id=906118" },
+      { "name": "雨狸", "link": "https://music.163.com/artist?id=29688258" }
+    ],
+    "album": {
+      "name": "纸船漂",
+      "link": "https://music.163.com/album?id=38649399"
+    }
+  },
+  {
+    "name": "雨后的世界",
+    "link": "https://music.163.com/song?id=41648036",
+    "duration": "02:58",
+    "artists": [
+      { "name": "Koowho", "link": "https://music.163.com/artist?id=1081974" },
+      { "name": "洛天依", "link": "https://music.163.com/artist?id=906118" }
+    ],
+    "album": {
+      "name": "雨后的世界",
+      "link": "https://music.163.com/album?id=3449350"
+    }
+  },
+  {
+    "name": "This Is What You Came For",
+    "link": "https://music.163.com/song?id=411314681",
+    "duration": "03:42",
+    "artists": [
+      {
+        "name": "Calvin Harris",
+        "link": "https://music.163.com/artist?id=29968"
+      },
+      { "name": "Rihanna", "link": "https://music.163.com/artist?id=72724" }
+    ],
+    "album": {
+      "name": "This Is What You Came For",
+      "link": "https://music.163.com/album?id=34686251"
+    }
+  },
+  {
+    "name": "East of Eden",
+    "link": "https://music.163.com/song?id=29009655",
+    "duration": "03:05",
+    "artists": [
+      { "name": "Zella Day", "link": "https://music.163.com/artist?id=900106" }
+    ],
+    "album": {
+      "name": "East of Eden",
+      "link": "https://music.163.com/album?id=2976629"
+    }
+  },
+  {
+    "name": "Blood on the Dance Floor X Dangerous (The White Panda Mash-Up)",
+    "link": "https://music.163.com/song?id=504425097",
+    "duration": "03:38",
+    "artists": [
+      {
+        "name": "Michael Jackson",
+        "link": "https://music.163.com/artist?id=38853"
+      },
+      {
+        "name": "The White Panda",
+        "link": "https://music.163.com/artist?id=103172"
+      }
+    ],
+    "album": {
+      "name": "Blood on the Dance Floor X Dangerous (The White Panda Mash-Up)",
+      "link": "https://music.163.com/album?id=36128338"
+    }
+  },
+  {
+    "name": "【洛天依】影子小姐",
+    "link": "https://music.163.com/song?id=1298762936",
+    "duration": "04:12",
+    "artists": [
+      {
+        "name": "著小生zoki",
+        "link": "https://music.163.com/artist?id=12558238"
+      },
+      { "name": "洛天依", "link": "https://music.163.com/artist?id=906118" }
+    ],
+    "album": {
+      "name": "影子小姐",
+      "link": "https://music.163.com/album?id=72067467"
+    }
+  },
+  {
+    "name": "✿",
+    "link": "https://music.163.com/song?id=1385403422",
+    "duration": "02:34",
+    "artists": [
+      { "name": "周大发", "link": "https://music.163.com/artist?id=30780723" }
+    ],
+    "album": { "name": "ㅤ", "link": "https://music.163.com/album?id=81017350" }
+  },
+  {
+    "name": "Fade Away (Extended Mix)",
+    "link": "https://music.163.com/song?id=1397992069",
+    "duration": "03:44",
+    "artists": [
+      { "name": "Vanished", "link": "https://music.163.com/artist?id=12288138" }
+    ],
+    "album": {
+      "name": "Fade Away",
+      "link": "https://music.163.com/album?id=82171244"
+    }
+  },
+  {
+    "name": "Something not alone(Leko mashup)",
+    "link": "https://music.163.com/song?id=556751820",
+    "duration": "04:34",
+    "artists": [
+      { "name": "Leko", "link": "https://music.163.com/artist?id=12460482" },
+      { "name": "Coldplay", "link": "https://music.163.com/artist?id=89365" },
+      {
+        "name": "The Chainsmokers",
+        "link": "https://music.163.com/artist?id=893484"
+      },
+      {
+        "name": "Marshmello",
+        "link": "https://music.163.com/artist?id=1060019"
+      }
+    ],
+    "album": {
+      "name": "Something not alone(Leko mashup)",
+      "link": "https://music.163.com/album?id=38520627"
+    }
+  },
+  {
+    "name": "☾",
+    "link": "https://music.163.com/song?id=1360042500",
+    "duration": "02:05",
+    "artists": [
+      {
+        "name": "Lil Nickle",
+        "link": "https://music.163.com/artist?id=30295161"
+      }
+    ],
+    "album": {
+      "name": "有点不开心",
+      "link": "https://music.163.com/album?id=78537544"
+    }
+  },
+  {
+    "name": "Beautiful Now",
+    "link": "https://music.163.com/song?id=32019002",
+    "duration": "03:38",
+    "artists": [
+      { "name": "Zedd", "link": "https://music.163.com/artist?id=46376" },
+      {
+        "name": "Jon Bellion",
+        "link": "https://music.163.com/artist?id=860113"
+      }
+    ],
+    "album": {
+      "name": "True Colors",
+      "link": "https://music.163.com/album?id=3119381"
+    }
+  },
+  {
+    "name": "Rich Boy (Said the Sky Remix)",
+    "link": "https://music.163.com/song?id=468877960",
+    "duration": "02:58",
+    "artists": [
+      { "name": "Galantis", "link": "https://music.163.com/artist?id=851397" },
+      {
+        "name": "Said The Sky",
+        "link": "https://music.163.com/artist?id=1026094"
+      }
+    ],
+    "album": {
+      "name": "Rich Boy (Remixes)",
+      "link": "https://music.163.com/album?id=35326177"
+    }
+  },
+  {
+    "name": "大眠 (完整版) - (原唱：王心凌)",
+    "link": "https://music.163.com/song?id=1413142894",
+    "duration": "03:04",
+    "artists": [
+      { "name": "小乐哥", "link": "https://music.163.com/artist?id=34035556" }
+    ],
+    "album": {
+      "name": "大眠 (完整版)",
+      "link": "https://music.163.com/album?id=84622631"
+    }
+  }
+]

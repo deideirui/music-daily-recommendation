@@ -1,0 +1,462 @@
+[
+  {
+    "name": "Never Over",
+    "link": "https://music.163.com/song?id=509135896",
+    "duration": "02:36",
+    "artists": [
+      { "name": "BEAUZ", "link": "https://music.163.com/artist?id=12131436" },
+      { "name": "Michi", "link": "https://music.163.com/artist?id=12390142" }
+    ],
+    "album": {
+      "name": "Never Over",
+      "link": "https://music.163.com/album?id=36412220"
+    }
+  },
+  {
+    "name": "You Can Be My Light (feat. Monika Santucci)",
+    "link": "https://music.163.com/song?id=1468127181",
+    "duration": "04:28",
+    "artists": [
+      { "name": "Trivecta", "link": "https://music.163.com/artist?id=954338" },
+      { "name": "Nurko", "link": "https://music.163.com/artist?id=11991089" },
+      {
+        "name": "Monika Santucci",
+        "link": "https://music.163.com/artist?id=13989763"
+      }
+    ],
+    "album": {
+      "name": "You Can Be My Light (feat. Monika Santucci)",
+      "link": "https://music.163.com/album?id=93432000"
+    }
+  },
+  {
+    "name": "This Whole Time",
+    "link": "https://music.163.com/song?id=1442097691",
+    "duration": "03:25",
+    "artists": [
+      {
+        "name": "Alva Gracia",
+        "link": "https://music.163.com/artist?id=28089406"
+      }
+    ],
+    "album": {
+      "name": "This Whole Time",
+      "link": "https://music.163.com/album?id=88275054"
+    }
+  },
+  {
+    "name": "Little Do You Know",
+    "link": "https://music.163.com/song?id=475597495",
+    "duration": "02:48",
+    "artists": [
+      {
+        "name": "Campsite Dream",
+        "link": "https://music.163.com/artist?id=1146068"
+      }
+    ],
+    "album": {
+      "name": "Little Do You Know",
+      "link": "https://music.163.com/album?id=35371918"
+    }
+  },
+  {
+    "name": "Next To Me",
+    "link": "https://music.163.com/song?id=552575409",
+    "duration": "02:59",
+    "artists": [
+      {
+        "name": "Axel Johansson",
+        "link": "https://music.163.com/artist?id=12872604"
+      },
+      {
+        "name": "Tina Stachowiak",
+        "link": "https://music.163.com/artist?id=905727"
+      }
+    ],
+    "album": {
+      "name": "Next To Me",
+      "link": "https://music.163.com/album?id=38315215"
+    }
+  },
+  {
+    "name": "Feels Good",
+    "link": "https://music.163.com/song?id=1350389655",
+    "duration": "03:41",
+    "artists": [
+      {
+        "name": "Jay Made",
+        "link": "https://music.163.com/artist?id=27863747"
+      },
+      {
+        "name": "Miranda Glory",
+        "link": "https://music.163.com/artist?id=12463504"
+      },
+      { "name": "CANCUN?", "link": "https://music.163.com/artist?id=27863745" }
+    ],
+    "album": {
+      "name": "Feels Good",
+      "link": "https://music.163.com/album?id=75782872"
+    }
+  },
+  {
+    "name": "Shenanigans (Original Mix)",
+    "link": "https://music.163.com/song?id=29807856",
+    "duration": "06:00",
+    "artists": [
+      {
+        "name": "Ørjan Nilsen",
+        "link": "https://music.163.com/artist?id=41064"
+      }
+    ],
+    "album": {
+      "name": "Shenanigans",
+      "link": "https://music.163.com/album?id=3082135"
+    }
+  },
+  {
+    "name": "Ace",
+    "link": "https://music.163.com/song?id=1441105811",
+    "duration": "03:22",
+    "artists": [
+      { "name": "Debris", "link": "https://music.163.com/artist?id=640587" }
+    ],
+    "album": {
+      "name": "Ace",
+      "link": "https://music.163.com/album?id=88108541"
+    }
+  },
+  {
+    "name": "Serious",
+    "link": "https://music.163.com/song?id=1322315254",
+    "duration": "03:02",
+    "artists": [
+      {
+        "name": "Midnight Kids",
+        "link": "https://music.163.com/artist?id=13192314"
+      },
+      {
+        "name": "Matthew Koma",
+        "link": "https://music.163.com/artist?id=694020"
+      }
+    ],
+    "album": {
+      "name": "Serious",
+      "link": "https://music.163.com/album?id=74210929"
+    }
+  },
+  {
+    "name": "Keys",
+    "link": "https://music.163.com/song?id=1329122074",
+    "duration": "03:18",
+    "artists": [
+      {
+        "name": "William Black",
+        "link": "https://music.163.com/artist?id=248957"
+      },
+      {
+        "name": "Heather Sommer",
+        "link": "https://music.163.com/artist?id=13134228"
+      }
+    ],
+    "album": {
+      "name": "Universe",
+      "link": "https://music.163.com/album?id=74267395"
+    }
+  },
+  {
+    "name": "Closer Than Ever",
+    "link": "https://music.163.com/song?id=1374458179",
+    "duration": "03:46",
+    "artists": [
+      { "name": "AALTA", "link": "https://music.163.com/artist?id=32625370" },
+      { "name": "Lenachka", "link": "https://music.163.com/artist?id=1016181" }
+    ],
+    "album": {
+      "name": "Closer Than Ever",
+      "link": "https://music.163.com/album?id=80045416"
+    }
+  },
+  {
+    "name": "Caught Up",
+    "link": "https://music.163.com/song?id=556064369",
+    "duration": "03:34",
+    "artists": [
+      { "name": "Charlee", "link": "https://music.163.com/artist?id=12062184" },
+      {
+        "name": "Lazy Weekends",
+        "link": "https://music.163.com/artist?id=12046750"
+      }
+    ],
+    "album": {
+      "name": "Caught Up",
+      "link": "https://music.163.com/album?id=38519308"
+    }
+  },
+  {
+    "name": "Crime",
+    "link": "https://music.163.com/song?id=504492138",
+    "duration": "02:55",
+    "artists": [
+      { "name": "Grey", "link": "https://music.163.com/artist?id=58424" },
+      { "name": "SKOTT", "link": "https://music.163.com/artist?id=12061139" }
+    ],
+    "album": {
+      "name": "Crime",
+      "link": "https://music.163.com/album?id=36150227"
+    }
+  },
+  {
+    "name": "The One",
+    "link": "https://music.163.com/song?id=468490178",
+    "duration": "02:57",
+    "artists": [
+      {
+        "name": "The Chainsmokers",
+        "link": "https://music.163.com/artist?id=893484"
+      }
+    ],
+    "album": {
+      "name": "The One",
+      "link": "https://music.163.com/album?id=35297371"
+    }
+  },
+  {
+    "name": "Wanna Know Your Name",
+    "link": "https://music.163.com/song?id=1422623157",
+    "duration": "02:17",
+    "artists": [
+      {
+        "name": "Sofus Wiene",
+        "link": "https://music.163.com/artist?id=13050086"
+      }
+    ],
+    "album": {
+      "name": "Wanna Know Your Name",
+      "link": "https://music.163.com/album?id=85651174"
+    }
+  },
+  {
+    "name": "Tattoo on My Face",
+    "link": "https://music.163.com/song?id=463197312",
+    "duration": "03:16",
+    "artists": [
+      { "name": "NLSN", "link": "https://music.163.com/artist?id=12121013" }
+    ],
+    "album": {
+      "name": "Tattoo on My Face",
+      "link": "https://music.163.com/album?id=35217869"
+    }
+  },
+  {
+    "name": "Let You Go",
+    "link": "https://music.163.com/song?id=547825917",
+    "duration": "03:00",
+    "artists": [
+      {
+        "name": "bvd kult",
+        "link": "https://music.163.com/artist?id=12263379"
+      },
+      { "name": "OT", "link": "https://music.163.com/artist?id=127403" }
+    ],
+    "album": {
+      "name": "Let You Go",
+      "link": "https://music.163.com/album?id=38013414"
+    }
+  },
+  {
+    "name": "Me, Myself & I",
+    "link": "https://music.163.com/song?id=1377466880",
+    "duration": "03:14",
+    "artists": [
+      {
+        "name": "Lily Denning",
+        "link": "https://music.163.com/artist?id=14310113"
+      }
+    ],
+    "album": {
+      "name": "Me, Myself & I",
+      "link": "https://music.163.com/album?id=80356877"
+    }
+  },
+  {
+    "name": "Just Wanna Talk",
+    "link": "https://music.163.com/song?id=1390015449",
+    "duration": "02:55",
+    "artists": [
+      {
+        "name": "Pete Kingsman",
+        "link": "https://music.163.com/artist?id=13593179"
+      },
+      { "name": "Mercedes", "link": "https://music.163.com/artist?id=68016" }
+    ],
+    "album": {
+      "name": "Just Wanna Talk",
+      "link": "https://music.163.com/album?id=81531127"
+    }
+  },
+  {
+    "name": "Sleepless Nights",
+    "link": "https://music.163.com/song?id=1298371213",
+    "duration": "03:16",
+    "artists": [
+      { "name": "ayokay", "link": "https://music.163.com/artist?id=1116021" },
+      { "name": "Nightly", "link": "https://music.163.com/artist?id=12107608" }
+    ],
+    "album": {
+      "name": "Sleepless Nights",
+      "link": "https://music.163.com/album?id=72105065"
+    }
+  },
+  {
+    "name": "Dynamite",
+    "link": "https://music.163.com/song?id=1376076133",
+    "duration": "03:32",
+    "artists": [
+      { "name": "Westlife", "link": "https://music.163.com/artist?id=45839" }
+    ],
+    "album": {
+      "name": "Spectrum",
+      "link": "https://music.163.com/album?id=83392596"
+    }
+  },
+  {
+    "name": "Burst",
+    "link": "https://music.163.com/song?id=1419690636",
+    "duration": "03:06",
+    "artists": [
+      {
+        "name": "Rich Edwards",
+        "link": "https://music.163.com/artist?id=1038214"
+      },
+      {
+        "name": "Victoria Voss",
+        "link": "https://music.163.com/artist?id=29628377"
+      }
+    ],
+    "album": {
+      "name": "Burst",
+      "link": "https://music.163.com/album?id=85332954"
+    }
+  },
+  {
+    "name": "Where Will We Go (Acoustic)",
+    "link": "https://music.163.com/song?id=1408707980",
+    "duration": "03:09",
+    "artists": [
+      { "name": "Grant", "link": "https://music.163.com/artist?id=813362" }
+    ],
+    "album": {
+      "name": "Where Will We Go (Acoustic)",
+      "link": "https://music.163.com/album?id=83997281"
+    }
+  },
+  {
+    "name": "One Day",
+    "link": "https://music.163.com/song?id=1393684066",
+    "duration": "03:21",
+    "artists": [
+      {
+        "name": "Silky Signs",
+        "link": "https://music.163.com/artist?id=27839508"
+      }
+    ],
+    "album": {
+      "name": "One Day",
+      "link": "https://music.163.com/album?id=81987827"
+    }
+  },
+  {
+    "name": "Too Far Away",
+    "link": "https://music.163.com/song?id=496298365",
+    "duration": "03:55",
+    "artists": [
+      { "name": "Direct", "link": "https://music.163.com/artist?id=758029" }
+    ],
+    "album": {
+      "name": "Too Far Away",
+      "link": "https://music.163.com/album?id=35896072"
+    }
+  },
+  {
+    "name": "Form",
+    "link": "https://music.163.com/song?id=1459393320",
+    "duration": "04:11",
+    "artists": [
+      { "name": "Slippy", "link": "https://music.163.com/artist?id=1087034" }
+    ],
+    "album": {
+      "name": "Form",
+      "link": "https://music.163.com/album?id=91781976"
+    }
+  },
+  {
+    "name": "Come Alive",
+    "link": "https://music.163.com/song?id=508319111",
+    "duration": "03:00",
+    "artists": [
+      { "name": "Jase", "link": "https://music.163.com/artist?id=247435" },
+      { "name": "Ariel Pe", "link": "https://music.163.com/artist?id=29148340" }
+    ],
+    "album": {
+      "name": "Come Alive",
+      "link": "https://music.163.com/album?id=36303229"
+    }
+  },
+  {
+    "name": "I Wish (Matte X Kuur Remix)",
+    "link": "https://music.163.com/song?id=565966094",
+    "duration": "04:18",
+    "artists": [
+      { "name": "Matte", "link": "https://music.163.com/artist?id=12335355" },
+      { "name": "Skylr", "link": "https://music.163.com/artist?id=13122138" },
+      { "name": "Kuur", "link": "https://music.163.com/artist?id=12347091" },
+      {
+        "name": "William Black",
+        "link": "https://music.163.com/artist?id=248957"
+      }
+    ],
+    "album": {
+      "name": "I Wish (Matte & Kuur Remix)",
+      "link": "https://music.163.com/album?id=39223024"
+    }
+  },
+  {
+    "name": "Please Don’t Touch",
+    "link": "https://music.163.com/song?id=1409277284",
+    "duration": "03:38",
+    "artists": [
+      { "name": "Raye", "link": "https://music.163.com/artist?id=1077053" }
+    ],
+    "album": {
+      "name": "Please Don’t Touch",
+      "link": "https://music.163.com/album?id=84068551"
+    }
+  },
+  {
+    "name": "Fed Up",
+    "link": "https://music.163.com/song?id=1419321836",
+    "duration": "03:04",
+    "artists": [
+      { "name": "Pionnz", "link": "https://music.163.com/artist?id=31581288" }
+    ],
+    "album": {
+      "name": "Fed Up",
+      "link": "https://music.163.com/album?id=85268872"
+    }
+  },
+  {
+    "name": "Witchcraft (Original Mix)",
+    "link": "https://music.163.com/song?id=520459040",
+    "duration": "02:36",
+    "artists": [
+      {
+        "name": "Matisse & Sadko",
+        "link": "https://music.163.com/artist?id=947054"
+      }
+    ],
+    "album": {
+      "name": "Witchcraft",
+      "link": "https://music.163.com/album?id=36855021"
+    }
+  }
+]

@@ -1,0 +1,468 @@
+[
+  {
+    "name": "Take Me",
+    "link": "https://music.163.com/song?id=1329122075",
+    "duration": "03:12",
+    "artists": [
+      {
+        "name": "William Black",
+        "link": "https://music.163.com/artist?id=248957"
+      },
+      { "name": "Matte", "link": "https://music.163.com/artist?id=12335355" },
+      { "name": "Runn", "link": "https://music.163.com/artist?id=15237536" }
+    ],
+    "album": {
+      "name": "Universe",
+      "link": "https://music.163.com/album?id=74267395"
+    }
+  },
+  {
+    "name": "Heartbeat Song (Skrux Remix)",
+    "link": "https://music.163.com/song?id=30706937",
+    "duration": "04:34",
+    "artists": [
+      {
+        "name": "Kelly Clarkson",
+        "link": "https://music.163.com/artist?id=62885"
+      },
+      { "name": "Skrux", "link": "https://music.163.com/artist?id=986157" }
+    ],
+    "album": {
+      "name": "Heartbeat Song (The Remixes)",
+      "link": "https://music.163.com/album?id=3104318"
+    }
+  },
+  {
+    "name": "Without Me (ILLENIUM Remix)",
+    "link": "https://music.163.com/song?id=1329891159",
+    "duration": "04:08",
+    "artists": [
+      { "name": "Halsey", "link": "https://music.163.com/artist?id=964321" },
+      { "name": "ILLENIUM", "link": "https://music.163.com/artist?id=1050518" }
+    ],
+    "album": {
+      "name": "Without Me (ILLENIUM Remix)",
+      "link": "https://music.163.com/album?id=74685057"
+    }
+  },
+  {
+    "name": "Riptide",
+    "link": "https://music.163.com/song?id=1380987876",
+    "duration": "03:19",
+    "artists": [
+      { "name": "Trivecta", "link": "https://music.163.com/artist?id=954338" },
+      { "name": "AMIDY", "link": "https://music.163.com/artist?id=12203566" },
+      { "name": "RØRY", "link": "https://music.163.com/artist?id=28774080" }
+    ],
+    "album": {
+      "name": "Riptide",
+      "link": "https://music.163.com/album?id=80677696"
+    }
+  },
+  {
+    "name": "U Are the One",
+    "link": "https://music.163.com/song?id=501266889",
+    "duration": "02:44",
+    "artists": [
+      {
+        "name": "Mari Ferrari",
+        "link": "https://music.163.com/artist?id=975252"
+      }
+    ],
+    "album": {
+      "name": "U Are the One",
+      "link": "https://music.163.com/album?id=36033097"
+    }
+  },
+  {
+    "name": "Half Past You",
+    "link": "https://music.163.com/song?id=862256988",
+    "duration": "02:53",
+    "artists": [
+      { "name": "ayokay", "link": "https://music.163.com/artist?id=1116021" },
+      {
+        "name": "Future Jr.",
+        "link": "https://music.163.com/artist?id=12046719"
+      }
+    ],
+    "album": {
+      "name": "Half Past You",
+      "link": "https://music.163.com/album?id=71643636"
+    }
+  },
+  {
+    "name": "All I Got",
+    "link": "https://music.163.com/song?id=1301861954",
+    "duration": "05:15",
+    "artists": [
+      {
+        "name": "Said The Sky",
+        "link": "https://music.163.com/artist?id=1026094"
+      },
+      { "name": "Kwesi", "link": "https://music.163.com/artist?id=12493151" }
+    ],
+    "album": {
+      "name": "Wide-Eyed",
+      "link": "https://music.163.com/album?id=72316725"
+    }
+  },
+  {
+    "name": "Stay The Whole Night",
+    "link": "https://music.163.com/song?id=1380326058",
+    "duration": "02:41",
+    "artists": [
+      { "name": "Breeze", "link": "https://music.163.com/artist?id=32865891" },
+      {
+        "name": "Bengston",
+        "link": "https://music.163.com/artist?id=28391408"
+      },
+      {
+        "name": "Revealed Recordings",
+        "link": "https://music.163.com/artist?id=28753573"
+      }
+    ],
+    "album": {
+      "name": "Stay The Whole Night",
+      "link": "https://music.163.com/album?id=80623414"
+    }
+  },
+  {
+    "name": "More Of My Life",
+    "link": "https://music.163.com/song?id=1349867449",
+    "duration": "03:13",
+    "artists": [
+      { "name": "BLAEKER", "link": "https://music.163.com/artist?id=28769386" },
+      {
+        "name": "Jaslyn Edgar",
+        "link": "https://music.163.com/artist?id=30064179"
+      }
+    ],
+    "album": {
+      "name": "More Of My Life",
+      "link": "https://music.163.com/album?id=75759279"
+    }
+  },
+  {
+    "name": "Tomorrow",
+    "link": "https://music.163.com/song?id=520721357",
+    "duration": "04:45",
+    "artists": [
+      {
+        "name": "Lions In The Sky",
+        "link": "https://music.163.com/artist?id=12120407"
+      }
+    ],
+    "album": {
+      "name": "Tomorrow(Original Mix)",
+      "link": "https://music.163.com/album?id=36863210"
+    }
+  },
+  {
+    "name": "All You Need To Know",
+    "link": "https://music.163.com/song?id=1354625312",
+    "duration": "03:58",
+    "artists": [
+      { "name": "Gryffin", "link": "https://music.163.com/artist?id=1181504" },
+      { "name": "SLANDER", "link": "https://music.163.com/artist?id=1137239" },
+      {
+        "name": "Calle Lehmann",
+        "link": "https://music.163.com/artist?id=29313382"
+      }
+    ],
+    "album": {
+      "name": "All You Need To Know",
+      "link": "https://music.163.com/album?id=78220445"
+    }
+  },
+  {
+    "name": "More Than A Memory",
+    "link": "https://music.163.com/song?id=17112291",
+    "duration": "04:02",
+    "artists": [
+      {
+        "name": "Carly Rae Jepsen",
+        "link": "https://music.163.com/artist?id=50934"
+      }
+    ],
+    "album": {
+      "name": "Kiss",
+      "link": "https://music.163.com/album?id=1576472"
+    }
+  },
+  {
+    "name": "Miracles",
+    "link": "https://music.163.com/song?id=1364056395",
+    "duration": "02:48",
+    "artists": [
+      { "name": "Refuzion", "link": "https://music.163.com/artist?id=1081221" },
+      { "name": "fawlin", "link": "https://music.163.com/artist?id=32141626" }
+    ],
+    "album": {
+      "name": "Miracles",
+      "link": "https://music.163.com/album?id=79003589"
+    }
+  },
+  {
+    "name": "FML",
+    "link": "https://music.163.com/song?id=1365184005",
+    "duration": "04:54",
+    "artists": [
+      {
+        "name": "Wasted Penguinz",
+        "link": "https://music.163.com/artist?id=816508"
+      }
+    ],
+    "album": {
+      "name": "FML",
+      "link": "https://music.163.com/album?id=79103233"
+    }
+  },
+  {
+    "name": "Overboard",
+    "link": "https://music.163.com/song?id=1519361",
+    "duration": "04:11",
+    "artists": [
+      {
+        "name": "Justin Bieber",
+        "link": "https://music.163.com/artist?id=35531"
+      },
+      {
+        "name": "Jessica Jarrell",
+        "link": "https://music.163.com/artist?id=62661"
+      }
+    ],
+    "album": {
+      "name": "My World 2.0",
+      "link": "https://music.163.com/album?id=154560"
+    }
+  },
+  {
+    "name": "Together",
+    "link": "https://music.163.com/song?id=30780808",
+    "duration": "06:48",
+    "artists": [
+      { "name": "Kozoro", "link": "https://music.163.com/artist?id=1050567" },
+      { "name": "ZENI", "link": "https://music.163.com/artist?id=1038138" }
+    ],
+    "album": {
+      "name": "Together",
+      "link": "https://music.163.com/album?id=3103329"
+    }
+  },
+  {
+    "name": "Girls Chase Boys",
+    "link": "https://music.163.com/song?id=28402340",
+    "duration": "03:41",
+    "artists": [
+      {
+        "name": "Ingrid Michaelson",
+        "link": "https://music.163.com/artist?id=60351"
+      }
+    ],
+    "album": {
+      "name": "Lights Out",
+      "link": "https://music.163.com/album?id=2787838"
+    }
+  },
+  {
+    "name": "Jackpot (Dirty Nano Remix)",
+    "link": "https://music.163.com/song?id=549004927",
+    "duration": "05:01",
+    "artists": [
+      {
+        "name": "The Motans",
+        "link": "https://music.163.com/artist?id=12710132"
+      }
+    ],
+    "album": {
+      "name": "Jackpot (Dirty Nano Remix)",
+      "link": "https://music.163.com/album?id=38117080"
+    }
+  },
+  {
+    "name": "Aeon",
+    "link": "https://music.163.com/song?id=33359018",
+    "duration": "03:58",
+    "artists": [
+      { "name": "JJD", "link": "https://music.163.com/artist?id=472822" }
+    ],
+    "album": {
+      "name": "Aeon",
+      "link": "https://music.163.com/album?id=3201118"
+    }
+  },
+  {
+    "name": "tomorrow tonight",
+    "link": "https://music.163.com/song?id=1365854723",
+    "duration": "03:22",
+    "artists": [
+      { "name": "Loote", "link": "https://music.163.com/artist?id=12408152" }
+    ],
+    "album": {
+      "name": "tomorrow tonight",
+      "link": "https://music.163.com/album?id=79188158"
+    }
+  },
+  {
+    "name": "Sunburst",
+    "link": "https://music.163.com/song?id=28830411",
+    "duration": "03:09",
+    "artists": [
+      { "name": "Tobu", "link": "https://music.163.com/artist?id=964486" },
+      { "name": "Itro", "link": "https://music.163.com/artist?id=1049096" }
+    ],
+    "album": {
+      "name": "Sunburst",
+      "link": "https://music.163.com/album?id=2901139"
+    }
+  },
+  {
+    "name": "Heart Of The City",
+    "link": "https://music.163.com/song?id=490622013",
+    "duration": "03:17",
+    "artists": [
+      {
+        "name": "Breathe Carolina",
+        "link": "https://music.163.com/artist?id=88214"
+      }
+    ],
+    "album": {
+      "name": "Coma",
+      "link": "https://music.163.com/album?id=35759010"
+    }
+  },
+  {
+    "name": "Say (Valoriz Remix)",
+    "link": "https://music.163.com/song?id=523248351",
+    "duration": "03:13",
+    "artists": [
+      { "name": "Valoriz", "link": "https://music.163.com/artist?id=1177237" },
+      {
+        "name": "The Spacies",
+        "link": "https://music.163.com/artist?id=12175190"
+      }
+    ],
+    "album": {
+      "name": "Say (Valoriz Remix)",
+      "link": "https://music.163.com/album?id=36957125"
+    }
+  },
+  {
+    "name": "Summer Of My Childhood (Mark & Lukas Remix)",
+    "link": "https://music.163.com/song?id=495218280",
+    "duration": "06:26",
+    "artists": [
+      {
+        "name": "George Ellinas",
+        "link": "https://music.163.com/artist?id=442621"
+      },
+      {
+        "name": "Mark & Lukas",
+        "link": "https://music.163.com/artist?id=1104097"
+      }
+    ],
+    "album": {
+      "name": "Summer Of My Childhood",
+      "link": "https://music.163.com/album?id=35878106"
+    }
+  },
+  {
+    "name": "Self",
+    "link": "https://music.163.com/song?id=435004253",
+    "duration": "03:20",
+    "artists": [
+      { "name": "Joe Lyons", "link": "https://music.163.com/artist?id=498067" }
+    ],
+    "album": {
+      "name": "Self",
+      "link": "https://music.163.com/album?id=34908147"
+    }
+  },
+  {
+    "name": "Out Of The Shadow",
+    "link": "https://music.163.com/song?id=520461190",
+    "duration": "02:02",
+    "artists": [
+      {
+        "name": "Boris Nonte",
+        "link": "https://music.163.com/artist?id=13544927"
+      },
+      {
+        "name": "Keeley Bumford",
+        "link": "https://music.163.com/artist?id=28791836"
+      }
+    ],
+    "album": {
+      "name": "最新热歌慢摇69",
+      "link": "https://music.163.com/album?id=2878278"
+    }
+  },
+  {
+    "name": "Don't You Run",
+    "link": "https://music.163.com/song?id=409031781",
+    "duration": "03:15",
+    "artists": [
+      { "name": "Vicetone", "link": "https://music.163.com/artist?id=747030" }
+    ],
+    "album": {
+      "name": "Aurora",
+      "link": "https://music.163.com/album?id=34604129"
+    }
+  },
+  {
+    "name": "Touched By The Sun (Original Mix)",
+    "link": "https://music.163.com/song?id=552651164",
+    "duration": "08:35",
+    "artists": [
+      { "name": "Envio", "link": "https://music.163.com/artist?id=129706" }
+    ],
+    "album": {
+      "name": "Armada Ibiza Trance, Vol. 1",
+      "link": "https://music.163.com/album?id=38342999"
+    }
+  },
+  {
+    "name": "Alibi (Far Out Remix)",
+    "link": "https://music.163.com/song?id=863515475",
+    "duration": "03:39",
+    "artists": [
+      { "name": "Far Out", "link": "https://music.163.com/artist?id=824107" },
+      { "name": "Krewella", "link": "https://music.163.com/artist?id=208915" }
+    ],
+    "album": {
+      "name": "Alibi (Far Out Remix)",
+      "link": "https://music.163.com/album?id=71722753"
+    }
+  },
+  {
+    "name": "Forthcoming (Original Mix)",
+    "link": "https://music.163.com/song?id=41654076",
+    "duration": "07:12",
+    "artists": [
+      {
+        "name": "Keith Harris",
+        "link": "https://music.163.com/artist?id=12155168"
+      }
+    ],
+    "album": {
+      "name": "Perplexity Free Winter Sampler #001",
+      "link": "https://music.163.com/album?id=3451402"
+    }
+  },
+  {
+    "name": "Max Oazo;Moonessa-Once Upon a Time (Bonzana Remix)",
+    "link": "https://music.163.com/song?id=1337605608",
+    "duration": "04:19",
+    "artists": [
+      {
+        "name": "Alexei Shkurko",
+        "link": "https://music.163.com/artist?id=30003710"
+      },
+      { "name": "Max Oazo", "link": "https://music.163.com/artist?id=13159084" }
+    ],
+    "album": {
+      "name": "Once Upon a Time (Bonzana Remix)",
+      "link": "https://music.163.com/album?id=75038963"
+    }
+  }
+]

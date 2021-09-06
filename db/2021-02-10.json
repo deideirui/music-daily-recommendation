@@ -1,0 +1,459 @@
+[
+  {
+    "name": "Queen",
+    "link": "https://music.163.com/song?id=1334774201",
+    "duration": "02:40",
+    "artists": [
+      {
+        "name": "Loren Gray",
+        "link": "https://music.163.com/artist?id=28802007"
+      }
+    ],
+    "album": {
+      "name": "Queen",
+      "link": "https://music.163.com/album?id=74952788"
+    }
+  },
+  {
+    "name": "Over You",
+    "link": "https://music.163.com/song?id=1806725826",
+    "duration": "03:43",
+    "artists": [
+      { "name": "Arize", "link": "https://music.163.com/artist?id=643061" },
+      {
+        "name": "GhostDragon",
+        "link": "https://music.163.com/artist?id=12202354"
+      },
+      {
+        "name": "Kimmie Devereux",
+        "link": "https://music.163.com/artist?id=28142870"
+      }
+    ],
+    "album": {
+      "name": "Over You",
+      "link": "https://music.163.com/album?id=120828432"
+    }
+  },
+  {
+    "name": "Into You (Acoustic Version)",
+    "link": "https://music.163.com/song?id=1390728547",
+    "duration": "02:56",
+    "artists": [
+      {
+        "name": "Matisse & Sadko",
+        "link": "https://music.163.com/artist?id=947054"
+      },
+      {
+        "name": "Hanne Mjøen",
+        "link": "https://music.163.com/artist?id=12122217"
+      }
+    ],
+    "album": {
+      "name": "Into You (The Remixes)",
+      "link": "https://music.163.com/album?id=81621756"
+    }
+  },
+  {
+    "name": "Slow Down",
+    "link": "https://music.163.com/song?id=1399417660",
+    "duration": "03:02",
+    "artists": [
+      {
+        "name": "Sineself",
+        "link": "https://music.163.com/artist?id=32945422"
+      },
+      {
+        "name": "Angel Pieters",
+        "link": "https://music.163.com/artist?id=12749893"
+      }
+    ],
+    "album": {
+      "name": "Slow Down",
+      "link": "https://music.163.com/album?id=82773522"
+    }
+  },
+  {
+    "name": "Catch",
+    "link": "https://music.163.com/song?id=1459617863",
+    "duration": "02:44",
+    "artists": [
+      { "name": "Syn Cole", "link": "https://music.163.com/artist?id=854432" },
+      {
+        "name": "Victor Crone",
+        "link": "https://music.163.com/artist?id=1081705"
+      }
+    ],
+    "album": {
+      "name": "Catch",
+      "link": "https://music.163.com/album?id=91823772"
+    }
+  },
+  {
+    "name": "Back In The Days (feat. Lasso The Sun)",
+    "link": "https://music.163.com/song?id=1477754085",
+    "duration": "03:02",
+    "artists": [
+      {
+        "name": "WildVibes",
+        "link": "https://music.163.com/artist?id=1181751"
+      },
+      {
+        "name": "Martin Miller",
+        "link": "https://music.163.com/artist?id=12534226"
+      },
+      {
+        "name": "Lasso The Sun",
+        "link": "https://music.163.com/artist?id=34362560"
+      }
+    ],
+    "album": {
+      "name": "Back In The Days (feat. Lasso The Sun)",
+      "link": "https://music.163.com/album?id=95142926"
+    }
+  },
+  {
+    "name": "Love Triangle",
+    "link": "https://music.163.com/song?id=513356745",
+    "duration": "03:55",
+    "artists": [
+      { "name": "Gjan", "link": "https://music.163.com/artist?id=851014" },
+      { "name": "Saint", "link": "https://music.163.com/artist?id=100440" }
+    ],
+    "album": {
+      "name": "Do It",
+      "link": "https://music.163.com/album?id=36579122"
+    }
+  },
+  {
+    "name": "Million Eyes",
+    "link": "https://music.163.com/song?id=437116736",
+    "duration": "04:14",
+    "artists": [
+      {
+        "name": "Loïc Nottet",
+        "link": "https://music.163.com/artist?id=1057277"
+      }
+    ],
+    "album": {
+      "name": "Million Eyes",
+      "link": "https://music.163.com/album?id=34928433"
+    }
+  },
+  {
+    "name": "Keep You Mine (Acoustic)",
+    "link": "https://music.163.com/song?id=1392089491",
+    "duration": "03:03",
+    "artists": [
+      { "name": "NOTD", "link": "https://music.163.com/artist?id=12262306" },
+      {
+        "name": "SHY Martin",
+        "link": "https://music.163.com/artist?id=12354062"
+      }
+    ],
+    "album": {
+      "name": "Keep You Mine (Acoustic)",
+      "link": "https://music.163.com/album?id=81786604"
+    }
+  },
+  {
+    "name": "Senbonzakura [SS-Extended+Bass] - (千本樱)",
+    "link": "https://music.163.com/song?id=32139848",
+    "duration": "04:23",
+    "artists": [
+      {
+        "name": "Lindsey Stirling",
+        "link": "https://music.163.com/artist?id=66225"
+      }
+    ],
+    "album": {
+      "name": "Shatter Me (Deluxe Version)",
+      "link": "https://music.163.com/album?id=3153020"
+    }
+  },
+  {
+    "name": "Burnt Sugar",
+    "link": "https://music.163.com/song?id=448317080",
+    "duration": "03:22",
+    "artists": [
+      { "name": "Felicity", "link": "https://music.163.com/artist?id=12234027" }
+    ],
+    "album": {
+      "name": "Burnt Sugar",
+      "link": "https://music.163.com/album?id=35074044"
+    }
+  },
+  {
+    "name": "Sky (Radio Edit)",
+    "link": "https://music.163.com/song?id=29553031",
+    "duration": "03:56",
+    "artists": [
+      { "name": "Steerner", "link": "https://music.163.com/artist?id=783190" },
+      { "name": "Martell", "link": "https://music.163.com/artist?id=12023568" }
+    ],
+    "album": { "name": "Sky", "link": "https://music.163.com/album?id=3044006" }
+  },
+  {
+    "name": "Freak (feat. REI AMI)",
+    "link": "https://music.163.com/song?id=1429857341",
+    "duration": "03:14",
+    "artists": [
+      {
+        "name": "Sub Urban",
+        "link": "https://music.163.com/artist?id=29722383"
+      },
+      { "name": "REI AMI", "link": "https://music.163.com/artist?id=32799796" }
+    ],
+    "album": {
+      "name": "Thrill Seeker",
+      "link": "https://music.163.com/album?id=86393157"
+    }
+  },
+  {
+    "name": "New Dawn (Album Intro Song)",
+    "link": "https://music.163.com/song?id=417250621",
+    "duration": "02:33",
+    "artists": [
+      { "name": "CMA", "link": "https://music.163.com/artist?id=300739" }
+    ],
+    "album": {
+      "name": "New Dawn (Album Intro Song)",
+      "link": "https://music.163.com/album?id=34738257"
+    }
+  },
+  {
+    "name": "We’re The Same‬‬",
+    "link": "https://music.163.com/song?id=1364333108",
+    "duration": "02:54",
+    "artists": [
+      { "name": "Vigiland", "link": "https://music.163.com/artist?id=1046407" },
+      {
+        "name": "Alexander Tidebrink",
+        "link": "https://music.163.com/artist?id=12532181"
+      }
+    ],
+    "album": {
+      "name": "We’re The Same‬‬",
+      "link": "https://music.163.com/album?id=79035231"
+    }
+  },
+  {
+    "name": "Lovefool",
+    "link": "https://music.163.com/song?id=1485570873",
+    "duration": "03:10",
+    "artists": [
+      {
+        "name": "twocolors",
+        "link": "https://music.163.com/artist?id=14177760"
+      }
+    ],
+    "album": {
+      "name": "Besten Hits 2020",
+      "link": "https://music.163.com/album?id=96536667"
+    }
+  },
+  {
+    "name": "Keys",
+    "link": "https://music.163.com/song?id=1329122074",
+    "duration": "03:18",
+    "artists": [
+      {
+        "name": "William Black",
+        "link": "https://music.163.com/artist?id=248957"
+      },
+      {
+        "name": "Heather Sommer",
+        "link": "https://music.163.com/artist?id=13134228"
+      }
+    ],
+    "album": {
+      "name": "Universe",
+      "link": "https://music.163.com/album?id=74267395"
+    }
+  },
+  {
+    "name": "When We Were Still Young",
+    "link": "https://music.163.com/song?id=1378614886",
+    "duration": "03:00",
+    "artists": [
+      { "name": "Klaas", "link": "https://music.163.com/artist?id=106210" }
+    ],
+    "album": {
+      "name": "When We Were Still Young",
+      "link": "https://music.163.com/album?id=80454205"
+    }
+  },
+  {
+    "name": "Just the Way You Are",
+    "link": "https://music.163.com/song?id=1128294",
+    "duration": "03:59",
+    "artists": [
+      {
+        "name": "Boyce Avenue",
+        "link": "https://music.163.com/artist?id=29709"
+      }
+    ],
+    "album": {
+      "name": "Cover Sessions, Vol. 2",
+      "link": "https://music.163.com/album?id=83083380"
+    }
+  },
+  {
+    "name": "Undercover Lover (MG-Traxx Instrumental Edit)",
+    "link": "https://music.163.com/song?id=28081129",
+    "duration": "03:22",
+    "artists": [
+      { "name": "Money-G", "link": "https://music.163.com/artist?id=211703" }
+    ],
+    "album": {
+      "name": "Undercover Lover",
+      "link": "https://music.163.com/album?id=2725076"
+    }
+  },
+  {
+    "name": "Spaceship (Bonus Track)",
+    "link": "https://music.163.com/song?id=1331819712",
+    "duration": "02:54",
+    "artists": [
+      {
+        "name": "SHY Martin",
+        "link": "https://music.163.com/artist?id=12354062"
+      }
+    ],
+    "album": {
+      "name": "Overthinking",
+      "link": "https://music.163.com/album?id=74793785"
+    }
+  },
+  {
+    "name": "Life After Death",
+    "link": "https://music.163.com/song?id=477332459",
+    "duration": "03:34",
+    "artists": [
+      { "name": "AK", "link": "https://music.163.com/artist?id=1192509" }
+    ],
+    "album": {
+      "name": "Shallow Water",
+      "link": "https://music.163.com/album?id=35474114"
+    }
+  },
+  {
+    "name": "Changing Tides",
+    "link": "https://music.163.com/song?id=438803494",
+    "duration": "03:29",
+    "artists": [
+      { "name": "The Fray", "link": "https://music.163.com/artist?id=101985" }
+    ],
+    "album": {
+      "name": "Through the Years: The Best of the Fray",
+      "link": "https://music.163.com/album?id=34861858"
+    }
+  },
+  {
+    "name": "Know You",
+    "link": "https://music.163.com/song?id=1338634308",
+    "duration": "03:06",
+    "artists": [
+      {
+        "name": "Kill The Buzz",
+        "link": "https://music.163.com/artist?id=331525"
+      },
+      {
+        "name": "Doublefast",
+        "link": "https://music.163.com/artist?id=1190094"
+      },
+      { "name": "Lux", "link": "https://music.163.com/artist?id=65954" }
+    ],
+    "album": {
+      "name": "Know You",
+      "link": "https://music.163.com/album?id=75113021"
+    }
+  },
+  {
+    "name": "Good Time (Radio Edit)",
+    "link": "https://music.163.com/song?id=26591511",
+    "duration": "02:53",
+    "artists": [
+      {
+        "name": "Flava & Stevenson",
+        "link": "https://music.163.com/artist?id=789847"
+      }
+    ],
+    "album": {
+      "name": "Good Time",
+      "link": "https://music.163.com/album?id=2528631"
+    }
+  },
+  {
+    "name": "Living in Stereo (Steve Modana Radio Edit)",
+    "link": "https://music.163.com/song?id=26066912",
+    "duration": "03:28",
+    "artists": [
+      { "name": "R.I.O.", "link": "https://music.163.com/artist?id=42495" }
+    ],
+    "album": {
+      "name": "Living in Stereo",
+      "link": "https://music.163.com/album?id=2371268"
+    }
+  },
+  {
+    "name": "Refuse",
+    "link": "https://music.163.com/song?id=35956197",
+    "duration": "03:28",
+    "artists": [
+      {
+        "name": "Kevin Garrett",
+        "link": "https://music.163.com/artist?id=1058195"
+      }
+    ],
+    "album": {
+      "name": "Refuse",
+      "link": "https://music.163.com/album?id=3377229"
+    }
+  },
+  {
+    "name": "Together As One (Emotional Mix)",
+    "link": "https://music.163.com/song?id=504016423",
+    "duration": "08:34",
+    "artists": [
+      {
+        "name": "Eric Senn",
+        "link": "https://music.163.com/artist?id=12046749"
+      }
+    ],
+    "album": {
+      "name": "Together As One",
+      "link": "https://music.163.com/album?id=36138144"
+    }
+  },
+  {
+    "name": "Worst Part",
+    "link": "https://music.163.com/song?id=28094498",
+    "duration": "04:03",
+    "artists": [
+      { "name": "Stacey", "link": "https://music.163.com/artist?id=858490" }
+    ],
+    "album": {
+      "name": "STACEY",
+      "link": "https://music.163.com/album?id=2724992"
+    }
+  },
+  {
+    "name": "Out of the woods (Cosmic Dawn Remix)",
+    "link": "https://music.163.com/song?id=417833239",
+    "duration": "03:39",
+    "artists": [
+      {
+        "name": "Cosmic Dawn",
+        "link": "https://music.163.com/artist?id=318136"
+      },
+      {
+        "name": "Taylor Swift",
+        "link": "https://music.163.com/artist?id=44266"
+      }
+    ],
+    "album": {
+      "name": "Out Of The Woods (Cosmic Dawn Remix)",
+      "link": "https://music.163.com/album?id=34739552"
+    }
+  }
+]

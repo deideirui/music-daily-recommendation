@@ -1,0 +1,462 @@
+[
+  {
+    "name": "No Eyes On Me",
+    "link": "https://music.163.com/song?id=1436384887",
+    "duration": "03:21",
+    "artists": [
+      {
+        "name": "Justin Caruso",
+        "link": "https://music.163.com/artist?id=1193462"
+      }
+    ],
+    "album": {
+      "name": "No Eyes On Me",
+      "link": "https://music.163.com/album?id=87321698"
+    }
+  },
+  {
+    "name": "Lost Time",
+    "link": "https://music.163.com/song?id=550137229",
+    "duration": "03:30",
+    "artists": [
+      {
+        "name": "Wild Cards",
+        "link": "https://music.163.com/artist?id=12218142"
+      }
+    ],
+    "album": {
+      "name": "Lost Time",
+      "link": "https://music.163.com/album?id=38225053"
+    }
+  },
+  {
+    "name": "Puzzle",
+    "link": "https://music.163.com/song?id=1323301698",
+    "duration": "03:14",
+    "artists": [
+      {
+        "name": "Fairlane",
+        "link": "https://music.163.com/artist?id=12665028"
+      },
+      {
+        "name": "Claire Ridgely",
+        "link": "https://music.163.com/artist?id=14935781"
+      }
+    ],
+    "album": {
+      "name": "Puzzle",
+      "link": "https://music.163.com/album?id=74267834"
+    }
+  },
+  {
+    "name": "Dancing in the Moonlight",
+    "link": "https://music.163.com/song?id=564094072",
+    "duration": "02:44",
+    "artists": [
+      { "name": "NEIMY", "link": "https://music.163.com/artist?id=12742289" },
+      { "name": "Jubël", "link": "https://music.163.com/artist?id=12312412" }
+    ],
+    "album": {
+      "name": "Dancing in the Moonlight",
+      "link": "https://music.163.com/album?id=39095125"
+    }
+  },
+  {
+    "name": "Never Our Fault",
+    "link": "https://music.163.com/song?id=1310022346",
+    "duration": "03:01",
+    "artists": [
+      {
+        "name": "Lucas Estrada",
+        "link": "https://music.163.com/artist?id=12409125"
+      }
+    ],
+    "album": {
+      "name": "Never Our Fault",
+      "link": "https://music.163.com/album?id=73337169"
+    }
+  },
+  {
+    "name": "Rich & Famous",
+    "link": "https://music.163.com/song?id=549800712",
+    "duration": "02:43",
+    "artists": [
+      { "name": "SJUR", "link": "https://music.163.com/artist?id=1137419" },
+      {
+        "name": "Isac Elliot",
+        "link": "https://music.163.com/artist?id=772147"
+      }
+    ],
+    "album": {
+      "name": "Rich & Famous",
+      "link": "https://music.163.com/album?id=38013975"
+    }
+  },
+  {
+    "name": "Loyal",
+    "link": "https://music.163.com/song?id=1386012372",
+    "duration": "03:16",
+    "artists": [
+      {
+        "name": "YOUNG BOMBS",
+        "link": "https://music.163.com/artist?id=1137360"
+      },
+      { "name": "Gigi", "link": "https://music.163.com/artist?id=28083466" }
+    ],
+    "album": {
+      "name": "Loyal",
+      "link": "https://music.163.com/album?id=81100110"
+    }
+  },
+  {
+    "name": "Coincidence",
+    "link": "https://music.163.com/song?id=1336866627",
+    "duration": "03:06",
+    "artists": [
+      {
+        "name": "Culture Code",
+        "link": "https://music.163.com/artist?id=1049930"
+      },
+      { "name": "Karra", "link": "https://music.163.com/artist?id=1081582" }
+    ],
+    "album": {
+      "name": "Coincidence",
+      "link": "https://music.163.com/album?id=75017991"
+    }
+  },
+  {
+    "name": "This Town (Gucci Mane Edit)",
+    "link": "https://music.163.com/song?id=536243882",
+    "duration": "03:22",
+    "artists": [
+      { "name": "Kygo", "link": "https://music.163.com/artist?id=844410" },
+      {
+        "name": "Sasha Sloan",
+        "link": "https://music.163.com/artist?id=12646102"
+      },
+      { "name": "Gucci Mane", "link": "https://music.163.com/artist?id=33919" }
+    ],
+    "album": {
+      "name": "Kids in Love (Remixes)",
+      "link": "https://music.163.com/album?id=37561188"
+    }
+  },
+  {
+    "name": "Mirage",
+    "link": "https://music.163.com/song?id=520460268",
+    "duration": "03:13",
+    "artists": [
+      {
+        "name": "Satin Jackets",
+        "link": "https://music.163.com/artist?id=695039"
+      }
+    ],
+    "album": {
+      "name": "Mirage",
+      "link": "https://music.163.com/album?id=36856068"
+    }
+  },
+  {
+    "name": "Look Away",
+    "link": "https://music.163.com/song?id=1371441917",
+    "duration": "03:04",
+    "artists": [
+      {
+        "name": "Stephen Puth",
+        "link": "https://music.163.com/artist?id=29730940"
+      }
+    ],
+    "album": {
+      "name": "Look Away",
+      "link": "https://music.163.com/album?id=79760668"
+    }
+  },
+  {
+    "name": "You Don't Even Know Me",
+    "link": "https://music.163.com/song?id=1309792971",
+    "duration": "03:46",
+    "artists": [
+      { "name": "RIOT", "link": "https://music.163.com/artist?id=1116334" },
+      { "name": "SLANDER", "link": "https://music.163.com/artist?id=1137239" }
+    ],
+    "album": {
+      "name": "You Don't Even Know Me",
+      "link": "https://music.163.com/album?id=73314484"
+    }
+  },
+  {
+    "name": "Glimmer (William Black Remix)",
+    "link": "https://music.163.com/song?id=571336983",
+    "duration": "03:46",
+    "artists": [
+      {
+        "name": "William Black",
+        "link": "https://music.163.com/artist?id=248957"
+      },
+      { "name": "LIONE", "link": "https://music.163.com/artist?id=11986064" },
+      {
+        "name": "Heather Sommer",
+        "link": "https://music.163.com/artist?id=13134228"
+      }
+    ],
+    "album": {
+      "name": "Glimmer (William Black Remix)",
+      "link": "https://music.163.com/album?id=39593252"
+    }
+  },
+  {
+    "name": "IDOL",
+    "link": "https://music.163.com/song?id=1349964387",
+    "duration": "04:33",
+    "artists": [
+      {
+        "name": "HoneyComeBear",
+        "link": "https://music.163.com/artist?id=12675383"
+      }
+    ],
+    "album": {
+      "name": "IDOL",
+      "link": "https://music.163.com/album?id=75765633"
+    }
+  },
+  {
+    "name": "More Than Friends",
+    "link": "https://music.163.com/song?id=1377262610",
+    "duration": "02:39",
+    "artists": [
+      { "name": "Mokita", "link": "https://music.163.com/artist?id=12033046" }
+    ],
+    "album": {
+      "name": "4201",
+      "link": "https://music.163.com/album?id=80333414"
+    }
+  },
+  {
+    "name": "I Love It",
+    "link": "https://music.163.com/song?id=1345318197",
+    "duration": "02:40",
+    "artists": [
+      {
+        "name": "Oscar Enestad",
+        "link": "https://music.163.com/artist?id=27693458"
+      }
+    ],
+    "album": {
+      "name": "I Love It",
+      "link": "https://music.163.com/album?id=75512276"
+    }
+  },
+  {
+    "name": "I'll Go",
+    "link": "https://music.163.com/song?id=1397021939",
+    "duration": "04:21",
+    "artists": [
+      { "name": "Direct", "link": "https://music.163.com/artist?id=758029" },
+      {
+        "name": "Park Avenue",
+        "link": "https://music.163.com/artist?id=368447"
+      }
+    ],
+    "album": {
+      "name": "Cold Ground",
+      "link": "https://music.163.com/album?id=82419089"
+    }
+  },
+  {
+    "name": "Follow You",
+    "link": "https://music.163.com/song?id=1341556036",
+    "duration": "02:52",
+    "artists": [
+      {
+        "name": "Emily Coulston",
+        "link": "https://music.163.com/artist?id=29794032"
+      }
+    ],
+    "album": {
+      "name": "Follow You",
+      "link": "https://music.163.com/album?id=75292884"
+    }
+  },
+  {
+    "name": "Foreign Land",
+    "link": "https://music.163.com/song?id=1357761848",
+    "duration": "02:41",
+    "artists": [
+      {
+        "name": "DESERT STAR",
+        "link": "https://music.163.com/artist?id=31890379"
+      }
+    ],
+    "album": {
+      "name": "Foreign Land",
+      "link": "https://music.163.com/album?id=78420421"
+    }
+  },
+  {
+    "name": "LUV U NEED U",
+    "link": "https://music.163.com/song?id=487375349",
+    "duration": "02:26",
+    "artists": [
+      { "name": "Slushii", "link": "https://music.163.com/artist?id=1193232" }
+    ],
+    "album": {
+      "name": "Rocket League x Monstercat Vol. 1",
+      "link": "https://music.163.com/album?id=35644274"
+    }
+  },
+  {
+    "name": "Paris",
+    "link": "https://music.163.com/song?id=533296026",
+    "duration": "03:41",
+    "artists": [
+      {
+        "name": "The Chainsmokers",
+        "link": "https://music.163.com/artist?id=893484"
+      }
+    ],
+    "album": {
+      "name": "Sunday Morning Songs Vol.3",
+      "link": "https://music.163.com/album?id=37270633"
+    }
+  },
+  {
+    "name": "Clarity",
+    "link": "https://music.163.com/song?id=1421153023",
+    "duration": "03:20",
+    "artists": [
+      {
+        "name": "Bad Computer",
+        "link": "https://music.163.com/artist?id=12647410"
+      }
+    ],
+    "album": {
+      "name": "Clarity",
+      "link": "https://music.163.com/album?id=85495161"
+    }
+  },
+  {
+    "name": "Rebels",
+    "link": "https://music.163.com/song?id=1299871688",
+    "duration": "02:56",
+    "artists": [
+      {
+        "name": "Ivy Adara",
+        "link": "https://music.163.com/artist?id=12925126"
+      }
+    ],
+    "album": {
+      "name": "Rebels",
+      "link": "https://music.163.com/album?id=72192110"
+    }
+  },
+  {
+    "name": "Us (How Sweet It Was)",
+    "link": "https://music.163.com/song?id=1461512451",
+    "duration": "03:08",
+    "artists": [
+      {
+        "name": "Ricky Reed",
+        "link": "https://music.163.com/artist?id=12175198"
+      },
+      { "name": "Jim James", "link": "https://music.163.com/artist?id=212622" },
+      { "name": "Duendita", "link": "https://music.163.com/artist?id=12087101" }
+    ],
+    "album": {
+      "name": "Us (How Sweet It Was)",
+      "link": "https://music.163.com/album?id=92169598"
+    }
+  },
+  {
+    "name": "Surrender The Throne",
+    "link": "https://music.163.com/song?id=413961586",
+    "duration": "03:15",
+    "artists": [
+      { "name": "Krewella", "link": "https://music.163.com/artist?id=208915" }
+    ],
+    "album": {
+      "name": "Ammunition",
+      "link": "https://music.163.com/album?id=34700477"
+    }
+  },
+  {
+    "name": "Titan",
+    "link": "https://music.163.com/song?id=423314146",
+    "duration": "03:38",
+    "artists": [
+      { "name": "Starlyte", "link": "https://music.163.com/artist?id=12006394" }
+    ],
+    "album": {
+      "name": "Ninety9lives 93: Finish Him",
+      "link": "https://music.163.com/album?id=34790313"
+    }
+  },
+  {
+    "name": "Sun Goes Down (Raphan Remix)",
+    "link": "https://music.163.com/song?id=509518025",
+    "duration": "03:19",
+    "artists": [
+      { "name": "Raphan", "link": "https://music.163.com/artist?id=12665018" },
+      { "name": "Koni", "link": "https://music.163.com/artist?id=1154018" },
+      { "name": "Jeongwoo", "link": "https://music.163.com/artist?id=12561633" }
+    ],
+    "album": {
+      "name": "Sun Goes Down (Raphan Remix)",
+      "link": "https://music.163.com/album?id=36437200"
+    }
+  },
+  {
+    "name": "Orange Rocket",
+    "link": "https://music.163.com/song?id=557579053",
+    "duration": "03:26",
+    "artists": [
+      { "name": "beignet", "link": "https://music.163.com/artist?id=12416045" }
+    ],
+    "album": {
+      "name": "Salt",
+      "link": "https://music.163.com/album?id=38591022"
+    }
+  },
+  {
+    "name": "Way Down",
+    "link": "https://music.163.com/song?id=1376669199",
+    "duration": "04:23",
+    "artists": [
+      { "name": "Au5", "link": "https://music.163.com/artist?id=359309" },
+      { "name": "AMIDY", "link": "https://music.163.com/artist?id=12203566" },
+      { "name": "Karra", "link": "https://music.163.com/artist?id=1081582" }
+    ],
+    "album": {
+      "name": "Way Down",
+      "link": "https://music.163.com/album?id=80276866"
+    }
+  },
+  {
+    "name": "In The Water",
+    "link": "https://music.163.com/song?id=504646351",
+    "duration": "03:41",
+    "artists": [
+      { "name": "iMeiden", "link": "https://music.163.com/artist?id=12332173" }
+    ],
+    "album": {
+      "name": "In The Water",
+      "link": "https://music.163.com/album?id=36128525"
+    }
+  },
+  {
+    "name": "Escape With Me",
+    "link": "https://music.163.com/song?id=439915396",
+    "duration": "03:36",
+    "artists": [
+      { "name": "Halcyon", "link": "https://music.163.com/artist?id=94199" },
+      {
+        "name": "Charlotte Haining",
+        "link": "https://music.163.com/artist?id=1084251"
+      },
+      { "name": "Starlyte", "link": "https://music.163.com/artist?id=12006394" }
+    ],
+    "album": {
+      "name": "Escape With Me",
+      "link": "https://music.163.com/album?id=34976413"
+    }
+  }
+]

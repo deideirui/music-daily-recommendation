@@ -1,0 +1,429 @@
+[
+  {
+    "name": "Stay With Me",
+    "link": "https://music.163.com/song?id=1386845064",
+    "duration": "03:10",
+    "artists": [
+      { "name": "MRVLZ", "link": "https://music.163.com/artist?id=12046305" }
+    ],
+    "album": {
+      "name": "Stay With Me",
+      "link": "https://music.163.com/album?id=81173646"
+    }
+  },
+  {
+    "name": "Hold Me (Extended Mix)",
+    "link": "https://music.163.com/song?id=440207426",
+    "duration": "04:50",
+    "artists": [
+      { "name": "Omnia", "link": "https://music.163.com/artist?id=179006" }
+    ],
+    "album": {
+      "name": "Hold Me / Ultra",
+      "link": "https://music.163.com/album?id=34985142"
+    }
+  },
+  {
+    "name": "Lettera D'Amore (Original Mix)",
+    "link": "https://music.163.com/song?id=518896143",
+    "duration": "08:27",
+    "artists": [
+      {
+        "name": "DreamLife",
+        "link": "https://music.163.com/artist?id=12278102"
+      },
+      {
+        "name": "Grand Piano",
+        "link": "https://music.163.com/artist?id=483040"
+      }
+    ],
+    "album": {
+      "name": "Lettera D'Amore",
+      "link": "https://music.163.com/album?id=36812062"
+    }
+  },
+  {
+    "name": "Shining (Original Mix)",
+    "link": "https://music.163.com/song?id=509241385",
+    "duration": "07:26",
+    "artists": [
+      { "name": "SoundLift", "link": "https://music.163.com/artist?id=44015" }
+    ],
+    "album": {
+      "name": "Shining",
+      "link": "https://music.163.com/album?id=36432086"
+    }
+  },
+  {
+    "name": "Strike",
+    "link": "https://music.163.com/song?id=1418092894",
+    "duration": "03:11",
+    "artists": [
+      { "name": "Far Out", "link": "https://music.163.com/artist?id=824107" }
+    ],
+    "album": {
+      "name": "Strike",
+      "link": "https://music.163.com/album?id=85121698"
+    }
+  },
+  {
+    "name": "Fireflies (Jorn van Deynhoven Extended Remix)",
+    "link": "https://music.163.com/song?id=554258464",
+    "duration": "06:53",
+    "artists": [
+      {
+        "name": "Roman Messer",
+        "link": "https://music.163.com/artist?id=905394"
+      },
+      {
+        "name": "Christina Novelli",
+        "link": "https://music.163.com/artist?id=840292"
+      },
+      {
+        "name": "Jorn van Deynhoven",
+        "link": "https://music.163.com/artist?id=191813"
+      }
+    ],
+    "album": {
+      "name": "Fireflies (Jorn van Deynhoven Remix)",
+      "link": "https://music.163.com/album?id=38429525"
+    }
+  },
+  {
+    "name": "The Gateway (Extended Mix)",
+    "link": "https://music.163.com/song?id=488641729",
+    "duration": "06:16",
+    "artists": [
+      { "name": "Ben Gold", "link": "https://music.163.com/artist?id=152127" },
+      { "name": "Omnia", "link": "https://music.163.com/artist?id=179006" }
+    ],
+    "album": {
+      "name": "The Gateway",
+      "link": "https://music.163.com/album?id=35696737"
+    }
+  },
+  {
+    "name": "Walhalla (From the Heavens Mix)",
+    "link": "https://music.163.com/song?id=445666138",
+    "duration": "06:04",
+    "artists": [
+      {
+        "name": "Ferry Corsten",
+        "link": "https://music.163.com/artist?id=33395"
+      },
+      { "name": "Gouryella", "link": "https://music.163.com/artist?id=129615" }
+    ],
+    "album": {
+      "name": "From the Heavens",
+      "link": "https://music.163.com/album?id=35012657"
+    }
+  },
+  {
+    "name": "Sphinx (Original Mix)",
+    "link": "https://music.163.com/song?id=417833382",
+    "duration": "06:34",
+    "artists": [
+      {
+        "name": "Matt Bukovski",
+        "link": "https://music.163.com/artist?id=711657"
+      },
+      {
+        "name": "Andy Elliass",
+        "link": "https://music.163.com/artist?id=447682"
+      }
+    ],
+    "album": {
+      "name": "Sphinx",
+      "link": "https://music.163.com/album?id=34739628"
+    }
+  },
+  {
+    "name": "Glass House",
+    "link": "https://music.163.com/song?id=512613815",
+    "duration": "03:35",
+    "artists": [
+      {
+        "name": "Morgan Saint",
+        "link": "https://music.163.com/artist?id=12561616"
+      }
+    ],
+    "album": {
+      "name": "17 HERO",
+      "link": "https://music.163.com/album?id=36515114"
+    }
+  },
+  {
+    "name": "Bring Me",
+    "link": "https://music.163.com/song?id=1333547132",
+    "duration": "03:20",
+    "artists": [
+      {
+        "name": "Matt Dean",
+        "link": "https://music.163.com/artist?id=31034360"
+      },
+      {
+        "name": "Addie Nicole",
+        "link": "https://music.163.com/artist?id=13226181"
+      }
+    ],
+    "album": {
+      "name": "Bring Me",
+      "link": "https://music.163.com/album?id=74890373"
+    }
+  },
+  {
+    "name": "Strong Hearts",
+    "link": "https://music.163.com/song?id=31838827",
+    "duration": "03:03",
+    "artists": [
+      { "name": "Priest", "link": "https://music.163.com/artist?id=1050372" }
+    ],
+    "album": {
+      "name": "Priest",
+      "link": "https://music.163.com/album?id=3141147"
+    }
+  },
+  {
+    "name": "Song About You",
+    "link": "https://music.163.com/song?id=1308949368",
+    "duration": "03:10",
+    "artists": [
+      { "name": "Mike Posner", "link": "https://music.163.com/artist?id=39778" }
+    ],
+    "album": {
+      "name": "Song About You",
+      "link": "https://music.163.com/album?id=73214771"
+    }
+  },
+  {
+    "name": "Dream About You (Original Mix)",
+    "link": "https://music.163.com/song?id=27586173",
+    "duration": "08:40",
+    "artists": [
+      {
+        "name": "Simon O'Shine",
+        "link": "https://music.163.com/artist?id=207035"
+      }
+    ],
+    "album": {
+      "name": "Inside The Source",
+      "link": "https://music.163.com/album?id=2642138"
+    }
+  },
+  {
+    "name": "Far From Any Road",
+    "link": "https://music.163.com/song?id=34144778",
+    "duration": "02:48",
+    "artists": [
+      {
+        "name": "The Handsome Family",
+        "link": "https://music.163.com/artist?id=78649"
+      }
+    ],
+    "album": {
+      "name": "True Detective (Music From the HBO Series)",
+      "link": "https://music.163.com/album?id=3165126"
+    }
+  },
+  {
+    "name": "Bite The Bullet",
+    "link": "https://music.163.com/song?id=16819472",
+    "duration": "02:43",
+    "artists": [
+      { "name": "Bullet", "link": "https://music.163.com/artist?id=88810" }
+    ],
+    "album": {
+      "name": "Bite The Bullet",
+      "link": "https://music.163.com/album?id=1549430"
+    }
+  },
+  {
+    "name": "Overnight",
+    "link": "https://music.163.com/song?id=485612743",
+    "duration": "03:39",
+    "artists": [
+      { "name": "Parcels", "link": "https://music.163.com/artist?id=12095029" }
+    ],
+    "album": {
+      "name": "Overnight",
+      "link": "https://music.163.com/album?id=35630748"
+    }
+  },
+  {
+    "name": "I Live For You",
+    "link": "https://music.163.com/song?id=22569947",
+    "duration": "03:37",
+    "artists": [
+      {
+        "name": "George Harrison",
+        "link": "https://music.163.com/artist?id=33847"
+      }
+    ],
+    "album": {
+      "name": "All Things Must Pass (Remastered)",
+      "link": "https://music.163.com/album?id=2066247"
+    }
+  },
+  {
+    "name": "Perro Fiel",
+    "link": "https://music.163.com/song?id=480575052",
+    "duration": "03:15",
+    "artists": [
+      { "name": "Shakira", "link": "https://music.163.com/artist?id=74623" },
+      { "name": "Nicky Jam", "link": "https://music.163.com/artist?id=69608" }
+    ],
+    "album": {
+      "name": "El Dorado",
+      "link": "https://music.163.com/album?id=35536158"
+    }
+  },
+  {
+    "name": "Beer Can’t Fix",
+    "link": "https://music.163.com/song?id=1365873906",
+    "duration": "03:29",
+    "artists": [
+      {
+        "name": "Thomas Rhett",
+        "link": "https://music.163.com/artist?id=45512"
+      },
+      { "name": "Jon Pardi", "link": "https://music.163.com/artist?id=839005" }
+    ],
+    "album": {
+      "name": "Center Point Road",
+      "link": "https://music.163.com/album?id=79511804"
+    }
+  },
+  {
+    "name": " High Five (Original Mix)",
+    "link": "https://music.163.com/song?id=28821735",
+    "duration": "04:03",
+    "artists": [
+      {
+        "name": "Fox Stevenson",
+        "link": "https://music.163.com/artist?id=794279"
+      }
+    ],
+    "album": {
+      "name": "Throwdown ",
+      "link": "https://music.163.com/album?id=2898753"
+    }
+  },
+  {
+    "name": "River of Darkness",
+    "link": "https://music.163.com/song?id=1382563370",
+    "duration": "06:05",
+    "artists": [
+      {
+        "name": "The Midnight",
+        "link": "https://music.163.com/artist?id=12023492"
+      },
+      {
+        "name": "Timecop1983",
+        "link": "https://music.163.com/artist?id=954496"
+      }
+    ],
+    "album": {
+      "name": "Nocturnal",
+      "link": "https://music.163.com/album?id=80814887"
+    }
+  },
+  {
+    "name": "Being Human (DNTST Remix​) ​",
+    "link": "https://music.163.com/song?id=32465599",
+    "duration": "04:12",
+    "artists": [
+      { "name": "Mona Moua", "link": "https://music.163.com/artist?id=292048" },
+      { "name": "DNTST", "link": "https://music.163.com/artist?id=1058028" }
+    ],
+    "album": {
+      "name": "Being Human (DNTST Remix​)​",
+      "link": "https://music.163.com/album?id=3161359"
+    }
+  },
+  {
+    "name": "Tower Of Heaven (You Are Slaves)",
+    "link": "https://music.163.com/song?id=27713109",
+    "duration": "03:07",
+    "artists": [
+      { "name": "Feint", "link": "https://music.163.com/artist?id=93062" }
+    ],
+    "album": {
+      "name": "Tower Of Heaven (You Are Slaves)",
+      "link": "https://music.163.com/album?id=2662170"
+    }
+  },
+  {
+    "name": "Blue Sky",
+    "link": "https://music.163.com/song?id=451113120",
+    "duration": "03:39",
+    "artists": [
+      { "name": "Fredji", "link": "https://music.163.com/artist?id=12260191" }
+    ],
+    "album": {
+      "name": "Blue Sky",
+      "link": "https://music.163.com/album?id=35105234"
+    }
+  },
+  {
+    "name": "Chasing Yesterday",
+    "link": "https://music.163.com/song?id=411921884",
+    "duration": "03:55",
+    "artists": [
+      { "name": "FM-84", "link": "https://music.163.com/artist?id=12046467" }
+    ],
+    "album": {
+      "name": "Atlas",
+      "link": "https://music.163.com/album?id=34686652"
+    }
+  },
+  {
+    "name": "Last Goodbye (Etasonic & Marc Tatossian Intro Edit)",
+    "link": "https://music.163.com/song?id=41654399",
+    "duration": "07:35",
+    "artists": [
+      {
+        "name": "George Bakh",
+        "link": "https://music.163.com/artist?id=1078241"
+      },
+      { "name": "Etasonic", "link": "https://music.163.com/artist?id=777274" },
+      {
+        "name": "Marc Tatossian",
+        "link": "https://music.163.com/artist?id=29972668"
+      }
+    ],
+    "album": {
+      "name": "Uplifting Only: Fan Favorites 2014-2015",
+      "link": "https://music.163.com/album?id=3451441"
+    }
+  },
+  {
+    "name": "I Won't Let You Down",
+    "link": "https://music.163.com/song?id=522631231",
+    "duration": "03:20",
+    "artists": [
+      {
+        "name": "Erin McCarley",
+        "link": "https://music.163.com/artist?id=55547"
+      }
+    ],
+    "album": {
+      "name": "I Won't Let You Down",
+      "link": "https://music.163.com/album?id=36875447"
+    }
+  },
+  {
+    "name": "Hideaway (Mitch Murder Remix)",
+    "link": "https://music.163.com/song?id=34613003",
+    "duration": "04:59",
+    "artists": [
+      {
+        "name": "Mitch Murder",
+        "link": "https://music.163.com/artist?id=710374"
+      }
+    ],
+    "album": {
+      "name": "Selection 3",
+      "link": "https://music.163.com/album?id=3279935"
+    }
+  }
+]

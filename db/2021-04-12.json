@@ -1,0 +1,416 @@
+[
+  {
+    "name": "获月",
+    "link": "https://music.163.com/song?id=1393659684",
+    "duration": "02:32",
+    "artists": [
+      { "name": "王前", "link": "https://music.163.com/artist?id=12193645" }
+    ],
+    "album": { "name": "翠", "link": "https://music.163.com/album?id=38793711" }
+  },
+  {
+    "name": "灵鹫宫",
+    "link": "https://music.163.com/song?id=1390966741",
+    "duration": "03:17",
+    "artists": [
+      { "name": "元歌", "link": "https://music.163.com/artist?id=30436517" }
+    ],
+    "album": {
+      "name": "灵鹫宫",
+      "link": "https://music.163.com/album?id=81626816"
+    }
+  },
+  {
+    "name": "Where The Shadow Ends",
+    "link": "https://music.163.com/song?id=1394951477",
+    "duration": "04:17",
+    "artists": [
+      { "name": "BANNERS", "link": "https://music.163.com/artist?id=1150181" },
+      {
+        "name": "YOUNG BOMBS",
+        "link": "https://music.163.com/artist?id=1137360"
+      }
+    ],
+    "album": {
+      "name": "Where The Shadow Ends",
+      "link": "https://music.163.com/album?id=82138913"
+    }
+  },
+  {
+    "name": "如梦",
+    "link": "https://music.163.com/song?id=1440684398",
+    "duration": "04:07",
+    "artists": [
+      { "name": "Croem", "link": "https://music.163.com/artist?id=12610351" }
+    ],
+    "album": {
+      "name": "如梦",
+      "link": "https://music.163.com/album?id=87988090"
+    }
+  },
+  {
+    "name": "Blue Sky",
+    "link": "https://music.163.com/song?id=451113120",
+    "duration": "03:39",
+    "artists": [
+      { "name": "Fredji", "link": "https://music.163.com/artist?id=12260191" }
+    ],
+    "album": {
+      "name": "Blue Sky",
+      "link": "https://music.163.com/album?id=35105234"
+    }
+  },
+  {
+    "name": "Way of Life",
+    "link": "https://music.163.com/song?id=1435794914",
+    "duration": "03:20",
+    "artists": [
+      { "name": "FEWZ", "link": "https://music.163.com/artist?id=12008133" }
+    ],
+    "album": {
+      "name": "Way of Life",
+      "link": "https://music.163.com/album?id=87109106"
+    }
+  },
+  {
+    "name": "Imaginary Dreams",
+    "link": "https://music.163.com/song?id=1478569880",
+    "duration": "04:07",
+    "artists": [
+      {
+        "name": "Seantonio",
+        "link": "https://music.163.com/artist?id=32190601"
+      }
+    ],
+    "album": {
+      "name": "Imaginary Dreams",
+      "link": "https://music.163.com/album?id=95298215"
+    }
+  },
+  {
+    "name": "Thunder",
+    "link": "https://music.163.com/song?id=1295840113",
+    "duration": "03:52",
+    "artists": [
+      { "name": "Camelia", "link": "https://music.163.com/artist?id=13285491" }
+    ],
+    "album": {
+      "name": "Thunder",
+      "link": "https://music.163.com/album?id=71900508"
+    }
+  },
+  {
+    "name": "天宅-Hope (DE_SCC Flip)（天宅 remix）",
+    "link": "https://music.163.com/song?id=1332034780",
+    "duration": "03:25",
+    "artists": [
+      { "name": "Tangent", "link": "https://music.163.com/artist?id=30285833" }
+    ],
+    "album": {
+      "name": "希望",
+      "link": "https://music.163.com/album?id=74395569"
+    }
+  },
+  {
+    "name": "谁说梦想不能当饭吃",
+    "link": "https://music.163.com/song?id=1499951078",
+    "duration": "04:23",
+    "artists": [
+      { "name": "汪涛", "link": "https://music.163.com/artist?id=12303270" }
+    ],
+    "album": {
+      "name": "谁说梦想不能当饭吃",
+      "link": "https://music.163.com/album?id=98429480"
+    }
+  },
+  {
+    "name": "Clean",
+    "link": "https://music.163.com/song?id=33517573",
+    "duration": "04:21",
+    "artists": [
+      { "name": "Allfine", "link": "https://music.163.com/artist?id=1122109" }
+    ],
+    "album": {
+      "name": "Clean",
+      "link": "https://music.163.com/album?id=3212445"
+    }
+  },
+  {
+    "name": "Fade (Full Version)",
+    "link": "https://music.163.com/song?id=429769654",
+    "duration": "03:34",
+    "artists": [
+      { "name": "Andreas B.", "link": "https://music.163.com/artist?id=299713" }
+    ],
+    "album": {
+      "name": "Fade (Full Version)",
+      "link": "https://music.163.com/album?id=34874178"
+    }
+  },
+  {
+    "name": "漂流",
+    "link": "https://music.163.com/song?id=1397665609",
+    "duration": "04:29",
+    "artists": [
+      {
+        "name": "菅原纱由理（THE SxPLAY）",
+        "link": "https://music.163.com/artist?id=161667"
+      }
+    ],
+    "album": {
+      "name": "漂流",
+      "link": "https://music.163.com/album?id=82522902"
+    }
+  },
+  {
+    "name": "April Showers",
+    "link": "https://music.163.com/song?id=1357774765",
+    "duration": "05:44",
+    "artists": [
+      { "name": "Aimer", "link": "https://music.163.com/artist?id=16152" }
+    ],
+    "album": {
+      "name": "Penny Rain",
+      "link": "https://music.163.com/album?id=78422124"
+    }
+  },
+  {
+    "name": "天使(Mercy)",
+    "link": "https://music.163.com/song?id=1295513772",
+    "duration": "04:00",
+    "artists": [
+      {
+        "name": "Forwe兰斯",
+        "link": "https://music.163.com/artist?id=12079166"
+      }
+    ],
+    "album": {
+      "name": "天使(Mercy)",
+      "link": "https://music.163.com/album?id=71900188"
+    }
+  },
+  {
+    "name": "LOST BOY",
+    "link": "https://music.163.com/song?id=37988002",
+    "duration": "03:43",
+    "artists": [
+      { "name": "Troye Sivan", "link": "https://music.163.com/artist?id=45129" }
+    ],
+    "album": {
+      "name": "Blue Neighbourhood (Deluxe)",
+      "link": "https://music.163.com/album?id=3329047"
+    }
+  },
+  {
+    "name": "あの夢をなぞって",
+    "link": "https://music.163.com/song?id=1417236632",
+    "duration": "04:02",
+    "artists": [
+      { "name": "YOASOBI", "link": "https://music.163.com/artist?id=33927412" }
+    ],
+    "album": {
+      "name": "あの夢をなぞって",
+      "link": "https://music.163.com/album?id=85040420"
+    }
+  },
+  {
+    "name": "Autumn",
+    "link": "https://music.163.com/song?id=535266611",
+    "duration": "03:46",
+    "artists": [
+      { "name": "Demon-K", "link": "https://music.163.com/artist?id=12078075" }
+    ],
+    "album": {
+      "name": "四季",
+      "link": "https://music.163.com/album?id=37487140"
+    }
+  },
+  {
+    "name": "Thank You",
+    "link": "https://music.163.com/song?id=5145746",
+    "duration": "03:12",
+    "artists": [
+      { "name": "Dido", "link": "https://music.163.com/artist?id=53235" }
+    ],
+    "album": {
+      "name": "Strawberry Love",
+      "link": "https://music.163.com/album?id=506043"
+    }
+  },
+  {
+    "name": "昼鳶 - (白日窃贼)",
+    "link": "https://music.163.com/song?id=1466520409",
+    "duration": "02:42",
+    "artists": [
+      { "name": "ヨルシカ", "link": "https://music.163.com/artist?id=12390232" }
+    ],
+    "album": {
+      "name": "盗作",
+      "link": "https://music.163.com/album?id=93148762"
+    }
+  },
+  {
+    "name": "MINORS",
+    "link": "https://music.163.com/song?id=1458755675",
+    "duration": "04:21",
+    "artists": [
+      {
+        "name": "MY FIRST STORY",
+        "link": "https://music.163.com/artist?id=20689"
+      }
+    ],
+    "album": {
+      "name": "1,000,000 TIMES",
+      "link": "https://music.163.com/album?id=91645905"
+    }
+  },
+  {
+    "name": "夢? - (TV动画《体操武士》片尾曲)",
+    "link": "https://music.163.com/song?id=1490097902",
+    "duration": "04:14",
+    "artists": [
+      { "name": "はてな", "link": "https://music.163.com/artist?id=37178914" }
+    ],
+    "album": {
+      "name": "夢?",
+      "link": "https://music.163.com/album?id=97356058"
+    }
+  },
+  {
+    "name": "Eventide",
+    "link": "https://music.163.com/song?id=399341174",
+    "duration": "03:21",
+    "artists": [
+      { "name": "Nylon", "link": "https://music.163.com/artist?id=235376" }
+    ],
+    "album": {
+      "name": "Eventide",
+      "link": "https://music.163.com/album?id=34401047"
+    }
+  },
+  {
+    "name": "流星雨 - (《流星花园1》)",
+    "link": "https://music.163.com/song?id=4874386",
+    "duration": "04:33",
+    "artists": [
+      { "name": "F4", "link": "https://music.163.com/artist?id=147922" }
+    ],
+    "album": {
+      "name": "全民发烧偶像剧冠军主题曲Top32",
+      "link": "https://music.163.com/album?id=489872"
+    }
+  },
+  {
+    "name": "Murakami",
+    "link": "https://music.163.com/song?id=32341260",
+    "duration": "04:18",
+    "artists": [
+      {
+        "name": "MADE IN HEIGHTS",
+        "link": "https://music.163.com/artist?id=893268"
+      }
+    ],
+    "album": {
+      "name": "Without My Enemy What Would I Do",
+      "link": "https://music.163.com/album?id=3159244"
+    }
+  },
+  {
+    "name": "与我无关",
+    "link": "https://music.163.com/song?id=1836401654",
+    "duration": "04:00",
+    "artists": [
+      { "name": "丸子", "link": "https://music.163.com/artist?id=46506999" }
+    ],
+    "album": {
+      "name": "与我无关",
+      "link": "https://music.163.com/album?id=125856927"
+    }
+  },
+  {
+    "name": "First Love",
+    "link": "https://music.163.com/song?id=1771679",
+    "duration": "04:04",
+    "artists": [
+      {
+        "name": "Michael Dulin",
+        "link": "https://music.163.com/artist?id=39795"
+      }
+    ],
+    "album": {
+      "name": "The Way Home",
+      "link": "https://music.163.com/album?id=179191"
+    }
+  },
+  {
+    "name": "Say Goodbye",
+    "link": "https://music.163.com/song?id=1374402652",
+    "duration": "02:30",
+    "artists": [
+      {
+        "name": "Monty Datta",
+        "link": "https://music.163.com/artist?id=27695872"
+      },
+      { "name": "SNØW", "link": "https://music.163.com/artist?id=14786438" }
+    ],
+    "album": {
+      "name": "Say Goodbye",
+      "link": "https://music.163.com/album?id=80039252"
+    }
+  },
+  {
+    "name": "Valder Fields",
+    "link": "https://music.163.com/song?id=2001320",
+    "duration": "02:38",
+    "artists": [
+      { "name": "Tamas Wells", "link": "https://music.163.com/artist?id=44262" }
+    ],
+    "album": {
+      "name": "A Plea en Vendredi",
+      "link": "https://music.163.com/album?id=201763"
+    }
+  },
+  {
+    "name": "Hideaway",
+    "link": "https://music.163.com/song?id=1479963938",
+    "duration": "02:30",
+    "artists": [
+      {
+        "name": "Magdalena Bay",
+        "link": "https://music.163.com/artist?id=12603779"
+      }
+    ],
+    "album": {
+      "name": "Hideaway",
+      "link": "https://music.163.com/album?id=95550057"
+    }
+  },
+  {
+    "name": "M.I.A.",
+    "link": "https://music.163.com/song?id=566442442",
+    "duration": "02:55",
+    "artists": [
+      {
+        "name": "JAKE HOPE",
+        "link": "https://music.163.com/artist?id=14713122"
+      }
+    ],
+    "album": {
+      "name": "M.I.A.",
+      "link": "https://music.163.com/album?id=39263112"
+    }
+  },
+  {
+    "name": "Sight",
+    "link": "https://music.163.com/song?id=1834684230",
+    "duration": "04:50",
+    "artists": [
+      { "name": "Asace", "link": "https://music.163.com/artist?id=32440374" },
+      { "name": "Shallou", "link": "https://music.163.com/artist?id=12029377" }
+    ],
+    "album": {
+      "name": "Sight",
+      "link": "https://music.163.com/album?id=125556718"
+    }
+  }
+]

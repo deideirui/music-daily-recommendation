@@ -1,0 +1,516 @@
+[
+  {
+    "name": "Show & Tell",
+    "link": "https://music.163.com/song?id=1301861948",
+    "duration": "03:05",
+    "artists": [
+      {
+        "name": "Said The Sky",
+        "link": "https://music.163.com/artist?id=1026094"
+      },
+      {
+        "name": "Claire Ridgely",
+        "link": "https://music.163.com/artist?id=14935781"
+      }
+    ],
+    "album": {
+      "name": "Wide-Eyed",
+      "link": "https://music.163.com/album?id=72316725"
+    }
+  },
+  {
+    "name": "Erase You",
+    "link": "https://music.163.com/song?id=1478054205",
+    "duration": "03:44",
+    "artists": [
+      { "name": "Excision", "link": "https://music.163.com/artist?id=33221" },
+      { "name": "Wooli", "link": "https://music.163.com/artist?id=12203238" },
+      { "name": "HALIENE", "link": "https://music.163.com/artist?id=13202710" }
+    ],
+    "album": {
+      "name": "Erase You",
+      "link": "https://music.163.com/album?id=95203469"
+    }
+  },
+  {
+    "name": "Feels Good",
+    "link": "https://music.163.com/song?id=1350389655",
+    "duration": "03:41",
+    "artists": [
+      {
+        "name": "Jay Made",
+        "link": "https://music.163.com/artist?id=27863747"
+      },
+      {
+        "name": "Miranda Glory",
+        "link": "https://music.163.com/artist?id=12463504"
+      },
+      { "name": "CANCUN?", "link": "https://music.163.com/artist?id=27863745" }
+    ],
+    "album": {
+      "name": "Feels Good",
+      "link": "https://music.163.com/album?id=75782872"
+    }
+  },
+  {
+    "name": "Inferno",
+    "link": "https://music.163.com/song?id=475597470",
+    "duration": "04:05",
+    "artists": [
+      { "name": "Hechmann", "link": "https://music.163.com/artist?id=12011121" }
+    ],
+    "album": {
+      "name": "Inferno",
+      "link": "https://music.163.com/album?id=35371911"
+    }
+  },
+  {
+    "name": "Older",
+    "link": "https://music.163.com/song?id=1323832567",
+    "duration": "03:11",
+    "artists": [
+      {
+        "name": "Sasha Sloan",
+        "link": "https://music.163.com/artist?id=12646102"
+      }
+    ],
+    "album": {
+      "name": "Older",
+      "link": "https://music.163.com/album?id=74311921"
+    }
+  },
+  {
+    "name": "Wildfire  (Piano and Violin Version)",
+    "link": "https://music.163.com/song?id=533368974",
+    "duration": "03:55",
+    "artists": [
+      { "name": "Syml", "link": "https://music.163.com/artist?id=12048173" }
+    ],
+    "album": {
+      "name": "Wildfire (Instrumentals)",
+      "link": "https://music.163.com/album?id=37410018"
+    }
+  },
+  {
+    "name": "Butterfly",
+    "link": "https://music.163.com/song?id=1457416374",
+    "duration": "02:50",
+    "artists": [
+      { "name": "Marnik", "link": "https://music.163.com/artist?id=1005048" },
+      {
+        "name": "Hard Lights",
+        "link": "https://music.163.com/artist?id=12737783"
+      }
+    ],
+    "album": {
+      "name": "Butterfly",
+      "link": "https://music.163.com/album?id=91340442"
+    }
+  },
+  {
+    "name": "Cage <NTv> - (剧场版《机动战士高达NT》 插入曲 / 劇場版『機動戦士ガンダムNT』挿入歌)",
+    "link": "https://music.163.com/song?id=1328183119",
+    "duration": "04:39",
+    "artists": [
+      {
+        "name": "SawanoHiroyuki[nZk]",
+        "link": "https://music.163.com/artist?id=1096011"
+      },
+      { "name": "Tielle", "link": "https://music.163.com/artist?id=12629228" }
+    ],
+    "album": {
+      "name": "narrative / NOISEofRAIN",
+      "link": "https://music.163.com/album?id=74579102"
+    }
+  },
+  {
+    "name": "Hung Up",
+    "link": "https://music.163.com/song?id=556066474",
+    "duration": "03:40",
+    "artists": [
+      { "name": "Tritonal", "link": "https://music.163.com/artist?id=104133" },
+      { "name": "Sj", "link": "https://music.163.com/artist?id=288146" },
+      {
+        "name": "Emma Gatsby",
+        "link": "https://music.163.com/artist?id=12086040"
+      }
+    ],
+    "album": {
+      "name": "Calabasas",
+      "link": "https://music.163.com/album?id=38519338"
+    }
+  },
+  {
+    "name": "Love Again",
+    "link": "https://music.163.com/song?id=1395757943",
+    "duration": "03:26",
+    "artists": [
+      {
+        "name": "WildVibes",
+        "link": "https://music.163.com/artist?id=1181751"
+      },
+      {
+        "name": "Patrick Key",
+        "link": "https://music.163.com/artist?id=31242552"
+      },
+      {
+        "name": "Stine Kristiansen",
+        "link": "https://music.163.com/artist?id=30387959"
+      }
+    ],
+    "album": {
+      "name": "Love Again",
+      "link": "https://music.163.com/album?id=82232281"
+    }
+  },
+  {
+    "name": "At The Edge",
+    "link": "https://music.163.com/song?id=448596416",
+    "duration": "03:20",
+    "artists": [
+      { "name": "千坂", "link": "https://music.163.com/artist?id=12138261" }
+    ],
+    "album": {
+      "name": "At The Edge",
+      "link": "https://music.163.com/album?id=35072236"
+    }
+  },
+  {
+    "name": "Avocado Toast",
+    "link": "https://music.163.com/song?id=1296946992",
+    "duration": "03:31",
+    "artists": [
+      {
+        "name": "Emily Zeck",
+        "link": "https://music.163.com/artist?id=12356669"
+      }
+    ],
+    "album": {
+      "name": "Avocado Toast",
+      "link": "https://music.163.com/album?id=72035144"
+    }
+  },
+  {
+    "name": "Take Me With You",
+    "link": "https://music.163.com/song?id=518895995",
+    "duration": "03:58",
+    "artists": [
+      { "name": "Fleurie", "link": "https://music.163.com/artist?id=860929" },
+      { "name": "Ruslan", "link": "https://music.163.com/artist?id=816254" }
+    ],
+    "album": {
+      "name": "Take Me With You",
+      "link": "https://music.163.com/album?id=36813215"
+    }
+  },
+  {
+    "name": "Moving On Without You",
+    "link": "https://music.163.com/song?id=1353357422",
+    "duration": "03:26",
+    "artists": [
+      { "name": "Warren", "link": "https://music.163.com/artist?id=34379664" },
+      { "name": "SƠN", "link": "https://music.163.com/artist?id=31724344" },
+      {
+        "name": "Emelie Cyréus",
+        "link": "https://music.163.com/artist?id=13312243"
+      }
+    ],
+    "album": {
+      "name": "Revealed Recordings presents Miami Festival EP 2019",
+      "link": "https://music.163.com/album?id=77574554"
+    }
+  },
+  {
+    "name": "Destroy Me",
+    "link": "https://music.163.com/song?id=33035576",
+    "duration": "03:56",
+    "artists": [
+      { "name": "Project 46", "link": "https://music.163.com/artist?id=776674" }
+    ],
+    "album": {
+      "name": "Beautiful",
+      "link": "https://music.163.com/album?id=3158277"
+    }
+  },
+  {
+    "name": "Call Of Silence (From \"Attack On Titan\")",
+    "link": "https://music.163.com/song?id=1427055499",
+    "duration": "02:52",
+    "artists": [
+      {
+        "name": "Geek Music",
+        "link": "https://music.163.com/artist?id=31361025"
+      }
+    ],
+    "album": {
+      "name": "Call Of Silence (From ",
+      "link": "https://music.163.com/album?id=86114275"
+    }
+  },
+  {
+    "name": "Are You Happy",
+    "link": "https://music.163.com/song?id=1811154775",
+    "duration": "02:37",
+    "artists": [
+      {
+        "name": "SHY Martin",
+        "link": "https://music.163.com/artist?id=12354062"
+      }
+    ],
+    "album": {
+      "name": "Sad Songs",
+      "link": "https://music.163.com/album?id=121483473"
+    }
+  },
+  {
+    "name": "ハルカ - (Haruka)",
+    "link": "https://music.163.com/song?id=1500152567",
+    "duration": "04:03",
+    "artists": [
+      { "name": "YOASOBI", "link": "https://music.163.com/artist?id=33927412" }
+    ],
+    "album": {
+      "name": "ハルカ",
+      "link": "https://music.163.com/album?id=99080009"
+    }
+  },
+  {
+    "name": "Flowers",
+    "link": "https://music.163.com/song?id=1358178956",
+    "duration": "03:03",
+    "artists": [
+      {
+        "name": "The Tech Thieves",
+        "link": "https://music.163.com/artist?id=12080267"
+      }
+    ],
+    "album": {
+      "name": "Flowers",
+      "link": "https://music.163.com/album?id=78478314"
+    }
+  },
+  {
+    "name": "talking in my sleep",
+    "link": "https://music.163.com/song?id=1466577450",
+    "duration": "02:34",
+    "artists": [
+      {
+        "name": "Heather Sommer",
+        "link": "https://music.163.com/artist?id=13134228"
+      }
+    ],
+    "album": {
+      "name": "talking in my sleep",
+      "link": "https://music.163.com/album?id=93158718"
+    }
+  },
+  {
+    "name": "Twin",
+    "link": "https://music.163.com/song?id=544788691",
+    "duration": "03:41",
+    "artists": [
+      { "name": "BRÍET", "link": "https://music.163.com/artist?id=13162090" }
+    ],
+    "album": {
+      "name": "22.03.99",
+      "link": "https://music.163.com/album?id=37767560"
+    }
+  },
+  {
+    "name": "Main Girl",
+    "link": "https://music.163.com/song?id=503213922",
+    "duration": "03:25",
+    "artists": [
+      {
+        "name": "Charlotte Cardin",
+        "link": "https://music.163.com/artist?id=12073881"
+      }
+    ],
+    "album": {
+      "name": "Main Girl EP",
+      "link": "https://music.163.com/album?id=36108096"
+    }
+  },
+  {
+    "name": "Avicii-Wasted（Bootleg ）（Otto Knows remix）",
+    "link": "https://music.163.com/song?id=1476572971",
+    "duration": "02:48",
+    "artists": [
+      { "name": "Otto Knows", "link": "https://music.163.com/artist?id=694019" }
+    ],
+    "album": {
+      "name": "Wasted",
+      "link": "https://music.163.com/album?id=94942765"
+    }
+  },
+  {
+    "name": "Avicii-Free feat.Wayne Hector & Kacey Musgraves（LVICII Remix）",
+    "link": "https://music.163.com/song?id=1410521570",
+    "duration": "02:17",
+    "artists": [
+      { "name": "LVICII", "link": "https://music.163.com/artist?id=33936666" }
+    ],
+    "album": {
+      "name": "FOREVER",
+      "link": "https://music.163.com/album?id=84155943"
+    }
+  },
+  {
+    "name": "When In Rome",
+    "link": "https://music.163.com/song?id=1375905984",
+    "duration": "03:14",
+    "artists": [
+      { "name": "GATTÜSO", "link": "https://music.163.com/artist?id=31349469" },
+      {
+        "name": "Damon Sharpe",
+        "link": "https://music.163.com/artist?id=13368652"
+      }
+    ],
+    "album": {
+      "name": "When In Rome",
+      "link": "https://music.163.com/album?id=80215963"
+    }
+  },
+  {
+    "name": "back iN the day",
+    "link": "https://music.163.com/song?id=29786290",
+    "duration": "02:49",
+    "artists": [
+      { "name": "横山克", "link": "https://music.163.com/artist?id=15917" }
+    ],
+    "album": {
+      "name": "TBS系 金曜ドラマ「Nのために」オリジナル・サウンドトラック",
+      "link": "https://music.163.com/album?id=3079380"
+    }
+  },
+  {
+    "name": "Electrify",
+    "link": "https://music.163.com/song?id=31356686",
+    "duration": "03:29",
+    "artists": [
+      {
+        "name": "Say Lou Lou",
+        "link": "https://music.163.com/artist?id=757244"
+      }
+    ],
+    "album": {
+      "name": "Lucid Dreaming (Deluxe Edition)",
+      "link": "https://music.163.com/album?id=3104278"
+    }
+  },
+  {
+    "name": "Really Mine",
+    "link": "https://music.163.com/song?id=526470118",
+    "duration": "02:28",
+    "artists": [
+      { "name": "Dropgun", "link": "https://music.163.com/artist?id=972015" },
+      {
+        "name": "Natan Chaim",
+        "link": "https://music.163.com/artist?id=29034747"
+      }
+    ],
+    "album": {
+      "name": "Really Mine",
+      "link": "https://music.163.com/album?id=37085049"
+    }
+  },
+  {
+    "name": "By Your Side",
+    "link": "https://music.163.com/song?id=1365726691",
+    "duration": "02:40",
+    "artists": [
+      {
+        "name": "Luca Testa",
+        "link": "https://music.163.com/artist?id=1181227"
+      },
+      {
+        "name": "BOOSTEDKIDS",
+        "link": "https://music.163.com/artist?id=1135028"
+      },
+      { "name": "Norah B", "link": "https://music.163.com/artist?id=394808" }
+    ],
+    "album": {
+      "name": "By Your Side",
+      "link": "https://music.163.com/album?id=79170129"
+    }
+  },
+  {
+    "name": "Bruise",
+    "link": "https://music.163.com/song?id=1470378821",
+    "duration": "02:58",
+    "artists": [
+      { "name": "BANTA.", "link": "https://music.163.com/artist?id=30745813" },
+      { "name": "Ivoris", "link": "https://music.163.com/artist?id=29403986" }
+    ],
+    "album": {
+      "name": "Bruise",
+      "link": "https://music.163.com/album?id=93842918"
+    }
+  },
+  {
+    "name": "la vie en rose",
+    "link": "https://music.163.com/song?id=485612149",
+    "duration": "03:02",
+    "artists": [
+      {
+        "name": "Olivia Herdt",
+        "link": "https://music.163.com/artist?id=12289151"
+      }
+    ],
+    "album": {
+      "name": "la vie en rose",
+      "link": "https://music.163.com/album?id=35645660"
+    }
+  },
+  {
+    "name": "Waiting for Love",
+    "link": "https://music.163.com/song?id=32196550",
+    "duration": "03:48",
+    "artists": [
+      { "name": "Avicii", "link": "https://music.163.com/artist?id=45236" },
+      {
+        "name": "Martin Garrix",
+        "link": "https://music.163.com/artist?id=780003"
+      },
+      {
+        "name": "Simon Aldred",
+        "link": "https://music.163.com/artist?id=13855993"
+      }
+    ],
+    "album": {
+      "name": "Waiting for Love",
+      "link": "https://music.163.com/album?id=3155127"
+    }
+  },
+  {
+    "name": "NDA",
+    "link": "https://music.163.com/song?id=1859838725",
+    "duration": "03:15",
+    "artists": [
+      {
+        "name": "Billie Eilish",
+        "link": "https://music.163.com/artist?id=11972054"
+      }
+    ],
+    "album": {
+      "name": "Happier Than Ever",
+      "link": "https://music.163.com/album?id=126703136"
+    }
+  },
+  {
+    "name": "Hiding In The Blue",
+    "link": "https://music.163.com/song?id=1852002829",
+    "duration": "03:41",
+    "artists": [
+      {
+        "name": "TheFatRat",
+        "link": "https://music.163.com/artist?id=1019952"
+      },
+      { "name": "Riell", "link": "https://music.163.com/artist?id=30558622" }
+    ],
+    "album": {
+      "name": "Hiding In The Blue",
+      "link": "https://music.163.com/album?id=128736879"
+    }
+  }
+]

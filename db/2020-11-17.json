@@ -1,0 +1,451 @@
+[
+  {
+    "name": "Love You Three 3000",
+    "link": "https://music.163.com/song?id=1393834238",
+    "duration": "03:04",
+    "artists": [
+      {
+        "name": "MushrooM（蘑菇兄弟）",
+        "link": "https://music.163.com/artist?id=12459208"
+      },
+      {
+        "name": "Neso Records",
+        "link": "https://music.163.com/artist?id=12649666"
+      }
+    ],
+    "album": {
+      "name": "爱你三千遍（伴奏）",
+      "link": "https://music.163.com/album?id=81872559"
+    }
+  },
+  {
+    "name": "Something More",
+    "link": "https://music.163.com/song?id=34040896",
+    "duration": "03:13",
+    "artists": [
+      { "name": "Kozoro", "link": "https://music.163.com/artist?id=1050567" }
+    ],
+    "album": {
+      "name": "Something More",
+      "link": "https://music.163.com/album?id=3270742"
+    }
+  },
+  {
+    "name": "烟云",
+    "link": "https://music.163.com/song?id=1445585886",
+    "duration": "02:56",
+    "artists": [
+      {
+        "name": "Infinite Mask",
+        "link": "https://music.163.com/artist?id=33037476"
+      }
+    ],
+    "album": {
+      "name": "烟云",
+      "link": "https://music.163.com/album?id=88905288"
+    }
+  },
+  {
+    "name": "Light Hope",
+    "link": "https://music.163.com/song?id=508183250",
+    "duration": "03:57",
+    "artists": [
+      { "name": "浮云心丶", "link": "https://music.163.com/artist?id=12350867" }
+    ],
+    "album": {
+      "name": "Light Hope",
+      "link": "https://music.163.com/album?id=36321173"
+    }
+  },
+  {
+    "name": "Run Back to You (feat. Alisa)",
+    "link": "https://music.163.com/song?id=1471391509",
+    "duration": "03:13",
+    "artists": [
+      { "name": "Hoang", "link": "https://music.163.com/artist?id=27694442" }
+    ],
+    "album": {
+      "name": "Run Back to You (feat. Alisa)",
+      "link": "https://music.163.com/album?id=94018381"
+    }
+  },
+  {
+    "name": "Just Love Me",
+    "link": "https://music.163.com/song?id=1375779130",
+    "duration": "03:27",
+    "artists": [
+      { "name": "Ostwolf", "link": "https://music.163.com/artist?id=12635281" },
+      { "name": "Elle Vee", "link": "https://music.163.com/artist?id=1046258" }
+    ],
+    "album": {
+      "name": "Just Love Me",
+      "link": "https://music.163.com/album?id=80200900"
+    }
+  },
+  {
+    "name": "Without You (feat. Holly Drummond)",
+    "link": "https://music.163.com/song?id=552208003",
+    "duration": "03:45",
+    "artists": [
+      {
+        "name": "Holly Drummond",
+        "link": "https://music.163.com/artist?id=361765"
+      },
+      {
+        "name": "Finding Hope",
+        "link": "https://music.163.com/artist?id=1155051"
+      }
+    ],
+    "album": {
+      "name": "Without You (feat. Holly Drummond)",
+      "link": "https://music.163.com/album?id=38319878"
+    }
+  },
+  {
+    "name": "Too Far Away",
+    "link": "https://music.163.com/song?id=496298365",
+    "duration": "03:55",
+    "artists": [
+      { "name": "Direct", "link": "https://music.163.com/artist?id=758029" }
+    ],
+    "album": {
+      "name": "Too Far Away",
+      "link": "https://music.163.com/album?id=35896072"
+    }
+  },
+  {
+    "name": "Love How It Hurts",
+    "link": "https://music.163.com/song?id=1447594147",
+    "duration": "03:19",
+    "artists": [
+      {
+        "name": "Axel Johansson",
+        "link": "https://music.163.com/artist?id=12872604"
+      },
+      {
+        "name": "Tina Stachowiak",
+        "link": "https://music.163.com/artist?id=905727"
+      }
+    ],
+    "album": {
+      "name": "Love How It Hurts",
+      "link": "https://music.163.com/album?id=89347918"
+    }
+  },
+  {
+    "name": "What U Do",
+    "link": "https://music.163.com/song?id=1459697279",
+    "duration": "02:22",
+    "artists": [
+      {
+        "name": "Wild Culture",
+        "link": "https://music.163.com/artist?id=787041"
+      },
+      { "name": "Shel Bee", "link": "https://music.163.com/artist?id=30086331" }
+    ],
+    "album": {
+      "name": "What U Do",
+      "link": "https://music.163.com/album?id=91839414"
+    }
+  },
+  {
+    "name": "Sad Song (feat. Elena Coats)",
+    "link": "https://music.163.com/song?id=28111548",
+    "duration": "03:46",
+    "artists": [
+      {
+        "name": "We the Kings",
+        "link": "https://music.163.com/artist?id=105089"
+      }
+    ],
+    "album": {
+      "name": "Somewhere Somehow",
+      "link": "https://music.163.com/album?id=2728013"
+    }
+  },
+  {
+    "name": "Where Will We Go (Acoustic)",
+    "link": "https://music.163.com/song?id=1408707980",
+    "duration": "03:09",
+    "artists": [
+      { "name": "Grant", "link": "https://music.163.com/artist?id=813362" }
+    ],
+    "album": {
+      "name": "Where Will We Go (Acoustic)",
+      "link": "https://music.163.com/album?id=83997281"
+    }
+  },
+  {
+    "name": "Sober (Extended Mix)",
+    "link": "https://music.163.com/song?id=439121257",
+    "duration": "04:28",
+    "artists": [
+      {
+        "name": "Jochen Miller",
+        "link": "https://music.163.com/artist?id=131600"
+      },
+      { "name": "Tom Fall", "link": "https://music.163.com/artist?id=195074" },
+      {
+        "name": "Tim White",
+        "link": "https://music.163.com/artist?id=11977115"
+      }
+    ],
+    "album": {
+      "name": "Sober",
+      "link": "https://music.163.com/album?id=34975081"
+    }
+  },
+  {
+    "name": "Save the World",
+    "link": "https://music.163.com/song?id=523195263",
+    "duration": "02:56",
+    "artists": [
+      {
+        "name": "Julian Moon",
+        "link": "https://music.163.com/artist?id=1057044"
+      },
+      { "name": "Kat Krazy", "link": "https://music.163.com/artist?id=776314" }
+    ],
+    "album": {
+      "name": "Save the World",
+      "link": "https://music.163.com/album?id=36945992"
+    }
+  },
+  {
+    "name": "Close Enough",
+    "link": "https://music.163.com/song?id=1364147128",
+    "duration": "03:00",
+    "artists": [
+      { "name": "Jai Nova", "link": "https://music.163.com/artist?id=1083105" },
+      { "name": "Luma", "link": "https://music.163.com/artist?id=211460" }
+    ],
+    "album": {
+      "name": "Close Enough",
+      "link": "https://music.163.com/album?id=79014751"
+    }
+  },
+  {
+    "name": "Save Me (Wasted Penguinz Remix)",
+    "link": "https://music.163.com/song?id=443292101",
+    "duration": "02:43",
+    "artists": [
+      {
+        "name": "Wasted Penguinz",
+        "link": "https://music.163.com/artist?id=816508"
+      },
+      {
+        "name": "Darren Styles",
+        "link": "https://music.163.com/artist?id=31597"
+      }
+    ],
+    "album": {
+      "name": "Clarity",
+      "link": "https://music.163.com/album?id=35017376"
+    }
+  },
+  {
+    "name": "Alright",
+    "link": "https://music.163.com/song?id=1355388671",
+    "duration": "02:49",
+    "artists": [
+      { "name": "NLSN", "link": "https://music.163.com/artist?id=12121013" },
+      { "name": "towty", "link": "https://music.163.com/artist?id=31809420" }
+    ],
+    "album": {
+      "name": "Alright",
+      "link": "https://music.163.com/album?id=78256215"
+    }
+  },
+  {
+    "name": "Aftermath",
+    "link": "https://music.163.com/song?id=1401064270",
+    "duration": "03:15",
+    "artists": [
+      { "name": "Vicetone", "link": "https://music.163.com/artist?id=747030" }
+    ],
+    "album": {
+      "name": "Aftermath",
+      "link": "https://music.163.com/album?id=82986946"
+    }
+  },
+  {
+    "name": "I Hate You I Love You (Jeongwoo Park Remix)",
+    "link": "https://music.163.com/song?id=426026704",
+    "duration": "03:20",
+    "artists": [
+      {
+        "name": "Jeongwoo Park",
+        "link": "https://music.163.com/artist?id=12046246"
+      },
+      {
+        "name": "Olivia O'Brien",
+        "link": "https://music.163.com/artist?id=12095275"
+      }
+    ],
+    "album": {
+      "name": "I Hate You I Love You (Jeongwoo Park Remix)",
+      "link": "https://music.163.com/album?id=34825189"
+    }
+  },
+  {
+    "name": "colorblind",
+    "link": "https://music.163.com/song?id=1401899720",
+    "duration": "03:13",
+    "artists": [
+      { "name": "Mokita", "link": "https://music.163.com/artist?id=12033046" }
+    ],
+    "album": {
+      "name": "colorblind",
+      "link": "https://music.163.com/album?id=83102480"
+    }
+  },
+  {
+    "name": "Whisper",
+    "link": "https://music.163.com/song?id=1354795495",
+    "duration": "03:52",
+    "artists": [
+      { "name": "MaRLo", "link": "https://music.163.com/artist?id=150599" },
+      { "name": "HALIENE", "link": "https://music.163.com/artist?id=13202710" }
+    ],
+    "album": {
+      "name": "Whisper",
+      "link": "https://music.163.com/album?id=78228266"
+    }
+  },
+  {
+    "name": "One More Night",
+    "link": "https://music.163.com/song?id=529824961",
+    "duration": "04:16",
+    "artists": [
+      { "name": "Yomaez", "link": "https://music.163.com/artist?id=13059554" },
+      { "name": "Blooming", "link": "https://music.163.com/artist?id=449215" }
+    ],
+    "album": {
+      "name": "One More Night",
+      "link": "https://music.163.com/album?id=37253312"
+    }
+  },
+  {
+    "name": "Who Loves You",
+    "link": "https://music.163.com/song?id=533246228",
+    "duration": "04:54",
+    "artists": [
+      {
+        "name": "Emmelie de Forest",
+        "link": "https://music.163.com/artist?id=735018"
+      }
+    ],
+    "album": {
+      "name": "History",
+      "link": "https://music.163.com/album?id=37406424"
+    }
+  },
+  {
+    "name": "Gratitude",
+    "link": "https://music.163.com/song?id=433681125",
+    "duration": "04:07",
+    "artists": [
+      { "name": "Nomyn", "link": "https://music.163.com/artist?id=12029121" }
+    ],
+    "album": {
+      "name": "Gratitude",
+      "link": "https://music.163.com/album?id=34897779"
+    }
+  },
+  {
+    "name": "Serenity",
+    "link": "https://music.163.com/song?id=419250589",
+    "duration": "04:06",
+    "artists": [
+      {
+        "name": "Michael FK",
+        "link": "https://music.163.com/artist?id=1113053"
+      }
+    ],
+    "album": {
+      "name": "Serenity",
+      "link": "https://music.163.com/album?id=34753189"
+    }
+  },
+  {
+    "name": "The Hardest Thing",
+    "link": "https://music.163.com/song?id=2868909",
+    "duration": "03:20",
+    "artists": [
+      { "name": "Julia Sheer", "link": "https://music.163.com/artist?id=62719" }
+    ],
+    "album": {
+      "name": "Julia Sheer",
+      "link": "https://music.163.com/album?id=289648"
+    }
+  },
+  {
+    "name": "Oblivion (Full Version)",
+    "link": "https://music.163.com/song?id=1433528165",
+    "duration": "03:32",
+    "artists": [
+      { "name": "Andreas B.", "link": "https://music.163.com/artist?id=299713" }
+    ],
+    "album": {
+      "name": "Oblivion (Full Version)",
+      "link": "https://music.163.com/album?id=86788082"
+    }
+  },
+  {
+    "name": "Burden(Mr FijiWiji Remix)",
+    "link": "https://music.163.com/song?id=35314199",
+    "duration": "04:24",
+    "artists": [
+      {
+        "name": "Mr FijiWiji",
+        "link": "https://music.163.com/artist?id=40353"
+      },
+      { "name": "Subtact", "link": "https://music.163.com/artist?id=1050602" }
+    ],
+    "album": {
+      "name": "Burden (Mr FijiWiji Remix)",
+      "link": "https://music.163.com/album?id=3316328"
+    }
+  },
+  {
+    "name": "free with you",
+    "link": "https://music.163.com/song?id=1425763494",
+    "duration": "02:48",
+    "artists": [
+      { "name": "Rnla", "link": "https://music.163.com/artist?id=31183880" },
+      { "name": "yaeow", "link": "https://music.163.com/artist?id=33979386" }
+    ],
+    "album": {
+      "name": "free with you",
+      "link": "https://music.163.com/album?id=85963100"
+    }
+  },
+  {
+    "name": "Spaceship (Bonus Track)",
+    "link": "https://music.163.com/song?id=1331819712",
+    "duration": "02:54",
+    "artists": [
+      {
+        "name": "SHY Martin",
+        "link": "https://music.163.com/artist?id=12354062"
+      }
+    ],
+    "album": {
+      "name": "Overthinking",
+      "link": "https://music.163.com/album?id=74793785"
+    }
+  },
+  {
+    "name": "如果当时2020 - (不曾遗忘的符号)",
+    "link": "https://music.163.com/song?id=1488737309",
+    "duration": "05:06",
+    "artists": [
+      { "name": "许嵩", "link": "https://music.163.com/artist?id=5771" },
+      { "name": "朱婷婷", "link": "https://music.163.com/artist?id=37207396" }
+    ],
+    "album": {
+      "name": "如果当时2020",
+      "link": "https://music.163.com/album?id=97118598"
+    }
+  }
+]

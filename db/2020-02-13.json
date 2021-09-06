@@ -1,0 +1,449 @@
+[
+  {
+    "name": "Something More",
+    "link": "https://music.163.com/song?id=34040896",
+    "duration": "03:13",
+    "artists": [
+      { "name": "Kozoro", "link": "https://music.163.com/artist?id=1050567" }
+    ],
+    "album": {
+      "name": "Something More",
+      "link": "https://music.163.com/album?id=3270742"
+    }
+  },
+  {
+    "name": "haze",
+    "link": "https://music.163.com/song?id=1295739029",
+    "duration": "01:31",
+    "artists": [
+      { "name": "Ryan有光", "link": "https://music.163.com/artist?id=12185226" }
+    ],
+    "album": {
+      "name": "Resistant.",
+      "link": "https://music.163.com/album?id=71775480"
+    }
+  },
+  {
+    "name": "Apologize",
+    "link": "https://music.163.com/song?id=24953439",
+    "duration": "03:28",
+    "artists": [
+      { "name": "OneRepublic", "link": "https://music.163.com/artist?id=98105" }
+    ],
+    "album": {
+      "name": "2009 GRAMMY Nominees",
+      "link": "https://music.163.com/album?id=2206679"
+    }
+  },
+  {
+    "name": "They Told Me",
+    "link": "https://music.163.com/song?id=1331905927",
+    "duration": "03:01",
+    "artists": [
+      {
+        "name": "Palm Trees",
+        "link": "https://music.163.com/artist?id=1135109"
+      },
+      {
+        "name": "Sophia Ayana",
+        "link": "https://music.163.com/artist?id=12446102"
+      }
+    ],
+    "album": {
+      "name": "They Told Me",
+      "link": "https://music.163.com/album?id=74812473"
+    }
+  },
+  {
+    "name": "Instant",
+    "link": "https://music.163.com/song?id=484907411",
+    "duration": "04:11",
+    "artists": [
+      { "name": "浮云心丶", "link": "https://music.163.com/artist?id=12350867" }
+    ],
+    "album": {
+      "name": "Instant",
+      "link": "https://music.163.com/album?id=35638518"
+    }
+  },
+  {
+    "name": "Paradise",
+    "link": "https://music.163.com/song?id=1312104048",
+    "duration": "03:35",
+    "artists": [
+      {
+        "name": "Nicky Romero",
+        "link": "https://music.163.com/artist?id=195142"
+      },
+      {
+        "name": "Deniz Koyu",
+        "link": "https://music.163.com/artist?id=201960"
+      },
+      {
+        "name": "Walk off the Earth",
+        "link": "https://music.163.com/artist?id=105493"
+      }
+    ],
+    "album": {
+      "name": "Paradise",
+      "link": "https://music.163.com/album?id=73559204"
+    }
+  },
+  {
+    "name": "One Thousand Suns",
+    "link": "https://music.163.com/song?id=423314060",
+    "duration": "06:01",
+    "artists": [
+      { "name": "Chicane", "link": "https://music.163.com/artist?id=50971" },
+      {
+        "name": "Christian Burns",
+        "link": "https://music.163.com/artist?id=658096"
+      },
+      {
+        "name": "Ferry Corsten",
+        "link": "https://music.163.com/artist?id=33395"
+      }
+    ],
+    "album": {
+      "name": "Twenty",
+      "link": "https://music.163.com/album?id=34790294"
+    }
+  },
+  {
+    "name": "Deep Blue (feat. Monika Santucci)",
+    "link": "https://music.163.com/song?id=1381084455",
+    "duration": "03:21",
+    "artists": [
+      {
+        "name": "William Black",
+        "link": "https://music.163.com/artist?id=248957"
+      },
+      {
+        "name": "Monika Santucci",
+        "link": "https://music.163.com/artist?id=13989763"
+      }
+    ],
+    "album": {
+      "name": "Pages",
+      "link": "https://music.163.com/album?id=80685180"
+    }
+  },
+  {
+    "name": "Messy Girl",
+    "link": "https://music.163.com/song?id=500637550",
+    "duration": "03:00",
+    "artists": [
+      {
+        "name": "Morri3on(喬凡三)",
+        "link": "https://music.163.com/artist?id=12083225"
+      }
+    ],
+    "album": {
+      "name": "Messy Girl",
+      "link": "https://music.163.com/album?id=35996660"
+    }
+  },
+  {
+    "name": "Feels Like a Dream",
+    "link": "https://music.163.com/song?id=1363342114",
+    "duration": "04:19",
+    "artists": [
+      { "name": "Awakend", "link": "https://music.163.com/artist?id=13049055" },
+      { "name": "Luma", "link": "https://music.163.com/artist?id=211460" },
+      { "name": "Herrin", "link": "https://music.163.com/artist?id=12279436" }
+    ],
+    "album": {
+      "name": "Feels Like a Dream",
+      "link": "https://music.163.com/album?id=78935903"
+    }
+  },
+  {
+    "name": "Emotional (Original Mix)",
+    "link": "https://music.163.com/song?id=506814579",
+    "duration": "04:56",
+    "artists": [
+      {
+        "name": "Electronic Rat",
+        "link": "https://music.163.com/artist?id=12226208"
+      }
+    ],
+    "album": {
+      "name": "Emotional (情绪化)",
+      "link": "https://music.163.com/album?id=36232599"
+    }
+  },
+  {
+    "name": "Да да да (Jarico Remix)",
+    "link": "https://music.163.com/song?id=1397021895",
+    "duration": "03:34",
+    "artists": [
+      { "name": "Tanir", "link": "https://music.163.com/artist?id=12533932" },
+      { "name": "Tyomcha", "link": "https://music.163.com/artist?id=28512500" }
+    ],
+    "album": {
+      "name": "Да да да (Jarico Remix)",
+      "link": "https://music.163.com/album?id=82419070"
+    }
+  },
+  {
+    "name": "Too Young",
+    "link": "https://music.163.com/song?id=487454262",
+    "duration": "03:23",
+    "artists": [
+      { "name": "ayokay", "link": "https://music.163.com/artist?id=1116021" },
+      {
+        "name": "Baker Grace",
+        "link": "https://music.163.com/artist?id=12603136"
+      }
+    ],
+    "album": {
+      "name": "Too Young",
+      "link": "https://music.163.com/album?id=35657353"
+    }
+  },
+  {
+    "name": "Real Life",
+    "link": "https://music.163.com/song?id=505665222",
+    "duration": "03:03",
+    "artists": [
+      {
+        "name": "Gill Chang",
+        "link": "https://music.163.com/artist?id=1177230"
+      },
+      {
+        "name": "Aviella Winder",
+        "link": "https://music.163.com/artist?id=12475609"
+      }
+    ],
+    "album": {
+      "name": "Words Unspoken",
+      "link": "https://music.163.com/album?id=36192246"
+    }
+  },
+  {
+    "name": "Another Day",
+    "link": "https://music.163.com/song?id=1349078023",
+    "duration": "03:02",
+    "artists": [
+      { "name": "Dabin", "link": "https://music.163.com/artist?id=783446" },
+      { "name": "Inukshuk", "link": "https://music.163.com/artist?id=1115191" },
+      { "name": "Nevve", "link": "https://music.163.com/artist?id=12567101" }
+    ],
+    "album": {
+      "name": "Another Day",
+      "link": "https://music.163.com/album?id=75733215"
+    }
+  },
+  {
+    "name": "Alter",
+    "link": "https://music.163.com/song?id=573636769",
+    "duration": "02:57",
+    "artists": [
+      { "name": "千坂", "link": "https://music.163.com/artist?id=12138261" },
+      { "name": "夜の律", "link": "https://music.163.com/artist?id=13537449" }
+    ],
+    "album": {
+      "name": "Night Law 02: Alteration",
+      "link": "https://music.163.com/album?id=39685529"
+    }
+  },
+  {
+    "name": "Should I",
+    "link": "https://music.163.com/song?id=515223490",
+    "duration": "03:05",
+    "artists": [
+      {
+        "name": "Phoebe Ryan",
+        "link": "https://music.163.com/artist?id=854363"
+      }
+    ],
+    "album": {
+      "name": "James - EP",
+      "link": "https://music.163.com/album?id=36515723"
+    }
+  },
+  {
+    "name": "We Won't Be Alone",
+    "link": "https://music.163.com/song?id=36307046",
+    "duration": "03:54",
+    "artists": [
+      { "name": "Feint", "link": "https://music.163.com/artist?id=93062" },
+      {
+        "name": "Laura Brehm",
+        "link": "https://music.163.com/artist?id=207693"
+      }
+    ],
+    "album": {
+      "name": "Monstercat 024 - Vanguard",
+      "link": "https://music.163.com/album?id=3395024"
+    }
+  },
+  {
+    "name": "8月23日",
+    "link": "https://music.163.com/song?id=1304719349",
+    "duration": "01:53",
+    "artists": [
+      { "name": "吴宇深", "link": "https://music.163.com/artist?id=12281745" }
+    ],
+    "album": {
+      "name": "8月23日",
+      "link": "https://music.163.com/album?id=72487721"
+    }
+  },
+  {
+    "name": "Luv Letter",
+    "link": "https://music.163.com/song?id=3691188",
+    "duration": "04:30",
+    "artists": [
+      { "name": "The Arm", "link": "https://music.163.com/artist?id=80421" }
+    ],
+    "album": {
+      "name": "The arm",
+      "link": "https://music.163.com/album?id=373363"
+    }
+  },
+  {
+    "name": "Stuttering",
+    "link": "https://music.163.com/song?id=2614003",
+    "duration": "03:09",
+    "artists": [
+      { "name": "Fefe Dobson", "link": "https://music.163.com/artist?id=57223" }
+    ],
+    "album": { "name": "Joy", "link": "https://music.163.com/album?id=263248" }
+  },
+  {
+    "name": "Sky (Radio Edit)",
+    "link": "https://music.163.com/song?id=29553031",
+    "duration": "03:56",
+    "artists": [
+      { "name": "Steerner", "link": "https://music.163.com/artist?id=783190" },
+      { "name": "Martell", "link": "https://music.163.com/artist?id=12023568" }
+    ],
+    "album": { "name": "Sky", "link": "https://music.163.com/album?id=3044006" }
+  },
+  {
+    "name": "微风轻起，我喜欢你",
+    "link": "https://music.163.com/song?id=555422283",
+    "duration": "01:44",
+    "artists": [
+      { "name": "马路通", "link": "https://music.163.com/artist?id=12328286" }
+    ],
+    "album": {
+      "name": "我喜欢你",
+      "link": "https://music.163.com/album?id=38477257"
+    }
+  },
+  {
+    "name": "夏萤",
+    "link": "https://music.163.com/song?id=483454599",
+    "duration": "02:52",
+    "artists": [
+      { "name": "小vie", "link": "https://music.163.com/artist?id=1039518" }
+    ],
+    "album": {
+      "name": "夏萤",
+      "link": "https://music.163.com/album?id=35599251"
+    }
+  },
+  {
+    "name": "Tears of The Sun",
+    "link": "https://music.163.com/song?id=547728059",
+    "duration": "03:56",
+    "artists": [
+      {
+        "name": "LookedatHerFore",
+        "link": "https://music.163.com/artist?id=13610762"
+      }
+    ],
+    "album": {
+      "name": "Tears of The Sun",
+      "link": "https://music.163.com/album?id=38009318"
+    }
+  },
+  {
+    "name": "Running Away",
+    "link": "https://music.163.com/song?id=30352836",
+    "duration": "03:08",
+    "artists": [
+      { "name": "Tobu", "link": "https://music.163.com/artist?id=964486" }
+    ],
+    "album": {
+      "name": "Running Away",
+      "link": "https://music.163.com/album?id=3098252"
+    }
+  },
+  {
+    "name": "In The End（Haokun Remix）",
+    "link": "https://music.163.com/song?id=1333186383",
+    "duration": "03:18",
+    "artists": [
+      { "name": "RoiMarch", "link": "https://music.163.com/artist?id=29581111" }
+    ],
+    "album": { "name": "-", "link": "https://music.163.com/album?id=74836133" }
+  },
+  {
+    "name": "Love home",
+    "link": "https://music.163.com/song?id=404459321",
+    "duration": "02:37",
+    "artists": [
+      { "name": "夏小舟", "link": "https://music.163.com/artist?id=1210034" }
+    ],
+    "album": {
+      "name": "Love home",
+      "link": "https://music.163.com/album?id=34511100"
+    }
+  },
+  {
+    "name": "Max Elto - Shadow Of The Sun (shadows-wolf Remix)",
+    "link": "https://music.163.com/song?id=467945187",
+    "duration": "03:59",
+    "artists": [
+      {
+        "name": "Shadows-wolf",
+        "link": "https://music.163.com/artist?id=12226695"
+      }
+    ],
+    "album": {
+      "name": "Shadow Of The Sun EP",
+      "link": "https://music.163.com/album?id=35290592"
+    }
+  },
+  {
+    "name": "Ecstatic",
+    "link": "https://music.163.com/song?id=544113549",
+    "duration": "03:35",
+    "artists": [
+      { "name": "Delos", "link": "https://music.163.com/artist?id=12085627" }
+    ],
+    "album": {
+      "name": "Ecstatic",
+      "link": "https://music.163.com/album?id=37875143"
+    }
+  },
+  {
+    "name": "夜瑶",
+    "link": "https://music.163.com/song?id=574016293",
+    "duration": "03:04",
+    "artists": [
+      { "name": "暴君de", "link": "https://music.163.com/artist?id=12599289" },
+      { "name": "Acesgh", "link": "https://music.163.com/artist?id=12200895" }
+    ],
+    "album": {
+      "name": "夜瑶",
+      "link": "https://music.163.com/album?id=39685938"
+    }
+  },
+  {
+    "name": "吹灭小山河 - (独家国风自制企划《观风月·竹马篇》)",
+    "link": "https://music.163.com/song?id=1412559986",
+    "duration": "03:06",
+    "artists": [
+      { "name": "国风堂", "link": "https://music.163.com/artist?id=31862479" },
+      { "name": "司南", "link": "https://music.163.com/artist?id=28863695" }
+    ],
+    "album": {
+      "name": "吹灭小山河",
+      "link": "https://music.163.com/album?id=84562289"
+    }
+  }
+]

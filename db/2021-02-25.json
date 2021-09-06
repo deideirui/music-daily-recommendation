@@ -1,0 +1,446 @@
+[
+  {
+    "name": "Bad Habit",
+    "link": "https://music.163.com/song?id=1433603448",
+    "duration": "02:56",
+    "artists": [
+      { "name": "Notalike", "link": "https://music.163.com/artist?id=13902656" }
+    ],
+    "album": {
+      "name": "Bad Habit",
+      "link": "https://music.163.com/album?id=86793131"
+    }
+  },
+  {
+    "name": "Birthday Cakes",
+    "link": "https://music.163.com/song?id=442458648",
+    "duration": "03:04",
+    "artists": [
+      {
+        "name": "Rikke Darling",
+        "link": "https://music.163.com/artist?id=12196069"
+      },
+      {
+        "name": "THE NGHTL1FE",
+        "link": "https://music.163.com/artist?id=29895992"
+      }
+    ],
+    "album": {
+      "name": "Birthday Cakes",
+      "link": "https://music.163.com/album?id=34970933"
+    }
+  },
+  {
+    "name": "The First Time (feat. Nathan Brumley)",
+    "link": "https://music.163.com/song?id=1330457535",
+    "duration": "02:50",
+    "artists": [
+      { "name": "Vedquo", "link": "https://music.163.com/artist?id=30930496" },
+      {
+        "name": "Nathan Brumley",
+        "link": "https://music.163.com/artist?id=1081182"
+      }
+    ],
+    "album": {
+      "name": "The First Time (feat. Nathan Brumley)",
+      "link": "https://music.163.com/album?id=74720148"
+    }
+  },
+  {
+    "name": "Midbar",
+    "link": "https://music.163.com/song?id=1408083571",
+    "duration": "02:20",
+    "artists": [
+      { "name": "Sickrate", "link": "https://music.163.com/artist?id=32795333" }
+    ],
+    "album": {
+      "name": "Midbar",
+      "link": "https://music.163.com/album?id=83947877"
+    }
+  },
+  {
+    "name": "Drama Free",
+    "link": "https://music.163.com/song?id=1371043420",
+    "duration": "03:05",
+    "artists": [
+      {
+        "name": "Maria Lynn",
+        "link": "https://music.163.com/artist?id=12273415"
+      },
+      {
+        "name": "Steve Reece",
+        "link": "https://music.163.com/artist?id=1147021"
+      }
+    ],
+    "album": {
+      "name": "Drama Free",
+      "link": "https://music.163.com/album?id=79711861"
+    }
+  },
+  {
+    "name": "Strawberries & Cigarettes",
+    "link": "https://music.163.com/song?id=544247584",
+    "duration": "03:21",
+    "artists": [
+      { "name": "Troye Sivan", "link": "https://music.163.com/artist?id=45129" }
+    ],
+    "album": {
+      "name": "Love, Simon (Original Motion Picture Soundtrack)",
+      "link": "https://music.163.com/album?id=37767398"
+    }
+  },
+  {
+    "name": "New Year's Eve",
+    "link": "https://music.163.com/song?id=402431562",
+    "duration": "03:48",
+    "artists": [
+      { "name": "MØ", "link": "https://music.163.com/artist?id=783150" }
+    ],
+    "album": {
+      "name": "New Year's Eve",
+      "link": "https://music.163.com/album?id=34459790"
+    }
+  },
+  {
+    "name": "Jealous",
+    "link": "https://music.163.com/song?id=523001618",
+    "duration": "03:43",
+    "artists": [
+      { "name": "Faustix", "link": "https://music.163.com/artist?id=1155054" }
+    ],
+    "album": {
+      "name": "Faustix",
+      "link": "https://music.163.com/album?id=36900296"
+    }
+  },
+  {
+    "name": "Deep Blue",
+    "link": "https://music.163.com/song?id=1454545121",
+    "duration": "03:57",
+    "artists": [
+      {
+        "name": "The Midnight",
+        "link": "https://music.163.com/artist?id=12023492"
+      }
+    ],
+    "album": {
+      "name": "Dance With Somebody",
+      "link": "https://music.163.com/album?id=90685697"
+    }
+  },
+  {
+    "name": "count on",
+    "link": "https://music.163.com/song?id=1322648216",
+    "duration": "03:26",
+    "artists": [
+      { "name": "Shallou", "link": "https://music.163.com/artist?id=12029377" },
+      {
+        "name": "Colin Mags",
+        "link": "https://music.163.com/artist?id=29948406"
+      }
+    ],
+    "album": {
+      "name": "count on",
+      "link": "https://music.163.com/album?id=74233695"
+    }
+  },
+  {
+    "name": "New Ting",
+    "link": "https://music.163.com/song?id=512617800",
+    "duration": "02:54",
+    "artists": [
+      {
+        "name": "Marc E. Bassy",
+        "link": "https://music.163.com/artist?id=12046521"
+      }
+    ],
+    "album": {
+      "name": "Gossip Columns",
+      "link": "https://music.163.com/album?id=36506697"
+    }
+  },
+  {
+    "name": "Don't Stop Now",
+    "link": "https://music.163.com/song?id=536396243",
+    "duration": "02:29",
+    "artists": [
+      {
+        "name": "Ben Phipps",
+        "link": "https://music.163.com/artist?id=1135005"
+      },
+      {
+        "name": "Sam DeRosa",
+        "link": "https://music.163.com/artist?id=14470184"
+      }
+    ],
+    "album": {
+      "name": "Don't Stop Now",
+      "link": "https://music.163.com/album?id=37568087"
+    }
+  },
+  {
+    "name": "Follow Me",
+    "link": "https://music.163.com/song?id=476324207",
+    "duration": "02:48",
+    "artists": [
+      {
+        "name": "Pink Panda",
+        "link": "https://music.163.com/artist?id=12054022"
+      },
+      { "name": "ZY", "link": "https://music.163.com/artist?id=12155122" }
+    ],
+    "album": {
+      "name": "Follow Me",
+      "link": "https://music.163.com/album?id=35456083"
+    }
+  },
+  {
+    "name": "I'll Be Gone (feat. Katie McConnell)",
+    "link": "https://music.163.com/song?id=1398909708",
+    "duration": "03:24",
+    "artists": [
+      { "name": "Axero", "link": "https://music.163.com/artist?id=1035020" },
+      {
+        "name": "Katie McConnell",
+        "link": "https://music.163.com/artist?id=29818086"
+      }
+    ],
+    "album": {
+      "name": "I'll Be Gone (feat. Katie McConnell)",
+      "link": "https://music.163.com/album?id=82706243"
+    }
+  },
+  {
+    "name": "Birds",
+    "link": "https://music.163.com/song?id=1372925906",
+    "duration": "03:39",
+    "artists": [
+      {
+        "name": "Imagine Dragons",
+        "link": "https://music.163.com/artist?id=94779"
+      },
+      { "name": "Elisa", "link": "https://music.163.com/artist?id=55549" }
+    ],
+    "album": {
+      "name": "Birds",
+      "link": "https://music.163.com/album?id=79897437"
+    }
+  },
+  {
+    "name": "Insurgence",
+    "link": "https://music.163.com/song?id=1357621728",
+    "duration": "04:20",
+    "artists": [
+      {
+        "name": "Jim Yosef",
+        "link": "https://music.163.com/artist?id=1063121"
+      },
+      { "name": "Starlyte", "link": "https://music.163.com/artist?id=12006394" }
+    ],
+    "album": {
+      "name": "Insurgence",
+      "link": "https://music.163.com/album?id=78399461"
+    }
+  },
+  {
+    "name": "Milk & Honey",
+    "link": "https://music.163.com/song?id=463352535",
+    "duration": "02:50",
+    "artists": [
+      { "name": "G Girls", "link": "https://music.163.com/artist?id=12061090" }
+    ],
+    "album": {
+      "name": "Milk & Honey",
+      "link": "https://music.163.com/album?id=35241037"
+    }
+  },
+  {
+    "name": "Drowning",
+    "link": "https://music.163.com/song?id=1381403325",
+    "duration": "02:36",
+    "artists": [
+      { "name": "Franklin", "link": "https://music.163.com/artist?id=57526" },
+      {
+        "name": "Digital Farm Animals",
+        "link": "https://music.163.com/artist?id=840929"
+      },
+      { "name": "Sorana", "link": "https://music.163.com/artist?id=427708" }
+    ],
+    "album": {
+      "name": "Drowning",
+      "link": "https://music.163.com/album?id=80720904"
+    }
+  },
+  {
+    "name": "Feels Like a Dream",
+    "link": "https://music.163.com/song?id=1363342114",
+    "duration": "04:19",
+    "artists": [
+      { "name": "Awakend", "link": "https://music.163.com/artist?id=13049055" },
+      { "name": "Luma", "link": "https://music.163.com/artist?id=211460" },
+      { "name": "Herrin", "link": "https://music.163.com/artist?id=12279436" }
+    ],
+    "album": {
+      "name": "Feels Like a Dream",
+      "link": "https://music.163.com/album?id=78935903"
+    }
+  },
+  {
+    "name": "We Are One (Ole Ola) [The Official 2014 FIFA World Cup Song] - (天下一家)",
+    "link": "https://music.163.com/song?id=28240407",
+    "duration": "03:42",
+    "artists": [
+      { "name": "Pitbull", "link": "https://music.163.com/artist?id=41143" },
+      {
+        "name": "Jennifer Lopez",
+        "link": "https://music.163.com/artist?id=60932"
+      },
+      {
+        "name": "Cláudia Leitte",
+        "link": "https://music.163.com/artist?id=51910"
+      }
+    ],
+    "album": {
+      "name": "We Are One (Ole Ola) [The Official 2014 FIFA World Cup Song]",
+      "link": "https://music.163.com/album?id=2759177"
+    }
+  },
+  {
+    "name": "Beyond Memory (Original Mix)",
+    "link": "https://music.163.com/song?id=554284181",
+    "duration": "03:35",
+    "artists": [
+      { "name": "Nina", "link": "https://music.163.com/artist?id=149874" }
+    ],
+    "album": {
+      "name": "Pure Synthwave, Vol. 1",
+      "link": "https://music.163.com/album?id=38429768"
+    }
+  },
+  {
+    "name": "Coastal Glow (Original Mix)",
+    "link": "https://music.163.com/song?id=419238452",
+    "duration": "07:01",
+    "artists": [
+      {
+        "name": "Gregory Esayan",
+        "link": "https://music.163.com/artist?id=193198"
+      }
+    ],
+    "album": {
+      "name": "Coastal Glow",
+      "link": "https://music.163.com/album?id=34751058"
+    }
+  },
+  {
+    "name": "Tears",
+    "link": "https://music.163.com/song?id=411907928",
+    "duration": "04:01",
+    "artists": [
+      { "name": "FM-84", "link": "https://music.163.com/artist?id=12046467" }
+    ],
+    "album": {
+      "name": "Atlas",
+      "link": "https://music.163.com/album?id=34686652"
+    }
+  },
+  {
+    "name": "Touchdown (Original Mix)",
+    "link": "https://music.163.com/song?id=483671667",
+    "duration": "06:06",
+    "artists": [
+      {
+        "name": "Sunlight Project",
+        "link": "https://music.163.com/artist?id=858214"
+      }
+    ],
+    "album": {
+      "name": "Touchdown",
+      "link": "https://music.163.com/album?id=35590945"
+    }
+  },
+  {
+    "name": "Leaving California (Album Version)",
+    "link": "https://music.163.com/song?id=27037914",
+    "duration": "04:09",
+    "artists": [
+      {
+        "name": "Boys Like Girls",
+        "link": "https://music.163.com/artist?id=88161"
+      }
+    ],
+    "album": {
+      "name": "Crazy World",
+      "link": "https://music.163.com/album?id=2580696"
+    }
+  },
+  {
+    "name": "Secret (Original Mix)",
+    "link": "https://music.163.com/song?id=26322678",
+    "duration": "07:07",
+    "artists": [
+      { "name": "Talamanca", "link": "https://music.163.com/artist?id=355244" }
+    ],
+    "album": {
+      "name": "Boardwalk EP",
+      "link": "https://music.163.com/album?id=2450991"
+    }
+  },
+  {
+    "name": "Hands On Deck",
+    "link": "https://music.163.com/song?id=22359596",
+    "duration": "05:05",
+    "artists": [
+      {
+        "name": "Waking Ashland",
+        "link": "https://music.163.com/artist?id=84075"
+      }
+    ],
+    "album": {
+      "name": "Composure",
+      "link": "https://music.163.com/album?id=2050646"
+    }
+  },
+  {
+    "name": "Save Me",
+    "link": "https://music.163.com/song?id=544151692",
+    "duration": "03:04",
+    "artists": [
+      { "name": "DEAMN", "link": "https://music.163.com/artist?id=12047335" }
+    ],
+    "album": {
+      "name": "Save Me",
+      "link": "https://music.163.com/album?id=37873487"
+    }
+  },
+  {
+    "name": "Everything",
+    "link": "https://music.163.com/song?id=512358298",
+    "duration": "03:45",
+    "artists": [
+      {
+        "name": "Sick Individuals",
+        "link": "https://music.163.com/artist?id=379612"
+      }
+    ],
+    "album": {
+      "name": "Everything",
+      "link": "https://music.163.com/album?id=36529051"
+    }
+  },
+  {
+    "name": "Supreme",
+    "link": "https://music.163.com/song?id=26199302",
+    "duration": "03:31",
+    "artists": [
+      {
+        "name": "Postiljonen",
+        "link": "https://music.163.com/artist?id=725356"
+      }
+    ],
+    "album": {
+      "name": "Supreme - Single",
+      "link": "https://music.163.com/album?id=2419971"
+    }
+  }
+]

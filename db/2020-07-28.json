@@ -1,0 +1,483 @@
+[
+  {
+    "name": "Blink 182",
+    "link": "https://music.163.com/song?id=1387182799",
+    "duration": "03:04",
+    "artists": [
+      {
+        "name": "Half an Orange",
+        "link": "https://music.163.com/artist?id=12492297"
+      }
+    ],
+    "album": {
+      "name": "Blink 182",
+      "link": "https://music.163.com/album?id=81212366"
+    }
+  },
+  {
+    "name": "Curtain Call",
+    "link": "https://music.163.com/song?id=1414940085",
+    "duration": "02:29",
+    "artists": [
+      {
+        "name": "Steam Phunk",
+        "link": "https://music.163.com/artist?id=1177079"
+      },
+      {
+        "name": "Lucy Neville",
+        "link": "https://music.163.com/artist?id=12031372"
+      }
+    ],
+    "album": {
+      "name": "Curtain Call",
+      "link": "https://music.163.com/album?id=84797920"
+    }
+  },
+  {
+    "name": "Dreamer",
+    "link": "https://music.163.com/song?id=1380193537",
+    "duration": "03:37",
+    "artists": [
+      { "name": "Throttle", "link": "https://music.163.com/artist?id=794398" }
+    ],
+    "album": {
+      "name": "Dreamer",
+      "link": "https://music.163.com/album?id=80613198"
+    }
+  },
+  {
+    "name": "Yesterday",
+    "link": "https://music.163.com/song?id=1317424407",
+    "duration": "02:58",
+    "artists": [
+      {
+        "name": "Virginia To Vegas",
+        "link": "https://music.163.com/artist?id=942191"
+      }
+    ],
+    "album": {
+      "name": "Yesterday",
+      "link": "https://music.163.com/album?id=73891103"
+    }
+  },
+  {
+    "name": "Back To U",
+    "link": "https://music.163.com/song?id=1442681212",
+    "duration": "03:34",
+    "artists": [
+      { "name": "SLANDER", "link": "https://music.163.com/artist?id=1137239" },
+      {
+        "name": "William Black",
+        "link": "https://music.163.com/artist?id=248957"
+      }
+    ],
+    "album": {
+      "name": "Back To U",
+      "link": "https://music.163.com/album?id=88388886"
+    }
+  },
+  {
+    "name": "Love Me Back",
+    "link": "https://music.163.com/song?id=1341512162",
+    "duration": "02:58",
+    "artists": [
+      { "name": "RITUAL", "link": "https://music.163.com/artist?id=12355563" },
+      { "name": "Tove Styrke", "link": "https://music.163.com/artist?id=83188" }
+    ],
+    "album": {
+      "name": "Love Me Back",
+      "link": "https://music.163.com/album?id=75291853"
+    }
+  },
+  {
+    "name": "Runnin",
+    "link": "https://music.163.com/song?id=1329657649",
+    "duration": "03:39",
+    "artists": [
+      { "name": "Kosling", "link": "https://music.163.com/artist?id=29289583" },
+      { "name": "CHRNS", "link": "https://music.163.com/artist?id=12945477" },
+      { "name": "Lux", "link": "https://music.163.com/artist?id=65954" }
+    ],
+    "album": {
+      "name": "Runnin",
+      "link": "https://music.163.com/album?id=74669786"
+    }
+  },
+  {
+    "name": "Release Me",
+    "link": "https://music.163.com/song?id=1356647581",
+    "duration": "03:21",
+    "artists": [
+      {
+        "name": "Sons Of Maria",
+        "link": "https://music.163.com/artist?id=210916"
+      }
+    ],
+    "album": {
+      "name": "Release Me",
+      "link": "https://music.163.com/album?id=78332665"
+    }
+  },
+  {
+    "name": "Dreams",
+    "link": "https://music.163.com/song?id=1327579117",
+    "duration": "03:31",
+    "artists": [
+      {
+        "name": "Feenixpawl",
+        "link": "https://music.163.com/artist?id=290025"
+      },
+      { "name": "Sheco", "link": "https://music.163.com/artist?id=12886070" },
+      { "name": "Georgi Kay", "link": "https://music.163.com/artist?id=290036" }
+    ],
+    "album": {
+      "name": "Dreams",
+      "link": "https://music.163.com/album?id=74531342"
+    }
+  },
+  {
+    "name": "Heart Call",
+    "link": "https://music.163.com/song?id=419596081",
+    "duration": "06:44",
+    "artists": [
+      {
+        "name": "Solid Stone",
+        "link": "https://music.163.com/artist?id=1078244"
+      }
+    ],
+    "album": {
+      "name": "Introspection",
+      "link": "https://music.163.com/album?id=34767021"
+    }
+  },
+  {
+    "name": "Nothin' On You",
+    "link": "https://music.163.com/song?id=561636886",
+    "duration": "02:43",
+    "artists": [
+      {
+        "name": "Dante Klein",
+        "link": "https://music.163.com/artist?id=1040080"
+      }
+    ],
+    "album": {
+      "name": "Nothin' On You",
+      "link": "https://music.163.com/album?id=38843149"
+    }
+  },
+  {
+    "name": "Stranger Love (Original Mix)",
+    "link": "https://music.163.com/song?id=567401317",
+    "duration": "02:07",
+    "artists": [
+      {
+        "name": "Robin Novaku",
+        "link": "https://music.163.com/artist?id=13987551"
+      }
+    ],
+    "album": {
+      "name": "Stranger Love",
+      "link": "https://music.163.com/album?id=39341705"
+    }
+  },
+  {
+    "name": "Wait",
+    "link": "https://music.163.com/song?id=499222719",
+    "duration": "02:45",
+    "artists": [
+      {
+        "name": "Martin Jensen",
+        "link": "https://music.163.com/artist?id=1060055"
+      },
+      { "name": "Loote", "link": "https://music.163.com/artist?id=12408152" }
+    ],
+    "album": {
+      "name": "Wait",
+      "link": "https://music.163.com/album?id=35934583"
+    }
+  },
+  {
+    "name": "Moonfunk",
+    "link": "https://music.163.com/song?id=1374602603",
+    "duration": "02:47",
+    "artists": [
+      { "name": "Ellis", "link": "https://music.163.com/artist?id=32932" }
+    ],
+    "album": {
+      "name": "Moonfunk",
+      "link": "https://music.163.com/album?id=80064256"
+    }
+  },
+  {
+    "name": "You Plus Me (Radio Edit)",
+    "link": "https://music.163.com/song?id=431753507",
+    "duration": "03:07",
+    "artists": [
+      {
+        "name": "Charming Horses",
+        "link": "https://music.163.com/artist?id=1137480"
+      }
+    ],
+    "album": {
+      "name": "You Plus Me",
+      "link": "https://music.163.com/album?id=34873763"
+    }
+  },
+  {
+    "name": "Clockwise",
+    "link": "https://music.163.com/song?id=1332598652",
+    "duration": "04:07",
+    "artists": [
+      {
+        "name": "HoneyComeBear",
+        "link": "https://music.163.com/artist?id=12675383"
+      }
+    ],
+    "album": {
+      "name": "Clockwise",
+      "link": "https://music.163.com/album?id=74835412"
+    }
+  },
+  {
+    "name": "My City",
+    "link": "https://music.163.com/song?id=1356738120",
+    "duration": "03:20",
+    "artists": [
+      { "name": "Kaaze", "link": "https://music.163.com/artist?id=952052" },
+      {
+        "name": "Aloma Steele",
+        "link": "https://music.163.com/artist?id=1015497"
+      }
+    ],
+    "album": {
+      "name": "My City",
+      "link": "https://music.163.com/album?id=78337768"
+    }
+  },
+  {
+    "name": "Perfect 10 (Unknown Brain & RudeLies VIP)",
+    "link": "https://music.163.com/song?id=1359245740",
+    "duration": "02:37",
+    "artists": [
+      {
+        "name": "Unknown Brain",
+        "link": "https://music.163.com/artist?id=12196203"
+      },
+      {
+        "name": "Heather Sommer",
+        "link": "https://music.163.com/artist?id=13134228"
+      },
+      { "name": "RudeLies", "link": "https://music.163.com/artist?id=12416051" }
+    ],
+    "album": {
+      "name": "Perfect 10 (Unknown Brain & RudeLies VIP)",
+      "link": "https://music.163.com/album?id=78554639"
+    }
+  },
+  {
+    "name": "Digital Love (Acoustic Version)",
+    "link": "https://music.163.com/song?id=461831330",
+    "duration": "02:53",
+    "artists": [
+      {
+        "name": "Digital Farm Animals",
+        "link": "https://music.163.com/artist?id=840929"
+      },
+      {
+        "name": "Hailee Steinfeld",
+        "link": "https://music.163.com/artist?id=1085045"
+      }
+    ],
+    "album": {
+      "name": "Digital Love (Acoustic Version)",
+      "link": "https://music.163.com/album?id=35191731"
+    }
+  },
+  {
+    "name": "Beat Again",
+    "link": "https://music.163.com/song?id=33035575",
+    "duration": "03:02",
+    "artists": [
+      {
+        "name": "Project 46",
+        "link": "https://music.163.com/artist?id=776674"
+      },
+      { "name": "Karl Wolf", "link": "https://music.163.com/artist?id=62952" }
+    ],
+    "album": {
+      "name": "Beautiful",
+      "link": "https://music.163.com/album?id=3158277"
+    }
+  },
+  {
+    "name": "Man That I Was",
+    "link": "https://music.163.com/song?id=550138092",
+    "duration": "03:22",
+    "artists": [
+      {
+        "name": "Poorchoice",
+        "link": "https://music.163.com/artist?id=12068100"
+      },
+      { "name": "HVNNIBVL", "link": "https://music.163.com/artist?id=12046906" }
+    ],
+    "album": {
+      "name": "Man That I Was",
+      "link": "https://music.163.com/album?id=38226028"
+    }
+  },
+  {
+    "name": "Selfish (Alan Walker Remix)",
+    "link": "https://music.163.com/song?id=1451796544",
+    "duration": "03:33",
+    "artists": [
+      {
+        "name": "Madison Beer",
+        "link": "https://music.163.com/artist?id=827791"
+      },
+      {
+        "name": "Alan Walker",
+        "link": "https://music.163.com/artist?id=1045123"
+      }
+    ],
+    "album": {
+      "name": "Selfish (Alan Walker Remix)",
+      "link": "https://music.163.com/album?id=90116669"
+    }
+  },
+  {
+    "name": "Blame",
+    "link": "https://music.163.com/song?id=1373586862",
+    "duration": "03:00",
+    "artists": [
+      { "name": "Manse", "link": "https://music.163.com/artist?id=855409" },
+      {
+        "name": "David Shane",
+        "link": "https://music.163.com/artist?id=29840982"
+      }
+    ],
+    "album": {
+      "name": "Blame",
+      "link": "https://music.163.com/album?id=79962540"
+    }
+  },
+  {
+    "name": "Kingdom Of Fire (New Horizons 2019 Anthem)",
+    "link": "https://music.163.com/song?id=1385079619",
+    "duration": "03:05",
+    "artists": [
+      { "name": "Cuebrick", "link": "https://music.163.com/artist?id=364737" },
+      { "name": "IIVES", "link": "https://music.163.com/artist?id=30248076" }
+    ],
+    "album": {
+      "name": "Kingdom Of Fire (New Horizons 2019 Anthem)",
+      "link": "https://music.163.com/album?id=81024145"
+    }
+  },
+  {
+    "name": "Chasing The Light",
+    "link": "https://music.163.com/song?id=1420914778",
+    "duration": "02:37",
+    "artists": [
+      { "name": "Maryn", "link": "https://music.163.com/artist?id=12861041" },
+      {
+        "name": "Jordan Shaw",
+        "link": "https://music.163.com/artist?id=13628884"
+      }
+    ],
+    "album": {
+      "name": "Chasing The Light",
+      "link": "https://music.163.com/album?id=85465752"
+    }
+  },
+  {
+    "name": "Stars",
+    "link": "https://music.163.com/song?id=421148510",
+    "duration": "03:18",
+    "artists": [
+      { "name": "APEK", "link": "https://music.163.com/artist?id=1182277" },
+      {
+        "name": "Carl Nunes",
+        "link": "https://music.163.com/artist?id=383374"
+      },
+      {
+        "name": "Alexx Mack",
+        "link": "https://music.163.com/artist?id=1163034"
+      }
+    ],
+    "album": {
+      "name": "Stars",
+      "link": "https://music.163.com/album?id=34780159"
+    }
+  },
+  {
+    "name": "Horizon",
+    "link": "https://music.163.com/song?id=1305365141",
+    "duration": "04:12",
+    "artists": [
+      {
+        "name": "Clean Tears",
+        "link": "https://music.163.com/artist?id=716001"
+      },
+      { "name": "初音ミク", "link": "https://music.163.com/artist?id=159692" }
+    ],
+    "album": {
+      "name": "Breeze",
+      "link": "https://music.163.com/album?id=72701647"
+    }
+  },
+  {
+    "name": "Runaway",
+    "link": "https://music.163.com/song?id=521784134",
+    "duration": "03:38",
+    "artists": [
+      {
+        "name": "Sasha Sloan",
+        "link": "https://music.163.com/artist?id=12646102"
+      }
+    ],
+    "album": {
+      "name": "Runaway",
+      "link": "https://music.163.com/album?id=36871274"
+    }
+  },
+  {
+    "name": "夢燈籠 (R7CKY 你的名字 Mix)",
+    "link": "https://music.163.com/song?id=446935665",
+    "duration": "03:48",
+    "artists": [
+      { "name": "R7CKY", "link": "https://music.163.com/artist?id=1044054" }
+    ],
+    "album": {
+      "name": "夢燈籠 (R7CKY 你的名字 Mix)",
+      "link": "https://music.163.com/album?id=35057029"
+    }
+  },
+  {
+    "name": "Illuminate",
+    "link": "https://music.163.com/song?id=471969379",
+    "duration": "04:02",
+    "artists": [
+      { "name": "Duumu", "link": "https://music.163.com/artist?id=12007367" },
+      { "name": "Slyleaf", "link": "https://music.163.com/artist?id=12155045" }
+    ],
+    "album": {
+      "name": "Illuminate EP",
+      "link": "https://music.163.com/album?id=35369098"
+    }
+  },
+  {
+    "name": "パステルココロ",
+    "link": "https://music.163.com/song?id=1362128686",
+    "duration": "03:28",
+    "artists": [
+      {
+        "name": "中村さんそ",
+        "link": "https://music.163.com/artist?id=29794049"
+      }
+    ],
+    "album": {
+      "name": "Shake the Future! EP ",
+      "link": "https://music.163.com/album?id=78844663"
+    }
+  }
+]

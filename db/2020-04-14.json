@@ -1,0 +1,456 @@
+[
+  {
+    "name": "Ride Or Die",
+    "link": "https://music.163.com/song?id=1365864094",
+    "duration": "02:45",
+    "artists": [
+      { "name": "XYLØ", "link": "https://music.163.com/artist?id=1050511" }
+    ],
+    "album": {
+      "name": "Ride Or Die",
+      "link": "https://music.163.com/album?id=79189044"
+    }
+  },
+  {
+    "name": "Miracle",
+    "link": "https://music.163.com/song?id=551970123",
+    "duration": "03:08",
+    "artists": [
+      { "name": "CHVRCHES", "link": "https://music.163.com/artist?id=694027" }
+    ],
+    "album": {
+      "name": "Love Is Dead",
+      "link": "https://music.163.com/album?id=39596019"
+    }
+  },
+  {
+    "name": "Now Or Never",
+    "link": "https://music.163.com/song?id=1333401952",
+    "duration": "02:48",
+    "artists": [
+      { "name": "OOVEE ", "link": "https://music.163.com/artist?id=1192377" },
+      {
+        "name": "Colleen D'Agostino",
+        "link": "https://music.163.com/artist?id=963317"
+      }
+    ],
+    "album": {
+      "name": "Soulmaze",
+      "link": "https://music.163.com/album?id=74880538"
+    }
+  },
+  {
+    "name": "Bipolar",
+    "link": "https://music.163.com/song?id=1356237274",
+    "duration": "02:52",
+    "artists": [
+      { "name": "BEAUZ", "link": "https://music.163.com/artist?id=12131436" },
+      {
+        "name": "ThatBehavior",
+        "link": "https://music.163.com/artist?id=12917127"
+      },
+      {
+        "name": "Luna Vexa",
+        "link": "https://music.163.com/artist?id=33169792"
+      }
+    ],
+    "album": {
+      "name": "Bipolar",
+      "link": "https://music.163.com/album?id=78301113"
+    }
+  },
+  {
+    "name": "Teeth",
+    "link": "https://music.163.com/song?id=1386002493",
+    "duration": "03:24",
+    "artists": [
+      {
+        "name": "5 Seconds of Summer",
+        "link": "https://music.163.com/artist?id=893624"
+      }
+    ],
+    "album": {
+      "name": "13 Reasons Why (Season 3)",
+      "link": "https://music.163.com/album?id=81098687"
+    }
+  },
+  {
+    "name": "Soundtrack Of My Life (Extended Mix)",
+    "link": "https://music.163.com/song?id=421563924",
+    "duration": "03:59",
+    "artists": [
+      { "name": "Rai", "link": "https://music.163.com/artist?id=12073812" }
+    ],
+    "album": {
+      "name": "Written EP",
+      "link": "https://music.163.com/album?id=34780672"
+    }
+  },
+  {
+    "name": "Arcus (Original Mix)",
+    "link": "https://music.163.com/song?id=542083465",
+    "duration": "06:51",
+    "artists": [
+      { "name": "MaHi", "link": "https://music.163.com/artist?id=1015367" }
+    ],
+    "album": {
+      "name": "Revival",
+      "link": "https://music.163.com/album?id=37786329"
+    }
+  },
+  {
+    "name": "Mars",
+    "link": "https://music.163.com/song?id=1370169277",
+    "duration": "02:33",
+    "artists": [
+      {
+        "name": "Alexander 23",
+        "link": "https://music.163.com/artist?id=31659734"
+      }
+    ],
+    "album": {
+      "name": "Mars",
+      "link": "https://music.163.com/album?id=79643431"
+    }
+  },
+  {
+    "name": "WOW",
+    "link": "https://music.163.com/song?id=1361109294",
+    "duration": "02:59",
+    "artists": [
+      {
+        "name": "Zara Larsson",
+        "link": "https://music.163.com/artist?id=816461"
+      }
+    ],
+    "album": {
+      "name": "WOW",
+      "link": "https://music.163.com/album?id=78750497"
+    }
+  },
+  {
+    "name": "Hold On",
+    "link": "https://music.163.com/song?id=1384492893",
+    "duration": "03:55",
+    "artists": [
+      { "name": "ILLENIUM", "link": "https://music.163.com/artist?id=1050518" },
+      {
+        "name": "Georgia Ku",
+        "link": "https://music.163.com/artist?id=14388929"
+      }
+    ],
+    "album": {
+      "name": "ASCEND",
+      "link": "https://music.163.com/album?id=80981667"
+    }
+  },
+  {
+    "name": "Ghost - (游戏《死亡搁浅》原声)",
+    "link": "https://music.163.com/song?id=1397317478",
+    "duration": "02:57",
+    "artists": [
+      { "name": "Au/Ra", "link": "https://music.163.com/artist?id=12143031" },
+      {
+        "name": "Alan Walker",
+        "link": "https://music.163.com/artist?id=1045123"
+      }
+    ],
+    "album": {
+      "name": "DEATH STRANDING: Timefall (Original Music from the World of Death Stranding)",
+      "link": "https://music.163.com/album?id=83080815"
+    }
+  },
+  {
+    "name": "Another You",
+    "link": "https://music.163.com/song?id=1329164029",
+    "duration": "02:55",
+    "artists": [
+      { "name": "ThimLife", "link": "https://music.163.com/artist?id=1046016" },
+      {
+        "name": "Bibiane Z",
+        "link": "https://music.163.com/artist?id=27883884"
+      }
+    ],
+    "album": {
+      "name": "Another You",
+      "link": "https://music.163.com/album?id=74267397"
+    }
+  },
+  {
+    "name": "Relax, Take It Easy",
+    "link": "https://music.163.com/song?id=21151698",
+    "duration": "03:44",
+    "artists": [
+      { "name": "Mika", "link": "https://music.163.com/artist?id=38849" }
+    ],
+    "album": {
+      "name": "Relax, Take It Easy",
+      "link": "https://music.163.com/album?id=1956058"
+    }
+  },
+  {
+    "name": "Open Your Eyes (Deep Blue Songspell)",
+    "link": "https://music.163.com/song?id=28748218",
+    "duration": "03:15",
+    "artists": [
+      { "name": "Bea Miller", "link": "https://music.163.com/artist?id=908180" }
+    ],
+    "album": {
+      "name": "Open Your Eyes (Deep Blue Songspell)",
+      "link": "https://music.163.com/album?id=2866688"
+    }
+  },
+  {
+    "name": "Older",
+    "link": "https://music.163.com/song?id=1415745890",
+    "duration": "03:38",
+    "artists": [
+      { "name": "Shallou", "link": "https://music.163.com/artist?id=12029377" },
+      { "name": "Daya", "link": "https://music.163.com/artist?id=1081186" }
+    ],
+    "album": {
+      "name": "Older",
+      "link": "https://music.163.com/album?id=84895766"
+    }
+  },
+  {
+    "name": "你那么爱他（翻自 群星） ",
+    "link": "https://music.163.com/song?id=1413491675",
+    "duration": "01:07",
+    "artists": [
+      { "name": "李欣龙啊", "link": "https://music.163.com/artist?id=13113634" }
+    ],
+    "album": {
+      "name": "新年快乐！",
+      "link": "https://music.163.com/album?id=84652651"
+    }
+  },
+  {
+    "name": "Blame",
+    "link": "https://music.163.com/song?id=29129632",
+    "duration": "03:34",
+    "artists": [
+      {
+        "name": "Calvin Harris",
+        "link": "https://music.163.com/artist?id=29968"
+      },
+      {
+        "name": "John Newman",
+        "link": "https://music.163.com/artist?id=195302"
+      }
+    ],
+    "album": {
+      "name": "Blame",
+      "link": "https://music.163.com/album?id=2992197"
+    }
+  },
+  {
+    "name": "Confidence",
+    "link": "https://music.163.com/song?id=569105338",
+    "duration": "03:43",
+    "artists": [
+      { "name": "Gjan", "link": "https://music.163.com/artist?id=851014" }
+    ],
+    "album": {
+      "name": "Confidence",
+      "link": "https://music.163.com/album?id=39391227"
+    }
+  },
+  {
+    "name": "I Don't Wanna Go",
+    "link": "https://music.163.com/song?id=1333159920",
+    "duration": "02:41",
+    "artists": [
+      {
+        "name": "Alan Walker",
+        "link": "https://music.163.com/artist?id=1045123"
+      },
+      {
+        "name": "Julie Bergan",
+        "link": "https://music.163.com/artist?id=896964"
+      }
+    ],
+    "album": {
+      "name": "Different World",
+      "link": "https://music.163.com/album?id=74571750"
+    }
+  },
+  {
+    "name": "Paris",
+    "link": "https://music.163.com/song?id=27713812",
+    "duration": "03:52",
+    "artists": [
+      { "name": "Magic Man", "link": "https://music.163.com/artist?id=96649" }
+    ],
+    "album": {
+      "name": "You Are Here",
+      "link": "https://music.163.com/album?id=2662207"
+    }
+  },
+  {
+    "name": "Unstoppable",
+    "link": "https://music.163.com/song?id=400876320",
+    "duration": "03:37",
+    "artists": [
+      { "name": "Sia", "link": "https://music.163.com/artist?id=74625" }
+    ],
+    "album": {
+      "name": "This Is Acting",
+      "link": "https://music.163.com/album?id=3394107"
+    }
+  },
+  {
+    "name": "Symphony",
+    "link": "https://music.163.com/song?id=466126510",
+    "duration": "03:34",
+    "artists": [
+      {
+        "name": "Clean Bandit",
+        "link": "https://music.163.com/artist?id=754010"
+      },
+      {
+        "name": "Zara Larsson",
+        "link": "https://music.163.com/artist?id=816461"
+      }
+    ],
+    "album": {
+      "name": "Symphony",
+      "link": "https://music.163.com/album?id=35288383"
+    }
+  },
+  {
+    "name": "Every Single Piece (Original Mix)",
+    "link": "https://music.163.com/song?id=31081351",
+    "duration": "04:32",
+    "artists": [
+      { "name": "Redondo", "link": "https://music.163.com/artist?id=342558" },
+      {
+        "name": "She Keeps Bees",
+        "link": "https://music.163.com/artist?id=100162"
+      },
+      { "name": "Bolier", "link": "https://music.163.com/artist?id=1135276" }
+    ],
+    "album": {
+      "name": "Every Single Piece",
+      "link": "https://music.163.com/album?id=3109716"
+    }
+  },
+  {
+    "name": "Everybody Hates Me",
+    "link": "https://music.163.com/song?id=544247523",
+    "duration": "03:44",
+    "artists": [
+      {
+        "name": "The Chainsmokers",
+        "link": "https://music.163.com/artist?id=893484"
+      }
+    ],
+    "album": {
+      "name": "Everybody Hates Me",
+      "link": "https://music.163.com/album?id=37767390"
+    }
+  },
+  {
+    "name": "Enemy",
+    "link": "https://music.163.com/song?id=28921642",
+    "duration": "02:56",
+    "artists": [
+      {
+        "name": "Sara Lumholdt",
+        "link": "https://music.163.com/artist?id=985427"
+      }
+    ],
+    "album": {
+      "name": "Enemy",
+      "link": "https://music.163.com/album?id=2943223"
+    }
+  },
+  {
+    "name": "SOS",
+    "link": "https://music.163.com/song?id=1357848241",
+    "duration": "02:37",
+    "artists": [
+      { "name": "Avicii", "link": "https://music.163.com/artist?id=45236" },
+      { "name": "Aloe Blacc", "link": "https://music.163.com/artist?id=47425" }
+    ],
+    "album": {
+      "name": "SOS",
+      "link": "https://music.163.com/album?id=78427520"
+    }
+  },
+  {
+    "name": "隧道口虫鸣夜",
+    "link": "https://music.163.com/song?id=1391335941",
+    "duration": "04:53",
+    "artists": [
+      {
+        "name": "动物园钉子户",
+        "link": "https://music.163.com/artist?id=12118540"
+      }
+    ],
+    "album": {
+      "name": "隧道口虫鸣夜",
+      "link": "https://music.163.com/album?id=81685753"
+    }
+  },
+  {
+    "name": "Intro",
+    "link": "https://music.163.com/song?id=4341314",
+    "duration": "02:07",
+    "artists": [
+      { "name": "The xx", "link": "https://music.163.com/artist?id=102035" }
+    ],
+    "album": { "name": "xx", "link": "https://music.163.com/album?id=438387" }
+  },
+  {
+    "name": "世间美好与你环环相扣",
+    "link": "https://music.163.com/song?id=1363948882",
+    "duration": "03:11",
+    "artists": [
+      { "name": "柏松", "link": "https://music.163.com/artist?id=31876221" }
+    ],
+    "album": {
+      "name": "听闻余生",
+      "link": "https://music.163.com/album?id=78938226"
+    }
+  },
+  {
+    "name": "Fatrik,Epiik-wong土嗨（王佳电音）（KidWu remix）",
+    "link": "https://music.163.com/song?id=1394731586",
+    "duration": "03:06",
+    "artists": [
+      { "name": "KidWu", "link": "https://music.163.com/artist?id=12465391" }
+    ],
+    "album": {
+      "name": "wong土嗨 - （王佳电音）",
+      "link": "https://music.163.com/album?id=82086952"
+    }
+  },
+  {
+    "name": "Leave the lights on (Stoto remix)",
+    "link": "https://music.163.com/song?id=33291727",
+    "duration": "05:21",
+    "artists": [
+      { "name": "Meiko", "link": "https://music.163.com/artist?id=66357" }
+    ],
+    "album": {
+      "name": "Club Sound Summer 2015",
+      "link": "https://music.163.com/album?id=3197268"
+    }
+  },
+  {
+    "name": "#SELFIE (Instrumental Mix)",
+    "link": "https://music.163.com/song?id=28690875",
+    "duration": "03:03",
+    "artists": [
+      {
+        "name": "The Chainsmokers",
+        "link": "https://music.163.com/artist?id=893484"
+      }
+    ],
+    "album": {
+      "name": "#SELFIE",
+      "link": "https://music.163.com/album?id=2759514"
+    }
+  }
+]

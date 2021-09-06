@@ -1,0 +1,25 @@
+{
+  "name": "music-daily-recommendation",
+  "version": "1.0.0",
+  "description": "",
+  "license": "MIT",
+  "scripts": {
+    "prettier": "npx prettier ./{client,server,db}/**/*.{js,json} --write",
+    "build": "go build -o ./bin/music-taste-recommend.out server/server.go"
+  },
+  "gitHooks": {
+    "pre-commit": "lint-staged"
+  },
+  "lint-staged": {
+    "*.{js,jsx,ts,tsx,json}": [
+      "prettier --write"
+    ]
+  },
+  "devDependencies": {
+    "lint-staged": "^10.0.3",
+    "yorkie": "^2.0.0"
+  },
+  "dependencies": {
+    "puppeteer": "^10.2.0"
+  }
+}

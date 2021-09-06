@@ -1,0 +1,397 @@
+[
+  {
+    "name": "We Are the Young",
+    "link": "https://music.163.com/song?id=1401526936",
+    "duration": "02:56",
+    "artists": [
+      { "name": "Addal", "link": "https://music.163.com/artist?id=427686" },
+      { "name": "Henri Pfr", "link": "https://music.163.com/artist?id=1135286" }
+    ],
+    "album": {
+      "name": "We Are the Young",
+      "link": "https://music.163.com/album?id=83053492"
+    }
+  },
+  {
+    "name": "Envoy",
+    "link": "https://music.163.com/song?id=1466337286",
+    "duration": "03:30",
+    "artists": [
+      { "name": "Andreas B.", "link": "https://music.163.com/artist?id=299713" }
+    ],
+    "album": {
+      "name": "Envoy",
+      "link": "https://music.163.com/album?id=93112143"
+    }
+  },
+  {
+    "name": "Summer Air",
+    "link": "https://music.163.com/song?id=1368193666",
+    "duration": "03:21",
+    "artists": [
+      { "name": "Hardwell", "link": "https://music.163.com/artist?id=34994" },
+      {
+        "name": "Trevor Guthrie",
+        "link": "https://music.163.com/artist?id=860078"
+      }
+    ],
+    "album": {
+      "name": "Summer Air",
+      "link": "https://music.163.com/album?id=79439233"
+    }
+  },
+  {
+    "name": "Inside You - (日剧《丑闻专门律师QUEEN》片头曲:ドラマ『スキャンダル専門弁護士 QUEEN』オープニングテーマ)",
+    "link": "https://music.163.com/song?id=1345488418",
+    "duration": "03:40",
+    "artists": [
+      { "name": "milet", "link": "https://music.163.com/artist?id=31464106" }
+    ],
+    "album": {
+      "name": "inside you",
+      "link": "https://music.163.com/album?id=75771135"
+    }
+  },
+  {
+    "name": "Away From Attack (Original Mix)",
+    "link": "https://music.163.com/song?id=29418052",
+    "duration": "05:58",
+    "artists": [
+      { "name": "Raimon", "link": "https://music.163.com/artist?id=131416" }
+    ],
+    "album": {
+      "name": "Away From Attack",
+      "link": "https://music.163.com/album?id=3021008"
+    }
+  },
+  {
+    "name": "Curious (feat. Noctilucent)",
+    "link": "https://music.163.com/song?id=39956005",
+    "duration": "04:24",
+    "artists": [
+      { "name": "Kozoro", "link": "https://music.163.com/artist?id=1050567" },
+      {
+        "name": "Noctilucent",
+        "link": "https://music.163.com/artist?id=1150036"
+      }
+    ],
+    "album": {
+      "name": "Curious",
+      "link": "https://music.163.com/album?id=3434269"
+    }
+  },
+  {
+    "name": "魔法 - (TV动画《约定的梦幻岛》第二季片尾曲)",
+    "link": "https://music.163.com/song?id=1818015329",
+    "duration": "03:52",
+    "artists": [
+      { "name": "Myuk", "link": "https://music.163.com/artist?id=46339382" }
+    ],
+    "album": {
+      "name": "魔法",
+      "link": "https://music.163.com/album?id=122625501"
+    }
+  },
+  {
+    "name": "Lost Together (Entis Remix)",
+    "link": "https://music.163.com/song?id=401382170",
+    "duration": "08:23",
+    "artists": [
+      {
+        "name": "Stan Seba",
+        "link": "https://music.163.com/artist?id=1104091"
+      },
+      { "name": "Entis", "link": "https://music.163.com/artist?id=11992151" }
+    ],
+    "album": {
+      "name": "Lost Together",
+      "link": "https://music.163.com/album?id=36303222"
+    }
+  },
+  {
+    "name": "Plenitude (Original Mix)",
+    "link": "https://music.163.com/song?id=32450203",
+    "duration": "07:56",
+    "artists": [
+      { "name": "SoundLift", "link": "https://music.163.com/artist?id=44015" }
+    ],
+    "album": {
+      "name": "Plenitude",
+      "link": "https://music.163.com/album?id=3161189"
+    }
+  },
+  {
+    "name": "巣立ちの歌 - (TV动画《奇蛋物语》片头曲)",
+    "link": "https://music.163.com/song?id=1815162101",
+    "duration": "03:17",
+    "artists": [
+      {
+        "name": "アネモネリア",
+        "link": "https://music.163.com/artist?id=46651126"
+      }
+    ],
+    "album": {
+      "name": "巣立ちの歌 / Life is サイダー",
+      "link": "https://music.163.com/album?id=122161848"
+    }
+  },
+  {
+    "name": "China-Z",
+    "link": "https://music.163.com/song?id=1428179775",
+    "duration": "03:31",
+    "artists": [
+      { "name": "Z-HEN", "link": "https://music.163.com/artist?id=34468999" }
+    ],
+    "album": {
+      "name": "China-Z",
+      "link": "https://music.163.com/album?id=86209978"
+    }
+  },
+  {
+    "name": "Wild Ones (feat. Ollie Wride)",
+    "link": "https://music.163.com/song?id=411907930",
+    "duration": "04:28",
+    "artists": [
+      { "name": "FM-84", "link": "https://music.163.com/artist?id=12046467" }
+    ],
+    "album": {
+      "name": "Atlas",
+      "link": "https://music.163.com/album?id=34686652"
+    }
+  },
+  {
+    "name": "How I Feel ",
+    "link": "https://music.163.com/song?id=409647313",
+    "duration": "04:13",
+    "artists": [
+      { "name": "Ascend", "link": "https://music.163.com/artist?id=357260" }
+    ],
+    "album": {
+      "name": "How I Feel",
+      "link": "https://music.163.com/album?id=34613120"
+    }
+  },
+  {
+    "name": "Lost Song",
+    "link": "https://music.163.com/song?id=479423003",
+    "duration": "08:08",
+    "artists": [
+      {
+        "name": "Roald Velden",
+        "link": "https://music.163.com/artist?id=178498"
+      }
+    ],
+    "album": {
+      "name": "Lost Song",
+      "link": "https://music.163.com/album?id=35543399"
+    }
+  },
+  {
+    "name": "Oceans Brawl",
+    "link": "https://music.163.com/song?id=34228361",
+    "duration": "05:09",
+    "artists": [
+      {
+        "name": "Coeur de Pirate",
+        "link": "https://music.163.com/artist?id=50899"
+      }
+    ],
+    "album": {
+      "name": "Roses (Deluxe)",
+      "link": "https://music.163.com/album?id=3275671"
+    }
+  },
+  {
+    "name": "Jason (feat. Nikki Flores)",
+    "link": "https://music.163.com/song?id=426027089",
+    "duration": "05:31",
+    "artists": [
+      {
+        "name": "The Midnight",
+        "link": "https://music.163.com/artist?id=12023492"
+      },
+      {
+        "name": "Nikki Flores",
+        "link": "https://music.163.com/artist?id=70141"
+      }
+    ],
+    "album": {
+      "name": "Endless Summer",
+      "link": "https://music.163.com/album?id=34826028"
+    }
+  },
+  {
+    "name": "As Far As the Eye Can See",
+    "link": "https://music.163.com/song?id=16468505",
+    "duration": "06:45",
+    "artists": [
+      {
+        "name": "As the Stars Fall",
+        "link": "https://music.163.com/artist?id=86496"
+      }
+    ],
+    "album": {
+      "name": "Redux",
+      "link": "https://music.163.com/album?id=1519206"
+    }
+  },
+  {
+    "name": "Always Afternoon",
+    "link": "https://music.163.com/song?id=1469327796",
+    "duration": "02:41",
+    "artists": [
+      { "name": "Ivoris", "link": "https://music.163.com/artist?id=29403986" }
+    ],
+    "album": {
+      "name": "Always Afternoon",
+      "link": "https://music.163.com/album?id=93660342"
+    }
+  },
+  {
+    "name": "Familiär",
+    "link": "https://music.163.com/song?id=436487081",
+    "duration": "03:55",
+    "artists": [
+      { "name": "Agnes Obel", "link": "https://music.163.com/artist?id=48093" }
+    ],
+    "album": {
+      "name": "Citizen of Glass",
+      "link": "https://music.163.com/album?id=34887007"
+    }
+  },
+  {
+    "name": "sHE's brOKen",
+    "link": "https://music.163.com/song?id=468878432",
+    "duration": "02:41",
+    "artists": [
+      {
+        "name": "Billie Eilish",
+        "link": "https://music.163.com/artist?id=11972054"
+      }
+    ],
+    "album": {
+      "name": "sHE's brOKen",
+      "link": "https://music.163.com/album?id=35326120"
+    }
+  },
+  {
+    "name": "Doin' Time",
+    "link": "https://music.163.com/song?id=1387549434",
+    "duration": "03:22",
+    "artists": [
+      {
+        "name": "Lana Del Rey",
+        "link": "https://music.163.com/artist?id=66212"
+      }
+    ],
+    "album": {
+      "name": "Norman ****ing Rockwell!",
+      "link": "https://music.163.com/album?id=81096083"
+    }
+  },
+  {
+    "name": "Taijin Kyofusho",
+    "link": "https://music.163.com/song?id=19278445",
+    "duration": "11:00",
+    "artists": [
+      {
+        "name": "The Evpatoria Report",
+        "link": "https://music.163.com/artist?id=44315"
+      }
+    ],
+    "album": {
+      "name": "Golevka",
+      "link": "https://music.163.com/album?id=1768904"
+    }
+  },
+  {
+    "name": "Circles",
+    "link": "https://music.163.com/song?id=27689802",
+    "duration": "03:49",
+    "artists": [
+      { "name": "Thessa", "link": "https://music.163.com/artist?id=792551" }
+    ],
+    "album": {
+      "name": "Infinite Progress [Post Rock / Ambient]",
+      "link": "https://music.163.com/album?id=2660246"
+    }
+  },
+  {
+    "name": "Fresh Snow",
+    "link": "https://music.163.com/song?id=1710835",
+    "duration": "05:24",
+    "artists": [
+      {
+        "name": "Moonlit Sailor",
+        "link": "https://music.163.com/artist?id=38912"
+      }
+    ],
+    "album": {
+      "name": "So Close To Life",
+      "link": "https://music.163.com/album?id=173323"
+    }
+  },
+  {
+    "name": "Here",
+    "link": "https://music.163.com/song?id=4894361",
+    "duration": "05:12",
+    "artists": [
+      {
+        "name": "Haruka Nakamura",
+        "link": "https://music.163.com/artist?id=160075"
+      }
+    ],
+    "album": {
+      "name": "Into The Mellow City",
+      "link": "https://music.163.com/album?id=491215"
+    }
+  },
+  {
+    "name": "Will Noise",
+    "link": "https://music.163.com/song?id=1056941",
+    "duration": "06:14",
+    "artists": [
+      {
+        "name": "A New Silent Corporation",
+        "link": "https://music.163.com/artist?id=28434"
+      }
+    ],
+    "album": {
+      "name": "Everything Is Exactly As It Seems",
+      "link": "https://music.163.com/album?id=110319"
+    }
+  },
+  {
+    "name": "Lonely Nights",
+    "link": "https://music.163.com/song?id=28347788",
+    "duration": "05:00",
+    "artists": [
+      {
+        "name": "Timecop1983",
+        "link": "https://music.163.com/artist?id=954496"
+      }
+    ],
+    "album": {
+      "name": "Synthetic Romance EP",
+      "link": "https://music.163.com/album?id=2778145"
+    }
+  },
+  {
+    "name": "Typo",
+    "link": "https://music.163.com/song?id=1409271942",
+    "duration": "02:58",
+    "artists": [
+      {
+        "name": "Discrete",
+        "link": "https://music.163.com/artist?id=31215441"
+      },
+      { "name": "Sistek", "link": "https://music.163.com/artist?id=12765268" },
+      { "name": "TUDOR", "link": "https://music.163.com/artist?id=12355078" },
+      { "name": "Voss", "link": "https://music.163.com/artist?id=244172" }
+    ],
+    "album": {
+      "name": "Typo",
+      "link": "https://music.163.com/album?id=84067871"
+    }
+  }
+]

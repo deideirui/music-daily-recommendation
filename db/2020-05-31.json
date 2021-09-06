@@ -1,0 +1,449 @@
+[
+  {
+    "name": "Devil You Don't",
+    "link": "https://music.163.com/song?id=1396101000",
+    "duration": "03:06",
+    "artists": [
+      { "name": "CXLOE", "link": "https://music.163.com/artist?id=12946512" }
+    ],
+    "album": {
+      "name": "Devil You Don't",
+      "link": "https://music.163.com/album?id=82282720"
+    }
+  },
+  {
+    "name": "Be With You",
+    "link": "https://music.163.com/song?id=16375093",
+    "duration": "03:51",
+    "artists": [
+      { "name": "Akon", "link": "https://music.163.com/artist?id=27595" }
+    ],
+    "album": {
+      "name": "Freedom",
+      "link": "https://music.163.com/album?id=1510338"
+    }
+  },
+  {
+    "name": "PSYCHO",
+    "link": "https://music.163.com/song?id=1396930659",
+    "duration": "03:34",
+    "artists": [
+      { "name": "AViVA", "link": "https://music.163.com/artist?id=12074178" }
+    ],
+    "album": {
+      "name": "PSYCHO",
+      "link": "https://music.163.com/album?id=82407923"
+    }
+  },
+  {
+    "name": "Oslo Novelist",
+    "link": "https://music.163.com/song?id=17908464",
+    "duration": "03:51",
+    "artists": [
+      {
+        "name": "Grand Archives",
+        "link": "https://music.163.com/artist?id=33864"
+      }
+    ],
+    "album": {
+      "name": "Keep In Mind Frankenstein",
+      "link": "https://music.163.com/album?id=1647433"
+    }
+  },
+  {
+    "name": "You Are The Reason (Duet Version)",
+    "link": "https://music.163.com/song?id=536545826",
+    "duration": "03:10",
+    "artists": [
+      {
+        "name": "Calum Scott",
+        "link": "https://music.163.com/artist?id=12008165"
+      },
+      { "name": "Leona Lewis", "link": "https://music.163.com/artist?id=64150" }
+    ],
+    "album": {
+      "name": "You Are The Reason (Duet Version)",
+      "link": "https://music.163.com/album?id=37572578"
+    }
+  },
+  {
+    "name": "Where Is The Love? (Soule Rework)",
+    "link": "https://music.163.com/song?id=34144434",
+    "duration": "05:18",
+    "artists": [
+      {
+        "name": "Clément Bcx",
+        "link": "https://music.163.com/artist?id=1078228"
+      },
+      {
+        "name": "Black Eyed Peas",
+        "link": "https://music.163.com/artist?id=88146"
+      },
+      {
+        "name": "Ellena Soule",
+        "link": "https://music.163.com/artist?id=1081902"
+      },
+      { "name": "Soule", "link": "https://music.163.com/artist?id=32964452" }
+    ],
+    "album": {
+      "name": "Where Is The Love",
+      "link": "https://music.163.com/album?id=3271445"
+    }
+  },
+  {
+    "name": "Saved My Life",
+    "link": "https://music.163.com/song?id=1445242727",
+    "duration": "03:55",
+    "artists": [
+      { "name": "Sia", "link": "https://music.163.com/artist?id=74625" }
+    ],
+    "album": {
+      "name": "Saved My Life",
+      "link": "https://music.163.com/album?id=88892361"
+    }
+  },
+  {
+    "name": "Double Down",
+    "link": "https://music.163.com/song?id=544056874",
+    "duration": "04:22",
+    "artists": [
+      {
+        "name": "Dave Thomas Junior",
+        "link": "https://music.163.com/artist?id=32233"
+      }
+    ],
+    "album": {
+      "name": "Double Down",
+      "link": "https://music.163.com/album?id=37763783"
+    }
+  },
+  {
+    "name": "Eye of The Storm",
+    "link": "https://music.163.com/song?id=28381271",
+    "duration": "04:05",
+    "artists": [
+      {
+        "name": "Gareth Emery",
+        "link": "https://music.163.com/artist?id=34318"
+      },
+      {
+        "name": "Gavin Beach",
+        "link": "https://music.163.com/artist?id=13204538"
+      }
+    ],
+    "album": {
+      "name": "Drive",
+      "link": "https://music.163.com/album?id=2774228"
+    }
+  },
+  {
+    "name": "The Sweet Escape",
+    "link": "https://music.163.com/song?id=18078178",
+    "duration": "04:06",
+    "artists": [
+      {
+        "name": "Gwen Stefani",
+        "link": "https://music.163.com/artist?id=57958"
+      },
+      { "name": "Akon", "link": "https://music.163.com/artist?id=27595" }
+    ],
+    "album": {
+      "name": "The Sweet Escape (International Version)",
+      "link": "https://music.163.com/album?id=1661436"
+    }
+  },
+  {
+    "name": "Quit You (ToWonder Remix)",
+    "link": "https://music.163.com/song?id=467595265",
+    "duration": "03:06",
+    "artists": [
+      { "name": "Tinashe", "link": "https://music.163.com/artist?id=45221" },
+      {
+        "name": "ToWonder",
+        "link": "https://music.163.com/artist?id=12073261"
+      },
+      { "name": "Lost Kings", "link": "https://music.163.com/artist?id=847225" }
+    ],
+    "album": {
+      "name": "Quit You (Remixes)",
+      "link": "https://music.163.com/album?id=35304081"
+    }
+  },
+  {
+    "name": "Forever",
+    "link": "https://music.163.com/song?id=1365843324",
+    "duration": "03:30",
+    "artists": [
+      {
+        "name": "Lewis Capaldi",
+        "link": "https://music.163.com/artist?id=12474140"
+      }
+    ],
+    "album": {
+      "name": "Divinely Uninspired To A Hellish Extent",
+      "link": "https://music.163.com/album?id=79186238"
+    }
+  },
+  {
+    "name": "Sweetest Song",
+    "link": "https://music.163.com/song?id=29482940",
+    "duration": "03:27",
+    "artists": [
+      { "name": "Jessie Ware", "link": "https://music.163.com/artist?id=62826" }
+    ],
+    "album": {
+      "name": "Tough Love",
+      "link": "https://music.163.com/album?id=2998416"
+    }
+  },
+  {
+    "name": "Your Firefly (Georgia Power and Toyota Advert)",
+    "link": "https://music.163.com/song?id=28468152",
+    "duration": "03:12",
+    "artists": [
+      { "name": "Ben Cocks", "link": "https://music.163.com/artist?id=226739" }
+    ],
+    "album": {
+      "name": "...As Heard In",
+      "link": "https://music.163.com/album?id=2805019"
+    }
+  },
+  {
+    "name": "Dancing On Glass",
+    "link": "https://music.163.com/song?id=401633585",
+    "duration": "04:06",
+    "artists": [
+      { "name": "St. Lucia", "link": "https://music.163.com/artist?id=87837" }
+    ],
+    "album": {
+      "name": "Matter",
+      "link": "https://music.163.com/album?id=3427107"
+    }
+  },
+  {
+    "name": "メリゴ",
+    "link": "https://music.163.com/song?id=1331383692",
+    "duration": "04:21",
+    "artists": [
+      {
+        "name": "サイプレス上野とロベルト吉野",
+        "link": "https://music.163.com/artist?id=21344"
+      },
+      { "name": "SKY-HI", "link": "https://music.163.com/artist?id=201114" }
+    ],
+    "album": {
+      "name": "大海賊",
+      "link": "https://music.163.com/album?id=74780990"
+    }
+  },
+  {
+    "name": "En attendant ses pas",
+    "link": "https://music.163.com/song?id=16869214",
+    "duration": "04:06",
+    "artists": [
+      { "name": "Celine Dion", "link": "https://music.163.com/artist?id=50893" }
+    ],
+    "album": {
+      "name": "S'il Suffisait D'aimer",
+      "link": "https://music.163.com/album?id=1553849"
+    }
+  },
+  {
+    "name": "The Other (Madison Mars Remix)",
+    "link": "https://music.163.com/song?id=466332798",
+    "duration": "03:27",
+    "artists": [
+      { "name": "Lauv", "link": "https://music.163.com/artist?id=1057226" },
+      {
+        "name": "Madison Mars",
+        "link": "https://music.163.com/artist?id=1178176"
+      }
+    ],
+    "album": {
+      "name": "The Other (Remixes)",
+      "link": "https://music.163.com/album?id=35293231"
+    }
+  },
+  {
+    "name": "청춘연가 - (青春恋歌)",
+    "link": "https://music.163.com/song?id=29794334",
+    "duration": "04:05",
+    "artists": [
+      { "name": "Nell", "link": "https://music.163.com/artist?id=127311" }
+    ],
+    "album": {
+      "name": "청춘연가",
+      "link": "https://music.163.com/album?id=3080167"
+    }
+  },
+  {
+    "name": "How Come You're Not Here",
+    "link": "https://music.163.com/song?id=21373647",
+    "duration": "03:12",
+    "artists": [
+      { "name": "P!nk", "link": "https://music.163.com/artist?id=70821" }
+    ],
+    "album": {
+      "name": "The Truth About Love",
+      "link": "https://music.163.com/album?id=1973200"
+    }
+  },
+  {
+    "name": "Pulaski at Night",
+    "link": "https://music.163.com/song?id=27965171",
+    "duration": "04:49",
+    "artists": [
+      { "name": "Andrew Bird", "link": "https://music.163.com/artist?id=27601" }
+    ],
+    "album": {
+      "name": "I Want to See Pulaski at Night",
+      "link": "https://music.163.com/album?id=2702025"
+    }
+  },
+  {
+    "name": "Laxed (Siren Beat)",
+    "link": "https://music.163.com/song?id=1445228560",
+    "duration": "03:22",
+    "artists": [
+      {
+        "name": "Jawsh 685",
+        "link": "https://music.163.com/artist?id=34967130"
+      }
+    ],
+    "album": {
+      "name": "Laxed (Siren Beat)",
+      "link": "https://music.163.com/album?id=88889454"
+    }
+  },
+  {
+    "name": "Say So",
+    "link": "https://music.163.com/song?id=1444606082",
+    "duration": "03:26",
+    "artists": [
+      { "name": "Doja Cat", "link": "https://music.163.com/artist?id=911131" },
+      { "name": "Nicki Minaj", "link": "https://music.163.com/artist?id=70183" }
+    ],
+    "album": {
+      "name": "Say So",
+      "link": "https://music.163.com/album?id=88759159"
+    }
+  },
+  {
+    "name": "I Wish",
+    "link": "https://music.163.com/song?id=27676480",
+    "duration": "03:31",
+    "artists": [
+      { "name": "Cher Lloyd", "link": "https://music.163.com/artist?id=53041" },
+      { "name": "T.I.", "link": "https://music.163.com/artist?id=44267" }
+    ],
+    "album": {
+      "name": "I Wish",
+      "link": "https://music.163.com/album?id=2658050"
+    }
+  },
+  {
+    "name": "Happy Together",
+    "link": "https://music.163.com/song?id=1442576412",
+    "duration": "02:41",
+    "artists": [
+      {
+        "name": "Dimitri Vegas & Like Mike",
+        "link": "https://music.163.com/artist?id=791298"
+      },
+      {
+        "name": "Bassjackers",
+        "link": "https://music.163.com/artist?id=268447"
+      }
+    ],
+    "album": {
+      "name": "Happy Together",
+      "link": "https://music.163.com/album?id=88371479"
+    }
+  },
+  {
+    "name": "Malibu",
+    "link": "https://music.163.com/song?id=1441357385",
+    "duration": "03:11",
+    "artists": [
+      { "name": "Kim Petras", "link": "https://music.163.com/artist?id=63935" }
+    ],
+    "album": {
+      "name": "Malibu",
+      "link": "https://music.163.com/album?id=88160908"
+    }
+  },
+  {
+    "name": "Long Day",
+    "link": "https://music.163.com/song?id=1445162447",
+    "duration": "03:25",
+    "artists": [
+      {
+        "name": "Yung Pinch",
+        "link": "https://music.163.com/artist?id=12676340"
+      }
+    ],
+    "album": {
+      "name": "Long Day",
+      "link": "https://music.163.com/album?id=88873436"
+    }
+  },
+  {
+    "name": "Broken",
+    "link": "https://music.163.com/song?id=1402845090",
+    "duration": "05:05",
+    "artists": [
+      {
+        "name": "Anson Seabra",
+        "link": "https://music.163.com/artist?id=14470054"
+      }
+    ],
+    "album": {
+      "name": "Broken",
+      "link": "https://music.163.com/album?id=83219227"
+    }
+  },
+  {
+    "name": "Top Of The World",
+    "link": "https://music.163.com/song?id=547035511",
+    "duration": "03:06",
+    "artists": [
+      { "name": "Andy Moor", "link": "https://music.163.com/artist?id=28854" },
+      { "name": "Lange", "link": "https://music.163.com/artist?id=38687" },
+      { "name": "Fenja", "link": "https://music.163.com/artist?id=207553" }
+    ],
+    "album": {
+      "name": "A State Of Trance Radio Top 20 - September / October 2014 (Including Classic Bonus Track)",
+      "link": "https://music.163.com/album?id=38002498"
+    }
+  },
+  {
+    "name": "Blinded By The Night",
+    "link": "https://music.163.com/song?id=1382720616",
+    "duration": "05:00",
+    "artists": [
+      {
+        "name": "Molly Nilsson",
+        "link": "https://music.163.com/artist?id=78051"
+      }
+    ],
+    "album": {
+      "name": "2020",
+      "link": "https://music.163.com/album?id=80827063"
+    }
+  },
+  {
+    "name": "Someday",
+    "link": "https://music.163.com/song?id=479029118",
+    "duration": "03:08",
+    "artists": [
+      {
+        "name": "Tommy Ljungberg",
+        "link": "https://music.163.com/artist?id=12431053"
+      }
+    ],
+    "album": {
+      "name": "Someday",
+      "link": "https://music.163.com/album?id=35527090"
+    }
+  }
+]

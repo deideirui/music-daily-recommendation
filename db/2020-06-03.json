@@ -1,0 +1,427 @@
+[
+  {
+    "name": "The Butterfly Effect",
+    "link": "https://music.163.com/song?id=1362813974",
+    "duration": "04:15",
+    "artists": [
+      {
+        "name": "Before You Exit",
+        "link": "https://music.163.com/artist?id=88867"
+      }
+    ],
+    "album": {
+      "name": "The Butterfly Effect",
+      "link": "https://music.163.com/album?id=78896542"
+    }
+  },
+  {
+    "name": "Call My Name",
+    "link": "https://music.163.com/song?id=550616720",
+    "duration": "05:14",
+    "artists": [
+      { "name": "Favela", "link": "https://music.163.com/artist?id=475114" }
+    ],
+    "album": {
+      "name": "Call My Name",
+      "link": "https://music.163.com/album?id=38099324"
+    }
+  },
+  {
+    "name": "Shine",
+    "link": "https://music.163.com/song?id=411921740",
+    "duration": "03:20",
+    "artists": [
+      { "name": "Canvai", "link": "https://music.163.com/artist?id=12046231" }
+    ],
+    "album": {
+      "name": "Shine ",
+      "link": "https://music.163.com/album?id=34685567"
+    }
+  },
+  {
+    "name": "Just To Hear (Extended Mix)",
+    "link": "https://music.163.com/song?id=476630949",
+    "duration": "06:49",
+    "artists": [
+      {
+        "name": "Denis Kenzo",
+        "link": "https://music.163.com/artist?id=263670"
+      },
+      { "name": "Sveta B.", "link": "https://music.163.com/artist?id=839779" }
+    ],
+    "album": {
+      "name": "Just to Hear",
+      "link": "https://music.163.com/album?id=35456395"
+    }
+  },
+  {
+    "name": "Yellow",
+    "link": "https://music.163.com/song?id=5162474",
+    "duration": "04:29",
+    "artists": [
+      { "name": "Coldplay", "link": "https://music.163.com/artist?id=89365" }
+    ],
+    "album": {
+      "name": "Top of the Pops 2000",
+      "link": "https://music.163.com/album?id=506795"
+    }
+  },
+  {
+    "name": "Nightlife",
+    "link": "https://music.163.com/song?id=32317089",
+    "duration": "05:13",
+    "artists": [
+      {
+        "name": "Axel Flóvent",
+        "link": "https://music.163.com/artist?id=860116"
+      }
+    ],
+    "album": {
+      "name": "Forest Fires",
+      "link": "https://music.163.com/album?id=3159013"
+    }
+  },
+  {
+    "name": "On My Own (From \"Tokyo Ghoul\")",
+    "link": "https://music.163.com/song?id=1316658816",
+    "duration": "02:27",
+    "artists": [
+      {
+        "name": "Shibuya Sunrise",
+        "link": "https://music.163.com/artist?id=29283376"
+      }
+    ],
+    "album": {
+      "name": "Tokyo Phantoms (A Collection of Songs from ",
+      "link": "https://music.163.com/album?id=73841213"
+    }
+  },
+  {
+    "name": "The Most Beautiful Thing",
+    "link": "https://music.163.com/song?id=1437149744",
+    "duration": "03:55",
+    "artists": [
+      {
+        "name": "Bruno Major",
+        "link": "https://music.163.com/artist?id=12250109"
+      }
+    ],
+    "album": {
+      "name": "The Most Beautiful Thing",
+      "link": "https://music.163.com/album?id=87537071"
+    }
+  },
+  {
+    "name": "When Your Eyes Say It",
+    "link": "https://music.163.com/song?id=20515779",
+    "duration": "04:06",
+    "artists": [
+      {
+        "name": "Britney Spears",
+        "link": "https://music.163.com/artist?id=48432"
+      }
+    ],
+    "album": {
+      "name": "Oops!... I Did It Again",
+      "link": "https://music.163.com/album?id=1910038"
+    }
+  },
+  {
+    "name": "my sweetest one",
+    "link": "https://music.163.com/song?id=29794281",
+    "duration": "04:39",
+    "artists": [
+      { "name": "Aimer", "link": "https://music.163.com/artist?id=16152" }
+    ],
+    "album": {
+      "name": "broKen NIGHT / holLow wORlD",
+      "link": "https://music.163.com/album?id=3080148"
+    }
+  },
+  {
+    "name": "Moving Mountains",
+    "link": "https://music.163.com/song?id=1446718976",
+    "duration": "04:01",
+    "artists": [
+      {
+        "name": "Approaching Nirvana",
+        "link": "https://music.163.com/artist?id=86884"
+      }
+    ],
+    "album": {
+      "name": "Moving Mountains",
+      "link": "https://music.163.com/album?id=89191817"
+    }
+  },
+  {
+    "name": "She & King",
+    "link": "https://music.163.com/song?id=1356981584",
+    "duration": "03:20",
+    "artists": [
+      { "name": "MT1990", "link": "https://music.163.com/artist?id=12395708" },
+      { "name": "王俊翕", "link": "https://music.163.com/artist?id=12495112" }
+    ],
+    "album": {
+      "name": "She & King",
+      "link": "https://music.163.com/album?id=78350082"
+    }
+  },
+  {
+    "name": "Worry",
+    "link": "https://music.163.com/song?id=28822038",
+    "duration": "04:01",
+    "artists": [
+      {
+        "name": "Jack Garratt",
+        "link": "https://music.163.com/artist?id=964139"
+      }
+    ],
+    "album": {
+      "name": "Remnants",
+      "link": "https://music.163.com/album?id=2898789"
+    }
+  },
+  {
+    "name": "Today Is the Day",
+    "link": "https://music.163.com/song?id=4437106",
+    "duration": "05:34",
+    "artists": [
+      {
+        "name": "Yo La Tengo",
+        "link": "https://music.163.com/artist?id=105645"
+      }
+    ],
+    "album": {
+      "name": "Summer Sun",
+      "link": "https://music.163.com/album?id=447811"
+    }
+  },
+  {
+    "name": "Hello My Love",
+    "link": "https://music.163.com/song?id=1338728670",
+    "duration": "03:34",
+    "artists": [
+      { "name": "Westlife", "link": "https://music.163.com/artist?id=45839" }
+    ],
+    "album": {
+      "name": "Hello My Love",
+      "link": "https://music.163.com/album?id=75119241"
+    }
+  },
+  {
+    "name": "Boom Clap",
+    "link": "https://music.163.com/song?id=1440571286",
+    "duration": "02:49",
+    "artists": [
+      { "name": "Charli XCX", "link": "https://music.163.com/artist?id=53092" }
+    ],
+    "album": {
+      "name": "2014 Pop Hits",
+      "link": "https://music.163.com/album?id=88010379"
+    }
+  },
+  {
+    "name": "Except For Us",
+    "link": "https://music.163.com/song?id=449818962",
+    "duration": "02:51",
+    "artists": [
+      {
+        "name": "Austin Mahone",
+        "link": "https://music.163.com/artist?id=29121"
+      }
+    ],
+    "album": {
+      "name": "For Me + You",
+      "link": "https://music.163.com/album?id=35093372"
+    }
+  },
+  {
+    "name": "Right Back",
+    "link": "https://music.163.com/song?id=4459621",
+    "duration": "05:56",
+    "artists": [
+      { "name": "Yuri Kane", "link": "https://music.163.com/artist?id=106369" }
+    ],
+    "album": {
+      "name": "Right Back",
+      "link": "https://music.163.com/album?id=450734"
+    }
+  },
+  {
+    "name": "Sky",
+    "link": "https://music.163.com/song?id=482988841",
+    "duration": "03:23",
+    "artists": [
+      {
+        "name": "Alan Walker",
+        "link": "https://music.163.com/artist?id=1045123"
+      },
+      {
+        "name": "Alex Skrindo",
+        "link": "https://music.163.com/artist?id=1046359"
+      }
+    ],
+    "album": {
+      "name": "Insomniac Records Presents: EDC Las Vegas 2017",
+      "link": "https://music.163.com/album?id=35589628"
+    }
+  },
+  {
+    "name": "无眠帝国",
+    "link": "https://music.163.com/song?id=474293322",
+    "duration": "05:13",
+    "artists": [
+      { "name": "聂禹", "link": "https://music.163.com/artist?id=4666" }
+    ],
+    "album": {
+      "name": "失常&动态 （Special Vision）特别发行版Bonus Track",
+      "link": "https://music.163.com/album?id=35427275"
+    }
+  },
+  {
+    "name": "百回目のキス",
+    "link": "https://music.163.com/song?id=28018262",
+    "duration": "04:44",
+    "artists": [
+      { "name": "supercell", "link": "https://music.163.com/artist?id=21397" }
+    ],
+    "album": {
+      "name": "ZIGAEXPERIENTIA",
+      "link": "https://music.163.com/album?id=2711370"
+    }
+  },
+  {
+    "name": "はじめましての気持ちを - (电影《辉夜大小姐想让我告白～天才们的恋爱头脑战～》插曲)",
+    "link": "https://music.163.com/song?id=1389088985",
+    "duration": "03:47",
+    "artists": [
+      { "name": "DAOKO", "link": "https://music.163.com/artist?id=855508" },
+      { "name": "神山羊", "link": "https://music.163.com/artist?id=12323265" }
+    ],
+    "album": {
+      "name": "はじめましての気持ちを",
+      "link": "https://music.163.com/album?id=81409328"
+    }
+  },
+  {
+    "name": "NEXUS",
+    "link": "https://music.163.com/song?id=1367333218",
+    "duration": "03:49",
+    "artists": [
+      { "name": "Laco", "link": "https://music.163.com/artist?id=32469869" }
+    ],
+    "album": {
+      "name": "プロメア ORIGINAL SOUNDTRACK",
+      "link": "https://music.163.com/album?id=79369276"
+    }
+  },
+  {
+    "name": "Chasing Satellites",
+    "link": "https://music.163.com/song?id=28661667",
+    "duration": "03:12",
+    "artists": [
+      { "name": "Thomas Fiss", "link": "https://music.163.com/artist?id=45235" }
+    ],
+    "album": {
+      "name": "Chasing Satellites",
+      "link": "https://music.163.com/album?id=2866286"
+    }
+  },
+  {
+    "name": "First Light",
+    "link": "https://music.163.com/song?id=415793049",
+    "duration": "04:25",
+    "artists": [
+      {
+        "name": "Dustin Tebbutt",
+        "link": "https://music.163.com/artist?id=840431"
+      }
+    ],
+    "album": {
+      "name": "First Light",
+      "link": "https://music.163.com/album?id=34721405"
+    }
+  },
+  {
+    "name": "Neverlands",
+    "link": "https://music.163.com/song?id=28392188",
+    "duration": "04:12",
+    "artists": [
+      {
+        "name": "Night Flowers",
+        "link": "https://music.163.com/artist?id=855087"
+      }
+    ],
+    "album": {
+      "name": "Night Flowers",
+      "link": "https://music.163.com/album?id=2781847"
+    }
+  },
+  {
+    "name": "Mi-e Dor",
+    "link": "https://music.163.com/song?id=26940207",
+    "duration": "04:08",
+    "artists": [
+      { "name": "DJ Project", "link": "https://music.163.com/artist?id=91079" },
+      { "name": "Giulia", "link": "https://music.163.com/artist?id=59153" }
+    ],
+    "album": {
+      "name": "Summer Hit Express",
+      "link": "https://music.163.com/album?id=2575391"
+    }
+  },
+  {
+    "name": "We Are Lucky People (Album Intro)",
+    "link": "https://music.163.com/song?id=27984324",
+    "duration": "02:43",
+    "artists": [
+      { "name": "Lange", "link": "https://music.163.com/artist?id=38687" }
+    ],
+    "album": {
+      "name": "We Are Lucky People",
+      "link": "https://music.163.com/album?id=2709054"
+    }
+  },
+  {
+    "name": "I Lost Myself Again",
+    "link": "https://music.163.com/song?id=489506502",
+    "duration": "03:10",
+    "artists": [
+      {
+        "name": "ｎｏｔｍｏｒｇn",
+        "link": "https://music.163.com/artist?id=12090275"
+      }
+    ],
+    "album": {
+      "name": "I Lost Myself Again",
+      "link": "https://music.163.com/album?id=35695949"
+    }
+  },
+  {
+    "name": "ハルカトオク",
+    "link": "https://music.163.com/song?id=536623510",
+    "duration": "02:23",
+    "artists": [
+      { "name": "saya", "link": "https://music.163.com/artist?id=13222558" }
+    ],
+    "album": {
+      "name": "The Girls Are Alright!",
+      "link": "https://music.163.com/album?id=37579109"
+    }
+  },
+  {
+    "name": "潮风のハーモニー",
+    "link": "https://music.163.com/song?id=806784",
+    "duration": "04:08",
+    "artists": [
+      {
+        "name": "白浜坂高校合唱部",
+        "link": "https://music.163.com/artist?id=725422"
+      }
+    ],
+    "album": {
+      "name": "潮風のハーモニー",
+      "link": "https://music.163.com/album?id=80045"
+    }
+  }
+]

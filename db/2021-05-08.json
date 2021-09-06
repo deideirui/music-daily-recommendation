@@ -1,0 +1,467 @@
+[
+  {
+    "name": "Better Days",
+    "link": "https://music.163.com/song?id=1405111187",
+    "duration": "03:07",
+    "artists": [
+      {
+        "name": "Arman Cekin",
+        "link": "https://music.163.com/artist?id=1132987"
+      },
+      { "name": "Faydee", "link": "https://music.163.com/artist?id=33624" },
+      { "name": "Karra", "link": "https://music.163.com/artist?id=1081582" }
+    ],
+    "album": {
+      "name": "Better Days",
+      "link": "https://music.163.com/album?id=83569827"
+    }
+  },
+  {
+    "name": "Drama",
+    "link": "https://music.163.com/song?id=1337130734",
+    "duration": "03:25",
+    "artists": [
+      { "name": "Hannie", "link": "https://music.163.com/artist?id=12073011" },
+      { "name": "HICARI", "link": "https://music.163.com/artist?id=13961629" },
+      {
+        "name": "Isaiah Dreads",
+        "link": "https://music.163.com/artist?id=12154223"
+      }
+    ],
+    "album": {
+      "name": "Drama",
+      "link": "https://music.163.com/album?id=75030910"
+    }
+  },
+  {
+    "name": "Back to the Start",
+    "link": "https://music.163.com/song?id=1337949941",
+    "duration": "03:13",
+    "artists": [
+      {
+        "name": "Michael Schulte",
+        "link": "https://music.163.com/artist?id=40222"
+      }
+    ],
+    "album": {
+      "name": "Back to the Start",
+      "link": "https://music.163.com/album?id=75071532"
+    }
+  },
+  {
+    "name": "About Love (From The Netflix Film “To All The Boys: P.S. I Still Love You”)",
+    "link": "https://music.163.com/song?id=1421433638",
+    "duration": "03:34",
+    "artists": [
+      { "name": "MARINA", "link": "https://music.163.com/artist?id=68932" }
+    ],
+    "album": {
+      "name": "About Love (From The Netflix Film “To All The Boys: P.S. I Still Love You”)",
+      "link": "https://music.163.com/album?id=85537620"
+    }
+  },
+  {
+    "name": "One",
+    "link": "https://music.163.com/song?id=1326037333",
+    "duration": "02:44",
+    "artists": [
+      {
+        "name": "Axel Johansson",
+        "link": "https://music.163.com/artist?id=12872604"
+      }
+    ],
+    "album": {
+      "name": "One",
+      "link": "https://music.163.com/album?id=74442476"
+    }
+  },
+  {
+    "name": "This is Us",
+    "link": "https://music.163.com/song?id=1423417557",
+    "duration": "03:25",
+    "artists": [
+      {
+        "name": "Jimmie Allen",
+        "link": "https://music.163.com/artist?id=30021162"
+      },
+      {
+        "name": "Noah Cyrus",
+        "link": "https://music.163.com/artist?id=12175271"
+      }
+    ],
+    "album": {
+      "name": "This is Us",
+      "link": "https://music.163.com/album?id=85738366"
+    }
+  },
+  {
+    "name": "Don't You Worry",
+    "link": "https://music.163.com/song?id=1373220138",
+    "duration": "02:52",
+    "artists": [
+      {
+        "name": "Hot Shade",
+        "link": "https://music.163.com/artist?id=12197226"
+      },
+      { "name": "Sibbyl", "link": "https://music.163.com/artist?id=13407780" },
+      {
+        "name": "Ten Times",
+        "link": "https://music.163.com/artist?id=31930131"
+      }
+    ],
+    "album": {
+      "name": "Don't You Worry",
+      "link": "https://music.163.com/album?id=79929189"
+    }
+  },
+  {
+    "name": "Love You Three 3000",
+    "link": "https://music.163.com/song?id=1393834238",
+    "duration": "03:04",
+    "artists": [
+      {
+        "name": "MushrooM（蘑菇兄弟）",
+        "link": "https://music.163.com/artist?id=12459208"
+      },
+      {
+        "name": "Neso Records",
+        "link": "https://music.163.com/artist?id=12649666"
+      }
+    ],
+    "album": {
+      "name": "爱你三千遍（伴奏）",
+      "link": "https://music.163.com/album?id=81872559"
+    }
+  },
+  {
+    "name": "Into The Fire (Original Mix)",
+    "link": "https://music.163.com/song?id=415793214",
+    "duration": "02:44",
+    "artists": [
+      { "name": "VINAI", "link": "https://music.163.com/artist?id=804422" },
+      { "name": "Anjulie", "link": "https://music.163.com/artist?id=46502" }
+    ],
+    "album": {
+      "name": "Into The Fire",
+      "link": "https://music.163.com/album?id=34720513"
+    }
+  },
+  {
+    "name": "We Are The Wild Ones (Original Mix)",
+    "link": "https://music.163.com/song?id=508968480",
+    "duration": "04:08",
+    "artists": [
+      { "name": "Nina", "link": "https://music.163.com/artist?id=149874" }
+    ],
+    "album": {
+      "name": "We Are The Wild Ones",
+      "link": "https://music.163.com/album?id=36415784"
+    }
+  },
+  {
+    "name": "Life",
+    "link": "https://music.163.com/song?id=28830410",
+    "duration": "03:24",
+    "artists": [
+      { "name": "Tobu", "link": "https://music.163.com/artist?id=964486" }
+    ],
+    "album": {
+      "name": "Life",
+      "link": "https://music.163.com/album?id=2901138"
+    }
+  },
+  {
+    "name": "Nobody",
+    "link": "https://music.163.com/song?id=1454282909",
+    "duration": "02:49",
+    "artists": [
+      { "name": "INNA", "link": "https://music.163.com/artist?id=60848" }
+    ],
+    "album": {
+      "name": "Nobody",
+      "link": "https://music.163.com/album?id=90625966"
+    }
+  },
+  {
+    "name": "All On Me",
+    "link": "https://music.163.com/song?id=1442453362",
+    "duration": "02:57",
+    "artists": [
+      {
+        "name": "Armin van Buuren",
+        "link": "https://music.163.com/artist?id=27621"
+      },
+      {
+        "name": "Brennan Heart",
+        "link": "https://music.163.com/artist?id=688203"
+      },
+      { "name": "Andreas Moe", "link": "https://music.163.com/artist?id=29207" }
+    ],
+    "album": {
+      "name": "All On Me",
+      "link": "https://music.163.com/album?id=88347760"
+    }
+  },
+  {
+    "name": "夜航星 (Night Voyager) - (动画片《我的三体之章北海传》尾曲)",
+    "link": "https://music.163.com/song?id=1431292823",
+    "duration": "05:03",
+    "artists": [
+      { "name": "不才", "link": "https://music.163.com/artist?id=961358" },
+      { "name": "三体宇宙", "link": "https://music.163.com/artist?id=34574994" }
+    ],
+    "album": {
+      "name": "我的三体之章北海传 原声音乐集",
+      "link": "https://music.163.com/album?id=86534956"
+    }
+  },
+  {
+    "name": "Dear My Liar",
+    "link": "https://music.163.com/song?id=1474392082",
+    "duration": "03:34",
+    "artists": [
+      { "name": "COP", "link": "https://music.163.com/artist?id=12002071" }
+    ],
+    "album": {
+      "name": "Dear My Liar",
+      "link": "https://music.163.com/album?id=94036493"
+    }
+  },
+  {
+    "name": "Bittersweet",
+    "link": "https://music.163.com/song?id=1473212760",
+    "duration": "02:35",
+    "artists": [
+      { "name": "渡星", "link": "https://music.163.com/artist?id=36458744" }
+    ],
+    "album": {
+      "name": "风坠落的时候会有声音吗",
+      "link": "https://music.163.com/album?id=94253356"
+    }
+  },
+  {
+    "name": "夢燈籠 (R7CKY 你的名字 Mix)",
+    "link": "https://music.163.com/song?id=446935665",
+    "duration": "03:48",
+    "artists": [
+      { "name": "R7CKY", "link": "https://music.163.com/artist?id=1044054" }
+    ],
+    "album": {
+      "name": "夢燈籠 (R7CKY 你的名字 Mix)",
+      "link": "https://music.163.com/album?id=35057029"
+    }
+  },
+  {
+    "name": "连备胎都不是",
+    "link": "https://music.163.com/song?id=1470583183",
+    "duration": "04:29",
+    "artists": [
+      {
+        "name": "Amelia Khor",
+        "link": "https://music.163.com/artist?id=34966235"
+      }
+    ],
+    "album": {
+      "name": "连备胎都不是",
+      "link": "https://music.163.com/album?id=93877392"
+    }
+  },
+  {
+    "name": "无论你多怪异我还是会喜欢你",
+    "link": "https://music.163.com/song?id=1416805411",
+    "duration": "02:07",
+    "artists": [
+      { "name": "昭酱", "link": "https://music.163.com/artist?id=33908403" }
+    ],
+    "album": {
+      "name": "刺客伍六七",
+      "link": "https://music.163.com/album?id=84821273"
+    }
+  },
+  {
+    "name": "恍然那时 - (《仙王的日常生活》片尾曲)",
+    "link": "https://music.163.com/song?id=1435506949",
+    "duration": "02:50",
+    "artists": [
+      { "name": "周梓琦", "link": "https://music.163.com/artist?id=13906571" },
+      { "name": "杨秉音", "link": "https://music.163.com/artist?id=12293867" }
+    ],
+    "album": {
+      "name": "仙王的日常生活",
+      "link": "https://music.163.com/album?id=87053501"
+    }
+  },
+  {
+    "name": "I Need You (Andreas B. remix)",
+    "link": "https://music.163.com/song?id=429769775",
+    "duration": "03:44",
+    "artists": [
+      {
+        "name": "Andreas B.",
+        "link": "https://music.163.com/artist?id=299713"
+      },
+      {
+        "name": "Charlotte Haining",
+        "link": "https://music.163.com/artist?id=1084251"
+      }
+    ],
+    "album": {
+      "name": "I Need You (Andreas B. remix)",
+      "link": "https://music.163.com/album?id=34874202"
+    }
+  },
+  {
+    "name": "That Feeling",
+    "link": "https://music.163.com/song?id=26620998",
+    "duration": "03:43",
+    "artists": [
+      {
+        "name": "Young London",
+        "link": "https://music.163.com/artist?id=105733"
+      }
+    ],
+    "album": {
+      "name": "Instincts",
+      "link": "https://music.163.com/album?id=2537156"
+    }
+  },
+  {
+    "name": "Drown - (TV动画《海盗战记》ED2)",
+    "link": "https://music.163.com/song?id=1401456829",
+    "duration": "03:33",
+    "artists": [
+      { "name": "milet", "link": "https://music.163.com/artist?id=31464106" }
+    ],
+    "album": {
+      "name": "Drown / You & I",
+      "link": "https://music.163.com/album?id=126872326"
+    }
+  },
+  {
+    "name": "On the Train Ride Home",
+    "link": "https://music.163.com/song?id=552575616",
+    "duration": "03:47",
+    "artists": [
+      {
+        "name": "The Paper Kites",
+        "link": "https://music.163.com/artist?id=103888"
+      }
+    ],
+    "album": {
+      "name": "On the Train Ride Home",
+      "link": "https://music.163.com/album?id=38315250"
+    }
+  },
+  {
+    "name": "Butter-Fly~tri.Version~ - (电影《数码兽大冒险 tri. 最终章 我们的未来》主题曲)",
+    "link": "https://music.163.com/song?id=557584656",
+    "duration": "04:17",
+    "artists": [
+      { "name": "和田光司", "link": "https://music.163.com/artist?id=15800" },
+      { "name": "前田愛", "link": "https://music.163.com/artist?id=17122" },
+      { "name": "宮崎歩", "link": "https://music.163.com/artist?id=829001" },
+      {
+        "name": "選ばれし子どもたち",
+        "link": "https://music.163.com/artist?id=29787159"
+      },
+      {
+        "name": "デジモンシンカーズ",
+        "link": "https://music.163.com/artist?id=29787160"
+      }
+    ],
+    "album": {
+      "name": "Butter-Fly ~tri.Version~",
+      "link": "https://music.163.com/album?id=38595195"
+    }
+  },
+  {
+    "name": "Dawn On Sunset (Invisible Brothers Remix)",
+    "link": "https://music.163.com/song?id=26524238",
+    "duration": "07:03",
+    "artists": [
+      { "name": "E-Spectro", "link": "https://music.163.com/artist?id=783035" }
+    ],
+    "album": {
+      "name": "Dawn On Sunset",
+      "link": "https://music.163.com/album?id=2519057"
+    }
+  },
+  {
+    "name": "霞光 - (动画片《精灵世纪》片尾曲)",
+    "link": "https://music.163.com/song?id=285100",
+    "duration": "02:38",
+    "artists": [
+      { "name": "曲锦楠", "link": "https://music.163.com/artist?id=9179" }
+    ],
+    "album": { "name": "霞光", "link": "https://music.163.com/album?id=28279" }
+  },
+  {
+    "name": "让风告诉你 (日文版)",
+    "link": "https://music.163.com/song?id=1831504253",
+    "duration": "03:45",
+    "artists": [
+      { "name": "Hanser", "link": "https://music.163.com/artist?id=1049179" },
+      { "name": "泠鸢yousa", "link": "https://music.163.com/artist?id=1047282" }
+    ],
+    "album": {
+      "name": "让风告诉你 (日文版)",
+      "link": "https://music.163.com/album?id=124905738"
+    }
+  },
+  {
+    "name": "一刀七段（动画《刺客伍六七》主题曲粤语版）",
+    "link": "https://music.163.com/song?id=1351973198",
+    "duration": "04:04",
+    "artists": [
+      { "name": "bermudy", "link": "https://music.163.com/artist?id=29397593" }
+    ],
+    "album": {
+      "name": "一刀七段",
+      "link": "https://music.163.com/album?id=75827180"
+    }
+  },
+  {
+    "name": "Summer's song",
+    "link": "https://music.163.com/song?id=1141860",
+    "duration": "04:40",
+    "artists": [
+      { "name": "Chase Coy", "link": "https://music.163.com/artist?id=29958" }
+    ],
+    "album": {
+      "name": "Look how far we've come",
+      "link": "https://music.163.com/album?id=118400"
+    }
+  },
+  {
+    "name": "Lorge",
+    "link": "https://music.163.com/song?id=1311755",
+    "duration": "03:56",
+    "artists": [
+      {
+        "name": "El Ten Eleven",
+        "link": "https://music.163.com/artist?id=32745"
+      }
+    ],
+    "album": {
+      "name": "Ten Eleven",
+      "link": "https://music.163.com/album?id=134914"
+    }
+  },
+  {
+    "name": "Sideways",
+    "link": "https://music.163.com/song?id=1842292553",
+    "duration": "04:11",
+    "artists": [
+      { "name": "ILLENIUM", "link": "https://music.163.com/artist?id=1050518" },
+      {
+        "name": "Valerie Broussard",
+        "link": "https://music.163.com/artist?id=11999108"
+      },
+      { "name": "Nurko", "link": "https://music.163.com/artist?id=11991089" }
+    ],
+    "album": {
+      "name": "Sideways",
+      "link": "https://music.163.com/album?id=126887898"
+    }
+  }
+]

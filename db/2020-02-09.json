@@ -1,0 +1,452 @@
+[
+  {
+    "name": "Into You",
+    "link": "https://music.163.com/song?id=523042017",
+    "duration": "02:41",
+    "artists": [
+      {
+        "name": "Matisse & Sadko",
+        "link": "https://music.163.com/artist?id=947054"
+      },
+      {
+        "name": "Hanne Mjøen",
+        "link": "https://music.163.com/artist?id=12122217"
+      }
+    ],
+    "album": {
+      "name": "Into You",
+      "link": "https://music.163.com/album?id=36913178"
+    }
+  },
+  {
+    "name": "China-江山",
+    "link": "https://music.163.com/song?id=1376024377",
+    "duration": "03:35",
+    "artists": [
+      { "name": "Sand", "link": "https://music.163.com/artist?id=12271965" },
+      {
+        "name": "One-Line一号线",
+        "link": "https://music.163.com/artist?id=13681676"
+      }
+    ],
+    "album": {
+      "name": "China-江山",
+      "link": "https://music.163.com/album?id=80188987"
+    }
+  },
+  {
+    "name": "Inferno",
+    "link": "https://music.163.com/song?id=475597470",
+    "duration": "04:05",
+    "artists": [
+      { "name": "Hechmann", "link": "https://music.163.com/artist?id=12011121" }
+    ],
+    "album": {
+      "name": "Inferno",
+      "link": "https://music.163.com/album?id=35371911"
+    }
+  },
+  {
+    "name": "Hands",
+    "link": "https://music.163.com/song?id=407862278",
+    "duration": "04:22",
+    "artists": [
+      {
+        "name": "Gareth Emery",
+        "link": "https://music.163.com/artist?id=34318"
+      },
+      { "name": "Alastor", "link": "https://music.163.com/artist?id=85992" },
+      {
+        "name": "London Thor",
+        "link": "https://music.163.com/artist?id=1102061"
+      }
+    ],
+    "album": {
+      "name": "100 Reasons To Live",
+      "link": "https://music.163.com/album?id=34590162"
+    }
+  },
+  {
+    "name": "山海皆可平",
+    "link": "https://music.163.com/song?id=1377053293",
+    "duration": "02:16",
+    "artists": [
+      { "name": "CMJ", "link": "https://music.163.com/artist?id=12157336" }
+    ],
+    "album": {
+      "name": "山海皆可平",
+      "link": "https://music.163.com/album?id=80258345"
+    }
+  },
+  {
+    "name": "Petals from a Rose",
+    "link": "https://music.163.com/song?id=1381490349",
+    "duration": "03:53",
+    "artists": [
+      { "name": "Yetep", "link": "https://music.163.com/artist?id=12356399" },
+      {
+        "name": "Kyle Reynolds",
+        "link": "https://music.163.com/artist?id=1179061"
+      }
+    ],
+    "album": {
+      "name": "Petals from a Rose",
+      "link": "https://music.163.com/album?id=80726485"
+    }
+  },
+  {
+    "name": "Affection",
+    "link": "https://music.163.com/song?id=1301861949",
+    "duration": "04:13",
+    "artists": [
+      {
+        "name": "Said The Sky",
+        "link": "https://music.163.com/artist?id=1026094"
+      },
+      { "name": "Origami", "link": "https://music.163.com/artist?id=151298" },
+      {
+        "name": "Jack Newsome",
+        "link": "https://music.163.com/artist?id=29219108"
+      }
+    ],
+    "album": {
+      "name": "Wide-Eyed",
+      "link": "https://music.163.com/album?id=72316725"
+    }
+  },
+  {
+    "name": "Glisten",
+    "link": "https://music.163.com/song?id=479571057",
+    "duration": "03:29",
+    "artists": [
+      { "name": "浮云心丶", "link": "https://music.163.com/artist?id=12350867" }
+    ],
+    "album": {
+      "name": "Glisten",
+      "link": "https://music.163.com/album?id=35533566"
+    }
+  },
+  {
+    "name": "救梦 (Instrumental)",
+    "link": "https://music.163.com/song?id=494850293",
+    "duration": "03:24",
+    "artists": [
+      { "name": "LJY", "link": "https://music.163.com/artist?id=1211039" }
+    ],
+    "album": {
+      "name": "救梦 EP",
+      "link": "https://music.163.com/album?id=35859621"
+    }
+  },
+  {
+    "name": "Dear Scorpio",
+    "link": "https://music.163.com/song?id=1341138605",
+    "duration": "05:31",
+    "artists": [
+      { "name": "Elypsis", "link": "https://music.163.com/artist?id=12355654" }
+    ],
+    "album": {
+      "name": "Swimming With Sirens",
+      "link": "https://music.163.com/album?id=75273980"
+    }
+  },
+  {
+    "name": "关键词 (Cover：林俊杰)",
+    "link": "https://music.163.com/song?id=1420559665",
+    "duration": "00:14",
+    "artists": [
+      {
+        "name": "不称职歌手",
+        "link": "https://music.163.com/artist?id=34280560"
+      }
+    ],
+    "album": {
+      "name": "关键词 (抖音版)",
+      "link": "https://music.163.com/album?id=85421778"
+    }
+  },
+  {
+    "name": "Withered",
+    "link": "https://music.163.com/song?id=534370261",
+    "duration": "03:40",
+    "artists": [
+      { "name": "Mr Chip", "link": "https://music.163.com/artist?id=12563879" },
+      { "name": "暴君de", "link": "https://music.163.com/artist?id=12599289" }
+    ],
+    "album": {
+      "name": "Withered",
+      "link": "https://music.163.com/album?id=37437377"
+    }
+  },
+  {
+    "name": "Azure Galaxy-[Original Mix]-",
+    "link": "https://music.163.com/song?id=487290168",
+    "duration": "03:22",
+    "artists": [
+      { "name": "DJ Soviet", "link": "https://music.163.com/artist?id=999451" }
+    ],
+    "album": {
+      "name": "Azure Galaxy [ HB.to巨蟹座们 ]",
+      "link": "https://music.163.com/album?id=35676736"
+    }
+  },
+  {
+    "name": "Crash and Burn",
+    "link": "https://music.163.com/song?id=865916405",
+    "duration": "03:51",
+    "artists": [
+      { "name": "Refuzion", "link": "https://music.163.com/artist?id=1081221" }
+    ],
+    "album": {
+      "name": "Crash And Burn",
+      "link": "https://music.163.com/album?id=71802261"
+    }
+  },
+  {
+    "name": "捧着风的少女",
+    "link": "https://music.163.com/song?id=1385614920",
+    "duration": "03:02",
+    "artists": [
+      { "name": "Hea2t", "link": "https://music.163.com/artist?id=12020036" }
+    ],
+    "album": {
+      "name": "捧着风的少女",
+      "link": "https://music.163.com/album?id=81032204"
+    }
+  },
+  {
+    "name": "四月一日 晴（Final Version）",
+    "link": "https://music.163.com/song?id=1377145337",
+    "duration": "03:27",
+    "artists": [
+      { "name": "灰澈", "link": "https://music.163.com/artist?id=12520634" }
+    ],
+    "album": {
+      "name": "四月一日 晴",
+      "link": "https://music.163.com/album?id=80268261"
+    }
+  },
+  {
+    "name": "Gypsophila",
+    "link": "https://music.163.com/song?id=517346741",
+    "duration": "04:07",
+    "artists": [
+      { "name": "MoreanP", "link": "https://music.163.com/artist?id=12275337" }
+    ],
+    "album": {
+      "name": "Gypsophila",
+      "link": "https://music.163.com/album?id=36731604"
+    }
+  },
+  {
+    "name": "Gratitude",
+    "link": "https://music.163.com/song?id=433681125",
+    "duration": "04:07",
+    "artists": [
+      { "name": "Nomyn", "link": "https://music.163.com/artist?id=12029121" }
+    ],
+    "album": {
+      "name": "Gratitude",
+      "link": "https://music.163.com/album?id=34897779"
+    }
+  },
+  {
+    "name": "Alive",
+    "link": "https://music.163.com/song?id=1341520066",
+    "duration": "06:05",
+    "artists": [
+      { "name": "Dabin", "link": "https://music.163.com/artist?id=783446" },
+      { "name": "Runn", "link": "https://music.163.com/artist?id=15237536" }
+    ],
+    "album": {
+      "name": "Alive",
+      "link": "https://music.163.com/album?id=75292055"
+    }
+  },
+  {
+    "name": "Land of Silence",
+    "link": "https://music.163.com/song?id=1314975701",
+    "duration": "05:31",
+    "artists": [
+      { "name": "千坂", "link": "https://music.163.com/artist?id=12138261" },
+      { "name": "DCGO", "link": "https://music.163.com/artist?id=12037211" },
+      {
+        "name": "Kehlani柯蓝尼",
+        "link": "https://music.163.com/artist?id=30285569"
+      },
+      { "name": "Y.F", "link": "https://music.163.com/artist?id=29779913" }
+    ],
+    "album": {
+      "name": "Land of Silence",
+      "link": "https://music.163.com/album?id=73706445"
+    }
+  },
+  {
+    "name": "喜欢",
+    "link": "https://music.163.com/song?id=862345682",
+    "duration": "03:46",
+    "artists": [
+      { "name": "琅泱", "link": "https://music.163.com/artist?id=12494820" }
+    ],
+    "album": {
+      "name": "喜欢",
+      "link": "https://music.163.com/album?id=71639726"
+    }
+  },
+  {
+    "name": "Thrones (Last Heroes Remix)",
+    "link": "https://music.163.com/song?id=468517836",
+    "duration": "04:24",
+    "artists": [
+      {
+        "name": "Satellite Empire",
+        "link": "https://music.163.com/artist?id=1116247"
+      },
+      {
+        "name": "Last Heroes",
+        "link": "https://music.163.com/artist?id=11987034"
+      }
+    ],
+    "album": {
+      "name": "Thrones (The Second Canon)",
+      "link": "https://music.163.com/album?id=35314493"
+    }
+  },
+  {
+    "name": "Glimmer (tofû remix)",
+    "link": "https://music.163.com/song?id=1308818222",
+    "duration": "02:58",
+    "artists": [
+      { "name": "tofû", "link": "https://music.163.com/artist?id=12068021" }
+    ],
+    "album": {
+      "name": "Glimmer (tofû remix)",
+      "link": "https://music.163.com/album?id=72794988"
+    }
+  },
+  {
+    "name": "Starting Over",
+    "link": "https://music.163.com/song?id=4437817",
+    "duration": "01:25",
+    "artists": [
+      { "name": "X-Ray Dog", "link": "https://music.163.com/artist?id=105618" }
+    ],
+    "album": {
+      "name": "Seeing Eye",
+      "link": "https://music.163.com/album?id=447864"
+    }
+  },
+  {
+    "name": "我家里有蜘蛛！！！",
+    "link": "https://music.163.com/song?id=1381375896",
+    "duration": "02:24",
+    "artists": [
+      { "name": "warma", "link": "https://music.163.com/artist?id=12139043" },
+      {
+        "name": "Crazy Bucket",
+        "link": "https://music.163.com/artist?id=12538488"
+      }
+    ],
+    "album": {
+      "name": "我家里有蜘蛛！！！",
+      "link": "https://music.163.com/album?id=80691988"
+    }
+  },
+  {
+    "name": "Drifting Away",
+    "link": "https://music.163.com/song?id=1375270827",
+    "duration": "03:30",
+    "artists": [
+      { "name": "FEWZ", "link": "https://music.163.com/artist?id=12008133" }
+    ],
+    "album": {
+      "name": "Drifting Away",
+      "link": "https://music.163.com/album?id=80119295"
+    }
+  },
+  {
+    "name": "Here I Am",
+    "link": "https://music.163.com/song?id=1351921061",
+    "duration": "03:09",
+    "artists": [
+      {
+        "name": "Tommee Profitt",
+        "link": "https://music.163.com/artist?id=28975"
+      },
+      { "name": "Brooke", "link": "https://music.163.com/artist?id=202531" }
+    ],
+    "album": {
+      "name": "Here I Am",
+      "link": "https://music.163.com/album?id=75848368"
+    }
+  },
+  {
+    "name": "Reverie（Cyan Lpegd remix)",
+    "link": "https://music.163.com/song?id=546193273",
+    "duration": "04:59",
+    "artists": [
+      { "name": "夜の律", "link": "https://music.163.com/artist?id=13537449" },
+      {
+        "name": "Cyan Lpegd",
+        "link": "https://music.163.com/artist?id=12052050"
+      },
+      { "name": "浮云心丶", "link": "https://music.163.com/artist?id=12350867" }
+    ],
+    "album": {
+      "name": "Night Law 01:Embark（remix)",
+      "link": "https://music.163.com/album?id=37965154"
+    }
+  },
+  {
+    "name": "裳裳者华(Original Mix)",
+    "link": "https://music.163.com/song?id=538737139",
+    "duration": "03:05",
+    "artists": [
+      { "name": "杨世贸", "link": "https://music.163.com/artist?id=12571508" },
+      { "name": "Seele", "link": "https://music.163.com/artist?id=12571227" }
+    ],
+    "album": {
+      "name": "裳裳者华 (Originial Mix)",
+      "link": "https://music.163.com/album?id=37641336"
+    }
+  },
+  {
+    "name": "逃生口",
+    "link": "https://music.163.com/song?id=1335930750",
+    "duration": "04:03",
+    "artists": [
+      { "name": "原子邦妮", "link": "https://music.163.com/artist?id=1193482" }
+    ],
+    "album": {
+      "name": "我在宇宙的边缘",
+      "link": "https://music.163.com/album?id=74994171"
+    }
+  },
+  {
+    "name": "3:00 AM",
+    "link": "https://music.163.com/song?id=515452368",
+    "duration": "03:21",
+    "artists": [
+      {
+        "name": "Finding Hope",
+        "link": "https://music.163.com/artist?id=1155051"
+      }
+    ],
+    "album": {
+      "name": "Our Love",
+      "link": "https://music.163.com/album?id=36679046"
+    }
+  },
+  {
+    "name": "Reborn",
+    "link": "https://music.163.com/song?id=865025606",
+    "duration": "03:46",
+    "artists": [
+      { "name": "兔子ST", "link": "https://music.163.com/artist?id=12287907" }
+    ],
+    "album": {
+      "name": "Reborn",
+      "link": "https://music.163.com/album?id=71744171"
+    }
+  }
+]

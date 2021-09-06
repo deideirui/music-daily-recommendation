@@ -1,0 +1,404 @@
+[
+  {
+    "name": "Born To Run",
+    "link": "https://music.163.com/song?id=28557041",
+    "duration": "04:53",
+    "artists": [
+      { "name": "Afrojack", "link": "https://music.163.com/artist?id=28745" }
+    ],
+    "album": {
+      "name": "Forget The World (Deluxe)",
+      "link": "https://music.163.com/album?id=2840007"
+    }
+  },
+  {
+    "name": "금요병 - (周五病)",
+    "link": "https://music.163.com/song?id=491233901",
+    "duration": "03:29",
+    "artists": [
+      { "name": "Dalda", "link": "https://music.163.com/artist?id=12107667" }
+    ],
+    "album": {
+      "name": "금요병",
+      "link": "https://music.163.com/album?id=35722710"
+    }
+  },
+  {
+    "name": "Too Good At Goodbyes",
+    "link": "https://music.163.com/song?id=532950095",
+    "duration": "02:57",
+    "artists": [
+      { "name": "MADILYN", "link": "https://music.163.com/artist?id=69270" }
+    ],
+    "album": {
+      "name": "Too Good At Goodbyes",
+      "link": "https://music.163.com/album?id=37316424"
+    }
+  },
+  {
+    "name": "Fog",
+    "link": "https://music.163.com/song?id=35691378",
+    "duration": "04:29",
+    "artists": [
+      {
+        "name": "Jabberwocky",
+        "link": "https://music.163.com/artist?id=562358"
+      },
+      { "name": "Ana Zimmer", "link": "https://music.163.com/artist?id=250740" }
+    ],
+    "album": {
+      "name": "Lunar Lane",
+      "link": "https://music.163.com/album?id=3339155"
+    }
+  },
+  {
+    "name": "My Beauty",
+    "link": "https://music.163.com/song?id=1396146120",
+    "duration": "03:51",
+    "artists": [
+      { "name": "VERIVERY", "link": "https://music.163.com/artist?id=30107281" }
+    ],
+    "album": {
+      "name": "어쩌다 발견한 하루 OST Part.2",
+      "link": "https://music.163.com/album?id=82294975"
+    }
+  },
+  {
+    "name": "What About Us (Cash Cash Remix)",
+    "link": "https://music.163.com/song?id=506139460",
+    "duration": "03:53",
+    "artists": [
+      { "name": "P!nk", "link": "https://music.163.com/artist?id=70821" },
+      { "name": "Cash Cash", "link": "https://music.163.com/artist?id=50905" }
+    ],
+    "album": {
+      "name": "What About Us (The Remixes)",
+      "link": "https://music.163.com/album?id=36049787"
+    }
+  },
+  {
+    "name": "Rooftop",
+    "link": "https://music.163.com/song?id=1361002917",
+    "duration": "03:30",
+    "artists": [
+      { "name": "N.Flying", "link": "https://music.163.com/artist?id=886043" }
+    ],
+    "album": {
+      "name": "Spring Memories",
+      "link": "https://music.163.com/album?id=78740421"
+    }
+  },
+  {
+    "name": "Instinct",
+    "link": "https://music.163.com/song?id=1457695847",
+    "duration": "02:41",
+    "artists": [
+      {
+        "name": "Ørjan Nilsen",
+        "link": "https://music.163.com/artist?id=41064"
+      }
+    ],
+    "album": {
+      "name": "Instinct",
+      "link": "https://music.163.com/album?id=91419921"
+    }
+  },
+  {
+    "name": "Leave The Lights On (Album Version)",
+    "link": "https://music.163.com/song?id=27276441",
+    "duration": "04:09",
+    "artists": [
+      { "name": "Meiko", "link": "https://music.163.com/artist?id=66357" }
+    ],
+    "album": {
+      "name": "Leave The Lights On (Remixed)",
+      "link": "https://music.163.com/album?id=2599123"
+    }
+  },
+  {
+    "name": "Storm Song",
+    "link": "https://music.163.com/song?id=26183614",
+    "duration": "03:50",
+    "artists": [
+      { "name": "Phildel", "link": "https://music.163.com/artist?id=125855" }
+    ],
+    "album": {
+      "name": "The Disappearance Of The Girl (Monsieur Adi Remix)",
+      "link": "https://music.163.com/album?id=2401884"
+    }
+  },
+  {
+    "name": "Right Back (Original Mix)",
+    "link": "https://music.163.com/song?id=408532230",
+    "duration": "04:24",
+    "artists": [
+      {
+        "name": "Dima Zimakov",
+        "link": "https://music.163.com/artist?id=339651"
+      }
+    ],
+    "album": {
+      "name": "Beautiful world 029",
+      "link": "https://music.163.com/album?id=34588679"
+    }
+  },
+  {
+    "name": "Hot Hands",
+    "link": "https://music.163.com/song?id=28279069",
+    "duration": "04:13",
+    "artists": [
+      { "name": "Darius", "link": "https://music.163.com/artist?id=1179173" }
+    ],
+    "album": {
+      "name": "Romance",
+      "link": "https://music.163.com/album?id=2768256"
+    }
+  },
+  {
+    "name": "Won't Look Back (feat. Soundr)",
+    "link": "https://music.163.com/song?id=1405030781",
+    "duration": "03:44",
+    "artists": [
+      { "name": "StayLoose", "link": "https://music.163.com/artist?id=966077" },
+      {
+        "name": "Last Heroes",
+        "link": "https://music.163.com/artist?id=11987034"
+      },
+      { "name": "Soundr", "link": "https://music.163.com/artist?id=14426581" }
+    ],
+    "album": {
+      "name": "Won't Look Back (feat. Soundr)",
+      "link": "https://music.163.com/album?id=83557157"
+    }
+  },
+  {
+    "name": "Virtual Paradise",
+    "link": "https://music.163.com/song?id=32640667",
+    "duration": "03:29",
+    "artists": [
+      { "name": "AK", "link": "https://music.163.com/artist?id=1192509" },
+      { "name": "LYNX", "link": "https://music.163.com/artist?id=38766" },
+      { "name": "Veela", "link": "https://music.163.com/artist?id=193221" }
+    ],
+    "album": {
+      "name": "Virtual Paradise",
+      "link": "https://music.163.com/album?id=3161807"
+    }
+  },
+  {
+    "name": "圈住你（翻自 一口甜） ",
+    "link": "https://music.163.com/song?id=1397709262",
+    "duration": "02:59",
+    "artists": [
+      { "name": "黑猫", "link": "https://music.163.com/artist?id=12383659" }
+    ],
+    "album": {
+      "name": "圈住你",
+      "link": "https://music.163.com/album?id=82478984"
+    }
+  },
+  {
+    "name": "Senbonzakura [SS-Extended+Bass] - (千本樱)",
+    "link": "https://music.163.com/song?id=32139848",
+    "duration": "04:23",
+    "artists": [
+      {
+        "name": "Lindsey Stirling",
+        "link": "https://music.163.com/artist?id=66225"
+      }
+    ],
+    "album": {
+      "name": "Shatter Me (Deluxe Version)",
+      "link": "https://music.163.com/album?id=3153020"
+    }
+  },
+  {
+    "name": "Collapsing World (Original Mix)",
+    "link": "https://music.163.com/song?id=38018486",
+    "duration": "03:10",
+    "artists": [
+      {
+        "name": "Lightscape",
+        "link": "https://music.163.com/artist?id=1084238"
+      }
+    ],
+    "album": {
+      "name": "Collapsing World ",
+      "link": "https://music.163.com/album?id=3427126"
+    }
+  },
+  {
+    "name": "Welcome to Stardust",
+    "link": "https://music.163.com/song?id=463262793",
+    "duration": "01:08",
+    "artists": [
+      {
+        "name": "Aash Mehta",
+        "link": "https://music.163.com/artist?id=1094364"
+      }
+    ],
+    "album": {
+      "name": "Stardust",
+      "link": "https://music.163.com/album?id=35235531"
+    }
+  },
+  {
+    "name": "Destroy Me",
+    "link": "https://music.163.com/song?id=33035576",
+    "duration": "03:56",
+    "artists": [
+      { "name": "Project 46", "link": "https://music.163.com/artist?id=776674" }
+    ],
+    "album": {
+      "name": "Beautiful",
+      "link": "https://music.163.com/album?id=3158277"
+    }
+  },
+  {
+    "name": "Wanderers (Original Mix)",
+    "link": "https://music.163.com/song?id=421423948",
+    "duration": "04:28",
+    "artists": [
+      { "name": "Akade", "link": "https://music.163.com/artist?id=1182578" },
+      { "name": "ThimLife", "link": "https://music.163.com/artist?id=1046016" }
+    ],
+    "album": {
+      "name": "Wanderers",
+      "link": "https://music.163.com/album?id=34780631"
+    }
+  },
+  {
+    "name": "Change (Short Mix)",
+    "link": "https://music.163.com/song?id=409941519",
+    "duration": "03:18",
+    "artists": [
+      { "name": "AMERSY", "link": "https://music.163.com/artist?id=1047222" },
+      {
+        "name": "Romeo Blanco",
+        "link": "https://music.163.com/artist?id=208266"
+      },
+      {
+        "name": "Brad Mair",
+        "link": "https://music.163.com/artist?id=12526298"
+      }
+    ],
+    "album": {
+      "name": "Change",
+      "link": "https://music.163.com/album?id=34613504"
+    }
+  },
+  {
+    "name": "Xenogenesis",
+    "link": "https://music.163.com/song?id=1321575661",
+    "duration": "03:53",
+    "artists": [
+      { "name": "TheFatRat", "link": "https://music.163.com/artist?id=1019952" }
+    ],
+    "album": {
+      "name": "Sounds of Syndication, Vol. 2 (Presented by Syndicate)",
+      "link": "https://music.163.com/album?id=74164222"
+    }
+  },
+  {
+    "name": "다만, 널 사랑해 - (只是, 爱你)",
+    "link": "https://music.163.com/song?id=480409515",
+    "duration": "04:03",
+    "artists": [
+      { "name": "MJ", "link": "https://music.163.com/artist?id=124333" },
+      { "name": "김꽃", "link": "https://music.163.com/artist?id=990120" }
+    ],
+    "album": {
+      "name": "다만, 널 사랑해",
+      "link": "https://music.163.com/album?id=35498984"
+    }
+  },
+  {
+    "name": "熊子-DISCO NIGHT (KiraraMagic remix)（KiraraMagic / ANK / 熊子 remix）",
+    "link": "https://music.163.com/song?id=1340159381",
+    "duration": "03:08",
+    "artists": [
+      {
+        "name": "Kirara Magic",
+        "link": "https://music.163.com/artist?id=30226109"
+      },
+      { "name": "ANK", "link": "https://music.163.com/artist?id=1087660" },
+      { "name": "熊子", "link": "https://music.163.com/artist?id=12084089" }
+    ],
+    "album": {
+      "name": "DISCO NIGHT FEAT.熊子(KiraraMagic Remix)",
+      "link": "https://music.163.com/album?id=75188124"
+    }
+  },
+  {
+    "name": "Sagittarius (Original Mix)",
+    "link": "https://music.163.com/song?id=29411595",
+    "duration": "06:43",
+    "artists": [
+      {
+        "name": "Andrew Lang",
+        "link": "https://music.163.com/artist?id=745028"
+      }
+    ],
+    "album": {
+      "name": "Sagittarius",
+      "link": "https://music.163.com/album?id=3020121"
+    }
+  },
+  {
+    "name": "Sky High",
+    "link": "https://music.163.com/song?id=29533193",
+    "duration": "06:19",
+    "artists": [
+      {
+        "name": "Firas Tarhini",
+        "link": "https://music.163.com/artist?id=1021051"
+      }
+    ],
+    "album": {
+      "name": "Sky High / Eccentric",
+      "link": "https://music.163.com/album?id=3039238"
+    }
+  },
+  {
+    "name": "コクハクワープ",
+    "link": "https://music.163.com/song?id=443292322",
+    "duration": "03:26",
+    "artists": [
+      { "name": "CY8ER", "link": "https://music.163.com/artist?id=12046863" }
+    ],
+    "album": {
+      "name": "BPM15Q ALL SONGS",
+      "link": "https://music.163.com/album?id=35016415"
+    }
+  },
+  {
+    "name": "Cover Us",
+    "link": "https://music.163.com/song?id=33765523",
+    "duration": "03:40",
+    "artists": [
+      {
+        "name": "Natalie Taylor",
+        "link": "https://music.163.com/artist?id=40698"
+      }
+    ],
+    "album": {
+      "name": "Wildfire",
+      "link": "https://music.163.com/album?id=3162272"
+    }
+  },
+  {
+    "name": "B***h (Bonus Track)",
+    "link": "https://music.163.com/song?id=39122683",
+    "duration": "02:49",
+    "artists": [
+      {
+        "name": "Honey Cocaine",
+        "link": "https://music.163.com/artist?id=748010"
+      }
+    ],
+    "album": {
+      "name": "Thug Love",
+      "link": "https://music.163.com/album?id=3426729"
+    }
+  }
+]

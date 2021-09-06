@@ -1,0 +1,435 @@
+[
+  {
+    "name": "Rush",
+    "link": "https://music.163.com/song?id=1453258147",
+    "duration": "02:49",
+    "artists": [
+      { "name": "Syn Cole", "link": "https://music.163.com/artist?id=854432" }
+    ],
+    "album": {
+      "name": "Rush",
+      "link": "https://music.163.com/album?id=90403430"
+    }
+  },
+  {
+    "name": "Crysta",
+    "link": "https://music.163.com/song?id=1397105526",
+    "duration": "04:01",
+    "artists": [
+      { "name": "Wisp X", "link": "https://music.163.com/artist?id=1046123" }
+    ],
+    "album": {
+      "name": "Loner",
+      "link": "https://music.163.com/album?id=82434757"
+    }
+  },
+  {
+    "name": "Deep Down",
+    "link": "https://music.163.com/song?id=1351913687",
+    "duration": "02:49",
+    "artists": [
+      {
+        "name": "Johnny Orlando",
+        "link": "https://music.163.com/artist?id=590458"
+      }
+    ],
+    "album": {
+      "name": "Teenage Fever",
+      "link": "https://music.163.com/album?id=75848224"
+    }
+  },
+  {
+    "name": "Give Me Your Love",
+    "link": "https://music.163.com/song?id=1330143157",
+    "duration": "03:21",
+    "artists": [
+      {
+        "name": "James Carter",
+        "link": "https://music.163.com/artist?id=12047749"
+      }
+    ],
+    "album": {
+      "name": "Give Me Your Love",
+      "link": "https://music.163.com/album?id=74707996"
+    }
+  },
+  {
+    "name": "Artificial",
+    "link": "https://music.163.com/song?id=1498502442",
+    "duration": "02:56",
+    "artists": [
+      { "name": "Bebi", "link": "https://music.163.com/artist?id=35319665" },
+      {
+        "name": "Dylan Matthew",
+        "link": "https://music.163.com/artist?id=28684353"
+      },
+      {
+        "name": "Dead Robot",
+        "link": "https://music.163.com/artist?id=1116200"
+      }
+    ],
+    "album": {
+      "name": "Artificial",
+      "link": "https://music.163.com/album?id=98826056"
+    }
+  },
+  {
+    "name": "Fall To Light",
+    "link": "https://music.163.com/song?id=30512852",
+    "duration": "03:01",
+    "artists": [
+      { "name": "Laszlo", "link": "https://music.163.com/artist?id=38725" }
+    ],
+    "album": {
+      "name": "Fall To Light",
+      "link": "https://music.163.com/album?id=3102526"
+    }
+  },
+  {
+    "name": "Full Force",
+    "link": "https://music.163.com/song?id=27601933",
+    "duration": "03:40",
+    "artists": [
+      { "name": "Rameses B", "link": "https://music.163.com/artist?id=42898" }
+    ],
+    "album": {
+      "name": "Full Force",
+      "link": "https://music.163.com/album?id=2644277"
+    }
+  },
+  {
+    "name": "Don't Kill My Vibe",
+    "link": "https://music.163.com/song?id=1350621897",
+    "duration": "03:04",
+    "artists": [
+      { "name": "Sigrid", "link": "https://music.163.com/artist?id=205795" }
+    ],
+    "album": {
+      "name": "Sucker Punch",
+      "link": "https://music.163.com/album?id=75796710"
+    }
+  },
+  {
+    "name": "Against The Sun",
+    "link": "https://music.163.com/song?id=29497338",
+    "duration": "03:32",
+    "artists": [
+      { "name": "Rootkit", "link": "https://music.163.com/artist?id=956260" },
+      {
+        "name": "Anna Yvette",
+        "link": "https://music.163.com/artist?id=1150079"
+      }
+    ],
+    "album": {
+      "name": "Against The Sun",
+      "link": "https://music.163.com/album?id=3029621"
+    }
+  },
+  {
+    "name": "Alkaline",
+    "link": "https://music.163.com/song?id=37853901",
+    "duration": "04:26",
+    "artists": [
+      { "name": "Funxion", "link": "https://music.163.com/artist?id=1191189" }
+    ],
+    "album": {
+      "name": "Alkaline - Single",
+      "link": "https://music.163.com/album?id=3422434"
+    }
+  },
+  {
+    "name": "lowkey",
+    "link": "https://music.163.com/song?id=1360642403",
+    "duration": "02:51",
+    "artists": [
+      { "name": "NIKI", "link": "https://music.163.com/artist?id=473353" }
+    ],
+    "album": {
+      "name": "lowkey",
+      "link": "https://music.163.com/album?id=78705525"
+    }
+  },
+  {
+    "name": "Sweet Lie",
+    "link": "https://music.163.com/song?id=1294843166",
+    "duration": "03:33",
+    "artists": [
+      { "name": "Sveta B.", "link": "https://music.163.com/artist?id=839779" },
+      {
+        "name": "Denis Kenzo",
+        "link": "https://music.163.com/artist?id=263670"
+      }
+    ],
+    "album": {
+      "name": "Sweet Lie",
+      "link": "https://music.163.com/album?id=71902482"
+    }
+  },
+  {
+    "name": "Sunshine",
+    "link": "https://music.163.com/song?id=565257648",
+    "duration": "02:46",
+    "artists": [
+      {
+        "name": "khai dreams",
+        "link": "https://music.163.com/artist?id=12176301"
+      },
+      { "name": "Atwood", "link": "https://music.163.com/artist?id=14057176" }
+    ],
+    "album": {
+      "name": "Nice Colors",
+      "link": "https://music.163.com/album?id=39169188"
+    }
+  },
+  {
+    "name": "Hate Being Alone",
+    "link": "https://music.163.com/song?id=1327989174",
+    "duration": "03:56",
+    "artists": [
+      { "name": "SLANDER", "link": "https://music.163.com/artist?id=1137239" },
+      {
+        "name": "Dylan Matthew",
+        "link": "https://music.163.com/artist?id=28684353"
+      }
+    ],
+    "album": {
+      "name": "The Headbangers Ball",
+      "link": "https://music.163.com/album?id=74562162"
+    }
+  },
+  {
+    "name": "Let Go",
+    "link": "https://music.163.com/song?id=1442232201",
+    "duration": "03:39",
+    "artists": [
+      { "name": "Amindo", "link": "https://music.163.com/artist?id=31718549" },
+      {
+        "name": "Real Hypha",
+        "link": "https://music.163.com/artist?id=30911741"
+      },
+      {
+        "name": "Dan Millward",
+        "link": "https://music.163.com/artist?id=30912484"
+      }
+    ],
+    "album": {
+      "name": "Let Go",
+      "link": "https://music.163.com/album?id=88304671"
+    }
+  },
+  {
+    "name": "Snowblind",
+    "link": "https://music.163.com/song?id=29095410",
+    "duration": "05:47",
+    "artists": [
+      { "name": "Au5", "link": "https://music.163.com/artist?id=359309" },
+      {
+        "name": "Tasha Baxter",
+        "link": "https://music.163.com/artist?id=83276"
+      }
+    ],
+    "album": {
+      "name": "Snowblind",
+      "link": "https://music.163.com/album?id=2990029"
+    }
+  },
+  {
+    "name": "On the Corner Where You Live",
+    "link": "https://music.163.com/song?id=1309978136",
+    "duration": "04:36",
+    "artists": [
+      {
+        "name": "The Paper Kites",
+        "link": "https://music.163.com/artist?id=103888"
+      }
+    ],
+    "album": {
+      "name": "On the Corner Where You Live",
+      "link": "https://music.163.com/album?id=73333001"
+    }
+  },
+  {
+    "name": "Freak Show",
+    "link": "https://music.163.com/song?id=1375505140",
+    "duration": "03:12",
+    "artists": [
+      {
+        "name": "Ingrid Michaelson",
+        "link": "https://music.163.com/artist?id=60351"
+      }
+    ],
+    "album": {
+      "name": "Stranger Songs",
+      "link": "https://music.163.com/album?id=80154253"
+    }
+  },
+  {
+    "name": "Over My Head",
+    "link": "https://music.163.com/song?id=1480213485",
+    "duration": "03:12",
+    "artists": [
+      {
+        "name": "ROY KNOX",
+        "link": "https://music.163.com/artist?id=33149404"
+      },
+      {
+        "name": "Mike Robert",
+        "link": "https://music.163.com/artist?id=36847071"
+      }
+    ],
+    "album": {
+      "name": "Over My Head",
+      "link": "https://music.163.com/album?id=95592885"
+    }
+  },
+  {
+    "name": "Modern Love",
+    "link": "https://music.163.com/song?id=1301474568",
+    "duration": "04:50",
+    "artists": [
+      { "name": "Kristine", "link": "https://music.163.com/artist?id=813065" }
+    ],
+    "album": {
+      "name": "Kristine",
+      "link": "https://music.163.com/album?id=72292762"
+    }
+  },
+  {
+    "name": "Up For Sale",
+    "link": "https://music.163.com/song?id=408212442",
+    "duration": "03:34",
+    "artists": [
+      { "name": "Cocoon", "link": "https://music.163.com/artist?id=50911" },
+      {
+        "name": "Matthew E. White",
+        "link": "https://music.163.com/artist?id=40412"
+      }
+    ],
+    "album": {
+      "name": "Up For Sale",
+      "link": "https://music.163.com/album?id=34598293"
+    }
+  },
+  {
+    "name": "满目星河",
+    "link": "https://music.163.com/song?id=1399869906",
+    "duration": "02:58",
+    "artists": [
+      { "name": "CMJ", "link": "https://music.163.com/artist?id=12157336" }
+    ],
+    "album": {
+      "name": "满目星河",
+      "link": "https://music.163.com/album?id=82772321"
+    }
+  },
+  {
+    "name": "expectations",
+    "link": "https://music.163.com/song?id=1470881278",
+    "duration": "02:58",
+    "artists": [
+      {
+        "name": "guccihighwaters",
+        "link": "https://music.163.com/artist?id=12234040"
+      }
+    ],
+    "album": {
+      "name": "expectations",
+      "link": "https://music.163.com/album?id=93932310"
+    }
+  },
+  {
+    "name": "Bravery (Original Mix)",
+    "link": "https://music.163.com/song?id=29922245",
+    "duration": "07:44",
+    "artists": [
+      { "name": "SoundLift", "link": "https://music.163.com/artist?id=44015" }
+    ],
+    "album": {
+      "name": "Victorious",
+      "link": "https://music.163.com/album?id=3087024"
+    }
+  },
+  {
+    "name": "Rainfall",
+    "link": "https://music.163.com/song?id=33367862",
+    "duration": "03:53",
+    "artists": [
+      { "name": "Echos", "link": "https://music.163.com/artist?id=1112021" },
+      { "name": "Nightcall", "link": "https://music.163.com/artist?id=1083067" }
+    ],
+    "album": {
+      "name": "Rainfall",
+      "link": "https://music.163.com/album?id=3190840"
+    }
+  },
+  {
+    "name": "Gone",
+    "link": "https://music.163.com/song?id=32405533",
+    "duration": "04:18",
+    "artists": [
+      { "name": "Dezolent", "link": "https://music.163.com/artist?id=1081357" }
+    ],
+    "album": {
+      "name": "Gone",
+      "link": "https://music.163.com/album?id=3154945"
+    }
+  },
+  {
+    "name": "The Comeback Kid",
+    "link": "https://music.163.com/song?id=426026092",
+    "duration": "05:21",
+    "artists": [
+      {
+        "name": "The Midnight",
+        "link": "https://music.163.com/artist?id=12023492"
+      }
+    ],
+    "album": {
+      "name": "Endless Summer",
+      "link": "https://music.163.com/album?id=34826028"
+    }
+  },
+  {
+    "name": "Elysium",
+    "link": "https://music.163.com/song?id=33861955",
+    "duration": "04:54",
+    "artists": [
+      { "name": "Mendum", "link": "https://music.163.com/artist?id=1045065" },
+      {
+        "name": "The Eden Project",
+        "link": "https://music.163.com/artist?id=1049928"
+      }
+    ],
+    "album": {
+      "name": "Elysium",
+      "link": "https://music.163.com/album?id=3264224"
+    }
+  },
+  {
+    "name": "My Beautiful",
+    "link": "https://music.163.com/song?id=27506424",
+    "duration": "04:30",
+    "artists": [
+      { "name": "Kari Kimmel", "link": "https://music.163.com/artist?id=64037" }
+    ],
+    "album": {
+      "name": "Out of Focus",
+      "link": "https://music.163.com/album?id=2621251"
+    }
+  },
+  {
+    "name": "Miami Disco",
+    "link": "https://music.163.com/song?id=26462249",
+    "duration": "04:31",
+    "artists": [
+      {
+        "name": "Perturbator",
+        "link": "https://music.163.com/artist?id=768308"
+      }
+    ],
+    "album": {
+      "name": "********** - EP",
+      "link": "https://music.163.com/album?id=2504138"
+    }
+  }
+]

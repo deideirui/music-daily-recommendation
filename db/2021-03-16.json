@@ -1,0 +1,448 @@
+[
+  {
+    "name": "Safe with Me",
+    "link": "https://music.163.com/song?id=1496642517",
+    "duration": "03:25",
+    "artists": [
+      { "name": "Gryffin", "link": "https://music.163.com/artist?id=1181504" },
+      {
+        "name": "Audrey MiKa",
+        "link": "https://music.163.com/artist?id=33590146"
+      }
+    ],
+    "album": {
+      "name": "Safe With Me",
+      "link": "https://music.163.com/album?id=98520407"
+    }
+  },
+  {
+    "name": "Like We (BEAUZ Remix)",
+    "link": "https://music.163.com/song?id=1432446894",
+    "duration": "02:48",
+    "artists": [
+      { "name": "Krewella", "link": "https://music.163.com/artist?id=208915" },
+      { "name": "BEAUZ", "link": "https://music.163.com/artist?id=12131436" },
+      {
+        "name": "Yung Baby Tate",
+        "link": "https://music.163.com/artist?id=28191716"
+      },
+      { "name": "Alaya", "link": "https://music.163.com/artist?id=494448" }
+    ],
+    "album": {
+      "name": "zer0 (The Remixes, Pt. 2)",
+      "link": "https://music.163.com/album?id=86674024"
+    }
+  },
+  {
+    "name": "Talk To Me (Sam Feldt Edit)",
+    "link": "https://music.163.com/song?id=1419843410",
+    "duration": "03:06",
+    "artists": [
+      { "name": "MÖWE", "link": "https://music.163.com/artist?id=976362" },
+      {
+        "name": "Conor Maynard",
+        "link": "https://music.163.com/artist?id=29020"
+      },
+      { "name": "RANI", "link": "https://music.163.com/artist?id=13774039" },
+      { "name": "Sam Feldt", "link": "https://music.163.com/artist?id=1025255" }
+    ],
+    "album": {
+      "name": "Talk To Me (Sam Feldt Edit)",
+      "link": "https://music.163.com/album?id=85346262"
+    }
+  },
+  {
+    "name": "18",
+    "link": "https://music.163.com/song?id=1359818025",
+    "duration": "03:16",
+    "artists": [
+      { "name": "Miles Away", "link": "https://music.163.com/artist?id=96821" },
+      { "name": "RYYZN", "link": "https://music.163.com/artist?id=31280623" }
+    ],
+    "album": {
+      "name": "18 ",
+      "link": "https://music.163.com/album?id=78618882"
+    }
+  },
+  {
+    "name": "Fall Underneath",
+    "link": "https://music.163.com/song?id=27547958",
+    "duration": "04:15",
+    "artists": [
+      {
+        "name": "Snakadaktal",
+        "link": "https://music.163.com/artist?id=101524"
+      }
+    ],
+    "album": {
+      "name": "Sleep In The Water",
+      "link": "https://music.163.com/album?id=2631573"
+    }
+  },
+  {
+    "name": "Next To You",
+    "link": "https://music.163.com/song?id=1379581838",
+    "duration": "02:51",
+    "artists": [
+      { "name": "Askling", "link": "https://music.163.com/artist?id=13003084" }
+    ],
+    "album": {
+      "name": "Next To You",
+      "link": "https://music.163.com/album?id=80550697"
+    }
+  },
+  {
+    "name": "Savage (Nightcore Remix)",
+    "link": "https://music.163.com/song?id=1348917629",
+    "duration": "02:33",
+    "artists": [
+      { "name": "Bahari", "link": "https://music.163.com/artist?id=1044218" }
+    ],
+    "album": {
+      "name": "Savage (Nightcore Remix)",
+      "link": "https://music.163.com/album?id=75725547"
+    }
+  },
+  {
+    "name": "Aeon",
+    "link": "https://music.163.com/song?id=33359018",
+    "duration": "03:58",
+    "artists": [
+      { "name": "JJD", "link": "https://music.163.com/artist?id=472822" }
+    ],
+    "album": {
+      "name": "Aeon",
+      "link": "https://music.163.com/album?id=3201118"
+    }
+  },
+  {
+    "name": "Get Stüpid",
+    "link": "https://music.163.com/song?id=1356668705",
+    "duration": "02:52",
+    "artists": [
+      { "name": "Bülow", "link": "https://music.163.com/artist?id=12809019" }
+    ],
+    "album": {
+      "name": "Crystalline",
+      "link": "https://music.163.com/album?id=78334140"
+    }
+  },
+  {
+    "name": "Wolves",
+    "link": "https://music.163.com/song?id=1819317422",
+    "duration": "03:18",
+    "artists": [
+      {
+        "name": "Selena Gomez",
+        "link": "https://music.163.com/artist?id=140196"
+      },
+      {
+        "name": "Marshmello",
+        "link": "https://music.163.com/artist?id=1060019"
+      }
+    ],
+    "album": {
+      "name": "Celebrating Women",
+      "link": "https://music.163.com/album?id=122868000"
+    }
+  },
+  {
+    "name": "Ghost White Dress",
+    "link": "https://music.163.com/song?id=515549026",
+    "duration": "02:59",
+    "artists": [
+      { "name": "TYSM", "link": "https://music.163.com/artist?id=12278200" }
+    ],
+    "album": {
+      "name": "Ghost White Dress",
+      "link": "https://music.163.com/album?id=36674215"
+    }
+  },
+  {
+    "name": "It Wouldn't Be Right",
+    "link": "https://music.163.com/song?id=29922545",
+    "duration": "04:12",
+    "artists": [
+      {
+        "name": "Chasing Jonah",
+        "link": "https://music.163.com/artist?id=1044205"
+      }
+    ],
+    "album": {
+      "name": "Prelude",
+      "link": "https://music.163.com/album?id=3087055"
+    }
+  },
+  {
+    "name": "Way Back",
+    "link": "https://music.163.com/song?id=573239121",
+    "duration": "03:28",
+    "artists": [
+      {
+        "name": "Cozi Zuehlsdorff",
+        "link": "https://music.163.com/artist?id=1097153"
+      },
+      { "name": "Vicetone", "link": "https://music.163.com/artist?id=747030" }
+    ],
+    "album": {
+      "name": "Monstercat Instinct Vol. 1",
+      "link": "https://music.163.com/album?id=39692334"
+    }
+  },
+  {
+    "name": "Arcade Summer",
+    "link": "https://music.163.com/song?id=411921885",
+    "duration": "03:59",
+    "artists": [
+      { "name": "FM-84", "link": "https://music.163.com/artist?id=12046467" }
+    ],
+    "album": {
+      "name": "Atlas",
+      "link": "https://music.163.com/album?id=34686652"
+    }
+  },
+  {
+    "name": "WuWu",
+    "link": "https://music.163.com/song?id=1828198525",
+    "duration": "02:17",
+    "artists": [
+      { "name": "NingJA", "link": "https://music.163.com/artist?id=31658538" },
+      { "name": "DD八鹿", "link": "https://music.163.com/artist?id=30790683" }
+    ],
+    "album": {
+      "name": "WuWu",
+      "link": "https://music.163.com/album?id=124221765"
+    }
+  },
+  {
+    "name": "Can't Pretend",
+    "link": "https://music.163.com/song?id=26354123",
+    "duration": "03:37",
+    "artists": [
+      { "name": "Tom Odell", "link": "https://music.163.com/artist?id=711016" }
+    ],
+    "album": {
+      "name": "Long Way Down",
+      "link": "https://music.163.com/album?id=2421026"
+    }
+  },
+  {
+    "name": "Her Ghost",
+    "link": "https://music.163.com/song?id=28276055",
+    "duration": "03:22",
+    "artists": [
+      {
+        "name": "Woman's Hour",
+        "link": "https://music.163.com/artist?id=744260"
+      }
+    ],
+    "album": {
+      "name": "Her Ghost",
+      "link": "https://music.163.com/album?id=2768008"
+    }
+  },
+  {
+    "name": "Good Things",
+    "link": "https://music.163.com/song?id=1472219192",
+    "duration": "03:01",
+    "artists": [
+      { "name": "Wafia", "link": "https://music.163.com/artist?id=1178106" }
+    ],
+    "album": {
+      "name": "Good Things",
+      "link": "https://music.163.com/album?id=94166982"
+    }
+  },
+  {
+    "name": "Way Back When",
+    "link": "https://music.163.com/song?id=26505371",
+    "duration": "03:26",
+    "artists": [
+      { "name": "Kodaline", "link": "https://music.163.com/artist?id=727007" }
+    ],
+    "album": {
+      "name": "In A Perfect World",
+      "link": "https://music.163.com/album?id=2512079"
+    }
+  },
+  {
+    "name": "Raein",
+    "link": "https://music.163.com/song?id=27933791",
+    "duration": "02:49",
+    "artists": [
+      {
+        "name": "Ólafur Arnalds",
+        "link": "https://music.163.com/artist?id=40858"
+      }
+    ],
+    "album": {
+      "name": " Raphaël Marionneau - Le Café Abstrait Vol. 10",
+      "link": "https://music.163.com/album?id=2697383"
+    }
+  },
+  {
+    "name": "Zombie",
+    "link": "https://music.163.com/song?id=1366994516",
+    "duration": "03:22",
+    "artists": [
+      {
+        "name": "Ghostly Kisses",
+        "link": "https://music.163.com/artist?id=1087366"
+      }
+    ],
+    "album": {
+      "name": "Zombie",
+      "link": "https://music.163.com/album?id=79324010"
+    }
+  },
+  {
+    "name": "Beautiful Stranger",
+    "link": "https://music.163.com/song?id=1449960830",
+    "duration": "03:14",
+    "artists": [
+      {
+        "name": "Bri Tolani",
+        "link": "https://music.163.com/artist?id=12203231"
+      }
+    ],
+    "album": {
+      "name": "Beautiful Stranger",
+      "link": "https://music.163.com/album?id=89786652"
+    }
+  },
+  {
+    "name": "Ecstasy",
+    "link": "https://music.163.com/song?id=18137546",
+    "duration": "03:18",
+    "artists": [
+      {
+        "name": "Giovanni Marradi",
+        "link": "https://music.163.com/artist?id=285213"
+      }
+    ],
+    "album": {
+      "name": "Softly",
+      "link": "https://music.163.com/album?id=1666642"
+    }
+  },
+  {
+    "name": "All I Ask - (最后请求)",
+    "link": "https://music.163.com/song?id=36841428",
+    "duration": "04:31",
+    "artists": [
+      { "name": "Adele", "link": "https://music.163.com/artist?id=46487" }
+    ],
+    "album": { "name": "25", "link": "https://music.163.com/album?id=3377045" }
+  },
+  {
+    "name": "Let's Fall in Love for the Night",
+    "link": "https://music.163.com/song?id=1390375470",
+    "duration": "03:10",
+    "artists": [
+      { "name": "FINNEAS", "link": "https://music.163.com/artist?id=12676847" }
+    ],
+    "album": {
+      "name": "Blood Harmony",
+      "link": "https://music.163.com/album?id=81578763"
+    }
+  },
+  {
+    "name": "Creep",
+    "link": "https://music.163.com/song?id=485612576",
+    "duration": "02:55",
+    "artists": [
+      {
+        "name": "Gamper & Dadoni",
+        "link": "https://music.163.com/artist?id=1085102"
+      },
+      {
+        "name": "Ember Island",
+        "link": "https://music.163.com/artist?id=1100001"
+      }
+    ],
+    "album": {
+      "name": "Creep",
+      "link": "https://music.163.com/album?id=35644823"
+    }
+  },
+  {
+    "name": "Oblivion",
+    "link": "https://music.163.com/song?id=458496914",
+    "duration": "02:52",
+    "artists": [
+      {
+        "name": "Cody Sorenson",
+        "link": "https://music.163.com/artist?id=12273358"
+      },
+      { "name": "Altimo", "link": "https://music.163.com/artist?id=12046429" }
+    ],
+    "album": {
+      "name": "Oblivion",
+      "link": "https://music.163.com/album?id=35157732"
+    }
+  },
+  {
+    "name": "Artificial Sun",
+    "link": "https://music.163.com/song?id=16468507",
+    "duration": "05:32",
+    "artists": [
+      {
+        "name": "As the Stars Fall",
+        "link": "https://music.163.com/artist?id=86496"
+      }
+    ],
+    "album": {
+      "name": "Redux",
+      "link": "https://music.163.com/album?id=1519206"
+    }
+  },
+  {
+    "name": "If Only I Could See",
+    "link": "https://music.163.com/song?id=409060979",
+    "duration": "04:40",
+    "artists": [
+      {
+        "name": "Maximilian Hecker",
+        "link": "https://music.163.com/artist?id=38848"
+      }
+    ],
+    "album": {
+      "name": "The Best of Maximilian Hecker",
+      "link": "https://music.163.com/album?id=34604211"
+    }
+  },
+  {
+    "name": "Rhythm of the Rain",
+    "link": "https://music.163.com/song?id=29595292",
+    "duration": "02:33",
+    "artists": [
+      {
+        "name": " Sylvie Simmons",
+        "link": "https://music.163.com/artist?id=1025013"
+      }
+    ],
+    "album": {
+      "name": "Sylvie",
+      "link": "https://music.163.com/album?id=3052581"
+    }
+  },
+  {
+    "name": "Dámelo To’",
+    "link": "https://music.163.com/song?id=1826915868",
+    "duration": "03:04",
+    "artists": [
+      {
+        "name": "Selena Gomez",
+        "link": "https://music.163.com/artist?id=140196"
+      },
+      {
+        "name": "Myke Towers",
+        "link": "https://music.163.com/artist?id=13937935"
+      }
+    ],
+    "album": {
+      "name": "Revelación - EP",
+      "link": "https://music.163.com/album?id=124251779"
+    }
+  }
+]

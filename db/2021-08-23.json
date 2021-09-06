@@ -1,0 +1,507 @@
+[
+  {
+    "name": "Knowing How To Break (with RUNN)",
+    "link": "https://music.163.com/song?id=1853470352",
+    "duration": "03:07",
+    "artists": [
+      {
+        "name": "Last Heroes",
+        "link": "https://music.163.com/artist?id=11987034"
+      },
+      { "name": "RUNN", "link": "https://music.163.com/artist?id=15237536" }
+    ],
+    "album": {
+      "name": "Knowing How To Break (with RUNN)",
+      "link": "https://music.163.com/album?id=129059628"
+    }
+  },
+  {
+    "name": "World For You",
+    "link": "https://music.163.com/song?id=1805224385",
+    "duration": "03:21",
+    "artists": [
+      {
+        "name": "Ashley Wallbridge",
+        "link": "https://music.163.com/artist?id=29252"
+      },
+      {
+        "name": "Sarah De Warren",
+        "link": "https://music.163.com/artist?id=13222653"
+      }
+    ],
+    "album": {
+      "name": "World For You",
+      "link": "https://music.163.com/album?id=120585330"
+    }
+  },
+  {
+    "name": "Real Me",
+    "link": "https://music.163.com/song?id=1804474230",
+    "duration": "03:39",
+    "artists": [
+      { "name": "Man Cub", "link": "https://music.163.com/artist?id=30816484" },
+      {
+        "name": "Meggie York",
+        "link": "https://music.163.com/artist?id=31420777"
+      }
+    ],
+    "album": {
+      "name": "Real Me",
+      "link": "https://music.163.com/album?id=120442779"
+    }
+  },
+  {
+    "name": "Survive (with Luma)",
+    "link": "https://music.163.com/song?id=1855644989",
+    "duration": "03:47",
+    "artists": [
+      { "name": "Blanke", "link": "https://music.163.com/artist?id=13369420" },
+      { "name": "Luma", "link": "https://music.163.com/artist?id=211460" }
+    ],
+    "album": {
+      "name": "Survive (with Luma)",
+      "link": "https://music.163.com/album?id=129403656"
+    }
+  },
+  {
+    "name": "Unreal",
+    "link": "https://music.163.com/song?id=29537957",
+    "duration": "03:36",
+    "artists": [
+      { "name": "Amaranthe", "link": "https://music.163.com/artist?id=86586" }
+    ],
+    "album": {
+      "name": "Massive Addictive",
+      "link": "https://music.163.com/album?id=3039582"
+    }
+  },
+  {
+    "name": "10,000 Feet",
+    "link": "https://music.163.com/song?id=1446201045",
+    "duration": "02:40",
+    "artists": [
+      { "name": "INViDA", "link": "https://music.163.com/artist?id=33196292" },
+      {
+        "name": "Robbie Rosen",
+        "link": "https://music.163.com/artist?id=14143678"
+      }
+    ],
+    "album": {
+      "name": "10,000 Feet",
+      "link": "https://music.163.com/album?id=89084227"
+    }
+  },
+  {
+    "name": "Dive",
+    "link": "https://music.163.com/song?id=1410797102",
+    "duration": "02:44",
+    "artists": [
+      {
+        "name": "Hot Shade",
+        "link": "https://music.163.com/artist?id=12197226"
+      },
+      {
+        "name": "Mike Perry",
+        "link": "https://music.163.com/artist?id=195021"
+      },
+      {
+        "name": "Chris James",
+        "link": "https://music.163.com/artist?id=145038"
+      }
+    ],
+    "album": {
+      "name": "Dive",
+      "link": "https://music.163.com/album?id=84236606"
+    }
+  },
+  {
+    "name": "American Spirit (Nurko Remix)",
+    "link": "https://music.163.com/song?id=1446485384",
+    "duration": "04:05",
+    "artists": [
+      { "name": "Meg & Dia", "link": "https://music.163.com/artist?id=66393" }
+    ],
+    "album": {
+      "name": "happysad Remixes",
+      "link": "https://music.163.com/album?id=89145471"
+    }
+  },
+  {
+    "name": "We Are Young",
+    "link": "https://music.163.com/song?id=1476056117",
+    "duration": "03:04",
+    "artists": [
+      {
+        "name": "Soundwaves",
+        "link": "https://music.163.com/artist?id=35864892"
+      }
+    ],
+    "album": {
+      "name": "We Are Young",
+      "link": "https://music.163.com/album?id=94867285"
+    }
+  },
+  {
+    "name": "Here Right Now",
+    "link": "https://music.163.com/song?id=1827895006",
+    "duration": "03:24",
+    "artists": [
+      { "name": "Nurko", "link": "https://music.163.com/artist?id=11991089" },
+      {
+        "name": "Monika Santucci",
+        "link": "https://music.163.com/artist?id=13989763"
+      }
+    ],
+    "album": {
+      "name": "Here Right Now",
+      "link": "https://music.163.com/album?id=124335904"
+    }
+  },
+  {
+    "name": "Touch",
+    "link": "https://music.163.com/song?id=1853632771",
+    "duration": "02:24",
+    "artists": [
+      { "name": "VINAI", "link": "https://music.163.com/artist?id=804422" }
+    ],
+    "album": {
+      "name": "Touch",
+      "link": "https://music.163.com/album?id=129082909"
+    }
+  },
+  {
+    "name": "离开后别对我好 - (Let Go)",
+    "link": "https://music.163.com/song?id=1501491183",
+    "duration": "03:29",
+    "artists": [
+      { "name": "原子邦妮", "link": "https://music.163.com/artist?id=1193482" }
+    ],
+    "album": {
+      "name": "乐游原",
+      "link": "https://music.163.com/album?id=99284739"
+    }
+  },
+  {
+    "name": "Follow",
+    "link": "https://music.163.com/song?id=1456174313",
+    "duration": "02:58",
+    "artists": [
+      { "name": "Vigiland", "link": "https://music.163.com/artist?id=1046407" },
+      {
+        "name": "Father Viola",
+        "link": "https://music.163.com/artist?id=35782975"
+      }
+    ],
+    "album": {
+      "name": "Follow",
+      "link": "https://music.163.com/album?id=91098842"
+    }
+  },
+  {
+    "name": "Here With Me",
+    "link": "https://music.163.com/song?id=1350656778",
+    "duration": "02:36",
+    "artists": [
+      {
+        "name": "Marshmello",
+        "link": "https://music.163.com/artist?id=1060019"
+      },
+      { "name": "CHVRCHES", "link": "https://music.163.com/artist?id=694027" }
+    ],
+    "album": {
+      "name": "Here With Me",
+      "link": "https://music.163.com/album?id=75798672"
+    }
+  },
+  {
+    "name": "Cherry Lambo (Marky Style & Guy Gabriel Remix)",
+    "link": "https://music.163.com/song?id=511921179",
+    "duration": "03:20",
+    "artists": [
+      { "name": "Evalyn", "link": "https://music.163.com/artist?id=12646511" },
+      {
+        "name": "Marky Style",
+        "link": "https://music.163.com/artist?id=12302135"
+      },
+      {
+        "name": "Guy Gabriel",
+        "link": "https://music.163.com/artist?id=13133238"
+      }
+    ],
+    "album": {
+      "name": "Cherry Lambo (Marky Style & Guy Gabriel Remix)",
+      "link": "https://music.163.com/album?id=36450415"
+    }
+  },
+  {
+    "name": "Miss It (feat. RUNN)",
+    "link": "https://music.163.com/song?id=1381082570",
+    "duration": "03:18",
+    "artists": [
+      {
+        "name": "William Black",
+        "link": "https://music.163.com/artist?id=248957"
+      },
+      { "name": "RUNN", "link": "https://music.163.com/artist?id=15237536" }
+    ],
+    "album": {
+      "name": "Pages",
+      "link": "https://music.163.com/album?id=80685180"
+    }
+  },
+  {
+    "name": "Happi",
+    "link": "https://music.163.com/song?id=1459492742",
+    "duration": "02:43",
+    "artists": [
+      { "name": "Mangoo", "link": "https://music.163.com/artist?id=1081597" },
+      { "name": "bby ivy", "link": "https://music.163.com/artist?id=34959570" }
+    ],
+    "album": {
+      "name": "Happi",
+      "link": "https://music.163.com/album?id=91802607"
+    }
+  },
+  {
+    "name": "Limitless (feat. Sophie Rose)",
+    "link": "https://music.163.com/song?id=504399003",
+    "duration": "03:30",
+    "artists": [
+      { "name": "SAM F", "link": "https://music.163.com/artist?id=12074533" },
+      { "name": "Sophie Rose", "link": "https://music.163.com/artist?id=78099" }
+    ],
+    "album": {
+      "name": "Limitless (feat. Sophie Rose) (Remixes)",
+      "link": "https://music.163.com/album?id=36108321"
+    }
+  },
+  {
+    "name": "Bring Back The Summer (Not Your **** Remix)",
+    "link": "https://music.163.com/song?id=408532862",
+    "duration": "03:40",
+    "artists": [
+      {
+        "name": "Not Your Dope",
+        "link": "https://music.163.com/artist?id=11972030"
+      },
+      { "name": "Rain Man", "link": "https://music.163.com/artist?id=476110" },
+      { "name": "Oly", "link": "https://music.163.com/artist?id=12289226" }
+    ],
+    "album": {
+      "name": "Bring Back The Summer (Not Your **** Remix)",
+      "link": "https://music.163.com/album?id=34589899"
+    }
+  },
+  {
+    "name": "Rock the World",
+    "link": "https://music.163.com/song?id=503020028",
+    "duration": "03:10",
+    "artists": [
+      { "name": "The Script", "link": "https://music.163.com/artist?id=102028" }
+    ],
+    "album": {
+      "name": "Freedom Child",
+      "link": "https://music.163.com/album?id=35903909"
+    }
+  },
+  {
+    "name": "In My Arms",
+    "link": "https://music.163.com/song?id=409941537",
+    "duration": "03:35",
+    "artists": [
+      { "name": "Qulinez", "link": "https://music.163.com/artist?id=352208" },
+      {
+        "name": "Sex Panther",
+        "link": "https://music.163.com/artist?id=13852894"
+      }
+    ],
+    "album": {
+      "name": "In My Arms",
+      "link": "https://music.163.com/album?id=34613510"
+    }
+  },
+  {
+    "name": "Get Down",
+    "link": "https://music.163.com/song?id=862862104",
+    "duration": "02:55",
+    "artists": [
+      { "name": "Klaas", "link": "https://music.163.com/artist?id=106210" }
+    ],
+    "album": {
+      "name": "Get Down",
+      "link": "https://music.163.com/album?id=71674596"
+    }
+  },
+  {
+    "name": "Feels Like",
+    "link": "https://music.163.com/song?id=1346474112",
+    "duration": "03:11",
+    "artists": [
+      { "name": "Vicetone", "link": "https://music.163.com/artist?id=747030" },
+      { "name": "LAUR", "link": "https://music.163.com/artist?id=35757701" }
+    ],
+    "album": {
+      "name": "Elements",
+      "link": "https://music.163.com/album?id=75589857"
+    }
+  },
+  {
+    "name": "In Your Head",
+    "link": "https://music.163.com/song?id=1432936294",
+    "duration": "03:19",
+    "artists": [
+      { "name": "Kosling", "link": "https://music.163.com/artist?id=29289583" },
+      { "name": "CHRNS", "link": "https://music.163.com/artist?id=12945477" }
+    ],
+    "album": {
+      "name": "In Your Head",
+      "link": "https://music.163.com/album?id=86731559"
+    }
+  },
+  {
+    "name": "All I Need",
+    "link": "https://music.163.com/song?id=1380228195",
+    "duration": "03:12",
+    "artists": [
+      {
+        "name": "Michael Schulte",
+        "link": "https://music.163.com/artist?id=40222"
+      }
+    ],
+    "album": {
+      "name": "All I Need",
+      "link": "https://music.163.com/album?id=80617781"
+    }
+  },
+  {
+    "name": "失重 / Roche Limit",
+    "link": "https://music.163.com/song?id=1466915209",
+    "duration": "03:50",
+    "artists": [
+      {
+        "name": "Eric Chen",
+        "link": "https://music.163.com/artist?id=12605661"
+      },
+      { "name": "折", "link": "https://music.163.com/artist?id=36148045" }
+    ],
+    "album": {
+      "name": "失重 / Roche Limit",
+      "link": "https://music.163.com/album?id=93200742"
+    }
+  },
+  {
+    "name": "涅槃",
+    "link": "https://music.163.com/song?id=1460387791",
+    "duration": "03:47",
+    "artists": [
+      { "name": "陆怡雯", "link": "https://music.163.com/artist?id=34283831" },
+      {
+        "name": "马海昕Aaron",
+        "link": "https://music.163.com/artist?id=30281362"
+      },
+      { "name": "R7CKY", "link": "https://music.163.com/artist?id=1044054" }
+    ],
+    "album": {
+      "name": "涅槃",
+      "link": "https://music.163.com/album?id=91955540"
+    }
+  },
+  {
+    "name": "星火",
+    "link": "https://music.163.com/song?id=1337778433",
+    "duration": "04:00",
+    "artists": [
+      {
+        "name": "吴赫伦Alexso",
+        "link": "https://music.163.com/artist?id=12499463"
+      },
+      { "name": "崔天琪", "link": "https://music.163.com/artist?id=7419" },
+      { "name": "Cibbs", "link": "https://music.163.com/artist?id=12316462" },
+      { "name": "孙禹", "link": "https://music.163.com/artist?id=31203163" }
+    ],
+    "album": {
+      "name": "星火",
+      "link": "https://music.163.com/album?id=75063223"
+    }
+  },
+  {
+    "name": "Out of This World",
+    "link": "https://music.163.com/song?id=408772707",
+    "duration": "04:11",
+    "artists": [
+      { "name": "Emblem3", "link": "https://music.163.com/artist?id=804398" }
+    ],
+    "album": {
+      "name": "Waking Up",
+      "link": "https://music.163.com/album?id=34590742"
+    }
+  },
+  {
+    "name": "Hung Up (L3V3LS Remix)",
+    "link": "https://music.163.com/song?id=476323622",
+    "duration": "04:31",
+    "artists": [
+      { "name": "L3V3LS", "link": "https://music.163.com/artist?id=12007340" },
+      { "name": "Tritonal", "link": "https://music.163.com/artist?id=104133" },
+      {
+        "name": "Emma Gatsby",
+        "link": "https://music.163.com/artist?id=12086040"
+      },
+      { "name": "sangji", "link": "https://music.163.com/artist?id=12472780" }
+    ],
+    "album": {
+      "name": "Hung Up (L3V3LS Remix)",
+      "link": "https://music.163.com/album?id=35455193"
+    }
+  },
+  {
+    "name": "KISS OR DEATH",
+    "link": "https://music.163.com/song?id=1864063447",
+    "duration": "03:27",
+    "artists": [
+      { "name": "MONSTA X", "link": "https://music.163.com/artist?id=1070068" }
+    ],
+    "album": {
+      "name": "KISS OR DEATH",
+      "link": "https://music.163.com/album?id=130864119"
+    }
+  },
+  {
+    "name": "2002",
+    "link": "https://music.163.com/song?id=553479159",
+    "duration": "03:06",
+    "artists": [
+      {
+        "name": "Anne-Marie",
+        "link": "https://music.163.com/artist?id=1102181"
+      }
+    ],
+    "album": {
+      "name": "Speak Your Mind (Deluxe)",
+      "link": "https://music.163.com/album?id=38422044"
+    }
+  },
+  {
+    "name": "Warbringer",
+    "link": "https://music.163.com/song?id=1864329113",
+    "duration": "03:39",
+    "artists": [
+      {
+        "name": "TheFatRat",
+        "link": "https://music.163.com/artist?id=1019952"
+      },
+      {
+        "name": "Everen Maxwell",
+        "link": "https://music.163.com/artist?id=14528547"
+      },
+      {
+        "name": "Lindsey Stirling",
+        "link": "https://music.163.com/artist?id=66225"
+      }
+    ],
+    "album": {
+      "name": "Warbringer",
+      "link": "https://music.163.com/album?id=130915049"
+    }
+  }
+]

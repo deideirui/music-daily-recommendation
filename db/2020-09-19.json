@@ -1,0 +1,433 @@
+[
+  {
+    "name": "Hold The Line",
+    "link": "https://music.163.com/song?id=1370108697",
+    "duration": "02:51",
+    "artists": [
+      { "name": "Avicii", "link": "https://music.163.com/artist?id=45236" },
+      {
+        "name": "A R I Z O N A",
+        "link": "https://music.163.com/artist?id=1137065"
+      }
+    ],
+    "album": {
+      "name": "TIM",
+      "link": "https://music.163.com/album?id=79638731"
+    }
+  },
+  {
+    "name": "Only Now (feat. Tyler Graves)",
+    "link": "https://music.163.com/song?id=1433425151",
+    "duration": "03:31",
+    "artists": [
+      {
+        "name": "Seven Lions",
+        "link": "https://music.163.com/artist?id=44204"
+      },
+      {
+        "name": "Tyler Graves",
+        "link": "https://music.163.com/artist?id=31834852"
+      }
+    ],
+    "album": {
+      "name": "Find Another Way",
+      "link": "https://music.163.com/album?id=86776607"
+    }
+  },
+  {
+    "name": "Hymn For The Weekend [Remix]",
+    "link": "https://music.163.com/song?id=419594258",
+    "duration": "03:50",
+    "artists": [
+      {
+        "name": "Alan Walker",
+        "link": "https://music.163.com/artist?id=1045123"
+      },
+      { "name": "Coldplay", "link": "https://music.163.com/artist?id=89365" }
+    ],
+    "album": {
+      "name": "Hymn For The Weekend [Remix]",
+      "link": "https://music.163.com/album?id=34767073"
+    }
+  },
+  {
+    "name": "Friendships (Original Mix)",
+    "link": "https://music.163.com/song?id=505449407",
+    "duration": "04:02",
+    "artists": [
+      {
+        "name": "Pascal Letoublon",
+        "link": "https://music.163.com/artist?id=12634325"
+      }
+    ],
+    "album": {
+      "name": "Friendships",
+      "link": "https://music.163.com/album?id=36196158"
+    }
+  },
+  {
+    "name": "Let Me Pretend",
+    "link": "https://music.163.com/song?id=1325356977",
+    "duration": "03:06",
+    "artists": [
+      {
+        "name": "Luca Debonaire",
+        "link": "https://music.163.com/artist?id=896335"
+      },
+      { "name": "Tom Boye", "link": "https://music.163.com/artist?id=14158888" }
+    ],
+    "album": {
+      "name": "Let Me Pretend",
+      "link": "https://music.163.com/album?id=74409294"
+    }
+  },
+  {
+    "name": "Come Back For You (Morgan Page Remix)",
+    "link": "https://music.163.com/song?id=531040135",
+    "duration": "02:58",
+    "artists": [
+      {
+        "name": "Morgan Page",
+        "link": "https://music.163.com/artist?id=39698"
+      },
+      { "name": "Elephante", "link": "https://music.163.com/artist?id=1050284" }
+    ],
+    "album": {
+      "name": "Come Back For You (Morgan Page Remix)",
+      "link": "https://music.163.com/album?id=37316101"
+    }
+  },
+  {
+    "name": "Happier",
+    "link": "https://music.163.com/song?id=1351603803",
+    "duration": "03:07",
+    "artists": [
+      { "name": "MADILYN", "link": "https://music.163.com/artist?id=69270" }
+    ],
+    "album": {
+      "name": "Happier",
+      "link": "https://music.163.com/album?id=75832493"
+    }
+  },
+  {
+    "name": "Remember (Original Mix)",
+    "link": "https://music.163.com/song?id=27644359",
+    "duration": "05:37",
+    "artists": [
+      { "name": "Sensitive", "link": "https://music.163.com/artist?id=820340" },
+      {
+        "name": "Bogdan Bondarenko",
+        "link": "https://music.163.com/artist?id=820341"
+      }
+    ],
+    "album": {
+      "name": "Remember",
+      "link": "https://music.163.com/album?id=2651201"
+    }
+  },
+  {
+    "name": "Connection",
+    "link": "https://music.163.com/song?id=1431388092",
+    "duration": "02:36",
+    "artists": [
+      {
+        "name": "Asketa & Natan Chaim",
+        "link": "https://music.163.com/artist?id=32523005"
+      }
+    ],
+    "album": {
+      "name": "Connection",
+      "link": "https://music.163.com/album?id=86547963"
+    }
+  },
+  {
+    "name": "Let Go",
+    "link": "https://music.163.com/song?id=1456344689",
+    "duration": "03:27",
+    "artists": [
+      { "name": "GTA", "link": "https://music.163.com/artist?id=255484" },
+      {
+        "name": "Tony Romera",
+        "link": "https://music.163.com/artist?id=205396"
+      }
+    ],
+    "album": {
+      "name": "Let Go",
+      "link": "https://music.163.com/album?id=91139117"
+    }
+  },
+  {
+    "name": "Conclude",
+    "link": "https://music.163.com/song?id=1406279237",
+    "duration": "04:12",
+    "artists": [
+      { "name": "Domastic", "link": "https://music.163.com/artist?id=12249119" }
+    ],
+    "album": {
+      "name": "Conclude",
+      "link": "https://music.163.com/album?id=83709194"
+    }
+  },
+  {
+    "name": "Last Night",
+    "link": "https://music.163.com/song?id=1405908503",
+    "duration": "03:19",
+    "artists": [
+      { "name": "MorganJ", "link": "https://music.163.com/artist?id=1182290" },
+      { "name": "FWN", "link": "https://music.163.com/artist?id=33270669" }
+    ],
+    "album": {
+      "name": "Last Night",
+      "link": "https://music.163.com/album?id=83661658"
+    }
+  },
+  {
+    "name": "Call Me Now (Namatria Remix Edit)",
+    "link": "https://music.163.com/song?id=476324541",
+    "duration": "03:03",
+    "artists": [
+      {
+        "name": "Lisitsyn",
+        "link": "https://music.163.com/artist?id=12024167"
+      },
+      { "name": "MBNN", "link": "https://music.163.com/artist?id=12685239" },
+      { "name": "Alateya", "link": "https://music.163.com/artist?id=12474829" }
+    ],
+    "album": {
+      "name": "Call Me Now",
+      "link": "https://music.163.com/album?id=35455171"
+    }
+  },
+  {
+    "name": "Lonely Star",
+    "link": "https://music.163.com/song?id=1437154102",
+    "duration": "03:57",
+    "artists": [
+      { "name": "Oh Wonder", "link": "https://music.163.com/artist?id=1050128" }
+    ],
+    "album": {
+      "name": "Home Tapes",
+      "link": "https://music.163.com/album?id=91529139"
+    }
+  },
+  {
+    "name": "Give A Little",
+    "link": "https://music.163.com/song?id=534542183",
+    "duration": "03:54",
+    "artists": [
+      { "name": "Ash", "link": "https://music.163.com/artist?id=840746" },
+      { "name": "Naïla", "link": "https://music.163.com/artist?id=540134" }
+    ],
+    "album": {
+      "name": "Give A Little",
+      "link": "https://music.163.com/album?id=37465064"
+    }
+  },
+  {
+    "name": "She's Got a Gun",
+    "link": "https://music.163.com/song?id=1442744833",
+    "duration": "03:13",
+    "artists": [
+      { "name": "Kuuro", "link": "https://music.163.com/artist?id=12131546" },
+      { "name": "McCall", "link": "https://music.163.com/artist?id=14065757" }
+    ],
+    "album": {
+      "name": "She's Got a Gun",
+      "link": "https://music.163.com/album?id=88405645"
+    }
+  },
+  {
+    "name": "Karma Chameleon",
+    "link": "https://music.163.com/song?id=22463032",
+    "duration": "04:01",
+    "artists": [
+      {
+        "name": "Culture Club",
+        "link": "https://music.163.com/artist?id=50944"
+      }
+    ],
+    "album": {
+      "name": "Greatest Moments",
+      "link": "https://music.163.com/album?id=2058003"
+    }
+  },
+  {
+    "name": "Nicky Romero-Falling（SSR remix）",
+    "link": "https://music.163.com/song?id=1447509103",
+    "duration": "03:24",
+    "artists": [
+      { "name": "SSR", "link": "https://music.163.com/artist?id=32856339" }
+    ],
+    "album": {
+      "name": "Falling(SSR Remix)",
+      "link": "https://music.163.com/album?id=89306986"
+    }
+  },
+  {
+    "name": "李香兰",
+    "link": "https://music.163.com/song?id=32688998",
+    "duration": "06:39",
+    "artists": [
+      { "name": "张学友", "link": "https://music.163.com/artist?id=6460" }
+    ],
+    "album": {
+      "name": "环球DSD视听之王",
+      "link": "https://music.163.com/album?id=3169511"
+    }
+  },
+  {
+    "name": "Ball",
+    "link": "https://music.163.com/song?id=1387532938",
+    "duration": "02:55",
+    "artists": [
+      {
+        "name": "Eric Bellinger",
+        "link": "https://music.163.com/artist?id=247762"
+      }
+    ],
+    "album": {
+      "name": "Ball",
+      "link": "https://music.163.com/album?id=81250453"
+    }
+  },
+  {
+    "name": "What I'm Here 4",
+    "link": "https://music.163.com/song?id=18055774",
+    "duration": "02:45",
+    "artists": [
+      { "name": "Gang Starr", "link": "https://music.163.com/artist?id=58252" }
+    ],
+    "album": {
+      "name": "Moment Of Truth",
+      "link": "https://music.163.com/album?id=1659950"
+    }
+  },
+  {
+    "name": "小星星",
+    "link": "https://music.163.com/song?id=1357378958",
+    "duration": "03:46",
+    "artists": [
+      { "name": "杨千嬅", "link": "https://music.163.com/artist?id=10204" }
+    ],
+    "album": {
+      "name": "Gold Typhoon Best Sellers Series - Miriam Yeung",
+      "link": "https://music.163.com/album?id=78372581"
+    }
+  },
+  {
+    "name": "Hotel California",
+    "link": "https://music.163.com/song?id=27000303",
+    "duration": "06:29",
+    "artists": [
+      { "name": "Eagles", "link": "https://music.163.com/artist?id=91725" }
+    ],
+    "album": {
+      "name": "Greatest Hits",
+      "link": "https://music.163.com/album?id=2581011"
+    }
+  },
+  {
+    "name": "Isis",
+    "link": "https://music.163.com/song?id=1367326171",
+    "duration": "03:56",
+    "artists": [
+      {
+        "name": "Joyner Lucas",
+        "link": "https://music.163.com/artist?id=839067"
+      },
+      { "name": "Logic", "link": "https://music.163.com/artist?id=1015122" }
+    ],
+    "album": {
+      "name": "ADHD",
+      "link": "https://music.163.com/album?id=86852776"
+    }
+  },
+  {
+    "name": "Please Me",
+    "link": "https://music.163.com/song?id=1346069277",
+    "duration": "03:20",
+    "artists": [
+      { "name": "Cardi B", "link": "https://music.163.com/artist?id=12504253" },
+      { "name": "Bruno Mars", "link": "https://music.163.com/artist?id=178059" }
+    ],
+    "album": {
+      "name": "Please Me",
+      "link": "https://music.163.com/album?id=75556550"
+    }
+  },
+  {
+    "name": "Freed From Desire",
+    "link": "https://music.163.com/song?id=1322313549",
+    "duration": "02:41",
+    "artists": [
+      {
+        "name": "Drenchill",
+        "link": "https://music.163.com/artist?id=14157071"
+      },
+      { "name": "Indiiana", "link": "https://music.163.com/artist?id=14377671" }
+    ],
+    "album": {
+      "name": "Freed From Desire",
+      "link": "https://music.163.com/album?id=74210491"
+    }
+  },
+  {
+    "name": "Ditch",
+    "link": "https://music.163.com/song?id=2014218",
+    "duration": "02:11",
+    "artists": [
+      {
+        "name": "The Partisan Seed",
+        "link": "https://music.163.com/artist?id=44372"
+      }
+    ],
+    "album": {
+      "name": "Indian Summer",
+      "link": "https://music.163.com/album?id=202919"
+    }
+  },
+  {
+    "name": "Fake",
+    "link": "https://music.163.com/song?id=1344644402",
+    "duration": "02:21",
+    "artists": [
+      {
+        "name": "The Tech Thieves",
+        "link": "https://music.163.com/artist?id=12080267"
+      }
+    ],
+    "album": {
+      "name": "Fake",
+      "link": "https://music.163.com/album?id=75479490"
+    }
+  },
+  {
+    "name": "Way Back",
+    "link": "https://music.163.com/song?id=543987451",
+    "duration": "03:28",
+    "artists": [
+      { "name": "Vicetone", "link": "https://music.163.com/artist?id=747030" },
+      {
+        "name": "Cozi Zuehlsdorff",
+        "link": "https://music.163.com/artist?id=1097153"
+      }
+    ],
+    "album": {
+      "name": "Way Back",
+      "link": "https://music.163.com/album?id=37888075"
+    }
+  },
+  {
+    "name": "In My Way",
+    "link": "https://music.163.com/song?id=523250422",
+    "duration": "03:39",
+    "artists": [
+      { "name": "JFARR", "link": "https://music.163.com/artist?id=11992167" },
+      { "name": "Tomatow", "link": "https://music.163.com/artist?id=12233075" }
+    ],
+    "album": {
+      "name": "In My Way",
+      "link": "https://music.163.com/album?id=36952155"
+    }
+  }
+]

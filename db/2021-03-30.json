@@ -1,0 +1,423 @@
+[
+  {
+    "name": "Curative",
+    "link": "https://music.163.com/song?id=1378999559",
+    "duration": "03:20",
+    "artists": [
+      {
+        "name": "The Darkmaker",
+        "link": "https://music.163.com/artist?id=31492299"
+      }
+    ],
+    "album": {
+      "name": "The Fairy",
+      "link": "https://music.163.com/album?id=80471989"
+    }
+  },
+  {
+    "name": "Passion Summer (盛夏)",
+    "link": "https://music.163.com/song?id=1391171224",
+    "duration": "04:13",
+    "artists": [
+      { "name": "暴君de", "link": "https://music.163.com/artist?id=12599289" }
+    ],
+    "album": {
+      "name": "Passion Summer (盛夏)",
+      "link": "https://music.163.com/album?id=81613515"
+    }
+  },
+  {
+    "name": "Darkmoon",
+    "link": "https://music.163.com/song?id=1378713378",
+    "duration": "03:38",
+    "artists": [
+      { "name": "JINGYAN", "link": "https://music.163.com/artist?id=30645561" }
+    ],
+    "album": {
+      "name": "Darkmoon",
+      "link": "https://music.163.com/album?id=80464022"
+    }
+  },
+  {
+    "name": "Wonderland",
+    "link": "https://music.163.com/song?id=1455308815",
+    "duration": "04:38",
+    "artists": [
+      {
+        "name": "BloodRomantic",
+        "link": "https://music.163.com/artist?id=33068267"
+      }
+    ],
+    "album": {
+      "name": "Wonderland",
+      "link": "https://music.163.com/album?id=90785467"
+    }
+  },
+  {
+    "name": "她 (She)",
+    "link": "https://music.163.com/song?id=1381346515",
+    "duration": "02:37",
+    "artists": [
+      { "name": "Y.D.M.", "link": "https://music.163.com/artist?id=32903687" },
+      { "name": "MatChA", "link": "https://music.163.com/artist?id=28187324" }
+    ],
+    "album": {
+      "name": "她 (She)",
+      "link": "https://music.163.com/album?id=80716221"
+    }
+  },
+  {
+    "name": "HeartBreak",
+    "link": "https://music.163.com/song?id=480575911",
+    "duration": "02:54",
+    "artists": [
+      { "name": "Darren", "link": "https://music.163.com/artist?id=12448197" },
+      { "name": "Hevenly", "link": "https://music.163.com/artist?id=12931941" }
+    ],
+    "album": {
+      "name": "HeartBreak",
+      "link": "https://music.163.com/album?id=35560229"
+    }
+  },
+  {
+    "name": "越来越不懂",
+    "link": "https://music.163.com/song?id=1833092635",
+    "duration": "03:33",
+    "artists": [
+      { "name": "秋然", "link": "https://music.163.com/artist?id=33097498" }
+    ],
+    "album": {
+      "name": "越来越不懂",
+      "link": "https://music.163.com/album?id=125272049"
+    }
+  },
+  {
+    "name": "Panic Room (Acoustic)",
+    "link": "https://music.163.com/song?id=540333734",
+    "duration": "04:17",
+    "artists": [
+      { "name": "Au/Ra", "link": "https://music.163.com/artist?id=12143031" }
+    ],
+    "album": {
+      "name": "Panic Room (Acoustic)",
+      "link": "https://music.163.com/album?id=37561826"
+    }
+  },
+  {
+    "name": "Savage",
+    "link": "https://music.163.com/song?id=552681508",
+    "duration": "02:44",
+    "artists": [
+      { "name": "Bahari", "link": "https://music.163.com/artist?id=1044218" }
+    ],
+    "album": {
+      "name": "Savage",
+      "link": "https://music.163.com/album?id=38347611"
+    }
+  },
+  {
+    "name": "もう一度",
+    "link": "https://music.163.com/song?id=1421273800",
+    "duration": "04:24",
+    "artists": [
+      {
+        "name": "BillyBiano",
+        "link": "https://music.163.com/artist?id=12434377"
+      },
+      {
+        "name": "夏野Natsuno",
+        "link": "https://music.163.com/artist?id=29023386"
+      }
+    ],
+    "album": {
+      "name": "もう一度",
+      "link": "https://music.163.com/album?id=85513840"
+    }
+  },
+  {
+    "name": "寂しい夏のせいにして（Cover 初音ミク）",
+    "link": "https://music.163.com/song?id=493964975",
+    "duration": "03:55",
+    "artists": [
+      { "name": "尋音", "link": "https://music.163.com/artist?id=12264207" }
+    ],
+    "album": {
+      "name": "寂しい夏のせいにして",
+      "link": "https://music.163.com/album?id=35847481"
+    }
+  },
+  {
+    "name": "Take It off",
+    "link": "https://music.163.com/song?id=1337340011",
+    "duration": "03:14",
+    "artists": [
+      {
+        "name": "Two Friends",
+        "link": "https://music.163.com/artist?id=536718"
+      }
+    ],
+    "album": {
+      "name": "Take It off",
+      "link": "https://music.163.com/album?id=75043818"
+    }
+  },
+  {
+    "name": "Sea",
+    "link": "https://music.163.com/song?id=549800624",
+    "duration": "04:24",
+    "artists": [
+      {
+        "name": "Ina Wroldsen",
+        "link": "https://music.163.com/artist?id=60879"
+      }
+    ],
+    "album": {
+      "name": "Sea",
+      "link": "https://music.163.com/album?id=38013961"
+    }
+  },
+  {
+    "name": "Got It In You (Acoustic)",
+    "link": "https://music.163.com/song?id=1348931712",
+    "duration": "03:42",
+    "artists": [
+      { "name": "BANNERS", "link": "https://music.163.com/artist?id=1150181" }
+    ],
+    "album": {
+      "name": "Got It In You (Acoustic)",
+      "link": "https://music.163.com/album?id=75728652"
+    }
+  },
+  {
+    "name": "Soldier",
+    "link": "https://music.163.com/song?id=407699922",
+    "duration": "03:45",
+    "artists": [
+      { "name": "Fleurie", "link": "https://music.163.com/artist?id=860929" }
+    ],
+    "album": {
+      "name": "Soldier",
+      "link": "https://music.163.com/album?id=34590128"
+    }
+  },
+  {
+    "name": "Light That Fire",
+    "link": "https://music.163.com/song?id=485964978",
+    "duration": "02:19",
+    "artists": [
+      {
+        "name": "Oh The Larceny",
+        "link": "https://music.163.com/artist?id=12333048"
+      }
+    ],
+    "album": {
+      "name": "Oh the Larceny",
+      "link": "https://music.163.com/album?id=35288108"
+    }
+  },
+  {
+    "name": "Home",
+    "link": "https://music.163.com/song?id=428391496",
+    "duration": "06:06",
+    "artists": [
+      { "name": "2A", "link": "https://music.163.com/artist?id=12115071" },
+      {
+        "name": "無名MUMEI",
+        "link": "https://music.163.com/artist?id=32563556"
+      }
+    ],
+    "album": {
+      "name": "2A和他的小伙伴们都惊呆了",
+      "link": "https://music.163.com/album?id=34863213"
+    }
+  },
+  {
+    "name": "BLACKOUT",
+    "link": "https://music.163.com/song?id=1386891381",
+    "duration": "03:17",
+    "artists": [
+      { "name": "AViVA", "link": "https://music.163.com/artist?id=12074178" }
+    ],
+    "album": {
+      "name": "BLACKOUT",
+      "link": "https://music.163.com/album?id=81176308"
+    }
+  },
+  {
+    "name": "Mind over Matter (Acoustic)",
+    "link": "https://music.163.com/song?id=28475344",
+    "duration": "03:23",
+    "artists": [
+      { "name": "PVRIS", "link": "https://music.163.com/artist?id=960005" }
+    ],
+    "album": {
+      "name": "Acoustic",
+      "link": "https://music.163.com/album?id=2807560"
+    }
+  },
+  {
+    "name": "Starship",
+    "link": "https://music.163.com/song?id=5065581",
+    "duration": "03:30",
+    "artists": [
+      { "name": "Nicki Minaj", "link": "https://music.163.com/artist?id=70183" }
+    ],
+    "album": {
+      "name": "NRJ Summer Hits Only 2012",
+      "link": "https://music.163.com/album?id=502453"
+    }
+  },
+  {
+    "name": "Diamond Cut Diamond (Original Mix)",
+    "link": "https://music.163.com/song?id=1830225972",
+    "duration": "03:34",
+    "artists": [
+      {
+        "name": "Worry Free Studios",
+        "link": "https://music.163.com/artist?id=46503501"
+      },
+      { "name": "Grimmmz", "link": "https://music.163.com/artist?id=47040403" },
+      {
+        "name": "United Idol",
+        "link": "https://music.163.com/artist?id=35839534"
+      }
+    ],
+    "album": {
+      "name": "Kẻ Cắp Gặp Bà Già",
+      "link": "https://music.163.com/album?id=124647383"
+    }
+  },
+  {
+    "name": "No Man's Sky",
+    "link": "https://music.163.com/song?id=426027480",
+    "duration": "02:50",
+    "artists": [
+      { "name": "Resonance", "link": "https://music.163.com/artist?id=196588" }
+    ],
+    "album": {
+      "name": "No Man's Sky",
+      "link": "https://music.163.com/album?id=34825112"
+    }
+  },
+  {
+    "name": "LOST IN PARADISE（楽園放浪） - (TV动画《咒术回战》ED1)",
+    "link": "https://music.163.com/song?id=1483023596",
+    "duration": "05:28",
+    "artists": [
+      { "name": "ALI", "link": "https://music.163.com/artist?id=33092800" },
+      { "name": "AKLO", "link": "https://music.163.com/artist?id=712168" }
+    ],
+    "album": {
+      "name": "LOST IN PARADISE",
+      "link": "https://music.163.com/album?id=96078870"
+    }
+  },
+  {
+    "name": "back iN the day",
+    "link": "https://music.163.com/song?id=29786290",
+    "duration": "02:49",
+    "artists": [
+      { "name": "横山克", "link": "https://music.163.com/artist?id=15917" }
+    ],
+    "album": {
+      "name": "TBS系 金曜ドラマ「Nのために」オリジナル・サウンドトラック",
+      "link": "https://music.163.com/album?id=3079380"
+    }
+  },
+  {
+    "name": "Parachute",
+    "link": "https://music.163.com/song?id=1447594669",
+    "duration": "04:12",
+    "artists": [
+      { "name": "milet", "link": "https://music.163.com/artist?id=31464106" }
+    ],
+    "album": {
+      "name": "eyes",
+      "link": "https://music.163.com/album?id=89348129"
+    }
+  },
+  {
+    "name": "Something In the Water",
+    "link": "https://music.163.com/song?id=426107924",
+    "duration": "03:27",
+    "artists": [
+      {
+        "name": "Tom Grennan",
+        "link": "https://music.163.com/artist?id=12098162"
+      }
+    ],
+    "album": {
+      "name": "Something In the Water",
+      "link": "https://music.163.com/album?id=34803755"
+    }
+  },
+  {
+    "name": "Vampires",
+    "link": "https://music.163.com/song?id=426027091",
+    "duration": "05:17",
+    "artists": [
+      {
+        "name": "The Midnight",
+        "link": "https://music.163.com/artist?id=12023492"
+      }
+    ],
+    "album": {
+      "name": "Endless Summer",
+      "link": "https://music.163.com/album?id=34826028"
+    }
+  },
+  {
+    "name": "ハルノユキ from polaris",
+    "link": "https://music.163.com/song?id=473403775",
+    "duration": "06:21",
+    "artists": [
+      {
+        "name": "リリィ、さよなら。",
+        "link": "https://music.163.com/artist?id=1101089"
+      },
+      { "name": "増田俊樹", "link": "https://music.163.com/artist?id=911008" }
+    ],
+    "album": {
+      "name": "ハルノユキ from polaris",
+      "link": "https://music.163.com/album?id=35377121"
+    }
+  },
+  {
+    "name": "L.I.F.E.",
+    "link": "https://music.163.com/song?id=439037024",
+    "duration": "02:59",
+    "artists": [
+      { "name": "Remady", "link": "https://music.163.com/artist?id=42785" },
+      { "name": "Manu-L", "link": "https://music.163.com/artist?id=412923" }
+    ],
+    "album": {
+      "name": "L.I.F.E.",
+      "link": "https://music.163.com/album?id=34970029"
+    }
+  },
+  {
+    "name": "End Credits",
+    "link": "https://music.163.com/song?id=463268703",
+    "duration": "04:20",
+    "artists": [
+      { "name": "L3V3LS", "link": "https://music.163.com/artist?id=12007340" }
+    ],
+    "album": {
+      "name": "End Credits",
+      "link": "https://music.163.com/album?id=35235483"
+    }
+  },
+  {
+    "name": "Lucifer",
+    "link": "https://music.163.com/song?id=1830688781",
+    "duration": "03:14",
+    "artists": [
+      { "name": "MKJ", "link": "https://music.163.com/artist?id=469200" },
+      { "name": "Lucifer", "link": "https://music.163.com/artist?id=1182916" }
+    ],
+    "album": {
+      "name": "Lucifer",
+      "link": "https://music.163.com/album?id=124758668"
+    }
+  }
+]

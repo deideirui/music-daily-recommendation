@@ -1,0 +1,495 @@
+[
+  {
+    "name": "The Storm",
+    "link": "https://music.163.com/song?id=1417907835",
+    "duration": "02:48",
+    "artists": [
+      {
+        "name": "TheFatRat",
+        "link": "https://music.163.com/artist?id=1019952"
+      },
+      { "name": "Maisy Kay", "link": "https://music.163.com/artist?id=1124551" }
+    ],
+    "album": {
+      "name": "The Storm",
+      "link": "https://music.163.com/album?id=85101961"
+    }
+  },
+  {
+    "name": "Chameleon",
+    "link": "https://music.163.com/song?id=1418972564",
+    "duration": "03:28",
+    "artists": [
+      { "name": "Mako", "link": "https://music.163.com/artist?id=68192" },
+      { "name": "Elephante", "link": "https://music.163.com/artist?id=1050284" }
+    ],
+    "album": {
+      "name": "Chameleon",
+      "link": "https://music.163.com/album?id=85220475"
+    }
+  },
+  {
+    "name": "I Hope",
+    "link": "https://music.163.com/song?id=1442476881",
+    "duration": "03:38",
+    "artists": [
+      { "name": "Yetep", "link": "https://music.163.com/artist?id=12356399" },
+      {
+        "name": "Heather Sommer",
+        "link": "https://music.163.com/artist?id=13134228"
+      },
+      {
+        "name": "Kyle Reynolds",
+        "link": "https://music.163.com/artist?id=1179061"
+      }
+    ],
+    "album": {
+      "name": "I Hope",
+      "link": "https://music.163.com/album?id=88354760"
+    }
+  },
+  {
+    "name": "Same Love",
+    "link": "https://music.163.com/song?id=1399256562",
+    "duration": "03:33",
+    "artists": [
+      {
+        "name": "Prince Fox",
+        "link": "https://music.163.com/artist?id=1161141"
+      }
+    ],
+    "album": {
+      "name": "Same Love",
+      "link": "https://music.163.com/album?id=82762076"
+    }
+  },
+  {
+    "name": "Everything's Good",
+    "link": "https://music.163.com/song?id=1451252177",
+    "duration": "03:03",
+    "artists": [
+      { "name": "Phil Good", "link": "https://music.163.com/artist?id=757159" }
+    ],
+    "album": {
+      "name": "Everything's Good",
+      "link": "https://music.163.com/album?id=90011509"
+    }
+  },
+  {
+    "name": "Feel The Love",
+    "link": "https://music.163.com/song?id=1344790260",
+    "duration": "02:55",
+    "artists": [
+      { "name": "R3SPAWN", "link": "https://music.163.com/artist?id=12214203" },
+      { "name": "RMCM", "link": "https://music.163.com/artist?id=12290236" },
+      {
+        "name": "David Shane",
+        "link": "https://music.163.com/artist?id=29840982"
+      }
+    ],
+    "album": {
+      "name": "Feel The Love",
+      "link": "https://music.163.com/album?id=75487829"
+    }
+  },
+  {
+    "name": "I See Right Through To You",
+    "link": "https://music.163.com/song?id=1424102161",
+    "duration": "03:26",
+    "artists": [
+      {
+        "name": "Axel Johansson",
+        "link": "https://music.163.com/artist?id=12872604"
+      },
+      {
+        "name": "Amy Grace",
+        "link": "https://music.163.com/artist?id=29836145"
+      }
+    ],
+    "album": {
+      "name": "I See Right Through To You",
+      "link": "https://music.163.com/album?id=85801318"
+    }
+  },
+  {
+    "name": "Alone with You",
+    "link": "https://music.163.com/song?id=1381854510",
+    "duration": "02:33",
+    "artists": [
+      {
+        "name": "Y.V.E. 48",
+        "link": "https://music.163.com/artist?id=1032445"
+      },
+      { "name": "Loé", "link": "https://music.163.com/artist?id=12334353" }
+    ],
+    "album": {
+      "name": "Alone with You",
+      "link": "https://music.163.com/album?id=80761818"
+    }
+  },
+  {
+    "name": "Chroma",
+    "link": "https://music.163.com/song?id=1443000480",
+    "duration": "02:52",
+    "artists": [
+      {
+        "name": "Pixel Terror",
+        "link": "https://music.163.com/artist?id=12901261"
+      },
+      { "name": "Emeline", "link": "https://music.163.com/artist?id=626123" }
+    ],
+    "album": {
+      "name": "Chroma",
+      "link": "https://music.163.com/album?id=88457692"
+    }
+  },
+  {
+    "name": "Unspoken",
+    "link": "https://music.163.com/song?id=1407907873",
+    "duration": "03:16",
+    "artists": [
+      {
+        "name": "Blackcode",
+        "link": "https://music.163.com/artist?id=30013002"
+      },
+      { "name": "9Lives", "link": "https://music.163.com/artist?id=353551" },
+      {
+        "name": "Charlie Miller",
+        "link": "https://music.163.com/artist?id=140771"
+      }
+    ],
+    "album": {
+      "name": "Unspoken",
+      "link": "https://music.163.com/album?id=83928106"
+    }
+  },
+  {
+    "name": "Infinite (feat. Saint Slumber)",
+    "link": "https://music.163.com/song?id=1416675110",
+    "duration": "03:28",
+    "artists": [
+      { "name": "ARMNHMR", "link": "https://music.163.com/artist?id=1132078" },
+      {
+        "name": "Saint Slumber",
+        "link": "https://music.163.com/artist?id=14036477"
+      }
+    ],
+    "album": {
+      "name": "The Free World",
+      "link": "https://music.163.com/album?id=84981689"
+    }
+  },
+  {
+    "name": "Far From You",
+    "link": "https://music.163.com/song?id=557583017",
+    "duration": "04:39",
+    "artists": [
+      {
+        "name": "WildVibes",
+        "link": "https://music.163.com/artist?id=1181751"
+      },
+      {
+        "name": "Martin Miller",
+        "link": "https://music.163.com/artist?id=12534226"
+      },
+      {
+        "name": "Arild Aas",
+        "link": "https://music.163.com/artist?id=13436856"
+      }
+    ],
+    "album": {
+      "name": "Far From You",
+      "link": "https://music.163.com/album?id=38594012"
+    }
+  },
+  {
+    "name": "Feel Something",
+    "link": "https://music.163.com/song?id=445144934",
+    "duration": "03:52",
+    "artists": [
+      { "name": "Anevo", "link": "https://music.163.com/artist?id=368578" },
+      {
+        "name": "Kayla Diamond",
+        "link": "https://music.163.com/artist?id=13023833"
+      }
+    ],
+    "album": {
+      "name": "Feel Something",
+      "link": "https://music.163.com/album?id=35022931"
+    }
+  },
+  {
+    "name": "OMG",
+    "link": "https://music.163.com/song?id=1381314214",
+    "duration": "03:35",
+    "artists": [
+      { "name": "Gryffin", "link": "https://music.163.com/artist?id=1181504" },
+      {
+        "name": "Carly Rae Jepsen",
+        "link": "https://music.163.com/artist?id=50934"
+      }
+    ],
+    "album": {
+      "name": "OMG",
+      "link": "https://music.163.com/album?id=80714627"
+    }
+  },
+  {
+    "name": "Dreams",
+    "link": "https://music.163.com/song?id=1419551364",
+    "duration": "02:45",
+    "artists": [
+      { "name": "Metrush", "link": "https://music.163.com/artist?id=13225328" },
+      {
+        "name": "Jordan Grace",
+        "link": "https://music.163.com/artist?id=33078903"
+      }
+    ],
+    "album": {
+      "name": "Dreams",
+      "link": "https://music.163.com/album?id=85313576"
+    }
+  },
+  {
+    "name": "Find Our Way",
+    "link": "https://music.163.com/song?id=574928903",
+    "duration": "03:28",
+    "artists": [
+      {
+        "name": "Midnight Kids",
+        "link": "https://music.163.com/artist?id=13192314"
+      },
+      { "name": "Klei", "link": "https://music.163.com/artist?id=12995337" }
+    ],
+    "album": {
+      "name": "Find Our Way",
+      "link": "https://music.163.com/album?id=39792222"
+    }
+  },
+  {
+    "name": "We’re The Same‬‬",
+    "link": "https://music.163.com/song?id=1364333108",
+    "duration": "02:54",
+    "artists": [
+      { "name": "Vigiland", "link": "https://music.163.com/artist?id=1046407" },
+      {
+        "name": "Alexander Tidebrink",
+        "link": "https://music.163.com/artist?id=12532181"
+      }
+    ],
+    "album": {
+      "name": "We’re The Same‬‬",
+      "link": "https://music.163.com/album?id=79035231"
+    }
+  },
+  {
+    "name": "21",
+    "link": "https://music.163.com/song?id=1424675505",
+    "duration": "03:05",
+    "artists": [
+      {
+        "name": "Gracie Abrams",
+        "link": "https://music.163.com/artist?id=33515545"
+      }
+    ],
+    "album": { "name": "21", "link": "https://music.163.com/album?id=85862432" }
+  },
+  {
+    "name": "Secret Hideaway",
+    "link": "https://music.163.com/song?id=1374581639",
+    "duration": "03:33",
+    "artists": [
+      {
+        "name": "Blank & Jones",
+        "link": "https://music.163.com/artist?id=29415"
+      },
+      {
+        "name": "Jan Loechel",
+        "link": "https://music.163.com/artist?id=12834260"
+      }
+    ],
+    "album": {
+      "name": "Secret Hideaway",
+      "link": "https://music.163.com/album?id=80060773"
+    }
+  },
+  {
+    "name": "Just Friends",
+    "link": "https://music.163.com/song?id=1367323675",
+    "duration": "02:48",
+    "artists": [
+      {
+        "name": "Virginia To Vegas",
+        "link": "https://music.163.com/artist?id=942191"
+      }
+    ],
+    "album": {
+      "name": "Just Friends",
+      "link": "https://music.163.com/album?id=79368683"
+    }
+  },
+  {
+    "name": "Sunset City",
+    "link": "https://music.163.com/song?id=1299563845",
+    "duration": "03:16",
+    "artists": [
+      {
+        "name": "Dreamcather",
+        "link": "https://music.163.com/artist?id=1180155"
+      }
+    ],
+    "album": {
+      "name": "Sunset City",
+      "link": "https://music.163.com/album?id=72073215"
+    }
+  },
+  {
+    "name": "London",
+    "link": "https://music.163.com/song?id=1333128474",
+    "duration": "02:40",
+    "artists": [
+      { "name": "Mokita", "link": "https://music.163.com/artist?id=12033046" }
+    ],
+    "album": {
+      "name": "London",
+      "link": "https://music.163.com/album?id=74869420"
+    }
+  },
+  {
+    "name": "Alright",
+    "link": "https://music.163.com/song?id=1441261540",
+    "duration": "03:15",
+    "artists": [
+      { "name": "WbToys", "link": "https://music.163.com/artist?id=12305382" }
+    ],
+    "album": {
+      "name": "Alright",
+      "link": "https://music.163.com/album?id=88142509"
+    }
+  },
+  {
+    "name": "In Between",
+    "link": "https://music.163.com/song?id=536829121",
+    "duration": "03:00",
+    "artists": [
+      {
+        "name": "Quinn Lewis",
+        "link": "https://music.163.com/artist?id=12107861"
+      }
+    ],
+    "album": {
+      "name": "In Between",
+      "link": "https://music.163.com/album?id=37568460"
+    }
+  },
+  {
+    "name": "Tastes Gud",
+    "link": "https://music.163.com/song?id=1399927689",
+    "duration": "02:23",
+    "artists": [
+      { "name": "Mo Falk", "link": "https://music.163.com/artist?id=28683052" },
+      { "name": "Zoopreme", "link": "https://music.163.com/artist?id=13959957" }
+    ],
+    "album": {
+      "name": "Tastes Gud",
+      "link": "https://music.163.com/album?id=82834710"
+    }
+  },
+  {
+    "name": "Run",
+    "link": "https://music.163.com/song?id=1318243198",
+    "duration": "02:55",
+    "artists": [
+      {
+        "name": "Greenjelin",
+        "link": "https://music.163.com/artist?id=13021897"
+      },
+      {
+        "name": "Aika Zabala",
+        "link": "https://music.163.com/artist?id=30390947"
+      }
+    ],
+    "album": {
+      "name": "Run",
+      "link": "https://music.163.com/album?id=73920687"
+    }
+  },
+  {
+    "name": "Stay The Night",
+    "link": "https://music.163.com/song?id=1376075781",
+    "duration": "02:46",
+    "artists": [
+      {
+        "name": "Just Kiddin",
+        "link": "https://music.163.com/artist?id=688618"
+      },
+      {
+        "name": "Camden Cox",
+        "link": "https://music.163.com/artist?id=13226292"
+      }
+    ],
+    "album": {
+      "name": "Stay The Night",
+      "link": "https://music.163.com/album?id=80233055"
+    }
+  },
+  {
+    "name": "Diamonds",
+    "link": "https://music.163.com/song?id=1345838444",
+    "duration": "03:26",
+    "artists": [
+      { "name": "Tritonal", "link": "https://music.163.com/artist?id=104133" },
+      {
+        "name": "Rosie Darling",
+        "link": "https://music.163.com/artist?id=13059611"
+      }
+    ],
+    "album": {
+      "name": "Diamonds",
+      "link": "https://music.163.com/album?id=75540419"
+    }
+  },
+  {
+    "name": "Geometrix (Album Mix)",
+    "link": "https://music.163.com/song?id=28773349",
+    "duration": "05:36",
+    "artists": [
+      {
+        "name": "Ferry Tayle",
+        "link": "https://music.163.com/artist?id=191818"
+      }
+    ],
+    "album": {
+      "name": "The Wizard",
+      "link": "https://music.163.com/album?id=2891198"
+    }
+  },
+  {
+    "name": "Pretty Girl (Cheat Codes X CADE Remix)",
+    "link": "https://music.163.com/song?id=1351719886",
+    "duration": "03:13",
+    "artists": [
+      {
+        "name": "Maggie Lindemann",
+        "link": "https://music.163.com/artist?id=1147155"
+      }
+    ],
+    "album": {
+      "name": "Feel Good Workout",
+      "link": "https://music.163.com/album?id=75838624"
+    }
+  },
+  {
+    "name": "All In My Head",
+    "link": "https://music.163.com/song?id=34923725",
+    "duration": "04:43",
+    "artists": [
+      { "name": "Nadia Ali", "link": "https://music.163.com/artist?id=70174" },
+      { "name": "PANG!", "link": "https://music.163.com/artist?id=367927" }
+    ],
+    "album": {
+      "name": "All In My Head",
+      "link": "https://music.163.com/album?id=3306245"
+    }
+  }
+]

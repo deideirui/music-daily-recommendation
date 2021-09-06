@@ -1,0 +1,413 @@
+[
+  {
+    "name": "祝你生日快乐",
+    "link": "https://music.163.com/song?id=392605",
+    "duration": "04:02",
+    "artists": [
+      { "name": "云雀合唱团", "link": "https://music.163.com/artist?id=13489" }
+    ],
+    "album": {
+      "name": "天籁童声",
+      "link": "https://music.163.com/album?id=38890"
+    }
+  },
+  {
+    "name": "Lavender Fields",
+    "link": "https://music.163.com/song?id=1489130939",
+    "duration": "03:12",
+    "artists": [
+      { "name": "Killigrew", "link": "https://music.163.com/artist?id=38066" }
+    ],
+    "album": {
+      "name": "New Nostalgia",
+      "link": "https://music.163.com/album?id=97192560"
+    }
+  },
+  {
+    "name": "mind games",
+    "link": "https://music.163.com/song?id=1359717287",
+    "duration": "03:41",
+    "artists": [
+      {
+        "name": "renforshort",
+        "link": "https://music.163.com/artist?id=31477800"
+      }
+    ],
+    "album": {
+      "name": "mind games",
+      "link": "https://music.163.com/album?id=78604851"
+    }
+  },
+  {
+    "name": "Revenger",
+    "link": "https://music.163.com/song?id=1435849790",
+    "duration": "03:42",
+    "artists": [
+      { "name": "F.O.O.L", "link": "https://music.163.com/artist?id=93082" }
+    ],
+    "album": {
+      "name": "Revenger",
+      "link": "https://music.163.com/album?id=87128630"
+    }
+  },
+  {
+    "name": "idontwannatalkaboutlove",
+    "link": "https://music.163.com/song?id=1382822952",
+    "duration": "02:56",
+    "artists": [
+      { "name": "CRAY", "link": "https://music.163.com/artist?id=51665" }
+    ],
+    "album": {
+      "name": "idontwannatalkaboutlove",
+      "link": "https://music.163.com/album?id=80832832"
+    }
+  },
+  {
+    "name": "killing boys",
+    "link": "https://music.163.com/song?id=1417055852",
+    "duration": "02:23",
+    "artists": [
+      { "name": "Halsey", "link": "https://music.163.com/artist?id=964321" }
+    ],
+    "album": {
+      "name": "Manic",
+      "link": "https://music.163.com/album?id=85020251"
+    }
+  },
+  {
+    "name": "Foolish",
+    "link": "https://music.163.com/song?id=567599802",
+    "duration": "03:07",
+    "artists": [
+      { "name": "Clara", "link": "https://music.163.com/artist?id=12871090" }
+    ],
+    "album": {
+      "name": "Foolish",
+      "link": "https://music.163.com/album?id=39356166"
+    }
+  },
+  {
+    "name": "Get to Know U",
+    "link": "https://music.163.com/song?id=1385506275",
+    "duration": "03:20",
+    "artists": [
+      { "name": "Orkid", "link": "https://music.163.com/artist?id=12971173" }
+    ],
+    "album": {
+      "name": "Get to Know U",
+      "link": "https://music.163.com/album?id=81056266"
+    }
+  },
+  {
+    "name": "Falling",
+    "link": "https://music.163.com/song?id=1349213794",
+    "duration": "03:53",
+    "artists": [
+      { "name": "LÉON", "link": "https://music.163.com/artist?id=1178081" }
+    ],
+    "album": {
+      "name": "LÉON",
+      "link": "https://music.163.com/album?id=75738382"
+    }
+  },
+  {
+    "name": "Hey Jude (Original Mix)",
+    "link": "https://music.163.com/song?id=1412142634",
+    "duration": "07:10",
+    "artists": [
+      {
+        "name": "The Beatles",
+        "link": "https://music.163.com/artist?id=101988"
+      }
+    ],
+    "album": {
+      "name": "Hey Jude",
+      "link": "https://music.163.com/album?id=84372835"
+    }
+  },
+  {
+    "name": "森林狂想曲",
+    "link": "https://music.163.com/song?id=299234",
+    "duration": "04:38",
+    "artists": [
+      { "name": "吴金黛", "link": "https://music.163.com/artist?id=9617" }
+    ],
+    "album": {
+      "name": "森林狂想曲",
+      "link": "https://music.163.com/album?id=29668"
+    }
+  },
+  {
+    "name": "Mood",
+    "link": "https://music.163.com/song?id=476428197",
+    "duration": "03:03",
+    "artists": [
+      {
+        "name": "Emily Vaughn",
+        "link": "https://music.163.com/artist?id=12049240"
+      }
+    ],
+    "album": {
+      "name": "Mood",
+      "link": "https://music.163.com/album?id=35445323"
+    }
+  },
+  {
+    "name": "Nebula",
+    "link": "https://music.163.com/song?id=1419433425",
+    "duration": "03:34",
+    "artists": [
+      {
+        "name": "Pixel Terror",
+        "link": "https://music.163.com/artist?id=12901261"
+      }
+    ],
+    "album": {
+      "name": "Upgrade",
+      "link": "https://music.163.com/album?id=85297379"
+    }
+  },
+  {
+    "name": "East of Eden",
+    "link": "https://music.163.com/song?id=29009655",
+    "duration": "03:05",
+    "artists": [
+      { "name": "Zella Day", "link": "https://music.163.com/artist?id=900106" }
+    ],
+    "album": {
+      "name": "East of Eden",
+      "link": "https://music.163.com/album?id=2976629"
+    }
+  },
+  {
+    "name": "葬花",
+    "link": "https://music.163.com/song?id=503426999",
+    "duration": "03:55",
+    "artists": [
+      { "name": "THT", "link": "https://music.163.com/artist?id=12495253" }
+    ],
+    "album": {
+      "name": "葬花",
+      "link": "https://music.163.com/album?id=36112086"
+    }
+  },
+  {
+    "name": "Turn All The Lights On",
+    "link": "https://music.163.com/song?id=21792987",
+    "duration": "03:36",
+    "artists": [
+      { "name": "T-Pain", "link": "https://music.163.com/artist?id=44277" },
+      { "name": "Ne-Yo", "link": "https://music.163.com/artist?id=40423" }
+    ],
+    "album": {
+      "name": "rEVOLVEr",
+      "link": "https://music.163.com/album?id=2004886"
+    }
+  },
+  {
+    "name": "4 AM",
+    "link": "https://music.163.com/song?id=1337168519",
+    "duration": "03:20",
+    "artists": [
+      { "name": "Ea Kaya", "link": "https://music.163.com/artist?id=12279345" }
+    ],
+    "album": {
+      "name": "Fragile But Strong As Hell - EP",
+      "link": "https://music.163.com/album?id=75227761"
+    }
+  },
+  {
+    "name": "us feat. ゆきな",
+    "link": "https://music.163.com/song?id=31889413",
+    "duration": "05:20",
+    "artists": [
+      { "name": "risou", "link": "https://music.163.com/artist?id=1074065" }
+    ],
+    "album": {
+      "name": "Homeopathy",
+      "link": "https://music.163.com/album?id=3139352"
+    }
+  },
+  {
+    "name": "17.",
+    "link": "https://music.163.com/song?id=557820289",
+    "duration": "03:00",
+    "artists": [
+      {
+        "name": "ChakYoun9",
+        "link": "https://music.163.com/artist?id=12094429"
+      }
+    ],
+    "album": {
+      "name": "17.",
+      "link": "https://music.163.com/album?id=38602107"
+    }
+  },
+  {
+    "name": "Xenogenesis",
+    "link": "https://music.163.com/song?id=1321575661",
+    "duration": "03:53",
+    "artists": [
+      { "name": "TheFatRat", "link": "https://music.163.com/artist?id=1019952" }
+    ],
+    "album": {
+      "name": "Sounds of Syndication, Vol. 2 (Presented by Syndicate)",
+      "link": "https://music.163.com/album?id=74164222"
+    }
+  },
+  {
+    "name": "Cross You Out (feat. Sky Ferreira)",
+    "link": "https://music.163.com/song?id=1390487331",
+    "duration": "03:28",
+    "artists": [
+      { "name": "Charli XCX", "link": "https://music.163.com/artist?id=53092" },
+      {
+        "name": "Sky Ferreira",
+        "link": "https://music.163.com/artist?id=77923"
+      }
+    ],
+    "album": {
+      "name": "Charli",
+      "link": "https://music.163.com/album?id=81593693"
+    }
+  },
+  {
+    "name": "夏の喚く",
+    "link": "https://music.163.com/song?id=434871406",
+    "duration": "04:56",
+    "artists": [
+      { "name": "邱有句", "link": "https://music.163.com/artist?id=12079231" }
+    ],
+    "album": {
+      "name": "夏の喚く",
+      "link": "https://music.163.com/album?id=34909035"
+    }
+  },
+  {
+    "name": "午夜怨曲",
+    "link": "https://music.163.com/song?id=346079",
+    "duration": "04:34",
+    "artists": [
+      { "name": "Beyond", "link": "https://music.163.com/artist?id=11127" }
+    ],
+    "album": {
+      "name": "25周年精选",
+      "link": "https://music.163.com/album?id=34110"
+    }
+  },
+  {
+    "name": "China-X",
+    "link": "https://music.163.com/song?id=41500546",
+    "duration": "03:46",
+    "artists": [
+      { "name": "徐梦圆", "link": "https://music.163.com/artist?id=1142042" }
+    ],
+    "album": {
+      "name": "Change",
+      "link": "https://music.163.com/album?id=3431123"
+    }
+  },
+  {
+    "name": "Turn It Up",
+    "link": "https://music.163.com/song?id=564742278",
+    "duration": "02:55",
+    "artists": [
+      { "name": "Elysa", "link": "https://music.163.com/artist?id=14609476" },
+      { "name": "s7erre", "link": "https://music.163.com/artist?id=14607671" }
+    ],
+    "album": {
+      "name": "Turn It Up",
+      "link": "https://music.163.com/album?id=39136079"
+    }
+  },
+  {
+    "name": "异元守护",
+    "link": "https://music.163.com/song?id=1322608040",
+    "duration": "05:14",
+    "artists": [
+      { "name": "Ydolem", "link": "https://music.163.com/artist?id=12282172" },
+      { "name": "乐正绫", "link": "https://music.163.com/artist?id=1102240" },
+      { "name": "洛天依", "link": "https://music.163.com/artist?id=906118" }
+    ],
+    "album": {
+      "name": "异元守护",
+      "link": "https://music.163.com/album?id=74224687"
+    }
+  },
+  {
+    "name": "黑血症",
+    "link": "https://music.163.com/song?id=1356379323",
+    "duration": "04:31",
+    "artists": [
+      {
+        "name": "阿良良木健",
+        "link": "https://music.163.com/artist?id=964311"
+      },
+      { "name": "洛天依", "link": "https://music.163.com/artist?id=906118" }
+    ],
+    "album": {
+      "name": "奇爱人生 LOVE ELEGIA",
+      "link": "https://music.163.com/album?id=74829483"
+    }
+  },
+  {
+    "name": "Alan walker-Ignite（KF remix）",
+    "link": "https://music.163.com/song?id=1397584286",
+    "duration": "03:30",
+    "artists": [
+      { "name": "KF", "link": "https://music.163.com/artist?id=33435358" }
+    ],
+    "album": {
+      "name": "Ignite",
+      "link": "https://music.163.com/album?id=82385533"
+    }
+  },
+  {
+    "name": "Thinking of you",
+    "link": "https://music.163.com/song?id=625573",
+    "duration": "04:39",
+    "artists": [
+      { "name": "西野カナ", "link": "https://music.163.com/artist?id=17313" }
+    ],
+    "album": {
+      "name": "Esperanza",
+      "link": "https://music.163.com/album?id=59740"
+    }
+  },
+  {
+    "name": "我在景德镇等你",
+    "link": "https://music.163.com/song?id=27561006",
+    "duration": "04:02",
+    "artists": [
+      { "name": "徐千雅", "link": "https://music.163.com/artist?id=9963" }
+    ],
+    "album": {
+      "name": "我在景德镇等你",
+      "link": "https://music.163.com/album?id=2638001"
+    }
+  },
+  {
+    "name": "FMix China style",
+    "link": "https://music.163.com/song?id=468932689",
+    "duration": "03:01",
+    "artists": [
+      { "name": "ForceZL", "link": "https://music.163.com/artist?id=1184013" }
+    ],
+    "album": {
+      "name": "CLASSIC FOREVER",
+      "link": "https://music.163.com/album?id=35290815"
+    }
+  },
+  {
+    "name": "城南花已开",
+    "link": "https://music.163.com/song?id=468176711",
+    "duration": "04:31",
+    "artists": [
+      { "name": "三亩地", "link": "https://music.163.com/artist?id=1044144" }
+    ],
+    "album": {
+      "name": "城南花已开",
+      "link": "https://music.163.com/album?id=35310694"
+    }
+  }
+]

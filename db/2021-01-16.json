@@ -1,0 +1,447 @@
+[
+  {
+    "name": "I See You",
+    "link": "https://music.163.com/song?id=1351664230",
+    "duration": "03:48",
+    "artists": [
+      { "name": "Missio", "link": "https://music.163.com/artist?id=1038292" }
+    ],
+    "album": {
+      "name": "I See You",
+      "link": "https://music.163.com/album?id=75836312"
+    }
+  },
+  {
+    "name": "It’ll Be Alright",
+    "link": "https://music.163.com/song?id=1322219979",
+    "duration": "03:03",
+    "artists": [
+      {
+        "name": "Micah Martin",
+        "link": "https://music.163.com/artist?id=13723243"
+      },
+      {
+        "name": "Gigo'n'Migo",
+        "link": "https://music.163.com/artist?id=12074624"
+      },
+      { "name": "Crunkz", "link": "https://music.163.com/artist?id=12545711" },
+      {
+        "name": "Revealed Recordings",
+        "link": "https://music.163.com/artist?id=28753573"
+      }
+    ],
+    "album": {
+      "name": "It'll Be Alright",
+      "link": "https://music.163.com/album?id=74206220"
+    }
+  },
+  {
+    "name": "Rooftop",
+    "link": "https://music.163.com/song?id=1456602326",
+    "duration": "03:13",
+    "artists": [
+      { "name": "MVRT", "link": "https://music.163.com/artist?id=35396819" },
+      {
+        "name": "Vijay & Sofia Zlatko",
+        "link": "https://music.163.com/artist?id=1155154"
+      }
+    ],
+    "album": {
+      "name": "Rooftop",
+      "link": "https://music.163.com/album?id=91205407"
+    }
+  },
+  {
+    "name": "New Dance",
+    "link": "https://music.163.com/song?id=1323272440",
+    "duration": "02:40",
+    "artists": [
+      { "name": "MKJ", "link": "https://music.163.com/artist?id=469200" }
+    ],
+    "album": {
+      "name": "Time After Time",
+      "link": "https://music.163.com/album?id=74263822"
+    }
+  },
+  {
+    "name": "Never Over",
+    "link": "https://music.163.com/song?id=509135896",
+    "duration": "02:36",
+    "artists": [
+      { "name": "BEAUZ", "link": "https://music.163.com/artist?id=12131436" },
+      { "name": "Michi", "link": "https://music.163.com/artist?id=12390142" }
+    ],
+    "album": {
+      "name": "Never Over",
+      "link": "https://music.163.com/album?id=36412220"
+    }
+  },
+  {
+    "name": "See-Through",
+    "link": "https://music.163.com/song?id=569105350",
+    "duration": "04:24",
+    "artists": [
+      { "name": "Chad Valley", "link": "https://music.163.com/artist?id=31012" }
+    ],
+    "album": {
+      "name": "Imaginary Music",
+      "link": "https://music.163.com/album?id=39391229"
+    }
+  },
+  {
+    "name": "Ready For It",
+    "link": "https://music.163.com/song?id=28370908",
+    "duration": "02:47",
+    "artists": [
+      { "name": "RAC", "link": "https://music.163.com/artist?id=148811" },
+      { "name": "St. Lucia", "link": "https://music.163.com/artist?id=87837" }
+    ],
+    "album": {
+      "name": "Strangers Part II",
+      "link": "https://music.163.com/album?id=2780512"
+    }
+  },
+  {
+    "name": "Au Volant",
+    "link": "https://music.163.com/song?id=426906738",
+    "duration": "03:15",
+    "artists": [
+      {
+        "name": "Elsa & Emilie",
+        "link": "https://music.163.com/artist?id=1003033"
+      }
+    ],
+    "album": {
+      "name": "Au Volant",
+      "link": "https://music.163.com/album?id=34844063"
+    }
+  },
+  {
+    "name": "Road of Loneliness",
+    "link": "https://music.163.com/song?id=422419126",
+    "duration": "02:54",
+    "artists": [
+      { "name": "Tilka", "link": "https://music.163.com/artist?id=12073396" },
+      { "name": "Racheka", "link": "https://music.163.com/artist?id=29735936" }
+    ],
+    "album": {
+      "name": "Road Of Loneliness",
+      "link": "https://music.163.com/album?id=34780995"
+    }
+  },
+  {
+    "name": "霓 虹 骑 士",
+    "link": "https://music.163.com/song?id=1418441577",
+    "duration": "02:52",
+    "artists": [
+      { "name": "Zemo子墨", "link": "https://music.163.com/artist?id=12276372" }
+    ],
+    "album": {
+      "name": "霓 虹 骑 士",
+      "link": "https://music.163.com/album?id=85153736"
+    }
+  },
+  {
+    "name": "日暮里",
+    "link": "https://music.163.com/song?id=1351183637",
+    "duration": "03:26",
+    "artists": [
+      { "name": "JINBAO", "link": "https://music.163.com/artist?id=30480423" }
+    ],
+    "album": {
+      "name": "東京物语",
+      "link": "https://music.163.com/album?id=75808773"
+    }
+  },
+  {
+    "name": "Daydreams",
+    "link": "https://music.163.com/song?id=1302090572",
+    "duration": "03:39",
+    "artists": [
+      {
+        "name": "Adib Sin",
+        "link": "https://music.163.com/artist?id=12244027"
+      },
+      { "name": "Salsa", "link": "https://music.163.com/artist?id=141594" }
+    ],
+    "album": {
+      "name": "Daydreams",
+      "link": "https://music.163.com/album?id=72303001"
+    }
+  },
+  {
+    "name": "Dogs\t (Original Version)",
+    "link": "https://music.163.com/song?id=25773443",
+    "duration": "05:31",
+    "artists": [
+      { "name": "HVOB", "link": "https://music.163.com/artist?id=688969" }
+    ],
+    "album": {
+      "name": "Dogs",
+      "link": "https://music.163.com/album?id=2308747"
+    }
+  },
+  {
+    "name": "BLUE",
+    "link": "https://music.163.com/song?id=37955047",
+    "duration": "03:31",
+    "artists": [
+      {
+        "name": "Troye Sivan",
+        "link": "https://music.163.com/artist?id=45129"
+      },
+      {
+        "name": "Alex Hope",
+        "link": "https://music.163.com/artist?id=12213103"
+      }
+    ],
+    "album": {
+      "name": "Blue Neighbourhood (Deluxe)",
+      "link": "https://music.163.com/album?id=3329047"
+    }
+  },
+  {
+    "name": "Orchid Pavilion",
+    "link": "https://music.163.com/song?id=1359643705",
+    "duration": "04:19",
+    "artists": [
+      { "name": "胡伟佳", "link": "https://music.163.com/artist?id=13450520" }
+    ],
+    "album": {
+      "name": "Orchid Pavilion",
+      "link": "https://music.163.com/album?id=78540409"
+    }
+  },
+  {
+    "name": "Señorita",
+    "link": "https://music.163.com/song?id=1382340352",
+    "duration": "02:43",
+    "artists": [
+      {
+        "name": "Kurt Hugo Schneider",
+        "link": "https://music.163.com/artist?id=37962"
+      },
+      { "name": "MADILYN", "link": "https://music.163.com/artist?id=69270" }
+    ],
+    "album": {
+      "name": "Señorita",
+      "link": "https://music.163.com/album?id=80793558"
+    }
+  },
+  {
+    "name": "0.0",
+    "link": "https://music.163.com/song?id=1381126000",
+    "duration": "04:12",
+    "artists": [
+      {
+        "name": "AJonnyCool",
+        "link": "https://music.163.com/artist?id=12282902"
+      }
+    ],
+    "album": {
+      "name": "0.0",
+      "link": "https://music.163.com/album?id=80697620"
+    }
+  },
+  {
+    "name": "星辰 (original Mix)",
+    "link": "https://music.163.com/song?id=1400259247",
+    "duration": "03:39",
+    "artists": [
+      { "name": "阳山伟伟", "link": "https://music.163.com/artist?id=12641107" }
+    ],
+    "album": {
+      "name": "国产·纯音",
+      "link": "https://music.163.com/album?id=82896127"
+    }
+  },
+  {
+    "name": "Elephant King",
+    "link": "https://music.163.com/song?id=21785756",
+    "duration": "04:35",
+    "artists": [
+      { "name": "Trace Bundy", "link": "https://music.163.com/artist?id=44273" }
+    ],
+    "album": {
+      "name": "Elephant King",
+      "link": "https://music.163.com/album?id=2004441"
+    }
+  },
+  {
+    "name": "I'm Tired of Feeling This Way",
+    "link": "https://music.163.com/song?id=515796242",
+    "duration": "02:28",
+    "artists": [
+      {
+        "name": "elijah who",
+        "link": "https://music.163.com/artist?id=12230049"
+      }
+    ],
+    "album": {
+      "name": "I'm Tired of Feeling This Way",
+      "link": "https://music.163.com/album?id=36680174"
+    }
+  },
+  {
+    "name": "✿",
+    "link": "https://music.163.com/song?id=1369252315",
+    "duration": "02:14",
+    "artists": [
+      { "name": "Dekeu", "link": "https://music.163.com/artist?id=30003449" }
+    ],
+    "album": {
+      "name": "Wrld-",
+      "link": "https://music.163.com/album?id=79498498"
+    }
+  },
+  {
+    "name": "K-49",
+    "link": "https://music.163.com/song?id=517940001",
+    "duration": "03:03",
+    "artists": [
+      { "name": "暴君de", "link": "https://music.163.com/artist?id=12599289" }
+    ],
+    "album": {
+      "name": "K-49",
+      "link": "https://music.163.com/album?id=36760328"
+    }
+  },
+  {
+    "name": "Don't Forget to Breathe",
+    "link": "https://music.163.com/song?id=1447803268",
+    "duration": "02:03",
+    "artists": [
+      {
+        "name": "Anson Seabra",
+        "link": "https://music.163.com/artist?id=14470054"
+      }
+    ],
+    "album": {
+      "name": "Songs I Wrote in My Bedroom",
+      "link": "https://music.163.com/album?id=89390158"
+    }
+  },
+  {
+    "name": "Lose Yourself",
+    "link": "https://music.163.com/song?id=1401886837",
+    "duration": "04:04",
+    "artists": [
+      {
+        "name": "Luca Stricagnoli",
+        "link": "https://music.163.com/artist?id=1192360"
+      }
+    ],
+    "album": {
+      "name": "Lose Yourself",
+      "link": "https://music.163.com/album?id=83103648"
+    }
+  },
+  {
+    "name": "Close to the Fire",
+    "link": "https://music.163.com/song?id=1485808750",
+    "duration": "02:44",
+    "artists": [
+      {
+        "name": "Chris James",
+        "link": "https://music.163.com/artist?id=145038"
+      }
+    ],
+    "album": {
+      "name": "The Art of Overthinking",
+      "link": "https://music.163.com/album?id=96576127"
+    }
+  },
+  {
+    "name": "Girls Like You",
+    "link": "https://music.163.com/song?id=1416470134",
+    "duration": "03:08",
+    "artists": [
+      {
+        "name": "Jonah Baker",
+        "link": "https://music.163.com/artist?id=29845600"
+      }
+    ],
+    "album": {
+      "name": "Cover Hit 2019",
+      "link": "https://music.163.com/album?id=84954530"
+    }
+  },
+  {
+    "name": "Remember (Original Mix)",
+    "link": "https://music.163.com/song?id=32028784",
+    "duration": "07:00",
+    "artists": [
+      {
+        "name": "Dennis Pedersen",
+        "link": "https://music.163.com/artist?id=500775"
+      },
+      { "name": "A.R.D.I.", "link": "https://music.163.com/artist?id=207863" }
+    ],
+    "album": {
+      "name": "Remember",
+      "link": "https://music.163.com/album?id=3146773"
+    }
+  },
+  {
+    "name": "Perplexity of Dreams (Original Mix)",
+    "link": "https://music.163.com/song?id=405599889",
+    "duration": "06:47",
+    "artists": [
+      { "name": "Alex H", "link": "https://music.163.com/artist?id=370950" },
+      {
+        "name": "Roald Velden",
+        "link": "https://music.163.com/artist?id=178498"
+      }
+    ],
+    "album": {
+      "name": "Perplexity Of Dreams",
+      "link": "https://music.163.com/album?id=34527613"
+    }
+  },
+  {
+    "name": "Guadalajara (Original Mix)",
+    "link": "https://music.163.com/song?id=1328545411",
+    "duration": "07:53",
+    "artists": [
+      {
+        "name": "Simon O'Shine",
+        "link": "https://music.163.com/artist?id=207035"
+      }
+    ],
+    "album": {
+      "name": "Guadalajara",
+      "link": "https://music.163.com/album?id=74600766"
+    }
+  },
+  {
+    "name": "Vampires",
+    "link": "https://music.163.com/song?id=426027091",
+    "duration": "05:17",
+    "artists": [
+      {
+        "name": "The Midnight",
+        "link": "https://music.163.com/artist?id=12023492"
+      }
+    ],
+    "album": {
+      "name": "Endless Summer",
+      "link": "https://music.163.com/album?id=34826028"
+    }
+  },
+  {
+    "name": "Hey Boy (feat. Burna Boy)",
+    "link": "https://music.163.com/song?id=1811903458",
+    "duration": "03:01",
+    "artists": [
+      { "name": "Sia", "link": "https://music.163.com/artist?id=74625" },
+      {
+        "name": "Burna Boy",
+        "link": "https://music.163.com/artist?id=12895034"
+      }
+    ],
+    "album": {
+      "name": "Hey Boy (feat. Burna Boy)",
+      "link": "https://music.163.com/album?id=121628349"
+    }
+  }
+]

@@ -1,0 +1,442 @@
+[
+  {
+    "name": "New Year",
+    "link": "https://music.163.com/song?id=1335676292",
+    "duration": "04:11",
+    "artists": [
+      { "name": "Dyako", "link": "https://music.163.com/artist?id=12291302" }
+    ],
+    "album": {
+      "name": "New Year",
+      "link": "https://music.163.com/album?id=74977178"
+    }
+  },
+  {
+    "name": "Forget About Us",
+    "link": "https://music.163.com/song?id=1417647997",
+    "duration": "03:23",
+    "artists": [
+      { "name": "JOE WANG", "link": "https://music.163.com/artist?id=225978" },
+      { "name": "ZTTZ", "link": "https://music.163.com/artist?id=31709726" }
+    ],
+    "album": {
+      "name": "Forget About Us",
+      "link": "https://music.163.com/album?id=85069797"
+    }
+  },
+  {
+    "name": "Used To",
+    "link": "https://music.163.com/song?id=1347814906",
+    "duration": "02:48",
+    "artists": [
+      {
+        "name": "James Carter",
+        "link": "https://music.163.com/artist?id=12047749"
+      },
+      { "name": "Kaii", "link": "https://music.163.com/artist?id=28457718" }
+    ],
+    "album": {
+      "name": "Used To",
+      "link": "https://music.163.com/album?id=75670536"
+    }
+  },
+  {
+    "name": "Fairytale",
+    "link": "https://music.163.com/song?id=1332157070",
+    "duration": "03:34",
+    "artists": [
+      { "name": "8bite", "link": "https://music.163.com/artist?id=12606242" }
+    ],
+    "album": {
+      "name": "Fairytale",
+      "link": "https://music.163.com/album?id=74789509"
+    }
+  },
+  {
+    "name": "Majestic Seas",
+    "link": "https://music.163.com/song?id=29759360",
+    "duration": "07:07",
+    "artists": [
+      { "name": "Nyte", "link": "https://music.163.com/artist?id=1034003" }
+    ],
+    "album": {
+      "name": "Majestic Seas",
+      "link": "https://music.163.com/album?id=3056852"
+    }
+  },
+  {
+    "name": "Please Don’t Touch",
+    "link": "https://music.163.com/song?id=1409277284",
+    "duration": "03:38",
+    "artists": [
+      { "name": "Raye", "link": "https://music.163.com/artist?id=1077053" }
+    ],
+    "album": {
+      "name": "Please Don’t Touch",
+      "link": "https://music.163.com/album?id=84068551"
+    }
+  },
+  {
+    "name": "Spark",
+    "link": "https://music.163.com/song?id=1385757372",
+    "duration": "02:43",
+    "artists": [
+      { "name": "MOTI", "link": "https://music.163.com/artist?id=366384" },
+      {
+        "name": "Fly by Midnight",
+        "link": "https://music.163.com/artist?id=1163027"
+      }
+    ],
+    "album": {
+      "name": "Spark",
+      "link": "https://music.163.com/album?id=81076372"
+    }
+  },
+  {
+    "name": "smiling when i die",
+    "link": "https://music.163.com/song?id=1391654690",
+    "duration": "03:26",
+    "artists": [
+      {
+        "name": "Sasha Sloan",
+        "link": "https://music.163.com/artist?id=12646102"
+      }
+    ],
+    "album": {
+      "name": "smiling when i die",
+      "link": "https://music.163.com/album?id=81727033"
+    }
+  },
+  {
+    "name": "Tired",
+    "link": "https://music.163.com/song?id=479219347",
+    "duration": "03:12",
+    "artists": [
+      {
+        "name": "Alan Walker",
+        "link": "https://music.163.com/artist?id=1045123"
+      },
+      {
+        "name": "Gavin James",
+        "link": "https://music.163.com/artist?id=387761"
+      }
+    ],
+    "album": {
+      "name": "Tired",
+      "link": "https://music.163.com/album?id=35535104"
+    }
+  },
+  {
+    "name": "Dive",
+    "link": "https://music.163.com/song?id=1410797102",
+    "duration": "02:44",
+    "artists": [
+      {
+        "name": "Hot Shade",
+        "link": "https://music.163.com/artist?id=12197226"
+      },
+      {
+        "name": "Mike Perry",
+        "link": "https://music.163.com/artist?id=195021"
+      },
+      {
+        "name": "Chris James",
+        "link": "https://music.163.com/artist?id=145038"
+      }
+    ],
+    "album": {
+      "name": "Dive",
+      "link": "https://music.163.com/album?id=84236606"
+    }
+  },
+  {
+    "name": "Sounds of Summer",
+    "link": "https://music.163.com/song?id=1478067397",
+    "duration": "03:15",
+    "artists": [
+      { "name": "Andreas B.", "link": "https://music.163.com/artist?id=299713" }
+    ],
+    "album": {
+      "name": "Sounds of Summer",
+      "link": "https://music.163.com/album?id=95206301"
+    }
+  },
+  {
+    "name": "Last Of Me (Arknights Soundtrack) - (游戏《明日方舟》原声)",
+    "link": "https://music.163.com/song?id=1457694617",
+    "duration": "03:01",
+    "artists": [
+      { "name": "Steve Aoki", "link": "https://music.163.com/artist?id=43608" },
+      { "name": "Runn", "link": "https://music.163.com/artist?id=15237536" }
+    ],
+    "album": {
+      "name": "Last Of Me (Arknights Soundtrack)",
+      "link": "https://music.163.com/album?id=91418794"
+    }
+  },
+  {
+    "name": "Losing Me",
+    "link": "https://music.163.com/song?id=1378713654",
+    "duration": "03:00",
+    "artists": [
+      {
+        "name": "Gabrielle Aplin",
+        "link": "https://music.163.com/artist?id=59169"
+      },
+      { "name": "JP Cooper", "link": "https://music.163.com/artist?id=415889" }
+    ],
+    "album": {
+      "name": "Losing Me",
+      "link": "https://music.163.com/album?id=80463145"
+    }
+  },
+  {
+    "name": "she's all yours",
+    "link": "https://music.163.com/song?id=1371714110",
+    "duration": "02:41",
+    "artists": [
+      { "name": "Loote", "link": "https://music.163.com/artist?id=12408152" }
+    ],
+    "album": {
+      "name": "lost",
+      "link": "https://music.163.com/album?id=79787129"
+    }
+  },
+  {
+    "name": "Adventures",
+    "link": "https://music.163.com/song?id=866298707",
+    "duration": "03:01",
+    "artists": [
+      { "name": "Inogg", "link": "https://music.163.com/artist?id=12643745" },
+      { "name": "8bite", "link": "https://music.163.com/artist?id=12606242" }
+    ],
+    "album": {
+      "name": "Adventures",
+      "link": "https://music.163.com/album?id=71806880"
+    }
+  },
+  {
+    "name": "Our Age-instrumental",
+    "link": "https://music.163.com/song?id=478313725",
+    "duration": "04:55",
+    "artists": [
+      { "name": "Azricle", "link": "https://music.163.com/artist?id=1131003" }
+    ],
+    "album": {
+      "name": "Our Age(Original Mix)-instrumental",
+      "link": "https://music.163.com/album?id=35502582"
+    }
+  },
+  {
+    "name": "Alexandria",
+    "link": "https://music.163.com/song?id=1396943866",
+    "duration": "02:03",
+    "artists": [
+      {
+        "name": "Jessi Blue",
+        "link": "https://music.163.com/artist?id=33407878"
+      }
+    ],
+    "album": {
+      "name": "Alexandria",
+      "link": "https://music.163.com/album?id=82410177"
+    }
+  },
+  {
+    "name": "心上人",
+    "link": "https://music.163.com/song?id=570087097",
+    "duration": "03:01",
+    "artists": [
+      {
+        "name": "Austin Carl",
+        "link": "https://music.163.com/artist?id=12303121"
+      }
+    ],
+    "album": {
+      "name": "心上人",
+      "link": "https://music.163.com/album?id=39514036"
+    }
+  },
+  {
+    "name": "約束",
+    "link": "https://music.163.com/song?id=1346961369",
+    "duration": "04:51",
+    "artists": [
+      { "name": "微笑子", "link": "https://music.163.com/artist?id=29023259" }
+    ],
+    "album": {
+      "name": "約束",
+      "link": "https://music.163.com/album?id=75420331"
+    }
+  },
+  {
+    "name": "And the People Cried out for a New King",
+    "link": "https://music.163.com/song?id=1824367332",
+    "duration": "03:52",
+    "artists": [
+      { "name": "Jacoo", "link": "https://music.163.com/artist?id=347497" }
+    ],
+    "album": {
+      "name": "And the People Cried out for a New King",
+      "link": "https://music.163.com/album?id=123780052"
+    }
+  },
+  {
+    "name": "笑顔",
+    "link": "https://music.163.com/song?id=406846049",
+    "duration": "04:39",
+    "artists": [
+      { "name": "Anly", "link": "https://music.163.com/artist?id=1156365" }
+    ],
+    "album": {
+      "name": "笑顔/いいの",
+      "link": "https://music.163.com/album?id=34515867"
+    }
+  },
+  {
+    "name": "A Sad Me In Your Eyes",
+    "link": "https://music.163.com/song?id=1404709472",
+    "duration": "04:18",
+    "artists": [
+      {
+        "name": "昨夜派对（L.N Party）",
+        "link": "https://music.163.com/artist?id=13104057"
+      }
+    ],
+    "album": {
+      "name": "无尽美丽的事物",
+      "link": "https://music.163.com/album?id=89805567"
+    }
+  },
+  {
+    "name": "Paint It Black (Epic Trailer Version)",
+    "link": "https://music.163.com/song?id=1371523252",
+    "duration": "03:50",
+    "artists": [
+      {
+        "name": "Hidden Citizens",
+        "link": "https://music.163.com/artist?id=1147184"
+      }
+    ],
+    "album": {
+      "name": "Reawakenings Vol. 2",
+      "link": "https://music.163.com/album?id=79771002"
+    }
+  },
+  {
+    "name": "群青 - (BOURBON波路梦「帆船mini巧克力饼干」新CM曲)",
+    "link": "https://music.163.com/song?id=1472480890",
+    "duration": "04:08",
+    "artists": [
+      { "name": "YOASOBI", "link": "https://music.163.com/artist?id=33927412" }
+    ],
+    "album": {
+      "name": "群青",
+      "link": "https://music.163.com/album?id=94214994"
+    }
+  },
+  {
+    "name": "ヨリドコロ - (TV动画《彼得·格里尔的贤者时间》片尾曲)",
+    "link": "https://music.163.com/song?id=1454873699",
+    "duration": "04:28",
+    "artists": [
+      { "name": "Hilcrhyme", "link": "https://music.163.com/artist?id=19726" }
+    ],
+    "album": {
+      "name": "ヨリドコロ",
+      "link": "https://music.163.com/album?id=90765487"
+    }
+  },
+  {
+    "name": "アイノカタチ - (MISIA提供楽曲セルフカバー)",
+    "link": "https://music.163.com/song?id=1390219588",
+    "duration": "04:28",
+    "artists": [
+      { "name": "GReeeeN", "link": "https://music.163.com/artist?id=19550" }
+    ],
+    "album": {
+      "name": "第九",
+      "link": "https://music.163.com/album?id=81910440"
+    }
+  },
+  {
+    "name": "The Difference in You (Robert Nickson Pres. RNX Remix)",
+    "link": "https://music.163.com/song?id=29357083",
+    "duration": "07:48",
+    "artists": [
+      { "name": "Schodt", "link": "https://music.163.com/artist?id=688427" }
+    ],
+    "album": {
+      "name": " The Difference in You (Remixes)",
+      "link": "https://music.163.com/album?id=3010153"
+    }
+  },
+  {
+    "name": "Sapphire",
+    "link": "https://music.163.com/song?id=1499596650",
+    "duration": "03:54",
+    "artists": [
+      { "name": "The fin.", "link": "https://music.163.com/artist?id=942028" }
+    ],
+    "album": {
+      "name": "Sapphire",
+      "link": "https://music.163.com/album?id=98971176"
+    }
+  },
+  {
+    "name": "To Make You Feel My Love",
+    "link": "https://music.163.com/song?id=1516737",
+    "duration": "02:44",
+    "artists": [
+      {
+        "name": "Jon Peter Lewis",
+        "link": "https://music.163.com/artist?id=35502"
+      }
+    ],
+    "album": {
+      "name": "Break the Silence",
+      "link": "https://music.163.com/album?id=154310"
+    }
+  },
+  {
+    "name": "Serious",
+    "link": "https://music.163.com/song?id=449840279",
+    "duration": "02:36",
+    "artists": [
+      { "name": "Neon Hitch", "link": "https://music.163.com/artist?id=70220" }
+    ],
+    "album": {
+      "name": "Serious",
+      "link": "https://music.163.com/album?id=35067310"
+    }
+  },
+  {
+    "name": "还是会想你",
+    "link": "https://music.163.com/song?id=1827600686",
+    "duration": "03:10",
+    "artists": [
+      { "name": "林达浪", "link": "https://music.163.com/artist?id=15199791" },
+      { "name": "h3R3", "link": "https://music.163.com/artist?id=12631485" }
+    ],
+    "album": {
+      "name": "还是会想你",
+      "link": "https://music.163.com/album?id=124309279"
+    }
+  },
+  {
+    "name": "Dead Girl!",
+    "link": "https://music.163.com/song?id=1830892565",
+    "duration": "03:14",
+    "artists": [
+      { "name": "Au/Ra", "link": "https://music.163.com/artist?id=12143031" },
+      {
+        "name": "Alan Walker",
+        "link": "https://music.163.com/artist?id=1045123"
+      }
+    ],
+    "album": {
+      "name": "Dead Girl!",
+      "link": "https://music.163.com/album?id=124810361"
+    }
+  }
+]

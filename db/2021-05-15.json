@@ -1,0 +1,464 @@
+[
+  {
+    "name": "For You",
+    "link": "https://music.163.com/song?id=538802072",
+    "duration": "02:35",
+    "artists": [
+      { "name": "Dubdogz", "link": "https://music.163.com/artist?id=12742168" },
+      { "name": "Shapeless", "link": "https://music.163.com/artist?id=502943" }
+    ],
+    "album": {
+      "name": "For You",
+      "link": "https://music.163.com/album?id=37561432"
+    }
+  },
+  {
+    "name": "Green Sky",
+    "link": "https://music.163.com/song?id=30064291",
+    "duration": "03:48",
+    "artists": [
+      {
+        "name": "Alex Skrindo",
+        "link": "https://music.163.com/artist?id=1046359"
+      }
+    ],
+    "album": {
+      "name": "Green Sky",
+      "link": "https://music.163.com/album?id=3093056"
+    }
+  },
+  {
+    "name": "Childhood Dreams",
+    "link": "https://music.163.com/song?id=1473552803",
+    "duration": "02:44",
+    "artists": [
+      { "name": "Gaminl", "link": "https://music.163.com/artist?id=36516584" }
+    ],
+    "album": {
+      "name": "Childhood Dreams",
+      "link": "https://music.163.com/album?id=94036205"
+    }
+  },
+  {
+    "name": "Where The Love Goes",
+    "link": "https://music.163.com/song?id=475264163",
+    "duration": "03:04",
+    "artists": [
+      { "name": "Anjulie", "link": "https://music.163.com/artist?id=46502" },
+      {
+        "name": "Oskar Flood",
+        "link": "https://music.163.com/artist?id=14078515"
+      }
+    ],
+    "album": {
+      "name": "Where The Love Goes",
+      "link": "https://music.163.com/album?id=35448092"
+    }
+  },
+  {
+    "name": "Complexity",
+    "link": "https://music.163.com/song?id=408532744",
+    "duration": "03:06",
+    "artists": [
+      { "name": "MadEye", "link": "https://music.163.com/artist?id=12108505" }
+    ],
+    "album": {
+      "name": "Complexity",
+      "link": "https://music.163.com/album?id=34589886"
+    }
+  },
+  {
+    "name": "Better Anyway",
+    "link": "https://music.163.com/song?id=1367114866",
+    "duration": "03:06",
+    "artists": [
+      { "name": "Borgeous", "link": "https://music.163.com/artist?id=904048" },
+      { "name": "Runaground", "link": "https://music.163.com/artist?id=945002" }
+    ],
+    "album": {
+      "name": "Better Anyway",
+      "link": "https://music.163.com/album?id=79341361"
+    }
+  },
+  {
+    "name": "smiling when i die",
+    "link": "https://music.163.com/song?id=1391654690",
+    "duration": "03:26",
+    "artists": [
+      {
+        "name": "Sasha Sloan",
+        "link": "https://music.163.com/artist?id=12646102"
+      }
+    ],
+    "album": {
+      "name": "smiling when i die",
+      "link": "https://music.163.com/album?id=81727033"
+    }
+  },
+  {
+    "name": "Can't Feel My Face",
+    "link": "https://music.163.com/song?id=1436553825",
+    "duration": "02:45",
+    "artists": [
+      {
+        "name": "Steve Void",
+        "link": "https://music.163.com/artist?id=12062200"
+      },
+      { "name": "Fets", "link": "https://music.163.com/artist?id=33172705" },
+      { "name": "Koosen", "link": "https://music.163.com/artist?id=32865873" }
+    ],
+    "album": {
+      "name": "Can't Feel My Face",
+      "link": "https://music.163.com/album?id=87358926"
+    }
+  },
+  {
+    "name": "Beautiful Now ",
+    "link": "https://music.163.com/song?id=41631921",
+    "duration": "03:38",
+    "artists": [
+      { "name": "Zedd", "link": "https://music.163.com/artist?id=46376" },
+      {
+        "name": "Jon Bellion",
+        "link": "https://music.163.com/artist?id=860113"
+      }
+    ],
+    "album": {
+      "name": "Go Hard or Go Home - Ministry of Sound",
+      "link": "https://music.163.com/album?id=3443546"
+    }
+  },
+  {
+    "name": "you heard me",
+    "link": "https://music.163.com/song?id=1811612204",
+    "duration": "02:58",
+    "artists": [
+      {
+        "name": "Heather Sommer",
+        "link": "https://music.163.com/artist?id=13134228"
+      }
+    ],
+    "album": {
+      "name": "nocturnal",
+      "link": "https://music.163.com/album?id=121574805"
+    }
+  },
+  {
+    "name": "Hard Time - (游戏《刺客信条编年史：中国》预告片插曲)",
+    "link": "https://music.163.com/song?id=28577625",
+    "duration": "03:29",
+    "artists": [
+      {
+        "name": "Seinabo Sey",
+        "link": "https://music.163.com/artist?id=896136"
+      }
+    ],
+    "album": {
+      "name": "Hard Time",
+      "link": "https://music.163.com/album?id=2847098"
+    }
+  },
+  {
+    "name": "春を告げる/宣告春天（翻自 yama）",
+    "link": "https://music.163.com/song?id=1460240705",
+    "duration": "03:15",
+    "artists": [
+      { "name": "茶玖", "link": "https://music.163.com/artist?id=12699916" }
+    ],
+    "album": {
+      "name": "春を告げる / 宣告春天",
+      "link": "https://music.163.com/album?id=91853386"
+    }
+  },
+  {
+    "name": "ピースサイン - (胜利手势)",
+    "link": "https://music.163.com/song?id=485355004",
+    "duration": "03:57",
+    "artists": [
+      { "name": "米津玄師", "link": "https://music.163.com/artist?id=159300" }
+    ],
+    "album": {
+      "name": "ピースサイン",
+      "link": "https://music.163.com/album?id=35450123"
+    }
+  },
+  {
+    "name": "热播Salt（DJ版）",
+    "link": "https://music.163.com/song?id=1454959067",
+    "duration": "03:00",
+    "artists": [
+      { "name": "妖姬", "link": "https://music.163.com/artist?id=30109622" },
+      { "name": "肖Music", "link": "https://music.163.com/artist?id=33112728" }
+    ],
+    "album": {
+      "name": "最不成器",
+      "link": "https://music.163.com/album?id=90787239"
+    }
+  },
+  {
+    "name": "仙 - (《仙王的日常生活》主题曲)",
+    "link": "https://music.163.com/song?id=1435507558",
+    "duration": "03:44",
+    "artists": [
+      { "name": "韦伯恩", "link": "https://music.163.com/artist?id=12118711" },
+      { "name": "杨秉音", "link": "https://music.163.com/artist?id=12293867" }
+    ],
+    "album": {
+      "name": "仙王的日常生活",
+      "link": "https://music.163.com/album?id=87053501"
+    }
+  },
+  {
+    "name": "The Equaliser (Not Alone)",
+    "link": "https://music.163.com/song?id=426027090",
+    "duration": "03:49",
+    "artists": [
+      {
+        "name": "The Midnight",
+        "link": "https://music.163.com/artist?id=12023492"
+      }
+    ],
+    "album": {
+      "name": "Endless Summer",
+      "link": "https://music.163.com/album?id=34826028"
+    }
+  },
+  {
+    "name": "Cheap Thrills (Acoustic Version)",
+    "link": "https://music.163.com/song?id=531295227",
+    "duration": "02:43",
+    "artists": [
+      { "name": "MADILYN", "link": "https://music.163.com/artist?id=69270" }
+    ],
+    "album": {
+      "name": "Cheap Thrills (Acoustic Version)",
+      "link": "https://music.163.com/album?id=37313083"
+    }
+  },
+  {
+    "name": "有你的快乐",
+    "link": "https://music.163.com/song?id=5239544",
+    "duration": "03:17",
+    "artists": [
+      { "name": "王若琳", "link": "https://music.163.com/artist?id=9604" }
+    ],
+    "album": {
+      "name": "K情歌8",
+      "link": "https://music.163.com/album?id=511168"
+    }
+  },
+  {
+    "name": "让风告诉你 - (游戏《原神》2021拜年纪同人曲)",
+    "link": "https://music.163.com/song?id=1818031620",
+    "duration": "03:46",
+    "artists": [
+      { "name": "花玲", "link": "https://music.163.com/artist?id=14885023" },
+      { "name": "喵☆酱", "link": "https://music.163.com/artist?id=12373281" },
+      { "name": "宴宁", "link": "https://music.163.com/artist?id=33950005" },
+      { "name": "kinsen", "link": "https://music.163.com/artist?id=34314105" }
+    ],
+    "album": {
+      "name": "让风告诉你",
+      "link": "https://music.163.com/album?id=122627929"
+    }
+  },
+  {
+    "name": "起风了 英文版 Song of the Wind",
+    "link": "https://music.163.com/song?id=1338809890",
+    "duration": "05:15",
+    "artists": [
+      {
+        "name": "MelodyC2E",
+        "link": "https://music.163.com/artist?id=12284269"
+      }
+    ],
+    "album": {
+      "name": "MelodyC2E 英文版中文歌",
+      "link": "https://music.163.com/album?id=35166662"
+    }
+  },
+  {
+    "name": "FLAT",
+    "link": "https://music.163.com/song?id=554245435",
+    "duration": "03:55",
+    "artists": [
+      { "name": "女王蜂", "link": "https://music.163.com/artist?id=22492" }
+    ],
+    "album": {
+      "name": "HALF",
+      "link": "https://music.163.com/album?id=38274138"
+    }
+  },
+  {
+    "name": "Let's Talk (feat. Josh Dally) [FM-84 Remix]",
+    "link": "https://music.163.com/song?id=411907929",
+    "duration": "05:02",
+    "artists": [
+      { "name": "FM-84", "link": "https://music.163.com/artist?id=12046467" },
+      {
+        "name": "Timecop1983",
+        "link": "https://music.163.com/artist?id=954496"
+      }
+    ],
+    "album": {
+      "name": "Atlas",
+      "link": "https://music.163.com/album?id=34686652"
+    }
+  },
+  {
+    "name": "让我愉快爱一次",
+    "link": "https://music.163.com/song?id=335191",
+    "duration": "04:03",
+    "artists": [
+      { "name": "周影", "link": "https://music.163.com/artist?id=10617" }
+    ],
+    "album": {
+      "name": "还仍然想我吗",
+      "link": "https://music.163.com/album?id=33018"
+    }
+  },
+  {
+    "name": "战友战友",
+    "link": "https://music.163.com/song?id=524814416",
+    "duration": "03:47",
+    "artists": [
+      { "name": "中华", "link": "https://music.163.com/artist?id=1047257" }
+    ],
+    "album": {
+      "name": "战友战友",
+      "link": "https://music.163.com/album?id=36992645"
+    }
+  },
+  {
+    "name": "With The Seas",
+    "link": "https://music.163.com/song?id=430297577",
+    "duration": "04:07",
+    "artists": [
+      { "name": "L3V3LS", "link": "https://music.163.com/artist?id=12007340" },
+      { "name": "Blume", "link": "https://music.163.com/artist?id=88437" }
+    ],
+    "album": {
+      "name": "With The Seas",
+      "link": "https://music.163.com/album?id=34874429"
+    }
+  },
+  {
+    "name": "空飞ぶ电车",
+    "link": "https://music.163.com/song?id=22808226",
+    "duration": "04:27",
+    "artists": [
+      { "name": "遊助", "link": "https://music.163.com/artist?id=13775" }
+    ],
+    "album": {
+      "name": "Ano..Namida ga Arukara Ai ga Arundesukedo",
+      "link": "https://music.163.com/album?id=2096576"
+    }
+  },
+  {
+    "name": "California (L3V3LS Remix)",
+    "link": "https://music.163.com/song?id=1313102184",
+    "duration": "03:44",
+    "artists": [
+      {
+        "name": "Charlotte Cardin",
+        "link": "https://music.163.com/artist?id=12073881"
+      },
+      { "name": "L3V3LS", "link": "https://music.163.com/artist?id=12007340" }
+    ],
+    "album": {
+      "name": "California (L3V3LS Remix)",
+      "link": "https://music.163.com/album?id=73470925"
+    }
+  },
+  {
+    "name": "是我  - (《我家大师兄是个反派》动画片头曲)",
+    "link": "https://music.163.com/song?id=1486983352",
+    "duration": "03:18",
+    "artists": [
+      { "name": "钟强", "link": "https://music.163.com/artist?id=13837546" }
+    ],
+    "album": {
+      "name": "我家大师兄是个反派",
+      "link": "https://music.163.com/album?id=96774777"
+    }
+  },
+  {
+    "name": "Made of Stone - (电视剧《黑名单》插曲)",
+    "link": "https://music.163.com/song?id=34078176",
+    "duration": "03:56",
+    "artists": [
+      { "name": "Matt Corby", "link": "https://music.163.com/artist?id=39914" }
+    ],
+    "album": {
+      "name": "The Blacklist (Music from the Television Series)",
+      "link": "https://music.163.com/album?id=3271024"
+    }
+  },
+  {
+    "name": "放棄治療",
+    "link": "https://music.163.com/song?id=477905355",
+    "duration": "04:31",
+    "artists": [
+      {
+        "name": "Serrini樹妮妮",
+        "link": "https://music.163.com/artist?id=916007"
+      }
+    ],
+    "album": {
+      "name": "放棄治療",
+      "link": "https://music.163.com/album?id=35463663"
+    }
+  },
+  {
+    "name": "All For Love (Steerner Remix)",
+    "link": "https://music.163.com/song?id=559924939",
+    "duration": "03:36",
+    "artists": [
+      {
+        "name": "Tungevaag & Raaban",
+        "link": "https://music.163.com/artist?id=1090022"
+      },
+      { "name": "Steerner", "link": "https://music.163.com/artist?id=783190" }
+    ],
+    "album": {
+      "name": "All For Love (Steerner Remix)",
+      "link": "https://music.163.com/album?id=38730296"
+    }
+  },
+  {
+    "name": "You May Love",
+    "link": "https://music.163.com/song?id=544298327",
+    "duration": "04:11",
+    "artists": [
+      {
+        "name": "Simon O'Shine",
+        "link": "https://music.163.com/artist?id=207035"
+      },
+      { "name": "Eskova", "link": "https://music.163.com/artist?id=333697" }
+    ],
+    "album": {
+      "name": "Melodic Progressive Trance #01 - Armada Music",
+      "link": "https://music.163.com/album?id=37894272"
+    }
+  },
+  {
+    "name": "Too Bizarre",
+    "link": "https://music.163.com/song?id=1844406596",
+    "duration": "02:38",
+    "artists": [
+      { "name": "Skrillex", "link": "https://music.163.com/artist?id=43755" },
+      {
+        "name": "Swae Lee",
+        "link": "https://music.163.com/artist?id=12364156"
+      },
+      {
+        "name": "Siiickbrain",
+        "link": "https://music.163.com/artist?id=35311858"
+      }
+    ],
+    "album": {
+      "name": "Too Bizarre",
+      "link": "https://music.163.com/album?id=127296262"
+    }
+  }
+]

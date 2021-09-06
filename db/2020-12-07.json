@@ -1,0 +1,463 @@
+[
+  {
+    "name": "Moon Rider (feat. Wrabel)",
+    "link": "https://music.163.com/song?id=1415339510",
+    "duration": "03:38",
+    "artists": [
+      { "name": "Jai Wolf", "link": "https://music.163.com/artist?id=1063048" },
+      { "name": "Wrabel", "link": "https://music.163.com/artist?id=942221" }
+    ],
+    "album": {
+      "name": "Moon Rider (feat. Wrabel)",
+      "link": "https://music.163.com/album?id=84851692"
+    }
+  },
+  {
+    "name": "Boomerang",
+    "link": "https://music.163.com/song?id=512358366",
+    "duration": "03:15",
+    "artists": [
+      { "name": "Brooks", "link": "https://music.163.com/artist?id=49308" },
+      { "name": "GRX", "link": "https://music.163.com/artist?id=845068" }
+    ],
+    "album": {
+      "name": "Boomerang",
+      "link": "https://music.163.com/album?id=36528085"
+    }
+  },
+  {
+    "name": "Cirque",
+    "link": "https://music.163.com/song?id=1429856443",
+    "duration": "03:04",
+    "artists": [
+      {
+        "name": "Sub Urban",
+        "link": "https://music.163.com/artist?id=29722383"
+      }
+    ],
+    "album": {
+      "name": "Thrill Seeker",
+      "link": "https://music.163.com/album?id=86393157"
+    }
+  },
+  {
+    "name": "Bring Back The Summer (Not Your **** Remix)",
+    "link": "https://music.163.com/song?id=408532862",
+    "duration": "03:40",
+    "artists": [
+      {
+        "name": "Not Your Dope",
+        "link": "https://music.163.com/artist?id=11972030"
+      },
+      { "name": "Rain Man", "link": "https://music.163.com/artist?id=476110" },
+      { "name": "Oly", "link": "https://music.163.com/artist?id=12289226" }
+    ],
+    "album": {
+      "name": "Bring Back The Summer (Not Your **** Remix)",
+      "link": "https://music.163.com/album?id=34589899"
+    }
+  },
+  {
+    "name": "Need U",
+    "link": "https://music.163.com/song?id=1315141918",
+    "duration": "04:43",
+    "artists": [
+      { "name": "Wooli", "link": "https://music.163.com/artist?id=12203238" },
+      {
+        "name": "Josh Marment",
+        "link": "https://music.163.com/artist?id=30267085"
+      }
+    ],
+    "album": {
+      "name": "Mammoth EP",
+      "link": "https://music.163.com/album?id=73766725"
+    }
+  },
+  {
+    "name": "Brooklyn",
+    "link": "https://music.163.com/song?id=1460319077",
+    "duration": "04:14",
+    "artists": [
+      {
+        "name": "The Midnight",
+        "link": "https://music.163.com/artist?id=12023492"
+      }
+    ],
+    "album": {
+      "name": "Monsters",
+      "link": "https://music.163.com/album?id=91949236"
+    }
+  },
+  {
+    "name": "Takeaway",
+    "link": "https://music.163.com/song?id=1380001880",
+    "duration": "03:29",
+    "artists": [
+      {
+        "name": "The Chainsmokers",
+        "link": "https://music.163.com/artist?id=893484"
+      },
+      { "name": "ILLENIUM", "link": "https://music.163.com/artist?id=1050518" },
+      {
+        "name": "Lennon Stella",
+        "link": "https://music.163.com/artist?id=12213160"
+      }
+    ],
+    "album": {
+      "name": "World War Joy...Takeaway",
+      "link": "https://music.163.com/album?id=78222139"
+    }
+  },
+  {
+    "name": "Real Thing",
+    "link": "https://music.163.com/song?id=1344292311",
+    "duration": "05:05",
+    "artists": [
+      { "name": "LeBrock", "link": "https://music.163.com/artist?id=13970913" }
+    ],
+    "album": {
+      "name": "Real Thing (Remastered)",
+      "link": "https://music.163.com/album?id=75462145"
+    }
+  },
+  {
+    "name": "Taking Flight",
+    "link": "https://music.163.com/song?id=1337110014",
+    "duration": "03:10",
+    "artists": [
+      {
+        "name": "Immediate Music",
+        "link": "https://music.163.com/artist?id=35054"
+      }
+    ],
+    "album": {
+      "name": "Dream Worlds",
+      "link": "https://music.163.com/album?id=75029323"
+    }
+  },
+  {
+    "name": "Fated",
+    "link": "https://music.163.com/song?id=1366537490",
+    "duration": "03:00",
+    "artists": [
+      {
+        "name": "Adib Sin",
+        "link": "https://music.163.com/artist?id=12244027"
+      },
+      {
+        "name": "Hikaru Station",
+        "link": "https://music.163.com/artist?id=12082087"
+      }
+    ],
+    "album": {
+      "name": "Fated",
+      "link": "https://music.163.com/album?id=79258488"
+    }
+  },
+  {
+    "name": "Wintersong",
+    "link": "https://music.163.com/song?id=525238163",
+    "duration": "03:02",
+    "artists": [
+      {
+        "name": "Marcus Warner",
+        "link": "https://music.163.com/artist?id=1046308"
+      },
+      {
+        "name": "Fatma Fadel",
+        "link": "https://music.163.com/artist?id=29971588"
+      }
+    ],
+    "album": {
+      "name": "Wintersong",
+      "link": "https://music.163.com/album?id=37026065"
+    }
+  },
+  {
+    "name": "Strongest (Alan Walker Remix)",
+    "link": "https://music.163.com/song?id=521657045",
+    "duration": "03:30",
+    "artists": [
+      {
+        "name": "Ina Wroldsen",
+        "link": "https://music.163.com/artist?id=60879"
+      },
+      {
+        "name": "Alan Walker",
+        "link": "https://music.163.com/artist?id=1045123"
+      }
+    ],
+    "album": {
+      "name": "Strongest (Alan Walker Remix)",
+      "link": "https://music.163.com/album?id=36864037"
+    }
+  },
+  {
+    "name": "Walk Thru Fire",
+    "link": "https://music.163.com/song?id=1332041346",
+    "duration": "03:14",
+    "artists": [
+      { "name": "Vicetone", "link": "https://music.163.com/artist?id=747030" },
+      {
+        "name": "Meron Ryan",
+        "link": "https://music.163.com/artist?id=1181020"
+      }
+    ],
+    "album": {
+      "name": "Monstercat - Best of 2018",
+      "link": "https://music.163.com/album?id=74818484"
+    }
+  },
+  {
+    "name": "U Are the One",
+    "link": "https://music.163.com/song?id=501266889",
+    "duration": "02:44",
+    "artists": [
+      {
+        "name": "Mari Ferrari",
+        "link": "https://music.163.com/artist?id=975252"
+      }
+    ],
+    "album": {
+      "name": "U Are the One",
+      "link": "https://music.163.com/album?id=36033097"
+    }
+  },
+  {
+    "name": "October",
+    "link": "https://music.163.com/song?id=1388327265",
+    "duration": "04:00",
+    "artists": [
+      {
+        "name": "Alessia Cara",
+        "link": "https://music.163.com/artist?id=1074089"
+      }
+    ],
+    "album": {
+      "name": "This Summer",
+      "link": "https://music.163.com/album?id=81599529"
+    }
+  },
+  {
+    "name": "忧伤还是快乐（长笛版）",
+    "link": "https://music.163.com/song?id=1307635613",
+    "duration": "03:56",
+    "artists": [
+      { "name": "桑子", "link": "https://music.163.com/artist?id=13028199" }
+    ],
+    "album": {
+      "name": "My soul",
+      "link": "https://music.163.com/album?id=72960018"
+    }
+  },
+  {
+    "name": "定义",
+    "link": "https://music.163.com/song?id=1385919432",
+    "duration": "04:24",
+    "artists": [
+      { "name": "葛东琪", "link": "https://music.163.com/artist?id=12136078" }
+    ],
+    "album": {
+      "name": "第二街区",
+      "link": "https://music.163.com/album?id=79886335"
+    }
+  },
+  {
+    "name": "Lovers",
+    "link": "https://music.163.com/song?id=428095141",
+    "duration": "06:14",
+    "artists": [
+      {
+        "name": "Timecop1983",
+        "link": "https://music.163.com/artist?id=954496"
+      },
+      { "name": "SEAWAVES", "link": "https://music.163.com/artist?id=12263678" }
+    ],
+    "album": {
+      "name": "Lovers",
+      "link": "https://music.163.com/album?id=34860054"
+    }
+  },
+  {
+    "name": "Key (Inukshuk Remix)",
+    "link": "https://music.163.com/song?id=529814196",
+    "duration": "03:38",
+    "artists": [
+      { "name": "Outwild", "link": "https://music.163.com/artist?id=1115191" },
+      {
+        "name": "Virtual Self",
+        "link": "https://music.163.com/artist?id=12773843"
+      }
+    ],
+    "album": {
+      "name": "Key (Inukshuk Remix)",
+      "link": "https://music.163.com/album?id=37256042"
+    }
+  },
+  {
+    "name": "Our Weapons",
+    "link": "https://music.163.com/song?id=412175612",
+    "duration": "04:34",
+    "artists": [
+      {
+        "name": "DM Galaxy",
+        "link": "https://music.163.com/artist?id=1049936"
+      },
+      { "name": "Q'Aila", "link": "https://music.163.com/artist?id=1165039" }
+    ],
+    "album": {
+      "name": "Our Weapons",
+      "link": "https://music.163.com/album?id=34685868"
+    }
+  },
+  {
+    "name": "Future Funk",
+    "link": "https://music.163.com/song?id=27639209",
+    "duration": "02:02",
+    "artists": [
+      { "name": "Varien", "link": "https://music.163.com/artist?id=205718" }
+    ],
+    "album": {
+      "name": "Pick Your Poison   Vol. 1",
+      "link": "https://music.163.com/album?id=2650651"
+    }
+  },
+  {
+    "name": "Distress Signal",
+    "link": "https://music.163.com/song?id=26064582",
+    "duration": "03:37",
+    "artists": [
+      { "name": "Lazerhawk", "link": "https://music.163.com/artist?id=392109" }
+    ],
+    "album": {
+      "name": "Redline",
+      "link": "https://music.163.com/album?id=2369862"
+    }
+  },
+  {
+    "name": "Gemini (Original Mix)",
+    "link": "https://music.163.com/song?id=29411594",
+    "duration": "06:37",
+    "artists": [
+      {
+        "name": "Andrew Lang",
+        "link": "https://music.163.com/artist?id=745028"
+      }
+    ],
+    "album": {
+      "name": "Sagittarius",
+      "link": "https://music.163.com/album?id=3020121"
+    }
+  },
+  {
+    "name": "Be My Love",
+    "link": "https://music.163.com/song?id=562598057",
+    "duration": "03:00",
+    "artists": [
+      {
+        "name": "2 Man Embassy",
+        "link": "https://music.163.com/artist?id=14471059"
+      },
+      {
+        "name": "Emily Coulston",
+        "link": "https://music.163.com/artist?id=29794032"
+      }
+    ],
+    "album": {
+      "name": "Be My Love",
+      "link": "https://music.163.com/album?id=38984020"
+    }
+  },
+  {
+    "name": "Bleed (Ben Walter Remix)",
+    "link": "https://music.163.com/song?id=464373640",
+    "duration": "03:42",
+    "artists": [
+      {
+        "name": "Ben Walter",
+        "link": "https://music.163.com/artist?id=12054163"
+      },
+      { "name": "Vorsa", "link": "https://music.163.com/artist?id=1193224" }
+    ],
+    "album": {
+      "name": "Bleed (Ben Walter Remix)",
+      "link": "https://music.163.com/album?id=35256429"
+    }
+  },
+  {
+    "name": "Little Things (Original Mix)",
+    "link": "https://music.163.com/song?id=516320062",
+    "duration": "07:13",
+    "artists": [
+      {
+        "name": "Roald Velden",
+        "link": "https://music.163.com/artist?id=178498"
+      }
+    ],
+    "album": {
+      "name": "Behind Every Picture",
+      "link": "https://music.163.com/album?id=36700035"
+    }
+  },
+  {
+    "name": "What Can I Do (But Love You)",
+    "link": "https://music.163.com/song?id=2786284",
+    "duration": "03:08",
+    "artists": [
+      {
+        "name": "Joy Williams",
+        "link": "https://music.163.com/artist?id=61047"
+      }
+    ],
+    "album": {
+      "name": "One of Those Days",
+      "link": "https://music.163.com/album?id=280882"
+    }
+  },
+  {
+    "name": "Forthcoming (Original Mix)",
+    "link": "https://music.163.com/song?id=41654076",
+    "duration": "07:12",
+    "artists": [
+      {
+        "name": "Keith Harris",
+        "link": "https://music.163.com/artist?id=12155168"
+      }
+    ],
+    "album": {
+      "name": "Perplexity Free Winter Sampler #001",
+      "link": "https://music.163.com/album?id=3451402"
+    }
+  },
+  {
+    "name": "Priorities",
+    "link": "https://music.163.com/song?id=512099243",
+    "duration": "07:56",
+    "artists": [
+      { "name": "Alex H", "link": "https://music.163.com/artist?id=370950" }
+    ],
+    "album": {
+      "name": "Priorities",
+      "link": "https://music.163.com/album?id=36516032"
+    }
+  },
+  {
+    "name": "Chapters",
+    "link": "https://music.163.com/song?id=1349016980",
+    "duration": "02:11",
+    "artists": [
+      {
+        "name": "Steven Coltart",
+        "link": "https://music.163.com/artist?id=31593582"
+      },
+      {
+        "name": "Marcus Warner",
+        "link": "https://music.163.com/artist?id=1046308"
+      }
+    ],
+    "album": {
+      "name": "Pinnacle",
+      "link": "https://music.163.com/album?id=75731337"
+    }
+  }
+]

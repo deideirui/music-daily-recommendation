@@ -1,0 +1,489 @@
+[
+  {
+    "name": "NOT SO BAD",
+    "link": "https://music.163.com/song?id=1420917065",
+    "duration": "02:34",
+    "artists": [
+      {
+        "name": "Fecko Boltz",
+        "link": "https://music.163.com/artist?id=34293271"
+      }
+    ],
+    "album": {
+      "name": "NOT SO BAD",
+      "link": "https://music.163.com/album?id=85465373"
+    }
+  },
+  {
+    "name": "Call You Mine (Hibell Remix)",
+    "link": "https://music.163.com/song?id=1383909579",
+    "duration": "03:06",
+    "artists": [
+      { "name": "Hibell", "link": "https://music.163.com/artist?id=1137143" }
+    ],
+    "album": {
+      "name": "Call You Mine (Hibell Remix)",
+      "link": "https://music.163.com/album?id=80917326"
+    }
+  },
+  {
+    "name": "Forever Young",
+    "link": "https://music.163.com/song?id=1296637878",
+    "duration": "02:47",
+    "artists": [
+      {
+        "name": "John De Sohn",
+        "link": "https://music.163.com/artist?id=290019"
+      },
+      { "name": "Liamoo", "link": "https://music.163.com/artist?id=12409114" }
+    ],
+    "album": {
+      "name": "Forever Young",
+      "link": "https://music.163.com/album?id=72021852"
+    }
+  },
+  {
+    "name": "Take Me There",
+    "link": "https://music.163.com/song?id=504017474",
+    "duration": "03:58",
+    "artists": [
+      { "name": "MINT", "link": "https://music.163.com/artist?id=12112176" },
+      { "name": "Amra", "link": "https://music.163.com/artist?id=12627051" }
+    ],
+    "album": {
+      "name": "Take Me There",
+      "link": "https://music.163.com/album?id=36138159"
+    }
+  },
+  {
+    "name": "Inside Out",
+    "link": "https://music.163.com/song?id=1309975421",
+    "duration": "03:07",
+    "artists": [
+      {
+        "name": "ItaloBrothers",
+        "link": "https://music.163.com/artist?id=94730"
+      }
+    ],
+    "album": {
+      "name": "Inside Out",
+      "link": "https://music.163.com/album?id=73332809"
+    }
+  },
+  {
+    "name": "Killswitch",
+    "link": "https://music.163.com/song?id=1467025045",
+    "duration": "03:23",
+    "artists": [
+      { "name": "Justin Oh", "link": "https://music.163.com/artist?id=791424" },
+      { "name": "Nitro Fun", "link": "https://music.163.com/artist?id=956168" }
+    ],
+    "album": {
+      "name": "Killswitch",
+      "link": "https://music.163.com/album?id=93236105"
+    }
+  },
+  {
+    "name": "Little More",
+    "link": "https://music.163.com/song?id=1332891451",
+    "duration": "02:45",
+    "artists": [
+      { "name": "Reboost", "link": "https://music.163.com/artist?id=12047332" }
+    ],
+    "album": {
+      "name": "Little More",
+      "link": "https://music.163.com/album?id=74857640"
+    }
+  },
+  {
+    "name": "We Don't Belong",
+    "link": "https://music.163.com/song?id=488647739",
+    "duration": "03:06",
+    "artists": [
+      { "name": "Dash Berlin", "link": "https://music.163.com/artist?id=32124" }
+    ],
+    "album": {
+      "name": "We Don't Belong",
+      "link": "https://music.163.com/album?id=35695757"
+    }
+  },
+  {
+    "name": "Don't Cry For Me",
+    "link": "https://music.163.com/song?id=1461559225",
+    "duration": "02:35",
+    "artists": [
+      { "name": "Alok", "link": "https://music.163.com/artist?id=1170012" },
+      {
+        "name": "Martin Jensen",
+        "link": "https://music.163.com/artist?id=1060055"
+      },
+      {
+        "name": "Jason Derulo",
+        "link": "https://music.163.com/artist?id=35511"
+      }
+    ],
+    "album": {
+      "name": "Don’t Cry For Me",
+      "link": "https://music.163.com/album?id=92189698"
+    }
+  },
+  {
+    "name": "Soundtrack Of My Life (Extended Mix)",
+    "link": "https://music.163.com/song?id=421563924",
+    "duration": "03:59",
+    "artists": [
+      { "name": "Rai", "link": "https://music.163.com/artist?id=12073812" }
+    ],
+    "album": {
+      "name": "Written EP",
+      "link": "https://music.163.com/album?id=34780672"
+    }
+  },
+  {
+    "name": "Into You",
+    "link": "https://music.163.com/song?id=523042017",
+    "duration": "02:41",
+    "artists": [
+      {
+        "name": "Matisse & Sadko",
+        "link": "https://music.163.com/artist?id=947054"
+      },
+      {
+        "name": "Hanne Mjøen",
+        "link": "https://music.163.com/artist?id=12122217"
+      }
+    ],
+    "album": {
+      "name": "Into You",
+      "link": "https://music.163.com/album?id=36913178"
+    }
+  },
+  {
+    "name": "Rabbit Hole",
+    "link": "https://music.163.com/song?id=1348664710",
+    "duration": "02:17",
+    "artists": [
+      { "name": "MOTI", "link": "https://music.163.com/artist?id=366384" },
+      {
+        "name": "Terry McLove",
+        "link": "https://music.163.com/artist?id=30970506"
+      }
+    ],
+    "album": {
+      "name": "Rabbit Hole",
+      "link": "https://music.163.com/album?id=75711270"
+    }
+  },
+  {
+    "name": "Take Back My Love",
+    "link": "https://music.163.com/song?id=864420484",
+    "duration": "02:27",
+    "artists": [
+      {
+        "name": "Frank Pole",
+        "link": "https://music.163.com/artist?id=12046116"
+      },
+      {
+        "name": "Dia Frampton",
+        "link": "https://music.163.com/artist?id=55454"
+      }
+    ],
+    "album": {
+      "name": "Take Back My Love",
+      "link": "https://music.163.com/album?id=71731405"
+    }
+  },
+  {
+    "name": "Puslespill (Tusen Milliona)",
+    "link": "https://music.163.com/song?id=1456638368",
+    "duration": "03:16",
+    "artists": [
+      { "name": "Sturla", "link": "https://music.163.com/artist?id=12646258" },
+      {
+        "name": "Hanne Mjøen",
+        "link": "https://music.163.com/artist?id=12122217"
+      }
+    ],
+    "album": {
+      "name": "Puslespill (Tusen Milliona)",
+      "link": "https://music.163.com/album?id=91212015"
+    }
+  },
+  {
+    "name": "Hold On",
+    "link": "https://music.163.com/song?id=1362593134",
+    "duration": "03:05",
+    "artists": [
+      { "name": "Crunkz", "link": "https://music.163.com/artist?id=12545711" }
+    ],
+    "album": {
+      "name": "Hold On",
+      "link": "https://music.163.com/album?id=78879260"
+    }
+  },
+  {
+    "name": "Midnight Lights",
+    "link": "https://music.163.com/song?id=1315773006",
+    "duration": "03:40",
+    "artists": [
+      { "name": "Conro", "link": "https://music.163.com/artist?id=1063229" },
+      {
+        "name": "Ini Oladosu",
+        "link": "https://music.163.com/artist?id=30314826"
+      }
+    ],
+    "album": {
+      "name": "All Eyes On Me",
+      "link": "https://music.163.com/album?id=73798697"
+    }
+  },
+  {
+    "name": "Limit",
+    "link": "https://music.163.com/song?id=1323272445",
+    "duration": "02:57",
+    "artists": [
+      { "name": "MKJ", "link": "https://music.163.com/artist?id=469200" }
+    ],
+    "album": {
+      "name": "Time After Time",
+      "link": "https://music.163.com/album?id=74263822"
+    }
+  },
+  {
+    "name": "Tu vas me manquer (Pilule Bleue)",
+    "link": "https://music.163.com/song?id=36025856",
+    "duration": "04:10",
+    "artists": [
+      {
+        "name": "Maître Gims",
+        "link": "https://music.163.com/artist?id=710267"
+      }
+    ],
+    "album": {
+      "name": "Mon coeur avait raison",
+      "link": "https://music.163.com/album?id=3367822"
+    }
+  },
+  {
+    "name": "Move On",
+    "link": "https://music.163.com/song?id=1425225473",
+    "duration": "03:22",
+    "artists": [
+      {
+        "name": "Different Heaven",
+        "link": "https://music.163.com/artist?id=1049917"
+      },
+      { "name": "Lost Boy", "link": "https://music.163.com/artist?id=12279141" }
+    ],
+    "album": {
+      "name": "Colors EP",
+      "link": "https://music.163.com/album?id=85925170"
+    }
+  },
+  {
+    "name": "Feel the Heat (Original Mix)",
+    "link": "https://music.163.com/song?id=39940029",
+    "duration": "04:38",
+    "artists": [
+      {
+        "name": "Gil Glaze",
+        "link": "https://music.163.com/artist?id=1192544"
+      },
+      {
+        "name": "Reggie Saunders",
+        "link": "https://music.163.com/artist?id=13563747"
+      }
+    ],
+    "album": {
+      "name": "Feel the Heat",
+      "link": "https://music.163.com/album?id=3436202"
+    }
+  },
+  {
+    "name": "Got Everything",
+    "link": "https://music.163.com/song?id=1301572592",
+    "duration": "04:11",
+    "artists": [
+      {
+        "name": "Max Oazo",
+        "link": "https://music.163.com/artist?id=13159084"
+      },
+      { "name": "OJAX", "link": "https://music.163.com/artist?id=29290536" }
+    ],
+    "album": {
+      "name": "Got Everything ",
+      "link": "https://music.163.com/album?id=72300776"
+    }
+  },
+  {
+    "name": "Fall Again",
+    "link": "https://music.163.com/song?id=1340514582",
+    "duration": "03:05",
+    "artists": [
+      { "name": "Arcando", "link": "https://music.163.com/artist?id=11975134" },
+      {
+        "name": "Daniel Garrick",
+        "link": "https://music.163.com/artist?id=1163065"
+      },
+      {
+        "name": "Nessa Bransan",
+        "link": "https://music.163.com/artist?id=31289821"
+      }
+    ],
+    "album": {
+      "name": "Fall Again",
+      "link": "https://music.163.com/album?id=75227035"
+    }
+  },
+  {
+    "name": "Mutual Love",
+    "link": "https://music.163.com/song?id=1430437010",
+    "duration": "03:03",
+    "artists": [
+      { "name": "Shallou", "link": "https://music.163.com/artist?id=12029377" },
+      {
+        "name": "Zachary Knowles",
+        "link": "https://music.163.com/artist?id=30161121"
+      }
+    ],
+    "album": {
+      "name": "Magical Thinking",
+      "link": "https://music.163.com/album?id=86859888"
+    }
+  },
+  {
+    "name": "By My Side",
+    "link": "https://music.163.com/song?id=1437257417",
+    "duration": "02:46",
+    "artists": [
+      {
+        "name": "Hot Shade",
+        "link": "https://music.163.com/artist?id=12197226"
+      },
+      {
+        "name": "Mika Zibanejad",
+        "link": "https://music.163.com/artist?id=12475490"
+      }
+    ],
+    "album": {
+      "name": "By My Side",
+      "link": "https://music.163.com/album?id=87549419"
+    }
+  },
+  {
+    "name": "Feel the Same",
+    "link": "https://music.163.com/song?id=1322356404",
+    "duration": "03:11",
+    "artists": [
+      { "name": "Olly Murs", "link": "https://music.163.com/artist?id=41034" }
+    ],
+    "album": {
+      "name": "You Know I Know (Deluxe)",
+      "link": "https://music.163.com/album?id=74214813"
+    }
+  },
+  {
+    "name": "Just Got Paid",
+    "link": "https://music.163.com/song?id=1307789419",
+    "duration": "03:38",
+    "artists": [
+      { "name": "Sigala", "link": "https://music.163.com/artist?id=1124282" },
+      { "name": "Ella Eyre", "link": "https://music.163.com/artist?id=860517" },
+      {
+        "name": "Meghan Trainor",
+        "link": "https://music.163.com/artist?id=69173"
+      },
+      {
+        "name": "French Montana",
+        "link": "https://music.163.com/artist?id=33795"
+      }
+    ],
+    "album": {
+      "name": "Just Got Paid",
+      "link": "https://music.163.com/album?id=72977002"
+    }
+  },
+  {
+    "name": "A World Away",
+    "link": "https://music.163.com/song?id=404184619",
+    "duration": "03:28",
+    "artists": [
+      { "name": "Outwild", "link": "https://music.163.com/artist?id=1115191" }
+    ],
+    "album": {
+      "name": "A World Away (Original Mix)",
+      "link": "https://music.163.com/album?id=34503186"
+    }
+  },
+  {
+    "name": "This Again (Dropgun & Taku-Hero Extended Remix)",
+    "link": "https://music.163.com/song?id=519367021",
+    "duration": "03:31",
+    "artists": [
+      {
+        "name": "Breathe Carolina",
+        "link": "https://music.163.com/artist?id=88214"
+      },
+      { "name": "Dropgun", "link": "https://music.163.com/artist?id=972015" },
+      {
+        "name": "Taku-Hero",
+        "link": "https://music.163.com/artist?id=12326126"
+      }
+    ],
+    "album": {
+      "name": "Coma EP (The Remixes)",
+      "link": "https://music.163.com/album?id=36829016"
+    }
+  },
+  {
+    "name": "All I See Is You (DJ Afrojack Edit)",
+    "link": "https://music.163.com/song?id=543987454",
+    "duration": "03:45",
+    "artists": [
+      {
+        "name": "Jewelz & Sparks",
+        "link": "https://music.163.com/artist?id=947051"
+      },
+      { "name": "Afrojack", "link": "https://music.163.com/artist?id=28745" }
+    ],
+    "album": {
+      "name": "All I See Is You",
+      "link": "https://music.163.com/album?id=37886085"
+    }
+  },
+  {
+    "name": "Calvin Harris-Outside（Eal7 NS / DruGTRaffickerS / BLACK DUBLISS remix）",
+    "link": "https://music.163.com/song?id=1396945046",
+    "duration": "02:20",
+    "artists": [
+      { "name": "Eal7 NS", "link": "https://music.163.com/artist?id=30225764" },
+      {
+        "name": "DruGTRaffickerS",
+        "link": "https://music.163.com/artist?id=30643383"
+      },
+      {
+        "name": "₲ucci Muz",
+        "link": "https://music.163.com/artist?id=32833990"
+      }
+    ],
+    "album": {
+      "name": "Outside",
+      "link": "https://music.163.com/album?id=82358058"
+    }
+  },
+  {
+    "name": "Compass",
+    "link": "https://music.163.com/song?id=28635212",
+    "duration": "05:33",
+    "artists": [
+      {
+        "name": "Two Steps From Hell",
+        "link": "https://music.163.com/artist?id=102714"
+      }
+    ],
+    "album": {
+      "name": "Miracles",
+      "link": "https://music.163.com/album?id=2860860"
+    }
+  }
+]

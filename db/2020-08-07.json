@@ -1,0 +1,466 @@
+[
+  {
+    "name": "Yours",
+    "link": "https://music.163.com/song?id=1385322505",
+    "duration": "03:33",
+    "artists": [
+      {
+        "name": "N i G H T S",
+        "link": "https://music.163.com/artist?id=12278516"
+      }
+    ],
+    "album": {
+      "name": "Yours",
+      "link": "https://music.163.com/album?id=81045889"
+    }
+  },
+  {
+    "name": "Afterhours",
+    "link": "https://music.163.com/song?id=1363620027",
+    "duration": "03:25",
+    "artists": [
+      {
+        "name": "teamwork",
+        "link": "https://music.163.com/artist?id=32120712"
+      },
+      {
+        "name": "Nina Nesbitt",
+        "link": "https://music.163.com/artist?id=70292"
+      },
+      {
+        "name": "AJ MitChell",
+        "link": "https://music.163.com/artist?id=12914329"
+      }
+    ],
+    "album": {
+      "name": "Afterhours",
+      "link": "https://music.163.com/album?id=78958233"
+    }
+  },
+  {
+    "name": "Little Bit of Love",
+    "link": "https://music.163.com/song?id=1359705415",
+    "duration": "03:33",
+    "artists": [
+      { "name": "Tritonal", "link": "https://music.163.com/artist?id=104133" },
+      {
+        "name": "Rachel Platten",
+        "link": "https://music.163.com/artist?id=74518"
+      }
+    ],
+    "album": {
+      "name": "Little Bit of Love",
+      "link": "https://music.163.com/album?id=78603732"
+    }
+  },
+  {
+    "name": "No One but Me",
+    "link": "https://music.163.com/song?id=543237932",
+    "duration": "02:45",
+    "artists": [
+      { "name": "WAO", "link": "https://music.163.com/artist?id=1164040" }
+    ],
+    "album": {
+      "name": "No One but Me",
+      "link": "https://music.163.com/album?id=37853026"
+    }
+  },
+  {
+    "name": "Tie Me Down",
+    "link": "https://music.163.com/song?id=1298505546",
+    "duration": "03:38",
+    "artists": [
+      { "name": "Gryffin", "link": "https://music.163.com/artist?id=1181504" },
+      {
+        "name": "Elley Duhé",
+        "link": "https://music.163.com/artist?id=12207014"
+      }
+    ],
+    "album": {
+      "name": "Tie Me Down",
+      "link": "https://music.163.com/album?id=72042813"
+    }
+  },
+  {
+    "name": "Polaroid",
+    "link": "https://music.163.com/song?id=444324728",
+    "duration": "02:48",
+    "artists": [
+      {
+        "name": "Virginia To Vegas",
+        "link": "https://music.163.com/artist?id=942191"
+      }
+    ],
+    "album": {
+      "name": "Utopian",
+      "link": "https://music.163.com/album?id=35012380"
+    }
+  },
+  {
+    "name": "Work This Out",
+    "link": "https://music.163.com/song?id=522510373",
+    "duration": "02:35",
+    "artists": [
+      {
+        "name": "Frank Pole",
+        "link": "https://music.163.com/artist?id=12046116"
+      },
+      { "name": "Vitø", "link": "https://music.163.com/artist?id=12786078" }
+    ],
+    "album": {
+      "name": "Work This Out",
+      "link": "https://music.163.com/album?id=36913080"
+    }
+  },
+  {
+    "name": "Drowning",
+    "link": "https://music.163.com/song?id=1381403325",
+    "duration": "02:36",
+    "artists": [
+      { "name": "Franklin", "link": "https://music.163.com/artist?id=57526" },
+      {
+        "name": "Digital Farm Animals",
+        "link": "https://music.163.com/artist?id=840929"
+      },
+      { "name": "Sorana", "link": "https://music.163.com/artist?id=427708" }
+    ],
+    "album": {
+      "name": "Drowning",
+      "link": "https://music.163.com/album?id=80720904"
+    }
+  },
+  {
+    "name": "Dive With Me",
+    "link": "https://music.163.com/song?id=507134193",
+    "duration": "03:40",
+    "artists": [
+      {
+        "name": "LVNDSCAPE",
+        "link": "https://music.163.com/artist?id=1146024"
+      },
+      {
+        "name": "Cathrine Lassen",
+        "link": "https://music.163.com/artist?id=29653694"
+      }
+    ],
+    "album": {
+      "name": "Dive With Me",
+      "link": "https://music.163.com/album?id=36270081"
+    }
+  },
+  {
+    "name": "Chances",
+    "link": "https://music.163.com/song?id=489110016",
+    "duration": "03:16",
+    "artists": [
+      { "name": "Mesto", "link": "https://music.163.com/artist?id=12007184" },
+      {
+        "name": "Brielle Von Hugel",
+        "link": "https://music.163.com/artist?id=13543037"
+      }
+    ],
+    "album": {
+      "name": "Chances",
+      "link": "https://music.163.com/album?id=35726012"
+    }
+  },
+  {
+    "name": "Into The Fire (Original Mix)",
+    "link": "https://music.163.com/song?id=415793214",
+    "duration": "02:44",
+    "artists": [
+      { "name": "VINAI", "link": "https://music.163.com/artist?id=804422" },
+      { "name": "Anjulie", "link": "https://music.163.com/artist?id=46502" }
+    ],
+    "album": {
+      "name": "Into The Fire",
+      "link": "https://music.163.com/album?id=34720513"
+    }
+  },
+  {
+    "name": "Don't Put It On Me",
+    "link": "https://music.163.com/song?id=487454738",
+    "duration": "03:15",
+    "artists": [
+      {
+        "name": "Transviolet",
+        "link": "https://music.163.com/artist?id=1122080"
+      }
+    ],
+    "album": {
+      "name": "Kaleidoscopes",
+      "link": "https://music.163.com/album?id=35657413"
+    }
+  },
+  {
+    "name": "Deep End",
+    "link": "https://music.163.com/song?id=470573623",
+    "duration": "03:37",
+    "artists": [
+      { "name": "LU2VYK", "link": "https://music.163.com/artist?id=12356140" }
+    ],
+    "album": {
+      "name": "Deep End",
+      "link": "https://music.163.com/album?id=35346122"
+    }
+  },
+  {
+    "name": "Into You",
+    "link": "https://music.163.com/song?id=573518552",
+    "duration": "04:04",
+    "artists": [
+      {
+        "name": "Jason Ross",
+        "link": "https://music.163.com/artist?id=906123"
+      },
+      { "name": "Karra", "link": "https://music.163.com/artist?id=1081582" }
+    ],
+    "album": {
+      "name": "Into You",
+      "link": "https://music.163.com/album?id=39713838"
+    }
+  },
+  {
+    "name": "Weapon",
+    "link": "https://music.163.com/song?id=488641755",
+    "duration": "03:08",
+    "artists": [
+      { "name": "Grant", "link": "https://music.163.com/artist?id=813362" },
+      { "name": "BAUM", "link": "https://music.163.com/artist?id=942249" }
+    ],
+    "album": {
+      "name": "Rocket League x Monstercat Vol. 1",
+      "link": "https://music.163.com/album?id=35644274"
+    }
+  },
+  {
+    "name": "Side Effects",
+    "link": "https://music.163.com/song?id=1333206058",
+    "duration": "02:52",
+    "artists": [
+      {
+        "name": "The Chainsmokers",
+        "link": "https://music.163.com/artist?id=893484"
+      },
+      {
+        "name": "Emily Warren",
+        "link": "https://music.163.com/artist?id=12356790"
+      }
+    ],
+    "album": {
+      "name": "Sick Boy",
+      "link": "https://music.163.com/album?id=74872242"
+    }
+  },
+  {
+    "name": "Colors",
+    "link": "https://music.163.com/song?id=1382666015",
+    "duration": "03:23",
+    "artists": [
+      { "name": "The Knocks", "link": "https://music.163.com/artist?id=271741" }
+    ],
+    "album": {
+      "name": "Colors",
+      "link": "https://music.163.com/album?id=80820267"
+    }
+  },
+  {
+    "name": "Talk!",
+    "link": "https://music.163.com/song?id=1385257061",
+    "duration": "03:09",
+    "artists": [
+      { "name": "Duumu", "link": "https://music.163.com/artist?id=12007367" },
+      { "name": "ÊMIA", "link": "https://music.163.com/artist?id=14232445" }
+    ],
+    "album": {
+      "name": "Talk!",
+      "link": "https://music.163.com/album?id=81036192"
+    }
+  },
+  {
+    "name": "Never Be (feat. AXYL)",
+    "link": "https://music.163.com/song?id=1340087394",
+    "duration": "04:06",
+    "artists": [
+      {
+        "name": "Giraffe Squad",
+        "link": "https://music.163.com/artist?id=12289475"
+      },
+      { "name": "AXYL", "link": "https://music.163.com/artist?id=31244261" }
+    ],
+    "album": {
+      "name": "Never Be (feat. AXYL)",
+      "link": "https://music.163.com/album?id=75201570"
+    }
+  },
+  {
+    "name": "Your Sound is All I Need",
+    "link": "https://music.163.com/song?id=483690568",
+    "duration": "03:34",
+    "artists": [
+      { "name": "Foxen", "link": "https://music.163.com/artist?id=12462336" }
+    ],
+    "album": {
+      "name": "Your Sound Is All I Need",
+      "link": "https://music.163.com/album?id=35590958"
+    }
+  },
+  {
+    "name": "Toluca Lake",
+    "link": "https://music.163.com/song?id=515223310",
+    "duration": "03:44",
+    "artists": [
+      { "name": "Tep No", "link": "https://music.163.com/artist?id=956357" }
+    ],
+    "album": {
+      "name": "Toluca Lake",
+      "link": "https://music.163.com/album?id=36515693"
+    }
+  },
+  {
+    "name": "Lost in the Night",
+    "link": "https://music.163.com/song?id=1297750023",
+    "duration": "02:55",
+    "artists": [
+      {
+        "name": "DJ DimixeR",
+        "link": "https://music.163.com/artist?id=11976190"
+      },
+      {
+        "name": "Greenjelin",
+        "link": "https://music.163.com/artist?id=13021897"
+      },
+      {
+        "name": "Cali Fornia",
+        "link": "https://music.163.com/artist?id=13783230"
+      }
+    ],
+    "album": {
+      "name": "Lost in the Night",
+      "link": "https://music.163.com/album?id=72071620"
+    }
+  },
+  {
+    "name": "Labyrinth",
+    "link": "https://music.163.com/song?id=1418507200",
+    "duration": "03:52",
+    "artists": [
+      { "name": "Direct", "link": "https://music.163.com/artist?id=758029" },
+      { "name": "Essenger", "link": "https://music.163.com/artist?id=31400823" }
+    ],
+    "album": {
+      "name": "Labyrinth",
+      "link": "https://music.163.com/album?id=85175948"
+    }
+  },
+  {
+    "name": "****** Up",
+    "link": "https://music.163.com/song?id=1374155242",
+    "duration": "03:39",
+    "artists": [
+      { "name": "Bahari", "link": "https://music.163.com/artist?id=1044218" }
+    ],
+    "album": {
+      "name": "****** Up",
+      "link": "https://music.163.com/album?id=80009071"
+    }
+  },
+  {
+    "name": "Better",
+    "link": "https://music.163.com/song?id=473740379",
+    "duration": "03:33",
+    "artists": [
+      {
+        "name": "Skylar Fri",
+        "link": "https://music.163.com/artist?id=12384046"
+      }
+    ],
+    "album": {
+      "name": "Better",
+      "link": "https://music.163.com/album?id=35422123"
+    }
+  },
+  {
+    "name": "Missing",
+    "link": "https://music.163.com/song?id=1421267401",
+    "duration": "03:24",
+    "artists": [
+      {
+        "name": "HoneyComeBear",
+        "link": "https://music.163.com/artist?id=12675383"
+      }
+    ],
+    "album": {
+      "name": "Missing",
+      "link": "https://music.163.com/album?id=85512380"
+    }
+  },
+  {
+    "name": "Lone Wolf",
+    "link": "https://music.163.com/song?id=545343370",
+    "duration": "04:51",
+    "artists": [
+      { "name": "Georgi Kay", "link": "https://music.163.com/artist?id=290036" }
+    ],
+    "album": {
+      "name": "Lone Wolf",
+      "link": "https://music.163.com/album?id=37925292"
+    }
+  },
+  {
+    "name": "Foolish",
+    "link": "https://music.163.com/song?id=567599802",
+    "duration": "03:07",
+    "artists": [
+      { "name": "Clara", "link": "https://music.163.com/artist?id=12871090" }
+    ],
+    "album": {
+      "name": "Foolish",
+      "link": "https://music.163.com/album?id=39356166"
+    }
+  },
+  {
+    "name": "I'm Not Over",
+    "link": "https://music.163.com/song?id=29732302",
+    "duration": "04:36",
+    "artists": [
+      { "name": "Hellberg", "link": "https://music.163.com/artist?id=210570" },
+      { "name": "Tash", "link": "https://music.163.com/artist?id=44886" }
+    ],
+    "album": {
+      "name": "I'm Not Over",
+      "link": "https://music.163.com/album?id=3069057"
+    }
+  },
+  {
+    "name": "Twilight Melody",
+    "link": "https://music.163.com/song?id=431357246",
+    "duration": "04:14",
+    "artists": [
+      {
+        "name": "DDRKirby(ISQ)",
+        "link": "https://music.163.com/artist?id=939104"
+      }
+    ],
+    "album": {
+      "name": "The Ecstasy of Life",
+      "link": "https://music.163.com/album?id=34874877"
+    }
+  },
+  {
+    "name": "Eden",
+    "link": "https://music.163.com/song?id=1347855187",
+    "duration": "05:12",
+    "artists": [
+      { "name": "Au5", "link": "https://music.163.com/artist?id=359309" },
+      {
+        "name": "Danyka Nadeau",
+        "link": "https://music.163.com/artist?id=1078277"
+      }
+    ],
+    "album": {
+      "name": "Eden",
+      "link": "https://music.163.com/album?id=75673677"
+    }
+  }
+]

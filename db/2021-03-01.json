@@ -1,0 +1,500 @@
+[
+  {
+    "name": "Silhouettes",
+    "link": "https://music.163.com/song?id=1434225460",
+    "duration": "03:59",
+    "artists": [
+      { "name": "Shallou", "link": "https://music.163.com/artist?id=12029377" },
+      {
+        "name": "Vancouver Sleep Clinic",
+        "link": "https://music.163.com/artist?id=844692"
+      }
+    ],
+    "album": {
+      "name": "Magical Thinking",
+      "link": "https://music.163.com/album?id=86859888"
+    }
+  },
+  {
+    "name": "Next To Me",
+    "link": "https://music.163.com/song?id=1408639572",
+    "duration": "02:53",
+    "artists": [
+      {
+        "name": "jeonghyeon",
+        "link": "https://music.163.com/artist?id=28748581"
+      },
+      {
+        "name": "yourbeagle",
+        "link": "https://music.163.com/artist?id=28264962"
+      }
+    ],
+    "album": {
+      "name": "Next To Me",
+      "link": "https://music.163.com/album?id=83991959"
+    }
+  },
+  {
+    "name": "What I Like About You",
+    "link": "https://music.163.com/song?id=1353368988",
+    "duration": "03:40",
+    "artists": [
+      {
+        "name": "Jonas Blue",
+        "link": "https://music.163.com/artist?id=1192069"
+      },
+      {
+        "name": "Theresa Rex",
+        "link": "https://music.163.com/artist?id=30282713"
+      }
+    ],
+    "album": {
+      "name": "What I Like About You",
+      "link": "https://music.163.com/album?id=77634351"
+    }
+  },
+  {
+    "name": "Downfalls",
+    "link": "https://music.163.com/song?id=1438808727",
+    "duration": "03:10",
+    "artists": [
+      {
+        "name": "Cally Rhodes",
+        "link": "https://music.163.com/artist?id=12603359"
+      }
+    ],
+    "album": {
+      "name": "Downfalls",
+      "link": "https://music.163.com/album?id=87793610"
+    }
+  },
+  {
+    "name": "Sleepless Nights",
+    "link": "https://music.163.com/song?id=1298371213",
+    "duration": "03:16",
+    "artists": [
+      { "name": "ayokay", "link": "https://music.163.com/artist?id=1116021" },
+      { "name": "Nightly", "link": "https://music.163.com/artist?id=12107608" }
+    ],
+    "album": {
+      "name": "Sleepless Nights",
+      "link": "https://music.163.com/album?id=72105065"
+    }
+  },
+  {
+    "name": "Alibi",
+    "link": "https://music.163.com/song?id=1443498363",
+    "duration": "03:12",
+    "artists": [
+      { "name": "Distrion", "link": "https://music.163.com/artist?id=1050853" },
+      { "name": "Heleen", "link": "https://music.163.com/artist?id=28866940" }
+    ],
+    "album": {
+      "name": "Alibi",
+      "link": "https://music.163.com/album?id=88548182"
+    }
+  },
+  {
+    "name": "This Town",
+    "link": "https://music.163.com/song?id=507903881",
+    "duration": "03:22",
+    "artists": [
+      { "name": "Kygo", "link": "https://music.163.com/artist?id=844410" },
+      {
+        "name": "Sasha Sloan",
+        "link": "https://music.163.com/artist?id=12646102"
+      }
+    ],
+    "album": {
+      "name": "Stargazing",
+      "link": "https://music.163.com/album?id=36296886"
+    }
+  },
+  {
+    "name": "West Coast",
+    "link": "https://music.163.com/song?id=496869543",
+    "duration": "02:53",
+    "artists": [
+      { "name": "Kryga", "link": "https://music.163.com/artist?id=12560340" },
+      {
+        "name": "Rhea Raj",
+        "link": "https://music.163.com/artist?id=12843681"
+      },
+      { "name": "J. Lisk", "link": "https://music.163.com/artist?id=12121101" }
+    ],
+    "album": {
+      "name": "West Coast",
+      "link": "https://music.163.com/album?id=35908319"
+    }
+  },
+  {
+    "name": "New York City (Dash Berlin Remix)",
+    "link": "https://music.163.com/song?id=400161974",
+    "duration": "03:12",
+    "artists": [
+      {
+        "name": "Dash Berlin",
+        "link": "https://music.163.com/artist?id=32124"
+      },
+      {
+        "name": "The Chainsmokers",
+        "link": "https://music.163.com/artist?id=893484"
+      },
+      {
+        "name": "Victoria Zaro",
+        "link": "https://music.163.com/artist?id=13058594"
+      }
+    ],
+    "album": {
+      "name": "New York City (Dash Berlin Remix)",
+      "link": "https://music.163.com/album?id=34430112"
+    }
+  },
+  {
+    "name": "Tried to Love (Happi Remix)",
+    "link": "https://music.163.com/song?id=1415846454",
+    "duration": "03:26",
+    "artists": [
+      { "name": "Madism", "link": "https://music.163.com/artist?id=14774559" },
+      {
+        "name": "Felix Samuel",
+        "link": "https://music.163.com/artist?id=273813"
+      },
+      { "name": "Happi", "link": "https://music.163.com/artist?id=33044361" }
+    ],
+    "album": {
+      "name": "Tried To Love (Remixes)",
+      "link": "https://music.163.com/album?id=84905981"
+    }
+  },
+  {
+    "name": "Young Souls",
+    "link": "https://music.163.com/song?id=31134215",
+    "duration": "03:39",
+    "artists": [
+      {
+        "name": "Broken Back",
+        "link": "https://music.163.com/artist?id=1054095"
+      }
+    ],
+    "album": {
+      "name": "Dear Misfortune, Mother of Joy",
+      "link": "https://music.163.com/album?id=3112283"
+    }
+  },
+  {
+    "name": "Hold Us Together",
+    "link": "https://music.163.com/song?id=480517594",
+    "duration": "03:41",
+    "artists": [
+      { "name": "WILD", "link": "https://music.163.com/artist?id=12074090" }
+    ],
+    "album": {
+      "name": "Hold Us Together",
+      "link": "https://music.163.com/album?id=35550333"
+    }
+  },
+  {
+    "name": "Don't Stop (TheFatRat Remix)",
+    "link": "https://music.163.com/song?id=29550185",
+    "duration": "03:44",
+    "artists": [
+      {
+        "name": "TheFatRat",
+        "link": "https://music.163.com/artist?id=1019952"
+      },
+      {
+        "name": "Foster The People",
+        "link": "https://music.163.com/artist?id=92856"
+      }
+    ],
+    "album": {
+      "name": "Don't Stop (TheFatRat Remix)",
+      "link": "https://music.163.com/album?id=3034267"
+    }
+  },
+  {
+    "name": "Pillow talk",
+    "link": "https://music.163.com/song?id=29723074",
+    "duration": "03:47",
+    "artists": [
+      { "name": "Auryn", "link": "https://music.163.com/artist?id=87424" }
+    ],
+    "album": {
+      "name": "Circus Avenue (Fan Edition)",
+      "link": "https://music.163.com/album?id=3066283"
+    }
+  },
+  {
+    "name": "Don't You Give Up (Original Mix)",
+    "link": "https://music.163.com/song?id=554284183",
+    "duration": "05:35",
+    "artists": [
+      {
+        "name": "Oscillian",
+        "link": "https://music.163.com/artist?id=13975118"
+      },
+      { "name": "Nina", "link": "https://music.163.com/artist?id=149874" }
+    ],
+    "album": {
+      "name": "Pure Synthwave, Vol. 1",
+      "link": "https://music.163.com/album?id=38429768"
+    }
+  },
+  {
+    "name": "Somber (Acoustic)",
+    "link": "https://music.163.com/song?id=550616628",
+    "duration": "03:57",
+    "artists": [
+      {
+        "name": "Violet Days",
+        "link": "https://music.163.com/artist?id=947272"
+      },
+      { "name": "morgxn", "link": "https://music.163.com/artist?id=12053396" }
+    ],
+    "album": {
+      "name": "Somber (Acoustic)",
+      "link": "https://music.163.com/album?id=38099295"
+    }
+  },
+  {
+    "name": "Take Me With You",
+    "link": "https://music.163.com/song?id=518895995",
+    "duration": "03:58",
+    "artists": [
+      { "name": "Fleurie", "link": "https://music.163.com/artist?id=860929" },
+      { "name": "Ruslan", "link": "https://music.163.com/artist?id=816254" }
+    ],
+    "album": {
+      "name": "Take Me With You",
+      "link": "https://music.163.com/album?id=36813215"
+    }
+  },
+  {
+    "name": "Blueberry Eyes (feat. SUGA of BTS) [Steve Aoki Remix]",
+    "link": "https://music.163.com/song?id=1494135060",
+    "duration": "03:16",
+    "artists": [
+      { "name": "MAX", "link": "https://music.163.com/artist?id=759100" },
+      { "name": "SUGA", "link": "https://music.163.com/artist?id=1088131" },
+      { "name": "Steve Aoki", "link": "https://music.163.com/artist?id=43608" }
+    ],
+    "album": {
+      "name": "Blueberry Eyes (feat. SUGA of BTS) [Steve Aoki Remix]",
+      "link": "https://music.163.com/album?id=98090344"
+    }
+  },
+  {
+    "name": "Another Night",
+    "link": "https://music.163.com/song?id=543988986",
+    "duration": "03:41",
+    "artists": [
+      { "name": "MYRNE", "link": "https://music.163.com/artist?id=791151" },
+      { "name": "Nevve", "link": "https://music.163.com/artist?id=12567101" }
+    ],
+    "album": {
+      "name": "Another Night",
+      "link": "https://music.163.com/album?id=37888163"
+    }
+  },
+  {
+    "name": "Throwaway (SG Lewis x Clairo)",
+    "link": "https://music.163.com/song?id=1351918116",
+    "duration": "03:00",
+    "artists": [
+      { "name": "SG Lewis", "link": "https://music.163.com/artist?id=1130009" },
+      { "name": "Clairo", "link": "https://music.163.com/artist?id=12191215" }
+    ],
+    "album": {
+      "name": "Throwaway (SG Lewis x Clairo)",
+      "link": "https://music.163.com/album?id=75848990"
+    }
+  },
+  {
+    "name": "Faded Light",
+    "link": "https://music.163.com/song?id=1347617340",
+    "duration": "05:33",
+    "artists": [
+      { "name": "PYLOT", "link": "https://music.163.com/artist?id=865032" }
+    ],
+    "album": {
+      "name": "Solai",
+      "link": "https://music.163.com/album?id=75662489"
+    }
+  },
+  {
+    "name": "Cover It Up",
+    "link": "https://music.163.com/song?id=1368482632",
+    "duration": "03:14",
+    "artists": [
+      {
+        "name": "Robert Cristian",
+        "link": "https://music.163.com/artist?id=13505102"
+      }
+    ],
+    "album": {
+      "name": "Cover It Up",
+      "link": "https://music.163.com/album?id=79479618"
+    }
+  },
+  {
+    "name": "Got Me Good",
+    "link": "https://music.163.com/song?id=28468739",
+    "duration": "03:31",
+    "artists": [
+      { "name": "Agnes", "link": "https://music.163.com/artist?id=46524" }
+    ],
+    "album": {
+      "name": "Veritas",
+      "link": "https://music.163.com/album?id=2805075"
+    }
+  },
+  {
+    "name": "Body High",
+    "link": "https://music.163.com/song?id=541499602",
+    "duration": "03:45",
+    "artists": [
+      {
+        "name": "Paris Blohm",
+        "link": "https://music.163.com/artist?id=851710"
+      },
+      { "name": "Myah Marie", "link": "https://music.163.com/artist?id=69061" }
+    ],
+    "album": {
+      "name": "Body High",
+      "link": "https://music.163.com/album?id=37575328"
+    }
+  },
+  {
+    "name": "After All This Time (Original Mix)",
+    "link": "https://music.163.com/song?id=29490361",
+    "duration": "08:40",
+    "artists": [
+      {
+        "name": "Roald Velden",
+        "link": "https://music.163.com/artist?id=178498"
+      },
+      { "name": "Alex H", "link": "https://music.163.com/artist?id=370950" }
+    ],
+    "album": {
+      "name": "Last Flight Home",
+      "link": "https://music.163.com/album?id=3033342"
+    }
+  },
+  {
+    "name": "Hare (Original Mix)",
+    "link": "https://music.163.com/song?id=433223928",
+    "duration": "06:27",
+    "artists": [
+      {
+        "name": "Bee Hunter",
+        "link": "https://music.163.com/artist?id=1019937"
+      },
+      {
+        "name": "Andrew Lang",
+        "link": "https://music.163.com/artist?id=745028"
+      }
+    ],
+    "album": {
+      "name": "Mangoes & Limes",
+      "link": "https://music.163.com/album?id=34886653"
+    }
+  },
+  {
+    "name": "Lost",
+    "link": "https://music.163.com/song?id=543987278",
+    "duration": "03:36",
+    "artists": [
+      { "name": "VENIICE", "link": "https://music.163.com/artist?id=12218056" },
+      {
+        "name": "Alice Berg",
+        "link": "https://music.163.com/artist?id=13202706"
+      }
+    ],
+    "album": {
+      "name": "Gemini",
+      "link": "https://music.163.com/album?id=37886055"
+    }
+  },
+  {
+    "name": "Run To You",
+    "link": "https://music.163.com/song?id=36307054",
+    "duration": "03:40",
+    "artists": [
+      {
+        "name": "Summer Was Fun",
+        "link": "https://music.163.com/artist?id=1106010"
+      },
+      {
+        "name": "Meron Ryan",
+        "link": "https://music.163.com/artist?id=1181020"
+      }
+    ],
+    "album": {
+      "name": "Monstercat 024 - Vanguard",
+      "link": "https://music.163.com/album?id=3395024"
+    }
+  },
+  {
+    "name": "What I Wanted (Denis Neve Remix)",
+    "link": "https://music.163.com/song?id=29586341",
+    "duration": "07:46",
+    "artists": [
+      {
+        "name": "Sunlight Project",
+        "link": "https://music.163.com/artist?id=858214"
+      },
+      { "name": "Denis Neve", "link": "https://music.163.com/artist?id=858447" }
+    ],
+    "album": {
+      "name": "The Best Of Incepto Volume 7",
+      "link": "https://music.163.com/album?id=3052275"
+    }
+  },
+  {
+    "name": "Dream to Remember",
+    "link": "https://music.163.com/song?id=3932151",
+    "duration": "05:13",
+    "artists": [
+      {
+        "name": "Approaching Nirvana",
+        "link": "https://music.163.com/artist?id=86884"
+      }
+    ],
+    "album": {
+      "name": "Blocking the Sky",
+      "link": "https://music.163.com/album?id=397687"
+    }
+  },
+  {
+    "name": "On A Sunny Day (Original Mix)",
+    "link": "https://music.163.com/song?id=27521266",
+    "duration": "07:25",
+    "artists": [
+      { "name": "Flashtech", "link": "https://music.163.com/artist?id=806152" }
+    ],
+    "album": {
+      "name": "harmony",
+      "link": "https://music.163.com/album?id=2624497"
+    }
+  },
+  {
+    "name": "Holy (Acoustic)",
+    "link": "https://music.163.com/song?id=1823434717",
+    "duration": "03:25",
+    "artists": [
+      {
+        "name": "Justin Bieber",
+        "link": "https://music.163.com/artist?id=35531"
+      },
+      {
+        "name": "Chance the Rapper",
+        "link": "https://music.163.com/artist?id=749038"
+      }
+    ],
+    "album": {
+      "name": "JB6",
+      "link": "https://music.163.com/album?id=123629087"
+    }
+  }
+]

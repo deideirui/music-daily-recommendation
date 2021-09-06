@@ -1,0 +1,459 @@
+[
+  {
+    "name": "Million Days",
+    "link": "https://music.163.com/song?id=1417055605",
+    "duration": "03:28",
+    "artists": [
+      { "name": "Sabai", "link": "https://music.163.com/artist?id=32093901" },
+      { "name": "Hoang", "link": "https://music.163.com/artist?id=27694442" },
+      {
+        "name": "Claire Ridgely",
+        "link": "https://music.163.com/artist?id=14935781"
+      }
+    ],
+    "album": {
+      "name": "Million Days",
+      "link": "https://music.163.com/album?id=85020147"
+    }
+  },
+  {
+    "name": "Figure Out",
+    "link": "https://music.163.com/song?id=1331505365",
+    "duration": "02:38",
+    "artists": [
+      { "name": "Klaas", "link": "https://music.163.com/artist?id=106210" }
+    ],
+    "album": {
+      "name": "Figure Out",
+      "link": "https://music.163.com/album?id=74785522"
+    }
+  },
+  {
+    "name": "Carousel",
+    "link": "https://music.163.com/song?id=1406443093",
+    "duration": "02:49",
+    "artists": [
+      { "name": "DEAMN", "link": "https://music.163.com/artist?id=12047335" }
+    ],
+    "album": {
+      "name": "Carousel",
+      "link": "https://music.163.com/album?id=83741887"
+    }
+  },
+  {
+    "name": "Today Is What I Live For",
+    "link": "https://music.163.com/song?id=1367319643",
+    "duration": "03:11",
+    "artists": [
+      { "name": "Beatmad", "link": "https://music.163.com/artist?id=12647016" },
+      { "name": "Arsen", "link": "https://music.163.com/artist?id=34334160" },
+      { "name": "Vyel", "link": "https://music.163.com/artist?id=12931719" },
+      {
+        "name": "Revealed Recordings",
+        "link": "https://music.163.com/artist?id=28753573"
+      }
+    ],
+    "album": {
+      "name": "Today Is What I Live For",
+      "link": "https://music.163.com/album?id=79367861"
+    }
+  },
+  {
+    "name": "Living Again",
+    "link": "https://music.163.com/song?id=530943930",
+    "duration": "03:19",
+    "artists": [
+      { "name": "Ryos", "link": "https://music.163.com/artist?id=1053137" },
+      {
+        "name": "Tony Rodini",
+        "link": "https://music.163.com/artist?id=14252103"
+      }
+    ],
+    "album": {
+      "name": "Living Again",
+      "link": "https://music.163.com/album?id=37308835"
+    }
+  },
+  {
+    "name": "I Need Love",
+    "link": "https://music.163.com/song?id=1398919280",
+    "duration": "03:20",
+    "artists": [
+      { "name": "Debris", "link": "https://music.163.com/artist?id=640587" },
+      {
+        "name": "Justin Petti",
+        "link": "https://music.163.com/artist?id=12775352"
+      },
+      {
+        "name": "Veronica Bravo",
+        "link": "https://music.163.com/artist?id=14296763"
+      }
+    ],
+    "album": {
+      "name": "I Need Love",
+      "link": "https://music.163.com/album?id=82708154"
+    }
+  },
+  {
+    "name": "Setsuna",
+    "link": "https://music.163.com/song?id=1447458944",
+    "duration": "03:14",
+    "artists": [
+      { "name": "Xomu", "link": "https://music.163.com/artist?id=12903205" },
+      {
+        "name": "Justin Klyvis",
+        "link": "https://music.163.com/artist?id=30366345"
+      }
+    ],
+    "album": {
+      "name": "Setsuna",
+      "link": "https://music.163.com/album?id=89317672"
+    }
+  },
+  {
+    "name": "Waiting",
+    "link": "https://music.163.com/song?id=1397701756",
+    "duration": "03:25",
+    "artists": [
+      { "name": "Vicetone", "link": "https://music.163.com/artist?id=747030" },
+      {
+        "name": "Daisy Guttridge",
+        "link": "https://music.163.com/artist?id=13222414"
+      }
+    ],
+    "album": {
+      "name": "Monstercat Instinct Vol. 4",
+      "link": "https://music.163.com/album?id=82525503"
+    }
+  },
+  {
+    "name": "Let Me Let Go",
+    "link": "https://music.163.com/song?id=1376817014",
+    "duration": "03:02",
+    "artists": [
+      { "name": "Yaro", "link": "https://music.163.com/artist?id=133708" },
+      { "name": "Nanno", "link": "https://music.163.com/artist?id=14208320" },
+      {
+        "name": "I Am Karate",
+        "link": "https://music.163.com/artist?id=12047412"
+      }
+    ],
+    "album": {
+      "name": "Revealed Recordings presents Progressive EP Vol. 2",
+      "link": "https://music.163.com/album?id=80287909"
+    }
+  },
+  {
+    "name": "Sneaker - スニーカー",
+    "link": "https://music.163.com/song?id=509728521",
+    "duration": "03:26",
+    "artists": [
+      {
+        "name": "HoneyComeBear",
+        "link": "https://music.163.com/artist?id=12675383"
+      }
+    ],
+    "album": {
+      "name": "Sneaker - スニーカー",
+      "link": "https://music.163.com/album?id=36450244"
+    }
+  },
+  {
+    "name": "Never Giving Up",
+    "link": "https://music.163.com/song?id=419594484",
+    "duration": "03:22",
+    "artists": [
+      { "name": "Tom Swoon", "link": "https://music.163.com/artist?id=725010" }
+    ],
+    "album": {
+      "name": "Never Giving Up",
+      "link": "https://music.163.com/album?id=34751305"
+    }
+  },
+  {
+    "name": "Out Of My Mind",
+    "link": "https://music.163.com/song?id=425298366",
+    "duration": "02:39",
+    "artists": [
+      { "name": "Husman", "link": "https://music.163.com/artist?id=295320" },
+      {
+        "name": "Carl Nunes",
+        "link": "https://music.163.com/artist?id=383374"
+      },
+      {
+        "name": "Matthew Steeper",
+        "link": "https://music.163.com/artist?id=1094011"
+      }
+    ],
+    "album": {
+      "name": "Out Of My Mind",
+      "link": "https://music.163.com/album?id=34817371"
+    }
+  },
+  {
+    "name": "Greenlights",
+    "link": "https://music.163.com/song?id=1410363203",
+    "duration": "02:42",
+    "artists": [
+      { "name": "Krewella", "link": "https://music.163.com/artist?id=208915" }
+    ],
+    "album": {
+      "name": "Greenlights",
+      "link": "https://music.163.com/album?id=84179710"
+    }
+  },
+  {
+    "name": "My Instant Tune",
+    "link": "https://music.163.com/song?id=504646297",
+    "duration": "03:57",
+    "artists": [
+      { "name": "iMeiden", "link": "https://music.163.com/artist?id=12332173" }
+    ],
+    "album": {
+      "name": "My Instant Tune",
+      "link": "https://music.163.com/album?id=36128498"
+    }
+  },
+  {
+    "name": "Can't Stop Raving (5u5h1 Remix)",
+    "link": "https://music.163.com/song?id=512296104",
+    "duration": "04:07",
+    "artists": [
+      { "name": "5u5h1", "link": "https://music.163.com/artist?id=1080090" },
+      { "name": "KO3", "link": "https://music.163.com/artist?id=12694178" },
+      { "name": "Getty", "link": "https://music.163.com/artist?id=11976029" },
+      { "name": "Tea", "link": "https://music.163.com/artist?id=156071" }
+    ],
+    "album": {
+      "name": "Can't Stop Raving (5u5h1 Remix)",
+      "link": "https://music.163.com/album?id=36516124"
+    }
+  },
+  {
+    "name": "Falling",
+    "link": "https://music.163.com/song?id=30621787",
+    "duration": "03:38",
+    "artists": [
+      {
+        "name": "Fedde Le Grand",
+        "link": "https://music.163.com/artist?id=33528"
+      },
+      {
+        "name": "Niels Geusebroek",
+        "link": "https://music.163.com/artist?id=1101011"
+      }
+    ],
+    "album": {
+      "name": "Falling",
+      "link": "https://music.163.com/album?id=3104100"
+    }
+  },
+  {
+    "name": "Ghost (Basic Tape Remix)",
+    "link": "https://music.163.com/song?id=1407767448",
+    "duration": "03:16",
+    "artists": [
+      { "name": "Au/Ra", "link": "https://music.163.com/artist?id=12143031" },
+      {
+        "name": "Alan Walker",
+        "link": "https://music.163.com/artist?id=1045123"
+      },
+      {
+        "name": "Basic Tape",
+        "link": "https://music.163.com/artist?id=1072043"
+      }
+    ],
+    "album": {
+      "name": "Ghost (Remixes)",
+      "link": "https://music.163.com/album?id=83916213"
+    }
+  },
+  {
+    "name": "Hide and seek Spirit away",
+    "link": "https://music.163.com/song?id=26307697",
+    "duration": "04:17",
+    "artists": [
+      { "name": "あひる", "link": "https://music.163.com/artist?id=29813644" }
+    ],
+    "album": {
+      "name": "Drizzle Doll",
+      "link": "https://music.163.com/album?id=2448566"
+    }
+  },
+  {
+    "name": "Tulala Story",
+    "link": "https://music.163.com/song?id=477839693",
+    "duration": "04:15",
+    "artists": [
+      { "name": "beignet", "link": "https://music.163.com/artist?id=12416045" }
+    ],
+    "album": {
+      "name": "MOMO SYRUP",
+      "link": "https://music.163.com/album?id=35498045"
+    }
+  },
+  {
+    "name": "カメレオン",
+    "link": "https://music.163.com/song?id=1342511614",
+    "duration": "04:19",
+    "artists": [
+      { "name": "Nyarons", "link": "https://music.163.com/artist?id=29998704" }
+    ],
+    "album": {
+      "name": "にゃーろんず入門2",
+      "link": "https://music.163.com/album?id=75349331"
+    }
+  },
+  {
+    "name": "Cappuccino",
+    "link": "https://music.163.com/song?id=479198277",
+    "duration": "03:38",
+    "artists": [
+      { "name": "YUC'e", "link": "https://music.163.com/artist?id=12054347" }
+    ],
+    "album": {
+      "name": "macaron moon",
+      "link": "https://music.163.com/album?id=35498533"
+    }
+  },
+  {
+    "name": "Body",
+    "link": "https://music.163.com/song?id=571059901",
+    "duration": "02:43",
+    "artists": [
+      {
+        "name": "Loud Luxury",
+        "link": "https://music.163.com/artist?id=12096064"
+      },
+      { "name": "Brando", "link": "https://music.163.com/artist?id=49787" }
+    ],
+    "album": {
+      "name": "Armada 15 Years",
+      "link": "https://music.163.com/album?id=39563203"
+    }
+  },
+  {
+    "name": "Take Me away",
+    "link": "https://music.163.com/song?id=568235548",
+    "duration": "03:45",
+    "artists": [
+      {
+        "name": "ClearSky",
+        "link": "https://music.163.com/artist?id=12108591"
+      },
+      { "name": "Thomas Fiss", "link": "https://music.163.com/artist?id=45235" }
+    ],
+    "album": {
+      "name": "Take Me away",
+      "link": "https://music.163.com/album?id=39392688"
+    }
+  },
+  {
+    "name": "Better Not",
+    "link": "https://music.163.com/song?id=1304848880",
+    "duration": "03:42",
+    "artists": [
+      {
+        "name": "Louis The Child",
+        "link": "https://music.163.com/artist?id=1124134"
+      },
+      { "name": "Wafia", "link": "https://music.163.com/artist?id=1178106" }
+    ],
+    "album": {
+      "name": "2018 Rising Artists",
+      "link": "https://music.163.com/album?id=72574841"
+    }
+  },
+  {
+    "name": "Body High",
+    "link": "https://music.163.com/song?id=541499602",
+    "duration": "03:45",
+    "artists": [
+      {
+        "name": "Paris Blohm",
+        "link": "https://music.163.com/artist?id=851710"
+      },
+      { "name": "Myah Marie", "link": "https://music.163.com/artist?id=69061" }
+    ],
+    "album": {
+      "name": "Body High",
+      "link": "https://music.163.com/album?id=37575328"
+    }
+  },
+  {
+    "name": "I'll Be Your Reason (FURY Remix)",
+    "link": "https://music.163.com/song?id=446549372",
+    "duration": "03:38",
+    "artists": [
+      { "name": "ILLENIUM", "link": "https://music.163.com/artist?id=1050518" },
+      { "name": "Fury", "link": "https://music.163.com/artist?id=143149" }
+    ],
+    "album": {
+      "name": "Ashes (Remixes)",
+      "link": "https://music.163.com/album?id=35012826"
+    }
+  },
+  {
+    "name": "What Would You Do for Love (Sedliv Remix)",
+    "link": "https://music.163.com/song?id=1311747404",
+    "duration": "04:27",
+    "artists": [
+      { "name": "NERVO", "link": "https://music.163.com/artist?id=97927" }
+    ],
+    "album": {
+      "name": "What Would Yo Do For Love (The Remixes)",
+      "link": "https://music.163.com/album?id=73521280"
+    }
+  },
+  {
+    "name": "Walking the World",
+    "link": "https://music.163.com/song?id=472944203",
+    "duration": "06:59",
+    "artists": [
+      { "name": "Talamanca", "link": "https://music.163.com/artist?id=355244" }
+    ],
+    "album": {
+      "name": "Arrivals & Departures",
+      "link": "https://music.163.com/album?id=35392056"
+    }
+  },
+  {
+    "name": "Adventures",
+    "link": "https://music.163.com/song?id=38391514",
+    "duration": "03:28",
+    "artists": [
+      { "name": "Starix​", "link": "https://music.163.com/artist?id=1058011" }
+    ],
+    "album": {
+      "name": "Adventures",
+      "link": "https://music.163.com/album?id=3428343"
+    }
+  },
+  {
+    "name": "Evening Sky (Original Mix)",
+    "link": "https://music.163.com/song?id=29490363",
+    "duration": "07:19",
+    "artists": [
+      {
+        "name": "Roald Velden",
+        "link": "https://music.163.com/artist?id=178498"
+      }
+    ],
+    "album": {
+      "name": "Last Flight Home",
+      "link": "https://music.163.com/album?id=3033342"
+    }
+  },
+  {
+    "name": "Better Man (Acoustic)",
+    "link": "https://music.163.com/song?id=1361332544",
+    "duration": "03:13",
+    "artists": [
+      { "name": "Westlife", "link": "https://music.163.com/artist?id=45839" }
+    ],
+    "album": {
+      "name": "Better Man (Acoustic)",
+      "link": "https://music.163.com/album?id=78779047"
+    }
+  }
+]

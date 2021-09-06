@@ -1,0 +1,575 @@
+[
+  {
+    "name": "Never Let Go",
+    "link": "https://music.163.com/song?id=1834761366",
+    "duration": "03:15",
+    "artists": [
+      {
+        "name": "Plastik Funk",
+        "link": "https://music.163.com/artist?id=131444"
+      },
+      {
+        "name": "Sickrate",
+        "link": "https://music.163.com/artist?id=32795333"
+      },
+      { "name": "Rentz", "link": "https://music.163.com/artist?id=12628381" },
+      { "name": "Repiet", "link": "https://music.163.com/artist?id=34935798" }
+    ],
+    "album": {
+      "name": "Tribute To Asia EP",
+      "link": "https://music.163.com/album?id=125567393"
+    }
+  },
+  {
+    "name": "Ready to Go",
+    "link": "https://music.163.com/song?id=1860159852",
+    "duration": "02:20",
+    "artists": [
+      {
+        "name": "The Darkmaker",
+        "link": "https://music.163.com/artist?id=31492299"
+      }
+    ],
+    "album": {
+      "name": "Ready to Go",
+      "link": "https://music.163.com/album?id=130189108"
+    }
+  },
+  {
+    "name": "Another Life",
+    "link": "https://music.163.com/song?id=1389848613",
+    "duration": "03:16",
+    "artists": [
+      { "name": "Sabai", "link": "https://music.163.com/artist?id=32093901" }
+    ],
+    "album": {
+      "name": "Another Life",
+      "link": "https://music.163.com/album?id=81507575"
+    }
+  },
+  {
+    "name": "i just wanna ****ing cry",
+    "link": "https://music.163.com/song?id=1849196931",
+    "duration": "02:54",
+    "artists": [
+      { "name": "San Holo", "link": "https://music.163.com/artist?id=1017035" },
+      {
+        "name": "The Nicholas",
+        "link": "https://music.163.com/artist?id=13226156"
+      }
+    ],
+    "album": {
+      "name": "bb u ok?",
+      "link": "https://music.163.com/album?id=128204234"
+    }
+  },
+  {
+    "name": "Make You Cry",
+    "link": "https://music.163.com/song?id=1846051695",
+    "duration": "04:13",
+    "artists": [
+      { "name": "Au5", "link": "https://music.163.com/artist?id=359309" },
+      { "name": "RUNN", "link": "https://music.163.com/artist?id=15237536" }
+    ],
+    "album": {
+      "name": "Make You Cry",
+      "link": "https://music.163.com/album?id=127624936"
+    }
+  },
+  {
+    "name": "Escape",
+    "link": "https://music.163.com/song?id=1347684016",
+    "duration": "02:55",
+    "artists": [
+      {
+        "name": "Dante Klein",
+        "link": "https://music.163.com/artist?id=1040080"
+      },
+      {
+        "name": "Raven & Kreyn",
+        "link": "https://music.163.com/artist?id=12355744"
+      }
+    ],
+    "album": {
+      "name": "Escape",
+      "link": "https://music.163.com/album?id=75665322"
+    }
+  },
+  {
+    "name": "Crazy Times",
+    "link": "https://music.163.com/song?id=1860988929",
+    "duration": "03:50",
+    "artists": [
+      { "name": "ILLENIUM", "link": "https://music.163.com/artist?id=1050518" },
+      {
+        "name": "Said The Sky",
+        "link": "https://music.163.com/artist?id=1026094"
+      },
+      { "name": "Rock Mafia", "link": "https://music.163.com/artist?id=99738" }
+    ],
+    "album": {
+      "name": "Fallen Embers",
+      "link": "https://music.163.com/album?id=130311646"
+    }
+  },
+  {
+    "name": "Golden Shores",
+    "link": "https://music.163.com/song?id=1398601885",
+    "duration": "07:58",
+    "artists": [
+      {
+        "name": "Sunlight Project",
+        "link": "https://music.163.com/artist?id=858214"
+      }
+    ],
+    "album": {
+      "name": "Golden Shores / Scent of Summer",
+      "link": "https://music.163.com/album?id=82645121"
+    }
+  },
+  {
+    "name": "Strength Unknown",
+    "link": "https://music.163.com/song?id=1837196288",
+    "duration": "04:04",
+    "artists": [
+      { "name": "Stonebank", "link": "https://music.163.com/artist?id=938033" },
+      {
+        "name": "Nino Lucarelli",
+        "link": "https://music.163.com/artist?id=13954602"
+      }
+    ],
+    "album": {
+      "name": "Strength Unknown",
+      "link": "https://music.163.com/album?id=125966120"
+    }
+  },
+  {
+    "name": "Zone (feat. JVZEL) (Clean Mix)",
+    "link": "https://music.163.com/song?id=479219366",
+    "duration": "02:41",
+    "artists": [
+      { "name": "SAM F", "link": "https://music.163.com/artist?id=12074533" },
+      { "name": "JVZEL", "link": "https://music.163.com/artist?id=13042297" }
+    ],
+    "album": {
+      "name": "Zone (feat. JVZEL)",
+      "link": "https://music.163.com/album?id=35536092"
+    }
+  },
+  {
+    "name": "Still Mine",
+    "link": "https://music.163.com/song?id=1354608662",
+    "duration": "03:18",
+    "artists": [
+      {
+        "name": "Prince paris",
+        "link": "https://music.163.com/artist?id=574147"
+      },
+      {
+        "name": "Bright Lights",
+        "link": "https://music.163.com/artist?id=905065"
+      }
+    ],
+    "album": {
+      "name": "Still Mine",
+      "link": "https://music.163.com/album?id=78220807"
+    }
+  },
+  {
+    "name": "Promise",
+    "link": "https://music.163.com/song?id=1852107809",
+    "duration": "02:27",
+    "artists": [
+      { "name": "OVSKY", "link": "https://music.163.com/artist?id=36560569" }
+    ],
+    "album": {
+      "name": "Promise",
+      "link": "https://music.163.com/album?id=128756055"
+    }
+  },
+  {
+    "name": "Might Not Like Me (MOTi Remix)",
+    "link": "https://music.163.com/song?id=1309262182",
+    "duration": "03:11",
+    "artists": [
+      {
+        "name": "Brynn Elliott",
+        "link": "https://music.163.com/artist?id=14042161"
+      },
+      { "name": "MOTi", "link": "https://music.163.com/artist?id=366384" }
+    ],
+    "album": {
+      "name": "Might Not Like Me (MOTi Remix)",
+      "link": "https://music.163.com/album?id=73246477"
+    }
+  },
+  {
+    "name": "Piece Of My Mind",
+    "link": "https://music.163.com/song?id=1833939510",
+    "duration": "02:57",
+    "artists": [
+      { "name": "Stadiumx", "link": "https://music.163.com/artist?id=1004052" },
+      { "name": "Maone", "link": "https://music.163.com/artist?id=12647083" },
+      {
+        "name": "Lukas MAX",
+        "link": "https://music.163.com/artist?id=35156836"
+      }
+    ],
+    "album": {
+      "name": "Piece Of My Mind",
+      "link": "https://music.163.com/album?id=125418123"
+    }
+  },
+  {
+    "name": "You",
+    "link": "https://music.163.com/song?id=1809942568",
+    "duration": "03:37",
+    "artists": [
+      {
+        "name": "Wildhearts",
+        "link": "https://music.163.com/artist?id=132424"
+      },
+      { "name": "Auryn", "link": "https://music.163.com/artist?id=87424" },
+      {
+        "name": "James Dawson",
+        "link": "https://music.163.com/artist?id=13436801"
+      }
+    ],
+    "album": {
+      "name": "You",
+      "link": "https://music.163.com/album?id=121279668"
+    }
+  },
+  {
+    "name": "Summer",
+    "link": "https://music.163.com/song?id=464647338",
+    "duration": "02:31",
+    "artists": [
+      { "name": "MOST", "link": "https://music.163.com/artist?id=12325042" }
+    ],
+    "album": {
+      "name": "Summer",
+      "link": "https://music.163.com/album?id=35261075"
+    }
+  },
+  {
+    "name": "Salvation",
+    "link": "https://music.163.com/song?id=1851663243",
+    "duration": "04:09",
+    "artists": [
+      { "name": "Excision", "link": "https://music.163.com/artist?id=33221" },
+      {
+        "name": "Dion Timmer",
+        "link": "https://music.163.com/artist?id=11998053"
+      },
+      {
+        "name": "Alexis Donn",
+        "link": "https://music.163.com/artist?id=31397612"
+      }
+    ],
+    "album": {
+      "name": "Salvation",
+      "link": "https://music.163.com/album?id=128670430"
+    }
+  },
+  {
+    "name": "Darker Days",
+    "link": "https://music.163.com/song?id=1838533003",
+    "duration": "03:34",
+    "artists": [
+      {
+        "name": "GhostDragon",
+        "link": "https://music.163.com/artist?id=12202354"
+      },
+      { "name": "Kuo", "link": "https://music.163.com/artist?id=47503204" },
+      {
+        "name": "April Bender",
+        "link": "https://music.163.com/artist?id=13080174"
+      }
+    ],
+    "album": {
+      "name": "Darker Days",
+      "link": "https://music.163.com/album?id=126203107"
+    }
+  },
+  {
+    "name": "Too Far (feat. Cory Friesenhan)",
+    "link": "https://music.163.com/song?id=1314630523",
+    "duration": "02:53",
+    "artists": [
+      { "name": "Jasted", "link": "https://music.163.com/artist?id=12474826" },
+      { "name": "Foxa", "link": "https://music.163.com/artist?id=465662" },
+      {
+        "name": "Chester Young",
+        "link": "https://music.163.com/artist?id=13703846"
+      },
+      {
+        "name": "Cory Friesenhan",
+        "link": "https://music.163.com/artist?id=1178257"
+      }
+    ],
+    "album": {
+      "name": "Too Far (feat. Cory Friesenhan)",
+      "link": "https://music.163.com/album?id=73741366"
+    }
+  },
+  {
+    "name": "Hurt (feat. Zack Gray)",
+    "link": "https://music.163.com/song?id=1835265182",
+    "duration": "04:10",
+    "artists": [
+      { "name": "MitiS", "link": "https://music.163.com/artist?id=40245" },
+      {
+        "name": "Zack Gray",
+        "link": "https://music.163.com/artist?id=15206414"
+      }
+    ],
+    "album": {
+      "name": "Lost",
+      "link": "https://music.163.com/album?id=125636092"
+    }
+  },
+  {
+    "name": "Too Weird",
+    "link": "https://music.163.com/song?id=1830601708",
+    "duration": "03:03",
+    "artists": [
+      { "name": "Whales", "link": "https://music.163.com/artist?id=1084015" },
+      {
+        "name": "Kini Solana",
+        "link": "https://music.163.com/artist?id=13969868"
+      }
+    ],
+    "album": {
+      "name": "Too Weird",
+      "link": "https://music.163.com/album?id=124735833"
+    }
+  },
+  {
+    "name": "范进中举",
+    "link": "https://music.163.com/song?id=1858118347",
+    "duration": "03:45",
+    "artists": [
+      { "name": "卦者灵风", "link": "https://music.163.com/artist?id=12498266" }
+    ],
+    "album": {
+      "name": "范进中举",
+      "link": "https://music.163.com/album?id=129846902"
+    }
+  },
+  {
+    "name": "All I Want (Sons Of Maria Remix)",
+    "link": "https://music.163.com/song?id=511921023",
+    "duration": "02:58",
+    "artists": [
+      {
+        "name": "Sons Of Maria",
+        "link": "https://music.163.com/artist?id=210916"
+      },
+      { "name": "Alok", "link": "https://music.163.com/artist?id=1170012" },
+      { "name": "Stonefox", "link": "https://music.163.com/artist?id=912065" },
+      { "name": "Liu", "link": "https://music.163.com/artist?id=12046870" }
+    ],
+    "album": {
+      "name": "All I Want (Sons Of Maria Remix",
+      "link": "https://music.163.com/album?id=36451422"
+    }
+  },
+  {
+    "name": "All I Need (Momentum Remix)",
+    "link": "https://music.163.com/song?id=1304771748",
+    "duration": "03:11",
+    "artists": [
+      { "name": "Eedion", "link": "https://music.163.com/artist?id=12263527" },
+      { "name": "Momentum", "link": "https://music.163.com/artist?id=14498086" }
+    ],
+    "album": {
+      "name": "All I Need (Remix EP)",
+      "link": "https://music.163.com/album?id=72566572"
+    }
+  },
+  {
+    "name": "High On You (Uneek Boyz Remix)",
+    "link": "https://music.163.com/song?id=1391607305",
+    "duration": "02:24",
+    "artists": [
+      {
+        "name": "Suprafive",
+        "link": "https://music.163.com/artist?id=1022142"
+      },
+      { "name": "Abby", "link": "https://music.163.com/artist?id=235963" },
+      {
+        "name": "Uneek Boyz",
+        "link": "https://music.163.com/artist?id=28393393"
+      }
+    ],
+    "album": {
+      "name": "High On You (Remixes)",
+      "link": "https://music.163.com/album?id=81723078"
+    }
+  },
+  {
+    "name": "Coming Up",
+    "link": "https://music.163.com/song?id=511678789",
+    "duration": "02:55",
+    "artists": [
+      {
+        "name": "Victor Crone",
+        "link": "https://music.163.com/artist?id=1081705"
+      },
+      {
+        "name": "Tungevaag & Raaban",
+        "link": "https://music.163.com/artist?id=1090022"
+      }
+    ],
+    "album": {
+      "name": "Coming Up",
+      "link": "https://music.163.com/album?id=36320948"
+    }
+  },
+  {
+    "name": "Ceasefire",
+    "link": "https://music.163.com/song?id=484314490",
+    "duration": "03:18",
+    "artists": [
+      { "name": "BEAUZ", "link": "https://music.163.com/artist?id=12131436" },
+      {
+        "name": "Luke Anders",
+        "link": "https://music.163.com/artist?id=12154153"
+      },
+      {
+        "name": "Ducka Shan",
+        "link": "https://music.163.com/artist?id=12176308"
+      },
+      {
+        "name": "Becca Krueger",
+        "link": "https://music.163.com/artist?id=12948098"
+      },
+      { "name": "Eliason", "link": "https://music.163.com/artist?id=12370189" }
+    ],
+    "album": {
+      "name": "Ceasefire",
+      "link": "https://music.163.com/album?id=35622427"
+    }
+  },
+  {
+    "name": "Gotta Be You",
+    "link": "https://music.163.com/song?id=1810259984",
+    "duration": "02:29",
+    "artists": [
+      { "name": "NERVO", "link": "https://music.163.com/artist?id=97927" },
+      {
+        "name": "Carla Monroe",
+        "link": "https://music.163.com/artist?id=28771754"
+      }
+    ],
+    "album": {
+      "name": "Gotta Be You",
+      "link": "https://music.163.com/album?id=121336444"
+    }
+  },
+  {
+    "name": "Shout",
+    "link": "https://music.163.com/song?id=1846455733",
+    "duration": "02:51",
+    "artists": [
+      {
+        "name": "Julian Jordan",
+        "link": "https://music.163.com/artist?id=205395"
+      },
+      {
+        "name": "Teo Mandrelli",
+        "link": "https://music.163.com/artist?id=1186090"
+      },
+      {
+        "name": "Jordan Grace",
+        "link": "https://music.163.com/artist?id=33078903"
+      }
+    ],
+    "album": {
+      "name": "Shout",
+      "link": "https://music.163.com/album?id=127718486"
+    }
+  },
+  {
+    "name": "Fall Apart (feat. Brave)",
+    "link": "https://music.163.com/song?id=1442989936",
+    "duration": "03:45",
+    "artists": [
+      {
+        "name": "Papa Khan",
+        "link": "https://music.163.com/artist?id=13754578"
+      },
+      { "name": "Brave", "link": "https://music.163.com/artist?id=88374" }
+    ],
+    "album": {
+      "name": "Fall Apart (feat. Brave)",
+      "link": "https://music.163.com/album?id=88454786"
+    }
+  },
+  {
+    "name": "Up",
+    "link": "https://music.163.com/song?id=31311837",
+    "duration": "04:10",
+    "artists": [
+      { "name": "Itro", "link": "https://music.163.com/artist?id=1049096" }
+    ],
+    "album": { "name": "Up", "link": "https://music.163.com/album?id=3117203" }
+  },
+  {
+    "name": "Shining",
+    "link": "https://music.163.com/song?id=1382990726",
+    "duration": "02:37",
+    "artists": [
+      { "name": "ROY KNOX", "link": "https://music.163.com/artist?id=33149404" }
+    ],
+    "album": {
+      "name": "Shining",
+      "link": "https://music.163.com/album?id=80849803"
+    }
+  },
+  {
+    "name": "Hope It Hurts",
+    "link": "https://music.163.com/song?id=1428684697",
+    "duration": "04:17",
+    "artists": [
+      { "name": "Dabin", "link": "https://music.163.com/artist?id=783446" },
+      { "name": "Essenger", "link": "https://music.163.com/artist?id=31400823" }
+    ],
+    "album": {
+      "name": "Hope It Hurts",
+      "link": "https://music.163.com/album?id=86279741"
+    }
+  },
+  {
+    "name": "August (DJ DimixeR Remix)",
+    "link": "https://music.163.com/song?id=1449539187",
+    "duration": "02:38",
+    "artists": [
+      {
+        "name": "Intelligency",
+        "link": "https://music.163.com/artist?id=13714181"
+      },
+      {
+        "name": "DJ DimixeR",
+        "link": "https://music.163.com/artist?id=11976190"
+      }
+    ],
+    "album": {
+      "name": "August (DJ DimixeR Remix)",
+      "link": "https://music.163.com/album?id=89710812"
+    }
+  },
+  {
+    "name": "honey",
+    "link": "https://music.163.com/song?id=1873217728",
+    "duration": "02:53",
+    "artists": [
+      { "name": "Halsey", "link": "https://music.163.com/artist?id=964321" }
+    ],
+    "album": {
+      "name": "If I Can’t Have Love, I Want Power",
+      "link": "https://music.163.com/album?id=132384894"
+    }
+  }
+]

@@ -1,0 +1,465 @@
+[
+  {
+    "name": "Cling",
+    "link": "https://music.163.com/song?id=477992781",
+    "duration": "04:58",
+    "artists": [
+      { "name": "colate", "link": "https://music.163.com/artist?id=161867" }
+    ],
+    "album": {
+      "name": "Lilium X4",
+      "link": "https://music.163.com/album?id=35498221"
+    }
+  },
+  {
+    "name": "Defy",
+    "link": "https://music.163.com/song?id=1327809651",
+    "duration": "03:33",
+    "artists": [
+      {
+        "name": "HoneyComeBear",
+        "link": "https://music.163.com/artist?id=12675383"
+      }
+    ],
+    "album": {
+      "name": "Defy",
+      "link": "https://music.163.com/album?id=74544056"
+    }
+  },
+  {
+    "name": "We Came to Party",
+    "link": "https://music.163.com/song?id=1387110551",
+    "duration": "03:10",
+    "artists": [
+      { "name": "Basixx", "link": "https://music.163.com/artist?id=30319875" },
+      {
+        "name": "Ella Faye",
+        "link": "https://music.163.com/artist?id=31425767"
+      }
+    ],
+    "album": {
+      "name": "We Came to Party",
+      "link": "https://music.163.com/album?id=81208504"
+    }
+  },
+  {
+    "name": "Better With You",
+    "link": "https://music.163.com/song?id=1348939361",
+    "duration": "03:12",
+    "artists": [
+      { "name": "3LAU", "link": "https://music.163.com/artist?id=762511" },
+      {
+        "name": "Justin Caruso",
+        "link": "https://music.163.com/artist?id=1193462"
+      },
+      {
+        "name": "Iselin Solheim",
+        "link": "https://music.163.com/artist?id=1078390"
+      }
+    ],
+    "album": {
+      "name": "Better With You",
+      "link": "https://music.163.com/album?id=75727400"
+    }
+  },
+  {
+    "name": "Get It Together",
+    "link": "https://music.163.com/song?id=509573636",
+    "duration": "02:58",
+    "artists": [
+      {
+        "name": "Charlie Who?",
+        "link": "https://music.163.com/artist?id=12073500"
+      },
+      { "name": "Nomi", "link": "https://music.163.com/artist?id=69853" }
+    ],
+    "album": {
+      "name": "Get It Together",
+      "link": "https://music.163.com/album?id=36320332"
+    }
+  },
+  {
+    "name": "Not My Party",
+    "link": "https://music.163.com/song?id=1403374745",
+    "duration": "02:53",
+    "artists": [
+      {
+        "name": "Strandels",
+        "link": "https://music.163.com/artist?id=12171083"
+      }
+    ],
+    "album": {
+      "name": "Not My Party",
+      "link": "https://music.163.com/album?id=83316624"
+    }
+  },
+  {
+    "name": "PSYCHO",
+    "link": "https://music.163.com/song?id=1396930659",
+    "duration": "03:34",
+    "artists": [
+      { "name": "AViVA", "link": "https://music.163.com/artist?id=12074178" }
+    ],
+    "album": {
+      "name": "PSYCHO",
+      "link": "https://music.163.com/album?id=82407923"
+    }
+  },
+  {
+    "name": "Not Cool",
+    "link": "https://music.163.com/song?id=1308363066",
+    "duration": "03:11",
+    "artists": [
+      {
+        "name": "More Giraffes",
+        "link": "https://music.163.com/artist?id=13158044"
+      },
+      { "name": "Nevve", "link": "https://music.163.com/artist?id=12567101" }
+    ],
+    "album": {
+      "name": "Not Cool",
+      "link": "https://music.163.com/album?id=73171801"
+    }
+  },
+  {
+    "name": "Left Me Yet",
+    "link": "https://music.163.com/song?id=1373148324",
+    "duration": "03:11",
+    "artists": [
+      { "name": "Daya", "link": "https://music.163.com/artist?id=1081186" }
+    ],
+    "album": {
+      "name": "Left Me Yet",
+      "link": "https://music.163.com/album?id=79917060"
+    }
+  },
+  {
+    "name": "To Eternity",
+    "link": "https://music.163.com/song?id=1337983014",
+    "duration": "03:38",
+    "artists": [
+      {
+        "name": "Adib Sin",
+        "link": "https://music.163.com/artist?id=12244027"
+      },
+      { "name": "Cae", "link": "https://music.163.com/artist?id=513122" }
+    ],
+    "album": {
+      "name": "To Eternity",
+      "link": "https://music.163.com/album?id=75072955"
+    }
+  },
+  {
+    "name": "Devil You Don't",
+    "link": "https://music.163.com/song?id=1396101000",
+    "duration": "03:06",
+    "artists": [
+      { "name": "CXLOE", "link": "https://music.163.com/artist?id=12946512" }
+    ],
+    "album": {
+      "name": "Devil You Don't",
+      "link": "https://music.163.com/album?id=82282720"
+    }
+  },
+  {
+    "name": "Revenant (Original Mix)",
+    "link": "https://music.163.com/song?id=409060989",
+    "duration": "05:53",
+    "artists": [
+      { "name": "Dabin", "link": "https://music.163.com/artist?id=783446" },
+      { "name": "KOVEN.", "link": "https://music.163.com/artist?id=370675" }
+    ],
+    "album": {
+      "name": "Revenant",
+      "link": "https://music.163.com/album?id=34604215"
+    }
+  },
+  {
+    "name": "Talk (feat. Bright Sparks)",
+    "link": "https://music.163.com/song?id=1403015352",
+    "duration": "03:25",
+    "artists": [
+      { "name": "Trivecta", "link": "https://music.163.com/artist?id=954338" },
+      {
+        "name": "Bright Sparks",
+        "link": "https://music.163.com/artist?id=12278034"
+      }
+    ],
+    "album": {
+      "name": "Talk (feat. Bright Sparks)",
+      "link": "https://music.163.com/album?id=83253581"
+    }
+  },
+  {
+    "name": "Skyforth",
+    "link": "https://music.163.com/song?id=488641757",
+    "duration": "03:20",
+    "artists": [
+      { "name": "Ephixa", "link": "https://music.163.com/artist?id=205684" }
+    ],
+    "album": {
+      "name": "Rocket League x Monstercat Vol. 1",
+      "link": "https://music.163.com/album?id=35644274"
+    }
+  },
+  {
+    "name": "Stay True (feat. Helena)",
+    "link": "https://music.163.com/song?id=530057142",
+    "duration": "05:05",
+    "artists": [
+      {
+        "name": "Men I Trust",
+        "link": "https://music.163.com/artist?id=1132243"
+      },
+      { "name": "Helena", "link": "https://music.163.com/artist?id=1050707" }
+    ],
+    "album": {
+      "name": "Men I Trust",
+      "link": "https://music.163.com/album?id=37099773"
+    }
+  },
+  {
+    "name": "Time Travel Kool Aid",
+    "link": "https://music.163.com/song?id=1416671103",
+    "duration": "03:10",
+    "artists": [
+      {
+        "name": "Half an Orange",
+        "link": "https://music.163.com/artist?id=12492297"
+      },
+      { "name": "Ephixa", "link": "https://music.163.com/artist?id=205684" }
+    ],
+    "album": {
+      "name": "Time Travel Kool Aid",
+      "link": "https://music.163.com/album?id=84980221"
+    }
+  },
+  {
+    "name": "Awake (feat. Lauren Martinez)",
+    "link": "https://music.163.com/song?id=1388286227",
+    "duration": "04:03",
+    "artists": [
+      {
+        "name": "Last Heroes",
+        "link": "https://music.163.com/artist?id=11987034"
+      },
+      {
+        "name": "Lauren Martinez",
+        "link": "https://music.163.com/artist?id=30618594"
+      }
+    ],
+    "album": {
+      "name": "Moments EP",
+      "link": "https://music.163.com/album?id=81318000"
+    }
+  },
+  {
+    "name": "Always",
+    "link": "https://music.163.com/song?id=28591875",
+    "duration": "05:14",
+    "artists": [
+      { "name": "Brett", "link": "https://music.163.com/artist?id=967045" }
+    ],
+    "album": {
+      "name": "Brett",
+      "link": "https://music.163.com/album?id=2853161"
+    }
+  },
+  {
+    "name": "Baby I'm Yours",
+    "link": "https://music.163.com/song?id=26857440",
+    "duration": "03:35",
+    "artists": [
+      { "name": "Breakbot", "link": "https://music.163.com/artist?id=185762" }
+    ],
+    "album": {
+      "name": "Baby I'm Yours",
+      "link": "https://music.163.com/album?id=2562487"
+    }
+  },
+  {
+    "name": "Forever",
+    "link": "https://music.163.com/song?id=1433699092",
+    "duration": "04:23",
+    "artists": [
+      { "name": "Rameses B", "link": "https://music.163.com/artist?id=42898" },
+      { "name": "Zoe Moon", "link": "https://music.163.com/artist?id=29818094" }
+    ],
+    "album": {
+      "name": "Forever",
+      "link": "https://music.163.com/album?id=86804156"
+    }
+  },
+  {
+    "name": "Ubi",
+    "link": "https://music.163.com/song?id=1418514132",
+    "duration": "05:52",
+    "artists": [
+      { "name": "Glacier", "link": "https://music.163.com/artist?id=860352" }
+    ],
+    "album": {
+      "name": "Temple Inward",
+      "link": "https://music.163.com/album?id=85175335"
+    }
+  },
+  {
+    "name": "Find U Again",
+    "link": "https://music.163.com/song?id=1368546341",
+    "duration": "02:56",
+    "artists": [
+      {
+        "name": "Mark Ronson",
+        "link": "https://music.163.com/artist?id=38898"
+      },
+      {
+        "name": "Camila Cabello",
+        "link": "https://music.163.com/artist?id=12136039"
+      }
+    ],
+    "album": {
+      "name": "Late Night Feelings",
+      "link": "https://music.163.com/album?id=79885473"
+    }
+  },
+  {
+    "name": "Your Love (Radio Edit)",
+    "link": "https://music.163.com/song?id=514943737",
+    "duration": "03:10",
+    "artists": [
+      { "name": "Kate Linn", "link": "https://music.163.com/artist?id=1015070" }
+    ],
+    "album": {
+      "name": "Your Love",
+      "link": "https://music.163.com/album?id=36670555"
+    }
+  },
+  {
+    "name": "Don't Start Now",
+    "link": "https://music.163.com/song?id=1464639665",
+    "duration": "03:03",
+    "artists": [
+      { "name": "Dua Lipa", "link": "https://music.163.com/artist?id=1135086" }
+    ],
+    "album": {
+      "name": "Summer Songs",
+      "link": "https://music.163.com/album?id=92791449"
+    }
+  },
+  {
+    "name": "Cold",
+    "link": "https://music.163.com/song?id=1353212443",
+    "duration": "03:06",
+    "artists": [
+      { "name": "NEFFEX", "link": "https://music.163.com/artist?id=12023273" }
+    ],
+    "album": {
+      "name": "Cold",
+      "link": "https://music.163.com/album?id=77424369"
+    }
+  },
+  {
+    "name": "Daylight (Live From Paris)",
+    "link": "https://music.163.com/song?id=1449130127",
+    "duration": "04:22",
+    "artists": [
+      {
+        "name": "Taylor Swift",
+        "link": "https://music.163.com/artist?id=44266"
+      }
+    ],
+    "album": {
+      "name": "Daylight (Live From Paris)",
+      "link": "https://music.163.com/album?id=89624186"
+    }
+  },
+  {
+    "name": "La La Love",
+    "link": "https://music.163.com/song?id=28652444",
+    "duration": "03:04",
+    "artists": [
+      { "name": "Ivi Adamou", "link": "https://music.163.com/artist?id=60895" }
+    ],
+    "album": {
+      "name": "Ponane Oi Agapes",
+      "link": "https://music.163.com/album?id=2868887"
+    }
+  },
+  {
+    "name": "Eclipse",
+    "link": "https://music.163.com/song?id=553815184",
+    "duration": "04:31",
+    "artists": [
+      { "name": "Burgess", "link": "https://music.163.com/artist?id=477655" },
+      { "name": "JESSIA", "link": "https://music.163.com/artist?id=15142184" }
+    ],
+    "album": {
+      "name": "Eclipse",
+      "link": "https://music.163.com/album?id=38403050"
+    }
+  },
+  {
+    "name": "Bonfire",
+    "link": "https://music.163.com/song?id=1382830600",
+    "duration": "02:46",
+    "artists": [
+      {
+        "name": "Peder Elias",
+        "link": "https://music.163.com/artist?id=13979517"
+      }
+    ],
+    "album": {
+      "name": "Bonfire",
+      "link": "https://music.163.com/album?id=80832990"
+    }
+  },
+  {
+    "name": "always, i'll care",
+    "link": "https://music.163.com/song?id=1421441023",
+    "duration": "02:26",
+    "artists": [
+      {
+        "name": "Jeremy Zucker",
+        "link": "https://music.163.com/artist?id=12096183"
+      }
+    ],
+    "album": {
+      "name": "always, i’ll care",
+      "link": "https://music.163.com/album?id=85538823"
+    }
+  },
+  {
+    "name": "it's not u it's me",
+    "link": "https://music.163.com/song?id=1349204793",
+    "duration": "03:14",
+    "artists": [
+      {
+        "name": "Bea Miller",
+        "link": "https://music.163.com/artist?id=908180"
+      },
+      { "name": "6LACK", "link": "https://music.163.com/artist?id=12122239" }
+    ],
+    "album": {
+      "name": "it's not u it's me",
+      "link": "https://music.163.com/album?id=75738087"
+    }
+  },
+  {
+    "name": "Señorita",
+    "link": "https://music.163.com/song?id=1373168742",
+    "duration": "03:11",
+    "artists": [
+      {
+        "name": "Shawn Mendes",
+        "link": "https://music.163.com/artist?id=956238"
+      },
+      {
+        "name": "Camila Cabello",
+        "link": "https://music.163.com/artist?id=12136039"
+      }
+    ],
+    "album": {
+      "name": "Señorita",
+      "link": "https://music.163.com/album?id=79920102"
+    }
+  }
+]

@@ -1,0 +1,495 @@
+[
+  {
+    "name": "All of You",
+    "link": "https://music.163.com/song?id=1324035458",
+    "duration": "03:25",
+    "artists": [
+      {
+        "name": "Prince paris",
+        "link": "https://music.163.com/artist?id=574147"
+      },
+      {
+        "name": "Beau Collins",
+        "link": "https://music.163.com/artist?id=12192231"
+      }
+    ],
+    "album": {
+      "name": "All of You",
+      "link": "https://music.163.com/album?id=74323065"
+    }
+  },
+  {
+    "name": "Close Enough",
+    "link": "https://music.163.com/song?id=1364147128",
+    "duration": "03:00",
+    "artists": [
+      { "name": "Jai Nova", "link": "https://music.163.com/artist?id=1083105" },
+      { "name": "Luma", "link": "https://music.163.com/artist?id=211460" }
+    ],
+    "album": {
+      "name": "Close Enough",
+      "link": "https://music.163.com/album?id=79014751"
+    }
+  },
+  {
+    "name": "Constellation",
+    "link": "https://music.163.com/song?id=1429604070",
+    "duration": "02:52",
+    "artists": [
+      { "name": "Far Out", "link": "https://music.163.com/artist?id=824107" },
+      { "name": "Karra", "link": "https://music.163.com/artist?id=1081582" }
+    ],
+    "album": {
+      "name": "Constellation",
+      "link": "https://music.163.com/album?id=86368314"
+    }
+  },
+  {
+    "name": "Heartless",
+    "link": "https://music.163.com/song?id=1309715770",
+    "duration": "02:44",
+    "artists": [
+      {
+        "name": "Nick Peters",
+        "link": "https://music.163.com/artist?id=12006124"
+      },
+      {
+        "name": "Bianca & Rook",
+        "link": "https://music.163.com/artist?id=30008017"
+      }
+    ],
+    "album": {
+      "name": "Heartless",
+      "link": "https://music.163.com/album?id=73306181"
+    }
+  },
+  {
+    "name": "Strangers",
+    "link": "https://music.163.com/song?id=27630190",
+    "duration": "03:24",
+    "artists": [
+      {
+        "name": "Seven Lions",
+        "link": "https://music.163.com/artist?id=44204"
+      },
+      { "name": "Myon", "link": "https://music.163.com/artist?id=96759" },
+      { "name": "Shane 54", "link": "https://music.163.com/artist?id=158539" },
+      { "name": "Tove Lo", "link": "https://music.163.com/artist?id=768065" }
+    ],
+    "album": {
+      "name": "Strangers",
+      "link": "https://music.163.com/album?id=2646149"
+    }
+  },
+  {
+    "name": "Whatever It Takes",
+    "link": "https://music.163.com/song?id=477320018",
+    "duration": "03:21",
+    "artists": [
+      {
+        "name": "Imagine Dragons",
+        "link": "https://music.163.com/artist?id=94779"
+      }
+    ],
+    "album": {
+      "name": "Evolve",
+      "link": "https://music.163.com/album?id=35645352"
+    }
+  },
+  {
+    "name": "Limitless (feat. Sophie Rose)",
+    "link": "https://music.163.com/song?id=504399003",
+    "duration": "03:30",
+    "artists": [
+      { "name": "SAM F", "link": "https://music.163.com/artist?id=12074533" },
+      { "name": "Sophie Rose", "link": "https://music.163.com/artist?id=78099" }
+    ],
+    "album": {
+      "name": "Limitless (feat. Sophie Rose) (Remixes)",
+      "link": "https://music.163.com/album?id=36108321"
+    }
+  },
+  {
+    "name": "Our Sunset",
+    "link": "https://music.163.com/song?id=539227972",
+    "duration": "03:06",
+    "artists": [
+      { "name": "Nyte", "link": "https://music.163.com/artist?id=1034003" }
+    ],
+    "album": {
+      "name": "Awaken",
+      "link": "https://music.163.com/album?id=37590662"
+    }
+  },
+  {
+    "name": "Oceans & Galaxies",
+    "link": "https://music.163.com/song?id=1834198476",
+    "duration": "03:20",
+    "artists": [
+      { "name": "Jauz", "link": "https://music.163.com/artist?id=975344" },
+      { "name": "HALIENE", "link": "https://music.163.com/artist?id=13202710" }
+    ],
+    "album": {
+      "name": "Oceans & Galaxies",
+      "link": "https://music.163.com/album?id=125471009"
+    }
+  },
+  {
+    "name": "The Network",
+    "link": "https://music.163.com/song?id=1374602770",
+    "duration": "03:12",
+    "artists": [
+      {
+        "name": "FUTURECODE",
+        "link": "https://music.163.com/artist?id=31577450"
+      }
+    ],
+    "album": {
+      "name": "The Network",
+      "link": "https://music.163.com/album?id=80064840"
+    }
+  },
+  {
+    "name": "Drive",
+    "link": "https://music.163.com/song?id=33728453",
+    "duration": "03:16",
+    "artists": [
+      { "name": "Oh Wonder", "link": "https://music.163.com/artist?id=1050128" }
+    ],
+    "album": {
+      "name": "Drive",
+      "link": "https://music.163.com/album?id=3257063"
+    }
+  },
+  {
+    "name": "Bipolar",
+    "link": "https://music.163.com/song?id=1356237274",
+    "duration": "02:52",
+    "artists": [
+      { "name": "BEAUZ", "link": "https://music.163.com/artist?id=12131436" },
+      {
+        "name": "ThatBehavior",
+        "link": "https://music.163.com/artist?id=12917127"
+      },
+      {
+        "name": "Luna Vexa",
+        "link": "https://music.163.com/artist?id=33169792"
+      }
+    ],
+    "album": {
+      "name": "Bipolar",
+      "link": "https://music.163.com/album?id=78301113"
+    }
+  },
+  {
+    "name": "Way Back Home",
+    "link": "https://music.163.com/song?id=1395758957",
+    "duration": "03:15",
+    "artists": [
+      {
+        "name": "Blackcode",
+        "link": "https://music.163.com/artist?id=30013002"
+      },
+      { "name": "9Lives", "link": "https://music.163.com/artist?id=353551" },
+      { "name": "Heleen", "link": "https://music.163.com/artist?id=28866940" }
+    ],
+    "album": {
+      "name": "Way Back Home",
+      "link": "https://music.163.com/album?id=82232337"
+    }
+  },
+  {
+    "name": "Doubts",
+    "link": "https://music.163.com/song?id=1374466658",
+    "duration": "03:20",
+    "artists": [
+      { "name": "Mac Hunt", "link": "https://music.163.com/artist?id=32624659" }
+    ],
+    "album": {
+      "name": "Doubts",
+      "link": "https://music.163.com/album?id=80046966"
+    }
+  },
+  {
+    "name": "I Wanna Know (Syn Cole Remix)",
+    "link": "https://music.163.com/song?id=555974147",
+    "duration": "02:59",
+    "artists": [
+      { "name": "NOTD", "link": "https://music.163.com/artist?id=12262306" },
+      {
+        "name": "Bea Miller",
+        "link": "https://music.163.com/artist?id=908180"
+      },
+      { "name": "Syn Cole", "link": "https://music.163.com/artist?id=854432" }
+    ],
+    "album": {
+      "name": "I Wanna Know (Remixes)",
+      "link": "https://music.163.com/album?id=38513028"
+    }
+  },
+  {
+    "name": "All The Feels",
+    "link": "https://music.163.com/song?id=557505144",
+    "duration": "03:03",
+    "artists": [
+      {
+        "name": "Fly by Midnight",
+        "link": "https://music.163.com/artist?id=1163027"
+      }
+    ],
+    "album": {
+      "name": "All The Feels",
+      "link": "https://music.163.com/album?id=38583208"
+    }
+  },
+  {
+    "name": "Our Symphony",
+    "link": "https://music.163.com/song?id=1443011948",
+    "duration": "03:15",
+    "artists": [
+      { "name": "Manse", "link": "https://music.163.com/artist?id=855409" },
+      {
+        "name": "WildVibes",
+        "link": "https://music.163.com/artist?id=1181751"
+      },
+      { "name": "Vories", "link": "https://music.163.com/artist?id=31063065" }
+    ],
+    "album": {
+      "name": "Our Symphony",
+      "link": "https://music.163.com/album?id=88461186"
+    }
+  },
+  {
+    "name": "Armageddon",
+    "link": "https://music.163.com/song?id=423407189",
+    "duration": "03:30",
+    "artists": [
+      { "name": "Joey Dale", "link": "https://music.163.com/artist?id=908121" },
+      { "name": "Ryos", "link": "https://music.163.com/artist?id=1053137" },
+      {
+        "name": "Tony Rodini",
+        "link": "https://music.163.com/artist?id=14252103"
+      }
+    ],
+    "album": {
+      "name": "Armageddon",
+      "link": "https://music.163.com/album?id=34799057"
+    }
+  },
+  {
+    "name": "Live Forever",
+    "link": "https://music.163.com/song?id=444548972",
+    "duration": "04:01",
+    "artists": [
+      {
+        "name": "Third Party",
+        "link": "https://music.163.com/artist?id=784231"
+      }
+    ],
+    "album": {
+      "name": "Live Forever",
+      "link": "https://music.163.com/album?id=35023707"
+    }
+  },
+  {
+    "name": "Re-arrange",
+    "link": "https://music.163.com/song?id=420134926",
+    "duration": "03:38",
+    "artists": [
+      { "name": "Biffy Clyro", "link": "https://music.163.com/artist?id=88194" }
+    ],
+    "album": {
+      "name": "Ellipsis (Deluxe)",
+      "link": "https://music.163.com/album?id=34565233"
+    }
+  },
+  {
+    "name": "First Place",
+    "link": "https://music.163.com/song?id=1826077258",
+    "duration": "02:33",
+    "artists": [
+      { "name": "Bülow", "link": "https://music.163.com/artist?id=12809019" }
+    ],
+    "album": {
+      "name": "First Place",
+      "link": "https://music.163.com/album?id=124109783"
+    }
+  },
+  {
+    "name": "情字最大（Dance House Mix）",
+    "link": "https://music.163.com/song?id=1845824636",
+    "duration": "03:09",
+    "artists": [
+      {
+        "name": "ChinaX-DJXH",
+        "link": "https://music.163.com/artist?id=46672960"
+      }
+    ],
+    "album": {
+      "name": "抖音热歌",
+      "link": "https://music.163.com/album?id=127570384"
+    }
+  },
+  {
+    "name": "Avicii-Give Up On The Ghost（Atfort Remix）",
+    "link": "https://music.163.com/song?id=1391914665",
+    "duration": "02:08",
+    "artists": [
+      { "name": "Atfort", "link": "https://music.163.com/artist?id=32719664" }
+    ],
+    "album": {
+      "name": "AVĪCI (02) [UMF2016]",
+      "link": "https://music.163.com/album?id=81665556"
+    }
+  },
+  {
+    "name": "Mermaid",
+    "link": "https://music.163.com/song?id=491604012",
+    "duration": "03:31",
+    "artists": [
+      { "name": "SKOTT", "link": "https://music.163.com/artist?id=12061139" }
+    ],
+    "album": {
+      "name": "Mermaid",
+      "link": "https://music.163.com/album?id=35789011"
+    }
+  },
+  {
+    "name": "5 Seconds of Summer-Youngblood（Dorie Remix）",
+    "link": "https://music.163.com/song?id=1359180682",
+    "duration": "02:51",
+    "artists": [
+      { "name": "Dorie", "link": "https://music.163.com/artist?id=30956100" }
+    ],
+    "album": {
+      "name": "5 Seconds of Summer-Youngblood(Dorothy Remix)",
+      "link": "https://music.163.com/album?id=78540642"
+    }
+  },
+  {
+    "name": "Better World",
+    "link": "https://music.163.com/song?id=1822376464",
+    "duration": "03:19",
+    "artists": [
+      { "name": "Sophie Rose", "link": "https://music.163.com/artist?id=78099" }
+    ],
+    "album": {
+      "name": "Better World",
+      "link": "https://music.163.com/album?id=123414663"
+    }
+  },
+  {
+    "name": "Clarence Coffee JR.-Unbreakable (Avicii Tribute)（CalCyte remix）",
+    "link": "https://music.163.com/song?id=1468313383",
+    "duration": "04:30",
+    "artists": [
+      { "name": "CalCyte", "link": "https://music.163.com/artist?id=35305019" }
+    ],
+    "album": {
+      "name": "Unbreakable (Avicii Remix Tribute)",
+      "link": "https://music.163.com/album?id=92837529"
+    }
+  },
+  {
+    "name": "Trust Issues",
+    "link": "https://music.163.com/song?id=1492231731",
+    "duration": "03:26",
+    "artists": [
+      {
+        "name": "Liv Dawson",
+        "link": "https://music.163.com/artist?id=12046546"
+      }
+    ],
+    "album": {
+      "name": "Trust Issues",
+      "link": "https://music.163.com/album?id=97751869"
+    }
+  },
+  {
+    "name": "Fluctuate",
+    "link": "https://music.163.com/song?id=425053025",
+    "duration": "05:11",
+    "artists": [
+      { "name": "Elecprok", "link": "https://music.163.com/artist?id=1203041" }
+    ],
+    "album": {
+      "name": "Fluctuate",
+      "link": "https://music.163.com/album?id=34812470"
+    }
+  },
+  {
+    "name": "Avicii-Unbreakable（Wudier remix）",
+    "link": "https://music.163.com/song?id=1460554156",
+    "duration": "04:15",
+    "artists": [
+      { "name": "Wudier", "link": "https://music.163.com/artist?id=32827854" }
+    ],
+    "album": {
+      "name": "Unbreakable (Wudier Bootleg)",
+      "link": "https://music.163.com/album?id=91943091"
+    }
+  },
+  {
+    "name": "First Love (LuxLyfe Remix)",
+    "link": "https://music.163.com/song?id=526472123",
+    "duration": "03:19",
+    "artists": [
+      { "name": "LuxLyfe", "link": "https://music.163.com/artist?id=12534707" },
+      {
+        "name": "Lost Kings",
+        "link": "https://music.163.com/artist?id=847225"
+      },
+      {
+        "name": "Sabrina Carpenter",
+        "link": "https://music.163.com/artist?id=77993"
+      }
+    ],
+    "album": {
+      "name": "First Love (LuxLyfe Remix)",
+      "link": "https://music.163.com/album?id=37086038"
+    }
+  },
+  {
+    "name": "Monday Night",
+    "link": "https://music.163.com/song?id=29748073",
+    "duration": "06:37",
+    "artists": [
+      {
+        "name": "Gregory Esayan",
+        "link": "https://music.163.com/artist?id=193198"
+      },
+      { "name": "武川アイ", "link": "https://music.163.com/artist?id=17979" }
+    ],
+    "album": {
+      "name": "Impressionism",
+      "link": "https://music.163.com/album?id=3056668"
+    }
+  },
+  {
+    "name": "Atlantis (Original Mix)",
+    "link": "https://music.163.com/song?id=405377702",
+    "duration": "05:23",
+    "artists": [
+      {
+        "name": "Adriano Fuerte",
+        "link": "https://music.163.com/artist?id=12006216"
+      }
+    ],
+    "album": {
+      "name": "Atlantis",
+      "link": "https://music.163.com/album?id=34527399"
+    }
+  },
+  {
+    "name": "NUMB",
+    "link": "https://music.163.com/song?id=545350938",
+    "duration": "03:06",
+    "artists": [
+      {
+        "name": "XXXTENTACION",
+        "link": "https://music.163.com/artist?id=12107961"
+      }
+    ],
+    "album": { "name": "?", "link": "https://music.163.com/album?id=37873747" }
+  }
+]

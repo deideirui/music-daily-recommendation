@@ -1,0 +1,434 @@
+[
+  {
+    "name": "There For You",
+    "link": "https://music.163.com/song?id=480426313",
+    "duration": "03:41",
+    "artists": [
+      {
+        "name": "Martin Garrix",
+        "link": "https://music.163.com/artist?id=780003"
+      },
+      { "name": "Troye Sivan", "link": "https://music.163.com/artist?id=45129" }
+    ],
+    "album": {
+      "name": "There For You",
+      "link": "https://music.163.com/album?id=35554106"
+    }
+  },
+  {
+    "name": "Dusk Till Dawn",
+    "link": "https://music.163.com/song?id=504265014",
+    "duration": "04:27",
+    "artists": [
+      { "name": "ZAYN", "link": "https://music.163.com/artist?id=1108049" },
+      { "name": "Sia", "link": "https://music.163.com/artist?id=74625" }
+    ],
+    "album": {
+      "name": "Dusk Till Dawn",
+      "link": "https://music.163.com/album?id=36150011"
+    }
+  },
+  {
+    "name": "Crysta",
+    "link": "https://music.163.com/song?id=1397105526",
+    "duration": "04:01",
+    "artists": [
+      { "name": "Wisp X", "link": "https://music.163.com/artist?id=1046123" }
+    ],
+    "album": {
+      "name": "Loner",
+      "link": "https://music.163.com/album?id=82434757"
+    }
+  },
+  {
+    "name": "Sky (Radio Edit)",
+    "link": "https://music.163.com/song?id=29553031",
+    "duration": "03:56",
+    "artists": [
+      { "name": "Steerner", "link": "https://music.163.com/artist?id=783190" },
+      { "name": "Martell", "link": "https://music.163.com/artist?id=12023568" }
+    ],
+    "album": { "name": "Sky", "link": "https://music.163.com/album?id=3044006" }
+  },
+  {
+    "name": "Upwind",
+    "link": "https://music.163.com/song?id=1857907466",
+    "duration": "03:12",
+    "artists": [
+      { "name": "TheFatRat", "link": "https://music.163.com/artist?id=1019952" }
+    ],
+    "album": {
+      "name": "Upwind",
+      "link": "https://music.163.com/album?id=129810799"
+    }
+  },
+  {
+    "name": "Oblivion",
+    "link": "https://music.163.com/song?id=515540639",
+    "duration": "03:31",
+    "artists": [
+      {
+        "name": "TheFatRat",
+        "link": "https://music.163.com/artist?id=1019952"
+      },
+      {
+        "name": "Lola Blanc",
+        "link": "https://music.163.com/artist?id=12062270"
+      }
+    ],
+    "album": {
+      "name": "Oblivion",
+      "link": "https://music.163.com/album?id=36683066"
+    }
+  },
+  {
+    "name": "Pray (Blanke Remix)",
+    "link": "https://music.163.com/song?id=1448419927",
+    "duration": "03:48",
+    "artists": [
+      { "name": "ILLENIUM", "link": "https://music.163.com/artist?id=1050518" },
+      {
+        "name": "Kameron Alexander",
+        "link": "https://music.163.com/artist?id=31724757"
+      },
+      { "name": "Blanke", "link": "https://music.163.com/artist?id=13369420" }
+    ],
+    "album": {
+      "name": "ASCEND (Remixes)",
+      "link": "https://music.163.com/album?id=89513700"
+    }
+  },
+  {
+    "name": "Only Love (Acoustic)",
+    "link": "https://music.163.com/song?id=28475345",
+    "duration": "04:59",
+    "artists": [
+      { "name": "PVRIS", "link": "https://music.163.com/artist?id=960005" }
+    ],
+    "album": {
+      "name": "Acoustic",
+      "link": "https://music.163.com/album?id=2807560"
+    }
+  },
+  {
+    "name": "Standing By... (Original Mix)",
+    "link": "https://music.163.com/song?id=34040786",
+    "duration": "04:00",
+    "artists": [
+      { "name": "Dripice", "link": "https://music.163.com/artist?id=1050671" }
+    ],
+    "album": {
+      "name": "Standing By... ",
+      "link": "https://music.163.com/album?id=3270714"
+    }
+  },
+  {
+    "name": "Infinity",
+    "link": "https://music.163.com/song?id=30621620",
+    "duration": "03:42",
+    "artists": [
+      { "name": "Ahxello", "link": "https://music.163.com/artist?id=1046348" }
+    ],
+    "album": {
+      "name": "Infinity",
+      "link": "https://music.163.com/album?id=3104051"
+    }
+  },
+  {
+    "name": "My Sunset (Original Mix)",
+    "link": "https://music.163.com/song?id=17867241",
+    "duration": "05:26",
+    "artists": [
+      { "name": "Feint", "link": "https://music.163.com/artist?id=93062" }
+    ],
+    "album": {
+      "name": "Feint EP2",
+      "link": "https://music.163.com/album?id=1644798"
+    }
+  },
+  {
+    "name": "Our Story",
+    "link": "https://music.163.com/song?id=39436798",
+    "duration": "03:35",
+    "artists": [
+      { "name": "Pilton", "link": "https://music.163.com/artist?id=1050299" },
+      { "name": "Ennex", "link": "https://music.163.com/artist?id=1089100" }
+    ],
+    "album": {
+      "name": "Our Story",
+      "link": "https://music.163.com/album?id=3436141"
+    }
+  },
+  {
+    "name": "End Of The Night",
+    "link": "https://music.163.com/song?id=1324159296",
+    "duration": "03:25",
+    "artists": [
+      {
+        "name": "Danny Avila",
+        "link": "https://music.163.com/artist?id=471420"
+      }
+    ],
+    "album": {
+      "name": "End Of The Night",
+      "link": "https://music.163.com/album?id=74327710"
+    }
+  },
+  {
+    "name": "Telescope",
+    "link": "https://music.163.com/song?id=522444650",
+    "duration": "02:55",
+    "artists": [
+      {
+        "name": "Tim Legend",
+        "link": "https://music.163.com/artist?id=12006158"
+      },
+      {
+        "name": "Transviolet",
+        "link": "https://music.163.com/artist?id=1122080"
+      }
+    ],
+    "album": {
+      "name": "Telescope",
+      "link": "https://music.163.com/album?id=36901220"
+    }
+  },
+  {
+    "name": "青石巷",
+    "link": "https://music.163.com/song?id=422429425",
+    "duration": "03:47",
+    "artists": [
+      { "name": "魏琮霏", "link": "https://music.163.com/artist?id=12083030" }
+    ],
+    "album": {
+      "name": "Wei",
+      "link": "https://music.163.com/album?id=34794220"
+    }
+  },
+  {
+    "name": "山海皆可平",
+    "link": "https://music.163.com/song?id=1377053293",
+    "duration": "02:16",
+    "artists": [
+      { "name": "CMJ", "link": "https://music.163.com/artist?id=12157336" }
+    ],
+    "album": {
+      "name": "山海皆可平",
+      "link": "https://music.163.com/album?id=80258345"
+    }
+  },
+  {
+    "name": "思絮（Thought flocculation）",
+    "link": "https://music.163.com/song?id=1306093088",
+    "duration": "03:48",
+    "artists": [
+      { "name": "Mr Chip", "link": "https://music.163.com/artist?id=12563879" }
+    ],
+    "album": {
+      "name": "思絮（Throught Flocculation）",
+      "link": "https://music.163.com/album?id=72755025"
+    }
+  },
+  {
+    "name": "Renaissance",
+    "link": "https://music.163.com/song?id=39324743",
+    "duration": "02:57",
+    "artists": [
+      {
+        "name": "Steve James",
+        "link": "https://music.163.com/artist?id=43322"
+      },
+      { "name": "Clairity", "link": "https://music.163.com/artist?id=1060082" }
+    ],
+    "album": {
+      "name": "Renaissance",
+      "link": "https://music.163.com/album?id=3426877"
+    }
+  },
+  {
+    "name": "i thought we were lovers w/ basil",
+    "link": "https://music.163.com/song?id=414979233",
+    "duration": "02:37",
+    "artists": [
+      {
+        "name": "In Love With A Ghost",
+        "link": "https://music.163.com/artist?id=11991120"
+      }
+    ],
+    "album": {
+      "name": "discography（2016）",
+      "link": "https://music.163.com/album?id=34721088"
+    }
+  },
+  {
+    "name": "Clean Laundry",
+    "link": "https://music.163.com/song?id=1832792409",
+    "duration": "03:09",
+    "artists": [
+      {
+        "name": "Transviolet",
+        "link": "https://music.163.com/artist?id=1122080"
+      },
+      { "name": "Dreamers", "link": "https://music.163.com/artist?id=386493" }
+    ],
+    "album": {
+      "name": "Clean Laundry",
+      "link": "https://music.163.com/album?id=125219988"
+    }
+  },
+  {
+    "name": "I Like Me Better",
+    "link": "https://music.163.com/song?id=479223413",
+    "duration": "03:17",
+    "artists": [
+      { "name": "Lauv", "link": "https://music.163.com/artist?id=1057226" }
+    ],
+    "album": {
+      "name": "I Like Me Better",
+      "link": "https://music.163.com/album?id=35536102"
+    }
+  },
+  {
+    "name": "Dont Worry Baby ",
+    "link": "https://music.163.com/song?id=1297493195",
+    "duration": "02:53",
+    "artists": [
+      { "name": "cuco", "link": "https://music.163.com/artist?id=353969" }
+    ],
+    "album": {
+      "name": " Dont Worry Baby",
+      "link": "https://music.163.com/album?id=72054655"
+    }
+  },
+  {
+    "name": "It Hurts the Heart",
+    "link": "https://music.163.com/song?id=28234342",
+    "duration": "04:59",
+    "artists": [
+      { "name": "Tim Walker", "link": "https://music.163.com/artist?id=893068" }
+    ],
+    "album": {
+      "name": "You/Me",
+      "link": "https://music.163.com/album?id=2759041"
+    }
+  },
+  {
+    "name": "Lost at Sea",
+    "link": "https://music.163.com/song?id=28612195",
+    "duration": "05:11",
+    "artists": [
+      {
+        "name": "Dave Thomas Junior",
+        "link": "https://music.163.com/artist?id=32233"
+      }
+    ],
+    "album": {
+      "name": "The Lucky Ones",
+      "link": "https://music.163.com/album?id=2848333"
+    }
+  },
+  {
+    "name": "On Our Own",
+    "link": "https://music.163.com/song?id=504265178",
+    "duration": "03:09",
+    "artists": [
+      {
+        "name": "Bruno Major",
+        "link": "https://music.163.com/artist?id=12250109"
+      }
+    ],
+    "album": {
+      "name": "On Our Own",
+      "link": "https://music.163.com/album?id=36149049"
+    }
+  },
+  {
+    "name": "EXEC_COSMOFLIPS/.",
+    "link": "https://music.163.com/song?id=4940455",
+    "duration": "03:36",
+    "artists": [
+      { "name": "KOKIA", "link": "https://music.163.com/artist?id=16686" }
+    ],
+    "album": {
+      "name": "咲夜琉命 ~Ar tonelicoIII hymmnos concert side. 苍~",
+      "link": "https://music.163.com/album?id=493991"
+    }
+  },
+  {
+    "name": "Show Me How",
+    "link": "https://music.163.com/song?id=1305366120",
+    "duration": "03:35",
+    "artists": [
+      {
+        "name": "Men I Trust",
+        "link": "https://music.163.com/artist?id=1132243"
+      }
+    ],
+    "album": {
+      "name": "Show Me How",
+      "link": "https://music.163.com/album?id=72707651"
+    }
+  },
+  {
+    "name": "Shym (Beknur Remix) - (SHYM（贝努尔混音）-希扎)",
+    "link": "https://music.163.com/song?id=1840260019",
+    "duration": "03:09",
+    "artists": [
+      { "name": "Shiza", "link": "https://music.163.com/artist?id=648933" }
+    ],
+    "album": {
+      "name": "Shym (Beknur Remix)",
+      "link": "https://music.163.com/album?id=126541378"
+    }
+  },
+  {
+    "name": "たぶん - (大概)",
+    "link": "https://music.163.com/song?id=1459343252",
+    "duration": "04:18",
+    "artists": [
+      { "name": "YOASOBI", "link": "https://music.163.com/artist?id=33927412" }
+    ],
+    "album": {
+      "name": "たぶん",
+      "link": "https://music.163.com/album?id=91768071"
+    }
+  },
+  {
+    "name": "Salty Seas",
+    "link": "https://music.163.com/song?id=17413778",
+    "duration": "04:13",
+    "artists": [
+      { "name": "Devics", "link": "https://music.163.com/artist?id=90512" }
+    ],
+    "album": {
+      "name": "Push the Heart",
+      "link": "https://music.163.com/album?id=1605419"
+    }
+  },
+  {
+    "name": "Frontier (Cargo Remix)",
+    "link": "https://music.163.com/song?id=399552364",
+    "duration": "03:04",
+    "artists": [
+      { "name": "Cargo", "link": "https://music.163.com/artist?id=150774" },
+      { "name": "VINAI", "link": "https://music.163.com/artist?id=804422" },
+      { "name": "SCNDL", "link": "https://music.163.com/artist?id=527682" }
+    ],
+    "album": {
+      "name": "Frontier (Cargo Remix)",
+      "link": "https://music.163.com/album?id=34419328"
+    }
+  },
+  {
+    "name": "Drown",
+    "link": "https://music.163.com/song?id=517542039",
+    "duration": "03:05",
+    "artists": [
+      { "name": "ZABO", "link": "https://music.163.com/artist?id=12825010" }
+    ],
+    "album": {
+      "name": "Drown",
+      "link": "https://music.163.com/album?id=36746019"
+    }
+  }
+]

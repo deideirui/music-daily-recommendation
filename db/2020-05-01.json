@@ -1,0 +1,458 @@
+[
+  {
+    "name": "Obvious",
+    "link": "https://music.163.com/song?id=1365841902",
+    "duration": "03:43",
+    "artists": [
+      { "name": "Adam Rom", "link": "https://music.163.com/artist?id=32213559" }
+    ],
+    "album": {
+      "name": "Obvious",
+      "link": "https://music.163.com/album?id=79186131"
+    }
+  },
+  {
+    "name": "Deep Blue (feat. Monika Santucci)",
+    "link": "https://music.163.com/song?id=1381084455",
+    "duration": "03:21",
+    "artists": [
+      {
+        "name": "William Black",
+        "link": "https://music.163.com/artist?id=248957"
+      },
+      {
+        "name": "Monika Santucci",
+        "link": "https://music.163.com/artist?id=13989763"
+      }
+    ],
+    "album": {
+      "name": "Pages",
+      "link": "https://music.163.com/album?id=80685180"
+    }
+  },
+  {
+    "name": "Scandinavia",
+    "link": "https://music.163.com/song?id=516818197",
+    "duration": "03:14",
+    "artists": [
+      {
+        "name": "Wasted Penguinz",
+        "link": "https://music.163.com/artist?id=816508"
+      },
+      { "name": "Adrenalize", "link": "https://music.163.com/artist?id=958018" }
+    ],
+    "album": {
+      "name": "Scandinavia",
+      "link": "https://music.163.com/album?id=36724077"
+    }
+  },
+  {
+    "name": "Count The Hours",
+    "link": "https://music.163.com/song?id=1382985443",
+    "duration": "02:30",
+    "artists": [
+      { "name": "BEAUZ", "link": "https://music.163.com/artist?id=12131436" },
+      { "name": "Nevve", "link": "https://music.163.com/artist?id=12567101" }
+    ],
+    "album": {
+      "name": "Deep House Hits: Summer 2019 - Armada Music",
+      "link": "https://music.163.com/album?id=80849334"
+    }
+  },
+  {
+    "name": "Never Be (feat. AXYL)",
+    "link": "https://music.163.com/song?id=1340087394",
+    "duration": "04:06",
+    "artists": [
+      {
+        "name": "Giraffe Squad",
+        "link": "https://music.163.com/artist?id=12289475"
+      },
+      { "name": "AXYL", "link": "https://music.163.com/artist?id=31244261" }
+    ],
+    "album": {
+      "name": "Never Be (feat. AXYL)",
+      "link": "https://music.163.com/album?id=75201570"
+    }
+  },
+  {
+    "name": "I Love Mondays",
+    "link": "https://music.163.com/song?id=1331819055",
+    "duration": "03:50",
+    "artists": [
+      { "name": "Vexento", "link": "https://music.163.com/artist?id=12037010" }
+    ],
+    "album": {
+      "name": "I Love Mondays",
+      "link": "https://music.163.com/album?id=74793633"
+    }
+  },
+  {
+    "name": "Spin With You (Boy Blue Remix)",
+    "link": "https://music.163.com/song?id=1355912020",
+    "duration": "02:40",
+    "artists": [
+      {
+        "name": "Emma Sameth",
+        "link": "https://music.163.com/artist?id=12131319"
+      },
+      { "name": "WOLFE", "link": "https://music.163.com/artist?id=12046832" },
+      {
+        "name": "Jeremy Zucker",
+        "link": "https://music.163.com/artist?id=12096183"
+      }
+    ],
+    "album": {
+      "name": "Spin With You (Boy Blue Remix)",
+      "link": "https://music.163.com/album?id=78270362"
+    }
+  },
+  {
+    "name": "Bone Dry",
+    "link": "https://music.163.com/song?id=484730994",
+    "duration": "04:45",
+    "artists": [
+      { "name": "Tristam", "link": "https://music.163.com/artist?id=104350" }
+    ],
+    "album": {
+      "name": "Rocket League x Monstercat Vol. 1",
+      "link": "https://music.163.com/album?id=35644274"
+    }
+  },
+  {
+    "name": "To Live",
+    "link": "https://music.163.com/song?id=1304848556",
+    "duration": "03:27",
+    "artists": [
+      {
+        "name": "Corey James",
+        "link": "https://music.163.com/artist?id=1181238"
+      },
+      {
+        "name": "David Pietras",
+        "link": "https://music.163.com/artist?id=11974140"
+      },
+      {
+        "name": "Bryant Powell",
+        "link": "https://music.163.com/artist?id=29294252"
+      }
+    ],
+    "album": {
+      "name": "To Live",
+      "link": "https://music.163.com/album?id=72574381"
+    }
+  },
+  {
+    "name": "Too Young",
+    "link": "https://music.163.com/song?id=487454262",
+    "duration": "03:23",
+    "artists": [
+      { "name": "ayokay", "link": "https://music.163.com/artist?id=1116021" },
+      {
+        "name": "Baker Grace",
+        "link": "https://music.163.com/artist?id=12603136"
+      }
+    ],
+    "album": {
+      "name": "Too Young",
+      "link": "https://music.163.com/album?id=35657353"
+    }
+  },
+  {
+    "name": "MAYDAY",
+    "link": "https://music.163.com/song?id=547764799",
+    "duration": "04:07",
+    "artists": [
+      {
+        "name": "TheFatRat",
+        "link": "https://music.163.com/artist?id=1019952"
+      },
+      {
+        "name": "Laura Brehm",
+        "link": "https://music.163.com/artist?id=207693"
+      }
+    ],
+    "album": {
+      "name": "MAYDAY",
+      "link": "https://music.163.com/album?id=38033127"
+    }
+  },
+  {
+    "name": "Where We Belong",
+    "link": "https://music.163.com/song?id=1360849407",
+    "duration": "03:01",
+    "artists": [
+      { "name": "Kozoro", "link": "https://music.163.com/artist?id=1050567" }
+    ],
+    "album": {
+      "name": "Where We Belong",
+      "link": "https://music.163.com/album?id=78725891"
+    }
+  },
+  {
+    "name": "Beat Again",
+    "link": "https://music.163.com/song?id=33035575",
+    "duration": "03:02",
+    "artists": [
+      {
+        "name": "Project 46",
+        "link": "https://music.163.com/artist?id=776674"
+      },
+      { "name": "Karl Wolf", "link": "https://music.163.com/artist?id=62952" }
+    ],
+    "album": {
+      "name": "Beautiful",
+      "link": "https://music.163.com/album?id=3158277"
+    }
+  },
+  {
+    "name": "Out Of Time",
+    "link": "https://music.163.com/song?id=1407640126",
+    "duration": "02:50",
+    "artists": [
+      {
+        "name": "Why So Sad",
+        "link": "https://music.163.com/artist?id=31588006"
+      }
+    ],
+    "album": {
+      "name": "Out Of Time",
+      "link": "https://music.163.com/album?id=83890129"
+    }
+  },
+  {
+    "name": "Fearless Pt. II",
+    "link": "https://music.163.com/song?id=1313033482",
+    "duration": "03:14",
+    "artists": [
+      {
+        "name": "Lost Sky",
+        "link": "https://music.163.com/artist?id=28389556"
+      },
+      {
+        "name": "Chris Linton",
+        "link": "https://music.163.com/artist?id=14297663"
+      }
+    ],
+    "album": {
+      "name": "Fearless Pt. II",
+      "link": "https://music.163.com/album?id=73639874"
+    }
+  },
+  {
+    "name": "Spirits",
+    "link": "https://music.163.com/song?id=399620640",
+    "duration": "03:23",
+    "artists": [
+      {
+        "name": "The Strumbellas",
+        "link": "https://music.163.com/artist?id=847371"
+      }
+    ],
+    "album": {
+      "name": "Spirits",
+      "link": "https://music.163.com/album?id=34422229"
+    }
+  },
+  {
+    "name": "Yours Truly",
+    "link": "https://music.163.com/song?id=31134351",
+    "duration": "04:42",
+    "artists": [
+      {
+        "name": "Mr FijiWiji",
+        "link": "https://music.163.com/artist?id=40353"
+      },
+      {
+        "name": "Danyka Nadeau",
+        "link": "https://music.163.com/artist?id=1078277"
+      }
+    ],
+    "album": {
+      "name": "Monstercat 021 - Perspective",
+      "link": "https://music.163.com/album?id=3112323"
+    }
+  },
+  {
+    "name": "color-X 3D",
+    "link": "https://music.163.com/song?id=34380473",
+    "duration": "04:03",
+    "artists": [
+      { "name": "徐梦圆", "link": "https://music.163.com/artist?id=1142042" }
+    ],
+    "album": {
+      "name": "3D-E",
+      "link": "https://music.163.com/album?id=3283211"
+    }
+  },
+  {
+    "name": "Nobody Compares",
+    "link": "https://music.163.com/song?id=26608504",
+    "duration": "03:31",
+    "artists": [
+      {
+        "name": "One Direction",
+        "link": "https://music.163.com/artist?id=98351"
+      }
+    ],
+    "album": {
+      "name": "Take Me Home (Special Deluxe Edition)",
+      "link": "https://music.163.com/album?id=2532168"
+    }
+  },
+  {
+    "name": "Back to Me",
+    "link": "https://music.163.com/song?id=521954930",
+    "duration": "03:34",
+    "artists": [
+      { "name": "Vanotek", "link": "https://music.163.com/artist?id=1081048" },
+      { "name": "Eneli", "link": "https://music.163.com/artist?id=12834607" }
+    ],
+    "album": {
+      "name": "No Sleep",
+      "link": "https://music.163.com/album?id=36885733"
+    }
+  },
+  {
+    "name": "Beyond",
+    "link": "https://music.163.com/song?id=1343387566",
+    "duration": "03:40",
+    "artists": [
+      { "name": "Cyber", "link": "https://music.163.com/artist?id=1072052" }
+    ],
+    "album": {
+      "name": "Beyond",
+      "link": "https://music.163.com/album?id=75395713"
+    }
+  },
+  {
+    "name": "Feel The Fire (Breath Vocal Mix)",
+    "link": "https://music.163.com/song?id=437859809",
+    "duration": "03:21",
+    "artists": [
+      { "name": "Pluto", "link": "https://music.163.com/artist?id=12098062" },
+      { "name": "ye.", "link": "https://music.163.com/artist?id=12061025" }
+    ],
+    "album": {
+      "name": "Feel The Fire (Breath Vocal Mix)",
+      "link": "https://music.163.com/album?id=34944760"
+    }
+  },
+  {
+    "name": "The Best Days of My Life",
+    "link": "https://music.163.com/song?id=28308340",
+    "duration": "03:48",
+    "artists": [
+      { "name": "Jason Gray", "link": "https://music.163.com/artist?id=35444" }
+    ],
+    "album": {
+      "name": "Love Will Have the Final Word",
+      "link": "https://music.163.com/album?id=2771127"
+    }
+  },
+  {
+    "name": "Revolution",
+    "link": "https://music.163.com/song?id=471411255",
+    "duration": "03:51",
+    "artists": [
+      { "name": "The Score", "link": "https://music.163.com/artist?id=212904" }
+    ],
+    "album": {
+      "name": "Myths & Legends",
+      "link": "https://music.163.com/album?id=35357066"
+    }
+  },
+  {
+    "name": "A Different Way",
+    "link": "https://music.163.com/song?id=1358247909",
+    "duration": "03:11",
+    "artists": [
+      {
+        "name": "Max Oazo",
+        "link": "https://music.163.com/artist?id=13159084"
+      },
+      { "name": "Cami", "link": "https://music.163.com/artist?id=283909" }
+    ],
+    "album": {
+      "name": "A Different Way",
+      "link": "https://music.163.com/album?id=78483191"
+    }
+  },
+  {
+    "name": "Magic",
+    "link": "https://music.163.com/song?id=1387392286",
+    "duration": "03:52",
+    "artists": [
+      { "name": "ThimLife", "link": "https://music.163.com/artist?id=1046016" },
+      { "name": "Tomsis", "link": "https://music.163.com/artist?id=33118901" }
+    ],
+    "album": {
+      "name": "Magic",
+      "link": "https://music.163.com/album?id=81228507"
+    }
+  },
+  {
+    "name": "Ben Cocks-浴血黑帮mix so cold（嵩同颜 remix）",
+    "link": "https://music.163.com/song?id=1382460597",
+    "duration": "00:30",
+    "artists": [
+      { "name": "嵩同颜", "link": "https://music.163.com/artist?id=32672754" }
+    ],
+    "album": {
+      "name": "mix Y",
+      "link": "https://music.163.com/album?id=80794693"
+    }
+  },
+  {
+    "name": "Hemispheres",
+    "link": "https://music.163.com/song?id=505975155",
+    "duration": "06:03",
+    "artists": [
+      {
+        "name": "John 00 Fleming",
+        "link": "https://music.163.com/artist?id=35723"
+      },
+      { "name": "Solarstone", "link": "https://music.163.com/artist?id=44234" }
+    ],
+    "album": {
+      "name": "Hemispheres",
+      "link": "https://music.163.com/album?id=36196633"
+    }
+  },
+  {
+    "name": "Gravity",
+    "link": "https://music.163.com/song?id=441489226",
+    "duration": "03:48",
+    "artists": [
+      { "name": "Jai Wolf", "link": "https://music.163.com/artist?id=1063048" }
+    ],
+    "album": {
+      "name": "Kindred Spirits",
+      "link": "https://music.163.com/album?id=35004076"
+    }
+  },
+  {
+    "name": "Sign",
+    "link": "https://music.163.com/song?id=440101136",
+    "duration": "03:11",
+    "artists": [
+      { "name": "DEAMN", "link": "https://music.163.com/artist?id=12047335" }
+    ],
+    "album": {
+      "name": "Sign",
+      "link": "https://music.163.com/album?id=34923535"
+    }
+  },
+  {
+    "name": "Canto Grande (Original Mix)",
+    "link": "https://music.163.com/song?id=412016384",
+    "duration": "07:22",
+    "artists": [
+      { "name": "Musty", "link": "https://music.163.com/artist?id=12080271" }
+    ],
+    "album": {
+      "name": "Elliptical Sun Sampler 016",
+      "link": "https://music.163.com/album?id=34678583"
+    }
+  }
+]

@@ -1,0 +1,463 @@
+[
+  {
+    "name": "Lie To Me",
+    "link": "https://music.163.com/song?id=1419696791",
+    "duration": "02:48",
+    "artists": [
+      {
+        "name": "Yellow Claw",
+        "link": "https://music.163.com/artist?id=832880"
+      },
+      { "name": "Tinashe", "link": "https://music.163.com/artist?id=45221" },
+      { "name": "Runtown", "link": "https://music.163.com/artist?id=1081435" }
+    ],
+    "album": {
+      "name": "Never Dies",
+      "link": "https://music.163.com/album?id=85334437"
+    }
+  },
+  {
+    "name": "Do It Yourself",
+    "link": "https://music.163.com/song?id=1353001850",
+    "duration": "02:49",
+    "artists": [
+      { "name": "Ilira", "link": "https://music.163.com/artist?id=847380" }
+    ],
+    "album": {
+      "name": "Do It Yourself",
+      "link": "https://music.163.com/album?id=75906720"
+    }
+  },
+  {
+    "name": "Reflections",
+    "link": "https://music.163.com/song?id=1424317210",
+    "duration": "06:22",
+    "artists": [
+      {
+        "name": "Roald Velden",
+        "link": "https://music.163.com/artist?id=178498"
+      }
+    ],
+    "album": {
+      "name": "Reflections",
+      "link": "https://music.163.com/album?id=85820272"
+    }
+  },
+  {
+    "name": "Roman Holiday",
+    "link": "https://music.163.com/song?id=34144935",
+    "duration": "03:21",
+    "artists": [
+      { "name": "Halsey", "link": "https://music.163.com/artist?id=964321" }
+    ],
+    "album": {
+      "name": "BADLANDS (Deluxe Edition)",
+      "link": "https://music.163.com/album?id=3271514"
+    }
+  },
+  {
+    "name": "Donuts",
+    "link": "https://music.163.com/song?id=444269097",
+    "duration": "02:22",
+    "artists": [
+      {
+        "name": "Jensation",
+        "link": "https://music.163.com/artist?id=12082195"
+      }
+    ],
+    "album": {
+      "name": "Donuts",
+      "link": "https://music.163.com/album?id=35023275"
+    }
+  },
+  {
+    "name": "Freesol",
+    "link": "https://music.163.com/song?id=471374308",
+    "duration": "03:30",
+    "artists": [
+      {
+        "name": "Seven Lions",
+        "link": "https://music.163.com/artist?id=44204"
+      },
+      {
+        "name": "Skyler Stonestreet",
+        "link": "https://music.163.com/artist?id=77899"
+      }
+    ],
+    "album": {
+      "name": "Freesol",
+      "link": "https://music.163.com/album?id=35346566"
+    }
+  },
+  {
+    "name": "Fishing in the Archipelago",
+    "link": "https://music.163.com/song?id=1460541430",
+    "duration": "07:36",
+    "artists": [
+      {
+        "name": "Mark & Lukas",
+        "link": "https://music.163.com/artist?id=1104097"
+      }
+    ],
+    "album": {
+      "name": "Fishing in the Archipelago",
+      "link": "https://music.163.com/album?id=91974747"
+    }
+  },
+  {
+    "name": "Jarico-Fiery Sky (Nurkalyi Remix)（DruGTRaffickerS remix）",
+    "link": "https://music.163.com/song?id=1392703751",
+    "duration": "04:16",
+    "artists": [
+      {
+        "name": "DruGTRaffickerS",
+        "link": "https://music.163.com/artist?id=30643383"
+      }
+    ],
+    "album": {
+      "name": "Fiery Sky (Nurkalyi Remix)",
+      "link": "https://music.163.com/album?id=81185593"
+    }
+  },
+  {
+    "name": "Wuthering Heights (Original Mix)",
+    "link": "https://music.163.com/song?id=28273519",
+    "duration": "09:26",
+    "artists": [
+      {
+        "name": "Simon O'Shine",
+        "link": "https://music.163.com/artist?id=207035"
+      }
+    ],
+    "album": {
+      "name": "Wuthering Heights",
+      "link": "https://music.163.com/album?id=2766074"
+    }
+  },
+  {
+    "name": "Starflight",
+    "link": "https://music.163.com/song?id=864534194",
+    "duration": "02:34",
+    "artists": [
+      { "name": "R3hab", "link": "https://music.163.com/artist?id=197248" },
+      { "name": "Skytech", "link": "https://music.163.com/artist?id=813379" }
+    ],
+    "album": {
+      "name": "Starflight",
+      "link": "https://music.163.com/album?id=71737005"
+    }
+  },
+  {
+    "name": "Love For Life (BEAUZ & GhostDragon Remix)",
+    "link": "https://music.163.com/song?id=467953135",
+    "duration": "03:04",
+    "artists": [
+      { "name": "BEAUZ", "link": "https://music.163.com/artist?id=12131436" },
+      {
+        "name": "GhostDragon",
+        "link": "https://music.163.com/artist?id=12204348"
+      },
+      {
+        "name": "Dr. Shivers",
+        "link": "https://music.163.com/artist?id=30164957"
+      },
+      { "name": "Mark Typ", "link": "https://music.163.com/artist?id=30164958" }
+    ],
+    "album": {
+      "name": "Love For Life (BEAUZ & GhostDragon Remix)",
+      "link": "https://music.163.com/album?id=35314055"
+    }
+  },
+  {
+    "name": "Sing To Me",
+    "link": "https://music.163.com/song?id=1401686731",
+    "duration": "03:09",
+    "artists": [
+      { "name": "Missio", "link": "https://music.163.com/artist?id=1038292" },
+      {
+        "name": "Death Stranding: Timefall",
+        "link": "https://music.163.com/artist?id=33505479"
+      }
+    ],
+    "album": {
+      "name": "DEATH STRANDING: Timefall (Original Music from the World of Death Stranding)",
+      "link": "https://music.163.com/album?id=83080815"
+    }
+  },
+  {
+    "name": "Miracles",
+    "link": "https://music.163.com/song?id=32717066",
+    "duration": "04:00",
+    "artists": [
+      {
+        "name": "Audio Adrenaline",
+        "link": "https://music.163.com/artist?id=46902"
+      }
+    ],
+    "album": {
+      "name": "Sound of the Saints",
+      "link": "https://music.163.com/album?id=3161854"
+    }
+  },
+  {
+    "name": "Don't You",
+    "link": "https://music.163.com/song?id=34125945",
+    "duration": "03:14",
+    "artists": [
+      {
+        "name": "Wonderful Humans",
+        "link": "https://music.163.com/artist?id=956265"
+      }
+    ],
+    "album": {
+      "name": "Don't You",
+      "link": "https://music.163.com/album?id=3271370"
+    }
+  },
+  {
+    "name": "Maybe",
+    "link": "https://music.163.com/song?id=1363686226",
+    "duration": "02:29",
+    "artists": [
+      {
+        "name": "Tim Schaufert",
+        "link": "https://music.163.com/artist?id=12355110"
+      },
+      { "name": "Chymes", "link": "https://music.163.com/artist?id=12067050" }
+    ],
+    "album": {
+      "name": "Maybe",
+      "link": "https://music.163.com/album?id=78966845"
+    }
+  },
+  {
+    "name": "No Scrubs",
+    "link": "https://music.163.com/song?id=490602367",
+    "duration": "03:21",
+    "artists": [
+      {
+        "name": "Unlike Pluto",
+        "link": "https://music.163.com/artist?id=860945"
+      },
+      {
+        "name": "Joanna Jones",
+        "link": "https://music.163.com/artist?id=13932656"
+      }
+    ],
+    "album": {
+      "name": "Let It Bleed",
+      "link": "https://music.163.com/album?id=35834490"
+    }
+  },
+  {
+    "name": "39 Seconds",
+    "link": "https://music.163.com/song?id=1346097723",
+    "duration": "06:30",
+    "artists": [
+      {
+        "name": "Marcus Warner",
+        "link": "https://music.163.com/artist?id=1046308"
+      }
+    ],
+    "album": {
+      "name": "39 Seconds",
+      "link": "https://music.163.com/album?id=75019225"
+    }
+  },
+  {
+    "name": "Birthday Suit",
+    "link": "https://music.163.com/song?id=485410433",
+    "duration": "03:10",
+    "artists": [
+      {
+        "name": "Dan Talevski",
+        "link": "https://music.163.com/artist?id=1050677"
+      }
+    ],
+    "album": {
+      "name": "Birthday Suit",
+      "link": "https://music.163.com/album?id=35630589"
+    }
+  },
+  {
+    "name": "I Get It Now",
+    "link": "https://music.163.com/song?id=431534358",
+    "duration": "03:27",
+    "artists": [
+      { "name": "Fjord", "link": "https://music.163.com/artist?id=92820" }
+    ],
+    "album": {
+      "name": "Textures",
+      "link": "https://music.163.com/album?id=34881465"
+    }
+  },
+  {
+    "name": "God Save the Rave",
+    "link": "https://music.163.com/song?id=1368219740",
+    "duration": "03:12",
+    "artists": [
+      { "name": "Scooter", "link": "https://music.163.com/artist?id=74686" },
+      {
+        "name": "Harris & Ford",
+        "link": "https://music.163.com/artist?id=11985013"
+      }
+    ],
+    "album": {
+      "name": "God Save the Rave",
+      "link": "https://music.163.com/album?id=79447452"
+    }
+  },
+  {
+    "name": "All Night Long",
+    "link": "https://music.163.com/song?id=1297747234",
+    "duration": "03:35",
+    "artists": [
+      {
+        "name": "JST FRNDS",
+        "link": "https://music.163.com/artist?id=28390266"
+      }
+    ],
+    "album": {
+      "name": "All Night Long",
+      "link": "https://music.163.com/album?id=72069710"
+    }
+  },
+  {
+    "name": "Responsibility",
+    "link": "https://music.163.com/song?id=5039096",
+    "duration": "02:12",
+    "artists": [],
+    "album": {
+      "name": "Kokowääh (Original Motion Picture Score)",
+      "link": "https://music.163.com/album?id=500545"
+    }
+  },
+  {
+    "name": "鸟儿飞",
+    "link": "https://music.163.com/song?id=1372342235",
+    "duration": "03:28",
+    "artists": [
+      { "name": "于果", "link": "https://music.163.com/artist?id=12262303" }
+    ],
+    "album": {
+      "name": "鸟儿飞",
+      "link": "https://music.163.com/album?id=79832348"
+    }
+  },
+  {
+    "name": "Endless Wave",
+    "link": "https://music.163.com/song?id=449578837",
+    "duration": "02:42",
+    "artists": [
+      {
+        "name": "Hanging Valleys",
+        "link": "https://music.163.com/artist?id=12219168"
+      }
+    ],
+    "album": {
+      "name": "Endless Wave",
+      "link": "https://music.163.com/album?id=35092255"
+    }
+  },
+  {
+    "name": "不屑",
+    "link": "https://music.163.com/song?id=1483426091",
+    "duration": "03:55",
+    "artists": [
+      { "name": "耗子", "link": "https://music.163.com/artist?id=36567086" }
+    ],
+    "album": {
+      "name": "不屑",
+      "link": "https://music.163.com/album?id=96166001"
+    }
+  },
+  {
+    "name": "Apprehension (Original Mix)",
+    "link": "https://music.163.com/song?id=27977937",
+    "duration": "11:12",
+    "artists": [
+      {
+        "name": "Sergey Nevone",
+        "link": "https://music.163.com/artist?id=240783"
+      },
+      {
+        "name": "Simon O'Shine",
+        "link": "https://music.163.com/artist?id=207035"
+      }
+    ],
+    "album": {
+      "name": "The Plague EP",
+      "link": "https://music.163.com/album?id=2707470"
+    }
+  },
+  {
+    "name": "Ikigai (Original Mix)",
+    "link": "https://music.163.com/song?id=508905990",
+    "duration": "08:00",
+    "artists": [
+      { "name": "New World", "link": "https://music.163.com/artist?id=230696" }
+    ],
+    "album": {
+      "name": "Ikigai",
+      "link": "https://music.163.com/album?id=36412118"
+    }
+  },
+  {
+    "name": "Beyond",
+    "link": "https://music.163.com/song?id=399354294",
+    "duration": "03:27",
+    "artists": [
+      { "name": "JJD", "link": "https://music.163.com/artist?id=472822" }
+    ],
+    "album": {
+      "name": "Beyond",
+      "link": "https://music.163.com/album?id=34407115"
+    }
+  },
+  {
+    "name": "Alva (Intro Mix)",
+    "link": "https://music.163.com/song?id=27980550",
+    "duration": "07:06",
+    "artists": [
+      {
+        "name": "Ahmed Romel",
+        "link": "https://music.163.com/artist?id=191841"
+      },
+      {
+        "name": "Tonny Nesse",
+        "link": "https://music.163.com/artist?id=199557"
+      }
+    ],
+    "album": {
+      "name": "Alva",
+      "link": "https://music.163.com/album?id=2707640"
+    }
+  },
+  {
+    "name": "Jump (Troitski Remix)",
+    "link": "https://music.163.com/song?id=427595531",
+    "duration": "05:38",
+    "artists": [
+      { "name": "DiscoVer.", "link": "https://music.163.com/artist?id=1073011" }
+    ],
+    "album": {
+      "name": "Jump",
+      "link": "https://music.163.com/album?id=34839916"
+    }
+  },
+  {
+    "name": "Ariana",
+    "link": "https://music.163.com/song?id=1405421750",
+    "duration": "09:17",
+    "artists": [
+      {
+        "name": "Tony Anderson",
+        "link": "https://music.163.com/artist?id=79757"
+      }
+    ],
+    "album": {
+      "name": "Ariana",
+      "link": "https://music.163.com/album?id=83617177"
+    }
+  }
+]

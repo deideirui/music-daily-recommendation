@@ -1,0 +1,475 @@
+[
+  {
+    "name": "Strawberries & Cigarettes",
+    "link": "https://music.163.com/song?id=544247584",
+    "duration": "03:21",
+    "artists": [
+      { "name": "Troye Sivan", "link": "https://music.163.com/artist?id=45129" }
+    ],
+    "album": {
+      "name": "Love, Simon (Original Motion Picture Soundtrack)",
+      "link": "https://music.163.com/album?id=37767398"
+    }
+  },
+  {
+    "name": "Drama Free",
+    "link": "https://music.163.com/song?id=1371043420",
+    "duration": "03:05",
+    "artists": [
+      {
+        "name": "Maria Lynn",
+        "link": "https://music.163.com/artist?id=12273415"
+      },
+      {
+        "name": "Steve Reece",
+        "link": "https://music.163.com/artist?id=1147021"
+      }
+    ],
+    "album": {
+      "name": "Drama Free",
+      "link": "https://music.163.com/album?id=79711861"
+    }
+  },
+  {
+    "name": "Retrowave",
+    "link": "https://music.163.com/song?id=1462724777",
+    "duration": "02:29",
+    "artists": [
+      { "name": "REGGIO", "link": "https://music.163.com/artist?id=12029382" },
+      { "name": "Declain", "link": "https://music.163.com/artist?id=12234081" }
+    ],
+    "album": {
+      "name": "Retrowave",
+      "link": "https://music.163.com/album?id=92404778"
+    }
+  },
+  {
+    "name": "High Hopes",
+    "link": "https://music.163.com/song?id=1358168845",
+    "duration": "03:21",
+    "artists": [
+      {
+        "name": "Gabriela Bee",
+        "link": "https://music.163.com/artist?id=31798212"
+      }
+    ],
+    "album": {
+      "name": "High Hopes",
+      "link": "https://music.163.com/album?id=78477256"
+    }
+  },
+  {
+    "name": "Tenderness",
+    "link": "https://music.163.com/song?id=1449763701",
+    "duration": "02:13",
+    "artists": [
+      { "name": "Delos", "link": "https://music.163.com/artist?id=12085627" }
+    ],
+    "album": {
+      "name": "悸动Demo",
+      "link": "https://music.163.com/album?id=89633751"
+    }
+  },
+  {
+    "name": "Lucky",
+    "link": "https://music.163.com/song?id=1446402652",
+    "duration": "02:40",
+    "artists": [
+      {
+        "name": "musicbyLUKAS",
+        "link": "https://music.163.com/artist?id=12763029"
+      },
+      { "name": "Melsen", "link": "https://music.163.com/artist?id=11977189" }
+    ],
+    "album": {
+      "name": "Lucky",
+      "link": "https://music.163.com/album?id=89124921"
+    }
+  },
+  {
+    "name": "Stacy",
+    "link": "https://music.163.com/song?id=1372847645",
+    "duration": "02:48",
+    "artists": [
+      {
+        "name": "Quinn XCII",
+        "link": "https://music.163.com/artist?id=12043047"
+      }
+    ],
+    "album": {
+      "name": "Stacy",
+      "link": "https://music.163.com/album?id=79887677"
+    }
+  },
+  {
+    "name": "Here Alone",
+    "link": "https://music.163.com/song?id=1461268053",
+    "duration": "02:54",
+    "artists": [
+      {
+        "name": "VARGENTA",
+        "link": "https://music.163.com/artist?id=12108656"
+      },
+      { "name": "Azaro", "link": "https://music.163.com/artist?id=34155135" },
+      {
+        "name": "Revealed Recordings",
+        "link": "https://music.163.com/artist?id=28753573"
+      }
+    ],
+    "album": {
+      "name": "Here Alone",
+      "link": "https://music.163.com/album?id=92106906"
+    }
+  },
+  {
+    "name": "SHADE",
+    "link": "https://music.163.com/song?id=1397701467",
+    "duration": "02:44",
+    "artists": [
+      {
+        "name": "Buy a dreamer",
+        "link": "https://music.163.com/artist?id=33249809"
+      }
+    ],
+    "album": {
+      "name": "SHADE",
+      "link": "https://music.163.com/album?id=82526119"
+    }
+  },
+  {
+    "name": "Switch",
+    "link": "https://music.163.com/song?id=1361144791",
+    "duration": "02:53",
+    "artists": [
+      { "name": "Afrojack", "link": "https://music.163.com/artist?id=28745" },
+      {
+        "name": "Jewelz & Sparks",
+        "link": "https://music.163.com/artist?id=947051"
+      },
+      { "name": "Emmalyn", "link": "https://music.163.com/artist?id=12131312" }
+    ],
+    "album": {
+      "name": "Switch",
+      "link": "https://music.163.com/album?id=78758015"
+    }
+  },
+  {
+    "name": "Mirage",
+    "link": "https://music.163.com/song?id=1399985643",
+    "duration": "04:22",
+    "artists": [
+      {
+        "name": "PhaseSecond",
+        "link": "https://music.163.com/artist?id=12346587"
+      }
+    ],
+    "album": {
+      "name": "Mirage",
+      "link": "https://music.163.com/album?id=82772481"
+    }
+  },
+  {
+    "name": "Tidal Wave 海 浪",
+    "link": "https://music.163.com/song?id=1450274466",
+    "duration": "03:03",
+    "artists": [
+      {
+        "name": "bbbluelee",
+        "link": "https://music.163.com/artist?id=13791519"
+      }
+    ],
+    "album": {
+      "name": "海 浪",
+      "link": "https://music.163.com/album?id=89771233"
+    }
+  },
+  {
+    "name": "Like This (RetroVision Edit)",
+    "link": "https://music.163.com/song?id=1441272375",
+    "duration": "02:38",
+    "artists": [
+      {
+        "name": "Tommy Jayden",
+        "link": "https://music.163.com/artist?id=12248066"
+      },
+      {
+        "name": "RetroVision",
+        "link": "https://music.163.com/artist?id=11976142"
+      }
+    ],
+    "album": {
+      "name": "Like This (RetroVision Edit)",
+      "link": "https://music.163.com/album?id=88145619"
+    }
+  },
+  {
+    "name": "Get 2 Me",
+    "link": "https://music.163.com/song?id=1449669177",
+    "duration": "02:41",
+    "artists": [
+      { "name": "G-POL", "link": "https://music.163.com/artist?id=12054195" },
+      { "name": "Castion", "link": "https://music.163.com/artist?id=27687018" }
+    ],
+    "album": {
+      "name": "Get 2 Me",
+      "link": "https://music.163.com/album?id=89730558"
+    }
+  },
+  {
+    "name": "Rather Be (Instrumental)",
+    "link": "https://music.163.com/song?id=34880347",
+    "duration": "03:44",
+    "artists": [
+      {
+        "name": "Clean Bandit",
+        "link": "https://music.163.com/artist?id=754010"
+      }
+    ],
+    "album": {
+      "name": "Rather Be",
+      "link": "https://music.163.com/album?id=2726100"
+    }
+  },
+  {
+    "name": "丙申之年",
+    "link": "https://music.163.com/song?id=404459870",
+    "duration": "03:39",
+    "artists": [
+      { "name": "徐梦圆", "link": "https://music.163.com/artist?id=1142042" }
+    ],
+    "album": {
+      "name": "丙申之年",
+      "link": "https://music.163.com/album?id=34511268"
+    }
+  },
+  {
+    "name": "WATR",
+    "link": "https://music.163.com/song?id=521415343",
+    "duration": "02:56",
+    "artists": [
+      { "name": "REGN", "link": "https://music.163.com/artist?id=624622" }
+    ],
+    "album": {
+      "name": "WATR",
+      "link": "https://music.163.com/album?id=36872081"
+    }
+  },
+  {
+    "name": "Peer Pressure",
+    "link": "https://music.163.com/song?id=1364338800",
+    "duration": "02:56",
+    "artists": [
+      { "name": "James Bay", "link": "https://music.163.com/artist?id=861040" },
+      {
+        "name": "Julia Michaels",
+        "link": "https://music.163.com/artist?id=12097049"
+      }
+    ],
+    "album": {
+      "name": "Oh My Messy Mind",
+      "link": "https://music.163.com/album?id=79036828"
+    }
+  },
+  {
+    "name": "Somewhere 2017",
+    "link": "https://music.163.com/song?id=460522492",
+    "duration": "03:58",
+    "artists": [
+      { "name": "Jiaye", "link": "https://music.163.com/artist?id=12027336" }
+    ],
+    "album": {
+      "name": "Somewhere 2017",
+      "link": "https://music.163.com/album?id=35190081"
+    }
+  },
+  {
+    "name": "Whistle",
+    "link": "https://music.163.com/song?id=28329963",
+    "duration": "03:44",
+    "artists": [
+      { "name": "Flo Rida", "link": "https://music.163.com/artist?id=56783" }
+    ],
+    "album": {
+      "name": "W9 Hits 2013",
+      "link": "https://music.163.com/album?id=2776724"
+    }
+  },
+  {
+    "name": "Electric",
+    "link": "https://music.163.com/song?id=408055512",
+    "duration": "04:39",
+    "artists": [
+      { "name": "Brett", "link": "https://music.163.com/artist?id=967045" }
+    ],
+    "album": {
+      "name": "Mode",
+      "link": "https://music.163.com/album?id=34588340"
+    }
+  },
+  {
+    "name": "Space (feat. Quinn XCII)",
+    "link": "https://music.163.com/song?id=497352947",
+    "duration": "02:57",
+    "artists": [
+      {
+        "name": "Prince Fox",
+        "link": "https://music.163.com/artist?id=1161141"
+      },
+      {
+        "name": "Quinn XCII",
+        "link": "https://music.163.com/artist?id=12043047"
+      }
+    ],
+    "album": {
+      "name": "Space (feat. Quinn XCII)",
+      "link": "https://music.163.com/album?id=35902328"
+    }
+  },
+  {
+    "name": "One Look (feat. Heather Sommer)",
+    "link": "https://music.163.com/song?id=1458679659",
+    "duration": "03:38",
+    "artists": [
+      {
+        "name": "Jason Ross",
+        "link": "https://music.163.com/artist?id=906123"
+      },
+      {
+        "name": "Heather Sommer",
+        "link": "https://music.163.com/artist?id=13134228"
+      }
+    ],
+    "album": {
+      "name": "One Look (feat. Heather Sommer)",
+      "link": "https://music.163.com/album?id=91628139"
+    }
+  },
+  {
+    "name": "The Light is Always On",
+    "link": "https://music.163.com/song?id=1465373838",
+    "duration": "06:13",
+    "artists": [
+      { "name": "BT", "link": "https://music.163.com/artist?id=29347" },
+      { "name": "Au5", "link": "https://music.163.com/artist?id=359309" },
+      {
+        "name": "Mangal Suvarnan",
+        "link": "https://music.163.com/artist?id=12377054"
+      }
+    ],
+    "album": {
+      "name": "The Lost Art of Longing",
+      "link": "https://music.163.com/album?id=92952732"
+    }
+  },
+  {
+    "name": "波浪 (original Mix)",
+    "link": "https://music.163.com/song?id=1400258994",
+    "duration": "03:53",
+    "artists": [
+      { "name": "阳山伟伟", "link": "https://music.163.com/artist?id=12641107" }
+    ],
+    "album": {
+      "name": "国产·纯音",
+      "link": "https://music.163.com/album?id=82896127"
+    }
+  },
+  {
+    "name": "Please Don’t Touch",
+    "link": "https://music.163.com/song?id=1409277284",
+    "duration": "03:38",
+    "artists": [
+      { "name": "Raye", "link": "https://music.163.com/artist?id=1077053" }
+    ],
+    "album": {
+      "name": "Please Don’t Touch",
+      "link": "https://music.163.com/album?id=84068551"
+    }
+  },
+  {
+    "name": "Dreaming Alone",
+    "link": "https://music.163.com/song?id=30706080",
+    "duration": "02:56",
+    "artists": [
+      {
+        "name": "Against the Current",
+        "link": "https://music.163.com/artist?id=783418"
+      },
+      { "name": "TAKA", "link": "https://music.163.com/artist?id=201760" }
+    ],
+    "album": {
+      "name": "Gravity",
+      "link": "https://music.163.com/album?id=3104189"
+    }
+  },
+  {
+    "name": "Closer Than Ever",
+    "link": "https://music.163.com/song?id=1374458179",
+    "duration": "03:46",
+    "artists": [
+      { "name": "AALTA", "link": "https://music.163.com/artist?id=32625370" },
+      { "name": "Lenachka", "link": "https://music.163.com/artist?id=1016181" }
+    ],
+    "album": {
+      "name": "Closer Than Ever",
+      "link": "https://music.163.com/album?id=80045416"
+    }
+  },
+  {
+    "name": "夏萤",
+    "link": "https://music.163.com/song?id=483454599",
+    "duration": "02:52",
+    "artists": [
+      { "name": "小vie", "link": "https://music.163.com/artist?id=1039518" }
+    ],
+    "album": {
+      "name": "夏萤",
+      "link": "https://music.163.com/album?id=35599251"
+    }
+  },
+  {
+    "name": "Running In The Night (feat. Ollie Wride)",
+    "link": "https://music.163.com/song?id=411921883",
+    "duration": "04:30",
+    "artists": [
+      { "name": "FM-84", "link": "https://music.163.com/artist?id=12046467" }
+    ],
+    "album": {
+      "name": "Atlas",
+      "link": "https://music.163.com/album?id=34686652"
+    }
+  },
+  {
+    "name": "Bby",
+    "link": "https://music.163.com/song?id=474792004",
+    "duration": "03:17",
+    "artists": [
+      {
+        "name": "Tim Schaufert",
+        "link": "https://music.163.com/artist?id=12355110"
+      },
+      {
+        "name": "CASHFORGOLD",
+        "link": "https://music.163.com/artist?id=12506487"
+      }
+    ],
+    "album": {
+      "name": "Bby",
+      "link": "https://music.163.com/album?id=35431453"
+    }
+  },
+  {
+    "name": "Not Angry",
+    "link": "https://music.163.com/song?id=1478568147",
+    "duration": "03:19",
+    "artists": [
+      {
+        "name": "Chris James",
+        "link": "https://music.163.com/artist?id=145038"
+      }
+    ],
+    "album": {
+      "name": "Not Angry",
+      "link": "https://music.163.com/album?id=95295367"
+    }
+  }
+]

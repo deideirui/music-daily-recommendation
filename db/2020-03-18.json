@@ -1,0 +1,432 @@
+[
+  {
+    "name": "True",
+    "link": "https://music.163.com/song?id=1356593848",
+    "duration": "03:29",
+    "artists": [
+      { "name": "MARINA", "link": "https://music.163.com/artist?id=68932" }
+    ],
+    "album": {
+      "name": "LOVE",
+      "link": "https://music.163.com/album?id=78328991"
+    }
+  },
+  {
+    "name": "Breaking Away",
+    "link": "https://music.163.com/song?id=26902687",
+    "duration": "04:11",
+    "artists": [
+      { "name": "Anh Minh", "link": "https://music.163.com/artist?id=797062" }
+    ],
+    "album": {
+      "name": "Sunrise",
+      "link": "https://music.163.com/album?id=2569071"
+    }
+  },
+  {
+    "name": "Release The Pain",
+    "link": "https://music.163.com/song?id=28892127",
+    "duration": "03:59",
+    "artists": [
+      { "name": "Lora", "link": "https://music.163.com/artist?id=66158" }
+    ],
+    "album": {
+      "name": "最新热歌慢摇76",
+      "link": "https://music.163.com/album?id=2923073"
+    }
+  },
+  {
+    "name": "Gone in the Morning",
+    "link": "https://music.163.com/song?id=1364478109",
+    "duration": "03:21",
+    "artists": [
+      {
+        "name": "Liam Ferrari",
+        "link": "https://music.163.com/artist?id=12812995"
+      }
+    ],
+    "album": {
+      "name": "Gone in the Morning",
+      "link": "https://music.163.com/album?id=79047799"
+    }
+  },
+  {
+    "name": "Kingdom",
+    "link": "https://music.163.com/song?id=28724178",
+    "duration": "03:15",
+    "artists": [
+      { "name": "Elen Levon", "link": "https://music.163.com/artist?id=56730" }
+    ],
+    "album": {
+      "name": "Kingdom",
+      "link": "https://music.163.com/album?id=2882143"
+    }
+  },
+  {
+    "name": "Forever Again",
+    "link": "https://music.163.com/song?id=21232503",
+    "duration": "03:35",
+    "artists": [
+      { "name": "Melanie C", "link": "https://music.163.com/artist?id=66382" }
+    ],
+    "album": {
+      "name": "This Time",
+      "link": "https://music.163.com/album?id=1962150"
+    }
+  },
+  {
+    "name": "Hypnogenesis (Original Mix)",
+    "link": "https://music.163.com/song?id=1413419363",
+    "duration": "09:32",
+    "artists": [
+      {
+        "name": "Simon O'Shine",
+        "link": "https://music.163.com/artist?id=207035"
+      }
+    ],
+    "album": {
+      "name": "Hypnogenesis",
+      "link": "https://music.163.com/album?id=84648690"
+    }
+  },
+  {
+    "name": "Gotta Go Home",
+    "link": "https://music.163.com/song?id=28850418",
+    "duration": "04:26",
+    "artists": [
+      { "name": "Mirah", "link": "https://music.163.com/artist?id=1049841" }
+    ],
+    "album": {
+      "name": "最新热歌慢摇73",
+      "link": "https://music.163.com/album?id=2902150"
+    }
+  },
+  {
+    "name": "Keep You Much Longer",
+    "link": "https://music.163.com/song?id=16375087",
+    "duration": "04:20",
+    "artists": [
+      { "name": "Akon", "link": "https://music.163.com/artist?id=27595" }
+    ],
+    "album": {
+      "name": "Freedom",
+      "link": "https://music.163.com/album?id=1510338"
+    }
+  },
+  {
+    "name": "浮光 (The History)",
+    "link": "https://music.163.com/song?id=1394601255",
+    "duration": "04:18",
+    "artists": [
+      { "name": "Jannik", "link": "https://music.163.com/artist?id=12065179" }
+    ],
+    "album": {
+      "name": "浮光 (The History)",
+      "link": "https://music.163.com/album?id=82002605"
+    }
+  },
+  {
+    "name": "Na Na Na (Club Mix)",
+    "link": "https://music.163.com/song?id=436501923",
+    "duration": "04:16",
+    "artists": [
+      {
+        "name": "Jack Mazzoni",
+        "link": "https://music.163.com/artist?id=471172"
+      }
+    ],
+    "album": {
+      "name": "Na Na Na",
+      "link": "https://music.163.com/album?id=34932383"
+    }
+  },
+  {
+    "name": "I Still Believe",
+    "link": "https://music.163.com/song?id=1358194683",
+    "duration": "03:04",
+    "artists": [
+      { "name": "Mandee", "link": "https://music.163.com/artist?id=12171036" },
+      {
+        "name": "Abi F Jones",
+        "link": "https://music.163.com/artist?id=1137160"
+      }
+    ],
+    "album": {
+      "name": "I Still Believe",
+      "link": "https://music.163.com/album?id=78479967"
+    }
+  },
+  {
+    "name": "Don’t Let Go",
+    "link": "https://music.163.com/song?id=28282487",
+    "duration": "03:18",
+    "artists": [
+      { "name": "Lea Michele", "link": "https://music.163.com/artist?id=66147" }
+    ],
+    "album": {
+      "name": "Louder",
+      "link": "https://music.163.com/album?id=2746004"
+    }
+  },
+  {
+    "name": "Phoenix",
+    "link": "https://music.163.com/song?id=32619972",
+    "duration": "03:20",
+    "artists": [
+      {
+        "name": "Molly Sandén",
+        "link": "https://music.163.com/artist?id=68910"
+      }
+    ],
+    "album": {
+      "name": "Like No One's Watching",
+      "link": "https://music.163.com/album?id=3154744"
+    }
+  },
+  {
+    "name": "I Can Do It (Watch Me Now)",
+    "link": "https://music.163.com/song?id=17584536",
+    "duration": "03:16",
+    "artists": [
+      { "name": "Elin Lanto", "link": "https://music.163.com/artist?id=55576" }
+    ],
+    "album": { "name": "One", "link": "https://music.163.com/album?id=1619385" }
+  },
+  {
+    "name": "What You Got (Main)",
+    "link": "https://music.163.com/song?id=20553720",
+    "duration": "04:03",
+    "artists": [
+      {
+        "name": "Colby O'Donis",
+        "link": "https://music.163.com/artist?id=29983"
+      },
+      { "name": "Akon", "link": "https://music.163.com/artist?id=27595" }
+    ],
+    "album": {
+      "name": "Colby O",
+      "link": "https://music.163.com/album?id=1912700"
+    }
+  },
+  {
+    "name": "Crazy",
+    "link": "https://music.163.com/song?id=1340143947",
+    "duration": "03:08",
+    "artists": [
+      { "name": "BEAUZ", "link": "https://music.163.com/artist?id=12131436" },
+      { "name": "JVNA", "link": "https://music.163.com/artist?id=28692563" }
+    ],
+    "album": {
+      "name": "Crazy",
+      "link": "https://music.163.com/album?id=75206414"
+    }
+  },
+  {
+    "name": "Starting Again (Radio Edit)",
+    "link": "https://music.163.com/song?id=26598815",
+    "duration": "03:06",
+    "artists": [
+      {
+        "name": "East & Young",
+        "link": "https://music.163.com/artist?id=789132"
+      },
+      { "name": "Tom Cane", "link": "https://music.163.com/artist?id=338370" }
+    ],
+    "album": {
+      "name": "Starting Again",
+      "link": "https://music.163.com/album?id=2532103"
+    }
+  },
+  {
+    "name": "Time (Official)",
+    "link": "https://music.163.com/song?id=33035611",
+    "duration": "03:56",
+    "artists": [
+      { "name": "MKJ", "link": "https://music.163.com/artist?id=469200" }
+    ],
+    "album": {
+      "name": "Time After Time",
+      "link": "https://music.163.com/album?id=74263822"
+    }
+  },
+  {
+    "name": "Lass Mich In Dein Leben",
+    "link": "https://music.163.com/song?id=22227759",
+    "duration": "03:43",
+    "artists": [
+      {
+        "name": "Helene Fischer",
+        "link": "https://music.163.com/artist?id=60252"
+      }
+    ],
+    "album": {
+      "name": "Best Of",
+      "link": "https://music.163.com/album?id=2043229"
+    }
+  },
+  {
+    "name": "Rock This Club (R.I.O. Radio Edit)",
+    "link": "https://music.163.com/song?id=26365345",
+    "duration": "03:08",
+    "artists": [
+      { "name": "King", "link": "https://music.163.com/artist?id=37723" },
+      { "name": "White", "link": "https://music.163.com/artist?id=13198" },
+      { "name": "Cimo", "link": "https://music.163.com/artist?id=13133162" }
+    ],
+    "album": {
+      "name": "Ready Or Not (The Album)",
+      "link": "https://music.163.com/album?id=2467452"
+    }
+  },
+  {
+    "name": "Good Good",
+    "link": "https://music.163.com/song?id=444416700",
+    "duration": "02:56",
+    "artists": [
+      { "name": "Perttu", "link": "https://music.163.com/artist?id=11994030" },
+      { "name": "Yates", "link": "https://music.163.com/artist?id=12006257" }
+    ],
+    "album": {
+      "name": "Good Good",
+      "link": "https://music.163.com/album?id=35025245"
+    }
+  },
+  {
+    "name": "Let It Be Me",
+    "link": "https://music.163.com/song?id=1309262769",
+    "duration": "02:52",
+    "artists": [
+      {
+        "name": "David Guetta",
+        "link": "https://music.163.com/artist?id=31211"
+      },
+      { "name": "Ava Max", "link": "https://music.163.com/artist?id=14486166" }
+    ],
+    "album": { "name": "7", "link": "https://music.163.com/album?id=73247194" }
+  },
+  {
+    "name": "In My Head",
+    "link": "https://music.163.com/song?id=528335263",
+    "duration": "03:26",
+    "artists": [
+      {
+        "name": "Sophie Elise",
+        "link": "https://music.163.com/artist?id=942021"
+      }
+    ],
+    "album": {
+      "name": "In My Head",
+      "link": "https://music.163.com/album?id=37121132"
+    }
+  },
+  {
+    "name": "Waiting For Love",
+    "link": "https://music.163.com/song?id=31356499",
+    "duration": "04:34",
+    "artists": [
+      { "name": "Avicii", "link": "https://music.163.com/artist?id=45236" },
+      {
+        "name": "Martin Garrix",
+        "link": "https://music.163.com/artist?id=780003"
+      },
+      {
+        "name": "Simon Aldred",
+        "link": "https://music.163.com/artist?id=13855993"
+      }
+    ],
+    "album": {
+      "name": "Waiting For Love",
+      "link": "https://music.163.com/album?id=3117514"
+    }
+  },
+  {
+    "name": "Blue in My Eyes",
+    "link": "https://music.163.com/song?id=1300355030",
+    "duration": "03:18",
+    "artists": [
+      { "name": "NLSN", "link": "https://music.163.com/artist?id=12121013" },
+      { "name": "Lisa Rowe", "link": "https://music.163.com/artist?id=1049327" }
+    ],
+    "album": {
+      "name": "Blue in My Eyes",
+      "link": "https://music.163.com/album?id=72226634"
+    }
+  },
+  {
+    "name": "Dead Heat",
+    "link": "https://music.163.com/song?id=27725296",
+    "duration": "03:48",
+    "artists": [
+      {
+        "name": "Diana Vickers",
+        "link": "https://music.163.com/artist?id=55399"
+      }
+    ],
+    "album": {
+      "name": "Music To Make Boys Cry",
+      "link": "https://music.163.com/album?id=2665045"
+    }
+  },
+  {
+    "name": "Lea Rue - Sleep! (Slow Version)",
+    "link": "https://music.163.com/song?id=465256546",
+    "duration": "03:07",
+    "artists": [
+      {
+        "name": "InfiniteMusic",
+        "link": "https://music.163.com/artist?id=956418"
+      }
+    ],
+    "album": {
+      "name": "Chill Time 2016 [Chapter 2](Compiled by Justmusic)",
+      "link": "https://music.163.com/album?id=35272101"
+    }
+  },
+  {
+    "name": "水畔凉箫",
+    "link": "https://music.163.com/song?id=475421860",
+    "duration": "04:12",
+    "artists": [
+      { "name": "Triso", "link": "https://music.163.com/artist?id=1185072" },
+      {
+        "name": "月下散落出世",
+        "link": "https://music.163.com/artist?id=12116126"
+      }
+    ],
+    "album": {
+      "name": "水畔凉箫",
+      "link": "https://music.163.com/album?id=35440540"
+    }
+  },
+  {
+    "name": "Ryan有光 - Monarch Butterfly (RangerNine Remix)",
+    "link": "https://music.163.com/song?id=497785010",
+    "duration": "03:17",
+    "artists": [
+      {
+        "name": "RangerNine",
+        "link": "https://music.163.com/artist?id=12407320"
+      },
+      { "name": "Ryan有光", "link": "https://music.163.com/artist?id=12185226" }
+    ],
+    "album": {
+      "name": "Monarch Butterfly (RangerNine Remix)",
+      "link": "https://music.163.com/album?id=35927702"
+    }
+  },
+  {
+    "name": "Dependent",
+    "link": "https://music.163.com/song?id=543927569",
+    "duration": "03:05",
+    "artists": [
+      {
+        "name": "еяхат музыка",
+        "link": "https://music.163.com/artist?id=13286745"
+      }
+    ],
+    "album": {
+      "name": "Dependent (Alex Mako & Md Dj Remix)",
+      "link": "https://music.163.com/album?id=37860396"
+    }
+  }
+]

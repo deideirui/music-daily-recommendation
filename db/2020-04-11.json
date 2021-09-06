@@ -1,0 +1,481 @@
+[
+  {
+    "name": "Broken Ones",
+    "link": "https://music.163.com/song?id=1384496797",
+    "duration": "03:18",
+    "artists": [
+      { "name": "ILLENIUM", "link": "https://music.163.com/artist?id=1050518" },
+      {
+        "name": "Anna Clendening",
+        "link": "https://music.163.com/artist?id=12533901"
+      }
+    ],
+    "album": {
+      "name": "ASCEND",
+      "link": "https://music.163.com/album?id=80981667"
+    }
+  },
+  {
+    "name": "On & Off",
+    "link": "https://music.163.com/song?id=31680301",
+    "duration": "02:54",
+    "artists": [
+      {
+        "name": "Krista Siegfrids",
+        "link": "https://music.163.com/artist?id=748147"
+      }
+    ],
+    "album": {
+      "name": "On & Off",
+      "link": "https://music.163.com/album?id=3121843"
+    }
+  },
+  {
+    "name": "Something Strange",
+    "link": "https://music.163.com/song?id=1320858202",
+    "duration": "03:09",
+    "artists": [
+      { "name": "Vicetone", "link": "https://music.163.com/artist?id=747030" },
+      {
+        "name": "Haley Reinhart",
+        "link": "https://music.163.com/artist?id=60315"
+      }
+    ],
+    "album": {
+      "name": "Something Strange ",
+      "link": "https://music.163.com/album?id=74120450"
+    }
+  },
+  {
+    "name": "Strongest (Alan Walker Remix)",
+    "link": "https://music.163.com/song?id=521657045",
+    "duration": "03:30",
+    "artists": [
+      {
+        "name": "Ina Wroldsen",
+        "link": "https://music.163.com/artist?id=60879"
+      },
+      {
+        "name": "Alan Walker",
+        "link": "https://music.163.com/artist?id=1045123"
+      }
+    ],
+    "album": {
+      "name": "Strongest (Alan Walker Remix)",
+      "link": "https://music.163.com/album?id=36864037"
+    }
+  },
+  {
+    "name": "Million Dollar Mood",
+    "link": "https://music.163.com/song?id=1337296869",
+    "duration": "02:55",
+    "artists": [
+      {
+        "name": "WEALTHYSELF",
+        "link": "https://music.163.com/artist?id=27864242"
+      },
+      {
+        "name": "Miranda Glory",
+        "link": "https://music.163.com/artist?id=12463504"
+      },
+      { "name": "CANCUN?", "link": "https://music.163.com/artist?id=27863745" }
+    ],
+    "album": {
+      "name": "Million Dollar Mood",
+      "link": "https://music.163.com/album?id=75042967"
+    }
+  },
+  {
+    "name": "Irregular Love",
+    "link": "https://music.163.com/song?id=34324703",
+    "duration": "03:32",
+    "artists": [
+      {
+        "name": "Sonny Alven",
+        "link": "https://music.163.com/artist?id=1102253"
+      }
+    ],
+    "album": {
+      "name": "Irregular Love",
+      "link": "https://music.163.com/album?id=3280209"
+    }
+  },
+  {
+    "name": "You've Got Me Now",
+    "link": "https://music.163.com/song?id=425828034",
+    "duration": "03:13",
+    "artists": [
+      { "name": "Heatbeat", "link": "https://music.163.com/artist?id=136796" },
+      {
+        "name": "Eric Lumiere",
+        "link": "https://music.163.com/artist?id=537263"
+      }
+    ],
+    "album": {
+      "name": "You've Got Me Now",
+      "link": "https://music.163.com/album?id=34808108"
+    }
+  },
+  {
+    "name": "I Want It That Way (Extended Mix)",
+    "link": "https://music.163.com/song?id=407126409",
+    "duration": "04:24",
+    "artists": [
+      { "name": "FROIDZ", "link": "https://music.163.com/artist?id=395067" }
+    ],
+    "album": {
+      "name": "I Want It That Way",
+      "link": "https://music.163.com/album?id=34565123"
+    }
+  },
+  {
+    "name": "Ready Yet (San Holo Remix)",
+    "link": "https://music.163.com/song?id=542437942",
+    "duration": "03:38",
+    "artists": [
+      {
+        "name": "Sasha Sloan",
+        "link": "https://music.163.com/artist?id=12646102"
+      },
+      { "name": "San Holo", "link": "https://music.163.com/artist?id=1017035" }
+    ],
+    "album": {
+      "name": "Ready Yet (San Holo Remix)",
+      "link": "https://music.163.com/album?id=37815235"
+    }
+  },
+  {
+    "name": "Superstar",
+    "link": "https://music.163.com/song?id=1301861959",
+    "duration": "03:26",
+    "artists": [
+      {
+        "name": "Said The Sky",
+        "link": "https://music.163.com/artist?id=1026094"
+      },
+      { "name": "Linn", "link": "https://music.163.com/artist?id=215537" },
+      { "name": "Dabin", "link": "https://music.163.com/artist?id=783446" }
+    ],
+    "album": {
+      "name": "Wide-Eyed",
+      "link": "https://music.163.com/album?id=72316725"
+    }
+  },
+  {
+    "name": "Healing Song",
+    "link": "https://music.163.com/song?id=461544288",
+    "duration": "03:09",
+    "artists": [
+      { "name": "Lune", "link": "https://music.163.com/artist?id=837415" }
+    ],
+    "album": {
+      "name": "Healing Song",
+      "link": "https://music.163.com/album?id=35196318"
+    }
+  },
+  {
+    "name": "Paradise (Radio Edit)",
+    "link": "https://music.163.com/song?id=39745835",
+    "duration": "03:09",
+    "artists": [
+      {
+        "name": "Mike Candys",
+        "link": "https://music.163.com/artist?id=40119"
+      },
+      { "name": "U-Jean", "link": "https://music.163.com/artist?id=205414" }
+    ],
+    "album": {
+      "name": "Paradise",
+      "link": "https://music.163.com/album?id=3439093"
+    }
+  },
+  {
+    "name": "Ego",
+    "link": "https://music.163.com/song?id=29922205",
+    "duration": "04:16",
+    "artists": [
+      { "name": "Indila", "link": "https://music.163.com/artist?id=199144" }
+    ],
+    "album": {
+      "name": "Mini World (Deluxe)",
+      "link": "https://music.163.com/album?id=3087017"
+    }
+  },
+  {
+    "name": "Used To",
+    "link": "https://music.163.com/song?id=1347814906",
+    "duration": "02:48",
+    "artists": [
+      {
+        "name": "James Carter",
+        "link": "https://music.163.com/artist?id=12047749"
+      },
+      { "name": "Kaii", "link": "https://music.163.com/artist?id=28457718" }
+    ],
+    "album": {
+      "name": "Used To",
+      "link": "https://music.163.com/album?id=75670536"
+    }
+  },
+  {
+    "name": "Renaissance",
+    "link": "https://music.163.com/song?id=39324743",
+    "duration": "02:59",
+    "artists": [
+      {
+        "name": "Steve James",
+        "link": "https://music.163.com/artist?id=43322"
+      },
+      { "name": "Clairity", "link": "https://music.163.com/artist?id=1060082" }
+    ],
+    "album": {
+      "name": "Renaissance",
+      "link": "https://music.163.com/album?id=3426877"
+    }
+  },
+  {
+    "name": "Paradis perdus",
+    "link": "https://music.163.com/song?id=28618124",
+    "duration": "03:35",
+    "artists": [
+      {
+        "name": "Christine and the Queens",
+        "link": "https://music.163.com/artist?id=734114"
+      }
+    ],
+    "album": {
+      "name": "Chaleur Humaine",
+      "link": "https://music.163.com/album?id=2858907"
+    }
+  },
+  {
+    "name": "Broken Hearts",
+    "link": "https://music.163.com/song?id=1399335951",
+    "duration": "03:09",
+    "artists": [
+      {
+        "name": "Justin Caruso",
+        "link": "https://music.163.com/artist?id=1193462"
+      },
+      { "name": "Hilda", "link": "https://music.163.com/artist?id=60265" }
+    ],
+    "album": {
+      "name": "Broken Hearts",
+      "link": "https://music.163.com/album?id=82767855"
+    }
+  },
+  {
+    "name": "Magnetic",
+    "link": "https://music.163.com/song?id=27733907",
+    "duration": "03:54",
+    "artists": [
+      { "name": "Jessie J", "link": "https://music.163.com/artist?id=62662" }
+    ],
+    "album": {
+      "name": "Alive (Deluxe Edition)",
+      "link": "https://music.163.com/album?id=2665036"
+    }
+  },
+  {
+    "name": "ESC",
+    "link": "https://music.163.com/song?id=36586817",
+    "duration": "04:48",
+    "artists": [
+      { "name": "Alexander", "link": "https://music.163.com/artist?id=28580" },
+      { "name": "Sander W.", "link": "https://music.163.com/artist?id=1155148" }
+    ],
+    "album": { "name": "ESC", "link": "https://music.163.com/album?id=3394638" }
+  },
+  {
+    "name": "We Will Meet Again (Radio Edit)",
+    "link": "https://music.163.com/song?id=1432333296",
+    "duration": "03:20",
+    "artists": [
+      {
+        "name": "Dr. Peacock",
+        "link": "https://music.163.com/artist?id=12278430"
+      }
+    ],
+    "album": {
+      "name": "We Will Meet Again (Radio Edit)",
+      "link": "https://music.163.com/album?id=86650270"
+    }
+  },
+  {
+    "name": "Close Enough",
+    "link": "https://music.163.com/song?id=1364147128",
+    "duration": "03:00",
+    "artists": [
+      { "name": "Jai Nova", "link": "https://music.163.com/artist?id=1083105" },
+      { "name": "Luma", "link": "https://music.163.com/artist?id=211460" }
+    ],
+    "album": {
+      "name": "Close Enough",
+      "link": "https://music.163.com/album?id=79014751"
+    }
+  },
+  {
+    "name": "Just A Feeling",
+    "link": "https://music.163.com/song?id=21253869",
+    "duration": "03:46",
+    "artists": [
+      { "name": "Maroon 5", "link": "https://music.163.com/artist?id=96266" }
+    ],
+    "album": {
+      "name": "Hands All Over (International Deluxe)",
+      "link": "https://music.163.com/album?id=1963859"
+    }
+  },
+  {
+    "name": "Take It off",
+    "link": "https://music.163.com/song?id=1337340011",
+    "duration": "03:14",
+    "artists": [
+      {
+        "name": "Two Friends",
+        "link": "https://music.163.com/artist?id=536718"
+      }
+    ],
+    "album": {
+      "name": "Take It off",
+      "link": "https://music.163.com/album?id=75043818"
+    }
+  },
+  {
+    "name": "Lost Control (Original Mix)",
+    "link": "https://music.163.com/song?id=417859039",
+    "duration": "04:29",
+    "artists": [
+      {
+        "name": "Tyron Hapi",
+        "link": "https://music.163.com/artist?id=1191114"
+      },
+      { "name": "Bianca", "link": "https://music.163.com/artist?id=50563" }
+    ],
+    "album": {
+      "name": "Lost Control",
+      "link": "https://music.163.com/album?id=34738443"
+    }
+  },
+  {
+    "name": "We Are The Fallen",
+    "link": "https://music.163.com/song?id=1307108945",
+    "duration": "03:23",
+    "artists": [
+      {
+        "name": "Sub Zero Project",
+        "link": "https://music.163.com/artist?id=1098103"
+      },
+      {
+        "name": "Phuture Noize",
+        "link": "https://music.163.com/artist?id=808091"
+      }
+    ],
+    "album": {
+      "name": "We Are The Fallen",
+      "link": "https://music.163.com/album?id=72944410"
+    }
+  },
+  {
+    "name": "Brother",
+    "link": "https://music.163.com/song?id=485960410",
+    "duration": "03:22",
+    "artists": [
+      { "name": "Kodaline", "link": "https://music.163.com/artist?id=727007" }
+    ],
+    "album": {
+      "name": "Brother",
+      "link": "https://music.163.com/album?id=35663026"
+    }
+  },
+  {
+    "name": "Siren (Kaan Pars Remix)",
+    "link": "https://music.163.com/song?id=1401863952",
+    "duration": "02:35",
+    "artists": [
+      { "name": "Panuma", "link": "https://music.163.com/artist?id=12450239" },
+      {
+        "name": "Tokyo Project",
+        "link": "https://music.163.com/artist?id=15240796"
+      },
+      { "name": "Emiah", "link": "https://music.163.com/artist?id=30563954" }
+    ],
+    "album": {
+      "name": "Siren (The Remixes)",
+      "link": "https://music.163.com/album?id=83100865"
+    }
+  },
+  {
+    "name": "Synthia (Radio Edit)",
+    "link": "https://music.163.com/song?id=41667881",
+    "duration": "03:17",
+    "artists": [
+      {
+        "name": "Snatt & Vix",
+        "link": "https://music.163.com/artist?id=831415"
+      }
+    ],
+    "album": {
+      "name": "TrancENDancE",
+      "link": "https://music.163.com/album?id=3451944"
+    }
+  },
+  {
+    "name": "Wolves",
+    "link": "https://music.163.com/song?id=515269424",
+    "duration": "03:17",
+    "artists": [
+      {
+        "name": "Selena Gomez",
+        "link": "https://music.163.com/artist?id=140196"
+      },
+      {
+        "name": "Marshmello",
+        "link": "https://music.163.com/artist?id=1060019"
+      }
+    ],
+    "album": {
+      "name": "Wolves",
+      "link": "https://music.163.com/album?id=36672203"
+    }
+  },
+  {
+    "name": "Good Girls",
+    "link": "https://music.163.com/song?id=463164521",
+    "duration": "04:09",
+    "artists": [
+      { "name": "LANY", "link": "https://music.163.com/artist?id=999460" }
+    ],
+    "album": {
+      "name": "LANY",
+      "link": "https://music.163.com/album?id=35670398"
+    }
+  },
+  {
+    "name": "Let Me See Ya",
+    "link": "https://music.163.com/song?id=1426997313",
+    "duration": "02:49",
+    "artists": [
+      { "name": "Zatox", "link": "https://music.163.com/artist?id=142996" }
+    ],
+    "album": {
+      "name": "Let Me See Ya",
+      "link": "https://music.163.com/album?id=86105086"
+    }
+  },
+  {
+    "name": "Dancing With Your Ghost",
+    "link": "https://music.163.com/song?id=1374329431",
+    "duration": "03:17",
+    "artists": [
+      {
+        "name": "Sasha Sloan",
+        "link": "https://music.163.com/artist?id=12646102"
+      }
+    ],
+    "album": {
+      "name": "Dancing With Your Ghost",
+      "link": "https://music.163.com/album?id=80029518"
+    }
+  }
+]

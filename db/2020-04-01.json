@@ -1,0 +1,455 @@
+[
+  {
+    "name": "In Flames",
+    "link": "https://music.163.com/song?id=548650022",
+    "duration": "03:24",
+    "artists": [
+      { "name": "Dabin", "link": "https://music.163.com/artist?id=783446" },
+      {
+        "name": "Lexi Norton",
+        "link": "https://music.163.com/artist?id=29556490"
+      }
+    ],
+    "album": {
+      "name": "Pyres",
+      "link": "https://music.163.com/album?id=38084015"
+    }
+  },
+  {
+    "name": "Paradise (Deniz Koyu Festival Mix)",
+    "link": "https://music.163.com/song?id=1319011647",
+    "duration": "04:03",
+    "artists": [
+      {
+        "name": "Nicky Romero",
+        "link": "https://music.163.com/artist?id=195142"
+      },
+      {
+        "name": "Deniz Koyu",
+        "link": "https://music.163.com/artist?id=201960"
+      },
+      {
+        "name": "Walk off the Earth",
+        "link": "https://music.163.com/artist?id=105493"
+      }
+    ],
+    "album": {
+      "name": "Paradise (Deniz Koyu Festival Mix)",
+      "link": "https://music.163.com/album?id=73992945"
+    }
+  },
+  {
+    "name": "Thinking Bout You",
+    "link": "https://music.163.com/song?id=1386785723",
+    "duration": "03:04",
+    "artists": [
+      { "name": "Disero", "link": "https://music.163.com/artist?id=14675307" },
+      {
+        "name": "Bertie Scott",
+        "link": "https://music.163.com/artist?id=32696924"
+      }
+    ],
+    "album": {
+      "name": "Thinking Bout You",
+      "link": "https://music.163.com/album?id=81164514"
+    }
+  },
+  {
+    "name": "Sugar",
+    "link": "https://music.163.com/song?id=565975083",
+    "duration": "03:12",
+    "artists": [
+      { "name": "Kozoro", "link": "https://music.163.com/artist?id=1050567" }
+    ],
+    "album": {
+      "name": "Sugar",
+      "link": "https://music.163.com/album?id=39211043"
+    }
+  },
+  {
+    "name": "You & I",
+    "link": "https://music.163.com/song?id=1343659324",
+    "duration": "03:08",
+    "artists": [
+      { "name": "Refuzion", "link": "https://music.163.com/artist?id=1081221" }
+    ],
+    "album": {
+      "name": "You & I",
+      "link": "https://music.163.com/album?id=75415504"
+    }
+  },
+  {
+    "name": "18",
+    "link": "https://music.163.com/song?id=1359818025",
+    "duration": "03:16",
+    "artists": [
+      { "name": "Miles Away", "link": "https://music.163.com/artist?id=96821" },
+      { "name": "RYYZN", "link": "https://music.163.com/artist?id=31280623" }
+    ],
+    "album": {
+      "name": "18 ",
+      "link": "https://music.163.com/album?id=78618882"
+    }
+  },
+  {
+    "name": "Choices (Original mix)",
+    "link": "https://music.163.com/song?id=484058225",
+    "duration": "08:29",
+    "artists": [
+      {
+        "name": "Roald Velden",
+        "link": "https://music.163.com/artist?id=178498"
+      }
+    ],
+    "album": {
+      "name": "Your a Star in My Sky",
+      "link": "https://music.163.com/album?id=35623065"
+    }
+  },
+  {
+    "name": "It's Just You",
+    "link": "https://music.163.com/song?id=1368704142",
+    "duration": "03:48",
+    "artists": [
+      { "name": "Madnap", "link": "https://music.163.com/artist?id=896042" },
+      { "name": "Yetep", "link": "https://music.163.com/artist?id=12356399" },
+      {
+        "name": "Miranda Glory",
+        "link": "https://music.163.com/artist?id=12463504"
+      }
+    ],
+    "album": {
+      "name": "It's Just You",
+      "link": "https://music.163.com/album?id=79511938"
+    }
+  },
+  {
+    "name": "The Light In Your Mind",
+    "link": "https://music.163.com/song?id=485920360",
+    "duration": "03:53",
+    "artists": [
+      {
+        "name": "AJonnyCool",
+        "link": "https://music.163.com/artist?id=12282902"
+      }
+    ],
+    "album": {
+      "name": "Mind",
+      "link": "https://music.163.com/album?id=35652861"
+    }
+  },
+  {
+    "name": "Cry",
+    "link": "https://music.163.com/song?id=3314187",
+    "duration": "03:55",
+    "artists": [
+      { "name": "Rihanna", "link": "https://music.163.com/artist?id=72724" }
+    ],
+    "album": {
+      "name": "Good Girl Gone Bad",
+      "link": "https://music.163.com/album?id=335677"
+    }
+  },
+  {
+    "name": "Revolution (Original Mix)",
+    "link": "https://music.163.com/song?id=29474008",
+    "duration": "06:49",
+    "artists": [
+      {
+        "name": "Arctic Moon",
+        "link": "https://music.163.com/artist?id=820034"
+      },
+      { "name": "Noire Lee", "link": "https://music.163.com/artist?id=900143" }
+    ],
+    "album": {
+      "name": "Revolution",
+      "link": "https://music.163.com/album?id=3030814"
+    }
+  },
+  {
+    "name": "Medicine",
+    "link": "https://music.163.com/song?id=1306597286",
+    "duration": "03:45",
+    "artists": [
+      { "name": "Robinson", "link": "https://music.163.com/artist?id=12448024" }
+    ],
+    "album": {
+      "name": "Medicine",
+      "link": "https://music.163.com/album?id=72802257"
+    }
+  },
+  {
+    "name": "You're My Destination",
+    "link": "https://music.163.com/song?id=22227965",
+    "duration": "03:44",
+    "artists": [
+      {
+        "name": "Helene Fischer",
+        "link": "https://music.163.com/artist?id=60252"
+      }
+    ],
+    "album": {
+      "name": "The English Ones",
+      "link": "https://music.163.com/album?id=2043251"
+    }
+  },
+  {
+    "name": "Stay Alive",
+    "link": "https://music.163.com/song?id=28143753",
+    "duration": "04:26",
+    "artists": [
+      {
+        "name": "José González",
+        "link": "https://music.163.com/artist?id=35366"
+      }
+    ],
+    "album": {
+      "name": "The Secret Life Of Walter Mitty (Music From And Inspired By The Motion Picture)",
+      "link": "https://music.163.com/album?id=2735166"
+    }
+  },
+  {
+    "name": "Marfa",
+    "link": "https://music.163.com/song?id=28911985",
+    "duration": "05:37",
+    "artists": [
+      {
+        "name": "Wildcat! Wildcat!",
+        "link": "https://music.163.com/artist?id=830060"
+      }
+    ],
+    "album": {
+      "name": "No Moon At All",
+      "link": "https://music.163.com/album?id=2922783"
+    }
+  },
+  {
+    "name": "Escape",
+    "link": "https://music.163.com/song?id=403012527",
+    "duration": "03:02",
+    "artists": [
+      { "name": "Dripice", "link": "https://music.163.com/artist?id=1050671" }
+    ],
+    "album": {
+      "name": "Escape",
+      "link": "https://music.163.com/album?id=34477481"
+    }
+  },
+  {
+    "name": "Falling",
+    "link": "https://music.163.com/song?id=1354342255",
+    "duration": "02:52",
+    "artists": [
+      { "name": "Cyber", "link": "https://music.163.com/artist?id=1072052" }
+    ],
+    "album": {
+      "name": "Falling",
+      "link": "https://music.163.com/album?id=78209328"
+    }
+  },
+  {
+    "name": "Klanga",
+    "link": "https://music.163.com/song?id=29525317",
+    "duration": "03:44",
+    "artists": [
+      { "name": "Gostan", "link": "https://music.163.com/artist?id=1102319" }
+    ],
+    "album": {
+      "name": "About: Berlin Vol: 8",
+      "link": "https://music.163.com/album?id=3038388"
+    }
+  },
+  {
+    "name": "Ahead Of Us (Original Mix)",
+    "link": "https://music.163.com/song?id=28315929",
+    "duration": "05:15",
+    "artists": [
+      {
+        "name": "Lush & Simon",
+        "link": "https://music.163.com/artist?id=358207"
+      },
+      { "name": "Tom Swoon", "link": "https://music.163.com/artist?id=725010" }
+    ],
+    "album": {
+      "name": "Ahead of Us",
+      "link": "https://music.163.com/album?id=2774131"
+    }
+  },
+  {
+    "name": "Too Late",
+    "link": "https://music.163.com/song?id=1346466043",
+    "duration": "03:05",
+    "artists": [
+      {
+        "name": "We Architects",
+        "link": "https://music.163.com/artist?id=1178098"
+      },
+      {
+        "name": "Abi F Jones",
+        "link": "https://music.163.com/artist?id=1137160"
+      }
+    ],
+    "album": {
+      "name": "Too Late",
+      "link": "https://music.163.com/album?id=75587587"
+    }
+  },
+  {
+    "name": "I've Learned (Radio Edit)",
+    "link": "https://music.163.com/song?id=545655377",
+    "duration": "03:06",
+    "artists": [
+      { "name": "NEIMY", "link": "https://music.163.com/artist?id=12742289" }
+    ],
+    "album": {
+      "name": "I've Learned",
+      "link": "https://music.163.com/album?id=37767663"
+    }
+  },
+  {
+    "name": "firefly",
+    "link": "https://music.163.com/song?id=1313314721",
+    "duration": "03:40",
+    "artists": [
+      {
+        "name": "Jeremy Zucker",
+        "link": "https://music.163.com/artist?id=12096183"
+      }
+    ],
+    "album": {
+      "name": "summer,",
+      "link": "https://music.163.com/album?id=73669997"
+    }
+  },
+  {
+    "name": "Polaroid",
+    "link": "https://music.163.com/song?id=444324728",
+    "duration": "02:48",
+    "artists": [
+      {
+        "name": "Virginia To Vegas",
+        "link": "https://music.163.com/artist?id=942191"
+      }
+    ],
+    "album": {
+      "name": "Utopian",
+      "link": "https://music.163.com/album?id=35012380"
+    }
+  },
+  {
+    "name": "Silent Skies",
+    "link": "https://music.163.com/song?id=486814261",
+    "duration": "04:06",
+    "artists": [
+      {
+        "name": "Seven Lions",
+        "link": "https://music.163.com/artist?id=44204"
+      },
+      { "name": "Karra", "link": "https://music.163.com/artist?id=1081582" }
+    ],
+    "album": {
+      "name": "Where I Won’t Be Found",
+      "link": "https://music.163.com/album?id=35578313"
+    }
+  },
+  {
+    "name": "Sync (Full Version)",
+    "link": "https://music.163.com/song?id=434974448",
+    "duration": "03:36",
+    "artists": [
+      { "name": "Andreas B.", "link": "https://music.163.com/artist?id=299713" }
+    ],
+    "album": {
+      "name": "Sync (Full Version)",
+      "link": "https://music.163.com/album?id=34908140"
+    }
+  },
+  {
+    "name": "Alternative Lights",
+    "link": "https://music.163.com/song?id=516318173",
+    "duration": "06:07",
+    "artists": [
+      { "name": "Cosmaks", "link": "https://music.163.com/artist?id=12262446" },
+      { "name": "Armedio", "link": "https://music.163.com/artist?id=12708080" }
+    ],
+    "album": {
+      "name": "Alternative Lights",
+      "link": "https://music.163.com/album?id=36701049"
+    }
+  },
+  {
+    "name": "Holding On Alone ",
+    "link": "https://music.163.com/song?id=30987288",
+    "duration": "03:05",
+    "artists": [
+      {
+        "name": "Trademark",
+        "link": "https://music.163.com/artist?id=12145030"
+      },
+      { "name": "Foxes", "link": "https://music.163.com/artist?id=57950" },
+      { "name": "DHT", "link": "https://music.163.com/artist?id=131623" },
+      { "name": "Askery", "link": "https://music.163.com/artist?id=12066092" },
+      { "name": "Lash", "link": "https://music.163.com/artist?id=12007364" },
+      { "name": "Laurell", "link": "https://music.163.com/artist?id=66039" }
+    ],
+    "album": {
+      "name": "Holding On Alone",
+      "link": "https://music.163.com/album?id=3109049"
+    }
+  },
+  {
+    "name": "Frozen (Disney Tool) [Hidden Track]",
+    "link": "https://music.163.com/song?id=34586429",
+    "duration": "04:39",
+    "artists": [
+      { "name": "Da Tweekaz", "link": "https://music.163.com/artist?id=334026" }
+    ],
+    "album": {
+      "name": "Tweekay14 (The Ultimate Collection)",
+      "link": "https://music.163.com/album?id=3288101"
+    }
+  },
+  {
+    "name": "Annihilation",
+    "link": "https://music.163.com/song?id=1294900532",
+    "duration": "03:39",
+    "artists": [
+      {
+        "name": "Arctic Moon",
+        "link": "https://music.163.com/artist?id=820034"
+      }
+    ],
+    "album": {
+      "name": "Annihilation",
+      "link": "https://music.163.com/album?id=71907640"
+    }
+  },
+  {
+    "name": "I'll Go On",
+    "link": "https://music.163.com/song?id=419594778",
+    "duration": "03:12",
+    "artists": [
+      { "name": "Yal!X", "link": "https://music.163.com/artist?id=1049671" }
+    ],
+    "album": {
+      "name": "I'll Go On",
+      "link": "https://music.163.com/album?id=34767245"
+    }
+  },
+  {
+    "name": "Ava Max-Sweet but Psycho（dj苏刚 / Jчп remix）",
+    "link": "https://music.163.com/song?id=1361270742",
+    "duration": "03:47",
+    "artists": [
+      {
+        "name": "苏刚.Music",
+        "link": "https://music.163.com/artist?id=30647740"
+      },
+      { "name": "AEZR", "link": "https://music.163.com/artist?id=32628542" }
+    ],
+    "album": {
+      "name": "抖腿EA7",
+      "link": "https://music.163.com/album?id=78532816"
+    }
+  }
+]

@@ -1,0 +1,442 @@
+[
+  {
+    "name": "Sayonara",
+    "link": "https://music.163.com/song?id=1373142332",
+    "duration": "02:36",
+    "artists": [
+      { "name": "BEAUZ", "link": "https://music.163.com/artist?id=12131436" },
+      {
+        "name": "Maggie Szabo",
+        "link": "https://music.163.com/artist?id=12008039"
+      }
+    ],
+    "album": {
+      "name": "Sayonara",
+      "link": "https://music.163.com/album?id=79915501"
+    }
+  },
+  {
+    "name": "Once Upon a Time",
+    "link": "https://music.163.com/song?id=1299570939",
+    "duration": "03:26",
+    "artists": [
+      {
+        "name": "Max Oazo",
+        "link": "https://music.163.com/artist?id=13159084"
+      },
+      { "name": "Moonessa", "link": "https://music.163.com/artist?id=29834706" }
+    ],
+    "album": {
+      "name": "Once Upon a Time",
+      "link": "https://music.163.com/album?id=72073258"
+    }
+  },
+  {
+    "name": "Inside Out",
+    "link": "https://music.163.com/song?id=1366897971",
+    "duration": "02:56",
+    "artists": [
+      { "name": "Mokita", "link": "https://music.163.com/artist?id=12033046" }
+    ],
+    "album": {
+      "name": "Inside Out",
+      "link": "https://music.163.com/album?id=79310713"
+    }
+  },
+  {
+    "name": "But Us",
+    "link": "https://music.163.com/song?id=1371093396",
+    "duration": "03:06",
+    "artists": [
+      {
+        "name": "Florian Picasso",
+        "link": "https://music.163.com/artist?id=358265"
+      },
+      { "name": "Echosmith", "link": "https://music.163.com/artist?id=794129" }
+    ],
+    "album": {
+      "name": "But Us",
+      "link": "https://music.163.com/album?id=79718855"
+    }
+  },
+  {
+    "name": "Together",
+    "link": "https://music.163.com/song?id=1368494922",
+    "duration": "03:07",
+    "artists": [
+      {
+        "name": "Joakim Molitor",
+        "link": "https://music.163.com/artist?id=13972238"
+      }
+    ],
+    "album": {
+      "name": "Together",
+      "link": "https://music.163.com/album?id=79479358"
+    }
+  },
+  {
+    "name": "What I Like About You (Acoustic)",
+    "link": "https://music.163.com/song?id=1364329956",
+    "duration": "03:56",
+    "artists": [
+      {
+        "name": "Jonas Blue",
+        "link": "https://music.163.com/artist?id=1192069"
+      },
+      {
+        "name": "Theresa Rex",
+        "link": "https://music.163.com/artist?id=30282713"
+      }
+    ],
+    "album": {
+      "name": "What I Like About You (Acoustic)",
+      "link": "https://music.163.com/album?id=79035875"
+    }
+  },
+  {
+    "name": "Too Far (feat. Cory Friesenhan)",
+    "link": "https://music.163.com/song?id=1314630523",
+    "duration": "02:53",
+    "artists": [
+      { "name": "Jasted", "link": "https://music.163.com/artist?id=12474826" },
+      { "name": "Foxa", "link": "https://music.163.com/artist?id=465662" },
+      {
+        "name": "Chester Young",
+        "link": "https://music.163.com/artist?id=13703846"
+      },
+      {
+        "name": "Cory Friesenhan",
+        "link": "https://music.163.com/artist?id=1178257"
+      }
+    ],
+    "album": {
+      "name": "Too Far (feat. Cory Friesenhan)",
+      "link": "https://music.163.com/album?id=73741366"
+    }
+  },
+  {
+    "name": "Good Morning Jay",
+    "link": "https://music.163.com/song?id=1303019532",
+    "duration": "02:33",
+    "artists": [
+      {
+        "name": "TastyTreat",
+        "link": "https://music.163.com/artist?id=1081305"
+      },
+      {
+        "name": "Claire Ridgely",
+        "link": "https://music.163.com/artist?id=14935781"
+      }
+    ],
+    "album": {
+      "name": "Good Morning Jay",
+      "link": "https://music.163.com/album?id=72384802"
+    }
+  },
+  {
+    "name": "Life Of Sin Pt. 4",
+    "link": "https://music.163.com/song?id=1373259836",
+    "duration": "04:35",
+    "artists": [
+      { "name": "MitiS", "link": "https://music.163.com/artist?id=40245" }
+    ],
+    "album": {
+      "name": "Life Of Sin Series (2019)",
+      "link": "https://music.163.com/album?id=79931476"
+    }
+  },
+  {
+    "name": "Alive",
+    "link": "https://music.163.com/song?id=1341520066",
+    "duration": "06:05",
+    "artists": [
+      { "name": "Dabin", "link": "https://music.163.com/artist?id=783446" },
+      { "name": "Runn", "link": "https://music.163.com/artist?id=15237536" }
+    ],
+    "album": {
+      "name": "Alive",
+      "link": "https://music.163.com/album?id=75292055"
+    }
+  },
+  {
+    "name": "Taking Over (ft. Miyoki)",
+    "link": "https://music.163.com/song?id=29484193",
+    "duration": "03:42",
+    "artists": [
+      {
+        "name": "Rob Gasser",
+        "link": "https://music.163.com/artist?id=762199"
+      },
+      { "name": "Miyoki", "link": "https://music.163.com/artist?id=1132062" }
+    ],
+    "album": {
+      "name": "Get Mad EP",
+      "link": "https://music.163.com/album?id=3031713"
+    }
+  },
+  {
+    "name": "Fall To Light",
+    "link": "https://music.163.com/song?id=30512852",
+    "duration": "03:01",
+    "artists": [
+      { "name": "Laszlo", "link": "https://music.163.com/artist?id=38725" }
+    ],
+    "album": {
+      "name": "Fall To Light",
+      "link": "https://music.163.com/album?id=3102526"
+    }
+  },
+  {
+    "name": "Colors",
+    "link": "https://music.163.com/song?id=1372505540",
+    "duration": "03:24",
+    "artists": [
+      { "name": "Suyano", "link": "https://music.163.com/artist?id=647777" },
+      { "name": "Wasback", "link": "https://music.163.com/artist?id=12474739" },
+      {
+        "name": "Daimy Lotus",
+        "link": "https://music.163.com/artist?id=12108351"
+      }
+    ],
+    "album": {
+      "name": "Colors",
+      "link": "https://music.163.com/album?id=79848898"
+    }
+  },
+  {
+    "name": "Never Let Me Go",
+    "link": "https://music.163.com/song?id=461080771",
+    "duration": "04:51",
+    "artists": [
+      {
+        "name": "Virtual Riot",
+        "link": "https://music.163.com/artist?id=813244"
+      }
+    ],
+    "album": {
+      "name": "Throw Back",
+      "link": "https://music.163.com/album?id=35188561"
+    }
+  },
+  {
+    "name": "Break My Heart",
+    "link": "https://music.163.com/song?id=1433933825",
+    "duration": "03:41",
+    "artists": [
+      { "name": "Dua Lipa", "link": "https://music.163.com/artist?id=1135086" }
+    ],
+    "album": {
+      "name": "Future Nostalgia",
+      "link": "https://music.163.com/album?id=86827685"
+    }
+  },
+  {
+    "name": "7 Billion",
+    "link": "https://music.163.com/song?id=513357705",
+    "duration": "04:35",
+    "artists": [
+      { "name": "Gjan", "link": "https://music.163.com/artist?id=851014" }
+    ],
+    "album": {
+      "name": "Do It",
+      "link": "https://music.163.com/album?id=36579122"
+    }
+  },
+  {
+    "name": "Rabbit Hole",
+    "link": "https://music.163.com/song?id=1386887772",
+    "duration": "03:48",
+    "artists": [
+      { "name": "AViVA", "link": "https://music.163.com/artist?id=12074178" }
+    ],
+    "album": {
+      "name": "Rabbit Hole",
+      "link": "https://music.163.com/album?id=81175435"
+    }
+  },
+  {
+    "name": "Fallen",
+    "link": "https://music.163.com/song?id=1446417327",
+    "duration": "03:52",
+    "artists": [
+      {
+        "name": "Gregor Potter",
+        "link": "https://music.163.com/artist?id=908075"
+      },
+      { "name": "Linka", "link": "https://music.163.com/artist?id=35746386" }
+    ],
+    "album": {
+      "name": "Fallen",
+      "link": "https://music.163.com/album?id=89127377"
+    }
+  },
+  {
+    "name": "Come Back Down",
+    "link": "https://music.163.com/song?id=27978505",
+    "duration": "04:08",
+    "artists": [
+      { "name": "Mediks", "link": "https://music.163.com/artist?id=740032" }
+    ],
+    "album": {
+      "name": "Cannibals EP",
+      "link": "https://music.163.com/album?id=2707533"
+    }
+  },
+  {
+    "name": "New Shoes",
+    "link": "https://music.163.com/song?id=1445176153",
+    "duration": "04:23",
+    "artists": [
+      { "name": "Feed Me", "link": "https://music.163.com/artist?id=33728" }
+    ],
+    "album": {
+      "name": "New Shoes",
+      "link": "https://music.163.com/album?id=88879746"
+    }
+  },
+  {
+    "name": "Bust It Out",
+    "link": "https://music.163.com/song?id=1430417105",
+    "duration": "03:10",
+    "artists": [
+      { "name": "FWLR", "link": "https://music.163.com/artist?id=12062147" }
+    ],
+    "album": {
+      "name": "Bust It Out",
+      "link": "https://music.163.com/album?id=86454827"
+    }
+  },
+  {
+    "name": "Voices",
+    "link": "https://music.163.com/song?id=1408587300",
+    "duration": "03:16",
+    "artists": [
+      {
+        "name": "Suprafive",
+        "link": "https://music.163.com/artist?id=1022142"
+      },
+      { "name": "ReMan", "link": "https://music.163.com/artist?id=12763130" }
+    ],
+    "album": {
+      "name": "Voices",
+      "link": "https://music.163.com/album?id=83987278"
+    }
+  },
+  {
+    "name": "Wandering Souls",
+    "link": "https://music.163.com/song?id=1428592119",
+    "duration": "04:06",
+    "artists": [
+      { "name": "Tom Budin", "link": "https://music.163.com/artist?id=797014" },
+      { "name": "KOPA", "link": "https://music.163.com/artist?id=28457279" }
+    ],
+    "album": {
+      "name": "Wandering Souls",
+      "link": "https://music.163.com/album?id=86268173"
+    }
+  },
+  {
+    "name": "1999",
+    "link": "https://music.163.com/song?id=1390487332",
+    "duration": "03:09",
+    "artists": [
+      { "name": "Charli XCX", "link": "https://music.163.com/artist?id=53092" },
+      { "name": "Troye Sivan", "link": "https://music.163.com/artist?id=45129" }
+    ],
+    "album": {
+      "name": "Charli",
+      "link": "https://music.163.com/album?id=81593693"
+    }
+  },
+  {
+    "name": "To Be Alive (Original Mix)",
+    "link": "https://music.163.com/song?id=435288192",
+    "duration": "04:33",
+    "artists": [
+      { "name": "Puppet", "link": "https://music.163.com/artist?id=152355" },
+      {
+        "name": "Aaron Richards",
+        "link": "https://music.163.com/artist?id=14055238"
+      }
+    ],
+    "album": {
+      "name": "To Be Alive",
+      "link": "https://music.163.com/album?id=34912043"
+    }
+  },
+  {
+    "name": "Scared",
+    "link": "https://music.163.com/song?id=1428655968",
+    "duration": "03:12",
+    "artists": [
+      {
+        "name": "Half an Orange",
+        "link": "https://music.163.com/artist?id=12492297"
+      },
+      { "name": "WRLD", "link": "https://music.163.com/artist?id=948057" }
+    ],
+    "album": {
+      "name": "Scared",
+      "link": "https://music.163.com/album?id=86276906"
+    }
+  },
+  {
+    "name": "Fade ",
+    "link": "https://music.163.com/song?id=445143675",
+    "duration": "03:27",
+    "artists": [
+      {
+        "name": "Adventure Club",
+        "link": "https://music.163.com/artist?id=792045"
+      },
+      { "name": "Zak Waters", "link": "https://music.163.com/artist?id=46367" }
+    ],
+    "album": {
+      "name": "Red // Blue",
+      "link": "https://music.163.com/album?id=35012476"
+    }
+  },
+  {
+    "name": "More Than We Compare",
+    "link": "https://music.163.com/song?id=1428835320",
+    "duration": "03:01",
+    "artists": [
+      {
+        "name": "Will Sparks",
+        "link": "https://music.163.com/artist?id=725093"
+      },
+      { "name": "MorganJ", "link": "https://music.163.com/artist?id=1182290" }
+    ],
+    "album": {
+      "name": "More Than We Compare",
+      "link": "https://music.163.com/album?id=86295415"
+    }
+  },
+  {
+    "name": "WISH",
+    "link": "https://music.163.com/song?id=1403628349",
+    "duration": "03:32",
+    "artists": [
+      {
+        "name": "CloudNone",
+        "link": "https://music.163.com/artist?id=28407606"
+      }
+    ],
+    "album": {
+      "name": "WISH",
+      "link": "https://music.163.com/album?id=83365354"
+    }
+  },
+  {
+    "name": "Tide",
+    "link": "https://music.163.com/song?id=39443010",
+    "duration": "04:20",
+    "artists": [
+      { "name": "Foria", "link": "https://music.163.com/artist?id=1181950" }
+    ],
+    "album": {
+      "name": " Tide (feat. Ke'nekt)",
+      "link": "https://music.163.com/album?id=3434004"
+    }
+  }
+]

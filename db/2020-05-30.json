@@ -1,0 +1,448 @@
+[
+  {
+    "name": "Wide Eyed",
+    "link": "https://music.163.com/song?id=431096495",
+    "duration": "02:42",
+    "artists": [
+      {
+        "name": "Billy Lockett",
+        "link": "https://music.163.com/artist?id=12121180"
+      }
+    ],
+    "album": {
+      "name": "Wide Eyed",
+      "link": "https://music.163.com/album?id=34874621"
+    }
+  },
+  {
+    "name": "Youth",
+    "link": "https://music.163.com/song?id=414980497",
+    "duration": "03:06",
+    "artists": [
+      {
+        "name": "Manila Killa",
+        "link": "https://music.163.com/artist?id=1147176"
+      },
+      { "name": "SATICA", "link": "https://music.163.com/artist?id=12676244" }
+    ],
+    "album": {
+      "name": "Youth",
+      "link": "https://music.163.com/album?id=34720213"
+    }
+  },
+  {
+    "name": "Wrong Direction",
+    "link": "https://music.163.com/song?id=1442165517",
+    "duration": "03:26",
+    "artists": [
+      {
+        "name": "Ilse DeLange",
+        "link": "https://music.163.com/artist?id=60368"
+      },
+      {
+        "name": "Michael Schulte",
+        "link": "https://music.163.com/artist?id=40222"
+      }
+    ],
+    "album": {
+      "name": "Wrong Direction",
+      "link": "https://music.163.com/album?id=88286256"
+    }
+  },
+  {
+    "name": "SAVED ME",
+    "link": "https://music.163.com/song?id=1438773079",
+    "duration": "03:15",
+    "artists": [
+      {
+        "name": "Jake Miller",
+        "link": "https://music.163.com/artist?id=776761"
+      }
+    ],
+    "album": {
+      "name": "SAVED ME",
+      "link": "https://music.163.com/album?id=87787415"
+    }
+  },
+  {
+    "name": "Pride - (TV动画《听我的电波吧》片尾曲)",
+    "link": "https://music.163.com/song?id=1445783796",
+    "duration": "04:33",
+    "artists": [
+      { "name": "遥海", "link": "https://music.163.com/artist?id=33551357" }
+    ],
+    "album": {
+      "name": "Pride",
+      "link": "https://music.163.com/album?id=88990287"
+    }
+  },
+  {
+    "name": "Wrecking Ball",
+    "link": "https://music.163.com/song?id=26421045",
+    "duration": "03:03",
+    "artists": [
+      {
+        "name": "Jessica Lee",
+        "link": "https://music.163.com/artist?id=296231"
+      }
+    ],
+    "album": {
+      "name": "Carried Away",
+      "link": "https://music.163.com/album?id=2491002"
+    }
+  },
+  {
+    "name": "Oats In the Water",
+    "link": "https://music.163.com/song?id=25721054",
+    "duration": "04:59",
+    "artists": [
+      { "name": "Ben Howard", "link": "https://music.163.com/artist?id=204235" }
+    ],
+    "album": {
+      "name": "The Burgh Island",
+      "link": "https://music.163.com/album?id=2296009"
+    }
+  },
+  {
+    "name": "Heartbreak Anthem",
+    "link": "https://music.163.com/song?id=1442021113",
+    "duration": "02:59",
+    "artists": [
+      {
+        "name": "Kyd The Band",
+        "link": "https://music.163.com/artist?id=12493489"
+      },
+      { "name": "gnash", "link": "https://music.163.com/artist?id=1137226" }
+    ],
+    "album": {
+      "name": "Heartbreak Anthem",
+      "link": "https://music.163.com/album?id=88265012"
+    }
+  },
+  {
+    "name": "ミスターフィクサー - (TV动画《异度侵入 ID:INVADED》片头曲)",
+    "link": "https://music.163.com/song?id=1414759694",
+    "duration": "03:39",
+    "artists": [
+      { "name": "Sou", "link": "https://music.163.com/artist?id=1193225" }
+    ],
+    "album": {
+      "name": "ミスターフィクサー",
+      "link": "https://music.163.com/album?id=84776974"
+    }
+  },
+  {
+    "name": "Licht und Schatten (From \"Tokyo Ghoul\")",
+    "link": "https://music.163.com/song?id=1316657923",
+    "duration": "04:00",
+    "artists": [
+      {
+        "name": "Shibuya Sunrise",
+        "link": "https://music.163.com/artist?id=29283376"
+      }
+    ],
+    "album": {
+      "name": "Tokyo Phantoms (A Collection of Songs from ",
+      "link": "https://music.163.com/album?id=73841213"
+    }
+  },
+  {
+    "name": "Limits",
+    "link": "https://music.163.com/song?id=31546195",
+    "duration": "03:13",
+    "artists": [
+      {
+        "name": "Arctic Lake",
+        "link": "https://music.163.com/artist?id=1063197"
+      }
+    ],
+    "album": {
+      "name": "Limits",
+      "link": "https://music.163.com/album?id=3121360"
+    }
+  },
+  {
+    "name": "Waiting For Sparks",
+    "link": "https://music.163.com/song?id=35031696",
+    "duration": "02:14",
+    "artists": [
+      { "name": "WAV", "link": "https://music.163.com/artist?id=1084125" }
+    ],
+    "album": { "name": "Nil", "link": "https://music.163.com/album?id=3164197" }
+  },
+  {
+    "name": "Far Too Far",
+    "link": "https://music.163.com/song?id=21794186",
+    "duration": "06:13",
+    "artists": [
+      {
+        "name": "Trespassers William",
+        "link": "https://music.163.com/artist?id=44304"
+      }
+    ],
+    "album": {
+      "name": "Cast",
+      "link": "https://music.163.com/album?id=2005014"
+    }
+  },
+  {
+    "name": "Sweet Talk",
+    "link": "https://music.163.com/song?id=29747640",
+    "duration": "03:32",
+    "artists": [
+      {
+        "name": "Samantha Jade",
+        "link": "https://music.163.com/artist?id=74738"
+      }
+    ],
+    "album": {
+      "name": "Sweet Talk",
+      "link": "https://music.163.com/album?id=3070475"
+    }
+  },
+  {
+    "name": "Rolling in the Deep",
+    "link": "https://music.163.com/song?id=2116996",
+    "duration": "03:48",
+    "artists": [
+      { "name": "Adele", "link": "https://music.163.com/artist?id=46487" }
+    ],
+    "album": { "name": "21", "link": "https://music.163.com/album?id=213252" }
+  },
+  {
+    "name": "good guys",
+    "link": "https://music.163.com/song?id=1447956406",
+    "duration": "03:45",
+    "artists": [
+      { "name": "LANY", "link": "https://music.163.com/artist?id=999460" }
+    ],
+    "album": {
+      "name": "good guys",
+      "link": "https://music.163.com/album?id=89422829"
+    }
+  },
+  {
+    "name": "The Space Between",
+    "link": "https://music.163.com/song?id=414003916",
+    "duration": "03:23",
+    "artists": [
+      { "name": "Cleopold", "link": "https://music.163.com/artist?id=1116327" }
+    ],
+    "album": {
+      "name": "Down in Flames",
+      "link": "https://music.163.com/album?id=3213495"
+    }
+  },
+  {
+    "name": "ΛSHES",
+    "link": "https://music.163.com/song?id=1367329337",
+    "duration": "02:21",
+    "artists": [
+      { "name": "Gemie", "link": "https://music.163.com/artist?id=12531080" }
+    ],
+    "album": {
+      "name": "プロメア ORIGINAL SOUNDTRACK",
+      "link": "https://music.163.com/album?id=79369276"
+    }
+  },
+  {
+    "name": "I'm Not OK",
+    "link": "https://music.163.com/song?id=2057291",
+    "duration": "04:00",
+    "artists": [
+      { "name": "Trent Dabbs", "link": "https://music.163.com/artist?id=45163" }
+    ],
+    "album": {
+      "name": "Future Like Snow",
+      "link": "https://music.163.com/album?id=207304"
+    }
+  },
+  {
+    "name": "Take Me",
+    "link": "https://music.163.com/song?id=442869978",
+    "duration": "03:11",
+    "artists": [
+      {
+        "name": "Anthony Keyrouz",
+        "link": "https://music.163.com/artist?id=12203139"
+      },
+      { "name": "LUDOMIR", "link": "https://music.163.com/artist?id=11992193" }
+    ],
+    "album": {
+      "name": "Take Me",
+      "link": "https://music.163.com/album?id=35017325"
+    }
+  },
+  {
+    "name": "Altern-ate-（TV动画《格莱普尼尔/被束缚的芬尼尔》OP）（翻自 H-el-ical//）",
+    "link": "https://music.163.com/song?id=1439469818",
+    "duration": "02:37",
+    "artists": [
+      { "name": "Kyle Xian", "link": "https://music.163.com/artist?id=1039350" }
+    ],
+    "album": {
+      "name": "2020四月动漫新番歌曲合集Vol.2",
+      "link": "https://music.163.com/album?id=87655112"
+    }
+  },
+  {
+    "name": "Border Line (Original Mix)",
+    "link": "https://music.163.com/song?id=463840176",
+    "duration": "06:01",
+    "artists": [
+      {
+        "name": "Ana Criado",
+        "link": "https://music.163.com/artist?id=191522"
+      },
+      {
+        "name": "Alan Morris",
+        "link": "https://music.163.com/artist?id=193174"
+      }
+    ],
+    "album": {
+      "name": "Border Line",
+      "link": "https://music.163.com/album?id=35235571"
+    }
+  },
+  {
+    "name": "君は天然色",
+    "link": "https://music.163.com/song?id=22711225",
+    "duration": "05:06",
+    "artists": [
+      { "name": "大瀧詠一", "link": "https://music.163.com/artist?id=160225" }
+    ],
+    "album": {
+      "name": "A Long Vacation",
+      "link": "https://music.163.com/album?id=2084446"
+    }
+  },
+  {
+    "name": "Another Cloud",
+    "link": "https://music.163.com/song?id=506092116",
+    "duration": "03:34",
+    "artists": [
+      { "name": "L3V3LS", "link": "https://music.163.com/artist?id=12007340" },
+      {
+        "name": "Will Watson",
+        "link": "https://music.163.com/artist?id=12333174"
+      }
+    ],
+    "album": {
+      "name": "Another Cloud",
+      "link": "https://music.163.com/album?id=36224037"
+    }
+  },
+  {
+    "name": "ハナノイロ - (TV动画《花开伊吕波》OP1 )",
+    "link": "https://music.163.com/song?id=26386031",
+    "duration": "04:04",
+    "artists": [
+      { "name": "nano.RIPE", "link": "https://music.163.com/artist?id=20799" }
+    ],
+    "album": {
+      "name": "花咲くいろは 湯乃鷺 Best Songs",
+      "link": "https://music.163.com/album?id=2474495"
+    }
+  },
+  {
+    "name": "All I See (Kicks N Licks Remix)",
+    "link": "https://music.163.com/song?id=421160521",
+    "duration": "04:01",
+    "artists": [
+      {
+        "name": "Kicks N Licks",
+        "link": "https://music.163.com/artist?id=1054126"
+      },
+      {
+        "name": "Laura Brehm",
+        "link": "https://music.163.com/artist?id=207693"
+      },
+      { "name": "Draper", "link": "https://music.163.com/artist?id=784500" }
+    ],
+    "album": {
+      "name": "All I See (Kicks N Licks Remix)",
+      "link": "https://music.163.com/album?id=34780177"
+    }
+  },
+  {
+    "name": "Dance Tonight",
+    "link": "https://music.163.com/song?id=1381578832",
+    "duration": "03:24",
+    "artists": [],
+    "album": {
+      "name": "TVアニメ「キャロル&チューズデイ」VOCAL COLLECTION Vol.1",
+      "link": "https://music.163.com/album?id=80733862"
+    }
+  },
+  {
+    "name": "SpaceX",
+    "link": "https://music.163.com/song?id=511037943",
+    "duration": "03:51",
+    "artists": [
+      { "name": "Illumate", "link": "https://music.163.com/artist?id=12717103" }
+    ],
+    "album": {
+      "name": "SpaceX",
+      "link": "https://music.163.com/album?id=36482755"
+    }
+  },
+  {
+    "name": "Maybe (Deepjack & Mr. Nu Radio Edit)",
+    "link": "https://music.163.com/song?id=402073582",
+    "duration": "04:46",
+    "artists": [
+      { "name": "Jay Sean", "link": "https://music.163.com/artist?id=35355" },
+      { "name": "Deepjack", "link": "https://music.163.com/artist?id=775036" }
+    ],
+    "album": {
+      "name": "Maybe (Deepjack & Mr. Nu Radio Edit)",
+      "link": "https://music.163.com/album?id=34477199"
+    }
+  },
+  {
+    "name": "Flashbacks",
+    "link": "https://music.163.com/song?id=862099072",
+    "duration": "02:45",
+    "artists": [
+      {
+        "name": "Marshmello",
+        "link": "https://music.163.com/artist?id=1060019"
+      }
+    ],
+    "album": {
+      "name": "Joytime II",
+      "link": "https://music.163.com/album?id=71611637"
+    }
+  },
+  {
+    "name": "It Just Comes and Goes",
+    "link": "https://music.163.com/song?id=528273378",
+    "duration": "03:34",
+    "artists": [
+      {
+        "name": "Old Man Canyon",
+        "link": "https://music.163.com/artist?id=776520"
+      }
+    ],
+    "album": {
+      "name": "Delirium B-Sides",
+      "link": "https://music.163.com/album?id=37179150"
+    }
+  },
+  {
+    "name": "Sour Candy",
+    "link": "https://music.163.com/song?id=1451492235",
+    "duration": "02:37",
+    "artists": [
+      { "name": "Lady Gaga", "link": "https://music.163.com/artist?id=64147" },
+      {
+        "name": "BLACKPINK",
+        "link": "https://music.163.com/artist?id=12068017"
+      }
+    ],
+    "album": {
+      "name": "Chromatica",
+      "link": "https://music.163.com/album?id=90095288"
+    }
+  }
+]

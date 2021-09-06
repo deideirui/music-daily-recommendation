@@ -1,0 +1,481 @@
+[
+  {
+    "name": "Falling",
+    "link": "https://music.163.com/song?id=1354342255",
+    "duration": "02:52",
+    "artists": [
+      { "name": "Cyber", "link": "https://music.163.com/artist?id=1072052" }
+    ],
+    "album": {
+      "name": "Falling",
+      "link": "https://music.163.com/album?id=78209328"
+    }
+  },
+  {
+    "name": "Hymn For The Weekend [Remix]",
+    "link": "https://music.163.com/song?id=419594258",
+    "duration": "03:50",
+    "artists": [
+      {
+        "name": "Alan Walker",
+        "link": "https://music.163.com/artist?id=1045123"
+      },
+      { "name": "Coldplay", "link": "https://music.163.com/artist?id=89365" }
+    ],
+    "album": {
+      "name": "Hymn For The Weekend [Remix]",
+      "link": "https://music.163.com/album?id=34767073"
+    }
+  },
+  {
+    "name": "Superstar (VIP Mix)",
+    "link": "https://music.163.com/song?id=1434180351",
+    "duration": "02:58",
+    "artists": [
+      {
+        "name": "David Puentez",
+        "link": "https://music.163.com/artist?id=747026"
+      },
+      {
+        "name": "Albert Neve",
+        "link": "https://music.163.com/artist?id=1178222"
+      }
+    ],
+    "album": {
+      "name": "Superstar (VIP Mix)",
+      "link": "https://music.163.com/album?id=86853306"
+    }
+  },
+  {
+    "name": "Way Back",
+    "link": "https://music.163.com/song?id=543987451",
+    "duration": "03:28",
+    "artists": [
+      { "name": "Vicetone", "link": "https://music.163.com/artist?id=747030" },
+      {
+        "name": "Cozi Zuehlsdorff",
+        "link": "https://music.163.com/artist?id=1097153"
+      }
+    ],
+    "album": {
+      "name": "Way Back",
+      "link": "https://music.163.com/album?id=37888075"
+    }
+  },
+  {
+    "name": "Let It Flow",
+    "link": "https://music.163.com/song?id=443292082",
+    "duration": "03:48",
+    "artists": [
+      { "name": "Audiofreq", "link": "https://music.163.com/artist?id=402430" },
+      {
+        "name": "Dave Revan",
+        "link": "https://music.163.com/artist?id=1087163"
+      }
+    ],
+    "album": {
+      "name": "Audiology",
+      "link": "https://music.163.com/album?id=35017374"
+    }
+  },
+  {
+    "name": "Scandinavia",
+    "link": "https://music.163.com/song?id=516818197",
+    "duration": "03:14",
+    "artists": [
+      {
+        "name": "Wasted Penguinz",
+        "link": "https://music.163.com/artist?id=816508"
+      },
+      { "name": "Adrenalize", "link": "https://music.163.com/artist?id=958018" }
+    ],
+    "album": {
+      "name": "Scandinavia",
+      "link": "https://music.163.com/album?id=36724077"
+    }
+  },
+  {
+    "name": "Beyond Butterflies",
+    "link": "https://music.163.com/song?id=1489133248",
+    "duration": "05:12",
+    "artists": [
+      { "name": "Killigrew", "link": "https://music.163.com/artist?id=38066" }
+    ],
+    "album": {
+      "name": "New Nostalgia",
+      "link": "https://music.163.com/album?id=97192560"
+    }
+  },
+  {
+    "name": "Fade Out (Dark Heart Remix)",
+    "link": "https://music.163.com/song?id=1388968659",
+    "duration": "02:57",
+    "artists": [
+      { "name": "SeeB", "link": "https://music.163.com/artist?id=1182169" },
+      {
+        "name": "Dark Heart",
+        "link": "https://music.163.com/artist?id=11991145"
+      }
+    ],
+    "album": {
+      "name": "Fade Out (Dark Heart Remix)",
+      "link": "https://music.163.com/album?id=81397469"
+    }
+  },
+  {
+    "name": "Gone (feat. Kianna)",
+    "link": "https://music.163.com/song?id=1336856653",
+    "duration": "02:52",
+    "artists": [
+      { "name": "Hoang", "link": "https://music.163.com/artist?id=27694442" },
+      { "name": "Kianna", "link": "https://music.163.com/artist?id=197017" }
+    ],
+    "album": {
+      "name": "Gone (feat. Kianna)",
+      "link": "https://music.163.com/album?id=75016971"
+    }
+  },
+  {
+    "name": "Tales Of Tomorrow",
+    "link": "https://music.163.com/song?id=30212578",
+    "duration": "03:10",
+    "artists": [
+      {
+        "name": "Dimitri Vegas & Like Mike",
+        "link": "https://music.163.com/artist?id=791298"
+      },
+      {
+        "name": "Fedde Le Grand",
+        "link": "https://music.163.com/artist?id=33528"
+      },
+      {
+        "name": "Julian Perretta",
+        "link": "https://music.163.com/artist?id=35616"
+      }
+    ],
+    "album": {
+      "name": "Tales Of Tomorrow",
+      "link": "https://music.163.com/album?id=3094323"
+    }
+  },
+  {
+    "name": "Somebody to Die For",
+    "link": "https://music.163.com/song?id=25781106",
+    "duration": "04:35",
+    "artists": [
+      { "name": "Hurts", "link": "https://music.163.com/artist?id=94043" }
+    ],
+    "album": {
+      "name": "Exile",
+      "link": "https://music.163.com/album?id=2314015"
+    }
+  },
+  {
+    "name": "If You Wanna",
+    "link": "https://music.163.com/song?id=1449663987",
+    "duration": "03:17",
+    "artists": [
+      {
+        "name": "Promise Land",
+        "link": "https://music.163.com/artist?id=208280"
+      }
+    ],
+    "album": {
+      "name": "If You Wanna",
+      "link": "https://music.163.com/album?id=89730743"
+    }
+  },
+  {
+    "name": "Surf",
+    "link": "https://music.163.com/song?id=459720807",
+    "duration": "04:00",
+    "artists": [
+      {
+        "name": "Hyper Potions",
+        "link": "https://music.163.com/artist?id=1074092"
+      }
+    ],
+    "album": {
+      "name": "Surf",
+      "link": "https://music.163.com/album?id=35174457"
+    }
+  },
+  {
+    "name": "Vision",
+    "link": "https://music.163.com/song?id=1355169504",
+    "duration": "03:54",
+    "artists": [
+      { "name": "Lost Sky", "link": "https://music.163.com/artist?id=28389556" }
+    ],
+    "album": {
+      "name": "Vision",
+      "link": "https://music.163.com/album?id=78244323"
+    }
+  },
+  {
+    "name": "You've Got Me Now",
+    "link": "https://music.163.com/song?id=425828034",
+    "duration": "03:13",
+    "artists": [
+      { "name": "Heatbeat", "link": "https://music.163.com/artist?id=136796" },
+      {
+        "name": "Eric Lumiere",
+        "link": "https://music.163.com/artist?id=537263"
+      }
+    ],
+    "album": {
+      "name": "You've Got Me Now",
+      "link": "https://music.163.com/album?id=34808108"
+    }
+  },
+  {
+    "name": "Million Miles",
+    "link": "https://music.163.com/song?id=1374602799",
+    "duration": "03:22",
+    "artists": [
+      { "name": "Mark Sixma", "link": "https://music.163.com/artist?id=178755" }
+    ],
+    "album": {
+      "name": "Million Miles",
+      "link": "https://music.163.com/album?id=80064850"
+    }
+  },
+  {
+    "name": "Lie To Me (Nicky Romero Remix)",
+    "link": "https://music.163.com/song?id=1305041063",
+    "duration": "03:27",
+    "artists": [
+      { "name": "Steve Aoki", "link": "https://music.163.com/artist?id=43608" },
+      {
+        "name": "Ina Wroldsen",
+        "link": "https://music.163.com/artist?id=60879"
+      },
+      {
+        "name": "Nicky Romero",
+        "link": "https://music.163.com/artist?id=195142"
+      }
+    ],
+    "album": {
+      "name": "Lie To Me (Remixes Part 2)",
+      "link": "https://music.163.com/album?id=72626213"
+    }
+  },
+  {
+    "name": "Anybody",
+    "link": "https://music.163.com/song?id=1406279346",
+    "duration": "02:32",
+    "artists": [
+      {
+        "name": "Asketa & Natan Chaim",
+        "link": "https://music.163.com/artist?id=32523005"
+      },
+      { "name": "Mo Falk", "link": "https://music.163.com/artist?id=28683052" }
+    ],
+    "album": {
+      "name": "Anybody",
+      "link": "https://music.163.com/album?id=83708491"
+    }
+  },
+  {
+    "name": "Kingdom",
+    "link": "https://music.163.com/song?id=1444333396",
+    "duration": "04:00",
+    "artists": [
+      { "name": "ARTY", "link": "https://music.163.com/artist?id=28883" },
+      {
+        "name": "Conrad Sewell",
+        "link": "https://music.163.com/artist?id=1050800"
+      }
+    ],
+    "album": {
+      "name": "Kingdom",
+      "link": "https://music.163.com/album?id=88703567"
+    }
+  },
+  {
+    "name": "Find You (Original Mix)",
+    "link": "https://music.163.com/song?id=544253077",
+    "duration": "03:28",
+    "artists": [
+      {
+        "name": "Robert Cristian",
+        "link": "https://music.163.com/artist?id=13505102"
+      }
+    ],
+    "album": {
+      "name": "Tell Me Why",
+      "link": "https://music.163.com/album?id=37891637"
+    }
+  },
+  {
+    "name": "Wolna",
+    "link": "https://music.163.com/song?id=26387307",
+    "duration": "04:06",
+    "artists": [
+      {
+        "name": "Mela Koteluk",
+        "link": "https://music.163.com/artist?id=757292"
+      }
+    ],
+    "album": {
+      "name": "Wolna",
+      "link": "https://music.163.com/album?id=2476048"
+    }
+  },
+  {
+    "name": "Ghost in the Machine (Original Mix)",
+    "link": "https://music.163.com/song?id=32835001",
+    "duration": "04:49",
+    "artists": [
+      {
+        "name": "Blasterjaxx",
+        "link": "https://music.163.com/artist?id=711692"
+      },
+      { "name": "MOTI", "link": "https://music.163.com/artist?id=366384" },
+      {
+        "name": "Jonathan Mendelsohn",
+        "link": "https://music.163.com/artist?id=826017"
+      }
+    ],
+    "album": {
+      "name": "Ghost In The Machine",
+      "link": "https://music.163.com/album?id=3173205"
+    }
+  },
+  {
+    "name": "Wherever You Are",
+    "link": "https://music.163.com/song?id=1345681553",
+    "duration": "02:38",
+    "artists": [
+      {
+        "name": "adam&steve",
+        "link": "https://music.163.com/artist?id=31211364"
+      },
+      {
+        "name": "Maty Noyes",
+        "link": "https://music.163.com/artist?id=12073280"
+      }
+    ],
+    "album": {
+      "name": "Wherever You Are",
+      "link": "https://music.163.com/album?id=75532598"
+    }
+  },
+  {
+    "name": "To Be Human",
+    "link": "https://music.163.com/song?id=1356599587",
+    "duration": "04:06",
+    "artists": [
+      { "name": "MARINA", "link": "https://music.163.com/artist?id=68932" }
+    ],
+    "album": {
+      "name": "LOVE",
+      "link": "https://music.163.com/album?id=78328991"
+    }
+  },
+  {
+    "name": "Tell Me (Color Source Remix)",
+    "link": "https://music.163.com/song?id=525240107",
+    "duration": "03:15",
+    "artists": [
+      {
+        "name": "Color Source",
+        "link": "https://music.163.com/artist?id=1097152"
+      },
+      {
+        "name": "PineHaven ",
+        "link": "https://music.163.com/artist?id=12047806"
+      },
+      {
+        "name": "Lilianna Wilde",
+        "link": "https://music.163.com/artist?id=14711114"
+      }
+    ],
+    "album": {
+      "name": "Tell Me (Color Source Remix)",
+      "link": "https://music.163.com/album?id=37027043"
+    }
+  },
+  {
+    "name": "Fix You",
+    "link": "https://music.163.com/song?id=27203574",
+    "duration": "04:55",
+    "artists": [
+      { "name": "Coldplay", "link": "https://music.163.com/artist?id=89365" }
+    ],
+    "album": {
+      "name": "Happy Together",
+      "link": "https://music.163.com/album?id=2591507"
+    }
+  },
+  {
+    "name": "Morning Walk (Original Mix)",
+    "link": "https://music.163.com/song?id=427373025",
+    "duration": "07:05",
+    "artists": [
+      { "name": "Musty", "link": "https://music.163.com/artist?id=12080271" }
+    ],
+    "album": {
+      "name": "SUNMELT VOL.2",
+      "link": "https://music.163.com/album?id=34840460"
+    }
+  },
+  {
+    "name": "Looking For America",
+    "link": "https://music.163.com/song?id=1383131802",
+    "duration": "02:42",
+    "artists": [
+      {
+        "name": "Lana Del Rey",
+        "link": "https://music.163.com/artist?id=66212"
+      }
+    ],
+    "album": {
+      "name": "Looking For America",
+      "link": "https://music.163.com/album?id=80863028"
+    }
+  },
+  {
+    "name": "Circle Track (Radio Edit)",
+    "link": "https://music.163.com/song?id=29023501",
+    "duration": "03:20",
+    "artists": [
+      { "name": "Arston", "link": "https://music.163.com/artist?id=776576" }
+    ],
+    "album": {
+      "name": " Circle Track",
+      "link": "https://music.163.com/album?id=2982060"
+    }
+  },
+  {
+    "name": "Curious (feat. Noctilucent)",
+    "link": "https://music.163.com/song?id=39956005",
+    "duration": "04:24",
+    "artists": [
+      { "name": "Kozoro", "link": "https://music.163.com/artist?id=1050567" },
+      {
+        "name": "Noctilucent",
+        "link": "https://music.163.com/artist?id=1150036"
+      }
+    ],
+    "album": {
+      "name": "Curious",
+      "link": "https://music.163.com/album?id=3434269"
+    }
+  },
+  {
+    "name": "Let You Down",
+    "link": "https://music.163.com/song?id=4391095",
+    "duration": "03:43",
+    "artists": [
+      {
+        "name": "The Material",
+        "link": "https://music.163.com/artist?id=103409"
+      }
+    ],
+    "album": {
+      "name": "What We Are",
+      "link": "https://music.163.com/album?id=443182"
+    }
+  }
+]

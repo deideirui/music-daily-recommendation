@@ -1,0 +1,476 @@
+[
+  {
+    "name": "X's",
+    "link": "https://music.163.com/song?id=1300269466",
+    "duration": "03:34",
+    "artists": [
+      { "name": "CMC$", "link": "https://music.163.com/artist?id=1086052" },
+      { "name": "GRX", "link": "https://music.163.com/artist?id=845068" },
+      { "name": "Icona Pop", "link": "https://music.163.com/artist?id=94773" }
+    ],
+    "album": {
+      "name": "X's",
+      "link": "https://music.163.com/album?id=72220734"
+    }
+  },
+  {
+    "name": "Exposed",
+    "link": "https://music.163.com/song?id=1325818771",
+    "duration": "03:35",
+    "artists": [
+      { "name": "APEK", "link": "https://music.163.com/artist?id=1182277" },
+      {
+        "name": "April Bender",
+        "link": "https://music.163.com/artist?id=13080174"
+      }
+    ],
+    "album": {
+      "name": "Exposed",
+      "link": "https://music.163.com/album?id=74431810"
+    }
+  },
+  {
+    "name": "Silver Lining (feat. KARRA)",
+    "link": "https://music.163.com/song?id=1398699606",
+    "duration": "03:34",
+    "artists": [
+      { "name": "ARMNHMR", "link": "https://music.163.com/artist?id=1132078" },
+      { "name": "Karra", "link": "https://music.163.com/artist?id=1081582" }
+    ],
+    "album": {
+      "name": "Silver Lining (feat. KARRA)",
+      "link": "https://music.163.com/album?id=82660858"
+    }
+  },
+  {
+    "name": "The #IcePack Rises (Original Mix)",
+    "link": "https://music.163.com/song?id=403711524",
+    "duration": "03:43",
+    "artists": [
+      { "name": "EnV", "link": "https://music.163.com/artist?id=836033" }
+    ],
+    "album": {
+      "name": "The #IcePack Rises",
+      "link": "https://music.163.com/album?id=34498145"
+    }
+  },
+  {
+    "name": "Empty Space",
+    "link": "https://music.163.com/song?id=1469062040",
+    "duration": "03:26",
+    "artists": [
+      {
+        "name": "Fancy Floss",
+        "link": "https://music.163.com/artist?id=33190561"
+      },
+      { "name": "MARC", "link": "https://music.163.com/artist?id=12073436" },
+      {
+        "name": "Revealed Recordings",
+        "link": "https://music.163.com/artist?id=28753573"
+      }
+    ],
+    "album": {
+      "name": "Empty Space",
+      "link": "https://music.163.com/album?id=93616332"
+    }
+  },
+  {
+    "name": "Superb",
+    "link": "https://music.163.com/song?id=29487452",
+    "duration": "06:52",
+    "artists": [
+      { "name": "Mossy", "link": "https://music.163.com/artist?id=205303" }
+    ],
+    "album": {
+      "name": "Superb",
+      "link": "https://music.163.com/album?id=3033062"
+    }
+  },
+  {
+    "name": "Worth It All",
+    "link": "https://music.163.com/song?id=1426759304",
+    "duration": "03:07",
+    "artists": [
+      { "name": "Tritonal", "link": "https://music.163.com/artist?id=104133" },
+      { "name": "Man Cub", "link": "https://music.163.com/artist?id=30816484" }
+    ],
+    "album": {
+      "name": "Worth It All",
+      "link": "https://music.163.com/album?id=86083062"
+    }
+  },
+  {
+    "name": "Trouble (Mike Williams Remix)",
+    "link": "https://music.163.com/song?id=487375361",
+    "duration": "03:36",
+    "artists": [
+      {
+        "name": "Mike Williams",
+        "link": "https://music.163.com/artist?id=302020"
+      },
+      { "name": "VÉRITÉ", "link": "https://music.163.com/artist?id=963498" },
+      { "name": "R3hab", "link": "https://music.163.com/artist?id=197248" }
+    ],
+    "album": {
+      "name": "Trouble (Mike Williams Remix)",
+      "link": "https://music.163.com/album?id=35688344"
+    }
+  },
+  {
+    "name": "Ballarena",
+    "link": "https://music.163.com/song?id=1314662246",
+    "duration": "03:00",
+    "artists": [
+      { "name": "Savi", "link": "https://music.163.com/artist?id=1116235" },
+      { "name": "Aleesia", "link": "https://music.163.com/artist?id=48272" },
+      {
+        "name": "Not From Mars",
+        "link": "https://music.163.com/artist?id=30252411"
+      }
+    ],
+    "album": {
+      "name": "Ballarena",
+      "link": "https://music.163.com/album?id=73742569"
+    }
+  },
+  {
+    "name": "There x2",
+    "link": "https://music.163.com/song?id=534539187",
+    "duration": "03:50",
+    "artists": [
+      { "name": "Slushii", "link": "https://music.163.com/artist?id=1193232" },
+      {
+        "name": "Marshmello",
+        "link": "https://music.163.com/artist?id=1060019"
+      }
+    ],
+    "album": {
+      "name": "There x2",
+      "link": "https://music.163.com/album?id=37466080"
+    }
+  },
+  {
+    "name": "Vision",
+    "link": "https://music.163.com/song?id=32431822",
+    "duration": "04:14",
+    "artists": [
+      {
+        "name": "Elektronomia",
+        "link": "https://music.163.com/artist?id=1081540"
+      }
+    ],
+    "album": {
+      "name": "Vision",
+      "link": "https://music.163.com/album?id=3161128"
+    }
+  },
+  {
+    "name": "What Makes You Beautiful",
+    "link": "https://music.163.com/song?id=26491581",
+    "duration": "03:18",
+    "artists": [
+      {
+        "name": "One Direction",
+        "link": "https://music.163.com/artist?id=98351"
+      }
+    ],
+    "album": {
+      "name": "Now That's What I Call 30 Years",
+      "link": "https://music.163.com/album?id=2506924"
+    }
+  },
+  {
+    "name": "You Need Me",
+    "link": "https://music.163.com/song?id=1371142091",
+    "duration": "03:17",
+    "artists": [
+      { "name": "Suprafive", "link": "https://music.163.com/artist?id=1022142" }
+    ],
+    "album": {
+      "name": "You Need Me",
+      "link": "https://music.163.com/album?id=79724036"
+    }
+  },
+  {
+    "name": "Paradise (Deniz Koyu Festival Mix)",
+    "link": "https://music.163.com/song?id=1319011647",
+    "duration": "04:03",
+    "artists": [
+      {
+        "name": "Nicky Romero",
+        "link": "https://music.163.com/artist?id=195142"
+      },
+      {
+        "name": "Deniz Koyu",
+        "link": "https://music.163.com/artist?id=201960"
+      },
+      {
+        "name": "Walk off the Earth",
+        "link": "https://music.163.com/artist?id=105493"
+      }
+    ],
+    "album": {
+      "name": "Paradise (Deniz Koyu Festival Mix)",
+      "link": "https://music.163.com/album?id=73992945"
+    }
+  },
+  {
+    "name": "Feels Right (feat. RUNN)",
+    "link": "https://music.163.com/song?id=1401179677",
+    "duration": "03:32",
+    "artists": [
+      {
+        "name": "Crystal Skies",
+        "link": "https://music.163.com/artist?id=1063127"
+      },
+      { "name": "Runn", "link": "https://music.163.com/artist?id=15237536" }
+    ],
+    "album": {
+      "name": "Constellations",
+      "link": "https://music.163.com/album?id=83001751"
+    }
+  },
+  {
+    "name": "Addict",
+    "link": "https://music.163.com/song?id=1442764907",
+    "duration": "04:05",
+    "artists": [
+      {
+        "name": "Silva Hound",
+        "link": "https://music.163.com/artist?id=725518"
+      },
+      {
+        "name": "Michael Kovach",
+        "link": "https://music.163.com/artist?id=34950549"
+      },
+      { "name": "Chi-Chi", "link": "https://music.163.com/artist?id=32996030" }
+    ],
+    "album": {
+      "name": "Addict Remixed",
+      "link": "https://music.163.com/album?id=88410782"
+    }
+  },
+  {
+    "name": "Party Around the World (Michael Mind Project Remix Edit)",
+    "link": "https://music.163.com/song?id=28111317",
+    "duration": "03:03",
+    "artists": [
+      { "name": "Carlprit", "link": "https://music.163.com/artist?id=30916" }
+    ],
+    "album": {
+      "name": "Party Around the World",
+      "link": "https://music.163.com/album?id=2732055"
+    }
+  },
+  {
+    "name": "Lullaby",
+    "link": "https://music.163.com/song?id=529557738",
+    "duration": "02:40",
+    "artists": [
+      { "name": "R3hab", "link": "https://music.163.com/artist?id=197248" },
+      {
+        "name": "Mike Williams",
+        "link": "https://music.163.com/artist?id=302020"
+      }
+    ],
+    "album": {
+      "name": "Lullaby",
+      "link": "https://music.163.com/album?id=37252068"
+    }
+  },
+  {
+    "name": "Pray",
+    "link": "https://music.163.com/song?id=1353374366",
+    "duration": "04:55",
+    "artists": [
+      { "name": "ILLENIUM", "link": "https://music.163.com/artist?id=1050518" },
+      {
+        "name": "Kameron Alexander",
+        "link": "https://music.163.com/artist?id=31724757"
+      }
+    ],
+    "album": {
+      "name": "Pray",
+      "link": "https://music.163.com/album?id=77773109"
+    }
+  },
+  {
+    "name": "Sky (Radio Edit)",
+    "link": "https://music.163.com/song?id=29553031",
+    "duration": "03:56",
+    "artists": [
+      { "name": "Steerner", "link": "https://music.163.com/artist?id=783190" },
+      { "name": "Martell", "link": "https://music.163.com/artist?id=12023568" }
+    ],
+    "album": { "name": "Sky", "link": "https://music.163.com/album?id=3044006" }
+  },
+  {
+    "name": "Stupid Enough",
+    "link": "https://music.163.com/song?id=1328289000",
+    "duration": "04:09",
+    "artists": [
+      { "name": "FRND", "link": "https://music.163.com/artist?id=12107565" }
+    ],
+    "album": {
+      "name": "Before U I Didn't Exist",
+      "link": "https://music.163.com/album?id=74585433"
+    }
+  },
+  {
+    "name": "Living in Stereo (Steve Modana Radio Edit)",
+    "link": "https://music.163.com/song?id=26066912",
+    "duration": "03:28",
+    "artists": [
+      { "name": "R.I.O.", "link": "https://music.163.com/artist?id=42495" }
+    ],
+    "album": {
+      "name": "Living in Stereo",
+      "link": "https://music.163.com/album?id=2371268"
+    }
+  },
+  {
+    "name": "Heist",
+    "link": "https://music.163.com/song?id=35331692",
+    "duration": "03:02",
+    "artists": [
+      { "name": "Noisestorm", "link": "https://music.163.com/artist?id=98081" }
+    ],
+    "album": {
+      "name": "Heist",
+      "link": "https://music.163.com/album?id=3319069"
+    }
+  },
+  {
+    "name": "ゆらゆら",
+    "link": "https://music.163.com/song?id=1498609570",
+    "duration": "03:18",
+    "artists": [
+      { "name": "GReeeeN", "link": "https://music.163.com/artist?id=19550" }
+    ],
+    "album": {
+      "name": "ゆらゆら",
+      "link": "https://music.163.com/album?id=98835091"
+    }
+  },
+  {
+    "name": "Walk Away",
+    "link": "https://music.163.com/song?id=1443256138",
+    "duration": "03:25",
+    "artists": [
+      { "name": "Max Oazo", "link": "https://music.163.com/artist?id=13159084" }
+    ],
+    "album": {
+      "name": "Walk Away",
+      "link": "https://music.163.com/album?id=88506035"
+    }
+  },
+  {
+    "name": "Waiting in Hope",
+    "link": "https://music.163.com/song?id=1449277383",
+    "duration": "07:53",
+    "artists": [
+      { "name": "Melchi", "link": "https://music.163.com/artist?id=12058010" }
+    ],
+    "album": {
+      "name": "Waiting in Hope",
+      "link": "https://music.163.com/album?id=89649391"
+    }
+  },
+  {
+    "name": "Fire (Paris Blohm Remix)",
+    "link": "https://music.163.com/song?id=454438123",
+    "duration": "03:13",
+    "artists": [
+      { "name": "3LAU", "link": "https://music.163.com/artist?id=762511" },
+      {
+        "name": "Paris Blohm",
+        "link": "https://music.163.com/artist?id=851710"
+      },
+      {
+        "name": "NÉONHÈART",
+        "link": "https://music.163.com/artist?id=12273083"
+      },
+      {
+        "name": "Said The Sky",
+        "link": "https://music.163.com/artist?id=1026094"
+      }
+    ],
+    "album": {
+      "name": "Fire (Remixes)",
+      "link": "https://music.163.com/album?id=35123956"
+    }
+  },
+  {
+    "name": "Rainy Girl - レイニーガール",
+    "link": "https://music.163.com/song?id=1309903541",
+    "duration": "03:02",
+    "artists": [
+      {
+        "name": "HoneyComeBear",
+        "link": "https://music.163.com/artist?id=12675383"
+      }
+    ],
+    "album": {
+      "name": "Rainy Girl - レイニーガール",
+      "link": "https://music.163.com/album?id=73327740"
+    }
+  },
+  {
+    "name": "Ride Or Die",
+    "link": "https://music.163.com/song?id=1365864094",
+    "duration": "02:45",
+    "artists": [
+      { "name": "XYLØ", "link": "https://music.163.com/artist?id=1050511" }
+    ],
+    "album": {
+      "name": "Ride Or Die",
+      "link": "https://music.163.com/album?id=79189044"
+    }
+  },
+  {
+    "name": "Promised Land",
+    "link": "https://music.163.com/song?id=447079070",
+    "duration": "04:15",
+    "artists": [
+      {
+        "name": "Satellite Empire",
+        "link": "https://music.163.com/artist?id=1116247"
+      },
+      { "name": "Silby", "link": "https://music.163.com/artist?id=14199722" }
+    ],
+    "album": {
+      "name": "Promised Land",
+      "link": "https://music.163.com/album?id=35051278"
+    }
+  },
+  {
+    "name": "MELANCHOLY",
+    "link": "https://music.163.com/song?id=1297742167",
+    "duration": "02:08",
+    "artists": [
+      {
+        "name": "White Cherry",
+        "link": "https://music.163.com/artist?id=28390245"
+      }
+    ],
+    "album": {
+      "name": "MELANCHOLY",
+      "link": "https://music.163.com/album?id=72069674"
+    }
+  },
+  {
+    "name": "Minus Zero × Synesthesia",
+    "link": "https://music.163.com/song?id=1302084483",
+    "duration": "02:32",
+    "artists": [
+      {
+        "name": "Hikaru Station",
+        "link": "https://music.163.com/artist?id=12082087"
+      }
+    ],
+    "album": {
+      "name": "Minus Zero × Synesthesia",
+      "link": "https://music.163.com/album?id=72301991"
+    }
+  }
+]

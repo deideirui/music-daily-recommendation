@@ -1,0 +1,479 @@
+[
+  {
+    "name": "Probably Not",
+    "link": "https://music.163.com/song?id=1419873281",
+    "duration": "02:43",
+    "artists": [
+      {
+        "name": "Alex Skrindo",
+        "link": "https://music.163.com/artist?id=1046359"
+      }
+    ],
+    "album": {
+      "name": "Probably Not",
+      "link": "https://music.163.com/album?id=85350505"
+    }
+  },
+  {
+    "name": "Wasted Summer",
+    "link": "https://music.163.com/song?id=1418275106",
+    "duration": "02:49",
+    "artists": [
+      {
+        "name": "teamwork.",
+        "link": "https://music.163.com/artist?id=32284518"
+      },
+      { "name": "Loote", "link": "https://music.163.com/artist?id=12408152" },
+      { "name": "John K", "link": "https://music.163.com/artist?id=12931567" }
+    ],
+    "album": {
+      "name": "Wasted Summer",
+      "link": "https://music.163.com/album?id=85143847"
+    }
+  },
+  {
+    "name": "405",
+    "link": "https://music.163.com/song?id=1457708212",
+    "duration": "03:14",
+    "artists": [
+      { "name": "Medii", "link": "https://music.163.com/artist?id=12323243" },
+      { "name": "Emersxn", "link": "https://music.163.com/artist?id=35743430" }
+    ],
+    "album": {
+      "name": "405",
+      "link": "https://music.163.com/album?id=91424145"
+    }
+  },
+  {
+    "name": "Thunder",
+    "link": "https://music.163.com/song?id=1382475114",
+    "duration": "03:56",
+    "artists": [
+      { "name": "Burgess", "link": "https://music.163.com/artist?id=477655" }
+    ],
+    "album": {
+      "name": "Thunder",
+      "link": "https://music.163.com/album?id=80803613"
+    }
+  },
+  {
+    "name": "Run Right Back",
+    "link": "https://music.163.com/song?id=1443165743",
+    "duration": "02:46",
+    "artists": [
+      {
+        "name": "Emily Zeck",
+        "link": "https://music.163.com/artist?id=12356669"
+      }
+    ],
+    "album": {
+      "name": "Run Right Back",
+      "link": "https://music.163.com/album?id=88490163"
+    }
+  },
+  {
+    "name": "Butterflies",
+    "link": "https://music.163.com/song?id=1418092940",
+    "duration": "03:21",
+    "artists": [
+      {
+        "name": "William Black",
+        "link": "https://music.163.com/artist?id=248957"
+      },
+      {
+        "name": "Fairlane",
+        "link": "https://music.163.com/artist?id=12665028"
+      },
+      {
+        "name": "Dia Frampton",
+        "link": "https://music.163.com/artist?id=55454"
+      }
+    ],
+    "album": {
+      "name": "Butterflies",
+      "link": "https://music.163.com/album?id=85121717"
+    }
+  },
+  {
+    "name": "Broken Ones (Last Heroes Remix)",
+    "link": "https://music.163.com/song?id=1448420680",
+    "duration": "03:18",
+    "artists": [
+      { "name": "ILLENIUM", "link": "https://music.163.com/artist?id=1050518" },
+      {
+        "name": "Last Heroes",
+        "link": "https://music.163.com/artist?id=11987034"
+      },
+      {
+        "name": "Anna Clendening",
+        "link": "https://music.163.com/artist?id=12533901"
+      }
+    ],
+    "album": {
+      "name": "ASCEND (Remixes)",
+      "link": "https://music.163.com/album?id=89513700"
+    }
+  },
+  {
+    "name": "Balanced",
+    "link": "https://music.163.com/song?id=1313052280",
+    "duration": "04:32",
+    "artists": [
+      { "name": "Vexento", "link": "https://music.163.com/artist?id=12037010" }
+    ],
+    "album": {
+      "name": "Balanced",
+      "link": "https://music.163.com/album?id=73470916"
+    }
+  },
+  {
+    "name": "Fall in Paradise",
+    "link": "https://music.163.com/song?id=1826165018",
+    "duration": "02:49",
+    "artists": [
+      { "name": "曾正好", "link": "https://music.163.com/artist?id=34599401" },
+      {
+        "name": "6Jy（刘家圆）",
+        "link": "https://music.163.com/artist?id=34390857"
+      }
+    ],
+    "album": {
+      "name": "Fall in Paradise",
+      "link": "https://music.163.com/album?id=124029379"
+    }
+  },
+  {
+    "name": "Fooled Me Good",
+    "link": "https://music.163.com/song?id=1446388801",
+    "duration": "03:30",
+    "artists": [
+      {
+        "name": "Snake City",
+        "link": "https://music.163.com/artist?id=30160356"
+      }
+    ],
+    "album": {
+      "name": "What Must You Think Of Me?",
+      "link": "https://music.163.com/album?id=89122833"
+    }
+  },
+  {
+    "name": "Rabbit Hole",
+    "link": "https://music.163.com/song?id=1348664710",
+    "duration": "02:17",
+    "artists": [
+      { "name": "MOTI", "link": "https://music.163.com/artist?id=366384" },
+      {
+        "name": "Terry McLove",
+        "link": "https://music.163.com/artist?id=30970506"
+      }
+    ],
+    "album": {
+      "name": "Rabbit Hole",
+      "link": "https://music.163.com/album?id=75711270"
+    }
+  },
+  {
+    "name": "Bring Back The Summer (Not Your **** Remix)",
+    "link": "https://music.163.com/song?id=408532862",
+    "duration": "03:40",
+    "artists": [
+      {
+        "name": "Not Your Dope",
+        "link": "https://music.163.com/artist?id=11972030"
+      },
+      { "name": "Rain Man", "link": "https://music.163.com/artist?id=476110" },
+      { "name": "Oly", "link": "https://music.163.com/artist?id=12289226" }
+    ],
+    "album": {
+      "name": "Bring Back The Summer (Not Your **** Remix)",
+      "link": "https://music.163.com/album?id=34589899"
+    }
+  },
+  {
+    "name": "Days To Come (CMA Remix)",
+    "link": "https://music.163.com/song?id=550124213",
+    "duration": "04:30",
+    "artists": [
+      { "name": "CMA", "link": "https://music.163.com/artist?id=300739" },
+      {
+        "name": "Seven Lions",
+        "link": "https://music.163.com/artist?id=44204"
+      },
+      { "name": "Fiora", "link": "https://music.163.com/artist?id=13057154" }
+    ],
+    "album": {
+      "name": "Days To Come (CMA Remix)",
+      "link": "https://music.163.com/album?id=38226057"
+    }
+  },
+  {
+    "name": "Stay",
+    "link": "https://music.163.com/song?id=1451098199",
+    "duration": "03:03",
+    "artists": [
+      {
+        "name": "Ghostly Kisses",
+        "link": "https://music.163.com/artist?id=1087366"
+      }
+    ],
+    "album": {
+      "name": "Never Let Me Go",
+      "link": "https://music.163.com/album?id=89981518"
+    }
+  },
+  {
+    "name": "Not Alone",
+    "link": "https://music.163.com/song?id=1375398610",
+    "duration": "02:45",
+    "artists": [
+      {
+        "name": "Sick Individuals",
+        "link": "https://music.163.com/artist?id=379612"
+      },
+      {
+        "name": "Justin Prime",
+        "link": "https://music.163.com/artist?id=897015"
+      },
+      { "name": "byMIA", "link": "https://music.163.com/artist?id=32480924" }
+    ],
+    "album": {
+      "name": "Not Alone",
+      "link": "https://music.163.com/album?id=80134164"
+    }
+  },
+  {
+    "name": "Move On",
+    "link": "https://music.163.com/song?id=511920214",
+    "duration": "04:24",
+    "artists": [
+      { "name": "Sibewest", "link": "https://music.163.com/artist?id=12675639" }
+    ],
+    "album": {
+      "name": "North Remembers EP",
+      "link": "https://music.163.com/album?id=36451467"
+    }
+  },
+  {
+    "name": "AnTi - Smile",
+    "link": "https://music.163.com/song?id=472948108",
+    "duration": "03:00",
+    "artists": [
+      { "name": "ThimLife", "link": "https://music.163.com/artist?id=1046016" }
+    ],
+    "album": {
+      "name": "AnTi - Smile",
+      "link": "https://music.163.com/album?id=35392043"
+    }
+  },
+  {
+    "name": "I Still Believe",
+    "link": "https://music.163.com/song?id=1358194683",
+    "duration": "03:04",
+    "artists": [
+      { "name": "Mandee", "link": "https://music.163.com/artist?id=12171036" },
+      {
+        "name": "Abi F Jones",
+        "link": "https://music.163.com/artist?id=1137160"
+      }
+    ],
+    "album": {
+      "name": "I Still Believe",
+      "link": "https://music.163.com/album?id=78479967"
+    }
+  },
+  {
+    "name": "Healing (Acoustic Mix)",
+    "link": "https://music.163.com/song?id=1418975623",
+    "duration": "03:05",
+    "artists": [
+      {
+        "name": "Camden Cox",
+        "link": "https://music.163.com/artist?id=13226292"
+      }
+    ],
+    "album": {
+      "name": "Healing (Acoustic Mix)",
+      "link": "https://music.163.com/album?id=85221544"
+    }
+  },
+  {
+    "name": "Contact High",
+    "link": "https://music.163.com/song?id=1466193494",
+    "duration": "02:23",
+    "artists": [
+      { "name": "Cappa", "link": "https://music.163.com/artist?id=1053281" }
+    ],
+    "album": {
+      "name": "Contact High",
+      "link": "https://music.163.com/album?id=93085231"
+    }
+  },
+  {
+    "name": "Reflections",
+    "link": "https://music.163.com/song?id=1424317210",
+    "duration": "06:22",
+    "artists": [
+      {
+        "name": "Roald Velden",
+        "link": "https://music.163.com/artist?id=178498"
+      }
+    ],
+    "album": {
+      "name": "Reflections",
+      "link": "https://music.163.com/album?id=85820272"
+    }
+  },
+  {
+    "name": "Skyfall",
+    "link": "https://music.163.com/song?id=34040846",
+    "duration": "04:28",
+    "artists": [
+      { "name": "Schyzox", "link": "https://music.163.com/artist?id=1132961" }
+    ],
+    "album": {
+      "name": "Skyfall",
+      "link": "https://music.163.com/album?id=3270731"
+    }
+  },
+  {
+    "name": "Just For A Moment",
+    "link": "https://music.163.com/song?id=574648258",
+    "duration": "04:14",
+    "artists": [
+      { "name": "Gryffin", "link": "https://music.163.com/artist?id=1181504" },
+      {
+        "name": "Iselin Solheim",
+        "link": "https://music.163.com/artist?id=1078390"
+      }
+    ],
+    "album": {
+      "name": "Just For A Moment",
+      "link": "https://music.163.com/album?id=39779084"
+    }
+  },
+  {
+    "name": "Boomerang",
+    "link": "https://music.163.com/song?id=512358366",
+    "duration": "03:15",
+    "artists": [
+      { "name": "Brooks", "link": "https://music.163.com/artist?id=49308" },
+      { "name": "GRX", "link": "https://music.163.com/artist?id=845068" }
+    ],
+    "album": {
+      "name": "Boomerang",
+      "link": "https://music.163.com/album?id=36528085"
+    }
+  },
+  {
+    "name": "Love Is the Key (Dj Artak Remix)",
+    "link": "https://music.163.com/song?id=521417613",
+    "duration": "05:57",
+    "artists": [
+      {
+        "name": "Moonnight",
+        "link": "https://music.163.com/artist?id=1050317"
+      },
+      { "name": " DJ ARTAK", "link": "https://music.163.com/artist?id=710263" },
+      {
+        "name": "Angel Falls",
+        "link": "https://music.163.com/artist?id=12474818"
+      }
+    ],
+    "album": {
+      "name": "Love Is the Key (Remixes)",
+      "link": "https://music.163.com/album?id=36872156"
+    }
+  },
+  {
+    "name": "Astronomical",
+    "link": "https://music.163.com/song?id=536099137",
+    "duration": "02:52",
+    "artists": [
+      { "name": "Svrcina", "link": "https://music.163.com/artist?id=12047724" }
+    ],
+    "album": {
+      "name": "Astronomical",
+      "link": "https://music.163.com/album?id=37545045"
+    }
+  },
+  {
+    "name": "More Of You",
+    "link": "https://music.163.com/song?id=1306600386",
+    "duration": "03:54",
+    "artists": [
+      { "name": "MAGIC!", "link": "https://music.163.com/artist?id=896389" }
+    ],
+    "album": {
+      "name": "Expectations",
+      "link": "https://music.163.com/album?id=72802329"
+    }
+  },
+  {
+    "name": "Love Alone (Stripped Version)",
+    "link": "https://music.163.com/song?id=1305849057",
+    "duration": "03:37",
+    "artists": [
+      { "name": "Mokita", "link": "https://music.163.com/artist?id=12033046" }
+    ],
+    "album": {
+      "name": "Love Alone (Stripped)",
+      "link": "https://music.163.com/album?id=72761727"
+    }
+  },
+  {
+    "name": "Dancing With Your Ghost",
+    "link": "https://music.163.com/song?id=1397321353",
+    "duration": "03:18",
+    "artists": [
+      {
+        "name": "Sasha Sloan",
+        "link": "https://music.163.com/artist?id=12646102"
+      }
+    ],
+    "album": {
+      "name": "Self Portrait",
+      "link": "https://music.163.com/album?id=82468267"
+    }
+  },
+  {
+    "name": "Twenty Something",
+    "link": "https://music.163.com/song?id=1355153108",
+    "duration": "04:37",
+    "artists": [
+      { "name": "Nightly", "link": "https://music.163.com/artist?id=12107608" }
+    ],
+    "album": {
+      "name": "Twenty Something",
+      "link": "https://music.163.com/album?id=78243726"
+    }
+  },
+  {
+    "name": "Things Are Gonna Get Better",
+    "link": "https://music.163.com/song?id=1336871802",
+    "duration": "05:30",
+    "artists": [
+      { "name": "NEFFEX", "link": "https://music.163.com/artist?id=12023273" }
+    ],
+    "album": {
+      "name": "Things Are Gonna Get Better",
+      "link": "https://music.163.com/album?id=75017124"
+    }
+  },
+  {
+    "name": "First Time",
+    "link": "https://music.163.com/song?id=1825948812",
+    "duration": "02:45",
+    "artists": [
+      { "name": "ILLENIUM", "link": "https://music.163.com/artist?id=1050518" },
+      {
+        "name": "iann dior",
+        "link": "https://music.163.com/artist?id=31532704"
+      }
+    ],
+    "album": {
+      "name": "First Time",
+      "link": "https://music.163.com/album?id=124076528"
+    }
+  }
+]

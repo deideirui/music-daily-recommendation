@@ -1,0 +1,438 @@
+[
+  {
+    "name": "Need You Right Now",
+    "link": "https://music.163.com/song?id=554217208",
+    "duration": "03:25",
+    "artists": [
+      { "name": "Hedegaard", "link": "https://music.163.com/artist?id=938013" },
+      {
+        "name": "Hayley Warner",
+        "link": "https://music.163.com/artist?id=1177251"
+      }
+    ],
+    "album": {
+      "name": "Need You Right Now",
+      "link": "https://music.163.com/album?id=38426159"
+    }
+  },
+  {
+    "name": "Speeding Cars",
+    "link": "https://music.163.com/song?id=36215395",
+    "duration": "04:02",
+    "artists": [
+      {
+        "name": "Walking On Cars",
+        "link": "https://music.163.com/artist?id=743047"
+      }
+    ],
+    "album": {
+      "name": "Everything This Way",
+      "link": "https://music.163.com/album?id=3388155"
+    }
+  },
+  {
+    "name": "Seek You",
+    "link": "https://music.163.com/song?id=16398768",
+    "duration": "02:57",
+    "artists": [
+      { "name": "Adie", "link": "https://music.163.com/artist?id=47866" }
+    ],
+    "album": {
+      "name": "Just You And Me",
+      "link": "https://music.163.com/album?id=1512068"
+    }
+  },
+  {
+    "name": "Back2U",
+    "link": "https://music.163.com/song?id=18839982",
+    "duration": "03:46",
+    "artists": [
+      {
+        "name": "Jessica Mauboy",
+        "link": "https://music.163.com/artist?id=60967"
+      }
+    ],
+    "album": {
+      "name": "Been Waiting",
+      "link": "https://music.163.com/album?id=1725032"
+    }
+  },
+  {
+    "name": "Troublemaker",
+    "link": "https://music.163.com/song?id=16375088",
+    "duration": "03:57",
+    "artists": [
+      { "name": "Akon", "link": "https://music.163.com/artist?id=27595" },
+      {
+        "name": "Sweet Rush",
+        "link": "https://music.163.com/artist?id=29814600"
+      }
+    ],
+    "album": {
+      "name": "Freedom",
+      "link": "https://music.163.com/album?id=1510338"
+    }
+  },
+  {
+    "name": "Inimă Nebună",
+    "link": "https://music.163.com/song?id=548319367",
+    "duration": "03:09",
+    "artists": [
+      { "name": "DJ Project", "link": "https://music.163.com/artist?id=91079" },
+      { "name": "Mira", "link": "https://music.163.com/artist?id=66406" }
+    ],
+    "album": {
+      "name": "Inimă Nebună",
+      "link": "https://music.163.com/album?id=38054712"
+    }
+  },
+  {
+    "name": "Friendships (Original Mix)",
+    "link": "https://music.163.com/song?id=505449407",
+    "duration": "04:02",
+    "artists": [
+      {
+        "name": "Pascal Letoublon",
+        "link": "https://music.163.com/artist?id=12634325"
+      }
+    ],
+    "album": {
+      "name": "Friendships",
+      "link": "https://music.163.com/album?id=36196158"
+    }
+  },
+  {
+    "name": "Kill Em With Kindness",
+    "link": "https://music.163.com/song?id=35307062",
+    "duration": "03:37",
+    "artists": [
+      {
+        "name": "Selena Gomez",
+        "link": "https://music.163.com/artist?id=140196"
+      }
+    ],
+    "album": {
+      "name": "Revival (Deluxe Edition)",
+      "link": "https://music.163.com/album?id=3287551"
+    }
+  },
+  {
+    "name": "Cool Girl (feat. BAER)",
+    "link": "https://music.163.com/song?id=525239772",
+    "duration": "02:43",
+    "artists": [
+      { "name": "BEAUZ", "link": "https://music.163.com/artist?id=12131436" },
+      { "name": "Subfer", "link": "https://music.163.com/artist?id=12046307" }
+    ],
+    "album": {
+      "name": "Cool Girl",
+      "link": "https://music.163.com/album?id=37026212"
+    }
+  },
+  {
+    "name": "Play Hard",
+    "link": "https://music.163.com/song?id=26366307",
+    "duration": "03:21",
+    "artists": [
+      {
+        "name": "David Guetta",
+        "link": "https://music.163.com/artist?id=31211"
+      },
+      { "name": "Ne-Yo", "link": "https://music.163.com/artist?id=40423" },
+      { "name": "Akon", "link": "https://music.163.com/artist?id=27595" }
+    ],
+    "album": {
+      "name": "Mastermix-Pro Disc 155",
+      "link": "https://music.163.com/album?id=2467551"
+    }
+  },
+  {
+    "name": "Tonight (R.I.O. Video Edit)",
+    "link": "https://music.163.com/song?id=26573727",
+    "duration": "03:28",
+    "artists": [
+      { "name": "Manian", "link": "https://music.163.com/artist?id=218902" },
+      { "name": "Nicco", "link": "https://music.163.com/artist?id=357111" }
+    ],
+    "album": {
+      "name": "Music Hits Vol. 60",
+      "link": "https://music.163.com/album?id=2525383"
+    }
+  },
+  {
+    "name": "Colours Of The Rainbow",
+    "link": "https://music.163.com/song?id=4127876",
+    "duration": "03:28",
+    "artists": [
+      {
+        "name": "ItaloBrothers",
+        "link": "https://music.163.com/artist?id=94730"
+      }
+    ],
+    "album": {
+      "name": "STAMP!",
+      "link": "https://music.163.com/album?id=417425"
+    }
+  },
+  {
+    "name": "Cold as Ice",
+    "link": "https://music.163.com/song?id=445666857",
+    "duration": "03:06",
+    "artists": [
+      {
+        "name": "The Main Level",
+        "link": "https://music.163.com/artist?id=1000020"
+      }
+    ],
+    "album": {
+      "name": "Cold as Ice",
+      "link": "https://music.163.com/album?id=35012749"
+    }
+  },
+  {
+    "name": "Attention",
+    "link": "https://music.163.com/song?id=473817398",
+    "duration": "03:28",
+    "artists": [
+      {
+        "name": "Charlie Puth",
+        "link": "https://music.163.com/artist?id=90331"
+      }
+    ],
+    "album": {
+      "name": "Voicenotes",
+      "link": "https://music.163.com/album?id=38530129"
+    }
+  },
+  {
+    "name": "The Light",
+    "link": "https://music.163.com/song?id=28894002",
+    "duration": "03:11",
+    "artists": [
+      {
+        "name": "Phoebe Sharp",
+        "link": "https://music.163.com/artist?id=980040"
+      }
+    ],
+    "album": {
+      "name": "The Light",
+      "link": "https://music.163.com/album?id=2929001"
+    }
+  },
+  {
+    "name": "Universe - (苍穹)",
+    "link": "https://music.163.com/song?id=567688074",
+    "duration": "04:42",
+    "artists": [
+      { "name": "Jannik", "link": "https://music.163.com/artist?id=12065179" }
+    ],
+    "album": {
+      "name": "Universe (苍穹)",
+      "link": "https://music.163.com/album?id=39276340"
+    }
+  },
+  {
+    "name": "Cheap Thrills",
+    "link": "https://music.163.com/song?id=39224884",
+    "duration": "03:31",
+    "artists": [
+      { "name": "Sia", "link": "https://music.163.com/artist?id=74625" }
+    ],
+    "album": {
+      "name": "This Is Acting",
+      "link": "https://music.163.com/album?id=3394107"
+    }
+  },
+  {
+    "name": "Doch ich bereu' dich nicht",
+    "link": "https://music.163.com/song?id=22349815",
+    "duration": "03:46",
+    "artists": [
+      {
+        "name": "Helene Fischer",
+        "link": "https://music.163.com/artist?id=60252"
+      }
+    ],
+    "album": {
+      "name": "So Wie Ich Bin",
+      "link": "https://music.163.com/album?id=2050234"
+    }
+  },
+  {
+    "name": "Don't Give It Up",
+    "link": "https://music.163.com/song?id=20960172",
+    "duration": "03:43",
+    "artists": [
+      { "name": "Lemar", "link": "https://music.163.com/artist?id=38144" }
+    ],
+    "album": {
+      "name": "Time To Grow",
+      "link": "https://music.163.com/album?id=1941441"
+    }
+  },
+  {
+    "name": "我是真的爱上你",
+    "link": "https://music.163.com/song?id=492151019",
+    "duration": "05:02",
+    "artists": [
+      { "name": "曲肖冰", "link": "https://music.163.com/artist?id=12419710" }
+    ],
+    "album": {
+      "name": "曲肖冰翻唱集",
+      "link": "https://music.163.com/album?id=35793408"
+    }
+  },
+  {
+    "name": "Take Back My Love (Sunset Mix)",
+    "link": "https://music.163.com/song?id=1296490917",
+    "duration": "02:08",
+    "artists": [
+      {
+        "name": "Frank Pole",
+        "link": "https://music.163.com/artist?id=12046116"
+      },
+      {
+        "name": "Dia Frampton",
+        "link": "https://music.163.com/artist?id=55454"
+      }
+    ],
+    "album": {
+      "name": "Take Back My Love (Sunset Mix)",
+      "link": "https://music.163.com/album?id=72012095"
+    }
+  },
+  {
+    "name": "All The Feels",
+    "link": "https://music.163.com/song?id=557505144",
+    "duration": "03:03",
+    "artists": [
+      {
+        "name": "Fly by Midnight",
+        "link": "https://music.163.com/artist?id=1163027"
+      }
+    ],
+    "album": {
+      "name": "All The Feels",
+      "link": "https://music.163.com/album?id=38583208"
+    }
+  },
+  {
+    "name": "1234 (R.I.O. Video Edit)",
+    "link": "https://music.163.com/song?id=26365349",
+    "duration": "03:22",
+    "artists": [
+      { "name": "Carlprit", "link": "https://music.163.com/artist?id=30916" }
+    ],
+    "album": {
+      "name": "Ready Or Not (The Album)",
+      "link": "https://music.163.com/album?id=2467452"
+    }
+  },
+  {
+    "name": "你看到的我",
+    "link": "https://music.163.com/song?id=1360587311",
+    "duration": "03:50",
+    "artists": [
+      { "name": "黄勇", "link": "https://music.163.com/artist?id=3421" },
+      { "name": "任浩铭", "link": "https://music.163.com/artist?id=4923" }
+    ],
+    "album": {
+      "name": "你看到的我",
+      "link": "https://music.163.com/album?id=78701725"
+    }
+  },
+  {
+    "name": "Give a Little More",
+    "link": "https://music.163.com/song?id=4172891",
+    "duration": "03:00",
+    "artists": [
+      { "name": "Maroon 5", "link": "https://music.163.com/artist?id=96266" }
+    ],
+    "album": {
+      "name": "Give a Little More",
+      "link": "https://music.163.com/album?id=421915"
+    }
+  },
+  {
+    "name": "Same Sky",
+    "link": "https://music.163.com/song?id=574915369",
+    "duration": "03:31",
+    "artists": [
+      { "name": "Navarra", "link": "https://music.163.com/artist?id=489069" }
+    ],
+    "album": {
+      "name": "Same Sky",
+      "link": "https://music.163.com/album?id=39779324"
+    }
+  },
+  {
+    "name": "Like I Used To",
+    "link": "https://music.163.com/song?id=509531164",
+    "duration": "03:27",
+    "artists": [
+      { "name": "Mykey", "link": "https://music.163.com/artist?id=12675032" }
+    ],
+    "album": {
+      "name": "Like I Used To",
+      "link": "https://music.163.com/album?id=36451034"
+    }
+  },
+  {
+    "name": "Gone",
+    "link": "https://music.163.com/song?id=29343700",
+    "duration": "03:22",
+    "artists": [
+      {
+        "name": "The Strange Familiar",
+        "link": "https://music.163.com/artist?id=104136"
+      }
+    ],
+    "album": {
+      "name": "The Day the Light Went Out",
+      "link": "https://music.163.com/album?id=3010087"
+    }
+  },
+  {
+    "name": "Sweater",
+    "link": "https://music.163.com/song?id=1407347616",
+    "duration": "02:55",
+    "artists": [
+      { "name": "Codeko", "link": "https://music.163.com/artist?id=1049914" },
+      {
+        "name": "Stela Cole",
+        "link": "https://music.163.com/artist?id=14777301"
+      }
+    ],
+    "album": {
+      "name": "Sweater (feat. Stela Cole)",
+      "link": "https://music.163.com/album?id=83844280"
+    }
+  },
+  {
+    "name": "最远的你是我最近的爱-小阿枫（Cover：车继铃）",
+    "link": "https://music.163.com/song?id=1378603811",
+    "duration": "02:16",
+    "artists": [
+      { "name": "小阿枫", "link": "https://music.163.com/artist?id=12977618" }
+    ],
+    "album": {
+      "name": "最远的你是我最近的爱",
+      "link": "https://music.163.com/album?id=80390542"
+    }
+  },
+  {
+    "name": "Unfinished",
+    "link": "https://music.163.com/song?id=18582864",
+    "duration": "03:16",
+    "artists": [
+      {
+        "name": "Jordan Knight",
+        "link": "https://music.163.com/artist?id=35537"
+      }
+    ],
+    "album": {
+      "name": "Unfinished",
+      "link": "https://music.163.com/album?id=1705752"
+    }
+  }
+]

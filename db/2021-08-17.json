@@ -1,0 +1,493 @@
+[
+  {
+    "name": "The Best Thing",
+    "link": "https://music.163.com/song?id=29304742",
+    "duration": "03:53",
+    "artists": [
+      {
+        "name": "Electric Youth",
+        "link": "https://music.163.com/artist?id=658235"
+      }
+    ],
+    "album": {
+      "name": "Innerworld",
+      "link": "https://music.163.com/album?id=2998213"
+    }
+  },
+  {
+    "name": "Twenty Something",
+    "link": "https://music.163.com/song?id=1371704145",
+    "duration": "04:37",
+    "artists": [
+      { "name": "Nightly", "link": "https://music.163.com/artist?id=12107608" }
+    ],
+    "album": {
+      "name": "Talk You Down",
+      "link": "https://music.163.com/album?id=79785920"
+    }
+  },
+  {
+    "name": "Clearest Blue (Gryffin Remix)",
+    "link": "https://music.163.com/song?id=411921067",
+    "duration": "04:19",
+    "artists": [
+      { "name": "Gryffin", "link": "https://music.163.com/artist?id=1181504" },
+      { "name": "CHVRCHES", "link": "https://music.163.com/artist?id=694027" }
+    ],
+    "album": {
+      "name": "Clearest Blue (Gryffin Remix)",
+      "link": "https://music.163.com/album?id=34686379"
+    }
+  },
+  {
+    "name": "I Leave Again",
+    "link": "https://music.163.com/song?id=1449185043",
+    "duration": "03:58",
+    "artists": [
+      {
+        "name": "Petit Biscuit",
+        "link": "https://music.163.com/artist?id=1060063"
+      },
+      { "name": "Shallou", "link": "https://music.163.com/artist?id=12029377" }
+    ],
+    "album": {
+      "name": "I Leave Again",
+      "link": "https://music.163.com/album?id=92897131"
+    }
+  },
+  {
+    "name": "Dreams and confusion",
+    "link": "https://music.163.com/song?id=1463083121",
+    "duration": "03:00",
+    "artists": [
+      {
+        "name": "QCQ official",
+        "link": "https://music.163.com/artist?id=13197128"
+      }
+    ],
+    "album": {
+      "name": "Dreams and confusion",
+      "link": "https://music.163.com/album?id=92149078"
+    }
+  },
+  {
+    "name": "Wildfire  (Piano and Violin Version)",
+    "link": "https://music.163.com/song?id=533368974",
+    "duration": "03:55",
+    "artists": [
+      { "name": "Syml", "link": "https://music.163.com/artist?id=12048173" }
+    ],
+    "album": {
+      "name": "Wildfire (Instrumentals)",
+      "link": "https://music.163.com/album?id=37410018"
+    }
+  },
+  {
+    "name": "With or Without You",
+    "link": "https://music.163.com/song?id=1407238316",
+    "duration": "03:21",
+    "artists": [
+      {
+        "name": "Max Oazo",
+        "link": "https://music.163.com/artist?id=13159084"
+      },
+      { "name": "Camishe", "link": "https://music.163.com/artist?id=33741446" }
+    ],
+    "album": {
+      "name": "With or Without You",
+      "link": "https://music.163.com/album?id=83825390"
+    }
+  },
+  {
+    "name": "Polaris",
+    "link": "https://music.163.com/song?id=1824513851",
+    "duration": "03:39",
+    "artists": [
+      { "name": "Asia D", "link": "https://music.163.com/artist?id=30000310" },
+      { "name": "JAMMERC", "link": "https://music.163.com/artist?id=31436189" }
+    ],
+    "album": {
+      "name": "Polaris",
+      "link": "https://music.163.com/album?id=123546357"
+    }
+  },
+  {
+    "name": "Devotion",
+    "link": "https://music.163.com/song?id=542667073",
+    "duration": "03:59",
+    "artists": [
+      { "name": "Vexento", "link": "https://music.163.com/artist?id=12037010" }
+    ],
+    "album": {
+      "name": "Devotion",
+      "link": "https://music.163.com/album?id=37829016"
+    }
+  },
+  {
+    "name": "Cry Dancing (Acoustic)",
+    "link": "https://music.163.com/song?id=1470909608",
+    "duration": "03:01",
+    "artists": [
+      { "name": "NOTD", "link": "https://music.163.com/artist?id=12262306" },
+      {
+        "name": "Nina Nesbitt",
+        "link": "https://music.163.com/artist?id=70292"
+      }
+    ],
+    "album": {
+      "name": "Cry Dancing (Acoustic)",
+      "link": "https://music.163.com/album?id=93941581"
+    }
+  },
+  {
+    "name": "The One (feat. Zeyué)",
+    "link": "https://music.163.com/song?id=1803663018",
+    "duration": "03:53",
+    "artists": [
+      {
+        "name": "森林屿诗",
+        "link": "https://music.163.com/artist?id=13698665"
+      },
+      { "name": "L3V3LS", "link": "https://music.163.com/artist?id=12007340" },
+      { "name": "Zeyué", "link": "https://music.163.com/artist?id=35512419" }
+    ],
+    "album": {
+      "name": "The One (feat. Zeyué)",
+      "link": "https://music.163.com/album?id=120270456"
+    }
+  },
+  {
+    "name": "Happy with You (feat. WildHearts)",
+    "link": "https://music.163.com/song?id=1453160534",
+    "duration": "03:57",
+    "artists": [
+      {
+        "name": "WildVibes",
+        "link": "https://music.163.com/artist?id=1181751"
+      },
+      {
+        "name": "Wildhearts",
+        "link": "https://music.163.com/artist?id=132424"
+      },
+      { "name": "WINARTA", "link": "https://music.163.com/artist?id=35804048" },
+      {
+        "name": "Arild Aas",
+        "link": "https://music.163.com/artist?id=13436856"
+      }
+    ],
+    "album": {
+      "name": "Happy with You (Radio Edit)",
+      "link": "https://music.163.com/album?id=90379139"
+    }
+  },
+  {
+    "name": "We'll Be Alright",
+    "link": "https://music.163.com/song?id=1431471073",
+    "duration": "02:58",
+    "artists": [
+      { "name": "BSY", "link": "https://music.163.com/artist?id=34372552" },
+      { "name": "JSY", "link": "https://music.163.com/artist?id=34371015" }
+    ],
+    "album": {
+      "name": "We'll Be Alright",
+      "link": "https://music.163.com/album?id=86557896"
+    }
+  },
+  {
+    "name": "Ready For It",
+    "link": "https://music.163.com/song?id=28370908",
+    "duration": "02:47",
+    "artists": [
+      { "name": "RAC", "link": "https://music.163.com/artist?id=148811" },
+      { "name": "St. Lucia", "link": "https://music.163.com/artist?id=87837" }
+    ],
+    "album": {
+      "name": "Strangers Part II",
+      "link": "https://music.163.com/album?id=2780512"
+    }
+  },
+  {
+    "name": "Next to Mine",
+    "link": "https://music.163.com/song?id=1381772521",
+    "duration": "04:10",
+    "artists": [
+      {
+        "name": "Jaymee Franchina",
+        "link": "https://music.163.com/artist?id=12108615"
+      },
+      {
+        "name": "Alina Renae",
+        "link": "https://music.163.com/artist?id=844803"
+      }
+    ],
+    "album": {
+      "name": "Next to Mine",
+      "link": "https://music.163.com/album?id=80755374"
+    }
+  },
+  {
+    "name": "Brooklyn",
+    "link": "https://music.163.com/song?id=1460319077",
+    "duration": "04:14",
+    "artists": [
+      {
+        "name": "The Midnight",
+        "link": "https://music.163.com/artist?id=12023492"
+      }
+    ],
+    "album": {
+      "name": "Monsters",
+      "link": "https://music.163.com/album?id=91949236"
+    }
+  },
+  {
+    "name": "you’ve changed, i’ve changed",
+    "link": "https://music.163.com/song?id=1849196940",
+    "duration": "05:11",
+    "artists": [
+      { "name": "San Holo", "link": "https://music.163.com/artist?id=1017035" },
+      {
+        "name": "Chet Porter",
+        "link": "https://music.163.com/artist?id=1150093"
+      }
+    ],
+    "album": {
+      "name": "bb u ok?",
+      "link": "https://music.163.com/album?id=128204234"
+    }
+  },
+  {
+    "name": "One Sided (feat. Mark Klaver)",
+    "link": "https://music.163.com/song?id=1822748691",
+    "duration": "03:53",
+    "artists": [
+      { "name": "ARMNHMR", "link": "https://music.163.com/artist?id=1132078" },
+      { "name": "Miles Away", "link": "https://music.163.com/artist?id=96821" },
+      {
+        "name": "Mark Klaver",
+        "link": "https://music.163.com/artist?id=33363093"
+      }
+    ],
+    "album": {
+      "name": "One Sided (feat. Mark Klaver)",
+      "link": "https://music.163.com/album?id=123491180"
+    }
+  },
+  {
+    "name": "Give Me Love",
+    "link": "https://music.163.com/song?id=1822450573",
+    "duration": "03:05",
+    "artists": [
+      { "name": "Vesrix!", "link": "https://music.163.com/artist?id=32889219" },
+      { "name": "RBF", "link": "https://music.163.com/artist?id=34317908" },
+      { "name": "KIEHA", "link": "https://music.163.com/artist?id=14021778" }
+    ],
+    "album": {
+      "name": "SOARING RECORDS VOL.2 SKYWORLD",
+      "link": "https://music.163.com/album?id=123436480"
+    }
+  },
+  {
+    "name": "在名为未来的波浪里",
+    "link": "https://music.163.com/song?id=1412645076",
+    "duration": "03:32",
+    "artists": [
+      { "name": "原子邦妮", "link": "https://music.163.com/artist?id=1193482" }
+    ],
+    "album": {
+      "name": "在名为未来的波浪里",
+      "link": "https://music.163.com/album?id=84570434"
+    }
+  },
+  {
+    "name": "Daily",
+    "link": "https://music.163.com/song?id=1313034565",
+    "duration": "03:20",
+    "artists": [
+      { "name": "Rival", "link": "https://music.163.com/artist?id=12741030" },
+      { "name": "Cadmium", "link": "https://music.163.com/artist?id=12945908" },
+      {
+        "name": "Jon Becker",
+        "link": "https://music.163.com/artist?id=14296748"
+      }
+    ],
+    "album": {
+      "name": "Daily",
+      "link": "https://music.163.com/album?id=73639441"
+    }
+  },
+  {
+    "name": "Yesterday",
+    "link": "https://music.163.com/song?id=1415347924",
+    "duration": "03:19",
+    "artists": [
+      {
+        "name": "Gareth Emery",
+        "link": "https://music.163.com/artist?id=34318"
+      },
+      { "name": "Nash", "link": "https://music.163.com/artist?id=954213" },
+      { "name": "Linney", "link": "https://music.163.com/artist?id=1193247" }
+    ],
+    "album": {
+      "name": "Yesterday",
+      "link": "https://music.163.com/album?id=84853541"
+    }
+  },
+  {
+    "name": "Midnight Sun",
+    "link": "https://music.163.com/song?id=1450044624",
+    "duration": "02:32",
+    "artists": [
+      {
+        "name": "Mike Perry",
+        "link": "https://music.163.com/artist?id=195021"
+      },
+      {
+        "name": "Forgét Mej",
+        "link": "https://music.163.com/artist?id=35261264"
+      }
+    ],
+    "album": {
+      "name": "Midnight Sun",
+      "link": "https://music.163.com/album?id=89799234"
+    }
+  },
+  {
+    "name": "That's Why I Like You",
+    "link": "https://music.163.com/song?id=1414112307",
+    "duration": "03:33",
+    "artists": [
+      { "name": "周兴哲", "link": "https://music.163.com/artist?id=980025" }
+    ],
+    "album": {
+      "name": "小时候的我们",
+      "link": "https://music.163.com/album?id=84710447"
+    }
+  },
+  {
+    "name": "Superstar",
+    "link": "https://music.163.com/song?id=457761459",
+    "duration": "03:22",
+    "artists": [
+      { "name": "Mandee", "link": "https://music.163.com/artist?id=12171036" }
+    ],
+    "album": {
+      "name": "Superstar",
+      "link": "https://music.163.com/album?id=35165070"
+    }
+  },
+  {
+    "name": "Crimes (Radio Edit)",
+    "link": "https://music.163.com/song?id=516823112",
+    "duration": "03:12",
+    "artists": [
+      { "name": "Spenz", "link": "https://music.163.com/artist?id=12811141" }
+    ],
+    "album": {
+      "name": "Crimes",
+      "link": "https://music.163.com/album?id=36723055"
+    }
+  },
+  {
+    "name": "遇",
+    "link": "https://music.163.com/song?id=1391638081",
+    "duration": "02:32",
+    "artists": [
+      {
+        "name": "Psyke (赛克）",
+        "link": "https://music.163.com/artist?id=27863138"
+      },
+      { "name": "黄鹤Miah", "link": "https://music.163.com/artist?id=168011" }
+    ],
+    "album": { "name": "遇", "link": "https://music.163.com/album?id=81616682" }
+  },
+  {
+    "name": "Falling",
+    "link": "https://music.163.com/song?id=1428699247",
+    "duration": "03:20",
+    "artists": [
+      { "name": "Kosling", "link": "https://music.163.com/artist?id=29289583" },
+      { "name": "AWR", "link": "https://music.163.com/artist?id=12047294" }
+    ],
+    "album": {
+      "name": "Falling",
+      "link": "https://music.163.com/album?id=86280152"
+    }
+  },
+  {
+    "name": "skeletons",
+    "link": "https://music.163.com/song?id=1378191814",
+    "duration": "02:32",
+    "artists": [
+      { "name": "keshi", "link": "https://music.163.com/artist?id=12544511" }
+    ],
+    "album": {
+      "name": "skeletons",
+      "link": "https://music.163.com/album?id=80416147"
+    }
+  },
+  {
+    "name": "i'm so tired...",
+    "link": "https://music.163.com/song?id=1339216146",
+    "duration": "02:42",
+    "artists": [
+      { "name": "Lauv", "link": "https://music.163.com/artist?id=1057226" },
+      { "name": "Troye Sivan", "link": "https://music.163.com/artist?id=45129" }
+    ],
+    "album": {
+      "name": "i'm so tired...",
+      "link": "https://music.163.com/album?id=75163674"
+    }
+  },
+  {
+    "name": "Cruel Love (Wooli Remix)",
+    "link": "https://music.163.com/song?id=1410385774",
+    "duration": "03:43",
+    "artists": [
+      { "name": "KAYZO", "link": "https://music.163.com/artist?id=1182886" },
+      {
+        "name": "shYbeast",
+        "link": "https://music.163.com/artist?id=32469588"
+      },
+      {
+        "name": "Frank Zummo",
+        "link": "https://music.163.com/artist?id=31151466"
+      },
+      { "name": "Wooli", "link": "https://music.163.com/artist?id=12203238" }
+    ],
+    "album": {
+      "name": "Cruel Love (Wooli Remix)",
+      "link": "https://music.163.com/album?id=84184632"
+    }
+  },
+  {
+    "name": "All For Love",
+    "link": "https://music.163.com/song?id=545947135",
+    "duration": "03:00",
+    "artists": [
+      {
+        "name": "Tungevaag & Raaban",
+        "link": "https://music.163.com/artist?id=1090022"
+      }
+    ],
+    "album": {
+      "name": "All For Love",
+      "link": "https://music.163.com/album?id=37926369"
+    }
+  },
+  {
+    "name": "Stitches",
+    "link": "https://music.163.com/song?id=31090820",
+    "duration": "03:26",
+    "artists": [
+      {
+        "name": "Shawn Mendes",
+        "link": "https://music.163.com/artist?id=956238"
+      }
+    ],
+    "album": {
+      "name": "Handwritten (Deluxe)",
+      "link": "https://music.163.com/album?id=3098962"
+    }
+  }
+]

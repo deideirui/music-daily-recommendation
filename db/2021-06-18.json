@@ -1,0 +1,428 @@
+[
+  {
+    "name": "Treasure U",
+    "link": "https://music.163.com/song?id=1437387212",
+    "duration": "03:00",
+    "artists": [
+      { "name": "BEAUZ", "link": "https://music.163.com/artist?id=12131436" },
+      { "name": "BSY", "link": "https://music.163.com/artist?id=34372552" },
+      { "name": "JSY", "link": "https://music.163.com/artist?id=34371015" },
+      {
+        "name": "Sarah De Warren",
+        "link": "https://music.163.com/artist?id=13222653"
+      }
+    ],
+    "album": {
+      "name": "Treasure U",
+      "link": "https://music.163.com/album?id=87573191"
+    }
+  },
+  {
+    "name": "I Don't Wanna Go",
+    "link": "https://music.163.com/song?id=1333159920",
+    "duration": "02:41",
+    "artists": [
+      {
+        "name": "Alan Walker",
+        "link": "https://music.163.com/artist?id=1045123"
+      },
+      {
+        "name": "Julie Bergan",
+        "link": "https://music.163.com/artist?id=896964"
+      }
+    ],
+    "album": {
+      "name": "Different World",
+      "link": "https://music.163.com/album?id=74571750"
+    }
+  },
+  {
+    "name": "Ghost (Joe Stone Remix)",
+    "link": "https://music.163.com/song?id=1407767447",
+    "duration": "02:37",
+    "artists": [
+      { "name": "Au/Ra", "link": "https://music.163.com/artist?id=12143031" },
+      {
+        "name": "Alan Walker",
+        "link": "https://music.163.com/artist?id=1045123"
+      },
+      { "name": "Joe Stone", "link": "https://music.163.com/artist?id=1071007" }
+    ],
+    "album": {
+      "name": "Ghost (Remixes)",
+      "link": "https://music.163.com/album?id=83916213"
+    }
+  },
+  {
+    "name": "Need U Around",
+    "link": "https://music.163.com/song?id=429482019",
+    "duration": "02:45",
+    "artists": [
+      { "name": "Juicy M", "link": "https://music.163.com/artist?id=1033018" }
+    ],
+    "album": {
+      "name": "Need U Around",
+      "link": "https://music.163.com/album?id=34869035"
+    }
+  },
+  {
+    "name": "Strongest",
+    "link": "https://music.163.com/song?id=515223584",
+    "duration": "03:27",
+    "artists": [
+      {
+        "name": "Ina Wroldsen",
+        "link": "https://music.163.com/artist?id=60879"
+      }
+    ],
+    "album": {
+      "name": "Strongest",
+      "link": "https://music.163.com/album?id=36515735"
+    }
+  },
+  {
+    "name": "月兔回旋于空中",
+    "link": "https://music.163.com/song?id=1311670185",
+    "duration": "02:54",
+    "artists": [
+      { "name": "花满", "link": "https://music.163.com/artist?id=12265144" }
+    ],
+    "album": {
+      "name": "被孤立并非我的本意",
+      "link": "https://music.163.com/album?id=72740264"
+    }
+  },
+  {
+    "name": "时ノ雨、最终戦争",
+    "link": "https://music.163.com/song?id=447129031",
+    "duration": "03:40",
+    "artists": [
+      { "name": "nin", "link": "https://music.163.com/artist?id=12174488" }
+    ],
+    "album": {
+      "name": "2016.11以前的合集",
+      "link": "https://music.163.com/album?id=35058189"
+    }
+  },
+  {
+    "name": "回る空うさぎ（Cover Orangestar / 初音未来）",
+    "link": "https://music.163.com/song?id=474659392",
+    "duration": "02:56",
+    "artists": [
+      { "name": "シンシン", "link": "https://music.163.com/artist?id=12140466" }
+    ],
+    "album": {
+      "name": "こんばんは＠シンシン",
+      "link": "https://music.163.com/album?id=35024349"
+    }
+  },
+  {
+    "name": "ginger snaps",
+    "link": "https://music.163.com/song?id=509098948",
+    "duration": "02:53",
+    "artists": [
+      { "name": "鎖那", "link": "https://music.163.com/artist?id=1002089" }
+    ],
+    "album": {
+      "name": "Hush a by little girl",
+      "link": "https://music.163.com/album?id=36303697"
+    }
+  },
+  {
+    "name": "栀月",
+    "link": "https://music.163.com/song?id=1463138364",
+    "duration": "02:54",
+    "artists": [
+      { "name": "Mr Chip", "link": "https://music.163.com/artist?id=12563879" }
+    ],
+    "album": {
+      "name": "月下的我们",
+      "link": "https://music.163.com/album?id=92441064"
+    }
+  },
+  {
+    "name": "One more time, One more chance",
+    "link": "https://music.163.com/song?id=1311347593",
+    "duration": "05:44",
+    "artists": [
+      { "name": "Uru", "link": "https://music.163.com/artist?id=12062125" }
+    ],
+    "album": {
+      "name": "Remember",
+      "link": "https://music.163.com/album?id=73470777"
+    }
+  },
+  {
+    "name": "unlasting - (TV动画《刀剑神域 Alicization篇 War of Underworld》片尾曲)",
+    "link": "https://music.163.com/song?id=1397725153",
+    "duration": "04:55",
+    "artists": [
+      { "name": "LiSA", "link": "https://music.163.com/artist?id=16995" }
+    ],
+    "album": {
+      "name": "Unlasting",
+      "link": "https://music.163.com/album?id=82528108"
+    }
+  },
+  {
+    "name": "Samurai 45 - (TV动画《异度侵入 ID:INVADED》第四话插曲)",
+    "link": "https://music.163.com/song?id=1379821181",
+    "duration": "02:56",
+    "artists": [
+      { "name": "MIYAVI", "link": "https://music.163.com/artist?id=14732" }
+    ],
+    "album": {
+      "name": "NO SLEEP TILL TOKYO",
+      "link": "https://music.163.com/album?id=80583621"
+    }
+  },
+  {
+    "name": "Layers",
+    "link": "https://music.163.com/song?id=484056480",
+    "duration": "03:46",
+    "artists": [
+      {
+        "name": "Aimee Blackschleger",
+        "link": "https://music.163.com/artist?id=225847"
+      }
+    ],
+    "album": {
+      "name": "Re:CREATORS Original Soundtrack",
+      "link": "https://music.163.com/album?id=35623130"
+    }
+  },
+  {
+    "name": "掀开夜幕·满眼星河",
+    "link": "https://music.163.com/song?id=1825725627",
+    "duration": "02:59",
+    "artists": [
+      { "name": "馒头", "link": "https://music.163.com/artist?id=12275908" }
+    ],
+    "album": {
+      "name": "起手探星河",
+      "link": "https://music.163.com/album?id=121631360"
+    }
+  },
+  {
+    "name": "marie",
+    "link": "https://music.163.com/song?id=1429424397",
+    "duration": "05:07",
+    "artists": [
+      { "name": "Aimer", "link": "https://music.163.com/artist?id=16152" }
+    ],
+    "album": {
+      "name": "春はゆく / marie",
+      "link": "https://music.163.com/album?id=86343827"
+    }
+  },
+  {
+    "name": "Arcadia (Van Snyder & Denostra Remix)",
+    "link": "https://music.163.com/song?id=34923318",
+    "duration": "04:56",
+    "artists": [
+      { "name": "Hardwell", "link": "https://music.163.com/artist?id=34994" },
+      { "name": "Joey Dale", "link": "https://music.163.com/artist?id=908121" },
+      { "name": "Luciana", "link": "https://music.163.com/artist?id=129232" }
+    ],
+    "album": {
+      "name": "Arcadia (Van Snyder & Denostra Remix)",
+      "link": "https://music.163.com/album?id=3306195"
+    }
+  },
+  {
+    "name": "Ice",
+    "link": "https://music.163.com/song?id=1356696803",
+    "duration": "03:18",
+    "artists": [
+      {
+        "name": "The Darkmaker",
+        "link": "https://music.163.com/artist?id=31492299"
+      }
+    ],
+    "album": {
+      "name": "KILUY",
+      "link": "https://music.163.com/album?id=78277441"
+    }
+  },
+  {
+    "name": "SAKURA",
+    "link": "https://music.163.com/song?id=719102",
+    "duration": "05:54",
+    "artists": [
+      {
+        "name": "いきものがかり",
+        "link": "https://music.163.com/artist?id=19270"
+      }
+    ],
+    "album": {
+      "name": "SAKURA",
+      "link": "https://music.163.com/album?id=70378"
+    }
+  },
+  {
+    "name": "This Side Of Paradise (Lost Kings Remix)",
+    "link": "https://music.163.com/song?id=30474535",
+    "duration": "04:04",
+    "artists": [
+      {
+        "name": "Hayley Kiyoko",
+        "link": "https://music.163.com/artist?id=209773"
+      },
+      { "name": "Lost Kings", "link": "https://music.163.com/artist?id=847225" }
+    ],
+    "album": {
+      "name": "This Side Of Paradise (Lost Kings Remix)",
+      "link": "https://music.163.com/album?id=3102028"
+    }
+  },
+  {
+    "name": "Summer Of My Childhood (Mark & Lukas Remix)",
+    "link": "https://music.163.com/song?id=495218280",
+    "duration": "06:26",
+    "artists": [
+      {
+        "name": "George Ellinas",
+        "link": "https://music.163.com/artist?id=442621"
+      },
+      {
+        "name": "Mark & Lukas",
+        "link": "https://music.163.com/artist?id=1104097"
+      }
+    ],
+    "album": {
+      "name": "Summer Of My Childhood",
+      "link": "https://music.163.com/album?id=35878106"
+    }
+  },
+  {
+    "name": "journey",
+    "link": "https://music.163.com/song?id=490257118",
+    "duration": "04:03",
+    "artists": [
+      { "name": "Thunse", "link": "https://music.163.com/artist?id=1081769" }
+    ],
+    "album": {
+      "name": "journey",
+      "link": "https://music.163.com/album?id=35732746"
+    }
+  },
+  {
+    "name": "ユラレル - (动摇)",
+    "link": "https://music.163.com/song?id=1387105692",
+    "duration": "03:44",
+    "artists": [
+      { "name": "みゆな", "link": "https://music.163.com/artist?id=30110388" }
+    ],
+    "album": {
+      "name": "ユラレル",
+      "link": "https://music.163.com/album?id=81675046"
+    }
+  },
+  {
+    "name": "いつも何度でも - (「千と千尋の神隠し」 主題歌)",
+    "link": "https://music.163.com/song?id=584155",
+    "duration": "03:48",
+    "artists": [
+      { "name": "伊藤サチコ", "link": "https://music.163.com/artist?id=16605" }
+    ],
+    "album": {
+      "name": "ジブリを聴きながら、上を向いて歩こう",
+      "link": "https://music.163.com/album?id=55112"
+    }
+  },
+  {
+    "name": "動く、動く - (TV动画《少女终末旅行》片头曲)",
+    "link": "https://music.163.com/song?id=520461943",
+    "duration": "04:36",
+    "artists": [
+      {
+        "name": "水瀬いのり",
+        "link": "https://music.163.com/artist?id=1004106"
+      },
+      { "name": "久保ユリカ", "link": "https://music.163.com/artist?id=900294" }
+    ],
+    "album": {
+      "name": "動く、動く",
+      "link": "https://music.163.com/album?id=36853241"
+    }
+  },
+  {
+    "name": "潮汐",
+    "link": "https://music.163.com/song?id=1821627587",
+    "duration": "03:12",
+    "artists": [
+      { "name": "Kryust", "link": "https://music.163.com/artist?id=34759573" }
+    ],
+    "album": {
+      "name": "潮汐",
+      "link": "https://music.163.com/album?id=123242400"
+    }
+  },
+  {
+    "name": "オレンジ - (TV动画《四月是你的谎言》片尾曲)",
+    "link": "https://music.163.com/song?id=30496836",
+    "duration": "05:51",
+    "artists": [
+      { "name": "seven oops", "link": "https://music.163.com/artist?id=22540" }
+    ],
+    "album": {
+      "name": "オレンジ(期間生産限定盤)",
+      "link": "https://music.163.com/album?id=3102277"
+    }
+  },
+  {
+    "name": "Forest Fire",
+    "link": "https://music.163.com/song?id=1333588291",
+    "duration": "03:51",
+    "artists": [
+      { "name": "Brighton", "link": "https://music.163.com/artist?id=50121" }
+    ],
+    "album": {
+      "name": "Forest Fire",
+      "link": "https://music.163.com/album?id=74891461"
+    }
+  },
+  {
+    "name": "犬来八荒",
+    "link": "https://music.163.com/song?id=1441961380",
+    "duration": "03:14",
+    "artists": [
+      { "name": "糯依Noi", "link": "https://music.163.com/artist?id=32781191" },
+      { "name": "Mercy", "link": "https://music.163.com/artist?id=30956110" }
+    ],
+    "album": {
+      "name": "犬来八荒 ",
+      "link": "https://music.163.com/album?id=88259698"
+    }
+  },
+  {
+    "name": "剪刀刺客",
+    "link": "https://music.163.com/song?id=1423796752",
+    "duration": "04:04",
+    "artists": [
+      { "name": "昭酱", "link": "https://music.163.com/artist?id=33908403" }
+    ],
+    "album": {
+      "name": "刺客伍六七",
+      "link": "https://music.163.com/album?id=84821273"
+    }
+  },
+  {
+    "name": "Supersonic (My Existence)",
+    "link": "https://music.163.com/song?id=1852125030",
+    "duration": "02:47",
+    "artists": [
+      { "name": "Skrillex", "link": "https://music.163.com/artist?id=43755" },
+      { "name": "Noisia", "link": "https://music.163.com/artist?id=97672" },
+      { "name": "josh pan", "link": "https://music.163.com/artist?id=1006045" },
+      {
+        "name": "Dylan Brady",
+        "link": "https://music.163.com/artist?id=12054430"
+      }
+    ],
+    "album": {
+      "name": "Supersonic (My Existence)",
+      "link": "https://music.163.com/album?id=128758316"
+    }
+  }
+]

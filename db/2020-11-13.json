@@ -1,0 +1,434 @@
+[
+  {
+    "name": "Pooh Bear",
+    "link": "https://music.163.com/song?id=1379603525",
+    "duration": "03:33",
+    "artists": [
+      {
+        "name": "Happy Sometimes",
+        "link": "https://music.163.com/artist?id=12859026"
+      }
+    ],
+    "album": {
+      "name": "Pooh Bear",
+      "link": "https://music.163.com/album?id=80553495"
+    }
+  },
+  {
+    "name": "Stories",
+    "link": "https://music.163.com/song?id=1391811816",
+    "duration": "02:48",
+    "artists": [
+      { "name": "Luke Bond", "link": "https://music.163.com/artist?id=191581" },
+      {
+        "name": "Ruby Chase",
+        "link": "https://music.163.com/artist?id=29781533"
+      }
+    ],
+    "album": {
+      "name": "Stories",
+      "link": "https://music.163.com/album?id=81750838"
+    }
+  },
+  {
+    "name": "Gone",
+    "link": "https://music.163.com/song?id=506092362",
+    "duration": "03:50",
+    "artists": [
+      { "name": "AK", "link": "https://music.163.com/artist?id=1192509" }
+    ],
+    "album": {
+      "name": "Lost in Thoughts",
+      "link": "https://music.163.com/album?id=36224085"
+    }
+  },
+  {
+    "name": "This Is My Story",
+    "link": "https://music.163.com/song?id=552218925",
+    "duration": "04:20",
+    "artists": [
+      {
+        "name": "Miza / CIËLO",
+        "link": "https://music.163.com/artist?id=12281478"
+      }
+    ],
+    "album": {
+      "name": "This Is My Story",
+      "link": "https://music.163.com/album?id=38318990"
+    }
+  },
+  {
+    "name": "Make Me Move",
+    "link": "https://music.163.com/song?id=447076194",
+    "duration": "03:17",
+    "artists": [
+      {
+        "name": "Culture Code",
+        "link": "https://music.163.com/artist?id=1049930"
+      },
+      { "name": "Karra", "link": "https://music.163.com/artist?id=1081582" }
+    ],
+    "album": {
+      "name": "Make Me Move",
+      "link": "https://music.163.com/album?id=35051295"
+    }
+  },
+  {
+    "name": "Mercury",
+    "link": "https://music.163.com/song?id=454811343",
+    "duration": "05:12",
+    "artists": [
+      {
+        "name": "Sufjan Stevens",
+        "link": "https://music.163.com/artist?id=42955"
+      },
+      {
+        "name": "Bryce Dessner",
+        "link": "https://music.163.com/artist?id=302608"
+      },
+      { "name": "Nico Muhly", "link": "https://music.163.com/artist?id=40592" },
+      {
+        "name": "James McAlister",
+        "link": "https://music.163.com/artist?id=12356027"
+      }
+    ],
+    "album": {
+      "name": "Planetarium",
+      "link": "https://music.163.com/album?id=35145070"
+    }
+  },
+  {
+    "name": "Airplane",
+    "link": "https://music.163.com/song?id=1446962953",
+    "duration": "03:47",
+    "artists": [
+      {
+        "name": "Max Oazo",
+        "link": "https://music.163.com/artist?id=13159084"
+      },
+      { "name": "Moonessa", "link": "https://music.163.com/artist?id=29834706" }
+    ],
+    "album": {
+      "name": "Airplane",
+      "link": "https://music.163.com/album?id=89240666"
+    }
+  },
+  {
+    "name": "Hell Froze Over",
+    "link": "https://music.163.com/song?id=1311696928",
+    "duration": "03:45",
+    "artists": [
+      { "name": "Kodaline", "link": "https://music.163.com/artist?id=727007" }
+    ],
+    "album": {
+      "name": "Politics of Living",
+      "link": "https://music.163.com/album?id=73515563"
+    }
+  },
+  {
+    "name": "Edge",
+    "link": "https://music.163.com/song?id=401246013",
+    "duration": "03:43",
+    "artists": [
+      { "name": "Rezz", "link": "https://music.163.com/artist?id=1019466" }
+    ],
+    "album": {
+      "name": "The Silence Is Deafening",
+      "link": "https://music.163.com/album?id=34442011"
+    }
+  },
+  {
+    "name": "Chrono",
+    "link": "https://music.163.com/song?id=1343460749",
+    "duration": "04:03",
+    "artists": [
+      {
+        "name": "Kirara Magic",
+        "link": "https://music.163.com/artist?id=30226109"
+      },
+      { "name": "Yirokos", "link": "https://music.163.com/artist?id=30237208" }
+    ],
+    "album": {
+      "name": "Chrono",
+      "link": "https://music.163.com/album?id=75383079"
+    }
+  },
+  {
+    "name": "有些",
+    "link": "https://music.163.com/song?id=1406649619",
+    "duration": "03:49",
+    "artists": [
+      { "name": "颜人中", "link": "https://music.163.com/artist?id=31376161" }
+    ],
+    "album": {
+      "name": "失眠症候群",
+      "link": "https://music.163.com/album?id=83770787"
+    }
+  },
+  {
+    "name": "Move Up (Lost Gravity)",
+    "link": "https://music.163.com/song?id=545165146",
+    "duration": "03:04",
+    "artists": [
+      {
+        "name": "Mr. Polska",
+        "link": "https://music.163.com/artist?id=1161187"
+      }
+    ],
+    "album": {
+      "name": "Ibiza 2016",
+      "link": "https://music.163.com/album?id=37917690"
+    }
+  },
+  {
+    "name": "Finding Your Heart",
+    "link": "https://music.163.com/song?id=1312596791",
+    "duration": "07:23",
+    "artists": [
+      {
+        "name": "Tony Anderson",
+        "link": "https://music.163.com/artist?id=79757"
+      }
+    ],
+    "album": {
+      "name": "Chasm",
+      "link": "https://music.163.com/album?id=73595415"
+    }
+  },
+  {
+    "name": "Sorry",
+    "link": "https://music.163.com/song?id=1493059212",
+    "duration": "03:20",
+    "artists": [
+      {
+        "name": "Justin Bieber",
+        "link": "https://music.163.com/artist?id=35531"
+      }
+    ],
+    "album": {
+      "name": "Work From Home Bops",
+      "link": "https://music.163.com/album?id=97926366"
+    }
+  },
+  {
+    "name": "New Dance",
+    "link": "https://music.163.com/song?id=1323272440",
+    "duration": "02:40",
+    "artists": [
+      { "name": "MKJ", "link": "https://music.163.com/artist?id=469200" }
+    ],
+    "album": {
+      "name": "Time After Time",
+      "link": "https://music.163.com/album?id=74263822"
+    }
+  },
+  {
+    "name": "Sage",
+    "link": "https://music.163.com/song?id=1429659599",
+    "duration": "03:01",
+    "artists": [
+      { "name": "Yumi Zouma", "link": "https://music.163.com/artist?id=893365" }
+    ],
+    "album": {
+      "name": "Truth or Consequences",
+      "link": "https://music.163.com/album?id=86373913"
+    }
+  },
+  {
+    "name": "晴天的周末在去学校补课的路上遇见了喜欢的人",
+    "link": "https://music.163.com/song?id=477310237",
+    "duration": "03:32",
+    "artists": [
+      { "name": "AniFace", "link": "https://music.163.com/artist?id=12259037" }
+    ],
+    "album": {
+      "name": "晴天的周末在去学校补课的路上遇见了喜欢的人",
+      "link": "https://music.163.com/album?id=35463044"
+    }
+  },
+  {
+    "name": "Geronimo",
+    "link": "https://music.163.com/song?id=27062529",
+    "duration": "03:17",
+    "artists": [
+      { "name": "Aura Dione", "link": "https://music.163.com/artist?id=46546" }
+    ],
+    "album": {
+      "name": "Die Ultimative Chartshow (Die Erfolgreichsten Hits 2011)",
+      "link": "https://music.163.com/album?id=2580940"
+    }
+  },
+  {
+    "name": "I Wanna Dance",
+    "link": "https://music.163.com/song?id=1461069296",
+    "duration": "02:48",
+    "artists": [
+      { "name": "Dr Phunk", "link": "https://music.163.com/artist?id=334012" },
+      { "name": "le Shuuk", "link": "https://music.163.com/artist?id=466431" }
+    ],
+    "album": {
+      "name": "I Wanna Dance",
+      "link": "https://music.163.com/album?id=92068472"
+    }
+  },
+  {
+    "name": "Hello",
+    "link": "https://music.163.com/song?id=1473922251",
+    "duration": "03:45",
+    "artists": [
+      {
+        "name": "VARGENTA",
+        "link": "https://music.163.com/artist?id=12108656"
+      },
+      { "name": "ZENTA", "link": "https://music.163.com/artist?id=36937063" },
+      {
+        "name": "Revealed Recordings",
+        "link": "https://music.163.com/artist?id=28753573"
+      },
+      {
+        "name": "Max Landry",
+        "link": "https://music.163.com/artist?id=13493957"
+      }
+    ],
+    "album": {
+      "name": "Hello",
+      "link": "https://music.163.com/album?id=94465381"
+    }
+  },
+  {
+    "name": "Your Mind",
+    "link": "https://music.163.com/song?id=1469909200",
+    "duration": "04:35",
+    "artists": [
+      { "name": "Maddix", "link": "https://music.163.com/artist?id=957014" }
+    ],
+    "album": {
+      "name": "Tribe EP Vol. I",
+      "link": "https://music.163.com/album?id=93747255"
+    }
+  },
+  {
+    "name": "Revenge",
+    "link": "https://music.163.com/song?id=1389794615",
+    "duration": "04:24",
+    "artists": [
+      {
+        "name": "Captainsparklez",
+        "link": "https://music.163.com/artist?id=33192924"
+      }
+    ],
+    "album": {
+      "name": "Revenge",
+      "link": "https://music.163.com/album?id=81500905"
+    }
+  },
+  {
+    "name": "向日葵（陷入纯情OST）（翻自 群星）",
+    "link": "https://music.163.com/song?id=1442710088",
+    "duration": "02:44",
+    "artists": [
+      {
+        "name": "我也不太了解她",
+        "link": "https://music.163.com/artist?id=34679092"
+      }
+    ],
+    "album": {
+      "name": "意难平",
+      "link": "https://music.163.com/album?id=88372860"
+    }
+  },
+  {
+    "name": "Feel It Too",
+    "link": "https://music.163.com/song?id=1325453694",
+    "duration": "03:18",
+    "artists": [
+      { "name": "Cadmium", "link": "https://music.163.com/artist?id=12945908" },
+      {
+        "name": "Timmy Commerford",
+        "link": "https://music.163.com/artist?id=29779833"
+      }
+    ],
+    "album": {
+      "name": "Feel It Too",
+      "link": "https://music.163.com/album?id=74414685"
+    }
+  },
+  {
+    "name": "Athmos",
+    "link": "https://music.163.com/song?id=401249122",
+    "duration": "03:52",
+    "artists": [
+      { "name": "Warptech", "link": "https://music.163.com/artist?id=1046351" }
+    ],
+    "album": {
+      "name": "Athmos",
+      "link": "https://music.163.com/album?id=34444033"
+    }
+  },
+  {
+    "name": "Done Stealin' ",
+    "link": "https://music.163.com/song?id=16954478",
+    "duration": "03:38",
+    "artists": [
+      {
+        "name": "Carolina Liar",
+        "link": "https://music.163.com/artist?id=29977"
+      }
+    ],
+    "album": {
+      "name": "Coming To Terms",
+      "link": "https://music.163.com/album?id=1562236"
+    }
+  },
+  {
+    "name": "Shining Hope",
+    "link": "https://music.163.com/song?id=478143713",
+    "duration": "03:37",
+    "artists": [
+      { "name": "塞米七", "link": "https://music.163.com/artist?id=12027560" }
+    ],
+    "album": {
+      "name": "Shining",
+      "link": "https://music.163.com/album?id=35503294"
+    }
+  },
+  {
+    "name": "Azimuth",
+    "link": "https://music.163.com/song?id=1336866208",
+    "duration": "04:47",
+    "artists": [
+      { "name": "Resonance", "link": "https://music.163.com/artist?id=196588" },
+      { "name": "Kaisaku", "link": "https://music.163.com/artist?id=13022777" },
+      { "name": "Leumas", "link": "https://music.163.com/artist?id=648789" }
+    ],
+    "album": {
+      "name": "Azimuth",
+      "link": "https://music.163.com/album?id=75019729"
+    }
+  },
+  {
+    "name": "Bromance",
+    "link": "https://music.163.com/song?id=37720261",
+    "duration": "04:00",
+    "artists": [
+      { "name": "Ennex", "link": "https://music.163.com/artist?id=1089100" },
+      { "name": "Pilton", "link": "https://music.163.com/artist?id=1050299" }
+    ],
+    "album": {
+      "name": "Bromance",
+      "link": "https://music.163.com/album?id=3422086"
+    }
+  },
+  {
+    "name": "Spectral (Full Version)",
+    "link": "https://music.163.com/song?id=1382997820",
+    "duration": "03:36",
+    "artists": [
+      { "name": "Andreas B.", "link": "https://music.163.com/artist?id=299713" }
+    ],
+    "album": {
+      "name": "Spectral (Full Version)",
+      "link": "https://music.163.com/album?id=80850923"
+    }
+  }
+]

@@ -1,0 +1,478 @@
+[
+  {
+    "name": "Explorers",
+    "link": "https://music.163.com/song?id=1335952981",
+    "duration": "04:16",
+    "artists": [
+      {
+        "name": "The Midnight",
+        "link": "https://music.163.com/artist?id=12023492"
+      }
+    ],
+    "album": {
+      "name": "Kids",
+      "link": "https://music.163.com/album?id=74997854"
+    }
+  },
+  {
+    "name": "New Tomorrow",
+    "link": "https://music.163.com/song?id=25749067",
+    "duration": "05:10",
+    "artists": [
+      {
+        "name": "Miami Nights 1984",
+        "link": "https://music.163.com/artist?id=688257"
+      }
+    ],
+    "album": {
+      "name": "Turbulence",
+      "link": "https://music.163.com/album?id=2304897"
+    }
+  },
+  {
+    "name": "Silhouette",
+    "link": "https://music.163.com/song?id=430297680",
+    "duration": "03:22",
+    "artists": [
+      { "name": "Kozoro", "link": "https://music.163.com/artist?id=1050567" }
+    ],
+    "album": {
+      "name": "Silhouette",
+      "link": "https://music.163.com/album?id=34874452"
+    }
+  },
+  {
+    "name": "Hold You Tonight",
+    "link": "https://music.163.com/song?id=1438398994",
+    "duration": "03:39",
+    "artists": [
+      { "name": "Gryffin", "link": "https://music.163.com/artist?id=1181504" },
+      {
+        "name": "Chris Lane",
+        "link": "https://music.163.com/artist?id=1181677"
+      }
+    ],
+    "album": {
+      "name": "Hold You Tonight",
+      "link": "https://music.163.com/album?id=87726566"
+    }
+  },
+  {
+    "name": "Still Sleeping",
+    "link": "https://music.163.com/song?id=1356229856",
+    "duration": "04:46",
+    "artists": [
+      { "name": "Jai Wolf", "link": "https://music.163.com/artist?id=1063048" }
+    ],
+    "album": {
+      "name": "The Cure To Loneliness",
+      "link": "https://music.163.com/album?id=78300643"
+    }
+  },
+  {
+    "name": "Body",
+    "link": "https://music.163.com/song?id=1395040343",
+    "duration": "02:44",
+    "artists": [
+      { "name": "Dastic", "link": "https://music.163.com/artist?id=1193103" },
+      {
+        "name": "Robert Falcon",
+        "link": "https://music.163.com/artist?id=12210015"
+      }
+    ],
+    "album": {
+      "name": "Body",
+      "link": "https://music.163.com/album?id=82145909"
+    }
+  },
+  {
+    "name": "Own The Night",
+    "link": "https://music.163.com/song?id=1454854326",
+    "duration": "03:26",
+    "artists": [
+      {
+        "name": "Swanky Tunes",
+        "link": "https://music.163.com/artist?id=206627"
+      },
+      {
+        "name": "Jac & Harri",
+        "link": "https://music.163.com/artist?id=12776287"
+      }
+    ],
+    "album": {
+      "name": "Own The Night",
+      "link": "https://music.163.com/album?id=90759856"
+    }
+  },
+  {
+    "name": "Soft Spoken",
+    "link": "https://music.163.com/song?id=409149142",
+    "duration": "05:02",
+    "artists": [
+      { "name": "Puppet", "link": "https://music.163.com/artist?id=152355" }
+    ],
+    "album": {
+      "name": "Soft Spoken",
+      "link": "https://music.163.com/album?id=34590935"
+    }
+  },
+  {
+    "name": "Wanna Be Someone",
+    "link": "https://music.163.com/song?id=1410143585",
+    "duration": "02:47",
+    "artists": [
+      {
+        "name": "Croatia Squad",
+        "link": "https://music.163.com/artist?id=820489"
+      }
+    ],
+    "album": {
+      "name": "Wanna Be Someone",
+      "link": "https://music.163.com/album?id=84145658"
+    }
+  },
+  {
+    "name": "To Build an Army",
+    "link": "https://music.163.com/song?id=1399524522",
+    "duration": "05:34",
+    "artists": [
+      {
+        "name": "Marcus Warner",
+        "link": "https://music.163.com/artist?id=1046308"
+      }
+    ],
+    "album": {
+      "name": "Reprise - EP",
+      "link": "https://music.163.com/album?id=82782578"
+    }
+  },
+  {
+    "name": "Deep In My Heart (Radio Edit)",
+    "link": "https://music.163.com/song?id=29576152",
+    "duration": "04:01",
+    "artists": [
+      {
+        "name": "Denis Kenzo",
+        "link": "https://music.163.com/artist?id=263670"
+      }
+    ],
+    "album": {
+      "name": "Deep In My Heart",
+      "link": "https://music.163.com/album?id=3047513"
+    }
+  },
+  {
+    "name": "Surrender",
+    "link": "https://music.163.com/song?id=534540204",
+    "duration": "03:19",
+    "artists": [
+      { "name": "Darude", "link": "https://music.163.com/artist?id=31417" },
+      {
+        "name": "Ashley Wallbridge",
+        "link": "https://music.163.com/artist?id=29252"
+      },
+      { "name": "Foux", "link": "https://music.163.com/artist?id=13238411" }
+    ],
+    "album": {
+      "name": "Surrender",
+      "link": "https://music.163.com/album?id=37464085"
+    }
+  },
+  {
+    "name": "Serein (Extended Mix)",
+    "link": "https://music.163.com/song?id=410925064",
+    "duration": "07:09",
+    "artists": [
+      {
+        "name": "Arctic Moon",
+        "link": "https://music.163.com/artist?id=820034"
+      }
+    ],
+    "album": {
+      "name": "Serein",
+      "link": "https://music.163.com/album?id=34609940"
+    }
+  },
+  {
+    "name": "The Water Cycle",
+    "link": "https://music.163.com/song?id=553858177",
+    "duration": "02:12",
+    "artists": [
+      { "name": "Panu Aaltio", "link": "https://music.163.com/artist?id=41848" }
+    ],
+    "album": {
+      "name": "Tale of a Lake (Original Motion Picture Soundtrack)",
+      "link": "https://music.163.com/album?id=38406229"
+    }
+  },
+  {
+    "name": "Colors",
+    "link": "https://music.163.com/song?id=28921656",
+    "duration": "04:39",
+    "artists": [
+      { "name": "Tobu", "link": "https://music.163.com/artist?id=964486" }
+    ],
+    "album": {
+      "name": "Colors",
+      "link": "https://music.163.com/album?id=2943226"
+    }
+  },
+  {
+    "name": "2018 New Year EDM Set(Continuous Mix)",
+    "link": "https://music.163.com/song?id=529324439",
+    "duration": "40:21",
+    "artists": [
+      { "name": "DjEOS", "link": "https://music.163.com/artist?id=13008253" }
+    ],
+    "album": {
+      "name": "2018 New Year EDM Set(Continuous Mix)",
+      "link": "https://music.163.com/album?id=37222117"
+    }
+  },
+  {
+    "name": "No Surprises",
+    "link": "https://music.163.com/song?id=22497479",
+    "duration": "03:49",
+    "artists": [
+      { "name": "Radiohead", "link": "https://music.163.com/artist?id=99384" }
+    ],
+    "album": {
+      "name": "OK Computer",
+      "link": "https://music.163.com/album?id=2060534"
+    }
+  },
+  {
+    "name": "better off",
+    "link": "https://music.163.com/song?id=554200671",
+    "duration": "03:12",
+    "artists": [
+      {
+        "name": "Jeremy Zucker",
+        "link": "https://music.163.com/artist?id=12096183"
+      },
+      {
+        "name": "Chelsea Cutler",
+        "link": "https://music.163.com/artist?id=1150112"
+      }
+    ],
+    "album": {
+      "name": "better off",
+      "link": "https://music.163.com/album?id=38426095"
+    }
+  },
+  {
+    "name": "Airwaves",
+    "link": "https://music.163.com/song?id=515803398",
+    "duration": "03:12",
+    "artists": [
+      {
+        "name": "Adib Sin",
+        "link": "https://music.163.com/artist?id=12244027"
+      },
+      {
+        "name": "Azuria Sky",
+        "link": "https://music.163.com/artist?id=12914272"
+      },
+      {
+        "name": "B. L. Hav",
+        "link": "https://music.163.com/artist?id=34246038"
+      }
+    ],
+    "album": {
+      "name": "Airwaves",
+      "link": "https://music.163.com/album?id=36682228"
+    }
+  },
+  {
+    "name": "Isolation (Original Mix)",
+    "link": "https://music.163.com/song?id=1444997260",
+    "duration": "03:23",
+    "artists": [
+      {
+        "name": "Peace Maker!",
+        "link": "https://music.163.com/artist?id=14104724"
+      },
+      { "name": "First", "link": "https://music.163.com/artist?id=12773466" }
+    ],
+    "album": {
+      "name": "Isolation",
+      "link": "https://music.163.com/album?id=88843665"
+    }
+  },
+  {
+    "name": "Location (A&G Remix) - (Khalid Cover)",
+    "link": "https://music.163.com/song?id=518092145",
+    "duration": "03:07",
+    "artists": [
+      { "name": "A&G", "link": "https://music.163.com/artist?id=957087" },
+      { "name": "Khalid", "link": "https://music.163.com/artist?id=301757" }
+    ],
+    "album": {
+      "name": "Location (A&G Remix)",
+      "link": "https://music.163.com/album?id=36785064"
+    }
+  },
+  {
+    "name": "Nightmare",
+    "link": "https://music.163.com/song?id=1300632827",
+    "duration": "03:30",
+    "artists": [
+      {
+        "name": "Brooke Williams",
+        "link": "https://music.163.com/artist?id=1060216"
+      }
+    ],
+    "album": {
+      "name": "Nightmare",
+      "link": "https://music.163.com/album?id=72193206"
+    }
+  },
+  {
+    "name": "PopLove (2012) ",
+    "link": "https://music.163.com/song?id=33497261",
+    "duration": "06:22",
+    "artists": [
+      {
+        "name": "Robin Skouteris",
+        "link": "https://music.163.com/artist?id=956375"
+      }
+    ],
+    "album": {
+      "name": "PopLove (2012)",
+      "link": "https://music.163.com/album?id=3213275"
+    }
+  },
+  {
+    "name": "2018 End of the Year Mix",
+    "link": "https://music.163.com/song?id=1334259177",
+    "duration": "45:00",
+    "artists": [
+      { "name": "Vicetone", "link": "https://music.163.com/artist?id=747030" }
+    ],
+    "album": {
+      "name": "2018 End of the Year Mix",
+      "link": "https://music.163.com/album?id=74916656"
+    }
+  },
+  {
+    "name": "Beautiful Life",
+    "link": "https://music.163.com/song?id=557581480",
+    "duration": "03:48",
+    "artists": [
+      {
+        "name": "Kidswaste",
+        "link": "https://music.163.com/artist?id=1116302"
+      },
+      {
+        "name": "Sophie Simmons",
+        "link": "https://music.163.com/artist?id=13226785"
+      }
+    ],
+    "album": {
+      "name": "Beautiful Life",
+      "link": "https://music.163.com/album?id=38592179"
+    }
+  },
+  {
+    "name": "Feel The Love",
+    "link": "https://music.163.com/song?id=32683129",
+    "duration": "03:44",
+    "artists": [
+      {
+        "name": "Sam Padrul",
+        "link": "https://music.163.com/artist?id=1015057"
+      }
+    ],
+    "album": {
+      "name": "Feel the Love",
+      "link": "https://music.163.com/album?id=3165211"
+    }
+  },
+  {
+    "name": "Far Clouds",
+    "link": "https://music.163.com/song?id=34040821",
+    "duration": "04:05",
+    "artists": [
+      {
+        "name": "Jesús​Muñoz",
+        "link": "https://music.163.com/artist?id=1050296"
+      },
+      { "name": "Clasio", "link": "https://music.163.com/artist?id=1132955" }
+    ],
+    "album": {
+      "name": "Far Clouds",
+      "link": "https://music.163.com/album?id=3270720"
+    }
+  },
+  {
+    "name": "Chase the Light",
+    "link": "https://music.163.com/song?id=35310220",
+    "duration": "06:33",
+    "artists": [
+      { "name": "Sundriver", "link": "https://music.163.com/artist?id=143845" }
+    ],
+    "album": {
+      "name": "Silk Royal Showcase 05",
+      "link": "https://music.163.com/album?id=3317050"
+    }
+  },
+  {
+    "name": "Live For Tonight",
+    "link": "https://music.163.com/song?id=1444335394",
+    "duration": "03:16",
+    "artists": [
+      {
+        "name": "Super8 & Tab",
+        "link": "https://music.163.com/artist?id=100916"
+      },
+      {
+        "name": "Jess Ball",
+        "link": "https://music.163.com/artist?id=33784327"
+      }
+    ],
+    "album": {
+      "name": "These Little Stories (Part One)",
+      "link": "https://music.163.com/album?id=88704659"
+    }
+  },
+  {
+    "name": "Stardew",
+    "link": "https://music.163.com/song?id=1347282300",
+    "duration": "07:10",
+    "artists": [
+      { "name": "Rameses B", "link": "https://music.163.com/artist?id=42898" }
+    ],
+    "album": {
+      "name": "Spacewalk III: Alpha Cen",
+      "link": "https://music.163.com/album?id=75640387"
+    }
+  },
+  {
+    "name": "Arcade Summer",
+    "link": "https://music.163.com/song?id=411921885",
+    "duration": "03:59",
+    "artists": [
+      { "name": "FM-84", "link": "https://music.163.com/artist?id=12046467" }
+    ],
+    "album": {
+      "name": "Atlas",
+      "link": "https://music.163.com/album?id=34686652"
+    }
+  },
+  {
+    "name": "Love Is Gone (feat. Dylan Matthew) (Acoustic)",
+    "link": "https://music.163.com/song?id=1401671455",
+    "duration": "02:56",
+    "artists": [
+      { "name": "SLANDER", "link": "https://music.163.com/artist?id=1137239" },
+      {
+        "name": "Dylan Matthew",
+        "link": "https://music.163.com/artist?id=28684353"
+      }
+    ],
+    "album": {
+      "name": "Love Is Gone (Acoustic)",
+      "link": "https://music.163.com/album?id=83079277"
+    }
+  }
+]

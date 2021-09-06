@@ -1,0 +1,455 @@
+[
+  {
+    "name": "Somewhere in Ann Arbor",
+    "link": "https://music.163.com/song?id=1447767740",
+    "duration": "03:32",
+    "artists": [
+      {
+        "name": "Anson Seabra",
+        "link": "https://music.163.com/artist?id=14470054"
+      }
+    ],
+    "album": {
+      "name": "Songs I Wrote in My Bedroom",
+      "link": "https://music.163.com/album?id=89390158"
+    }
+  },
+  {
+    "name": "Snowship",
+    "link": "https://music.163.com/song?id=27544862",
+    "duration": "02:21",
+    "artists": [
+      {
+        "name": "Patricia Wilde",
+        "link": "https://music.163.com/artist?id=812021"
+      }
+    ],
+    "album": {
+      "name": "The Lake in June",
+      "link": "https://music.163.com/album?id=2631264"
+    }
+  },
+  {
+    "name": "Sweet Dreams",
+    "link": "https://music.163.com/song?id=1349283442",
+    "duration": "03:02",
+    "artists": [
+      {
+        "name": "Besomorph",
+        "link": "https://music.163.com/artist?id=13406913"
+      }
+    ],
+    "album": {
+      "name": "Sweet Dreams",
+      "link": "https://music.163.com/album?id=75741786"
+    }
+  },
+  {
+    "name": "DROWN",
+    "link": "https://music.163.com/song?id=1386891284",
+    "duration": "03:18",
+    "artists": [
+      { "name": "AViVA", "link": "https://music.163.com/artist?id=12074178" }
+    ],
+    "album": {
+      "name": "DROWN",
+      "link": "https://music.163.com/album?id=81175396"
+    }
+  },
+  {
+    "name": "Treading in the Abyss",
+    "link": "https://music.163.com/song?id=1335349531",
+    "duration": "04:02",
+    "artists": [
+      { "name": "Wisp X", "link": "https://music.163.com/artist?id=1046123" },
+      { "name": "GUMI", "link": "https://music.163.com/artist?id=188274" }
+    ],
+    "album": {
+      "name": "Glass Heart",
+      "link": "https://music.163.com/album?id=74937654"
+    }
+  },
+  {
+    "name": "Lay Down",
+    "link": "https://music.163.com/song?id=1387537788",
+    "duration": "03:04",
+    "artists": [
+      {
+        "name": "Sarah Proctor",
+        "link": "https://music.163.com/artist?id=14160137"
+      }
+    ],
+    "album": {
+      "name": "Lay Down",
+      "link": "https://music.163.com/album?id=81252055"
+    }
+  },
+  {
+    "name": "What if She Knows",
+    "link": "https://music.163.com/song?id=554375621",
+    "duration": "02:48",
+    "artists": [
+      { "name": "Severo", "link": "https://music.163.com/artist?id=1115077" },
+      { "name": "Linn", "link": "https://music.163.com/artist?id=215537" },
+      { "name": "Ellusive", "link": "https://music.163.com/artist?id=792170" }
+    ],
+    "album": {
+      "name": "What if She Knows",
+      "link": "https://music.163.com/album?id=38435988"
+    }
+  },
+  {
+    "name": "Underdog",
+    "link": "https://music.163.com/song?id=1401530947",
+    "duration": "03:37",
+    "artists": [
+      { "name": "The Script", "link": "https://music.163.com/artist?id=102028" }
+    ],
+    "album": {
+      "name": "Sunsets & Full Moons",
+      "link": "https://music.163.com/album?id=83054845"
+    }
+  },
+  {
+    "name": "Wildfire",
+    "link": "https://music.163.com/song?id=494645489",
+    "duration": "03:47",
+    "artists": [
+      {
+        "name": "James Mercy",
+        "link": "https://music.163.com/artist?id=12218030"
+      },
+      {
+        "name": "Mia Vaile",
+        "link": "https://music.163.com/artist?id=12727024"
+      }
+    ],
+    "album": {
+      "name": "Wildfire",
+      "link": "https://music.163.com/album?id=35865213"
+    }
+  },
+  {
+    "name": "Fences",
+    "link": "https://music.163.com/song?id=1339221426",
+    "duration": "03:31",
+    "artists": [
+      { "name": "Vicetone", "link": "https://music.163.com/artist?id=747030" },
+      { "name": "Matt Wertz", "link": "https://music.163.com/artist?id=38873" }
+    ],
+    "album": {
+      "name": "Fences",
+      "link": "https://music.163.com/album?id=75164996"
+    }
+  },
+  {
+    "name": "You're Somebody Else (Acoustic)",
+    "link": "https://music.163.com/song?id=1296410412",
+    "duration": "03:39",
+    "artists": [
+      {
+        "name": "Flora Cash",
+        "link": "https://music.163.com/artist?id=1132016"
+      }
+    ],
+    "album": {
+      "name": "You're Somebody Else (Acoustic)",
+      "link": "https://music.163.com/album?id=72007653"
+    }
+  },
+  {
+    "name": "Hiro",
+    "link": "https://music.163.com/song?id=1390226851",
+    "duration": "02:39",
+    "artists": [
+      {
+        "name": "Sight of Wonders",
+        "link": "https://music.163.com/artist?id=31843965"
+      }
+    ],
+    "album": {
+      "name": "Hiro",
+      "link": "https://music.163.com/album?id=81560718"
+    }
+  },
+  {
+    "name": "Down With Your Love",
+    "link": "https://music.163.com/song?id=419250255",
+    "duration": "04:08",
+    "artists": [
+      { "name": "Tinashe", "link": "https://music.163.com/artist?id=45221" },
+      { "name": "Chris Brown", "link": "https://music.163.com/artist?id=29960" }
+    ],
+    "album": {
+      "name": "Down With Your Love",
+      "link": "https://music.163.com/album?id=34754075"
+    }
+  },
+  {
+    "name": "葬花",
+    "link": "https://music.163.com/song?id=503426999",
+    "duration": "03:55",
+    "artists": [
+      { "name": "THT", "link": "https://music.163.com/artist?id=12495253" }
+    ],
+    "album": {
+      "name": "葬花",
+      "link": "https://music.163.com/album?id=36112086"
+    }
+  },
+  {
+    "name": "Until We Die",
+    "link": "https://music.163.com/song?id=1377830798",
+    "duration": "02:57",
+    "artists": [
+      { "name": "WATEVA", "link": "https://music.163.com/artist?id=12475726" },
+      {
+        "name": "Next to Neon",
+        "link": "https://music.163.com/artist?id=14470344"
+      }
+    ],
+    "album": {
+      "name": "Until We Die",
+      "link": "https://music.163.com/album?id=80383720"
+    }
+  },
+  {
+    "name": "Sober Language",
+    "link": "https://music.163.com/song?id=1300702208",
+    "duration": "03:26",
+    "artists": [
+      { "name": "Ooyy", "link": "https://music.163.com/artist?id=28767786" }
+    ],
+    "album": {
+      "name": "Future Yellow",
+      "link": "https://music.163.com/album?id=72249137"
+    }
+  },
+  {
+    "name": "Evergreen - (TV动画《在地下城寻求邂逅是否搞错了什么III》ED)",
+    "link": "https://music.163.com/song?id=1486060379",
+    "duration": "03:46",
+    "artists": [
+      {
+        "name": "sajou no hana",
+        "link": "https://music.163.com/artist?id=29151370"
+      }
+    ],
+    "album": {
+      "name": "Evergreen",
+      "link": "https://music.163.com/album?id=98475731"
+    }
+  },
+  {
+    "name": "Smoke",
+    "link": "https://music.163.com/song?id=1353603176",
+    "duration": "03:47",
+    "artists": [
+      {
+        "name": "Gia Margaret",
+        "link": "https://music.163.com/artist?id=30572502"
+      }
+    ],
+    "album": {
+      "name": "There's Always Glimmer",
+      "link": "https://music.163.com/album?id=78158126"
+    }
+  },
+  {
+    "name": "aLIEz - (TV动画《ALDNOAH.ZERO》ED2)",
+    "link": "https://music.163.com/song?id=29307041",
+    "duration": "04:28",
+    "artists": [
+      {
+        "name": "mizuki (瑞葵)",
+        "link": "https://music.163.com/artist?id=981205"
+      },
+      {
+        "name": "SawanoHiroyuki[nZk]",
+        "link": "https://music.163.com/artist?id=1096011"
+      }
+    ],
+    "album": {
+      "name": "A/Z | aLIEz",
+      "link": "https://music.163.com/album?id=2982127"
+    }
+  },
+  {
+    "name": "Sharks",
+    "link": "https://music.163.com/song?id=1447691098",
+    "duration": "03:25",
+    "artists": [
+      {
+        "name": "Phuture Noize",
+        "link": "https://music.163.com/artist?id=808091"
+      }
+    ],
+    "album": {
+      "name": "Sharks",
+      "link": "https://music.163.com/album?id=89369418"
+    }
+  },
+  {
+    "name": "Ashes In Winter Light",
+    "link": "https://music.163.com/song?id=17657674",
+    "duration": "04:48",
+    "artists": [
+      {
+        "name": "Elysian Fields",
+        "link": "https://music.163.com/artist?id=55573"
+      }
+    ],
+    "album": {
+      "name": "The Afterlife",
+      "link": "https://music.163.com/album?id=1625204"
+    }
+  },
+  {
+    "name": "What Do I Have to Do",
+    "link": "https://music.163.com/song?id=1484013083",
+    "duration": "04:18",
+    "artists": [
+      { "name": "DEVI", "link": "https://music.163.com/artist?id=1192563" }
+    ],
+    "album": {
+      "name": "What Do I Have to Do",
+      "link": "https://music.163.com/album?id=96282822"
+    }
+  },
+  {
+    "name": "無能",
+    "link": "https://music.163.com/song?id=30854807",
+    "duration": "03:40",
+    "artists": [
+      {
+        "name": "österreich",
+        "link": "https://music.163.com/artist?id=1047433"
+      }
+    ],
+    "album": {
+      "name": "無能",
+      "link": "https://music.163.com/album?id=3104766"
+    }
+  },
+  {
+    "name": "Planet Hunter",
+    "link": "https://music.163.com/song?id=504425471",
+    "duration": "03:52",
+    "artists": [
+      { "name": "Wolf Alice", "link": "https://music.163.com/artist?id=742232" }
+    ],
+    "album": {
+      "name": "Visions Of A Life",
+      "link": "https://music.163.com/album?id=36128389"
+    }
+  },
+  {
+    "name": "Nothing",
+    "link": "https://music.163.com/song?id=1384264596",
+    "duration": "02:42",
+    "artists": [
+      {
+        "name": "Bruno Major",
+        "link": "https://music.163.com/artist?id=12250109"
+      }
+    ],
+    "album": {
+      "name": "Nothing",
+      "link": "https://music.163.com/album?id=80952884"
+    }
+  },
+  {
+    "name": "Be Alright",
+    "link": "https://music.163.com/song?id=425008385",
+    "duration": "03:12",
+    "artists": [
+      {
+        "name": "Dustin Miles",
+        "link": "https://music.163.com/artist?id=12024277"
+      }
+    ],
+    "album": {
+      "name": "Be Alright",
+      "link": "https://music.163.com/album?id=34809630"
+    }
+  },
+  {
+    "name": "Far Clouds",
+    "link": "https://music.163.com/song?id=34040821",
+    "duration": "04:05",
+    "artists": [
+      {
+        "name": "Jesús​Muñoz",
+        "link": "https://music.163.com/artist?id=1050296"
+      },
+      { "name": "Clasio", "link": "https://music.163.com/artist?id=1132955" }
+    ],
+    "album": {
+      "name": "Far Clouds",
+      "link": "https://music.163.com/album?id=3270720"
+    }
+  },
+  {
+    "name": "Sirens Of The Sea",
+    "link": "https://music.163.com/song?id=1808823",
+    "duration": "05:56",
+    "artists": [
+      { "name": "Oceanlab", "link": "https://music.163.com/artist?id=40869" }
+    ],
+    "album": {
+      "name": "Sirens of the Sea",
+      "link": "https://music.163.com/album?id=182684"
+    }
+  },
+  {
+    "name": "探し物",
+    "link": "https://music.163.com/song?id=714434",
+    "duration": "03:40",
+    "artists": [
+      {
+        "name": "MAGIC OF LiFE",
+        "link": "https://music.163.com/artist?id=19157"
+      }
+    ],
+    "album": { "name": "Doors", "link": "https://music.163.com/album?id=69828" }
+  },
+  {
+    "name": "Concussive (Bassnectar x Renholder)",
+    "link": "https://music.163.com/song?id=30830941",
+    "duration": "04:35",
+    "artists": [
+      { "name": "Dj Sonar", "link": "https://music.163.com/artist?id=533334" }
+    ],
+    "album": {
+      "name": "Concussive (Bassnectar x Renholder)",
+      "link": "https://music.163.com/album?id=3104601"
+    }
+  },
+  {
+    "name": "Riverside",
+    "link": "https://music.163.com/song?id=16426485",
+    "duration": "03:48",
+    "artists": [
+      { "name": "Agnes Obel", "link": "https://music.163.com/artist?id=48093" }
+    ],
+    "album": {
+      "name": "Philharmonics (Deluxe Edition)",
+      "link": "https://music.163.com/album?id=1514466"
+    }
+  },
+  {
+    "name": "Anyone",
+    "link": "https://music.163.com/song?id=1831371780",
+    "duration": "03:10",
+    "artists": [
+      {
+        "name": "Justin Bieber",
+        "link": "https://music.163.com/artist?id=35531"
+      }
+    ],
+    "album": {
+      "name": "Running Music Hits 2021",
+      "link": "https://music.163.com/album?id=124873274"
+    }
+  }
+]

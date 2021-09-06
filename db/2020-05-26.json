@@ -1,0 +1,437 @@
+[
+  {
+    "name": "Here We Go Again",
+    "link": "https://music.163.com/song?id=1355149884",
+    "duration": "02:42",
+    "artists": [
+      { "name": "SIGMA", "link": "https://music.163.com/artist?id=101736" },
+      {
+        "name": "Louisa Johnson",
+        "link": "https://music.163.com/artist?id=1192273"
+      }
+    ],
+    "album": {
+      "name": "Here We Go Again",
+      "link": "https://music.163.com/album?id=78243126"
+    }
+  },
+  {
+    "name": "Wherever We Fly (Extended Mix)",
+    "link": "https://music.163.com/song?id=459720229",
+    "duration": "06:17",
+    "artists": [
+      {
+        "name": "Alan Morris",
+        "link": "https://music.163.com/artist?id=193174"
+      }
+    ],
+    "album": {
+      "name": "Wherever We Fly",
+      "link": "https://music.163.com/album?id=35176252"
+    }
+  },
+  {
+    "name": "ON MY OWN",
+    "link": "https://music.163.com/song?id=30706130",
+    "duration": "04:00",
+    "artists": [
+      { "name": "Donna Burke", "link": "https://music.163.com/artist?id=55424" }
+    ],
+    "album": {
+      "name": "TV ANIMATION Tokyo Ghoul Original Soundtrack",
+      "link": "https://music.163.com/album?id=3104199"
+    }
+  },
+  {
+    "name": "All Over Again (Extended Mix)",
+    "link": "https://music.163.com/song?id=489506072",
+    "duration": "07:53",
+    "artists": [
+      {
+        "name": "Bryan Kearney",
+        "link": "https://music.163.com/artist?id=148763"
+      },
+      { "name": "Plumb", "link": "https://music.163.com/artist?id=71153" }
+    ],
+    "album": {
+      "name": "All Over Again",
+      "link": "https://music.163.com/album?id=35696820"
+    }
+  },
+  {
+    "name": "If Things Had Gone Our Way",
+    "link": "https://music.163.com/song?id=472141855",
+    "duration": "03:27",
+    "artists": [
+      {
+        "name": "Dave Thomas Junior",
+        "link": "https://music.163.com/artist?id=32233"
+      }
+    ],
+    "album": {
+      "name": "If Things Had Gone Our Way",
+      "link": "https://music.163.com/album?id=35368407"
+    }
+  },
+  {
+    "name": "Let Me Love You (Andrew Watt Acoustic Remix)",
+    "link": "https://music.163.com/song?id=448157798",
+    "duration": "03:26",
+    "artists": [
+      { "name": "DJ Snake", "link": "https://music.163.com/artist?id=296416" },
+      {
+        "name": "Justin Bieber",
+        "link": "https://music.163.com/artist?id=35531"
+      },
+      {
+        "name": "Andrew Watt",
+        "link": "https://music.163.com/artist?id=1182707"
+      }
+    ],
+    "album": {
+      "name": "Let Me Love You (Andrew Watt Acoustic Remix)",
+      "link": "https://music.163.com/album?id=35070113"
+    }
+  },
+  {
+    "name": "Dominatrix (Extended Mix)",
+    "link": "https://music.163.com/song?id=1286931",
+    "duration": "08:11",
+    "artists": [
+      {
+        "name": "Ørjan Nilsen",
+        "link": "https://music.163.com/artist?id=41064"
+      }
+    ],
+    "album": {
+      "name": "Dash Berlin Top 20 - February 2012 (Including Classic Bonus Track)",
+      "link": "https://music.163.com/album?id=132827"
+    }
+  },
+  {
+    "name": "Serein (Extended Mix)",
+    "link": "https://music.163.com/song?id=410925064",
+    "duration": "07:09",
+    "artists": [
+      {
+        "name": "Arctic Moon",
+        "link": "https://music.163.com/artist?id=820034"
+      }
+    ],
+    "album": {
+      "name": "Serein",
+      "link": "https://music.163.com/album?id=34609940"
+    }
+  },
+  {
+    "name": "Living in Stereo (Steve Modana Radio Edit)",
+    "link": "https://music.163.com/song?id=26066912",
+    "duration": "03:28",
+    "artists": [
+      { "name": "R.I.O.", "link": "https://music.163.com/artist?id=42495" }
+    ],
+    "album": {
+      "name": "Living in Stereo",
+      "link": "https://music.163.com/album?id=2371268"
+    }
+  },
+  {
+    "name": "Of The Night",
+    "link": "https://music.163.com/song?id=27863196",
+    "duration": "03:34",
+    "artists": [
+      { "name": "Bastille", "link": "https://music.163.com/artist?id=89090" }
+    ],
+    "album": {
+      "name": "Of The Night",
+      "link": "https://music.163.com/album?id=2687295"
+    }
+  },
+  {
+    "name": "911",
+    "link": "https://music.163.com/song?id=1448299008",
+    "duration": "02:08",
+    "artists": [
+      { "name": "R3hab", "link": "https://music.163.com/artist?id=197248" },
+      {
+        "name": "Timmy Trumpet",
+        "link": "https://music.163.com/artist?id=858362"
+      }
+    ],
+    "album": {
+      "name": "911",
+      "link": "https://music.163.com/album?id=89489914"
+    }
+  },
+  {
+    "name": "Turn Back Time",
+    "link": "https://music.163.com/song?id=515947938",
+    "duration": "03:43",
+    "artists": [
+      {
+        "name": "Daniel Schulz",
+        "link": "https://music.163.com/artist?id=12811024"
+      }
+    ],
+    "album": {
+      "name": "Turn Back Time",
+      "link": "https://music.163.com/album?id=36689057"
+    }
+  },
+  {
+    "name": "Love Songs For Robots",
+    "link": "https://music.163.com/song?id=31971293",
+    "duration": "03:37",
+    "artists": [
+      {
+        "name": "Patrick Watson",
+        "link": "https://music.163.com/artist?id=98559"
+      }
+    ],
+    "album": {
+      "name": "Love Songs For Robots",
+      "link": "https://music.163.com/album?id=3144844"
+    }
+  },
+  {
+    "name": "Tummy",
+    "link": "https://music.163.com/song?id=1307962176",
+    "duration": "03:10",
+    "artists": [
+      { "name": "Tamino", "link": "https://music.163.com/artist?id=12335196" }
+    ],
+    "album": {
+      "name": "Tummy",
+      "link": "https://music.163.com/album?id=73110263"
+    }
+  },
+  {
+    "name": "aLIEz - (TV动画《ALDNOAH.ZERO》ED2 )",
+    "link": "https://music.163.com/song?id=29307041",
+    "duration": "04:28",
+    "artists": [
+      { "name": "mizuki", "link": "https://music.163.com/artist?id=981205" },
+      {
+        "name": "SawanoHiroyuki[nZk]",
+        "link": "https://music.163.com/artist?id=1096011"
+      }
+    ],
+    "album": {
+      "name": "A/Z | aLIEz",
+      "link": "https://music.163.com/album?id=2982127"
+    }
+  },
+  {
+    "name": "Guys",
+    "link": "https://music.163.com/song?id=1448136306",
+    "duration": "04:29",
+    "artists": [
+      { "name": "The 1975", "link": "https://music.163.com/artist?id=104457" }
+    ],
+    "album": {
+      "name": "Guys",
+      "link": "https://music.163.com/album?id=89452510"
+    }
+  },
+  {
+    "name": "Turn It Up",
+    "link": "https://music.163.com/song?id=1351319695",
+    "duration": "02:57",
+    "artists": [
+      { "name": "Tobu", "link": "https://music.163.com/artist?id=964486" }
+    ],
+    "album": {
+      "name": "Turn It Up",
+      "link": "https://music.163.com/album?id=75818436"
+    }
+  },
+  {
+    "name": "Allt som vi sa",
+    "link": "https://music.163.com/song?id=520012878",
+    "duration": "02:44",
+    "artists": [
+      { "name": "Darin", "link": "https://music.163.com/artist?id=31200" }
+    ],
+    "album": {
+      "name": "Tvillingen",
+      "link": "https://music.163.com/album?id=36827624"
+    }
+  },
+  {
+    "name": "Chasing Fire",
+    "link": "https://music.163.com/song?id=563999353",
+    "duration": "03:25",
+    "artists": [
+      { "name": "Lauv", "link": "https://music.163.com/artist?id=1057226" }
+    ],
+    "album": {
+      "name": "I met you when I was 18. (the playlist)",
+      "link": "https://music.163.com/album?id=39087647"
+    }
+  },
+  {
+    "name": "Euterpe - (エウテルペ)",
+    "link": "https://music.163.com/song?id=722932",
+    "duration": "03:48",
+    "artists": [
+      { "name": "EGOIST", "link": "https://music.163.com/artist?id=19353" }
+    ],
+    "album": {
+      "name": "Departures~あなたにおくるアイの歌~",
+      "link": "https://music.163.com/album?id=70826"
+    }
+  },
+  {
+    "name": "You and Me",
+    "link": "https://music.163.com/song?id=516576382",
+    "duration": "03:54",
+    "artists": [
+      { "name": "Shallou", "link": "https://music.163.com/artist?id=12029377" }
+    ],
+    "album": {
+      "name": "You and Me",
+      "link": "https://music.163.com/album?id=36673826"
+    }
+  },
+  {
+    "name": "Unbreakable",
+    "link": "https://music.163.com/song?id=1339031053",
+    "duration": "04:16",
+    "artists": [
+      {
+        "name": "Two Steps From Hell",
+        "link": "https://music.163.com/artist?id=102714"
+      },
+      {
+        "name": "Thomas Bergersen",
+        "link": "https://music.163.com/artist?id=45336"
+      }
+    ],
+    "album": {
+      "name": "Dragon",
+      "link": "https://music.163.com/album?id=75143400"
+    }
+  },
+  {
+    "name": "愿爱无忧（台版）",
+    "link": "https://music.163.com/song?id=1445214028",
+    "duration": "04:53",
+    "artists": [
+      { "name": "痛仰乐队", "link": "https://music.163.com/artist?id=12971" }
+    ],
+    "album": {
+      "name": "愿爱无忧（台版）",
+      "link": "https://music.163.com/album?id=88888415"
+    }
+  },
+  {
+    "name": "No Grass Today",
+    "link": "https://music.163.com/song?id=431096716",
+    "duration": "04:19",
+    "artists": [
+      { "name": "AJR", "link": "https://music.163.com/artist?id=88089" }
+    ],
+    "album": {
+      "name": "What Everyone's Thinking",
+      "link": "https://music.163.com/album?id=34874673"
+    }
+  },
+  {
+    "name": "I Want It All (Remix)",
+    "link": "https://music.163.com/song?id=417833052",
+    "duration": "03:43",
+    "artists": [
+      {
+        "name": "Bonnie McKee",
+        "link": "https://music.163.com/artist?id=50758"
+      },
+      { "name": "Vicetone", "link": "https://music.163.com/artist?id=747030" }
+    ],
+    "album": {
+      "name": "I Want It All (Remix)",
+      "link": "https://music.163.com/album?id=34738394"
+    }
+  },
+  {
+    "name": "Summer Sippin' (Radio Edit)",
+    "link": "https://music.163.com/song?id=36664907",
+    "duration": "03:21",
+    "artists": [
+      {
+        "name": "Boehm & DVNNI",
+        "link": "https://music.163.com/artist?id=30258805"
+      }
+    ],
+    "album": {
+      "name": "Deep Sounds Vol. 5 (The Very Best Of Deep House)",
+      "link": "https://music.163.com/album?id=3395834"
+    }
+  },
+  {
+    "name": "It Hurts the Heart",
+    "link": "https://music.163.com/song?id=28234342",
+    "duration": "04:59",
+    "artists": [
+      { "name": "Tim Walker", "link": "https://music.163.com/artist?id=893068" }
+    ],
+    "album": {
+      "name": "You/Me",
+      "link": "https://music.163.com/album?id=2759041"
+    }
+  },
+  {
+    "name": "Bumblebee",
+    "link": "https://music.163.com/song?id=20330680",
+    "duration": "01:04",
+    "artists": [
+      {
+        "name": "Susie Tallman",
+        "link": "https://music.163.com/artist?id=77925"
+      }
+    ],
+    "album": {
+      "name": "Children's Songs, A Collection of Childhood Favorites",
+      "link": "https://music.163.com/album?id=1889172"
+    }
+  },
+  {
+    "name": "Feel The Rush",
+    "link": "https://music.163.com/song?id=477332816",
+    "duration": "03:28",
+    "artists": [
+      { "name": "EDX", "link": "https://music.163.com/artist?id=33305" }
+    ],
+    "album": {
+      "name": "Feel The Rush",
+      "link": "https://music.163.com/album?id=35474197"
+    }
+  },
+  {
+    "name": "Time (Full Version)",
+    "link": "https://music.163.com/song?id=455345325",
+    "duration": "03:30",
+    "artists": [
+      { "name": "Andreas B.", "link": "https://music.163.com/artist?id=299713" }
+    ],
+    "album": {
+      "name": "Time (Full Version)",
+      "link": "https://music.163.com/album?id=35139466"
+    }
+  },
+  {
+    "name": "This Is Living (L3V3LS Remix)",
+    "link": "https://music.163.com/song?id=405599986",
+    "duration": "04:38",
+    "artists": [
+      { "name": "L3V3LS", "link": "https://music.163.com/artist?id=12007340" },
+      {
+        "name": "Hillsong Young & Free",
+        "link": "https://music.163.com/artist?id=835002"
+      }
+    ],
+    "album": {
+      "name": "Hillsong Young and Free (L3V3LS Remix)",
+      "link": "https://music.163.com/album?id=34527621"
+    }
+  }
+]

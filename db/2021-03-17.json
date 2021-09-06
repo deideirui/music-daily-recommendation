@@ -1,0 +1,424 @@
+[
+  {
+    "name": "Die in Your Arms",
+    "link": "https://music.163.com/song?id=1438579512",
+    "duration": "02:49",
+    "artists": [
+      { "name": "Zeper", "link": "https://music.163.com/artist?id=12086179" },
+      {
+        "name": "Alex France",
+        "link": "https://music.163.com/artist?id=30009805"
+      }
+    ],
+    "album": {
+      "name": "Die in Your Arms",
+      "link": "https://music.163.com/album?id=87752013"
+    }
+  },
+  {
+    "name": "Future Signs",
+    "link": "https://music.163.com/song?id=1298287272",
+    "duration": "03:33",
+    "artists": [
+      { "name": "Fleurie", "link": "https://music.163.com/artist?id=860929" }
+    ],
+    "album": {
+      "name": "Portals",
+      "link": "https://music.163.com/album?id=72101155"
+    }
+  },
+  {
+    "name": "Go To Sleep",
+    "link": "https://music.163.com/song?id=548910133",
+    "duration": "03:57",
+    "artists": [
+      { "name": "Bearson", "link": "https://music.163.com/artist?id=1057034" },
+      {
+        "name": "Kailee Morgue",
+        "link": "https://music.163.com/artist?id=12740178"
+      }
+    ],
+    "album": {
+      "name": "Go To Sleep",
+      "link": "https://music.163.com/album?id=38013579"
+    }
+  },
+  {
+    "name": "In Your Eyes (feat. Alida) [Nicky Romero Remix]",
+    "link": "https://music.163.com/song?id=1446215251",
+    "duration": "03:18",
+    "artists": [
+      {
+        "name": "Robin Schulz",
+        "link": "https://music.163.com/artist?id=837031"
+      },
+      { "name": "Alida", "link": "https://music.163.com/artist?id=376659" },
+      {
+        "name": "Nicky Romero",
+        "link": "https://music.163.com/artist?id=195142"
+      }
+    ],
+    "album": {
+      "name": "In Your Eyes (feat. Alida) [Nicky Romero Remix]",
+      "link": "https://music.163.com/album?id=89088414"
+    }
+  },
+  {
+    "name": "Krewella-Alibi (BEAUZ Remix)",
+    "link": "https://music.163.com/song?id=1309007044",
+    "duration": "03:15",
+    "artists": [
+      { "name": "BEAUZ", "link": "https://music.163.com/artist?id=12131436" }
+    ],
+    "album": {
+      "name": "Alibi (BEAUZ Remix)",
+      "link": "https://music.163.com/album?id=73176044"
+    }
+  },
+  {
+    "name": "Show No Fear",
+    "link": "https://music.163.com/song?id=1320384742",
+    "duration": "03:26",
+    "artists": [
+      { "name": "Fondz", "link": "https://music.163.com/artist?id=12202572" }
+    ],
+    "album": {
+      "name": "Show No Fear",
+      "link": "https://music.163.com/album?id=74088918"
+    }
+  },
+  {
+    "name": "Southwark",
+    "link": "https://music.163.com/song?id=1423383586",
+    "duration": "03:22",
+    "artists": [
+      { "name": "Yumi Zouma", "link": "https://music.163.com/artist?id=893365" }
+    ],
+    "album": {
+      "name": "Southwark",
+      "link": "https://music.163.com/album?id=85735495"
+    }
+  },
+  {
+    "name": "Happy",
+    "link": "https://music.163.com/song?id=1413984684",
+    "duration": "02:52",
+    "artists": [
+      { "name": "Oh Wonder", "link": "https://music.163.com/artist?id=1050128" }
+    ],
+    "album": {
+      "name": "No One Else Can Wear Your Crown",
+      "link": "https://music.163.com/album?id=85538401"
+    }
+  },
+  {
+    "name": "Blessing (Full Version)",
+    "link": "https://music.163.com/song?id=429769767",
+    "duration": "03:45",
+    "artists": [
+      {
+        "name": "Andreas B.",
+        "link": "https://music.163.com/artist?id=299713"
+      },
+      {
+        "name": "Charlotte Haining",
+        "link": "https://music.163.com/artist?id=1084251"
+      }
+    ],
+    "album": {
+      "name": "Blessing (Full Version)",
+      "link": "https://music.163.com/album?id=34869426"
+    }
+  },
+  {
+    "name": "Down the Shore",
+    "link": "https://music.163.com/song?id=1436081783",
+    "duration": "03:23",
+    "artists": [
+      { "name": "Work Drugs", "link": "https://music.163.com/artist?id=105431" }
+    ],
+    "album": {
+      "name": "Down the Shore",
+      "link": "https://music.163.com/album?id=87183226"
+    }
+  },
+  {
+    "name": "Cold (Kaskade & Lipless Remix) ",
+    "link": "https://music.163.com/song?id=477933852",
+    "duration": "03:34",
+    "artists": [
+      { "name": "Maroon 5", "link": "https://music.163.com/artist?id=96266" },
+      { "name": "Kaskade", "link": "https://music.163.com/artist?id=37559" },
+      { "name": "Lipless", "link": "https://music.163.com/artist?id=12203292" },
+      { "name": "Future", "link": "https://music.163.com/artist?id=33794" }
+    ],
+    "album": {
+      "name": "Cold (Kaskade & Lipless Remix)",
+      "link": "https://music.163.com/album?id=35501164"
+    }
+  },
+  {
+    "name": "Ride Or Die",
+    "link": "https://music.163.com/song?id=1365864094",
+    "duration": "02:45",
+    "artists": [
+      { "name": "XYLØ", "link": "https://music.163.com/artist?id=1050511" }
+    ],
+    "album": {
+      "name": "Ride Or Die",
+      "link": "https://music.163.com/album?id=79189044"
+    }
+  },
+  {
+    "name": "East of Eden",
+    "link": "https://music.163.com/song?id=29009655",
+    "duration": "03:05",
+    "artists": [
+      { "name": "Zella Day", "link": "https://music.163.com/artist?id=900106" }
+    ],
+    "album": {
+      "name": "East of Eden",
+      "link": "https://music.163.com/album?id=2976629"
+    }
+  },
+  {
+    "name": "Give Us a Little Love",
+    "link": "https://music.163.com/song?id=2638914",
+    "duration": "03:45",
+    "artists": [
+      { "name": "Fallulah", "link": "https://music.163.com/artist?id=57906" }
+    ],
+    "album": {
+      "name": "The Black Cat Neighbourhood",
+      "link": "https://music.163.com/album?id=265966"
+    }
+  },
+  {
+    "name": "Killshot",
+    "link": "https://music.163.com/song?id=1411692086",
+    "duration": "03:56",
+    "artists": [
+      {
+        "name": "Magdalena Bay",
+        "link": "https://music.163.com/artist?id=12603779"
+      }
+    ],
+    "album": {
+      "name": "Killshot",
+      "link": "https://music.163.com/album?id=84318947"
+    }
+  },
+  {
+    "name": "晴天",
+    "link": "https://music.163.com/song?id=1829062666",
+    "duration": "04:29",
+    "artists": [
+      { "name": "NiZe-X", "link": "https://music.163.com/artist?id=46964631" }
+    ],
+    "album": {
+      "name": "JAY",
+      "link": "https://music.163.com/album?id=124384393"
+    }
+  },
+  {
+    "name": "See Me",
+    "link": "https://music.163.com/song?id=1345576063",
+    "duration": "03:50",
+    "artists": [
+      { "name": "Talos", "link": "https://music.163.com/artist?id=1177180" }
+    ],
+    "album": {
+      "name": "Far Out Dust",
+      "link": "https://music.163.com/album?id=75519935"
+    }
+  },
+  {
+    "name": "Tip of Your Thumb",
+    "link": "https://music.163.com/song?id=528271266",
+    "duration": "02:58",
+    "artists": [
+      { "name": "LUME", "link": "https://music.163.com/artist?id=530005" }
+    ],
+    "album": {
+      "name": "Tip of Your Thumb",
+      "link": "https://music.163.com/album?id=37176083"
+    }
+  },
+  {
+    "name": "Keep Rolling On",
+    "link": "https://music.163.com/song?id=36019737",
+    "duration": "03:07",
+    "artists": [
+      {
+        "name": "Luke Thompson",
+        "link": "https://music.163.com/artist?id=38657"
+      }
+    ],
+    "album": {
+      "name": "Strum Strum",
+      "link": "https://music.163.com/album?id=3367783"
+    }
+  },
+  {
+    "name": "Tomorrow Is Gonna Be Better",
+    "link": "https://music.163.com/song?id=1478420",
+    "duration": "02:49",
+    "artists": [
+      {
+        "name": "Joshua Radin",
+        "link": "https://music.163.com/artist?id=35349"
+      }
+    ],
+    "album": {
+      "name": "Underwater (Deluxe Version)",
+      "link": "https://music.163.com/album?id=151184"
+    }
+  },
+  {
+    "name": "When Your Lips Are So Close",
+    "link": "https://music.163.com/song?id=27839244",
+    "duration": "03:02",
+    "artists": [
+      {
+        "name": "Gord Bamford",
+        "link": "https://music.163.com/artist?id=34476"
+      }
+    ],
+    "album": {
+      "name": "Country Junkie",
+      "link": "https://music.163.com/album?id=2684288"
+    }
+  },
+  {
+    "name": "Baby Powder",
+    "link": "https://music.163.com/song?id=1428852191",
+    "duration": "03:00",
+    "artists": [
+      {
+        "name": "Jenevieve",
+        "link": "https://music.163.com/artist?id=34338350"
+      }
+    ],
+    "album": {
+      "name": "Baby Powder",
+      "link": "https://music.163.com/album?id=86298742"
+    }
+  },
+  {
+    "name": "The End of the World",
+    "link": "https://music.163.com/song?id=3413782",
+    "duration": "02:35",
+    "artists": [
+      {
+        "name": "Skeeter Davis",
+        "link": "https://music.163.com/artist?id=74670"
+      }
+    ],
+    "album": {
+      "name": "The End of the World",
+      "link": "https://music.163.com/album?id=345895"
+    }
+  },
+  {
+    "name": "Boom",
+    "link": "https://music.163.com/song?id=1817437247",
+    "duration": "03:15",
+    "artists": [
+      { "name": "SoMo", "link": "https://music.163.com/artist?id=892040" }
+    ],
+    "album": {
+      "name": "Boom",
+      "link": "https://music.163.com/album?id=122528463"
+    }
+  },
+  {
+    "name": "Frisbee",
+    "link": "https://music.163.com/song?id=418602744",
+    "duration": "03:11",
+    "artists": [
+      { "name": "Ahxello", "link": "https://music.163.com/artist?id=1046348" }
+    ],
+    "album": {
+      "name": "Frisbee",
+      "link": "https://music.163.com/album?id=34749256"
+    }
+  },
+  {
+    "name": "Somero",
+    "link": "https://music.163.com/song?id=414980898",
+    "duration": "04:46",
+    "artists": [
+      { "name": "Mich", "link": "https://music.163.com/artist?id=1087105" }
+    ],
+    "album": {
+      "name": "Somero",
+      "link": "https://music.163.com/album?id=34721346"
+    }
+  },
+  {
+    "name": "The Top (Original Mix)",
+    "link": "https://music.163.com/song?id=32639096",
+    "duration": "03:50",
+    "artists": [
+      { "name": "TomLeevis", "link": "https://music.163.com/artist?id=1050683" }
+    ],
+    "album": {
+      "name": "The Top (Original Mix)",
+      "link": "https://music.163.com/album?id=3163170"
+    }
+  },
+  {
+    "name": "Way It Goes",
+    "link": "https://music.163.com/song?id=461544674",
+    "duration": "04:05",
+    "artists": [
+      {
+        "name": "Hippo Campus",
+        "link": "https://music.163.com/artist?id=844785"
+      }
+    ],
+    "album": {
+      "name": "Landmark",
+      "link": "https://music.163.com/album?id=35196375"
+    }
+  },
+  {
+    "name": "Never Ending Rain",
+    "link": "https://music.163.com/song?id=425684643",
+    "duration": "04:48",
+    "artists": [
+      { "name": "L3V3LS", "link": "https://music.163.com/artist?id=12007340" }
+    ],
+    "album": {
+      "name": "Never Ending Rain",
+      "link": "https://music.163.com/album?id=34816779"
+    }
+  },
+  {
+    "name": "Never Sever",
+    "link": "https://music.163.com/song?id=1074449",
+    "duration": "03:49",
+    "artists": [
+      { "name": "Kingvolt", "link": "https://music.163.com/artist?id=29095" }
+    ],
+    "album": {
+      "name": "Kingvolt",
+      "link": "https://music.163.com/album?id=111983"
+    }
+  },
+  {
+    "name": "スーパーガール - (Super Girl)",
+    "link": "https://music.163.com/song?id=1828515678",
+    "duration": "04:07",
+    "artists": [
+      {
+        "name": "あいみょん",
+        "link": "https://music.163.com/artist?id=1053279"
+      }
+    ],
+    "album": {
+      "name": "スーパーガール",
+      "link": "https://music.163.com/album?id=124423257"
+    }
+  }
+]

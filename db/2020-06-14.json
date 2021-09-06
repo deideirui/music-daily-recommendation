@@ -1,0 +1,462 @@
+[
+  {
+    "name": "花びらたちのマーチ",
+    "link": "https://music.163.com/song?id=1357775526",
+    "duration": "03:12",
+    "artists": [
+      { "name": "Aimer", "link": "https://music.163.com/artist?id=16152" }
+    ],
+    "album": {
+      "name": "Sun Dance",
+      "link": "https://music.163.com/album?id=78422025"
+    }
+  },
+  {
+    "name": "firefly",
+    "link": "https://music.163.com/song?id=1313314721",
+    "duration": "03:40",
+    "artists": [
+      {
+        "name": "Jeremy Zucker",
+        "link": "https://music.163.com/artist?id=12096183"
+      }
+    ],
+    "album": {
+      "name": "summer,",
+      "link": "https://music.163.com/album?id=73669997"
+    }
+  },
+  {
+    "name": "Love Like Us",
+    "link": "https://music.163.com/song?id=1324572049",
+    "duration": "02:56",
+    "artists": [
+      {
+        "name": "Alex Lustig",
+        "link": "https://music.163.com/artist?id=12107624"
+      }
+    ],
+    "album": {
+      "name": "Wave003: A Glowing Mind",
+      "link": "https://music.163.com/album?id=74354838"
+    }
+  },
+  {
+    "name": "Grand Blue - (TV动画《碧蓝之海》片头曲 ；TVアニメ『ぐらんぶる』オープニングテーマ)",
+    "link": "https://music.163.com/song?id=1306000879",
+    "duration": "05:13",
+    "artists": [
+      { "name": "湘南乃風", "link": "https://music.163.com/artist?id=21325" }
+    ],
+    "album": {
+      "name": "湘南乃風 〜一五一会〜",
+      "link": "https://music.163.com/album?id=72594265"
+    }
+  },
+  {
+    "name": "I beg you - (剧场版动画《Fate/stay night [Heaven's Feel]」Ⅱ.lostbutterfly》主题曲 ； 劇場版「Fate/stay night [Heaven's Feel] Ⅱ.lostbutterfly」主題歌)",
+    "link": "https://music.163.com/song?id=1338149091",
+    "duration": "04:26",
+    "artists": [
+      { "name": "Aimer", "link": "https://music.163.com/artist?id=16152" }
+    ],
+    "album": {
+      "name": "I beg you / 花びらたちのマーチ / Sailing",
+      "link": "https://music.163.com/album?id=75062421"
+    }
+  },
+  {
+    "name": "Dark Crow - (TV动画《海盗战记》OP2)",
+    "link": "https://music.163.com/song?id=1396023073",
+    "duration": "04:38",
+    "artists": [
+      {
+        "name": "MAN WITH A MISSION",
+        "link": "https://music.163.com/artist?id=20574"
+      }
+    ],
+    "album": {
+      "name": "Dark Crow",
+      "link": "https://music.163.com/album?id=82602148"
+    }
+  },
+  {
+    "name": "Time (Alan Walker Remix - Extended Version)",
+    "link": "https://music.163.com/song?id=1444534175",
+    "duration": "03:35",
+    "artists": [
+      {
+        "name": "Alan Walker",
+        "link": "https://music.163.com/artist?id=1045123"
+      },
+      { "name": "Hans Zimmer", "link": "https://music.163.com/artist?id=34517" }
+    ],
+    "album": {
+      "name": "Time (Alan Walker Remix)",
+      "link": "https://music.163.com/album?id=88741660"
+    }
+  },
+  {
+    "name": "Tornado Mystery",
+    "link": "https://music.163.com/song?id=34338859",
+    "duration": "04:00",
+    "artists": [
+      {
+        "name": "凛として時雨",
+        "link": "https://music.163.com/artist?id=160421"
+      }
+    ],
+    "album": {
+      "name": "Es or S",
+      "link": "https://music.163.com/album?id=3279306"
+    }
+  },
+  {
+    "name": "RED - (TV动画《战栗杀机》ED2 ； TVアニメ「BANANA FISH」EDテーマ2)",
+    "link": "https://music.163.com/song?id=1334615353",
+    "duration": "04:13",
+    "artists": [
+      {
+        "name": "Survive Said The Prophet",
+        "link": "https://music.163.com/artist?id=159700"
+      }
+    ],
+    "album": {
+      "name": "RED",
+      "link": "https://music.163.com/album?id=74944511"
+    }
+  },
+  {
+    "name": "For You",
+    "link": "https://music.163.com/song?id=1318621087",
+    "duration": "03:00",
+    "artists": [
+      { "name": "Omnia", "link": "https://music.163.com/artist?id=179006" },
+      {
+        "name": "Danyka Nadeau",
+        "link": "https://music.163.com/artist?id=1078277"
+      }
+    ],
+    "album": {
+      "name": "For You",
+      "link": "https://music.163.com/album?id=73960951"
+    }
+  },
+  {
+    "name": "Garden of Madness Megamix",
+    "link": "https://music.163.com/song?id=1446637483",
+    "duration": "11:35",
+    "artists": [
+      {
+        "name": "Dimitri Vegas & Like Mike",
+        "link": "https://music.163.com/artist?id=791298"
+      },
+      {
+        "name": "Timmy Trumpet",
+        "link": "https://music.163.com/artist?id=858362"
+      },
+      { "name": "MATTN", "link": "https://music.163.com/artist?id=12061029" },
+      { "name": "Quintino", "link": "https://music.163.com/artist?id=820303" },
+      { "name": "Wolfpack", "link": "https://music.163.com/artist?id=141938" },
+      {
+        "name": "Bassjackers",
+        "link": "https://music.163.com/artist?id=268447"
+      },
+      {
+        "name": "Ummet Ozcan",
+        "link": "https://music.163.com/artist?id=711465"
+      },
+      {
+        "name": "Brennan Heart",
+        "link": "https://music.163.com/artist?id=688203"
+      },
+      {
+        "name": "D'Angello & Francis",
+        "link": "https://music.163.com/artist?id=13558056"
+      },
+      {
+        "name": "Sammy Merayah",
+        "link": "https://music.163.com/artist?id=14174664"
+      },
+      { "name": "2WEI", "link": "https://music.163.com/artist?id=29289035" },
+      { "name": "X-Tof", "link": "https://music.163.com/artist?id=1163032" },
+      {
+        "name": "Stavros Martina",
+        "link": "https://music.163.com/artist?id=12290069"
+      },
+      { "name": "Kevin D", "link": "https://music.163.com/artist?id=34177737" },
+      {
+        "name": "MAD M.A.C.",
+        "link": "https://music.163.com/artist?id=13222734"
+      }
+    ],
+    "album": {
+      "name": "Garden of Madness Megamix",
+      "link": "https://music.163.com/album?id=89177894"
+    }
+  },
+  {
+    "name": "Signal - (TV动画《91Days》片头曲 ； TVアニメ「91Days」オープニング・テーマ)",
+    "link": "https://music.163.com/song?id=432506956",
+    "duration": "05:18",
+    "artists": [
+      {
+        "name": "TK from 凛として時雨",
+        "link": "https://music.163.com/artist?id=159644"
+      }
+    ],
+    "album": {
+      "name": "White Noise",
+      "link": "https://music.163.com/album?id=34897499"
+    }
+  },
+  {
+    "name": "Be With Me",
+    "link": "https://music.163.com/song?id=555724474",
+    "duration": "03:10",
+    "artists": [
+      { "name": "JORDY", "link": "https://music.163.com/artist?id=33619820" }
+    ],
+    "album": {
+      "name": "Be With Me",
+      "link": "https://music.163.com/album?id=38497983"
+    }
+  },
+  {
+    "name": "Amber Sun",
+    "link": "https://music.163.com/song?id=1357944720",
+    "duration": "03:32",
+    "artists": [
+      {
+        "name": "Gareth Emery",
+        "link": "https://music.163.com/artist?id=34318"
+      },
+      {
+        "name": "Ashley Wallbridge",
+        "link": "https://music.163.com/artist?id=29252"
+      }
+    ],
+    "album": {
+      "name": "Amber Sun",
+      "link": "https://music.163.com/album?id=78435063"
+    }
+  },
+  {
+    "name": "フリージア - (TV动画《机动战士高达 铁血的孤儿 第二季》ED2 ； TVアニメ「機動戦士ガンダム 鉄血のオルフェンズ」第2期ED2テーマ)",
+    "link": "https://music.163.com/song?id=459925524",
+    "duration": "05:35",
+    "artists": [
+      { "name": "Uru", "link": "https://music.163.com/artist?id=12062125" }
+    ],
+    "album": {
+      "name": "フリージア ＜通常盤＞",
+      "link": "https://music.163.com/album?id=35174608"
+    }
+  },
+  {
+    "name": "The Last of Us",
+    "link": "https://music.163.com/song?id=26509685",
+    "duration": "03:03",
+    "artists": [
+      {
+        "name": "Gustavo Santaolalla",
+        "link": "https://music.163.com/artist?id=33858"
+      }
+    ],
+    "album": {
+      "name": "The Last of Us (Video Game Soundtrack)",
+      "link": "https://music.163.com/album?id=2512266"
+    }
+  },
+  {
+    "name": "Dreamland",
+    "link": "https://music.163.com/song?id=1444903036",
+    "duration": "03:23",
+    "artists": [
+      {
+        "name": "Glass Animals",
+        "link": "https://music.163.com/artist?id=847346"
+      }
+    ],
+    "album": {
+      "name": "Dreamland",
+      "link": "https://music.163.com/album?id=88825538"
+    }
+  },
+  {
+    "name": "インタビュア",
+    "link": "https://music.163.com/song?id=476638467",
+    "duration": "04:13",
+    "artists": [
+      { "name": "H△G", "link": "https://music.163.com/artist?id=996276" }
+    ],
+    "album": {
+      "name": "声 ~VOCALOID Cover Album~",
+      "link": "https://music.163.com/album?id=35357285"
+    }
+  },
+  {
+    "name": "Sunshine Blue",
+    "link": "https://music.163.com/song?id=412016733",
+    "duration": "03:31",
+    "artists": [
+      {
+        "name": "Denis Kenzo",
+        "link": "https://music.163.com/artist?id=263670"
+      },
+      { "name": "Sveta B.", "link": "https://music.163.com/artist?id=839779" }
+    ],
+    "album": {
+      "name": "A State Of Trance 2016",
+      "link": "https://music.163.com/album?id=34678627"
+    }
+  },
+  {
+    "name": "Georgia",
+    "link": "https://music.163.com/song?id=449578853",
+    "duration": "02:14",
+    "artists": [
+      {
+        "name": "Racoon Racoon",
+        "link": "https://music.163.com/artist?id=12251121"
+      }
+    ],
+    "album": {
+      "name": "Our Love's Funeral",
+      "link": "https://music.163.com/album?id=35176446"
+    }
+  },
+  {
+    "name": "ピースサイン",
+    "link": "https://music.163.com/song?id=485355004",
+    "duration": "03:57",
+    "artists": [
+      { "name": "米津玄師", "link": "https://music.163.com/artist?id=159300" }
+    ],
+    "album": {
+      "name": "ピースサイン",
+      "link": "https://music.163.com/album?id=35450123"
+    }
+  },
+  {
+    "name": "Lovers",
+    "link": "https://music.163.com/song?id=428095141",
+    "duration": "06:14",
+    "artists": [
+      {
+        "name": "Timecop1983",
+        "link": "https://music.163.com/artist?id=954496"
+      },
+      { "name": "SEAWAVES", "link": "https://music.163.com/artist?id=12263678" }
+    ],
+    "album": {
+      "name": "Lovers",
+      "link": "https://music.163.com/album?id=34860054"
+    }
+  },
+  {
+    "name": "Running Back to You",
+    "link": "https://music.163.com/song?id=33314370",
+    "duration": "04:38",
+    "artists": [
+      { "name": "Sean PM", "link": "https://music.163.com/artist?id=1102261" },
+      {
+        "name": "Gary Nixon",
+        "link": "https://music.163.com/artist?id=1102262"
+      }
+    ],
+    "album": {
+      "name": "Running Back to You",
+      "link": "https://music.163.com/album?id=3196255"
+    }
+  },
+  {
+    "name": "One Last Dance",
+    "link": "https://music.163.com/song?id=445666828",
+    "duration": "03:44",
+    "artists": [
+      {
+        "name": "Us The Duo",
+        "link": "https://music.163.com/artist?id=1049685"
+      }
+    ],
+    "album": {
+      "name": "Public Record",
+      "link": "https://music.163.com/album?id=35012739"
+    }
+  },
+  {
+    "name": "隐瞒之事op《ちいさな日々》吉他弹唱（翻自 flumpool）",
+    "link": "https://music.163.com/song?id=1443321127",
+    "duration": "01:39",
+    "artists": [
+      { "name": "ayy阿远", "link": "https://music.163.com/artist?id=32435807" }
+    ],
+    "album": {
+      "name": "ayy阿远的2020新番扒谱弹唱",
+      "link": "https://music.163.com/album?id=88187686"
+    }
+  },
+  {
+    "name": "ビンクスの酒 (布鲁克独唱版) - (宾克斯的酒)",
+    "link": "https://music.163.com/song?id=30830205",
+    "duration": "04:19",
+    "artists": [],
+    "album": {
+      "name": "最新热歌慢摇92",
+      "link": "https://music.163.com/album?id=3087250"
+    }
+  },
+  {
+    "name": "Ask Me Anything (ASOT 857)",
+    "link": "https://music.163.com/song?id=550021385",
+    "duration": "03:52",
+    "artists": [
+      { "name": "Aurosonic", "link": "https://music.163.com/artist?id=86532" },
+      { "name": "Ana Criado", "link": "https://music.163.com/artist?id=191522" }
+    ],
+    "album": {
+      "name": "A State Of Trance Episode 857",
+      "link": "https://music.163.com/album?id=38212723"
+    }
+  },
+  {
+    "name": "カサネテク",
+    "link": "https://music.163.com/song?id=474739593",
+    "duration": "04:18",
+    "artists": [
+      { "name": "中村千尋", "link": "https://music.163.com/artist?id=12107158" }
+    ],
+    "album": {
+      "name": "カサネテク",
+      "link": "https://music.163.com/album?id=35377703"
+    }
+  },
+  {
+    "name": "天ノ弱",
+    "link": "https://music.163.com/song?id=442016694",
+    "duration": "04:33",
+    "artists": [
+      { "name": "Akie秋绘", "link": "https://music.163.com/artist?id=12184145" }
+    ],
+    "album": {
+      "name": "秋簌。2016",
+      "link": "https://music.163.com/album?id=35006607"
+    }
+  },
+  {
+    "name": "千本樱（纯钢琴）",
+    "link": "https://music.163.com/song?id=549162934",
+    "duration": "04:20",
+    "artists": [
+      {
+        "name": "Masque_Jupiter",
+        "link": "https://music.163.com/artist?id=12336331"
+      }
+    ],
+    "album": {
+      "name": "钢琴曲（3.31）",
+      "link": "https://music.163.com/album?id=38104212"
+    }
+  }
+]

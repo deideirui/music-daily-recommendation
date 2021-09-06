@@ -1,0 +1,422 @@
+[
+  {
+    "name": "A Different Way",
+    "link": "https://music.163.com/song?id=1358247909",
+    "duration": "03:11",
+    "artists": [
+      {
+        "name": "Max Oazo",
+        "link": "https://music.163.com/artist?id=13159084"
+      },
+      { "name": "Cami", "link": "https://music.163.com/artist?id=283909" }
+    ],
+    "album": {
+      "name": "A Different Way",
+      "link": "https://music.163.com/album?id=78483191"
+    }
+  },
+  {
+    "name": "I Miss Myself",
+    "link": "https://music.163.com/song?id=1362823660",
+    "duration": "03:11",
+    "artists": [
+      { "name": "NOTD", "link": "https://music.163.com/artist?id=12262306" },
+      { "name": "HRVY", "link": "https://music.163.com/artist?id=12501125" }
+    ],
+    "album": {
+      "name": "I Miss Myself",
+      "link": "https://music.163.com/album?id=78898104"
+    }
+  },
+  {
+    "name": "Back in L.A.",
+    "link": "https://music.163.com/song?id=1323972363",
+    "duration": "03:32",
+    "artists": [
+      { "name": "Cardiknox", "link": "https://music.163.com/artist?id=896836" }
+    ],
+    "album": {
+      "name": "Back in L.A.",
+      "link": "https://music.163.com/album?id=74320573"
+    }
+  },
+  {
+    "name": "LA On A Saturday Night (James Carter Remix)",
+    "link": "https://music.163.com/song?id=1323975080",
+    "duration": "02:42",
+    "artists": [
+      {
+        "name": "Hearts & Colors",
+        "link": "https://music.163.com/artist?id=12399051"
+      }
+    ],
+    "album": {
+      "name": "LA On A Saturday Night (Remixes)",
+      "link": "https://music.163.com/album?id=74321644"
+    }
+  },
+  {
+    "name": "Here And Now",
+    "link": "https://music.163.com/song?id=36270215",
+    "duration": "02:26",
+    "artists": [
+      { "name": "PAXEL", "link": "https://music.163.com/artist?id=1094020" }
+    ],
+    "album": {
+      "name": "Here And Now",
+      "link": "https://music.163.com/album?id=3389343"
+    }
+  },
+  {
+    "name": "Here for You Love",
+    "link": "https://music.163.com/song?id=504589238",
+    "duration": "03:25",
+    "artists": [
+      { "name": "LIZOT", "link": "https://music.163.com/artist?id=1137483" }
+    ],
+    "album": {
+      "name": "Here For You Love",
+      "link": "https://music.163.com/album?id=36049473"
+    }
+  },
+  {
+    "name": "Stoned In Love (Vertigo Mix)",
+    "link": "https://music.163.com/song?id=423314061",
+    "duration": "05:48",
+    "artists": [
+      { "name": "Chicane", "link": "https://music.163.com/artist?id=50971" },
+      { "name": "Tom Jones", "link": "https://music.163.com/artist?id=44491" }
+    ],
+    "album": {
+      "name": "Twenty",
+      "link": "https://music.163.com/album?id=34790294"
+    }
+  },
+  {
+    "name": "圈住你",
+    "link": "https://music.163.com/song?id=1372552573",
+    "duration": "02:58",
+    "artists": [
+      { "name": "一口甜", "link": "https://music.163.com/artist?id=30616590" }
+    ],
+    "album": {
+      "name": "圈住你",
+      "link": "https://music.163.com/album?id=79854762"
+    }
+  },
+  {
+    "name": "Senbonzakura [SS-Extended+Bass] - (千本樱)",
+    "link": "https://music.163.com/song?id=32139848",
+    "duration": "04:23",
+    "artists": [
+      {
+        "name": "Lindsey Stirling",
+        "link": "https://music.163.com/artist?id=66225"
+      }
+    ],
+    "album": {
+      "name": "Shatter Me (Deluxe Version)",
+      "link": "https://music.163.com/album?id=3153020"
+    }
+  },
+  {
+    "name": "Get It Together",
+    "link": "https://music.163.com/song?id=509573636",
+    "duration": "02:58",
+    "artists": [
+      {
+        "name": "Charlie Who?",
+        "link": "https://music.163.com/artist?id=12073500"
+      },
+      { "name": "Nomi", "link": "https://music.163.com/artist?id=69853" }
+    ],
+    "album": {
+      "name": "Get It Together",
+      "link": "https://music.163.com/album?id=36320332"
+    }
+  },
+  {
+    "name": "Taipei (All at Once)",
+    "link": "https://music.163.com/song?id=26903791",
+    "duration": "04:50",
+    "artists": [
+      { "name": "Kyte", "link": "https://music.163.com/artist?id=95282" }
+    ],
+    "album": {
+      "name": "Taipei (All at Once)",
+      "link": "https://music.163.com/album?id=2570120"
+    }
+  },
+  {
+    "name": "Ain't Nothing Like It",
+    "link": "https://music.163.com/song?id=1348835834",
+    "duration": "02:46",
+    "artists": [
+      { "name": "KLYMVX", "link": "https://music.163.com/artist?id=1149091" }
+    ],
+    "album": {
+      "name": "Ain't Nothing Like It",
+      "link": "https://music.163.com/album?id=75717310"
+    }
+  },
+  {
+    "name": "Road",
+    "link": "https://music.163.com/song?id=1419440759",
+    "duration": "03:58",
+    "artists": [
+      { "name": "Lane 8", "link": "https://music.163.com/artist?id=787072" },
+      {
+        "name": "Arctic Lake",
+        "link": "https://music.163.com/artist?id=1063197"
+      }
+    ],
+    "album": {
+      "name": "Road",
+      "link": "https://music.163.com/album?id=85303143"
+    }
+  },
+  {
+    "name": "Heart & Soul (Extended Mix)",
+    "link": "https://music.163.com/song?id=1382603215",
+    "duration": "06:41",
+    "artists": [
+      { "name": "A.R.D.I.", "link": "https://music.163.com/artist?id=207863" }
+    ],
+    "album": {
+      "name": "Heart & Soul",
+      "link": "https://music.163.com/album?id=80816170"
+    }
+  },
+  {
+    "name": "Afterglow",
+    "link": "https://music.163.com/song?id=1374466420",
+    "duration": "02:50",
+    "artists": [
+      { "name": "Tailor", "link": "https://music.163.com/artist?id=484248" },
+      {
+        "name": "Lizzy Land",
+        "link": "https://music.163.com/artist?id=12192259"
+      }
+    ],
+    "album": {
+      "name": "Afterglow",
+      "link": "https://music.163.com/album?id=80046888"
+    }
+  },
+  {
+    "name": "Let's Escape to Paradise Together",
+    "link": "https://music.163.com/song?id=1316330677",
+    "duration": "06:27",
+    "artists": [
+      { "name": "Dennis Kuo", "link": "https://music.163.com/artist?id=32385" }
+    ],
+    "album": {
+      "name": "Study Music Project 6: Memory Palace",
+      "link": "https://music.163.com/album?id=73702860"
+    }
+  },
+  {
+    "name": "Insomnia",
+    "link": "https://music.163.com/song?id=16959121",
+    "duration": "03:25",
+    "artists": [
+      { "name": "Craig David", "link": "https://music.163.com/artist?id=29959" }
+    ],
+    "album": {
+      "name": "Insomnia",
+      "link": "https://music.163.com/album?id=1562556"
+    }
+  },
+  {
+    "name": "It's Not Living (If It's Not With You)",
+    "link": "https://music.163.com/song?id=1318700849",
+    "duration": "04:08",
+    "artists": [
+      { "name": "The 1975", "link": "https://music.163.com/artist?id=104457" }
+    ],
+    "album": {
+      "name": "It's Not Living (If It's Not With You)",
+      "link": "https://music.163.com/album?id=73968393"
+    }
+  },
+  {
+    "name": "Robots",
+    "link": "https://music.163.com/song?id=27256247",
+    "duration": "04:09",
+    "artists": [
+      { "name": "Gemini", "link": "https://music.163.com/artist?id=58156" }
+    ],
+    "album": {
+      "name": "Mercury",
+      "link": "https://music.163.com/album?id=2594686"
+    }
+  },
+  {
+    "name": "Home",
+    "link": "https://music.163.com/song?id=500684227",
+    "duration": "05:00",
+    "artists": [
+      { "name": "Vexento", "link": "https://music.163.com/artist?id=12037010" }
+    ],
+    "album": {
+      "name": "Home",
+      "link": "https://music.163.com/album?id=36031054"
+    }
+  },
+  {
+    "name": "Wherever We Fly (Extended Mix)",
+    "link": "https://music.163.com/song?id=459720229",
+    "duration": "06:17",
+    "artists": [
+      {
+        "name": "Alan Morris",
+        "link": "https://music.163.com/artist?id=193174"
+      }
+    ],
+    "album": {
+      "name": "Wherever We Fly",
+      "link": "https://music.163.com/album?id=35176252"
+    }
+  },
+  {
+    "name": "My Radio (DJ Tool Radio Edit)",
+    "link": "https://music.163.com/song?id=429411119",
+    "duration": "03:13",
+    "artists": [
+      {
+        "name": "Empyre One",
+        "link": "https://music.163.com/artist?id=387066"
+      },
+      { "name": "Energizer", "link": "https://music.163.com/artist?id=417330" }
+    ],
+    "album": {
+      "name": "My Radio",
+      "link": "https://music.163.com/album?id=34868059"
+    }
+  },
+  {
+    "name": "Drink About",
+    "link": "https://music.163.com/song?id=550169452",
+    "duration": "03:02",
+    "artists": [
+      { "name": "SeeB", "link": "https://music.163.com/artist?id=1182169" },
+      {
+        "name": "Dagny Norvoll Sandvik",
+        "link": "https://music.163.com/artist?id=1156155"
+      }
+    ],
+    "album": {
+      "name": "Drink About",
+      "link": "https://music.163.com/album?id=38227072"
+    }
+  },
+  {
+    "name": "La Lune x Sea Of Voices",
+    "link": "https://music.163.com/song?id=473602433",
+    "duration": "02:23",
+    "artists": [
+      {
+        "name": "Porter Robinson",
+        "link": "https://music.163.com/artist?id=185871"
+      },
+      { "name": "Madeon", "link": "https://music.163.com/artist?id=40280" }
+    ],
+    "album": {
+      "name": "Shelter Live",
+      "link": "https://music.163.com/album?id=35377208"
+    }
+  },
+  {
+    "name": "Glitterati",
+    "link": "https://music.163.com/song?id=28160388",
+    "duration": "02:29",
+    "artists": [
+      {
+        "name": "Blue Stahli",
+        "link": "https://music.163.com/artist?id=759192"
+      }
+    ],
+    "album": {
+      "name": "Antisleep Vol. 02",
+      "link": "https://music.163.com/album?id=2345260"
+    }
+  },
+  {
+    "name": "Summer Vibe",
+    "link": "https://music.163.com/song?id=4433364",
+    "duration": "03:18",
+    "artists": [
+      {
+        "name": "Walk off the Earth",
+        "link": "https://music.163.com/artist?id=105493"
+      }
+    ],
+    "album": {
+      "name": "Summer Vibe",
+      "link": "https://music.163.com/album?id=447471"
+    }
+  },
+  {
+    "name": "Come And Get It (Razihel Remix)",
+    "link": "https://music.163.com/song?id=26193501",
+    "duration": "03:38",
+    "artists": [
+      { "name": "Krewella", "link": "https://music.163.com/artist?id=208915" }
+    ],
+    "album": {
+      "name": "Come & Get It (The Remixes)",
+      "link": "https://music.163.com/album?id=2419268"
+    }
+  },
+  {
+    "name": "Hangover",
+    "link": "https://music.163.com/song?id=3570196",
+    "duration": "04:04",
+    "artists": [
+      { "name": "Flo Rida", "link": "https://music.163.com/artist?id=56783" },
+      { "name": "Taio Cruz", "link": "https://music.163.com/artist?id=78315" }
+    ],
+    "album": {
+      "name": "Hangover",
+      "link": "https://music.163.com/album?id=361588"
+    }
+  },
+  {
+    "name": "红",
+    "link": "https://music.163.com/song?id=1305638656",
+    "duration": "02:56",
+    "artists": [
+      { "name": "叶健", "link": "https://music.163.com/artist?id=1064070" }
+    ],
+    "album": { "name": "红", "link": "https://music.163.com/album?id=72739686" }
+  },
+  {
+    "name": "Remedy",
+    "link": "https://music.163.com/song?id=493551013",
+    "duration": "02:58",
+    "artists": [
+      {
+        "name": "Zonderling",
+        "link": "https://music.163.com/artist?id=981038"
+      },
+      { "name": "Mingue", "link": "https://music.163.com/artist?id=13678630" }
+    ],
+    "album": {
+      "name": "Remedy",
+      "link": "https://music.163.com/album?id=35848011"
+    }
+  },
+  {
+    "name": "pure imagination",
+    "link": "https://music.163.com/song?id=494858498",
+    "duration": "01:44",
+    "artists": [
+      { "name": "ROOK1E", "link": "https://music.163.com/artist?id=12175279" },
+      { "name": "J'san", "link": "https://music.163.com/artist?id=12475779" }
+    ],
+    "album": {
+      "name": "pure imagination",
+      "link": "https://music.163.com/album?id=35865408"
+    }
+  }
+]

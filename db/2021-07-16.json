@@ -1,0 +1,509 @@
+[
+  {
+    "name": "What I Like About You",
+    "link": "https://music.163.com/song?id=1353368988",
+    "duration": "03:40",
+    "artists": [
+      {
+        "name": "Jonas Blue",
+        "link": "https://music.163.com/artist?id=1192069"
+      },
+      {
+        "name": "Theresa Rex",
+        "link": "https://music.163.com/artist?id=30282713"
+      }
+    ],
+    "album": {
+      "name": "What I Like About You",
+      "link": "https://music.163.com/album?id=77634351"
+    }
+  },
+  {
+    "name": "Million Dollar Mood",
+    "link": "https://music.163.com/song?id=1337296869",
+    "duration": "02:55",
+    "artists": [
+      {
+        "name": "WEALTHYSELF",
+        "link": "https://music.163.com/artist?id=27864242"
+      },
+      {
+        "name": "Miranda Glory",
+        "link": "https://music.163.com/artist?id=12463504"
+      },
+      { "name": "CANCUN?", "link": "https://music.163.com/artist?id=27863745" }
+    ],
+    "album": {
+      "name": "Million Dollar Mood",
+      "link": "https://music.163.com/album?id=75042967"
+    }
+  },
+  {
+    "name": "Never Over",
+    "link": "https://music.163.com/song?id=509135896",
+    "duration": "02:36",
+    "artists": [
+      { "name": "BEAUZ", "link": "https://music.163.com/artist?id=12131436" },
+      { "name": "Michi", "link": "https://music.163.com/artist?id=12390142" }
+    ],
+    "album": {
+      "name": "Never Over",
+      "link": "https://music.163.com/album?id=36412220"
+    }
+  },
+  {
+    "name": "Tears & Tantrums (Remixed by Evan Gartner)",
+    "link": "https://music.163.com/song?id=1331677398",
+    "duration": "03:04",
+    "artists": [
+      {
+        "name": "Evan Gartner",
+        "link": "https://music.163.com/artist?id=12411125"
+      },
+      { "name": "XYLØ", "link": "https://music.163.com/artist?id=1050511" }
+    ],
+    "album": {
+      "name": "Tears & Tantrums",
+      "link": "https://music.163.com/album?id=74797519"
+    }
+  },
+  {
+    "name": "Love Games",
+    "link": "https://music.163.com/song?id=1375491585",
+    "duration": "03:00",
+    "artists": [
+      {
+        "name": "Alex Parker",
+        "link": "https://music.163.com/artist?id=280735"
+      },
+      {
+        "name": "Olivia Addams",
+        "link": "https://music.163.com/artist?id=28657767"
+      }
+    ],
+    "album": {
+      "name": "Love Games",
+      "link": "https://music.163.com/album?id=80152372"
+    }
+  },
+  {
+    "name": "I Was King - (我是王)",
+    "link": "https://music.163.com/song?id=441102546",
+    "duration": "03:58",
+    "artists": [
+      { "name": "ONE OK ROCK", "link": "https://music.163.com/artist?id=20878" }
+    ],
+    "album": {
+      "name": "Ambitions [INTERNATIONAL VERSION]",
+      "link": "https://music.163.com/album?id=34923761"
+    }
+  },
+  {
+    "name": "Turn Back Time",
+    "link": "https://music.163.com/song?id=1331800077",
+    "duration": "03:09",
+    "artists": [
+      {
+        "name": "Rich Edwards",
+        "link": "https://music.163.com/artist?id=1038214"
+      },
+      { "name": "Emelie", "link": "https://music.163.com/artist?id=15352429" }
+    ],
+    "album": {
+      "name": "Turn Back Time",
+      "link": "https://music.163.com/album?id=74808833"
+    }
+  },
+  {
+    "name": "Real",
+    "link": "https://music.163.com/song?id=1356227019",
+    "duration": "03:22",
+    "artists": [
+      { "name": "Tritonal", "link": "https://music.163.com/artist?id=104133" },
+      { "name": "Evalyn", "link": "https://music.163.com/artist?id=12646511" }
+    ],
+    "album": {
+      "name": "Real",
+      "link": "https://music.163.com/album?id=78298244"
+    }
+  },
+  {
+    "name": "Part-Time Lover",
+    "link": "https://music.163.com/song?id=1347227963",
+    "duration": "03:39",
+    "artists": [
+      { "name": "Dabin", "link": "https://music.163.com/artist?id=783446" },
+      {
+        "name": "Claire Ridgely",
+        "link": "https://music.163.com/artist?id=14935781"
+      }
+    ],
+    "album": {
+      "name": "Wild Youth",
+      "link": "https://music.163.com/album?id=75638746"
+    }
+  },
+  {
+    "name": "Stay",
+    "link": "https://music.163.com/song?id=421160645",
+    "duration": "03:46",
+    "artists": [
+      { "name": "FTampa", "link": "https://music.163.com/artist?id=453377" },
+      {
+        "name": "Amanda Wilson",
+        "link": "https://music.163.com/artist?id=205419"
+      }
+    ],
+    "album": {
+      "name": "Stay",
+      "link": "https://music.163.com/album?id=34780222"
+    }
+  },
+  {
+    "name": "Forget",
+    "link": "https://music.163.com/song?id=1333384536",
+    "duration": "02:58",
+    "artists": [
+      {
+        "name": "The Tech Thieves",
+        "link": "https://music.163.com/artist?id=12080267"
+      }
+    ],
+    "album": {
+      "name": "Forget",
+      "link": "https://music.163.com/album?id=74880213"
+    }
+  },
+  {
+    "name": "When We Were Young",
+    "link": "https://music.163.com/song?id=1477742958",
+    "duration": "02:58",
+    "artists": [
+      { "name": "Arston", "link": "https://music.163.com/artist?id=776576" },
+      {
+        "name": "Soul Parker",
+        "link": "https://music.163.com/artist?id=34219549"
+      }
+    ],
+    "album": {
+      "name": "When We Were Young",
+      "link": "https://music.163.com/album?id=95138535"
+    }
+  },
+  {
+    "name": "Break With Me",
+    "link": "https://music.163.com/song?id=1819602178",
+    "duration": "02:35",
+    "artists": [
+      {
+        "name": "SHY Martin",
+        "link": "https://music.163.com/artist?id=12354062"
+      }
+    ],
+    "album": {
+      "name": "Break With Me",
+      "link": "https://music.163.com/album?id=122923295"
+    }
+  },
+  {
+    "name": "Rum n Tequila",
+    "link": "https://music.163.com/song?id=1361104021",
+    "duration": "02:17",
+    "artists": [
+      { "name": "John K", "link": "https://music.163.com/artist?id=12931567" }
+    ],
+    "album": {
+      "name": "if we never met",
+      "link": "https://music.163.com/album?id=78750577"
+    }
+  },
+  {
+    "name": "More Than Friends",
+    "link": "https://music.163.com/song?id=1377262610",
+    "duration": "02:39",
+    "artists": [
+      { "name": "Mokita", "link": "https://music.163.com/artist?id=12033046" }
+    ],
+    "album": {
+      "name": "4201",
+      "link": "https://music.163.com/album?id=80333414"
+    }
+  },
+  {
+    "name": "Sour",
+    "link": "https://music.163.com/song?id=1375489032",
+    "duration": "02:49",
+    "artists": [
+      { "name": "MIMO", "link": "https://music.163.com/artist?id=14057263" },
+      {
+        "name": "Camden Levine",
+        "link": "https://music.163.com/artist?id=12103027"
+      },
+      {
+        "name": "Emma Remelle",
+        "link": "https://music.163.com/artist?id=31779383"
+      }
+    ],
+    "album": {
+      "name": "Sour",
+      "link": "https://music.163.com/album?id=80152925"
+    }
+  },
+  {
+    "name": "Dancing In The Rain",
+    "link": "https://music.163.com/song?id=1355814875",
+    "duration": "03:00",
+    "artists": [
+      {
+        "name": "FUTURECODE",
+        "link": "https://music.163.com/artist?id=31577450"
+      },
+      {
+        "name": "Roxanne Emery",
+        "link": "https://music.163.com/artist?id=74561"
+      }
+    ],
+    "album": {
+      "name": "Dancing In The Rain",
+      "link": "https://music.163.com/album?id=78265721"
+    }
+  },
+  {
+    "name": "Forever Right Now",
+    "link": "https://music.163.com/song?id=1320649049",
+    "duration": "02:21",
+    "artists": [
+      {
+        "name": "Conor Matthews",
+        "link": "https://music.163.com/artist?id=14658311"
+      }
+    ],
+    "album": {
+      "name": "Forever Right Now",
+      "link": "https://music.163.com/album?id=74099841"
+    }
+  },
+  {
+    "name": "I'm Fine Without You",
+    "link": "https://music.163.com/song?id=1398921764",
+    "duration": "03:01",
+    "artists": [
+      { "name": "Otzzo", "link": "https://music.163.com/artist?id=30254332" }
+    ],
+    "album": {
+      "name": "I'm Fine Without You",
+      "link": "https://music.163.com/album?id=82709777"
+    }
+  },
+  {
+    "name": "Say So",
+    "link": "https://music.163.com/song?id=1451314845",
+    "duration": "02:26",
+    "artists": [
+      {
+        "name": "Green Bull",
+        "link": "https://music.163.com/artist?id=32965584"
+      },
+      { "name": "Fets", "link": "https://music.163.com/artist?id=33172705" },
+      {
+        "name": "Steve Void",
+        "link": "https://music.163.com/artist?id=12062200"
+      }
+    ],
+    "album": {
+      "name": "Say So",
+      "link": "https://music.163.com/album?id=90022943"
+    }
+  },
+  {
+    "name": "Sweet Dreams",
+    "link": "https://music.163.com/song?id=1394746783",
+    "duration": "03:06",
+    "artists": [
+      {
+        "name": "Lost Frequencies",
+        "link": "https://music.163.com/artist?id=1039114"
+      }
+    ],
+    "album": {
+      "name": "Alive And Feeling Fine",
+      "link": "https://music.163.com/album?id=82120475"
+    }
+  },
+  {
+    "name": "Summer Vibe",
+    "link": "https://music.163.com/song?id=4433364",
+    "duration": "03:18",
+    "artists": [
+      {
+        "name": "Walk off the Earth",
+        "link": "https://music.163.com/artist?id=105493"
+      }
+    ],
+    "album": {
+      "name": "Summer Vibe",
+      "link": "https://music.163.com/album?id=447471"
+    }
+  },
+  {
+    "name": "Where Dreams Are Made (Extended Mix)",
+    "link": "https://music.163.com/song?id=409647183",
+    "duration": "04:15",
+    "artists": [
+      { "name": "Joey Dale", "link": "https://music.163.com/artist?id=908121" }
+    ],
+    "album": {
+      "name": "Where Dreams Are Made",
+      "link": "https://music.163.com/album?id=34613075"
+    }
+  },
+  {
+    "name": "Still Around",
+    "link": "https://music.163.com/song?id=1480243044",
+    "duration": "02:55",
+    "artists": [
+      {
+        "name": "Justin Mylo",
+        "link": "https://music.163.com/artist?id=12082294"
+      },
+      { "name": "smbdy", "link": "https://music.163.com/artist?id=14231716" }
+    ],
+    "album": {
+      "name": "Martin Garrix presents STMPD RCRDS Vol. 001",
+      "link": "https://music.163.com/album?id=95602675"
+    }
+  },
+  {
+    "name": "Erase (Arty Remix)",
+    "link": "https://music.163.com/song?id=1294951165",
+    "duration": "03:12",
+    "artists": [
+      { "name": "FRND", "link": "https://music.163.com/artist?id=12107565" },
+      { "name": "ARTY", "link": "https://music.163.com/artist?id=28883" }
+    ],
+    "album": {
+      "name": "Erase (Reimagined)",
+      "link": "https://music.163.com/album?id=71882871"
+    }
+  },
+  {
+    "name": "Firestorm",
+    "link": "https://music.163.com/song?id=1386447299",
+    "duration": "03:16",
+    "artists": [
+      {
+        "name": "Daniel Garrick",
+        "link": "https://music.163.com/artist?id=1163065"
+      },
+      {
+        "name": "Clef & Canberra",
+        "link": "https://music.163.com/artist?id=12171077"
+      },
+      {
+        "name": "Revealed Recordings",
+        "link": "https://music.163.com/artist?id=28753573"
+      }
+    ],
+    "album": {
+      "name": "Firestorm",
+      "link": "https://music.163.com/album?id=81141739"
+    }
+  },
+  {
+    "name": "Cool (Instrumental Mix)",
+    "link": "https://music.163.com/song?id=30830668",
+    "duration": "03:41",
+    "artists": [
+      { "name": "Alesso", "link": "https://music.163.com/artist?id=29251" }
+    ],
+    "album": {
+      "name": "Cool (feat. Roy English)",
+      "link": "https://music.163.com/album?id=3104130"
+    }
+  },
+  {
+    "name": "Pressure",
+    "link": "https://music.163.com/song?id=1490133877",
+    "duration": "02:44",
+    "artists": [
+      {
+        "name": "Ivy Adara",
+        "link": "https://music.163.com/artist?id=12925126"
+      }
+    ],
+    "album": {
+      "name": "Pressure",
+      "link": "https://music.163.com/album?id=97359465"
+    }
+  },
+  {
+    "name": "Thinkin' Bout You (Vijay & Sofia Remix)",
+    "link": "https://music.163.com/song?id=458231374",
+    "duration": "03:16",
+    "artists": [
+      {
+        "name": "Vijay & Sofia",
+        "link": "https://music.163.com/artist?id=12248024"
+      },
+      { "name": "Ben DJ", "link": "https://music.163.com/artist?id=210299" }
+    ],
+    "album": {
+      "name": "Thinkin' Bout You (Vijay & Sofia Remix)",
+      "link": "https://music.163.com/album?id=35158321"
+    }
+  },
+  {
+    "name": "Princesses Don't Cry",
+    "link": "https://music.163.com/song?id=536870202",
+    "duration": "03:32",
+    "artists": [
+      { "name": "CARYS", "link": "https://music.163.com/artist?id=14639123" }
+    ],
+    "album": {
+      "name": "Songs About Boys",
+      "link": "https://music.163.com/album?id=37586032"
+    }
+  },
+  {
+    "name": "Wishful Drinking",
+    "link": "https://music.163.com/song?id=1394310915",
+    "duration": "03:15",
+    "artists": [
+      {
+        "name": "Tessa Violet",
+        "link": "https://music.163.com/artist?id=897075"
+      }
+    ],
+    "album": {
+      "name": "Bad Ideas",
+      "link": "https://music.163.com/album?id=82065482"
+    }
+  },
+  {
+    "name": "花火大会",
+    "link": "https://music.163.com/song?id=1378492146",
+    "duration": "03:04",
+    "artists": [
+      { "name": "RADWIMPS", "link": "https://music.163.com/artist?id=21132" }
+    ],
+    "album": {
+      "name": "天気の子",
+      "link": "https://music.163.com/album?id=80440087"
+    }
+  },
+  {
+    "name": "Come Around Me",
+    "link": "https://music.163.com/song?id=1420972635",
+    "duration": "03:20",
+    "artists": [
+      {
+        "name": "Justin Bieber",
+        "link": "https://music.163.com/artist?id=35531"
+      }
+    ],
+    "album": {
+      "name": "Changes",
+      "link": "https://music.163.com/album?id=85476150"
+    }
+  }
+]

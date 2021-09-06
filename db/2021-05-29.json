@@ -1,0 +1,464 @@
+[
+  {
+    "name": "Funny",
+    "link": "https://music.163.com/song?id=1462389947",
+    "duration": "03:41",
+    "artists": [
+      { "name": "Zedd", "link": "https://music.163.com/artist?id=46376" },
+      {
+        "name": "Jasmine Thompson",
+        "link": "https://music.163.com/artist?id=863042"
+      }
+    ],
+    "album": {
+      "name": "Funny",
+      "link": "https://music.163.com/album?id=92342653"
+    }
+  },
+  {
+    "name": "Alone, Pt. II",
+    "link": "https://music.163.com/song?id=1411973459",
+    "duration": "02:59",
+    "artists": [
+      {
+        "name": "Alan Walker",
+        "link": "https://music.163.com/artist?id=1045123"
+      },
+      { "name": "Ava Max", "link": "https://music.163.com/artist?id=14486166" }
+    ],
+    "album": {
+      "name": "Alone, Pt. II",
+      "link": "https://music.163.com/album?id=84354140"
+    }
+  },
+  {
+    "name": "Body Back",
+    "link": "https://music.163.com/song?id=1397616467",
+    "duration": "03:34",
+    "artists": [
+      { "name": "Gryffin", "link": "https://music.163.com/artist?id=1181504" },
+      {
+        "name": "Maia Wright",
+        "link": "https://music.163.com/artist?id=12561660"
+      }
+    ],
+    "album": {
+      "name": "Gravity",
+      "link": "https://music.163.com/album?id=82692723"
+    }
+  },
+  {
+    "name": "Pathfinder",
+    "link": "https://music.163.com/song?id=1358189191",
+    "duration": "02:03",
+    "artists": [
+      { "name": "Resonance", "link": "https://music.163.com/artist?id=196588" }
+    ],
+    "album": {
+      "name": "Pathfinder",
+      "link": "https://music.163.com/album?id=78479683"
+    }
+  },
+  {
+    "name": "Somebody New",
+    "link": "https://music.163.com/song?id=523001614",
+    "duration": "03:10",
+    "artists": [
+      { "name": "Faustix", "link": "https://music.163.com/artist?id=1155054" },
+      {
+        "name": "Alexander Oscar",
+        "link": "https://music.163.com/artist?id=12312150"
+      }
+    ],
+    "album": {
+      "name": "Faustix",
+      "link": "https://music.163.com/album?id=36900296"
+    }
+  },
+  {
+    "name": "Deep Down",
+    "link": "https://music.163.com/song?id=1351913687",
+    "duration": "02:49",
+    "artists": [
+      {
+        "name": "Johnny Orlando",
+        "link": "https://music.163.com/artist?id=590458"
+      }
+    ],
+    "album": {
+      "name": "Teenage Fever",
+      "link": "https://music.163.com/album?id=75848224"
+    }
+  },
+  {
+    "name": "Feelings",
+    "link": "https://music.163.com/song?id=1388891420",
+    "duration": "03:09",
+    "artists": [
+      { "name": "Lauv", "link": "https://music.163.com/artist?id=1057226" }
+    ],
+    "album": {
+      "name": "Feelings",
+      "link": "https://music.163.com/album?id=81386823"
+    }
+  },
+  {
+    "name": "If I Can't Have You",
+    "link": "https://music.163.com/song?id=1362857141",
+    "duration": "03:10",
+    "artists": [
+      {
+        "name": "Shawn Mendes",
+        "link": "https://music.163.com/artist?id=956238"
+      }
+    ],
+    "album": {
+      "name": "If I Can't Have You",
+      "link": "https://music.163.com/album?id=78899562"
+    }
+  },
+  {
+    "name": "生日当天的傍晚意外收到了来自暗恋对象的祝福",
+    "link": "https://music.163.com/song?id=517764925",
+    "duration": "02:50",
+    "artists": [
+      { "name": "AniFace", "link": "https://music.163.com/artist?id=12259037" }
+    ],
+    "album": {
+      "name": "生日当天的傍晚意外收到了来自暗恋对象的祝福",
+      "link": "https://music.163.com/album?id=36760073"
+    }
+  },
+  {
+    "name": "Shining (Original Mix)",
+    "link": "https://music.163.com/song?id=509241385",
+    "duration": "07:26",
+    "artists": [
+      { "name": "SoundLift", "link": "https://music.163.com/artist?id=44015" }
+    ],
+    "album": {
+      "name": "Shining",
+      "link": "https://music.163.com/album?id=36432086"
+    }
+  },
+  {
+    "name": "Wren",
+    "link": "https://music.163.com/song?id=473940455",
+    "duration": "04:31",
+    "artists": [
+      { "name": "Faodail", "link": "https://music.163.com/artist?id=12334011" }
+    ],
+    "album": {
+      "name": "Wren",
+      "link": "https://music.163.com/album?id=35425118"
+    }
+  },
+  {
+    "name": "Lion",
+    "link": "https://music.163.com/song?id=415792762",
+    "duration": "03:24",
+    "artists": [
+      { "name": "CASI", "link": "https://music.163.com/artist?id=12053424" }
+    ],
+    "album": {
+      "name": "Lion",
+      "link": "https://music.163.com/album?id=34721654"
+    }
+  },
+  {
+    "name": "Waterfall",
+    "link": "https://music.163.com/song?id=33911581",
+    "duration": "07:27",
+    "artists": [
+      {
+        "name": "Luigi Lusini",
+        "link": "https://music.163.com/artist?id=38282"
+      }
+    ],
+    "album": {
+      "name": "I'll Be Home",
+      "link": "https://music.163.com/album?id=3266157"
+    }
+  },
+  {
+    "name": "Mellow Yellow (Original Mix)",
+    "link": "https://music.163.com/song?id=507794048",
+    "duration": "06:16",
+    "artists": [
+      { "name": "Japeboy", "link": "https://music.163.com/artist?id=12263241" }
+    ],
+    "album": {
+      "name": "Global Sunset / Mellow Yellow",
+      "link": "https://music.163.com/album?id=36304016"
+    }
+  },
+  {
+    "name": "Parthia",
+    "link": "https://music.163.com/song?id=1997838",
+    "duration": "07:35",
+    "artists": [
+      {
+        "name": "Farhad Mahdavi",
+        "link": "https://music.163.com/artist?id=196431"
+      }
+    ],
+    "album": {
+      "name": "Myths & Legends: Mixed By SoundLift",
+      "link": "https://music.163.com/album?id=201414"
+    }
+  },
+  {
+    "name": "盛夏",
+    "link": "https://music.163.com/song?id=1462178971",
+    "duration": "03:00",
+    "artists": [
+      {
+        "name": "不知名的老E同学",
+        "link": "https://music.163.com/artist?id=12476030"
+      }
+    ],
+    "album": {
+      "name": "盛夏",
+      "link": "https://music.163.com/album?id=92263216"
+    }
+  },
+  {
+    "name": "夏の癒し曲",
+    "link": "https://music.163.com/song?id=1324453694",
+    "duration": "03:22",
+    "artists": [
+      {
+        "name": "Max Daniel",
+        "link": "https://music.163.com/artist?id=12478414"
+      }
+    ],
+    "album": {
+      "name": "夏の癒し曲",
+      "link": "https://music.163.com/album?id=74305467"
+    }
+  },
+  {
+    "name": "Wasted (Original Mix)",
+    "link": "https://music.163.com/song?id=502228305",
+    "duration": "07:32",
+    "artists": [
+      {
+        "name": "Sergey Shabanov",
+        "link": "https://music.163.com/artist?id=318622"
+      }
+    ],
+    "album": {
+      "name": "Follow the Orange Light",
+      "link": "https://music.163.com/album?id=36031636"
+    }
+  },
+  {
+    "name": "僕は今日も",
+    "link": "https://music.163.com/song?id=1441997419",
+    "duration": "05:26",
+    "artists": [
+      { "name": "Vaundy", "link": "https://music.163.com/artist?id=34343313" }
+    ],
+    "album": {
+      "name": "僕は今日も",
+      "link": "https://music.163.com/album?id=88263436"
+    }
+  },
+  {
+    "name": "This Time (Electus Remix)",
+    "link": "https://music.163.com/song?id=459733786",
+    "duration": "08:32",
+    "artists": [
+      { "name": "Electus", "link": "https://music.163.com/artist?id=1032300" },
+      { "name": "Murtagh", "link": "https://music.163.com/artist?id=12047047" },
+      {
+        "name": "Noctilucent",
+        "link": "https://music.163.com/artist?id=1150036"
+      }
+    ],
+    "album": {
+      "name": "This Time (Electus Remix)",
+      "link": "https://music.163.com/album?id=35174498"
+    }
+  },
+  {
+    "name": "Russian Partisan's Song",
+    "link": "https://music.163.com/song?id=1411271382",
+    "duration": "02:20",
+    "artists": [
+      {
+        "name": "The Red Army Choir",
+        "link": "https://music.163.com/artist?id=13042166"
+      }
+    ],
+    "album": {
+      "name": "The Russian Archives, Vol. 1",
+      "link": "https://music.163.com/album?id=84277875"
+    }
+  },
+  {
+    "name": "Coratge",
+    "link": "https://music.163.com/song?id=17658399",
+    "duration": "02:48",
+    "artists": [
+      { "name": "Obrint Pas", "link": "https://music.163.com/artist?id=132317" }
+    ],
+    "album": {
+      "name": "Coratge",
+      "link": "https://music.163.com/album?id=1622634"
+    }
+  },
+  {
+    "name": "Mind If I Stay (Astero Remix)",
+    "link": "https://music.163.com/song?id=490602083",
+    "duration": "03:12",
+    "artists": [
+      {
+        "name": "Kadebostany",
+        "link": "https://music.163.com/artist?id=823060"
+      },
+      { "name": "Astero", "link": "https://music.163.com/artist?id=12973200" }
+    ],
+    "album": {
+      "name": "Monumental: Chapter I",
+      "link": "https://music.163.com/album?id=35722495"
+    }
+  },
+  {
+    "name": "It Wouldn't Be Right",
+    "link": "https://music.163.com/song?id=29922545",
+    "duration": "04:08",
+    "artists": [
+      {
+        "name": "Chasing Jonah",
+        "link": "https://music.163.com/artist?id=1044205"
+      }
+    ],
+    "album": {
+      "name": "Prelude",
+      "link": "https://music.163.com/album?id=3087055"
+    }
+  },
+  {
+    "name": "Das Lied der Deutschen",
+    "link": "https://music.163.com/song?id=1405033701",
+    "duration": "04:28",
+    "artists": [
+      {
+        "name": "August Heinrich Hoffmann von Fallersleben",
+        "link": "https://music.163.com/artist?id=14912705"
+      }
+    ],
+    "album": {
+      "name": "Das Lied der Deutschen",
+      "link": "https://music.163.com/album?id=83558035"
+    }
+  },
+  {
+    "name": "Pensnya o Trevosnju Molodosti",
+    "link": "https://music.163.com/song?id=1421449703",
+    "duration": "03:40",
+    "artists": [
+      {
+        "name": "Banda Bassotti",
+        "link": "https://music.163.com/artist?id=50571"
+      }
+    ],
+    "album": {
+      "name": "Pensnya o Trevosnju Molodosti",
+      "link": "https://music.163.com/album?id=85541902"
+    }
+  },
+  {
+    "name": "The Red Army Choir-歌唱动荡的青春 哈利洛夫红场千人合唱（硬要起个艺人名的话就这个了吧 remix）",
+    "link": "https://music.163.com/song?id=1497782478",
+    "duration": "03:19",
+    "artists": [
+      {
+        "name": "硬要起个艺人名的话就这个了吧",
+        "link": "https://music.163.com/artist?id=34368666"
+      }
+    ],
+    "album": {
+      "name": "另一些歌曲",
+      "link": "https://music.163.com/album?id=98344363"
+    }
+  },
+  {
+    "name": "Beautiful Stranger",
+    "link": "https://music.163.com/song?id=1449960830",
+    "duration": "03:14",
+    "artists": [
+      {
+        "name": "Bri Tolani",
+        "link": "https://music.163.com/artist?id=12203231"
+      }
+    ],
+    "album": {
+      "name": "Beautiful Stranger",
+      "link": "https://music.163.com/album?id=89786652"
+    }
+  },
+  {
+    "name": "Одинокая гармонь",
+    "link": "https://music.163.com/song?id=1819680",
+    "duration": "02:30",
+    "artists": [
+      {
+        "name": "奥列格·叶甫盖尼耶维奇·波古今",
+        "link": "https://music.163.com/artist?id=41092"
+      }
+    ],
+    "album": {
+      "name": "Любовь останется...",
+      "link": "https://music.163.com/album?id=183933"
+    }
+  },
+  {
+    "name": "Sleep",
+    "link": "https://music.163.com/song?id=18176856",
+    "duration": "04:58",
+    "artists": [
+      {
+        "name": "Poets of the Fall",
+        "link": "https://music.163.com/artist?id=70950"
+      }
+    ],
+    "album": {
+      "name": "Alchemy, Vol. 1",
+      "link": "https://music.163.com/album?id=1668539"
+    }
+  },
+  {
+    "name": "雾里",
+    "link": "https://music.163.com/song?id=1815085049",
+    "duration": "04:12",
+    "artists": [
+      { "name": "姚六一", "link": "https://music.163.com/artist?id=27909602" }
+    ],
+    "album": {
+      "name": "雾里",
+      "link": "https://music.163.com/album?id=122153644"
+    }
+  },
+  {
+    "name": "Peaches",
+    "link": "https://music.163.com/song?id=1848175800",
+    "duration": "03:18",
+    "artists": [
+      {
+        "name": "Justin Bieber",
+        "link": "https://music.163.com/artist?id=35531"
+      },
+      {
+        "name": "Daniel Caesar",
+        "link": "https://music.163.com/artist?id=1021293"
+      },
+      { "name": "Giveon", "link": "https://music.163.com/artist?id=32396647" }
+    ],
+    "album": {
+      "name": "Tailgate Party",
+      "link": "https://music.163.com/album?id=128010306"
+    }
+  }
+]

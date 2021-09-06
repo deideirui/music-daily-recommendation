@@ -1,0 +1,531 @@
+[
+  {
+    "name": "Lie",
+    "link": "https://music.163.com/song?id=1468082848",
+    "duration": "03:29",
+    "artists": [
+      {
+        "name": "Sasha Sloan",
+        "link": "https://music.163.com/artist?id=12646102"
+      }
+    ],
+    "album": {
+      "name": "Lie",
+      "link": "https://music.163.com/album?id=93415128"
+    }
+  },
+  {
+    "name": "Over That",
+    "link": "https://music.163.com/song?id=525239104",
+    "duration": "03:25",
+    "artists": [
+      {
+        "name": "Emily Vaughn",
+        "link": "https://music.163.com/artist?id=12049240"
+      }
+    ],
+    "album": {
+      "name": "Over That",
+      "link": "https://music.163.com/album?id=37026042"
+    }
+  },
+  {
+    "name": "Anxiety",
+    "link": "https://music.163.com/song?id=1464966869",
+    "duration": "02:54",
+    "artists": [
+      {
+        "name": "Besomorph",
+        "link": "https://music.163.com/artist?id=13406913"
+      },
+      {
+        "name": "The Tech Thieves",
+        "link": "https://music.163.com/artist?id=12080267"
+      }
+    ],
+    "album": {
+      "name": "Anxiety",
+      "link": "https://music.163.com/album?id=92871588"
+    }
+  },
+  {
+    "name": "On A Prayer",
+    "link": "https://music.163.com/song?id=1395897587",
+    "duration": "02:33",
+    "artists": [
+      {
+        "name": "Boy In Space",
+        "link": "https://music.163.com/artist?id=32086096"
+      },
+      {
+        "name": "SHY Martin",
+        "link": "https://music.163.com/artist?id=12354062"
+      }
+    ],
+    "album": {
+      "name": "On A Prayer",
+      "link": "https://music.163.com/album?id=82249071"
+    }
+  },
+  {
+    "name": "flyby.",
+    "link": "https://music.163.com/song?id=1491120030",
+    "duration": "03:05",
+    "artists": [
+      {
+        "name": "Virginia To Vegas",
+        "link": "https://music.163.com/artist?id=942191"
+      },
+      { "name": "Mokita", "link": "https://music.163.com/artist?id=12033046" }
+    ],
+    "album": {
+      "name": "don't wake me, i'm dreaming",
+      "link": "https://music.163.com/album?id=97579775"
+    }
+  },
+  {
+    "name": "ぴこぴこ東京 - (Pico Pico Tokyo)",
+    "link": "https://music.163.com/song?id=1365609604",
+    "duration": "03:14",
+    "artists": [
+      {
+        "name": "中田ヤスタカ",
+        "link": "https://music.163.com/artist?id=15064"
+      },
+      { "name": "眞白桃々", "link": "https://music.163.com/artist?id=32117608" }
+    ],
+    "album": {
+      "name": "ぴこぴこ東京",
+      "link": "https://music.163.com/album?id=79158641"
+    }
+  },
+  {
+    "name": "Northern Light",
+    "link": "https://music.163.com/song?id=1459853712",
+    "duration": "03:19",
+    "artists": [
+      {
+        "name": "Newclaess",
+        "link": "https://music.163.com/artist?id=13335706"
+      }
+    ],
+    "album": {
+      "name": "Northern Light",
+      "link": "https://music.163.com/album?id=91873573"
+    }
+  },
+  {
+    "name": "Hurricane",
+    "link": "https://music.163.com/song?id=1836011652",
+    "duration": "03:52",
+    "artists": [
+      { "name": "BUNT.", "link": "https://music.163.com/artist?id=744145" },
+      { "name": "HON", "link": "https://music.163.com/artist?id=34733953" },
+      { "name": "smbdy", "link": "https://music.163.com/artist?id=14231716" }
+    ],
+    "album": {
+      "name": "Hurricane",
+      "link": "https://music.163.com/album?id=125797442"
+    }
+  },
+  {
+    "name": "Grave",
+    "link": "https://music.163.com/song?id=1487152197",
+    "duration": "02:53",
+    "artists": [
+      {
+        "name": "Leah Kate",
+        "link": "https://music.163.com/artist?id=31822687"
+      }
+    ],
+    "album": {
+      "name": "Grave",
+      "link": "https://music.163.com/album?id=96811732"
+    }
+  },
+  {
+    "name": "Out of Time",
+    "link": "https://music.163.com/song?id=1816302983",
+    "duration": "03:17",
+    "artists": [
+      { "name": "Diviners", "link": "https://music.163.com/artist?id=1192136" },
+      { "name": "BUNT.", "link": "https://music.163.com/artist?id=744145" },
+      { "name": "Tom Bailey", "link": "https://music.163.com/artist?id=328443" }
+    ],
+    "album": {
+      "name": "Out of Time",
+      "link": "https://music.163.com/album?id=122360859"
+    }
+  },
+  {
+    "name": "Vintage",
+    "link": "https://music.163.com/song?id=469104844",
+    "duration": "03:39",
+    "artists": [
+      { "name": "Allie X", "link": "https://music.163.com/artist?id=973030" }
+    ],
+    "album": {
+      "name": "CollXtion II",
+      "link": "https://music.163.com/album?id=35297807"
+    }
+  },
+  {
+    "name": "Holding On",
+    "link": "https://music.163.com/song?id=520274067",
+    "duration": "03:25",
+    "artists": [
+      {
+        "name": "Adib Sin",
+        "link": "https://music.163.com/artist?id=12244027"
+      },
+      { "name": "Salsa", "link": "https://music.163.com/artist?id=141594" }
+    ],
+    "album": {
+      "name": "Holding On",
+      "link": "https://music.163.com/album?id=36845027"
+    }
+  },
+  {
+    "name": "Good Things Fall Apart vs. Sad Songs",
+    "link": "https://music.163.com/song?id=1454864598",
+    "duration": "06:06",
+    "artists": [
+      { "name": "ILLENIUM", "link": "https://music.163.com/artist?id=1050518" },
+      {
+        "name": "Jon Bellion",
+        "link": "https://music.163.com/artist?id=860113"
+      },
+      {
+        "name": "Said The Sky",
+        "link": "https://music.163.com/artist?id=1026094"
+      },
+      {
+        "name": "Annika Wells",
+        "link": "https://music.163.com/artist?id=12108797"
+      }
+    ],
+    "album": {
+      "name": "ASCEND (Tour Edits)",
+      "link": "https://music.163.com/album?id=90763326"
+    }
+  },
+  {
+    "name": "Ether Field",
+    "link": "https://music.163.com/song?id=1319884589",
+    "duration": "04:40",
+    "artists": [
+      { "name": "Wisp X", "link": "https://music.163.com/artist?id=1046123" }
+    ],
+    "album": {
+      "name": "Ether Field",
+      "link": "https://music.163.com/album?id=74046001"
+    }
+  },
+  {
+    "name": "I Need You More Than You Want Me",
+    "link": "https://music.163.com/song?id=1389093122",
+    "duration": "02:28",
+    "artists": [
+      {
+        "name": "Fly by Midnight",
+        "link": "https://music.163.com/artist?id=1163027"
+      }
+    ],
+    "album": {
+      "name": "I Need You More Than You Want Me",
+      "link": "https://music.163.com/album?id=81410625"
+    }
+  },
+  {
+    "name": "Got A Little Crush On You",
+    "link": "https://music.163.com/song?id=1323148446",
+    "duration": "03:31",
+    "artists": [
+      {
+        "name": "Wildflowers",
+        "link": "https://music.163.com/artist?id=12977810"
+      },
+      { "name": "Emmi", "link": "https://music.163.com/artist?id=140606" }
+    ],
+    "album": {
+      "name": "Buttercup",
+      "link": "https://music.163.com/album?id=74254239"
+    }
+  },
+  {
+    "name": "Fly Away",
+    "link": "https://music.163.com/song?id=1321598520",
+    "duration": "03:29",
+    "artists": [
+      { "name": "Nurko", "link": "https://music.163.com/artist?id=11991089" },
+      { "name": "Elle Vee", "link": "https://music.163.com/artist?id=1046258" }
+    ],
+    "album": {
+      "name": "Fly Away",
+      "link": "https://music.163.com/album?id=74165618"
+    }
+  },
+  {
+    "name": "Stay Until The Sunrise",
+    "link": "https://music.163.com/song?id=1327874785",
+    "duration": "03:22",
+    "artists": [
+      { "name": "Impulse", "link": "https://music.163.com/artist?id=460279" },
+      {
+        "name": "Josh Deamer",
+        "link": "https://music.163.com/artist?id=30497445"
+      }
+    ],
+    "album": {
+      "name": "Stay Until The Sunrise",
+      "link": "https://music.163.com/album?id=74551390"
+    }
+  },
+  {
+    "name": "Gone My Way (Nurko Remix)",
+    "link": "https://music.163.com/song?id=1362692848",
+    "duration": "03:45",
+    "artists": [
+      {
+        "name": "Morgan Page",
+        "link": "https://music.163.com/artist?id=39698"
+      },
+      { "name": "Pex L", "link": "https://music.163.com/artist?id=348566" },
+      { "name": "Nurko", "link": "https://music.163.com/artist?id=11991089" }
+    ],
+    "album": {
+      "name": "Gone My Way (Nurko Remix)",
+      "link": "https://music.163.com/album?id=78886388"
+    }
+  },
+  {
+    "name": "Grind Me Down",
+    "link": "https://music.163.com/song?id=1427897806",
+    "duration": "03:22",
+    "artists": [
+      {
+        "name": "Lilianna Wilde",
+        "link": "https://music.163.com/artist?id=14711114"
+      }
+    ],
+    "album": {
+      "name": "Bad for You",
+      "link": "https://music.163.com/album?id=86203775"
+    }
+  },
+  {
+    "name": "Take Over",
+    "link": "https://music.163.com/song?id=1334830040",
+    "duration": "02:50",
+    "artists": [
+      {
+        "name": "Hidden Citizens",
+        "link": "https://music.163.com/artist?id=1147184"
+      },
+      { "name": "Ruelle", "link": "https://music.163.com/artist?id=1047114" }
+    ],
+    "album": {
+      "name": "Take Over",
+      "link": "https://music.163.com/album?id=74955798"
+    }
+  },
+  {
+    "name": "Invincible (Original Mix)",
+    "link": "https://music.163.com/song?id=29600160",
+    "duration": "04:42",
+    "artists": [
+      { "name": "Borgeous", "link": "https://music.163.com/artist?id=904048" },
+      {
+        "name": "Julia Michaels",
+        "link": "https://music.163.com/artist?id=12097049"
+      }
+    ],
+    "album": {
+      "name": "Invincible",
+      "link": "https://music.163.com/album?id=3054213"
+    }
+  },
+  {
+    "name": "Bang!",
+    "link": "https://music.163.com/song?id=1418877315",
+    "duration": "02:50",
+    "artists": [
+      { "name": "AJR", "link": "https://music.163.com/artist?id=88089" }
+    ],
+    "album": {
+      "name": "Bang!",
+      "link": "https://music.163.com/album?id=85213111"
+    }
+  },
+  {
+    "name": "Leave It All Behind (feat. Fagin) (Nurko Remix)",
+    "link": "https://music.163.com/song?id=1462538478",
+    "duration": "04:01",
+    "artists": [
+      { "name": "Trivecta", "link": "https://music.163.com/artist?id=954338" },
+      { "name": "Fagin", "link": "https://music.163.com/artist?id=487808" },
+      { "name": "Nurko", "link": "https://music.163.com/artist?id=11991089" }
+    ],
+    "album": {
+      "name": "Everyday EP (Remixes)",
+      "link": "https://music.163.com/album?id=92376689"
+    }
+  },
+  {
+    "name": "Whisper",
+    "link": "https://music.163.com/song?id=1354795495",
+    "duration": "03:52",
+    "artists": [
+      { "name": "MaRLo", "link": "https://music.163.com/artist?id=150599" },
+      { "name": "HALIENE", "link": "https://music.163.com/artist?id=13202710" }
+    ],
+    "album": {
+      "name": "Whisper",
+      "link": "https://music.163.com/album?id=78228266"
+    }
+  },
+  {
+    "name": "Every Teardrop Is A Waterfall (Avicii's 'Tour' Mix).",
+    "link": "https://music.163.com/song?id=26801862",
+    "duration": "06:30",
+    "artists": [
+      { "name": "Avicii", "link": "https://music.163.com/artist?id=45236" },
+      { "name": "Coldplay", "link": "https://music.163.com/artist?id=89365" }
+    ],
+    "album": {
+      "name": "Every Teardrop Is A Waterfall (Avicii's 'Tour' Mix)",
+      "link": "https://music.163.com/album?id=2554867"
+    }
+  },
+  {
+    "name": "Open Eyes (MaHi Remix)",
+    "link": "https://music.163.com/song?id=426850771",
+    "duration": "03:56",
+    "artists": [
+      { "name": "MaHi", "link": "https://music.163.com/artist?id=1015367" },
+      { "name": "Estiva", "link": "https://music.163.com/artist?id=789773" },
+      { "name": "Adara", "link": "https://music.163.com/artist?id=1177069" }
+    ],
+    "album": {
+      "name": "Open Eyes (MaHi Remix)",
+      "link": "https://music.163.com/album?id=34839247"
+    }
+  },
+  {
+    "name": "Parties",
+    "link": "https://music.163.com/song?id=484365611",
+    "duration": "02:49",
+    "artists": [
+      {
+        "name": "Jake Miller",
+        "link": "https://music.163.com/artist?id=776761"
+      }
+    ],
+    "album": {
+      "name": "2:00am in LA",
+      "link": "https://music.163.com/album?id=35630260"
+    }
+  },
+  {
+    "name": "Summer",
+    "link": "https://music.163.com/song?id=531917922",
+    "duration": "03:23",
+    "artists": [
+      {
+        "name": "Lions In The Sky",
+        "link": "https://music.163.com/artist?id=12120407"
+      },
+      { "name": "Heydboy", "link": "https://music.163.com/artist?id=13154179" }
+    ],
+    "album": {
+      "name": "Summer (feat. Heydboy)",
+      "link": "https://music.163.com/album?id=37358136"
+    }
+  },
+  {
+    "name": "Chasing Lights",
+    "link": "https://music.163.com/song?id=491222808",
+    "duration": "04:00",
+    "artists": [
+      { "name": "千坂", "link": "https://music.163.com/artist?id=12138261" }
+    ],
+    "album": {
+      "name": "Chasing Lights",
+      "link": "https://music.163.com/album?id=35755974"
+    }
+  },
+  {
+    "name": "Exhilaration (Dimatis Remix)",
+    "link": "https://music.163.com/song?id=1405068929",
+    "duration": "04:22",
+    "artists": [
+      {
+        "name": "Sappheiros",
+        "link": "https://music.163.com/artist?id=11995187"
+      },
+      { "name": "Lotis.", "link": "https://music.163.com/artist?id=31971740" }
+    ],
+    "album": {
+      "name": "Exhilaration (Dimatis Remix)",
+      "link": "https://music.163.com/album?id=83564183"
+    }
+  },
+  {
+    "name": "Believe",
+    "link": "https://music.163.com/song?id=1382808261",
+    "duration": "03:21",
+    "artists": [
+      {
+        "name": "Jay Eskar",
+        "link": "https://music.163.com/artist?id=12132198"
+      }
+    ],
+    "album": {
+      "name": "Believe",
+      "link": "https://music.163.com/album?id=80831473"
+    }
+  },
+  {
+    "name": "ミラージュ",
+    "link": "https://music.163.com/song?id=1317420870",
+    "duration": "03:40",
+    "artists": [
+      { "name": "Reol", "link": "https://music.163.com/artist?id=13059968" }
+    ],
+    "album": {
+      "name": "事実上 (Special edition)",
+      "link": "https://music.163.com/album?id=73930632"
+    }
+  },
+  {
+    "name": "See You Again - (有缘再见)",
+    "link": "https://music.163.com/song?id=30953009",
+    "duration": "03:50",
+    "artists": [
+      {
+        "name": "Wiz Khalifa",
+        "link": "https://music.163.com/artist?id=46006"
+      },
+      {
+        "name": "Charlie Puth",
+        "link": "https://music.163.com/artist?id=90331"
+      }
+    ],
+    "album": {
+      "name": "Furious 7 (Original Motion Picture Soundtrack)",
+      "link": "https://music.163.com/album?id=3104138"
+    }
+  },
+  {
+    "name": "Bad Habits (Acoustic Version)",
+    "link": "https://music.163.com/song?id=1859111364",
+    "duration": "03:52",
+    "artists": [
+      { "name": "Ed Sheeran", "link": "https://music.163.com/artist?id=33184" }
+    ],
+    "album": {
+      "name": "Bad Habits (Acoustic Version)",
+      "link": "https://music.163.com/album?id=129995484"
+    }
+  }
+]

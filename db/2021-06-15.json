@@ -1,0 +1,473 @@
+[
+  {
+    "name": "Used To",
+    "link": "https://music.163.com/song?id=1347814906",
+    "duration": "02:48",
+    "artists": [
+      {
+        "name": "James Carter",
+        "link": "https://music.163.com/artist?id=12047749"
+      },
+      { "name": "Kaii", "link": "https://music.163.com/artist?id=28457718" }
+    ],
+    "album": {
+      "name": "Used To",
+      "link": "https://music.163.com/album?id=75670536"
+    }
+  },
+  {
+    "name": "Run Back to You (feat. Alisa)",
+    "link": "https://music.163.com/song?id=1471391509",
+    "duration": "03:13",
+    "artists": [
+      { "name": "Hoang", "link": "https://music.163.com/artist?id=27694442" },
+      { "name": "Alisa", "link": "https://music.163.com/artist?id=32840235" }
+    ],
+    "album": {
+      "name": "Run Back to You (feat. Alisa)",
+      "link": "https://music.163.com/album?id=94018381"
+    }
+  },
+  {
+    "name": "Sounds of Summer",
+    "link": "https://music.163.com/song?id=1478067397",
+    "duration": "03:15",
+    "artists": [
+      { "name": "Andreas B.", "link": "https://music.163.com/artist?id=299713" }
+    ],
+    "album": {
+      "name": "Sounds of Summer",
+      "link": "https://music.163.com/album?id=95206301"
+    }
+  },
+  {
+    "name": "Mystic Tides",
+    "link": "https://music.163.com/song?id=409646391",
+    "duration": "04:01",
+    "artists": [
+      { "name": "FEWZ", "link": "https://music.163.com/artist?id=12008133" }
+    ],
+    "album": {
+      "name": "Mystic Tides",
+      "link": "https://music.163.com/album?id=34613141"
+    }
+  },
+  {
+    "name": "Back To You (feat. Kiiara) [Over Easy Remix]",
+    "link": "https://music.163.com/song?id=1470302280",
+    "duration": "02:54",
+    "artists": [
+      { "name": "Ekali", "link": "https://music.163.com/artist?id=1132925" },
+      { "name": "Kiiara", "link": "https://music.163.com/artist?id=1124598" },
+      {
+        "name": "Over Easy",
+        "link": "https://music.163.com/artist?id=29366053"
+      }
+    ],
+    "album": {
+      "name": "Back To You (feat. Kiiara) [Over Easy Remix]",
+      "link": "https://music.163.com/album?id=93828615"
+    }
+  },
+  {
+    "name": "Loveless",
+    "link": "https://music.163.com/song?id=1453108645",
+    "duration": "03:09",
+    "artists": [
+      {
+        "name": "iamsimon",
+        "link": "https://music.163.com/artist?id=31079244"
+      },
+      {
+        "name": "Michaela Stridbeck",
+        "link": "https://music.163.com/artist?id=30173256"
+      }
+    ],
+    "album": {
+      "name": "Loveless",
+      "link": "https://music.163.com/album?id=90356296"
+    }
+  },
+  {
+    "name": "Never Enough",
+    "link": "https://music.163.com/song?id=1438809291",
+    "duration": "02:27",
+    "artists": [
+      { "name": "Coopex", "link": "https://music.163.com/artist?id=12775079" },
+      {
+        "name": "MissMouss",
+        "link": "https://music.163.com/artist?id=34803254"
+      }
+    ],
+    "album": {
+      "name": "Never Enough",
+      "link": "https://music.163.com/album?id=87794312"
+    }
+  },
+  {
+    "name": "Wonderland",
+    "link": "https://music.163.com/song?id=1455308815",
+    "duration": "04:38",
+    "artists": [
+      { "name": "未知歌手", "link": "https://music.163.com/artist?id=33068267" }
+    ],
+    "album": {
+      "name": "Wonderland",
+      "link": "https://music.163.com/album?id=90785467"
+    }
+  },
+  {
+    "name": "Suitcase (feat. Rochelle)",
+    "link": "https://music.163.com/song?id=1464462541",
+    "duration": "03:36",
+    "artists": [
+      {
+        "name": "Middle Class Richkids",
+        "link": "https://music.163.com/artist?id=33808952"
+      },
+      { "name": "Rochelle", "link": "https://music.163.com/artist?id=72994" }
+    ],
+    "album": {
+      "name": "Suitcase (feat. Rochelle)",
+      "link": "https://music.163.com/album?id=92759379"
+    }
+  },
+  {
+    "name": "It Ain't Right",
+    "link": "https://music.163.com/song?id=1442226920",
+    "duration": "02:44",
+    "artists": [
+      { "name": "Sterkøl", "link": "https://music.163.com/artist?id=1081901" }
+    ],
+    "album": {
+      "name": "It Ain't Right",
+      "link": "https://music.163.com/album?id=88303142"
+    }
+  },
+  {
+    "name": "满目星河",
+    "link": "https://music.163.com/song?id=1399869906",
+    "duration": "02:58",
+    "artists": [
+      { "name": "CMJ", "link": "https://music.163.com/artist?id=12157336" }
+    ],
+    "album": {
+      "name": "满目星河",
+      "link": "https://music.163.com/album?id=82772321"
+    }
+  },
+  {
+    "name": "Vampires",
+    "link": "https://music.163.com/song?id=426027091",
+    "duration": "05:17",
+    "artists": [
+      {
+        "name": "The Midnight",
+        "link": "https://music.163.com/artist?id=12023492"
+      }
+    ],
+    "album": {
+      "name": "Endless Summer",
+      "link": "https://music.163.com/album?id=34826028"
+    }
+  },
+  {
+    "name": "Wonderful Feeling (Original Mix)",
+    "link": "https://music.163.com/song?id=31245826",
+    "duration": "08:01",
+    "artists": [
+      { "name": "SoundLift", "link": "https://music.163.com/artist?id=44015" }
+    ],
+    "album": {
+      "name": "Wonderful Feeling",
+      "link": "https://music.163.com/album?id=3111396"
+    }
+  },
+  {
+    "name": "In Your Eyes  (Original mix)",
+    "link": "https://music.163.com/song?id=36308387",
+    "duration": "04:20",
+    "artists": [
+      { "name": "ZENI", "link": "https://music.163.com/artist?id=1038138" },
+      { "name": "Kozoro", "link": "https://music.163.com/artist?id=1050567" }
+    ],
+    "album": {
+      "name": "MrSuicideSheep Presents - Taking You Higher",
+      "link": "https://music.163.com/album?id=3394099"
+    }
+  },
+  {
+    "name": "Swing (Win & Woo Remix)",
+    "link": "https://music.163.com/song?id=35331941",
+    "duration": "05:10",
+    "artists": [
+      {
+        "name": "Win & Woo",
+        "link": "https://music.163.com/artist?id=1116290"
+      },
+      { "name": "EVVY", "link": "https://music.163.com/artist?id=964315" }
+    ],
+    "album": {
+      "name": "Swing (Win & Woo Remix)",
+      "link": "https://music.163.com/album?id=3319109"
+    }
+  },
+  {
+    "name": "For The First Time ( Ft. Tilde)[Radio Edit]",
+    "link": "https://music.163.com/song?id=38673720",
+    "duration": "03:00",
+    "artists": [
+      { "name": "Omnia", "link": "https://music.163.com/artist?id=893072" },
+      { "name": "Tilde", "link": "https://music.163.com/artist?id=1135150" }
+    ],
+    "album": {
+      "name": "Armind - Best of 2015",
+      "link": "https://music.163.com/album?id=3427689"
+    }
+  },
+  {
+    "name": "Whirlpool",
+    "link": "https://music.163.com/song?id=1304780343",
+    "duration": "03:18",
+    "artists": [
+      { "name": "8bite", "link": "https://music.163.com/artist?id=12606242" },
+      { "name": "聆北夜落", "link": "https://music.163.com/artist?id=29238424" }
+    ],
+    "album": {
+      "name": "Whirlpool",
+      "link": "https://music.163.com/album?id=72487837"
+    }
+  },
+  {
+    "name": "For Us",
+    "link": "https://music.163.com/song?id=30780805",
+    "duration": "05:58",
+    "artists": [
+      { "name": "Kozoro", "link": "https://music.163.com/artist?id=1050567" },
+      { "name": "Skyvoice", "link": "https://music.163.com/artist?id=1061002" }
+    ],
+    "album": {
+      "name": "For Us",
+      "link": "https://music.163.com/album?id=3103326"
+    }
+  },
+  {
+    "name": "仙乐处处飘",
+    "link": "https://music.163.com/song?id=863553296",
+    "duration": "02:37",
+    "artists": [
+      { "name": "Lil' Ashes", "link": "https://music.163.com/artist?id=956430" }
+    ],
+    "album": {
+      "name": "Recall A Little Bit",
+      "link": "https://music.163.com/album?id=71706942"
+    }
+  },
+  {
+    "name": "如春娇",
+    "link": "https://music.163.com/song?id=472746454",
+    "duration": "02:57",
+    "artists": [
+      { "name": "刘莉旻", "link": "https://music.163.com/artist?id=12028182" }
+    ],
+    "album": {
+      "name": "如春娇",
+      "link": "https://music.163.com/album?id=35374895"
+    }
+  },
+  {
+    "name": "free with you",
+    "link": "https://music.163.com/song?id=1425763494",
+    "duration": "02:48",
+    "artists": [
+      { "name": "Rnla", "link": "https://music.163.com/artist?id=31183880" },
+      { "name": "yaeow", "link": "https://music.163.com/artist?id=33979386" }
+    ],
+    "album": {
+      "name": "free with you",
+      "link": "https://music.163.com/album?id=85963100"
+    }
+  },
+  {
+    "name": "广府情",
+    "link": "https://music.163.com/song?id=456136072",
+    "duration": "03:11",
+    "artists": [
+      {
+        "name": "Resound人声乐团",
+        "link": "https://music.163.com/artist?id=1160233"
+      }
+    ],
+    "album": {
+      "name": "广府情",
+      "link": "https://music.163.com/album?id=35148005"
+    }
+  },
+  {
+    "name": "Welcome to Wonderland",
+    "link": "https://music.163.com/song?id=552060841",
+    "duration": "03:19",
+    "artists": [
+      {
+        "name": "Anson Seabra",
+        "link": "https://music.163.com/artist?id=14470054"
+      }
+    ],
+    "album": {
+      "name": "Welcome to Wonderland",
+      "link": "https://music.163.com/album?id=38306451"
+    }
+  },
+  {
+    "name": "Not Angry",
+    "link": "https://music.163.com/song?id=1478568147",
+    "duration": "03:19",
+    "artists": [
+      {
+        "name": "Chris James",
+        "link": "https://music.163.com/artist?id=145038"
+      }
+    ],
+    "album": {
+      "name": "Not Angry",
+      "link": "https://music.163.com/album?id=95295367"
+    }
+  },
+  {
+    "name": "噢贝比",
+    "link": "https://music.163.com/song?id=30394939",
+    "duration": "02:48",
+    "artists": [
+      {
+        "name": "Serrini樹妮妮",
+        "link": "https://music.163.com/artist?id=916007"
+      }
+    ],
+    "album": {
+      "name": "请小心车门",
+      "link": "https://music.163.com/album?id=3098625"
+    }
+  },
+  {
+    "name": "Could I Love You Any More",
+    "link": "https://music.163.com/song?id=1368707835",
+    "duration": "03:09",
+    "artists": [
+      {
+        "name": "Reneé Dominique",
+        "link": "https://music.163.com/artist?id=30726931"
+      },
+      { "name": "Jason Mraz", "link": "https://music.163.com/artist?id=35332" }
+    ],
+    "album": {
+      "name": "Could I Love You Any More",
+      "link": "https://music.163.com/album?id=79512808"
+    }
+  },
+  {
+    "name": "Loving Strangers",
+    "link": "https://music.163.com/song?id=2788529",
+    "duration": "03:59",
+    "artists": [
+      {
+        "name": "Jocelyn Pook",
+        "link": "https://music.163.com/artist?id=61082"
+      },
+      { "name": "Russian Red", "link": "https://music.163.com/artist?id=72726" }
+    ],
+    "album": {
+      "name": "Habitación En Roma",
+      "link": "https://music.163.com/album?id=281067"
+    }
+  },
+  {
+    "name": "Access All Areas (Original Mix)",
+    "link": "https://music.163.com/song?id=420922574",
+    "duration": "03:43",
+    "artists": [
+      {
+        "name": "Delaney Jane",
+        "link": "https://music.163.com/artist?id=1132286"
+      },
+      { "name": "Lycii", "link": "https://music.163.com/artist?id=1132872" },
+      { "name": "Joe Lyons", "link": "https://music.163.com/artist?id=498067" },
+      {
+        "name": "Estiva & Skouners",
+        "link": "https://music.163.com/artist?id=1058082"
+      }
+    ],
+    "album": {
+      "name": "Ibiza Vocal Trance 2016",
+      "link": "https://music.163.com/album?id=34751581"
+    }
+  },
+  {
+    "name": "星星月亮太阳",
+    "link": "https://music.163.com/song?id=67071",
+    "duration": "04:01",
+    "artists": [
+      { "name": "林二汶", "link": "https://music.163.com/artist?id=8687" }
+    ],
+    "album": {
+      "name": "12金钗众生花",
+      "link": "https://music.163.com/album?id=6564"
+    }
+  },
+  {
+    "name": "一放工菊花都放松",
+    "link": "https://music.163.com/song?id=32317586",
+    "duration": "04:03",
+    "artists": [
+      {
+        "name": "新青年理发厅",
+        "link": "https://music.163.com/artist?id=991119"
+      }
+    ],
+    "album": {
+      "name": "多管闲事",
+      "link": "https://music.163.com/album?id=2957078"
+    }
+  },
+  {
+    "name": "listen before i go",
+    "link": "https://music.163.com/song?id=1355149440",
+    "duration": "04:02",
+    "artists": [
+      {
+        "name": "Billie Eilish",
+        "link": "https://music.163.com/artist?id=11972054"
+      }
+    ],
+    "album": {
+      "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+      "link": "https://music.163.com/album?id=78243642"
+    }
+  },
+  {
+    "name": "The Gateway (Extended Mix)",
+    "link": "https://music.163.com/song?id=488641729",
+    "duration": "06:16",
+    "artists": [
+      { "name": "Ben Gold", "link": "https://music.163.com/artist?id=152127" },
+      { "name": "Omnia", "link": "https://music.163.com/artist?id=179006" }
+    ],
+    "album": {
+      "name": "The Gateway",
+      "link": "https://music.163.com/album?id=35696737"
+    }
+  },
+  {
+    "name": "Saviour",
+    "link": "https://music.163.com/song?id=1846186948",
+    "duration": "02:52",
+    "artists": [
+      { "name": "Hoaprox", "link": "https://music.163.com/artist?id=1177234" },
+      { "name": "徐梦圆", "link": "https://music.163.com/artist?id=1142042" },
+      { "name": "Haneri", "link": "https://music.163.com/artist?id=12834932" }
+    ],
+    "album": {
+      "name": "Saviour",
+      "link": "https://music.163.com/album?id=127658461"
+    }
+  }
+]

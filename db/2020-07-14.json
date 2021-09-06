@@ -1,0 +1,493 @@
+[
+  {
+    "name": "いま,会いにゆきます/時を超えて",
+    "link": "https://music.163.com/song?id=27514069",
+    "duration": "05:54",
+    "artists": [
+      { "name": "松谷卓", "link": "https://music.163.com/artist?id=14759" }
+    ],
+    "album": {
+      "name": "「いま、会いにゆきます」オリジナル・サウンドトラック",
+      "link": "https://music.163.com/album?id=2623102"
+    }
+  },
+  {
+    "name": "やさしい時間",
+    "link": "https://music.163.com/song?id=488388701",
+    "duration": "02:00",
+    "artists": [
+      { "name": "伊賀拓郎", "link": "https://music.163.com/artist?id=12136081" }
+    ],
+    "album": {
+      "name": "TVアニメ「月がきれい」サウンドコレクション",
+      "link": "https://music.163.com/album?id=35670787"
+    }
+  },
+  {
+    "name": "Home Flight",
+    "link": "https://music.163.com/song?id=1419165226",
+    "duration": "02:35",
+    "artists": [
+      { "name": "Medon", "link": "https://music.163.com/artist?id=348972" },
+      {
+        "name": "Mike Gudmann",
+        "link": "https://music.163.com/artist?id=32567323"
+      },
+      { "name": "Shiverz", "link": "https://music.163.com/artist?id=29812341" }
+    ],
+    "album": {
+      "name": "Home Flight",
+      "link": "https://music.163.com/album?id=85243615"
+    }
+  },
+  {
+    "name": "Fire & Gold",
+    "link": "https://music.163.com/song?id=1372924956",
+    "duration": "02:34",
+    "artists": [
+      {
+        "name": "Morgan Page",
+        "link": "https://music.163.com/artist?id=39698"
+      },
+      { "name": "Vivid", "link": "https://music.163.com/artist?id=140014" },
+      { "name": "Alle", "link": "https://music.163.com/artist?id=28387540" },
+      {
+        "name": "Damon Sharpe",
+        "link": "https://music.163.com/artist?id=13368652"
+      }
+    ],
+    "album": {
+      "name": "Fire & Gold",
+      "link": "https://music.163.com/album?id=79897046"
+    }
+  },
+  {
+    "name": "Better With You",
+    "link": "https://music.163.com/song?id=1348939361",
+    "duration": "03:12",
+    "artists": [
+      { "name": "3LAU", "link": "https://music.163.com/artist?id=762511" },
+      {
+        "name": "Justin Caruso",
+        "link": "https://music.163.com/artist?id=1193462"
+      },
+      {
+        "name": "Iselin Solheim",
+        "link": "https://music.163.com/artist?id=1078390"
+      }
+    ],
+    "album": {
+      "name": "Better With You",
+      "link": "https://music.163.com/album?id=75727400"
+    }
+  },
+  {
+    "name": "Next To Me",
+    "link": "https://music.163.com/song?id=552575409",
+    "duration": "02:59",
+    "artists": [
+      {
+        "name": "Axel Johansson",
+        "link": "https://music.163.com/artist?id=12872604"
+      },
+      {
+        "name": "Tina Stachowiak",
+        "link": "https://music.163.com/artist?id=905727"
+      }
+    ],
+    "album": {
+      "name": "Next To Me",
+      "link": "https://music.163.com/album?id=38315215"
+    }
+  },
+  {
+    "name": "Reunite",
+    "link": "https://music.163.com/song?id=411314128",
+    "duration": "03:02",
+    "artists": [
+      {
+        "name": "Paris & Simo",
+        "link": "https://music.163.com/artist?id=804384"
+      },
+      {
+        "name": "Aloma Steele",
+        "link": "https://music.163.com/artist?id=1015497"
+      },
+      {
+        "name": "Patrick Moreno",
+        "link": "https://music.163.com/artist?id=12440347"
+      }
+    ],
+    "album": {
+      "name": "Reunite",
+      "link": "https://music.163.com/album?id=34686057"
+    }
+  },
+  {
+    "name": "One Day",
+    "link": "https://music.163.com/song?id=1363638029",
+    "duration": "02:44",
+    "artists": [
+      {
+        "name": "Diamond Pistols",
+        "link": "https://music.163.com/artist?id=806218"
+      },
+      {
+        "name": "Emily Vaughn",
+        "link": "https://music.163.com/artist?id=12049240"
+      }
+    ],
+    "album": {
+      "name": "One Day",
+      "link": "https://music.163.com/album?id=78959758"
+    }
+  },
+  {
+    "name": "Find You (Club Mix)",
+    "link": "https://music.163.com/song?id=529814295",
+    "duration": "03:05",
+    "artists": [
+      {
+        "name": "Charming Horses",
+        "link": "https://music.163.com/artist?id=1137480"
+      }
+    ],
+    "album": {
+      "name": "Find You",
+      "link": "https://music.163.com/album?id=37256058"
+    }
+  },
+  {
+    "name": "Ghost (Joe Stone Remix)",
+    "link": "https://music.163.com/song?id=1407767447",
+    "duration": "02:37",
+    "artists": [
+      { "name": "Au/Ra", "link": "https://music.163.com/artist?id=12143031" },
+      {
+        "name": "Alan Walker",
+        "link": "https://music.163.com/artist?id=1045123"
+      },
+      { "name": "Joe Stone", "link": "https://music.163.com/artist?id=1071007" }
+    ],
+    "album": {
+      "name": "Ghost (Remixes)",
+      "link": "https://music.163.com/album?id=83916213"
+    }
+  },
+  {
+    "name": "We Are The Fire (Original Mix)",
+    "link": "https://music.163.com/song?id=570086195",
+    "duration": "03:05",
+    "artists": [
+      { "name": "Rivero", "link": "https://music.163.com/artist?id=504704" }
+    ],
+    "album": {
+      "name": "We Are The Fire",
+      "link": "https://music.163.com/album?id=39518041"
+    }
+  },
+  {
+    "name": "Drive",
+    "link": "https://music.163.com/song?id=33728453",
+    "duration": "03:16",
+    "artists": [
+      { "name": "Oh Wonder", "link": "https://music.163.com/artist?id=1050128" }
+    ],
+    "album": {
+      "name": "Drive",
+      "link": "https://music.163.com/album?id=3257063"
+    }
+  },
+  {
+    "name": "Stay Until The Sunrise",
+    "link": "https://music.163.com/song?id=1327874785",
+    "duration": "03:22",
+    "artists": [
+      { "name": "Impulse", "link": "https://music.163.com/artist?id=460279" },
+      {
+        "name": "Josh Deamer",
+        "link": "https://music.163.com/artist?id=30497445"
+      }
+    ],
+    "album": {
+      "name": "Stay Until The Sunrise",
+      "link": "https://music.163.com/album?id=74551390"
+    }
+  },
+  {
+    "name": "Warriors",
+    "link": "https://music.163.com/song?id=1344439276",
+    "duration": "02:49",
+    "artists": [
+      {
+        "name": "Paris Blohm",
+        "link": "https://music.163.com/artist?id=851710"
+      },
+      { "name": "Nevlin", "link": "https://music.163.com/artist?id=15022237" },
+      { "name": "Romysa", "link": "https://music.163.com/artist?id=31281537" }
+    ],
+    "album": {
+      "name": "Warriors",
+      "link": "https://music.163.com/album?id=75469830"
+    }
+  },
+  {
+    "name": "Space",
+    "link": "https://music.163.com/song?id=499465427",
+    "duration": "02:48",
+    "artists": [
+      { "name": "Famba", "link": "https://music.163.com/artist?id=12121068" }
+    ],
+    "album": {
+      "name": "Space",
+      "link": "https://music.163.com/album?id=35903619"
+    }
+  },
+  {
+    "name": "Fine",
+    "link": "https://music.163.com/song?id=1345076086",
+    "duration": "03:19",
+    "artists": [
+      {
+        "name": "IslandWind",
+        "link": "https://music.163.com/artist?id=13537270"
+      },
+      {
+        "name": "PIKASONIC",
+        "link": "https://music.163.com/artist?id=13499634"
+      },
+      { "name": "PLEEG", "link": "https://music.163.com/artist?id=12935595" }
+    ],
+    "album": {
+      "name": "Fine",
+      "link": "https://music.163.com/album?id=75436611"
+    }
+  },
+  {
+    "name": "Lovestruck (Neon Edit)",
+    "link": "https://music.163.com/song?id=550136216",
+    "duration": "03:54",
+    "artists": [
+      { "name": "AIKA", "link": "https://music.163.com/artist?id=12023360" }
+    ],
+    "album": {
+      "name": "Neon Pink EP",
+      "link": "https://music.163.com/album?id=38224055"
+    }
+  },
+  {
+    "name": "Moves Like Jagger",
+    "link": "https://music.163.com/song?id=23526200",
+    "duration": "03:21",
+    "artists": [
+      { "name": "Maroon 5", "link": "https://music.163.com/artist?id=96266" },
+      {
+        "name": "Christina Aguilera",
+        "link": "https://music.163.com/artist?id=50892"
+      }
+    ],
+    "album": {
+      "name": "2012 Grammy Nominees",
+      "link": "https://music.163.com/album?id=2138427"
+    }
+  },
+  {
+    "name": "Bring Back The Summer (Not Your **** Remix)",
+    "link": "https://music.163.com/song?id=408532862",
+    "duration": "03:40",
+    "artists": [
+      {
+        "name": "Not Your Dope",
+        "link": "https://music.163.com/artist?id=11972030"
+      },
+      { "name": "Rain Man", "link": "https://music.163.com/artist?id=476110" },
+      { "name": "Oly", "link": "https://music.163.com/artist?id=12289226" }
+    ],
+    "album": {
+      "name": "Bring Back The Summer (Not Your **** Remix)",
+      "link": "https://music.163.com/album?id=34589899"
+    }
+  },
+  {
+    "name": "Tired",
+    "link": "https://music.163.com/song?id=479219347",
+    "duration": "03:12",
+    "artists": [
+      {
+        "name": "Alan Walker",
+        "link": "https://music.163.com/artist?id=1045123"
+      },
+      {
+        "name": "Gavin James",
+        "link": "https://music.163.com/artist?id=387761"
+      }
+    ],
+    "album": {
+      "name": "Tired",
+      "link": "https://music.163.com/album?id=35535104"
+    }
+  },
+  {
+    "name": "Crimes (Radio Edit)",
+    "link": "https://music.163.com/song?id=516823112",
+    "duration": "03:12",
+    "artists": [
+      { "name": "Spenz", "link": "https://music.163.com/artist?id=12811141" }
+    ],
+    "album": {
+      "name": "Crimes",
+      "link": "https://music.163.com/album?id=36723055"
+    }
+  },
+  {
+    "name": "Fade Into Me (Radio Edit)",
+    "link": "https://music.163.com/song?id=534067332",
+    "duration": "02:48",
+    "artists": [
+      { "name": "Gldn", "link": "https://music.163.com/artist?id=12430094" },
+      {
+        "name": "Jonny Rose",
+        "link": "https://music.163.com/artist?id=904226"
+      },
+      { "name": "Astra", "link": "https://music.163.com/artist?id=86087" }
+    ],
+    "album": {
+      "name": "Fade Into Me",
+      "link": "https://music.163.com/album?id=37443112"
+    }
+  },
+  {
+    "name": "all the kids are depressed",
+    "link": "https://music.163.com/song?id=550654609",
+    "duration": "02:49",
+    "artists": [
+      {
+        "name": "Jeremy Zucker",
+        "link": "https://music.163.com/artist?id=12096183"
+      }
+    ],
+    "album": {
+      "name": "all the kids are depressed",
+      "link": "https://music.163.com/album?id=38227223"
+    }
+  },
+  {
+    "name": "Show You Again",
+    "link": "https://music.163.com/song?id=1304848675",
+    "duration": "03:10",
+    "artists": [
+      {
+        "name": "Patrick Moreno",
+        "link": "https://music.163.com/artist?id=12440347"
+      },
+      { "name": "Sage", "link": "https://music.163.com/artist?id=896326" }
+    ],
+    "album": {
+      "name": "Show You Again",
+      "link": "https://music.163.com/album?id=72574401"
+    }
+  },
+  {
+    "name": "Shichirigahama",
+    "link": "https://music.163.com/song?id=1325165863",
+    "duration": "03:51",
+    "artists": [
+      { "name": "Milkoi", "link": "https://music.163.com/artist?id=12426032" }
+    ],
+    "album": {
+      "name": "Shichirigahama",
+      "link": "https://music.163.com/album?id=74397903"
+    }
+  },
+  {
+    "name": "We Are the Ones",
+    "link": "https://music.163.com/song?id=427142769",
+    "duration": "04:03",
+    "artists": [
+      { "name": "Myon", "link": "https://music.163.com/artist?id=96759" },
+      {
+        "name": "Jenn Blosil",
+        "link": "https://music.163.com/artist?id=13718657"
+      }
+    ],
+    "album": {
+      "name": "We Are the Ones",
+      "link": "https://music.163.com/album?id=34839522"
+    }
+  },
+  {
+    "name": "Wasting Moonlight (Radio Edit)",
+    "link": "https://music.163.com/song?id=28815770",
+    "duration": "03:25",
+    "artists": [
+      {
+        "name": "Sick Individuals",
+        "link": "https://music.163.com/artist?id=379612"
+      }
+    ],
+    "album": {
+      "name": "Wasting Moonlight (Radio Edit)",
+      "link": "https://music.163.com/album?id=2897317"
+    }
+  },
+  {
+    "name": "At Atmospheres Edge",
+    "link": "https://music.163.com/song?id=1394000530",
+    "duration": "03:14",
+    "artists": [
+      {
+        "name": "Deep East Music",
+        "link": "https://music.163.com/artist?id=91721"
+      }
+    ],
+    "album": {
+      "name": "Beautifully-Inspired Epics",
+      "link": "https://music.163.com/album?id=82025653"
+    }
+  },
+  {
+    "name": "Trouble (Mike Williams Remix)",
+    "link": "https://music.163.com/song?id=487375361",
+    "duration": "03:36",
+    "artists": [
+      {
+        "name": "Mike Williams",
+        "link": "https://music.163.com/artist?id=302020"
+      },
+      { "name": "VÉRITÉ", "link": "https://music.163.com/artist?id=963498" },
+      { "name": "R3hab", "link": "https://music.163.com/artist?id=197248" }
+    ],
+    "album": {
+      "name": "Trouble (Mike Williams Remix)",
+      "link": "https://music.163.com/album?id=35688344"
+    }
+  },
+  {
+    "name": "Fairy Lights (Mark & Lukas Remix)",
+    "link": "https://music.163.com/song?id=1376905012",
+    "duration": "05:38",
+    "artists": [
+      { "name": "Axxound", "link": "https://music.163.com/artist?id=1179159" },
+      {
+        "name": "Mark & Lukas",
+        "link": "https://music.163.com/artist?id=1104097"
+      }
+    ],
+    "album": {
+      "name": "Fairy Lights",
+      "link": "https://music.163.com/album?id=80294543"
+    }
+  },
+  {
+    "name": "Action Hero (Progressive Mix)",
+    "link": "https://music.163.com/song?id=28688125",
+    "duration": "06:55",
+    "artists": [
+      { "name": "Edu", "link": "https://music.163.com/artist?id=151289" }
+    ],
+    "album": {
+      "name": "Action Hero / Modern Villain",
+      "link": "https://music.163.com/album?id=2879387"
+    }
+  }
+]

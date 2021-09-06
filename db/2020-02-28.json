@@ -1,0 +1,439 @@
+[
+  {
+    "name": "Starry Sky",
+    "link": "https://music.163.com/song?id=573638764",
+    "duration": "02:22",
+    "artists": [
+      { "name": "Kuslifo", "link": "https://music.163.com/artist?id=12085055" },
+      { "name": "夜の律", "link": "https://music.163.com/artist?id=13537449" }
+    ],
+    "album": {
+      "name": "Night Law 02：Alteration",
+      "link": "https://music.163.com/album?id=39689512"
+    }
+  },
+  {
+    "name": "Alone Again (Radio Edit)",
+    "link": "https://music.163.com/song?id=29019449",
+    "duration": "03:23",
+    "artists": [
+      {
+        "name": "Capcha One",
+        "link": "https://music.163.com/artist?id=1003034"
+      }
+    ],
+    "album": {
+      "name": "Alone Again",
+      "link": "https://music.163.com/album?id=2980061"
+    }
+  },
+  {
+    "name": "Curse",
+    "link": "https://music.163.com/song?id=1378773135",
+    "duration": "02:44",
+    "artists": [
+      { "name": "Adam Rom", "link": "https://music.163.com/artist?id=32213559" }
+    ],
+    "album": {
+      "name": "Curse",
+      "link": "https://music.163.com/album?id=80479681"
+    }
+  },
+  {
+    "name": "Travel alone",
+    "link": "https://music.163.com/song?id=1369801340",
+    "duration": "03:24",
+    "artists": [
+      { "name": "阳山伟伟", "link": "https://music.163.com/artist?id=12641107" }
+    ],
+    "album": {
+      "name": "Travel alone",
+      "link": "https://music.163.com/album?id=79609771"
+    }
+  },
+  {
+    "name": "Relax (Take It Easy)",
+    "link": "https://music.163.com/song?id=27965271",
+    "duration": "03:41",
+    "artists": [
+      { "name": "Mika", "link": "https://music.163.com/artist?id=38849" }
+    ],
+    "album": {
+      "name": "Songbook, Vol.1",
+      "link": "https://music.163.com/album?id=2702038"
+    }
+  },
+  {
+    "name": "Road So Fars （Remix）",
+    "link": "https://music.163.com/song?id=1305629271",
+    "duration": "01:56",
+    "artists": [
+      { "name": "九书", "link": "https://music.163.com/artist?id=12770783" },
+      { "name": "TonyZ", "link": "https://music.163.com/artist?id=28345386" }
+    ],
+    "album": {
+      "name": "Road So Fars",
+      "link": "https://music.163.com/album?id=72739670"
+    }
+  },
+  {
+    "name": "The Edge",
+    "link": "https://music.163.com/song?id=535548458",
+    "duration": "03:06",
+    "artists": [
+      {
+        "name": "Ørjan Nilsen",
+        "link": "https://music.163.com/artist?id=41064"
+      }
+    ],
+    "album": {
+      "name": "The Edge",
+      "link": "https://music.163.com/album?id=3279233"
+    }
+  },
+  {
+    "name": "Dream Away",
+    "link": "https://music.163.com/song?id=28468994",
+    "duration": "03:25",
+    "artists": [
+      { "name": "Darin", "link": "https://music.163.com/artist?id=31200" },
+      {
+        "name": "Eagle-Eye Cherry",
+        "link": "https://music.163.com/artist?id=32733"
+      }
+    ],
+    "album": {
+      "name": "Dream Away",
+      "link": "https://music.163.com/album?id=2805119"
+    }
+  },
+  {
+    "name": "未知-Reset feat 纯音乐版.重置（拆南墙 remix）",
+    "link": "https://music.163.com/song?id=1302286775",
+    "duration": "04:03",
+    "artists": [
+      { "name": "杨权威", "link": "https://music.163.com/artist?id=12936218" }
+    ],
+    "album": {
+      "name": "大话西游",
+      "link": "https://music.163.com/album?id=36961622"
+    }
+  },
+  {
+    "name": "Catch My Breath",
+    "link": "https://music.163.com/song?id=26613394",
+    "duration": "04:11",
+    "artists": [
+      {
+        "name": "Kelly Clarkson",
+        "link": "https://music.163.com/artist?id=62885"
+      }
+    ],
+    "album": {
+      "name": "Remixes Big Deluxe",
+      "link": "https://music.163.com/album?id=2535679"
+    }
+  },
+  {
+    "name": "Wanderers (Original Mix)",
+    "link": "https://music.163.com/song?id=421423948",
+    "duration": "04:28",
+    "artists": [
+      { "name": "Akade", "link": "https://music.163.com/artist?id=1182578" },
+      { "name": "ThimLife", "link": "https://music.163.com/artist?id=1046016" }
+    ],
+    "album": {
+      "name": "Wanderers",
+      "link": "https://music.163.com/album?id=34780631"
+    }
+  },
+  {
+    "name": " 失去才懂 (纯音乐)",
+    "link": "https://music.163.com/song?id=1332619715",
+    "duration": "04:23",
+    "artists": [
+      { "name": "欧阳朵", "link": "https://music.163.com/artist?id=12301023" }
+    ],
+    "album": {
+      "name": "失去才懂",
+      "link": "https://music.163.com/album?id=74839776"
+    }
+  },
+  {
+    "name": "Hey",
+    "link": "https://music.163.com/song?id=544231642",
+    "duration": "03:35",
+    "artists": [
+      { "name": "Afrojack", "link": "https://music.163.com/artist?id=28745" },
+      { "name": "Fais", "link": "https://music.163.com/artist?id=11999109" }
+    ],
+    "album": {
+      "name": "Weekend Workout Hits 2016",
+      "link": "https://music.163.com/album?id=37885745"
+    }
+  },
+  {
+    "name": "Not Alone",
+    "link": "https://music.163.com/song?id=545551736",
+    "duration": "03:38",
+    "artists": [
+      {
+        "name": "Aaron Lindt",
+        "link": "https://music.163.com/artist?id=12893269"
+      },
+      { "name": "BEAUZ", "link": "https://music.163.com/artist?id=12131436" },
+      {
+        "name": "Louise CS",
+        "link": "https://music.163.com/artist?id=13576835"
+      }
+    ],
+    "album": {
+      "name": "Not Alone",
+      "link": "https://music.163.com/album?id=37938911"
+    }
+  },
+  {
+    "name": "Red Eyee (Mike Luck Remix)",
+    "link": "https://music.163.com/song?id=23013778",
+    "duration": "04:11",
+    "artists": [
+      {
+        "name": "Thomas Azier",
+        "link": "https://music.163.com/artist?id=349787"
+      }
+    ],
+    "album": {
+      "name": "Kitsuné Maison 14 : The Absinthe Edition",
+      "link": "https://music.163.com/album?id=2115461"
+    }
+  },
+  {
+    "name": "Summer express (Remix)",
+    "link": "https://music.163.com/song?id=1312654244",
+    "duration": "02:54",
+    "artists": [
+      { "name": "AiCiA", "link": "https://music.163.com/artist?id=12371536" },
+      { "name": "Prezira", "link": "https://music.163.com/artist?id=492208" }
+    ],
+    "album": {
+      "name": "国产电子音乐",
+      "link": "https://music.163.com/album?id=39445281"
+    }
+  },
+  {
+    "name": "Outbreaker",
+    "link": "https://music.163.com/song?id=408277644",
+    "duration": "03:35",
+    "artists": [
+      { "name": "Hinkik", "link": "https://music.163.com/artist?id=12023103" }
+    ],
+    "album": {
+      "name": "Outbreaker",
+      "link": "https://music.163.com/album?id=34588537"
+    }
+  },
+  {
+    "name": "Lone Ranger",
+    "link": "https://music.163.com/song?id=29803676",
+    "duration": "03:07",
+    "artists": [
+      {
+        "name": "Rachel Platten",
+        "link": "https://music.163.com/artist?id=74518"
+      }
+    ],
+    "album": {
+      "name": "Fight Song",
+      "link": "https://music.163.com/album?id=3081170"
+    }
+  },
+  {
+    "name": "Better With You",
+    "link": "https://music.163.com/song?id=1348939361",
+    "duration": "03:12",
+    "artists": [
+      { "name": "3LAU", "link": "https://music.163.com/artist?id=762511" },
+      {
+        "name": "Justin Caruso",
+        "link": "https://music.163.com/artist?id=1193462"
+      },
+      {
+        "name": "Iselin Solheim",
+        "link": "https://music.163.com/artist?id=1078390"
+      }
+    ],
+    "album": {
+      "name": "Better With You",
+      "link": "https://music.163.com/album?id=75727400"
+    }
+  },
+  {
+    "name": "Never Change (feat. Gallie Fisher)",
+    "link": "https://music.163.com/song?id=1342935707",
+    "duration": "04:09",
+    "artists": [
+      {
+        "name": "Crystal Skies",
+        "link": "https://music.163.com/artist?id=1063127"
+      },
+      {
+        "name": "Gallie Fisher",
+        "link": "https://music.163.com/artist?id=31376375"
+      }
+    ],
+    "album": {
+      "name": "Never Change",
+      "link": "https://music.163.com/album?id=75374323"
+    }
+  },
+  {
+    "name": "Dreamless",
+    "link": "https://music.163.com/song?id=560413631",
+    "duration": "03:13",
+    "artists": [
+      { "name": "5-HTP", "link": "https://music.163.com/artist?id=13196682" },
+      { "name": "BaoJunDe", "link": "https://music.163.com/artist?id=12599289" }
+    ],
+    "album": {
+      "name": "Dreamless",
+      "link": "https://music.163.com/album?id=38633713"
+    }
+  },
+  {
+    "name": "Dans Un Autre Reve",
+    "link": "https://music.163.com/song?id=408055514",
+    "duration": "03:57",
+    "artists": [
+      { "name": "Brett", "link": "https://music.163.com/artist?id=967045" }
+    ],
+    "album": {
+      "name": "Mode",
+      "link": "https://music.163.com/album?id=34588340"
+    }
+  },
+  {
+    "name": "Jonas Blue-by your side (Mashup)（DJ C-four remix）",
+    "link": "https://music.163.com/song?id=1352068979",
+    "duration": "03:38",
+    "artists": [
+      {
+        "name": "DJ C-four",
+        "link": "https://music.163.com/artist?id=12092724"
+      }
+    ],
+    "album": {
+      "name": "Hc Mashup",
+      "link": "https://music.163.com/album?id=34830239"
+    }
+  },
+  {
+    "name": "Leave a Trace",
+    "link": "https://music.163.com/song?id=33255880",
+    "duration": "03:57",
+    "artists": [
+      { "name": "CHVRCHES", "link": "https://music.163.com/artist?id=694027" }
+    ],
+    "album": {
+      "name": "Leave a Trace",
+      "link": "https://music.163.com/album?id=3196130"
+    }
+  },
+  {
+    "name": "By My Side",
+    "link": "https://music.163.com/song?id=546730464",
+    "duration": "03:10",
+    "artists": [
+      { "name": "MitiS", "link": "https://music.163.com/artist?id=40245" },
+      { "name": "Tedy", "link": "https://music.163.com/artist?id=12675561" }
+    ],
+    "album": {
+      "name": "'Til the End",
+      "link": "https://music.163.com/album?id=37987085"
+    }
+  },
+  {
+    "name": "Never Giving Up",
+    "link": "https://music.163.com/song?id=419594484",
+    "duration": "03:22",
+    "artists": [
+      { "name": "Tom Swoon", "link": "https://music.163.com/artist?id=725010" }
+    ],
+    "album": {
+      "name": "Never Giving Up",
+      "link": "https://music.163.com/album?id=34751305"
+    }
+  },
+  {
+    "name": "Astronomia 2014 (Radio Edit)",
+    "link": "https://music.163.com/song?id=29922416",
+    "duration": "03:18",
+    "artists": [
+      { "name": "Vicetone", "link": "https://music.163.com/artist?id=747030" },
+      { "name": "Tony Igy", "link": "https://music.163.com/artist?id=990184" }
+    ],
+    "album": {
+      "name": "Astronomia 2014",
+      "link": "https://music.163.com/album?id=3087044"
+    }
+  },
+  {
+    "name": "Another Friend (MC4D Remix)",
+    "link": "https://music.163.com/song?id=1302166784",
+    "duration": "04:01",
+    "artists": [
+      { "name": "Kiso", "link": "https://music.163.com/artist?id=1089102" },
+      { "name": "Tep No", "link": "https://music.163.com/artist?id=956357" }
+    ],
+    "album": {
+      "name": "Another Friend (MC4D Remix)",
+      "link": "https://music.163.com/album?id=72336990"
+    }
+  },
+  {
+    "name": "U Are the One",
+    "link": "https://music.163.com/song?id=501266889",
+    "duration": "02:44",
+    "artists": [
+      {
+        "name": "Mari Ferrari",
+        "link": "https://music.163.com/artist?id=975252"
+      }
+    ],
+    "album": {
+      "name": "U Are the One",
+      "link": "https://music.163.com/album?id=36033097"
+    }
+  },
+  {
+    "name": "Don't Hide Your Light [Bonus]",
+    "link": "https://music.163.com/song?id=28660092",
+    "duration": "03:15",
+    "artists": [
+      { "name": "Tiësto", "link": "https://music.163.com/artist?id=688047" },
+      { "name": "MOTI", "link": "https://music.163.com/artist?id=366384" },
+      {
+        "name": "Denny White",
+        "link": "https://music.163.com/artist?id=975091"
+      }
+    ],
+    "album": {
+      "name": "A Town Called Paradise (Deluxe Version)",
+      "link": "https://music.163.com/album?id=2875023"
+    }
+  },
+  {
+    "name": "I Would Like",
+    "link": "https://music.163.com/song?id=440207445",
+    "duration": "03:44",
+    "artists": [
+      {
+        "name": "Zara Larsson",
+        "link": "https://music.163.com/artist?id=816461"
+      }
+    ],
+    "album": {
+      "name": "I Would Like",
+      "link": "https://music.163.com/album?id=34984105"
+    }
+  }
+]

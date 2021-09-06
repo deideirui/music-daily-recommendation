@@ -1,0 +1,532 @@
+[
+  {
+    "name": "Afterglow",
+    "link": "https://music.163.com/song?id=1819522398",
+    "duration": "03:15",
+    "artists": [
+      {
+        "name": "The Darkmaker",
+        "link": "https://music.163.com/artist?id=31492299"
+      }
+    ],
+    "album": {
+      "name": "Afterglow",
+      "link": "https://music.163.com/album?id=122819667"
+    }
+  },
+  {
+    "name": "On My Mind",
+    "link": "https://music.163.com/song?id=1818192915",
+    "duration": "02:27",
+    "artists": [
+      { "name": "OVSKY", "link": "https://music.163.com/artist?id=36560569" }
+    ],
+    "album": {
+      "name": "On My Mind",
+      "link": "https://music.163.com/album?id=122650722"
+    }
+  },
+  {
+    "name": "The Best Of Me",
+    "link": "https://music.163.com/song?id=1329938686",
+    "duration": "04:33",
+    "artists": [
+      {
+        "name": "Dion Timmer",
+        "link": "https://music.163.com/artist?id=11998053"
+      },
+      {
+        "name": "The Arcturians",
+        "link": "https://music.163.com/artist?id=12475227"
+      }
+    ],
+    "album": {
+      "name": "Very Extra",
+      "link": "https://music.163.com/album?id=74687130"
+    }
+  },
+  {
+    "name": "Souls Of The Ocean",
+    "link": "https://music.163.com/song?id=1493215726",
+    "duration": "02:39",
+    "artists": [
+      { "name": "Dash Berlin", "link": "https://music.163.com/artist?id=32124" }
+    ],
+    "album": {
+      "name": "Souls Of The Ocean",
+      "link": "https://music.163.com/album?id=97950340"
+    }
+  },
+  {
+    "name": "Your Spell",
+    "link": "https://music.163.com/song?id=1832056326",
+    "duration": "03:04",
+    "artists": [
+      {
+        "name": "Bad Computer",
+        "link": "https://music.163.com/artist?id=12647410"
+      }
+    ],
+    "album": {
+      "name": "Somewhere New",
+      "link": "https://music.163.com/album?id=125067539"
+    }
+  },
+  {
+    "name": "Sakura",
+    "link": "https://music.163.com/song?id=416700305",
+    "duration": "03:10",
+    "artists": [
+      { "name": "R3HAB", "link": "https://music.163.com/artist?id=197248" }
+    ],
+    "album": {
+      "name": "Sakura",
+      "link": "https://music.163.com/album?id=34726668"
+    }
+  },
+  {
+    "name": "Dawn (Original Mix)",
+    "link": "https://music.163.com/song?id=1856007570",
+    "duration": "03:06",
+    "artists": [
+      {
+        "name": "Matisse & Sadko",
+        "link": "https://music.163.com/artist?id=947054"
+      },
+      {
+        "name": "Alex Aris",
+        "link": "https://music.163.com/artist?id=13226187"
+      }
+    ],
+    "album": {
+      "name": "Dawn",
+      "link": "https://music.163.com/album?id=129477707"
+    }
+  },
+  {
+    "name": "Life",
+    "link": "https://music.163.com/song?id=1352801567",
+    "duration": "04:04",
+    "artists": [
+      { "name": "Cul8tr", "link": "https://music.163.com/artist?id=12578347" }
+    ],
+    "album": {
+      "name": "Life",
+      "link": "https://music.163.com/album?id=75865168"
+    }
+  },
+  {
+    "name": "Rise & Fall",
+    "link": "https://music.163.com/song?id=1316375909",
+    "duration": "02:38",
+    "artists": [
+      {
+        "name": "Mike Perry",
+        "link": "https://music.163.com/artist?id=195021"
+      },
+      {
+        "name": "Cathrine Lassen",
+        "link": "https://music.163.com/artist?id=29653694"
+      }
+    ],
+    "album": {
+      "name": "Rise & Fall",
+      "link": "https://music.163.com/album?id=73468402"
+    }
+  },
+  {
+    "name": "Can't Let You Go",
+    "link": "https://music.163.com/song?id=1838655614",
+    "duration": "02:30",
+    "artists": [
+      { "name": "JANEE", "link": "https://music.163.com/artist?id=12274245" }
+    ],
+    "album": {
+      "name": "Can't Let You Go",
+      "link": "https://music.163.com/album?id=126226830"
+    }
+  },
+  {
+    "name": "Beautiful Life",
+    "link": "https://music.163.com/song?id=1300470266",
+    "duration": "03:25",
+    "artists": [
+      {
+        "name": "Disco Killerz",
+        "link": "https://music.163.com/artist?id=1132334"
+      },
+      {
+        "name": "Delaney Jane",
+        "link": "https://music.163.com/artist?id=1132286"
+      },
+      {
+        "name": "Sarah Charness",
+        "link": "https://music.163.com/artist?id=28733699"
+      }
+    ],
+    "album": {
+      "name": "Beautiful Life",
+      "link": "https://music.163.com/album?id=72232316"
+    }
+  },
+  {
+    "name": "I Wanna Be There",
+    "link": "https://music.163.com/song?id=1835274306",
+    "duration": "03:14",
+    "artists": [
+      { "name": "DubVision", "link": "https://music.163.com/artist?id=357950" },
+      {
+        "name": "ANML KNGDM",
+        "link": "https://music.163.com/artist?id=37062112"
+      }
+    ],
+    "album": {
+      "name": "I Wanna Be There",
+      "link": "https://music.163.com/album?id=125638573"
+    }
+  },
+  {
+    "name": "Not Afraid",
+    "link": "https://music.163.com/song?id=1349199315",
+    "duration": "03:21",
+    "artists": [
+      {
+        "name": "Justin Mylo",
+        "link": "https://music.163.com/artist?id=12082294"
+      }
+    ],
+    "album": {
+      "name": "Not Afraid",
+      "link": "https://music.163.com/album?id=75737156"
+    }
+  },
+  {
+    "name": "Running Away (feat. Ashley Apollodor)",
+    "link": "https://music.163.com/song?id=1835265189",
+    "duration": "03:42",
+    "artists": [
+      { "name": "MitiS", "link": "https://music.163.com/artist?id=40245" },
+      { "name": "SubLioN", "link": "https://music.163.com/artist?id=1180070" },
+      {
+        "name": "Ashley Apollodor",
+        "link": "https://music.163.com/artist?id=12247036"
+      }
+    ],
+    "album": {
+      "name": "Lost",
+      "link": "https://music.163.com/album?id=125636092"
+    }
+  },
+  {
+    "name": "Time",
+    "link": "https://music.163.com/song?id=1815456565",
+    "duration": "02:46",
+    "artists": [
+      {
+        "name": "PØP CULTUR",
+        "link": "https://music.163.com/artist?id=13160024"
+      },
+      {
+        "name": "Rush & Hydro",
+        "link": "https://music.163.com/artist?id=12007279"
+      }
+    ],
+    "album": {
+      "name": "Time",
+      "link": "https://music.163.com/album?id=122211434"
+    }
+  },
+  {
+    "name": "Ocean Hill",
+    "link": "https://music.163.com/song?id=460413211",
+    "duration": "03:21",
+    "artists": [
+      { "name": "Trinix", "link": "https://music.163.com/artist?id=11998064" }
+    ],
+    "album": {
+      "name": "Hide",
+      "link": "https://music.163.com/album?id=35164883"
+    }
+  },
+  {
+    "name": "one more day",
+    "link": "https://music.163.com/song?id=1849198844",
+    "duration": "04:38",
+    "artists": [
+      { "name": "San Holo", "link": "https://music.163.com/artist?id=1017035" },
+      { "name": "Mija", "link": "https://music.163.com/artist?id=383056" },
+      {
+        "name": "mr. carmack",
+        "link": "https://music.163.com/artist?id=839413"
+      }
+    ],
+    "album": {
+      "name": "bb u ok?",
+      "link": "https://music.163.com/album?id=128204234"
+    }
+  },
+  {
+    "name": "Beautiful ",
+    "link": "https://music.163.com/song?id=1347139454",
+    "duration": "02:30",
+    "artists": [
+      { "name": "MOTi", "link": "https://music.163.com/artist?id=366384" },
+      {
+        "name": "Lovespeake",
+        "link": "https://music.163.com/artist?id=12474630"
+      },
+      { "name": "JETFIRE", "link": "https://music.163.com/artist?id=1005022" }
+    ],
+    "album": {
+      "name": "Beautiful ",
+      "link": "https://music.163.com/album?id=75632510"
+    }
+  },
+  {
+    "name": "She Don't Like The Lights (prod. Direct)",
+    "link": "https://music.163.com/song?id=556203329",
+    "duration": "03:27",
+    "artists": [
+      {
+        "name": "Aaron Richards",
+        "link": "https://music.163.com/artist?id=14055238"
+      },
+      { "name": "Direct", "link": "https://music.163.com/artist?id=758029" }
+    ],
+    "album": {
+      "name": "She Don't Like The Lights (prod. Direct)",
+      "link": "https://music.163.com/album?id=38529121"
+    }
+  },
+  {
+    "name": "Ask",
+    "link": "https://music.163.com/song?id=557583266",
+    "duration": "04:24",
+    "artists": [
+      { "name": "L3V3LS", "link": "https://music.163.com/artist?id=12007340" }
+    ],
+    "album": {
+      "name": "Ask",
+      "link": "https://music.163.com/album?id=38592111"
+    }
+  },
+  {
+    "name": "Sunny Dust",
+    "link": "https://music.163.com/song?id=1457649460",
+    "duration": "03:20",
+    "artists": [
+      {
+        "name": "polarrana",
+        "link": "https://music.163.com/artist?id=33858174"
+      }
+    ],
+    "album": {
+      "name": "Sunny Dust",
+      "link": "https://music.163.com/album?id=91399450"
+    }
+  },
+  {
+    "name": "Gem (Excited)",
+    "link": "https://music.163.com/song?id=527331665",
+    "duration": "03:02",
+    "artists": [
+      {
+        "name": "Rhythm Starry",
+        "link": "https://music.163.com/artist?id=12093453"
+      }
+    ],
+    "album": {
+      "name": "Gem (Excited)",
+      "link": "https://music.163.com/album?id=37114495"
+    }
+  },
+  {
+    "name": "Only One I Need",
+    "link": "https://music.163.com/song?id=1846299464",
+    "duration": "03:26",
+    "artists": [
+      {
+        "name": "William Black",
+        "link": "https://music.163.com/artist?id=248957"
+      },
+      { "name": "HALIENE", "link": "https://music.163.com/artist?id=13202710" },
+      {
+        "name": "Thomas Laurent",
+        "link": "https://music.163.com/artist?id=30654694"
+      }
+    ],
+    "album": {
+      "name": "Only One I Need",
+      "link": "https://music.163.com/album?id=127685361"
+    }
+  },
+  {
+    "name": "Helter Skelter",
+    "link": "https://music.163.com/song?id=1842752413",
+    "duration": "02:56",
+    "artists": [
+      {
+        "name": "Bassjackers",
+        "link": "https://music.163.com/artist?id=268447"
+      },
+      { "name": "MOTi", "link": "https://music.163.com/artist?id=366384" }
+    ],
+    "album": {
+      "name": "Helter Skelter",
+      "link": "https://music.163.com/album?id=126991424"
+    }
+  },
+  {
+    "name": "Love Is Gone (Synymata Remix)",
+    "link": "https://music.163.com/song?id=1409691743",
+    "duration": "04:15",
+    "artists": [
+      {
+        "name": "Dylan Matthew",
+        "link": "https://music.163.com/artist?id=28684353"
+      },
+      { "name": "SLANDER", "link": "https://music.163.com/artist?id=1137239" },
+      { "name": "Synymata", "link": "https://music.163.com/artist?id=12031140" }
+    ],
+    "album": {
+      "name": "Love Is Gone (The Remixes)",
+      "link": "https://music.163.com/album?id=84107427"
+    }
+  },
+  {
+    "name": "No Other Way",
+    "link": "https://music.163.com/song?id=1487460161",
+    "duration": "02:28",
+    "artists": [
+      { "name": "Shaed", "link": "https://music.163.com/artist?id=12086115" }
+    ],
+    "album": {
+      "name": "No Other Way",
+      "link": "https://music.163.com/album?id=96875984"
+    }
+  },
+  {
+    "name": "The Answer",
+    "link": "https://music.163.com/song?id=1473065798",
+    "duration": "04:05",
+    "artists": [
+      {
+        "name": "FrogMonster",
+        "link": "https://music.163.com/artist?id=30549371"
+      }
+    ],
+    "album": {
+      "name": "The Answer",
+      "link": "https://music.163.com/album?id=94240527"
+    }
+  },
+  {
+    "name": "Leave Me Now",
+    "link": "https://music.163.com/song?id=499251019",
+    "duration": "02:53",
+    "artists": [
+      {
+        "name": "Dewian Gross",
+        "link": "https://music.163.com/artist?id=12262443"
+      },
+      { "name": "Artak", "link": "https://music.163.com/artist?id=13929496" }
+    ],
+    "album": {
+      "name": "Street 17",
+      "link": "https://music.163.com/album?id=35971016"
+    }
+  },
+  {
+    "name": "Runaway",
+    "link": "https://music.163.com/song?id=1352958451",
+    "duration": "03:07",
+    "artists": [
+      { "name": "Manse", "link": "https://music.163.com/artist?id=855409" },
+      { "name": "Cuebrick", "link": "https://music.163.com/artist?id=364737" },
+      { "name": "IIVES", "link": "https://music.163.com/artist?id=30248076" }
+    ],
+    "album": {
+      "name": "Runaway",
+      "link": "https://music.163.com/album?id=75904807"
+    }
+  },
+  {
+    "name": "#BrooklynBloodPop!",
+    "link": "https://music.163.com/song?id=1457295170",
+    "duration": "02:25",
+    "artists": [
+      { "name": "syko", "link": "https://music.163.com/artist?id=33123723" }
+    ],
+    "album": {
+      "name": "#BrooklynBloodPop!",
+      "link": "https://music.163.com/album?id=91317798"
+    }
+  },
+  {
+    "name": "Love You Lately",
+    "link": "https://music.163.com/song?id=458013580",
+    "duration": "03:56",
+    "artists": [
+      {
+        "name": "Ariana & the Rose",
+        "link": "https://music.163.com/artist?id=894145"
+      },
+      { "name": "RKCB", "link": "https://music.163.com/artist?id=11973052" }
+    ],
+    "album": {
+      "name": "Love You Lately",
+      "link": "https://music.163.com/album?id=35150139"
+    }
+  },
+  {
+    "name": "Brother (Acoustic)",
+    "link": "https://music.163.com/song?id=487454317",
+    "duration": "03:21",
+    "artists": [
+      { "name": "Kodaline", "link": "https://music.163.com/artist?id=727007" }
+    ],
+    "album": {
+      "name": "Brother (Acoustic)",
+      "link": "https://music.163.com/album?id=35657372"
+    }
+  },
+  {
+    "name": "Something Just Like This",
+    "link": "https://music.163.com/song?id=506288341",
+    "duration": "03:21",
+    "artists": [
+      {
+        "name": "We Rabbitz",
+        "link": "https://music.163.com/artist?id=12074883"
+      },
+      {
+        "name": "Guy Berryman",
+        "link": "https://music.163.com/artist?id=203178"
+      },
+      {
+        "name": "Chris Martin",
+        "link": "https://music.163.com/artist?id=688269"
+      },
+      {
+        "name": "Andrew Taggart",
+        "link": "https://music.163.com/artist?id=13080339"
+      }
+    ],
+    "album": {
+      "name": "Something Just Like This",
+      "link": "https://music.163.com/album?id=36234175"
+    }
+  },
+  {
+    "name": "1121",
+    "link": "https://music.163.com/song?id=1873216796",
+    "duration": "02:42",
+    "artists": [
+      { "name": "Halsey", "link": "https://music.163.com/artist?id=964321" }
+    ],
+    "album": {
+      "name": "If I Can’t Have Love, I Want Power",
+      "link": "https://music.163.com/album?id=132384894"
+    }
+  }
+]

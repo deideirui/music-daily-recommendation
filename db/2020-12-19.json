@@ -1,0 +1,451 @@
+[
+  {
+    "name": "Million Days",
+    "link": "https://music.163.com/song?id=1417055605",
+    "duration": "03:28",
+    "artists": [
+      { "name": "Sabai", "link": "https://music.163.com/artist?id=32093901" },
+      { "name": "Hoang", "link": "https://music.163.com/artist?id=27694442" },
+      {
+        "name": "Claire Ridgely",
+        "link": "https://music.163.com/artist?id=14935781"
+      }
+    ],
+    "album": {
+      "name": "Million Days",
+      "link": "https://music.163.com/album?id=85020147"
+    }
+  },
+  {
+    "name": "Shine a Little",
+    "link": "https://music.163.com/song?id=1397152854",
+    "duration": "03:09",
+    "artists": [
+      {
+        "name": "Craig Reever",
+        "link": "https://music.163.com/artist?id=28768278"
+      },
+      {
+        "name": "Mia Pfirrman",
+        "link": "https://music.163.com/artist?id=1024409"
+      }
+    ],
+    "album": {
+      "name": "Shine a Little",
+      "link": "https://music.163.com/album?id=82440753"
+    }
+  },
+  {
+    "name": "Home",
+    "link": "https://music.163.com/song?id=484614182",
+    "duration": "03:48",
+    "artists": [
+      { "name": "Hechmann", "link": "https://music.163.com/artist?id=12011121" }
+    ],
+    "album": {
+      "name": "Home",
+      "link": "https://music.163.com/album?id=35572709"
+    }
+  },
+  {
+    "name": "Say You'll Be There",
+    "link": "https://music.163.com/song?id=1340376743",
+    "duration": "02:49",
+    "artists": [
+      {
+        "name": "Campsite Dream",
+        "link": "https://music.163.com/artist?id=1146068"
+      }
+    ],
+    "album": {
+      "name": "Say You'll Be There",
+      "link": "https://music.163.com/album?id=75219883"
+    }
+  },
+  {
+    "name": "For You",
+    "link": "https://music.163.com/song?id=1318621087",
+    "duration": "03:00",
+    "artists": [
+      { "name": "Omnia", "link": "https://music.163.com/artist?id=179006" },
+      {
+        "name": "Danyka Nadeau",
+        "link": "https://music.163.com/artist?id=1078277"
+      }
+    ],
+    "album": {
+      "name": "For You",
+      "link": "https://music.163.com/album?id=73960951"
+    }
+  },
+  {
+    "name": "First Storm",
+    "link": "https://music.163.com/song?id=1353187832",
+    "duration": "03:40",
+    "artists": [
+      { "name": "JVNA", "link": "https://music.163.com/artist?id=28692563" }
+    ],
+    "album": {
+      "name": "First Storm",
+      "link": "https://music.163.com/album?id=77422611"
+    }
+  },
+  {
+    "name": "I Love It",
+    "link": "https://music.163.com/song?id=1345318197",
+    "duration": "02:40",
+    "artists": [
+      {
+        "name": "Oscar Enestad",
+        "link": "https://music.163.com/artist?id=27693458"
+      }
+    ],
+    "album": {
+      "name": "I Love It",
+      "link": "https://music.163.com/album?id=75512276"
+    }
+  },
+  {
+    "name": "One More Night",
+    "link": "https://music.163.com/song?id=1401180143",
+    "duration": "04:15",
+    "artists": [
+      {
+        "name": "Crystal Skies",
+        "link": "https://music.163.com/artist?id=1063127"
+      }
+    ],
+    "album": {
+      "name": "Constellations",
+      "link": "https://music.163.com/album?id=83001751"
+    }
+  },
+  {
+    "name": "Back in L.A.",
+    "link": "https://music.163.com/song?id=1323972363",
+    "duration": "03:32",
+    "artists": [
+      { "name": "Cardiknox", "link": "https://music.163.com/artist?id=896836" }
+    ],
+    "album": {
+      "name": "Back in L.A.",
+      "link": "https://music.163.com/album?id=74320573"
+    }
+  },
+  {
+    "name": "Standing When It All Falls Down (Official NiP Team Song)",
+    "link": "https://music.163.com/song?id=459025584",
+    "duration": "03:03",
+    "artists": [
+      {
+        "name": "John De Sohn",
+        "link": "https://music.163.com/artist?id=290019"
+      },
+      { "name": "roshi", "link": "https://music.163.com/artist?id=201098" }
+    ],
+    "album": {
+      "name": "Standing When It All Falls Down (Official NiP Team Song)",
+      "link": "https://music.163.com/album?id=35164503"
+    }
+  },
+  {
+    "name": "Take Your Time",
+    "link": "https://music.163.com/song?id=1374083992",
+    "duration": "04:27",
+    "artists": [
+      {
+        "name": "Last Heroes",
+        "link": "https://music.163.com/artist?id=11987034"
+      },
+      {
+        "name": "Satellite Empire",
+        "link": "https://music.163.com/artist?id=1116247"
+      }
+    ],
+    "album": {
+      "name": "Take Your Time",
+      "link": "https://music.163.com/album?id=80005711"
+    }
+  },
+  {
+    "name": "Where Do We Go (VIP)",
+    "link": "https://music.163.com/song?id=1410330948",
+    "duration": "04:01",
+    "artists": [
+      { "name": "Mazare", "link": "https://music.163.com/artist?id=29718513" },
+      { "name": "Runn", "link": "https://music.163.com/artist?id=15237536" }
+    ],
+    "album": {
+      "name": "Where Do We Go (VIP)",
+      "link": "https://music.163.com/album?id=84172169"
+    }
+  },
+  {
+    "name": "This Life",
+    "link": "https://music.163.com/song?id=557309678",
+    "duration": "03:46",
+    "artists": [
+      {
+        "name": "Craig Connelly",
+        "link": "https://music.163.com/artist?id=191566"
+      },
+      {
+        "name": "Roxanne Emery",
+        "link": "https://music.163.com/artist?id=74561"
+      }
+    ],
+    "album": {
+      "name": "This Life",
+      "link": "https://music.163.com/album?id=38566389"
+    }
+  },
+  {
+    "name": "Snake Eyes",
+    "link": "https://music.163.com/song?id=27984428",
+    "duration": "04:24",
+    "artists": [
+      { "name": "Feint", "link": "https://music.163.com/artist?id=93062" },
+      { "name": "CoMa", "link": "https://music.163.com/artist?id=53231" }
+    ],
+    "album": {
+      "name": "Snake Eyes",
+      "link": "https://music.163.com/album?id=2709073"
+    }
+  },
+  {
+    "name": "Voyager",
+    "link": "https://music.163.com/song?id=1338803572",
+    "duration": "04:03",
+    "artists": [
+      {
+        "name": "Paul van Dyk",
+        "link": "https://music.163.com/artist?id=41145"
+      },
+      {
+        "name": "Alex M.O.R.P.H.",
+        "link": "https://music.163.com/artist?id=28395"
+      }
+    ],
+    "album": {
+      "name": "A State Of Trance Top 20 - January 2019 (Selected by Armin van Buuren)",
+      "link": "https://music.163.com/album?id=75123390"
+    }
+  },
+  {
+    "name": "Out of Place",
+    "link": "https://music.163.com/song?id=1359682626",
+    "duration": "02:58",
+    "artists": [
+      {
+        "name": "Brooke Sierra",
+        "link": "https://music.163.com/artist?id=31984561"
+      }
+    ],
+    "album": {
+      "name": "Out of Place",
+      "link": "https://music.163.com/album?id=78597575"
+    }
+  },
+  {
+    "name": "Leadfoot Getaway",
+    "link": "https://music.163.com/song?id=25888656",
+    "duration": "02:20",
+    "artists": [
+      {
+        "name": "Blue Stahli",
+        "link": "https://music.163.com/artist?id=759192"
+      }
+    ],
+    "album": {
+      "name": "Antisleep Vol. 01",
+      "link": "https://music.163.com/album?id=2338349"
+    }
+  },
+  {
+    "name": "Sahara Love (Seven Lions Remix)",
+    "link": "https://music.163.com/song?id=1350078187",
+    "duration": "05:22",
+    "artists": [
+      {
+        "name": "Above & Beyond",
+        "link": "https://music.163.com/artist?id=85548"
+      },
+      {
+        "name": "Zoë Johnston",
+        "link": "https://music.163.com/artist?id=85283"
+      },
+      { "name": "Seven Lions", "link": "https://music.163.com/artist?id=44204" }
+    ],
+    "album": {
+      "name": "Sahara Love",
+      "link": "https://music.163.com/album?id=75769638"
+    }
+  },
+  {
+    "name": "Still in Love",
+    "link": "https://music.163.com/song?id=1342933514",
+    "duration": "03:05",
+    "artists": [
+      {
+        "name": "Cassie Dasilva",
+        "link": "https://music.163.com/artist?id=13466044"
+      }
+    ],
+    "album": {
+      "name": "Still in Love",
+      "link": "https://music.163.com/album?id=75374203"
+    }
+  },
+  {
+    "name": "Indian Summer",
+    "link": "https://music.163.com/song?id=32648409",
+    "duration": "04:08",
+    "artists": [
+      { "name": "Jai Wolf", "link": "https://music.163.com/artist?id=1063048" }
+    ],
+    "album": {
+      "name": "Indian Summer",
+      "link": "https://music.163.com/album?id=3165075"
+    }
+  },
+  {
+    "name": "Fever",
+    "link": "https://music.163.com/song?id=37240741",
+    "duration": "03:00",
+    "artists": [
+      { "name": "Lenno", "link": "https://music.163.com/artist?id=851470" },
+      { "name": "Benson", "link": "https://music.163.com/artist?id=386549" }
+    ],
+    "album": {
+      "name": "Fever",
+      "link": "https://music.163.com/album?id=3419205"
+    }
+  },
+  {
+    "name": "Tearing Me Up",
+    "link": "https://music.163.com/song?id=34766968",
+    "duration": "07:50",
+    "artists": [
+      { "name": "Bob Moses", "link": "https://music.163.com/artist?id=1148041" }
+    ],
+    "album": {
+      "name": "Days Gone By",
+      "link": "https://music.163.com/album?id=3295549"
+    }
+  },
+  {
+    "name": "Crystalline",
+    "link": "https://music.163.com/song?id=1382563368",
+    "duration": "06:02",
+    "artists": [
+      {
+        "name": "The Midnight",
+        "link": "https://music.163.com/artist?id=12023492"
+      }
+    ],
+    "album": {
+      "name": "Nocturnal",
+      "link": "https://music.163.com/album?id=80814887"
+    }
+  },
+  {
+    "name": "See You Tomorrow",
+    "link": "https://music.163.com/song?id=1439530167",
+    "duration": "06:10",
+    "artists": [
+      { "name": "Melchi", "link": "https://music.163.com/artist?id=12058010" }
+    ],
+    "album": {
+      "name": "Shoreline in Your Heart",
+      "link": "https://music.163.com/album?id=87868749"
+    }
+  },
+  {
+    "name": "Return",
+    "link": "https://music.163.com/song?id=1302090575",
+    "duration": "03:51",
+    "artists": [
+      {
+        "name": "Adib Sin",
+        "link": "https://music.163.com/artist?id=12244027"
+      },
+      { "name": "Slyleaf", "link": "https://music.163.com/artist?id=12155045" }
+    ],
+    "album": {
+      "name": "Return",
+      "link": "https://music.163.com/album?id=72301035"
+    }
+  },
+  {
+    "name": "Dream Worlds",
+    "link": "https://music.163.com/song?id=1337111645",
+    "duration": "03:38",
+    "artists": [
+      {
+        "name": "Immediate Music",
+        "link": "https://music.163.com/artist?id=35054"
+      }
+    ],
+    "album": {
+      "name": "Dream Worlds",
+      "link": "https://music.163.com/album?id=75029323"
+    }
+  },
+  {
+    "name": "Tieduprightnow",
+    "link": "https://music.163.com/song?id=573874895",
+    "duration": "04:09",
+    "artists": [
+      { "name": "Parcels", "link": "https://music.163.com/artist?id=12095029" }
+    ],
+    "album": {
+      "name": "Tieduprightnow",
+      "link": "https://music.163.com/album?id=39737444"
+    }
+  },
+  {
+    "name": "Man On The Moon",
+    "link": "https://music.163.com/song?id=427373588",
+    "duration": "03:46",
+    "artists": [
+      {
+        "name": "Britney Spears",
+        "link": "https://music.163.com/artist?id=48432"
+      }
+    ],
+    "album": {
+      "name": "Glory (Deluxe Version)",
+      "link": "https://music.163.com/album?id=34808023"
+    }
+  },
+  {
+    "name": "Mountaineers",
+    "link": "https://music.163.com/song?id=41666282",
+    "duration": "06:32",
+    "artists": [
+      {
+        "name": "Marcus Warner",
+        "link": "https://music.163.com/artist?id=1046308"
+      }
+    ],
+    "album": {
+      "name": "Oceans",
+      "link": "https://music.163.com/album?id=3451718"
+    }
+  },
+  {
+    "name": "Get The Girl",
+    "link": "https://music.163.com/song?id=471969282",
+    "duration": "02:39",
+    "artists": [
+      {
+        "name": "Richard Schrieber",
+        "link": "https://music.163.com/artist?id=12046138"
+      }
+    ],
+    "album": {
+      "name": "Piano Works 8",
+      "link": "https://music.163.com/album?id=35369061"
+    }
+  }
+]

@@ -1,0 +1,467 @@
+[
+  {
+    "name": "Bedroom Adventure",
+    "link": "https://music.163.com/song?id=1398757847",
+    "duration": "03:17",
+    "artists": [
+      { "name": "Vexento", "link": "https://music.163.com/artist?id=12037010" }
+    ],
+    "album": {
+      "name": "Bedroom Adventure",
+      "link": "https://music.163.com/album?id=82670303"
+    }
+  },
+  {
+    "name": "Wait",
+    "link": "https://music.163.com/song?id=1428684698",
+    "duration": "04:44",
+    "artists": [
+      { "name": "MitiS", "link": "https://music.163.com/artist?id=40245" },
+      {
+        "name": "Crystal Skies",
+        "link": "https://music.163.com/artist?id=1063127"
+      },
+      {
+        "name": "Monika Santucci",
+        "link": "https://music.163.com/artist?id=13989763"
+      }
+    ],
+    "album": {
+      "name": "Wait",
+      "link": "https://music.163.com/album?id=86279740"
+    }
+  },
+  {
+    "name": "These Are The Times",
+    "link": "https://music.163.com/song?id=1378762448",
+    "duration": "03:08",
+    "artists": [
+      {
+        "name": "Martin Garrix",
+        "link": "https://music.163.com/artist?id=780003"
+      },
+      { "name": "JRM", "link": "https://music.163.com/artist?id=12682822" }
+    ],
+    "album": {
+      "name": "These Are The Times",
+      "link": "https://music.163.com/album?id=80475547"
+    }
+  },
+  {
+    "name": "SOS",
+    "link": "https://music.163.com/song?id=1357848241",
+    "duration": "02:37",
+    "artists": [
+      { "name": "Avicii", "link": "https://music.163.com/artist?id=45236" },
+      { "name": "Aloe Blacc", "link": "https://music.163.com/artist?id=47425" }
+    ],
+    "album": {
+      "name": "SOS",
+      "link": "https://music.163.com/album?id=78427520"
+    }
+  },
+  {
+    "name": "Heartline",
+    "link": "https://music.163.com/song?id=506094036",
+    "duration": "03:12",
+    "artists": [
+      {
+        "name": "Craig David",
+        "link": "https://music.163.com/artist?id=29959"
+      },
+      {
+        "name": "Jonas Blue",
+        "link": "https://music.163.com/artist?id=1192069"
+      }
+    ],
+    "album": {
+      "name": "Heartline",
+      "link": "https://music.163.com/album?id=36224023"
+    }
+  },
+  {
+    "name": "Blame",
+    "link": "https://music.163.com/song?id=29129632",
+    "duration": "03:34",
+    "artists": [
+      {
+        "name": "Calvin Harris",
+        "link": "https://music.163.com/artist?id=29968"
+      },
+      {
+        "name": "John Newman",
+        "link": "https://music.163.com/artist?id=195302"
+      }
+    ],
+    "album": {
+      "name": "Blame",
+      "link": "https://music.163.com/album?id=2992197"
+    }
+  },
+  {
+    "name": "My Love",
+    "link": "https://music.163.com/song?id=529823683",
+    "duration": "03:37",
+    "artists": [
+      {
+        "name": "Arc North",
+        "link": "https://music.163.com/artist?id=1137410"
+      },
+      { "name": "Jonört", "link": "https://music.163.com/artist?id=27694452" }
+    ],
+    "album": {
+      "name": "My Love",
+      "link": "https://music.163.com/album?id=37256189"
+    }
+  },
+  {
+    "name": "Shelter",
+    "link": "https://music.163.com/song?id=425280053",
+    "duration": "03:38",
+    "artists": [
+      {
+        "name": "Porter Robinson",
+        "link": "https://music.163.com/artist?id=185871"
+      },
+      { "name": "Madeon", "link": "https://music.163.com/artist?id=40280" }
+    ],
+    "album": {
+      "name": "Shelter",
+      "link": "https://music.163.com/album?id=34818014"
+    }
+  },
+  {
+    "name": "Pure Sunlight",
+    "link": "https://music.163.com/song?id=1322200239",
+    "duration": "05:37",
+    "artists": [
+      {
+        "name": "Laura Brehm",
+        "link": "https://music.163.com/artist?id=207693"
+      },
+      {
+        "name": "Mr FijiWiji",
+        "link": "https://music.163.com/artist?id=40353"
+      },
+      { "name": "AgNo3", "link": "https://music.163.com/artist?id=28457540" }
+    ],
+    "album": {
+      "name": "Monstercat - 3 Year Anniversary",
+      "link": "https://music.163.com/album?id=74204250"
+    }
+  },
+  {
+    "name": "Rock To The Rhythm",
+    "link": "https://music.163.com/song?id=1323821920",
+    "duration": "02:56",
+    "artists": [
+      { "name": "Firebeatz", "link": "https://music.163.com/artist?id=702005" },
+      { "name": "Yozo", "link": "https://music.163.com/artist?id=12202171" }
+    ],
+    "album": {
+      "name": "Rock To The Rhythm",
+      "link": "https://music.163.com/album?id=74311726"
+    }
+  },
+  {
+    "name": "Fantasy",
+    "link": "https://music.163.com/song?id=36924723",
+    "duration": "03:01",
+    "artists": [
+      { "name": "Tobu", "link": "https://music.163.com/artist?id=964486" },
+      { "name": "Itro", "link": "https://music.163.com/artist?id=1049096" }
+    ],
+    "album": {
+      "name": "Fantasy",
+      "link": "https://music.163.com/album?id=3410273"
+    }
+  },
+  {
+    "name": "Summersong 2018",
+    "link": "https://music.163.com/song?id=573013100",
+    "duration": "03:46",
+    "artists": [
+      {
+        "name": "Elektronomia",
+        "link": "https://music.163.com/artist?id=1081540"
+      }
+    ],
+    "album": {
+      "name": "Summersong 2018",
+      "link": "https://music.163.com/album?id=39675455"
+    }
+  },
+  {
+    "name": "Something Real",
+    "link": "https://music.163.com/song?id=554242268",
+    "duration": "05:22",
+    "artists": [
+      { "name": "Rameses B", "link": "https://music.163.com/artist?id=42898" },
+      {
+        "name": "Danyka Nadeau",
+        "link": "https://music.163.com/artist?id=1078277"
+      }
+    ],
+    "album": {
+      "name": "Something Real",
+      "link": "https://music.163.com/album?id=38433091"
+    }
+  },
+  {
+    "name": "Beneath The Waves",
+    "link": "https://music.163.com/song?id=1329938687",
+    "duration": "03:50",
+    "artists": [
+      {
+        "name": "Dion Timmer",
+        "link": "https://music.163.com/artist?id=11998053"
+      },
+      {
+        "name": "Azuria Sky",
+        "link": "https://music.163.com/artist?id=12914272"
+      }
+    ],
+    "album": {
+      "name": "Very Extra",
+      "link": "https://music.163.com/album?id=74687130"
+    }
+  },
+  {
+    "name": "Complexity",
+    "link": "https://music.163.com/song?id=408532744",
+    "duration": "03:06",
+    "artists": [
+      { "name": "MadEye", "link": "https://music.163.com/artist?id=12108505" }
+    ],
+    "album": {
+      "name": "Complexity",
+      "link": "https://music.163.com/album?id=34589886"
+    }
+  },
+  {
+    "name": "Senbonzakura [SS-Extended+Bass] - (千本樱)",
+    "link": "https://music.163.com/song?id=32139848",
+    "duration": "04:23",
+    "artists": [
+      {
+        "name": "Lindsey Stirling",
+        "link": "https://music.163.com/artist?id=66225"
+      }
+    ],
+    "album": {
+      "name": "Shatter Me (Deluxe Version)",
+      "link": "https://music.163.com/album?id=3153020"
+    }
+  },
+  {
+    "name": "Stop (Original Mix)",
+    "link": "https://music.163.com/song?id=409646404",
+    "duration": "06:10",
+    "artists": [
+      {
+        "name": "Sasha Primitive",
+        "link": "https://music.163.com/artist?id=12029061"
+      }
+    ],
+    "album": {
+      "name": "Stop / Love Me (EP)",
+      "link": "https://music.163.com/album?id=34611150"
+    }
+  },
+  {
+    "name": "Let You Go (Original Mix)",
+    "link": "https://music.163.com/song?id=535229532",
+    "duration": "08:27",
+    "artists": [
+      {
+        "name": "Anton Ishutin",
+        "link": "https://music.163.com/artist?id=789422"
+      },
+      { "name": "Ange", "link": "https://music.163.com/artist?id=46929" }
+    ],
+    "album": {
+      "name": "Let You Go",
+      "link": "https://music.163.com/album?id=37499764"
+    }
+  },
+  {
+    "name": "Lost Control",
+    "link": "https://music.163.com/song?id=1333160781",
+    "duration": "03:42",
+    "artists": [
+      {
+        "name": "Alan Walker",
+        "link": "https://music.163.com/artist?id=1045123"
+      },
+      { "name": "Sorana", "link": "https://music.163.com/artist?id=427708" }
+    ],
+    "album": {
+      "name": "Different World",
+      "link": "https://music.163.com/album?id=74571750"
+    }
+  },
+  {
+    "name": "Italian Coffee Shop",
+    "link": "https://music.163.com/song?id=506068947",
+    "duration": "04:56",
+    "artists": [
+      { "name": "3Nacria", "link": "https://music.163.com/artist?id=392626" },
+      {
+        "name": "R.Terranova",
+        "link": "https://music.163.com/artist?id=29812681"
+      },
+      { "name": "L.Lento", "link": "https://music.163.com/artist?id=29813330" },
+      {
+        "name": "M.Adragna",
+        "link": "https://music.163.com/artist?id=29864889"
+      }
+    ],
+    "album": {
+      "name": "Italian Coffee Shop",
+      "link": "https://music.163.com/album?id=36219445"
+    }
+  },
+  {
+    "name": "Fearless Pt. II",
+    "link": "https://music.163.com/song?id=529391087",
+    "duration": "03:14",
+    "artists": [
+      { "name": "Tule", "link": "https://music.163.com/artist?id=12676322" },
+      {
+        "name": "Chris Linton",
+        "link": "https://music.163.com/artist?id=14297663"
+      }
+    ],
+    "album": {
+      "name": "NCS: The Best of 2017",
+      "link": "https://music.163.com/album?id=37099494"
+    }
+  },
+  {
+    "name": "Little Swing",
+    "link": "https://music.163.com/song?id=404716896",
+    "duration": "02:43",
+    "artists": [
+      {
+        "name": "AronChupa",
+        "link": "https://music.163.com/artist?id=12060038"
+      }
+    ],
+    "album": {
+      "name": "Little Swing",
+      "link": "https://music.163.com/album?id=34521010"
+    }
+  },
+  {
+    "name": "Ghost (Acoustic)",
+    "link": "https://music.163.com/song?id=1405069977",
+    "duration": "03:37",
+    "artists": [
+      { "name": "Au/Ra", "link": "https://music.163.com/artist?id=12143031" }
+    ],
+    "album": {
+      "name": "Ghost (Acoustic)",
+      "link": "https://music.163.com/album?id=83564378"
+    }
+  },
+  {
+    "name": "Miracle (Full Version) ",
+    "link": "https://music.163.com/song?id=430043546",
+    "duration": "03:40",
+    "artists": [
+      { "name": "Andreas B.", "link": "https://music.163.com/artist?id=299713" }
+    ],
+    "album": {
+      "name": "Miracle (Full Version)",
+      "link": "https://music.163.com/album?id=34874188"
+    }
+  },
+  {
+    "name": "Funk You (Extended Mix)",
+    "link": "https://music.163.com/song?id=520461033",
+    "duration": "04:05",
+    "artists": [
+      { "name": "PBH", "link": "https://music.163.com/artist?id=12046834" },
+      {
+        "name": "Jack Shizzle",
+        "link": "https://music.163.com/artist?id=333428"
+      },
+      { "name": "AFISHAL", "link": "https://music.163.com/artist?id=13262127" }
+    ],
+    "album": {
+      "name": "Funk You",
+      "link": "https://music.163.com/album?id=36855022"
+    }
+  },
+  {
+    "name": "Loser",
+    "link": "https://music.163.com/song?id=28366791",
+    "duration": "03:20",
+    "artists": [
+      { "name": "Ola", "link": "https://music.163.com/artist?id=40897" }
+    ],
+    "album": {
+      "name": "Carelessly Yours",
+      "link": "https://music.163.com/album?id=2780084"
+    }
+  },
+  {
+    "name": "Time Is On Your Side (Original Mix)",
+    "link": "https://music.163.com/song?id=34341087",
+    "duration": "04:18",
+    "artists": [
+      { "name": "Stadiumx", "link": "https://music.163.com/artist?id=1004052" },
+      {
+        "name": "Delaney Jane",
+        "link": "https://music.163.com/artist?id=1132286"
+      },
+      { "name": "Dzasko", "link": "https://music.163.com/artist?id=1137486" }
+    ],
+    "album": {
+      "name": "Time Is On Your Side (Original Mix)",
+      "link": "https://music.163.com/album?id=3280280"
+    }
+  },
+  {
+    "name": "Stop for Nothing",
+    "link": "https://music.163.com/song?id=447925467",
+    "duration": "03:43",
+    "artists": [
+      {
+        "name": "courtship.",
+        "link": "https://music.163.com/artist?id=12232058"
+      }
+    ],
+    "album": {
+      "name": "Stop for Nothing",
+      "link": "https://music.163.com/album?id=35069130"
+    }
+  },
+  {
+    "name": "One",
+    "link": "https://music.163.com/song?id=425828434",
+    "duration": "03:44",
+    "artists": [
+      { "name": "Yonetro", "link": "https://music.163.com/artist?id=12095285" }
+    ],
+    "album": {
+      "name": "One",
+      "link": "https://music.163.com/album?id=34817701"
+    }
+  },
+  {
+    "name": "Wow",
+    "link": "https://music.163.com/song?id=543987402",
+    "duration": "03:05",
+    "artists": [
+      {
+        "name": "Victoria Duffield",
+        "link": "https://music.163.com/artist?id=84047"
+      }
+    ],
+    "album": {
+      "name": "Wow",
+      "link": "https://music.163.com/album?id=37887063"
+    }
+  }
+]

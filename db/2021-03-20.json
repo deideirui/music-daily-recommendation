@@ -1,0 +1,463 @@
+[
+  {
+    "name": "Flightless Bird, American Mouth",
+    "link": "https://music.163.com/song?id=26679470",
+    "duration": "04:02",
+    "artists": [
+      {
+        "name": "Iron & Wine",
+        "link": "https://music.163.com/artist?id=178125"
+      }
+    ],
+    "album": {
+      "name": "The Shepherd's Dog",
+      "link": "https://music.163.com/album?id=2545524"
+    }
+  },
+  {
+    "name": "9 Crimes",
+    "link": "https://music.163.com/song?id=17240037",
+    "duration": "03:41",
+    "artists": [
+      {
+        "name": "Damien Rice",
+        "link": "https://music.163.com/artist?id=31188"
+      },
+      {
+        "name": "Lisa Hannigan",
+        "link": "https://music.163.com/artist?id=64151"
+      }
+    ],
+    "album": {
+      "name": "9 Crimes",
+      "link": "https://music.163.com/album?id=1589065"
+    }
+  },
+  {
+    "name": "Fade Out (Dark Heart Remix)",
+    "link": "https://music.163.com/song?id=1388968659",
+    "duration": "02:57",
+    "artists": [
+      { "name": "SeeB", "link": "https://music.163.com/artist?id=1182169" },
+      {
+        "name": "Dark Heart",
+        "link": "https://music.163.com/artist?id=11991145"
+      }
+    ],
+    "album": {
+      "name": "Fade Out (Dark Heart Remix)",
+      "link": "https://music.163.com/album?id=81397469"
+    }
+  },
+  {
+    "name": "237",
+    "link": "https://music.163.com/song?id=1394653269",
+    "duration": "02:53",
+    "artists": [
+      { "name": "Bodin", "link": "https://music.163.com/artist?id=12300012" }
+    ],
+    "album": {
+      "name": "237",
+      "link": "https://music.163.com/album?id=82110267"
+    }
+  },
+  {
+    "name": "EVIL",
+    "link": "https://music.163.com/song?id=1435812960",
+    "duration": "03:15",
+    "artists": [
+      { "name": "AViVA", "link": "https://music.163.com/artist?id=12074178" }
+    ],
+    "album": {
+      "name": "EVIL",
+      "link": "https://music.163.com/album?id=87116757"
+    }
+  },
+  {
+    "name": "Simple",
+    "link": "https://music.163.com/song?id=1387112756",
+    "duration": "03:06",
+    "artists": [
+      { "name": "Sistek", "link": "https://music.163.com/artist?id=12765268" },
+      {
+        "name": "Knightly",
+        "link": "https://music.163.com/artist?id=13190870"
+      },
+      {
+        "name": "Josh Wood",
+        "link": "https://music.163.com/artist?id=15077733"
+      }
+    ],
+    "album": {
+      "name": "Simple",
+      "link": "https://music.163.com/album?id=81209723"
+    }
+  },
+  {
+    "name": "Dead 2 Me",
+    "link": "https://music.163.com/song?id=1362919228",
+    "duration": "02:45",
+    "artists": [
+      {
+        "name": "Emily Vaughn",
+        "link": "https://music.163.com/artist?id=12049240"
+      }
+    ],
+    "album": {
+      "name": "***** Bops",
+      "link": "https://music.163.com/album?id=78902571"
+    }
+  },
+  {
+    "name": "Skyline",
+    "link": "https://music.163.com/song?id=34040854",
+    "duration": "02:48",
+    "artists": [
+      { "name": "Starix​", "link": "https://music.163.com/artist?id=1058011" },
+      {
+        "name": "Jordan Kelvin James",
+        "link": "https://music.163.com/artist?id=1120171"
+      }
+    ],
+    "album": {
+      "name": "Skyline",
+      "link": "https://music.163.com/album?id=3270734"
+    }
+  },
+  {
+    "name": "Fake",
+    "link": "https://music.163.com/song?id=1484184193",
+    "duration": "02:26",
+    "artists": [
+      { "name": "Lauv", "link": "https://music.163.com/artist?id=1057226" },
+      {
+        "name": "Conan Gray",
+        "link": "https://music.163.com/artist?id=13080534"
+      }
+    ],
+    "album": {
+      "name": "Fake",
+      "link": "https://music.163.com/album?id=96305776"
+    }
+  },
+  {
+    "name": "Lumina",
+    "link": "https://music.163.com/song?id=1395977748",
+    "duration": "03:37",
+    "artists": [
+      { "name": "Wisp X", "link": "https://music.163.com/artist?id=1046123" },
+      { "name": "Xomu", "link": "https://music.163.com/artist?id=12903205" }
+    ],
+    "album": {
+      "name": "Lumina",
+      "link": "https://music.163.com/album?id=82263060"
+    }
+  },
+  {
+    "name": "Dancing in the Moonlight",
+    "link": "https://music.163.com/song?id=564094072",
+    "duration": "02:44",
+    "artists": [
+      { "name": "NEIMY", "link": "https://music.163.com/artist?id=12742289" },
+      { "name": "Jubël", "link": "https://music.163.com/artist?id=12312412" }
+    ],
+    "album": {
+      "name": "Dancing in the Moonlight",
+      "link": "https://music.163.com/album?id=39095125"
+    }
+  },
+  {
+    "name": "Ceasefire",
+    "link": "https://music.163.com/song?id=484314490",
+    "duration": "03:18",
+    "artists": [
+      { "name": "BEAUZ", "link": "https://music.163.com/artist?id=12131436" },
+      {
+        "name": "Luke Anders",
+        "link": "https://music.163.com/artist?id=12154153"
+      },
+      {
+        "name": "Ducka Shan",
+        "link": "https://music.163.com/artist?id=12176308"
+      },
+      {
+        "name": "Becca Krueger",
+        "link": "https://music.163.com/artist?id=12948098"
+      },
+      { "name": "Eliason", "link": "https://music.163.com/artist?id=12370189" }
+    ],
+    "album": {
+      "name": "Ceasefire",
+      "link": "https://music.163.com/album?id=35622427"
+    }
+  },
+  {
+    "name": "Binx",
+    "link": "https://music.163.com/song?id=1325670015",
+    "duration": "03:56",
+    "artists": [
+      { "name": "obylx", "link": "https://music.163.com/artist?id=29280828" }
+    ],
+    "album": {
+      "name": "Once",
+      "link": "https://music.163.com/album?id=74426272"
+    }
+  },
+  {
+    "name": "Technicolor",
+    "link": "https://music.163.com/song?id=1387099043",
+    "duration": "03:19",
+    "artists": [
+      {
+        "name": "EMMA WAHLIN",
+        "link": "https://music.163.com/artist?id=29426733"
+      }
+    ],
+    "album": {
+      "name": "Technicolor",
+      "link": "https://music.163.com/album?id=81208621"
+    }
+  },
+  {
+    "name": "No Scrubs",
+    "link": "https://music.163.com/song?id=490602367",
+    "duration": "03:21",
+    "artists": [
+      {
+        "name": "Unlike Pluto",
+        "link": "https://music.163.com/artist?id=860945"
+      },
+      {
+        "name": "Joanna Jones",
+        "link": "https://music.163.com/artist?id=13932656"
+      }
+    ],
+    "album": {
+      "name": "Let It Bleed",
+      "link": "https://music.163.com/album?id=35834490"
+    }
+  },
+  {
+    "name": "Cool",
+    "link": "https://music.163.com/song?id=1348853398",
+    "duration": "03:20",
+    "artists": [
+      {
+        "name": "Katelyn Tarver",
+        "link": "https://music.163.com/artist?id=63875"
+      }
+    ],
+    "album": {
+      "name": "Cool",
+      "link": "https://music.163.com/album?id=75722689"
+    }
+  },
+  {
+    "name": "Save Myself",
+    "link": "https://music.163.com/song?id=1463383559",
+    "duration": "03:44",
+    "artists": [
+      { "name": "Ashe", "link": "https://music.163.com/artist?id=12278097" }
+    ],
+    "album": {
+      "name": "Save Myself",
+      "link": "https://music.163.com/album?id=92565258"
+    }
+  },
+  {
+    "name": "Taegu (Full Version)",
+    "link": "https://music.163.com/song?id=1366570700",
+    "duration": "03:31",
+    "artists": [
+      { "name": "Andreas B.", "link": "https://music.163.com/artist?id=299713" }
+    ],
+    "album": {
+      "name": "Taegu (Full Version)",
+      "link": "https://music.163.com/album?id=79265927"
+    }
+  },
+  {
+    "name": "Keep Me",
+    "link": "https://music.163.com/song?id=1451335148",
+    "duration": "03:14",
+    "artists": [
+      { "name": "Novo Amor", "link": "https://music.163.com/artist?id=904041" }
+    ],
+    "album": {
+      "name": "Cannot Be, Whatsoever",
+      "link": "https://music.163.com/album?id=90028005"
+    }
+  },
+  {
+    "name": "Que Sera",
+    "link": "https://music.163.com/song?id=28546410",
+    "duration": "03:30",
+    "artists": [
+      {
+        "name": "Justice Crew",
+        "link": "https://music.163.com/artist?id=95133"
+      }
+    ],
+    "album": {
+      "name": "Que Sera",
+      "link": "https://music.163.com/album?id=2834086"
+    }
+  },
+  {
+    "name": "Such Words (Acoustic)",
+    "link": "https://music.163.com/song?id=1412248297",
+    "duration": "03:23",
+    "artists": [
+      {
+        "name": "Ghostly Kisses",
+        "link": "https://music.163.com/artist?id=1087366"
+      }
+    ],
+    "album": {
+      "name": "Alone Together",
+      "link": "https://music.163.com/album?id=84390740"
+    }
+  },
+  {
+    "name": "Too Late (feat. Wiz Khalifa & Lukas Graham)",
+    "link": "https://music.163.com/song?id=1820888368",
+    "duration": "03:13",
+    "artists": [
+      { "name": "Cash Cash", "link": "https://music.163.com/artist?id=50905" },
+      {
+        "name": "Wiz Khalifa",
+        "link": "https://music.163.com/artist?id=46006"
+      },
+      {
+        "name": "Lukas Graham",
+        "link": "https://music.163.com/artist?id=38797"
+      }
+    ],
+    "album": {
+      "name": "Too Late (feat. Wiz Khalifa & Lukas Graham)",
+      "link": "https://music.163.com/album?id=123151734"
+    }
+  },
+  {
+    "name": "Mai Tais",
+    "link": "https://music.163.com/song?id=1403334556",
+    "duration": "03:44",
+    "artists": [
+      { "name": "Train", "link": "https://music.163.com/artist?id=44343" },
+      { "name": "Skylar Grey", "link": "https://music.163.com/artist?id=74801" }
+    ],
+    "album": {
+      "name": "Mai Tais",
+      "link": "https://music.163.com/album?id=83307447"
+    }
+  },
+  {
+    "name": "Better Than a Fairy Tale",
+    "link": "https://music.163.com/song?id=1423305",
+    "duration": "03:37",
+    "artists": [
+      { "name": "Galen Crew", "link": "https://music.163.com/artist?id=34435" }
+    ],
+    "album": {
+      "name": "Better Than a Fairy Tale",
+      "link": "https://music.163.com/album?id=145852"
+    }
+  },
+  {
+    "name": "I Like (the idea of) You",
+    "link": "https://music.163.com/song?id=1356672836",
+    "duration": "02:48",
+    "artists": [
+      {
+        "name": "Tessa Violet",
+        "link": "https://music.163.com/artist?id=897075"
+      }
+    ],
+    "album": {
+      "name": "I Like (the idea of) You",
+      "link": "https://music.163.com/album?id=78334566"
+    }
+  },
+  {
+    "name": "CHINA-2",
+    "link": "https://music.163.com/song?id=548633609",
+    "duration": "03:22",
+    "artists": [
+      { "name": "Sand", "link": "https://music.163.com/artist?id=12271965" }
+    ],
+    "album": {
+      "name": "【EDM】CHINA（中国风电音）",
+      "link": "https://music.163.com/album?id=38034650"
+    }
+  },
+  {
+    "name": "Vincent",
+    "link": "https://music.163.com/song?id=16951468",
+    "duration": "04:19",
+    "artists": [
+      {
+        "name": "Charlie Landsborough",
+        "link": "https://music.163.com/artist?id=29981"
+      }
+    ],
+    "album": {
+      "name": "Love, In A Song",
+      "link": "https://music.163.com/album?id=1562140"
+    }
+  },
+  {
+    "name": "Sustain",
+    "link": "https://music.163.com/song?id=1363781679",
+    "duration": "04:03",
+    "artists": [
+      { "name": "Beatsound", "link": "https://music.163.com/artist?id=2104" }
+    ],
+    "album": { "name": "Vol.1", "link": "https://music.163.com/album?id=6284" }
+  },
+  {
+    "name": "Deine Waffe ist die Liebe",
+    "link": "https://music.163.com/song?id=28367987",
+    "duration": "05:12",
+    "artists": [
+      {
+        "name": "Söhne Mannheims",
+        "link": "https://music.163.com/artist?id=77723"
+      }
+    ],
+    "album": {
+      "name": "ElyZion",
+      "link": "https://music.163.com/album?id=2780207"
+    }
+  },
+  {
+    "name": "Mass (Re-Imagined)",
+    "link": "https://music.163.com/song?id=543310587",
+    "duration": "03:32",
+    "artists": [
+      { "name": "Phoria", "link": "https://music.163.com/artist?id=758227" },
+      {
+        "name": "Trewin Howard, Edward Sanderson, James Cheeseman, Tim Douglas, Seryn Burden",
+        "link": "https://music.163.com/artist?id=29735835"
+      }
+    ],
+    "album": {
+      "name": "Mass (Re-Imagined)",
+      "link": "https://music.163.com/album?id=37853241"
+    }
+  },
+  {
+    "name": "Love Yourself",
+    "link": "https://music.163.com/song?id=1830624838",
+    "duration": "03:52",
+    "artists": [
+      {
+        "name": "Justin Bieber",
+        "link": "https://music.163.com/artist?id=35531"
+      }
+    ],
+    "album": {
+      "name": "SEXY MUSIC MIX",
+      "link": "https://music.163.com/album?id=124744220"
+    }
+  }
+]

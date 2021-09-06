@@ -1,0 +1,457 @@
+[
+  {
+    "name": "Back to the Start",
+    "link": "https://music.163.com/song?id=1337949941",
+    "duration": "03:13",
+    "artists": [
+      {
+        "name": "Michael Schulte",
+        "link": "https://music.163.com/artist?id=40222"
+      }
+    ],
+    "album": {
+      "name": "Back to the Start",
+      "link": "https://music.163.com/album?id=75071532"
+    }
+  },
+  {
+    "name": "L.I.F.E.",
+    "link": "https://music.163.com/song?id=439037024",
+    "duration": "02:59",
+    "artists": [
+      { "name": "Remady", "link": "https://music.163.com/artist?id=42785" },
+      { "name": "Manu-L", "link": "https://music.163.com/artist?id=412923" }
+    ],
+    "album": {
+      "name": "L.I.F.E.",
+      "link": "https://music.163.com/album?id=34970029"
+    }
+  },
+  {
+    "name": "All In My Head",
+    "link": "https://music.163.com/song?id=34923725",
+    "duration": "04:43",
+    "artists": [
+      { "name": "Nadia Ali", "link": "https://music.163.com/artist?id=70174" },
+      { "name": "PANG!", "link": "https://music.163.com/artist?id=367927" }
+    ],
+    "album": {
+      "name": "All In My Head",
+      "link": "https://music.163.com/album?id=3306245"
+    }
+  },
+  {
+    "name": "What if She Knows",
+    "link": "https://music.163.com/song?id=554375621",
+    "duration": "02:48",
+    "artists": [
+      { "name": "Severo", "link": "https://music.163.com/artist?id=1115077" },
+      { "name": "Linn", "link": "https://music.163.com/artist?id=215537" },
+      { "name": "Ellusive", "link": "https://music.163.com/artist?id=792170" }
+    ],
+    "album": {
+      "name": "What if She Knows",
+      "link": "https://music.163.com/album?id=38435988"
+    }
+  },
+  {
+    "name": "Tell Me Who",
+    "link": "https://music.163.com/song?id=521954931",
+    "duration": "03:21",
+    "artists": [
+      { "name": "Vanotek", "link": "https://music.163.com/artist?id=1081048" },
+      { "name": "Eneli", "link": "https://music.163.com/artist?id=12834607" }
+    ],
+    "album": {
+      "name": "No Sleep",
+      "link": "https://music.163.com/album?id=36885733"
+    }
+  },
+  {
+    "name": "Run With Me (Original mix)",
+    "link": "https://music.163.com/song?id=514121384",
+    "duration": "06:31",
+    "artists": [
+      {
+        "name": "New Horizons",
+        "link": "https://music.163.com/artist?id=70040"
+      }
+    ],
+    "album": {
+      "name": "Just Breathe / Run With Me",
+      "link": "https://music.163.com/album?id=36637361"
+    }
+  },
+  {
+    "name": "Cinderella",
+    "link": "https://music.163.com/song?id=1325880634",
+    "duration": "02:35",
+    "artists": [
+      { "name": "JANEE", "link": "https://music.163.com/artist?id=12274245" },
+      { "name": "Idyl", "link": "https://music.163.com/artist?id=13222294" }
+    ],
+    "album": {
+      "name": "Cinderella",
+      "link": "https://music.163.com/album?id=74434565"
+    }
+  },
+  {
+    "name": "Lost",
+    "link": "https://music.163.com/song?id=434974445",
+    "duration": "02:11",
+    "artists": [
+      { "name": "AK", "link": "https://music.163.com/artist?id=1192509" },
+      {
+        "name": "Max Futura",
+        "link": "https://music.163.com/artist?id=30186613"
+      }
+    ],
+    "album": {
+      "name": "Sketches",
+      "link": "https://music.163.com/album?id=34906335"
+    }
+  },
+  {
+    "name": "Way Back",
+    "link": "https://music.163.com/song?id=543987451",
+    "duration": "03:28",
+    "artists": [
+      { "name": "Vicetone", "link": "https://music.163.com/artist?id=747030" },
+      {
+        "name": "Cozi Zuehlsdorff",
+        "link": "https://music.163.com/artist?id=1097153"
+      }
+    ],
+    "album": {
+      "name": "Way Back",
+      "link": "https://music.163.com/album?id=37888075"
+    }
+  },
+  {
+    "name": "I Know You Care",
+    "link": "https://music.163.com/song?id=518077130",
+    "duration": "03:22",
+    "artists": [
+      { "name": "Ella Vos", "link": "https://music.163.com/artist?id=12121298" }
+    ],
+    "album": {
+      "name": "Words I Never Said",
+      "link": "https://music.163.com/album?id=36814173"
+    }
+  },
+  {
+    "name": "Ohlala",
+    "link": "https://music.163.com/song?id=540333226",
+    "duration": "03:01",
+    "artists": [
+      { "name": "Mr. DA-NOS", "link": "https://music.163.com/artist?id=544019" }
+    ],
+    "album": {
+      "name": "Ohlala",
+      "link": "https://music.163.com/album?id=37561769"
+    }
+  },
+  {
+    "name": "Mad Love",
+    "link": "https://music.163.com/song?id=1320270041",
+    "duration": "03:11",
+    "artists": [
+      { "name": "MOTI", "link": "https://music.163.com/artist?id=366384" },
+      { "name": "Vigiland", "link": "https://music.163.com/artist?id=1046407" }
+    ],
+    "album": {
+      "name": "Mad Love",
+      "link": "https://music.163.com/album?id=74080381"
+    }
+  },
+  {
+    "name": "Running To You",
+    "link": "https://music.163.com/song?id=1324013209",
+    "duration": "05:00",
+    "artists": [
+      { "name": "SLANDER", "link": "https://music.163.com/artist?id=1137239" },
+      {
+        "name": "Spag Heddy",
+        "link": "https://music.163.com/artist?id=384815"
+      },
+      { "name": "Elle Vee", "link": "https://music.163.com/artist?id=1046258" }
+    ],
+    "album": {
+      "name": "Running To You",
+      "link": "https://music.163.com/album?id=74322654"
+    }
+  },
+  {
+    "name": "Dust",
+    "link": "https://music.163.com/song?id=414980073",
+    "duration": "03:27",
+    "artists": [
+      {
+        "name": "Dave Erpson",
+        "link": "https://music.163.com/artist?id=12031055"
+      }
+    ],
+    "album": {
+      "name": "Dust",
+      "link": "https://music.163.com/album?id=34721023"
+    }
+  },
+  {
+    "name": "One More Day (Nicky Romero Remix)",
+    "link": "https://music.163.com/song?id=571338342",
+    "duration": "04:00",
+    "artists": [
+      {
+        "name": "Nicky Romero",
+        "link": "https://music.163.com/artist?id=195142"
+      },
+      { "name": "Afrojack", "link": "https://music.163.com/artist?id=28745" },
+      {
+        "name": "Jewelz & Sparks",
+        "link": "https://music.163.com/artist?id=947051"
+      }
+    ],
+    "album": {
+      "name": "One More Day (Nicky Romero Remix)",
+      "link": "https://music.163.com/album?id=39591108"
+    }
+  },
+  {
+    "name": "You",
+    "link": "https://music.163.com/song?id=35955554",
+    "duration": "03:33",
+    "artists": [
+      {
+        "name": "Lost Kings",
+        "link": "https://music.163.com/artist?id=847225"
+      },
+      {
+        "name": "Katelyn Tarver",
+        "link": "https://music.163.com/artist?id=63875"
+      }
+    ],
+    "album": {
+      "name": "The Bad",
+      "link": "https://music.163.com/album?id=3377278"
+    }
+  },
+  {
+    "name": "Still Some Love",
+    "link": "https://music.163.com/song?id=556053562",
+    "duration": "03:00",
+    "artists": [
+      { "name": "Holsöe", "link": "https://music.163.com/artist?id=13707491" },
+      { "name": "David West", "link": "https://music.163.com/artist?id=31673" }
+    ],
+    "album": {
+      "name": "Still Some Love",
+      "link": "https://music.163.com/album?id=38519194"
+    }
+  },
+  {
+    "name": "Unique",
+    "link": "https://music.163.com/song?id=423228334",
+    "duration": "03:14",
+    "artists": [
+      {
+        "name": "Headhunterz",
+        "link": "https://music.163.com/artist?id=34940"
+      },
+      { "name": "Conro", "link": "https://music.163.com/artist?id=1063229" },
+      { "name": "Clara Mae", "link": "https://music.163.com/artist?id=1088118" }
+    ],
+    "album": {
+      "name": "Unique",
+      "link": "https://music.163.com/album?id=34796277"
+    }
+  },
+  {
+    "name": "The Other",
+    "link": "https://music.163.com/song?id=31273503",
+    "duration": "03:09",
+    "artists": [
+      { "name": "Lauv", "link": "https://music.163.com/artist?id=1057226" }
+    ],
+    "album": {
+      "name": "The Other",
+      "link": "https://music.163.com/album?id=3115717"
+    }
+  },
+  {
+    "name": "Don't Speak",
+    "link": "https://music.163.com/song?id=505828528",
+    "duration": "03:27",
+    "artists": [
+      {
+        "name": "Eastblock Bitches",
+        "link": "https://music.163.com/artist?id=12389024"
+      }
+    ],
+    "album": {
+      "name": "Don't Speak",
+      "link": "https://music.163.com/album?id=36169243"
+    }
+  },
+  {
+    "name": "all the kids are depressed",
+    "link": "https://music.163.com/song?id=550654609",
+    "duration": "02:49",
+    "artists": [
+      {
+        "name": "Jeremy Zucker",
+        "link": "https://music.163.com/artist?id=12096183"
+      }
+    ],
+    "album": {
+      "name": "all the kids are depressed",
+      "link": "https://music.163.com/album?id=38227223"
+    }
+  },
+  {
+    "name": "Castaway",
+    "link": "https://music.163.com/song?id=524148429",
+    "duration": "03:46",
+    "artists": [
+      { "name": "LU2VYK", "link": "https://music.163.com/artist?id=12356140" },
+      { "name": "River", "link": "https://music.163.com/artist?id=74451" }
+    ],
+    "album": {
+      "name": "Castaway",
+      "link": "https://music.163.com/album?id=36978142"
+    }
+  },
+  {
+    "name": "Days To Come (CMA Remix)",
+    "link": "https://music.163.com/song?id=550124213",
+    "duration": "04:30",
+    "artists": [
+      { "name": "CMA", "link": "https://music.163.com/artist?id=300739" },
+      {
+        "name": "Seven Lions",
+        "link": "https://music.163.com/artist?id=44204"
+      },
+      { "name": "Fiora", "link": "https://music.163.com/artist?id=13057154" }
+    ],
+    "album": {
+      "name": "Days To Come (CMA Remix)",
+      "link": "https://music.163.com/album?id=38226057"
+    }
+  },
+  {
+    "name": "Apologize (OutaMatic Remix)",
+    "link": "https://music.163.com/song?id=409647285",
+    "duration": "03:48",
+    "artists": [
+      {
+        "name": "OutaMatic",
+        "link": "https://music.163.com/artist?id=1181741"
+      },
+      { "name": "Timbaland", "link": "https://music.163.com/artist?id=44263" },
+      { "name": "OneRepublic", "link": "https://music.163.com/artist?id=98105" }
+    ],
+    "album": {
+      "name": "Apologize (OutaMatic Remix)",
+      "link": "https://music.163.com/album?id=34611127"
+    }
+  },
+  {
+    "name": "Start It Again (Radio Edit)",
+    "link": "https://music.163.com/song?id=38019401",
+    "duration": "03:13",
+    "artists": [
+      {
+        "name": "Sergio Mauri",
+        "link": "https://music.163.com/artist?id=210190"
+      }
+    ],
+    "album": {
+      "name": "Start It Again",
+      "link": "https://music.163.com/album?id=3427094"
+    }
+  },
+  {
+    "name": "What It Looks Like (Original Mix)",
+    "link": "https://music.163.com/song?id=470573583",
+    "duration": "03:16",
+    "artists": [
+      {
+        "name": "Daniel Garrick",
+        "link": "https://music.163.com/artist?id=1163065"
+      },
+      { "name": "Karra", "link": "https://music.163.com/artist?id=1081582" }
+    ],
+    "album": {
+      "name": "What It Looks Like",
+      "link": "https://music.163.com/album?id=35347092"
+    }
+  },
+  {
+    "name": "Wasting Moonlight (Radio Edit)",
+    "link": "https://music.163.com/song?id=28815770",
+    "duration": "03:25",
+    "artists": [
+      {
+        "name": "Sick Individuals",
+        "link": "https://music.163.com/artist?id=379612"
+      }
+    ],
+    "album": {
+      "name": "Wasting Moonlight (Radio Edit)",
+      "link": "https://music.163.com/album?id=2897317"
+    }
+  },
+  {
+    "name": "Time Stands Still",
+    "link": "https://music.163.com/song?id=425295761",
+    "duration": "04:02",
+    "artists": [
+      {
+        "name": "Sappheiros",
+        "link": "https://music.163.com/artist?id=11995187"
+      }
+    ],
+    "album": {
+      "name": "Time Stands Still",
+      "link": "https://music.163.com/album?id=34817481"
+    }
+  },
+  {
+    "name": "Tremors",
+    "link": "https://music.163.com/song?id=429482824",
+    "duration": "02:03",
+    "artists": [
+      { "name": "Joe Lyons", "link": "https://music.163.com/artist?id=498067" }
+    ],
+    "album": {
+      "name": "Tremors",
+      "link": "https://music.163.com/album?id=34874046"
+    }
+  },
+  {
+    "name": "Geometrix (Album Mix)",
+    "link": "https://music.163.com/song?id=28773349",
+    "duration": "05:36",
+    "artists": [
+      {
+        "name": "Ferry Tayle",
+        "link": "https://music.163.com/artist?id=191818"
+      }
+    ],
+    "album": {
+      "name": "The Wizard",
+      "link": "https://music.163.com/album?id=2891198"
+    }
+  },
+  {
+    "name": "Abandoned",
+    "link": "https://music.163.com/song?id=38019035",
+    "duration": "03:04",
+    "artists": [
+      { "name": "Resonance", "link": "https://music.163.com/artist?id=196588" }
+    ],
+    "album": {
+      "name": "Abandoned",
+      "link": "https://music.163.com/album?id=3427011"
+    }
+  }
+]

@@ -1,0 +1,471 @@
+[
+  {
+    "name": "那年夏天，阳光正好",
+    "link": "https://music.163.com/song?id=428391474",
+    "duration": "02:23",
+    "artists": [
+      { "name": "忘乡", "link": "https://music.163.com/artist?id=12002038" }
+    ],
+    "album": {
+      "name": "那年夏天，阳光正好",
+      "link": "https://music.163.com/album?id=34865225"
+    }
+  },
+  {
+    "name": "Lost In Dreamland",
+    "link": "https://music.163.com/song?id=513049107",
+    "duration": "03:45",
+    "artists": [
+      { "name": "MoreanP", "link": "https://music.163.com/artist?id=12275337" }
+    ],
+    "album": {
+      "name": "Lost In Dreamland",
+      "link": "https://music.163.com/album?id=36569235"
+    }
+  },
+  {
+    "name": "鱼骨草",
+    "link": "https://music.163.com/song?id=559326534",
+    "duration": "03:16",
+    "artists": [
+      { "name": "鱼九", "link": "https://music.163.com/artist?id=12442396" }
+    ],
+    "album": {
+      "name": "黄梅时节",
+      "link": "https://music.163.com/album?id=35548932"
+    }
+  },
+  {
+    "name": "Kitty",
+    "link": "https://music.163.com/song?id=474022209",
+    "duration": "04:39",
+    "artists": [
+      { "name": "SimorE", "link": "https://music.163.com/artist?id=1203059" }
+    ],
+    "album": {
+      "name": "Kitty",
+      "link": "https://music.163.com/album?id=35383898"
+    }
+  },
+  {
+    "name": "Keep Going - 继续前行",
+    "link": "https://music.163.com/song?id=499966974",
+    "duration": "03:18",
+    "artists": [
+      {
+        "name": "ChakYoun9",
+        "link": "https://music.163.com/artist?id=12094429"
+      }
+    ],
+    "album": {
+      "name": "Keep Going - 继续前行",
+      "link": "https://music.163.com/album?id=35967872"
+    }
+  },
+  {
+    "name": "Closer (LIONE Remix)",
+    "link": "https://music.163.com/song?id=446732234",
+    "duration": "04:45",
+    "artists": [
+      { "name": "LIONE", "link": "https://music.163.com/artist?id=11986064" },
+      {
+        "name": "The Chainsmokers",
+        "link": "https://music.163.com/artist?id=893484"
+      },
+      { "name": "Halsey", "link": "https://music.163.com/artist?id=964321" }
+    ],
+    "album": {
+      "name": "Closer (LIONE Remix)",
+      "link": "https://music.163.com/album?id=35044528"
+    }
+  },
+  {
+    "name": "Search",
+    "link": "https://music.163.com/song?id=30251252",
+    "duration": "04:53",
+    "artists": [
+      {
+        "name": "Approaching Nirvana",
+        "link": "https://music.163.com/artist?id=86884"
+      }
+    ],
+    "album": {
+      "name": "Reboot",
+      "link": "https://music.163.com/album?id=3095022"
+    }
+  },
+  {
+    "name": "Home",
+    "link": "https://music.163.com/song?id=1347227967",
+    "duration": "04:23",
+    "artists": [
+      { "name": "Dabin", "link": "https://music.163.com/artist?id=783446" },
+      { "name": "Essenger", "link": "https://music.163.com/artist?id=31400823" }
+    ],
+    "album": {
+      "name": "Wild Youth",
+      "link": "https://music.163.com/album?id=75638746"
+    }
+  },
+  {
+    "name": "SuMmeR",
+    "link": "https://music.163.com/song?id=39324020",
+    "duration": "03:53",
+    "artists": [
+      {
+        "name": "Marshmello",
+        "link": "https://music.163.com/artist?id=1060019"
+      }
+    ],
+    "album": {
+      "name": "SuMmeR",
+      "link": "https://music.163.com/album?id=3426788"
+    }
+  },
+  {
+    "name": "Champagne",
+    "link": "https://music.163.com/song?id=563733684",
+    "duration": "03:53",
+    "artists": [
+      {
+        "name": "Lia Marie Johnson",
+        "link": "https://music.163.com/artist?id=1046198"
+      }
+    ],
+    "album": {
+      "name": "Champagne",
+      "link": "https://music.163.com/album?id=39070129"
+    }
+  },
+  {
+    "name": "If It Hurts",
+    "link": "https://music.163.com/song?id=1328289001",
+    "duration": "03:35",
+    "artists": [
+      { "name": "FRND", "link": "https://music.163.com/artist?id=12107565" }
+    ],
+    "album": {
+      "name": "Before U I Didn't Exist",
+      "link": "https://music.163.com/album?id=74585433"
+    }
+  },
+  {
+    "name": "Eventide",
+    "link": "https://music.163.com/song?id=1415341995",
+    "duration": "02:54",
+    "artists": [
+      { "name": "Nyte", "link": "https://music.163.com/artist?id=1034003" }
+    ],
+    "album": {
+      "name": "Eventide",
+      "link": "https://music.163.com/album?id=84852249"
+    }
+  },
+  {
+    "name": "Good Together (Acoustic)",
+    "link": "https://music.163.com/song?id=528272458",
+    "duration": "03:30",
+    "artists": [
+      {
+        "name": "SHY Martin",
+        "link": "https://music.163.com/artist?id=12354062"
+      }
+    ],
+    "album": {
+      "name": "Good Together (Acoustic)",
+      "link": "https://music.163.com/album?id=37179196"
+    }
+  },
+  {
+    "name": "Anything Can Happen",
+    "link": "https://music.163.com/song?id=556066057",
+    "duration": "02:53",
+    "artists": [
+      { "name": "Maika", "link": "https://music.163.com/artist?id=218654" },
+      {
+        "name": "Tim Legend",
+        "link": "https://music.163.com/artist?id=12006158"
+      }
+    ],
+    "album": {
+      "name": "Anything Can Happen",
+      "link": "https://music.163.com/album?id=38519273"
+    }
+  },
+  {
+    "name": "Face Down (Original Mix)",
+    "link": "https://music.163.com/song?id=29491727",
+    "duration": "04:02",
+    "artists": [
+      { "name": "Feint", "link": "https://music.163.com/artist?id=93062" }
+    ],
+    "album": {
+      "name": "Voyage",
+      "link": "https://music.163.com/album?id=3034069"
+    }
+  },
+  {
+    "name": "旋律之森",
+    "link": "https://music.163.com/song?id=470975897",
+    "duration": "03:41",
+    "artists": [
+      { "name": "Thunse", "link": "https://music.163.com/artist?id=1081769" }
+    ],
+    "album": {
+      "name": "旋律森林",
+      "link": "https://music.163.com/album?id=35353084"
+    }
+  },
+  {
+    "name": "Fix The Broken (Chill Out Mix)",
+    "link": "https://music.163.com/song?id=27550478",
+    "duration": "04:29",
+    "artists": [
+      {
+        "name": "Masoud feat. Nicole McKenna",
+        "link": "https://music.163.com/artist?id=30020043"
+      }
+    ],
+    "album": {
+      "name": "Balearic Chill Sounds 2013",
+      "link": "https://music.163.com/album?id=2631731"
+    }
+  },
+  {
+    "name": "There x2",
+    "link": "https://music.163.com/song?id=534539187",
+    "duration": "03:50",
+    "artists": [
+      { "name": "Slushii", "link": "https://music.163.com/artist?id=1193232" },
+      {
+        "name": "Marshmello",
+        "link": "https://music.163.com/artist?id=1060019"
+      }
+    ],
+    "album": {
+      "name": "There x2",
+      "link": "https://music.163.com/album?id=37466080"
+    }
+  },
+  {
+    "name": "Polaris (NGC 3.14 Remix)",
+    "link": "https://music.163.com/song?id=404182475",
+    "duration": "05:30",
+    "artists": [
+      { "name": "NGC 3.14", "link": "https://music.163.com/artist?id=1135199" },
+      {
+        "name": "Jun Kuroda",
+        "link": "https://music.163.com/artist?id=1147148"
+      }
+    ],
+    "album": {
+      "name": "Polaris (NGC 3.14 Remix)",
+      "link": "https://music.163.com/album?id=34503156"
+    }
+  },
+  {
+    "name": "Technicolour Beat",
+    "link": "https://music.163.com/song?id=34383456",
+    "duration": "03:00",
+    "artists": [
+      { "name": "Oh Wonder", "link": "https://music.163.com/artist?id=1050128" }
+    ],
+    "album": {
+      "name": "Oh Wonder",
+      "link": "https://music.163.com/album?id=3285091"
+    }
+  },
+  {
+    "name": "Trouble (Mike Williams Remix)",
+    "link": "https://music.163.com/song?id=487375361",
+    "duration": "03:36",
+    "artists": [
+      {
+        "name": "Mike Williams",
+        "link": "https://music.163.com/artist?id=302020"
+      },
+      { "name": "VÉRITÉ", "link": "https://music.163.com/artist?id=963498" },
+      { "name": "R3hab", "link": "https://music.163.com/artist?id=197248" }
+    ],
+    "album": {
+      "name": "Trouble (Mike Williams Remix)",
+      "link": "https://music.163.com/album?id=35688344"
+    }
+  },
+  {
+    "name": "Vibe",
+    "link": "https://music.163.com/song?id=533017528",
+    "duration": "03:18",
+    "artists": [
+      {
+        "name": "Fly by Midnight",
+        "link": "https://music.163.com/artist?id=1163027"
+      }
+    ],
+    "album": {
+      "name": "Vibe",
+      "link": "https://music.163.com/album?id=37391205"
+    }
+  },
+  {
+    "name": "Trouble I'm In",
+    "link": "https://music.163.com/song?id=29797698",
+    "duration": "03:20",
+    "artists": [
+      { "name": "Twinbed", "link": "https://music.163.com/artist?id=1033030" }
+    ],
+    "album": {
+      "name": "In Your Eyes (Original Motion Picture Soundtrack)",
+      "link": "https://music.163.com/album?id=3077979"
+    }
+  },
+  {
+    "name": "Get Stüpid",
+    "link": "https://music.163.com/song?id=1356668705",
+    "duration": "02:52",
+    "artists": [
+      { "name": "Bülow", "link": "https://music.163.com/artist?id=12809019" }
+    ],
+    "album": {
+      "name": "Crystalline",
+      "link": "https://music.163.com/album?id=78334140"
+    }
+  },
+  {
+    "name": "再次相遇",
+    "link": "https://music.163.com/song?id=1297688373",
+    "duration": "03:47",
+    "artists": [
+      {
+        "name": "清风最梦",
+        "link": "https://music.163.com/artist?id=28300845"
+      },
+      { "name": "洛天依", "link": "https://music.163.com/artist?id=906118" }
+    ],
+    "album": {
+      "name": "再次相遇",
+      "link": "https://music.163.com/album?id=72059712"
+    }
+  },
+  {
+    "name": "starlight",
+    "link": "https://music.163.com/song?id=1377061819",
+    "duration": "04:17",
+    "artists": [
+      { "name": "洛天依", "link": "https://music.163.com/artist?id=906118" }
+    ],
+    "album": {
+      "name": "starlight",
+      "link": "https://music.163.com/album?id=80313496"
+    }
+  },
+  {
+    "name": "Paradisus-Paradoxum (Wisp X Remix)",
+    "link": "https://music.163.com/song?id=432506297",
+    "duration": "03:17",
+    "artists": [
+      { "name": "Wisp X", "link": "https://music.163.com/artist?id=1046123" },
+      {
+        "name": "MYTH & ROID",
+        "link": "https://music.163.com/artist?id=1137126"
+      }
+    ],
+    "album": {
+      "name": "Paradisus-Paradoxum (Wisp X Remix)",
+      "link": "https://music.163.com/album?id=34898285"
+    }
+  },
+  {
+    "name": "Believer",
+    "link": "https://music.163.com/song?id=1338149101",
+    "duration": "03:39",
+    "artists": [
+      {
+        "name": "Imagine Dragons",
+        "link": "https://music.163.com/artist?id=94779"
+      },
+      { "name": "Lil Wayne", "link": "https://music.163.com/artist?id=38118" }
+    ],
+    "album": {
+      "name": "Believer",
+      "link": "https://music.163.com/album?id=75082998"
+    }
+  },
+  {
+    "name": "Diver",
+    "link": "https://music.163.com/song?id=1371335484",
+    "duration": "07:20",
+    "artists": [
+      {
+        "name": "Blood Groove & Kikis",
+        "link": "https://music.163.com/artist?id=311599"
+      }
+    ],
+    "album": {
+      "name": "Special 5th Year Anniversary, Pt. 3",
+      "link": "https://music.163.com/album?id=79752643"
+    }
+  },
+  {
+    "name": "Señorita",
+    "link": "https://music.163.com/song?id=1373168742",
+    "duration": "03:11",
+    "artists": [
+      {
+        "name": "Shawn Mendes",
+        "link": "https://music.163.com/artist?id=956238"
+      },
+      {
+        "name": "Camila Cabello",
+        "link": "https://music.163.com/artist?id=12136039"
+      }
+    ],
+    "album": {
+      "name": "Señorita",
+      "link": "https://music.163.com/album?id=79920102"
+    }
+  },
+  {
+    "name": "The Spectre",
+    "link": "https://music.163.com/song?id=506092035",
+    "duration": "03:13",
+    "artists": [
+      {
+        "name": "Alan Walker",
+        "link": "https://music.163.com/artist?id=1045123"
+      }
+    ],
+    "album": {
+      "name": "The Spectre",
+      "link": "https://music.163.com/album?id=36224021"
+    }
+  },
+  {
+    "name": "Remember (Mood II Swing Remix)",
+    "link": "https://music.163.com/song?id=32299820",
+    "duration": "07:36",
+    "artists": [
+      { "name": "BT", "link": "https://music.163.com/artist?id=29347" }
+    ],
+    "album": {
+      "name": "Defected In The House Ibiza 2015",
+      "link": "https://music.163.com/album?id=3156979"
+    }
+  },
+  {
+    "name": "Stay With You",
+    "link": "https://music.163.com/song?id=480524523",
+    "duration": "03:30",
+    "artists": [
+      {
+        "name": "Cheat Codes",
+        "link": "https://music.163.com/artist?id=1078252"
+      },
+      { "name": "CADE", "link": "https://music.163.com/artist?id=12069101" }
+    ],
+    "album": {
+      "name": "Stay With You",
+      "link": "https://music.163.com/album?id=35550438"
+    }
+  }
+]

@@ -1,0 +1,551 @@
+[
+  {
+    "name": "Waiting",
+    "link": "https://music.163.com/song?id=1397701756",
+    "duration": "03:25",
+    "artists": [
+      { "name": "Vicetone", "link": "https://music.163.com/artist?id=747030" },
+      {
+        "name": "Daisy Guttridge",
+        "link": "https://music.163.com/artist?id=13222414"
+      },
+      {
+        "name": "Eric Leva",
+        "link": "https://music.163.com/artist?id=14269985"
+      }
+    ],
+    "album": {
+      "name": "Monstercat Instinct Vol. 4",
+      "link": "https://music.163.com/album?id=82525503"
+    }
+  },
+  {
+    "name": "Outbreak",
+    "link": "https://music.163.com/song?id=487192323",
+    "duration": "03:52",
+    "artists": [
+      { "name": "Feint", "link": "https://music.163.com/artist?id=93062" },
+      { "name": "MYLK", "link": "https://music.163.com/artist?id=12046352" }
+    ],
+    "album": {
+      "name": "Rocket League x Monstercat Vol. 1",
+      "link": "https://music.163.com/album?id=35644274"
+    }
+  },
+  {
+    "name": "Last Time",
+    "link": "https://music.163.com/song?id=1419166168",
+    "duration": "03:44",
+    "artists": [
+      {
+        "name": "Midnight Kids",
+        "link": "https://music.163.com/artist?id=13192314"
+      }
+    ],
+    "album": {
+      "name": "Last Time",
+      "link": "https://music.163.com/album?id=85244302"
+    }
+  },
+  {
+    "name": "Kuyenda",
+    "link": "https://music.163.com/song?id=500399011",
+    "duration": "02:59",
+    "artists": [
+      {
+        "name": "Lennart Schroot",
+        "link": "https://music.163.com/artist?id=1147209"
+      },
+      {
+        "name": "Unknown Brain",
+        "link": "https://music.163.com/artist?id=12196203"
+      },
+      { "name": "Sru", "link": "https://music.163.com/artist?id=14297664" }
+    ],
+    "album": {
+      "name": "Kuyenda",
+      "link": "https://music.163.com/album?id=36015013"
+    }
+  },
+  {
+    "name": "L.I.F.E.",
+    "link": "https://music.163.com/song?id=439037024",
+    "duration": "02:59",
+    "artists": [
+      { "name": "Remady", "link": "https://music.163.com/artist?id=42785" },
+      { "name": "Manu-L", "link": "https://music.163.com/artist?id=412923" }
+    ],
+    "album": {
+      "name": "L.I.F.E.",
+      "link": "https://music.163.com/album?id=34970029"
+    }
+  },
+  {
+    "name": "Rather Be",
+    "link": "https://music.163.com/song?id=28095742",
+    "duration": "04:00",
+    "artists": [
+      {
+        "name": "Clean Bandit",
+        "link": "https://music.163.com/artist?id=754010"
+      },
+      {
+        "name": "Jess Glynne",
+        "link": "https://music.163.com/artist?id=904046"
+      }
+    ],
+    "album": {
+      "name": "Rather Be",
+      "link": "https://music.163.com/album?id=2726100"
+    }
+  },
+  {
+    "name": "On My Way! (Rudelies Remix)",
+    "link": "https://music.163.com/song?id=1298589877",
+    "duration": "02:45",
+    "artists": [
+      {
+        "name": "Marvin Vogel",
+        "link": "https://music.163.com/artist?id=12279409"
+      },
+      { "name": "Jonth", "link": "https://music.163.com/artist?id=12636028" },
+      {
+        "name": "TwoWorldsApart",
+        "link": "https://music.163.com/artist?id=12214272"
+      },
+      { "name": "ONEDUO", "link": "https://music.163.com/artist?id=12411073" },
+      {
+        "name": "Ria Lucia",
+        "link": "https://music.163.com/artist?id=28481044"
+      },
+      { "name": "RudeLies", "link": "https://music.163.com/artist?id=12416051" }
+    ],
+    "album": {
+      "name": "On My Way! (feat. ONEDUO & Ria Lucia) [RudeLies Remix]",
+      "link": "https://music.163.com/album?id=72121025"
+    }
+  },
+  {
+    "name": "One Thousand Suns (Original Vocal Edit)",
+    "link": "https://music.163.com/song?id=26243419",
+    "duration": "03:35",
+    "artists": [
+      { "name": "Chicane", "link": "https://music.163.com/artist?id=50971" },
+      {
+        "name": "Ferry Corsten",
+        "link": "https://music.163.com/artist?id=33395"
+      },
+      {
+        "name": "Christian Burns",
+        "link": "https://music.163.com/artist?id=658096"
+      }
+    ],
+    "album": {
+      "name": "One Thousand Suns",
+      "link": "https://music.163.com/album?id=2431129"
+    }
+  },
+  {
+    "name": "Downfalls",
+    "link": "https://music.163.com/song?id=1438808727",
+    "duration": "03:10",
+    "artists": [
+      {
+        "name": "Cally Rhodes",
+        "link": "https://music.163.com/artist?id=12603359"
+      }
+    ],
+    "album": {
+      "name": "Downfalls",
+      "link": "https://music.163.com/album?id=87793610"
+    }
+  },
+  {
+    "name": "Bubble",
+    "link": "https://music.163.com/song?id=550054796",
+    "duration": "02:54",
+    "artists": [
+      {
+        "name": "Raven & Kreyn",
+        "link": "https://music.163.com/artist?id=12355744"
+      }
+    ],
+    "album": {
+      "name": "Bubble",
+      "link": "https://music.163.com/album?id=38177797"
+    }
+  },
+  {
+    "name": "Sweet Little Lies",
+    "link": "https://music.163.com/song?id=1347650968",
+    "duration": "02:55",
+    "artists": [
+      { "name": "Bülow", "link": "https://music.163.com/artist?id=12809019" }
+    ],
+    "album": {
+      "name": "Sweet Little Lies",
+      "link": "https://music.163.com/album?id=75664437"
+    }
+  },
+  {
+    "name": "Remedy",
+    "link": "https://music.163.com/song?id=493551013",
+    "duration": "02:58",
+    "artists": [
+      {
+        "name": "Zonderling",
+        "link": "https://music.163.com/artist?id=981038"
+      },
+      { "name": "Mingue", "link": "https://music.163.com/artist?id=13678630" }
+    ],
+    "album": {
+      "name": "Remedy",
+      "link": "https://music.163.com/album?id=35848011"
+    }
+  },
+  {
+    "name": "Love Ain't Changin (Lost Wolves Remix)",
+    "link": "https://music.163.com/song?id=1424675829",
+    "duration": "03:34",
+    "artists": [
+      {
+        "name": "GhostDragon",
+        "link": "https://music.163.com/artist?id=12202354"
+      },
+      { "name": "Caslow", "link": "https://music.163.com/artist?id=15109745" },
+      {
+        "name": "Red Comet",
+        "link": "https://music.163.com/artist?id=13128065"
+      },
+      {
+        "name": "Alina Renae",
+        "link": "https://music.163.com/artist?id=844803"
+      },
+      {
+        "name": "Lost Wolves",
+        "link": "https://music.163.com/artist?id=36722780"
+      }
+    ],
+    "album": {
+      "name": "Love Ain't Changin (REMIXES)",
+      "link": "https://music.163.com/album?id=85862608"
+    }
+  },
+  {
+    "name": "Grey Area",
+    "link": "https://music.163.com/song?id=1401848641",
+    "duration": "02:48",
+    "artists": [
+      { "name": "Grey", "link": "https://music.163.com/artist?id=58424" },
+      {
+        "name": "Sofia Carson",
+        "link": "https://music.163.com/artist?id=12024488"
+      }
+    ],
+    "album": {
+      "name": "Grey Area",
+      "link": "https://music.163.com/album?id=83097190"
+    }
+  },
+  {
+    "name": "I Can Tell",
+    "link": "https://music.163.com/song?id=1376817015",
+    "duration": "03:10",
+    "artists": [
+      { "name": "Domeno", "link": "https://music.163.com/artist?id=1132772" },
+      {
+        "name": "Karl Sylver",
+        "link": "https://music.163.com/artist?id=32715201"
+      },
+      {
+        "name": "Garrett Raff",
+        "link": "https://music.163.com/artist?id=14914549"
+      }
+    ],
+    "album": {
+      "name": "Revealed Recordings presents Progressive EP Vol. 2",
+      "link": "https://music.163.com/album?id=80287909"
+    }
+  },
+  {
+    "name": "Lonely",
+    "link": "https://music.163.com/song?id=1384492900",
+    "duration": "04:30",
+    "artists": [
+      { "name": "ILLENIUM", "link": "https://music.163.com/artist?id=1050518" },
+      {
+        "name": "Chandler Leighton",
+        "link": "https://music.163.com/artist?id=33013223"
+      }
+    ],
+    "album": {
+      "name": "ASCEND",
+      "link": "https://music.163.com/album?id=80981667"
+    }
+  },
+  {
+    "name": "Still Falling for You - (电影《BJ单身日记3》主题曲)",
+    "link": "https://music.163.com/song?id=426502151",
+    "duration": "04:00",
+    "artists": [
+      {
+        "name": "Ellie Goulding",
+        "link": "https://music.163.com/artist?id=56598"
+      }
+    ],
+    "album": {
+      "name": "Still Falling for You",
+      "link": "https://music.163.com/album?id=34833055"
+    }
+  },
+  {
+    "name": "Without You",
+    "link": "https://music.163.com/song?id=433681126",
+    "duration": "02:28",
+    "artists": [
+      { "name": "Vexaic", "link": "https://music.163.com/artist?id=1083119" }
+    ],
+    "album": {
+      "name": "Without You",
+      "link": "https://music.163.com/album?id=34898660"
+    }
+  },
+  {
+    "name": "Our Story (Wisp X Remix)",
+    "link": "https://music.163.com/song?id=30780434",
+    "duration": "04:26",
+    "artists": [
+      { "name": "Wisp X", "link": "https://music.163.com/artist?id=1046123" },
+      { "name": "Mako", "link": "https://music.163.com/artist?id=68192" }
+    ],
+    "album": {
+      "name": "Our Story (Wisp X Remix)",
+      "link": "https://music.163.com/album?id=3103224"
+    }
+  },
+  {
+    "name": "Masked Heroes",
+    "link": "https://music.163.com/song?id=30854966",
+    "duration": "03:31",
+    "artists": [
+      { "name": "Vexento", "link": "https://music.163.com/artist?id=12037010" }
+    ],
+    "album": {
+      "name": "Masked Heroes",
+      "link": "https://music.163.com/album?id=3104829"
+    }
+  },
+  {
+    "name": "Congratulations (Remix)",
+    "link": "https://music.163.com/song?id=1810604123",
+    "duration": "03:22",
+    "artists": [
+      {
+        "name": "Winnetka Bowling League",
+        "link": "https://music.163.com/artist?id=28501955"
+      },
+      {
+        "name": "Midnight Kids",
+        "link": "https://music.163.com/artist?id=13192314"
+      }
+    ],
+    "album": {
+      "name": "Congratulations (Remix)",
+      "link": "https://music.163.com/album?id=121403633"
+    }
+  },
+  {
+    "name": "Time to Pretend",
+    "link": "https://music.163.com/song?id=1377642003",
+    "duration": "05:14",
+    "artists": [
+      {
+        "name": "Lazer Boomerang",
+        "link": "https://music.163.com/artist?id=13976294"
+      }
+    ],
+    "album": {
+      "name": "Time to Pretend",
+      "link": "https://music.163.com/album?id=80371789"
+    }
+  },
+  {
+    "name": "Naked Soul (feat. Liel Kolet)",
+    "link": "https://music.163.com/song?id=1450894524",
+    "duration": "04:46",
+    "artists": [
+      {
+        "name": "Last Heroes",
+        "link": "https://music.163.com/artist?id=11987034"
+      },
+      {
+        "name": "Liel Kolet",
+        "link": "https://music.163.com/artist?id=14672688"
+      }
+    ],
+    "album": {
+      "name": "No Sleep // Naked Soul",
+      "link": "https://music.163.com/album?id=89947550"
+    }
+  },
+  {
+    "name": "Colourway",
+    "link": "https://music.163.com/song?id=480769622",
+    "duration": "03:48",
+    "artists": [
+      { "name": "Novo Amor", "link": "https://music.163.com/artist?id=904041" }
+    ],
+    "album": {
+      "name": "Bathing Beach",
+      "link": "https://music.163.com/album?id=35562140"
+    }
+  },
+  {
+    "name": "Tell Me (Color Source Remix)",
+    "link": "https://music.163.com/song?id=525240107",
+    "duration": "03:15",
+    "artists": [
+      {
+        "name": "Color Source",
+        "link": "https://music.163.com/artist?id=1097152"
+      },
+      {
+        "name": "PineHaven ",
+        "link": "https://music.163.com/artist?id=12047806"
+      },
+      {
+        "name": "Lilianna Wilde",
+        "link": "https://music.163.com/artist?id=14711114"
+      }
+    ],
+    "album": {
+      "name": "Tell Me (Color Source Remix)",
+      "link": "https://music.163.com/album?id=37027043"
+    }
+  },
+  {
+    "name": "Love Alive",
+    "link": "https://music.163.com/song?id=410925920",
+    "duration": "04:15",
+    "artists": [
+      {
+        "name": "Aaron Krause",
+        "link": "https://music.163.com/artist?id=12043054"
+      }
+    ],
+    "album": {
+      "name": "Jade",
+      "link": "https://music.163.com/album?id=34678043"
+    }
+  },
+  {
+    "name": "dear",
+    "link": "https://music.163.com/song?id=532940218",
+    "duration": "02:35",
+    "artists": [
+      { "name": "vietra", "link": "https://music.163.com/artist?id=12468266" }
+    ],
+    "album": {
+      "name": "dear",
+      "link": "https://music.163.com/album?id=37251736"
+    }
+  },
+  {
+    "name": "Drown - (TV动画《海盗战记》ED2)",
+    "link": "https://music.163.com/song?id=1401456829",
+    "duration": "03:33",
+    "artists": [
+      { "name": "milet", "link": "https://music.163.com/artist?id=31464106" }
+    ],
+    "album": {
+      "name": "Drown / You & I",
+      "link": "https://music.163.com/album?id=126872326"
+    }
+  },
+  {
+    "name": "Bright Stars",
+    "link": "https://music.163.com/song?id=428116648",
+    "duration": "04:20",
+    "artists": [
+      {
+        "name": "Grown Kids ",
+        "link": "https://music.163.com/artist?id=996322"
+      },
+      { "name": "Aimer", "link": "https://music.163.com/artist?id=16152" }
+    ],
+    "album": {
+      "name": "KINGS OF THE PLAYGROUND",
+      "link": "https://music.163.com/album?id=34861058"
+    }
+  },
+  {
+    "name": "爱丽丝 - (Alice)",
+    "link": "https://music.163.com/song?id=512358197",
+    "duration": "03:09",
+    "artists": [
+      { "name": "米津玄師", "link": "https://music.163.com/artist?id=159300" }
+    ],
+    "album": {
+      "name": "BOOTLEG",
+      "link": "https://music.163.com/album?id=36529043"
+    }
+  },
+  {
+    "name": "ひとり旅 (feat. 鎖那) - (独自旅行)",
+    "link": "https://music.163.com/song?id=1311345944",
+    "duration": "04:55",
+    "artists": [
+      { "name": "瀬名航", "link": "https://music.163.com/artist?id=12488214" },
+      { "name": "鎖那", "link": "https://music.163.com/artist?id=1002089" }
+    ],
+    "album": {
+      "name": "せなとうた",
+      "link": "https://music.163.com/album?id=73471877"
+    }
+  },
+  {
+    "name": "Claude's Girl",
+    "link": "https://music.163.com/song?id=30621959",
+    "duration": "02:38",
+    "artists": [
+      {
+        "name": "Marika Hackman",
+        "link": "https://music.163.com/artist?id=813212"
+      }
+    ],
+    "album": {
+      "name": "We Slept at Last",
+      "link": "https://music.163.com/album?id=3104149"
+    }
+  },
+  {
+    "name": "Turnin'",
+    "link": "https://music.163.com/song?id=28859948",
+    "duration": "03:29",
+    "artists": [
+      {
+        "name": "Young Rising Sons",
+        "link": "https://music.163.com/artist?id=947185"
+      }
+    ],
+    "album": {
+      "name": "Young Rising Sons",
+      "link": "https://music.163.com/album?id=2916129"
+    }
+  },
+  {
+    "name": "Getting Older",
+    "link": "https://music.163.com/song?id=1849813471",
+    "duration": "04:04",
+    "artists": [
+      {
+        "name": "Billie Eilish",
+        "link": "https://music.163.com/artist?id=11972054"
+      }
+    ],
+    "album": {
+      "name": "Happier Than Ever",
+      "link": "https://music.163.com/album?id=126703136"
+    }
+  }
+]

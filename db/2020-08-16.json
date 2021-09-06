@@ -1,0 +1,486 @@
+[
+  {
+    "name": "2 AM",
+    "link": "https://music.163.com/song?id=1397622097",
+    "duration": "02:53",
+    "artists": [
+      { "name": "Jai Nova", "link": "https://music.163.com/artist?id=1083105" },
+      {
+        "name": "Carmen Rose",
+        "link": "https://music.163.com/artist?id=28694618"
+      }
+    ],
+    "album": {
+      "name": "2 AM",
+      "link": "https://music.163.com/album?id=82516762"
+    }
+  },
+  {
+    "name": "Faces",
+    "link": "https://music.163.com/song?id=1393864721",
+    "duration": "03:25",
+    "artists": [
+      { "name": "Jade Key", "link": "https://music.163.com/artist?id=33590472" }
+    ],
+    "album": {
+      "name": "Faces",
+      "link": "https://music.163.com/album?id=82011639"
+    }
+  },
+  {
+    "name": "Too Close",
+    "link": "https://music.163.com/song?id=1412691681",
+    "duration": "02:56",
+    "artists": [
+      {
+        "name": "Cally Rhodes",
+        "link": "https://music.163.com/artist?id=12603359"
+      }
+    ],
+    "album": {
+      "name": "Too Close",
+      "link": "https://music.163.com/album?id=84576016"
+    }
+  },
+  {
+    "name": "Safe & Sound",
+    "link": "https://music.163.com/song?id=1428681306",
+    "duration": "03:39",
+    "artists": [
+      {
+        "name": "Novaspace",
+        "link": "https://music.163.com/artist?id=1144030"
+      },
+      { "name": "Vade", "link": "https://music.163.com/artist?id=13973122" }
+    ],
+    "album": {
+      "name": "Safe & Sound",
+      "link": "https://music.163.com/album?id=86278405"
+    }
+  },
+  {
+    "name": "Open Road",
+    "link": "https://music.163.com/song?id=1419436595",
+    "duration": "03:20",
+    "artists": [
+      { "name": "Calvo", "link": "https://music.163.com/artist?id=1146039" },
+      {
+        "name": "Agatino Romero",
+        "link": "https://music.163.com/artist?id=12388136"
+      }
+    ],
+    "album": {
+      "name": "Open Road",
+      "link": "https://music.163.com/album?id=85299600"
+    }
+  },
+  {
+    "name": "Rise Above",
+    "link": "https://music.163.com/song?id=1382603082",
+    "duration": "02:45",
+    "artists": [
+      {
+        "name": "Chester Young",
+        "link": "https://music.163.com/artist?id=13703846"
+      },
+      { "name": "Triple M", "link": "https://music.163.com/artist?id=599396" },
+      {
+        "name": "Nathan Brumley",
+        "link": "https://music.163.com/artist?id=1081182"
+      }
+    ],
+    "album": {
+      "name": "Rise Above",
+      "link": "https://music.163.com/album?id=80817072"
+    }
+  },
+  {
+    "name": "Cold Hearted",
+    "link": "https://music.163.com/song?id=514543482",
+    "duration": "04:32",
+    "artists": [
+      {
+        "name": "Seven Lions",
+        "link": "https://music.163.com/artist?id=44204"
+      },
+      {
+        "name": "Kill The Noise",
+        "link": "https://music.163.com/artist?id=38057"
+      }
+    ],
+    "album": {
+      "name": "Cold Hearted",
+      "link": "https://music.163.com/album?id=36636199"
+    }
+  },
+  {
+    "name": "Ain't Right",
+    "link": "https://music.163.com/song?id=1442096263",
+    "duration": "02:38",
+    "artists": [
+      {
+        "name": "Raven & Kreyn",
+        "link": "https://music.163.com/artist?id=12355744"
+      },
+      { "name": "Mo Falk", "link": "https://music.163.com/artist?id=28683052" }
+    ],
+    "album": {
+      "name": "Ain't Right",
+      "link": "https://music.163.com/album?id=88275738"
+    }
+  },
+  {
+    "name": "One Look (feat. Heather Sommer)",
+    "link": "https://music.163.com/song?id=1458679659",
+    "duration": "03:38",
+    "artists": [
+      {
+        "name": "Jason Ross",
+        "link": "https://music.163.com/artist?id=906123"
+      },
+      {
+        "name": "Heather Sommer",
+        "link": "https://music.163.com/artist?id=13134228"
+      }
+    ],
+    "album": {
+      "name": "One Look (feat. Heather Sommer)",
+      "link": "https://music.163.com/album?id=91628139"
+    }
+  },
+  {
+    "name": "Want U More (Radio Edit)",
+    "link": "https://music.163.com/song?id=1390879042",
+    "duration": "03:08",
+    "artists": [
+      { "name": "Hi Noise", "link": "https://music.163.com/artist?id=12061075" }
+    ],
+    "album": {
+      "name": "Want U More",
+      "link": "https://music.163.com/album?id=81639144"
+    }
+  },
+  {
+    "name": "count on",
+    "link": "https://music.163.com/song?id=1322648216",
+    "duration": "03:26",
+    "artists": [
+      { "name": "Shallou", "link": "https://music.163.com/artist?id=12029377" },
+      {
+        "name": "Colin Mags",
+        "link": "https://music.163.com/artist?id=29948406"
+      }
+    ],
+    "album": {
+      "name": "count on",
+      "link": "https://music.163.com/album?id=74233695"
+    }
+  },
+  {
+    "name": "Need Your Love (Nurko Remix)",
+    "link": "https://music.163.com/song?id=1444945223",
+    "duration": "04:10",
+    "artists": [
+      { "name": "Gryffin", "link": "https://music.163.com/artist?id=1181504" },
+      {
+        "name": "Seven Lions",
+        "link": "https://music.163.com/artist?id=44204"
+      },
+      {
+        "name": "Noah Kahan",
+        "link": "https://music.163.com/artist?id=12278138"
+      },
+      { "name": "Nurko", "link": "https://music.163.com/artist?id=11991089" }
+    ],
+    "album": {
+      "name": "Need Your Love (Remixes)",
+      "link": "https://music.163.com/album?id=88832542"
+    }
+  },
+  {
+    "name": "Leave This Place",
+    "link": "https://music.163.com/song?id=437605808",
+    "duration": "04:51",
+    "artists": [
+      { "name": "LIONE", "link": "https://music.163.com/artist?id=11986064" }
+    ],
+    "album": {
+      "name": "Leave This Place",
+      "link": "https://music.163.com/album?id=34944506"
+    }
+  },
+  {
+    "name": "Promised Land",
+    "link": "https://music.163.com/song?id=447079070",
+    "duration": "04:15",
+    "artists": [
+      {
+        "name": "Satellite Empire",
+        "link": "https://music.163.com/artist?id=1116247"
+      },
+      { "name": "Silby", "link": "https://music.163.com/artist?id=14199722" }
+    ],
+    "album": {
+      "name": "Promised Land",
+      "link": "https://music.163.com/album?id=35051278"
+    }
+  },
+  {
+    "name": "Key (Inukshuk Remix)",
+    "link": "https://music.163.com/song?id=529814196",
+    "duration": "03:38",
+    "artists": [
+      { "name": "Inukshuk", "link": "https://music.163.com/artist?id=1115191" },
+      {
+        "name": "Virtual Self",
+        "link": "https://music.163.com/artist?id=12773843"
+      }
+    ],
+    "album": {
+      "name": "Key (Inukshuk Remix)",
+      "link": "https://music.163.com/album?id=37256042"
+    }
+  },
+  {
+    "name": "Life Of Sin Pt. 6",
+    "link": "https://music.163.com/song?id=1373264025",
+    "duration": "04:26",
+    "artists": [
+      { "name": "MitiS", "link": "https://music.163.com/artist?id=40245" }
+    ],
+    "album": {
+      "name": "Life Of Sin Series (2019)",
+      "link": "https://music.163.com/album?id=79931476"
+    }
+  },
+  {
+    "name": "Crossfire (TWINSICK Remix)",
+    "link": "https://music.163.com/song?id=1407583870",
+    "duration": "03:50",
+    "artists": [
+      { "name": "TWINSICK", "link": "https://music.163.com/artist?id=33866504" }
+    ],
+    "album": {
+      "name": "Crossfire (TWINSICK Remix)",
+      "link": "https://music.163.com/album?id=83881702"
+    }
+  },
+  {
+    "name": "Queen Of The Night",
+    "link": "https://music.163.com/song?id=1378849987",
+    "duration": "03:17",
+    "artists": [
+      {
+        "name": "Hey Violet",
+        "link": "https://music.163.com/artist?id=1102151"
+      }
+    ],
+    "album": {
+      "name": "Queen Of The Night",
+      "link": "https://music.163.com/album?id=80493711"
+    }
+  },
+  {
+    "name": "Until We Die",
+    "link": "https://music.163.com/song?id=1377830798",
+    "duration": "02:57",
+    "artists": [
+      { "name": "WATEVA", "link": "https://music.163.com/artist?id=12475726" },
+      {
+        "name": "Next to Neon",
+        "link": "https://music.163.com/artist?id=14470344"
+      }
+    ],
+    "album": {
+      "name": "Until We Die",
+      "link": "https://music.163.com/album?id=80383720"
+    }
+  },
+  {
+    "name": "Don't Trust Myself",
+    "link": "https://music.163.com/song?id=1295861988",
+    "duration": "02:49",
+    "artists": [
+      { "name": "Robinson", "link": "https://music.163.com/artist?id=12448024" }
+    ],
+    "album": {
+      "name": "Don't Trust Myself",
+      "link": "https://music.163.com/album?id=71979286"
+    }
+  },
+  {
+    "name": "Everyday (feat. Rico & Miella)",
+    "link": "https://music.163.com/song?id=1442181238",
+    "duration": "04:25",
+    "artists": [
+      { "name": "Trivecta", "link": "https://music.163.com/artist?id=954338" },
+      {
+        "name": "Rico & Miella",
+        "link": "https://music.163.com/artist?id=1050743"
+      }
+    ],
+    "album": {
+      "name": "Everyday EP",
+      "link": "https://music.163.com/album?id=88290190"
+    }
+  },
+  {
+    "name": "Libertines Jacket",
+    "link": "https://music.163.com/song?id=1401383581",
+    "duration": "02:22",
+    "artists": [
+      {
+        "name": "Violet Days",
+        "link": "https://music.163.com/artist?id=947272"
+      }
+    ],
+    "album": {
+      "name": "Lovers & Losers",
+      "link": "https://music.163.com/album?id=83026104"
+    }
+  },
+  {
+    "name": "Moral of the Story",
+    "link": "https://music.163.com/song?id=1345485671",
+    "duration": "03:21",
+    "artists": [
+      { "name": "Ashe", "link": "https://music.163.com/artist?id=12278097" }
+    ],
+    "album": {
+      "name": "Moral of the Story",
+      "link": "https://music.163.com/album?id=75518183"
+    }
+  },
+  {
+    "name": "Costa Rica",
+    "link": "https://music.163.com/song?id=1372897252",
+    "duration": "03:08",
+    "artists": [
+      {
+        "name": "Benjamin Ingrosso",
+        "link": "https://music.163.com/artist?id=1180073"
+      }
+    ],
+    "album": {
+      "name": "Costa Rica",
+      "link": "https://music.163.com/album?id=79890330"
+    }
+  },
+  {
+    "name": "Go To Sleep",
+    "link": "https://music.163.com/song?id=548910133",
+    "duration": "03:57",
+    "artists": [
+      { "name": "Bearson", "link": "https://music.163.com/artist?id=1057034" },
+      {
+        "name": "Kailee Morgue",
+        "link": "https://music.163.com/artist?id=12740178"
+      }
+    ],
+    "album": {
+      "name": "Go To Sleep",
+      "link": "https://music.163.com/album?id=38013579"
+    }
+  },
+  {
+    "name": "White Rabbit (Jawster Remix)",
+    "link": "https://music.163.com/song?id=1419416791",
+    "duration": "03:03",
+    "artists": [
+      {
+        "name": "Lilianna Wilde",
+        "link": "https://music.163.com/artist?id=14711114"
+      }
+    ],
+    "album": {
+      "name": "White Rabbit (Jawster Remix)",
+      "link": "https://music.163.com/album?id=85291549"
+    }
+  },
+  {
+    "name": "Flowers",
+    "link": "https://music.163.com/song?id=1358178956",
+    "duration": "03:03",
+    "artists": [
+      {
+        "name": "The Tech Thieves",
+        "link": "https://music.163.com/artist?id=12080267"
+      }
+    ],
+    "album": {
+      "name": "Flowers",
+      "link": "https://music.163.com/album?id=78478314"
+    }
+  },
+  {
+    "name": "Just Run",
+    "link": "https://music.163.com/song?id=513256641",
+    "duration": "04:34",
+    "artists": [
+      {
+        "name": "ELE SHEEP",
+        "link": "https://music.163.com/artist?id=12147203"
+      }
+    ],
+    "album": {
+      "name": "Just Run",
+      "link": "https://music.163.com/album?id=36568576"
+    }
+  },
+  {
+    "name": "Robotronic (Extended Version)",
+    "link": "https://music.163.com/song?id=33705055",
+    "duration": "04:51",
+    "artists": [
+      { "name": "Neilio", "link": "https://music.163.com/artist?id=210417" },
+      { "name": "Omegatypez", "link": "https://music.163.com/artist?id=712125" }
+    ],
+    "album": {
+      "name": "WINMY (Wish I Never Met You)",
+      "link": "https://music.163.com/album?id=3233408"
+    }
+  },
+  {
+    "name": "Let the Music In",
+    "link": "https://music.163.com/song?id=1411680246",
+    "duration": "04:15",
+    "artists": [
+      {
+        "name": "CloudNone",
+        "link": "https://music.163.com/artist?id=28407606"
+      },
+      { "name": "Elle Vee", "link": "https://music.163.com/artist?id=1046258" }
+    ],
+    "album": {
+      "name": "WISH",
+      "link": "https://music.163.com/album?id=84316108"
+    }
+  },
+  {
+    "name": "Night Drive",
+    "link": "https://music.163.com/song?id=416552508",
+    "duration": "04:21",
+    "artists": [
+      { "name": "Teminite", "link": "https://music.163.com/artist?id=1049513" }
+    ],
+    "album": {
+      "name": "Inception",
+      "link": "https://music.163.com/album?id=34735091"
+    }
+  },
+  {
+    "name": "Best Day Of My Life",
+    "link": "https://music.163.com/song?id=27646851",
+    "duration": "03:14",
+    "artists": [
+      {
+        "name": "American Authors",
+        "link": "https://music.163.com/artist?id=762135"
+      }
+    ],
+    "album": {
+      "name": "American Authors",
+      "link": "https://music.163.com/album?id=2646392"
+    }
+  }
+]

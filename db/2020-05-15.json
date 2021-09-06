@@ -1,0 +1,476 @@
+[
+  {
+    "name": "Low (Stripped Version)",
+    "link": "https://music.163.com/song?id=556811293",
+    "duration": "02:43",
+    "artists": [
+      { "name": "Le P", "link": "https://music.163.com/artist?id=1130008" }
+    ],
+    "album": {
+      "name": "Low (Stripped Version)",
+      "link": "https://music.163.com/album?id=38548353"
+    }
+  },
+  {
+    "name": "I Won't Lie",
+    "link": "https://music.163.com/song?id=1342819249",
+    "duration": "03:11",
+    "artists": [
+      {
+        "name": "Skye Holland",
+        "link": "https://music.163.com/artist?id=12356427"
+      },
+      { "name": "BRDGS", "link": "https://music.163.com/artist?id=12841815" }
+    ],
+    "album": {
+      "name": "I Won't Lie",
+      "link": "https://music.163.com/album?id=75366661"
+    }
+  },
+  {
+    "name": "Play",
+    "link": "https://music.163.com/song?id=1391479812",
+    "duration": "03:09",
+    "artists": [
+      {
+        "name": "Adam Danial",
+        "link": "https://music.163.com/artist?id=32151227"
+      },
+      { "name": "Torine", "link": "https://music.163.com/artist?id=31665202" }
+    ],
+    "album": {
+      "name": "Play",
+      "link": "https://music.163.com/album?id=81706290"
+    }
+  },
+  {
+    "name": "Voyager",
+    "link": "https://music.163.com/song?id=1338803572",
+    "duration": "04:03",
+    "artists": [
+      {
+        "name": "Paul van Dyk",
+        "link": "https://music.163.com/artist?id=41145"
+      },
+      {
+        "name": "Alex M.O.R.P.H.",
+        "link": "https://music.163.com/artist?id=28395"
+      }
+    ],
+    "album": {
+      "name": "A State Of Trance Top 20 - January 2019 (Selected by Armin van Buuren)",
+      "link": "https://music.163.com/album?id=75123390"
+    }
+  },
+  {
+    "name": "A State Of Trance Year Mix 2015 (Full Continuous Mix, Pt. 2)",
+    "link": "https://music.163.com/song?id=39443623",
+    "duration": "59:28",
+    "artists": [
+      {
+        "name": "Armin van Buuren",
+        "link": "https://music.163.com/artist?id=27621"
+      }
+    ],
+    "album": {
+      "name": "A State Of Trance Year Mix 2015",
+      "link": "https://music.163.com/album?id=3436113"
+    }
+  },
+  {
+    "name": "Last Night",
+    "link": "https://music.163.com/song?id=1405908503",
+    "duration": "03:19",
+    "artists": [
+      { "name": "MorganJ", "link": "https://music.163.com/artist?id=1182290" },
+      { "name": "FWN", "link": "https://music.163.com/artist?id=33270669" }
+    ],
+    "album": {
+      "name": "Last Night",
+      "link": "https://music.163.com/album?id=83661658"
+    }
+  },
+  {
+    "name": "Marathon (Simon O'Shine Mix)",
+    "link": "https://music.163.com/song?id=28315992",
+    "duration": "04:23",
+    "artists": [
+      {
+        "name": "Simon O'Shine",
+        "link": "https://music.163.com/artist?id=207035"
+      },
+      { "name": "Adam Navel", "link": "https://music.163.com/artist?id=744269" }
+    ],
+    "album": {
+      "name": "A State Of Trance 2014",
+      "link": "https://music.163.com/album?id=2767804"
+    }
+  },
+  {
+    "name": "I'm No Magician",
+    "link": "https://music.163.com/song?id=1347136305",
+    "duration": "03:21",
+    "artists": [
+      { "name": "Vincent", "link": "https://music.163.com/artist?id=133031" },
+      {
+        "name": "Love, Alexa",
+        "link": "https://music.163.com/artist?id=14081775"
+      }
+    ],
+    "album": {
+      "name": "For You",
+      "link": "https://music.163.com/album?id=75632364"
+    }
+  },
+  {
+    "name": "Keep on Living",
+    "link": "https://music.163.com/song?id=1365318621",
+    "duration": "03:12",
+    "artists": [
+      { "name": "Tobu", "link": "https://music.163.com/artist?id=964486" }
+    ],
+    "album": {
+      "name": "Keep on Living",
+      "link": "https://music.163.com/album?id=79119783"
+    }
+  },
+  {
+    "name": "L'Absente (Original Mix)",
+    "link": "https://music.163.com/song?id=28673852",
+    "duration": "08:30",
+    "artists": [
+      {
+        "name": "Simon O'Shine",
+        "link": "https://music.163.com/artist?id=207035"
+      },
+      {
+        "name": "Ahmed Romel",
+        "link": "https://music.163.com/artist?id=191841"
+      }
+    ],
+    "album": {
+      "name": "L'Absente",
+      "link": "https://music.163.com/album?id=2876649"
+    }
+  },
+  {
+    "name": "Till The Sunrise (Original Mix)",
+    "link": "https://music.163.com/song?id=534067062",
+    "duration": "03:48",
+    "artists": [
+      {
+        "name": "Giuseppe Ottaviani",
+        "link": "https://music.163.com/artist?id=34292"
+      }
+    ],
+    "album": {
+      "name": "Till The Sunrise",
+      "link": "https://music.163.com/album?id=37444043"
+    }
+  },
+  {
+    "name": "Elation (Extended Mix)",
+    "link": "https://music.163.com/song?id=405597439",
+    "duration": "07:04",
+    "artists": [
+      {
+        "name": "Alan Morris",
+        "link": "https://music.163.com/artist?id=193174"
+      }
+    ],
+    "album": {
+      "name": "Elation",
+      "link": "https://music.163.com/album?id=34527495"
+    }
+  },
+  {
+    "name": "Light A Fire",
+    "link": "https://music.163.com/song?id=29497924",
+    "duration": "04:01",
+    "artists": [
+      {
+        "name": "Rachel Taylor",
+        "link": "https://music.163.com/artist?id=74592"
+      }
+    ],
+    "album": {
+      "name": "Come Alive",
+      "link": "https://music.163.com/album?id=2883012"
+    }
+  },
+  {
+    "name": "Jubel (Original Mix)",
+    "link": "https://music.163.com/song?id=435004185",
+    "duration": "04:43",
+    "artists": [
+      { "name": "Klingande", "link": "https://music.163.com/artist?id=759489" }
+    ],
+    "album": {
+      "name": "Jubel (Remixes)",
+      "link": "https://music.163.com/album?id=34908127"
+    }
+  },
+  {
+    "name": "Cosmic Fate",
+    "link": "https://music.163.com/song?id=532267293",
+    "duration": "02:32",
+    "artists": [
+      { "name": "Wisp X", "link": "https://music.163.com/artist?id=1046123" }
+    ],
+    "album": {
+      "name": "Cosmic Fate",
+      "link": "https://music.163.com/album?id=37353614"
+    }
+  },
+  {
+    "name": "Keep On Rockin'",
+    "link": "https://music.163.com/song?id=1387936911",
+    "duration": "02:59",
+    "artists": [
+      {
+        "name": "Da Tweekaz",
+        "link": "https://music.163.com/artist?id=334026"
+      },
+      {
+        "name": "Crystal Lake",
+        "link": "https://music.163.com/artist?id=1161044"
+      }
+    ],
+    "album": {
+      "name": "Keep On Rockin'",
+      "link": "https://music.163.com/album?id=81285860"
+    }
+  },
+  {
+    "name": "How Do I Love Thee?",
+    "link": "https://music.163.com/song?id=1716633",
+    "duration": "01:12",
+    "artists": [
+      {
+        "name": "Michael Hoppé",
+        "link": "https://music.163.com/artist?id=38956"
+      }
+    ],
+    "album": {
+      "name": "How Do I Love Thee?",
+      "link": "https://music.163.com/album?id=173786"
+    }
+  },
+  {
+    "name": "I Believe (Extended Mix)",
+    "link": "https://music.163.com/song?id=427419211",
+    "duration": "05:00",
+    "artists": [
+      { "name": "Omnia", "link": "https://music.163.com/artist?id=179006" },
+      {
+        "name": "Audrey Gallagher",
+        "link": "https://music.163.com/artist?id=191513"
+      }
+    ],
+    "album": {
+      "name": "I Believe",
+      "link": "https://music.163.com/album?id=34841176"
+    }
+  },
+  {
+    "name": "Oh Father",
+    "link": "https://music.163.com/song?id=27506733",
+    "duration": "03:47",
+    "artists": [
+      {
+        "name": "Bodhi Jones",
+        "link": "https://music.163.com/artist?id=804385"
+      }
+    ],
+    "album": {
+      "name": "Where Does The Time Go?",
+      "link": "https://music.163.com/album?id=2621277"
+    }
+  },
+  {
+    "name": "Undercat (feat. Zealot)",
+    "link": "https://music.163.com/song?id=5074204",
+    "duration": "04:07",
+    "artists": [
+      { "name": "Tristam", "link": "https://music.163.com/artist?id=104350" }
+    ],
+    "album": {
+      "name": "Monstercat 006 - Embrace",
+      "link": "https://music.163.com/album?id=502849"
+    }
+  },
+  {
+    "name": "Mama (Jaxx & Vega & SaberZ Festival Mix)",
+    "link": "https://music.163.com/song?id=501220774",
+    "duration": "03:00",
+    "artists": [
+      {
+        "name": "Jaxx & Vega",
+        "link": "https://music.163.com/artist?id=1192232"
+      },
+      { "name": "SaberZ", "link": "https://music.163.com/artist?id=1147137" },
+      {
+        "name": "Jonas Blue",
+        "link": "https://music.163.com/artist?id=1192069"
+      }
+    ],
+    "album": {
+      "name": "Mama (Jaxx & Vega & SaberZ Festival Mix)",
+      "link": "https://music.163.com/album?id=36030486"
+    }
+  },
+  {
+    "name": "Cradles",
+    "link": "https://music.163.com/song?id=1338490248",
+    "duration": "03:29",
+    "artists": [
+      {
+        "name": "Sub Urban",
+        "link": "https://music.163.com/artist?id=29722383"
+      }
+    ],
+    "album": {
+      "name": "Cradles",
+      "link": "https://music.163.com/album?id=75097142"
+    }
+  },
+  {
+    "name": "Stay the Same ",
+    "link": "https://music.163.com/song?id=1316563044",
+    "duration": "03:24",
+    "artists": [
+      {
+        "name": "Unknown Brain",
+        "link": "https://music.163.com/artist?id=12196203"
+      },
+      {
+        "name": "Veronica Bravo",
+        "link": "https://music.163.com/artist?id=14296763"
+      },
+      { "name": "Rival", "link": "https://music.163.com/artist?id=12741030" }
+    ],
+    "album": {
+      "name": "Stay the Same ",
+      "link": "https://music.163.com/album?id=73835628"
+    }
+  },
+  {
+    "name": "Chasing Palm Trees",
+    "link": "https://music.163.com/song?id=413812611",
+    "duration": "02:38",
+    "artists": [
+      { "name": "Ehrling", "link": "https://music.163.com/artist?id=12048130" }
+    ],
+    "album": {
+      "name": "Chasing Palm Trees",
+      "link": "https://music.163.com/album?id=34702549"
+    }
+  },
+  {
+    "name": "Pop Stars (BEAUZ  Medii Remix)",
+    "link": "https://music.163.com/song?id=1331870183",
+    "duration": "02:52",
+    "artists": [
+      { "name": "BEAUZ", "link": "https://music.163.com/artist?id=12131436" },
+      { "name": "Medii", "link": "https://music.163.com/artist?id=12323243" },
+      { "name": "KDA", "link": "https://music.163.com/artist?id=1164052" },
+      {
+        "name": "Madison Beer",
+        "link": "https://music.163.com/artist?id=827791"
+      },
+      {
+        "name": "(G)I-DLE",
+        "link": "https://music.163.com/artist?id=14055085"
+      },
+      {
+        "name": "Jaira Burns",
+        "link": "https://music.163.com/artist?id=12475103"
+      }
+    ],
+    "album": {
+      "name": "Pop Stars (BEAUZ & Medii Remix)",
+      "link": "https://music.163.com/album?id=74811117"
+    }
+  },
+  {
+    "name": "Leave Me Out ",
+    "link": "https://music.163.com/song?id=34834627",
+    "duration": "05:32",
+    "artists": [
+      {
+        "name": "July Child",
+        "link": "https://music.163.com/artist?id=1120220"
+      }
+    ],
+    "album": {
+      "name": "Leave Me Out",
+      "link": "https://music.163.com/album?id=3295645"
+    }
+  },
+  {
+    "name": "Uncross These Lines (Vocal Mix)",
+    "link": "https://music.163.com/song?id=24396946",
+    "duration": "07:18",
+    "artists": [
+      {
+        "name": "DNS Project pres. Whiteglow feat Lo-Fi Sugar",
+        "link": "https://music.163.com/artist?id=29945134"
+      }
+    ],
+    "album": {
+      "name": "Trancemaster 7001",
+      "link": "https://music.163.com/album?id=2179364"
+    }
+  },
+  {
+    "name": "Longing for",
+    "link": "https://music.163.com/song?id=1314160278",
+    "duration": "03:29",
+    "artists": [
+      { "name": "Kemiroy", "link": "https://music.163.com/artist?id=12905253" }
+    ],
+    "album": {
+      "name": "Longing for",
+      "link": "https://music.163.com/album?id=73705757"
+    }
+  },
+  {
+    "name": "Tera",
+    "link": "https://music.163.com/song?id=521415465",
+    "duration": "03:50",
+    "artists": [
+      { "name": "Xomu", "link": "https://music.163.com/artist?id=12903205" }
+    ],
+    "album": {
+      "name": "Tera",
+      "link": "https://music.163.com/album?id=36870116"
+    }
+  },
+  {
+    "name": "Forevermore",
+    "link": "https://music.163.com/song?id=2872362",
+    "duration": "02:22",
+    "artists": [
+      {
+        "name": "Katie Herzig",
+        "link": "https://music.163.com/artist?id=62900"
+      }
+    ],
+    "album": {
+      "name": "Live In Studio: Acoustic Trio",
+      "link": "https://music.163.com/album?id=290042"
+    }
+  },
+  {
+    "name": "Shutterbug",
+    "link": "https://music.163.com/song?id=428203132",
+    "duration": "03:18",
+    "artists": [
+      { "name": "Glenna", "link": "https://music.163.com/artist?id=12107487" }
+    ],
+    "album": {
+      "name": "Shutterbug",
+      "link": "https://music.163.com/album?id=34841310"
+    }
+  }
+]

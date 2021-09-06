@@ -1,0 +1,444 @@
+[
+  {
+    "name": "Bang!",
+    "link": "https://music.163.com/song?id=1418877315",
+    "duration": "02:50",
+    "artists": [
+      { "name": "AJR", "link": "https://music.163.com/artist?id=88089" }
+    ],
+    "album": {
+      "name": "Bang!",
+      "link": "https://music.163.com/album?id=85213111"
+    }
+  },
+  {
+    "name": "Iris in the Dark",
+    "link": "https://music.163.com/song?id=1405963752",
+    "duration": "03:19",
+    "artists": [
+      {
+        "name": "Just A Gent",
+        "link": "https://music.163.com/artist?id=893239"
+      },
+      { "name": "McCall", "link": "https://music.163.com/artist?id=14065757" }
+    ],
+    "album": {
+      "name": "URCA",
+      "link": "https://music.163.com/album?id=83666220"
+    }
+  },
+  {
+    "name": "At The Edge",
+    "link": "https://music.163.com/song?id=448596416",
+    "duration": "03:20",
+    "artists": [
+      { "name": "千坂", "link": "https://music.163.com/artist?id=12138261" }
+    ],
+    "album": {
+      "name": "At The Edge",
+      "link": "https://music.163.com/album?id=35072236"
+    }
+  },
+  {
+    "name": "One Day",
+    "link": "https://music.163.com/song?id=27506983",
+    "duration": "03:15",
+    "artists": [
+      { "name": "Emblem3", "link": "https://music.163.com/artist?id=804398" }
+    ],
+    "album": {
+      "name": "Nothing To Lose",
+      "link": "https://music.163.com/album?id=2621296"
+    }
+  },
+  {
+    "name": "Be Kind",
+    "link": "https://music.163.com/song?id=1444959394",
+    "duration": "02:52",
+    "artists": [
+      {
+        "name": "Marshmello",
+        "link": "https://music.163.com/artist?id=1060019"
+      },
+      { "name": "Halsey", "link": "https://music.163.com/artist?id=964321" }
+    ],
+    "album": {
+      "name": "Be Kind",
+      "link": "https://music.163.com/album?id=88836925"
+    }
+  },
+  {
+    "name": "A Little Bit of Love",
+    "link": "https://music.163.com/song?id=1479852953",
+    "duration": "02:56",
+    "artists": [
+      { "name": "Kate Tucker", "link": "https://music.163.com/artist?id=63929" }
+    ],
+    "album": {
+      "name": "Singles Club",
+      "link": "https://music.163.com/album?id=95523631"
+    }
+  },
+  {
+    "name": "Out of My Mind",
+    "link": "https://music.163.com/song?id=1398831849",
+    "duration": "03:00",
+    "artists": [
+      { "name": "Gryffin", "link": "https://music.163.com/artist?id=1181504" },
+      { "name": "Zohara", "link": "https://music.163.com/artist?id=11973049" }
+    ],
+    "album": {
+      "name": "Gravity",
+      "link": "https://music.163.com/album?id=82692723"
+    }
+  },
+  {
+    "name": "RULES",
+    "link": "https://music.163.com/song?id=1418388532",
+    "duration": "03:26",
+    "artists": [
+      { "name": "AViVA", "link": "https://music.163.com/artist?id=12074178" }
+    ],
+    "album": {
+      "name": "RULES",
+      "link": "https://music.163.com/album?id=85160327"
+    }
+  },
+  {
+    "name": "我的大师兄 - (动画《我家大师兄脑子有坑》主题曲)",
+    "link": "https://music.163.com/song?id=551842554",
+    "duration": "02:56",
+    "artists": [
+      { "name": "钟强", "link": "https://music.163.com/artist?id=13837546" }
+    ],
+    "album": {
+      "name": "我的大师兄",
+      "link": "https://music.163.com/album?id=38299115"
+    }
+  },
+  {
+    "name": "Der letzte Mohikaner",
+    "link": "https://music.163.com/song?id=16313119",
+    "duration": "04:08",
+    "artists": [
+      { "name": "Leo Rojas", "link": "https://music.163.com/artist?id=38778" }
+    ],
+    "album": {
+      "name": "Spirit Of The Hawk",
+      "link": "https://music.163.com/album?id=1503835"
+    }
+  },
+  {
+    "name": "泸沽雪",
+    "link": "https://music.163.com/song?id=1440671109",
+    "duration": "04:09",
+    "artists": [
+      {
+        "name": "睡懵的小七",
+        "link": "https://music.163.com/artist?id=14884058"
+      }
+    ],
+    "album": {
+      "name": "泸沽雪",
+      "link": "https://music.163.com/album?id=88026225"
+    }
+  },
+  {
+    "name": "Lifetime",
+    "link": "https://music.163.com/song?id=1386138502",
+    "duration": "02:15",
+    "artists": [
+      {
+        "name": "Zonderling",
+        "link": "https://music.163.com/artist?id=981038"
+      },
+      {
+        "name": "Josh Cumbee",
+        "link": "https://music.163.com/artist?id=13202666"
+      },
+      {
+        "name": "Damon Sharpe",
+        "link": "https://music.163.com/artist?id=13368652"
+      }
+    ],
+    "album": {
+      "name": "Lifetime",
+      "link": "https://music.163.com/album?id=81111239"
+    }
+  },
+  {
+    "name": "Lotus",
+    "link": "https://music.163.com/song?id=1327822114",
+    "duration": "03:46",
+    "artists": [
+      {
+        "name": "Osvaldorio",
+        "link": "https://music.163.com/artist?id=12047326"
+      },
+      { "name": "Wiana", "link": "https://music.163.com/artist?id=30820516" },
+      { "name": "Galdive", "link": "https://music.163.com/artist?id=30820517" }
+    ],
+    "album": {
+      "name": "Lotus",
+      "link": "https://music.163.com/album?id=74544514"
+    }
+  },
+  {
+    "name": "Nothing Compares 2 U",
+    "link": "https://music.163.com/song?id=1385468286",
+    "duration": "03:30",
+    "artists": [
+      {
+        "name": "Tim3bomb",
+        "link": "https://music.163.com/artist?id=12047455"
+      },
+      { "name": "Tim Schou", "link": "https://music.163.com/artist?id=932066" }
+    ],
+    "album": {
+      "name": "Nothing Compares 2 U",
+      "link": "https://music.163.com/album?id=81054669"
+    }
+  },
+  {
+    "name": "Why Do I Try (Nightcore)",
+    "link": "https://music.163.com/song?id=1442365701",
+    "duration": "02:44",
+    "artists": [
+      { "name": "Syrex", "link": "https://music.163.com/artist?id=34804567" },
+      {
+        "name": "Danni Carra",
+        "link": "https://music.163.com/artist?id=32029983"
+      },
+      {
+        "name": "Gill Chang",
+        "link": "https://music.163.com/artist?id=13868921"
+      }
+    ],
+    "album": {
+      "name": "Nightcore Gaming Music Vol. 1",
+      "link": "https://music.163.com/album?id=88326808"
+    }
+  },
+  {
+    "name": "Figured Out",
+    "link": "https://music.163.com/song?id=1356230944",
+    "duration": "02:03",
+    "artists": [
+      { "name": "Ashe", "link": "https://music.163.com/artist?id=12278097" }
+    ],
+    "album": {
+      "name": "Moral of the Story: Chapter 1",
+      "link": "https://music.163.com/album?id=78300630"
+    }
+  },
+  {
+    "name": "Toxic",
+    "link": "https://music.163.com/song?id=1449523872",
+    "duration": "03:12",
+    "artists": [
+      { "name": "Inverness", "link": "https://music.163.com/artist?id=216883" },
+      {
+        "name": "Amelia Moore",
+        "link": "https://music.163.com/artist?id=35236069"
+      }
+    ],
+    "album": {
+      "name": "Toxic",
+      "link": "https://music.163.com/album?id=89704588"
+    }
+  },
+  {
+    "name": "Fragile",
+    "link": "https://music.163.com/song?id=1335940693",
+    "duration": "03:18",
+    "artists": [
+      { "name": "Arcades", "link": "https://music.163.com/artist?id=399074" },
+      { "name": "Sofia", "link": "https://music.163.com/artist?id=30618641" }
+    ],
+    "album": {
+      "name": "Fragile",
+      "link": "https://music.163.com/album?id=74991489"
+    }
+  },
+  {
+    "name": "Survivors (Original Mix)",
+    "link": "https://music.163.com/song?id=33190009",
+    "duration": "04:35",
+    "artists": [
+      { "name": "Hardwell", "link": "https://music.163.com/artist?id=34994" },
+      { "name": "Dannic", "link": "https://music.163.com/artist?id=336655" },
+      { "name": "Haris", "link": "https://music.163.com/artist?id=254974" }
+    ],
+    "album": {
+      "name": "Survivors",
+      "link": "https://music.163.com/album?id=3189001"
+    }
+  },
+  {
+    "name": "Stay",
+    "link": "https://music.163.com/song?id=1411676617",
+    "duration": "04:52",
+    "artists": [
+      {
+        "name": "CloudNone",
+        "link": "https://music.163.com/artist?id=28407606"
+      }
+    ],
+    "album": {
+      "name": "WISH",
+      "link": "https://music.163.com/album?id=84316108"
+    }
+  },
+  {
+    "name": "All Night",
+    "link": "https://music.163.com/song?id=1446759509",
+    "duration": "04:08",
+    "artists": [
+      { "name": "Bensley", "link": "https://music.163.com/artist?id=1093024" }
+    ],
+    "album": {
+      "name": "All Night",
+      "link": "https://music.163.com/album?id=89204143"
+    }
+  },
+  {
+    "name": "Under Water",
+    "link": "https://music.163.com/song?id=1423242920",
+    "duration": "03:09",
+    "artists": [
+      {
+        "name": "Joakim Lundell",
+        "link": "https://music.163.com/artist?id=12289052"
+      },
+      { "name": "Dotter", "link": "https://music.163.com/artist?id=1025001" }
+    ],
+    "album": {
+      "name": "Under Water",
+      "link": "https://music.163.com/album?id=85714364"
+    }
+  },
+  {
+    "name": "Time",
+    "link": "https://music.163.com/song?id=462516497",
+    "duration": "04:34",
+    "artists": [
+      { "name": "Kidswaste", "link": "https://music.163.com/artist?id=1116302" }
+    ],
+    "album": {
+      "name": "Spleen",
+      "link": "https://music.163.com/album?id=35064104"
+    }
+  },
+  {
+    "name": "All the ****ing Time",
+    "link": "https://music.163.com/song?id=1396129506",
+    "duration": "02:39",
+    "artists": [
+      { "name": "Loote", "link": "https://music.163.com/artist?id=12408152" }
+    ],
+    "album": {
+      "name": "All the ****ing Time",
+      "link": "https://music.163.com/album?id=82291719"
+    }
+  },
+  {
+    "name": "Forget",
+    "link": "https://music.163.com/song?id=1333384536",
+    "duration": "02:58",
+    "artists": [
+      {
+        "name": "The Tech Thieves",
+        "link": "https://music.163.com/artist?id=12080267"
+      }
+    ],
+    "album": {
+      "name": "Forget",
+      "link": "https://music.163.com/album?id=74880213"
+    }
+  },
+  {
+    "name": "Fire For You",
+    "link": "https://music.163.com/song?id=1355163982",
+    "duration": "03:51",
+    "artists": [
+      { "name": "Cannons", "link": "https://music.163.com/artist?id=1022051" }
+    ],
+    "album": {
+      "name": "Fire For You",
+      "link": "https://music.163.com/album?id=78243589"
+    }
+  },
+  {
+    "name": "Assassin",
+    "link": "https://music.163.com/song?id=1359113597",
+    "duration": "03:09",
+    "artists": [
+      { "name": "Au/Ra", "link": "https://music.163.com/artist?id=12143031" }
+    ],
+    "album": {
+      "name": "Assassin",
+      "link": "https://music.163.com/album?id=78544892"
+    }
+  },
+  {
+    "name": "OPPA",
+    "link": "https://music.163.com/song?id=499274466",
+    "duration": "03:55",
+    "artists": [
+      { "name": "Loco", "link": "https://music.163.com/artist?id=124303" }
+    ],
+    "album": {
+      "name": "Summer Go Loco",
+      "link": "https://music.163.com/album?id=35975159"
+    }
+  },
+  {
+    "name": "星茶会",
+    "link": "https://music.163.com/song?id=492390949",
+    "duration": "03:16",
+    "artists": [
+      { "name": "灰澈", "link": "https://music.163.com/artist?id=12520634" }
+    ],
+    "album": {
+      "name": "星茶会",
+      "link": "https://music.163.com/album?id=35808228"
+    }
+  },
+  {
+    "name": "カサネテク",
+    "link": "https://music.163.com/song?id=474739593",
+    "duration": "04:18",
+    "artists": [
+      { "name": "中村千尋", "link": "https://music.163.com/artist?id=12107158" }
+    ],
+    "album": {
+      "name": "カサネテク",
+      "link": "https://music.163.com/album?id=35377703"
+    }
+  },
+  {
+    "name": "女生徒 - (太宰治「女生徒」より)",
+    "link": "https://music.163.com/song?id=407685130",
+    "duration": "04:36",
+    "artists": [],
+    "album": {
+      "name": "心象スケツチ",
+      "link": "https://music.163.com/album?id=34565292"
+    }
+  },
+  {
+    "name": "Victory",
+    "link": "https://music.163.com/song?id=31654455",
+    "duration": "05:20",
+    "artists": [
+      {
+        "name": "Two Steps From Hell",
+        "link": "https://music.163.com/artist?id=102714"
+      }
+    ],
+    "album": {
+      "name": "Battlecry",
+      "link": "https://music.163.com/album?id=3131119"
+    }
+  }
+]

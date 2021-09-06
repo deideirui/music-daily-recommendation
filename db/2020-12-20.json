@@ -1,0 +1,487 @@
+[
+  {
+    "name": "Here With Me",
+    "link": "https://music.163.com/song?id=1350656778",
+    "duration": "02:36",
+    "artists": [
+      {
+        "name": "Marshmello",
+        "link": "https://music.163.com/artist?id=1060019"
+      },
+      { "name": "CHVRCHES", "link": "https://music.163.com/artist?id=694027" }
+    ],
+    "album": {
+      "name": "Here With Me",
+      "link": "https://music.163.com/album?id=75798672"
+    }
+  },
+  {
+    "name": "Transcendence (Extended Mix)",
+    "link": "https://music.163.com/song?id=530986263",
+    "duration": "09:55",
+    "artists": [
+      {
+        "name": "Darren Porter",
+        "link": "https://music.163.com/artist?id=742417"
+      },
+      {
+        "name": "Alessandra Roncone",
+        "link": "https://music.163.com/artist?id=12311433"
+      }
+    ],
+    "album": {
+      "name": "Transcendence",
+      "link": "https://music.163.com/album?id=37253471"
+    }
+  },
+  {
+    "name": "Man That I Was",
+    "link": "https://music.163.com/song?id=550138092",
+    "duration": "03:22",
+    "artists": [
+      {
+        "name": "Poorchoice",
+        "link": "https://music.163.com/artist?id=12068100"
+      },
+      { "name": "HVNNIBVL", "link": "https://music.163.com/artist?id=12046906" }
+    ],
+    "album": {
+      "name": "Man That I Was",
+      "link": "https://music.163.com/album?id=38226028"
+    }
+  },
+  {
+    "name": "Kuyenda",
+    "link": "https://music.163.com/song?id=500399011",
+    "duration": "02:59",
+    "artists": [
+      {
+        "name": "Lennart Schroot",
+        "link": "https://music.163.com/artist?id=1147209"
+      },
+      {
+        "name": "Unknown Brain",
+        "link": "https://music.163.com/artist?id=12196203"
+      },
+      { "name": "Sru", "link": "https://music.163.com/artist?id=14297664" }
+    ],
+    "album": {
+      "name": "Kuyenda",
+      "link": "https://music.163.com/album?id=36015013"
+    }
+  },
+  {
+    "name": "Home",
+    "link": "https://music.163.com/song?id=1347227967",
+    "duration": "04:23",
+    "artists": [
+      { "name": "Dabin", "link": "https://music.163.com/artist?id=783446" },
+      { "name": "Essenger", "link": "https://music.163.com/artist?id=31400823" }
+    ],
+    "album": {
+      "name": "Wild Youth",
+      "link": "https://music.163.com/album?id=75638746"
+    }
+  },
+  {
+    "name": "Hold Me",
+    "link": "https://music.163.com/song?id=492999804",
+    "duration": "03:22",
+    "artists": [
+      {
+        "name": "Selina Mour",
+        "link": "https://music.163.com/artist?id=12532598"
+      }
+    ],
+    "album": {
+      "name": "Hold Me",
+      "link": "https://music.163.com/album?id=35829122"
+    }
+  },
+  {
+    "name": "Nocturnal",
+    "link": "https://music.163.com/song?id=560821197",
+    "duration": "03:53",
+    "artists": [
+      { "name": "Elle Vee", "link": "https://music.163.com/artist?id=1046258" }
+    ],
+    "album": {
+      "name": "Nocturnal",
+      "link": "https://music.163.com/album?id=38786545"
+    }
+  },
+  {
+    "name": "Indiana (New World Remix)",
+    "link": "https://music.163.com/song?id=28601622",
+    "duration": "07:36",
+    "artists": [
+      { "name": "witness45", "link": "https://music.163.com/artist?id=708004" },
+      { "name": "New World", "link": "https://music.163.com/artist?id=230696" }
+    ],
+    "album": {
+      "name": "Indiana",
+      "link": "https://music.163.com/album?id=2853723"
+    }
+  },
+  {
+    "name": "Magic (Original Mix)",
+    "link": "https://music.163.com/song?id=27723940",
+    "duration": "04:35",
+    "artists": [
+      { "name": "FM Attack", "link": "https://music.163.com/artist?id=828113" }
+    ],
+    "album": {
+      "name": "Deja Vu",
+      "link": "https://music.163.com/album?id=2664565"
+    }
+  },
+  {
+    "name": "Green Sky",
+    "link": "https://music.163.com/song?id=30064291",
+    "duration": "03:48",
+    "artists": [
+      {
+        "name": "Alex Skrindo",
+        "link": "https://music.163.com/artist?id=1046359"
+      }
+    ],
+    "album": {
+      "name": "Green Sky",
+      "link": "https://music.163.com/album?id=3093056"
+    }
+  },
+  {
+    "name": "Can't Help Falling In Love (DARK)",
+    "link": "https://music.163.com/song?id=1373145150",
+    "duration": "02:49",
+    "artists": [
+      {
+        "name": "Tommee Profitt",
+        "link": "https://music.163.com/artist?id=28975"
+      },
+      { "name": "Brooke", "link": "https://music.163.com/artist?id=202531" }
+    ],
+    "album": {
+      "name": "Can't Help Falling In Love",
+      "link": "https://music.163.com/album?id=79916725"
+    }
+  },
+  {
+    "name": "The End (Original Mix)",
+    "link": "https://music.163.com/song?id=427142286",
+    "duration": "10:03",
+    "artists": [
+      {
+        "name": "Sound Apparel",
+        "link": "https://music.163.com/artist?id=385722"
+      }
+    ],
+    "album": {
+      "name": "The End",
+      "link": "https://music.163.com/album?id=34839388"
+    }
+  },
+  {
+    "name": "Just To Hear (Extended Mix)",
+    "link": "https://music.163.com/song?id=476630949",
+    "duration": "06:49",
+    "artists": [
+      {
+        "name": "Denis Kenzo",
+        "link": "https://music.163.com/artist?id=263670"
+      },
+      { "name": "Sveta B.", "link": "https://music.163.com/artist?id=839779" }
+    ],
+    "album": {
+      "name": "Just to Hear",
+      "link": "https://music.163.com/album?id=35456395"
+    }
+  },
+  {
+    "name": "1988 Girls",
+    "link": "https://music.163.com/song?id=506775235",
+    "duration": "04:18",
+    "artists": [
+      { "name": "Futurecop!", "link": "https://music.163.com/artist?id=92841" },
+      {
+        "name": "Manzur Iqbal",
+        "link": "https://music.163.com/artist?id=28252124"
+      },
+      {
+        "name": "Peter Carrol",
+        "link": "https://music.163.com/artist?id=28252125"
+      },
+      {
+        "name": "Motor Songs",
+        "link": "https://music.163.com/artist?id=29946234"
+      }
+    ],
+    "album": {
+      "name": "Synthwave",
+      "link": "https://music.163.com/album?id=36251111"
+    }
+  },
+  {
+    "name": "Thunderstorm for Relaxing Sleep, Pt. 18",
+    "link": "https://music.163.com/song?id=36388752",
+    "duration": "02:38",
+    "artists": [
+      {
+        "name": "Sleepy Times",
+        "link": "https://music.163.com/artist?id=1182258"
+      }
+    ],
+    "album": {
+      "name": "Sleep to Thunderstorm, Vol. 4",
+      "link": "https://music.163.com/album?id=3396289"
+    }
+  },
+  {
+    "name": "Fake",
+    "link": "https://music.163.com/song?id=1483383007",
+    "duration": "02:26",
+    "artists": [
+      { "name": "Lauv", "link": "https://music.163.com/artist?id=1057226" },
+      {
+        "name": "Conan Gray",
+        "link": "https://music.163.com/artist?id=13080534"
+      }
+    ],
+    "album": {
+      "name": "Fake",
+      "link": "https://music.163.com/album?id=96151181"
+    }
+  },
+  {
+    "name": "Remember (Original Mix)",
+    "link": "https://music.163.com/song?id=27644359",
+    "duration": "05:37",
+    "artists": [
+      { "name": "Sensitive", "link": "https://music.163.com/artist?id=820340" },
+      {
+        "name": "Bogdan Bondarenko",
+        "link": "https://music.163.com/artist?id=820341"
+      }
+    ],
+    "album": {
+      "name": "Remember",
+      "link": "https://music.163.com/album?id=2651201"
+    }
+  },
+  {
+    "name": "The River",
+    "link": "https://music.163.com/song?id=519265246",
+    "duration": "03:32",
+    "artists": [
+      {
+        "name": "Axel Johansson",
+        "link": "https://music.163.com/artist?id=12872604"
+      },
+      {
+        "name": "Tina Stachowiak",
+        "link": "https://music.163.com/artist?id=905727"
+      }
+    ],
+    "album": {
+      "name": "The River",
+      "link": "https://music.163.com/album?id=36827054"
+    }
+  },
+  {
+    "name": "Starting Over",
+    "link": "https://music.163.com/song?id=543988545",
+    "duration": "03:25",
+    "artists": [
+      {
+        "name": "Jake Miller",
+        "link": "https://music.163.com/artist?id=776761"
+      }
+    ],
+    "album": {
+      "name": "Silver Lining",
+      "link": "https://music.163.com/album?id=37887082"
+    }
+  },
+  {
+    "name": "80's Girl (Original Mix)",
+    "link": "https://music.163.com/song?id=544820910",
+    "duration": "03:56",
+    "artists": [
+      { "name": "Nina", "link": "https://music.163.com/artist?id=149874" }
+    ],
+    "album": {
+      "name": "Sleepwalking",
+      "link": "https://music.163.com/album?id=37918088"
+    }
+  },
+  {
+    "name": "San Narciso",
+    "link": "https://music.163.com/song?id=27579126",
+    "duration": "04:26",
+    "artists": [
+      {
+        "name": "Faded Paper Figures",
+        "link": "https://music.163.com/artist?id=813364"
+      }
+    ],
+    "album": {
+      "name": "The Matter",
+      "link": "https://music.163.com/album?id=2639470"
+    }
+  },
+  {
+    "name": "Rodeo",
+    "link": "https://music.163.com/song?id=1373172791",
+    "duration": "02:38",
+    "artists": [
+      {
+        "name": "Lil Nas X",
+        "link": "https://music.163.com/artist?id=31646483"
+      },
+      { "name": "Cardi B", "link": "https://music.163.com/artist?id=12504253" }
+    ],
+    "album": {
+      "name": "7 EP",
+      "link": "https://music.163.com/album?id=79920302"
+    }
+  },
+  {
+    "name": "Rainy Dumplings",
+    "link": "https://music.163.com/song?id=572182643",
+    "duration": "05:10",
+    "artists": [
+      {
+        "name": "饭碗的彼岸",
+        "link": "https://music.163.com/artist?id=1138028"
+      }
+    ],
+    "album": {
+      "name": "Rainy Dumplings",
+      "link": "https://music.163.com/album?id=39623496"
+    }
+  },
+  {
+    "name": "Sleep (Ruhde Remix)",
+    "link": "https://music.163.com/song?id=1313102183",
+    "duration": "02:28",
+    "artists": [
+      { "name": "DIMA", "link": "https://music.163.com/artist?id=27888431" },
+      {
+        "name": "Erika Sirola",
+        "link": "https://music.163.com/artist?id=28797479"
+      }
+    ],
+    "album": {
+      "name": "Sleep (Ruhde Remix)",
+      "link": "https://music.163.com/album?id=73470924"
+    }
+  },
+  {
+    "name": "Hold on to Your Heart (Daniel Kandi Radio Edit)",
+    "link": "https://music.163.com/song?id=415126685",
+    "duration": "04:28",
+    "artists": [
+      { "name": "LTN", "link": "https://music.163.com/artist?id=191742" },
+      {
+        "name": "Christina Novelli",
+        "link": "https://music.163.com/artist?id=840292"
+      },
+      {
+        "name": "Daniel Kandi",
+        "link": "https://music.163.com/artist?id=32478"
+      }
+    ],
+    "album": {
+      "name": "People I'll Never Forget (Remixes)",
+      "link": "https://music.163.com/album?id=34726016"
+    }
+  },
+  {
+    "name": "I Need a New love (Bryan Milton Remix)",
+    "link": "https://music.163.com/song?id=36492730",
+    "duration": "06:25",
+    "artists": [
+      {
+        "name": "Bryan Milton",
+        "link": "https://music.163.com/artist?id=1058218"
+      },
+      {
+        "name": "Moonnight",
+        "link": "https://music.163.com/artist?id=1050317"
+      },
+      { "name": "Natune", "link": "https://music.163.com/artist?id=1050316" }
+    ],
+    "album": {
+      "name": "I Need a New love (Bryan Milton Remix)",
+      "link": "https://music.163.com/album?id=3394429"
+    }
+  },
+  {
+    "name": "Dont Let Me Go (Echos Remix)",
+    "link": "https://music.163.com/song?id=35955770",
+    "duration": "04:15",
+    "artists": [
+      { "name": "Echos", "link": "https://music.163.com/artist?id=1112021" }
+    ],
+    "album": {
+      "name": "Don't Let Me Go (Echos Remix)",
+      "link": "https://music.163.com/album?id=3377325"
+    }
+  },
+  {
+    "name": "Lost In Paradise",
+    "link": "https://music.163.com/song?id=1500985661",
+    "duration": "03:22",
+    "artists": [
+      {
+        "name": "Monster01D",
+        "link": "https://music.163.com/artist?id=32536289"
+      },
+      { "name": "Maivoor", "link": "https://music.163.com/artist?id=31407593" }
+    ],
+    "album": {
+      "name": "Lost In Paradise",
+      "link": "https://music.163.com/album?id=99198696"
+    }
+  },
+  {
+    "name": "Exhilaration (Dimatis Remix)",
+    "link": "https://music.163.com/song?id=1405068929",
+    "duration": "04:22",
+    "artists": [
+      {
+        "name": "Sappheiros",
+        "link": "https://music.163.com/artist?id=11995187"
+      },
+      { "name": "Lotis.", "link": "https://music.163.com/artist?id=31971740" }
+    ],
+    "album": {
+      "name": "Exhilaration (Dimatis Remix)",
+      "link": "https://music.163.com/album?id=83564183"
+    }
+  },
+  {
+    "name": "Gymnopedie",
+    "link": "https://music.163.com/song?id=5067286",
+    "duration": "03:23",
+    "artists": [
+      { "name": "Trog'low", "link": "https://music.163.com/artist?id=104095" }
+    ],
+    "album": {
+      "name": "Hotel De Prestige - Lounge Exquisite 7",
+      "link": "https://music.163.com/album?id=502535"
+    }
+  },
+  {
+    "name": "One Last Night (feat. Nixon)",
+    "link": "https://music.163.com/song?id=1598511",
+    "duration": "03:13",
+    "artists": [
+      {
+        "name": "Jesse Labelle",
+        "link": "https://music.163.com/artist?id=36830"
+      }
+    ],
+    "album": { "name": "Two", "link": "https://music.163.com/album?id=162654" }
+  }
+]

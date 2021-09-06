@@ -1,0 +1,420 @@
+[
+  {
+    "name": "Illusion",
+    "link": "https://music.163.com/song?id=1383811881",
+    "duration": "03:22",
+    "artists": [
+      { "name": "浮云心丶", "link": "https://music.163.com/artist?id=12350867" }
+    ],
+    "album": {
+      "name": "Illusion",
+      "link": "https://music.163.com/album?id=80884196"
+    }
+  },
+  {
+    "name": "Ephemeral Memories",
+    "link": "https://music.163.com/song?id=554308724",
+    "duration": "03:55",
+    "artists": [
+      { "name": "MoreanP", "link": "https://music.163.com/artist?id=12275337" }
+    ],
+    "album": {
+      "name": "Ephemeral Memories",
+      "link": "https://music.163.com/album?id=38381663"
+    }
+  },
+  {
+    "name": "17.",
+    "link": "https://music.163.com/song?id=557820289",
+    "duration": "03:00",
+    "artists": [
+      {
+        "name": "ChakYoun9",
+        "link": "https://music.163.com/artist?id=12094429"
+      }
+    ],
+    "album": {
+      "name": "17.",
+      "link": "https://music.163.com/album?id=38602107"
+    }
+  },
+  {
+    "name": "Autumn",
+    "link": "https://music.163.com/song?id=535266611",
+    "duration": "03:46",
+    "artists": [
+      { "name": "Demon-K", "link": "https://music.163.com/artist?id=12078075" }
+    ],
+    "album": {
+      "name": "四季",
+      "link": "https://music.163.com/album?id=37487140"
+    }
+  },
+  {
+    "name": "Lost In Love",
+    "link": "https://music.163.com/song?id=521597063",
+    "duration": "02:17",
+    "artists": [
+      { "name": "蓝云木", "link": "https://music.163.com/artist?id=12277201" }
+    ],
+    "album": {
+      "name": "Lost In Love",
+      "link": "https://music.163.com/album?id=36867680"
+    }
+  },
+  {
+    "name": "雫",
+    "link": "https://music.163.com/song?id=533343413",
+    "duration": "02:23",
+    "artists": [
+      { "name": "Funton", "link": "https://music.163.com/artist?id=12476269" }
+    ],
+    "album": { "name": "雫", "link": "https://music.163.com/album?id=37386627" }
+  },
+  {
+    "name": "We Are Wonders of Existence",
+    "link": "https://music.163.com/song?id=34033766",
+    "duration": "03:36",
+    "artists": [
+      { "name": "Madza", "link": "https://music.163.com/artist?id=1132897" }
+    ],
+    "album": {
+      "name": "We Are Wonders of Existence",
+      "link": "https://music.163.com/album?id=3270563"
+    }
+  },
+  {
+    "name": "Where We Belong",
+    "link": "https://music.163.com/song?id=1360849407",
+    "duration": "03:01",
+    "artists": [
+      { "name": "Kozoro", "link": "https://music.163.com/artist?id=1050567" }
+    ],
+    "album": {
+      "name": "Where We Belong",
+      "link": "https://music.163.com/album?id=78725891"
+    }
+  },
+  {
+    "name": "The Innocence Of A Child",
+    "link": "https://music.163.com/song?id=431080429",
+    "duration": "03:19",
+    "artists": [
+      { "name": "Amadeus", "link": "https://music.163.com/artist?id=897183" }
+    ],
+    "album": {
+      "name": "The Innocence Of A Child",
+      "link": "https://music.163.com/album?id=34874555"
+    }
+  },
+  {
+    "name": "纵酒",
+    "link": "https://music.163.com/song?id=1321299870",
+    "duration": "03:24",
+    "artists": [
+      {
+        "name": "Forwe兰斯",
+        "link": "https://music.163.com/artist?id=12079166"
+      },
+      { "name": "Snikm", "link": "https://music.163.com/artist?id=12119610" }
+    ],
+    "album": {
+      "name": "纵酒",
+      "link": "https://music.163.com/album?id=74123975"
+    }
+  },
+  {
+    "name": "Never Gonna Let You",
+    "link": "https://music.163.com/song?id=533471294",
+    "duration": "03:17",
+    "artists": [
+      { "name": "Galavant", "link": "https://music.163.com/artist?id=858132" },
+      { "name": "Dafina", "link": "https://music.163.com/artist?id=13551498" },
+      { "name": "Max S", "link": "https://music.163.com/artist?id=13551005" }
+    ],
+    "album": {
+      "name": "Signs EP",
+      "link": "https://music.163.com/album?id=37422499"
+    }
+  },
+  {
+    "name": "I'll Be There",
+    "link": "https://music.163.com/song?id=1386091559",
+    "duration": "02:49",
+    "artists": [
+      {
+        "name": "Walk off the Earth",
+        "link": "https://music.163.com/artist?id=105493"
+      }
+    ],
+    "album": {
+      "name": "I'll Be There",
+      "link": "https://music.163.com/album?id=81107793"
+    }
+  },
+  {
+    "name": "Supersonic",
+    "link": "https://music.163.com/song?id=458496962",
+    "duration": "03:54",
+    "artists": [
+      { "name": "Rob Gasser", "link": "https://music.163.com/artist?id=762199" }
+    ],
+    "album": {
+      "name": "Supersonic",
+      "link": "https://music.163.com/album?id=35157746"
+    }
+  },
+  {
+    "name": "Melting Point",
+    "link": "https://music.163.com/song?id=34601995",
+    "duration": "04:43",
+    "artists": [
+      {
+        "name": "Mitch Murder",
+        "link": "https://music.163.com/artist?id=710374"
+      }
+    ],
+    "album": {
+      "name": "Selection 3",
+      "link": "https://music.163.com/album?id=3279935"
+    }
+  },
+  {
+    "name": "Cruise",
+    "link": "https://music.163.com/song?id=33414569",
+    "duration": "02:59",
+    "artists": [
+      { "name": "Attom", "link": "https://music.163.com/artist?id=1115083" }
+    ],
+    "album": {
+      "name": " Cruise",
+      "link": "https://music.163.com/album?id=3210177"
+    }
+  },
+  {
+    "name": "Monster",
+    "link": "https://music.163.com/song?id=27733390",
+    "duration": "04:09",
+    "artists": [
+      {
+        "name": "Imagine Dragons",
+        "link": "https://music.163.com/artist?id=94779"
+      }
+    ],
+    "album": {
+      "name": "Monster",
+      "link": "https://music.163.com/album?id=2668062"
+    }
+  },
+  {
+    "name": "Farewell",
+    "link": "https://music.163.com/song?id=513230026",
+    "duration": "03:42",
+    "artists": [
+      { "name": "Wisp X", "link": "https://music.163.com/artist?id=1046123" }
+    ],
+    "album": {
+      "name": "Mirai",
+      "link": "https://music.163.com/album?id=36568513"
+    }
+  },
+  {
+    "name": "03-Can I be Survived",
+    "link": "https://music.163.com/song?id=549145489",
+    "duration": "03:01",
+    "artists": [
+      {
+        "name": "Cre-sc3NT",
+        "link": "https://music.163.com/artist?id=1211009"
+      },
+      { "name": "橙沁Asa", "link": "https://music.163.com/artist?id=12258321" }
+    ],
+    "album": {
+      "name": "Epoch：Incandescence",
+      "link": "https://music.163.com/album?id=38082439"
+    }
+  },
+  {
+    "name": "Days of Thunder",
+    "link": "https://music.163.com/song?id=28999943",
+    "duration": "05:24",
+    "artists": [
+      {
+        "name": "The Midnight",
+        "link": "https://music.163.com/artist?id=12023492"
+      }
+    ],
+    "album": {
+      "name": "Days of Thunder",
+      "link": "https://music.163.com/album?id=2976060"
+    }
+  },
+  {
+    "name": "梦回古城",
+    "link": "https://music.163.com/song?id=1300726775",
+    "duration": "03:30",
+    "artists": [
+      {
+        "name": "Hope Boy",
+        "link": "https://music.163.com/artist?id=12851419"
+      },
+      { "name": "杨世贸", "link": "https://music.163.com/artist?id=12571508" }
+    ],
+    "album": {
+      "name": "梦回古城",
+      "link": "https://music.163.com/album?id=72235788"
+    }
+  },
+  {
+    "name": "Funky Stars",
+    "link": "https://music.163.com/song?id=428350808",
+    "duration": "05:19",
+    "artists": [
+      { "name": "Quazar", "link": "https://music.163.com/artist?id=99369" }
+    ],
+    "album": {
+      "name": "Funky Stars",
+      "link": "https://music.163.com/album?id=34861261"
+    }
+  },
+  {
+    "name": "No Longer(Original Mix)",
+    "link": "https://music.163.com/song?id=426832134",
+    "duration": "04:03",
+    "artists": [
+      { "name": "Ellivs", "link": "https://music.163.com/artist?id=12038060" }
+    ],
+    "album": {
+      "name": "No Longer",
+      "link": "https://music.163.com/album?id=34836053"
+    }
+  },
+  {
+    "name": "I Can't Say No! (Broiler Remix)",
+    "link": "https://music.163.com/song?id=552969099",
+    "duration": "03:24",
+    "artists": [
+      { "name": "Lea Rue", "link": "https://music.163.com/artist?id=1124213" }
+    ],
+    "album": {
+      "name": "Armada - Amsterdam Dance Event 2015",
+      "link": "https://music.163.com/album?id=38358185"
+    }
+  },
+  {
+    "name": "Lock Me Up",
+    "link": "https://music.163.com/song?id=28464997",
+    "duration": "03:31",
+    "artists": [
+      { "name": "The Cab", "link": "https://music.163.com/artist?id=44403" }
+    ],
+    "album": {
+      "name": "Lock Me Up EP",
+      "link": "https://music.163.com/album?id=2800780"
+    }
+  },
+  {
+    "name": "It's time to be cute",
+    "link": "https://music.163.com/song?id=1353107194",
+    "duration": "03:02",
+    "artists": [
+      { "name": "可乐梦", "link": "https://music.163.com/artist?id=12432046" }
+    ],
+    "album": {
+      "name": "It's time to be cute",
+      "link": "https://music.163.com/album?id=75616370"
+    }
+  },
+  {
+    "name": "crystal dolphin",
+    "link": "https://music.163.com/song?id=518895765",
+    "duration": "01:55",
+    "artists": [
+      {
+        "name": "engelwood",
+        "link": "https://music.163.com/artist?id=12107286"
+      }
+    ],
+    "album": {
+      "name": "crystal dolphin",
+      "link": "https://music.163.com/album?id=36811193"
+    }
+  },
+  {
+    "name": "Relax, Take It Easy",
+    "link": "https://music.163.com/song?id=21151698",
+    "duration": "03:44",
+    "artists": [
+      { "name": "Mika", "link": "https://music.163.com/artist?id=38849" }
+    ],
+    "album": {
+      "name": "Relax, Take It Easy",
+      "link": "https://music.163.com/album?id=1956058"
+    }
+  },
+  {
+    "name": "Tomorrow",
+    "link": "https://music.163.com/song?id=536701813",
+    "duration": "03:54",
+    "artists": [
+      {
+        "name": "Dave Erpson",
+        "link": "https://music.163.com/artist?id=12031055"
+      }
+    ],
+    "album": {
+      "name": "Essential House",
+      "link": "https://music.163.com/album?id=37574449"
+    }
+  },
+  {
+    "name": "倘若有天我辞了这人世",
+    "link": "https://music.163.com/song?id=1305443990",
+    "duration": "03:32",
+    "artists": [
+      { "name": "闹闹丶", "link": "https://music.163.com/artist?id=12357233" },
+      { "name": "洛天依", "link": "https://music.163.com/artist?id=906118" }
+    ],
+    "album": {
+      "name": "倘若有天我辞了这人世",
+      "link": "https://music.163.com/album?id=72531465"
+    }
+  },
+  {
+    "name": "Lose Control",
+    "link": "https://music.163.com/song?id=36307815",
+    "duration": "03:46",
+    "artists": [
+      { "name": "Hedley", "link": "https://music.163.com/artist?id=93826" }
+    ],
+    "album": {
+      "name": "Hello",
+      "link": "https://music.163.com/album?id=3394198"
+    }
+  },
+  {
+    "name": "To B Continued (VC全员版/B站十周年应援曲)",
+    "link": "https://music.163.com/song?id=1374755154",
+    "duration": "04:34",
+    "artists": [
+      { "name": "米库喵P", "link": "https://music.163.com/artist?id=12037036" },
+      { "name": "星尘", "link": "https://music.163.com/artist?id=12046092" }
+    ],
+    "album": {
+      "name": "【虚拟歌手9人/VC全员】B站十周年应援曲~To B Continued~",
+      "link": "https://music.163.com/album?id=80031113"
+    }
+  },
+  {
+    "name": "A Head Full Of Dreams",
+    "link": "https://music.163.com/song?id=37240628",
+    "duration": "03:43",
+    "artists": [
+      { "name": "Coldplay", "link": "https://music.163.com/artist?id=89365" }
+    ],
+    "album": {
+      "name": "A Head Full of Dreams",
+      "link": "https://music.163.com/album?id=3419156"
+    }
+  }
+]

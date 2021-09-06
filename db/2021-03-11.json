@@ -1,0 +1,486 @@
+[
+  {
+    "name": "Escape With You",
+    "link": "https://music.163.com/song?id=1437188531",
+    "duration": "03:23",
+    "artists": [
+      { "name": "Kooma", "link": "https://music.163.com/artist?id=12726149" },
+      { "name": "Veela", "link": "https://music.163.com/artist?id=193221" }
+    ],
+    "album": {
+      "name": "Escape With You",
+      "link": "https://music.163.com/album?id=87542356"
+    }
+  },
+  {
+    "name": "When You're Lonely",
+    "link": "https://music.163.com/song?id=1416550753",
+    "duration": "02:51",
+    "artists": [
+      { "name": "Hoang", "link": "https://music.163.com/artist?id=27694442" }
+    ],
+    "album": {
+      "name": "When You're Lonely",
+      "link": "https://music.163.com/album?id=84967168"
+    }
+  },
+  {
+    "name": "What U Do",
+    "link": "https://music.163.com/song?id=1459697279",
+    "duration": "02:22",
+    "artists": [
+      {
+        "name": "Wild Culture",
+        "link": "https://music.163.com/artist?id=787041"
+      },
+      { "name": "Shel Bee", "link": "https://music.163.com/artist?id=30086331" }
+    ],
+    "album": {
+      "name": "What U Do",
+      "link": "https://music.163.com/album?id=91839414"
+    }
+  },
+  {
+    "name": "Switching Clouds",
+    "link": "https://music.163.com/song?id=1356187087",
+    "duration": "02:37",
+    "artists": [
+      { "name": "Wallaby", "link": "https://music.163.com/artist?id=12086070" },
+      { "name": "Sky Li", "link": "https://music.163.com/artist?id=31824811" }
+    ],
+    "album": {
+      "name": "Switching Clouds",
+      "link": "https://music.163.com/album?id=78292308"
+    }
+  },
+  {
+    "name": "Call My Number",
+    "link": "https://music.163.com/song?id=1378839359",
+    "duration": "02:57",
+    "artists": [
+      { "name": "Sickrate", "link": "https://music.163.com/artist?id=32795333" }
+    ],
+    "album": {
+      "name": "Call My Number",
+      "link": "https://music.163.com/album?id=80489936"
+    }
+  },
+  {
+    "name": "way to you",
+    "link": "https://music.163.com/song?id=1430240225",
+    "duration": "02:43",
+    "artists": [
+      {
+        "name": "Gareth Emery",
+        "link": "https://music.163.com/artist?id=34318"
+      }
+    ],
+    "album": {
+      "name": "THE LASERS",
+      "link": "https://music.163.com/album?id=86432931"
+    }
+  },
+  {
+    "name": "Aspire",
+    "link": "https://music.163.com/song?id=34040720",
+    "duration": "03:32",
+    "artists": [
+      { "name": "CelDro", "link": "https://music.163.com/artist?id=1132950" }
+    ],
+    "album": {
+      "name": "Aspire",
+      "link": "https://music.163.com/album?id=3270701"
+    }
+  },
+  {
+    "name": "Missing Out",
+    "link": "https://music.163.com/song?id=1438721915",
+    "duration": "03:22",
+    "artists": [
+      { "name": "The Ivy", "link": "https://music.163.com/artist?id=12080293" }
+    ],
+    "album": {
+      "name": "Missing Out",
+      "link": "https://music.163.com/album?id=87774397"
+    }
+  },
+  {
+    "name": "只是我以为",
+    "link": "https://music.163.com/song?id=1825754274",
+    "duration": "02:41",
+    "artists": [
+      { "name": "KRevile", "link": "https://music.163.com/artist?id=36512867" }
+    ],
+    "album": {
+      "name": "Meseems merely",
+      "link": "https://music.163.com/album?id=123950903"
+    }
+  },
+  {
+    "name": "Insomnia",
+    "link": "https://music.163.com/song?id=1350638256",
+    "duration": "02:59",
+    "artists": [
+      { "name": "Daya", "link": "https://music.163.com/artist?id=1081186" }
+    ],
+    "album": {
+      "name": "Insomnia",
+      "link": "https://music.163.com/album?id=75797761"
+    }
+  },
+  {
+    "name": "For You",
+    "link": "https://music.163.com/song?id=1409288398",
+    "duration": "03:31",
+    "artists": [
+      {
+        "name": "Chill Satellite",
+        "link": "https://music.163.com/artist?id=33421944"
+      }
+    ],
+    "album": {
+      "name": "For You",
+      "link": "https://music.163.com/album?id=84069518"
+    }
+  },
+  {
+    "name": "Bloom",
+    "link": "https://music.163.com/song?id=1442454178",
+    "duration": "03:03",
+    "artists": [
+      { "name": "Omnia", "link": "https://music.163.com/artist?id=179006" }
+    ],
+    "album": {
+      "name": "Bloom",
+      "link": "https://music.163.com/album?id=88347065"
+    }
+  },
+  {
+    "name": "No Stopping Love",
+    "link": "https://music.163.com/song?id=1343485389",
+    "duration": "03:02",
+    "artists": [
+      {
+        "name": "Dirty Palm",
+        "link": "https://music.163.com/artist?id=1155029"
+      }
+    ],
+    "album": {
+      "name": "No Stopping Love",
+      "link": "https://music.163.com/album?id=75407638"
+    }
+  },
+  {
+    "name": "Bara Du",
+    "link": "https://music.163.com/song?id=547764471",
+    "duration": "02:33",
+    "artists": [
+      { "name": "Kasbo", "link": "https://music.163.com/artist?id=936040" }
+    ],
+    "album": {
+      "name": "Places We Don't Know",
+      "link": "https://music.163.com/album?id=38033094"
+    }
+  },
+  {
+    "name": "When I Really Come Alive",
+    "link": "https://music.163.com/song?id=1390025806",
+    "duration": "03:28",
+    "artists": [
+      {
+        "name": "Wildflowers",
+        "link": "https://music.163.com/artist?id=12977810"
+      },
+      {
+        "name": "Vincent Vega",
+        "link": "https://music.163.com/artist?id=12929052"
+      }
+    ],
+    "album": {
+      "name": "I Won't Waste This",
+      "link": "https://music.163.com/album?id=81532903"
+    }
+  },
+  {
+    "name": "Waiting",
+    "link": "https://music.163.com/song?id=1397701756",
+    "duration": "03:25",
+    "artists": [
+      { "name": "Vicetone", "link": "https://music.163.com/artist?id=747030" },
+      {
+        "name": "Daisy Guttridge",
+        "link": "https://music.163.com/artist?id=13222414"
+      },
+      {
+        "name": "Eric Leva",
+        "link": "https://music.163.com/artist?id=14269985"
+      }
+    ],
+    "album": {
+      "name": "Monstercat Instinct Vol. 4",
+      "link": "https://music.163.com/album?id=82525503"
+    }
+  },
+  {
+    "name": "Glance Back",
+    "link": "https://music.163.com/song?id=506688329",
+    "duration": "04:43",
+    "artists": [
+      {
+        "name": "ELE SHEEP",
+        "link": "https://music.163.com/artist?id=12147203"
+      }
+    ],
+    "album": {
+      "name": "Glance Back",
+      "link": "https://music.163.com/album?id=36231473"
+    }
+  },
+  {
+    "name": "Levitate",
+    "link": "https://music.163.com/song?id=406737893",
+    "duration": "04:04",
+    "artists": [
+      { "name": "FEWZ", "link": "https://music.163.com/artist?id=12008133" }
+    ],
+    "album": {
+      "name": "Levitate",
+      "link": "https://music.163.com/album?id=34555371"
+    }
+  },
+  {
+    "name": "Way Less Sad",
+    "link": "https://music.163.com/song?id=1817894178",
+    "duration": "03:26",
+    "artists": [
+      { "name": "AJR", "link": "https://music.163.com/artist?id=88089" }
+    ],
+    "album": {
+      "name": "Way Less Sad",
+      "link": "https://music.163.com/album?id=122600284"
+    }
+  },
+  {
+    "name": "Punks",
+    "link": "https://music.163.com/song?id=1340759949",
+    "duration": "03:43",
+    "artists": [
+      {
+        "name": "Vincent Achram",
+        "link": "https://music.163.com/artist?id=1192097"
+      },
+      { "name": "Nevve", "link": "https://music.163.com/artist?id=12567101" }
+    ],
+    "album": {
+      "name": "Punks",
+      "link": "https://music.163.com/album?id=75263388"
+    }
+  },
+  {
+    "name": "So Out Of Reach (Martian chillout remix)",
+    "link": "https://music.163.com/song?id=512359496",
+    "duration": "05:54",
+    "artists": [
+      {
+        "name": "Ellie Lawson",
+        "link": "https://music.163.com/artist?id=56061"
+      },
+      {
+        "name": "Space RockerZ",
+        "link": "https://music.163.com/artist?id=207525"
+      },
+      { "name": "Martian", "link": "https://music.163.com/artist?id=1191219" }
+    ],
+    "album": {
+      "name": "So Out Of Reach (Martian chillout remix)  ",
+      "link": "https://music.163.com/album?id=36529093"
+    }
+  },
+  {
+    "name": "We Radiate",
+    "link": "https://music.163.com/song?id=5039557",
+    "duration": "03:45",
+    "artists": [
+      { "name": "Goldfrapp", "link": "https://music.163.com/artist?id=93193" }
+    ],
+    "album": {
+      "name": "The Vampire Diaries (Original Television Soundtrack)",
+      "link": "https://music.163.com/album?id=500569"
+    }
+  },
+  {
+    "name": "Touched",
+    "link": "https://music.163.com/song?id=1376078383",
+    "duration": "03:33",
+    "artists": [
+      {
+        "name": "Tyron Hapi",
+        "link": "https://music.163.com/artist?id=1191114"
+      },
+      {
+        "name": "Roy Bing",
+        "link": "https://music.163.com/artist?id=32695394"
+      },
+      {
+        "name": "Carla Wehbe",
+        "link": "https://music.163.com/artist?id=12108999"
+      }
+    ],
+    "album": {
+      "name": "Touched",
+      "link": "https://music.163.com/album?id=80234136"
+    }
+  },
+  {
+    "name": "Ride It",
+    "link": "https://music.163.com/song?id=1379945341",
+    "duration": "02:37",
+    "artists": [
+      { "name": "Regard", "link": "https://music.163.com/artist?id=12260125" }
+    ],
+    "album": {
+      "name": "Ride It",
+      "link": "https://music.163.com/album?id=80594567"
+    }
+  },
+  {
+    "name": "Baby Don't Talk",
+    "link": "https://music.163.com/song?id=1349215366",
+    "duration": "03:09",
+    "artists": [
+      { "name": "LÉON", "link": "https://music.163.com/artist?id=1178081" }
+    ],
+    "album": {
+      "name": "LÉON",
+      "link": "https://music.163.com/album?id=75738382"
+    }
+  },
+  {
+    "name": "SAVED ME",
+    "link": "https://music.163.com/song?id=1438773079",
+    "duration": "03:15",
+    "artists": [
+      {
+        "name": "Jake Miller",
+        "link": "https://music.163.com/artist?id=776761"
+      }
+    ],
+    "album": {
+      "name": "SAVED ME",
+      "link": "https://music.163.com/album?id=87787415"
+    }
+  },
+  {
+    "name": "Without You (feat. Holly Drummond)",
+    "link": "https://music.163.com/song?id=552208003",
+    "duration": "03:45",
+    "artists": [
+      {
+        "name": "Holly Drummond",
+        "link": "https://music.163.com/artist?id=361765"
+      },
+      {
+        "name": "Finding Hope",
+        "link": "https://music.163.com/artist?id=1155051"
+      }
+    ],
+    "album": {
+      "name": "Without You (feat. Holly Drummond)",
+      "link": "https://music.163.com/album?id=38319878"
+    }
+  },
+  {
+    "name": "Things About You",
+    "link": "https://music.163.com/song?id=29490359",
+    "duration": "07:15",
+    "artists": [
+      {
+        "name": "Roald Velden",
+        "link": "https://music.163.com/artist?id=178498"
+      }
+    ],
+    "album": {
+      "name": "Last Flight Home",
+      "link": "https://music.163.com/album?id=3033342"
+    }
+  },
+  {
+    "name": "Drowning (Extended Mix)",
+    "link": "https://music.163.com/song?id=1459160860",
+    "duration": "06:21",
+    "artists": [
+      {
+        "name": "Woody van Eyden",
+        "link": "https://music.163.com/artist?id=135110"
+      },
+      { "name": "DJ T.H.", "link": "https://music.163.com/artist?id=207667" },
+      { "name": "Cari", "link": "https://music.163.com/artist?id=1132863" }
+    ],
+    "album": {
+      "name": "Drowning",
+      "link": "https://music.163.com/album?id=91732709"
+    }
+  },
+  {
+    "name": "Plans",
+    "link": "https://music.163.com/song?id=1480249366",
+    "duration": "03:10",
+    "artists": [
+      { "name": "CXLOE", "link": "https://music.163.com/artist?id=12946512" }
+    ],
+    "album": {
+      "name": "Heavy, Pt. 1",
+      "link": "https://music.163.com/album?id=95605828"
+    }
+  },
+  {
+    "name": "Shelter Me (Moonnight remix)",
+    "link": "https://music.163.com/song?id=30621822",
+    "duration": "04:45",
+    "artists": [
+      {
+        "name": "Dart Rayne",
+        "link": "https://music.163.com/artist?id=709066"
+      },
+      {
+        "name": "Yura Moonlight",
+        "link": "https://music.163.com/artist?id=813382"
+      },
+      {
+        "name": "Cate Kanell",
+        "link": "https://music.163.com/artist?id=756015"
+      }
+    ],
+    "album": {
+      "name": "Shelter Me (Moonnight remix)",
+      "link": "https://music.163.com/album?id=3104108"
+    }
+  },
+  {
+    "name": "Automatic Call (Original Mix)",
+    "link": "https://music.163.com/song?id=1405367718",
+    "duration": "05:04",
+    "artists": [
+      { "name": "Nina", "link": "https://music.163.com/artist?id=149874" }
+    ],
+    "album": {
+      "name": "Automatic Call (Single EP)",
+      "link": "https://music.163.com/album?id=83606602"
+    }
+  },
+  {
+    "name": "What Do You Mean?",
+    "link": "https://music.163.com/song?id=1825132291",
+    "duration": "03:28",
+    "artists": [
+      {
+        "name": "Justin Bieber",
+        "link": "https://music.163.com/artist?id=35531"
+      }
+    ],
+    "album": {
+      "name": "Twenty-Tens Pop",
+      "link": "https://music.163.com/album?id=123938580"
+    }
+  }
+]

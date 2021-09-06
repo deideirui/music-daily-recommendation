@@ -1,0 +1,513 @@
+[
+  {
+    "name": "All Night Long",
+    "link": "https://music.163.com/song?id=1297747234",
+    "duration": "03:35",
+    "artists": [
+      {
+        "name": "JST FRNDS",
+        "link": "https://music.163.com/artist?id=28390266"
+      }
+    ],
+    "album": {
+      "name": "All Night Long",
+      "link": "https://music.163.com/album?id=72069710"
+    }
+  },
+  {
+    "name": "隐瞒之事op《ちいさな日々》吉他弹唱（翻自 flumpool）",
+    "link": "https://music.163.com/song?id=1443321127",
+    "duration": "01:39",
+    "artists": [
+      { "name": "ayy阿远", "link": "https://music.163.com/artist?id=32435807" }
+    ],
+    "album": {
+      "name": "ayy阿远的2020新番扒谱弹唱",
+      "link": "https://music.163.com/album?id=88187686"
+    }
+  },
+  {
+    "name": "I Wonder",
+    "link": "https://music.163.com/song?id=1445299987",
+    "duration": "02:31",
+    "artists": [
+      {
+        "name": "Narrow Skies",
+        "link": "https://music.163.com/artist?id=12475844"
+      }
+    ],
+    "album": {
+      "name": "I Wonder",
+      "link": "https://music.163.com/album?id=88900676"
+    }
+  },
+  {
+    "name": "向かい風に打たれながら (TV Size)",
+    "link": "https://music.163.com/song?id=29828229",
+    "duration": "01:31",
+    "artists": [
+      { "name": "茅原実里", "link": "https://music.163.com/artist?id=17596" }
+    ],
+    "album": {
+      "name": "TVアニメ RAIL WARS!オリジナルサウンドトラック",
+      "link": "https://music.163.com/album?id=3085007"
+    }
+  },
+  {
+    "name": "Dying For You",
+    "link": "https://music.163.com/song?id=36307863",
+    "duration": "03:16",
+    "artists": [
+      {
+        "name": "Lindsey Stirling",
+        "link": "https://music.163.com/artist?id=66225"
+      },
+      {
+        "name": "Otto Knows",
+        "link": "https://music.163.com/artist?id=694019"
+      },
+      {
+        "name": "Alex Aris",
+        "link": "https://music.163.com/artist?id=13226187"
+      }
+    ],
+    "album": {
+      "name": "Dying For You",
+      "link": "https://music.163.com/album?id=3394212"
+    }
+  },
+  {
+    "name": "Let Me Out",
+    "link": "https://music.163.com/song?id=1820939669",
+    "duration": "03:00",
+    "artists": [
+      {
+        "name": "Feenixpawl",
+        "link": "https://music.163.com/artist?id=290025"
+      },
+      { "name": "dreamr.", "link": "https://music.163.com/artist?id=34647366" },
+      { "name": "Anvy", "link": "https://music.163.com/artist?id=14203234" }
+    ],
+    "album": {
+      "name": "Let Me Out",
+      "link": "https://music.163.com/album?id=123173298"
+    }
+  },
+  {
+    "name": "Remember Me",
+    "link": "https://music.163.com/song?id=1810564108",
+    "duration": "03:37",
+    "artists": [
+      {
+        "name": "Rico & Miella",
+        "link": "https://music.163.com/artist?id=1050743"
+      }
+    ],
+    "album": {
+      "name": "Remember Me",
+      "link": "https://music.163.com/album?id=121397218"
+    }
+  },
+  {
+    "name": "Save Tonight",
+    "link": "https://music.163.com/song?id=35403580",
+    "duration": "03:18",
+    "artists": [
+      {
+        "name": "Campsite Dream",
+        "link": "https://music.163.com/artist?id=1146068"
+      }
+    ],
+    "album": {
+      "name": "Save Tonight",
+      "link": "https://music.163.com/album?id=3319418"
+    }
+  },
+  {
+    "name": "出现",
+    "link": "https://music.163.com/song?id=1820314460",
+    "duration": "03:32",
+    "artists": [
+      {
+        "name": "TalanTara傅悅",
+        "link": "https://music.163.com/artist?id=32744691"
+      },
+      { "name": "啜欣宇", "link": "https://music.163.com/artist?id=30436228" }
+    ],
+    "album": {
+      "name": "出现",
+      "link": "https://music.163.com/album?id=123052946"
+    }
+  },
+  {
+    "name": "What if She Knows",
+    "link": "https://music.163.com/song?id=554375621",
+    "duration": "02:48",
+    "artists": [
+      { "name": "Severo", "link": "https://music.163.com/artist?id=1115077" },
+      { "name": "Linn", "link": "https://music.163.com/artist?id=215537" },
+      { "name": "Ellusive", "link": "https://music.163.com/artist?id=792170" }
+    ],
+    "album": {
+      "name": "What if She Knows",
+      "link": "https://music.163.com/album?id=38435988"
+    }
+  },
+  {
+    "name": "Find My Way (Original Mix)",
+    "link": "https://music.163.com/song?id=1487576137",
+    "duration": "03:19",
+    "artists": [
+      { "name": "JAD3D", "link": "https://music.163.com/artist?id=35258832" },
+      {
+        "name": "Alley Parton",
+        "link": "https://music.163.com/artist?id=31553954"
+      }
+    ],
+    "album": {
+      "name": "Find My Way",
+      "link": "https://music.163.com/album?id=96896590"
+    }
+  },
+  {
+    "name": "18",
+    "link": "https://music.163.com/song?id=1359818025",
+    "duration": "03:16",
+    "artists": [
+      { "name": "Miles Away", "link": "https://music.163.com/artist?id=96821" },
+      { "name": "AXYS", "link": "https://music.163.com/artist?id=13080193" },
+      { "name": "RYYZN", "link": "https://music.163.com/artist?id=31280623" }
+    ],
+    "album": {
+      "name": "18 ",
+      "link": "https://music.163.com/album?id=78618882"
+    }
+  },
+  {
+    "name": "Where I Am",
+    "link": "https://music.163.com/song?id=1404531134",
+    "duration": "03:34",
+    "artists": [
+      { "name": "4URA", "link": "https://music.163.com/artist?id=33019808" }
+    ],
+    "album": {
+      "name": "Where I Am",
+      "link": "https://music.163.com/album?id=83491140"
+    }
+  },
+  {
+    "name": "Escape With You",
+    "link": "https://music.163.com/song?id=1437188531",
+    "duration": "03:23",
+    "artists": [
+      { "name": "Kooma", "link": "https://music.163.com/artist?id=12726149" },
+      { "name": "Veela", "link": "https://music.163.com/artist?id=193221" }
+    ],
+    "album": {
+      "name": "Escape With You",
+      "link": "https://music.163.com/album?id=87542356"
+    }
+  },
+  {
+    "name": "****",
+    "link": "https://music.163.com/song?id=553915892",
+    "duration": "03:32",
+    "artists": [
+      {
+        "name": "Oliver Moldan",
+        "link": "https://music.163.com/artist?id=205398"
+      }
+    ],
+    "album": {
+      "name": "**** EP",
+      "link": "https://music.163.com/album?id=38408766"
+    }
+  },
+  {
+    "name": "Million Reasons (feat. Zophia)",
+    "link": "https://music.163.com/song?id=1849432768",
+    "duration": "02:55",
+    "artists": [
+      {
+        "name": "Jay Hardway",
+        "link": "https://music.163.com/artist?id=710069"
+      },
+      { "name": "Zophia", "link": "https://music.163.com/artist?id=35629008" }
+    ],
+    "album": {
+      "name": "Million Reasons (feat. Zophia)",
+      "link": "https://music.163.com/album?id=128242792"
+    }
+  },
+  {
+    "name": "Take Me Away",
+    "link": "https://music.163.com/song?id=1817054112",
+    "duration": "03:54",
+    "artists": [
+      {
+        "name": "马丁的披萨PizzA_",
+        "link": "https://music.163.com/artist?id=34203643"
+      },
+      { "name": "Krbread", "link": "https://music.163.com/artist?id=32934907" },
+      {
+        "name": "小培lovely",
+        "link": "https://music.163.com/artist?id=32574792"
+      }
+    ],
+    "album": {
+      "name": "Take Me Away",
+      "link": "https://music.163.com/album?id=122397796"
+    }
+  },
+  {
+    "name": "Start Again",
+    "link": "https://music.163.com/song?id=1842286746",
+    "duration": "02:27",
+    "artists": [
+      { "name": "OVSKY", "link": "https://music.163.com/artist?id=36560569" }
+    ],
+    "album": {
+      "name": "Start Again",
+      "link": "https://music.163.com/album?id=126886706"
+    }
+  },
+  {
+    "name": "Remember The Summer (feat. Karra)",
+    "link": "https://music.163.com/song?id=1849954090",
+    "duration": "02:50",
+    "artists": [
+      {
+        "name": "Ummet Ozcan",
+        "link": "https://music.163.com/artist?id=711465"
+      },
+      {
+        "name": "FrogMonster",
+        "link": "https://music.163.com/artist?id=30549371"
+      },
+      { "name": "Karra", "link": "https://music.163.com/artist?id=1081582" }
+    ],
+    "album": {
+      "name": "Remember The Summer (feat. Karra)",
+      "link": "https://music.163.com/album?id=128371687"
+    }
+  },
+  {
+    "name": "I Wanna Know (Syn Cole Remix)",
+    "link": "https://music.163.com/song?id=555974147",
+    "duration": "02:59",
+    "artists": [
+      { "name": "NOTD", "link": "https://music.163.com/artist?id=12262306" },
+      {
+        "name": "Bea Miller",
+        "link": "https://music.163.com/artist?id=908180"
+      },
+      { "name": "Syn Cole", "link": "https://music.163.com/artist?id=854432" }
+    ],
+    "album": {
+      "name": "I Wanna Know (Remixes)",
+      "link": "https://music.163.com/album?id=38513028"
+    }
+  },
+  {
+    "name": "Run Free (with HUTS) (Original Mix)",
+    "link": "https://music.163.com/song?id=1469151632",
+    "duration": "02:13",
+    "artists": [
+      {
+        "name": "Deep Chills",
+        "link": "https://music.163.com/artist?id=1063083"
+      },
+      { "name": "Huts", "link": "https://music.163.com/artist?id=14555373" }
+    ],
+    "album": {
+      "name": "Run Free (with HUTS)",
+      "link": "https://music.163.com/album?id=93629798"
+    }
+  },
+  {
+    "name": "Don't Forget (Blaikz Remix)",
+    "link": "https://music.163.com/song?id=1396038549",
+    "duration": "02:36",
+    "artists": [
+      { "name": "LIZOT", "link": "https://music.163.com/artist?id=1137483" },
+      { "name": "Nevve", "link": "https://music.163.com/artist?id=12567101" },
+      { "name": "Blaikz", "link": "https://music.163.com/artist?id=12107651" }
+    ],
+    "album": {
+      "name": "Don't Forget (Blaikz Remix)",
+      "link": "https://music.163.com/album?id=82272661"
+    }
+  },
+  {
+    "name": "How to Love (feat. Sofia Reyes)",
+    "link": "https://music.163.com/song?id=1351720516",
+    "duration": "03:39",
+    "artists": [
+      { "name": "Cash Cash", "link": "https://music.163.com/artist?id=50905" }
+    ],
+    "album": {
+      "name": "Feel Good Workout",
+      "link": "https://music.163.com/album?id=75838624"
+    }
+  },
+  {
+    "name": "Drowning",
+    "link": "https://music.163.com/song?id=1356230977",
+    "duration": "04:30",
+    "artists": [
+      { "name": "Jai Wolf", "link": "https://music.163.com/artist?id=1063048" },
+      { "name": "Robokid", "link": "https://music.163.com/artist?id=818002" }
+    ],
+    "album": {
+      "name": "The Cure To Loneliness",
+      "link": "https://music.163.com/album?id=78300643"
+    }
+  },
+  {
+    "name": "Reborn",
+    "link": "https://music.163.com/song?id=1825558794",
+    "duration": "02:48",
+    "artists": [
+      {
+        "name": "AJonnyCool",
+        "link": "https://music.163.com/artist?id=12282902"
+      }
+    ],
+    "album": {
+      "name": "Reborn",
+      "link": "https://music.163.com/album?id=123948646"
+    }
+  },
+  {
+    "name": "Thin Air",
+    "link": "https://music.163.com/song?id=438462567",
+    "duration": "05:23",
+    "artists": [
+      { "name": "Equador", "link": "https://music.163.com/artist?id=12155415" }
+    ],
+    "album": {
+      "name": "Bones of Man",
+      "link": "https://music.163.com/album?id=34923339"
+    }
+  },
+  {
+    "name": "Empty Love",
+    "link": "https://music.163.com/song?id=1445073481",
+    "duration": "02:50",
+    "artists": [
+      { "name": "Lulleaux", "link": "https://music.163.com/artist?id=1115185" }
+    ],
+    "album": {
+      "name": "Dance Hits 2020 - Summer Edition",
+      "link": "https://music.163.com/album?id=88857097"
+    }
+  },
+  {
+    "name": "Daydreaming",
+    "link": "https://music.163.com/song?id=520274123",
+    "duration": "03:07",
+    "artists": [
+      {
+        "name": "Swanky Tunes",
+        "link": "https://music.163.com/artist?id=206627"
+      },
+      {
+        "name": "Going Deeper",
+        "link": "https://music.163.com/artist?id=977174"
+      },
+      { "name": "Tom Bailey", "link": "https://music.163.com/artist?id=328443" }
+    ],
+    "album": {
+      "name": "Daydreaming",
+      "link": "https://music.163.com/album?id=36847022"
+    }
+  },
+  {
+    "name": "Electric",
+    "link": "https://music.163.com/song?id=408055512",
+    "duration": "04:39",
+    "artists": [
+      { "name": "Brett", "link": "https://music.163.com/artist?id=967045" }
+    ],
+    "album": {
+      "name": "Mode",
+      "link": "https://music.163.com/album?id=34588340"
+    }
+  },
+  {
+    "name": "只为遇见你",
+    "link": "https://music.163.com/song?id=1380263700",
+    "duration": "03:12",
+    "artists": [
+      {
+        "name": "Peter-潘",
+        "link": "https://music.163.com/artist?id=12292467"
+      },
+      { "name": "谢雨纯", "link": "https://music.163.com/artist?id=12605484" }
+    ],
+    "album": {
+      "name": "Just to Meet You",
+      "link": "https://music.163.com/album?id=80562407"
+    }
+  },
+  {
+    "name": "Trouble (Mike Williams Remix)",
+    "link": "https://music.163.com/song?id=487375361",
+    "duration": "03:36",
+    "artists": [
+      {
+        "name": "Mike Williams",
+        "link": "https://music.163.com/artist?id=302020"
+      },
+      { "name": "VÉRITÉ", "link": "https://music.163.com/artist?id=963498" },
+      { "name": "R3HAB", "link": "https://music.163.com/artist?id=197248" }
+    ],
+    "album": {
+      "name": "Trouble (Mike Williams Remix)",
+      "link": "https://music.163.com/album?id=35688344"
+    }
+  },
+  {
+    "name": "Home",
+    "link": "https://music.163.com/song?id=409102911",
+    "duration": "03:57",
+    "artists": [
+      { "name": "王诗安", "link": "https://music.163.com/artist?id=805419" }
+    ],
+    "album": {
+      "name": "Diana Wang",
+      "link": "https://music.163.com/album?id=35052157"
+    }
+  },
+  {
+    "name": "Bad Boy",
+    "link": "https://music.163.com/song?id=1304402380",
+    "duration": "03:06",
+    "artists": [
+      {
+        "name": "Tungevaag & Raaban",
+        "link": "https://music.163.com/artist?id=1090022"
+      },
+      {
+        "name": "Luana Kiara",
+        "link": "https://music.163.com/artist?id=29825515"
+      }
+    ],
+    "album": {
+      "name": "Bad Boy",
+      "link": "https://music.163.com/album?id=72475506"
+    }
+  },
+  {
+    "name": "Visiting Hours",
+    "link": "https://music.163.com/song?id=1869973029",
+    "duration": "03:35",
+    "artists": [
+      { "name": "Ed Sheeran", "link": "https://music.163.com/artist?id=33184" }
+    ],
+    "album": {
+      "name": "Visiting Hours",
+      "link": "https://music.163.com/album?id=131831844"
+    }
+  }
+]

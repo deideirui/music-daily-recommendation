@@ -1,0 +1,481 @@
+[
+  {
+    "name": "Pyres",
+    "link": "https://music.163.com/song?id=477251175",
+    "duration": "03:34",
+    "artists": [
+      {
+        "name": "Broken Elegance",
+        "link": "https://music.163.com/artist?id=12046674"
+      }
+    ],
+    "album": {
+      "name": "Pyres",
+      "link": "https://music.163.com/album?id=35456547"
+    }
+  },
+  {
+    "name": "Cast Away",
+    "link": "https://music.163.com/song?id=1318708602",
+    "duration": "03:12",
+    "artists": [
+      { "name": "Ella Vos", "link": "https://music.163.com/artist?id=12121298" }
+    ],
+    "album": {
+      "name": "Watch & Wait",
+      "link": "https://music.163.com/album?id=74991484"
+    }
+  },
+  {
+    "name": "Pluto",
+    "link": "https://music.163.com/song?id=29759340",
+    "duration": "05:08",
+    "artists": [
+      { "name": "Nyte", "link": "https://music.163.com/artist?id=1034003" }
+    ],
+    "album": {
+      "name": "Pluto",
+      "link": "https://music.163.com/album?id=3056845"
+    }
+  },
+  {
+    "name": "Let It Out",
+    "link": "https://music.163.com/song?id=34834413",
+    "duration": "03:53",
+    "artists": [
+      { "name": "Frances", "link": "https://music.163.com/artist?id=1105075" }
+    ],
+    "album": {
+      "name": "Let It Out",
+      "link": "https://music.163.com/album?id=3295607"
+    }
+  },
+  {
+    "name": "IV",
+    "link": "https://music.163.com/song?id=462523146",
+    "duration": "03:25",
+    "artists": [
+      { "name": "AK", "link": "https://music.163.com/artist?id=1192509" },
+      { "name": "Mapps", "link": "https://music.163.com/artist?id=509267" }
+    ],
+    "album": { "name": "IV", "link": "https://music.163.com/album?id=35210511" }
+  },
+  {
+    "name": "BODY",
+    "link": "https://music.163.com/song?id=1381738557",
+    "duration": "03:28",
+    "artists": [
+      { "name": "lick", "link": "https://music.163.com/artist?id=95567" },
+      {
+        "name": "Luna Aura",
+        "link": "https://music.163.com/artist?id=12107264"
+      }
+    ],
+    "album": {
+      "name": "DARK VIBE ORDER",
+      "link": "https://music.163.com/album?id=80753344"
+    }
+  },
+  {
+    "name": "Lost Boy",
+    "link": "https://music.163.com/song?id=1294889782",
+    "duration": "04:37",
+    "artists": [
+      {
+        "name": "The Midnight",
+        "link": "https://music.163.com/artist?id=12023492"
+      }
+    ],
+    "album": {
+      "name": "Lost Boy",
+      "link": "https://music.163.com/album?id=71853096"
+    }
+  },
+  {
+    "name": "Let You Go (Acoustic)",
+    "link": "https://music.163.com/song?id=862258987",
+    "duration": "03:14",
+    "artists": [
+      {
+        "name": "bvd kult",
+        "link": "https://music.163.com/artist?id=12263379"
+      },
+      { "name": "OT", "link": "https://music.163.com/artist?id=127403" }
+    ],
+    "album": {
+      "name": "Let You Go (Acoustic)",
+      "link": "https://music.163.com/album?id=71643741"
+    }
+  },
+  {
+    "name": "Panic Room (Acoustic)",
+    "link": "https://music.163.com/song?id=540333734",
+    "duration": "04:17",
+    "artists": [
+      { "name": "Au/Ra", "link": "https://music.163.com/artist?id=12143031" }
+    ],
+    "album": {
+      "name": "Panic Room (Acoustic)",
+      "link": "https://music.163.com/album?id=37561826"
+    }
+  },
+  {
+    "name": "Last Train Home (Original Mix)",
+    "link": "https://music.163.com/song?id=499789199",
+    "duration": "06:42",
+    "artists": [
+      {
+        "name": "Sunset Moments",
+        "link": "https://music.163.com/artist?id=12356690"
+      }
+    ],
+    "album": {
+      "name": "Summer Selection 2017",
+      "link": "https://music.163.com/album?id=35937507"
+    }
+  },
+  {
+    "name": "Flowers",
+    "link": "https://music.163.com/song?id=1358178956",
+    "duration": "03:03",
+    "artists": [
+      {
+        "name": "The Tech Thieves",
+        "link": "https://music.163.com/artist?id=12080267"
+      }
+    ],
+    "album": {
+      "name": "Flowers",
+      "link": "https://music.163.com/album?id=78478314"
+    }
+  },
+  {
+    "name": "Love You Lately",
+    "link": "https://music.163.com/song?id=458013580",
+    "duration": "03:56",
+    "artists": [
+      {
+        "name": "Ariana & the Rose",
+        "link": "https://music.163.com/artist?id=894145"
+      }
+    ],
+    "album": {
+      "name": "Love You Lately",
+      "link": "https://music.163.com/album?id=35150139"
+    }
+  },
+  {
+    "name": "Roman Holiday",
+    "link": "https://music.163.com/song?id=34144935",
+    "duration": "03:21",
+    "artists": [
+      { "name": "Halsey", "link": "https://music.163.com/artist?id=964321" }
+    ],
+    "album": {
+      "name": "BADLANDS (Deluxe Edition)",
+      "link": "https://music.163.com/album?id=3271514"
+    }
+  },
+  {
+    "name": "Sick Of You",
+    "link": "https://music.163.com/song?id=1359710017",
+    "duration": "02:45",
+    "artists": [
+      { "name": "DNMO", "link": "https://music.163.com/artist?id=12108110" },
+      {
+        "name": "Sub Urban",
+        "link": "https://music.163.com/artist?id=29722383"
+      }
+    ],
+    "album": {
+      "name": "Definition Forbidden",
+      "link": "https://music.163.com/album?id=78603305"
+    }
+  },
+  {
+    "name": "Seeds (cloudfield Remix)",
+    "link": "https://music.163.com/song?id=520458135",
+    "duration": "03:06",
+    "artists": [
+      {
+        "name": "cloudfield",
+        "link": "https://music.163.com/artist?id=12108490"
+      },
+      { "name": "Fokushi", "link": "https://music.163.com/artist?id=12894272" },
+      { "name": "taobien", "link": "https://music.163.com/artist?id=29799434" }
+    ],
+    "album": {
+      "name": "Seeds (cloudfield Remix)",
+      "link": "https://music.163.com/album?id=36853044"
+    }
+  },
+  {
+    "name": "Everybody Loves You",
+    "link": "https://music.163.com/song?id=569870549",
+    "duration": "03:24",
+    "artists": [
+      {
+        "name": "Charlotte Lawrence",
+        "link": "https://music.163.com/artist?id=12335330"
+      }
+    ],
+    "album": {
+      "name": "Everybody Loves You",
+      "link": "https://music.163.com/album?id=39391457"
+    }
+  },
+  {
+    "name": "Easy",
+    "link": "https://music.163.com/song?id=1385566213",
+    "duration": "03:10",
+    "artists": [
+      { "name": "LU2VYK", "link": "https://music.163.com/artist?id=12356140" },
+      { "name": "Pillows", "link": "https://music.163.com/artist?id=31782945" }
+    ],
+    "album": {
+      "name": "Easy",
+      "link": "https://music.163.com/album?id=81063260"
+    }
+  },
+  {
+    "name": "儿时的夏日",
+    "link": "https://music.163.com/song?id=467744316",
+    "duration": "04:34",
+    "artists": [
+      { "name": "余日秋山", "link": "https://music.163.com/artist?id=12065110" }
+    ],
+    "album": {
+      "name": "儿时的夏日",
+      "link": "https://music.163.com/album?id=35309159"
+    }
+  },
+  {
+    "name": "Truest Lies",
+    "link": "https://music.163.com/song?id=507794708",
+    "duration": "03:01",
+    "artists": [
+      { "name": "Far Out", "link": "https://music.163.com/artist?id=824107" },
+      { "name": "Karra", "link": "https://music.163.com/artist?id=1081582" }
+    ],
+    "album": {
+      "name": "Truest Lies",
+      "link": "https://music.163.com/album?id=36303176"
+    }
+  },
+  {
+    "name": "古奈纯钢琴版",
+    "link": "https://music.163.com/song?id=866059719",
+    "duration": "04:23",
+    "artists": [
+      { "name": "MT1990", "link": "https://music.163.com/artist?id=12395708" }
+    ],
+    "album": {
+      "name": "古奈",
+      "link": "https://music.163.com/album?id=39754184"
+    }
+  },
+  {
+    "name": "错过",
+    "link": "https://music.163.com/song?id=1344411418",
+    "duration": "03:09",
+    "artists": [
+      {
+        "name": "孜然胳肢窝",
+        "link": "https://music.163.com/artist?id=13196409"
+      },
+      { "name": "郭子潇", "link": "https://music.163.com/artist?id=12571129" },
+      { "name": "郑莹", "link": "https://music.163.com/artist?id=31429912" }
+    ],
+    "album": {
+      "name": "错过",
+      "link": "https://music.163.com/album?id=75436033"
+    }
+  },
+  {
+    "name": "Lust For Life (The Avener Rework)",
+    "link": "https://music.163.com/song?id=501491063",
+    "duration": "04:12",
+    "artists": [
+      {
+        "name": "Lana Del Rey",
+        "link": "https://music.163.com/artist?id=66212"
+      },
+      {
+        "name": "The Weeknd",
+        "link": "https://music.163.com/artist?id=185858"
+      },
+      {
+        "name": "The Avener",
+        "link": "https://music.163.com/artist?id=1015501"
+      }
+    ],
+    "album": {
+      "name": "Lust For Life (The Avener Rework)",
+      "link": "https://music.163.com/album?id=36039294"
+    }
+  },
+  {
+    "name": "Dance Monkey",
+    "link": "https://music.163.com/song?id=1386693749",
+    "duration": "03:29",
+    "artists": [
+      {
+        "name": "Tones and I",
+        "link": "https://music.163.com/artist?id=32152093"
+      }
+    ],
+    "album": {
+      "name": "The Kids Are Coming",
+      "link": "https://music.163.com/album?id=81159672"
+    }
+  },
+  {
+    "name": "Heartless",
+    "link": "https://music.163.com/song?id=1309715770",
+    "duration": "02:44",
+    "artists": [
+      {
+        "name": "Nick Peters",
+        "link": "https://music.163.com/artist?id=12006124"
+      },
+      {
+        "name": "Bianca & Rook",
+        "link": "https://music.163.com/artist?id=30008017"
+      }
+    ],
+    "album": {
+      "name": "Heartless",
+      "link": "https://music.163.com/album?id=73306181"
+    }
+  },
+  {
+    "name": "Dreamer (梦想家)",
+    "link": "https://music.163.com/song?id=1294856148",
+    "duration": "03:31",
+    "artists": [
+      { "name": "Andy Mei", "link": "https://music.163.com/artist?id=12074017" }
+    ],
+    "album": {
+      "name": "Dreamer",
+      "link": "https://music.163.com/album?id=71844594"
+    }
+  },
+  {
+    "name": "Wherever You Are",
+    "link": "https://music.163.com/song?id=1345681553",
+    "duration": "02:38",
+    "artists": [
+      {
+        "name": "adam&steve",
+        "link": "https://music.163.com/artist?id=31211364"
+      },
+      {
+        "name": "Maty Noyes",
+        "link": "https://music.163.com/artist?id=12073280"
+      }
+    ],
+    "album": {
+      "name": "Wherever You Are",
+      "link": "https://music.163.com/album?id=75532598"
+    }
+  },
+  {
+    "name": "SpaceJellyfish - クラゲ",
+    "link": "https://music.163.com/song?id=1308193770",
+    "duration": "04:33",
+    "artists": [
+      {
+        "name": "HoneyComeBear",
+        "link": "https://music.163.com/artist?id=12675383"
+      }
+    ],
+    "album": {
+      "name": "SpaceJellyfish - クラゲ",
+      "link": "https://music.163.com/album?id=73157742"
+    }
+  },
+  {
+    "name": ":(",
+    "link": "https://music.163.com/song?id=1359492224",
+    "duration": "03:08",
+    "artists": [
+      { "name": "Bahari", "link": "https://music.163.com/artist?id=1044218" }
+    ],
+    "album": { "name": ":(", "link": "https://music.163.com/album?id=78582769" }
+  },
+  {
+    "name": "E.P.I.C",
+    "link": "https://music.163.com/song?id=501946628",
+    "duration": "05:00",
+    "artists": [
+      {
+        "name": "ELE SHEEP",
+        "link": "https://music.163.com/artist?id=12147203"
+      }
+    ],
+    "album": {
+      "name": "E.P.I.C",
+      "link": "https://music.163.com/album?id=36057382"
+    }
+  },
+  {
+    "name": "Forget About It All",
+    "link": "https://music.163.com/song?id=553959342",
+    "duration": "03:43",
+    "artists": [
+      {
+        "name": "Arctic Lake",
+        "link": "https://music.163.com/artist?id=1063197"
+      }
+    ],
+    "album": {
+      "name": "Forget About It All",
+      "link": "https://music.163.com/album?id=38412629"
+    }
+  },
+  {
+    "name": "Turn It Up",
+    "link": "https://music.163.com/song?id=564742278",
+    "duration": "02:55",
+    "artists": [
+      { "name": "Elysa", "link": "https://music.163.com/artist?id=14609476" },
+      { "name": "s7erre", "link": "https://music.163.com/artist?id=14607671" }
+    ],
+    "album": {
+      "name": "Turn It Up",
+      "link": "https://music.163.com/album?id=39136079"
+    }
+  },
+  {
+    "name": "i hate u, i love u",
+    "link": "https://music.163.com/song?id=34229234",
+    "duration": "03:46",
+    "artists": [
+      { "name": "gnash", "link": "https://music.163.com/artist?id=1137226" },
+      {
+        "name": "Olivia O'Brien",
+        "link": "https://music.163.com/artist?id=12095275"
+      }
+    ],
+    "album": {
+      "name": "i hate u, i love u",
+      "link": "https://music.163.com/album?id=3279011"
+    }
+  },
+  {
+    "name": "How To Love ",
+    "link": "https://music.163.com/song?id=411315504",
+    "duration": "03:38",
+    "artists": [
+      { "name": "Cash Cash", "link": "https://music.163.com/artist?id=50905" },
+      {
+        "name": "Sofia Reyes",
+        "link": "https://music.163.com/artist?id=999195"
+      }
+    ],
+    "album": {
+      "name": "How To Love",
+      "link": "https://music.163.com/album?id=34686178"
+    }
+  }
+]

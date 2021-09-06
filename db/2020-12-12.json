@@ -1,0 +1,473 @@
+[
+  {
+    "name": "Skyline",
+    "link": "https://music.163.com/song?id=1441098283",
+    "duration": "02:58",
+    "artists": [
+      { "name": "Madism", "link": "https://music.163.com/artist?id=14774559" }
+    ],
+    "album": {
+      "name": "Skyline",
+      "link": "https://music.163.com/album?id=88104559"
+    }
+  },
+  {
+    "name": "Dream in Color",
+    "link": "https://music.163.com/song?id=551339078",
+    "duration": "03:25",
+    "artists": [
+      { "name": "HALIENE", "link": "https://music.163.com/artist?id=13202710" }
+    ],
+    "album": {
+      "name": "Dream in Color",
+      "link": "https://music.163.com/album?id=38272028"
+    }
+  },
+  {
+    "name": "Drama",
+    "link": "https://music.163.com/song?id=492959120",
+    "duration": "04:18",
+    "artists": [
+      { "name": "Christine", "link": "https://music.163.com/artist?id=129826" },
+      { "name": "T La Rock", "link": "https://music.163.com/artist?id=45180" }
+    ],
+    "album": {
+      "name": "Atom from Heart",
+      "link": "https://music.163.com/album?id=35827081"
+    }
+  },
+  {
+    "name": "When I Was Young",
+    "link": "https://music.163.com/song?id=470736096",
+    "duration": "03:40",
+    "artists": [
+      {
+        "name": "Neo Noir",
+        "link": "https://music.163.com/artist?id=12356581"
+      },
+      {
+        "name": "Brooke Williams",
+        "link": "https://music.163.com/artist?id=1060216"
+      }
+    ],
+    "album": {
+      "name": "When I Was Young (feat. Brooke Williams)",
+      "link": "https://music.163.com/album?id=35347200"
+    }
+  },
+  {
+    "name": "Hurt You",
+    "link": "https://music.163.com/song?id=1376022435",
+    "duration": "03:06",
+    "artists": [
+      { "name": "Arcando", "link": "https://music.163.com/artist?id=11975134" },
+      { "name": "Vé", "link": "https://music.163.com/artist?id=31144147" }
+    ],
+    "album": {
+      "name": "Hurt You",
+      "link": "https://music.163.com/album?id=80228500"
+    }
+  },
+  {
+    "name": "What if She Knows",
+    "link": "https://music.163.com/song?id=554375621",
+    "duration": "02:48",
+    "artists": [
+      { "name": "Severo", "link": "https://music.163.com/artist?id=1115077" },
+      { "name": "Linn", "link": "https://music.163.com/artist?id=215537" },
+      { "name": "Ellusive", "link": "https://music.163.com/artist?id=792170" }
+    ],
+    "album": {
+      "name": "What if She Knows",
+      "link": "https://music.163.com/album?id=38435988"
+    }
+  },
+  {
+    "name": "On My Life",
+    "link": "https://music.163.com/song?id=1442447317",
+    "duration": "02:59",
+    "artists": [
+      {
+        "name": "Cheat Codes",
+        "link": "https://music.163.com/artist?id=1078252"
+      }
+    ],
+    "album": {
+      "name": "On My Life",
+      "link": "https://music.163.com/album?id=88344514"
+    }
+  },
+  {
+    "name": "Never Fade (Radio Edit)",
+    "link": "https://music.163.com/song?id=31477997",
+    "duration": "03:04",
+    "artists": [
+      {
+        "name": "Sick Individuals",
+        "link": "https://music.163.com/artist?id=379612"
+      }
+    ],
+    "album": {
+      "name": "Never Fade",
+      "link": "https://music.163.com/album?id=3117205"
+    }
+  },
+  {
+    "name": "Wonders (Acoustic)",
+    "link": "https://music.163.com/song?id=1328071373",
+    "duration": "03:46",
+    "artists": [
+      { "name": "Klingande", "link": "https://music.163.com/artist?id=759489" },
+      {
+        "name": "Broken Back",
+        "link": "https://music.163.com/artist?id=1054095"
+      }
+    ],
+    "album": {
+      "name": "Wonders (Acoustic & Remixes)",
+      "link": "https://music.163.com/album?id=74571456"
+    }
+  },
+  {
+    "name": "Back Together",
+    "link": "https://music.163.com/song?id=1361195268",
+    "duration": "03:31",
+    "artists": [
+      {
+        "name": "William Black",
+        "link": "https://music.163.com/artist?id=248957"
+      },
+      { "name": "Runn", "link": "https://music.163.com/artist?id=15237536" }
+    ],
+    "album": {
+      "name": "Pages",
+      "link": "https://music.163.com/album?id=80685180"
+    }
+  },
+  {
+    "name": "Too Close",
+    "link": "https://music.163.com/song?id=1412691681",
+    "duration": "02:56",
+    "artists": [
+      {
+        "name": "Cally Rhodes",
+        "link": "https://music.163.com/artist?id=12603359"
+      }
+    ],
+    "album": {
+      "name": "Too Close",
+      "link": "https://music.163.com/album?id=84576016"
+    }
+  },
+  {
+    "name": "Roots",
+    "link": "https://music.163.com/song?id=473940858",
+    "duration": "02:09",
+    "artists": [
+      {
+        "name": "Josh Leake",
+        "link": "https://music.163.com/artist?id=12387197"
+      }
+    ],
+    "album": {
+      "name": "Benjamin",
+      "link": "https://music.163.com/album?id=35425190"
+    }
+  },
+  {
+    "name": "Glowing Embers - (余烬闪烁)",
+    "link": "https://music.163.com/song?id=512376221",
+    "duration": "02:44",
+    "artists": [
+      {
+        "name": "Audiomachine",
+        "link": "https://music.163.com/artist?id=87066"
+      }
+    ],
+    "album": {
+      "name": "Life",
+      "link": "https://music.163.com/album?id=36528056"
+    }
+  },
+  {
+    "name": "Dreamer",
+    "link": "https://music.163.com/song?id=534613199",
+    "duration": "03:04",
+    "artists": [
+      { "name": "Full Tilt", "link": "https://music.163.com/artist?id=665014" }
+    ],
+    "album": {
+      "name": "Leviathan: Intense Epic Drama",
+      "link": "https://music.163.com/album?id=37463494"
+    }
+  },
+  {
+    "name": "What I Am (Dave Neven Remix)",
+    "link": "https://music.163.com/song?id=570288632",
+    "duration": "03:29",
+    "artists": [
+      { "name": "Aneym", "link": "https://music.163.com/artist?id=193255" },
+      { "name": "Dan Chase", "link": "https://music.163.com/artist?id=334008" }
+    ],
+    "album": {
+      "name": "What I Am (Dave Neven Remix)",
+      "link": "https://music.163.com/album?id=39531487"
+    }
+  },
+  {
+    "name": "Silly Boy",
+    "link": "https://music.163.com/song?id=1340520192",
+    "duration": "02:59",
+    "artists": [
+      {
+        "name": "Call Me Loop",
+        "link": "https://music.163.com/artist?id=12108005"
+      }
+    ],
+    "album": {
+      "name": "Drama",
+      "link": "https://music.163.com/album?id=75891153"
+    }
+  },
+  {
+    "name": "The Air I Breathe",
+    "link": "https://music.163.com/song?id=862098822",
+    "duration": "03:35",
+    "artists": [
+      {
+        "name": "Richard Durand",
+        "link": "https://music.163.com/artist?id=42207"
+      }
+    ],
+    "album": {
+      "name": "The Air I Breathe",
+      "link": "https://music.163.com/album?id=71612853"
+    }
+  },
+  {
+    "name": "All Over Again (Extended Mix)",
+    "link": "https://music.163.com/song?id=489506072",
+    "duration": "07:53",
+    "artists": [
+      {
+        "name": "Bryan Kearney",
+        "link": "https://music.163.com/artist?id=148763"
+      },
+      { "name": "Plumb", "link": "https://music.163.com/artist?id=71153" }
+    ],
+    "album": {
+      "name": "All Over Again",
+      "link": "https://music.163.com/album?id=35696820"
+    }
+  },
+  {
+    "name": "By Your Side",
+    "link": "https://music.163.com/song?id=456370693",
+    "duration": "03:21",
+    "artists": [
+      { "name": "Raye", "link": "https://music.163.com/artist?id=1077053" },
+      {
+        "name": "Jonas Blue",
+        "link": "https://music.163.com/artist?id=1192069"
+      }
+    ],
+    "album": {
+      "name": "Crowd Pleasers",
+      "link": "https://music.163.com/album?id=35156236"
+    }
+  },
+  {
+    "name": "Swamp Thing",
+    "link": "https://music.163.com/song?id=32717985",
+    "duration": "04:23",
+    "artists": [
+      {
+        "name": "Pegboard Nerds",
+        "link": "https://music.163.com/artist?id=205700"
+      }
+    ],
+    "album": {
+      "name": "Swamp Thing",
+      "link": "https://music.163.com/album?id=3161967"
+    }
+  },
+  {
+    "name": "My Heart",
+    "link": "https://music.163.com/song?id=30474763",
+    "duration": "04:26",
+    "artists": [
+      { "name": "EH!DE", "link": "https://music.163.com/artist?id=761029" },
+      {
+        "name": "Different Heaven",
+        "link": "https://music.163.com/artist?id=1049917"
+      }
+    ],
+    "album": {
+      "name": "My Heart",
+      "link": "https://music.163.com/album?id=3101028"
+    }
+  },
+  {
+    "name": "Le Mirage",
+    "link": "https://music.163.com/song?id=506775229",
+    "duration": "05:52",
+    "artists": [
+      {
+        "name": "Dana Jean Phoenix",
+        "link": "https://music.163.com/artist?id=14727298"
+      },
+      {
+        "name": "Dana Murray",
+        "link": "https://music.163.com/artist?id=28514981"
+      }
+    ],
+    "album": {
+      "name": "Synthwave",
+      "link": "https://music.163.com/album?id=36251111"
+    }
+  },
+  {
+    "name": "Blank",
+    "link": "https://music.163.com/song?id=30512731",
+    "duration": "03:28",
+    "artists": [
+      { "name": "Disfigure", "link": "https://music.163.com/artist?id=1049933" }
+    ],
+    "album": {
+      "name": "Blank",
+      "link": "https://music.163.com/album?id=74570870"
+    }
+  },
+  {
+    "name": "Rikki (Phonat Remix)",
+    "link": "https://music.163.com/song?id=27909443",
+    "duration": "04:13",
+    "artists": [
+      { "name": "Blende", "link": "https://music.163.com/artist?id=299415" }
+    ],
+    "album": {
+      "name": "Rikki (Remixes)",
+      "link": "https://music.163.com/album?id=2691912"
+    }
+  },
+  {
+    "name": "Fight For Love",
+    "link": "https://music.163.com/song?id=403710016",
+    "duration": "08:44",
+    "artists": [
+      {
+        "name": "AnDyWuMUSICLAND",
+        "link": "https://music.163.com/artist?id=11998011"
+      }
+    ],
+    "album": {
+      "name": "Fight For Love",
+      "link": "https://music.163.com/album?id=34498011"
+    }
+  },
+  {
+    "name": "Exit Wounds (Elliot Berger Remix)",
+    "link": "https://music.163.com/song?id=34218586",
+    "duration": "04:13",
+    "artists": [
+      {
+        "name": "Elliot Berger",
+        "link": "https://music.163.com/artist?id=1049923"
+      },
+      {
+        "name": "James Egbert",
+        "link": "https://music.163.com/artist?id=827680"
+      },
+      {
+        "name": "Nina Sung",
+        "link": "https://music.163.com/artist?id=14149023"
+      }
+    ],
+    "album": {
+      "name": "Exit Wounds",
+      "link": "https://music.163.com/album?id=3275531"
+    }
+  },
+  {
+    "name": "Burning Man",
+    "link": "https://music.163.com/song?id=27521460",
+    "duration": "03:50",
+    "artists": [
+      { "name": "Patterns", "link": "https://music.163.com/artist?id=11977071" }
+    ],
+    "album": {
+      "name": "Dangerous Intentions",
+      "link": "https://music.163.com/album?id=2624525"
+    }
+  },
+  {
+    "name": "Outside The Lines (Reimagined Mix)",
+    "link": "https://music.163.com/song?id=36089368",
+    "duration": "03:21",
+    "artists": [
+      { "name": "LTN", "link": "https://music.163.com/artist?id=191742" },
+      { "name": "Adara", "link": "https://music.163.com/artist?id=1177069" }
+    ],
+    "album": {
+      "name": "Enhanced Chill, Vol. 3",
+      "link": "https://music.163.com/album?id=3367885"
+    }
+  },
+  {
+    "name": "Our Path",
+    "link": "https://music.163.com/song?id=431259081",
+    "duration": "04:16",
+    "artists": [
+      { "name": "Resonance", "link": "https://music.163.com/artist?id=196588" }
+    ],
+    "album": {
+      "name": "Our Path ",
+      "link": "https://music.163.com/album?id=34874745"
+    }
+  },
+  {
+    "name": "Need U (100%) (Original Mix)",
+    "link": "https://music.163.com/song?id=26268174",
+    "duration": "03:53",
+    "artists": [
+      {
+        "name": "Duke Dumont",
+        "link": "https://music.163.com/artist?id=688325"
+      },
+      { "name": "A*M*E", "link": "https://music.163.com/artist?id=14008535" }
+    ],
+    "album": {
+      "name": "Dancing Planet",
+      "link": "https://music.163.com/album?id=2438403"
+    }
+  },
+  {
+    "name": "Reporting From the Weather Balloon",
+    "link": "https://music.163.com/song?id=29294820",
+    "duration": "02:39",
+    "artists": [
+      { "name": "Kyle Gabler", "link": "https://music.163.com/artist?id=37863" }
+    ],
+    "album": {
+      "name": "Little Inferno (Original Soundtrack)",
+      "link": "https://music.163.com/album?id=3001607"
+    }
+  },
+  {
+    "name": "Hear Me Now",
+    "link": "https://music.163.com/song?id=1435296613",
+    "duration": "03:14",
+    "artists": [
+      { "name": "Alok", "link": "https://music.163.com/artist?id=1170012" },
+      { "name": "Zeeba", "link": "https://music.163.com/artist?id=13312636" },
+      {
+        "name": "Bruno Martini",
+        "link": "https://music.163.com/artist?id=12355546"
+      }
+    ],
+    "album": {
+      "name": "Spinnin' Sessions Shanghai 2020",
+      "link": "https://music.163.com/album?id=87009520"
+    }
+  }
+]

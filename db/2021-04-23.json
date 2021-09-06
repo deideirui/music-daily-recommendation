@@ -1,0 +1,427 @@
+[
+  {
+    "name": "心脏",
+    "link": "https://music.163.com/song?id=547142150",
+    "duration": "03:37",
+    "artists": [
+      { "name": "Hea2t", "link": "https://music.163.com/artist?id=12020036" }
+    ],
+    "album": {
+      "name": "心脏",
+      "link": "https://music.163.com/album?id=37996260"
+    }
+  },
+  {
+    "name": "China-遂宁",
+    "link": "https://music.163.com/song?id=1296467087",
+    "duration": "02:41",
+    "artists": [
+      { "name": "XDONE", "link": "https://music.163.com/artist?id=14857071" },
+      { "name": "TCH", "link": "https://music.163.com/artist?id=27727221" }
+    ],
+    "album": {
+      "name": "China-SuiNing",
+      "link": "https://music.163.com/album?id=72006669"
+    }
+  },
+  {
+    "name": "砚-Yan",
+    "link": "https://music.163.com/song?id=1346801470",
+    "duration": "03:07",
+    "artists": [
+      {
+        "name": "青衫苑LDS",
+        "link": "https://music.163.com/artist?id=13863314"
+      }
+    ],
+    "album": {
+      "name": "砚-Yan",
+      "link": "https://music.163.com/album?id=75605246"
+    }
+  },
+  {
+    "name": "my sweetest one",
+    "link": "https://music.163.com/song?id=29794281",
+    "duration": "04:39",
+    "artists": [
+      { "name": "Aimer", "link": "https://music.163.com/artist?id=16152" }
+    ],
+    "album": {
+      "name": "broKen NIGHT / holLow wORlD",
+      "link": "https://music.163.com/album?id=3080148"
+    }
+  },
+  {
+    "name": "Angel of Mine",
+    "link": "https://music.163.com/song?id=4388051",
+    "duration": "03:42",
+    "artists": [
+      {
+        "name": "The Icarus Account",
+        "link": "https://music.163.com/artist?id=103216"
+      }
+    ],
+    "album": {
+      "name": "Keeper of Your Heart",
+      "link": "https://music.163.com/album?id=442849"
+    }
+  },
+  {
+    "name": "Colourway",
+    "link": "https://music.163.com/song?id=480769622",
+    "duration": "03:48",
+    "artists": [
+      { "name": "Novo Amor", "link": "https://music.163.com/artist?id=904041" }
+    ],
+    "album": {
+      "name": "Bathing Beach",
+      "link": "https://music.163.com/album?id=35562140"
+    }
+  },
+  {
+    "name": "WELCOME！ - (東建コーポレーション株式会社ホームメイトTVCMソング')",
+    "link": "https://music.163.com/song?id=1360942077",
+    "duration": "04:20",
+    "artists": [
+      { "name": "Da-iCE", "link": "https://music.163.com/artist?id=784192" }
+    ],
+    "album": {
+      "name": "Fake Me Fake Me Out",
+      "link": "https://music.163.com/album?id=78735871"
+    }
+  },
+  {
+    "name": "約束",
+    "link": "https://music.163.com/song?id=1354451040",
+    "duration": "04:52",
+    "artists": [
+      { "name": "Akie秋绘", "link": "https://music.163.com/artist?id=12184145" }
+    ],
+    "album": {
+      "name": "约定",
+      "link": "https://music.163.com/album?id=78195836"
+    }
+  },
+  {
+    "name": "房间里的猫",
+    "link": "https://music.163.com/song?id=1838776344",
+    "duration": "02:32",
+    "artists": [
+      { "name": "多维度", "link": "https://music.163.com/artist?id=34304216" }
+    ],
+    "album": {
+      "name": "房间里的猫",
+      "link": "https://music.163.com/album?id=126249070"
+    }
+  },
+  {
+    "name": "Happyland",
+    "link": "https://music.163.com/song?id=535755043",
+    "duration": "03:30",
+    "artists": [
+      { "name": "暴君de", "link": "https://music.163.com/artist?id=12599289" }
+    ],
+    "album": {
+      "name": "Happyland",
+      "link": "https://music.163.com/album?id=37485507"
+    }
+  },
+  {
+    "name": "Simple Song",
+    "link": "https://music.163.com/song?id=493276208",
+    "duration": "03:48",
+    "artists": [
+      { "name": "Passenger", "link": "https://music.163.com/artist?id=70840" }
+    ],
+    "album": {
+      "name": "Simple Song",
+      "link": "https://music.163.com/album?id=35829157"
+    }
+  },
+  {
+    "name": "秘密",
+    "link": "https://music.163.com/song?id=484249934",
+    "duration": "03:01",
+    "artists": [
+      { "name": "日向文", "link": "https://music.163.com/artist?id=12467180" }
+    ],
+    "album": {
+      "name": "cry",
+      "link": "https://music.163.com/album?id=35630143"
+    }
+  },
+  {
+    "name": "Clouds",
+    "link": "https://music.163.com/song?id=448147038",
+    "duration": "04:31",
+    "artists": [
+      {
+        "name": "Before You Exit",
+        "link": "https://music.163.com/artist?id=88867"
+      }
+    ],
+    "album": {
+      "name": "Clouds",
+      "link": "https://music.163.com/album?id=35067020"
+    }
+  },
+  {
+    "name": "陽炎",
+    "link": "https://music.163.com/song?id=477839732",
+    "duration": "03:12",
+    "artists": [
+      { "name": "めありー", "link": "https://music.163.com/artist?id=12176148" }
+    ],
+    "album": {
+      "name": "魂の器 心の在処",
+      "link": "https://music.163.com/album?id=35498051"
+    }
+  },
+  {
+    "name": "Floating Through Space",
+    "link": "https://music.163.com/song?id=1817798172",
+    "duration": "02:57",
+    "artists": [
+      { "name": "Sia", "link": "https://music.163.com/artist?id=74625" },
+      {
+        "name": "David Guetta",
+        "link": "https://music.163.com/artist?id=31211"
+      }
+    ],
+    "album": {
+      "name": "Floating Through Space",
+      "link": "https://music.163.com/album?id=122587561"
+    }
+  },
+  {
+    "name": "baby i'm falling",
+    "link": "https://music.163.com/song?id=1398447344",
+    "duration": "02:34",
+    "artists": [
+      { "name": "Teqkoi", "link": "https://music.163.com/artist?id=14470091" },
+      {
+        "name": "Groundfold",
+        "link": "https://music.163.com/artist?id=1094059"
+      }
+    ],
+    "album": {
+      "name": "baby i'm falling",
+      "link": "https://music.163.com/album?id=82619156"
+    }
+  },
+  {
+    "name": "Double Down",
+    "link": "https://music.163.com/song?id=544056874",
+    "duration": "04:22",
+    "artists": [
+      {
+        "name": "Dave Thomas Junior",
+        "link": "https://music.163.com/artist?id=32233"
+      }
+    ],
+    "album": {
+      "name": "Double Down",
+      "link": "https://music.163.com/album?id=37763783"
+    }
+  },
+  {
+    "name": "群青 - (BOURBON波路梦「帆船mini巧克力饼干」新CM曲)",
+    "link": "https://music.163.com/song?id=1500151581",
+    "duration": "04:08",
+    "artists": [
+      { "name": "YOASOBI", "link": "https://music.163.com/artist?id=33927412" }
+    ],
+    "album": {
+      "name": "THE BOOK",
+      "link": "https://music.163.com/album?id=99079344"
+    }
+  },
+  {
+    "name": "恋のうた (feat. 由崎司) - (TV动画《总之就是非常可爱》片头曲)",
+    "link": "https://music.163.com/song?id=1484336476",
+    "duration": "03:29",
+    "artists": [
+      { "name": "Yunomi", "link": "https://music.163.com/artist?id=1025016" },
+      { "name": "鬼頭明里", "link": "https://music.163.com/artist?id=12676449" }
+    ],
+    "album": {
+      "name": "恋のうた  feat. 由崎司",
+      "link": "https://music.163.com/album?id=98475082"
+    }
+  },
+  {
+    "name": "Blue Nude",
+    "link": "https://music.163.com/song?id=1333322456",
+    "duration": "03:54",
+    "artists": [
+      { "name": "androp", "link": "https://music.163.com/artist?id=18510" }
+    ],
+    "album": {
+      "name": "Daily",
+      "link": "https://music.163.com/album?id=74878635"
+    }
+  },
+  {
+    "name": "フユノ",
+    "link": "https://music.163.com/song?id=41672434",
+    "duration": "05:31",
+    "artists": [
+      { "name": "ヒトリエ", "link": "https://music.163.com/artist?id=784134" }
+    ],
+    "album": {
+      "name": "DEEPER",
+      "link": "https://music.163.com/album?id=3464017"
+    }
+  },
+  {
+    "name": "Ricochet",
+    "link": "https://music.163.com/song?id=537407963",
+    "duration": "03:20",
+    "artists": [
+      { "name": "Haux", "link": "https://music.163.com/artist?id=1078427" }
+    ],
+    "album": {
+      "name": "Ricochet",
+      "link": "https://music.163.com/album?id=37561412"
+    }
+  },
+  {
+    "name": "The Fallout",
+    "link": "https://music.163.com/song?id=1804996836",
+    "duration": "03:11",
+    "artists": [
+      {
+        "name": "Chris James",
+        "link": "https://music.163.com/artist?id=145038"
+      }
+    ],
+    "album": {
+      "name": "The Fallout",
+      "link": "https://music.163.com/album?id=120542182"
+    }
+  },
+  {
+    "name": "Letting Go",
+    "link": "https://music.163.com/song?id=2532640",
+    "duration": "02:13",
+    "artists": [
+      { "name": "Emme Packer", "link": "https://music.163.com/artist?id=55532" }
+    ],
+    "album": {
+      "name": "Earlier, Later",
+      "link": "https://music.163.com/album?id=254865"
+    }
+  },
+  {
+    "name": "ハイドアンド・シーク (hide and seek)（Cover 初音ミク）",
+    "link": "https://music.163.com/song?id=455992837",
+    "duration": "04:25",
+    "artists": [
+      {
+        "name": "ミモサMimosa",
+        "link": "https://music.163.com/artist?id=12119543"
+      }
+    ],
+    "album": {
+      "name": "Mimosa",
+      "link": "https://music.163.com/album?id=34894019"
+    }
+  },
+  {
+    "name": "心海 - (动画电影《Jose与虎与鱼们》插曲)",
+    "link": "https://music.163.com/song?id=1500122344",
+    "duration": "04:24",
+    "artists": [
+      { "name": "Eve", "link": "https://music.163.com/artist?id=1075075" }
+    ],
+    "album": {
+      "name": "心海",
+      "link": "https://music.163.com/album?id=99074901"
+    }
+  },
+  {
+    "name": "Him & I",
+    "link": "https://music.163.com/song?id=521418812",
+    "duration": "04:28",
+    "artists": [
+      { "name": "G-Eazy", "link": "https://music.163.com/artist?id=820036" },
+      { "name": "Halsey", "link": "https://music.163.com/artist?id=964321" }
+    ],
+    "album": {
+      "name": "The Beautiful & Damned",
+      "link": "https://music.163.com/album?id=36875883"
+    }
+  },
+  {
+    "name": "Come with the Midnight Fireflies",
+    "link": "https://music.163.com/song?id=1838081151",
+    "duration": "04:18",
+    "artists": [
+      {
+        "name": "饭碗的彼岸",
+        "link": "https://music.163.com/artist?id=1138028"
+      }
+    ],
+    "album": {
+      "name": "Come with the Midnight Fireflies",
+      "link": "https://music.163.com/album?id=126144528"
+    }
+  },
+  {
+    "name": "Scalar Fields",
+    "link": "https://music.163.com/song?id=17714196",
+    "duration": "08:02",
+    "artists": [
+      {
+        "name": "Final Days Society",
+        "link": "https://music.163.com/artist?id=33416"
+      }
+    ],
+    "album": {
+      "name": "Noice Passes Silent Remains",
+      "link": "https://music.163.com/album?id=1631086"
+    }
+  },
+  {
+    "name": "everything i wanted",
+    "link": "https://music.163.com/song?id=1403435714",
+    "duration": "04:05",
+    "artists": [
+      {
+        "name": "Billie Eilish",
+        "link": "https://music.163.com/artist?id=11972054"
+      }
+    ],
+    "album": {
+      "name": "everything i wanted",
+      "link": "https://music.163.com/album?id=83326623"
+    }
+  },
+  {
+    "name": "Empty Note",
+    "link": "https://music.163.com/song?id=441489416",
+    "duration": "03:48",
+    "artists": [
+      {
+        "name": "Ghostly Kisses",
+        "link": "https://music.163.com/artist?id=1087366"
+      }
+    ],
+    "album": {
+      "name": "Empty Note",
+      "link": "https://music.163.com/album?id=35005095"
+    }
+  },
+  {
+    "name": "Lock Me Up",
+    "link": "https://music.163.com/song?id=28464997",
+    "duration": "03:31",
+    "artists": [
+      { "name": "The Cab", "link": "https://music.163.com/artist?id=44403" }
+    ],
+    "album": {
+      "name": "Lock Me Up EP",
+      "link": "https://music.163.com/album?id=2800780"
+    }
+  }
+]

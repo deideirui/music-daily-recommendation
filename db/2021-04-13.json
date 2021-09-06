@@ -1,0 +1,424 @@
+[
+  {
+    "name": "央浼",
+    "link": "https://music.163.com/song?id=1434693682",
+    "duration": "02:44",
+    "artists": [
+      { "name": "暴君de", "link": "https://music.163.com/artist?id=12599289" }
+    ],
+    "album": {
+      "name": "央浼",
+      "link": "https://music.163.com/album?id=86902928"
+    }
+  },
+  {
+    "name": "元日",
+    "link": "https://music.163.com/song?id=1411554760",
+    "duration": "02:59",
+    "artists": [
+      {
+        "name": "HawkLegend",
+        "link": "https://music.163.com/artist?id=12272947"
+      }
+    ],
+    "album": {
+      "name": "元日",
+      "link": "https://music.163.com/album?id=84247242"
+    }
+  },
+  {
+    "name": "The sun of Nineteen",
+    "link": "https://music.163.com/song?id=1320706945",
+    "duration": "02:50",
+    "artists": [
+      { "name": "XDONE", "link": "https://music.163.com/artist?id=14857071" },
+      { "name": "TCH", "link": "https://music.163.com/artist?id=27727221" }
+    ],
+    "album": {
+      "name": "The sun of Nineteen",
+      "link": "https://music.163.com/album?id=74074156"
+    }
+  },
+  {
+    "name": "Cloud Nine",
+    "link": "https://music.163.com/song?id=1454282322",
+    "duration": "02:33",
+    "artists": [
+      { "name": "Vexento", "link": "https://music.163.com/artist?id=12037010" }
+    ],
+    "album": {
+      "name": "Cloud Nine",
+      "link": "https://music.163.com/album?id=90624888"
+    }
+  },
+  {
+    "name": "Dreamless",
+    "link": "https://music.163.com/song?id=560413631",
+    "duration": "03:13",
+    "artists": [
+      { "name": "5-HTP", "link": "https://music.163.com/artist?id=13196682" },
+      { "name": "暴君de", "link": "https://music.163.com/artist?id=12599289" }
+    ],
+    "album": {
+      "name": "Dreamless",
+      "link": "https://music.163.com/album?id=38633713"
+    }
+  },
+  {
+    "name": "New Beginning",
+    "link": "https://music.163.com/song?id=1303457280",
+    "duration": "03:24",
+    "artists": [
+      { "name": "TDEH", "link": "https://music.163.com/artist?id=12538841" },
+      { "name": "JINGYAN", "link": "https://music.163.com/artist?id=30645561" }
+    ],
+    "album": {
+      "name": "New Beginning",
+      "link": "https://music.163.com/album?id=72370205"
+    }
+  },
+  {
+    "name": "0.0",
+    "link": "https://music.163.com/song?id=1381126000",
+    "duration": "04:12",
+    "artists": [
+      {
+        "name": "AJonnyCool",
+        "link": "https://music.163.com/artist?id=12282902"
+      }
+    ],
+    "album": {
+      "name": "0.0",
+      "link": "https://music.163.com/album?id=80697620"
+    }
+  },
+  {
+    "name": "Dear Society",
+    "link": "https://music.163.com/song?id=1364033445",
+    "duration": "02:59",
+    "artists": [
+      {
+        "name": "Madison Beer",
+        "link": "https://music.163.com/artist?id=827791"
+      }
+    ],
+    "album": {
+      "name": "Dear Society",
+      "link": "https://music.163.com/album?id=79001627"
+    }
+  },
+  {
+    "name": "勿忘",
+    "link": "https://music.163.com/song?id=1836606387",
+    "duration": "03:42",
+    "artists": [
+      { "name": "普通小孩", "link": "https://music.163.com/artist?id=37513678" }
+    ],
+    "album": {
+      "name": "勿忘",
+      "link": "https://music.163.com/album?id=125887333"
+    }
+  },
+  {
+    "name": "Red",
+    "link": "https://music.163.com/song?id=1381824802",
+    "duration": "03:36",
+    "artists": [
+      { "name": "JINGYAN", "link": "https://music.163.com/artist?id=30645561" }
+    ],
+    "album": {
+      "name": "Red",
+      "link": "https://music.163.com/album?id=80740797"
+    }
+  },
+  {
+    "name": "11 Minutes",
+    "link": "https://music.163.com/song?id=1345863230",
+    "duration": "03:59",
+    "artists": [
+      {
+        "name": "Yungblud",
+        "link": "https://music.163.com/artist?id=12502135"
+      },
+      { "name": "Halsey", "link": "https://music.163.com/artist?id=964321" },
+      {
+        "name": "Travis Barker",
+        "link": "https://music.163.com/artist?id=45190"
+      }
+    ],
+    "album": {
+      "name": "11 Minutes",
+      "link": "https://music.163.com/album?id=75544682"
+    }
+  },
+  {
+    "name": "Glow Piano&Strings Acoustic ver.",
+    "link": "https://music.163.com/song?id=437752010",
+    "duration": "04:52",
+    "artists": [
+      {
+        "name": "佐天Tamako",
+        "link": "https://music.163.com/artist?id=12146229"
+      }
+    ],
+    "album": {
+      "name": "ありがとう、さようなら",
+      "link": "https://music.163.com/album?id=34936765"
+    }
+  },
+  {
+    "name": "You & I",
+    "link": "https://music.163.com/song?id=1402906599",
+    "duration": "03:50",
+    "artists": [
+      { "name": "milet", "link": "https://music.163.com/artist?id=31464106" }
+    ],
+    "album": {
+      "name": "You & I",
+      "link": "https://music.163.com/album?id=83229295"
+    }
+  },
+  {
+    "name": "恋音と雨空",
+    "link": "https://music.163.com/song?id=1417621861",
+    "duration": "05:18",
+    "artists": [
+      {
+        "name": "Lefty Hand Cream",
+        "link": "https://music.163.com/artist?id=13158142"
+      }
+    ],
+    "album": {
+      "name": "1LDK",
+      "link": "https://music.163.com/album?id=85067295"
+    }
+  },
+  {
+    "name": "梦中人",
+    "link": "https://music.163.com/song?id=555153205",
+    "duration": "04:19",
+    "artists": [
+      {
+        "name": "Austin Carl",
+        "link": "https://music.163.com/artist?id=12303121"
+      }
+    ],
+    "album": {
+      "name": "梦中人",
+      "link": "https://music.163.com/album?id=38475036"
+    }
+  },
+  {
+    "name": "葵橋 - (TV动画《昨日之歌》片尾曲)",
+    "link": "https://music.163.com/song?id=1446326362",
+    "duration": "03:49",
+    "artists": [
+      { "name": "さユり", "link": "https://music.163.com/artist?id=1116297" }
+    ],
+    "album": {
+      "name": "葵橋",
+      "link": "https://music.163.com/album?id=89108928"
+    }
+  },
+  {
+    "name": "Mela!",
+    "link": "https://music.163.com/song?id=1438712182",
+    "duration": "04:00",
+    "artists": [
+      {
+        "name": "緑黄色社会",
+        "link": "https://music.163.com/artist?id=13058010"
+      }
+    ],
+    "album": {
+      "name": "SINGALONG",
+      "link": "https://music.163.com/album?id=87770552"
+    }
+  },
+  {
+    "name": "Not Angry",
+    "link": "https://music.163.com/song?id=1485808754",
+    "duration": "03:19",
+    "artists": [
+      {
+        "name": "Chris James",
+        "link": "https://music.163.com/artist?id=145038"
+      }
+    ],
+    "album": {
+      "name": "The Art of Overthinking",
+      "link": "https://music.163.com/album?id=96576127"
+    }
+  },
+  {
+    "name": "記憶の箱舟 - (TV动画《DECA-DENCE》片尾曲)",
+    "link": "https://music.163.com/song?id=1463649323",
+    "duration": "04:12",
+    "artists": [
+      {
+        "name": "伊東歌詞太郎",
+        "link": "https://music.163.com/artist?id=908227"
+      }
+    ],
+    "album": {
+      "name": "記憶の箱舟",
+      "link": "https://music.163.com/album?id=93164708"
+    }
+  },
+  {
+    "name": "Cups",
+    "link": "https://music.163.com/song?id=27997776",
+    "duration": "02:07",
+    "artists": [
+      {
+        "name": "Anna Kendrick",
+        "link": "https://music.163.com/artist?id=333612"
+      }
+    ],
+    "album": {
+      "name": " Hitzone - Best Of 2013 ",
+      "link": "https://music.163.com/album?id=2711064"
+    }
+  },
+  {
+    "name": "Don't Let Me Down (feat. Cat Martin)",
+    "link": "https://music.163.com/song?id=27417452",
+    "duration": "06:47",
+    "artists": [
+      { "name": "Blackmill", "link": "https://music.163.com/artist?id=193200" }
+    ],
+    "album": {
+      "name": "Miracle",
+      "link": "https://music.163.com/album?id=2607388"
+    }
+  },
+  {
+    "name": "How Good We Had It",
+    "link": "https://music.163.com/song?id=1824012307",
+    "duration": "03:05",
+    "artists": [
+      { "name": "MADILYN", "link": "https://music.163.com/artist?id=69270" }
+    ],
+    "album": {
+      "name": "How Good We Had It",
+      "link": "https://music.163.com/album?id=123719209"
+    }
+  },
+  {
+    "name": "If We Never Met",
+    "link": "https://music.163.com/song?id=1361109497",
+    "duration": "02:24",
+    "artists": [
+      { "name": "John K", "link": "https://music.163.com/artist?id=12931567" }
+    ],
+    "album": {
+      "name": "if we never met",
+      "link": "https://music.163.com/album?id=78750577"
+    }
+  },
+  {
+    "name": "Missing Parts",
+    "link": "https://music.163.com/song?id=1608870",
+    "duration": "03:25",
+    "artists": [
+      { "name": "Jeff Pianki", "link": "https://music.163.com/artist?id=37147" }
+    ],
+    "album": {
+      "name": "Paper Window",
+      "link": "https://music.163.com/album?id=163524"
+    }
+  },
+  {
+    "name": "clementine",
+    "link": "https://music.163.com/song?id=1393947395",
+    "duration": "03:54",
+    "artists": [
+      { "name": "Halsey", "link": "https://music.163.com/artist?id=964321" }
+    ],
+    "album": {
+      "name": "Manic",
+      "link": "https://music.163.com/album?id=85020251"
+    }
+  },
+  {
+    "name": "Overdrive",
+    "link": "https://music.163.com/song?id=1821443527",
+    "duration": "03:03",
+    "artists": [
+      {
+        "name": "Conan Gray",
+        "link": "https://music.163.com/artist?id=13080534"
+      }
+    ],
+    "album": {
+      "name": "Overdrive",
+      "link": "https://music.163.com/album?id=123272350"
+    }
+  },
+  {
+    "name": "Quiet",
+    "link": "https://music.163.com/song?id=19574402",
+    "duration": "04:53",
+    "artists": [
+      {
+        "name": "This Will Destroy You",
+        "link": "https://music.163.com/artist?id=102042"
+      }
+    ],
+    "album": {
+      "name": "Young Mountain",
+      "link": "https://music.163.com/album?id=1802784"
+    }
+  },
+  {
+    "name": "Life Is Worth Living",
+    "link": "https://music.163.com/song?id=36586670",
+    "duration": "03:54",
+    "artists": [
+      {
+        "name": "Justin Bieber",
+        "link": "https://music.163.com/artist?id=35531"
+      }
+    ],
+    "album": {
+      "name": "Purpose",
+      "link": "https://music.163.com/album?id=3389146"
+    }
+  },
+  {
+    "name": "Normal No More",
+    "link": "https://music.163.com/song?id=1440570723",
+    "duration": "03:19",
+    "artists": [
+      { "name": "TYSM", "link": "https://music.163.com/artist?id=12278200" }
+    ],
+    "album": {
+      "name": "Normal No More",
+      "link": "https://music.163.com/album?id=88010289"
+    }
+  },
+  {
+    "name": "lucky one",
+    "link": "https://music.163.com/song?id=530986903",
+    "duration": "02:36",
+    "artists": [
+      { "name": "mich", "link": "https://music.163.com/artist?id=13080348" }
+    ],
+    "album": {
+      "name": "lucky one",
+      "link": "https://music.163.com/album?id=37256577"
+    }
+  },
+  {
+    "name": "碎銀幾兩『DEMO』",
+    "link": "https://music.163.com/song?id=1495845437",
+    "duration": "03:46",
+    "artists": [
+      { "name": "轩东", "link": "https://music.163.com/artist?id=34196581" }
+    ],
+    "album": {
+      "name": "碎银几两",
+      "link": "https://music.163.com/album?id=98343087"
+    }
+  }
+]

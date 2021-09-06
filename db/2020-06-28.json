@@ -1,0 +1,417 @@
+[
+  {
+    "name": "Sister",
+    "link": "https://music.163.com/song?id=32317248",
+    "duration": "04:07",
+    "artists": [
+      { "name": "back number", "link": "https://music.163.com/artist?id=18771" }
+    ],
+    "album": {
+      "name": "Sister",
+      "link": "https://music.163.com/album?id=3159055"
+    }
+  },
+  {
+    "name": "狂おしいほど僕には美しい",
+    "link": "https://music.163.com/song?id=1338355334",
+    "duration": "04:19",
+    "artists": [
+      { "name": "majiko", "link": "https://music.163.com/artist?id=191316" }
+    ],
+    "album": {
+      "name": "Color",
+      "link": "https://music.163.com/album?id=75291452"
+    }
+  },
+  {
+    "name": "舞い落ちる花びら（Fallin' Flower）",
+    "link": "https://music.163.com/song?id=1436264336",
+    "duration": "03:32",
+    "artists": [
+      { "name": "SEVENTEEN", "link": "https://music.163.com/artist?id=1080132" }
+    ],
+    "album": {
+      "name": "舞い落ちる花びら (Fallin' Flower)",
+      "link": "https://music.163.com/album?id=87234519"
+    }
+  },
+  {
+    "name": "ヒッチコック",
+    "link": "https://music.163.com/song?id=557581315",
+    "duration": "03:42",
+    "artists": [
+      { "name": "ヨルシカ", "link": "https://music.163.com/artist?id=12390232" }
+    ],
+    "album": {
+      "name": "負け犬にアンコールはいらない",
+      "link": "https://music.163.com/album?id=38591089"
+    }
+  },
+  {
+    "name": "翼をあげたい",
+    "link": "https://music.163.com/song?id=1451142416",
+    "duration": "04:49",
+    "artists": [
+      { "name": "小原好美", "link": "https://music.163.com/artist?id=12279907" }
+    ],
+    "album": {
+      "name": "TVアニメ『かぐや様は告らせたい？～天才たちの恋愛頭脳戦～』キャラクターソング02 藤原千花",
+      "link": "https://music.163.com/album?id=89998388"
+    }
+  },
+  {
+    "name": "夜空 - (TV动画《恋爱小行星》片尾曲)",
+    "link": "https://music.163.com/song?id=1423038384",
+    "duration": "04:37",
+    "artists": [
+      {
+        "name": "鈴木みのり",
+        "link": "https://music.163.com/artist?id=12090112"
+      }
+    ],
+    "album": {
+      "name": "夜空",
+      "link": "https://music.163.com/album?id=85691656"
+    }
+  },
+  {
+    "name": "nameless story - (TV动画《某科学的超电磁炮T》片尾曲)",
+    "link": "https://music.163.com/song?id=1417265422",
+    "duration": "03:47",
+    "artists": [
+      {
+        "name": "岸田教団＆THE明星ロケッツ",
+        "link": "https://music.163.com/artist?id=159577"
+      }
+    ],
+    "album": {
+      "name": "nameless story",
+      "link": "https://music.163.com/album?id=85046737"
+    }
+  },
+  {
+    "name": "LEVEL5 -judgelight-",
+    "link": "https://music.163.com/song?id=4919477",
+    "duration": "04:25",
+    "artists": [
+      { "name": "fripSide", "link": "https://music.163.com/artist?id=19395" }
+    ],
+    "album": {
+      "name": "J-アニソン神曲祭り[DJ和 in No.1 胸热 MIX]",
+      "link": "https://music.163.com/album?id=492607"
+    }
+  },
+  {
+    "name": "Maps",
+    "link": "https://music.163.com/song?id=29482234",
+    "duration": "02:42",
+    "artists": [
+      { "name": "MADILYN", "link": "https://music.163.com/artist?id=69270" }
+    ],
+    "album": {
+      "name": "The Cover Games, Vol. 1",
+      "link": "https://music.163.com/album?id=3029456"
+    }
+  },
+  {
+    "name": "If You Love Me",
+    "link": "https://music.163.com/song?id=25706433",
+    "duration": "03:18",
+    "artists": [
+      { "name": "NS允智", "link": "https://music.163.com/artist?id=125783" },
+      { "name": "朴宰范", "link": "https://music.163.com/artist?id=124542" }
+    ],
+    "album": {
+      "name": "If You Love Me",
+      "link": "https://music.163.com/album?id=2285039"
+    }
+  },
+  {
+    "name": "ひとり旅 - (独自旅行)",
+    "link": "https://music.163.com/song?id=1311345944",
+    "duration": "04:55",
+    "artists": [
+      { "name": "鎖那", "link": "https://music.163.com/artist?id=1002089" }
+    ],
+    "album": {
+      "name": "せなとうた",
+      "link": "https://music.163.com/album?id=73471877"
+    }
+  },
+  {
+    "name": "LAST STARDUST - (TV动画《Fate/stay night [Unlimited Blade Works] 第二季》插曲)",
+    "link": "https://music.163.com/song?id=33418857",
+    "duration": "05:18",
+    "artists": [
+      { "name": "Aimer", "link": "https://music.163.com/artist?id=16152" }
+    ],
+    "album": {
+      "name": "DAWN",
+      "link": "https://music.163.com/album?id=3211080"
+    }
+  },
+  {
+    "name": "Colors",
+    "link": "https://music.163.com/song?id=407002458",
+    "duration": "03:20",
+    "artists": [
+      { "name": "Eric Saade", "link": "https://music.163.com/artist?id=33119" }
+    ],
+    "album": {
+      "name": "Colors",
+      "link": "https://music.163.com/album?id=34567077"
+    }
+  },
+  {
+    "name": "This Is Is This?",
+    "link": "https://music.163.com/song?id=22724021",
+    "duration": "04:22",
+    "artists": [
+      {
+        "name": "凛として時雨",
+        "link": "https://music.163.com/artist?id=160421"
+      }
+    ],
+    "album": {
+      "name": "Still a Sigure Virgin?",
+      "link": "https://music.163.com/album?id=2086033"
+    }
+  },
+  {
+    "name": "アイシテ",
+    "link": "https://music.163.com/song?id=38689097",
+    "duration": "03:32",
+    "artists": [
+      { "name": "nameless", "link": "https://music.163.com/artist?id=1150207" }
+    ],
+    "album": { "name": "212", "link": "https://music.163.com/album?id=3426487" }
+  },
+  {
+    "name": "웃어 - (笑)",
+    "link": "https://music.163.com/song?id=862102034",
+    "duration": "03:41",
+    "artists": [
+      {
+        "name": "레게 강 같은 평화 (RGP)",
+        "link": "https://music.163.com/artist?id=159554"
+      }
+    ],
+    "album": {
+      "name": "웃어",
+      "link": "https://music.163.com/album?id=71613623"
+    }
+  },
+  {
+    "name": "Confession Balloon",
+    "link": "https://music.163.com/song?id=1344283840",
+    "duration": "01:52",
+    "artists": [
+      { "name": "SEVEN M", "link": "https://music.163.com/artist?id=12071092" }
+    ],
+    "album": {
+      "name": "Winter",
+      "link": "https://music.163.com/album?id=74730820"
+    }
+  },
+  {
+    "name": "Stuttering",
+    "link": "https://music.163.com/song?id=2614003",
+    "duration": "03:09",
+    "artists": [
+      { "name": "Fefe Dobson", "link": "https://music.163.com/artist?id=57223" }
+    ],
+    "album": { "name": "Joy", "link": "https://music.163.com/album?id=263248" }
+  },
+  {
+    "name": "Tough Love (Remix)",
+    "link": "https://music.163.com/song?id=1448726911",
+    "duration": "04:45",
+    "artists": [
+      {
+        "name": "PattyCake",
+        "link": "https://music.163.com/artist?id=33490548"
+      }
+    ],
+    "album": {
+      "name": "Tough Love (Remix)",
+      "link": "https://music.163.com/album?id=89567697"
+    }
+  },
+  {
+    "name": "BLUE",
+    "link": "https://music.163.com/song?id=37955047",
+    "duration": "03:31",
+    "artists": [
+      {
+        "name": "Troye Sivan",
+        "link": "https://music.163.com/artist?id=45129"
+      },
+      {
+        "name": "Alex Hope",
+        "link": "https://music.163.com/artist?id=12213103"
+      }
+    ],
+    "album": {
+      "name": "Blue Neighbourhood (Deluxe)",
+      "link": "https://music.163.com/album?id=3329047"
+    }
+  },
+  {
+    "name": "Waterfall (Extended Mix)",
+    "link": "https://music.163.com/song?id=409430079",
+    "duration": "04:37",
+    "artists": [
+      {
+        "name": "Switch Off",
+        "link": "https://music.163.com/artist?id=1015031"
+      },
+      { "name": "JuicyTrax", "link": "https://music.163.com/artist?id=849046" }
+    ],
+    "album": {
+      "name": "Waterfall",
+      "link": "https://music.163.com/album?id=34609093"
+    }
+  },
+  {
+    "name": "내겐 그대뿐이죠 - (对我来说只有你)",
+    "link": "https://music.163.com/song?id=5330992",
+    "duration": "04:02",
+    "artists": [
+      { "name": "甘雨", "link": "https://music.163.com/artist?id=124739" }
+    ],
+    "album": {
+      "name": "Romantic Grace",
+      "link": "https://music.163.com/album?id=520341"
+    }
+  },
+  {
+    "name": "니가 내가 - (你和我)",
+    "link": "https://music.163.com/song?id=28793740",
+    "duration": "02:50",
+    "artists": [
+      { "name": "敏雅", "link": "https://music.163.com/artist?id=493780" }
+    ],
+    "album": {
+      "name": "닥터 이방인 OST",
+      "link": "https://music.163.com/album?id=2894259"
+    }
+  },
+  {
+    "name": "Sovereign Light Café (Afrojack Remix)",
+    "link": "https://music.163.com/song?id=28557054",
+    "duration": "04:56",
+    "artists": [
+      { "name": "Afrojack", "link": "https://music.163.com/artist?id=28745" }
+    ],
+    "album": {
+      "name": "Forget The World (Deluxe)",
+      "link": "https://music.163.com/album?id=2840007"
+    }
+  },
+  {
+    "name": "Seve",
+    "link": "https://music.163.com/song?id=30394891",
+    "duration": "03:29",
+    "artists": [
+      { "name": "Tez Cadey", "link": "https://music.163.com/artist?id=488571" }
+    ],
+    "album": {
+      "name": "Seve",
+      "link": "https://music.163.com/album?id=3098613"
+    }
+  },
+  {
+    "name": "Sunburst",
+    "link": "https://music.163.com/song?id=28830411",
+    "duration": "03:09",
+    "artists": [
+      { "name": "Tobu", "link": "https://music.163.com/artist?id=964486" },
+      { "name": "Itro", "link": "https://music.163.com/artist?id=1049096" }
+    ],
+    "album": {
+      "name": "Sunburst",
+      "link": "https://music.163.com/album?id=2901139"
+    }
+  },
+  {
+    "name": "Let Me Feel (Manse Remix)",
+    "link": "https://music.163.com/song?id=29932233",
+    "duration": "04:41",
+    "artists": [
+      {
+        "name": "Nicky Romero",
+        "link": "https://music.163.com/artist?id=195142"
+      },
+      { "name": "Vicetone", "link": "https://music.163.com/artist?id=747030" },
+      { "name": "Manse", "link": "https://music.163.com/artist?id=855409" },
+      {
+        "name": "When We Are Wild",
+        "link": "https://music.163.com/artist?id=13190387"
+      }
+    ],
+    "album": {
+      "name": "Let Me Feel (Remixes)",
+      "link": "https://music.163.com/album?id=3087127"
+    }
+  },
+  {
+    "name": "Vice City (Original Mix)",
+    "link": "https://music.163.com/song?id=26340778",
+    "duration": "08:35",
+    "artists": [
+      {
+        "name": "Sebastian Weikum",
+        "link": "https://music.163.com/artist?id=818430"
+      }
+    ],
+    "album": {
+      "name": "Enhanced Music: April 2013",
+      "link": "https://music.163.com/album?id=2456240"
+    }
+  },
+  {
+    "name": "Ok Without You (Kahikko Remix)",
+    "link": "https://music.163.com/song?id=1331058293",
+    "duration": "02:41",
+    "artists": [
+      { "name": "Klaas", "link": "https://music.163.com/artist?id=106210" }
+    ],
+    "album": {
+      "name": "Ok Without You",
+      "link": "https://music.163.com/album?id=74766787"
+    }
+  },
+  {
+    "name": "Unfamiliar (Club Edit)",
+    "link": "https://music.163.com/song?id=1456801830",
+    "duration": "03:36",
+    "artists": [
+      { "name": "SeeB", "link": "https://music.163.com/artist?id=1182169" },
+      {
+        "name": "Goodboys",
+        "link": "https://music.163.com/artist?id=31385169"
+      },
+      { "name": "HRVY", "link": "https://music.163.com/artist?id=12501125" }
+    ],
+    "album": {
+      "name": "Unfamiliar (Club Edit)",
+      "link": "https://music.163.com/album?id=91249675"
+    }
+  },
+  {
+    "name": "Melody",
+    "link": "https://music.163.com/song?id=445153337",
+    "duration": "03:35",
+    "artists": [
+      {
+        "name": "Ashley Wallbridge",
+        "link": "https://music.163.com/artist?id=29252"
+      },
+      { "name": "Karra", "link": "https://music.163.com/artist?id=1081582" }
+    ],
+    "album": {
+      "name": "Electric For Life 2016",
+      "link": "https://music.163.com/album?id=35022832"
+    }
+  }
+]

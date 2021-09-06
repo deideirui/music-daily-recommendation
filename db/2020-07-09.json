@@ -1,0 +1,461 @@
+[
+  {
+    "name": "Do It All for You",
+    "link": "https://music.163.com/song?id=1333159922",
+    "duration": "02:54",
+    "artists": [
+      {
+        "name": "Alan Walker",
+        "link": "https://music.163.com/artist?id=1045123"
+      },
+      {
+        "name": "Trevor Guthrie",
+        "link": "https://music.163.com/artist?id=860078"
+      }
+    ],
+    "album": {
+      "name": "Different World",
+      "link": "https://music.163.com/album?id=74571750"
+    }
+  },
+  {
+    "name": "Show You",
+    "link": "https://music.163.com/song?id=519941167",
+    "duration": "03:24",
+    "artists": [
+      { "name": "Chromak", "link": "https://music.163.com/artist?id=12107452" },
+      {
+        "name": "Lilianna Wilde",
+        "link": "https://music.163.com/artist?id=14711114"
+      }
+    ],
+    "album": {
+      "name": "Show You",
+      "link": "https://music.163.com/album?id=36812358"
+    }
+  },
+  {
+    "name": "What It Looks Like (Original Mix)",
+    "link": "https://music.163.com/song?id=470573583",
+    "duration": "03:16",
+    "artists": [
+      {
+        "name": "Daniel Garrick",
+        "link": "https://music.163.com/artist?id=1163065"
+      },
+      { "name": "Karra", "link": "https://music.163.com/artist?id=1081582" }
+    ],
+    "album": {
+      "name": "What It Looks Like",
+      "link": "https://music.163.com/album?id=35347092"
+    }
+  },
+  {
+    "name": "Belong (Axwell & Years Remode Edit)",
+    "link": "https://music.163.com/song?id=424342163",
+    "duration": "03:37",
+    "artists": [
+      { "name": "Axwell", "link": "https://music.163.com/artist?id=12039194" },
+      { "name": "Shapov", "link": "https://music.163.com/artist?id=1058085" },
+      { "name": "Years", "link": "https://music.163.com/artist?id=46231" }
+    ],
+    "album": {
+      "name": "Belong",
+      "link": "https://music.163.com/album?id=34802461"
+    }
+  },
+  {
+    "name": "Brothers In Arms",
+    "link": "https://music.163.com/song?id=1327875662",
+    "duration": "03:05",
+    "artists": [
+      { "name": "Suyano", "link": "https://music.163.com/artist?id=647777" },
+      { "name": "Astra", "link": "https://music.163.com/artist?id=12290099" }
+    ],
+    "album": {
+      "name": "Brothers In Arms",
+      "link": "https://music.163.com/album?id=74551388"
+    }
+  },
+  {
+    "name": "Strangers",
+    "link": "https://music.163.com/song?id=27630190",
+    "duration": "03:24",
+    "artists": [
+      {
+        "name": "Seven Lions",
+        "link": "https://music.163.com/artist?id=44204"
+      },
+      { "name": "Myon", "link": "https://music.163.com/artist?id=96759" },
+      { "name": "Shane 54", "link": "https://music.163.com/artist?id=158539" },
+      { "name": "Tove Lo", "link": "https://music.163.com/artist?id=768065" }
+    ],
+    "album": {
+      "name": "Strangers",
+      "link": "https://music.163.com/album?id=2646149"
+    }
+  },
+  {
+    "name": "My Only One (No Hay Nadie Más)",
+    "link": "https://music.163.com/song?id=1296896326",
+    "duration": "03:18",
+    "artists": [
+      {
+        "name": "Sebastian Yatra",
+        "link": "https://music.163.com/artist?id=911143"
+      },
+      {
+        "name": "Isabela Moner",
+        "link": "https://music.163.com/artist?id=12067175"
+      }
+    ],
+    "album": {
+      "name": "My Only One (No Hay Nadie Más)",
+      "link": "https://music.163.com/album?id=72010829"
+    }
+  },
+  {
+    "name": "Sober Heart",
+    "link": "https://music.163.com/song?id=445844296",
+    "duration": "03:41",
+    "artists": [
+      { "name": "Lucian", "link": "https://music.163.com/artist?id=540111" },
+      { "name": "Olivera", "link": "https://music.163.com/artist?id=1079097" }
+    ],
+    "album": {
+      "name": "Sober Heart",
+      "link": "https://music.163.com/album?id=35045067"
+    }
+  },
+  {
+    "name": "All That's Left",
+    "link": "https://music.163.com/song?id=400581295",
+    "duration": "03:37",
+    "artists": [
+      {
+        "name": "Manila Killa",
+        "link": "https://music.163.com/artist?id=1147176"
+      },
+      {
+        "name": "Joni Fatora",
+        "link": "https://music.163.com/artist?id=758231"
+      }
+    ],
+    "album": {
+      "name": "All That's Left",
+      "link": "https://music.163.com/album?id=34433062"
+    }
+  },
+  {
+    "name": "Christmas (Original Mix)",
+    "link": "https://music.163.com/song?id=32574129",
+    "duration": "03:07",
+    "artists": [
+      { "name": "Sphericz", "link": "https://music.163.com/artist?id=1081961" }
+    ],
+    "album": {
+      "name": "Christmas",
+      "link": "https://music.163.com/album?id=3161545"
+    }
+  },
+  {
+    "name": "Kinky love",
+    "link": "https://music.163.com/song?id=36924255",
+    "duration": "02:55",
+    "artists": [
+      { "name": "Club 8", "link": "https://music.163.com/artist?id=89361" }
+    ],
+    "album": {
+      "name": "Pleasure",
+      "link": "https://music.163.com/album?id=3378495"
+    }
+  },
+  {
+    "name": "Alternative Lights",
+    "link": "https://music.163.com/song?id=516318173",
+    "duration": "06:07",
+    "artists": [
+      { "name": "Cosmaks", "link": "https://music.163.com/artist?id=12262446" },
+      { "name": "Armedio", "link": "https://music.163.com/artist?id=12708080" }
+    ],
+    "album": {
+      "name": "Alternative Lights",
+      "link": "https://music.163.com/album?id=36701049"
+    }
+  },
+  {
+    "name": "Blissful Smile",
+    "link": "https://music.163.com/song?id=28050999",
+    "duration": "04:46",
+    "artists": [
+      {
+        "name": "Martin Mittone",
+        "link": "https://music.163.com/artist?id=841127"
+      }
+    ],
+    "album": {
+      "name": "Nomolos",
+      "link": "https://music.163.com/album?id=2718651"
+    }
+  },
+  {
+    "name": "Float (Original Mix)",
+    "link": "https://music.163.com/song?id=32069137",
+    "duration": "06:08",
+    "artists": [
+      {
+        "name": "South Pole",
+        "link": "https://music.163.com/artist?id=1132390"
+      }
+    ],
+    "album": {
+      "name": "Elliptical Sun Sampler 009",
+      "link": "https://music.163.com/album?id=3139798"
+    }
+  },
+  {
+    "name": "Robotic Girl (Snail's House Remix)",
+    "link": "https://music.163.com/song?id=404783323",
+    "duration": "04:00",
+    "artists": [
+      {
+        "name": "Ujico*/Snail's House",
+        "link": "https://music.163.com/artist?id=1079081"
+      }
+    ],
+    "album": {
+      "name": "Robotic Girl (Snail's House Remix)",
+      "link": "https://music.163.com/album?id=34527086"
+    }
+  },
+  {
+    "name": "That Girl",
+    "link": "https://music.163.com/song?id=440208476",
+    "duration": "02:56",
+    "artists": [
+      { "name": "Olly Murs", "link": "https://music.163.com/artist?id=41034" }
+    ],
+    "album": {
+      "name": "24 HRS (Deluxe)",
+      "link": "https://music.163.com/album?id=34970031"
+    }
+  },
+  {
+    "name": "Bomb Digga Woo",
+    "link": "https://music.163.com/song?id=444548120",
+    "duration": "02:38",
+    "artists": [
+      { "name": "Jhameel", "link": "https://music.163.com/artist?id=37264" }
+    ],
+    "album": {
+      "name": "Bomb Digga Woo",
+      "link": "https://music.163.com/album?id=35022561"
+    }
+  },
+  {
+    "name": "Run With Me(Club Mix)",
+    "link": "https://music.163.com/song?id=34144590",
+    "duration": "05:09",
+    "artists": [
+      { "name": "A&G", "link": "https://music.163.com/artist?id=957087" },
+      {
+        "name": "Northmark",
+        "link": "https://music.163.com/artist?id=1135220"
+      },
+      {
+        "name": "Gabrielle Ross",
+        "link": "https://music.163.com/artist?id=1132381"
+      }
+    ],
+    "album": {
+      "name": "Run With Me(Club Mix)",
+      "link": "https://music.163.com/album?id=3271469"
+    }
+  },
+  {
+    "name": "Nothing But A Heartbeat",
+    "link": "https://music.163.com/song?id=30706550",
+    "duration": "03:40",
+    "artists": [
+      {
+        "name": "Say Lou Lou",
+        "link": "https://music.163.com/artist?id=757244"
+      }
+    ],
+    "album": {
+      "name": "Lucid Dreaming",
+      "link": "https://music.163.com/album?id=3104278"
+    }
+  },
+  {
+    "name": "Intro",
+    "link": "https://music.163.com/song?id=4341314",
+    "duration": "02:07",
+    "artists": [
+      { "name": "The xx", "link": "https://music.163.com/artist?id=102035" }
+    ],
+    "album": { "name": "xx", "link": "https://music.163.com/album?id=438387" }
+  },
+  {
+    "name": "Summertime (Extended Mix)",
+    "link": "https://music.163.com/song?id=408772605",
+    "duration": "05:01",
+    "artists": [
+      {
+        "name": "Ashley Wallbridge",
+        "link": "https://music.163.com/artist?id=29252"
+      }
+    ],
+    "album": {
+      "name": "Summertime",
+      "link": "https://music.163.com/album?id=34590725"
+    }
+  },
+  {
+    "name": "Lunar Eclipse",
+    "link": "https://music.163.com/song?id=1075537",
+    "duration": "03:45",
+    "artists": [
+      {
+        "name": "Apollo Tribe",
+        "link": "https://music.163.com/artist?id=29179"
+      }
+    ],
+    "album": {
+      "name": "In My Memories",
+      "link": "https://music.163.com/album?id=112097"
+    }
+  },
+  {
+    "name": "Salzburg (Original Mix)",
+    "link": "https://music.163.com/song?id=29365815",
+    "duration": "06:03",
+    "artists": [
+      { "name": "Worakls", "link": "https://music.163.com/artist?id=311004" }
+    ],
+    "album": {
+      "name": "Salzburg EP",
+      "link": "https://music.163.com/album?id=3011772"
+    }
+  },
+  {
+    "name": "Beautiful Now",
+    "link": "https://music.163.com/song?id=32019002",
+    "duration": "03:38",
+    "artists": [
+      { "name": "Zedd", "link": "https://music.163.com/artist?id=46376" },
+      {
+        "name": "Jon Bellion",
+        "link": "https://music.163.com/artist?id=860113"
+      }
+    ],
+    "album": {
+      "name": "True Colors",
+      "link": "https://music.163.com/album?id=3119381"
+    }
+  },
+  {
+    "name": "Det Som Händer i Göteborg (Don Palm Extended Remix)",
+    "link": "https://music.163.com/song?id=34468274",
+    "duration": "04:20",
+    "artists": [
+      { "name": "Don Palm", "link": "https://music.163.com/artist?id=1146023" },
+      { "name": "September", "link": "https://music.163.com/artist?id=74718" }
+    ],
+    "album": {
+      "name": "Det Som Händer i Göteborg (Don Palm Extended Remix)",
+      "link": "https://music.163.com/album?id=3286057"
+    }
+  },
+  {
+    "name": "comethru",
+    "link": "https://music.163.com/song?id=1351923466",
+    "duration": "03:01",
+    "artists": [
+      {
+        "name": "Jeremy Zucker",
+        "link": "https://music.163.com/artist?id=12096183"
+      },
+      { "name": "Bea Miller", "link": "https://music.163.com/artist?id=908180" }
+    ],
+    "album": {
+      "name": "comethru",
+      "link": "https://music.163.com/album?id=75848496"
+    }
+  },
+  {
+    "name": "Could This Be Love (Mick G Mix)",
+    "link": "https://music.163.com/song?id=18803226",
+    "duration": "04:26",
+    "artists": [
+      {
+        "name": "Jennifer Lopez",
+        "link": "https://music.163.com/artist?id=60932"
+      }
+    ],
+    "album": {
+      "name": "On The 6",
+      "link": "https://music.163.com/album?id=1723016"
+    }
+  },
+  {
+    "name": "Memories (Original Mix)",
+    "link": "https://music.163.com/song?id=503077509",
+    "duration": "08:05",
+    "artists": [
+      { "name": "A.R.D.I.", "link": "https://music.163.com/artist?id=207863" },
+      { "name": "Irena Love", "link": "https://music.163.com/artist?id=207472" }
+    ],
+    "album": {
+      "name": "Memories",
+      "link": "https://music.163.com/album?id=36099198"
+    }
+  },
+  {
+    "name": "Only One (Kill Paris Remix) ",
+    "link": "https://music.163.com/song?id=446549371",
+    "duration": "03:46",
+    "artists": [
+      { "name": "ILLENIUM", "link": "https://music.163.com/artist?id=1050518" },
+      {
+        "name": "Kill Paris",
+        "link": "https://music.163.com/artist?id=427028"
+      },
+      {
+        "name": "Nina Sung",
+        "link": "https://music.163.com/artist?id=14149023"
+      }
+    ],
+    "album": {
+      "name": "Ashes (Remixes)",
+      "link": "https://music.163.com/album?id=35012826"
+    }
+  },
+  {
+    "name": "SUMMER!",
+    "link": "https://music.163.com/song?id=1378220830",
+    "duration": "03:07",
+    "artists": [
+      { "name": "PENTAGON", "link": "https://music.163.com/artist?id=12041119" }
+    ],
+    "album": {
+      "name": "SUM(ME:R)",
+      "link": "https://music.163.com/album?id=80418297"
+    }
+  },
+  {
+    "name": "Almost Lover",
+    "link": "https://music.163.com/song?id=27846868",
+    "duration": "04:22",
+    "artists": [
+      {
+        "name": "Jasmine Thompson",
+        "link": "https://music.163.com/artist?id=863042"
+      }
+    ],
+    "album": {
+      "name": "Bundle of Tantrums",
+      "link": "https://music.163.com/album?id=2684938"
+    }
+  }
+]

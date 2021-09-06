@@ -1,0 +1,441 @@
+[
+  {
+    "name": "Ways",
+    "link": "https://music.163.com/song?id=1336871670",
+    "duration": "02:41",
+    "artists": [
+      { "name": "Imad", "link": "https://music.163.com/artist?id=514770" }
+    ],
+    "album": {
+      "name": "Ways",
+      "link": "https://music.163.com/album?id=75018030"
+    }
+  },
+  {
+    "name": "Lately (Original Mix)",
+    "link": "https://music.163.com/song?id=544017484",
+    "duration": "04:31",
+    "artists": [
+      { "name": "Suprafive", "link": "https://music.163.com/artist?id=1022142" }
+    ],
+    "album": {
+      "name": "Lately",
+      "link": "https://music.163.com/album?id=37884273"
+    }
+  },
+  {
+    "name": "Missing You [Robert Cristian Remix]",
+    "link": "https://music.163.com/song?id=1375586263",
+    "duration": "02:26",
+    "artists": [
+      {
+        "name": "Anthony Keyrouz",
+        "link": "https://music.163.com/artist?id=12203139"
+      },
+      { "name": "Abby", "link": "https://music.163.com/artist?id=235963" },
+      {
+        "name": "Robert Cristian",
+        "link": "https://music.163.com/artist?id=13505102"
+      }
+    ],
+    "album": {
+      "name": "Missing You [Robert Cristian Remix]",
+      "link": "https://music.163.com/album?id=80165584"
+    }
+  },
+  {
+    "name": "I Don't Wanna Go",
+    "link": "https://music.163.com/song?id=1333159920",
+    "duration": "02:41",
+    "artists": [
+      {
+        "name": "Alan Walker",
+        "link": "https://music.163.com/artist?id=1045123"
+      },
+      {
+        "name": "Julie Bergan",
+        "link": "https://music.163.com/artist?id=896964"
+      }
+    ],
+    "album": {
+      "name": "Different World",
+      "link": "https://music.163.com/album?id=74571750"
+    }
+  },
+  {
+    "name": "Big Words",
+    "link": "https://music.163.com/song?id=569870379",
+    "duration": "03:22",
+    "artists": [
+      { "name": "Klaas", "link": "https://music.163.com/artist?id=106210" }
+    ],
+    "album": {
+      "name": "Big Words",
+      "link": "https://music.163.com/album?id=39391421"
+    }
+  },
+  {
+    "name": "Can't Forget You",
+    "link": "https://music.163.com/song?id=1314061680",
+    "duration": "03:03",
+    "artists": [
+      { "name": "J. Lisk", "link": "https://music.163.com/artist?id=12121101" }
+    ],
+    "album": {
+      "name": "Can't Forget You",
+      "link": "https://music.163.com/album?id=73688022"
+    }
+  },
+  {
+    "name": "Cell (Original Mix)",
+    "link": "https://music.163.com/song?id=31152276",
+    "duration": "05:08",
+    "artists": [
+      {
+        "name": "Julian Calor",
+        "link": "https://music.163.com/artist?id=894039"
+      }
+    ],
+    "album": {
+      "name": "Cell",
+      "link": "https://music.163.com/album?id=3112375"
+    }
+  },
+  {
+    "name": "Shadows",
+    "link": "https://music.163.com/song?id=544000236",
+    "duration": "02:39",
+    "artists": [
+      {
+        "name": "Aero Chord",
+        "link": "https://music.163.com/artist?id=845121"
+      },
+      { "name": "Nevve", "link": "https://music.163.com/artist?id=12567101" }
+    ],
+    "album": {
+      "name": "Shadows",
+      "link": "https://music.163.com/album?id=37887044"
+    }
+  },
+  {
+    "name": "Summer",
+    "link": "https://music.163.com/song?id=28306554",
+    "duration": "03:44",
+    "artists": [
+      {
+        "name": "Calvin Harris",
+        "link": "https://music.163.com/artist?id=29968"
+      }
+    ],
+    "album": {
+      "name": "Summer",
+      "link": "https://music.163.com/album?id=2771024"
+    }
+  },
+  {
+    "name": "Hard Pass",
+    "link": "https://music.163.com/song?id=1342022461",
+    "duration": "03:56",
+    "artists": [
+      { "name": "Tritonal", "link": "https://music.163.com/artist?id=104133" },
+      { "name": "Ryann", "link": "https://music.163.com/artist?id=31156273" }
+    ],
+    "album": {
+      "name": "Hard Pass",
+      "link": "https://music.163.com/album?id=75327826"
+    }
+  },
+  {
+    "name": "U&I",
+    "link": "https://music.163.com/song?id=1353754874",
+    "duration": "04:05",
+    "artists": [
+      { "name": "Ninety", "link": "https://music.163.com/artist?id=13154418" }
+    ],
+    "album": {
+      "name": "YOU AND I",
+      "link": "https://music.163.com/album?id=76734374"
+    }
+  },
+  {
+    "name": "Girlfriend",
+    "link": "https://music.163.com/song?id=1458156468",
+    "duration": "02:57",
+    "artists": [
+      {
+        "name": "Charlie Puth",
+        "link": "https://music.163.com/artist?id=90331"
+      }
+    ],
+    "album": {
+      "name": "Girlfriend",
+      "link": "https://music.163.com/album?id=91513960"
+    }
+  },
+  {
+    "name": "Complicated",
+    "link": "https://music.163.com/song?id=493283657",
+    "duration": "03:04",
+    "artists": [
+      {
+        "name": "Dimitri Vegas & Like Mike",
+        "link": "https://music.163.com/artist?id=791298"
+      },
+      {
+        "name": "David Guetta",
+        "link": "https://music.163.com/artist?id=31211"
+      },
+      { "name": "Kiiara", "link": "https://music.163.com/artist?id=1124598" }
+    ],
+    "album": {
+      "name": "Complicated",
+      "link": "https://music.163.com/album?id=35834474"
+    }
+  },
+  {
+    "name": "Don't You Know",
+    "link": "https://music.163.com/song?id=418316644",
+    "duration": "03:04",
+    "artists": [
+      { "name": "Kungs", "link": "https://music.163.com/artist?id=1135041" },
+      {
+        "name": "Jamie N Commons",
+        "link": "https://music.163.com/artist?id=36642"
+      }
+    ],
+    "album": {
+      "name": "Don't You Know",
+      "link": "https://music.163.com/album?id=34732543"
+    }
+  },
+  {
+    "name": "Ain't My Fault (R3hab Remix)",
+    "link": "https://music.163.com/song?id=433018366",
+    "duration": "02:38",
+    "artists": [
+      {
+        "name": "Zara Larsson",
+        "link": "https://music.163.com/artist?id=816461"
+      },
+      { "name": "R3hab", "link": "https://music.163.com/artist?id=197248" }
+    ],
+    "album": {
+      "name": "Aint My Fault (R3hab Remix)",
+      "link": "https://music.163.com/album?id=34897802"
+    }
+  },
+  {
+    "name": "Bleeding",
+    "link": "https://music.163.com/song?id=28592500",
+    "duration": "03:23",
+    "artists": [
+      {
+        "name": "The Ready Set",
+        "link": "https://music.163.com/artist?id=44458"
+      }
+    ],
+    "album": {
+      "name": "The Bad & The Better",
+      "link": "https://music.163.com/album?id=2848248"
+    }
+  },
+  {
+    "name": "3AM",
+    "link": "https://music.163.com/song?id=399354183",
+    "duration": "03:21",
+    "artists": [
+      { "name": "Mads Langer", "link": "https://music.163.com/artist?id=38950" }
+    ],
+    "album": {
+      "name": "3AM",
+      "link": "https://music.163.com/album?id=34408093"
+    }
+  },
+  {
+    "name": "February 2017 (feat. Clairo and Yaeji)",
+    "link": "https://music.163.com/song?id=1390484777",
+    "duration": "02:33",
+    "artists": [
+      { "name": "Charli XCX", "link": "https://music.163.com/artist?id=53092" },
+      { "name": "Clairo", "link": "https://music.163.com/artist?id=12191215" },
+      { "name": "Yaeji", "link": "https://music.163.com/artist?id=12023286" }
+    ],
+    "album": {
+      "name": "Charli",
+      "link": "https://music.163.com/album?id=81593693"
+    }
+  },
+  {
+    "name": "Me & You",
+    "link": "https://music.163.com/song?id=484058293",
+    "duration": "04:06",
+    "artists": [
+      { "name": "Marsh", "link": "https://music.163.com/artist?id=333608" }
+    ],
+    "album": {
+      "name": "Life On The Shore",
+      "link": "https://music.163.com/album?id=35622091"
+    }
+  },
+  {
+    "name": "Fashion",
+    "link": "https://music.163.com/song?id=34144578",
+    "duration": "03:33",
+    "artists": [
+      {
+        "name": "The Royal Concept",
+        "link": "https://music.163.com/artist?id=104353"
+      }
+    ],
+    "album": {
+      "name": "Smile ",
+      "link": "https://music.163.com/album?id=3271459"
+    }
+  },
+  {
+    "name": "Something About You",
+    "link": "https://music.163.com/song?id=399353042",
+    "duration": "03:43",
+    "artists": [
+      {
+        "name": "Hayden James",
+        "link": "https://music.163.com/artist?id=787102"
+      }
+    ],
+    "album": {
+      "name": "TheSoundYouNeed, Vol. 2",
+      "link": "https://music.163.com/album?id=34408024"
+    }
+  },
+  {
+    "name": "Atlas",
+    "link": "https://music.163.com/song?id=5088181",
+    "duration": "04:48",
+    "artists": [
+      { "name": "Feint", "link": "https://music.163.com/artist?id=93062" }
+    ],
+    "album": {
+      "name": "Monstercat 001 - Launch Week",
+      "link": "https://music.163.com/album?id=503493"
+    }
+  },
+  {
+    "name": "More",
+    "link": "https://music.163.com/song?id=534228243",
+    "duration": "03:16",
+    "artists": [
+      {
+        "name": "Zoey Lily",
+        "link": "https://music.163.com/artist?id=12073849"
+      }
+    ],
+    "album": {
+      "name": "More",
+      "link": "https://music.163.com/album?id=37252775"
+    }
+  },
+  {
+    "name": "Forever Gone",
+    "link": "https://music.163.com/song?id=34040715",
+    "duration": "03:39",
+    "artists": [
+      { "name": "Acreix", "link": "https://music.163.com/artist?id=1132946" }
+    ],
+    "album": {
+      "name": "Forever Gone",
+      "link": "https://music.163.com/album?id=3270697"
+    }
+  },
+  {
+    "name": "Walk Thru Fire",
+    "link": "https://music.163.com/song?id=1297498908",
+    "duration": "03:14",
+    "artists": [
+      { "name": "Vicetone", "link": "https://music.163.com/artist?id=747030" },
+      {
+        "name": "Meron Ryan",
+        "link": "https://music.163.com/artist?id=1181020"
+      }
+    ],
+    "album": {
+      "name": "Walk Thru Fire",
+      "link": "https://music.163.com/album?id=72052436"
+    }
+  },
+  {
+    "name": "Physical (Claptone Remix)",
+    "link": "https://music.163.com/song?id=1442447176",
+    "duration": "03:09",
+    "artists": [
+      { "name": "Dua Lipa", "link": "https://music.163.com/artist?id=1135086" }
+    ],
+    "album": {
+      "name": "Physical (Remixes)",
+      "link": "https://music.163.com/album?id=88344431"
+    }
+  },
+  {
+    "name": "Love It",
+    "link": "https://music.163.com/song?id=414118869",
+    "duration": "03:13",
+    "artists": [
+      { "name": "DEAMN", "link": "https://music.163.com/artist?id=12047335" }
+    ],
+    "album": {
+      "name": "Praise",
+      "link": "https://music.163.com/album?id=34700656"
+    }
+  },
+  {
+    "name": "Mystery Repeats (De Hofnar Remix)",
+    "link": "https://music.163.com/song?id=419250073",
+    "duration": "03:14",
+    "artists": [
+      { "name": "De Hofnar", "link": "https://music.163.com/artist?id=956436" },
+      {
+        "name": "Pete Philly & Perquisite",
+        "link": "https://music.163.com/artist?id=70865"
+      }
+    ],
+    "album": {
+      "name": "Mystery Repeats (De Hofnar Remix)",
+      "link": "https://music.163.com/album?id=34754028"
+    }
+  },
+  {
+    "name": "Don't go dark (feat. helena j)",
+    "link": "https://music.163.com/song?id=28926971",
+    "duration": "04:05",
+    "artists": [
+      { "name": " kill fm", "link": "https://music.163.com/artist?id=985106" }
+    ],
+    "album": {
+      "name": "don't go dark ep",
+      "link": "https://music.163.com/album?id=2949410"
+    }
+  },
+  {
+    "name": "homescreen",
+    "link": "https://music.163.com/song?id=1436802494",
+    "duration": "02:57",
+    "artists": [
+      { "name": "sadeyes", "link": "https://music.163.com/artist?id=14054131" }
+    ],
+    "album": {
+      "name": "homescreen",
+      "link": "https://music.163.com/album?id=87396924"
+    }
+  },
+  {
+    "name": "Holdin' On [Skrillex & Nero Remix]",
+    "link": "https://music.163.com/song?id=26995594",
+    "duration": "03:57",
+    "artists": [
+      { "name": "Monsta", "link": "https://music.163.com/artist?id=688426" }
+    ],
+    "album": {
+      "name": "I See Monstas",
+      "link": "https://music.163.com/album?id=2580099"
+    }
+  }
+]

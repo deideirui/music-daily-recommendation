@@ -1,0 +1,463 @@
+[
+  {
+    "name": "Empty Sky",
+    "link": "https://music.163.com/song?id=1417223610",
+    "duration": "02:53",
+    "artists": [
+      {
+        "name": "DESERT STAR",
+        "link": "https://music.163.com/artist?id=31890379"
+      }
+    ],
+    "album": {
+      "name": "Empty Sky",
+      "link": "https://music.163.com/album?id=85037583"
+    }
+  },
+  {
+    "name": "Heart",
+    "link": "https://music.163.com/song?id=1361335790",
+    "duration": "03:15",
+    "artists": [
+      { "name": "OTR", "link": "https://music.163.com/artist?id=12232013" },
+      { "name": "Shallou", "link": "https://music.163.com/artist?id=12029377" }
+    ],
+    "album": {
+      "name": "Heart",
+      "link": "https://music.163.com/album?id=78779459"
+    }
+  },
+  {
+    "name": "Take Everything (Extended Mix)",
+    "link": "https://music.163.com/song?id=1338635142",
+    "duration": "04:28",
+    "artists": [
+      {
+        "name": "Gareth Emery",
+        "link": "https://music.163.com/artist?id=34318"
+      },
+      { "name": "Emma Hewitt", "link": "https://music.163.com/artist?id=56751" }
+    ],
+    "album": {
+      "name": "Take Everything",
+      "link": "https://music.163.com/album?id=74869418"
+    }
+  },
+  {
+    "name": "Sad Robot",
+    "link": "https://music.163.com/song?id=1418900020",
+    "duration": "02:46",
+    "artists": [
+      { "name": "Vexento", "link": "https://music.163.com/artist?id=12037010" }
+    ],
+    "album": {
+      "name": "Sad Robot",
+      "link": "https://music.163.com/album?id=85213884"
+    }
+  },
+  {
+    "name": "Space",
+    "link": "https://music.163.com/song?id=499465427",
+    "duration": "02:48",
+    "artists": [
+      { "name": "Famba", "link": "https://music.163.com/artist?id=12121068" }
+    ],
+    "album": {
+      "name": "Space",
+      "link": "https://music.163.com/album?id=35903619"
+    }
+  },
+  {
+    "name": "Traffic Light",
+    "link": "https://music.163.com/song?id=1356806520",
+    "duration": "02:43",
+    "artists": [
+      { "name": "Rival", "link": "https://music.163.com/artist?id=12741030" },
+      { "name": "Orkid", "link": "https://music.163.com/artist?id=12971173" }
+    ],
+    "album": {
+      "name": "Traffic Light",
+      "link": "https://music.163.com/album?id=78341647"
+    }
+  },
+  {
+    "name": "No Eyes On Me",
+    "link": "https://music.163.com/song?id=1436384887",
+    "duration": "03:21",
+    "artists": [
+      {
+        "name": "Justin Caruso",
+        "link": "https://music.163.com/artist?id=1193462"
+      }
+    ],
+    "album": {
+      "name": "No Eyes On Me",
+      "link": "https://music.163.com/album?id=87321698"
+    }
+  },
+  {
+    "name": "Look4You",
+    "link": "https://music.163.com/song?id=483024028",
+    "duration": "02:52",
+    "artists": [
+      {
+        "name": "Alberto Ciccarini",
+        "link": "https://music.163.com/artist?id=11988047"
+      }
+    ],
+    "album": {
+      "name": "Look4You",
+      "link": "https://music.163.com/album?id=35572323"
+    }
+  },
+  {
+    "name": "Safe with You",
+    "link": "https://music.163.com/song?id=1387540281",
+    "duration": "03:08",
+    "artists": [
+      {
+        "name": "Delaney Jane",
+        "link": "https://music.163.com/artist?id=1132286"
+      }
+    ],
+    "album": {
+      "name": "Safe with You",
+      "link": "https://music.163.com/album?id=81252228"
+    }
+  },
+  {
+    "name": "Atlantis",
+    "link": "https://music.163.com/song?id=26612938",
+    "duration": "04:02",
+    "artists": [
+      {
+        "name": "Postiljonen",
+        "link": "https://music.163.com/artist?id=725356"
+      }
+    ],
+    "album": {
+      "name": "Skyer",
+      "link": "https://music.163.com/album?id=2535635"
+    }
+  },
+  {
+    "name": "Set to Sail",
+    "link": "https://music.163.com/song?id=433681577",
+    "duration": "07:29",
+    "artists": [
+      {
+        "name": "Menno de Jong",
+        "link": "https://music.163.com/artist?id=131559"
+      },
+      {
+        "name": "Adam Ellis",
+        "link": "https://music.163.com/artist?id=574496"
+      },
+      {
+        "name": "Kate Louise Smith",
+        "link": "https://music.163.com/artist?id=854450"
+      }
+    ],
+    "album": {
+      "name": "Set to Sail",
+      "link": "https://music.163.com/album?id=34897902"
+    }
+  },
+  {
+    "name": "Artemis",
+    "link": "https://music.163.com/song?id=1390431358",
+    "duration": "03:53",
+    "artists": [
+      {
+        "name": "Lindsey Stirling",
+        "link": "https://music.163.com/artist?id=66225"
+      }
+    ],
+    "album": {
+      "name": "Artemis",
+      "link": "https://music.163.com/album?id=81587639"
+    }
+  },
+  {
+    "name": "Sad Machine (Xeuphoria's Goodbye Ver.)",
+    "link": "https://music.163.com/song?id=406086508",
+    "duration": "02:35",
+    "artists": [
+      { "name": "Xeuphoria", "link": "https://music.163.com/artist?id=1064078" }
+    ],
+    "album": {
+      "name": "Sad Machine (Xeuphoria's Goodbye Ver.)",
+      "link": "https://music.163.com/album?id=34527731"
+    }
+  },
+  {
+    "name": "Ricochet",
+    "link": "https://music.163.com/song?id=537407963",
+    "duration": "03:20",
+    "artists": [
+      { "name": "Haux", "link": "https://music.163.com/artist?id=1078427" }
+    ],
+    "album": {
+      "name": "Ricochet",
+      "link": "https://music.163.com/album?id=37561412"
+    }
+  },
+  {
+    "name": "Clouds",
+    "link": "https://music.163.com/song?id=448147038",
+    "duration": "04:31",
+    "artists": [
+      {
+        "name": "Before You Exit",
+        "link": "https://music.163.com/artist?id=88867"
+      }
+    ],
+    "album": {
+      "name": "Clouds",
+      "link": "https://music.163.com/album?id=35067020"
+    }
+  },
+  {
+    "name": "Small Talk",
+    "link": "https://music.163.com/song?id=1385563785",
+    "duration": "03:40",
+    "artists": [
+      {
+        "name": "Max Oazo",
+        "link": "https://music.163.com/artist?id=13159084"
+      },
+      { "name": "Moonessa", "link": "https://music.163.com/artist?id=29834706" }
+    ],
+    "album": {
+      "name": "Close To Me",
+      "link": "https://music.163.com/album?id=81063266"
+    }
+  },
+  {
+    "name": "Falling For Twelves",
+    "link": "https://music.163.com/song?id=20553386",
+    "duration": "02:55",
+    "artists": [
+      {
+        "name": "Craig D'Andrea",
+        "link": "https://music.163.com/artist?id=30935"
+      }
+    ],
+    "album": {
+      "name": "...and the B.L.T.'s",
+      "link": "https://music.163.com/album?id=1912671"
+    }
+  },
+  {
+    "name": "I Can't Carry This Anymore",
+    "link": "https://music.163.com/song?id=1333336680",
+    "duration": "03:20",
+    "artists": [
+      {
+        "name": "Anson Seabra",
+        "link": "https://music.163.com/artist?id=14470054"
+      }
+    ],
+    "album": {
+      "name": "I Can't Carry This Anymore",
+      "link": "https://music.163.com/album?id=74878369"
+    }
+  },
+  {
+    "name": "Home",
+    "link": "https://music.163.com/song?id=28257520",
+    "duration": "02:33",
+    "artists": [
+      {
+        "name": "Will McNicol",
+        "link": "https://music.163.com/artist?id=897045"
+      }
+    ],
+    "album": {
+      "name": "The Wake Up",
+      "link": "https://music.163.com/album?id=2761881"
+    }
+  },
+  {
+    "name": "Another Cloud",
+    "link": "https://music.163.com/song?id=506092116",
+    "duration": "03:34",
+    "artists": [
+      { "name": "L3V3LS", "link": "https://music.163.com/artist?id=12007340" },
+      {
+        "name": "Will Watson",
+        "link": "https://music.163.com/artist?id=12333174"
+      }
+    ],
+    "album": {
+      "name": "Another Cloud",
+      "link": "https://music.163.com/album?id=36224037"
+    }
+  },
+  {
+    "name": "Dreaming of You (Original Mix)",
+    "link": "https://music.163.com/song?id=442867745",
+    "duration": "07:56",
+    "artists": [
+      {
+        "name": "Roald Velden",
+        "link": "https://music.163.com/artist?id=178498"
+      },
+      { "name": "ZENI", "link": "https://music.163.com/artist?id=1038138" }
+    ],
+    "album": {
+      "name": "Nowhere",
+      "link": "https://music.163.com/album?id=35017242"
+    }
+  },
+  {
+    "name": "Interstellar (Murcial Remix)",
+    "link": "https://music.163.com/song?id=521417270",
+    "duration": "03:58",
+    "artists": [
+      { "name": "Murcial", "link": "https://music.163.com/artist?id=12902119" },
+      { "name": "Hans Zimmer", "link": "https://music.163.com/artist?id=34517" }
+    ],
+    "album": {
+      "name": "Interstellar (Murcial Remix)",
+      "link": "https://music.163.com/album?id=36873056"
+    }
+  },
+  {
+    "name": "First Light",
+    "link": "https://music.163.com/song?id=415793049",
+    "duration": "04:25",
+    "artists": [
+      {
+        "name": "Dustin Tebbutt",
+        "link": "https://music.163.com/artist?id=840431"
+      }
+    ],
+    "album": {
+      "name": "First Light",
+      "link": "https://music.163.com/album?id=34721405"
+    }
+  },
+  {
+    "name": "吉他二胡中国风串烧",
+    "link": "https://music.163.com/song?id=1385109610",
+    "duration": "05:27",
+    "artists": [
+      { "name": "胡伟佳", "link": "https://music.163.com/artist?id=13450520" }
+    ],
+    "album": {
+      "name": "吉他+二胡",
+      "link": "https://music.163.com/album?id=80999177"
+    }
+  },
+  {
+    "name": "Jason",
+    "link": "https://music.163.com/song?id=426027089",
+    "duration": "05:31",
+    "artists": [
+      {
+        "name": "The Midnight",
+        "link": "https://music.163.com/artist?id=12023492"
+      },
+      {
+        "name": "Nikki Flores",
+        "link": "https://music.163.com/artist?id=70141"
+      }
+    ],
+    "album": {
+      "name": "Endless Summer",
+      "link": "https://music.163.com/album?id=34826028"
+    }
+  },
+  {
+    "name": "Out Cold",
+    "link": "https://music.163.com/song?id=1378742137",
+    "duration": "02:46",
+    "artists": [
+      { "name": "AYEON", "link": "https://music.163.com/artist?id=30713803" }
+    ],
+    "album": {
+      "name": "Out Cold",
+      "link": "https://music.163.com/album?id=80464590"
+    }
+  },
+  {
+    "name": "Dream It Possible",
+    "link": "https://music.163.com/song?id=38592976",
+    "duration": "03:24",
+    "artists": [
+      { "name": "Delacey", "link": "https://music.163.com/artist?id=489045" }
+    ],
+    "album": {
+      "name": "Dream It Possible",
+      "link": "https://music.163.com/album?id=3426477"
+    }
+  },
+  {
+    "name": "Yellow",
+    "link": "https://music.163.com/song?id=5162474",
+    "duration": "04:29",
+    "artists": [
+      { "name": "Coldplay", "link": "https://music.163.com/artist?id=89365" }
+    ],
+    "album": {
+      "name": "Top of the Pops 2000",
+      "link": "https://music.163.com/album?id=506795"
+    }
+  },
+  {
+    "name": "Unforgettable (Original Mix) -=Above=-",
+    "link": "https://music.163.com/song?id=35331412",
+    "duration": "07:13",
+    "artists": [
+      { "name": "SoundLift", "link": "https://music.163.com/artist?id=44015" }
+    ],
+    "album": {
+      "name": "Unforgettable",
+      "link": "https://music.163.com/album?id=3319033"
+    }
+  },
+  {
+    "name": "Extraterrestrials (Extended Mix)",
+    "link": "https://music.163.com/song?id=408140399",
+    "duration": "08:17",
+    "artists": [
+      {
+        "name": "Simon O'Shine",
+        "link": "https://music.163.com/artist?id=207035"
+      },
+      {
+        "name": "Sergey Nevone",
+        "link": "https://music.163.com/artist?id=240783"
+      }
+    ],
+    "album": {
+      "name": "Extraterrestrials",
+      "link": "https://music.163.com/album?id=34590292"
+    }
+  },
+  {
+    "name": "Hotel California (2013 Remaster) - (加州旅馆)",
+    "link": "https://music.163.com/song?id=26289183",
+    "duration": "06:30",
+    "artists": [
+      { "name": "Eagles", "link": "https://music.163.com/artist?id=91725" }
+    ],
+    "album": {
+      "name": "The Studio Albums 1972-1979 (2013 Remaster)",
+      "link": "https://music.163.com/album?id=2446101"
+    }
+  },
+  {
+    "name": "相思相愛",
+    "link": "https://music.163.com/song?id=1806912997",
+    "duration": "03:23",
+    "artists": [
+      { "name": "GReeeeN", "link": "https://music.163.com/artist?id=19550" }
+    ],
+    "album": {
+      "name": "ボクたちの電光石火",
+      "link": "https://music.163.com/album?id=121224677"
+    }
+  }
+]

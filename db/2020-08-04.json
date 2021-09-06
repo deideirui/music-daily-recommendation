@@ -1,0 +1,455 @@
+[
+  {
+    "name": "Over It",
+    "link": "https://music.163.com/song?id=1403706216",
+    "duration": "03:28",
+    "artists": [
+      { "name": "Pilton", "link": "https://music.163.com/artist?id=1050299" },
+      {
+        "name": "Edgar Sandoval Jr",
+        "link": "https://music.163.com/artist?id=12561891"
+      }
+    ],
+    "album": {
+      "name": "Over It",
+      "link": "https://music.163.com/album?id=83391465"
+    }
+  },
+  {
+    "name": "Wanted",
+    "link": "https://music.163.com/song?id=1393557000",
+    "duration": "02:41",
+    "artists": [
+      { "name": "NOTD", "link": "https://music.163.com/artist?id=12262306" },
+      { "name": "Daya", "link": "https://music.163.com/artist?id=1081186" }
+    ],
+    "album": {
+      "name": "Wanted",
+      "link": "https://music.163.com/album?id=81973693"
+    }
+  },
+  {
+    "name": "Thinkin Bout You",
+    "link": "https://music.163.com/song?id=1397324193",
+    "duration": "02:31",
+    "artists": [
+      { "name": "Jonasu", "link": "https://music.163.com/artist?id=28527997" },
+      { "name": "Jantine", "link": "https://music.163.com/artist?id=13710625" }
+    ],
+    "album": {
+      "name": "Thinkin Bout You",
+      "link": "https://music.163.com/album?id=82468456"
+    }
+  },
+  {
+    "name": "Jafar",
+    "link": "https://music.163.com/song?id=1432297111",
+    "duration": "03:10",
+    "artists": [
+      {
+        "name": "Jack & James",
+        "link": "https://music.163.com/artist?id=29469070"
+      },
+      { "name": "Castion", "link": "https://music.163.com/artist?id=27687018" }
+    ],
+    "album": {
+      "name": "Jafar",
+      "link": "https://music.163.com/album?id=86642808"
+    }
+  },
+  {
+    "name": "Monsters",
+    "link": "https://music.163.com/song?id=1442453411",
+    "duration": "03:57",
+    "artists": [
+      {
+        "name": "Midnight Kids",
+        "link": "https://music.163.com/artist?id=13192314"
+      }
+    ],
+    "album": {
+      "name": "Monsters",
+      "link": "https://music.163.com/album?id=88347039"
+    }
+  },
+  {
+    "name": "Tears & Tantrums (Remixed by Evan Gartner)",
+    "link": "https://music.163.com/song?id=1331677398",
+    "duration": "03:04",
+    "artists": [
+      {
+        "name": "Evan Gartner",
+        "link": "https://music.163.com/artist?id=12411125"
+      },
+      { "name": "XYLØ", "link": "https://music.163.com/artist?id=1050511" }
+    ],
+    "album": {
+      "name": "Tears & Tantrums",
+      "link": "https://music.163.com/album?id=74797519"
+    }
+  },
+  {
+    "name": "Simple",
+    "link": "https://music.163.com/song?id=1330074880",
+    "duration": "02:55",
+    "artists": [
+      {
+        "name": "Fannypack",
+        "link": "https://music.163.com/artist?id=32716746"
+      }
+    ],
+    "album": {
+      "name": "Simple",
+      "link": "https://music.163.com/album?id=74705667"
+    }
+  },
+  {
+    "name": "Famous",
+    "link": "https://music.163.com/song?id=1445671173",
+    "duration": "03:09",
+    "artists": [
+      { "name": "MaHi", "link": "https://music.163.com/artist?id=1015367" }
+    ],
+    "album": {
+      "name": "The Waiting Game",
+      "link": "https://music.163.com/album?id=88969011"
+    }
+  },
+  {
+    "name": "Find A Way",
+    "link": "https://music.163.com/song?id=1388617703",
+    "duration": "02:43",
+    "artists": [
+      { "name": "Amero", "link": "https://music.163.com/artist?id=429030" },
+      { "name": "Woxx", "link": "https://music.163.com/artist?id=29800851" }
+    ],
+    "album": {
+      "name": "Find A Way",
+      "link": "https://music.163.com/album?id=81353664"
+    }
+  },
+  {
+    "name": "Don't Call Me",
+    "link": "https://music.163.com/song?id=1306369872",
+    "duration": "03:33",
+    "artists": [
+      { "name": "Nevada", "link": "https://music.163.com/artist?id=504043" },
+      { "name": "Loote", "link": "https://music.163.com/artist?id=12408152" }
+    ],
+    "album": {
+      "name": "Don’t Call Me",
+      "link": "https://music.163.com/album?id=72785466"
+    }
+  },
+  {
+    "name": "Hung Up",
+    "link": "https://music.163.com/song?id=556066474",
+    "duration": "03:40",
+    "artists": [
+      { "name": "Tritonal", "link": "https://music.163.com/artist?id=104133" },
+      { "name": "Sj", "link": "https://music.163.com/artist?id=288146" },
+      {
+        "name": "Emma Gatsby",
+        "link": "https://music.163.com/artist?id=12086040"
+      }
+    ],
+    "album": {
+      "name": "Calabasas",
+      "link": "https://music.163.com/album?id=38519338"
+    }
+  },
+  {
+    "name": "Solace",
+    "link": "https://music.163.com/song?id=1371052243",
+    "duration": "04:28",
+    "artists": [
+      { "name": "Feint", "link": "https://music.163.com/artist?id=93062" },
+      {
+        "name": "Laura Brehm",
+        "link": "https://music.163.com/artist?id=207693"
+      }
+    ],
+    "album": {
+      "name": "Solace",
+      "link": "https://music.163.com/album?id=79713514"
+    }
+  },
+  {
+    "name": "Lost",
+    "link": "https://music.163.com/song?id=507585224",
+    "duration": "03:20",
+    "artists": [
+      { "name": "ILLENIUM", "link": "https://music.163.com/artist?id=1050518" },
+      {
+        "name": "Emilie Brandt",
+        "link": "https://music.163.com/artist?id=13939432"
+      }
+    ],
+    "album": {
+      "name": "Awake",
+      "link": "https://music.163.com/album?id=36290028"
+    }
+  },
+  {
+    "name": "Falling Again",
+    "link": "https://music.163.com/song?id=565841089",
+    "duration": "04:30",
+    "artists": [
+      { "name": "Nurko", "link": "https://music.163.com/artist?id=11991089" },
+      { "name": "Roniit", "link": "https://music.163.com/artist?id=74558" }
+    ],
+    "album": {
+      "name": "Falling Again",
+      "link": "https://music.163.com/album?id=39223016"
+    }
+  },
+  {
+    "name": "Moving On Without You",
+    "link": "https://music.163.com/song?id=1353357422",
+    "duration": "03:26",
+    "artists": [
+      { "name": "Warren", "link": "https://music.163.com/artist?id=34379664" },
+      { "name": "SƠN", "link": "https://music.163.com/artist?id=31724344" },
+      {
+        "name": "Emelie Cyréus",
+        "link": "https://music.163.com/artist?id=13312243"
+      }
+    ],
+    "album": {
+      "name": "Revealed Recordings presents Miami Festival EP 2019",
+      "link": "https://music.163.com/album?id=77574554"
+    }
+  },
+  {
+    "name": "Daily",
+    "link": "https://music.163.com/song?id=1313034565",
+    "duration": "03:20",
+    "artists": [
+      { "name": "Rival", "link": "https://music.163.com/artist?id=12741030" },
+      { "name": "Cadmium", "link": "https://music.163.com/artist?id=12945908" },
+      {
+        "name": "Jon Becker",
+        "link": "https://music.163.com/artist?id=14296748"
+      }
+    ],
+    "album": {
+      "name": "Daily",
+      "link": "https://music.163.com/album?id=73639441"
+    }
+  },
+  {
+    "name": "1000 Faces (with Dia Frampton)",
+    "link": "https://music.163.com/song?id=1415736300",
+    "duration": "03:04",
+    "artists": [
+      {
+        "name": "Jason Ross",
+        "link": "https://music.163.com/artist?id=906123"
+      },
+      {
+        "name": "Dia Frampton",
+        "link": "https://music.163.com/artist?id=55454"
+      }
+    ],
+    "album": {
+      "name": "1000 Faces",
+      "link": "https://music.163.com/album?id=84893810"
+    }
+  },
+  {
+    "name": "We Are",
+    "link": "https://music.163.com/song?id=433681277",
+    "duration": "03:27",
+    "artists": [
+      { "name": "Daya", "link": "https://music.163.com/artist?id=1081186" }
+    ],
+    "album": {
+      "name": "Sit Still, Look Pretty",
+      "link": "https://music.163.com/album?id=34898699"
+    }
+  },
+  {
+    "name": "Grow",
+    "link": "https://music.163.com/song?id=573240023",
+    "duration": "03:27",
+    "artists": [
+      {
+        "name": "Joakim Lundell",
+        "link": "https://music.163.com/artist?id=12289052"
+      },
+      { "name": "Tom Noah", "link": "https://music.163.com/artist?id=28808732" }
+    ],
+    "album": {
+      "name": "Feelings",
+      "link": "https://music.163.com/album?id=39791888"
+    }
+  },
+  {
+    "name": "One Less Star (Acoustic)",
+    "link": "https://music.163.com/song?id=1344440591",
+    "duration": "04:02",
+    "artists": [
+      { "name": "Matt Van", "link": "https://music.163.com/artist?id=12441178" }
+    ],
+    "album": {
+      "name": "One Less Star",
+      "link": "https://music.163.com/album?id=75469852"
+    }
+  },
+  {
+    "name": "Japan",
+    "link": "https://music.163.com/song?id=1388891081",
+    "duration": "03:32",
+    "artists": [
+      { "name": "Throttle", "link": "https://music.163.com/artist?id=794398" }
+    ],
+    "album": {
+      "name": "Japan",
+      "link": "https://music.163.com/album?id=81386625"
+    }
+  },
+  {
+    "name": "Dichotomy",
+    "link": "https://music.163.com/song?id=496870058",
+    "duration": "04:09",
+    "artists": [
+      {
+        "name": "Crystal Skies",
+        "link": "https://music.163.com/artist?id=1063127"
+      },
+      { "name": "AERYN", "link": "https://music.163.com/artist?id=13895932" }
+    ],
+    "album": {
+      "name": "Dichotomy",
+      "link": "https://music.163.com/album?id=35908222"
+    }
+  },
+  {
+    "name": "Throwaway",
+    "link": "https://music.163.com/song?id=1373140736",
+    "duration": "03:00",
+    "artists": [
+      { "name": "SG Lewis", "link": "https://music.163.com/artist?id=1130009" },
+      { "name": "Clairo", "link": "https://music.163.com/artist?id=12191215" }
+    ],
+    "album": {
+      "name": "Dawn",
+      "link": "https://music.163.com/album?id=79915987"
+    }
+  },
+  {
+    "name": "Contagious",
+    "link": "https://music.163.com/song?id=1383073669",
+    "duration": "03:36",
+    "artists": [
+      { "name": "Grant", "link": "https://music.163.com/artist?id=813362" },
+      { "name": "Runn", "link": "https://music.163.com/artist?id=15237536" }
+    ],
+    "album": {
+      "name": "Wishes",
+      "link": "https://music.163.com/album?id=80856434"
+    }
+  },
+  {
+    "name": "Always or Never",
+    "link": "https://music.163.com/song?id=1383196152",
+    "duration": "03:30",
+    "artists": [
+      {
+        "name": "Vacation Club",
+        "link": "https://music.163.com/artist?id=29183282"
+      }
+    ],
+    "album": {
+      "name": "Always or Never",
+      "link": "https://music.163.com/album?id=80868751"
+    }
+  },
+  {
+    "name": "Vibe",
+    "link": "https://music.163.com/song?id=533017528",
+    "duration": "03:18",
+    "artists": [
+      {
+        "name": "Fly by Midnight",
+        "link": "https://music.163.com/artist?id=1163027"
+      }
+    ],
+    "album": {
+      "name": "Vibe",
+      "link": "https://music.163.com/album?id=37391205"
+    }
+  },
+  {
+    "name": "You & I (feat. Jenna Pemkowski)",
+    "link": "https://music.163.com/song?id=459925308",
+    "duration": "04:08",
+    "artists": [
+      { "name": "Dabin", "link": "https://music.163.com/artist?id=783446" },
+      {
+        "name": "Jenna Pemkowski",
+        "link": "https://music.163.com/artist?id=11992057"
+      }
+    ],
+    "album": {
+      "name": "Two Hearts",
+      "link": "https://music.163.com/album?id=35313506"
+    }
+  },
+  {
+    "name": "All I Need",
+    "link": "https://music.163.com/song?id=1380228195",
+    "duration": "03:12",
+    "artists": [
+      {
+        "name": "Michael Schulte",
+        "link": "https://music.163.com/artist?id=40222"
+      }
+    ],
+    "album": {
+      "name": "All I Need",
+      "link": "https://music.163.com/album?id=80617781"
+    }
+  },
+  {
+    "name": "Sims",
+    "link": "https://music.163.com/song?id=1392786375",
+    "duration": "02:35",
+    "artists": [
+      { "name": "Lauv", "link": "https://music.163.com/artist?id=1057226" }
+    ],
+    "album": {
+      "name": "~how i'm feeling~",
+      "link": "https://music.163.com/album?id=86086054"
+    }
+  },
+  {
+    "name": "Pushing 21",
+    "link": "https://music.163.com/song?id=1354240664",
+    "duration": "03:27",
+    "artists": [
+      {
+        "name": "Liv Dawson",
+        "link": "https://music.163.com/artist?id=12046546"
+      }
+    ],
+    "album": {
+      "name": "Pushing 21",
+      "link": "https://music.163.com/album?id=78193658"
+    }
+  },
+  {
+    "name": "Dusk Till Dawn (Brooks Remix)",
+    "link": "https://music.163.com/song?id=509633388",
+    "duration": "03:22",
+    "artists": [
+      { "name": "ZAYN", "link": "https://music.163.com/artist?id=1108049" },
+      { "name": "Sia", "link": "https://music.163.com/artist?id=74625" },
+      { "name": "Brooks", "link": "https://music.163.com/artist?id=49308" }
+    ],
+    "album": {
+      "name": "Dusk Till Dawn (The Remixes)",
+      "link": "https://music.163.com/album?id=36320425"
+    }
+  }
+]

@@ -1,0 +1,445 @@
+[
+  {
+    "name": "What If",
+    "link": "https://music.163.com/song?id=1416700224",
+    "duration": "02:35",
+    "artists": [
+      { "name": "CATALI", "link": "https://music.163.com/artist?id=15142190" },
+      { "name": "Lulleaux", "link": "https://music.163.com/artist?id=1115185" }
+    ],
+    "album": {
+      "name": "What If",
+      "link": "https://music.163.com/album?id=84984682"
+    }
+  },
+  {
+    "name": "Into You",
+    "link": "https://music.163.com/song?id=523042017",
+    "duration": "02:41",
+    "artists": [
+      {
+        "name": "Matisse & Sadko",
+        "link": "https://music.163.com/artist?id=947054"
+      },
+      {
+        "name": "Hanne Mjøen",
+        "link": "https://music.163.com/artist?id=12122217"
+      }
+    ],
+    "album": {
+      "name": "Into You",
+      "link": "https://music.163.com/album?id=36913178"
+    }
+  },
+  {
+    "name": "Beautiful",
+    "link": "https://music.163.com/song?id=1341916358",
+    "duration": "02:53",
+    "artists": [
+      {
+        "name": "Drew Wilken",
+        "link": "https://music.163.com/artist?id=30924383"
+      },
+      {
+        "name": "Mason Murphy",
+        "link": "https://music.163.com/artist?id=31349869"
+      }
+    ],
+    "album": {
+      "name": "Beautiful",
+      "link": "https://music.163.com/album?id=75319952"
+    }
+  },
+  {
+    "name": "Forever Young",
+    "link": "https://music.163.com/song?id=1342592947",
+    "duration": "02:39",
+    "artists": [
+      {
+        "name": "Jack Wins",
+        "link": "https://music.163.com/artist?id=12074097"
+      },
+      {
+        "name": "Amy Grace",
+        "link": "https://music.163.com/artist?id=29836145"
+      }
+    ],
+    "album": {
+      "name": "Forever Young",
+      "link": "https://music.163.com/album?id=75352786"
+    }
+  },
+  {
+    "name": "Dance Dance Dance",
+    "link": "https://music.163.com/song?id=1473531139",
+    "duration": "02:38",
+    "artists": [
+      { "name": "Astrid S", "link": "https://music.163.com/artist?id=1081844" }
+    ],
+    "album": {
+      "name": "Dance Dance Dance",
+      "link": "https://music.163.com/album?id=94401861"
+    }
+  },
+  {
+    "name": "Lotus",
+    "link": "https://music.163.com/song?id=1327822114",
+    "duration": "03:46",
+    "artists": [
+      {
+        "name": "Osvaldorio",
+        "link": "https://music.163.com/artist?id=12047326"
+      },
+      { "name": "Wiana", "link": "https://music.163.com/artist?id=30820516" },
+      { "name": "Galdive", "link": "https://music.163.com/artist?id=30820517" }
+    ],
+    "album": {
+      "name": "Lotus",
+      "link": "https://music.163.com/album?id=74544514"
+    }
+  },
+  {
+    "name": "Towards the Light",
+    "link": "https://music.163.com/song?id=1364292313",
+    "duration": "03:57",
+    "artists": [
+      { "name": "Jacoo", "link": "https://music.163.com/artist?id=347497" }
+    ],
+    "album": {
+      "name": "Release Your Mind",
+      "link": "https://music.163.com/album?id=3056600"
+    }
+  },
+  {
+    "name": "Drive",
+    "link": "https://music.163.com/song?id=33728453",
+    "duration": "03:16",
+    "artists": [
+      { "name": "Oh Wonder", "link": "https://music.163.com/artist?id=1050128" }
+    ],
+    "album": {
+      "name": "Drive",
+      "link": "https://music.163.com/album?id=3257063"
+    }
+  },
+  {
+    "name": "Beauty",
+    "link": "https://music.163.com/song?id=1419369467",
+    "duration": "02:27",
+    "artists": [
+      { "name": "Layto", "link": "https://music.163.com/artist?id=28129508" }
+    ],
+    "album": {
+      "name": "Beauty",
+      "link": "https://music.163.com/album?id=85278156"
+    }
+  },
+  {
+    "name": "Grind Me Down (Jawster Remix)",
+    "link": "https://music.163.com/song?id=493646263",
+    "duration": "03:20",
+    "artists": [
+      { "name": "Jawster", "link": "https://music.163.com/artist?id=1115222" },
+      {
+        "name": "Lilianna Wilde",
+        "link": "https://music.163.com/artist?id=14711114"
+      }
+    ],
+    "album": {
+      "name": "Grind Me Down (Jawster Remix)",
+      "link": "https://music.163.com/album?id=35834578"
+    }
+  },
+  {
+    "name": "Don't Let My Colors Drain ",
+    "link": "https://music.163.com/song?id=1421290359",
+    "duration": "03:12",
+    "artists": [
+      { "name": "MKJ", "link": "https://music.163.com/artist?id=469200" }
+    ],
+    "album": {
+      "name": "Circles",
+      "link": "https://music.163.com/album?id=85514664"
+    }
+  },
+  {
+    "name": "Mermaids",
+    "link": "https://music.163.com/song?id=1389840276",
+    "duration": "03:09",
+    "artists": [
+      { "name": "DEAMN", "link": "https://music.163.com/artist?id=12047335" }
+    ],
+    "album": {
+      "name": "Mermaids",
+      "link": "https://music.163.com/album?id=81507154"
+    }
+  },
+  {
+    "name": "Holding On",
+    "link": "https://music.163.com/song?id=520274067",
+    "duration": "03:25",
+    "artists": [
+      {
+        "name": "Adib Sin",
+        "link": "https://music.163.com/artist?id=12244027"
+      },
+      { "name": "Salsa", "link": "https://music.163.com/artist?id=141594" }
+    ],
+    "album": {
+      "name": "Holding On",
+      "link": "https://music.163.com/album?id=36845027"
+    }
+  },
+  {
+    "name": "Peace Of Mind",
+    "link": "https://music.163.com/song?id=28889785",
+    "duration": "04:42",
+    "artists": [
+      { "name": "Jacoo", "link": "https://music.163.com/artist?id=347497" }
+    ],
+    "album": {
+      "name": "Hurt EP",
+      "link": "https://music.163.com/album?id=2922260"
+    }
+  },
+  {
+    "name": "The Veil",
+    "link": "https://music.163.com/song?id=31680618",
+    "duration": "02:32",
+    "artists": [
+      {
+        "name": "Arn Andersson",
+        "link": "https://music.163.com/artist?id=1069011"
+      }
+    ],
+    "album": {
+      "name": "The Second Era",
+      "link": "https://music.163.com/album?id=3121889"
+    }
+  },
+  {
+    "name": "Wonderful Days",
+    "link": "https://music.163.com/song?id=1414473022",
+    "duration": "02:28",
+    "artists": [
+      { "name": "Klaas", "link": "https://music.163.com/artist?id=106210" },
+      {
+        "name": "Tony Ronald",
+        "link": "https://music.163.com/artist?id=337079"
+      }
+    ],
+    "album": {
+      "name": "Wonderful Days",
+      "link": "https://music.163.com/album?id=84750019"
+    }
+  },
+  {
+    "name": "Cheap Hotel",
+    "link": "https://music.163.com/song?id=29561495",
+    "duration": "03:42",
+    "artists": [
+      { "name": "Leon Else", "link": "https://music.163.com/artist?id=905044" }
+    ],
+    "album": {
+      "name": "River Full of Liquor",
+      "link": "https://music.163.com/album?id=2811125"
+    }
+  },
+  {
+    "name": "Maybe",
+    "link": "https://music.163.com/song?id=435004271",
+    "duration": "03:49",
+    "artists": [
+      { "name": "Xeuphoria", "link": "https://music.163.com/artist?id=1064078" }
+    ],
+    "album": {
+      "name": "Xeuphoria",
+      "link": "https://music.163.com/album?id=86280743"
+    }
+  },
+  {
+    "name": "No Place Like Home",
+    "link": "https://music.163.com/song?id=33166161",
+    "duration": "05:26",
+    "artists": [
+      { "name": "Electus", "link": "https://music.163.com/artist?id=1032300" }
+    ],
+    "album": {
+      "name": " No Place Like Home",
+      "link": "https://music.163.com/album?id=3184421"
+    }
+  },
+  {
+    "name": "feelings are fatal",
+    "link": "https://music.163.com/song?id=523248510",
+    "duration": "02:04",
+    "artists": [
+      { "name": "mxmtoon", "link": "https://music.163.com/artist?id=12309190" }
+    ],
+    "album": {
+      "name": "feelings are fatal",
+      "link": "https://music.163.com/album?id=36957192"
+    }
+  },
+  {
+    "name": "再见，地球",
+    "link": "https://music.163.com/song?id=461521083",
+    "duration": "03:09",
+    "artists": [
+      {
+        "name": "鲸鱼马戏团",
+        "link": "https://music.163.com/artist?id=1026039"
+      }
+    ],
+    "album": {
+      "name": "鲸鱼马戏团VOL.1",
+      "link": "https://music.163.com/album?id=35201368"
+    }
+  },
+  {
+    "name": "Lights Go Down",
+    "link": "https://music.163.com/song?id=1359708011",
+    "duration": "03:06",
+    "artists": [
+      { "name": "Syn Cole", "link": "https://music.163.com/artist?id=854432" },
+      { "name": "Dakota", "link": "https://music.163.com/artist?id=688224" }
+    ],
+    "album": {
+      "name": "Lights Go Down",
+      "link": "https://music.163.com/album?id=78602985"
+    }
+  },
+  {
+    "name": "Ways",
+    "link": "https://music.163.com/song?id=1336871670",
+    "duration": "02:41",
+    "artists": [
+      { "name": "Imad", "link": "https://music.163.com/artist?id=514770" }
+    ],
+    "album": {
+      "name": "Ways",
+      "link": "https://music.163.com/album?id=75018030"
+    }
+  },
+  {
+    "name": "hide",
+    "link": "https://music.163.com/song?id=483690542",
+    "duration": "02:25",
+    "artists": [
+      {
+        "name": "genevieve",
+        "link": "https://music.163.com/artist?id=12356321"
+      }
+    ],
+    "album": {
+      "name": "hide",
+      "link": "https://music.163.com/album?id=35610029"
+    }
+  },
+  {
+    "name": "Happy Robot",
+    "link": "https://music.163.com/song?id=412187257",
+    "duration": "03:49",
+    "artists": [
+      { "name": "L3V3LS", "link": "https://music.163.com/artist?id=12007340" }
+    ],
+    "album": {
+      "name": "Happy Robot",
+      "link": "https://music.163.com/album?id=34686756"
+    }
+  },
+  {
+    "name": "Stay",
+    "link": "https://music.163.com/song?id=1317067814",
+    "duration": "03:20",
+    "artists": [
+      {
+        "name": "Denis Kenzo",
+        "link": "https://music.163.com/artist?id=263670"
+      }
+    ],
+    "album": {
+      "name": "Stay",
+      "link": "https://music.163.com/album?id=73865896"
+    }
+  },
+  {
+    "name": "夜袭漓江塔",
+    "link": "https://music.163.com/song?id=431791046",
+    "duration": "03:33",
+    "artists": [
+      {
+        "name": "接个吻，开一枪",
+        "link": "https://music.163.com/artist?id=12085016"
+      }
+    ],
+    "album": {
+      "name": "夜袭漓江塔",
+      "link": "https://music.163.com/album?id=34892026"
+    }
+  },
+  {
+    "name": "Light Of Dawn",
+    "link": "https://music.163.com/song?id=31053729",
+    "duration": "05:00",
+    "artists": [
+      { "name": "CMA", "link": "https://music.163.com/artist?id=300739" },
+      { "name": "Electus", "link": "https://music.163.com/artist?id=1032300" }
+    ],
+    "album": {
+      "name": "Light Of Dawn",
+      "link": "https://music.163.com/album?id=3109481"
+    }
+  },
+  {
+    "name": "Who I Am (Extended Mix)",
+    "link": "https://music.163.com/song?id=550890196",
+    "duration": "06:07",
+    "artists": [
+      {
+        "name": "Kate Miles",
+        "link": "https://music.163.com/artist?id=13202746"
+      },
+      { "name": "Fahjah", "link": "https://music.163.com/artist?id=12171191" },
+      {
+        "name": "Denis Kenzo",
+        "link": "https://music.163.com/artist?id=263670"
+      }
+    ],
+    "album": {
+      "name": "Who I Am",
+      "link": "https://music.163.com/album?id=38251347"
+    }
+  },
+  {
+    "name": "Cavalry",
+    "link": "https://music.163.com/song?id=517902790",
+    "duration": "05:11",
+    "artists": [
+      { "name": "Novo Amor", "link": "https://music.163.com/artist?id=904041" },
+      {
+        "name": "Ed Tullett",
+        "link": "https://music.163.com/artist?id=12863130"
+      }
+    ],
+    "album": {
+      "name": "Heiress",
+      "link": "https://music.163.com/album?id=36771113"
+    }
+  },
+  {
+    "name": "November",
+    "link": "https://music.163.com/song?id=39449556",
+    "duration": "03:49",
+    "artists": [
+      {
+        "name": "Lonesome Animals",
+        "link": "https://music.163.com/artist?id=1192454"
+      }
+    ],
+    "album": {
+      "name": "Soft Light",
+      "link": "https://music.163.com/album?id=3426950"
+    }
+  }
+]

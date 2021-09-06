@@ -1,0 +1,433 @@
+[
+  {
+    "name": "Lush Life (Acoustic Version)",
+    "link": "https://music.163.com/song?id=408522735",
+    "duration": "03:22",
+    "artists": [
+      {
+        "name": "Zara Larsson",
+        "link": "https://music.163.com/artist?id=816461"
+      }
+    ],
+    "album": {
+      "name": "Lush Life (Acoustic Version)",
+      "link": "https://music.163.com/album?id=34589855"
+    }
+  },
+  {
+    "name": "Vesper",
+    "link": "https://music.163.com/song?id=1364106933",
+    "duration": "05:08",
+    "artists": [
+      {
+        "name": "Gareth Emery",
+        "link": "https://music.163.com/artist?id=34318"
+      },
+      {
+        "name": "Ashley Wallbridge",
+        "link": "https://music.163.com/artist?id=29252"
+      },
+      { "name": "Nash", "link": "https://music.163.com/artist?id=954213" }
+    ],
+    "album": {
+      "name": "Kingdom United",
+      "link": "https://music.163.com/album?id=79009325"
+    }
+  },
+  {
+    "name": "Up&Up",
+    "link": "https://music.163.com/song?id=425280643",
+    "duration": "03:58",
+    "artists": [
+      { "name": "Coldplay", "link": "https://music.163.com/artist?id=89365" }
+    ],
+    "album": {
+      "name": "Now That's What I Call Music! 94",
+      "link": "https://music.163.com/album?id=34818050"
+    }
+  },
+  {
+    "name": "Keep You Much Longer",
+    "link": "https://music.163.com/song?id=16375087",
+    "duration": "04:20",
+    "artists": [
+      { "name": "Akon", "link": "https://music.163.com/artist?id=27595" }
+    ],
+    "album": {
+      "name": "Freedom",
+      "link": "https://music.163.com/album?id=1510338"
+    }
+  },
+  {
+    "name": "Burn My Clothes, Bury My Crown (Live)",
+    "link": "https://music.163.com/song?id=432848330",
+    "duration": "03:52",
+    "artists": [
+      {
+        "name": "Isaac Gracie",
+        "link": "https://music.163.com/artist?id=12023212"
+      }
+    ],
+    "album": {
+      "name": "Songs In Black And White (Live from the waiting room,29.07.16)",
+      "link": "https://music.163.com/album?id=34880598"
+    }
+  },
+  {
+    "name": "Colour My World",
+    "link": "https://music.163.com/song?id=31152759",
+    "duration": "04:14",
+    "artists": [
+      { "name": "やまだ豊", "link": "https://music.163.com/artist?id=896309" }
+    ],
+    "album": {
+      "name": "TV ANIMATION Tokyo Ghoul Original Soundtrack",
+      "link": "https://music.163.com/album?id=3104199"
+    }
+  },
+  {
+    "name": "Ref:rain - (TV动画《恋如雨止》片尾曲 ；TVアニメ「恋は雨上がりのように」EDテーマ)",
+    "link": "https://music.163.com/song?id=536623501",
+    "duration": "04:50",
+    "artists": [
+      { "name": "Aimer", "link": "https://music.163.com/artist?id=16152" }
+    ],
+    "album": {
+      "name": "Ref:rain (期間生産限定盤)",
+      "link": "https://music.163.com/album?id=37256090"
+    }
+  },
+  {
+    "name": "I Love You Like The Little Bird",
+    "link": "https://music.163.com/song?id=21651845",
+    "duration": "03:47",
+    "artists": [
+      {
+        "name": "Starflyer 59",
+        "link": "https://music.163.com/artist?id=74799"
+      }
+    ],
+    "album": {
+      "name": "Ghosts Of The Past",
+      "link": "https://music.163.com/album?id=1993684"
+    }
+  },
+  {
+    "name": "ill come back to you",
+    "link": "https://music.163.com/song?id=1448069026",
+    "duration": "02:14",
+    "artists": [
+      { "name": "Powfu", "link": "https://music.163.com/artist?id=28900371" },
+      {
+        "name": "Sarcastic Sounds",
+        "link": "https://music.163.com/artist?id=12928025"
+      },
+      { "name": "Rxseboy", "link": "https://music.163.com/artist?id=31873694" }
+    ],
+    "album": {
+      "name": "poems of the past",
+      "link": "https://music.163.com/album?id=89440135"
+    }
+  },
+  {
+    "name": "F&MU",
+    "link": "https://music.163.com/song?id=1444856305",
+    "duration": "02:14",
+    "artists": [
+      { "name": "Kehlani", "link": "https://music.163.com/artist?id=1060155" }
+    ],
+    "album": {
+      "name": "F&MU",
+      "link": "https://music.163.com/album?id=88811579"
+    }
+  },
+  {
+    "name": "Catch A Flame",
+    "link": "https://music.163.com/song?id=18036485",
+    "duration": "03:17",
+    "artists": [
+      {
+        "name": "Piers Faccini",
+        "link": "https://music.163.com/artist?id=41194"
+      }
+    ],
+    "album": {
+      "name": "Leave No Trace",
+      "link": "https://music.163.com/album?id=1658189"
+    }
+  },
+  {
+    "name": "If I Have To Go",
+    "link": "https://music.163.com/song?id=2002458",
+    "duration": "02:15",
+    "artists": [
+      { "name": "Tom Waits", "link": "https://music.163.com/artist?id=44268" }
+    ],
+    "album": {
+      "name": "Orphans",
+      "link": "https://music.163.com/album?id=201856"
+    }
+  },
+  {
+    "name": "Neon Moon",
+    "link": "https://music.163.com/song?id=1332041722",
+    "duration": "03:45",
+    "artists": [
+      { "name": "CAS", "link": "https://music.163.com/artist?id=12023319" }
+    ],
+    "album": {
+      "name": "Neon Moon",
+      "link": "https://music.163.com/album?id=74819119"
+    }
+  },
+  {
+    "name": "Walk Away",
+    "link": "https://music.163.com/song?id=27938326",
+    "duration": "05:12",
+    "artists": [
+      { "name": "JMSN", "link": "https://music.163.com/artist?id=37263" }
+    ],
+    "album": {
+      "name": "Pllajë",
+      "link": "https://music.163.com/album?id=2697746"
+    }
+  },
+  {
+    "name": "Dangerous",
+    "link": "https://music.163.com/song?id=5159980",
+    "duration": "03:53",
+    "artists": [
+      {
+        "name": "Kardinal Offishall",
+        "link": "https://music.163.com/artist?id=37558"
+      },
+      { "name": "Akon", "link": "https://music.163.com/artist?id=27595" }
+    ],
+    "album": {
+      "name": "Radioplay Pop Express 784P",
+      "link": "https://music.163.com/album?id=506650"
+    }
+  },
+  {
+    "name": "Picky (Remix)",
+    "link": "https://music.163.com/song?id=410100124",
+    "duration": "03:44",
+    "artists": [
+      {
+        "name": "Joey Montana",
+        "link": "https://music.163.com/artist?id=36990"
+      },
+      { "name": "Akon", "link": "https://music.163.com/artist?id=27595" },
+      { "name": "Mohombi", "link": "https://music.163.com/artist?id=39850" }
+    ],
+    "album": {
+      "name": "Picky (Remixes)",
+      "link": "https://music.163.com/album?id=34598911"
+    }
+  },
+  {
+    "name": "Righteous",
+    "link": "https://music.163.com/song?id=1443050044",
+    "duration": "04:03",
+    "artists": [
+      {
+        "name": "Juice WRLD",
+        "link": "https://music.163.com/artist?id=13581233"
+      }
+    ],
+    "album": {
+      "name": "Righteous",
+      "link": "https://music.163.com/album?id=88467379"
+    }
+  },
+  {
+    "name": "I Wanna **** You",
+    "link": "https://music.163.com/song?id=21614604",
+    "duration": "02:58",
+    "artists": [
+      { "name": "Snoop Dogg", "link": "https://music.163.com/artist?id=42939" },
+      { "name": "Akon", "link": "https://music.163.com/artist?id=27595" }
+    ],
+    "album": {
+      "name": "Tha Blue Carpet Treatment",
+      "link": "https://music.163.com/album?id=1991180"
+    }
+  },
+  {
+    "name": "perfume",
+    "link": "https://music.163.com/song?id=1445443563",
+    "duration": "03:03",
+    "artists": [
+      { "name": "Demxntia", "link": "https://music.163.com/artist?id=12598596" }
+    ],
+    "album": {
+      "name": "perfume",
+      "link": "https://music.163.com/album?id=88930274"
+    }
+  },
+  {
+    "name": "竈門炭治郎のうた - (TV动画《鬼灭之刃》第19话插曲)",
+    "link": "https://music.163.com/song?id=1397097038",
+    "duration": "05:32",
+    "artists": [
+      { "name": "中川奈美", "link": "https://music.163.com/artist?id=1072022" }
+    ],
+    "album": {
+      "name": "竈門炭治郎のうた",
+      "link": "https://music.163.com/album?id=82433232"
+    }
+  },
+  {
+    "name": "Changing (Feat. Paloma Faith)",
+    "link": "https://music.163.com/song?id=30590760",
+    "duration": "03:23",
+    "artists": [
+      {
+        "name": "Paloma Faith",
+        "link": "https://music.163.com/artist?id=72526"
+      },
+      { "name": "SIGMA", "link": "https://music.163.com/artist?id=101736" }
+    ],
+    "album": {
+      "name": "Brit Awards 2015",
+      "link": "https://music.163.com/album?id=3102892"
+    }
+  },
+  {
+    "name": "Strange To Hear",
+    "link": "https://music.163.com/song?id=571336918",
+    "duration": "04:12",
+    "artists": [
+      { "name": "Sports", "link": "https://music.163.com/artist?id=13924030" }
+    ],
+    "album": {
+      "name": "Naked All The Time",
+      "link": "https://music.163.com/album?id=39592228"
+    }
+  },
+  {
+    "name": "Promises (Myon & Shane 54 Summer Of Love Radio Edit)",
+    "link": "https://music.163.com/song?id=16483995",
+    "duration": "03:48",
+    "artists": [
+      { "name": "Andain", "link": "https://music.163.com/artist?id=87063" }
+    ],
+    "album": {
+      "name": "Promises",
+      "link": "https://music.163.com/album?id=1520580"
+    }
+  },
+  {
+    "name": "Crying In The Rain",
+    "link": "https://music.163.com/song?id=3020441",
+    "duration": "03:27",
+    "artists": [
+      {
+        "name": "Linda Pritchard",
+        "link": "https://music.163.com/artist?id=66000"
+      }
+    ],
+    "album": {
+      "name": "Alive",
+      "link": "https://music.163.com/album?id=305565"
+    }
+  },
+  {
+    "name": "Gold",
+    "link": "https://music.163.com/song?id=1357815338",
+    "duration": "03:35",
+    "artists": [
+      { "name": "The Ivy", "link": "https://music.163.com/artist?id=12080293" }
+    ],
+    "album": {
+      "name": "Gold",
+      "link": "https://music.163.com/album?id=78424348"
+    }
+  },
+  {
+    "name": "KW",
+    "link": "https://music.163.com/song?id=567366120",
+    "duration": "03:16",
+    "artists": [
+      { "name": "Vansire", "link": "https://music.163.com/artist?id=12348095" }
+    ],
+    "album": {
+      "name": "Angel Youth",
+      "link": "https://music.163.com/album?id=39339033"
+    }
+  },
+  {
+    "name": "Compromised",
+    "link": "https://music.163.com/song?id=472944129",
+    "duration": "03:45",
+    "artists": [
+      {
+        "name": "Tim Atlas",
+        "link": "https://music.163.com/artist?id=12010207"
+      }
+    ],
+    "album": {
+      "name": "Compromised",
+      "link": "https://music.163.com/album?id=35391039"
+    }
+  },
+  {
+    "name": "Sailing Airwaves (In Memory of Matt Trigle) (Original Mix)",
+    "link": "https://music.163.com/song?id=28494058",
+    "duration": "06:57",
+    "artists": [
+      { "name": "ReOrder", "link": "https://music.163.com/artist?id=207490" },
+      {
+        "name": "STANDERWICK",
+        "link": "https://music.163.com/artist?id=975646"
+      },
+      {
+        "name": "SkyPatrol",
+        "link": "https://music.163.com/artist?id=13190140"
+      }
+    ],
+    "album": {
+      "name": "Sailing Airwaves (In Memory Of Matt Trigle)",
+      "link": "https://music.163.com/album?id=2810175"
+    }
+  },
+  {
+    "name": "By an Ion",
+    "link": "https://music.163.com/song?id=4265670",
+    "duration": "03:21",
+    "artists": [
+      {
+        "name": "Raised By Swans",
+        "link": "https://music.163.com/artist?id=99433"
+      }
+    ],
+    "album": {
+      "name": "No Ghostless Place",
+      "link": "https://music.163.com/album?id=431143"
+    }
+  },
+  {
+    "name": "Untitled",
+    "link": "https://music.163.com/song?id=31814523",
+    "duration": "03:50",
+    "artists": [
+      { "name": "Other Lives", "link": "https://music.163.com/artist?id=40881" }
+    ],
+    "album": {
+      "name": "Rituals",
+      "link": "https://music.163.com/album?id=3140101"
+    }
+  },
+  {
+    "name": "Life Is a Gift",
+    "link": "https://music.163.com/song?id=28242061",
+    "duration": "03:31",
+    "artists": [
+      { "name": "John Waller", "link": "https://music.163.com/artist?id=35457" }
+    ],
+    "album": {
+      "name": "Life Is a Gift",
+      "link": "https://music.163.com/album?id=2759257"
+    }
+  }
+]

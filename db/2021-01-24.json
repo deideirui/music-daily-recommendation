@@ -1,0 +1,427 @@
+[
+  {
+    "name": "Renaissance",
+    "link": "https://music.163.com/song?id=39324743",
+    "duration": "02:57",
+    "artists": [
+      {
+        "name": "Steve James",
+        "link": "https://music.163.com/artist?id=43322"
+      },
+      { "name": "Clairity", "link": "https://music.163.com/artist?id=1060082" }
+    ],
+    "album": {
+      "name": "Renaissance",
+      "link": "https://music.163.com/album?id=3426877"
+    }
+  },
+  {
+    "name": "Drowning",
+    "link": "https://music.163.com/song?id=1356230977",
+    "duration": "04:30",
+    "artists": [
+      { "name": "Jai Wolf", "link": "https://music.163.com/artist?id=1063048" },
+      { "name": "Robokid", "link": "https://music.163.com/artist?id=818002" }
+    ],
+    "album": {
+      "name": "The Cure To Loneliness",
+      "link": "https://music.163.com/album?id=78300643"
+    }
+  },
+  {
+    "name": "SHADE",
+    "link": "https://music.163.com/song?id=1397701467",
+    "duration": "02:44",
+    "artists": [
+      {
+        "name": "Buy a dreamer",
+        "link": "https://music.163.com/artist?id=33249809"
+      }
+    ],
+    "album": {
+      "name": "SHADE",
+      "link": "https://music.163.com/album?id=82526119"
+    }
+  },
+  {
+    "name": "All Fired Up",
+    "link": "https://music.163.com/song?id=1459399726",
+    "duration": "02:43",
+    "artists": [
+      { "name": "Dastic", "link": "https://music.163.com/artist?id=1193103" }
+    ],
+    "album": {
+      "name": "All Fired Up",
+      "link": "https://music.163.com/album?id=91785135"
+    }
+  },
+  {
+    "name": "Turn It Up",
+    "link": "https://music.163.com/song?id=1457935147",
+    "duration": "03:24",
+    "artists": [
+      {
+        "name": "KienThien",
+        "link": "https://music.163.com/artist?id=33789828"
+      }
+    ],
+    "album": {
+      "name": "Turn It Up",
+      "link": "https://music.163.com/album?id=91478505"
+    }
+  },
+  {
+    "name": "Come Home (Hazey Eyes Remix)",
+    "link": "https://music.163.com/song?id=500353059",
+    "duration": "03:01",
+    "artists": [
+      { "name": "BAYNK", "link": "https://music.163.com/artist?id=12096025" },
+      { "name": "Shallou", "link": "https://music.163.com/artist?id=12029377" },
+      {
+        "name": "hazey eyes",
+        "link": "https://music.163.com/artist?id=12047491"
+      }
+    ],
+    "album": {
+      "name": "Come Home (Remixes)",
+      "link": "https://music.163.com/album?id=36008033"
+    }
+  },
+  {
+    "name": "Scars To Your Beautiful",
+    "link": "https://music.163.com/song?id=36587834",
+    "duration": "03:50",
+    "artists": [
+      {
+        "name": "Alessia Cara",
+        "link": "https://music.163.com/artist?id=1074089"
+      }
+    ],
+    "album": {
+      "name": "Know-It-All",
+      "link": "https://music.163.com/album?id=3391032"
+    }
+  },
+  {
+    "name": "I Don't Want That",
+    "link": "https://music.163.com/song?id=1399996448",
+    "duration": "04:04",
+    "artists": [
+      { "name": "Attom", "link": "https://music.163.com/artist?id=1115083" },
+      { "name": "Luma", "link": "https://music.163.com/artist?id=211460" }
+    ],
+    "album": {
+      "name": "I Don't Want That",
+      "link": "https://music.163.com/album?id=82846235"
+    }
+  },
+  {
+    "name": "Illusion",
+    "link": "https://music.163.com/song?id=480516046",
+    "duration": "03:04",
+    "artists": [
+      { "name": "Matilda", "link": "https://music.163.com/artist?id=1141029" }
+    ],
+    "album": {
+      "name": "Illusion",
+      "link": "https://music.163.com/album?id=35538355"
+    }
+  },
+  {
+    "name": "I Hate U, I Love U",
+    "link": "https://music.163.com/song?id=461544161",
+    "duration": "03:49",
+    "artists": [
+      { "name": "gnash", "link": "https://music.163.com/artist?id=1137226" },
+      {
+        "name": "Olivia O'Brien",
+        "link": "https://music.163.com/artist?id=12095275"
+      }
+    ],
+    "album": {
+      "name": "BRIT Awards 2017",
+      "link": "https://music.163.com/album?id=35196298"
+    }
+  },
+  {
+    "name": "2002",
+    "link": "https://music.163.com/song?id=554146736",
+    "duration": "03:07",
+    "artists": [
+      {
+        "name": "Anne-Marie",
+        "link": "https://music.163.com/artist?id=1102181"
+      }
+    ],
+    "album": {
+      "name": "Speak Your Mind",
+      "link": "https://music.163.com/album?id=38421362"
+    }
+  },
+  {
+    "name": "Stronger",
+    "link": "https://music.163.com/song?id=26569168",
+    "duration": "03:41",
+    "artists": [
+      {
+        "name": "Kelly Clarkson",
+        "link": "https://music.163.com/artist?id=62885"
+      }
+    ],
+    "album": {
+      "name": "Kids Top 20 - De Grootste Hits Van 2013 - Summer Edition 2013",
+      "link": "https://music.163.com/album?id=2524924"
+    }
+  },
+  {
+    "name": "Your Mind",
+    "link": "https://music.163.com/song?id=1469909200",
+    "duration": "04:35",
+    "artists": [
+      { "name": "Maddix", "link": "https://music.163.com/artist?id=957014" }
+    ],
+    "album": {
+      "name": "Tribe EP Vol. I",
+      "link": "https://music.163.com/album?id=93747255"
+    }
+  },
+  {
+    "name": "Dusk Till Dawn (Radio Edit)",
+    "link": "https://music.163.com/song?id=504264023",
+    "duration": "03:59",
+    "artists": [
+      { "name": "ZAYN", "link": "https://music.163.com/artist?id=1108049" },
+      { "name": "Sia", "link": "https://music.163.com/artist?id=74625" }
+    ],
+    "album": {
+      "name": "Dusk Till Dawn",
+      "link": "https://music.163.com/album?id=36150011"
+    }
+  },
+  {
+    "name": "Love In A Box",
+    "link": "https://music.163.com/song?id=4380582",
+    "duration": "02:39",
+    "artists": [
+      {
+        "name": "The Workday Release",
+        "link": "https://music.163.com/artist?id=102834"
+      }
+    ],
+    "album": {
+      "name": "Simple Distance",
+      "link": "https://music.163.com/album?id=442055"
+    }
+  },
+  {
+    "name": "Steady Me",
+    "link": "https://music.163.com/song?id=507795651",
+    "duration": "03:08",
+    "artists": [
+      { "name": "Hollyn", "link": "https://music.163.com/artist?id=12080054" },
+      {
+        "name": "Aaron Cole",
+        "link": "https://music.163.com/artist?id=12425051"
+      }
+    ],
+    "album": {
+      "name": "Hollyn",
+      "link": "https://music.163.com/album?id=36303179"
+    }
+  },
+  {
+    "name": "All My Friends Are Rich",
+    "link": "https://music.163.com/song?id=1351651503",
+    "duration": "03:05",
+    "artists": [
+      { "name": "filous", "link": "https://music.163.com/artist?id=1081131" },
+      {
+        "name": "Louis III",
+        "link": "https://music.163.com/artist?id=12930772"
+      }
+    ],
+    "album": {
+      "name": "All My Friends Are Rich",
+      "link": "https://music.163.com/album?id=75833585"
+    }
+  },
+  {
+    "name": "星茶会",
+    "link": "https://music.163.com/song?id=492390949",
+    "duration": "03:16",
+    "artists": [
+      { "name": "灰澈", "link": "https://music.163.com/artist?id=12520634" }
+    ],
+    "album": {
+      "name": "星茶会",
+      "link": "https://music.163.com/album?id=35808228"
+    }
+  },
+  {
+    "name": "Feel It Too",
+    "link": "https://music.163.com/song?id=1325453694",
+    "duration": "03:18",
+    "artists": [
+      { "name": "Cadmium", "link": "https://music.163.com/artist?id=12945908" },
+      {
+        "name": "Timmy Commerford",
+        "link": "https://music.163.com/artist?id=29779833"
+      }
+    ],
+    "album": {
+      "name": "Feel It Too",
+      "link": "https://music.163.com/album?id=74414685"
+    }
+  },
+  {
+    "name": "summer",
+    "link": "https://music.163.com/song?id=34779102",
+    "duration": "02:26",
+    "artists": [
+      { "name": "徐梦圆", "link": "https://music.163.com/artist?id=1142042" }
+    ],
+    "album": { "name": "E", "link": "https://music.163.com/album?id=3298040" }
+  },
+  {
+    "name": "My 22 (Inst.)",
+    "link": "https://music.163.com/song?id=1330972472",
+    "duration": "03:14",
+    "artists": [
+      { "name": "逆时针向", "link": "https://music.163.com/artist?id=12128251" }
+    ],
+    "album": {
+      "name": "My 22",
+      "link": "https://music.163.com/album?id=74748693"
+    }
+  },
+  {
+    "name": "Here With You",
+    "link": "https://music.163.com/song?id=30413189",
+    "duration": "03:56",
+    "artists": [
+      { "name": "Actium", "link": "https://music.163.com/artist?id=1049486" }
+    ],
+    "album": {
+      "name": "Here With You - Single",
+      "link": "https://music.163.com/album?id=3098675"
+    }
+  },
+  {
+    "name": "Withered",
+    "link": "https://music.163.com/song?id=534370261",
+    "duration": "03:40",
+    "artists": [
+      { "name": "Mr Chip", "link": "https://music.163.com/artist?id=12563879" },
+      { "name": "暴君de", "link": "https://music.163.com/artist?id=12599289" }
+    ],
+    "album": {
+      "name": "Withered",
+      "link": "https://music.163.com/album?id=37437377"
+    }
+  },
+  {
+    "name": "盐 (Witch’s Condiment)",
+    "link": "https://music.163.com/song?id=1482659694",
+    "duration": "04:58",
+    "artists": [
+      { "name": "沈以诚", "link": "https://music.163.com/artist?id=12002248" }
+    ],
+    "album": {
+      "name": "玩家 (Gamer)",
+      "link": "https://music.163.com/album?id=88137146"
+    }
+  },
+  {
+    "name": "lucky final",
+    "link": "https://music.163.com/song?id=1343701728",
+    "duration": "03:11",
+    "artists": [
+      {
+        "name": "go missing",
+        "link": "https://music.163.com/artist?id=30004456"
+      }
+    ],
+    "album": {
+      "name": "when i meetu",
+      "link": "https://music.163.com/album?id=75302272"
+    }
+  },
+  {
+    "name": "東京の街",
+    "link": "https://music.163.com/song?id=1351183584",
+    "duration": "03:44",
+    "artists": [
+      { "name": "JINBAO", "link": "https://music.163.com/artist?id=30480423" }
+    ],
+    "album": {
+      "name": "東京物语",
+      "link": "https://music.163.com/album?id=75808773"
+    }
+  },
+  {
+    "name": "The Moments We Shared...I Miss Them",
+    "link": "https://music.163.com/song?id=30798041",
+    "duration": "04:20",
+    "artists": [
+      { "name": "Jacoo", "link": "https://music.163.com/artist?id=347497" }
+    ],
+    "album": {
+      "name": "The Moments We Shared...I Miss Them",
+      "link": "https://music.163.com/album?id=3104338"
+    }
+  },
+  {
+    "name": "Heaven Won't Wait (Original Mix)",
+    "link": "https://music.163.com/song?id=35440333",
+    "duration": "06:34",
+    "artists": [
+      {
+        "name": "Allen & Envy",
+        "link": "https://music.163.com/artist?id=817147"
+      }
+    ],
+    "album": {
+      "name": "Heaven Won't Wait",
+      "link": "https://music.163.com/album?id=3317382"
+    }
+  },
+  {
+    "name": "Without You",
+    "link": "https://music.163.com/song?id=26399085",
+    "duration": "06:27",
+    "artists": [
+      { "name": "CMA", "link": "https://music.163.com/artist?id=300739" }
+    ],
+    "album": {
+      "name": "Without You ",
+      "link": "https://music.163.com/album?id=2478901"
+    }
+  },
+  {
+    "name": "Perfect Day (feat. RIB)",
+    "link": "https://music.163.com/song?id=27926426",
+    "duration": "04:45",
+    "artists": [
+      {
+        "name": "The Deysion",
+        "link": "https://music.163.com/artist?id=763141"
+      }
+    ],
+    "album": {
+      "name": "Magnetic United Everest Relax, Vol. 03",
+      "link": "https://music.163.com/album?id=2695692"
+    }
+  },
+  {
+    "name": "错位时空",
+    "link": "https://music.163.com/song?id=1808492017",
+    "duration": "03:23",
+    "artists": [
+      { "name": "艾辰", "link": "https://music.163.com/artist?id=12174057" }
+    ],
+    "album": {
+      "name": "错位时空",
+      "link": "https://music.163.com/album?id=121076375"
+    }
+  }
+]

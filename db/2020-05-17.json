@@ -1,0 +1,508 @@
+[
+  {
+    "name": "Fast Lane",
+    "link": "https://music.163.com/song?id=1406099861",
+    "duration": "02:29",
+    "artists": [
+      {
+        "name": "Palm Trees",
+        "link": "https://music.163.com/artist?id=1135109"
+      },
+      { "name": "MdL", "link": "https://music.163.com/artist?id=313543" },
+      {
+        "name": "Abi F Jones",
+        "link": "https://music.163.com/artist?id=1137160"
+      }
+    ],
+    "album": {
+      "name": "Fast Lane",
+      "link": "https://music.163.com/album?id=83685772"
+    }
+  },
+  {
+    "name": "So It Goes",
+    "link": "https://music.163.com/song?id=1385566283",
+    "duration": "03:15",
+    "artists": [
+      {
+        "name": "Max Oazo",
+        "link": "https://music.163.com/artist?id=13159084"
+      },
+      { "name": "Moonessa", "link": "https://music.163.com/artist?id=29834706" }
+    ],
+    "album": {
+      "name": "So It Goes",
+      "link": "https://music.163.com/album?id=81062354"
+    }
+  },
+  {
+    "name": "Be Kind",
+    "link": "https://music.163.com/song?id=1444959394",
+    "duration": "02:52",
+    "artists": [
+      {
+        "name": "Marshmello",
+        "link": "https://music.163.com/artist?id=1060019"
+      },
+      { "name": "Halsey", "link": "https://music.163.com/artist?id=964321" }
+    ],
+    "album": {
+      "name": "Be Kind",
+      "link": "https://music.163.com/album?id=88836925"
+    }
+  },
+  {
+    "name": "Take Everything",
+    "link": "https://music.163.com/song?id=1333128472",
+    "duration": "03:32",
+    "artists": [
+      {
+        "name": "Gareth Emery",
+        "link": "https://music.163.com/artist?id=34318"
+      },
+      { "name": "Emma Hewitt", "link": "https://music.163.com/artist?id=56751" }
+    ],
+    "album": {
+      "name": "Take Everything",
+      "link": "https://music.163.com/album?id=74869418"
+    }
+  },
+  {
+    "name": "Forever Young (feat. Melanie Fontana)",
+    "link": "https://music.163.com/song?id=1416675099",
+    "duration": "02:58",
+    "artists": [
+      { "name": "ARMNHMR", "link": "https://music.163.com/artist?id=1132078" },
+      {
+        "name": "Melanie Fontana",
+        "link": "https://music.163.com/artist?id=13506276"
+      }
+    ],
+    "album": {
+      "name": "The Free World",
+      "link": "https://music.163.com/album?id=84981689"
+    }
+  },
+  {
+    "name": "Surrender",
+    "link": "https://music.163.com/song?id=1428681313",
+    "duration": "04:18",
+    "artists": [
+      {
+        "name": "Culture Code",
+        "link": "https://music.163.com/artist?id=1049930"
+      },
+      {
+        "name": "Aloma Steele",
+        "link": "https://music.163.com/artist?id=1015497"
+      }
+    ],
+    "album": {
+      "name": "Surrender",
+      "link": "https://music.163.com/album?id=86279005"
+    }
+  },
+  {
+    "name": "Sit like a Flamingo",
+    "link": "https://music.163.com/song?id=1440297742",
+    "duration": "03:07",
+    "artists": [
+      {
+        "name": "Half an Orange",
+        "link": "https://music.163.com/artist?id=12492297"
+      },
+      { "name": "Disero", "link": "https://music.163.com/artist?id=14675307" },
+      {
+        "name": "Josh Bogert",
+        "link": "https://music.163.com/artist?id=31397013"
+      }
+    ],
+    "album": {
+      "name": "Sit like a Flamingo",
+      "link": "https://music.163.com/album?id=87947705"
+    }
+  },
+  {
+    "name": "85%",
+    "link": "https://music.163.com/song?id=1353373515",
+    "duration": "02:53",
+    "artists": [
+      { "name": "Loote", "link": "https://music.163.com/artist?id=12408152" },
+      { "name": "gnash", "link": "https://music.163.com/artist?id=1137226" }
+    ],
+    "album": {
+      "name": "85%",
+      "link": "https://music.163.com/album?id=77773117"
+    }
+  },
+  {
+    "name": "Into The Light",
+    "link": "https://music.163.com/song?id=1341924019",
+    "duration": "03:21",
+    "artists": [
+      { "name": "Notaker", "link": "https://music.163.com/artist?id=12035151" },
+      { "name": "Karra", "link": "https://music.163.com/artist?id=1081582" }
+    ],
+    "album": {
+      "name": "Into The Light",
+      "link": "https://music.163.com/album?id=75321386"
+    }
+  },
+  {
+    "name": "No Fear No More",
+    "link": "https://music.163.com/song?id=1403356922",
+    "duration": "03:15",
+    "artists": [
+      { "name": "Madeon", "link": "https://music.163.com/artist?id=40280" }
+    ],
+    "album": {
+      "name": "Good Faith",
+      "link": "https://music.163.com/album?id=83312518"
+    }
+  },
+  {
+    "name": "Telepathy",
+    "link": "https://music.163.com/song?id=1339219109",
+    "duration": "03:49",
+    "artists": [
+      { "name": "Jai Wolf", "link": "https://music.163.com/artist?id=1063048" }
+    ],
+    "album": {
+      "name": "The Cure To Loneliness",
+      "link": "https://music.163.com/album?id=78300643"
+    }
+  },
+  {
+    "name": "I Live For That Energy (ASOT 800 Anthem)",
+    "link": "https://music.163.com/song?id=478686904",
+    "duration": "03:17",
+    "artists": [
+      {
+        "name": "Armin van Buuren",
+        "link": "https://music.163.com/artist?id=27621"
+      }
+    ],
+    "album": {
+      "name": "The Best Of Armin Only",
+      "link": "https://music.163.com/album?id=35498374"
+    }
+  },
+  {
+    "name": "Internet Boy",
+    "link": "https://music.163.com/song?id=1349449021",
+    "duration": "03:18",
+    "artists": [
+      {
+        "name": "Dion Timmer",
+        "link": "https://music.163.com/artist?id=11998053"
+      },
+      {
+        "name": "Micah Martin",
+        "link": "https://music.163.com/artist?id=13723243"
+      }
+    ],
+    "album": {
+      "name": "Internet Boy",
+      "link": "https://music.163.com/album?id=75748667"
+    }
+  },
+  {
+    "name": "Breathe In The Moment",
+    "link": "https://music.163.com/song?id=1390031591",
+    "duration": "03:25",
+    "artists": [
+      { "name": "APEK", "link": "https://music.163.com/artist?id=1182277" },
+      { "name": "HALIENE", "link": "https://music.163.com/artist?id=13202710" },
+      { "name": "Man Cub", "link": "https://music.163.com/artist?id=30816484" }
+    ],
+    "album": {
+      "name": "Breathe In The Moment",
+      "link": "https://music.163.com/album?id=81533332"
+    }
+  },
+  {
+    "name": "Fade (Full Version)",
+    "link": "https://music.163.com/song?id=429769654",
+    "duration": "03:34",
+    "artists": [
+      { "name": "Andreas B.", "link": "https://music.163.com/artist?id=299713" }
+    ],
+    "album": {
+      "name": "Fade (Full Version)",
+      "link": "https://music.163.com/album?id=34874178"
+    }
+  },
+  {
+    "name": "Running In The Night (Josep & Kane Extended Mix)",
+    "link": "https://music.163.com/song?id=497218052",
+    "duration": "07:45",
+    "artists": [
+      {
+        "name": "Josep & Kane",
+        "link": "https://music.163.com/artist?id=12561594"
+      },
+      { "name": "FM-84", "link": "https://music.163.com/artist?id=12046467" },
+      {
+        "name": "Ollie Wride",
+        "link": "https://music.163.com/artist?id=14756188"
+      }
+    ],
+    "album": {
+      "name": "Running In The Night (Josep & Kane Remix)",
+      "link": "https://music.163.com/album?id=35908450"
+    }
+  },
+  {
+    "name": "Nothing To Lose (Tom Swoon Radio Edit)",
+    "link": "https://music.163.com/song?id=535097194",
+    "duration": "03:00",
+    "artists": [
+      { "name": "Laces ", "link": "https://music.163.com/artist?id=1084117" },
+      { "name": "Vigel", "link": "https://music.163.com/artist?id=334251" }
+    ],
+    "album": {
+      "name": "Nothing To Lose (Tom Swoon Edit)",
+      "link": "https://music.163.com/album?id=3395277"
+    }
+  },
+  {
+    "name": "Affection",
+    "link": "https://music.163.com/song?id=1301861949",
+    "duration": "04:13",
+    "artists": [
+      {
+        "name": "Said The Sky",
+        "link": "https://music.163.com/artist?id=1026094"
+      },
+      { "name": "Origami", "link": "https://music.163.com/artist?id=151298" },
+      {
+        "name": "Jack Newsome",
+        "link": "https://music.163.com/artist?id=29219108"
+      }
+    ],
+    "album": {
+      "name": "Wide-Eyed",
+      "link": "https://music.163.com/album?id=72316725"
+    }
+  },
+  {
+    "name": "When The Night Falls (with Fiora)",
+    "link": "https://music.163.com/song?id=1394745735",
+    "duration": "03:23",
+    "artists": [
+      {
+        "name": "Jason Ross",
+        "link": "https://music.163.com/artist?id=906123"
+      },
+      { "name": "Fiora", "link": "https://music.163.com/artist?id=57924" }
+    ],
+    "album": {
+      "name": "When The Night Falls (with Fiora)",
+      "link": "https://music.163.com/album?id=82120426"
+    }
+  },
+  {
+    "name": "The Sound Of Ocean",
+    "link": "https://music.163.com/song?id=1304848678",
+    "duration": "02:56",
+    "artists": [
+      {
+        "name": "Tong Apollo",
+        "link": "https://music.163.com/artist?id=1135010"
+      },
+      {
+        "name": "Nicole Chen",
+        "link": "https://music.163.com/artist?id=12108667"
+      },
+      { "name": "I Am ASA", "link": "https://music.163.com/artist?id=29293740" }
+    ],
+    "album": {
+      "name": "The Sound Of Ocean",
+      "link": "https://music.163.com/album?id=72574404"
+    }
+  },
+  {
+    "name": "Letting You Go",
+    "link": "https://music.163.com/song?id=470573971",
+    "duration": "03:54",
+    "artists": [
+      { "name": "INZO", "link": "https://music.163.com/artist?id=1108051" },
+      { "name": "LaMeduza", "link": "https://music.163.com/artist?id=347182" }
+    ],
+    "album": {
+      "name": "Letting You Go",
+      "link": "https://music.163.com/album?id=35346210"
+    }
+  },
+  {
+    "name": "Everything We Touch",
+    "link": "https://music.163.com/song?id=30706541",
+    "duration": "03:49",
+    "artists": [
+      {
+        "name": "Say Lou Lou",
+        "link": "https://music.163.com/artist?id=757244"
+      }
+    ],
+    "album": {
+      "name": "Lucid Dreaming",
+      "link": "https://music.163.com/album?id=3104278"
+    }
+  },
+  {
+    "name": "Sweet Lie",
+    "link": "https://music.163.com/song?id=1294843166",
+    "duration": "03:33",
+    "artists": [
+      { "name": "Sveta B.", "link": "https://music.163.com/artist?id=839779" },
+      {
+        "name": "Denis Kenzo",
+        "link": "https://music.163.com/artist?id=263670"
+      }
+    ],
+    "album": {
+      "name": "Sweet Lie",
+      "link": "https://music.163.com/album?id=71902482"
+    }
+  },
+  {
+    "name": "Stardew",
+    "link": "https://music.163.com/song?id=1347282300",
+    "duration": "07:10",
+    "artists": [
+      { "name": "Rameses B", "link": "https://music.163.com/artist?id=42898" }
+    ],
+    "album": {
+      "name": "Spacewalk III: Alpha Cen",
+      "link": "https://music.163.com/album?id=75640387"
+    }
+  },
+  {
+    "name": "Fireflies (Jorn van Deynhoven Extended Remix)",
+    "link": "https://music.163.com/song?id=554258464",
+    "duration": "06:53",
+    "artists": [
+      {
+        "name": "Roman Messer",
+        "link": "https://music.163.com/artist?id=905394"
+      },
+      {
+        "name": "Christina Novelli",
+        "link": "https://music.163.com/artist?id=840292"
+      },
+      {
+        "name": "Jorn van Deynhoven",
+        "link": "https://music.163.com/artist?id=191813"
+      }
+    ],
+    "album": {
+      "name": "Fireflies (Jorn van Deynhoven Remix)",
+      "link": "https://music.163.com/album?id=38429525"
+    }
+  },
+  {
+    "name": "On the Run",
+    "link": "https://music.163.com/song?id=26612932",
+    "duration": "04:00",
+    "artists": [
+      {
+        "name": "Postiljonen",
+        "link": "https://music.163.com/artist?id=725356"
+      }
+    ],
+    "album": {
+      "name": "Skyer",
+      "link": "https://music.163.com/album?id=2535635"
+    }
+  },
+  {
+    "name": "If It Isn't You",
+    "link": "https://music.163.com/song?id=1400369399",
+    "duration": "03:52",
+    "artists": [
+      { "name": "Nurko", "link": "https://music.163.com/artist?id=11991089" },
+      {
+        "name": "Brayden Kehler",
+        "link": "https://music.163.com/artist?id=33588067"
+      }
+    ],
+    "album": {
+      "name": "If It Isn't You",
+      "link": "https://music.163.com/album?id=82914422"
+    }
+  },
+  {
+    "name": "The Gateway (Extended Mix)",
+    "link": "https://music.163.com/song?id=488641729",
+    "duration": "06:16",
+    "artists": [
+      { "name": "Ben Gold", "link": "https://music.163.com/artist?id=152127" },
+      { "name": "Omnia", "link": "https://music.163.com/artist?id=179006" }
+    ],
+    "album": {
+      "name": "The Gateway",
+      "link": "https://music.163.com/album?id=35696737"
+    }
+  },
+  {
+    "name": "#Acid (Original Mix)",
+    "link": "https://music.163.com/song?id=33697068",
+    "duration": "07:25",
+    "artists": [
+      { "name": "Sneijder", "link": "https://music.163.com/artist?id=179847" }
+    ],
+    "album": {
+      "name": "#Acid",
+      "link": "https://music.163.com/album?id=3250490"
+    }
+  },
+  {
+    "name": "Watching (feat. Colordrive)",
+    "link": "https://music.163.com/song?id=33343047",
+    "duration": "03:04",
+    "artists": [
+      {
+        "name": "Summer Was Fun",
+        "link": "https://music.163.com/artist?id=1106010"
+      },
+      {
+        "name": "Colordrive",
+        "link": "https://music.163.com/artist?id=1106017"
+      }
+    ],
+    "album": {
+      "name": "Watching (feat. Colordrive)",
+      "link": "https://music.163.com/album?id=3190592"
+    }
+  },
+  {
+    "name": "Love On Repeat",
+    "link": "https://music.163.com/song?id=1384385918",
+    "duration": "03:21",
+    "artists": [
+      {
+        "name": "Strandels",
+        "link": "https://music.163.com/artist?id=12171083"
+      }
+    ],
+    "album": {
+      "name": "Love On Repeat",
+      "link": "https://music.163.com/album?id=80965540"
+    }
+  },
+  {
+    "name": "Let It Go",
+    "link": "https://music.163.com/song?id=28282178",
+    "duration": "04:05",
+    "artists": [
+      {
+        "name": "The Piano Guys",
+        "link": "https://music.163.com/artist?id=99093"
+      }
+    ],
+    "album": {
+      "name": "Let It Go",
+      "link": "https://music.163.com/album?id=2767146"
+    }
+  }
+]

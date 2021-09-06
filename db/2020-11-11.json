@@ -1,0 +1,445 @@
+[
+  {
+    "name": "Broken",
+    "link": "https://music.163.com/song?id=1387301100",
+    "duration": "02:58",
+    "artists": [
+      {
+        "name": "We Are Fury",
+        "link": "https://music.163.com/artist?id=12506160"
+      },
+      { "name": "Luma", "link": "https://music.163.com/artist?id=211460" }
+    ],
+    "album": {
+      "name": "Broken",
+      "link": "https://music.163.com/album?id=81222995"
+    }
+  },
+  {
+    "name": "Aurora",
+    "link": "https://music.163.com/song?id=1492079154",
+    "duration": "02:44",
+    "artists": [
+      { "name": "K-391", "link": "https://music.163.com/artist?id=1049937" },
+      { "name": "RØRY", "link": "https://music.163.com/artist?id=28774080" }
+    ],
+    "album": {
+      "name": "Aurora",
+      "link": "https://music.163.com/album?id=97724461"
+    }
+  },
+  {
+    "name": "Day Dreaming",
+    "link": "https://music.163.com/song?id=1341923387",
+    "duration": "03:31",
+    "artists": [
+      {
+        "name": "Jack & Jack",
+        "link": "https://music.163.com/artist?id=647673"
+      }
+    ],
+    "album": {
+      "name": "A Good Friend Is Nice",
+      "link": "https://music.163.com/album?id=75320280"
+    }
+  },
+  {
+    "name": "Somebody Else",
+    "link": "https://music.163.com/song?id=1401843956",
+    "duration": "02:41",
+    "artists": [
+      {
+        "name": "Isac Elliot",
+        "link": "https://music.163.com/artist?id=772147"
+      }
+    ],
+    "album": {
+      "name": "Somebody Else",
+      "link": "https://music.163.com/album?id=83096414"
+    }
+  },
+  {
+    "name": "Have You Never Been Mellow",
+    "link": "https://music.163.com/song?id=1418462816",
+    "duration": "02:27",
+    "artists": [
+      {
+        "name": "Keanu Silva",
+        "link": "https://music.163.com/artist?id=11974107"
+      }
+    ],
+    "album": {
+      "name": "Have You Never Been Mellow",
+      "link": "https://music.163.com/album?id=85171767"
+    }
+  },
+  {
+    "name": "缥缈",
+    "link": "https://music.163.com/song?id=1450105719",
+    "duration": "03:58",
+    "artists": [
+      { "name": "四季音色", "link": "https://music.163.com/artist?id=12028059" }
+    ],
+    "album": {
+      "name": "缥缈",
+      "link": "https://music.163.com/album?id=89766017"
+    }
+  },
+  {
+    "name": "Steady Me",
+    "link": "https://music.163.com/song?id=507795651",
+    "duration": "03:08",
+    "artists": [
+      { "name": "Hollyn", "link": "https://music.163.com/artist?id=12080054" },
+      {
+        "name": "Aaron Cole",
+        "link": "https://music.163.com/artist?id=12425051"
+      }
+    ],
+    "album": {
+      "name": "Hollyn",
+      "link": "https://music.163.com/album?id=36303179"
+    }
+  },
+  {
+    "name": "Care",
+    "link": "https://music.163.com/song?id=1394311769",
+    "duration": "03:25",
+    "artists": [
+      { "name": "Hurshel", "link": "https://music.163.com/artist?id=13876977" }
+    ],
+    "album": {
+      "name": "Care",
+      "link": "https://music.163.com/album?id=82064422"
+    }
+  },
+  {
+    "name": "Pillow talk",
+    "link": "https://music.163.com/song?id=29723074",
+    "duration": "03:47",
+    "artists": [
+      { "name": "Auryn", "link": "https://music.163.com/artist?id=87424" }
+    ],
+    "album": {
+      "name": "Circus Avenue (Fan Edition)",
+      "link": "https://music.163.com/album?id=3066283"
+    }
+  },
+  {
+    "name": "Sunrise",
+    "link": "https://music.163.com/song?id=545538251",
+    "duration": "03:18",
+    "artists": [
+      { "name": "ARTY", "link": "https://music.163.com/artist?id=28883" },
+      {
+        "name": "April Bender",
+        "link": "https://music.163.com/artist?id=13080174"
+      }
+    ],
+    "album": {
+      "name": "A State Of Trance Top 20 - March 2018 (Selected by Armin van Buuren)",
+      "link": "https://music.163.com/album?id=37938218"
+    }
+  },
+  {
+    "name": "Summer on You",
+    "link": "https://music.163.com/song?id=573652613",
+    "duration": "03:25",
+    "artists": [
+      {
+        "name": "PRETTYMUCH",
+        "link": "https://music.163.com/artist?id=12523511"
+      }
+    ],
+    "album": {
+      "name": "Summer on You",
+      "link": "https://music.163.com/album?id=39726774"
+    }
+  },
+  {
+    "name": "Fiction",
+    "link": "https://music.163.com/song?id=1337981999",
+    "duration": "03:11",
+    "artists": [
+      {
+        "name": "Adib Sin",
+        "link": "https://music.163.com/artist?id=12244027"
+      },
+      {
+        "name": "Azuria Sky",
+        "link": "https://music.163.com/artist?id=12914272"
+      }
+    ],
+    "album": {
+      "name": "Fiction",
+      "link": "https://music.163.com/album?id=75072929"
+    }
+  },
+  {
+    "name": "Particles",
+    "link": "https://music.163.com/song?id=1368929712",
+    "duration": "07:24",
+    "artists": [
+      {
+        "name": "Tony Anderson",
+        "link": "https://music.163.com/artist?id=79757"
+      }
+    ],
+    "album": {
+      "name": "Particles",
+      "link": "https://music.163.com/album?id=79533196"
+    }
+  },
+  {
+    "name": "HYPNOTIZED",
+    "link": "https://music.163.com/song?id=1428214411",
+    "duration": "03:26",
+    "artists": [
+      { "name": "AViVA", "link": "https://music.163.com/artist?id=12074178" }
+    ],
+    "album": {
+      "name": "HYPNOTIZED",
+      "link": "https://music.163.com/album?id=86234148"
+    }
+  },
+  {
+    "name": "Don't Trust Myself",
+    "link": "https://music.163.com/song?id=1295861988",
+    "duration": "02:49",
+    "artists": [
+      { "name": "Robinson", "link": "https://music.163.com/artist?id=12448024" }
+    ],
+    "album": {
+      "name": "Don't Trust Myself",
+      "link": "https://music.163.com/album?id=71979286"
+    }
+  },
+  {
+    "name": "I Can't Sleep Anymore",
+    "link": "https://music.163.com/song?id=485347407",
+    "duration": "03:34",
+    "artists": [
+      { "name": "AK", "link": "https://music.163.com/artist?id=1192509" }
+    ],
+    "album": {
+      "name": "I Can't Sleep Anymore",
+      "link": "https://music.163.com/album?id=35645419"
+    }
+  },
+  {
+    "name": "Fed Up",
+    "link": "https://music.163.com/song?id=1419321836",
+    "duration": "03:04",
+    "artists": [
+      { "name": "Pionnz", "link": "https://music.163.com/artist?id=31581288" }
+    ],
+    "album": {
+      "name": "Fed Up",
+      "link": "https://music.163.com/album?id=85268872"
+    }
+  },
+  {
+    "name": "Apart",
+    "link": "https://music.163.com/song?id=439911313",
+    "duration": "03:37",
+    "artists": [
+      { "name": "Resonance", "link": "https://music.163.com/artist?id=196588" }
+    ],
+    "album": {
+      "name": "Apart",
+      "link": "https://music.163.com/album?id=34976362"
+    }
+  },
+  {
+    "name": "Astronomia",
+    "link": "https://music.163.com/song?id=430114655",
+    "duration": "03:18",
+    "artists": [
+      { "name": "Vicetone", "link": "https://music.163.com/artist?id=747030" },
+      { "name": "Tony Igy", "link": "https://music.163.com/artist?id=990184" }
+    ],
+    "album": {
+      "name": "Astronomia",
+      "link": "https://music.163.com/album?id=34873213"
+    }
+  },
+  {
+    "name": "Sway",
+    "link": "https://music.163.com/song?id=556053856",
+    "duration": "03:30",
+    "artists": [
+      { "name": "Tove Styrke", "link": "https://music.163.com/artist?id=83188" }
+    ],
+    "album": {
+      "name": "Sway",
+      "link": "https://music.163.com/album?id=38519290"
+    }
+  },
+  {
+    "name": "Follow Me",
+    "link": "https://music.163.com/song?id=1440751063",
+    "duration": "03:37",
+    "artists": [
+      { "name": "Warren", "link": "https://music.163.com/artist?id=34379664" },
+      {
+        "name": "Revealed Recordings",
+        "link": "https://music.163.com/artist?id=28753573"
+      }
+    ],
+    "album": {
+      "name": "Follow Me",
+      "link": "https://music.163.com/album?id=88039696"
+    }
+  },
+  {
+    "name": "Water",
+    "link": "https://music.163.com/song?id=427017128",
+    "duration": "04:03",
+    "artists": [
+      { "name": "徐梦圆", "link": "https://music.163.com/artist?id=1142042" }
+    ],
+    "album": {
+      "name": "Water",
+      "link": "https://music.163.com/album?id=34848074"
+    }
+  },
+  {
+    "name": "Hurricane Love",
+    "link": "https://music.163.com/song?id=1492513654",
+    "duration": "03:15",
+    "artists": [
+      {
+        "name": "Super8 & Tab",
+        "link": "https://music.163.com/artist?id=100916"
+      },
+      {
+        "name": "Colin Smith",
+        "link": "https://music.163.com/artist?id=13257609"
+      }
+    ],
+    "album": {
+      "name": "Hurricane Love",
+      "link": "https://music.163.com/album?id=97815580"
+    }
+  },
+  {
+    "name": "I'm A Human",
+    "link": "https://music.163.com/song?id=1422621896",
+    "duration": "02:24",
+    "artists": [
+      { "name": "Deekey", "link": "https://music.163.com/artist?id=12883069" }
+    ],
+    "album": {
+      "name": "I'm A Human",
+      "link": "https://music.163.com/album?id=85651344"
+    }
+  },
+  {
+    "name": "Unknown",
+    "link": "https://music.163.com/song?id=1309108705",
+    "duration": "04:10",
+    "artists": [
+      { "name": "Cre-sc3NT", "link": "https://music.163.com/artist?id=1211009" }
+    ],
+    "album": {
+      "name": "Unknown",
+      "link": "https://music.163.com/album?id=73164330"
+    }
+  },
+  {
+    "name": "Leave Me Now",
+    "link": "https://music.163.com/song?id=499251019",
+    "duration": "02:53",
+    "artists": [
+      {
+        "name": "Dewian Gross",
+        "link": "https://music.163.com/artist?id=12262443"
+      },
+      { "name": "Artak", "link": "https://music.163.com/artist?id=13929496" }
+    ],
+    "album": {
+      "name": "Street 17",
+      "link": "https://music.163.com/album?id=35971016"
+    }
+  },
+  {
+    "name": "worst mistake",
+    "link": "https://music.163.com/song?id=518094539",
+    "duration": "02:24",
+    "artists": [
+      {
+        "name": "park bird",
+        "link": "https://music.163.com/artist?id=12865175"
+      }
+    ],
+    "album": {
+      "name": "worst mistake",
+      "link": "https://music.163.com/album?id=36812013"
+    }
+  },
+  {
+    "name": "Temple of Time (Wisp X Remix)",
+    "link": "https://music.163.com/song?id=417250287",
+    "duration": "02:33",
+    "artists": [
+      { "name": "Wisp X", "link": "https://music.163.com/artist?id=1046123" },
+      {
+        "name": "Maplestory",
+        "link": "https://music.163.com/artist?id=30165374"
+      }
+    ],
+    "album": {
+      "name": "Temple of Time (Wisp X Remix)",
+      "link": "https://music.163.com/album?id=34739159"
+    }
+  },
+  {
+    "name": "Samurai",
+    "link": "https://music.163.com/song?id=407889615",
+    "duration": "05:35",
+    "artists": [
+      { "name": "DEAF KEV", "link": "https://music.163.com/artist?id=1079127" }
+    ],
+    "album": {
+      "name": "Samurai",
+      "link": "https://music.163.com/album?id=34589389"
+    }
+  },
+  {
+    "name": "call of silence（Cover Piano）",
+    "link": "https://music.163.com/song?id=505307631",
+    "duration": "02:45",
+    "artists": [
+      { "name": "向晚丶", "link": "https://music.163.com/artist?id=12383184" }
+    ],
+    "album": {
+      "name": "进击的巨人",
+      "link": "https://music.163.com/album?id=36157973"
+    }
+  },
+  {
+    "name": "Eternal Twilight (DE_SCC Remix)",
+    "link": "https://music.163.com/song?id=1374056054",
+    "duration": "04:06",
+    "artists": [
+      { "name": "DE_SCC", "link": "https://music.163.com/artist?id=13196217" },
+      { "name": "Wisp X", "link": "https://music.163.com/artist?id=1046123" }
+    ],
+    "album": {
+      "name": "Eternal Twilight",
+      "link": "https://music.163.com/album?id=79935264"
+    }
+  },
+  {
+    "name": "英雄联盟",
+    "link": "https://music.163.com/song?id=504738404",
+    "duration": "03:37",
+    "artists": [
+      {
+        "name": "李柄桦(Slaughter King）",
+        "link": "https://music.163.com/artist?id=12132197"
+      }
+    ],
+    "album": { "name": "R", "link": "https://music.163.com/album?id=36157316" }
+  }
+]

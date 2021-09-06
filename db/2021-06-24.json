@@ -1,0 +1,435 @@
+[
+  {
+    "name": "桃源恋歌",
+    "link": "https://music.163.com/song?id=547969272",
+    "duration": "03:49",
+    "artists": [
+      { "name": "GARNiDELiA", "link": "https://music.163.com/artist?id=19605" }
+    ],
+    "album": {
+      "name": "G.R.N.D.",
+      "link": "https://music.163.com/album?id=37871066"
+    }
+  },
+  {
+    "name": "漂流",
+    "link": "https://music.163.com/song?id=1397665609",
+    "duration": "04:29",
+    "artists": [
+      {
+        "name": "菅原纱由理（THE SxPLAY）",
+        "link": "https://music.163.com/artist?id=161667"
+      }
+    ],
+    "album": {
+      "name": "漂流",
+      "link": "https://music.163.com/album?id=82522902"
+    }
+  },
+  {
+    "name": "傷跡 - (动画电影《空之境界》ED3 ； 映画「空の境界」ED3テーマ)",
+    "link": "https://music.163.com/song?id=756735",
+    "duration": "04:41",
+    "artists": [
+      { "name": "Kalafina", "link": "https://music.163.com/artist?id=20032" }
+    ],
+    "album": {
+      "name": "Oblivious",
+      "link": "https://music.163.com/album?id=74319"
+    }
+  },
+  {
+    "name": "ハルジオン - (春紫菀)",
+    "link": "https://music.163.com/song?id=1500151580",
+    "duration": "03:18",
+    "artists": [
+      { "name": "YOASOBI", "link": "https://music.163.com/artist?id=33927412" }
+    ],
+    "album": {
+      "name": "THE BOOK",
+      "link": "https://music.163.com/album?id=99079344"
+    }
+  },
+  {
+    "name": "春はゆく - (剧场版《Fate/stay night [Heaven's Feel]」III.spring song》主题曲)",
+    "link": "https://music.163.com/song?id=1429420739",
+    "duration": "05:04",
+    "artists": [
+      { "name": "Aimer", "link": "https://music.163.com/artist?id=16152" }
+    ],
+    "album": {
+      "name": "春はゆく / marie",
+      "link": "https://music.163.com/album?id=86343827"
+    }
+  },
+  {
+    "name": "MINORS",
+    "link": "https://music.163.com/song?id=1458755675",
+    "duration": "04:21",
+    "artists": [
+      {
+        "name": "MY FIRST STORY",
+        "link": "https://music.163.com/artist?id=20689"
+      }
+    ],
+    "album": {
+      "name": "1,000,000 TIMES",
+      "link": "https://music.163.com/album?id=91645905"
+    }
+  },
+  {
+    "name": "喜悦/Freude（Cover 初音ミク / Flower）",
+    "link": "https://music.163.com/song?id=524415914",
+    "duration": "03:20",
+    "artists": [
+      {
+        "name": "Sawako碎花",
+        "link": "https://music.163.com/artist?id=12292130"
+      }
+    ],
+    "album": {
+      "name": "喜悦",
+      "link": "https://music.163.com/album?id=36990251"
+    }
+  },
+  {
+    "name": "I Can't Stop Drinking About You (The Chainsmokers Remix)",
+    "link": "https://music.163.com/song?id=31062802",
+    "duration": "04:23",
+    "artists": [
+      {
+        "name": "The Chainsmokers",
+        "link": "https://music.163.com/artist?id=893484"
+      },
+      { "name": "Bebe Rexha", "link": "https://music.163.com/artist?id=336466" }
+    ],
+    "album": {
+      "name": "I Can't Stop Drinking About You (The Chainsmokers Remix)",
+      "link": "https://music.163.com/album?id=3111099"
+    }
+  },
+  {
+    "name": "Keep on Keeping on - (TV动画《ALDNOAH.ZERO》插曲)",
+    "link": "https://music.163.com/song?id=29307043",
+    "duration": "03:53",
+    "artists": [
+      {
+        "name": "mizuki (瑞葵)",
+        "link": "https://music.163.com/artist?id=981205"
+      },
+      {
+        "name": "SawanoHiroyuki[nZk]",
+        "link": "https://music.163.com/artist?id=1096011"
+      }
+    ],
+    "album": {
+      "name": "A/Z | aLIEz",
+      "link": "https://music.163.com/album?id=2982127"
+    }
+  },
+  {
+    "name": "Departures ~あなたにおくるアイの歌~ - (TV动画《罪恶王冠》片尾曲)",
+    "link": "https://music.163.com/song?id=31649312",
+    "duration": "04:13",
+    "artists": [
+      { "name": "EGOIST", "link": "https://music.163.com/artist?id=19353" }
+    ],
+    "album": {
+      "name": "ノイタミナ FAN BEST",
+      "link": "https://music.163.com/album?id=3121709"
+    }
+  },
+  {
+    "name": "Resolution - (TV动画《刀剑神域 Alicization篇 异界战争》片头曲:《刀剑神域 Ⅲ》TV动画片头曲)",
+    "link": "https://music.163.com/song?id=1396035400",
+    "duration": "04:50",
+    "artists": [
+      { "name": "戸松遥", "link": "https://music.163.com/artist?id=17905" }
+    ],
+    "album": {
+      "name": "Resolution",
+      "link": "https://music.163.com/album?id=82272219"
+    }
+  },
+  {
+    "name": "Perfect Time - (动画《七大罪》插曲)",
+    "link": "https://music.163.com/song?id=29814175",
+    "duration": "04:43",
+    "artists": [
+      { "name": "小林未郁", "link": "https://music.163.com/artist?id=16823" },
+      { "name": "mpi", "link": "https://music.163.com/artist?id=12475614" }
+    ],
+    "album": {
+      "name": "七つの大罪 オリジナル・サウンドトラック",
+      "link": "https://music.163.com/album?id=3084183"
+    }
+  },
+  {
+    "name": "さよならごっこ - (TV动画《多罗罗》片尾曲:TVアニメ『どろろ』 エンディングテーマ)",
+    "link": "https://music.163.com/song?id=1343276979",
+    "duration": "04:30",
+    "artists": [
+      { "name": "amazarashi", "link": "https://music.163.com/artist?id=18480" }
+    ],
+    "album": {
+      "name": "さよならごっこ",
+      "link": "https://music.163.com/album?id=75391651"
+    }
+  },
+  {
+    "name": "离别时刻 - (电视剧《爱情公寓5》主题曲)",
+    "link": "https://music.163.com/song?id=1414083614",
+    "duration": "02:32",
+    "artists": [
+      { "name": "娄艺潇", "link": "https://music.163.com/artist?id=714027" }
+    ],
+    "album": {
+      "name": "离别时刻 爱情公寓5电视剧原声带",
+      "link": "https://music.163.com/album?id=84707224"
+    }
+  },
+  {
+    "name": "アイリス - 试听版 - (TV动画《刀剑神域 Alicization篇》片尾曲)",
+    "link": "https://music.163.com/song?id=1319676078",
+    "duration": "04:07",
+    "artists": [
+      { "name": "藍井エイル", "link": "https://music.163.com/artist?id=16151" }
+    ],
+    "album": {
+      "name": "アイリス (期間生産限定盤)",
+      "link": "https://music.163.com/album?id=73836942"
+    }
+  },
+  {
+    "name": "パズル - (拼图)",
+    "link": "https://music.163.com/song?id=857606",
+    "duration": "04:25",
+    "artists": [
+      { "name": "ENE", "link": "https://music.163.com/artist?id=191323" }
+    ],
+    "album": {
+      "name": "voices in a bottle ～海を越え届いた歌声～",
+      "link": "https://music.163.com/album?id=85498"
+    }
+  },
+  {
+    "name": "Ananda (2019 Remaster)",
+    "link": "https://music.163.com/song?id=1407880979",
+    "duration": "07:58",
+    "artists": [
+      { "name": "SoundLift", "link": "https://music.163.com/artist?id=44015" }
+    ],
+    "album": {
+      "name": "Ananda 2019",
+      "link": "https://music.163.com/album?id=83924255"
+    }
+  },
+  {
+    "name": "Worth It (Reunify vs. Kris Maydak vs. Danyka Nadeau) [feat. Danyka Nadeau] [Radio Mix]",
+    "link": "https://music.163.com/song?id=399342363",
+    "duration": "03:56",
+    "artists": [
+      {
+        "name": "Danyka Nadeau",
+        "link": "https://music.163.com/artist?id=1078277"
+      },
+      {
+        "name": "Kris Maydak",
+        "link": "https://music.163.com/artist?id=900098"
+      },
+      { "name": "Reunify", "link": "https://music.163.com/artist?id=904231" }
+    ],
+    "album": {
+      "name": "Enhanced Best Of 2015",
+      "link": "https://music.163.com/album?id=34403048"
+    }
+  },
+  {
+    "name": "Realize - (TV动画《Re:从零开始的异世界生活Ⅱ》片头曲:TVアニメ「 Re:ゼロから始める異世界生活 」2nd seasonオープニングテーマ)",
+    "link": "https://music.163.com/song?id=1474120993",
+    "duration": "04:04",
+    "artists": [
+      { "name": "鈴木このみ", "link": "https://music.163.com/artist?id=17881" }
+    ],
+    "album": {
+      "name": "Realize",
+      "link": "https://music.163.com/album?id=94507077"
+    }
+  },
+  {
+    "name": "朧月 - (胧月)",
+    "link": "https://music.163.com/song?id=22730069",
+    "duration": "04:15",
+    "artists": [
+      { "name": "初音ミク", "link": "https://music.163.com/artist?id=159692" },
+      { "name": "minato", "link": "https://music.163.com/artist?id=160521" }
+    ],
+    "album": {
+      "name": "magnet -favorites plus-",
+      "link": "https://music.163.com/album?id=2086884"
+    }
+  },
+  {
+    "name": "Memoirs",
+    "link": "https://music.163.com/song?id=1853156546",
+    "duration": "02:43",
+    "artists": [
+      {
+        "name": "Orjan Nilsen",
+        "link": "https://music.163.com/artist?id=41064"
+      },
+      {
+        "name": "DJ Governor",
+        "link": "https://music.163.com/artist?id=207486"
+      }
+    ],
+    "album": {
+      "name": "Memoirs",
+      "link": "https://music.163.com/album?id=128986506"
+    }
+  },
+  {
+    "name": "Hacking to the Gate - (TV动画《命运石之门》片头曲:TVアニメ「Steins)",
+    "link": "https://music.163.com/song?id=26584163",
+    "duration": "04:16",
+    "artists": [
+      {
+        "name": "いとうかなこ",
+        "link": "https://music.163.com/artist?id=16277"
+      }
+    ],
+    "album": {
+      "name": "STEINS;GATE VOCAL BEST",
+      "link": "https://music.163.com/album?id=2529023"
+    }
+  },
+  {
+    "name": "Wonders",
+    "link": "https://music.163.com/song?id=31452027",
+    "duration": "06:13",
+    "artists": [
+      { "name": "Kozoro", "link": "https://music.163.com/artist?id=1050567" },
+      { "name": "Evence", "link": "https://music.163.com/artist?id=1061032" }
+    ],
+    "album": {
+      "name": "Wonders",
+      "link": "https://music.163.com/album?id=3111955"
+    }
+  },
+  {
+    "name": "ラヴァーズ - (TV动画《火影忍者疾风传》OP9)",
+    "link": "https://music.163.com/song?id=873684",
+    "duration": "03:42",
+    "artists": [
+      { "name": "seven oops", "link": "https://music.163.com/artist?id=22540" }
+    ],
+    "album": {
+      "name": "ラヴァーズ",
+      "link": "https://music.163.com/album?id=87328"
+    }
+  },
+  {
+    "name": "One Vision - (数码暴龙3 - 驯兽师之王 插曲)",
+    "link": "https://music.163.com/song?id=4940944",
+    "duration": "04:10",
+    "artists": [
+      { "name": "谷本貴義", "link": "https://music.163.com/artist?id=202620" }
+    ],
+    "album": {
+      "name": "DIGIMON HISTORY 1999-2006 All The Best",
+      "link": "https://music.163.com/album?id=494028"
+    }
+  },
+  {
+    "name": "那个女孩叫成果",
+    "link": "https://music.163.com/song?id=1426865542",
+    "duration": "02:00",
+    "artists": [
+      {
+        "name": "Justin丶铭",
+        "link": "https://music.163.com/artist?id=34418396"
+      },
+      {
+        "name": "Sunflower",
+        "link": "https://music.163.com/artist?id=34368973"
+      }
+    ],
+    "album": {
+      "name": "那个女孩叫成果",
+      "link": "https://music.163.com/album?id=86080931"
+    }
+  },
+  {
+    "name": "因果",
+    "link": "https://music.163.com/song?id=1419005714",
+    "duration": "03:29",
+    "artists": [{ "name": "伊骾烢尔兰江", "link": "" }],
+    "album": {
+      "name": "因果",
+      "link": "https://music.163.com/album?id=85097300"
+    }
+  },
+  {
+    "name": "medly",
+    "link": "https://music.163.com/song?id=1425876935",
+    "duration": "02:20",
+    "artists": [
+      {
+        "name": "饭团头正男",
+        "link": "https://music.163.com/artist?id=34371231"
+      }
+    ],
+    "album": {
+      "name": "我们都是有福之人",
+      "link": "https://music.163.com/album?id=85887536"
+    }
+  },
+  {
+    "name": "青藏高原",
+    "link": "https://music.163.com/song?id=258284",
+    "duration": "04:04",
+    "artists": [
+      { "name": "李娜", "link": "https://music.163.com/artist?id=8355" }
+    ],
+    "album": {
+      "name": "青藏高原",
+      "link": "https://music.163.com/album?id=25749"
+    }
+  },
+  {
+    "name": "伴果一生",
+    "link": "https://music.163.com/song?id=1450160108",
+    "duration": "03:39",
+    "artists": [
+      { "name": "关月风", "link": "https://music.163.com/artist?id=33610866" }
+    ],
+    "album": {
+      "name": "成果粒",
+      "link": "https://music.163.com/album?id=86075311"
+    }
+  },
+  {
+    "name": "星河万里",
+    "link": "https://music.163.com/song?id=1843704418",
+    "duration": "03:32",
+    "artists": [
+      { "name": "Rom邢锐", "link": "https://music.163.com/artist?id=47912279" }
+    ],
+    "album": {
+      "name": "星河万里",
+      "link": "https://music.163.com/album?id=127142100"
+    }
+  },
+  {
+    "name": "うちで踊ろう (大晦日)",
+    "link": "https://music.163.com/song?id=1855293534",
+    "duration": "03:48",
+    "artists": [
+      { "name": "星野源", "link": "https://music.163.com/artist?id=14242" }
+    ],
+    "album": {
+      "name": "不思議／創造",
+      "link": "https://music.163.com/album?id=129339554"
+    }
+  }
+]

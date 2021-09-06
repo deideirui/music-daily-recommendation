@@ -1,0 +1,462 @@
+[
+  {
+    "name": "Words",
+    "link": "https://music.163.com/song?id=1301572238",
+    "duration": "02:41",
+    "artists": [
+      {
+        "name": "Steve Void",
+        "link": "https://music.163.com/artist?id=12062200"
+      },
+      { "name": "BEAUZ", "link": "https://music.163.com/artist?id=12131436" },
+      {
+        "name": "Bri Tolani",
+        "link": "https://music.163.com/artist?id=12203231"
+      }
+    ],
+    "album": {
+      "name": "Words",
+      "link": "https://music.163.com/album?id=72302664"
+    }
+  },
+  {
+    "name": "The Other",
+    "link": "https://music.163.com/song?id=31273503",
+    "duration": "03:09",
+    "artists": [
+      { "name": "Lauv", "link": "https://music.163.com/artist?id=1057226" }
+    ],
+    "album": {
+      "name": "The Other",
+      "link": "https://music.163.com/album?id=3115717"
+    }
+  },
+  {
+    "name": "Not Yours Never Was",
+    "link": "https://music.163.com/song?id=1351921200",
+    "duration": "03:16",
+    "artists": [
+      {
+        "name": "Hannah Jane Lewis",
+        "link": "https://music.163.com/artist?id=1049129"
+      }
+    ],
+    "album": {
+      "name": "Hannah Jane Lewis",
+      "link": "https://music.163.com/album?id=75849121"
+    }
+  },
+  {
+    "name": "Ain't Right",
+    "link": "https://music.163.com/song?id=1442096263",
+    "duration": "02:38",
+    "artists": [
+      {
+        "name": "Raven & Kreyn",
+        "link": "https://music.163.com/artist?id=12355744"
+      },
+      { "name": "Mo Falk", "link": "https://music.163.com/artist?id=28683052" }
+    ],
+    "album": {
+      "name": "Ain't Right",
+      "link": "https://music.163.com/album?id=88275738"
+    }
+  },
+  {
+    "name": "Version Of Me",
+    "link": "https://music.163.com/song?id=1328085413",
+    "duration": "03:02",
+    "artists": [
+      {
+        "name": "Sasha Sloan",
+        "link": "https://music.163.com/artist?id=12646102"
+      }
+    ],
+    "album": {
+      "name": "Loser",
+      "link": "https://music.163.com/album?id=74572383"
+    }
+  },
+  {
+    "name": "Slow Motion",
+    "link": "https://music.163.com/song?id=1429820087",
+    "duration": "02:15",
+    "artists": [
+      { "name": "Stvcks", "link": "https://music.163.com/artist?id=12213227" },
+      { "name": "Jaxomy", "link": "https://music.163.com/artist?id=29701895" },
+      { "name": "Youkii", "link": "https://music.163.com/artist?id=32496429" }
+    ],
+    "album": {
+      "name": "Slow Motion",
+      "link": "https://music.163.com/album?id=86388993"
+    }
+  },
+  {
+    "name": "Tell u everything",
+    "link": "https://music.163.com/song?id=415086339",
+    "duration": "03:56",
+    "artists": [
+      { "name": "塞米七", "link": "https://music.163.com/artist?id=12027560" }
+    ],
+    "album": {
+      "name": "Tell u",
+      "link": "https://music.163.com/album?id=34723142"
+    }
+  },
+  {
+    "name": "Throw Popcorn",
+    "link": "https://music.163.com/song?id=547265149",
+    "duration": "03:13",
+    "artists": [
+      {
+        "name": "Samuel Daayata",
+        "link": "https://music.163.com/artist?id=13705293"
+      },
+      {
+        "name": "Isac Elliot",
+        "link": "https://music.163.com/artist?id=772147"
+      }
+    ],
+    "album": {
+      "name": "Throw Popcorn",
+      "link": "https://music.163.com/album?id=37767995"
+    }
+  },
+  {
+    "name": "Avocado Toast",
+    "link": "https://music.163.com/song?id=1296946992",
+    "duration": "03:31",
+    "artists": [
+      {
+        "name": "Emily Zeck",
+        "link": "https://music.163.com/artist?id=12356669"
+      }
+    ],
+    "album": {
+      "name": "Avocado Toast",
+      "link": "https://music.163.com/album?id=72035144"
+    }
+  },
+  {
+    "name": "Vignette",
+    "link": "https://music.163.com/song?id=545962056",
+    "duration": "03:58",
+    "artists": [
+      { "name": "Shallou", "link": "https://music.163.com/artist?id=12029377" }
+    ],
+    "album": {
+      "name": "Vignette",
+      "link": "https://music.163.com/album?id=37953383"
+    }
+  },
+  {
+    "name": "Thin Air",
+    "link": "https://music.163.com/song?id=438462567",
+    "duration": "05:23",
+    "artists": [
+      { "name": "Equador", "link": "https://music.163.com/artist?id=12155415" }
+    ],
+    "album": {
+      "name": "Bones of Man",
+      "link": "https://music.163.com/album?id=34923339"
+    }
+  },
+  {
+    "name": "Go",
+    "link": "https://music.163.com/song?id=409650792",
+    "duration": "03:11",
+    "artists": [
+      { "name": "Vexento", "link": "https://music.163.com/artist?id=12037010" }
+    ],
+    "album": { "name": "Go", "link": "https://music.163.com/album?id=34612345" }
+  },
+  {
+    "name": "3055",
+    "link": "https://music.163.com/song?id=16139381",
+    "duration": "05:26",
+    "artists": [
+      {
+        "name": "Ólafur Arnalds",
+        "link": "https://music.163.com/artist?id=40858"
+      }
+    ],
+    "album": {
+      "name": "Eulogy for Evolution",
+      "link": "https://music.163.com/album?id=1489042"
+    }
+  },
+  {
+    "name": "Last Reincarnation",
+    "link": "https://music.163.com/song?id=451543833",
+    "duration": "03:10",
+    "artists": [
+      { "name": "AniFace", "link": "https://music.163.com/artist?id=12259037" }
+    ],
+    "album": {
+      "name": "Last Reincarnation",
+      "link": "https://music.163.com/album?id=35111399"
+    }
+  },
+  {
+    "name": "This Whole Time",
+    "link": "https://music.163.com/song?id=1442097691",
+    "duration": "03:25",
+    "artists": [
+      {
+        "name": "Alva Gracia",
+        "link": "https://music.163.com/artist?id=28089406"
+      }
+    ],
+    "album": {
+      "name": "This Whole Time",
+      "link": "https://music.163.com/album?id=88275054"
+    }
+  },
+  {
+    "name": "In the End",
+    "link": "https://music.163.com/song?id=1309896289",
+    "duration": "03:54",
+    "artists": [
+      {
+        "name": "Tommee Profitt",
+        "link": "https://music.163.com/artist?id=28975"
+      },
+      {
+        "name": "Jung Youth",
+        "link": "https://music.163.com/artist?id=852308"
+      },
+      { "name": "Fleurie", "link": "https://music.163.com/artist?id=860929" }
+    ],
+    "album": {
+      "name": "IN THE END (Cinematic Cover)",
+      "link": "https://music.163.com/album?id=73326692"
+    }
+  },
+  {
+    "name": "Gravity",
+    "link": "https://music.163.com/song?id=1369732605",
+    "duration": "03:23",
+    "artists": [
+      { "name": "Ralph", "link": "https://music.163.com/artist?id=12049282" }
+    ],
+    "album": {
+      "name": "Gravity",
+      "link": "https://music.163.com/album?id=79603585"
+    }
+  },
+  {
+    "name": "Monarch",
+    "link": "https://music.163.com/song?id=1298287270",
+    "duration": "03:42",
+    "artists": [
+      { "name": "Fleurie", "link": "https://music.163.com/artist?id=860929" }
+    ],
+    "album": {
+      "name": "Portals",
+      "link": "https://music.163.com/album?id=72101155"
+    }
+  },
+  {
+    "name": "Heroes",
+    "link": "https://music.163.com/song?id=422132114",
+    "duration": "03:42",
+    "artists": [
+      {
+        "name": "Zayde Wølf",
+        "link": "https://music.163.com/artist?id=12073833"
+      }
+    ],
+    "album": {
+      "name": "Rare Breed",
+      "link": "https://music.163.com/album?id=34751916"
+    }
+  },
+  {
+    "name": "Love On Repeat",
+    "link": "https://music.163.com/song?id=1384385918",
+    "duration": "03:21",
+    "artists": [
+      {
+        "name": "Strandels",
+        "link": "https://music.163.com/artist?id=12171083"
+      }
+    ],
+    "album": {
+      "name": "Love On Repeat",
+      "link": "https://music.163.com/album?id=80965540"
+    }
+  },
+  {
+    "name": "Exaltation",
+    "link": "https://music.163.com/song?id=1337111644",
+    "duration": "02:36",
+    "artists": [
+      {
+        "name": "Immediate Music",
+        "link": "https://music.163.com/artist?id=35054"
+      }
+    ],
+    "album": {
+      "name": "Dream Worlds",
+      "link": "https://music.163.com/album?id=75029323"
+    }
+  },
+  {
+    "name": "Regulars",
+    "link": "https://music.163.com/song?id=1395896656",
+    "duration": "03:41",
+    "artists": [
+      { "name": "Allie X", "link": "https://music.163.com/artist?id=973030" }
+    ],
+    "album": {
+      "name": "Regulars",
+      "link": "https://music.163.com/album?id=82250056"
+    }
+  },
+  {
+    "name": "The Dawn（亡灵序曲）",
+    "link": "https://music.163.com/song?id=556319523",
+    "duration": "03:36",
+    "artists": [
+      { "name": "笙咲", "link": "https://music.163.com/artist?id=13681633" }
+    ],
+    "album": {
+      "name": "The Dawn（亡灵序曲）",
+      "link": "https://music.163.com/album?id=38520206"
+    }
+  },
+  {
+    "name": "Tears of The Sun",
+    "link": "https://music.163.com/song?id=547728059",
+    "duration": "03:56",
+    "artists": [
+      {
+        "name": "LookedatHerFore",
+        "link": "https://music.163.com/artist?id=13610762"
+      }
+    ],
+    "album": {
+      "name": "Tears of The Sun",
+      "link": "https://music.163.com/album?id=38009318"
+    }
+  },
+  {
+    "name": "All Time Low",
+    "link": "https://music.163.com/song?id=461544312",
+    "duration": "03:21",
+    "artists": [
+      {
+        "name": "Kurt Hugo Schneider",
+        "link": "https://music.163.com/artist?id=37962"
+      },
+      { "name": "Sam Tsui", "link": "https://music.163.com/artist?id=43722" },
+      {
+        "name": "Casey Breves",
+        "link": "https://music.163.com/artist?id=1086079"
+      }
+    ],
+    "album": {
+      "name": "All Time Low",
+      "link": "https://music.163.com/album?id=35196325"
+    }
+  },
+  {
+    "name": "We Are Wonders of Existence",
+    "link": "https://music.163.com/song?id=34033766",
+    "duration": "03:36",
+    "artists": [
+      { "name": "Madza", "link": "https://music.163.com/artist?id=1132897" }
+    ],
+    "album": {
+      "name": "We Are Wonders of Existence",
+      "link": "https://music.163.com/album?id=3270563"
+    }
+  },
+  {
+    "name": "Insurgence",
+    "link": "https://music.163.com/song?id=1357621728",
+    "duration": "04:20",
+    "artists": [
+      {
+        "name": "Jim Yosef",
+        "link": "https://music.163.com/artist?id=1063121"
+      },
+      { "name": "Starlyte", "link": "https://music.163.com/artist?id=12006394" }
+    ],
+    "album": {
+      "name": "Insurgence",
+      "link": "https://music.163.com/album?id=78399461"
+    }
+  },
+  {
+    "name": "River's Heart  (Original Mix)",
+    "link": "https://music.163.com/song?id=38391648",
+    "duration": "03:42",
+    "artists": [
+      {
+        "name": "Andreas B.",
+        "link": "https://music.163.com/artist?id=299713"
+      },
+      { "name": "Felix", "link": "https://music.163.com/artist?id=93104" }
+    ],
+    "album": {
+      "name": "River's Heart  (Original Mix)",
+      "link": "https://music.163.com/album?id=3428393"
+    }
+  },
+  {
+    "name": "Dohi",
+    "link": "https://music.163.com/song?id=403136011",
+    "duration": "03:23",
+    "artists": [
+      { "name": "Distrion", "link": "https://music.163.com/artist?id=1050853" },
+      { "name": "Cediv", "link": "https://music.163.com/artist?id=1050295" }
+    ],
+    "album": {
+      "name": "Dohi",
+      "link": "https://music.163.com/album?id=34478281"
+    }
+  },
+  {
+    "name": "Reflections",
+    "link": "https://music.163.com/song?id=434659283",
+    "duration": "05:43",
+    "artists": [
+      {
+        "name": "Artem Yegorov",
+        "link": "https://music.163.com/artist?id=12131492"
+      }
+    ],
+    "album": {
+      "name": "Right Step",
+      "link": "https://music.163.com/album?id=34898901"
+    }
+  },
+  {
+    "name": "Tokyo Rain",
+    "link": "https://music.163.com/song?id=1346097717",
+    "duration": "05:21",
+    "artists": [
+      {
+        "name": "Marcus Warner",
+        "link": "https://music.163.com/artist?id=1046308"
+      }
+    ],
+    "album": {
+      "name": "39 Seconds",
+      "link": "https://music.163.com/album?id=75019225"
+    }
+  },
+  {
+    "name": "Where Is the Love",
+    "link": "https://music.163.com/song?id=28828076",
+    "duration": "04:33",
+    "artists": [
+      { "name": "Josh Vietti", "link": "https://music.163.com/artist?id=37065" }
+    ],
+    "album": {
+      "name": "Best of Both Worlds",
+      "link": "https://music.163.com/album?id=2902215"
+    }
+  }
+]

@@ -1,0 +1,426 @@
+[
+  {
+    "name": "Without You",
+    "link": "https://music.163.com/song?id=2182987",
+    "duration": "03:08",
+    "artists": [
+      { "name": "Alyssa Reid", "link": "https://music.163.com/artist?id=48152" }
+    ],
+    "album": {
+      "name": "The Game",
+      "link": "https://music.163.com/album?id=220173"
+    }
+  },
+  {
+    "name": "Blaxy Girls - Miss You",
+    "link": "https://music.163.com/song?id=27583278",
+    "duration": "03:09",
+    "artists": [
+      { "name": "Blaxy Girls", "link": "https://music.163.com/artist?id=48525" }
+    ],
+    "album": {
+      "name": "Miss You",
+      "link": "https://music.163.com/album?id=2641176"
+    }
+  },
+  {
+    "name": "Never Be The Same Again (Single Mix)",
+    "link": "https://music.163.com/song?id=5162477",
+    "duration": "04:15",
+    "artists": [
+      { "name": "Lisa Lopes", "link": "https://music.163.com/artist?id=64266" },
+      { "name": "Melanie C", "link": "https://music.163.com/artist?id=66382" }
+    ],
+    "album": {
+      "name": "Top of the Pops 2000",
+      "link": "https://music.163.com/album?id=506795"
+    }
+  },
+  {
+    "name": "En God Grund",
+    "link": "https://music.163.com/song?id=21694200",
+    "duration": "04:00",
+    "artists": [
+      { "name": "Sarah", "link": "https://music.163.com/artist?id=78034" }
+    ],
+    "album": {
+      "name": "Hjerteskud",
+      "link": "https://music.163.com/album?id=1996842"
+    }
+  },
+  {
+    "name": "Nur noch einmal schlafen",
+    "link": "https://music.163.com/song?id=31081311",
+    "duration": "03:00",
+    "artists": [
+      {
+        "name": "Anna Maria Zimmermann",
+        "link": "https://music.163.com/artist?id=1053295"
+      }
+    ],
+    "album": {
+      "name": "Bauchgefühl",
+      "link": "https://music.163.com/album?id=3109705"
+    }
+  },
+  {
+    "name": "Let You Go",
+    "link": "https://music.163.com/song?id=547825917",
+    "duration": "03:00",
+    "artists": [
+      {
+        "name": "bvd kult",
+        "link": "https://music.163.com/artist?id=12263379"
+      },
+      { "name": "OT", "link": "https://music.163.com/artist?id=127403" }
+    ],
+    "album": {
+      "name": "Let You Go",
+      "link": "https://music.163.com/album?id=38013414"
+    }
+  },
+  {
+    "name": "Three (Extended Club Mix)",
+    "link": "https://music.163.com/song?id=1428156379",
+    "duration": "06:36",
+    "artists": [
+      { "name": "Chicane", "link": "https://music.163.com/artist?id=50971" },
+      { "name": "Vigri", "link": "https://music.163.com/artist?id=105026" }
+    ],
+    "album": {
+      "name": "A State Of Trance Classics, Vol. 14",
+      "link": "https://music.163.com/album?id=86229161"
+    }
+  },
+  {
+    "name": "Supreme",
+    "link": "https://music.163.com/song?id=26612934",
+    "duration": "03:31",
+    "artists": [
+      {
+        "name": "Postiljonen",
+        "link": "https://music.163.com/artist?id=725356"
+      }
+    ],
+    "album": {
+      "name": "Skyer",
+      "link": "https://music.163.com/album?id=2535635"
+    }
+  },
+  {
+    "name": "Tie Me Down",
+    "link": "https://music.163.com/song?id=1298505546",
+    "duration": "03:38",
+    "artists": [
+      { "name": "Gryffin", "link": "https://music.163.com/artist?id=1181504" },
+      {
+        "name": "Elley Duhé",
+        "link": "https://music.163.com/artist?id=12207014"
+      }
+    ],
+    "album": {
+      "name": "Tie Me Down",
+      "link": "https://music.163.com/album?id=72042813"
+    }
+  },
+  {
+    "name": "夜间出租车",
+    "link": "https://music.163.com/song?id=1347673545",
+    "duration": "03:54",
+    "artists": [
+      { "name": "ilem", "link": "https://music.163.com/artist?id=11975111" },
+      { "name": "洛天依", "link": "https://music.163.com/artist?id=906118" }
+    ],
+    "album": {
+      "name": "2:3",
+      "link": "https://music.163.com/album?id=75017206"
+    }
+  },
+  {
+    "name": "Turn Back Time (Tschax Remix)",
+    "link": "https://music.163.com/song?id=536243181",
+    "duration": "03:47",
+    "artists": [
+      {
+        "name": "Daniel Schulz",
+        "link": "https://music.163.com/artist?id=12811024"
+      }
+    ],
+    "album": {
+      "name": "Turn Back Time (Tschax Remix)",
+      "link": "https://music.163.com/album?id=37561055"
+    }
+  },
+  {
+    "name": "IDK Single",
+    "link": "https://music.163.com/song?id=573540712",
+    "duration": "02:45",
+    "artists": [
+      { "name": "Loote", "link": "https://music.163.com/artist?id=12408152" }
+    ],
+    "album": {
+      "name": "single.",
+      "link": "https://music.163.com/album?id=39716118"
+    }
+  },
+  {
+    "name": "Wall",
+    "link": "https://music.163.com/song?id=547035635",
+    "duration": "02:48",
+    "artists": [
+      {
+        "name": "Beatrich",
+        "link": "https://music.163.com/artist?id=12322300"
+      },
+      { "name": "HIDDN", "link": "https://music.163.com/artist?id=12322027" }
+    ],
+    "album": {
+      "name": "Out Of The Shadows EP",
+      "link": "https://music.163.com/album?id=38002507"
+    }
+  },
+  {
+    "name": "Don't Say What You Want To",
+    "link": "https://music.163.com/song?id=1304407415",
+    "duration": "03:28",
+    "artists": [
+      { "name": "Matoma", "link": "https://music.163.com/artist?id=1054100" },
+      { "name": "Yashua", "link": "https://music.163.com/artist?id=12931208" }
+    ],
+    "album": {
+      "name": "One In A Million",
+      "link": "https://music.163.com/album?id=72475945"
+    }
+  },
+  {
+    "name": "Sleepless",
+    "link": "https://music.163.com/song?id=866040893",
+    "duration": "03:22",
+    "artists": [
+      { "name": "Novo Amor", "link": "https://music.163.com/artist?id=904041" }
+    ],
+    "album": {
+      "name": "Birthplace",
+      "link": "https://music.163.com/album?id=71809380"
+    }
+  },
+  {
+    "name": "Seaside",
+    "link": "https://music.163.com/song?id=418602619",
+    "duration": "03:26",
+    "artists": [
+      { "name": "Haux", "link": "https://music.163.com/artist?id=1078427" }
+    ],
+    "album": {
+      "name": "Seaside",
+      "link": "https://music.163.com/album?id=34749197"
+    }
+  },
+  {
+    "name": "Slow Fade",
+    "link": "https://music.163.com/song?id=1341210106",
+    "duration": "03:31",
+    "artists": [
+      { "name": "Ruth B.", "link": "https://music.163.com/artist?id=1064055" }
+    ],
+    "album": {
+      "name": "Slow Fade",
+      "link": "https://music.163.com/album?id=75276084"
+    }
+  },
+  {
+    "name": "Let Me Down Easy",
+    "link": "https://music.163.com/song?id=1325019832",
+    "duration": "03:03",
+    "artists": [
+      {
+        "name": "Dave Thomas Junior",
+        "link": "https://music.163.com/artist?id=32233"
+      }
+    ],
+    "album": {
+      "name": "Echo",
+      "link": "https://music.163.com/album?id=74377124"
+    }
+  },
+  {
+    "name": "The Heart Of The Ocean",
+    "link": "https://music.163.com/song?id=27082400",
+    "duration": "03:00",
+    "artists": [
+      {
+        "name": "Mythos 'N DJ Cosmo",
+        "link": "https://music.163.com/artist?id=827133"
+      }
+    ],
+    "album": {
+      "name": "Club Rotation Vol. 6",
+      "link": "https://music.163.com/album?id=2581953"
+    }
+  },
+  {
+    "name": "Won't Surrender",
+    "link": "https://music.163.com/song?id=28546267",
+    "duration": "05:07",
+    "artists": [
+      { "name": "Otilia", "link": "https://music.163.com/artist?id=927034" },
+      {
+        "name": "Revolt Klan",
+        "link": "https://music.163.com/artist?id=12155213"
+      }
+    ],
+    "album": {
+      "name": "Won't Surrender (feat. Revolt Klan) - Single",
+      "link": "https://music.163.com/album?id=2834059"
+    }
+  },
+  {
+    "name": "Fantasia De Amor",
+    "link": "https://music.163.com/song?id=31273185",
+    "duration": "03:17",
+    "artists": [],
+    "album": {
+      "name": "最新热歌慢摇94",
+      "link": "https://music.163.com/album?id=3104432"
+    }
+  },
+  {
+    "name": "Part Of My **** (Mashup)",
+    "link": "https://music.163.com/song?id=26524517",
+    "duration": "03:40",
+    "artists": [
+      {
+        "name": "Various Artists",
+        "link": "https://music.163.com/artist?id=104700"
+      }
+    ],
+    "album": {
+      "name": "最新热歌慢摇1",
+      "link": "https://music.163.com/album?id=2515015"
+    }
+  },
+  {
+    "name": "Take It To The Limit (Darius & Finlay Remix)",
+    "link": "https://music.163.com/song?id=28599572",
+    "duration": "03:10",
+    "artists": [
+      { "name": "Max K.", "link": "https://music.163.com/artist?id=357979" },
+      { "name": "Gerald G!", "link": "https://music.163.com/artist?id=384971" }
+    ],
+    "album": {
+      "name": "Kirmes Sound's Vol. 10",
+      "link": "https://music.163.com/album?id=2853556"
+    }
+  },
+  {
+    "name": "Angel of Mine",
+    "link": "https://music.163.com/song?id=4388051",
+    "duration": "03:42",
+    "artists": [
+      {
+        "name": "The Icarus Account",
+        "link": "https://music.163.com/artist?id=103216"
+      }
+    ],
+    "album": {
+      "name": "Keeper of Your Heart",
+      "link": "https://music.163.com/album?id=442849"
+    }
+  },
+  {
+    "name": "You Got Me",
+    "link": "https://music.163.com/song?id=421423721",
+    "duration": "03:58",
+    "artists": [
+      { "name": "Feki", "link": "https://music.163.com/artist?id=1122128" },
+      { "name": "Dom Vino", "link": "https://music.163.com/artist?id=27887301" }
+    ],
+    "album": {
+      "name": "You Got Me",
+      "link": "https://music.163.com/album?id=34780540"
+    }
+  },
+  {
+    "name": "Mi-e Dor De Noi",
+    "link": "https://music.163.com/song?id=33211567",
+    "duration": "04:06",
+    "artists": [
+      { "name": "DJ Project", "link": "https://music.163.com/artist?id=91079" }
+    ],
+    "album": {
+      "name": "Best Of",
+      "link": "https://music.163.com/album?id=3190170"
+    }
+  },
+  {
+    "name": "蝶々を追いかけて",
+    "link": "https://music.163.com/song?id=511171268",
+    "duration": "01:55",
+    "artists": [
+      {
+        "name": "Ryan有光",
+        "link": "https://music.163.com/artist?id=12185226"
+      },
+      { "name": "冷魚", "link": "https://music.163.com/artist?id=12090271" }
+    ],
+    "album": {
+      "name": "蝶々を追いかけて",
+      "link": "https://music.163.com/album?id=36473717"
+    }
+  },
+  {
+    "name": "All Of Me/Say Something",
+    "link": "https://music.163.com/song?id=36307219",
+    "duration": "04:29",
+    "artists": [
+      {
+        "name": "Shaun Reynolds",
+        "link": "https://music.163.com/artist?id=1149005"
+      },
+      { "name": "Lily Me", "link": "https://music.163.com/artist?id=1182024" }
+    ],
+    "album": {
+      "name": "All Of Me/Say Something",
+      "link": "https://music.163.com/album?id=3394041"
+    }
+  },
+  {
+    "name": "Angel Youth",
+    "link": "https://music.163.com/song?id=567366126",
+    "duration": "04:02",
+    "artists": [
+      { "name": "Vansire", "link": "https://music.163.com/artist?id=12348095" }
+    ],
+    "album": {
+      "name": "Angel Youth",
+      "link": "https://music.163.com/album?id=39339033"
+    }
+  },
+  {
+    "name": "Interstellar (Original Mix)",
+    "link": "https://music.163.com/song?id=420125621",
+    "duration": "07:52",
+    "artists": [
+      { "name": " jav3x", "link": "https://music.163.com/artist?id=1019866" }
+    ],
+    "album": {
+      "name": "Interstellar",
+      "link": "https://music.163.com/album?id=34767459"
+    }
+  },
+  {
+    "name": "Dancing Days",
+    "link": "https://music.163.com/song?id=460112792",
+    "duration": "01:34",
+    "artists": [
+      {
+        "name": "Lazy Lewis",
+        "link": "https://music.163.com/artist?id=12289106"
+      }
+    ],
+    "album": {
+      "name": "Dancing Days",
+      "link": "https://music.163.com/album?id=35174921"
+    }
+  }
+]

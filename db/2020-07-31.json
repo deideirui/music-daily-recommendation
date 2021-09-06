@@ -1,0 +1,445 @@
+[
+  {
+    "name": "Like That",
+    "link": "https://music.163.com/song?id=1360933608",
+    "duration": "03:06",
+    "artists": [
+      { "name": "Disero", "link": "https://music.163.com/artist?id=14675307" },
+      {
+        "name": "Josh Smith",
+        "link": "https://music.163.com/artist?id=12884350"
+      }
+    ],
+    "album": {
+      "name": "Like That",
+      "link": "https://music.163.com/album?id=78734809"
+    }
+  },
+  {
+    "name": "Drifters",
+    "link": "https://music.163.com/song?id=1336075694",
+    "duration": "04:19",
+    "artists": [
+      { "name": "Feint", "link": "https://music.163.com/artist?id=93062" },
+      { "name": "Elizaveta", "link": "https://music.163.com/artist?id=56674" }
+    ],
+    "album": {
+      "name": "Drifters",
+      "link": "https://music.163.com/album?id=74999286"
+    }
+  },
+  {
+    "name": "Pictures",
+    "link": "https://music.163.com/song?id=1309697628",
+    "duration": "03:03",
+    "artists": [
+      { "name": "SRTW", "link": "https://music.163.com/artist?id=1024380" },
+      { "name": "Hier", "link": "https://music.163.com/artist?id=12023414" }
+    ],
+    "album": {
+      "name": "Pictures",
+      "link": "https://music.163.com/album?id=73304262"
+    }
+  },
+  {
+    "name": "Feels Like You",
+    "link": "https://music.163.com/song?id=1405403501",
+    "duration": "02:37",
+    "artists": [
+      { "name": "MOTI", "link": "https://music.163.com/artist?id=366384" },
+      {
+        "name": "Robert Falcon",
+        "link": "https://music.163.com/artist?id=12210015"
+      }
+    ],
+    "album": {
+      "name": "Feels Like You",
+      "link": "https://music.163.com/album?id=83613895"
+    }
+  },
+  {
+    "name": "Break Me",
+    "link": "https://music.163.com/song?id=487587909",
+    "duration": "03:42",
+    "artists": [
+      { "name": "Trivecta", "link": "https://music.163.com/artist?id=954338" },
+      { "name": "Karra", "link": "https://music.163.com/artist?id=1081582" }
+    ],
+    "album": {
+      "name": "Rocket League x Monstercat Vol. 1",
+      "link": "https://music.163.com/album?id=35644274"
+    }
+  },
+  {
+    "name": "Million Ways",
+    "link": "https://music.163.com/song?id=1409275821",
+    "duration": "02:49",
+    "artists": [
+      { "name": "HRVY", "link": "https://music.163.com/artist?id=12501125" }
+    ],
+    "album": {
+      "name": "Million Ways (Remixes)",
+      "link": "https://music.163.com/album?id=84067412"
+    }
+  },
+  {
+    "name": "Amsterdam",
+    "link": "https://music.163.com/song?id=534694499",
+    "duration": "04:22",
+    "artists": [
+      {
+        "name": "Ørjan Nilsen",
+        "link": "https://music.163.com/artist?id=41064"
+      }
+    ],
+    "album": {
+      "name": "Amsterdam",
+      "link": "https://music.163.com/album?id=37469127"
+    }
+  },
+  {
+    "name": "Can't Let You Go",
+    "link": "https://music.163.com/song?id=862657136",
+    "duration": "02:51",
+    "artists": [
+      {
+        "name": "Josef Bamba",
+        "link": "https://music.163.com/artist?id=464606"
+      }
+    ],
+    "album": {
+      "name": "Can't Let You Go",
+      "link": "https://music.163.com/album?id=71663307"
+    }
+  },
+  {
+    "name": "Faking It",
+    "link": "https://music.163.com/song?id=1294419747",
+    "duration": "04:11",
+    "artists": [
+      {
+        "name": "Lost Stories",
+        "link": "https://music.163.com/artist?id=12370074"
+      },
+      {
+        "name": "Matthew Steeper",
+        "link": "https://music.163.com/artist?id=1094011"
+      }
+    ],
+    "album": {
+      "name": "Faking It",
+      "link": "https://music.163.com/album?id=71876886"
+    }
+  },
+  {
+    "name": "Runaway (Electus Remix)",
+    "link": "https://music.163.com/song?id=1385883495",
+    "duration": "03:44",
+    "artists": [
+      { "name": "Electus", "link": "https://music.163.com/artist?id=1032300" }
+    ],
+    "album": {
+      "name": "Runaway (Electus Remix)",
+      "link": "https://music.163.com/album?id=81086677"
+    }
+  },
+  {
+    "name": "Make You Remember",
+    "link": "https://music.163.com/song?id=573673964",
+    "duration": "03:33",
+    "artists": [
+      {
+        "name": "Your Friends",
+        "link": "https://music.163.com/artist?id=12871356"
+      },
+      {
+        "name": "Lazy Weekends",
+        "link": "https://music.163.com/artist?id=12046750"
+      }
+    ],
+    "album": {
+      "name": "Make You Remember",
+      "link": "https://music.163.com/album?id=39729140"
+    }
+  },
+  {
+    "name": "The Call",
+    "link": "https://music.163.com/song?id=1300580082",
+    "duration": "03:36",
+    "artists": [
+      {
+        "name": "Aash Mehta",
+        "link": "https://music.163.com/artist?id=1094364"
+      },
+      {
+        "name": "Andy Sandrick",
+        "link": "https://music.163.com/artist?id=28752787"
+      }
+    ],
+    "album": {
+      "name": "The Call",
+      "link": "https://music.163.com/album?id=72241372"
+    }
+  },
+  {
+    "name": "Million Miles",
+    "link": "https://music.163.com/song?id=1374602799",
+    "duration": "03:22",
+    "artists": [
+      { "name": "Mark Sixma", "link": "https://music.163.com/artist?id=178755" }
+    ],
+    "album": {
+      "name": "Million Miles",
+      "link": "https://music.163.com/album?id=80064850"
+    }
+  },
+  {
+    "name": "Divine",
+    "link": "https://music.163.com/song?id=1367115522",
+    "duration": "05:24",
+    "artists": [
+      { "name": "Au5", "link": "https://music.163.com/artist?id=359309" }
+    ],
+    "album": {
+      "name": "Divinorum",
+      "link": "https://music.163.com/album?id=79341811"
+    }
+  },
+  {
+    "name": "Magic",
+    "link": "https://music.163.com/song?id=1387392286",
+    "duration": "03:52",
+    "artists": [
+      { "name": "ThimLife", "link": "https://music.163.com/artist?id=1046016" },
+      { "name": "Tomsis", "link": "https://music.163.com/artist?id=33118901" }
+    ],
+    "album": {
+      "name": "Magic",
+      "link": "https://music.163.com/album?id=81228507"
+    }
+  },
+  {
+    "name": "Heart",
+    "link": "https://music.163.com/song?id=1361335790",
+    "duration": "03:15",
+    "artists": [
+      { "name": "OTR", "link": "https://music.163.com/artist?id=12232013" },
+      { "name": "Shallou", "link": "https://music.163.com/artist?id=12029377" }
+    ],
+    "album": {
+      "name": "Heart",
+      "link": "https://music.163.com/album?id=78779459"
+    }
+  },
+  {
+    "name": "Run Away",
+    "link": "https://music.163.com/song?id=533455573",
+    "duration": "02:26",
+    "artists": [
+      { "name": "SAM F", "link": "https://music.163.com/artist?id=12074533" },
+      { "name": "Sophie Rose", "link": "https://music.163.com/artist?id=78099" }
+    ],
+    "album": {
+      "name": "Run Away",
+      "link": "https://music.163.com/album?id=37391383"
+    }
+  },
+  {
+    "name": "See Me",
+    "link": "https://music.163.com/song?id=1345576063",
+    "duration": "03:50",
+    "artists": [
+      { "name": "Talos", "link": "https://music.163.com/artist?id=1177180" }
+    ],
+    "album": {
+      "name": "Far Out Dust",
+      "link": "https://music.163.com/album?id=75519935"
+    }
+  },
+  {
+    "name": "Perplexity of Dreams (Original Mix)",
+    "link": "https://music.163.com/song?id=405599889",
+    "duration": "06:47",
+    "artists": [
+      { "name": "Alex H", "link": "https://music.163.com/artist?id=370950" },
+      {
+        "name": "Roald Velden",
+        "link": "https://music.163.com/artist?id=178498"
+      }
+    ],
+    "album": {
+      "name": "Perplexity Of Dreams",
+      "link": "https://music.163.com/album?id=34527613"
+    }
+  },
+  {
+    "name": "Shake the Earth",
+    "link": "https://music.163.com/song?id=31370950",
+    "duration": "04:31",
+    "artists": [
+      {
+        "name": "Elephante",
+        "link": "https://music.163.com/artist?id=1050284"
+      },
+      { "name": "Lyon Hart", "link": "https://music.163.com/artist?id=1161030" }
+    ],
+    "album": {
+      "name": "Shake the Earth",
+      "link": "https://music.163.com/album?id=3119137"
+    }
+  },
+  {
+    "name": "Winter's Tale (Original Mix)",
+    "link": "https://music.163.com/song?id=28078010",
+    "duration": "06:54",
+    "artists": [
+      {
+        "name": "Cosmic Funk",
+        "link": "https://music.163.com/artist?id=202457"
+      }
+    ],
+    "album": {
+      "name": "PHW & Friends 002",
+      "link": "https://music.163.com/album?id=2724323"
+    }
+  },
+  {
+    "name": "Sucker for You",
+    "link": "https://music.163.com/song?id=511678913",
+    "duration": "03:23",
+    "artists": [
+      {
+        "name": "Matt Terry",
+        "link": "https://music.163.com/artist?id=12214141"
+      }
+    ],
+    "album": {
+      "name": "Sucker for You",
+      "link": "https://music.163.com/album?id=36320990"
+    }
+  },
+  {
+    "name": "Boba Beach",
+    "link": "https://music.163.com/song?id=32807483",
+    "duration": "05:50",
+    "artists": [
+      { "name": "Grynpyret", "link": "https://music.163.com/artist?id=1086047" }
+    ],
+    "album": {
+      "name": "Boba Beach",
+      "link": "https://music.163.com/album?id=3173087"
+    }
+  },
+  {
+    "name": "Coast of Hope",
+    "link": "https://music.163.com/song?id=28209503",
+    "duration": "05:16",
+    "artists": [
+      {
+        "name": "Martin Mittone",
+        "link": "https://music.163.com/artist?id=841127"
+      }
+    ],
+    "album": {
+      "name": "Coast of Hope EP",
+      "link": "https://music.163.com/album?id=2745455"
+    }
+  },
+  {
+    "name": "Five Hours",
+    "link": "https://music.163.com/song?id=28263911",
+    "duration": "05:26",
+    "artists": [
+      { "name": "Deorro", "link": "https://music.163.com/artist?id=366358" }
+    ],
+    "album": {
+      "name": "Five Hours",
+      "link": "https://music.163.com/album?id=2763507"
+    }
+  },
+  {
+    "name": "One Wish (Original Mix)",
+    "link": "https://music.163.com/song?id=29490357",
+    "duration": "08:16",
+    "artists": [
+      {
+        "name": "Roald Velden",
+        "link": "https://music.163.com/artist?id=178498"
+      }
+    ],
+    "album": {
+      "name": "Last Flight Home",
+      "link": "https://music.163.com/album?id=3033342"
+    }
+  },
+  {
+    "name": "melty world",
+    "link": "https://music.163.com/song?id=1329734055",
+    "duration": "04:48",
+    "artists": [
+      {
+        "name": "Kizuna AI",
+        "link": "https://music.163.com/artist?id=27889701"
+      }
+    ],
+    "album": {
+      "name": "Melty World",
+      "link": "https://music.163.com/album?id=74675635"
+    }
+  },
+  {
+    "name": "Holding Hands (Blood Groove & Kikis Remix)",
+    "link": "https://music.163.com/song?id=417250893",
+    "duration": "07:44",
+    "artists": [
+      {
+        "name": "Blood Groove & Kikis",
+        "link": "https://music.163.com/artist?id=311599"
+      }
+    ],
+    "album": {
+      "name": "Holding Hands (Blood Groove Kikis Remix)",
+      "link": "https://music.163.com/album?id=34738382"
+    }
+  },
+  {
+    "name": "花びらたちのマーチ - (花瓣的游行)",
+    "link": "https://music.163.com/song?id=1338264578",
+    "duration": "03:15",
+    "artists": [
+      { "name": "Aimer", "link": "https://music.163.com/artist?id=16152" }
+    ],
+    "album": {
+      "name": "I beg you / 花びらたちのマーチ / Sailing",
+      "link": "https://music.163.com/album?id=75062421"
+    }
+  },
+  {
+    "name": "Dream It Possible",
+    "link": "https://music.163.com/song?id=38592976",
+    "duration": "03:24",
+    "artists": [
+      { "name": "Delacey", "link": "https://music.163.com/artist?id=489045" }
+    ],
+    "album": {
+      "name": "Dream It Possible",
+      "link": "https://music.163.com/album?id=3426477"
+    }
+  },
+  {
+    "name": "Limits (Aurosonic Progressive Mix)",
+    "link": "https://music.163.com/song?id=36621675",
+    "duration": "07:10",
+    "artists": [
+      { "name": "Aurosonic", "link": "https://music.163.com/artist?id=86532" },
+      {
+        "name": "Arctic Lake",
+        "link": "https://music.163.com/artist?id=1063197"
+      }
+    ],
+    "album": {
+      "name": "Limits (Aurosonic Progressive Mix)",
+      "link": "https://music.163.com/album?id=3403354"
+    }
+  }
+]

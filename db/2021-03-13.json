@@ -1,0 +1,475 @@
+[
+  {
+    "name": "Dystopia 2077",
+    "link": "https://music.163.com/song?id=1466783553",
+    "duration": "03:14",
+    "artists": [
+      { "name": "F.O.O.L", "link": "https://music.163.com/artist?id=93082" },
+      {
+        "name": "The Forgotten",
+        "link": "https://music.163.com/artist?id=150621"
+      }
+    ],
+    "album": {
+      "name": "Dystopia 2077",
+      "link": "https://music.163.com/album?id=93189307"
+    }
+  },
+  {
+    "name": "Slip Away",
+    "link": "https://music.163.com/song?id=1382623484",
+    "duration": "02:53",
+    "artists": [
+      { "name": "Sineself", "link": "https://music.163.com/artist?id=32945422" }
+    ],
+    "album": {
+      "name": "Slip Away",
+      "link": "https://music.163.com/album?id=80818330"
+    }
+  },
+  {
+    "name": "Galaxies",
+    "link": "https://music.163.com/song?id=1434211012",
+    "duration": "04:05",
+    "artists": [
+      { "name": "Protostar", "link": "https://music.163.com/artist?id=711491" }
+    ],
+    "album": {
+      "name": "Galaxies",
+      "link": "https://music.163.com/album?id=86858046"
+    }
+  },
+  {
+    "name": "Why Do I Try (Nightcore)",
+    "link": "https://music.163.com/song?id=1442365701",
+    "duration": "02:44",
+    "artists": [
+      { "name": "Syrex", "link": "https://music.163.com/artist?id=34804567" },
+      {
+        "name": "Danni Carra",
+        "link": "https://music.163.com/artist?id=32029983"
+      },
+      {
+        "name": "Gill Chang",
+        "link": "https://music.163.com/artist?id=13868921"
+      }
+    ],
+    "album": {
+      "name": "Nightcore Gaming Music Vol. 1",
+      "link": "https://music.163.com/album?id=88326808"
+    }
+  },
+  {
+    "name": "We Came to Party",
+    "link": "https://music.163.com/song?id=1387110551",
+    "duration": "03:10",
+    "artists": [
+      { "name": "Basixx", "link": "https://music.163.com/artist?id=30319875" },
+      {
+        "name": "Ella Faye",
+        "link": "https://music.163.com/artist?id=31425767"
+      }
+    ],
+    "album": {
+      "name": "We Came to Party",
+      "link": "https://music.163.com/album?id=81208504"
+    }
+  },
+  {
+    "name": "Hands",
+    "link": "https://music.163.com/song?id=407862278",
+    "duration": "04:22",
+    "artists": [
+      {
+        "name": "Gareth Emery",
+        "link": "https://music.163.com/artist?id=34318"
+      },
+      { "name": "Alastor", "link": "https://music.163.com/artist?id=85992" },
+      {
+        "name": "London Thor",
+        "link": "https://music.163.com/artist?id=1102061"
+      }
+    ],
+    "album": {
+      "name": "100 Reasons To Live",
+      "link": "https://music.163.com/album?id=34590162"
+    }
+  },
+  {
+    "name": "Vibrant Emotions",
+    "link": "https://music.163.com/song?id=1460957978",
+    "duration": "02:46",
+    "artists": [
+      { "name": "Killigrew", "link": "https://music.163.com/artist?id=38066" }
+    ],
+    "album": {
+      "name": "Vibrant Emotions",
+      "link": "https://music.163.com/album?id=92046999"
+    }
+  },
+  {
+    "name": "Arp Of Astronomical Wisdom",
+    "link": "https://music.163.com/song?id=1445180281",
+    "duration": "03:37",
+    "artists": [
+      {
+        "name": "Julian Calor",
+        "link": "https://music.163.com/artist?id=894039"
+      }
+    ],
+    "album": {
+      "name": "Arp of Astronomical Wisdom",
+      "link": "https://music.163.com/album?id=88881142"
+    }
+  },
+  {
+    "name": "System",
+    "link": "https://music.163.com/song?id=563524568",
+    "duration": "03:15",
+    "artists": [
+      {
+        "name": "Cally Rhodes",
+        "link": "https://music.163.com/artist?id=12603359"
+      }
+    ],
+    "album": {
+      "name": "System",
+      "link": "https://music.163.com/album?id=39053367"
+    }
+  },
+  {
+    "name": "Mr Emotional",
+    "link": "https://music.163.com/song?id=1379814770",
+    "duration": "02:41",
+    "artists": [
+      { "name": "Syence", "link": "https://music.163.com/artist?id=12233011" },
+      { "name": "Lux", "link": "https://music.163.com/artist?id=65954" }
+    ],
+    "album": {
+      "name": "Temporary High",
+      "link": "https://music.163.com/album?id=80581608"
+    }
+  },
+  {
+    "name": "On The Road",
+    "link": "https://music.163.com/song?id=31370956",
+    "duration": "03:23",
+    "artists": [
+      { "name": "Y.V.E. 48", "link": "https://music.163.com/artist?id=1032445" }
+    ],
+    "album": {
+      "name": "On The Road",
+      "link": "https://music.163.com/album?id=3119139"
+    }
+  },
+  {
+    "name": "Take Me There",
+    "link": "https://music.163.com/song?id=1403714052",
+    "duration": "03:25",
+    "artists": [
+      { "name": "Westlife", "link": "https://music.163.com/artist?id=45839" }
+    ],
+    "album": {
+      "name": "Spectrum",
+      "link": "https://music.163.com/album?id=83392596"
+    }
+  },
+  {
+    "name": "Ghost (Joe Stone Remix)",
+    "link": "https://music.163.com/song?id=1407767447",
+    "duration": "02:37",
+    "artists": [
+      { "name": "Au/Ra", "link": "https://music.163.com/artist?id=12143031" },
+      {
+        "name": "Alan Walker",
+        "link": "https://music.163.com/artist?id=1045123"
+      },
+      { "name": "Joe Stone", "link": "https://music.163.com/artist?id=1071007" }
+    ],
+    "album": {
+      "name": "Ghost (Remixes)",
+      "link": "https://music.163.com/album?id=83916213"
+    }
+  },
+  {
+    "name": "You’ll Be Mine",
+    "link": "https://music.163.com/song?id=27836503",
+    "duration": "04:10",
+    "artists": [
+      {
+        "name": "Havana Brown",
+        "link": "https://music.163.com/artist?id=55440"
+      },
+      { "name": "R3hab", "link": "https://music.163.com/artist?id=197248" }
+    ],
+    "album": {
+      "name": "Flashing Lights (Deluxe Version)",
+      "link": "https://music.163.com/album?id=2685073"
+    }
+  },
+  {
+    "name": "River",
+    "link": "https://music.163.com/song?id=30854833",
+    "duration": "03:44",
+    "artists": [
+      { "name": "Axero", "link": "https://music.163.com/artist?id=1035020" }
+    ],
+    "album": {
+      "name": "River",
+      "link": "https://music.163.com/album?id=3104771"
+    }
+  },
+  {
+    "name": "no lie",
+    "link": "https://music.163.com/song?id=1826279025",
+    "duration": "03:31",
+    "artists": [
+      {
+        "name": "AbleDaCryBoi",
+        "link": "https://music.163.com/artist?id=37560924"
+      },
+      {
+        "name": "Kinny小金",
+        "link": "https://music.163.com/artist?id=12204601"
+      },
+      { "name": "CashMoon", "link": "https://music.163.com/artist?id=34516758" }
+    ],
+    "album": {
+      "name": "NO LIE",
+      "link": "https://music.163.com/album?id=124029499"
+    }
+  },
+  {
+    "name": "Dead Inside",
+    "link": "https://music.163.com/song?id=1447070189",
+    "duration": "02:47",
+    "artists": [
+      { "name": "LØLØ", "link": "https://music.163.com/artist?id=14084651" }
+    ],
+    "album": {
+      "name": "Dead Inside",
+      "link": "https://music.163.com/album?id=89261694"
+    }
+  },
+  {
+    "name": "Dizzy",
+    "link": "https://music.163.com/song?id=1333336620",
+    "duration": "02:49",
+    "artists": [
+      {
+        "name": "Lucy Daydream",
+        "link": "https://music.163.com/artist?id=28763347"
+      }
+    ],
+    "album": {
+      "name": "Dizzy / Awake & Dreaming",
+      "link": "https://music.163.com/album?id=74878355"
+    }
+  },
+  {
+    "name": "Once Upon A Time (Extended Mix)",
+    "link": "https://music.163.com/song?id=414118931",
+    "duration": "04:46",
+    "artists": [
+      {
+        "name": "Kill The Buzz",
+        "link": "https://music.163.com/artist?id=331525"
+      },
+      { "name": "Harrison", "link": "https://music.163.com/artist?id=34714" }
+    ],
+    "album": {
+      "name": "Once Upon A Time",
+      "link": "https://music.163.com/album?id=34700665"
+    }
+  },
+  {
+    "name": "What It Is",
+    "link": "https://music.163.com/song?id=26429499",
+    "duration": "03:49",
+    "artists": [
+      { "name": "Kodaline", "link": "https://music.163.com/artist?id=727007" }
+    ],
+    "album": {
+      "name": "Love Like This EP",
+      "link": "https://music.163.com/album?id=2499085"
+    }
+  },
+  {
+    "name": "80's Girl (Original Mix)",
+    "link": "https://music.163.com/song?id=544820910",
+    "duration": "03:56",
+    "artists": [
+      { "name": "Nina", "link": "https://music.163.com/artist?id=149874" }
+    ],
+    "album": {
+      "name": "Sleepwalking",
+      "link": "https://music.163.com/album?id=37918088"
+    }
+  },
+  {
+    "name": "One Day (Pop Edit)",
+    "link": "https://music.163.com/song?id=5109944",
+    "duration": "03:40",
+    "artists": [
+      { "name": "Matisyahu", "link": "https://music.163.com/artist?id=38945" },
+      { "name": "Akon", "link": "https://music.163.com/artist?id=27595" }
+    ],
+    "album": {
+      "name": "Promo.Only.Mainstream.Radio.January.2010",
+      "link": "https://music.163.com/album?id=504452"
+    }
+  },
+  {
+    "name": "One World (Extended Mix)",
+    "link": "https://music.163.com/song?id=427419429",
+    "duration": "04:41",
+    "artists": [
+      {
+        "name": "Swanky Tunes",
+        "link": "https://music.163.com/artist?id=206627"
+      },
+      { "name": "Dropgun", "link": "https://music.163.com/artist?id=972015" },
+      { "name": "RAIGN", "link": "https://music.163.com/artist?id=916093" }
+    ],
+    "album": {
+      "name": "One World",
+      "link": "https://music.163.com/album?id=34841215"
+    }
+  },
+  {
+    "name": "Somebody New",
+    "link": "https://music.163.com/song?id=523001614",
+    "duration": "03:10",
+    "artists": [
+      { "name": "Faustix", "link": "https://music.163.com/artist?id=1155054" },
+      {
+        "name": "Alexander Oscar",
+        "link": "https://music.163.com/artist?id=12312150"
+      }
+    ],
+    "album": {
+      "name": "Faustix",
+      "link": "https://music.163.com/album?id=36900296"
+    }
+  },
+  {
+    "name": "Dancing in the Dark",
+    "link": "https://music.163.com/song?id=1473895390",
+    "duration": "03:47",
+    "artists": [
+      {
+        "name": "Imaginary Future",
+        "link": "https://music.163.com/artist?id=1146045"
+      }
+    ],
+    "album": {
+      "name": "Dancing in the Dark",
+      "link": "https://music.163.com/album?id=94463144"
+    }
+  },
+  {
+    "name": "Fearless Pt. II",
+    "link": "https://music.163.com/song?id=529391087",
+    "duration": "03:14",
+    "artists": [
+      { "name": "Tule", "link": "https://music.163.com/artist?id=12676322" },
+      {
+        "name": "Chris Linton",
+        "link": "https://music.163.com/artist?id=14297663"
+      }
+    ],
+    "album": {
+      "name": "NCS: The Best of 2017",
+      "link": "https://music.163.com/album?id=37099494"
+    }
+  },
+  {
+    "name": "Kaleidoscope",
+    "link": "https://music.163.com/song?id=36307702",
+    "duration": "03:49",
+    "artists": [
+      {
+        "name": "A Great Big World",
+        "link": "https://music.163.com/artist?id=843001"
+      }
+    ],
+    "album": {
+      "name": "When the Morning Comes",
+      "link": "https://music.163.com/album?id=3378069"
+    }
+  },
+  {
+    "name": "Father",
+    "link": "https://music.163.com/song?id=19728122",
+    "duration": "02:50",
+    "artists": [
+      { "name": "Dala", "link": "https://music.163.com/artist?id=53246" }
+    ],
+    "album": {
+      "name": "Best Day",
+      "link": "https://music.163.com/album?id=1820382"
+    }
+  },
+  {
+    "name": "Lovers",
+    "link": "https://music.163.com/song?id=428095141",
+    "duration": "06:14",
+    "artists": [
+      {
+        "name": "Timecop1983",
+        "link": "https://music.163.com/artist?id=954496"
+      },
+      { "name": "SEAWAVES", "link": "https://music.163.com/artist?id=12263678" }
+    ],
+    "album": {
+      "name": "Lovers",
+      "link": "https://music.163.com/album?id=34860054"
+    }
+  },
+  {
+    "name": "Take You There",
+    "link": "https://music.163.com/song?id=531181453",
+    "duration": "03:14",
+    "artists": [
+      {
+        "name": "Chase McBride",
+        "link": "https://music.163.com/artist?id=89854"
+      }
+    ],
+    "album": {
+      "name": "Green Shade",
+      "link": "https://music.163.com/album?id=37252283"
+    }
+  },
+  {
+    "name": "Zoned Out In My Youth",
+    "link": "https://music.163.com/song?id=1819964866",
+    "duration": "03:37",
+    "artists": [
+      {
+        "name": "Unlike Pluto",
+        "link": "https://music.163.com/artist?id=860945"
+      }
+    ],
+    "album": {
+      "name": "Zoned Out In My Youth",
+      "link": "https://music.163.com/album?id=122997951"
+    }
+  },
+  {
+    "name": "Selfish Love",
+    "link": "https://music.163.com/song?id=1826915871",
+    "duration": "02:48",
+    "artists": [
+      {
+        "name": "Selena Gomez",
+        "link": "https://music.163.com/artist?id=140196"
+      },
+      { "name": "DJ Snake", "link": "https://music.163.com/artist?id=296416" }
+    ],
+    "album": {
+      "name": "Revelación - EP",
+      "link": "https://music.163.com/album?id=124251779"
+    }
+  }
+]

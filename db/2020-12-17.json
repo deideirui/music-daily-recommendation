@@ -1,0 +1,455 @@
+[
+  {
+    "name": "Save Me (Ciaran McAuley Remix)",
+    "link": "https://music.163.com/song?id=1371507073",
+    "duration": "03:42",
+    "artists": [
+      { "name": "Shogun", "link": "https://music.163.com/artist?id=43743" },
+      {
+        "name": "Emma Lock ",
+        "link": "https://music.163.com/artist?id=896132"
+      },
+      {
+        "name": "Ciaran McAuley",
+        "link": "https://music.163.com/artist?id=520913"
+      }
+    ],
+    "album": {
+      "name": "Save Me (Ciaran McAuley Remix)",
+      "link": "https://music.163.com/album?id=79768242"
+    }
+  },
+  {
+    "name": "Just Like Me",
+    "link": "https://music.163.com/song?id=1419951729",
+    "duration": "02:42",
+    "artists": [
+      {
+        "name": "The Tech Thieves",
+        "link": "https://music.163.com/artist?id=12080267"
+      }
+    ],
+    "album": {
+      "name": "Just Like Me",
+      "link": "https://music.163.com/album?id=85362270"
+    }
+  },
+  {
+    "name": "Found Us (feat. Luma)",
+    "link": "https://music.163.com/song?id=1388285645",
+    "duration": "03:44",
+    "artists": [
+      {
+        "name": "Last Heroes",
+        "link": "https://music.163.com/artist?id=11987034"
+      },
+      { "name": "Luma", "link": "https://music.163.com/artist?id=211460" }
+    ],
+    "album": {
+      "name": "Moments EP",
+      "link": "https://music.163.com/album?id=81318000"
+    }
+  },
+  {
+    "name": "By My Side (Craig Connelly Remix)",
+    "link": "https://music.163.com/song?id=1320306108",
+    "duration": "03:47",
+    "artists": [
+      {
+        "name": "Bryan Kearney",
+        "link": "https://music.163.com/artist?id=148763"
+      },
+      {
+        "name": "Christina Novelli",
+        "link": "https://music.163.com/artist?id=840292"
+      },
+      {
+        "name": "Craig Connelly",
+        "link": "https://music.163.com/artist?id=191566"
+      }
+    ],
+    "album": {
+      "name": "By My Side (Craig Connelly Remix)",
+      "link": "https://music.163.com/album?id=74084216"
+    }
+  },
+  {
+    "name": "The Real You",
+    "link": "https://music.163.com/song?id=1294731612",
+    "duration": "03:52",
+    "artists": [
+      { "name": "Andy Moor", "link": "https://music.163.com/artist?id=28854" },
+      {
+        "name": "Becky Jean Williams",
+        "link": "https://music.163.com/artist?id=283439"
+      }
+    ],
+    "album": {
+      "name": "The Real You",
+      "link": "https://music.163.com/album?id=71891492"
+    }
+  },
+  {
+    "name": "Lean Back",
+    "link": "https://music.163.com/song?id=1389210080",
+    "duration": "02:56",
+    "artists": [
+      { "name": "Ruhde", "link": "https://music.163.com/artist?id=12560506" }
+    ],
+    "album": {
+      "name": "Lean Back",
+      "link": "https://music.163.com/album?id=81427638"
+    }
+  },
+  {
+    "name": "The Light",
+    "link": "https://music.163.com/song?id=28223365",
+    "duration": "02:57",
+    "artists": [
+      { "name": "Omnia", "link": "https://music.163.com/artist?id=179006" }
+    ],
+    "album": {
+      "name": "Markus Schulz presents Coldharbour Recordings - Best Of 2013",
+      "link": "https://music.163.com/album?id=2756335"
+    }
+  },
+  {
+    "name": "Something Strange",
+    "link": "https://music.163.com/song?id=1320858202",
+    "duration": "03:09",
+    "artists": [
+      { "name": "Vicetone", "link": "https://music.163.com/artist?id=747030" },
+      {
+        "name": "Haley Reinhart",
+        "link": "https://music.163.com/artist?id=60315"
+      }
+    ],
+    "album": {
+      "name": "Something Strange ",
+      "link": "https://music.163.com/album?id=74120450"
+    }
+  },
+  {
+    "name": "It Kinda Hurts",
+    "link": "https://music.163.com/song?id=1313052840",
+    "duration": "03:27",
+    "artists": [
+      {
+        "name": "Skyler Stonestreet",
+        "link": "https://music.163.com/artist?id=77899"
+      }
+    ],
+    "album": {
+      "name": "It Kinda Hurts",
+      "link": "https://music.163.com/album?id=73681693"
+    }
+  },
+  {
+    "name": "Taking Over (ft. Miyoki)",
+    "link": "https://music.163.com/song?id=29484193",
+    "duration": "03:42",
+    "artists": [
+      {
+        "name": "Rob Gasser",
+        "link": "https://music.163.com/artist?id=762199"
+      },
+      { "name": "Miyoki", "link": "https://music.163.com/artist?id=1132062" }
+    ],
+    "album": {
+      "name": "Get Mad EP",
+      "link": "https://music.163.com/album?id=3031713"
+    }
+  },
+  {
+    "name": "Empty (Original mix)",
+    "link": "https://music.163.com/song?id=514121385",
+    "duration": "06:01",
+    "artists": [
+      { "name": "Winterya", "link": "https://music.163.com/artist?id=12777977" }
+    ],
+    "album": {
+      "name": "Empty / Limerence",
+      "link": "https://music.163.com/album?id=36637362"
+    }
+  },
+  {
+    "name": "Libra",
+    "link": "https://music.163.com/song?id=513357631",
+    "duration": "04:07",
+    "artists": [
+      {
+        "name": "Xan Griffin",
+        "link": "https://music.163.com/artist?id=11987050"
+      }
+    ],
+    "album": {
+      "name": "Libra",
+      "link": "https://music.163.com/album?id=36583121"
+    }
+  },
+  {
+    "name": "I Miss You",
+    "link": "https://music.163.com/song?id=419250748",
+    "duration": "04:48",
+    "artists": [
+      {
+        "name": "Misael Gauna ",
+        "link": "https://music.163.com/artist?id=1054136"
+      },
+      {
+        "name": "Noctilucent",
+        "link": "https://music.163.com/artist?id=1150036"
+      }
+    ],
+    "album": {
+      "name": "I Miss You",
+      "link": "https://music.163.com/album?id=34753239"
+    }
+  },
+  {
+    "name": "Wave",
+    "link": "https://music.163.com/song?id=1335968714",
+    "duration": "04:31",
+    "artists": [
+      {
+        "name": "The Midnight",
+        "link": "https://music.163.com/artist?id=12023492"
+      }
+    ],
+    "album": {
+      "name": "Kids",
+      "link": "https://music.163.com/album?id=74997854"
+    }
+  },
+  {
+    "name": "Hearts Racing",
+    "link": "https://music.163.com/song?id=1435569761",
+    "duration": "02:39",
+    "artists": [
+      {
+        "name": "Julio Cruz",
+        "link": "https://music.163.com/artist?id=30487695"
+      },
+      {
+        "name": "Dylan Matthew",
+        "link": "https://music.163.com/artist?id=28684353"
+      }
+    ],
+    "album": {
+      "name": "Hearts Racing",
+      "link": "https://music.163.com/album?id=87064964"
+    }
+  },
+  {
+    "name": "Love Is Everywhere (Satin Jackets Remix)",
+    "link": "https://music.163.com/song?id=1463406419",
+    "duration": "04:31",
+    "artists": [
+      { "name": "NTEIBINT", "link": "https://music.163.com/artist?id=333266" },
+      {
+        "name": "Matina Sous Peau",
+        "link": "https://music.163.com/artist?id=12845086"
+      }
+    ],
+    "album": {
+      "name": "Love Is Everywhere (Satin Jackets Remix)",
+      "link": "https://music.163.com/album?id=92572974"
+    }
+  },
+  {
+    "name": "Physical",
+    "link": "https://music.163.com/song?id=1433933823",
+    "duration": "03:13",
+    "artists": [
+      { "name": "Dua Lipa", "link": "https://music.163.com/artist?id=1135086" }
+    ],
+    "album": {
+      "name": "Future Nostalgia",
+      "link": "https://music.163.com/album?id=86827685"
+    }
+  },
+  {
+    "name": "After the Rain",
+    "link": "https://music.163.com/song?id=5208206",
+    "duration": "04:10",
+    "artists": [
+      { "name": "Kevin Kern", "link": "https://music.163.com/artist?id=37518" }
+    ],
+    "album": {
+      "name": "Quiet Days",
+      "link": "https://music.163.com/album?id=509093"
+    }
+  },
+  {
+    "name": "Popcorn",
+    "link": "https://music.163.com/song?id=1381333612",
+    "duration": "03:10",
+    "artists": [
+      {
+        "name": "Culture Code",
+        "link": "https://music.163.com/artist?id=1049930"
+      }
+    ],
+    "album": {
+      "name": "Popcorn",
+      "link": "https://music.163.com/album?id=80715988"
+    }
+  },
+  {
+    "name": "Monday Night",
+    "link": "https://music.163.com/song?id=29748073",
+    "duration": "06:37",
+    "artists": [
+      {
+        "name": "Gregory Esayan",
+        "link": "https://music.163.com/artist?id=193198"
+      },
+      { "name": "武川アイ", "link": "https://music.163.com/artist?id=17979" }
+    ],
+    "album": {
+      "name": "Impressionism",
+      "link": "https://music.163.com/album?id=3056668"
+    }
+  },
+  {
+    "name": "Rave",
+    "link": "https://music.163.com/song?id=1374313067",
+    "duration": "03:25",
+    "artists": [
+      { "name": "Steve Aoki", "link": "https://music.163.com/artist?id=43608" },
+      { "name": "Showtek", "link": "https://music.163.com/artist?id=100696" },
+      { "name": "MAKJ", "link": "https://music.163.com/artist?id=725091" },
+      { "name": "Kris Kiss", "link": "https://music.163.com/artist?id=1131001" }
+    ],
+    "album": {
+      "name": "Rave",
+      "link": "https://music.163.com/album?id=80028162"
+    }
+  },
+  {
+    "name": "Venger",
+    "link": "https://music.163.com/song?id=437290998",
+    "duration": "05:08",
+    "artists": [
+      {
+        "name": "Perturbator",
+        "link": "https://music.163.com/artist?id=768308"
+      },
+      {
+        "name": "Greta Link",
+        "link": "https://music.163.com/artist?id=29862827"
+      }
+    ],
+    "album": {
+      "name": "The Uncanny Valley",
+      "link": "https://music.163.com/album?id=34943328"
+    }
+  },
+  {
+    "name": "Yearmix 2018",
+    "link": "https://music.163.com/song?id=1371382383",
+    "duration": "10:23",
+    "artists": [
+      { "name": "NEXU", "link": "https://music.163.com/artist?id=11971041" }
+    ],
+    "album": {
+      "name": "Yearmix 2018",
+      "link": "https://music.163.com/album?id=79756633"
+    }
+  },
+  {
+    "name": "PopLove 5  (Mashup Of 2016)",
+    "link": "https://music.163.com/song?id=447925079",
+    "duration": "12:24",
+    "artists": [
+      {
+        "name": "Robin Skouteris",
+        "link": "https://music.163.com/artist?id=956375"
+      }
+    ],
+    "album": {
+      "name": "PopLove 5 (Mashup Of 2016)",
+      "link": "https://music.163.com/album?id=35068026"
+    }
+  },
+  {
+    "name": "ODYSSEY",
+    "link": "https://music.163.com/song?id=28323519",
+    "duration": "04:18",
+    "artists": [
+      {
+        "name": "Dance With The Dead",
+        "link": "https://music.163.com/artist?id=999192"
+      }
+    ],
+    "album": {
+      "name": "INTO THE ABYSS",
+      "link": "https://music.163.com/album?id=2776049"
+    }
+  },
+  {
+    "name": "Remind Me (Ice Fish Remix)",
+    "link": "https://music.163.com/song?id=36019651",
+    "duration": "05:19",
+    "artists": [
+      { "name": "Ice Fish", "link": "https://music.163.com/artist?id=1178260" },
+      {
+        "name": "Yeahright!",
+        "link": "https://music.163.com/artist?id=1178261"
+      },
+      { "name": "LoneMoon", "link": "https://music.163.com/artist?id=1177240" }
+    ],
+    "album": {
+      "name": "Remind Me (Ice Fish Remix)",
+      "link": "https://music.163.com/album?id=3367763"
+    }
+  },
+  {
+    "name": "Europe (Aki Amano Remix)",
+    "link": "https://music.163.com/song?id=26062309",
+    "duration": "07:29",
+    "artists": [
+      { "name": "Dunkan", "link": "https://music.163.com/artist?id=336434" }
+    ],
+    "album": {
+      "name": "Europe EP",
+      "link": "https://music.163.com/album?id=2369455"
+    }
+  },
+  {
+    "name": "Transformers (Into The Future)",
+    "link": "https://music.163.com/song?id=4077938",
+    "duration": "03:41",
+    "artists": [
+      { "name": "Futurecop!", "link": "https://music.163.com/artist?id=92841" }
+    ],
+    "album": {
+      "name": "It’s Forever, Kids",
+      "link": "https://music.163.com/album?id=412325"
+    }
+  },
+  {
+    "name": "Empire (Instrumental)",
+    "link": "https://music.163.com/song?id=409830458",
+    "duration": "05:16",
+    "artists": [
+      { "name": "Voicians", "link": "https://music.163.com/artist?id=45804" }
+    ],
+    "album": {
+      "name": "Empire",
+      "link": "https://music.163.com/album?id=34609271"
+    }
+  },
+  {
+    "name": "Digital World",
+    "link": "https://music.163.com/song?id=442867070",
+    "duration": "03:49",
+    "artists": [
+      { "name": "Vorsa", "link": "https://music.163.com/artist?id=1193224" }
+    ],
+    "album": {
+      "name": "Digital World",
+      "link": "https://music.163.com/album?id=35017040"
+    }
+  }
+]

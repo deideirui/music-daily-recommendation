@@ -1,0 +1,434 @@
+[
+  {
+    "name": "a fool",
+    "link": "https://music.163.com/song?id=497784933",
+    "duration": "02:43",
+    "artists": [
+      { "name": "Kawin", "link": "https://music.163.com/artist?id=12052026" }
+    ],
+    "album": {
+      "name": "a fool",
+      "link": "https://music.163.com/album?id=35927704"
+    }
+  },
+  {
+    "name": "Vagrant Poet",
+    "link": "https://music.163.com/song?id=1349618169",
+    "duration": "08:43",
+    "artists": [
+      { "name": "洛仃洋", "link": "https://music.163.com/artist?id=12003051" }
+    ],
+    "album": {
+      "name": "流浪诗歌",
+      "link": "https://music.163.com/album?id=75718356"
+    }
+  },
+  {
+    "name": "Better Apart",
+    "link": "https://music.163.com/song?id=1354608659",
+    "duration": "03:54",
+    "artists": [
+      { "name": "Jai Wolf", "link": "https://music.163.com/artist?id=1063048" },
+      {
+        "name": "Keeley Bumford",
+        "link": "https://music.163.com/artist?id=12845274"
+      }
+    ],
+    "album": {
+      "name": "The Cure To Loneliness",
+      "link": "https://music.163.com/album?id=78300643"
+    }
+  },
+  {
+    "name": "Find You",
+    "link": "https://music.163.com/song?id=464192074",
+    "duration": "03:33",
+    "artists": [
+      { "name": "HIDDN", "link": "https://music.163.com/artist?id=12322027" },
+      { "name": "Beatrich", "link": "https://music.163.com/artist?id=12322300" }
+    ],
+    "album": {
+      "name": "Find You",
+      "link": "https://music.163.com/album?id=35256030"
+    }
+  },
+  {
+    "name": "Ghost (Acoustic)",
+    "link": "https://music.163.com/song?id=1405069977",
+    "duration": "03:37",
+    "artists": [
+      { "name": "Au/Ra", "link": "https://music.163.com/artist?id=12143031" }
+    ],
+    "album": {
+      "name": "Ghost (Acoustic)",
+      "link": "https://music.163.com/album?id=83564378"
+    }
+  },
+  {
+    "name": "今日から思い出 Evergreen ver.",
+    "link": "https://music.163.com/song?id=1306507053",
+    "duration": "05:05",
+    "artists": [
+      { "name": "Aimer", "link": "https://music.163.com/artist?id=16152" }
+    ],
+    "album": {
+      "name": "Black Bird / Tiny Dancers / 思い出は奇麗で",
+      "link": "https://music.163.com/album?id=72072714"
+    }
+  },
+  {
+    "name": "Black & White (Extended Mix)",
+    "link": "https://music.163.com/song?id=408277816",
+    "duration": "04:26",
+    "artists": [
+      { "name": "Suspect 44", "link": "https://music.163.com/artist?id=844408" }
+    ],
+    "album": {
+      "name": "Black & White",
+      "link": "https://music.163.com/album?id=34588590"
+    }
+  },
+  {
+    "name": "Crazy (Dash Berlin Remix)",
+    "link": "https://music.163.com/song?id=536833973",
+    "duration": "03:04",
+    "artists": [
+      {
+        "name": "Lost Frequencies",
+        "link": "https://music.163.com/artist?id=1039114"
+      },
+      {
+        "name": "Zonderling",
+        "link": "https://music.163.com/artist?id=981038"
+      },
+      { "name": "Dash Berlin", "link": "https://music.163.com/artist?id=32124" }
+    ],
+    "album": {
+      "name": "Crazy",
+      "link": "https://music.163.com/album?id=37584516"
+    }
+  },
+  {
+    "name": "for ya",
+    "link": "https://music.163.com/song?id=1840465403",
+    "duration": "02:33",
+    "artists": [
+      { "name": "Zarrilli", "link": "https://music.163.com/artist?id=34856172" }
+    ],
+    "album": {
+      "name": "for ya",
+      "link": "https://music.163.com/album?id=126585942"
+    }
+  },
+  {
+    "name": "Walk Thru Fire",
+    "link": "https://music.163.com/song?id=1332041346",
+    "duration": "03:14",
+    "artists": [
+      { "name": "Vicetone", "link": "https://music.163.com/artist?id=747030" },
+      {
+        "name": "Meron Ryan",
+        "link": "https://music.163.com/artist?id=1181020"
+      }
+    ],
+    "album": {
+      "name": "Monstercat - Best of 2018",
+      "link": "https://music.163.com/album?id=74818484"
+    }
+  },
+  {
+    "name": "Young Again (Radio Edit)",
+    "link": "https://music.163.com/song?id=29554109",
+    "duration": "03:39",
+    "artists": [
+      { "name": "Hardwell", "link": "https://music.163.com/artist?id=34994" },
+      { "name": "Chris Jones", "link": "https://music.163.com/artist?id=52331" }
+    ],
+    "album": {
+      "name": "Young Again",
+      "link": "https://music.163.com/album?id=3046048"
+    }
+  },
+  {
+    "name": "Northern Lights",
+    "link": "https://music.163.com/song?id=1351963606",
+    "duration": "05:00",
+    "artists": [
+      {
+        "name": "Third Party",
+        "link": "https://music.163.com/artist?id=784231"
+      }
+    ],
+    "album": {
+      "name": "Together LP",
+      "link": "https://music.163.com/album?id=75852072"
+    }
+  },
+  {
+    "name": "These Heights",
+    "link": "https://music.163.com/song?id=475264147",
+    "duration": "03:03",
+    "artists": [
+      {
+        "name": "Lucas & Steve",
+        "link": "https://music.163.com/artist?id=1039527"
+      },
+      {
+        "name": "Bassjackers",
+        "link": "https://music.163.com/artist?id=268447"
+      },
+      {
+        "name": "Caroline Pennell",
+        "link": "https://music.163.com/artist?id=837233"
+      }
+    ],
+    "album": {
+      "name": "These Heights",
+      "link": "https://music.163.com/album?id=35448083"
+    }
+  },
+  {
+    "name": "In The Name Of Love",
+    "link": "https://music.163.com/song?id=423227295",
+    "duration": "03:18",
+    "artists": [
+      {
+        "name": "Martin Garrix",
+        "link": "https://music.163.com/artist?id=780003"
+      },
+      { "name": "Bebe Rexha", "link": "https://music.163.com/artist?id=336466" }
+    ],
+    "album": {
+      "name": "In The Name Of Love",
+      "link": "https://music.163.com/album?id=34791602"
+    }
+  },
+  {
+    "name": "LOSER",
+    "link": "https://music.163.com/song?id=512359195",
+    "duration": "04:03",
+    "artists": [
+      { "name": "米津玄師", "link": "https://music.163.com/artist?id=159300" }
+    ],
+    "album": {
+      "name": "BOOTLEG",
+      "link": "https://music.163.com/album?id=36529043"
+    }
+  },
+  {
+    "name": "Rage Your Dream - (TV动画《头文字D》ED1)",
+    "link": "https://music.163.com/song?id=28823239",
+    "duration": "04:31",
+    "artists": [
+      { "name": "m.o.v.e", "link": "https://music.163.com/artist?id=20466" }
+    ],
+    "album": {
+      "name": "頭文字D Final Best Collection",
+      "link": "https://music.163.com/album?id=2898907"
+    }
+  },
+  {
+    "name": "Whistle",
+    "link": "https://music.163.com/song?id=28329963",
+    "duration": "03:44",
+    "artists": [
+      { "name": "Flo Rida", "link": "https://music.163.com/artist?id=56783" }
+    ],
+    "album": {
+      "name": "W9 Hits 2013",
+      "link": "https://music.163.com/album?id=2776724"
+    }
+  },
+  {
+    "name": "I Want It That Way",
+    "link": "https://music.163.com/song?id=3950552",
+    "duration": "03:35",
+    "artists": [
+      {
+        "name": "Backstreet Boys",
+        "link": "https://music.163.com/artist?id=88148"
+      }
+    ],
+    "album": {
+      "name": "I Want It That Way",
+      "link": "https://music.163.com/album?id=399654"
+    }
+  },
+  {
+    "name": "The Fear",
+    "link": "https://music.163.com/song?id=1343458352",
+    "duration": "03:03",
+    "artists": [
+      { "name": "The Score", "link": "https://music.163.com/artist?id=212904" }
+    ],
+    "album": {
+      "name": "Pressure",
+      "link": "https://music.163.com/album?id=75404138"
+    }
+  },
+  {
+    "name": "くちなしの言葉 - (沉默之语)",
+    "link": "https://music.163.com/song?id=1391228950",
+    "duration": "05:28",
+    "artists": [
+      { "name": "みゆな", "link": "https://music.163.com/artist?id=30110388" }
+    ],
+    "album": {
+      "name": "ユラレル",
+      "link": "https://music.163.com/album?id=81675046"
+    }
+  },
+  {
+    "name": "Sea（海）",
+    "link": "https://music.163.com/song?id=1465424152",
+    "duration": "02:49",
+    "artists": [
+      {
+        "name": "Pam_dinosaur",
+        "link": "https://music.163.com/artist?id=30960989"
+      }
+    ],
+    "album": {
+      "name": "Gentle as water",
+      "link": "https://music.163.com/album?id=92847500"
+    }
+  },
+  {
+    "name": "Too Far",
+    "link": "https://music.163.com/song?id=28442976",
+    "duration": "03:59",
+    "artists": [
+      { "name": "Anna F", "link": "https://music.163.com/artist?id=48012" }
+    ],
+    "album": {
+      "name": "King in the Mirror",
+      "link": "https://music.163.com/album?id=2794113"
+    }
+  },
+  {
+    "name": "ハレハレヤ",
+    "link": "https://music.163.com/song?id=1834619488",
+    "duration": "03:30",
+    "artists": [
+      { "name": "多多poi", "link": "https://music.163.com/artist?id=29026799" }
+    ],
+    "album": {
+      "name": "朗朗晴天",
+      "link": "https://music.163.com/album?id=125550823"
+    }
+  },
+  {
+    "name": "Birthplace",
+    "link": "https://music.163.com/song?id=866045310",
+    "duration": "03:10",
+    "artists": [
+      { "name": "Novo Amor", "link": "https://music.163.com/artist?id=904041" }
+    ],
+    "album": {
+      "name": "Birthplace",
+      "link": "https://music.163.com/album?id=71809380"
+    }
+  },
+  {
+    "name": "Apologize",
+    "link": "https://music.163.com/song?id=24953439",
+    "duration": "03:28",
+    "artists": [
+      { "name": "OneRepublic", "link": "https://music.163.com/artist?id=98105" }
+    ],
+    "album": {
+      "name": "2009 GRAMMY Nominees",
+      "link": "https://music.163.com/album?id=2206679"
+    }
+  },
+  {
+    "name": "让风告诉你 - (游戏《原神》2021拜年纪同人曲)",
+    "link": "https://music.163.com/song?id=1818031620",
+    "duration": "03:46",
+    "artists": [
+      { "name": "花玲", "link": "https://music.163.com/artist?id=14885023" },
+      { "name": "喵☆酱", "link": "https://music.163.com/artist?id=12373281" },
+      { "name": "宴宁", "link": "https://music.163.com/artist?id=33950005" },
+      { "name": "kinsen", "link": "https://music.163.com/artist?id=34314105" }
+    ],
+    "album": {
+      "name": "让风告诉你",
+      "link": "https://music.163.com/album?id=122627929"
+    }
+  },
+  {
+    "name": "Youth",
+    "link": "https://music.163.com/song?id=1356537558",
+    "duration": "04:04",
+    "artists": [
+      {
+        "name": "ナナヲアカリ",
+        "link": "https://music.163.com/artist?id=28083218"
+      }
+    ],
+    "album": {
+      "name": "しあわせシンドローム",
+      "link": "https://music.163.com/album?id=78326371"
+    }
+  },
+  {
+    "name": "Truly Yours",
+    "link": "https://music.163.com/song?id=419646470",
+    "duration": "03:34",
+    "artists": [
+      { "name": "Fether", "link": "https://music.163.com/artist?id=12069059" }
+    ],
+    "album": {
+      "name": "Truly Yours",
+      "link": "https://music.163.com/album?id=34751292"
+    }
+  },
+  {
+    "name": "Sia-Dusk Till Dawn（愉先生 remix）",
+    "link": "https://music.163.com/song?id=1419876257",
+    "duration": "04:16",
+    "artists": [
+      { "name": "愉先生", "link": "https://music.163.com/artist?id=34205567" }
+    ],
+    "album": {
+      "name": "灵魂唯一的两年",
+      "link": "https://music.163.com/album?id=85235138"
+    }
+  },
+  {
+    "name": "Cheerleader",
+    "link": "https://music.163.com/song?id=1481531009",
+    "duration": "02:41",
+    "artists": [
+      { "name": "Doxx", "link": "https://music.163.com/artist?id=199866" }
+    ],
+    "album": {
+      "name": "Cheerleader",
+      "link": "https://music.163.com/album?id=95812479"
+    }
+  },
+  {
+    "name": "We Are The Brave",
+    "link": "https://music.163.com/song?id=525240439",
+    "duration": "02:43",
+    "artists": [
+      { "name": "Lenka", "link": "https://music.163.com/artist?id=64143" }
+    ],
+    "album": {
+      "name": "We Are The Brave",
+      "link": "https://music.163.com/album?id=37027147"
+    }
+  },
+  {
+    "name": "checkmate - (电影《狂赌之渊 2》主题曲)",
+    "link": "https://music.163.com/song?id=1837072144",
+    "duration": "03:21",
+    "artists": [
+      { "name": "milet", "link": "https://music.163.com/artist?id=31464106" }
+    ],
+    "album": {
+      "name": "checkmate",
+      "link": "https://music.163.com/album?id=125946098"
+    }
+  }
+]

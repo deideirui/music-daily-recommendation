@@ -1,0 +1,437 @@
+[
+  {
+    "name": "The Way I Like It",
+    "link": "https://music.163.com/song?id=3163006",
+    "duration": "03:14",
+    "artists": [
+      {
+        "name": "Mandy Capristo",
+        "link": "https://music.163.com/artist?id=69268"
+      }
+    ],
+    "album": {
+      "name": "Grace (iTunes Edition)",
+      "link": "https://music.163.com/album?id=320115"
+    }
+  },
+  {
+    "name": "Tu Me Manques",
+    "link": "https://music.163.com/song?id=3413713",
+    "duration": "03:56",
+    "artists": [
+      {
+        "name": "Sheryfa Luna",
+        "link": "https://music.163.com/artist?id=74680"
+      }
+    ],
+    "album": {
+      "name": "Si Tu Me Vois",
+      "link": "https://music.163.com/album?id=345890"
+    }
+  },
+  {
+    "name": "J'Ai Pas Vingt Ans !",
+    "link": "https://music.163.com/song?id=2117026",
+    "duration": "04:19",
+    "artists": [
+      { "name": "Alizée", "link": "https://music.163.com/artist?id=130638" }
+    ],
+    "album": {
+      "name": "Mes Courants Electriques",
+      "link": "https://music.163.com/album?id=213253"
+    }
+  },
+  {
+    "name": "Not Gonna Leave You",
+    "link": "https://music.163.com/song?id=1360875167",
+    "duration": "03:03",
+    "artists": [
+      { "name": "Wallaby", "link": "https://music.163.com/artist?id=12086070" },
+      { "name": "NEIMY", "link": "https://music.163.com/artist?id=12742289" }
+    ],
+    "album": {
+      "name": "Not Gonna Leave You",
+      "link": "https://music.163.com/album?id=78727722"
+    }
+  },
+  {
+    "name": "Un Ange Frappe à Ma Porte",
+    "link": "https://music.163.com/song?id=3165930",
+    "duration": "04:08",
+    "artists": [
+      {
+        "name": "Natasha St. Pier",
+        "link": "https://music.163.com/artist?id=69336"
+      }
+    ],
+    "album": {
+      "name": "Tu Trouveras",
+      "link": "https://music.163.com/album?id=320353"
+    }
+  },
+  {
+    "name": "Wanna Say",
+    "link": "https://music.163.com/song?id=2920881",
+    "duration": "03:26",
+    "artists": [
+      { "name": "Kat Graham", "link": "https://music.163.com/artist?id=63998" }
+    ],
+    "album": {
+      "name": "Against The Wall",
+      "link": "https://music.163.com/album?id=294955"
+    }
+  },
+  {
+    "name": "Autumn Tactics",
+    "link": "https://music.163.com/song?id=533471408",
+    "duration": "04:55",
+    "artists": [
+      { "name": "Chicane", "link": "https://music.163.com/artist?id=50971" }
+    ],
+    "album": {
+      "name": "Behind The Sun (Deluxe Version) [Remastered]",
+      "link": "https://music.163.com/album?id=37422521"
+    }
+  },
+  {
+    "name": "Smiling Down On Me",
+    "link": "https://music.163.com/song?id=1423294",
+    "duration": "03:14",
+    "artists": [
+      { "name": "Galen Crew", "link": "https://music.163.com/artist?id=34435" }
+    ],
+    "album": {
+      "name": "Better Than a Fairy Tale",
+      "link": "https://music.163.com/album?id=145852"
+    }
+  },
+  {
+    "name": "浅❀",
+    "link": "https://music.163.com/song?id=1428767685",
+    "duration": "03:00",
+    "artists": [
+      {
+        "name": "Cyan Lpegd",
+        "link": "https://music.163.com/artist?id=12052050"
+      },
+      { "name": "Ryan有光", "link": "https://music.163.com/artist?id=12185226" }
+    ],
+    "album": {
+      "name": "浅❀",
+      "link": "https://music.163.com/album?id=86288962"
+    }
+  },
+  {
+    "name": "沃野",
+    "link": "https://music.163.com/song?id=1409420475",
+    "duration": "04:42",
+    "artists": [
+      { "name": "李化禹", "link": "https://music.163.com/artist?id=12291617" }
+    ],
+    "album": {
+      "name": "无穷行",
+      "link": "https://music.163.com/album?id=84025503"
+    }
+  },
+  {
+    "name": "Feuille d'automne",
+    "link": "https://music.163.com/song?id=29922138",
+    "duration": "04:01",
+    "artists": [
+      { "name": "Indila", "link": "https://music.163.com/artist?id=199144" }
+    ],
+    "album": {
+      "name": "Mini World (Deluxe)",
+      "link": "https://music.163.com/album?id=3087017"
+    }
+  },
+  {
+    "name": "Holiday (DJ Antoine vs Mad Mark 2k15 Radio Edit)",
+    "link": "https://music.163.com/song?id=33682933",
+    "duration": "03:31",
+    "artists": [
+      { "name": "DJ Antoine", "link": "https://music.163.com/artist?id=32271" },
+      { "name": "Akon", "link": "https://music.163.com/artist?id=27595" }
+    ],
+    "album": {
+      "name": "Holiday",
+      "link": "https://music.163.com/album?id=3233379"
+    }
+  },
+  {
+    "name": "Dreaming About You",
+    "link": "https://music.163.com/song?id=29460433",
+    "duration": "03:49",
+    "artists": [
+      { "name": "Betty Who", "link": "https://music.163.com/artist?id=832218" }
+    ],
+    "album": {
+      "name": "Take Me When You Go",
+      "link": "https://music.163.com/album?id=3015051"
+    }
+  },
+  {
+    "name": "Twenty Something",
+    "link": "https://music.163.com/song?id=1355153108",
+    "duration": "04:37",
+    "artists": [
+      { "name": "Nightly", "link": "https://music.163.com/artist?id=12107608" }
+    ],
+    "album": {
+      "name": "Twenty Something",
+      "link": "https://music.163.com/album?id=78243726"
+    }
+  },
+  {
+    "name": "All I Ever Wanted (Radio Edit)",
+    "link": "https://music.163.com/song?id=16642894",
+    "duration": "02:56",
+    "artists": [
+      { "name": "Basshunter", "link": "https://music.163.com/artist?id=29352" }
+    ],
+    "album": {
+      "name": "All I Ever Wanted",
+      "link": "https://music.163.com/album?id=1535226"
+    }
+  },
+  {
+    "name": "Heart water(Prod. JayDot)",
+    "link": "https://music.163.com/song?id=1412212771",
+    "duration": "03:17",
+    "artists": [
+      {
+        "name": "Sukana Luyee",
+        "link": "https://music.163.com/artist?id=12059057"
+      }
+    ],
+    "album": {
+      "name": "Neurosis",
+      "link": "https://music.163.com/album?id=84360746"
+    }
+  },
+  {
+    "name": "孤龙山-主场景",
+    "link": "https://music.163.com/song?id=416388015",
+    "duration": "02:48",
+    "artists": [
+      { "name": "徐梦圆", "link": "https://music.163.com/artist?id=1142042" }
+    ],
+    "album": {
+      "name": "孤龙山OST",
+      "link": "https://music.163.com/album?id=34731014"
+    }
+  },
+  {
+    "name": "Sometimes",
+    "link": "https://music.163.com/song?id=1352734671",
+    "duration": "03:02",
+    "artists": [
+      { "name": "DallasK", "link": "https://music.163.com/artist?id=282095" },
+      {
+        "name": "Nicky Romero",
+        "link": "https://music.163.com/artist?id=195142"
+      },
+      { "name": "XYLØ", "link": "https://music.163.com/artist?id=1050511" }
+    ],
+    "album": {
+      "name": "Sometimes",
+      "link": "https://music.163.com/album?id=75883439"
+    }
+  },
+  {
+    "name": "Instant Gratification (Marky Style & Guy Gabriel Remix)",
+    "link": "https://music.163.com/song?id=524231211",
+    "duration": "03:27",
+    "artists": [
+      {
+        "name": "Miranda Glory",
+        "link": "https://music.163.com/artist?id=12463504"
+      },
+      {
+        "name": "Marky Style",
+        "link": "https://music.163.com/artist?id=12302135"
+      },
+      {
+        "name": "Guy Gabriel",
+        "link": "https://music.163.com/artist?id=13133238"
+      }
+    ],
+    "album": {
+      "name": "Instant Gratification (Remixes)",
+      "link": "https://music.163.com/album?id=36901478"
+    }
+  },
+  {
+    "name": "interlude",
+    "link": "https://music.163.com/song?id=1295377392",
+    "duration": "01:40",
+    "artists": [
+      { "name": "Ryan有光", "link": "https://music.163.com/artist?id=12185226" }
+    ],
+    "album": {
+      "name": "Resistant.",
+      "link": "https://music.163.com/album?id=71775480"
+    }
+  },
+  {
+    "name": "SummerRain",
+    "link": "https://music.163.com/song?id=548206285",
+    "duration": "04:14",
+    "artists": [
+      { "name": "Phase Ⅱ", "link": "https://music.163.com/artist?id=12346587" }
+    ],
+    "album": {
+      "name": "SummerRain",
+      "link": "https://music.163.com/album?id=38037238"
+    }
+  },
+  {
+    "name": "Fast Forward",
+    "link": "https://music.163.com/song?id=2175266",
+    "duration": "03:14",
+    "artists": [
+      {
+        "name": "Amy Deasismont",
+        "link": "https://music.163.com/artist?id=12049097"
+      }
+    ],
+    "album": {
+      "name": "Swings & Roundabouts",
+      "link": "https://music.163.com/album?id=219340"
+    }
+  },
+  {
+    "name": "Nothing Stopping Me",
+    "link": "https://music.163.com/song?id=33166857",
+    "duration": "03:44",
+    "artists": [
+      { "name": "Vicetone", "link": "https://music.163.com/artist?id=747030" },
+      {
+        "name": "Kat Nestel",
+        "link": "https://music.163.com/artist?id=1066090"
+      }
+    ],
+    "album": {
+      "name": "Nothing Stopping Me Ft. Kat Nestel",
+      "link": "https://music.163.com/album?id=3184553"
+    }
+  },
+  {
+    "name": "The Thing About Love",
+    "link": "https://music.163.com/song?id=28546023",
+    "duration": "03:57",
+    "artists": [
+      {
+        "name": "Jessi Malay",
+        "link": "https://music.163.com/artist?id=905058"
+      }
+    ],
+    "album": {
+      "name": "Give Me Life",
+      "link": "https://music.163.com/album?id=2834008"
+    }
+  },
+  {
+    "name": "Count the Ways (Main Mix)",
+    "link": "https://music.163.com/song?id=1644981",
+    "duration": "03:04",
+    "artists": [
+      { "name": "Kory Burns", "link": "https://music.163.com/artist?id=38043" }
+    ],
+    "album": {
+      "name": "Count the Ways",
+      "link": "https://music.163.com/album?id=167061"
+    }
+  },
+  {
+    "name": "Closer To Me",
+    "link": "https://music.163.com/song?id=26508116",
+    "duration": "03:14",
+    "artists": [
+      { "name": "Megan & Liz", "link": "https://music.163.com/artist?id=97094" }
+    ],
+    "album": {
+      "name": "Bad for Me - EP",
+      "link": "https://music.163.com/album?id=424732"
+    }
+  },
+  {
+    "name": "Someone Tell My Heart",
+    "link": "https://music.163.com/song?id=26545036",
+    "duration": "03:55",
+    "artists": [
+      {
+        "name": "Keyshia Cole",
+        "link": "https://music.163.com/artist?id=37528"
+      }
+    ],
+    "album": {
+      "name": "最新热歌慢摇1",
+      "link": "https://music.163.com/album?id=2515015"
+    }
+  },
+  {
+    "name": "The One",
+    "link": "https://music.163.com/song?id=26524051",
+    "duration": "02:58",
+    "artists": [
+      { "name": "Aina Brown", "link": "https://music.163.com/artist?id=783008" }
+    ],
+    "album": {
+      "name": "Notorious",
+      "link": "https://music.163.com/album?id=2519005"
+    }
+  },
+  {
+    "name": "秦淮",
+    "link": "https://music.163.com/song?id=487929846",
+    "duration": "04:04",
+    "artists": [
+      { "name": "冯石叶", "link": "https://music.163.com/artist?id=12272558" }
+    ],
+    "album": {
+      "name": "S.K.M.T",
+      "link": "https://music.163.com/album?id=35132992"
+    }
+  },
+  {
+    "name": "Ryan有光 - Monarch Butterfly（Gəyxe Remix）",
+    "link": "https://music.163.com/song?id=485414196",
+    "duration": "04:32",
+    "artists": [
+      {
+        "name": "Gəyxe/HJLL",
+        "link": "https://music.163.com/artist?id=12271179"
+      },
+      { "name": "Ryan有光", "link": "https://music.163.com/artist?id=12185226" }
+    ],
+    "album": {
+      "name": "Monarch Butterfly（Gəyxe Remix）",
+      "link": "https://music.163.com/album?id=35652196"
+    }
+  },
+  {
+    "name": "Luv Letter (Wisp X Remix)",
+    "link": "https://music.163.com/song?id=30780433",
+    "duration": "03:57",
+    "artists": [
+      { "name": "Wisp X", "link": "https://music.163.com/artist?id=1046123" }
+    ],
+    "album": {
+      "name": "Luv Letter (Wisp X Remix)",
+      "link": "https://music.163.com/album?id=3103223"
+    }
+  },
+  {
+    "name": "Monsters",
+    "link": "https://music.163.com/song?id=28481189",
+    "duration": "03:37",
+    "artists": [
+      { "name": "Katie Sky", "link": "https://music.163.com/artist?id=64076" }
+    ],
+    "album": {
+      "name": "Monsters",
+      "link": "https://music.163.com/album?id=2809030"
+    }
+  }
+]

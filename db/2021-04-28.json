@@ -1,0 +1,510 @@
+[
+  {
+    "name": "Broken Hearts",
+    "link": "https://music.163.com/song?id=1399335951",
+    "duration": "03:09",
+    "artists": [
+      {
+        "name": "Justin Caruso",
+        "link": "https://music.163.com/artist?id=1193462"
+      },
+      { "name": "Hilda", "link": "https://music.163.com/artist?id=60265" }
+    ],
+    "album": {
+      "name": "Broken Hearts",
+      "link": "https://music.163.com/album?id=82767855"
+    }
+  },
+  {
+    "name": "Sing Me to Sleep",
+    "link": "https://music.163.com/song?id=415792222",
+    "duration": "03:09",
+    "artists": [
+      {
+        "name": "Alan Walker",
+        "link": "https://music.163.com/artist?id=1045123"
+      },
+      {
+        "name": "Iselin Solheim",
+        "link": "https://music.163.com/artist?id=1078390"
+      }
+    ],
+    "album": {
+      "name": "Sing Me To Sleep",
+      "link": "https://music.163.com/album?id=34720510"
+    }
+  },
+  {
+    "name": "We Light Forever Up",
+    "link": "https://music.163.com/song?id=466795558",
+    "duration": "03:36",
+    "artists": [
+      {
+        "name": "Benny Benassi",
+        "link": "https://music.163.com/artist?id=29407"
+      },
+      {
+        "name": "Lush & Simon",
+        "link": "https://music.163.com/artist?id=358207"
+      },
+      { "name": "Frederick", "link": "https://music.163.com/artist?id=438940" }
+    ],
+    "album": {
+      "name": "We Light Forever Up",
+      "link": "https://music.163.com/album?id=35293379"
+    }
+  },
+  {
+    "name": "Undiscovered",
+    "link": "https://music.163.com/song?id=463001856",
+    "duration": "03:27",
+    "artists": [
+      {
+        "name": "Ashley Wallbridge",
+        "link": "https://music.163.com/artist?id=29252"
+      },
+      { "name": "Karra", "link": "https://music.163.com/artist?id=1081582" }
+    ],
+    "album": {
+      "name": "Undiscovered",
+      "link": "https://music.163.com/album?id=35235189"
+    }
+  },
+  {
+    "name": "In My Arms",
+    "link": "https://music.163.com/song?id=409941537",
+    "duration": "03:35",
+    "artists": [
+      { "name": "Qulinez", "link": "https://music.163.com/artist?id=352208" },
+      {
+        "name": "Sex Panther",
+        "link": "https://music.163.com/artist?id=13852894"
+      }
+    ],
+    "album": {
+      "name": "In My Arms",
+      "link": "https://music.163.com/album?id=34613510"
+    }
+  },
+  {
+    "name": "Our Symphony",
+    "link": "https://music.163.com/song?id=1443011948",
+    "duration": "03:15",
+    "artists": [
+      { "name": "Manse", "link": "https://music.163.com/artist?id=855409" },
+      {
+        "name": "WildVibes",
+        "link": "https://music.163.com/artist?id=1181751"
+      },
+      { "name": "Vories", "link": "https://music.163.com/artist?id=31063065" }
+    ],
+    "album": {
+      "name": "Our Symphony",
+      "link": "https://music.163.com/album?id=88461186"
+    }
+  },
+  {
+    "name": "Don't You Worry Child",
+    "link": "https://music.163.com/song?id=27918303",
+    "duration": "03:39",
+    "artists": [
+      {
+        "name": "Swedish House Mafia",
+        "link": "https://music.163.com/artist?id=100850"
+      },
+      {
+        "name": "John Martin",
+        "link": "https://music.163.com/artist?id=694018"
+      }
+    ],
+    "album": {
+      "name": "Electronic Dance Music Euphoria",
+      "link": "https://music.163.com/album?id=2695025"
+    }
+  },
+  {
+    "name": "童心未泯",
+    "link": "https://music.163.com/song?id=1459319885",
+    "duration": "03:36",
+    "artists": [
+      { "name": "剑客的刀", "link": "https://music.163.com/artist?id=13036440" }
+    ],
+    "album": {
+      "name": "孩子王",
+      "link": "https://music.163.com/album?id=91702164"
+    }
+  },
+  {
+    "name": "清秋客(Qingqiu)",
+    "link": "https://music.163.com/song?id=1349786263",
+    "duration": "03:38",
+    "artists": [
+      { "name": "钟渊", "link": "https://music.163.com/artist?id=13448626" }
+    ],
+    "album": {
+      "name": "清秋客",
+      "link": "https://music.163.com/album?id=75718609"
+    }
+  },
+  {
+    "name": "梦回唐朝",
+    "link": "https://music.163.com/song?id=552115075",
+    "duration": "03:57",
+    "artists": [
+      { "name": "Newton-", "link": "https://music.163.com/artist?id=12001073" }
+    ],
+    "album": {
+      "name": "古韵Ⅲ",
+      "link": "https://music.163.com/album?id=38308035"
+    }
+  },
+  {
+    "name": "Tales Of Tomorrow",
+    "link": "https://music.163.com/song?id=30212578",
+    "duration": "03:10",
+    "artists": [
+      {
+        "name": "Dimitri Vegas & Like Mike",
+        "link": "https://music.163.com/artist?id=791298"
+      },
+      {
+        "name": "Fedde Le Grand",
+        "link": "https://music.163.com/artist?id=33528"
+      },
+      {
+        "name": "Julian Perretta",
+        "link": "https://music.163.com/artist?id=35616"
+      }
+    ],
+    "album": {
+      "name": "Tales Of Tomorrow",
+      "link": "https://music.163.com/album?id=3094323"
+    }
+  },
+  {
+    "name": "Duality",
+    "link": "https://music.163.com/song?id=573521415",
+    "duration": "03:56",
+    "artists": [
+      {
+        "name": "Nicky Romero",
+        "link": "https://music.163.com/artist?id=195142"
+      }
+    ],
+    "album": {
+      "name": "Duality",
+      "link": "https://music.163.com/album?id=39714000"
+    }
+  },
+  {
+    "name": "All I Ever Wanted",
+    "link": "https://music.163.com/song?id=1361804167",
+    "duration": "03:33",
+    "artists": [
+      {
+        "name": "WildVibes",
+        "link": "https://music.163.com/artist?id=1181751"
+      },
+      {
+        "name": "Martin Miller",
+        "link": "https://music.163.com/artist?id=12534226"
+      },
+      {
+        "name": "Arild Aas",
+        "link": "https://music.163.com/artist?id=13436856"
+      }
+    ],
+    "album": {
+      "name": "All I Ever Wanted",
+      "link": "https://music.163.com/album?id=78814883"
+    }
+  },
+  {
+    "name": "Hahn - 沾福气",
+    "link": "https://music.163.com/song?id=1343966942",
+    "duration": "04:18",
+    "artists": [
+      { "name": "Hahn", "link": "https://music.163.com/artist?id=12022076" }
+    ],
+    "album": {
+      "name": "沾福气",
+      "link": "https://music.163.com/album?id=75409271"
+    }
+  },
+  {
+    "name": "Dusk Till Dawn",
+    "link": "https://music.163.com/song?id=504265014",
+    "duration": "04:27",
+    "artists": [
+      { "name": "ZAYN", "link": "https://music.163.com/artist?id=1108049" },
+      { "name": "Sia", "link": "https://music.163.com/artist?id=74625" }
+    ],
+    "album": {
+      "name": "Dusk Till Dawn",
+      "link": "https://music.163.com/album?id=36150011"
+    }
+  },
+  {
+    "name": "Ain't My Fault (R3hab Remix)",
+    "link": "https://music.163.com/song?id=433018366",
+    "duration": "02:38",
+    "artists": [
+      {
+        "name": "Zara Larsson",
+        "link": "https://music.163.com/artist?id=816461"
+      },
+      { "name": "R3hab", "link": "https://music.163.com/artist?id=197248" }
+    ],
+    "album": {
+      "name": "Aint My Fault (R3hab Remix)",
+      "link": "https://music.163.com/album?id=34897802"
+    }
+  },
+  {
+    "name": "C U Again",
+    "link": "https://music.163.com/song?id=1313035063",
+    "duration": "03:22",
+    "artists": [
+      { "name": "Cartoon", "link": "https://music.163.com/artist?id=51293" },
+      {
+        "name": "Futuristik",
+        "link": "https://music.163.com/artist?id=12091065"
+      },
+      { "name": "Mikk Mäe", "link": "https://music.163.com/artist?id=30185138" }
+    ],
+    "album": {
+      "name": "NCS: The Best of 2016",
+      "link": "https://music.163.com/album?id=73640120"
+    }
+  },
+  {
+    "name": "Lean On",
+    "link": "https://music.163.com/song?id=30854130",
+    "duration": "02:56",
+    "artists": [
+      {
+        "name": "Major Lazer",
+        "link": "https://music.163.com/artist?id=96309"
+      },
+      { "name": "MØ", "link": "https://music.163.com/artist?id=783150" },
+      { "name": "DJ Snake", "link": "https://music.163.com/artist?id=296416" }
+    ],
+    "album": {
+      "name": "Lean On",
+      "link": "https://music.163.com/album?id=3104652"
+    }
+  },
+  {
+    "name": "Wannabe",
+    "link": "https://music.163.com/song?id=501220770",
+    "duration": "03:37",
+    "artists": [
+      {
+        "name": "Why Mona",
+        "link": "https://music.163.com/artist?id=15008055"
+      },
+      {
+        "name": "Unlike Pluto",
+        "link": "https://music.163.com/artist?id=860945"
+      },
+      {
+        "name": "Joanna Jones",
+        "link": "https://music.163.com/artist?id=13932656"
+      }
+    ],
+    "album": {
+      "name": "Wannabe",
+      "link": "https://music.163.com/album?id=36030485"
+    }
+  },
+  {
+    "name": "ハゼ馳せる果てるまで - (蝦虎翱游直至盡頭)",
+    "link": "https://music.163.com/song?id=1397619674",
+    "duration": "04:04",
+    "artists": [
+      {
+        "name": "ずっと真夜中でいいのに。",
+        "link": "https://music.163.com/artist?id=15021101"
+      }
+    ],
+    "album": {
+      "name": "潜潜話",
+      "link": "https://music.163.com/album?id=82815921"
+    }
+  },
+  {
+    "name": "オドループ",
+    "link": "https://music.163.com/song?id=1327337972",
+    "duration": "04:06",
+    "artists": [
+      {
+        "name": "Lefty Hand Cream",
+        "link": "https://music.163.com/artist?id=13158142"
+      }
+    ],
+    "album": {
+      "name": "Lefty Hand Covers Ⅱ",
+      "link": "https://music.163.com/album?id=74512181"
+    }
+  },
+  {
+    "name": "Alanis' Interlude",
+    "link": "https://music.163.com/song?id=1417057278",
+    "duration": "02:41",
+    "artists": [
+      { "name": "Halsey", "link": "https://music.163.com/artist?id=964321" },
+      {
+        "name": "Alanis Morissette",
+        "link": "https://music.163.com/artist?id=46498"
+      }
+    ],
+    "album": {
+      "name": "Manic",
+      "link": "https://music.163.com/album?id=85020251"
+    }
+  },
+  {
+    "name": "照顾好自己",
+    "link": "https://music.163.com/song?id=1840101065",
+    "duration": "02:08",
+    "artists": [
+      {
+        "name": "尤点可爱",
+        "link": "https://music.163.com/artist?id=34865005"
+      },
+      { "name": "波提", "link": "https://music.163.com/artist?id=31956082" }
+    ],
+    "album": {
+      "name": "念",
+      "link": "https://music.163.com/album?id=126515760"
+    }
+  },
+  {
+    "name": "Stuck with U",
+    "link": "https://music.163.com/song?id=1446764662",
+    "duration": "03:48",
+    "artists": [
+      {
+        "name": "Ariana Grande",
+        "link": "https://music.163.com/artist?id=48161"
+      },
+      {
+        "name": "Justin Bieber",
+        "link": "https://music.163.com/artist?id=35531"
+      }
+    ],
+    "album": {
+      "name": "Stuck with U",
+      "link": "https://music.163.com/album?id=89206877"
+    }
+  },
+  {
+    "name": "ワタシノテンシ",
+    "link": "https://music.163.com/song?id=1416874719",
+    "duration": "04:22",
+    "artists": [
+      { "name": "雨宮天", "link": "https://music.163.com/artist?id=932027" }
+    ],
+    "album": {
+      "name": "好きすぎてやばい。～告白実行委員会キャラクターソング集～",
+      "link": "https://music.163.com/album?id=85003222"
+    }
+  },
+  {
+    "name": "ひとり旅 (feat. 鎖那) - (独自旅行)",
+    "link": "https://music.163.com/song?id=1311345944",
+    "duration": "04:55",
+    "artists": [
+      { "name": "瀬名航", "link": "https://music.163.com/artist?id=12488214" },
+      { "name": "鎖那", "link": "https://music.163.com/artist?id=1002089" }
+    ],
+    "album": {
+      "name": "せなとうた",
+      "link": "https://music.163.com/album?id=73471877"
+    }
+  },
+  {
+    "name": "クリティカルヒット",
+    "link": "https://music.163.com/song?id=1384327048",
+    "duration": "03:43",
+    "artists": [
+      { "name": "あよ", "link": "https://music.163.com/artist?id=29500370" }
+    ],
+    "album": {
+      "name": "OYATU 3時の世界作戦",
+      "link": "https://music.163.com/album?id=80957240"
+    }
+  },
+  {
+    "name": "夏恋慕",
+    "link": "https://music.163.com/song?id=1335529596",
+    "duration": "04:27",
+    "artists": [
+      {
+        "name": "kobasolo",
+        "link": "https://music.163.com/artist?id=12602415"
+      },
+      { "name": "春茶", "link": "https://music.163.com/artist?id=29690148" }
+    ],
+    "album": {
+      "name": "夏恋慕",
+      "link": "https://music.163.com/album?id=74983742"
+    }
+  },
+  {
+    "name": "I Still Wait For You (Nolan van Lith x Felix Palmqvist Remix)",
+    "link": "https://music.163.com/song?id=472141798",
+    "duration": "03:53",
+    "artists": [
+      {
+        "name": "Nolan Van Lith",
+        "link": "https://music.163.com/artist?id=11997026"
+      },
+      { "name": "XYLØ", "link": "https://music.163.com/artist?id=1050511" },
+      {
+        "name": "Felix Palmqvist",
+        "link": "https://music.163.com/artist?id=12263227"
+      }
+    ],
+    "album": {
+      "name": "I Still Wait For You (Nolan van Lith x Felix Palmqvist Remix)",
+      "link": "https://music.163.com/album?id=35369361"
+    }
+  },
+  {
+    "name": "Standing By... (Original Mix)",
+    "link": "https://music.163.com/song?id=34040786",
+    "duration": "04:00",
+    "artists": [
+      { "name": "Dripice", "link": "https://music.163.com/artist?id=1050671" }
+    ],
+    "album": {
+      "name": "Standing By... ",
+      "link": "https://music.163.com/album?id=3270714"
+    }
+  },
+  {
+    "name": "海底（Live）",
+    "link": "https://music.163.com/song?id=1840192925",
+    "duration": "04:16",
+    "artists": [
+      { "name": "凤凰传奇", "link": "https://music.163.com/artist?id=11564" }
+    ],
+    "album": {
+      "name": "为歌而赞 第7期",
+      "link": "https://music.163.com/album?id=126409089"
+    }
+  },
+  {
+    "name": "不思議 - (日剧《盛妆恋爱有理由》主题曲)",
+    "link": "https://music.163.com/song?id=1840205396",
+    "duration": "04:50",
+    "artists": [
+      { "name": "星野源", "link": "https://music.163.com/artist?id=14242" }
+    ],
+    "album": {
+      "name": "不思議",
+      "link": "https://music.163.com/album?id=126535996"
+    }
+  }
+]

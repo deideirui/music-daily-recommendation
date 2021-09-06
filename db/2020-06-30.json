@@ -1,0 +1,435 @@
+[
+  {
+    "name": "空は高く風は歌う",
+    "link": "https://music.163.com/song?id=1369452093",
+    "duration": "04:30",
+    "artists": [
+      { "name": "春奈るな", "link": "https://music.163.com/artist?id=16569" }
+    ],
+    "album": {
+      "name": "空は高く風は歌う",
+      "link": "https://music.163.com/album?id=79576473"
+    }
+  },
+  {
+    "name": "WINTER FLOWER(雪中梅)",
+    "link": "https://music.163.com/song?id=1414851420",
+    "duration": "03:41",
+    "artists": [
+      { "name": "Younha", "link": "https://music.163.com/artist?id=126101" },
+      { "name": "RM", "link": "https://music.163.com/artist?id=1044137" }
+    ],
+    "album": {
+      "name": "UNSTABLE MINDSET",
+      "link": "https://music.163.com/album?id=84785754"
+    }
+  },
+  {
+    "name": "Starfall - (崩坏3《天穹流星》动画短片印象曲)",
+    "link": "https://music.163.com/song?id=1426087898",
+    "duration": "03:11",
+    "artists": [
+      { "name": "袁娅维", "link": "https://music.163.com/artist?id=10473" }
+    ],
+    "album": {
+      "name": "Starfall",
+      "link": "https://music.163.com/album?id=85996536"
+    }
+  },
+  {
+    "name": "Day by Day (Ver. Heartbreak)",
+    "link": "https://music.163.com/song?id=26222225",
+    "duration": "04:25",
+    "artists": [
+      { "name": "BIGBANG", "link": "https://music.163.com/artist?id=126339" }
+    ],
+    "album": {
+      "name": "Day by Day",
+      "link": "https://music.163.com/album?id=2428021"
+    }
+  },
+  {
+    "name": "I'm a Mess / Issues",
+    "link": "https://music.163.com/song?id=1351965678",
+    "duration": "03:10",
+    "artists": [
+      { "name": "MADILYN", "link": "https://music.163.com/artist?id=69270" }
+    ],
+    "album": {
+      "name": "I'm a Mess / Issues",
+      "link": "https://music.163.com/album?id=75852876"
+    }
+  },
+  {
+    "name": "歩いていこう! - (TV动画《恋爱小行星》片头曲)",
+    "link": "https://music.163.com/song?id=1422767271",
+    "duration": "04:22",
+    "artists": [
+      { "name": "東山奈央", "link": "https://music.163.com/artist?id=18012" }
+    ],
+    "album": {
+      "name": "歩いていこう!",
+      "link": "https://music.163.com/album?id=85662586"
+    }
+  },
+  {
+    "name": "Young And Beautiful - (电影《了不起的盖茨比》插曲)",
+    "link": "https://music.163.com/song?id=26243686",
+    "duration": "03:56",
+    "artists": [
+      {
+        "name": "Lana Del Rey",
+        "link": "https://music.163.com/artist?id=66212"
+      }
+    ],
+    "album": {
+      "name": "Young And Beautiful",
+      "link": "https://music.163.com/album?id=2431159"
+    }
+  },
+  {
+    "name": "Fix The Broken (Chill Out Mix)",
+    "link": "https://music.163.com/song?id=27550478",
+    "duration": "04:29",
+    "artists": [
+      {
+        "name": "Masoud feat. Nicole McKenna",
+        "link": "https://music.163.com/artist?id=30020043"
+      }
+    ],
+    "album": {
+      "name": "Balearic Chill Sounds 2013",
+      "link": "https://music.163.com/album?id=2631731"
+    }
+  },
+  {
+    "name": "Catch Tomorrow",
+    "link": "https://music.163.com/song?id=28557047",
+    "duration": "03:08",
+    "artists": [
+      { "name": "Afrojack", "link": "https://music.163.com/artist?id=28745" }
+    ],
+    "album": {
+      "name": "Forget The World (Deluxe)",
+      "link": "https://music.163.com/album?id=2840007"
+    }
+  },
+  {
+    "name": "Here I Stand (Original Mix)",
+    "link": "https://music.163.com/song?id=32358967",
+    "duration": "05:30",
+    "artists": [
+      { "name": "Tom Swoon", "link": "https://music.163.com/artist?id=725010" },
+      { "name": "Kerano", "link": "https://music.163.com/artist?id=12203460" },
+      {
+        "name": "Cimo Fränkel",
+        "link": "https://music.163.com/artist?id=30122831"
+      }
+    ],
+    "album": {
+      "name": "Here I Stand",
+      "link": "https://music.163.com/album?id=3154822"
+    }
+  },
+  {
+    "name": "Call Me Maybe",
+    "link": "https://music.163.com/song?id=17112299",
+    "duration": "03:13",
+    "artists": [
+      {
+        "name": "Carly Rae Jepsen",
+        "link": "https://music.163.com/artist?id=50934"
+      }
+    ],
+    "album": {
+      "name": "Call Me Maybe",
+      "link": "https://music.163.com/album?id=1576473"
+    }
+  },
+  {
+    "name": "Time (Official)",
+    "link": "https://music.163.com/song?id=33035611",
+    "duration": "03:56",
+    "artists": [
+      { "name": "MKJ", "link": "https://music.163.com/artist?id=469200" }
+    ],
+    "album": {
+      "name": "Time After Time",
+      "link": "https://music.163.com/album?id=74263822"
+    }
+  },
+  {
+    "name": "Coattails",
+    "link": "https://music.163.com/song?id=28256365",
+    "duration": "03:15",
+    "artists": [
+      { "name": "BROODS", "link": "https://music.163.com/artist?id=839948" }
+    ],
+    "album": {
+      "name": "BROODS EP",
+      "link": "https://music.163.com/album?id=2762058"
+    }
+  },
+  {
+    "name": "Just Wanna",
+    "link": "https://music.163.com/song?id=469410766",
+    "duration": "02:33",
+    "artists": [
+      { "name": "CVRSE", "link": "https://music.163.com/artist?id=12154057" },
+      {
+        "name": "Aviella Winder",
+        "link": "https://music.163.com/artist?id=12475609"
+      }
+    ],
+    "album": {
+      "name": "Eunoia",
+      "link": "https://music.163.com/album?id=35326603"
+    }
+  },
+  {
+    "name": "The Phoenix",
+    "link": "https://music.163.com/song?id=26199445",
+    "duration": "04:04",
+    "artists": [
+      {
+        "name": "Fall Out Boy",
+        "link": "https://music.163.com/artist?id=56782"
+      }
+    ],
+    "album": {
+      "name": "Save Rock And Roll",
+      "link": "https://music.163.com/album?id=2419988"
+    }
+  },
+  {
+    "name": "Children Of A Miracle",
+    "link": "https://music.163.com/song?id=466122582",
+    "duration": "03:09",
+    "artists": [
+      {
+        "name": "Don Diablo",
+        "link": "https://music.163.com/artist?id=139072"
+      },
+      { "name": "Marnik", "link": "https://music.163.com/artist?id=1005048" }
+    ],
+    "album": {
+      "name": "Children Of A Miracle",
+      "link": "https://music.163.com/album?id=35288377"
+    }
+  },
+  {
+    "name": "HANNARI",
+    "link": "https://music.163.com/song?id=443292321",
+    "duration": "03:27",
+    "artists": [
+      { "name": "CY8ER", "link": "https://music.163.com/artist?id=12046863" }
+    ],
+    "album": {
+      "name": "BPM15Q ALL SONGS",
+      "link": "https://music.163.com/album?id=35016415"
+    }
+  },
+  {
+    "name": "I Really Like You",
+    "link": "https://music.163.com/song?id=32574252",
+    "duration": "03:06",
+    "artists": [
+      {
+        "name": "Anthem Lights",
+        "link": "https://music.163.com/artist?id=86862"
+      }
+    ],
+    "album": {
+      "name": "I Really Like You",
+      "link": "https://music.163.com/album?id=3161570"
+    }
+  },
+  {
+    "name": "チカっとチカ千花っ♡ - (TV动画《辉夜大小姐想让我告白～天才们的恋爱头脑战～》第3集片尾曲)",
+    "link": "https://music.163.com/song?id=1361188105",
+    "duration": "02:58",
+    "artists": [
+      { "name": "小原好美", "link": "https://music.163.com/artist?id=12279907" }
+    ],
+    "album": {
+      "name": "チカっとチカ千花っ♡",
+      "link": "https://music.163.com/album?id=75431418"
+    }
+  },
+  {
+    "name": "Bali",
+    "link": "https://music.163.com/song?id=1311292572",
+    "duration": "03:16",
+    "artists": [
+      {
+        "name": "Petit Navire",
+        "link": "https://music.163.com/artist?id=30104239"
+      },
+      {
+        "name": "Submaryne",
+        "link": "https://music.163.com/artist?id=30104100"
+      }
+    ],
+    "album": {
+      "name": "Bali",
+      "link": "https://music.163.com/album?id=73463416"
+    }
+  },
+  {
+    "name": "Spectre",
+    "link": "https://music.163.com/song?id=30064263",
+    "duration": "03:50",
+    "artists": [
+      {
+        "name": "Alan Walker",
+        "link": "https://music.163.com/artist?id=1045123"
+      }
+    ],
+    "album": {
+      "name": "Spectre",
+      "link": "https://music.163.com/album?id=3093052"
+    }
+  },
+  {
+    "name": "Espoir",
+    "link": "https://music.163.com/song?id=28279068",
+    "duration": "04:02",
+    "artists": [
+      { "name": "Darius", "link": "https://music.163.com/artist?id=1179173" }
+    ],
+    "album": {
+      "name": "Romance",
+      "link": "https://music.163.com/album?id=2768256"
+    }
+  },
+  {
+    "name": "βίος <MK+nZk Version>",
+    "link": "https://music.163.com/song?id=498187",
+    "duration": "04:55",
+    "artists": [
+      { "name": "小林未郁", "link": "https://music.163.com/artist?id=16823" }
+    ],
+    "album": {
+      "name": "THEME SONGS COLLECTION",
+      "link": "https://music.163.com/album?id=47602"
+    }
+  },
+  {
+    "name": "흐림 - (阴)",
+    "link": "https://music.163.com/song?id=518863391",
+    "duration": "03:29",
+    "artists": [
+      { "name": "Kiggen", "link": "https://music.163.com/artist?id=887022" },
+      { "name": "Solar", "link": "https://music.163.com/artist?id=1081079" }
+    ],
+    "album": {
+      "name": "흐림",
+      "link": "https://music.163.com/album?id=36784202"
+    }
+  },
+  {
+    "name": "Two Hands (Original Mix)",
+    "link": "https://music.163.com/song?id=29819619",
+    "duration": "05:19",
+    "artists": [
+      { "name": "Omnia", "link": "https://music.163.com/artist?id=179006" },
+      { "name": "Jonny Rose", "link": "https://music.163.com/artist?id=904226" }
+    ],
+    "album": {
+      "name": "Two Hands",
+      "link": "https://music.163.com/album?id=3084548"
+    }
+  },
+  {
+    "name": "To the Hills",
+    "link": "https://music.163.com/song?id=28390908",
+    "duration": "04:10",
+    "artists": [
+      { "name": "Laurel", "link": "https://music.163.com/artist?id=359950" }
+    ],
+    "album": {
+      "name": "To the Hills",
+      "link": "https://music.163.com/album?id=2781788"
+    }
+  },
+  {
+    "name": "Sun Goes Down",
+    "link": "https://music.163.com/song?id=506092377",
+    "duration": "03:09",
+    "artists": [
+      { "name": "Koni", "link": "https://music.163.com/artist?id=1154018" },
+      {
+        "name": "Jeongwoo",
+        "link": "https://music.163.com/artist?id=12561633"
+      },
+      {
+        "name": "Lilianna Wilde",
+        "link": "https://music.163.com/artist?id=14711114"
+      }
+    ],
+    "album": {
+      "name": "Sun Goes Down",
+      "link": "https://music.163.com/album?id=36225090"
+    }
+  },
+  {
+    "name": "Take the Fall (Extended Mix)",
+    "link": "https://music.163.com/song?id=28254591",
+    "duration": "06:33",
+    "artists": [
+      {
+        "name": "First State",
+        "link": "https://music.163.com/artist?id=92742"
+      },
+      { "name": "Relyk", "link": "https://music.163.com/artist?id=191564" }
+    ],
+    "album": {
+      "name": "Take the Fall",
+      "link": "https://music.163.com/album?id=2759644"
+    }
+  },
+  {
+    "name": "ヒミツダイヤル",
+    "link": "https://music.163.com/song?id=469272730",
+    "duration": "03:59",
+    "artists": [
+      { "name": "ここなつ", "link": "https://music.163.com/artist?id=11975152" }
+    ],
+    "album": {
+      "name": "バイナリスター",
+      "link": "https://music.163.com/album?id=35326561"
+    }
+  },
+  {
+    "name": "There's No Turning Back (Dub Mix)",
+    "link": "https://music.163.com/song?id=433223944",
+    "duration": "07:45",
+    "artists": [
+      { "name": "Alex H", "link": "https://music.163.com/artist?id=370950" }
+    ],
+    "album": {
+      "name": "Year of Perplexity",
+      "link": "https://music.163.com/album?id=34886656"
+    }
+  },
+  {
+    "name": "Take My Hand (Teminite Remix)",
+    "link": "https://music.163.com/song?id=523251427",
+    "duration": "03:42",
+    "artists": [
+      {
+        "name": "Panda Eyes",
+        "link": "https://music.163.com/artist?id=1032073"
+      },
+      {
+        "name": "Azuria Sky",
+        "link": "https://music.163.com/artist?id=12914272"
+      },
+      { "name": "Teminite", "link": "https://music.163.com/artist?id=1049513" }
+    ],
+    "album": {
+      "name": "Take My Hand (Remix EP)",
+      "link": "https://music.163.com/album?id=36957155"
+    }
+  }
+]

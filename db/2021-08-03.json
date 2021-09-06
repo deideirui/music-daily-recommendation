@@ -1,0 +1,480 @@
+[
+  {
+    "name": "Let You Go",
+    "link": "https://music.163.com/song?id=547825917",
+    "duration": "03:00",
+    "artists": [
+      {
+        "name": "bvd kult",
+        "link": "https://music.163.com/artist?id=12263379"
+      },
+      { "name": "OT", "link": "https://music.163.com/artist?id=127403" }
+    ],
+    "album": {
+      "name": "Let You Go",
+      "link": "https://music.163.com/album?id=38013414"
+    }
+  },
+  {
+    "name": "Take Me Back",
+    "link": "https://music.163.com/song?id=1347199887",
+    "duration": "03:29",
+    "artists": [
+      {
+        "name": "Novaspace",
+        "link": "https://music.163.com/artist?id=1144030"
+      },
+      { "name": "Runaground", "link": "https://music.163.com/artist?id=945002" }
+    ],
+    "album": {
+      "name": "Take Me Back",
+      "link": "https://music.163.com/album?id=75636837"
+    }
+  },
+  {
+    "name": "Tie Me Down",
+    "link": "https://music.163.com/song?id=1298505546",
+    "duration": "03:38",
+    "artists": [
+      { "name": "Gryffin", "link": "https://music.163.com/artist?id=1181504" },
+      {
+        "name": "Elley Duhé",
+        "link": "https://music.163.com/artist?id=12207014"
+      }
+    ],
+    "album": {
+      "name": "Tie Me Down",
+      "link": "https://music.163.com/album?id=72042813"
+    }
+  },
+  {
+    "name": "Run",
+    "link": "https://music.163.com/song?id=1318243198",
+    "duration": "02:55",
+    "artists": [
+      {
+        "name": "Greenjelin",
+        "link": "https://music.163.com/artist?id=13021897"
+      },
+      {
+        "name": "Aika Zabala",
+        "link": "https://music.163.com/artist?id=30390947"
+      }
+    ],
+    "album": {
+      "name": "Run",
+      "link": "https://music.163.com/album?id=73920687"
+    }
+  },
+  {
+    "name": "Heartless",
+    "link": "https://music.163.com/song?id=1309715770",
+    "duration": "02:44",
+    "artists": [
+      {
+        "name": "Nick Peters",
+        "link": "https://music.163.com/artist?id=12006124"
+      },
+      {
+        "name": "Bianca & Rook",
+        "link": "https://music.163.com/artist?id=30008017"
+      }
+    ],
+    "album": {
+      "name": "Heartless",
+      "link": "https://music.163.com/album?id=73306181"
+    }
+  },
+  {
+    "name": "Speed (Burn & Lotus F1 Team Mix)",
+    "link": "https://music.163.com/song?id=27526073",
+    "duration": "07:03",
+    "artists": [
+      { "name": "Avicii", "link": "https://music.163.com/artist?id=45236" }
+    ],
+    "album": {
+      "name": "Speed (Burn & Lotus F1 Team Mix)",
+      "link": "https://music.163.com/album?id=2626012"
+    }
+  },
+  {
+    "name": "Come Alive",
+    "link": "https://music.163.com/song?id=508319111",
+    "duration": "03:00",
+    "artists": [
+      { "name": "Jase", "link": "https://music.163.com/artist?id=247435" },
+      { "name": "Ariel Pe", "link": "https://music.163.com/artist?id=29148340" }
+    ],
+    "album": {
+      "name": "Come Alive",
+      "link": "https://music.163.com/album?id=36303229"
+    }
+  },
+  {
+    "name": "Hard To Love (25BIT Remix)",
+    "link": "https://music.163.com/song?id=1381472468",
+    "duration": "03:10",
+    "artists": [
+      { "name": "Dasco", "link": "https://music.163.com/artist?id=1171064" },
+      { "name": "Haneri", "link": "https://music.163.com/artist?id=12834932" }
+    ],
+    "album": {
+      "name": "Hard To Love (Remixes)",
+      "link": "https://music.163.com/album?id=80725171"
+    }
+  },
+  {
+    "name": "By Your Side",
+    "link": "https://music.163.com/song?id=534065357",
+    "duration": "02:51",
+    "artists": [
+      { "name": "MAGNÜS", "link": "https://music.163.com/artist?id=12218187" },
+      { "name": "Aviella", "link": "https://music.163.com/artist?id=12475609" }
+    ],
+    "album": {
+      "name": "By Your Side",
+      "link": "https://music.163.com/album?id=37444126"
+    }
+  },
+  {
+    "name": "River",
+    "link": "https://music.163.com/song?id=30854833",
+    "duration": "03:44",
+    "artists": [
+      { "name": "Axero", "link": "https://music.163.com/artist?id=1035020" }
+    ],
+    "album": {
+      "name": "River",
+      "link": "https://music.163.com/album?id=3104771"
+    }
+  },
+  {
+    "name": "Try Again",
+    "link": "https://music.163.com/song?id=1865089957",
+    "duration": "03:09",
+    "artists": [
+      { "name": "DallasK", "link": "https://music.163.com/artist?id=282095" },
+      { "name": "Lauv", "link": "https://music.163.com/artist?id=1057226" }
+    ],
+    "album": {
+      "name": "Try Again",
+      "link": "https://music.163.com/album?id=131073462"
+    }
+  },
+  {
+    "name": "I Hate U, I Love U",
+    "link": "https://music.163.com/song?id=461544161",
+    "duration": "03:49",
+    "artists": [
+      { "name": "gnash", "link": "https://music.163.com/artist?id=1137226" },
+      {
+        "name": "Olivia O'Brien",
+        "link": "https://music.163.com/artist?id=12095275"
+      }
+    ],
+    "album": {
+      "name": "BRIT Awards 2017",
+      "link": "https://music.163.com/album?id=35196298"
+    }
+  },
+  {
+    "name": "Somber (Acoustic)",
+    "link": "https://music.163.com/song?id=550616628",
+    "duration": "03:57",
+    "artists": [
+      {
+        "name": "Violet Days",
+        "link": "https://music.163.com/artist?id=947272"
+      },
+      { "name": "morgxn", "link": "https://music.163.com/artist?id=12053396" }
+    ],
+    "album": {
+      "name": "Somber (Acoustic)",
+      "link": "https://music.163.com/album?id=38099295"
+    }
+  },
+  {
+    "name": "星茶会",
+    "link": "https://music.163.com/song?id=492390949",
+    "duration": "03:16",
+    "artists": [
+      { "name": "灰澈", "link": "https://music.163.com/artist?id=12520634" }
+    ],
+    "album": {
+      "name": "星茶会",
+      "link": "https://music.163.com/album?id=35808228"
+    }
+  },
+  {
+    "name": "Burn the House Down",
+    "link": "https://music.163.com/song?id=545655045",
+    "duration": "03:32",
+    "artists": [
+      { "name": "AJR", "link": "https://music.163.com/artist?id=88089" }
+    ],
+    "album": {
+      "name": "Burn the House Down",
+      "link": "https://music.163.com/album?id=37767609"
+    }
+  },
+  {
+    "name": "願い~あの頃のキミへ~ - (Negai Anokorono Kimie)",
+    "link": "https://music.163.com/song?id=488388942",
+    "duration": "05:40",
+    "artists": [
+      { "name": "當山みれい", "link": "https://music.163.com/artist?id=954456" }
+    ],
+    "album": {
+      "name": "願い E.P.",
+      "link": "https://music.163.com/album?id=35670809"
+    }
+  },
+  {
+    "name": "This Is Why",
+    "link": "https://music.163.com/song?id=1331352910",
+    "duration": "04:11",
+    "artists": [
+      { "name": "ZIV", "link": "https://music.163.com/artist?id=32938255" }
+    ],
+    "album": {
+      "name": "This Is Why",
+      "link": "https://music.163.com/album?id=74779683"
+    }
+  },
+  {
+    "name": "bad guy",
+    "link": "https://music.163.com/song?id=1355147933",
+    "duration": "03:14",
+    "artists": [
+      {
+        "name": "Billie Eilish",
+        "link": "https://music.163.com/artist?id=11972054"
+      }
+    ],
+    "album": {
+      "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+      "link": "https://music.163.com/album?id=78243642"
+    }
+  },
+  {
+    "name": "Clouds",
+    "link": "https://music.163.com/song?id=1368546535",
+    "duration": "03:43",
+    "artists": [
+      { "name": "Nurko", "link": "https://music.163.com/artist?id=11991089" },
+      {
+        "name": "Delaney Kai",
+        "link": "https://music.163.com/artist?id=12171219"
+      }
+    ],
+    "album": {
+      "name": "Clouds",
+      "link": "https://music.163.com/album?id=79485406"
+    }
+  },
+  {
+    "name": "Give Me Your Love",
+    "link": "https://music.163.com/song?id=445666806",
+    "duration": "03:17",
+    "artists": [
+      { "name": "DEAMN", "link": "https://music.163.com/artist?id=12047335" }
+    ],
+    "album": {
+      "name": "Give Me Your Love",
+      "link": "https://music.163.com/album?id=35012727"
+    }
+  },
+  {
+    "name": "Stitches",
+    "link": "https://music.163.com/song?id=1864535406",
+    "duration": "03:26",
+    "artists": [
+      {
+        "name": "Shawn Mendes",
+        "link": "https://music.163.com/artist?id=956238"
+      }
+    ],
+    "album": {
+      "name": "Goodbye School Hello Summer",
+      "link": "https://music.163.com/album?id=130958498"
+    }
+  },
+  {
+    "name": "沉没",
+    "link": "https://music.163.com/song?id=1394177010",
+    "duration": "04:21",
+    "artists": [
+      { "name": "刘至佳", "link": "https://music.163.com/artist?id=1172023" },
+      { "name": "OneCandy", "link": "https://music.163.com/artist?id=12286389" }
+    ],
+    "album": {
+      "name": "沉没",
+      "link": "https://music.163.com/album?id=82041401"
+    }
+  },
+  {
+    "name": "Journey",
+    "link": "https://music.163.com/song?id=16846088",
+    "duration": "03:00",
+    "artists": [
+      {
+        "name": "Capo Productions",
+        "link": "https://music.163.com/artist?id=90097"
+      }
+    ],
+    "album": {
+      "name": "Serenity",
+      "link": "https://music.163.com/album?id=1552283"
+    }
+  },
+  {
+    "name": "Ena",
+    "link": "https://music.163.com/song?id=407679564",
+    "duration": "03:18",
+    "artists": [
+      { "name": "Hinkik", "link": "https://music.163.com/artist?id=12023103" }
+    ],
+    "album": {
+      "name": "Ena",
+      "link": "https://music.163.com/album?id=34588157"
+    }
+  },
+  {
+    "name": "Looking For America",
+    "link": "https://music.163.com/song?id=1383131802",
+    "duration": "02:42",
+    "artists": [
+      {
+        "name": "Lana Del Rey",
+        "link": "https://music.163.com/artist?id=66212"
+      }
+    ],
+    "album": {
+      "name": "Looking For America",
+      "link": "https://music.163.com/album?id=80863028"
+    }
+  },
+  {
+    "name": "What A Day (2013 Remake)",
+    "link": "https://music.163.com/song?id=28253135",
+    "duration": "04:38",
+    "artists": [
+      {
+        "name": "Greg Laswell",
+        "link": "https://music.163.com/artist?id=33845"
+      }
+    ],
+    "album": {
+      "name": "I Was Going To Be An Astronaut",
+      "link": "https://music.163.com/album?id=2759416"
+    }
+  },
+  {
+    "name": "Liability",
+    "link": "https://music.163.com/song?id=508052504",
+    "duration": "02:51",
+    "artists": [
+      { "name": "Lorde", "link": "https://music.163.com/artist?id=784001" }
+    ],
+    "album": {
+      "name": "Dinner Party",
+      "link": "https://music.163.com/album?id=36278207"
+    }
+  },
+  {
+    "name": "Anatome",
+    "link": "https://music.163.com/song?id=517902794",
+    "duration": "05:19",
+    "artists": [
+      { "name": "Novo Amor", "link": "https://music.163.com/artist?id=904041" },
+      {
+        "name": "Ed Tullett",
+        "link": "https://music.163.com/artist?id=12863130"
+      }
+    ],
+    "album": {
+      "name": "Heiress",
+      "link": "https://music.163.com/album?id=36771113"
+    }
+  },
+  {
+    "name": "恋のうた (feat. 由崎司) - (TV动画《总之就是非常可爱》片头曲)",
+    "link": "https://music.163.com/song?id=1484336476",
+    "duration": "03:29",
+    "artists": [
+      { "name": "Yunomi", "link": "https://music.163.com/artist?id=1025016" },
+      { "name": "鬼頭明里", "link": "https://music.163.com/artist?id=12676449" }
+    ],
+    "album": {
+      "name": "恋のうた  feat. 由崎司",
+      "link": "https://music.163.com/album?id=98475082"
+    }
+  },
+  {
+    "name": "Land Of The Red Dragon",
+    "link": "https://music.163.com/song?id=1371419043",
+    "duration": "03:15",
+    "artists": [
+      { "name": "Vindu", "link": "https://music.163.com/artist?id=12046913" }
+    ],
+    "album": {
+      "name": "Land Of The Red Dragon",
+      "link": "https://music.163.com/album?id=79757788"
+    }
+  },
+  {
+    "name": "Lying With You",
+    "link": "https://music.163.com/song?id=1856210995",
+    "duration": "02:59",
+    "artists": [
+      {
+        "name": "Chase Wright",
+        "link": "https://music.163.com/artist?id=29807516"
+      }
+    ],
+    "album": {
+      "name": "Lying With You",
+      "link": "https://music.163.com/album?id=129516503"
+    }
+  },
+  {
+    "name": "不可解",
+    "link": "https://music.163.com/song?id=1399849876",
+    "duration": "04:40",
+    "artists": [
+      { "name": "花譜", "link": "https://music.163.com/artist?id=32062601" }
+    ],
+    "album": {
+      "name": "観測",
+      "link": "https://music.163.com/album?id=82822905"
+    }
+  },
+  {
+    "name": "THINK ABOUT ME",
+    "link": "https://music.163.com/song?id=1455915065",
+    "duration": "03:19",
+    "artists": [
+      {
+        "name": "sakehands",
+        "link": "https://music.163.com/artist?id=29627842"
+      },
+      { "name": "LO", "link": "https://music.163.com/artist?id=1155100" }
+    ],
+    "album": {
+      "name": "THINK ABOUT ME",
+      "link": "https://music.163.com/album?id=91023715"
+    }
+  },
+  {
+    "name": "It Has Begun",
+    "link": "https://music.163.com/song?id=28770074",
+    "duration": "05:16",
+    "artists": [
+      { "name": "STARSET", "link": "https://music.163.com/artist?id=887066" }
+    ],
+    "album": {
+      "name": "Transmissions",
+      "link": "https://music.163.com/album?id=2887590"
+    }
+  }
+]

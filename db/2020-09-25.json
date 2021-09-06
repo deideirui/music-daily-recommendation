@@ -1,0 +1,451 @@
+[
+  {
+    "name": "One Day",
+    "link": "https://music.163.com/song?id=1363638029",
+    "duration": "02:44",
+    "artists": [
+      {
+        "name": "Diamond Pistols",
+        "link": "https://music.163.com/artist?id=806218"
+      },
+      {
+        "name": "Emily Vaughn",
+        "link": "https://music.163.com/artist?id=12049240"
+      }
+    ],
+    "album": {
+      "name": "One Day",
+      "link": "https://music.163.com/album?id=78959758"
+    }
+  },
+  {
+    "name": "This Town",
+    "link": "https://music.163.com/song?id=507903881",
+    "duration": "03:22",
+    "artists": [
+      { "name": "Kygo", "link": "https://music.163.com/artist?id=844410" },
+      {
+        "name": "Sasha Sloan",
+        "link": "https://music.163.com/artist?id=12646102"
+      }
+    ],
+    "album": {
+      "name": "Stargazing",
+      "link": "https://music.163.com/album?id=36296886"
+    }
+  },
+  {
+    "name": "Home Flight",
+    "link": "https://music.163.com/song?id=1419165226",
+    "duration": "02:35",
+    "artists": [
+      { "name": "Medon", "link": "https://music.163.com/artist?id=348972" },
+      {
+        "name": "Mike Gudmann",
+        "link": "https://music.163.com/artist?id=32567323"
+      },
+      { "name": "Shiverz", "link": "https://music.163.com/artist?id=29812341" }
+    ],
+    "album": {
+      "name": "Home Flight",
+      "link": "https://music.163.com/album?id=85243615"
+    }
+  },
+  {
+    "name": "Warriors",
+    "link": "https://music.163.com/song?id=1344439276",
+    "duration": "02:49",
+    "artists": [
+      {
+        "name": "Paris Blohm",
+        "link": "https://music.163.com/artist?id=851710"
+      },
+      { "name": "Nevlin", "link": "https://music.163.com/artist?id=15022237" },
+      { "name": "Romysa", "link": "https://music.163.com/artist?id=31281537" }
+    ],
+    "album": {
+      "name": "Warriors",
+      "link": "https://music.163.com/album?id=75469830"
+    }
+  },
+  {
+    "name": "Cut Loose",
+    "link": "https://music.163.com/song?id=567098986",
+    "duration": "03:25",
+    "artists": [
+      { "name": "Emma Bale", "link": "https://music.163.com/artist?id=1044152" }
+    ],
+    "album": {
+      "name": "Cut Loose",
+      "link": "https://music.163.com/album?id=39318388"
+    }
+  },
+  {
+    "name": "Bright Lights (Radio Edit)",
+    "link": "https://music.163.com/song?id=28687194",
+    "duration": "03:22",
+    "artists": [
+      { "name": "Syn Cole", "link": "https://music.163.com/artist?id=854432" }
+    ],
+    "album": {
+      "name": "Bright Lights",
+      "link": "https://music.163.com/album?id=2879266"
+    }
+  },
+  {
+    "name": "On Fire (Extended Mix)",
+    "link": "https://music.163.com/song?id=406716638",
+    "duration": "05:18",
+    "artists": [
+      {
+        "name": "Thomas Gold",
+        "link": "https://music.163.com/artist?id=196219"
+      },
+      {
+        "name": "Rico & Miella",
+        "link": "https://music.163.com/artist?id=1050743"
+      }
+    ],
+    "album": {
+      "name": "On Fire",
+      "link": "https://music.163.com/album?id=34515825"
+    }
+  },
+  {
+    "name": "all the kids are depressed",
+    "link": "https://music.163.com/song?id=550654609",
+    "duration": "02:49",
+    "artists": [
+      {
+        "name": "Jeremy Zucker",
+        "link": "https://music.163.com/artist?id=12096183"
+      }
+    ],
+    "album": {
+      "name": "all the kids are depressed",
+      "link": "https://music.163.com/album?id=38227223"
+    }
+  },
+  {
+    "name": "Echoes of Us",
+    "link": "https://music.163.com/song?id=512613534",
+    "duration": "03:50",
+    "artists": [
+      {
+        "name": "Jewelz & Sparks",
+        "link": "https://music.163.com/artist?id=947051"
+      },
+      {
+        "name": "Jess Thristan",
+        "link": "https://music.163.com/artist?id=14403469"
+      }
+    ],
+    "album": {
+      "name": "Echoes of Us",
+      "link": "https://music.163.com/album?id=36515070"
+    }
+  },
+  {
+    "name": "You Lift Me Up",
+    "link": "https://music.163.com/song?id=28313115",
+    "duration": "03:46",
+    "artists": [
+      { "name": "Mikey Wax", "link": "https://music.163.com/artist?id=39927" }
+    ],
+    "album": {
+      "name": "You Lift Me Up",
+      "link": "https://music.163.com/album?id=2772012"
+    }
+  },
+  {
+    "name": "Drive",
+    "link": "https://music.163.com/song?id=33728453",
+    "duration": "03:16",
+    "artists": [
+      { "name": "Oh Wonder", "link": "https://music.163.com/artist?id=1050128" }
+    ],
+    "album": {
+      "name": "Drive",
+      "link": "https://music.163.com/album?id=3257063"
+    }
+  },
+  {
+    "name": "Straylight",
+    "link": "https://music.163.com/song?id=29533288",
+    "duration": "03:32",
+    "artists": [
+      { "name": "Feint", "link": "https://music.163.com/artist?id=93062" }
+    ],
+    "album": {
+      "name": "Always Here EP",
+      "link": "https://music.163.com/album?id=3039265"
+    }
+  },
+  {
+    "name": "Pure Sunlight",
+    "link": "https://music.163.com/song?id=28923131",
+    "duration": "05:37",
+    "artists": [
+      {
+        "name": "Mr FijiWiji",
+        "link": "https://music.163.com/artist?id=40353"
+      },
+      {
+        "name": "Laura Brehm",
+        "link": "https://music.163.com/artist?id=207693"
+      },
+      { "name": "AgNo3", "link": "https://music.163.com/artist?id=28457540" }
+    ],
+    "album": {
+      "name": "Monstercat 018 - Frontier",
+      "link": "https://music.163.com/album?id=2948024"
+    }
+  },
+  {
+    "name": "Under My Sheets",
+    "link": "https://music.163.com/song?id=489998923",
+    "duration": "03:08",
+    "artists": [
+      { "name": "Joey Dale", "link": "https://music.163.com/artist?id=908121" },
+      {
+        "name": "Rico & Miella",
+        "link": "https://music.163.com/artist?id=1050743"
+      }
+    ],
+    "album": {
+      "name": "Under My Sheets",
+      "link": "https://music.163.com/album?id=35746303"
+    }
+  },
+  {
+    "name": "The Raid",
+    "link": "https://music.163.com/song?id=1466188338",
+    "duration": "03:32",
+    "artists": [
+      { "name": "Kage", "link": "https://music.163.com/artist?id=545835" }
+    ],
+    "album": {
+      "name": "The Raid",
+      "link": "https://music.163.com/album?id=93083388"
+    }
+  },
+  {
+    "name": "Want You (Original Mix)",
+    "link": "https://music.163.com/song?id=407679475",
+    "duration": "03:02",
+    "artists": [
+      { "name": "Bearson", "link": "https://music.163.com/artist?id=1057034" }
+    ],
+    "album": {
+      "name": "Want You",
+      "link": "https://music.163.com/album?id=34589149"
+    }
+  },
+  {
+    "name": "Another Me (with Dylan Matthew)",
+    "link": "https://music.163.com/song?id=1386838818",
+    "duration": "03:28",
+    "artists": [
+      {
+        "name": "Seven Lions",
+        "link": "https://music.163.com/artist?id=44204"
+      },
+      { "name": "Excision", "link": "https://music.163.com/artist?id=33221" },
+      { "name": "Wooli", "link": "https://music.163.com/artist?id=12203238" },
+      {
+        "name": "Dylan Matthew",
+        "link": "https://music.163.com/artist?id=28684353"
+      }
+    ],
+    "album": {
+      "name": "Another Me (with Dylan Matthew)",
+      "link": "https://music.163.com/album?id=81171095"
+    }
+  },
+  {
+    "name": "Robot Daydream (Original Mix)",
+    "link": "https://music.163.com/song?id=41631081",
+    "duration": "04:16",
+    "artists": [
+      { "name": "Solstis", "link": "https://music.163.com/artist?id=1116224" }
+    ],
+    "album": {
+      "name": "Robot Daydream",
+      "link": "https://music.163.com/album?id=3443390"
+    }
+  },
+  {
+    "name": "Don't Say Ur Sorry",
+    "link": "https://music.163.com/song?id=1441377129",
+    "duration": "03:07",
+    "artists": [
+      { "name": "Ellis", "link": "https://music.163.com/artist?id=32932" },
+      { "name": "Maribelle", "link": "https://music.163.com/artist?id=554863" }
+    ],
+    "album": {
+      "name": "Don't Say Ur Sorry",
+      "link": "https://music.163.com/album?id=88164758"
+    }
+  },
+  {
+    "name": "With You",
+    "link": "https://music.163.com/song?id=431080737",
+    "duration": "04:57",
+    "artists": [
+      { "name": "Ether", "link": "https://music.163.com/artist?id=157678" }
+    ],
+    "album": {
+      "name": "With You",
+      "link": "https://music.163.com/album?id=34869922"
+    }
+  },
+  {
+    "name": "Counting Down The Days (Faux Tales Remix)",
+    "link": "https://music.163.com/song?id=35755289",
+    "duration": "04:54",
+    "artists": [
+      {
+        "name": "Faux Tales",
+        "link": "https://music.163.com/artist?id=973131"
+      },
+      {
+        "name": "Above & Beyond",
+        "link": "https://music.163.com/artist?id=85548"
+      }
+    ],
+    "album": {
+      "name": "Counting Down The Days (Faux Tales Remix)",
+      "link": "https://music.163.com/album?id=3367019"
+    }
+  },
+  {
+    "name": "Don't Touch the Ground",
+    "link": "https://music.163.com/song?id=1316563714",
+    "duration": "03:03",
+    "artists": [
+      { "name": "Foria", "link": "https://music.163.com/artist?id=1181950" }
+    ],
+    "album": {
+      "name": "Don't Touch the Ground",
+      "link": "https://music.163.com/album?id=73468366"
+    }
+  },
+  {
+    "name": "End Of The World",
+    "link": "https://music.163.com/song?id=518894056",
+    "duration": "03:28",
+    "artists": [
+      { "name": "Kaaze", "link": "https://music.163.com/artist?id=952052" },
+      {
+        "name": "Jonathan Mendelsohn",
+        "link": "https://music.163.com/artist?id=826017"
+      }
+    ],
+    "album": {
+      "name": "End Of The World",
+      "link": "https://music.163.com/album?id=36812024"
+    }
+  },
+  {
+    "name": "Atlantis (Original Mix)",
+    "link": "https://music.163.com/song?id=405377702",
+    "duration": "05:23",
+    "artists": [
+      {
+        "name": "Adriano Fuerte",
+        "link": "https://music.163.com/artist?id=12006216"
+      }
+    ],
+    "album": {
+      "name": "Atlantis",
+      "link": "https://music.163.com/album?id=34527399"
+    }
+  },
+  {
+    "name": "Mine",
+    "link": "https://music.163.com/song?id=1306361560",
+    "duration": "03:16",
+    "artists": [
+      {
+        "name": "Matt Nathanson",
+        "link": "https://music.163.com/artist?id=38892"
+      }
+    ],
+    "album": {
+      "name": "Sings His Sad Heart",
+      "link": "https://music.163.com/album?id=72786106"
+    }
+  },
+  {
+    "name": "Bloom",
+    "link": "https://music.163.com/song?id=422463788",
+    "duration": "05:31",
+    "artists": [
+      { "name": "Kaizen", "link": "https://music.163.com/artist?id=440297" },
+      { "name": "Shinigami", "link": "https://music.163.com/artist?id=851737" }
+    ],
+    "album": {
+      "name": "Bloom",
+      "link": "https://music.163.com/album?id=34791177"
+    }
+  },
+  {
+    "name": "Falling",
+    "link": "https://music.163.com/song?id=31341397",
+    "duration": "04:28",
+    "artists": [
+      {
+        "name": "ParanorM̶e̶o̶w̶",
+        "link": "https://music.163.com/artist?id=1058101"
+      },
+      { "name": "Synx", "link": "https://music.163.com/artist?id=1061017" }
+    ],
+    "album": {
+      "name": "Falling",
+      "link": "https://music.163.com/album?id=3111520"
+    }
+  },
+  {
+    "name": "All Day (Extended Mix)",
+    "link": "https://music.163.com/song?id=404783543",
+    "duration": "03:11",
+    "artists": [
+      { "name": " kill fm", "link": "https://music.163.com/artist?id=985106" }
+    ],
+    "album": {
+      "name": "All Day (Extended Mix)",
+      "link": "https://music.163.com/album?id=34527140"
+    }
+  },
+  {
+    "name": "Everything",
+    "link": "https://music.163.com/song?id=512358298",
+    "duration": "03:45",
+    "artists": [
+      {
+        "name": "Sick Individuals",
+        "link": "https://music.163.com/artist?id=379612"
+      }
+    ],
+    "album": {
+      "name": "Everything",
+      "link": "https://music.163.com/album?id=36529051"
+    }
+  },
+  {
+    "name": "Over You",
+    "link": "https://music.163.com/song?id=547764478",
+    "duration": "03:53",
+    "artists": [
+      { "name": "Kasbo", "link": "https://music.163.com/artist?id=936040" },
+      {
+        "name": "Frida Sundemo",
+        "link": "https://music.163.com/artist?id=57938"
+      }
+    ],
+    "album": {
+      "name": "Places We Don't Know",
+      "link": "https://music.163.com/album?id=38033094"
+    }
+  }
+]

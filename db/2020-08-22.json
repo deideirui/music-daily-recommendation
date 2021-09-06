@@ -1,0 +1,469 @@
+[
+  {
+    "name": "Close To The Sun",
+    "link": "https://music.163.com/song?id=1392141694",
+    "duration": "03:12",
+    "artists": [
+      {
+        "name": "TheFatRat",
+        "link": "https://music.163.com/artist?id=1019952"
+      },
+      { "name": "Anjulie", "link": "https://music.163.com/artist?id=46502" }
+    ],
+    "album": {
+      "name": "Close To the Sun",
+      "link": "https://music.163.com/album?id=81794674"
+    }
+  },
+  {
+    "name": "God Is A Dancer",
+    "link": "https://music.163.com/song?id=1392034800",
+    "duration": "02:48",
+    "artists": [
+      { "name": "Tiësto", "link": "https://music.163.com/artist?id=688047" },
+      { "name": "Mabel", "link": "https://music.163.com/artist?id=1176005" }
+    ],
+    "album": {
+      "name": "God Is A Dancer",
+      "link": "https://music.163.com/album?id=81780827"
+    }
+  },
+  {
+    "name": "Shine a Little",
+    "link": "https://music.163.com/song?id=1397152854",
+    "duration": "03:09",
+    "artists": [
+      {
+        "name": "Craig Reever",
+        "link": "https://music.163.com/artist?id=28768278"
+      },
+      {
+        "name": "Mia Pfirrman",
+        "link": "https://music.163.com/artist?id=1024409"
+      }
+    ],
+    "album": {
+      "name": "Shine a Little",
+      "link": "https://music.163.com/album?id=82440753"
+    }
+  },
+  {
+    "name": "About U",
+    "link": "https://music.163.com/song?id=1391296996",
+    "duration": "02:59",
+    "artists": [
+      {
+        "name": "Chester Young",
+        "link": "https://music.163.com/artist?id=13703846"
+      },
+      {
+        "name": "Shunichi Komazu",
+        "link": "https://music.163.com/artist?id=33253253"
+      },
+      { "name": "Zoé", "link": "https://music.163.com/artist?id=105771" }
+    ],
+    "album": {
+      "name": "About U",
+      "link": "https://music.163.com/album?id=81682025"
+    }
+  },
+  {
+    "name": "Don't Know",
+    "link": "https://music.163.com/song?id=1440034782",
+    "duration": "02:40",
+    "artists": [
+      { "name": "Broke", "link": "https://music.163.com/artist?id=12901029" },
+      { "name": "Sphericz", "link": "https://music.163.com/artist?id=1081961" }
+    ],
+    "album": {
+      "name": "Don't Know",
+      "link": "https://music.163.com/album?id=87917113"
+    }
+  },
+  {
+    "name": "You & I",
+    "link": "https://music.163.com/song?id=1456729497",
+    "duration": "02:52",
+    "artists": [
+      {
+        "name": "Jay Eskar",
+        "link": "https://music.163.com/artist?id=12132198"
+      }
+    ],
+    "album": {
+      "name": "You & I",
+      "link": "https://music.163.com/album?id=91233694"
+    }
+  },
+  {
+    "name": "Caught In The Waves",
+    "link": "https://music.163.com/song?id=1413335936",
+    "duration": "02:42",
+    "artists": [
+      { "name": "Marnage", "link": "https://music.163.com/artist?id=28018737" },
+      { "name": "Kamix", "link": "https://music.163.com/artist?id=12947261" },
+      { "name": "Sirjoe", "link": "https://music.163.com/artist?id=12696777" }
+    ],
+    "album": {
+      "name": "Caught In The Waves",
+      "link": "https://music.163.com/album?id=84642826"
+    }
+  },
+  {
+    "name": "Sky of Dreams",
+    "link": "https://music.163.com/song?id=1353220624",
+    "duration": "03:16",
+    "artists": [
+      {
+        "name": "Greenjelin",
+        "link": "https://music.163.com/artist?id=13021897"
+      },
+      {
+        "name": "Paulina Cameron",
+        "link": "https://music.163.com/artist?id=31713537"
+      }
+    ],
+    "album": {
+      "name": "Sky of Dreams",
+      "link": "https://music.163.com/album?id=77425178"
+    }
+  },
+  {
+    "name": "5 Years",
+    "link": "https://music.163.com/song?id=1345651259",
+    "duration": "02:56",
+    "artists": [
+      { "name": "Hannie", "link": "https://music.163.com/artist?id=12073011" },
+      {
+        "name": "Carys Selvey",
+        "link": "https://music.163.com/artist?id=12175244"
+      }
+    ],
+    "album": {
+      "name": "5 Years",
+      "link": "https://music.163.com/album?id=75530044"
+    }
+  },
+  {
+    "name": "Open Water (feat. Heather Sommer)",
+    "link": "https://music.163.com/song?id=1466202254",
+    "duration": "03:25",
+    "artists": [
+      {
+        "name": "Jason Ross",
+        "link": "https://music.163.com/artist?id=906123"
+      },
+      {
+        "name": "Heather Sommer",
+        "link": "https://music.163.com/artist?id=13134228"
+      }
+    ],
+    "album": {
+      "name": "Open Water (feat. Heather Sommer)",
+      "link": "https://music.163.com/album?id=93087639"
+    }
+  },
+  {
+    "name": "I'm Back",
+    "link": "https://music.163.com/song?id=1436973109",
+    "duration": "02:27",
+    "artists": [
+      {
+        "name": "RevoideN",
+        "link": "https://music.163.com/artist?id=34570298"
+      },
+      {
+        "name": "Revealed Recordings",
+        "link": "https://music.163.com/artist?id=28753573"
+      }
+    ],
+    "album": {
+      "name": "I'm Back",
+      "link": "https://music.163.com/album?id=87507273"
+    }
+  },
+  {
+    "name": "Lies",
+    "link": "https://music.163.com/song?id=1428592315",
+    "duration": "02:56",
+    "artists": [
+      {
+        "name": "Ben Ambergen",
+        "link": "https://music.163.com/artist?id=12524453"
+      },
+      {
+        "name": "Maski & Banga",
+        "link": "https://music.163.com/artist?id=30985438"
+      }
+    ],
+    "album": {
+      "name": "Lies",
+      "link": "https://music.163.com/album?id=86268234"
+    }
+  },
+  {
+    "name": "The In Between",
+    "link": "https://music.163.com/song?id=548999213",
+    "duration": "03:33",
+    "artists": [
+      {
+        "name": "Elephante",
+        "link": "https://music.163.com/artist?id=1050284"
+      },
+      { "name": "Anjulie", "link": "https://music.163.com/artist?id=46502" }
+    ],
+    "album": {
+      "name": "The In Between",
+      "link": "https://music.163.com/album?id=38116519"
+    }
+  },
+  {
+    "name": "Hurt You",
+    "link": "https://music.163.com/song?id=1376022435",
+    "duration": "03:06",
+    "artists": [
+      { "name": "Arcando", "link": "https://music.163.com/artist?id=11975134" },
+      { "name": "Vé", "link": "https://music.163.com/artist?id=31144147" }
+    ],
+    "album": {
+      "name": "Hurt You",
+      "link": "https://music.163.com/album?id=80228500"
+    }
+  },
+  {
+    "name": "Cruel Summer",
+    "link": "https://music.163.com/song?id=865058331",
+    "duration": "03:08",
+    "artists": [
+      { "name": "Odee", "link": "https://music.163.com/artist?id=1182245" },
+      { "name": "EC Twins", "link": "https://music.163.com/artist?id=334149" },
+      { "name": "Dmitry KO", "link": "https://music.163.com/artist?id=947049" }
+    ],
+    "album": {
+      "name": "Cruel Summer",
+      "link": "https://music.163.com/album?id=71748976"
+    }
+  },
+  {
+    "name": "Silent Skies",
+    "link": "https://music.163.com/song?id=486814261",
+    "duration": "04:06",
+    "artists": [
+      {
+        "name": "Seven Lions",
+        "link": "https://music.163.com/artist?id=44204"
+      },
+      { "name": "Karra", "link": "https://music.163.com/artist?id=1081582" }
+    ],
+    "album": {
+      "name": "Where I Won’t Be Found",
+      "link": "https://music.163.com/album?id=35578313"
+    }
+  },
+  {
+    "name": "Faces",
+    "link": "https://music.163.com/song?id=1397620436",
+    "duration": "03:50",
+    "artists": [
+      { "name": "Madnap", "link": "https://music.163.com/artist?id=896042" },
+      { "name": "Luma", "link": "https://music.163.com/artist?id=211460" }
+    ],
+    "album": {
+      "name": "Faces",
+      "link": "https://music.163.com/album?id=82515640"
+    }
+  },
+  {
+    "name": "Leave It All Behind (feat. Fagin) (Nurko Remix)",
+    "link": "https://music.163.com/song?id=1462538478",
+    "duration": "04:01",
+    "artists": [
+      { "name": "Trivecta", "link": "https://music.163.com/artist?id=954338" },
+      { "name": "Fagin", "link": "https://music.163.com/artist?id=487808" },
+      { "name": "Nurko", "link": "https://music.163.com/artist?id=11991089" }
+    ],
+    "album": {
+      "name": "Everyday EP (Remixes)",
+      "link": "https://music.163.com/album?id=92376689"
+    }
+  },
+  {
+    "name": "Love Is Greater",
+    "link": "https://music.163.com/song?id=28468756",
+    "duration": "02:53",
+    "artists": [
+      {
+        "name": "Amanda Noelle",
+        "link": "https://music.163.com/artist?id=909047"
+      }
+    ],
+    "album": {
+      "name": "Beautiful Name",
+      "link": "https://music.163.com/album?id=2805079"
+    }
+  },
+  {
+    "name": "Fight Song",
+    "link": "https://music.163.com/song?id=29803675",
+    "duration": "03:23",
+    "artists": [
+      {
+        "name": "Rachel Platten",
+        "link": "https://music.163.com/artist?id=74518"
+      }
+    ],
+    "album": {
+      "name": "Fight Song",
+      "link": "https://music.163.com/album?id=3081170"
+    }
+  },
+  {
+    "name": "Yes & No",
+    "link": "https://music.163.com/song?id=1370901308",
+    "duration": "02:59",
+    "artists": [
+      { "name": "XYLØ", "link": "https://music.163.com/artist?id=1050511" }
+    ],
+    "album": {
+      "name": "Yes & No",
+      "link": "https://music.163.com/album?id=79697210"
+    }
+  },
+  {
+    "name": "Stay Here Forever",
+    "link": "https://music.163.com/song?id=26851338",
+    "duration": "02:59",
+    "artists": [
+      { "name": "Jewel", "link": "https://music.163.com/artist?id=60923" }
+    ],
+    "album": {
+      "name": "Promo Only: Country Radio, March 2010",
+      "link": "https://music.163.com/album?id=2562399"
+    }
+  },
+  {
+    "name": "Nemesis",
+    "link": "https://music.163.com/song?id=1449745412",
+    "duration": "04:34",
+    "artists": [
+      { "name": "Muzz", "link": "https://music.163.com/artist?id=158046" }
+    ],
+    "album": {
+      "name": "Nemesis",
+      "link": "https://music.163.com/album?id=89745939"
+    }
+  },
+  {
+    "name": "The Lazy Song",
+    "link": "https://music.163.com/song?id=25657280",
+    "duration": "03:15",
+    "artists": [
+      { "name": "Bruno Mars", "link": "https://music.163.com/artist?id=178059" }
+    ],
+    "album": {
+      "name": "Doo-Wops & Hooligans",
+      "link": "https://music.163.com/album?id=2270045"
+    }
+  },
+  {
+    "name": "Looking At Me",
+    "link": "https://music.163.com/song?id=1358277007",
+    "duration": "02:40",
+    "artists": [
+      { "name": "Skytech", "link": "https://music.163.com/artist?id=813379" },
+      {
+        "name": "Tommy Jayden",
+        "link": "https://music.163.com/artist?id=12248066"
+      }
+    ],
+    "album": {
+      "name": "Looking At Me",
+      "link": "https://music.163.com/album?id=78484838"
+    }
+  },
+  {
+    "name": "LA2016",
+    "link": "https://music.163.com/song?id=1394744945",
+    "duration": "02:55",
+    "artists": [
+      { "name": "Direct", "link": "https://music.163.com/artist?id=758029" },
+      { "name": "Mr FijiWiji", "link": "https://music.163.com/artist?id=40353" }
+    ],
+    "album": {
+      "name": "LA2016",
+      "link": "https://music.163.com/album?id=82120868"
+    }
+  },
+  {
+    "name": "Graveyard",
+    "link": "https://music.163.com/song?id=1417057275",
+    "duration": "03:01",
+    "artists": [
+      { "name": "Halsey", "link": "https://music.163.com/artist?id=964321" }
+    ],
+    "album": {
+      "name": "Manic",
+      "link": "https://music.163.com/album?id=85020251"
+    }
+  },
+  {
+    "name": "Into The Light (VIP)",
+    "link": "https://music.163.com/song?id=1356054738",
+    "duration": "04:32",
+    "artists": [
+      { "name": "Notaker", "link": "https://music.163.com/artist?id=12035151" },
+      { "name": "Karra", "link": "https://music.163.com/artist?id=1081582" }
+    ],
+    "album": {
+      "name": "PATH.FINDER",
+      "link": "https://music.163.com/album?id=78283733"
+    }
+  },
+  {
+    "name": "DROWN",
+    "link": "https://music.163.com/song?id=1386891284",
+    "duration": "03:18",
+    "artists": [
+      { "name": "AViVA", "link": "https://music.163.com/artist?id=12074178" }
+    ],
+    "album": {
+      "name": "DROWN",
+      "link": "https://music.163.com/album?id=81175396"
+    }
+  },
+  {
+    "name": "Diamond Sky (Skrux Remix)",
+    "link": "https://music.163.com/song?id=41630147",
+    "duration": "04:27",
+    "artists": [
+      { "name": "Skrux", "link": "https://music.163.com/artist?id=986157" },
+      {
+        "name": "Elliot Berger",
+        "link": "https://music.163.com/artist?id=1049923"
+      },
+      {
+        "name": "Laura Brehm",
+        "link": "https://music.163.com/artist?id=207693"
+      }
+    ],
+    "album": {
+      "name": "Diamond Sky (Skrux Remix)",
+      "link": "https://music.163.com/album?id=3443263"
+    }
+  },
+  {
+    "name": "I Really Like You",
+    "link": "https://music.163.com/song?id=31918993",
+    "duration": "03:25",
+    "artists": [
+      {
+        "name": "Carly Rae Jepsen",
+        "link": "https://music.163.com/artist?id=50934"
+      }
+    ],
+    "album": {
+      "name": "Bravo Hits 89",
+      "link": "https://music.163.com/album?id=3144303"
+    }
+  }
+]

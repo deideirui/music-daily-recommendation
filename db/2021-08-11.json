@@ -1,0 +1,449 @@
+[
+  {
+    "name": "Knots",
+    "link": "https://music.163.com/song?id=488902568",
+    "duration": "02:47",
+    "artists": [
+      { "name": "filous", "link": "https://music.163.com/artist?id=1081131" },
+      { "name": "Klei", "link": "https://music.163.com/artist?id=12995337" }
+    ],
+    "album": {
+      "name": "Knots",
+      "link": "https://music.163.com/album?id=35657776"
+    }
+  },
+  {
+    "name": "Ballarena",
+    "link": "https://music.163.com/song?id=1314662246",
+    "duration": "03:00",
+    "artists": [
+      { "name": "Savi", "link": "https://music.163.com/artist?id=1116235" },
+      { "name": "Aleesia", "link": "https://music.163.com/artist?id=48272" },
+      {
+        "name": "Not From Mars",
+        "link": "https://music.163.com/artist?id=30252411"
+      }
+    ],
+    "album": {
+      "name": "Ballarena",
+      "link": "https://music.163.com/album?id=73742569"
+    }
+  },
+  {
+    "name": "OMG",
+    "link": "https://music.163.com/song?id=1381314214",
+    "duration": "03:35",
+    "artists": [
+      { "name": "Gryffin", "link": "https://music.163.com/artist?id=1181504" },
+      {
+        "name": "Carly Rae Jepsen",
+        "link": "https://music.163.com/artist?id=50934"
+      }
+    ],
+    "album": {
+      "name": "OMG",
+      "link": "https://music.163.com/album?id=80714627"
+    }
+  },
+  {
+    "name": "Dusk (Original Mix)",
+    "link": "https://music.163.com/song?id=33497412",
+    "duration": "04:15",
+    "artists": [
+      { "name": "Axero", "link": "https://music.163.com/artist?id=1035020" }
+    ],
+    "album": {
+      "name": "Dusk",
+      "link": "https://music.163.com/album?id=3213315"
+    }
+  },
+  {
+    "name": "Galway Girl",
+    "link": "https://music.163.com/song?id=472361236",
+    "duration": "02:50",
+    "artists": [
+      { "name": "MADILYN", "link": "https://music.163.com/artist?id=69270" }
+    ],
+    "album": {
+      "name": "Galway Girl",
+      "link": "https://music.163.com/album?id=35338927"
+    }
+  },
+  {
+    "name": "Digital World",
+    "link": "https://music.163.com/song?id=29537955",
+    "duration": "03:17",
+    "artists": [
+      { "name": "Amaranthe", "link": "https://music.163.com/artist?id=86586" }
+    ],
+    "album": {
+      "name": "Massive Addictive",
+      "link": "https://music.163.com/album?id=3039582"
+    }
+  },
+  {
+    "name": "This Is Living (L3V3LS Remix)",
+    "link": "https://music.163.com/song?id=405599986",
+    "duration": "04:38",
+    "artists": [
+      { "name": "L3V3LS", "link": "https://music.163.com/artist?id=12007340" },
+      {
+        "name": "Hillsong Young & Free",
+        "link": "https://music.163.com/artist?id=835002"
+      }
+    ],
+    "album": {
+      "name": "Hillsong Young and Free (L3V3LS Remix)",
+      "link": "https://music.163.com/album?id=34527621"
+    }
+  },
+  {
+    "name": "Don't You Know",
+    "link": "https://music.163.com/song?id=418316644",
+    "duration": "03:04",
+    "artists": [
+      { "name": "Kungs", "link": "https://music.163.com/artist?id=1135041" },
+      {
+        "name": "Jamie N Commons",
+        "link": "https://music.163.com/artist?id=36642"
+      }
+    ],
+    "album": {
+      "name": "Don't You Know",
+      "link": "https://music.163.com/album?id=34732543"
+    }
+  },
+  {
+    "name": "This Is It",
+    "link": "https://music.163.com/song?id=1342157440",
+    "duration": "02:49",
+    "artists": [
+      {
+        "name": "Oh The Larceny",
+        "link": "https://music.163.com/artist?id=12333048"
+      }
+    ],
+    "album": {
+      "name": "Blood Is Rebel",
+      "link": "https://music.163.com/album?id=75334555"
+    }
+  },
+  {
+    "name": "Fake",
+    "link": "https://music.163.com/song?id=1344644402",
+    "duration": "02:21",
+    "artists": [
+      {
+        "name": "The Tech Thieves",
+        "link": "https://music.163.com/artist?id=12080267"
+      }
+    ],
+    "album": {
+      "name": "Fake",
+      "link": "https://music.163.com/album?id=75479490"
+    }
+  },
+  {
+    "name": "Leviathan",
+    "link": "https://music.163.com/song?id=1458192814",
+    "duration": "02:22",
+    "artists": [
+      {
+        "name": "James Everingham",
+        "link": "https://music.163.com/artist?id=1178307"
+      }
+    ],
+    "album": {
+      "name": "Leviathan",
+      "link": "https://music.163.com/album?id=91528043"
+    }
+  },
+  {
+    "name": "Father's Land",
+    "link": "https://music.163.com/song?id=477936447",
+    "duration": "05:35",
+    "artists": [
+      {
+        "name": "Jordan Critz",
+        "link": "https://music.163.com/artist?id=147520"
+      }
+    ],
+    "album": {
+      "name": "Kingdom",
+      "link": "https://music.163.com/album?id=35501111"
+    }
+  },
+  {
+    "name": "DISTANCE",
+    "link": "https://music.163.com/song?id=522511256",
+    "duration": "02:22",
+    "artists": [
+      {
+        "name": "Juriy Nikitin",
+        "link": "https://music.163.com/artist?id=12628358"
+      }
+    ],
+    "album": {
+      "name": "DISTANCE",
+      "link": "https://music.163.com/album?id=36913053"
+    }
+  },
+  {
+    "name": "Calls of the Earth (Full Version)",
+    "link": "https://music.163.com/song?id=442867435",
+    "duration": "03:22",
+    "artists": [
+      { "name": "Andreas B.", "link": "https://music.163.com/artist?id=299713" }
+    ],
+    "album": {
+      "name": "Calls of the Earth (Full Version)",
+      "link": "https://music.163.com/album?id=35017158"
+    }
+  },
+  {
+    "name": "Counting Stars",
+    "link": "https://music.163.com/song?id=1864535394",
+    "duration": "04:16",
+    "artists": [
+      { "name": "OneRepublic", "link": "https://music.163.com/artist?id=98105" }
+    ],
+    "album": {
+      "name": "Goodbye School Hello Summer",
+      "link": "https://music.163.com/album?id=130958498"
+    }
+  },
+  {
+    "name": "くちなしの言葉 - (沉默之语)",
+    "link": "https://music.163.com/song?id=1391228950",
+    "duration": "05:28",
+    "artists": [
+      { "name": "みゆな", "link": "https://music.163.com/artist?id=30110388" }
+    ],
+    "album": {
+      "name": "ユラレル",
+      "link": "https://music.163.com/album?id=81675046"
+    }
+  },
+  {
+    "name": "The Other Side Of Paradise",
+    "link": "https://music.163.com/song?id=1865094697",
+    "duration": "05:20",
+    "artists": [
+      {
+        "name": "Glass Animals",
+        "link": "https://music.163.com/artist?id=847346"
+      }
+    ],
+    "album": {
+      "name": "Beach Vacation Hits",
+      "link": "https://music.163.com/album?id=131073969"
+    }
+  },
+  {
+    "name": "踊",
+    "link": "https://music.163.com/song?id=1840383399",
+    "duration": "03:28",
+    "artists": [
+      { "name": "Ado", "link": "https://music.163.com/artist?id=37231059" }
+    ],
+    "album": {
+      "name": "踊",
+      "link": "https://music.163.com/album?id=126572111"
+    }
+  },
+  {
+    "name": "Remember Our Summer",
+    "link": "https://music.163.com/song?id=1384450197",
+    "duration": "02:43",
+    "artists": [
+      {
+        "name": "FrogMonster",
+        "link": "https://music.163.com/artist?id=30549371"
+      }
+    ],
+    "album": {
+      "name": "Remember Our Summer",
+      "link": "https://music.163.com/album?id=80958771"
+    }
+  },
+  {
+    "name": "负亲",
+    "link": "https://music.163.com/song?id=26830112",
+    "duration": "04:25",
+    "artists": [
+      { "name": "小肥", "link": "https://music.163.com/artist?id=5798" }
+    ],
+    "album": {
+      "name": "小歌星",
+      "link": "https://music.163.com/album?id=2565009"
+    }
+  },
+  {
+    "name": "惘然记",
+    "link": "https://music.163.com/song?id=1865399109",
+    "duration": "04:06",
+    "artists": [
+      { "name": "河图", "link": "https://music.163.com/artist?id=3249" }
+    ],
+    "album": {
+      "name": "惘然记",
+      "link": "https://music.163.com/album?id=131125336"
+    }
+  },
+  {
+    "name": "Calico",
+    "link": "https://music.163.com/song?id=1434209899",
+    "duration": "03:51",
+    "artists": [
+      { "name": "Haux", "link": "https://music.163.com/artist?id=1078427" }
+    ],
+    "album": {
+      "name": "Calico",
+      "link": "https://music.163.com/album?id=86858703"
+    }
+  },
+  {
+    "name": "Endless Wave",
+    "link": "https://music.163.com/song?id=523942238",
+    "duration": "02:42",
+    "artists": [
+      {
+        "name": "Hanging Valleys",
+        "link": "https://music.163.com/artist?id=12219168"
+      }
+    ],
+    "album": { "name": "EP", "link": "https://music.163.com/album?id=36965997" }
+  },
+  {
+    "name": "The Cure",
+    "link": "https://music.163.com/song?id=472045959",
+    "duration": "03:31",
+    "artists": [
+      { "name": "Lady Gaga", "link": "https://music.163.com/artist?id=64147" }
+    ],
+    "album": {
+      "name": "The Cure",
+      "link": "https://music.163.com/album?id=35338880"
+    }
+  },
+  {
+    "name": "Outside",
+    "link": "https://music.163.com/song?id=29561077",
+    "duration": "03:47",
+    "artists": [
+      {
+        "name": "Calvin Harris",
+        "link": "https://music.163.com/artist?id=29968"
+      },
+      {
+        "name": "Ellie Goulding",
+        "link": "https://music.163.com/artist?id=56598"
+      }
+    ],
+    "album": {
+      "name": "Motion",
+      "link": "https://music.163.com/album?id=3029170"
+    }
+  },
+  {
+    "name": "Places We Won't Walk",
+    "link": "https://music.163.com/song?id=504264170",
+    "duration": "02:49",
+    "artists": [
+      {
+        "name": "Bruno Major",
+        "link": "https://music.163.com/artist?id=12250109"
+      }
+    ],
+    "album": {
+      "name": "A Song For Every Moon",
+      "link": "https://music.163.com/album?id=36149047"
+    }
+  },
+  {
+    "name": "Stay With Me",
+    "link": "https://music.163.com/song?id=1447801334",
+    "duration": "03:47",
+    "artists": [
+      {
+        "name": "Anson Seabra",
+        "link": "https://music.163.com/artist?id=14470054"
+      }
+    ],
+    "album": {
+      "name": "Songs I Wrote in My Bedroom",
+      "link": "https://music.163.com/album?id=89390158"
+    }
+  },
+  {
+    "name": "Dancin (Krono Remix)",
+    "link": "https://music.163.com/song?id=439121233",
+    "duration": "03:18",
+    "artists": [
+      {
+        "name": "Aaron Smith",
+        "link": "https://music.163.com/artist?id=145965"
+      },
+      { "name": "Luvli", "link": "https://music.163.com/artist?id=296961" },
+      { "name": "Krono", "link": "https://music.163.com/artist?id=438424" }
+    ],
+    "album": {
+      "name": "Dancin",
+      "link": "https://music.163.com/album?id=34975067"
+    }
+  },
+  {
+    "name": "Twig（Cover 初音ミク）",
+    "link": "https://music.163.com/song?id=866215760",
+    "duration": "03:31",
+    "artists": [
+      { "name": "F未來", "link": "https://music.163.com/artist?id=12085724" }
+    ],
+    "album": {
+      "name": "Twig",
+      "link": "https://music.163.com/album?id=71795185"
+    }
+  },
+  {
+    "name": "阳光.雨",
+    "link": "https://music.163.com/song?id=229052",
+    "duration": "03:28",
+    "artists": [
+      { "name": "冯曦妤", "link": "https://music.163.com/artist?id=7651" }
+    ],
+    "album": {
+      "name": "A Little Love",
+      "link": "https://music.163.com/album?id=23059"
+    }
+  },
+  {
+    "name": "Feeling of Being",
+    "link": "https://music.163.com/song?id=2931581",
+    "duration": "03:05",
+    "artists": [
+      {
+        "name": "Lucy Schwartz",
+        "link": "https://music.163.com/artist?id=64250"
+      }
+    ],
+    "album": {
+      "name": "Keep Me",
+      "link": "https://music.163.com/album?id=295976"
+    }
+  },
+  {
+    "name": "Immortals (End Credit Version) [\"From \"Big Hero 6”] - (电影《超能陆战队》主题曲)",
+    "link": "https://music.163.com/song?id=29535483",
+    "duration": "03:13",
+    "artists": [
+      {
+        "name": "Fall Out Boy",
+        "link": "https://music.163.com/artist?id=56782"
+      }
+    ],
+    "album": {
+      "name": "Immortals (End Credit Version) [",
+      "link": "https://music.163.com/album?id=3029891"
+    }
+  }
+]

@@ -1,0 +1,441 @@
+[
+  {
+    "name": "Take Me Back (Acoustic Mix)",
+    "link": "https://music.163.com/song?id=1347199888",
+    "duration": "03:31",
+    "artists": [
+      {
+        "name": "Novaspace",
+        "link": "https://music.163.com/artist?id=1144030"
+      },
+      { "name": "Runaground", "link": "https://music.163.com/artist?id=945002" }
+    ],
+    "album": {
+      "name": "Take Me Back",
+      "link": "https://music.163.com/album?id=75636837"
+    }
+  },
+  {
+    "name": "Floating",
+    "link": "https://music.163.com/song?id=515796150",
+    "duration": "04:33",
+    "artists": [
+      { "name": "Tobu", "link": "https://music.163.com/artist?id=964486" }
+    ],
+    "album": {
+      "name": "Floating",
+      "link": "https://music.163.com/album?id=36679130"
+    }
+  },
+  {
+    "name": "Big Words",
+    "link": "https://music.163.com/song?id=569870379",
+    "duration": "03:22",
+    "artists": [
+      { "name": "Klaas", "link": "https://music.163.com/artist?id=106210" }
+    ],
+    "album": {
+      "name": "Big Words",
+      "link": "https://music.163.com/album?id=39391421"
+    }
+  },
+  {
+    "name": "Inside Out",
+    "link": "https://music.163.com/song?id=1309975421",
+    "duration": "03:07",
+    "artists": [
+      {
+        "name": "ItaloBrothers",
+        "link": "https://music.163.com/artist?id=94730"
+      }
+    ],
+    "album": {
+      "name": "Inside Out",
+      "link": "https://music.163.com/album?id=73332809"
+    }
+  },
+  {
+    "name": "Walls (feat. Andy Tongren)",
+    "link": "https://music.163.com/song?id=1365422363",
+    "duration": "03:13",
+    "artists": [
+      {
+        "name": "Lena Leon",
+        "link": "https://music.163.com/artist?id=14537825"
+      },
+      { "name": "KASTRA", "link": "https://music.163.com/artist?id=1105094" },
+      {
+        "name": "Andy Tongren",
+        "link": "https://music.163.com/artist?id=13739579"
+      }
+    ],
+    "album": {
+      "name": "Walls (feat. Andy Tongren)",
+      "link": "https://music.163.com/album?id=79133010"
+    }
+  },
+  {
+    "name": "Love Me Back (Acoustic)",
+    "link": "https://music.163.com/song?id=1345859796",
+    "duration": "03:10",
+    "artists": [
+      { "name": "RITUAL", "link": "https://music.163.com/artist?id=12355563" },
+      { "name": "Tove Styrke", "link": "https://music.163.com/artist?id=83188" }
+    ],
+    "album": {
+      "name": "Love Me Back (Acoustic)",
+      "link": "https://music.163.com/album?id=75544648"
+    }
+  },
+  {
+    "name": "Sleep Deprived",
+    "link": "https://music.163.com/song?id=1328974927",
+    "duration": "03:18",
+    "artists": [
+      { "name": "Lvly", "link": "https://music.163.com/artist?id=14534902" }
+    ],
+    "album": {
+      "name": "Just Lvly",
+      "link": "https://music.163.com/album?id=74624938"
+    }
+  },
+  {
+    "name": "Love Games (feat. Olivia Addams)",
+    "link": "https://music.163.com/song?id=1375491585",
+    "duration": "03:00",
+    "artists": [
+      {
+        "name": "Alex Parker",
+        "link": "https://music.163.com/artist?id=280735"
+      },
+      {
+        "name": "Olivia Addams",
+        "link": "https://music.163.com/artist?id=28657767"
+      }
+    ],
+    "album": {
+      "name": "Love Games (feat. Olivia Addams)",
+      "link": "https://music.163.com/album?id=80152372"
+    }
+  },
+  {
+    "name": "We Don't Belong",
+    "link": "https://music.163.com/song?id=488647739",
+    "duration": "03:06",
+    "artists": [
+      { "name": "Dash Berlin", "link": "https://music.163.com/artist?id=32124" }
+    ],
+    "album": {
+      "name": "We Don't Belong",
+      "link": "https://music.163.com/album?id=35695757"
+    }
+  },
+  {
+    "name": "Vibrance",
+    "link": "https://music.163.com/song?id=30780431",
+    "duration": "04:01",
+    "artists": [
+      { "name": "Wisp X", "link": "https://music.163.com/artist?id=1046123" }
+    ],
+    "album": {
+      "name": "Vibrance",
+      "link": "https://music.163.com/album?id=3103221"
+    }
+  },
+  {
+    "name": "Seeing Stars",
+    "link": "https://music.163.com/song?id=29732930",
+    "duration": "03:11",
+    "artists": [
+      { "name": "BØRNS", "link": "https://music.163.com/artist?id=1023179" }
+    ],
+    "album": {
+      "name": "Candy",
+      "link": "https://music.163.com/album?id=3069142"
+    }
+  },
+  {
+    "name": "Try",
+    "link": "https://music.163.com/song?id=520525416",
+    "duration": "03:12",
+    "artists": [
+      {
+        "name": "Matt Terry",
+        "link": "https://music.163.com/artist?id=12214141"
+      }
+    ],
+    "album": {
+      "name": "Trouble",
+      "link": "https://music.163.com/album?id=36827686"
+    }
+  },
+  {
+    "name": "Feels Like a Dream",
+    "link": "https://music.163.com/song?id=1363342114",
+    "duration": "04:19",
+    "artists": [
+      { "name": "Awakend", "link": "https://music.163.com/artist?id=13049055" },
+      { "name": "Luma", "link": "https://music.163.com/artist?id=211460" },
+      { "name": "Herrin", "link": "https://music.163.com/artist?id=12279436" }
+    ],
+    "album": {
+      "name": "Feels Like a Dream",
+      "link": "https://music.163.com/album?id=78935903"
+    }
+  },
+  {
+    "name": "Frontier (Cargo Remix)",
+    "link": "https://music.163.com/song?id=399552364",
+    "duration": "03:04",
+    "artists": [
+      { "name": "Cargo", "link": "https://music.163.com/artist?id=150774" },
+      { "name": "VINAI", "link": "https://music.163.com/artist?id=804422" },
+      { "name": "SCNDL", "link": "https://music.163.com/artist?id=527682" }
+    ],
+    "album": {
+      "name": "Frontier (Cargo Remix)",
+      "link": "https://music.163.com/album?id=34419328"
+    }
+  },
+  {
+    "name": "Night Running",
+    "link": "https://music.163.com/song?id=1310969255",
+    "duration": "03:31",
+    "artists": [
+      {
+        "name": "Millie Turner",
+        "link": "https://music.163.com/artist?id=12505975"
+      }
+    ],
+    "album": {
+      "name": "Night Running",
+      "link": "https://music.163.com/album?id=73422991"
+    }
+  },
+  {
+    "name": "Paris",
+    "link": "https://music.163.com/song?id=453185808",
+    "duration": "03:41",
+    "artists": [
+      {
+        "name": "The Chainsmokers",
+        "link": "https://music.163.com/artist?id=893484"
+      },
+      {
+        "name": "Emily Warren",
+        "link": "https://music.163.com/artist?id=12356790"
+      }
+    ],
+    "album": {
+      "name": "Paris",
+      "link": "https://music.163.com/album?id=35124156"
+    }
+  },
+  {
+    "name": "Revolution",
+    "link": "https://music.163.com/song?id=455500439",
+    "duration": "03:51",
+    "artists": [
+      { "name": "The Score", "link": "https://music.163.com/artist?id=212904" }
+    ],
+    "album": {
+      "name": "Revolution",
+      "link": "https://music.163.com/album?id=35151135"
+    }
+  },
+  {
+    "name": "Rise and Shine (Radio Edit)",
+    "link": "https://music.163.com/song?id=462997837",
+    "duration": "02:10",
+    "artists": [
+      { "name": "Deorro", "link": "https://music.163.com/artist?id=366358" }
+    ],
+    "album": {
+      "name": "Rise and Shine",
+      "link": "https://music.163.com/album?id=35235179"
+    }
+  },
+  {
+    "name": "New Day",
+    "link": "https://music.163.com/song?id=467011968",
+    "duration": "03:29",
+    "artists": [
+      { "name": "Take That", "link": "https://music.163.com/artist?id=102002" }
+    ],
+    "album": {
+      "name": "Wonderland (Deluxe)",
+      "link": "https://music.163.com/album?id=35188039"
+    }
+  },
+  {
+    "name": "In The Name Of Love",
+    "link": "https://music.163.com/song?id=423227295",
+    "duration": "03:18",
+    "artists": [
+      {
+        "name": "Martin Garrix",
+        "link": "https://music.163.com/artist?id=780003"
+      },
+      { "name": "Bebe Rexha", "link": "https://music.163.com/artist?id=336466" }
+    ],
+    "album": {
+      "name": "In The Name Of Love",
+      "link": "https://music.163.com/album?id=34791602"
+    }
+  },
+  {
+    "name": "The Night We Met",
+    "link": "https://music.163.com/song?id=407889208",
+    "duration": "03:40",
+    "artists": [
+      { "name": "HomeTown", "link": "https://music.163.com/artist?id=1039726" }
+    ],
+    "album": {
+      "name": "The Night We Met",
+      "link": "https://music.163.com/album?id=34588269"
+    }
+  },
+  {
+    "name": "Complexity",
+    "link": "https://music.163.com/song?id=408532744",
+    "duration": "03:06",
+    "artists": [
+      { "name": "DAM", "link": "https://music.163.com/artist?id=12024362" }
+    ],
+    "album": {
+      "name": "Complexity",
+      "link": "https://music.163.com/album?id=34589886"
+    }
+  },
+  {
+    "name": "Beautiful Now",
+    "link": "https://music.163.com/song?id=32019002",
+    "duration": "03:38",
+    "artists": [
+      { "name": "Zedd", "link": "https://music.163.com/artist?id=46376" },
+      {
+        "name": "Jon Bellion",
+        "link": "https://music.163.com/artist?id=860113"
+      }
+    ],
+    "album": {
+      "name": "True Colors",
+      "link": "https://music.163.com/album?id=3119381"
+    }
+  },
+  {
+    "name": "The New Kings",
+    "link": "https://music.163.com/song?id=29910080",
+    "duration": "03:42",
+    "artists": [
+      { "name": "Vicetone", "link": "https://music.163.com/artist?id=747030" },
+      { "name": "Popeska", "link": "https://music.163.com/artist?id=688997" },
+      { "name": "Luciana", "link": "https://music.163.com/artist?id=129232" }
+    ],
+    "album": {
+      "name": "The New Kings",
+      "link": "https://music.163.com/album?id=2960659"
+    }
+  },
+  {
+    "name": "Ma direction",
+    "link": "https://music.163.com/song?id=27959259",
+    "duration": "04:23",
+    "artists": [
+      {
+        "name": "Sexion d'Assaut",
+        "link": "https://music.163.com/artist?id=101352"
+      }
+    ],
+    "album": {
+      "name": "Best of",
+      "link": "https://music.163.com/album?id=2700664"
+    }
+  },
+  {
+    "name": "Sky (Radio Edit)",
+    "link": "https://music.163.com/song?id=29553031",
+    "duration": "03:56",
+    "artists": [
+      { "name": "Steerner", "link": "https://music.163.com/artist?id=783190" },
+      { "name": "Martell", "link": "https://music.163.com/artist?id=12023568" }
+    ],
+    "album": { "name": "Sky", "link": "https://music.163.com/album?id=3044006" }
+  },
+  {
+    "name": "Are You Ready?",
+    "link": "https://music.163.com/song?id=27867130",
+    "duration": "03:34",
+    "artists": [
+      { "name": "Lawson", "link": "https://music.163.com/artist?id=96193" }
+    ],
+    "album": {
+      "name": "Chapman Square Chapter II (Deluxe Version)",
+      "link": "https://music.163.com/album?id=2685308"
+    }
+  },
+  {
+    "name": "Your Everything (Extended Mix)",
+    "link": "https://music.163.com/song?id=430297456",
+    "duration": "06:17",
+    "artists": [
+      { "name": "A.R.D.I.", "link": "https://music.163.com/artist?id=207863" },
+      {
+        "name": "Linnea Schossow",
+        "link": "https://music.163.com/artist?id=180037"
+      }
+    ],
+    "album": {
+      "name": "Your Everything",
+      "link": "https://music.163.com/album?id=34869666"
+    }
+  },
+  {
+    "name": "Set Free",
+    "link": "https://music.163.com/song?id=36827841",
+    "duration": "03:16",
+    "artists": [
+      { "name": "Veorra", "link": "https://music.163.com/artist?id=1149081" }
+    ],
+    "album": {
+      "name": "Ruby",
+      "link": "https://music.163.com/album?id=3409100"
+    }
+  },
+  {
+    "name": "Rush (Original Mix)",
+    "link": "https://music.163.com/song?id=31962154",
+    "duration": "05:52",
+    "artists": [
+      { "name": "Venom One", "link": "https://music.163.com/artist?id=832516" }
+    ],
+    "album": {
+      "name": "Rush",
+      "link": "https://music.163.com/album?id=3144723"
+    }
+  },
+  {
+    "name": "Justin Bieber-As Long As You Love Me（HEST remix）",
+    "link": "https://music.163.com/song?id=1422226631",
+    "duration": "03:36",
+    "artists": [
+      { "name": "HEST", "link": "https://music.163.com/artist?id=32537132" }
+    ],
+    "album": {
+      "name": "As Long As You Love Me",
+      "link": "https://music.163.com/album?id=85587461"
+    }
+  },
+  {
+    "name": "Wander",
+    "link": "https://music.163.com/song?id=479061694",
+    "duration": "04:08",
+    "artists": [
+      { "name": "Wisp X", "link": "https://music.163.com/artist?id=1046123" }
+    ],
+    "album": {
+      "name": "Wander",
+      "link": "https://music.163.com/album?id=35513757"
+    }
+  }
+]

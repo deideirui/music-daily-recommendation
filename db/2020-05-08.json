@@ -1,0 +1,466 @@
+[
+  {
+    "name": "Greek Tragedy",
+    "link": "https://music.163.com/song?id=30284665",
+    "duration": "03:29",
+    "artists": [
+      {
+        "name": "The Wombats",
+        "link": "https://music.163.com/artist?id=102415"
+      }
+    ],
+    "album": {
+      "name": "Glitterbug",
+      "link": "https://music.163.com/album?id=3098066"
+    }
+  },
+  {
+    "name": "All We Are (Flicflac Remix)",
+    "link": "https://music.163.com/song?id=32341096",
+    "duration": "05:24",
+    "artists": [
+      { "name": "FlicFlac", "link": "https://music.163.com/artist?id=1081108" },
+      { "name": "Jonah", "link": "https://music.163.com/artist?id=299518" }
+    ],
+    "album": {
+      "name": "All We Are",
+      "link": "https://music.163.com/album?id=3159208"
+    }
+  },
+  {
+    "name": "What Is Love",
+    "link": "https://music.163.com/song?id=1306893003",
+    "duration": "03:05",
+    "artists": [
+      {
+        "name": "Max Oazo",
+        "link": "https://music.163.com/artist?id=13159084"
+      },
+      { "name": "Cami", "link": "https://music.163.com/artist?id=283909" }
+    ],
+    "album": {
+      "name": "What Is Love",
+      "link": "https://music.163.com/album?id=72923962"
+    }
+  },
+  {
+    "name": "Right Now",
+    "link": "https://music.163.com/song?id=28885186",
+    "duration": "02:52",
+    "artists": [
+      {
+        "name": "About A Mile",
+        "link": "https://music.163.com/artist?id=979042"
+      }
+    ],
+    "album": {
+      "name": "About A Mile",
+      "link": "https://music.163.com/album?id=2924033"
+    }
+  },
+  {
+    "name": "1000x",
+    "link": "https://music.163.com/song?id=417908611",
+    "duration": "04:00",
+    "artists": [
+      { "name": "BROODS", "link": "https://music.163.com/artist?id=839948" },
+      {
+        "name": "Jarryd James",
+        "link": "https://music.163.com/artist?id=1049740"
+      }
+    ],
+    "album": {
+      "name": "1000x",
+      "link": "https://music.163.com/album?id=34732354"
+    }
+  },
+  {
+    "name": "Astronaut",
+    "link": "https://music.163.com/song?id=541975454",
+    "duration": "03:15",
+    "artists": [
+      { "name": "Darin", "link": "https://music.163.com/artist?id=31200" }
+    ],
+    "album": {
+      "name": "Astronaut",
+      "link": "https://music.163.com/album?id=37582875"
+    }
+  },
+  {
+    "name": "My Love",
+    "link": "https://music.163.com/song?id=529823683",
+    "duration": "03:37",
+    "artists": [
+      {
+        "name": "Arc North",
+        "link": "https://music.163.com/artist?id=1137410"
+      },
+      { "name": "Jonört", "link": "https://music.163.com/artist?id=27694452" }
+    ],
+    "album": {
+      "name": "My Love",
+      "link": "https://music.163.com/album?id=37256189"
+    }
+  },
+  {
+    "name": "Looking Back Someday",
+    "link": "https://music.163.com/song?id=1300225592",
+    "duration": "03:28",
+    "artists": [
+      {
+        "name": "ItaloBrothers",
+        "link": "https://music.163.com/artist?id=94730"
+      }
+    ],
+    "album": {
+      "name": "Looking Back Someday",
+      "link": "https://music.163.com/album?id=72217004"
+    }
+  },
+  {
+    "name": "When You Grow up, Your Heart Dies",
+    "link": "https://music.163.com/song?id=1304567168",
+    "duration": "05:49",
+    "artists": [
+      { "name": "GUNSHIP", "link": "https://music.163.com/artist?id=1124210" }
+    ],
+    "album": {
+      "name": "When You Grow up, Your Heart Dies",
+      "link": "https://music.163.com/album?id=72500998"
+    }
+  },
+  {
+    "name": "Alpha",
+    "link": "https://music.163.com/song?id=1351392205",
+    "duration": "05:51",
+    "artists": [
+      {
+        "name": "Blood Groove & Kikis",
+        "link": "https://music.163.com/artist?id=311599"
+      }
+    ],
+    "album": {
+      "name": "The Best of Blood Groove & Kikis",
+      "link": "https://music.163.com/album?id=75821209"
+    }
+  },
+  {
+    "name": "Listen Closely",
+    "link": "https://music.163.com/song?id=1311762522",
+    "duration": "02:50",
+    "artists": [
+      { "name": "DVBBS", "link": "https://music.163.com/artist?id=820029" },
+      { "name": "SAFE", "link": "https://music.163.com/artist?id=12095082" }
+    ],
+    "album": {
+      "name": "Listen Closely",
+      "link": "https://music.163.com/album?id=73524713"
+    }
+  },
+  {
+    "name": "beautiful world（feat.闫东炜）",
+    "link": "https://music.163.com/song?id=1445384951",
+    "duration": "03:26",
+    "artists": [
+      { "name": "闫东炜", "link": "https://music.163.com/artist?id=4621" },
+      { "name": "Nikko", "link": "https://music.163.com/artist?id=33129521" }
+    ],
+    "album": {
+      "name": "beauty world",
+      "link": "https://music.163.com/album?id=88901837"
+    }
+  },
+  {
+    "name": "Good Time",
+    "link": "https://music.163.com/song?id=1369933510",
+    "duration": "03:27",
+    "artists": [
+      { "name": "Nexeri", "link": "https://music.163.com/artist?id=12463182" },
+      {
+        "name": "Max Oazo",
+        "link": "https://music.163.com/artist?id=13159084"
+      },
+      {
+        "name": "Lola Rhodes",
+        "link": "https://music.163.com/artist?id=13517955"
+      }
+    ],
+    "album": {
+      "name": "Good Time",
+      "link": "https://music.163.com/album?id=79622706"
+    }
+  },
+  {
+    "name": "Never Going Back",
+    "link": "https://music.163.com/song?id=504717970",
+    "duration": "03:17",
+    "artists": [
+      { "name": "The Score", "link": "https://music.163.com/artist?id=212904" }
+    ],
+    "album": {
+      "name": "ATLAS (Deluxe)",
+      "link": "https://music.163.com/album?id=36506893"
+    }
+  },
+  {
+    "name": "You Be Love",
+    "link": "https://music.163.com/song?id=496869522",
+    "duration": "03:27",
+    "artists": [
+      { "name": "Avicii", "link": "https://music.163.com/artist?id=45236" },
+      {
+        "name": "Billy Raffoul",
+        "link": "https://music.163.com/artist?id=12409151"
+      }
+    ],
+    "album": {
+      "name": "AVĪCI (01)",
+      "link": "https://music.163.com/album?id=35919060"
+    }
+  },
+  {
+    "name": "If I Lose Myself (Alesso Vs. Onerepublic Extended Remix)",
+    "link": "https://music.163.com/song?id=26268890",
+    "duration": "07:08",
+    "artists": [
+      { "name": "Alesso", "link": "https://music.163.com/artist?id=29251" },
+      { "name": "OneRepublic", "link": "https://music.163.com/artist?id=98105" }
+    ],
+    "album": {
+      "name": "If I Lose Myself",
+      "link": "https://music.163.com/album?id=2438449"
+    }
+  },
+  {
+    "name": "Shape of My Heart",
+    "link": "https://music.163.com/song?id=16835273",
+    "duration": "03:50",
+    "artists": [
+      {
+        "name": "Backstreet Boys",
+        "link": "https://music.163.com/artist?id=88148"
+      }
+    ],
+    "album": {
+      "name": "Black & Blue",
+      "link": "https://music.163.com/album?id=1550463"
+    }
+  },
+  {
+    "name": "R U FCKNG SERIOUS (Original Mix)",
+    "link": "https://music.163.com/song?id=33991007",
+    "duration": "07:46",
+    "artists": [
+      {
+        "name": "Boris Brejcha",
+        "link": "https://music.163.com/artist?id=29878"
+      }
+    ],
+    "album": {
+      "name": "R U FCKNG SERIOUS",
+      "link": "https://music.163.com/album?id=3270142"
+    }
+  },
+  {
+    "name": "God Save the Rave",
+    "link": "https://music.163.com/song?id=1368219740",
+    "duration": "03:12",
+    "artists": [
+      { "name": "Scooter", "link": "https://music.163.com/artist?id=74686" },
+      {
+        "name": "Harris & Ford",
+        "link": "https://music.163.com/artist?id=11985013"
+      }
+    ],
+    "album": {
+      "name": "God Save the Rave",
+      "link": "https://music.163.com/album?id=79447452"
+    }
+  },
+  {
+    "name": "Always Like This",
+    "link": "https://music.163.com/song?id=26322486",
+    "duration": "05:25",
+    "artists": [
+      { "name": "HVOB", "link": "https://music.163.com/artist?id=688969" }
+    ],
+    "album": {
+      "name": "Always Like This",
+      "link": "https://music.163.com/album?id=2450964"
+    }
+  },
+  {
+    "name": "My Radio (DJ Tool Radio Edit)",
+    "link": "https://music.163.com/song?id=429411119",
+    "duration": "03:13",
+    "artists": [
+      {
+        "name": "Empyre One",
+        "link": "https://music.163.com/artist?id=387066"
+      },
+      { "name": "Energizer", "link": "https://music.163.com/artist?id=417330" },
+      { "name": "Dj Tool", "link": "https://music.163.com/artist?id=607434" }
+    ],
+    "album": {
+      "name": "My Radio",
+      "link": "https://music.163.com/album?id=34868059"
+    }
+  },
+  {
+    "name": "Deep Breaths",
+    "link": "https://music.163.com/song?id=538871398",
+    "duration": "03:02",
+    "artists": [
+      { "name": "Lookas", "link": "https://music.163.com/artist?id=935196" },
+      { "name": "Cal", "link": "https://music.163.com/artist?id=12515250" }
+    ],
+    "album": {
+      "name": "Deep Breaths",
+      "link": "https://music.163.com/album?id=37661315"
+    }
+  },
+  {
+    "name": "Jesus Christ",
+    "link": "https://music.163.com/song?id=521415529",
+    "duration": "04:46",
+    "artists": [
+      {
+        "name": "Luna Shadows",
+        "link": "https://music.163.com/artist?id=12000103"
+      }
+    ],
+    "album": {
+      "name": "Jesus Christ",
+      "link": "https://music.163.com/album?id=36873143"
+    }
+  },
+  {
+    "name": "Satellite",
+    "link": "https://music.163.com/song?id=438466247",
+    "duration": "03:41",
+    "artists": [
+      {
+        "name": "I.AM.WILLOW",
+        "link": "https://music.163.com/artist?id=12155371"
+      }
+    ],
+    "album": {
+      "name": "Satellite",
+      "link": "https://music.163.com/album?id=34944003"
+    }
+  },
+  {
+    "name": "Elysium (Full Track)",
+    "link": "https://music.163.com/song?id=429450816",
+    "duration": "03:30",
+    "artists": [
+      { "name": "Andreas B.", "link": "https://music.163.com/artist?id=299713" }
+    ],
+    "album": {
+      "name": "Enemy (Full Version)",
+      "link": "https://music.163.com/album?id=34861993"
+    }
+  },
+  {
+    "name": "Temple of Time (Wisp X Remix)",
+    "link": "https://music.163.com/song?id=417250287",
+    "duration": "02:33",
+    "artists": [
+      { "name": "Wisp X", "link": "https://music.163.com/artist?id=1046123" },
+      {
+        "name": "Maplestory",
+        "link": "https://music.163.com/artist?id=30165374"
+      }
+    ],
+    "album": {
+      "name": "Temple of Time (Wisp X Remix)",
+      "link": "https://music.163.com/album?id=34739159"
+    }
+  },
+  {
+    "name": "America 2",
+    "link": "https://music.163.com/song?id=1299563899",
+    "duration": "04:01",
+    "artists": [
+      {
+        "name": "The Midnight",
+        "link": "https://music.163.com/artist?id=12023492"
+      }
+    ],
+    "album": {
+      "name": " America 2",
+      "link": "https://music.163.com/album?id=72071263"
+    }
+  },
+  {
+    "name": "Don't Say",
+    "link": "https://music.163.com/song?id=862099429",
+    "duration": "03:02",
+    "artists": [
+      { "name": "Hoang", "link": "https://music.163.com/artist?id=27694442" },
+      { "name": "Nevve", "link": "https://music.163.com/artist?id=12567101" }
+    ],
+    "album": {
+      "name": "Don't Say",
+      "link": "https://music.163.com/album?id=71614737"
+    }
+  },
+  {
+    "name": "Deux Coeurs (Original Mix)",
+    "link": "https://music.163.com/song?id=33252501",
+    "duration": "06:36",
+    "artists": [
+      {
+        "name": "Sacral Reason",
+        "link": "https://music.163.com/artist?id=100753"
+      }
+    ],
+    "album": {
+      "name": "Chillout Paradise Volume 011",
+      "link": "https://music.163.com/album?id=3190423"
+    }
+  },
+  {
+    "name": "Understand Me",
+    "link": "https://music.163.com/song?id=509726936",
+    "duration": "03:37",
+    "artists": [
+      { "name": "CMC$", "link": "https://music.163.com/artist?id=1086052" },
+      {
+        "name": "Conor Maynard",
+        "link": "https://music.163.com/artist?id=29020"
+      }
+    ],
+    "album": {
+      "name": "Understand Me (Remixes)",
+      "link": "https://music.163.com/album?id=36450350"
+    }
+  },
+  {
+    "name": "Lazy songs",
+    "link": "https://music.163.com/song?id=25917310",
+    "duration": "03:32",
+    "artists": [
+      {
+        "name": "Linda Sundblad",
+        "link": "https://music.163.com/artist?id=64228"
+      }
+    ],
+    "album": {
+      "name": "Blue Lover",
+      "link": "https://music.163.com/album?id=2340314"
+    }
+  },
+  {
+    "name": "Starlight Memories",
+    "link": "https://music.163.com/song?id=1293032",
+    "duration": "05:38",
+    "artists": [
+      { "name": "Dennis Kuo", "link": "https://music.163.com/artist?id=32385" }
+    ],
+    "album": {
+      "name": "Study Music Project: Music for the Mind",
+      "link": "https://music.163.com/album?id=133421"
+    }
+  }
+]

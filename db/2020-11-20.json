@@ -1,0 +1,427 @@
+[
+  {
+    "name": "October Skies",
+    "link": "https://music.163.com/song?id=22359594",
+    "duration": "04:18",
+    "artists": [
+      {
+        "name": "Waking Ashland",
+        "link": "https://music.163.com/artist?id=84075"
+      }
+    ],
+    "album": {
+      "name": "Composure",
+      "link": "https://music.163.com/album?id=2050646"
+    }
+  },
+  {
+    "name": "夏",
+    "link": "https://music.163.com/song?id=30590330",
+    "duration": "05:17",
+    "artists": [
+      {
+        "name": "FLOWER FLOWER",
+        "link": "https://music.163.com/artist?id=789241"
+      }
+    ],
+    "album": { "name": "色", "link": "https://music.163.com/album?id=3102826" }
+  },
+  {
+    "name": "暗恋",
+    "link": "https://music.163.com/song?id=412016860",
+    "duration": "02:34",
+    "artists": [
+      { "name": "群星", "link": "https://music.163.com/artist?id=122455" }
+    ],
+    "album": {
+      "name": "梁祝的继承者们 音乐剧原声带",
+      "link": "https://music.163.com/album?id=34678646"
+    }
+  },
+  {
+    "name": "Hello My Love",
+    "link": "https://music.163.com/song?id=1338728670",
+    "duration": "03:34",
+    "artists": [
+      { "name": "Westlife", "link": "https://music.163.com/artist?id=45839" }
+    ],
+    "album": {
+      "name": "Hello My Love",
+      "link": "https://music.163.com/album?id=75119241"
+    }
+  },
+  {
+    "name": "Mermaid",
+    "link": "https://music.163.com/song?id=491604012",
+    "duration": "03:31",
+    "artists": [
+      { "name": "SKOTT", "link": "https://music.163.com/artist?id=12061139" }
+    ],
+    "album": {
+      "name": "Mermaid",
+      "link": "https://music.163.com/album?id=35789011"
+    }
+  },
+  {
+    "name": "A Peaceful Place",
+    "link": "https://music.163.com/song?id=426502133",
+    "duration": "04:36",
+    "artists": [
+      { "name": "Wisp X", "link": "https://music.163.com/artist?id=1046123" }
+    ],
+    "album": {
+      "name": "Falling With The Sakura Leaves",
+      "link": "https://music.163.com/album?id=34833039"
+    }
+  },
+  {
+    "name": "Decoy World VIP (feat. Park Avenue)",
+    "link": "https://music.163.com/song?id=528273782",
+    "duration": "04:30",
+    "artists": [
+      {
+        "name": "Intercom",
+        "link": "https://music.163.com/artist?id=12616082"
+      },
+      {
+        "name": "Park Avenue",
+        "link": "https://music.163.com/artist?id=368447"
+      }
+    ],
+    "album": {
+      "name": "Decoy World VIP (feat. Park Avenue)",
+      "link": "https://music.163.com/album?id=37238037"
+    }
+  },
+  {
+    "name": "Better By Myself",
+    "link": "https://music.163.com/song?id=1358194354",
+    "duration": "03:14",
+    "artists": [
+      {
+        "name": "Hey Violet",
+        "link": "https://music.163.com/artist?id=1102151"
+      }
+    ],
+    "album": {
+      "name": "Better By Myself",
+      "link": "https://music.163.com/album?id=78480671"
+    }
+  },
+  {
+    "name": "Fire and Flames",
+    "link": "https://music.163.com/song?id=1445856581",
+    "duration": "03:13",
+    "artists": [
+      {
+        "name": "Blackcode",
+        "link": "https://music.163.com/artist?id=30013002"
+      },
+      {
+        "name": "Morell Brown",
+        "link": "https://music.163.com/artist?id=30525145"
+      },
+      {
+        "name": "Revealed Recordings",
+        "link": "https://music.163.com/artist?id=28753573"
+      }
+    ],
+    "album": {
+      "name": "Fire and Flames",
+      "link": "https://music.163.com/album?id=89004181"
+    }
+  },
+  {
+    "name": "Endless War",
+    "link": "https://music.163.com/song?id=1343445127",
+    "duration": "04:09",
+    "artists": [
+      {
+        "name": "Within Temptation",
+        "link": "https://music.163.com/artist?id=105084"
+      }
+    ],
+    "album": {
+      "name": "Resist (Extended Deluxe)",
+      "link": "https://music.163.com/album?id=75403595"
+    }
+  },
+  {
+    "name": "Particle Arts",
+    "link": "https://music.163.com/song?id=523251142",
+    "duration": "03:54",
+    "artists": [
+      {
+        "name": "Virtual Self",
+        "link": "https://music.163.com/artist?id=12773843"
+      }
+    ],
+    "album": {
+      "name": "Virtual Self",
+      "link": "https://music.163.com/album?id=36633233"
+    }
+  },
+  {
+    "name": "Princesses Don't Cry",
+    "link": "https://music.163.com/song?id=536870202",
+    "duration": "03:32",
+    "artists": [
+      { "name": "CARYS", "link": "https://music.163.com/artist?id=14639123" }
+    ],
+    "album": {
+      "name": "Songs About Boys",
+      "link": "https://music.163.com/album?id=37586032"
+    }
+  },
+  {
+    "name": "Popsicle",
+    "link": "https://music.163.com/song?id=501214792",
+    "duration": "04:25",
+    "artists": [
+      { "name": "LFZ", "link": "https://music.163.com/artist?id=12132421" }
+    ],
+    "album": {
+      "name": "Popsicle",
+      "link": "https://music.163.com/album?id=36031457"
+    }
+  },
+  {
+    "name": "1999",
+    "link": "https://music.163.com/song?id=1476089083",
+    "duration": "03:09",
+    "artists": [
+      { "name": "Charli XCX", "link": "https://music.163.com/artist?id=53092" },
+      { "name": "Troye Sivan", "link": "https://music.163.com/artist?id=45129" }
+    ],
+    "album": {
+      "name": "Glow Up",
+      "link": "https://music.163.com/album?id=94879814"
+    }
+  },
+  {
+    "name": "草莓味奶糖",
+    "link": "https://music.163.com/song?id=1458217409",
+    "duration": "03:19",
+    "artists": [
+      { "name": "Hea2t", "link": "https://music.163.com/artist?id=12020036" }
+    ],
+    "album": {
+      "name": "草莓味奶糖",
+      "link": "https://music.163.com/album?id=91485265"
+    }
+  },
+  {
+    "name": "World",
+    "link": "https://music.163.com/song?id=513156080",
+    "duration": "03:37",
+    "artists": [
+      { "name": "Dio Deer", "link": "https://music.163.com/artist?id=12319430" }
+    ],
+    "album": {
+      "name": "World",
+      "link": "https://music.163.com/album?id=36568352"
+    }
+  },
+  {
+    "name": "Breathe into Me (Instrumental)",
+    "link": "https://music.163.com/song?id=560092581",
+    "duration": "03:12",
+    "artists": [
+      {
+        "name": "Angelika Vee",
+        "link": "https://music.163.com/artist?id=904230"
+      },
+      {
+        "name": "Sons Of Maria",
+        "link": "https://music.163.com/artist?id=210916"
+      }
+    ],
+    "album": {
+      "name": "Breathe into Me",
+      "link": "https://music.163.com/album?id=35158923"
+    }
+  },
+  {
+    "name": "云",
+    "link": "https://music.163.com/song?id=544918519",
+    "duration": "03:42",
+    "artists": [
+      { "name": "OYRH", "link": "https://music.163.com/artist?id=12308092" }
+    ],
+    "album": { "name": "云", "link": "https://music.163.com/album?id=37876733" }
+  },
+  {
+    "name": "Kings & Queens",
+    "link": "https://music.163.com/song?id=1480204491",
+    "duration": "02:42",
+    "artists": [
+      { "name": "Ava Max", "link": "https://music.163.com/artist?id=14486166" }
+    ],
+    "album": {
+      "name": "Heaven & Hell",
+      "link": "https://music.163.com/album?id=95589461"
+    }
+  },
+  {
+    "name": "P.O.L.I.T.I.C.S.",
+    "link": "https://music.163.com/song?id=1357793508",
+    "duration": "03:29",
+    "artists": [
+      { "name": "Missio", "link": "https://music.163.com/artist?id=1038292" }
+    ],
+    "album": {
+      "name": "The Darker The Weather // The Better The Man",
+      "link": "https://music.163.com/album?id=78423616"
+    }
+  },
+  {
+    "name": "Libertalia",
+    "link": "https://music.163.com/song?id=1462802540",
+    "duration": "03:41",
+    "artists": [
+      { "name": "KEVU", "link": "https://music.163.com/artist?id=12024356" },
+      { "name": "GIFTBACK", "link": "https://music.163.com/artist?id=12001126" }
+    ],
+    "album": {
+      "name": "Libertalia",
+      "link": "https://music.163.com/album?id=92426585"
+    }
+  },
+  {
+    "name": "Glisten",
+    "link": "https://music.163.com/song?id=479571057",
+    "duration": "03:29",
+    "artists": [
+      { "name": "浮云心丶", "link": "https://music.163.com/artist?id=12350867" }
+    ],
+    "album": {
+      "name": "Glisten",
+      "link": "https://music.163.com/album?id=35533566"
+    }
+  },
+  {
+    "name": "City Streets",
+    "link": "https://music.163.com/song?id=1357730313",
+    "duration": "03:33",
+    "artists": [
+      {
+        "name": "Charly Lownoise",
+        "link": "https://music.163.com/artist?id=14102753"
+      },
+      { "name": "Re-Style", "link": "https://music.163.com/artist?id=709052" }
+    ],
+    "album": {
+      "name": "City Streets",
+      "link": "https://music.163.com/album?id=78416502"
+    }
+  },
+  {
+    "name": "Cocoa",
+    "link": "https://music.163.com/song?id=553815055",
+    "duration": "02:44",
+    "artists": [
+      {
+        "name": "Finding Hope",
+        "link": "https://music.163.com/artist?id=1155051"
+      }
+    ],
+    "album": {
+      "name": "Lost in Translation",
+      "link": "https://music.163.com/album?id=38404014"
+    }
+  },
+  {
+    "name": "Perfectly You",
+    "link": "https://music.163.com/song?id=29092874",
+    "duration": "03:01",
+    "artists": [
+      { "name": "Tim Urban", "link": "https://music.163.com/artist?id=45237" }
+    ],
+    "album": {
+      "name": "Perfectly You",
+      "link": "https://music.163.com/album?id=2988701"
+    }
+  },
+  {
+    "name": "Versailles",
+    "link": "https://music.163.com/song?id=28254068",
+    "duration": "03:25",
+    "artists": [
+      { "name": "Amy Stroup", "link": "https://music.163.com/artist?id=48088" }
+    ],
+    "album": {
+      "name": "Tunnel",
+      "link": "https://music.163.com/album?id=2759557"
+    }
+  },
+  {
+    "name": "let go (original mix)",
+    "link": "https://music.163.com/song?id=26450574",
+    "duration": "07:35",
+    "artists": [
+      {
+        "name": "Blackluster",
+        "link": "https://music.163.com/artist?id=777254"
+      }
+    ],
+    "album": {
+      "name": "living the dream",
+      "link": "https://music.163.com/album?id=2502072"
+    }
+  },
+  {
+    "name": "Coastal Glow (Original Mix)",
+    "link": "https://music.163.com/song?id=419238452",
+    "duration": "07:01",
+    "artists": [
+      {
+        "name": "Gregory Esayan",
+        "link": "https://music.163.com/artist?id=193198"
+      }
+    ],
+    "album": {
+      "name": "Coastal Glow",
+      "link": "https://music.163.com/album?id=34751058"
+    }
+  },
+  {
+    "name": "Alan Walker-Faded（鹿先生Music / I2090 remix）",
+    "link": "https://music.163.com/song?id=1451272050",
+    "duration": "04:15",
+    "artists": [
+      {
+        "name": "鹿先生Music",
+        "link": "https://music.163.com/artist?id=34329021"
+      },
+      { "name": "I2090", "link": "https://music.163.com/artist?id=34050894" }
+    ],
+    "album": {
+      "name": "Faded",
+      "link": "https://music.163.com/album?id=89953374"
+    }
+  },
+  {
+    "name": "Heartless",
+    "link": "https://music.163.com/song?id=1362147366",
+    "duration": "03:10",
+    "artists": [
+      { "name": "YVR", "link": "https://music.163.com/artist?id=30714855" }
+    ],
+    "album": {
+      "name": "Night Days",
+      "link": "https://music.163.com/album?id=78846060"
+    }
+  },
+  {
+    "name": "会不会（吉他版）",
+    "link": "https://music.163.com/song?id=1481164987",
+    "duration": "03:54",
+    "artists": [
+      { "name": "刘大壮", "link": "https://music.163.com/artist?id=31165848" }
+    ],
+    "album": {
+      "name": "会不会",
+      "link": "https://music.163.com/album?id=95746611"
+    }
+  }
+]

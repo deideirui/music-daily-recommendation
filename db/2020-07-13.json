@@ -1,0 +1,436 @@
+[
+  {
+    "name": "We Do",
+    "link": "https://music.163.com/song?id=544739937",
+    "duration": "02:16",
+    "artists": [
+      { "name": "R3hab", "link": "https://music.163.com/artist?id=197248" },
+      {
+        "name": "Noah Neiman",
+        "link": "https://music.163.com/artist?id=193805"
+      },
+      {
+        "name": "Miranda Glory",
+        "link": "https://music.163.com/artist?id=12463504"
+      }
+    ],
+    "album": {
+      "name": "We Do",
+      "link": "https://music.163.com/album?id=37928027"
+    }
+  },
+  {
+    "name": "Defy",
+    "link": "https://music.163.com/song?id=1327809651",
+    "duration": "03:33",
+    "artists": [
+      {
+        "name": "HoneyComeBear",
+        "link": "https://music.163.com/artist?id=12675383"
+      }
+    ],
+    "album": {
+      "name": "Defy",
+      "link": "https://music.163.com/album?id=74544056"
+    }
+  },
+  {
+    "name": "Seeds (cloudfield Remix)",
+    "link": "https://music.163.com/song?id=520458135",
+    "duration": "03:06",
+    "artists": [
+      {
+        "name": "cloudfield",
+        "link": "https://music.163.com/artist?id=12108490"
+      },
+      { "name": "Fokushi", "link": "https://music.163.com/artist?id=12894272" },
+      { "name": "taobien", "link": "https://music.163.com/artist?id=29799434" }
+    ],
+    "album": {
+      "name": "Seeds (cloudfield Remix)",
+      "link": "https://music.163.com/album?id=36853044"
+    }
+  },
+  {
+    "name": "Where We Wanna Be",
+    "link": "https://music.163.com/song?id=1376140964",
+    "duration": "03:26",
+    "artists": [
+      {
+        "name": "Hyper Potions",
+        "link": "https://music.163.com/artist?id=1074092"
+      },
+      { "name": "Slyleaf", "link": "https://music.163.com/artist?id=12155045" },
+      { "name": "Mega Flare", "link": "https://music.163.com/artist?id=763099" }
+    ],
+    "album": {
+      "name": "Where We Wanna Be",
+      "link": "https://music.163.com/album?id=80238354"
+    }
+  },
+  {
+    "name": "Another Life - (Official Balaton Sound Anthem 2016)",
+    "link": "https://music.163.com/song?id=421148451",
+    "duration": "03:04",
+    "artists": [
+      { "name": "Stadiumx", "link": "https://music.163.com/artist?id=1004052" },
+      { "name": "Baha", "link": "https://music.163.com/artist?id=411838" },
+      {
+        "name": "Markquis ",
+        "link": "https://music.163.com/artist?id=12009137"
+      },
+      {
+        "name": "Delaney Jane",
+        "link": "https://music.163.com/artist?id=1132286"
+      }
+    ],
+    "album": {
+      "name": "Another Life",
+      "link": "https://music.163.com/album?id=34780144"
+    }
+  },
+  {
+    "name": "What Would I Change It To",
+    "link": "https://music.163.com/song?id=496869524",
+    "duration": "03:05",
+    "artists": [
+      { "name": "Avicii", "link": "https://music.163.com/artist?id=45236" },
+      { "name": "AlunaGeorge", "link": "https://music.163.com/artist?id=48362" }
+    ],
+    "album": {
+      "name": "AVĪCI (01)",
+      "link": "https://music.163.com/album?id=35919060"
+    }
+  },
+  {
+    "name": "Heart Of The City",
+    "link": "https://music.163.com/song?id=490622013",
+    "duration": "03:17",
+    "artists": [
+      {
+        "name": "Breathe Carolina",
+        "link": "https://music.163.com/artist?id=88214"
+      }
+    ],
+    "album": {
+      "name": "Coma",
+      "link": "https://music.163.com/album?id=35759010"
+    }
+  },
+  {
+    "name": "Colors",
+    "link": "https://music.163.com/song?id=34144937",
+    "duration": "04:09",
+    "artists": [
+      { "name": "Halsey", "link": "https://music.163.com/artist?id=964321" }
+    ],
+    "album": {
+      "name": "BADLANDS (Deluxe Edition)",
+      "link": "https://music.163.com/album?id=3271514"
+    }
+  },
+  {
+    "name": "Everyday Of My Life (Original Mix)",
+    "link": "https://music.163.com/song?id=28593173",
+    "duration": "06:19",
+    "artists": [
+      {
+        "name": "Third Party",
+        "link": "https://music.163.com/artist?id=784231"
+      }
+    ],
+    "album": {
+      "name": "Everyday Of My Life (Original Mix)",
+      "link": "https://music.163.com/album?id=2854040"
+    }
+  },
+  {
+    "name": "One Direction Medley",
+    "link": "https://music.163.com/song?id=464035016",
+    "duration": "02:37",
+    "artists": [
+      {
+        "name": "Anthem Lights",
+        "link": "https://music.163.com/artist?id=86862"
+      }
+    ],
+    "album": {
+      "name": "I (Heart) Boy Bands",
+      "link": "https://music.163.com/album?id=35241098"
+    }
+  },
+  {
+    "name": "Stay (Aventry Remix)",
+    "link": "https://music.163.com/song?id=399367806",
+    "duration": "03:07",
+    "artists": [
+      { "name": "Aventry", "link": "https://music.163.com/artist?id=1192289" },
+      { "name": "Kygo", "link": "https://music.163.com/artist?id=844410" },
+      {
+        "name": "Maty Noyes",
+        "link": "https://music.163.com/artist?id=12073280"
+      }
+    ],
+    "album": {
+      "name": "Stay (Aventry Remix)",
+      "link": "https://music.163.com/album?id=34407422"
+    }
+  },
+  {
+    "name": "Don't say \"lazy\"",
+    "link": "https://music.163.com/song?id=26201885",
+    "duration": "04:23",
+    "artists": [
+      { "name": "桜高軽音部", "link": "https://music.163.com/artist?id=161104" }
+    ],
+    "album": {
+      "name": "K-ON! Music History's Box",
+      "link": "https://music.163.com/album?id=2420303"
+    }
+  },
+  {
+    "name": "For The Time Being featuring Erlend Øye (Original Mix)",
+    "link": "https://music.163.com/song?id=23016708",
+    "duration": "06:53",
+    "artists": [
+      { "name": "Phonique", "link": "https://music.163.com/artist?id=130170" }
+    ],
+    "album": {
+      "name": "Dessous Classics Volume 2",
+      "link": "https://music.163.com/album?id=2115560"
+    }
+  },
+  {
+    "name": "Love yourself - (原唱：Justin Bieber)",
+    "link": "https://music.163.com/song?id=438801642",
+    "duration": "01:26",
+    "artists": [
+      { "name": "灿烈", "link": "https://music.163.com/artist?id=1011017" },
+      { "name": "D.O.", "link": "https://music.163.com/artist?id=1019321" }
+    ],
+    "album": {
+      "name": "real__pcy",
+      "link": "https://music.163.com/album?id=3332114"
+    }
+  },
+  {
+    "name": "Got Me Thinking",
+    "link": "https://music.163.com/song?id=410629444",
+    "duration": "03:31",
+    "artists": [
+      { "name": "Maduk", "link": "https://music.163.com/artist?id=361816" },
+      { "name": "Veela", "link": "https://music.163.com/artist?id=193221" }
+    ],
+    "album": {
+      "name": "Got Me Thinking ",
+      "link": "https://music.163.com/album?id=34670066"
+    }
+  },
+  {
+    "name": "Serenity (Original Mix)",
+    "link": "https://music.163.com/song?id=29586335",
+    "duration": "07:22",
+    "artists": [
+      { "name": "Stendahl", "link": "https://music.163.com/artist?id=937020" }
+    ],
+    "album": {
+      "name": "The Best Of Incepto Volume 7",
+      "link": "https://music.163.com/album?id=3052275"
+    }
+  },
+  {
+    "name": "Another Day Without Sunrise (Denis Neve Remix)",
+    "link": "https://music.163.com/song?id=39224226",
+    "duration": "06:39",
+    "artists": [
+      { "name": "Eximinds", "link": "https://music.163.com/artist?id=199555" },
+      {
+        "name": "Jo Cartwright",
+        "link": "https://music.163.com/artist?id=1161100"
+      },
+      { "name": "Denis Neve", "link": "https://music.163.com/artist?id=858447" }
+    ],
+    "album": {
+      "name": "Another Day Without Sunrise",
+      "link": "https://music.163.com/album?id=3428762"
+    }
+  },
+  {
+    "name": "Dust (Original Mix)",
+    "link": "https://music.163.com/song?id=29535940",
+    "duration": "08:07",
+    "artists": [
+      { "name": "Paronator", "link": "https://music.163.com/artist?id=41591" }
+    ],
+    "album": {
+      "name": "Silk Textures 03 (Compiled & Mixed by Da Funk)",
+      "link": "https://music.163.com/album?id=3029976"
+    }
+  },
+  {
+    "name": "Astro",
+    "link": "https://music.163.com/song?id=1452169354",
+    "duration": "02:32",
+    "artists": [
+      {
+        "name": "Jake Miller",
+        "link": "https://music.163.com/artist?id=35363744"
+      }
+    ],
+    "album": {
+      "name": "Astro",
+      "link": "https://music.163.com/album?id=90188764"
+    }
+  },
+  {
+    "name": "Chemical Love (Sultan & Ned Shepard Remix)",
+    "link": "https://music.163.com/song?id=26065094",
+    "duration": "05:06",
+    "artists": [
+      {
+        "name": "Matt Caseli",
+        "link": "https://music.163.com/artist?id=146179"
+      }
+    ],
+    "album": {
+      "name": "Chemical Love",
+      "link": "https://music.163.com/album?id=2369970"
+    }
+  },
+  {
+    "name": "終わりの世界から",
+    "link": "https://music.163.com/song?id=676508",
+    "duration": "05:57",
+    "artists": [
+      { "name": "やなぎなぎ", "link": "https://music.163.com/artist?id=18303" }
+    ],
+    "album": {
+      "name": "終わりの惑星のLove Song",
+      "link": "https://music.163.com/album?id=65291"
+    }
+  },
+  {
+    "name": "베베 (BABE)",
+    "link": "https://music.163.com/song?id=502238344",
+    "duration": "03:13",
+    "artists": [
+      { "name": "泫雅", "link": "https://music.163.com/artist?id=126066" }
+    ],
+    "album": {
+      "name": "Following",
+      "link": "https://music.163.com/album?id=36030686"
+    }
+  },
+  {
+    "name": "So Long",
+    "link": "https://music.163.com/song?id=547976271",
+    "duration": "02:16",
+    "artists": [
+      { "name": "ALXVLTZ", "link": "https://music.163.com/artist?id=13707324" },
+      {
+        "name": "Shiloh Dynasty",
+        "link": "https://music.163.com/artist?id=12647577"
+      }
+    ],
+    "album": {
+      "name": "So Long",
+      "link": "https://music.163.com/album?id=38045078"
+    }
+  },
+  {
+    "name": "圣母院",
+    "link": "https://music.163.com/song?id=1360470643",
+    "duration": "01:38",
+    "artists": [
+      {
+        "name": "Ice Paper",
+        "link": "https://music.163.com/artist?id=12121264"
+      }
+    ],
+    "album": {
+      "name": "777",
+      "link": "https://music.163.com/album?id=78540566"
+    }
+  },
+  {
+    "name": "追（翻自 陈壹千） ",
+    "link": "https://music.163.com/song?id=1412753150",
+    "duration": "00:32",
+    "artists": [
+      {
+        "name": "知性的小方块",
+        "link": "https://music.163.com/artist?id=1049276"
+      }
+    ],
+    "album": {
+      "name": "追（抖音版）",
+      "link": "https://music.163.com/album?id=84030190"
+    }
+  },
+  {
+    "name": "There For You",
+    "link": "https://music.163.com/song?id=480426313",
+    "duration": "03:41",
+    "artists": [
+      {
+        "name": "Martin Garrix",
+        "link": "https://music.163.com/artist?id=780003"
+      },
+      { "name": "Troye Sivan", "link": "https://music.163.com/artist?id=45129" }
+    ],
+    "album": {
+      "name": "There For You",
+      "link": "https://music.163.com/album?id=35554106"
+    }
+  },
+  {
+    "name": "Halcyon",
+    "link": "https://music.163.com/song?id=2319986",
+    "duration": "07:14",
+    "artists": [
+      { "name": "Chicane", "link": "https://music.163.com/artist?id=50971" }
+    ],
+    "album": {
+      "name": "The Best Of Chicane 1996 - 2009",
+      "link": "https://music.163.com/album?id=233963"
+    }
+  },
+  {
+    "name": "好心分手",
+    "link": "https://music.163.com/song?id=25642484",
+    "duration": "03:00",
+    "artists": [
+      { "name": "王力宏", "link": "https://music.163.com/artist?id=5346" },
+      { "name": "卢巧音", "link": "https://music.163.com/artist?id=8330" }
+    ],
+    "album": {
+      "name": "Dream Again(新歌+精选)",
+      "link": "https://music.163.com/album?id=2263126"
+    }
+  },
+  {
+    "name": "いのちの名前 ~ジブリ・メドレー~",
+    "link": "https://music.163.com/song?id=4900975",
+    "duration": "04:26",
+    "artists": [
+      { "name": "DJ SLY", "link": "https://music.163.com/artist?id=13954" }
+    ],
+    "album": {
+      "name": "The Best of Jazzin’for Ghibli",
+      "link": "https://music.163.com/album?id=491587"
+    }
+  },
+  {
+    "name": "뜨겁지가 않아 - (不热)",
+    "link": "https://music.163.com/song?id=35779017",
+    "duration": "03:12",
+    "artists": [
+      { "name": "Paul Kim", "link": "https://music.163.com/artist?id=1137437" },
+      { "name": "BILL STAX", "link": "https://music.163.com/artist?id=124914" }
+    ],
+    "album": {
+      "name": "뜨겁지가 않아",
+      "link": "https://music.163.com/album?id=3370002"
+    }
+  }
+]

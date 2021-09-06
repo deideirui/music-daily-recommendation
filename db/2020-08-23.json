@@ -1,0 +1,468 @@
+[
+  {
+    "name": "Brand New",
+    "link": "https://music.163.com/song?id=533455452",
+    "duration": "02:43",
+    "artists": [
+      {
+        "name": "Blinded Hearts",
+        "link": "https://music.163.com/artist?id=12154200"
+      },
+      {
+        "name": "Louise CS",
+        "link": "https://music.163.com/artist?id=13576835"
+      }
+    ],
+    "album": {
+      "name": "Brand New",
+      "link": "https://music.163.com/album?id=37391369"
+    }
+  },
+  {
+    "name": "By My Side",
+    "link": "https://music.163.com/song?id=1412523946",
+    "duration": "02:51",
+    "artists": [
+      { "name": "DEAMN", "link": "https://music.163.com/artist?id=12047335" }
+    ],
+    "album": {
+      "name": "Frozen",
+      "link": "https://music.163.com/album?id=84552036"
+    }
+  },
+  {
+    "name": "Memories",
+    "link": "https://music.163.com/song?id=1420611674",
+    "duration": "02:53",
+    "artists": [
+      { "name": "BEAUZ", "link": "https://music.163.com/artist?id=12131436" },
+      { "name": "Linney", "link": "https://music.163.com/artist?id=1193247" }
+    ],
+    "album": {
+      "name": "Memories",
+      "link": "https://music.163.com/album?id=85428007"
+    }
+  },
+  {
+    "name": "Congratulations",
+    "link": "https://music.163.com/song?id=1400750213",
+    "duration": "03:21",
+    "artists": [
+      {
+        "name": "Don Diablo",
+        "link": "https://music.163.com/artist?id=139072"
+      },
+      { "name": "Brando", "link": "https://music.163.com/artist?id=49787" }
+    ],
+    "album": {
+      "name": "Congratulations",
+      "link": "https://music.163.com/album?id=82954324"
+    }
+  },
+  {
+    "name": "They Told Me",
+    "link": "https://music.163.com/song?id=1331905927",
+    "duration": "03:01",
+    "artists": [
+      {
+        "name": "Palm Trees",
+        "link": "https://music.163.com/artist?id=1135109"
+      },
+      {
+        "name": "Sophia Ayana",
+        "link": "https://music.163.com/artist?id=12446102"
+      }
+    ],
+    "album": {
+      "name": "They Told Me",
+      "link": "https://music.163.com/album?id=74812473"
+    }
+  },
+  {
+    "name": "Home",
+    "link": "https://music.163.com/song?id=1361165082",
+    "duration": "02:13",
+    "artists": [
+      { "name": "J. Lisk", "link": "https://music.163.com/artist?id=12121101" }
+    ],
+    "album": {
+      "name": "Home",
+      "link": "https://music.163.com/album?id=78706183"
+    }
+  },
+  {
+    "name": "Final Song (OutaMatic Remix)",
+    "link": "https://music.163.com/song?id=427614378",
+    "duration": "03:55",
+    "artists": [
+      {
+        "name": "OutaMatic",
+        "link": "https://music.163.com/artist?id=1181741"
+      },
+      { "name": "MØ", "link": "https://music.163.com/artist?id=783150" }
+    ],
+    "album": {
+      "name": " Final Song (OutaMatic Remix)",
+      "link": "https://music.163.com/album?id=34840772"
+    }
+  },
+  {
+    "name": "Le Le Le Go",
+    "link": "https://music.163.com/song?id=1407959857",
+    "duration": "02:40",
+    "artists": [
+      {
+        "name": "Lucas Estrada",
+        "link": "https://music.163.com/artist?id=12409125"
+      },
+      {
+        "name": "Alex Schulz",
+        "link": "https://music.163.com/artist?id=1101039"
+      },
+      { "name": "NEIMY", "link": "https://music.163.com/artist?id=12742289" }
+    ],
+    "album": {
+      "name": "Le Le Let Go",
+      "link": "https://music.163.com/album?id=83935437"
+    }
+  },
+  {
+    "name": "More Than I Do",
+    "link": "https://music.163.com/song?id=515452032",
+    "duration": "03:20",
+    "artists": [
+      { "name": "Saxity", "link": "https://music.163.com/artist?id=881034" },
+      { "name": "Oferle", "link": "https://music.163.com/artist?id=13980291" }
+    ],
+    "album": {
+      "name": "More Than I Do",
+      "link": "https://music.163.com/album?id=36681013"
+    }
+  },
+  {
+    "name": "Get Out My Head",
+    "link": "https://music.163.com/song?id=1414639583",
+    "duration": "02:38",
+    "artists": [
+      { "name": "HINA", "link": "https://music.163.com/artist?id=12649631" }
+    ],
+    "album": {
+      "name": "Get Out My Head",
+      "link": "https://music.163.com/album?id=84660611"
+    }
+  },
+  {
+    "name": "Divine",
+    "link": "https://music.163.com/song?id=1444354145",
+    "duration": "02:45",
+    "artists": [
+      { "name": "Uplink", "link": "https://music.163.com/artist?id=1101051" }
+    ],
+    "album": {
+      "name": "Divine",
+      "link": "https://music.163.com/album?id=88710019"
+    }
+  },
+  {
+    "name": "Thinkin 'Bout You",
+    "link": "https://music.163.com/song?id=1429827400",
+    "duration": "02:55",
+    "artists": [
+      {
+        "name": "Conor Ross",
+        "link": "https://music.163.com/artist?id=13128139"
+      }
+    ],
+    "album": {
+      "name": "Thinkin' Bout You",
+      "link": "https://music.163.com/album?id=86389327"
+    }
+  },
+  {
+    "name": "Somebody To Love",
+    "link": "https://music.163.com/song?id=1427009474",
+    "duration": "02:52",
+    "artists": [
+      {
+        "name": "Dave Crusher",
+        "link": "https://music.163.com/artist?id=12915447"
+      },
+      { "name": "JackMar", "link": "https://music.163.com/artist?id=34343473" },
+      { "name": "Lev", "link": "https://music.163.com/artist?id=12948329" }
+    ],
+    "album": {
+      "name": "Somebody To Love",
+      "link": "https://music.163.com/album?id=86105525"
+    }
+  },
+  {
+    "name": "No Crime",
+    "link": "https://music.163.com/song?id=1422612356",
+    "duration": "03:20",
+    "artists": [
+      {
+        "name": "Asketa & Natan Chaim",
+        "link": "https://music.163.com/artist?id=32523005"
+      },
+      {
+        "name": "Jess Ball",
+        "link": "https://music.163.com/artist?id=33784327"
+      }
+    ],
+    "album": {
+      "name": "No Crime",
+      "link": "https://music.163.com/album?id=85650331"
+    }
+  },
+  {
+    "name": "Thinking Bout You",
+    "link": "https://music.163.com/song?id=1386785723",
+    "duration": "03:04",
+    "artists": [
+      { "name": "Disero", "link": "https://music.163.com/artist?id=14675307" },
+      {
+        "name": "Bertie Scott",
+        "link": "https://music.163.com/artist?id=32696924"
+      }
+    ],
+    "album": {
+      "name": "Thinking Bout You",
+      "link": "https://music.163.com/album?id=81164514"
+    }
+  },
+  {
+    "name": "Midbar",
+    "link": "https://music.163.com/song?id=1408083571",
+    "duration": "02:20",
+    "artists": [
+      { "name": "Sickrate", "link": "https://music.163.com/artist?id=32795333" }
+    ],
+    "album": {
+      "name": "Midbar",
+      "link": "https://music.163.com/album?id=83947877"
+    }
+  },
+  {
+    "name": "Who We Are",
+    "link": "https://music.163.com/song?id=1395164637",
+    "duration": "03:09",
+    "artists": [
+      { "name": "Eedion", "link": "https://music.163.com/artist?id=12263527" },
+      {
+        "name": "Raptures.",
+        "link": "https://music.163.com/artist?id=31776879"
+      }
+    ],
+    "album": {
+      "name": "Who We Are",
+      "link": "https://music.163.com/album?id=82160767"
+    }
+  },
+  {
+    "name": "Like This (RetroVision Edit)",
+    "link": "https://music.163.com/song?id=1441272375",
+    "duration": "02:38",
+    "artists": [
+      {
+        "name": "Tommy Jayden",
+        "link": "https://music.163.com/artist?id=12248066"
+      },
+      {
+        "name": "RetroVision",
+        "link": "https://music.163.com/artist?id=11976142"
+      }
+    ],
+    "album": {
+      "name": "Like This (RetroVision Edit)",
+      "link": "https://music.163.com/album?id=88145619"
+    }
+  },
+  {
+    "name": "Older Now (James Carter x NLSN Remix)",
+    "link": "https://music.163.com/song?id=1344772409",
+    "duration": "02:47",
+    "artists": [
+      {
+        "name": "James Carter",
+        "link": "https://music.163.com/artist?id=12047749"
+      },
+      { "name": "Klei", "link": "https://music.163.com/artist?id=12995337" },
+      { "name": "NLSN", "link": "https://music.163.com/artist?id=12121013" }
+    ],
+    "album": {
+      "name": "Older Now (incl. Remixes)",
+      "link": "https://music.163.com/album?id=75485760"
+    }
+  },
+  {
+    "name": "Better with You",
+    "link": "https://music.163.com/song?id=531181934",
+    "duration": "03:18",
+    "artists": [
+      {
+        "name": "Jesse McCartney",
+        "link": "https://music.163.com/artist?id=35336"
+      }
+    ],
+    "album": {
+      "name": "Better with You",
+      "link": "https://music.163.com/album?id=37252431"
+    }
+  },
+  {
+    "name": "Hard Pass",
+    "link": "https://music.163.com/song?id=1342022461",
+    "duration": "03:56",
+    "artists": [
+      { "name": "Tritonal", "link": "https://music.163.com/artist?id=104133" },
+      { "name": "Ryann", "link": "https://music.163.com/artist?id=31156273" }
+    ],
+    "album": {
+      "name": "Hard Pass",
+      "link": "https://music.163.com/album?id=75327826"
+    }
+  },
+  {
+    "name": "My Name Isn’t",
+    "link": "https://music.163.com/song?id=1340514784",
+    "duration": "02:54",
+    "artists": [
+      { "name": "LOVA", "link": "https://music.163.com/artist?id=13163116" }
+    ],
+    "album": {
+      "name": "My Name Isn’t",
+      "link": "https://music.163.com/album?id=75227059"
+    }
+  },
+  {
+    "name": "Mercy",
+    "link": "https://music.163.com/song?id=1400369392",
+    "duration": "03:42",
+    "artists": [
+      { "name": "MitiS", "link": "https://music.163.com/artist?id=40245" },
+      { "name": "glasscat", "link": "https://music.163.com/artist?id=30729379" }
+    ],
+    "album": {
+      "name": "Mercy",
+      "link": "https://music.163.com/album?id=82914421"
+    }
+  },
+  {
+    "name": "Won't Come Back (JVNA Remix)",
+    "link": "https://music.163.com/song?id=1300198788",
+    "duration": "03:39",
+    "artists": [
+      { "name": "ARMNHMR", "link": "https://music.163.com/artist?id=1132078" },
+      { "name": "Convex", "link": "https://music.163.com/artist?id=355739" },
+      { "name": "JVNA", "link": "https://music.163.com/artist?id=28692563" },
+      { "name": "Jex", "link": "https://music.163.com/artist?id=12007273" }
+    ],
+    "album": {
+      "name": "Won't Come Back Remixes",
+      "link": "https://music.163.com/album?id=72214836"
+    }
+  },
+  {
+    "name": "Sugar Rush",
+    "link": "https://music.163.com/song?id=27875317",
+    "duration": "03:48",
+    "artists": [
+      {
+        "name": "Virtual Riot",
+        "link": "https://music.163.com/artist?id=813244"
+      }
+    ],
+    "album": {
+      "name": "Sugar Rush",
+      "link": "https://music.163.com/album?id=2688353"
+    }
+  },
+  {
+    "name": "Lost Soul ",
+    "link": "https://music.163.com/song?id=33391788",
+    "duration": "04:07",
+    "artists": [
+      {
+        "name": "West District",
+        "link": "https://music.163.com/artist?id=1050867"
+      },
+      { "name": "Mona Moua", "link": "https://music.163.com/artist?id=292048" }
+    ],
+    "album": {
+      "name": " Lost Soul",
+      "link": "https://music.163.com/album?id=3208070"
+    }
+  },
+  {
+    "name": "The Force Theme",
+    "link": "https://music.163.com/song?id=524149467",
+    "duration": "03:08",
+    "artists": [
+      { "name": "Far Out", "link": "https://music.163.com/artist?id=824107" }
+    ],
+    "album": {
+      "name": "The Force Theme",
+      "link": "https://music.163.com/album?id=36980163"
+    }
+  },
+  {
+    "name": "Time",
+    "link": "https://music.163.com/song?id=1451321353",
+    "duration": "04:54",
+    "artists": [
+      { "name": "Stonebank", "link": "https://music.163.com/artist?id=938033" },
+      { "name": "Emel", "link": "https://music.163.com/artist?id=137565" }
+    ],
+    "album": {
+      "name": "Time",
+      "link": "https://music.163.com/album?id=90023310"
+    }
+  },
+  {
+    "name": "Don't Need You",
+    "link": "https://music.163.com/song?id=1406452396",
+    "duration": "02:51",
+    "artists": [
+      { "name": "Facading", "link": "https://music.163.com/artist?id=32779370" }
+    ],
+    "album": {
+      "name": "Don't Need You",
+      "link": "https://music.163.com/album?id=83743169"
+    }
+  },
+  {
+    "name": "River of Darkness",
+    "link": "https://music.163.com/song?id=1382563370",
+    "duration": "06:05",
+    "artists": [
+      {
+        "name": "The Midnight",
+        "link": "https://music.163.com/artist?id=12023492"
+      },
+      {
+        "name": "Timecop1983",
+        "link": "https://music.163.com/artist?id=954496"
+      }
+    ],
+    "album": {
+      "name": "Nocturnal",
+      "link": "https://music.163.com/album?id=80814887"
+    }
+  },
+  {
+    "name": "Long Ago",
+    "link": "https://music.163.com/song?id=436346513",
+    "duration": "04:01",
+    "artists": [
+      {
+        "name": "Crystal Skies",
+        "link": "https://music.163.com/artist?id=1063127"
+      },
+      { "name": "Q'Aila", "link": "https://music.163.com/artist?id=1165039" }
+    ],
+    "album": {
+      "name": "Long Ago",
+      "link": "https://music.163.com/album?id=34930074"
+    }
+  }
+]

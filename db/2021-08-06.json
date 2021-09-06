@@ -1,0 +1,463 @@
+[
+  {
+    "name": "Wrong (feat. Emilia Ali)",
+    "link": "https://music.163.com/song?id=512358397",
+    "duration": "03:03",
+    "artists": [
+      { "name": "Far Out", "link": "https://music.163.com/artist?id=824107" },
+      {
+        "name": "Emilia Ali",
+        "link": "https://music.163.com/artist?id=13059239"
+      }
+    ],
+    "album": {
+      "name": "Wrong (feat. Emilia Ali)",
+      "link": "https://music.163.com/album?id=36535090"
+    }
+  },
+  {
+    "name": "Afterhours",
+    "link": "https://music.163.com/song?id=1363620027",
+    "duration": "03:25",
+    "artists": [
+      {
+        "name": "teamwork",
+        "link": "https://music.163.com/artist?id=32120712"
+      },
+      {
+        "name": "Nina Nesbitt",
+        "link": "https://music.163.com/artist?id=70292"
+      },
+      {
+        "name": "AJ MitChell",
+        "link": "https://music.163.com/artist?id=12914329"
+      }
+    ],
+    "album": {
+      "name": "Afterhours",
+      "link": "https://music.163.com/album?id=78958233"
+    }
+  },
+  {
+    "name": "Priority",
+    "link": "https://music.163.com/song?id=1313120762",
+    "duration": "03:12",
+    "artists": [
+      {
+        "name": "Emily Vaughn",
+        "link": "https://music.163.com/artist?id=12049240"
+      }
+    ],
+    "album": {
+      "name": "Priority",
+      "link": "https://music.163.com/album?id=73649695"
+    }
+  },
+  {
+    "name": "Paper Love",
+    "link": "https://music.163.com/song?id=475207414",
+    "duration": "03:17",
+    "artists": [
+      { "name": "Allie X", "link": "https://music.163.com/artist?id=973030" }
+    ],
+    "album": {
+      "name": "Paper Love",
+      "link": "https://music.163.com/album?id=35377988"
+    }
+  },
+  {
+    "name": "Your Eyes",
+    "link": "https://music.163.com/song?id=533018658",
+    "duration": "03:32",
+    "artists": [
+      { "name": "Neovaii", "link": "https://music.163.com/artist?id=12356095" }
+    ],
+    "album": {
+      "name": "Onward",
+      "link": "https://music.163.com/album?id=37374496"
+    }
+  },
+  {
+    "name": "Sad Machine",
+    "link": "https://music.163.com/song?id=28535334",
+    "duration": "05:50",
+    "artists": [
+      {
+        "name": "Porter Robinson",
+        "link": "https://music.163.com/artist?id=185871"
+      }
+    ],
+    "album": {
+      "name": "Sad Machine",
+      "link": "https://music.163.com/album?id=2824070"
+    }
+  },
+  {
+    "name": "Beneath The Waves",
+    "link": "https://music.163.com/song?id=1329938687",
+    "duration": "03:50",
+    "artists": [
+      {
+        "name": "Dion Timmer",
+        "link": "https://music.163.com/artist?id=11998053"
+      },
+      {
+        "name": "Azuria Sky",
+        "link": "https://music.163.com/artist?id=12914272"
+      }
+    ],
+    "album": {
+      "name": "Very Extra",
+      "link": "https://music.163.com/album?id=74687130"
+    }
+  },
+  {
+    "name": "Andromeda",
+    "link": "https://music.163.com/song?id=2320270",
+    "duration": "06:36",
+    "artists": [
+      { "name": "Chicane", "link": "https://music.163.com/artist?id=50971" }
+    ],
+    "album": {
+      "name": "Behind the Sun",
+      "link": "https://music.163.com/album?id=233987"
+    }
+  },
+  {
+    "name": "Love Triangle",
+    "link": "https://music.163.com/song?id=513356745",
+    "duration": "03:55",
+    "artists": [
+      { "name": "Gjan", "link": "https://music.163.com/artist?id=851014" },
+      { "name": "Saint", "link": "https://music.163.com/artist?id=100440" }
+    ],
+    "album": {
+      "name": "Do It",
+      "link": "https://music.163.com/album?id=36579122"
+    }
+  },
+  {
+    "name": "Crushing",
+    "link": "https://music.163.com/song?id=1382830610",
+    "duration": "03:10",
+    "artists": [
+      { "name": "Trace", "link": "https://music.163.com/artist?id=80473" }
+    ],
+    "album": {
+      "name": "Crushing",
+      "link": "https://music.163.com/album?id=80833954"
+    }
+  },
+  {
+    "name": "Get to Know U",
+    "link": "https://music.163.com/song?id=1385506275",
+    "duration": "03:20",
+    "artists": [
+      { "name": "Orkid", "link": "https://music.163.com/artist?id=12971173" }
+    ],
+    "album": {
+      "name": "Get to Know U",
+      "link": "https://music.163.com/album?id=81056266"
+    }
+  },
+  {
+    "name": "Eternal Twilight",
+    "link": "https://music.163.com/song?id=1335349532",
+    "duration": "04:31",
+    "artists": [
+      { "name": "Wisp X", "link": "https://music.163.com/artist?id=1046123" }
+    ],
+    "album": {
+      "name": "Glass Heart",
+      "link": "https://music.163.com/album?id=74937654"
+    }
+  },
+  {
+    "name": "Lotus",
+    "link": "https://music.163.com/song?id=1327822114",
+    "duration": "03:46",
+    "artists": [
+      {
+        "name": "Osvaldorio",
+        "link": "https://music.163.com/artist?id=12047326"
+      },
+      { "name": "Wiana", "link": "https://music.163.com/artist?id=30820516" },
+      { "name": "Galdive", "link": "https://music.163.com/artist?id=30820517" }
+    ],
+    "album": {
+      "name": "Lotus",
+      "link": "https://music.163.com/album?id=74544514"
+    }
+  },
+  {
+    "name": "Blu (Original Mix)",
+    "link": "https://music.163.com/song?id=26278745",
+    "duration": "05:10",
+    "artists": [
+      { "name": "MitiS", "link": "https://music.163.com/artist?id=40245" },
+      { "name": "MaHi", "link": "https://music.163.com/artist?id=1015367" }
+    ],
+    "album": {
+      "name": "Born",
+      "link": "https://music.163.com/album?id=2441937"
+    }
+  },
+  {
+    "name": "Friendships (Original Mix)",
+    "link": "https://music.163.com/song?id=505449407",
+    "duration": "04:02",
+    "artists": [
+      {
+        "name": "Pascal Letoublon",
+        "link": "https://music.163.com/artist?id=12634325"
+      }
+    ],
+    "album": {
+      "name": "Friendships",
+      "link": "https://music.163.com/album?id=36196158"
+    }
+  },
+  {
+    "name": "Empires",
+    "link": "https://music.163.com/song?id=1333422323",
+    "duration": "03:42",
+    "artists": [
+      { "name": "Ruelle", "link": "https://music.163.com/artist?id=1047114" }
+    ],
+    "album": {
+      "name": "Emerge",
+      "link": "https://music.163.com/album?id=74881579"
+    }
+  },
+  {
+    "name": "Girl Who Cried Wolf",
+    "link": "https://music.163.com/song?id=528272542",
+    "duration": "02:44",
+    "artists": [
+      { "name": "Ashe", "link": "https://music.163.com/artist?id=12278097" }
+    ],
+    "album": {
+      "name": "Girl Who Cried Wolf",
+      "link": "https://music.163.com/album?id=37179237"
+    }
+  },
+  {
+    "name": "Late Night",
+    "link": "https://music.163.com/song?id=1449630309",
+    "duration": "02:42",
+    "artists": [
+      { "name": "Rude Boy", "link": "https://music.163.com/artist?id=249881" }
+    ],
+    "album": {
+      "name": "Late Night",
+      "link": "https://music.163.com/album?id=89726830"
+    }
+  },
+  {
+    "name": "Rise - Epic Music",
+    "link": "https://music.163.com/song?id=28283137",
+    "duration": "02:18",
+    "artists": [
+      {
+        "name": "John Dreamer",
+        "link": "https://music.163.com/artist?id=896177"
+      }
+    ],
+    "album": {
+      "name": "Rise - Epic Music",
+      "link": "https://music.163.com/album?id=2767285"
+    }
+  },
+  {
+    "name": "Gorgeous (MEMBA Remix)",
+    "link": "https://music.163.com/song?id=1448420684",
+    "duration": "03:21",
+    "artists": [
+      { "name": "ILLENIUM", "link": "https://music.163.com/artist?id=1050518" },
+      { "name": "Blanke", "link": "https://music.163.com/artist?id=13369420" },
+      {
+        "name": "Bipolar Sunshine",
+        "link": "https://music.163.com/artist?id=784269"
+      },
+      { "name": "MEMBA", "link": "https://music.163.com/artist?id=12176015" }
+    ],
+    "album": {
+      "name": "ASCEND (Remixes)",
+      "link": "https://music.163.com/album?id=89513700"
+    }
+  },
+  {
+    "name": "Forget",
+    "link": "https://music.163.com/song?id=1396524220",
+    "duration": "03:22",
+    "artists": [
+      { "name": "tofû", "link": "https://music.163.com/artist?id=12068021" },
+      { "name": "Linney", "link": "https://music.163.com/artist?id=1193247" }
+    ],
+    "album": {
+      "name": "Forget",
+      "link": "https://music.163.com/album?id=82350341"
+    }
+  },
+  {
+    "name": "Blue Nude",
+    "link": "https://music.163.com/song?id=1333322456",
+    "duration": "03:54",
+    "artists": [
+      { "name": "androp", "link": "https://music.163.com/artist?id=18510" }
+    ],
+    "album": {
+      "name": "Daily",
+      "link": "https://music.163.com/album?id=74878635"
+    }
+  },
+  {
+    "name": "12.25.16 [untitled christmas song]",
+    "link": "https://music.163.com/song?id=1406360777",
+    "duration": "03:54",
+    "artists": [
+      { "name": "Crywolf", "link": "https://music.163.com/artist?id=753030" }
+    ],
+    "album": {
+      "name": "12.25.16 [untitled christmas song]",
+      "link": "https://music.163.com/album?id=83721518"
+    }
+  },
+  {
+    "name": "Dancing With Your Ghost",
+    "link": "https://music.163.com/song?id=1374329431",
+    "duration": "03:17",
+    "artists": [
+      {
+        "name": "Sasha Sloan",
+        "link": "https://music.163.com/artist?id=12646102"
+      }
+    ],
+    "album": {
+      "name": "Dancing With Your Ghost",
+      "link": "https://music.163.com/album?id=80029518"
+    }
+  },
+  {
+    "name": "Butterfly - (TV动画《异度侵入 ID:INVADED》第十二话插曲)",
+    "link": "https://music.163.com/song?id=1379819365",
+    "duration": "03:19",
+    "artists": [
+      { "name": "MIYAVI", "link": "https://music.163.com/artist?id=14732" }
+    ],
+    "album": {
+      "name": "NO SLEEP TILL TOKYO",
+      "link": "https://music.163.com/album?id=80583621"
+    }
+  },
+  {
+    "name": "フユノ",
+    "link": "https://music.163.com/song?id=41672434",
+    "duration": "05:31",
+    "artists": [
+      { "name": "ヒトリエ", "link": "https://music.163.com/artist?id=784134" }
+    ],
+    "album": {
+      "name": "DEEPER",
+      "link": "https://music.163.com/album?id=3464017"
+    }
+  },
+  {
+    "name": "あの世行きのバスに乗ってさらば。 - (乘坐前往彼世的公交车以告别。)",
+    "link": "https://music.163.com/song?id=1428275778",
+    "duration": "03:14",
+    "artists": [
+      { "name": "ツユ", "link": "https://music.163.com/artist?id=34505358" }
+    ],
+    "album": {
+      "name": "やっぱり雨は降るんだね",
+      "link": "https://music.163.com/album?id=86237839"
+    }
+  },
+  {
+    "name": "Ocean Says (EnderCrafter Remix)",
+    "link": "https://music.163.com/song?id=533692252",
+    "duration": "03:43",
+    "artists": [
+      {
+        "name": "EnderCrafter",
+        "link": "https://music.163.com/artist?id=12466020"
+      },
+      { "name": "Moderian", "link": "https://music.163.com/artist?id=12270226" }
+    ],
+    "album": {
+      "name": "Ocean Says (EnderCrafter Remix)",
+      "link": "https://music.163.com/album?id=37417319"
+    }
+  },
+  {
+    "name": "Closer",
+    "link": "https://music.163.com/song?id=423228325",
+    "duration": "04:04",
+    "artists": [
+      {
+        "name": "The Chainsmokers",
+        "link": "https://music.163.com/artist?id=893484"
+      },
+      { "name": "Halsey", "link": "https://music.163.com/artist?id=964321" }
+    ],
+    "album": {
+      "name": "Closer",
+      "link": "https://music.163.com/album?id=34796273"
+    }
+  },
+  {
+    "name": "Believe in you - (TV动画《Re:从零开始的异世界生活 第2期后半部分》ED2)",
+    "link": "https://music.163.com/song?id=1824473220",
+    "duration": "04:39",
+    "artists": [
+      { "name": "nonoc", "link": "https://music.163.com/artist?id=30460993" }
+    ],
+    "album": {
+      "name": "Believe in you",
+      "link": "https://music.163.com/album?id=123802482"
+    }
+  },
+  {
+    "name": "思想犯",
+    "link": "https://music.163.com/song?id=1457709580",
+    "duration": "04:12",
+    "artists": [
+      { "name": "ヨルシカ", "link": "https://music.163.com/artist?id=12390232" }
+    ],
+    "album": {
+      "name": "思想犯",
+      "link": "https://music.163.com/album?id=91424881"
+    }
+  },
+  {
+    "name": "Pay No Mind (Midnight Kids Remix)",
+    "link": "https://music.163.com/song?id=536570030",
+    "duration": "03:47",
+    "artists": [
+      {
+        "name": "Midnight Kids",
+        "link": "https://music.163.com/artist?id=13192314"
+      },
+      { "name": "Madeon", "link": "https://music.163.com/artist?id=40280" },
+      { "name": "Passion Pit", "link": "https://music.163.com/artist?id=41182" }
+    ],
+    "album": {
+      "name": "Pay No Mind (Midnight Kids Remix)",
+      "link": "https://music.163.com/album?id=37548049"
+    }
+  },
+  {
+    "name": "Fly Away",
+    "link": "https://music.163.com/song?id=480648424",
+    "duration": "03:14",
+    "artists": [
+      { "name": "Anjulie", "link": "https://music.163.com/artist?id=46502" },
+      { "name": "TheFatRat", "link": "https://music.163.com/artist?id=1019952" }
+    ],
+    "album": {
+      "name": "Fly Away",
+      "link": "https://music.163.com/album?id=35558237"
+    }
+  }
+]

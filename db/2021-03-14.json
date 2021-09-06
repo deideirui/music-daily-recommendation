@@ -1,0 +1,437 @@
+[
+  {
+    "name": "Over It",
+    "link": "https://music.163.com/song?id=1403706216",
+    "duration": "03:28",
+    "artists": [
+      { "name": "Pilton", "link": "https://music.163.com/artist?id=1050299" },
+      {
+        "name": "Edgar Sandoval Jr",
+        "link": "https://music.163.com/artist?id=12561891"
+      }
+    ],
+    "album": {
+      "name": "Over It",
+      "link": "https://music.163.com/album?id=83391465"
+    }
+  },
+  {
+    "name": "Tie Me Down",
+    "link": "https://music.163.com/song?id=1298505546",
+    "duration": "03:38",
+    "artists": [
+      { "name": "Gryffin", "link": "https://music.163.com/artist?id=1181504" },
+      {
+        "name": "Elley Duhé",
+        "link": "https://music.163.com/artist?id=12207014"
+      }
+    ],
+    "album": {
+      "name": "Tie Me Down",
+      "link": "https://music.163.com/album?id=72042813"
+    }
+  },
+  {
+    "name": "Nobody but You",
+    "link": "https://music.163.com/song?id=1439289947",
+    "duration": "03:20",
+    "artists": [
+      { "name": "CMC$", "link": "https://music.163.com/artist?id=1086052" },
+      {
+        "name": "Asher Angel",
+        "link": "https://music.163.com/artist?id=12872578"
+      }
+    ],
+    "album": {
+      "name": "Nobody but You",
+      "link": "https://music.163.com/album?id=87847243"
+    }
+  },
+  {
+    "name": "About Love (From The Netflix Film “To All The Boys: P.S. I Still Love You”)",
+    "link": "https://music.163.com/song?id=1421433638",
+    "duration": "03:34",
+    "artists": [
+      { "name": "MARINA", "link": "https://music.163.com/artist?id=68932" }
+    ],
+    "album": {
+      "name": "About Love (From The Netflix Film “To All The Boys: P.S. I Still Love You”)",
+      "link": "https://music.163.com/album?id=85537620"
+    }
+  },
+  {
+    "name": "Afterdark",
+    "link": "https://music.163.com/song?id=473817077",
+    "duration": "03:20",
+    "artists": [
+      { "name": "MYRNE", "link": "https://music.163.com/artist?id=791151" },
+      { "name": "Aviella", "link": "https://music.163.com/artist?id=12475609" }
+    ],
+    "album": {
+      "name": "Afterdark",
+      "link": "https://music.163.com/album?id=35424019"
+    }
+  },
+  {
+    "name": "Gone in the Morning",
+    "link": "https://music.163.com/song?id=1364478109",
+    "duration": "03:21",
+    "artists": [
+      {
+        "name": "Liam Ferrari",
+        "link": "https://music.163.com/artist?id=12812995"
+      }
+    ],
+    "album": {
+      "name": "Gone in the Morning",
+      "link": "https://music.163.com/album?id=79047799"
+    }
+  },
+  {
+    "name": "Only the Brave",
+    "link": "https://music.163.com/song?id=1344291729",
+    "duration": "04:50",
+    "artists": [
+      { "name": "LeBrock", "link": "https://music.163.com/artist?id=13970913" }
+    ],
+    "album": {
+      "name": "Real Thing (Remastered)",
+      "link": "https://music.163.com/album?id=75462145"
+    }
+  },
+  {
+    "name": "Lover / Earth Angel",
+    "link": "https://music.163.com/song?id=1454367572",
+    "duration": "02:15",
+    "artists": [
+      {
+        "name": "Joey Stamper",
+        "link": "https://music.163.com/artist?id=12523017"
+      }
+    ],
+    "album": {
+      "name": "Lover / Earth Angel",
+      "link": "https://music.163.com/album?id=90649579"
+    }
+  },
+  {
+    "name": "Line Of Sight (Reprise) (Instrumental)",
+    "link": "https://music.163.com/song?id=1329664866",
+    "duration": "04:23",
+    "artists": [
+      { "name": "ODESZA", "link": "https://music.163.com/artist?id=839108" }
+    ],
+    "album": {
+      "name": "A Moment Apart (Deluxe Edition)",
+      "link": "https://music.163.com/album?id=74669989"
+    }
+  },
+  {
+    "name": "Alec Benjamin-Let Me Down Slowly（Fairlane remix）",
+    "link": "https://music.163.com/song?id=1344519075",
+    "duration": "03:15",
+    "artists": [
+      { "name": "Fairlane", "link": "https://music.163.com/artist?id=12665028" }
+    ],
+    "album": {
+      "name": "Let Me Down Slowly （Remix)",
+      "link": "https://music.163.com/album?id=75449120"
+    }
+  },
+  {
+    "name": "Is It Just Me?",
+    "link": "https://music.163.com/song?id=1496017614",
+    "duration": "02:34",
+    "artists": [
+      {
+        "name": "Sasha Sloan",
+        "link": "https://music.163.com/artist?id=12646102"
+      },
+      {
+        "name": "Charlie Puth",
+        "link": "https://music.163.com/artist?id=90331"
+      }
+    ],
+    "album": {
+      "name": "Is It Just Me?",
+      "link": "https://music.163.com/album?id=98409596"
+    }
+  },
+  {
+    "name": "Dear Moon",
+    "link": "https://music.163.com/song?id=1300693150",
+    "duration": "03:25",
+    "artists": [
+      {
+        "name": "Velvet Moon",
+        "link": "https://music.163.com/artist?id=28767009"
+      }
+    ],
+    "album": {
+      "name": "Queen Of Hearts",
+      "link": "https://music.163.com/album?id=72245539"
+    }
+  },
+  {
+    "name": "Love To Lose",
+    "link": "https://music.163.com/song?id=1821443649",
+    "duration": "02:57",
+    "artists": [
+      {
+        "name": "Sandro Cavazza",
+        "link": "https://music.163.com/artist?id=12323230"
+      },
+      {
+        "name": "Georgia Ku",
+        "link": "https://music.163.com/artist?id=14388929"
+      }
+    ],
+    "album": {
+      "name": "Love To Lose",
+      "link": "https://music.163.com/album?id=123272971"
+    }
+  },
+  {
+    "name": "We Are the Universe",
+    "link": "https://music.163.com/song?id=1299570097",
+    "duration": "06:32",
+    "artists": [
+      { "name": "Rameses B", "link": "https://music.163.com/artist?id=42898" }
+    ],
+    "album": {
+      "name": "Spacewalk II: Zero Gravity",
+      "link": "https://music.163.com/album?id=72071012"
+    }
+  },
+  {
+    "name": "Daylight dreams",
+    "link": "https://music.163.com/song?id=1398415839",
+    "duration": "02:24",
+    "artists": [
+      { "name": "TRA$H", "link": "https://music.163.com/artist?id=12544560" }
+    ],
+    "album": {
+      "name": "Daylight dreams",
+      "link": "https://music.163.com/album?id=82615477"
+    }
+  },
+  {
+    "name": "Back to Me",
+    "link": "https://music.163.com/song?id=521954930",
+    "duration": "03:34",
+    "artists": [
+      { "name": "Vanotek", "link": "https://music.163.com/artist?id=1081048" },
+      { "name": "Eneli", "link": "https://music.163.com/artist?id=12834607" }
+    ],
+    "album": {
+      "name": "No Sleep",
+      "link": "https://music.163.com/album?id=36885733"
+    }
+  },
+  {
+    "name": "Same Sun",
+    "link": "https://music.163.com/song?id=1457053886",
+    "duration": "03:55",
+    "artists": [
+      {
+        "name": "Before You Exit",
+        "link": "https://music.163.com/artist?id=88867"
+      }
+    ],
+    "album": {
+      "name": "Same Sun",
+      "link": "https://music.163.com/album?id=91281397"
+    }
+  },
+  {
+    "name": "Playful",
+    "link": "https://music.163.com/song?id=1382796647",
+    "duration": "02:51",
+    "artists": [
+      { "name": "Yasper", "link": "https://music.163.com/artist?id=31497125" },
+      { "name": "Louk", "link": "https://music.163.com/artist?id=32951285" }
+    ],
+    "album": {
+      "name": "Build",
+      "link": "https://music.163.com/album?id=80829525"
+    }
+  },
+  {
+    "name": "Liturgy",
+    "link": "https://music.163.com/song?id=1296583093",
+    "duration": "05:28",
+    "artists": [
+      { "name": "Phelian", "link": "https://music.163.com/artist?id=12009043" }
+    ],
+    "album": {
+      "name": "Quadrivium",
+      "link": "https://music.163.com/album?id=71856161"
+    }
+  },
+  {
+    "name": "forget her.",
+    "link": "https://music.163.com/song?id=1323574016",
+    "duration": "02:18",
+    "artists": [
+      {
+        "name": "girl in red",
+        "link": "https://music.163.com/artist?id=28899299"
+      }
+    ],
+    "album": {
+      "name": "forget her.",
+      "link": "https://music.163.com/album?id=74286213"
+    }
+  },
+  {
+    "name": "Love Alive",
+    "link": "https://music.163.com/song?id=410925920",
+    "duration": "04:15",
+    "artists": [
+      {
+        "name": "Aaron Krause",
+        "link": "https://music.163.com/artist?id=12043054"
+      }
+    ],
+    "album": {
+      "name": "Jade",
+      "link": "https://music.163.com/album?id=34678043"
+    }
+  },
+  {
+    "name": "Hurricane",
+    "link": "https://music.163.com/song?id=28921332",
+    "duration": "03:25",
+    "artists": [
+      { "name": "Truslow", "link": "https://music.163.com/artist?id=909026" }
+    ],
+    "album": {
+      "name": "Hurricane",
+      "link": "https://music.163.com/album?id=2943189"
+    }
+  },
+  {
+    "name": "It's So Easy (1977)",
+    "link": "https://music.163.com/song?id=2926348",
+    "duration": "02:27",
+    "artists": [
+      {
+        "name": "Linda Ronstadt",
+        "link": "https://music.163.com/artist?id=64185"
+      }
+    ],
+    "album": {
+      "name": "The Very Best of Linda Ronstadt",
+      "link": "https://music.163.com/album?id=295507"
+    }
+  },
+  {
+    "name": "Storms",
+    "link": "https://music.163.com/song?id=28095088",
+    "duration": "03:08",
+    "artists": [
+      { "name": "Tom Odell", "link": "https://music.163.com/artist?id=711016" }
+    ],
+    "album": {
+      "name": "Long Way Down",
+      "link": "https://music.163.com/album?id=2421026"
+    }
+  },
+  {
+    "name": "Kinfolks",
+    "link": "https://music.163.com/song?id=1396299139",
+    "duration": "03:01",
+    "artists": [
+      { "name": "Sam Hunt", "link": "https://music.163.com/artist?id=942264" }
+    ],
+    "album": {
+      "name": "Kinfolks",
+      "link": "https://music.163.com/album?id=82316504"
+    }
+  },
+  {
+    "name": "Remedy - (解药)",
+    "link": "https://music.163.com/song?id=36871366",
+    "duration": "04:05",
+    "artists": [
+      { "name": "Adele", "link": "https://music.163.com/artist?id=46487" }
+    ],
+    "album": { "name": "25", "link": "https://music.163.com/album?id=3377045" }
+  },
+  {
+    "name": "Stars",
+    "link": "https://music.163.com/song?id=429482210",
+    "duration": "03:40",
+    "artists": [
+      { "name": "Tijana", "link": "https://music.163.com/artist?id=12107864" }
+    ],
+    "album": {
+      "name": "Stars",
+      "link": "https://music.163.com/album?id=34861901"
+    }
+  },
+  {
+    "name": "Make Me Feel Better",
+    "link": "https://music.163.com/song?id=1450226122",
+    "duration": "04:35",
+    "artists": [
+      { "name": "Wistful", "link": "https://music.163.com/artist?id=105421" },
+      { "name": "Matt Van", "link": "https://music.163.com/artist?id=12441178" }
+    ],
+    "album": {
+      "name": "Make Me Feel Better",
+      "link": "https://music.163.com/album?id=89837618"
+    }
+  },
+  {
+    "name": "Salt",
+    "link": "https://music.163.com/song?id=1434210634",
+    "duration": "04:07",
+    "artists": [
+      { "name": "Haux", "link": "https://music.163.com/artist?id=1078427" }
+    ],
+    "album": {
+      "name": "Violence in a Quiet Mind",
+      "link": "https://music.163.com/album?id=86858766"
+    }
+  },
+  {
+    "name": "I Believe In A Thing Called Love",
+    "link": "https://music.163.com/song?id=1384051580",
+    "duration": "02:24",
+    "artists": [
+      {
+        "name": "Nina Nesbitt",
+        "link": "https://music.163.com/artist?id=70292"
+      }
+    ],
+    "album": {
+      "name": "Four Weddings And A Funeral (Music From The Original TV Series)",
+      "link": "https://music.163.com/album?id=80929891"
+    }
+  },
+  {
+    "name": "Real Love",
+    "link": "https://music.163.com/song?id=866148819",
+    "duration": "03:46",
+    "artists": [
+      { "name": "Ashe", "link": "https://music.163.com/artist?id=12278097" }
+    ],
+    "album": {
+      "name": "The Rabbit Hole",
+      "link": "https://music.163.com/album?id=71816440"
+    }
+  },
+  {
+    "name": "The Nights",
+    "link": "https://music.163.com/song?id=1826923389",
+    "duration": "02:58",
+    "artists": [
+      { "name": "Avicii", "link": "https://music.163.com/artist?id=45236" }
+    ],
+    "album": {
+      "name": "Spring Break 2021",
+      "link": "https://music.163.com/album?id=124253771"
+    }
+  }
+]
