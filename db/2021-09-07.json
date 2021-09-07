@@ -1,0 +1,501 @@
+[
+  {
+    "name": "Love Is Forever",
+    "link": "https://music.163.com/song?id=1482293261",
+    "duration": "04:00",
+    "artists": [
+      { "name": "AhXon", "link": "https://music.163.com/artist?id=12908109" },
+      { "name": "Anisko", "link": "https://music.163.com/artist?id=12426031" },
+      { "name": "Spagbo", "link": "https://music.163.com/artist?id=30245155" }
+    ],
+    "album": {
+      "name": "Love Is Forever",
+      "link": "https://music.163.com/album?id=95964030"
+    }
+  },
+  {
+    "name": "Stay Up (feat. Andie Nora)",
+    "link": "https://music.163.com/song?id=1449539620",
+    "duration": "02:21",
+    "artists": [
+      { "name": "Wallaby", "link": "https://music.163.com/artist?id=12086070" },
+      {
+        "name": "Andie Nora",
+        "link": "https://music.163.com/artist?id=33652885"
+      }
+    ],
+    "album": {
+      "name": "Stay Up (feat. Andie Nora)",
+      "link": "https://music.163.com/album?id=89710533"
+    }
+  },
+  {
+    "name": "Into Your Arms",
+    "link": "https://music.163.com/song?id=1375501302",
+    "duration": "03:07",
+    "artists": [
+      { "name": "KXA", "link": "https://music.163.com/artist?id=12024508" },
+      { "name": "chӕ", "link": "https://music.163.com/artist?id=32981875" }
+    ],
+    "album": {
+      "name": "Into Your Arms",
+      "link": "https://music.163.com/album?id=80154740"
+    }
+  },
+  {
+    "name": "Meadow",
+    "link": "https://music.163.com/song?id=1848514519",
+    "duration": "03:35",
+    "artists": [
+      { "name": "FEWZ", "link": "https://music.163.com/artist?id=12008133" }
+    ],
+    "album": {
+      "name": "Meadow",
+      "link": "https://music.163.com/album?id=128080342"
+    }
+  },
+  {
+    "name": "Rush",
+    "link": "https://music.163.com/song?id=1861092871",
+    "duration": "03:35",
+    "artists": [
+      { "name": "Rentz", "link": "https://music.163.com/artist?id=12628381" },
+      {
+        "name": "Trevor Omoto",
+        "link": "https://music.163.com/artist?id=31213631"
+      },
+      {
+        "name": "Chandler Blasé",
+        "link": "https://music.163.com/artist?id=32480261"
+      }
+    ],
+    "album": {
+      "name": "Rush",
+      "link": "https://music.163.com/album?id=130338598"
+    }
+  },
+  {
+    "name": "Feel The Fire (Egzod Remix)",
+    "link": "https://music.163.com/song?id=444324932",
+    "duration": "03:18",
+    "artists": [
+      { "name": "Pluto", "link": "https://music.163.com/artist?id=12098062" },
+      { "name": "ye.", "link": "https://music.163.com/artist?id=12061025" },
+      { "name": "Egzod", "link": "https://music.163.com/artist?id=11970036" }
+    ],
+    "album": {
+      "name": "Feel The Fire (Remixes)",
+      "link": "https://music.163.com/album?id=35012407"
+    }
+  },
+  {
+    "name": "Into The Light (feat. ALLEYCVT)",
+    "link": "https://music.163.com/song?id=1862466981",
+    "duration": "04:33",
+    "artists": [
+      {
+        "name": "Skybreak",
+        "link": "https://music.163.com/artist?id=12066156"
+      },
+      { "name": "Ehallz", "link": "https://music.163.com/artist?id=12007051" },
+      { "name": "ALLEYCVT", "link": "https://music.163.com/artist?id=47275038" }
+    ],
+    "album": {
+      "name": "Into The Light (feat. ALLEYCVT)",
+      "link": "https://music.163.com/album?id=130580145"
+    }
+  },
+  {
+    "name": "Bones (Radio Edit)",
+    "link": "https://music.163.com/song?id=28034329",
+    "duration": "03:14",
+    "artists": [
+      { "name": "Omnia", "link": "https://music.163.com/artist?id=179006" }
+    ],
+    "album": {
+      "name": "Bones",
+      "link": "https://music.163.com/album?id=2717094"
+    }
+  },
+  {
+    "name": "End Of Time",
+    "link": "https://music.163.com/song?id=1455997767",
+    "duration": "03:23",
+    "artists": [
+      { "name": "Spagbo", "link": "https://music.163.com/artist?id=30245155" }
+    ],
+    "album": {
+      "name": "End Of Time",
+      "link": "https://music.163.com/album?id=91054610"
+    }
+  },
+  {
+    "name": "Together",
+    "link": "https://music.163.com/song?id=1415135256",
+    "duration": "03:01",
+    "artists": [
+      { "name": "Kazukii", "link": "https://music.163.com/artist?id=12054389" }
+    ],
+    "album": {
+      "name": "Together",
+      "link": "https://music.163.com/album?id=84822011"
+    }
+  },
+  {
+    "name": "Feelings Undercover",
+    "link": "https://music.163.com/song?id=1846484630",
+    "duration": "03:25",
+    "artists": [
+      {
+        "name": "Pascal Letoublon",
+        "link": "https://music.163.com/artist?id=12634325"
+      }
+    ],
+    "album": {
+      "name": "Feelings Undercover",
+      "link": "https://music.163.com/album?id=127727817"
+    }
+  },
+  {
+    "name": "Young",
+    "link": "https://music.163.com/song?id=1819035631",
+    "duration": "02:46",
+    "artists": [
+      {
+        "name": "MarsReverb",
+        "link": "https://music.163.com/artist?id=46955475"
+      },
+      { "name": "Szck", "link": "https://music.163.com/artist?id=33462658" }
+    ],
+    "album": {
+      "name": "SOAURY VOL.I | Dreamers",
+      "link": "https://music.163.com/album?id=122718584"
+    }
+  },
+  {
+    "name": "Let Me Out",
+    "link": "https://music.163.com/song?id=1820939669",
+    "duration": "03:00",
+    "artists": [
+      {
+        "name": "Feenixpawl",
+        "link": "https://music.163.com/artist?id=290025"
+      },
+      { "name": "dreamr.", "link": "https://music.163.com/artist?id=34647366" },
+      { "name": "Anvy", "link": "https://music.163.com/artist?id=14203234" }
+    ],
+    "album": {
+      "name": "Let Me Out",
+      "link": "https://music.163.com/album?id=123173298"
+    }
+  },
+  {
+    "name": "Think About You (feat. Marc E. Bassy)",
+    "link": "https://music.163.com/song?id=1299190561",
+    "duration": "03:44",
+    "artists": [
+      {
+        "name": "Clinton Sparks",
+        "link": "https://music.163.com/artist?id=52590"
+      }
+    ],
+    "album": {
+      "name": "Think About You",
+      "link": "https://music.163.com/album?id=72154747"
+    }
+  },
+  {
+    "name": "Feel Like",
+    "link": "https://music.163.com/song?id=1864388051",
+    "duration": "03:20",
+    "artists": [
+      { "name": "Dabin", "link": "https://music.163.com/artist?id=783446" },
+      { "name": "CAPPA", "link": "https://music.163.com/artist?id=1053281" }
+    ],
+    "album": {
+      "name": "Feel Like",
+      "link": "https://music.163.com/album?id=130922844"
+    }
+  },
+  {
+    "name": "Feel Only Love",
+    "link": "https://music.163.com/song?id=1852473633",
+    "duration": "02:31",
+    "artists": [
+      { "name": "Klaas", "link": "https://music.163.com/artist?id=106210" },
+      {
+        "name": "Mister Ruiz",
+        "link": "https://music.163.com/artist?id=37468617"
+      }
+    ],
+    "album": {
+      "name": "Feel Only Love",
+      "link": "https://music.163.com/album?id=128844052"
+    }
+  },
+  {
+    "name": "Survivors",
+    "link": "https://music.163.com/song?id=1363966671",
+    "duration": "03:44",
+    "artists": [
+      { "name": "CH17S", "link": "https://music.163.com/artist?id=12498412" }
+    ],
+    "album": {
+      "name": "Survivors",
+      "link": "https://music.163.com/album?id=78996000"
+    }
+  },
+  {
+    "name": "Start Again",
+    "link": "https://music.163.com/song?id=1842286746",
+    "duration": "02:27",
+    "artists": [
+      { "name": "OVSKY", "link": "https://music.163.com/artist?id=36560569" }
+    ],
+    "album": {
+      "name": "Start Again",
+      "link": "https://music.163.com/album?id=126886706"
+    }
+  },
+  {
+    "name": "Back To You",
+    "link": "https://music.163.com/song?id=1352962917",
+    "duration": "03:05",
+    "artists": [
+      { "name": "NATIIVE", "link": "https://music.163.com/artist?id=13775064" },
+      {
+        "name": "Cailee Rae",
+        "link": "https://music.163.com/artist?id=12448021"
+      }
+    ],
+    "album": {
+      "name": "Back To You",
+      "link": "https://music.163.com/album?id=75904612"
+    }
+  },
+  {
+    "name": "Save Tonight",
+    "link": "https://music.163.com/song?id=35403580",
+    "duration": "03:18",
+    "artists": [
+      {
+        "name": "Campsite Dream",
+        "link": "https://music.163.com/artist?id=1146068"
+      }
+    ],
+    "album": {
+      "name": "Save Tonight",
+      "link": "https://music.163.com/album?id=3319418"
+    }
+  },
+  {
+    "name": "Million Reasons (feat. Zophia)",
+    "link": "https://music.163.com/song?id=1849432768",
+    "duration": "02:55",
+    "artists": [
+      {
+        "name": "Jay Hardway",
+        "link": "https://music.163.com/artist?id=710069"
+      },
+      { "name": "Zophia", "link": "https://music.163.com/artist?id=35629008" }
+    ],
+    "album": {
+      "name": "Million Reasons (feat. Zophia)",
+      "link": "https://music.163.com/album?id=128242792"
+    }
+  },
+  {
+    "name": "Into the Sea",
+    "link": "https://music.163.com/song?id=1365306313",
+    "duration": "03:06",
+    "artists": [
+      {
+        "name": "Wave Wave",
+        "link": "https://music.163.com/artist?id=12262095"
+      },
+      { "name": "Hilla", "link": "https://music.163.com/artist?id=13106679" }
+    ],
+    "album": {
+      "name": "Into the Sea",
+      "link": "https://music.163.com/album?id=79118879"
+    }
+  },
+  {
+    "name": "Forever",
+    "link": "https://music.163.com/song?id=1822249087",
+    "duration": "03:15",
+    "artists": [
+      {
+        "name": "Axel Johansson",
+        "link": "https://music.163.com/artist?id=12872604"
+      },
+      {
+        "name": "Ella Young",
+        "link": "https://music.163.com/artist?id=37672311"
+      }
+    ],
+    "album": {
+      "name": "Forever",
+      "link": "https://music.163.com/album?id=123393992"
+    }
+  },
+  {
+    "name": "All I Want (AVIAN GRAYS Remix)",
+    "link": "https://music.163.com/song?id=1835015914",
+    "duration": "02:28",
+    "artists": [
+      { "name": "Alok", "link": "https://music.163.com/artist?id=1170012" },
+      { "name": "Liu", "link": "https://music.163.com/artist?id=12046870" },
+      { "name": "Stonefox", "link": "https://music.163.com/artist?id=912065" },
+      {
+        "name": "Avian Grays",
+        "link": "https://music.163.com/artist?id=32730297"
+      }
+    ],
+    "album": {
+      "name": "All I Want (AVIAN GRAYS Remix)",
+      "link": "https://music.163.com/album?id=125596747"
+    }
+  },
+  {
+    "name": "Not My Baby",
+    "link": "https://music.163.com/song?id=1434309751",
+    "duration": "02:48",
+    "artists": [
+      { "name": "INNA", "link": "https://music.163.com/artist?id=60848" }
+    ],
+    "album": {
+      "name": "Not My Baby",
+      "link": "https://music.163.com/album?id=86867305"
+    }
+  },
+  {
+    "name": "Ocean (Crystal Skies Remix)",
+    "link": "https://music.163.com/song?id=1346162168",
+    "duration": "03:05",
+    "artists": [
+      {
+        "name": "Ella Vos",
+        "link": "https://music.163.com/artist?id=12121298"
+      },
+      {
+        "name": "Crystal Skies",
+        "link": "https://music.163.com/artist?id=1063127"
+      }
+    ],
+    "album": {
+      "name": "Ocean (Crystal Skies Remix)",
+      "link": "https://music.163.com/album?id=75563854"
+    }
+  },
+  {
+    "name": "Astronomia (Never Go Home)",
+    "link": "https://music.163.com/song?id=1481127050",
+    "duration": "02:36",
+    "artists": [
+      { "name": "Tony Igy", "link": "https://music.163.com/artist?id=990184" }
+    ],
+    "album": {
+      "name": "Astronomia (Never Go Home)",
+      "link": "https://music.163.com/album?id=95738978"
+    }
+  },
+  {
+    "name": "Why Do I Try (Nightcore)",
+    "link": "https://music.163.com/song?id=1442365701",
+    "duration": "02:44",
+    "artists": [
+      { "name": "Syrex", "link": "https://music.163.com/artist?id=34804567" },
+      {
+        "name": "Danni Carra",
+        "link": "https://music.163.com/artist?id=32029983"
+      },
+      {
+        "name": "Gill Chang",
+        "link": "https://music.163.com/artist?id=13868921"
+      }
+    ],
+    "album": {
+      "name": "Nightcore Gaming Music Vol. 1",
+      "link": "https://music.163.com/album?id=88326808"
+    }
+  },
+  {
+    "name": "Runaway",
+    "link": "https://music.163.com/song?id=1486435682",
+    "duration": "02:45",
+    "artists": [
+      {
+        "name": "Sick Individuals",
+        "link": "https://music.163.com/artist?id=379612"
+      },
+      { "name": "Vigel", "link": "https://music.163.com/artist?id=334251" },
+      {
+        "name": "Nazzereene",
+        "link": "https://music.163.com/artist?id=32513137"
+      }
+    ],
+    "album": {
+      "name": "Runaway",
+      "link": "https://music.163.com/album?id=96669606"
+    }
+  },
+  {
+    "name": "We Are The Lights",
+    "link": "https://music.163.com/song?id=1448417251",
+    "duration": "03:14",
+    "artists": [
+      {
+        "name": "Rico & Miella",
+        "link": "https://music.163.com/artist?id=1050743"
+      }
+    ],
+    "album": {
+      "name": "We Are The Lights",
+      "link": "https://music.163.com/album?id=89512188"
+    }
+  },
+  {
+    "name": "Wonderful Life",
+    "link": "https://music.163.com/song?id=1305871899",
+    "duration": "03:04",
+    "artists": [
+      {
+        "name": "Max Oazo",
+        "link": "https://music.163.com/artist?id=13159084"
+      },
+      { "name": "Cami", "link": "https://music.163.com/artist?id=283909" }
+    ],
+    "album": {
+      "name": "Wonderful Life",
+      "link": "https://music.163.com/album?id=72762066"
+    }
+  },
+  {
+    "name": "With Your Love",
+    "link": "https://music.163.com/song?id=1488554574",
+    "duration": "02:49",
+    "artists": [
+      { "name": "Tobu", "link": "https://music.163.com/artist?id=964486" }
+    ],
+    "album": {
+      "name": "With Your Love",
+      "link": "https://music.163.com/album?id=97078691"
+    }
+  },
+  {
+    "name": "The Box",
+    "link": "https://music.163.com/song?id=1407895557",
+    "duration": "03:16",
+    "artists": [
+      {
+        "name": "Roddy Ricch",
+        "link": "https://music.163.com/artist?id=27695866"
+      }
+    ],
+    "album": {
+      "name": "Please Excuse Me For Being Antisocial",
+      "link": "https://music.163.com/album?id=83925813"
+    }
+  }
+]
