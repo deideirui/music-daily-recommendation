@@ -25,9 +25,12 @@ sleep 10 && kill $(pgrep 'music-taste-recommend')
 db=$dir/db
 f=`ls -t $db | head -n 1`
 
-npx prettier $db/$f --write
-
 node -p "
 const concatMap = (f, s = ', ') => xs => xs.map(f).join(s);
 const r = require('$db/$f');
 concatMap((x, i) => String(i + 1).padStart(2, ' ') + '. ' + x.name + ' - ' + concatMap(x => x.name, ' & ')(x.artists), '\n')(r)"
+
+npx prettier $db/$f --write
+
+git commit -m "new file: db/$f"
+git push
