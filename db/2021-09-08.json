@@ -1,0 +1,503 @@
+[
+  {
+    "name": "Inspire",
+    "link": "https://music.163.com/song?id=1425876336",
+    "duration": "03:10",
+    "artists": [
+      { "name": "Melvyn", "link": "https://music.163.com/artist?id=33465241" }
+    ],
+    "album": {
+      "name": "Inspire",
+      "link": "https://music.163.com/album?id=85969176"
+    }
+  },
+  {
+    "name": "Vacation",
+    "link": "https://music.163.com/song?id=514052493",
+    "duration": "04:36",
+    "artists": [
+      { "name": "Sazu", "link": "https://music.163.com/artist?id=12475213" },
+      { "name": "Mirza", "link": "https://music.163.com/artist?id=12492026" }
+    ],
+    "album": {
+      "name": "Vacation",
+      "link": "https://music.163.com/album?id=36634080"
+    }
+  },
+  {
+    "name": "Nothing To Hide",
+    "link": "https://music.163.com/song?id=1853805508",
+    "duration": "03:15",
+    "artists": [
+      { "name": "PETE", "link": "https://music.163.com/artist?id=37649346" },
+      {
+        "name": "Trevor Omoto",
+        "link": "https://music.163.com/artist?id=31213631"
+      }
+    ],
+    "album": {
+      "name": "Nothing To Hide",
+      "link": "https://music.163.com/album?id=129117515"
+    }
+  },
+  {
+    "name": "Sleep, For The Weak! (Lost Frequencies Remix)",
+    "link": "https://music.163.com/song?id=399341408",
+    "duration": "03:20",
+    "artists": [
+      { "name": "Lea Rue", "link": "https://music.163.com/artist?id=1124213" },
+      {
+        "name": "Lost Frequencies",
+        "link": "https://music.163.com/artist?id=1039114"
+      }
+    ],
+    "album": {
+      "name": "Sleep/For The Weak (Lost Frequencies Remix)",
+      "link": "https://music.163.com/album?id=34400113"
+    }
+  },
+  {
+    "name": "Remember The Summer (feat. Karra)",
+    "link": "https://music.163.com/song?id=1849954090",
+    "duration": "02:50",
+    "artists": [
+      {
+        "name": "Ummet Ozcan",
+        "link": "https://music.163.com/artist?id=711465"
+      },
+      {
+        "name": "FrogMonster",
+        "link": "https://music.163.com/artist?id=30549371"
+      },
+      { "name": "Karra", "link": "https://music.163.com/artist?id=1081582" }
+    ],
+    "album": {
+      "name": "Remember The Summer (feat. Karra)",
+      "link": "https://music.163.com/album?id=128371687"
+    }
+  },
+  {
+    "name": "Thokoloshi",
+    "link": "https://music.163.com/song?id=1398528550",
+    "duration": "02:26",
+    "artists": [
+      { "name": "Ehrling", "link": "https://music.163.com/artist?id=12048130" }
+    ],
+    "album": {
+      "name": "Thokoloshi",
+      "link": "https://music.163.com/album?id=82632691"
+    }
+  },
+  {
+    "name": "Turn Back Time",
+    "link": "https://music.163.com/song?id=1367540778",
+    "duration": "03:26",
+    "artists": [
+      {
+        "name": "The Darkmaker",
+        "link": "https://music.163.com/artist?id=31492299"
+      }
+    ],
+    "album": {
+      "name": "Turn Back Time",
+      "link": "https://music.163.com/album?id=79303330"
+    }
+  },
+  {
+    "name": "One Thousand Suns",
+    "link": "https://music.163.com/song?id=423314060",
+    "duration": "06:01",
+    "artists": [
+      { "name": "Chicane", "link": "https://music.163.com/artist?id=50971" },
+      {
+        "name": "Christian Burns",
+        "link": "https://music.163.com/artist?id=658096"
+      },
+      {
+        "name": "Ferry Corsten",
+        "link": "https://music.163.com/artist?id=33395"
+      }
+    ],
+    "album": {
+      "name": "Twenty",
+      "link": "https://music.163.com/album?id=34790294"
+    }
+  },
+  {
+    "name": "Way Of Life",
+    "link": "https://music.163.com/song?id=1843753186",
+    "duration": "03:31",
+    "artists": [
+      {
+        "name": "Brennan Heart",
+        "link": "https://music.163.com/artist?id=688203"
+      }
+    ],
+    "album": {
+      "name": "Way Of Life",
+      "link": "https://music.163.com/album?id=127148500"
+    }
+  },
+  {
+    "name": "Don't Forget (Blaikz Remix)",
+    "link": "https://music.163.com/song?id=1396038549",
+    "duration": "02:36",
+    "artists": [
+      { "name": "LIZOT", "link": "https://music.163.com/artist?id=1137483" },
+      { "name": "Nevve", "link": "https://music.163.com/artist?id=12567101" },
+      { "name": "Blaikz", "link": "https://music.163.com/artist?id=12107651" }
+    ],
+    "album": {
+      "name": "Don't Forget (Blaikz Remix)",
+      "link": "https://music.163.com/album?id=82272661"
+    }
+  },
+  {
+    "name": "The Network",
+    "link": "https://music.163.com/song?id=1374602770",
+    "duration": "03:12",
+    "artists": [
+      {
+        "name": "FUTURECODE",
+        "link": "https://music.163.com/artist?id=31577450"
+      }
+    ],
+    "album": {
+      "name": "The Network",
+      "link": "https://music.163.com/album?id=80064840"
+    }
+  },
+  {
+    "name": "The Labyrinth",
+    "link": "https://music.163.com/song?id=1418617585",
+    "duration": "03:07",
+    "artists": [
+      { "name": "NIVIRO", "link": "https://music.163.com/artist?id=12152016" }
+    ],
+    "album": {
+      "name": "The Labyrinth",
+      "link": "https://music.163.com/album?id=85188234"
+    }
+  },
+  {
+    "name": "Safe",
+    "link": "https://music.163.com/song?id=1427829417",
+    "duration": "03:08",
+    "artists": [
+      { "name": "Axero", "link": "https://music.163.com/artist?id=1035020" }
+    ],
+    "album": {
+      "name": "Safe",
+      "link": "https://music.163.com/album?id=86193972"
+    }
+  },
+  {
+    "name": "Into You (Acoustic Version)",
+    "link": "https://music.163.com/song?id=1390728547",
+    "duration": "02:56",
+    "artists": [
+      {
+        "name": "Matisse & Sadko",
+        "link": "https://music.163.com/artist?id=947054"
+      },
+      {
+        "name": "Hanne Mjøen",
+        "link": "https://music.163.com/artist?id=12122217"
+      }
+    ],
+    "album": {
+      "name": "Into You (The Remixes)",
+      "link": "https://music.163.com/album?id=81621756"
+    }
+  },
+  {
+    "name": "River",
+    "link": "https://music.163.com/song?id=1862232362",
+    "duration": "04:00",
+    "artists": [
+      {
+        "name": "Andrew Rayel",
+        "link": "https://music.163.com/artist?id=191512"
+      },
+      { "name": "AIDYL", "link": "https://music.163.com/artist?id=30999073" }
+    ],
+    "album": {
+      "name": "River",
+      "link": "https://music.163.com/album?id=130540622"
+    }
+  },
+  {
+    "name": "Russian Roulette",
+    "link": "https://music.163.com/song?id=1479341961",
+    "duration": "03:05",
+    "artists": [
+      {
+        "name": "Swanky Tunes",
+        "link": "https://music.163.com/artist?id=206627"
+      },
+      {
+        "name": "Going Deeper",
+        "link": "https://music.163.com/artist?id=977174"
+      },
+      { "name": "Rompasso", "link": "https://music.163.com/artist?id=12279360" }
+    ],
+    "album": {
+      "name": "Russian Roulette",
+      "link": "https://music.163.com/album?id=95409998"
+    }
+  },
+  {
+    "name": "Space Melody (Edward Artemyev)",
+    "link": "https://music.163.com/song?id=1499416804",
+    "duration": "03:00",
+    "artists": [
+      { "name": "VIZE", "link": "https://music.163.com/artist?id=27752357" },
+      {
+        "name": "Alan Walker",
+        "link": "https://music.163.com/artist?id=1045123"
+      },
+      { "name": "Leony", "link": "https://music.163.com/artist?id=12675558" },
+      {
+        "name": "Eduard Artemyev",
+        "link": "https://music.163.com/artist?id=33166"
+      }
+    ],
+    "album": {
+      "name": "Space Melody (Edward Artemyev)",
+      "link": "https://music.163.com/album?id=98931170"
+    }
+  },
+  {
+    "name": "Good Things Fall Apart (William Black Remix)",
+    "link": "https://music.163.com/song?id=1448419919",
+    "duration": "03:43",
+    "artists": [
+      { "name": "ILLENIUM", "link": "https://music.163.com/artist?id=1050518" },
+      {
+        "name": "Jon Bellion",
+        "link": "https://music.163.com/artist?id=860113"
+      },
+      {
+        "name": "William Black",
+        "link": "https://music.163.com/artist?id=248957"
+      }
+    ],
+    "album": {
+      "name": "ASCEND (Remixes)",
+      "link": "https://music.163.com/album?id=89513700"
+    }
+  },
+  {
+    "name": "Man Enough",
+    "link": "https://music.163.com/song?id=1330145381",
+    "duration": "02:56",
+    "artists": [
+      {
+        "name": "Joe Stone",
+        "link": "https://music.163.com/artist?id=1071007"
+      },
+      {
+        "name": "Ferreck Dawn",
+        "link": "https://music.163.com/artist?id=206439"
+      }
+    ],
+    "album": {
+      "name": "Spinnin' Records Presents Joe Stone",
+      "link": "https://music.163.com/album?id=74707099"
+    }
+  },
+  {
+    "name": "Insula (Dirty Nano Remix)",
+    "link": "https://music.163.com/song?id=1490852661",
+    "duration": "06:37",
+    "artists": [
+      {
+        "name": "The Motans",
+        "link": "https://music.163.com/artist?id=12710132"
+      },
+      { "name": "Emaa", "link": "https://music.163.com/artist?id=34638264" }
+    ],
+    "album": {
+      "name": "Insula (Dirty Nano Remix)",
+      "link": "https://music.163.com/album?id=97520214"
+    }
+  },
+  {
+    "name": "Genesis",
+    "link": "https://music.163.com/song?id=1842485463",
+    "duration": "02:34",
+    "artists": [
+      {
+        "name": "Jack & James",
+        "link": "https://music.163.com/artist?id=29469070"
+      }
+    ],
+    "album": {
+      "name": "Genesis",
+      "link": "https://music.163.com/album?id=126933343"
+    }
+  },
+  {
+    "name": "Escape",
+    "link": "https://music.163.com/song?id=558007639",
+    "duration": "03:35",
+    "artists": [
+      { "name": "Satchel", "link": "https://music.163.com/artist?id=1132060" }
+    ],
+    "album": {
+      "name": "Escape",
+      "link": "https://music.163.com/album?id=38604299"
+    }
+  },
+  {
+    "name": "Illuminate The Way",
+    "link": "https://music.163.com/song?id=1841283916",
+    "duration": "03:25",
+    "artists": [
+      {
+        "name": "Audiotricz",
+        "link": "https://music.163.com/artist?id=753033"
+      },
+      { "name": "Jay Reeve", "link": "https://music.163.com/artist?id=1070075" }
+    ],
+    "album": {
+      "name": "Illuminate The Way",
+      "link": "https://music.163.com/album?id=126742008"
+    }
+  },
+  {
+    "name": "Summer in Winter",
+    "link": "https://music.163.com/song?id=439646352",
+    "duration": "04:23",
+    "artists": [
+      { "name": "CHAN96O", "link": "https://music.163.com/artist?id=12120654" }
+    ],
+    "album": {
+      "name": "Summer in Winter",
+      "link": "https://music.163.com/album?id=34979556"
+    }
+  },
+  {
+    "name": "Castle",
+    "link": "https://music.163.com/song?id=1467873415",
+    "duration": "03:16",
+    "artists": [
+      { "name": "Nightarc", "link": "https://music.163.com/artist?id=32930933" }
+    ],
+    "album": {
+      "name": "Castle",
+      "link": "https://music.163.com/album?id=93318403"
+    }
+  },
+  {
+    "name": "Drop The Top",
+    "link": "https://music.163.com/song?id=1854369598",
+    "duration": "02:45",
+    "artists": [
+      {
+        "name": "Julian Jordan",
+        "link": "https://music.163.com/artist?id=205395"
+      }
+    ],
+    "album": {
+      "name": "Drop The Top",
+      "link": "https://music.163.com/album?id=129230998"
+    }
+  },
+  {
+    "name": "Promise",
+    "link": "https://music.163.com/song?id=1813379602",
+    "duration": "04:25",
+    "artists": [
+      { "name": "JINGYAN", "link": "https://music.163.com/artist?id=30645561" }
+    ],
+    "album": {
+      "name": "Promise",
+      "link": "https://music.163.com/album?id=121812374"
+    }
+  },
+  {
+    "name": "So Easy",
+    "link": "https://music.163.com/song?id=1838707532",
+    "duration": "03:12",
+    "artists": [
+      {
+        "name": "Da Tweekaz",
+        "link": "https://music.163.com/artist?id=334026"
+      },
+      { "name": "LNY TNZ", "link": "https://music.163.com/artist?id=1039647" }
+    ],
+    "album": {
+      "name": "So Easy",
+      "link": "https://music.163.com/album?id=126237278"
+    }
+  },
+  {
+    "name": "Gates Of Paradise",
+    "link": "https://music.163.com/song?id=1862506427",
+    "duration": "04:41",
+    "artists": [
+      {
+        "name": "D-Block & S-te-Fan",
+        "link": "https://music.163.com/artist?id=13594504"
+      }
+    ],
+    "album": {
+      "name": "Gates Of Paradise",
+      "link": "https://music.163.com/album?id=130597215"
+    }
+  },
+  {
+    "name": "Preoccupied",
+    "link": "https://music.163.com/song?id=1435914497",
+    "duration": "03:37",
+    "artists": [
+      {
+        "name": "Amy Peters",
+        "link": "https://music.163.com/artist?id=30291533"
+      }
+    ],
+    "album": {
+      "name": "Fever Dream",
+      "link": "https://music.163.com/album?id=87142410"
+    }
+  },
+  {
+    "name": "Rave Love",
+    "link": "https://music.163.com/song?id=1488704051",
+    "duration": "03:09",
+    "artists": [
+      { "name": "W&W", "link": "https://music.163.com/artist?id=46131" },
+      { "name": "AXMO", "link": "https://music.163.com/artist?id=31155422" },
+      { "name": "Sonja", "link": "https://music.163.com/artist?id=334361" }
+    ],
+    "album": {
+      "name": "Rave Love",
+      "link": "https://music.163.com/album?id=97108717"
+    }
+  },
+  {
+    "name": "Particles",
+    "link": "https://music.163.com/song?id=1365158764",
+    "duration": "03:35",
+    "artists": [
+      { "name": "Xilent", "link": "https://music.163.com/artist?id=777701" }
+    ],
+    "album": {
+      "name": "We Are Dust",
+      "link": "https://music.163.com/album?id=79100873"
+    }
+  },
+  {
+    "name": "Alive - (iPhone XR 广告配乐)",
+    "link": "https://music.163.com/song?id=1304788672",
+    "duration": "03:18",
+    "artists": [
+      { "name": "obylx", "link": "https://music.163.com/artist?id=29280828" }
+    ],
+    "album": {
+      "name": "Alive",
+      "link": "https://music.163.com/album?id=72568238"
+    }
+  }
+]
