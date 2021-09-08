@@ -32,5 +32,9 @@ concatMap((x, i) => String(i + 1).padStart(2, ' ') + '. ' + x.name + ' - ' + con
 
 npx prettier $db/$f --write
 
+cd $dir
+
+git add ./db
 git commit -m "new file: db/$f"
 git push
+
