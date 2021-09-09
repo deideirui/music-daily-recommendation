@@ -1,0 +1,502 @@
+[
+  {
+    "name": "Take Me Away",
+    "link": "https://music.163.com/song?id=1366633001",
+    "duration": "02:55",
+    "artists": [
+      {
+        "name": "Seantonio",
+        "link": "https://music.163.com/artist?id=32190601"
+      }
+    ],
+    "album": {
+      "name": "The Beginning",
+      "link": "https://music.163.com/album?id=79274928"
+    }
+  },
+  {
+    "name": "Ghost in the Machine",
+    "link": "https://music.163.com/song?id=1826129411",
+    "duration": "04:28",
+    "artists": [
+      { "name": "Trivecta", "link": "https://music.163.com/artist?id=954338" }
+    ],
+    "album": {
+      "name": "Ghost in the Machine",
+      "link": "https://music.163.com/album?id=124127687"
+    }
+  },
+  {
+    "name": "Somebody",
+    "link": "https://music.163.com/song?id=1363334423",
+    "duration": "02:58",
+    "artists": [
+      {
+        "name": "Jonas Hahn",
+        "link": "https://music.163.com/artist?id=12388060"
+      },
+      { "name": "CLÉMI", "link": "https://music.163.com/artist?id=32131681" }
+    ],
+    "album": {
+      "name": "Somebody",
+      "link": "https://music.163.com/album?id=78935650"
+    }
+  },
+  {
+    "name": "Where We Belong",
+    "link": "https://music.163.com/song?id=422419030",
+    "duration": "03:45",
+    "artists": [
+      { "name": "Vexento", "link": "https://music.163.com/artist?id=12037010" }
+    ],
+    "album": {
+      "name": "Where We Belong",
+      "link": "https://music.163.com/album?id=34783726"
+    }
+  },
+  {
+    "name": "Chasing Dragons 2020",
+    "link": "https://music.163.com/song?id=1490257932",
+    "duration": "03:58",
+    "artists": [
+      { "name": "AhXon", "link": "https://music.163.com/artist?id=12908109" }
+    ],
+    "album": {
+      "name": "Chasing Dragons 2020",
+      "link": "https://music.163.com/album?id=97383818"
+    }
+  },
+  {
+    "name": "Love Story (1989 Mix)",
+    "link": "https://music.163.com/song?id=29572561",
+    "duration": "04:00",
+    "artists": [
+      {
+        "name": "Taylor Swift",
+        "link": "https://music.163.com/artist?id=44266"
+      }
+    ],
+    "album": {
+      "name": "最新热歌慢摇84",
+      "link": "https://music.163.com/album?id=3029115"
+    }
+  },
+  {
+    "name": "Hold On To Me",
+    "link": "https://music.163.com/song?id=1468764302",
+    "duration": "03:27",
+    "artists": [
+      { "name": "Dimatis", "link": "https://music.163.com/artist?id=1087344" },
+      { "name": "Bayza", "link": "https://music.163.com/artist?id=12691118" }
+    ],
+    "album": {
+      "name": "Hold On To Me",
+      "link": "https://music.163.com/album?id=93564812"
+    }
+  },
+  {
+    "name": "The Fusion",
+    "link": "https://music.163.com/song?id=1815838498",
+    "duration": "03:12",
+    "artists": [
+      { "name": "Omnia", "link": "https://music.163.com/artist?id=179006" },
+      { "name": "Ira", "link": "https://music.163.com/artist?id=94538" }
+    ],
+    "album": {
+      "name": "A State Of Trance 1000 - Celebration Mix (Selected by Armin van Buuren)",
+      "link": "https://music.163.com/album?id=122277287"
+    }
+  },
+  {
+    "name": "Somebody That You Loved",
+    "link": "https://music.163.com/song?id=1381704370",
+    "duration": "03:36",
+    "artists": [
+      {
+        "name": "Bruno Martini",
+        "link": "https://music.163.com/artist?id=12355546"
+      },
+      {
+        "name": "New Hope Club",
+        "link": "https://music.163.com/artist?id=12408153"
+      }
+    ],
+    "album": {
+      "name": "Somebody That You Loved",
+      "link": "https://music.163.com/album?id=80748472"
+    }
+  },
+  {
+    "name": "Odyssee",
+    "link": "https://music.163.com/song?id=1818968990",
+    "duration": "03:30",
+    "artists": [
+      { "name": "FEWZ", "link": "https://music.163.com/artist?id=12008133" }
+    ],
+    "album": {
+      "name": "Odyssee",
+      "link": "https://music.163.com/album?id=122771068"
+    }
+  },
+  {
+    "name": "Broken",
+    "link": "https://music.163.com/song?id=1474789682",
+    "duration": "04:00",
+    "artists": [
+      {
+        "name": "Paper Skies",
+        "link": "https://music.163.com/artist?id=12523164"
+      },
+      {
+        "name": "Azuria Sky",
+        "link": "https://music.163.com/artist?id=12914272"
+      }
+    ],
+    "album": {
+      "name": "Broken",
+      "link": "https://music.163.com/album?id=94637627"
+    }
+  },
+  {
+    "name": "Love",
+    "link": "https://music.163.com/song?id=1833688197",
+    "duration": "02:47",
+    "artists": [
+      { "name": "Physika", "link": "https://music.163.com/artist?id=12062104" }
+    ],
+    "album": {
+      "name": "Love",
+      "link": "https://music.163.com/album?id=125366453"
+    }
+  },
+  {
+    "name": "Fading",
+    "link": "https://music.163.com/song?id=1320697603",
+    "duration": "03:27",
+    "artists": [
+      {
+        "name": "Alle Farben",
+        "link": "https://music.163.com/artist?id=206027"
+      },
+      { "name": "ILIRA", "link": "https://music.163.com/artist?id=847380" }
+    ],
+    "album": {
+      "name": "Fading",
+      "link": "https://music.163.com/album?id=74107109"
+    }
+  },
+  {
+    "name": "Miracles",
+    "link": "https://music.163.com/song?id=1363601127",
+    "duration": "03:11",
+    "artists": [
+      {
+        "name": "Axel Johansson",
+        "link": "https://music.163.com/artist?id=12872604"
+      },
+      {
+        "name": "Tina Stachowiak",
+        "link": "https://music.163.com/artist?id=905727"
+      }
+    ],
+    "album": {
+      "name": "Miracles",
+      "link": "https://music.163.com/album?id=78957694"
+    }
+  },
+  {
+    "name": "Fire & Blood",
+    "link": "https://music.163.com/song?id=1861154582",
+    "duration": "02:51",
+    "artists": [
+      { "name": "D-Sturb", "link": "https://music.163.com/artist?id=744285" }
+    ],
+    "album": {
+      "name": "Fire & Blood",
+      "link": "https://music.163.com/album?id=130350397"
+    }
+  },
+  {
+    "name": "Okay (Extended Mix)",
+    "link": "https://music.163.com/song?id=1862024740",
+    "duration": "03:32",
+    "artists": [
+      {
+        "name": "Nicky Romero",
+        "link": "https://music.163.com/artist?id=195142"
+      },
+      { "name": "MARF", "link": "https://music.163.com/artist?id=13459963" },
+      { "name": "Wulf", "link": "https://music.163.com/artist?id=311151" }
+    ],
+    "album": {
+      "name": "Okay",
+      "link": "https://music.163.com/album?id=130518105"
+    }
+  },
+  {
+    "name": "Airplane",
+    "link": "https://music.163.com/song?id=1446962953",
+    "duration": "03:47",
+    "artists": [
+      {
+        "name": "Max Oazo",
+        "link": "https://music.163.com/artist?id=13159084"
+      },
+      { "name": "Moonessa", "link": "https://music.163.com/artist?id=29834706" }
+    ],
+    "album": {
+      "name": "Airplane",
+      "link": "https://music.163.com/album?id=89240666"
+    }
+  },
+  {
+    "name": "Boom Boom",
+    "link": "https://music.163.com/song?id=1336776008",
+    "duration": "03:02",
+    "artists": [
+      { "name": "Nexeri", "link": "https://music.163.com/artist?id=12463182" },
+      {
+        "name": "Dj Antonio",
+        "link": "https://music.163.com/artist?id=12175143"
+      },
+      { "name": "Moonessa", "link": "https://music.163.com/artist?id=29834706" }
+    ],
+    "album": {
+      "name": "Boom Boom",
+      "link": "https://music.163.com/album?id=75005578"
+    }
+  },
+  {
+    "name": "Feel Good Inc.",
+    "link": "https://music.163.com/song?id=412902434",
+    "duration": "03:56",
+    "artists": [
+      { "name": "filous", "link": "https://music.163.com/artist?id=1081131" },
+      { "name": "LissA", "link": "https://music.163.com/artist?id=66172" }
+    ],
+    "album": {
+      "name": "Feel Good Inc.",
+      "link": "https://music.163.com/album?id=34702131"
+    }
+  },
+  {
+    "name": "Calm The Storm",
+    "link": "https://music.163.com/song?id=1468393954",
+    "duration": "03:45",
+    "artists": [
+      {
+        "name": "Super8 & Tab",
+        "link": "https://music.163.com/artist?id=100916"
+      },
+      {
+        "name": "Roxanne Emery",
+        "link": "https://music.163.com/artist?id=74561"
+      }
+    ],
+    "album": {
+      "name": "Calm The Storm",
+      "link": "https://music.163.com/album?id=93499814"
+    }
+  },
+  {
+    "name": "ProjectOne-ONE VS We Brun（Dope remix）",
+    "link": "https://music.163.com/song?id=1472946334",
+    "duration": "03:11",
+    "artists": [
+      { "name": "Dope", "link": "https://music.163.com/artist?id=12264123" }
+    ],
+    "album": {
+      "name": "ONE VS We Brun(Dope Bootleg)",
+      "link": "https://music.163.com/album?id=94239156"
+    }
+  },
+  {
+    "name": "To The End",
+    "link": "https://music.163.com/song?id=1851330476",
+    "duration": "03:01",
+    "artists": [
+      { "name": "Sagan", "link": "https://music.163.com/artist?id=77502" },
+      {
+        "name": "Heyem & Groozin",
+        "link": "https://music.163.com/artist?id=37040866"
+      }
+    ],
+    "album": {
+      "name": "To The End",
+      "link": "https://music.163.com/album?id=128568916"
+    }
+  },
+  {
+    "name": "In My Mind",
+    "link": "https://music.163.com/song?id=1361115586",
+    "duration": "03:21",
+    "artists": [
+      {
+        "name": "Jealous Friend",
+        "link": "https://music.163.com/artist?id=31382683"
+      },
+      {
+        "name": "Alex Parker",
+        "link": "https://music.163.com/artist?id=280735"
+      },
+      {
+        "name": "Olivia Addams",
+        "link": "https://music.163.com/artist?id=28657767"
+      }
+    ],
+    "album": {
+      "name": "In My Mind",
+      "link": "https://music.163.com/album?id=78751934"
+    }
+  },
+  {
+    "name": "Summer Cats",
+    "link": "https://music.163.com/song?id=559885492",
+    "duration": "03:22",
+    "artists": [
+      { "name": "LyZii", "link": "https://music.163.com/artist?id=13113245" }
+    ],
+    "album": {
+      "name": "Summer Cats",
+      "link": "https://music.163.com/album?id=38632550"
+    }
+  },
+  {
+    "name": "Levels",
+    "link": "https://music.163.com/song?id=1461317556",
+    "duration": "03:38",
+    "artists": [
+      {
+        "name": "Marin Hoxha",
+        "link": "https://music.163.com/artist?id=12474391"
+      },
+      {
+        "name": "Mike Watson",
+        "link": "https://music.163.com/artist?id=13046433"
+      }
+    ],
+    "album": {
+      "name": "Levels",
+      "link": "https://music.163.com/album?id=92123563"
+    }
+  },
+  {
+    "name": "BLUE",
+    "link": "https://music.163.com/song?id=37955047",
+    "duration": "03:31",
+    "artists": [
+      {
+        "name": "Troye Sivan",
+        "link": "https://music.163.com/artist?id=45129"
+      },
+      {
+        "name": "Alex Hope",
+        "link": "https://music.163.com/artist?id=12213103"
+      }
+    ],
+    "album": {
+      "name": "Blue Neighbourhood (Deluxe)",
+      "link": "https://music.163.com/album?id=3329047"
+    }
+  },
+  {
+    "name": "Poison Lips",
+    "link": "https://music.163.com/song?id=1394314068",
+    "duration": "03:14",
+    "artists": [
+      { "name": "Kaaze", "link": "https://music.163.com/artist?id=952052" },
+      {
+        "name": "Jonathan Mendelsohn",
+        "link": "https://music.163.com/artist?id=826017"
+      }
+    ],
+    "album": {
+      "name": "DREAMCHILD",
+      "link": "https://music.163.com/album?id=82064532"
+    }
+  },
+  {
+    "name": "I Am Fine",
+    "link": "https://music.163.com/song?id=1830371601",
+    "duration": "04:08",
+    "artists": [
+      { "name": "JDX", "link": "https://music.163.com/artist?id=527002" },
+      { "name": "Knvwn", "link": "https://music.163.com/artist?id=32521973" }
+    ],
+    "album": {
+      "name": "I Am Fine",
+      "link": "https://music.163.com/album?id=124687317"
+    }
+  },
+  {
+    "name": "Farewell",
+    "link": "https://music.163.com/song?id=1344256292",
+    "duration": "04:00",
+    "artists": [
+      { "name": "Elathan", "link": "https://music.163.com/artist?id=34203569" }
+    ],
+    "album": {
+      "name": "Farewell",
+      "link": "https://music.163.com/album?id=75452691"
+    }
+  },
+  {
+    "name": "Silly",
+    "link": "https://music.163.com/song?id=1446902117",
+    "duration": "03:01",
+    "artists": [
+      { "name": "Heiakim", "link": "https://music.163.com/artist?id=35124941" }
+    ],
+    "album": {
+      "name": "Silly",
+      "link": "https://music.163.com/album?id=89230253"
+    }
+  },
+  {
+    "name": "You and I",
+    "link": "https://music.163.com/song?id=1816907590",
+    "duration": "02:27",
+    "artists": [
+      {
+        "name": "Will Armex",
+        "link": "https://music.163.com/artist?id=28233667"
+      },
+      { "name": "Katy M", "link": "https://music.163.com/artist?id=46704381" }
+    ],
+    "album": {
+      "name": "You and I",
+      "link": "https://music.163.com/album?id=122434027"
+    }
+  },
+  {
+    "name": "Crystals",
+    "link": "https://music.163.com/song?id=1392566178",
+    "duration": "03:28",
+    "artists": [
+      {
+        "name": "Wheazewolf",
+        "link": "https://music.163.com/artist?id=30704290"
+      }
+    ],
+    "album": {
+      "name": "Crystals",
+      "link": "https://music.163.com/album?id=81770378"
+    }
+  },
+  {
+    "name": "I Wanna Do",
+    "link": "https://music.163.com/song?id=1337238487",
+    "duration": "03:04",
+    "artists": [
+      {
+        "name": "Chemical Surf",
+        "link": "https://music.163.com/artist?id=594356"
+      },
+      { "name": "Dubdisko", "link": "https://music.163.com/artist?id=12763018" }
+    ],
+    "album": {
+      "name": "I Wanna Do",
+      "link": "https://music.163.com/album?id=75199445"
+    }
+  }
+]
