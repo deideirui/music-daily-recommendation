@@ -1,0 +1,519 @@
+[
+  {
+    "name": "I Gave You Love",
+    "link": "https://music.163.com/song?id=1838756630",
+    "duration": "02:55",
+    "artists": [
+      { "name": "Venture", "link": "https://music.163.com/artist?id=146643" },
+      {
+        "name": "Dirty Workz",
+        "link": "https://music.163.com/artist?id=33808957"
+      }
+    ],
+    "album": {
+      "name": "I Gave You Love",
+      "link": "https://music.163.com/album?id=126244422"
+    }
+  },
+  {
+    "name": "Let Me Know",
+    "link": "https://music.163.com/song?id=459828936",
+    "duration": "03:07",
+    "artists": [
+      {
+        "name": "Samlight",
+        "link": "https://music.163.com/artist?id=12214066"
+      },
+      { "name": "Neea", "link": "https://music.163.com/artist?id=15097236" }
+    ],
+    "album": {
+      "name": "Let Me Know",
+      "link": "https://music.163.com/album?id=35164826"
+    }
+  },
+  {
+    "name": "Safe With Me",
+    "link": "https://music.163.com/song?id=1861510783",
+    "duration": "04:49",
+    "artists": [
+      {
+        "name": "Adventure Club",
+        "link": "https://music.163.com/artist?id=792045"
+      },
+      { "name": "Soar", "link": "https://music.163.com/artist?id=21674" },
+      { "name": "Luma", "link": "https://music.163.com/artist?id=211460" }
+    ],
+    "album": {
+      "name": "Safe With Me",
+      "link": "https://music.163.com/album?id=130423313"
+    }
+  },
+  {
+    "name": "Fade Away (feat. Luma)",
+    "link": "https://music.163.com/song?id=1850763619",
+    "duration": "03:59",
+    "artists": [
+      {
+        "name": "Falling North",
+        "link": "https://music.163.com/artist?id=32204238"
+      },
+      { "name": "MEDZ", "link": "https://music.163.com/artist?id=48361086" },
+      { "name": "Luma", "link": "https://music.163.com/artist?id=211460" }
+    ],
+    "album": {
+      "name": "Fade Away (feat. Luma)",
+      "link": "https://music.163.com/album?id=128495502"
+    }
+  },
+  {
+    "name": "Like I Love You (Money G Radio Edit)",
+    "link": "https://music.163.com/song?id=1923560",
+    "duration": "03:42",
+    "artists": [
+      { "name": "R.I.O.", "link": "https://music.163.com/artist?id=42495" }
+    ],
+    "album": {
+      "name": "Turn This Club Around",
+      "link": "https://music.163.com/album?id=193984"
+    }
+  },
+  {
+    "name": "涅槃之路 Mix",
+    "link": "https://music.163.com/song?id=1363093032",
+    "duration": "04:16",
+    "artists": [
+      {
+        "name": "S12k Revo",
+        "link": "https://music.163.com/artist?id=30293057"
+      },
+      { "name": "Morris", "link": "https://music.163.com/artist?id=30903225" }
+    ],
+    "album": {
+      "name": "The road of Nirvana",
+      "link": "https://music.163.com/album?id=78855348"
+    }
+  },
+  {
+    "name": "Silhouette",
+    "link": "https://music.163.com/song?id=1856141177",
+    "duration": "03:34",
+    "artists": [
+      {
+        "name": "Adrenalize",
+        "link": "https://music.163.com/artist?id=958018"
+      },
+      {
+        "name": "Demi Kanon",
+        "link": "https://music.163.com/artist?id=1083087"
+      }
+    ],
+    "album": {
+      "name": "Silhouette",
+      "link": "https://music.163.com/album?id=129495494"
+    }
+  },
+  {
+    "name": "Love Rush In (Extended Mix)",
+    "link": "https://music.163.com/song?id=1338634336",
+    "duration": "05:22",
+    "artists": [
+      {
+        "name": "Orjan Nilsen",
+        "link": "https://music.163.com/artist?id=41064"
+      }
+    ],
+    "album": {
+      "name": "Love Rush In",
+      "link": "https://music.163.com/album?id=75111929"
+    }
+  },
+  {
+    "name": "There and Back",
+    "link": "https://music.163.com/song?id=1855319449",
+    "duration": "03:52",
+    "artists": [
+      { "name": "Protostar", "link": "https://music.163.com/artist?id=711491" }
+    ],
+    "album": {
+      "name": "There and Back",
+      "link": "https://music.163.com/album?id=129347641"
+    }
+  },
+  {
+    "name": "Stranger Things (Alan Walker Remix)",
+    "link": "https://music.163.com/song?id=536243886",
+    "duration": "02:58",
+    "artists": [
+      { "name": "Kygo", "link": "https://music.163.com/artist?id=844410" },
+      {
+        "name": "OneRepublic",
+        "link": "https://music.163.com/artist?id=98105"
+      },
+      {
+        "name": "Alan Walker",
+        "link": "https://music.163.com/artist?id=1045123"
+      }
+    ],
+    "album": {
+      "name": "Kids in Love (Remixes)",
+      "link": "https://music.163.com/album?id=37561188"
+    }
+  },
+  {
+    "name": "From Here",
+    "link": "https://music.163.com/song?id=535019700",
+    "duration": "03:26",
+    "artists": [
+      { "name": "Matt Nash", "link": "https://music.163.com/artist?id=1054160" }
+    ],
+    "album": {
+      "name": "From Here",
+      "link": "https://music.163.com/album?id=34700620"
+    }
+  },
+  {
+    "name": "Hard To Love",
+    "link": "https://music.163.com/song?id=1396015066",
+    "duration": "02:55",
+    "artists": [
+      {
+        "name": "Danny Avila",
+        "link": "https://music.163.com/artist?id=471420"
+      }
+    ],
+    "album": {
+      "name": "Hard To Love",
+      "link": "https://music.163.com/album?id=82267329"
+    }
+  },
+  {
+    "name": "Change It",
+    "link": "https://music.163.com/song?id=1817797708",
+    "duration": "02:49",
+    "artists": [
+      { "name": "Axero", "link": "https://music.163.com/artist?id=1035020" }
+    ],
+    "album": {
+      "name": "Change It",
+      "link": "https://music.163.com/album?id=122586936"
+    }
+  },
+  {
+    "name": "Changes",
+    "link": "https://music.163.com/song?id=1358189621",
+    "duration": "02:22",
+    "artists": [
+      {
+        "name": "Mike Perry",
+        "link": "https://music.163.com/artist?id=195021"
+      },
+      {
+        "name": "Dimitri Vangelis & Wyman",
+        "link": "https://music.163.com/artist?id=881024"
+      },
+      {
+        "name": "Ten Times",
+        "link": "https://music.163.com/artist?id=31930131"
+      },
+      {
+        "name": "The Companions",
+        "link": "https://music.163.com/artist?id=13383375"
+      }
+    ],
+    "album": {
+      "name": "Changes",
+      "link": "https://music.163.com/album?id=78479504"
+    }
+  },
+  {
+    "name": "I Hate Goodbyes",
+    "link": "https://music.163.com/song?id=1448655304",
+    "duration": "03:09",
+    "artists": [
+      { "name": "Neptune", "link": "https://music.163.com/artist?id=98010" },
+      {
+        "name": "Matthew Zeitler",
+        "link": "https://music.163.com/artist?id=34142101"
+      },
+      {
+        "name": "Hailey Haus",
+        "link": "https://music.163.com/artist?id=35042575"
+      }
+    ],
+    "album": {
+      "name": "I Hate Goodbyes",
+      "link": "https://music.163.com/album?id=89556030"
+    }
+  },
+  {
+    "name": "Dreaming, backwards",
+    "link": "https://music.163.com/song?id=1461411903",
+    "duration": "03:33",
+    "artists": [
+      { "name": "Ella Vos", "link": "https://music.163.com/artist?id=12121298" }
+    ],
+    "album": {
+      "name": "Turbulence",
+      "link": "https://music.163.com/album?id=92152454"
+    }
+  },
+  {
+    "name": "出现",
+    "link": "https://music.163.com/song?id=1820314460",
+    "duration": "03:32",
+    "artists": [
+      {
+        "name": "TalanTara傅悅",
+        "link": "https://music.163.com/artist?id=32744691"
+      },
+      { "name": "啜欣宇", "link": "https://music.163.com/artist?id=30436228" }
+    ],
+    "album": {
+      "name": "出现",
+      "link": "https://music.163.com/album?id=123052946"
+    }
+  },
+  {
+    "name": "Desire",
+    "link": "https://music.163.com/song?id=1496828388",
+    "duration": "02:35",
+    "artists": [
+      {
+        "name": "Jack & James",
+        "link": "https://music.163.com/artist?id=29469070"
+      }
+    ],
+    "album": {
+      "name": "Desire",
+      "link": "https://music.163.com/album?id=98558450"
+    }
+  },
+  {
+    "name": "Skyline",
+    "link": "https://music.163.com/song?id=1453796232",
+    "duration": "05:13",
+    "artists": [
+      { "name": "未知歌手", "link": "https://music.163.com/artist?id=33068267" }
+    ],
+    "album": {
+      "name": "Skyline",
+      "link": "https://music.163.com/album?id=90459223"
+    }
+  },
+  {
+    "name": "Time",
+    "link": "https://music.163.com/song?id=1486112183",
+    "duration": "03:02",
+    "artists": [
+      { "name": "Syn Cole", "link": "https://music.163.com/artist?id=854432" }
+    ],
+    "album": {
+      "name": "Time",
+      "link": "https://music.163.com/album?id=96631207"
+    }
+  },
+  {
+    "name": "下沉（马丁的披萨PizzA_ Remix）",
+    "link": "https://music.163.com/song?id=1819830322",
+    "duration": "03:18",
+    "artists": [
+      {
+        "name": "马丁的披萨PizzA_",
+        "link": "https://music.163.com/artist?id=34203643"
+      },
+      { "name": "白鸿", "link": "https://music.163.com/artist?id=31008744" },
+      { "name": "何羽阁", "link": "https://music.163.com/artist?id=46555490" }
+    ],
+    "album": {
+      "name": "下沉（马丁的披萨PizzA_ Remix）",
+      "link": "https://music.163.com/album?id=122932258"
+    }
+  },
+  {
+    "name": "Inside Out",
+    "link": "https://music.163.com/song?id=1309975421",
+    "duration": "03:07",
+    "artists": [
+      {
+        "name": "ItaloBrothers",
+        "link": "https://music.163.com/artist?id=94730"
+      }
+    ],
+    "album": {
+      "name": "Inside Out",
+      "link": "https://music.163.com/album?id=73332809"
+    }
+  },
+  {
+    "name": "We Ought To - (心之所在)",
+    "link": "https://music.163.com/song?id=1479997929",
+    "duration": "02:59",
+    "artists": [
+      {
+        "name": "Spaceport Records",
+        "link": "https://music.163.com/artist?id=32971452"
+      },
+      {
+        "name": "Timirage",
+        "link": "https://music.163.com/artist?id=12037059"
+      },
+      { "name": "Heydboy", "link": "https://music.163.com/artist?id=13154179" }
+    ],
+    "album": {
+      "name": "起源",
+      "link": "https://music.163.com/album?id=94760727"
+    }
+  },
+  {
+    "name": "Calma (Alan Walker Remix)",
+    "link": "https://music.163.com/song?id=1372861347",
+    "duration": "03:14",
+    "artists": [
+      {
+        "name": "Pedro Capó",
+        "link": "https://music.163.com/artist?id=326252"
+      },
+      { "name": "Farruko", "link": "https://music.163.com/artist?id=198862" },
+      {
+        "name": "Alan Walker",
+        "link": "https://music.163.com/artist?id=1045123"
+      }
+    ],
+    "album": {
+      "name": "Calma (Alan Walker Remix)",
+      "link": "https://music.163.com/album?id=79888017"
+    }
+  },
+  {
+    "name": "My Radio (DJ Tool Radio Edit)",
+    "link": "https://music.163.com/song?id=429411119",
+    "duration": "03:13",
+    "artists": [
+      {
+        "name": "Empyre One",
+        "link": "https://music.163.com/artist?id=387066"
+      },
+      { "name": "Energizer", "link": "https://music.163.com/artist?id=417330" },
+      { "name": "Dj Tool", "link": "https://music.163.com/artist?id=607434" }
+    ],
+    "album": {
+      "name": "My Radio",
+      "link": "https://music.163.com/album?id=34868059"
+    }
+  },
+  {
+    "name": "Thank you ,Tim",
+    "link": "https://music.163.com/song?id=1437386706",
+    "duration": "03:41",
+    "artists": [
+      { "name": "Yuncino", "link": "https://music.163.com/artist?id=32657320" }
+    ],
+    "album": {
+      "name": "T. T.",
+      "link": "https://music.163.com/album?id=87553899"
+    }
+  },
+  {
+    "name": "Diamond Hearts",
+    "link": "https://music.163.com/song?id=1847390377",
+    "duration": "03:13",
+    "artists": [
+      {
+        "name": "D-Block & S-te-Fan",
+        "link": "https://music.163.com/artist?id=13594504"
+      }
+    ],
+    "album": {
+      "name": "Diamond Hearts",
+      "link": "https://music.163.com/album?id=127850981"
+    }
+  },
+  {
+    "name": "Beautiful World (Radio Edit)",
+    "link": "https://music.163.com/song?id=28119432",
+    "duration": "03:25",
+    "artists": [
+      {
+        "name": "Paul Oakenfold",
+        "link": "https://music.163.com/artist?id=41200"
+      },
+      { "name": "Spitfire", "link": "https://music.163.com/artist?id=76139" },
+      {
+        "name": "Disfunktion",
+        "link": "https://music.163.com/artist?id=851543"
+      }
+    ],
+    "album": {
+      "name": "Armada House - Best Of 2013",
+      "link": "https://music.163.com/album?id=2730921"
+    }
+  },
+  {
+    "name": "****",
+    "link": "https://music.163.com/song?id=553915892",
+    "duration": "03:32",
+    "artists": [
+      {
+        "name": "Oliver Moldan",
+        "link": "https://music.163.com/artist?id=205398"
+      }
+    ],
+    "album": {
+      "name": "**** EP",
+      "link": "https://music.163.com/album?id=38408766"
+    }
+  },
+  {
+    "name": "Gravity",
+    "link": "https://music.163.com/song?id=1376818371",
+    "duration": "03:16",
+    "artists": [
+      {
+        "name": "Blackcode",
+        "link": "https://music.163.com/artist?id=30013002"
+      },
+      { "name": "Feerty", "link": "https://music.163.com/artist?id=29436784" }
+    ],
+    "album": {
+      "name": "Revealed Recordings presents Progressive EP Vol. 2",
+      "link": "https://music.163.com/album?id=80287909"
+    }
+  },
+  {
+    "name": "Boundaries",
+    "link": "https://music.163.com/song?id=1380615321",
+    "duration": "03:22",
+    "artists": [
+      { "name": "Ryos", "link": "https://music.163.com/artist?id=1053137" },
+      { "name": "Elle Vee", "link": "https://music.163.com/artist?id=1046258" }
+    ],
+    "album": {
+      "name": "Boundaries",
+      "link": "https://music.163.com/album?id=80647184"
+    }
+  },
+  {
+    "name": "Don't Mention My Name",
+    "link": "https://music.163.com/song?id=1393550320",
+    "duration": "03:30",
+    "artists": [
+      { "name": "Reyko", "link": "https://music.163.com/artist?id=12335050" }
+    ],
+    "album": {
+      "name": "Don't Mention My Name",
+      "link": "https://music.163.com/album?id=81972062"
+    }
+  },
+  {
+    "name": "Venom (Music From The Motion Picture) - (电影《毒液：致命守护者》主题曲)",
+    "link": "https://music.163.com/song?id=1311535712",
+    "duration": "04:29",
+    "artists": [
+      { "name": "Eminem", "link": "https://music.163.com/artist?id=32665" }
+    ],
+    "album": {
+      "name": "Venom (Music From The Motion Picture)",
+      "link": "https://music.163.com/album?id=73496717"
+    }
+  }
+]
