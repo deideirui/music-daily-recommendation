@@ -1,0 +1,529 @@
+[
+  {
+    "name": "Wild Ones",
+    "link": "https://music.163.com/song?id=1845607870",
+    "duration": "03:28",
+    "artists": [
+      {
+        "name": "Jason Ross",
+        "link": "https://music.163.com/artist?id=906123"
+      },
+      { "name": "Nevve", "link": "https://music.163.com/artist?id=12567101" }
+    ],
+    "album": {
+      "name": "Convergence EP",
+      "link": "https://music.163.com/album?id=127527529"
+    }
+  },
+  {
+    "name": "Hear My Call (feat. Tyler Graves)",
+    "link": "https://music.163.com/song?id=1862507836",
+    "duration": "03:08",
+    "artists": [
+      { "name": "Trivecta", "link": "https://music.163.com/artist?id=954338" },
+      {
+        "name": "Gem & Tauri",
+        "link": "https://music.163.com/artist?id=36805496"
+      },
+      {
+        "name": "Tyler Graves",
+        "link": "https://music.163.com/artist?id=31834852"
+      }
+    ],
+    "album": {
+      "name": "Hear My Call (feat. Tyler Graves)",
+      "link": "https://music.163.com/album?id=130597196"
+    }
+  },
+  {
+    "name": "Breathe (Sunrise Mix)",
+    "link": "https://music.163.com/song?id=1819983625",
+    "duration": "02:46",
+    "artists": [
+      { "name": "Syn Cole", "link": "https://music.163.com/artist?id=854432" },
+      { "name": "kaspara", "link": "https://music.163.com/artist?id=46843741" }
+    ],
+    "album": {
+      "name": "Breathe (Sunrise Mix)",
+      "link": "https://music.163.com/album?id=123000802"
+    }
+  },
+  {
+    "name": "Don't Look Down",
+    "link": "https://music.163.com/song?id=1842524780",
+    "duration": "02:45",
+    "artists": [
+      {
+        "name": "jeonghyeon",
+        "link": "https://music.163.com/artist?id=28748581"
+      },
+      { "name": "Ruta", "link": "https://music.163.com/artist?id=12062036" },
+      {
+        "name": "George Redwood",
+        "link": "https://music.163.com/artist?id=35481035"
+      }
+    ],
+    "album": {
+      "name": "Don't Look Down",
+      "link": "https://music.163.com/album?id=126936718"
+    }
+  },
+  {
+    "name": "Everything Can Be",
+    "link": "https://music.163.com/song?id=1836936243",
+    "duration": "03:57",
+    "artists": [
+      { "name": "Exede", "link": "https://music.163.com/artist?id=13059879" }
+    ],
+    "album": {
+      "name": "Everything Can Be",
+      "link": "https://music.163.com/album?id=125919899"
+    }
+  },
+  {
+    "name": "海阔天空",
+    "link": "https://music.163.com/song?id=400162138",
+    "duration": "05:23",
+    "artists": [
+      { "name": "Beyond", "link": "https://music.163.com/artist?id=11127" }
+    ],
+    "album": {
+      "name": "华纳23周年纪念精选系列",
+      "link": "https://music.163.com/album?id=34430029"
+    }
+  },
+  {
+    "name": "Alibi (Extended Mix)",
+    "link": "https://music.163.com/song?id=1824874600",
+    "duration": "04:18",
+    "artists": [
+      {
+        "name": "Dirty Palm",
+        "link": "https://music.163.com/artist?id=1155029"
+      },
+      { "name": "CRVN", "link": "https://music.163.com/artist?id=46566374" }
+    ],
+    "album": {
+      "name": "Alibi",
+      "link": "https://music.163.com/album?id=123889558"
+    }
+  },
+  {
+    "name": "Amsterdam",
+    "link": "https://music.163.com/song?id=16389342",
+    "duration": "04:22",
+    "artists": [
+      {
+        "name": "Orjan Nilsen",
+        "link": "https://music.163.com/artist?id=41064"
+      }
+    ],
+    "album": {
+      "name": "A State Of Trance 2012",
+      "link": "https://music.163.com/album?id=1511402"
+    }
+  },
+  {
+    "name": "Jaded",
+    "link": "https://music.163.com/song?id=1484827881",
+    "duration": "03:29",
+    "artists": [
+      { "name": "EMBRZ", "link": "https://music.163.com/artist?id=1173001" },
+      {
+        "name": "wilo wilde",
+        "link": "https://music.163.com/artist?id=34585305"
+      }
+    ],
+    "album": {
+      "name": "Jaded",
+      "link": "https://music.163.com/album?id=96409300"
+    }
+  },
+  {
+    "name": "Cruel Summer",
+    "link": "https://music.163.com/song?id=1861238907",
+    "duration": "03:08",
+    "artists": [
+      {
+        "name": "Crystal Skies",
+        "link": "https://music.163.com/artist?id=1063127"
+      },
+      { "name": "Mazare", "link": "https://music.163.com/artist?id=29718513" },
+      {
+        "name": "Bertie Scott",
+        "link": "https://music.163.com/artist?id=32696924"
+      }
+    ],
+    "album": {
+      "name": "Cruel Summer",
+      "link": "https://music.163.com/album?id=130365873"
+    }
+  },
+  {
+    "name": "Afterglow",
+    "link": "https://music.163.com/song?id=1819321026",
+    "duration": "04:09",
+    "artists": [
+      { "name": "BEATCORE", "link": "https://music.163.com/artist?id=1181857" },
+      {
+        "name": "Livingston Crain",
+        "link": "https://music.163.com/artist?id=37360179"
+      }
+    ],
+    "album": {
+      "name": "Afterglow",
+      "link": "https://music.163.com/album?id=122868338"
+    }
+  },
+  {
+    "name": "Last Day",
+    "link": "https://music.163.com/song?id=1811557220",
+    "duration": "03:40",
+    "artists": [
+      {
+        "name": "Two Friends",
+        "link": "https://music.163.com/artist?id=536718"
+      },
+      {
+        "name": "Josie Dunne",
+        "link": "https://music.163.com/artist?id=13164088"
+      }
+    ],
+    "album": {
+      "name": "Last Day",
+      "link": "https://music.163.com/album?id=121555582"
+    }
+  },
+  {
+    "name": "Miracle",
+    "link": "https://music.163.com/song?id=1428852145",
+    "duration": "02:46",
+    "artists": [
+      { "name": "Siks", "link": "https://music.163.com/artist?id=13381341" }
+    ],
+    "album": {
+      "name": "Miracle",
+      "link": "https://music.163.com/album?id=86298718"
+    }
+  },
+  {
+    "name": "You for Me",
+    "link": "https://music.163.com/song?id=1855907083",
+    "duration": "02:55",
+    "artists": [
+      { "name": "Sigala", "link": "https://music.163.com/artist?id=1124282" },
+      { "name": "Rita Ora", "link": "https://music.163.com/artist?id=74575" }
+    ],
+    "album": {
+      "name": "You for Me",
+      "link": "https://music.163.com/album?id=129451560"
+    }
+  },
+  {
+    "name": "Never Gets You Back",
+    "link": "https://music.163.com/song?id=1860959025",
+    "duration": "04:03",
+    "artists": [
+      { "name": "ARMNHMR", "link": "https://music.163.com/artist?id=1132078" },
+      { "name": "Caslow", "link": "https://music.163.com/artist?id=15109745" },
+      { "name": "Kwesi", "link": "https://music.163.com/artist?id=12493151" }
+    ],
+    "album": {
+      "name": "Never Gets You Back",
+      "link": "https://music.163.com/album?id=130304681"
+    }
+  },
+  {
+    "name": "Boom Boom Pow",
+    "link": "https://music.163.com/song?id=1822249090",
+    "duration": "03:05",
+    "artists": [
+      { "name": "Zafrir", "link": "https://music.163.com/artist?id=28442738" },
+      { "name": "Afrojack", "link": "https://music.163.com/artist?id=28745" }
+    ],
+    "album": {
+      "name": "Boom Boom Pow",
+      "link": "https://music.163.com/album?id=123393748"
+    }
+  },
+  {
+    "name": "Okay",
+    "link": "https://music.163.com/song?id=1862024739",
+    "duration": "02:31",
+    "artists": [
+      {
+        "name": "Nicky Romero",
+        "link": "https://music.163.com/artist?id=195142"
+      },
+      { "name": "MARF", "link": "https://music.163.com/artist?id=13459963" },
+      { "name": "Wulf", "link": "https://music.163.com/artist?id=311151" }
+    ],
+    "album": {
+      "name": "Okay",
+      "link": "https://music.163.com/album?id=130518105"
+    }
+  },
+  {
+    "name": "On My Way",
+    "link": "https://music.163.com/song?id=1848703592",
+    "duration": "02:43",
+    "artists": [
+      { "name": "Kaaze", "link": "https://music.163.com/artist?id=952052" },
+      {
+        "name": "Jay Mason",
+        "link": "https://music.163.com/artist?id=37420161"
+      }
+    ],
+    "album": {
+      "name": "On My Way",
+      "link": "https://music.163.com/album?id=128115100"
+    }
+  },
+  {
+    "name": "Try (feat. RØRY)",
+    "link": "https://music.163.com/song?id=1825890021",
+    "duration": "04:12",
+    "artists": [
+      { "name": "MitiS", "link": "https://music.163.com/artist?id=40245" },
+      { "name": "RØRY", "link": "https://music.163.com/artist?id=28774080" }
+    ],
+    "album": {
+      "name": "Hurt (feat. Zack Gray)",
+      "link": "https://music.163.com/album?id=124059854"
+    }
+  },
+  {
+    "name": "Like No Other (feat. Jaimes)",
+    "link": "https://music.163.com/song?id=1860997888",
+    "duration": "02:43",
+    "artists": [
+      {
+        "name": "Jay Hardway",
+        "link": "https://music.163.com/artist?id=710069"
+      },
+      {
+        "name": "Lasso The Sun",
+        "link": "https://music.163.com/artist?id=34362560"
+      },
+      { "name": "Jaimes", "link": "https://music.163.com/artist?id=27905089" }
+    ],
+    "album": {
+      "name": "Like No Other (feat. Jaimes)",
+      "link": "https://music.163.com/album?id=130314833"
+    }
+  },
+  {
+    "name": "Illusory Clouds",
+    "link": "https://music.163.com/song?id=1817109462",
+    "duration": "03:07",
+    "artists": [
+      { "name": "Awakcn", "link": "https://music.163.com/artist?id=34422355" },
+      {
+        "name": "HOC RECORDS",
+        "link": "https://music.163.com/artist?id=14299614"
+      }
+    ],
+    "album": {
+      "name": "HOC Records Vol.3 XIAO（霄）",
+      "link": "https://music.163.com/album?id=122477272"
+    }
+  },
+  {
+    "name": "Get Together",
+    "link": "https://music.163.com/song?id=1859126536",
+    "duration": "03:22",
+    "artists": [
+      {
+        "name": "Lucas & Steve",
+        "link": "https://music.163.com/artist?id=1039527"
+      }
+    ],
+    "album": {
+      "name": "Get Together",
+      "link": "https://music.163.com/album?id=129997433"
+    }
+  },
+  {
+    "name": "Mistakes",
+    "link": "https://music.163.com/song?id=1861549563",
+    "duration": "02:39",
+    "artists": [
+      { "name": "JANEE", "link": "https://music.163.com/artist?id=12274245" },
+      { "name": "Faith", "link": "https://music.163.com/artist?id=12092269" }
+    ],
+    "album": {
+      "name": "Mistakes",
+      "link": "https://music.163.com/album?id=130438023"
+    }
+  },
+  {
+    "name": "Whatever You Want",
+    "link": "https://music.163.com/song?id=1834357183",
+    "duration": "02:36",
+    "artists": [
+      {
+        "name": "RetroVision",
+        "link": "https://music.163.com/artist?id=11976142"
+      }
+    ],
+    "album": {
+      "name": "Whatever You Want",
+      "link": "https://music.163.com/album?id=125507023"
+    }
+  },
+  {
+    "name": "The Summer I Will Never Forget",
+    "link": "https://music.163.com/song?id=1468835046",
+    "duration": "04:12",
+    "artists": [
+      { "name": "Krbread", "link": "https://music.163.com/artist?id=32934907" },
+      {
+        "name": "Wheazewolf",
+        "link": "https://music.163.com/artist?id=30704290"
+      },
+      { "name": "Justin G", "link": "https://music.163.com/artist?id=27868283" }
+    ],
+    "album": {
+      "name": "The Summer I Will Never Forget",
+      "link": "https://music.163.com/album?id=93565692"
+    }
+  },
+  {
+    "name": "Hold On Tight (Acoustic)",
+    "link": "https://music.163.com/song?id=1361315183",
+    "duration": "02:22",
+    "artists": [
+      { "name": "R3HAB", "link": "https://music.163.com/artist?id=197248" },
+      {
+        "name": "Conor Maynard",
+        "link": "https://music.163.com/artist?id=29020"
+      }
+    ],
+    "album": {
+      "name": "Hold On Tight (Acoustic)",
+      "link": "https://music.163.com/album?id=78774529"
+    }
+  },
+  {
+    "name": "Hate You + Love You",
+    "link": "https://music.163.com/song?id=1816995764",
+    "duration": "03:18",
+    "artists": [
+      {
+        "name": "Cheat Codes",
+        "link": "https://music.163.com/artist?id=1078252"
+      },
+      {
+        "name": "AJ MitChell",
+        "link": "https://music.163.com/artist?id=12914329"
+      }
+    ],
+    "album": {
+      "name": "Hate You + Love You",
+      "link": "https://music.163.com/album?id=122456527"
+    }
+  },
+  {
+    "name": "Green",
+    "link": "https://music.163.com/song?id=1436474150",
+    "duration": "03:00",
+    "artists": [
+      { "name": "MAY-A", "link": "https://music.163.com/artist?id=35099467" }
+    ],
+    "album": {
+      "name": "Green",
+      "link": "https://music.163.com/album?id=87342265"
+    }
+  },
+  {
+    "name": "Moonlight（Satchel Remix）",
+    "link": "https://music.163.com/song?id=536298181",
+    "duration": "03:13",
+    "artists": [
+      { "name": "Satchel", "link": "https://music.163.com/artist?id=1132060" },
+      { "name": "Yonetro", "link": "https://music.163.com/artist?id=12095285" },
+      { "name": "Ulchero", "link": "https://music.163.com/artist?id=14312258" }
+    ],
+    "album": {
+      "name": "Moonlight（Satchel Remix）",
+      "link": "https://music.163.com/album?id=37554101"
+    }
+  },
+  {
+    "name": "Agilité",
+    "link": "https://music.163.com/song?id=1348239321",
+    "duration": "02:57",
+    "artists": [
+      {
+        "name": "The Darkmaker",
+        "link": "https://music.163.com/artist?id=31492299"
+      }
+    ],
+    "album": {
+      "name": "Agilité",
+      "link": "https://music.163.com/album?id=75679763"
+    }
+  },
+  {
+    "name": "Big",
+    "link": "https://music.163.com/song?id=1816148967",
+    "duration": "02:36",
+    "artists": [
+      { "name": "Rita Ora", "link": "https://music.163.com/artist?id=74575" },
+      { "name": "Imanbek", "link": "https://music.163.com/artist?id=33251576" },
+      {
+        "name": "David Guetta",
+        "link": "https://music.163.com/artist?id=31211"
+      },
+      { "name": "Gunna", "link": "https://music.163.com/artist?id=12417065" }
+    ],
+    "album": {
+      "name": "Bang",
+      "link": "https://music.163.com/album?id=122331508"
+    }
+  },
+  {
+    "name": "Losing Me (Piano Version)",
+    "link": "https://music.163.com/song?id=1388503739",
+    "duration": "03:10",
+    "artists": [
+      {
+        "name": "Gabrielle Aplin",
+        "link": "https://music.163.com/artist?id=59169"
+      },
+      { "name": "JP Cooper", "link": "https://music.163.com/artist?id=415889" }
+    ],
+    "album": {
+      "name": "Losing Me (Piano Version)",
+      "link": "https://music.163.com/album?id=81341723"
+    }
+  },
+  {
+    "name": "Burn",
+    "link": "https://music.163.com/song?id=521326047",
+    "duration": "03:58",
+    "artists": [
+      { "name": "蔡恩雨", "link": "https://music.163.com/artist?id=12553814" }
+    ],
+    "album": {
+      "name": "Burn",
+      "link": "https://music.163.com/album?id=36869113"
+    }
+  },
+  {
+    "name": "Hiding in the Blue",
+    "link": "https://music.163.com/song?id=1876545007",
+    "duration": "03:41",
+    "artists": [
+      {
+        "name": "TheFatRat",
+        "link": "https://music.163.com/artist?id=1019952"
+      },
+      { "name": "RIELL", "link": "https://music.163.com/artist?id=47154818" }
+    ],
+    "album": {
+      "name": "Parallax",
+      "link": "https://music.163.com/album?id=132939256"
+    }
+  }
+]
