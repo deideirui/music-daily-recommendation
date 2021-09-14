@@ -1,0 +1,521 @@
+[
+  {
+    "name": "I Promise (Shrivera Remix)",
+    "link": "https://music.163.com/song?id=1462485983",
+    "duration": "02:52",
+    "artists": [
+      {
+        "name": "DigitalTek",
+        "link": "https://music.163.com/artist?id=12930830"
+      }
+    ],
+    "album": {
+      "name": "I Promise (The Remixes)",
+      "link": "https://music.163.com/album?id=92356876"
+    }
+  },
+  {
+    "name": "Take Me Home (feat. Jess Ball)",
+    "link": "https://music.163.com/song?id=1847529505",
+    "duration": "03:05",
+    "artists": [
+      { "name": "EDX", "link": "https://music.163.com/artist?id=33305" },
+      {
+        "name": "Jess Ball",
+        "link": "https://music.163.com/artist?id=33784327"
+      }
+    ],
+    "album": {
+      "name": "Take Me Home (feat. Jess Ball)",
+      "link": "https://music.163.com/album?id=127870348"
+    }
+  },
+  {
+    "name": "Love Me Better",
+    "link": "https://music.163.com/song?id=1856255140",
+    "duration": "02:30",
+    "artists": [
+      {
+        "name": "Dillon Francis",
+        "link": "https://music.163.com/artist?id=32514"
+      },
+      { "name": "SHIFT K3Y", "link": "https://music.163.com/artist?id=837035" },
+      {
+        "name": "Marc E. Bassy",
+        "link": "https://music.163.com/artist?id=12046521"
+      }
+    ],
+    "album": {
+      "name": "Love Me Better",
+      "link": "https://music.163.com/album?id=129523887"
+    }
+  },
+  {
+    "name": "Be Yourself",
+    "link": "https://music.163.com/song?id=1833571916",
+    "duration": "02:36",
+    "artists": [
+      { "name": "PLEEG", "link": "https://music.163.com/artist?id=12935595" }
+    ],
+    "album": {
+      "name": "Be Yourself",
+      "link": "https://music.163.com/album?id=125349623"
+    }
+  },
+  {
+    "name": "Nightlight",
+    "link": "https://music.163.com/song?id=1860988295",
+    "duration": "03:42",
+    "artists": [
+      { "name": "ILLENIUM", "link": "https://music.163.com/artist?id=1050518" },
+      {
+        "name": "Annika Wells",
+        "link": "https://music.163.com/artist?id=12108797"
+      }
+    ],
+    "album": {
+      "name": "Fallen Embers",
+      "link": "https://music.163.com/album?id=130311646"
+    }
+  },
+  {
+    "name": "When You Grow up, Your Heart Dies",
+    "link": "https://music.163.com/song?id=1304567168",
+    "duration": "05:49",
+    "artists": [
+      { "name": "GUNSHIP", "link": "https://music.163.com/artist?id=1124210" }
+    ],
+    "album": {
+      "name": "When You Grow up, Your Heart Dies",
+      "link": "https://music.163.com/album?id=72500998"
+    }
+  },
+  {
+    "name": "Stars",
+    "link": "https://music.163.com/song?id=1362503558",
+    "duration": "03:19",
+    "artists": [
+      {
+        "name": "Glass玻璃",
+        "link": "https://music.163.com/artist?id=30476499"
+      }
+    ],
+    "album": {
+      "name": "Stars",
+      "link": "https://music.163.com/album?id=78854784"
+    }
+  },
+  {
+    "name": "Don't Leave Me Now (Brooks Remix)",
+    "link": "https://music.163.com/song?id=1822914452",
+    "duration": "03:03",
+    "artists": [
+      {
+        "name": "Lost Frequencies",
+        "link": "https://music.163.com/artist?id=1039114"
+      },
+      {
+        "name": "Mathieu Koss",
+        "link": "https://music.163.com/artist?id=12041073"
+      },
+      { "name": "Brooks", "link": "https://music.163.com/artist?id=49308" }
+    ],
+    "album": {
+      "name": "Don't Leave Me Now (Remix Pack)",
+      "link": "https://music.163.com/album?id=123528382"
+    }
+  },
+  {
+    "name": "VIBR8",
+    "link": "https://music.163.com/song?id=1851221467",
+    "duration": "02:59",
+    "artists": [
+      {
+        "name": "Marshmello",
+        "link": "https://music.163.com/artist?id=1060019"
+      }
+    ],
+    "album": {
+      "name": "Shockwave",
+      "link": "https://music.163.com/album?id=128551827"
+    }
+  },
+  {
+    "name": "EXHALE (feat. Sia) (Hook N Sling)",
+    "link": "https://music.163.com/song?id=1459673394",
+    "duration": "02:37",
+    "artists": [
+      { "name": "Kenzie", "link": "https://music.163.com/artist?id=12400153" },
+      { "name": "Sia", "link": "https://music.163.com/artist?id=74625" },
+      {
+        "name": "Hook N Sling",
+        "link": "https://music.163.com/artist?id=205452"
+      }
+    ],
+    "album": {
+      "name": "EXHALE (feat. Sia) (Hook N Sling Remix)",
+      "link": "https://music.163.com/album?id=91836850"
+    }
+  },
+  {
+    "name": "Journey",
+    "link": "https://music.163.com/song?id=1836143049",
+    "duration": "04:06",
+    "artists": [
+      {
+        "name": "Brennan Heart",
+        "link": "https://music.163.com/artist?id=688203"
+      },
+      {
+        "name": "Jonathan Mendelsohn",
+        "link": "https://music.163.com/artist?id=826017"
+      }
+    ],
+    "album": {
+      "name": "Journey EP",
+      "link": "https://music.163.com/album?id=125815783"
+    }
+  },
+  {
+    "name": "Everything (feat. Stasia)",
+    "link": "https://music.163.com/song?id=1456344461",
+    "duration": "04:31",
+    "artists": [
+      { "name": "CelDro", "link": "https://music.163.com/artist?id=1132950" },
+      { "name": "Stasia", "link": "https://music.163.com/artist?id=30119852" }
+    ],
+    "album": {
+      "name": "Everything (feat. Stasia)",
+      "link": "https://music.163.com/album?id=91138935"
+    }
+  },
+  {
+    "name": "Miles to Go",
+    "link": "https://music.163.com/song?id=1822645002",
+    "duration": "03:18",
+    "artists": [
+      { "name": "Kaskade", "link": "https://music.163.com/artist?id=37559" },
+      { "name": "Ella Vos", "link": "https://music.163.com/artist?id=12121298" }
+    ],
+    "album": {
+      "name": "Reset",
+      "link": "https://music.163.com/album?id=123466092"
+    }
+  },
+  {
+    "name": "black and white",
+    "link": "https://music.163.com/song?id=1849198837",
+    "duration": "04:01",
+    "artists": [
+      { "name": "San Holo", "link": "https://music.163.com/artist?id=1017035" }
+    ],
+    "album": {
+      "name": "bb u ok?",
+      "link": "https://music.163.com/album?id=128204234"
+    }
+  },
+  {
+    "name": "No Rest",
+    "link": "https://music.163.com/song?id=1805023927",
+    "duration": "03:29",
+    "artists": [
+      { "name": "Vicetone", "link": "https://music.163.com/artist?id=747030" }
+    ],
+    "album": {
+      "name": "No Rest",
+      "link": "https://music.163.com/album?id=120550331"
+    }
+  },
+  {
+    "name": "Never Ending Storm",
+    "link": "https://music.163.com/song?id=1398018986",
+    "duration": "02:57",
+    "artists": [
+      {
+        "name": "Loris Cimino",
+        "link": "https://music.163.com/artist?id=12335219"
+      }
+    ],
+    "album": {
+      "name": "Never Ending Storm",
+      "link": "https://music.163.com/album?id=82563871"
+    }
+  },
+  {
+    "name": "Beside Me",
+    "link": "https://music.163.com/song?id=1478002643",
+    "duration": "03:01",
+    "artists": [
+      { "name": "MatChA", "link": "https://music.163.com/artist?id=28187324" },
+      {
+        "name": "马丁的披萨PizzA_",
+        "link": "https://music.163.com/artist?id=34203643"
+      },
+      {
+        "name": "Yurium幼里安",
+        "link": "https://music.163.com/artist?id=31374204"
+      }
+    ],
+    "album": {
+      "name": "Beside Me",
+      "link": "https://music.163.com/album?id=94571393"
+    }
+  },
+  {
+    "name": "Hollow Life",
+    "link": "https://music.163.com/song?id=1405639135",
+    "duration": "03:59",
+    "artists": [
+      { "name": "Tritan", "link": "https://music.163.com/artist?id=12425031" },
+      { "name": "Ratfoot", "link": "https://music.163.com/artist?id=13461250" }
+    ],
+    "album": {
+      "name": "Hollow Life",
+      "link": "https://music.163.com/album?id=83635253"
+    }
+  },
+  {
+    "name": "Adventure（Original Mix）",
+    "link": "https://music.163.com/song?id=1437174484",
+    "duration": "04:26",
+    "artists": [
+      { "name": "Nightarc", "link": "https://music.163.com/artist?id=32930933" }
+    ],
+    "album": {
+      "name": "Adventure（Original Mix）",
+      "link": "https://music.163.com/album?id=86847447"
+    }
+  },
+  {
+    "name": "Hello",
+    "link": "https://music.163.com/song?id=1473922251",
+    "duration": "03:45",
+    "artists": [
+      {
+        "name": "VARGENTA",
+        "link": "https://music.163.com/artist?id=12108656"
+      },
+      { "name": "ZENTA", "link": "https://music.163.com/artist?id=36937063" },
+      {
+        "name": "Revealed Recordings",
+        "link": "https://music.163.com/artist?id=28753573"
+      },
+      {
+        "name": "Max Landry",
+        "link": "https://music.163.com/artist?id=13493957"
+      }
+    ],
+    "album": {
+      "name": "Hello",
+      "link": "https://music.163.com/album?id=94465381"
+    }
+  },
+  {
+    "name": "Happy To Be Sad",
+    "link": "https://music.163.com/song?id=1393159513",
+    "duration": "03:34",
+    "artists": [
+      { "name": "IZZI", "link": "https://music.163.com/artist?id=31762704" },
+      { "name": "AILIA", "link": "https://music.163.com/artist?id=30700345" }
+    ],
+    "album": {
+      "name": "Happy To Be Sad",
+      "link": "https://music.163.com/album?id=81916169"
+    }
+  },
+  {
+    "name": "岁日迎春",
+    "link": "https://music.163.com/song?id=1821465243",
+    "duration": "04:01",
+    "artists": [
+      { "name": "灼凉", "link": "https://music.163.com/artist?id=31148058" },
+      {
+        "name": "举世无双石公子",
+        "link": "https://music.163.com/artist?id=33320854"
+      },
+      { "name": "虞绮", "link": "https://music.163.com/artist?id=34178601" },
+      {
+        "name": "BOBBY LOAD",
+        "link": "https://music.163.com/artist?id=30281340"
+      },
+      {
+        "name": "The Queen's Secret",
+        "link": "https://music.163.com/artist?id=34318982"
+      },
+      { "name": "YMAin", "link": "https://music.163.com/artist?id=34328264" }
+    ],
+    "album": {
+      "name": "岁日迎春",
+      "link": "https://music.163.com/album?id=123277687"
+    }
+  },
+  {
+    "name": "念安",
+    "link": "https://music.163.com/song?id=1447306947",
+    "duration": "03:26",
+    "artists": [
+      { "name": "芦虹锦", "link": "https://music.163.com/artist?id=35125317" },
+      { "name": "白鸿", "link": "https://music.163.com/artist?id=31008744" },
+      {
+        "name": "Glass玻璃",
+        "link": "https://music.163.com/artist?id=30476499"
+      }
+    ],
+    "album": {
+      "name": "念安",
+      "link": "https://music.163.com/album?id=89269135"
+    }
+  },
+  {
+    "name": "Freedom",
+    "link": "https://music.163.com/song?id=1450574551",
+    "duration": "03:30",
+    "artists": [
+      {
+        "name": "Wheazewolf",
+        "link": "https://music.163.com/artist?id=30704290"
+      }
+    ],
+    "album": {
+      "name": "Freedom",
+      "link": "https://music.163.com/album?id=89848372"
+    }
+  },
+  {
+    "name": "For You",
+    "link": "https://music.163.com/song?id=1409288398",
+    "duration": "03:31",
+    "artists": [
+      {
+        "name": "Chill Satellite",
+        "link": "https://music.163.com/artist?id=33421944"
+      }
+    ],
+    "album": {
+      "name": "For You",
+      "link": "https://music.163.com/album?id=84069518"
+    }
+  },
+  {
+    "name": "奔赴",
+    "link": "https://music.163.com/song?id=1822619577",
+    "duration": "02:43",
+    "artists": [
+      {
+        "name": "马丁的披萨PizzA_",
+        "link": "https://music.163.com/artist?id=34203643"
+      },
+      {
+        "name": "Yurium幼里安",
+        "link": "https://music.163.com/artist?id=31374204"
+      },
+      { "name": "MatChA", "link": "https://music.163.com/artist?id=28187324" },
+      {
+        "name": "熙子hiroko",
+        "link": "https://music.163.com/artist?id=31160589"
+      }
+    ],
+    "album": {
+      "name": "奔赴",
+      "link": "https://music.163.com/album?id=123399479"
+    }
+  },
+  {
+    "name": "Traffic Light",
+    "link": "https://music.163.com/song?id=1356806520",
+    "duration": "02:43",
+    "artists": [
+      { "name": "Rival", "link": "https://music.163.com/artist?id=12741030" },
+      { "name": "Orkid", "link": "https://music.163.com/artist?id=12971173" }
+    ],
+    "album": {
+      "name": "Traffic Light",
+      "link": "https://music.163.com/album?id=78341647"
+    }
+  },
+  {
+    "name": "RyAL-All I know（Champer remix）",
+    "link": "https://music.163.com/song?id=1824058027",
+    "duration": "03:44",
+    "artists": [
+      { "name": "Champer", "link": "https://music.163.com/artist?id=34371991" }
+    ],
+    "album": {
+      "name": "All I Know (Champer Remix)",
+      "link": "https://music.163.com/album?id=123712047"
+    }
+  },
+  {
+    "name": "Moonlight Shadow（DJ版）",
+    "link": "https://music.163.com/song?id=1460666490",
+    "duration": "03:08",
+    "artists": [
+      { "name": "肖琴", "link": "https://music.163.com/artist?id=30109622" },
+      { "name": "肖Music", "link": "https://music.163.com/artist?id=33112728" }
+    ],
+    "album": {
+      "name": "适度清零",
+      "link": "https://music.163.com/album?id=91990929"
+    }
+  },
+  {
+    "name": "you were good to me",
+    "link": "https://music.163.com/song?id=1441151652",
+    "duration": "03:39",
+    "artists": [
+      {
+        "name": "Jeremy Zucker",
+        "link": "https://music.163.com/artist?id=12096183"
+      },
+      {
+        "name": "Chelsea Cutler",
+        "link": "https://music.163.com/artist?id=1150112"
+      }
+    ],
+    "album": {
+      "name": "love is not dying",
+      "link": "https://music.163.com/album?id=88124219"
+    }
+  },
+  {
+    "name": "戒不掉",
+    "link": "https://music.163.com/song?id=573359962",
+    "duration": "04:03",
+    "artists": [
+      { "name": "KYS", "link": "https://music.163.com/artist?id=14017279" },
+      { "name": "欧阳耀莹", "link": "https://music.163.com/artist?id=13451731" }
+    ],
+    "album": {
+      "name": "戒不掉",
+      "link": "https://music.163.com/album?id=39689179"
+    }
+  },
+  {
+    "name": "The King",
+    "link": "https://music.163.com/song?id=1371456748",
+    "duration": "03:29",
+    "artists": [
+      {
+        "name": "Dimitri Vangelis & Wyman",
+        "link": "https://music.163.com/artist?id=881024"
+      },
+      { "name": "Dzeko", "link": "https://music.163.com/artist?id=310749" }
+    ],
+    "album": {
+      "name": "The King",
+      "link": "https://music.163.com/album?id=79761720"
+    }
+  },
+  {
+    "name": "YOUTH",
+    "link": "https://music.163.com/song?id=1876989243",
+    "duration": "03:05",
+    "artists": [
+      { "name": "Troye Sivan", "link": "https://music.163.com/artist?id=45129" }
+    ],
+    "album": {
+      "name": "Like I Can",
+      "link": "https://music.163.com/album?id=133043535"
+    }
+  }
+]
