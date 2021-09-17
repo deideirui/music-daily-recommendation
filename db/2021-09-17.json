@@ -1,0 +1,504 @@
+[
+  {
+    "name": "Now or Never",
+    "link": "https://music.163.com/song?id=1840634237",
+    "duration": "02:28",
+    "artists": [
+      { "name": "Aniela", "link": "https://music.163.com/artist?id=32498687" },
+      { "name": "RudeLies", "link": "https://music.163.com/artist?id=12416051" }
+    ],
+    "album": {
+      "name": "Now or Never",
+      "link": "https://music.163.com/album?id=126620180"
+    }
+  },
+  {
+    "name": "The End Of Time",
+    "link": "https://music.163.com/song?id=1817797592",
+    "duration": "03:10",
+    "artists": [
+      {
+        "name": "Sickrate",
+        "link": "https://music.163.com/artist?id=32795333"
+      },
+      {
+        "name": "DoxedMusic",
+        "link": "https://music.163.com/artist?id=36720096"
+      }
+    ],
+    "album": {
+      "name": "The End Of Time",
+      "link": "https://music.163.com/album?id=122588408"
+    }
+  },
+  {
+    "name": "Fly With U (Original Mix)",
+    "link": "https://music.163.com/song?id=1491427334",
+    "duration": "02:30",
+    "artists": [
+      {
+        "name": "Sebastian Park",
+        "link": "https://music.163.com/artist?id=12678694"
+      }
+    ],
+    "album": {
+      "name": "Fly With U",
+      "link": "https://music.163.com/album?id=97629808"
+    }
+  },
+  {
+    "name": "深化危机",
+    "link": "https://music.163.com/song?id=563687822",
+    "duration": "04:10",
+    "artists": [
+      { "name": "Dear Jane", "link": "https://music.163.com/artist?id=11378" }
+    ],
+    "album": {
+      "name": "Infinity & Eternity",
+      "link": "https://music.163.com/album?id=75883602"
+    }
+  },
+  {
+    "name": "Wake Me Up",
+    "link": "https://music.163.com/song?id=1490558120",
+    "duration": "02:49",
+    "artists": [
+      {
+        "name": "Toby Callum",
+        "link": "https://music.163.com/artist?id=34220974"
+      },
+      {
+        "name": "Sophiella",
+        "link": "https://music.163.com/artist?id=33924228"
+      }
+    ],
+    "album": {
+      "name": "Wake Me Up",
+      "link": "https://music.163.com/album?id=97456785"
+    }
+  },
+  {
+    "name": "Highway",
+    "link": "https://music.163.com/song?id=1815879022",
+    "duration": "02:46",
+    "artists": [
+      { "name": "Osrin", "link": "https://music.163.com/artist?id=12249118" },
+      { "name": "Wilhelm", "link": "https://music.163.com/artist?id=197792" }
+    ],
+    "album": {
+      "name": "Highway",
+      "link": "https://music.163.com/album?id=122290395"
+    }
+  },
+  {
+    "name": "Turn Me On",
+    "link": "https://music.163.com/song?id=1390313374",
+    "duration": "03:28",
+    "artists": [
+      { "name": "Riton", "link": "https://music.163.com/artist?id=185671" },
+      {
+        "name": "Oliver Heldens",
+        "link": "https://music.163.com/artist?id=868010"
+      },
+      { "name": "Vula", "link": "https://music.163.com/artist?id=258811" }
+    ],
+    "album": {
+      "name": "Turn Me On",
+      "link": "https://music.163.com/album?id=81572661"
+    }
+  },
+  {
+    "name": "Love Hurts, Love Anyway",
+    "link": "https://music.163.com/song?id=1375935122",
+    "duration": "05:28",
+    "artists": [
+      { "name": "Dennis Kuo", "link": "https://music.163.com/artist?id=32385" }
+    ],
+    "album": {
+      "name": "Study Music Project 7: Final Exam",
+      "link": "https://music.163.com/album?id=80218653"
+    }
+  },
+  {
+    "name": "ØUT ØF THE WØRLD",
+    "link": "https://music.163.com/song?id=1813503396",
+    "duration": "03:19",
+    "artists": [
+      {
+        "name": "Marten Hørger",
+        "link": "https://music.163.com/artist?id=12598377"
+      }
+    ],
+    "album": {
+      "name": "ØUT ØF THE WØRLD / ALL ALØNE EP",
+      "link": "https://music.163.com/album?id=121883509"
+    }
+  },
+  {
+    "name": "Miss Me",
+    "link": "https://music.163.com/song?id=1824629794",
+    "duration": "03:04",
+    "artists": [
+      { "name": "NUZB", "link": "https://music.163.com/artist?id=12203239" },
+      { "name": "Malarkey", "link": "https://music.163.com/artist?id=12107475" }
+    ],
+    "album": {
+      "name": "Miss Me",
+      "link": "https://music.163.com/album?id=123840731"
+    }
+  },
+  {
+    "name": "Mind Of Mine",
+    "link": "https://music.163.com/song?id=1822914328",
+    "duration": "03:04",
+    "artists": [
+      { "name": "Blinders", "link": "https://music.163.com/artist?id=351402" }
+    ],
+    "album": {
+      "name": "Mind Of Mine",
+      "link": "https://music.163.com/album?id=123528297"
+    }
+  },
+  {
+    "name": "Beyond The Stars",
+    "link": "https://music.163.com/song?id=1838717696",
+    "duration": "04:37",
+    "artists": [
+      { "name": "Firelite", "link": "https://music.163.com/artist?id=12024199" }
+    ],
+    "album": {
+      "name": "Beyond The Stars",
+      "link": "https://music.163.com/album?id=126236726"
+    }
+  },
+  {
+    "name": "Beat Of My Heart",
+    "link": "https://music.163.com/song?id=1394745826",
+    "duration": "03:03",
+    "artists": [
+      {
+        "name": "Lost Frequencies",
+        "link": "https://music.163.com/artist?id=1039114"
+      },
+      {
+        "name": "Love Harder",
+        "link": "https://music.163.com/artist?id=32842482"
+      }
+    ],
+    "album": {
+      "name": "Alive And Feeling Fine",
+      "link": "https://music.163.com/album?id=82120475"
+    }
+  },
+  {
+    "name": "New Dawn",
+    "link": "https://music.163.com/song?id=508319214",
+    "duration": "05:07",
+    "artists": [
+      {
+        "name": "Bad Computer",
+        "link": "https://music.163.com/artist?id=12647410"
+      }
+    ],
+    "album": {
+      "name": "New Dawn",
+      "link": "https://music.163.com/album?id=36303263"
+    }
+  },
+  {
+    "name": "Change It (with Liel Kolet)",
+    "link": "https://music.163.com/song?id=1866202304",
+    "duration": "05:04",
+    "artists": [
+      {
+        "name": "Last Heroes",
+        "link": "https://music.163.com/artist?id=11987034"
+      },
+      {
+        "name": "Liel Kolet",
+        "link": "https://music.163.com/artist?id=14672688"
+      }
+    ],
+    "album": {
+      "name": "Change It (with Liel Kolet)",
+      "link": "https://music.163.com/album?id=131232675"
+    }
+  },
+  {
+    "name": "Pride & Fear",
+    "link": "https://music.163.com/song?id=1876545009",
+    "duration": "02:46",
+    "artists": [
+      {
+        "name": "TheFatRat",
+        "link": "https://music.163.com/artist?id=1019952"
+      },
+      { "name": "Riell", "link": "https://music.163.com/artist?id=30558622" }
+    ],
+    "album": {
+      "name": "Parallax",
+      "link": "https://music.163.com/album?id=132939256"
+    }
+  },
+  {
+    "name": "Without You",
+    "link": "https://music.163.com/song?id=1869077554",
+    "duration": "02:31",
+    "artists": [
+      {
+        "name": "Mike Williams",
+        "link": "https://music.163.com/artist?id=302020"
+      },
+      {
+        "name": "Felix Jaehn",
+        "link": "https://music.163.com/artist?id=963083"
+      },
+      {
+        "name": "Jordan Shaw",
+        "link": "https://music.163.com/artist?id=13628884"
+      }
+    ],
+    "album": {
+      "name": "Without You (Mesto Remix)",
+      "link": "https://music.163.com/album?id=131722498"
+    }
+  },
+  {
+    "name": "OK (feat. Lovespeake)",
+    "link": "https://music.163.com/song?id=1851346670",
+    "duration": "02:59",
+    "artists": [
+      {
+        "name": "Matisse & Sadko",
+        "link": "https://music.163.com/artist?id=947054"
+      },
+      {
+        "name": "Lovespeake",
+        "link": "https://music.163.com/artist?id=12474630"
+      }
+    ],
+    "album": {
+      "name": "OK (feat. Lovespeake)",
+      "link": "https://music.163.com/album?id=128570916"
+    }
+  },
+  {
+    "name": "Learn To Love Again",
+    "link": "https://music.163.com/song?id=1841902000",
+    "duration": "03:44",
+    "artists": [
+      { "name": "Audien", "link": "https://music.163.com/artist?id=191706" }
+    ],
+    "album": {
+      "name": "Learn To Love Again",
+      "link": "https://music.163.com/album?id=126824633"
+    }
+  },
+  {
+    "name": "Sweet Time",
+    "link": "https://music.163.com/song?id=1839137992",
+    "duration": "04:11",
+    "artists": [
+      {
+        "name": "Porter Robinson",
+        "link": "https://music.163.com/artist?id=185871"
+      }
+    ],
+    "album": {
+      "name": "Nurture",
+      "link": "https://music.163.com/album?id=126338915"
+    }
+  },
+  {
+    "name": "FADE",
+    "link": "https://music.163.com/song?id=1860307745",
+    "duration": "03:07",
+    "artists": [
+      { "name": "Kaaze", "link": "https://music.163.com/artist?id=952052" }
+    ],
+    "album": {
+      "name": "FADE",
+      "link": "https://music.163.com/album?id=130205204"
+    }
+  },
+  {
+    "name": "Love On Fire",
+    "link": "https://music.163.com/song?id=1856315864",
+    "duration": "02:48",
+    "artists": [
+      {
+        "name": "Futuristic Polar Bears",
+        "link": "https://music.163.com/artist?id=709041"
+      },
+      { "name": "Cuebrick", "link": "https://music.163.com/artist?id=364737" },
+      { "name": "LUX (US)", "link": "https://music.163.com/artist?id=35049288" }
+    ],
+    "album": {
+      "name": "Love On Fire",
+      "link": "https://music.163.com/album?id=129534805"
+    }
+  },
+  {
+    "name": "Take Everything",
+    "link": "https://music.163.com/song?id=1333128472",
+    "duration": "03:32",
+    "artists": [
+      {
+        "name": "Gareth Emery",
+        "link": "https://music.163.com/artist?id=34318"
+      },
+      { "name": "Emma Hewitt", "link": "https://music.163.com/artist?id=56751" }
+    ],
+    "album": {
+      "name": "Take Everything",
+      "link": "https://music.163.com/album?id=74869418"
+    }
+  },
+  {
+    "name": "Vertigo",
+    "link": "https://music.163.com/song?id=1835761027",
+    "duration": "02:47",
+    "artists": [
+      { "name": "Curbi", "link": "https://music.163.com/artist?id=1049915" },
+      { "name": "Pollyanna", "link": "https://music.163.com/artist?id=136461" }
+    ],
+    "album": {
+      "name": "Vertigo",
+      "link": "https://music.163.com/album?id=125741512"
+    }
+  },
+  {
+    "name": "Time To Give",
+    "link": "https://music.163.com/song?id=1842794522",
+    "duration": "03:43",
+    "artists": [
+      { "name": "Meikle", "link": "https://music.163.com/artist?id=480444" },
+      {
+        "name": "Roy Orion",
+        "link": "https://music.163.com/artist?id=12462459"
+      },
+      {
+        "name": "Revealed Recordings",
+        "link": "https://music.163.com/artist?id=28753573"
+      }
+    ],
+    "album": {
+      "name": "Time To Give",
+      "link": "https://music.163.com/album?id=126999261"
+    }
+  },
+  {
+    "name": "Have You Never Been Mellow",
+    "link": "https://music.163.com/song?id=1418462816",
+    "duration": "02:27",
+    "artists": [
+      {
+        "name": "Keanu Silva",
+        "link": "https://music.163.com/artist?id=11974107"
+      }
+    ],
+    "album": {
+      "name": "Have You Never Been Mellow",
+      "link": "https://music.163.com/album?id=85171767"
+    }
+  },
+  {
+    "name": "Shockwave",
+    "link": "https://music.163.com/song?id=1851221469",
+    "duration": "03:01",
+    "artists": [
+      {
+        "name": "Marshmello",
+        "link": "https://music.163.com/artist?id=1060019"
+      }
+    ],
+    "album": {
+      "name": "Shockwave",
+      "link": "https://music.163.com/album?id=128551827"
+    }
+  },
+  {
+    "name": "Last Mistake",
+    "link": "https://music.163.com/song?id=1448104873",
+    "duration": "03:21",
+    "artists": [
+      { "name": "Advent", "link": "https://music.163.com/artist?id=12309081" },
+      { "name": "AKACIA", "link": "https://music.163.com/artist?id=12263377" }
+    ],
+    "album": {
+      "name": "Last Mistake",
+      "link": "https://music.163.com/album?id=89448147"
+    }
+  },
+  {
+    "name": "Visions",
+    "link": "https://music.163.com/song?id=1376535565",
+    "duration": "03:08",
+    "artists": [
+      { "name": "JWoods", "link": "https://music.163.com/artist?id=30959670" }
+    ],
+    "album": {
+      "name": "Visions",
+      "link": "https://music.163.com/album?id=80185433"
+    }
+  },
+  {
+    "name": "乐醺",
+    "link": "https://music.163.com/song?id=1817438896",
+    "duration": "02:49",
+    "artists": [
+      {
+        "name": "Dimi Mack",
+        "link": "https://music.163.com/artist?id=12701299"
+      },
+      { "name": "Lorien", "link": "https://music.163.com/artist?id=32465968" },
+      {
+        "name": "vogue V Records",
+        "link": "https://music.163.com/artist?id=13010256"
+      }
+    ],
+    "album": {
+      "name": "乐醺",
+      "link": "https://music.163.com/album?id=122529354"
+    }
+  },
+  {
+    "name": "Curative",
+    "link": "https://music.163.com/song?id=1378999559",
+    "duration": "03:20",
+    "artists": [
+      {
+        "name": "The Darkmaker",
+        "link": "https://music.163.com/artist?id=31492299"
+      }
+    ],
+    "album": {
+      "name": "The Fairy",
+      "link": "https://music.163.com/album?id=80471989"
+    }
+  },
+  {
+    "name": "Thunder",
+    "link": "https://music.163.com/song?id=1295840113",
+    "duration": "03:52",
+    "artists": [
+      { "name": "Camelia", "link": "https://music.163.com/artist?id=13285491" }
+    ],
+    "album": {
+      "name": "Thunder",
+      "link": "https://music.163.com/album?id=71900508"
+    }
+  },
+  {
+    "name": "Anywhere I Go (Extended Mix)",
+    "link": "https://music.163.com/song?id=425136618",
+    "duration": "04:23",
+    "artists": [
+      { "name": "Vicetone", "link": "https://music.163.com/artist?id=747030" }
+    ],
+    "album": {
+      "name": "Anywhere I Go",
+      "link": "https://music.163.com/album?id=34770055"
+    }
+  }
+]
