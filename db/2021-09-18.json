@@ -1,0 +1,502 @@
+[
+  {
+    "name": "Step And Repeat",
+    "link": "https://music.163.com/song?id=1809764252",
+    "duration": "03:32",
+    "artists": [
+      { "name": "Landis", "link": "https://music.163.com/artist?id=1064147" },
+      {
+        "name": "Saint Wade",
+        "link": "https://music.163.com/artist?id=34190347"
+      }
+    ],
+    "album": {
+      "name": "Step And Repeat",
+      "link": "https://music.163.com/album?id=121247465"
+    }
+  },
+  {
+    "name": "Better With You",
+    "link": "https://music.163.com/song?id=1471114278",
+    "duration": "02:21",
+    "artists": [
+      {
+        "name": "RetroVision",
+        "link": "https://music.163.com/artist?id=11976142"
+      }
+    ],
+    "album": {
+      "name": "Better With You",
+      "link": "https://music.163.com/album?id=93967164"
+    }
+  },
+  {
+    "name": "Don't Be Scared",
+    "link": "https://music.163.com/song?id=446512023",
+    "duration": "03:42",
+    "artists": [
+      {
+        "name": "Luca Debonaire",
+        "link": "https://music.163.com/artist?id=896335"
+      }
+    ],
+    "album": {
+      "name": "Don't Be Scared EP",
+      "link": "https://music.163.com/album?id=35044240"
+    }
+  },
+  {
+    "name": "Ride With Me (feat. Kid Ink) [Brennan Heart Remix]",
+    "link": "https://music.163.com/song?id=1857345688",
+    "duration": "03:50",
+    "artists": [
+      { "name": "Tungevaag", "link": "https://music.163.com/artist?id=962293" },
+      { "name": "KiD Ink", "link": "https://music.163.com/artist?id=37969" },
+      {
+        "name": "Brennan Heart",
+        "link": "https://music.163.com/artist?id=688203"
+      }
+    ],
+    "album": {
+      "name": "Ride With Me (feat. Kid Ink) [Brennan Heart Remix]",
+      "link": "https://music.163.com/album?id=129690906"
+    }
+  },
+  {
+    "name": "The Future",
+    "link": "https://music.163.com/song?id=487375338",
+    "duration": "04:01",
+    "artists": [
+      { "name": "San Holo", "link": "https://music.163.com/artist?id=1017035" },
+      {
+        "name": "James Vincent McMorrow",
+        "link": "https://music.163.com/artist?id=36960"
+      }
+    ],
+    "album": {
+      "name": "The Future",
+      "link": "https://music.163.com/album?id=35688334"
+    }
+  },
+  {
+    "name": "Tum Dum Dum",
+    "link": "https://music.163.com/song?id=406346135",
+    "duration": "04:27",
+    "artists": [
+      { "name": "DJ Vavva", "link": "https://music.163.com/artist?id=451132" }
+    ],
+    "album": {
+      "name": "Tum Dum Dum",
+      "link": "https://music.163.com/album?id=34555054"
+    }
+  },
+  {
+    "name": "Missing",
+    "link": "https://music.163.com/song?id=1811707980",
+    "duration": "02:41",
+    "artists": [
+      { "name": "OVSKY", "link": "https://music.163.com/artist?id=36560569" }
+    ],
+    "album": {
+      "name": "Missing",
+      "link": "https://music.163.com/album?id=121587113"
+    }
+  },
+  {
+    "name": "More Than A Human",
+    "link": "https://music.163.com/song?id=1837421129",
+    "duration": "03:23",
+    "artists": [
+      { "name": "Refuzion", "link": "https://music.163.com/artist?id=1081221" },
+      { "name": "Mandy", "link": "https://music.163.com/artist?id=142733" },
+      {
+        "name": "Amanda Collis",
+        "link": "https://music.163.com/artist?id=30296250"
+      }
+    ],
+    "album": {
+      "name": "More Than A Human",
+      "link": "https://music.163.com/album?id=126000382"
+    }
+  },
+  {
+    "name": "Hit List",
+    "link": "https://music.163.com/song?id=1490539145",
+    "duration": "02:46",
+    "artists": [
+      {
+        "name": "Bleu Clair",
+        "link": "https://music.163.com/artist?id=12566682"
+      },
+      {
+        "name": "Drinks On Me",
+        "link": "https://music.163.com/artist?id=33655555"
+      }
+    ],
+    "album": {
+      "name": "Hit List",
+      "link": "https://music.163.com/album?id=97449034"
+    }
+  },
+  {
+    "name": "Out Of Me",
+    "link": "https://music.163.com/song?id=1820768810",
+    "duration": "02:40",
+    "artists": [
+      {
+        "name": "Raven & Kreyn",
+        "link": "https://music.163.com/artist?id=12355744"
+      },
+      {
+        "name": "jeonghyeon",
+        "link": "https://music.163.com/artist?id=28748581"
+      }
+    ],
+    "album": {
+      "name": "Out Of Me",
+      "link": "https://music.163.com/album?id=123133565"
+    }
+  },
+  {
+    "name": "Chemical Energy 2021",
+    "link": "https://music.163.com/song?id=1501366831",
+    "duration": "04:58",
+    "artists": [
+      {
+        "name": "Will Sparks",
+        "link": "https://music.163.com/artist?id=725093"
+      },
+      { "name": "Flea", "link": "https://music.163.com/artist?id=37685578" }
+    ],
+    "album": {
+      "name": "Chemical Energy 2021",
+      "link": "https://music.163.com/album?id=99256790"
+    }
+  },
+  {
+    "name": "Cloud Nine",
+    "link": "https://music.163.com/song?id=1454282322",
+    "duration": "02:33",
+    "artists": [
+      { "name": "Vexento", "link": "https://music.163.com/artist?id=12037010" }
+    ],
+    "album": {
+      "name": "Cloud Nine",
+      "link": "https://music.163.com/album?id=90624888"
+    }
+  },
+  {
+    "name": "Bedroom Floor (Tom Hex Remix)",
+    "link": "https://music.163.com/song?id=521415281",
+    "duration": "02:55",
+    "artists": [
+      { "name": "Tom Hex", "link": "https://music.163.com/artist?id=12488086" },
+      {
+        "name": "Liam Payne",
+        "link": "https://music.163.com/artist?id=12073104"
+      }
+    ],
+    "album": {
+      "name": "Bedroom Floor (Tom Hex Remix)",
+      "link": "https://music.163.com/album?id=36872066"
+    }
+  },
+  {
+    "name": "I'm Free",
+    "link": "https://music.163.com/song?id=1337330649",
+    "duration": "03:07",
+    "artists": [
+      { "name": "Blaze U", "link": "https://music.163.com/artist?id=12097142" }
+    ],
+    "album": {
+      "name": "I'm Free",
+      "link": "https://music.163.com/album?id=75042575"
+    }
+  },
+  {
+    "name": "Dawn",
+    "link": "https://music.163.com/song?id=1837420085",
+    "duration": "03:16",
+    "artists": [
+      { "name": "Slippy", "link": "https://music.163.com/artist?id=1087034" },
+      {
+        "name": "London Thor",
+        "link": "https://music.163.com/artist?id=1102061"
+      }
+    ],
+    "album": {
+      "name": "Everything & Nothing At All",
+      "link": "https://music.163.com/album?id=126000089"
+    }
+  },
+  {
+    "name": "Imaginary Dreams",
+    "link": "https://music.163.com/song?id=1478569880",
+    "duration": "04:07",
+    "artists": [
+      {
+        "name": "Seantonio",
+        "link": "https://music.163.com/artist?id=32190601"
+      }
+    ],
+    "album": {
+      "name": "Imaginary Dreams",
+      "link": "https://music.163.com/album?id=95298215"
+    }
+  },
+  {
+    "name": "I Remember (Extended Mix)",
+    "link": "https://music.163.com/song?id=1832567071",
+    "duration": "04:15",
+    "artists": [
+      {
+        "name": "Justin Mylo",
+        "link": "https://music.163.com/artist?id=12082294"
+      },
+      { "name": "STRNGRS", "link": "https://music.163.com/artist?id=861398" }
+    ],
+    "album": {
+      "name": "I Remember",
+      "link": "https://music.163.com/album?id=125184992"
+    }
+  },
+  {
+    "name": "Ignite",
+    "link": "https://music.163.com/song?id=1483864695",
+    "duration": "02:41",
+    "artists": [
+      {
+        "name": "Jay Eskar",
+        "link": "https://music.163.com/artist?id=12132198"
+      },
+      { "name": "SFRNG", "link": "https://music.163.com/artist?id=33631106" },
+      { "name": "Hazel", "link": "https://music.163.com/artist?id=37264977" }
+    ],
+    "album": {
+      "name": "Ignite",
+      "link": "https://music.163.com/album?id=96244215"
+    }
+  },
+  {
+    "name": "More Than Ever",
+    "link": "https://music.163.com/song?id=536128293",
+    "duration": "03:43",
+    "artists": [
+      {
+        "name": "Breathe Carolina",
+        "link": "https://music.163.com/artist?id=88214"
+      },
+      { "name": "Ryos", "link": "https://music.163.com/artist?id=1053137" }
+    ],
+    "album": {
+      "name": "More Than Ever",
+      "link": "https://music.163.com/album?id=3414122"
+    }
+  },
+  {
+    "name": "What U Do",
+    "link": "https://music.163.com/song?id=1456096563",
+    "duration": "02:32",
+    "artists": [
+      { "name": "Siks", "link": "https://music.163.com/artist?id=13381341" }
+    ],
+    "album": {
+      "name": "What U Do",
+      "link": "https://music.163.com/album?id=91077145"
+    }
+  },
+  {
+    "name": "My Eyes (Extended Mix)",
+    "link": "https://music.163.com/song?id=1824389005",
+    "duration": "04:07",
+    "artists": [
+      {
+        "name": "Dirty Palm",
+        "link": "https://music.163.com/artist?id=1155029"
+      },
+      {
+        "name": "joegarratt",
+        "link": "https://music.163.com/artist?id=12325217"
+      }
+    ],
+    "album": {
+      "name": "My Eyes",
+      "link": "https://music.163.com/album?id=123788498"
+    }
+  },
+  {
+    "name": "Calling Out",
+    "link": "https://music.163.com/song?id=1815278376",
+    "duration": "02:26",
+    "artists": [
+      {
+        "name": "Seth Hills",
+        "link": "https://music.163.com/artist?id=12054212"
+      },
+      { "name": "Vluarr", "link": "https://music.163.com/artist?id=15141977" },
+      {
+        "name": "Lucas Ariel",
+        "link": "https://music.163.com/artist?id=31676434"
+      }
+    ],
+    "album": {
+      "name": "Calling Out",
+      "link": "https://music.163.com/album?id=122186602"
+    }
+  },
+  {
+    "name": "Best Is Yet To Come",
+    "link": "https://music.163.com/song?id=1850116156",
+    "duration": "03:35",
+    "artists": [
+      { "name": "Gryffin", "link": "https://music.163.com/artist?id=1181504" },
+      {
+        "name": "Kyle Reynolds",
+        "link": "https://music.163.com/artist?id=1179061"
+      }
+    ],
+    "album": {
+      "name": "Best Is Yet To Come",
+      "link": "https://music.163.com/album?id=128393916"
+    }
+  },
+  {
+    "name": "Changes",
+    "link": "https://music.163.com/song?id=1493070817",
+    "duration": "02:55",
+    "artists": [
+      { "name": "Egzod", "link": "https://music.163.com/artist?id=11970036" },
+      { "name": "Fenris", "link": "https://music.163.com/artist?id=28178419" }
+    ],
+    "album": {
+      "name": "Changes",
+      "link": "https://music.163.com/album?id=97928999"
+    }
+  },
+  {
+    "name": "ALan Octopus",
+    "link": "https://music.163.com/song?id=1811734844",
+    "duration": "02:51",
+    "artists": [
+      { "name": "DJ KAI", "link": "https://music.163.com/artist?id=35244973" }
+    ],
+    "album": {
+      "name": "Dont Wanna Go Home",
+      "link": "https://music.163.com/album?id=121519525"
+    }
+  },
+  {
+    "name": "Crawl Outta Love",
+    "link": "https://music.163.com/song?id=507585226",
+    "duration": "04:02",
+    "artists": [
+      { "name": "ILLENIUM", "link": "https://music.163.com/artist?id=1050518" },
+      {
+        "name": "Annika Wells",
+        "link": "https://music.163.com/artist?id=12108797"
+      }
+    ],
+    "album": {
+      "name": "Awake",
+      "link": "https://music.163.com/album?id=36290028"
+    }
+  },
+  {
+    "name": "Takeaway",
+    "link": "https://music.163.com/song?id=1384496798",
+    "duration": "03:29",
+    "artists": [
+      {
+        "name": "The Chainsmokers",
+        "link": "https://music.163.com/artist?id=893484"
+      },
+      { "name": "ILLENIUM", "link": "https://music.163.com/artist?id=1050518" },
+      {
+        "name": "Lennon Stella",
+        "link": "https://music.163.com/artist?id=12213160"
+      }
+    ],
+    "album": {
+      "name": "ASCEND",
+      "link": "https://music.163.com/album?id=80981667"
+    }
+  },
+  {
+    "name": "Broken Glass",
+    "link": "https://music.163.com/song?id=1447684658",
+    "duration": "03:24",
+    "artists": [
+      { "name": "Sabai", "link": "https://music.163.com/artist?id=32093901" },
+      { "name": "Merseh", "link": "https://music.163.com/artist?id=35246030" }
+    ],
+    "album": {
+      "name": "Broken Glass",
+      "link": "https://music.163.com/album?id=89367275"
+    }
+  },
+  {
+    "name": "The Light In Your Mind",
+    "link": "https://music.163.com/song?id=485920360",
+    "duration": "03:53",
+    "artists": [
+      {
+        "name": "AJonnyCool",
+        "link": "https://music.163.com/artist?id=12282902"
+      }
+    ],
+    "album": {
+      "name": "Mind",
+      "link": "https://music.163.com/album?id=35652861"
+    }
+  },
+  {
+    "name": "Cool",
+    "link": "https://music.163.com/song?id=1448284110",
+    "duration": "02:21",
+    "artists": [
+      { "name": "MAGNÜS", "link": "https://music.163.com/artist?id=12218187" },
+      { "name": "Unread", "link": "https://music.163.com/artist?id=32804599" },
+      {
+        "name": "Alessia Labate",
+        "link": "https://music.163.com/artist?id=30664269"
+      }
+    ],
+    "album": {
+      "name": "Cool",
+      "link": "https://music.163.com/album?id=89486955"
+    }
+  },
+  {
+    "name": "Gift",
+    "link": "https://music.163.com/song?id=469556256",
+    "duration": "02:48",
+    "artists": [
+      {
+        "name": "Rhythm Starry",
+        "link": "https://music.163.com/artist?id=12093453"
+      }
+    ],
+    "album": {
+      "name": "Gift",
+      "link": "https://music.163.com/album?id=35331386"
+    }
+  },
+  {
+    "name": "Sound of Where'd U Go",
+    "link": "https://music.163.com/song?id=573581353",
+    "duration": "03:20",
+    "artists": [
+      { "name": "ILLENIUM", "link": "https://music.163.com/artist?id=1050518" },
+      {
+        "name": "Said The Sky",
+        "link": "https://music.163.com/artist?id=1026094"
+      },
+      { "name": "1788-L", "link": "https://music.163.com/artist?id=13579058" },
+      { "name": "Kerli", "link": "https://music.163.com/artist?id=62916" }
+    ],
+    "album": {
+      "name": "Awake (Remixes)",
+      "link": "https://music.163.com/album?id=39721087"
+    }
+  }
+]
