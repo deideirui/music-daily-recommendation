@@ -1,0 +1,501 @@
+[
+  {
+    "name": "On My Mind",
+    "link": "https://music.163.com/song?id=1482475455",
+    "duration": "02:43",
+    "artists": [
+      { "name": "HINA", "link": "https://music.163.com/artist?id=12649631" }
+    ],
+    "album": {
+      "name": "On My Mind",
+      "link": "https://music.163.com/album?id=95999217"
+    }
+  },
+  {
+    "name": "Where The Lights Are Low (Mike Williams Remix)",
+    "link": "https://music.163.com/song?id=1826915484",
+    "duration": "02:51",
+    "artists": [
+      {
+        "name": "Toby Romeo",
+        "link": "https://music.163.com/artist?id=1189061"
+      },
+      {
+        "name": "Felix Jaehn",
+        "link": "https://music.163.com/artist?id=963083"
+      },
+      {
+        "name": "Faulhaber",
+        "link": "https://music.163.com/artist?id=13438709"
+      },
+      {
+        "name": "Mike Williams",
+        "link": "https://music.163.com/artist?id=302020"
+      }
+    ],
+    "album": {
+      "name": "Where The Lights Are Low (Mike Williams Remix)",
+      "link": "https://music.163.com/album?id=124252287"
+    }
+  },
+  {
+    "name": "Out Of Love",
+    "link": "https://music.163.com/song?id=1807945268",
+    "duration": "03:19",
+    "artists": [
+      {
+        "name": "Jack Shore",
+        "link": "https://music.163.com/artist?id=30492644"
+      },
+      {
+        "name": "Jaime Deraz",
+        "link": "https://music.163.com/artist?id=28396902"
+      }
+    ],
+    "album": {
+      "name": "Out Of Love",
+      "link": "https://music.163.com/album?id=120976662"
+    }
+  },
+  {
+    "name": "Shackles (Praise You)",
+    "link": "https://music.163.com/song?id=1497859974",
+    "duration": "02:20",
+    "artists": [
+      { "name": "Malarkey", "link": "https://music.163.com/artist?id=12107475" }
+    ],
+    "album": {
+      "name": "Shackles (Praise You)",
+      "link": "https://music.163.com/album?id=98708903"
+    }
+  },
+  {
+    "name": "D E S O L A T I O N",
+    "link": "https://music.163.com/song?id=1493617697",
+    "duration": "02:38",
+    "artists": [
+      { "name": "OSKOLOK", "link": "https://music.163.com/artist?id=34539427" }
+    ],
+    "album": {
+      "name": "D E S O L A T I O N",
+      "link": "https://music.163.com/album?id=97930511"
+    }
+  },
+  {
+    "name": "Aliens",
+    "link": "https://music.163.com/song?id=1344352957",
+    "duration": "02:54",
+    "artists": [
+      {
+        "name": "Jay Hardway",
+        "link": "https://music.163.com/artist?id=710069"
+      }
+    ],
+    "album": {
+      "name": "Aliens",
+      "link": "https://music.163.com/album?id=75465866"
+    }
+  },
+  {
+    "name": "Wicked Man (Calvo Remix)",
+    "link": "https://music.163.com/song?id=1325796812",
+    "duration": "02:36",
+    "artists": [
+      {
+        "name": "Darius X Finlay",
+        "link": "https://music.163.com/artist?id=91694"
+      }
+    ],
+    "album": {
+      "name": "Wicked Man (Calvo Remix)",
+      "link": "https://music.163.com/album?id=74431293"
+    }
+  },
+  {
+    "name": "For You",
+    "link": "https://music.163.com/song?id=1333141099",
+    "duration": "03:00",
+    "artists": [
+      { "name": "Omnia", "link": "https://music.163.com/artist?id=179006" },
+      {
+        "name": "Danyka Nadeau",
+        "link": "https://music.163.com/artist?id=1078277"
+      }
+    ],
+    "album": {
+      "name": "A State Of Trance Year Mix 2018",
+      "link": "https://music.163.com/album?id=74869529"
+    }
+  },
+  {
+    "name": "Feel That Bass",
+    "link": "https://music.163.com/song?id=1493994896",
+    "duration": "02:15",
+    "artists": [
+      {
+        "name": "Chester Young",
+        "link": "https://music.163.com/artist?id=13703846"
+      },
+      { "name": "Avenax", "link": "https://music.163.com/artist?id=27818092" }
+    ],
+    "album": {
+      "name": "Feel That Bass",
+      "link": "https://music.163.com/album?id=98061704"
+    }
+  },
+  {
+    "name": "In Your Arms",
+    "link": "https://music.163.com/song?id=1824801359",
+    "duration": "02:53",
+    "artists": [
+      { "name": "Rentz", "link": "https://music.163.com/artist?id=12628381" },
+      {
+        "name": "Bad Reputation",
+        "link": "https://music.163.com/artist?id=13862187"
+      }
+    ],
+    "album": {
+      "name": "In Your Arms",
+      "link": "https://music.163.com/album?id=123866410"
+    }
+  },
+  {
+    "name": "Walk With Me",
+    "link": "https://music.163.com/song?id=1849093320",
+    "duration": "03:41",
+    "artists": [
+      { "name": "Adaro", "link": "https://music.163.com/artist?id=85509" },
+      { "name": "Vertile", "link": "https://music.163.com/artist?id=32820435" }
+    ],
+    "album": {
+      "name": "Walk With Me",
+      "link": "https://music.163.com/album?id=128188514"
+    }
+  },
+  {
+    "name": "Breathin'",
+    "link": "https://music.163.com/song?id=1486529930",
+    "duration": "02:43",
+    "artists": [
+      { "name": "Castion", "link": "https://music.163.com/artist?id=27687018" },
+      {
+        "name": "Chester Young",
+        "link": "https://music.163.com/artist?id=13703846"
+      }
+    ],
+    "album": {
+      "name": "Breathin'",
+      "link": "https://music.163.com/album?id=96681576"
+    }
+  },
+  {
+    "name": "Sentient",
+    "link": "https://music.163.com/song?id=1843757593",
+    "duration": "04:34",
+    "artists": [
+      { "name": "Anyma", "link": "https://music.163.com/artist?id=633011" }
+    ],
+    "album": {
+      "name": "Sentient EP",
+      "link": "https://music.163.com/album?id=127151146"
+    }
+  },
+  {
+    "name": "Somebody To Love",
+    "link": "https://music.163.com/song?id=1427009474",
+    "duration": "02:52",
+    "artists": [
+      {
+        "name": "Dave Crusher",
+        "link": "https://music.163.com/artist?id=12915447"
+      },
+      { "name": "JackMar", "link": "https://music.163.com/artist?id=34343473" },
+      { "name": "Lev", "link": "https://music.163.com/artist?id=12948329" }
+    ],
+    "album": {
+      "name": "Somebody To Love",
+      "link": "https://music.163.com/album?id=86105525"
+    }
+  },
+  {
+    "name": "When Tomorrow Comes (Extended Mix)",
+    "link": "https://music.163.com/song?id=1840954813",
+    "duration": "04:11",
+    "artists": [
+      {
+        "name": "Brennan Heart",
+        "link": "https://music.163.com/artist?id=688203"
+      },
+      {
+        "name": "The Pitcher",
+        "link": "https://music.163.com/artist?id=141753"
+      }
+    ],
+    "album": {
+      "name": "Brennan Heart & Friends EP",
+      "link": "https://music.163.com/album?id=126681441"
+    }
+  },
+  {
+    "name": "What U Wanted",
+    "link": "https://music.163.com/song?id=1454868789",
+    "duration": "02:37",
+    "artists": [
+      { "name": "Wiberg", "link": "https://music.163.com/artist?id=32843930" },
+      { "name": "Rentz", "link": "https://music.163.com/artist?id=12628381" }
+    ],
+    "album": {
+      "name": "What U Wanted",
+      "link": "https://music.163.com/album?id=90764518"
+    }
+  },
+  {
+    "name": "Symphony",
+    "link": "https://music.163.com/song?id=1808197478",
+    "duration": "02:55",
+    "artists": [
+      { "name": "Aspyer", "link": "https://music.163.com/artist?id=12409085" }
+    ],
+    "album": {
+      "name": "Symphony",
+      "link": "https://music.163.com/album?id=121024090"
+    }
+  },
+  {
+    "name": "Where Does Love Go",
+    "link": "https://music.163.com/song?id=1820931178",
+    "duration": "04:23",
+    "artists": [
+      {
+        "name": "Synymata",
+        "link": "https://music.163.com/artist?id=12031140"
+      },
+      { "name": "Elle Vee", "link": "https://music.163.com/artist?id=1046258" }
+    ],
+    "album": {
+      "name": "Where Does Love Go",
+      "link": "https://music.163.com/album?id=123170681"
+    }
+  },
+  {
+    "name": "The Game - (Arcānum)",
+    "link": "https://music.163.com/song?id=1849743113",
+    "duration": "03:34",
+    "artists": [
+      { "name": "Sephyx", "link": "https://music.163.com/artist?id=1084035" }
+    ],
+    "album": {
+      "name": "The Game - (Arcānum) [feat. Diandra Faye]",
+      "link": "https://music.163.com/album?id=128318925"
+    }
+  },
+  {
+    "name": "Move Me",
+    "link": "https://music.163.com/song?id=1432670272",
+    "duration": "03:50",
+    "artists": [
+      { "name": "Rogue", "link": "https://music.163.com/artist?id=21246" }
+    ],
+    "album": {
+      "name": "Move Me",
+      "link": "https://music.163.com/album?id=86706767"
+    }
+  },
+  {
+    "name": "Level Up",
+    "link": "https://music.163.com/song?id=1441907551",
+    "duration": "03:50",
+    "artists": [
+      { "name": "JWoods", "link": "https://music.163.com/artist?id=30959670" }
+    ],
+    "album": {
+      "name": "Level Up",
+      "link": "https://music.163.com/album?id=88204554"
+    }
+  },
+  {
+    "name": "∞",
+    "link": "https://music.163.com/song?id=1380923395",
+    "duration": "02:36",
+    "artists": [
+      { "name": "YKEY", "link": "https://music.163.com/artist?id=12083570" }
+    ],
+    "album": {
+      "name": "无限",
+      "link": "https://music.163.com/album?id=80660703"
+    }
+  },
+  {
+    "name": "The Phoenix (Extended Mix)",
+    "link": "https://music.163.com/song?id=1842290090",
+    "duration": "04:30",
+    "artists": [
+      { "name": "NIVIRO", "link": "https://music.163.com/artist?id=12152016" }
+    ],
+    "album": {
+      "name": "The Phoenix",
+      "link": "https://music.163.com/album?id=126887587"
+    }
+  },
+  {
+    "name": "Give It to Me",
+    "link": "https://music.163.com/song?id=1843753313",
+    "duration": "03:30",
+    "artists": [
+      {
+        "name": "Matt Sassari",
+        "link": "https://music.163.com/artist?id=741062"
+      }
+    ],
+    "album": {
+      "name": "Give It to Me",
+      "link": "https://music.163.com/album?id=127149498"
+    }
+  },
+  {
+    "name": "Capsize (Dzeko & Torres)",
+    "link": "https://music.163.com/song?id=439572648",
+    "duration": "02:53",
+    "artists": [
+      {
+        "name": "Frenship",
+        "link": "https://music.163.com/artist?id=12031244"
+      },
+      {
+        "name": "Emily Warren",
+        "link": "https://music.163.com/artist?id=12356790"
+      }
+    ],
+    "album": {
+      "name": "Capsize (Remixes)",
+      "link": "https://music.163.com/album?id=34970299"
+    }
+  },
+  {
+    "name": "Floating Through The Sky",
+    "link": "https://music.163.com/song?id=1848137959",
+    "duration": "04:17",
+    "artists": [
+      { "name": "Awakend", "link": "https://music.163.com/artist?id=13049055" },
+      { "name": "Troves", "link": "https://music.163.com/artist?id=1039609" }
+    ],
+    "album": {
+      "name": "Floating Through The Sky",
+      "link": "https://music.163.com/album?id=127996506"
+    }
+  },
+  {
+    "name": "Don't Need You",
+    "link": "https://music.163.com/song?id=1406452396",
+    "duration": "02:51",
+    "artists": [
+      { "name": "Facading", "link": "https://music.163.com/artist?id=32779370" }
+    ],
+    "album": {
+      "name": "Don't Need You",
+      "link": "https://music.163.com/album?id=83743169"
+    }
+  },
+  {
+    "name": "Sunglasses At Night",
+    "link": "https://music.163.com/song?id=1472916352",
+    "duration": "03:12",
+    "artists": [
+      {
+        "name": "Eastblock Bitches",
+        "link": "https://music.163.com/artist?id=12389024"
+      },
+      {
+        "name": "Ostblockschlampen",
+        "link": "https://music.163.com/artist?id=748149"
+      }
+    ],
+    "album": {
+      "name": "Sunglasses At Night",
+      "link": "https://music.163.com/album?id=94304203"
+    }
+  },
+  {
+    "name": "Look at the Sky",
+    "link": "https://music.163.com/song?id=1839137989",
+    "duration": "05:09",
+    "artists": [
+      {
+        "name": "Porter Robinson",
+        "link": "https://music.163.com/artist?id=185871"
+      }
+    ],
+    "album": {
+      "name": "Nurture",
+      "link": "https://music.163.com/album?id=126338915"
+    }
+  },
+  {
+    "name": "U&I",
+    "link": "https://music.163.com/song?id=1475390901",
+    "duration": "02:56",
+    "artists": [
+      { "name": "Dropgun", "link": "https://music.163.com/artist?id=972015" },
+      {
+        "name": "Christopher Damas",
+        "link": "https://music.163.com/artist?id=12278368"
+      }
+    ],
+    "album": {
+      "name": "U&I",
+      "link": "https://music.163.com/album?id=94722977"
+    }
+  },
+  {
+    "name": "Không Sao Mà Em Đây Rồi - (没关系 有我在)",
+    "link": "https://music.163.com/song?id=1473704094",
+    "duration": "03:56",
+    "artists": [
+      { "name": "AREZ", "link": "https://music.163.com/artist?id=34821168" }
+    ],
+    "album": {
+      "name": "KKng",
+      "link": "https://music.163.com/album?id=94403765"
+    }
+  },
+  {
+    "name": "why oh why（抖音完整版）",
+    "link": "https://music.163.com/song?id=1840564897",
+    "duration": "02:56",
+    "artists": [
+      { "name": "雨果", "link": "https://music.163.com/artist?id=37550914" }
+    ],
+    "album": {
+      "name": "未命名",
+      "link": "https://music.163.com/album?id=122716189"
+    }
+  },
+  {
+    "name": "Dash",
+    "link": "https://music.163.com/song?id=1347065800",
+    "duration": "03:25",
+    "artists": [
+      { "name": "5-HTP", "link": "https://music.163.com/artist?id=13196682" },
+      { "name": "李祥晖", "link": "https://music.163.com/artist?id=12483027" }
+    ],
+    "album": {
+      "name": "Dash",
+      "link": "https://music.163.com/album?id=75610085"
+    }
+  },
+  {
+    "name": "Disco Zombi Italia",
+    "link": "https://music.163.com/song?id=33875008",
+    "duration": "05:17",
+    "artists": [
+      {
+        "name": "Carpenter Brut",
+        "link": "https://music.163.com/artist?id=831295"
+      }
+    ],
+    "album": {
+      "name": "Trilogy",
+      "link": "https://music.163.com/album?id=3263645"
+    }
+  }
+]
