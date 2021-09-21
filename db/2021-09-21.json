@@ -1,0 +1,509 @@
+[
+  {
+    "name": "I Go Crazy",
+    "link": "https://music.163.com/song?id=1861307878",
+    "duration": "02:49",
+    "artists": [
+      { "name": "Taiga", "link": "https://music.163.com/artist?id=36135315" }
+    ],
+    "album": {
+      "name": "I Go Crazy",
+      "link": "https://music.163.com/album?id=130391127"
+    }
+  },
+  {
+    "name": "Silent & Grey - (灰白色的缄默)",
+    "link": "https://music.163.com/song?id=1818114393",
+    "duration": "03:12",
+    "artists": [
+      {
+        "name": "Sickrate",
+        "link": "https://music.163.com/artist?id=32795333"
+      },
+      { "name": "SIIK", "link": "https://music.163.com/artist?id=12977698" }
+    ],
+    "album": {
+      "name": "Silent & Grey",
+      "link": "https://music.163.com/album?id=122639596"
+    }
+  },
+  {
+    "name": "Heroes",
+    "link": "https://music.163.com/song?id=1477919003",
+    "duration": "02:30",
+    "artists": [
+      { "name": "Coopex", "link": "https://music.163.com/artist?id=12775079" },
+      {
+        "name": "New Beat Order",
+        "link": "https://music.163.com/artist?id=30059556"
+      },
+      { "name": "Lunis", "link": "https://music.163.com/artist?id=32056972" }
+    ],
+    "album": {
+      "name": "Heroes",
+      "link": "https://music.163.com/album?id=95171825"
+    }
+  },
+  {
+    "name": "City Life",
+    "link": "https://music.163.com/song?id=1817933431",
+    "duration": "02:36",
+    "artists": [
+      {
+        "name": "Rave Republic",
+        "link": "https://music.163.com/artist?id=12007087"
+      },
+      {
+        "name": "Chester Young",
+        "link": "https://music.163.com/artist?id=13703846"
+      }
+    ],
+    "album": {
+      "name": "City Life",
+      "link": "https://music.163.com/album?id=122613365"
+    }
+  },
+  {
+    "name": "The Ashes (Extended Mix)",
+    "link": "https://music.163.com/song?id=1826276655",
+    "duration": "05:05",
+    "artists": [
+      { "name": "NIVIRO", "link": "https://music.163.com/artist?id=12152016" }
+    ],
+    "album": {
+      "name": "The Ashes",
+      "link": "https://music.163.com/album?id=124149832"
+    }
+  },
+  {
+    "name": "Stardust",
+    "link": "https://music.163.com/song?id=409302280",
+    "duration": "03:23",
+    "artists": [
+      {
+        "name": "Jay Hardway",
+        "link": "https://music.163.com/artist?id=710069"
+      }
+    ],
+    "album": {
+      "name": "Stardust",
+      "link": "https://music.163.com/album?id=34608176"
+    }
+  },
+  {
+    "name": "Harder Generation",
+    "link": "https://music.163.com/song?id=1870237695",
+    "duration": "03:39",
+    "artists": [
+      {
+        "name": "D-Block & S-te-Fan",
+        "link": "https://music.163.com/artist?id=13594504"
+      }
+    ],
+    "album": {
+      "name": "Harder Generation",
+      "link": "https://music.163.com/album?id=131878604"
+    }
+  },
+  {
+    "name": "Orenda (Extended Mix)",
+    "link": "https://music.163.com/song?id=1854069625",
+    "duration": "07:02",
+    "artists": [
+      {
+        "name": "Ferry Corsten",
+        "link": "https://music.163.com/artist?id=33395"
+      },
+      { "name": "Gouryella", "link": "https://music.163.com/artist?id=129615" }
+    ],
+    "album": {
+      "name": "Orenda",
+      "link": "https://music.163.com/album?id=128166855"
+    }
+  },
+  {
+    "name": "Carry You Home (Ashley Wallbridge Remix)",
+    "link": "https://music.163.com/song?id=1856951930",
+    "duration": "03:42",
+    "artists": [
+      {
+        "name": "Andrew Rayel",
+        "link": "https://music.163.com/artist?id=191512"
+      },
+      {
+        "name": "Tensteps",
+        "link": "https://music.163.com/artist?id=31592615"
+      },
+      {
+        "name": "Runaground",
+        "link": "https://music.163.com/artist?id=945002"
+      },
+      {
+        "name": "Ashley Wallbridge",
+        "link": "https://music.163.com/artist?id=29252"
+      }
+    ],
+    "album": {
+      "name": "Carry You Home (Ashley Wallbridge Remix)",
+      "link": "https://music.163.com/album?id=129622192"
+    }
+  },
+  {
+    "name": "Diamonds",
+    "link": "https://music.163.com/song?id=1380149102",
+    "duration": "03:27",
+    "artists": [
+      {
+        "name": "Wheazewolf",
+        "link": "https://music.163.com/artist?id=30704290"
+      }
+    ],
+    "album": {
+      "name": "Diamonds",
+      "link": "https://music.163.com/album?id=80562267"
+    }
+  },
+  {
+    "name": "Medusa",
+    "link": "https://music.163.com/song?id=1372706328",
+    "duration": "02:55",
+    "artists": [
+      {
+        "name": "Cozi Zuehlsdorff",
+        "link": "https://music.163.com/artist?id=1097153"
+      }
+    ],
+    "album": {
+      "name": "Medusa",
+      "link": "https://music.163.com/album?id=79874155"
+    }
+  },
+  {
+    "name": "Lifetime (Stormerz Extended Remix)",
+    "link": "https://music.163.com/song?id=1840193584",
+    "duration": "03:40",
+    "artists": [
+      {
+        "name": "Sound Rush",
+        "link": "https://music.163.com/artist?id=1050827"
+      },
+      { "name": "Stormerz", "link": "https://music.163.com/artist?id=12082030" }
+    ],
+    "album": {
+      "name": "Lifetime (Stormerz Remix)",
+      "link": "https://music.163.com/album?id=126534281"
+    }
+  },
+  {
+    "name": "Lost When You're Away",
+    "link": "https://music.163.com/song?id=1858171527",
+    "duration": "03:28",
+    "artists": [
+      { "name": "Awakend", "link": "https://music.163.com/artist?id=13049055" },
+      {
+        "name": "Monika Santucci",
+        "link": "https://music.163.com/artist?id=13989763"
+      }
+    ],
+    "album": {
+      "name": "Lost When You're Away",
+      "link": "https://music.163.com/album?id=129855857"
+    }
+  },
+  {
+    "name": "Stand By Me",
+    "link": "https://music.163.com/song?id=1820802615",
+    "duration": "04:28",
+    "artists": [
+      {
+        "name": "Will Sparks",
+        "link": "https://music.163.com/artist?id=725093"
+      }
+    ],
+    "album": {
+      "name": "Stand By Me",
+      "link": "https://music.163.com/album?id=123140260"
+    }
+  },
+  {
+    "name": "Fighter (Necola Remix)",
+    "link": "https://music.163.com/song?id=535714792",
+    "duration": "04:56",
+    "artists": [
+      { "name": "Faxonat", "link": "https://music.163.com/artist?id=12475333" },
+      {
+        "name": "Nick Fox",
+        "link": "https://music.163.com/artist?id=13057836"
+      },
+      {
+        "name": "Max Landry",
+        "link": "https://music.163.com/artist?id=13493957"
+      },
+      { "name": "Necola", "link": "https://music.163.com/artist?id=12524229" }
+    ],
+    "album": {
+      "name": "Fighter (Remixes)",
+      "link": "https://music.163.com/album?id=37511935"
+    }
+  },
+  {
+    "name": "The Sound",
+    "link": "https://music.163.com/song?id=1426290107",
+    "duration": "03:55",
+    "artists": [
+      {
+        "name": "Nick Ledesma",
+        "link": "https://music.163.com/artist?id=12247032"
+      },
+      {
+        "name": "Michael Dupon",
+        "link": "https://music.163.com/artist?id=32048162"
+      }
+    ],
+    "album": {
+      "name": "The Sound",
+      "link": "https://music.163.com/album?id=86025595"
+    }
+  },
+  {
+    "name": "About You",
+    "link": "https://music.163.com/song?id=1380123398",
+    "duration": "03:04",
+    "artists": [
+      { "name": "Ascence", "link": "https://music.163.com/artist?id=31245506" }
+    ],
+    "album": {
+      "name": "About You",
+      "link": "https://music.163.com/album?id=80608444"
+    }
+  },
+  {
+    "name": "Bloodlust",
+    "link": "https://music.163.com/song?id=1843077743",
+    "duration": "03:45",
+    "artists": [
+      { "name": "Geoxor", "link": "https://music.163.com/artist?id=12006357" }
+    ],
+    "album": {
+      "name": "Bloodlust",
+      "link": "https://music.163.com/album?id=127054675"
+    }
+  },
+  {
+    "name": "The Middle",
+    "link": "https://music.163.com/song?id=1805290106",
+    "duration": "03:04",
+    "artists": [
+      { "name": "Zedd", "link": "https://music.163.com/artist?id=46376" },
+      {
+        "name": "Maren Morris",
+        "link": "https://music.163.com/artist?id=388463"
+      },
+      { "name": "Grey", "link": "https://music.163.com/artist?id=58424" }
+    ],
+    "album": {
+      "name": "Santai Di Pantai",
+      "link": "https://music.163.com/album?id=120605577"
+    }
+  },
+  {
+    "name": "Emergency",
+    "link": "https://music.163.com/song?id=1476087170",
+    "duration": "03:12",
+    "artists": [
+      {
+        "name": "Sofi Tukker",
+        "link": "https://music.163.com/artist?id=12009099"
+      },
+      { "name": "Novak", "link": "https://music.163.com/artist?id=12404164" },
+      { "name": "YAX.X", "link": "https://music.163.com/artist?id=13642266" }
+    ],
+    "album": {
+      "name": "Emergency",
+      "link": "https://music.163.com/album?id=94879308"
+    }
+  },
+  {
+    "name": "Mercy",
+    "link": "https://music.163.com/song?id=1805522796",
+    "duration": "03:43",
+    "artists": [
+      {
+        "name": "Bossfight",
+        "link": "https://music.163.com/artist?id=12262973"
+      },
+      { "name": "F.O.O.L", "link": "https://music.163.com/artist?id=93082" }
+    ],
+    "album": {
+      "name": "Mercy",
+      "link": "https://music.163.com/album?id=120643755"
+    }
+  },
+  {
+    "name": "Year Of The Dragon",
+    "link": "https://music.163.com/song?id=1871054631",
+    "duration": "02:32",
+    "artists": [
+      { "name": "NWYR", "link": "https://music.163.com/artist?id=12325211" }
+    ],
+    "album": {
+      "name": "Year Of The Dragon",
+      "link": "https://music.163.com/album?id=132023895"
+    }
+  },
+  {
+    "name": "Parallel Lines (Club Mix)",
+    "link": "https://music.163.com/song?id=476323564",
+    "duration": "03:25",
+    "artists": [
+      {
+        "name": "Jewelz & Sparks",
+        "link": "https://music.163.com/artist?id=947051"
+      },
+      { "name": "Catze", "link": "https://music.163.com/artist?id=13971137" }
+    ],
+    "album": {
+      "name": "Parallel Lines",
+      "link": "https://music.163.com/album?id=35456156"
+    }
+  },
+  {
+    "name": "Shape Of The Heart",
+    "link": "https://music.163.com/song?id=1832725526",
+    "duration": "03:40",
+    "artists": [
+      {
+        "name": "Brennan Heart",
+        "link": "https://music.163.com/artist?id=688203"
+      },
+      {
+        "name": "Blademasterz",
+        "link": "https://music.163.com/artist?id=28604377"
+      }
+    ],
+    "album": {
+      "name": "Katana EP pt.1",
+      "link": "https://music.163.com/album?id=125206816"
+    }
+  },
+  {
+    "name": "Memory Bank",
+    "link": "https://music.163.com/song?id=1840826551",
+    "duration": "02:39",
+    "artists": [
+      { "name": "Dyro", "link": "https://music.163.com/artist?id=330726" },
+      { "name": "Conro", "link": "https://music.163.com/artist?id=1063229" }
+    ],
+    "album": {
+      "name": "Memory Bank",
+      "link": "https://music.163.com/album?id=126651355"
+    }
+  },
+  {
+    "name": "Orbit",
+    "link": "https://music.163.com/song?id=1814968260",
+    "duration": "03:23",
+    "artists": [
+      { "name": "Ellis", "link": "https://music.163.com/artist?id=32932" }
+    ],
+    "album": {
+      "name": "Orbit",
+      "link": "https://music.163.com/album?id=122130410"
+    }
+  },
+  {
+    "name": "Ich schenk' Dir einen Jodler",
+    "link": "https://music.163.com/song?id=1863546190",
+    "duration": "02:50",
+    "artists": [
+      {
+        "name": "Da Tweekaz",
+        "link": "https://music.163.com/artist?id=334026"
+      },
+      {
+        "name": "Oesch's die Dritten",
+        "link": "https://music.163.com/artist?id=13163038"
+      }
+    ],
+    "album": {
+      "name": "Ich schenk' Dir einen Jodler",
+      "link": "https://music.163.com/album?id=130806812"
+    }
+  },
+  {
+    "name": "When I'm with You",
+    "link": "https://music.163.com/song?id=1374382497",
+    "duration": "03:08",
+    "artists": [
+      {
+        "name": "Newclaess",
+        "link": "https://music.163.com/artist?id=13335706"
+      }
+    ],
+    "album": {
+      "name": "When I'm with You",
+      "link": "https://music.163.com/album?id=80035004"
+    }
+  },
+  {
+    "name": "Next To Me",
+    "link": "https://music.163.com/song?id=1408639572",
+    "duration": "02:53",
+    "artists": [
+      {
+        "name": "jeonghyeon",
+        "link": "https://music.163.com/artist?id=28748581"
+      },
+      {
+        "name": "yourbeagle",
+        "link": "https://music.163.com/artist?id=28264962"
+      }
+    ],
+    "album": {
+      "name": "Next To Me",
+      "link": "https://music.163.com/album?id=83991959"
+    }
+  },
+  {
+    "name": "Home Flight",
+    "link": "https://music.163.com/song?id=1419165226",
+    "duration": "02:35",
+    "artists": [
+      { "name": "Medon", "link": "https://music.163.com/artist?id=348972" },
+      {
+        "name": "Mike Gudmann",
+        "link": "https://music.163.com/artist?id=32567323"
+      },
+      { "name": "Shiverz", "link": "https://music.163.com/artist?id=29812341" }
+    ],
+    "album": {
+      "name": "Home Flight",
+      "link": "https://music.163.com/album?id=85243615"
+    }
+  },
+  {
+    "name": "Devil In The Eyes (Diabolus)",
+    "link": "https://music.163.com/song?id=1836156721",
+    "duration": "04:10",
+    "artists": [
+      { "name": "Sephyx", "link": "https://music.163.com/artist?id=1084035" }
+    ],
+    "album": {
+      "name": "Devil In The Eyes (Diabolus)",
+      "link": "https://music.163.com/album?id=125817155"
+    }
+  },
+  {
+    "name": "Fuji Opener",
+    "link": "https://music.163.com/song?id=1378370978",
+    "duration": "02:47",
+    "artists": [
+      { "name": "Skrillex", "link": "https://music.163.com/artist?id=43755" },
+      { "name": "Alvin Risk", "link": "https://music.163.com/artist?id=29299" }
+    ],
+    "album": {
+      "name": "Show Tracks",
+      "link": "https://music.163.com/album?id=80429717"
+    }
+  }
+]
