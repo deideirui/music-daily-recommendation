@@ -1,0 +1,512 @@
+[
+  {
+    "name": "Never Holiday",
+    "link": "https://music.163.com/song?id=1409236150",
+    "duration": "04:31",
+    "artists": [
+      { "name": "Fe La", "link": "https://music.163.com/artist?id=33926027" }
+    ],
+    "album": {
+      "name": "Never Holiday",
+      "link": "https://music.163.com/album?id=84060872"
+    }
+  },
+  {
+    "name": "Don't Worry (Radio Edit)",
+    "link": "https://music.163.com/song?id=409181520",
+    "duration": "03:10",
+    "artists": [
+      {
+        "name": "Campsite Dream",
+        "link": "https://music.163.com/artist?id=1146068"
+      }
+    ],
+    "album": {
+      "name": "Don't Worry",
+      "link": "https://music.163.com/album?id=34591771"
+    }
+  },
+  {
+    "name": "All I Want (AVIAN GRAYS Remix)",
+    "link": "https://music.163.com/song?id=1835015914",
+    "duration": "02:28",
+    "artists": [
+      { "name": "Alok", "link": "https://music.163.com/artist?id=1170012" },
+      { "name": "Liu", "link": "https://music.163.com/artist?id=12046870" },
+      { "name": "Stonefox", "link": "https://music.163.com/artist?id=912065" },
+      {
+        "name": "Avian Grays",
+        "link": "https://music.163.com/artist?id=32730297"
+      }
+    ],
+    "album": {
+      "name": "All I Want (AVIAN GRAYS Remix)",
+      "link": "https://music.163.com/album?id=125596747"
+    }
+  },
+  {
+    "name": "The Network",
+    "link": "https://music.163.com/song?id=1374602770",
+    "duration": "03:12",
+    "artists": [
+      {
+        "name": "FUTURECODE",
+        "link": "https://music.163.com/artist?id=31577450"
+      }
+    ],
+    "album": {
+      "name": "The Network",
+      "link": "https://music.163.com/album?id=80064840"
+    }
+  },
+  {
+    "name": "Lost & Found (Original Mix)",
+    "link": "https://music.163.com/song?id=1399770854",
+    "duration": "03:11",
+    "artists": [
+      {
+        "name": "Roman Messer",
+        "link": "https://music.163.com/artist?id=905394"
+      },
+      {
+        "name": "Roxanne Emery",
+        "link": "https://music.163.com/artist?id=74561"
+      }
+    ],
+    "album": {
+      "name": "Suanda Music Radio Top 25 (October / November 2019)",
+      "link": "https://music.163.com/album?id=82810229"
+    }
+  },
+  {
+    "name": "Crawling (One More Light Live)",
+    "link": "https://music.163.com/song?id=519096111",
+    "duration": "03:29",
+    "artists": [
+      { "name": "Linkin Park", "link": "https://music.163.com/artist?id=95439" }
+    ],
+    "album": {
+      "name": "One More Light Live",
+      "link": "https://music.163.com/album?id=36819031"
+    }
+  },
+  {
+    "name": "Lighting The Bridges",
+    "link": "https://music.163.com/song?id=1471600807",
+    "duration": "03:12",
+    "artists": [
+      {
+        "name": "Dash Berlin",
+        "link": "https://music.163.com/artist?id=32124"
+      },
+      {
+        "name": "Roxanne Emery",
+        "link": "https://music.163.com/artist?id=74561"
+      }
+    ],
+    "album": {
+      "name": "Lighting The Bridges",
+      "link": "https://music.163.com/album?id=94047062"
+    }
+  },
+  {
+    "name": "S-Suuny",
+    "link": "https://music.163.com/song?id=1808531794",
+    "duration": "04:11",
+    "artists": [
+      { "name": "昼漾", "link": "https://music.163.com/artist?id=13607523" }
+    ],
+    "album": {
+      "name": "S-Suuny",
+      "link": "https://music.163.com/album?id=121042478"
+    }
+  },
+  {
+    "name": "Sweetheart",
+    "link": "https://music.163.com/song?id=1378173608",
+    "duration": "03:24",
+    "artists": [
+      { "name": "Menino", "link": "https://music.163.com/artist?id=14929011" }
+    ],
+    "album": {
+      "name": "Sweetheart",
+      "link": "https://music.163.com/album?id=80412309"
+    }
+  },
+  {
+    "name": "IT HURTS!",
+    "link": "https://music.163.com/song?id=1849196930",
+    "duration": "03:48",
+    "artists": [
+      { "name": "San Holo", "link": "https://music.163.com/artist?id=1017035" }
+    ],
+    "album": {
+      "name": "bb u ok?",
+      "link": "https://music.163.com/album?id=128204234"
+    }
+  },
+  {
+    "name": "The Shade",
+    "link": "https://music.163.com/song?id=1417016039",
+    "duration": "03:15",
+    "artists": [
+      {
+        "name": "Seantonio",
+        "link": "https://music.163.com/artist?id=32190601"
+      }
+    ],
+    "album": {
+      "name": "The Shade",
+      "link": "https://music.163.com/album?id=85013424"
+    }
+  },
+  {
+    "name": "Astronomia (Never Go Home)",
+    "link": "https://music.163.com/song?id=1481127050",
+    "duration": "02:36",
+    "artists": [
+      { "name": "Tony Igy", "link": "https://music.163.com/artist?id=990184" }
+    ],
+    "album": {
+      "name": "Astronomia (Never Go Home)",
+      "link": "https://music.163.com/album?id=95738978"
+    }
+  },
+  {
+    "name": "The River",
+    "link": "https://music.163.com/song?id=519265246",
+    "duration": "03:32",
+    "artists": [
+      {
+        "name": "Axel Johansson",
+        "link": "https://music.163.com/artist?id=12872604"
+      },
+      {
+        "name": "Tina Stachowiak",
+        "link": "https://music.163.com/artist?id=905727"
+      }
+    ],
+    "album": {
+      "name": "The River",
+      "link": "https://music.163.com/album?id=36827054"
+    }
+  },
+  {
+    "name": "For You",
+    "link": "https://music.163.com/song?id=1318621087",
+    "duration": "03:00",
+    "artists": [
+      { "name": "Omnia", "link": "https://music.163.com/artist?id=179006" },
+      {
+        "name": "Danyka Nadeau",
+        "link": "https://music.163.com/artist?id=1078277"
+      }
+    ],
+    "album": {
+      "name": "For You",
+      "link": "https://music.163.com/album?id=73960951"
+    }
+  },
+  {
+    "name": "Just As You Are",
+    "link": "https://music.163.com/song?id=571939753",
+    "duration": "02:56",
+    "artists": [
+      {
+        "name": "Armin van Buuren",
+        "link": "https://music.163.com/artist?id=27621"
+      },
+      {
+        "name": "Rising Star",
+        "link": "https://music.163.com/artist?id=151177"
+      },
+      { "name": "Fiora", "link": "https://music.163.com/artist?id=57924" }
+    ],
+    "album": {
+      "name": "Blah Blah Blah EP",
+      "link": "https://music.163.com/album?id=39628810"
+    }
+  },
+  {
+    "name": "Standing When It All Falls Down (Official NiP Team Song)",
+    "link": "https://music.163.com/song?id=459025584",
+    "duration": "03:03",
+    "artists": [
+      {
+        "name": "John De Sohn",
+        "link": "https://music.163.com/artist?id=290019"
+      },
+      { "name": "roshi", "link": "https://music.163.com/artist?id=201098" }
+    ],
+    "album": {
+      "name": "Standing When It All Falls Down (Official NiP Team Song)",
+      "link": "https://music.163.com/album?id=35164503"
+    }
+  },
+  {
+    "name": "Illuminate The Way",
+    "link": "https://music.163.com/song?id=1841283916",
+    "duration": "03:25",
+    "artists": [
+      {
+        "name": "Audiotricz",
+        "link": "https://music.163.com/artist?id=753033"
+      },
+      { "name": "Jay Reeve", "link": "https://music.163.com/artist?id=1070075" }
+    ],
+    "album": {
+      "name": "Illuminate The Way",
+      "link": "https://music.163.com/album?id=126742008"
+    }
+  },
+  {
+    "name": "Dreamless",
+    "link": "https://music.163.com/song?id=560413631",
+    "duration": "03:13",
+    "artists": [
+      { "name": "5-HTP", "link": "https://music.163.com/artist?id=13196682" },
+      { "name": "暴君de", "link": "https://music.163.com/artist?id=12599289" }
+    ],
+    "album": {
+      "name": "Dreamless",
+      "link": "https://music.163.com/album?id=38633713"
+    }
+  },
+  {
+    "name": "春",
+    "link": "https://music.163.com/song?id=529252437",
+    "duration": "05:42",
+    "artists": [
+      { "name": "拼音师", "link": "https://music.163.com/artist?id=12038065" }
+    ],
+    "album": {
+      "name": "四季之《春》",
+      "link": "https://music.163.com/album?id=37220034"
+    }
+  },
+  {
+    "name": "Shattered Time",
+    "link": "https://music.163.com/song?id=513564524",
+    "duration": "03:22",
+    "artists": [
+      {
+        "name": "AJonnyCool",
+        "link": "https://music.163.com/artist?id=12282902"
+      }
+    ],
+    "album": {
+      "name": "瓦洛兰大陆",
+      "link": "https://music.163.com/album?id=81297905"
+    }
+  },
+  {
+    "name": "Dancing Heart (Original mix)",
+    "link": "https://music.163.com/song?id=1329343624",
+    "duration": "07:49",
+    "artists": [
+      { "name": "Melchi", "link": "https://music.163.com/artist?id=12058010" }
+    ],
+    "album": {
+      "name": "Sunset Of The Coastline / Dancing Heart",
+      "link": "https://music.163.com/album?id=74638654"
+    }
+  },
+  {
+    "name": "Don't Forget (Blaikz Remix)",
+    "link": "https://music.163.com/song?id=1396038549",
+    "duration": "02:36",
+    "artists": [
+      { "name": "LIZOT", "link": "https://music.163.com/artist?id=1137483" },
+      { "name": "Nevve", "link": "https://music.163.com/artist?id=12567101" },
+      { "name": "Blaikz", "link": "https://music.163.com/artist?id=12107651" }
+    ],
+    "album": {
+      "name": "Don't Forget (Blaikz Remix)",
+      "link": "https://music.163.com/album?id=82272661"
+    }
+  },
+  {
+    "name": "Eyes",
+    "link": "https://music.163.com/song?id=32102297",
+    "duration": "04:05",
+    "artists": [
+      {
+        "name": "The New Division",
+        "link": "https://music.163.com/artist?id=103368"
+      }
+    ],
+    "album": {
+      "name": "Eyes",
+      "link": "https://music.163.com/album?id=3152258"
+    }
+  },
+  {
+    "name": "Once More",
+    "link": "https://music.163.com/song?id=534995975",
+    "duration": "03:54",
+    "artists": [
+      { "name": "Luke Bond", "link": "https://music.163.com/artist?id=191581" },
+      { "name": "Cartel", "link": "https://music.163.com/artist?id=30012" }
+    ],
+    "album": {
+      "name": "Once More",
+      "link": "https://music.163.com/album?id=34419167"
+    }
+  },
+  {
+    "name": "Bittersweet",
+    "link": "https://music.163.com/song?id=1320558974",
+    "duration": "03:31",
+    "artists": [
+      {
+        "name": "Nicky Romero",
+        "link": "https://music.163.com/artist?id=195142"
+      },
+      { "name": "Trilane", "link": "https://music.163.com/artist?id=12671609" },
+      {
+        "name": "Kokaholla",
+        "link": "https://music.163.com/artist?id=12602687"
+      },
+      {
+        "name": "Quarterback",
+        "link": "https://music.163.com/artist?id=14669008"
+      }
+    ],
+    "album": {
+      "name": "Bittersweet",
+      "link": "https://music.163.com/album?id=74097673"
+    }
+  },
+  {
+    "name": "Hold On To Your Heart (Daniel Kandi Radio Edit)",
+    "link": "https://music.163.com/song?id=415126685",
+    "duration": "04:28",
+    "artists": [
+      { "name": "LTN", "link": "https://music.163.com/artist?id=191742" },
+      {
+        "name": "Christina Novelli",
+        "link": "https://music.163.com/artist?id=840292"
+      },
+      {
+        "name": "Daniel Kandi",
+        "link": "https://music.163.com/artist?id=32478"
+      }
+    ],
+    "album": {
+      "name": "People I'll Never Forget (Remixes)",
+      "link": "https://music.163.com/album?id=34726016"
+    }
+  },
+  {
+    "name": "Find",
+    "link": "https://music.163.com/song?id=534832500",
+    "duration": "03:39",
+    "artists": [
+      { "name": "Shallou", "link": "https://music.163.com/artist?id=12029377" },
+      { "name": "Kasbo", "link": "https://music.163.com/artist?id=936040" },
+      {
+        "name": "Cody Lovaas",
+        "link": "https://music.163.com/artist?id=12278242"
+      }
+    ],
+    "album": {
+      "name": "Souls",
+      "link": "https://music.163.com/album?id=37461751"
+    }
+  },
+  {
+    "name": "Desire (Original Mix)",
+    "link": "https://music.163.com/song?id=1462377448",
+    "duration": "03:11",
+    "artists": [
+      {
+        "name": "Suprafive",
+        "link": "https://music.163.com/artist?id=1022142"
+      },
+      { "name": "Eric K.", "link": "https://music.163.com/artist?id=30601629" }
+    ],
+    "album": {
+      "name": "Desire",
+      "link": "https://music.163.com/album?id=92340809"
+    }
+  },
+  {
+    "name": "Edge Of Darkness",
+    "link": "https://music.163.com/song?id=1841095562",
+    "duration": "03:30",
+    "artists": [
+      {
+        "name": "Wildstylez",
+        "link": "https://music.163.com/artist?id=666014"
+      },
+      {
+        "name": "Hard Driver",
+        "link": "https://music.163.com/artist?id=336983"
+      }
+    ],
+    "album": {
+      "name": "Edge Of Darkness",
+      "link": "https://music.163.com/album?id=126703397"
+    }
+  },
+  {
+    "name": "Progress",
+    "link": "https://music.163.com/song?id=1485555490",
+    "duration": "03:07",
+    "artists": [
+      {
+        "name": "Great Good Fine OK",
+        "link": "https://music.163.com/artist?id=905068"
+      }
+    ],
+    "album": {
+      "name": "Progress",
+      "link": "https://music.163.com/album?id=96530040"
+    }
+  },
+  {
+    "name": "Therapy",
+    "link": "https://music.163.com/song?id=1441129507",
+    "duration": "03:06",
+    "artists": [
+      { "name": "Conro", "link": "https://music.163.com/artist?id=1063229" }
+    ],
+    "album": {
+      "name": "Level Days",
+      "link": "https://music.163.com/album?id=88117373"
+    }
+  },
+  {
+    "name": "Breath",
+    "link": "https://music.163.com/song?id=432780563",
+    "duration": "03:21",
+    "artists": [
+      { "name": "pluko", "link": "https://music.163.com/artist?id=15024191" },
+      { "name": "ye.", "link": "https://music.163.com/artist?id=12061025" }
+    ],
+    "album": {
+      "name": "Breath",
+      "link": "https://music.163.com/album?id=34899487"
+    }
+  },
+  {
+    "name": "Paradise",
+    "link": "https://music.163.com/song?id=1876256646",
+    "duration": "03:04",
+    "artists": [
+      {
+        "name": "Alan Walker",
+        "link": "https://music.163.com/artist?id=1045123"
+      },
+      { "name": "K-391", "link": "https://music.163.com/artist?id=1049937" },
+      {
+        "name": "Boy In Space",
+        "link": "https://music.163.com/artist?id=32086096"
+      }
+    ],
+    "album": {
+      "name": "Paradise",
+      "link": "https://music.163.com/album?id=132884266"
+    }
+  }
+]
