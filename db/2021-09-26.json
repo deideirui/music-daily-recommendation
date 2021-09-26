@@ -1,0 +1,522 @@
+[
+  {
+    "name": "Home",
+    "link": "https://music.163.com/song?id=1361165082",
+    "duration": "02:13",
+    "artists": [
+      { "name": "J. Lisk", "link": "https://music.163.com/artist?id=12121101" }
+    ],
+    "album": {
+      "name": "Home",
+      "link": "https://music.163.com/album?id=78706183"
+    }
+  },
+  {
+    "name": "Salt",
+    "link": "https://music.163.com/song?id=1384056805",
+    "duration": "02:58",
+    "artists": [
+      {
+        "name": "Amy Peters",
+        "link": "https://music.163.com/artist?id=30291533"
+      }
+    ],
+    "album": {
+      "name": "Salt",
+      "link": "https://music.163.com/album?id=80930972"
+    }
+  },
+  {
+    "name": "Tears of Memories",
+    "link": "https://music.163.com/song?id=1389110709",
+    "duration": "06:59",
+    "artists": [
+      {
+        "name": "Mark & Lukas",
+        "link": "https://music.163.com/artist?id=1104097"
+      }
+    ],
+    "album": {
+      "name": "Life Is About Moments / Tears of Memories",
+      "link": "https://music.163.com/album?id=81412137"
+    }
+  },
+  {
+    "name": "Sweet Life",
+    "link": "https://music.163.com/song?id=505060855",
+    "duration": "03:00",
+    "artists": [
+      {
+        "name": "Lucas Estrada",
+        "link": "https://music.163.com/artist?id=12409125"
+      },
+      {
+        "name": "Swedish Red Elephant",
+        "link": "https://music.163.com/artist?id=14277069"
+      }
+    ],
+    "album": {
+      "name": "Sweet Life",
+      "link": "https://music.163.com/album?id=36049685"
+    }
+  },
+  {
+    "name": "By The River",
+    "link": "https://music.163.com/song?id=1346111359",
+    "duration": "03:32",
+    "artists": [
+      { "name": "FEWZ", "link": "https://music.163.com/artist?id=12008133" }
+    ],
+    "album": {
+      "name": "By The River",
+      "link": "https://music.163.com/album?id=75558383"
+    }
+  },
+  {
+    "name": "Angetenar",
+    "link": "https://music.163.com/song?id=1317424764",
+    "duration": "06:05",
+    "artists": [
+      { "name": "Rompasso", "link": "https://music.163.com/artist?id=12279360" }
+    ],
+    "album": {
+      "name": "Angetenar",
+      "link": "https://music.163.com/album?id=73891153"
+    }
+  },
+  {
+    "name": "Ruins paradise",
+    "link": "https://music.163.com/song?id=1354647674",
+    "duration": "04:48",
+    "artists": [
+      { "name": "静风舞", "link": "https://music.163.com/artist?id=1145031" }
+    ],
+    "album": {
+      "name": "Ruins paradise",
+      "link": "https://music.163.com/album?id=78199107"
+    }
+  },
+  {
+    "name": "Nostalgia",
+    "link": "https://music.163.com/song?id=408814025",
+    "duration": "04:46",
+    "artists": [
+      { "name": "Vexento", "link": "https://music.163.com/artist?id=12037010" }
+    ],
+    "album": {
+      "name": "Inspiration",
+      "link": "https://music.163.com/album?id=34594797"
+    }
+  },
+  {
+    "name": "Would You Wait for Me (Arty Violin Remix)",
+    "link": "https://music.163.com/song?id=1440400794",
+    "duration": "03:47",
+    "artists": [
+      {
+        "name": "Max Oazo",
+        "link": "https://music.163.com/artist?id=13159084"
+      },
+      {
+        "name": "Arty Violin",
+        "link": "https://music.163.com/artist?id=36321943"
+      }
+    ],
+    "album": {
+      "name": "Would You Wait for Me (Arty Violin Remix)",
+      "link": "https://music.163.com/album?id=87967833"
+    }
+  },
+  {
+    "name": "You've Got Me Now",
+    "link": "https://music.163.com/song?id=425828034",
+    "duration": "03:13",
+    "artists": [
+      { "name": "Heatbeat", "link": "https://music.163.com/artist?id=136796" },
+      {
+        "name": "Eric Lumiere",
+        "link": "https://music.163.com/artist?id=537263"
+      }
+    ],
+    "album": {
+      "name": "You've Got Me Now",
+      "link": "https://music.163.com/album?id=34808108"
+    }
+  },
+  {
+    "name": "One More in the Crowd",
+    "link": "https://music.163.com/song?id=562926865",
+    "duration": "03:30",
+    "artists": [
+      {
+        "name": "Thomas Sekelius",
+        "link": "https://music.163.com/artist?id=12403028"
+      },
+      {
+        "name": "Alex D'Rosso",
+        "link": "https://music.163.com/artist?id=12212047"
+      },
+      {
+        "name": "Lucas Estrada",
+        "link": "https://music.163.com/artist?id=12409125"
+      }
+    ],
+    "album": {
+      "name": "One More in the Crowd (Alex D’Rosso & Lucas Estrada Remix)",
+      "link": "https://music.163.com/album?id=39009079"
+    }
+  },
+  {
+    "name": "Taegu (Full Version)",
+    "link": "https://music.163.com/song?id=1366570700",
+    "duration": "03:31",
+    "artists": [
+      { "name": "Andreas B.", "link": "https://music.163.com/artist?id=299713" }
+    ],
+    "album": {
+      "name": "Taegu (Full Version)",
+      "link": "https://music.163.com/album?id=79265927"
+    }
+  },
+  {
+    "name": "River",
+    "link": "https://music.163.com/song?id=1862232362",
+    "duration": "04:00",
+    "artists": [
+      {
+        "name": "Andrew Rayel",
+        "link": "https://music.163.com/artist?id=191512"
+      },
+      { "name": "AIDYL", "link": "https://music.163.com/artist?id=30999073" }
+    ],
+    "album": {
+      "name": "River",
+      "link": "https://music.163.com/album?id=130540622"
+    }
+  },
+  {
+    "name": "Dance With Me (Original Mix)",
+    "link": "https://music.163.com/song?id=550233019",
+    "duration": "03:10",
+    "artists": [
+      { "name": "Sagan", "link": "https://music.163.com/artist?id=77502" }
+    ],
+    "album": {
+      "name": "Dance With Me",
+      "link": "https://music.163.com/album?id=38222261"
+    }
+  },
+  {
+    "name": "Dive With Me",
+    "link": "https://music.163.com/song?id=507134193",
+    "duration": "03:40",
+    "artists": [
+      {
+        "name": "Lvndscape",
+        "link": "https://music.163.com/artist?id=1146024"
+      },
+      {
+        "name": "Cathrine Lassen",
+        "link": "https://music.163.com/artist?id=29653694"
+      }
+    ],
+    "album": {
+      "name": "Dive With Me",
+      "link": "https://music.163.com/album?id=36270081"
+    }
+  },
+  {
+    "name": "Million Days",
+    "link": "https://music.163.com/song?id=1417055605",
+    "duration": "03:28",
+    "artists": [
+      { "name": "Sabai", "link": "https://music.163.com/artist?id=32093901" },
+      { "name": "Hoang", "link": "https://music.163.com/artist?id=27694442" },
+      {
+        "name": "Claire Ridgely",
+        "link": "https://music.163.com/artist?id=14935781"
+      }
+    ],
+    "album": {
+      "name": "Million Days",
+      "link": "https://music.163.com/album?id=85020147"
+    }
+  },
+  {
+    "name": "Bloodstream",
+    "link": "https://music.163.com/song?id=470547650",
+    "duration": "03:44",
+    "artists": [
+      {
+        "name": "The Chainsmokers",
+        "link": "https://music.163.com/artist?id=893484"
+      },
+      {
+        "name": "Phoebe Ryan",
+        "link": "https://music.163.com/artist?id=854363"
+      }
+    ],
+    "album": {
+      "name": "Memories...Do Not Open",
+      "link": "https://music.163.com/album?id=35347078"
+    }
+  },
+  {
+    "name": "Better Off Lonely",
+    "link": "https://music.163.com/song?id=1467062551",
+    "duration": "04:30",
+    "artists": [
+      { "name": "Nurko", "link": "https://music.163.com/artist?id=11991089" },
+      { "name": "RØRY", "link": "https://music.163.com/artist?id=28774080" }
+    ],
+    "album": {
+      "name": "Better Off Lonely",
+      "link": "https://music.163.com/album?id=93251099"
+    }
+  },
+  {
+    "name": "Russia In The House",
+    "link": "https://music.163.com/song?id=1417126486",
+    "duration": "02:54",
+    "artists": [
+      { "name": "Bobina", "link": "https://music.163.com/artist?id=129629" },
+      {
+        "name": "柳李 Atom Panda",
+        "link": "https://music.163.com/artist?id=12037042"
+      }
+    ],
+    "album": {
+      "name": "Russia / China In The House",
+      "link": "https://music.163.com/album?id=85025412"
+    }
+  },
+  {
+    "name": "Don’t Let Go",
+    "link": "https://music.163.com/song?id=28282487",
+    "duration": "03:18",
+    "artists": [
+      { "name": "Lea Michele", "link": "https://music.163.com/artist?id=66147" }
+    ],
+    "album": {
+      "name": "Louder",
+      "link": "https://music.163.com/album?id=2746004"
+    }
+  },
+  {
+    "name": "Bästa som hänt",
+    "link": "https://music.163.com/song?id=1836013628",
+    "duration": "03:52",
+    "artists": [
+      { "name": "BUNT.", "link": "https://music.163.com/artist?id=744145" },
+      { "name": "HON", "link": "https://music.163.com/artist?id=34733953" }
+    ],
+    "album": {
+      "name": "Bästa som hänt",
+      "link": "https://music.163.com/album?id=125797551"
+    }
+  },
+  {
+    "name": "忽然之间",
+    "link": "https://music.163.com/song?id=277759",
+    "duration": "03:21",
+    "artists": [
+      { "name": "莫文蔚", "link": "https://music.163.com/artist?id=8926" }
+    ],
+    "album": {
+      "name": "就是 莫文蔚",
+      "link": "https://music.163.com/album?id=27573"
+    }
+  },
+  {
+    "name": "Oceans",
+    "link": "https://music.163.com/song?id=425280064",
+    "duration": "03:31",
+    "artists": [
+      { "name": "Borgeous", "link": "https://music.163.com/artist?id=904048" },
+      { "name": "Dyson", "link": "https://music.163.com/artist?id=301602" }
+    ],
+    "album": { "name": "13", "link": "https://music.163.com/album?id=34818015" }
+  },
+  {
+    "name": "Lovers For The Weekend",
+    "link": "https://music.163.com/song?id=1443009967",
+    "duration": "02:50",
+    "artists": [
+      {
+        "name": "John De Sohn",
+        "link": "https://music.163.com/artist?id=290019"
+      }
+    ],
+    "album": {
+      "name": "Lovers For The Weekend",
+      "link": "https://music.163.com/album?id=88460216"
+    }
+  },
+  {
+    "name": "Crash & Burn",
+    "link": "https://music.163.com/song?id=1481304442",
+    "duration": "03:13",
+    "artists": [
+      {
+        "name": "Crystal Skies",
+        "link": "https://music.163.com/artist?id=1063127"
+      }
+    ],
+    "album": {
+      "name": "Collide EP",
+      "link": "https://music.163.com/album?id=95774856"
+    }
+  },
+  {
+    "name": "High On Your Love",
+    "link": "https://music.163.com/song?id=1378212531",
+    "duration": "02:36",
+    "artists": [
+      {
+        "name": "The Waked",
+        "link": "https://music.163.com/artist?id=13974125"
+      },
+      {
+        "name": "Nora Andersson",
+        "link": "https://music.163.com/artist?id=32762236"
+      }
+    ],
+    "album": {
+      "name": "High On Your Love",
+      "link": "https://music.163.com/album?id=80417994"
+    }
+  },
+  {
+    "name": "Heavenly Side",
+    "link": "https://music.163.com/song?id=1857326892",
+    "duration": "04:00",
+    "artists": [
+      { "name": "ILLENIUM", "link": "https://music.163.com/artist?id=1050518" },
+      {
+        "name": "Matt Maeson",
+        "link": "https://music.163.com/artist?id=12191157"
+      }
+    ],
+    "album": {
+      "name": "Heavenly Side",
+      "link": "https://music.163.com/album?id=129688379"
+    }
+  },
+  {
+    "name": "Oldskool & Acid (Original Mix)",
+    "link": "https://music.163.com/song?id=1832725527",
+    "duration": "04:22",
+    "artists": [
+      {
+        "name": "Brennan Heart",
+        "link": "https://music.163.com/artist?id=688203"
+      },
+      {
+        "name": "Blademasterz",
+        "link": "https://music.163.com/artist?id=28604377"
+      },
+      { "name": "Dana", "link": "https://music.163.com/artist?id=35497236" }
+    ],
+    "album": {
+      "name": "Katana EP pt.1",
+      "link": "https://music.163.com/album?id=125206816"
+    }
+  },
+  {
+    "name": "So What - (又如何)",
+    "link": "https://music.163.com/song?id=1500156364",
+    "duration": "03:34",
+    "artists": [
+      {
+        "name": "Spaceport Records",
+        "link": "https://music.163.com/artist?id=32971452"
+      },
+      {
+        "name": "Reggie Yang",
+        "link": "https://music.163.com/artist?id=12605071"
+      },
+      { "name": "夏璃夜", "link": "https://music.163.com/artist?id=12236114" }
+    ],
+    "album": {
+      "name": "So What",
+      "link": "https://music.163.com/album?id=99081205"
+    }
+  },
+  {
+    "name": "do-re-mi-fa-so-la-ti-do",
+    "link": "https://music.163.com/song?id=1839140775",
+    "duration": "03:34",
+    "artists": [
+      {
+        "name": "Porter Robinson",
+        "link": "https://music.163.com/artist?id=185871"
+      }
+    ],
+    "album": {
+      "name": "Nurture",
+      "link": "https://music.163.com/album?id=126338915"
+    }
+  },
+  {
+    "name": "Carissa",
+    "link": "https://music.163.com/song?id=1378148512",
+    "duration": "02:25",
+    "artists": [
+      {
+        "name": "DESERT STAR",
+        "link": "https://music.163.com/artist?id=31890379"
+      }
+    ],
+    "album": {
+      "name": "Carissa",
+      "link": "https://music.163.com/album?id=80409393"
+    }
+  },
+  {
+    "name": "The Surface",
+    "link": "https://music.163.com/song?id=1381222976",
+    "duration": "03:22",
+    "artists": [
+      { "name": "VENIICE", "link": "https://music.163.com/artist?id=12218056" },
+      { "name": "Miles Away", "link": "https://music.163.com/artist?id=96821" },
+      { "name": "FJØRA", "link": "https://music.163.com/artist?id=31545231" }
+    ],
+    "album": {
+      "name": "Apollo EP",
+      "link": "https://music.163.com/album?id=80704561"
+    }
+  },
+  {
+    "name": "Post Malone (feat. RANI) [徐梦圆冯提莫合作版]",
+    "link": "https://music.163.com/song?id=1392742712",
+    "duration": "02:51",
+    "artists": [
+      {
+        "name": "Sam Feldt",
+        "link": "https://music.163.com/artist?id=1025255"
+      },
+      { "name": "RANI", "link": "https://music.163.com/artist?id=13774039" },
+      { "name": "徐梦圆", "link": "https://music.163.com/artist?id=1142042" },
+      { "name": "冯提莫", "link": "https://music.163.com/artist?id=12107534" }
+    ],
+    "album": {
+      "name": "Post Malone (feat. RANI) [徐梦圆冯提莫合作版]",
+      "link": "https://music.163.com/album?id=81852953"
+    }
+  },
+  {
+    "name": "Love Story (Taylor’s Version)",
+    "link": "https://music.163.com/song?id=1880746524",
+    "duration": "03:55",
+    "artists": [
+      {
+        "name": "Taylor Swift",
+        "link": "https://music.163.com/artist?id=44266"
+      }
+    ],
+    "album": {
+      "name": "Clean Hits for Kids 2021",
+      "link": "https://music.163.com/album?id=133704283"
+    }
+  }
+]
