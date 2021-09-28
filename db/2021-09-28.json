@@ -1,0 +1,498 @@
+[
+  {
+    "name": "Dancing In The Rain",
+    "link": "https://music.163.com/song?id=1355814875",
+    "duration": "03:00",
+    "artists": [
+      {
+        "name": "FUTURECODE",
+        "link": "https://music.163.com/artist?id=31577450"
+      },
+      {
+        "name": "Roxanne Emery",
+        "link": "https://music.163.com/artist?id=74561"
+      }
+    ],
+    "album": {
+      "name": "Dancing In The Rain",
+      "link": "https://music.163.com/album?id=78265721"
+    }
+  },
+  {
+    "name": "Команда - (队伍)",
+    "link": "https://music.163.com/song?id=1365543521",
+    "duration": "03:38",
+    "artists": [
+      { "name": "DJ Smash", "link": "https://music.163.com/artist?id=193407" },
+      {
+        "name": " Полина Гагарина",
+        "link": "https://music.163.com/artist?id=27889516"
+      },
+      { "name": "Egor Kreed", "link": "https://music.163.com/artist?id=557474" }
+    ],
+    "album": {
+      "name": "Viva Amnesia",
+      "link": "https://music.163.com/album?id=79147536"
+    }
+  },
+  {
+    "name": "I Quit Drinking",
+    "link": "https://music.163.com/song?id=1860576772",
+    "duration": "03:34",
+    "artists": [
+      {
+        "name": "GhostDragon",
+        "link": "https://music.163.com/artist?id=12202354"
+      },
+      { "name": "Exede", "link": "https://music.163.com/artist?id=13059879" }
+    ],
+    "album": {
+      "name": "I Quit Drinking",
+      "link": "https://music.163.com/album?id=130234711"
+    }
+  },
+  {
+    "name": "Our Home",
+    "link": "https://music.163.com/song?id=1331480269",
+    "duration": "07:10",
+    "artists": [
+      {
+        "name": "Mark & Lukas",
+        "link": "https://music.163.com/artist?id=1104097"
+      }
+    ],
+    "album": {
+      "name": "Our Home",
+      "link": "https://music.163.com/album?id=74783336"
+    }
+  },
+  {
+    "name": "Ignite - (2016英雄联盟全球总决赛S6主题曲)",
+    "link": "https://music.163.com/song?id=431811484",
+    "duration": "03:15",
+    "artists": [
+      { "name": "Zedd", "link": "https://music.163.com/artist?id=46376" }
+    ],
+    "album": {
+      "name": "Ignite (2016 League Of Legends World Championship)",
+      "link": "https://music.163.com/album?id=34880497"
+    }
+  },
+  {
+    "name": "Letter",
+    "link": "https://music.163.com/song?id=1811185845",
+    "duration": "03:39",
+    "artists": [
+      { "name": "Ahxello", "link": "https://music.163.com/artist?id=1046348" }
+    ],
+    "album": {
+      "name": "Letter",
+      "link": "https://music.163.com/album?id=121486854"
+    }
+  },
+  {
+    "name": "Fragments",
+    "link": "https://music.163.com/song?id=566443609",
+    "duration": "03:22",
+    "artists": [
+      { "name": "FEWZ", "link": "https://music.163.com/artist?id=12008133" }
+    ],
+    "album": {
+      "name": "Fragments",
+      "link": "https://music.163.com/album?id=39263156"
+    }
+  },
+  {
+    "name": "Believe",
+    "link": "https://music.163.com/song?id=1845453315",
+    "duration": "03:17",
+    "artists": [
+      {
+        "name": "WildVibes",
+        "link": "https://music.163.com/artist?id=1181751"
+      },
+      {
+        "name": "Martin Miller",
+        "link": "https://music.163.com/artist?id=12534226"
+      },
+      { "name": "Loé", "link": "https://music.163.com/artist?id=48051773" }
+    ],
+    "album": {
+      "name": "Believe",
+      "link": "https://music.163.com/album?id=127491344"
+    }
+  },
+  {
+    "name": "Sad Robot",
+    "link": "https://music.163.com/song?id=1418900020",
+    "duration": "02:46",
+    "artists": [
+      { "name": "Vexento", "link": "https://music.163.com/artist?id=12037010" }
+    ],
+    "album": {
+      "name": "Sad Robot",
+      "link": "https://music.163.com/album?id=85213884"
+    }
+  },
+  {
+    "name": "Melody",
+    "link": "https://music.163.com/song?id=445153337",
+    "duration": "03:35",
+    "artists": [
+      {
+        "name": "Ashley Wallbridge",
+        "link": "https://music.163.com/artist?id=29252"
+      },
+      { "name": "Karra", "link": "https://music.163.com/artist?id=1081582" }
+    ],
+    "album": {
+      "name": "Electric For Life 2016",
+      "link": "https://music.163.com/album?id=35022832"
+    }
+  },
+  {
+    "name": "High Society",
+    "link": "https://music.163.com/song?id=28642416",
+    "duration": "03:51",
+    "artists": [
+      { "name": "Betty Who", "link": "https://music.163.com/artist?id=832218" }
+    ],
+    "album": {
+      "name": "Worlds Apart",
+      "link": "https://music.163.com/album?id=2866149"
+    }
+  },
+  {
+    "name": "Our Symphony",
+    "link": "https://music.163.com/song?id=1443011948",
+    "duration": "03:15",
+    "artists": [
+      { "name": "Manse", "link": "https://music.163.com/artist?id=855409" },
+      {
+        "name": "WildVibes",
+        "link": "https://music.163.com/artist?id=1181751"
+      },
+      { "name": "Vories", "link": "https://music.163.com/artist?id=31063065" }
+    ],
+    "album": {
+      "name": "Our Symphony",
+      "link": "https://music.163.com/album?id=88461186"
+    }
+  },
+  {
+    "name": "Way Back Home",
+    "link": "https://music.163.com/song?id=1395758957",
+    "duration": "03:15",
+    "artists": [
+      {
+        "name": "Blackcode",
+        "link": "https://music.163.com/artist?id=30013002"
+      },
+      { "name": "9Lives", "link": "https://music.163.com/artist?id=353551" },
+      { "name": "Heleen", "link": "https://music.163.com/artist?id=28866940" }
+    ],
+    "album": {
+      "name": "Way Back Home",
+      "link": "https://music.163.com/album?id=82232337"
+    }
+  },
+  {
+    "name": "Thinkin' Bout You (Vijay & Sofia Remix)",
+    "link": "https://music.163.com/song?id=458231374",
+    "duration": "03:16",
+    "artists": [
+      {
+        "name": "Vijay & Sofia",
+        "link": "https://music.163.com/artist?id=12248024"
+      },
+      { "name": "Ben DJ", "link": "https://music.163.com/artist?id=210299" }
+    ],
+    "album": {
+      "name": "Thinkin' Bout You (Vijay & Sofia Remix)",
+      "link": "https://music.163.com/album?id=35158321"
+    }
+  },
+  {
+    "name": "My Eyes",
+    "link": "https://music.163.com/song?id=1400369459",
+    "duration": "03:26",
+    "artists": [
+      {
+        "name": "Chill Satellite",
+        "link": "https://music.163.com/artist?id=33421944"
+      }
+    ],
+    "album": {
+      "name": "My Eyes",
+      "link": "https://music.163.com/album?id=82914439"
+    }
+  },
+  {
+    "name": "When We Were Young",
+    "link": "https://music.163.com/song?id=1477742958",
+    "duration": "02:58",
+    "artists": [
+      { "name": "Arston", "link": "https://music.163.com/artist?id=776576" },
+      {
+        "name": "Soul Parker",
+        "link": "https://music.163.com/artist?id=34219549"
+      }
+    ],
+    "album": {
+      "name": "When We Were Young",
+      "link": "https://music.163.com/album?id=95138535"
+    }
+  },
+  {
+    "name": "Love Me Now",
+    "link": "https://music.163.com/song?id=1868378791",
+    "duration": "03:15",
+    "artists": [
+      { "name": "Kygo", "link": "https://music.163.com/artist?id=844410" },
+      { "name": "Zoe Wees", "link": "https://music.163.com/artist?id=33000875" }
+    ],
+    "album": {
+      "name": "Love Me Now",
+      "link": "https://music.163.com/album?id=131585118"
+    }
+  },
+  {
+    "name": "I Need Ya",
+    "link": "https://music.163.com/song?id=1821175726",
+    "duration": "03:38",
+    "artists": [
+      { "name": "Sabai", "link": "https://music.163.com/artist?id=32093901" },
+      {
+        "name": "With Løve",
+        "link": "https://music.163.com/artist?id=31641424"
+      },
+      { "name": "RYYZN", "link": "https://music.163.com/artist?id=31280623" }
+    ],
+    "album": {
+      "name": "I Need Ya",
+      "link": "https://music.163.com/album?id=123217592"
+    }
+  },
+  {
+    "name": "Too Far Gone (COASTR. Remix)",
+    "link": "https://music.163.com/song?id=1380057788",
+    "duration": "02:50",
+    "artists": [
+      {
+        "name": "Lost Kings",
+        "link": "https://music.163.com/artist?id=847225"
+      },
+      {
+        "name": "Anna Clendening",
+        "link": "https://music.163.com/artist?id=12533901"
+      }
+    ],
+    "album": {
+      "name": "Too Far Gone (Remixes)",
+      "link": "https://music.163.com/album?id=80605133"
+    }
+  },
+  {
+    "name": "Million Miles Away",
+    "link": "https://music.163.com/song?id=1418084020",
+    "duration": "03:02",
+    "artists": [
+      { "name": "Bassic", "link": "https://music.163.com/artist?id=1124241" },
+      { "name": "Heleen", "link": "https://music.163.com/artist?id=28866940" }
+    ],
+    "album": {
+      "name": "Million Miles Away",
+      "link": "https://music.163.com/album?id=85121165"
+    }
+  },
+  {
+    "name": "Won't Let You Go",
+    "link": "https://music.163.com/song?id=448147037",
+    "duration": "03:07",
+    "artists": [
+      {
+        "name": "Julia Bergwall",
+        "link": "https://music.163.com/artist?id=12232111"
+      }
+    ],
+    "album": {
+      "name": "Won't Let You Go",
+      "link": "https://music.163.com/album?id=35067019"
+    }
+  },
+  {
+    "name": "Preoccupied",
+    "link": "https://music.163.com/song?id=1435914497",
+    "duration": "03:37",
+    "artists": [
+      {
+        "name": "Amy Peters",
+        "link": "https://music.163.com/artist?id=30291533"
+      }
+    ],
+    "album": {
+      "name": "Fever Dream",
+      "link": "https://music.163.com/album?id=87142410"
+    }
+  },
+  {
+    "name": "Into The Future (Original Mix)",
+    "link": "https://music.163.com/song?id=1392761169",
+    "duration": "04:37",
+    "artists": [
+      {
+        "name": "Dana Jean Phoenix",
+        "link": "https://music.163.com/artist?id=14727298"
+      }
+    ],
+    "album": {
+      "name": "Pure Synthwave, Vol. 2",
+      "link": "https://music.163.com/album?id=81855120"
+    }
+  },
+  {
+    "name": "I Will Never Let You Down",
+    "link": "https://music.163.com/song?id=28858364",
+    "duration": "03:23",
+    "artists": [
+      { "name": "Rita Ora", "link": "https://music.163.com/artist?id=74575" }
+    ],
+    "album": {
+      "name": "Now That's What I Call Music! Vol. 88",
+      "link": "https://music.163.com/album?id=2913955"
+    }
+  },
+  {
+    "name": "Orange Juice",
+    "link": "https://music.163.com/song?id=1393223594",
+    "duration": "02:51",
+    "artists": [
+      {
+        "name": "Henri Purnell",
+        "link": "https://music.163.com/artist?id=12074325"
+      },
+      {
+        "name": "Steve Reece",
+        "link": "https://music.163.com/artist?id=1147021"
+      },
+      { "name": "Youkii", "link": "https://music.163.com/artist?id=32496429" }
+    ],
+    "album": {
+      "name": "Orange Juice",
+      "link": "https://music.163.com/album?id=81925155"
+    }
+  },
+  {
+    "name": "the movies",
+    "link": "https://music.163.com/song?id=1450815567",
+    "duration": "02:58",
+    "artists": [
+      { "name": "Nightly", "link": "https://music.163.com/artist?id=12107608" }
+    ],
+    "album": {
+      "name": "the movies",
+      "link": "https://music.163.com/album?id=89932068"
+    }
+  },
+  {
+    "name": "Running Out of Roses",
+    "link": "https://music.163.com/song?id=1874802666",
+    "duration": "02:16",
+    "artists": [
+      {
+        "name": "Alan Walker",
+        "link": "https://music.163.com/artist?id=1045123"
+      },
+      {
+        "name": "Jamie Miller",
+        "link": "https://music.163.com/artist?id=30354906"
+      }
+    ],
+    "album": {
+      "name": "Walker Racing League",
+      "link": "https://music.163.com/album?id=132642846"
+    }
+  },
+  {
+    "name": "Future",
+    "link": "https://music.163.com/song?id=428599678",
+    "duration": "03:06",
+    "artists": [
+      {
+        "name": "Transviolet",
+        "link": "https://music.163.com/artist?id=1122080"
+      }
+    ],
+    "album": {
+      "name": "EPIC LIT",
+      "link": "https://music.163.com/album?id=34854530"
+    }
+  },
+  {
+    "name": "Slow Down",
+    "link": "https://music.163.com/song?id=1399417660",
+    "duration": "03:02",
+    "artists": [
+      {
+        "name": "Sineself",
+        "link": "https://music.163.com/artist?id=32945422"
+      },
+      {
+        "name": "Angel Pieters",
+        "link": "https://music.163.com/artist?id=12749893"
+      }
+    ],
+    "album": {
+      "name": "Slow Down",
+      "link": "https://music.163.com/album?id=82773522"
+    }
+  },
+  {
+    "name": "By My Side",
+    "link": "https://music.163.com/song?id=1403754026",
+    "duration": "02:51",
+    "artists": [
+      { "name": "DEAMN", "link": "https://music.163.com/artist?id=12047335" }
+    ],
+    "album": {
+      "name": "By My Side",
+      "link": "https://music.163.com/album?id=83400151"
+    }
+  },
+  {
+    "name": "You Can See",
+    "link": "https://music.163.com/song?id=1467841344",
+    "duration": "03:12",
+    "artists": [
+      { "name": "MHT", "link": "https://music.163.com/artist?id=12429132" }
+    ],
+    "album": {
+      "name": "You Can See",
+      "link": "https://music.163.com/album?id=93318378"
+    }
+  },
+  {
+    "name": "Supernova",
+    "link": "https://music.163.com/song?id=1428715347",
+    "duration": "03:14",
+    "artists": [
+      { "name": "周骏", "link": "https://music.163.com/artist?id=34518853" }
+    ],
+    "album": {
+      "name": "Supernova",
+      "link": "https://music.163.com/album?id=86280569"
+    }
+  },
+  {
+    "name": "一吻天荒 - (电视剧《轩辕剑之天之痕》片头曲)",
+    "link": "https://music.163.com/song?id=391566",
+    "duration": "04:10",
+    "artists": [
+      { "name": "胡歌", "link": "https://music.163.com/artist?id=3064" }
+    ],
+    "album": {
+      "name": "轩辕剑之天之痕 电视原声大碟",
+      "link": "https://music.163.com/album?id=38789"
+    }
+  }
+]
