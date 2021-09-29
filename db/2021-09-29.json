@@ -1,0 +1,485 @@
+[
+  {
+    "name": "Last Goodbye",
+    "link": "https://music.163.com/song?id=1856951905",
+    "duration": "04:00",
+    "artists": [
+      { "name": "Luke Bond", "link": "https://music.163.com/artist?id=191581" },
+      { "name": "BOND", "link": "https://music.163.com/artist?id=48331365" }
+    ],
+    "album": {
+      "name": "Last Goodbye",
+      "link": "https://music.163.com/album?id=129622171"
+    }
+  },
+  {
+    "name": "Not Over You",
+    "link": "https://music.163.com/song?id=1865368506",
+    "duration": "03:17",
+    "artists": [
+      { "name": "Hoang", "link": "https://music.163.com/artist?id=27694442" },
+      { "name": "Daye", "link": "https://music.163.com/artist?id=49282405" }
+    ],
+    "album": {
+      "name": "Not Over You",
+      "link": "https://music.163.com/album?id=131120454"
+    }
+  },
+  {
+    "name": "Undertow",
+    "link": "https://music.163.com/song?id=1861307887",
+    "duration": "03:25",
+    "artists": [
+      {
+        "name": "Danny Olson",
+        "link": "https://music.163.com/artist?id=1178296"
+      },
+      { "name": "Bebi", "link": "https://music.163.com/artist?id=49024958" },
+      {
+        "name": "Tyler Graves",
+        "link": "https://music.163.com/artist?id=49024957"
+      }
+    ],
+    "album": {
+      "name": "Undertow",
+      "link": "https://music.163.com/album?id=130391134"
+    }
+  },
+  {
+    "name": "Nostalgia",
+    "link": "https://music.163.com/song?id=1870834564",
+    "duration": "02:25",
+    "artists": [
+      {
+        "name": "PIKASONIC",
+        "link": "https://music.163.com/artist?id=13499634"
+      }
+    ],
+    "album": {
+      "name": "Nostalgia",
+      "link": "https://music.163.com/album?id=131980587"
+    }
+  },
+  {
+    "name": "Rather Be",
+    "link": "https://music.163.com/song?id=28530971",
+    "duration": "03:45",
+    "artists": [
+      {
+        "name": "Clean Bandit",
+        "link": "https://music.163.com/artist?id=754010"
+      },
+      {
+        "name": "Jess Glynne",
+        "link": "https://music.163.com/artist?id=904046"
+      }
+    ],
+    "album": {
+      "name": "Absolute Running 2014",
+      "link": "https://music.163.com/album?id=2822209"
+    }
+  },
+  {
+    "name": "If You Really Love Me",
+    "link": "https://music.163.com/song?id=1487433658",
+    "duration": "02:44",
+    "artists": [
+      { "name": "J. Lisk", "link": "https://music.163.com/artist?id=12121101" }
+    ],
+    "album": {
+      "name": "If You Really Love Me",
+      "link": "https://music.163.com/album?id=96794175"
+    }
+  },
+  {
+    "name": "Keep Running (Original Mix)",
+    "link": "https://music.163.com/song?id=1316562146",
+    "duration": "04:40",
+    "artists": [
+      { "name": "Suprafive", "link": "https://music.163.com/artist?id=1022142" }
+    ],
+    "album": {
+      "name": "Keep Running",
+      "link": "https://music.163.com/album?id=73471199"
+    }
+  },
+  {
+    "name": "Move On",
+    "link": "https://music.163.com/song?id=1833974851",
+    "duration": "03:02",
+    "artists": [
+      { "name": "Grant", "link": "https://music.163.com/artist?id=813362" },
+      {
+        "name": "Emily Vaughn",
+        "link": "https://music.163.com/artist?id=12049240"
+      }
+    ],
+    "album": {
+      "name": "Move On",
+      "link": "https://music.163.com/album?id=125423726"
+    }
+  },
+  {
+    "name": "Nothing To Hide",
+    "link": "https://music.163.com/song?id=1853805508",
+    "duration": "03:15",
+    "artists": [
+      { "name": "PETE", "link": "https://music.163.com/artist?id=37649346" },
+      {
+        "name": "Trevor Omoto",
+        "link": "https://music.163.com/artist?id=31213631"
+      }
+    ],
+    "album": {
+      "name": "Nothing To Hide",
+      "link": "https://music.163.com/album?id=129117515"
+    }
+  },
+  {
+    "name": "Back to Life (80s Remix)",
+    "link": "https://music.163.com/song?id=1334762638",
+    "duration": "03:13",
+    "artists": [
+      {
+        "name": "Hailee Steinfeld",
+        "link": "https://music.163.com/artist?id=1085045"
+      }
+    ],
+    "album": {
+      "name": "Back to Life (from ",
+      "link": "https://music.163.com/album?id=74951422"
+    }
+  },
+  {
+    "name": "Ghost of My Past",
+    "link": "https://music.163.com/song?id=1816405505",
+    "duration": "03:36",
+    "artists": [
+      { "name": "Vicetone", "link": "https://music.163.com/artist?id=747030" },
+      {
+        "name": "Emily Falvey",
+        "link": "https://music.163.com/artist?id=31678015"
+      }
+    ],
+    "album": {
+      "name": "Legacy",
+      "link": "https://music.163.com/album?id=122372498"
+    }
+  },
+  {
+    "name": "The Last Time",
+    "link": "https://music.163.com/song?id=1805017070",
+    "duration": "02:52",
+    "artists": [
+      { "name": "Excision", "link": "https://music.163.com/artist?id=33221" },
+      { "name": "Whales", "link": "https://music.163.com/artist?id=1084015" },
+      { "name": "Riell", "link": "https://music.163.com/artist?id=30558622" }
+    ],
+    "album": {
+      "name": "Subsidia Dawn: Vol. 2",
+      "link": "https://music.163.com/album?id=120548449"
+    }
+  },
+  {
+    "name": "Fire",
+    "link": "https://music.163.com/song?id=1858936599",
+    "duration": "03:29",
+    "artists": [
+      { "name": "TheFatRat", "link": "https://music.163.com/artist?id=1019952" }
+    ],
+    "album": {
+      "name": "Fire",
+      "link": "https://music.163.com/album?id=129968632"
+    }
+  },
+  {
+    "name": "Lovin' Every Minute",
+    "link": "https://music.163.com/song?id=1873224266",
+    "duration": "02:42",
+    "artists": [
+      { "name": "AREA21", "link": "https://music.163.com/artist?id=12024331" },
+      {
+        "name": "Martin Garrix",
+        "link": "https://music.163.com/artist?id=780003"
+      },
+      { "name": "Maejor", "link": "https://music.163.com/artist?id=1038109" }
+    ],
+    "album": {
+      "name": "Lovin' Every Minute",
+      "link": "https://music.163.com/album?id=132387506"
+    }
+  },
+  {
+    "name": "Russian Roulette",
+    "link": "https://music.163.com/song?id=1479341961",
+    "duration": "03:05",
+    "artists": [
+      {
+        "name": "Swanky Tunes",
+        "link": "https://music.163.com/artist?id=206627"
+      },
+      {
+        "name": "Going Deeper",
+        "link": "https://music.163.com/artist?id=977174"
+      },
+      { "name": "Rompasso", "link": "https://music.163.com/artist?id=12279360" }
+    ],
+    "album": {
+      "name": "Russian Roulette",
+      "link": "https://music.163.com/album?id=95409998"
+    }
+  },
+  {
+    "name": "Hot Air Balloon",
+    "link": "https://music.163.com/song?id=1865472730",
+    "duration": "02:53",
+    "artists": [
+      {
+        "name": "Don Diablo",
+        "link": "https://music.163.com/artist?id=139072"
+      },
+      { "name": "AR/CO", "link": "https://music.163.com/artist?id=46726518" }
+    ],
+    "album": {
+      "name": "Hot Air Balloon",
+      "link": "https://music.163.com/album?id=131132008"
+    }
+  },
+  {
+    "name": "Insula (Dirty Nano Remix)",
+    "link": "https://music.163.com/song?id=1490852661",
+    "duration": "06:37",
+    "artists": [
+      {
+        "name": "The Motans",
+        "link": "https://music.163.com/artist?id=12710132"
+      },
+      { "name": "Emaa", "link": "https://music.163.com/artist?id=34638264" }
+    ],
+    "album": {
+      "name": "Insula (Dirty Nano Remix)",
+      "link": "https://music.163.com/album?id=97520214"
+    }
+  },
+  {
+    "name": "黎明微光(Instrumental)",
+    "link": "https://music.163.com/song?id=1808652614",
+    "duration": "03:03",
+    "artists": [
+      { "name": "李祥晖", "link": "https://music.163.com/artist?id=12483027" }
+    ],
+    "album": {
+      "name": "黎明微光",
+      "link": "https://music.163.com/album?id=121047713"
+    }
+  },
+  {
+    "name": "Party Around the World (Michael Mind Project Remix Edit)",
+    "link": "https://music.163.com/song?id=28111317",
+    "duration": "03:03",
+    "artists": [
+      { "name": "Carlprit", "link": "https://music.163.com/artist?id=30916" },
+      {
+        "name": "Michael Mind Project",
+        "link": "https://music.163.com/artist?id=97036"
+      }
+    ],
+    "album": {
+      "name": "Party Around the World",
+      "link": "https://music.163.com/album?id=2732055"
+    }
+  },
+  {
+    "name": "Hands (Diviners Remix)",
+    "link": "https://music.163.com/song?id=445153325",
+    "duration": "03:19",
+    "artists": [
+      {
+        "name": "Gareth Emery",
+        "link": "https://music.163.com/artist?id=34318"
+      },
+      {
+        "name": "London Thor",
+        "link": "https://music.163.com/artist?id=1102061"
+      },
+      { "name": "Diviners", "link": "https://music.163.com/artist?id=1192136" },
+      { "name": "Alastor", "link": "https://music.163.com/artist?id=85992" }
+    ],
+    "album": {
+      "name": "Electric For Life 2016",
+      "link": "https://music.163.com/album?id=35022832"
+    }
+  },
+  {
+    "name": "Just For A Moment",
+    "link": "https://music.163.com/song?id=574648258",
+    "duration": "04:14",
+    "artists": [
+      { "name": "Gryffin", "link": "https://music.163.com/artist?id=1181504" },
+      {
+        "name": "Iselin Solheim",
+        "link": "https://music.163.com/artist?id=1078390"
+      }
+    ],
+    "album": {
+      "name": "Just For A Moment",
+      "link": "https://music.163.com/album?id=39779084"
+    }
+  },
+  {
+    "name": "I Can Be Cool",
+    "link": "https://music.163.com/song?id=1454605980",
+    "duration": "03:20",
+    "artists": [
+      {
+        "name": "Amberlake",
+        "link": "https://music.163.com/artist?id=30262778"
+      },
+      { "name": "KELLA", "link": "https://music.163.com/artist?id=31713396" }
+    ],
+    "album": {
+      "name": "I Can Be Cool",
+      "link": "https://music.163.com/album?id=90704070"
+    }
+  },
+  {
+    "name": "Monsters",
+    "link": "https://music.163.com/song?id=1442453411",
+    "duration": "03:57",
+    "artists": [
+      {
+        "name": "Midnight Kids",
+        "link": "https://music.163.com/artist?id=13192314"
+      }
+    ],
+    "album": {
+      "name": "Monsters",
+      "link": "https://music.163.com/album?id=88347039"
+    }
+  },
+  {
+    "name": "Liar",
+    "link": "https://music.163.com/song?id=1389205082",
+    "duration": "03:03",
+    "artists": [
+      { "name": "Askling", "link": "https://music.163.com/artist?id=13003084" }
+    ],
+    "album": {
+      "name": "Liar",
+      "link": "https://music.163.com/album?id=81425605"
+    }
+  },
+  {
+    "name": "No Sleep",
+    "link": "https://music.163.com/song?id=1400345322",
+    "duration": "02:42",
+    "artists": [
+      { "name": "Tails", "link": "https://music.163.com/artist?id=13738077" },
+      {
+        "name": "Beach Season",
+        "link": "https://music.163.com/artist?id=12131022"
+      }
+    ],
+    "album": {
+      "name": "No Sleep / Hyperventilate",
+      "link": "https://music.163.com/album?id=82910616"
+    }
+  },
+  {
+    "name": "Some Say",
+    "link": "https://music.163.com/song?id=1388708876",
+    "duration": "02:55",
+    "artists": [
+      { "name": "Nea", "link": "https://music.163.com/artist?id=34133567" }
+    ],
+    "album": {
+      "name": "Some Say",
+      "link": "https://music.163.com/album?id=81361670"
+    }
+  },
+  {
+    "name": "Celestial",
+    "link": "https://music.163.com/song?id=1457052560",
+    "duration": "03:27",
+    "artists": [
+      { "name": "夜色の秋", "link": "https://music.163.com/artist?id=14119999" }
+    ],
+    "album": {
+      "name": "Celestial",
+      "link": "https://music.163.com/album?id=91226595"
+    }
+  },
+  {
+    "name": "Stupid Dumb",
+    "link": "https://music.163.com/song?id=1415735685",
+    "duration": "03:16",
+    "artists": [
+      { "name": "CMC$", "link": "https://music.163.com/artist?id=1086052" },
+      { "name": "SVEA", "link": "https://music.163.com/artist?id=14231266" }
+    ],
+    "album": {
+      "name": "Stupid Dumb",
+      "link": "https://music.163.com/album?id=84892877"
+    }
+  },
+  {
+    "name": "Grapevine Valentine",
+    "link": "https://music.163.com/song?id=29556039",
+    "duration": "03:21",
+    "artists": [
+      { "name": "Kingsfoil", "link": "https://music.163.com/artist?id=63287" }
+    ],
+    "album": {
+      "name": "A Beating Heart Is a Bleeding Heart",
+      "link": "https://music.163.com/album?id=3041133"
+    }
+  },
+  {
+    "name": "La Ciudad",
+    "link": "https://music.163.com/song?id=1329664861",
+    "duration": "04:31",
+    "artists": [
+      { "name": "ODESZA", "link": "https://music.163.com/artist?id=839108" }
+    ],
+    "album": {
+      "name": "A Moment Apart (Deluxe Edition)",
+      "link": "https://music.163.com/album?id=74669989"
+    }
+  },
+  {
+    "name": "Blindspot (N3WPORT Remix)",
+    "link": "https://music.163.com/song?id=1822429638",
+    "duration": "03:45",
+    "artists": [
+      { "name": "Nurko", "link": "https://music.163.com/artist?id=11991089" },
+      {
+        "name": "Devon Baldwin",
+        "link": "https://music.163.com/artist?id=1181449"
+      },
+      { "name": "N3wport", "link": "https://music.163.com/artist?id=12408098" }
+    ],
+    "album": {
+      "name": "Blindspot (Remixes)",
+      "link": "https://music.163.com/album?id=123433204"
+    }
+  },
+  {
+    "name": "MAYDAY",
+    "link": "https://music.163.com/song?id=547764799",
+    "duration": "04:07",
+    "artists": [
+      {
+        "name": "TheFatRat",
+        "link": "https://music.163.com/artist?id=1019952"
+      },
+      {
+        "name": "Laura Brehm",
+        "link": "https://music.163.com/artist?id=207693"
+      }
+    ],
+    "album": {
+      "name": "MAYDAY",
+      "link": "https://music.163.com/album?id=38033127"
+    }
+  }
+]
