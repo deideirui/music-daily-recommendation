@@ -1,0 +1,449 @@
+[
+  {
+    "name": "Thousand Faces (Acoustic)",
+    "link": "https://music.163.com/song?id=1467070956",
+    "duration": "03:33",
+    "artists": [
+      { "name": "Don Diablo", "link": "https://music.163.com/artist?id=139072" }
+    ],
+    "album": {
+      "name": "Thousand Faces (Acoustic)",
+      "link": "https://music.163.com/album?id=93252532"
+    }
+  },
+  {
+    "name": "Glow In The Dark (feat. Nevve)",
+    "link": "https://music.163.com/song?id=1864270710",
+    "duration": "04:09",
+    "artists": [
+      {
+        "name": "Friendzone",
+        "link": "https://music.163.com/artist?id=768035"
+      },
+      { "name": "Nevve", "link": "https://music.163.com/artist?id=12567101" }
+    ],
+    "album": {
+      "name": "Glow In The Dark (feat. Nevve)",
+      "link": "https://music.163.com/album?id=130908023"
+    }
+  },
+  {
+    "name": "Make It Sure",
+    "link": "https://music.163.com/song?id=1866288671",
+    "duration": "02:24",
+    "artists": [
+      { "name": "mingeon", "link": "https://music.163.com/artist?id=49161104" },
+      { "name": "Milkoi", "link": "https://music.163.com/artist?id=12426032" },
+      { "name": "Sinamin", "link": "https://music.163.com/artist?id=296856" }
+    ],
+    "album": {
+      "name": "Make It Sure",
+      "link": "https://music.163.com/album?id=131244603"
+    }
+  },
+  {
+    "name": "Drive You Out 2.0",
+    "link": "https://music.163.com/song?id=1473633626",
+    "duration": "02:27",
+    "artists": [
+      { "name": "BEAUZ", "link": "https://music.163.com/artist?id=12131436" },
+      { "name": "Linney", "link": "https://music.163.com/artist?id=1193247" }
+    ],
+    "album": {
+      "name": "BEAUZWORLD, Vol.1",
+      "link": "https://music.163.com/album?id=94560727"
+    }
+  },
+  {
+    "name": "Polygon Dust",
+    "link": "https://music.163.com/song?id=28912009",
+    "duration": "03:29",
+    "artists": [
+      {
+        "name": "Porter Robinson",
+        "link": "https://music.163.com/artist?id=185871"
+      },
+      { "name": "Lemâitre", "link": "https://music.163.com/artist?id=96089" }
+    ],
+    "album": {
+      "name": "Worlds",
+      "link": "https://music.163.com/album?id=2915252"
+    }
+  },
+  {
+    "name": "Nandayo",
+    "link": "https://music.163.com/song?id=1854553350",
+    "duration": "04:17",
+    "artists": [
+      { "name": "Geoxor", "link": "https://music.163.com/artist?id=12006357" }
+    ],
+    "album": {
+      "name": "Nandayo",
+      "link": "https://music.163.com/album?id=129254069"
+    }
+  },
+  {
+    "name": "Essentials",
+    "link": "https://music.163.com/song?id=1819713753",
+    "duration": "04:07",
+    "artists": [
+      {
+        "name": "Wheazewolf",
+        "link": "https://music.163.com/artist?id=30704290"
+      }
+    ],
+    "album": {
+      "name": "Essentials",
+      "link": "https://music.163.com/album?id=122830932"
+    }
+  },
+  {
+    "name": "Stardust",
+    "link": "https://music.163.com/song?id=1859586082",
+    "duration": "03:27",
+    "artists": [
+      {
+        "name": "Infowler",
+        "link": "https://music.163.com/artist?id=12524037"
+      },
+      { "name": "Sofuu", "link": "https://music.163.com/artist?id=46952588" },
+      { "name": "SaMZIng", "link": "https://music.163.com/artist?id=1203033" }
+    ],
+    "album": {
+      "name": "Stardust",
+      "link": "https://music.163.com/album?id=130089647"
+    }
+  },
+  {
+    "name": "leave me alone",
+    "link": "https://music.163.com/song?id=1851890858",
+    "duration": "04:21",
+    "artists": [
+      { "name": "qwaston", "link": "https://music.163.com/artist?id=46937822" }
+    ],
+    "album": {
+      "name": "realize EP",
+      "link": "https://music.163.com/album?id=128714790"
+    }
+  },
+  {
+    "name": "Can We Pretend",
+    "link": "https://music.163.com/song?id=1357963730",
+    "duration": "03:44",
+    "artists": [
+      { "name": "P!nk", "link": "https://music.163.com/artist?id=70821" },
+      { "name": "Cash Cash", "link": "https://music.163.com/artist?id=50905" }
+    ],
+    "album": {
+      "name": "Hurts 2B Human",
+      "link": "https://music.163.com/album?id=78703765"
+    }
+  },
+  {
+    "name": "Forget You",
+    "link": "https://music.163.com/song?id=566061139",
+    "duration": "03:05",
+    "artists": [
+      {
+        "name": "Melanie Wehbe",
+        "link": "https://music.163.com/artist?id=12086071"
+      }
+    ],
+    "album": {
+      "name": "Forget You",
+      "link": "https://music.163.com/album?id=39232119"
+    }
+  },
+  {
+    "name": "What Are We Waiting For?",
+    "link": "https://music.163.com/song?id=1481575953",
+    "duration": "03:20",
+    "artists": [
+      {
+        "name": "Ally Brooke",
+        "link": "https://music.163.com/artist?id=13080504"
+      },
+      { "name": "Afrojack", "link": "https://music.163.com/artist?id=28745" }
+    ],
+    "album": {
+      "name": "What Are We Waiting For?",
+      "link": "https://music.163.com/album?id=95827896"
+    }
+  },
+  {
+    "name": "**** It, I Love It!",
+    "link": "https://music.163.com/song?id=1445873259",
+    "duration": "02:42",
+    "artists": [
+      { "name": "ILIRA", "link": "https://music.163.com/artist?id=847380" }
+    ],
+    "album": {
+      "name": "**** It, I Love It!",
+      "link": "https://music.163.com/album?id=89006211"
+    }
+  },
+  {
+    "name": "Young",
+    "link": "https://music.163.com/song?id=1448434470",
+    "duration": "03:48",
+    "artists": [
+      {
+        "name": "亚哲大大",
+        "link": "https://music.163.com/artist?id=13607735"
+      },
+      {
+        "name": "Re_houseE",
+        "link": "https://music.163.com/artist?id=31320421"
+      }
+    ],
+    "album": {
+      "name": "Young",
+      "link": "https://music.163.com/album?id=89442425"
+    }
+  },
+  {
+    "name": "Talk You Down (feat. SYML) [Acoustic]",
+    "link": "https://music.163.com/song?id=1820866552",
+    "duration": "03:07",
+    "artists": [
+      {
+        "name": "Charlotte Lawrence",
+        "link": "https://music.163.com/artist?id=12335330"
+      },
+      { "name": "SYML", "link": "https://music.163.com/artist?id=12048173" }
+    ],
+    "album": {
+      "name": "Talk You Down (feat. SYML) [Acoustic]",
+      "link": "https://music.163.com/album?id=123146347"
+    }
+  },
+  {
+    "name": "Something Comforting",
+    "link": "https://music.163.com/song?id=1427889071",
+    "duration": "04:41",
+    "artists": [
+      {
+        "name": "Porter Robinson",
+        "link": "https://music.163.com/artist?id=185871"
+      }
+    ],
+    "album": {
+      "name": "Something Comforting",
+      "link": "https://music.163.com/album?id=86201532"
+    }
+  },
+  {
+    "name": "Fractal",
+    "link": "https://music.163.com/song?id=1393318072",
+    "duration": "05:17",
+    "artists": [
+      { "name": "Tinlicker", "link": "https://music.163.com/artist?id=742233" }
+    ],
+    "album": {
+      "name": "This Is Not Our Universe",
+      "link": "https://music.163.com/album?id=81940219"
+    }
+  },
+  {
+    "name": "Lie Like This",
+    "link": "https://music.163.com/song?id=1483911997",
+    "duration": "03:38",
+    "artists": [
+      {
+        "name": "Julia Michaels",
+        "link": "https://music.163.com/artist?id=12097049"
+      }
+    ],
+    "album": {
+      "name": "Lie Like This",
+      "link": "https://music.163.com/album?id=96253165"
+    }
+  },
+  {
+    "name": "Somebody",
+    "link": "https://music.163.com/song?id=1437478617",
+    "duration": "03:14",
+    "artists": [
+      { "name": "Dagny", "link": "https://music.163.com/artist?id=1156155" }
+    ],
+    "album": {
+      "name": "Somebody",
+      "link": "https://music.163.com/album?id=87597200"
+    }
+  },
+  {
+    "name": "Sound 4 U",
+    "link": "https://music.163.com/song?id=1403775873",
+    "duration": "03:15",
+    "artists": [
+      { "name": "EMBRZ", "link": "https://music.163.com/artist?id=1173001" }
+    ],
+    "album": {
+      "name": "Sound 4 U",
+      "link": "https://music.163.com/album?id=83406623"
+    }
+  },
+  {
+    "name": "No Regrets",
+    "link": "https://music.163.com/song?id=399340223",
+    "duration": "04:35",
+    "artists": [
+      {
+        "name": "Matt Vice",
+        "link": "https://music.163.com/artist?id=1182083"
+      },
+      {
+        "name": "Openwater",
+        "link": "https://music.163.com/artist?id=11971040"
+      }
+    ],
+    "album": {
+      "name": "No Regrets",
+      "link": "https://music.163.com/album?id=34401087"
+    }
+  },
+  {
+    "name": "Revive (Acoustic Version)",
+    "link": "https://music.163.com/song?id=1418431739",
+    "duration": "03:26",
+    "artists": [
+      { "name": "LIONE", "link": "https://music.163.com/artist?id=11986064" }
+    ],
+    "album": {
+      "name": "Revive (Acoustic Version)",
+      "link": "https://music.163.com/album?id=85167494"
+    }
+  },
+  {
+    "name": "FEAR;life",
+    "link": "https://music.163.com/song?id=1376681597",
+    "duration": "06:19",
+    "artists": [
+      { "name": "Cloudier", "link": "https://music.163.com/artist?id=31155350" }
+    ],
+    "album": {
+      "name": "FEAR;life",
+      "link": "https://music.163.com/album?id=80277312"
+    }
+  },
+  {
+    "name": "Enough",
+    "link": "https://music.163.com/song?id=1399983059",
+    "duration": "03:55",
+    "artists": [
+      { "name": "Glacier", "link": "https://music.163.com/artist?id=860352" }
+    ],
+    "album": {
+      "name": "Enough",
+      "link": "https://music.163.com/album?id=82844840"
+    }
+  },
+  {
+    "name": "So Long",
+    "link": "https://music.163.com/song?id=1439803847",
+    "duration": "03:08",
+    "artists": [
+      { "name": "LinG", "link": "https://music.163.com/artist?id=30692240" }
+    ],
+    "album": {
+      "name": "So Long",
+      "link": "https://music.163.com/album?id=87893650"
+    }
+  },
+  {
+    "name": "Days Of Our Youth",
+    "link": "https://music.163.com/song?id=1488934830",
+    "duration": "03:07",
+    "artists": [
+      { "name": "Caslow", "link": "https://music.163.com/artist?id=15109745" },
+      { "name": "Exede", "link": "https://music.163.com/artist?id=13059879" }
+    ],
+    "album": {
+      "name": "Days Of Our Youth",
+      "link": "https://music.163.com/album?id=97150601"
+    }
+  },
+  {
+    "name": "Adrenaline (Original Mix)",
+    "link": "https://music.163.com/song?id=565106196",
+    "duration": "03:26",
+    "artists": [
+      {
+        "name": "Brooke Williams",
+        "link": "https://music.163.com/artist?id=1060216"
+      }
+    ],
+    "album": {
+      "name": "Adrenaline",
+      "link": "https://music.163.com/album?id=39159132"
+    }
+  },
+  {
+    "name": "Please Don't Cry",
+    "link": "https://music.163.com/song?id=1344291727",
+    "duration": "03:47",
+    "artists": [
+      { "name": "LeBrock", "link": "https://music.163.com/artist?id=13970913" }
+    ],
+    "album": {
+      "name": "Real Thing (Remastered)",
+      "link": "https://music.163.com/album?id=75462145"
+    }
+  },
+  {
+    "name": "Don't Give Me A Reason",
+    "link": "https://music.163.com/song?id=1813006287",
+    "duration": "03:12",
+    "artists": [
+      {
+        "name": "Lazy Weekends",
+        "link": "https://music.163.com/artist?id=12046750"
+      }
+    ],
+    "album": {
+      "name": "Don't Give Me A Reason",
+      "link": "https://music.163.com/album?id=121806162"
+    }
+  },
+  {
+    "name": "Photograph",
+    "link": "https://music.163.com/song?id=1407710587",
+    "duration": "03:32",
+    "artists": [
+      { "name": "Ljung", "link": "https://music.163.com/artist?id=30618233" },
+      { "name": "Haneri", "link": "https://music.163.com/artist?id=12834932" }
+    ],
+    "album": {
+      "name": "Photograph",
+      "link": "https://music.163.com/album?id=83902254"
+    }
+  },
+  {
+    "name": "WeMoveForward",
+    "link": "https://music.163.com/song?id=28999942",
+    "duration": "08:07",
+    "artists": [
+      {
+        "name": "The Midnight",
+        "link": "https://music.163.com/artist?id=12023492"
+      }
+    ],
+    "album": {
+      "name": "Days of Thunder",
+      "link": "https://music.163.com/album?id=2976060"
+    }
+  },
+  {
+    "name": "Last Forever",
+    "link": "https://music.163.com/song?id=501475196",
+    "duration": "04:47",
+    "artists": [
+      { "name": "Sam Sparro", "link": "https://music.163.com/artist?id=42977" },
+      { "name": "Oliver", "link": "https://music.163.com/artist?id=12517" }
+    ],
+    "album": {
+      "name": "Full Circle",
+      "link": "https://music.163.com/album?id=36039201"
+    }
+  }
+]
