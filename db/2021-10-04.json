@@ -1,0 +1,494 @@
+[
+  {
+    "name": "End Of Us",
+    "link": "https://music.163.com/song?id=1866152807",
+    "duration": "03:00",
+    "artists": [
+      { "name": "N3wport", "link": "https://music.163.com/artist?id=12408098" },
+      {
+        "name": "Meggie York",
+        "link": "https://music.163.com/artist?id=31420777"
+      }
+    ],
+    "album": {
+      "name": "End Of Us",
+      "link": "https://music.163.com/album?id=131227387"
+    }
+  },
+  {
+    "name": "Deep End",
+    "link": "https://music.163.com/song?id=1813060516",
+    "duration": "03:28",
+    "artists": [
+      {
+        "name": "William Black",
+        "link": "https://music.163.com/artist?id=248957"
+      }
+    ],
+    "album": {
+      "name": "Deep End",
+      "link": "https://music.163.com/album?id=121811159"
+    }
+  },
+  {
+    "name": "Lovely Scars",
+    "link": "https://music.163.com/song?id=1831892131",
+    "duration": "04:21",
+    "artists": [
+      { "name": "AIKA", "link": "https://music.163.com/artist?id=12023360" }
+    ],
+    "album": {
+      "name": "Lovely Scars",
+      "link": "https://music.163.com/album?id=125017946"
+    }
+  },
+  {
+    "name": "My Friends",
+    "link": "https://music.163.com/song?id=1444903368",
+    "duration": "02:34",
+    "artists": [
+      { "name": "J. Lisk", "link": "https://music.163.com/artist?id=12121101" }
+    ],
+    "album": {
+      "name": "My Friends",
+      "link": "https://music.163.com/album?id=88771311"
+    }
+  },
+  {
+    "name": "10 Feet Down",
+    "link": "https://music.163.com/song?id=511332123",
+    "duration": "03:37",
+    "artists": [
+      { "name": "NF", "link": "https://music.163.com/artist?id=981155" },
+      { "name": "Ruelle", "link": "https://music.163.com/artist?id=1047114" }
+    ],
+    "album": {
+      "name": "Perception",
+      "link": "https://music.163.com/album?id=36493023"
+    }
+  },
+  {
+    "name": "don't forget to breathe today",
+    "link": "https://music.163.com/song?id=1434489566",
+    "duration": "04:07",
+    "artists": [
+      { "name": "San Holo", "link": "https://music.163.com/artist?id=1017035" }
+    ],
+    "album": {
+      "name": "stay vibrant",
+      "link": "https://music.163.com/album?id=87529295"
+    }
+  },
+  {
+    "name": "Chasin' The Sun",
+    "link": "https://music.163.com/song?id=1466942230",
+    "duration": "02:43",
+    "artists": [
+      {
+        "name": "Dash Berlin",
+        "link": "https://music.163.com/artist?id=32124"
+      },
+      {
+        "name": "Jess Ball",
+        "link": "https://music.163.com/artist?id=33784327"
+      }
+    ],
+    "album": {
+      "name": "Chasin' The Sun",
+      "link": "https://music.163.com/album?id=93219191"
+    }
+  },
+  {
+    "name": "Fading Wind",
+    "link": "https://music.163.com/song?id=1845904638",
+    "duration": "04:55",
+    "artists": [
+      { "name": "Feint", "link": "https://music.163.com/artist?id=93062" }
+    ],
+    "album": {
+      "name": "Fading Wind",
+      "link": "https://music.163.com/album?id=127593679"
+    }
+  },
+  {
+    "name": "Royalty",
+    "link": "https://music.163.com/song?id=1831401994",
+    "duration": "03:43",
+    "artists": [
+      { "name": "Egzod", "link": "https://music.163.com/artist?id=11970036" },
+      {
+        "name": "Maestro Chives",
+        "link": "https://music.163.com/artist?id=12191012"
+      },
+      { "name": "Neoni", "link": "https://music.163.com/artist?id=34392075" }
+    ],
+    "album": {
+      "name": "Royalty",
+      "link": "https://music.163.com/album?id=124876373"
+    }
+  },
+  {
+    "name": "My Kind Of Love",
+    "link": "https://music.163.com/song?id=1466615604",
+    "duration": "03:33",
+    "artists": [
+      { "name": "FEWZ", "link": "https://music.163.com/artist?id=12008133" },
+      { "name": "Chiara", "link": "https://music.163.com/artist?id=244583" }
+    ],
+    "album": {
+      "name": "My Kind Of Love",
+      "link": "https://music.163.com/album?id=93164756"
+    }
+  },
+  {
+    "name": "For the Best",
+    "link": "https://music.163.com/song?id=1417510570",
+    "duration": "03:28",
+    "artists": [
+      {
+        "name": "Transviolet",
+        "link": "https://music.163.com/artist?id=1122080"
+      }
+    ],
+    "album": {
+      "name": "Born to Rule",
+      "link": "https://music.163.com/album?id=85063242"
+    }
+  },
+  {
+    "name": "Nights Like That",
+    "link": "https://music.163.com/song?id=1474569664",
+    "duration": "03:12",
+    "artists": [
+      { "name": "BUNT.", "link": "https://music.163.com/artist?id=744145" },
+      {
+        "name": "Georgia Ku",
+        "link": "https://music.163.com/artist?id=14388929"
+      }
+    ],
+    "album": {
+      "name": "Nights Like That",
+      "link": "https://music.163.com/album?id=94597051"
+    }
+  },
+  {
+    "name": "Golden",
+    "link": "https://music.163.com/song?id=1815839233",
+    "duration": "04:09",
+    "artists": [
+      { "name": "Outwild", "link": "https://music.163.com/artist?id=1115191" },
+      {
+        "name": "She Is Jules",
+        "link": "https://music.163.com/artist?id=35435192"
+      }
+    ],
+    "album": {
+      "name": "Golden",
+      "link": "https://music.163.com/album?id=122276737"
+    }
+  },
+  {
+    "name": "happiness (Dyro Remix)",
+    "link": "https://music.163.com/song?id=1803773354",
+    "duration": "02:32",
+    "artists": [
+      { "name": "John K", "link": "https://music.163.com/artist?id=12931567" },
+      { "name": "Dyro", "link": "https://music.163.com/artist?id=330726" }
+    ],
+    "album": {
+      "name": "happiness (Dyro Remix)",
+      "link": "https://music.163.com/album?id=120357403"
+    }
+  },
+  {
+    "name": "Searching",
+    "link": "https://music.163.com/song?id=1409172902",
+    "duration": "03:08",
+    "artists": [
+      {
+        "name": "James Landino",
+        "link": "https://music.163.com/artist?id=12000060"
+      },
+      { "name": "Slyleaf", "link": "https://music.163.com/artist?id=12155045" }
+    ],
+    "album": {
+      "name": "Searching",
+      "link": "https://music.163.com/album?id=84057157"
+    }
+  },
+  {
+    "name": "Affection",
+    "link": "https://music.163.com/song?id=1301861949",
+    "duration": "04:13",
+    "artists": [
+      {
+        "name": "Said The Sky",
+        "link": "https://music.163.com/artist?id=1026094"
+      },
+      { "name": "Origami", "link": "https://music.163.com/artist?id=151298" },
+      {
+        "name": "Jack Newsome",
+        "link": "https://music.163.com/artist?id=29219108"
+      }
+    ],
+    "album": {
+      "name": "Wide-Eyed",
+      "link": "https://music.163.com/album?id=72316725"
+    }
+  },
+  {
+    "name": "Never Be",
+    "link": "https://music.163.com/song?id=1339331657",
+    "duration": "02:58",
+    "artists": [
+      {
+        "name": "Marin Hoxha",
+        "link": "https://music.163.com/artist?id=12474391"
+      }
+    ],
+    "album": {
+      "name": "Never Be",
+      "link": "https://music.163.com/album?id=75170698"
+    }
+  },
+  {
+    "name": "in a different light",
+    "link": "https://music.163.com/song?id=1431915032",
+    "duration": "02:53",
+    "artists": [
+      {
+        "name": "Tim Schaufert",
+        "link": "https://music.163.com/artist?id=12355110"
+      },
+      { "name": "Trove", "link": "https://music.163.com/artist?id=12390270" }
+    ],
+    "album": {
+      "name": "in a different light",
+      "link": "https://music.163.com/album?id=86608818"
+    }
+  },
+  {
+    "name": "23",
+    "link": "https://music.163.com/song?id=1458398560",
+    "duration": "04:28",
+    "artists": [
+      {
+        "name": "Diamond Eyes",
+        "link": "https://music.163.com/artist?id=292469"
+      }
+    ],
+    "album": { "name": "23", "link": "https://music.163.com/album?id=91564513" }
+  },
+  {
+    "name": "Don't Wanna Fall",
+    "link": "https://music.163.com/song?id=1820685318",
+    "duration": "03:51",
+    "artists": [
+      {
+        "name": "Seven Lions",
+        "link": "https://music.163.com/artist?id=44204"
+      },
+      {
+        "name": "Last Heroes",
+        "link": "https://music.163.com/artist?id=11987034"
+      },
+      { "name": "HALIENE", "link": "https://music.163.com/artist?id=13202710" }
+    ],
+    "album": {
+      "name": "Don't Wanna Fall (Xavi Remix)",
+      "link": "https://music.163.com/album?id=123123582"
+    }
+  },
+  {
+    "name": "Masked Raver",
+    "link": "https://music.163.com/song?id=440207015",
+    "duration": "04:43",
+    "artists": [
+      { "name": "Vexento", "link": "https://music.163.com/artist?id=12037010" }
+    ],
+    "album": {
+      "name": "Masked Raver",
+      "link": "https://music.163.com/album?id=34984014"
+    }
+  },
+  {
+    "name": "1983",
+    "link": "https://music.163.com/song?id=1485947146",
+    "duration": "02:39",
+    "artists": [
+      {
+        "name": "RetroVision",
+        "link": "https://music.163.com/artist?id=11976142"
+      }
+    ],
+    "album": {
+      "name": "1983",
+      "link": "https://music.163.com/album?id=96596840"
+    }
+  },
+  {
+    "name": "Callgirl",
+    "link": "https://music.163.com/song?id=1309434388",
+    "duration": "02:44",
+    "artists": [
+      {
+        "name": "Ivy Adara",
+        "link": "https://music.163.com/artist?id=12925126"
+      }
+    ],
+    "album": {
+      "name": "Intraduction",
+      "link": "https://music.163.com/album?id=73269495"
+    }
+  },
+  {
+    "name": "House With No Mirrors",
+    "link": "https://music.163.com/song?id=1473049710",
+    "duration": "03:47",
+    "artists": [
+      {
+        "name": "Sasha Alex Sloan",
+        "link": "https://music.163.com/artist?id=12646102"
+      }
+    ],
+    "album": {
+      "name": "House With No Mirrors",
+      "link": "https://music.163.com/album?id=94329839"
+    }
+  },
+  {
+    "name": "Follow You",
+    "link": "https://music.163.com/song?id=1835265185",
+    "duration": "04:00",
+    "artists": [
+      { "name": "MitiS", "link": "https://music.163.com/artist?id=40245" },
+      {
+        "name": "Rico & Miella",
+        "link": "https://music.163.com/artist?id=1050743"
+      }
+    ],
+    "album": {
+      "name": "Lost",
+      "link": "https://music.163.com/album?id=125636092"
+    }
+  },
+  {
+    "name": "Sunray",
+    "link": "https://music.163.com/song?id=1424954598",
+    "duration": "02:11",
+    "artists": [
+      { "name": "Cuebrick", "link": "https://music.163.com/artist?id=364737" }
+    ],
+    "album": {
+      "name": "Sunray",
+      "link": "https://music.163.com/album?id=85898330"
+    }
+  },
+  {
+    "name": "Echoes of Us",
+    "link": "https://music.163.com/song?id=512613534",
+    "duration": "03:50",
+    "artists": [
+      {
+        "name": "Jewelz & Sparks",
+        "link": "https://music.163.com/artist?id=947051"
+      },
+      {
+        "name": "Jess Thristan",
+        "link": "https://music.163.com/artist?id=14403469"
+      }
+    ],
+    "album": {
+      "name": "Echoes of Us",
+      "link": "https://music.163.com/album?id=36515070"
+    }
+  },
+  {
+    "name": "Burnin",
+    "link": "https://music.163.com/song?id=1490184021",
+    "duration": "02:55",
+    "artists": [
+      {
+        "name": "Petit Biscuit",
+        "link": "https://music.163.com/artist?id=1060063"
+      }
+    ],
+    "album": {
+      "name": "Burnin",
+      "link": "https://music.163.com/album?id=97365409"
+    }
+  },
+  {
+    "name": "I'm Not In Love",
+    "link": "https://music.163.com/song?id=1468302318",
+    "duration": "02:38",
+    "artists": [
+      { "name": "Valiant", "link": "https://music.163.com/artist?id=12369249" },
+      {
+        "name": "Scarlett O’Grady",
+        "link": "https://music.163.com/artist?id=36278398"
+      }
+    ],
+    "album": {
+      "name": "I'm Not In Love",
+      "link": "https://music.163.com/album?id=93462671"
+    }
+  },
+  {
+    "name": "Overnight",
+    "link": "https://music.163.com/song?id=1462334409",
+    "duration": "02:33",
+    "artists": [
+      { "name": "KVMO", "link": "https://music.163.com/artist?id=12430014" },
+      { "name": "Ostwolf", "link": "https://music.163.com/artist?id=12635281" },
+      {
+        "name": "Amy Peters",
+        "link": "https://music.163.com/artist?id=30291533"
+      }
+    ],
+    "album": {
+      "name": "Overnight",
+      "link": "https://music.163.com/album?id=92331158"
+    }
+  },
+  {
+    "name": "Cast Away",
+    "link": "https://music.163.com/song?id=1318708602",
+    "duration": "03:12",
+    "artists": [
+      { "name": "Ella Vos", "link": "https://music.163.com/artist?id=12121298" }
+    ],
+    "album": {
+      "name": "Watch & Wait",
+      "link": "https://music.163.com/album?id=74991484"
+    }
+  },
+  {
+    "name": "Away",
+    "link": "https://music.163.com/song?id=546723447",
+    "duration": "04:19",
+    "artists": [
+      { "name": "MitiS", "link": "https://music.163.com/artist?id=40245" },
+      { "name": "Gioto", "link": "https://music.163.com/artist?id=29581343" }
+    ],
+    "album": {
+      "name": "'Til the End",
+      "link": "https://music.163.com/album?id=37987085"
+    }
+  },
+  {
+    "name": "Wildest Dreams (Taylor's Version)",
+    "link": "https://music.163.com/song?id=1882637421",
+    "duration": "03:40",
+    "artists": [
+      {
+        "name": "Taylor Swift",
+        "link": "https://music.163.com/artist?id=44266"
+      }
+    ],
+    "album": {
+      "name": "Top Trending Romania - Vara 2021",
+      "link": "https://music.163.com/album?id=134019002"
+    }
+  }
+]
