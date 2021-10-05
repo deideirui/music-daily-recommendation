@@ -1,0 +1,530 @@
+[
+  {
+    "name": "What The Night Holds",
+    "link": "https://music.163.com/song?id=1863879498",
+    "duration": "03:13",
+    "artists": [
+      {
+        "name": "Jay Eskar",
+        "link": "https://music.163.com/artist?id=12132198"
+      },
+      { "name": "Rentz", "link": "https://music.163.com/artist?id=12628381" },
+      { "name": "AXYL", "link": "https://music.163.com/artist?id=31244261" }
+    ],
+    "album": {
+      "name": "What The Night Holds",
+      "link": "https://music.163.com/album?id=130841636"
+    }
+  },
+  {
+    "name": "Broken Pieces",
+    "link": "https://music.163.com/song?id=1866137291",
+    "duration": "03:31",
+    "artists": [
+      {
+        "name": "Dion Timmer",
+        "link": "https://music.163.com/artist?id=11998053"
+      },
+      { "name": "Excision", "link": "https://music.163.com/artist?id=33221" },
+      {
+        "name": "Monika Santucci",
+        "link": "https://music.163.com/artist?id=13989763"
+      }
+    ],
+    "album": {
+      "name": "Broken Pieces",
+      "link": "https://music.163.com/album?id=131224686"
+    }
+  },
+  {
+    "name": "In Memoriam",
+    "link": "https://music.163.com/song?id=1404629355",
+    "duration": "06:29",
+    "artists": [
+      {
+        "name": "Ben Böhmer",
+        "link": "https://music.163.com/artist?id=13080362"
+      }
+    ],
+    "album": {
+      "name": "Breathing",
+      "link": "https://music.163.com/album?id=83505116"
+    }
+  },
+  {
+    "name": "Holding On",
+    "link": "https://music.163.com/song?id=1415581032",
+    "duration": "03:37",
+    "artists": [
+      { "name": "Dabin", "link": "https://music.163.com/artist?id=783446" },
+      { "name": "Lowell", "link": "https://music.163.com/artist?id=434720" }
+    ],
+    "album": {
+      "name": "Holding On",
+      "link": "https://music.163.com/album?id=84880935"
+    }
+  },
+  {
+    "name": "Death from Above",
+    "link": "https://music.163.com/song?id=1846216983",
+    "duration": "03:41",
+    "artists": [
+      { "name": "Kotori", "link": "https://music.163.com/artist?id=12132340" }
+    ],
+    "album": {
+      "name": "Death from Above",
+      "link": "https://music.163.com/album?id=127668421"
+    }
+  },
+  {
+    "name": "One More Light (Steve Aoki Chester Forever Remix)",
+    "link": "https://music.163.com/song?id=515101533",
+    "duration": "04:10",
+    "artists": [
+      {
+        "name": "Linkin Park",
+        "link": "https://music.163.com/artist?id=95439"
+      },
+      { "name": "Steve Aoki", "link": "https://music.163.com/artist?id=43608" }
+    ],
+    "album": {
+      "name": "One More Light (Steve Aoki Chester Forever Remix)",
+      "link": "https://music.163.com/album?id=36592948"
+    }
+  },
+  {
+    "name": "Taste Like",
+    "link": "https://music.163.com/song?id=1822588467",
+    "duration": "02:22",
+    "artists": [
+      { "name": "Dropgun", "link": "https://music.163.com/artist?id=972015" },
+      {
+        "name": "Crushed Candy",
+        "link": "https://music.163.com/artist?id=46937540"
+      }
+    ],
+    "album": {
+      "name": "Taste Like",
+      "link": "https://music.163.com/album?id=123455944"
+    }
+  },
+  {
+    "name": "Dreamer",
+    "link": "https://music.163.com/song?id=1434132021",
+    "duration": "03:05",
+    "artists": [
+      { "name": "Axero", "link": "https://music.163.com/artist?id=1035020" },
+      {
+        "name": "Katie McConnell",
+        "link": "https://music.163.com/artist?id=29818086"
+      }
+    ],
+    "album": {
+      "name": "Dreamer",
+      "link": "https://music.163.com/album?id=86849367"
+    }
+  },
+  {
+    "name": "Breathe",
+    "link": "https://music.163.com/song?id=1825132084",
+    "duration": "03:39",
+    "artists": [
+      { "name": "Curbi", "link": "https://music.163.com/artist?id=1049915" }
+    ],
+    "album": {
+      "name": "Breathe",
+      "link": "https://music.163.com/album?id=123938471"
+    }
+  },
+  {
+    "name": "Light Years (feat. Nikki Flores)",
+    "link": "https://music.163.com/song?id=1382563369",
+    "duration": "05:21",
+    "artists": [
+      {
+        "name": "The Midnight",
+        "link": "https://music.163.com/artist?id=12023492"
+      }
+    ],
+    "album": {
+      "name": "Nocturnal",
+      "link": "https://music.163.com/album?id=80814887"
+    }
+  },
+  {
+    "name": "There's Only You (Crystal Skies Remix)",
+    "link": "https://music.163.com/song?id=1391013502",
+    "duration": "04:54",
+    "artists": [
+      {
+        "name": "Above & Beyond",
+        "link": "https://music.163.com/artist?id=85548"
+      },
+      {
+        "name": "Zoë Johnston",
+        "link": "https://music.163.com/artist?id=85283"
+      },
+      {
+        "name": "Crystal Skies",
+        "link": "https://music.163.com/artist?id=1063127"
+      }
+    ],
+    "album": {
+      "name": "There's Only You (The Remixes)",
+      "link": "https://music.163.com/album?id=81649128"
+    }
+  },
+  {
+    "name": "blame game.",
+    "link": "https://music.163.com/song?id=1860632366",
+    "duration": "03:16",
+    "artists": [
+      {
+        "name": "Phuture Noize",
+        "link": "https://music.163.com/artist?id=808091"
+      }
+    ],
+    "album": {
+      "name": "blame game.",
+      "link": "https://music.163.com/album?id=130242899"
+    }
+  },
+  {
+    "name": "Catch Me (feat. Molly Marrs)",
+    "link": "https://music.163.com/song?id=1809664532",
+    "duration": "03:49",
+    "artists": [
+      {
+        "name": "Nick Ledesma",
+        "link": "https://music.163.com/artist?id=12247032"
+      },
+      { "name": "Caslow", "link": "https://music.163.com/artist?id=15109745" },
+      {
+        "name": "Molly Marrs",
+        "link": "https://music.163.com/artist?id=32885617"
+      }
+    ],
+    "album": {
+      "name": "Catch Me (feat. Molly Marrs)",
+      "link": "https://music.163.com/album?id=121232759"
+    }
+  },
+  {
+    "name": "Throwback",
+    "link": "https://music.163.com/song?id=1338352431",
+    "duration": "03:46",
+    "artists": [
+      {
+        "name": "Delaney Jane",
+        "link": "https://music.163.com/artist?id=1132286"
+      },
+      {
+        "name": "Shaun Frank",
+        "link": "https://music.163.com/artist?id=844064"
+      }
+    ],
+    "album": {
+      "name": "Throwback",
+      "link": "https://music.163.com/album?id=75089907"
+    }
+  },
+  {
+    "name": "Unknown",
+    "link": "https://music.163.com/song?id=1813263550",
+    "duration": "03:56",
+    "artists": [
+      {
+        "name": "Dr. Ushūu",
+        "link": "https://music.163.com/artist?id=31823073"
+      }
+    ],
+    "album": {
+      "name": "New Colours Vol. 3",
+      "link": "https://music.163.com/album?id=121839787"
+    }
+  },
+  {
+    "name": "Shockwave",
+    "link": "https://music.163.com/song?id=1851221469",
+    "duration": "03:01",
+    "artists": [
+      {
+        "name": "Marshmello",
+        "link": "https://music.163.com/artist?id=1060019"
+      }
+    ],
+    "album": {
+      "name": "Shockwave",
+      "link": "https://music.163.com/album?id=128551827"
+    }
+  },
+  {
+    "name": "Spirals",
+    "link": "https://music.163.com/song?id=403711528",
+    "duration": "06:01",
+    "artists": [
+      { "name": "ILLENIUM", "link": "https://music.163.com/artist?id=1050518" },
+      {
+        "name": "Sound Remedy",
+        "link": "https://music.163.com/artist?id=777618"
+      },
+      {
+        "name": "Dana Salah",
+        "link": "https://music.163.com/artist?id=29433868"
+      }
+    ],
+    "album": {
+      "name": "Ashes",
+      "link": "https://music.163.com/album?id=34497141"
+    }
+  },
+  {
+    "name": "Fresh Static Snow",
+    "link": "https://music.163.com/song?id=473602434",
+    "duration": "02:22",
+    "artists": [
+      {
+        "name": "Porter Robinson",
+        "link": "https://music.163.com/artist?id=185871"
+      },
+      { "name": "Madeon", "link": "https://music.163.com/artist?id=40280" }
+    ],
+    "album": {
+      "name": "Shelter Live",
+      "link": "https://music.163.com/album?id=35377208"
+    }
+  },
+  {
+    "name": "Nothing But Love For You",
+    "link": "https://music.163.com/song?id=1816407235",
+    "duration": "03:24",
+    "artists": [
+      { "name": "Vicetone", "link": "https://music.163.com/artist?id=747030" },
+      {
+        "name": "Lena Leon",
+        "link": "https://music.163.com/artist?id=14537825"
+      }
+    ],
+    "album": {
+      "name": "Legacy",
+      "link": "https://music.163.com/album?id=122372498"
+    }
+  },
+  {
+    "name": "Starry Eyes (Steerner Remix)",
+    "link": "https://music.163.com/song?id=1359719100",
+    "duration": "02:57",
+    "artists": [
+      {
+        "name": "YOUNG BOMBS",
+        "link": "https://music.163.com/artist?id=1137360"
+      },
+      { "name": "Steerner", "link": "https://music.163.com/artist?id=783190" }
+    ],
+    "album": {
+      "name": "Starry Eyes (Remixes)",
+      "link": "https://music.163.com/album?id=78605203"
+    }
+  },
+  {
+    "name": "A Centimetre Apart [+ Vocal Stem]",
+    "link": "https://music.163.com/song?id=1361385004",
+    "duration": "04:29",
+    "artists": [
+      { "name": "Cloudier", "link": "https://music.163.com/artist?id=31155350" }
+    ],
+    "album": {
+      "name": "Our Story",
+      "link": "https://music.163.com/album?id=78783568"
+    }
+  },
+  {
+    "name": "Taking Over",
+    "link": "https://music.163.com/song?id=1363548740",
+    "duration": "02:27",
+    "artists": [
+      {
+        "name": "Edwin Klift",
+        "link": "https://music.163.com/artist?id=32117813"
+      },
+      { "name": "Nanna", "link": "https://music.163.com/artist?id=146774" }
+    ],
+    "album": {
+      "name": "Taking Over",
+      "link": "https://music.163.com/album?id=78953441"
+    }
+  },
+  {
+    "name": "Who Do You Love",
+    "link": "https://music.163.com/song?id=1401530824",
+    "duration": "03:46",
+    "artists": [
+      {
+        "name": "The Chainsmokers",
+        "link": "https://music.163.com/artist?id=893484"
+      },
+      {
+        "name": "5 Seconds of Summer",
+        "link": "https://music.163.com/artist?id=893624"
+      }
+    ],
+    "album": {
+      "name": "World War Joy",
+      "link": "https://music.163.com/album?id=83889813"
+    }
+  },
+  {
+    "name": "White Dress Black Dress",
+    "link": "https://music.163.com/song?id=1321439857",
+    "duration": "03:11",
+    "artists": [
+      {
+        "name": "Bellhouse",
+        "link": "https://music.163.com/artist?id=13465083"
+      }
+    ],
+    "album": {
+      "name": "White Dress Black Dress",
+      "link": "https://music.163.com/album?id=74155157"
+    }
+  },
+  {
+    "name": "Canyon",
+    "link": "https://music.163.com/song?id=532245543",
+    "duration": "02:59",
+    "artists": [
+      { "name": "暴君de", "link": "https://music.163.com/artist?id=12599289" }
+    ],
+    "album": {
+      "name": "Canyon",
+      "link": "https://music.163.com/album?id=37357216"
+    }
+  },
+  {
+    "name": "Sweater",
+    "link": "https://music.163.com/song?id=1431385848",
+    "duration": "02:56",
+    "artists": [
+      {
+        "name": "Tessa Odden",
+        "link": "https://music.163.com/artist?id=34567108"
+      }
+    ],
+    "album": {
+      "name": "Sweater",
+      "link": "https://music.163.com/album?id=86547964"
+    }
+  },
+  {
+    "name": "One Look (feat. Heather Sommer)",
+    "link": "https://music.163.com/song?id=1458679659",
+    "duration": "03:38",
+    "artists": [
+      {
+        "name": "Jason Ross",
+        "link": "https://music.163.com/artist?id=906123"
+      },
+      {
+        "name": "Heather Sommer",
+        "link": "https://music.163.com/artist?id=13134228"
+      }
+    ],
+    "album": {
+      "name": "One Look (feat. Heather Sommer)",
+      "link": "https://music.163.com/album?id=91628139"
+    }
+  },
+  {
+    "name": "Love Games",
+    "link": "https://music.163.com/song?id=1375491585",
+    "duration": "03:00",
+    "artists": [
+      {
+        "name": "Alex Parker",
+        "link": "https://music.163.com/artist?id=280735"
+      },
+      {
+        "name": "Olivia Addams",
+        "link": "https://music.163.com/artist?id=28657767"
+      }
+    ],
+    "album": {
+      "name": "Love Games",
+      "link": "https://music.163.com/album?id=80152372"
+    }
+  },
+  {
+    "name": "Leave Soon",
+    "link": "https://music.163.com/song?id=551335083",
+    "duration": "03:15",
+    "artists": [
+      {
+        "name": "Joshua Francois",
+        "link": "https://music.163.com/artist?id=12900061"
+      },
+      { "name": "ELKO", "link": "https://music.163.com/artist?id=476048" }
+    ],
+    "album": {
+      "name": "Leave Soon",
+      "link": "https://music.163.com/album?id=38274027"
+    }
+  },
+  {
+    "name": "Ocean Eyes",
+    "link": "https://music.163.com/song?id=529814866",
+    "duration": "02:58",
+    "artists": [
+      {
+        "name": "Jay Cosmic",
+        "link": "https://music.163.com/artist?id=1038196"
+      }
+    ],
+    "album": {
+      "name": "Ocean Eyes",
+      "link": "https://music.163.com/album?id=37254240"
+    }
+  },
+  {
+    "name": "仙都",
+    "link": "https://music.163.com/song?id=1365772407",
+    "duration": "05:19",
+    "artists": [
+      { "name": "窝乐队", "link": "https://music.163.com/artist?id=13156496" }
+    ],
+    "album": {
+      "name": "仙都",
+      "link": "https://music.163.com/album?id=79091201"
+    }
+  },
+  {
+    "name": "We Won't Leave You",
+    "link": "https://music.163.com/song?id=495542297",
+    "duration": "03:09",
+    "artists": [
+      {
+        "name": "Steve Void",
+        "link": "https://music.163.com/artist?id=12062200"
+      },
+      { "name": "Syence", "link": "https://music.163.com/artist?id=12233011" }
+    ],
+    "album": {
+      "name": "We Won't Leave You",
+      "link": "https://music.163.com/album?id=35878278"
+    }
+  },
+  {
+    "name": "Almost Forgot",
+    "link": "https://music.163.com/song?id=559342926",
+    "duration": "03:29",
+    "artists": [
+      {
+        "name": "Against the Current",
+        "link": "https://music.163.com/artist?id=783418"
+      }
+    ],
+    "album": {
+      "name": "Almost Forgot",
+      "link": "https://music.163.com/album?id=38691097"
+    }
+  }
+]
