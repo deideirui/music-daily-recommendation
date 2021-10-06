@@ -1,0 +1,502 @@
+[
+  {
+    "name": "Alone",
+    "link": "https://music.163.com/song?id=1853373763",
+    "duration": "04:14",
+    "artists": [
+      { "name": "Maduk", "link": "https://music.163.com/artist?id=361816" },
+      {
+        "name": "Marianna Ray",
+        "link": "https://music.163.com/artist?id=32477047"
+      }
+    ],
+    "album": {
+      "name": "Alone",
+      "link": "https://music.163.com/album?id=129035693"
+    }
+  },
+  {
+    "name": "Fall To My Grave",
+    "link": "https://music.163.com/song?id=1831452265",
+    "duration": "03:39",
+    "artists": [
+      {
+        "name": "ruindkid",
+        "link": "https://music.163.com/artist?id=47213388"
+      },
+      { "name": "SVRRIC", "link": "https://music.163.com/artist?id=31571695" },
+      {
+        "name": "Silent Child",
+        "link": "https://music.163.com/artist?id=33406241"
+      }
+    ],
+    "album": {
+      "name": "Fall To My Grave",
+      "link": "https://music.163.com/album?id=124894170"
+    }
+  },
+  {
+    "name": "Where You Are Now (feat. Dianna)",
+    "link": "https://music.163.com/song?id=1849890227",
+    "duration": "03:56",
+    "artists": [
+      { "name": "N3wport", "link": "https://music.163.com/artist?id=12408098" },
+      { "name": "Dianna", "link": "https://music.163.com/artist?id=31274224" }
+    ],
+    "album": {
+      "name": "Best Part Of Me EP",
+      "link": "https://music.163.com/album?id=128360736"
+    }
+  },
+  {
+    "name": "ARCADE NIGHT",
+    "link": "https://music.163.com/song?id=1862417932",
+    "duration": "03:59",
+    "artists": [
+      { "name": "AIKA", "link": "https://music.163.com/artist?id=12023360" },
+      {
+        "name": "Hikaru Station",
+        "link": "https://music.163.com/artist?id=12082087"
+      }
+    ],
+    "album": {
+      "name": "ARCADE NIGHT (feat. Hikaru Station)",
+      "link": "https://music.163.com/album?id=130563983"
+    }
+  },
+  {
+    "name": "Shattered",
+    "link": "https://music.163.com/song?id=1869598834",
+    "duration": "04:00",
+    "artists": [
+      {
+        "name": "Ace Aura",
+        "link": "https://music.163.com/artist?id=13533033"
+      },
+      { "name": "Nytrix", "link": "https://music.163.com/artist?id=11996010" }
+    ],
+    "album": {
+      "name": "Gem World EP",
+      "link": "https://music.163.com/album?id=131796368"
+    }
+  },
+  {
+    "name": "Without Me (ILLENIUM Remix)",
+    "link": "https://music.163.com/song?id=1329891159",
+    "duration": "04:08",
+    "artists": [
+      { "name": "Halsey", "link": "https://music.163.com/artist?id=964321" },
+      { "name": "ILLENIUM", "link": "https://music.163.com/artist?id=1050518" }
+    ],
+    "album": {
+      "name": "Without Me (ILLENIUM Remix)",
+      "link": "https://music.163.com/album?id=74685057"
+    }
+  },
+  {
+    "name": "Dreaming (feat. Danyka Nadeau)",
+    "link": "https://music.163.com/song?id=1876365389",
+    "duration": "05:01",
+    "artists": [
+      {
+        "name": "Virtual Riot",
+        "link": "https://music.163.com/artist?id=813244"
+      },
+      {
+        "name": "Danyka Nadeau",
+        "link": "https://music.163.com/artist?id=1078277"
+      }
+    ],
+    "album": {
+      "name": "Simulation",
+      "link": "https://music.163.com/album?id=132907606"
+    }
+  },
+  {
+    "name": "LEVITATE",
+    "link": "https://music.163.com/song?id=1499462797",
+    "duration": "02:51",
+    "artists": [
+      { "name": "REAPER", "link": "https://music.163.com/artist?id=33059351" },
+      { "name": "Syn", "link": "https://music.163.com/artist?id=75457" }
+    ],
+    "album": {
+      "name": "LEVITATE",
+      "link": "https://music.163.com/album?id=98943297"
+    }
+  },
+  {
+    "name": "in case i never see you again...",
+    "link": "https://music.163.com/song?id=1443546587",
+    "duration": "06:28",
+    "artists": [
+      { "name": "San Holo", "link": "https://music.163.com/artist?id=1017035" },
+      {
+        "name": "Analogue Dear",
+        "link": "https://music.163.com/artist?id=12467238"
+      }
+    ],
+    "album": {
+      "name": "stay vibrant",
+      "link": "https://music.163.com/album?id=87529295"
+    }
+  },
+  {
+    "name": "I Like It",
+    "link": "https://music.163.com/song?id=1500354628",
+    "duration": "02:20",
+    "artists": [
+      { "name": "J. Lisk", "link": "https://music.163.com/artist?id=12121101" }
+    ],
+    "album": {
+      "name": "I Like It",
+      "link": "https://music.163.com/album?id=99034971"
+    }
+  },
+  {
+    "name": "Forgotten",
+    "link": "https://music.163.com/song?id=1835265186",
+    "duration": "03:21",
+    "artists": [
+      { "name": "MitiS", "link": "https://music.163.com/artist?id=40245" },
+      {
+        "name": "Crystal Skies",
+        "link": "https://music.163.com/artist?id=1063127"
+      }
+    ],
+    "album": {
+      "name": "Lost",
+      "link": "https://music.163.com/album?id=125636092"
+    }
+  },
+  {
+    "name": "Endgame",
+    "link": "https://music.163.com/song?id=1828011482",
+    "duration": "04:26",
+    "artists": [
+      {
+        "name": "Bossfight",
+        "link": "https://music.163.com/artist?id=12262973"
+      }
+    ],
+    "album": {
+      "name": "Endgame",
+      "link": "https://music.163.com/album?id=124349982"
+    }
+  },
+  {
+    "name": "Worlds Apart",
+    "link": "https://music.163.com/song?id=30431250",
+    "duration": "06:16",
+    "artists": [
+      {
+        "name": "Seven Lions",
+        "link": "https://music.163.com/artist?id=44204"
+      },
+      { "name": "Kerli", "link": "https://music.163.com/artist?id=62916" }
+    ],
+    "album": {
+      "name": "Worlds Apart",
+      "link": "https://music.163.com/album?id=3098812"
+    }
+  },
+  {
+    "name": "Incoming",
+    "link": "https://music.163.com/song?id=1848695357",
+    "duration": "03:05",
+    "artists": [
+      {
+        "name": "Dr. Peacock",
+        "link": "https://music.163.com/artist?id=12278430"
+      },
+      { "name": "Sefa", "link": "https://music.163.com/artist?id=12533463" }
+    ],
+    "album": {
+      "name": "Frenchcore Worldwide 08",
+      "link": "https://music.163.com/album?id=128109533"
+    }
+  },
+  {
+    "name": "Remedy feat. Annie Schindel (ROY KNOX Remix)",
+    "link": "https://music.163.com/song?id=1862310127",
+    "duration": "03:40",
+    "artists": [
+      {
+        "name": "William Black",
+        "link": "https://music.163.com/artist?id=248957"
+      }
+    ],
+    "album": {
+      "name": "Remedy (Remixes)",
+      "link": "https://music.163.com/album?id=130547556"
+    }
+  },
+  {
+    "name": "Rain",
+    "link": "https://music.163.com/song?id=1488966498",
+    "duration": "02:54",
+    "artists": [
+      {
+        "name": "Papa Khan",
+        "link": "https://music.163.com/artist?id=13754578"
+      }
+    ],
+    "album": {
+      "name": "Blossom EP",
+      "link": "https://music.163.com/album?id=97162280"
+    }
+  },
+  {
+    "name": "Where Does Love Go",
+    "link": "https://music.163.com/song?id=1820931178",
+    "duration": "04:23",
+    "artists": [
+      {
+        "name": "Synymata",
+        "link": "https://music.163.com/artist?id=12031140"
+      },
+      { "name": "Elle Vee", "link": "https://music.163.com/artist?id=1046258" }
+    ],
+    "album": {
+      "name": "Where Does Love Go",
+      "link": "https://music.163.com/album?id=123170681"
+    }
+  },
+  {
+    "name": "All Me",
+    "link": "https://music.163.com/song?id=488647720",
+    "duration": "03:23",
+    "artists": [
+      { "name": "Conro", "link": "https://music.163.com/artist?id=1063229" }
+    ],
+    "album": {
+      "name": "Rocket League x Monstercat Vol. 1",
+      "link": "https://music.163.com/album?id=35644274"
+    }
+  },
+  {
+    "name": "Back 2 U",
+    "link": "https://music.163.com/song?id=1490286536",
+    "duration": "03:26",
+    "artists": [
+      { "name": "Droptek", "link": "https://music.163.com/artist?id=780045" }
+    ],
+    "album": {
+      "name": "Back 2 U",
+      "link": "https://music.163.com/album?id=97396380"
+    }
+  },
+  {
+    "name": "Fold",
+    "link": "https://music.163.com/song?id=1821160478",
+    "duration": "03:39",
+    "artists": [
+      {
+        "name": "Paper Skies",
+        "link": "https://music.163.com/artist?id=12523164"
+      },
+      { "name": "Sekai", "link": "https://music.163.com/artist?id=12073655" }
+    ],
+    "album": {
+      "name": "Fold",
+      "link": "https://music.163.com/album?id=123212980"
+    }
+  },
+  {
+    "name": "Destroy Me",
+    "link": "https://music.163.com/song?id=1821437352",
+    "duration": "04:00",
+    "artists": [
+      {
+        "name": "Bad Computer",
+        "link": "https://music.163.com/artist?id=12647410"
+      }
+    ],
+    "album": {
+      "name": "Destroy Me",
+      "link": "https://music.163.com/album?id=123269563"
+    }
+  },
+  {
+    "name": "Take Me Away",
+    "link": "https://music.163.com/song?id=1815246511",
+    "duration": "03:42",
+    "artists": [
+      { "name": "Stonebank", "link": "https://music.163.com/artist?id=938033" },
+      { "name": "Emel", "link": "https://music.163.com/artist?id=137565" }
+    ],
+    "album": {
+      "name": "Take Me Away",
+      "link": "https://music.163.com/album?id=122177045"
+    }
+  },
+  {
+    "name": "Joker",
+    "link": "https://music.163.com/song?id=1424022880",
+    "duration": "02:41",
+    "artists": [
+      {
+        "name": "Chester Young",
+        "link": "https://music.163.com/artist?id=13703846"
+      },
+      {
+        "name": "Jade City",
+        "link": "https://music.163.com/artist?id=12606603"
+      }
+    ],
+    "album": {
+      "name": "Joker",
+      "link": "https://music.163.com/album?id=85792857"
+    }
+  },
+  {
+    "name": "Medusa",
+    "link": "https://music.163.com/song?id=1823452946",
+    "duration": "04:06",
+    "artists": [
+      {
+        "name": "Pixel Terror",
+        "link": "https://music.163.com/artist?id=12901261"
+      },
+      { "name": "ESPER", "link": "https://music.163.com/artist?id=36895961" },
+      {
+        "name": "Isaiah Brown",
+        "link": "https://music.163.com/artist?id=13979152"
+      }
+    ],
+    "album": {
+      "name": "Medusa",
+      "link": "https://music.163.com/album?id=123632018"
+    }
+  },
+  {
+    "name": "Tech Noir",
+    "link": "https://music.163.com/song?id=40157302",
+    "duration": "04:57",
+    "artists": [
+      { "name": "GUNSHIP", "link": "https://music.163.com/artist?id=1124210" }
+    ],
+    "album": {
+      "name": "GUNSHIP",
+      "link": "https://music.163.com/album?id=3439370"
+    }
+  },
+  {
+    "name": "Particles",
+    "link": "https://music.163.com/song?id=1365158764",
+    "duration": "03:35",
+    "artists": [
+      { "name": "Xilent", "link": "https://music.163.com/artist?id=777701" }
+    ],
+    "album": {
+      "name": "We Are Dust",
+      "link": "https://music.163.com/album?id=79100873"
+    }
+  },
+  {
+    "name": "Capsize (Dzeko & Torres)",
+    "link": "https://music.163.com/song?id=439572648",
+    "duration": "02:53",
+    "artists": [
+      {
+        "name": "Frenship",
+        "link": "https://music.163.com/artist?id=12031244"
+      },
+      {
+        "name": "Emily Warren",
+        "link": "https://music.163.com/artist?id=12356790"
+      }
+    ],
+    "album": {
+      "name": "Capsize (Remixes)",
+      "link": "https://music.163.com/album?id=34970299"
+    }
+  },
+  {
+    "name": "Tell Me It's Okay",
+    "link": "https://music.163.com/song?id=1465383614",
+    "duration": "03:46",
+    "artists": [
+      { "name": "Fells", "link": "https://music.163.com/artist?id=57422" },
+      {
+        "name": "Kimmie Devereux",
+        "link": "https://music.163.com/artist?id=28142870"
+      }
+    ],
+    "album": {
+      "name": "Tell Me It's Okay",
+      "link": "https://music.163.com/album?id=92954313"
+    }
+  },
+  {
+    "name": "Think of Me",
+    "link": "https://music.163.com/song?id=1449430883",
+    "duration": "02:46",
+    "artists": [
+      {
+        "name": "Olivia Lunny",
+        "link": "https://music.163.com/artist?id=29994561"
+      }
+    ],
+    "album": {
+      "name": "Think of Me",
+      "link": "https://music.163.com/album?id=89682592"
+    }
+  },
+  {
+    "name": "Always or Never",
+    "link": "https://music.163.com/song?id=1383196152",
+    "duration": "03:30",
+    "artists": [
+      {
+        "name": "Vacation Club",
+        "link": "https://music.163.com/artist?id=29183282"
+      }
+    ],
+    "album": {
+      "name": "Always or Never",
+      "link": "https://music.163.com/album?id=80868751"
+    }
+  },
+  {
+    "name": "Okay",
+    "link": "https://music.163.com/song?id=1478007982",
+    "duration": "03:10",
+    "artists": [
+      { "name": "Streex", "link": "https://music.163.com/artist?id=12067132" }
+    ],
+    "album": {
+      "name": "Okay",
+      "link": "https://music.163.com/album?id=95188982"
+    }
+  },
+  {
+    "name": "Beautiful People (NOTD Remix)",
+    "link": "https://music.163.com/song?id=1383022905",
+    "duration": "02:42",
+    "artists": [
+      { "name": "Ed Sheeran", "link": "https://music.163.com/artist?id=33184" },
+      { "name": "Khalid", "link": "https://music.163.com/artist?id=301757" },
+      { "name": "NOTD", "link": "https://music.163.com/artist?id=12262306" }
+    ],
+    "album": {
+      "name": "Beautiful People (NOTD Remix)",
+      "link": "https://music.163.com/album?id=80851552"
+    }
+  },
+  {
+    "name": "will-ill - (TV动画《15周年 Code Geass 反逆的鲁鲁修》片尾曲)",
+    "link": "https://music.163.com/song?id=1880150692",
+    "duration": "05:09",
+    "artists": [
+      {
+        "name": "TK from 凛として時雨",
+        "link": "https://music.163.com/artist?id=159644"
+      }
+    ],
+    "album": {
+      "name": "will-ill",
+      "link": "https://music.163.com/album?id=133580098"
+    }
+  }
+]
