@@ -1,0 +1,520 @@
+[
+  {
+    "name": "u n eye",
+    "link": "https://music.163.com/song?id=1424617116",
+    "duration": "02:42",
+    "artists": [
+      {
+        "name": "Boy In Space",
+        "link": "https://music.163.com/artist?id=32086096"
+      }
+    ],
+    "album": {
+      "name": "u n eye",
+      "link": "https://music.163.com/album?id=85853042"
+    }
+  },
+  {
+    "name": "Hearts on Fire",
+    "link": "https://music.163.com/song?id=1860988926",
+    "duration": "03:56",
+    "artists": [
+      { "name": "ILLENIUM", "link": "https://music.163.com/artist?id=1050518" },
+      { "name": "Dabin", "link": "https://music.163.com/artist?id=783446" },
+      { "name": "Lights", "link": "https://music.163.com/artist?id=64226" }
+    ],
+    "album": {
+      "name": "Fallen Embers",
+      "link": "https://music.163.com/album?id=130311646"
+    }
+  },
+  {
+    "name": "Sweet Life",
+    "link": "https://music.163.com/song?id=1482080077",
+    "duration": "02:41",
+    "artists": [
+      {
+        "name": "Matisse & Sadko",
+        "link": "https://music.163.com/artist?id=947054"
+      }
+    ],
+    "album": {
+      "name": "Sweet Life",
+      "link": "https://music.163.com/album?id=95932175"
+    }
+  },
+  {
+    "name": "How U Like Me Now",
+    "link": "https://music.163.com/song?id=501220696",
+    "duration": "03:34",
+    "artists": [
+      { "name": "SAVOY", "link": "https://music.163.com/artist?id=794001" },
+      { "name": "Roniit", "link": "https://music.163.com/artist?id=74558" }
+    ],
+    "album": {
+      "name": "How U Like Me Now",
+      "link": "https://music.163.com/album?id=36031434"
+    }
+  },
+  {
+    "name": "Love Is Gone",
+    "link": "https://music.163.com/song?id=1821606626",
+    "duration": "02:54",
+    "artists": [
+      { "name": "Whales", "link": "https://music.163.com/artist?id=1084015" },
+      { "name": "Jo Cohen", "link": "https://music.163.com/artist?id=12041031" }
+    ],
+    "album": {
+      "name": "Love Is Gone",
+      "link": "https://music.163.com/album?id=123294267"
+    }
+  },
+  {
+    "name": "Talk to Me Like the Sea",
+    "link": "https://music.163.com/song?id=1310063728",
+    "duration": "04:33",
+    "artists": [
+      {
+        "name": "Softer Still",
+        "link": "https://music.163.com/artist?id=12073501"
+      }
+    ],
+    "album": {
+      "name": "Junipero",
+      "link": "https://music.163.com/album?id=73345146"
+    }
+  },
+  {
+    "name": "Erase Me",
+    "link": "https://music.163.com/song?id=1301861956",
+    "duration": "03:30",
+    "artists": [
+      {
+        "name": "Said The Sky",
+        "link": "https://music.163.com/artist?id=1026094"
+      }
+    ],
+    "album": {
+      "name": "Wide-Eyed",
+      "link": "https://music.163.com/album?id=72316725"
+    }
+  },
+  {
+    "name": "This is Us",
+    "link": "https://music.163.com/song?id=1423417557",
+    "duration": "03:25",
+    "artists": [
+      {
+        "name": "Jimmie Allen",
+        "link": "https://music.163.com/artist?id=30021162"
+      },
+      {
+        "name": "Noah Cyrus",
+        "link": "https://music.163.com/artist?id=12175271"
+      }
+    ],
+    "album": {
+      "name": "This is Us",
+      "link": "https://music.163.com/album?id=85738366"
+    }
+  },
+  {
+    "name": "All You Need To Know (Acoustic)",
+    "link": "https://music.163.com/song?id=1397227239",
+    "duration": "03:46",
+    "artists": [
+      { "name": "Gryffin", "link": "https://music.163.com/artist?id=1181504" },
+      { "name": "SLANDER", "link": "https://music.163.com/artist?id=1137239" },
+      {
+        "name": "Calle Lehmann",
+        "link": "https://music.163.com/artist?id=29313382"
+      }
+    ],
+    "album": {
+      "name": "All You Need To Know (Acoustic)",
+      "link": "https://music.163.com/album?id=82451929"
+    }
+  },
+  {
+    "name": "Apollo Road",
+    "link": "https://music.163.com/song?id=27760101",
+    "duration": "03:10",
+    "artists": [
+      { "name": "ATB", "link": "https://music.163.com/artist?id=27623" },
+      { "name": "Dash Berlin", "link": "https://music.163.com/artist?id=32124" }
+    ],
+    "album": {
+      "name": "#musicislife (#deluxe)",
+      "link": "https://music.163.com/album?id=2672403"
+    }
+  },
+  {
+    "name": "Underneath The Waves (feat. Monika Santucci)",
+    "link": "https://music.163.com/song?id=1431498410",
+    "duration": "04:04",
+    "artists": [
+      {
+        "name": "Last Heroes",
+        "link": "https://music.163.com/artist?id=11987034"
+      },
+      {
+        "name": "Monika Santucci",
+        "link": "https://music.163.com/artist?id=13989763"
+      }
+    ],
+    "album": {
+      "name": "Underneath The Waves (feat. Monika Santucci)",
+      "link": "https://music.163.com/album?id=86562170"
+    }
+  },
+  {
+    "name": "Flying In A Dream (RAM & Cari Remix)",
+    "link": "https://music.163.com/song?id=535342025",
+    "duration": "06:23",
+    "artists": [
+      { "name": "Etasonic", "link": "https://music.163.com/artist?id=777274" },
+      { "name": "Dany G", "link": "https://music.163.com/artist?id=1179133" },
+      { "name": "RAM", "link": "https://music.163.com/artist?id=73231" },
+      { "name": "Cari", "link": "https://music.163.com/artist?id=1132863" }
+    ],
+    "album": {
+      "name": "Flying in a Dream (RAM & Cari Remix)",
+      "link": "https://music.163.com/album?id=37505350"
+    }
+  },
+  {
+    "name": "Hold On To Your Heart (Daniel Kandi Radio Edit)",
+    "link": "https://music.163.com/song?id=415126685",
+    "duration": "04:28",
+    "artists": [
+      { "name": "LTN", "link": "https://music.163.com/artist?id=191742" },
+      {
+        "name": "Christina Novelli",
+        "link": "https://music.163.com/artist?id=840292"
+      },
+      {
+        "name": "Daniel Kandi",
+        "link": "https://music.163.com/artist?id=32478"
+      }
+    ],
+    "album": {
+      "name": "People I'll Never Forget (Remixes)",
+      "link": "https://music.163.com/album?id=34726016"
+    }
+  },
+  {
+    "name": "One That Got Away (with Dylan Matthew)",
+    "link": "https://music.163.com/song?id=1418381607",
+    "duration": "03:35",
+    "artists": [
+      {
+        "name": "Jason Ross",
+        "link": "https://music.163.com/artist?id=906123"
+      },
+      { "name": "Dabin", "link": "https://music.163.com/artist?id=783446" },
+      {
+        "name": "Dylan Matthew",
+        "link": "https://music.163.com/artist?id=28684353"
+      }
+    ],
+    "album": {
+      "name": "1000 Faces",
+      "link": "https://music.163.com/album?id=85158537"
+    }
+  },
+  {
+    "name": "See You Again",
+    "link": "https://music.163.com/song?id=1467949073",
+    "duration": "04:29",
+    "artists": [
+      {
+        "name": "Jerber lazaro",
+        "link": "https://music.163.com/artist?id=35988640"
+      }
+    ],
+    "album": {
+      "name": "See You Again",
+      "link": "https://music.163.com/album?id=93391086"
+    }
+  },
+  {
+    "name": "One",
+    "link": "https://music.163.com/song?id=1326037333",
+    "duration": "02:44",
+    "artists": [
+      {
+        "name": "Axel Johansson",
+        "link": "https://music.163.com/artist?id=12872604"
+      }
+    ],
+    "album": {
+      "name": "One",
+      "link": "https://music.163.com/album?id=74442476"
+    }
+  },
+  {
+    "name": "Paradise",
+    "link": "https://music.163.com/song?id=1491113728",
+    "duration": "02:47",
+    "artists": [
+      { "name": "Meduza", "link": "https://music.163.com/artist?id=136629" },
+      {
+        "name": "Dermot Kennedy",
+        "link": "https://music.163.com/artist?id=12451157"
+      }
+    ],
+    "album": {
+      "name": "Paradise",
+      "link": "https://music.163.com/album?id=97577318"
+    }
+  },
+  {
+    "name": "Le Le Le Go",
+    "link": "https://music.163.com/song?id=1407959857",
+    "duration": "02:40",
+    "artists": [
+      {
+        "name": "Lucas Estrada",
+        "link": "https://music.163.com/artist?id=12409125"
+      },
+      {
+        "name": "Alex Schulz",
+        "link": "https://music.163.com/artist?id=1101039"
+      },
+      { "name": "NEIMY", "link": "https://music.163.com/artist?id=12742289" }
+    ],
+    "album": {
+      "name": "Le Le Let Go",
+      "link": "https://music.163.com/album?id=83935437"
+    }
+  },
+  {
+    "name": "We'll Meet Again (Instrumental)",
+    "link": "https://music.163.com/song?id=1457772408",
+    "duration": "03:15",
+    "artists": [
+      {
+        "name": "TheFatRat",
+        "link": "https://music.163.com/artist?id=1019952"
+      },
+      {
+        "name": "Laura Brehm",
+        "link": "https://music.163.com/artist?id=207693"
+      }
+    ],
+    "album": {
+      "name": "We'll Meet Again",
+      "link": "https://music.163.com/album?id=91437445"
+    }
+  },
+  {
+    "name": "Lost And All Alone",
+    "link": "https://music.163.com/song?id=1820702889",
+    "duration": "02:56",
+    "artists": [
+      { "name": "RiTon_", "link": "https://music.163.com/artist?id=13284555" }
+    ],
+    "album": {
+      "name": "Lost And All Alone",
+      "link": "https://music.163.com/album?id=123064730"
+    }
+  },
+  {
+    "name": "Never Over (feat. Michi)",
+    "link": "https://music.163.com/song?id=509135896",
+    "duration": "02:36",
+    "artists": [
+      { "name": "BEAUZ", "link": "https://music.163.com/artist?id=49376939" },
+      { "name": "Michi", "link": "https://music.163.com/artist?id=12390142" }
+    ],
+    "album": {
+      "name": "Never Over (feat. Michi)",
+      "link": "https://music.163.com/album?id=36412220"
+    }
+  },
+  {
+    "name": "Over & Over (feat. XELA)",
+    "link": "https://music.163.com/song?id=1809674775",
+    "duration": "03:33",
+    "artists": [
+      {
+        "name": "Nick Ledesma",
+        "link": "https://music.163.com/artist?id=12247032"
+      },
+      { "name": "XELA", "link": "https://music.163.com/artist?id=31814123" }
+    ],
+    "album": {
+      "name": "Over & Over (EP)",
+      "link": "https://music.163.com/album?id=121233412"
+    }
+  },
+  {
+    "name": "Light",
+    "link": "https://music.163.com/song?id=1402394088",
+    "duration": "03:47",
+    "artists": [
+      { "name": "N3wport", "link": "https://music.163.com/artist?id=12408098" },
+      { "name": "Dianna", "link": "https://music.163.com/artist?id=31274224" }
+    ],
+    "album": {
+      "name": "Light",
+      "link": "https://music.163.com/album?id=83179153"
+    }
+  },
+  {
+    "name": "You Can Be My Light (feat. Monika Santucci)",
+    "link": "https://music.163.com/song?id=1468127181",
+    "duration": "04:28",
+    "artists": [
+      { "name": "Trivecta", "link": "https://music.163.com/artist?id=954338" },
+      { "name": "Nurko", "link": "https://music.163.com/artist?id=11991089" },
+      {
+        "name": "Monika Santucci",
+        "link": "https://music.163.com/artist?id=13989763"
+      }
+    ],
+    "album": {
+      "name": "You Can Be My Light (feat. Monika Santucci)",
+      "link": "https://music.163.com/album?id=93432000"
+    }
+  },
+  {
+    "name": "Northern Lights Everything (Dave' Sonar 3am. Mashup)",
+    "link": "https://music.163.com/song?id=524083366",
+    "duration": "07:04",
+    "artists": [
+      {
+        "name": "Danny Claire",
+        "link": "https://music.163.com/artist?id=208076"
+      },
+      { "name": "Tucandeo", "link": "https://music.163.com/artist?id=302985" },
+      {
+        "name": "Sunbrothers",
+        "link": "https://music.163.com/artist?id=11996233"
+      }
+    ],
+    "album": {
+      "name": "Uplifting Only Top 15: December 2017",
+      "link": "https://music.163.com/album?id=36894652"
+    }
+  },
+  {
+    "name": "星芒(Feat.洛天依)",
+    "link": "https://music.163.com/song?id=1378626275",
+    "duration": "04:30",
+    "artists": [
+      {
+        "name": "HawkLegend",
+        "link": "https://music.163.com/artist?id=12272947"
+      }
+    ],
+    "album": {
+      "name": "星芒(Feat.洛天依)",
+      "link": "https://music.163.com/album?id=80420008"
+    }
+  },
+  {
+    "name": "Feels Like a Dream",
+    "link": "https://music.163.com/song?id=1363342114",
+    "duration": "04:19",
+    "artists": [
+      { "name": "Awakend", "link": "https://music.163.com/artist?id=13049055" },
+      { "name": "Luma", "link": "https://music.163.com/artist?id=211460" },
+      { "name": "Herrin", "link": "https://music.163.com/artist?id=12279436" }
+    ],
+    "album": {
+      "name": "Feels Like a Dream",
+      "link": "https://music.163.com/album?id=78935903"
+    }
+  },
+  {
+    "name": "Children",
+    "link": "https://music.163.com/song?id=1361394480",
+    "duration": "02:38",
+    "artists": [
+      { "name": "MATTN", "link": "https://music.163.com/artist?id=12061029" },
+      { "name": "Klaas", "link": "https://music.163.com/artist?id=106210" },
+      {
+        "name": "Roland Clark",
+        "link": "https://music.163.com/artist?id=130164"
+      }
+    ],
+    "album": {
+      "name": "Children",
+      "link": "https://music.163.com/album?id=78783617"
+    }
+  },
+  {
+    "name": "All Over Again (Extended Mix)",
+    "link": "https://music.163.com/song?id=489506072",
+    "duration": "07:53",
+    "artists": [
+      {
+        "name": "Bryan Kearney",
+        "link": "https://music.163.com/artist?id=148763"
+      },
+      { "name": "Plumb", "link": "https://music.163.com/artist?id=71153" }
+    ],
+    "album": {
+      "name": "All Over Again",
+      "link": "https://music.163.com/album?id=35696820"
+    }
+  },
+  {
+    "name": "方向",
+    "link": "https://music.163.com/song?id=1413428742",
+    "duration": "04:27",
+    "artists": [
+      {
+        "name": "SVATOX（草莓）",
+        "link": "https://music.163.com/artist?id=28420021"
+      }
+    ],
+    "album": {
+      "name": "The way forward-S",
+      "link": "https://music.163.com/album?id=84601465"
+    }
+  },
+  {
+    "name": "Gamle Dager",
+    "link": "https://music.163.com/song?id=1435830084",
+    "duration": "03:05",
+    "artists": [
+      {
+        "name": "Morgan Sulele",
+        "link": "https://music.163.com/artist?id=1085061"
+      },
+      {
+        "name": "Måns Zelmerlöw",
+        "link": "https://music.163.com/artist?id=38903"
+      }
+    ],
+    "album": {
+      "name": "Gamle Dager",
+      "link": "https://music.163.com/album?id=87122921"
+    }
+  },
+  {
+    "name": "Lust For Life (The Avener Rework)",
+    "link": "https://music.163.com/song?id=501491063",
+    "duration": "04:12",
+    "artists": [
+      {
+        "name": "Lana Del Rey",
+        "link": "https://music.163.com/artist?id=66212"
+      },
+      {
+        "name": "The Weeknd",
+        "link": "https://music.163.com/artist?id=185858"
+      },
+      {
+        "name": "The Avener",
+        "link": "https://music.163.com/artist?id=1015501"
+      }
+    ],
+    "album": {
+      "name": "Lust For Life (The Avener Rework)",
+      "link": "https://music.163.com/album?id=36039294"
+    }
+  }
+]
