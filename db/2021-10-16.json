@@ -1,0 +1,472 @@
+[
+  {
+    "name": "Seasons",
+    "link": "https://music.163.com/song?id=1313014216",
+    "duration": "04:08",
+    "artists": [
+      { "name": "Rival", "link": "https://music.163.com/artist?id=12741030" },
+      { "name": "Cadmium", "link": "https://music.163.com/artist?id=12945908" },
+      {
+        "name": "Harley Bird",
+        "link": "https://music.163.com/artist?id=12355691"
+      }
+    ],
+    "album": {
+      "name": "Seasons",
+      "link": "https://music.163.com/album?id=73633326"
+    }
+  },
+  {
+    "name": "Crazy",
+    "link": "https://music.163.com/song?id=1340143947",
+    "duration": "03:08",
+    "artists": [
+      { "name": "BEAUZ", "link": "https://music.163.com/artist?id=12131436" },
+      { "name": "JVNA", "link": "https://music.163.com/artist?id=28692563" }
+    ],
+    "album": {
+      "name": "Crazy",
+      "link": "https://music.163.com/album?id=75206414"
+    }
+  },
+  {
+    "name": "Never Gonna Let You",
+    "link": "https://music.163.com/song?id=533471294",
+    "duration": "03:17",
+    "artists": [
+      { "name": "Galavant", "link": "https://music.163.com/artist?id=858132" },
+      { "name": "Dafina", "link": "https://music.163.com/artist?id=13551498" },
+      { "name": "Max S", "link": "https://music.163.com/artist?id=13551005" }
+    ],
+    "album": {
+      "name": "Signs EP",
+      "link": "https://music.163.com/album?id=37422499"
+    }
+  },
+  {
+    "name": "Free Fall (Kompany Remix)",
+    "link": "https://music.163.com/song?id=573577436",
+    "duration": "03:05",
+    "artists": [
+      { "name": "ILLENIUM", "link": "https://music.163.com/artist?id=1050518" },
+      { "name": "Kompany", "link": "https://music.163.com/artist?id=12000027" },
+      { "name": "RUNN", "link": "https://music.163.com/artist?id=15237536" }
+    ],
+    "album": {
+      "name": "Awake (Remixes)",
+      "link": "https://music.163.com/album?id=39721087"
+    }
+  },
+  {
+    "name": "Come Alive",
+    "link": "https://music.163.com/song?id=508319111",
+    "duration": "03:00",
+    "artists": [
+      { "name": "Jase", "link": "https://music.163.com/artist?id=247435" },
+      { "name": "Ariel Pe", "link": "https://music.163.com/artist?id=29148340" }
+    ],
+    "album": {
+      "name": "Come Alive",
+      "link": "https://music.163.com/album?id=36303229"
+    }
+  },
+  {
+    "name": "Rear View Mirror",
+    "link": "https://music.163.com/song?id=1415738531",
+    "duration": "02:45",
+    "artists": [
+      { "name": "WATEVA", "link": "https://music.163.com/artist?id=12475726" }
+    ],
+    "album": {
+      "name": "Rear View Mirror",
+      "link": "https://music.163.com/album?id=84894209"
+    }
+  },
+  {
+    "name": "Stacy",
+    "link": "https://music.163.com/song?id=1384361802",
+    "duration": "02:48",
+    "artists": [
+      {
+        "name": "Quinn XCII",
+        "link": "https://music.163.com/artist?id=12043047"
+      }
+    ],
+    "album": {
+      "name": "Stacy (Original + Acoustic)",
+      "link": "https://music.163.com/album?id=80963866"
+    }
+  },
+  {
+    "name": "Every Little Piece",
+    "link": "https://music.163.com/song?id=1392122040",
+    "duration": "03:02",
+    "artists": [
+      {
+        "name": "Michael Schulte",
+        "link": "https://music.163.com/artist?id=40222"
+      }
+    ],
+    "album": {
+      "name": "Highs & Lows",
+      "link": "https://music.163.com/album?id=81791622"
+    }
+  },
+  {
+    "name": "Where Do We Go (VIP)",
+    "link": "https://music.163.com/song?id=1410330948",
+    "duration": "04:01",
+    "artists": [
+      { "name": "Mazare", "link": "https://music.163.com/artist?id=29718513" },
+      { "name": "RUNN", "link": "https://music.163.com/artist?id=15237536" }
+    ],
+    "album": {
+      "name": "Where Do We Go (VIP)",
+      "link": "https://music.163.com/album?id=84172169"
+    }
+  },
+  {
+    "name": "Where You Are",
+    "link": "https://music.163.com/song?id=28678526",
+    "duration": "04:44",
+    "artists": [
+      { "name": "First State", "link": "https://music.163.com/artist?id=92742" }
+    ],
+    "album": {
+      "name": "Full Circle",
+      "link": "https://music.163.com/album?id=2877091"
+    }
+  },
+  {
+    "name": "爱恋之夏",
+    "link": "https://music.163.com/song?id=1385849454",
+    "duration": "02:48",
+    "artists": [
+      {
+        "name": "Psyke (赛克）",
+        "link": "https://music.163.com/artist?id=27863138"
+      },
+      { "name": "黄鹤Miah", "link": "https://music.163.com/artist?id=168011" }
+    ],
+    "album": {
+      "name": "爱恋之夏",
+      "link": "https://music.163.com/album?id=81057032"
+    }
+  },
+  {
+    "name": "Skyforth",
+    "link": "https://music.163.com/song?id=488641757",
+    "duration": "03:20",
+    "artists": [
+      { "name": "Ephixa", "link": "https://music.163.com/artist?id=205684" }
+    ],
+    "album": {
+      "name": "Rocket League x Monstercat Vol. 1",
+      "link": "https://music.163.com/album?id=35644274"
+    }
+  },
+  {
+    "name": "Small Talk (feat. Moonessa)",
+    "link": "https://music.163.com/song?id=1385563785",
+    "duration": "03:40",
+    "artists": [
+      {
+        "name": "Max Oazo",
+        "link": "https://music.163.com/artist?id=13159084"
+      },
+      { "name": "Moonessa", "link": "https://music.163.com/artist?id=29834706" }
+    ],
+    "album": {
+      "name": "Close to Me",
+      "link": "https://music.163.com/album?id=81063266"
+    }
+  },
+  {
+    "name": "Someone Else",
+    "link": "https://music.163.com/song?id=1487418187",
+    "duration": "03:46",
+    "artists": [
+      {
+        "name": "Sullivan King",
+        "link": "https://music.163.com/artist?id=1032439"
+      }
+    ],
+    "album": {
+      "name": "Someone Else",
+      "link": "https://music.163.com/album?id=96864029"
+    }
+  },
+  {
+    "name": "Glide",
+    "link": "https://music.163.com/song?id=571315121",
+    "duration": "03:16",
+    "artists": [
+      {
+        "name": "Stephen Walking",
+        "link": "https://music.163.com/artist?id=101860"
+      }
+    ],
+    "album": {
+      "name": "Glide",
+      "link": "https://music.163.com/album?id=39586571"
+    }
+  },
+  {
+    "name": "Next Time Around",
+    "link": "https://music.163.com/song?id=1453179573",
+    "duration": "02:55",
+    "artists": [
+      {
+        "name": "Hailey Benedict",
+        "link": "https://music.163.com/artist?id=35412187"
+      }
+    ],
+    "album": {
+      "name": "Next Time Around",
+      "link": "https://music.163.com/album?id=90381999"
+    }
+  },
+  {
+    "name": "Mercenary",
+    "link": "https://music.163.com/song?id=1483373454",
+    "duration": "03:39",
+    "artists": [
+      { "name": "F.O.O.L", "link": "https://music.163.com/artist?id=93082" },
+      {
+        "name": "Power Glove",
+        "link": "https://music.163.com/artist?id=392103"
+      }
+    ],
+    "album": {
+      "name": "Mercenary",
+      "link": "https://music.163.com/album?id=96147338"
+    }
+  },
+  {
+    "name": "Junction Seven",
+    "link": "https://music.163.com/song?id=412016809",
+    "duration": "05:05",
+    "artists": [
+      { "name": "Muzz", "link": "https://music.163.com/artist?id=158046" }
+    ],
+    "album": {
+      "name": "F Minor Factory EP",
+      "link": "https://music.163.com/album?id=34678634"
+    }
+  },
+  {
+    "name": "Gloxinia",
+    "link": "https://music.163.com/song?id=1821918070",
+    "duration": "03:38",
+    "artists": [
+      { "name": "Xomu", "link": "https://music.163.com/artist?id=12903205" },
+      {
+        "name": "mitsune微音",
+        "link": "https://music.163.com/artist?id=36455212"
+      }
+    ],
+    "album": {
+      "name": "Gloxinia",
+      "link": "https://music.163.com/album?id=123342977"
+    }
+  },
+  {
+    "name": "Fantasy",
+    "link": "https://music.163.com/song?id=1311319695",
+    "duration": "03:19",
+    "artists": [
+      { "name": "Ennex", "link": "https://music.163.com/artist?id=1089100" },
+      {
+        "name": "STORYBOARDS",
+        "link": "https://music.163.com/artist?id=12048019"
+      }
+    ],
+    "album": {
+      "name": "The Fairytale Collection | Chapter 2",
+      "link": "https://music.163.com/album?id=73467811"
+    }
+  },
+  {
+    "name": "Farewell Forever (Original Mix)",
+    "link": "https://music.163.com/song?id=489997842",
+    "duration": "09:27",
+    "artists": [
+      { "name": "Etasonic", "link": "https://music.163.com/artist?id=777274" }
+    ],
+    "album": {
+      "name": "Farewell Forever",
+      "link": "https://music.163.com/album?id=35745211"
+    }
+  },
+  {
+    "name": "All Time Low",
+    "link": "https://music.163.com/song?id=461544312",
+    "duration": "03:21",
+    "artists": [
+      {
+        "name": "Kurt Hugo Schneider",
+        "link": "https://music.163.com/artist?id=37962"
+      },
+      { "name": "Sam Tsui", "link": "https://music.163.com/artist?id=43722" },
+      {
+        "name": "Casey Breves",
+        "link": "https://music.163.com/artist?id=1086079"
+      }
+    ],
+    "album": {
+      "name": "All Time Low",
+      "link": "https://music.163.com/album?id=35196325"
+    }
+  },
+  {
+    "name": "What Else Is There To Love",
+    "link": "https://music.163.com/song?id=1374281536",
+    "duration": "03:31",
+    "artists": [
+      { "name": "Aurosonic", "link": "https://music.163.com/artist?id=86532" },
+      { "name": "Bote", "link": "https://music.163.com/artist?id=33351875" },
+      {
+        "name": "Neev Kennedy",
+        "link": "https://music.163.com/artist?id=191532"
+      }
+    ],
+    "album": {
+      "name": "What Else Is There To Love",
+      "link": "https://music.163.com/album?id=80025677"
+    }
+  },
+  {
+    "name": "Hurricane (J Lisk Remix)",
+    "link": "https://music.163.com/song?id=35448603",
+    "duration": "03:17",
+    "artists": [
+      { "name": "J. Lisk", "link": "https://music.163.com/artist?id=12121101" },
+      {
+        "name": "Danny Darko",
+        "link": "https://music.163.com/artist?id=334526"
+      }
+    ],
+    "album": {
+      "name": "Hurricane (J Lisk Remix)",
+      "link": "https://music.163.com/album?id=3332086"
+    }
+  },
+  {
+    "name": "In Sleep",
+    "link": "https://music.163.com/song?id=21024826",
+    "duration": "04:57",
+    "artists": [
+      { "name": "Lissie", "link": "https://music.163.com/artist?id=66028" }
+    ],
+    "album": {
+      "name": "Catching A Tiger",
+      "link": "https://music.163.com/album?id=1946009"
+    }
+  },
+  {
+    "name": "Read My Lips",
+    "link": "https://music.163.com/song?id=432506485",
+    "duration": "03:46",
+    "artists": [
+      { "name": "King Deco", "link": "https://music.163.com/artist?id=908182" }
+    ],
+    "album": {
+      "name": "Read My Lips",
+      "link": "https://music.163.com/album?id=34898325"
+    }
+  },
+  {
+    "name": "Lost Soul (Daniel Kandi Remix)",
+    "link": "https://music.163.com/song?id=414980826",
+    "duration": "06:53",
+    "artists": [
+      { "name": "NoMosk", "link": "https://music.163.com/artist?id=344521" },
+      {
+        "name": "Roman Messer",
+        "link": "https://music.163.com/artist?id=905394"
+      },
+      {
+        "name": "Christina Novelli",
+        "link": "https://music.163.com/artist?id=840292"
+      },
+      {
+        "name": "Daniel Kandi",
+        "link": "https://music.163.com/artist?id=32478"
+      }
+    ],
+    "album": {
+      "name": "Lost Soul (Remixed)",
+      "link": "https://music.163.com/album?id=34721316"
+    }
+  },
+  {
+    "name": "lift me from the ground",
+    "link": "https://music.163.com/song?id=1310005013",
+    "duration": "04:20",
+    "artists": [
+      { "name": "San Holo", "link": "https://music.163.com/artist?id=1017035" },
+      {
+        "name": "Sofie Winterson",
+        "link": "https://music.163.com/artist?id=912087"
+      }
+    ],
+    "album": {
+      "name": "album1",
+      "link": "https://music.163.com/album?id=73335204"
+    }
+  },
+  {
+    "name": "梦回古城(feat. 洛天依)",
+    "link": "https://music.163.com/song?id=1363408289",
+    "duration": "03:30",
+    "artists": [
+      {
+        "name": "HopeBoy阳花",
+        "link": "https://music.163.com/artist?id=12851419"
+      }
+    ],
+    "album": {
+      "name": "梦回古城(feat. 洛天依)",
+      "link": "https://music.163.com/album?id=78536302"
+    }
+  },
+  {
+    "name": "Young And Beautiful",
+    "link": "https://music.163.com/song?id=28299268",
+    "duration": "03:58",
+    "artists": [
+      {
+        "name": "Lana Del Rey",
+        "link": "https://music.163.com/artist?id=66212"
+      }
+    ],
+    "album": {
+      "name": "Triple J Hottest 100 Vol 21",
+      "link": "https://music.163.com/album?id=2769818"
+    }
+  },
+  {
+    "name": "Fairytale",
+    "link": "https://music.163.com/song?id=1332157070",
+    "duration": "03:34",
+    "artists": [
+      { "name": "8bite", "link": "https://music.163.com/artist?id=12606242" }
+    ],
+    "album": {
+      "name": "Fairytale",
+      "link": "https://music.163.com/album?id=74789509"
+    }
+  },
+  {
+    "name": "On the Dance Floor",
+    "link": "https://music.163.com/song?id=1305992101",
+    "duration": "03:23",
+    "artists": [
+      { "name": "Max Oazo", "link": "https://music.163.com/artist?id=13159084" }
+    ],
+    "album": {
+      "name": "On the Dance Floor",
+      "link": "https://music.163.com/album?id=72768971"
+    }
+  }
+]
