@@ -1,0 +1,500 @@
+[
+  {
+    "name": "Nicknames",
+    "link": "https://music.163.com/song?id=1433256980",
+    "duration": "03:06",
+    "artists": [
+      {
+        "name": "Walk off the Earth",
+        "link": "https://music.163.com/artist?id=105493"
+      },
+      { "name": "gnash", "link": "https://music.163.com/artist?id=1137226" }
+    ],
+    "album": {
+      "name": "Nicknames",
+      "link": "https://music.163.com/album?id=86761684"
+    }
+  },
+  {
+    "name": "Body Back",
+    "link": "https://music.163.com/song?id=1397616467",
+    "duration": "03:34",
+    "artists": [
+      { "name": "Gryffin", "link": "https://music.163.com/artist?id=1181504" },
+      {
+        "name": "Maia Wright",
+        "link": "https://music.163.com/artist?id=12561660"
+      }
+    ],
+    "album": {
+      "name": "Gravity",
+      "link": "https://music.163.com/album?id=82692723"
+    }
+  },
+  {
+    "name": "Younger",
+    "link": "https://music.163.com/song?id=1388966395",
+    "duration": "03:14",
+    "artists": [
+      {
+        "name": "Jonas Blue",
+        "link": "https://music.163.com/artist?id=1192069"
+      },
+      { "name": "HRVY", "link": "https://music.163.com/artist?id=12501125" }
+    ],
+    "album": {
+      "name": "Younger",
+      "link": "https://music.163.com/album?id=81397638"
+    }
+  },
+  {
+    "name": "Breathe",
+    "link": "https://music.163.com/song?id=1350633321",
+    "duration": "03:37",
+    "artists": [
+      {
+        "name": "Tommee Profitt",
+        "link": "https://music.163.com/artist?id=28975"
+      },
+      { "name": "Fleurie", "link": "https://music.163.com/artist?id=860929" }
+    ],
+    "album": {
+      "name": "Cinematic Songs (Vol. 2)",
+      "link": "https://music.163.com/album?id=75797023"
+    }
+  },
+  {
+    "name": "Warrior",
+    "link": "https://music.163.com/song?id=1813469968",
+    "duration": "02:34",
+    "artists": [
+      { "name": "RYLLZ", "link": "https://music.163.com/artist?id=30616392" }
+    ],
+    "album": {
+      "name": "Warrior",
+      "link": "https://music.163.com/album?id=121869830"
+    }
+  },
+  {
+    "name": "Elon Trust",
+    "link": "https://music.163.com/song?id=1825276109",
+    "duration": "04:02",
+    "artists": [
+      {
+        "name": "Extra Terra",
+        "link": "https://music.163.com/artist?id=1116244"
+      },
+      {
+        "name": "Max Brhon",
+        "link": "https://music.163.com/artist?id=32906516"
+      }
+    ],
+    "album": {
+      "name": "Elon Trust",
+      "link": "https://music.163.com/album?id=123963236"
+    }
+  },
+  {
+    "name": "Sweet Memories",
+    "link": "https://music.163.com/song?id=1383794030",
+    "duration": "04:18",
+    "artists": [
+      { "name": "Couple N", "link": "https://music.163.com/artist?id=29832422" }
+    ],
+    "album": {
+      "name": "Love Is",
+      "link": "https://music.163.com/album?id=80893036"
+    }
+  },
+  {
+    "name": "Intergalactic Journey",
+    "link": "https://music.163.com/song?id=1806148521",
+    "duration": "03:23",
+    "artists": [
+      {
+        "name": "Alan Morris",
+        "link": "https://music.163.com/artist?id=193174"
+      }
+    ],
+    "album": {
+      "name": "Intergalactic Journey",
+      "link": "https://music.163.com/album?id=120724835"
+    }
+  },
+  {
+    "name": "Dance",
+    "link": "https://music.163.com/song?id=1809316257",
+    "duration": "03:05",
+    "artists": [
+      {
+        "name": "Teductive",
+        "link": "https://music.163.com/artist?id=14871185"
+      },
+      { "name": "PRMGH", "link": "https://music.163.com/artist?id=13477295" },
+      {
+        "name": "Ririn Tampoma",
+        "link": "https://music.163.com/artist?id=31767307"
+      }
+    ],
+    "album": {
+      "name": "Dance",
+      "link": "https://music.163.com/album?id=121174997"
+    }
+  },
+  {
+    "name": "Galaxies",
+    "link": "https://music.163.com/song?id=17706519",
+    "duration": "04:03",
+    "artists": [
+      { "name": "Owl City", "link": "https://music.163.com/artist?id=40859" }
+    ],
+    "album": {
+      "name": "All Things Bright And Beautiful",
+      "link": "https://music.163.com/album?id=1627900"
+    }
+  },
+  {
+    "name": "Mirror",
+    "link": "https://music.163.com/song?id=1839137993",
+    "duration": "05:06",
+    "artists": [
+      {
+        "name": "Porter Robinson",
+        "link": "https://music.163.com/artist?id=185871"
+      }
+    ],
+    "album": {
+      "name": "Nurture",
+      "link": "https://music.163.com/album?id=126338915"
+    }
+  },
+  {
+    "name": "Ain't Nothing Like It",
+    "link": "https://music.163.com/song?id=1348835834",
+    "duration": "02:46",
+    "artists": [
+      { "name": "KLYMVX", "link": "https://music.163.com/artist?id=1149091" }
+    ],
+    "album": {
+      "name": "Ain't Nothing Like It",
+      "link": "https://music.163.com/album?id=75717310"
+    }
+  },
+  {
+    "name": "Hours",
+    "link": "https://music.163.com/song?id=571315124",
+    "duration": "03:02",
+    "artists": [
+      {
+        "name": "soupandreas",
+        "link": "https://music.163.com/artist?id=12107723"
+      },
+      { "name": "Inverness", "link": "https://music.163.com/artist?id=216883" }
+    ],
+    "album": {
+      "name": "Hours",
+      "link": "https://music.163.com/album?id=39587453"
+    }
+  },
+  {
+    "name": "Across the World (Extended Mix)",
+    "link": "https://music.163.com/song?id=437605397",
+    "duration": "06:47",
+    "artists": [
+      {
+        "name": "Chris Metcalfe",
+        "link": "https://music.163.com/artist?id=1087595"
+      },
+      {
+        "name": "Amy Kirkpatrick",
+        "link": "https://music.163.com/artist?id=1101071"
+      }
+    ],
+    "album": {
+      "name": "Across the World (Extended Mix)",
+      "link": "https://music.163.com/album?id=34944402"
+    }
+  },
+  {
+    "name": "Holding Your Tongue",
+    "link": "https://music.163.com/song?id=505446038",
+    "duration": "02:22",
+    "artists": [
+      {
+        "name": "Terror Jr",
+        "link": "https://music.163.com/artist?id=12031048"
+      }
+    ],
+    "album": {
+      "name": "Holding Your Tongue",
+      "link": "https://music.163.com/album?id=36167284"
+    }
+  },
+  {
+    "name": "I Wish I Never Met You",
+    "link": "https://music.163.com/song?id=1403597982",
+    "duration": "02:59",
+    "artists": [
+      { "name": "Oh Wonder", "link": "https://music.163.com/artist?id=1050128" }
+    ],
+    "album": {
+      "name": "No One Else Can Wear Your Crown",
+      "link": "https://music.163.com/album?id=85538401"
+    }
+  },
+  {
+    "name": "U (Bryan Kearney Remix)",
+    "link": "https://music.163.com/song?id=28362314",
+    "duration": "07:46",
+    "artists": [
+      {
+        "name": "Gareth Emery",
+        "link": "https://music.163.com/artist?id=34318"
+      },
+      { "name": "Bo Bruce", "link": "https://music.163.com/artist?id=50877" }
+    ],
+    "album": { "name": "U", "link": "https://music.163.com/album?id=2779680" }
+  },
+  {
+    "name": "Kick It",
+    "link": "https://music.163.com/song?id=1444471566",
+    "duration": "02:58",
+    "artists": [
+      { "name": "Dither", "link": "https://music.163.com/artist?id=759406" }
+    ],
+    "album": {
+      "name": "Kick It",
+      "link": "https://music.163.com/album?id=88729850"
+    }
+  },
+  {
+    "name": "My Gravity (Extended Mix)",
+    "link": "https://music.163.com/song?id=1386038288",
+    "duration": "05:14",
+    "artists": [
+      {
+        "name": "Allen Watts",
+        "link": "https://music.163.com/artist?id=839122"
+      },
+      {
+        "name": "Christina Novelli",
+        "link": "https://music.163.com/artist?id=840292"
+      }
+    ],
+    "album": {
+      "name": "My Gravity",
+      "link": "https://music.163.com/album?id=80601806"
+    }
+  },
+  {
+    "name": "Stronger (Original Mix)",
+    "link": "https://music.163.com/song?id=1415025863",
+    "duration": "03:55",
+    "artists": [
+      { "name": "Malice", "link": "https://music.163.com/artist?id=66747" }
+    ],
+    "album": {
+      "name": "Stronger",
+      "link": "https://music.163.com/album?id=84808500"
+    }
+  },
+  {
+    "name": "You Don't Know Me",
+    "link": "https://music.163.com/song?id=1311300227",
+    "duration": "02:27",
+    "artists": [
+      { "name": "Ofenbach", "link": "https://music.163.com/artist?id=1137428" },
+      {
+        "name": "Brodie Barclay",
+        "link": "https://music.163.com/artist?id=14155041"
+      }
+    ],
+    "album": {
+      "name": "Chill Vibes (Feel Good Music : Deep House & Electro Pop Tunes)",
+      "link": "https://music.163.com/album?id=73464148"
+    }
+  },
+  {
+    "name": "Party Don't Stop",
+    "link": "https://music.163.com/song?id=1442915955",
+    "duration": "03:21",
+    "artists": [
+      {
+        "name": "Venom hardtek",
+        "link": "https://music.163.com/artist?id=27864887"
+      },
+      {
+        "name": "Fortanoiza",
+        "link": "https://music.163.com/artist?id=30928907"
+      }
+    ],
+    "album": {
+      "name": "Party Don't Stop",
+      "link": "https://music.163.com/album?id=88440707"
+    }
+  },
+  {
+    "name": "Creep",
+    "link": "https://music.163.com/song?id=485612576",
+    "duration": "02:55",
+    "artists": [
+      {
+        "name": "Gamper & Dadoni",
+        "link": "https://music.163.com/artist?id=1085102"
+      },
+      {
+        "name": "Ember Island",
+        "link": "https://music.163.com/artist?id=1100001"
+      }
+    ],
+    "album": {
+      "name": "Creep",
+      "link": "https://music.163.com/album?id=35644823"
+    }
+  },
+  {
+    "name": "Please Don't Have Somebody Else",
+    "link": "https://music.163.com/song?id=37906426",
+    "duration": "04:10",
+    "artists": [
+      {
+        "name": "Madeline Juno",
+        "link": "https://music.163.com/artist?id=896584"
+      }
+    ],
+    "album": {
+      "name": "Salvation",
+      "link": "https://music.163.com/album?id=3424121"
+    }
+  },
+  {
+    "name": "Manifest",
+    "link": "https://music.163.com/song?id=1472222270",
+    "duration": "03:14",
+    "artists": [
+      {
+        "name": "Pegboard Nerds",
+        "link": "https://music.163.com/artist?id=205700"
+      },
+      {
+        "name": "More Plastic",
+        "link": "https://music.163.com/artist?id=1177056"
+      }
+    ],
+    "album": {
+      "name": "Manifest / Together",
+      "link": "https://music.163.com/album?id=94167573"
+    }
+  },
+  {
+    "name": "Gold Skies (Elephante Remix)",
+    "link": "https://music.163.com/song?id=31381283",
+    "duration": "04:37",
+    "artists": [
+      {
+        "name": "Elephante",
+        "link": "https://music.163.com/artist?id=1050284"
+      },
+      {
+        "name": "Sander van Doorn",
+        "link": "https://music.163.com/artist?id=43878"
+      },
+      {
+        "name": "Martin Garrix",
+        "link": "https://music.163.com/artist?id=780003"
+      },
+      { "name": "DVBBS", "link": "https://music.163.com/artist?id=820029" }
+    ],
+    "album": {
+      "name": "Gold Skies (Elephante Remix)",
+      "link": "https://music.163.com/album?id=3111696"
+    }
+  },
+  {
+    "name": "Fuel to Fire",
+    "link": "https://music.163.com/song?id=863675976",
+    "duration": "05:28",
+    "artists": [
+      { "name": "Agnes Obel", "link": "https://music.163.com/artist?id=48093" }
+    ],
+    "album": {
+      "name": "Aventine (Deluxe Version)",
+      "link": "https://music.163.com/album?id=71709106"
+    }
+  },
+  {
+    "name": "The Sign",
+    "link": "https://music.163.com/song?id=529768998",
+    "duration": "03:53",
+    "artists": [
+      { "name": "暴君de", "link": "https://music.163.com/artist?id=12599289" }
+    ],
+    "album": {
+      "name": "The Sign",
+      "link": "https://music.163.com/album?id=37224284"
+    }
+  },
+  {
+    "name": "Rise Again (Omnia Radio Edit)",
+    "link": "https://music.163.com/song?id=28011098",
+    "duration": "03:39",
+    "artists": [
+      {
+        "name": "Ronski Speed",
+        "link": "https://music.163.com/artist?id=42372"
+      },
+      {
+        "name": "Lucy Saunders",
+        "link": "https://music.163.com/artist?id=177924"
+      }
+    ],
+    "album": {
+      "name": "Vocal Trance Gems Volume 3",
+      "link": "https://music.163.com/album?id=2712393"
+    }
+  },
+  {
+    "name": "Killing Giants (feat. Richard Caddock)",
+    "link": "https://music.163.com/song?id=438803453",
+    "duration": "04:01",
+    "artists": [
+      { "name": "Puppet", "link": "https://music.163.com/artist?id=152355" },
+      {
+        "name": "Richard Caddock",
+        "link": "https://music.163.com/artist?id=1084247"
+      }
+    ],
+    "album": {
+      "name": "Killing Giants (feat. Richard Caddock)",
+      "link": "https://music.163.com/album?id=34962121"
+    }
+  },
+  {
+    "name": "Stars Falling Down",
+    "link": "https://music.163.com/song?id=2912528",
+    "duration": "02:41",
+    "artists": [
+      {
+        "name": "Kina Grannis",
+        "link": "https://music.163.com/artist?id=63706"
+      }
+    ],
+    "album": {
+      "name": "Stairwells",
+      "link": "https://music.163.com/album?id=294026"
+    }
+  },
+  {
+    "name": "Rise Up (feat. Vamero)",
+    "link": "https://music.163.com/song?id=1444322447",
+    "duration": "03:02",
+    "artists": [
+      { "name": "VINAI", "link": "https://music.163.com/artist?id=804422" },
+      { "name": "Vamero", "link": "https://music.163.com/artist?id=35007849" }
+    ],
+    "album": {
+      "name": "Rise Up (feat. Vamero)",
+      "link": "https://music.163.com/album?id=88700163"
+    }
+  }
+]
