@@ -1,0 +1,446 @@
+[
+  {
+    "name": "Go Flex",
+    "link": "https://music.163.com/song?id=557602900",
+    "duration": "03:13",
+    "artists": [
+      { "name": "Oysang", "link": "https://music.163.com/artist?id=12864052" }
+    ],
+    "album": {
+      "name": "Go Flex",
+      "link": "https://music.163.com/album?id=38586650"
+    }
+  },
+  {
+    "name": "I'll Be There",
+    "link": "https://music.163.com/song?id=1410358801",
+    "duration": "03:13",
+    "artists": [
+      { "name": "Rumsky", "link": "https://music.163.com/artist?id=32766283" },
+      { "name": "Mabryx", "link": "https://music.163.com/artist?id=29780708" }
+    ],
+    "album": {
+      "name": "I'll Be There",
+      "link": "https://music.163.com/album?id=84179469"
+    }
+  },
+  {
+    "name": "Driveway",
+    "link": "https://music.163.com/song?id=493551134",
+    "duration": "03:28",
+    "artists": [
+      { "name": "Culpriit", "link": "https://music.163.com/artist?id=12615017" }
+    ],
+    "album": {
+      "name": "Driveway",
+      "link": "https://music.163.com/album?id=35848073"
+    }
+  },
+  {
+    "name": "Answers (feat. Nina)",
+    "link": "https://music.163.com/song?id=470573626",
+    "duration": "02:54",
+    "artists": [
+      {
+        "name": "Dennis Kruissen",
+        "link": "https://music.163.com/artist?id=1155152"
+      }
+    ],
+    "album": {
+      "name": "Answers",
+      "link": "https://music.163.com/album?id=35346123"
+    }
+  },
+  {
+    "name": "Should I Wait (Armin van Buuren presents Rising Star Remix)",
+    "link": "https://music.163.com/song?id=1845361634",
+    "duration": "03:27",
+    "artists": [
+      {
+        "name": "Armin van Buuren",
+        "link": "https://music.163.com/artist?id=27621"
+      },
+      { "name": "Avalan", "link": "https://music.163.com/artist?id=33503346" },
+      {
+        "name": "Rising Star",
+        "link": "https://music.163.com/artist?id=151177"
+      }
+    ],
+    "album": {
+      "name": "Should I Wait (Armin van Buuren presents Rising Star Remix)",
+      "link": "https://music.163.com/album?id=127476969"
+    }
+  },
+  {
+    "name": "Funny",
+    "link": "https://music.163.com/song?id=1462389947",
+    "duration": "03:41",
+    "artists": [
+      { "name": "Zedd", "link": "https://music.163.com/artist?id=46376" },
+      {
+        "name": "Jasmine Thompson",
+        "link": "https://music.163.com/artist?id=863042"
+      }
+    ],
+    "album": {
+      "name": "Funny",
+      "link": "https://music.163.com/album?id=92342653"
+    }
+  },
+  {
+    "name": "All of You",
+    "link": "https://music.163.com/song?id=1324035458",
+    "duration": "03:25",
+    "artists": [
+      {
+        "name": "Prince paris",
+        "link": "https://music.163.com/artist?id=574147"
+      },
+      {
+        "name": "Beau Collins",
+        "link": "https://music.163.com/artist?id=12192231"
+      }
+    ],
+    "album": {
+      "name": "All of You",
+      "link": "https://music.163.com/album?id=74323065"
+    }
+  },
+  {
+    "name": "Make A Move",
+    "link": "https://music.163.com/song?id=1344438011",
+    "duration": "03:09",
+    "artists": [
+      {
+        "name": "EMMA WAHLIN",
+        "link": "https://music.163.com/artist?id=29426733"
+      }
+    ],
+    "album": {
+      "name": "Make A Move",
+      "link": "https://music.163.com/album?id=75470738"
+    }
+  },
+  {
+    "name": "Outta Mind",
+    "link": "https://music.163.com/song?id=1321722298",
+    "duration": "03:21",
+    "artists": [
+      {
+        "name": "Angelika Vee",
+        "link": "https://music.163.com/artist?id=904230"
+      },
+      { "name": "Dave202", "link": "https://music.163.com/artist?id=131661" }
+    ],
+    "album": {
+      "name": "Ibiza After Season",
+      "link": "https://music.163.com/album?id=74176170"
+    }
+  },
+  {
+    "name": "Never Get to Hold You",
+    "link": "https://music.163.com/song?id=32785526",
+    "duration": "04:13",
+    "artists": [
+      {
+        "name": "Carly Rae Jepsen",
+        "link": "https://music.163.com/artist?id=50934"
+      }
+    ],
+    "album": {
+      "name": "E•MO•TION (Deluxe)",
+      "link": "https://music.163.com/album?id=3159689"
+    }
+  },
+  {
+    "name": "Live Our Fantasies",
+    "link": "https://music.163.com/song?id=1374308807",
+    "duration": "02:44",
+    "artists": [
+      { "name": "Kelde", "link": "https://music.163.com/artist?id=456780" }
+    ],
+    "album": {
+      "name": "Live Our Fantasies",
+      "link": "https://music.163.com/album?id=80027989"
+    }
+  },
+  {
+    "name": "Pluto",
+    "link": "https://music.163.com/song?id=423314153",
+    "duration": "03:48",
+    "artists": [
+      { "name": "Jim Yosef", "link": "https://music.163.com/artist?id=1063121" }
+    ],
+    "album": {
+      "name": "Ninety9lives 93: Finish Him",
+      "link": "https://music.163.com/album?id=34790313"
+    }
+  },
+  {
+    "name": "Lay It Down",
+    "link": "https://music.163.com/song?id=1860988296",
+    "duration": "04:24",
+    "artists": [
+      { "name": "ILLENIUM", "link": "https://music.163.com/artist?id=1050518" },
+      { "name": "Krewella", "link": "https://music.163.com/artist?id=208915" },
+      { "name": "SLANDER", "link": "https://music.163.com/artist?id=1137239" }
+    ],
+    "album": {
+      "name": "Fallen Embers",
+      "link": "https://music.163.com/album?id=130311646"
+    }
+  },
+  {
+    "name": "Space",
+    "link": "https://music.163.com/song?id=499465427",
+    "duration": "02:48",
+    "artists": [
+      { "name": "Famba", "link": "https://music.163.com/artist?id=12121068" }
+    ],
+    "album": {
+      "name": "Space",
+      "link": "https://music.163.com/album?id=35903619"
+    }
+  },
+  {
+    "name": "Intentions",
+    "link": "https://music.163.com/song?id=1390540945",
+    "duration": "03:24",
+    "artists": [
+      { "name": "Duumu", "link": "https://music.163.com/artist?id=12007367" },
+      { "name": "GLNNA", "link": "https://music.163.com/artist?id=28693365" }
+    ],
+    "album": {
+      "name": "Talk!",
+      "link": "https://music.163.com/album?id=81598270"
+    }
+  },
+  {
+    "name": "Too Close",
+    "link": "https://music.163.com/song?id=1412691681",
+    "duration": "02:56",
+    "artists": [
+      {
+        "name": "Cally Rhodes",
+        "link": "https://music.163.com/artist?id=12603359"
+      }
+    ],
+    "album": {
+      "name": "Too Close",
+      "link": "https://music.163.com/album?id=84576016"
+    }
+  },
+  {
+    "name": "All Or Nothing",
+    "link": "https://music.163.com/song?id=1459352818",
+    "duration": "03:39",
+    "artists": [
+      { "name": "Vaance", "link": "https://music.163.com/artist?id=13160077" },
+      {
+        "name": "Meggie York",
+        "link": "https://music.163.com/artist?id=31420777"
+      }
+    ],
+    "album": {
+      "name": "All Or Nothing",
+      "link": "https://music.163.com/album?id=91770794"
+    }
+  },
+  {
+    "name": "Ghost (Oliver Nelson Remix)",
+    "link": "https://music.163.com/song?id=28684506",
+    "duration": "05:04",
+    "artists": [
+      {
+        "name": "Ella Henderson",
+        "link": "https://music.163.com/artist?id=906141"
+      }
+    ],
+    "album": {
+      "name": "Ghost (Remixes)",
+      "link": "https://music.163.com/album?id=2866390"
+    }
+  },
+  {
+    "name": "Happy Ending",
+    "link": "https://music.163.com/song?id=525958561",
+    "duration": "03:06",
+    "artists": [
+      { "name": "Shift334", "link": "https://music.163.com/artist?id=12258221" }
+    ],
+    "album": {
+      "name": "Happy Ending",
+      "link": "https://music.163.com/album?id=37051229"
+    }
+  },
+  {
+    "name": "2U",
+    "link": "https://music.163.com/song?id=1444570674",
+    "duration": "03:30",
+    "artists": [
+      {
+        "name": "Bad Computer",
+        "link": "https://music.163.com/artist?id=12647410"
+      }
+    ],
+    "album": { "name": "2U", "link": "https://music.163.com/album?id=88749777" }
+  },
+  {
+    "name": "Hanafubuki",
+    "link": "https://music.163.com/song?id=1819576648",
+    "duration": "05:05",
+    "artists": [
+      { "name": "AIKA", "link": "https://music.163.com/artist?id=12023360" },
+      { "name": "I-Yu", "link": "https://music.163.com/artist?id=29231848" }
+    ],
+    "album": {
+      "name": "DIVINE DUET",
+      "link": "https://music.163.com/album?id=122913526"
+    }
+  },
+  {
+    "name": "Overflowing",
+    "link": "https://music.163.com/song?id=1418690935",
+    "duration": "04:40",
+    "artists": [
+      { "name": "WAV", "link": "https://music.163.com/artist?id=1084125" }
+    ],
+    "album": {
+      "name": "Overflowing",
+      "link": "https://music.163.com/album?id=85146466"
+    }
+  },
+  {
+    "name": "Return Of The Raver",
+    "link": "https://music.163.com/song?id=31721425",
+    "duration": "03:28",
+    "artists": [
+      { "name": "Vexento", "link": "https://music.163.com/artist?id=12037010" }
+    ],
+    "album": {
+      "name": "Return Of The Raver",
+      "link": "https://music.163.com/album?id=3121985"
+    }
+  },
+  {
+    "name": "Poison",
+    "link": "https://music.163.com/song?id=1812404626",
+    "duration": "03:41",
+    "artists": [
+      { "name": "ROY KNOX", "link": "https://music.163.com/artist?id=33149404" }
+    ],
+    "album": {
+      "name": "Poison",
+      "link": "https://music.163.com/album?id=121723954"
+    }
+  },
+  {
+    "name": "Hypochondriac",
+    "link": "https://music.163.com/song?id=862146457",
+    "duration": "03:01",
+    "artists": [
+      {
+        "name": "Miranda Glory",
+        "link": "https://music.163.com/artist?id=12463504"
+      }
+    ],
+    "album": {
+      "name": "Hypochondriac",
+      "link": "https://music.163.com/album?id=71620795"
+    }
+  },
+  {
+    "name": "80's Girl (Original Mix)",
+    "link": "https://music.163.com/song?id=544820910",
+    "duration": "03:56",
+    "artists": [
+      { "name": "Nina", "link": "https://music.163.com/artist?id=149874" }
+    ],
+    "album": {
+      "name": "Sleepwalking",
+      "link": "https://music.163.com/album?id=37918088"
+    }
+  },
+  {
+    "name": "Brother",
+    "link": "https://music.163.com/song?id=485960410",
+    "duration": "03:22",
+    "artists": [
+      { "name": "Kodaline", "link": "https://music.163.com/artist?id=727007" }
+    ],
+    "album": {
+      "name": "Brother",
+      "link": "https://music.163.com/album?id=35663026"
+    }
+  },
+  {
+    "name": "Morning sunshine(Instrumental)",
+    "link": "https://music.163.com/song?id=1307861972",
+    "duration": "03:18",
+    "artists": [
+      { "name": "Dio Deer", "link": "https://music.163.com/artist?id=12319430" }
+    ],
+    "album": {
+      "name": "Morning sunshine(Instrumental)",
+      "link": "https://music.163.com/album?id=72980174"
+    }
+  },
+  {
+    "name": "Freiheit",
+    "link": "https://music.163.com/song?id=19144737",
+    "duration": "05:51",
+    "artists": [
+      { "name": "Schiller", "link": "https://music.163.com/artist?id=77759" },
+      {
+        "name": "Franziska Pigulla",
+        "link": "https://music.163.com/artist?id=285832"
+      }
+    ],
+    "album": {
+      "name": "Zeitgeist",
+      "link": "https://music.163.com/album?id=1755162"
+    }
+  },
+  {
+    "name": "Troupe",
+    "link": "https://music.163.com/song?id=1332620100",
+    "duration": "04:00",
+    "artists": [
+      { "name": "Spag Heddy", "link": "https://music.163.com/artist?id=384815" }
+    ],
+    "album": {
+      "name": "Never Say Die Vol. 6",
+      "link": "https://music.163.com/album?id=74839766"
+    }
+  },
+  {
+    "name": "Kick im Augenblick",
+    "link": "https://music.163.com/song?id=440397672",
+    "duration": "03:27",
+    "artists": [
+      {
+        "name": "Beatrice Egli",
+        "link": "https://music.163.com/artist?id=768331"
+      }
+    ],
+    "album": {
+      "name": "Kick im Augenblick (Fan Edition)",
+      "link": "https://music.163.com/album?id=34983317"
+    }
+  },
+  {
+    "name": "Sea Of Voices",
+    "link": "https://music.163.com/song?id=28912013",
+    "duration": "04:58",
+    "artists": [
+      {
+        "name": "Porter Robinson",
+        "link": "https://music.163.com/artist?id=185871"
+      }
+    ],
+    "album": {
+      "name": "Worlds",
+      "link": "https://music.163.com/album?id=2915252"
+    }
+  }
+]
