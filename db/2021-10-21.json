@@ -1,0 +1,471 @@
+[
+  {
+    "name": "Miss You (Luca Schreiner Remix)",
+    "link": "https://music.163.com/song?id=523003042",
+    "duration": "02:56",
+    "artists": [
+      {
+        "name": "Louis Tomlinson",
+        "link": "https://music.163.com/artist?id=12214129"
+      }
+    ],
+    "album": {
+      "name": "Miss You (Luca Schreiner Remix)",
+      "link": "https://music.163.com/album?id=36901275"
+    }
+  },
+  {
+    "name": "Miracle (Full Version) ",
+    "link": "https://music.163.com/song?id=430043546",
+    "duration": "03:40",
+    "artists": [
+      { "name": "Andreas B.", "link": "https://music.163.com/artist?id=299713" }
+    ],
+    "album": {
+      "name": "Miracle (Full Version)",
+      "link": "https://music.163.com/album?id=34874188"
+    }
+  },
+  {
+    "name": "Dig Deep",
+    "link": "https://music.163.com/song?id=35345484",
+    "duration": "04:24",
+    "artists": [
+      { "name": "Mazde", "link": "https://music.163.com/artist?id=1024181" },
+      { "name": "LissA", "link": "https://music.163.com/artist?id=66172" }
+    ],
+    "album": {
+      "name": "Mazde X LissA",
+      "link": "https://music.163.com/album?id=3319207"
+    }
+  },
+  {
+    "name": "Paralyzed",
+    "link": "https://music.163.com/song?id=31246690",
+    "duration": "04:30",
+    "artists": [
+      { "name": "NF", "link": "https://music.163.com/artist?id=981155" }
+    ],
+    "album": {
+      "name": "Mansion",
+      "link": "https://music.163.com/album?id=3115451"
+    }
+  },
+  {
+    "name": "Tears & Tantrums (Remixed by Evan Gartner)",
+    "link": "https://music.163.com/song?id=1331677398",
+    "duration": "03:04",
+    "artists": [
+      {
+        "name": "Evan Gartner",
+        "link": "https://music.163.com/artist?id=12411125"
+      },
+      { "name": "XYLØ", "link": "https://music.163.com/artist?id=1050511" }
+    ],
+    "album": {
+      "name": "Tears & Tantrums",
+      "link": "https://music.163.com/album?id=74797519"
+    }
+  },
+  {
+    "name": "Yours",
+    "link": "https://music.163.com/song?id=1385322505",
+    "duration": "03:33",
+    "artists": [
+      {
+        "name": "N i G H T S",
+        "link": "https://music.163.com/artist?id=12278516"
+      }
+    ],
+    "album": {
+      "name": "Yours",
+      "link": "https://music.163.com/album?id=81045889"
+    }
+  },
+  {
+    "name": "Close Enough",
+    "link": "https://music.163.com/song?id=1364147128",
+    "duration": "03:00",
+    "artists": [
+      { "name": "Jai Nova", "link": "https://music.163.com/artist?id=1083105" },
+      { "name": "Luma", "link": "https://music.163.com/artist?id=211460" }
+    ],
+    "album": {
+      "name": "Close Enough",
+      "link": "https://music.163.com/album?id=79014751"
+    }
+  },
+  {
+    "name": "Love Triangle",
+    "link": "https://music.163.com/song?id=513356745",
+    "duration": "03:55",
+    "artists": [
+      { "name": "Gjan", "link": "https://music.163.com/artist?id=851014" },
+      { "name": "Saint", "link": "https://music.163.com/artist?id=100440" }
+    ],
+    "album": {
+      "name": "Do It",
+      "link": "https://music.163.com/album?id=36579122"
+    }
+  },
+  {
+    "name": "Spinning over You",
+    "link": "https://music.163.com/song?id=1483682837",
+    "duration": "03:14",
+    "artists": [
+      { "name": "Reyko", "link": "https://music.163.com/artist?id=12335050" }
+    ],
+    "album": {
+      "name": "Spinning over You",
+      "link": "https://music.163.com/album?id=96213964"
+    }
+  },
+  {
+    "name": "Aural Deluge",
+    "link": "https://music.163.com/song?id=479938181",
+    "duration": "06:24",
+    "artists": [
+      {
+        "name": "Animadrop",
+        "link": "https://music.163.com/artist?id=12356789"
+      }
+    ],
+    "album": {
+      "name": "Aural Deluge",
+      "link": "https://music.163.com/album?id=35543423"
+    }
+  },
+  {
+    "name": "Tie Me Down",
+    "link": "https://music.163.com/song?id=1298505546",
+    "duration": "03:38",
+    "artists": [
+      { "name": "Gryffin", "link": "https://music.163.com/artist?id=1181504" },
+      {
+        "name": "Elley Duhé",
+        "link": "https://music.163.com/artist?id=12207014"
+      }
+    ],
+    "album": {
+      "name": "Tie Me Down",
+      "link": "https://music.163.com/album?id=72042813"
+    }
+  },
+  {
+    "name": "Virus",
+    "link": "https://music.163.com/song?id=1454113652",
+    "duration": "02:08",
+    "artists": [
+      {
+        "name": "Besomorph",
+        "link": "https://music.163.com/artist?id=13406913"
+      },
+      {
+        "name": "Anthony Keyrouz",
+        "link": "https://music.163.com/artist?id=12203139"
+      },
+      { "name": "Lunis", "link": "https://music.163.com/artist?id=32056972" }
+    ],
+    "album": {
+      "name": "Virus",
+      "link": "https://music.163.com/album?id=90579716"
+    }
+  },
+  {
+    "name": "Heart Made of Stone",
+    "link": "https://music.163.com/song?id=1415763481",
+    "duration": "02:38",
+    "artists": [
+      {
+        "name": "The Tech Thieves",
+        "link": "https://music.163.com/artist?id=12080267"
+      }
+    ],
+    "album": {
+      "name": "The Red EP",
+      "link": "https://music.163.com/album?id=84646127"
+    }
+  },
+  {
+    "name": "Your Eyes",
+    "link": "https://music.163.com/song?id=533018658",
+    "duration": "03:32",
+    "artists": [
+      { "name": "Neovaii", "link": "https://music.163.com/artist?id=12356095" }
+    ],
+    "album": {
+      "name": "Onward",
+      "link": "https://music.163.com/album?id=37374496"
+    }
+  },
+  {
+    "name": "One Day",
+    "link": "https://music.163.com/song?id=1363638029",
+    "duration": "02:44",
+    "artists": [
+      {
+        "name": "Diamond Pistols",
+        "link": "https://music.163.com/artist?id=806218"
+      },
+      {
+        "name": "Emily Vaughn",
+        "link": "https://music.163.com/artist?id=12049240"
+      }
+    ],
+    "album": {
+      "name": "One Day",
+      "link": "https://music.163.com/album?id=78959758"
+    }
+  },
+  {
+    "name": "Burnt Sugar",
+    "link": "https://music.163.com/song?id=448317080",
+    "duration": "03:22",
+    "artists": [
+      { "name": "Felicity", "link": "https://music.163.com/artist?id=12234027" }
+    ],
+    "album": {
+      "name": "Burnt Sugar",
+      "link": "https://music.163.com/album?id=35074044"
+    }
+  },
+  {
+    "name": "The Edge ",
+    "link": "https://music.163.com/song?id=1315450595",
+    "duration": "03:13",
+    "artists": [
+      { "name": "Grant", "link": "https://music.163.com/artist?id=813362" },
+      { "name": "Nevve", "link": "https://music.163.com/artist?id=12567101" }
+    ],
+    "album": {
+      "name": "The Edge (feat. Nevve)",
+      "link": "https://music.163.com/album?id=73781583"
+    }
+  },
+  {
+    "name": "Paper Love",
+    "link": "https://music.163.com/song?id=475207414",
+    "duration": "03:17",
+    "artists": [
+      { "name": "Allie X", "link": "https://music.163.com/artist?id=973030" }
+    ],
+    "album": {
+      "name": "Paper Love",
+      "link": "https://music.163.com/album?id=35377988"
+    }
+  },
+  {
+    "name": "Magical",
+    "link": "https://music.163.com/song?id=534065104",
+    "duration": "03:39",
+    "artists": [
+      { "name": "FEWZ", "link": "https://music.163.com/artist?id=12008133" }
+    ],
+    "album": {
+      "name": "Magical",
+      "link": "https://music.163.com/album?id=37442050"
+    }
+  },
+  {
+    "name": "Famous",
+    "link": "https://music.163.com/song?id=522647397",
+    "duration": "03:43",
+    "artists": [
+      {
+        "name": "Ivy Adara",
+        "link": "https://music.163.com/artist?id=12925126"
+      }
+    ],
+    "album": {
+      "name": "Famous",
+      "link": "https://music.163.com/album?id=36921067"
+    }
+  },
+  {
+    "name": "You're Somebody Else",
+    "link": "https://music.163.com/song?id=1353027224",
+    "duration": "03:39",
+    "artists": [
+      {
+        "name": "Flora Cash",
+        "link": "https://music.163.com/artist?id=1132016"
+      }
+    ],
+    "album": {
+      "name": "Press",
+      "link": "https://music.163.com/album?id=75908219"
+    }
+  },
+  {
+    "name": "美好的事可不可以發生在我身上",
+    "link": "https://music.163.com/song?id=1501530173",
+    "duration": "06:02",
+    "artists": [
+      {
+        "name": "康士坦的变化球",
+        "link": "https://music.163.com/artist?id=12232080"
+      }
+    ],
+    "album": {
+      "name": "更迭",
+      "link": "https://music.163.com/album?id=99289871"
+    }
+  },
+  {
+    "name": "Hold Us Together",
+    "link": "https://music.163.com/song?id=480517594",
+    "duration": "03:41",
+    "artists": [
+      { "name": "WILD", "link": "https://music.163.com/artist?id=12074090" }
+    ],
+    "album": {
+      "name": "Hold Us Together",
+      "link": "https://music.163.com/album?id=35550333"
+    }
+  },
+  {
+    "name": "Savage (Nightcore Remix)",
+    "link": "https://music.163.com/song?id=1348917629",
+    "duration": "02:33",
+    "artists": [
+      { "name": "Bahari", "link": "https://music.163.com/artist?id=1044218" }
+    ],
+    "album": {
+      "name": "Savage (Nightcore Remix)",
+      "link": "https://music.163.com/album?id=75725547"
+    }
+  },
+  {
+    "name": "Remember (Original Mix)",
+    "link": "https://music.163.com/song?id=27644359",
+    "duration": "05:37",
+    "artists": [
+      { "name": "Sensitive", "link": "https://music.163.com/artist?id=820340" },
+      {
+        "name": "Bogdan Bondarenko",
+        "link": "https://music.163.com/artist?id=820341"
+      }
+    ],
+    "album": {
+      "name": "Remember",
+      "link": "https://music.163.com/album?id=2651201"
+    }
+  },
+  {
+    "name": "Silhouette",
+    "link": "https://music.163.com/song?id=430297680",
+    "duration": "03:22",
+    "artists": [
+      { "name": "Kozoro", "link": "https://music.163.com/artist?id=1050567" }
+    ],
+    "album": {
+      "name": "Silhouette",
+      "link": "https://music.163.com/album?id=34874452"
+    }
+  },
+  {
+    "name": "Only the Brave",
+    "link": "https://music.163.com/song?id=1344291729",
+    "duration": "04:50",
+    "artists": [
+      { "name": "LeBrock", "link": "https://music.163.com/artist?id=13970913" }
+    ],
+    "album": {
+      "name": "Real Thing (Remastered)",
+      "link": "https://music.163.com/album?id=75462145"
+    }
+  },
+  {
+    "name": "These Days",
+    "link": "https://music.163.com/song?id=1341503068",
+    "duration": "03:31",
+    "artists": [
+      { "name": "Rudimental", "link": "https://music.163.com/artist?id=42870" },
+      {
+        "name": "Jess Glynne",
+        "link": "https://music.163.com/artist?id=904046"
+      },
+      { "name": "Macklemore", "link": "https://music.163.com/artist?id=40036" },
+      {
+        "name": "Dan Caplen",
+        "link": "https://music.163.com/artist?id=12191152"
+      }
+    ],
+    "album": {
+      "name": "Toast to our Differences (Deluxe)",
+      "link": "https://music.163.com/album?id=75290231"
+    }
+  },
+  {
+    "name": "S.T.A.Y. (Delta Heavy Tribute)",
+    "link": "https://music.163.com/song?id=477933827",
+    "duration": "06:06",
+    "artists": [
+      {
+        "name": "Delta Heavy",
+        "link": "https://music.163.com/artist?id=757017"
+      },
+      { "name": "Hans Zimmer", "link": "https://music.163.com/artist?id=34517" }
+    ],
+    "album": {
+      "name": "S.T.A.Y. (Delta Heavy Tribute)",
+      "link": "https://music.163.com/album?id=35500181"
+    }
+  },
+  {
+    "name": "Eternity (Original Mix)",
+    "link": "https://music.163.com/song?id=33495499",
+    "duration": "04:42",
+    "artists": [
+      { "name": "Stigma", "link": "https://music.163.com/artist?id=77065" }
+    ],
+    "album": {
+      "name": "Chillout Paradise Volume 008",
+      "link": "https://music.163.com/album?id=3211294"
+    }
+  },
+  {
+    "name": "No Fun",
+    "link": "https://music.163.com/song?id=1346252421",
+    "duration": "03:31",
+    "artists": [
+      { "name": "Novo Amor", "link": "https://music.163.com/artist?id=904041" },
+      {
+        "name": "Gia Margaret",
+        "link": "https://music.163.com/artist?id=30572502"
+      }
+    ],
+    "album": {
+      "name": "No Fun / Lucky for You",
+      "link": "https://music.163.com/album?id=75576146"
+    }
+  },
+  {
+    "name": "零六零五（洛天依 ver.）",
+    "link": "https://music.163.com/song?id=571522631",
+    "duration": "02:53",
+    "artists": [
+      { "name": "髅髅", "link": "https://music.163.com/artist?id=12226929" },
+      {
+        "name": "Bauhinia7x",
+        "link": "https://music.163.com/artist?id=12965906"
+      }
+    ],
+    "album": {
+      "name": "零六零五",
+      "link": "https://music.163.com/album?id=39516688"
+    }
+  },
+  {
+    "name": "Back In The Water",
+    "link": "https://music.163.com/song?id=545151415",
+    "duration": "03:09",
+    "artists": [
+      { "name": "HAEVN", "link": "https://music.163.com/artist?id=12096277" }
+    ],
+    "album": {
+      "name": "Back In The Water",
+      "link": "https://music.163.com/album?id=37865787"
+    }
+  }
+]
