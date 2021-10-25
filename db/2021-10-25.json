@@ -1,0 +1,481 @@
+[
+  {
+    "name": "Superb",
+    "link": "https://music.163.com/song?id=29487452",
+    "duration": "06:52",
+    "artists": [
+      { "name": "Mossy", "link": "https://music.163.com/artist?id=205303" }
+    ],
+    "album": {
+      "name": "Superb",
+      "link": "https://music.163.com/album?id=3033062"
+    }
+  },
+  {
+    "name": "Dreams (Outro)",
+    "link": "https://music.163.com/song?id=546730465",
+    "duration": "02:57",
+    "artists": [
+      { "name": "MitiS", "link": "https://music.163.com/artist?id=40245" }
+    ],
+    "album": {
+      "name": "'Til the End",
+      "link": "https://music.163.com/album?id=37987085"
+    }
+  },
+  {
+    "name": "Heart Of Steel (Festival Mix)",
+    "link": "https://music.163.com/song?id=864100339",
+    "duration": "03:41",
+    "artists": [
+      { "name": "Raiden", "link": "https://music.163.com/artist?id=130300" },
+      {
+        "name": "Bright Lights",
+        "link": "https://music.163.com/artist?id=905065"
+      }
+    ],
+    "album": {
+      "name": "Heart Of Steel (Festival Mix)",
+      "link": "https://music.163.com/album?id=71613108"
+    }
+  },
+  {
+    "name": "Shine",
+    "link": "https://music.163.com/song?id=27572417",
+    "duration": "06:56",
+    "artists": [
+      {
+        "name": "Denis Laurent",
+        "link": "https://music.163.com/artist?id=816516"
+      }
+    ],
+    "album": {
+      "name": "Drops / Shine",
+      "link": "https://music.163.com/album?id=2640174"
+    }
+  },
+  {
+    "name": "Leaving at Midnight",
+    "link": "https://music.163.com/song?id=1397152118",
+    "duration": "03:20",
+    "artists": [
+      { "name": "waykap", "link": "https://music.163.com/artist?id=30766185" },
+      { "name": "Emmi", "link": "https://music.163.com/artist?id=140606" }
+    ],
+    "album": {
+      "name": "Leaving at Midnight",
+      "link": "https://music.163.com/album?id=82439458"
+    }
+  },
+  {
+    "name": "Flashbacks",
+    "link": "https://music.163.com/song?id=31191024",
+    "duration": "03:59",
+    "artists": [
+      { "name": "PYLOT", "link": "https://music.163.com/artist?id=865032" }
+    ],
+    "album": {
+      "name": "FLASHBACKS",
+      "link": "https://music.163.com/album?id=3115006"
+    }
+  },
+  {
+    "name": "Bright Side (Nhyx Remix)",
+    "link": "https://music.163.com/song?id=462612900",
+    "duration": "04:08",
+    "artists": [
+      { "name": "Mozambo", "link": "https://music.163.com/artist?id=1135038" },
+      {
+        "name": "Basic Tape",
+        "link": "https://music.163.com/artist?id=1072043"
+      },
+      {
+        "name": "Julia Church",
+        "link": "https://music.163.com/artist?id=1135040"
+      },
+      { "name": "NHYX", "link": "https://music.163.com/artist?id=1141040" }
+    ],
+    "album": {
+      "name": "Bright Side (Remixes)",
+      "link": "https://music.163.com/album?id=35196664"
+    }
+  },
+  {
+    "name": "****** Up",
+    "link": "https://music.163.com/song?id=1374155242",
+    "duration": "03:39",
+    "artists": [
+      { "name": "Bahari", "link": "https://music.163.com/artist?id=1044218" }
+    ],
+    "album": {
+      "name": "****** Up",
+      "link": "https://music.163.com/album?id=80009071"
+    }
+  },
+  {
+    "name": "When the Sun Goes Down (Extended Mix)",
+    "link": "https://music.163.com/song?id=472948174",
+    "duration": "07:14",
+    "artists": [
+      { "name": "Talamanca", "link": "https://music.163.com/artist?id=355244" }
+    ],
+    "album": {
+      "name": "Arrivals & Departures",
+      "link": "https://music.163.com/album?id=35392056"
+    }
+  },
+  {
+    "name": "Music To Make Boys Cry",
+    "link": "https://music.163.com/song?id=27725293",
+    "duration": "03:30",
+    "artists": [
+      {
+        "name": "Diana Vickers",
+        "link": "https://music.163.com/artist?id=55399"
+      }
+    ],
+    "album": {
+      "name": "Music To Make Boys Cry",
+      "link": "https://music.163.com/album?id=2665045"
+    }
+  },
+  {
+    "name": "Black Space (Deconstructed) (Instrumental)",
+    "link": "https://music.163.com/song?id=1338129840",
+    "duration": "04:07",
+    "artists": [
+      { "name": "The Anix", "link": "https://music.163.com/artist?id=150186" }
+    ],
+    "album": {
+      "name": "Black Space (Deconstructed)",
+      "link": "https://music.163.com/album?id=75082641"
+    }
+  },
+  {
+    "name": "Test Drive",
+    "link": "https://music.163.com/song?id=1294304120",
+    "duration": "02:53",
+    "artists": [
+      {
+        "name": "Emily Burns",
+        "link": "https://music.163.com/artist?id=12234023"
+      }
+    ],
+    "album": {
+      "name": "Seven Scenes from the Same Summer",
+      "link": "https://music.163.com/album?id=71871673"
+    }
+  },
+  {
+    "name": "Disarm Yourself",
+    "link": "https://music.163.com/song?id=17246868",
+    "duration": "06:30",
+    "artists": [
+      {
+        "name": "Dash Berlin",
+        "link": "https://music.163.com/artist?id=32124"
+      },
+      { "name": "Emma Hewitt", "link": "https://music.163.com/artist?id=56751" }
+    ],
+    "album": {
+      "name": "#musicislife",
+      "link": "https://music.163.com/album?id=1589596"
+    }
+  },
+  {
+    "name": "Alone",
+    "link": "https://music.163.com/song?id=1311511848",
+    "duration": "02:44",
+    "artists": [
+      { "name": "J. Lisk", "link": "https://music.163.com/artist?id=12121101" }
+    ],
+    "album": {
+      "name": "Alone",
+      "link": "https://music.163.com/album?id=73382540"
+    }
+  },
+  {
+    "name": "Nebula pt.II",
+    "link": "https://music.163.com/song?id=1489629300",
+    "duration": "04:07",
+    "artists": [
+      { "name": "Worezh", "link": "https://music.163.com/artist?id=1158066" }
+    ],
+    "album": {
+      "name": "Nebula pt.II",
+      "link": "https://music.163.com/album?id=97169407"
+    }
+  },
+  {
+    "name": "Instructions",
+    "link": "https://music.163.com/song?id=513356744",
+    "duration": "03:41",
+    "artists": [
+      { "name": "Gjan", "link": "https://music.163.com/artist?id=851014" }
+    ],
+    "album": {
+      "name": "Do It",
+      "link": "https://music.163.com/album?id=36579122"
+    }
+  },
+  {
+    "name": "Nebula（DkCheng Remix）",
+    "link": "https://music.163.com/song?id=554874527",
+    "duration": "03:16",
+    "artists": [
+      { "name": "Dk澄", "link": "https://music.163.com/artist?id=12236188" },
+      { "name": "Worezh", "link": "https://music.163.com/artist?id=1158066" },
+      {
+        "name": "ChakYoun9",
+        "link": "https://music.163.com/artist?id=12094429"
+      }
+    ],
+    "album": {
+      "name": "Nebula（DkCheng Remix）",
+      "link": "https://music.163.com/album?id=38449098"
+    }
+  },
+  {
+    "name": "ANTIHERO",
+    "link": "https://music.163.com/song?id=1818998086",
+    "duration": "02:13",
+    "artists": [
+      { "name": "AViVA", "link": "https://music.163.com/artist?id=12074178" }
+    ],
+    "album": {
+      "name": "ANTIHERO",
+      "link": "https://music.163.com/album?id=122783880"
+    }
+  },
+  {
+    "name": "Far From Home (Craig Connelly Extended Remix)",
+    "link": "https://music.163.com/song?id=417613833",
+    "duration": "07:55",
+    "artists": [
+      {
+        "name": "Gareth Emery",
+        "link": "https://music.163.com/artist?id=34318"
+      },
+      {
+        "name": "Craig Connelly",
+        "link": "https://music.163.com/artist?id=191566"
+      },
+      {
+        "name": "Gavrielle",
+        "link": "https://music.163.com/artist?id=12332058"
+      }
+    ],
+    "album": {
+      "name": "A State Of Trance Radio Top 20 - May / June 2016 (Including Classic Bonus Track)",
+      "link": "https://music.163.com/album?id=34726983"
+    }
+  },
+  {
+    "name": "Gorgeous",
+    "link": "https://music.163.com/song?id=1384496800",
+    "duration": "04:37",
+    "artists": [
+      { "name": "ILLENIUM", "link": "https://music.163.com/artist?id=1050518" },
+      { "name": "Blanke", "link": "https://music.163.com/artist?id=13369420" },
+      {
+        "name": "Bipolar Sunshine",
+        "link": "https://music.163.com/artist?id=784269"
+      }
+    ],
+    "album": {
+      "name": "ASCEND",
+      "link": "https://music.163.com/album?id=80981667"
+    }
+  },
+  {
+    "name": "Mermaid",
+    "link": "https://music.163.com/song?id=491604012",
+    "duration": "03:31",
+    "artists": [
+      { "name": "SKOTT", "link": "https://music.163.com/artist?id=12061139" }
+    ],
+    "album": {
+      "name": "Mermaid",
+      "link": "https://music.163.com/album?id=35789011"
+    }
+  },
+  {
+    "name": "Blossom",
+    "link": "https://music.163.com/song?id=1839140778",
+    "duration": "03:46",
+    "artists": [
+      {
+        "name": "Porter Robinson",
+        "link": "https://music.163.com/artist?id=185871"
+      }
+    ],
+    "album": {
+      "name": "Nurture",
+      "link": "https://music.163.com/album?id=126338915"
+    }
+  },
+  {
+    "name": "Wilder Than the Wind",
+    "link": "https://music.163.com/song?id=30706551",
+    "duration": "04:49",
+    "artists": [
+      {
+        "name": "Say Lou Lou",
+        "link": "https://music.163.com/artist?id=757244"
+      }
+    ],
+    "album": {
+      "name": "Lucid Dreaming (Deluxe Edition)",
+      "link": "https://music.163.com/album?id=3104278"
+    }
+  },
+  {
+    "name": "Wait For You",
+    "link": "https://music.163.com/song?id=404182792",
+    "duration": "04:08",
+    "artists": [
+      {
+        "name": "Wasted Penguinz",
+        "link": "https://music.163.com/artist?id=816508"
+      },
+      {
+        "name": "Vegas (GR)",
+        "link": "https://music.163.com/artist?id=1182158"
+      }
+    ],
+    "album": {
+      "name": "Wait For You",
+      "link": "https://music.163.com/album?id=34503237"
+    }
+  },
+  {
+    "name": "Burned With Desire (Original Mix)",
+    "link": "https://music.163.com/song?id=996861",
+    "duration": "07:44",
+    "artists": [
+      {
+        "name": "Armin van Buuren",
+        "link": "https://music.163.com/artist?id=27621"
+      },
+      {
+        "name": "Justine Suissa",
+        "link": "https://music.163.com/artist?id=37299"
+      }
+    ],
+    "album": {
+      "name": "10 Years",
+      "link": "https://music.163.com/album?id=104321"
+    }
+  },
+  {
+    "name": "Seven (Jiaye Reboot)",
+    "link": "https://music.163.com/song?id=423015272",
+    "duration": "04:18",
+    "artists": [
+      { "name": "Jiaye", "link": "https://music.163.com/artist?id=12027336" },
+      { "name": "Tobu", "link": "https://music.163.com/artist?id=964486" }
+    ],
+    "album": {
+      "name": "Seven (Jiaye Reboot)",
+      "link": "https://music.163.com/album?id=34792578"
+    }
+  },
+  {
+    "name": "梦中人",
+    "link": "https://music.163.com/song?id=555153205",
+    "duration": "04:19",
+    "artists": [
+      {
+        "name": "Austin Carl",
+        "link": "https://music.163.com/artist?id=12303121"
+      }
+    ],
+    "album": {
+      "name": "梦中人",
+      "link": "https://music.163.com/album?id=38475036"
+    }
+  },
+  {
+    "name": "Oxygen (FEWZ Remix)",
+    "link": "https://music.163.com/song?id=566436566",
+    "duration": "03:30",
+    "artists": [
+      { "name": "FEWZ", "link": "https://music.163.com/artist?id=12008133" },
+      { "name": "Jyye", "link": "https://music.163.com/artist?id=12098178" },
+      {
+        "name": "Bryan Finlay",
+        "link": "https://music.163.com/artist?id=784435"
+      }
+    ],
+    "album": {
+      "name": "Oxygen (FEWZ Remix)  ",
+      "link": "https://music.163.com/album?id=39263157"
+    }
+  },
+  {
+    "name": "Let the Right One In",
+    "link": "https://music.163.com/song?id=28993080",
+    "duration": "03:08",
+    "artists": [
+      {
+        "name": "Isaac Sakima",
+        "link": "https://music.163.com/artist?id=996655"
+      }
+    ],
+    "album": {
+      "name": "Let the Right One In",
+      "link": "https://music.163.com/album?id=2971308"
+    }
+  },
+  {
+    "name": "How I Feel ",
+    "link": "https://music.163.com/song?id=409647313",
+    "duration": "04:13",
+    "artists": [
+      { "name": "Ascend", "link": "https://music.163.com/artist?id=357260" }
+    ],
+    "album": {
+      "name": "How I Feel",
+      "link": "https://music.163.com/album?id=34613120"
+    }
+  },
+  {
+    "name": "Leave This Island",
+    "link": "https://music.163.com/song?id=28267932",
+    "duration": "04:01",
+    "artists": [
+      { "name": "Maxïmo Park", "link": "https://music.163.com/artist?id=38907" }
+    ],
+    "album": {
+      "name": "Leave This Island",
+      "link": "https://music.163.com/album?id=2762369"
+    }
+  },
+  {
+    "name": "Alive - (iPhone XR 广告配乐)",
+    "link": "https://music.163.com/song?id=1304788672",
+    "duration": "03:18",
+    "artists": [
+      { "name": "obylx", "link": "https://music.163.com/artist?id=29280828" }
+    ],
+    "album": {
+      "name": "Alive",
+      "link": "https://music.163.com/album?id=72568238"
+    }
+  },
+  {
+    "name": "Love Story (Taylor’s Version)",
+    "link": "https://music.163.com/song?id=1888348056",
+    "duration": "03:55",
+    "artists": [
+      {
+        "name": "Taylor Swift",
+        "link": "https://music.163.com/artist?id=44266"
+      }
+    ],
+    "album": {
+      "name": "October 2021 Trending Hits",
+      "link": "https://music.163.com/album?id=135008980"
+    }
+  }
+]
