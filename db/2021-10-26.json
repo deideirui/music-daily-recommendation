@@ -1,0 +1,442 @@
+[
+  {
+    "name": "Gaiety",
+    "link": "https://music.163.com/song?id=1460644606",
+    "duration": "03:18",
+    "artists": [
+      { "name": "JWoods", "link": "https://music.163.com/artist?id=30959670" }
+    ],
+    "album": {
+      "name": "Gaiety",
+      "link": "https://music.163.com/album?id=91960021"
+    }
+  },
+  {
+    "name": "Beacon",
+    "link": "https://music.163.com/song?id=467590484",
+    "duration": "04:09",
+    "artists": [
+      {
+        "name": "Oliver Chang",
+        "link": "https://music.163.com/artist?id=1081194"
+      },
+      {
+        "name": "Evan James",
+        "link": "https://music.163.com/artist?id=13758835"
+      },
+      { "name": "REMMI", "link": "https://music.163.com/artist?id=12260133" }
+    ],
+    "album": {
+      "name": "Beacon - Single",
+      "link": "https://music.163.com/album?id=35306150"
+    }
+  },
+  {
+    "name": "Close to you",
+    "link": "https://music.163.com/song?id=864455704",
+    "duration": "03:47",
+    "artists": [
+      { "name": "yyFish", "link": "https://music.163.com/artist?id=12479019" },
+      { "name": "Klaas", "link": "https://music.163.com/artist?id=106210" }
+    ],
+    "album": {
+      "name": "Close to you(Remixes)",
+      "link": "https://music.163.com/album?id=71714403"
+    }
+  },
+  {
+    "name": "Pacific 704",
+    "link": "https://music.163.com/song?id=26574024",
+    "duration": "04:24",
+    "artists": [
+      { "name": "Else", "link": "https://music.163.com/artist?id=1181848" }
+    ],
+    "album": {
+      "name": "Pacific",
+      "link": "https://music.163.com/album?id=2525453"
+    }
+  },
+  {
+    "name": "Everybody",
+    "link": "https://music.163.com/song?id=1308193909",
+    "duration": "03:15",
+    "artists": [
+      { "name": "Tule", "link": "https://music.163.com/artist?id=12676322" }
+    ],
+    "album": {
+      "name": "Everybody",
+      "link": "https://music.163.com/album?id=73157789"
+    }
+  },
+  {
+    "name": "Starset",
+    "link": "https://music.163.com/song?id=455502171",
+    "duration": "03:07",
+    "artists": [
+      {
+        "name": "Cody Sorenson",
+        "link": "https://music.163.com/artist?id=12273358"
+      },
+      { "name": "Kadenza", "link": "https://music.163.com/artist?id=12068052" }
+    ],
+    "album": {
+      "name": "Starset",
+      "link": "https://music.163.com/album?id=35139474"
+    }
+  },
+  {
+    "name": "Trip",
+    "link": "https://music.163.com/song?id=36492599",
+    "duration": "03:08",
+    "artists": [
+      { "name": "Axero", "link": "https://music.163.com/artist?id=1035020" }
+    ],
+    "album": {
+      "name": "Trip",
+      "link": "https://music.163.com/album?id=3395395"
+    }
+  },
+  {
+    "name": "Fishing in the Archipelago",
+    "link": "https://music.163.com/song?id=1460541430",
+    "duration": "07:36",
+    "artists": [
+      {
+        "name": "Mark & Lukas",
+        "link": "https://music.163.com/artist?id=1104097"
+      }
+    ],
+    "album": {
+      "name": "Fishing in the Archipelago",
+      "link": "https://music.163.com/album?id=91974747"
+    }
+  },
+  {
+    "name": "It Wouldn't Be Right",
+    "link": "https://music.163.com/song?id=29922545",
+    "duration": "04:08",
+    "artists": [
+      {
+        "name": "Chasing Jonah",
+        "link": "https://music.163.com/artist?id=1044205"
+      }
+    ],
+    "album": {
+      "name": "Prelude",
+      "link": "https://music.163.com/album?id=3087055"
+    }
+  },
+  {
+    "name": "Crushing",
+    "link": "https://music.163.com/song?id=1382830610",
+    "duration": "03:10",
+    "artists": [
+      { "name": "Trace", "link": "https://music.163.com/artist?id=80473" }
+    ],
+    "album": {
+      "name": "Crushing",
+      "link": "https://music.163.com/album?id=80833954"
+    }
+  },
+  {
+    "name": "Clocks of Destiny",
+    "link": "https://music.163.com/song?id=1335047484",
+    "duration": "02:02",
+    "artists": [
+      {
+        "name": "Michael Maas",
+        "link": "https://music.163.com/artist?id=1120109"
+      }
+    ],
+    "album": {
+      "name": "Intro Trailer Emotions",
+      "link": "https://music.163.com/album?id=74967713"
+    }
+  },
+  {
+    "name": "Just A Fling",
+    "link": "https://music.163.com/song?id=36586705",
+    "duration": "04:10",
+    "artists": [
+      { "name": "Nofilter", "link": "https://music.163.com/artist?id=1181384" },
+      { "name": "Furns", "link": "https://music.163.com/artist?id=1132267" }
+    ],
+    "album": {
+      "name": "Just A Fling",
+      "link": "https://music.163.com/album?id=3395610"
+    }
+  },
+  {
+    "name": "Daughter",
+    "link": "https://music.163.com/song?id=1352873753",
+    "duration": "02:23",
+    "artists": [
+      {
+        "name": "Stephan Rozier",
+        "link": "https://music.163.com/artist?id=31701478"
+      }
+    ],
+    "album": {
+      "name": "All These Years",
+      "link": "https://music.163.com/album?id=75898822"
+    }
+  },
+  {
+    "name": "Priority",
+    "link": "https://music.163.com/song?id=1313120762",
+    "duration": "03:12",
+    "artists": [
+      {
+        "name": "Emily Vaughn",
+        "link": "https://music.163.com/artist?id=12049240"
+      }
+    ],
+    "album": {
+      "name": "Priority",
+      "link": "https://music.163.com/album?id=73649695"
+    }
+  },
+  {
+    "name": "Cornfield Chase (Piano-Cello Version)",
+    "link": "https://music.163.com/song?id=538802149",
+    "duration": "02:04",
+    "artists": [
+      {
+        "name": "Michael Forster",
+        "link": "https://music.163.com/artist?id=12871529"
+      },
+      {
+        "name": "Anna Stevens",
+        "link": "https://music.163.com/artist?id=31146522"
+      }
+    ],
+    "album": {
+      "name": "Piano Chill",
+      "link": "https://music.163.com/album?id=37561453"
+    }
+  },
+  {
+    "name": "Down With Your Love",
+    "link": "https://music.163.com/song?id=419250255",
+    "duration": "04:08",
+    "artists": [
+      { "name": "Tinashe", "link": "https://music.163.com/artist?id=45221" },
+      { "name": "Chris Brown", "link": "https://music.163.com/artist?id=29960" }
+    ],
+    "album": {
+      "name": "Down With Your Love",
+      "link": "https://music.163.com/album?id=34754075"
+    }
+  },
+  {
+    "name": "Love Me Like You Used To",
+    "link": "https://music.163.com/song?id=1375240947",
+    "duration": "03:04",
+    "artists": [
+      {
+        "name": "Savannah Sgro",
+        "link": "https://music.163.com/artist?id=31381918"
+      }
+    ],
+    "album": {
+      "name": "Phobia",
+      "link": "https://music.163.com/album?id=80116504"
+    }
+  },
+  {
+    "name": "はじまりの歌",
+    "link": "https://music.163.com/song?id=1333745434",
+    "duration": "04:12",
+    "artists": [
+      {
+        "name": "GloomyAngel 陈怡男",
+        "link": "https://music.163.com/artist?id=12359229"
+      }
+    ],
+    "album": {
+      "name": "はじまりの歌",
+      "link": "https://music.163.com/album?id=74885764"
+    }
+  },
+  {
+    "name": "Timelines (feat. Noki)",
+    "link": "https://music.163.com/song?id=1442031364",
+    "duration": "04:56",
+    "artists": [
+      {
+        "name": "Ace Buchannon",
+        "link": "https://music.163.com/artist?id=31732407"
+      }
+    ],
+    "album": {
+      "name": "Magenta Nights",
+      "link": "https://music.163.com/album?id=88264313"
+    }
+  },
+  {
+    "name": "A Queen's Head",
+    "link": "https://music.163.com/song?id=1339189499",
+    "duration": "04:48",
+    "artists": [
+      { "name": "RAIGN", "link": "https://music.163.com/artist?id=916093" }
+    ],
+    "album": {
+      "name": "A Queen's Head - Single",
+      "link": "https://music.163.com/album?id=75161277"
+    }
+  },
+  {
+    "name": "人间惊鸿客",
+    "link": "https://music.163.com/song?id=1475091192",
+    "duration": "03:09",
+    "artists": [
+      { "name": "叶里", "link": "https://music.163.com/artist?id=1039314" }
+    ],
+    "album": {
+      "name": "人间惊鸿客",
+      "link": "https://music.163.com/album?id=94677368"
+    }
+  },
+  {
+    "name": "Curious (feat. Noctilucent)",
+    "link": "https://music.163.com/song?id=39956005",
+    "duration": "04:24",
+    "artists": [
+      { "name": "Kozoro", "link": "https://music.163.com/artist?id=1050567" },
+      {
+        "name": "Noctilucent",
+        "link": "https://music.163.com/artist?id=1150036"
+      }
+    ],
+    "album": {
+      "name": "Curious",
+      "link": "https://music.163.com/album?id=3434269"
+    }
+  },
+  {
+    "name": "我叫长安，你叫故里",
+    "link": "https://music.163.com/song?id=1818343748",
+    "duration": "03:29",
+    "artists": [
+      { "name": "尹昔眠", "link": "https://music.163.com/artist?id=12316248" },
+      {
+        "name": "小田音乐社",
+        "link": "https://music.163.com/artist?id=12852319"
+      }
+    ],
+    "album": {
+      "name": "我叫长安，你叫故里",
+      "link": "https://music.163.com/album?id=122684732"
+    }
+  },
+  {
+    "name": "Bright Side",
+    "link": "https://music.163.com/song?id=409031780",
+    "duration": "03:24",
+    "artists": [
+      { "name": "Vicetone", "link": "https://music.163.com/artist?id=747030" },
+      { "name": "Cosmos", "link": "https://music.163.com/artist?id=30669" },
+      { "name": "Creature", "link": "https://music.163.com/artist?id=51061" }
+    ],
+    "album": {
+      "name": "Aurora",
+      "link": "https://music.163.com/album?id=34604129"
+    }
+  },
+  {
+    "name": "还",
+    "link": "https://music.163.com/song?id=1474209379",
+    "duration": "04:36",
+    "artists": [
+      { "name": "闹闹丶", "link": "https://music.163.com/artist?id=12357233" },
+      { "name": "洛天依", "link": "https://music.163.com/artist?id=906118" }
+    ],
+    "album": { "name": "还", "link": "https://music.163.com/album?id=94462226" }
+  },
+  {
+    "name": "Sound Of My Dream  (Avi8 Bootleg)",
+    "link": "https://music.163.com/song?id=1323544757",
+    "duration": "04:06",
+    "artists": [
+      { "name": "Avi8", "link": "https://music.163.com/artist?id=12000033" }
+    ],
+    "album": {
+      "name": "Sound Of My Dreams",
+      "link": "https://music.163.com/album?id=74285016"
+    }
+  },
+  {
+    "name": "A Billion Stars Above (Extended Mix)",
+    "link": "https://music.163.com/song?id=503206674",
+    "duration": "07:32",
+    "artists": [
+      { "name": "RAM", "link": "https://music.163.com/artist?id=73231" },
+      {
+        "name": "Arctic Moon",
+        "link": "https://music.163.com/artist?id=820034"
+      },
+      {
+        "name": "Stine Grove",
+        "link": "https://music.163.com/artist?id=840197"
+      }
+    ],
+    "album": {
+      "name": "A Billion Stars Above",
+      "link": "https://music.163.com/album?id=36107147"
+    }
+  },
+  {
+    "name": "Dreaming",
+    "link": "https://music.163.com/song?id=419238688",
+    "duration": "03:20",
+    "artists": [
+      { "name": "DEAMN", "link": "https://music.163.com/artist?id=12047335" }
+    ],
+    "album": {
+      "name": "Dreaming",
+      "link": "https://music.163.com/album?id=34751093"
+    }
+  },
+  {
+    "name": "memento",
+    "link": "https://music.163.com/song?id=1326056330",
+    "duration": "06:29",
+    "artists": [
+      {
+        "name": "TK from 凛として時雨",
+        "link": "https://music.163.com/artist?id=159644"
+      }
+    ],
+    "album": {
+      "name": "katharsis",
+      "link": "https://music.163.com/album?id=74446766"
+    }
+  },
+  {
+    "name": "Latter",
+    "link": "https://music.163.com/song?id=1320034342",
+    "duration": "02:46",
+    "artists": [
+      {
+        "name": "Sara Diamond",
+        "link": "https://music.163.com/artist?id=12011192"
+      }
+    ],
+    "album": {
+      "name": "Foreword",
+      "link": "https://music.163.com/album?id=74053941"
+    }
+  },
+  {
+    "name": "Collider",
+    "link": "https://music.163.com/song?id=402073833",
+    "duration": "05:23",
+    "artists": [
+      { "name": "Eric Prydz", "link": "https://music.163.com/artist?id=32983" }
+    ],
+    "album": {
+      "name": "Opus",
+      "link": "https://music.163.com/album?id=34420151"
+    }
+  }
+]
