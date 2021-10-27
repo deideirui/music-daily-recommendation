@@ -1,0 +1,465 @@
+[
+  {
+    "name": "Contact",
+    "link": "https://music.163.com/song?id=500412390",
+    "duration": "02:21",
+    "artists": [
+      { "name": "Lulleaux", "link": "https://music.163.com/artist?id=1115185" },
+      {
+        "name": "Giang Pham",
+        "link": "https://music.163.com/artist?id=28700236"
+      }
+    ],
+    "album": {
+      "name": "Contact",
+      "link": "https://music.163.com/album?id=36017158"
+    }
+  },
+  {
+    "name": "Know Me Better",
+    "link": "https://music.163.com/song?id=1455920387",
+    "duration": "02:38",
+    "artists": [
+      {
+        "name": "Anthony Dircson",
+        "link": "https://music.163.com/artist?id=13674635"
+      },
+      { "name": "Isa", "link": "https://music.163.com/artist?id=34931732" }
+    ],
+    "album": {
+      "name": "Know Me Better",
+      "link": "https://music.163.com/album?id=91025418"
+    }
+  },
+  {
+    "name": "Rush",
+    "link": "https://music.163.com/song?id=1453258147",
+    "duration": "02:49",
+    "artists": [
+      { "name": "Syn Cole", "link": "https://music.163.com/artist?id=854432" }
+    ],
+    "album": {
+      "name": "Rush",
+      "link": "https://music.163.com/album?id=90403430"
+    }
+  },
+  {
+    "name": "When You Grow up, Your Heart Dies",
+    "link": "https://music.163.com/song?id=1304567168",
+    "duration": "05:49",
+    "artists": [
+      { "name": "GUNSHIP", "link": "https://music.163.com/artist?id=1124210" }
+    ],
+    "album": {
+      "name": "When You Grow up, Your Heart Dies",
+      "link": "https://music.163.com/album?id=72500998"
+    }
+  },
+  {
+    "name": "Blank",
+    "link": "https://music.163.com/song?id=30512731",
+    "duration": "03:28",
+    "artists": [
+      { "name": "Disfigure", "link": "https://music.163.com/artist?id=1049933" }
+    ],
+    "album": {
+      "name": "Blank",
+      "link": "https://music.163.com/album?id=74570870"
+    }
+  },
+  {
+    "name": "Forever",
+    "link": "https://music.163.com/song?id=1366655981",
+    "duration": "02:56",
+    "artists": [
+      { "name": "Vexento", "link": "https://music.163.com/artist?id=12037010" }
+    ],
+    "album": {
+      "name": "Forever",
+      "link": "https://music.163.com/album?id=79277868"
+    }
+  },
+  {
+    "name": "don't care",
+    "link": "https://music.163.com/song?id=1419439282",
+    "duration": "03:09",
+    "artists": [
+      { "name": "NATIIVE", "link": "https://music.163.com/artist?id=13775064" },
+      {
+        "name": "Danni Carra",
+        "link": "https://music.163.com/artist?id=32029983"
+      }
+    ],
+    "album": {
+      "name": "don't care",
+      "link": "https://music.163.com/album?id=85303662"
+    }
+  },
+  {
+    "name": "Lost (Instrumental)",
+    "link": "https://music.163.com/song?id=1347617341",
+    "duration": "05:18",
+    "artists": [
+      { "name": "PYLOT", "link": "https://music.163.com/artist?id=865032" }
+    ],
+    "album": {
+      "name": "Solai",
+      "link": "https://music.163.com/album?id=75662489"
+    }
+  },
+  {
+    "name": "Time Travel",
+    "link": "https://music.163.com/song?id=1310149405",
+    "duration": "03:45",
+    "artists": [
+      { "name": "TonyZ", "link": "https://music.163.com/artist?id=28345386" }
+    ],
+    "album": {
+      "name": "Time Travel",
+      "link": "https://music.163.com/album?id=73351780"
+    }
+  },
+  {
+    "name": "Catch My Breath",
+    "link": "https://music.163.com/song?id=26613394",
+    "duration": "04:11",
+    "artists": [
+      {
+        "name": "Kelly Clarkson",
+        "link": "https://music.163.com/artist?id=62885"
+      }
+    ],
+    "album": {
+      "name": "Remixes Big Deluxe",
+      "link": "https://music.163.com/album?id=2535679"
+    }
+  },
+  {
+    "name": "Someone That I Needed (with Dia Frampton)",
+    "link": "https://music.163.com/song?id=1418381608",
+    "duration": "04:14",
+    "artists": [
+      {
+        "name": "Jason Ross",
+        "link": "https://music.163.com/artist?id=906123"
+      },
+      {
+        "name": "Dia Frampton",
+        "link": "https://music.163.com/artist?id=55454"
+      }
+    ],
+    "album": {
+      "name": "1000 Faces",
+      "link": "https://music.163.com/album?id=85158537"
+    }
+  },
+  {
+    "name": "Take Everything (Extended Mix)",
+    "link": "https://music.163.com/song?id=1338635142",
+    "duration": "04:28",
+    "artists": [
+      {
+        "name": "Gareth Emery",
+        "link": "https://music.163.com/artist?id=34318"
+      },
+      { "name": "Emma Hewitt", "link": "https://music.163.com/artist?id=56751" }
+    ],
+    "album": {
+      "name": "Take Everything",
+      "link": "https://music.163.com/album?id=74869418"
+    }
+  },
+  {
+    "name": "Swarm VIP",
+    "link": "https://music.163.com/song?id=525238480",
+    "duration": "02:42",
+    "artists": [
+      { "name": "Kuuro", "link": "https://music.163.com/artist?id=12131546" }
+    ],
+    "album": {
+      "name": "Swarm VIP",
+      "link": "https://music.163.com/album?id=37027150"
+    }
+  },
+  {
+    "name": "Can't Stop Now",
+    "link": "https://music.163.com/song?id=1314121942",
+    "duration": "03:03",
+    "artists": [
+      { "name": "Allie X", "link": "https://music.163.com/artist?id=973030" }
+    ],
+    "album": {
+      "name": "Super Sunset",
+      "link": "https://music.163.com/album?id=73718954"
+    }
+  },
+  {
+    "name": "Thunder",
+    "link": "https://music.163.com/song?id=1382475114",
+    "duration": "03:56",
+    "artists": [
+      { "name": "Burgess", "link": "https://music.163.com/artist?id=477655" }
+    ],
+    "album": {
+      "name": "Thunder",
+      "link": "https://music.163.com/album?id=80803613"
+    }
+  },
+  {
+    "name": "Cheap Thrills (Damned x Jakoban Remix)",
+    "link": "https://music.163.com/song?id=410802708",
+    "duration": "03:22",
+    "artists": [
+      { "name": "Damned", "link": "https://music.163.com/artist?id=12041104" },
+      { "name": "Jakoban", "link": "https://music.163.com/artist?id=1051014" },
+      { "name": "Sia", "link": "https://music.163.com/artist?id=74625" }
+    ],
+    "album": {
+      "name": "Cheap Thrills (Damned x Jakoban Remix)",
+      "link": "https://music.163.com/album?id=34674212"
+    }
+  },
+  {
+    "name": "Don't Wanna Fall",
+    "link": "https://music.163.com/song?id=1460831171",
+    "duration": "03:51",
+    "artists": [
+      {
+        "name": "Seven Lions",
+        "link": "https://music.163.com/artist?id=44204"
+      },
+      {
+        "name": "Last Heroes",
+        "link": "https://music.163.com/artist?id=11987034"
+      },
+      { "name": "HALIENE", "link": "https://music.163.com/artist?id=13202710" }
+    ],
+    "album": {
+      "name": "Don't Wanna Fall",
+      "link": "https://music.163.com/album?id=92023929"
+    }
+  },
+  {
+    "name": "Running In The Night (feat. Ollie Wride)",
+    "link": "https://music.163.com/song?id=411921883",
+    "duration": "04:30",
+    "artists": [
+      { "name": "FM-84", "link": "https://music.163.com/artist?id=12046467" }
+    ],
+    "album": {
+      "name": "Atlas",
+      "link": "https://music.163.com/album?id=34686652"
+    }
+  },
+  {
+    "name": "Vi Finder Hjem - (我们会找到家)",
+    "link": "https://music.163.com/song?id=28442477",
+    "duration": "03:01",
+    "artists": [
+      {
+        "name": "Emilie Moldow",
+        "link": "https://music.163.com/artist?id=906041"
+      }
+    ],
+    "album": {
+      "name": "Vi Finder Hjem",
+      "link": "https://music.163.com/album?id=2794048"
+    }
+  },
+  {
+    "name": "梦寻古镇",
+    "link": "https://music.163.com/song?id=556717614",
+    "duration": "02:51",
+    "artists": [
+      {
+        "name": "羽翼深蓝Wings",
+        "link": "https://music.163.com/artist?id=12118139"
+      }
+    ],
+    "album": {
+      "name": "梦寻古镇",
+      "link": "https://music.163.com/album?id=38520590"
+    }
+  },
+  {
+    "name": "Bad Dream",
+    "link": "https://music.163.com/song?id=1825835081",
+    "duration": "03:22",
+    "artists": [
+      { "name": "Cannons", "link": "https://music.163.com/artist?id=1022051" }
+    ],
+    "album": {
+      "name": "Bad Dream",
+      "link": "https://music.163.com/album?id=124055331"
+    }
+  },
+  {
+    "name": "In The Shadow Of The Sun",
+    "link": "https://music.163.com/song?id=29412405",
+    "duration": "03:56",
+    "artists": [
+      {
+        "name": "Professor Green",
+        "link": "https://music.163.com/artist?id=41561"
+      }
+    ],
+    "album": {
+      "name": "Growing Up In Public",
+      "link": "https://music.163.com/album?id=3020185"
+    }
+  },
+  {
+    "name": "Max Elto - Shadow Of The Sun (shadows-wolf Remix)",
+    "link": "https://music.163.com/song?id=467945187",
+    "duration": "03:59",
+    "artists": [
+      {
+        "name": "Shadows-wolf",
+        "link": "https://music.163.com/artist?id=12226695"
+      }
+    ],
+    "album": {
+      "name": "Shadow Of The Sun EP",
+      "link": "https://music.163.com/album?id=35290592"
+    }
+  },
+  {
+    "name": "80 Juta",
+    "link": "https://music.163.com/song?id=1341158234",
+    "duration": "05:20",
+    "artists": [
+      { "name": "Alusty", "link": "https://music.163.com/artist?id=31328150" }
+    ],
+    "album": {
+      "name": "80 Juta",
+      "link": "https://music.163.com/album?id=75270615"
+    }
+  },
+  {
+    "name": "Lost & Found",
+    "link": "https://music.163.com/song?id=1436318460",
+    "duration": "05:50",
+    "artists": [
+      {
+        "name": "The Midnight",
+        "link": "https://music.163.com/artist?id=12023492"
+      }
+    ],
+    "album": {
+      "name": "Lost & Found",
+      "link": "https://music.163.com/album?id=87277664"
+    }
+  },
+  {
+    "name": "Nemesis",
+    "link": "https://music.163.com/song?id=1449745412",
+    "duration": "04:34",
+    "artists": [
+      { "name": "Muzz", "link": "https://music.163.com/artist?id=158046" }
+    ],
+    "album": {
+      "name": "Nemesis",
+      "link": "https://music.163.com/album?id=89745939"
+    }
+  },
+  {
+    "name": "Voices",
+    "link": "https://music.163.com/song?id=1459818933",
+    "duration": "04:09",
+    "artists": [
+      {
+        "name": "Bossfight",
+        "link": "https://music.163.com/artist?id=12262973"
+      },
+      {
+        "name": "Philip Strand",
+        "link": "https://music.163.com/artist?id=13210678"
+      }
+    ],
+    "album": {
+      "name": "Voices",
+      "link": "https://music.163.com/album?id=91860945"
+    }
+  },
+  {
+    "name": "Father Ocean (Ben Böhmer Remix)",
+    "link": "https://music.163.com/song?id=1330316671",
+    "duration": "07:56",
+    "artists": [
+      {
+        "name": "Monolink",
+        "link": "https://music.163.com/artist?id=12474510"
+      },
+      {
+        "name": "Ben Böhmer",
+        "link": "https://music.163.com/artist?id=13080362"
+      }
+    ],
+    "album": {
+      "name": "Father Ocean",
+      "link": "https://music.163.com/album?id=74715036"
+    }
+  },
+  {
+    "name": "One Night",
+    "link": "https://music.163.com/song?id=1500604652",
+    "duration": "03:12",
+    "artists": [
+      {
+        "name": "Timecop1983",
+        "link": "https://music.163.com/artist?id=954496"
+      },
+      {
+        "name": "Josh Dally",
+        "link": "https://music.163.com/artist?id=33510074"
+      }
+    ],
+    "album": {
+      "name": "One Night",
+      "link": "https://music.163.com/album?id=99156496"
+    }
+  },
+  {
+    "name": "Never Be Like You (Funk LeBlanc Remix)",
+    "link": "https://music.163.com/song?id=509726053",
+    "duration": "04:22",
+    "artists": [
+      {
+        "name": "Funk LeBlanc",
+        "link": "https://music.163.com/artist?id=12676242"
+      }
+    ],
+    "album": {
+      "name": "Never Be Like You (Funk LeBlanc Remix)",
+      "link": "https://music.163.com/album?id=36451200"
+    }
+  },
+  {
+    "name": "Robot Daydream (Original Mix)",
+    "link": "https://music.163.com/song?id=41631081",
+    "duration": "04:16",
+    "artists": [
+      { "name": "Solstis", "link": "https://music.163.com/artist?id=1116224" }
+    ],
+    "album": {
+      "name": "Robot Daydream",
+      "link": "https://music.163.com/album?id=3443390"
+    }
+  },
+  {
+    "name": "Polygon Dust",
+    "link": "https://music.163.com/song?id=28912009",
+    "duration": "03:29",
+    "artists": [
+      {
+        "name": "Porter Robinson",
+        "link": "https://music.163.com/artist?id=185871"
+      },
+      { "name": "Lemâitre", "link": "https://music.163.com/artist?id=96089" }
+    ],
+    "album": {
+      "name": "Worlds",
+      "link": "https://music.163.com/album?id=2915252"
+    }
+  }
+]
