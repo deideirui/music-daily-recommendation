@@ -1,0 +1,473 @@
+[
+  {
+    "name": "Overcome",
+    "link": "https://music.163.com/song?id=1341122919",
+    "duration": "03:38",
+    "artists": [
+      {
+        "name": "GrunJ idle",
+        "link": "https://music.163.com/artist?id=13977801"
+      }
+    ],
+    "album": {
+      "name": "Overcome",
+      "link": "https://music.163.com/album?id=75273866"
+    }
+  },
+  {
+    "name": "Stitches",
+    "link": "https://music.163.com/song?id=1864535406",
+    "duration": "03:26",
+    "artists": [
+      {
+        "name": "Shawn Mendes",
+        "link": "https://music.163.com/artist?id=956238"
+      }
+    ],
+    "album": {
+      "name": "Goodbye School Hello Summer",
+      "link": "https://music.163.com/album?id=130958498"
+    }
+  },
+  {
+    "name": "Autumn",
+    "link": "https://music.163.com/song?id=535266611",
+    "duration": "03:46",
+    "artists": [
+      {
+        "name": "CASE（呆萌K）",
+        "link": "https://music.163.com/artist?id=12078075"
+      }
+    ],
+    "album": {
+      "name": "四季",
+      "link": "https://music.163.com/album?id=37487140"
+    }
+  },
+  {
+    "name": "Goodbye To A World",
+    "link": "https://music.163.com/song?id=28912015",
+    "duration": "05:28",
+    "artists": [
+      {
+        "name": "Porter Robinson",
+        "link": "https://music.163.com/artist?id=185871"
+      }
+    ],
+    "album": {
+      "name": "Worlds",
+      "link": "https://music.163.com/album?id=2915252"
+    }
+  },
+  {
+    "name": "The High Seas",
+    "link": "https://music.163.com/song?id=1334754377",
+    "duration": "03:22",
+    "artists": [
+      { "name": "EnV", "link": "https://music.163.com/artist?id=836033" }
+    ],
+    "album": {
+      "name": "The High Seas",
+      "link": "https://music.163.com/album?id=74950946"
+    }
+  },
+  {
+    "name": "Submerge",
+    "link": "https://music.163.com/song?id=1394740122",
+    "duration": "08:26",
+    "artists": [
+      {
+        "name": "Roald Velden",
+        "link": "https://music.163.com/artist?id=178498"
+      },
+      {
+        "name": "Sunset Moments",
+        "link": "https://music.163.com/artist?id=12356690"
+      }
+    ],
+    "album": {
+      "name": "Submerge",
+      "link": "https://music.163.com/album?id=82119038"
+    }
+  },
+  {
+    "name": "Apmah",
+    "link": "https://music.163.com/song?id=1806648869",
+    "duration": "02:14",
+    "artists": [
+      { "name": "沈曦", "link": "https://music.163.com/artist?id=34197060" }
+    ],
+    "album": {
+      "name": "Love Is Gone",
+      "link": "https://music.163.com/album?id=120768340"
+    }
+  },
+  {
+    "name": "水(Original Mix)",
+    "link": "https://music.163.com/song?id=460793376",
+    "duration": "02:50",
+    "artists": [
+      { "name": "LeeAlive", "link": "https://music.163.com/artist?id=12002020" }
+    ],
+    "album": {
+      "name": "水(Original Mix)",
+      "link": "https://music.163.com/album?id=35190493"
+    }
+  },
+  {
+    "name": "Dressing",
+    "link": "https://music.163.com/song?id=522320364",
+    "duration": "02:02",
+    "artists": [
+      {
+        "name": "Marco McKinnis",
+        "link": "https://music.163.com/artist?id=12131523"
+      }
+    ],
+    "album": {
+      "name": "Festen",
+      "link": "https://music.163.com/album?id=36875259"
+    }
+  },
+  {
+    "name": "Sagittarius",
+    "link": "https://music.163.com/song?id=29411594",
+    "duration": "06:48",
+    "artists": [
+      {
+        "name": "Andrew Lang",
+        "link": "https://music.163.com/artist?id=745028"
+      }
+    ],
+    "album": {
+      "name": "Sagittarius",
+      "link": "https://music.163.com/album?id=3020121"
+    }
+  },
+  {
+    "name": "Waterfall",
+    "link": "https://music.163.com/song?id=33911581",
+    "duration": "07:27",
+    "artists": [
+      {
+        "name": "Luigi Lusini",
+        "link": "https://music.163.com/artist?id=38282"
+      }
+    ],
+    "album": {
+      "name": "I'll Be Home",
+      "link": "https://music.163.com/album?id=3266157"
+    }
+  },
+  {
+    "name": "Like I Love You (Money G Radio Edit)",
+    "link": "https://music.163.com/song?id=1307762793",
+    "duration": "03:42",
+    "artists": [
+      { "name": "R.I.O.", "link": "https://music.163.com/artist?id=42495" }
+    ],
+    "album": {
+      "name": "Like I Love You",
+      "link": "https://music.163.com/album?id=73037409"
+    }
+  },
+  {
+    "name": "Near Light",
+    "link": "https://music.163.com/song?id=16139392",
+    "duration": "03:28",
+    "artists": [
+      {
+        "name": "Ólafur Arnalds",
+        "link": "https://music.163.com/artist?id=40858"
+      }
+    ],
+    "album": {
+      "name": "Living Room Songs",
+      "link": "https://music.163.com/album?id=1489044"
+    }
+  },
+  {
+    "name": "Beyond Memory (Original Mix)",
+    "link": "https://music.163.com/song?id=554284181",
+    "duration": "03:35",
+    "artists": [
+      { "name": "Nina", "link": "https://music.163.com/artist?id=149874" }
+    ],
+    "album": {
+      "name": "Pure Synthwave, Vol. 1",
+      "link": "https://music.163.com/album?id=38429768"
+    }
+  },
+  {
+    "name": "Reality (Original Edit)",
+    "link": "https://music.163.com/song?id=28433990",
+    "duration": "03:31",
+    "artists": [
+      { "name": "Rebourne", "link": "https://music.163.com/artist?id=896383" },
+      { "name": "Neilio", "link": "https://music.163.com/artist?id=210417" }
+    ],
+    "album": {
+      "name": "Reality",
+      "link": "https://music.163.com/album?id=2791582"
+    }
+  },
+  {
+    "name": "There's A Light",
+    "link": "https://music.163.com/song?id=1368952911",
+    "duration": "03:52",
+    "artists": [
+      { "name": "Yonetro", "link": "https://music.163.com/artist?id=12095285" },
+      {
+        "name": "Miss Lina",
+        "link": "https://music.163.com/artist?id=12132419"
+      }
+    ],
+    "album": {
+      "name": "There's A Light",
+      "link": "https://music.163.com/album?id=79498085"
+    }
+  },
+  {
+    "name": "Help",
+    "link": "https://music.163.com/song?id=26612930",
+    "duration": "04:09",
+    "artists": [
+      {
+        "name": "Postiljonen",
+        "link": "https://music.163.com/artist?id=725356"
+      }
+    ],
+    "album": {
+      "name": "Skyer",
+      "link": "https://music.163.com/album?id=2535635"
+    }
+  },
+  {
+    "name": "FAKE",
+    "link": "https://music.163.com/song?id=28819409",
+    "duration": "03:01",
+    "artists": [
+      {
+        "name": "MY FIRST STORY",
+        "link": "https://music.163.com/artist?id=20689"
+      }
+    ],
+    "album": {
+      "name": "Black Rail",
+      "link": "https://music.163.com/album?id=2902083"
+    }
+  },
+  {
+    "name": "Superhero",
+    "link": "https://music.163.com/song?id=1888167246",
+    "duration": "03:47",
+    "artists": [
+      { "name": "ILLENIUM", "link": "https://music.163.com/artist?id=1050518" },
+      {
+        "name": "William Black",
+        "link": "https://music.163.com/artist?id=248957"
+      },
+      { "name": "ALNA", "link": "https://music.163.com/artist?id=30118673" }
+    ],
+    "album": {
+      "name": "Fallen Embers (Deluxe Version)",
+      "link": "https://music.163.com/album?id=134972676"
+    }
+  },
+  {
+    "name": "春を告げる - (宣告春天)",
+    "link": "https://music.163.com/song?id=1486106274",
+    "duration": "03:16",
+    "artists": [
+      { "name": "yama", "link": "https://music.163.com/artist?id=35796201" }
+    ],
+    "album": {
+      "name": "春を告げる",
+      "link": "https://music.163.com/album?id=96631151"
+    }
+  },
+  {
+    "name": "The Other Side Of Paradise",
+    "link": "https://music.163.com/song?id=1865094697",
+    "duration": "05:20",
+    "artists": [
+      {
+        "name": "Glass Animals",
+        "link": "https://music.163.com/artist?id=847346"
+      }
+    ],
+    "album": {
+      "name": "Beach Vacation Hits",
+      "link": "https://music.163.com/album?id=131073969"
+    }
+  },
+  {
+    "name": "Castles",
+    "link": "https://music.163.com/song?id=492144174",
+    "duration": "04:41",
+    "artists": [
+      {
+        "name": "Crystal Skies",
+        "link": "https://music.163.com/artist?id=1063127"
+      },
+      {
+        "name": "Brooks Williams",
+        "link": "https://music.163.com/artist?id=49743"
+      }
+    ],
+    "album": {
+      "name": "Dark Ages",
+      "link": "https://music.163.com/album?id=35806080"
+    }
+  },
+  {
+    "name": "These Words Between Us (Dub)",
+    "link": "https://music.163.com/song?id=33051322",
+    "duration": "07:04",
+    "artists": [
+      { "name": "Aelyn", "link": "https://music.163.com/artist?id=199554" },
+      {
+        "name": "Smooth Stab",
+        "link": "https://music.163.com/artist?id=15233716"
+      }
+    ],
+    "album": {
+      "name": "These Words Between Us",
+      "link": "https://music.163.com/album?id=3177162"
+    }
+  },
+  {
+    "name": "涙の旅路",
+    "link": "https://music.163.com/song?id=28287810",
+    "duration": "03:41",
+    "artists": [
+      {
+        "name": "TK from 凛として時雨",
+        "link": "https://music.163.com/artist?id=159644"
+      }
+    ],
+    "album": {
+      "name": "contrast",
+      "link": "https://music.163.com/album?id=2767646"
+    }
+  },
+  {
+    "name": "secret base ~君がくれたもの~ (10 years after Ver.) - (TV动画《我们仍未知道那天所看见的花的名字》片尾曲)",
+    "link": "https://music.163.com/song?id=33911781",
+    "duration": "05:52",
+    "artists": [
+      { "name": "茅野愛衣", "link": "https://music.163.com/artist?id=16906" },
+      { "name": "戸松遥", "link": "https://music.163.com/artist?id=17905" },
+      { "name": "早見沙織", "link": "https://music.163.com/artist?id=16501" }
+    ],
+    "album": {
+      "name": "secret base ～君がくれたもの～",
+      "link": "https://music.163.com/album?id=3266177"
+    }
+  },
+  {
+    "name": "Everytime We Touch (Hardwell & Maurice West Remix)",
+    "link": "https://music.163.com/song?id=1297743861",
+    "duration": "03:36",
+    "artists": [
+      { "name": "Cascada", "link": "https://music.163.com/artist?id=50900" },
+      { "name": "Hardwell", "link": "https://music.163.com/artist?id=34994" },
+      {
+        "name": "Maurice West",
+        "link": "https://music.163.com/artist?id=1043505"
+      }
+    ],
+    "album": {
+      "name": "Everytime We Touch (Hardwell & Maurice West Remix)",
+      "link": "https://music.163.com/album?id=72069896"
+    }
+  },
+  {
+    "name": "In the Starlight",
+    "link": "https://music.163.com/song?id=424995357",
+    "duration": "03:20",
+    "artists": [
+      {
+        "name": "Michelle Chamuel",
+        "link": "https://music.163.com/artist?id=211216"
+      }
+    ],
+    "album": {
+      "name": "Feel It",
+      "link": "https://music.163.com/album?id=34815058"
+    }
+  },
+  {
+    "name": "Winter",
+    "link": "https://music.163.com/song?id=1320577742",
+    "duration": "03:13",
+    "artists": [
+      { "name": "Marmalade", "link": "https://music.163.com/artist?id=96399" }
+    ],
+    "album": {
+      "name": "My Soul",
+      "link": "https://music.163.com/album?id=74098975"
+    }
+  },
+  {
+    "name": "Neon",
+    "link": "https://music.163.com/song?id=28533047",
+    "duration": "03:48",
+    "artists": [
+      {
+        "name": "Frida Sundemo",
+        "link": "https://music.163.com/artist?id=57938"
+      }
+    ],
+    "album": {
+      "name": "Lit Up By Neon",
+      "link": "https://music.163.com/album?id=2822308"
+    }
+  },
+  {
+    "name": "24REVERSE",
+    "link": "https://music.163.com/song?id=769773",
+    "duration": "05:06",
+    "artists": [
+      {
+        "name": "凛として時雨",
+        "link": "https://music.163.com/artist?id=160421"
+      }
+    ],
+    "album": {
+      "name": "Telecastic fake show",
+      "link": "https://music.163.com/album?id=75718"
+    }
+  },
+  {
+    "name": "Lone Ranger",
+    "link": "https://music.163.com/song?id=29803676",
+    "duration": "03:07",
+    "artists": [
+      {
+        "name": "Rachel Platten",
+        "link": "https://music.163.com/artist?id=74518"
+      }
+    ],
+    "album": {
+      "name": "Fight Song",
+      "link": "https://music.163.com/album?id=3081170"
+    }
+  },
+  {
+    "name": "In the End",
+    "link": "https://music.163.com/song?id=536182192",
+    "duration": "03:12",
+    "artists": [
+      {
+        "name": "Alex Lustig",
+        "link": "https://music.163.com/artist?id=12107624"
+      },
+      { "name": "AKACIA", "link": "https://music.163.com/artist?id=12263377" }
+    ],
+    "album": {
+      "name": "In the End",
+      "link": "https://music.163.com/album?id=37556013"
+    }
+  }
+]
