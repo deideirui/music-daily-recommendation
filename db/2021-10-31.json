@@ -1,0 +1,436 @@
+[
+  {
+    "name": "No Regrets",
+    "link": "https://music.163.com/song?id=1482201210",
+    "duration": "02:13",
+    "artists": [
+      {
+        "name": "Dash Berlin",
+        "link": "https://music.163.com/artist?id=32124"
+      },
+      {
+        "name": "Jordan Grace",
+        "link": "https://music.163.com/artist?id=33078903"
+      }
+    ],
+    "album": {
+      "name": "No Regrets",
+      "link": "https://music.163.com/album?id=95954570"
+    }
+  },
+  {
+    "name": "Afterhours",
+    "link": "https://music.163.com/song?id=1363620027",
+    "duration": "03:25",
+    "artists": [
+      {
+        "name": "teamwork",
+        "link": "https://music.163.com/artist?id=32120712"
+      },
+      {
+        "name": "Nina Nesbitt",
+        "link": "https://music.163.com/artist?id=70292"
+      },
+      {
+        "name": "AJ Mitchell",
+        "link": "https://music.163.com/artist?id=12914329"
+      }
+    ],
+    "album": {
+      "name": "Afterhours",
+      "link": "https://music.163.com/album?id=78958233"
+    }
+  },
+  {
+    "name": "Dance You Off",
+    "link": "https://music.163.com/song?id=541687307",
+    "duration": "03:03",
+    "artists": [
+      {
+        "name": "Benjamin Ingrosso",
+        "link": "https://music.163.com/artist?id=1180073"
+      }
+    ],
+    "album": {
+      "name": "Dance You Off",
+      "link": "https://music.163.com/album?id=37561946"
+    }
+  },
+  {
+    "name": "Outside",
+    "link": "https://music.163.com/song?id=37455180",
+    "duration": "03:42",
+    "artists": [
+      {
+        "name": "Ellie Goulding",
+        "link": "https://music.163.com/artist?id=56598"
+      },
+      {
+        "name": "Calvin Harris",
+        "link": "https://music.163.com/artist?id=29968"
+      }
+    ],
+    "album": {
+      "name": "Party Mixtape",
+      "link": "https://music.163.com/album?id=3417417"
+    }
+  },
+  {
+    "name": "The Storm",
+    "link": "https://music.163.com/song?id=1417907835",
+    "duration": "02:48",
+    "artists": [
+      {
+        "name": "TheFatRat",
+        "link": "https://music.163.com/artist?id=1019952"
+      },
+      { "name": "Maisy Kay", "link": "https://music.163.com/artist?id=1124551" }
+    ],
+    "album": {
+      "name": "The Storm",
+      "link": "https://music.163.com/album?id=85101961"
+    }
+  },
+  {
+    "name": "I See You",
+    "link": "https://music.163.com/song?id=1351664230",
+    "duration": "03:48",
+    "artists": [
+      { "name": "Missio", "link": "https://music.163.com/artist?id=1038292" }
+    ],
+    "album": {
+      "name": "I See You",
+      "link": "https://music.163.com/album?id=75836312"
+    }
+  },
+  {
+    "name": "Back to 8",
+    "link": "https://music.163.com/song?id=1391702970",
+    "duration": "03:01",
+    "artists": [
+      { "name": "Else", "link": "https://music.163.com/artist?id=1181848" }
+    ],
+    "album": {
+      "name": "Sequence, Pt. I",
+      "link": "https://music.163.com/album?id=81730224"
+    }
+  },
+  {
+    "name": "Stand Alone",
+    "link": "https://music.163.com/song?id=1367329985",
+    "duration": "03:23",
+    "artists": [
+      { "name": "obylx", "link": "https://music.163.com/artist?id=29280828" }
+    ],
+    "album": {
+      "name": "Stand Alone",
+      "link": "https://music.163.com/album?id=79369998"
+    }
+  },
+  {
+    "name": "Flemington",
+    "link": "https://music.163.com/song?id=1814178805",
+    "duration": "03:52",
+    "artists": [
+      { "name": "Tom Day", "link": "https://music.163.com/artist?id=103812" }
+    ],
+    "album": {
+      "name": "Selected Works",
+      "link": "https://music.163.com/album?id=122010595"
+    }
+  },
+  {
+    "name": "Blame",
+    "link": "https://music.163.com/song?id=29460064",
+    "duration": "03:33",
+    "artists": [
+      {
+        "name": "Calvin Harris",
+        "link": "https://music.163.com/artist?id=29968"
+      },
+      {
+        "name": "John Newman",
+        "link": "https://music.163.com/artist?id=195302"
+      }
+    ],
+    "album": {
+      "name": "Motion",
+      "link": "https://music.163.com/album?id=3029170"
+    }
+  },
+  {
+    "name": "CX",
+    "link": "https://music.163.com/song?id=455692044",
+    "duration": "03:07",
+    "artists": [
+      {
+        "name": "LevitateXC",
+        "link": "https://music.163.com/artist?id=12183535"
+      }
+    ],
+    "album": {
+      "name": "Cxetativel",
+      "link": "https://music.163.com/album?id=35148446"
+    }
+  },
+  {
+    "name": "星茶会",
+    "link": "https://music.163.com/song?id=492390949",
+    "duration": "03:16",
+    "artists": [
+      { "name": "灰澈", "link": "https://music.163.com/artist?id=12520634" }
+    ],
+    "album": {
+      "name": "星茶会",
+      "link": "https://music.163.com/album?id=35808228"
+    }
+  },
+  {
+    "name": "Big Words",
+    "link": "https://music.163.com/song?id=569870379",
+    "duration": "03:22",
+    "artists": [
+      { "name": "Klaas", "link": "https://music.163.com/artist?id=106210" }
+    ],
+    "album": {
+      "name": "Big Words",
+      "link": "https://music.163.com/album?id=39391421"
+    }
+  },
+  {
+    "name": "Road Trip",
+    "link": "https://music.163.com/song?id=34468943",
+    "duration": "03:55",
+    "artists": [
+      {
+        "name": "Patrick Lite",
+        "link": "https://music.163.com/artist?id=1146061"
+      }
+    ],
+    "album": {
+      "name": "Road Trip (Original Mix)",
+      "link": "https://music.163.com/album?id=3286138"
+    }
+  },
+  {
+    "name": "Summer Vibes",
+    "link": "https://music.163.com/song?id=1847318168",
+    "duration": "04:04",
+    "artists": [
+      { "name": "Nightarc", "link": "https://music.163.com/artist?id=32930933" }
+    ],
+    "album": {
+      "name": "Summer Vibes ID",
+      "link": "https://music.163.com/album?id=127833888"
+    }
+  },
+  {
+    "name": "Summer",
+    "link": "https://music.163.com/song?id=1374084004",
+    "duration": "03:06",
+    "artists": [
+      {
+        "name": "Ace Marino",
+        "link": "https://music.163.com/artist?id=30146866"
+      }
+    ],
+    "album": {
+      "name": "Summer",
+      "link": "https://music.163.com/album?id=80005714"
+    }
+  },
+  {
+    "name": "Ghost Voices (Lane 8 Remix)",
+    "link": "https://music.163.com/song?id=1349262921",
+    "duration": "05:04",
+    "artists": [
+      { "name": "Lane 8", "link": "https://music.163.com/artist?id=787072" },
+      {
+        "name": "Virtual Self",
+        "link": "https://music.163.com/artist?id=12773843"
+      }
+    ],
+    "album": {
+      "name": "Ghost Voices (Lane 8 Remix)",
+      "link": "https://music.163.com/album?id=75740148"
+    }
+  },
+  {
+    "name": "Leaving",
+    "link": "https://music.163.com/song?id=507585215",
+    "duration": "03:54",
+    "artists": [
+      { "name": "ILLENIUM", "link": "https://music.163.com/artist?id=1050518" },
+      { "name": "EDEN", "link": "https://music.163.com/artist?id=1116149" }
+    ],
+    "album": {
+      "name": "Awake",
+      "link": "https://music.163.com/album?id=36290028"
+    }
+  },
+  {
+    "name": "群青 - (BOURBON波路梦「帆船mini巧克力饼干」新CM曲)",
+    "link": "https://music.163.com/song?id=1472480890",
+    "duration": "04:08",
+    "artists": [
+      { "name": "YOASOBI", "link": "https://music.163.com/artist?id=33927412" }
+    ],
+    "album": {
+      "name": "群青",
+      "link": "https://music.163.com/album?id=94214994"
+    }
+  },
+  {
+    "name": "Straight Line",
+    "link": "https://music.163.com/song?id=479226330",
+    "duration": "03:07",
+    "artists": [
+      { "name": "X9", "link": "https://music.163.com/artist?id=12205585" }
+    ],
+    "album": {
+      "name": "Straight Line",
+      "link": "https://music.163.com/album?id=35533048"
+    }
+  },
+  {
+    "name": "Stormy Love, NM.",
+    "link": "https://music.163.com/song?id=1314726251",
+    "duration": "03:47",
+    "artists": [
+      { "name": "ZHU", "link": "https://music.163.com/artist?id=210132" },
+      { "name": "JOY.", "link": "https://music.163.com/artist?id=1124190" }
+    ],
+    "album": {
+      "name": "RINGOS DESERT",
+      "link": "https://music.163.com/album?id=73746703"
+    }
+  },
+  {
+    "name": "Because The Night",
+    "link": "https://music.163.com/song?id=1814076248",
+    "duration": "03:36",
+    "artists": [
+      {
+        "name": "The Midnight",
+        "link": "https://music.163.com/artist?id=12023492"
+      },
+      {
+        "name": "Nikki Flores",
+        "link": "https://music.163.com/artist?id=70141"
+      }
+    ],
+    "album": {
+      "name": "Horror Show",
+      "link": "https://music.163.com/album?id=122000677"
+    }
+  },
+  {
+    "name": "Congratulations (Remix)",
+    "link": "https://music.163.com/song?id=1810604123",
+    "duration": "03:22",
+    "artists": [
+      {
+        "name": "Winnetka Bowling League",
+        "link": "https://music.163.com/artist?id=28501955"
+      },
+      {
+        "name": "Midnight Kids",
+        "link": "https://music.163.com/artist?id=13192314"
+      }
+    ],
+    "album": {
+      "name": "Congratulations (Remix)",
+      "link": "https://music.163.com/album?id=121403633"
+    }
+  },
+  {
+    "name": "illusion is mine (Live from \"December's Calling\" at 赤坂BLITZ 2013.12.22)",
+    "link": "https://music.163.com/song?id=28287811",
+    "duration": "06:18",
+    "artists": [
+      {
+        "name": "TK from 凛として時雨",
+        "link": "https://music.163.com/artist?id=159644"
+      }
+    ],
+    "album": {
+      "name": "contrast",
+      "link": "https://music.163.com/album?id=2767646"
+    }
+  },
+  {
+    "name": "あいことば",
+    "link": "https://music.163.com/song?id=1468729036",
+    "duration": "05:49",
+    "artists": [
+      {
+        "name": "MY FIRST STORY",
+        "link": "https://music.163.com/artist?id=20689"
+      }
+    ],
+    "album": { "name": "Ⅴ", "link": "https://music.163.com/album?id=93559023" }
+  },
+  {
+    "name": "Win You Over",
+    "link": "https://music.163.com/song?id=1354657663",
+    "duration": "03:29",
+    "artists": [
+      { "name": "Whethan", "link": "https://music.163.com/artist?id=12095179" },
+      { "name": "Bearson", "link": "https://music.163.com/artist?id=1057034" },
+      { "name": "Soak", "link": "https://music.163.com/artist?id=76883" }
+    ],
+    "album": {
+      "name": "Win You Over",
+      "link": "https://music.163.com/album?id=78222763"
+    }
+  },
+  {
+    "name": "心做し",
+    "link": "https://music.163.com/song?id=478303470",
+    "duration": "04:28",
+    "artists": [{ "name": "双满置向海笙", "link": "" }],
+    "album": {
+      "name": "心做し",
+      "link": "https://music.163.com/album?id=35502568"
+    }
+  },
+  {
+    "name": "Weather",
+    "link": "https://music.163.com/song?id=1307892777",
+    "duration": "03:21",
+    "artists": [
+      { "name": "Ralph", "link": "https://music.163.com/artist?id=12049282" }
+    ],
+    "album": {
+      "name": "A Good Girl",
+      "link": "https://music.163.com/album?id=73053315"
+    }
+  },
+  {
+    "name": "南半球与北海道",
+    "link": "https://music.163.com/song?id=1888215863",
+    "duration": "03:29",
+    "artists": [
+      { "name": "范倪Liu", "link": "https://music.163.com/artist?id=37060073" }
+    ],
+    "album": {
+      "name": "南半球与北海道",
+      "link": "https://music.163.com/album?id=134979060"
+    }
+  },
+  {
+    "name": "Talk to Me Like the Sea",
+    "link": "https://music.163.com/song?id=1310063728",
+    "duration": "04:33",
+    "artists": [
+      {
+        "name": "Softer Still",
+        "link": "https://music.163.com/artist?id=12073501"
+      }
+    ],
+    "album": {
+      "name": "Junipero",
+      "link": "https://music.163.com/album?id=73345146"
+    }
+  }
+]
