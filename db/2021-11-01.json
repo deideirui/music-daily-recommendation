@@ -1,0 +1,473 @@
+[
+  {
+    "name": "No Regrets",
+    "link": "https://music.163.com/song?id=29091053",
+    "duration": "04:49",
+    "artists": [
+      {
+        "name": "Makeup and Vanity Set",
+        "link": "https://music.163.com/artist?id=725480"
+      }
+    ],
+    "album": {
+      "name": "88:88",
+      "link": "https://music.163.com/album?id=2988567"
+    }
+  },
+  {
+    "name": "Foolish",
+    "link": "https://music.163.com/song?id=567599802",
+    "duration": "03:07",
+    "artists": [
+      { "name": "CLARA", "link": "https://music.163.com/artist?id=12871090" }
+    ],
+    "album": {
+      "name": "Foolish",
+      "link": "https://music.163.com/album?id=39356166"
+    }
+  },
+  {
+    "name": "Avocado Toast",
+    "link": "https://music.163.com/song?id=1296946992",
+    "duration": "03:31",
+    "artists": [
+      {
+        "name": "Emily Zeck",
+        "link": "https://music.163.com/artist?id=12356669"
+      }
+    ],
+    "album": {
+      "name": "Avocado Toast",
+      "link": "https://music.163.com/album?id=72035144"
+    }
+  },
+  {
+    "name": "One More Light - (又一道光芒)",
+    "link": "https://music.163.com/song?id=460043753",
+    "duration": "04:15",
+    "artists": [
+      { "name": "Linkin Park", "link": "https://music.163.com/artist?id=95439" }
+    ],
+    "album": {
+      "name": "One More Light",
+      "link": "https://music.163.com/album?id=35150852"
+    }
+  },
+  {
+    "name": "High Hopes",
+    "link": "https://music.163.com/song?id=1358168845",
+    "duration": "03:21",
+    "artists": [
+      {
+        "name": "Gabriela Bee",
+        "link": "https://music.163.com/artist?id=31798212"
+      }
+    ],
+    "album": {
+      "name": "High Hopes",
+      "link": "https://music.163.com/album?id=78477256"
+    }
+  },
+  {
+    "name": "Red Wine",
+    "link": "https://music.163.com/song?id=1318115725",
+    "duration": "03:22",
+    "artists": [
+      { "name": "MØ", "link": "https://music.163.com/artist?id=783150" },
+      {
+        "name": "Empress Of",
+        "link": "https://music.163.com/artist?id=1070074"
+      }
+    ],
+    "album": {
+      "name": "Forever Neverland",
+      "link": "https://music.163.com/album?id=73931721"
+    }
+  },
+  {
+    "name": "Burn It All Down - (不可阻挡)",
+    "link": "https://music.163.com/song?id=1883055510",
+    "duration": "03:20",
+    "artists": [
+      { "name": "ARI", "link": "https://music.163.com/artist?id=49606584" }
+    ],
+    "album": {
+      "name": "英雄联盟",
+      "link": "https://music.163.com/album?id=134081018"
+    }
+  },
+  {
+    "name": "Never Too Late",
+    "link": "https://music.163.com/song?id=1340754993",
+    "duration": "07:35",
+    "artists": [
+      { "name": "Alex H", "link": "https://music.163.com/artist?id=370950" },
+      {
+        "name": "Lumidelic",
+        "link": "https://music.163.com/artist?id=12647403"
+      }
+    ],
+    "album": {
+      "name": "Never Too Late",
+      "link": "https://music.163.com/album?id=75263178"
+    }
+  },
+  {
+    "name": "After All This Time",
+    "link": "https://music.163.com/song?id=29490361",
+    "duration": "08:40",
+    "artists": [
+      {
+        "name": "Roald Velden",
+        "link": "https://music.163.com/artist?id=178498"
+      },
+      { "name": "Alex H", "link": "https://music.163.com/artist?id=370950" }
+    ],
+    "album": {
+      "name": "Last Flight Home",
+      "link": "https://music.163.com/album?id=3033342"
+    }
+  },
+  {
+    "name": "Empty (Original mix)",
+    "link": "https://music.163.com/song?id=514121385",
+    "duration": "06:01",
+    "artists": [
+      { "name": "Winterya", "link": "https://music.163.com/artist?id=12777977" }
+    ],
+    "album": {
+      "name": "Empty / Limerence",
+      "link": "https://music.163.com/album?id=36637362"
+    }
+  },
+  {
+    "name": "Sky (Radio Edit)",
+    "link": "https://music.163.com/song?id=29553031",
+    "duration": "03:56",
+    "artists": [
+      { "name": "Steerner", "link": "https://music.163.com/artist?id=783190" },
+      { "name": "Martell", "link": "https://music.163.com/artist?id=12023568" }
+    ],
+    "album": { "name": "Sky", "link": "https://music.163.com/album?id=3044006" }
+  },
+  {
+    "name": "Sarah Come Home",
+    "link": "https://music.163.com/song?id=1407281976",
+    "duration": "03:33",
+    "artists": [
+      { "name": "Allie X", "link": "https://music.163.com/artist?id=973030" }
+    ],
+    "album": {
+      "name": "Cape God",
+      "link": "https://music.163.com/album?id=83833042"
+    }
+  },
+  {
+    "name": "Aliens",
+    "link": "https://music.163.com/song?id=1381365049",
+    "duration": "04:03",
+    "artists": [
+      { "name": "Wice", "link": "https://music.163.com/artist?id=32904830" }
+    ],
+    "album": {
+      "name": "Wice",
+      "link": "https://music.163.com/album?id=80717743"
+    }
+  },
+  {
+    "name": "summertime",
+    "link": "https://music.163.com/song?id=531786301",
+    "duration": "04:11",
+    "artists": [
+      {
+        "name": "cinnamons",
+        "link": "https://music.163.com/artist?id=12603665"
+      },
+      {
+        "name": "evening cinema",
+        "link": "https://music.163.com/artist?id=12440166"
+      }
+    ],
+    "album": {
+      "name": "summertime",
+      "link": "https://music.163.com/album?id=37313313"
+    }
+  },
+  {
+    "name": "烟云",
+    "link": "https://music.163.com/song?id=1445585886",
+    "duration": "02:56",
+    "artists": [
+      {
+        "name": "Infinite Mask",
+        "link": "https://music.163.com/artist?id=33037476"
+      }
+    ],
+    "album": {
+      "name": "烟云",
+      "link": "https://music.163.com/album?id=88905288"
+    }
+  },
+  {
+    "name": "迢迢",
+    "link": "https://music.163.com/song?id=1302203708",
+    "duration": "04:08",
+    "artists": [
+      { "name": "Croem", "link": "https://music.163.com/artist?id=12610351" }
+    ],
+    "album": {
+      "name": "迢迢",
+      "link": "https://music.163.com/album?id=72321881"
+    }
+  },
+  {
+    "name": "インドア系ならトラックメイカー - (内向都是作曲家)",
+    "link": "https://music.163.com/song?id=424262056",
+    "duration": "03:17",
+    "artists": [
+      { "name": "Yunomi", "link": "https://music.163.com/artist?id=1025016" },
+      { "name": "nicamoq", "link": "https://music.163.com/artist?id=12605718" }
+    ],
+    "album": {
+      "name": "インドア系ならトラックメイカー",
+      "link": "https://music.163.com/album?id=34809022"
+    }
+  },
+  {
+    "name": "CHINA-2",
+    "link": "https://music.163.com/song?id=548633609",
+    "duration": "03:22",
+    "artists": [
+      { "name": "Sand", "link": "https://music.163.com/artist?id=12271965" }
+    ],
+    "album": {
+      "name": "【EDM】CHINA（中国风电音）",
+      "link": "https://music.163.com/album?id=38034650"
+    }
+  },
+  {
+    "name": "懒人（Cover 空气凝）",
+    "link": "https://music.163.com/song?id=1462427219",
+    "duration": "03:26",
+    "artists": [
+      {
+        "name": "三无MarBlue",
+        "link": "https://music.163.com/artist?id=1056002"
+      }
+    ],
+    "album": {
+      "name": "翻唱合集（更新到《overthink》",
+      "link": "https://music.163.com/album?id=85091825"
+    }
+  },
+  {
+    "name": "我不要一直想你",
+    "link": "https://music.163.com/song?id=1846094285",
+    "duration": "03:06",
+    "artists": [
+      { "name": "杨胖雨", "link": "https://music.163.com/artist?id=31051426" },
+      {
+        "name": "yihuik苡慧",
+        "link": "https://music.163.com/artist?id=36032190"
+      }
+    ],
+    "album": {
+      "name": "我不要一直想你",
+      "link": "https://music.163.com/album?id=127632736"
+    }
+  },
+  {
+    "name": "991",
+    "link": "https://music.163.com/song?id=1493255233",
+    "duration": "02:04",
+    "artists": [
+      { "name": "NINEONE#", "link": "https://music.163.com/artist?id=12276375" }
+    ],
+    "album": {
+      "name": "991",
+      "link": "https://music.163.com/album?id=97956256"
+    }
+  },
+  {
+    "name": "意志薄弱",
+    "link": "https://music.163.com/song?id=1818392384",
+    "duration": "03:12",
+    "artists": [
+      { "name": "胡晓松儿", "link": "https://music.163.com/artist?id=13147277" }
+    ],
+    "album": {
+      "name": "极致的利己主义者",
+      "link": "https://music.163.com/album?id=96029345"
+    }
+  },
+  {
+    "name": "最爱",
+    "link": "https://music.163.com/song?id=1401267466",
+    "duration": "04:10",
+    "artists": [
+      { "name": "阿梨粤", "link": "https://music.163.com/artist?id=33230219" }
+    ],
+    "album": {
+      "name": "最爱",
+      "link": "https://music.163.com/album?id=83012071"
+    }
+  },
+  {
+    "name": "Drown (feat. Clinton Kane) (Alle Farben Remix)",
+    "link": "https://music.163.com/song?id=1444426834",
+    "duration": "02:49",
+    "artists": [
+      {
+        "name": "Martin Garrix",
+        "link": "https://music.163.com/artist?id=780003"
+      },
+      {
+        "name": "Clinton Kane",
+        "link": "https://music.163.com/artist?id=32796183"
+      },
+      {
+        "name": "Alle Farben",
+        "link": "https://music.163.com/artist?id=206027"
+      }
+    ],
+    "album": {
+      "name": "Drown (Remixes)",
+      "link": "https://music.163.com/album?id=88723263"
+    }
+  },
+  {
+    "name": "Something Just Like This(Megamix)",
+    "link": "https://music.163.com/song?id=471565537",
+    "duration": "04:09",
+    "artists": [
+      {
+        "name": "AnDyWuMUSICLAND",
+        "link": "https://music.163.com/artist?id=11998011"
+      },
+      {
+        "name": "Worry Free Studios",
+        "link": "https://music.163.com/artist?id=46503501"
+      }
+    ],
+    "album": {
+      "name": "Something Just Like This (Megamix)",
+      "link": "https://music.163.com/album?id=35358163"
+    }
+  },
+  {
+    "name": "恋愛サーキュレーション - (恋爱循环 (TV动画《化物语》OP4))",
+    "link": "https://music.163.com/song?id=579954",
+    "duration": "04:13",
+    "artists": [
+      { "name": "花澤香菜", "link": "https://music.163.com/artist?id=16456" }
+    ],
+    "album": {
+      "name": "恋愛サーキュレーション & あとがたり",
+      "link": "https://music.163.com/album?id=54680"
+    }
+  },
+  {
+    "name": "Dancin (Krono Remix)",
+    "link": "https://music.163.com/song?id=439121233",
+    "duration": "03:18",
+    "artists": [
+      {
+        "name": "Aaron Smith",
+        "link": "https://music.163.com/artist?id=145965"
+      },
+      { "name": "Luvli", "link": "https://music.163.com/artist?id=296961" },
+      { "name": "Krono", "link": "https://music.163.com/artist?id=438424" }
+    ],
+    "album": {
+      "name": "Dancin",
+      "link": "https://music.163.com/album?id=34975067"
+    }
+  },
+  {
+    "name": "Interlude",
+    "link": "https://music.163.com/song?id=1830531092",
+    "duration": "02:38",
+    "artists": [
+      { "name": "Pippi", "link": "https://music.163.com/artist?id=31669280" }
+    ],
+    "album": {
+      "name": "How to Kill the Cat",
+      "link": "https://music.163.com/album?id=124551697"
+    }
+  },
+  {
+    "name": "瞬间",
+    "link": "https://music.163.com/song?id=1399728554",
+    "duration": "03:55",
+    "artists": [
+      { "name": "容云", "link": "https://music.163.com/artist?id=31573582" }
+    ],
+    "album": {
+      "name": "瞬间",
+      "link": "https://music.163.com/album?id=81865270"
+    }
+  },
+  {
+    "name": "X Æ A-12",
+    "link": "https://music.163.com/song?id=1486037574",
+    "duration": "04:45",
+    "artists": [
+      {
+        "name": "Extra Terra",
+        "link": "https://music.163.com/artist?id=1116244"
+      }
+    ],
+    "album": {
+      "name": "Projekt 2077",
+      "link": "https://music.163.com/album?id=96622328"
+    }
+  },
+  {
+    "name": "Numb",
+    "link": "https://music.163.com/song?id=1472538276",
+    "duration": "02:10",
+    "artists": [
+      {
+        "name": "Arc North",
+        "link": "https://music.163.com/artist?id=1137410"
+      },
+      {
+        "name": "New Beat Order",
+        "link": "https://music.163.com/artist?id=30059556"
+      },
+      {
+        "name": "Aaron Richards",
+        "link": "https://music.163.com/artist?id=14055238"
+      }
+    ],
+    "album": {
+      "name": "Numb",
+      "link": "https://music.163.com/album?id=94233903"
+    }
+  },
+  {
+    "name": "欠落オートメーション - (缺失的自我动力)",
+    "link": "https://music.163.com/song?id=26095966",
+    "duration": "03:44",
+    "artists": [
+      { "name": "ONE OK ROCK", "link": "https://music.163.com/artist?id=20878" }
+    ],
+    "album": {
+      "name": "The Beginning",
+      "link": "https://music.163.com/album?id=2386511"
+    }
+  },
+  {
+    "name": "Without Me (ILLENIUM Remix)",
+    "link": "https://music.163.com/song?id=1329891159",
+    "duration": "04:08",
+    "artists": [
+      { "name": "Halsey", "link": "https://music.163.com/artist?id=964321" },
+      { "name": "ILLENIUM", "link": "https://music.163.com/artist?id=1050518" }
+    ],
+    "album": {
+      "name": "Without Me (ILLENIUM Remix)",
+      "link": "https://music.163.com/album?id=74685057"
+    }
+  }
+]
