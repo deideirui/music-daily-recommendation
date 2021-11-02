@@ -1,0 +1,450 @@
+[
+  {
+    "name": "Sthlm Sunset",
+    "link": "https://music.163.com/song?id=1499668122",
+    "duration": "03:01",
+    "artists": [
+      { "name": "Ehrling", "link": "https://music.163.com/artist?id=12048130" }
+    ],
+    "album": {
+      "name": "Buenas Vibras",
+      "link": "https://music.163.com/album?id=98975999"
+    }
+  },
+  {
+    "name": "Zephyr",
+    "link": "https://music.163.com/song?id=26574025",
+    "duration": "03:14",
+    "artists": [
+      { "name": "Else", "link": "https://music.163.com/artist?id=1181848" }
+    ],
+    "album": {
+      "name": "Pacific",
+      "link": "https://music.163.com/album?id=2525453"
+    }
+  },
+  {
+    "name": "Dawn Of Peace",
+    "link": "https://music.163.com/song?id=1369814292",
+    "duration": "03:46",
+    "artists": [
+      { "name": "Elk角", "link": "https://music.163.com/artist?id=12906779" }
+    ],
+    "album": {
+      "name": "Dawn Of Peace",
+      "link": "https://music.163.com/album?id=79610377"
+    }
+  },
+  {
+    "name": "Sunburst - (云隙阳光)",
+    "link": "https://music.163.com/song?id=28830411",
+    "duration": "03:09",
+    "artists": [
+      { "name": "Tobu", "link": "https://music.163.com/artist?id=964486" },
+      { "name": "Itro", "link": "https://music.163.com/artist?id=1049096" }
+    ],
+    "album": {
+      "name": "Sunburst",
+      "link": "https://music.163.com/album?id=2901139"
+    }
+  },
+  {
+    "name": "O - (Fly On / O)",
+    "link": "https://music.163.com/song?id=28535295",
+    "duration": "07:46",
+    "artists": [
+      { "name": "Coldplay", "link": "https://music.163.com/artist?id=89365" }
+    ],
+    "album": {
+      "name": "Ghost Stories",
+      "link": "https://music.163.com/album?id=2767188"
+    }
+  },
+  {
+    "name": "Doubts",
+    "link": "https://music.163.com/song?id=1374466658",
+    "duration": "03:20",
+    "artists": [
+      { "name": "Mac Hunt", "link": "https://music.163.com/artist?id=32624659" }
+    ],
+    "album": {
+      "name": "Doubts",
+      "link": "https://music.163.com/album?id=80046966"
+    }
+  },
+  {
+    "name": "SHADE",
+    "link": "https://music.163.com/song?id=1397701467",
+    "duration": "02:44",
+    "artists": [
+      {
+        "name": "Buy a dreamer",
+        "link": "https://music.163.com/artist?id=33249809"
+      }
+    ],
+    "album": {
+      "name": "SHADE",
+      "link": "https://music.163.com/album?id=82526119"
+    }
+  },
+  {
+    "name": "Again",
+    "link": "https://music.163.com/song?id=1881926935",
+    "duration": "03:16",
+    "artists": [
+      { "name": "Dabin", "link": "https://music.163.com/artist?id=783446" },
+      { "name": "MYRNE", "link": "https://music.163.com/artist?id=791151" }
+    ],
+    "album": {
+      "name": "Between Broken",
+      "link": "https://music.163.com/album?id=133865923"
+    }
+  },
+  {
+    "name": "Colorblind",
+    "link": "https://music.163.com/song?id=1863570952",
+    "duration": "03:19",
+    "artists": [
+      {
+        "name": "Adventure Club",
+        "link": "https://music.163.com/artist?id=792045"
+      },
+      { "name": "Nurko", "link": "https://music.163.com/artist?id=11991089" },
+      {
+        "name": "Dayseeker",
+        "link": "https://music.163.com/artist?id=12047183"
+      }
+    ],
+    "album": {
+      "name": "Colorblind",
+      "link": "https://music.163.com/album?id=130812974"
+    }
+  },
+  {
+    "name": "Happyland",
+    "link": "https://music.163.com/song?id=535755043",
+    "duration": "03:30",
+    "artists": [
+      { "name": "暴君de", "link": "https://music.163.com/artist?id=12599289" }
+    ],
+    "album": {
+      "name": "Happyland",
+      "link": "https://music.163.com/album?id=37485507"
+    }
+  },
+  {
+    "name": "Good Things Fall Apart",
+    "link": "https://music.163.com/song?id=1384492894",
+    "duration": "03:36",
+    "artists": [
+      { "name": "ILLENIUM", "link": "https://music.163.com/artist?id=1050518" },
+      {
+        "name": "Jon Bellion",
+        "link": "https://music.163.com/artist?id=860113"
+      }
+    ],
+    "album": {
+      "name": "ASCEND",
+      "link": "https://music.163.com/album?id=80981667"
+    }
+  },
+  {
+    "name": "Oh, Miles",
+    "link": "https://music.163.com/song?id=1811079823",
+    "duration": "05:33",
+    "artists": [
+      { "name": "Lane 8", "link": "https://music.163.com/artist?id=787072" },
+      {
+        "name": "Julia Church",
+        "link": "https://music.163.com/artist?id=1135040"
+      }
+    ],
+    "album": {
+      "name": "Oh, Miles",
+      "link": "https://music.163.com/album?id=121474361"
+    }
+  },
+  {
+    "name": "Mackenzie Ziegler-Breather（唇釉 Remix）",
+    "link": "https://music.163.com/song?id=862768857",
+    "duration": "02:50",
+    "artists": [
+      { "name": "唇釉", "link": "https://music.163.com/artist?id=27728315" }
+    ],
+    "album": {
+      "name": "Breathe",
+      "link": "https://music.163.com/album?id=71641134"
+    }
+  },
+  {
+    "name": "Dynamo",
+    "link": "https://music.163.com/song?id=523250098",
+    "duration": "03:59",
+    "artists": [
+      { "name": "Puppet", "link": "https://music.163.com/artist?id=152355" }
+    ],
+    "album": {
+      "name": "Life Overseas EP",
+      "link": "https://music.163.com/album?id=36948028"
+    }
+  },
+  {
+    "name": "Parachute (Skybreak Remix)",
+    "link": "https://music.163.com/song?id=1483156736",
+    "duration": "04:08",
+    "artists": [
+      { "name": "Oliverse", "link": "https://music.163.com/artist?id=1144018" },
+      { "name": "Skybreak", "link": "https://music.163.com/artist?id=12066156" }
+    ],
+    "album": {
+      "name": "Biggest Remix Competition Of All Time",
+      "link": "https://music.163.com/album?id=96109290"
+    }
+  },
+  {
+    "name": "下沉（Bumpÿ & AZNE Remix）",
+    "link": "https://music.163.com/song?id=1841556508",
+    "duration": "03:37",
+    "artists": [
+      { "name": "Bumpÿ", "link": "https://music.163.com/artist?id=33999183" },
+      { "name": "AZNE", "link": "https://music.163.com/artist?id=34954979" },
+      { "name": "何羽阁", "link": "https://music.163.com/artist?id=46555490" }
+    ],
+    "album": {
+      "name": "下沉（Bumpÿ & AZNE Remix）",
+      "link": "https://music.163.com/album?id=126783635"
+    }
+  },
+  {
+    "name": "Worth It (Reunify vs. Kris Maydak vs. Danyka Nadeau) [feat. Danyka Nadeau] [Radio Mix]",
+    "link": "https://music.163.com/song?id=399342363",
+    "duration": "03:56",
+    "artists": [
+      {
+        "name": "Danyka Nadeau",
+        "link": "https://music.163.com/artist?id=1078277"
+      },
+      {
+        "name": "Kris Maydak",
+        "link": "https://music.163.com/artist?id=900098"
+      },
+      { "name": "Reunify", "link": "https://music.163.com/artist?id=904231" }
+    ],
+    "album": {
+      "name": "Enhanced Best Of 2015",
+      "link": "https://music.163.com/album?id=34403048"
+    }
+  },
+  {
+    "name": "walkers-Unity（ZYX-Official Remix）",
+    "link": "https://music.163.com/song?id=1392832972",
+    "duration": "03:38",
+    "artists": [
+      {
+        "name": "ZYX-Official",
+        "link": "https://music.163.com/artist?id=33027583"
+      }
+    ],
+    "album": {
+      "name": "Unity(Ramake Bootleg)",
+      "link": "https://music.163.com/album?id=81839829"
+    }
+  },
+  {
+    "name": "Collapsing World(Original Mix)",
+    "link": "https://music.163.com/song?id=1821095109",
+    "duration": "03:10",
+    "artists": [
+      { "name": "Hua满楼", "link": "https://music.163.com/artist?id=46816706" }
+    ],
+    "album": {
+      "name": "愛 億 東 升 西 落☽",
+      "link": "https://music.163.com/album?id=123127607"
+    }
+  },
+  {
+    "name": "Daylight",
+    "link": "https://music.163.com/song?id=1372188635",
+    "duration": "02:42",
+    "artists": [
+      { "name": "Seredris", "link": "https://music.163.com/artist?id=29051250" }
+    ],
+    "album": {
+      "name": "Daylight",
+      "link": "https://music.163.com/album?id=79797968"
+    }
+  },
+  {
+    "name": "カタオモイ - (单相思)",
+    "link": "https://music.163.com/song?id=431259256",
+    "duration": "03:27",
+    "artists": [
+      { "name": "Aimer", "link": "https://music.163.com/artist?id=16152" }
+    ],
+    "album": {
+      "name": "Daydream",
+      "link": "https://music.163.com/album?id=34826361"
+    }
+  },
+  {
+    "name": "Lost Control (B2A & Anklebreaker Bootleg)",
+    "link": "https://music.163.com/song?id=1357457186",
+    "duration": "03:25",
+    "artists": [
+      { "name": "B2A", "link": "https://music.163.com/artist?id=30133713" },
+      {
+        "name": "Anklebreaker",
+        "link": "https://music.163.com/artist?id=14834960"
+      }
+    ],
+    "album": {
+      "name": "Lost Control (B2A & Anklebreaker Bootleg)",
+      "link": "https://music.163.com/album?id=78376953"
+    }
+  },
+  {
+    "name": "Wildfire (feat. Millennial Trash)",
+    "link": "https://music.163.com/song?id=1822394475",
+    "duration": "04:18",
+    "artists": [
+      {
+        "name": "Skybreak",
+        "link": "https://music.163.com/artist?id=12066156"
+      },
+      {
+        "name": "Millennial Trash",
+        "link": "https://music.163.com/artist?id=33963678"
+      }
+    ],
+    "album": {
+      "name": "Lumina EP",
+      "link": "https://music.163.com/album?id=123419893"
+    }
+  },
+  {
+    "name": "Mom Song",
+    "link": "https://music.163.com/song?id=515803165",
+    "duration": "03:46",
+    "artists": [
+      { "name": "Omri", "link": "https://music.163.com/artist?id=12325223" }
+    ],
+    "album": {
+      "name": "Mom Song",
+      "link": "https://music.163.com/album?id=36682134"
+    }
+  },
+  {
+    "name": "最終回STORY",
+    "link": "https://music.163.com/song?id=27171506",
+    "duration": "04:03",
+    "artists": [
+      {
+        "name": "MY FIRST STORY",
+        "link": "https://music.163.com/artist?id=20689"
+      }
+    ],
+    "album": {
+      "name": "最終回STORY",
+      "link": "https://music.163.com/album?id=2570414"
+    }
+  },
+  {
+    "name": "amnesia",
+    "link": "https://music.163.com/song?id=1494711514",
+    "duration": "05:20",
+    "artists": [
+      { "name": "Aiobahn", "link": "https://music.163.com/artist?id=1137416" }
+    ],
+    "album": {
+      "name": "amnesia",
+      "link": "https://music.163.com/album?id=98204249"
+    }
+  },
+  {
+    "name": "パズル - (拼图)",
+    "link": "https://music.163.com/song?id=857606",
+    "duration": "04:25",
+    "artists": [
+      { "name": "ENE", "link": "https://music.163.com/artist?id=191323" }
+    ],
+    "album": {
+      "name": "voices in a bottle ～海を越え届いた歌声～",
+      "link": "https://music.163.com/album?id=85498"
+    }
+  },
+  {
+    "name": "Portilla De Bobo (Radio Edit)",
+    "link": "https://music.163.com/song?id=31165227",
+    "duration": "03:06",
+    "artists": [
+      { "name": "F.Y.I.", "link": "https://music.163.com/artist?id=513372" },
+      { "name": "Minelli", "link": "https://music.163.com/artist?id=12535248" }
+    ],
+    "album": {
+      "name": "Top Chart, Vol. 6",
+      "link": "https://music.163.com/album?id=3112576"
+    }
+  },
+  {
+    "name": "愿",
+    "link": "https://music.163.com/song?id=1411558630",
+    "duration": "03:51",
+    "artists": [
+      { "name": "宫阁", "link": "https://music.163.com/artist?id=12023517" }
+    ],
+    "album": {
+      "name": "即将上映",
+      "link": "https://music.163.com/album?id=84306898"
+    }
+  },
+  {
+    "name": "Seasons (Futuristik & Whogaux Remix)",
+    "link": "https://music.163.com/song?id=557583842",
+    "duration": "03:13",
+    "artists": [
+      {
+        "name": "Futuristik",
+        "link": "https://music.163.com/artist?id=12091065"
+      },
+      {
+        "name": "Harley Bird",
+        "link": "https://music.163.com/artist?id=12355691"
+      },
+      { "name": "Cadmium", "link": "https://music.163.com/artist?id=12945908" },
+      { "name": "Whogaux", "link": "https://music.163.com/artist?id=29188318" },
+      { "name": "Rival", "link": "https://music.163.com/artist?id=12331086" }
+    ],
+    "album": {
+      "name": "Seasons (Futuristik & Whogaux Remix)",
+      "link": "https://music.163.com/album?id=38592257"
+    }
+  },
+  {
+    "name": "Take a While",
+    "link": "https://music.163.com/song?id=1470657694",
+    "duration": "04:00",
+    "artists": [
+      {
+        "name": "Yellow Lockdown",
+        "link": "https://music.163.com/artist?id=33815762"
+      },
+      { "name": "Licellow", "link": "https://music.163.com/artist?id=33816567" }
+    ],
+    "album": {
+      "name": "Take a While",
+      "link": "https://music.163.com/album?id=93892419"
+    }
+  },
+  {
+    "name": "S.T.A.Y.",
+    "link": "https://music.163.com/song?id=29734870",
+    "duration": "06:23",
+    "artists": [
+      { "name": "Hans Zimmer", "link": "https://music.163.com/artist?id=34517" }
+    ],
+    "album": {
+      "name": "Interstellar (Original Motion Picture Soundtrack) [Expanded Edition]",
+      "link": "https://music.163.com/album?id=3056517"
+    }
+  }
+]
