@@ -1,0 +1,504 @@
+[
+  {
+    "name": "Funny",
+    "link": "https://music.163.com/song?id=1462389947",
+    "duration": "03:41",
+    "artists": [
+      { "name": "Zedd", "link": "https://music.163.com/artist?id=46376" },
+      {
+        "name": "Jasmine Thompson",
+        "link": "https://music.163.com/artist?id=863042"
+      }
+    ],
+    "album": {
+      "name": "Funny",
+      "link": "https://music.163.com/album?id=92342653"
+    }
+  },
+  {
+    "name": "Fairytale",
+    "link": "https://music.163.com/song?id=1391722152",
+    "duration": "03:13",
+    "artists": [
+      {
+        "name": "Culture Code",
+        "link": "https://music.163.com/artist?id=1049930"
+      },
+      {
+        "name": "Amanda Collis",
+        "link": "https://music.163.com/artist?id=30296250"
+      }
+    ],
+    "album": {
+      "name": "Fairytale",
+      "link": "https://music.163.com/album?id=81733443"
+    }
+  },
+  {
+    "name": "I Won't Lie",
+    "link": "https://music.163.com/song?id=1342819249",
+    "duration": "03:11",
+    "artists": [
+      {
+        "name": "Skye Holland",
+        "link": "https://music.163.com/artist?id=12356427"
+      },
+      { "name": "BRDGS", "link": "https://music.163.com/artist?id=12841815" }
+    ],
+    "album": {
+      "name": "I Won't Lie",
+      "link": "https://music.163.com/album?id=75366661"
+    }
+  },
+  {
+    "name": "Feel The Fire (Egzod Remix)",
+    "link": "https://music.163.com/song?id=444324932",
+    "duration": "03:18",
+    "artists": [
+      { "name": "Pluto", "link": "https://music.163.com/artist?id=12098062" },
+      { "name": "ye.", "link": "https://music.163.com/artist?id=12061025" },
+      { "name": "Egzod", "link": "https://music.163.com/artist?id=11970036" }
+    ],
+    "album": {
+      "name": "Feel The Fire (Remixes)",
+      "link": "https://music.163.com/album?id=35012407"
+    }
+  },
+  {
+    "name": "Turn Back Time",
+    "link": "https://music.163.com/song?id=1331800077",
+    "duration": "03:09",
+    "artists": [
+      {
+        "name": "Rich Edwards",
+        "link": "https://music.163.com/artist?id=1038214"
+      },
+      { "name": "Emelie", "link": "https://music.163.com/artist?id=15352429" }
+    ],
+    "album": {
+      "name": "Turn Back Time",
+      "link": "https://music.163.com/album?id=74808833"
+    }
+  },
+  {
+    "name": "Little More",
+    "link": "https://music.163.com/song?id=1332891451",
+    "duration": "02:45",
+    "artists": [
+      { "name": "Reboost", "link": "https://music.163.com/artist?id=12047332" }
+    ],
+    "album": {
+      "name": "Little More",
+      "link": "https://music.163.com/album?id=74857640"
+    }
+  },
+  {
+    "name": "Heartless",
+    "link": "https://music.163.com/song?id=1309715770",
+    "duration": "02:44",
+    "artists": [
+      {
+        "name": "Nick Peters",
+        "link": "https://music.163.com/artist?id=12006124"
+      },
+      {
+        "name": "Bianca & Rook",
+        "link": "https://music.163.com/artist?id=30008017"
+      }
+    ],
+    "album": {
+      "name": "Heartless",
+      "link": "https://music.163.com/album?id=73306181"
+    }
+  },
+  {
+    "name": "So Far Away",
+    "link": "https://music.163.com/song?id=521416693",
+    "duration": "03:03",
+    "artists": [
+      {
+        "name": "Martin Garrix",
+        "link": "https://music.163.com/artist?id=780003"
+      },
+      {
+        "name": "David Guetta",
+        "link": "https://music.163.com/artist?id=31211"
+      },
+      {
+        "name": "Jamie Scott",
+        "link": "https://music.163.com/artist?id=141813"
+      },
+      { "name": "Romy Dya", "link": "https://music.163.com/artist?id=12900365" }
+    ],
+    "album": {
+      "name": "So Far Away",
+      "link": "https://music.163.com/album?id=36873174"
+    }
+  },
+  {
+    "name": "Drink About",
+    "link": "https://music.163.com/song?id=550169452",
+    "duration": "03:02",
+    "artists": [
+      { "name": "SeeB", "link": "https://music.163.com/artist?id=1182169" },
+      {
+        "name": "Dagny Norvoll Sandvik",
+        "link": "https://music.163.com/artist?id=1156155"
+      }
+    ],
+    "album": {
+      "name": "Drink About",
+      "link": "https://music.163.com/album?id=38227072"
+    }
+  },
+  {
+    "name": "Circles",
+    "link": "https://music.163.com/song?id=1447773945",
+    "duration": "03:27",
+    "artists": [
+      { "name": "KASTRA", "link": "https://music.163.com/artist?id=1105094" },
+      {
+        "name": "Alex Byrne",
+        "link": "https://music.163.com/artist?id=12121159"
+      }
+    ],
+    "album": {
+      "name": "Circles",
+      "link": "https://music.163.com/album?id=89388624"
+    }
+  },
+  {
+    "name": "Can't Say Why",
+    "link": "https://music.163.com/song?id=1458205940",
+    "duration": "03:22",
+    "artists": [
+      {
+        "name": "Josh Bogert",
+        "link": "https://music.163.com/artist?id=31397013"
+      },
+      { "name": "Laüst", "link": "https://music.163.com/artist?id=30808091" },
+      { "name": "Um41k", "link": "https://music.163.com/artist?id=28691849" }
+    ],
+    "album": {
+      "name": "Can't Say Why",
+      "link": "https://music.163.com/album?id=91532452"
+    }
+  },
+  {
+    "name": "Follow",
+    "link": "https://music.163.com/song?id=1456174313",
+    "duration": "02:58",
+    "artists": [
+      { "name": "Vigiland", "link": "https://music.163.com/artist?id=1046407" },
+      {
+        "name": "Father Viola",
+        "link": "https://music.163.com/artist?id=35782975"
+      }
+    ],
+    "album": {
+      "name": "Follow",
+      "link": "https://music.163.com/album?id=91098842"
+    }
+  },
+  {
+    "name": "Last Goodbye",
+    "link": "https://music.163.com/song?id=1460652203",
+    "duration": "03:55",
+    "artists": [
+      {
+        "name": "Dreweybear",
+        "link": "https://music.163.com/artist?id=12066019"
+      },
+      { "name": "Vaance", "link": "https://music.163.com/artist?id=13160077" },
+      {
+        "name": "wilo wilde",
+        "link": "https://music.163.com/artist?id=34585305"
+      }
+    ],
+    "album": {
+      "name": "Last Goodbye",
+      "link": "https://music.163.com/album?id=91988804"
+    }
+  },
+  {
+    "name": "Still Around",
+    "link": "https://music.163.com/song?id=1472769059",
+    "duration": "02:55",
+    "artists": [
+      {
+        "name": "Justin Mylo",
+        "link": "https://music.163.com/artist?id=12082294"
+      },
+      { "name": "SMBDY", "link": "https://music.163.com/artist?id=14231716" }
+    ],
+    "album": {
+      "name": "Still Around",
+      "link": "https://music.163.com/album?id=94279646"
+    }
+  },
+  {
+    "name": "Another Friend",
+    "link": "https://music.163.com/song?id=556064597",
+    "duration": "02:52",
+    "artists": [
+      { "name": "Kiso", "link": "https://music.163.com/artist?id=1089102" },
+      { "name": "Tep No", "link": "https://music.163.com/artist?id=956357" }
+    ],
+    "album": {
+      "name": "Another Friend",
+      "link": "https://music.163.com/album?id=38519324"
+    }
+  },
+  {
+    "name": "Fly High - (神往)",
+    "link": "https://music.163.com/song?id=1490903164",
+    "duration": "04:42",
+    "artists": [
+      {
+        "name": "Spaceport Records",
+        "link": "https://music.163.com/artist?id=32971452"
+      },
+      { "name": "SuZ", "link": "https://music.163.com/artist?id=37253567" },
+      { "name": "Dulcim_", "link": "https://music.163.com/artist?id=31962014" }
+    ],
+    "album": {
+      "name": "Fly High",
+      "link": "https://music.163.com/album?id=97530202"
+    }
+  },
+  {
+    "name": "Bubble",
+    "link": "https://music.163.com/song?id=550054796",
+    "duration": "02:54",
+    "artists": [
+      {
+        "name": "Raven & Kreyn",
+        "link": "https://music.163.com/artist?id=12355744"
+      }
+    ],
+    "album": {
+      "name": "Bubble",
+      "link": "https://music.163.com/album?id=38177797"
+    }
+  },
+  {
+    "name": "Your Love",
+    "link": "https://music.163.com/song?id=1377442158",
+    "duration": "03:15",
+    "artists": [
+      {
+        "name": "Dirty Palm",
+        "link": "https://music.163.com/artist?id=1155029"
+      }
+    ],
+    "album": {
+      "name": "Your Love",
+      "link": "https://music.163.com/album?id=80349975"
+    }
+  },
+  {
+    "name": "Show No Fear",
+    "link": "https://music.163.com/song?id=1320384742",
+    "duration": "03:26",
+    "artists": [
+      { "name": "Fondz", "link": "https://music.163.com/artist?id=12202572" }
+    ],
+    "album": {
+      "name": "Show No Fear",
+      "link": "https://music.163.com/album?id=74088918"
+    }
+  },
+  {
+    "name": "心上人",
+    "link": "https://music.163.com/song?id=570087097",
+    "duration": "03:01",
+    "artists": [
+      {
+        "name": "Austin Carl",
+        "link": "https://music.163.com/artist?id=12303121"
+      }
+    ],
+    "album": {
+      "name": "心上人",
+      "link": "https://music.163.com/album?id=39514036"
+    }
+  },
+  {
+    "name": "Kodokushi (孤独死)",
+    "link": "https://music.163.com/song?id=421160516",
+    "duration": "03:26",
+    "artists": [
+      { "name": "Mihka!", "link": "https://music.163.com/artist?id=12073513" },
+      { "name": "The End", "link": "https://music.163.com/artist?id=45048" }
+    ],
+    "album": {
+      "name": "Kodokushi (孤独死)",
+      "link": "https://music.163.com/album?id=34783098"
+    }
+  },
+  {
+    "name": "假使这一刻 (Momentary Tranquility)",
+    "link": "https://music.163.com/song?id=1808177197",
+    "duration": "05:14",
+    "artists": [
+      { "name": "赵了燚", "link": "https://music.163.com/artist?id=12127412" }
+    ],
+    "album": {
+      "name": "假使这一刻 (Momentary Tranquility)",
+      "link": "https://music.163.com/album?id=120967435"
+    }
+  },
+  {
+    "name": "Le Mirage",
+    "link": "https://music.163.com/song?id=506775229",
+    "duration": "05:52",
+    "artists": [
+      {
+        "name": "Dana Jean Phoenix",
+        "link": "https://music.163.com/artist?id=14727298"
+      },
+      {
+        "name": "Dana Murray",
+        "link": "https://music.163.com/artist?id=28514981"
+      }
+    ],
+    "album": {
+      "name": "Synthwave",
+      "link": "https://music.163.com/album?id=36251111"
+    }
+  },
+  {
+    "name": "Insomnia (Up All Night Mix)",
+    "link": "https://music.163.com/song?id=1141726",
+    "duration": "03:29",
+    "artists": [
+      { "name": "Craig David", "link": "https://music.163.com/artist?id=29959" }
+    ],
+    "album": {
+      "name": "Insomnia (Up All Night Mix)",
+      "link": "https://music.163.com/album?id=118382"
+    }
+  },
+  {
+    "name": "Wrap Me In Plastic",
+    "link": "https://music.163.com/song?id=1383205688",
+    "duration": "03:13",
+    "artists": [
+      {
+        "name": "CHROMANCE",
+        "link": "https://music.163.com/artist?id=32965506"
+      },
+      {
+        "name": "Marcus Layton",
+        "link": "https://music.163.com/artist?id=1132101"
+      }
+    ],
+    "album": {
+      "name": "Wrap Me In Plastic",
+      "link": "https://music.163.com/album?id=80868365"
+    }
+  },
+  {
+    "name": "Play",
+    "link": "https://music.163.com/song?id=1391479812",
+    "duration": "03:09",
+    "artists": [
+      {
+        "name": "Adam Danial",
+        "link": "https://music.163.com/artist?id=32151227"
+      },
+      { "name": "Torine", "link": "https://music.163.com/artist?id=31665202" }
+    ],
+    "album": {
+      "name": "Play",
+      "link": "https://music.163.com/album?id=81706290"
+    }
+  },
+  {
+    "name": "風になる - (幻化成风)",
+    "link": "https://music.163.com/song?id=482172",
+    "duration": "04:09",
+    "artists": [
+      { "name": "つじあやの", "link": "https://music.163.com/artist?id=17637" }
+    ],
+    "album": {
+      "name": "猫の恩返し サウンドトラック",
+      "link": "https://music.163.com/album?id=46190"
+    }
+  },
+  {
+    "name": "Booty Music",
+    "link": "https://music.163.com/song?id=2526625",
+    "duration": "03:01",
+    "artists": [
+      { "name": "Deep Side", "link": "https://music.163.com/artist?id=55350" }
+    ],
+    "album": {
+      "name": "Git Fresh",
+      "link": "https://music.163.com/album?id=254362"
+    }
+  },
+  {
+    "name": "Here With You",
+    "link": "https://music.163.com/song?id=27583305",
+    "duration": "03:45",
+    "artists": [
+      {
+        "name": "Asher Monroe",
+        "link": "https://music.163.com/artist?id=28727"
+      }
+    ],
+    "album": {
+      "name": "Here With You",
+      "link": "https://music.163.com/album?id=2641180"
+    }
+  },
+  {
+    "name": "Sold Out",
+    "link": "https://music.163.com/song?id=31010566",
+    "duration": "03:32",
+    "artists": [
+      { "name": "Hawk Nelson", "link": "https://music.163.com/artist?id=34518" }
+    ],
+    "album": {
+      "name": "Diamonds",
+      "link": "https://music.163.com/album?id=3109316"
+    }
+  },
+  {
+    "name": "散Luv",
+    "link": "https://music.163.com/song?id=1472223960",
+    "duration": "03:50",
+    "artists": [
+      { "name": "川屿", "link": "https://music.163.com/artist?id=31052925" }
+    ],
+    "album": {
+      "name": "散Luv",
+      "link": "https://music.163.com/album?id=94141780"
+    }
+  },
+  {
+    "name": "梦特别娇",
+    "link": "https://music.163.com/song?id=1888390720",
+    "duration": "04:17",
+    "artists": [
+      { "name": "回春丹", "link": "https://music.163.com/artist?id=27730224" }
+    ],
+    "album": {
+      "name": "耳鬼出风",
+      "link": "https://music.163.com/album?id=135014271"
+    }
+  },
+  {
+    "name": "Shadow of the Sun",
+    "link": "https://music.163.com/song?id=28411642",
+    "duration": "02:25",
+    "artists": [
+      { "name": "Max Elto", "link": "https://music.163.com/artist?id=905517" }
+    ],
+    "album": {
+      "name": "Taped Rai",
+      "link": "https://music.163.com/album?id=2786701"
+    }
+  }
+]
