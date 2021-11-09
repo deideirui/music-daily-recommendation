@@ -1,0 +1,539 @@
+[
+  {
+    "name": "Fast Lane",
+    "link": "https://music.163.com/song?id=1406099861",
+    "duration": "02:29",
+    "artists": [
+      {
+        "name": "Palm Trees",
+        "link": "https://music.163.com/artist?id=1135109"
+      },
+      { "name": "MdL", "link": "https://music.163.com/artist?id=313543" },
+      {
+        "name": "Abi F Jones",
+        "link": "https://music.163.com/artist?id=1137160"
+      }
+    ],
+    "album": {
+      "name": "Fast Lane",
+      "link": "https://music.163.com/album?id=83685772"
+    }
+  },
+  {
+    "name": "Ghost - (游戏《死亡搁浅》原声)",
+    "link": "https://music.163.com/song?id=1397317478",
+    "duration": "02:57",
+    "artists": [
+      { "name": "Au/Ra", "link": "https://music.163.com/artist?id=12143031" },
+      {
+        "name": "Alan Walker",
+        "link": "https://music.163.com/artist?id=1045123"
+      }
+    ],
+    "album": {
+      "name": "DEATH STRANDING: Timefall (Original Music from the World of Death Stranding)",
+      "link": "https://music.163.com/album?id=83080815"
+    }
+  },
+  {
+    "name": "Slip Away",
+    "link": "https://music.163.com/song?id=1382623484",
+    "duration": "02:53",
+    "artists": [
+      { "name": "Sineself", "link": "https://music.163.com/artist?id=32945422" }
+    ],
+    "album": {
+      "name": "Slip Away",
+      "link": "https://music.163.com/album?id=80818330"
+    }
+  },
+  {
+    "name": "Take Me",
+    "link": "https://music.163.com/song?id=493551130",
+    "duration": "04:00",
+    "artists": [
+      {
+        "name": "Will Sparks",
+        "link": "https://music.163.com/artist?id=725093"
+      },
+      {
+        "name": "Gloria Kim",
+        "link": "https://music.163.com/artist?id=1163012"
+      }
+    ],
+    "album": {
+      "name": "Take Me",
+      "link": "https://music.163.com/album?id=35848071"
+    }
+  },
+  {
+    "name": "Little Do You Know",
+    "link": "https://music.163.com/song?id=475597495",
+    "duration": "02:48",
+    "artists": [
+      {
+        "name": "Campsite Dream",
+        "link": "https://music.163.com/artist?id=1146068"
+      }
+    ],
+    "album": {
+      "name": "Little Do You Know",
+      "link": "https://music.163.com/album?id=35371918"
+    }
+  },
+  {
+    "name": "are you sure?",
+    "link": "https://music.163.com/song?id=1371712205",
+    "duration": "03:24",
+    "artists": [
+      { "name": "Loote", "link": "https://music.163.com/artist?id=12408152" }
+    ],
+    "album": {
+      "name": "lost",
+      "link": "https://music.163.com/album?id=79787129"
+    }
+  },
+  {
+    "name": "Loyal",
+    "link": "https://music.163.com/song?id=1386012372",
+    "duration": "03:16",
+    "artists": [
+      {
+        "name": "YOUNG BOMBS",
+        "link": "https://music.163.com/artist?id=1137360"
+      },
+      { "name": "Gigi", "link": "https://music.163.com/artist?id=28083466" }
+    ],
+    "album": {
+      "name": "Loyal",
+      "link": "https://music.163.com/album?id=81100110"
+    }
+  },
+  {
+    "name": "Erase You",
+    "link": "https://music.163.com/song?id=1478054205",
+    "duration": "03:44",
+    "artists": [
+      { "name": "Excision", "link": "https://music.163.com/artist?id=33221" },
+      { "name": "Wooli", "link": "https://music.163.com/artist?id=12203238" },
+      { "name": "HALIENE", "link": "https://music.163.com/artist?id=13202710" }
+    ],
+    "album": {
+      "name": "Erase You",
+      "link": "https://music.163.com/album?id=95203469"
+    }
+  },
+  {
+    "name": "Kuyenda",
+    "link": "https://music.163.com/song?id=500399011",
+    "duration": "02:59",
+    "artists": [
+      {
+        "name": "Lennart Schroot",
+        "link": "https://music.163.com/artist?id=1147209"
+      },
+      {
+        "name": "Unknown Brain",
+        "link": "https://music.163.com/artist?id=12196203"
+      },
+      { "name": "Sru", "link": "https://music.163.com/artist?id=14297664" }
+    ],
+    "album": {
+      "name": "Kuyenda",
+      "link": "https://music.163.com/album?id=36015013"
+    }
+  },
+  {
+    "name": "1606",
+    "link": "https://music.163.com/song?id=1371147859",
+    "duration": "04:31",
+    "artists": [
+      { "name": "JWoods", "link": "https://music.163.com/artist?id=30959670" }
+    ],
+    "album": {
+      "name": "1606",
+      "link": "https://music.163.com/album?id=79724840"
+    }
+  },
+  {
+    "name": "Wild Ones",
+    "link": "https://music.163.com/song?id=1837972529",
+    "duration": "03:28",
+    "artists": [
+      {
+        "name": "Jason Ross",
+        "link": "https://music.163.com/artist?id=906123"
+      },
+      { "name": "Nevve", "link": "https://music.163.com/artist?id=12567101" }
+    ],
+    "album": {
+      "name": "Wild Ones",
+      "link": "https://music.163.com/album?id=126129907"
+    }
+  },
+  {
+    "name": "Final Moments",
+    "link": "https://music.163.com/song?id=30780436",
+    "duration": "03:13",
+    "artists": [
+      { "name": "Wisp X", "link": "https://music.163.com/artist?id=1046123" }
+    ],
+    "album": {
+      "name": "Final Moments",
+      "link": "https://music.163.com/album?id=3103226"
+    }
+  },
+  {
+    "name": "Flowers",
+    "link": "https://music.163.com/song?id=1358178956",
+    "duration": "03:03",
+    "artists": [
+      {
+        "name": "The Tech Thieves",
+        "link": "https://music.163.com/artist?id=12080267"
+      }
+    ],
+    "album": {
+      "name": "Flowers",
+      "link": "https://music.163.com/album?id=78478314"
+    }
+  },
+  {
+    "name": "Butterflies",
+    "link": "https://music.163.com/song?id=1418092940",
+    "duration": "03:21",
+    "artists": [
+      {
+        "name": "William Black",
+        "link": "https://music.163.com/artist?id=248957"
+      },
+      {
+        "name": "Fairlane",
+        "link": "https://music.163.com/artist?id=12665028"
+      },
+      {
+        "name": "Dia Frampton",
+        "link": "https://music.163.com/artist?id=55454"
+      }
+    ],
+    "album": {
+      "name": "Butterflies",
+      "link": "https://music.163.com/album?id=85121717"
+    }
+  },
+  {
+    "name": "纵酒",
+    "link": "https://music.163.com/song?id=1321299870",
+    "duration": "03:24",
+    "artists": [
+      {
+        "name": "Forwe兰斯",
+        "link": "https://music.163.com/artist?id=12079166"
+      },
+      { "name": "Snikm", "link": "https://music.163.com/artist?id=12119610" }
+    ],
+    "album": {
+      "name": "纵酒",
+      "link": "https://music.163.com/album?id=74123975"
+    }
+  },
+  {
+    "name": "The Equaliser (Not Alone)",
+    "link": "https://music.163.com/song?id=426027090",
+    "duration": "03:49",
+    "artists": [
+      {
+        "name": "The Midnight",
+        "link": "https://music.163.com/artist?id=12023492"
+      }
+    ],
+    "album": {
+      "name": "Endless Summer",
+      "link": "https://music.163.com/album?id=34826028"
+    }
+  },
+  {
+    "name": "Dancing In The Dark (Extended Mix)",
+    "link": "https://music.163.com/song?id=459159279",
+    "duration": "06:00",
+    "artists": [
+      {
+        "name": "Denis Kenzo",
+        "link": "https://music.163.com/artist?id=263670"
+      },
+      {
+        "name": "Hanna Finsen",
+        "link": "https://music.163.com/artist?id=1124442"
+      }
+    ],
+    "album": {
+      "name": "Dancing In The Dark",
+      "link": "https://music.163.com/album?id=35174214"
+    }
+  },
+  {
+    "name": "Two Minds (KSHMR & Crossnaders Remix)",
+    "link": "https://music.163.com/song?id=466794336",
+    "duration": "03:56",
+    "artists": [
+      { "name": "KSHMR", "link": "https://music.163.com/artist?id=896139" },
+      {
+        "name": "Crossnaders",
+        "link": "https://music.163.com/artist?id=12080276"
+      },
+      { "name": "Nero", "link": "https://music.163.com/artist?id=97822" }
+    ],
+    "album": {
+      "name": "Two Minds (KSHMR & Crossnaders Remix)",
+      "link": "https://music.163.com/album?id=35292309"
+    }
+  },
+  {
+    "name": "EON BREAK",
+    "link": "https://music.163.com/song?id=514774659",
+    "duration": "03:40",
+    "artists": [
+      {
+        "name": "Virtual Self",
+        "link": "https://music.163.com/artist?id=12773843"
+      }
+    ],
+    "album": {
+      "name": "Virtual Self",
+      "link": "https://music.163.com/album?id=36633233"
+    }
+  },
+  {
+    "name": "Train To Nowhere",
+    "link": "https://music.163.com/song?id=1464332067",
+    "duration": "02:42",
+    "artists": [
+      { "name": "Fatum", "link": "https://music.163.com/artist?id=92792" },
+      {
+        "name": "Dylan Matthew",
+        "link": "https://music.163.com/artist?id=28684353"
+      }
+    ],
+    "album": {
+      "name": "Train To Nowhere",
+      "link": "https://music.163.com/album?id=92734002"
+    }
+  },
+  {
+    "name": "Happy",
+    "link": "https://music.163.com/song?id=512691214",
+    "duration": "03:12",
+    "artists": [
+      { "name": "LJY", "link": "https://music.163.com/artist?id=1211039" }
+    ],
+    "album": {
+      "name": "Happy",
+      "link": "https://music.163.com/album?id=36520845"
+    }
+  },
+  {
+    "name": "Rainy Days 下雨季",
+    "link": "https://music.163.com/song?id=1822908671",
+    "duration": "03:51",
+    "artists": [
+      {
+        "name": "Alaska Winter",
+        "link": "https://music.163.com/artist?id=12383594"
+      }
+    ],
+    "album": {
+      "name": "Seasons Change EP",
+      "link": "https://music.163.com/album?id=123496095"
+    }
+  },
+  {
+    "name": "Trespass (Album Mix)",
+    "link": "https://music.163.com/song?id=16362377",
+    "duration": "06:07",
+    "artists": [
+      { "name": "Andy Moor", "link": "https://music.163.com/artist?id=28854" },
+      {
+        "name": "Sue McLaren",
+        "link": "https://music.163.com/artist?id=191658"
+      }
+    ],
+    "album": {
+      "name": "Zero Point One",
+      "link": "https://music.163.com/album?id=1509551"
+    }
+  },
+  {
+    "name": "AnTi - Smile",
+    "link": "https://music.163.com/song?id=472948108",
+    "duration": "03:00",
+    "artists": [
+      { "name": "ThimLife", "link": "https://music.163.com/artist?id=1046016" }
+    ],
+    "album": {
+      "name": "AnTi - Smile",
+      "link": "https://music.163.com/album?id=35392043"
+    }
+  },
+  {
+    "name": "Artificial",
+    "link": "https://music.163.com/song?id=1498502442",
+    "duration": "02:56",
+    "artists": [
+      { "name": "Bebi", "link": "https://music.163.com/artist?id=35319665" },
+      {
+        "name": "Dylan Matthew",
+        "link": "https://music.163.com/artist?id=28684353"
+      },
+      {
+        "name": "Dead Robot",
+        "link": "https://music.163.com/artist?id=1116200"
+      }
+    ],
+    "album": {
+      "name": "Artificial",
+      "link": "https://music.163.com/album?id=98826056"
+    }
+  },
+  {
+    "name": "The Cure (Spiros Hamza Remix)",
+    "link": "https://music.163.com/song?id=1418055805",
+    "duration": "03:38",
+    "artists": [
+      {
+        "name": "Spiros Hamza",
+        "link": "https://music.163.com/artist?id=34213247"
+      },
+      { "name": "Lady Gaga", "link": "https://music.163.com/artist?id=64147" }
+    ],
+    "album": {
+      "name": "The Cure（Spiros Hamza Remix)",
+      "link": "https://music.163.com/album?id=85118279"
+    }
+  },
+  {
+    "name": "Tie Me Down",
+    "link": "https://music.163.com/song?id=1398831846",
+    "duration": "03:38",
+    "artists": [
+      { "name": "Gryffin", "link": "https://music.163.com/artist?id=1181504" },
+      {
+        "name": "Elley Duhé",
+        "link": "https://music.163.com/artist?id=12207014"
+      }
+    ],
+    "album": {
+      "name": "Gravity",
+      "link": "https://music.163.com/album?id=82692723"
+    }
+  },
+  {
+    "name": "Easy Way Out (Original Mix)",
+    "link": "https://music.163.com/song?id=548575221",
+    "duration": "04:05",
+    "artists": [
+      { "name": "Solis", "link": "https://music.163.com/artist?id=131066" },
+      {
+        "name": "Sean Truby",
+        "link": "https://music.163.com/artist?id=207736"
+      },
+      { "name": "Cari", "link": "https://music.163.com/artist?id=1132863" }
+    ],
+    "album": {
+      "name": "Easy Way Out",
+      "link": "https://music.163.com/album?id=38065297"
+    }
+  },
+  {
+    "name": "Crystalline",
+    "link": "https://music.163.com/song?id=1382563368",
+    "duration": "06:02",
+    "artists": [
+      {
+        "name": "The Midnight",
+        "link": "https://music.163.com/artist?id=48817365"
+      }
+    ],
+    "album": {
+      "name": "Nocturnal",
+      "link": "https://music.163.com/album?id=80814887"
+    }
+  },
+  {
+    "name": "Love Like You Care",
+    "link": "https://music.163.com/song?id=1305175327",
+    "duration": "03:13",
+    "artists": [
+      { "name": "Perlo", "link": "https://music.163.com/artist?id=28387443" }
+    ],
+    "album": {
+      "name": "Day by Day",
+      "link": "https://music.163.com/album?id=72665791"
+    }
+  },
+  {
+    "name": "Serenity (Original Mix)",
+    "link": "https://music.163.com/song?id=1389562206",
+    "duration": "04:22",
+    "artists": [
+      {
+        "name": "Roman Messer",
+        "link": "https://music.163.com/artist?id=905394"
+      },
+      { "name": "Cari", "link": "https://music.163.com/artist?id=1132863" }
+    ],
+    "album": {
+      "name": "Suanda Music Radio Top 25 (August / September 2019)",
+      "link": "https://music.163.com/album?id=81476790"
+    }
+  },
+  {
+    "name": "On a Hill In the Rain",
+    "link": "https://music.163.com/song?id=1014295",
+    "duration": "04:45",
+    "artists": [
+      {
+        "name": "Paul O'Reilly",
+        "link": "https://music.163.com/artist?id=191791"
+      }
+    ],
+    "album": {
+      "name": "Ships Leaving",
+      "link": "https://music.163.com/album?id=105912"
+    }
+  },
+  {
+    "name": "Chance",
+    "link": "https://music.163.com/song?id=536513830",
+    "duration": "03:33",
+    "artists": [
+      { "name": "Aspyer", "link": "https://music.163.com/artist?id=12409085" },
+      {
+        "name": "Kyle Reynolds",
+        "link": "https://music.163.com/artist?id=1179061"
+      },
+      {
+        "name": "Carly Jay",
+        "link": "https://music.163.com/artist?id=30395435"
+      }
+    ],
+    "album": {
+      "name": "Chance",
+      "link": "https://music.163.com/album?id=37552481"
+    }
+  },
+  {
+    "name": "Lover",
+    "link": "https://music.163.com/song?id=1893252319",
+    "duration": "03:41",
+    "artists": [
+      {
+        "name": "Taylor Swift",
+        "link": "https://music.163.com/artist?id=44266"
+      }
+    ],
+    "album": {
+      "name": "cozy pop",
+      "link": "https://music.163.com/album?id=135826969"
+    }
+  }
+]
