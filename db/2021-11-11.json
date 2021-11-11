@@ -1,0 +1,494 @@
+[
+  {
+    "name": "Crime",
+    "link": "https://music.163.com/song?id=504492138",
+    "duration": "02:55",
+    "artists": [
+      { "name": "Grey", "link": "https://music.163.com/artist?id=58424" },
+      { "name": "SKOTT", "link": "https://music.163.com/artist?id=12061139" }
+    ],
+    "album": {
+      "name": "Crime",
+      "link": "https://music.163.com/album?id=36150227"
+    }
+  },
+  {
+    "name": "Wanted",
+    "link": "https://music.163.com/song?id=1393557000",
+    "duration": "02:41",
+    "artists": [
+      { "name": "NOTD", "link": "https://music.163.com/artist?id=12262306" },
+      { "name": "Daya", "link": "https://music.163.com/artist?id=1081186" }
+    ],
+    "album": {
+      "name": "Wanted",
+      "link": "https://music.163.com/album?id=81973693"
+    }
+  },
+  {
+    "name": "Get It Together",
+    "link": "https://music.163.com/song?id=509573636",
+    "duration": "02:58",
+    "artists": [
+      {
+        "name": "Charlie Who?",
+        "link": "https://music.163.com/artist?id=12073500"
+      },
+      { "name": "Nomi", "link": "https://music.163.com/artist?id=69853" }
+    ],
+    "album": {
+      "name": "Get It Together",
+      "link": "https://music.163.com/album?id=36320332"
+    }
+  },
+  {
+    "name": "平行线 - (Wish You Were Here)",
+    "link": "https://music.163.com/song?id=1864898927",
+    "duration": "02:45",
+    "artists": [
+      { "name": "Vicetone", "link": "https://music.163.com/artist?id=747030" },
+      {
+        "name": "WILLIM缪维霖",
+        "link": "https://music.163.com/artist?id=12433042"
+      },
+      { "name": "黄霄雲", "link": "https://music.163.com/artist?id=14077324" }
+    ],
+    "album": {
+      "name": "平行线",
+      "link": "https://music.163.com/album?id=131031551"
+    }
+  },
+  {
+    "name": "Fog",
+    "link": "https://music.163.com/song?id=35691378",
+    "duration": "04:29",
+    "artists": [
+      {
+        "name": "Jabberwocky",
+        "link": "https://music.163.com/artist?id=562358"
+      },
+      { "name": "Ana Zimmer", "link": "https://music.163.com/artist?id=250740" }
+    ],
+    "album": {
+      "name": "Lunar Lane",
+      "link": "https://music.163.com/album?id=3339155"
+    }
+  },
+  {
+    "name": "U & Me",
+    "link": "https://music.163.com/song?id=1375778323",
+    "duration": "03:30",
+    "artists": [
+      { "name": "KASTRA", "link": "https://music.163.com/artist?id=1105094" },
+      { "name": "twoDB", "link": "https://music.163.com/artist?id=28377054" },
+      {
+        "name": "Evangelia",
+        "link": "https://music.163.com/artist?id=29835191"
+      }
+    ],
+    "album": {
+      "name": "U & Me",
+      "link": "https://music.163.com/album?id=80200904"
+    }
+  },
+  {
+    "name": "What if She Knows",
+    "link": "https://music.163.com/song?id=554375621",
+    "duration": "02:48",
+    "artists": [
+      { "name": "Severo", "link": "https://music.163.com/artist?id=1115077" },
+      { "name": "Linn", "link": "https://music.163.com/artist?id=215537" },
+      { "name": "Ellusive", "link": "https://music.163.com/artist?id=792170" }
+    ],
+    "album": {
+      "name": "What if She Knows",
+      "link": "https://music.163.com/album?id=38435988"
+    }
+  },
+  {
+    "name": "Deep Down",
+    "link": "https://music.163.com/song?id=1351913687",
+    "duration": "02:49",
+    "artists": [
+      {
+        "name": "Johnny Orlando",
+        "link": "https://music.163.com/artist?id=590458"
+      }
+    ],
+    "album": {
+      "name": "Teenage Fever",
+      "link": "https://music.163.com/album?id=75848224"
+    }
+  },
+  {
+    "name": "Never Be (feat. AXYL)",
+    "link": "https://music.163.com/song?id=1340087394",
+    "duration": "04:06",
+    "artists": [
+      {
+        "name": "Giraffe Squad",
+        "link": "https://music.163.com/artist?id=12289475"
+      },
+      { "name": "AXYL", "link": "https://music.163.com/artist?id=31244261" }
+    ],
+    "album": {
+      "name": "Never Be (feat. AXYL)",
+      "link": "https://music.163.com/album?id=75201570"
+    }
+  },
+  {
+    "name": "Make It Hurt",
+    "link": "https://music.163.com/song?id=1375909977",
+    "duration": "03:19",
+    "artists": [
+      { "name": "Frye", "link": "https://music.163.com/artist?id=13406436" }
+    ],
+    "album": {
+      "name": "Make It Hurt",
+      "link": "https://music.163.com/album?id=80216210"
+    }
+  },
+  {
+    "name": "Greenlights",
+    "link": "https://music.163.com/song?id=1410363203",
+    "duration": "02:42",
+    "artists": [
+      { "name": "Krewella", "link": "https://music.163.com/artist?id=208915" }
+    ],
+    "album": {
+      "name": "Greenlights",
+      "link": "https://music.163.com/album?id=84179710"
+    }
+  },
+  {
+    "name": "Truest Lies (BEAUZ Remix)",
+    "link": "https://music.163.com/song?id=1299557506",
+    "duration": "03:05",
+    "artists": [
+      { "name": "Far Out", "link": "https://music.163.com/artist?id=824107" },
+      { "name": "BEAUZ", "link": "https://music.163.com/artist?id=12131436" },
+      { "name": "Karra", "link": "https://music.163.com/artist?id=1081582" }
+    ],
+    "album": {
+      "name": "Truest Lies",
+      "link": "https://music.163.com/album?id=72073088"
+    }
+  },
+  {
+    "name": "Darkmoon",
+    "link": "https://music.163.com/song?id=1378713378",
+    "duration": "03:38",
+    "artists": [
+      { "name": "JINGYAN", "link": "https://music.163.com/artist?id=30645561" }
+    ],
+    "album": {
+      "name": "Darkmoon",
+      "link": "https://music.163.com/album?id=80464022"
+    }
+  },
+  {
+    "name": "Riot Call (feat. Nevve) (Lex Inception Remix)",
+    "link": "https://music.163.com/song?id=489998920",
+    "duration": "02:59",
+    "artists": [
+      { "name": "QUIX", "link": "https://music.163.com/artist?id=1174028" },
+      { "name": "Nevve", "link": "https://music.163.com/artist?id=12567101" },
+      {
+        "name": "Lex Inception",
+        "link": "https://music.163.com/artist?id=30070870"
+      }
+    ],
+    "album": {
+      "name": "Riot Call (feat. Nevve) (Remixes)",
+      "link": "https://music.163.com/album?id=35746300"
+    }
+  },
+  {
+    "name": "Gravity (feat. JMR)",
+    "link": "https://music.163.com/song?id=441489226",
+    "duration": "03:48",
+    "artists": [
+      { "name": "Jai Wolf", "link": "https://music.163.com/artist?id=1063048" }
+    ],
+    "album": {
+      "name": "Kindred Spirits",
+      "link": "https://music.163.com/album?id=35004076"
+    }
+  },
+  {
+    "name": "All The Girls",
+    "link": "https://music.163.com/song?id=574915327",
+    "duration": "03:25",
+    "artists": [
+      { "name": "Marija", "link": "https://music.163.com/artist?id=210571" }
+    ],
+    "album": {
+      "name": "All The Girls",
+      "link": "https://music.163.com/album?id=39779319"
+    }
+  },
+  {
+    "name": "Toxic",
+    "link": "https://music.163.com/song?id=1449523872",
+    "duration": "03:12",
+    "artists": [
+      { "name": "Inverness", "link": "https://music.163.com/artist?id=216883" },
+      {
+        "name": "Amelia Moore",
+        "link": "https://music.163.com/artist?id=35236069"
+      }
+    ],
+    "album": {
+      "name": "Toxic",
+      "link": "https://music.163.com/album?id=89704588"
+    }
+  },
+  {
+    "name": "Find You (Club Mix)",
+    "link": "https://music.163.com/song?id=529814295",
+    "duration": "03:05",
+    "artists": [
+      {
+        "name": "Charming Horses",
+        "link": "https://music.163.com/artist?id=1137480"
+      }
+    ],
+    "album": {
+      "name": "Find You (Club Mix)",
+      "link": "https://music.163.com/album?id=37256058"
+    }
+  },
+  {
+    "name": "Sound 4 U X Be Mine (feat. Amy Rose)",
+    "link": "https://music.163.com/song?id=1470232173",
+    "duration": "02:57",
+    "artists": [
+      { "name": "EMBRZ", "link": "https://music.163.com/artist?id=1173001" }
+    ],
+    "album": {
+      "name": "Sound 4 U X Be Mine (feat. Amy Rose)",
+      "link": "https://music.163.com/album?id=93809557"
+    }
+  },
+  {
+    "name": "Heavy Love",
+    "link": "https://music.163.com/song?id=36307370",
+    "duration": "03:31",
+    "artists": [
+      { "name": "J. Lisk", "link": "https://music.163.com/artist?id=12121101" }
+    ],
+    "album": {
+      "name": "Mali Music - Heavy Love",
+      "link": "https://music.163.com/album?id=3395095"
+    }
+  },
+  {
+    "name": "Ever After",
+    "link": "https://music.163.com/song?id=1806070882",
+    "duration": "04:44",
+    "artists": [
+      { "name": "Abandoned", "link": "https://music.163.com/artist?id=28319" },
+      { "name": "Elle Vee", "link": "https://music.163.com/artist?id=1046258" }
+    ],
+    "album": {
+      "name": "Ever After",
+      "link": "https://music.163.com/album?id=120718382"
+    }
+  },
+  {
+    "name": "Ride",
+    "link": "https://music.163.com/song?id=1401696102",
+    "duration": "03:01",
+    "artists": [
+      { "name": "CAPPA", "link": "https://music.163.com/artist?id=1053281" },
+      {
+        "name": "Jon Santana",
+        "link": "https://music.163.com/artist?id=14291695"
+      }
+    ],
+    "album": {
+      "name": "Ride",
+      "link": "https://music.163.com/album?id=83081863"
+    }
+  },
+  {
+    "name": "House Party",
+    "link": "https://music.163.com/song?id=1393692397",
+    "duration": "02:56",
+    "artists": [
+      {
+        "name": "jeonghyeon",
+        "link": "https://music.163.com/artist?id=28748581"
+      },
+      { "name": "Mitte", "link": "https://music.163.com/artist?id=12262773" }
+    ],
+    "album": {
+      "name": "House Party",
+      "link": "https://music.163.com/album?id=81988262"
+    }
+  },
+  {
+    "name": "No Crime",
+    "link": "https://music.163.com/song?id=1422612356",
+    "duration": "03:20",
+    "artists": [
+      {
+        "name": "Asketa & Natan Chaim",
+        "link": "https://music.163.com/artist?id=32523005"
+      },
+      {
+        "name": "Jess Ball",
+        "link": "https://music.163.com/artist?id=33784327"
+      }
+    ],
+    "album": {
+      "name": "No Crime",
+      "link": "https://music.163.com/album?id=85650331"
+    }
+  },
+  {
+    "name": "I Don't Mind",
+    "link": "https://music.163.com/song?id=532940294",
+    "duration": "03:47",
+    "artists": [
+      { "name": "Direct", "link": "https://music.163.com/artist?id=758029" },
+      { "name": "Matt Van", "link": "https://music.163.com/artist?id=12441178" }
+    ],
+    "album": {
+      "name": "I Don't Mind",
+      "link": "https://music.163.com/album?id=37316496"
+    }
+  },
+  {
+    "name": "Iris in the Dark",
+    "link": "https://music.163.com/song?id=1405963752",
+    "duration": "03:19",
+    "artists": [
+      {
+        "name": "Just A Gent",
+        "link": "https://music.163.com/artist?id=893239"
+      },
+      { "name": "McCall", "link": "https://music.163.com/artist?id=14065757" }
+    ],
+    "album": {
+      "name": "URCA",
+      "link": "https://music.163.com/album?id=83666220"
+    }
+  },
+  {
+    "name": "Foolish Of Me (feat. Jonathan Mendelsohn)",
+    "link": "https://music.163.com/song?id=1488457944",
+    "duration": "03:06",
+    "artists": [
+      {
+        "name": "Seven Lions",
+        "link": "https://music.163.com/artist?id=44204"
+      },
+      {
+        "name": "Jason Ross",
+        "link": "https://music.163.com/artist?id=906123"
+      },
+      {
+        "name": "Crystal Skies",
+        "link": "https://music.163.com/artist?id=1063127"
+      },
+      {
+        "name": "Jonathan Mendelsohn",
+        "link": "https://music.163.com/artist?id=826017"
+      }
+    ],
+    "album": {
+      "name": "Foolish Of Me (feat. Jonathan Mendelsohn)",
+      "link": "https://music.163.com/album?id=97056502"
+    }
+  },
+  {
+    "name": "This Moment (feat. Gallie Fisher)",
+    "link": "https://music.163.com/song?id=1481304439",
+    "duration": "03:31",
+    "artists": [
+      {
+        "name": "Crystal Skies",
+        "link": "https://music.163.com/artist?id=1063127"
+      },
+      {
+        "name": "Gallie Fisher",
+        "link": "https://music.163.com/artist?id=31376375"
+      }
+    ],
+    "album": {
+      "name": "Collide EP",
+      "link": "https://music.163.com/album?id=95774856"
+    }
+  },
+  {
+    "name": "Miss U - (美剧《十三个原因》第三季插曲)",
+    "link": "https://music.163.com/song?id=1386002497",
+    "duration": "03:05",
+    "artists": [
+      { "name": "Charli XCX", "link": "https://music.163.com/artist?id=53092" }
+    ],
+    "album": {
+      "name": "13 Reasons Why (Season 3)",
+      "link": "https://music.163.com/album?id=81098687"
+    }
+  },
+  {
+    "name": "Sunshine Blue",
+    "link": "https://music.163.com/song?id=412016733",
+    "duration": "03:31",
+    "artists": [
+      {
+        "name": "Denis Kenzo",
+        "link": "https://music.163.com/artist?id=263670"
+      },
+      { "name": "Sveta B.", "link": "https://music.163.com/artist?id=839779" }
+    ],
+    "album": {
+      "name": "A State Of Trance 2016",
+      "link": "https://music.163.com/album?id=34678627"
+    }
+  },
+  {
+    "name": "Today",
+    "link": "https://music.163.com/song?id=1308623834",
+    "duration": "02:56",
+    "artists": [
+      { "name": "暴君de", "link": "https://music.163.com/artist?id=12599289" }
+    ],
+    "album": {
+      "name": "Today",
+      "link": "https://music.163.com/album?id=73166855"
+    }
+  },
+  {
+    "name": "Made For You",
+    "link": "https://music.163.com/song?id=570317222",
+    "duration": "03:34",
+    "artists": [
+      {
+        "name": "Joakim Lundell",
+        "link": "https://music.163.com/artist?id=12289052"
+      }
+    ],
+    "album": {
+      "name": "Feelings",
+      "link": "https://music.163.com/album?id=39791888"
+    }
+  },
+  {
+    "name": "Love Story (Taylor’s Version)",
+    "link": "https://music.163.com/song?id=1893501010",
+    "duration": "03:55",
+    "artists": [
+      {
+        "name": "Taylor Swift",
+        "link": "https://music.163.com/artist?id=44266"
+      }
+    ],
+    "album": {
+      "name": "Toddler and Children Singalong Vol. 2",
+      "link": "https://music.163.com/album?id=135873564"
+    }
+  }
+]
