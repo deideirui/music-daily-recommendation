@@ -1,0 +1,510 @@
+[
+  {
+    "name": "Vibe",
+    "link": "https://music.163.com/song?id=480516889",
+    "duration": "03:11",
+    "artists": [
+      { "name": "Famba", "link": "https://music.163.com/artist?id=12121068" },
+      {
+        "name": "Frank Pierce",
+        "link": "https://music.163.com/artist?id=1103046"
+      }
+    ],
+    "album": {
+      "name": "Vibe",
+      "link": "https://music.163.com/album?id=35538489"
+    }
+  },
+  {
+    "name": "Over It",
+    "link": "https://music.163.com/song?id=1403706216",
+    "duration": "03:28",
+    "artists": [
+      { "name": "Pilton", "link": "https://music.163.com/artist?id=1050299" },
+      {
+        "name": "Edgar Sandoval Jr",
+        "link": "https://music.163.com/artist?id=12561891"
+      }
+    ],
+    "album": {
+      "name": "Over It",
+      "link": "https://music.163.com/album?id=83391465"
+    }
+  },
+  {
+    "name": "Curse",
+    "link": "https://music.163.com/song?id=1378773135",
+    "duration": "02:44",
+    "artists": [
+      { "name": "Adam Rom", "link": "https://music.163.com/artist?id=32213559" }
+    ],
+    "album": {
+      "name": "Curse",
+      "link": "https://music.163.com/album?id=80479681"
+    }
+  },
+  {
+    "name": "Silhouette",
+    "link": "https://music.163.com/song?id=1398764652",
+    "duration": "03:28",
+    "artists": [
+      { "name": "Bvrnout", "link": "https://music.163.com/artist?id=12046065" },
+      { "name": "AXYL", "link": "https://music.163.com/artist?id=31244261" }
+    ],
+    "album": {
+      "name": "Silhouette",
+      "link": "https://music.163.com/album?id=82671946"
+    }
+  },
+  {
+    "name": "Want You",
+    "link": "https://music.163.com/song?id=1383257166",
+    "duration": "02:43",
+    "artists": [
+      { "name": "Erkki.R", "link": "https://music.163.com/artist?id=12901022" }
+    ],
+    "album": {
+      "name": "Want You",
+      "link": "https://music.163.com/album?id=80871782"
+    }
+  },
+  {
+    "name": "Ibiza Night (Mbnn Remix Radio Edit)",
+    "link": "https://music.163.com/song?id=504206109",
+    "duration": "03:38",
+    "artists": [
+      {
+        "name": "Pasha Lumin",
+        "link": "https://music.163.com/artist?id=12624028"
+      },
+      {
+        "name": "Alba Kras",
+        "link": "https://music.163.com/artist?id=13944391"
+      },
+      { "name": "MBNN", "link": "https://music.163.com/artist?id=12685239" }
+    ],
+    "album": {
+      "name": "Ibiza Night (The Remixes)",
+      "link": "https://music.163.com/album?id=36146039"
+    }
+  },
+  {
+    "name": "Do It Yourself",
+    "link": "https://music.163.com/song?id=1353001850",
+    "duration": "02:49",
+    "artists": [
+      { "name": "ILIRA", "link": "https://music.163.com/artist?id=847380" }
+    ],
+    "album": {
+      "name": "Do It Yourself",
+      "link": "https://music.163.com/album?id=75906720"
+    }
+  },
+  {
+    "name": "Love Me Back",
+    "link": "https://music.163.com/song?id=1341512162",
+    "duration": "02:58",
+    "artists": [
+      { "name": "RITUAL", "link": "https://music.163.com/artist?id=12355563" },
+      { "name": "Tove Styrke", "link": "https://music.163.com/artist?id=83188" }
+    ],
+    "album": {
+      "name": "Love Me Back",
+      "link": "https://music.163.com/album?id=75291853"
+    }
+  },
+  {
+    "name": "Hung Up",
+    "link": "https://music.163.com/song?id=556066474",
+    "duration": "03:40",
+    "artists": [
+      { "name": "Tritonal", "link": "https://music.163.com/artist?id=104133" },
+      { "name": "Sj", "link": "https://music.163.com/artist?id=288146" },
+      {
+        "name": "Emma Gatsby",
+        "link": "https://music.163.com/artist?id=12086040"
+      }
+    ],
+    "album": {
+      "name": "Calabasas",
+      "link": "https://music.163.com/album?id=38519338"
+    }
+  },
+  {
+    "name": "Daydream",
+    "link": "https://music.163.com/song?id=1486642002",
+    "duration": "02:34",
+    "artists": [
+      {
+        "name": "The Tech Thieves",
+        "link": "https://music.163.com/artist?id=12080267"
+      }
+    ],
+    "album": {
+      "name": "Daydream",
+      "link": "https://music.163.com/album?id=96706073"
+    }
+  },
+  {
+    "name": "Won't Come Back (JVNA Remix)",
+    "link": "https://music.163.com/song?id=1300198788",
+    "duration": "03:39",
+    "artists": [
+      { "name": "ARMNHMR", "link": "https://music.163.com/artist?id=1132078" },
+      { "name": "Convex", "link": "https://music.163.com/artist?id=355739" },
+      { "name": "JVNA", "link": "https://music.163.com/artist?id=28692563" },
+      { "name": "Jex", "link": "https://music.163.com/artist?id=12007273" }
+    ],
+    "album": {
+      "name": "Won't Come Back Remixes",
+      "link": "https://music.163.com/album?id=72214836"
+    }
+  },
+  {
+    "name": "Cherry Lambo (Marky Style & Guy Gabriel Remix)",
+    "link": "https://music.163.com/song?id=511921179",
+    "duration": "03:20",
+    "artists": [
+      { "name": "Evalyn", "link": "https://music.163.com/artist?id=12646511" },
+      {
+        "name": "Marky Style",
+        "link": "https://music.163.com/artist?id=12302135"
+      },
+      {
+        "name": "Guy Gabriel",
+        "link": "https://music.163.com/artist?id=13133238"
+      }
+    ],
+    "album": {
+      "name": "Cherry Lambo (Marky Style & Guy Gabriel Remix)",
+      "link": "https://music.163.com/album?id=36450415"
+    }
+  },
+  {
+    "name": "Stay The Night",
+    "link": "https://music.163.com/song?id=1376075781",
+    "duration": "02:46",
+    "artists": [
+      {
+        "name": "Just Kiddin",
+        "link": "https://music.163.com/artist?id=688618"
+      },
+      {
+        "name": "Camden Cox",
+        "link": "https://music.163.com/artist?id=13226292"
+      }
+    ],
+    "album": {
+      "name": "Stay The Night",
+      "link": "https://music.163.com/album?id=80233055"
+    }
+  },
+  {
+    "name": "Love Again",
+    "link": "https://music.163.com/song?id=1395757943",
+    "duration": "03:26",
+    "artists": [
+      {
+        "name": "WildVibes",
+        "link": "https://music.163.com/artist?id=1181751"
+      },
+      {
+        "name": "Patrick Key",
+        "link": "https://music.163.com/artist?id=31242552"
+      },
+      {
+        "name": "Stine Kristiansen",
+        "link": "https://music.163.com/artist?id=30387959"
+      }
+    ],
+    "album": {
+      "name": "Love Again",
+      "link": "https://music.163.com/album?id=82232281"
+    }
+  },
+  {
+    "name": "Dream in Color",
+    "link": "https://music.163.com/song?id=551339078",
+    "duration": "03:25",
+    "artists": [
+      { "name": "HALIENE", "link": "https://music.163.com/artist?id=13202710" }
+    ],
+    "album": {
+      "name": "Dream in Color",
+      "link": "https://music.163.com/album?id=38272028"
+    }
+  },
+  {
+    "name": "Star Line (GRHN Mix)",
+    "link": "https://music.163.com/song?id=22637157",
+    "duration": "04:16",
+    "artists": [
+      {
+        "name": "元気ロケッツ",
+        "link": "https://music.163.com/artist?id=16777"
+      }
+    ],
+    "album": {
+      "name": "Genki Rockets ＩＩ -No border between us- Repackage　　　",
+      "link": "https://music.163.com/album?id=2075247"
+    }
+  },
+  {
+    "name": "Riptide",
+    "link": "https://music.163.com/song?id=1380987876",
+    "duration": "03:19",
+    "artists": [
+      { "name": "Trivecta", "link": "https://music.163.com/artist?id=954338" },
+      { "name": "AMIDY", "link": "https://music.163.com/artist?id=12203566" },
+      { "name": "RØRY", "link": "https://music.163.com/artist?id=28774080" }
+    ],
+    "album": {
+      "name": "Riptide",
+      "link": "https://music.163.com/album?id=80677696"
+    }
+  },
+  {
+    "name": "Don't Hurt",
+    "link": "https://music.163.com/song?id=475264037",
+    "duration": "03:35",
+    "artists": [
+      {
+        "name": "Mike Williams",
+        "link": "https://music.163.com/artist?id=302020"
+      }
+    ],
+    "album": {
+      "name": "Don't Hurt",
+      "link": "https://music.163.com/album?id=35448026"
+    }
+  },
+  {
+    "name": "I Can Tell",
+    "link": "https://music.163.com/song?id=1376817015",
+    "duration": "03:10",
+    "artists": [
+      { "name": "Domeno", "link": "https://music.163.com/artist?id=1132772" },
+      {
+        "name": "Karl Sylver",
+        "link": "https://music.163.com/artist?id=32715201"
+      },
+      {
+        "name": "Garrett Raff",
+        "link": "https://music.163.com/artist?id=14914549"
+      }
+    ],
+    "album": {
+      "name": "Revealed Recordings presents Progressive EP Vol. 2",
+      "link": "https://music.163.com/album?id=80287909"
+    }
+  },
+  {
+    "name": "When The Night Falls (with Fiora)",
+    "link": "https://music.163.com/song?id=1394745735",
+    "duration": "03:23",
+    "artists": [
+      {
+        "name": "Jason Ross",
+        "link": "https://music.163.com/artist?id=906123"
+      },
+      { "name": "Fiora", "link": "https://music.163.com/artist?id=57924" }
+    ],
+    "album": {
+      "name": "When The Night Falls (with Fiora)",
+      "link": "https://music.163.com/album?id=82120426"
+    }
+  },
+  {
+    "name": "Underneath",
+    "link": "https://music.163.com/song?id=1360935072",
+    "duration": "03:41",
+    "artists": [
+      {
+        "name": "Jac & Harri",
+        "link": "https://music.163.com/artist?id=12776287"
+      },
+      {
+        "name": "Nino Lucarelli",
+        "link": "https://music.163.com/artist?id=13954602"
+      }
+    ],
+    "album": {
+      "name": "Underneath",
+      "link": "https://music.163.com/album?id=78734752"
+    }
+  },
+  {
+    "name": "寂寞先生",
+    "link": "https://music.163.com/song?id=516571913",
+    "duration": "03:05",
+    "artists": [
+      { "name": "马英伦", "link": "https://music.163.com/artist?id=12114094" }
+    ],
+    "album": {
+      "name": "寂寞先生",
+      "link": "https://music.163.com/album?id=36693636"
+    }
+  },
+  {
+    "name": "Edge of the World",
+    "link": "https://music.163.com/song?id=1391314766",
+    "duration": "02:28",
+    "artists": [
+      {
+        "name": "DESERT STAR",
+        "link": "https://music.163.com/artist?id=31890379"
+      }
+    ],
+    "album": {
+      "name": "Edge of the World",
+      "link": "https://music.163.com/album?id=81684630"
+    }
+  },
+  {
+    "name": "Never Gonna Give You Up",
+    "link": "https://music.163.com/song?id=1408650149",
+    "duration": "03:18",
+    "artists": [
+      { "name": "TripL", "link": "https://music.163.com/artist?id=11972070" }
+    ],
+    "album": {
+      "name": "Never Gonna Give You Up",
+      "link": "https://music.163.com/album?id=83992104"
+    }
+  },
+  {
+    "name": "Good Enough",
+    "link": "https://music.163.com/song?id=1446097045",
+    "duration": "03:32",
+    "artists": [
+      { "name": "Man Cub", "link": "https://music.163.com/artist?id=30816484" },
+      { "name": "jen", "link": "https://music.163.com/artist?id=62737" }
+    ],
+    "album": {
+      "name": "Good Enough",
+      "link": "https://music.163.com/album?id=89060906"
+    }
+  },
+  {
+    "name": "Stay",
+    "link": "https://music.163.com/song?id=1431773049",
+    "duration": "03:28",
+    "artists": [
+      {
+        "name": "Bogdan Vix",
+        "link": "https://music.163.com/artist?id=837274"
+      },
+      {
+        "name": "Claudiu Adam",
+        "link": "https://music.163.com/artist?id=31633263"
+      },
+      { "name": "Mona Moua", "link": "https://music.163.com/artist?id=292048" }
+    ],
+    "album": {
+      "name": "Stay",
+      "link": "https://music.163.com/album?id=86589239"
+    }
+  },
+  {
+    "name": "Kick Drums & Red Wine",
+    "link": "https://music.163.com/song?id=28999944",
+    "duration": "06:21",
+    "artists": [
+      {
+        "name": "The Midnight",
+        "link": "https://music.163.com/artist?id=12023492"
+      }
+    ],
+    "album": {
+      "name": "Days of Thunder",
+      "link": "https://music.163.com/album?id=2976060"
+    }
+  },
+  {
+    "name": "Sleepwalker (Virtu Remix)",
+    "link": "https://music.163.com/song?id=417247737",
+    "duration": "03:55",
+    "artists": [
+      { "name": "VIRTU", "link": "https://music.163.com/artist?id=789899" },
+      { "name": "ILLENIUM", "link": "https://music.163.com/artist?id=1050518" }
+    ],
+    "album": {
+      "name": "Sleepwalker (Virtu Remix)",
+      "link": "https://music.163.com/album?id=34739318"
+    }
+  },
+  {
+    "name": "Reverie (Cloudsz Remix)",
+    "link": "https://music.163.com/song?id=426291133",
+    "duration": "05:04",
+    "artists": [
+      { "name": "Cloudsz", "link": "https://music.163.com/artist?id=12009083" },
+      { "name": "ILLENIUM", "link": "https://music.163.com/artist?id=1050518" },
+      { "name": "King Deco", "link": "https://music.163.com/artist?id=908182" }
+    ],
+    "album": {
+      "name": "Reverie (Cloudsz Remix)",
+      "link": "https://music.163.com/album?id=34825289"
+    }
+  },
+  {
+    "name": "Time",
+    "link": "https://music.163.com/song?id=462516497",
+    "duration": "04:34",
+    "artists": [
+      { "name": "Kidswaste", "link": "https://music.163.com/artist?id=1116302" }
+    ],
+    "album": {
+      "name": "Spleen",
+      "link": "https://music.163.com/album?id=35064104"
+    }
+  },
+  {
+    "name": "The End",
+    "link": "https://music.163.com/song?id=29048778",
+    "duration": "03:53",
+    "artists": [
+      { "name": "Celldweller", "link": "https://music.163.com/artist?id=50933" }
+    ],
+    "album": {
+      "name": "Soundtrack For The Voices In My Head Vol. 02",
+      "link": "https://music.163.com/album?id=2988163"
+    }
+  },
+  {
+    "name": "Love Trip",
+    "link": "https://music.163.com/song?id=1310565766",
+    "duration": "03:42",
+    "artists": [
+      { "name": "Ulchero", "link": "https://music.163.com/artist?id=12149036" },
+      { "name": "Couple N", "link": "https://music.163.com/artist?id=29832422" }
+    ],
+    "album": {
+      "name": "Love Trip",
+      "link": "https://music.163.com/album?id=73296423"
+    }
+  },
+  {
+    "name": "Lust For Life (The Avener Rework)",
+    "link": "https://music.163.com/song?id=501491063",
+    "duration": "04:12",
+    "artists": [
+      {
+        "name": "Lana Del Rey",
+        "link": "https://music.163.com/artist?id=66212"
+      },
+      {
+        "name": "The Weeknd",
+        "link": "https://music.163.com/artist?id=185858"
+      },
+      {
+        "name": "The Avener",
+        "link": "https://music.163.com/artist?id=1015501"
+      }
+    ],
+    "album": {
+      "name": "Lust For Life (The Avener Rework)",
+      "link": "https://music.163.com/album?id=36039294"
+    }
+  }
+]
