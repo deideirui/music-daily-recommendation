@@ -1,0 +1,494 @@
+[
+  {
+    "name": "Rooftop",
+    "link": "https://music.163.com/song?id=1456602326",
+    "duration": "03:13",
+    "artists": [
+      { "name": "MVRT", "link": "https://music.163.com/artist?id=35396819" },
+      {
+        "name": "Vijay & Sofia Zlatko",
+        "link": "https://music.163.com/artist?id=1155154"
+      }
+    ],
+    "album": {
+      "name": "Rooftop",
+      "link": "https://music.163.com/album?id=91205407"
+    }
+  },
+  {
+    "name": "Be Kind",
+    "link": "https://music.163.com/song?id=1444959394",
+    "duration": "02:52",
+    "artists": [
+      {
+        "name": "Marshmello",
+        "link": "https://music.163.com/artist?id=1060019"
+      },
+      { "name": "Halsey", "link": "https://music.163.com/artist?id=964321" }
+    ],
+    "album": {
+      "name": "Be Kind",
+      "link": "https://music.163.com/album?id=88836925"
+    }
+  },
+  {
+    "name": "Fool For You",
+    "link": "https://music.163.com/song?id=1817576399",
+    "duration": "03:27",
+    "artists": [
+      { "name": "KASTRA", "link": "https://music.163.com/artist?id=1105094" }
+    ],
+    "album": {
+      "name": "Fool For You",
+      "link": "https://music.163.com/album?id=122548879"
+    }
+  },
+  {
+    "name": "Healing",
+    "link": "https://music.163.com/song?id=1840872818",
+    "duration": "03:01",
+    "artists": [
+      { "name": "Clarx", "link": "https://music.163.com/artist?id=1181756" },
+      { "name": "Moe Aly", "link": "https://music.163.com/artist?id=275322" }
+    ],
+    "album": {
+      "name": "Healing",
+      "link": "https://music.163.com/album?id=126667077"
+    }
+  },
+  {
+    "name": "Broken Hearts",
+    "link": "https://music.163.com/song?id=1399335951",
+    "duration": "03:09",
+    "artists": [
+      {
+        "name": "Justin Caruso",
+        "link": "https://music.163.com/artist?id=1193462"
+      },
+      { "name": "Hilda", "link": "https://music.163.com/artist?id=60265" }
+    ],
+    "album": {
+      "name": "Broken Hearts",
+      "link": "https://music.163.com/album?id=82767855"
+    }
+  },
+  {
+    "name": "Inainte Sa Ne Fi Nascut (Dirty Nano Remix)",
+    "link": "https://music.163.com/song?id=1324662981",
+    "duration": "05:42",
+    "artists": [
+      {
+        "name": "The Motans",
+        "link": "https://music.163.com/artist?id=12710132"
+      },
+      {
+        "name": "Dirty Nano",
+        "link": "https://music.163.com/artist?id=14081915"
+      }
+    ],
+    "album": {
+      "name": "Inainte Sa Ne Fi Nascut (Dirty Nano Remix)",
+      "link": "https://music.163.com/album?id=74360552"
+    }
+  },
+  {
+    "name": "Have No Fear",
+    "link": "https://music.163.com/song?id=459720239",
+    "duration": "04:16",
+    "artists": [
+      {
+        "name": "Third Party",
+        "link": "https://music.163.com/artist?id=784231"
+      }
+    ],
+    "album": {
+      "name": "Have No Fear",
+      "link": "https://music.163.com/album?id=35174315"
+    }
+  },
+  {
+    "name": "Somebody",
+    "link": "https://music.163.com/song?id=479219365",
+    "duration": "03:29",
+    "artists": [
+      {
+        "name": "Lush & Simon",
+        "link": "https://music.163.com/artist?id=358207"
+      },
+      { "name": "IZII", "link": "https://music.163.com/artist?id=12154276" }
+    ],
+    "album": {
+      "name": "Somebody",
+      "link": "https://music.163.com/album?id=35535115"
+    }
+  },
+  {
+    "name": "Fade Out (Dark Heart Remix)",
+    "link": "https://music.163.com/song?id=1388968659",
+    "duration": "02:57",
+    "artists": [
+      { "name": "SeeB", "link": "https://music.163.com/artist?id=1182169" },
+      {
+        "name": "Dark Heart",
+        "link": "https://music.163.com/artist?id=11991145"
+      }
+    ],
+    "album": {
+      "name": "Fade Out (Dark Heart Remix)",
+      "link": "https://music.163.com/album?id=81397469"
+    }
+  },
+  {
+    "name": "Take It off",
+    "link": "https://music.163.com/song?id=1337340011",
+    "duration": "03:14",
+    "artists": [
+      {
+        "name": "Two Friends",
+        "link": "https://music.163.com/artist?id=536718"
+      }
+    ],
+    "album": {
+      "name": "Take It off",
+      "link": "https://music.163.com/album?id=75043818"
+    }
+  },
+  {
+    "name": "Hurricane",
+    "link": "https://music.163.com/song?id=1852197769",
+    "duration": "03:47",
+    "artists": [
+      {
+        "name": "Youth In Circles",
+        "link": "https://music.163.com/artist?id=12082016"
+      },
+      {
+        "name": "ADRYANNA CAUDURO",
+        "link": "https://music.163.com/artist?id=35121059"
+      }
+    ],
+    "album": {
+      "name": "Hurricane",
+      "link": "https://music.163.com/album?id=128783194"
+    }
+  },
+  {
+    "name": "Ibuki (Intro Mix)",
+    "link": "https://music.163.com/song?id=524463343",
+    "duration": "06:57",
+    "artists": [
+      { "name": "Nhato", "link": "https://music.163.com/artist?id=15077" }
+    ],
+    "album": {
+      "name": "Rinne EP",
+      "link": "https://music.163.com/album?id=36995194"
+    }
+  },
+  {
+    "name": "Drive",
+    "link": "https://music.163.com/song?id=33728453",
+    "duration": "03:16",
+    "artists": [
+      { "name": "Oh Wonder", "link": "https://music.163.com/artist?id=1050128" }
+    ],
+    "album": {
+      "name": "Drive",
+      "link": "https://music.163.com/album?id=3257063"
+    }
+  },
+  {
+    "name": "1984",
+    "link": "https://music.163.com/song?id=1823013624",
+    "duration": "02:25",
+    "artists": [
+      {
+        "name": "Forwe兰斯",
+        "link": "https://music.163.com/artist?id=12079166"
+      },
+      {
+        "name": "WERECORDS",
+        "link": "https://music.163.com/artist?id=36257992"
+      }
+    ],
+    "album": {
+      "name": "REBIRTH Pt.1",
+      "link": "https://music.163.com/album?id=123557015"
+    }
+  },
+  {
+    "name": "Take Me Higher",
+    "link": "https://music.163.com/song?id=1375778301",
+    "duration": "03:18",
+    "artists": [
+      {
+        "name": "Markhese",
+        "link": "https://music.163.com/artist?id=12441195"
+      },
+      { "name": "Cylink", "link": "https://music.163.com/artist?id=13533550" },
+      {
+        "name": "Alex Holmes",
+        "link": "https://music.163.com/artist?id=14233343"
+      }
+    ],
+    "album": {
+      "name": "Take Me Higher",
+      "link": "https://music.163.com/album?id=80200895"
+    }
+  },
+  {
+    "name": "Seriously?",
+    "link": "https://music.163.com/song?id=1350364030",
+    "duration": "03:04",
+    "artists": [
+      { "name": "Laoise", "link": "https://music.163.com/artist?id=603947" }
+    ],
+    "album": {
+      "name": "Mad",
+      "link": "https://music.163.com/album?id=75781516"
+    }
+  },
+  {
+    "name": "左脑右脑",
+    "link": "https://music.163.com/song?id=424496526",
+    "duration": "04:34",
+    "artists": [
+      { "name": "洛天依", "link": "https://music.163.com/artist?id=906118" },
+      { "name": "阿良良木健", "link": "https://music.163.com/artist?id=964311" }
+    ],
+    "album": {
+      "name": "恋爱理论",
+      "link": "https://music.163.com/album?id=34778566"
+    }
+  },
+  {
+    "name": "Happiness is a butterfly",
+    "link": "https://music.163.com/song?id=1387548482",
+    "duration": "04:32",
+    "artists": [
+      {
+        "name": "Lana Del Rey",
+        "link": "https://music.163.com/artist?id=66212"
+      }
+    ],
+    "album": {
+      "name": "Norman ****ing Rockwell!",
+      "link": "https://music.163.com/album?id=81096083"
+    }
+  },
+  {
+    "name": "Fly Away (feat. Da-Ice)",
+    "link": "https://music.163.com/song?id=36198862",
+    "duration": "03:01",
+    "artists": [
+      {
+        "name": "Stevie Hoang",
+        "link": "https://music.163.com/artist?id=42958"
+      }
+    ],
+    "album": {
+      "name": "Forever",
+      "link": "https://music.163.com/album?id=3390252"
+    }
+  },
+  {
+    "name": "Sincerely - (TV动画《紫罗兰永恒花园》片头曲 ；TVアニメ「ヴァイオレット・エヴァーガーデン」OPテーマ)",
+    "link": "https://music.163.com/song?id=534065323",
+    "duration": "04:35",
+    "artists": [
+      { "name": "TRUE", "link": "https://music.163.com/artist?id=896286" }
+    ],
+    "album": {
+      "name": "Sincerely (アニメ盤)",
+      "link": "https://music.163.com/album?id=37444116"
+    }
+  },
+  {
+    "name": "那些我恐惧至极的事",
+    "link": "https://music.163.com/song?id=1495910047",
+    "duration": "04:22",
+    "artists": [
+      { "name": "DJ Soviet", "link": "https://music.163.com/artist?id=999451" },
+      { "name": "雨狸", "link": "https://music.163.com/artist?id=32914265" },
+      { "name": "乐正绫", "link": "https://music.163.com/artist?id=1102240" },
+      { "name": "洛天依", "link": "https://music.163.com/artist?id=906118" }
+    ],
+    "album": {
+      "name": "那些我恐惧至极的事",
+      "link": "https://music.163.com/album?id=98342263"
+    }
+  },
+  {
+    "name": "明天，地铁新线",
+    "link": "https://music.163.com/song?id=1456400639",
+    "duration": "04:16",
+    "artists": [
+      { "name": "刘子森", "link": "https://music.163.com/artist?id=1195079" }
+    ],
+    "album": {
+      "name": "明天，地铁新线",
+      "link": "https://music.163.com/album?id=91110850"
+    }
+  },
+  {
+    "name": "Sweet Dreams (Are Made Of This) - (《X战警：天启》快银出场音乐)",
+    "link": "https://music.163.com/song?id=26907013",
+    "duration": "04:51",
+    "artists": [
+      { "name": "Eurythmics", "link": "https://music.163.com/artist?id=55563" }
+    ],
+    "album": {
+      "name": "Classic Rock 80's",
+      "link": "https://music.163.com/album?id=2574001"
+    }
+  },
+  {
+    "name": "Bulletproof Heart [Radio Edit]",
+    "link": "https://music.163.com/song?id=29713316",
+    "duration": "03:11",
+    "artists": [
+      {
+        "name": "Indian Boi",
+        "link": "https://music.163.com/artist?id=1026024"
+      }
+    ],
+    "album": {
+      "name": "Bulletproof Heart",
+      "link": "https://music.163.com/album?id=3064054"
+    }
+  },
+  {
+    "name": "Toss It Up",
+    "link": "https://music.163.com/song?id=2590124",
+    "duration": "04:29",
+    "artists": [
+      { "name": "Akon", "link": "https://music.163.com/artist?id=27595" },
+      { "name": "Flipsyde", "link": "https://music.163.com/artist?id=56799" }
+    ],
+    "album": {
+      "name": "State of Survival",
+      "link": "https://music.163.com/album?id=260869"
+    }
+  },
+  {
+    "name": "不要怕&啊杰咯 - (Don't be afraid)",
+    "link": "https://music.163.com/song?id=571069109",
+    "duration": "05:23",
+    "artists": [
+      { "name": "莫西子诗", "link": "https://music.163.com/artist?id=896927" }
+    ],
+    "album": {
+      "name": "不要怕&啊杰咯",
+      "link": "https://music.163.com/album?id=39577032"
+    }
+  },
+  {
+    "name": "星光降落",
+    "link": "https://music.163.com/song?id=1862309034",
+    "duration": "02:49",
+    "artists": [
+      { "name": "王宗介", "link": "https://music.163.com/artist?id=30220836" }
+    ],
+    "album": {
+      "name": "星光降落",
+      "link": "https://music.163.com/album?id=130547490"
+    }
+  },
+  {
+    "name": "Miracles - (电影《Unbroken》主题曲)",
+    "link": "https://music.163.com/song?id=29802587",
+    "duration": "03:55",
+    "artists": [
+      { "name": "Coldplay", "link": "https://music.163.com/artist?id=89365" }
+    ],
+    "album": {
+      "name": "Miracles",
+      "link": "https://music.163.com/album?id=3080569"
+    }
+  },
+  {
+    "name": "Send It (feat. Rich Homie Quan)",
+    "link": "https://music.163.com/song?id=426291544",
+    "duration": "03:01",
+    "artists": [
+      {
+        "name": "Austin Mahone",
+        "link": "https://music.163.com/artist?id=29121"
+      },
+      {
+        "name": "Rich Homie Quan",
+        "link": "https://music.163.com/artist?id=797253"
+      }
+    ],
+    "album": {
+      "name": "Send It (feat. Rich Homie Quan)",
+      "link": "https://music.163.com/album?id=34825395"
+    }
+  },
+  {
+    "name": "舞象晗光（珠海一中第51届校运会会歌）",
+    "link": "https://music.163.com/song?id=1892664193",
+    "duration": "04:19",
+    "artists": [
+      {
+        "name": "刘宝仪Bonnieee",
+        "link": "https://music.163.com/artist?id=49694348"
+      },
+      { "name": "Hokeem", "link": "https://music.163.com/artist?id=49401200" },
+      { "name": "ClydeC", "link": "https://music.163.com/artist?id=49980301" },
+      { "name": "EP-TIRE", "link": "https://music.163.com/artist?id=49336456" }
+    ],
+    "album": {
+      "name": "舞象晗光（珠海一中第51届校运会会歌）",
+      "link": "https://music.163.com/album?id=135742749"
+    }
+  },
+  {
+    "name": "褪色的我 - (改编自《รักเท่าไหร่ก็ไม่เอา（多少的爱都不要）》)",
+    "link": "https://music.163.com/song?id=1876408824",
+    "duration": "03:33",
+    "artists": [
+      { "name": "钟梓淇77", "link": "https://music.163.com/artist?id=48987984" }
+    ],
+    "album": {
+      "name": "褪色的我",
+      "link": "https://music.163.com/album?id=132919289"
+    }
+  },
+  {
+    "name": "Wake",
+    "link": "https://music.163.com/song?id=1867079368",
+    "duration": "04:15",
+    "artists": [
+      { "name": "Sunnyxi", "link": "https://music.163.com/artist?id=34595248" }
+    ],
+    "album": {
+      "name": "We Are Young & Free",
+      "link": "https://music.163.com/album?id=131390706"
+    }
+  },
+  {
+    "name": "Battle Symphony",
+    "link": "https://music.163.com/song?id=460043748",
+    "duration": "03:36",
+    "artists": [
+      { "name": "Linkin Park", "link": "https://music.163.com/artist?id=95439" }
+    ],
+    "album": {
+      "name": "One More Light",
+      "link": "https://music.163.com/album?id=35150852"
+    }
+  },
+  {
+    "name": "Never Stop",
+    "link": "https://music.163.com/song?id=1891455904",
+    "duration": "04:07",
+    "artists": [
+      { "name": "澤野弘之", "link": "https://music.163.com/artist?id=15290" },
+      { "name": "Laco", "link": "https://music.163.com/artist?id=32469869" }
+    ],
+    "album": {
+      "name": "《荒野行动》四周年主题曲「Never Stop」",
+      "link": "https://music.163.com/album?id=135521094"
+    }
+  }
+]
