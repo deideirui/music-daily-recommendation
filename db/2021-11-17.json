@@ -1,0 +1,445 @@
+[
+  {
+    "name": "Drama",
+    "link": "https://music.163.com/song?id=1337130734",
+    "duration": "03:25",
+    "artists": [
+      { "name": "Hannie", "link": "https://music.163.com/artist?id=12073011" },
+      { "name": "HICARI", "link": "https://music.163.com/artist?id=13961629" },
+      {
+        "name": "Isaiah Dreads",
+        "link": "https://music.163.com/artist?id=12154223"
+      }
+    ],
+    "album": {
+      "name": "Drama",
+      "link": "https://music.163.com/album?id=75030910"
+    }
+  },
+  {
+    "name": "Move On",
+    "link": "https://music.163.com/song?id=1421446520",
+    "duration": "03:03",
+    "artists": [
+      { "name": "Grumbae", "link": "https://music.163.com/artist?id=34305180" },
+      {
+        "name": "Alessia Labate",
+        "link": "https://music.163.com/artist?id=30664269"
+      }
+    ],
+    "album": {
+      "name": "Move On",
+      "link": "https://music.163.com/album?id=85539291"
+    }
+  },
+  {
+    "name": "Better Apart",
+    "link": "https://music.163.com/song?id=1354608659",
+    "duration": "03:54",
+    "artists": [
+      { "name": "Jai Wolf", "link": "https://music.163.com/artist?id=1063048" },
+      {
+        "name": "Keeley Bumford",
+        "link": "https://music.163.com/artist?id=12845274"
+      }
+    ],
+    "album": {
+      "name": "The Cure To Loneliness",
+      "link": "https://music.163.com/album?id=78300643"
+    }
+  },
+  {
+    "name": "Stay Up (feat. Andie Nora)",
+    "link": "https://music.163.com/song?id=1449539620",
+    "duration": "02:21",
+    "artists": [
+      { "name": "Wallaby", "link": "https://music.163.com/artist?id=12086070" },
+      {
+        "name": "Andie Nora",
+        "link": "https://music.163.com/artist?id=33652885"
+      }
+    ],
+    "album": {
+      "name": "Stay Up (feat. Andie Nora)",
+      "link": "https://music.163.com/album?id=89710533"
+    }
+  },
+  {
+    "name": "Difficult",
+    "link": "https://music.163.com/song?id=1371476393",
+    "duration": "02:44",
+    "artists": [
+      {
+        "name": "Jay Bombay",
+        "link": "https://music.163.com/artist?id=327248"
+      },
+      { "name": "NEIMY", "link": "https://music.163.com/artist?id=12742289" }
+    ],
+    "album": {
+      "name": "Difficult",
+      "link": "https://music.163.com/album?id=79762476"
+    }
+  },
+  {
+    "name": "Crying In The Sun (Vinze Remix)",
+    "link": "https://music.163.com/song?id=1327190972",
+    "duration": "03:30",
+    "artists": [
+      { "name": "Faustix", "link": "https://music.163.com/artist?id=1155054" },
+      {
+        "name": "Shannon Rani",
+        "link": "https://music.163.com/artist?id=30322971"
+      },
+      { "name": "Vinze", "link": "https://music.163.com/artist?id=430603" }
+    ],
+    "album": {
+      "name": "Crying In The Sun (Remixes)",
+      "link": "https://music.163.com/album?id=74501791"
+    }
+  },
+  {
+    "name": "Feel Like (17)",
+    "link": "https://music.163.com/song?id=1400073772",
+    "duration": "03:11",
+    "artists": [
+      {
+        "name": "Ashton Love",
+        "link": "https://music.163.com/artist?id=1046021"
+      },
+      { "name": "MPV", "link": "https://music.163.com/artist?id=11974108" },
+      { "name": "4Beats", "link": "https://music.163.com/artist?id=33585659" },
+      {
+        "name": "Conan Mac",
+        "link": "https://music.163.com/artist?id=32653927"
+      }
+    ],
+    "album": {
+      "name": "Feel Like (17)",
+      "link": "https://music.163.com/album?id=82856756"
+    }
+  },
+  {
+    "name": "All We Know",
+    "link": "https://music.163.com/song?id=432698441",
+    "duration": "03:14",
+    "artists": [
+      {
+        "name": "The Chainsmokers",
+        "link": "https://music.163.com/artist?id=893484"
+      },
+      {
+        "name": "Phoebe Ryan",
+        "link": "https://music.163.com/artist?id=854363"
+      }
+    ],
+    "album": {
+      "name": "All We Know",
+      "link": "https://music.163.com/album?id=34897575"
+    }
+  },
+  {
+    "name": "Don't Say",
+    "link": "https://music.163.com/song?id=862099429",
+    "duration": "03:02",
+    "artists": [
+      { "name": "Hoang", "link": "https://music.163.com/artist?id=27694442" },
+      { "name": "Nevve", "link": "https://music.163.com/artist?id=12567101" }
+    ],
+    "album": {
+      "name": "Don't Say",
+      "link": "https://music.163.com/album?id=71614737"
+    }
+  },
+  {
+    "name": "Too Far Gone",
+    "link": "https://music.163.com/song?id=542525664",
+    "duration": "03:24",
+    "artists": [
+      { "name": "Outwild", "link": "https://music.163.com/artist?id=1115191" }
+    ],
+    "album": {
+      "name": "Too Far Gone",
+      "link": "https://music.163.com/album?id=37806988"
+    }
+  },
+  {
+    "name": "Deep End",
+    "link": "https://music.163.com/song?id=470573623",
+    "duration": "03:37",
+    "artists": [
+      { "name": "LU2VYK", "link": "https://music.163.com/artist?id=12356140" }
+    ],
+    "album": {
+      "name": "Deep End",
+      "link": "https://music.163.com/album?id=35346122"
+    }
+  },
+  {
+    "name": "Start Again",
+    "link": "https://music.163.com/song?id=1842286746",
+    "duration": "02:27",
+    "artists": [
+      { "name": "OVSKY", "link": "https://music.163.com/artist?id=36560569" }
+    ],
+    "album": {
+      "name": "Start Again",
+      "link": "https://music.163.com/album?id=126886706"
+    }
+  },
+  {
+    "name": "Utopia",
+    "link": "https://music.163.com/song?id=38679061",
+    "duration": "03:45",
+    "artists": [
+      {
+        "name": "Elliot Hsu",
+        "link": "https://music.163.com/artist?id=1192214"
+      }
+    ],
+    "album": {
+      "name": "Utopia",
+      "link": "https://music.163.com/album?id=3428492"
+    }
+  },
+  {
+    "name": "Love Birds",
+    "link": "https://music.163.com/song?id=1824025281",
+    "duration": "04:30",
+    "artists": [
+      { "name": "Ujico*", "link": "https://music.163.com/artist?id=1079081" }
+    ],
+    "album": {
+      "name": "Love Songs",
+      "link": "https://music.163.com/album?id=123721117"
+    }
+  },
+  {
+    "name": "Floating (filous Remix)",
+    "link": "https://music.163.com/song?id=1347159427",
+    "duration": "03:20",
+    "artists": [
+      {
+        "name": "Alina Baraz",
+        "link": "https://music.163.com/artist?id=860532"
+      },
+      { "name": "Khalid", "link": "https://music.163.com/artist?id=301757" },
+      { "name": "filous", "link": "https://music.163.com/artist?id=1081131" }
+    ],
+    "album": {
+      "name": "The Color Of You (Remixes)",
+      "link": "https://music.163.com/album?id=75634355"
+    }
+  },
+  {
+    "name": "Starry Night",
+    "link": "https://music.163.com/song?id=1342840047",
+    "duration": "02:48",
+    "artists": [
+      { "name": "Couple N", "link": "https://music.163.com/artist?id=29832422" }
+    ],
+    "album": {
+      "name": "Starry Night",
+      "link": "https://music.163.com/album?id=75340465"
+    }
+  },
+  {
+    "name": "Running in the Night",
+    "link": "https://music.163.com/song?id=411921883",
+    "duration": "04:30",
+    "artists": [
+      { "name": "FM-84", "link": "https://music.163.com/artist?id=12046467" },
+      {
+        "name": "Ollie Wride",
+        "link": "https://music.163.com/artist?id=14756188"
+      }
+    ],
+    "album": {
+      "name": "Atlas",
+      "link": "https://music.163.com/album?id=34686652"
+    }
+  },
+  {
+    "name": "Heartbeat",
+    "link": "https://music.163.com/song?id=1421200829",
+    "duration": "04:08",
+    "artists": [
+      { "name": "Cloudier", "link": "https://music.163.com/artist?id=31155350" }
+    ],
+    "album": {
+      "name": "Heartbeat",
+      "link": "https://music.163.com/album?id=85505327"
+    }
+  },
+  {
+    "name": "Second Limit",
+    "link": "https://music.163.com/song?id=22789428",
+    "duration": "04:06",
+    "artists": [
+      {
+        "name": "MY FIRST STORY",
+        "link": "https://music.163.com/artist?id=20689"
+      }
+    ],
+    "album": {
+      "name": "MY FIRST STORY",
+      "link": "https://music.163.com/album?id=2094284"
+    }
+  },
+  {
+    "name": "I'm OK,You're OK",
+    "link": "https://music.163.com/song?id=22815599",
+    "duration": "04:04",
+    "artists": [
+      {
+        "name": "fly sleep fly",
+        "link": "https://music.163.com/artist?id=19480"
+      }
+    ],
+    "album": {
+      "name": "Under The Skin",
+      "link": "https://music.163.com/album?id=2097487"
+    }
+  },
+  {
+    "name": "僕が死のうと思ったのは - (曾经我也想过一了百了)",
+    "link": "https://music.163.com/song?id=26830207",
+    "duration": "06:20",
+    "artists": [
+      { "name": "中島美嘉", "link": "https://music.163.com/artist?id=160729" }
+    ],
+    "album": {
+      "name": "僕が死のうと思ったのは",
+      "link": "https://music.163.com/album?id=2565022"
+    }
+  },
+  {
+    "name": "咸咸的(洛天依 ver.)",
+    "link": "https://music.163.com/song?id=484710046",
+    "duration": "04:09",
+    "artists": [
+      { "name": "洛天依", "link": "https://music.163.com/artist?id=906118" },
+      { "name": "純白P", "link": "https://music.163.com/artist?id=12057017" }
+    ],
+    "album": {
+      "name": "蔚蓝色",
+      "link": "https://music.163.com/album?id=35638290"
+    }
+  },
+  {
+    "name": "Cruel (Edit)",
+    "link": "https://music.163.com/song?id=1886768234",
+    "duration": "03:14",
+    "artists": [
+      { "name": "Swizzy", "link": "https://music.163.com/artist?id=31051066" },
+      {
+        "name": "Qwerty J.",
+        "link": "https://music.163.com/artist?id=33130039"
+      }
+    ],
+    "album": {
+      "name": "Cruel (Edit)",
+      "link": "https://music.163.com/album?id=134740299"
+    }
+  },
+  {
+    "name": "Midnight (Kygo Remix)",
+    "link": "https://music.163.com/song?id=29422001",
+    "duration": "05:16",
+    "artists": [
+      { "name": "Kygo", "link": "https://music.163.com/artist?id=844410" },
+      { "name": "Coldplay", "link": "https://music.163.com/artist?id=89365" }
+    ],
+    "album": {
+      "name": "Midnight (Kygo Remix)",
+      "link": "https://music.163.com/album?id=3018274"
+    }
+  },
+  {
+    "name": "Popcorn",
+    "link": "https://music.163.com/song?id=1381333612",
+    "duration": "03:10",
+    "artists": [
+      {
+        "name": "Culture Code",
+        "link": "https://music.163.com/artist?id=1049930"
+      }
+    ],
+    "album": {
+      "name": "Popcorn",
+      "link": "https://music.163.com/album?id=80715988"
+    }
+  },
+  {
+    "name": "EXEC_COSMOFLIPS/.",
+    "link": "https://music.163.com/song?id=4940455",
+    "duration": "03:36",
+    "artists": [
+      { "name": "KOKIA", "link": "https://music.163.com/artist?id=16686" }
+    ],
+    "album": {
+      "name": "咲夜琉命～SAKIYA=RUMEI～Ar tonelico3 Hymmnos Concert side.蒼",
+      "link": "https://music.163.com/album?id=493991"
+    }
+  },
+  {
+    "name": "Know Better",
+    "link": "https://music.163.com/song?id=1403429049",
+    "duration": "06:56",
+    "artists": [
+      { "name": "Tinashe", "link": "https://music.163.com/artist?id=45221" }
+    ],
+    "album": {
+      "name": "Songs For You",
+      "link": "https://music.163.com/album?id=83324210"
+    }
+  },
+  {
+    "name": "Without You",
+    "link": "https://music.163.com/song?id=29304740",
+    "duration": "03:24",
+    "artists": [
+      {
+        "name": "Electric Youth",
+        "link": "https://music.163.com/artist?id=658235"
+      }
+    ],
+    "album": {
+      "name": "Innerworld",
+      "link": "https://music.163.com/album?id=2998213"
+    }
+  },
+  {
+    "name": "涙の物语 - (泪的故事)",
+    "link": "https://music.163.com/song?id=668248",
+    "duration": "03:17",
+    "artists": [
+      { "name": "有里知花", "link": "https://music.163.com/artist?id=18166" }
+    ],
+    "album": {
+      "name": "Good Luck To You~セレクテッド・アルバム~",
+      "link": "https://music.163.com/album?id=64473"
+    }
+  },
+  {
+    "name": "鱼玄机",
+    "link": "https://music.163.com/song?id=441617355",
+    "duration": "03:30",
+    "artists": [
+      { "name": "迁梦", "link": "https://music.163.com/artist?id=12065044" }
+    ],
+    "album": {
+      "name": "洛天依",
+      "link": "https://music.163.com/album?id=34977463"
+    }
+  },
+  {
+    "name": "Weight of the World/the End of YoRHa",
+    "link": "https://music.163.com/song?id=468490608",
+    "duration": "05:39",
+    "artists": [{ "name": "YLeoRHa", "link": "" }],
+    "album": {
+      "name": "NieR:Automata Original Soundtrack",
+      "link": "https://music.163.com/album?id=35297411"
+    }
+  }
+]
