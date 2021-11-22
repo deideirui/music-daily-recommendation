@@ -1,0 +1,515 @@
+[
+  {
+    "name": "So Far Gone",
+    "link": "https://music.163.com/song?id=1371507475",
+    "duration": "03:32",
+    "artists": [
+      { "name": "Nurko", "link": "https://music.163.com/artist?id=11991089" },
+      { "name": "Autrey", "link": "https://music.163.com/artist?id=31064238" }
+    ],
+    "album": {
+      "name": "Armada Chill 2019",
+      "link": "https://music.163.com/album?id=79769385"
+    }
+  },
+  {
+    "name": "Into Your Arms",
+    "link": "https://music.163.com/song?id=1375501302",
+    "duration": "03:07",
+    "artists": [
+      { "name": "KXA", "link": "https://music.163.com/artist?id=12024508" },
+      { "name": "chӕ", "link": "https://music.163.com/artist?id=32981875" }
+    ],
+    "album": {
+      "name": "Into Your Arms",
+      "link": "https://music.163.com/album?id=80154740"
+    }
+  },
+  {
+    "name": "Born To Be Yours",
+    "link": "https://music.163.com/song?id=572903330",
+    "duration": "03:13",
+    "artists": [
+      { "name": "Kygo", "link": "https://music.163.com/artist?id=844410" },
+      {
+        "name": "Imagine Dragons",
+        "link": "https://music.163.com/artist?id=94779"
+      }
+    ],
+    "album": {
+      "name": "Born To Be Yours",
+      "link": "https://music.163.com/album?id=39671806"
+    }
+  },
+  {
+    "name": "Over That",
+    "link": "https://music.163.com/song?id=525239104",
+    "duration": "03:25",
+    "artists": [
+      {
+        "name": "Emily Vaughn",
+        "link": "https://music.163.com/artist?id=12049240"
+      }
+    ],
+    "album": {
+      "name": "Over That",
+      "link": "https://music.163.com/album?id=37026042"
+    }
+  },
+  {
+    "name": "Rise & Fall",
+    "link": "https://music.163.com/song?id=1316375909",
+    "duration": "02:38",
+    "artists": [
+      {
+        "name": "Mike Perry",
+        "link": "https://music.163.com/artist?id=195021"
+      },
+      {
+        "name": "Cathrine Lassen",
+        "link": "https://music.163.com/artist?id=29653694"
+      }
+    ],
+    "album": {
+      "name": "Rise & Fall",
+      "link": "https://music.163.com/album?id=73468402"
+    }
+  },
+  {
+    "name": "Solo Dance",
+    "link": "https://music.163.com/song?id=439076364",
+    "duration": "02:53",
+    "artists": [
+      {
+        "name": "Martin Jensen",
+        "link": "https://music.163.com/artist?id=1060055"
+      }
+    ],
+    "album": {
+      "name": "Solo Dance",
+      "link": "https://music.163.com/album?id=34972068"
+    }
+  },
+  {
+    "name": "Mirrors",
+    "link": "https://music.163.com/song?id=1396157324",
+    "duration": "03:12",
+    "artists": [
+      { "name": "MitiS", "link": "https://music.163.com/artist?id=40245" }
+    ],
+    "album": {
+      "name": "Shattered EP",
+      "link": "https://music.163.com/album?id=82295940"
+    }
+  },
+  {
+    "name": "Take Back My Love",
+    "link": "https://music.163.com/song?id=864420484",
+    "duration": "02:27",
+    "artists": [
+      {
+        "name": "Frank Pole",
+        "link": "https://music.163.com/artist?id=12046116"
+      },
+      {
+        "name": "Dia Frampton",
+        "link": "https://music.163.com/artist?id=55454"
+      }
+    ],
+    "album": {
+      "name": "Take Back My Love",
+      "link": "https://music.163.com/album?id=71731405"
+    }
+  },
+  {
+    "name": "Revive",
+    "link": "https://music.163.com/song?id=1395922525",
+    "duration": "04:12",
+    "artists": [
+      { "name": "LIONE", "link": "https://music.163.com/artist?id=11986064" }
+    ],
+    "album": {
+      "name": "Revive",
+      "link": "https://music.163.com/album?id=82255508"
+    }
+  },
+  {
+    "name": "Where the Water Ends",
+    "link": "https://music.163.com/song?id=493283652",
+    "duration": "02:54",
+    "artists": [
+      { "name": "VINAI", "link": "https://music.163.com/artist?id=804422" },
+      { "name": "Anjulie", "link": "https://music.163.com/artist?id=46502" }
+    ],
+    "album": {
+      "name": "Where the Water Ends",
+      "link": "https://music.163.com/album?id=35834469"
+    }
+  },
+  {
+    "name": "Feelin Free (Original Mix)",
+    "link": "https://music.163.com/song?id=30413266",
+    "duration": "05:15",
+    "artists": [
+      { "name": "Cuebrick", "link": "https://music.163.com/artist?id=364737" },
+      { "name": "Rockster", "link": "https://music.163.com/artist?id=1101030" },
+      { "name": "Nelson", "link": "https://music.163.com/artist?id=97531" }
+    ],
+    "album": {
+      "name": "Feelin Free",
+      "link": "https://music.163.com/album?id=3098686"
+    }
+  },
+  {
+    "name": "Escape",
+    "link": "https://music.163.com/song?id=1415736290",
+    "duration": "03:11",
+    "artists": [
+      {
+        "name": "Thomas Gold",
+        "link": "https://music.163.com/artist?id=196219"
+      },
+      { "name": "Kosling", "link": "https://music.163.com/artist?id=29289583" },
+      {
+        "name": "David Shane",
+        "link": "https://music.163.com/artist?id=29840982"
+      }
+    ],
+    "album": {
+      "name": "Escape",
+      "link": "https://music.163.com/album?id=84892859"
+    }
+  },
+  {
+    "name": "Inferno",
+    "link": "https://music.163.com/song?id=475597470",
+    "duration": "04:05",
+    "artists": [
+      { "name": "Hechmann", "link": "https://music.163.com/artist?id=12011121" }
+    ],
+    "album": {
+      "name": "Inferno",
+      "link": "https://music.163.com/album?id=35371911"
+    }
+  },
+  {
+    "name": "Crystal Memories ( feat.Heather Sommer )",
+    "link": "https://music.163.com/song?id=1868201458",
+    "duration": "03:08",
+    "artists": [
+      { "name": "Awakend", "link": "https://music.163.com/artist?id=13049055" },
+      {
+        "name": "Heather Sommer",
+        "link": "https://music.163.com/artist?id=13134228"
+      }
+    ],
+    "album": {
+      "name": "Memories From Another Life",
+      "link": "https://music.163.com/album?id=131549407"
+    }
+  },
+  {
+    "name": "Symphony",
+    "link": "https://music.163.com/song?id=1870591735",
+    "duration": "03:10",
+    "artists": [
+      {
+        "name": "Donna Tella",
+        "link": "https://music.163.com/artist?id=15382106"
+      },
+      { "name": "Arc North", "link": "https://music.163.com/artist?id=1137410" }
+    ],
+    "album": {
+      "name": "Symphony",
+      "link": "https://music.163.com/album?id=131937229"
+    }
+  },
+  {
+    "name": "Swing",
+    "link": "https://music.163.com/song?id=411907329",
+    "duration": "02:48",
+    "artists": [
+      { "name": "L3V3LS", "link": "https://music.163.com/artist?id=12007340" }
+    ],
+    "album": {
+      "name": "Swing",
+      "link": "https://music.163.com/album?id=34685406"
+    }
+  },
+  {
+    "name": "Spark (with Dia Frampton)",
+    "link": "https://music.163.com/song?id=1843875721",
+    "duration": "03:26",
+    "artists": [
+      { "name": "Blanke", "link": "https://music.163.com/artist?id=13369420" },
+      {
+        "name": "Dia Frampton",
+        "link": "https://music.163.com/artist?id=55454"
+      }
+    ],
+    "album": {
+      "name": "Spark (with Dia Frampton)",
+      "link": "https://music.163.com/album?id=127174937"
+    }
+  },
+  {
+    "name": "Where Is The Love? (Soule Rework)",
+    "link": "https://music.163.com/song?id=34144434",
+    "duration": "05:18",
+    "artists": [
+      {
+        "name": "Clément Bcx",
+        "link": "https://music.163.com/artist?id=1078228"
+      },
+      {
+        "name": "Black Eyed Peas",
+        "link": "https://music.163.com/artist?id=88146"
+      },
+      {
+        "name": "Ellena Soule",
+        "link": "https://music.163.com/artist?id=1081902"
+      },
+      { "name": "Soule", "link": "https://music.163.com/artist?id=32964452" }
+    ],
+    "album": {
+      "name": "Where Is The Love",
+      "link": "https://music.163.com/album?id=3271445"
+    }
+  },
+  {
+    "name": "Hold On",
+    "link": "https://music.163.com/song?id=495220258",
+    "duration": "03:01",
+    "artists": [
+      { "name": "Slushii", "link": "https://music.163.com/artist?id=1193232" }
+    ],
+    "album": {
+      "name": "Out of Light",
+      "link": "https://music.163.com/album?id=35877094"
+    }
+  },
+  {
+    "name": "Survive",
+    "link": "https://music.163.com/song?id=445144239",
+    "duration": "04:32",
+    "artists": [
+      { "name": "Vanze", "link": "https://music.163.com/artist?id=1081008" },
+      {
+        "name": "Neon Dreams",
+        "link": "https://music.163.com/artist?id=816217"
+      }
+    ],
+    "album": {
+      "name": "Survive",
+      "link": "https://music.163.com/album?id=35023749"
+    }
+  },
+  {
+    "name": "Paint The Sky",
+    "link": "https://music.163.com/song?id=1428148984",
+    "duration": "03:20",
+    "artists": [
+      {
+        "name": "Mark Sixma",
+        "link": "https://music.163.com/artist?id=178755"
+      },
+      { "name": "Eline", "link": "https://music.163.com/artist?id=30696426" }
+    ],
+    "album": {
+      "name": "Paint The Sky",
+      "link": "https://music.163.com/album?id=86227463"
+    }
+  },
+  {
+    "name": "Northern Light",
+    "link": "https://music.163.com/song?id=1459853712",
+    "duration": "03:19",
+    "artists": [
+      {
+        "name": "Newclaess",
+        "link": "https://music.163.com/artist?id=13335706"
+      }
+    ],
+    "album": {
+      "name": "Northern Light",
+      "link": "https://music.163.com/album?id=91873573"
+    }
+  },
+  {
+    "name": "Never Change (feat. Gallie Fisher)",
+    "link": "https://music.163.com/song?id=1342935707",
+    "duration": "04:09",
+    "artists": [
+      {
+        "name": "Crystal Skies",
+        "link": "https://music.163.com/artist?id=1063127"
+      },
+      {
+        "name": "Gallie Fisher",
+        "link": "https://music.163.com/artist?id=31376375"
+      }
+    ],
+    "album": {
+      "name": "Never Change",
+      "link": "https://music.163.com/album?id=75374323"
+    }
+  },
+  {
+    "name": "Successful Person",
+    "link": "https://music.163.com/song?id=1335440373",
+    "duration": "03:01",
+    "artists": [
+      { "name": "Dio Deer", "link": "https://music.163.com/artist?id=12319430" }
+    ],
+    "album": {
+      "name": "Successful Person(Mix)",
+      "link": "https://music.163.com/album?id=74977657"
+    }
+  },
+  {
+    "name": "The Last Goodbye",
+    "link": "https://music.163.com/song?id=1302458402",
+    "duration": "04:45",
+    "artists": [
+      {
+        "name": "Orjan Nilsen",
+        "link": "https://music.163.com/artist?id=41064"
+      },
+      { "name": "Matluck", "link": "https://music.163.com/artist?id=13872061" }
+    ],
+    "album": {
+      "name": "The Last Goodbye",
+      "link": "https://music.163.com/album?id=72352451"
+    }
+  },
+  {
+    "name": "Live Forever (Gareth Emery Remix)",
+    "link": "https://music.163.com/song?id=459720202",
+    "duration": "03:26",
+    "artists": [
+      {
+        "name": "Ferry Corsten",
+        "link": "https://music.163.com/artist?id=33395"
+      },
+      { "name": "Aruna", "link": "https://music.163.com/artist?id=201130" },
+      {
+        "name": "Gareth Emery",
+        "link": "https://music.163.com/artist?id=34318"
+      }
+    ],
+    "album": {
+      "name": "Live Forever Remixed",
+      "link": "https://music.163.com/album?id=35176242"
+    }
+  },
+  {
+    "name": "Rush",
+    "link": "https://music.163.com/song?id=38673532",
+    "duration": "03:31",
+    "artists": [
+      { "name": "Venom One", "link": "https://music.163.com/artist?id=832516" },
+      {
+        "name": "Sarah Howells",
+        "link": "https://music.163.com/artist?id=193820"
+      }
+    ],
+    "album": {
+      "name": "Future Sound of Egypt Excelsior - Best of 2015",
+      "link": "https://music.163.com/album?id=3427646"
+    }
+  },
+  {
+    "name": "Good Times",
+    "link": "https://music.163.com/song?id=411754071",
+    "duration": "04:16",
+    "artists": [
+      { "name": "Childsion", "link": "https://music.163.com/artist?id=1215014" }
+    ],
+    "album": {
+      "name": "Good Times",
+      "link": "https://music.163.com/album?id=34672705"
+    }
+  },
+  {
+    "name": "Omen In The Rain (Seven Lions Remix)",
+    "link": "https://music.163.com/song?id=485960392",
+    "duration": "04:39",
+    "artists": [
+      { "name": "Myon", "link": "https://music.163.com/artist?id=96759" },
+      {
+        "name": "Seven Lions",
+        "link": "https://music.163.com/artist?id=44204"
+      },
+      {
+        "name": "Alissa Feudo",
+        "link": "https://music.163.com/artist?id=13202723"
+      }
+    ],
+    "album": {
+      "name": "Omen In The Rain (The Remixes)",
+      "link": "https://music.163.com/album?id=35663019"
+    }
+  },
+  {
+    "name": "Miss You (Tilka Remix)",
+    "link": "https://music.163.com/song?id=480648567",
+    "duration": "03:42",
+    "artists": [
+      {
+        "name": "James Hersey",
+        "link": "https://music.163.com/artist?id=1025291"
+      },
+      { "name": "Tilka", "link": "https://music.163.com/artist?id=12073396" }
+    ],
+    "album": {
+      "name": "Miss You (Tilka Remix)",
+      "link": "https://music.163.com/album?id=35558292"
+    }
+  },
+  {
+    "name": "Lifetime Change (Original Mix)",
+    "link": "https://music.163.com/song?id=29794523",
+    "duration": "06:23",
+    "artists": [
+      {
+        "name": "Denis Kenzo",
+        "link": "https://music.163.com/artist?id=263670"
+      }
+    ],
+    "album": {
+      "name": "Lifetime Change",
+      "link": "https://music.163.com/album?id=3080208"
+    }
+  },
+  {
+    "name": "Crying In The Sun",
+    "link": "https://music.163.com/song?id=1316767736",
+    "duration": "03:15",
+    "artists": [
+      { "name": "Faustix", "link": "https://music.163.com/artist?id=1155054" },
+      {
+        "name": "Shannon Rani",
+        "link": "https://music.163.com/artist?id=30322971"
+      }
+    ],
+    "album": {
+      "name": "Crying In The Sun (Remixes)",
+      "link": "https://music.163.com/album?id=74501791"
+    }
+  },
+  {
+    "name": "Love Story (Taylor’s Version)",
+    "link": "https://music.163.com/song?id=1896459839",
+    "duration": "03:55",
+    "artists": [
+      {
+        "name": "Taylor Swift",
+        "link": "https://music.163.com/artist?id=44266"
+      }
+    ],
+    "album": {
+      "name": "Let's Go To The Sea",
+      "link": "https://music.163.com/album?id=136374629"
+    }
+  }
+]
