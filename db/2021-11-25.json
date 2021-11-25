@@ -1,0 +1,520 @@
+[
+  {
+    "name": "Going Crazy",
+    "link": "https://music.163.com/song?id=1428893756",
+    "duration": "03:05",
+    "artists": [
+      {
+        "name": "Flip Capella",
+        "link": "https://music.163.com/artist?id=905222"
+      },
+      { "name": "OTRAY", "link": "https://music.163.com/artist?id=12441373" },
+      { "name": "Vinze", "link": "https://music.163.com/artist?id=430603" },
+      {
+        "name": "Ashley Jana",
+        "link": "https://music.163.com/artist?id=14005654"
+      }
+    ],
+    "album": {
+      "name": "Going Crazy",
+      "link": "https://music.163.com/album?id=86303446"
+    }
+  },
+  {
+    "name": "I Luv U",
+    "link": "https://music.163.com/song?id=1432440791",
+    "duration": "02:30",
+    "artists": [
+      {
+        "name": "Sofia Carson",
+        "link": "https://music.163.com/artist?id=12024488"
+      },
+      { "name": "R3HAB", "link": "https://music.163.com/artist?id=197248" }
+    ],
+    "album": {
+      "name": "I Luv U",
+      "link": "https://music.163.com/album?id=86671615"
+    }
+  },
+  {
+    "name": "Three Words",
+    "link": "https://music.163.com/song?id=1446445809",
+    "duration": "03:19",
+    "artists": [
+      { "name": "Juze", "link": "https://music.163.com/artist?id=14851382" }
+    ],
+    "album": {
+      "name": "Three Words",
+      "link": "https://music.163.com/album?id=89132826"
+    }
+  },
+  {
+    "name": "Part-Time Lover",
+    "link": "https://music.163.com/song?id=1347227963",
+    "duration": "03:39",
+    "artists": [
+      { "name": "Dabin", "link": "https://music.163.com/artist?id=783446" },
+      {
+        "name": "Claire Ridgely",
+        "link": "https://music.163.com/artist?id=14935781"
+      }
+    ],
+    "album": {
+      "name": "Wild Youth",
+      "link": "https://music.163.com/album?id=75638746"
+    }
+  },
+  {
+    "name": "Better Anyway",
+    "link": "https://music.163.com/song?id=1367114866",
+    "duration": "03:06",
+    "artists": [
+      { "name": "Borgeous", "link": "https://music.163.com/artist?id=904048" },
+      { "name": "Runaground", "link": "https://music.163.com/artist?id=945002" }
+    ],
+    "album": {
+      "name": "Better Anyway",
+      "link": "https://music.163.com/album?id=79341361"
+    }
+  },
+  {
+    "name": "Chance",
+    "link": "https://music.163.com/song?id=536513830",
+    "duration": "03:33",
+    "artists": [
+      { "name": "Aspyer", "link": "https://music.163.com/artist?id=12409085" },
+      {
+        "name": "Kyle Reynolds",
+        "link": "https://music.163.com/artist?id=1179061"
+      },
+      {
+        "name": "Carly Jay",
+        "link": "https://music.163.com/artist?id=30395435"
+      }
+    ],
+    "album": {
+      "name": "Chance",
+      "link": "https://music.163.com/album?id=37552481"
+    }
+  },
+  {
+    "name": "Too Long",
+    "link": "https://music.163.com/song?id=1492656824",
+    "duration": "03:11",
+    "artists": [
+      { "name": "Holseek", "link": "https://music.163.com/artist?id=35205001" },
+      {
+        "name": "Axel Paerel",
+        "link": "https://music.163.com/artist?id=36902536"
+      }
+    ],
+    "album": {
+      "name": "Too Long",
+      "link": "https://music.163.com/album?id=97841180"
+    }
+  },
+  {
+    "name": "I Hear When I Think",
+    "link": "https://music.163.com/song?id=1374506020",
+    "duration": "03:19",
+    "artists": [
+      { "name": "L3V3LS", "link": "https://music.163.com/artist?id=12007340" }
+    ],
+    "album": {
+      "name": "I Hear When I Think",
+      "link": "https://music.163.com/album?id=80050394"
+    }
+  },
+  {
+    "name": "Hold On To You",
+    "link": "https://music.163.com/song?id=489998945",
+    "duration": "03:40",
+    "artists": [
+      { "name": "Omnia", "link": "https://music.163.com/artist?id=179006" },
+      {
+        "name": "Danyka Nadeau",
+        "link": "https://music.163.com/artist?id=1078277"
+      }
+    ],
+    "album": {
+      "name": "Hold On To You",
+      "link": "https://music.163.com/album?id=35696177"
+    }
+  },
+  {
+    "name": "Survivors",
+    "link": "https://music.163.com/song?id=1363966671",
+    "duration": "03:44",
+    "artists": [
+      { "name": "CH17S", "link": "https://music.163.com/artist?id=12498412" }
+    ],
+    "album": {
+      "name": "Survivors",
+      "link": "https://music.163.com/album?id=78996000"
+    }
+  },
+  {
+    "name": "Right Here Waiting (feat. Camishe)",
+    "link": "https://music.163.com/song?id=1472612277",
+    "duration": "03:12",
+    "artists": [
+      { "name": "Max Oazo", "link": "https://music.163.com/artist?id=13159084" }
+    ],
+    "album": {
+      "name": "Right Here Waiting (feat. Camishe)",
+      "link": "https://music.163.com/album?id=94246037"
+    }
+  },
+  {
+    "name": "Meadow",
+    "link": "https://music.163.com/song?id=1848514519",
+    "duration": "03:35",
+    "artists": [
+      { "name": "FEWZ", "link": "https://music.163.com/artist?id=12008133" }
+    ],
+    "album": {
+      "name": "Meadow",
+      "link": "https://music.163.com/album?id=128080342"
+    }
+  },
+  {
+    "name": "We Should Be Sorry",
+    "link": "https://music.163.com/song?id=1435876256",
+    "duration": "03:06",
+    "artists": [
+      {
+        "name": "Axel Johansson",
+        "link": "https://music.163.com/artist?id=12872604"
+      }
+    ],
+    "album": {
+      "name": "We Should Be Sorry",
+      "link": "https://music.163.com/album?id=87134256"
+    }
+  },
+  {
+    "name": "Lost",
+    "link": "https://music.163.com/song?id=507585224",
+    "duration": "03:20",
+    "artists": [
+      { "name": "ILLENIUM", "link": "https://music.163.com/artist?id=1050518" },
+      {
+        "name": "Emilie Brandt",
+        "link": "https://music.163.com/artist?id=13939432"
+      }
+    ],
+    "album": {
+      "name": "Awake",
+      "link": "https://music.163.com/album?id=36290028"
+    }
+  },
+  {
+    "name": "Collide",
+    "link": "https://music.163.com/song?id=1431101268",
+    "duration": "03:16",
+    "artists": [
+      {
+        "name": "The Darkmaker",
+        "link": "https://music.163.com/artist?id=31492299"
+      },
+      { "name": "赵曼伊mï", "link": "https://music.163.com/artist?id=31760557" }
+    ],
+    "album": {
+      "name": "Soul Melody Records Vol.1",
+      "link": "https://music.163.com/album?id=86517966"
+    }
+  },
+  {
+    "name": "Midnight Sun",
+    "link": "https://music.163.com/song?id=1450044624",
+    "duration": "02:32",
+    "artists": [
+      {
+        "name": "Mike Perry",
+        "link": "https://music.163.com/artist?id=195021"
+      },
+      {
+        "name": "Forgét Mej",
+        "link": "https://music.163.com/artist?id=35261264"
+      }
+    ],
+    "album": {
+      "name": "Midnight Sun",
+      "link": "https://music.163.com/album?id=89799234"
+    }
+  },
+  {
+    "name": "Telepathy",
+    "link": "https://music.163.com/song?id=1339219109",
+    "duration": "03:49",
+    "artists": [
+      { "name": "Jai Wolf", "link": "https://music.163.com/artist?id=1063048" }
+    ],
+    "album": {
+      "name": "The Cure To Loneliness",
+      "link": "https://music.163.com/album?id=78300643"
+    }
+  },
+  {
+    "name": "Quicksand",
+    "link": "https://music.163.com/song?id=419250516",
+    "duration": "03:37",
+    "artists": [
+      {
+        "name": "Feenixpawl",
+        "link": "https://music.163.com/artist?id=290025"
+      },
+      { "name": "Karra", "link": "https://music.163.com/artist?id=1081582" },
+      { "name": "APEK", "link": "https://music.163.com/artist?id=1182277" }
+    ],
+    "album": {
+      "name": "Quicksand",
+      "link": "https://music.163.com/album?id=34750020"
+    }
+  },
+  {
+    "name": "Freefall",
+    "link": "https://music.163.com/song?id=36024771",
+    "duration": "03:19",
+    "artists": [
+      {
+        "name": "Armin van Buuren",
+        "link": "https://music.163.com/artist?id=27621"
+      },
+      {
+        "name": "BullySongs",
+        "link": "https://music.163.com/artist?id=1156096"
+      }
+    ],
+    "album": {
+      "name": "Embrace",
+      "link": "https://music.163.com/album?id=3317064"
+    }
+  },
+  {
+    "name": "Another Life",
+    "link": "https://music.163.com/song?id=1389848613",
+    "duration": "03:16",
+    "artists": [
+      { "name": "Sabai", "link": "https://music.163.com/artist?id=32093901" }
+    ],
+    "album": {
+      "name": "Another Life",
+      "link": "https://music.163.com/album?id=81507575"
+    }
+  },
+  {
+    "name": "Say (Radio Edit)",
+    "link": "https://music.163.com/song?id=535520320",
+    "duration": "03:47",
+    "artists": [
+      {
+        "name": "Legal Divide",
+        "link": "https://music.163.com/artist?id=1137356"
+      },
+      { "name": "Tom Ven", "link": "https://music.163.com/artist?id=1137357" },
+      { "name": "KWT", "link": "https://music.163.com/artist?id=1137355" }
+    ],
+    "album": {
+      "name": "Armada Trice In Ibiza 2015",
+      "link": "https://music.163.com/album?id=3280041"
+    }
+  },
+  {
+    "name": "幻の夢",
+    "link": "https://music.163.com/song?id=1324617101",
+    "duration": "03:10",
+    "artists": [
+      { "name": "静风舞", "link": "https://music.163.com/artist?id=1145031" }
+    ],
+    "album": {
+      "name": "幻の夢",
+      "link": "https://music.163.com/album?id=74310599"
+    }
+  },
+  {
+    "name": "Rush",
+    "link": "https://music.163.com/song?id=1861092871",
+    "duration": "03:35",
+    "artists": [
+      { "name": "Rentz", "link": "https://music.163.com/artist?id=12628381" },
+      {
+        "name": "Trevor Omoto",
+        "link": "https://music.163.com/artist?id=31213631"
+      },
+      {
+        "name": "Chandler Blasé",
+        "link": "https://music.163.com/artist?id=32480261"
+      }
+    ],
+    "album": {
+      "name": "Rush",
+      "link": "https://music.163.com/album?id=130338598"
+    }
+  },
+  {
+    "name": "Artery",
+    "link": "https://music.163.com/song?id=517656272",
+    "duration": "03:30",
+    "artists": [
+      { "name": "董子龙", "link": "https://music.163.com/artist?id=12037288" }
+    ],
+    "album": {
+      "name": "Artery",
+      "link": "https://music.163.com/album?id=36740179"
+    }
+  },
+  {
+    "name": "Singing Back To Love (Original Mix)",
+    "link": "https://music.163.com/song?id=1435637851",
+    "duration": "03:51",
+    "artists": [
+      {
+        "name": "Denis Kenzo",
+        "link": "https://music.163.com/artist?id=263670"
+      },
+      {
+        "name": "Zein Hallak",
+        "link": "https://music.163.com/artist?id=31723042"
+      }
+    ],
+    "album": {
+      "name": "Singing Back To Love",
+      "link": "https://music.163.com/album?id=87076534"
+    }
+  },
+  {
+    "name": "遇",
+    "link": "https://music.163.com/song?id=1391638081",
+    "duration": "02:32",
+    "artists": [
+      {
+        "name": "Psyke (赛克）",
+        "link": "https://music.163.com/artist?id=27863138"
+      },
+      { "name": "鹤子Mia", "link": "https://music.163.com/artist?id=168011" }
+    ],
+    "album": { "name": "遇", "link": "https://music.163.com/album?id=81616682" }
+  },
+  {
+    "name": "我的幻想",
+    "link": "https://music.163.com/song?id=1847006310",
+    "duration": "04:29",
+    "artists": [
+      {
+        "name": "Wheazewolf",
+        "link": "https://music.163.com/artist?id=30704290"
+      }
+    ],
+    "album": {
+      "name": "我的幻想 · My Fantasy",
+      "link": "https://music.163.com/album?id=127802957"
+    }
+  },
+  {
+    "name": "The Glow",
+    "link": "https://music.163.com/song?id=32046828",
+    "duration": "04:37",
+    "artists": [
+      { "name": "Monogem", "link": "https://music.163.com/artist?id=1078007" }
+    ],
+    "album": {
+      "name": "Monogem",
+      "link": "https://music.163.com/album?id=3139754"
+    }
+  },
+  {
+    "name": "春珏",
+    "link": "https://music.163.com/song?id=1821963478",
+    "duration": "02:56",
+    "artists": [
+      {
+        "name": "HopeBoy阳花",
+        "link": "https://music.163.com/artist?id=12851419"
+      },
+      {
+        "name": "张天奕ZTYick",
+        "link": "https://music.163.com/artist?id=12304366"
+      },
+      {
+        "name": "Beccaberry",
+        "link": "https://music.163.com/artist?id=34601632"
+      },
+      {
+        "name": "Yurium幼里安",
+        "link": "https://music.163.com/artist?id=31374204"
+      },
+      { "name": "杨世贸", "link": "https://music.163.com/artist?id=12571508" }
+    ],
+    "album": {
+      "name": "春珏",
+      "link": "https://music.163.com/album?id=123343012"
+    }
+  },
+  {
+    "name": "Pump it Up",
+    "link": "https://music.163.com/song?id=1449537557",
+    "duration": "02:41",
+    "artists": [
+      { "name": "Cdeep", "link": "https://music.163.com/artist?id=35237485" }
+    ],
+    "album": {
+      "name": "Deep Sense",
+      "link": "https://music.163.com/album?id=89710277"
+    }
+  },
+  {
+    "name": "Jason",
+    "link": "https://music.163.com/song?id=426027089",
+    "duration": "05:31",
+    "artists": [
+      {
+        "name": "The Midnight",
+        "link": "https://music.163.com/artist?id=12023492"
+      },
+      {
+        "name": "Nikki Flores",
+        "link": "https://music.163.com/artist?id=70141"
+      }
+    ],
+    "album": {
+      "name": "Endless Summer",
+      "link": "https://music.163.com/album?id=34826028"
+    }
+  },
+  {
+    "name": "Waiting For Love",
+    "link": "https://music.163.com/song?id=31356499",
+    "duration": "04:34",
+    "artists": [
+      { "name": "Avicii", "link": "https://music.163.com/artist?id=45236" },
+      {
+        "name": "Martin Garrix",
+        "link": "https://music.163.com/artist?id=780003"
+      },
+      {
+        "name": "Simon Aldred",
+        "link": "https://music.163.com/artist?id=13855993"
+      }
+    ],
+    "album": {
+      "name": "Waiting For Love",
+      "link": "https://music.163.com/album?id=3117514"
+    }
+  },
+  {
+    "name": "ハート - (日剧《只是在结婚申请书上盖了章》主题歌)",
+    "link": "https://music.163.com/song?id=1896785389",
+    "duration": "04:31",
+    "artists": [
+      {
+        "name": "あいみょん",
+        "link": "https://music.163.com/artist?id=1053279"
+      }
+    ],
+    "album": {
+      "name": "ハート",
+      "link": "https://music.163.com/album?id=136408541"
+    }
+  }
+]
