@@ -1,0 +1,509 @@
+[
+  {
+    "name": "No Sleep",
+    "link": "https://music.163.com/song?id=1347529297",
+    "duration": "03:27",
+    "artists": [
+      {
+        "name": "Martin Garrix",
+        "link": "https://music.163.com/artist?id=780003"
+      },
+      { "name": "Bonn", "link": "https://music.163.com/artist?id=31540163" }
+    ],
+    "album": {
+      "name": "No Sleep",
+      "link": "https://music.163.com/album?id=75655368"
+    }
+  },
+  {
+    "name": "When You're Lonely",
+    "link": "https://music.163.com/song?id=1416550753",
+    "duration": "02:51",
+    "artists": [
+      { "name": "Hoang", "link": "https://music.163.com/artist?id=27694442" }
+    ],
+    "album": {
+      "name": "When You're Lonely",
+      "link": "https://music.163.com/album?id=84967168"
+    }
+  },
+  {
+    "name": "Cut Loose",
+    "link": "https://music.163.com/song?id=567098986",
+    "duration": "03:25",
+    "artists": [
+      { "name": "Emma Bale", "link": "https://music.163.com/artist?id=1044152" }
+    ],
+    "album": {
+      "name": "Cut Loose",
+      "link": "https://music.163.com/album?id=39318388"
+    }
+  },
+  {
+    "name": "Down For The Ride",
+    "link": "https://music.163.com/song?id=1837725861",
+    "duration": "02:40",
+    "artists": [
+      {
+        "name": "ItaloBrothers",
+        "link": "https://music.163.com/artist?id=94730"
+      }
+    ],
+    "album": {
+      "name": "Down For The Ride",
+      "link": "https://music.163.com/album?id=126082943"
+    }
+  },
+  {
+    "name": "Stories",
+    "link": "https://music.163.com/song?id=1391811816",
+    "duration": "02:48",
+    "artists": [
+      { "name": "Luke Bond", "link": "https://music.163.com/artist?id=191581" },
+      {
+        "name": "Ruby Chase",
+        "link": "https://music.163.com/artist?id=29781533"
+      }
+    ],
+    "album": {
+      "name": "Stories",
+      "link": "https://music.163.com/album?id=81750838"
+    }
+  },
+  {
+    "name": "Feel The Fire (Egzod Remix)",
+    "link": "https://music.163.com/song?id=444324932",
+    "duration": "03:18",
+    "artists": [
+      { "name": "Pluto", "link": "https://music.163.com/artist?id=12098062" },
+      { "name": "ye.", "link": "https://music.163.com/artist?id=12061025" },
+      { "name": "Egzod", "link": "https://music.163.com/artist?id=11970036" }
+    ],
+    "album": {
+      "name": "Feel The Fire (Remixes)",
+      "link": "https://music.163.com/album?id=35012407"
+    }
+  },
+  {
+    "name": "Love Again",
+    "link": "https://music.163.com/song?id=1395757943",
+    "duration": "03:26",
+    "artists": [
+      {
+        "name": "WildVibes",
+        "link": "https://music.163.com/artist?id=1181751"
+      },
+      {
+        "name": "Patrick Key",
+        "link": "https://music.163.com/artist?id=31242552"
+      },
+      {
+        "name": "Stine Kristiansen",
+        "link": "https://music.163.com/artist?id=30387959"
+      }
+    ],
+    "album": {
+      "name": "Love Again",
+      "link": "https://music.163.com/album?id=82232281"
+    }
+  },
+  {
+    "name": "乐醺",
+    "link": "https://music.163.com/song?id=1817438896",
+    "duration": "02:49",
+    "artists": [
+      {
+        "name": "Dimi Mack",
+        "link": "https://music.163.com/artist?id=12701299"
+      },
+      { "name": "Lorien", "link": "https://music.163.com/artist?id=32465968" },
+      {
+        "name": "vogue V Records",
+        "link": "https://music.163.com/artist?id=13010256"
+      }
+    ],
+    "album": {
+      "name": "乐醺",
+      "link": "https://music.163.com/album?id=122529354"
+    }
+  },
+  {
+    "name": "Crime",
+    "link": "https://music.163.com/song?id=504492138",
+    "duration": "02:55",
+    "artists": [
+      { "name": "Grey", "link": "https://music.163.com/artist?id=58424" },
+      { "name": "SKOTT", "link": "https://music.163.com/artist?id=12061139" }
+    ],
+    "album": {
+      "name": "Crime",
+      "link": "https://music.163.com/album?id=36150227"
+    }
+  },
+  {
+    "name": "Something Real",
+    "link": "https://music.163.com/song?id=1377264142",
+    "duration": "02:59",
+    "artists": [
+      {
+        "name": "Armin van Buuren",
+        "link": "https://music.163.com/artist?id=27621"
+      },
+      {
+        "name": "Avian Grays",
+        "link": "https://music.163.com/artist?id=32730297"
+      },
+      {
+        "name": "Jordan Shaw",
+        "link": "https://music.163.com/artist?id=13628884"
+      }
+    ],
+    "album": {
+      "name": "Something Real",
+      "link": "https://music.163.com/album?id=80334002"
+    }
+  },
+  {
+    "name": "Wonderland",
+    "link": "https://music.163.com/song?id=1811270862",
+    "duration": "03:36",
+    "artists": [
+      {
+        "name": "Axel Johansson",
+        "link": "https://music.163.com/artist?id=12872604"
+      }
+    ],
+    "album": {
+      "name": "Wonderland",
+      "link": "https://music.163.com/album?id=121496308"
+    }
+  },
+  {
+    "name": "Back To You",
+    "link": "https://music.163.com/song?id=1352962917",
+    "duration": "03:05",
+    "artists": [
+      { "name": "NATIIVE", "link": "https://music.163.com/artist?id=13775064" },
+      {
+        "name": "Cailee Rae",
+        "link": "https://music.163.com/artist?id=12448021"
+      }
+    ],
+    "album": {
+      "name": "Back To You",
+      "link": "https://music.163.com/album?id=75904612"
+    }
+  },
+  {
+    "name": "Love You",
+    "link": "https://music.163.com/song?id=1834149281",
+    "duration": "02:49",
+    "artists": [
+      { "name": "Cuebrick", "link": "https://music.163.com/artist?id=364737" }
+    ],
+    "album": {
+      "name": "Love You",
+      "link": "https://music.163.com/album?id=125460904"
+    }
+  },
+  {
+    "name": "GET OFF MY D!CK",
+    "link": "https://music.163.com/song?id=1333206448",
+    "duration": "02:50",
+    "artists": [
+      { "name": "ILIRA", "link": "https://music.163.com/artist?id=847380" }
+    ],
+    "album": {
+      "name": "GET OFF MY D!CK",
+      "link": "https://music.163.com/album?id=74872868"
+    }
+  },
+  {
+    "name": "She Don't Like The Lights (prod. Direct)",
+    "link": "https://music.163.com/song?id=556203329",
+    "duration": "03:27",
+    "artists": [
+      {
+        "name": "Aaron Richards",
+        "link": "https://music.163.com/artist?id=14055238"
+      },
+      { "name": "Direct", "link": "https://music.163.com/artist?id=758029" }
+    ],
+    "album": {
+      "name": "She Don't Like The Lights (prod. Direct)",
+      "link": "https://music.163.com/album?id=38529121"
+    }
+  },
+  {
+    "name": "See-Through",
+    "link": "https://music.163.com/song?id=569105350",
+    "duration": "04:24",
+    "artists": [
+      { "name": "Chad Valley", "link": "https://music.163.com/artist?id=31012" }
+    ],
+    "album": {
+      "name": "Imaginary Music",
+      "link": "https://music.163.com/album?id=39391229"
+    }
+  },
+  {
+    "name": "Survive (with Luma)",
+    "link": "https://music.163.com/song?id=1855644989",
+    "duration": "03:47",
+    "artists": [
+      { "name": "Blanke", "link": "https://music.163.com/artist?id=13369420" },
+      { "name": "Luma", "link": "https://music.163.com/artist?id=211460" }
+    ],
+    "album": {
+      "name": "Survive (with Luma)",
+      "link": "https://music.163.com/album?id=129403656"
+    }
+  },
+  {
+    "name": "Hey Mamma (Radio Edit)",
+    "link": "https://music.163.com/song?id=482246882",
+    "duration": "02:59",
+    "artists": [
+      {
+        "name": "Sunstroke Project",
+        "link": "https://music.163.com/artist?id=1049232"
+      }
+    ],
+    "album": {
+      "name": "Hey Mamma",
+      "link": "https://music.163.com/album?id=35572288"
+    }
+  },
+  {
+    "name": "Close to you",
+    "link": "https://music.163.com/song?id=864455704",
+    "duration": "03:47",
+    "artists": [
+      { "name": "yyFish", "link": "https://music.163.com/artist?id=12479019" },
+      { "name": "Klaas", "link": "https://music.163.com/artist?id=106210" }
+    ],
+    "album": {
+      "name": "Close to you(Remixes)",
+      "link": "https://music.163.com/album?id=71714403"
+    }
+  },
+  {
+    "name": "Better For It (feat. Clay Finnesand)",
+    "link": "https://music.163.com/song?id=1486646452",
+    "duration": "03:18",
+    "artists": [
+      {
+        "name": "Last Heroes",
+        "link": "https://music.163.com/artist?id=11987034"
+      },
+      {
+        "name": "Clay Finnesand",
+        "link": "https://music.163.com/artist?id=29791029"
+      }
+    ],
+    "album": {
+      "name": "Finding Light",
+      "link": "https://music.163.com/album?id=96707479"
+    }
+  },
+  {
+    "name": "Dance",
+    "link": "https://music.163.com/song?id=1809316257",
+    "duration": "03:05",
+    "artists": [
+      {
+        "name": "Teductive",
+        "link": "https://music.163.com/artist?id=14871185"
+      },
+      { "name": "PRMGH", "link": "https://music.163.com/artist?id=13477295" },
+      {
+        "name": "Ririn Tampoma",
+        "link": "https://music.163.com/artist?id=31767307"
+      }
+    ],
+    "album": {
+      "name": "Dance",
+      "link": "https://music.163.com/album?id=121174997"
+    }
+  },
+  {
+    "name": "似是故人来",
+    "link": "https://music.163.com/song?id=1826178750",
+    "duration": "03:53",
+    "artists": [
+      { "name": "梅艳芳", "link": "https://music.163.com/artist?id=8918" }
+    ],
+    "album": {
+      "name": "似是故人来",
+      "link": "https://music.163.com/album?id=124137112"
+    }
+  },
+  {
+    "name": "One More Day",
+    "link": "https://music.163.com/song?id=1874257676",
+    "duration": "03:55",
+    "artists": [
+      { "name": "Yetep", "link": "https://music.163.com/artist?id=12356399" },
+      { "name": "RUNN", "link": "https://music.163.com/artist?id=15237536" }
+    ],
+    "album": {
+      "name": "One More Day",
+      "link": "https://music.163.com/album?id=132534846"
+    }
+  },
+  {
+    "name": "i just wanna ****ing cry",
+    "link": "https://music.163.com/song?id=1849196931",
+    "duration": "02:54",
+    "artists": [
+      { "name": "San Holo", "link": "https://music.163.com/artist?id=1017035" },
+      {
+        "name": "The Nicholas",
+        "link": "https://music.163.com/artist?id=13226156"
+      }
+    ],
+    "album": {
+      "name": "bb u ok?",
+      "link": "https://music.163.com/album?id=128204234"
+    }
+  },
+  {
+    "name": "Guava Breeze",
+    "link": "https://music.163.com/song?id=1342769557",
+    "duration": "04:23",
+    "artists": [
+      { "name": "Vexento", "link": "https://music.163.com/artist?id=12037010" }
+    ],
+    "album": {
+      "name": "Guava Breeze",
+      "link": "https://music.163.com/album?id=75363022"
+    }
+  },
+  {
+    "name": "Blame",
+    "link": "https://music.163.com/song?id=29129632",
+    "duration": "03:34",
+    "artists": [
+      {
+        "name": "Calvin Harris",
+        "link": "https://music.163.com/artist?id=29968"
+      },
+      {
+        "name": "John Newman",
+        "link": "https://music.163.com/artist?id=195302"
+      }
+    ],
+    "album": {
+      "name": "Blame",
+      "link": "https://music.163.com/album?id=2992197"
+    }
+  },
+  {
+    "name": "Chasers",
+    "link": "https://music.163.com/song?id=1306648317",
+    "duration": "03:00",
+    "artists": [
+      { "name": "Bahari", "link": "https://music.163.com/artist?id=1044218" }
+    ],
+    "album": {
+      "name": "Chasers",
+      "link": "https://music.163.com/album?id=72806761"
+    }
+  },
+  {
+    "name": "神龛情书",
+    "link": "https://music.163.com/song?id=1453639212",
+    "duration": "03:16",
+    "artists": [
+      { "name": "DE_SCC", "link": "https://music.163.com/artist?id=13196217" },
+      { "name": "苏刘", "link": "https://music.163.com/artist?id=12609571" },
+      { "name": "夏璃夜", "link": "https://music.163.com/artist?id=12236114" }
+    ],
+    "album": {
+      "name": "神龛情书",
+      "link": "https://music.163.com/album?id=90458632"
+    }
+  },
+  {
+    "name": "All My Thoughts",
+    "link": "https://music.163.com/song?id=1824359810",
+    "duration": "02:52",
+    "artists": [
+      {
+        "name": "Dion Timmer",
+        "link": "https://music.163.com/artist?id=11998053"
+      },
+      { "name": "Lucii", "link": "https://music.163.com/artist?id=30568642" }
+    ],
+    "album": {
+      "name": "All My Thoughts",
+      "link": "https://music.163.com/album?id=123776956"
+    }
+  },
+  {
+    "name": "Let Go (feat. Fiora) (Festival Mix)",
+    "link": "https://music.163.com/song?id=1372505547",
+    "duration": "04:37",
+    "artists": [
+      {
+        "name": "Seven Lions",
+        "link": "https://music.163.com/artist?id=44204"
+      },
+      { "name": "Fiora", "link": "https://music.163.com/artist?id=57924" }
+    ],
+    "album": {
+      "name": "Let Go (feat. Fiora) (Festival Mix)",
+      "link": "https://music.163.com/album?id=79848903"
+    }
+  },
+  {
+    "name": "Lie Like This",
+    "link": "https://music.163.com/song?id=1483914376",
+    "duration": "03:38",
+    "artists": [
+      {
+        "name": "Julia Michaels",
+        "link": "https://music.163.com/artist?id=12097049"
+      }
+    ],
+    "album": {
+      "name": "Lie Like This",
+      "link": "https://music.163.com/album?id=96253270"
+    }
+  },
+  {
+    "name": "深蓝",
+    "link": "https://music.163.com/song?id=1387939336",
+    "duration": "03:13",
+    "artists": [
+      {
+        "name": "白昼星BZX",
+        "link": "https://music.163.com/artist?id=1185031"
+      },
+      { "name": "王舒", "link": "https://music.163.com/artist?id=29230472" }
+    ],
+    "album": {
+      "name": "深蓝",
+      "link": "https://music.163.com/album?id=81258044"
+    }
+  },
+  {
+    "name": "Take Me",
+    "link": "https://music.163.com/song?id=493551130",
+    "duration": "04:00",
+    "artists": [
+      {
+        "name": "Will Sparks",
+        "link": "https://music.163.com/artist?id=725093"
+      },
+      {
+        "name": "Gloria Kim",
+        "link": "https://music.163.com/artist?id=1163012"
+      }
+    ],
+    "album": {
+      "name": "Take Me",
+      "link": "https://music.163.com/album?id=35848071"
+    }
+  }
+]
