@@ -1,0 +1,469 @@
+[
+  {
+    "name": "Need You",
+    "link": "https://music.163.com/song?id=1436967572",
+    "duration": "03:27",
+    "artists": [
+      { "name": "Fablers", "link": "https://music.163.com/artist?id=34751307" },
+      {
+        "name": "Revealed Recordings",
+        "link": "https://music.163.com/artist?id=28753573"
+      },
+      {
+        "name": "Sam Knight",
+        "link": "https://music.163.com/artist?id=30292124"
+      }
+    ],
+    "album": {
+      "name": "Need You",
+      "link": "https://music.163.com/album?id=87507103"
+    }
+  },
+  {
+    "name": "Corvette (Vion Konger Remix)",
+    "link": "https://music.163.com/song?id=1343244220",
+    "duration": "02:52",
+    "artists": [
+      { "name": "LIZOT", "link": "https://music.163.com/artist?id=1137483" }
+    ],
+    "album": {
+      "name": "Corvette (Vion Konger Remix)",
+      "link": "https://music.163.com/album?id=75388544"
+    }
+  },
+  {
+    "name": "What if She Knows",
+    "link": "https://music.163.com/song?id=554375621",
+    "duration": "02:48",
+    "artists": [
+      { "name": "Severo", "link": "https://music.163.com/artist?id=1115077" },
+      { "name": "Linn", "link": "https://music.163.com/artist?id=215537" },
+      { "name": "Ellusive", "link": "https://music.163.com/artist?id=792170" }
+    ],
+    "album": {
+      "name": "What if She Knows",
+      "link": "https://music.163.com/album?id=38435988"
+    }
+  },
+  {
+    "name": "平行线 - (Wish You Were Here)",
+    "link": "https://music.163.com/song?id=1864898927",
+    "duration": "02:45",
+    "artists": [
+      { "name": "Vicetone", "link": "https://music.163.com/artist?id=747030" },
+      {
+        "name": "WILLIM缪维霖",
+        "link": "https://music.163.com/artist?id=12433042"
+      },
+      { "name": "黄霄雲", "link": "https://music.163.com/artist?id=14077324" }
+    ],
+    "album": {
+      "name": "平行线",
+      "link": "https://music.163.com/album?id=131031551"
+    }
+  },
+  {
+    "name": "Reverie",
+    "link": "https://music.163.com/song?id=403710535",
+    "duration": "04:59",
+    "artists": [
+      { "name": "ILLENIUM", "link": "https://music.163.com/artist?id=1050518" },
+      {
+        "name": "Dana Salah",
+        "link": "https://music.163.com/artist?id=29433868"
+      }
+    ],
+    "album": {
+      "name": "Ashes",
+      "link": "https://music.163.com/album?id=34497141"
+    }
+  },
+  {
+    "name": "Counting Stars",
+    "link": "https://music.163.com/song?id=26060065",
+    "duration": "04:17",
+    "artists": [
+      { "name": "OneRepublic", "link": "https://music.163.com/artist?id=98105" }
+    ],
+    "album": {
+      "name": "Native (Deluxe Version)",
+      "link": "https://music.163.com/album?id=2302008"
+    }
+  },
+  {
+    "name": "Here Alone",
+    "link": "https://music.163.com/song?id=1461268053",
+    "duration": "02:54",
+    "artists": [
+      {
+        "name": "VARGENTA",
+        "link": "https://music.163.com/artist?id=12108656"
+      },
+      { "name": "Azaro", "link": "https://music.163.com/artist?id=34155135" },
+      {
+        "name": "Revealed Recordings",
+        "link": "https://music.163.com/artist?id=28753573"
+      }
+    ],
+    "album": {
+      "name": "Here Alone",
+      "link": "https://music.163.com/album?id=92106906"
+    }
+  },
+  {
+    "name": "Crumble",
+    "link": "https://music.163.com/song?id=1352962927",
+    "duration": "03:09",
+    "artists": [
+      {
+        "name": "Fairlane",
+        "link": "https://music.163.com/artist?id=12665028"
+      },
+      { "name": "Trove", "link": "https://music.163.com/artist?id=12390270" }
+    ],
+    "album": {
+      "name": "Crumble",
+      "link": "https://music.163.com/album?id=75905030"
+    }
+  },
+  {
+    "name": "Kids Who Ran Away",
+    "link": "https://music.163.com/song?id=1810241759",
+    "duration": "03:01",
+    "artists": [
+      {
+        "name": "PRETTY YOUNG",
+        "link": "https://music.163.com/artist?id=32904176"
+      },
+      { "name": "Ofelia", "link": "https://music.163.com/artist?id=391727" }
+    ],
+    "album": {
+      "name": "Kids Who Ran Away",
+      "link": "https://music.163.com/album?id=121332610"
+    }
+  },
+  {
+    "name": "Be Real",
+    "link": "https://music.163.com/song?id=553483887",
+    "duration": "03:46",
+    "artists": [
+      {
+        "name": "Rasmus Faber",
+        "link": "https://music.163.com/artist?id=42480"
+      },
+      { "name": "Metaxas", "link": "https://music.163.com/artist?id=29189260" }
+    ],
+    "album": {
+      "name": "Be Real",
+      "link": "https://music.163.com/album?id=38377373"
+    }
+  },
+  {
+    "name": "Miss It (feat. RUNN)",
+    "link": "https://music.163.com/song?id=1381082570",
+    "duration": "03:18",
+    "artists": [
+      {
+        "name": "William Black",
+        "link": "https://music.163.com/artist?id=248957"
+      },
+      { "name": "RUNN", "link": "https://music.163.com/artist?id=15237536" }
+    ],
+    "album": {
+      "name": "Pages",
+      "link": "https://music.163.com/album?id=80685180"
+    }
+  },
+  {
+    "name": "American Spirit (Nurko Remix)",
+    "link": "https://music.163.com/song?id=1446485384",
+    "duration": "04:05",
+    "artists": [
+      { "name": "Meg & Dia", "link": "https://music.163.com/artist?id=66393" }
+    ],
+    "album": {
+      "name": "happysad Remixes",
+      "link": "https://music.163.com/album?id=89145471"
+    }
+  },
+  {
+    "name": "Frisbee",
+    "link": "https://music.163.com/song?id=418602744",
+    "duration": "03:11",
+    "artists": [
+      { "name": "Ahxello", "link": "https://music.163.com/artist?id=1046348" }
+    ],
+    "album": {
+      "name": "Frisbee",
+      "link": "https://music.163.com/album?id=34749256"
+    }
+  },
+  {
+    "name": "Afterglow",
+    "link": "https://music.163.com/song?id=1819522398",
+    "duration": "03:15",
+    "artists": [
+      {
+        "name": "The Darkmaker",
+        "link": "https://music.163.com/artist?id=31492299"
+      }
+    ],
+    "album": {
+      "name": "Afterglow",
+      "link": "https://music.163.com/album?id=122819667"
+    }
+  },
+  {
+    "name": "Free",
+    "link": "https://music.163.com/song?id=419250985",
+    "duration": "04:13",
+    "artists": [
+      { "name": "Kidswaste", "link": "https://music.163.com/artist?id=1116302" }
+    ],
+    "album": {
+      "name": "Free",
+      "link": "https://music.163.com/album?id=34754252"
+    }
+  },
+  {
+    "name": "End Of Time",
+    "link": "https://music.163.com/song?id=1455997767",
+    "duration": "03:23",
+    "artists": [
+      { "name": "Spagbo", "link": "https://music.163.com/artist?id=30245155" }
+    ],
+    "album": {
+      "name": "End Of Time",
+      "link": "https://music.163.com/album?id=91054610"
+    }
+  },
+  {
+    "name": "I'll Be Waiting For You",
+    "link": "https://music.163.com/song?id=1812002460",
+    "duration": "03:57",
+    "artists": [
+      {
+        "name": "Michael Morikito",
+        "link": "https://music.163.com/artist?id=46546436"
+      },
+      {
+        "name": "Kat Nestel",
+        "link": "https://music.163.com/artist?id=1066090"
+      }
+    ],
+    "album": {
+      "name": "I'll Be Waiting For You",
+      "link": "https://music.163.com/album?id=121647145"
+    }
+  },
+  {
+    "name": "Visions",
+    "link": "https://music.163.com/song?id=1378858973",
+    "duration": "04:44",
+    "artists": [
+      { "name": "Resonance", "link": "https://music.163.com/artist?id=196588" }
+    ],
+    "album": {
+      "name": "Visions",
+      "link": "https://music.163.com/album?id=80494698"
+    }
+  },
+  {
+    "name": "The Force Theme",
+    "link": "https://music.163.com/song?id=524149467",
+    "duration": "03:08",
+    "artists": [
+      { "name": "Far Out", "link": "https://music.163.com/artist?id=824107" }
+    ],
+    "album": {
+      "name": "The Force Theme",
+      "link": "https://music.163.com/album?id=36980163"
+    }
+  },
+  {
+    "name": "Hilo",
+    "link": "https://music.163.com/song?id=476323574",
+    "duration": "04:22",
+    "artists": [
+      { "name": "graves", "link": "https://music.163.com/artist?id=58068" },
+      {
+        "name": "Boombox Cartel",
+        "link": "https://music.163.com/artist?id=776627"
+      }
+    ],
+    "album": {
+      "name": "Hilo",
+      "link": "https://music.163.com/album?id=35456161"
+    }
+  },
+  {
+    "name": "They Wait For Us (Radio Edit)",
+    "link": "https://music.163.com/song?id=421148924",
+    "duration": "03:39",
+    "artists": [
+      { "name": "Aurosonic", "link": "https://music.163.com/artist?id=86532" },
+      {
+        "name": "Kate Louise Smith",
+        "link": "https://music.163.com/artist?id=854450"
+      }
+    ],
+    "album": {
+      "name": "Best of Vocal Trance 2016, Vol. 2",
+      "link": "https://music.163.com/album?id=34780265"
+    }
+  },
+  {
+    "name": "City Lights",
+    "link": "https://music.163.com/song?id=1482056858",
+    "duration": "03:07",
+    "artists": [
+      { "name": "Caslow", "link": "https://music.163.com/artist?id=15109745" },
+      { "name": "Exede", "link": "https://music.163.com/artist?id=13059879" }
+    ],
+    "album": {
+      "name": "City Lights",
+      "link": "https://music.163.com/album?id=95922800"
+    }
+  },
+  {
+    "name": "Hurt",
+    "link": "https://music.163.com/song?id=533471351",
+    "duration": "03:31",
+    "artists": [
+      {
+        "name": "Jeremy Vancaulart",
+        "link": "https://music.163.com/artist?id=818439"
+      },
+      {
+        "name": "Danyka Nadeau",
+        "link": "https://music.163.com/artist?id=1078277"
+      }
+    ],
+    "album": {
+      "name": "Hurt",
+      "link": "https://music.163.com/album?id=37422506"
+    }
+  },
+  {
+    "name": "Take Everything (Extended Mix)",
+    "link": "https://music.163.com/song?id=1338635142",
+    "duration": "04:28",
+    "artists": [
+      {
+        "name": "Gareth Emery",
+        "link": "https://music.163.com/artist?id=34318"
+      },
+      { "name": "Emma Hewitt", "link": "https://music.163.com/artist?id=56751" }
+    ],
+    "album": {
+      "name": "Take Everything",
+      "link": "https://music.163.com/album?id=74869418"
+    }
+  },
+  {
+    "name": "L'amour toujours",
+    "link": "https://music.163.com/song?id=1358215248",
+    "duration": "03:41",
+    "artists": [
+      { "name": "Mayra", "link": "https://music.163.com/artist?id=356389" },
+      {
+        "name": "Bruno Martini",
+        "link": "https://music.163.com/artist?id=12355546"
+      },
+      {
+        "name": "Di Fabianno",
+        "link": "https://music.163.com/artist?id=31932264"
+      }
+    ],
+    "album": {
+      "name": "L'amour toujours",
+      "link": "https://music.163.com/album?id=78480580"
+    }
+  },
+  {
+    "name": "Particle Arts",
+    "link": "https://music.163.com/song?id=523251142",
+    "duration": "03:54",
+    "artists": [
+      {
+        "name": "Virtual Self",
+        "link": "https://music.163.com/artist?id=12773843"
+      }
+    ],
+    "album": {
+      "name": "Virtual Self",
+      "link": "https://music.163.com/album?id=36633233"
+    }
+  },
+  {
+    "name": "Thin Air",
+    "link": "https://music.163.com/song?id=438462567",
+    "duration": "05:23",
+    "artists": [
+      { "name": "Equador", "link": "https://music.163.com/artist?id=12155415" }
+    ],
+    "album": {
+      "name": "Bones of Man",
+      "link": "https://music.163.com/album?id=34923339"
+    }
+  },
+  {
+    "name": "Gift",
+    "link": "https://music.163.com/song?id=469556256",
+    "duration": "02:48",
+    "artists": [
+      {
+        "name": "Rhythm Starry",
+        "link": "https://music.163.com/artist?id=12093453"
+      }
+    ],
+    "album": {
+      "name": "Gift",
+      "link": "https://music.163.com/album?id=35331386"
+    }
+  },
+  {
+    "name": "Wait",
+    "link": "https://music.163.com/song?id=1428684698",
+    "duration": "04:44",
+    "artists": [
+      { "name": "MitiS", "link": "https://music.163.com/artist?id=40245" },
+      {
+        "name": "Crystal Skies",
+        "link": "https://music.163.com/artist?id=1063127"
+      },
+      {
+        "name": "Monika Santucci",
+        "link": "https://music.163.com/artist?id=13989763"
+      }
+    ],
+    "album": {
+      "name": "Wait",
+      "link": "https://music.163.com/album?id=86279740"
+    }
+  },
+  {
+    "name": "Story's Start Or End",
+    "link": "https://music.163.com/song?id=1383022427",
+    "duration": "04:28",
+    "artists": [
+      { "name": "SAFIA", "link": "https://music.163.com/artist?id=986155" }
+    ],
+    "album": {
+      "name": "Story's Start or End",
+      "link": "https://music.163.com/album?id=80850569"
+    }
+  },
+  {
+    "name": "ReLife",
+    "link": "https://music.163.com/song?id=1434431984",
+    "duration": "03:16",
+    "artists": [
+      { "name": "R7CKY", "link": "https://music.163.com/artist?id=1044054" }
+    ],
+    "album": {
+      "name": "ReLife",
+      "link": "https://music.163.com/album?id=86819811"
+    }
+  }
+]
