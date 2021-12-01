@@ -1,0 +1,501 @@
+[
+  {
+    "name": "Nu",
+    "link": "https://music.163.com/song?id=33211565",
+    "duration": "04:04",
+    "artists": [
+      { "name": "DJ Project", "link": "https://music.163.com/artist?id=91079" }
+    ],
+    "album": {
+      "name": "Best Of",
+      "link": "https://music.163.com/album?id=3190170"
+    }
+  },
+  {
+    "name": "Drown (Nicky Romero Remix)",
+    "link": "https://music.163.com/song?id=1434470644",
+    "duration": "03:07",
+    "artists": [
+      {
+        "name": "Martin Garrix",
+        "link": "https://music.163.com/artist?id=780003"
+      },
+      {
+        "name": "Clinton Kane",
+        "link": "https://music.163.com/artist?id=32796183"
+      },
+      {
+        "name": "Nicky Romero",
+        "link": "https://music.163.com/artist?id=195142"
+      }
+    ],
+    "album": {
+      "name": "Drown (Nicky Romero Remix)",
+      "link": "https://music.163.com/album?id=86886536"
+    }
+  },
+  {
+    "name": "Sleep, For The Weak! (Lost Frequencies Remix)",
+    "link": "https://music.163.com/song?id=399341408",
+    "duration": "03:20",
+    "artists": [
+      { "name": "Lea Rue", "link": "https://music.163.com/artist?id=1124213" },
+      {
+        "name": "Lost Frequencies",
+        "link": "https://music.163.com/artist?id=1039114"
+      }
+    ],
+    "album": {
+      "name": "Sleep/For The Weak (Lost Frequencies Remix)",
+      "link": "https://music.163.com/album?id=34400113"
+    }
+  },
+  {
+    "name": "Runaway",
+    "link": "https://music.163.com/song?id=1486435682",
+    "duration": "02:45",
+    "artists": [
+      {
+        "name": "Sick Individuals",
+        "link": "https://music.163.com/artist?id=379612"
+      },
+      { "name": "Vigel", "link": "https://music.163.com/artist?id=334251" },
+      {
+        "name": "Nazzereene",
+        "link": "https://music.163.com/artist?id=32513137"
+      }
+    ],
+    "album": {
+      "name": "Runaway",
+      "link": "https://music.163.com/album?id=96669606"
+    }
+  },
+  {
+    "name": "Wave",
+    "link": "https://music.163.com/song?id=485612359",
+    "duration": "02:46",
+    "artists": [
+      {
+        "name": "N i G H T S",
+        "link": "https://music.163.com/artist?id=12278516"
+      }
+    ],
+    "album": {
+      "name": "Wave",
+      "link": "https://music.163.com/album?id=35644737"
+    }
+  },
+  {
+    "name": "Dreams (Outro)",
+    "link": "https://music.163.com/song?id=546730465",
+    "duration": "02:57",
+    "artists": [
+      { "name": "MitiS", "link": "https://music.163.com/artist?id=40245" }
+    ],
+    "album": {
+      "name": "'Til the End",
+      "link": "https://music.163.com/album?id=37987085"
+    }
+  },
+  {
+    "name": "Gone in the Morning",
+    "link": "https://music.163.com/song?id=1364478109",
+    "duration": "03:21",
+    "artists": [
+      {
+        "name": "Liam Ferrari",
+        "link": "https://music.163.com/artist?id=12812995"
+      }
+    ],
+    "album": {
+      "name": "Gone in the Morning",
+      "link": "https://music.163.com/album?id=79047799"
+    }
+  },
+  {
+    "name": "Constellation",
+    "link": "https://music.163.com/song?id=1429604070",
+    "duration": "02:52",
+    "artists": [
+      { "name": "Far Out", "link": "https://music.163.com/artist?id=824107" },
+      { "name": "Karra", "link": "https://music.163.com/artist?id=1081582" }
+    ],
+    "album": {
+      "name": "Constellation",
+      "link": "https://music.163.com/album?id=86368314"
+    }
+  },
+  {
+    "name": "Breathe",
+    "link": "https://music.163.com/song?id=413812817",
+    "duration": "03:45",
+    "artists": [
+      { "name": "EMBRZ", "link": "https://music.163.com/artist?id=1173001" }
+    ],
+    "album": {
+      "name": "Breathe",
+      "link": "https://music.163.com/album?id=34702622"
+    }
+  },
+  {
+    "name": "Circles",
+    "link": "https://music.163.com/song?id=1447773945",
+    "duration": "03:27",
+    "artists": [
+      { "name": "KASTRA", "link": "https://music.163.com/artist?id=1105094" },
+      {
+        "name": "Alex Byrne",
+        "link": "https://music.163.com/artist?id=12121159"
+      }
+    ],
+    "album": {
+      "name": "Circles",
+      "link": "https://music.163.com/album?id=89388624"
+    }
+  },
+  {
+    "name": "Ok Without You (Kahikko Remix)",
+    "link": "https://music.163.com/song?id=1331058293",
+    "duration": "02:41",
+    "artists": [
+      { "name": "Klaas", "link": "https://music.163.com/artist?id=106210" },
+      { "name": "Kahikko", "link": "https://music.163.com/artist?id=12155254" }
+    ],
+    "album": {
+      "name": "Ok Without You",
+      "link": "https://music.163.com/album?id=74766787"
+    }
+  },
+  {
+    "name": "Feels Like",
+    "link": "https://music.163.com/song?id=1346474112",
+    "duration": "03:11",
+    "artists": [
+      { "name": "Vicetone", "link": "https://music.163.com/artist?id=747030" },
+      { "name": "LAUR", "link": "https://music.163.com/artist?id=35757701" }
+    ],
+    "album": {
+      "name": "Elements",
+      "link": "https://music.163.com/album?id=75589857"
+    }
+  },
+  {
+    "name": "Save My Mind",
+    "link": "https://music.163.com/song?id=1419697707",
+    "duration": "03:38",
+    "artists": [
+      { "name": "BUNT.", "link": "https://music.163.com/artist?id=744145" },
+      {
+        "name": "Benemy Slope",
+        "link": "https://music.163.com/artist?id=34262576"
+      }
+    ],
+    "album": {
+      "name": "Save My Mind",
+      "link": "https://music.163.com/album?id=85334425"
+    }
+  },
+  {
+    "name": "Logical",
+    "link": "https://music.163.com/song?id=1378997726",
+    "duration": "02:33",
+    "artists": [
+      {
+        "name": "The Darkmaker",
+        "link": "https://music.163.com/artist?id=31492299"
+      },
+      { "name": "Jwillyn", "link": "https://music.163.com/artist?id=31002749" }
+    ],
+    "album": {
+      "name": "The Fairy",
+      "link": "https://music.163.com/album?id=80471989"
+    }
+  },
+  {
+    "name": "Waves (Robin Schulz Radio Edit)",
+    "link": "https://music.163.com/song?id=28280946",
+    "duration": "03:28",
+    "artists": [
+      { "name": "Mr. Probz", "link": "https://music.163.com/artist?id=278247" }
+    ],
+    "album": {
+      "name": "Waves (Robin Schulz Radio Edit)",
+      "link": "https://music.163.com/album?id=2768522"
+    }
+  },
+  {
+    "name": "We Go Up",
+    "link": "https://music.163.com/song?id=517891053",
+    "duration": "02:57",
+    "artists": [
+      { "name": "LNY TNZ", "link": "https://music.163.com/artist?id=1039647" }
+    ],
+    "album": {
+      "name": "We Go Up",
+      "link": "https://music.163.com/album?id=36767020"
+    }
+  },
+  {
+    "name": "Next To Me",
+    "link": "https://music.163.com/song?id=1408639572",
+    "duration": "02:53",
+    "artists": [
+      {
+        "name": "jeonghyeon",
+        "link": "https://music.163.com/artist?id=28748581"
+      },
+      {
+        "name": "yourbeagle",
+        "link": "https://music.163.com/artist?id=28264962"
+      }
+    ],
+    "album": {
+      "name": "Next To Me",
+      "link": "https://music.163.com/album?id=83991959"
+    }
+  },
+  {
+    "name": "炙 Hearts On Fire (CORSAK & Willim Remix)",
+    "link": "https://music.163.com/song?id=1817977078",
+    "duration": "03:33",
+    "artists": [
+      { "name": "ILLENIUM", "link": "https://music.163.com/artist?id=1050518" },
+      {
+        "name": "CORSAK胡梦周",
+        "link": "https://music.163.com/artist?id=28083351"
+      },
+      { "name": "Dabin", "link": "https://music.163.com/artist?id=783446" },
+      { "name": "Lights", "link": "https://music.163.com/artist?id=64226" }
+    ],
+    "album": {
+      "name": "炙 Hearts On Fire (CORSAK & Willim Remix)",
+      "link": "https://music.163.com/album?id=122619949"
+    }
+  },
+  {
+    "name": "Fight",
+    "link": "https://music.163.com/song?id=1293913379",
+    "duration": "03:04",
+    "artists": [
+      {
+        "name": "BeatBrothers",
+        "link": "https://music.163.com/artist?id=28053402"
+      }
+    ],
+    "album": {
+      "name": "Fight",
+      "link": "https://music.163.com/album?id=71851269"
+    }
+  },
+  {
+    "name": "年少的忧愁 - (Youth Worries)",
+    "link": "https://music.163.com/song?id=524003510",
+    "duration": "03:31",
+    "artists": [
+      { "name": "原子邦妮", "link": "https://music.163.com/artist?id=1193482" },
+      {
+        "name": "晨悠 melFlow",
+        "link": "https://music.163.com/artist?id=1030008"
+      }
+    ],
+    "album": {
+      "name": "谢谢你曾经让我悲伤",
+      "link": "https://music.163.com/album?id=36875928"
+    }
+  },
+  {
+    "name": "The Network",
+    "link": "https://music.163.com/song?id=1374602770",
+    "duration": "03:12",
+    "artists": [
+      {
+        "name": "FUTURECODE",
+        "link": "https://music.163.com/artist?id=31577450"
+      }
+    ],
+    "album": {
+      "name": "The Network",
+      "link": "https://music.163.com/album?id=80064840"
+    }
+  },
+  {
+    "name": "Starset",
+    "link": "https://music.163.com/song?id=455502171",
+    "duration": "03:07",
+    "artists": [
+      {
+        "name": "Cody Sorenson",
+        "link": "https://music.163.com/artist?id=12273358"
+      },
+      { "name": "Kadenza", "link": "https://music.163.com/artist?id=12068052" }
+    ],
+    "album": {
+      "name": "Starset",
+      "link": "https://music.163.com/album?id=35139474"
+    }
+  },
+  {
+    "name": "U Make Me (Natan Chaim & Asketa Remix)",
+    "link": "https://music.163.com/song?id=572763271",
+    "duration": "02:36",
+    "artists": [
+      {
+        "name": "Disco Fries",
+        "link": "https://music.163.com/artist?id=330684"
+      },
+      {
+        "name": "Raquel Castro",
+        "link": "https://music.163.com/artist?id=896205"
+      },
+      {
+        "name": "Asketa & Natan Chaim",
+        "link": "https://music.163.com/artist?id=32523005"
+      }
+    ],
+    "album": {
+      "name": "U Make Me (Remixes)",
+      "link": "https://music.163.com/album?id=39662979"
+    }
+  },
+  {
+    "name": "One",
+    "link": "https://music.163.com/song?id=413961696",
+    "duration": "03:16",
+    "artists": [
+      {
+        "name": "Amy Deasismont",
+        "link": "https://music.163.com/artist?id=12049097"
+      }
+    ],
+    "album": {
+      "name": "One",
+      "link": "https://music.163.com/album?id=34700512"
+    }
+  },
+  {
+    "name": "Level Up",
+    "link": "https://music.163.com/song?id=1441907551",
+    "duration": "03:50",
+    "artists": [
+      { "name": "JWoods", "link": "https://music.163.com/artist?id=30959670" }
+    ],
+    "album": {
+      "name": "Level Up",
+      "link": "https://music.163.com/album?id=88204554"
+    }
+  },
+  {
+    "name": "Hungry Heart",
+    "link": "https://music.163.com/song?id=469137291",
+    "duration": "03:12",
+    "artists": [
+      {
+        "name": "Loïc Nottet",
+        "link": "https://music.163.com/artist?id=1057277"
+      }
+    ],
+    "album": {
+      "name": "Selfocracy",
+      "link": "https://music.163.com/album?id=35274214"
+    }
+  },
+  {
+    "name": "For You(Bryan Milton Remix)",
+    "link": "https://music.163.com/song?id=520460159",
+    "duration": "04:15",
+    "artists": [
+      {
+        "name": "Bryan Milton",
+        "link": "https://music.163.com/artist?id=1058218"
+      },
+      {
+        "name": "Roman Messer",
+        "link": "https://music.163.com/artist?id=905394"
+      },
+      {
+        "name": "Clare Stagg",
+        "link": "https://music.163.com/artist?id=665057"
+      }
+    ],
+    "album": {
+      "name": "For You(Bryan Milton Remix)",
+      "link": "https://music.163.com/album?id=36856044"
+    }
+  },
+  {
+    "name": "Ich schenk' Dir einen Jodler",
+    "link": "https://music.163.com/song?id=1863546190",
+    "duration": "02:50",
+    "artists": [
+      {
+        "name": "Da Tweekaz",
+        "link": "https://music.163.com/artist?id=334026"
+      },
+      {
+        "name": "Oesch’s die Dritten",
+        "link": "https://music.163.com/artist?id=1192519"
+      }
+    ],
+    "album": {
+      "name": "Ich schenk' Dir einen Jodler",
+      "link": "https://music.163.com/album?id=130806812"
+    }
+  },
+  {
+    "name": "Gates Of Paradise",
+    "link": "https://music.163.com/song?id=1862506427",
+    "duration": "04:41",
+    "artists": [
+      {
+        "name": "D-Block & S-te-Fan",
+        "link": "https://music.163.com/artist?id=13594504"
+      }
+    ],
+    "album": {
+      "name": "Gates Of Paradise",
+      "link": "https://music.163.com/album?id=130597215"
+    }
+  },
+  {
+    "name": "Me and Michael",
+    "link": "https://music.163.com/song?id=536243092",
+    "duration": "04:49",
+    "artists": [
+      { "name": "MGMT", "link": "https://music.163.com/artist?id=38861" }
+    ],
+    "album": {
+      "name": "Me and Michael",
+      "link": "https://music.163.com/album?id=37561015"
+    }
+  },
+  {
+    "name": "Midnight Thoughts (Tilø x VERA Remix)",
+    "link": "https://music.163.com/song?id=445665247",
+    "duration": "02:33",
+    "artists": [
+      { "name": "Tilø", "link": "https://music.163.com/artist?id=12061181" },
+      {
+        "name": "Andy Gribben",
+        "link": "https://music.163.com/artist?id=12136030"
+      },
+      { "name": "Vera", "link": "https://music.163.com/artist?id=83996" },
+      { "name": "steven", "link": "https://music.163.com/artist?id=12272943" }
+    ],
+    "album": {
+      "name": "Midnight Thoughts (Tilø x VERA Remix)",
+      "link": "https://music.163.com/album?id=35040070"
+    }
+  },
+  {
+    "name": "Battle Symphony",
+    "link": "https://music.163.com/song?id=460043748",
+    "duration": "03:36",
+    "artists": [
+      { "name": "Linkin Park", "link": "https://music.163.com/artist?id=95439" }
+    ],
+    "album": {
+      "name": "One More Light",
+      "link": "https://music.163.com/album?id=35150852"
+    }
+  }
+]
