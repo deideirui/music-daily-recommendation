@@ -1,0 +1,537 @@
+[
+  {
+    "name": "Wrong",
+    "link": "https://music.163.com/song?id=1442875789",
+    "duration": "03:10",
+    "artists": [
+      {
+        "name": "Ryan Riback",
+        "link": "https://music.163.com/artist?id=312151"
+      },
+      {
+        "name": "Olivia Noelle",
+        "link": "https://music.163.com/artist?id=12008106"
+      }
+    ],
+    "album": {
+      "name": "Wrong",
+      "link": "https://music.163.com/album?id=88432181"
+    }
+  },
+  {
+    "name": "Clearest Blue (Gryffin Remix)",
+    "link": "https://music.163.com/song?id=411921067",
+    "duration": "04:19",
+    "artists": [
+      { "name": "Gryffin", "link": "https://music.163.com/artist?id=1181504" },
+      { "name": "CHVRCHES", "link": "https://music.163.com/artist?id=694027" }
+    ],
+    "album": {
+      "name": "Clearest Blue (Gryffin Remix)",
+      "link": "https://music.163.com/album?id=34686379"
+    }
+  },
+  {
+    "name": "Blush",
+    "link": "https://music.163.com/song?id=485347176",
+    "duration": "02:43",
+    "artists": [
+      { "name": "Fusq", "link": "https://music.163.com/artist?id=1180077" },
+      {
+        "name": "Hyper Potions",
+        "link": "https://music.163.com/artist?id=1074092"
+      }
+    ],
+    "album": {
+      "name": "Polarity",
+      "link": "https://music.163.com/album?id=35644387"
+    }
+  },
+  {
+    "name": "High On Life ",
+    "link": "https://music.163.com/song?id=1296550963",
+    "duration": "03:50",
+    "artists": [
+      {
+        "name": "Martin Garrix",
+        "link": "https://music.163.com/artist?id=780003"
+      },
+      { "name": "Bonn", "link": "https://music.163.com/artist?id=31540163" }
+    ],
+    "album": {
+      "name": "High On Life ",
+      "link": "https://music.163.com/album?id=72014882"
+    }
+  },
+  {
+    "name": "Number",
+    "link": "https://music.163.com/song?id=537407969",
+    "duration": "02:59",
+    "artists": [
+      {
+        "name": "Alexander Oscar",
+        "link": "https://music.163.com/artist?id=12312150"
+      }
+    ],
+    "album": {
+      "name": "Number",
+      "link": "https://music.163.com/album?id=37561418"
+    }
+  },
+  {
+    "name": "Fireflies",
+    "link": "https://music.163.com/song?id=401249750",
+    "duration": "05:09",
+    "artists": [
+      { "name": "Enzalla", "link": "https://music.163.com/artist?id=1137013" }
+    ],
+    "album": {
+      "name": "Fireflies",
+      "link": "https://music.163.com/album?id=34443134"
+    }
+  },
+  {
+    "name": "SOS",
+    "link": "https://music.163.com/song?id=1357848241",
+    "duration": "02:37",
+    "artists": [
+      { "name": "Avicii", "link": "https://music.163.com/artist?id=45236" },
+      { "name": "Aloe Blacc", "link": "https://music.163.com/artist?id=47425" }
+    ],
+    "album": {
+      "name": "SOS",
+      "link": "https://music.163.com/album?id=78427520"
+    }
+  },
+  {
+    "name": "Stay Young",
+    "link": "https://music.163.com/song?id=503020019",
+    "duration": "02:37",
+    "artists": [
+      {
+        "name": "Mike Perry",
+        "link": "https://music.163.com/artist?id=195021"
+      },
+      { "name": "Tessa", "link": "https://music.163.com/artist?id=410467" }
+    ],
+    "album": {
+      "name": "Stay Young",
+      "link": "https://music.163.com/album?id=36098015"
+    }
+  },
+  {
+    "name": "Renegade",
+    "link": "https://music.163.com/song?id=1380121010",
+    "duration": "03:48",
+    "artists": [
+      {
+        "name": "3rd Prototype",
+        "link": "https://music.163.com/artist?id=743388"
+      },
+      {
+        "name": "Harley Bird",
+        "link": "https://music.163.com/artist?id=12355691"
+      },
+      {
+        "name": "Valentina Franco",
+        "link": "https://music.163.com/artist?id=14005689"
+      }
+    ],
+    "album": {
+      "name": "Renegade",
+      "link": "https://music.163.com/album?id=80608442"
+    }
+  },
+  {
+    "name": "Soaring (Original Mix)",
+    "link": "https://music.163.com/song?id=33340727",
+    "duration": "03:34",
+    "artists": [
+      { "name": "TomLeevis", "link": "https://music.163.com/artist?id=1050683" }
+    ],
+    "album": {
+      "name": "Soaring",
+      "link": "https://music.163.com/album?id=3200112"
+    }
+  },
+  {
+    "name": "I Leave Again",
+    "link": "https://music.163.com/song?id=1449185043",
+    "duration": "03:58",
+    "artists": [
+      {
+        "name": "Petit Biscuit",
+        "link": "https://music.163.com/artist?id=1060063"
+      },
+      { "name": "Shallou", "link": "https://music.163.com/artist?id=12029377" }
+    ],
+    "album": {
+      "name": "I Leave Again",
+      "link": "https://music.163.com/album?id=92897131"
+    }
+  },
+  {
+    "name": "Stay The Night",
+    "link": "https://music.163.com/song?id=1376075781",
+    "duration": "02:46",
+    "artists": [
+      {
+        "name": "Just Kiddin",
+        "link": "https://music.163.com/artist?id=688618"
+      },
+      {
+        "name": "Camden Cox",
+        "link": "https://music.163.com/artist?id=13226292"
+      }
+    ],
+    "album": {
+      "name": "Stay The Night",
+      "link": "https://music.163.com/album?id=80233055"
+    }
+  },
+  {
+    "name": "You Used To",
+    "link": "https://music.163.com/song?id=1405206289",
+    "duration": "03:21",
+    "artists": [
+      { "name": "Duumu", "link": "https://music.163.com/artist?id=12007367" },
+      {
+        "name": "I See Colors",
+        "link": "https://music.163.com/artist?id=33423122"
+      },
+      { "name": "Luma", "link": "https://music.163.com/artist?id=211460" }
+    ],
+    "album": {
+      "name": "You Used To",
+      "link": "https://music.163.com/album?id=83583346"
+    }
+  },
+  {
+    "name": "Your Skin",
+    "link": "https://music.163.com/song?id=425295080",
+    "duration": "02:58",
+    "artists": [
+      { "name": "MÖWE", "link": "https://music.163.com/artist?id=976362" },
+      {
+        "name": "Bright Sparks",
+        "link": "https://music.163.com/artist?id=12278034"
+      }
+    ],
+    "album": {
+      "name": "Your Skin",
+      "link": "https://music.163.com/album?id=34816339"
+    }
+  },
+  {
+    "name": "The Spectre",
+    "link": "https://music.163.com/song?id=506092035",
+    "duration": "03:13",
+    "artists": [
+      {
+        "name": "Alan Walker",
+        "link": "https://music.163.com/artist?id=1045123"
+      }
+    ],
+    "album": {
+      "name": "The Spectre",
+      "link": "https://music.163.com/album?id=36224021"
+    }
+  },
+  {
+    "name": "Numb",
+    "link": "https://music.163.com/song?id=1424954716",
+    "duration": "02:29",
+    "artists": [
+      {
+        "name": "Merk & Kremont",
+        "link": "https://music.163.com/artist?id=844467"
+      },
+      { "name": "SVEA", "link": "https://music.163.com/artist?id=14231266" },
+      { "name": "Ernia", "link": "https://music.163.com/artist?id=12458027" }
+    ],
+    "album": {
+      "name": "Numb",
+      "link": "https://music.163.com/album?id=85897546"
+    }
+  },
+  {
+    "name": "Akiba",
+    "link": "https://music.163.com/song?id=447280094",
+    "duration": "02:33",
+    "artists": [
+      { "name": "Synthion", "link": "https://music.163.com/artist?id=12229021" }
+    ],
+    "album": {
+      "name": "Akiba",
+      "link": "https://music.163.com/album?id=35064050"
+    }
+  },
+  {
+    "name": "One Sided (feat. Mark Klaver)",
+    "link": "https://music.163.com/song?id=1822748691",
+    "duration": "03:53",
+    "artists": [
+      { "name": "ARMNHMR", "link": "https://music.163.com/artist?id=1132078" },
+      { "name": "Miles Away", "link": "https://music.163.com/artist?id=96821" },
+      {
+        "name": "Mark Klaver",
+        "link": "https://music.163.com/artist?id=33363093"
+      }
+    ],
+    "album": {
+      "name": "One Sided (feat. Mark Klaver)",
+      "link": "https://music.163.com/album?id=123491180"
+    }
+  },
+  {
+    "name": "L'amour Toujours (Original Radio Version)",
+    "link": "https://music.163.com/song?id=1803440226",
+    "duration": "03:22",
+    "artists": [
+      {
+        "name": "Gigi D'Amour",
+        "link": "https://music.163.com/artist?id=46282435"
+      }
+    ],
+    "album": {
+      "name": "L'amour Toujours (Original Radio Version & Extended Version)",
+      "link": "https://music.163.com/album?id=120293073"
+    }
+  },
+  {
+    "name": "Ultraviolet",
+    "link": "https://music.163.com/song?id=563523404",
+    "duration": "03:34",
+    "artists": [
+      {
+        "name": "Freya Ridings",
+        "link": "https://music.163.com/artist?id=12408238"
+      }
+    ],
+    "album": {
+      "name": "Ultraviolet",
+      "link": "https://music.163.com/album?id=39052531"
+    }
+  },
+  {
+    "name": "All To You (feat. Micah Martin)",
+    "link": "https://music.163.com/song?id=1847868527",
+    "duration": "03:09",
+    "artists": [
+      {
+        "name": "Crystal Skies",
+        "link": "https://music.163.com/artist?id=1063127"
+      },
+      {
+        "name": "Fairlane",
+        "link": "https://music.163.com/artist?id=12665028"
+      },
+      {
+        "name": "Micah Martin",
+        "link": "https://music.163.com/artist?id=13723243"
+      }
+    ],
+    "album": {
+      "name": "All To You (feat. Micah Martin)",
+      "link": "https://music.163.com/album?id=127942106"
+    }
+  },
+  {
+    "name": "纪念",
+    "link": "https://music.163.com/song?id=1864789443",
+    "duration": "03:24",
+    "artists": [
+      { "name": "逗仔", "link": "https://music.163.com/artist?id=31001495" }
+    ],
+    "album": {
+      "name": "高考应援曲 高考加油",
+      "link": "https://music.163.com/album?id=91786897"
+    }
+  },
+  {
+    "name": "In Your Eyes",
+    "link": "https://music.163.com/song?id=34084062",
+    "duration": "04:48",
+    "artists": [
+      {
+        "name": "Paris Blohm",
+        "link": "https://music.163.com/artist?id=851710"
+      }
+    ],
+    "album": {
+      "name": "In Your Eyes",
+      "link": "https://music.163.com/album?id=3271125"
+    }
+  },
+  {
+    "name": "Contagious",
+    "link": "https://music.163.com/song?id=1383073669",
+    "duration": "03:36",
+    "artists": [
+      { "name": "Grant", "link": "https://music.163.com/artist?id=813362" },
+      { "name": "RUNN", "link": "https://music.163.com/artist?id=15237536" }
+    ],
+    "album": {
+      "name": "Wishes",
+      "link": "https://music.163.com/album?id=80856434"
+    }
+  },
+  {
+    "name": "Sphinx (Original Mix)",
+    "link": "https://music.163.com/song?id=417833382",
+    "duration": "06:34",
+    "artists": [
+      {
+        "name": "Matt Bukovski",
+        "link": "https://music.163.com/artist?id=711657"
+      },
+      {
+        "name": "Andy Elliass",
+        "link": "https://music.163.com/artist?id=447682"
+      }
+    ],
+    "album": {
+      "name": "Sphinx",
+      "link": "https://music.163.com/album?id=34739628"
+    }
+  },
+  {
+    "name": "Salvation",
+    "link": "https://music.163.com/song?id=1851663243",
+    "duration": "04:09",
+    "artists": [
+      { "name": "Excision", "link": "https://music.163.com/artist?id=33221" },
+      {
+        "name": "Dion Timmer",
+        "link": "https://music.163.com/artist?id=11998053"
+      },
+      {
+        "name": "Alexis Donn",
+        "link": "https://music.163.com/artist?id=31397612"
+      }
+    ],
+    "album": {
+      "name": "Salvation",
+      "link": "https://music.163.com/album?id=128670430"
+    }
+  },
+  {
+    "name": "Every Day",
+    "link": "https://music.163.com/song?id=1803861473",
+    "duration": "03:19",
+    "artists": [
+      {
+        "name": "The Darkmaker",
+        "link": "https://music.163.com/artist?id=31492299"
+      },
+      { "name": "赵曼伊mï", "link": "https://music.163.com/artist?id=31760557" }
+    ],
+    "album": {
+      "name": "Every Day",
+      "link": "https://music.163.com/album?id=120270737"
+    }
+  },
+  {
+    "name": "Out of Time",
+    "link": "https://music.163.com/song?id=1830343121",
+    "duration": "03:40",
+    "artists": [
+      {
+        "name": "Midnight Kids",
+        "link": "https://music.163.com/artist?id=13192314"
+      },
+      { "name": "Yueku", "link": "https://music.163.com/artist?id=47174466" }
+    ],
+    "album": {
+      "name": "Out of Time",
+      "link": "https://music.163.com/album?id=124673300"
+    }
+  },
+  {
+    "name": "伏笔",
+    "link": "https://music.163.com/song?id=1867001807",
+    "duration": "02:42",
+    "artists": [
+      {
+        "name": "Dio Deer",
+        "link": "https://music.163.com/artist?id=12319430"
+      },
+      {
+        "name": "张天奕ZTYick",
+        "link": "https://music.163.com/artist?id=12304366"
+      }
+    ],
+    "album": {
+      "name": "伏笔",
+      "link": "https://music.163.com/album?id=131367640"
+    }
+  },
+  {
+    "name": "不再 (feat. 陈宥如)",
+    "link": "https://music.163.com/song?id=1482614803",
+    "duration": "03:33",
+    "artists": [
+      { "name": "IZZI", "link": "https://music.163.com/artist?id=31762704" },
+      { "name": "MiraclE", "link": "https://music.163.com/artist?id=12953150" },
+      { "name": "陈宥如", "link": "https://music.163.com/artist?id=31677073" }
+    ],
+    "album": {
+      "name": "RE: CONNECT",
+      "link": "https://music.163.com/album?id=96023669"
+    }
+  },
+  {
+    "name": "Branded",
+    "link": "https://music.163.com/song?id=32405474",
+    "duration": "05:16",
+    "artists": [
+      { "name": "ROOX", "link": "https://music.163.com/artist?id=1081354" }
+    ],
+    "album": {
+      "name": "Branded",
+      "link": "https://music.163.com/album?id=3154935"
+    }
+  },
+  {
+    "name": "Defy",
+    "link": "https://music.163.com/song?id=1327809651",
+    "duration": "03:33",
+    "artists": [
+      {
+        "name": "HoneyComeBear",
+        "link": "https://music.163.com/artist?id=12675383"
+      }
+    ],
+    "album": {
+      "name": "Defy",
+      "link": "https://music.163.com/album?id=74544056"
+    }
+  },
+  {
+    "name": "Insight XXIII",
+    "link": "https://music.163.com/song?id=483200154",
+    "duration": "03:10",
+    "artists": [
+      {
+        "name": "Julien Marchal",
+        "link": "https://music.163.com/artist?id=12463346"
+      }
+    ],
+    "album": {
+      "name": "Insight II",
+      "link": "https://music.163.com/album?id=35558753"
+    }
+  },
+  {
+    "name": "Fly Me To The Moon (Inspired By FINAL FANTASY XIV) - (游戏《最终幻想14》原声)",
+    "link": "https://music.163.com/song?id=1899852141",
+    "duration": "02:50",
+    "artists": [
+      { "name": "Sia", "link": "https://music.163.com/artist?id=74625" }
+    ],
+    "album": {
+      "name": "Fly Me To The Moon (Inspired By FINAL FANTASY XIV)",
+      "link": "https://music.163.com/album?id=136906706"
+    }
+  }
+]
