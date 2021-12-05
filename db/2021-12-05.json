@@ -1,0 +1,499 @@
+[
+  {
+    "name": "Skyline",
+    "link": "https://music.163.com/song?id=1441098283",
+    "duration": "02:58",
+    "artists": [
+      { "name": "Madism", "link": "https://music.163.com/artist?id=14774559" }
+    ],
+    "album": {
+      "name": "Skyline",
+      "link": "https://music.163.com/album?id=88104559"
+    }
+  },
+  {
+    "name": "Lemonade (BEAUZ Remix)",
+    "link": "https://music.163.com/song?id=1370390051",
+    "duration": "03:11",
+    "artists": [
+      {
+        "name": "Brooke Alexx",
+        "link": "https://music.163.com/artist?id=29784169"
+      },
+      { "name": "BEAUZ", "link": "https://music.163.com/artist?id=12131436" }
+    ],
+    "album": {
+      "name": "Lemonade (BEAUZ Remix)",
+      "link": "https://music.163.com/album?id=79665004"
+    }
+  },
+  {
+    "name": "Lights Go Down",
+    "link": "https://music.163.com/song?id=1359708011",
+    "duration": "03:06",
+    "artists": [
+      { "name": "Syn Cole", "link": "https://music.163.com/artist?id=854432" },
+      { "name": "Dakota", "link": "https://music.163.com/artist?id=688224" }
+    ],
+    "album": {
+      "name": "Lights Go Down",
+      "link": "https://music.163.com/album?id=78602985"
+    }
+  },
+  {
+    "name": "The One (feat. Zeyué)",
+    "link": "https://music.163.com/song?id=1803663018",
+    "duration": "03:53",
+    "artists": [
+      {
+        "name": "森林屿诗",
+        "link": "https://music.163.com/artist?id=13698665"
+      },
+      { "name": "L3V3LS", "link": "https://music.163.com/artist?id=12007340" },
+      { "name": "Zeyué", "link": "https://music.163.com/artist?id=35512419" }
+    ],
+    "album": {
+      "name": "The One (feat. Zeyué)",
+      "link": "https://music.163.com/album?id=120270456"
+    }
+  },
+  {
+    "name": "Last Time",
+    "link": "https://music.163.com/song?id=1419166168",
+    "duration": "03:44",
+    "artists": [
+      {
+        "name": "Midnight Kids",
+        "link": "https://music.163.com/artist?id=13192314"
+      }
+    ],
+    "album": {
+      "name": "Last Time",
+      "link": "https://music.163.com/album?id=85244302"
+    }
+  },
+  {
+    "name": "Ibiza Night (Mbnn Remix Radio Edit)",
+    "link": "https://music.163.com/song?id=504206109",
+    "duration": "03:38",
+    "artists": [
+      {
+        "name": "Pasha Lumin",
+        "link": "https://music.163.com/artist?id=12624028"
+      },
+      {
+        "name": "Alba Kras",
+        "link": "https://music.163.com/artist?id=13944391"
+      },
+      { "name": "MBNN", "link": "https://music.163.com/artist?id=12685239" }
+    ],
+    "album": {
+      "name": "Ibiza Night (The Remixes)",
+      "link": "https://music.163.com/album?id=36146039"
+    }
+  },
+  {
+    "name": "Aeon",
+    "link": "https://music.163.com/song?id=33359018",
+    "duration": "03:58",
+    "artists": [
+      { "name": "JJD", "link": "https://music.163.com/artist?id=472822" }
+    ],
+    "album": {
+      "name": "Aeon",
+      "link": "https://music.163.com/album?id=3201118"
+    }
+  },
+  {
+    "name": "Away",
+    "link": "https://music.163.com/song?id=546723447",
+    "duration": "04:19",
+    "artists": [
+      { "name": "MitiS", "link": "https://music.163.com/artist?id=40245" },
+      { "name": "Gioto", "link": "https://music.163.com/artist?id=29581343" }
+    ],
+    "album": {
+      "name": "'Til the End",
+      "link": "https://music.163.com/album?id=37987085"
+    }
+  },
+  {
+    "name": "This Girl (Kungs Vs. Cookin' On 3 Burners)",
+    "link": "https://music.163.com/song?id=404276447",
+    "duration": "03:15",
+    "artists": [
+      { "name": "Kungs", "link": "https://music.163.com/artist?id=1135041" },
+      {
+        "name": "Cookin' On 3 Burners",
+        "link": "https://music.163.com/artist?id=622879"
+      }
+    ],
+    "album": {
+      "name": "This Girl (Kungs Vs. Cookin' On 3 Burners)",
+      "link": "https://music.163.com/album?id=34480921"
+    }
+  },
+  {
+    "name": "Flare",
+    "link": "https://music.163.com/song?id=1423316784",
+    "duration": "03:23",
+    "artists": [
+      { "name": "Vexento", "link": "https://music.163.com/artist?id=12037010" }
+    ],
+    "album": {
+      "name": "Flare",
+      "link": "https://music.163.com/album?id=85725768"
+    }
+  },
+  {
+    "name": "Empty Love",
+    "link": "https://music.163.com/song?id=1493262941",
+    "duration": "02:50",
+    "artists": [
+      { "name": "Lulleaux", "link": "https://music.163.com/artist?id=1115185" }
+    ],
+    "album": {
+      "name": "Dance The Annual 2021",
+      "link": "https://music.163.com/album?id=97958660"
+    }
+  },
+  {
+    "name": "L.I.F.E. (Extended Mix)",
+    "link": "https://music.163.com/song?id=459025526",
+    "duration": "04:33",
+    "artists": [
+      { "name": "Remady", "link": "https://music.163.com/artist?id=42785" },
+      { "name": "Manu-L", "link": "https://music.163.com/artist?id=412923" }
+    ],
+    "album": {
+      "name": "L.I.F.E. (Remixes)",
+      "link": "https://music.163.com/album?id=35164492"
+    }
+  },
+  {
+    "name": "IT HURTS!",
+    "link": "https://music.163.com/song?id=1849196930",
+    "duration": "03:48",
+    "artists": [
+      { "name": "San Holo", "link": "https://music.163.com/artist?id=1017035" }
+    ],
+    "album": {
+      "name": "bb u ok?",
+      "link": "https://music.163.com/album?id=128204234"
+    }
+  },
+  {
+    "name": "Wings",
+    "link": "https://music.163.com/song?id=1405976162",
+    "duration": "04:55",
+    "artists": [
+      {
+        "name": "Just A Gent",
+        "link": "https://music.163.com/artist?id=893239"
+      },
+      {
+        "name": "Olivia Grace",
+        "link": "https://music.163.com/artist?id=30472256"
+      }
+    ],
+    "album": {
+      "name": "URCA",
+      "link": "https://music.163.com/album?id=83666220"
+    }
+  },
+  {
+    "name": "Lost and Found",
+    "link": "https://music.163.com/song?id=1368893102",
+    "duration": "04:17",
+    "artists": [
+      {
+        "name": "CloudNone",
+        "link": "https://music.163.com/artist?id=28407606"
+      },
+      { "name": "Direct", "link": "https://music.163.com/artist?id=758029" },
+      { "name": "Matt Van", "link": "https://music.163.com/artist?id=12441178" }
+    ],
+    "album": {
+      "name": "Lost and Found",
+      "link": "https://music.163.com/album?id=79528490"
+    }
+  },
+  {
+    "name": "Feel the Fire (Breath Vocal Mix)",
+    "link": "https://music.163.com/song?id=437859809",
+    "duration": "03:21",
+    "artists": [
+      { "name": "pluko", "link": "https://music.163.com/artist?id=15024191" },
+      {
+        "name": "pronouncedyea",
+        "link": "https://music.163.com/artist?id=30358267"
+      }
+    ],
+    "album": {
+      "name": "Feel the Fire (Breath Vocal Mix)",
+      "link": "https://music.163.com/album?id=34944760"
+    }
+  },
+  {
+    "name": "Curative",
+    "link": "https://music.163.com/song?id=1378999559",
+    "duration": "03:20",
+    "artists": [
+      {
+        "name": "The Darkmaker",
+        "link": "https://music.163.com/artist?id=31492299"
+      }
+    ],
+    "album": {
+      "name": "The Fairy",
+      "link": "https://music.163.com/album?id=80471989"
+    }
+  },
+  {
+    "name": "I Need Love",
+    "link": "https://music.163.com/song?id=1398919280",
+    "duration": "03:20",
+    "artists": [
+      { "name": "Debris", "link": "https://music.163.com/artist?id=640587" },
+      {
+        "name": "Justin Petti",
+        "link": "https://music.163.com/artist?id=12775352"
+      },
+      {
+        "name": "Veronica Bravo",
+        "link": "https://music.163.com/artist?id=14296763"
+      }
+    ],
+    "album": {
+      "name": "I Need Love",
+      "link": "https://music.163.com/album?id=82708154"
+    }
+  },
+  {
+    "name": "Eyes",
+    "link": "https://music.163.com/song?id=32102297",
+    "duration": "04:05",
+    "artists": [
+      {
+        "name": "The New Division",
+        "link": "https://music.163.com/artist?id=103368"
+      }
+    ],
+    "album": {
+      "name": "Eyes",
+      "link": "https://music.163.com/album?id=3152258"
+    }
+  },
+  {
+    "name": "Wasn't Easy",
+    "link": "https://music.163.com/song?id=513363671",
+    "duration": "03:58",
+    "artists": [
+      { "name": "Gjan", "link": "https://music.163.com/artist?id=851014" }
+    ],
+    "album": {
+      "name": "Do It",
+      "link": "https://music.163.com/album?id=36579122"
+    }
+  },
+  {
+    "name": "下一个生日",
+    "link": "https://music.163.com/song?id=523658226",
+    "duration": "03:02",
+    "artists": [
+      { "name": "G5SH", "link": "https://music.163.com/artist?id=12411087" },
+      { "name": "黄家薇", "link": "https://music.163.com/artist?id=12976870" }
+    ],
+    "album": {
+      "name": "下一个生日",
+      "link": "https://music.163.com/album?id=36875721"
+    }
+  },
+  {
+    "name": "Your Spell",
+    "link": "https://music.163.com/song?id=1832056326",
+    "duration": "03:04",
+    "artists": [
+      {
+        "name": "Bad Computer",
+        "link": "https://music.163.com/artist?id=12647410"
+      }
+    ],
+    "album": {
+      "name": "Somewhere New",
+      "link": "https://music.163.com/album?id=125067539"
+    }
+  },
+  {
+    "name": "Remember",
+    "link": "https://music.163.com/song?id=1454605183",
+    "duration": "02:51",
+    "artists": [
+      { "name": "J. Lisk", "link": "https://music.163.com/artist?id=12121101" }
+    ],
+    "album": {
+      "name": "Remember",
+      "link": "https://music.163.com/album?id=90652972"
+    }
+  },
+  {
+    "name": "Familiär",
+    "link": "https://music.163.com/song?id=436487081",
+    "duration": "03:55",
+    "artists": [
+      { "name": "Agnes Obel", "link": "https://music.163.com/artist?id=48093" }
+    ],
+    "album": {
+      "name": "Citizen of Glass",
+      "link": "https://music.163.com/album?id=34887007"
+    }
+  },
+  {
+    "name": "Cosmic Fate",
+    "link": "https://music.163.com/song?id=532267293",
+    "duration": "02:32",
+    "artists": [
+      { "name": "Wisp X", "link": "https://music.163.com/artist?id=1046123" }
+    ],
+    "album": {
+      "name": "Cosmic Fate",
+      "link": "https://music.163.com/album?id=37353614"
+    }
+  },
+  {
+    "name": "The Way You Want Me",
+    "link": "https://music.163.com/song?id=447281315",
+    "duration": "03:13",
+    "artists": [
+      {
+        "name": "Lucky Rose",
+        "link": "https://music.163.com/artist?id=12107760"
+      },
+      {
+        "name": "Yan Etchevary",
+        "link": "https://music.163.com/artist?id=12720078"
+      }
+    ],
+    "album": {
+      "name": "Ultra 2017",
+      "link": "https://music.163.com/album?id=35012913"
+    }
+  },
+  {
+    "name": "We Know Who We Are (Midnight Kids Remix)",
+    "link": "https://music.163.com/song?id=1859129062",
+    "duration": "04:48",
+    "artists": [
+      {
+        "name": "Said The Sky",
+        "link": "https://music.163.com/artist?id=1026094"
+      },
+      {
+        "name": "Olivver the Kid",
+        "link": "https://music.163.com/artist?id=1057158"
+      },
+      {
+        "name": "Midnight Kids",
+        "link": "https://music.163.com/artist?id=13192314"
+      }
+    ],
+    "album": {
+      "name": "We Know Who We Are (Midnight Kids Remix)",
+      "link": "https://music.163.com/album?id=129997468"
+    }
+  },
+  {
+    "name": "Friends Forever",
+    "link": "https://music.163.com/song?id=1343945880",
+    "duration": "04:05",
+    "artists": [
+      {
+        "name": "FlutterShake",
+        "link": "https://music.163.com/artist?id=30295153"
+      }
+    ],
+    "album": {
+      "name": "Friends Forever",
+      "link": "https://music.163.com/album?id=75409226"
+    }
+  },
+  {
+    "name": "Girls Go Wild",
+    "link": "https://music.163.com/song?id=1442874159",
+    "duration": "03:43",
+    "artists": [
+      { "name": "LP", "link": "https://music.163.com/artist?id=66290" },
+      {
+        "name": "Ximena Sariñana",
+        "link": "https://music.163.com/artist?id=84830"
+      }
+    ],
+    "album": {
+      "name": "Girls Go Wild",
+      "link": "https://music.163.com/album?id=88431816"
+    }
+  },
+  {
+    "name": "Let It All Out (L3V3LS Remix)",
+    "link": "https://music.163.com/song?id=425828566",
+    "duration": "04:55",
+    "artists": [
+      { "name": "L3V3LS", "link": "https://music.163.com/artist?id=12007340" },
+      { "name": "Kap Slap", "link": "https://music.163.com/artist?id=761048" },
+      {
+        "name": "Angelika Vee",
+        "link": "https://music.163.com/artist?id=904230"
+      }
+    ],
+    "album": {
+      "name": "Let It All Out (L3V3LS Remix)",
+      "link": "https://music.163.com/album?id=34817750"
+    }
+  },
+  {
+    "name": "Edge Of Darkness",
+    "link": "https://music.163.com/song?id=1841095562",
+    "duration": "03:30",
+    "artists": [
+      {
+        "name": "Wildstylez",
+        "link": "https://music.163.com/artist?id=666014"
+      },
+      {
+        "name": "Hard Driver",
+        "link": "https://music.163.com/artist?id=336983"
+      }
+    ],
+    "album": {
+      "name": "Edge Of Darkness",
+      "link": "https://music.163.com/album?id=126703397"
+    }
+  },
+  {
+    "name": "Like I Love You (Money G Radio Edit)",
+    "link": "https://music.163.com/song?id=1923560",
+    "duration": "03:42",
+    "artists": [
+      { "name": "R.I.O.", "link": "https://music.163.com/artist?id=42495" }
+    ],
+    "album": {
+      "name": "Turn This Club Around",
+      "link": "https://music.163.com/album?id=193984"
+    }
+  },
+  {
+    "name": "Vampires",
+    "link": "https://music.163.com/song?id=426027091",
+    "duration": "05:17",
+    "artists": [
+      {
+        "name": "The Midnight",
+        "link": "https://music.163.com/artist?id=12023492"
+      }
+    ],
+    "album": {
+      "name": "Endless Summer",
+      "link": "https://music.163.com/album?id=34826028"
+    }
+  }
+]
