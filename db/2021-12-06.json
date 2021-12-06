@@ -1,0 +1,485 @@
+[
+  {
+    "name": "深夜（Night）",
+    "link": "https://music.163.com/song?id=1404214417",
+    "duration": "02:44",
+    "artists": [
+      { "name": "Qperkz", "link": "https://music.163.com/artist?id=33744334" },
+      {
+        "name": "VillianmX新",
+        "link": "https://music.163.com/artist?id=1031044"
+      }
+    ],
+    "album": {
+      "name": "深夜Night",
+      "link": "https://music.163.com/album?id=83416919"
+    }
+  },
+  {
+    "name": "No Regrets",
+    "link": "https://music.163.com/song?id=1482201210",
+    "duration": "02:13",
+    "artists": [
+      {
+        "name": "Jeffrey Sutorius",
+        "link": "https://music.163.com/artist?id=31637810"
+      },
+      {
+        "name": "Jordan Grace",
+        "link": "https://music.163.com/artist?id=33078903"
+      }
+    ],
+    "album": {
+      "name": "No Regrets",
+      "link": "https://music.163.com/album?id=95954570"
+    }
+  },
+  {
+    "name": "Down The Line",
+    "link": "https://music.163.com/song?id=1456652121",
+    "duration": "02:22",
+    "artists": [
+      {
+        "name": "Mike Perry",
+        "link": "https://music.163.com/artist?id=195021"
+      },
+      {
+        "name": "Ten Times",
+        "link": "https://music.163.com/artist?id=31930131"
+      }
+    ],
+    "album": {
+      "name": "Down The Line",
+      "link": "https://music.163.com/album?id=91213980"
+    }
+  },
+  {
+    "name": "Every Breath You Take (Original Mix)",
+    "link": "https://music.163.com/song?id=1437260078",
+    "duration": "03:18",
+    "artists": [
+      {
+        "name": "Deep Chills",
+        "link": "https://music.163.com/artist?id=1063083"
+      }
+    ],
+    "album": {
+      "name": "Every Breath You Take",
+      "link": "https://music.163.com/album?id=87550234"
+    }
+  },
+  {
+    "name": "Xanadu (original Mix)",
+    "link": "https://music.163.com/song?id=1351254046",
+    "duration": "03:21",
+    "artists": [
+      { "name": "阳山伟伟", "link": "https://music.163.com/artist?id=12641107" }
+    ],
+    "album": {
+      "name": "Xanadu (original Mix)",
+      "link": "https://music.163.com/album?id=75816809"
+    }
+  },
+  {
+    "name": "Something Just Like This",
+    "link": "https://music.163.com/song?id=506288341",
+    "duration": "03:21",
+    "artists": [
+      {
+        "name": "We Rabbitz",
+        "link": "https://music.163.com/artist?id=12074883"
+      },
+      {
+        "name": "Adam Christopher",
+        "link": "https://music.163.com/artist?id=13157086"
+      },
+      {
+        "name": "Guy Berryman",
+        "link": "https://music.163.com/artist?id=203178"
+      },
+      {
+        "name": "Chris Martin",
+        "link": "https://music.163.com/artist?id=688269"
+      },
+      {
+        "name": "Andrew Taggart",
+        "link": "https://music.163.com/artist?id=13080339"
+      }
+    ],
+    "album": {
+      "name": "Something Just Like This",
+      "link": "https://music.163.com/album?id=36234175"
+    }
+  },
+  {
+    "name": "Deep End",
+    "link": "https://music.163.com/song?id=470573623",
+    "duration": "03:37",
+    "artists": [
+      { "name": "LU2VYK", "link": "https://music.163.com/artist?id=12356140" }
+    ],
+    "album": {
+      "name": "Deep End",
+      "link": "https://music.163.com/album?id=35346122"
+    }
+  },
+  {
+    "name": "Clean",
+    "link": "https://music.163.com/song?id=33517573",
+    "duration": "04:21",
+    "artists": [
+      { "name": "Allfine", "link": "https://music.163.com/artist?id=1122109" }
+    ],
+    "album": {
+      "name": "Clean",
+      "link": "https://music.163.com/album?id=3212445"
+    }
+  },
+  {
+    "name": "Never Walk Alone (Radio Edit)",
+    "link": "https://music.163.com/song?id=487587451",
+    "duration": "03:16",
+    "artists": [
+      { "name": "Mike Candys", "link": "https://music.163.com/artist?id=40119" }
+    ],
+    "album": {
+      "name": "Never Walk Alone",
+      "link": "https://music.163.com/album?id=35695106"
+    }
+  },
+  {
+    "name": "Waiting",
+    "link": "https://music.163.com/song?id=1397701756",
+    "duration": "03:25",
+    "artists": [
+      { "name": "Vicetone", "link": "https://music.163.com/artist?id=747030" },
+      {
+        "name": "Daisy Guttridge",
+        "link": "https://music.163.com/artist?id=13222414"
+      },
+      {
+        "name": "Eric Leva",
+        "link": "https://music.163.com/artist?id=14269985"
+      }
+    ],
+    "album": {
+      "name": "Monstercat Instinct Vol. 4",
+      "link": "https://music.163.com/album?id=82525503"
+    }
+  },
+  {
+    "name": "Bloom",
+    "link": "https://music.163.com/song?id=1347227968",
+    "duration": "04:00",
+    "artists": [
+      { "name": "Dabin", "link": "https://music.163.com/artist?id=783446" },
+      {
+        "name": "Dia Frampton",
+        "link": "https://music.163.com/artist?id=55454"
+      }
+    ],
+    "album": {
+      "name": "Wild Youth",
+      "link": "https://music.163.com/album?id=75638746"
+    }
+  },
+  {
+    "name": "Somebody",
+    "link": "https://music.163.com/song?id=1453248203",
+    "duration": "03:04",
+    "artists": [
+      { "name": "FEWZ", "link": "https://music.163.com/artist?id=12008133" }
+    ],
+    "album": {
+      "name": "Inside",
+      "link": "https://music.163.com/album?id=90401629"
+    }
+  },
+  {
+    "name": "Worldwide",
+    "link": "https://music.163.com/song?id=454711152",
+    "duration": "02:19",
+    "artists": [
+      {
+        "name": "Matt Strike",
+        "link": "https://music.163.com/artist?id=12047472"
+      }
+    ],
+    "album": {
+      "name": "Worldwide",
+      "link": "https://music.163.com/album?id=35138169"
+    }
+  },
+  {
+    "name": "No Other Way",
+    "link": "https://music.163.com/song?id=1487460161",
+    "duration": "02:28",
+    "artists": [
+      { "name": "Shaed", "link": "https://music.163.com/artist?id=12086115" }
+    ],
+    "album": {
+      "name": "No Other Way",
+      "link": "https://music.163.com/album?id=96875984"
+    }
+  },
+  {
+    "name": "Body Back",
+    "link": "https://music.163.com/song?id=1397616467",
+    "duration": "03:34",
+    "artists": [
+      { "name": "Gryffin", "link": "https://music.163.com/artist?id=1181504" },
+      {
+        "name": "Maia Wright",
+        "link": "https://music.163.com/artist?id=12561660"
+      }
+    ],
+    "album": {
+      "name": "Gravity",
+      "link": "https://music.163.com/album?id=82692723"
+    }
+  },
+  {
+    "name": "On Your Side",
+    "link": "https://music.163.com/song?id=435288288",
+    "duration": "02:51",
+    "artists": [
+      {
+        "name": "The Veronicas",
+        "link": "https://music.163.com/artist?id=102022"
+      }
+    ],
+    "album": {
+      "name": "On Your Side",
+      "link": "https://music.163.com/album?id=34913100"
+    }
+  },
+  {
+    "name": "Extasy (Cristian Poow Remix)",
+    "link": "https://music.163.com/song?id=30212221",
+    "duration": "06:46",
+    "artists": [
+      {
+        "name": "Phunk Investigation",
+        "link": "https://music.163.com/artist?id=663011"
+      }
+    ],
+    "album": {
+      "name": "Extasy",
+      "link": "https://music.163.com/album?id=3094230"
+    }
+  },
+  {
+    "name": "Drop That Skirt (Radio Mix)",
+    "link": "https://music.163.com/song?id=566295511",
+    "duration": "02:54",
+    "artists": [
+      {
+        "name": "Croatia Squad",
+        "link": "https://music.163.com/artist?id=820489"
+      }
+    ],
+    "album": {
+      "name": "Sirup Dance Anthems Las Vegas 2015",
+      "link": "https://music.163.com/album?id=39251776"
+    }
+  },
+  {
+    "name": "Shape Of You (Ramazan Cicek Remix)",
+    "link": "https://music.163.com/song?id=1332942637",
+    "duration": "04:24",
+    "artists": [
+      {
+        "name": "吾金公保Music",
+        "link": "https://music.163.com/artist?id=30477040"
+      }
+    ],
+    "album": {
+      "name": "MUSIC_Remix",
+      "link": "https://music.163.com/album?id=74829059"
+    }
+  },
+  {
+    "name": "Oceans Brawl",
+    "link": "https://music.163.com/song?id=34228361",
+    "duration": "05:09",
+    "artists": [
+      {
+        "name": "Cœur de pirate",
+        "link": "https://music.163.com/artist?id=50899"
+      }
+    ],
+    "album": {
+      "name": "Roses (Deluxe)",
+      "link": "https://music.163.com/album?id=3275671"
+    }
+  },
+  {
+    "name": "That's Why (Blunts & Blondes Remix)",
+    "link": "https://music.163.com/song?id=1448420677",
+    "duration": "04:00",
+    "artists": [
+      { "name": "ILLENIUM", "link": "https://music.163.com/artist?id=1050518" },
+      {
+        "name": "Josh Golden",
+        "link": "https://music.163.com/artist?id=12935364"
+      },
+      {
+        "name": "Blunts & Blondes",
+        "link": "https://music.163.com/artist?id=30901345"
+      }
+    ],
+    "album": {
+      "name": "ASCEND (Remixes)",
+      "link": "https://music.163.com/album?id=89513700"
+    }
+  },
+  {
+    "name": "The Seed",
+    "link": "https://music.163.com/song?id=1356666025",
+    "duration": "04:26",
+    "artists": [
+      { "name": "AURORA", "link": "https://music.163.com/artist?id=1043338" }
+    ],
+    "album": {
+      "name": "The Seed",
+      "link": "https://music.163.com/album?id=78333513"
+    }
+  },
+  {
+    "name": "Lie Lie Lie",
+    "link": "https://music.163.com/song?id=1377057647",
+    "duration": "03:17",
+    "artists": [
+      {
+        "name": "Kayla Diamond",
+        "link": "https://music.163.com/artist?id=13023833"
+      },
+      { "name": "AViVA", "link": "https://music.163.com/artist?id=36022099" }
+    ],
+    "album": {
+      "name": "Dirty Laundry",
+      "link": "https://music.163.com/album?id=80312465"
+    }
+  },
+  {
+    "name": "Redefined (feat. Melanie Fontana)",
+    "link": "https://music.163.com/song?id=29790688",
+    "duration": "04:04",
+    "artists": [
+      { "name": "tyDi", "link": "https://music.163.com/artist?id=45044" },
+      { "name": "Melanie", "link": "https://music.163.com/artist?id=66918" }
+    ],
+    "album": {
+      "name": "Redefined",
+      "link": "https://music.163.com/album?id=3077637"
+    }
+  },
+  {
+    "name": "所念皆星河 - (演唱版)",
+    "link": "https://music.163.com/song?id=1476239407",
+    "duration": "04:04",
+    "artists": [
+      { "name": "房东的猫", "link": "https://music.163.com/artist?id=1050282" }
+    ],
+    "album": {
+      "name": "所念皆星河",
+      "link": "https://music.163.com/album?id=94909256"
+    }
+  },
+  {
+    "name": "Hello Summer (Radio Edit)",
+    "link": "https://music.163.com/song?id=424477211",
+    "duration": "02:32",
+    "artists": [
+      { "name": "Rameez", "link": "https://music.163.com/artist?id=386580" }
+    ],
+    "album": {
+      "name": "Hello Summer (Radio Edit)",
+      "link": "https://music.163.com/album?id=34809328"
+    }
+  },
+  {
+    "name": "Leila",
+    "link": "https://music.163.com/song?id=463352507",
+    "duration": "03:46",
+    "artists": [
+      {
+        "name": "Miami Horror",
+        "link": "https://music.163.com/artist?id=96556"
+      }
+    ],
+    "album": {
+      "name": "Leila",
+      "link": "https://music.163.com/album?id=35241025"
+    }
+  },
+  {
+    "name": "2046",
+    "link": "https://music.163.com/song?id=1886417301",
+    "duration": "02:03",
+    "artists": [
+      { "name": "吴朋真", "link": "https://music.163.com/artist?id=12064052" }
+    ],
+    "album": {
+      "name": "2021年10月",
+      "link": "https://music.163.com/album?id=134468578"
+    }
+  },
+  {
+    "name": "Seasons (Futuristik & Whogaux Remix)",
+    "link": "https://music.163.com/song?id=1313044099",
+    "duration": "03:13",
+    "artists": [
+      { "name": "Rival", "link": "https://music.163.com/artist?id=12741030" },
+      { "name": "Cadmium", "link": "https://music.163.com/artist?id=12945908" },
+      {
+        "name": "Harley Bird",
+        "link": "https://music.163.com/artist?id=12355691"
+      }
+    ],
+    "album": {
+      "name": "NCS: Alpha",
+      "link": "https://music.163.com/album?id=73642230"
+    }
+  },
+  {
+    "name": "如果有来生",
+    "link": "https://music.163.com/song?id=293948",
+    "duration": "04:07",
+    "artists": [
+      { "name": "谭维维", "link": "https://music.163.com/artist?id=9489" }
+    ],
+    "album": {
+      "name": "谭某某",
+      "link": "https://music.163.com/album?id=29193"
+    }
+  },
+  {
+    "name": "【星尘】尘降",
+    "link": "https://music.163.com/song?id=410161213",
+    "duration": "04:42",
+    "artists": [
+      { "name": "星尘", "link": "https://music.163.com/artist?id=12046092" },
+      { "name": "COP", "link": "https://music.163.com/artist?id=12002071" }
+    ],
+    "album": {
+      "name": "尘降-星尘",
+      "link": "https://music.163.com/album?id=34612598"
+    }
+  },
+  {
+    "name": "Never Be Alone / Hey There Delilah (Live At Madison Square Garden/ 2016 / Medley)",
+    "link": "https://music.163.com/song?id=448157854",
+    "duration": "06:11",
+    "artists": [
+      {
+        "name": "Shawn Mendes",
+        "link": "https://music.163.com/artist?id=956238"
+      }
+    ],
+    "album": {
+      "name": "Live At Madison Square Garden",
+      "link": "https://music.163.com/album?id=35070119"
+    }
+  }
+]
