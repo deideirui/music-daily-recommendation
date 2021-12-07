@@ -1,0 +1,486 @@
+[
+  {
+    "name": "Hold Your Breath",
+    "link": "https://music.163.com/song?id=1493464849",
+    "duration": "03:25",
+    "artists": [
+      { "name": "Axero", "link": "https://music.163.com/artist?id=1035020" }
+    ],
+    "album": {
+      "name": "Hold Your Breath",
+      "link": "https://music.163.com/album?id=97991807"
+    }
+  },
+  {
+    "name": "Always Home",
+    "link": "https://music.163.com/song?id=1844176195",
+    "duration": "03:00",
+    "artists": [
+      {
+        "name": "Axel Johansson",
+        "link": "https://music.163.com/artist?id=12872604"
+      },
+      {
+        "name": "Amanda Collis",
+        "link": "https://music.163.com/artist?id=30296250"
+      }
+    ],
+    "album": {
+      "name": "Always Home",
+      "link": "https://music.163.com/album?id=127239826"
+    }
+  },
+  {
+    "name": "Roads",
+    "link": "https://music.163.com/song?id=1810535196",
+    "duration": "03:10",
+    "artists": [
+      {
+        "name": "Joakim Molitor",
+        "link": "https://music.163.com/artist?id=13972238"
+      },
+      { "name": "Franky", "link": "https://music.163.com/artist?id=46952870" }
+    ],
+    "album": {
+      "name": "Roads",
+      "link": "https://music.163.com/album?id=121388924"
+    }
+  },
+  {
+    "name": "Thokoloshi",
+    "link": "https://music.163.com/song?id=1398528550",
+    "duration": "02:26",
+    "artists": [
+      { "name": "Ehrling", "link": "https://music.163.com/artist?id=12048130" }
+    ],
+    "album": {
+      "name": "Thokoloshi",
+      "link": "https://music.163.com/album?id=82632691"
+    }
+  },
+  {
+    "name": "Hollow Life",
+    "link": "https://music.163.com/song?id=1405639135",
+    "duration": "03:59",
+    "artists": [
+      { "name": "Tritan", "link": "https://music.163.com/artist?id=12425031" },
+      { "name": "Ratfoot", "link": "https://music.163.com/artist?id=13461250" }
+    ],
+    "album": {
+      "name": "Hollow Life",
+      "link": "https://music.163.com/album?id=83635253"
+    }
+  },
+  {
+    "name": "Back To U",
+    "link": "https://music.163.com/song?id=1442681212",
+    "duration": "03:34",
+    "artists": [
+      { "name": "SLANDER", "link": "https://music.163.com/artist?id=1137239" },
+      {
+        "name": "William Black",
+        "link": "https://music.163.com/artist?id=248957"
+      }
+    ],
+    "album": {
+      "name": "Back To U",
+      "link": "https://music.163.com/album?id=88388886"
+    }
+  },
+  {
+    "name": "Starry Skies",
+    "link": "https://music.163.com/song?id=1836533888",
+    "duration": "02:45",
+    "artists": [
+      {
+        "name": "The Darkmaker",
+        "link": "https://music.163.com/artist?id=31492299"
+      }
+    ],
+    "album": {
+      "name": "Starry Skies",
+      "link": "https://music.163.com/album?id=125879765"
+    }
+  },
+  {
+    "name": "Can We Go Back",
+    "link": "https://music.163.com/song?id=1485643861",
+    "duration": "03:33",
+    "artists": [
+      { "name": "Caslow", "link": "https://music.163.com/artist?id=15109745" },
+      { "name": "Exede", "link": "https://music.163.com/artist?id=13059879" }
+    ],
+    "album": {
+      "name": "Can We Go Back",
+      "link": "https://music.163.com/album?id=96546238"
+    }
+  },
+  {
+    "name": "Now or Never",
+    "link": "https://music.163.com/song?id=1840634237",
+    "duration": "02:28",
+    "artists": [
+      { "name": "Aniela", "link": "https://music.163.com/artist?id=32498687" },
+      { "name": "RudeLies", "link": "https://music.163.com/artist?id=12416051" }
+    ],
+    "album": {
+      "name": "Now or Never",
+      "link": "https://music.163.com/album?id=126620180"
+    }
+  },
+  {
+    "name": "Run Back to You (feat. Alisa)",
+    "link": "https://music.163.com/song?id=1471391509",
+    "duration": "03:13",
+    "artists": [
+      { "name": "Hoang", "link": "https://music.163.com/artist?id=27694442" },
+      { "name": "Alisa", "link": "https://music.163.com/artist?id=201526" }
+    ],
+    "album": {
+      "name": "Run Back to You (feat. Alisa)",
+      "link": "https://music.163.com/album?id=94018381"
+    }
+  },
+  {
+    "name": "Me + You",
+    "link": "https://music.163.com/song?id=1849872227",
+    "duration": "02:51",
+    "artists": [
+      { "name": "Sabai", "link": "https://music.163.com/artist?id=32093901" },
+      {
+        "name": "Rave New World",
+        "link": "https://music.163.com/artist?id=34831315"
+      }
+    ],
+    "album": {
+      "name": "Me + You",
+      "link": "https://music.163.com/album?id=128355709"
+    }
+  },
+  {
+    "name": "Desire",
+    "link": "https://music.163.com/song?id=1496828388",
+    "duration": "02:35",
+    "artists": [
+      {
+        "name": "Jack & James",
+        "link": "https://music.163.com/artist?id=29469070"
+      }
+    ],
+    "album": {
+      "name": "Desire",
+      "link": "https://music.163.com/album?id=98558450"
+    }
+  },
+  {
+    "name": "Okay Alone (feat. Luma)",
+    "link": "https://music.163.com/song?id=1490266482",
+    "duration": "04:00",
+    "artists": [
+      {
+        "name": "Sineself",
+        "link": "https://music.163.com/artist?id=32945422"
+      },
+      { "name": "Luma", "link": "https://music.163.com/artist?id=211460" }
+    ],
+    "album": {
+      "name": "Okay Alone (feat. Luma)",
+      "link": "https://music.163.com/album?id=97386255"
+    }
+  },
+  {
+    "name": "Die in Your Arms",
+    "link": "https://music.163.com/song?id=1438579512",
+    "duration": "02:49",
+    "artists": [
+      { "name": "Zeper", "link": "https://music.163.com/artist?id=12086179" },
+      {
+        "name": "Alex France",
+        "link": "https://music.163.com/artist?id=30009805"
+      }
+    ],
+    "album": {
+      "name": "Die in Your Arms",
+      "link": "https://music.163.com/album?id=87752013"
+    }
+  },
+  {
+    "name": "Mistakes",
+    "link": "https://music.163.com/song?id=1861549563",
+    "duration": "02:39",
+    "artists": [
+      { "name": "JANEE", "link": "https://music.163.com/artist?id=12274245" },
+      { "name": "Faith", "link": "https://music.163.com/artist?id=12092269" }
+    ],
+    "album": {
+      "name": "Mistakes",
+      "link": "https://music.163.com/album?id=130438023"
+    }
+  },
+  {
+    "name": "Homeless Heart",
+    "link": "https://music.163.com/song?id=865828189",
+    "duration": "03:10",
+    "artists": [
+      { "name": "Pi", "link": "https://music.163.com/artist?id=1078333" },
+      { "name": "Erkki.R", "link": "https://music.163.com/artist?id=12901022" },
+      { "name": "Zoopreme", "link": "https://music.163.com/artist?id=13959957" }
+    ],
+    "album": {
+      "name": "Homeless Heart",
+      "link": "https://music.163.com/album?id=71800795"
+    }
+  },
+  {
+    "name": "We Are Not Alone (with AlexGun)",
+    "link": "https://music.163.com/song?id=1465047841",
+    "duration": "04:04",
+    "artists": [
+      {
+        "name": "Neray Network",
+        "link": "https://music.163.com/artist?id=34301652"
+      }
+    ],
+    "album": {
+      "name": "We Are Not Alone",
+      "link": "https://music.163.com/album?id=92886896"
+    }
+  },
+  {
+    "name": "Love Is Forever",
+    "link": "https://music.163.com/song?id=1482293261",
+    "duration": "04:00",
+    "artists": [
+      { "name": "AhXon", "link": "https://music.163.com/artist?id=12908109" },
+      { "name": "Anisko", "link": "https://music.163.com/artist?id=12426031" },
+      { "name": "Spagbo", "link": "https://music.163.com/artist?id=30245155" }
+    ],
+    "album": {
+      "name": "Love Is Forever",
+      "link": "https://music.163.com/album?id=95964030"
+    }
+  },
+  {
+    "name": "In My Head",
+    "link": "https://music.163.com/song?id=1486646454",
+    "duration": "03:37",
+    "artists": [
+      {
+        "name": "Last Heroes",
+        "link": "https://music.163.com/artist?id=11987034"
+      },
+      { "name": "Woodlock", "link": "https://music.163.com/artist?id=742037" }
+    ],
+    "album": {
+      "name": "Finding Light",
+      "link": "https://music.163.com/album?id=96707479"
+    }
+  },
+  {
+    "name": "Used To Love",
+    "link": "https://music.163.com/song?id=1861224068",
+    "duration": "04:14",
+    "artists": [
+      { "name": "Medz", "link": "https://music.163.com/artist?id=571312" },
+      {
+        "name": "She Is Jules",
+        "link": "https://music.163.com/artist?id=35435192"
+      },
+      {
+        "name": "Aaron Shirk",
+        "link": "https://music.163.com/artist?id=31406023"
+      }
+    ],
+    "album": {
+      "name": "Used To Love",
+      "link": "https://music.163.com/album?id=130362872"
+    }
+  },
+  {
+    "name": "Treading Water",
+    "link": "https://music.163.com/song?id=1865359008",
+    "duration": "03:33",
+    "artists": [
+      {
+        "name": "Said The Sky",
+        "link": "https://music.163.com/artist?id=1026094"
+      }
+    ],
+    "album": {
+      "name": "Treading Water",
+      "link": "https://music.163.com/album?id=131118368"
+    }
+  },
+  {
+    "name": "Traveler",
+    "link": "https://music.163.com/song?id=1365331137",
+    "duration": "03:34",
+    "artists": [
+      {
+        "name": "Seantonio",
+        "link": "https://music.163.com/artist?id=32190601"
+      }
+    ],
+    "album": {
+      "name": "The Travel",
+      "link": "https://music.163.com/album?id=79120526"
+    }
+  },
+  {
+    "name": "Moon Rider (feat. Wrabel)",
+    "link": "https://music.163.com/song?id=1415339510",
+    "duration": "03:38",
+    "artists": [
+      { "name": "Jai Wolf", "link": "https://music.163.com/artist?id=1063048" },
+      { "name": "Wrabel", "link": "https://music.163.com/artist?id=942221" }
+    ],
+    "album": {
+      "name": "Moon Rider (feat. Wrabel)",
+      "link": "https://music.163.com/album?id=84851692"
+    }
+  },
+  {
+    "name": "Summer Sounds Anthem, Vol. 7",
+    "link": "https://music.163.com/song?id=1836139084",
+    "duration": "03:31",
+    "artists": [
+      {
+        "name": "Summer Sounds",
+        "link": "https://music.163.com/artist?id=13814068"
+      }
+    ],
+    "album": {
+      "name": "Summer Sounds Anthem 7.0",
+      "link": "https://music.163.com/album?id=125815947"
+    }
+  },
+  {
+    "name": "When I Say You're Mine (feat. Luma & Notelle)",
+    "link": "https://music.163.com/song?id=1835266142",
+    "duration": "04:34",
+    "artists": [
+      { "name": "MitiS", "link": "https://music.163.com/artist?id=40245" },
+      { "name": "Luma", "link": "https://music.163.com/artist?id=211460" },
+      { "name": "Notelle", "link": "https://music.163.com/artist?id=1178258" }
+    ],
+    "album": {
+      "name": "Lost",
+      "link": "https://music.163.com/album?id=125636092"
+    }
+  },
+  {
+    "name": "Was It You (AWAKEND Remix)",
+    "link": "https://music.163.com/song?id=1842313406",
+    "duration": "04:34",
+    "artists": [
+      { "name": "Au5", "link": "https://music.163.com/artist?id=359309" },
+      { "name": "HALIENE", "link": "https://music.163.com/artist?id=13202710" }
+    ],
+    "album": {
+      "name": "Was It You (Remixes)",
+      "link": "https://music.163.com/album?id=126891296"
+    }
+  },
+  {
+    "name": "What Isn't Here",
+    "link": "https://music.163.com/song?id=1835332555",
+    "duration": "03:05",
+    "artists": [
+      { "name": "DVDDY", "link": "https://music.163.com/artist?id=30217254" },
+      { "name": "Caslow", "link": "https://music.163.com/artist?id=15109745" },
+      {
+        "name": "Kellin Quinn",
+        "link": "https://music.163.com/artist?id=14758815"
+      }
+    ],
+    "album": {
+      "name": "What Isn't Here",
+      "link": "https://music.163.com/album?id=125649653"
+    }
+  },
+  {
+    "name": "念安",
+    "link": "https://music.163.com/song?id=1447306947",
+    "duration": "03:26",
+    "artists": [
+      { "name": "芦虹锦", "link": "https://music.163.com/artist?id=35125317" },
+      { "name": "白鸿", "link": "https://music.163.com/artist?id=31008744" },
+      {
+        "name": "Glass玻璃",
+        "link": "https://music.163.com/artist?id=30476499"
+      }
+    ],
+    "album": {
+      "name": "念安",
+      "link": "https://music.163.com/album?id=89269135"
+    }
+  },
+  {
+    "name": "FADE",
+    "link": "https://music.163.com/song?id=1860307745",
+    "duration": "03:07",
+    "artists": [
+      { "name": "Kaaze", "link": "https://music.163.com/artist?id=952052" }
+    ],
+    "album": {
+      "name": "FADE",
+      "link": "https://music.163.com/album?id=130205204"
+    }
+  },
+  {
+    "name": "Thinking Bout You",
+    "link": "https://music.163.com/song?id=1386785723",
+    "duration": "03:04",
+    "artists": [
+      { "name": "Disero", "link": "https://music.163.com/artist?id=14675307" },
+      {
+        "name": "Bertie Scott",
+        "link": "https://music.163.com/artist?id=32696924"
+      }
+    ],
+    "album": {
+      "name": "Thinking Bout You",
+      "link": "https://music.163.com/album?id=81164514"
+    }
+  },
+  {
+    "name": "I Remember (Extended Mix)",
+    "link": "https://music.163.com/song?id=1832567071",
+    "duration": "04:15",
+    "artists": [
+      {
+        "name": "Justin Mylo",
+        "link": "https://music.163.com/artist?id=12082294"
+      },
+      { "name": "STRNGRS", "link": "https://music.163.com/artist?id=861398" }
+    ],
+    "album": {
+      "name": "I Remember",
+      "link": "https://music.163.com/album?id=125184992"
+    }
+  },
+  {
+    "name": "Drown",
+    "link": "https://music.163.com/song?id=517542039",
+    "duration": "03:05",
+    "artists": [
+      { "name": "ZABO", "link": "https://music.163.com/artist?id=12825010" }
+    ],
+    "album": {
+      "name": "Drown",
+      "link": "https://music.163.com/album?id=36746019"
+    }
+  },
+  {
+    "name": "Fly Me To The Moon (Inspired By FINAL FANTASY XIV) - (游戏《最终幻想14》原声)",
+    "link": "https://music.163.com/song?id=1899852141",
+    "duration": "02:50",
+    "artists": [
+      { "name": "Sia", "link": "https://music.163.com/artist?id=74625" }
+    ],
+    "album": {
+      "name": "Fly Me To The Moon (Inspired By FINAL FANTASY XIV)",
+      "link": "https://music.163.com/album?id=136906706"
+    }
+  }
+]
