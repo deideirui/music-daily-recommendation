@@ -1,0 +1,497 @@
+[
+  {
+    "name": "Fool For You",
+    "link": "https://music.163.com/song?id=1817576399",
+    "duration": "03:27",
+    "artists": [
+      { "name": "KASTRA", "link": "https://music.163.com/artist?id=1105094" }
+    ],
+    "album": {
+      "name": "Fool For You",
+      "link": "https://music.163.com/album?id=122548879"
+    }
+  },
+  {
+    "name": "Funny",
+    "link": "https://music.163.com/song?id=1462389947",
+    "duration": "03:41",
+    "artists": [
+      { "name": "Zedd", "link": "https://music.163.com/artist?id=46376" },
+      {
+        "name": "Jasmine Thompson",
+        "link": "https://music.163.com/artist?id=863042"
+      }
+    ],
+    "album": {
+      "name": "Funny",
+      "link": "https://music.163.com/album?id=92342653"
+    }
+  },
+  {
+    "name": "Let's Run Away",
+    "link": "https://music.163.com/song?id=408814022",
+    "duration": "03:06",
+    "artists": [
+      { "name": "Vexento", "link": "https://music.163.com/artist?id=12037010" }
+    ],
+    "album": {
+      "name": "Inspiration",
+      "link": "https://music.163.com/album?id=34594797"
+    }
+  },
+  {
+    "name": "Vauges",
+    "link": "https://music.163.com/song?id=1876730411",
+    "duration": "03:11",
+    "artists": [
+      { "name": "Yuncino", "link": "https://music.163.com/artist?id=32657320" }
+    ],
+    "album": {
+      "name": "Vauges",
+      "link": "https://music.163.com/album?id=132985995"
+    }
+  },
+  {
+    "name": "Hold Me",
+    "link": "https://music.163.com/song?id=1899791970",
+    "duration": "02:39",
+    "artists": [
+      {
+        "name": "Orjan Nilsen",
+        "link": "https://music.163.com/artist?id=41064"
+      }
+    ],
+    "album": {
+      "name": "Armada Music 2022",
+      "link": "https://music.163.com/album?id=136890347"
+    }
+  },
+  {
+    "name": "Love Your Life",
+    "link": "https://music.163.com/song?id=554110222",
+    "duration": "02:51",
+    "artists": [
+      { "name": "Klaas", "link": "https://music.163.com/artist?id=106210" }
+    ],
+    "album": {
+      "name": "Love Your Life",
+      "link": "https://music.163.com/album?id=38417639"
+    }
+  },
+  {
+    "name": "Into the Sea",
+    "link": "https://music.163.com/song?id=1365306313",
+    "duration": "03:06",
+    "artists": [
+      {
+        "name": "Wave Wave",
+        "link": "https://music.163.com/artist?id=12262095"
+      },
+      { "name": "Hilla", "link": "https://music.163.com/artist?id=13106679" }
+    ],
+    "album": {
+      "name": "Into the Sea",
+      "link": "https://music.163.com/album?id=79118879"
+    }
+  },
+  {
+    "name": "Stay Up (feat. Andie Nora)",
+    "link": "https://music.163.com/song?id=1449539620",
+    "duration": "02:21",
+    "artists": [
+      { "name": "Wallaby", "link": "https://music.163.com/artist?id=12086070" },
+      {
+        "name": "Andie Nora",
+        "link": "https://music.163.com/artist?id=33652885"
+      }
+    ],
+    "album": {
+      "name": "Stay Up (feat. Andie Nora)",
+      "link": "https://music.163.com/album?id=89710533"
+    }
+  },
+  {
+    "name": "Something Strange",
+    "link": "https://music.163.com/song?id=1320858202",
+    "duration": "03:09",
+    "artists": [
+      { "name": "Vicetone", "link": "https://music.163.com/artist?id=747030" },
+      {
+        "name": "Haley Reinhart",
+        "link": "https://music.163.com/artist?id=60315"
+      }
+    ],
+    "album": {
+      "name": "Something Strange ",
+      "link": "https://music.163.com/album?id=74120450"
+    }
+  },
+  {
+    "name": "Swing",
+    "link": "https://music.163.com/song?id=411907329",
+    "duration": "02:48",
+    "artists": [
+      { "name": "L3V3LS", "link": "https://music.163.com/artist?id=12007340" }
+    ],
+    "album": {
+      "name": "Swing",
+      "link": "https://music.163.com/album?id=34685406"
+    }
+  },
+  {
+    "name": "Shuttle",
+    "link": "https://music.163.com/song?id=1443669521",
+    "duration": "02:16",
+    "artists": [
+      { "name": "Zach", "link": "https://music.163.com/artist?id=34957479" }
+    ],
+    "album": {
+      "name": "Shuttle",
+      "link": "https://music.163.com/album?id=88546052"
+    }
+  },
+  {
+    "name": "Oblivion (Full Version)",
+    "link": "https://music.163.com/song?id=1433528165",
+    "duration": "03:32",
+    "artists": [
+      { "name": "Andreas B.", "link": "https://music.163.com/artist?id=299713" }
+    ],
+    "album": {
+      "name": "Oblivion (Full Version)",
+      "link": "https://music.163.com/album?id=86788082"
+    }
+  },
+  {
+    "name": "Catch My Breath",
+    "link": "https://music.163.com/song?id=1493052941",
+    "duration": "03:58",
+    "artists": [
+      { "name": "N3wport", "link": "https://music.163.com/artist?id=12408098" },
+      {
+        "name": "Leila Pari",
+        "link": "https://music.163.com/artist?id=12948022"
+      }
+    ],
+    "album": {
+      "name": "Catch My Breath",
+      "link": "https://music.163.com/album?id=97925366"
+    }
+  },
+  {
+    "name": "This Is The Life",
+    "link": "https://music.163.com/song?id=1451057131",
+    "duration": "03:11",
+    "artists": [
+      {
+        "name": "LittleKings",
+        "link": "https://music.163.com/artist?id=65385"
+      },
+      {
+        "name": "Kalkovich",
+        "link": "https://music.163.com/artist?id=35301772"
+      },
+      { "name": "Zoë Low", "link": "https://music.163.com/artist?id=34811817" }
+    ],
+    "album": {
+      "name": "This Is The Life",
+      "link": "https://music.163.com/album?id=89971032"
+    }
+  },
+  {
+    "name": "Crush (Oliver Nelson Remix)",
+    "link": "https://music.163.com/song?id=523046075",
+    "duration": "04:10",
+    "artists": [
+      {
+        "name": "Oliver Nelson",
+        "link": "https://music.163.com/artist?id=1181786"
+      },
+      {
+        "name": "Jazz Mino",
+        "link": "https://music.163.com/artist?id=12926025"
+      }
+    ],
+    "album": {
+      "name": "Crush (Oliver Nelson Remix)",
+      "link": "https://music.163.com/album?id=36941051"
+    }
+  },
+  {
+    "name": "Forever Young",
+    "link": "https://music.163.com/song?id=1296637878",
+    "duration": "02:47",
+    "artists": [
+      {
+        "name": "John De Sohn",
+        "link": "https://music.163.com/artist?id=290019"
+      },
+      { "name": "Liamoo", "link": "https://music.163.com/artist?id=12409114" }
+    ],
+    "album": {
+      "name": "Forever Young",
+      "link": "https://music.163.com/album?id=72021852"
+    }
+  },
+  {
+    "name": "Everything",
+    "link": "https://music.163.com/song?id=536624047",
+    "duration": "02:53",
+    "artists": [
+      { "name": "Firebeatz", "link": "https://music.163.com/artist?id=702005" },
+      {
+        "name": "Peppermint",
+        "link": "https://music.163.com/artist?id=12885527"
+      },
+      {
+        "name": "Aidan O'Brien",
+        "link": "https://music.163.com/artist?id=13372303"
+      }
+    ],
+    "album": {
+      "name": "Everything",
+      "link": "https://music.163.com/album?id=37577027"
+    }
+  },
+  {
+    "name": "Northern Light",
+    "link": "https://music.163.com/song?id=1459853712",
+    "duration": "03:19",
+    "artists": [
+      {
+        "name": "Newclaess",
+        "link": "https://music.163.com/artist?id=13335706"
+      }
+    ],
+    "album": {
+      "name": "Northern Light",
+      "link": "https://music.163.com/album?id=91873573"
+    }
+  },
+  {
+    "name": "For What It's Worth",
+    "link": "https://music.163.com/song?id=1406396085",
+    "duration": "02:52",
+    "artists": [
+      {
+        "name": "Tiggi Hawke",
+        "link": "https://music.163.com/artist?id=12047351"
+      },
+      { "name": "Sondr", "link": "https://music.163.com/artist?id=12023180" }
+    ],
+    "album": {
+      "name": "For What It's Worth",
+      "link": "https://music.163.com/album?id=83731961"
+    }
+  },
+  {
+    "name": "Just Love Me",
+    "link": "https://music.163.com/song?id=1375779130",
+    "duration": "03:27",
+    "artists": [
+      { "name": "Ostwolf", "link": "https://music.163.com/artist?id=12635281" },
+      { "name": "Elle Vee", "link": "https://music.163.com/artist?id=1046258" }
+    ],
+    "album": {
+      "name": "Just Love Me",
+      "link": "https://music.163.com/album?id=80200900"
+    }
+  },
+  {
+    "name": "Stand by Me",
+    "link": "https://music.163.com/song?id=1311826926",
+    "duration": "03:16",
+    "artists": [
+      {
+        "name": "Max Oazo",
+        "link": "https://music.163.com/artist?id=13159084"
+      },
+      { "name": "Cami", "link": "https://music.163.com/artist?id=283909" }
+    ],
+    "album": {
+      "name": "Stand by Me",
+      "link": "https://music.163.com/album?id=73534361"
+    }
+  },
+  {
+    "name": "Somebody",
+    "link": "https://music.163.com/song?id=479219365",
+    "duration": "03:29",
+    "artists": [
+      {
+        "name": "Lush & Simon",
+        "link": "https://music.163.com/artist?id=358207"
+      },
+      { "name": "IZII", "link": "https://music.163.com/artist?id=12154276" }
+    ],
+    "album": {
+      "name": "Somebody",
+      "link": "https://music.163.com/album?id=35535115"
+    }
+  },
+  {
+    "name": "S-Suuny",
+    "link": "https://music.163.com/song?id=1808531794",
+    "duration": "04:11",
+    "artists": [
+      { "name": "昼漾", "link": "https://music.163.com/artist?id=13607523" }
+    ],
+    "album": {
+      "name": "S-Suuny",
+      "link": "https://music.163.com/album?id=121042478"
+    }
+  },
+  {
+    "name": "Piece Of My Mind",
+    "link": "https://music.163.com/song?id=1833939510",
+    "duration": "02:57",
+    "artists": [
+      { "name": "Stadiumx", "link": "https://music.163.com/artist?id=1004052" },
+      { "name": "Maone", "link": "https://music.163.com/artist?id=12647083" },
+      {
+        "name": "Lukas MAX",
+        "link": "https://music.163.com/artist?id=35156836"
+      }
+    ],
+    "album": {
+      "name": "Piece Of My Mind",
+      "link": "https://music.163.com/album?id=125418123"
+    }
+  },
+  {
+    "name": "2019！(Instrumental)",
+    "link": "https://music.163.com/song?id=1344307036",
+    "duration": "02:18",
+    "artists": [
+      { "name": "李祥晖", "link": "https://music.163.com/artist?id=12483027" }
+    ],
+    "album": {
+      "name": "2019！(Instrumental)",
+      "link": "https://music.163.com/album?id=75421328"
+    }
+  },
+  {
+    "name": "One & Only",
+    "link": "https://music.163.com/song?id=1415761844",
+    "duration": "02:19",
+    "artists": [
+      {
+        "name": "The Tech Thieves",
+        "link": "https://music.163.com/artist?id=12080267"
+      }
+    ],
+    "album": {
+      "name": "The Red EP",
+      "link": "https://music.163.com/album?id=84646127"
+    }
+  },
+  {
+    "name": "Bye Bye (Midnight Kids Remix)",
+    "link": "https://music.163.com/song?id=1349213657",
+    "duration": "03:39",
+    "artists": [
+      { "name": "Gryffin", "link": "https://music.163.com/artist?id=1181504" },
+      {
+        "name": "Ivy Adara",
+        "link": "https://music.163.com/artist?id=12925126"
+      },
+      {
+        "name": "Midnight Kids",
+        "link": "https://music.163.com/artist?id=13192314"
+      }
+    ],
+    "album": {
+      "name": "Gravity Pt. 1 (Remixes) (Remixes)",
+      "link": "https://music.163.com/album?id=75738631"
+    }
+  },
+  {
+    "name": "Lost (As I Am)",
+    "link": "https://music.163.com/song?id=414691355",
+    "duration": "03:26",
+    "artists": [
+      {
+        "name": "Superwalkers",
+        "link": "https://music.163.com/artist?id=12048281"
+      }
+    ],
+    "album": {
+      "name": "Lost (As I Am)",
+      "link": "https://music.163.com/album?id=34700743"
+    }
+  },
+  {
+    "name": "Unsure",
+    "link": "https://music.163.com/song?id=497755691",
+    "duration": "03:58",
+    "artists": [
+      {
+        "name": "Sara Diamond",
+        "link": "https://music.163.com/artist?id=12011192"
+      }
+    ],
+    "album": {
+      "name": "Unsure",
+      "link": "https://music.163.com/album?id=35909772"
+    }
+  },
+  {
+    "name": "New Year",
+    "link": "https://music.163.com/song?id=1335676292",
+    "duration": "04:11",
+    "artists": [
+      { "name": "Dyako", "link": "https://music.163.com/artist?id=12291302" }
+    ],
+    "album": {
+      "name": "New Year",
+      "link": "https://music.163.com/album?id=74977178"
+    }
+  },
+  {
+    "name": "Renaissance",
+    "link": "https://music.163.com/song?id=39324743",
+    "duration": "02:57",
+    "artists": [
+      {
+        "name": "Steve James",
+        "link": "https://music.163.com/artist?id=43322"
+      },
+      { "name": "Clairity", "link": "https://music.163.com/artist?id=1060082" }
+    ],
+    "album": {
+      "name": "Renaissance",
+      "link": "https://music.163.com/album?id=3426877"
+    }
+  },
+  {
+    "name": "Afterglow (Bonus Track)",
+    "link": "https://music.163.com/song?id=426291389",
+    "duration": "03:38",
+    "artists": [
+      {
+        "name": "Lindsey Stirling",
+        "link": "https://music.163.com/artist?id=66225"
+      },
+      { "name": "Vicetone", "link": "https://music.163.com/artist?id=747030" }
+    ],
+    "album": {
+      "name": "Brave Enough (Deluxe Edition)",
+      "link": "https://music.163.com/album?id=34806274"
+    }
+  },
+  {
+    "name": "It'll Be Okay",
+    "link": "https://music.163.com/song?id=1899891256",
+    "duration": "03:42",
+    "artists": [
+      {
+        "name": "Shawn Mendes",
+        "link": "https://music.163.com/artist?id=956238"
+      }
+    ],
+    "album": {
+      "name": "It'll Be Okay",
+      "link": "https://music.163.com/album?id=136923358"
+    }
+  }
+]
