@@ -1,0 +1,532 @@
+[
+  {
+    "name": "Smoke Signals",
+    "link": "https://music.163.com/song?id=1881926939",
+    "duration": "03:16",
+    "artists": [
+      { "name": "Dabin", "link": "https://music.163.com/artist?id=783446" }
+    ],
+    "album": {
+      "name": "Between Broken",
+      "link": "https://music.163.com/album?id=133865923"
+    }
+  },
+  {
+    "name": "Where My Heart Goes (feat. KARRA)",
+    "link": "https://music.163.com/song?id=1832023066",
+    "duration": "03:01",
+    "artists": [
+      { "name": "AMIDY", "link": "https://music.163.com/artist?id=12203566" },
+      { "name": "Karra", "link": "https://music.163.com/artist?id=1081582" }
+    ],
+    "album": {
+      "name": "Where My Heart Goes (feat. KARRA)",
+      "link": "https://music.163.com/album?id=125049673"
+    }
+  },
+  {
+    "name": "Wasted Love",
+    "link": "https://music.163.com/song?id=1475325268",
+    "duration": "02:50",
+    "artists": [
+      {
+        "name": "Nightcall",
+        "link": "https://music.163.com/artist?id=47992839"
+      },
+      {
+        "name": "Karma Child",
+        "link": "https://music.163.com/artist?id=36616274"
+      },
+      { "name": "Gia Koka", "link": "https://music.163.com/artist?id=12203281" }
+    ],
+    "album": {
+      "name": "Wasted Love",
+      "link": "https://music.163.com/album?id=94715066"
+    }
+  },
+  {
+    "name": "Running After Us",
+    "link": "https://music.163.com/song?id=1817299988",
+    "duration": "03:36",
+    "artists": [
+      { "name": "Yetep", "link": "https://music.163.com/artist?id=12356399" },
+      {
+        "name": "Nick Ledesma",
+        "link": "https://music.163.com/artist?id=12247032"
+      },
+      { "name": "Exede", "link": "https://music.163.com/artist?id=13059879" }
+    ],
+    "album": {
+      "name": "Running After Us",
+      "link": "https://music.163.com/album?id=122500447"
+    }
+  },
+  {
+    "name": "1000 More Suns",
+    "link": "https://music.163.com/song?id=1899790264",
+    "duration": "04:24",
+    "artists": [
+      { "name": "Chicane", "link": "https://music.163.com/artist?id=50971" },
+      {
+        "name": "Joseph Aquilina",
+        "link": "https://music.163.com/artist?id=14849160"
+      }
+    ],
+    "album": {
+      "name": "Armada Music 2022",
+      "link": "https://music.163.com/album?id=136890347"
+    }
+  },
+  {
+    "name": "10,000 Feet",
+    "link": "https://music.163.com/song?id=1446201045",
+    "duration": "02:40",
+    "artists": [
+      { "name": "INViDA", "link": "https://music.163.com/artist?id=33196292" },
+      {
+        "name": "Robbie Rosen",
+        "link": "https://music.163.com/artist?id=14143678"
+      }
+    ],
+    "album": {
+      "name": "10,000 Feet",
+      "link": "https://music.163.com/album?id=89084227"
+    }
+  },
+  {
+    "name": "Sound of Where'd U Go",
+    "link": "https://music.163.com/song?id=573581353",
+    "duration": "03:20",
+    "artists": [
+      { "name": "ILLENIUM", "link": "https://music.163.com/artist?id=1050518" },
+      {
+        "name": "Said The Sky",
+        "link": "https://music.163.com/artist?id=1026094"
+      },
+      { "name": "1788-L", "link": "https://music.163.com/artist?id=13579058" },
+      { "name": "Kerli", "link": "https://music.163.com/artist?id=62916" }
+    ],
+    "album": {
+      "name": "Awake (Remixes)",
+      "link": "https://music.163.com/album?id=39721087"
+    }
+  },
+  {
+    "name": "Don't Hide",
+    "link": "https://music.163.com/song?id=862098862",
+    "duration": "02:37",
+    "artists": [
+      {
+        "name": "Mike Perry",
+        "link": "https://music.163.com/artist?id=195021"
+      },
+      {
+        "name": "Willemijn May",
+        "link": "https://music.163.com/artist?id=28837389"
+      }
+    ],
+    "album": {
+      "name": "Don't Hide",
+      "link": "https://music.163.com/album?id=71614860"
+    }
+  },
+  {
+    "name": "I Won't Lie",
+    "link": "https://music.163.com/song?id=1342819249",
+    "duration": "03:11",
+    "artists": [
+      {
+        "name": "Skye Holland",
+        "link": "https://music.163.com/artist?id=12356427"
+      },
+      { "name": "BRDGS", "link": "https://music.163.com/artist?id=12841815" }
+    ],
+    "album": {
+      "name": "I Won't Lie",
+      "link": "https://music.163.com/album?id=75366661"
+    }
+  },
+  {
+    "name": "Beautiful Life",
+    "link": "https://music.163.com/song?id=1300470266",
+    "duration": "03:25",
+    "artists": [
+      {
+        "name": "Disco Killerz",
+        "link": "https://music.163.com/artist?id=1132334"
+      },
+      {
+        "name": "Delaney Jane",
+        "link": "https://music.163.com/artist?id=1132286"
+      },
+      {
+        "name": "Sarah Charness",
+        "link": "https://music.163.com/artist?id=28733699"
+      }
+    ],
+    "album": {
+      "name": "Beautiful Life",
+      "link": "https://music.163.com/album?id=72232316"
+    }
+  },
+  {
+    "name": "Aurora",
+    "link": "https://music.163.com/song?id=1492079154",
+    "duration": "02:44",
+    "artists": [
+      { "name": "K-391", "link": "https://music.163.com/artist?id=1049937" },
+      { "name": "RØRY", "link": "https://music.163.com/artist?id=28774080" }
+    ],
+    "album": {
+      "name": "Aurora",
+      "link": "https://music.163.com/album?id=97724461"
+    }
+  },
+  {
+    "name": "Hypnotized",
+    "link": "https://music.163.com/song?id=520460303",
+    "duration": "03:18",
+    "artists": [
+      { "name": "DEAMN", "link": "https://music.163.com/artist?id=12047335" }
+    ],
+    "album": {
+      "name": "Hypnotized",
+      "link": "https://music.163.com/album?id=36856076"
+    }
+  },
+  {
+    "name": "Be Together",
+    "link": "https://music.163.com/song?id=464377999",
+    "duration": "03:33",
+    "artists": [
+      { "name": "Zaza", "link": "https://music.163.com/artist?id=12141075" }
+    ],
+    "album": {
+      "name": "Be Together",
+      "link": "https://music.163.com/album?id=35256539"
+    }
+  },
+  {
+    "name": "Strongest (Bogen Remix)",
+    "link": "https://music.163.com/song?id=528273377",
+    "duration": "02:54",
+    "artists": [
+      { "name": "Bogen", "link": "https://music.163.com/artist?id=12263183" },
+      {
+        "name": "Ina Wroldsen",
+        "link": "https://music.163.com/artist?id=60879"
+      }
+    ],
+    "album": {
+      "name": "Strongest (Bogen Remix)",
+      "link": "https://music.163.com/album?id=37175129"
+    }
+  },
+  {
+    "name": "All for Love",
+    "link": "https://music.163.com/song?id=1313089514",
+    "duration": "03:43",
+    "artists": [
+      { "name": "Sigala", "link": "https://music.163.com/artist?id=1124282" },
+      { "name": "Kodaline", "link": "https://music.163.com/artist?id=727007" }
+    ],
+    "album": {
+      "name": "Brighter Days",
+      "link": "https://music.163.com/album?id=73647309"
+    }
+  },
+  {
+    "name": "Light Up The Sky (feat. Scott Stapp)",
+    "link": "https://music.163.com/song?id=1884116655",
+    "duration": "04:44",
+    "artists": [
+      { "name": "Wooli", "link": "https://music.163.com/artist?id=12203238" },
+      { "name": "Trivecta", "link": "https://music.163.com/artist?id=954338" },
+      { "name": "Scott Stapp", "link": "https://music.163.com/artist?id=76641" }
+    ],
+    "album": {
+      "name": "Light Up The Sky (feat. Scott Stapp)",
+      "link": "https://music.163.com/album?id=134248654"
+    }
+  },
+  {
+    "name": "Dive",
+    "link": "https://music.163.com/song?id=1410797102",
+    "duration": "02:44",
+    "artists": [
+      {
+        "name": "Hot Shade",
+        "link": "https://music.163.com/artist?id=12197226"
+      },
+      {
+        "name": "Mike Perry",
+        "link": "https://music.163.com/artist?id=195021"
+      },
+      {
+        "name": "Chris James",
+        "link": "https://music.163.com/artist?id=145038"
+      }
+    ],
+    "album": {
+      "name": "Dive",
+      "link": "https://music.163.com/album?id=84236606"
+    }
+  },
+  {
+    "name": "Homesick (feat. SOUNDR)",
+    "link": "https://music.163.com/song?id=1835265180",
+    "duration": "05:28",
+    "artists": [
+      { "name": "MitiS", "link": "https://music.163.com/artist?id=40245" },
+      { "name": "Soundr", "link": "https://music.163.com/artist?id=14426581" }
+    ],
+    "album": {
+      "name": "Lost",
+      "link": "https://music.163.com/album?id=125636092"
+    }
+  },
+  {
+    "name": "猫雨夏",
+    "link": "https://music.163.com/song?id=1858933540",
+    "duration": "02:56",
+    "artists": [
+      {
+        "name": "HopeBoy阳花",
+        "link": "https://music.163.com/artist?id=12851419"
+      },
+      {
+        "name": "Beccaberry",
+        "link": "https://music.163.com/artist?id=34601632"
+      }
+    ],
+    "album": {
+      "name": "猫雨夏",
+      "link": "https://music.163.com/album?id=129967402"
+    }
+  },
+  {
+    "name": "下沉",
+    "link": "https://music.163.com/song?id=1813913604",
+    "duration": "03:22",
+    "artists": [
+      { "name": "何羽阁", "link": "https://music.163.com/artist?id=46555490" },
+      { "name": "白鸿", "link": "https://music.163.com/artist?id=31008744" }
+    ],
+    "album": {
+      "name": "下沉",
+      "link": "https://music.163.com/album?id=121904397"
+    }
+  },
+  {
+    "name": "Never Let Go",
+    "link": "https://music.163.com/song?id=1834761366",
+    "duration": "03:15",
+    "artists": [
+      {
+        "name": "Plastik Funk",
+        "link": "https://music.163.com/artist?id=131444"
+      },
+      {
+        "name": "Sickrate",
+        "link": "https://music.163.com/artist?id=32795333"
+      },
+      { "name": "Rentz", "link": "https://music.163.com/artist?id=12628381" },
+      { "name": "Repiet", "link": "https://music.163.com/artist?id=34935798" }
+    ],
+    "album": {
+      "name": "Tribute To Asia EP",
+      "link": "https://music.163.com/album?id=125567393"
+    }
+  },
+  {
+    "name": "Not Afraid",
+    "link": "https://music.163.com/song?id=1866403718",
+    "duration": "02:42",
+    "artists": [
+      { "name": "OVSKY", "link": "https://music.163.com/artist?id=36560569" }
+    ],
+    "album": {
+      "name": "Not Afraid",
+      "link": "https://music.163.com/album?id=131273034"
+    }
+  },
+  {
+    "name": "再见",
+    "link": "https://music.163.com/song?id=36024806",
+    "duration": "03:26",
+    "artists": [
+      { "name": "G.E.M.邓紫棋", "link": "https://music.163.com/artist?id=7763" }
+    ],
+    "album": {
+      "name": "新的心跳",
+      "link": "https://music.163.com/album?id=3189002"
+    }
+  },
+  {
+    "name": "温软宇宙 (Acoustic)",
+    "link": "https://music.163.com/song?id=1420513085",
+    "duration": "03:20",
+    "artists": [
+      {
+        "name": "张天奕ZTYick",
+        "link": "https://music.163.com/artist?id=12304366"
+      },
+      {
+        "name": "Yurium幼里安",
+        "link": "https://music.163.com/artist?id=31374204"
+      }
+    ],
+    "album": {
+      "name": "温软宇宙 (Acoustic)",
+      "link": "https://music.163.com/album?id=85393255"
+    }
+  },
+  {
+    "name": "Naked (Syn Cole Remix)",
+    "link": "https://music.163.com/song?id=1474577437",
+    "duration": "03:00",
+    "artists": [
+      {
+        "name": "Jonas Blue",
+        "link": "https://music.163.com/artist?id=1192069"
+      },
+      { "name": "MAX", "link": "https://music.163.com/artist?id=759100" },
+      { "name": "Syn Cole", "link": "https://music.163.com/artist?id=854432" }
+    ],
+    "album": {
+      "name": "Naked (Syn Cole Remix)",
+      "link": "https://music.163.com/album?id=94596607"
+    }
+  },
+  {
+    "name": "Shockwave",
+    "link": "https://music.163.com/song?id=1330767967",
+    "duration": "04:09",
+    "artists": [
+      { "name": "Feint", "link": "https://music.163.com/artist?id=93062" },
+      {
+        "name": "Heather Sommer",
+        "link": "https://music.163.com/artist?id=13134228"
+      }
+    ],
+    "album": {
+      "name": "Shockwave",
+      "link": "https://music.163.com/album?id=74732634"
+    }
+  },
+  {
+    "name": "I'm Sorry",
+    "link": "https://music.163.com/song?id=1341512868",
+    "duration": "02:57",
+    "artists": [
+      { "name": "Jonth", "link": "https://music.163.com/artist?id=12636028" }
+    ],
+    "album": {
+      "name": "I'm Sorry",
+      "link": "https://music.163.com/album?id=75292064"
+    }
+  },
+  {
+    "name": "Anywhere (feat. shYbeast, PLYA)",
+    "link": "https://music.163.com/song?id=1813214938",
+    "duration": "04:47",
+    "artists": [
+      { "name": "SLANDER", "link": "https://music.163.com/artist?id=1137239" },
+      { "name": "Au5", "link": "https://music.163.com/artist?id=359309" },
+      {
+        "name": "shYbeast",
+        "link": "https://music.163.com/artist?id=32469588"
+      },
+      { "name": "PLYA", "link": "https://music.163.com/artist?id=13160073" }
+    ],
+    "album": {
+      "name": "Anywhere (feat. shYbeast, PLYA)",
+      "link": "https://music.163.com/album?id=121835555"
+    }
+  },
+  {
+    "name": "Real Me",
+    "link": "https://music.163.com/song?id=1804474230",
+    "duration": "03:39",
+    "artists": [
+      { "name": "Man Cub", "link": "https://music.163.com/artist?id=30816484" },
+      {
+        "name": "Meggie York",
+        "link": "https://music.163.com/artist?id=31420777"
+      }
+    ],
+    "album": {
+      "name": "Real Me",
+      "link": "https://music.163.com/album?id=120442779"
+    }
+  },
+  {
+    "name": "The Best Thing",
+    "link": "https://music.163.com/song?id=29304742",
+    "duration": "03:53",
+    "artists": [
+      {
+        "name": "Electric Youth",
+        "link": "https://music.163.com/artist?id=658235"
+      }
+    ],
+    "album": {
+      "name": "Innerworld",
+      "link": "https://music.163.com/album?id=2998213"
+    }
+  },
+  {
+    "name": "STFD",
+    "link": "https://music.163.com/song?id=454435829",
+    "duration": "03:46",
+    "artists": [
+      {
+        "name": "TeZATalks",
+        "link": "https://music.163.com/artist?id=12011097"
+      }
+    ],
+    "album": {
+      "name": "STFD",
+      "link": "https://music.163.com/album?id=35138093"
+    }
+  },
+  {
+    "name": "3HOURS",
+    "link": "https://music.163.com/song?id=1347161674",
+    "duration": "04:03",
+    "artists": [
+      {
+        "name": "CloudNone",
+        "link": "https://music.163.com/artist?id=28407606"
+      }
+    ],
+    "album": {
+      "name": "Midnight Underground",
+      "link": "https://music.163.com/album?id=75634741"
+    }
+  },
+  {
+    "name": "Never Say Die",
+    "link": "https://music.163.com/song?id=548103539",
+    "duration": "04:23",
+    "artists": [
+      { "name": "CHVRCHES", "link": "https://music.163.com/artist?id=694027" }
+    ],
+    "album": {
+      "name": "Love Is Dead",
+      "link": "https://music.163.com/album?id=39596019"
+    }
+  },
+  {
+    "name": "クリスマスの夜に",
+    "link": "https://music.163.com/song?id=1901527040",
+    "duration": "03:03",
+    "artists": [
+      { "name": "GReeeeN", "link": "https://music.163.com/artist?id=19550" }
+    ],
+    "album": {
+      "name": "クリスマスの夜に",
+      "link": "https://music.163.com/album?id=137168114"
+    }
+  }
+]
