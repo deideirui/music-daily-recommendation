@@ -1,0 +1,512 @@
+[
+  {
+    "name": "Feel Only Love",
+    "link": "https://music.163.com/song?id=1852473633",
+    "duration": "02:31",
+    "artists": [
+      { "name": "Klaas", "link": "https://music.163.com/artist?id=106210" },
+      {
+        "name": "Mister Ruiz",
+        "link": "https://music.163.com/artist?id=37468617"
+      }
+    ],
+    "album": {
+      "name": "Feel Only Love",
+      "link": "https://music.163.com/album?id=128844052"
+    }
+  },
+  {
+    "name": "Devotion",
+    "link": "https://music.163.com/song?id=542667073",
+    "duration": "03:59",
+    "artists": [
+      { "name": "Vexento", "link": "https://music.163.com/artist?id=12037010" }
+    ],
+    "album": {
+      "name": "Devotion",
+      "link": "https://music.163.com/album?id=37829016"
+    }
+  },
+  {
+    "name": "Yesterday",
+    "link": "https://music.163.com/song?id=1415347924",
+    "duration": "03:19",
+    "artists": [
+      {
+        "name": "Gareth Emery",
+        "link": "https://music.163.com/artist?id=34318"
+      },
+      { "name": "Nash", "link": "https://music.163.com/artist?id=954213" },
+      { "name": "Linney", "link": "https://music.163.com/artist?id=1193247" }
+    ],
+    "album": {
+      "name": "Yesterday",
+      "link": "https://music.163.com/album?id=84853541"
+    }
+  },
+  {
+    "name": "Would You Wait for Me",
+    "link": "https://music.163.com/song?id=1443118014",
+    "duration": "03:47",
+    "artists": [
+      { "name": "Max Oazo", "link": "https://music.163.com/artist?id=13159084" }
+    ],
+    "album": {
+      "name": "Would You Wait for Me",
+      "link": "https://music.163.com/album?id=88479967"
+    }
+  },
+  {
+    "name": "White Sand (Extended Mix)",
+    "link": "https://music.163.com/song?id=1901748302",
+    "duration": "06:15",
+    "artists": [
+      {
+        "name": "Sunlight Project",
+        "link": "https://music.163.com/artist?id=858214"
+      }
+    ],
+    "album": {
+      "name": "Sunlight Tunes 2021",
+      "link": "https://music.163.com/album?id=137197918"
+    }
+  },
+  {
+    "name": "Don't Blame",
+    "link": "https://music.163.com/song?id=1321604070",
+    "duration": "03:16",
+    "artists": [
+      { "name": "Diviners", "link": "https://music.163.com/artist?id=1192136" },
+      {
+        "name": "Nostalg1a",
+        "link": "https://music.163.com/artist?id=30536977"
+      }
+    ],
+    "album": {
+      "name": "Don't Blame",
+      "link": "https://music.163.com/album?id=74165438"
+    }
+  },
+  {
+    "name": "Opus",
+    "link": "https://music.163.com/song?id=33294788",
+    "duration": "09:03",
+    "artists": [
+      { "name": "Eric Prydz", "link": "https://music.163.com/artist?id=32983" }
+    ],
+    "album": {
+      "name": "Opus",
+      "link": "https://music.163.com/album?id=3197342"
+    }
+  },
+  {
+    "name": "Masih Mencintainya (DJ Version)",
+    "link": "https://music.163.com/song?id=1444413731",
+    "duration": "05:32",
+    "artists": [
+      { "name": "Papinka", "link": "https://music.163.com/artist?id=12713248" }
+    ],
+    "album": {
+      "name": "Masih Mencintainya DJ",
+      "link": "https://music.163.com/album?id=88721721"
+    }
+  },
+  {
+    "name": "Inspire",
+    "link": "https://music.163.com/song?id=1425876336",
+    "duration": "03:10",
+    "artists": [
+      { "name": "Melvyn", "link": "https://music.163.com/artist?id=33465241" }
+    ],
+    "album": {
+      "name": "Inspire",
+      "link": "https://music.163.com/album?id=85969176"
+    }
+  },
+  {
+    "name": "Insurgence",
+    "link": "https://music.163.com/song?id=1357621728",
+    "duration": "04:20",
+    "artists": [
+      {
+        "name": "Jim Yosef",
+        "link": "https://music.163.com/artist?id=1063121"
+      },
+      { "name": "Starlyte", "link": "https://music.163.com/artist?id=12006394" }
+    ],
+    "album": {
+      "name": "Insurgence",
+      "link": "https://music.163.com/album?id=78399461"
+    }
+  },
+  {
+    "name": "Into Your Arms",
+    "link": "https://music.163.com/song?id=1375501302",
+    "duration": "03:07",
+    "artists": [
+      { "name": "KXA", "link": "https://music.163.com/artist?id=12024508" },
+      { "name": "chӕ", "link": "https://music.163.com/artist?id=32981875" }
+    ],
+    "album": {
+      "name": "Into Your Arms",
+      "link": "https://music.163.com/album?id=80154740"
+    }
+  },
+  {
+    "name": "Oceans & Galaxies",
+    "link": "https://music.163.com/song?id=1834198476",
+    "duration": "03:20",
+    "artists": [
+      { "name": "Jauz", "link": "https://music.163.com/artist?id=975344" },
+      { "name": "HALIENE", "link": "https://music.163.com/artist?id=13202710" }
+    ],
+    "album": {
+      "name": "Oceans & Galaxies",
+      "link": "https://music.163.com/album?id=125471009"
+    }
+  },
+  {
+    "name": "Lost & Found (Original Mix)",
+    "link": "https://music.163.com/song?id=1399770854",
+    "duration": "03:11",
+    "artists": [
+      {
+        "name": "Roman Messer",
+        "link": "https://music.163.com/artist?id=905394"
+      },
+      {
+        "name": "Roxanne Emery",
+        "link": "https://music.163.com/artist?id=74561"
+      }
+    ],
+    "album": {
+      "name": "Suanda Music Radio Top 25 (October / November 2019)",
+      "link": "https://music.163.com/album?id=82810229"
+    }
+  },
+  {
+    "name": "Skydance",
+    "link": "https://music.163.com/song?id=1839284954",
+    "duration": "02:46",
+    "artists": [
+      { "name": "W&W", "link": "https://music.163.com/artist?id=46131" },
+      { "name": "AXMO", "link": "https://music.163.com/artist?id=31155422" },
+      { "name": "Giin", "link": "https://music.163.com/artist?id=14138875" }
+    ],
+    "album": {
+      "name": "Skydance",
+      "link": "https://music.163.com/album?id=126366144"
+    }
+  },
+  {
+    "name": "Never Look Back (Skydrops Remix)",
+    "link": "https://music.163.com/song?id=1346050333",
+    "duration": "03:18",
+    "artists": [
+      {
+        "name": "Tom & Jame",
+        "link": "https://music.163.com/artist?id=975137"
+      },
+      {
+        "name": "Alice Berg",
+        "link": "https://music.163.com/artist?id=13202706"
+      },
+      {
+        "name": "Revealed Recordings",
+        "link": "https://music.163.com/artist?id=28753573"
+      }
+    ],
+    "album": {
+      "name": "Never Look Back (The Remixes)",
+      "link": "https://music.163.com/album?id=75556726"
+    }
+  },
+  {
+    "name": "Twenty Something",
+    "link": "https://music.163.com/song?id=1371704145",
+    "duration": "04:37",
+    "artists": [
+      { "name": "Nightly", "link": "https://music.163.com/artist?id=12107608" }
+    ],
+    "album": {
+      "name": "Talk You Down",
+      "link": "https://music.163.com/album?id=79785920"
+    }
+  },
+  {
+    "name": "Play With Fire",
+    "link": "https://music.163.com/song?id=1842124866",
+    "duration": "03:13",
+    "artists": [
+      { "name": "Oliverse", "link": "https://music.163.com/artist?id=1144018" }
+    ],
+    "album": {
+      "name": "Play With Fire",
+      "link": "https://music.163.com/album?id=126852342"
+    }
+  },
+  {
+    "name": "L'Amour Toujours (Tiesto Radio Edit)",
+    "link": "https://music.163.com/song?id=507983352",
+    "duration": "02:42",
+    "artists": [
+      {
+        "name": "Dzeko & Torres",
+        "link": "https://music.163.com/artist?id=282072"
+      },
+      {
+        "name": "Delaney Jane",
+        "link": "https://music.163.com/artist?id=1132286"
+      }
+    ],
+    "album": {
+      "name": "L'Amour Toujours",
+      "link": "https://music.163.com/album?id=36324628"
+    }
+  },
+  {
+    "name": "No Doubt",
+    "link": "https://music.163.com/song?id=489997552",
+    "duration": "03:12",
+    "artists": [
+      {
+        "name": "Rogers & Dean",
+        "link": "https://music.163.com/artist?id=12503117"
+      }
+    ],
+    "album": {
+      "name": "No Doubt",
+      "link": "https://music.163.com/album?id=35745132"
+    }
+  },
+  {
+    "name": "对你上瘾 (TurtleDove斑鸠 Remix)",
+    "link": "https://music.163.com/song?id=1323304479",
+    "duration": "04:18",
+    "artists": [
+      {
+        "name": "TurtleDove斑鸠",
+        "link": "https://music.163.com/artist?id=12283168"
+      },
+      {
+        "name": "OneCandy",
+        "link": "https://music.163.com/artist?id=12286389"
+      },
+      { "name": "谢雨纯", "link": "https://music.163.com/artist?id=12605484" },
+      { "name": "Amaj", "link": "https://music.163.com/artist?id=12118628" }
+    ],
+    "album": {
+      "name": "对你上瘾FULL EP",
+      "link": "https://music.163.com/album?id=74268773"
+    }
+  },
+  {
+    "name": "4038",
+    "link": "https://music.163.com/song?id=1406885246",
+    "duration": "03:50",
+    "artists": [
+      {
+        "name": "JuggShots",
+        "link": "https://music.163.com/artist?id=13005262"
+      },
+      { "name": "夏璃夜", "link": "https://music.163.com/artist?id=12236114" },
+      {
+        "name": "Reggie Yang",
+        "link": "https://music.163.com/artist?id=12605071"
+      },
+      { "name": "RADI8", "link": "https://music.163.com/artist?id=28071541" }
+    ],
+    "album": {
+      "name": "4038",
+      "link": "https://music.163.com/album?id=83776771"
+    }
+  },
+  {
+    "name": "End Like This (Arknights Soundtrack) - (游戏《明日方舟》原声)",
+    "link": "https://music.163.com/song?id=1807756571",
+    "duration": "03:20",
+    "artists": [
+      { "name": "Steve Aoki", "link": "https://music.163.com/artist?id=43608" },
+      {
+        "name": "Yellow Claw",
+        "link": "https://music.163.com/artist?id=832880"
+      },
+      { "name": "RUNN", "link": "https://music.163.com/artist?id=15237536" }
+    ],
+    "album": {
+      "name": "End Like This",
+      "link": "https://music.163.com/album?id=120947253"
+    }
+  },
+  {
+    "name": "Power",
+    "link": "https://music.163.com/song?id=1452654249",
+    "duration": "03:31",
+    "artists": [
+      { "name": "Interupt", "link": "https://music.163.com/artist?id=33917936" }
+    ],
+    "album": {
+      "name": "Power",
+      "link": "https://music.163.com/album?id=90274100"
+    }
+  },
+  {
+    "name": "Nevada",
+    "link": "https://music.163.com/song?id=447281026",
+    "duration": "03:28",
+    "artists": [
+      { "name": "Vicetone", "link": "https://music.163.com/artist?id=747030" },
+      {
+        "name": "Cozi Zuehlsdorff",
+        "link": "https://music.163.com/artist?id=1097153"
+      }
+    ],
+    "album": {
+      "name": "Monstercat - Best of 2016",
+      "link": "https://music.163.com/album?id=35012884"
+    }
+  },
+  {
+    "name": "Make You Cry",
+    "link": "https://music.163.com/song?id=1846051695",
+    "duration": "04:13",
+    "artists": [
+      { "name": "Au5", "link": "https://music.163.com/artist?id=359309" },
+      { "name": "RUNN", "link": "https://music.163.com/artist?id=15237536" }
+    ],
+    "album": {
+      "name": "Make You Cry",
+      "link": "https://music.163.com/album?id=127624936"
+    }
+  },
+  {
+    "name": "Relax",
+    "link": "https://music.163.com/song?id=1439181436",
+    "duration": "02:29",
+    "artists": [
+      {
+        "name": "Junona Boys",
+        "link": "https://music.163.com/artist?id=34128793"
+      }
+    ],
+    "album": {
+      "name": "Relax",
+      "link": "https://music.163.com/album?id=87830531"
+    }
+  },
+  {
+    "name": "In the Shadows",
+    "link": "https://music.163.com/song?id=524913814",
+    "duration": "04:23",
+    "artists": [
+      { "name": "Amy Stroup", "link": "https://music.163.com/artist?id=48088" }
+    ],
+    "album": {
+      "name": "In the Shadows",
+      "link": "https://music.163.com/album?id=36997105"
+    }
+  },
+  {
+    "name": "Till It Hurts (LNY TNZ Remix)",
+    "link": "https://music.163.com/song?id=31284953",
+    "duration": "04:04",
+    "artists": [
+      {
+        "name": "Yellow Claw",
+        "link": "https://music.163.com/artist?id=832880"
+      },
+      { "name": "Ayden", "link": "https://music.163.com/artist?id=465603" },
+      { "name": "LNY TNZ", "link": "https://music.163.com/artist?id=1039647" }
+    ],
+    "album": {
+      "name": "Till It Hurts (The Remixes)",
+      "link": "https://music.163.com/album?id=3111486"
+    }
+  },
+  {
+    "name": "you know you are my main character (Prod.Moon)",
+    "link": "https://music.163.com/song?id=1874908429",
+    "duration": "02:22",
+    "artists": [
+      {
+        "name": "Wattpadboi",
+        "link": "https://music.163.com/artist?id=49303729"
+      }
+    ],
+    "album": {
+      "name": "Vol 1: My Empty Container",
+      "link": "https://music.163.com/album?id=132679954"
+    }
+  },
+  {
+    "name": "Strawberry (don't say goodnight)",
+    "link": "https://music.163.com/song?id=1891405042",
+    "duration": "03:39",
+    "artists": [
+      { "name": "E.C.", "link": "https://music.163.com/artist?id=49608357" }
+    ],
+    "album": {
+      "name": "Strawberry (don't say goodnight)",
+      "link": "https://music.163.com/album?id=135512631"
+    }
+  },
+  {
+    "name": "Go Solo",
+    "link": "https://music.163.com/song?id=1401522756",
+    "duration": "03:12",
+    "artists": [
+      { "name": "Zwette", "link": "https://music.163.com/artist?id=1050358" },
+      {
+        "name": "Tom Rosenthal",
+        "link": "https://music.163.com/artist?id=1019769"
+      }
+    ],
+    "album": {
+      "name": "Go Solo",
+      "link": "https://music.163.com/album?id=83053052"
+    }
+  },
+  {
+    "name": "Morsmordre - (莫斯莫多)",
+    "link": "https://music.163.com/song?id=1441860073",
+    "duration": "03:37",
+    "artists": [
+      {
+        "name": "Crazy Donkey",
+        "link": "https://music.163.com/artist?id=32720055"
+      }
+    ],
+    "album": {
+      "name": "Morsmordre",
+      "link": "https://music.163.com/album?id=87892453"
+    }
+  },
+  {
+    "name": "Monster",
+    "link": "https://music.163.com/song?id=1359232607",
+    "duration": "02:34",
+    "artists": [
+      { "name": "LUM!X", "link": "https://music.163.com/artist?id=13194124" },
+      { "name": "Gabry Ponte", "link": "https://music.163.com/artist?id=34214" }
+    ],
+    "album": {
+      "name": "Monster",
+      "link": "https://music.163.com/album?id=78553625"
+    }
+  },
+  {
+    "name": "Used To You",
+    "link": "https://music.163.com/song?id=1895513818",
+    "duration": "02:59",
+    "artists": [
+      {
+        "name": "Chris James",
+        "link": "https://music.163.com/artist?id=145038"
+      }
+    ],
+    "album": {
+      "name": "Used To You",
+      "link": "https://music.163.com/album?id=136207982"
+    }
+  }
+]
