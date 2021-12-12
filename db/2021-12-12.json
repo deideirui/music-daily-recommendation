@@ -1,0 +1,503 @@
+[
+  {
+    "name": "New Fate",
+    "link": "https://music.163.com/song?id=1378617831",
+    "duration": "03:17",
+    "artists": [
+      { "name": "Arston", "link": "https://music.163.com/artist?id=776576" },
+      { "name": "LUX (US)", "link": "https://music.163.com/artist?id=35049288" }
+    ],
+    "album": {
+      "name": "New Fate",
+      "link": "https://music.163.com/album?id=80455339"
+    }
+  },
+  {
+    "name": "Do Better",
+    "link": "https://music.163.com/song?id=1811840620",
+    "duration": "03:06",
+    "artists": [
+      { "name": "Feint", "link": "https://music.163.com/artist?id=93062" }
+    ],
+    "album": {
+      "name": "Do Better",
+      "link": "https://music.163.com/album?id=121616072"
+    }
+  },
+  {
+    "name": "Spark",
+    "link": "https://music.163.com/song?id=1385757372",
+    "duration": "02:43",
+    "artists": [
+      { "name": "MOTi", "link": "https://music.163.com/artist?id=366384" },
+      {
+        "name": "Fly By Midnight",
+        "link": "https://music.163.com/artist?id=1163027"
+      }
+    ],
+    "album": {
+      "name": "Spark",
+      "link": "https://music.163.com/album?id=81076372"
+    }
+  },
+  {
+    "name": "Don't Give Up On Me Now",
+    "link": "https://music.163.com/song?id=1359014637",
+    "duration": "02:07",
+    "artists": [
+      { "name": "R3HAB", "link": "https://music.163.com/artist?id=197248" },
+      {
+        "name": "Julie Bergan",
+        "link": "https://music.163.com/artist?id=896964"
+      }
+    ],
+    "album": {
+      "name": "Don't Give Up On Me Now",
+      "link": "https://music.163.com/album?id=78523516"
+    }
+  },
+  {
+    "name": "Fine Line",
+    "link": "https://music.163.com/song?id=1901748303",
+    "duration": "07:01",
+    "artists": [
+      {
+        "name": "Sunlight Project",
+        "link": "https://music.163.com/artist?id=858214"
+      }
+    ],
+    "album": {
+      "name": "Sunlight Tunes 2021",
+      "link": "https://music.163.com/album?id=137197918"
+    }
+  },
+  {
+    "name": "Phoenix",
+    "link": "https://music.163.com/song?id=1863541743",
+    "duration": "03:58",
+    "artists": [
+      { "name": "Netrum", "link": "https://music.163.com/artist?id=12042012" },
+      { "name": "Halvorsen", "link": "https://music.163.com/artist?id=1081367" }
+    ],
+    "album": {
+      "name": "Phoenix",
+      "link": "https://music.163.com/album?id=130804085"
+    }
+  },
+  {
+    "name": "Beethoven's 5 Secrets",
+    "link": "https://music.163.com/song?id=19579117",
+    "duration": "05:09",
+    "artists": [
+      {
+        "name": "The Piano Guys",
+        "link": "https://music.163.com/artist?id=99093"
+      }
+    ],
+    "album": {
+      "name": "Beethoven's 5 Secrets",
+      "link": "https://music.163.com/album?id=1804059"
+    }
+  },
+  {
+    "name": "Midnight (Vicetone Remix)",
+    "link": "https://music.163.com/song?id=1474574157",
+    "duration": "03:28",
+    "artists": [
+      { "name": "Alesso", "link": "https://music.163.com/artist?id=29251" },
+      {
+        "name": "Liam Payne",
+        "link": "https://music.163.com/artist?id=12073104"
+      },
+      { "name": "Vicetone", "link": "https://music.163.com/artist?id=747030" }
+    ],
+    "album": {
+      "name": "Midnight (The Remixes)",
+      "link": "https://music.163.com/album?id=94597326"
+    }
+  },
+  {
+    "name": "Talk",
+    "link": "https://music.163.com/song?id=1487273156",
+    "duration": "02:58",
+    "artists": [
+      { "name": "Glaceo", "link": "https://music.163.com/artist?id=12607200" },
+      { "name": "Eliine", "link": "https://music.163.com/artist?id=33964802" }
+    ],
+    "album": {
+      "name": "Talk",
+      "link": "https://music.163.com/album?id=96836591"
+    }
+  },
+  {
+    "name": "Animal",
+    "link": "https://music.163.com/song?id=1447669965",
+    "duration": "03:16",
+    "artists": [
+      { "name": "Vicetone", "link": "https://music.163.com/artist?id=747030" },
+      {
+        "name": "Jordan Powers",
+        "link": "https://music.163.com/artist?id=14025322"
+      },
+      {
+        "name": "Bekah Novi",
+        "link": "https://music.163.com/artist?id=35152087"
+      }
+    ],
+    "album": {
+      "name": "Animal",
+      "link": "https://music.163.com/album?id=89363653"
+    }
+  },
+  {
+    "name": "The Same Way",
+    "link": "https://music.163.com/song?id=1375144402",
+    "duration": "03:04",
+    "artists": [
+      {
+        "name": "Don Diablo",
+        "link": "https://music.163.com/artist?id=139072"
+      },
+      { "name": "KiFi", "link": "https://music.163.com/artist?id=13059523" }
+    ],
+    "album": {
+      "name": "The Same Way",
+      "link": "https://music.163.com/album?id=80107430"
+    }
+  },
+  {
+    "name": "Paint The Sky",
+    "link": "https://music.163.com/song?id=1428148984",
+    "duration": "03:20",
+    "artists": [
+      {
+        "name": "Mark Sixma",
+        "link": "https://music.163.com/artist?id=178755"
+      },
+      { "name": "Eline", "link": "https://music.163.com/artist?id=30696426" }
+    ],
+    "album": {
+      "name": "Paint The Sky",
+      "link": "https://music.163.com/album?id=86227463"
+    }
+  },
+  {
+    "name": "Ignoring My Heart",
+    "link": "https://music.163.com/song?id=566436029",
+    "duration": "03:04",
+    "artists": [
+      { "name": "T-Mass", "link": "https://music.163.com/artist?id=410484" }
+    ],
+    "album": {
+      "name": "Ignoring My Heart",
+      "link": "https://music.163.com/album?id=39266012"
+    }
+  },
+  {
+    "name": "Might Not Like Me (MOTi Remix)",
+    "link": "https://music.163.com/song?id=1309262182",
+    "duration": "03:11",
+    "artists": [
+      {
+        "name": "Brynn Elliott",
+        "link": "https://music.163.com/artist?id=14042161"
+      },
+      { "name": "MOTi", "link": "https://music.163.com/artist?id=366384" }
+    ],
+    "album": {
+      "name": "Might Not Like Me (MOTi Remix)",
+      "link": "https://music.163.com/album?id=73246477"
+    }
+  },
+  {
+    "name": "Alone",
+    "link": "https://music.163.com/song?id=1445854134",
+    "duration": "03:45",
+    "artists": [
+      { "name": "Rentz", "link": "https://music.163.com/artist?id=12628381" }
+    ],
+    "album": {
+      "name": "Alone",
+      "link": "https://music.163.com/album?id=89002540"
+    }
+  },
+  {
+    "name": "Crystal Memories ( feat.Heather Sommer )",
+    "link": "https://music.163.com/song?id=1868201458",
+    "duration": "03:08",
+    "artists": [
+      { "name": "Awakend", "link": "https://music.163.com/artist?id=13049055" },
+      {
+        "name": "Heather Sommer",
+        "link": "https://music.163.com/artist?id=13134228"
+      }
+    ],
+    "album": {
+      "name": "Memories From Another Life",
+      "link": "https://music.163.com/album?id=131549407"
+    }
+  },
+  {
+    "name": "What U Wanted",
+    "link": "https://music.163.com/song?id=1454868789",
+    "duration": "02:37",
+    "artists": [
+      { "name": "Wiberg", "link": "https://music.163.com/artist?id=32843930" },
+      { "name": "Rentz", "link": "https://music.163.com/artist?id=12628381" }
+    ],
+    "album": {
+      "name": "What U Wanted",
+      "link": "https://music.163.com/album?id=90764518"
+    }
+  },
+  {
+    "name": "Every Day (Vesrix! Edit)",
+    "link": "https://music.163.com/song?id=1804141508",
+    "duration": "03:31",
+    "artists": [
+      { "name": "Vesrix!", "link": "https://music.163.com/artist?id=32889219" },
+      {
+        "name": "The Darkmaker",
+        "link": "https://music.163.com/artist?id=31492299"
+      },
+      { "name": "赵曼伊mï", "link": "https://music.163.com/artist?id=31760557" }
+    ],
+    "album": {
+      "name": "Every Day",
+      "link": "https://music.163.com/album?id=120380225"
+    }
+  },
+  {
+    "name": "Sacrifice",
+    "link": "https://music.163.com/song?id=1817300301",
+    "duration": "02:57",
+    "artists": [
+      { "name": "Yetep", "link": "https://music.163.com/artist?id=12356399" },
+      { "name": "KLAXX", "link": "https://music.163.com/artist?id=12261151" }
+    ],
+    "album": {
+      "name": "Broken",
+      "link": "https://music.163.com/album?id=122501393"
+    }
+  },
+  {
+    "name": "Future Signs",
+    "link": "https://music.163.com/song?id=1298287272",
+    "duration": "03:33",
+    "artists": [
+      { "name": "Fleurie", "link": "https://music.163.com/artist?id=860929" }
+    ],
+    "album": {
+      "name": "Portals",
+      "link": "https://music.163.com/album?id=72101155"
+    }
+  },
+  {
+    "name": "Kyoto",
+    "link": "https://music.163.com/song?id=1847761214",
+    "duration": "02:54",
+    "artists": [
+      { "name": "Code Black", "link": "https://music.163.com/artist?id=334123" }
+    ],
+    "album": {
+      "name": "Kyoto",
+      "link": "https://music.163.com/album?id=127924689"
+    }
+  },
+  {
+    "name": "在世界尽头 - (FLY AWAY)",
+    "link": "https://music.163.com/song?id=1826174210",
+    "duration": "03:06",
+    "artists": [
+      {
+        "name": "马也_Crabbit",
+        "link": "https://music.163.com/artist?id=13288861"
+      },
+      { "name": "Aioz", "link": "https://music.163.com/artist?id=29235210" }
+    ],
+    "album": {
+      "name": "在世界尽头",
+      "link": "https://music.163.com/album?id=124136699"
+    }
+  },
+  {
+    "name": "Ready For Ya",
+    "link": "https://music.163.com/song?id=1426532411",
+    "duration": "03:14",
+    "artists": [
+      {
+        "name": "Sickrate",
+        "link": "https://music.163.com/artist?id=32795333"
+      },
+      { "name": "Rentz", "link": "https://music.163.com/artist?id=12628381" }
+    ],
+    "album": {
+      "name": "Ready For Ya",
+      "link": "https://music.163.com/album?id=86061829"
+    }
+  },
+  {
+    "name": "Billboard",
+    "link": "https://music.163.com/song?id=1409157146",
+    "duration": "02:52",
+    "artists": [
+      {
+        "name": "Jonas Blue",
+        "link": "https://music.163.com/artist?id=1192069"
+      },
+      { "name": "陈梓童", "link": "https://music.163.com/artist?id=951001" }
+    ],
+    "album": {
+      "name": "Billboard",
+      "link": "https://music.163.com/album?id=84056238"
+    }
+  },
+  {
+    "name": "ここにいる (I'm Here)",
+    "link": "https://music.163.com/song?id=1390895037",
+    "duration": "04:09",
+    "artists": [
+      { "name": "Aiobahn", "link": "https://music.163.com/artist?id=1137416" },
+      { "name": "rionos", "link": "https://music.163.com/artist?id=12107075" }
+    ],
+    "album": {
+      "name": "ここにいる (I'm Here)",
+      "link": "https://music.163.com/album?id=81639688"
+    }
+  },
+  {
+    "name": "White Knuckles",
+    "link": "https://music.163.com/song?id=420154391",
+    "duration": "03:25",
+    "artists": [
+      {
+        "name": "Holly Henry",
+        "link": "https://music.163.com/artist?id=832989"
+      }
+    ],
+    "album": {
+      "name": "King Paten",
+      "link": "https://music.163.com/album?id=34751457"
+    }
+  },
+  {
+    "name": "Honey (feat. Shion)",
+    "link": "https://music.163.com/song?id=1377837957",
+    "duration": "03:49",
+    "artists": [
+      {
+        "name": "Kirara Magic",
+        "link": "https://music.163.com/artist?id=30226109"
+      }
+    ],
+    "album": {
+      "name": "Honey (feat. Shion)",
+      "link": "https://music.163.com/album?id=80338455"
+    }
+  },
+  {
+    "name": "Sleepless",
+    "link": "https://music.163.com/song?id=1842154372",
+    "duration": "03:50",
+    "artists": [
+      {
+        "name": "Pixel Terror",
+        "link": "https://music.163.com/artist?id=12901261"
+      },
+      { "name": "Chime", "link": "https://music.163.com/artist?id=417220" },
+      { "name": "Teminite", "link": "https://music.163.com/artist?id=1049513" }
+    ],
+    "album": {
+      "name": "Sleepless",
+      "link": "https://music.163.com/album?id=126863854"
+    }
+  },
+  {
+    "name": "Better",
+    "link": "https://music.163.com/song?id=473740379",
+    "duration": "03:33",
+    "artists": [
+      {
+        "name": "Skylar Fri",
+        "link": "https://music.163.com/artist?id=12384046"
+      }
+    ],
+    "album": {
+      "name": "Better",
+      "link": "https://music.163.com/album?id=35422123"
+    }
+  },
+  {
+    "name": "落日飞行",
+    "link": "https://music.163.com/song?id=1441353003",
+    "duration": "02:57",
+    "artists": [
+      { "name": "火晚晴", "link": "https://music.163.com/artist?id=12664848" },
+      { "name": "XMASwu", "link": "https://music.163.com/artist?id=31309410" }
+    ],
+    "album": {
+      "name": "飞 车 旅 行",
+      "link": "https://music.163.com/album?id=88151790"
+    }
+  },
+  {
+    "name": "墙",
+    "link": "https://music.163.com/song?id=1419848871",
+    "duration": "03:38",
+    "artists": [
+      { "name": "白鸿", "link": "https://music.163.com/artist?id=31008744" },
+      {
+        "name": "Glass玻璃",
+        "link": "https://music.163.com/artist?id=30476499"
+      }
+    ],
+    "album": { "name": "墙", "link": "https://music.163.com/album?id=85266506" }
+  },
+  {
+    "name": "壳",
+    "link": "https://music.163.com/song?id=1848451923",
+    "duration": "03:34",
+    "artists": [
+      { "name": "Bo Peep", "link": "https://music.163.com/artist?id=30955486" }
+    ],
+    "album": {
+      "name": "壳",
+      "link": "https://music.163.com/album?id=128067208"
+    }
+  },
+  {
+    "name": "Say Something (Sebastien Remix)",
+    "link": "https://music.163.com/song?id=35617718",
+    "duration": "05:55",
+    "artists": [
+      {
+        "name": "Sebastien",
+        "link": "https://music.163.com/artist?id=1171040"
+      },
+      {
+        "name": "A Great Big World",
+        "link": "https://music.163.com/artist?id=843001"
+      },
+      {
+        "name": "Christina Aguilera",
+        "link": "https://music.163.com/artist?id=50892"
+      }
+    ],
+    "album": {
+      "name": "Say Something",
+      "link": "https://music.163.com/album?id=3358124"
+    }
+  },
+  {
+    "name": "When You Grow up, Your Heart Dies",
+    "link": "https://music.163.com/song?id=1304567168",
+    "duration": "05:49",
+    "artists": [
+      { "name": "GUNSHIP", "link": "https://music.163.com/artist?id=1124210" }
+    ],
+    "album": {
+      "name": "When You Grow up, Your Heart Dies",
+      "link": "https://music.163.com/album?id=72500998"
+    }
+  }
+]
