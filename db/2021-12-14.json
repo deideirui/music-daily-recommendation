@@ -1,0 +1,540 @@
+[
+  {
+    "name": "Safe With Me",
+    "link": "https://music.163.com/song?id=1861510783",
+    "duration": "04:49",
+    "artists": [
+      {
+        "name": "Adventure Club",
+        "link": "https://music.163.com/artist?id=792045"
+      },
+      { "name": "Soar", "link": "https://music.163.com/artist?id=21674" },
+      { "name": "Luma", "link": "https://music.163.com/artist?id=211460" }
+    ],
+    "album": {
+      "name": "Safe With Me",
+      "link": "https://music.163.com/album?id=130423313"
+    }
+  },
+  {
+    "name": "Chasing Dragons 2020",
+    "link": "https://music.163.com/song?id=1490257932",
+    "duration": "03:58",
+    "artists": [
+      { "name": "AhXon", "link": "https://music.163.com/artist?id=12908109" }
+    ],
+    "album": {
+      "name": "Chasing Dragons 2020",
+      "link": "https://music.163.com/album?id=97383818"
+    }
+  },
+  {
+    "name": "Ghost of My Past",
+    "link": "https://music.163.com/song?id=1816405505",
+    "duration": "03:36",
+    "artists": [
+      { "name": "Vicetone", "link": "https://music.163.com/artist?id=747030" },
+      {
+        "name": "Emily Falvey",
+        "link": "https://music.163.com/artist?id=31678015"
+      }
+    ],
+    "album": {
+      "name": "Legacy",
+      "link": "https://music.163.com/album?id=122372498"
+    }
+  },
+  {
+    "name": "Fade Away (feat. Luma)",
+    "link": "https://music.163.com/song?id=1850763619",
+    "duration": "03:59",
+    "artists": [
+      {
+        "name": "Falling North",
+        "link": "https://music.163.com/artist?id=32204238"
+      },
+      { "name": "MEDZ", "link": "https://music.163.com/artist?id=48361086" },
+      { "name": "Luma", "link": "https://music.163.com/artist?id=211460" }
+    ],
+    "album": {
+      "name": "Fade Away (feat. Luma)",
+      "link": "https://music.163.com/album?id=128495502"
+    }
+  },
+  {
+    "name": "White Sand (Extended Mix)",
+    "link": "https://music.163.com/song?id=1901748302",
+    "duration": "06:15",
+    "artists": [
+      {
+        "name": "Sunlight Project",
+        "link": "https://music.163.com/artist?id=858214"
+      }
+    ],
+    "album": {
+      "name": "Sunlight Tunes 2021",
+      "link": "https://music.163.com/album?id=137197918"
+    }
+  },
+  {
+    "name": "Safe",
+    "link": "https://music.163.com/song?id=1427829417",
+    "duration": "03:08",
+    "artists": [
+      { "name": "Axero", "link": "https://music.163.com/artist?id=1035020" }
+    ],
+    "album": {
+      "name": "Safe",
+      "link": "https://music.163.com/album?id=86193972"
+    }
+  },
+  {
+    "name": "Tomorrow, Wendy (2010 Digital Remaster)",
+    "link": "https://music.163.com/song?id=22430279",
+    "duration": "03:58",
+    "artists": [
+      {
+        "name": "Concrete Blonde",
+        "link": "https://music.163.com/artist?id=50901"
+      }
+    ],
+    "album": {
+      "name": "Bloodletting - 20th Anniversary Edition (Remastered 2010)",
+      "link": "https://music.163.com/album?id=2053538"
+    }
+  },
+  {
+    "name": "Would You Wait for Me",
+    "link": "https://music.163.com/song?id=1443118014",
+    "duration": "03:47",
+    "artists": [
+      { "name": "Max Oazo", "link": "https://music.163.com/artist?id=13159084" }
+    ],
+    "album": {
+      "name": "Would You Wait for Me",
+      "link": "https://music.163.com/album?id=88479967"
+    }
+  },
+  {
+    "name": "Come with the Midnight Fireflies",
+    "link": "https://music.163.com/song?id=1838081151",
+    "duration": "04:18",
+    "artists": [
+      {
+        "name": "饭碗的彼岸",
+        "link": "https://music.163.com/artist?id=1138028"
+      }
+    ],
+    "album": {
+      "name": "Come with the Midnight Fireflies",
+      "link": "https://music.163.com/album?id=126144528"
+    }
+  },
+  {
+    "name": "Colourblind",
+    "link": "https://music.163.com/song?id=1478315976",
+    "duration": "02:38",
+    "artists": [
+      { "name": "SeeB", "link": "https://music.163.com/artist?id=1182169" },
+      {
+        "name": "St. Lundi",
+        "link": "https://music.163.com/artist?id=34341491"
+      }
+    ],
+    "album": {
+      "name": "Colourblind",
+      "link": "https://music.163.com/album?id=95253522"
+    }
+  },
+  {
+    "name": "Young & Reckless",
+    "link": "https://music.163.com/song?id=1336796139",
+    "duration": "03:10",
+    "artists": [
+      {
+        "name": "Jason Thurell",
+        "link": "https://music.163.com/artist?id=12826120"
+      },
+      { "name": "Kryga", "link": "https://music.163.com/artist?id=12560340" }
+    ],
+    "album": {
+      "name": "Young & Reckless",
+      "link": "https://music.163.com/album?id=75009561"
+    }
+  },
+  {
+    "name": "Feelings",
+    "link": "https://music.163.com/song?id=1850965992",
+    "duration": "02:54",
+    "artists": [
+      { "name": "Diviners", "link": "https://music.163.com/artist?id=1192136" },
+      { "name": "Azertion", "link": "https://music.163.com/artist?id=48358873" }
+    ],
+    "album": {
+      "name": "Feelings",
+      "link": "https://music.163.com/album?id=128514136"
+    }
+  },
+  {
+    "name": "Best Is Yet To Come",
+    "link": "https://music.163.com/song?id=1850116156",
+    "duration": "03:35",
+    "artists": [
+      { "name": "Gryffin", "link": "https://music.163.com/artist?id=1181504" },
+      {
+        "name": "Kyle Reynolds",
+        "link": "https://music.163.com/artist?id=1179061"
+      }
+    ],
+    "album": {
+      "name": "Best Is Yet To Come",
+      "link": "https://music.163.com/album?id=128393916"
+    }
+  },
+  {
+    "name": "Not Over You",
+    "link": "https://music.163.com/song?id=1865368506",
+    "duration": "03:17",
+    "artists": [
+      { "name": "Hoang", "link": "https://music.163.com/artist?id=27694442" },
+      { "name": "Daye", "link": "https://music.163.com/artist?id=49282405" }
+    ],
+    "album": {
+      "name": "Not Over You",
+      "link": "https://music.163.com/album?id=131120454"
+    }
+  },
+  {
+    "name": "Hands (Diviners Remix)",
+    "link": "https://music.163.com/song?id=445153325",
+    "duration": "03:19",
+    "artists": [
+      {
+        "name": "Gareth Emery",
+        "link": "https://music.163.com/artist?id=34318"
+      },
+      {
+        "name": "London Thor",
+        "link": "https://music.163.com/artist?id=1102061"
+      },
+      { "name": "Diviners", "link": "https://music.163.com/artist?id=1192136" },
+      { "name": "Alastor", "link": "https://music.163.com/artist?id=85992" }
+    ],
+    "album": {
+      "name": "Electric For Life 2016",
+      "link": "https://music.163.com/album?id=35022832"
+    }
+  },
+  {
+    "name": "For You",
+    "link": "https://music.163.com/song?id=538802072",
+    "duration": "02:35",
+    "artists": [
+      { "name": "Dubdogz", "link": "https://music.163.com/artist?id=12742168" },
+      { "name": "Shapeless", "link": "https://music.163.com/artist?id=502943" }
+    ],
+    "album": {
+      "name": "For You",
+      "link": "https://music.163.com/album?id=37561432"
+    }
+  },
+  {
+    "name": "Undertow",
+    "link": "https://music.163.com/song?id=1861307887",
+    "duration": "03:25",
+    "artists": [
+      {
+        "name": "Danny Olson",
+        "link": "https://music.163.com/artist?id=1178296"
+      },
+      { "name": "Bebi", "link": "https://music.163.com/artist?id=49024958" },
+      {
+        "name": "Tyler Graves",
+        "link": "https://music.163.com/artist?id=49024957"
+      }
+    ],
+    "album": {
+      "name": "Undertow",
+      "link": "https://music.163.com/album?id=130391134"
+    }
+  },
+  {
+    "name": "What Other People Say (R3HAB Remix)",
+    "link": "https://music.163.com/song?id=1824143350",
+    "duration": "02:34",
+    "artists": [
+      {
+        "name": "Sam Fischer",
+        "link": "https://music.163.com/artist?id=13080112"
+      },
+      {
+        "name": "Demi Lovato",
+        "link": "https://music.163.com/artist?id=53236"
+      },
+      { "name": "R3HAB", "link": "https://music.163.com/artist?id=197248" }
+    ],
+    "album": {
+      "name": "What Other People Say (R3HAB Remix)",
+      "link": "https://music.163.com/album?id=123735782"
+    }
+  },
+  {
+    "name": "Photograph",
+    "link": "https://music.163.com/song?id=1407710587",
+    "duration": "03:32",
+    "artists": [
+      { "name": "Ljung", "link": "https://music.163.com/artist?id=30618233" },
+      { "name": "Haneri", "link": "https://music.163.com/artist?id=12834932" }
+    ],
+    "album": {
+      "name": "Photograph",
+      "link": "https://music.163.com/album?id=83902254"
+    }
+  },
+  {
+    "name": "Learn To Love Again",
+    "link": "https://music.163.com/song?id=1841902000",
+    "duration": "03:44",
+    "artists": [
+      { "name": "Audien", "link": "https://music.163.com/artist?id=191706" }
+    ],
+    "album": {
+      "name": "Learn To Love Again",
+      "link": "https://music.163.com/album?id=126824633"
+    }
+  },
+  {
+    "name": "Diamonds",
+    "link": "https://music.163.com/song?id=1380149102",
+    "duration": "03:27",
+    "artists": [
+      {
+        "name": "Wheazewolf",
+        "link": "https://music.163.com/artist?id=30704290"
+      }
+    ],
+    "album": {
+      "name": "Diamonds",
+      "link": "https://music.163.com/album?id=80562267"
+    }
+  },
+  {
+    "name": "Always Home",
+    "link": "https://music.163.com/song?id=1844176195",
+    "duration": "03:00",
+    "artists": [
+      {
+        "name": "Axel Johansson",
+        "link": "https://music.163.com/artist?id=12872604"
+      },
+      {
+        "name": "Amanda Collis",
+        "link": "https://music.163.com/artist?id=30296250"
+      }
+    ],
+    "album": {
+      "name": "Always Home",
+      "link": "https://music.163.com/album?id=127239826"
+    }
+  },
+  {
+    "name": "Odyssee",
+    "link": "https://music.163.com/song?id=1818968990",
+    "duration": "03:30",
+    "artists": [
+      { "name": "FEWZ", "link": "https://music.163.com/artist?id=12008133" }
+    ],
+    "album": {
+      "name": "Odyssee",
+      "link": "https://music.163.com/album?id=122771068"
+    }
+  },
+  {
+    "name": "Midnight (Vicetone Remix)",
+    "link": "https://music.163.com/song?id=1474574157",
+    "duration": "03:28",
+    "artists": [
+      { "name": "Alesso", "link": "https://music.163.com/artist?id=29251" },
+      {
+        "name": "Liam Payne",
+        "link": "https://music.163.com/artist?id=12073104"
+      },
+      { "name": "Vicetone", "link": "https://music.163.com/artist?id=747030" }
+    ],
+    "album": {
+      "name": "Midnight (The Remixes)",
+      "link": "https://music.163.com/album?id=94597326"
+    }
+  },
+  {
+    "name": "Slow Down",
+    "link": "https://music.163.com/song?id=1399417660",
+    "duration": "03:02",
+    "artists": [
+      {
+        "name": "Sineself",
+        "link": "https://music.163.com/artist?id=32945422"
+      },
+      {
+        "name": "Angel Pieters",
+        "link": "https://music.163.com/artist?id=12749893"
+      }
+    ],
+    "album": {
+      "name": "Slow Down",
+      "link": "https://music.163.com/album?id=82773522"
+    }
+  },
+  {
+    "name": "Be The Same",
+    "link": "https://music.163.com/song?id=1820456997",
+    "duration": "03:12",
+    "artists": [
+      {
+        "name": "Timmo Hendriks",
+        "link": "https://music.163.com/artist?id=1146077"
+      },
+      {
+        "name": "Lindequist",
+        "link": "https://music.163.com/artist?id=1132958"
+      }
+    ],
+    "album": {
+      "name": "Follow You EP",
+      "link": "https://music.163.com/album?id=123089672"
+    }
+  },
+  {
+    "name": "Fluctuate",
+    "link": "https://music.163.com/song?id=425053025",
+    "duration": "05:11",
+    "artists": [
+      { "name": "Elecprok", "link": "https://music.163.com/artist?id=1203041" }
+    ],
+    "album": {
+      "name": "Fluctuate",
+      "link": "https://music.163.com/album?id=34812470"
+    }
+  },
+  {
+    "name": "Told You So",
+    "link": "https://music.163.com/song?id=1421000950",
+    "duration": "02:26",
+    "artists": [
+      {
+        "name": "Mike Perry",
+        "link": "https://music.163.com/artist?id=195021"
+      },
+      {
+        "name": "Orange Villa",
+        "link": "https://music.163.com/artist?id=37490449"
+      }
+    ],
+    "album": {
+      "name": "Told You So",
+      "link": "https://music.163.com/album?id=85478926"
+    }
+  },
+  {
+    "name": "Days Of Our Youth",
+    "link": "https://music.163.com/song?id=1488934830",
+    "duration": "03:07",
+    "artists": [
+      { "name": "Caslow", "link": "https://music.163.com/artist?id=15109745" },
+      { "name": "Exede", "link": "https://music.163.com/artist?id=13059879" }
+    ],
+    "album": {
+      "name": "Days Of Our Youth",
+      "link": "https://music.163.com/album?id=97150601"
+    }
+  },
+  {
+    "name": "Message From The Stars",
+    "link": "https://music.163.com/song?id=1826935505",
+    "duration": "04:28",
+    "artists": [
+      { "name": "Awakend", "link": "https://music.163.com/artist?id=13049055" },
+      { "name": "Nytrix", "link": "https://music.163.com/artist?id=11996010" }
+    ],
+    "album": {
+      "name": "Message From The Stars",
+      "link": "https://music.163.com/album?id=124256131"
+    }
+  },
+  {
+    "name": "That Could Be Me",
+    "link": "https://music.163.com/song?id=1844623991",
+    "duration": "03:15",
+    "artists": [
+      { "name": "KLAXX", "link": "https://music.163.com/artist?id=12261151" },
+      { "name": "Yetep", "link": "https://music.163.com/artist?id=12356399" },
+      {
+        "name": "Meggie York",
+        "link": "https://music.163.com/artist?id=31420777"
+      }
+    ],
+    "album": {
+      "name": "That Could Be Me",
+      "link": "https://music.163.com/album?id=127342354"
+    }
+  },
+  {
+    "name": "Remember Me",
+    "link": "https://music.163.com/song?id=1810564108",
+    "duration": "03:37",
+    "artists": [
+      {
+        "name": "Rico & Miella",
+        "link": "https://music.163.com/artist?id=1050743"
+      }
+    ],
+    "album": {
+      "name": "Remember Me",
+      "link": "https://music.163.com/album?id=121397218"
+    }
+  },
+  {
+    "name": "When I See You",
+    "link": "https://music.163.com/song?id=540712100",
+    "duration": "03:23",
+    "artists": [
+      { "name": "Mokita", "link": "https://music.163.com/artist?id=12033046" }
+    ],
+    "album": {
+      "name": "When I See You",
+      "link": "https://music.163.com/album?id=37730722"
+    }
+  },
+  {
+    "name": "Andalusia (Filatov & Karas Remix)",
+    "link": "https://music.163.com/song?id=447925185",
+    "duration": "03:02",
+    "artists": [
+      {
+        "name": "Antoine Chambe",
+        "link": "https://music.163.com/artist?id=1177057"
+      },
+      {
+        "name": "Otter Berry",
+        "link": "https://music.163.com/artist?id=1132874"
+      },
+      { "name": "Hi-Ly", "link": "https://music.163.com/artist?id=1156093" }
+    ],
+    "album": {
+      "name": "Andalusia",
+      "link": "https://music.163.com/album?id=35068059"
+    }
+  },
+  {
+    "name": "クリスマスの夜に",
+    "link": "https://music.163.com/song?id=1901527040",
+    "duration": "03:03",
+    "artists": [
+      { "name": "GReeeeN", "link": "https://music.163.com/artist?id=19550" }
+    ],
+    "album": {
+      "name": "クリスマスの夜に",
+      "link": "https://music.163.com/album?id=137168114"
+    }
+  }
+]
