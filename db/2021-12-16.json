@@ -1,0 +1,502 @@
+[
+  {
+    "name": "Cry",
+    "link": "https://music.163.com/song?id=1466801924",
+    "duration": "03:38",
+    "artists": [
+      { "name": "Gryffin", "link": "https://music.163.com/artist?id=1181504" },
+      {
+        "name": "John Martin",
+        "link": "https://music.163.com/artist?id=694018"
+      }
+    ],
+    "album": {
+      "name": "Cry",
+      "link": "https://music.163.com/album?id=93195925"
+    }
+  },
+  {
+    "name": "Somebody Like You",
+    "link": "https://music.163.com/song?id=1816405503",
+    "duration": "03:28",
+    "artists": [
+      { "name": "Vicetone", "link": "https://music.163.com/artist?id=747030" },
+      {
+        "name": "Lena Leon",
+        "link": "https://music.163.com/artist?id=14537825"
+      }
+    ],
+    "album": {
+      "name": "Legacy",
+      "link": "https://music.163.com/album?id=122372498"
+    }
+  },
+  {
+    "name": "Don't You Wanna Play?",
+    "link": "https://music.163.com/song?id=1459862653",
+    "duration": "02:18",
+    "artists": [
+      { "name": "SeeB", "link": "https://music.163.com/artist?id=1182169" },
+      {
+        "name": "Julie Bergan",
+        "link": "https://music.163.com/artist?id=896964"
+      }
+    ],
+    "album": {
+      "name": "Don't You Wanna Play?",
+      "link": "https://music.163.com/album?id=91874346"
+    }
+  },
+  {
+    "name": "Power In Your Soul",
+    "link": "https://music.163.com/song?id=1839091630",
+    "duration": "02:54",
+    "artists": [
+      {
+        "name": "Adrian Fyrla",
+        "link": "https://music.163.com/artist?id=12683390"
+      }
+    ],
+    "album": {
+      "name": "Power In Your Soul",
+      "link": "https://music.163.com/album?id=126322782"
+    }
+  },
+  {
+    "name": "Sailing (Back Pedal Brakes Remix)",
+    "link": "https://music.163.com/song?id=1899949399",
+    "duration": "03:31",
+    "artists": [
+      { "name": "Chicane", "link": "https://music.163.com/artist?id=50971" }
+    ],
+    "album": {
+      "name": "Sailing (Back Pedal Brakes Remix)",
+      "link": "https://music.163.com/album?id=136939716"
+    }
+  },
+  {
+    "name": "Follow",
+    "link": "https://music.163.com/song?id=1456174313",
+    "duration": "02:58",
+    "artists": [
+      { "name": "Vigiland", "link": "https://music.163.com/artist?id=1046407" },
+      {
+        "name": "Father Viola",
+        "link": "https://music.163.com/artist?id=35782975"
+      }
+    ],
+    "album": {
+      "name": "Follow",
+      "link": "https://music.163.com/album?id=91098842"
+    }
+  },
+  {
+    "name": "Lolita",
+    "link": "https://music.163.com/song?id=28195671",
+    "duration": "09:17",
+    "artists": [
+      { "name": "Suntree", "link": "https://music.163.com/artist?id=44235" }
+    ],
+    "album": {
+      "name": "The Future",
+      "link": "https://music.163.com/album?id=2745076"
+    }
+  },
+  {
+    "name": "In My Mind",
+    "link": "https://music.163.com/song?id=1858825654",
+    "duration": "02:55",
+    "artists": [
+      { "name": "Alok", "link": "https://music.163.com/artist?id=1170012" },
+      { "name": "John Legend", "link": "https://music.163.com/artist?id=35342" }
+    ],
+    "album": {
+      "name": "In My Mind",
+      "link": "https://music.163.com/album?id=129951814"
+    }
+  },
+  {
+    "name": "Lie To Me",
+    "link": "https://music.163.com/song?id=1419696791",
+    "duration": "02:48",
+    "artists": [
+      {
+        "name": "Yellow Claw",
+        "link": "https://music.163.com/artist?id=832880"
+      },
+      { "name": "Tinashe", "link": "https://music.163.com/artist?id=45221" },
+      { "name": "Runtown", "link": "https://music.163.com/artist?id=1081435" }
+    ],
+    "album": {
+      "name": "Never Dies",
+      "link": "https://music.163.com/album?id=85334437"
+    }
+  },
+  {
+    "name": "Life Sketch",
+    "link": "https://music.163.com/song?id=1395092268",
+    "duration": "03:33",
+    "artists": [
+      {
+        "name": "MC Daniell",
+        "link": "https://music.163.com/artist?id=33176320"
+      },
+      {
+        "name": "Alan Walker",
+        "link": "https://music.163.com/artist?id=1045123"
+      }
+    ],
+    "album": {
+      "name": "Different Do Not Deliver",
+      "link": "https://music.163.com/album?id=82150342"
+    }
+  },
+  {
+    "name": "Feel Like",
+    "link": "https://music.163.com/song?id=1864388051",
+    "duration": "03:20",
+    "artists": [
+      { "name": "Dabin", "link": "https://music.163.com/artist?id=783446" },
+      { "name": "CAPPA", "link": "https://music.163.com/artist?id=1053281" }
+    ],
+    "album": {
+      "name": "Feel Like",
+      "link": "https://music.163.com/album?id=130922844"
+    }
+  },
+  {
+    "name": "Wonderland",
+    "link": "https://music.163.com/song?id=1811270862",
+    "duration": "03:36",
+    "artists": [
+      {
+        "name": "Axel Johansson",
+        "link": "https://music.163.com/artist?id=12872604"
+      }
+    ],
+    "album": {
+      "name": "Wonderland",
+      "link": "https://music.163.com/album?id=121496308"
+    }
+  },
+  {
+    "name": "deep end (Mokita Remix)",
+    "link": "https://music.163.com/song?id=1476681419",
+    "duration": "03:09",
+    "artists": [
+      { "name": "Finlay", "link": "https://music.163.com/artist?id=565418" },
+      { "name": "Mokita", "link": "https://music.163.com/artist?id=12033046" }
+    ],
+    "album": {
+      "name": "deep end (Mokita Remix)",
+      "link": "https://music.163.com/album?id=94997394"
+    }
+  },
+  {
+    "name": "Save Me Now",
+    "link": "https://music.163.com/song?id=1872132376",
+    "duration": "03:16",
+    "artists": [
+      { "name": "Mike Perry", "link": "https://music.163.com/artist?id=195021" }
+    ],
+    "album": {
+      "name": "Save Me Now",
+      "link": "https://music.163.com/album?id=132179530"
+    }
+  },
+  {
+    "name": "Wear Me Out",
+    "link": "https://music.163.com/song?id=1390390581",
+    "duration": "02:38",
+    "artists": [
+      {
+        "name": "Ralph Felix",
+        "link": "https://music.163.com/artist?id=12262651"
+      },
+      {
+        "name": "Amy Grace",
+        "link": "https://music.163.com/artist?id=29836145"
+      }
+    ],
+    "album": {
+      "name": "Wear Me Out",
+      "link": "https://music.163.com/album?id=81579565"
+    }
+  },
+  {
+    "name": "Best Part Of Me (feat. SVRCINA)",
+    "link": "https://music.163.com/song?id=1837427965",
+    "duration": "02:43",
+    "artists": [
+      { "name": "N3wport", "link": "https://music.163.com/artist?id=12408098" },
+      { "name": "Svrcina", "link": "https://music.163.com/artist?id=12047724" }
+    ],
+    "album": {
+      "name": "Best Part Of Me (feat. SVRCINA)",
+      "link": "https://music.163.com/album?id=126003102"
+    }
+  },
+  {
+    "name": "As Long As You Love Me",
+    "link": "https://music.163.com/song?id=1876437947",
+    "duration": "02:51",
+    "artists": [
+      {
+        "name": "Max Oazo",
+        "link": "https://music.163.com/artist?id=13159084"
+      },
+      { "name": "Camishe", "link": "https://music.163.com/artist?id=33741446" }
+    ],
+    "album": {
+      "name": "As Long As You Love Me",
+      "link": "https://music.163.com/album?id=132923966"
+    }
+  },
+  {
+    "name": "Save the World",
+    "link": "https://music.163.com/song?id=1866078548",
+    "duration": "03:12",
+    "artists": [
+      {
+        "name": "Arc North",
+        "link": "https://music.163.com/artist?id=1137410"
+      },
+      { "name": "CRVN", "link": "https://music.163.com/artist?id=46566374" }
+    ],
+    "album": {
+      "name": "Save the World",
+      "link": "https://music.163.com/album?id=131204220"
+    }
+  },
+  {
+    "name": "China In The House",
+    "link": "https://music.163.com/song?id=1417126487",
+    "duration": "02:54",
+    "artists": [
+      { "name": "Bobina", "link": "https://music.163.com/artist?id=129629" },
+      {
+        "name": "柳李 Atom Panda",
+        "link": "https://music.163.com/artist?id=12037042"
+      }
+    ],
+    "album": {
+      "name": "Russia / China In The House",
+      "link": "https://music.163.com/album?id=85025412"
+    }
+  },
+  {
+    "name": "Never Mine",
+    "link": "https://music.163.com/song?id=1840873976",
+    "duration": "03:04",
+    "artists": [
+      { "name": "Caslow", "link": "https://music.163.com/artist?id=15109745" },
+      {
+        "name": "Khiana Noel",
+        "link": "https://music.163.com/artist?id=47766510"
+      }
+    ],
+    "album": {
+      "name": "Never Mine",
+      "link": "https://music.163.com/album?id=126667412"
+    }
+  },
+  {
+    "name": "Survive (with Luma)",
+    "link": "https://music.163.com/song?id=1855644989",
+    "duration": "03:47",
+    "artists": [
+      { "name": "Blanke", "link": "https://music.163.com/artist?id=13369420" },
+      { "name": "Luma", "link": "https://music.163.com/artist?id=211460" }
+    ],
+    "album": {
+      "name": "Survive (with Luma)",
+      "link": "https://music.163.com/album?id=129403656"
+    }
+  },
+  {
+    "name": "Lost Control (Original Mix)",
+    "link": "https://music.163.com/song?id=417859039",
+    "duration": "04:29",
+    "artists": [
+      {
+        "name": "Tyron Hapi",
+        "link": "https://music.163.com/artist?id=1191114"
+      },
+      { "name": "Bianca", "link": "https://music.163.com/artist?id=50563" }
+    ],
+    "album": {
+      "name": "Lost Control (feat. Bianca)",
+      "link": "https://music.163.com/album?id=34738443"
+    }
+  },
+  {
+    "name": "Spotlight",
+    "link": "https://music.163.com/song?id=1861707534",
+    "duration": "03:42",
+    "artists": [
+      { "name": "Navion", "link": "https://music.163.com/artist?id=12096296" },
+      { "name": "Oryon", "link": "https://music.163.com/artist?id=314651" },
+      {
+        "name": "Summer Haze",
+        "link": "https://music.163.com/artist?id=29727079"
+      },
+      {
+        "name": "Dirty Workz",
+        "link": "https://music.163.com/artist?id=33808957"
+      }
+    ],
+    "album": {
+      "name": "Spotlight",
+      "link": "https://music.163.com/album?id=130465670"
+    }
+  },
+  {
+    "name": "One More Day",
+    "link": "https://music.163.com/song?id=1874257676",
+    "duration": "03:55",
+    "artists": [
+      { "name": "Yetep", "link": "https://music.163.com/artist?id=12356399" },
+      { "name": "RUNN", "link": "https://music.163.com/artist?id=15237536" }
+    ],
+    "album": {
+      "name": "One More Day",
+      "link": "https://music.163.com/album?id=132534846"
+    }
+  },
+  {
+    "name": "Find Me Again (Jeongwoo Park Remix)",
+    "link": "https://music.163.com/song?id=458725722",
+    "duration": "02:56",
+    "artists": [
+      {
+        "name": "The Dirty Code",
+        "link": "https://music.163.com/artist?id=1050246"
+      },
+      {
+        "name": "Jeongwoo Park",
+        "link": "https://music.163.com/artist?id=12046246"
+      },
+      { "name": "Skyknock", "link": "https://music.163.com/artist?id=955117" },
+      { "name": "Bettina", "link": "https://music.163.com/artist?id=12526564" }
+    ],
+    "album": {
+      "name": "Find Me Again (Jeongwoo Park Remix) ",
+      "link": "https://music.163.com/album?id=35157986"
+    }
+  },
+  {
+    "name": "Cry Dancing (Acoustic)",
+    "link": "https://music.163.com/song?id=1470909608",
+    "duration": "03:01",
+    "artists": [
+      { "name": "NOTD", "link": "https://music.163.com/artist?id=12262306" },
+      {
+        "name": "Nina Nesbitt",
+        "link": "https://music.163.com/artist?id=70292"
+      }
+    ],
+    "album": {
+      "name": "Cry Dancing (Acoustic)",
+      "link": "https://music.163.com/album?id=93941581"
+    }
+  },
+  {
+    "name": "More Than Air",
+    "link": "https://music.163.com/song?id=443876555",
+    "duration": "03:29",
+    "artists": [
+      {
+        "name": "Local Sound",
+        "link": "https://music.163.com/artist?id=12203125"
+      },
+      { "name": "Fleurie", "link": "https://music.163.com/artist?id=860929" }
+    ],
+    "album": {
+      "name": "More Than Air",
+      "link": "https://music.163.com/album?id=35023141"
+    }
+  },
+  {
+    "name": "One Night",
+    "link": "https://music.163.com/song?id=1344292306",
+    "duration": "03:35",
+    "artists": [
+      { "name": "LeBrock", "link": "https://music.163.com/artist?id=13970913" }
+    ],
+    "album": {
+      "name": "Action & Romance (Remastered)",
+      "link": "https://music.163.com/album?id=75462144"
+    }
+  },
+  {
+    "name": "Open Your Eyes",
+    "link": "https://music.163.com/song?id=421807962",
+    "duration": "04:19",
+    "artists": [
+      {
+        "name": "School of Seven Bells",
+        "link": "https://music.163.com/artist?id=100058"
+      }
+    ],
+    "album": {
+      "name": "SVIIB",
+      "link": "https://music.163.com/album?id=34751897"
+    }
+  },
+  {
+    "name": "回应",
+    "link": "https://music.163.com/song?id=1891397211",
+    "duration": "03:19",
+    "artists": [
+      { "name": "池鱼", "link": "https://music.163.com/artist?id=36775590" }
+    ],
+    "album": {
+      "name": "回应",
+      "link": "https://music.163.com/album?id=135511971"
+    }
+  },
+  {
+    "name": "Lonely",
+    "link": "https://music.163.com/song?id=1384492900",
+    "duration": "04:30",
+    "artists": [
+      { "name": "ILLENIUM", "link": "https://music.163.com/artist?id=1050518" },
+      {
+        "name": "Chandler Leighton",
+        "link": "https://music.163.com/artist?id=33013223"
+      }
+    ],
+    "album": {
+      "name": "ASCEND",
+      "link": "https://music.163.com/album?id=80981667"
+    }
+  },
+  {
+    "name": "渡川",
+    "link": "https://music.163.com/song?id=1894026516",
+    "duration": "03:18",
+    "artists": [
+      {
+        "name": "马也_Crabbit",
+        "link": "https://music.163.com/artist?id=13288861"
+      }
+    ],
+    "album": {
+      "name": "渡川",
+      "link": "https://music.163.com/album?id=135981472"
+    }
+  },
+  {
+    "name": "Neverland",
+    "link": "https://music.163.com/song?id=1298111608",
+    "duration": "03:09",
+    "artists": [
+      { "name": "KSHMR", "link": "https://music.163.com/artist?id=896139" },
+      { "name": "7 Skies", "link": "https://music.163.com/artist?id=230698" }
+    ],
+    "album": {
+      "name": "Neverland",
+      "link": "https://music.163.com/album?id=72092687"
+    }
+  }
+]
