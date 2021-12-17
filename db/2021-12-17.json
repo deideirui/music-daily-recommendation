@@ -1,0 +1,537 @@
+[
+  {
+    "name": "Hiding In The Blue",
+    "link": "https://music.163.com/song?id=1852002829",
+    "duration": "03:41",
+    "artists": [
+      {
+        "name": "TheFatRat",
+        "link": "https://music.163.com/artist?id=1019952"
+      },
+      { "name": "RIELL", "link": "https://music.163.com/artist?id=30558622" }
+    ],
+    "album": {
+      "name": "Hiding In The Blue",
+      "link": "https://music.163.com/album?id=128736879"
+    }
+  },
+  {
+    "name": "Down For The Ride",
+    "link": "https://music.163.com/song?id=1837725861",
+    "duration": "02:40",
+    "artists": [
+      {
+        "name": "ItaloBrothers",
+        "link": "https://music.163.com/artist?id=94730"
+      }
+    ],
+    "album": {
+      "name": "Down For The Ride",
+      "link": "https://music.163.com/album?id=126082943"
+    }
+  },
+  {
+    "name": "Coming Up",
+    "link": "https://music.163.com/song?id=511678789",
+    "duration": "02:55",
+    "artists": [
+      {
+        "name": "Victor Crone",
+        "link": "https://music.163.com/artist?id=1081705"
+      },
+      {
+        "name": "Tungevaag & Raaban",
+        "link": "https://music.163.com/artist?id=1090022"
+      }
+    ],
+    "album": {
+      "name": "Coming Up",
+      "link": "https://music.163.com/album?id=36320948"
+    }
+  },
+  {
+    "name": "Without Me (feat. Danni Carra)",
+    "link": "https://music.163.com/song?id=1835266139",
+    "duration": "04:26",
+    "artists": [
+      { "name": "MitiS", "link": "https://music.163.com/artist?id=40245" },
+      {
+        "name": "Danni Carra",
+        "link": "https://music.163.com/artist?id=32029983"
+      }
+    ],
+    "album": {
+      "name": "Lost",
+      "link": "https://music.163.com/album?id=125636092"
+    }
+  },
+  {
+    "name": "Shimmer",
+    "link": "https://music.163.com/song?id=1896090231",
+    "duration": "03:01",
+    "artists": [
+      { "name": "Nyte", "link": "https://music.163.com/artist?id=1034003" }
+    ],
+    "album": {
+      "name": "Shimmer",
+      "link": "https://music.163.com/album?id=136299509"
+    }
+  },
+  {
+    "name": "Whatever You Like (Radio Edit)",
+    "link": "https://music.163.com/song?id=537407955",
+    "duration": "02:45",
+    "artists": [
+      { "name": "Dasco", "link": "https://music.163.com/artist?id=1171064" },
+      { "name": "Haneri", "link": "https://music.163.com/artist?id=12834932" }
+    ],
+    "album": {
+      "name": "Whatever You Like",
+      "link": "https://music.163.com/album?id=37561406"
+    }
+  },
+  {
+    "name": "1 Second",
+    "link": "https://music.163.com/song?id=544517844",
+    "duration": "02:59",
+    "artists": [
+      {
+        "name": "Blasterjaxx",
+        "link": "https://music.163.com/artist?id=711692"
+      }
+    ],
+    "album": {
+      "name": "1 Second",
+      "link": "https://music.163.com/album?id=37865706"
+    }
+  },
+  {
+    "name": "September",
+    "link": "https://music.163.com/song?id=1308080698",
+    "duration": "03:05",
+    "artists": [
+      {
+        "name": "Campsite Dream",
+        "link": "https://music.163.com/artist?id=1146068"
+      }
+    ],
+    "album": {
+      "name": "September",
+      "link": "https://music.163.com/album?id=73143599"
+    }
+  },
+  {
+    "name": "Break Up Song (Steve Void Remix)",
+    "link": "https://music.163.com/song?id=1440830997",
+    "duration": "02:57",
+    "artists": [
+      { "name": "Little Mix", "link": "https://music.163.com/artist?id=96072" },
+      {
+        "name": "Steve Void",
+        "link": "https://music.163.com/artist?id=12062200"
+      }
+    ],
+    "album": {
+      "name": "Break Up Song (Steve Void Remix)",
+      "link": "https://music.163.com/album?id=88057808"
+    }
+  },
+  {
+    "name": "Happy with You (feat. WildHearts)",
+    "link": "https://music.163.com/song?id=1453160534",
+    "duration": "03:57",
+    "artists": [
+      {
+        "name": "WildVibes",
+        "link": "https://music.163.com/artist?id=1181751"
+      },
+      {
+        "name": "Wildhearts",
+        "link": "https://music.163.com/artist?id=132424"
+      },
+      { "name": "WINARTA", "link": "https://music.163.com/artist?id=35804048" },
+      {
+        "name": "Arild Aas",
+        "link": "https://music.163.com/artist?id=13436856"
+      }
+    ],
+    "album": {
+      "name": "Happy with You (Radio Edit)",
+      "link": "https://music.163.com/album?id=90379139"
+    }
+  },
+  {
+    "name": "I Got This",
+    "link": "https://music.163.com/song?id=1296637875",
+    "duration": "02:49",
+    "artists": [
+      {
+        "name": "Charming Horses",
+        "link": "https://music.163.com/artist?id=1137480"
+      },
+      { "name": "Jojee", "link": "https://music.163.com/artist?id=12046943" }
+    ],
+    "album": {
+      "name": "I Got This",
+      "link": "https://music.163.com/album?id=72022626"
+    }
+  },
+  {
+    "name": "Wicked",
+    "link": "https://music.163.com/song?id=1859828661",
+    "duration": "02:49",
+    "artists": [
+      { "name": "Syn Cole", "link": "https://music.163.com/artist?id=854432" },
+      { "name": "Jojee", "link": "https://music.163.com/artist?id=12046943" }
+    ],
+    "album": {
+      "name": "Wicked",
+      "link": "https://music.163.com/album?id=130133594"
+    }
+  },
+  {
+    "name": "Rescue Me",
+    "link": "https://music.163.com/song?id=1890666472",
+    "duration": "02:52",
+    "artists": [
+      { "name": "Alesso", "link": "https://music.163.com/artist?id=29251" },
+      { "name": "Danna Paola", "link": "https://music.163.com/artist?id=55508" }
+    ],
+    "album": {
+      "name": "Rescue Me (From The Original Television Soundtrack Blade Runner: Black Lotus)",
+      "link": "https://music.163.com/album?id=135426667"
+    }
+  },
+  {
+    "name": "Fragile",
+    "link": "https://music.163.com/song?id=1335940693",
+    "duration": "03:18",
+    "artists": [
+      { "name": "Arcades", "link": "https://music.163.com/artist?id=399074" },
+      { "name": "Sofia", "link": "https://music.163.com/artist?id=30618641" }
+    ],
+    "album": {
+      "name": "Fragile",
+      "link": "https://music.163.com/album?id=74991489"
+    }
+  },
+  {
+    "name": "Erase You",
+    "link": "https://music.163.com/song?id=1448413352",
+    "duration": "03:29",
+    "artists": [
+      { "name": "Kaaze", "link": "https://music.163.com/artist?id=952052" },
+      {
+        "name": "Millennial",
+        "link": "https://music.163.com/artist?id=14371911"
+      }
+    ],
+    "album": {
+      "name": "Erase You",
+      "link": "https://music.163.com/album?id=89511807"
+    }
+  },
+  {
+    "name": "The Reason Why (R3HAB Remix)",
+    "link": "https://music.163.com/song?id=1407911504",
+    "duration": "02:44",
+    "artists": [
+      { "name": "JP Cooper", "link": "https://music.163.com/artist?id=415889" },
+      {
+        "name": "Banx & Ranx",
+        "link": "https://music.163.com/artist?id=12311337"
+      },
+      {
+        "name": "Stefflon Don",
+        "link": "https://music.163.com/artist?id=12231083"
+      },
+      { "name": "R3HAB", "link": "https://music.163.com/artist?id=197248" }
+    ],
+    "album": {
+      "name": "The Reason Why (R3HAB Remix)",
+      "link": "https://music.163.com/album?id=83928546"
+    }
+  },
+  {
+    "name": "Oceans",
+    "link": "https://music.163.com/song?id=1874528576",
+    "duration": "03:42",
+    "artists": [
+      { "name": "Dash Berlin", "link": "https://music.163.com/artist?id=32124" }
+    ],
+    "album": {
+      "name": "Oceans",
+      "link": "https://music.163.com/album?id=132589680"
+    }
+  },
+  {
+    "name": "supposed to",
+    "link": "https://music.163.com/song?id=1825663491",
+    "duration": "02:54",
+    "artists": [
+      { "name": "BLÜ EYES", "link": "https://music.163.com/artist?id=14037240" }
+    ],
+    "album": {
+      "name": "supposed to",
+      "link": "https://music.163.com/album?id=124017111"
+    }
+  },
+  {
+    "name": "Haven (feat. Dia Frampton)",
+    "link": "https://music.163.com/song?id=1887905708",
+    "duration": "04:11",
+    "artists": [
+      {
+        "name": "William Black",
+        "link": "https://music.163.com/artist?id=248957"
+      },
+      {
+        "name": "Dia Frampton",
+        "link": "https://music.163.com/artist?id=55454"
+      }
+    ],
+    "album": {
+      "name": "Pieces",
+      "link": "https://music.163.com/album?id=134921399"
+    }
+  },
+  {
+    "name": "目光 (original Mix)",
+    "link": "https://music.163.com/song?id=1400258995",
+    "duration": "03:16",
+    "artists": [
+      { "name": "阳山伟伟", "link": "https://music.163.com/artist?id=12641107" }
+    ],
+    "album": {
+      "name": "国产·纯音",
+      "link": "https://music.163.com/album?id=82896127"
+    }
+  },
+  {
+    "name": "On The Run",
+    "link": "https://music.163.com/song?id=1470149634",
+    "duration": "05:00",
+    "artists": [
+      {
+        "name": "Timecop1983",
+        "link": "https://music.163.com/artist?id=954496"
+      }
+    ],
+    "album": {
+      "name": "Night Drive",
+      "link": "https://music.163.com/album?id=93794957"
+    }
+  },
+  {
+    "name": "Don't Go Next（在那之前）",
+    "link": "https://music.163.com/song?id=1882678591",
+    "duration": "03:55",
+    "artists": [
+      { "name": "Heydboy", "link": "https://music.163.com/artist?id=13154179" }
+    ],
+    "album": {
+      "name": "Don't Go Next (在那之前)",
+      "link": "https://music.163.com/album?id=134025126"
+    }
+  },
+  {
+    "name": "Talk Talk",
+    "link": "https://music.163.com/song?id=1364583240",
+    "duration": "03:35",
+    "artists": [
+      { "name": "Cannons", "link": "https://music.163.com/artist?id=1022051" }
+    ],
+    "album": {
+      "name": "Talk Talk",
+      "link": "https://music.163.com/album?id=79057433"
+    }
+  },
+  {
+    "name": "为什么人类不冬眠呢",
+    "link": "https://music.163.com/song?id=1817839113",
+    "duration": "03:27",
+    "artists": [
+      { "name": "杨世贸", "link": "https://music.163.com/artist?id=12571508" }
+    ],
+    "album": {
+      "name": "为什么人类不冬眠呢",
+      "link": "https://music.163.com/album?id=122579177"
+    }
+  },
+  {
+    "name": "新岁鸳鸯",
+    "link": "https://music.163.com/song?id=1820876893",
+    "duration": "03:05",
+    "artists": [
+      {
+        "name": "Crazy Bucket 陈楒潼",
+        "link": "https://music.163.com/artist?id=12538488"
+      },
+      {
+        "name": "Yurium幼里安",
+        "link": "https://music.163.com/artist?id=31374204"
+      },
+      {
+        "name": "张天奕ZTYick",
+        "link": "https://music.163.com/artist?id=12304366"
+      }
+    ],
+    "album": {
+      "name": "新岁鸳鸯",
+      "link": "https://music.163.com/album?id=122780302"
+    }
+  },
+  {
+    "name": "月亮爱过日落",
+    "link": "https://music.163.com/song?id=1896469403",
+    "duration": "02:37",
+    "artists": [
+      {
+        "name": "yihuik苡慧",
+        "link": "https://music.163.com/artist?id=36032190"
+      }
+    ],
+    "album": {
+      "name": "月亮爱过日落",
+      "link": "https://music.163.com/album?id=136377422"
+    }
+  },
+  {
+    "name": "光亮 - (大型纪录片《紫禁城》主题歌)",
+    "link": "https://music.163.com/song?id=1899994040",
+    "duration": "04:48",
+    "artists": [
+      { "name": "周深", "link": "https://music.163.com/artist?id=1030001" }
+    ],
+    "album": {
+      "name": "大型纪录片《紫禁城》主题歌音乐专辑",
+      "link": "https://music.163.com/album?id=136946487"
+    }
+  },
+  {
+    "name": "过载海岸",
+    "link": "https://music.163.com/song?id=1863104250",
+    "duration": "03:24",
+    "artists": [
+      { "name": "摄音记", "link": "https://music.163.com/artist?id=48126846" },
+      {
+        "name": "张天奕ZTYick",
+        "link": "https://music.163.com/artist?id=12304366"
+      },
+      { "name": "杨世贸", "link": "https://music.163.com/artist?id=12571508" },
+      {
+        "name": "森林中的鹿",
+        "link": "https://music.163.com/artist?id=12226717"
+      }
+    ],
+    "album": {
+      "name": "过载海岸",
+      "link": "https://music.163.com/album?id=130725237"
+    }
+  },
+  {
+    "name": "陪你走遍世间美好",
+    "link": "https://music.163.com/song?id=1902327589",
+    "duration": "03:46",
+    "artists": [
+      { "name": "咻咻满", "link": "https://music.163.com/artist?id=30802803" }
+    ],
+    "album": {
+      "name": "陪你走遍世间美好",
+      "link": "https://music.163.com/album?id=137315534"
+    }
+  },
+  {
+    "name": "春风十里报新年 - (2020集五福主题曲)",
+    "link": "https://music.163.com/song?id=1413464902",
+    "duration": "03:29",
+    "artists": [
+      {
+        "name": "接个吻，开一枪",
+        "link": "https://music.163.com/artist?id=12085016"
+      },
+      { "name": "火鸡", "link": "https://music.163.com/artist?id=28862362" },
+      { "name": "吕口口", "link": "https://music.163.com/artist?id=28304831" },
+      { "name": "Lambert", "link": "https://music.163.com/artist?id=31668975" },
+      { "name": "杨胖雨", "link": "https://music.163.com/artist?id=31051426" }
+    ],
+    "album": {
+      "name": "春风十里报新年",
+      "link": "https://music.163.com/album?id=84652174"
+    }
+  },
+  {
+    "name": "河流",
+    "link": "https://music.163.com/song?id=1437251162",
+    "duration": "04:00",
+    "artists": [
+      { "name": "蛙池", "link": "https://music.163.com/artist?id=32432697" }
+    ],
+    "album": {
+      "name": "河流 Demo",
+      "link": "https://music.163.com/album?id=87508146"
+    }
+  },
+  {
+    "name": "相信未来 - (动漫舞台剧《偷星九月天》主题曲)",
+    "link": "https://music.163.com/song?id=27533153",
+    "duration": "03:21",
+    "artists": [
+      { "name": "MIC男团", "link": "https://music.163.com/artist?id=12356" }
+    ],
+    "album": {
+      "name": "相信未来",
+      "link": "https://music.163.com/album?id=2628019"
+    }
+  },
+  {
+    "name": "Infinity",
+    "link": "https://music.163.com/song?id=1335330283",
+    "duration": "03:57",
+    "artists": [
+      {
+        "name": "Jaymes Young",
+        "link": "https://music.163.com/artist?id=820322"
+      }
+    ],
+    "album": {
+      "name": "Feel Something",
+      "link": "https://music.163.com/album?id=35372595"
+    }
+  },
+  {
+    "name": "Every Breath (feat. Janice Robinson) [Lucky Date Remix]",
+    "link": "https://music.163.com/song?id=406300830",
+    "duration": "04:52",
+    "artists": [
+      {
+        "name": "John Dahlbäck",
+        "link": "https://music.163.com/artist?id=688498"
+      },
+      {
+        "name": "Greg Cerrone",
+        "link": "https://music.163.com/artist?id=198046"
+      },
+      {
+        "name": "Janice Robinson",
+        "link": "https://music.163.com/artist?id=62727"
+      }
+    ],
+    "album": {
+      "name": "Every Breath (feat. Janice Robinson)",
+      "link": "https://music.163.com/album?id=34549738"
+    }
+  },
+  {
+    "name": "Could Have Been Me - (电影《欢乐好声音2》原声)",
+    "link": "https://music.163.com/song?id=1904153443",
+    "duration": "02:28",
+    "artists": [
+      { "name": "Halsey", "link": "https://music.163.com/artist?id=964321" }
+    ],
+    "album": {
+      "name": "Sing 2 (Original Motion Picture Soundtrack)",
+      "link": "https://music.163.com/album?id=137615227"
+    }
+  }
+]
