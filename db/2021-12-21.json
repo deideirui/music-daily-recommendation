@@ -1,0 +1,507 @@
+[
+  {
+    "name": "Bloom",
+    "link": "https://music.163.com/song?id=1835266140",
+    "duration": "03:29",
+    "artists": [
+      { "name": "MitiS", "link": "https://music.163.com/artist?id=40245" }
+    ],
+    "album": {
+      "name": "Lost",
+      "link": "https://music.163.com/album?id=125636092"
+    }
+  },
+  {
+    "name": "Only One",
+    "link": "https://music.163.com/song?id=1373129951",
+    "duration": "03:33",
+    "artists": [
+      {
+        "name": "Daniel Garrick",
+        "link": "https://music.163.com/artist?id=1163065"
+      },
+      { "name": "SƠN", "link": "https://music.163.com/artist?id=31724344" },
+      { "name": "Neyra", "link": "https://music.163.com/artist?id=32582913" },
+      {
+        "name": "Max Landry",
+        "link": "https://music.163.com/artist?id=13493957"
+      }
+    ],
+    "album": {
+      "name": "Only One",
+      "link": "https://music.163.com/album?id=79913934"
+    }
+  },
+  {
+    "name": "Who Am I",
+    "link": "https://music.163.com/song?id=1372820636",
+    "duration": "03:27",
+    "artists": [
+      {
+        "name": "Enzo Ingrosso",
+        "link": "https://music.163.com/artist?id=29611735"
+      },
+      {
+        "name": "Conrad Sewell",
+        "link": "https://music.163.com/artist?id=1050800"
+      }
+    ],
+    "album": {
+      "name": "Who Am I",
+      "link": "https://music.163.com/album?id=79884974"
+    }
+  },
+  {
+    "name": "Shine",
+    "link": "https://music.163.com/song?id=1381708152",
+    "duration": "02:43",
+    "artists": [
+      { "name": "Manse", "link": "https://music.163.com/artist?id=855409" },
+      {
+        "name": "David Shane",
+        "link": "https://music.163.com/artist?id=29840982"
+      },
+      {
+        "name": "Greencoast",
+        "link": "https://music.163.com/artist?id=28691722"
+      }
+    ],
+    "album": {
+      "name": "Shine",
+      "link": "https://music.163.com/album?id=80751654"
+    }
+  },
+  {
+    "name": "Flying Aces",
+    "link": "https://music.163.com/song?id=1896996408",
+    "duration": "02:35",
+    "artists": [
+      {
+        "name": "Audiomachine",
+        "link": "https://music.163.com/artist?id=87066"
+      }
+    ],
+    "album": {
+      "name": "The Fire and the Fury",
+      "link": "https://music.163.com/album?id=136429072"
+    }
+  },
+  {
+    "name": "Liquid Lights",
+    "link": "https://music.163.com/song?id=508297517",
+    "duration": "07:15",
+    "artists": [
+      { "name": "Skua", "link": "https://music.163.com/artist?id=12399048" }
+    ],
+    "album": {
+      "name": "Tectonica",
+      "link": "https://music.163.com/album?id=36303280"
+    }
+  },
+  {
+    "name": "Welcome To New York",
+    "link": "https://music.163.com/song?id=29561031",
+    "duration": "03:32",
+    "artists": [
+      {
+        "name": "Taylor Swift",
+        "link": "https://music.163.com/artist?id=44266"
+      }
+    ],
+    "album": {
+      "name": "1989 (Deluxe)",
+      "link": "https://music.163.com/album?id=3029801"
+    }
+  },
+  {
+    "name": "Boloria",
+    "link": "https://music.163.com/song?id=1812920419",
+    "duration": "07:41",
+    "artists": [
+      {
+        "name": "Roald Velden",
+        "link": "https://music.163.com/artist?id=178498"
+      }
+    ],
+    "album": {
+      "name": "Boloria",
+      "link": "https://music.163.com/album?id=121793536"
+    }
+  },
+  {
+    "name": "Children (Eat Me Edit)",
+    "link": "https://music.163.com/song?id=5086070",
+    "duration": "04:05",
+    "artists": [
+      {
+        "name": "Robert Miles",
+        "link": "https://music.163.com/artist?id=41957"
+      }
+    ],
+    "album": {
+      "name": "Into The Deep Vol.02",
+      "link": "https://music.163.com/album?id=503391"
+    }
+  },
+  {
+    "name": "You Are Not Alone",
+    "link": "https://music.163.com/song?id=1338910241",
+    "duration": "03:20",
+    "artists": [
+      {
+        "name": "WildVibes",
+        "link": "https://music.163.com/artist?id=1181751"
+      },
+      {
+        "name": "Patrick Key",
+        "link": "https://music.163.com/artist?id=31242552"
+      },
+      {
+        "name": "David Shane",
+        "link": "https://music.163.com/artist?id=29840982"
+      },
+      {
+        "name": "Revealed Recordings",
+        "link": "https://music.163.com/artist?id=28753573"
+      }
+    ],
+    "album": {
+      "name": "You Are Not Alone",
+      "link": "https://music.163.com/album?id=75132737"
+    }
+  },
+  {
+    "name": "Fall Again",
+    "link": "https://music.163.com/song?id=1341922614",
+    "duration": "03:05",
+    "artists": [
+      { "name": "Arcando", "link": "https://music.163.com/artist?id=11975134" },
+      {
+        "name": "Daniel Garrick",
+        "link": "https://music.163.com/artist?id=1163065"
+      },
+      {
+        "name": "Nessa Bransan",
+        "link": "https://music.163.com/artist?id=31289821"
+      }
+    ],
+    "album": {
+      "name": "Revealed Recordings presents Progressive EP Vol. 1",
+      "link": "https://music.163.com/album?id=75321316"
+    }
+  },
+  {
+    "name": "Late Night",
+    "link": "https://music.163.com/song?id=1329665669",
+    "duration": "03:48",
+    "artists": [
+      { "name": "ODESZA", "link": "https://music.163.com/artist?id=839108" }
+    ],
+    "album": {
+      "name": "A Moment Apart (Deluxe Edition)",
+      "link": "https://music.163.com/album?id=74669989"
+    }
+  },
+  {
+    "name": "Falling",
+    "link": "https://music.163.com/song?id=1428699247",
+    "duration": "03:20",
+    "artists": [
+      { "name": "Kosling", "link": "https://music.163.com/artist?id=29289583" },
+      { "name": "AWR", "link": "https://music.163.com/artist?id=12047294" }
+    ],
+    "album": {
+      "name": "Falling",
+      "link": "https://music.163.com/album?id=86280152"
+    }
+  },
+  {
+    "name": "Light A Fire",
+    "link": "https://music.163.com/song?id=1472364314",
+    "duration": "03:13",
+    "artists": [
+      {
+        "name": "Blackcode",
+        "link": "https://music.163.com/artist?id=30013002"
+      },
+      {
+        "name": "Karl Sylver",
+        "link": "https://music.163.com/artist?id=32715201"
+      },
+      { "name": "Omz", "link": "https://music.163.com/artist?id=503850" },
+      {
+        "name": "Revealed Recordings",
+        "link": "https://music.163.com/artist?id=28753573"
+      }
+    ],
+    "album": {
+      "name": "Light a Fire",
+      "link": "https://music.163.com/album?id=94192527"
+    }
+  },
+  {
+    "name": "Goodbye",
+    "link": "https://music.163.com/song?id=1405248650",
+    "duration": "03:17",
+    "artists": [
+      { "name": "Arsen", "link": "https://music.163.com/artist?id=34334160" },
+      { "name": "FALCO", "link": "https://music.163.com/artist?id=33805789" },
+      {
+        "name": "Revealed Recordings",
+        "link": "https://music.163.com/artist?id=28753573"
+      }
+    ],
+    "album": {
+      "name": "Goodbye",
+      "link": "https://music.163.com/album?id=83592708"
+    }
+  },
+  {
+    "name": "From Side To Side",
+    "link": "https://music.163.com/song?id=1446400503",
+    "duration": "02:55",
+    "artists": [
+      {
+        "name": "Sofus Wiene",
+        "link": "https://music.163.com/artist?id=13050086"
+      }
+    ],
+    "album": {
+      "name": "From Side To Side",
+      "link": "https://music.163.com/album?id=89125633"
+    }
+  },
+  {
+    "name": "Year Of The Dragon",
+    "link": "https://music.163.com/song?id=1871054631",
+    "duration": "02:32",
+    "artists": [
+      { "name": "NWYR", "link": "https://music.163.com/artist?id=12325211" }
+    ],
+    "album": {
+      "name": "Year Of The Dragon",
+      "link": "https://music.163.com/album?id=132023895"
+    }
+  },
+  {
+    "name": "Blinded",
+    "link": "https://music.163.com/song?id=1443143392",
+    "duration": "02:55",
+    "artists": [
+      {
+        "name": "Wav3motion",
+        "link": "https://music.163.com/artist?id=12031110"
+      },
+      { "name": "B2A", "link": "https://music.163.com/artist?id=30133713" },
+      {
+        "name": "Anklebreaker",
+        "link": "https://music.163.com/artist?id=14834960"
+      }
+    ],
+    "album": {
+      "name": "Blinded",
+      "link": "https://music.163.com/album?id=88483119"
+    }
+  },
+  {
+    "name": "恋のマイアヒ Dragostea Din Tei (W&W Remix - Radio Edit) - (Dragostea Din Tei (W&W Remix - Radio Edit))",
+    "link": "https://music.163.com/song?id=1813289175",
+    "duration": "02:54",
+    "artists": [
+      { "name": "O-Zone", "link": "https://music.163.com/artist?id=102077" },
+      { "name": "W&W", "link": "https://music.163.com/artist?id=46131" }
+    ],
+    "album": {
+      "name": "恋のマイアヒ Dragostea Din Tei (W&W Remix)",
+      "link": "https://music.163.com/album?id=121842206"
+    }
+  },
+  {
+    "name": "Out of Time (feat. Pyxis & Jay Diggs)",
+    "link": "https://music.163.com/song?id=1380905152",
+    "duration": "04:55",
+    "artists": [
+      { "name": " Kalax ", "link": "https://music.163.com/artist?id=986263" }
+    ],
+    "album": {
+      "name": "III",
+      "link": "https://music.163.com/album?id=80658988"
+    }
+  },
+  {
+    "name": "You Are My Energy",
+    "link": "https://music.163.com/song?id=19106403",
+    "duration": "04:31",
+    "artists": [
+      { "name": "Spagna", "link": "https://music.163.com/artist?id=75293" }
+    ],
+    "album": {
+      "name": "You Are My Energy",
+      "link": "https://music.163.com/album?id=1751435"
+    }
+  },
+  {
+    "name": "Find",
+    "link": "https://music.163.com/song?id=1325897033",
+    "duration": "03:35",
+    "artists": [
+      { "name": "Slushii", "link": "https://music.163.com/artist?id=1193232" }
+    ],
+    "album": {
+      "name": "Find",
+      "link": "https://music.163.com/album?id=74267955"
+    }
+  },
+  {
+    "name": "Tears of The Sun",
+    "link": "https://music.163.com/song?id=547728059",
+    "duration": "03:56",
+    "artists": [
+      {
+        "name": "LookedatHerFore",
+        "link": "https://music.163.com/artist?id=13610762"
+      }
+    ],
+    "album": {
+      "name": "Tears of The Sun",
+      "link": "https://music.163.com/album?id=38009318"
+    }
+  },
+  {
+    "name": "喜与悲",
+    "link": "https://music.163.com/song?id=1893089954",
+    "duration": "02:40",
+    "artists": [
+      {
+        "name": "一泩所爱•",
+        "link": "https://music.163.com/artist?id=50336717"
+      }
+    ],
+    "album": {
+      "name": "遗憾",
+      "link": "https://music.163.com/album?id=135740468"
+    }
+  },
+  {
+    "name": "Just Look Up (From Don’t Look Up) - (电影《不要抬头》原声)",
+    "link": "https://music.163.com/song?id=1900154189",
+    "duration": "03:21",
+    "artists": [
+      {
+        "name": "Ariana Grande",
+        "link": "https://music.163.com/artist?id=48161"
+      },
+      { "name": "Kid Cudi", "link": "https://music.163.com/artist?id=37535" }
+    ],
+    "album": {
+      "name": "Just Look Up (From Don’t Look Up)",
+      "link": "https://music.163.com/album?id=136976261"
+    }
+  },
+  {
+    "name": "富士山下",
+    "link": "https://music.163.com/song?id=573969617",
+    "duration": "04:18",
+    "artists": [
+      { "name": "陈奕迅", "link": "https://music.163.com/artist?id=2116" }
+    ],
+    "album": {
+      "name": "我...真的受伤了",
+      "link": "https://music.163.com/album?id=39744133"
+    }
+  },
+  {
+    "name": "Let It Rain",
+    "link": "https://music.163.com/song?id=1088157",
+    "duration": "04:14",
+    "artists": [
+      {
+        "name": "Brendan James",
+        "link": "https://music.163.com/artist?id=29350"
+      }
+    ],
+    "album": {
+      "name": "Brendan James",
+      "link": "https://music.163.com/album?id=113110"
+    }
+  },
+  {
+    "name": "是想你的声音啊 - (你快听 滴答滴)",
+    "link": "https://music.163.com/song?id=1459950258",
+    "duration": "03:54",
+    "artists": [
+      { "name": "傲七爷", "link": "https://music.163.com/artist?id=13145036" }
+    ],
+    "album": {
+      "name": "是想你的声音啊",
+      "link": "https://music.163.com/album?id=91888443"
+    }
+  },
+  {
+    "name": "Hold Me ¹ ⁹ ⁸ ⁷",
+    "link": "https://music.163.com/song?id=1429214739",
+    "duration": "02:45",
+    "artists": [
+      { "name": "水仙LONE", "link": "https://music.163.com/artist?id=31865321" }
+    ],
+    "album": {
+      "name": " ¹ ⁹ ⁸ ⁷",
+      "link": "https://music.163.com/album?id=86301872"
+    }
+  },
+  {
+    "name": "翻山越岭，双向奔赴",
+    "link": "https://music.163.com/song?id=1811941177",
+    "duration": "03:55",
+    "artists": [
+      { "name": "JSore", "link": "https://music.163.com/artist?id=12002137" }
+    ],
+    "album": {
+      "name": "Finding Love",
+      "link": "https://music.163.com/album?id=121519790"
+    }
+  },
+  {
+    "name": "纪念",
+    "link": "https://music.163.com/song?id=1864789443",
+    "duration": "03:24",
+    "artists": [
+      { "name": "逗仔", "link": "https://music.163.com/artist?id=31001495" }
+    ],
+    "album": {
+      "name": "高考应援曲 高考加油",
+      "link": "https://music.163.com/album?id=91786897"
+    }
+  },
+  {
+    "name": "Take me hand - (抓紧我的手)",
+    "link": "https://music.163.com/song?id=1860262663",
+    "duration": "04:20",
+    "artists": [
+      {
+        "name": "DAISHI DANCE",
+        "link": "https://music.163.com/artist?id=13953"
+      },
+      {
+        "name": "Cécile Corbel",
+        "link": "https://music.163.com/artist?id=51012"
+      }
+    ],
+    "album": {
+      "name": "WONDER Tourism",
+      "link": "https://music.163.com/album?id=130198198"
+    }
+  },
+  {
+    "name": "Johnny Boy",
+    "link": "https://music.163.com/song?id=36084844",
+    "duration": "03:32",
+    "artists": [
+      { "name": "Santiano", "link": "https://music.163.com/artist?id=101716" }
+    ],
+    "album": {
+      "name": "Von Liebe, Tod und Freiheit",
+      "link": "https://music.163.com/album?id=3388106"
+    }
+  }
+]
