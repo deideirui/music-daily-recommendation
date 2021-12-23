@@ -1,0 +1,482 @@
+[
+  {
+    "name": "Look at the Sky",
+    "link": "https://music.163.com/song?id=1815533595",
+    "duration": "05:09",
+    "artists": [
+      {
+        "name": "Porter Robinson",
+        "link": "https://music.163.com/artist?id=185871"
+      }
+    ],
+    "album": {
+      "name": "Look at the Sky",
+      "link": "https://music.163.com/album?id=122223858"
+    }
+  },
+  {
+    "name": "Crazy (feat. Casey Cook)",
+    "link": "https://music.163.com/song?id=1879809494",
+    "duration": "03:32",
+    "artists": [
+      { "name": "Wooli", "link": "https://music.163.com/artist?id=12203238" },
+      { "name": "Codeko", "link": "https://music.163.com/artist?id=1049914" },
+      {
+        "name": "Casey Cook",
+        "link": "https://music.163.com/artist?id=1192549"
+      }
+    ],
+    "album": {
+      "name": "Crazy (feat. Casey Cook)",
+      "link": "https://music.163.com/album?id=133517380"
+    }
+  },
+  {
+    "name": "lonely in LA",
+    "link": "https://music.163.com/song?id=1849196932",
+    "duration": "02:58",
+    "artists": [
+      { "name": "San Holo", "link": "https://music.163.com/artist?id=1017035" }
+    ],
+    "album": {
+      "name": "bb u ok?",
+      "link": "https://music.163.com/album?id=128204234"
+    }
+  },
+  {
+    "name": "Standing Still",
+    "link": "https://music.163.com/song?id=1440850870",
+    "duration": "03:06",
+    "artists": [
+      {
+        "name": "Joakim Molitor",
+        "link": "https://music.163.com/artist?id=13972238"
+      },
+      {
+        "name": "Victoria Voss",
+        "link": "https://music.163.com/artist?id=29628377"
+      }
+    ],
+    "album": {
+      "name": "Standing Still",
+      "link": "https://music.163.com/album?id=88064689"
+    }
+  },
+  {
+    "name": "Poetry",
+    "link": "https://music.163.com/song?id=1902408900",
+    "duration": "03:07",
+    "artists": [
+      {
+        "name": "Orjan Nilsen",
+        "link": "https://music.163.com/artist?id=41064"
+      }
+    ],
+    "album": {
+      "name": "Poetry",
+      "link": "https://music.163.com/album?id=137339920"
+    }
+  },
+  {
+    "name": "Lose You Now",
+    "link": "https://music.163.com/song?id=1809169083",
+    "duration": "03:13",
+    "artists": [
+      {
+        "name": "Lindsey Stirling",
+        "link": "https://music.163.com/artist?id=66225"
+      },
+      { "name": "Mako", "link": "https://music.163.com/artist?id=68192" }
+    ],
+    "album": {
+      "name": "Lose You Now",
+      "link": "https://music.163.com/album?id=121139945"
+    }
+  },
+  {
+    "name": "Down On My Knees",
+    "link": "https://music.163.com/song?id=18728252",
+    "duration": "03:15",
+    "artists": [
+      {
+        "name": "Jennifer Rush",
+        "link": "https://music.163.com/artist?id=62600"
+      }
+    ],
+    "album": {
+      "name": "Now Is The Hour",
+      "link": "https://music.163.com/album?id=1716955"
+    }
+  },
+  {
+    "name": "Little Light",
+    "link": "https://music.163.com/song?id=1439177900",
+    "duration": "02:42",
+    "artists": [
+      { "name": "Spada", "link": "https://music.163.com/artist?id=142013" },
+      { "name": "Aurya", "link": "https://music.163.com/artist?id=34817547" }
+    ],
+    "album": {
+      "name": "Little Light",
+      "link": "https://music.163.com/album?id=87830525"
+    }
+  },
+  {
+    "name": "Dancing in the Moonlight",
+    "link": "https://music.163.com/song?id=564094072",
+    "duration": "02:44",
+    "artists": [
+      { "name": "NEIMY", "link": "https://music.163.com/artist?id=12742289" },
+      { "name": "Jubël", "link": "https://music.163.com/artist?id=12312412" }
+    ],
+    "album": {
+      "name": "Dancing in the Moonlight",
+      "link": "https://music.163.com/album?id=39095125"
+    }
+  },
+  {
+    "name": "Alone, Pt. II",
+    "link": "https://music.163.com/song?id=1411973459",
+    "duration": "02:59",
+    "artists": [
+      {
+        "name": "Alan Walker",
+        "link": "https://music.163.com/artist?id=1045123"
+      },
+      { "name": "Ava Max", "link": "https://music.163.com/artist?id=14486166" }
+    ],
+    "album": {
+      "name": "Alone, Pt. II",
+      "link": "https://music.163.com/album?id=84354140"
+    }
+  },
+  {
+    "name": "When This Is Over",
+    "link": "https://music.163.com/song?id=1842712874",
+    "duration": "03:02",
+    "artists": [
+      { "name": "Dabin", "link": "https://music.163.com/artist?id=783446" },
+      { "name": "Nurko", "link": "https://music.163.com/artist?id=11991089" },
+      {
+        "name": "Donovan Woods",
+        "link": "https://music.163.com/artist?id=28563874"
+      }
+    ],
+    "album": {
+      "name": "When This Is Over",
+      "link": "https://music.163.com/album?id=126982886"
+    }
+  },
+  {
+    "name": "Because Of You",
+    "link": "https://music.163.com/song?id=1827505451",
+    "duration": "03:13",
+    "artists": [
+      {
+        "name": "Shelco Garcia & Teenwolf",
+        "link": "https://music.163.com/artist?id=422868"
+      },
+      {
+        "name": "Revealed Recordings",
+        "link": "https://music.163.com/artist?id=28753573"
+      }
+    ],
+    "album": {
+      "name": "Because Of You",
+      "link": "https://music.163.com/album?id=124303049"
+    }
+  },
+  {
+    "name": "Endless",
+    "link": "https://music.163.com/song?id=500686373",
+    "duration": "03:20",
+    "artists": [
+      { "name": "FEWZ", "link": "https://music.163.com/artist?id=12008133" }
+    ],
+    "album": {
+      "name": "Endless",
+      "link": "https://music.163.com/album?id=36031107"
+    }
+  },
+  {
+    "name": "Wolves",
+    "link": "https://music.163.com/song?id=1805290105",
+    "duration": "03:18",
+    "artists": [
+      {
+        "name": "Selena Gomez",
+        "link": "https://music.163.com/artist?id=140196"
+      },
+      {
+        "name": "Marshmello",
+        "link": "https://music.163.com/artist?id=1060019"
+      }
+    ],
+    "album": {
+      "name": "Santai Di Pantai",
+      "link": "https://music.163.com/album?id=120605577"
+    }
+  },
+  {
+    "name": "The Long Road Home",
+    "link": "https://music.163.com/song?id=518094021",
+    "duration": "03:11",
+    "artists": [
+      { "name": "Outwild", "link": "https://music.163.com/artist?id=1115191" }
+    ],
+    "album": {
+      "name": "The Long Road Home",
+      "link": "https://music.163.com/album?id=36781029"
+    }
+  },
+  {
+    "name": "One Last Night (SMLE Remix)",
+    "link": "https://music.163.com/song?id=32717499",
+    "duration": "03:49",
+    "artists": [
+      { "name": "SMLE", "link": "https://music.163.com/artist?id=1084201" },
+      { "name": "Vaults", "link": "https://music.163.com/artist?id=80349" }
+    ],
+    "album": {
+      "name": "One Last Night (SMLE Remix)",
+      "link": "https://music.163.com/album?id=3161904"
+    }
+  },
+  {
+    "name": "Life Of Sin Pt. 4",
+    "link": "https://music.163.com/song?id=1373259836",
+    "duration": "04:35",
+    "artists": [
+      { "name": "MitiS", "link": "https://music.163.com/artist?id=40245" }
+    ],
+    "album": {
+      "name": "Life Of Sin Series (2019)",
+      "link": "https://music.163.com/album?id=79931476"
+    }
+  },
+  {
+    "name": "Sa Mau Koi",
+    "link": "https://music.163.com/song?id=1840648596",
+    "duration": "03:02",
+    "artists": [
+      {
+        "name": "Cytawalone",
+        "link": "https://music.163.com/artist?id=47749948"
+      }
+    ],
+    "album": {
+      "name": "Sa Mau Koi",
+      "link": "https://music.163.com/album?id=126624526"
+    }
+  },
+  {
+    "name": "沃野",
+    "link": "https://music.163.com/song?id=1409420475",
+    "duration": "04:42",
+    "artists": [
+      { "name": "李化禹", "link": "https://music.163.com/artist?id=12291617" }
+    ],
+    "album": {
+      "name": "无穷行",
+      "link": "https://music.163.com/album?id=84025503"
+    }
+  },
+  {
+    "name": "Starry Sky",
+    "link": "https://music.163.com/song?id=1851752489",
+    "duration": "03:49",
+    "artists": [
+      { "name": "AK-ID", "link": "https://music.163.com/artist?id=47775992" }
+    ],
+    "album": {
+      "name": "Starry Sky",
+      "link": "https://music.163.com/album?id=128684922"
+    }
+  },
+  {
+    "name": "Hear Me Now",
+    "link": "https://music.163.com/song?id=1435296613",
+    "duration": "03:14",
+    "artists": [
+      { "name": "Alok", "link": "https://music.163.com/artist?id=1170012" },
+      { "name": "Zeeba", "link": "https://music.163.com/artist?id=13312636" },
+      {
+        "name": "Bruno Martini",
+        "link": "https://music.163.com/artist?id=12355546"
+      }
+    ],
+    "album": {
+      "name": "Spinnin' Sessions Shanghai 2020",
+      "link": "https://music.163.com/album?id=87009520"
+    }
+  },
+  {
+    "name": "Melody (Ofenbach Remix)",
+    "link": "https://music.163.com/song?id=573292583",
+    "duration": "02:46",
+    "artists": [
+      {
+        "name": "James Blunt",
+        "link": "https://music.163.com/artist?id=35329"
+      },
+      {
+        "name": "Lost Frequencies",
+        "link": "https://music.163.com/artist?id=1039114"
+      }
+    ],
+    "album": {
+      "name": "Melody (Remixes, Pt. 1)",
+      "link": "https://music.163.com/album?id=39697557"
+    }
+  },
+  {
+    "name": "Shots (Broiler Remix)",
+    "link": "https://music.163.com/song?id=1810859892",
+    "duration": "03:11",
+    "artists": [
+      {
+        "name": "Imagine Dragons",
+        "link": "https://music.163.com/artist?id=94779"
+      },
+      { "name": "Broiler", "link": "https://music.163.com/artist?id=886022" }
+    ],
+    "album": {
+      "name": "Edzésre Fel!",
+      "link": "https://music.163.com/album?id=121452916"
+    }
+  },
+  {
+    "name": "A day",
+    "link": "https://music.163.com/song?id=513170992",
+    "duration": "02:54",
+    "artists": [
+      { "name": "∀", "link": "https://music.163.com/artist?id=12198948" }
+    ],
+    "album": {
+      "name": "Emmm",
+      "link": "https://music.163.com/album?id=36570414"
+    }
+  },
+  {
+    "name": "High Up In The Sky",
+    "link": "https://music.163.com/song?id=1822579323",
+    "duration": "02:45",
+    "artists": [
+      { "name": "Quickdrop", "link": "https://music.163.com/artist?id=207524" }
+    ],
+    "album": {
+      "name": "High Up In The Sky",
+      "link": "https://music.163.com/album?id=123453684"
+    }
+  },
+  {
+    "name": "Liratia",
+    "link": "https://music.163.com/song?id=496647658",
+    "duration": "04:04",
+    "artists": [
+      { "name": "礼谙", "link": "https://music.163.com/artist?id=12185226" }
+    ],
+    "album": {
+      "name": "Liratia",
+      "link": "https://music.163.com/album?id=35890777"
+    }
+  },
+  {
+    "name": "Hometown",
+    "link": "https://music.163.com/song?id=1376873584",
+    "duration": "03:31",
+    "artists": [
+      { "name": "Aexly", "link": "https://music.163.com/artist?id=30548630" }
+    ],
+    "album": {
+      "name": "Hometown",
+      "link": "https://music.163.com/album?id=80258189"
+    }
+  },
+  {
+    "name": "Made in Hollywood",
+    "link": "https://music.163.com/song?id=31814116",
+    "duration": "03:34",
+    "artists": [
+      { "name": "LANY", "link": "https://music.163.com/artist?id=999460" }
+    ],
+    "album": {
+      "name": "Made in Hollywood",
+      "link": "https://music.163.com/album?id=3140026"
+    }
+  },
+  {
+    "name": "City Streets",
+    "link": "https://music.163.com/song?id=1357730313",
+    "duration": "03:33",
+    "artists": [
+      {
+        "name": "Charly Lownoise",
+        "link": "https://music.163.com/artist?id=14102753"
+      },
+      { "name": "Re-Style", "link": "https://music.163.com/artist?id=709052" }
+    ],
+    "album": {
+      "name": "City Streets",
+      "link": "https://music.163.com/album?id=78416502"
+    }
+  },
+  {
+    "name": "Ruhe",
+    "link": "https://music.163.com/song?id=3547937",
+    "duration": "03:32",
+    "artists": [
+      { "name": "Schiller", "link": "https://music.163.com/artist?id=77759" }
+    ],
+    "album": {
+      "name": "Voyage",
+      "link": "https://music.163.com/album?id=359712"
+    }
+  },
+  {
+    "name": "限定涂鸦 (Acoustic Ver.)",
+    "link": "https://music.163.com/song?id=1853884220",
+    "duration": "03:04",
+    "artists": [
+      { "name": "摄音记", "link": "https://music.163.com/artist?id=48126846" },
+      {
+        "name": "张天奕ZTYick",
+        "link": "https://music.163.com/artist?id=12304366"
+      },
+      { "name": "杨世贸", "link": "https://music.163.com/artist?id=12571508" },
+      {
+        "name": "Vicky宣宣",
+        "link": "https://music.163.com/artist?id=33097213"
+      }
+    ],
+    "album": {
+      "name": "限定涂鸦 (Acoustic Ver.)",
+      "link": "https://music.163.com/album?id=129130171"
+    }
+  },
+  {
+    "name": "Afterlife (Ark Patrol Remix)",
+    "link": "https://music.163.com/song?id=399340152",
+    "duration": "03:16",
+    "artists": [
+      { "name": "XYLØ", "link": "https://music.163.com/artist?id=1050511" },
+      { "name": "Ark Patrol", "link": "https://music.163.com/artist?id=784267" }
+    ],
+    "album": {
+      "name": "Afterlife (Ark Patrol Remix)",
+      "link": "https://music.163.com/album?id=34401042"
+    }
+  },
+  {
+    "name": "Thokoloshi",
+    "link": "https://music.163.com/song?id=1398528550",
+    "duration": "02:26",
+    "artists": [
+      { "name": "Ehrling", "link": "https://music.163.com/artist?id=12048130" }
+    ],
+    "album": {
+      "name": "Thokoloshi",
+      "link": "https://music.163.com/album?id=82632691"
+    }
+  }
+]
