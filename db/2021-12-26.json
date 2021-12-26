@@ -1,0 +1,494 @@
+[
+  {
+    "name": "Rise & Fall",
+    "link": "https://music.163.com/song?id=1316375909",
+    "duration": "02:38",
+    "artists": [
+      {
+        "name": "Mike Perry",
+        "link": "https://music.163.com/artist?id=195021"
+      },
+      {
+        "name": "Cathrine Lassen",
+        "link": "https://music.163.com/artist?id=29653694"
+      }
+    ],
+    "album": {
+      "name": "Rise & Fall",
+      "link": "https://music.163.com/album?id=73468402"
+    }
+  },
+  {
+    "name": "I Won't Lie",
+    "link": "https://music.163.com/song?id=1342819249",
+    "duration": "03:11",
+    "artists": [
+      {
+        "name": "Skye Holland",
+        "link": "https://music.163.com/artist?id=12356427"
+      },
+      { "name": "BRDGS", "link": "https://music.163.com/artist?id=12841815" }
+    ],
+    "album": {
+      "name": "I Won't Lie",
+      "link": "https://music.163.com/album?id=75366661"
+    }
+  },
+  {
+    "name": "This Town",
+    "link": "https://music.163.com/song?id=507903881",
+    "duration": "03:22",
+    "artists": [
+      { "name": "Kygo", "link": "https://music.163.com/artist?id=844410" },
+      {
+        "name": "Sasha Alex Sloan",
+        "link": "https://music.163.com/artist?id=12646102"
+      }
+    ],
+    "album": {
+      "name": "Stargazing",
+      "link": "https://music.163.com/album?id=36296886"
+    }
+  },
+  {
+    "name": "On Your Side",
+    "link": "https://music.163.com/song?id=435288288",
+    "duration": "02:51",
+    "artists": [
+      {
+        "name": "The Veronicas",
+        "link": "https://music.163.com/artist?id=102022"
+      }
+    ],
+    "album": {
+      "name": "On Your Side",
+      "link": "https://music.163.com/album?id=34913100"
+    }
+  },
+  {
+    "name": "scene",
+    "link": "https://music.163.com/song?id=1899942456",
+    "duration": "03:21",
+    "artists": [
+      { "name": "澤野弘之", "link": "https://music.163.com/artist?id=15290" }
+    ],
+    "album": {
+      "name": "scene",
+      "link": "https://music.163.com/album?id=136940095"
+    }
+  },
+  {
+    "name": "Tidal Wave",
+    "link": "https://music.163.com/song?id=439122515",
+    "duration": "03:02",
+    "artists": [
+      { "name": "Kiso", "link": "https://music.163.com/artist?id=1089102" },
+      { "name": "Rossy", "link": "https://music.163.com/artist?id=32135804" }
+    ],
+    "album": {
+      "name": "Tidal Wave",
+      "link": "https://music.163.com/album?id=34975151"
+    }
+  },
+  {
+    "name": "Like I Love You (Money G Radio Edit)",
+    "link": "https://music.163.com/song?id=1923560",
+    "duration": "03:42",
+    "artists": [
+      { "name": "R.I.O.", "link": "https://music.163.com/artist?id=42495" }
+    ],
+    "album": {
+      "name": "Turn This Club Around",
+      "link": "https://music.163.com/album?id=193984"
+    }
+  },
+  {
+    "name": "Ain't Nobody Perfect",
+    "link": "https://music.163.com/song?id=1443498314",
+    "duration": "02:28",
+    "artists": [
+      { "name": "Aeden", "link": "https://music.163.com/artist?id=372253" },
+      { "name": "Um41k", "link": "https://music.163.com/artist?id=28691849" }
+    ],
+    "album": {
+      "name": "Ain't Nobody Perfect",
+      "link": "https://music.163.com/album?id=88548154"
+    }
+  },
+  {
+    "name": "Walls",
+    "link": "https://music.163.com/song?id=528272637",
+    "duration": "03:16",
+    "artists": [
+      { "name": "Ruben", "link": "https://music.163.com/artist?id=12347080" }
+    ],
+    "album": {
+      "name": "Walls",
+      "link": "https://music.163.com/album?id=37176257"
+    }
+  },
+  {
+    "name": "Astronomia (Never Go Home)",
+    "link": "https://music.163.com/song?id=1481127050",
+    "duration": "02:36",
+    "artists": [
+      { "name": "Tony Igy", "link": "https://music.163.com/artist?id=990184" }
+    ],
+    "album": {
+      "name": "Astronomia (Never Go Home)",
+      "link": "https://music.163.com/album?id=95738978"
+    }
+  },
+  {
+    "name": "Reminding Me",
+    "link": "https://music.163.com/song?id=472219602",
+    "duration": "03:29",
+    "artists": [
+      { "name": "Shawn Hook", "link": "https://music.163.com/artist?id=44247" },
+      {
+        "name": "Vanessa Hudgens",
+        "link": "https://music.163.com/artist?id=83519"
+      }
+    ],
+    "album": {
+      "name": "Reminding Me",
+      "link": "https://music.163.com/album?id=35357334"
+    }
+  },
+  {
+    "name": "You’ll Be Mine",
+    "link": "https://music.163.com/song?id=27836503",
+    "duration": "04:10",
+    "artists": [
+      {
+        "name": "Havana Brown",
+        "link": "https://music.163.com/artist?id=55440"
+      },
+      { "name": "R3HAB", "link": "https://music.163.com/artist?id=197248" }
+    ],
+    "album": {
+      "name": "Flashing Lights (Deluxe Version)",
+      "link": "https://music.163.com/album?id=2685073"
+    }
+  },
+  {
+    "name": "Hold Us Together",
+    "link": "https://music.163.com/song?id=480517594",
+    "duration": "03:41",
+    "artists": [
+      { "name": "WILD", "link": "https://music.163.com/artist?id=12074090" }
+    ],
+    "album": {
+      "name": "Hold Us Together",
+      "link": "https://music.163.com/album?id=35550333"
+    }
+  },
+  {
+    "name": "Found Love",
+    "link": "https://music.163.com/song?id=1343413887",
+    "duration": "02:37",
+    "artists": [
+      { "name": "MOTi", "link": "https://music.163.com/artist?id=366384" },
+      {
+        "name": "Terry McLove",
+        "link": "https://music.163.com/artist?id=30970506"
+      },
+      {
+        "name": "Lovespeake",
+        "link": "https://music.163.com/artist?id=12474630"
+      }
+    ],
+    "album": {
+      "name": "Found Love",
+      "link": "https://music.163.com/album?id=75402712"
+    }
+  },
+  {
+    "name": "Pitfalls",
+    "link": "https://music.163.com/song?id=513360457",
+    "duration": "03:19",
+    "artists": [
+      { "name": "Sistek", "link": "https://music.163.com/artist?id=12765268" },
+      { "name": "TUDOR", "link": "https://music.163.com/artist?id=12355078" },
+      {
+        "name": "Amy J. Pryce",
+        "link": "https://music.163.com/artist?id=29895842"
+      }
+    ],
+    "album": {
+      "name": "Pitfalls",
+      "link": "https://music.163.com/album?id=36581105"
+    }
+  },
+  {
+    "name": "Strongest",
+    "link": "https://music.163.com/song?id=515223584",
+    "duration": "03:27",
+    "artists": [
+      {
+        "name": "Ina Wroldsen",
+        "link": "https://music.163.com/artist?id=60879"
+      }
+    ],
+    "album": {
+      "name": "Strongest",
+      "link": "https://music.163.com/album?id=36515735"
+    }
+  },
+  {
+    "name": "Underdog",
+    "link": "https://music.163.com/song?id=1401530947",
+    "duration": "03:37",
+    "artists": [
+      { "name": "The Script", "link": "https://music.163.com/artist?id=102028" }
+    ],
+    "album": {
+      "name": "Sunsets & Full Moons",
+      "link": "https://music.163.com/album?id=83054845"
+    }
+  },
+  {
+    "name": "Insomnia",
+    "link": "https://music.163.com/song?id=1350638256",
+    "duration": "02:59",
+    "artists": [
+      { "name": "Daya", "link": "https://music.163.com/artist?id=1081186" }
+    ],
+    "album": {
+      "name": "Insomnia",
+      "link": "https://music.163.com/album?id=75797761"
+    }
+  },
+  {
+    "name": "Different Sides",
+    "link": "https://music.163.com/song?id=442991035",
+    "duration": "02:46",
+    "artists": [
+      {
+        "name": "Crying Robot",
+        "link": "https://music.163.com/artist?id=12196078"
+      },
+      {
+        "name": "Abi F Jones",
+        "link": "https://music.163.com/artist?id=1137160"
+      }
+    ],
+    "album": {
+      "name": "Different Sides",
+      "link": "https://music.163.com/album?id=34970986"
+    }
+  },
+  {
+    "name": "I Love It",
+    "link": "https://music.163.com/song?id=1345318197",
+    "duration": "02:40",
+    "artists": [
+      {
+        "name": "Oscar Enestad",
+        "link": "https://music.163.com/artist?id=27693458"
+      }
+    ],
+    "album": {
+      "name": "I Love It",
+      "link": "https://music.163.com/album?id=75512276"
+    }
+  },
+  {
+    "name": "Close to You (Radio Edit)",
+    "link": "https://music.163.com/song?id=562434582",
+    "duration": "02:52",
+    "artists": [
+      { "name": "Norda", "link": "https://music.163.com/artist?id=1111008" },
+      {
+        "name": "Camilla Daum",
+        "link": "https://music.163.com/artist?id=14455104"
+      }
+    ],
+    "album": {
+      "name": "Close to You",
+      "link": "https://music.163.com/album?id=38970313"
+    }
+  },
+  {
+    "name": "Shots (Broiler Remix)",
+    "link": "https://music.163.com/song?id=1868771519",
+    "duration": "03:11",
+    "artists": [
+      {
+        "name": "Imagine Dragons",
+        "link": "https://music.163.com/artist?id=94779"
+      },
+      { "name": "Broiler", "link": "https://music.163.com/artist?id=886022" }
+    ],
+    "album": {
+      "name": "Playlist for Hot Summer",
+      "link": "https://music.163.com/album?id=131667742"
+    }
+  },
+  {
+    "name": "L'amour Toujours (Original Radio Version)",
+    "link": "https://music.163.com/song?id=1803440226",
+    "duration": "03:22",
+    "artists": [
+      {
+        "name": "Gigi D'Amour",
+        "link": "https://music.163.com/artist?id=46282435"
+      }
+    ],
+    "album": {
+      "name": "L'amour Toujours (Original Radio Version & Extended Version)",
+      "link": "https://music.163.com/album?id=120293073"
+    }
+  },
+  {
+    "name": "Ask",
+    "link": "https://music.163.com/song?id=557583266",
+    "duration": "04:24",
+    "artists": [
+      { "name": "L3V3LS", "link": "https://music.163.com/artist?id=12007340" }
+    ],
+    "album": {
+      "name": "Ask",
+      "link": "https://music.163.com/album?id=38592111"
+    }
+  },
+  {
+    "name": "All Around The World (La La La)",
+    "link": "https://music.163.com/song?id=1354378746",
+    "duration": "02:27",
+    "artists": [
+      { "name": "R3HAB", "link": "https://music.163.com/artist?id=197248" },
+      {
+        "name": "A Touch of Class",
+        "link": "https://music.163.com/artist?id=85736"
+      }
+    ],
+    "album": {
+      "name": "All Around The World (La La La)",
+      "link": "https://music.163.com/album?id=78210883"
+    }
+  },
+  {
+    "name": "星辰 (original Mix)",
+    "link": "https://music.163.com/song?id=1400259247",
+    "duration": "03:39",
+    "artists": [
+      { "name": "阳山伟伟", "link": "https://music.163.com/artist?id=12641107" }
+    ],
+    "album": {
+      "name": "国产·纯音",
+      "link": "https://music.163.com/album?id=82896127"
+    }
+  },
+  {
+    "name": "Drifting Away",
+    "link": "https://music.163.com/song?id=1375270827",
+    "duration": "03:30",
+    "artists": [
+      { "name": "FEWZ", "link": "https://music.163.com/artist?id=12008133" }
+    ],
+    "album": {
+      "name": "Drifting Away",
+      "link": "https://music.163.com/album?id=80119295"
+    }
+  },
+  {
+    "name": "The Dawn（亡灵序曲）",
+    "link": "https://music.163.com/song?id=556319523",
+    "duration": "03:36",
+    "artists": [
+      { "name": "笙咲", "link": "https://music.163.com/artist?id=13681633" }
+    ],
+    "album": {
+      "name": "The Dawn（亡灵序曲）",
+      "link": "https://music.163.com/album?id=38520206"
+    }
+  },
+  {
+    "name": "Melody (Original mix)",
+    "link": "https://music.163.com/song?id=36921285",
+    "duration": "03:47",
+    "artists": [
+      { "name": "Ash", "link": "https://music.163.com/artist?id=840746" }
+    ],
+    "album": {
+      "name": "Melody (Original Mix) ",
+      "link": "https://music.163.com/album?id=3410148"
+    }
+  },
+  {
+    "name": "Italia e voi（Orginal Mix） - (双枪说)",
+    "link": "https://music.163.com/song?id=1493816591",
+    "duration": "02:58",
+    "artists": [
+      { "name": "HSHK", "link": "https://music.163.com/artist?id=36337566" },
+      { "name": "贰皮", "link": "https://music.163.com/artist?id=36233434" },
+      { "name": "VodKe", "link": "https://music.163.com/artist?id=47607557" },
+      { "name": "Pnan", "link": "https://music.163.com/artist?id=46717748" }
+    ],
+    "album": {
+      "name": "Italia e voi",
+      "link": "https://music.163.com/album?id=97610102"
+    }
+  },
+  {
+    "name": "East of Eden",
+    "link": "https://music.163.com/song?id=29009655",
+    "duration": "03:05",
+    "artists": [
+      { "name": "Zella Day", "link": "https://music.163.com/artist?id=900106" }
+    ],
+    "album": {
+      "name": "East of Eden",
+      "link": "https://music.163.com/album?id=2976629"
+    }
+  },
+  {
+    "name": "He Will You",
+    "link": "https://music.163.com/song?id=1491436581",
+    "duration": "03:25",
+    "artists": [
+      { "name": "ZapsyQ", "link": "https://music.163.com/artist?id=34247115" },
+      {
+        "name": "HertzRecords",
+        "link": "https://music.163.com/artist?id=35884065"
+      },
+      {
+        "name": "Litchlllic",
+        "link": "https://music.163.com/artist?id=48631886"
+      }
+    ],
+    "album": {
+      "name": "He Will You",
+      "link": "https://music.163.com/album?id=97553863"
+    }
+  },
+  {
+    "name": "秒针 (Dj版)",
+    "link": "https://music.163.com/song?id=1893308058",
+    "duration": "02:58",
+    "artists": [
+      { "name": "阿梨粤", "link": "https://music.163.com/artist?id=33230219" },
+      { "name": "DJR7", "link": "https://music.163.com/artist?id=31051672" }
+    ],
+    "album": {
+      "name": "秒针",
+      "link": "https://music.163.com/album?id=135839543"
+    }
+  },
+  {
+    "name": "Easy Come",
+    "link": "https://music.163.com/song?id=1368397201",
+    "duration": "02:32",
+    "artists": [
+      {
+        "name": "Antoine Chambe",
+        "link": "https://music.163.com/artist?id=1177057"
+      }
+    ],
+    "album": {
+      "name": "Easy Come",
+      "link": "https://music.163.com/album?id=79469292"
+    }
+  }
+]
