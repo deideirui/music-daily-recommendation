@@ -1,0 +1,514 @@
+[
+  {
+    "name": "Waste Your Time",
+    "link": "https://music.163.com/song?id=557628134",
+    "duration": "03:07",
+    "artists": [
+      {
+        "name": "Signal Goes Silent",
+        "link": "https://music.163.com/artist?id=14103813"
+      },
+      { "name": "Lost Boy", "link": "https://music.163.com/artist?id=12279141" }
+    ],
+    "album": {
+      "name": "Waste Your Time",
+      "link": "https://music.163.com/album?id=38586975"
+    }
+  },
+  {
+    "name": "Fade Out (Dark Heart Remix)",
+    "link": "https://music.163.com/song?id=1388968659",
+    "duration": "02:57",
+    "artists": [
+      { "name": "SeeB", "link": "https://music.163.com/artist?id=1182169" },
+      {
+        "name": "Dark Heart",
+        "link": "https://music.163.com/artist?id=11991145"
+      }
+    ],
+    "album": {
+      "name": "Fade Out (Dark Heart Remix)",
+      "link": "https://music.163.com/album?id=81397469"
+    }
+  },
+  {
+    "name": "The River",
+    "link": "https://music.163.com/song?id=519265246",
+    "duration": "03:32",
+    "artists": [
+      {
+        "name": "Axel Johansson",
+        "link": "https://music.163.com/artist?id=12872604"
+      },
+      {
+        "name": "Tina Stachowiak",
+        "link": "https://music.163.com/artist?id=905727"
+      }
+    ],
+    "album": {
+      "name": "The River",
+      "link": "https://music.163.com/album?id=36827054"
+    }
+  },
+  {
+    "name": "Monster",
+    "link": "https://music.163.com/song?id=1359232607",
+    "duration": "02:34",
+    "artists": [
+      { "name": "LUM!X", "link": "https://music.163.com/artist?id=13194124" },
+      { "name": "Gabry Ponte", "link": "https://music.163.com/artist?id=34214" }
+    ],
+    "album": {
+      "name": "Monster",
+      "link": "https://music.163.com/album?id=78553625"
+    }
+  },
+  {
+    "name": "Hymn of a New Dawn",
+    "link": "https://music.163.com/song?id=1904150991",
+    "duration": "03:55",
+    "artists": [
+      { "name": "Jacoo", "link": "https://music.163.com/artist?id=347497" },
+      { "name": "Krisu", "link": "https://music.163.com/artist?id=38066" }
+    ],
+    "album": {
+      "name": "Hymn of a New Dawn",
+      "link": "https://music.163.com/album?id=137612361"
+    }
+  },
+  {
+    "name": "Takeaway",
+    "link": "https://music.163.com/song?id=1380001880",
+    "duration": "03:29",
+    "artists": [
+      {
+        "name": "The Chainsmokers",
+        "link": "https://music.163.com/artist?id=893484"
+      },
+      { "name": "ILLENIUM", "link": "https://music.163.com/artist?id=1050518" },
+      {
+        "name": "Lennon Stella",
+        "link": "https://music.163.com/artist?id=12213160"
+      }
+    ],
+    "album": {
+      "name": "World War Joy...Takeaway",
+      "link": "https://music.163.com/album?id=78222139"
+    }
+  },
+  {
+    "name": "Drama Free",
+    "link": "https://music.163.com/song?id=1371043420",
+    "duration": "03:05",
+    "artists": [
+      {
+        "name": "Maria Lynn",
+        "link": "https://music.163.com/artist?id=12273415"
+      },
+      {
+        "name": "Steve Reece",
+        "link": "https://music.163.com/artist?id=1147021"
+      }
+    ],
+    "album": {
+      "name": "Drama Free",
+      "link": "https://music.163.com/album?id=79711861"
+    }
+  },
+  {
+    "name": "Chasing Dragons",
+    "link": "https://music.163.com/song?id=1410294747",
+    "duration": "03:27",
+    "artists": [
+      { "name": "AhXon", "link": "https://music.163.com/artist?id=12908109" }
+    ],
+    "album": {
+      "name": "Chasing Dragons",
+      "link": "https://music.163.com/album?id=84162724"
+    }
+  },
+  {
+    "name": "Apologize",
+    "link": "https://music.163.com/song?id=1440742920",
+    "duration": "02:26",
+    "artists": [
+      {
+        "name": "Besomorph",
+        "link": "https://music.163.com/artist?id=13406913"
+      },
+      {
+        "name": "Anthony Keyrouz",
+        "link": "https://music.163.com/artist?id=12203139"
+      },
+      { "name": "Lunis", "link": "https://music.163.com/artist?id=32056972" }
+    ],
+    "album": {
+      "name": "Apologize",
+      "link": "https://music.163.com/album?id=88038684"
+    }
+  },
+  {
+    "name": "House of Cards",
+    "link": "https://music.163.com/song?id=31545205",
+    "duration": "03:32",
+    "artists": [
+      {
+        "name": "Tyler Shaw",
+        "link": "https://music.163.com/artist?id=1028192"
+      }
+    ],
+    "album": {
+      "name": "House of Cards",
+      "link": "https://music.163.com/album?id=3124411"
+    }
+  },
+  {
+    "name": "Dancin' Alive (Beave & LETUSDANCE! Remix) (Beave & LETUSDANCE! Remix)",
+    "link": "https://music.163.com/song?id=1838240636",
+    "duration": "03:36",
+    "artists": [
+      {
+        "name": "Chris Tall",
+        "link": "https://music.163.com/artist?id=12054020"
+      },
+      { "name": "Beave", "link": "https://music.163.com/artist?id=12029133" },
+      {
+        "name": "LETUSDANCE!",
+        "link": "https://music.163.com/artist?id=47600621"
+      }
+    ],
+    "album": {
+      "name": "Dancin' Alive (Beave Remixes)",
+      "link": "https://music.163.com/album?id=126164128"
+    }
+  },
+  {
+    "name": "The Wellerman (Sea Shanty)",
+    "link": "https://music.163.com/song?id=1814162849",
+    "duration": "03:36",
+    "artists": [
+      { "name": "NIVIRO", "link": "https://music.163.com/artist?id=12152016" }
+    ],
+    "album": {
+      "name": "The Wellerman (Sea Shanty)",
+      "link": "https://music.163.com/album?id=122008990"
+    }
+  },
+  {
+    "name": "Love Come Down (Radio Edit)",
+    "link": "https://music.163.com/song?id=28442474",
+    "duration": "03:05",
+    "artists": [
+      {
+        "name": "Bodybangers",
+        "link": "https://music.163.com/artist?id=220606"
+      }
+    ],
+    "album": {
+      "name": "Love Come Down",
+      "link": "https://music.163.com/album?id=2794044"
+    }
+  },
+  {
+    "name": "Dusk Till Dawn (Brooks Remix)",
+    "link": "https://music.163.com/song?id=509633388",
+    "duration": "03:22",
+    "artists": [
+      { "name": "ZAYN", "link": "https://music.163.com/artist?id=1108049" },
+      { "name": "Sia", "link": "https://music.163.com/artist?id=74625" },
+      { "name": "Brooks", "link": "https://music.163.com/artist?id=49308" }
+    ],
+    "album": {
+      "name": "Dusk Till Dawn (The Remixes)",
+      "link": "https://music.163.com/album?id=36320425"
+    }
+  },
+  {
+    "name": "Catch My Breath",
+    "link": "https://music.163.com/song?id=25657526",
+    "duration": "04:10",
+    "artists": [
+      {
+        "name": "Kelly Clarkson",
+        "link": "https://music.163.com/artist?id=62885"
+      }
+    ],
+    "album": {
+      "name": "Greatest Hits - Chapter One",
+      "link": "https://music.163.com/album?id=2270115"
+    }
+  },
+  {
+    "name": "Love Story (Pop Mix)",
+    "link": "https://music.163.com/song?id=1439303525",
+    "duration": "03:53",
+    "artists": [
+      {
+        "name": "Taylor Swift",
+        "link": "https://music.163.com/artist?id=44266"
+      }
+    ],
+    "album": {
+      "name": "Big Machine Dance Party",
+      "link": "https://music.163.com/album?id=87850241"
+    }
+  },
+  {
+    "name": "love (wip)",
+    "link": "https://music.163.com/song?id=1310005017",
+    "duration": "04:22",
+    "artists": [
+      { "name": "San Holo", "link": "https://music.163.com/artist?id=1017035" },
+      { "name": "Cassini", "link": "https://music.163.com/artist?id=393289" }
+    ],
+    "album": {
+      "name": "album1",
+      "link": "https://music.163.com/album?id=73335204"
+    }
+  },
+  {
+    "name": "Sweet but Psycho (L & R Remix)",
+    "link": "https://music.163.com/song?id=1361137858",
+    "duration": "03:42",
+    "artists": [
+      { "name": "Sephora", "link": "https://music.163.com/artist?id=31982756" },
+      { "name": "L & R", "link": "https://music.163.com/artist?id=31321809" }
+    ],
+    "album": {
+      "name": "Sweet but Psycho (L & R Remix)",
+      "link": "https://music.163.com/album?id=78754905"
+    }
+  },
+  {
+    "name": "坠入星空",
+    "link": "https://music.163.com/song?id=1820330682",
+    "duration": "02:32",
+    "artists": [
+      { "name": "季之昕", "link": "https://music.163.com/artist?id=28635720" },
+      { "name": "马英伦", "link": "https://music.163.com/artist?id=12114094" }
+    ],
+    "album": {
+      "name": "坠入星空",
+      "link": "https://music.163.com/album?id=122812178"
+    }
+  },
+  {
+    "name": "Alone",
+    "link": "https://music.163.com/song?id=1376986337",
+    "duration": "04:13",
+    "artists": [
+      {
+        "name": "Eyad Farag",
+        "link": "https://music.163.com/artist?id=31973151"
+      }
+    ],
+    "album": {
+      "name": "Alone",
+      "link": "https://music.163.com/album?id=80304232"
+    }
+  },
+  {
+    "name": "Fractures (EFL117) [Track Of The Week]",
+    "link": "https://music.163.com/song?id=545738141",
+    "duration": "03:57",
+    "artists": [
+      { "name": "Nevve", "link": "https://music.163.com/artist?id=12567101" },
+      { "name": "ILLENIUM", "link": "https://music.163.com/artist?id=1050518" }
+    ],
+    "album": {
+      "name": "Electric For Life Episode 117",
+      "link": "https://music.163.com/album?id=37950276"
+    }
+  },
+  {
+    "name": "Leave Away",
+    "link": "https://music.163.com/song?id=1898626906",
+    "duration": "02:48",
+    "artists": [
+      {
+        "name": "RICHKID MUSIC",
+        "link": "https://music.163.com/artist?id=50507812"
+      },
+      { "name": "SunnyCat", "link": "https://music.163.com/artist?id=1158209" },
+      { "name": "Zekyi", "link": "https://music.163.com/artist?id=50450378" },
+      {
+        "name": "Capella Luv",
+        "link": "https://music.163.com/artist?id=46963711"
+      },
+      { "name": "C9", "link": "https://music.163.com/artist?id=34396814" }
+    ],
+    "album": {
+      "name": "Leave Away",
+      "link": "https://music.163.com/album?id=136685322"
+    }
+  },
+  {
+    "name": "Deep in Love (Radio Edit)",
+    "link": "https://music.163.com/song?id=572932030",
+    "duration": "03:28",
+    "artists": [
+      { "name": "Tom Boxer", "link": "https://music.163.com/artist?id=217174" },
+      { "name": "JWarner", "link": "https://music.163.com/artist?id=15172721" }
+    ],
+    "album": {
+      "name": "Deep in Love (Radio Edit)",
+      "link": "https://music.163.com/album?id=39673238"
+    }
+  },
+  {
+    "name": "Tu vas me manquer (Pilule Bleue) - (我会想你（蓝色药片）)",
+    "link": "https://music.163.com/song?id=36025856",
+    "duration": "04:10",
+    "artists": [
+      { "name": "GIMS", "link": "https://music.163.com/artist?id=710267" }
+    ],
+    "album": {
+      "name": "Mon coeur avait raison",
+      "link": "https://music.163.com/album?id=3367822"
+    }
+  },
+  {
+    "name": "Road So Far (ElementD Remix)",
+    "link": "https://music.163.com/song?id=1378048882",
+    "duration": "03:51",
+    "artists": [
+      {
+        "name": "ElementD",
+        "link": "https://music.163.com/artist?id=12192245"
+      },
+      { "name": "Urbanstep", "link": "https://music.163.com/artist?id=893364" },
+      {
+        "name": "Tytewriter",
+        "link": "https://music.163.com/artist?id=29001348"
+      }
+    ],
+    "album": {
+      "name": "Road So Far (ElementD Remix)",
+      "link": "https://music.163.com/album?id=80401569"
+    }
+  },
+  {
+    "name": "Lady of My Fantasy",
+    "link": "https://music.163.com/song?id=524148831",
+    "duration": "05:49",
+    "artists": [
+      {
+        "name": "Boris Zhivago",
+        "link": "https://music.163.com/artist?id=827055"
+      }
+    ],
+    "album": {
+      "name": "Memories",
+      "link": "https://music.163.com/album?id=36980264"
+    }
+  },
+  {
+    "name": "Blind",
+    "link": "https://music.163.com/song?id=1396564205",
+    "duration": "04:24",
+    "artists": [
+      { "name": "Kazukii", "link": "https://music.163.com/artist?id=12054389" }
+    ],
+    "album": {
+      "name": "Blind",
+      "link": "https://music.163.com/album?id=82354206"
+    }
+  },
+  {
+    "name": "问风",
+    "link": "https://music.163.com/song?id=1882420127",
+    "duration": "03:34",
+    "artists": [
+      { "name": "金渔", "link": "https://music.163.com/artist?id=12373153" }
+    ],
+    "album": {
+      "name": "问风",
+      "link": "https://music.163.com/album?id=133977202"
+    }
+  },
+  {
+    "name": "Are You With Me (Christmas Mix)",
+    "link": "https://music.163.com/song?id=399340150",
+    "duration": "02:18",
+    "artists": [
+      { "name": "Christmas", "link": "https://music.163.com/artist?id=11322" },
+      {
+        "name": "Lost Frequencies",
+        "link": "https://music.163.com/artist?id=1039114"
+      }
+    ],
+    "album": {
+      "name": "Are You With Me / Reality",
+      "link": "https://music.163.com/album?id=34400042"
+    }
+  },
+  {
+    "name": "Unseen",
+    "link": "https://music.163.com/song?id=30053586",
+    "duration": "03:55",
+    "artists": [
+      {
+        "name": "Tayler Buono",
+        "link": "https://music.163.com/artist?id=83212"
+      }
+    ],
+    "album": {
+      "name": "Unseen",
+      "link": "https://music.163.com/album?id=3092084"
+    }
+  },
+  {
+    "name": "删了吧 - (要不你还是把我删了吧)",
+    "link": "https://music.163.com/song?id=1891469546",
+    "duration": "03:24",
+    "artists": [
+      {
+        "name": "烟(许佳豪)",
+        "link": "https://music.163.com/artist?id=49937403"
+      }
+    ],
+    "album": {
+      "name": "删了吧",
+      "link": "https://music.163.com/album?id=135521932"
+    }
+  },
+  {
+    "name": "问心",
+    "link": "https://music.163.com/song?id=1899079967",
+    "duration": "03:06",
+    "artists": [
+      {
+        "name": "就是南方凯（项学凯）",
+        "link": "https://music.163.com/artist?id=46360442"
+      }
+    ],
+    "album": {
+      "name": "问心",
+      "link": "https://music.163.com/album?id=136742111"
+    }
+  },
+  {
+    "name": "Holy Grail (Adieu Remix)",
+    "link": "https://music.163.com/song?id=37092830",
+    "duration": "04:21",
+    "artists": [
+      { "name": "Adieu", "link": "https://music.163.com/artist?id=31000340" }
+    ],
+    "album": {
+      "name": "Holy Grail (Adieu Remix)",
+      "link": "https://music.163.com/album?id=3414455"
+    }
+  },
+  {
+    "name": "We'll Be Alright",
+    "link": "https://music.163.com/song?id=554245621",
+    "duration": "03:14",
+    "artists": [
+      { "name": "GSPR", "link": "https://music.163.com/artist?id=12263887" }
+    ],
+    "album": {
+      "name": "We'll Be Alright",
+      "link": "https://music.163.com/album?id=38430149"
+    }
+  }
+]
