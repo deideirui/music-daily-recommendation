@@ -1,0 +1,528 @@
+[
+  {
+    "name": "Million Dollar Mood",
+    "link": "https://music.163.com/song?id=1337296869",
+    "duration": "02:55",
+    "artists": [
+      {
+        "name": "WEALTHYSELF",
+        "link": "https://music.163.com/artist?id=27864242"
+      },
+      {
+        "name": "Miranda Glory",
+        "link": "https://music.163.com/artist?id=12463504"
+      },
+      { "name": "CANCUN?", "link": "https://music.163.com/artist?id=27863745" }
+    ],
+    "album": {
+      "name": "Million Dollar Mood",
+      "link": "https://music.163.com/album?id=75042967"
+    }
+  },
+  {
+    "name": "Magic",
+    "link": "https://music.163.com/song?id=432698443",
+    "duration": "02:50",
+    "artists": [
+      {
+        "name": "Thomas Gold",
+        "link": "https://music.163.com/artist?id=196219"
+      },
+      {
+        "name": "Jillian Edwards",
+        "link": "https://music.163.com/artist?id=62677"
+      }
+    ],
+    "album": {
+      "name": "Magic",
+      "link": "https://music.163.com/album?id=34897577"
+    }
+  },
+  {
+    "name": "Another Cloud",
+    "link": "https://music.163.com/song?id=506092116",
+    "duration": "03:33",
+    "artists": [
+      { "name": "L3V3LS", "link": "https://music.163.com/artist?id=12007340" },
+      {
+        "name": "Will Watson",
+        "link": "https://music.163.com/artist?id=12333174"
+      }
+    ],
+    "album": {
+      "name": "Another Cloud",
+      "link": "https://music.163.com/album?id=36224037"
+    }
+  },
+  {
+    "name": "One That Got Away (with Dylan Matthew)",
+    "link": "https://music.163.com/song?id=1418381607",
+    "duration": "03:35",
+    "artists": [
+      {
+        "name": "Jason Ross",
+        "link": "https://music.163.com/artist?id=906123"
+      },
+      { "name": "Dabin", "link": "https://music.163.com/artist?id=783446" },
+      {
+        "name": "Dylan Matthew",
+        "link": "https://music.163.com/artist?id=28684353"
+      }
+    ],
+    "album": {
+      "name": "1000 Faces",
+      "link": "https://music.163.com/album?id=85158537"
+    }
+  },
+  {
+    "name": "Falling in Love Must Feel Like This",
+    "link": "https://music.163.com/song?id=1907428598",
+    "duration": "02:08",
+    "artists": [
+      { "name": "Dennis Kuo", "link": "https://music.163.com/artist?id=32385" }
+    ],
+    "album": {
+      "name": "Falling in Love Must Feel Like This",
+      "link": "https://music.163.com/album?id=138111947"
+    }
+  },
+  {
+    "name": "Rise Up",
+    "link": "https://music.163.com/song?id=1399061280",
+    "duration": "02:49",
+    "artists": [
+      { "name": "TheFatRat", "link": "https://music.163.com/artist?id=1019952" }
+    ],
+    "album": {
+      "name": "Rise Up",
+      "link": "https://music.163.com/album?id=82735096"
+    }
+  },
+  {
+    "name": "Look What You Made Me Do",
+    "link": "https://music.163.com/song?id=501133611",
+    "duration": "03:31",
+    "artists": [
+      {
+        "name": "Taylor Swift",
+        "link": "https://music.163.com/artist?id=44266"
+      }
+    ],
+    "album": {
+      "name": "reputation",
+      "link": "https://music.163.com/album?id=36709029"
+    }
+  },
+  {
+    "name": "Walls",
+    "link": "https://music.163.com/song?id=36390006",
+    "duration": "02:55",
+    "artists": [
+      { "name": "Tez Cadey", "link": "https://music.163.com/artist?id=488571" },
+      {
+        "name": "Julia Church",
+        "link": "https://music.163.com/artist?id=1135040"
+      }
+    ],
+    "album": {
+      "name": "Walls",
+      "link": "https://music.163.com/album?id=3396321"
+    }
+  },
+  {
+    "name": "Freak On (Radio Edit)",
+    "link": "https://music.163.com/song?id=515947800",
+    "duration": "02:43",
+    "artists": [
+      { "name": "Karlyn", "link": "https://music.163.com/artist?id=571463" },
+      {
+        "name": "Charming Horses",
+        "link": "https://music.163.com/artist?id=1137480"
+      }
+    ],
+    "album": {
+      "name": "Freak On (Radio Edit)",
+      "link": "https://music.163.com/album?id=36689027"
+    }
+  },
+  {
+    "name": "Ballarena",
+    "link": "https://music.163.com/song?id=1314662246",
+    "duration": "03:00",
+    "artists": [
+      { "name": "Savi", "link": "https://music.163.com/artist?id=1116235" },
+      { "name": "Aleesia", "link": "https://music.163.com/artist?id=48272" },
+      {
+        "name": "Not From Mars",
+        "link": "https://music.163.com/artist?id=30252411"
+      }
+    ],
+    "album": {
+      "name": "Ballarena",
+      "link": "https://music.163.com/album?id=73742569"
+    }
+  },
+  {
+    "name": "Luna's Vanishing",
+    "link": "https://music.163.com/song?id=1493302895",
+    "duration": "03:48",
+    "artists": [
+      { "name": "FEWZ", "link": "https://music.163.com/artist?id=12008133" }
+    ],
+    "album": {
+      "name": "Zodiac",
+      "link": "https://music.163.com/album?id=97972434"
+    }
+  },
+  {
+    "name": "This is Us",
+    "link": "https://music.163.com/song?id=1423417557",
+    "duration": "03:25",
+    "artists": [
+      {
+        "name": "Jimmie Allen",
+        "link": "https://music.163.com/artist?id=30021162"
+      },
+      {
+        "name": "Noah Cyrus",
+        "link": "https://music.163.com/artist?id=12175271"
+      }
+    ],
+    "album": {
+      "name": "This is Us",
+      "link": "https://music.163.com/album?id=85738366"
+    }
+  },
+  {
+    "name": "Cruise",
+    "link": "https://music.163.com/song?id=500684127",
+    "duration": "02:58",
+    "artists": [
+      { "name": "AndyM", "link": "https://music.163.com/artist?id=12023320" }
+    ],
+    "album": {
+      "name": "Cruise",
+      "link": "https://music.163.com/album?id=36031039"
+    }
+  },
+  {
+    "name": "Bad Habit",
+    "link": "https://music.163.com/song?id=528005152",
+    "duration": "02:50",
+    "artists": [
+      { "name": "Skela", "link": "https://music.163.com/artist?id=12087139" },
+      { "name": "Triarchy", "link": "https://music.163.com/artist?id=1144020" }
+    ],
+    "album": {
+      "name": "Bad Habit",
+      "link": "https://music.163.com/album?id=37153637"
+    }
+  },
+  {
+    "name": "Relife VIP",
+    "link": "https://music.163.com/song?id=1820137644",
+    "duration": "02:22",
+    "artists": [
+      { "name": "R7CKY", "link": "https://music.163.com/artist?id=1044054" }
+    ],
+    "album": {
+      "name": "Relife VIP",
+      "link": "https://music.163.com/album?id=122939566"
+    }
+  },
+  {
+    "name": "Don't Wait (feat. Claudy)",
+    "link": "https://music.163.com/song?id=1857327952",
+    "duration": "03:09",
+    "artists": [
+      { "name": "Mesto", "link": "https://music.163.com/artist?id=12007184" },
+      { "name": "Dastic", "link": "https://music.163.com/artist?id=1193103" },
+      { "name": "Claudy", "link": "https://music.163.com/artist?id=13048867" }
+    ],
+    "album": {
+      "name": "Don't Wait (feat. Claudy)",
+      "link": "https://music.163.com/album?id=129687497"
+    }
+  },
+  {
+    "name": "Do I Know Myself",
+    "link": "https://music.163.com/song?id=1885074733",
+    "duration": "03:03",
+    "artists": [
+      {
+        "name": "Justin Mylo",
+        "link": "https://music.163.com/artist?id=12082294"
+      },
+      {
+        "name": "Aidan O'Brien",
+        "link": "https://music.163.com/artist?id=13372303"
+      }
+    ],
+    "album": {
+      "name": "Do I Know Myself",
+      "link": "https://music.163.com/album?id=134443032"
+    }
+  },
+  {
+    "name": "Crash and Burn",
+    "link": "https://music.163.com/song?id=865916405",
+    "duration": "03:51",
+    "artists": [
+      { "name": "Refuzion", "link": "https://music.163.com/artist?id=1081221" }
+    ],
+    "album": {
+      "name": "Crash And Burn",
+      "link": "https://music.163.com/album?id=71802261"
+    }
+  },
+  {
+    "name": "Ain't Nothing Like It",
+    "link": "https://music.163.com/song?id=1348835834",
+    "duration": "02:46",
+    "artists": [
+      { "name": "KLYMVX", "link": "https://music.163.com/artist?id=1149091" }
+    ],
+    "album": {
+      "name": "Ain't Nothing Like It",
+      "link": "https://music.163.com/album?id=75717310"
+    }
+  },
+  {
+    "name": "Shining",
+    "link": "https://music.163.com/song?id=1382990726",
+    "duration": "02:37",
+    "artists": [
+      { "name": "ROY KNOX", "link": "https://music.163.com/artist?id=33149404" }
+    ],
+    "album": {
+      "name": "Shining",
+      "link": "https://music.163.com/album?id=80849803"
+    }
+  },
+  {
+    "name": "Desire",
+    "link": "https://music.163.com/song?id=1361325451",
+    "duration": "03:38",
+    "artists": [
+      { "name": "Hurshel", "link": "https://music.163.com/artist?id=13876977" }
+    ],
+    "album": {
+      "name": "Desire",
+      "link": "https://music.163.com/album?id=78778382"
+    }
+  },
+  {
+    "name": "最好的都给你",
+    "link": "https://music.163.com/song?id=1845651956",
+    "duration": "04:54",
+    "artists": [
+      { "name": "余佳运", "link": "https://music.163.com/artist?id=1079074" }
+    ],
+    "album": {
+      "name": "最好的都给你",
+      "link": "https://music.163.com/album?id=127537487"
+    }
+  },
+  {
+    "name": "Is It Love (Justin Caruso Remix)",
+    "link": "https://music.163.com/song?id=413740209",
+    "duration": "02:52",
+    "artists": [
+      { "name": "3LAU", "link": "https://music.163.com/artist?id=762511" },
+      { "name": "YEAH BOY", "link": "https://music.163.com/artist?id=935168" },
+      {
+        "name": "Justin Caruso",
+        "link": "https://music.163.com/artist?id=1193462"
+      }
+    ],
+    "album": {
+      "name": "Is It Love (Remixed)",
+      "link": "https://music.163.com/album?id=34700306"
+    }
+  },
+  {
+    "name": "This I Vow",
+    "link": "https://music.163.com/song?id=1436384922",
+    "duration": "03:40",
+    "artists": [
+      {
+        "name": "Armin van Buuren",
+        "link": "https://music.163.com/artist?id=27621"
+      },
+      { "name": "MaRLo", "link": "https://music.163.com/artist?id=150599" },
+      {
+        "name": "Mila Josef",
+        "link": "https://music.163.com/artist?id=34698062"
+      }
+    ],
+    "album": {
+      "name": "This I Vow",
+      "link": "https://music.163.com/album?id=87320807"
+    }
+  },
+  {
+    "name": "Only One",
+    "link": "https://music.163.com/song?id=1474811373",
+    "duration": "04:43",
+    "artists": [
+      { "name": "MitiS", "link": "https://music.163.com/artist?id=40245" },
+      { "name": "Drowsy", "link": "https://music.163.com/artist?id=31911" }
+    ],
+    "album": {
+      "name": "All I Have",
+      "link": "https://music.163.com/album?id=94642108"
+    }
+  },
+  {
+    "name": "Life In Reverse",
+    "link": "https://music.163.com/song?id=1468382716",
+    "duration": "02:52",
+    "artists": [
+      { "name": "NIVIRO", "link": "https://music.163.com/artist?id=12152016" }
+    ],
+    "album": {
+      "name": "Life In Reverse",
+      "link": "https://music.163.com/album?id=93494121"
+    }
+  },
+  {
+    "name": "Relativity",
+    "link": "https://music.163.com/song?id=1339205678",
+    "duration": "03:50",
+    "artists": [
+      { "name": "Menino", "link": "https://music.163.com/artist?id=14929011" }
+    ],
+    "album": {
+      "name": "Wndr",
+      "link": "https://music.163.com/album?id=75163212"
+    }
+  },
+  {
+    "name": "限定涂鸦",
+    "link": "https://music.163.com/song?id=1851775058",
+    "duration": "03:18",
+    "artists": [
+      { "name": "摄音记", "link": "https://music.163.com/artist?id=48126846" },
+      {
+        "name": "张天奕ZTYick",
+        "link": "https://music.163.com/artist?id=12304366"
+      },
+      { "name": "杨世贸", "link": "https://music.163.com/artist?id=12571508" },
+      {
+        "name": "Vicky宣宣",
+        "link": "https://music.163.com/artist?id=33097213"
+      }
+    ],
+    "album": {
+      "name": "限定涂鸦（feat.Vicky宣宣）",
+      "link": "https://music.163.com/album?id=128687381"
+    }
+  },
+  {
+    "name": "surface",
+    "link": "https://music.163.com/song?id=1309123943",
+    "duration": "06:02",
+    "artists": [
+      { "name": "San Holo", "link": "https://music.163.com/artist?id=1017035" },
+      { "name": "Caspian", "link": "https://music.163.com/artist?id=89372" }
+    ],
+    "album": {
+      "name": "album1",
+      "link": "https://music.163.com/album?id=73335204"
+    }
+  },
+  {
+    "name": "Fantasy",
+    "link": "https://music.163.com/song?id=1311319695",
+    "duration": "03:19",
+    "artists": [
+      { "name": "Ennex", "link": "https://music.163.com/artist?id=1089100" },
+      {
+        "name": "STORYBOARDS",
+        "link": "https://music.163.com/artist?id=12048019"
+      }
+    ],
+    "album": {
+      "name": "The Fairytale Collection | Chapter 2",
+      "link": "https://music.163.com/album?id=73467811"
+    }
+  },
+  {
+    "name": "我和祖国有个约会",
+    "link": "https://music.163.com/song?id=1393495893",
+    "duration": "03:55",
+    "artists": [
+      {
+        "name": "新乐尘符",
+        "link": "https://music.163.com/artist?id=12503194"
+      },
+      { "name": "谣君", "link": "https://music.163.com/artist?id=12282385" }
+    ],
+    "album": {
+      "name": "我和祖国有个约会",
+      "link": "https://music.163.com/album?id=81917880"
+    }
+  },
+  {
+    "name": "Round and Round",
+    "link": "https://music.163.com/song?id=1320908521",
+    "duration": "03:24",
+    "artists": [
+      { "name": "Cannons", "link": "https://music.163.com/artist?id=1022051" }
+    ],
+    "album": {
+      "name": "Round and Round",
+      "link": "https://music.163.com/album?id=74122309"
+    }
+  },
+  {
+    "name": "こな雪",
+    "link": "https://music.163.com/song?id=1907125171",
+    "duration": "03:45",
+    "artists": [
+      {
+        "name": "二次元の心碎戰士",
+        "link": "https://music.163.com/artist?id=34788044"
+      }
+    ],
+    "album": {
+      "name": "こな雪",
+      "link": "https://music.163.com/album?id=138055704"
+    }
+  },
+  {
+    "name": "Musician",
+    "link": "https://music.163.com/song?id=1839140774",
+    "duration": "03:58",
+    "artists": [
+      {
+        "name": "Porter Robinson",
+        "link": "https://music.163.com/artist?id=185871"
+      }
+    ],
+    "album": {
+      "name": "Nurture",
+      "link": "https://music.163.com/album?id=126338915"
+    }
+  },
+  {
+    "name": "OK (Ofenbach Remix)",
+    "link": "https://music.163.com/song?id=485960437",
+    "duration": "03:03",
+    "artists": [
+      {
+        "name": "Robin Schulz",
+        "link": "https://music.163.com/artist?id=837031"
+      },
+      {
+        "name": "James Blunt",
+        "link": "https://music.163.com/artist?id=35329"
+      },
+      { "name": "Ofenbach", "link": "https://music.163.com/artist?id=1137428" }
+    ],
+    "album": {
+      "name": "OK (feat. James Blunt) [The Remixes]",
+      "link": "https://music.163.com/album?id=35661025"
+    }
+  }
+]
