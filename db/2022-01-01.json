@@ -1,0 +1,507 @@
+[
+  {
+    "name": "Hurricane",
+    "link": "https://music.163.com/song?id=1836011652",
+    "duration": "03:52",
+    "artists": [
+      { "name": "BUNT.", "link": "https://music.163.com/artist?id=744145" },
+      { "name": "HON", "link": "https://music.163.com/artist?id=34733953" },
+      { "name": "SMBDY", "link": "https://music.163.com/artist?id=14231716" }
+    ],
+    "album": {
+      "name": "Hurricane",
+      "link": "https://music.163.com/album?id=125797442"
+    }
+  },
+  {
+    "name": "Over It",
+    "link": "https://music.163.com/song?id=1403706216",
+    "duration": "03:28",
+    "artists": [
+      { "name": "Pilton", "link": "https://music.163.com/artist?id=1050299" },
+      {
+        "name": "Edgar Sandoval Jr",
+        "link": "https://music.163.com/artist?id=12561891"
+      }
+    ],
+    "album": {
+      "name": "Over It",
+      "link": "https://music.163.com/album?id=83391465"
+    }
+  },
+  {
+    "name": "Freak",
+    "link": "https://music.163.com/song?id=1370112482",
+    "duration": "02:59",
+    "artists": [
+      { "name": "Avicii", "link": "https://music.163.com/artist?id=45236" },
+      { "name": "Bonn", "link": "https://music.163.com/artist?id=31540163" }
+    ],
+    "album": {
+      "name": "TIM",
+      "link": "https://music.163.com/album?id=79638731"
+    }
+  },
+  {
+    "name": "Find You",
+    "link": "https://music.163.com/song?id=464192074",
+    "duration": "03:33",
+    "artists": [
+      { "name": "HIDDN", "link": "https://music.163.com/artist?id=12322027" },
+      { "name": "Beatrich", "link": "https://music.163.com/artist?id=12322300" }
+    ],
+    "album": {
+      "name": "Find You",
+      "link": "https://music.163.com/album?id=35256030"
+    }
+  },
+  {
+    "name": "We'll Meet Again (Instrumental)",
+    "link": "https://music.163.com/song?id=1457772408",
+    "duration": "03:15",
+    "artists": [
+      {
+        "name": "TheFatRat",
+        "link": "https://music.163.com/artist?id=1019952"
+      },
+      {
+        "name": "Laura Brehm",
+        "link": "https://music.163.com/artist?id=207693"
+      }
+    ],
+    "album": {
+      "name": "We'll Meet Again",
+      "link": "https://music.163.com/album?id=91437445"
+    }
+  },
+  {
+    "name": "El Condor Pasa",
+    "link": "https://music.163.com/song?id=16313118",
+    "duration": "03:36",
+    "artists": [
+      { "name": "Leo Rojas", "link": "https://music.163.com/artist?id=38778" }
+    ],
+    "album": {
+      "name": "Spirit Of The Hawk",
+      "link": "https://music.163.com/album?id=1503835"
+    }
+  },
+  {
+    "name": "Believe (Original Mix)",
+    "link": "https://music.163.com/song?id=1366755927",
+    "duration": "02:52",
+    "artists": [
+      { "name": "Ezenia", "link": "https://music.163.com/artist?id=12024484" }
+    ],
+    "album": {
+      "name": "Believe",
+      "link": "https://music.163.com/album?id=79295626"
+    }
+  },
+  {
+    "name": "Better Apart",
+    "link": "https://music.163.com/song?id=1354608659",
+    "duration": "03:54",
+    "artists": [
+      { "name": "Jai Wolf", "link": "https://music.163.com/artist?id=1063048" },
+      {
+        "name": "Keeley Bumford",
+        "link": "https://music.163.com/artist?id=12845274"
+      }
+    ],
+    "album": {
+      "name": "The Cure To Loneliness",
+      "link": "https://music.163.com/album?id=78300643"
+    }
+  },
+  {
+    "name": "Twin",
+    "link": "https://music.163.com/song?id=544788691",
+    "duration": "03:41",
+    "artists": [
+      { "name": "BRÍET", "link": "https://music.163.com/artist?id=13162090" }
+    ],
+    "album": {
+      "name": "22.03.99",
+      "link": "https://music.163.com/album?id=37767560"
+    }
+  },
+  {
+    "name": "Only Now (feat. Tyler Graves)",
+    "link": "https://music.163.com/song?id=1424216182",
+    "duration": "03:31",
+    "artists": [
+      {
+        "name": "Seven Lions",
+        "link": "https://music.163.com/artist?id=44204"
+      },
+      {
+        "name": "Tyler Graves",
+        "link": "https://music.163.com/artist?id=31834852"
+      }
+    ],
+    "album": {
+      "name": "Only Now (feat. Tyler Graves)",
+      "link": "https://music.163.com/album?id=85814450"
+    }
+  },
+  {
+    "name": "Alive",
+    "link": "https://music.163.com/song?id=509530616",
+    "duration": "04:08",
+    "artists": [
+      { "name": "BEATCORE", "link": "https://music.163.com/artist?id=1181857" },
+      {
+        "name": "Ashley Apollodor",
+        "link": "https://music.163.com/artist?id=12247036"
+      }
+    ],
+    "album": {
+      "name": "Alive",
+      "link": "https://music.163.com/album?id=36450089"
+    }
+  },
+  {
+    "name": "Hollow Eyes (feat. EKE)",
+    "link": "https://music.163.com/song?id=1887182749",
+    "duration": "03:51",
+    "artists": [
+      {
+        "name": "Synymata",
+        "link": "https://music.163.com/artist?id=12031140"
+      },
+      { "name": "KLAXX", "link": "https://music.163.com/artist?id=12261151" },
+      { "name": "Eke", "link": "https://music.163.com/artist?id=13992835" }
+    ],
+    "album": {
+      "name": "Hollow Eyes (feat. EKE)",
+      "link": "https://music.163.com/album?id=134821109"
+    }
+  },
+  {
+    "name": "Want You",
+    "link": "https://music.163.com/song?id=1383257166",
+    "duration": "02:43",
+    "artists": [
+      { "name": "Erkki.R", "link": "https://music.163.com/artist?id=12901022" }
+    ],
+    "album": {
+      "name": "Want You",
+      "link": "https://music.163.com/album?id=80871782"
+    }
+  },
+  {
+    "name": "On The Run",
+    "link": "https://music.163.com/song?id=1467275322",
+    "duration": "03:15",
+    "artists": [
+      {
+        "name": "Ecstatic",
+        "link": "https://music.163.com/artist?id=12010228"
+      },
+      { "name": "MERYLL", "link": "https://music.163.com/artist?id=31269959" }
+    ],
+    "album": {
+      "name": "On The Run",
+      "link": "https://music.163.com/album?id=93280782"
+    }
+  },
+  {
+    "name": "Untamable",
+    "link": "https://music.163.com/song?id=1384258188",
+    "duration": "03:10",
+    "artists": [
+      {
+        "name": "Wildstylez",
+        "link": "https://music.163.com/artist?id=666014"
+      },
+      {
+        "name": "Sound Rush",
+        "link": "https://music.163.com/artist?id=1050827"
+      },
+      {
+        "name": "Ruby Prophet",
+        "link": "https://music.163.com/artist?id=13190916"
+      }
+    ],
+    "album": {
+      "name": "Untamable",
+      "link": "https://music.163.com/album?id=80950438"
+    }
+  },
+  {
+    "name": "Waking Up",
+    "link": "https://music.163.com/song?id=408772708",
+    "duration": "04:20",
+    "artists": [
+      { "name": "Emblem3", "link": "https://music.163.com/artist?id=804398" }
+    ],
+    "album": {
+      "name": "Waking Up",
+      "link": "https://music.163.com/album?id=34590742"
+    }
+  },
+  {
+    "name": "Where Are You Now",
+    "link": "https://music.163.com/song?id=27896556",
+    "duration": "04:00",
+    "artists": [
+      { "name": "Union J", "link": "https://music.163.com/artist?id=763059" }
+    ],
+    "album": {
+      "name": "Union J (Deluxe)",
+      "link": "https://music.163.com/album?id=2692022"
+    }
+  },
+  {
+    "name": "Broken",
+    "link": "https://music.163.com/song?id=1474789682",
+    "duration": "04:00",
+    "artists": [
+      {
+        "name": "Paper Skies",
+        "link": "https://music.163.com/artist?id=12523164"
+      },
+      {
+        "name": "Azuria Sky",
+        "link": "https://music.163.com/artist?id=12914272"
+      }
+    ],
+    "album": {
+      "name": "Broken",
+      "link": "https://music.163.com/album?id=94637627"
+    }
+  },
+  {
+    "name": "You",
+    "link": "https://music.163.com/song?id=26256023",
+    "duration": "03:45",
+    "artists": [
+      {
+        "name": "Hollywood Ending",
+        "link": "https://music.163.com/artist?id=392094"
+      }
+    ],
+    "album": { "name": "You", "link": "https://music.163.com/album?id=2436009" }
+  },
+  {
+    "name": "呼唤流星",
+    "link": "https://music.163.com/song?id=1487465027",
+    "duration": "03:21",
+    "artists": [
+      {
+        "name": "新乐尘符",
+        "link": "https://music.163.com/artist?id=12503194"
+      },
+      {
+        "name": "吴梓琪Momo",
+        "link": "https://music.163.com/artist?id=12256650"
+      }
+    ],
+    "album": {
+      "name": "呼唤流星",
+      "link": "https://music.163.com/album?id=96876262"
+    }
+  },
+  {
+    "name": "王者战歌",
+    "link": "https://music.163.com/song?id=1483191914",
+    "duration": "04:11",
+    "artists": [
+      { "name": "拼音师", "link": "https://music.163.com/artist?id=12038065" }
+    ],
+    "album": {
+      "name": "王者战歌",
+      "link": "https://music.163.com/album?id=96029179"
+    }
+  },
+  {
+    "name": "Hatred (Prod EVOMUSIC)",
+    "link": "https://music.163.com/song?id=1879224708",
+    "duration": "03:21",
+    "artists": [
+      { "name": "Jo", "link": "https://music.163.com/artist?id=48135925" }
+    ],
+    "album": {
+      "name": "Hatred (Prod EVOMUSIC)",
+      "link": "https://music.163.com/album?id=133421540"
+    }
+  },
+  {
+    "name": "Everytime We Touch (Sound Rush Remix)",
+    "link": "https://music.163.com/song?id=1419932674",
+    "duration": "03:36",
+    "artists": [
+      { "name": "Cascada", "link": "https://music.163.com/artist?id=50900" },
+      {
+        "name": "Sound Rush",
+        "link": "https://music.163.com/artist?id=1050827"
+      }
+    ],
+    "album": {
+      "name": "Everytime We Touch (Sound Rush Remix)",
+      "link": "https://music.163.com/album?id=85360390"
+    }
+  },
+  {
+    "name": "Northern Lights Everything (Dave' Sonar 3am. Mashup)",
+    "link": "https://music.163.com/song?id=524083366",
+    "duration": "07:04",
+    "artists": [
+      {
+        "name": "Danny Claire",
+        "link": "https://music.163.com/artist?id=208076"
+      },
+      { "name": "Tucandeo", "link": "https://music.163.com/artist?id=302985" },
+      {
+        "name": "Sunbrothers",
+        "link": "https://music.163.com/artist?id=11996233"
+      }
+    ],
+    "album": {
+      "name": "Uplifting Only Top 15: December 2017",
+      "link": "https://music.163.com/album?id=36894652"
+    }
+  },
+  {
+    "name": "Silk",
+    "link": "https://music.163.com/song?id=30031461",
+    "duration": "04:32",
+    "artists": [
+      { "name": "CMA", "link": "https://music.163.com/artist?id=300739" }
+    ],
+    "album": {
+      "name": "Silk",
+      "link": "https://music.163.com/album?id=3090620"
+    }
+  },
+  {
+    "name": "Xplode (Darius & Finlay Hardstyle Mix)",
+    "link": "https://music.163.com/song?id=501214032",
+    "duration": "03:44",
+    "artists": [
+      {
+        "name": "Graham Bell",
+        "link": "https://music.163.com/artist?id=58889"
+      },
+      {
+        "name": "YOEL LEWIS",
+        "link": "https://music.163.com/artist?id=1039603"
+      },
+      {
+        "name": "Darius X Finlay",
+        "link": "https://music.163.com/artist?id=91694"
+      },
+      { "name": "Avancada", "link": "https://music.163.com/artist?id=299532" }
+    ],
+    "album": {
+      "name": "Explode (Graham Bell & Yoel Lewis Remix)",
+      "link": "https://music.163.com/album?id=36031284"
+    }
+  },
+  {
+    "name": "Lonely",
+    "link": "https://music.163.com/song?id=21274655",
+    "duration": "06:21",
+    "artists": [
+      { "name": "Nanà", "link": "https://music.163.com/artist?id=40437" }
+    ],
+    "album": {
+      "name": "Nana",
+      "link": "https://music.163.com/album?id=1965897"
+    }
+  },
+  {
+    "name": "说好的永远",
+    "link": "https://music.163.com/song?id=1465138813",
+    "duration": "04:20",
+    "artists": [
+      {
+        "name": "藏了很久很久",
+        "link": "https://music.163.com/artist?id=12554626"
+      },
+      { "name": "云柒", "link": "https://music.163.com/artist?id=30002145" }
+    ],
+    "album": {
+      "name": "说好的永远",
+      "link": "https://music.163.com/album?id=92842026"
+    }
+  },
+  {
+    "name": "Ghost (Original Mix)",
+    "link": "https://music.163.com/song?id=29785734",
+    "duration": "06:14",
+    "artists": [
+      { "name": "Tom Swoon", "link": "https://music.163.com/artist?id=725010" },
+      { "name": "Stadiumx", "link": "https://music.163.com/artist?id=1004052" }
+    ],
+    "album": {
+      "name": "Ghost",
+      "link": "https://music.163.com/album?id=3079273"
+    }
+  },
+  {
+    "name": "这里是神奇的赛尔号 - (动画电影《赛尔号之寻找凤凰神兽》主题曲)",
+    "link": "https://music.163.com/song?id=191037",
+    "duration": "03:22",
+    "artists": [
+      { "name": "张杰", "link": "https://music.163.com/artist?id=6472" }
+    ],
+    "album": {
+      "name": "赛尔号之寻找凤凰神兽 动画电影原声带",
+      "link": "https://music.163.com/album?id=19295"
+    }
+  },
+  {
+    "name": "让风告诉你 - (游戏《原神》2021拜年纪同人曲)",
+    "link": "https://music.163.com/song?id=1818031620",
+    "duration": "03:46",
+    "artists": [
+      { "name": "花玲", "link": "https://music.163.com/artist?id=14885023" },
+      { "name": "喵☆酱", "link": "https://music.163.com/artist?id=12373281" },
+      { "name": "宴宁", "link": "https://music.163.com/artist?id=33950005" },
+      { "name": "kinsen", "link": "https://music.163.com/artist?id=34314105" }
+    ],
+    "album": {
+      "name": "让风告诉你",
+      "link": "https://music.163.com/album?id=122627929"
+    }
+  },
+  {
+    "name": "丹歌惊鸿（动画《一人之下2》片尾曲王也角色歌）",
+    "link": "https://music.163.com/song?id=564879697",
+    "duration": "03:55",
+    "artists": [
+      { "name": "坡上村", "link": "https://music.163.com/artist?id=839563" }
+    ],
+    "album": {
+      "name": "丹歌惊鸿（动画《一人之下》片尾曲王也角色歌）",
+      "link": "https://music.163.com/album?id=39067617"
+    }
+  },
+  {
+    "name": "Neverland",
+    "link": "https://music.163.com/song?id=1298111608",
+    "duration": "03:09",
+    "artists": [
+      { "name": "KSHMR", "link": "https://music.163.com/artist?id=896139" },
+      { "name": "7 Skies", "link": "https://music.163.com/artist?id=230698" }
+    ],
+    "album": {
+      "name": "Neverland",
+      "link": "https://music.163.com/album?id=72092687"
+    }
+  },
+  {
+    "name": "Without Me",
+    "link": "https://music.163.com/song?id=1907969667",
+    "duration": "03:21",
+    "artists": [
+      { "name": "Halsey", "link": "https://music.163.com/artist?id=964321" }
+    ],
+    "album": {
+      "name": "Love And Power EP: Power",
+      "link": "https://music.163.com/album?id=138195032"
+    }
+  }
+]
