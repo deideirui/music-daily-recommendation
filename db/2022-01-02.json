@@ -1,0 +1,507 @@
+[
+  {
+    "name": "Wouldn't Know You",
+    "link": "https://music.163.com/song?id=1893501148",
+    "duration": "04:24",
+    "artists": [
+      { "name": "Yetep", "link": "https://music.163.com/artist?id=12356399" },
+      { "name": "Luma", "link": "https://music.163.com/artist?id=211460" }
+    ],
+    "album": {
+      "name": "Wouldn't Know You",
+      "link": "https://music.163.com/album?id=135872828"
+    }
+  },
+  {
+    "name": "U Make Me",
+    "link": "https://music.163.com/song?id=544056528",
+    "duration": "03:08",
+    "artists": [
+      {
+        "name": "Disco Fries",
+        "link": "https://music.163.com/artist?id=330684"
+      },
+      {
+        "name": "Raquel Castro",
+        "link": "https://music.163.com/artist?id=896205"
+      }
+    ],
+    "album": {
+      "name": "U Make Me",
+      "link": "https://music.163.com/album?id=37763691"
+    }
+  },
+  {
+    "name": "Under Your Skin",
+    "link": "https://music.163.com/song?id=483024252",
+    "duration": "03:49",
+    "artists": [
+      {
+        "name": "Sid Rosco",
+        "link": "https://music.163.com/artist?id=12149046"
+      }
+    ],
+    "album": {
+      "name": "Under Your Skin",
+      "link": "https://music.163.com/album?id=35572366"
+    }
+  },
+  {
+    "name": "Blue Sky",
+    "link": "https://music.163.com/song?id=451113120",
+    "duration": "03:39",
+    "artists": [
+      { "name": "Fredji", "link": "https://music.163.com/artist?id=12260191" }
+    ],
+    "album": {
+      "name": "Blue Sky",
+      "link": "https://music.163.com/album?id=35105234"
+    }
+  },
+  {
+    "name": "Paradise (Deniz Koyu Festival Mix)",
+    "link": "https://music.163.com/song?id=1319011647",
+    "duration": "04:03",
+    "artists": [
+      {
+        "name": "Nicky Romero",
+        "link": "https://music.163.com/artist?id=195142"
+      },
+      {
+        "name": "Deniz Koyu",
+        "link": "https://music.163.com/artist?id=201960"
+      },
+      {
+        "name": "Walk off the Earth",
+        "link": "https://music.163.com/artist?id=105493"
+      }
+    ],
+    "album": {
+      "name": "Paradise (Deniz Koyu Festival Mix)",
+      "link": "https://music.163.com/album?id=73992945"
+    }
+  },
+  {
+    "name": "Barcelona",
+    "link": "https://music.163.com/song?id=863382700",
+    "duration": "02:53",
+    "artists": [
+      {
+        "name": "Max George",
+        "link": "https://music.163.com/artist?id=27848162"
+      }
+    ],
+    "album": {
+      "name": "Barcelona",
+      "link": "https://music.163.com/album?id=71701071"
+    }
+  },
+  {
+    "name": "Rainbow",
+    "link": "https://music.163.com/song?id=437292516",
+    "duration": "03:08",
+    "artists": [
+      { "name": "B0untya", "link": "https://music.163.com/artist?id=12150035" },
+      { "name": "Ulchero", "link": "https://music.163.com/artist?id=12149036" }
+    ],
+    "album": {
+      "name": "Rainbow",
+      "link": "https://music.163.com/album?id=34943177"
+    }
+  },
+  {
+    "name": "Young, Wild & Free",
+    "link": "https://music.163.com/song?id=1396524670",
+    "duration": "02:54",
+    "artists": [
+      { "name": "Axero", "link": "https://music.163.com/artist?id=1035020" }
+    ],
+    "album": {
+      "name": "Young, Wild & Free",
+      "link": "https://music.163.com/album?id=82351333"
+    }
+  },
+  {
+    "name": "Free Fall",
+    "link": "https://music.163.com/song?id=507585217",
+    "duration": "03:25",
+    "artists": [
+      { "name": "ILLENIUM", "link": "https://music.163.com/artist?id=1050518" },
+      { "name": "RUNN", "link": "https://music.163.com/artist?id=15237536" }
+    ],
+    "album": {
+      "name": "Awake",
+      "link": "https://music.163.com/album?id=36290028"
+    }
+  },
+  {
+    "name": "Energy",
+    "link": "https://music.163.com/song?id=431080988",
+    "duration": "03:18",
+    "artists": [
+      {
+        "name": "Elektronomia",
+        "link": "https://music.163.com/artist?id=1081540"
+      }
+    ],
+    "album": {
+      "name": "Energy",
+      "link": "https://music.163.com/album?id=34874699"
+    }
+  },
+  {
+    "name": "Waves",
+    "link": "https://music.163.com/song?id=26521799",
+    "duration": "03:44",
+    "artists": [
+      { "name": "Steerner", "link": "https://music.163.com/artist?id=783190" }
+    ],
+    "album": {
+      "name": "Waves",
+      "link": "https://music.163.com/album?id=2516508"
+    }
+  },
+  {
+    "name": "Missing",
+    "link": "https://music.163.com/song?id=1811707980",
+    "duration": "02:41",
+    "artists": [
+      { "name": "OVSKY", "link": "https://music.163.com/artist?id=36560569" }
+    ],
+    "album": {
+      "name": "Missing",
+      "link": "https://music.163.com/album?id=121587113"
+    }
+  },
+  {
+    "name": "Together",
+    "link": "https://music.163.com/song?id=436346329",
+    "duration": "03:41",
+    "artists": [
+      {
+        "name": "Martin Garrix",
+        "link": "https://music.163.com/artist?id=780003"
+      },
+      {
+        "name": "Matisse & Sadko",
+        "link": "https://music.163.com/artist?id=947054"
+      },
+      {
+        "name": "Max McElligott",
+        "link": "https://music.163.com/artist?id=15280202"
+      }
+    ],
+    "album": {
+      "name": "Together",
+      "link": "https://music.163.com/album?id=34929078"
+    }
+  },
+  {
+    "name": "Tears & Tantrums (Remixed by Evan Gartner)",
+    "link": "https://music.163.com/song?id=1331677398",
+    "duration": "03:04",
+    "artists": [
+      {
+        "name": "Evan Gartner",
+        "link": "https://music.163.com/artist?id=12411125"
+      },
+      { "name": "XYLØ", "link": "https://music.163.com/artist?id=1050511" }
+    ],
+    "album": {
+      "name": "Tears & Tantrums",
+      "link": "https://music.163.com/album?id=74797519"
+    }
+  },
+  {
+    "name": "Feels Right (feat. RUNN)",
+    "link": "https://music.163.com/song?id=1401179677",
+    "duration": "03:32",
+    "artists": [
+      {
+        "name": "Crystal Skies",
+        "link": "https://music.163.com/artist?id=1063127"
+      },
+      { "name": "RUNN", "link": "https://music.163.com/artist?id=15237536" }
+    ],
+    "album": {
+      "name": "Constellations",
+      "link": "https://music.163.com/album?id=83001751"
+    }
+  },
+  {
+    "name": "Don't Say",
+    "link": "https://music.163.com/song?id=862099429",
+    "duration": "03:02",
+    "artists": [
+      { "name": "Hoang", "link": "https://music.163.com/artist?id=27694442" },
+      { "name": "Nevve", "link": "https://music.163.com/artist?id=12567101" }
+    ],
+    "album": {
+      "name": "Don't Say",
+      "link": "https://music.163.com/album?id=71614737"
+    }
+  },
+  {
+    "name": "因为你",
+    "link": "https://music.163.com/song?id=1455849734",
+    "duration": "03:39",
+    "artists": [
+      {
+        "name": "OneCandy",
+        "link": "https://music.163.com/artist?id=12286389"
+      },
+      { "name": "张叶蕾", "link": "https://music.163.com/artist?id=12213291" },
+      { "name": "Aou", "link": "https://music.163.com/artist?id=12546065" }
+    ],
+    "album": {
+      "name": "因为你",
+      "link": "https://music.163.com/album?id=90951715"
+    }
+  },
+  {
+    "name": "Change It (with Liel Kolet)",
+    "link": "https://music.163.com/song?id=1866202304",
+    "duration": "05:04",
+    "artists": [
+      {
+        "name": "Last Heroes",
+        "link": "https://music.163.com/artist?id=11987034"
+      },
+      {
+        "name": "Liel Kolet",
+        "link": "https://music.163.com/artist?id=14672688"
+      }
+    ],
+    "album": {
+      "name": "Change It (with Liel Kolet)",
+      "link": "https://music.163.com/album?id=131232675"
+    }
+  },
+  {
+    "name": "Sedated (feat. Concrete Castles)",
+    "link": "https://music.163.com/song?id=1855330115",
+    "duration": "03:19",
+    "artists": [
+      {
+        "name": "Bear Grillz",
+        "link": "https://music.163.com/artist?id=854483"
+      },
+      { "name": "Stryer", "link": "https://music.163.com/artist?id=36633881" },
+      {
+        "name": "Concrete Castles",
+        "link": "https://music.163.com/artist?id=47617078"
+      }
+    ],
+    "album": {
+      "name": "Sedated (feat. Concrete Castles)",
+      "link": "https://music.163.com/album?id=129350966"
+    }
+  },
+  {
+    "name": "Avicii-Without You（Stormcoming Remix）",
+    "link": "https://music.163.com/song?id=560792829",
+    "duration": "03:17",
+    "artists": [
+      { "name": "SC", "link": "https://music.163.com/artist?id=1207020" }
+    ],
+    "album": {
+      "name": "Without You(Stromcoming Remix)",
+      "link": "https://music.163.com/album?id=38649725"
+    }
+  },
+  {
+    "name": "CX",
+    "link": "https://music.163.com/song?id=455692044",
+    "duration": "03:07",
+    "artists": [
+      {
+        "name": "LevitateXC",
+        "link": "https://music.163.com/artist?id=12183535"
+      }
+    ],
+    "album": {
+      "name": "Cxetativel",
+      "link": "https://music.163.com/album?id=35148446"
+    }
+  },
+  {
+    "name": "Some Day (Navion Remix)",
+    "link": "https://music.163.com/song?id=1371926441",
+    "duration": "03:40",
+    "artists": [
+      {
+        "name": "Misael Gauna",
+        "link": "https://music.163.com/artist?id=1054136"
+      },
+      {
+        "name": "Noctilucent",
+        "link": "https://music.163.com/artist?id=1150036"
+      },
+      { "name": "Navion", "link": "https://music.163.com/artist?id=12096296" }
+    ],
+    "album": {
+      "name": "Some Day: The Remixes (feat. Noctilucent)",
+      "link": "https://music.163.com/album?id=79805273"
+    }
+  },
+  {
+    "name": "We Are Forever",
+    "link": "https://music.163.com/song?id=1344352429",
+    "duration": "02:55",
+    "artists": [
+      { "name": "Envine", "link": "https://music.163.com/artist?id=12024287" },
+      {
+        "name": "Nino Lucarelli",
+        "link": "https://music.163.com/artist?id=13954602"
+      }
+    ],
+    "album": {
+      "name": "We Are Forever",
+      "link": "https://music.163.com/album?id=75464584"
+    }
+  },
+  {
+    "name": "Missing Out (The Midnight Remix)",
+    "link": "https://music.163.com/song?id=1476144008",
+    "duration": "03:29",
+    "artists": [
+      { "name": "The Ivy", "link": "https://music.163.com/artist?id=12080293" },
+      {
+        "name": "The Midnight",
+        "link": "https://music.163.com/artist?id=12023492"
+      }
+    ],
+    "album": {
+      "name": "Missing Out (The Midnight Remix)",
+      "link": "https://music.163.com/album?id=94895319"
+    }
+  },
+  {
+    "name": "Better Than One",
+    "link": "https://music.163.com/song?id=31446780",
+    "duration": "03:59",
+    "artists": [
+      { "name": "The Score", "link": "https://music.163.com/artist?id=212904" }
+    ],
+    "album": {
+      "name": "The Score EP 2",
+      "link": "https://music.163.com/album?id=3119641"
+    }
+  },
+  {
+    "name": "Where I Begin (Club Mix)",
+    "link": "https://music.163.com/song?id=34770426",
+    "duration": "04:15",
+    "artists": [
+      {
+        "name": "Dennis Sheperd",
+        "link": "https://music.163.com/artist?id=32497"
+      },
+      {
+        "name": "Katty Heath",
+        "link": "https://music.163.com/artist?id=852242"
+      }
+    ],
+    "album": {
+      "name": "A State of Trance 727",
+      "link": "https://music.163.com/album?id=3292242"
+    }
+  },
+  {
+    "name": "Heaven (Progressive Mix)",
+    "link": "https://music.163.com/song?id=471565016",
+    "duration": "08:32",
+    "artists": [
+      {
+        "name": "Kate Louise Smith",
+        "link": "https://music.163.com/artist?id=854450"
+      },
+      { "name": "Aurosonic", "link": "https://music.163.com/artist?id=86532" }
+    ],
+    "album": {
+      "name": "Heaven (Progressive Mix)",
+      "link": "https://music.163.com/album?id=35359015"
+    }
+  },
+  {
+    "name": "Річка - (小河)",
+    "link": "https://music.163.com/song?id=25862794",
+    "duration": "03:08",
+    "artists": [
+      { "name": "波丹.尤莉娅", "link": "https://music.163.com/artist?id=73708" }
+    ],
+    "album": {
+      "name": "苏荷酒吧",
+      "link": "https://music.163.com/album?id=2337206"
+    }
+  },
+  {
+    "name": "传说的世界",
+    "link": "https://music.163.com/song?id=1903635166",
+    "duration": "04:08",
+    "artists": [
+      { "name": "A-SOUL", "link": "https://music.163.com/artist?id=37633336" }
+    ],
+    "album": {
+      "name": "传说的世界",
+      "link": "https://music.163.com/album?id=137519227"
+    }
+  },
+  {
+    "name": "Lovestained",
+    "link": "https://music.163.com/song?id=1351482242",
+    "duration": "02:55",
+    "artists": [
+      {
+        "name": "Hope Tala",
+        "link": "https://music.163.com/artist?id=15219520"
+      }
+    ],
+    "album": {
+      "name": "Lovestained",
+      "link": "https://music.163.com/album?id=75824616"
+    }
+  },
+  {
+    "name": "流年",
+    "link": "https://music.163.com/song?id=1900361229",
+    "duration": "03:48",
+    "artists": [
+      {
+        "name": "Infinite Mask",
+        "link": "https://music.163.com/artist?id=33037476"
+      }
+    ],
+    "album": {
+      "name": "流年",
+      "link": "https://music.163.com/album?id=137001518"
+    }
+  },
+  {
+    "name": "Cruel Summer",
+    "link": "https://music.163.com/song?id=1382576173",
+    "duration": "02:58",
+    "artists": [
+      {
+        "name": "Taylor Swift",
+        "link": "https://music.163.com/artist?id=44266"
+      }
+    ],
+    "album": {
+      "name": "Lover",
+      "link": "https://music.163.com/album?id=80752440"
+    }
+  },
+  {
+    "name": "Sunshine - (阳光)",
+    "link": "https://music.163.com/song?id=1907969476",
+    "duration": "02:43",
+    "artists": [
+      { "name": "OneRepublic", "link": "https://music.163.com/artist?id=98105" }
+    ],
+    "album": {
+      "name": "Sunshine. The EP",
+      "link": "https://music.163.com/album?id=138195411"
+    }
+  }
+]
