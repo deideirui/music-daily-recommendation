@@ -1,0 +1,479 @@
+[
+  {
+    "name": "Out of Time",
+    "link": "https://music.163.com/song?id=1816302983",
+    "duration": "03:17",
+    "artists": [
+      { "name": "Diviners", "link": "https://music.163.com/artist?id=1192136" },
+      { "name": "BUNT.", "link": "https://music.163.com/artist?id=744145" },
+      { "name": "Tom Bailey", "link": "https://music.163.com/artist?id=328443" }
+    ],
+    "album": {
+      "name": "Out of Time",
+      "link": "https://music.163.com/album?id=122360859"
+    }
+  },
+  {
+    "name": "Silhouette",
+    "link": "https://music.163.com/song?id=1398764652",
+    "duration": "03:28",
+    "artists": [
+      { "name": "Bvrnout", "link": "https://music.163.com/artist?id=12046065" },
+      { "name": "AXYL", "link": "https://music.163.com/artist?id=31244261" }
+    ],
+    "album": {
+      "name": "Silhouette",
+      "link": "https://music.163.com/album?id=82671946"
+    }
+  },
+  {
+    "name": "Healing",
+    "link": "https://music.163.com/song?id=1840872818",
+    "duration": "03:01",
+    "artists": [
+      { "name": "Clarx", "link": "https://music.163.com/artist?id=1181756" },
+      { "name": "Moe Aly", "link": "https://music.163.com/artist?id=275322" }
+    ],
+    "album": {
+      "name": "Healing",
+      "link": "https://music.163.com/album?id=126667077"
+    }
+  },
+  {
+    "name": "The Same Way",
+    "link": "https://music.163.com/song?id=1375144402",
+    "duration": "03:04",
+    "artists": [
+      {
+        "name": "Don Diablo",
+        "link": "https://music.163.com/artist?id=139072"
+      },
+      { "name": "KiFi", "link": "https://music.163.com/artist?id=13059523" }
+    ],
+    "album": {
+      "name": "The Same Way",
+      "link": "https://music.163.com/album?id=80107430"
+    }
+  },
+  {
+    "name": "Somebody That You Loved",
+    "link": "https://music.163.com/song?id=1381704370",
+    "duration": "03:36",
+    "artists": [
+      {
+        "name": "Bruno Martini",
+        "link": "https://music.163.com/artist?id=12355546"
+      },
+      {
+        "name": "New Hope Club",
+        "link": "https://music.163.com/artist?id=12408153"
+      }
+    ],
+    "album": {
+      "name": "Somebody That You Loved",
+      "link": "https://music.163.com/album?id=80748472"
+    }
+  },
+  {
+    "name": "Broken",
+    "link": "https://music.163.com/song?id=1887905768",
+    "duration": "03:48",
+    "artists": [
+      {
+        "name": "William Black",
+        "link": "https://music.163.com/artist?id=248957"
+      },
+      { "name": "Fairlane", "link": "https://music.163.com/artist?id=12665028" }
+    ],
+    "album": {
+      "name": "Pieces",
+      "link": "https://music.163.com/album?id=134921399"
+    }
+  },
+  {
+    "name": "This Feeling",
+    "link": "https://music.163.com/song?id=1333199955",
+    "duration": "03:18",
+    "artists": [
+      {
+        "name": "The Chainsmokers",
+        "link": "https://music.163.com/artist?id=893484"
+      },
+      {
+        "name": "Kelsea Ballerini",
+        "link": "https://music.163.com/artist?id=976243"
+      }
+    ],
+    "album": {
+      "name": "Sick Boy",
+      "link": "https://music.163.com/album?id=74872242"
+    }
+  },
+  {
+    "name": "Maze",
+    "link": "https://music.163.com/song?id=1439407612",
+    "duration": "02:53",
+    "artists": [
+      {
+        "name": "Mike Perry",
+        "link": "https://music.163.com/artist?id=195021"
+      },
+      {
+        "name": "Wanja Janeva",
+        "link": "https://music.163.com/artist?id=12839904"
+      },
+      { "name": "Mangoo", "link": "https://music.163.com/artist?id=1081597" }
+    ],
+    "album": {
+      "name": "Maze",
+      "link": "https://music.163.com/album?id=87858483"
+    }
+  },
+  {
+    "name": "Hurricane (4AM Drive Mix)",
+    "link": "https://music.163.com/song?id=1846511339",
+    "duration": "04:00",
+    "artists": [
+      { "name": "BUNT.", "link": "https://music.163.com/artist?id=744145" },
+      { "name": "HON", "link": "https://music.163.com/artist?id=34733953" },
+      { "name": "SMBDY", "link": "https://music.163.com/artist?id=14231716" }
+    ],
+    "album": {
+      "name": "Hurricane (feat. HON & SMBDY) (4AM Drive Mix)",
+      "link": "https://music.163.com/album?id=127733364"
+    }
+  },
+  {
+    "name": "Changes",
+    "link": "https://music.163.com/song?id=1493070817",
+    "duration": "02:55",
+    "artists": [
+      { "name": "Egzod", "link": "https://music.163.com/artist?id=11970036" },
+      { "name": "Fenris", "link": "https://music.163.com/artist?id=28178419" }
+    ],
+    "album": {
+      "name": "Changes",
+      "link": "https://music.163.com/album?id=97928999"
+    }
+  },
+  {
+    "name": "Turn Back Time",
+    "link": "https://music.163.com/song?id=1331800077",
+    "duration": "03:09",
+    "artists": [
+      {
+        "name": "Rich Edwards",
+        "link": "https://music.163.com/artist?id=1038214"
+      },
+      { "name": "Emelie", "link": "https://music.163.com/artist?id=15352429" }
+    ],
+    "album": {
+      "name": "Turn Back Time",
+      "link": "https://music.163.com/album?id=74808833"
+    }
+  },
+  {
+    "name": "Inferno",
+    "link": "https://music.163.com/song?id=475597470",
+    "duration": "04:05",
+    "artists": [
+      { "name": "Hechmann", "link": "https://music.163.com/artist?id=12011121" }
+    ],
+    "album": {
+      "name": "Inferno",
+      "link": "https://music.163.com/album?id=35371911"
+    }
+  },
+  {
+    "name": "I'll Find You",
+    "link": "https://music.163.com/song?id=1839269942",
+    "duration": "03:16",
+    "artists": [
+      { "name": "Man Cub", "link": "https://music.163.com/artist?id=30816484" },
+      {
+        "name": "Rickie Nolls",
+        "link": "https://music.163.com/artist?id=13160075"
+      },
+      {
+        "name": "Kyle Reynolds",
+        "link": "https://music.163.com/artist?id=1179061"
+      }
+    ],
+    "album": {
+      "name": "I'll Find You",
+      "link": "https://music.163.com/album?id=126365180"
+    }
+  },
+  {
+    "name": "Take Everything",
+    "link": "https://music.163.com/song?id=1333128472",
+    "duration": "03:32",
+    "artists": [
+      {
+        "name": "Gareth Emery",
+        "link": "https://music.163.com/artist?id=34318"
+      },
+      { "name": "Emma Hewitt", "link": "https://music.163.com/artist?id=56751" }
+    ],
+    "album": {
+      "name": "Take Everything",
+      "link": "https://music.163.com/album?id=74869418"
+    }
+  },
+  {
+    "name": "Revive",
+    "link": "https://music.163.com/song?id=1395922525",
+    "duration": "04:12",
+    "artists": [
+      { "name": "LIONE", "link": "https://music.163.com/artist?id=11986064" }
+    ],
+    "album": {
+      "name": "Revive",
+      "link": "https://music.163.com/album?id=82255508"
+    }
+  },
+  {
+    "name": "Euphoria",
+    "link": "https://music.163.com/song?id=443876175",
+    "duration": "03:25",
+    "artists": [
+      { "name": "Dogena", "link": "https://music.163.com/artist?id=1049091" },
+      { "name": "Dripice", "link": "https://music.163.com/artist?id=1050671" }
+    ],
+    "album": {
+      "name": "Euphoria",
+      "link": "https://music.163.com/album?id=35023059"
+    }
+  },
+  {
+    "name": "Paint The Sky",
+    "link": "https://music.163.com/song?id=1428148984",
+    "duration": "03:20",
+    "artists": [
+      {
+        "name": "Mark Sixma",
+        "link": "https://music.163.com/artist?id=178755"
+      },
+      { "name": "Eline", "link": "https://music.163.com/artist?id=30696426" }
+    ],
+    "album": {
+      "name": "Paint The Sky",
+      "link": "https://music.163.com/album?id=86227463"
+    }
+  },
+  {
+    "name": "Thank you ,Tim",
+    "link": "https://music.163.com/song?id=1437386706",
+    "duration": "03:41",
+    "artists": [
+      { "name": "Yuncino", "link": "https://music.163.com/artist?id=32657320" }
+    ],
+    "album": {
+      "name": "T. T.",
+      "link": "https://music.163.com/album?id=87553899"
+    }
+  },
+  {
+    "name": "Fool's Gold (Tiësto 24 Karat Gold Edition)",
+    "link": "https://music.163.com/song?id=1841187879",
+    "duration": "02:44",
+    "artists": [
+      {
+        "name": "Sofia Carson",
+        "link": "https://music.163.com/artist?id=12024488"
+      },
+      { "name": "Tiësto", "link": "https://music.163.com/artist?id=688047" }
+    ],
+    "album": {
+      "name": "Fool's Gold (Tiësto 24 Karat Gold Edition)",
+      "link": "https://music.163.com/album?id=126728743"
+    }
+  },
+  {
+    "name": "Alone, Pt. II (Da Tweekaz Remix)",
+    "link": "https://music.163.com/song?id=1422840657",
+    "duration": "03:42",
+    "artists": [
+      {
+        "name": "Alan Walker",
+        "link": "https://music.163.com/artist?id=1045123"
+      },
+      { "name": "Ava Max", "link": "https://music.163.com/artist?id=14486166" },
+      { "name": "Da Tweekaz", "link": "https://music.163.com/artist?id=334026" }
+    ],
+    "album": {
+      "name": "Alone, Pt. II (Remixes)",
+      "link": "https://music.163.com/album?id=85670574"
+    }
+  },
+  {
+    "name": "Don't Be Scared",
+    "link": "https://music.163.com/song?id=446512023",
+    "duration": "03:42",
+    "artists": [
+      {
+        "name": "Luca Debonaire",
+        "link": "https://music.163.com/artist?id=896335"
+      }
+    ],
+    "album": {
+      "name": "Don't Be Scared EP",
+      "link": "https://music.163.com/album?id=35044240"
+    }
+  },
+  {
+    "name": "Lighthouse",
+    "link": "https://music.163.com/song?id=1402259424",
+    "duration": "04:00",
+    "artists": [
+      {
+        "name": "Wasted Penguinz",
+        "link": "https://music.163.com/artist?id=816508"
+      },
+      {
+        "name": "Michael Jo",
+        "link": "https://music.163.com/artist?id=31540520"
+      }
+    ],
+    "album": {
+      "name": "Lighthouse",
+      "link": "https://music.163.com/album?id=83158623"
+    }
+  },
+  {
+    "name": "Fallen Souls",
+    "link": "https://music.163.com/song?id=1392986509",
+    "duration": "03:31",
+    "artists": [
+      {
+        "name": "Ghost Stories",
+        "link": "https://music.163.com/artist?id=58385"
+      },
+      {
+        "name": "D-Block & S-te-Fan",
+        "link": "https://music.163.com/artist?id=13594504"
+      }
+    ],
+    "album": {
+      "name": "Fallen Souls",
+      "link": "https://music.163.com/album?id=81884112"
+    }
+  },
+  {
+    "name": "Get in Trouble (So What) (LNY TNZ Remix)",
+    "link": "https://music.163.com/song?id=1834309922",
+    "duration": "02:52",
+    "artists": [
+      {
+        "name": "Dimitri Vegas & Like Mike",
+        "link": "https://music.163.com/artist?id=791298"
+      },
+      {
+        "name": "Vini Vici",
+        "link": "https://music.163.com/artist?id=1063156"
+      },
+      { "name": "LNY TNZ", "link": "https://music.163.com/artist?id=1039647" }
+    ],
+    "album": {
+      "name": "Get in trouble (The Remixes)",
+      "link": "https://music.163.com/album?id=125500151"
+    }
+  },
+  {
+    "name": "我曾用向日葵花瓣形容你的眼睛",
+    "link": "https://music.163.com/song?id=1868612487",
+    "duration": "03:44",
+    "artists": [
+      { "name": "摄音记", "link": "https://music.163.com/artist?id=48126846" },
+      {
+        "name": "张天奕ZTYick",
+        "link": "https://music.163.com/artist?id=12304366"
+      },
+      { "name": "杨世贸", "link": "https://music.163.com/artist?id=12571508" }
+    ],
+    "album": {
+      "name": "我曾用向日葵花瓣形容你的眼睛",
+      "link": "https://music.163.com/album?id=131621824"
+    }
+  },
+  {
+    "name": "Dawn",
+    "link": "https://music.163.com/song?id=1837420085",
+    "duration": "03:16",
+    "artists": [
+      { "name": "Slippy", "link": "https://music.163.com/artist?id=1087034" },
+      {
+        "name": "London Thor",
+        "link": "https://music.163.com/artist?id=1102061"
+      }
+    ],
+    "album": {
+      "name": "Everything & Nothing At All",
+      "link": "https://music.163.com/album?id=126000089"
+    }
+  },
+  {
+    "name": "Letting You Go",
+    "link": "https://music.163.com/song?id=470573971",
+    "duration": "03:54",
+    "artists": [
+      { "name": "INZO", "link": "https://music.163.com/artist?id=1108051" },
+      { "name": "LaMeduza", "link": "https://music.163.com/artist?id=347182" }
+    ],
+    "album": {
+      "name": "Letting You Go",
+      "link": "https://music.163.com/album?id=35346210"
+    }
+  },
+  {
+    "name": "You Are Always On My Mind",
+    "link": "https://music.163.com/song?id=1446389670",
+    "duration": "03:15",
+    "artists": [
+      {
+        "name": "Snake City",
+        "link": "https://music.163.com/artist?id=30160356"
+      }
+    ],
+    "album": {
+      "name": "What Must You Think Of Me?",
+      "link": "https://music.163.com/album?id=89122833"
+    }
+  },
+  {
+    "name": "Heyrðu mig",
+    "link": "https://music.163.com/song?id=1449479087",
+    "duration": "03:00",
+    "artists": [
+      { "name": "BRÍET", "link": "https://music.163.com/artist?id=13162090" }
+    ],
+    "album": {
+      "name": "Heyrðu mig",
+      "link": "https://music.163.com/album?id=89692557"
+    }
+  },
+  {
+    "name": "It's Alright",
+    "link": "https://music.163.com/song?id=1446773214",
+    "duration": "02:40",
+    "artists": [
+      { "name": "Dolapo", "link": "https://music.163.com/artist?id=27850819" }
+    ],
+    "album": {
+      "name": "It’s Alright",
+      "link": "https://music.163.com/album?id=89208995"
+    }
+  },
+  {
+    "name": "Echoes In Rain",
+    "link": "https://music.163.com/song?id=35307141",
+    "duration": "03:35",
+    "artists": [
+      { "name": "Enya", "link": "https://music.163.com/artist?id=55520" }
+    ],
+    "album": {
+      "name": "Dark Sky Island (Deluxe)",
+      "link": "https://music.163.com/album?id=3316165"
+    }
+  }
+]
