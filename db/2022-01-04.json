@@ -1,0 +1,506 @@
+[
+  {
+    "name": "Save You",
+    "link": "https://music.163.com/song?id=1435897501",
+    "duration": "02:56",
+    "artists": [
+      { "name": "Sabai", "link": "https://music.163.com/artist?id=32093901" },
+      { "name": "Kermode", "link": "https://music.163.com/artist?id=11998052" }
+    ],
+    "album": {
+      "name": "Save You",
+      "link": "https://music.163.com/album?id=87139275"
+    }
+  },
+  {
+    "name": "These Are The Times",
+    "link": "https://music.163.com/song?id=1378762448",
+    "duration": "03:08",
+    "artists": [
+      {
+        "name": "Martin Garrix",
+        "link": "https://music.163.com/artist?id=780003"
+      },
+      { "name": "JRM", "link": "https://music.163.com/artist?id=12682822" }
+    ],
+    "album": {
+      "name": "These Are The Times",
+      "link": "https://music.163.com/album?id=80475547"
+    }
+  },
+  {
+    "name": "乐醺",
+    "link": "https://music.163.com/song?id=1817438896",
+    "duration": "02:49",
+    "artists": [
+      { "name": "TINYWEI", "link": "https://music.163.com/artist?id=12701299" },
+      { "name": "Lorien", "link": "https://music.163.com/artist?id=32465968" },
+      {
+        "name": "vogue V Records",
+        "link": "https://music.163.com/artist?id=13010256"
+      }
+    ],
+    "album": {
+      "name": "乐醺",
+      "link": "https://music.163.com/album?id=122529354"
+    }
+  },
+  {
+    "name": "Spark",
+    "link": "https://music.163.com/song?id=1385757372",
+    "duration": "02:43",
+    "artists": [
+      { "name": "MOTi", "link": "https://music.163.com/artist?id=366384" },
+      {
+        "name": "Fly By Midnight",
+        "link": "https://music.163.com/artist?id=1163027"
+      }
+    ],
+    "album": {
+      "name": "Spark",
+      "link": "https://music.163.com/album?id=81076372"
+    }
+  },
+  {
+    "name": "I Still Believe",
+    "link": "https://music.163.com/song?id=1358194683",
+    "duration": "03:04",
+    "artists": [
+      { "name": "Mandee", "link": "https://music.163.com/artist?id=12171036" },
+      {
+        "name": "Abi F Jones",
+        "link": "https://music.163.com/artist?id=1137160"
+      }
+    ],
+    "album": {
+      "name": "I Still Believe",
+      "link": "https://music.163.com/album?id=78479967"
+    }
+  },
+  {
+    "name": "Wait Another Day",
+    "link": "https://music.163.com/song?id=1331192365",
+    "duration": "02:59",
+    "artists": [
+      {
+        "name": "Mike Williams",
+        "link": "https://music.163.com/artist?id=302020"
+      },
+      { "name": "Mesto", "link": "https://music.163.com/artist?id=12007184" }
+    ],
+    "album": {
+      "name": "Wait Another Day",
+      "link": "https://music.163.com/album?id=74914610"
+    }
+  },
+  {
+    "name": "New Fate",
+    "link": "https://music.163.com/song?id=1378617831",
+    "duration": "03:17",
+    "artists": [
+      { "name": "Arston", "link": "https://music.163.com/artist?id=776576" },
+      { "name": "LUX (US)", "link": "https://music.163.com/artist?id=35049288" }
+    ],
+    "album": {
+      "name": "New Fate",
+      "link": "https://music.163.com/album?id=80455339"
+    }
+  },
+  {
+    "name": "Collide (Extended Mix)",
+    "link": "https://music.163.com/song?id=1431820060",
+    "duration": "04:35",
+    "artists": [
+      {
+        "name": "The Darkmaker",
+        "link": "https://music.163.com/artist?id=31492299"
+      },
+      { "name": "赵曼伊mï", "link": "https://music.163.com/artist?id=31760557" }
+    ],
+    "album": {
+      "name": "Collide",
+      "link": "https://music.163.com/album?id=86571265"
+    }
+  },
+  {
+    "name": "Tropical Heaven",
+    "link": "https://music.163.com/song?id=1486010730",
+    "duration": "03:31",
+    "artists": [
+      { "name": "Axero", "link": "https://music.163.com/artist?id=1035020" }
+    ],
+    "album": {
+      "name": "Back To My Roots",
+      "link": "https://music.163.com/album?id=96613549"
+    }
+  },
+  {
+    "name": "Love You",
+    "link": "https://music.163.com/song?id=1834149281",
+    "duration": "02:49",
+    "artists": [
+      { "name": "Cuebrick", "link": "https://music.163.com/artist?id=364737" }
+    ],
+    "album": {
+      "name": "Love You",
+      "link": "https://music.163.com/album?id=125460904"
+    }
+  },
+  {
+    "name": "Love Is Gone ft. Dylan Matthew (R3HAB Remix)",
+    "link": "https://music.163.com/song?id=1868104454",
+    "duration": "02:30",
+    "artists": [
+      { "name": "SLANDER", "link": "https://music.163.com/artist?id=1137239" },
+      {
+        "name": "Dylan Matthew",
+        "link": "https://music.163.com/artist?id=28684353"
+      },
+      { "name": "R3HAB", "link": "https://music.163.com/artist?id=197248" }
+    ],
+    "album": {
+      "name": "Love Is Gone ft. Dylan Matthew (R3HAB Remix)",
+      "link": "https://music.163.com/album?id=131537753"
+    }
+  },
+  {
+    "name": "Deep Sea",
+    "link": "https://music.163.com/song?id=1371394466",
+    "duration": "03:02",
+    "artists": [
+      { "name": "Amille", "link": "https://music.163.com/artist?id=12108101" }
+    ],
+    "album": {
+      "name": "Deep Sea",
+      "link": "https://music.163.com/album?id=79756984"
+    }
+  },
+  {
+    "name": "Who We Are",
+    "link": "https://music.163.com/song?id=559902519",
+    "duration": "03:10",
+    "artists": [
+      { "name": "FTampa", "link": "https://music.163.com/artist?id=453377" }
+    ],
+    "album": {
+      "name": "Who We Are",
+      "link": "https://music.163.com/album?id=38731120"
+    }
+  },
+  {
+    "name": "One Sided (feat. Mark Klaver)",
+    "link": "https://music.163.com/song?id=1822748691",
+    "duration": "03:53",
+    "artists": [
+      { "name": "ARMNHMR", "link": "https://music.163.com/artist?id=1132078" },
+      { "name": "Miles Away", "link": "https://music.163.com/artist?id=96821" },
+      {
+        "name": "Mark Klaver",
+        "link": "https://music.163.com/artist?id=33363093"
+      }
+    ],
+    "album": {
+      "name": "One Sided (feat. Mark Klaver)",
+      "link": "https://music.163.com/album?id=123491180"
+    }
+  },
+  {
+    "name": "Fire (Paris Blohm Remix)",
+    "link": "https://music.163.com/song?id=454438123",
+    "duration": "03:13",
+    "artists": [
+      { "name": "3LAU", "link": "https://music.163.com/artist?id=762511" },
+      {
+        "name": "Paris Blohm",
+        "link": "https://music.163.com/artist?id=851710"
+      },
+      {
+        "name": "NÉONHÈART",
+        "link": "https://music.163.com/artist?id=12273083"
+      },
+      {
+        "name": "Said The Sky",
+        "link": "https://music.163.com/artist?id=1026094"
+      }
+    ],
+    "album": {
+      "name": "Fire (Remixes)",
+      "link": "https://music.163.com/album?id=35123956"
+    }
+  },
+  {
+    "name": "Start Again",
+    "link": "https://music.163.com/song?id=1908151892",
+    "duration": "02:55",
+    "artists": [
+      { "name": "Astaily", "link": "https://music.163.com/artist?id=34337816" }
+    ],
+    "album": {
+      "name": "Start Again",
+      "link": "https://music.163.com/album?id=138213542"
+    }
+  },
+  {
+    "name": "Replay",
+    "link": "https://music.163.com/song?id=501326901",
+    "duration": "03:22",
+    "artists": [
+      { "name": "Cire", "link": "https://music.163.com/artist?id=344911" },
+      { "name": "Davaï", "link": "https://music.163.com/artist?id=12526499" }
+    ],
+    "album": {
+      "name": "Replay",
+      "link": "https://music.163.com/album?id=35903920"
+    }
+  },
+  {
+    "name": "What U Wanted",
+    "link": "https://music.163.com/song?id=1454868789",
+    "duration": "02:37",
+    "artists": [
+      { "name": "Wiberg", "link": "https://music.163.com/artist?id=32843930" },
+      { "name": "Rentz", "link": "https://music.163.com/artist?id=12628381" }
+    ],
+    "album": {
+      "name": "What U Wanted",
+      "link": "https://music.163.com/album?id=90764518"
+    }
+  },
+  {
+    "name": "Chasing The Light",
+    "link": "https://music.163.com/song?id=1420914778",
+    "duration": "02:37",
+    "artists": [
+      { "name": "Maryn", "link": "https://music.163.com/artist?id=12861041" },
+      {
+        "name": "Jordan Shaw",
+        "link": "https://music.163.com/artist?id=13628884"
+      }
+    ],
+    "album": {
+      "name": "Chasing The Light",
+      "link": "https://music.163.com/album?id=85465752"
+    }
+  },
+  {
+    "name": "Lost",
+    "link": "https://music.163.com/song?id=507585224",
+    "duration": "03:20",
+    "artists": [
+      { "name": "ILLENIUM", "link": "https://music.163.com/artist?id=1050518" },
+      {
+        "name": "Emilie Brandt",
+        "link": "https://music.163.com/artist?id=13939432"
+      }
+    ],
+    "album": {
+      "name": "Awake",
+      "link": "https://music.163.com/album?id=36290028"
+    }
+  },
+  {
+    "name": "错过",
+    "link": "https://music.163.com/song?id=1880803640",
+    "duration": "03:16",
+    "artists": [
+      {
+        "name": "张天奕ZTYick",
+        "link": "https://music.163.com/artist?id=12304366"
+      },
+      { "name": "Let-love", "link": "https://music.163.com/artist?id=32563758" }
+    ],
+    "album": {
+      "name": "错过",
+      "link": "https://music.163.com/album?id=133713767"
+    }
+  },
+  {
+    "name": "4038",
+    "link": "https://music.163.com/song?id=1406885246",
+    "duration": "03:50",
+    "artists": [
+      {
+        "name": "JuggShots",
+        "link": "https://music.163.com/artist?id=13005262"
+      },
+      { "name": "夏璃夜", "link": "https://music.163.com/artist?id=12236114" },
+      {
+        "name": "Reggie Yang",
+        "link": "https://music.163.com/artist?id=12605071"
+      },
+      { "name": "RADI8", "link": "https://music.163.com/artist?id=28071541" }
+    ],
+    "album": {
+      "name": "4038",
+      "link": "https://music.163.com/album?id=83776771"
+    }
+  },
+  {
+    "name": "Bad Option (Original Mix)",
+    "link": "https://music.163.com/song?id=1844441677",
+    "duration": "02:46",
+    "artists": [
+      {
+        "name": "Bougenvilla",
+        "link": "https://music.163.com/artist?id=1050493"
+      },
+      { "name": "Mairee", "link": "https://music.163.com/artist?id=12597183" },
+      {
+        "name": "Nathalie Blue",
+        "link": "https://music.163.com/artist?id=31977901"
+      }
+    ],
+    "album": {
+      "name": "Bad Option",
+      "link": "https://music.163.com/album?id=127300519"
+    }
+  },
+  {
+    "name": "Naked Soul (feat. Liel Kolet)",
+    "link": "https://music.163.com/song?id=1450894524",
+    "duration": "04:46",
+    "artists": [
+      {
+        "name": "Last Heroes",
+        "link": "https://music.163.com/artist?id=11987034"
+      },
+      {
+        "name": "Liel Kolet",
+        "link": "https://music.163.com/artist?id=14672688"
+      }
+    ],
+    "album": {
+      "name": "No Sleep // Naked Soul",
+      "link": "https://music.163.com/album?id=89947550"
+    }
+  },
+  {
+    "name": "Stereo Love (Jay Divine Bootleg)",
+    "link": "https://music.163.com/song?id=1403510977",
+    "duration": "02:45",
+    "artists": [
+      {
+        "name": "Jay Divine",
+        "link": "https://music.163.com/artist?id=12450150"
+      }
+    ],
+    "album": {
+      "name": "Stereo Love (Jay Divine Bootleg)",
+      "link": "https://music.163.com/album?id=83340865"
+    }
+  },
+  {
+    "name": "Moskau",
+    "link": "https://music.163.com/song?id=1430444227",
+    "duration": "03:35",
+    "artists": [
+      {
+        "name": "Da Tweekaz",
+        "link": "https://music.163.com/artist?id=334026"
+      },
+      {
+        "name": "Harris & Ford",
+        "link": "https://music.163.com/artist?id=11985013"
+      }
+    ],
+    "album": {
+      "name": "Moskau",
+      "link": "https://music.163.com/album?id=86459983"
+    }
+  },
+  {
+    "name": "Army Of Fire",
+    "link": "https://music.163.com/song?id=1403094251",
+    "duration": "03:42",
+    "artists": [
+      {
+        "name": "Sound Rush",
+        "link": "https://music.163.com/artist?id=1050827"
+      },
+      { "name": "Eurielle", "link": "https://music.163.com/artist?id=1054007" }
+    ],
+    "album": {
+      "name": "Qlimax 2019",
+      "link": "https://music.163.com/album?id=83266794"
+    }
+  },
+  {
+    "name": "la la la that’s how it goes",
+    "link": "https://music.163.com/song?id=1459388782",
+    "duration": "03:39",
+    "artists": [
+      { "name": "HONNE", "link": "https://music.163.com/artist?id=1050129" }
+    ],
+    "album": {
+      "name": "no song without you",
+      "link": "https://music.163.com/album?id=91780754"
+    }
+  },
+  {
+    "name": "Burning",
+    "link": "https://music.163.com/song?id=25880354",
+    "duration": "04:00",
+    "artists": [
+      {
+        "name": "Various Artists",
+        "link": "https://music.163.com/artist?id=104700"
+      }
+    ],
+    "album": {
+      "name": "Lover Loving Dictionary 3",
+      "link": "https://music.163.com/album?id=2337573"
+    }
+  },
+  {
+    "name": "散Luv",
+    "link": "https://music.163.com/song?id=1472223960",
+    "duration": "03:50",
+    "artists": [
+      { "name": "川屿", "link": "https://music.163.com/artist?id=31052925" }
+    ],
+    "album": {
+      "name": "散Luv",
+      "link": "https://music.163.com/album?id=94141780"
+    }
+  },
+  {
+    "name": "Aloha Heja He - (嘿，加油)",
+    "link": "https://music.163.com/song?id=32337953",
+    "duration": "04:03",
+    "artists": [
+      {
+        "name": "Achim Reichel",
+        "link": "https://music.163.com/artist?id=47097"
+      }
+    ],
+    "album": {
+      "name": "Melancholie und Sturmflut (Bonus Tracks Edition)",
+      "link": "https://music.163.com/album?id=3154679"
+    }
+  },
+  {
+    "name": "最爱",
+    "link": "https://music.163.com/song?id=1401267466",
+    "duration": "04:10",
+    "artists": [
+      { "name": "阿梨粤", "link": "https://music.163.com/artist?id=33230219" }
+    ],
+    "album": {
+      "name": "最爱",
+      "link": "https://music.163.com/album?id=83012071"
+    }
+  },
+  {
+    "name": "You Might Be (GoldFish Remix)",
+    "link": "https://music.163.com/song?id=488953797",
+    "duration": "03:01",
+    "artists": [
+      { "name": "Goldfish", "link": "https://music.163.com/artist?id=93494" },
+      { "name": "Autograf", "link": "https://music.163.com/artist?id=47101" }
+    ],
+    "album": {
+      "name": "You Might Be (Remixes)",
+      "link": "https://music.163.com/album?id=35683662"
+    }
+  }
+]
