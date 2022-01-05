@@ -1,0 +1,492 @@
+[
+  {
+    "name": "At Least I Had Fun",
+    "link": "https://music.163.com/song?id=1470902634",
+    "duration": "02:50",
+    "artists": [
+      {
+        "name": "Martin Jensen",
+        "link": "https://music.163.com/artist?id=1060055"
+      },
+      { "name": "RANI", "link": "https://music.163.com/artist?id=13774039" }
+    ],
+    "album": {
+      "name": "At Least I Had Fun",
+      "link": "https://music.163.com/album?id=93939741"
+    }
+  },
+  {
+    "name": "Elevate",
+    "link": "https://music.163.com/song?id=1816407237",
+    "duration": "03:35",
+    "artists": [
+      { "name": "Vicetone", "link": "https://music.163.com/artist?id=747030" }
+    ],
+    "album": {
+      "name": "Legacy",
+      "link": "https://music.163.com/album?id=122372498"
+    }
+  },
+  {
+    "name": "What U Do",
+    "link": "https://music.163.com/song?id=1459697279",
+    "duration": "02:22",
+    "artists": [
+      {
+        "name": "Wild Culture",
+        "link": "https://music.163.com/artist?id=787041"
+      },
+      { "name": "Shel Bee", "link": "https://music.163.com/artist?id=30086331" }
+    ],
+    "album": {
+      "name": "What U Do",
+      "link": "https://music.163.com/album?id=91839414"
+    }
+  },
+  {
+    "name": "Cherry Lambo (Marky Style & Guy Gabriel Remix)",
+    "link": "https://music.163.com/song?id=511921179",
+    "duration": "03:20",
+    "artists": [
+      { "name": "Evalyn", "link": "https://music.163.com/artist?id=12646511" },
+      {
+        "name": "Marky Style",
+        "link": "https://music.163.com/artist?id=12302135"
+      },
+      {
+        "name": "Guy Gabriel",
+        "link": "https://music.163.com/artist?id=13133238"
+      }
+    ],
+    "album": {
+      "name": "Cherry Lambo (Marky Style & Guy Gabriel Remix)",
+      "link": "https://music.163.com/album?id=36450415"
+    }
+  },
+  {
+    "name": "Time",
+    "link": "https://music.163.com/song?id=1890548068",
+    "duration": "02:19",
+    "artists": [
+      { "name": "OVSKY", "link": "https://music.163.com/artist?id=36560569" }
+    ],
+    "album": {
+      "name": "Time",
+      "link": "https://music.163.com/album?id=135395009"
+    }
+  },
+  {
+    "name": "my hair",
+    "link": "https://music.163.com/song?id=1491000665",
+    "duration": "02:38",
+    "artists": [
+      {
+        "name": "Ariana Grande",
+        "link": "https://music.163.com/artist?id=48161"
+      }
+    ],
+    "album": {
+      "name": "Positions (Deluxe)",
+      "link": "https://music.163.com/album?id=97470760"
+    }
+  },
+  {
+    "name": "California Vibes",
+    "link": "https://music.163.com/song?id=1447696197",
+    "duration": "02:43",
+    "artists": [
+      {
+        "name": "Alex Skrindo",
+        "link": "https://music.163.com/artist?id=1046359"
+      },
+      { "name": "KLARA", "link": "https://music.163.com/artist?id=12262741" }
+    ],
+    "album": {
+      "name": "California Vibes",
+      "link": "https://music.163.com/album?id=89371351"
+    }
+  },
+  {
+    "name": "Cool",
+    "link": "https://music.163.com/song?id=1448284110",
+    "duration": "02:21",
+    "artists": [
+      { "name": "MAGNÜS", "link": "https://music.163.com/artist?id=12218187" },
+      { "name": "Unread", "link": "https://music.163.com/artist?id=32804599" },
+      {
+        "name": "Alessia Labate",
+        "link": "https://music.163.com/artist?id=30664269"
+      }
+    ],
+    "album": {
+      "name": "Cool",
+      "link": "https://music.163.com/album?id=89486955"
+    }
+  },
+  {
+    "name": "Waiting Part II (The Answer)",
+    "link": "https://music.163.com/song?id=1848243289",
+    "duration": "04:17",
+    "artists": [
+      { "name": "Caslow", "link": "https://music.163.com/artist?id=15109745" },
+      { "name": "Foster", "link": "https://music.163.com/artist?id=37484690" },
+      { "name": "Brycian", "link": "https://music.163.com/artist?id=48215031" }
+    ],
+    "album": {
+      "name": "Waiting Part II (The Answer)",
+      "link": "https://music.163.com/album?id=128020696"
+    }
+  },
+  {
+    "name": "That's Why I Like You",
+    "link": "https://music.163.com/song?id=1414112307",
+    "duration": "03:33",
+    "artists": [
+      { "name": "周兴哲", "link": "https://music.163.com/artist?id=980025" }
+    ],
+    "album": {
+      "name": "小时候的我们",
+      "link": "https://music.163.com/album?id=84710447"
+    }
+  },
+  {
+    "name": "We Burn-Avicii",
+    "link": "https://music.163.com/song?id=1850925256",
+    "duration": "04:17",
+    "artists": [{ "name": "AviPnhTcii", "link": "" }],
+    "album": {
+      "name": "AVĪCI（02） (Reboot)",
+      "link": "https://music.163.com/album?id=128474241"
+    }
+  },
+  {
+    "name": "Alone",
+    "link": "https://music.163.com/song?id=1445854134",
+    "duration": "03:45",
+    "artists": [
+      { "name": "Rentz", "link": "https://music.163.com/artist?id=12628381" }
+    ],
+    "album": {
+      "name": "Alone",
+      "link": "https://music.163.com/album?id=89002540"
+    }
+  },
+  {
+    "name": "Meant To Be (RetroVision Remix)",
+    "link": "https://music.163.com/song?id=484732439",
+    "duration": "03:35",
+    "artists": [
+      {
+        "name": "Arc North",
+        "link": "https://music.163.com/artist?id=1137410"
+      },
+      {
+        "name": "RetroVision",
+        "link": "https://music.163.com/artist?id=11976142"
+      },
+      {
+        "name": "Krista Marina",
+        "link": "https://music.163.com/artist?id=27743268"
+      }
+    ],
+    "album": {
+      "name": "Meant To Be (Remixes)",
+      "link": "https://music.163.com/album?id=35645147"
+    }
+  },
+  {
+    "name": "Around The Fire",
+    "link": "https://music.163.com/song?id=1407345280",
+    "duration": "02:21",
+    "artists": [
+      { "name": "Vexento", "link": "https://music.163.com/artist?id=12037010" }
+    ],
+    "album": {
+      "name": "Around The Fire",
+      "link": "https://music.163.com/album?id=83842823"
+    }
+  },
+  {
+    "name": "Beautiful World (Radio Edit)",
+    "link": "https://music.163.com/song?id=28119432",
+    "duration": "03:25",
+    "artists": [
+      {
+        "name": "Paul Oakenfold",
+        "link": "https://music.163.com/artist?id=41200"
+      },
+      { "name": "Spitfire", "link": "https://music.163.com/artist?id=76139" },
+      {
+        "name": "Disfunktion",
+        "link": "https://music.163.com/artist?id=851543"
+      }
+    ],
+    "album": {
+      "name": "Armada House - Best Of 2013",
+      "link": "https://music.163.com/album?id=2730921"
+    }
+  },
+  {
+    "name": "You Got Me",
+    "link": "https://music.163.com/song?id=421423721",
+    "duration": "03:58",
+    "artists": [
+      { "name": "Feki", "link": "https://music.163.com/artist?id=1122128" },
+      { "name": "Dom Vino", "link": "https://music.163.com/artist?id=27887301" }
+    ],
+    "album": {
+      "name": "You Got Me",
+      "link": "https://music.163.com/album?id=34780540"
+    }
+  },
+  {
+    "name": "Higher (Extended)",
+    "link": "https://music.163.com/song?id=566084231",
+    "duration": "03:57",
+    "artists": [
+      { "name": "Theis EZ", "link": "https://music.163.com/artist?id=13194343" }
+    ],
+    "album": {
+      "name": "Higher",
+      "link": "https://music.163.com/album?id=39233153"
+    }
+  },
+  {
+    "name": "Forever",
+    "link": "https://music.163.com/song?id=1374177485",
+    "duration": "03:18",
+    "artists": [
+      { "name": "Menino", "link": "https://music.163.com/artist?id=14929011" }
+    ],
+    "album": {
+      "name": "Forever",
+      "link": "https://music.163.com/album?id=80012527"
+    }
+  },
+  {
+    "name": "Oxygen",
+    "link": "https://music.163.com/song?id=1387849025",
+    "duration": "03:38",
+    "artists": [
+      { "name": "Excision", "link": "https://music.163.com/artist?id=33221" },
+      { "name": "Wooli", "link": "https://music.163.com/artist?id=12203238" },
+      { "name": "Trivecta", "link": "https://music.163.com/artist?id=954338" },
+      {
+        "name": "Julianne Hope",
+        "link": "https://music.163.com/artist?id=32754890"
+      }
+    ],
+    "album": {
+      "name": "Evolution EP",
+      "link": "https://music.163.com/album?id=81280292"
+    }
+  },
+  {
+    "name": "Promise",
+    "link": "https://music.163.com/song?id=1813379602",
+    "duration": "04:25",
+    "artists": [
+      { "name": "JINGYAN", "link": "https://music.163.com/artist?id=30645561" }
+    ],
+    "album": {
+      "name": "Promise",
+      "link": "https://music.163.com/album?id=121812374"
+    }
+  },
+  {
+    "name": "Just Because",
+    "link": "https://music.163.com/song?id=1463390862",
+    "duration": "03:09",
+    "artists": [
+      {
+        "name": "Crazy Bucket 陈楒潼",
+        "link": "https://music.163.com/artist?id=12538488"
+      },
+      {
+        "name": "Yurium幼里安",
+        "link": "https://music.163.com/artist?id=31374204"
+      }
+    ],
+    "album": {
+      "name": "Just Because",
+      "link": "https://music.163.com/album?id=92441552"
+    }
+  },
+  {
+    "name": "Just A Fling",
+    "link": "https://music.163.com/song?id=36586705",
+    "duration": "04:10",
+    "artists": [
+      { "name": "Nofilter", "link": "https://music.163.com/artist?id=1181384" },
+      { "name": "Furns", "link": "https://music.163.com/artist?id=1132267" }
+    ],
+    "album": {
+      "name": "Just A Fling",
+      "link": "https://music.163.com/album?id=3395610"
+    }
+  },
+  {
+    "name": "All Around the World (La La La) (Brennan Heart Remix)",
+    "link": "https://music.163.com/song?id=1391365935",
+    "duration": "03:04",
+    "artists": [
+      { "name": "R3HAB", "link": "https://music.163.com/artist?id=197248" },
+      {
+        "name": "A Touch of Class",
+        "link": "https://music.163.com/artist?id=85736"
+      },
+      {
+        "name": "Brennan Heart",
+        "link": "https://music.163.com/artist?id=688203"
+      }
+    ],
+    "album": {
+      "name": "All Around the World (La La La) (Brennan Heart Remix)",
+      "link": "https://music.163.com/album?id=81691009"
+    }
+  },
+  {
+    "name": "Waiting (feat. Bianca)",
+    "link": "https://music.163.com/song?id=1397292504",
+    "duration": "03:43",
+    "artists": [
+      {
+        "name": "Danny Olson",
+        "link": "https://music.163.com/artist?id=1178296"
+      },
+      { "name": "Bianca", "link": "https://music.163.com/artist?id=50563" }
+    ],
+    "album": {
+      "name": "Waiting",
+      "link": "https://music.163.com/album?id=82463694"
+    }
+  },
+  {
+    "name": "Wasteland (Wooli Remix)",
+    "link": "https://music.163.com/song?id=1453683590",
+    "duration": "04:23",
+    "artists": [
+      { "name": "Trivecta", "link": "https://music.163.com/artist?id=954338" },
+      { "name": "Wooli", "link": "https://music.163.com/artist?id=12203238" }
+    ],
+    "album": {
+      "name": "Wasteland (Wooli Remix)",
+      "link": "https://music.163.com/album?id=90499347"
+    }
+  },
+  {
+    "name": "I Love You",
+    "link": "https://music.163.com/song?id=864100634",
+    "duration": "05:10",
+    "artists": [
+      { "name": "Sibewest", "link": "https://music.163.com/artist?id=12675639" }
+    ],
+    "album": {
+      "name": " I Love You",
+      "link": "https://music.163.com/album?id=71614165"
+    }
+  },
+  {
+    "name": "Crystals",
+    "link": "https://music.163.com/song?id=1392566178",
+    "duration": "03:28",
+    "artists": [
+      {
+        "name": "Wheazewolf",
+        "link": "https://music.163.com/artist?id=30704290"
+      }
+    ],
+    "album": {
+      "name": "Crystals",
+      "link": "https://music.163.com/album?id=81770378"
+    }
+  },
+  {
+    "name": "All Over Again (Extended Mix)",
+    "link": "https://music.163.com/song?id=489506072",
+    "duration": "07:53",
+    "artists": [
+      {
+        "name": "Bryan Kearney",
+        "link": "https://music.163.com/artist?id=148763"
+      },
+      { "name": "Plumb", "link": "https://music.163.com/artist?id=71153" }
+    ],
+    "album": {
+      "name": "All Over Again",
+      "link": "https://music.163.com/album?id=35696820"
+    }
+  },
+  {
+    "name": "Disorder",
+    "link": "https://music.163.com/song?id=482636791",
+    "duration": "03:09",
+    "artists": [
+      { "name": "RIOT", "link": "https://music.163.com/artist?id=1116334" }
+    ],
+    "album": {
+      "name": "Disorder",
+      "link": "https://music.163.com/album?id=35589198"
+    }
+  },
+  {
+    "name": "我不要一直想你",
+    "link": "https://music.163.com/song?id=1846094285",
+    "duration": "03:06",
+    "artists": [
+      { "name": "杨胖雨", "link": "https://music.163.com/artist?id=31051426" },
+      {
+        "name": "yihuik苡慧",
+        "link": "https://music.163.com/artist?id=36032190"
+      }
+    ],
+    "album": {
+      "name": "我不要一直想你",
+      "link": "https://music.163.com/album?id=127632736"
+    }
+  },
+  {
+    "name": "Legends Never Die (Wildstylez Bootleg)",
+    "link": "https://music.163.com/song?id=1345693189",
+    "duration": "03:28",
+    "artists": [
+      { "name": "Wildstylez", "link": "https://music.163.com/artist?id=666014" }
+    ],
+    "album": {
+      "name": "Legends Never Die (Wildstylez Bootleg)",
+      "link": "https://music.163.com/album?id=75019342"
+    }
+  },
+  {
+    "name": "Don’t Go",
+    "link": "https://music.163.com/song?id=1871099430",
+    "duration": "02:48",
+    "artists": [
+      { "name": "Skrillex", "link": "https://music.163.com/artist?id=43755" },
+      {
+        "name": "Justin Bieber",
+        "link": "https://music.163.com/artist?id=35531"
+      },
+      {
+        "name": "Don Toliver",
+        "link": "https://music.163.com/artist?id=14253161"
+      }
+    ],
+    "album": {
+      "name": "Don’t Go",
+      "link": "https://music.163.com/album?id=132034275"
+    }
+  },
+  {
+    "name": "The Tradition",
+    "link": "https://music.163.com/song?id=1908745199",
+    "duration": "03:46",
+    "artists": [
+      { "name": "Halsey", "link": "https://music.163.com/artist?id=964321" }
+    ],
+    "album": {
+      "name": "If I Can’t Have Love, I Want Power (Extended)",
+      "link": "https://music.163.com/album?id=138289138"
+    }
+  }
+]
