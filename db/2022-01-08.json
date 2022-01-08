@@ -1,0 +1,529 @@
+[
+  {
+    "name": "Time To Give",
+    "link": "https://music.163.com/song?id=1842794522",
+    "duration": "03:43",
+    "artists": [
+      { "name": "Meikle", "link": "https://music.163.com/artist?id=480444" },
+      {
+        "name": "Roy Orion",
+        "link": "https://music.163.com/artist?id=12462459"
+      },
+      {
+        "name": "Revealed Recordings",
+        "link": "https://music.163.com/artist?id=28753573"
+      }
+    ],
+    "album": {
+      "name": "Time To Give",
+      "link": "https://music.163.com/album?id=126999261"
+    }
+  },
+  {
+    "name": "Lose You Now",
+    "link": "https://music.163.com/song?id=1809169083",
+    "duration": "03:13",
+    "artists": [
+      {
+        "name": "Lindsey Stirling",
+        "link": "https://music.163.com/artist?id=66225"
+      },
+      { "name": "Mako", "link": "https://music.163.com/artist?id=68192" }
+    ],
+    "album": {
+      "name": "Lose You Now",
+      "link": "https://music.163.com/album?id=121139945"
+    }
+  },
+  {
+    "name": "What I Like About You",
+    "link": "https://music.163.com/song?id=1353368988",
+    "duration": "03:40",
+    "artists": [
+      {
+        "name": "Jonas Blue",
+        "link": "https://music.163.com/artist?id=1192069"
+      },
+      {
+        "name": "Theresa Rex",
+        "link": "https://music.163.com/artist?id=30282713"
+      }
+    ],
+    "album": {
+      "name": "What I Like About You",
+      "link": "https://music.163.com/album?id=77634351"
+    }
+  },
+  {
+    "name": "Atomic Bomb (feat. Juan Alcasar)",
+    "link": "https://music.163.com/song?id=1449539197",
+    "duration": "02:09",
+    "artists": [
+      { "name": "Dubdogz", "link": "https://music.163.com/artist?id=12742168" },
+      {
+        "name": "Jetlag Music",
+        "link": "https://music.163.com/artist?id=12448039"
+      },
+      {
+        "name": "Vitor Bueno",
+        "link": "https://music.163.com/artist?id=28508937"
+      },
+      {
+        "name": "Juan Alcasar",
+        "link": "https://music.163.com/artist?id=35227807"
+      }
+    ],
+    "album": {
+      "name": "Atomic Bomb (feat. Juan Alcasar)",
+      "link": "https://music.163.com/album?id=89710362"
+    }
+  },
+  {
+    "name": "Thousand Drums",
+    "link": "https://music.163.com/song?id=1908728080",
+    "duration": "03:21",
+    "artists": [
+      {
+        "name": "Orjan Nilsen",
+        "link": "https://music.163.com/artist?id=41064"
+      },
+      { "name": "ANG", "link": "https://music.163.com/artist?id=12121366" }
+    ],
+    "album": {
+      "name": "Thousand Drums",
+      "link": "https://music.163.com/album?id=138284225"
+    }
+  },
+  {
+    "name": "Standing Still",
+    "link": "https://music.163.com/song?id=1440850870",
+    "duration": "03:06",
+    "artists": [
+      {
+        "name": "Joakim Molitor",
+        "link": "https://music.163.com/artist?id=13972238"
+      },
+      {
+        "name": "Victoria Voss",
+        "link": "https://music.163.com/artist?id=29628377"
+      }
+    ],
+    "album": {
+      "name": "Standing Still",
+      "link": "https://music.163.com/album?id=88064689"
+    }
+  },
+  {
+    "name": "Save the World",
+    "link": "https://music.163.com/song?id=523195263",
+    "duration": "02:56",
+    "artists": [
+      {
+        "name": "Julian Moon",
+        "link": "https://music.163.com/artist?id=1057044"
+      },
+      { "name": "Kat Krazy", "link": "https://music.163.com/artist?id=776314" }
+    ],
+    "album": {
+      "name": "Save the World",
+      "link": "https://music.163.com/album?id=36945992"
+    }
+  },
+  {
+    "name": "Wasted (KAJ Remix)",
+    "link": "https://music.163.com/song?id=1422626002",
+    "duration": "02:54",
+    "artists": [
+      { "name": "Carda", "link": "https://music.163.com/artist?id=12095135" },
+      {
+        "name": "Emily Falvey",
+        "link": "https://music.163.com/artist?id=31678015"
+      }
+    ],
+    "album": {
+      "name": "Wasted (Remixes)",
+      "link": "https://music.163.com/album?id=85652766"
+    }
+  },
+  {
+    "name": "Little Light",
+    "link": "https://music.163.com/song?id=1439177900",
+    "duration": "02:42",
+    "artists": [
+      { "name": "Spada", "link": "https://music.163.com/artist?id=142013" },
+      { "name": "Aurya", "link": "https://music.163.com/artist?id=34817547" }
+    ],
+    "album": {
+      "name": "Little Light",
+      "link": "https://music.163.com/album?id=87830525"
+    }
+  },
+  {
+    "name": "Should I Wait (Armin van Buuren presents Rising Star Remix)",
+    "link": "https://music.163.com/song?id=1845361634",
+    "duration": "03:27",
+    "artists": [
+      {
+        "name": "Armin van Buuren",
+        "link": "https://music.163.com/artist?id=27621"
+      },
+      { "name": "Avalan", "link": "https://music.163.com/artist?id=33503346" },
+      {
+        "name": "Rising Star",
+        "link": "https://music.163.com/artist?id=151177"
+      }
+    ],
+    "album": {
+      "name": "Should I Wait (Armin van Buuren presents Rising Star Remix)",
+      "link": "https://music.163.com/album?id=127476969"
+    }
+  },
+  {
+    "name": "Silence",
+    "link": "https://music.163.com/song?id=1488918326",
+    "duration": "02:25",
+    "artists": [
+      { "name": "Axollo", "link": "https://music.163.com/artist?id=12041012" },
+      {
+        "name": "Josh Bogert",
+        "link": "https://music.163.com/artist?id=31397013"
+      }
+    ],
+    "album": {
+      "name": "Silence",
+      "link": "https://music.163.com/album?id=97144404"
+    }
+  },
+  {
+    "name": "Dancing in the Moonlight",
+    "link": "https://music.163.com/song?id=564094072",
+    "duration": "02:44",
+    "artists": [
+      { "name": "NEIMY", "link": "https://music.163.com/artist?id=12742289" },
+      { "name": "Jubël", "link": "https://music.163.com/artist?id=12312412" }
+    ],
+    "album": {
+      "name": "Dancing in the Moonlight",
+      "link": "https://music.163.com/album?id=39095125"
+    }
+  },
+  {
+    "name": "Look at the Sky",
+    "link": "https://music.163.com/song?id=1815533595",
+    "duration": "05:09",
+    "artists": [
+      {
+        "name": "Porter Robinson",
+        "link": "https://music.163.com/artist?id=185871"
+      }
+    ],
+    "album": {
+      "name": "Look at the Sky",
+      "link": "https://music.163.com/album?id=122223858"
+    }
+  },
+  {
+    "name": "By your side",
+    "link": "https://music.163.com/song?id=1334784518",
+    "duration": "03:04",
+    "artists": [
+      { "name": "Inogg", "link": "https://music.163.com/artist?id=12643745" }
+    ],
+    "album": {
+      "name": "By Your Side",
+      "link": "https://music.163.com/album?id=74921411"
+    }
+  },
+  {
+    "name": "I Just Can't",
+    "link": "https://music.163.com/song?id=504492133",
+    "duration": "02:36",
+    "artists": [
+      { "name": "R3HAB", "link": "https://music.163.com/artist?id=197248" },
+      { "name": "Quintino", "link": "https://music.163.com/artist?id=820303" }
+    ],
+    "album": {
+      "name": "I Just Can't",
+      "link": "https://music.163.com/album?id=36149271"
+    }
+  },
+  {
+    "name": "Birthday Cakes",
+    "link": "https://music.163.com/song?id=442458648",
+    "duration": "03:04",
+    "artists": [
+      {
+        "name": "Rikke Darling",
+        "link": "https://music.163.com/artist?id=12196069"
+      },
+      {
+        "name": "THE NGHTL1FE",
+        "link": "https://music.163.com/artist?id=29895992"
+      }
+    ],
+    "album": {
+      "name": "Birthday Cakes",
+      "link": "https://music.163.com/album?id=34970933"
+    }
+  },
+  {
+    "name": "Do Better",
+    "link": "https://music.163.com/song?id=1811840620",
+    "duration": "03:06",
+    "artists": [
+      { "name": "Feint", "link": "https://music.163.com/artist?id=93062" }
+    ],
+    "album": {
+      "name": "Do Better",
+      "link": "https://music.163.com/album?id=121616072"
+    }
+  },
+  {
+    "name": "I Promise",
+    "link": "https://music.163.com/song?id=1838775713",
+    "duration": "04:34",
+    "artists": [
+      { "name": "Catee", "link": "https://music.163.com/artist?id=35731989" },
+      { "name": "Icewind", "link": "https://music.163.com/artist?id=36184294" },
+      {
+        "name": "FelsosIL",
+        "link": "https://music.163.com/artist?id=46787299"
+      },
+      { "name": "Marsr", "link": "https://music.163.com/artist?id=46955475" },
+      { "name": "Y_z00", "link": "https://music.163.com/artist?id=46961689" }
+    ],
+    "album": {
+      "name": "I Promise",
+      "link": "https://music.163.com/album?id=126248696"
+    }
+  },
+  {
+    "name": "Fight For You",
+    "link": "https://music.163.com/song?id=574357332",
+    "duration": "03:08",
+    "artists": [
+      { "name": "Dillytek", "link": "https://music.163.com/artist?id=14642469" }
+    ],
+    "album": {
+      "name": "Sound In Motion",
+      "link": "https://music.163.com/album?id=39765989"
+    }
+  },
+  {
+    "name": "Out Of Touch",
+    "link": "https://music.163.com/song?id=1822400088",
+    "duration": "02:28",
+    "artists": [
+      { "name": "OVSKY", "link": "https://music.163.com/artist?id=36560569" }
+    ],
+    "album": {
+      "name": "Out Of Touch",
+      "link": "https://music.163.com/album?id=123422949"
+    }
+  },
+  {
+    "name": "When the Sun Goes Down (Extended Mix)",
+    "link": "https://music.163.com/song?id=472948174",
+    "duration": "07:14",
+    "artists": [
+      { "name": "Talamanca", "link": "https://music.163.com/artist?id=355244" }
+    ],
+    "album": {
+      "name": "Arrivals & Departures",
+      "link": "https://music.163.com/album?id=35392056"
+    }
+  },
+  {
+    "name": "Promise Me",
+    "link": "https://music.163.com/song?id=1846290436",
+    "duration": "02:47",
+    "artists": [
+      { "name": "A1 TRIP", "link": "https://music.163.com/artist?id=46757100" },
+      {
+        "name": "xxxmiracle",
+        "link": "https://music.163.com/artist?id=31310684"
+      }
+    ],
+    "album": {
+      "name": "Promise Me",
+      "link": "https://music.163.com/album?id=127683660"
+    }
+  },
+  {
+    "name": "Big Girls Don't Cry",
+    "link": "https://music.163.com/song?id=1444318106",
+    "duration": "02:42",
+    "artists": [
+      { "name": "Klaas", "link": "https://music.163.com/artist?id=106210" }
+    ],
+    "album": {
+      "name": "Big Girls Don't Cry",
+      "link": "https://music.163.com/album?id=88698264"
+    }
+  },
+  {
+    "name": "Pumped Up Kicks",
+    "link": "https://music.163.com/song?id=1469797543",
+    "duration": "02:25",
+    "artists": [
+      { "name": "MKJ", "link": "https://music.163.com/artist?id=469200" },
+      { "name": "Madism", "link": "https://music.163.com/artist?id=14774559" },
+      {
+        "name": "Felix Samuel",
+        "link": "https://music.163.com/artist?id=273813"
+      }
+    ],
+    "album": {
+      "name": "Pumped Up Kicks",
+      "link": "https://music.163.com/album?id=93735124"
+    }
+  },
+  {
+    "name": "无声无息",
+    "link": "https://music.163.com/song?id=1334682305",
+    "duration": "04:06",
+    "artists": [
+      {
+        "name": "Peter-潘",
+        "link": "https://music.163.com/artist?id=12292467"
+      },
+      { "name": "谢雨纯", "link": "https://music.163.com/artist?id=12605484" }
+    ],
+    "album": {
+      "name": "无声无息",
+      "link": "https://music.163.com/album?id=74918272"
+    }
+  },
+  {
+    "name": "Put You Together Again (Extended Mix)",
+    "link": "https://music.163.com/song?id=542692728",
+    "duration": "07:27",
+    "artists": [
+      { "name": "Sarah Lynn", "link": "https://music.163.com/artist?id=813383" }
+    ],
+    "album": {
+      "name": "Put You Together Again",
+      "link": "https://music.163.com/album?id=37782996"
+    }
+  },
+  {
+    "name": "Bring Me To Life (Edit)",
+    "link": "https://music.163.com/song?id=566442183",
+    "duration": "03:53",
+    "artists": [
+      {
+        "name": "Da Tweekaz",
+        "link": "https://music.163.com/artist?id=334026"
+      },
+      { "name": "HALIENE", "link": "https://music.163.com/artist?id=13202710" }
+    ],
+    "album": {
+      "name": "Bring Me To Life",
+      "link": "https://music.163.com/album?id=39264079"
+    }
+  },
+  {
+    "name": "In The End (Radio Edit)",
+    "link": "https://music.163.com/song?id=1371563764",
+    "duration": "04:14",
+    "artists": [
+      { "name": "Sephyx", "link": "https://music.163.com/artist?id=1084035" }
+    ],
+    "album": {
+      "name": "In The End",
+      "link": "https://music.163.com/album?id=79773460"
+    }
+  },
+  {
+    "name": "本人已关机",
+    "link": "https://music.163.com/song?id=1859392549",
+    "duration": "02:36",
+    "artists": [
+      { "name": "Youngior", "link": "https://music.163.com/artist?id=34375061" }
+    ],
+    "album": {
+      "name": "本人已关机",
+      "link": "https://music.163.com/album?id=130049343"
+    }
+  },
+  {
+    "name": "陪在你左右（《刺客伍六七玄武国篇》ed）",
+    "link": "https://music.163.com/song?id=1863301628",
+    "duration": "04:05",
+    "artists": [
+      { "name": "杞梓.", "link": "https://music.163.com/artist?id=34575778" }
+    ],
+    "album": {
+      "name": "陪在你左右（《刺客伍六七玄武国篇》ed）",
+      "link": "https://music.163.com/album?id=130766986"
+    }
+  },
+  {
+    "name": "Coffee's On Me",
+    "link": "https://music.163.com/song?id=1870822592",
+    "duration": "03:43",
+    "artists": [
+      { "name": "落日飞车", "link": "https://music.163.com/artist?id=11074" }
+    ],
+    "album": {
+      "name": "Coffee's on Me",
+      "link": "https://music.163.com/album?id=131980182"
+    }
+  },
+  {
+    "name": "在这深夜里",
+    "link": "https://music.163.com/song?id=1818083944",
+    "duration": "04:11",
+    "artists": [
+      { "name": "贺仙人", "link": "https://music.163.com/artist?id=12127184" }
+    ],
+    "album": {
+      "name": "在这深夜里",
+      "link": "https://music.163.com/album?id=122536839"
+    }
+  },
+  {
+    "name": "在你的身边",
+    "link": "https://music.163.com/song?id=475479888",
+    "duration": "04:22",
+    "artists": [
+      { "name": "盛哲", "link": "https://music.163.com/artist?id=12395355" }
+    ],
+    "album": {
+      "name": "在你的身边",
+      "link": "https://music.163.com/album?id=35438746"
+    }
+  },
+  {
+    "name": "Peaches",
+    "link": "https://music.163.com/song?id=1830419924",
+    "duration": "03:18",
+    "artists": [
+      {
+        "name": "Justin Bieber",
+        "link": "https://music.163.com/artist?id=35531"
+      },
+      {
+        "name": "Daniel Caesar",
+        "link": "https://music.163.com/artist?id=1021293"
+      },
+      { "name": "Giveon", "link": "https://music.163.com/artist?id=32396647" }
+    ],
+    "album": {
+      "name": "Justice (中国豪华特别版)",
+      "link": "https://music.163.com/album?id=123858074"
+    }
+  },
+  {
+    "name": "Every Angel is Terrifying",
+    "link": "https://music.163.com/song?id=1909927742",
+    "duration": "02:47",
+    "artists": [
+      { "name": "The Weeknd", "link": "https://music.163.com/artist?id=185858" }
+    ],
+    "album": {
+      "name": "Dawn FM",
+      "link": "https://music.163.com/album?id=138513905"
+    }
+  }
+]
