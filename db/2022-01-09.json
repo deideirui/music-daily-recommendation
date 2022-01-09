@@ -1,0 +1,509 @@
+[
+  {
+    "name": "Rooftop",
+    "link": "https://music.163.com/song?id=1456602326",
+    "duration": "03:13",
+    "artists": [
+      { "name": "MVRT", "link": "https://music.163.com/artist?id=35396819" },
+      {
+        "name": "Vijay & Sofia Zlatko",
+        "link": "https://music.163.com/artist?id=1155154"
+      }
+    ],
+    "album": {
+      "name": "Rooftop",
+      "link": "https://music.163.com/album?id=91205407"
+    }
+  },
+  {
+    "name": "Embers",
+    "link": "https://music.163.com/song?id=1458375172",
+    "duration": "03:54",
+    "artists": [
+      { "name": "Ehrling", "link": "https://music.163.com/artist?id=12048130" }
+    ],
+    "album": {
+      "name": "Tropical Confessions, Pt. 5",
+      "link": "https://music.163.com/album?id=91560495"
+    }
+  },
+  {
+    "name": "Fairytale",
+    "link": "https://music.163.com/song?id=1391722152",
+    "duration": "03:13",
+    "artists": [
+      {
+        "name": "Culture Code",
+        "link": "https://music.163.com/artist?id=1049930"
+      },
+      {
+        "name": "Amanda Collis",
+        "link": "https://music.163.com/artist?id=30296250"
+      }
+    ],
+    "album": {
+      "name": "Fairytale",
+      "link": "https://music.163.com/album?id=81733443"
+    }
+  },
+  {
+    "name": "Where the Water Ends",
+    "link": "https://music.163.com/song?id=493283652",
+    "duration": "02:54",
+    "artists": [
+      { "name": "VINAI", "link": "https://music.163.com/artist?id=804422" },
+      { "name": "Anjulie", "link": "https://music.163.com/artist?id=46502" }
+    ],
+    "album": {
+      "name": "Where the Water Ends",
+      "link": "https://music.163.com/album?id=35834469"
+    }
+  },
+  {
+    "name": "No Regrets",
+    "link": "https://music.163.com/song?id=1482201210",
+    "duration": "02:13",
+    "artists": [
+      {
+        "name": "Jeffrey Sutorius",
+        "link": "https://music.163.com/artist?id=31637810"
+      },
+      {
+        "name": "Jordan Grace",
+        "link": "https://music.163.com/artist?id=33078903"
+      }
+    ],
+    "album": {
+      "name": "No Regrets",
+      "link": "https://music.163.com/album?id=95954570"
+    }
+  },
+  {
+    "name": "So Cold",
+    "link": "https://music.163.com/song?id=1350187829",
+    "duration": "03:17",
+    "artists": [
+      { "name": "Mahalo", "link": "https://music.163.com/artist?id=12053112" },
+      { "name": "DLMT", "link": "https://music.163.com/artist?id=12036036" },
+      {
+        "name": "Lily Denning",
+        "link": "https://music.163.com/artist?id=14310113"
+      }
+    ],
+    "album": {
+      "name": "So Cold",
+      "link": "https://music.163.com/album?id=75774105"
+    }
+  },
+  {
+    "name": "Just a Lie",
+    "link": "https://music.163.com/song?id=572393241",
+    "duration": "03:14",
+    "artists": [
+      { "name": "Zeper", "link": "https://music.163.com/artist?id=12086179" },
+      {
+        "name": "Mazen Awad",
+        "link": "https://music.163.com/artist?id=15114524"
+      }
+    ],
+    "album": {
+      "name": "Just a Lie",
+      "link": "https://music.163.com/album?id=39646321"
+    }
+  },
+  {
+    "name": "Paris",
+    "link": "https://music.163.com/song?id=470547654",
+    "duration": "03:41",
+    "artists": [
+      {
+        "name": "The Chainsmokers",
+        "link": "https://music.163.com/artist?id=893484"
+      }
+    ],
+    "album": {
+      "name": "Memories...Do Not Open",
+      "link": "https://music.163.com/album?id=35347078"
+    }
+  },
+  {
+    "name": "If We Could Stay High (Edit)",
+    "link": "https://music.163.com/song?id=1296327195",
+    "duration": "02:53",
+    "artists": [
+      { "name": "Sj", "link": "https://music.163.com/artist?id=288146" },
+      {
+        "name": "Chelsea Lankes",
+        "link": "https://music.163.com/artist?id=53032"
+      }
+    ],
+    "album": {
+      "name": "If We Could Stay High (Edit)",
+      "link": "https://music.163.com/album?id=72002541"
+    }
+  },
+  {
+    "name": "Sweet Life",
+    "link": "https://music.163.com/song?id=1482080077",
+    "duration": "02:41",
+    "artists": [
+      {
+        "name": "Matisse & Sadko",
+        "link": "https://music.163.com/artist?id=947054"
+      }
+    ],
+    "album": {
+      "name": "Sweet Life",
+      "link": "https://music.163.com/album?id=95932175"
+    }
+  },
+  {
+    "name": "Might Not Like Me (MOTi Remix)",
+    "link": "https://music.163.com/song?id=1309262182",
+    "duration": "03:11",
+    "artists": [
+      {
+        "name": "Brynn Elliott",
+        "link": "https://music.163.com/artist?id=14042161"
+      },
+      { "name": "MOTi", "link": "https://music.163.com/artist?id=366384" }
+    ],
+    "album": {
+      "name": "Might Not Like Me (MOTi Remix)",
+      "link": "https://music.163.com/album?id=73246477"
+    }
+  },
+  {
+    "name": "Home Flight",
+    "link": "https://music.163.com/song?id=1419165226",
+    "duration": "02:35",
+    "artists": [
+      { "name": "Medon", "link": "https://music.163.com/artist?id=348972" },
+      {
+        "name": "Mike Gudmann",
+        "link": "https://music.163.com/artist?id=32567323"
+      },
+      { "name": "Shiverz", "link": "https://music.163.com/artist?id=29812341" }
+    ],
+    "album": {
+      "name": "Home Flight",
+      "link": "https://music.163.com/album?id=85243615"
+    }
+  },
+  {
+    "name": "Crystal Memories ( feat.Heather Sommer )",
+    "link": "https://music.163.com/song?id=1868201458",
+    "duration": "03:08",
+    "artists": [
+      { "name": "Awakend", "link": "https://music.163.com/artist?id=13049055" },
+      {
+        "name": "Heather Sommer",
+        "link": "https://music.163.com/artist?id=13134228"
+      }
+    ],
+    "album": {
+      "name": "Memories From Another Life",
+      "link": "https://music.163.com/album?id=131549407"
+    }
+  },
+  {
+    "name": "Ceasefire",
+    "link": "https://music.163.com/song?id=484314490",
+    "duration": "03:18",
+    "artists": [
+      { "name": "BEAUZ", "link": "https://music.163.com/artist?id=12131436" },
+      {
+        "name": "Luke Anders",
+        "link": "https://music.163.com/artist?id=12154153"
+      },
+      {
+        "name": "Ducka Shan",
+        "link": "https://music.163.com/artist?id=12176308"
+      },
+      {
+        "name": "Becca Krueger",
+        "link": "https://music.163.com/artist?id=12948098"
+      },
+      { "name": "Eliason", "link": "https://music.163.com/artist?id=12370189" }
+    ],
+    "album": {
+      "name": "Ceasefire",
+      "link": "https://music.163.com/album?id=35622427"
+    }
+  },
+  {
+    "name": "Somebody",
+    "link": "https://music.163.com/song?id=1453248203",
+    "duration": "03:04",
+    "artists": [
+      { "name": "FEWZ", "link": "https://music.163.com/artist?id=12008133" }
+    ],
+    "album": {
+      "name": "Inside",
+      "link": "https://music.163.com/album?id=90401629"
+    }
+  },
+  {
+    "name": "Dancing With The Lights",
+    "link": "https://music.163.com/song?id=488641705",
+    "duration": "03:00",
+    "artists": [
+      { "name": "TRESKO", "link": "https://music.163.com/artist?id=12492630" }
+    ],
+    "album": {
+      "name": "Dancing With The Lights",
+      "link": "https://music.163.com/album?id=35695728"
+    }
+  },
+  {
+    "name": "Another Day (Radio Edit)",
+    "link": "https://music.163.com/song?id=417247411",
+    "duration": "02:43",
+    "artists": [
+      { "name": "Ezenia", "link": "https://music.163.com/artist?id=12024484" }
+    ],
+    "album": {
+      "name": "Another Day",
+      "link": "https://music.163.com/album?id=34739200"
+    }
+  },
+  {
+    "name": "Levels",
+    "link": "https://music.163.com/song?id=1461317556",
+    "duration": "03:38",
+    "artists": [
+      {
+        "name": "Marin Hoxha",
+        "link": "https://music.163.com/artist?id=12474391"
+      },
+      {
+        "name": "Mike Watson",
+        "link": "https://music.163.com/artist?id=13046433"
+      }
+    ],
+    "album": {
+      "name": "Levels",
+      "link": "https://music.163.com/album?id=92123563"
+    }
+  },
+  {
+    "name": "The Cube Player",
+    "link": "https://music.163.com/song?id=520171784",
+    "duration": "03:06",
+    "artists": [
+      { "name": "李祥晖", "link": "https://music.163.com/artist?id=12483027" }
+    ],
+    "album": {
+      "name": "The Cube Player",
+      "link": "https://music.163.com/album?id=36836352"
+    }
+  },
+  {
+    "name": "One That Got Away (with Dylan Matthew)",
+    "link": "https://music.163.com/song?id=1400361707",
+    "duration": "03:35",
+    "artists": [
+      {
+        "name": "Jason Ross",
+        "link": "https://music.163.com/artist?id=906123"
+      },
+      { "name": "Dabin", "link": "https://music.163.com/artist?id=783446" },
+      {
+        "name": "Dylan Matthew",
+        "link": "https://music.163.com/artist?id=28684353"
+      }
+    ],
+    "album": {
+      "name": "One That Got Away (with Dylan Matthew)",
+      "link": "https://music.163.com/album?id=82913948"
+    }
+  },
+  {
+    "name": "赤子之心",
+    "link": "https://music.163.com/song?id=1425572576",
+    "duration": "03:24",
+    "artists": [
+      {
+        "name": "Dio Deer",
+        "link": "https://music.163.com/artist?id=12319430"
+      },
+      { "name": "符白牙", "link": "https://music.163.com/artist?id=12057047" },
+      { "name": "杨世贸", "link": "https://music.163.com/artist?id=12571508" }
+    ],
+    "album": {
+      "name": "赤子之心",
+      "link": "https://music.163.com/album?id=85947679"
+    }
+  },
+  {
+    "name": "Chasing Stars",
+    "link": "https://music.163.com/song?id=1318498944",
+    "duration": "03:58",
+    "artists": [
+      {
+        "name": "Postiljonen",
+        "link": "https://music.163.com/artist?id=725356"
+      }
+    ],
+    "album": {
+      "name": "Chasing Stars",
+      "link": "https://music.163.com/album?id=73948550"
+    }
+  },
+  {
+    "name": "Rebel (Sound Rush Remix)",
+    "link": "https://music.163.com/song?id=1386921248",
+    "duration": "03:47",
+    "artists": [
+      {
+        "name": "D-Block & S-te-Fan",
+        "link": "https://music.163.com/artist?id=13594504"
+      },
+      {
+        "name": "Sound Rush",
+        "link": "https://music.163.com/artist?id=1050827"
+      }
+    ],
+    "album": {
+      "name": "Rebel (Sound Rush Remix)",
+      "link": "https://music.163.com/album?id=81188894"
+    }
+  },
+  {
+    "name": "远星",
+    "link": "https://music.163.com/song?id=1901891000",
+    "duration": "04:13",
+    "artists": [
+      { "name": "汪闻婷", "link": "https://music.163.com/artist?id=30436515" }
+    ],
+    "album": {
+      "name": "远星",
+      "link": "https://music.163.com/album?id=137244410"
+    }
+  },
+  {
+    "name": "Feel You",
+    "link": "https://music.163.com/song?id=28299547",
+    "duration": "03:33",
+    "artists": [
+      {
+        "name": "Madeline Juno",
+        "link": "https://music.163.com/artist?id=896584"
+      }
+    ],
+    "album": {
+      "name": "The Unknown",
+      "link": "https://music.163.com/album?id=2769848"
+    }
+  },
+  {
+    "name": "Toast to Life",
+    "link": "https://music.163.com/song?id=1833994297",
+    "duration": "03:40",
+    "artists": [
+      {
+        "name": "Funk LeBlanc",
+        "link": "https://music.163.com/artist?id=12676242"
+      },
+      {
+        "name": "Holland Greco",
+        "link": "https://music.163.com/artist?id=387640"
+      }
+    ],
+    "album": {
+      "name": "Toast to Life",
+      "link": "https://music.163.com/album?id=125430311"
+    }
+  },
+  {
+    "name": "Blow Me a Kiss",
+    "link": "https://music.163.com/song?id=2526628",
+    "duration": "04:11",
+    "artists": [
+      { "name": "Deep Side", "link": "https://music.163.com/artist?id=55350" }
+    ],
+    "album": {
+      "name": "Git Fresh",
+      "link": "https://music.163.com/album?id=254362"
+    }
+  },
+  {
+    "name": "Dance in the party",
+    "link": "https://music.163.com/song?id=1379307710",
+    "duration": "03:15",
+    "artists": [
+      {
+        "name": "friendshard2find（挚友难寻）",
+        "link": "https://music.163.com/artist?id=12499236"
+      }
+    ],
+    "album": {
+      "name": "Dance in the party",
+      "link": "https://music.163.com/album?id=80517031"
+    }
+  },
+  {
+    "name": "今夜无法入眠",
+    "link": "https://music.163.com/song?id=1428270358",
+    "duration": "04:30",
+    "artists": [
+      {
+        "name": "帆布小镇（Canvas Townlet）",
+        "link": "https://music.163.com/artist?id=33373308"
+      }
+    ],
+    "album": {
+      "name": "今夜无法入眠",
+      "link": "https://music.163.com/album?id=86211584"
+    }
+  },
+  {
+    "name": "纵容",
+    "link": "https://music.163.com/song?id=1819970423",
+    "duration": "03:18",
+    "artists": [
+      { "name": "Capper", "link": "https://music.163.com/artist?id=12193174" },
+      { "name": "LEGGO", "link": "https://music.163.com/artist?id=12293217" },
+      {
+        "name": "Todd Malone",
+        "link": "https://music.163.com/artist?id=12183619"
+      }
+    ],
+    "album": {
+      "name": "纵容",
+      "link": "https://music.163.com/album?id=122950249"
+    }
+  },
+  {
+    "name": "Ibiza Night (Mbnn Remix Radio Edit)",
+    "link": "https://music.163.com/song?id=504206109",
+    "duration": "03:38",
+    "artists": [
+      {
+        "name": "Pasha Lumin",
+        "link": "https://music.163.com/artist?id=12624028"
+      },
+      {
+        "name": "Alba Kras",
+        "link": "https://music.163.com/artist?id=13944391"
+      },
+      { "name": "MBNN", "link": "https://music.163.com/artist?id=12685239" }
+    ],
+    "album": {
+      "name": "Ibiza Night (The Remixes)",
+      "link": "https://music.163.com/album?id=36146039"
+    }
+  },
+  {
+    "name": "Sacrifice",
+    "link": "https://music.163.com/song?id=1909927735",
+    "duration": "03:08",
+    "artists": [
+      { "name": "The Weeknd", "link": "https://music.163.com/artist?id=185858" }
+    ],
+    "album": {
+      "name": "Dawn FM",
+      "link": "https://music.163.com/album?id=138513905"
+    }
+  }
+]
