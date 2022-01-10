@@ -1,0 +1,278 @@
+[
+  {
+    "name": "Zone (feat. JVZEL) (Clean Mix)",
+    "link": "https://music.163.com/song?id=479219366",
+    "duration": "02:41",
+    "artists": [
+      { "name": "SAM F", "link": "https://music.163.com/artist?id=12074533" },
+      { "name": "JVZEL", "link": "https://music.163.com/artist?id=13042297" }
+    ],
+    "album": {
+      "name": "Zone (feat. JVZEL)",
+      "link": "https://music.163.com/album?id=35536092"
+    }
+  },
+  {
+    "name": "Losin' Myself",
+    "link": "https://music.163.com/song?id=502706995",
+    "duration": "03:16",
+    "artists": [
+      { "name": "Savi", "link": "https://music.163.com/artist?id=1116235" },
+      {
+        "name": "Ida da Silva",
+        "link": "https://music.163.com/artist?id=12273267"
+      }
+    ],
+    "album": {
+      "name": "Losin' Myself",
+      "link": "https://music.163.com/album?id=36030977"
+    }
+  },
+  {
+    "name": "Running in the Night",
+    "link": "https://music.163.com/song?id=411921883",
+    "duration": "04:30",
+    "artists": [
+      { "name": "FM-84", "link": "https://music.163.com/artist?id=12046467" },
+      {
+        "name": "Ollie Wride",
+        "link": "https://music.163.com/artist?id=14756188"
+      }
+    ],
+    "album": {
+      "name": "Atlas",
+      "link": "https://music.163.com/album?id=34686652"
+    }
+  },
+  {
+    "name": "Summer Wave",
+    "link": "https://music.163.com/song?id=1450018772",
+    "duration": "03:11",
+    "artists": [
+      { "name": "Stories", "link": "https://music.163.com/artist?id=12178030" },
+      { "name": "NABI", "link": "https://music.163.com/artist?id=13039533" }
+    ],
+    "album": {
+      "name": "Summer Wave",
+      "link": "https://music.163.com/album?id=89795676"
+    }
+  },
+  {
+    "name": "Thousand Drums (Extended Mix)",
+    "link": "https://music.163.com/song?id=1908730836",
+    "duration": "04:20",
+    "artists": [
+      {
+        "name": "Orjan Nilsen",
+        "link": "https://music.163.com/artist?id=41064"
+      },
+      { "name": "ANG", "link": "https://music.163.com/artist?id=12121366" }
+    ],
+    "album": {
+      "name": "Thousand Drums",
+      "link": "https://music.163.com/album?id=138284225"
+    }
+  },
+  {
+    "name": "High Hopes",
+    "link": "https://music.163.com/song?id=1298037270",
+    "duration": "03:12",
+    "artists": [
+      {
+        "name": "Panic! At The Disco",
+        "link": "https://music.163.com/artist?id=129001"
+      }
+    ],
+    "album": {
+      "name": "Summer 2018",
+      "link": "https://music.163.com/album?id=72087565"
+    }
+  },
+  {
+    "name": "Goodbye",
+    "link": "https://music.163.com/song?id=1465179973",
+    "duration": "02:39",
+    "artists": [
+      { "name": "Linko", "link": "https://music.163.com/artist?id=12094548" }
+    ],
+    "album": {
+      "name": "Goodbye",
+      "link": "https://music.163.com/album?id=92912273"
+    }
+  },
+  {
+    "name": "Remember Me",
+    "link": "https://music.163.com/song?id=34834953",
+    "duration": "03:25",
+    "artists": [
+      { "name": "Kozoro", "link": "https://music.163.com/artist?id=1050567" }
+    ],
+    "album": {
+      "name": "Remember Me",
+      "link": "https://music.163.com/album?id=3295700"
+    }
+  },
+  {
+    "name": "Truth",
+    "link": "https://music.163.com/song?id=479408193",
+    "duration": "03:48",
+    "artists": [
+      { "name": "Shallou", "link": "https://music.163.com/artist?id=12029377" }
+    ],
+    "album": {
+      "name": "All Becomes Okay",
+      "link": "https://music.163.com/album?id=35544021"
+    }
+  },
+  {
+    "name": "Branded",
+    "link": "https://music.163.com/song?id=32405474",
+    "duration": "05:16",
+    "artists": [
+      { "name": "ROOX", "link": "https://music.163.com/artist?id=1081354" }
+    ],
+    "album": {
+      "name": "Branded",
+      "link": "https://music.163.com/album?id=3154935"
+    }
+  },
+  {
+    "name": "Good Morning",
+    "link": "https://music.163.com/song?id=28054761",
+    "duration": "02:48",
+    "artists": [
+      { "name": "Mario M", "link": "https://music.163.com/artist?id=427806" }
+    ],
+    "album": {
+      "name": "Drop of Sorrow",
+      "link": "https://music.163.com/album?id=2721022"
+    }
+  },
+  {
+    "name": "My Heart Will Go On - (我心永恒)",
+    "link": "https://music.163.com/song?id=2308499",
+    "duration": "04:41",
+    "artists": [
+      { "name": "Céline Dion", "link": "https://music.163.com/artist?id=50893" }
+    ],
+    "album": {
+      "name": "My Love: Ultimate Essential Collection (North American Version)",
+      "link": "https://music.163.com/album?id=232945"
+    }
+  },
+  {
+    "name": "Yesterday Once More - (昨日重现)",
+    "link": "https://music.163.com/song?id=3986241",
+    "duration": "03:58",
+    "artists": [
+      { "name": "Carpenters", "link": "https://music.163.com/artist?id=89363" }
+    ],
+    "album": {
+      "name": "Yesterday Once More: Greatest Hits 1969-1983",
+      "link": "https://music.163.com/album?id=403181"
+    }
+  },
+  {
+    "name": "一荤一素",
+    "link": "https://music.163.com/song?id=569200212",
+    "duration": "04:41",
+    "artists": [
+      { "name": "毛不易", "link": "https://music.163.com/artist?id=12138269" }
+    ],
+    "album": {
+      "name": "平凡的一天",
+      "link": "https://music.163.com/album?id=39483040"
+    }
+  },
+  {
+    "name": "Calling (feat. Frankmusik)",
+    "link": "https://music.163.com/song?id=1380902357",
+    "duration": "04:58",
+    "artists": [
+      { "name": " Kalax ", "link": "https://music.163.com/artist?id=986263" },
+      { "name": "Frankmusik", "link": "https://music.163.com/artist?id=33368" }
+    ],
+    "album": {
+      "name": "III",
+      "link": "https://music.163.com/album?id=80658988"
+    }
+  },
+  {
+    "name": "Live Before I Die",
+    "link": "https://music.163.com/song?id=28715804",
+    "duration": "03:29",
+    "artists": [
+      {
+        "name": "Marina Kaye",
+        "link": "https://music.163.com/artist?id=956268"
+      }
+    ],
+    "album": {
+      "name": "Homeless EP",
+      "link": "https://music.163.com/album?id=2881737"
+    }
+  },
+  {
+    "name": "夜不寐",
+    "link": "https://music.163.com/song?id=1907268675",
+    "duration": "03:51",
+    "artists": [
+      { "name": "满舒克", "link": "https://music.163.com/artist?id=188141" }
+    ],
+    "album": {
+      "name": "夜不寐",
+      "link": "https://music.163.com/album?id=138082024"
+    }
+  },
+  {
+    "name": "With Him",
+    "link": "https://music.163.com/song?id=26747203",
+    "duration": "04:46",
+    "artists": [
+      { "name": "Babyface", "link": "https://music.163.com/artist?id=29318" }
+    ],
+    "album": {
+      "name": "Yiruma Recommends",
+      "link": "https://music.163.com/album?id=2556078"
+    }
+  },
+  {
+    "name": "参天 - (2022年赛季EDG官方应援曲)",
+    "link": "https://music.163.com/song?id=1907978556",
+    "duration": "03:38",
+    "artists": [
+      {
+        "name": "谭成锋（老坛胡说）",
+        "link": "https://music.163.com/artist?id=34468584"
+      }
+    ],
+    "album": {
+      "name": "参天",
+      "link": "https://music.163.com/album?id=138198595"
+    }
+  },
+  {
+    "name": "How Do I Make You Love Me?",
+    "link": "https://music.163.com/song?id=1909926100",
+    "duration": "03:34",
+    "artists": [
+      { "name": "The Weeknd", "link": "https://music.163.com/artist?id=185858" }
+    ],
+    "album": {
+      "name": "Dawn FM",
+      "link": "https://music.163.com/album?id=138513905"
+    }
+  },
+  {
+    "name": "Stay a While",
+    "link": "https://music.163.com/song?id=1891874669",
+    "duration": "03:25",
+    "artists": [
+      { "name": "NoirX", "link": "https://music.163.com/artist?id=12217163" }
+    ],
+    "album": {
+      "name": "Stay a While",
+      "link": "https://music.163.com/album?id=135613273"
+    }
+  }
+]
