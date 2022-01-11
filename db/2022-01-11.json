@@ -1,0 +1,349 @@
+[
+  {
+    "name": "Payback",
+    "link": "https://music.163.com/song?id=1338148868",
+    "duration": "03:40",
+    "artists": [
+      { "name": "Delete", "link": "https://music.163.com/artist?id=12067080" },
+      {
+        "name": "Tha Watcher",
+        "link": "https://music.163.com/artist?id=29500561"
+      }
+    ],
+    "album": {
+      "name": "Alpha Omega",
+      "link": "https://music.163.com/album?id=75017693"
+    }
+  },
+  {
+    "name": "Natalie",
+    "link": "https://music.163.com/song?id=1431723136",
+    "duration": "04:34",
+    "artists": [
+      {
+        "name": "Milk & Bone",
+        "link": "https://music.163.com/artist?id=1006113"
+      }
+    ],
+    "album": {
+      "name": "Break up Jams",
+      "link": "https://music.163.com/album?id=86580422"
+    }
+  },
+  {
+    "name": "Less Than Zero",
+    "link": "https://music.163.com/song?id=1909927747",
+    "duration": "03:31",
+    "artists": [
+      { "name": "The Weeknd", "link": "https://music.163.com/artist?id=185858" }
+    ],
+    "album": {
+      "name": "Dawn FM",
+      "link": "https://music.163.com/album?id=138513905"
+    }
+  },
+  {
+    "name": "不懂",
+    "link": "https://music.163.com/song?id=865248075",
+    "duration": "04:06",
+    "artists": [
+      { "name": "张越翔", "link": "https://music.163.com/artist?id=12350844" }
+    ],
+    "album": {
+      "name": "不懂",
+      "link": "https://music.163.com/album?id=71740417"
+    }
+  },
+  {
+    "name": "孤勇者 - (《英雄联盟：双城之战》动画剧集中文主题曲)",
+    "link": "https://music.163.com/song?id=1901371647",
+    "duration": "04:16",
+    "artists": [
+      { "name": "陈奕迅", "link": "https://music.163.com/artist?id=2116" }
+    ],
+    "album": {
+      "name": "孤勇者",
+      "link": "https://music.163.com/album?id=137142551"
+    }
+  },
+  {
+    "name": "致你 - (女声版)",
+    "link": "https://music.163.com/song?id=1867217766",
+    "duration": "04:31",
+    "artists": [
+      {
+        "name": "yihuik苡慧",
+        "link": "https://music.163.com/artist?id=36032190"
+      }
+    ],
+    "album": {
+      "name": "致你",
+      "link": "https://music.163.com/album?id=131405806"
+    }
+  },
+  {
+    "name": "指纹",
+    "link": "https://music.163.com/song?id=1887139866",
+    "duration": "04:00",
+    "artists": [
+      { "name": "杜宣达", "link": "https://music.163.com/artist?id=12060040" }
+    ],
+    "album": {
+      "name": "指纹",
+      "link": "https://music.163.com/album?id=135524120"
+    }
+  },
+  {
+    "name": "嘉宾",
+    "link": "https://music.163.com/song?id=1846489646",
+    "duration": "04:30",
+    "artists": [
+      { "name": "路飞文", "link": "https://music.163.com/artist?id=12405153" }
+    ],
+    "album": {
+      "name": "嘉宾",
+      "link": "https://music.163.com/album?id=127728498"
+    }
+  },
+  {
+    "name": "特别的人 - (Special Person)",
+    "link": "https://music.163.com/song?id=28403111",
+    "duration": "04:19",
+    "artists": [
+      { "name": "方大同", "link": "https://music.163.com/artist?id=2738" }
+    ],
+    "album": {
+      "name": "危险世界",
+      "link": "https://music.163.com/album?id=2759704"
+    }
+  },
+  {
+    "name": "Unstoppable",
+    "link": "https://music.163.com/song?id=400876320",
+    "duration": "03:37",
+    "artists": [
+      { "name": "Sia", "link": "https://music.163.com/artist?id=74625" }
+    ],
+    "album": {
+      "name": "This Is Acting",
+      "link": "https://music.163.com/album?id=3394107"
+    }
+  },
+  {
+    "name": "假面舞会",
+    "link": "https://music.163.com/song?id=1875941511",
+    "duration": "03:01",
+    "artists": [
+      { "name": "很美味", "link": "https://music.163.com/artist?id=12358435" }
+    ],
+    "album": {
+      "name": "假面舞会",
+      "link": "https://music.163.com/album?id=132838314"
+    }
+  },
+  {
+    "name": "Love Is Gone (Acoustic)",
+    "link": "https://music.163.com/song?id=1401671455",
+    "duration": "02:56",
+    "artists": [
+      { "name": "SLANDER", "link": "https://music.163.com/artist?id=1137239" },
+      {
+        "name": "Dylan Matthew",
+        "link": "https://music.163.com/artist?id=28684353"
+      }
+    ],
+    "album": {
+      "name": "Love Is Gone (Acoustic)",
+      "link": "https://music.163.com/album?id=83079277"
+    }
+  },
+  {
+    "name": "百年孤寂",
+    "link": "https://music.163.com/song?id=1886371886",
+    "duration": "04:57",
+    "artists": [
+      { "name": "苏玮", "link": "https://music.163.com/artist?id=12079128" }
+    ],
+    "album": {
+      "name": "百年孤寂",
+      "link": "https://music.163.com/album?id=134652284"
+    }
+  },
+  {
+    "name": "茫",
+    "link": "https://music.163.com/song?id=1495058484",
+    "duration": "03:47",
+    "artists": [
+      { "name": "李润祺", "link": "https://music.163.com/artist?id=12929031" }
+    ],
+    "album": { "name": "茫", "link": "https://music.163.com/album?id=98268708" }
+  },
+  {
+    "name": "永不失联的爱",
+    "link": "https://music.163.com/song?id=523250334",
+    "duration": "04:19",
+    "artists": [
+      { "name": "周兴哲", "link": "https://music.163.com/artist?id=980025" }
+    ],
+    "album": {
+      "name": "如果雨之后",
+      "link": "https://music.163.com/album?id=36948120"
+    }
+  },
+  {
+    "name": "Dancing With Your Ghost",
+    "link": "https://music.163.com/song?id=1374329431",
+    "duration": "03:17",
+    "artists": [
+      {
+        "name": "Sasha Alex Sloan",
+        "link": "https://music.163.com/artist?id=12646102"
+      }
+    ],
+    "album": {
+      "name": "Dancing With Your Ghost",
+      "link": "https://music.163.com/album?id=80029518"
+    }
+  },
+  {
+    "name": "阿拉斯加海湾",
+    "link": "https://music.163.com/song?id=1500569811",
+    "duration": "03:57",
+    "artists": [
+      { "name": "蓝心羽", "link": "https://music.163.com/artist?id=30207301" }
+    ],
+    "album": {
+      "name": "阿拉斯加海湾",
+      "link": "https://music.163.com/album?id=99035308"
+    }
+  },
+  {
+    "name": "爱人错过 - (Somewhere in time)",
+    "link": "https://music.163.com/song?id=1368754688",
+    "duration": "04:52",
+    "artists": [
+      { "name": "告五人", "link": "https://music.163.com/artist?id=12676697" }
+    ],
+    "album": {
+      "name": "我肯定在几百年前就说过爱你",
+      "link": "https://music.163.com/album?id=79515295"
+    }
+  },
+  {
+    "name": "Love Story",
+    "link": "https://music.163.com/song?id=1457707546",
+    "duration": "03:56",
+    "artists": [
+      {
+        "name": "Taylor Swift",
+        "link": "https://music.163.com/artist?id=44266"
+      }
+    ],
+    "album": {
+      "name": "Pride Month",
+      "link": "https://music.163.com/album?id=91423363"
+    }
+  },
+  {
+    "name": "叹",
+    "link": "https://music.163.com/song?id=1901049671",
+    "duration": "04:11",
+    "artists": [
+      { "name": "黄龄", "link": "https://music.163.com/artist?id=7890" },
+      {
+        "name": "Tăng Duy Tân",
+        "link": "https://music.163.com/artist?id=34452701"
+      }
+    ],
+    "album": {
+      "name": "叹",
+      "link": "https://music.163.com/album?id=137085281"
+    }
+  },
+  {
+    "name": "四季予你",
+    "link": "https://music.163.com/song?id=1807537867",
+    "duration": "04:08",
+    "artists": [
+      { "name": "程响", "link": "https://music.163.com/artist?id=7424" }
+    ],
+    "album": {
+      "name": "四季予你",
+      "link": "https://music.163.com/album?id=120919402"
+    }
+  },
+  {
+    "name": "大眠 (完整版)",
+    "link": "https://music.163.com/song?id=1413142894",
+    "duration": "03:04",
+    "artists": [
+      {
+        "name": "小乐哥（王唯乐）",
+        "link": "https://music.163.com/artist?id=34035556"
+      }
+    ],
+    "album": {
+      "name": "大眠 (完整版)",
+      "link": "https://music.163.com/album?id=84622631"
+    }
+  },
+  {
+    "name": "千千万万",
+    "link": "https://music.163.com/song?id=1811459887",
+    "duration": "04:06",
+    "artists": [
+      {
+        "name": "深海鱼子酱",
+        "link": "https://music.163.com/artist?id=35863873"
+      }
+    ],
+    "album": {
+      "name": "千千万万",
+      "link": "https://music.163.com/album?id=121543550"
+    }
+  },
+  {
+    "name": "危险派对",
+    "link": "https://music.163.com/song?id=1877996649",
+    "duration": "03:00",
+    "artists": [
+      { "name": "王以太", "link": "https://music.163.com/artist?id=12236125" },
+      { "name": "刘至佳", "link": "https://music.163.com/artist?id=1172023" }
+    ],
+    "album": {
+      "name": "危险派对",
+      "link": "https://music.163.com/album?id=133202644"
+    }
+  },
+  {
+    "name": "STAY",
+    "link": "https://music.163.com/song?id=1859245776",
+    "duration": "02:21",
+    "artists": [
+      {
+        "name": "The Kid LAROI",
+        "link": "https://music.163.com/artist?id=32795025"
+      },
+      {
+        "name": "Justin Bieber",
+        "link": "https://music.163.com/artist?id=35531"
+      }
+    ],
+    "album": {
+      "name": "STAY",
+      "link": "https://music.163.com/album?id=130016223"
+    }
+  },
+  {
+    "name": "哪里都是你",
+    "link": "https://music.163.com/song?id=488249475",
+    "duration": "03:42",
+    "artists": [
+      { "name": "队长", "link": "https://music.163.com/artist?id=1143033" }
+    ],
+    "album": {
+      "name": "哪里都是你",
+      "link": "https://music.163.com/album?id=35702116"
+    }
+  }
+]
