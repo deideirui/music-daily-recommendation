@@ -1,0 +1,287 @@
+[
+  {
+    "name": "Release Me",
+    "link": "https://music.163.com/song?id=1356647581",
+    "duration": "03:21",
+    "artists": [
+      {
+        "name": "Sons Of Maria",
+        "link": "https://music.163.com/artist?id=210916"
+      }
+    ],
+    "album": {
+      "name": "Release Me",
+      "link": "https://music.163.com/album?id=78332665"
+    }
+  },
+  {
+    "name": "Better With You",
+    "link": "https://music.163.com/song?id=1471114278",
+    "duration": "02:21",
+    "artists": [
+      {
+        "name": "RetroVision",
+        "link": "https://music.163.com/artist?id=11976142"
+      }
+    ],
+    "album": {
+      "name": "Better With You",
+      "link": "https://music.163.com/album?id=93967164"
+    }
+  },
+  {
+    "name": "Ain't Nobody Perfect",
+    "link": "https://music.163.com/song?id=1443498314",
+    "duration": "02:28",
+    "artists": [
+      { "name": "Aeden", "link": "https://music.163.com/artist?id=372253" },
+      { "name": "Um41k", "link": "https://music.163.com/artist?id=28691849" }
+    ],
+    "album": {
+      "name": "Ain't Nobody Perfect",
+      "link": "https://music.163.com/album?id=88548154"
+    }
+  },
+  {
+    "name": "Loneliness (Original Mix)",
+    "link": "https://music.163.com/song?id=404184318",
+    "duration": "04:33",
+    "artists": [
+      { "name": "Avi8", "link": "https://music.163.com/artist?id=12000033" }
+    ],
+    "album": {
+      "name": "Loneliness",
+      "link": "https://music.163.com/album?id=34502104"
+    }
+  },
+  {
+    "name": "现实与幻境之间",
+    "link": "https://music.163.com/song?id=1352015968",
+    "duration": "03:16",
+    "artists": [
+      { "name": "司姚", "link": "https://music.163.com/artist?id=12271227" },
+      { "name": "苏别久", "link": "https://music.163.com/artist?id=12497279" },
+      { "name": "iFreezy", "link": "https://music.163.com/artist?id=12287088" }
+    ],
+    "album": {
+      "name": "现实与幻境之间",
+      "link": "https://music.163.com/album?id=75616174"
+    }
+  },
+  {
+    "name": "Have Fun",
+    "link": "https://music.163.com/song?id=1855321809",
+    "duration": "02:44",
+    "artists": [
+      { "name": "Rameses B", "link": "https://music.163.com/artist?id=42898" }
+    ],
+    "album": {
+      "name": "Have Fun",
+      "link": "https://music.163.com/album?id=129347807"
+    }
+  },
+  {
+    "name": "恋のマイアヒ Dragostea Din Tei (W&W Remix - Radio Edit) - (Dragostea Din Tei (W&W Remix - Radio Edit))",
+    "link": "https://music.163.com/song?id=1813289175",
+    "duration": "02:54",
+    "artists": [
+      { "name": "O-Zone", "link": "https://music.163.com/artist?id=102077" },
+      { "name": "W&W", "link": "https://music.163.com/artist?id=46131" }
+    ],
+    "album": {
+      "name": "恋のマイアヒ Dragostea Din Tei (W&W Remix)",
+      "link": "https://music.163.com/album?id=121842206"
+    }
+  },
+  {
+    "name": "Hyperspace",
+    "link": "https://music.163.com/song?id=1336866879",
+    "duration": "03:52",
+    "artists": [
+      {
+        "name": "Phuture Noize",
+        "link": "https://music.163.com/artist?id=808091"
+      }
+    ],
+    "album": {
+      "name": "A New Day",
+      "link": "https://music.163.com/album?id=75018185"
+    }
+  },
+  {
+    "name": "See You Again (ATTACK Bootleg)",
+    "link": "https://music.163.com/song?id=1852580794",
+    "duration": "03:18",
+    "artists": [
+      { "name": "ATTACK", "link": "https://music.163.com/artist?id=12605809" }
+    ],
+    "album": {
+      "name": "See You Again",
+      "link": "https://music.163.com/album?id=128868102"
+    }
+  },
+  {
+    "name": "Give Me Your Heart",
+    "link": "https://music.163.com/song?id=425684974",
+    "duration": "04:24",
+    "artists": [
+      { "name": "Subraver", "link": "https://music.163.com/artist?id=12096299" }
+    ],
+    "album": {
+      "name": "Give Me Your Heart",
+      "link": "https://music.163.com/album?id=34816893"
+    }
+  },
+  {
+    "name": "Outside (Nüwa Bootleg)",
+    "link": "https://music.163.com/song?id=1305364961",
+    "duration": "04:28",
+    "artists": [
+      { "name": "Nüwa", "link": "https://music.163.com/artist?id=12279184" }
+    ],
+    "album": {
+      "name": "Outside",
+      "link": "https://music.163.com/album?id=72701945"
+    }
+  },
+  {
+    "name": "谭咏麟-讲不出再见（Vigny / Forkyrie remix）",
+    "link": "https://music.163.com/song?id=1840436425",
+    "duration": "04:04",
+    "artists": [
+      { "name": "Vigny", "link": "https://music.163.com/artist?id=12664523" },
+      { "name": "Forkyrie", "link": "https://music.163.com/artist?id=1039404" }
+    ],
+    "album": {
+      "name": "谭咏麟 - 讲不出再见 (Vigny & Forkyrie Bootleg)",
+      "link": "https://music.163.com/album?id=126582108"
+    }
+  },
+  {
+    "name": "Young Again (Sound Energizer Remix)",
+    "link": "https://music.163.com/song?id=458238412",
+    "duration": "04:04",
+    "artists": [
+      {
+        "name": "Sound Energizer",
+        "link": "https://music.163.com/artist?id=12048077"
+      },
+      { "name": "Hardwell", "link": "https://music.163.com/artist?id=34994" },
+      { "name": "Chris Jones", "link": "https://music.163.com/artist?id=52331" }
+    ],
+    "album": {
+      "name": "Young Again (Sound Energizer Remix)",
+      "link": "https://music.163.com/album?id=35157400"
+    }
+  },
+  {
+    "name": "Canon",
+    "link": "https://music.163.com/song?id=31563086",
+    "duration": "04:01",
+    "artists": [
+      {
+        "name": "Various Artists",
+        "link": "https://music.163.com/artist?id=104700"
+      }
+    ],
+    "album": {
+      "name": "苏荷酒吧",
+      "link": "https://music.163.com/album?id=2337206"
+    }
+  },
+  {
+    "name": "Étrange Mélange",
+    "link": "https://music.163.com/song?id=1850166151",
+    "duration": "03:00",
+    "artists": [
+      {
+        "name": "Claire Laffut",
+        "link": "https://music.163.com/artist?id=13465054"
+      }
+    ],
+    "album": {
+      "name": "Allez Les Bleus!",
+      "link": "https://music.163.com/album?id=128409452"
+    }
+  },
+  {
+    "name": "JUST STARTED BEING BAD",
+    "link": "https://music.163.com/song?id=25862801",
+    "duration": "03:42",
+    "artists": [
+      {
+        "name": "Sarah Connor",
+        "link": "https://music.163.com/artist?id=74616"
+      }
+    ],
+    "album": {
+      "name": "苏荷酒吧",
+      "link": "https://music.163.com/album?id=2337206"
+    }
+  },
+  {
+    "name": "Love Me Like You Do",
+    "link": "https://music.163.com/song?id=33916247",
+    "duration": "04:08",
+    "artists": [
+      {
+        "name": "Ellie Goulding",
+        "link": "https://music.163.com/artist?id=56598"
+      }
+    ],
+    "album": {
+      "name": "NOW That's What I Call Music, Vol. 55",
+      "link": "https://music.163.com/album?id=3266219"
+    }
+  },
+  {
+    "name": "交差点で1分1秒",
+    "link": "https://music.163.com/song?id=1903725141",
+    "duration": "03:51",
+    "artists": [
+      { "name": "曼尼洛夫", "link": "https://music.163.com/artist?id=46957283" }
+    ],
+    "album": {
+      "name": "交差点で1分1秒",
+      "link": "https://music.163.com/album?id=137530675"
+    }
+  },
+  {
+    "name": "Rolling Like A Ball",
+    "link": "https://music.163.com/song?id=1909873108",
+    "duration": "04:17",
+    "artists": [
+      {
+        "name": "Ludovico Einaudi",
+        "link": "https://music.163.com/artist?id=38127"
+      }
+    ],
+    "album": {
+      "name": "Rolling Like A Ball",
+      "link": "https://music.163.com/album?id=138502464"
+    }
+  },
+  {
+    "name": "Numb",
+    "link": "https://music.163.com/song?id=1472538276",
+    "duration": "02:10",
+    "artists": [
+      {
+        "name": "Arc North",
+        "link": "https://music.163.com/artist?id=1137410"
+      },
+      {
+        "name": "New Beat Order",
+        "link": "https://music.163.com/artist?id=30059556"
+      },
+      {
+        "name": "Aaron Richards",
+        "link": "https://music.163.com/artist?id=14055238"
+      }
+    ],
+    "album": {
+      "name": "Numb",
+      "link": "https://music.163.com/album?id=94233903"
+    }
+  }
+]
