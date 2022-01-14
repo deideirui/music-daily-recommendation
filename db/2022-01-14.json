@@ -1,0 +1,484 @@
+[
+  {
+    "name": "If I Ruled The World",
+    "link": "https://music.163.com/song?id=1825788878",
+    "duration": "02:51",
+    "artists": [
+      {
+        "name": "Mike Perry",
+        "link": "https://music.163.com/artist?id=195021"
+      },
+      {
+        "name": "Mila Josef",
+        "link": "https://music.163.com/artist?id=34698062"
+      }
+    ],
+    "album": {
+      "name": "If I Ruled The World",
+      "link": "https://music.163.com/album?id=124036673"
+    }
+  },
+  {
+    "name": "Sugar",
+    "link": "https://music.163.com/song?id=1854285839",
+    "duration": "03:13",
+    "artists": [
+      { "name": "JWoods", "link": "https://music.163.com/artist?id=30959670" }
+    ],
+    "album": {
+      "name": "Sugar",
+      "link": "https://music.163.com/album?id=129202670"
+    }
+  },
+  {
+    "name": "NVRLND",
+    "link": "https://music.163.com/song?id=1460830602",
+    "duration": "02:20",
+    "artists": [
+      { "name": "Omnia", "link": "https://music.163.com/artist?id=179006" }
+    ],
+    "album": {
+      "name": "NVRLND",
+      "link": "https://music.163.com/album?id=92024685"
+    }
+  },
+  {
+    "name": "Getaway (feat. Lunis)",
+    "link": "https://music.163.com/song?id=1829742202",
+    "duration": "03:47",
+    "artists": [
+      {
+        "name": "Last Heroes",
+        "link": "https://music.163.com/artist?id=11987034"
+      },
+      { "name": "Lunis", "link": "https://music.163.com/artist?id=32056972" }
+    ],
+    "album": {
+      "name": "Getaway (feat. Lunis)",
+      "link": "https://music.163.com/album?id=124557078"
+    }
+  },
+  {
+    "name": "Sweet Dreams & Dynamite (The Stickmen Project Remix)",
+    "link": "https://music.163.com/song?id=1911801947",
+    "duration": "03:25",
+    "artists": [
+      { "name": "SeeB", "link": "https://music.163.com/artist?id=1182169" },
+      {
+        "name": "Nina Nesbitt",
+        "link": "https://music.163.com/artist?id=70292"
+      },
+      {
+        "name": "The Stickmen Project",
+        "link": "https://music.163.com/artist?id=49814817"
+      }
+    ],
+    "album": {
+      "name": "Sweet Dreams & Dynamite (The Stickmen Project Remix)",
+      "link": "https://music.163.com/album?id=138857732"
+    }
+  },
+  {
+    "name": "Sweetheart",
+    "link": "https://music.163.com/song?id=1378173608",
+    "duration": "03:24",
+    "artists": [
+      { "name": "Menino", "link": "https://music.163.com/artist?id=14929011" }
+    ],
+    "album": {
+      "name": "Sweetheart",
+      "link": "https://music.163.com/album?id=80412309"
+    }
+  },
+  {
+    "name": "Johnny Boy",
+    "link": "https://music.163.com/song?id=36084844",
+    "duration": "03:32",
+    "artists": [
+      { "name": "Santiano", "link": "https://music.163.com/artist?id=101716" }
+    ],
+    "album": {
+      "name": "Von Liebe, Tod und Freiheit",
+      "link": "https://music.163.com/album?id=3388106"
+    }
+  },
+  {
+    "name": "Last Goodbye",
+    "link": "https://music.163.com/song?id=1436147411",
+    "duration": "03:21",
+    "artists": [
+      { "name": "Spars", "link": "https://music.163.com/artist?id=32279796" }
+    ],
+    "album": {
+      "name": "Last Goodbye",
+      "link": "https://music.163.com/album?id=87196811"
+    }
+  },
+  {
+    "name": "Vertigo",
+    "link": "https://music.163.com/song?id=1835761027",
+    "duration": "02:47",
+    "artists": [
+      { "name": "Curbi", "link": "https://music.163.com/artist?id=1049915" },
+      { "name": "Pollyanna", "link": "https://music.163.com/artist?id=136461" }
+    ],
+    "album": {
+      "name": "Vertigo",
+      "link": "https://music.163.com/album?id=125741512"
+    }
+  },
+  {
+    "name": "On My Way Up",
+    "link": "https://music.163.com/song?id=401722064",
+    "duration": "03:16",
+    "artists": [
+      { "name": "Conro", "link": "https://music.163.com/artist?id=1063229" }
+    ],
+    "album": {
+      "name": "On My Way Up",
+      "link": "https://music.163.com/album?id=34470018"
+    }
+  },
+  {
+    "name": "White Lies",
+    "link": "https://music.163.com/song?id=1398963403",
+    "duration": "03:20",
+    "artists": [
+      {
+        "name": "ElementD",
+        "link": "https://music.163.com/artist?id=12192245"
+      },
+      {
+        "name": "Harley Bird",
+        "link": "https://music.163.com/artist?id=12355691"
+      }
+    ],
+    "album": {
+      "name": "White Lies",
+      "link": "https://music.163.com/album?id=82715788"
+    }
+  },
+  {
+    "name": "Timeless (Radio Edit)",
+    "link": "https://music.163.com/song?id=27553910",
+    "duration": "04:16",
+    "artists": [
+      { "name": "Wildstylez", "link": "https://music.163.com/artist?id=666014" }
+    ],
+    "album": {
+      "name": "Timeless EP",
+      "link": "https://music.163.com/album?id=2631955"
+    }
+  },
+  {
+    "name": "Voodoo?",
+    "link": "https://music.163.com/song?id=1457184101",
+    "duration": "04:15",
+    "artists": [
+      {
+        "name": "L'Impératrice",
+        "link": "https://music.163.com/artist?id=1019276"
+      }
+    ],
+    "album": {
+      "name": "Voodoo?",
+      "link": "https://music.163.com/album?id=91293213"
+    }
+  },
+  {
+    "name": "黑洞之光 2.0",
+    "link": "https://music.163.com/song?id=1352024632",
+    "duration": "04:02",
+    "artists": [
+      {
+        "name": "柳维妮Weeney",
+        "link": "https://music.163.com/artist?id=12601361"
+      },
+      { "name": "djk", "link": "https://music.163.com/artist?id=12065104" },
+      {
+        "name": "Adolf Jack",
+        "link": "https://music.163.com/artist?id=1213009"
+      }
+    ],
+    "album": {
+      "name": "黑洞之光2.0",
+      "link": "https://music.163.com/album?id=75844837"
+    }
+  },
+  {
+    "name": "Your Answer(你的答案) (Narcyz & Euphorizer Remix)",
+    "link": "https://music.163.com/song?id=1834179824",
+    "duration": "02:51",
+    "artists": [
+      {
+        "name": "Euphorizer",
+        "link": "https://music.163.com/artist?id=12046942"
+      }
+    ],
+    "album": {
+      "name": "Your Answer(你的答案) (Narcyz & Euphorizer Remix)",
+      "link": "https://music.163.com/album?id=125464639"
+    }
+  },
+  {
+    "name": "Hope in the dark",
+    "link": "https://music.163.com/song?id=1903317419",
+    "duration": "03:04",
+    "artists": [
+      { "name": "Luxiem", "link": "https://music.163.com/artist?id=50838260" }
+    ],
+    "album": {
+      "name": "Hope in the dark",
+      "link": "https://music.163.com/album?id=137466589"
+    }
+  },
+  {
+    "name": "Faith & Science",
+    "link": "https://music.163.com/song?id=31477465",
+    "duration": "03:18",
+    "artists": [
+      {
+        "name": "Marit Larsen",
+        "link": "https://music.163.com/artist?id=66347"
+      }
+    ],
+    "album": {
+      "name": "Faith & Science",
+      "link": "https://music.163.com/album?id=3124110"
+    }
+  },
+  {
+    "name": "You May Love (Original Mix)",
+    "link": "https://music.163.com/song?id=28884228",
+    "duration": "05:54",
+    "artists": [
+      {
+        "name": "Simon O'Shine",
+        "link": "https://music.163.com/artist?id=207035"
+      }
+    ],
+    "album": {
+      "name": "You May Love (Original Mix)",
+      "link": "https://music.163.com/album?id=2923040"
+    }
+  },
+  {
+    "name": "A Beautiful Mind (Original Mix)",
+    "link": "https://music.163.com/song?id=435288646",
+    "duration": "04:25",
+    "artists": [
+      { "name": "Elysiums", "link": "https://music.163.com/artist?id=12089047" }
+    ],
+    "album": {
+      "name": "A Beautiful Mind",
+      "link": "https://music.163.com/album?id=34912133"
+    }
+  },
+  {
+    "name": "Because The Night",
+    "link": "https://music.163.com/song?id=1814076248",
+    "duration": "03:36",
+    "artists": [
+      {
+        "name": "The Midnight",
+        "link": "https://music.163.com/artist?id=12023492"
+      },
+      {
+        "name": "Nikki Flores",
+        "link": "https://music.163.com/artist?id=70141"
+      }
+    ],
+    "album": {
+      "name": "Horror Show",
+      "link": "https://music.163.com/album?id=122000677"
+    }
+  },
+  {
+    "name": "Lost In the Sound",
+    "link": "https://music.163.com/song?id=29732658",
+    "duration": "02:52",
+    "artists": [
+      {
+        "name": "Angie Miller",
+        "link": "https://music.163.com/artist?id=756064"
+      }
+    ],
+    "album": {
+      "name": "Weathered",
+      "link": "https://music.163.com/album?id=3069117"
+    }
+  },
+  {
+    "name": "Slow Down",
+    "link": "https://music.163.com/song?id=1356658022",
+    "duration": "03:23",
+    "artists": [
+      { "name": "Madnap", "link": "https://music.163.com/artist?id=896042" },
+      {
+        "name": "Pauline Herr",
+        "link": "https://music.163.com/artist?id=13080654"
+      }
+    ],
+    "album": {
+      "name": "Slow Down",
+      "link": "https://music.163.com/album?id=78333509"
+    }
+  },
+  {
+    "name": "High On Life (Sound Rush Bootleg)",
+    "link": "https://music.163.com/song?id=1302091412",
+    "duration": "04:02",
+    "artists": [
+      {
+        "name": "Sound Rush",
+        "link": "https://music.163.com/artist?id=1050827"
+      },
+      { "name": "Bonn", "link": "https://music.163.com/artist?id=31540163" }
+    ],
+    "album": {
+      "name": "High On Life (Sound Rush Bootleg)",
+      "link": "https://music.163.com/album?id=72300977"
+    }
+  },
+  {
+    "name": "Crawling",
+    "link": "https://music.163.com/song?id=1428214146",
+    "duration": "04:00",
+    "artists": [
+      { "name": "Sefa", "link": "https://music.163.com/artist?id=12533463" }
+    ],
+    "album": {
+      "name": "Crawling",
+      "link": "https://music.163.com/album?id=86234062"
+    }
+  },
+  {
+    "name": "The Way Down",
+    "link": "https://music.163.com/song?id=1399103028",
+    "duration": "02:43",
+    "artists": [
+      { "name": "Kazukii", "link": "https://music.163.com/artist?id=12054389" }
+    ],
+    "album": {
+      "name": "The Way Down",
+      "link": "https://music.163.com/album?id=82742384"
+    }
+  },
+  {
+    "name": "Scatman (Radio Edit)",
+    "link": "https://music.163.com/song?id=1360831186",
+    "duration": "02:45",
+    "artists": [
+      { "name": "Da Tweekaz", "link": "https://music.163.com/artist?id=334026" }
+    ],
+    "album": {
+      "name": "Scatman",
+      "link": "https://music.163.com/album?id=78721604"
+    }
+  },
+  {
+    "name": "水中花",
+    "link": "https://music.163.com/song?id=1834562932",
+    "duration": "03:14",
+    "artists": [
+      { "name": "刘兆宇", "link": "https://music.163.com/artist?id=13447730" },
+      {
+        "name": "耀司匹林",
+        "link": "https://music.163.com/artist?id=30643954"
+      },
+      {
+        "name": "小白羊HUSH",
+        "link": "https://music.163.com/artist?id=12568026"
+      }
+    ],
+    "album": {
+      "name": "水中花",
+      "link": "https://music.163.com/album?id=125543057"
+    }
+  },
+  {
+    "name": "Moon and U",
+    "link": "https://music.163.com/song?id=1898578289",
+    "duration": "03:39",
+    "artists": [
+      { "name": "Negchill", "link": "https://music.163.com/artist?id=34442285" }
+    ],
+    "album": {
+      "name": "Moon and u",
+      "link": "https://music.163.com/album?id=136681533"
+    }
+  },
+  {
+    "name": "不是山谷",
+    "link": "https://music.163.com/song?id=1894310739",
+    "duration": "03:15",
+    "artists": [
+      { "name": "而生", "link": "https://music.163.com/artist?id=47059252" }
+    ],
+    "album": {
+      "name": "不是山谷",
+      "link": "https://music.163.com/album?id=136038746"
+    }
+  },
+  {
+    "name": "Peaches",
+    "link": "https://music.163.com/song?id=1832532837",
+    "duration": "02:17",
+    "artists": [
+      {
+        "name": "Kayla Rae",
+        "link": "https://music.163.com/artist?id=14256431"
+      }
+    ],
+    "album": {
+      "name": "Peaches",
+      "link": "https://music.163.com/album?id=125171149"
+    }
+  },
+  {
+    "name": "Stitches",
+    "link": "https://music.163.com/song?id=1495012824",
+    "duration": "03:26",
+    "artists": [
+      {
+        "name": "Shawn Mendes",
+        "link": "https://music.163.com/artist?id=956238"
+      }
+    ],
+    "album": {
+      "name": "GOOD BYE 2020! SEE YOU NEVER!",
+      "link": "https://music.163.com/album?id=98260475"
+    }
+  },
+  {
+    "name": "无人区玫瑰",
+    "link": "https://music.163.com/song?id=1472142718",
+    "duration": "03:36",
+    "artists": [
+      { "name": "Capper", "link": "https://music.163.com/artist?id=12193174" },
+      { "name": "LEGGO", "link": "https://music.163.com/artist?id=12293217" },
+      { "name": "4D", "link": "https://music.163.com/artist?id=12782624" },
+      {
+        "name": "Kyra Zilver",
+        "link": "https://music.163.com/artist?id=14018235"
+      },
+      { "name": "APEX", "link": "https://music.163.com/artist?id=35547742" }
+    ],
+    "album": {
+      "name": "无人区玫瑰",
+      "link": "https://music.163.com/album?id=94079450"
+    }
+  },
+  {
+    "name": "Sakura",
+    "link": "https://music.163.com/song?id=416700305",
+    "duration": "03:10",
+    "artists": [
+      { "name": "R3HAB", "link": "https://music.163.com/artist?id=197248" }
+    ],
+    "album": {
+      "name": "Sakura",
+      "link": "https://music.163.com/album?id=34726668"
+    }
+  }
+]
