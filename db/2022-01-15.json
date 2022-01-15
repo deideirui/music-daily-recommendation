@@ -1,0 +1,506 @@
+[
+  {
+    "name": "Together",
+    "link": "https://music.163.com/song?id=1867490295",
+    "duration": "02:45",
+    "artists": [
+      { "name": "Distrion", "link": "https://music.163.com/artist?id=1050853" },
+      {
+        "name": "Alex Skrindo",
+        "link": "https://music.163.com/artist?id=1046359"
+      },
+      {
+        "name": "RudeLies",
+        "link": "https://music.163.com/artist?id=12416051"
+      },
+      { "name": "Axol", "link": "https://music.163.com/artist?id=12165060" }
+    ],
+    "album": {
+      "name": "Together",
+      "link": "https://music.163.com/album?id=131449239"
+    }
+  },
+  {
+    "name": "问号",
+    "link": "https://music.163.com/song?id=1495065861",
+    "duration": "02:55",
+    "artists": [
+      {
+        "name": "Vicky宣宣",
+        "link": "https://music.163.com/artist?id=33097213"
+      },
+      { "name": "零6", "link": "https://music.163.com/artist?id=12571830" }
+    ],
+    "album": {
+      "name": "问号",
+      "link": "https://music.163.com/album?id=98269054"
+    }
+  },
+  {
+    "name": "Need You",
+    "link": "https://music.163.com/song?id=1496919994",
+    "duration": "04:37",
+    "artists": [
+      { "name": "Lost Sky", "link": "https://music.163.com/artist?id=28389556" }
+    ],
+    "album": {
+      "name": "Need You",
+      "link": "https://music.163.com/album?id=98568397"
+    }
+  },
+  {
+    "name": "Pluto",
+    "link": "https://music.163.com/song?id=29759340",
+    "duration": "05:08",
+    "artists": [
+      { "name": "Nyte", "link": "https://music.163.com/artist?id=1034003" }
+    ],
+    "album": {
+      "name": "Pluto",
+      "link": "https://music.163.com/album?id=3056845"
+    }
+  },
+  {
+    "name": "Easy On Me",
+    "link": "https://music.163.com/song?id=1911803991",
+    "duration": "02:59",
+    "artists": [
+      {
+        "name": "The Piano Guys",
+        "link": "https://music.163.com/artist?id=99093"
+      }
+    ],
+    "album": {
+      "name": "Easy On Me",
+      "link": "https://music.163.com/album?id=138858348"
+    }
+  },
+  {
+    "name": "Back Home",
+    "link": "https://music.163.com/song?id=1396430886",
+    "duration": "02:41",
+    "artists": [
+      {
+        "name": "Luca Testa",
+        "link": "https://music.163.com/artist?id=1181227"
+      },
+      { "name": "Astrak", "link": "https://music.163.com/artist?id=12400097" },
+      {
+        "name": "Philip Matta",
+        "link": "https://music.163.com/artist?id=1100040"
+      }
+    ],
+    "album": {
+      "name": "Back Home",
+      "link": "https://music.163.com/album?id=82336879"
+    }
+  },
+  {
+    "name": "Bad Boy",
+    "link": "https://music.163.com/song?id=1304402380",
+    "duration": "03:06",
+    "artists": [
+      {
+        "name": "Tungevaag & Raaban",
+        "link": "https://music.163.com/artist?id=1090022"
+      },
+      {
+        "name": "Luana Kiara",
+        "link": "https://music.163.com/artist?id=29825515"
+      }
+    ],
+    "album": {
+      "name": "Bad Boy",
+      "link": "https://music.163.com/album?id=72475506"
+    }
+  },
+  {
+    "name": "Forever (Edit)",
+    "link": "https://music.163.com/song?id=417250365",
+    "duration": "02:58",
+    "artists": [
+      {
+        "name": "The Khemist",
+        "link": "https://music.163.com/artist?id=12062050"
+      }
+    ],
+    "album": {
+      "name": "Forever",
+      "link": "https://music.163.com/album?id=34739201"
+    }
+  },
+  {
+    "name": "Save You",
+    "link": "https://music.163.com/song?id=467685388",
+    "duration": "02:59",
+    "artists": [
+      { "name": "G. Curtis", "link": "https://music.163.com/artist?id=34301" },
+      { "name": "Wahlstedt", "link": "https://music.163.com/artist?id=896028" }
+    ],
+    "album": {
+      "name": "Save You",
+      "link": "https://music.163.com/album?id=35274561"
+    }
+  },
+  {
+    "name": "Found A Way Ft. Ryan Curtis",
+    "link": "https://music.163.com/song?id=1303019064",
+    "duration": "03:14",
+    "artists": [
+      { "name": "Eliminate", "link": "https://music.163.com/artist?id=911094" },
+      {
+        "name": "Ryan Curtis",
+        "link": "https://music.163.com/artist?id=28179027"
+      }
+    ],
+    "album": {
+      "name": "Found A Way Ft. Ryan Curtis",
+      "link": "https://music.163.com/album?id=72385623"
+    }
+  },
+  {
+    "name": "Venera [Vee's Theme]",
+    "link": "https://music.163.com/song?id=470573544",
+    "duration": "03:08",
+    "artists": [
+      {
+        "name": "Ferry Corsten",
+        "link": "https://music.163.com/artist?id=33395"
+      },
+      { "name": "Gouryella", "link": "https://music.163.com/artist?id=129615" }
+    ],
+    "album": {
+      "name": "Venera (Vee’s Theme)",
+      "link": "https://music.163.com/album?id=35347080"
+    }
+  },
+  {
+    "name": "Don't Give Up",
+    "link": "https://music.163.com/song?id=1861664087",
+    "duration": "02:49",
+    "artists": [
+      {
+        "name": "RetroVision",
+        "link": "https://music.163.com/artist?id=11976142"
+      },
+      {
+        "name": "Guy Arthur",
+        "link": "https://music.163.com/artist?id=33226820"
+      }
+    ],
+    "album": {
+      "name": "Don't Give Up",
+      "link": "https://music.163.com/album?id=130458117"
+    }
+  },
+  {
+    "name": "Battlefield",
+    "link": "https://music.163.com/song?id=1861652300",
+    "duration": "03:00",
+    "artists": [
+      { "name": "Ryos", "link": "https://music.163.com/artist?id=1053137" },
+      { "name": "REGGIO", "link": "https://music.163.com/artist?id=12029382" },
+      { "name": "Linney", "link": "https://music.163.com/artist?id=1193247" }
+    ],
+    "album": {
+      "name": "Battlefield",
+      "link": "https://music.163.com/album?id=130457135"
+    }
+  },
+  {
+    "name": "Shattered (feat. RUNN)",
+    "link": "https://music.163.com/song?id=1396158063",
+    "duration": "04:12",
+    "artists": [
+      { "name": "MitiS", "link": "https://music.163.com/artist?id=40245" },
+      { "name": "RUNN", "link": "https://music.163.com/artist?id=15237536" }
+    ],
+    "album": {
+      "name": "Shattered EP",
+      "link": "https://music.163.com/album?id=82295940"
+    }
+  },
+  {
+    "name": "Wander",
+    "link": "https://music.163.com/song?id=1448750114",
+    "duration": "03:24",
+    "artists": [
+      { "name": "Satchel", "link": "https://music.163.com/artist?id=1132060" }
+    ],
+    "album": {
+      "name": "Wander",
+      "link": "https://music.163.com/album?id=89537042"
+    }
+  },
+  {
+    "name": "破 Breaking feat. 谢雨纯",
+    "link": "https://music.163.com/song?id=1467099942",
+    "duration": "03:07",
+    "artists": [
+      {
+        "name": "CORSAK胡梦周",
+        "link": "https://music.163.com/artist?id=28083351"
+      },
+      { "name": "谢雨纯", "link": "https://music.163.com/artist?id=12605484" }
+    ],
+    "album": {
+      "name": "破 Breaking feat. 谢雨纯",
+      "link": "https://music.163.com/album?id=93258422"
+    }
+  },
+  {
+    "name": "Only the Brave",
+    "link": "https://music.163.com/song?id=1344291729",
+    "duration": "04:50",
+    "artists": [
+      { "name": "LeBrock", "link": "https://music.163.com/artist?id=13970913" }
+    ],
+    "album": {
+      "name": "Real Thing (Remastered)",
+      "link": "https://music.163.com/album?id=75462145"
+    }
+  },
+  {
+    "name": "lift me from the ground (Phuture Noize Remix)",
+    "link": "https://music.163.com/song?id=1415557131",
+    "duration": "03:39",
+    "artists": [
+      { "name": "San Holo", "link": "https://music.163.com/artist?id=1017035" },
+      {
+        "name": "Sofie Winterson",
+        "link": "https://music.163.com/artist?id=912087"
+      },
+      {
+        "name": "Phuture Noize",
+        "link": "https://music.163.com/artist?id=808091"
+      }
+    ],
+    "album": {
+      "name": "album1: a lot of remixes",
+      "link": "https://music.163.com/album?id=84210154"
+    }
+  },
+  {
+    "name": "Twilight Zone (Edit)",
+    "link": "https://music.163.com/song?id=566443177",
+    "duration": "03:12",
+    "artists": [
+      {
+        "name": "D-Block & S-te-Fan",
+        "link": "https://music.163.com/artist?id=13594504"
+      }
+    ],
+    "album": {
+      "name": "Twilight Zone",
+      "link": "https://music.163.com/album?id=39265079"
+    }
+  },
+  {
+    "name": "Iron Lotus",
+    "link": "https://music.163.com/song?id=1887467088",
+    "duration": "04:00",
+    "artists": [
+      { "name": "Mili", "link": "https://music.163.com/artist?id=339594" }
+    ],
+    "album": {
+      "name": "To Kill a Living Book -for Library Of Ruina-",
+      "link": "https://music.163.com/album?id=134869944"
+    }
+  },
+  {
+    "name": "Insane",
+    "link": "https://music.163.com/song?id=1850706877",
+    "duration": "02:39",
+    "artists": [
+      {
+        "name": "Black Gryph0n",
+        "link": "https://music.163.com/artist?id=12935473"
+      },
+      { "name": "Baasik", "link": "https://music.163.com/artist?id=783117" }
+    ],
+    "album": {
+      "name": "Insane",
+      "link": "https://music.163.com/album?id=128485937"
+    }
+  },
+  {
+    "name": "一阵爱笑的风追赶公共车 Prod Eee.T&YUSENISHERE",
+    "link": "https://music.163.com/song?id=1902925376",
+    "duration": "02:49",
+    "artists": [
+      { "name": "艾斯凯特", "link": "https://music.163.com/artist?id=35517415" }
+    ],
+    "album": {
+      "name": "一阵爱笑的风追赶公交车",
+      "link": "https://music.163.com/album?id=137397522"
+    }
+  },
+  {
+    "name": "Selfish (DVLM & Brennan Heart VIP Remix)",
+    "link": "https://music.163.com/song?id=1359334368",
+    "duration": "02:53",
+    "artists": [
+      {
+        "name": "Dimitri Vegas & Like Mike",
+        "link": "https://music.163.com/artist?id=791298"
+      },
+      {
+        "name": "Era Istrefi",
+        "link": "https://music.163.com/artist?id=12006364"
+      },
+      {
+        "name": "Brennan Heart",
+        "link": "https://music.163.com/artist?id=688203"
+      }
+    ],
+    "album": {
+      "name": "Selfish (The Remixes)",
+      "link": "https://music.163.com/album?id=78566899"
+    }
+  },
+  {
+    "name": "为你保留",
+    "link": "https://music.163.com/song?id=1881568485",
+    "duration": "03:33",
+    "artists": [
+      { "name": "黄盛", "link": "https://music.163.com/artist?id=33911050" }
+    ],
+    "album": {
+      "name": "为你保留",
+      "link": "https://music.163.com/album?id=133816769"
+    }
+  },
+  {
+    "name": "Under / Over",
+    "link": "https://music.163.com/song?id=1462753117",
+    "duration": "02:21",
+    "artists": [
+      {
+        "name": "Gracie Abrams",
+        "link": "https://music.163.com/artist?id=33515545"
+      }
+    ],
+    "album": {
+      "name": "minor",
+      "link": "https://music.163.com/album?id=92408535"
+    }
+  },
+  {
+    "name": "Taxi",
+    "link": "https://music.163.com/song?id=1466516156",
+    "duration": "02:15",
+    "artists": [
+      { "name": "GRAE", "link": "https://music.163.com/artist?id=30885416" }
+    ],
+    "album": {
+      "name": "Permanent Maniac",
+      "link": "https://music.163.com/album?id=93147427"
+    }
+  },
+  {
+    "name": "She Goes",
+    "link": "https://music.163.com/song?id=30051356",
+    "duration": "03:31",
+    "artists": [
+      {
+        "name": "Atmozfears",
+        "link": "https://music.163.com/artist?id=753086"
+      },
+      { "name": "Adrenalize", "link": "https://music.163.com/artist?id=958018" }
+    ],
+    "album": {
+      "name": "she goes",
+      "link": "https://music.163.com/album?id=3090879"
+    }
+  },
+  {
+    "name": "Worth",
+    "link": "https://music.163.com/song?id=3160123",
+    "duration": "04:16",
+    "artists": [
+      { "name": "Meg Murray", "link": "https://music.163.com/artist?id=69053" }
+    ],
+    "album": {
+      "name": "Meg Murray",
+      "link": "https://music.163.com/album?id=319776"
+    }
+  },
+  {
+    "name": "Black Magic",
+    "link": "https://music.163.com/song?id=1805317558",
+    "duration": "02:54",
+    "artists": [
+      { "name": "Jonasu", "link": "https://music.163.com/artist?id=28527997" }
+    ],
+    "album": {
+      "name": "Black Magic",
+      "link": "https://music.163.com/album?id=120609644"
+    }
+  },
+  {
+    "name": "The Sound Of Silence",
+    "link": "https://music.163.com/song?id=1398487833",
+    "duration": "05:37",
+    "artists": [
+      { "name": "Ran-D", "link": "https://music.163.com/artist?id=402435" },
+      { "name": "Adaro", "link": "https://music.163.com/artist?id=85509" },
+      { "name": "Kronos", "link": "https://music.163.com/artist?id=63890" }
+    ],
+    "album": {
+      "name": "The Sound Of Silence",
+      "link": "https://music.163.com/album?id=82625682"
+    }
+  },
+  {
+    "name": "Surface Pressure (From \"Encanto\"/Soundtrack Version)",
+    "link": "https://music.163.com/song?id=1896085252",
+    "duration": "03:22",
+    "artists": [
+      {
+        "name": "Jessica Darrow",
+        "link": "https://music.163.com/artist?id=50547080"
+      }
+    ],
+    "album": {
+      "name": "Encanto (Original Motion Picture Soundtrack)",
+      "link": "https://music.163.com/album?id=136300007"
+    }
+  },
+  {
+    "name": "Let Go",
+    "link": "https://music.163.com/song?id=1465310744",
+    "duration": "03:18",
+    "artists": [
+      { "name": "黄礼格", "link": "https://music.163.com/artist?id=1019154" },
+      { "name": "队长", "link": "https://music.163.com/artist?id=1143033" }
+    ],
+    "album": {
+      "name": "Let Go",
+      "link": "https://music.163.com/album?id=92937194"
+    }
+  },
+  {
+    "name": "gone",
+    "link": "https://music.163.com/song?id=1803410723",
+    "duration": "02:42",
+    "artists": [
+      { "name": "convolk", "link": "https://music.163.com/artist?id=48037551" }
+    ],
+    "album": {
+      "name": "gone",
+      "link": "https://music.163.com/album?id=120284614"
+    }
+  },
+  {
+    "name": "Wildfire  (Piano and Violin Version)",
+    "link": "https://music.163.com/song?id=533368974",
+    "duration": "03:55",
+    "artists": [
+      { "name": "Syml", "link": "https://music.163.com/artist?id=12048173" }
+    ],
+    "album": {
+      "name": "Wildfire (Instrumentals)",
+      "link": "https://music.163.com/album?id=37410018"
+    }
+  }
+]
