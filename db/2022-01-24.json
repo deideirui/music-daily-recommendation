@@ -1,0 +1,457 @@
+[
+  {
+    "name": "桜",
+    "link": "https://music.163.com/song?id=139268",
+    "duration": "03:15",
+    "artists": [
+      { "name": "α·Pav", "link": "https://music.163.com/artist?id=4716" }
+    ],
+    "album": {
+      "name": "Afterglow",
+      "link": "https://music.163.com/album?id=13876"
+    }
+  },
+  {
+    "name": "In The Morning Light",
+    "link": "https://music.163.com/song?id=2103740",
+    "duration": "03:50",
+    "artists": [
+      { "name": "Yanni", "link": "https://music.163.com/artist?id=46198" }
+    ],
+    "album": {
+      "name": "The Inspiring Journey",
+      "link": "https://music.163.com/album?id=211969"
+    }
+  },
+  {
+    "name": "Ever After",
+    "link": "https://music.163.com/song?id=1806070882",
+    "duration": "04:44",
+    "artists": [
+      { "name": "Abandoned", "link": "https://music.163.com/artist?id=28319" },
+      { "name": "Elle Vee", "link": "https://music.163.com/artist?id=1046258" }
+    ],
+    "album": {
+      "name": "Ever After",
+      "link": "https://music.163.com/album?id=120718382"
+    }
+  },
+  {
+    "name": "Final Days",
+    "link": "https://music.163.com/song?id=29759357",
+    "duration": "03:28",
+    "artists": [
+      { "name": "Nyte", "link": "https://music.163.com/artist?id=1034003" }
+    ],
+    "album": {
+      "name": "Final Days",
+      "link": "https://music.163.com/album?id=3056851"
+    }
+  },
+  {
+    "name": "That's Real (Extended Mix)",
+    "link": "https://music.163.com/song?id=1914238430",
+    "duration": "06:31",
+    "artists": [
+      {
+        "name": "Sunlight Project",
+        "link": "https://music.163.com/artist?id=858214"
+      }
+    ],
+    "album": {
+      "name": "That's Real",
+      "link": "https://music.163.com/album?id=139267624"
+    }
+  },
+  {
+    "name": "Wild Ones (feat. Ollie Wride)",
+    "link": "https://music.163.com/song?id=411907930",
+    "duration": "04:28",
+    "artists": [
+      { "name": "FM-84", "link": "https://music.163.com/artist?id=12046467" },
+      {
+        "name": "Ollie Wride",
+        "link": "https://music.163.com/artist?id=14756188"
+      }
+    ],
+    "album": {
+      "name": "Atlas",
+      "link": "https://music.163.com/album?id=34686652"
+    }
+  },
+  {
+    "name": "Lose Control",
+    "link": "https://music.163.com/song?id=36307815",
+    "duration": "03:46",
+    "artists": [
+      { "name": "Hedley", "link": "https://music.163.com/artist?id=93826" }
+    ],
+    "album": {
+      "name": "Hello",
+      "link": "https://music.163.com/album?id=3394198"
+    }
+  },
+  {
+    "name": "Amnesia",
+    "link": "https://music.163.com/song?id=1839755902",
+    "duration": "04:13",
+    "artists": [
+      {
+        "name": "陆星汉MilkyWay",
+        "link": "https://music.163.com/artist?id=47605341"
+      }
+    ],
+    "album": {
+      "name": "Amnesia",
+      "link": "https://music.163.com/album?id=126255578"
+    }
+  },
+  {
+    "name": "宇宙的边缘",
+    "link": "https://music.163.com/song?id=1335930755",
+    "duration": "04:53",
+    "artists": [
+      { "name": "原子邦妮", "link": "https://music.163.com/artist?id=1193482" }
+    ],
+    "album": {
+      "name": "我在宇宙的边缘",
+      "link": "https://music.163.com/album?id=74994171"
+    }
+  },
+  {
+    "name": "Losing Touch",
+    "link": "https://music.163.com/song?id=1378076158",
+    "duration": "03:32",
+    "artists": [
+      { "name": "Kazukii", "link": "https://music.163.com/artist?id=12054389" }
+    ],
+    "album": {
+      "name": "Losing Touch",
+      "link": "https://music.163.com/album?id=80403159"
+    }
+  },
+  {
+    "name": "《星辰大海》建党百年主题音乐",
+    "link": "https://music.163.com/song?id=1851244378",
+    "duration": "03:29",
+    "artists": [
+      {
+        "name": "好乐无荒",
+        "link": "https://music.163.com/artist?id=47263273"
+      },
+      { "name": "黄霄雲", "link": "https://music.163.com/artist?id=14077324" }
+    ],
+    "album": {
+      "name": "《星辰大海》建党百年主题音乐",
+      "link": "https://music.163.com/album?id=128556919"
+    }
+  },
+  {
+    "name": "Cover Us",
+    "link": "https://music.163.com/song?id=33765523",
+    "duration": "03:40",
+    "artists": [
+      {
+        "name": "Natalie Taylor",
+        "link": "https://music.163.com/artist?id=40698"
+      }
+    ],
+    "album": {
+      "name": "Wildfire",
+      "link": "https://music.163.com/album?id=3162272"
+    }
+  },
+  {
+    "name": "abcdefu (feat. Royal & the Serpent)",
+    "link": "https://music.163.com/song?id=1895456967",
+    "duration": "02:49",
+    "artists": [
+      { "name": "GAYLE", "link": "https://music.163.com/artist?id=34255991" },
+      {
+        "name": "Royal & The Serpent",
+        "link": "https://music.163.com/artist?id=31636891"
+      }
+    ],
+    "album": {
+      "name": "abcdefu (feat. Royal & the Serpent)",
+      "link": "https://music.163.com/album?id=136199455"
+    }
+  },
+  {
+    "name": "最爱",
+    "link": "https://music.163.com/song?id=1401267466",
+    "duration": "04:10",
+    "artists": [
+      { "name": "阿梨粤", "link": "https://music.163.com/artist?id=33230219" }
+    ],
+    "album": {
+      "name": "最爱",
+      "link": "https://music.163.com/album?id=83012071"
+    }
+  },
+  {
+    "name": "希望永远存在 - (动画片《纳米神兵》主题曲)",
+    "link": "https://music.163.com/song?id=29722587",
+    "duration": "03:12",
+    "artists": [
+      {
+        "name": "Christine Welch",
+        "link": "https://music.163.com/artist?id=7520"
+      }
+    ],
+    "album": {
+      "name": "一百万个可能",
+      "link": "https://music.163.com/album?id=3066214"
+    }
+  },
+  {
+    "name": "零点又十分",
+    "link": "https://music.163.com/song?id=1898606487",
+    "duration": "02:51",
+    "artists": [
+      { "name": "业成", "link": "https://music.163.com/artist?id=50568593" }
+    ],
+    "album": {
+      "name": "咫尺天涯间",
+      "link": "https://music.163.com/album?id=136507422"
+    }
+  },
+  {
+    "name": "A Way To You Again",
+    "link": "https://music.163.com/song?id=28352987",
+    "duration": "03:46",
+    "artists": [
+      {
+        "name": "Peter Bradley Adams",
+        "link": "https://music.163.com/artist?id=41166"
+      }
+    ],
+    "album": {
+      "name": "The Mighty Storm",
+      "link": "https://music.163.com/album?id=2778688"
+    }
+  },
+  {
+    "name": "女孩-韦礼安",
+    "link": "https://music.163.com/song?id=1897155175",
+    "duration": "05:06",
+    "artists": [
+      { "name": "小段.", "link": "https://music.163.com/artist?id=50394575" }
+    ],
+    "album": {
+      "name": "祖师爷专属BGM",
+      "link": "https://music.163.com/album?id=136449919"
+    }
+  },
+  {
+    "name": "Claude's Girl",
+    "link": "https://music.163.com/song?id=30621959",
+    "duration": "02:38",
+    "artists": [
+      {
+        "name": "Marika Hackman",
+        "link": "https://music.163.com/artist?id=813212"
+      }
+    ],
+    "album": {
+      "name": "We Slept at Last",
+      "link": "https://music.163.com/album?id=3104149"
+    }
+  },
+  {
+    "name": "不再联系（温柔女声）",
+    "link": "https://music.163.com/song?id=1887328226",
+    "duration": "02:02",
+    "artists": [
+      { "name": "大白鸽", "link": "https://music.163.com/artist?id=49407514" }
+    ],
+    "album": {
+      "name": "想念了一个人久了会重逢吗",
+      "link": "https://music.163.com/album?id=134749609"
+    }
+  },
+  {
+    "name": "烈火战马",
+    "link": "https://music.163.com/song?id=1817971994",
+    "duration": "03:09",
+    "artists": [
+      { "name": "GAI周延", "link": "https://music.163.com/artist?id=1211046" }
+    ],
+    "album": {
+      "name": "烻",
+      "link": "https://music.163.com/album?id=122619417"
+    }
+  },
+  {
+    "name": "告白 - (原唱 : 王欣宇)",
+    "link": "https://music.163.com/song?id=1336856449",
+    "duration": "04:10",
+    "artists": [
+      { "name": "沈以诚", "link": "https://music.163.com/artist?id=12002248" }
+    ],
+    "album": {
+      "name": "告白",
+      "link": "https://music.163.com/album?id=75019881"
+    }
+  },
+  {
+    "name": "京剧猫",
+    "link": "https://music.163.com/song?id=448722019",
+    "duration": "02:53",
+    "artists": [
+      { "name": "胡莎莎", "link": "https://music.163.com/artist?id=805488" },
+      { "name": "周品", "link": "https://music.163.com/artist?id=942075" }
+    ],
+    "album": {
+      "name": "京剧猫",
+      "link": "https://music.163.com/album?id=35080011"
+    }
+  },
+  {
+    "name": "Droemmepige",
+    "link": "https://music.163.com/song?id=1435316794",
+    "duration": "04:02",
+    "artists": [
+      {
+        "name": "Kahlil Rhodes",
+        "link": "https://music.163.com/artist?id=37916"
+      }
+    ],
+    "album": {
+      "name": "Droemmepige",
+      "link": "https://music.163.com/album?id=87014504"
+    }
+  },
+  {
+    "name": "曾经的我们",
+    "link": "https://music.163.com/song?id=1412514821",
+    "duration": "03:48",
+    "artists": [
+      { "name": "小阿七", "link": "https://music.163.com/artist?id=31663214" }
+    ],
+    "album": {
+      "name": "曾经的我们",
+      "link": "https://music.163.com/album?id=84547263"
+    }
+  },
+  {
+    "name": "MEMORIES!",
+    "link": "https://music.163.com/song?id=1853776842",
+    "duration": "02:17",
+    "artists": [
+      { "name": "347aidan", "link": "https://music.163.com/artist?id=34909860" }
+    ],
+    "album": {
+      "name": "TROUBLED MEMORIES!",
+      "link": "https://music.163.com/album?id=129106399"
+    }
+  },
+  {
+    "name": "誓约 - (动画片《神魄》主题曲)",
+    "link": "https://music.163.com/song?id=33705392",
+    "duration": "02:33",
+    "artists": [
+      { "name": "卢文韬", "link": "https://music.163.com/artist?id=36778405" }
+    ],
+    "album": {
+      "name": "神魄 动漫原声带",
+      "link": "https://music.163.com/album?id=3233448"
+    }
+  },
+  {
+    "name": "莫比乌斯环",
+    "link": "https://music.163.com/song?id=1896550342",
+    "duration": "04:04",
+    "artists": [
+      { "name": "Guk", "link": "https://music.163.com/artist?id=50409103" }
+    ],
+    "album": {
+      "name": "莫比乌斯环",
+      "link": "https://music.163.com/album?id=136385566"
+    }
+  },
+  {
+    "name": "(剧情版) 竈門炭治郎のうた/灶门炭治郎之歌 (《鬼灭之刃》TV动画 EP19 ED)",
+    "link": "https://music.163.com/song?id=1403825737",
+    "duration": "05:25",
+    "artists": [
+      { "name": "千界", "link": "https://music.163.com/artist?id=1043310" }
+    ],
+    "album": {
+      "name": "「鬼灭之刃」EP19ED纯歌+剧情版《竈門炭治郎のうた(灶门炭治郎之歌)》",
+      "link": "https://music.163.com/album?id=83309050"
+    }
+  },
+  {
+    "name": "赛里木湖的云",
+    "link": "https://music.163.com/song?id=1854632448",
+    "duration": "04:48",
+    "artists": [
+      { "name": "李东信", "link": "https://music.163.com/artist?id=27988057" }
+    ],
+    "album": {
+      "name": "赛里木湖的云",
+      "link": "https://music.163.com/album?id=129271065"
+    }
+  },
+  {
+    "name": "If I Ain't Got You (Acoustic)",
+    "link": "https://music.163.com/song?id=1843636386",
+    "duration": "02:56",
+    "artists": [
+      {
+        "name": "John Adams",
+        "link": "https://music.163.com/artist?id=34409584"
+      }
+    ],
+    "album": {
+      "name": "If I Ain't Got You (Acoustic)",
+      "link": "https://music.163.com/album?id=127133292"
+    }
+  },
+  {
+    "name": "玉珍",
+    "link": "https://music.163.com/song?id=1412597751",
+    "duration": "06:22",
+    "artists": [
+      {
+        "name": "福禄寿FloruitShow",
+        "link": "https://music.163.com/artist?id=29393033"
+      }
+    ],
+    "album": {
+      "name": "玉珍",
+      "link": "https://music.163.com/album?id=84361224"
+    }
+  },
+  {
+    "name": "3 Strikes",
+    "link": "https://music.163.com/song?id=409647388",
+    "duration": "02:55",
+    "artists": [
+      {
+        "name": "Terror Jr",
+        "link": "https://music.163.com/artist?id=12031048"
+      }
+    ],
+    "album": {
+      "name": "3 Strikes",
+      "link": "https://music.163.com/album?id=34613144"
+    }
+  },
+  {
+    "name": "誰にも言わない - (\"SUNTORY天然水\"新CM曲)",
+    "link": "https://music.163.com/song?id=1910942796",
+    "duration": "04:40",
+    "artists": [
+      {
+        "name": "宇多田ヒカル",
+        "link": "https://music.163.com/artist?id=18122"
+      }
+    ],
+    "album": {
+      "name": "BADモード",
+      "link": "https://music.163.com/album?id=138676183"
+    }
+  }
+]
