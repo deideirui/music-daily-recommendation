@@ -1,0 +1,505 @@
+[
+  {
+    "name": "Hope",
+    "link": "https://music.163.com/song?id=1333199956",
+    "duration": "03:00",
+    "artists": [
+      {
+        "name": "The Chainsmokers",
+        "link": "https://music.163.com/artist?id=893484"
+      },
+      {
+        "name": "Winona Oak",
+        "link": "https://music.163.com/artist?id=29738618"
+      }
+    ],
+    "album": {
+      "name": "Sick Boy",
+      "link": "https://music.163.com/album?id=74872242"
+    }
+  },
+  {
+    "name": "Get Down On It",
+    "link": "https://music.163.com/song?id=1824876382",
+    "duration": "02:43",
+    "artists": [
+      { "name": "Calvo", "link": "https://music.163.com/artist?id=1146039" }
+    ],
+    "album": {
+      "name": "Get Down On It",
+      "link": "https://music.163.com/album?id=123890646"
+    }
+  },
+  {
+    "name": "Seven (Jiaye Reboot)",
+    "link": "https://music.163.com/song?id=423015272",
+    "duration": "04:18",
+    "artists": [
+      { "name": "Jiaye", "link": "https://music.163.com/artist?id=12027336" },
+      { "name": "Tobu", "link": "https://music.163.com/artist?id=964486" }
+    ],
+    "album": {
+      "name": "Seven (Jiaye Reboot)",
+      "link": "https://music.163.com/album?id=34792578"
+    }
+  },
+  {
+    "name": "No End in Sight / Outro",
+    "link": "https://music.163.com/song?id=529317222",
+    "duration": "07:19",
+    "artists": [
+      { "name": "Lane 8", "link": "https://music.163.com/artist?id=787072" }
+    ],
+    "album": {
+      "name": "Little by Little",
+      "link": "https://music.163.com/album?id=37209830"
+    }
+  },
+  {
+    "name": "The Thirteenth Floor",
+    "link": "https://music.163.com/song?id=1907751525",
+    "duration": "02:03",
+    "artists": [
+      {
+        "name": "Audiomachine",
+        "link": "https://music.163.com/artist?id=87066"
+      }
+    ],
+    "album": {
+      "name": "The Devil Doesn't Sleep",
+      "link": "https://music.163.com/album?id=138160747"
+    }
+  },
+  {
+    "name": "Calm The Storm",
+    "link": "https://music.163.com/song?id=1468393954",
+    "duration": "03:45",
+    "artists": [
+      {
+        "name": "Super8 & Tab",
+        "link": "https://music.163.com/artist?id=100916"
+      },
+      {
+        "name": "Roxanne Emery",
+        "link": "https://music.163.com/artist?id=74561"
+      }
+    ],
+    "album": {
+      "name": "Calm The Storm",
+      "link": "https://music.163.com/album?id=93499814"
+    }
+  },
+  {
+    "name": "Wake",
+    "link": "https://music.163.com/song?id=29542751",
+    "duration": "04:13",
+    "artists": [
+      {
+        "name": "Capitol Kids!",
+        "link": "https://music.163.com/artist?id=1021206"
+      }
+    ],
+    "album": {
+      "name": "Capitol Kids! Worship",
+      "link": "https://music.163.com/album?id=3039866"
+    }
+  },
+  {
+    "name": "All I Ever Wanted",
+    "link": "https://music.163.com/song?id=1361804167",
+    "duration": "03:31",
+    "artists": [
+      {
+        "name": "WildVibes",
+        "link": "https://music.163.com/artist?id=1181751"
+      },
+      {
+        "name": "Martin Miller",
+        "link": "https://music.163.com/artist?id=12534226"
+      },
+      {
+        "name": "Arild Aas",
+        "link": "https://music.163.com/artist?id=13436856"
+      }
+    ],
+    "album": {
+      "name": "All I Ever Wanted",
+      "link": "https://music.163.com/album?id=78814883"
+    }
+  },
+  {
+    "name": "Claim Your Love",
+    "link": "https://music.163.com/song?id=1437150742",
+    "duration": "07:20",
+    "artists": [
+      {
+        "name": "Alfa Romero",
+        "link": "https://music.163.com/artist?id=285047"
+      }
+    ],
+    "album": {
+      "name": "Unity",
+      "link": "https://music.163.com/album?id=87537049"
+    }
+  },
+  {
+    "name": "1984",
+    "link": "https://music.163.com/song?id=1823013624",
+    "duration": "02:25",
+    "artists": [
+      {
+        "name": "Forwe兰斯",
+        "link": "https://music.163.com/artist?id=12079166"
+      },
+      {
+        "name": "WERECORDS",
+        "link": "https://music.163.com/artist?id=36257992"
+      }
+    ],
+    "album": {
+      "name": "REBIRTH Pt.1",
+      "link": "https://music.163.com/album?id=123557015"
+    }
+  },
+  {
+    "name": "Beyond Dreaming",
+    "link": "https://music.163.com/song?id=1468652155",
+    "duration": "09:05",
+    "artists": [
+      { "name": "Coeus", "link": "https://music.163.com/artist?id=12683728" }
+    ],
+    "album": {
+      "name": "Beyond Dreaming",
+      "link": "https://music.163.com/album?id=93543662"
+    }
+  },
+  {
+    "name": "Friendships (Original Mix)",
+    "link": "https://music.163.com/song?id=505449407",
+    "duration": "04:02",
+    "artists": [
+      {
+        "name": "Pascal Letoublon",
+        "link": "https://music.163.com/artist?id=12634325"
+      }
+    ],
+    "album": {
+      "name": "Friendships",
+      "link": "https://music.163.com/album?id=36196158"
+    }
+  },
+  {
+    "name": "Alibi (Far Out Remix)",
+    "link": "https://music.163.com/song?id=863515475",
+    "duration": "03:39",
+    "artists": [
+      { "name": "Far Out", "link": "https://music.163.com/artist?id=824107" },
+      { "name": "Krewella", "link": "https://music.163.com/artist?id=208915" }
+    ],
+    "album": {
+      "name": "Alibi (Far Out Remix)",
+      "link": "https://music.163.com/album?id=71722753"
+    }
+  },
+  {
+    "name": "Empty Love",
+    "link": "https://music.163.com/song?id=1435828582",
+    "duration": "02:50",
+    "artists": [
+      { "name": "Lulleaux", "link": "https://music.163.com/artist?id=1115185" },
+      {
+        "name": "Kid Princess",
+        "link": "https://music.163.com/artist?id=34704316"
+      }
+    ],
+    "album": {
+      "name": "Empty Love (feat. Kid Princess)",
+      "link": "https://music.163.com/album?id=87122489"
+    }
+  },
+  {
+    "name": "This Far (Rudelies Radio Remix)",
+    "link": "https://music.163.com/song?id=1450158244",
+    "duration": "02:37",
+    "artists": [
+      {
+        "name": "Raven & Kreyn",
+        "link": "https://music.163.com/artist?id=12355744"
+      },
+      {
+        "name": "Nino Lucarelli",
+        "link": "https://music.163.com/artist?id=13954602"
+      },
+      { "name": "RudeLies", "link": "https://music.163.com/artist?id=12416051" }
+    ],
+    "album": {
+      "name": "Club Summer Megamix 2020",
+      "link": "https://music.163.com/album?id=89817401"
+    }
+  },
+  {
+    "name": "一梦千宵",
+    "link": "https://music.163.com/song?id=1913873767",
+    "duration": "04:15",
+    "artists": [
+      { "name": "人形兎", "link": "https://music.163.com/artist?id=12100072" },
+      { "name": "洛天依", "link": "https://music.163.com/artist?id=906118" }
+    ],
+    "album": {
+      "name": "一梦千宵",
+      "link": "https://music.163.com/album?id=139227933"
+    }
+  },
+  {
+    "name": "Ninelie(Easylistening)",
+    "link": "https://music.163.com/song?id=1857154777",
+    "duration": "02:21",
+    "artists": [
+      { "name": "徐梦圆", "link": "https://music.163.com/artist?id=1142042" }
+    ],
+    "album": {
+      "name": "ninelie(Easylistening)",
+      "link": "https://music.163.com/album?id=129647198"
+    }
+  },
+  {
+    "name": "璃云月海 - (游戏《原神》2022新春会同人曲)",
+    "link": "https://music.163.com/song?id=1913819637",
+    "duration": "03:06",
+    "artists": [
+      { "name": "宴宁", "link": "https://music.163.com/artist?id=33950005" },
+      {
+        "name": "鹿喑kana",
+        "link": "https://music.163.com/artist?id=32436868"
+      },
+      {
+        "name": "XY大甘蔗",
+        "link": "https://music.163.com/artist?id=28071453"
+      },
+      { "name": "杜冥鸦", "link": "https://music.163.com/artist?id=51276547" }
+    ],
+    "album": {
+      "name": "璃云月海",
+      "link": "https://music.163.com/album?id=139202601"
+    }
+  },
+  {
+    "name": "Breathe In",
+    "link": "https://music.163.com/song?id=526472684",
+    "duration": "03:18",
+    "artists": [
+      { "name": "RVNS", "link": "https://music.163.com/artist?id=12997820" }
+    ],
+    "album": {
+      "name": "Breathe In",
+      "link": "https://music.163.com/album?id=37087227"
+    }
+  },
+  {
+    "name": "All the Lights",
+    "link": "https://music.163.com/song?id=1832233753",
+    "duration": "04:03",
+    "artists": [
+      {
+        "name": "By The Coast",
+        "link": "https://music.163.com/artist?id=33939127"
+      }
+    ],
+    "album": {
+      "name": "All the Lights",
+      "link": "https://music.163.com/album?id=125099394"
+    }
+  },
+  {
+    "name": "千年泪",
+    "link": "https://music.163.com/song?id=1893319995",
+    "duration": "04:20",
+    "artists": [
+      { "name": "织风结", "link": "https://music.163.com/artist?id=49347490" }
+    ],
+    "album": {
+      "name": "三国恋",
+      "link": "https://music.163.com/album?id=135834061"
+    }
+  },
+  {
+    "name": "冬天的秘密",
+    "link": "https://music.163.com/song?id=1894007406",
+    "duration": "04:32",
+    "artists": [
+      { "name": "周传雄", "link": "https://music.163.com/artist?id=6652" }
+    ],
+    "album": {
+      "name": "冬日戀歌",
+      "link": "https://music.163.com/album?id=135977412"
+    }
+  },
+  {
+    "name": "Here Slowed （NO 3D）",
+    "link": "https://music.163.com/song?id=1862364803",
+    "duration": "03:04",
+    "artists": [
+      { "name": "AD_概", "link": "https://music.163.com/artist?id=35876989" }
+    ],
+    "album": {
+      "name": "Here",
+      "link": "https://music.163.com/album?id=130554829"
+    }
+  },
+  {
+    "name": "天生反骨的鸵鸟",
+    "link": "https://music.163.com/song?id=1905403429",
+    "duration": "03:29",
+    "artists": [
+      {
+        "name": "毛毛不插电",
+        "link": "https://music.163.com/artist?id=47193271"
+      }
+    ],
+    "album": {
+      "name": "天生反骨的鸵鸟",
+      "link": "https://music.163.com/album?id=137809476"
+    }
+  },
+  {
+    "name": "Fahrenheit",
+    "link": "https://music.163.com/song?id=1833791380",
+    "duration": "03:53",
+    "artists": [
+      {
+        "name": "John Splithoff",
+        "link": "https://music.163.com/artist?id=12073014"
+      }
+    ],
+    "album": {
+      "name": "All In",
+      "link": "https://music.163.com/album?id=125394297"
+    }
+  },
+  {
+    "name": "散Luv",
+    "link": "https://music.163.com/song?id=1472223960",
+    "duration": "03:50",
+    "artists": [
+      { "name": "川屿", "link": "https://music.163.com/artist?id=31052925" }
+    ],
+    "album": {
+      "name": "散Luv",
+      "link": "https://music.163.com/album?id=94141780"
+    }
+  },
+  {
+    "name": "早安午安晚安",
+    "link": "https://music.163.com/song?id=1888152686",
+    "duration": "03:45",
+    "artists": [
+      { "name": "庚旭", "link": "https://music.163.com/artist?id=32621361" }
+    ],
+    "album": {
+      "name": "早安午安晚安",
+      "link": "https://music.163.com/album?id=134970973"
+    }
+  },
+  {
+    "name": "可能",
+    "link": "https://music.163.com/song?id=1844448537",
+    "duration": "03:48",
+    "artists": [
+      { "name": "队长", "link": "https://music.163.com/artist?id=1143033" }
+    ],
+    "album": {
+      "name": "队长的音乐世界",
+      "link": "https://music.163.com/album?id=127302580"
+    }
+  },
+  {
+    "name": "说说话",
+    "link": "https://music.163.com/song?id=1890478575",
+    "duration": "03:44",
+    "artists": [
+      { "name": "胡沫", "link": "https://music.163.com/artist?id=34827109" }
+    ],
+    "album": {
+      "name": "浮 生",
+      "link": "https://music.163.com/album?id=89899927"
+    }
+  },
+  {
+    "name": "3 Strikes",
+    "link": "https://music.163.com/song?id=1814471918",
+    "duration": "04:11",
+    "artists": [
+      {
+        "name": "舒克尔Schuker",
+        "link": "https://music.163.com/artist?id=36930653"
+      }
+    ],
+    "album": {
+      "name": "3 Strikes",
+      "link": "https://music.163.com/album?id=122046196"
+    }
+  },
+  {
+    "name": "青春之火 - (动漫《火力少年王》主题歌)",
+    "link": "https://music.163.com/song?id=27907768",
+    "duration": "03:33",
+    "artists": [
+      { "name": "潘松和", "link": "https://music.163.com/artist?id=1047180" }
+    ],
+    "album": {
+      "name": "热门华语110",
+      "link": "https://music.163.com/album?id=2693103"
+    }
+  },
+  {
+    "name": "Mine (Illenium Remix)",
+    "link": "https://music.163.com/song?id=30780496",
+    "duration": "04:09",
+    "artists": [
+      { "name": "ILLENIUM", "link": "https://music.163.com/artist?id=1050518" },
+      {
+        "name": "Phoebe Ryan",
+        "link": "https://music.163.com/artist?id=854363"
+      }
+    ],
+    "album": {
+      "name": "Mine (Illenium Remix)",
+      "link": "https://music.163.com/album?id=3103256"
+    }
+  },
+  {
+    "name": "Chance",
+    "link": "https://music.163.com/song?id=536513830",
+    "duration": "03:33",
+    "artists": [
+      { "name": "Aspyer", "link": "https://music.163.com/artist?id=12409085" },
+      {
+        "name": "Kyle Reynolds",
+        "link": "https://music.163.com/artist?id=1179061"
+      },
+      {
+        "name": "Carly Jay",
+        "link": "https://music.163.com/artist?id=30395435"
+      }
+    ],
+    "album": {
+      "name": "Chance",
+      "link": "https://music.163.com/album?id=37552481"
+    }
+  },
+  {
+    "name": "君に夢中 - (日剧《最爱》主题曲)",
+    "link": "https://music.163.com/song?id=1910937514",
+    "duration": "04:18",
+    "artists": [
+      {
+        "name": "宇多田ヒカル",
+        "link": "https://music.163.com/artist?id=18122"
+      }
+    ],
+    "album": {
+      "name": "BADモード",
+      "link": "https://music.163.com/album?id=138676183"
+    }
+  }
+]
