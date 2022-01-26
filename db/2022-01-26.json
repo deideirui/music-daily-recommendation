@@ -1,0 +1,477 @@
+[
+  {
+    "name": "Wasted",
+    "link": "https://music.163.com/song?id=1850934646",
+    "duration": "02:35",
+    "artists": [{ "name": "AVPvicii", "link": "" }],
+    "album": {
+      "name": "AVĪCI（02） (Reboot)",
+      "link": "https://music.163.com/album?id=128474241"
+    }
+  },
+  {
+    "name": "Heal Me",
+    "link": "https://music.163.com/song?id=1838889824",
+    "duration": "03:04",
+    "artists": [
+      {
+        "name": "Matisse & Sadko",
+        "link": "https://music.163.com/artist?id=947054"
+      },
+      {
+        "name": "Alex Aris",
+        "link": "https://music.163.com/artist?id=13226187"
+      }
+    ],
+    "album": {
+      "name": "Heal Me",
+      "link": "https://music.163.com/album?id=126274116"
+    }
+  },
+  {
+    "name": "Fun（Part.II）",
+    "link": "https://music.163.com/song?id=1856437196",
+    "duration": "04:00",
+    "artists": [
+      { "name": "Satchel", "link": "https://music.163.com/artist?id=1132060" }
+    ],
+    "album": {
+      "name": "Fun（Part.II）",
+      "link": "https://music.163.com/album?id=129553341"
+    }
+  },
+  {
+    "name": "Beyond Beliefs",
+    "link": "https://music.163.com/song?id=1858549602",
+    "duration": "05:13",
+    "artists": [
+      {
+        "name": "Ben Böhmer",
+        "link": "https://music.163.com/artist?id=13080362"
+      }
+    ],
+    "album": {
+      "name": "Beyond Beliefs",
+      "link": "https://music.163.com/album?id=129926483"
+    }
+  },
+  {
+    "name": "Try (feat. RØRY)",
+    "link": "https://music.163.com/song?id=1835266137",
+    "duration": "04:12",
+    "artists": [
+      { "name": "MitiS", "link": "https://music.163.com/artist?id=40245" },
+      { "name": "RØRY", "link": "https://music.163.com/artist?id=28774080" }
+    ],
+    "album": {
+      "name": "Lost",
+      "link": "https://music.163.com/album?id=125636092"
+    }
+  },
+  {
+    "name": "Life Goes On",
+    "link": "https://music.163.com/song?id=1848206679",
+    "duration": "02:41",
+    "artists": [
+      {
+        "name": "Oliver Tree",
+        "link": "https://music.163.com/artist?id=12447098"
+      }
+    ],
+    "album": {
+      "name": "Ugly is Beautiful: Shorter, Thicker & Uglier (Deluxe)",
+      "link": "https://music.163.com/album?id=128016227"
+    }
+  },
+  {
+    "name": "Eclipse",
+    "link": "https://music.163.com/song?id=553815184",
+    "duration": "04:31",
+    "artists": [
+      { "name": "Burgess", "link": "https://music.163.com/artist?id=477655" },
+      { "name": "JESSIA", "link": "https://music.163.com/artist?id=15142184" }
+    ],
+    "album": {
+      "name": "Eclipse",
+      "link": "https://music.163.com/album?id=38403050"
+    }
+  },
+  {
+    "name": "Invisible",
+    "link": "https://music.163.com/song?id=1320446769",
+    "duration": "03:21",
+    "artists": [
+      {
+        "name": "Julius Dreisig",
+        "link": "https://music.163.com/artist?id=12389151"
+      },
+      {
+        "name": "Zeus X Crona",
+        "link": "https://music.163.com/artist?id=27743146"
+      }
+    ],
+    "album": {
+      "name": "Invisible",
+      "link": "https://music.163.com/album?id=74091298"
+    }
+  },
+  {
+    "name": "Supreme",
+    "link": "https://music.163.com/song?id=26612934",
+    "duration": "03:31",
+    "artists": [
+      {
+        "name": "Postiljonen",
+        "link": "https://music.163.com/artist?id=725356"
+      }
+    ],
+    "album": {
+      "name": "Skyer",
+      "link": "https://music.163.com/album?id=2535635"
+    }
+  },
+  {
+    "name": "Abandoned",
+    "link": "https://music.163.com/song?id=38019035",
+    "duration": "03:04",
+    "artists": [
+      { "name": "Resonance", "link": "https://music.163.com/artist?id=196588" }
+    ],
+    "album": {
+      "name": "Abandoned",
+      "link": "https://music.163.com/album?id=3427011"
+    }
+  },
+  {
+    "name": "Without You (Radio Edit)",
+    "link": "https://music.163.com/song?id=1417071862",
+    "duration": "03:05",
+    "artists": [
+      {
+        "name": "Luca Testa",
+        "link": "https://music.163.com/artist?id=1181227"
+      }
+    ],
+    "album": {
+      "name": "Without You (Radio Edit)",
+      "link": "https://music.163.com/album?id=85021545"
+    }
+  },
+  {
+    "name": "Back To Life",
+    "link": "https://music.163.com/song?id=1483394793",
+    "duration": "03:21",
+    "artists": [
+      { "name": "ReOrder", "link": "https://music.163.com/artist?id=207490" },
+      {
+        "name": "Sarah De Warren",
+        "link": "https://music.163.com/artist?id=13222653"
+      }
+    ],
+    "album": {
+      "name": "Back To Life",
+      "link": "https://music.163.com/album?id=96156745"
+    }
+  },
+  {
+    "name": "Life Cycle",
+    "link": "https://music.163.com/song?id=34002409",
+    "duration": "04:14",
+    "artists": [
+      { "name": "Mapps", "link": "https://music.163.com/artist?id=509267" },
+      { "name": "AK", "link": "https://music.163.com/artist?id=1192509" }
+    ],
+    "album": {
+      "name": "Life Cycle",
+      "link": "https://music.163.com/album?id=3264363"
+    }
+  },
+  {
+    "name": "Roaming",
+    "link": "https://music.163.com/song?id=1372979770",
+    "duration": "02:48",
+    "artists": [
+      { "name": "Enzalla", "link": "https://music.163.com/artist?id=1137013" },
+      { "name": "Aerith", "link": "https://music.163.com/artist?id=32226539" }
+    ],
+    "album": {
+      "name": "Timelapse",
+      "link": "https://music.163.com/album?id=79900221"
+    }
+  },
+  {
+    "name": "Shake The Ground",
+    "link": "https://music.163.com/song?id=1475423060",
+    "duration": "03:33",
+    "artists": [
+      {
+        "name": "Wildstylez",
+        "link": "https://music.163.com/artist?id=666014"
+      },
+      { "name": "Noubya", "link": "https://music.163.com/artist?id=13174054" }
+    ],
+    "album": {
+      "name": "Shake The Ground (feat. Noubya)",
+      "link": "https://music.163.com/album?id=94725248"
+    }
+  },
+  {
+    "name": "Fasinating",
+    "link": "https://music.163.com/song?id=1848322495",
+    "duration": "04:16",
+    "artists": [
+      { "name": "Zoffy", "link": "https://music.163.com/artist?id=34825298" }
+    ],
+    "album": {
+      "name": "Fascinating",
+      "link": "https://music.163.com/album?id=128032337"
+    }
+  },
+  {
+    "name": "To Edinburgh",
+    "link": "https://music.163.com/song?id=1457421954",
+    "duration": "04:26",
+    "artists": [
+      { "name": "IAN POST", "link": "https://music.163.com/artist?id=34216586" }
+    ],
+    "album": {
+      "name": "The Highlands",
+      "link": "https://music.163.com/album?id=91343241"
+    }
+  },
+  {
+    "name": "Hue",
+    "link": "https://music.163.com/song?id=1355169880",
+    "duration": "04:06",
+    "artists": [
+      {
+        "name": "Dave Thomas Junior",
+        "link": "https://music.163.com/artist?id=32233"
+      }
+    ],
+    "album": {
+      "name": "Hue",
+      "link": "https://music.163.com/album?id=78245972"
+    }
+  },
+  {
+    "name": "Parade (Nüwa Bootleg)",
+    "link": "https://music.163.com/song?id=1410215100",
+    "duration": "05:10",
+    "artists": [
+      { "name": "Nüwa", "link": "https://music.163.com/artist?id=12279184" }
+    ],
+    "album": {
+      "name": "Parade (Nüwa Bootleg)",
+      "link": "https://music.163.com/album?id=84151417"
+    }
+  },
+  {
+    "name": "十年 (OT: 明年今日)",
+    "link": "https://music.163.com/song?id=1897927515",
+    "duration": "03:25",
+    "artists": [
+      { "name": "陈奕迅", "link": "https://music.163.com/artist?id=2116" }
+    ],
+    "album": {
+      "name": "陈奕迅 国语精选",
+      "link": "https://music.163.com/album?id=136598512"
+    }
+  },
+  {
+    "name": "一决高下",
+    "link": "https://music.163.com/song?id=1851356582",
+    "duration": "02:46",
+    "artists": [
+      { "name": "KillR", "link": "https://music.163.com/artist?id=48355595" }
+    ],
+    "album": {
+      "name": "FIGHT",
+      "link": "https://music.163.com/album?id=128572892"
+    }
+  },
+  {
+    "name": "Easy Way Out (Original Mix)",
+    "link": "https://music.163.com/song?id=548575221",
+    "duration": "04:05",
+    "artists": [
+      { "name": "Solis", "link": "https://music.163.com/artist?id=131066" },
+      {
+        "name": "Sean Truby",
+        "link": "https://music.163.com/artist?id=207736"
+      },
+      { "name": "Cari", "link": "https://music.163.com/artist?id=1132863" }
+    ],
+    "album": {
+      "name": "Easy Way Out",
+      "link": "https://music.163.com/album?id=38065297"
+    }
+  },
+  {
+    "name": "平行线",
+    "link": "https://music.163.com/song?id=1912639411",
+    "duration": "03:32",
+    "artists": [
+      { "name": "李学仕", "link": "https://music.163.com/artist?id=12349011" }
+    ],
+    "album": {
+      "name": "平行线",
+      "link": "https://music.163.com/album?id=138967064"
+    }
+  },
+  {
+    "name": "天地似无情",
+    "link": "https://music.163.com/song?id=1912171278",
+    "duration": "02:05",
+    "artists": [
+      { "name": "李倩子", "link": "https://music.163.com/artist?id=51129376" }
+    ],
+    "album": {
+      "name": "不要结婚了",
+      "link": "https://music.163.com/album?id=138801081"
+    }
+  },
+  {
+    "name": "To Be Lonely",
+    "link": "https://music.163.com/song?id=571338649",
+    "duration": "04:08",
+    "artists": [
+      { "name": "JRS", "link": "https://music.163.com/artist?id=12262090" }
+    ],
+    "album": {
+      "name": "To Be Lonely",
+      "link": "https://music.163.com/album?id=39593204"
+    }
+  },
+  {
+    "name": "On Our Own",
+    "link": "https://music.163.com/song?id=504265178",
+    "duration": "03:09",
+    "artists": [
+      {
+        "name": "Bruno Major",
+        "link": "https://music.163.com/artist?id=12250109"
+      }
+    ],
+    "album": {
+      "name": "On Our Own",
+      "link": "https://music.163.com/album?id=36149049"
+    }
+  },
+  {
+    "name": "Morning Golden Sunrise",
+    "link": "https://music.163.com/song?id=479938184",
+    "duration": "03:57",
+    "artists": [
+      {
+        "name": "Chris Tall",
+        "link": "https://music.163.com/artist?id=12054020"
+      }
+    ],
+    "album": {
+      "name": "Morning Golden Sunrise",
+      "link": "https://music.163.com/album?id=35544355"
+    }
+  },
+  {
+    "name": "我不会死在明天",
+    "link": "https://music.163.com/song?id=1900850584",
+    "duration": "02:53",
+    "artists": [
+      { "name": "Van Gogh", "link": "https://music.163.com/artist?id=34077757" }
+    ],
+    "album": {
+      "name": "对话",
+      "link": "https://music.163.com/album?id=137057906"
+    }
+  },
+  {
+    "name": "温差",
+    "link": "https://music.163.com/song?id=1912859588",
+    "duration": "04:22",
+    "artists": [
+      { "name": "伍嘉成", "link": "https://music.163.com/artist?id=13923085" },
+      { "name": "锤娜丽莎", "link": "https://music.163.com/artist?id=31964717" }
+    ],
+    "album": {
+      "name": "温差",
+      "link": "https://music.163.com/album?id=139008331"
+    }
+  },
+  {
+    "name": "不再联系",
+    "link": "https://music.163.com/song?id=1408795316",
+    "duration": "03:49",
+    "artists": [
+      { "name": "明歆悦", "link": "https://music.163.com/artist?id=33876611" }
+    ],
+    "album": {
+      "name": "不再联系",
+      "link": "https://music.163.com/album?id=83993759"
+    }
+  },
+  {
+    "name": "Drown (feat. Clinton Kane) (Alle Farben Remix)",
+    "link": "https://music.163.com/song?id=1437031748",
+    "duration": "02:49",
+    "artists": [
+      {
+        "name": "Martin Garrix",
+        "link": "https://music.163.com/artist?id=780003"
+      },
+      {
+        "name": "Clinton Kane",
+        "link": "https://music.163.com/artist?id=32796183"
+      },
+      {
+        "name": "Alle Farben",
+        "link": "https://music.163.com/artist?id=206027"
+      }
+    ],
+    "album": {
+      "name": "Drown (feat. Clinton Kane) (Alle Farben Remix)",
+      "link": "https://music.163.com/album?id=87513279"
+    }
+  },
+  {
+    "name": "Beautiful",
+    "link": "https://music.163.com/song?id=1806793913",
+    "duration": "03:44",
+    "artists": [
+      { "name": "Jay Sean", "link": "https://music.163.com/artist?id=35355" }
+    ],
+    "album": {
+      "name": "M3",
+      "link": "https://music.163.com/album?id=120836753"
+    }
+  },
+  {
+    "name": "Да да да (Jarico Remix) - (嗯 嗯 嗯)",
+    "link": "https://music.163.com/song?id=1397021895",
+    "duration": "03:34",
+    "artists": [
+      { "name": "Tanir", "link": "https://music.163.com/artist?id=12533932" },
+      { "name": "Tyomcha", "link": "https://music.163.com/artist?id=28512500" },
+      { "name": "Jarico", "link": "https://music.163.com/artist?id=13042433" }
+    ],
+    "album": {
+      "name": "Да да да (Jarico Remix)",
+      "link": "https://music.163.com/album?id=82419070"
+    }
+  },
+  {
+    "name": "Beautiful World (Da Capo Version)",
+    "link": "https://music.163.com/song?id=1910937519",
+    "duration": "05:57",
+    "artists": [
+      {
+        "name": "宇多田ヒカル",
+        "link": "https://music.163.com/artist?id=18122"
+      }
+    ],
+    "album": {
+      "name": "BADモード",
+      "link": "https://music.163.com/album?id=138676183"
+    }
+  }
+]
