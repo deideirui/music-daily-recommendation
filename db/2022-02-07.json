@@ -1,0 +1,478 @@
+[
+  {
+    "name": "Sail Away",
+    "link": "https://music.163.com/song?id=1893400815",
+    "duration": "04:17",
+    "artists": [
+      { "name": "Teminite", "link": "https://music.163.com/artist?id=1049513" }
+    ],
+    "album": {
+      "name": "Sail Away",
+      "link": "https://music.163.com/album?id=135845234"
+    }
+  },
+  {
+    "name": "Waiting On You (Feat. SØPHIA)",
+    "link": "https://music.163.com/song?id=1397191263",
+    "duration": "02:48",
+    "artists": [
+      { "name": "ThimLife", "link": "https://music.163.com/artist?id=1046016" },
+      { "name": "SØPHIA", "link": "https://music.163.com/artist?id=33590275" }
+    ],
+    "album": {
+      "name": "Waiting On You",
+      "link": "https://music.163.com/album?id=82443989"
+    }
+  },
+  {
+    "name": "Silhouette",
+    "link": "https://music.163.com/song?id=1398764652",
+    "duration": "03:28",
+    "artists": [
+      { "name": "Bvrnout", "link": "https://music.163.com/artist?id=12046065" },
+      { "name": "AXYL", "link": "https://music.163.com/artist?id=31244261" }
+    ],
+    "album": {
+      "name": "Silhouette",
+      "link": "https://music.163.com/album?id=82671946"
+    }
+  },
+  {
+    "name": "It Don’t Matter",
+    "link": "https://music.163.com/song?id=1893103652",
+    "duration": "02:50",
+    "artists": [
+      { "name": "Alok", "link": "https://music.163.com/artist?id=1170012" },
+      {
+        "name": "Sofi Tukker",
+        "link": "https://music.163.com/artist?id=12009099"
+      },
+      { "name": "INNA", "link": "https://music.163.com/artist?id=60848" }
+    ],
+    "album": {
+      "name": "It Don’t Matter",
+      "link": "https://music.163.com/album?id=135806278"
+    }
+  },
+  {
+    "name": "Strawberry Fields",
+    "link": "https://music.163.com/song?id=1912949980",
+    "duration": "02:51",
+    "artists": [
+      { "name": "Jacoo", "link": "https://music.163.com/artist?id=347497" }
+    ],
+    "album": {
+      "name": "Strawberry Fields",
+      "link": "https://music.163.com/album?id=139023667"
+    }
+  },
+  {
+    "name": "Down On My Knees",
+    "link": "https://music.163.com/song?id=18728252",
+    "duration": "03:15",
+    "artists": [
+      {
+        "name": "Jennifer Rush",
+        "link": "https://music.163.com/artist?id=62600"
+      }
+    ],
+    "album": {
+      "name": "Now Is The Hour",
+      "link": "https://music.163.com/album?id=1716955"
+    }
+  },
+  {
+    "name": "Chasing The Night",
+    "link": "https://music.163.com/song?id=1406599484",
+    "duration": "02:57",
+    "artists": [
+      { "name": "Diviners", "link": "https://music.163.com/artist?id=1192136" },
+      {
+        "name": "Marin Hoxha",
+        "link": "https://music.163.com/artist?id=12474391"
+      },
+      { "name": "Exede", "link": "https://music.163.com/artist?id=13059879" }
+    ],
+    "album": {
+      "name": "Chasing The Night",
+      "link": "https://music.163.com/album?id=83763643"
+    }
+  },
+  {
+    "name": "Wait For You",
+    "link": "https://music.163.com/song?id=1448265458",
+    "duration": "03:12",
+    "artists": [
+      { "name": "Herrin", "link": "https://music.163.com/artist?id=12279436" },
+      { "name": "Vaance", "link": "https://music.163.com/artist?id=13160077" },
+      { "name": "Luma", "link": "https://music.163.com/artist?id=211460" }
+    ],
+    "album": {
+      "name": "Wait For You",
+      "link": "https://music.163.com/album?id=89482842"
+    }
+  },
+  {
+    "name": "Broken Glass",
+    "link": "https://music.163.com/song?id=1447684658",
+    "duration": "03:24",
+    "artists": [
+      { "name": "Sabai", "link": "https://music.163.com/artist?id=32093901" },
+      { "name": "Merseh", "link": "https://music.163.com/artist?id=35246030" }
+    ],
+    "album": {
+      "name": "Broken Glass",
+      "link": "https://music.163.com/album?id=89367275"
+    }
+  },
+  {
+    "name": "I'll Be There",
+    "link": "https://music.163.com/song?id=1410358801",
+    "duration": "03:13",
+    "artists": [
+      { "name": "Rumsky", "link": "https://music.163.com/artist?id=32766283" },
+      { "name": "Mabryx", "link": "https://music.163.com/artist?id=29780708" }
+    ],
+    "album": {
+      "name": "I'll Be There",
+      "link": "https://music.163.com/album?id=84179469"
+    }
+  },
+  {
+    "name": "Covers (feat. Riell)",
+    "link": "https://music.163.com/song?id=1483882287",
+    "duration": "03:07",
+    "artists": [
+      {
+        "name": "Shadowkey & Zalenn",
+        "link": "https://music.163.com/artist?id=37009023"
+      }
+    ],
+    "album": {
+      "name": "Covers (feat. Riell)",
+      "link": "https://music.163.com/album?id=96246333"
+    }
+  },
+  {
+    "name": "Last Mistake",
+    "link": "https://music.163.com/song?id=1448104873",
+    "duration": "03:21",
+    "artists": [
+      { "name": "Advent", "link": "https://music.163.com/artist?id=12309081" },
+      { "name": "AKACIA", "link": "https://music.163.com/artist?id=12263377" }
+    ],
+    "album": {
+      "name": "Last Mistake",
+      "link": "https://music.163.com/album?id=89448147"
+    }
+  },
+  {
+    "name": "Do I Know Myself",
+    "link": "https://music.163.com/song?id=1885074733",
+    "duration": "03:03",
+    "artists": [
+      {
+        "name": "Justin Mylo",
+        "link": "https://music.163.com/artist?id=12082294"
+      },
+      {
+        "name": "Aidan O'Brien",
+        "link": "https://music.163.com/artist?id=13372303"
+      }
+    ],
+    "album": {
+      "name": "Do I Know Myself",
+      "link": "https://music.163.com/album?id=134443032"
+    }
+  },
+  {
+    "name": "Envoy",
+    "link": "https://music.163.com/song?id=1466337286",
+    "duration": "03:30",
+    "artists": [
+      { "name": "Andreas B.", "link": "https://music.163.com/artist?id=299713" }
+    ],
+    "album": {
+      "name": "Envoy",
+      "link": "https://music.163.com/album?id=93112143"
+    }
+  },
+  {
+    "name": "Breathe Again (Original Mix)",
+    "link": "https://music.163.com/song?id=1387292908",
+    "duration": "03:31",
+    "artists": [
+      { "name": "Man Cub", "link": "https://music.163.com/artist?id=30816484" }
+    ],
+    "album": {
+      "name": "Breathe Again",
+      "link": "https://music.163.com/album?id=81221265"
+    }
+  },
+  {
+    "name": "Light of Mine",
+    "link": "https://music.163.com/song?id=1887193893",
+    "duration": "02:30",
+    "artists": [
+      {
+        "name": "Whipped Cream",
+        "link": "https://music.163.com/artist?id=12023372"
+      },
+      { "name": "Jimorrow", "link": "https://music.163.com/artist?id=50168154" }
+    ],
+    "album": {
+      "name": "Light of Mine",
+      "link": "https://music.163.com/album?id=134824824"
+    }
+  },
+  {
+    "name": "Dreams",
+    "link": "https://music.163.com/song?id=536624051",
+    "duration": "02:41",
+    "artists": [
+      { "name": "DOLF", "link": "https://music.163.com/artist?id=12289177" },
+      {
+        "name": "Weird Genius",
+        "link": "https://music.163.com/artist?id=12712087"
+      },
+      { "name": "Rochelle", "link": "https://music.163.com/artist?id=72994" }
+    ],
+    "album": {
+      "name": "Dreams",
+      "link": "https://music.163.com/album?id=37577029"
+    }
+  },
+  {
+    "name": "Flying Magic",
+    "link": "https://music.163.com/song?id=1425996156",
+    "duration": "02:59",
+    "artists": [
+      { "name": "Couple N", "link": "https://music.163.com/artist?id=29832422" }
+    ],
+    "album": {
+      "name": "Magical Pieces",
+      "link": "https://music.163.com/album?id=85987152"
+    }
+  },
+  {
+    "name": "Relive",
+    "link": "https://music.163.com/song?id=1817885010",
+    "duration": "03:37",
+    "artists": [
+      { "name": "Atef", "link": "https://music.163.com/artist?id=12073068" }
+    ],
+    "album": {
+      "name": "Relive",
+      "link": "https://music.163.com/album?id=122596817"
+    }
+  },
+  {
+    "name": "Dive",
+    "link": "https://music.163.com/song?id=1865927708",
+    "duration": "02:54",
+    "artists": [
+      { "name": "Kaaze", "link": "https://music.163.com/artist?id=952052" }
+    ],
+    "album": {
+      "name": "Dive",
+      "link": "https://music.163.com/album?id=131178002"
+    }
+  },
+  {
+    "name": "Good Time",
+    "link": "https://music.163.com/song?id=1868206902",
+    "duration": "02:57",
+    "artists": [
+      { "name": "Don Diablo", "link": "https://music.163.com/artist?id=139072" }
+    ],
+    "album": {
+      "name": "FORΞVΞR",
+      "link": "https://music.163.com/album?id=131549673"
+    }
+  },
+  {
+    "name": "Fell In Love With An Alien",
+    "link": "https://music.163.com/song?id=1844012847",
+    "duration": "02:55",
+    "artists": [
+      {
+        "name": "Mike Perry",
+        "link": "https://music.163.com/artist?id=195021"
+      },
+      { "name": "Mentum", "link": "https://music.163.com/artist?id=15047816" }
+    ],
+    "album": {
+      "name": "Fell In Love With An Alien",
+      "link": "https://music.163.com/album?id=127200641"
+    }
+  },
+  {
+    "name": "Distraction (Original Mix)",
+    "link": "https://music.163.com/song?id=425684226",
+    "duration": "04:09",
+    "artists": [
+      { "name": "Joe Lyons", "link": "https://music.163.com/artist?id=498067" }
+    ],
+    "album": {
+      "name": "Distraction",
+      "link": "https://music.163.com/album?id=34816627"
+    }
+  },
+  {
+    "name": "Telepathy",
+    "link": "https://music.163.com/song?id=1339219109",
+    "duration": "03:49",
+    "artists": [
+      { "name": "Jai Wolf", "link": "https://music.163.com/artist?id=1063048" }
+    ],
+    "album": {
+      "name": "The Cure To Loneliness",
+      "link": "https://music.163.com/album?id=78300643"
+    }
+  },
+  {
+    "name": "Back To Me (feat. Bella Renee)",
+    "link": "https://music.163.com/song?id=1835265191",
+    "duration": "04:02",
+    "artists": [
+      { "name": "MitiS", "link": "https://music.163.com/artist?id=40245" },
+      {
+        "name": "Bella Renee",
+        "link": "https://music.163.com/artist?id=32670387"
+      }
+    ],
+    "album": {
+      "name": "Lost",
+      "link": "https://music.163.com/album?id=125636092"
+    }
+  },
+  {
+    "name": "Drift",
+    "link": "https://music.163.com/song?id=1876272740",
+    "duration": "02:44",
+    "artists": [
+      { "name": "Syn Cole", "link": "https://music.163.com/artist?id=854432" }
+    ],
+    "album": {
+      "name": "Drift",
+      "link": "https://music.163.com/album?id=132885614"
+    }
+  },
+  {
+    "name": "Real Life (feat. Annie Schindel)",
+    "link": "https://music.163.com/song?id=1887906214",
+    "duration": "03:45",
+    "artists": [
+      {
+        "name": "William Black",
+        "link": "https://music.163.com/artist?id=248957"
+      },
+      {
+        "name": "Annie Schindel",
+        "link": "https://music.163.com/artist?id=35558530"
+      }
+    ],
+    "album": {
+      "name": "Pieces",
+      "link": "https://music.163.com/album?id=134921399"
+    }
+  },
+  {
+    "name": "Wake Up (Sondr Remix)",
+    "link": "https://music.163.com/song?id=434266864",
+    "duration": "03:06",
+    "artists": [
+      {
+        "name": "Chelsea Cutler",
+        "link": "https://music.163.com/artist?id=1150112"
+      },
+      { "name": "Sondr", "link": "https://music.163.com/artist?id=12023180" }
+    ],
+    "album": {
+      "name": "Wake Up (Remixes)",
+      "link": "https://music.163.com/album?id=34900485"
+    }
+  },
+  {
+    "name": "Friday",
+    "link": "https://music.163.com/song?id=1335916622",
+    "duration": "02:19",
+    "artists": [
+      { "name": "MOTi", "link": "https://music.163.com/artist?id=366384" },
+      { "name": "JGUAR", "link": "https://music.163.com/artist?id=31100599" }
+    ],
+    "album": {
+      "name": "Friday",
+      "link": "https://music.163.com/album?id=74993937"
+    }
+  },
+  {
+    "name": "Riff",
+    "link": "https://music.163.com/song?id=1492934645",
+    "duration": "02:50",
+    "artists": [
+      { "name": "Milkoi", "link": "https://music.163.com/artist?id=12426032" }
+    ],
+    "album": {
+      "name": "Riff",
+      "link": "https://music.163.com/album?id=97894272"
+    }
+  },
+  {
+    "name": "America 2",
+    "link": "https://music.163.com/song?id=1299563899",
+    "duration": "04:01",
+    "artists": [
+      {
+        "name": "The Midnight",
+        "link": "https://music.163.com/artist?id=12023492"
+      }
+    ],
+    "album": {
+      "name": "America 2",
+      "link": "https://music.163.com/album?id=72071263"
+    }
+  },
+  {
+    "name": "Frozen Fire",
+    "link": "https://music.163.com/song?id=1893616751",
+    "duration": "03:55",
+    "artists": [
+      {
+        "name": "Blasterjaxx",
+        "link": "https://music.163.com/artist?id=711692"
+      }
+    ],
+    "album": {
+      "name": "Frozen Fire",
+      "link": "https://music.163.com/album?id=135890608"
+    }
+  },
+  {
+    "name": "一吻天荒 - (电视剧《轩辕剑之天之痕》片头曲)",
+    "link": "https://music.163.com/song?id=391566",
+    "duration": "04:10",
+    "artists": [
+      { "name": "胡歌", "link": "https://music.163.com/artist?id=3064" }
+    ],
+    "album": {
+      "name": "轩辕剑之天之痕 电视原声大碟",
+      "link": "https://music.163.com/album?id=38789"
+    }
+  },
+  {
+    "name": "Light Switch (Instrumental)",
+    "link": "https://music.163.com/song?id=1917721222",
+    "duration": "03:05",
+    "artists": [
+      {
+        "name": "Charlie Puth",
+        "link": "https://music.163.com/artist?id=90331"
+      }
+    ],
+    "album": {
+      "name": "Light Switch (Instrumental)",
+      "link": "https://music.163.com/album?id=139943800"
+    }
+  }
+]
