@@ -1,0 +1,507 @@
+[
+  {
+    "name": "Inside",
+    "link": "https://music.163.com/song?id=1478565043",
+    "duration": "03:22",
+    "artists": [
+      {
+        "name": "PIKASONIC",
+        "link": "https://music.163.com/artist?id=13499634"
+      }
+    ],
+    "album": {
+      "name": "Inside",
+      "link": "https://music.163.com/album?id=95294581"
+    }
+  },
+  {
+    "name": "Paper Planes (Ryo Nakamura Remix)",
+    "link": "https://music.163.com/song?id=1386200942",
+    "duration": "05:42",
+    "artists": [
+      {
+        "name": "Roald Velden",
+        "link": "https://music.163.com/artist?id=178498"
+      },
+      {
+        "name": "Ryo Nakamura",
+        "link": "https://music.163.com/artist?id=1038215"
+      }
+    ],
+    "album": {
+      "name": "Paper Planes [REMIXED]",
+      "link": "https://music.163.com/album?id=81119759"
+    }
+  },
+  {
+    "name": "Youthful",
+    "link": "https://music.163.com/song?id=1830760818",
+    "duration": "02:41",
+    "artists": [
+      { "name": "Flay!", "link": "https://music.163.com/artist?id=31383732" }
+    ],
+    "album": {
+      "name": "Youthful",
+      "link": "https://music.163.com/album?id=124772502"
+    }
+  },
+  {
+    "name": "Hold On To Me",
+    "link": "https://music.163.com/song?id=1468764302",
+    "duration": "03:27",
+    "artists": [
+      { "name": "Dimatis", "link": "https://music.163.com/artist?id=1087344" },
+      { "name": "Bayza", "link": "https://music.163.com/artist?id=12691118" }
+    ],
+    "album": {
+      "name": "Hold On To Me",
+      "link": "https://music.163.com/album?id=93564812"
+    }
+  },
+  {
+    "name": "Don't Look Down",
+    "link": "https://music.163.com/song?id=1916750769",
+    "duration": "03:58",
+    "artists": [
+      {
+        "name": "Approaching Nirvana",
+        "link": "https://music.163.com/artist?id=86884"
+      }
+    ],
+    "album": {
+      "name": "Don't Look Down",
+      "link": "https://music.163.com/album?id=139722143"
+    }
+  },
+  {
+    "name": "Feel The Fire (Egzod Remix)",
+    "link": "https://music.163.com/song?id=444324932",
+    "duration": "03:18",
+    "artists": [
+      { "name": "Pluto", "link": "https://music.163.com/artist?id=12098062" },
+      { "name": "ye.", "link": "https://music.163.com/artist?id=12061025" },
+      { "name": "Egzod", "link": "https://music.163.com/artist?id=11970036" }
+    ],
+    "album": {
+      "name": "Feel The Fire (Remixes)",
+      "link": "https://music.163.com/album?id=35012407"
+    }
+  },
+  {
+    "name": "2U",
+    "link": "https://music.163.com/song?id=1444570674",
+    "duration": "03:30",
+    "artists": [
+      {
+        "name": "Bad Computer",
+        "link": "https://music.163.com/artist?id=12647410"
+      }
+    ],
+    "album": { "name": "2U", "link": "https://music.163.com/album?id=88749777" }
+  },
+  {
+    "name": "Change It",
+    "link": "https://music.163.com/song?id=1817797708",
+    "duration": "02:49",
+    "artists": [
+      { "name": "Axero", "link": "https://music.163.com/artist?id=1035020" }
+    ],
+    "album": {
+      "name": "Change It",
+      "link": "https://music.163.com/album?id=122586936"
+    }
+  },
+  {
+    "name": "No Rest",
+    "link": "https://music.163.com/song?id=1816405501",
+    "duration": "03:29",
+    "artists": [
+      { "name": "Vicetone", "link": "https://music.163.com/artist?id=747030" }
+    ],
+    "album": {
+      "name": "Legacy",
+      "link": "https://music.163.com/album?id=122372498"
+    }
+  },
+  {
+    "name": "Devil Looks After His Own",
+    "link": "https://music.163.com/song?id=1894252175",
+    "duration": "03:16",
+    "artists": [
+      {
+        "name": "Blackcode",
+        "link": "https://music.163.com/artist?id=30013002"
+      },
+      { "name": "Heleen", "link": "https://music.163.com/artist?id=28866940" }
+    ],
+    "album": {
+      "name": "Darkness Into Light EP",
+      "link": "https://music.163.com/album?id=136028699"
+    }
+  },
+  {
+    "name": "Better With You",
+    "link": "https://music.163.com/song?id=1348939361",
+    "duration": "03:12",
+    "artists": [
+      { "name": "3LAU", "link": "https://music.163.com/artist?id=762511" },
+      {
+        "name": "Justin Caruso",
+        "link": "https://music.163.com/artist?id=1193462"
+      },
+      {
+        "name": "Iselin Solheim",
+        "link": "https://music.163.com/artist?id=1078390"
+      }
+    ],
+    "album": {
+      "name": "Better With You",
+      "link": "https://music.163.com/album?id=75727400"
+    }
+  },
+  {
+    "name": "Fade Out (Dark Heart Remix)",
+    "link": "https://music.163.com/song?id=1388968659",
+    "duration": "02:57",
+    "artists": [
+      { "name": "SeeB", "link": "https://music.163.com/artist?id=1182169" },
+      {
+        "name": "Dark Heart",
+        "link": "https://music.163.com/artist?id=11991145"
+      }
+    ],
+    "album": {
+      "name": "Fade Out (Dark Heart Remix)",
+      "link": "https://music.163.com/album?id=81397469"
+    }
+  },
+  {
+    "name": "SOS",
+    "link": "https://music.163.com/song?id=1370108693",
+    "duration": "02:37",
+    "artists": [
+      { "name": "Avicii", "link": "https://music.163.com/artist?id=45236" },
+      { "name": "Aloe Blacc", "link": "https://music.163.com/artist?id=47425" }
+    ],
+    "album": {
+      "name": "TIM",
+      "link": "https://music.163.com/album?id=79638731"
+    }
+  },
+  {
+    "name": "Curtain Call",
+    "link": "https://music.163.com/song?id=1414940085",
+    "duration": "02:29",
+    "artists": [
+      {
+        "name": "Steam Phunk",
+        "link": "https://music.163.com/artist?id=1177079"
+      },
+      {
+        "name": "Lucy Neville",
+        "link": "https://music.163.com/artist?id=12031372"
+      }
+    ],
+    "album": {
+      "name": "Curtain Call",
+      "link": "https://music.163.com/album?id=84797920"
+    }
+  },
+  {
+    "name": "Trust Me",
+    "link": "https://music.163.com/song?id=1300639231",
+    "duration": "03:08",
+    "artists": [
+      { "name": "NATIIVE", "link": "https://music.163.com/artist?id=13775064" },
+      {
+        "name": "Gloria Kim",
+        "link": "https://music.163.com/artist?id=1163012"
+      }
+    ],
+    "album": {
+      "name": "Trust Me",
+      "link": "https://music.163.com/album?id=72243913"
+    }
+  },
+  {
+    "name": "abc (The Wild Remix)",
+    "link": "https://music.163.com/song?id=1908067287",
+    "duration": "03:02",
+    "artists": [
+      { "name": "GAYLE", "link": "https://music.163.com/artist?id=34255991" },
+      { "name": "The Wild", "link": "https://music.163.com/artist?id=448964" }
+    ],
+    "album": {
+      "name": "abc (The Wild Remix)",
+      "link": "https://music.163.com/album?id=138206143"
+    }
+  },
+  {
+    "name": "Fairy Lights (Mark & Lukas Remix)",
+    "link": "https://music.163.com/song?id=1376905012",
+    "duration": "05:38",
+    "artists": [
+      { "name": "Axxound", "link": "https://music.163.com/artist?id=1179159" },
+      {
+        "name": "Mark & Lukas",
+        "link": "https://music.163.com/artist?id=1104097"
+      }
+    ],
+    "album": {
+      "name": "Fairy Lights",
+      "link": "https://music.163.com/album?id=80294543"
+    }
+  },
+  {
+    "name": "Stuck On You (feat. Donna Tella)",
+    "link": "https://music.163.com/song?id=1912836151",
+    "duration": "03:14",
+    "artists": [
+      { "name": "Blanke", "link": "https://music.163.com/artist?id=13369420" },
+      {
+        "name": "Donna Tella",
+        "link": "https://music.163.com/artist?id=15382106"
+      }
+    ],
+    "album": {
+      "name": "Stuck On You (feat. Donna Tella)",
+      "link": "https://music.163.com/album?id=139003634"
+    }
+  },
+  {
+    "name": "Ghost",
+    "link": "https://music.163.com/song?id=1879755446",
+    "duration": "03:42",
+    "artists": [
+      { "name": "JVNA", "link": "https://music.163.com/artist?id=28692563" }
+    ],
+    "album": {
+      "name": "Ghost",
+      "link": "https://music.163.com/album?id=133498773"
+    }
+  },
+  {
+    "name": "Reaching Out",
+    "link": "https://music.163.com/song?id=1860070547",
+    "duration": "02:14",
+    "artists": [
+      {
+        "name": "Dillon Francis",
+        "link": "https://music.163.com/artist?id=32514"
+      },
+      {
+        "name": "Bow Anderson",
+        "link": "https://music.163.com/artist?id=34610328"
+      }
+    ],
+    "album": {
+      "name": "Reaching Out",
+      "link": "https://music.163.com/album?id=130175619"
+    }
+  },
+  {
+    "name": "Vertigo (feat. Cecilia Gault)",
+    "link": "https://music.163.com/song?id=1839625845",
+    "duration": "03:36",
+    "artists": [
+      { "name": "JJD", "link": "https://music.163.com/artist?id=472822" },
+      {
+        "name": "Cecilia Gault",
+        "link": "https://music.163.com/artist?id=28021612"
+      }
+    ],
+    "album": {
+      "name": "Vertigo",
+      "link": "https://music.163.com/album?id=126437252"
+    }
+  },
+  {
+    "name": "Locked Away",
+    "link": "https://music.163.com/song?id=1878129736",
+    "duration": "03:32",
+    "artists": [
+      { "name": "Whales", "link": "https://music.163.com/artist?id=1084015" },
+      {
+        "name": "Courtney Drummey",
+        "link": "https://music.163.com/artist?id=35807622"
+      }
+    ],
+    "album": {
+      "name": "Locked Away",
+      "link": "https://music.163.com/album?id=133224455"
+    }
+  },
+  {
+    "name": "Crime",
+    "link": "https://music.163.com/song?id=504492138",
+    "duration": "02:55",
+    "artists": [
+      { "name": "Grey", "link": "https://music.163.com/artist?id=58424" },
+      { "name": "SKOTT", "link": "https://music.163.com/artist?id=12061139" }
+    ],
+    "album": {
+      "name": "Crime",
+      "link": "https://music.163.com/album?id=36150227"
+    }
+  },
+  {
+    "name": "Dusk Till Dawn",
+    "link": "https://music.163.com/song?id=524148450",
+    "duration": "03:14",
+    "artists": [
+      { "name": "MADILYN", "link": "https://music.163.com/artist?id=69270" }
+    ],
+    "album": {
+      "name": "Dusk Till Dawn",
+      "link": "https://music.163.com/album?id=36978150"
+    }
+  },
+  {
+    "name": "Unite (Omnia Remix)",
+    "link": "https://music.163.com/song?id=542692992",
+    "duration": "03:03",
+    "artists": [
+      {
+        "name": "Roman Messer",
+        "link": "https://music.163.com/artist?id=905394"
+      },
+      {
+        "name": "Betsie Larkin",
+        "link": "https://music.163.com/artist?id=50834"
+      }
+    ],
+    "album": {
+      "name": "Unite (Remixes)",
+      "link": "https://music.163.com/album?id=37834060"
+    }
+  },
+  {
+    "name": "Warriors",
+    "link": "https://music.163.com/song?id=1344439276",
+    "duration": "02:49",
+    "artists": [
+      {
+        "name": "Paris Blohm",
+        "link": "https://music.163.com/artist?id=851710"
+      },
+      { "name": "Nevlin", "link": "https://music.163.com/artist?id=15022237" },
+      { "name": "Romysa", "link": "https://music.163.com/artist?id=31281537" }
+    ],
+    "album": {
+      "name": "Warriors",
+      "link": "https://music.163.com/album?id=75469830"
+    }
+  },
+  {
+    "name": "Tough Love",
+    "link": "https://music.163.com/song?id=1448444533",
+    "duration": "02:42",
+    "artists": [
+      { "name": "J. Lisk", "link": "https://music.163.com/artist?id=12121101" }
+    ],
+    "album": {
+      "name": "Tough Love",
+      "link": "https://music.163.com/album?id=89472142"
+    }
+  },
+  {
+    "name": "Ghost in the Machine",
+    "link": "https://music.163.com/song?id=1826129411",
+    "duration": "04:28",
+    "artists": [
+      { "name": "Trivecta", "link": "https://music.163.com/artist?id=954338" }
+    ],
+    "album": {
+      "name": "Ghost in the Machine",
+      "link": "https://music.163.com/album?id=124127687"
+    }
+  },
+  {
+    "name": "Fly",
+    "link": "https://music.163.com/song?id=1501195689",
+    "duration": "02:40",
+    "artists": [
+      {
+        "name": "Kirara Magic",
+        "link": "https://music.163.com/artist?id=30226109"
+      }
+    ],
+    "album": {
+      "name": "Fly",
+      "link": "https://music.163.com/album?id=99189222"
+    }
+  },
+  {
+    "name": "Peeping Tom (Original Mix)",
+    "link": "https://music.163.com/song?id=508671230",
+    "duration": "03:30",
+    "artists": [
+      {
+        "name": "Jamie Berry",
+        "link": "https://music.163.com/artist?id=336234"
+      },
+      {
+        "name": "Rosie Harte",
+        "link": "https://music.163.com/artist?id=28528573"
+      }
+    ],
+    "album": {
+      "name": "Peeping Tom",
+      "link": "https://music.163.com/album?id=36383914"
+    }
+  },
+  {
+    "name": "SPRING BREAK IN MEXICO",
+    "link": "https://music.163.com/song?id=1356657763",
+    "duration": "03:13",
+    "artists": [
+      { "name": "Hedegaard", "link": "https://music.163.com/artist?id=938013" },
+      { "name": "Treyy G", "link": "https://music.163.com/artist?id=858359" },
+      {
+        "name": "Barbara Moleko",
+        "link": "https://music.163.com/artist?id=303635"
+      }
+    ],
+    "album": {
+      "name": "OBLIVION",
+      "link": "https://music.163.com/album?id=78333445"
+    }
+  },
+  {
+    "name": "Look For The Light",
+    "link": "https://music.163.com/song?id=443876856",
+    "duration": "04:28",
+    "artists": [
+      { "name": "Cyber", "link": "https://music.163.com/artist?id=1072052" },
+      { "name": "Phrantic", "link": "https://music.163.com/artist?id=783297" }
+    ],
+    "album": {
+      "name": "10 Years Dirty Workz",
+      "link": "https://music.163.com/album?id=35023231"
+    }
+  },
+  {
+    "name": "Thokoloshi",
+    "link": "https://music.163.com/song?id=1398528550",
+    "duration": "02:26",
+    "artists": [
+      { "name": "Ehrling", "link": "https://music.163.com/artist?id=12048130" }
+    ],
+    "album": {
+      "name": "Thokoloshi",
+      "link": "https://music.163.com/album?id=82632691"
+    }
+  },
+  {
+    "name": "POP SONG",
+    "link": "https://music.163.com/song?id=1915079946",
+    "duration": "03:19",
+    "artists": [
+      { "name": "米津玄師", "link": "https://music.163.com/artist?id=159300" }
+    ],
+    "album": {
+      "name": "POP SONG",
+      "link": "https://music.163.com/album?id=139436156"
+    }
+  }
+]
