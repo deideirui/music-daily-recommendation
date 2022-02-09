@@ -1,0 +1,507 @@
+[
+  {
+    "name": "Runnin",
+    "link": "https://music.163.com/song?id=1329657649",
+    "duration": "03:39",
+    "artists": [
+      { "name": "Kosling", "link": "https://music.163.com/artist?id=29289583" },
+      { "name": "CHRNS", "link": "https://music.163.com/artist?id=12945477" },
+      { "name": "LUX (US)", "link": "https://music.163.com/artist?id=35049288" }
+    ],
+    "album": {
+      "name": "Runnin",
+      "link": "https://music.163.com/album?id=74669786"
+    }
+  },
+  {
+    "name": "Rooftop",
+    "link": "https://music.163.com/song?id=1456602326",
+    "duration": "03:13",
+    "artists": [
+      { "name": "MVRT", "link": "https://music.163.com/artist?id=35396819" },
+      {
+        "name": "Vijay & Sofia Zlatko",
+        "link": "https://music.163.com/artist?id=1155154"
+      }
+    ],
+    "album": {
+      "name": "Rooftop",
+      "link": "https://music.163.com/album?id=91205407"
+    }
+  },
+  {
+    "name": "I Won't Lie",
+    "link": "https://music.163.com/song?id=1342819249",
+    "duration": "03:11",
+    "artists": [
+      {
+        "name": "Skye Holland",
+        "link": "https://music.163.com/artist?id=12356427"
+      },
+      { "name": "BRDGS", "link": "https://music.163.com/artist?id=12841815" }
+    ],
+    "album": {
+      "name": "I Won't Lie",
+      "link": "https://music.163.com/album?id=75366661"
+    }
+  },
+  {
+    "name": "Feel Only Love",
+    "link": "https://music.163.com/song?id=1852473633",
+    "duration": "02:31",
+    "artists": [
+      { "name": "Klaas", "link": "https://music.163.com/artist?id=106210" },
+      {
+        "name": "Mister Ruiz",
+        "link": "https://music.163.com/artist?id=37468617"
+      }
+    ],
+    "album": {
+      "name": "Feel Only Love",
+      "link": "https://music.163.com/album?id=128844052"
+    }
+  },
+  {
+    "name": "The Same Way",
+    "link": "https://music.163.com/song?id=1375144402",
+    "duration": "03:04",
+    "artists": [
+      {
+        "name": "Don Diablo",
+        "link": "https://music.163.com/artist?id=139072"
+      },
+      { "name": "KiFi", "link": "https://music.163.com/artist?id=13059523" }
+    ],
+    "album": {
+      "name": "The Same Way",
+      "link": "https://music.163.com/album?id=80107430"
+    }
+  },
+  {
+    "name": "Lose Control",
+    "link": "https://music.163.com/song?id=36307815",
+    "duration": "03:46",
+    "artists": [
+      { "name": "Hedley", "link": "https://music.163.com/artist?id=93826" }
+    ],
+    "album": {
+      "name": "Hello",
+      "link": "https://music.163.com/album?id=3394198"
+    }
+  },
+  {
+    "name": "Greenlights",
+    "link": "https://music.163.com/song?id=1410363203",
+    "duration": "02:42",
+    "artists": [
+      { "name": "Krewella", "link": "https://music.163.com/artist?id=208915" }
+    ],
+    "album": {
+      "name": "Greenlights",
+      "link": "https://music.163.com/album?id=84179710"
+    }
+  },
+  {
+    "name": "Sky High (feat. Nonô)",
+    "link": "https://music.163.com/song?id=1908151164",
+    "duration": "02:14",
+    "artists": [
+      { "name": "Alok", "link": "https://music.163.com/artist?id=1170012" },
+      { "name": "NONO", "link": "https://music.163.com/artist?id=13667489" }
+    ],
+    "album": {
+      "name": "Sky High (feat. Nonô)",
+      "link": "https://music.163.com/album?id=138214295"
+    }
+  },
+  {
+    "name": "System",
+    "link": "https://music.163.com/song?id=563524568",
+    "duration": "03:15",
+    "artists": [
+      {
+        "name": "Cally Rhodes",
+        "link": "https://music.163.com/artist?id=12603359"
+      }
+    ],
+    "album": {
+      "name": "System",
+      "link": "https://music.163.com/album?id=39053367"
+    }
+  },
+  {
+    "name": "Crooked (VAANCE & Herrin Remix)",
+    "link": "https://music.163.com/song?id=1305365344",
+    "duration": "02:06",
+    "artists": [
+      { "name": "Vaance", "link": "https://music.163.com/artist?id=13160077" },
+      {
+        "name": "Steve Void",
+        "link": "https://music.163.com/artist?id=12062200"
+      },
+      { "name": "Herrin", "link": "https://music.163.com/artist?id=12279436" }
+    ],
+    "album": {
+      "name": "Crooked (VAANCE & Herrin Remix)",
+      "link": "https://music.163.com/album?id=72707708"
+    }
+  },
+  {
+    "name": "Fade Away",
+    "link": "https://music.163.com/song?id=1490544384",
+    "duration": "02:30",
+    "artists": [
+      {
+        "name": "Morgan Page",
+        "link": "https://music.163.com/artist?id=39698"
+      },
+      { "name": "VIVID", "link": "https://music.163.com/artist?id=140014" }
+    ],
+    "album": {
+      "name": "Fade Away",
+      "link": "https://music.163.com/album?id=97452668"
+    }
+  },
+  {
+    "name": "u n eye",
+    "link": "https://music.163.com/song?id=1424617116",
+    "duration": "02:42",
+    "artists": [
+      {
+        "name": "Boy In Space",
+        "link": "https://music.163.com/artist?id=32086096"
+      }
+    ],
+    "album": {
+      "name": "u n eye",
+      "link": "https://music.163.com/album?id=85853042"
+    }
+  },
+  {
+    "name": "Let Me Go",
+    "link": "https://music.163.com/song?id=474574069",
+    "duration": "02:55",
+    "artists": [
+      {
+        "name": "Ryan Dwane",
+        "link": "https://music.163.com/artist?id=12186052"
+      },
+      { "name": "Amy G", "link": "https://music.163.com/artist?id=391250" }
+    ],
+    "album": {
+      "name": "Let Me Go",
+      "link": "https://music.163.com/album?id=35431017"
+    }
+  },
+  {
+    "name": "Sound 4 U",
+    "link": "https://music.163.com/song?id=1403775873",
+    "duration": "03:15",
+    "artists": [
+      { "name": "EMBRZ", "link": "https://music.163.com/artist?id=1173001" }
+    ],
+    "album": {
+      "name": "Sound 4 U",
+      "link": "https://music.163.com/album?id=83406623"
+    }
+  },
+  {
+    "name": "Eyes Closed (feat. Runn)",
+    "link": "https://music.163.com/song?id=1887906273",
+    "duration": "03:33",
+    "artists": [
+      {
+        "name": "William Black",
+        "link": "https://music.163.com/artist?id=248957"
+      },
+      { "name": "RUNN", "link": "https://music.163.com/artist?id=15237536" }
+    ],
+    "album": {
+      "name": "Pieces",
+      "link": "https://music.163.com/album?id=134921399"
+    }
+  },
+  {
+    "name": "Caught In The Waves",
+    "link": "https://music.163.com/song?id=1413335936",
+    "duration": "02:42",
+    "artists": [
+      { "name": "Marnage", "link": "https://music.163.com/artist?id=28018737" },
+      { "name": "Kamix", "link": "https://music.163.com/artist?id=12947261" },
+      { "name": "Sirjoe", "link": "https://music.163.com/artist?id=12696777" }
+    ],
+    "album": {
+      "name": "Caught In The Waves",
+      "link": "https://music.163.com/album?id=84642826"
+    }
+  },
+  {
+    "name": "Vibrance",
+    "link": "https://music.163.com/song?id=30780431",
+    "duration": "04:01",
+    "artists": [
+      { "name": "Wisp X", "link": "https://music.163.com/artist?id=1046123" }
+    ],
+    "album": {
+      "name": "Vibrance",
+      "link": "https://music.163.com/album?id=3103221"
+    }
+  },
+  {
+    "name": "Love Like Us",
+    "link": "https://music.163.com/song?id=1324572049",
+    "duration": "02:56",
+    "artists": [
+      {
+        "name": "Alex Lustig",
+        "link": "https://music.163.com/artist?id=12107624"
+      }
+    ],
+    "album": {
+      "name": "Wave003: A Glowing Mind",
+      "link": "https://music.163.com/album?id=74354838"
+    }
+  },
+  {
+    "name": "Don't Wait Up",
+    "link": "https://music.163.com/song?id=1861550066",
+    "duration": "03:24",
+    "artists": [
+      { "name": "Shakira", "link": "https://music.163.com/artist?id=74623" }
+    ],
+    "album": {
+      "name": "Don't Wait Up",
+      "link": "https://music.163.com/album?id=130437357"
+    }
+  },
+  {
+    "name": "Feel Again",
+    "link": "https://music.163.com/song?id=536570907",
+    "duration": "03:53",
+    "artists": [
+      {
+        "name": "Culture Code",
+        "link": "https://music.163.com/artist?id=1049930"
+      },
+      {
+        "name": "Harley Bird",
+        "link": "https://music.163.com/artist?id=12355691"
+      }
+    ],
+    "album": {
+      "name": "Feel Again",
+      "link": "https://music.163.com/album?id=37579183"
+    }
+  },
+  {
+    "name": "Collide (Extended Mix)",
+    "link": "https://music.163.com/song?id=1431820060",
+    "duration": "04:35",
+    "artists": [
+      {
+        "name": "The Darkmaker",
+        "link": "https://music.163.com/artist?id=31492299"
+      },
+      { "name": "赵曼伊mï", "link": "https://music.163.com/artist?id=31760557" }
+    ],
+    "album": {
+      "name": "Collide",
+      "link": "https://music.163.com/album?id=86571265"
+    }
+  },
+  {
+    "name": "Nicknames",
+    "link": "https://music.163.com/song?id=1433256980",
+    "duration": "03:06",
+    "artists": [
+      {
+        "name": "Walk off the Earth",
+        "link": "https://music.163.com/artist?id=105493"
+      },
+      {
+        "name": "Garrett Nash",
+        "link": "https://music.163.com/artist?id=1137226"
+      }
+    ],
+    "album": {
+      "name": "Nicknames",
+      "link": "https://music.163.com/album?id=86761684"
+    }
+  },
+  {
+    "name": "Remember",
+    "link": "https://music.163.com/song?id=1881926190",
+    "duration": "03:31",
+    "artists": [
+      { "name": "Dabin", "link": "https://music.163.com/artist?id=783446" },
+      {
+        "name": "Noelle Johnson",
+        "link": "https://music.163.com/artist?id=31808540"
+      }
+    ],
+    "album": {
+      "name": "Between Broken",
+      "link": "https://music.163.com/album?id=133865923"
+    }
+  },
+  {
+    "name": "Future Ghost",
+    "link": "https://music.163.com/song?id=1876989639",
+    "duration": "02:56",
+    "artists": [
+      {
+        "name": "Weird Genius",
+        "link": "https://music.163.com/artist?id=12712087"
+      },
+      {
+        "name": "Violette Wautier",
+        "link": "https://music.163.com/artist?id=1058164"
+      }
+    ],
+    "album": {
+      "name": "Future Ghost",
+      "link": "https://music.163.com/album?id=133043586"
+    }
+  },
+  {
+    "name": "Crossfire (Original Mix)",
+    "link": "https://music.163.com/song?id=1361724855",
+    "duration": "03:10",
+    "artists": [
+      {
+        "name": "Robby East",
+        "link": "https://music.163.com/artist?id=999079"
+      },
+      { "name": "Salvo", "link": "https://music.163.com/artist?id=369219" }
+    ],
+    "album": {
+      "name": "Crossfire",
+      "link": "https://music.163.com/album?id=78808003"
+    }
+  },
+  {
+    "name": "This Moment (feat. Gallie Fisher)",
+    "link": "https://music.163.com/song?id=1481304439",
+    "duration": "03:31",
+    "artists": [
+      {
+        "name": "Crystal Skies",
+        "link": "https://music.163.com/artist?id=1063127"
+      },
+      {
+        "name": "Gallie Fisher",
+        "link": "https://music.163.com/artist?id=31376375"
+      }
+    ],
+    "album": {
+      "name": "Collide EP",
+      "link": "https://music.163.com/album?id=95774856"
+    }
+  },
+  {
+    "name": "Dreams",
+    "link": "https://music.163.com/song?id=1888061001",
+    "duration": "03:19",
+    "artists": [
+      {
+        "name": "Harris & Ford",
+        "link": "https://music.163.com/artist?id=11985013"
+      },
+      { "name": "AXMO", "link": "https://music.163.com/artist?id=31155422" },
+      {
+        "name": "Sarah De Warren",
+        "link": "https://music.163.com/artist?id=13222653"
+      }
+    ],
+    "album": {
+      "name": "Dreams",
+      "link": "https://music.163.com/album?id=134953979"
+    }
+  },
+  {
+    "name": "Drive",
+    "link": "https://music.163.com/song?id=33728453",
+    "duration": "03:16",
+    "artists": [
+      { "name": "Oh Wonder", "link": "https://music.163.com/artist?id=1050128" }
+    ],
+    "album": {
+      "name": "Drive",
+      "link": "https://music.163.com/album?id=3257063"
+    }
+  },
+  {
+    "name": "Rush",
+    "link": "https://music.163.com/song?id=1861092871",
+    "duration": "03:35",
+    "artists": [
+      { "name": "Rentz", "link": "https://music.163.com/artist?id=12628381" },
+      {
+        "name": "Trevor Omoto",
+        "link": "https://music.163.com/artist?id=31213631"
+      },
+      {
+        "name": "Chandler Blasé",
+        "link": "https://music.163.com/artist?id=32480261"
+      }
+    ],
+    "album": {
+      "name": "Rush",
+      "link": "https://music.163.com/album?id=130338598"
+    }
+  },
+  {
+    "name": "Fine Day",
+    "link": "https://music.163.com/song?id=1339730579",
+    "duration": "02:37",
+    "artists": [
+      { "name": "Dio Deer", "link": "https://music.163.com/artist?id=12319430" }
+    ],
+    "album": {
+      "name": "SoulNotes Vol.1",
+      "link": "https://music.163.com/album?id=75145353"
+    }
+  },
+  {
+    "name": "Our Dreams (Dream Village 2015 O.S.T.) (Radio Edit)",
+    "link": "https://music.163.com/song?id=407679019",
+    "duration": "02:59",
+    "artists": [
+      {
+        "name": "Bass Modulators",
+        "link": "https://music.163.com/artist?id=710075"
+      }
+    ],
+    "album": {
+      "name": "Our Dreams (Dream Village 2015 O.S.T.)",
+      "link": "https://music.163.com/album?id=34589013"
+    }
+  },
+  {
+    "name": "Колыбельная - (摇篮曲)",
+    "link": "https://music.163.com/song?id=1407268967",
+    "duration": "03:53",
+    "artists": [
+      {
+        "name": "Rauf & Faik",
+        "link": "https://music.163.com/artist?id=28276929"
+      }
+    ],
+    "album": {
+      "name": "Колыбельная",
+      "link": "https://music.163.com/album?id=83830881"
+    }
+  },
+  {
+    "name": "雨の音",
+    "link": "https://music.163.com/song?id=1915308102",
+    "duration": "05:02",
+    "artists": [
+      { "name": "當山みれい", "link": "https://music.163.com/artist?id=954456" }
+    ],
+    "album": {
+      "name": "雨の音",
+      "link": "https://music.163.com/album?id=139485303"
+    }
+  }
+]
