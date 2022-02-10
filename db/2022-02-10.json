@@ -1,0 +1,537 @@
+[
+  {
+    "name": "Love Runs Out",
+    "link": "https://music.163.com/song?id=1866079925",
+    "duration": "02:44",
+    "artists": [
+      {
+        "name": "Martin Garrix",
+        "link": "https://music.163.com/artist?id=780003"
+      },
+      { "name": "G-Eazy", "link": "https://music.163.com/artist?id=820036" },
+      {
+        "name": "Sasha Alex Sloan",
+        "link": "https://music.163.com/artist?id=12646102"
+      }
+    ],
+    "album": {
+      "name": "Love Runs Out",
+      "link": "https://music.163.com/album?id=131203759"
+    }
+  },
+  {
+    "name": "Travelling Through Time (New Horizons 2018 Anthem)",
+    "link": "https://music.163.com/song?id=862085003",
+    "duration": "03:35",
+    "artists": [
+      {
+        "name": "VALENTINE",
+        "link": "https://music.163.com/artist?id=12095289"
+      }
+    ],
+    "album": {
+      "name": "Travelling Through Time",
+      "link": "https://music.163.com/album?id=71609462"
+    }
+  },
+  {
+    "name": "Better To Lie",
+    "link": "https://music.163.com/song?id=1450888338",
+    "duration": "02:50",
+    "artists": [
+      {
+        "name": "Chris James",
+        "link": "https://music.163.com/artist?id=145038"
+      }
+    ],
+    "album": {
+      "name": "Storm Season",
+      "link": "https://music.163.com/album?id=89945075"
+    }
+  },
+  {
+    "name": "Move On",
+    "link": "https://music.163.com/song?id=1421446520",
+    "duration": "03:03",
+    "artists": [
+      { "name": "Grumbae", "link": "https://music.163.com/artist?id=34305180" },
+      {
+        "name": "Alessia Labate",
+        "link": "https://music.163.com/artist?id=30664269"
+      }
+    ],
+    "album": {
+      "name": "Move On",
+      "link": "https://music.163.com/album?id=85539291"
+    }
+  },
+  {
+    "name": "Home (Radio Edit)",
+    "link": "https://music.163.com/song?id=442605343",
+    "duration": "03:01",
+    "artists": [
+      { "name": "ThimLife", "link": "https://music.163.com/artist?id=1046016" },
+      {
+        "name": "Bibiane Z",
+        "link": "https://music.163.com/artist?id=27883884"
+      }
+    ],
+    "album": {
+      "name": "Home",
+      "link": "https://music.163.com/album?id=35004649"
+    }
+  },
+  {
+    "name": "Make A Move",
+    "link": "https://music.163.com/song?id=1344438011",
+    "duration": "03:09",
+    "artists": [
+      {
+        "name": "EMMA WAHLIN",
+        "link": "https://music.163.com/artist?id=29426733"
+      }
+    ],
+    "album": {
+      "name": "Make A Move",
+      "link": "https://music.163.com/album?id=75470738"
+    }
+  },
+  {
+    "name": "Hurting Too (feat. Exede)",
+    "link": "https://music.163.com/song?id=1903542444",
+    "duration": "03:38",
+    "artists": [
+      { "name": "Yetep", "link": "https://music.163.com/artist?id=12356399" },
+      { "name": "Exede", "link": "https://music.163.com/artist?id=13059879" }
+    ],
+    "album": {
+      "name": "Hurting Too (feat. Exede)",
+      "link": "https://music.163.com/album?id=137496921"
+    }
+  },
+  {
+    "name": "What I Say",
+    "link": "https://music.163.com/song?id=1456286089",
+    "duration": "02:39",
+    "artists": [
+      {
+        "name": "Malarkey",
+        "link": "https://music.163.com/artist?id=12107475"
+      },
+      {
+        "name": "Sofus Wiene",
+        "link": "https://music.163.com/artist?id=13050086"
+      }
+    ],
+    "album": {
+      "name": "What I Say",
+      "link": "https://music.163.com/album?id=91127513"
+    }
+  },
+  {
+    "name": "Changes",
+    "link": "https://music.163.com/song?id=1358189621",
+    "duration": "02:22",
+    "artists": [
+      {
+        "name": "Mike Perry",
+        "link": "https://music.163.com/artist?id=195021"
+      },
+      {
+        "name": "Dimitri Vangelis & Wyman",
+        "link": "https://music.163.com/artist?id=881024"
+      },
+      {
+        "name": "Ten Times",
+        "link": "https://music.163.com/artist?id=31930131"
+      },
+      {
+        "name": "The Companions",
+        "link": "https://music.163.com/artist?id=13383375"
+      }
+    ],
+    "album": {
+      "name": "Changes",
+      "link": "https://music.163.com/album?id=78479504"
+    }
+  },
+  {
+    "name": "Breath",
+    "link": "https://music.163.com/song?id=480769329",
+    "duration": "02:33",
+    "artists": [
+      {
+        "name": "N i G H T S",
+        "link": "https://music.163.com/artist?id=12278516"
+      }
+    ],
+    "album": {
+      "name": "Breath",
+      "link": "https://music.163.com/album?id=35561084"
+    }
+  },
+  {
+    "name": "Shadow",
+    "link": "https://music.163.com/song?id=1486924487",
+    "duration": "03:15",
+    "artists": [
+      { "name": "Vicetone", "link": "https://music.163.com/artist?id=747030" },
+      { "name": "Allie X", "link": "https://music.163.com/artist?id=973030" }
+    ],
+    "album": {
+      "name": "Shadow",
+      "link": "https://music.163.com/album?id=96760230"
+    }
+  },
+  {
+    "name": "Lost",
+    "link": "https://music.163.com/song?id=1482604086",
+    "duration": "03:26",
+    "artists": [
+      { "name": "OVSKY", "link": "https://music.163.com/artist?id=36560569" }
+    ],
+    "album": {
+      "name": "Lost",
+      "link": "https://music.163.com/album?id=96018950"
+    }
+  },
+  {
+    "name": "Disappear",
+    "link": "https://music.163.com/song?id=35497641",
+    "duration": "04:07",
+    "artists": [
+      {
+        "name": "Nigel Good",
+        "link": "https://music.163.com/artist?id=906150"
+      },
+      { "name": "Mango", "link": "https://music.163.com/artist?id=40010" },
+      {
+        "name": "Stefan Ludik",
+        "link": "https://music.163.com/artist?id=43774"
+      },
+      {
+        "name": "Andre Frauenstein",
+        "link": "https://music.163.com/artist?id=1167002"
+      }
+    ],
+    "album": {
+      "name": "Space Cadet LP",
+      "link": "https://music.163.com/album?id=3317668"
+    }
+  },
+  {
+    "name": "Blank",
+    "link": "https://music.163.com/song?id=30512731",
+    "duration": "03:28",
+    "artists": [
+      { "name": "Disfigure", "link": "https://music.163.com/artist?id=1049933" }
+    ],
+    "album": {
+      "name": "Blank",
+      "link": "https://music.163.com/album?id=74570870"
+    }
+  },
+  {
+    "name": "Blindspot (N3WPORT Remix)",
+    "link": "https://music.163.com/song?id=1822429638",
+    "duration": "03:45",
+    "artists": [
+      { "name": "Nurko", "link": "https://music.163.com/artist?id=11991089" },
+      {
+        "name": "Devon Baldwin",
+        "link": "https://music.163.com/artist?id=1181449"
+      },
+      { "name": "N3wport", "link": "https://music.163.com/artist?id=12408098" }
+    ],
+    "album": {
+      "name": "Blindspot (Remixes)",
+      "link": "https://music.163.com/album?id=123433204"
+    }
+  },
+  {
+    "name": "Parties",
+    "link": "https://music.163.com/song?id=484365611",
+    "duration": "02:49",
+    "artists": [
+      {
+        "name": "Jake Miller",
+        "link": "https://music.163.com/artist?id=776761"
+      }
+    ],
+    "album": {
+      "name": "2:00am in LA",
+      "link": "https://music.163.com/album?id=35630260"
+    }
+  },
+  {
+    "name": "Another Life",
+    "link": "https://music.163.com/song?id=1389848613",
+    "duration": "03:16",
+    "artists": [
+      { "name": "Sabai", "link": "https://music.163.com/artist?id=32093901" }
+    ],
+    "album": {
+      "name": "Another Life",
+      "link": "https://music.163.com/album?id=81507575"
+    }
+  },
+  {
+    "name": "Over & Over (feat. XELA)",
+    "link": "https://music.163.com/song?id=1809674775",
+    "duration": "03:33",
+    "artists": [
+      {
+        "name": "Nick Ledesma",
+        "link": "https://music.163.com/artist?id=12247032"
+      },
+      { "name": "XELA", "link": "https://music.163.com/artist?id=31814123" }
+    ],
+    "album": {
+      "name": "Over & Over (EP)",
+      "link": "https://music.163.com/album?id=121233412"
+    }
+  },
+  {
+    "name": "Crazy",
+    "link": "https://music.163.com/song?id=1340143947",
+    "duration": "03:08",
+    "artists": [
+      { "name": "BEAUZ", "link": "https://music.163.com/artist?id=12131436" },
+      { "name": "JVNA", "link": "https://music.163.com/artist?id=28692563" }
+    ],
+    "album": {
+      "name": "Crazy",
+      "link": "https://music.163.com/album?id=75206414"
+    }
+  },
+  {
+    "name": "Waiting For You (DLDK Amsterdam 2017 Anthem)",
+    "link": "https://music.163.com/song?id=535674750",
+    "duration": "02:33",
+    "artists": [
+      { "name": "Sem Vox", "link": "https://music.163.com/artist?id=12006107" }
+    ],
+    "album": {
+      "name": "Waiting For You",
+      "link": "https://music.163.com/album?id=37525077"
+    }
+  },
+  {
+    "name": "Again",
+    "link": "https://music.163.com/song?id=1403844897",
+    "duration": "04:02",
+    "artists": [
+      { "name": "Couple N", "link": "https://music.163.com/artist?id=29832422" }
+    ],
+    "album": {
+      "name": "Again",
+      "link": "https://music.163.com/album?id=83228489"
+    }
+  },
+  {
+    "name": "我们的爱",
+    "link": "https://music.163.com/song?id=1909932701",
+    "duration": "04:58",
+    "artists": [
+      { "name": "郁可唯", "link": "https://music.163.com/artist?id=10200" },
+      { "name": "F.I.R.", "link": "https://music.163.com/artist?id=11562" }
+    ],
+    "album": {
+      "name": "时光音乐会 第11期",
+      "link": "https://music.163.com/album?id=138514347"
+    }
+  },
+  {
+    "name": "Meadow",
+    "link": "https://music.163.com/song?id=1848514519",
+    "duration": "03:35",
+    "artists": [
+      { "name": "FEWZ", "link": "https://music.163.com/artist?id=12008133" }
+    ],
+    "album": {
+      "name": "Meadow",
+      "link": "https://music.163.com/album?id=128080342"
+    }
+  },
+  {
+    "name": "Trampoline",
+    "link": "https://music.163.com/song?id=563733742",
+    "duration": "03:04",
+    "artists": [
+      { "name": "Shaed", "link": "https://music.163.com/artist?id=12086115" }
+    ],
+    "album": {
+      "name": "Trampoline",
+      "link": "https://music.163.com/album?id=39070136"
+    }
+  },
+  {
+    "name": "Telescope",
+    "link": "https://music.163.com/song?id=522444650",
+    "duration": "02:55",
+    "artists": [
+      {
+        "name": "Tim Legend",
+        "link": "https://music.163.com/artist?id=12006158"
+      },
+      {
+        "name": "Transviolet",
+        "link": "https://music.163.com/artist?id=1122080"
+      }
+    ],
+    "album": {
+      "name": "Telescope",
+      "link": "https://music.163.com/album?id=36901220"
+    }
+  },
+  {
+    "name": "Show Me",
+    "link": "https://music.163.com/song?id=1301572556",
+    "duration": "03:40",
+    "artists": [
+      { "name": "Jasted", "link": "https://music.163.com/artist?id=12474826" },
+      { "name": "Foxa", "link": "https://music.163.com/artist?id=465662" },
+      { "name": "Joellé", "link": "https://music.163.com/artist?id=36494720" }
+    ],
+    "album": {
+      "name": "Show Me",
+      "link": "https://music.163.com/album?id=72300766"
+    }
+  },
+  {
+    "name": "Fire (Paris Blohm Remix)",
+    "link": "https://music.163.com/song?id=454438123",
+    "duration": "03:13",
+    "artists": [
+      { "name": "3LAU", "link": "https://music.163.com/artist?id=762511" },
+      {
+        "name": "Paris Blohm",
+        "link": "https://music.163.com/artist?id=851710"
+      },
+      {
+        "name": "NÉONHÈART",
+        "link": "https://music.163.com/artist?id=12273083"
+      },
+      {
+        "name": "Said The Sky",
+        "link": "https://music.163.com/artist?id=1026094"
+      }
+    ],
+    "album": {
+      "name": "Fire (Remixes)",
+      "link": "https://music.163.com/album?id=35123956"
+    }
+  },
+  {
+    "name": "Aim for Me (feat. Chloe Dolandis)",
+    "link": "https://music.163.com/song?id=29349791",
+    "duration": "03:39",
+    "artists": [
+      {
+        "name": "Approaching Nirvana",
+        "link": "https://music.163.com/artist?id=86884"
+      },
+      {
+        "name": "Chloe Dolandis",
+        "link": "https://music.163.com/artist?id=14545813"
+      }
+    ],
+    "album": {
+      "name": "Animals",
+      "link": "https://music.163.com/album?id=2998761"
+    }
+  },
+  {
+    "name": "でんしゃ",
+    "link": "https://music.163.com/song?id=1365731992",
+    "duration": "03:19",
+    "artists": [
+      { "name": "Dozik", "link": "https://music.163.com/artist?id=13450802" },
+      {
+        "name": "Rant Marson Zander",
+        "link": "https://music.163.com/artist?id=12266068"
+      }
+    ],
+    "album": {
+      "name": "でんしゃ",
+      "link": "https://music.163.com/album?id=79120857"
+    }
+  },
+  {
+    "name": "Afternoon Tea Time",
+    "link": "https://music.163.com/song?id=1820855429",
+    "duration": "04:14",
+    "artists": [
+      { "name": "HJLL", "link": "https://music.163.com/artist?id=12271179" }
+    ],
+    "album": {
+      "name": "Afternoon Tea Time",
+      "link": "https://music.163.com/album?id=123113262"
+    }
+  },
+  {
+    "name": "梦寻古镇",
+    "link": "https://music.163.com/song?id=556717614",
+    "duration": "02:51",
+    "artists": [
+      {
+        "name": "羽翼深蓝Wings",
+        "link": "https://music.163.com/artist?id=12118139"
+      }
+    ],
+    "album": {
+      "name": "梦寻古镇",
+      "link": "https://music.163.com/album?id=38520590"
+    }
+  },
+  {
+    "name": "For the One You Love",
+    "link": "https://music.163.com/song?id=555949589",
+    "duration": "04:41",
+    "artists": [
+      {
+        "name": "Natalie Gioia",
+        "link": "https://music.163.com/artist?id=839403"
+      },
+      { "name": "RAM", "link": "https://music.163.com/artist?id=73231" },
+      { "name": "Roger Shah", "link": "https://music.163.com/artist?id=191618" }
+    ],
+    "album": {
+      "name": "No Boundaries",
+      "link": "https://music.163.com/album?id=38507752"
+    }
+  },
+  {
+    "name": "Out of Time (Sagan Remix)",
+    "link": "https://music.163.com/song?id=1314777725",
+    "duration": "03:20",
+    "artists": [
+      { "name": "Shane 54", "link": "https://music.163.com/artist?id=158539" },
+      {
+        "name": "Cubicore",
+        "link": "https://music.163.com/artist?id=28408444"
+      },
+      {
+        "name": "Eric Lumiere",
+        "link": "https://music.163.com/artist?id=537263"
+      },
+      { "name": "Sagan", "link": "https://music.163.com/artist?id=77502" }
+    ],
+    "album": {
+      "name": "Out of Time (Sagan Remix)",
+      "link": "https://music.163.com/album?id=73749766"
+    }
+  },
+  {
+    "name": "Coming For You",
+    "link": "https://music.163.com/song?id=1914027536",
+    "duration": "03:05",
+    "artists": [
+      { "name": "Tobu", "link": "https://music.163.com/artist?id=964486" }
+    ],
+    "album": {
+      "name": "Coming For You",
+      "link": "https://music.163.com/album?id=139239016"
+    }
+  }
+]
