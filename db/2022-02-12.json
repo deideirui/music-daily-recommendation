@@ -1,0 +1,522 @@
+[
+  {
+    "name": "She Don't Like The Lights (prod. Direct)",
+    "link": "https://music.163.com/song?id=556203329",
+    "duration": "03:27",
+    "artists": [
+      {
+        "name": "Aaron Richards",
+        "link": "https://music.163.com/artist?id=14055238"
+      },
+      { "name": "Direct", "link": "https://music.163.com/artist?id=758029" }
+    ],
+    "album": {
+      "name": "She Don't Like The Lights (prod. Direct)",
+      "link": "https://music.163.com/album?id=38529121"
+    }
+  },
+  {
+    "name": "Round & Round",
+    "link": "https://music.163.com/song?id=477936528",
+    "duration": "03:30",
+    "artists": [
+      {
+        "name": "The Spacies",
+        "link": "https://music.163.com/artist?id=12175190"
+      }
+    ],
+    "album": {
+      "name": "Round & Round",
+      "link": "https://music.163.com/album?id=35500133"
+    }
+  },
+  {
+    "name": "Better Days",
+    "link": "https://music.163.com/song?id=1405111187",
+    "duration": "03:07",
+    "artists": [
+      {
+        "name": "Arman Cekin",
+        "link": "https://music.163.com/artist?id=1132987"
+      },
+      { "name": "Faydee", "link": "https://music.163.com/artist?id=33624" },
+      { "name": "Karra", "link": "https://music.163.com/artist?id=1081582" }
+    ],
+    "album": {
+      "name": "Better Days",
+      "link": "https://music.163.com/album?id=83569827"
+    }
+  },
+  {
+    "name": "Insight XXIII",
+    "link": "https://music.163.com/song?id=483200154",
+    "duration": "03:10",
+    "artists": [
+      {
+        "name": "Julien Marchal",
+        "link": "https://music.163.com/artist?id=12463346"
+      }
+    ],
+    "album": {
+      "name": "Insight II",
+      "link": "https://music.163.com/album?id=35558753"
+    }
+  },
+  {
+    "name": "River Flows In You",
+    "link": "https://music.163.com/song?id=1919411722",
+    "duration": "03:09",
+    "artists": [
+      {
+        "name": "The Piano Guys",
+        "link": "https://music.163.com/artist?id=99093"
+      },
+      {
+        "name": "Eli Nelson",
+        "link": "https://music.163.com/artist?id=35089726"
+      }
+    ],
+    "album": {
+      "name": "Love",
+      "link": "https://music.163.com/album?id=140244903"
+    }
+  },
+  {
+    "name": "Love Triangle",
+    "link": "https://music.163.com/song?id=513356745",
+    "duration": "03:55",
+    "artists": [
+      { "name": "Gjan", "link": "https://music.163.com/artist?id=851014" },
+      { "name": "Saint", "link": "https://music.163.com/artist?id=100440" }
+    ],
+    "album": {
+      "name": "Do It",
+      "link": "https://music.163.com/album?id=36579122"
+    }
+  },
+  {
+    "name": "Crazy (feat. Casey Cook)",
+    "link": "https://music.163.com/song?id=1879809494",
+    "duration": "03:32",
+    "artists": [
+      { "name": "Wooli", "link": "https://music.163.com/artist?id=12203238" },
+      { "name": "Codeko", "link": "https://music.163.com/artist?id=1049914" },
+      {
+        "name": "Casey Cook",
+        "link": "https://music.163.com/artist?id=1192549"
+      }
+    ],
+    "album": {
+      "name": "Crazy (feat. Casey Cook)",
+      "link": "https://music.163.com/album?id=133517380"
+    }
+  },
+  {
+    "name": "Love You",
+    "link": "https://music.163.com/song?id=1834149281",
+    "duration": "02:49",
+    "artists": [
+      { "name": "Cuebrick", "link": "https://music.163.com/artist?id=364737" }
+    ],
+    "album": {
+      "name": "Love You",
+      "link": "https://music.163.com/album?id=125460904"
+    }
+  },
+  {
+    "name": "Memories",
+    "link": "https://music.163.com/song?id=1484289687",
+    "duration": "02:49",
+    "artists": [
+      { "name": "Sabai", "link": "https://music.163.com/artist?id=32093901" },
+      {
+        "name": "Claire Ridgely",
+        "link": "https://music.163.com/artist?id=14935781"
+      }
+    ],
+    "album": {
+      "name": "Where It All Began",
+      "link": "https://music.163.com/album?id=96329007"
+    }
+  },
+  {
+    "name": "Anxiety",
+    "link": "https://music.163.com/song?id=1464966869",
+    "duration": "02:54",
+    "artists": [
+      {
+        "name": "Besomorph",
+        "link": "https://music.163.com/artist?id=13406913"
+      },
+      {
+        "name": "The Tech Thieves",
+        "link": "https://music.163.com/artist?id=12080267"
+      }
+    ],
+    "album": {
+      "name": "Anxiety",
+      "link": "https://music.163.com/album?id=92871588"
+    }
+  },
+  {
+    "name": "Wildfire",
+    "link": "https://music.163.com/song?id=1865072536",
+    "duration": "02:45",
+    "artists": [
+      {
+        "name": "Arc North",
+        "link": "https://music.163.com/artist?id=1137410"
+      },
+      { "name": "LILO", "link": "https://music.163.com/artist?id=37652368" },
+      { "name": "Rynn", "link": "https://music.163.com/artist?id=13946037" }
+    ],
+    "album": {
+      "name": "Wildfire",
+      "link": "https://music.163.com/album?id=131071042"
+    }
+  },
+  {
+    "name": "Running After Us",
+    "link": "https://music.163.com/song?id=1817299988",
+    "duration": "03:36",
+    "artists": [
+      { "name": "Yetep", "link": "https://music.163.com/artist?id=12356399" },
+      {
+        "name": "Nick Ledesma",
+        "link": "https://music.163.com/artist?id=12247032"
+      },
+      { "name": "Exede", "link": "https://music.163.com/artist?id=13059879" }
+    ],
+    "album": {
+      "name": "Running After Us",
+      "link": "https://music.163.com/album?id=122500447"
+    }
+  },
+  {
+    "name": "Blame Me (feat. Solina)",
+    "link": "https://music.163.com/song?id=1896089819",
+    "duration": "02:56",
+    "artists": [
+      { "name": "Rentz", "link": "https://music.163.com/artist?id=12628381" },
+      { "name": "DAN¨ÊL", "link": "https://music.163.com/artist?id=50547113" },
+      { "name": "Solina", "link": "https://music.163.com/artist?id=12689813" }
+    ],
+    "album": {
+      "name": "Blame Me (feat. Solina)",
+      "link": "https://music.163.com/album?id=136299338"
+    }
+  },
+  {
+    "name": "Oceans & Galaxies",
+    "link": "https://music.163.com/song?id=1834198476",
+    "duration": "03:20",
+    "artists": [
+      { "name": "Jauz", "link": "https://music.163.com/artist?id=975344" },
+      { "name": "HALIENE", "link": "https://music.163.com/artist?id=13202710" }
+    ],
+    "album": {
+      "name": "Oceans & Galaxies",
+      "link": "https://music.163.com/album?id=125471009"
+    }
+  },
+  {
+    "name": "Leap Of Faith",
+    "link": "https://music.163.com/song?id=1883294537",
+    "duration": "03:28",
+    "artists": [
+      { "name": "RyAL", "link": "https://music.163.com/artist?id=37694637" },
+      {
+        "name": "Meredith Bull",
+        "link": "https://music.163.com/artist?id=30419583"
+      }
+    ],
+    "album": {
+      "name": "Leap Of Faith",
+      "link": "https://music.163.com/album?id=134112113"
+    }
+  },
+  {
+    "name": "Take It off",
+    "link": "https://music.163.com/song?id=1337340011",
+    "duration": "03:14",
+    "artists": [
+      {
+        "name": "Two Friends",
+        "link": "https://music.163.com/artist?id=536718"
+      }
+    ],
+    "album": {
+      "name": "Take It off",
+      "link": "https://music.163.com/album?id=75043818"
+    }
+  },
+  {
+    "name": "The Truth",
+    "link": "https://music.163.com/song?id=1886921821",
+    "duration": "03:45",
+    "artists": [
+      { "name": "Maazel", "link": "https://music.163.com/artist?id=12450334" },
+      {
+        "name": "Sam Lamar",
+        "link": "https://music.163.com/artist?id=12047034"
+      }
+    ],
+    "album": {
+      "name": "The Truth",
+      "link": "https://music.163.com/album?id=134774138"
+    }
+  },
+  {
+    "name": "Into Your Arms (feat. chae)",
+    "link": "https://music.163.com/song?id=1375501302",
+    "duration": "03:07",
+    "artists": [
+      { "name": "KXA", "link": "https://music.163.com/artist?id=12024508" },
+      { "name": "Chae", "link": "https://music.163.com/artist?id=30160585" }
+    ],
+    "album": {
+      "name": "Into Your Arms (feat. chae)",
+      "link": "https://music.163.com/album?id=80154740"
+    }
+  },
+  {
+    "name": "Dance Around It",
+    "link": "https://music.163.com/song?id=1364343558",
+    "duration": "03:24",
+    "artists": [
+      { "name": "Parachute", "link": "https://music.163.com/artist?id=41209" }
+    ],
+    "album": {
+      "name": "Parachute",
+      "link": "https://music.163.com/album?id=79037219"
+    }
+  },
+  {
+    "name": "Dawn",
+    "link": "https://music.163.com/song?id=1425996158",
+    "duration": "03:36",
+    "artists": [
+      { "name": "Couple N", "link": "https://music.163.com/artist?id=29832422" }
+    ],
+    "album": {
+      "name": "Magical Pieces",
+      "link": "https://music.163.com/album?id=85987152"
+    }
+  },
+  {
+    "name": "Everything Changed",
+    "link": "https://music.163.com/song?id=506139197",
+    "duration": "04:35",
+    "artists": [
+      {
+        "name": "John Stanford",
+        "link": "https://music.163.com/artist?id=37294"
+      },
+      {
+        "name": "Dallin Applebaum",
+        "link": "https://music.163.com/artist?id=29033370"
+      }
+    ],
+    "album": {
+      "name": "Automatica",
+      "link": "https://music.163.com/album?id=36049733"
+    }
+  },
+  {
+    "name": "不想做朋友",
+    "link": "https://music.163.com/song?id=1451713322",
+    "duration": "04:09",
+    "artists": [
+      { "name": "李学仕", "link": "https://music.163.com/artist?id=12349011" }
+    ],
+    "album": {
+      "name": "不想做朋友",
+      "link": "https://music.163.com/album?id=90104569"
+    }
+  },
+  {
+    "name": "Our Story (Wisp X Remix)",
+    "link": "https://music.163.com/song?id=30780434",
+    "duration": "04:26",
+    "artists": [
+      { "name": "Wisp X", "link": "https://music.163.com/artist?id=1046123" },
+      { "name": "Mako", "link": "https://music.163.com/artist?id=68192" }
+    ],
+    "album": {
+      "name": "Our Story (Wisp X Remix)",
+      "link": "https://music.163.com/album?id=3103224"
+    }
+  },
+  {
+    "name": "Holding On",
+    "link": "https://music.163.com/song?id=520274067",
+    "duration": "03:25",
+    "artists": [
+      {
+        "name": "Adib Sin",
+        "link": "https://music.163.com/artist?id=12244027"
+      },
+      { "name": "Salsa", "link": "https://music.163.com/artist?id=141594" }
+    ],
+    "album": {
+      "name": "Holding On",
+      "link": "https://music.163.com/album?id=36845027"
+    }
+  },
+  {
+    "name": "Walk Thru Fire",
+    "link": "https://music.163.com/song?id=1297498908",
+    "duration": "03:14",
+    "artists": [
+      { "name": "Vicetone", "link": "https://music.163.com/artist?id=747030" }
+    ],
+    "album": {
+      "name": "Walk Thru Fire",
+      "link": "https://music.163.com/album?id=72052436"
+    }
+  },
+  {
+    "name": "one more day",
+    "link": "https://music.163.com/song?id=1849198844",
+    "duration": "04:38",
+    "artists": [
+      { "name": "San Holo", "link": "https://music.163.com/artist?id=1017035" },
+      { "name": "Mija", "link": "https://music.163.com/artist?id=383056" },
+      {
+        "name": "mr. carmack",
+        "link": "https://music.163.com/artist?id=839413"
+      }
+    ],
+    "album": {
+      "name": "bb u ok?",
+      "link": "https://music.163.com/album?id=128204234"
+    }
+  },
+  {
+    "name": "Nowhere To Be Found (Craig Connelly Radio Edit)",
+    "link": "https://music.163.com/song?id=425988123",
+    "duration": "04:00",
+    "artists": [
+      { "name": "Fabio XB", "link": "https://music.163.com/artist?id=207476" },
+      {
+        "name": "Craig Connelly",
+        "link": "https://music.163.com/artist?id=191566"
+      },
+      { "name": "Liuck", "link": "https://music.163.com/artist?id=12074296" },
+      {
+        "name": "Roxanne Emery",
+        "link": "https://music.163.com/artist?id=74561"
+      }
+    ],
+    "album": {
+      "name": "Nowhere To Be Found (Remixes)",
+      "link": "https://music.163.com/album?id=34817884"
+    }
+  },
+  {
+    "name": "Successful Person",
+    "link": "https://music.163.com/song?id=1335440373",
+    "duration": "03:01",
+    "artists": [
+      { "name": "Dio Deer", "link": "https://music.163.com/artist?id=12319430" }
+    ],
+    "album": {
+      "name": "Successful Person(Mix)",
+      "link": "https://music.163.com/album?id=74977657"
+    }
+  },
+  {
+    "name": "夢燈籠 (R7CKY 你的名字 Mix)",
+    "link": "https://music.163.com/song?id=446935665",
+    "duration": "03:48",
+    "artists": [
+      { "name": "R7CKY", "link": "https://music.163.com/artist?id=1044054" }
+    ],
+    "album": {
+      "name": "夢燈籠 (R7CKY 你的名字 Mix)",
+      "link": "https://music.163.com/album?id=35057029"
+    }
+  },
+  {
+    "name": "Aries",
+    "link": "https://music.163.com/song?id=1845180391",
+    "duration": "03:26",
+    "artists": [
+      {
+        "name": "Shiroi-Ice☆",
+        "link": "https://music.163.com/artist?id=32463191"
+      }
+    ],
+    "album": {
+      "name": "Aries",
+      "link": "https://music.163.com/album?id=127452753"
+    }
+  },
+  {
+    "name": "Cool Kids (Win & Woo Remix)",
+    "link": "https://music.163.com/song?id=35331938",
+    "duration": "04:51",
+    "artists": [
+      {
+        "name": "Win & Woo",
+        "link": "https://music.163.com/artist?id=1116290"
+      },
+      { "name": "Echosmith", "link": "https://music.163.com/artist?id=794129" }
+    ],
+    "album": {
+      "name": " Cool Kids (Win & Woo Remix)",
+      "link": "https://music.163.com/album?id=3319106"
+    }
+  },
+  {
+    "name": "Waving At Cars",
+    "link": "https://music.163.com/song?id=1815892497",
+    "duration": "02:39",
+    "artists": [
+      {
+        "name": "Isac Elliot",
+        "link": "https://music.163.com/artist?id=772147"
+      }
+    ],
+    "album": {
+      "name": "Waving At Cars",
+      "link": "https://music.163.com/album?id=122293552"
+    }
+  },
+  {
+    "name": "心动",
+    "link": "https://music.163.com/song?id=1466921545",
+    "duration": "02:32",
+    "artists": [
+      { "name": "Aioz", "link": "https://music.163.com/artist?id=29235210" },
+      {
+        "name": "马也_Crabbit",
+        "link": "https://music.163.com/artist?id=13288861"
+      },
+      { "name": "Uniko-J", "link": "https://music.163.com/artist?id=34390370" },
+      {
+        "name": "bbbluelee",
+        "link": "https://music.163.com/artist?id=13791519"
+      }
+    ],
+    "album": {
+      "name": "心动",
+      "link": "https://music.163.com/album?id=93213584"
+    }
+  },
+  {
+    "name": "Wake",
+    "link": "https://music.163.com/song?id=29542751",
+    "duration": "04:13",
+    "artists": [
+      {
+        "name": "Capitol Kids!",
+        "link": "https://music.163.com/artist?id=1021206"
+      }
+    ],
+    "album": {
+      "name": "Capitol Kids! Worship",
+      "link": "https://music.163.com/album?id=3039866"
+    }
+  }
+]
