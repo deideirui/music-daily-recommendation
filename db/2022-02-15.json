@@ -1,0 +1,511 @@
+[
+  {
+    "name": "Alone",
+    "link": "https://music.163.com/song?id=1311511848",
+    "duration": "02:44",
+    "artists": [
+      { "name": "J. Lisk", "link": "https://music.163.com/artist?id=12121101" }
+    ],
+    "album": {
+      "name": "Alone",
+      "link": "https://music.163.com/album?id=73382540"
+    }
+  },
+  {
+    "name": "Serendipity（Original mix）",
+    "link": "https://music.163.com/song?id=1855450959",
+    "duration": "05:15",
+    "artists": [
+      {
+        "name": "TurtleDove斑鸠",
+        "link": "https://music.163.com/artist?id=12283168"
+      },
+      {
+        "name": "Ericaca99",
+        "link": "https://music.163.com/artist?id=46271468"
+      }
+    ],
+    "album": {
+      "name": "Serendipity（Original mix）",
+      "link": "https://music.163.com/album?id=129366675"
+    }
+  },
+  {
+    "name": "Tired",
+    "link": "https://music.163.com/song?id=479219347",
+    "duration": "03:12",
+    "artists": [
+      {
+        "name": "Alan Walker",
+        "link": "https://music.163.com/artist?id=1045123"
+      },
+      {
+        "name": "Gavin James",
+        "link": "https://music.163.com/artist?id=387761"
+      }
+    ],
+    "album": {
+      "name": "Tired",
+      "link": "https://music.163.com/album?id=35535104"
+    }
+  },
+  {
+    "name": "Inainte Sa Ne Fi Nascut (Dirty Nano Remix)",
+    "link": "https://music.163.com/song?id=1324662981",
+    "duration": "05:42",
+    "artists": [
+      {
+        "name": "The Motans",
+        "link": "https://music.163.com/artist?id=12710132"
+      },
+      {
+        "name": "Dirty Nano",
+        "link": "https://music.163.com/artist?id=14081915"
+      }
+    ],
+    "album": {
+      "name": "Inainte Sa Ne Fi Nascut (Dirty Nano Remix)",
+      "link": "https://music.163.com/album?id=74360552"
+    }
+  },
+  {
+    "name": "Stranger Things",
+    "link": "https://music.163.com/song?id=515947224",
+    "duration": "03:41",
+    "artists": [
+      { "name": "Kygo", "link": "https://music.163.com/artist?id=844410" },
+      { "name": "OneRepublic", "link": "https://music.163.com/artist?id=98105" }
+    ],
+    "album": {
+      "name": "Kids in Love",
+      "link": "https://music.163.com/album?id=36634042"
+    }
+  },
+  {
+    "name": "End Of The Night",
+    "link": "https://music.163.com/song?id=1324159296",
+    "duration": "03:25",
+    "artists": [
+      {
+        "name": "Danny Avila",
+        "link": "https://music.163.com/artist?id=471420"
+      }
+    ],
+    "album": {
+      "name": "End Of The Night",
+      "link": "https://music.163.com/album?id=74327710"
+    }
+  },
+  {
+    "name": "All For You",
+    "link": "https://music.163.com/song?id=1384056976",
+    "duration": "03:27",
+    "artists": [
+      {
+        "name": "The Waked",
+        "link": "https://music.163.com/artist?id=13974125"
+      },
+      {
+        "name": "Hanna Löwenborg",
+        "link": "https://music.163.com/artist?id=34323317"
+      }
+    ],
+    "album": {
+      "name": "All For You",
+      "link": "https://music.163.com/album?id=80930389"
+    }
+  },
+  {
+    "name": "Body Back",
+    "link": "https://music.163.com/song?id=1397616467",
+    "duration": "03:34",
+    "artists": [
+      { "name": "Gryffin", "link": "https://music.163.com/artist?id=1181504" },
+      {
+        "name": "Maia Wright",
+        "link": "https://music.163.com/artist?id=12561660"
+      }
+    ],
+    "album": {
+      "name": "Gravity",
+      "link": "https://music.163.com/album?id=82692723"
+    }
+  },
+  {
+    "name": "Do Or Die",
+    "link": "https://music.163.com/song?id=1305016436",
+    "duration": "03:24",
+    "artists": [
+      {
+        "name": "Axel Johansson",
+        "link": "https://music.163.com/artist?id=12872604"
+      }
+    ],
+    "album": {
+      "name": "Do Or Die",
+      "link": "https://music.163.com/album?id=72625633"
+    }
+  },
+  {
+    "name": "So Long",
+    "link": "https://music.163.com/song?id=1439803847",
+    "duration": "03:08",
+    "artists": [
+      { "name": "LinG", "link": "https://music.163.com/artist?id=30692240" }
+    ],
+    "album": {
+      "name": "So Long",
+      "link": "https://music.163.com/album?id=87893650"
+    }
+  },
+  {
+    "name": "she's all yours",
+    "link": "https://music.163.com/song?id=1371714110",
+    "duration": "02:41",
+    "artists": [
+      { "name": "Loote", "link": "https://music.163.com/artist?id=12408152" }
+    ],
+    "album": {
+      "name": "lost",
+      "link": "https://music.163.com/album?id=79787129"
+    }
+  },
+  {
+    "name": "Yours",
+    "link": "https://music.163.com/song?id=1385322505",
+    "duration": "03:33",
+    "artists": [
+      {
+        "name": "N i G H T S",
+        "link": "https://music.163.com/artist?id=12278516"
+      }
+    ],
+    "album": {
+      "name": "Yours",
+      "link": "https://music.163.com/album?id=81045889"
+    }
+  },
+  {
+    "name": "Devotion",
+    "link": "https://music.163.com/song?id=542667073",
+    "duration": "03:59",
+    "artists": [
+      { "name": "Vexento", "link": "https://music.163.com/artist?id=12037010" }
+    ],
+    "album": {
+      "name": "Devotion",
+      "link": "https://music.163.com/album?id=37829016"
+    }
+  },
+  {
+    "name": "All I Need (Progressive Radio Edit)",
+    "link": "https://music.163.com/song?id=418602420",
+    "duration": "03:38",
+    "artists": [
+      { "name": "Aurosonic", "link": "https://music.163.com/artist?id=86532" },
+      {
+        "name": "Frainbreeze",
+        "link": "https://music.163.com/artist?id=11992076"
+      }
+    ],
+    "album": {
+      "name": "Best Of Female Vocal Trance 2016",
+      "link": "https://music.163.com/album?id=34749121"
+    }
+  },
+  {
+    "name": "Before It's Over",
+    "link": "https://music.163.com/song?id=1426391313",
+    "duration": "03:20",
+    "artists": [
+      { "name": "S1LVA", "link": "https://music.163.com/artist?id=12914324" },
+      { "name": "Luma", "link": "https://music.163.com/artist?id=211460" }
+    ],
+    "album": {
+      "name": "Before It's Over",
+      "link": "https://music.163.com/album?id=86034553"
+    }
+  },
+  {
+    "name": "Hurricane (4AM Drive Mix)",
+    "link": "https://music.163.com/song?id=1846511339",
+    "duration": "04:00",
+    "artists": [
+      { "name": "BUNT.", "link": "https://music.163.com/artist?id=744145" },
+      { "name": "HON", "link": "https://music.163.com/artist?id=34733953" },
+      { "name": "SMBDY", "link": "https://music.163.com/artist?id=14231716" }
+    ],
+    "album": {
+      "name": "Hurricane (feat. HON & SMBDY) (4AM Drive Mix)",
+      "link": "https://music.163.com/album?id=127733364"
+    }
+  },
+  {
+    "name": "15 MINUTES",
+    "link": "https://music.163.com/song?id=1392102920",
+    "duration": "03:30",
+    "artists": [
+      {
+        "name": "Jake Miller",
+        "link": "https://music.163.com/artist?id=776761"
+      }
+    ],
+    "album": {
+      "name": "SUMMER 19",
+      "link": "https://music.163.com/album?id=81790043"
+    }
+  },
+  {
+    "name": "Break the Light",
+    "link": "https://music.163.com/song?id=430297025",
+    "duration": "05:37",
+    "artists": [
+      { "name": "武川アイ", "link": "https://music.163.com/artist?id=17979" },
+      {
+        "name": "Adam Sobiech",
+        "link": "https://music.163.com/artist?id=1115104"
+      }
+    ],
+    "album": {
+      "name": "Break the Light",
+      "link": "https://music.163.com/album?id=34869527"
+    }
+  },
+  {
+    "name": "Lunar Lantern (feat. Synthion)",
+    "link": "https://music.163.com/song?id=1842381093",
+    "duration": "04:01",
+    "artists": [
+      {
+        "name": "HYPERLOCK",
+        "link": "https://music.163.com/artist?id=36416045"
+      },
+      { "name": "Synthion", "link": "https://music.163.com/artist?id=12229021" }
+    ],
+    "album": {
+      "name": "Lunar Lantern (feat. Synthion)",
+      "link": "https://music.163.com/album?id=126904257"
+    }
+  },
+  {
+    "name": "Freefall",
+    "link": "https://music.163.com/song?id=36024771",
+    "duration": "03:19",
+    "artists": [
+      {
+        "name": "Armin van Buuren",
+        "link": "https://music.163.com/artist?id=27621"
+      },
+      {
+        "name": "BullySongs",
+        "link": "https://music.163.com/artist?id=1156096"
+      }
+    ],
+    "album": {
+      "name": "Embrace",
+      "link": "https://music.163.com/album?id=3317064"
+    }
+  },
+  {
+    "name": "Yesterday",
+    "link": "https://music.163.com/song?id=1415347924",
+    "duration": "03:19",
+    "artists": [
+      {
+        "name": "Gareth Emery",
+        "link": "https://music.163.com/artist?id=34318"
+      },
+      { "name": "Nash", "link": "https://music.163.com/artist?id=954213" },
+      { "name": "Linney", "link": "https://music.163.com/artist?id=1193247" }
+    ],
+    "album": {
+      "name": "Yesterday",
+      "link": "https://music.163.com/album?id=84853541"
+    }
+  },
+  {
+    "name": "comethru",
+    "link": "https://music.163.com/song?id=1351923466",
+    "duration": "03:01",
+    "artists": [
+      {
+        "name": "Jeremy Zucker",
+        "link": "https://music.163.com/artist?id=12096183"
+      },
+      { "name": "Bea Miller", "link": "https://music.163.com/artist?id=908180" }
+    ],
+    "album": {
+      "name": "comethru",
+      "link": "https://music.163.com/album?id=75848496"
+    }
+  },
+  {
+    "name": "YUMEND",
+    "link": "https://music.163.com/song?id=1474404251",
+    "duration": "02:56",
+    "artists": [
+      { "name": "MYUKKE.", "link": "https://music.163.com/artist?id=30206492" }
+    ],
+    "album": {
+      "name": "YUMEND",
+      "link": "https://music.163.com/album?id=94562832"
+    }
+  },
+  {
+    "name": "There and Back",
+    "link": "https://music.163.com/song?id=1855319449",
+    "duration": "03:52",
+    "artists": [
+      { "name": "Protostar", "link": "https://music.163.com/artist?id=711491" }
+    ],
+    "album": {
+      "name": "There and Back",
+      "link": "https://music.163.com/album?id=129347641"
+    }
+  },
+  {
+    "name": "Le Tour de Trance",
+    "link": "https://music.163.com/song?id=1819257",
+    "duration": "05:35",
+    "artists": [
+      {
+        "name": "Orjan Nilsen",
+        "link": "https://music.163.com/artist?id=41064"
+      }
+    ],
+    "album": {
+      "name": "In My Opinion",
+      "link": "https://music.163.com/album?id=183891"
+    }
+  },
+  {
+    "name": "Don't Wanna Know/We Don't Talk Anymore",
+    "link": "https://music.163.com/song?id=465675773",
+    "duration": "03:25",
+    "artists": [
+      { "name": "Sam Tsui", "link": "https://music.163.com/artist?id=43722" },
+      { "name": "Alex Blue", "link": "https://music.163.com/artist?id=48409" }
+    ],
+    "album": {
+      "name": "Sam Tsui Covers Vol.4",
+      "link": "https://music.163.com/album?id=34675154"
+    }
+  },
+  {
+    "name": "Anywhere",
+    "link": "https://music.163.com/song?id=1817590360",
+    "duration": "03:19",
+    "artists": [
+      {
+        "name": "Adventure Club",
+        "link": "https://music.163.com/artist?id=792045"
+      },
+      { "name": "ARMNHMR", "link": "https://music.163.com/artist?id=1132078" },
+      { "name": "HALIENE", "link": "https://music.163.com/artist?id=13202710" }
+    ],
+    "album": {
+      "name": "Anywhere",
+      "link": "https://music.163.com/album?id=122550777"
+    }
+  },
+  {
+    "name": "Escape With You",
+    "link": "https://music.163.com/song?id=1437188531",
+    "duration": "03:23",
+    "artists": [
+      { "name": "Kooma", "link": "https://music.163.com/artist?id=12726149" },
+      { "name": "Veela", "link": "https://music.163.com/artist?id=193221" }
+    ],
+    "album": {
+      "name": "Escape With You",
+      "link": "https://music.163.com/album?id=87542356"
+    }
+  },
+  {
+    "name": "Jaded",
+    "link": "https://music.163.com/song?id=1484827881",
+    "duration": "03:29",
+    "artists": [
+      { "name": "EMBRZ", "link": "https://music.163.com/artist?id=1173001" },
+      {
+        "name": "wilo wilde",
+        "link": "https://music.163.com/artist?id=34585305"
+      }
+    ],
+    "album": {
+      "name": "Jaded",
+      "link": "https://music.163.com/album?id=96409300"
+    }
+  },
+  {
+    "name": "Eternal Twilight",
+    "link": "https://music.163.com/song?id=1335349532",
+    "duration": "04:31",
+    "artists": [
+      { "name": "Wisp X", "link": "https://music.163.com/artist?id=1046123" }
+    ],
+    "album": {
+      "name": "Glass Heart",
+      "link": "https://music.163.com/album?id=74937654"
+    }
+  },
+  {
+    "name": "Dive Back In Time - (《时光代理人》动画片头曲)",
+    "link": "https://music.163.com/song?id=1842817284",
+    "duration": "02:54",
+    "artists": [
+      { "name": "白鲨JAWS", "link": "https://music.163.com/artist?id=33609925" }
+    ],
+    "album": {
+      "name": "时光代理人 动画原声带",
+      "link": "https://music.163.com/album?id=131984693"
+    }
+  },
+  {
+    "name": "Fairy Light",
+    "link": "https://music.163.com/song?id=1336428387",
+    "duration": "03:57",
+    "artists": [
+      {
+        "name": "Kirara Magic",
+        "link": "https://music.163.com/artist?id=30226109"
+      },
+      { "name": "Couple N", "link": "https://music.163.com/artist?id=29832422" }
+    ],
+    "album": {
+      "name": "Fairy Light",
+      "link": "https://music.163.com/album?id=74995468"
+    }
+  },
+  {
+    "name": "Something Just Like This",
+    "link": "https://music.163.com/song?id=506288341",
+    "duration": "03:21",
+    "artists": [
+      {
+        "name": "We Rabbitz",
+        "link": "https://music.163.com/artist?id=12074883"
+      },
+      {
+        "name": "Adam Christopher",
+        "link": "https://music.163.com/artist?id=13157086"
+      },
+      {
+        "name": "Guy Berryman",
+        "link": "https://music.163.com/artist?id=203178"
+      },
+      {
+        "name": "Chris Martin",
+        "link": "https://music.163.com/artist?id=688269"
+      },
+      {
+        "name": "Andrew Taggart",
+        "link": "https://music.163.com/artist?id=13080339"
+      }
+    ],
+    "album": {
+      "name": "Something Just Like This",
+      "link": "https://music.163.com/album?id=36234175"
+    }
+  }
+]
