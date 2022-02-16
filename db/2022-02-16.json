@@ -1,0 +1,499 @@
+[
+  {
+    "name": "Beautiful Life",
+    "link": "https://music.163.com/song?id=1872630471",
+    "duration": "05:47",
+    "artists": [
+      { "name": "Melchi", "link": "https://music.163.com/artist?id=12058010" }
+    ],
+    "album": {
+      "name": "Music Diary",
+      "link": "https://music.163.com/album?id=132275546"
+    }
+  },
+  {
+    "name": "Be Kind",
+    "link": "https://music.163.com/song?id=1444959394",
+    "duration": "02:52",
+    "artists": [
+      {
+        "name": "Marshmello",
+        "link": "https://music.163.com/artist?id=1060019"
+      },
+      { "name": "Halsey", "link": "https://music.163.com/artist?id=964321" }
+    ],
+    "album": {
+      "name": "Be Kind",
+      "link": "https://music.163.com/album?id=88836925"
+    }
+  },
+  {
+    "name": "Hypnotized",
+    "link": "https://music.163.com/song?id=1434013155",
+    "duration": "03:15",
+    "artists": [
+      {
+        "name": "Purple Disco Machine",
+        "link": "https://music.163.com/artist?id=202174"
+      },
+      {
+        "name": "Sophie and the Giants",
+        "link": "https://music.163.com/artist?id=30200709"
+      }
+    ],
+    "album": {
+      "name": "Hypnotized",
+      "link": "https://music.163.com/album?id=86835889"
+    }
+  },
+  {
+    "name": "天亮以前说再见",
+    "link": "https://music.163.com/song?id=1336789644",
+    "duration": "04:12",
+    "artists": [
+      { "name": "曲肖冰", "link": "https://music.163.com/artist?id=12419710" }
+    ],
+    "album": {
+      "name": "天亮以前说再见",
+      "link": "https://music.163.com/album?id=74992125"
+    }
+  },
+  {
+    "name": "Emotion Sickness",
+    "link": "https://music.163.com/song?id=1918915998",
+    "duration": "03:22",
+    "artists": [
+      {
+        "name": "Said The Sky",
+        "link": "https://music.163.com/artist?id=1026094"
+      },
+      {
+        "name": "Wil Anderson",
+        "link": "https://music.163.com/artist?id=33140236"
+      },
+      { "name": "Parachute", "link": "https://music.163.com/artist?id=41209" }
+    ],
+    "album": {
+      "name": "Emotion Sickness",
+      "link": "https://music.163.com/album?id=140147257"
+    }
+  },
+  {
+    "name": "Stay Young",
+    "link": "https://music.163.com/song?id=503020019",
+    "duration": "02:37",
+    "artists": [
+      {
+        "name": "Mike Perry",
+        "link": "https://music.163.com/artist?id=195021"
+      },
+      { "name": "Tessa", "link": "https://music.163.com/artist?id=410467" }
+    ],
+    "album": {
+      "name": "Stay Young",
+      "link": "https://music.163.com/album?id=36098015"
+    }
+  },
+  {
+    "name": "Lost ",
+    "link": "https://music.163.com/song?id=1299998060",
+    "duration": "04:01",
+    "artists": [
+      { "name": "Jai Wolf", "link": "https://music.163.com/artist?id=1063048" },
+      {
+        "name": "Chelsea Jade",
+        "link": "https://music.163.com/artist?id=12155341"
+      }
+    ],
+    "album": {
+      "name": "Lost",
+      "link": "https://music.163.com/album?id=72199345"
+    }
+  },
+  {
+    "name": "Heart",
+    "link": "https://music.163.com/song?id=1361335790",
+    "duration": "03:15",
+    "artists": [
+      { "name": "OTR", "link": "https://music.163.com/artist?id=12232013" },
+      { "name": "Shallou", "link": "https://music.163.com/artist?id=12029377" }
+    ],
+    "album": {
+      "name": "Heart",
+      "link": "https://music.163.com/album?id=78779459"
+    }
+  },
+  {
+    "name": "Too Far Gone",
+    "link": "https://music.163.com/song?id=542525664",
+    "duration": "03:24",
+    "artists": [
+      { "name": "Outwild", "link": "https://music.163.com/artist?id=1115191" }
+    ],
+    "album": {
+      "name": "Too Far Gone",
+      "link": "https://music.163.com/album?id=37806988"
+    }
+  },
+  {
+    "name": "Endless Hanabi",
+    "link": "https://music.163.com/song?id=1855639956",
+    "duration": "04:40",
+    "artists": [
+      {
+        "name": "PIKASONIC",
+        "link": "https://music.163.com/artist?id=13499634"
+      }
+    ],
+    "album": {
+      "name": "Endless Hanabi",
+      "link": "https://music.163.com/album?id=129401717"
+    }
+  },
+  {
+    "name": "Good Things Fall Apart vs. Sad Songs",
+    "link": "https://music.163.com/song?id=1454864598",
+    "duration": "06:06",
+    "artists": [
+      { "name": "ILLENIUM", "link": "https://music.163.com/artist?id=1050518" },
+      {
+        "name": "Jon Bellion",
+        "link": "https://music.163.com/artist?id=860113"
+      },
+      {
+        "name": "Said The Sky",
+        "link": "https://music.163.com/artist?id=1026094"
+      },
+      {
+        "name": "Annika Wells",
+        "link": "https://music.163.com/artist?id=12108797"
+      }
+    ],
+    "album": {
+      "name": "ASCEND (Tour Edits)",
+      "link": "https://music.163.com/album?id=90763326"
+    }
+  },
+  {
+    "name": "Aeon",
+    "link": "https://music.163.com/song?id=33359018",
+    "duration": "03:58",
+    "artists": [
+      { "name": "JJD", "link": "https://music.163.com/artist?id=472822" }
+    ],
+    "album": {
+      "name": "Aeon",
+      "link": "https://music.163.com/album?id=3201118"
+    }
+  },
+  {
+    "name": "Wild Ones",
+    "link": "https://music.163.com/song?id=1845607870",
+    "duration": "03:28",
+    "artists": [
+      {
+        "name": "Jason Ross",
+        "link": "https://music.163.com/artist?id=906123"
+      },
+      { "name": "Nevve", "link": "https://music.163.com/artist?id=12567101" }
+    ],
+    "album": {
+      "name": "Convergence EP",
+      "link": "https://music.163.com/album?id=127527529"
+    }
+  },
+  {
+    "name": "Love Me Like You Do",
+    "link": "https://music.163.com/song?id=36308236",
+    "duration": "04:12",
+    "artists": [
+      {
+        "name": "Ellie Goulding",
+        "link": "https://music.163.com/artist?id=56598"
+      }
+    ],
+    "album": {
+      "name": "Delirium",
+      "link": "https://music.163.com/album?id=3295555"
+    }
+  },
+  {
+    "name": "Silence Before The Storm",
+    "link": "https://music.163.com/song?id=509573340",
+    "duration": "03:22",
+    "artists": [
+      {
+        "name": "Quiet Disorder",
+        "link": "https://music.163.com/artist?id=12342111"
+      },
+      { "name": "Anderson", "link": "https://music.163.com/artist?id=102466" }
+    ],
+    "album": {
+      "name": "Silence Before The Storm",
+      "link": "https://music.163.com/album?id=36320285"
+    }
+  },
+  {
+    "name": "Far Out To Sea (Valentin Remix)",
+    "link": "https://music.163.com/song?id=34228020",
+    "duration": "07:00",
+    "artists": [
+      {
+        "name": "Sergey Alekseev",
+        "link": "https://music.163.com/artist?id=837776"
+      }
+    ],
+    "album": {
+      "name": "Far Out To Sea",
+      "link": "https://music.163.com/album?id=3275596"
+    }
+  },
+  {
+    "name": "Is It Just Me?",
+    "link": "https://music.163.com/song?id=1496017614",
+    "duration": "02:34",
+    "artists": [
+      {
+        "name": "Sasha Alex Sloan",
+        "link": "https://music.163.com/artist?id=12646102"
+      },
+      {
+        "name": "Charlie Puth",
+        "link": "https://music.163.com/artist?id=90331"
+      }
+    ],
+    "album": {
+      "name": "Is It Just Me?",
+      "link": "https://music.163.com/album?id=98409596"
+    }
+  },
+  {
+    "name": "Emotion",
+    "link": "https://music.163.com/song?id=1346272701",
+    "duration": "03:24",
+    "artists": [
+      {
+        "name": "hazey eyes",
+        "link": "https://music.163.com/artist?id=12047491"
+      },
+      { "name": "Panama", "link": "https://music.163.com/artist?id=308297" }
+    ],
+    "album": {
+      "name": "Love Lost - EP",
+      "link": "https://music.163.com/album?id=75579983"
+    }
+  },
+  {
+    "name": "Bright Lights",
+    "link": "https://music.163.com/song?id=1367520209",
+    "duration": "03:25",
+    "artists": [
+      { "name": "Cannons", "link": "https://music.163.com/artist?id=1022051" }
+    ],
+    "album": {
+      "name": "Shadows",
+      "link": "https://music.163.com/album?id=79391388"
+    }
+  },
+  {
+    "name": "Monarch",
+    "link": "https://music.163.com/song?id=1298287270",
+    "duration": "03:42",
+    "artists": [
+      { "name": "Fleurie", "link": "https://music.163.com/artist?id=860929" }
+    ],
+    "album": {
+      "name": "Portals",
+      "link": "https://music.163.com/album?id=72101155"
+    }
+  },
+  {
+    "name": "Sigh",
+    "link": "https://music.163.com/song?id=534832498",
+    "duration": "03:41",
+    "artists": [
+      { "name": "Shallou", "link": "https://music.163.com/artist?id=12029377" }
+    ],
+    "album": {
+      "name": "Souls",
+      "link": "https://music.163.com/album?id=37461751"
+    }
+  },
+  {
+    "name": "Forever Young (feat. Melanie Fontana)",
+    "link": "https://music.163.com/song?id=1416675099",
+    "duration": "02:58",
+    "artists": [
+      { "name": "ARMNHMR", "link": "https://music.163.com/artist?id=1132078" },
+      {
+        "name": "Melanie Fontana",
+        "link": "https://music.163.com/artist?id=13506276"
+      }
+    ],
+    "album": {
+      "name": "The Free World",
+      "link": "https://music.163.com/album?id=84981689"
+    }
+  },
+  {
+    "name": "Belong (Axwell & Years Remode Edit)",
+    "link": "https://music.163.com/song?id=424342163",
+    "duration": "03:37",
+    "artists": [
+      { "name": "Axwell", "link": "https://music.163.com/artist?id=12039194" },
+      { "name": "Shapov", "link": "https://music.163.com/artist?id=1058085" },
+      { "name": "Years", "link": "https://music.163.com/artist?id=46231" }
+    ],
+    "album": {
+      "name": "Belong",
+      "link": "https://music.163.com/album?id=34802461"
+    }
+  },
+  {
+    "name": "Moonlight",
+    "link": "https://music.163.com/song?id=26159000",
+    "duration": "05:43",
+    "artists": [
+      { "name": "Rameses B", "link": "https://music.163.com/artist?id=42898" }
+    ],
+    "album": {
+      "name": "Inspire - EP",
+      "link": "https://music.163.com/album?id=2400916"
+    }
+  },
+  {
+    "name": "Silly",
+    "link": "https://music.163.com/song?id=1446902117",
+    "duration": "03:01",
+    "artists": [
+      { "name": "Heiakim", "link": "https://music.163.com/artist?id=35124941" }
+    ],
+    "album": {
+      "name": "Silly",
+      "link": "https://music.163.com/album?id=89230253"
+    }
+  },
+  {
+    "name": "Lights (Radio Edit)",
+    "link": "https://music.163.com/song?id=33987304",
+    "duration": "03:03",
+    "artists": [
+      {
+        "name": "Paul van Dyk",
+        "link": "https://music.163.com/artist?id=41145"
+      }
+    ],
+    "album": {
+      "name": "Lights (Remixes)",
+      "link": "https://music.163.com/album?id=3270045"
+    }
+  },
+  {
+    "name": "Into The Light (feat. ALLEYCVT)",
+    "link": "https://music.163.com/song?id=1862466981",
+    "duration": "04:33",
+    "artists": [
+      {
+        "name": "Skybreak",
+        "link": "https://music.163.com/artist?id=12066156"
+      },
+      { "name": "Ehallz", "link": "https://music.163.com/artist?id=12007051" },
+      { "name": "ALLEYCVT", "link": "https://music.163.com/artist?id=47275038" }
+    ],
+    "album": {
+      "name": "Into The Light (feat. ALLEYCVT)",
+      "link": "https://music.163.com/album?id=130580145"
+    }
+  },
+  {
+    "name": "纪念",
+    "link": "https://music.163.com/song?id=421870350",
+    "duration": "03:18",
+    "artists": [
+      { "name": "洛天依", "link": "https://music.163.com/artist?id=906118" },
+      { "name": "空气凝", "link": "https://music.163.com/artist?id=12078192" }
+    ],
+    "album": {
+      "name": "纪念",
+      "link": "https://music.163.com/album?id=34786083"
+    }
+  },
+  {
+    "name": "【洛天依】影子小姐",
+    "link": "https://music.163.com/song?id=1298762936",
+    "duration": "04:12",
+    "artists": [
+      {
+        "name": "著小生zoki",
+        "link": "https://music.163.com/artist?id=12558238"
+      },
+      { "name": "洛天依", "link": "https://music.163.com/artist?id=906118" }
+    ],
+    "album": {
+      "name": "影子小姐",
+      "link": "https://music.163.com/album?id=72067467"
+    }
+  },
+  {
+    "name": "Time Traveller",
+    "link": "https://music.163.com/song?id=1387878319",
+    "duration": "04:00",
+    "artists": [
+      { "name": "闹闹丶", "link": "https://music.163.com/artist?id=12357233" },
+      { "name": "洛天依", "link": "https://music.163.com/artist?id=906118" }
+    ],
+    "album": {
+      "name": "Time Traveller",
+      "link": "https://music.163.com/album?id=81266778"
+    }
+  },
+  {
+    "name": "Let Me Show You Love (Don't Give Up On Us) (Tom Swoon Edit)",
+    "link": "https://music.163.com/song?id=30031260",
+    "duration": "05:17",
+    "artists": [
+      { "name": "Tom Swoon", "link": "https://music.163.com/artist?id=725010" },
+      { "name": "Avicii", "link": "https://music.163.com/artist?id=45236" }
+    ],
+    "album": {
+      "name": "Let Me Show You Love (Don't Give Up On Us) (Tom Swoon Edit)",
+      "link": "https://music.163.com/album?id=3090582"
+    }
+  },
+  {
+    "name": "范进中举",
+    "link": "https://music.163.com/song?id=1858118347",
+    "duration": "03:45",
+    "artists": [
+      { "name": "卦者灵风", "link": "https://music.163.com/artist?id=12498266" }
+    ],
+    "album": {
+      "name": "范进中举",
+      "link": "https://music.163.com/album?id=129846902"
+    }
+  },
+  {
+    "name": "你在终点等我 - (电影《从你的全世界路过》主题曲)",
+    "link": "https://music.163.com/song?id=431357712",
+    "duration": "04:45",
+    "artists": [
+      { "name": "王菲", "link": "https://music.163.com/artist?id=9621" }
+    ],
+    "album": {
+      "name": "你在终点等我",
+      "link": "https://music.163.com/album?id=34888014"
+    }
+  },
+  {
+    "name": "犬姫",
+    "link": "https://music.163.com/song?id=1917411561",
+    "duration": "03:05",
+    "artists": [
+      { "name": "女王蜂", "link": "https://music.163.com/artist?id=22492" }
+    ],
+    "album": {
+      "name": "犬姫",
+      "link": "https://music.163.com/album?id=139877139"
+    }
+  }
+]
