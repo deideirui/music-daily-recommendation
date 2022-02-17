@@ -1,0 +1,468 @@
+[
+  {
+    "name": "Next To Me",
+    "link": "https://music.163.com/song?id=552575409",
+    "duration": "02:59",
+    "artists": [
+      {
+        "name": "Axel Johansson",
+        "link": "https://music.163.com/artist?id=12872604"
+      },
+      {
+        "name": "Tina Stachowiak",
+        "link": "https://music.163.com/artist?id=905727"
+      }
+    ],
+    "album": {
+      "name": "Next To Me",
+      "link": "https://music.163.com/album?id=38315215"
+    }
+  },
+  {
+    "name": "Keep You Mine (Acoustic)",
+    "link": "https://music.163.com/song?id=1392089491",
+    "duration": "03:03",
+    "artists": [
+      { "name": "NOTD", "link": "https://music.163.com/artist?id=12262306" },
+      {
+        "name": "SHY Martin",
+        "link": "https://music.163.com/artist?id=12354062"
+      }
+    ],
+    "album": {
+      "name": "Keep You Mine (Acoustic)",
+      "link": "https://music.163.com/album?id=81786604"
+    }
+  },
+  {
+    "name": "Take Me Away",
+    "link": "https://music.163.com/song?id=1440410022",
+    "duration": "04:06",
+    "artists": [
+      { "name": "Awakend", "link": "https://music.163.com/artist?id=13049055" },
+      { "name": "Kait Weston", "link": "https://music.163.com/artist?id=64003" }
+    ],
+    "album": {
+      "name": "Take Me Away",
+      "link": "https://music.163.com/album?id=87974808"
+    }
+  },
+  {
+    "name": "УРЫЛ 0$ - (一无所获)",
+    "link": "https://music.163.com/song?id=1473966737",
+    "duration": "02:04",
+    "artists": [
+      {
+        "name": "ДЕТИ RAVE",
+        "link": "https://music.163.com/artist?id=27821448"
+      }
+    ],
+    "album": {
+      "name": "УРЫЛ 0$",
+      "link": "https://music.163.com/album?id=94473311"
+    }
+  },
+  {
+    "name": "You Are The Reason",
+    "link": "https://music.163.com/song?id=1919411724",
+    "duration": "03:55",
+    "artists": [
+      {
+        "name": "The Piano Guys",
+        "link": "https://music.163.com/artist?id=99093"
+      },
+      {
+        "name": "Dallas String Quartet",
+        "link": "https://music.163.com/artist?id=32028037"
+      }
+    ],
+    "album": {
+      "name": "Love",
+      "link": "https://music.163.com/album?id=140244903"
+    }
+  },
+  {
+    "name": "Used To",
+    "link": "https://music.163.com/song?id=1347814906",
+    "duration": "02:48",
+    "artists": [
+      {
+        "name": "James Carter",
+        "link": "https://music.163.com/artist?id=12047749"
+      },
+      { "name": "Kaii", "link": "https://music.163.com/artist?id=28457718" }
+    ],
+    "album": {
+      "name": "Used To",
+      "link": "https://music.163.com/album?id=75670536"
+    }
+  },
+  {
+    "name": "I Still Believe",
+    "link": "https://music.163.com/song?id=1358194683",
+    "duration": "03:04",
+    "artists": [
+      { "name": "Mandee", "link": "https://music.163.com/artist?id=12171036" },
+      {
+        "name": "Abi F Jones",
+        "link": "https://music.163.com/artist?id=1137160"
+      }
+    ],
+    "album": {
+      "name": "I Still Believe",
+      "link": "https://music.163.com/album?id=78479967"
+    }
+  },
+  {
+    "name": "Staring At The Lights",
+    "link": "https://music.163.com/song?id=429769629",
+    "duration": "03:10",
+    "artists": [
+      { "name": "Vexento", "link": "https://music.163.com/artist?id=12037010" }
+    ],
+    "album": {
+      "name": "The Silent Miracle",
+      "link": "https://music.163.com/album?id=34869372"
+    }
+  },
+  {
+    "name": "Erase You",
+    "link": "https://music.163.com/song?id=1478054205",
+    "duration": "03:44",
+    "artists": [
+      { "name": "Excision", "link": "https://music.163.com/artist?id=33221" },
+      { "name": "Wooli", "link": "https://music.163.com/artist?id=12203238" },
+      { "name": "HALIENE", "link": "https://music.163.com/artist?id=13202710" }
+    ],
+    "album": {
+      "name": "Erase You",
+      "link": "https://music.163.com/album?id=95203469"
+    }
+  },
+  {
+    "name": "Famous",
+    "link": "https://music.163.com/song?id=522647397",
+    "duration": "03:43",
+    "artists": [
+      {
+        "name": "Ivy Adara",
+        "link": "https://music.163.com/artist?id=12925126"
+      }
+    ],
+    "album": {
+      "name": "Famous",
+      "link": "https://music.163.com/album?id=36921067"
+    }
+  },
+  {
+    "name": "Electric",
+    "link": "https://music.163.com/song?id=408055512",
+    "duration": "04:39",
+    "artists": [
+      { "name": "Brett", "link": "https://music.163.com/artist?id=967045" }
+    ],
+    "album": {
+      "name": "Mode",
+      "link": "https://music.163.com/album?id=34588340"
+    }
+  },
+  {
+    "name": "Don't Say",
+    "link": "https://music.163.com/song?id=862099429",
+    "duration": "03:02",
+    "artists": [
+      { "name": "Hoang", "link": "https://music.163.com/artist?id=27694442" },
+      { "name": "Nevve", "link": "https://music.163.com/artist?id=12567101" }
+    ],
+    "album": {
+      "name": "Don't Say",
+      "link": "https://music.163.com/album?id=71614737"
+    }
+  },
+  {
+    "name": "Adventures",
+    "link": "https://music.163.com/song?id=33922813",
+    "duration": "03:39",
+    "artists": [
+      {
+        "name": "Alex Skrindo",
+        "link": "https://music.163.com/artist?id=1046359"
+      }
+    ],
+    "album": {
+      "name": "Adventures",
+      "link": "https://music.163.com/album?id=3266386"
+    }
+  },
+  {
+    "name": "Energy",
+    "link": "https://music.163.com/song?id=431080988",
+    "duration": "03:18",
+    "artists": [
+      {
+        "name": "Elektronomia",
+        "link": "https://music.163.com/artist?id=1081540"
+      }
+    ],
+    "album": {
+      "name": "Energy",
+      "link": "https://music.163.com/album?id=34874699"
+    }
+  },
+  {
+    "name": "For You (Roald Velden Remix)",
+    "link": "https://music.163.com/song?id=1418973662",
+    "duration": "07:40",
+    "artists": [
+      {
+        "name": "Mark & Lukas",
+        "link": "https://music.163.com/artist?id=1104097"
+      },
+      {
+        "name": "Roald Velden",
+        "link": "https://music.163.com/artist?id=178498"
+      }
+    ],
+    "album": {
+      "name": "For You",
+      "link": "https://music.163.com/album?id=85221231"
+    }
+  },
+  {
+    "name": "See-Through",
+    "link": "https://music.163.com/song?id=569105350",
+    "duration": "04:24",
+    "artists": [
+      { "name": "Chad Valley", "link": "https://music.163.com/artist?id=31012" }
+    ],
+    "album": {
+      "name": "Imaginary Music",
+      "link": "https://music.163.com/album?id=39391229"
+    }
+  },
+  {
+    "name": "Secrets",
+    "link": "https://music.163.com/song?id=20200923",
+    "duration": "03:45",
+    "artists": [
+      { "name": "OneRepublic", "link": "https://music.163.com/artist?id=98105" }
+    ],
+    "album": {
+      "name": "Secrets",
+      "link": "https://music.163.com/album?id=1873671"
+    }
+  },
+  {
+    "name": "Aurora",
+    "link": "https://music.163.com/song?id=1400502200",
+    "duration": "04:22",
+    "artists": [
+      { "name": "Janji", "link": "https://music.163.com/artist?id=1032229" },
+      { "name": "T.R.", "link": "https://music.163.com/artist?id=12901347" }
+    ],
+    "album": {
+      "name": "Ultimate Chill Nation",
+      "link": "https://music.163.com/album?id=82932283"
+    }
+  },
+  {
+    "name": "Ballarena",
+    "link": "https://music.163.com/song?id=1314662246",
+    "duration": "03:00",
+    "artists": [
+      { "name": "Savi", "link": "https://music.163.com/artist?id=1116235" },
+      { "name": "Aleesia", "link": "https://music.163.com/artist?id=48272" },
+      {
+        "name": "Not From Mars",
+        "link": "https://music.163.com/artist?id=30252411"
+      }
+    ],
+    "album": {
+      "name": "Ballarena",
+      "link": "https://music.163.com/album?id=73742569"
+    }
+  },
+  {
+    "name": "One More Day (Nicky Romero Remix)",
+    "link": "https://music.163.com/song?id=571338342",
+    "duration": "04:00",
+    "artists": [
+      {
+        "name": "Nicky Romero",
+        "link": "https://music.163.com/artist?id=195142"
+      },
+      { "name": "Afrojack", "link": "https://music.163.com/artist?id=28745" },
+      {
+        "name": "Jewelz & Sparks",
+        "link": "https://music.163.com/artist?id=947051"
+      }
+    ],
+    "album": {
+      "name": "One More Day (Nicky Romero Remix)",
+      "link": "https://music.163.com/album?id=39591108"
+    }
+  },
+  {
+    "name": "All Things Pass",
+    "link": "https://music.163.com/song?id=484249671",
+    "duration": "03:20",
+    "artists": [
+      { "name": "Olivera", "link": "https://music.163.com/artist?id=1079097" }
+    ],
+    "album": {
+      "name": "Sometimes the World Is Yours",
+      "link": "https://music.163.com/album?id=35630101"
+    }
+  },
+  {
+    "name": "I Like Me Better",
+    "link": "https://music.163.com/song?id=479223413",
+    "duration": "03:17",
+    "artists": [
+      { "name": "Lauv", "link": "https://music.163.com/artist?id=1057226" }
+    ],
+    "album": {
+      "name": "I Like Me Better",
+      "link": "https://music.163.com/album?id=35536102"
+    }
+  },
+  {
+    "name": "I See You",
+    "link": "https://music.163.com/song?id=1351664230",
+    "duration": "03:48",
+    "artists": [
+      { "name": "Missio", "link": "https://music.163.com/artist?id=1038292" }
+    ],
+    "album": {
+      "name": "I See You",
+      "link": "https://music.163.com/album?id=75836312"
+    }
+  },
+  {
+    "name": "Destroy Me",
+    "link": "https://music.163.com/song?id=33035576",
+    "duration": "03:56",
+    "artists": [
+      { "name": "Project 46", "link": "https://music.163.com/artist?id=776674" }
+    ],
+    "album": {
+      "name": "Beautiful",
+      "link": "https://music.163.com/album?id=3158277"
+    }
+  },
+  {
+    "name": "双星轨迹（初音未来×洛天依中文版）",
+    "link": "https://music.163.com/song?id=1379273495",
+    "duration": "04:00",
+    "artists": [
+      { "name": "LS", "link": "https://music.163.com/artist?id=12058025" }
+    ],
+    "album": {
+      "name": "【星电感应系列】双星轨迹",
+      "link": "https://music.163.com/album?id=80476681"
+    }
+  },
+  {
+    "name": "Innocence",
+    "link": "https://music.163.com/song?id=28013227",
+    "duration": "03:54",
+    "artists": [
+      {
+        "name": "Electric Youth",
+        "link": "https://music.163.com/artist?id=658235"
+      }
+    ],
+    "album": {
+      "name": "Innocence",
+      "link": "https://music.163.com/album?id=2712494"
+    }
+  },
+  {
+    "name": "Luv Me",
+    "link": "https://music.163.com/song?id=1410768994",
+    "duration": "02:19",
+    "artists": [
+      { "name": "J. Lisk", "link": "https://music.163.com/artist?id=12121101" }
+    ],
+    "album": {
+      "name": "Luv Me",
+      "link": "https://music.163.com/album?id=84028976"
+    }
+  },
+  {
+    "name": "Echoes",
+    "link": "https://music.163.com/song?id=1383873870",
+    "duration": "02:55",
+    "artists": [
+      { "name": "Kazukii", "link": "https://music.163.com/artist?id=12054389" }
+    ],
+    "album": {
+      "name": "Echoes",
+      "link": "https://music.163.com/album?id=80915300"
+    }
+  },
+  {
+    "name": "无人知晓的我",
+    "link": "https://music.163.com/song?id=507364094",
+    "duration": "03:33",
+    "artists": [
+      { "name": "黄丽玲", "link": "https://music.163.com/artist?id=7063" }
+    ],
+    "album": {
+      "name": "A-LIN同名专辑",
+      "link": "https://music.163.com/album?id=36192851"
+    }
+  },
+  {
+    "name": "Lovely Daydream",
+    "link": "https://music.163.com/song?id=1315919992",
+    "duration": "03:55",
+    "artists": [
+      {
+        "name": "Kirara Magic",
+        "link": "https://music.163.com/artist?id=30226109"
+      }
+    ],
+    "album": {
+      "name": "Sweet theory",
+      "link": "https://music.163.com/album?id=73761274"
+    }
+  },
+  {
+    "name": "遥远的相遇",
+    "link": "https://music.163.com/song?id=1416956209",
+    "duration": "05:58",
+    "artists": [
+      { "name": "暗猫", "link": "https://music.163.com/artist?id=13284864" }
+    ],
+    "album": {
+      "name": "遥远的相遇",
+      "link": "https://music.163.com/album?id=84965179"
+    }
+  },
+  {
+    "name": "故友",
+    "link": "https://music.163.com/song?id=1306237418",
+    "duration": "03:22",
+    "artists": [{ "name": "洛拥蠝天依", "link": "" }],
+    "album": {
+      "name": "故友",
+      "link": "https://music.163.com/album?id=72755213"
+    }
+  },
+  {
+    "name": "Life Goes On",
+    "link": "https://music.163.com/song?id=1848206679",
+    "duration": "02:41",
+    "artists": [
+      {
+        "name": "Oliver Tree",
+        "link": "https://music.163.com/artist?id=12447098"
+      }
+    ],
+    "album": {
+      "name": "Ugly is Beautiful: Shorter, Thicker & Uglier (Deluxe)",
+      "link": "https://music.163.com/album?id=128016227"
+    }
+  }
+]
