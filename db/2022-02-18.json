@@ -1,0 +1,498 @@
+[
+  {
+    "name": "No Sleep",
+    "link": "https://music.163.com/song?id=1347529297",
+    "duration": "03:27",
+    "artists": [
+      {
+        "name": "Martin Garrix",
+        "link": "https://music.163.com/artist?id=780003"
+      },
+      { "name": "Bonn", "link": "https://music.163.com/artist?id=31540163" }
+    ],
+    "album": {
+      "name": "No Sleep",
+      "link": "https://music.163.com/album?id=75655368"
+    }
+  },
+  {
+    "name": "Every Breath You Take (Original Mix)",
+    "link": "https://music.163.com/song?id=1437260078",
+    "duration": "03:18",
+    "artists": [
+      {
+        "name": "Deep Chills",
+        "link": "https://music.163.com/artist?id=1063083"
+      }
+    ],
+    "album": {
+      "name": "Every Breath You Take",
+      "link": "https://music.163.com/album?id=87550234"
+    }
+  },
+  {
+    "name": "Never Leave Me",
+    "link": "https://music.163.com/song?id=1370108698",
+    "duration": "02:51",
+    "artists": [
+      { "name": "Avicii", "link": "https://music.163.com/artist?id=45236" },
+      {
+        "name": "Joe Janiak",
+        "link": "https://music.163.com/artist?id=29927849"
+      }
+    ],
+    "album": {
+      "name": "TIM",
+      "link": "https://music.163.com/album?id=79638731"
+    }
+  },
+  {
+    "name": "Vibe",
+    "link": "https://music.163.com/song?id=480516889",
+    "duration": "03:11",
+    "artists": [
+      { "name": "Famba", "link": "https://music.163.com/artist?id=12121068" },
+      {
+        "name": "Frank Pierce",
+        "link": "https://music.163.com/artist?id=1103046"
+      }
+    ],
+    "album": {
+      "name": "Vibe",
+      "link": "https://music.163.com/album?id=35538489"
+    }
+  },
+  {
+    "name": "Again (Extended Mix)",
+    "link": "https://music.163.com/song?id=1921078432",
+    "duration": "07:01",
+    "artists": [
+      {
+        "name": "Sunlight Project",
+        "link": "https://music.163.com/artist?id=858214"
+      }
+    ],
+    "album": {
+      "name": "Again",
+      "link": "https://music.163.com/album?id=140520607"
+    }
+  },
+  {
+    "name": "星辰大海",
+    "link": "https://music.163.com/song?id=1811921555",
+    "duration": "03:27",
+    "artists": [
+      { "name": "黄霄雲", "link": "https://music.163.com/artist?id=14077324" }
+    ],
+    "album": {
+      "name": "星辰大海",
+      "link": "https://music.163.com/album?id=121630728"
+    }
+  },
+  {
+    "name": "理想的岛屿",
+    "link": "https://music.163.com/song?id=1893066820",
+    "duration": "03:36",
+    "artists": [
+      {
+        "name": "TurtleDove斑鸠",
+        "link": "https://music.163.com/artist?id=12283168"
+      }
+    ],
+    "album": {
+      "name": "理想的岛屿",
+      "link": "https://music.163.com/album?id=135804039"
+    }
+  },
+  {
+    "name": "Maze",
+    "link": "https://music.163.com/song?id=1439407612",
+    "duration": "02:53",
+    "artists": [
+      {
+        "name": "Mike Perry",
+        "link": "https://music.163.com/artist?id=195021"
+      },
+      {
+        "name": "Wanja Janeva",
+        "link": "https://music.163.com/artist?id=12839904"
+      },
+      { "name": "Mangoo", "link": "https://music.163.com/artist?id=1081597" }
+    ],
+    "album": {
+      "name": "Maze",
+      "link": "https://music.163.com/album?id=87858483"
+    }
+  },
+  {
+    "name": "Right Here Waiting (feat. Camishe)",
+    "link": "https://music.163.com/song?id=1472612277",
+    "duration": "03:12",
+    "artists": [
+      { "name": "Max Oazo", "link": "https://music.163.com/artist?id=13159084" }
+    ],
+    "album": {
+      "name": "Right Here Waiting (feat. Camishe)",
+      "link": "https://music.163.com/album?id=94246037"
+    }
+  },
+  {
+    "name": "Antisocial",
+    "link": "https://music.163.com/song?id=550124208",
+    "duration": "02:42",
+    "artists": [
+      { "name": "BEAUZ", "link": "https://music.163.com/artist?id=12131436" },
+      {
+        "name": "Heather Sommer",
+        "link": "https://music.163.com/artist?id=13134228"
+      }
+    ],
+    "album": {
+      "name": "Antisocial",
+      "link": "https://music.163.com/album?id=38226050"
+    }
+  },
+  {
+    "name": "By Your Side",
+    "link": "https://music.163.com/song?id=437909145",
+    "duration": "03:21",
+    "artists": [
+      {
+        "name": "Jonas Blue",
+        "link": "https://music.163.com/artist?id=1192069"
+      },
+      { "name": "RAYE", "link": "https://music.163.com/artist?id=1077053" }
+    ],
+    "album": {
+      "name": "By Your Side",
+      "link": "https://music.163.com/album?id=34950031"
+    }
+  },
+  {
+    "name": "For Us",
+    "link": "https://music.163.com/song?id=30780805",
+    "duration": "05:58",
+    "artists": [
+      { "name": "Kozoro", "link": "https://music.163.com/artist?id=1050567" },
+      { "name": "Skyvoice", "link": "https://music.163.com/artist?id=1061002" }
+    ],
+    "album": {
+      "name": "For Us",
+      "link": "https://music.163.com/album?id=3103326"
+    }
+  },
+  {
+    "name": "Green",
+    "link": "https://music.163.com/song?id=1436474150",
+    "duration": "03:00",
+    "artists": [
+      { "name": "MAY-A", "link": "https://music.163.com/artist?id=35099467" }
+    ],
+    "album": {
+      "name": "Green",
+      "link": "https://music.163.com/album?id=87342265"
+    }
+  },
+  {
+    "name": "Sunrise",
+    "link": "https://music.163.com/song?id=531295947",
+    "duration": "03:18",
+    "artists": [
+      { "name": "Arty", "link": "https://music.163.com/artist?id=28883" },
+      {
+        "name": "April Bender",
+        "link": "https://music.163.com/artist?id=13080174"
+      }
+    ],
+    "album": {
+      "name": "Sunrise",
+      "link": "https://music.163.com/album?id=37313224"
+    }
+  },
+  {
+    "name": "Seven",
+    "link": "https://music.163.com/song?id=29379952",
+    "duration": "03:50",
+    "artists": [
+      { "name": "Tobu", "link": "https://music.163.com/artist?id=964486" }
+    ],
+    "album": {
+      "name": "Seven",
+      "link": "https://music.163.com/album?id=3018006"
+    }
+  },
+  {
+    "name": "Silhouettes",
+    "link": "https://music.163.com/song?id=1434225460",
+    "duration": "03:59",
+    "artists": [
+      { "name": "Shallou", "link": "https://music.163.com/artist?id=12029377" },
+      {
+        "name": "Vancouver Sleep Clinic",
+        "link": "https://music.163.com/artist?id=844692"
+      }
+    ],
+    "album": {
+      "name": "Magical Thinking",
+      "link": "https://music.163.com/album?id=86859888"
+    }
+  },
+  {
+    "name": "You & Me",
+    "link": "https://music.163.com/song?id=1421548502",
+    "duration": "03:02",
+    "artists": [
+      { "name": "MrWhite", "link": "https://music.163.com/artist?id=30484259" }
+    ],
+    "album": {
+      "name": "You & Me",
+      "link": "https://music.163.com/album?id=85554678"
+    }
+  },
+  {
+    "name": "Lush Life (Acoustic Version)",
+    "link": "https://music.163.com/song?id=408522735",
+    "duration": "03:22",
+    "artists": [
+      {
+        "name": "Zara Larsson",
+        "link": "https://music.163.com/artist?id=816461"
+      }
+    ],
+    "album": {
+      "name": "Lush Life (Acoustic Version)",
+      "link": "https://music.163.com/album?id=34589855"
+    }
+  },
+  {
+    "name": "Sounds From The Valley (Original Mix)",
+    "link": "https://music.163.com/song?id=1447306359",
+    "duration": "07:00",
+    "artists": [
+      { "name": "Melchi", "link": "https://music.163.com/artist?id=12058010" }
+    ],
+    "album": {
+      "name": "Sounds From The Valley",
+      "link": "https://music.163.com/album?id=89300453"
+    }
+  },
+  {
+    "name": "Dreams",
+    "link": "https://music.163.com/song?id=1300595092",
+    "duration": "03:35",
+    "artists": [
+      { "name": "Lost Sky", "link": "https://music.163.com/artist?id=28389556" }
+    ],
+    "album": {
+      "name": "Dreams",
+      "link": "https://music.163.com/album?id=72070289"
+    }
+  },
+  {
+    "name": "Run With Me",
+    "link": "https://music.163.com/song?id=514121384",
+    "duration": "06:31",
+    "artists": [
+      {
+        "name": "New Horizons",
+        "link": "https://music.163.com/artist?id=70040"
+      }
+    ],
+    "album": {
+      "name": "Just Breathe / Run With Me",
+      "link": "https://music.163.com/album?id=36637361"
+    }
+  },
+  {
+    "name": "贴贴",
+    "link": "https://music.163.com/song?id=1903509018",
+    "duration": "03:31",
+    "artists": [
+      { "name": "胥睿", "link": "https://music.163.com/artist?id=34579517" },
+      { "name": "杨淳", "link": "https://music.163.com/artist?id=34532558" }
+    ],
+    "album": {
+      "name": "贴贴",
+      "link": "https://music.163.com/album?id=137488664"
+    }
+  },
+  {
+    "name": "Be Alright",
+    "link": "https://music.163.com/song?id=1351603766",
+    "duration": "03:16",
+    "artists": [
+      { "name": "MADILYN", "link": "https://music.163.com/artist?id=69270" }
+    ],
+    "album": {
+      "name": "Be Alright",
+      "link": "https://music.163.com/album?id=75832974"
+    }
+  },
+  {
+    "name": "Rapture (Avicii New Generation Extended Mix)",
+    "link": "https://music.163.com/song?id=17586883",
+    "duration": "07:08",
+    "artists": [
+      { "name": "Nadia Ali", "link": "https://music.163.com/artist?id=70174" },
+      { "name": "Avicii", "link": "https://music.163.com/artist?id=45236" }
+    ],
+    "album": {
+      "name": "Queen of Clubs Trilogy: Onyx Edition (Extended Mixes)",
+      "link": "https://music.163.com/album?id=1617513"
+    }
+  },
+  {
+    "name": "Girl Gone Wild - AVICII's UMF Mix",
+    "link": "https://music.163.com/song?id=21231534",
+    "duration": "05:16",
+    "artists": [
+      { "name": "Madonna", "link": "https://music.163.com/artist?id=66364" },
+      { "name": "Avicii", "link": "https://music.163.com/artist?id=45236" }
+    ],
+    "album": {
+      "name": "Girl Gone Wild (Remixes)",
+      "link": "https://music.163.com/album?id=1962033"
+    }
+  },
+  {
+    "name": "Vanish",
+    "link": "https://music.163.com/song?id=1341932907",
+    "duration": "03:15",
+    "artists": [
+      { "name": "Dio Deer", "link": "https://music.163.com/artist?id=12319430" }
+    ],
+    "album": {
+      "name": "Vanish",
+      "link": "https://music.163.com/album?id=75296173"
+    }
+  },
+  {
+    "name": "BLUE",
+    "link": "https://music.163.com/song?id=37955047",
+    "duration": "03:31",
+    "artists": [
+      {
+        "name": "Troye Sivan",
+        "link": "https://music.163.com/artist?id=45129"
+      },
+      {
+        "name": "Alex Hope",
+        "link": "https://music.163.com/artist?id=12213103"
+      }
+    ],
+    "album": {
+      "name": "Blue Neighbourhood (Deluxe)",
+      "link": "https://music.163.com/album?id=3329047"
+    }
+  },
+  {
+    "name": "Sunset",
+    "link": "https://music.163.com/song?id=426027088",
+    "duration": "05:26",
+    "artists": [
+      {
+        "name": "The Midnight",
+        "link": "https://music.163.com/artist?id=12023492"
+      }
+    ],
+    "album": {
+      "name": "Endless Summer",
+      "link": "https://music.163.com/album?id=34826028"
+    }
+  },
+  {
+    "name": "倘若有天我辞了这人世",
+    "link": "https://music.163.com/song?id=1305443990",
+    "duration": "03:32",
+    "artists": [
+      { "name": "闹闹丶", "link": "https://music.163.com/artist?id=12357233" },
+      { "name": "洛天依", "link": "https://music.163.com/artist?id=906118" }
+    ],
+    "album": {
+      "name": "倘若有天我辞了这人世",
+      "link": "https://music.163.com/album?id=72531465"
+    }
+  },
+  {
+    "name": "Do It (Extended Mix)",
+    "link": "https://music.163.com/song?id=28730277",
+    "duration": "05:00",
+    "artists": [
+      {
+        "name": "Turbotronic",
+        "link": "https://music.163.com/artist?id=124853"
+      }
+    ],
+    "album": {
+      "name": "EDM Total. Adrenaline Music Festival 2014.",
+      "link": "https://music.163.com/album?id=2883473"
+    }
+  },
+  {
+    "name": "Fantasy World",
+    "link": "https://music.163.com/song?id=455861120",
+    "duration": "03:29",
+    "artists": [
+      { "name": "千坂", "link": "https://music.163.com/artist?id=12138261" }
+    ],
+    "album": {
+      "name": "Fantasy World",
+      "link": "https://music.163.com/album?id=35148665"
+    }
+  },
+  {
+    "name": "零六零五（洛天依 ver.）",
+    "link": "https://music.163.com/song?id=571522631",
+    "duration": "02:53",
+    "artists": [
+      { "name": "髅髅", "link": "https://music.163.com/artist?id=12226929" },
+      {
+        "name": "Bauhinia7x",
+        "link": "https://music.163.com/artist?id=12965906"
+      }
+    ],
+    "album": {
+      "name": "零六零五",
+      "link": "https://music.163.com/album?id=39516688"
+    }
+  },
+  {
+    "name": "Lost In Your Eyes (ft Per Rinaldo)",
+    "link": "https://music.163.com/song?id=29400872",
+    "duration": "04:52",
+    "artists": [
+      {
+        "name": "Timecop1983",
+        "link": "https://music.163.com/artist?id=954496"
+      }
+    ],
+    "album": {
+      "name": "Vox Populi 2: A Sequel",
+      "link": "https://music.163.com/album?id=3019452"
+    }
+  },
+  {
+    "name": "Hold On",
+    "link": "https://music.163.com/song?id=509726712",
+    "duration": "03:12",
+    "artists": [
+      { "name": "Fadi", "link": "https://music.163.com/artist?id=201988" }
+    ],
+    "album": {
+      "name": "Hold On",
+      "link": "https://music.163.com/album?id=36450286"
+    }
+  },
+  {
+    "name": "Real",
+    "link": "https://music.163.com/song?id=1918769560",
+    "duration": "02:44",
+    "artists": [
+      { "name": "Russ", "link": "https://music.163.com/artist?id=241588" }
+    ],
+    "album": {
+      "name": "Real",
+      "link": "https://music.163.com/album?id=140113480"
+    }
+  }
+]
