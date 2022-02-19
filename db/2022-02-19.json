@@ -1,0 +1,499 @@
+[
+  {
+    "name": "Constellation",
+    "link": "https://music.163.com/song?id=1429604070",
+    "duration": "02:52",
+    "artists": [
+      { "name": "Far Out", "link": "https://music.163.com/artist?id=824107" },
+      { "name": "Karra", "link": "https://music.163.com/artist?id=1081582" }
+    ],
+    "album": {
+      "name": "Constellation",
+      "link": "https://music.163.com/album?id=86368314"
+    }
+  },
+  {
+    "name": "All We Know",
+    "link": "https://music.163.com/song?id=432698441",
+    "duration": "03:14",
+    "artists": [
+      {
+        "name": "The Chainsmokers",
+        "link": "https://music.163.com/artist?id=893484"
+      },
+      {
+        "name": "Phoebe Ryan",
+        "link": "https://music.163.com/artist?id=854363"
+      }
+    ],
+    "album": {
+      "name": "All We Know",
+      "link": "https://music.163.com/album?id=34897575"
+    }
+  },
+  {
+    "name": "Stay",
+    "link": "https://music.163.com/song?id=1418381576",
+    "duration": "03:16",
+    "artists": [
+      {
+        "name": "Nicky Romero",
+        "link": "https://music.163.com/artist?id=195142"
+      }
+    ],
+    "album": {
+      "name": "Stay",
+      "link": "https://music.163.com/album?id=85158526"
+    }
+  },
+  {
+    "name": "不为谁而作的歌",
+    "link": "https://music.163.com/song?id=1468115151",
+    "duration": "04:25",
+    "artists": [
+      { "name": "林俊杰", "link": "https://music.163.com/artist?id=3684" }
+    ],
+    "album": {
+      "name": "上一首情歌 (国语精选)",
+      "link": "https://music.163.com/album?id=93426151"
+    }
+  },
+  {
+    "name": "Jeger",
+    "link": "https://music.163.com/song?id=1914751686",
+    "duration": "03:52",
+    "artists": [
+      {
+        "name": "Orjan Nilsen",
+        "link": "https://music.163.com/artist?id=41064"
+      }
+    ],
+    "album": {
+      "name": "Jeger",
+      "link": "https://music.163.com/album?id=139362651"
+    }
+  },
+  {
+    "name": "Gone (feat. Kianna)",
+    "link": "https://music.163.com/song?id=1336856653",
+    "duration": "02:52",
+    "artists": [
+      { "name": "Hoang", "link": "https://music.163.com/artist?id=27694442" },
+      { "name": "Kianna", "link": "https://music.163.com/artist?id=197017" }
+    ],
+    "album": {
+      "name": "Gone (feat. Kianna)",
+      "link": "https://music.163.com/album?id=75016971"
+    }
+  },
+  {
+    "name": "We Don't Belong",
+    "link": "https://music.163.com/song?id=488647739",
+    "duration": "03:06",
+    "artists": [
+      {
+        "name": "Dash Berlin",
+        "link": "https://music.163.com/artist?id=32124"
+      },
+      { "name": "Haneri", "link": "https://music.163.com/artist?id=12834932" }
+    ],
+    "album": {
+      "name": "We Don't Belong",
+      "link": "https://music.163.com/album?id=35695757"
+    }
+  },
+  {
+    "name": "We Should Be Sorry",
+    "link": "https://music.163.com/song?id=1435876256",
+    "duration": "03:06",
+    "artists": [
+      {
+        "name": "Axel Johansson",
+        "link": "https://music.163.com/artist?id=12872604"
+      }
+    ],
+    "album": {
+      "name": "We Should Be Sorry",
+      "link": "https://music.163.com/album?id=87134256"
+    }
+  },
+  {
+    "name": "Circles",
+    "link": "https://music.163.com/song?id=1447773945",
+    "duration": "03:27",
+    "artists": [
+      { "name": "KASTRA", "link": "https://music.163.com/artist?id=1105094" },
+      {
+        "name": "Alex Byrne",
+        "link": "https://music.163.com/artist?id=12121159"
+      }
+    ],
+    "album": {
+      "name": "Circles",
+      "link": "https://music.163.com/album?id=89388624"
+    }
+  },
+  {
+    "name": "Lost",
+    "link": "https://music.163.com/song?id=507585224",
+    "duration": "03:20",
+    "artists": [
+      { "name": "ILLENIUM", "link": "https://music.163.com/artist?id=1050518" },
+      {
+        "name": "Emilie Brandt",
+        "link": "https://music.163.com/artist?id=13939432"
+      }
+    ],
+    "album": {
+      "name": "Awake",
+      "link": "https://music.163.com/album?id=36290028"
+    }
+  },
+  {
+    "name": "Long Nights",
+    "link": "https://music.163.com/song?id=1421440264",
+    "duration": "03:10",
+    "artists": [
+      {
+        "name": "JST FRNDS",
+        "link": "https://music.163.com/artist?id=28390266"
+      }
+    ],
+    "album": {
+      "name": "Long Nights",
+      "link": "https://music.163.com/album?id=85538628"
+    }
+  },
+  {
+    "name": "Silence",
+    "link": "https://music.163.com/song?id=1311530752",
+    "duration": "03:20",
+    "artists": [
+      {
+        "name": "Before You Exit",
+        "link": "https://music.163.com/artist?id=88867"
+      }
+    ],
+    "album": {
+      "name": "Silence",
+      "link": "https://music.163.com/album?id=73495873"
+    }
+  },
+  {
+    "name": "Green Sky",
+    "link": "https://music.163.com/song?id=30064291",
+    "duration": "03:48",
+    "artists": [
+      {
+        "name": "Alex Skrindo",
+        "link": "https://music.163.com/artist?id=1046359"
+      }
+    ],
+    "album": {
+      "name": "Green Sky",
+      "link": "https://music.163.com/album?id=3093056"
+    }
+  },
+  {
+    "name": "Complexity",
+    "link": "https://music.163.com/song?id=408532744",
+    "duration": "03:06",
+    "artists": [
+      { "name": "MadEye", "link": "https://music.163.com/artist?id=12108505" }
+    ],
+    "album": {
+      "name": "Complexity",
+      "link": "https://music.163.com/album?id=34589886"
+    }
+  },
+  {
+    "name": "Days Gone By",
+    "link": "https://music.163.com/song?id=32717174",
+    "duration": "04:33",
+    "artists": [
+      { "name": "Nyte", "link": "https://music.163.com/artist?id=1034003" }
+    ],
+    "album": {
+      "name": "Days Gone By",
+      "link": "https://music.163.com/album?id=3161868"
+    }
+  },
+  {
+    "name": "Ridin' With You",
+    "link": "https://music.163.com/song?id=1449957050",
+    "duration": "02:50",
+    "artists": [
+      { "name": "J. Lisk", "link": "https://music.163.com/artist?id=12121101" }
+    ],
+    "album": {
+      "name": "Ridin' With You",
+      "link": "https://music.163.com/album?id=89759791"
+    }
+  },
+  {
+    "name": "Summer Of My Childhood (Mark & Lukas Remix)",
+    "link": "https://music.163.com/song?id=495218280",
+    "duration": "06:26",
+    "artists": [
+      {
+        "name": "George Ellinas",
+        "link": "https://music.163.com/artist?id=442621"
+      },
+      {
+        "name": "Mark & Lukas",
+        "link": "https://music.163.com/artist?id=1104097"
+      }
+    ],
+    "album": {
+      "name": "Summer Of My Childhood",
+      "link": "https://music.163.com/album?id=35878106"
+    }
+  },
+  {
+    "name": "黑白的我",
+    "link": "https://music.163.com/song?id=556459092",
+    "duration": "03:07",
+    "artists": [
+      { "name": "KYS", "link": "https://music.163.com/artist?id=14017279" },
+      {
+        "name": "Mr.16罗隽永",
+        "link": "https://music.163.com/artist?id=1060200"
+      }
+    ],
+    "album": {
+      "name": "黑白的我",
+      "link": "https://music.163.com/album?id=38537068"
+    }
+  },
+  {
+    "name": "Superb",
+    "link": "https://music.163.com/song?id=29487452",
+    "duration": "06:52",
+    "artists": [
+      { "name": "Mossy", "link": "https://music.163.com/artist?id=205303" }
+    ],
+    "album": {
+      "name": "Superb",
+      "link": "https://music.163.com/album?id=3033062"
+    }
+  },
+  {
+    "name": "Somber (Acoustic)",
+    "link": "https://music.163.com/song?id=550616628",
+    "duration": "03:57",
+    "artists": [
+      {
+        "name": "Violet Days",
+        "link": "https://music.163.com/artist?id=947272"
+      },
+      { "name": "morgxn", "link": "https://music.163.com/artist?id=12053396" }
+    ],
+    "album": {
+      "name": "Somber (Acoustic)",
+      "link": "https://music.163.com/album?id=38099295"
+    }
+  },
+  {
+    "name": "1000x",
+    "link": "https://music.163.com/song?id=417908611",
+    "duration": "04:00",
+    "artists": [
+      { "name": "BROODS", "link": "https://music.163.com/artist?id=839948" },
+      {
+        "name": "Jarryd James",
+        "link": "https://music.163.com/artist?id=1049740"
+      }
+    ],
+    "album": {
+      "name": "1000x",
+      "link": "https://music.163.com/album?id=34732354"
+    }
+  },
+  {
+    "name": "Head In The Clouds",
+    "link": "https://music.163.com/song?id=1878812258",
+    "duration": "03:04",
+    "artists": [
+      { "name": "Hayd", "link": "https://music.163.com/artist?id=31213402" }
+    ],
+    "album": {
+      "name": "Changes - EP",
+      "link": "https://music.163.com/album?id=133357885"
+    }
+  },
+  {
+    "name": "星芒(Feat.洛天依)",
+    "link": "https://music.163.com/song?id=1378626275",
+    "duration": "04:30",
+    "artists": [
+      {
+        "name": "HawkLegend",
+        "link": "https://music.163.com/artist?id=12272947"
+      }
+    ],
+    "album": {
+      "name": "星芒(Feat.洛天依)",
+      "link": "https://music.163.com/album?id=80420008"
+    }
+  },
+  {
+    "name": "Avicii-Promise Of Tears(Feat.Avicii)（Atfort/Rebirth Remix）",
+    "link": "https://music.163.com/song?id=1394217807",
+    "duration": "04:10",
+    "artists": [
+      { "name": "Atfort", "link": "https://music.163.com/artist?id=32719664" },
+      {
+        "name": "ハミシオルソン",
+        "link": "https://music.163.com/artist?id=33102381"
+      }
+    ],
+    "album": {
+      "name": "Promise Of Tears(Feat. Tim ",
+      "link": "https://music.163.com/album?id=81980596"
+    }
+  },
+  {
+    "name": "Treading in the Abyss",
+    "link": "https://music.163.com/song?id=1335349531",
+    "duration": "04:02",
+    "artists": [
+      { "name": "Wisp X", "link": "https://music.163.com/artist?id=1046123" },
+      { "name": "GUMI", "link": "https://music.163.com/artist?id=188274" }
+    ],
+    "album": {
+      "name": "Glass Heart",
+      "link": "https://music.163.com/album?id=74937654"
+    }
+  },
+  {
+    "name": "Together",
+    "link": "https://music.163.com/song?id=1415135256",
+    "duration": "03:01",
+    "artists": [
+      { "name": "Kazukii", "link": "https://music.163.com/artist?id=12054389" }
+    ],
+    "album": {
+      "name": "Together",
+      "link": "https://music.163.com/album?id=84822011"
+    }
+  },
+  {
+    "name": "Part of Me (Original Mix)",
+    "link": "https://music.163.com/song?id=1294608839",
+    "duration": "07:01",
+    "artists": [
+      {
+        "name": "Gregory Esayan",
+        "link": "https://music.163.com/artist?id=193198"
+      },
+      {
+        "name": "Angel Falls",
+        "link": "https://music.163.com/artist?id=12474818"
+      }
+    ],
+    "album": {
+      "name": "Part of Me",
+      "link": "https://music.163.com/album?id=71886139"
+    }
+  },
+  {
+    "name": "独依无二",
+    "link": "https://music.163.com/song?id=1377467552",
+    "duration": "03:45",
+    "artists": [{ "name": "洛窻瀤铢天依", "link": "" }],
+    "album": {
+      "name": "独依无二",
+      "link": "https://music.163.com/album?id=80344682"
+    }
+  },
+  {
+    "name": "星海彼岸",
+    "link": "https://music.163.com/song?id=864542380",
+    "duration": "04:31",
+    "artists": [
+      { "name": "洛天依", "link": "https://music.163.com/artist?id=906118" }
+    ],
+    "album": {
+      "name": "星海彼岸",
+      "link": "https://music.163.com/album?id=71715526"
+    }
+  },
+  {
+    "name": "Yearn",
+    "link": "https://music.163.com/song?id=1343225725",
+    "duration": "02:55",
+    "artists": [
+      { "name": "Hollis", "link": "https://music.163.com/artist?id=12287729" }
+    ],
+    "album": {
+      "name": "Avīci",
+      "link": "https://music.163.com/album?id=75359183"
+    }
+  },
+  {
+    "name": "Melody",
+    "link": "https://music.163.com/song?id=1430000692",
+    "duration": "03:57",
+    "artists": [
+      { "name": "ZIV", "link": "https://music.163.com/artist?id=12085066" },
+      { "name": "KIPES", "link": "https://music.163.com/artist?id=12270301" }
+    ],
+    "album": {
+      "name": "倒叙爱情",
+      "link": "https://music.163.com/album?id=132738139"
+    }
+  },
+  {
+    "name": "Butterflies",
+    "link": "https://music.163.com/song?id=1824718834",
+    "duration": "02:41",
+    "artists": [
+      {
+        "name": "Johnny Stimson",
+        "link": "https://music.163.com/artist?id=787208"
+      }
+    ],
+    "album": {
+      "name": "Butterflies",
+      "link": "https://music.163.com/album?id=123856869"
+    }
+  },
+  {
+    "name": "Numb",
+    "link": "https://music.163.com/song?id=1472538276",
+    "duration": "02:10",
+    "artists": [
+      {
+        "name": "Arc North",
+        "link": "https://music.163.com/artist?id=1137410"
+      },
+      {
+        "name": "New Beat Order",
+        "link": "https://music.163.com/artist?id=30059556"
+      },
+      {
+        "name": "Aaron Richards",
+        "link": "https://music.163.com/artist?id=14055238"
+      }
+    ],
+    "album": {
+      "name": "Numb",
+      "link": "https://music.163.com/album?id=94233903"
+    }
+  },
+  {
+    "name": "Light Switch (Acoustic)",
+    "link": "https://music.163.com/song?id=1920650164",
+    "duration": "03:06",
+    "artists": [
+      {
+        "name": "Charlie Puth",
+        "link": "https://music.163.com/artist?id=90331"
+      }
+    ],
+    "album": {
+      "name": "Light Switch (Acoustic)",
+      "link": "https://music.163.com/album?id=140441096"
+    }
+  }
+]
