@@ -1,0 +1,452 @@
+[
+  {
+    "name": "Northern Light",
+    "link": "https://music.163.com/song?id=1459853712",
+    "duration": "03:19",
+    "artists": [
+      {
+        "name": "Newclaess",
+        "link": "https://music.163.com/artist?id=13335706"
+      }
+    ],
+    "album": {
+      "name": "Northern Light",
+      "link": "https://music.163.com/album?id=91873573"
+    }
+  },
+  {
+    "name": "Funny",
+    "link": "https://music.163.com/song?id=1462389947",
+    "duration": "03:41",
+    "artists": [
+      { "name": "Zedd", "link": "https://music.163.com/artist?id=46376" },
+      {
+        "name": "Jasmine Thompson",
+        "link": "https://music.163.com/artist?id=863042"
+      }
+    ],
+    "album": {
+      "name": "Funny",
+      "link": "https://music.163.com/album?id=92342653"
+    }
+  },
+  {
+    "name": "Million Miles",
+    "link": "https://music.163.com/song?id=1374602799",
+    "duration": "03:22",
+    "artists": [
+      { "name": "Mark Sixma", "link": "https://music.163.com/artist?id=178755" }
+    ],
+    "album": {
+      "name": "Million Miles",
+      "link": "https://music.163.com/album?id=80064850"
+    }
+  },
+  {
+    "name": "Deep End",
+    "link": "https://music.163.com/song?id=470573623",
+    "duration": "03:37",
+    "artists": [
+      { "name": "LU2VYK", "link": "https://music.163.com/artist?id=12356140" }
+    ],
+    "album": {
+      "name": "Deep End",
+      "link": "https://music.163.com/album?id=35346122"
+    }
+  },
+  {
+    "name": "Gold (w/ Caly Bevier)",
+    "link": "https://music.163.com/song?id=1921187881",
+    "duration": "02:44",
+    "artists": [
+      {
+        "name": "Said The Sky",
+        "link": "https://music.163.com/artist?id=1026094"
+      },
+      {
+        "name": "Caly Bevier",
+        "link": "https://music.163.com/artist?id=30322783"
+      }
+    ],
+    "album": {
+      "name": "Sentiment",
+      "link": "https://music.163.com/album?id=140557266"
+    }
+  },
+  {
+    "name": "Somebody",
+    "link": "https://music.163.com/song?id=479219365",
+    "duration": "03:29",
+    "artists": [
+      {
+        "name": "Lush & Simon",
+        "link": "https://music.163.com/artist?id=358207"
+      },
+      { "name": "IZII", "link": "https://music.163.com/artist?id=12154276" }
+    ],
+    "album": {
+      "name": "Somebody",
+      "link": "https://music.163.com/album?id=35535115"
+    }
+  },
+  {
+    "name": "Chance",
+    "link": "https://music.163.com/song?id=536513830",
+    "duration": "03:33",
+    "artists": [
+      { "name": "Aspyer", "link": "https://music.163.com/artist?id=12409085" },
+      {
+        "name": "Kyle Reynolds",
+        "link": "https://music.163.com/artist?id=1179061"
+      },
+      {
+        "name": "Carly Jay",
+        "link": "https://music.163.com/artist?id=30395435"
+      }
+    ],
+    "album": {
+      "name": "Chance",
+      "link": "https://music.163.com/album?id=37552481"
+    }
+  },
+  {
+    "name": "Heavy Love",
+    "link": "https://music.163.com/song?id=36307370",
+    "duration": "03:31",
+    "artists": [
+      { "name": "J. Lisk", "link": "https://music.163.com/artist?id=12121101" }
+    ],
+    "album": {
+      "name": "Mali Music - Heavy Love",
+      "link": "https://music.163.com/album?id=3395095"
+    }
+  },
+  {
+    "name": "Eternal Summer",
+    "link": "https://music.163.com/song?id=453185458",
+    "duration": "03:14",
+    "artists": [
+      {
+        "name": "Damon Empero",
+        "link": "https://music.163.com/artist?id=12145093"
+      }
+    ],
+    "album": {
+      "name": "Eternal Summer",
+      "link": "https://music.163.com/album?id=35123193"
+    }
+  },
+  {
+    "name": "Levitate",
+    "link": "https://music.163.com/song?id=406737893",
+    "duration": "04:04",
+    "artists": [
+      { "name": "FEWZ", "link": "https://music.163.com/artist?id=12008133" }
+    ],
+    "album": {
+      "name": "Levitate",
+      "link": "https://music.163.com/album?id=34555371"
+    }
+  },
+  {
+    "name": "Free Fall",
+    "link": "https://music.163.com/song?id=507585217",
+    "duration": "03:25",
+    "artists": [
+      { "name": "ILLENIUM", "link": "https://music.163.com/artist?id=1050518" },
+      { "name": "RUNN", "link": "https://music.163.com/artist?id=15237536" }
+    ],
+    "album": {
+      "name": "Awake",
+      "link": "https://music.163.com/album?id=36290028"
+    }
+  },
+  {
+    "name": "Higher",
+    "link": "https://music.163.com/song?id=28830412",
+    "duration": "03:33",
+    "artists": [
+      { "name": "Tobu", "link": "https://music.163.com/artist?id=964486" }
+    ],
+    "album": {
+      "name": "Higher",
+      "link": "https://music.163.com/album?id=2901140"
+    }
+  },
+  {
+    "name": "Sunny Dust",
+    "link": "https://music.163.com/song?id=1457649460",
+    "duration": "03:20",
+    "artists": [
+      {
+        "name": "polarrana",
+        "link": "https://music.163.com/artist?id=33858174"
+      }
+    ],
+    "album": {
+      "name": "Sunny Dust",
+      "link": "https://music.163.com/album?id=91399450"
+    }
+  },
+  {
+    "name": "Zippo",
+    "link": "https://music.163.com/song?id=407002546",
+    "duration": "03:56",
+    "artists": [
+      { "name": "Chasjam", "link": "https://music.163.com/artist?id=11986076" }
+    ],
+    "album": {
+      "name": "Zippo",
+      "link": "https://music.163.com/album?id=34569101"
+    }
+  },
+  {
+    "name": "Firefly",
+    "link": "https://music.163.com/song?id=33166541",
+    "duration": "04:16",
+    "artists": [
+      { "name": "Jim Yosef", "link": "https://music.163.com/artist?id=1063121" }
+    ],
+    "album": {
+      "name": "Firefly",
+      "link": "https://music.163.com/album?id=3184484"
+    }
+  },
+  {
+    "name": "Before This Night Is Through (Bad Things)",
+    "link": "https://music.163.com/song?id=484252687",
+    "duration": "07:39",
+    "artists": [
+      { "name": "Tim Berg", "link": "https://music.163.com/artist?id=12323126" }
+    ],
+    "album": {
+      "name": "Club Session Pres. Club Weapons No. 27",
+      "link": "https://music.163.com/album?id=35629101"
+    }
+  },
+  {
+    "name": "Moving On",
+    "link": "https://music.163.com/song?id=476323553",
+    "duration": "02:59",
+    "artists": [
+      {
+        "name": "Marshmello",
+        "link": "https://music.163.com/artist?id=1060019"
+      }
+    ],
+    "album": {
+      "name": "Moving On",
+      "link": "https://music.163.com/album?id=35456148"
+    }
+  },
+  {
+    "name": "Avicii-Lord（Asaika Remix）",
+    "link": "https://music.163.com/song?id=1426273398",
+    "duration": "03:39",
+    "artists": [
+      { "name": "Asaika", "link": "https://music.163.com/artist?id=33042072" }
+    ],
+    "album": {
+      "name": "Lord",
+      "link": "https://music.163.com/album?id=86004201"
+    }
+  },
+  {
+    "name": "Azure Blue",
+    "link": "https://music.163.com/song?id=1871738148",
+    "duration": "02:26",
+    "artists": [
+      {
+        "name": "Kirara Magic",
+        "link": "https://music.163.com/artist?id=30226109"
+      }
+    ],
+    "album": {
+      "name": "A Cafe By The Sea",
+      "link": "https://music.163.com/album?id=132124680"
+    }
+  },
+  {
+    "name": "简单与秋夜",
+    "link": "https://music.163.com/song?id=428391249",
+    "duration": "02:56",
+    "artists": [
+      { "name": "闫东炜", "link": "https://music.163.com/artist?id=4621" }
+    ],
+    "album": {
+      "name": "小清新与小情绪",
+      "link": "https://music.163.com/album?id=34615284"
+    }
+  },
+  {
+    "name": "东京不太热",
+    "link": "https://music.163.com/song?id=1478965386",
+    "duration": "04:05",
+    "artists": [
+      { "name": "Z新豪", "link": "https://music.163.com/artist?id=1145057" },
+      { "name": "洛天依", "link": "https://music.163.com/artist?id=906118" }
+    ],
+    "album": {
+      "name": "Vocaloid作品集",
+      "link": "https://music.163.com/album?id=95230607"
+    }
+  },
+  {
+    "name": "Flash Funk (Marshmello Remix) - (风光闪)",
+    "link": "https://music.163.com/song?id=400161903",
+    "duration": "03:41",
+    "artists": [
+      { "name": "英雄联盟", "link": "https://music.163.com/artist?id=1047337" },
+      {
+        "name": "Marshmello",
+        "link": "https://music.163.com/artist?id=1060019"
+      }
+    ],
+    "album": {
+      "name": "Warsongs",
+      "link": "https://music.163.com/album?id=34429106"
+    }
+  },
+  {
+    "name": "Loving Feeling",
+    "link": "https://music.163.com/song?id=1301783655",
+    "duration": "03:13",
+    "artists": [
+      { "name": "CAZZETTE", "link": "https://music.163.com/artist?id=346157" },
+      { "name": "The High", "link": "https://music.163.com/artist?id=137003" }
+    ],
+    "album": {
+      "name": "Stereo Mono",
+      "link": "https://music.163.com/album?id=72312738"
+    }
+  },
+  {
+    "name": "Escape Me (Avicii's Remix At Night)",
+    "link": "https://music.163.com/song?id=27113137",
+    "duration": "07:40",
+    "artists": [
+      { "name": "Tiësto", "link": "https://music.163.com/artist?id=688047" },
+      {
+        "name": "C.C. Sheffield",
+        "link": "https://music.163.com/artist?id=290006"
+      }
+    ],
+    "album": {
+      "name": "Escape Me",
+      "link": "https://music.163.com/album?id=2587253"
+    }
+  },
+  {
+    "name": "绝体绝命",
+    "link": "https://music.163.com/song?id=550059604",
+    "duration": "03:33",
+    "artists": [
+      {
+        "name": "阿良良木健",
+        "link": "https://music.163.com/artist?id=964311"
+      },
+      { "name": "洛天依", "link": "https://music.163.com/artist?id=906118" }
+    ],
+    "album": {
+      "name": "洛天依作品2号：V",
+      "link": "https://music.163.com/album?id=37964923"
+    }
+  },
+  {
+    "name": "伴宅日记",
+    "link": "https://music.163.com/song?id=1318866355",
+    "duration": "04:23",
+    "artists": [
+      { "name": "H6", "link": "https://music.163.com/artist?id=12434635" },
+      { "name": "洛天依", "link": "https://music.163.com/artist?id=906118" }
+    ],
+    "album": {
+      "name": "【H6】伴宅日记",
+      "link": "https://music.163.com/album?id=73965889"
+    }
+  },
+  {
+    "name": "Our age",
+    "link": "https://music.163.com/song?id=501037963",
+    "duration": "04:19",
+    "artists": [
+      { "name": "迁梦", "link": "https://music.163.com/artist?id=12065044" },
+      { "name": "洛天依", "link": "https://music.163.com/artist?id=906118" }
+    ],
+    "album": {
+      "name": "Our Age",
+      "link": "https://music.163.com/album?id=36026423"
+    }
+  },
+  {
+    "name": "秘宝",
+    "link": "https://music.163.com/song?id=1366000915",
+    "duration": "03:18",
+    "artists": [
+      {
+        "name": "litterzy",
+        "link": "https://music.163.com/artist?id=12055057"
+      },
+      { "name": "洛天依", "link": "https://music.163.com/artist?id=906118" }
+    ],
+    "album": {
+      "name": "秘宝",
+      "link": "https://music.163.com/album?id=79180775"
+    }
+  },
+  {
+    "name": "Michigan",
+    "link": "https://music.163.com/song?id=447079565",
+    "duration": "03:46",
+    "artists": [
+      { "name": "Grammar", "link": "https://music.163.com/artist?id=862097" }
+    ],
+    "album": {
+      "name": "Michigan",
+      "link": "https://music.163.com/album?id=35051453"
+    }
+  },
+  {
+    "name": "Dizzy",
+    "link": "https://music.163.com/song?id=17734910",
+    "duration": "04:30",
+    "artists": [
+      { "name": "Ours", "link": "https://music.163.com/artist?id=70308" }
+    ],
+    "album": {
+      "name": "Distorted Lullabies",
+      "link": "https://music.163.com/album?id=1630807"
+    }
+  },
+  {
+    "name": "Secret",
+    "link": "https://music.163.com/song?id=1375724810",
+    "duration": "07:00",
+    "artists": [
+      {
+        "name": "Gregory Esayan",
+        "link": "https://music.163.com/artist?id=193198"
+      },
+      {
+        "name": "DASHANIKON",
+        "link": "https://music.163.com/artist?id=12766353"
+      }
+    ],
+    "album": {
+      "name": "Secret",
+      "link": "https://music.163.com/album?id=80188251"
+    }
+  },
+  {
+    "name": "Flicker",
+    "link": "https://music.163.com/song?id=38391781",
+    "duration": "03:17",
+    "artists": [
+      { "name": "Nyte", "link": "https://music.163.com/artist?id=1034003" }
+    ],
+    "album": {
+      "name": "Constellations EP",
+      "link": "https://music.163.com/album?id=3427470"
+    }
+  }
+]
