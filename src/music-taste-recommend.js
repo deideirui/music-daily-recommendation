@@ -1,17 +1,16 @@
 const path = require('path')
 const http = require('http')
-const puppeteer = require('puppeteer')
+const { chromium } = require('@playwright/test')
 
 ;(async () => {
-  // https://cnodejs.org/topic/5c1d901776c4964062a1c6e8
-  // userDataDir
-  // login required when first time
-  const browser = await puppeteer.launch({
-    headless: false,
-    userDataDir: path.join(__dirname, '../chrome-user-data'),
-  })
+  const context = await chromium.launchPersistentContext(
+    path.join(__dirname, '../chromium-user-data'),
+    {
+      headless: false
+    }
+  );
 
-  const page = await browser.newPage()
+  const page = await context.newPage()
 
   await page.goto('https://music.163.com/#/discover/recommend/taste')
 
@@ -87,7 +86,7 @@ const puppeteer = require('puppeteer')
     },
     (res) => {
       res.on('data', (chunk) => debug && console.log('[data]', String(chunk)))
-      res.on('end', () => browser.close())
+      res.on('end', () => context.close())
     }
   )
 

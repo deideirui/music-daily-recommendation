@@ -4,8 +4,9 @@
   "description": "",
   "license": "MIT",
   "scripts": {
+    "build": "go build -o ./bin/music-taste-recommend.out server/server.go",
     "prettier": "npx prettier ./{client,server,db}/**/*.{js,json} --write",
-    "build": "go build -o ./bin/music-taste-recommend.out server/server.go"
+    "test": "playwright test"
   },
   "gitHooks": {
     "pre-commit": "lint-staged"
@@ -16,10 +17,6 @@
     ]
   },
   "devDependencies": {
-    "lint-staged": "^10.0.3",
-    "yorkie": "^2.0.0"
-  },
-  "dependencies": {
-    "puppeteer": "^10.2.0"
+    "@playwright/test": "^1.19.1"
   }
 }

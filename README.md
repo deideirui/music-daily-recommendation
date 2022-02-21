@@ -2,7 +2,7 @@
 
 ```sh
 # install
-PUPPETEER_DOWNLOAD_HOST=https://storage.googleapis.com.cnpmjs.org npm install
+npm install
 
 # build
 npm run build

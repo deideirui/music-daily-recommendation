@@ -17,7 +17,7 @@ dir=$(current_dir $0)
 # search & kill pid: https://www.cnblogs.com/lovychen/p/6211209.html
 
 $dir/bin/music-taste-recommend.out &
-node $dir/client/music-taste-recommend.js &
+node $dir/src/music-taste-recommend.js &
 sleep 10 && kill $(pgrep 'music-taste-recommend')
 
 # can't use wait then kill, it will wait all process to be finished
@@ -37,4 +37,3 @@ cd $dir
 git add ./db
 git commit -m "new file: db/$f"
 git push
-
