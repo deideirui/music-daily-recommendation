@@ -1,0 +1,512 @@
+[
+  {
+    "name": "Turn Back Time",
+    "link": "https://music.163.com/song?id=1331800077",
+    "duration": "03:09",
+    "artists": [
+      {
+        "name": "Rich Edwards",
+        "link": "https://music.163.com/artist?id=1038214"
+      },
+      { "name": "Emelie", "link": "https://music.163.com/artist?id=15352429" }
+    ],
+    "album": {
+      "name": "Turn Back Time",
+      "link": "https://music.163.com/album?id=74808833"
+    }
+  },
+  {
+    "name": "Otona !",
+    "link": "https://music.163.com/song?id=1825214306",
+    "duration": "02:00",
+    "artists": [
+      {
+        "name": "PIKASONIC",
+        "link": "https://music.163.com/artist?id=13499634"
+      }
+    ],
+    "album": {
+      "name": "Otona !",
+      "link": "https://music.163.com/album?id=123951820"
+    }
+  },
+  {
+    "name": "Breeze",
+    "link": "https://music.163.com/song?id=1319347101",
+    "duration": "03:33",
+    "artists": [
+      { "name": "Keega", "link": "https://music.163.com/artist?id=12276986" }
+    ],
+    "album": {
+      "name": "Breeze",
+      "link": "https://music.163.com/album?id=73960097"
+    }
+  },
+  {
+    "name": "Inside the Lines",
+    "link": "https://music.163.com/song?id=436514455",
+    "duration": "03:24",
+    "artists": [
+      {
+        "name": "Mike Perry",
+        "link": "https://music.163.com/artist?id=195021"
+      },
+      { "name": "Casso", "link": "https://music.163.com/artist?id=542221" }
+    ],
+    "album": {
+      "name": "Inside the Lines",
+      "link": "https://music.163.com/album?id=34929330"
+    }
+  },
+  {
+    "name": "Le Tour De Trance",
+    "link": "https://music.163.com/song?id=1921022719",
+    "duration": "05:08",
+    "artists": [
+      {
+        "name": "Orjan Nilsen",
+        "link": "https://music.163.com/artist?id=41064"
+      }
+    ],
+    "album": {
+      "name": "Le Tour De Trance",
+      "link": "https://music.163.com/album?id=140509932"
+    }
+  },
+  {
+    "name": "亚特兰提斯",
+    "link": "https://music.163.com/song?id=354220",
+    "duration": "03:49",
+    "artists": [
+      { "name": "F.I.R.", "link": "https://music.163.com/artist?id=11562" }
+    ],
+    "album": {
+      "name": "亚特兰提斯",
+      "link": "https://music.163.com/album?id=34954"
+    }
+  },
+  {
+    "name": "Shelter",
+    "link": "https://music.163.com/song?id=425280053",
+    "duration": "03:38",
+    "artists": [
+      {
+        "name": "Porter Robinson",
+        "link": "https://music.163.com/artist?id=185871"
+      },
+      { "name": "Madeon", "link": "https://music.163.com/artist?id=40280" }
+    ],
+    "album": {
+      "name": "Shelter",
+      "link": "https://music.163.com/album?id=34818014"
+    }
+  },
+  {
+    "name": "Sweet Memories",
+    "link": "https://music.163.com/song?id=1383794030",
+    "duration": "04:18",
+    "artists": [
+      { "name": "Couple N", "link": "https://music.163.com/artist?id=29832422" }
+    ],
+    "album": {
+      "name": "Love Is",
+      "link": "https://music.163.com/album?id=80893036"
+    }
+  },
+  {
+    "name": "Dreams pt. II",
+    "link": "https://music.163.com/song?id=1330206725",
+    "duration": "03:35",
+    "artists": [
+      {
+        "name": "Lost Sky",
+        "link": "https://music.163.com/artist?id=28389556"
+      },
+      {
+        "name": "Sara Skinner",
+        "link": "https://music.163.com/artist?id=1132406"
+      }
+    ],
+    "album": {
+      "name": "Dreams pt. II",
+      "link": "https://music.163.com/album?id=74712350"
+    }
+  },
+  {
+    "name": "The Best Of Me",
+    "link": "https://music.163.com/song?id=1329938686",
+    "duration": "04:33",
+    "artists": [
+      {
+        "name": "Dion Timmer",
+        "link": "https://music.163.com/artist?id=11998053"
+      },
+      {
+        "name": "The Arcturians",
+        "link": "https://music.163.com/artist?id=12475227"
+      }
+    ],
+    "album": {
+      "name": "Very Extra",
+      "link": "https://music.163.com/album?id=74687130"
+    }
+  },
+  {
+    "name": "星绊",
+    "link": "https://music.163.com/song?id=1443191554",
+    "duration": "03:15",
+    "artists": [
+      { "name": "R7CKY", "link": "https://music.163.com/artist?id=1044054" },
+      {
+        "name": "ChakYoun9",
+        "link": "https://music.163.com/artist?id=12094429"
+      },
+      { "name": "兔子ST", "link": "https://music.163.com/artist?id=12287907" }
+    ],
+    "album": {
+      "name": "星绊",
+      "link": "https://music.163.com/album?id=88483688"
+    }
+  },
+  {
+    "name": "Kuyenda",
+    "link": "https://music.163.com/song?id=500399011",
+    "duration": "02:59",
+    "artists": [
+      {
+        "name": "Lennart Schroot",
+        "link": "https://music.163.com/artist?id=1147209"
+      },
+      {
+        "name": "Unknown Brain",
+        "link": "https://music.163.com/artist?id=12196203"
+      },
+      { "name": "Sru", "link": "https://music.163.com/artist?id=14297664" }
+    ],
+    "album": {
+      "name": "Kuyenda",
+      "link": "https://music.163.com/album?id=36015013"
+    }
+  },
+  {
+    "name": "Insomnia 2.0 (Avicii Extended Remix)",
+    "link": "https://music.163.com/song?id=406388062",
+    "duration": "06:17",
+    "artists": [
+      { "name": "Faithless", "link": "https://music.163.com/artist?id=56790" },
+      { "name": "Avicii", "link": "https://music.163.com/artist?id=45236" }
+    ],
+    "album": {
+      "name": "Keep Calm & Party",
+      "link": "https://music.163.com/album?id=34560139"
+    }
+  },
+  {
+    "name": "Worlds Apart",
+    "link": "https://music.163.com/song?id=1341819224",
+    "duration": "03:34",
+    "artists": [
+      { "name": "Far Out", "link": "https://music.163.com/artist?id=824107" }
+    ],
+    "album": {
+      "name": "Worlds Apart",
+      "link": "https://music.163.com/album?id=75317249"
+    }
+  },
+  {
+    "name": "I Could Be The One (Nicktim - Original Mix)",
+    "link": "https://music.163.com/song?id=425015303",
+    "duration": "07:35",
+    "artists": [
+      { "name": "Avicii", "link": "https://music.163.com/artist?id=45236" },
+      {
+        "name": "Nicky Romero",
+        "link": "https://music.163.com/artist?id=195142"
+      }
+    ],
+    "album": {
+      "name": "I Could Be The One [Avicii vs Nicky Romero]",
+      "link": "https://music.163.com/album?id=34809644"
+    }
+  },
+  {
+    "name": "Decoy World VIP (feat. Park Avenue)",
+    "link": "https://music.163.com/song?id=528273782",
+    "duration": "04:30",
+    "artists": [
+      {
+        "name": "Intercom",
+        "link": "https://music.163.com/artist?id=12616082"
+      },
+      {
+        "name": "Park Avenue",
+        "link": "https://music.163.com/artist?id=368447"
+      }
+    ],
+    "album": {
+      "name": "Decoy World VIP (feat. Park Avenue)",
+      "link": "https://music.163.com/album?id=37238037"
+    }
+  },
+  {
+    "name": "Lily",
+    "link": "https://music.163.com/song?id=1333159921",
+    "duration": "03:15",
+    "artists": [
+      {
+        "name": "Alan Walker",
+        "link": "https://music.163.com/artist?id=1045123"
+      },
+      { "name": "K-391", "link": "https://music.163.com/artist?id=1049937" },
+      {
+        "name": "Emelie Hollow",
+        "link": "https://music.163.com/artist?id=12136052"
+      }
+    ],
+    "album": {
+      "name": "Different World",
+      "link": "https://music.163.com/album?id=74571750"
+    }
+  },
+  {
+    "name": "Search",
+    "link": "https://music.163.com/song?id=30251252",
+    "duration": "04:52",
+    "artists": [
+      {
+        "name": "Approaching Nirvana",
+        "link": "https://music.163.com/artist?id=86884"
+      }
+    ],
+    "album": {
+      "name": "Reboot",
+      "link": "https://music.163.com/album?id=3095022"
+    }
+  },
+  {
+    "name": "SkyCity(天空之城)",
+    "link": "https://music.163.com/song?id=456658875",
+    "duration": "03:00",
+    "artists": [
+      {
+        "name": "Forwe兰斯",
+        "link": "https://music.163.com/artist?id=12079166"
+      }
+    ],
+    "album": {
+      "name": "SkyCity(天空之城)",
+      "link": "https://music.163.com/album?id=35154486"
+    }
+  },
+  {
+    "name": "Say Hello",
+    "link": "https://music.163.com/song?id=534998241",
+    "duration": "03:07",
+    "artists": [
+      { "name": "千坂", "link": "https://music.163.com/artist?id=12138261" },
+      { "name": "N2V", "link": "https://music.163.com/artist?id=1058125" }
+    ],
+    "album": {
+      "name": "Say Hello",
+      "link": "https://music.163.com/album?id=37435928"
+    }
+  },
+  {
+    "name": "Return Of The Raver",
+    "link": "https://music.163.com/song?id=31721425",
+    "duration": "03:28",
+    "artists": [
+      { "name": "Vexento", "link": "https://music.163.com/artist?id=12037010" }
+    ],
+    "album": {
+      "name": "Return Of The Raver",
+      "link": "https://music.163.com/album?id=3121985"
+    }
+  },
+  {
+    "name": "Sometimes I Feel (Avicii's Out Of Miami Mix)",
+    "link": "https://music.163.com/song?id=484334076",
+    "duration": "07:15",
+    "artists": [
+      { "name": "Dim Chris", "link": "https://music.163.com/artist?id=192937" },
+      {
+        "name": "Sebastien Drums",
+        "link": "https://music.163.com/artist?id=1181047"
+      },
+      { "name": "POLINA", "link": "https://music.163.com/artist?id=985084" },
+      {
+        "name": "Dimitri Schoenfeld",
+        "link": "https://music.163.com/artist?id=14404978"
+      },
+      {
+        "name": "Sebastien Aumiphin",
+        "link": "https://music.163.com/artist?id=14944241"
+      },
+      {
+        "name": "Douane Harden",
+        "link": "https://music.163.com/artist?id=14394393"
+      },
+      {
+        "name": "Polina Goudieva",
+        "link": "https://music.163.com/artist?id=13263137"
+      },
+      { "name": "Avicii", "link": "https://music.163.com/artist?id=45236" }
+    ],
+    "album": {
+      "name": "Top Djs - World's Leading Artists, Vol. 7",
+      "link": "https://music.163.com/album?id=35631067"
+    }
+  },
+  {
+    "name": "Crime (Radio Edit)",
+    "link": "https://music.163.com/song?id=34468838",
+    "duration": "04:07",
+    "artists": [
+      {
+        "name": "Project 46",
+        "link": "https://music.163.com/artist?id=776674"
+      },
+      { "name": "Avicii", "link": "https://music.163.com/artist?id=45236" },
+      {
+        "name": "You & Daphne",
+        "link": "https://music.163.com/artist?id=29866128"
+      }
+    ],
+    "album": {
+      "name": "Crime ",
+      "link": "https://music.163.com/album?id=3286121"
+    }
+  },
+  {
+    "name": "Beautiful Heartbeat (Avicii Remix)",
+    "link": "https://music.163.com/song?id=400161540",
+    "duration": "05:14",
+    "artists": [
+      { "name": "MORTEN", "link": "https://music.163.com/artist?id=855285" },
+      {
+        "name": "Frida Sundemo",
+        "link": "https://music.163.com/artist?id=57938"
+      },
+      { "name": "Avicii", "link": "https://music.163.com/artist?id=45236" }
+    ],
+    "album": {
+      "name": "Beautiful Heartbeat",
+      "link": "https://music.163.com/album?id=34429058"
+    }
+  },
+  {
+    "name": "若是明仔载2022",
+    "link": "https://music.163.com/song?id=1915230437",
+    "duration": "02:15",
+    "artists": [
+      { "name": "叶琼琳", "link": "https://music.163.com/artist?id=35187624" }
+    ],
+    "album": {
+      "name": "若是明仔载2022",
+      "link": "https://music.163.com/album?id=139474622"
+    }
+  },
+  {
+    "name": "不负韶光",
+    "link": "https://music.163.com/song?id=1846794878",
+    "duration": "03:45",
+    "artists": [
+      { "name": "闹闹丶", "link": "https://music.163.com/artist?id=12357233" }
+    ],
+    "album": {
+      "name": "不负韶光",
+      "link": "https://music.163.com/album?id=127781288"
+    }
+  },
+  {
+    "name": "Bleeding Love",
+    "link": "https://music.163.com/song?id=1388433823",
+    "duration": "02:32",
+    "artists": [
+      { "name": "HEST", "link": "https://music.163.com/artist?id=32537132" }
+    ],
+    "album": {
+      "name": "Bleeding Love",
+      "link": "https://music.163.com/album?id=81185011"
+    }
+  },
+  {
+    "name": "蝴蝶泉边",
+    "link": "https://music.163.com/song?id=239682",
+    "duration": "04:05",
+    "artists": [
+      { "name": "黄雅莉", "link": "https://music.163.com/artist?id=7901" }
+    ],
+    "album": { "name": "崽崽", "link": "https://music.163.com/album?id=24041" }
+  },
+  {
+    "name": "青春Calling feat.洛天依",
+    "link": "https://music.163.com/song?id=571469938",
+    "duration": "02:52",
+    "artists": [
+      {
+        "name": "CSFM_吃手肥猫",
+        "link": "https://music.163.com/artist?id=12126627"
+      },
+      { "name": "洛天依", "link": "https://music.163.com/artist?id=906118" }
+    ],
+    "album": {
+      "name": "青春Calling",
+      "link": "https://music.163.com/album?id=39517643"
+    }
+  },
+  {
+    "name": "自我纠结者情书",
+    "link": "https://music.163.com/song?id=1903623062",
+    "duration": "03:03",
+    "artists": [
+      {
+        "name": "KookieZhang",
+        "link": "https://music.163.com/artist?id=30546057"
+      }
+    ],
+    "album": {
+      "name": "自我纠结者情书",
+      "link": "https://music.163.com/album?id=137518630"
+    }
+  },
+  {
+    "name": "FLOWER✿",
+    "link": "https://music.163.com/song?id=1815068457",
+    "duration": "03:47",
+    "artists": [
+      { "name": "Youngior", "link": "https://music.163.com/artist?id=34375061" }
+    ],
+    "album": {
+      "name": "FLOWER",
+      "link": "https://music.163.com/album?id=122102408"
+    }
+  },
+  {
+    "name": "ROSS AND RACHEL",
+    "link": "https://music.163.com/song?id=1466544976",
+    "duration": "03:12",
+    "artists": [
+      {
+        "name": "Jake Miller",
+        "link": "https://music.163.com/artist?id=776761"
+      }
+    ],
+    "album": {
+      "name": "ROSS AND RACHEL",
+      "link": "https://music.163.com/album?id=93154395"
+    }
+  },
+  {
+    "name": "We'll Be Alright",
+    "link": "https://music.163.com/song?id=554245621",
+    "duration": "03:14",
+    "artists": [
+      { "name": "GSPR", "link": "https://music.163.com/artist?id=12263887" }
+    ],
+    "album": {
+      "name": "We'll Be Alright",
+      "link": "https://music.163.com/album?id=38430149"
+    }
+  }
+]
