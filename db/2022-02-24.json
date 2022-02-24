@@ -1,0 +1,479 @@
+[
+  {
+    "name": "This Year's Gonna Hurt",
+    "link": "https://music.163.com/song?id=1446773526",
+    "duration": "03:25",
+    "artists": [
+      {
+        "name": "Lost Stars",
+        "link": "https://music.163.com/artist?id=32976156"
+      }
+    ],
+    "album": {
+      "name": "This Year's Gonna Hurt",
+      "link": "https://music.163.com/album?id=91663992"
+    }
+  },
+  {
+    "name": "Colorblind",
+    "link": "https://music.163.com/song?id=1863570952",
+    "duration": "03:19",
+    "artists": [
+      {
+        "name": "Adventure Club",
+        "link": "https://music.163.com/artist?id=792045"
+      },
+      { "name": "Nurko", "link": "https://music.163.com/artist?id=11991089" },
+      {
+        "name": "Dayseeker",
+        "link": "https://music.163.com/artist?id=12047183"
+      }
+    ],
+    "album": {
+      "name": "Colorblind",
+      "link": "https://music.163.com/album?id=130812974"
+    }
+  },
+  {
+    "name": "Again",
+    "link": "https://music.163.com/song?id=1881926935",
+    "duration": "03:16",
+    "artists": [
+      { "name": "Dabin", "link": "https://music.163.com/artist?id=783446" },
+      { "name": "MYRNE", "link": "https://music.163.com/artist?id=791151" }
+    ],
+    "album": {
+      "name": "Between Broken",
+      "link": "https://music.163.com/album?id=133865923"
+    }
+  },
+  {
+    "name": "Addicted",
+    "link": "https://music.163.com/song?id=1387592826",
+    "duration": "03:02",
+    "artists": [
+      {
+        "name": "Alex Parker",
+        "link": "https://music.163.com/artist?id=280735"
+      },
+      {
+        "name": "Misha Miller",
+        "link": "https://music.163.com/artist?id=14776124"
+      }
+    ],
+    "album": {
+      "name": "Addicted",
+      "link": "https://music.163.com/album?id=81259087"
+    }
+  },
+  {
+    "name": "流星のカケラ",
+    "link": "https://music.163.com/song?id=1922811032",
+    "duration": "03:58",
+    "artists": [
+      { "name": "GReeeeN", "link": "https://music.163.com/artist?id=19550" }
+    ],
+    "album": {
+      "name": "流星のカケラ",
+      "link": "https://music.163.com/album?id=140836990"
+    }
+  },
+  {
+    "name": "重演",
+    "link": "https://music.163.com/song?id=1406809993",
+    "duration": "03:43",
+    "artists": [
+      { "name": "王巨星", "link": "https://music.163.com/artist?id=32399227" }
+    ],
+    "album": {
+      "name": "重演",
+      "link": "https://music.163.com/album?id=83797124"
+    }
+  },
+  {
+    "name": "Wildest Dream",
+    "link": "https://music.163.com/song?id=1351000659",
+    "duration": "03:07",
+    "artists": [
+      {
+        "name": "Thomas Gold",
+        "link": "https://music.163.com/artist?id=196219"
+      },
+      { "name": "Kosling", "link": "https://music.163.com/artist?id=29289583" },
+      {
+        "name": "Matthew Steeper",
+        "link": "https://music.163.com/artist?id=1094011"
+      }
+    ],
+    "album": {
+      "name": "Wildest Dream",
+      "link": "https://music.163.com/album?id=75807257"
+    }
+  },
+  {
+    "name": "Million Days",
+    "link": "https://music.163.com/song?id=1417055605",
+    "duration": "03:28",
+    "artists": [
+      { "name": "Sabai", "link": "https://music.163.com/artist?id=32093901" },
+      { "name": "Hoang", "link": "https://music.163.com/artist?id=27694442" },
+      {
+        "name": "Claire Ridgely",
+        "link": "https://music.163.com/artist?id=14935781"
+      }
+    ],
+    "album": {
+      "name": "Million Days",
+      "link": "https://music.163.com/album?id=85020147"
+    }
+  },
+  {
+    "name": "Oceans",
+    "link": "https://music.163.com/song?id=425280064",
+    "duration": "03:31",
+    "artists": [
+      { "name": "Borgeous", "link": "https://music.163.com/artist?id=904048" },
+      { "name": "Dyson", "link": "https://music.163.com/artist?id=301602" }
+    ],
+    "album": { "name": "13", "link": "https://music.163.com/album?id=34818015" }
+  },
+  {
+    "name": "Someone Like You",
+    "link": "https://music.163.com/song?id=1354296120",
+    "duration": "02:55",
+    "artists": [
+      { "name": "Klaas", "link": "https://music.163.com/artist?id=106210" }
+    ],
+    "album": {
+      "name": "Someone Like You",
+      "link": "https://music.163.com/album?id=78194578"
+    }
+  },
+  {
+    "name": "Worlds Away",
+    "link": "https://music.163.com/song?id=453185080",
+    "duration": "04:20",
+    "artists": [
+      { "name": "Vexento", "link": "https://music.163.com/artist?id=12037010" }
+    ],
+    "album": {
+      "name": "Worlds Away",
+      "link": "https://music.163.com/album?id=35124035"
+    }
+  },
+  {
+    "name": "Honest",
+    "link": "https://music.163.com/song?id=470547659",
+    "duration": "03:28",
+    "artists": [
+      {
+        "name": "The Chainsmokers",
+        "link": "https://music.163.com/artist?id=893484"
+      }
+    ],
+    "album": {
+      "name": "Memories...Do Not Open",
+      "link": "https://music.163.com/album?id=35347078"
+    }
+  },
+  {
+    "name": "Dive With Me",
+    "link": "https://music.163.com/song?id=507134193",
+    "duration": "03:40",
+    "artists": [
+      {
+        "name": "Lvndscape",
+        "link": "https://music.163.com/artist?id=1146024"
+      },
+      {
+        "name": "Cathrine Lassen",
+        "link": "https://music.163.com/artist?id=29653694"
+      }
+    ],
+    "album": {
+      "name": "Dive With Me",
+      "link": "https://music.163.com/album?id=36270081"
+    }
+  },
+  {
+    "name": "Vision",
+    "link": "https://music.163.com/song?id=1355169504",
+    "duration": "03:54",
+    "artists": [
+      { "name": "Lost Sky", "link": "https://music.163.com/artist?id=28389556" }
+    ],
+    "album": {
+      "name": "Vision",
+      "link": "https://music.163.com/album?id=78244323"
+    }
+  },
+  {
+    "name": "The Journey",
+    "link": "https://music.163.com/song?id=453176582",
+    "duration": "03:07",
+    "artists": [
+      {
+        "name": "Damon Empero",
+        "link": "https://music.163.com/artist?id=12145093"
+      }
+    ],
+    "album": {
+      "name": "The Journey",
+      "link": "https://music.163.com/album?id=35123189"
+    }
+  },
+  {
+    "name": "Somero",
+    "link": "https://music.163.com/song?id=414980898",
+    "duration": "04:45",
+    "artists": [
+      { "name": "Mich", "link": "https://music.163.com/artist?id=1087105" }
+    ],
+    "album": {
+      "name": "Somero",
+      "link": "https://music.163.com/album?id=34721346"
+    }
+  },
+  {
+    "name": "Aspire",
+    "link": "https://music.163.com/song?id=34040720",
+    "duration": "03:32",
+    "artists": [
+      { "name": "CelDro", "link": "https://music.163.com/artist?id=1132950" }
+    ],
+    "album": {
+      "name": "Aspire",
+      "link": "https://music.163.com/album?id=3270701"
+    }
+  },
+  {
+    "name": "Long Road to Hell - (iTunes Bonus Track)",
+    "link": "https://music.163.com/song?id=27713944",
+    "duration": "03:42",
+    "artists": [
+      { "name": "Avicii", "link": "https://music.163.com/artist?id=45236" },
+      { "name": "Audra Mae", "link": "https://music.163.com/artist?id=47982" }
+    ],
+    "album": {
+      "name": "True",
+      "link": "https://music.163.com/album?id=2643040"
+    }
+  },
+  {
+    "name": "Feel the Same",
+    "link": "https://music.163.com/song?id=1322356404",
+    "duration": "03:11",
+    "artists": [
+      { "name": "Olly Murs", "link": "https://music.163.com/artist?id=41034" }
+    ],
+    "album": {
+      "name": "You Know I Know (Deluxe)",
+      "link": "https://music.163.com/album?id=74214813"
+    }
+  },
+  {
+    "name": "Let It All Out",
+    "link": "https://music.163.com/song?id=35847871",
+    "duration": "04:07",
+    "artists": [
+      {
+        "name": "Steam Phunk",
+        "link": "https://music.163.com/artist?id=1177079"
+      },
+      {
+        "name": "Angelika Vee",
+        "link": "https://music.163.com/artist?id=904230"
+      },
+      { "name": "Kap Slap", "link": "https://music.163.com/artist?id=761048" }
+    ],
+    "album": {
+      "name": "Let It All Out (Steam Phunk Remix)",
+      "link": "https://music.163.com/album?id=3377177"
+    }
+  },
+  {
+    "name": "All You Need Is Love (BUNT. Edit)",
+    "link": "https://music.163.com/song?id=431826012",
+    "duration": "03:31",
+    "artists": [
+      { "name": "BUNT.", "link": "https://music.163.com/artist?id=744145" },
+      { "name": "Avicii", "link": "https://music.163.com/artist?id=45236" }
+    ],
+    "album": {
+      "name": "All You Need Is Love (BUNT. Edit)",
+      "link": "https://music.163.com/album?id=34895012"
+    }
+  },
+  {
+    "name": "Distance",
+    "link": "https://music.163.com/song?id=1846188607",
+    "duration": "02:43",
+    "artists": [
+      { "name": "Ollie", "link": "https://music.163.com/artist?id=12348332" }
+    ],
+    "album": {
+      "name": "Distance",
+      "link": "https://music.163.com/album?id=127660397"
+    }
+  },
+  {
+    "name": "AVICII UMF2016 Live",
+    "link": "https://music.163.com/song?id=440767926",
+    "duration": "35:40",
+    "artists": [{ "name": "A1Ovicii", "link": "" }],
+    "album": {
+      "name": "AVICII UMF2016 Live",
+      "link": "https://music.163.com/album?id=34995692"
+    }
+  },
+  {
+    "name": "Hang with Me (Avicii's Exclusive Club Mix)",
+    "link": "https://music.163.com/song?id=27319699",
+    "duration": "07:14",
+    "artists": [
+      { "name": "Robyn", "link": "https://music.163.com/artist?id=72767" },
+      { "name": "Avicii", "link": "https://music.163.com/artist?id=45236" }
+    ],
+    "album": {
+      "name": "Hang With Me",
+      "link": "https://music.163.com/album?id=2599620"
+    }
+  },
+  {
+    "name": "Decisions (JIA LIH Remix)",
+    "link": "https://music.163.com/song?id=33705907",
+    "duration": "03:47",
+    "artists": [
+      {
+        "name": "ATTICUS ▰ BEATS",
+        "link": "https://music.163.com/artist?id=1124304"
+      },
+      { "name": "Woodes", "link": "https://music.163.com/artist?id=1124305" },
+      { "name": "JIA LIH", "link": "https://music.163.com/artist?id=1124307" }
+    ],
+    "album": {
+      "name": "DECISIONS",
+      "link": "https://music.163.com/album?id=3233493"
+    }
+  },
+  {
+    "name": "Dancing In My Head (Avicii's Been Cursed Mix)",
+    "link": "https://music.163.com/song?id=26996146",
+    "duration": "05:32",
+    "artists": [
+      {
+        "name": "Eric Turner",
+        "link": "https://music.163.com/artist?id=33284"
+      },
+      { "name": "Avicii", "link": "https://music.163.com/artist?id=45236" }
+    ],
+    "album": {
+      "name": "Dancing In My Head (Avicii's Been Cursed Mix)",
+      "link": "https://music.163.com/album?id=2578124"
+    }
+  },
+  {
+    "name": "Let Me Show You Love (Ash & Avicii 'Hype Machine' Mix)",
+    "link": "https://music.163.com/song?id=1336856475",
+    "duration": "07:24",
+    "artists": [
+      { "name": "Ash", "link": "https://music.163.com/artist?id=840746" },
+      { "name": "Avicii", "link": "https://music.163.com/artist?id=45236" }
+    ],
+    "album": {
+      "name": "Let Me Show You Love (Ash & Avicii 'Hype Machine' Mix)",
+      "link": "https://music.163.com/album?id=75018893"
+    }
+  },
+  {
+    "name": "Feel Your Love(Kaaze Remix)",
+    "link": "https://music.163.com/song?id=404783523",
+    "duration": "04:37",
+    "artists": [
+      { "name": "Kaaze", "link": "https://music.163.com/artist?id=952052" },
+      {
+        "name": "Dannic & Sick Individuals",
+        "link": "https://music.163.com/artist?id=11974069"
+      }
+    ],
+    "album": {
+      "name": "Feel Your Love(Kaaze Remix)",
+      "link": "https://music.163.com/album?id=34527130"
+    }
+  },
+  {
+    "name": "一起向未来 - (北京2022年冬奥会和冬残奥会主题口号推广歌曲)",
+    "link": "https://music.163.com/song?id=1894606139",
+    "duration": "03:19",
+    "artists": [
+      { "name": "易烊千玺", "link": "https://music.163.com/artist?id=939088" }
+    ],
+    "album": {
+      "name": "一起向未来",
+      "link": "https://music.163.com/album?id=136082061"
+    }
+  },
+  {
+    "name": "戏精",
+    "link": "https://music.163.com/song?id=516667938",
+    "duration": "04:03",
+    "artists": [
+      { "name": "PoKeR", "link": "https://music.163.com/artist?id=12080220" }
+    ],
+    "album": {
+      "name": "戏精",
+      "link": "https://music.163.com/album?id=36706308"
+    }
+  },
+  {
+    "name": "不停歇的旅途",
+    "link": "https://music.163.com/song?id=492101540",
+    "duration": "04:13",
+    "artists": [
+      { "name": "COP", "link": "https://music.163.com/artist?id=12002071" }
+    ],
+    "album": {
+      "name": "不停歇的旅途",
+      "link": "https://music.163.com/album?id=35786809"
+    }
+  },
+  {
+    "name": "翡翠色旋律",
+    "link": "https://music.163.com/song?id=535066470",
+    "duration": "03:47",
+    "artists": [
+      { "name": "FFF君", "link": "https://music.163.com/artist?id=13148296" }
+    ],
+    "album": {
+      "name": "Different Cities",
+      "link": "https://music.163.com/album?id=37439574"
+    }
+  },
+  {
+    "name": "没有名字的夜晚",
+    "link": "https://music.163.com/song?id=1849674035",
+    "duration": "04:51",
+    "artists": [
+      {
+        "name": "夏日入侵企画",
+        "link": "https://music.163.com/artist?id=12383009"
+      }
+    ],
+    "album": {
+      "name": "没有名字的夜晚",
+      "link": "https://music.163.com/album?id=128305482"
+    }
+  },
+  {
+    "name": "只对你有感觉",
+    "link": "https://music.163.com/song?id=108248",
+    "duration": "04:26",
+    "artists": [
+      { "name": "林俊杰", "link": "https://music.163.com/artist?id=3684" }
+    ],
+    "album": {
+      "name": "她说 概念自选辑",
+      "link": "https://music.163.com/album?id=10755"
+    }
+  }
+]
