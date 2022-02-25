@@ -1,0 +1,510 @@
+[
+  {
+    "name": "Crash & Burn",
+    "link": "https://music.163.com/song?id=1481304442",
+    "duration": "03:13",
+    "artists": [
+      {
+        "name": "Crystal Skies",
+        "link": "https://music.163.com/artist?id=1063127"
+      }
+    ],
+    "album": {
+      "name": "Collide EP",
+      "link": "https://music.163.com/album?id=95774856"
+    }
+  },
+  {
+    "name": "Face Of Summer (Omnia Remix)",
+    "link": "https://music.163.com/song?id=445528957",
+    "duration": "03:18",
+    "artists": [
+      {
+        "name": "Armin van Buuren",
+        "link": "https://music.163.com/artist?id=27621"
+      },
+      {
+        "name": "Sarah deCourcy",
+        "link": "https://music.163.com/artist?id=1177264"
+      },
+      { "name": "Omnia", "link": "https://music.163.com/artist?id=179006" }
+    ],
+    "album": {
+      "name": "Embrace Remix EP #5",
+      "link": "https://music.163.com/album?id=35012632"
+    }
+  },
+  {
+    "name": "With You",
+    "link": "https://music.163.com/song?id=1845817204",
+    "duration": "03:02",
+    "artists": [
+      { "name": "JLV", "link": "https://music.163.com/artist?id=12335463" },
+      { "name": "ECHŌWALL", "link": "https://music.163.com/artist?id=33394267" }
+    ],
+    "album": {
+      "name": "With You",
+      "link": "https://music.163.com/album?id=127569037"
+    }
+  },
+  {
+    "name": "Real",
+    "link": "https://music.163.com/song?id=1356227019",
+    "duration": "03:22",
+    "artists": [
+      { "name": "Tritonal", "link": "https://music.163.com/artist?id=104133" },
+      { "name": "Evalyn", "link": "https://music.163.com/artist?id=12646511" }
+    ],
+    "album": {
+      "name": "Real",
+      "link": "https://music.163.com/album?id=78298244"
+    }
+  },
+  {
+    "name": "Nightmare",
+    "link": "https://music.163.com/song?id=1918792650",
+    "duration": "03:23",
+    "artists": [
+      { "name": "K-391", "link": "https://music.163.com/artist?id=1049937" }
+    ],
+    "album": {
+      "name": "Nightmare",
+      "link": "https://music.163.com/album?id=140119817"
+    }
+  },
+  {
+    "name": "Oceans Away (Vicetone Remix)",
+    "link": "https://music.163.com/song?id=460298181",
+    "duration": "03:16",
+    "artists": [
+      {
+        "name": "A R I Z O N A",
+        "link": "https://music.163.com/artist?id=1137065"
+      },
+      { "name": "Vicetone", "link": "https://music.163.com/artist?id=747030" }
+    ],
+    "album": {
+      "name": "Oceans Away (The Remixes)",
+      "link": "https://music.163.com/album?id=35196392"
+    }
+  },
+  {
+    "name": "We’re The Same‬‬",
+    "link": "https://music.163.com/song?id=1364333108",
+    "duration": "02:54",
+    "artists": [
+      { "name": "Vigiland", "link": "https://music.163.com/artist?id=1046407" },
+      {
+        "name": "Alexander Tidebrink",
+        "link": "https://music.163.com/artist?id=12532181"
+      }
+    ],
+    "album": {
+      "name": "We’re The Same‬‬",
+      "link": "https://music.163.com/album?id=79035231"
+    }
+  },
+  {
+    "name": "Miracles (Radio Edit)",
+    "link": "https://music.163.com/song?id=29732106",
+    "duration": "02:42",
+    "artists": [
+      {
+        "name": "Mike Candys",
+        "link": "https://music.163.com/artist?id=40119"
+      },
+      { "name": "Maury", "link": "https://music.163.com/artist?id=149567" }
+    ],
+    "album": {
+      "name": "Miracles",
+      "link": "https://music.163.com/album?id=3069025"
+    }
+  },
+  {
+    "name": "Dreams",
+    "link": "https://music.163.com/song?id=1327579117",
+    "duration": "03:31",
+    "artists": [
+      {
+        "name": "Feenixpawl",
+        "link": "https://music.163.com/artist?id=290025"
+      },
+      { "name": "Sheco", "link": "https://music.163.com/artist?id=12886070" },
+      { "name": "Georgi Kay", "link": "https://music.163.com/artist?id=290036" }
+    ],
+    "album": {
+      "name": "Dreams",
+      "link": "https://music.163.com/album?id=74531342"
+    }
+  },
+  {
+    "name": "Over That",
+    "link": "https://music.163.com/song?id=525239104",
+    "duration": "03:25",
+    "artists": [
+      {
+        "name": "Emily Vaughn",
+        "link": "https://music.163.com/artist?id=12049240"
+      }
+    ],
+    "album": {
+      "name": "Over That",
+      "link": "https://music.163.com/album?id=37026042"
+    }
+  },
+  {
+    "name": "Forever Young",
+    "link": "https://music.163.com/song?id=1296637878",
+    "duration": "02:47",
+    "artists": [
+      {
+        "name": "John De Sohn",
+        "link": "https://music.163.com/artist?id=290019"
+      },
+      { "name": "Liamoo", "link": "https://music.163.com/artist?id=12409114" }
+    ],
+    "album": {
+      "name": "Forever Young",
+      "link": "https://music.163.com/album?id=72021852"
+    }
+  },
+  {
+    "name": "Sun Goes Down",
+    "link": "https://music.163.com/song?id=506092377",
+    "duration": "03:09",
+    "artists": [
+      { "name": "Koni", "link": "https://music.163.com/artist?id=1154018" },
+      {
+        "name": "Jeongwoo",
+        "link": "https://music.163.com/artist?id=12561633"
+      },
+      {
+        "name": "Lilianna Wilde",
+        "link": "https://music.163.com/artist?id=14711114"
+      }
+    ],
+    "album": {
+      "name": "Sun Goes Down",
+      "link": "https://music.163.com/album?id=36225090"
+    }
+  },
+  {
+    "name": "Breathe",
+    "link": "https://music.163.com/song?id=413812817",
+    "duration": "03:45",
+    "artists": [
+      { "name": "EMBRZ", "link": "https://music.163.com/artist?id=1173001" }
+    ],
+    "album": {
+      "name": "Breathe",
+      "link": "https://music.163.com/album?id=34702622"
+    }
+  },
+  {
+    "name": "If We Could Stay High",
+    "link": "https://music.163.com/song?id=556066472",
+    "duration": "03:41",
+    "artists": [
+      { "name": "Sj", "link": "https://music.163.com/artist?id=288146" },
+      {
+        "name": "Chelsea Lankes",
+        "link": "https://music.163.com/artist?id=53032"
+      }
+    ],
+    "album": {
+      "name": "Calabasas",
+      "link": "https://music.163.com/album?id=38519338"
+    }
+  },
+  {
+    "name": "Counting Down To Christmas",
+    "link": "https://music.163.com/song?id=442991820",
+    "duration": "02:50",
+    "artists": [
+      {
+        "name": "Campsite Dream",
+        "link": "https://music.163.com/artist?id=1146068"
+      }
+    ],
+    "album": {
+      "name": "Counting Down To Christmas",
+      "link": "https://music.163.com/album?id=35011077"
+    }
+  },
+  {
+    "name": "Heroes (bougenvilla Remix)",
+    "link": "https://music.163.com/song?id=1354634122",
+    "duration": "02:52",
+    "artists": [
+      {
+        "name": "SUPERSPECIAL",
+        "link": "https://music.163.com/artist?id=31331826"
+      },
+      {
+        "name": "Bougenvilla",
+        "link": "https://music.163.com/artist?id=1050493"
+      }
+    ],
+    "album": {
+      "name": "Heroes (bougenvilla Remix)",
+      "link": "https://music.163.com/album?id=78221411"
+    }
+  },
+  {
+    "name": "Faded",
+    "link": "https://music.163.com/song?id=482988252",
+    "duration": "02:34",
+    "artists": [
+      { "name": "J. Lisk", "link": "https://music.163.com/artist?id=12121101" }
+    ],
+    "album": {
+      "name": "Faded",
+      "link": "https://music.163.com/album?id=35590453"
+    }
+  },
+  {
+    "name": "What Is Love 2016",
+    "link": "https://music.163.com/song?id=436487041",
+    "duration": "03:08",
+    "artists": [
+      {
+        "name": "Lost Frequencies",
+        "link": "https://music.163.com/artist?id=1039114"
+      }
+    ],
+    "album": {
+      "name": "Less Is More",
+      "link": "https://music.163.com/album?id=34887003"
+    }
+  },
+  {
+    "name": "Lost at Heart",
+    "link": "https://music.163.com/song?id=31452028",
+    "duration": "04:45",
+    "artists": [
+      { "name": "Kozoro", "link": "https://music.163.com/artist?id=1050567" },
+      { "name": "Evence", "link": "https://music.163.com/artist?id=1061032" }
+    ],
+    "album": {
+      "name": "Lost at Heart",
+      "link": "https://music.163.com/album?id=3111956"
+    }
+  },
+  {
+    "name": "What I Need",
+    "link": "https://music.163.com/song?id=476324155",
+    "duration": "05:04",
+    "artists": [
+      {
+        "name": "Approaching Nirvana",
+        "link": "https://music.163.com/artist?id=86884"
+      }
+    ],
+    "album": {
+      "name": "Horizons",
+      "link": "https://music.163.com/album?id=37084136"
+    }
+  },
+  {
+    "name": "Cosmic Fate",
+    "link": "https://music.163.com/song?id=532267293",
+    "duration": "02:32",
+    "artists": [
+      { "name": "Wisp X", "link": "https://music.163.com/artist?id=1046123" }
+    ],
+    "album": {
+      "name": "Cosmic Fate",
+      "link": "https://music.163.com/album?id=37353614"
+    }
+  },
+  {
+    "name": "Pasta",
+    "link": "https://music.163.com/song?id=1429355183",
+    "duration": "02:57",
+    "artists": [
+      {
+        "name": "New Rules",
+        "link": "https://music.163.com/artist?id=31007341"
+      }
+    ],
+    "album": {
+      "name": "Pasta",
+      "link": "https://music.163.com/album?id=86339138"
+    }
+  },
+  {
+    "name": "Remember (Original Mix)",
+    "link": "https://music.163.com/song?id=27644359",
+    "duration": "05:37",
+    "artists": [
+      { "name": "Sensitive", "link": "https://music.163.com/artist?id=820340" },
+      {
+        "name": "Bogdan Bondarenko",
+        "link": "https://music.163.com/artist?id=820341"
+      }
+    ],
+    "album": {
+      "name": "Remember",
+      "link": "https://music.163.com/album?id=2651201"
+    }
+  },
+  {
+    "name": "Back Again (Original Mix)",
+    "link": "https://music.163.com/song?id=421563130",
+    "duration": "02:55",
+    "artists": [
+      {
+        "name": "Thomas Newson",
+        "link": "https://music.163.com/artist?id=712163"
+      },
+      { "name": "Manse", "link": "https://music.163.com/artist?id=855409" }
+    ],
+    "album": {
+      "name": "Back Again",
+      "link": "https://music.163.com/album?id=34783259"
+    }
+  },
+  {
+    "name": "Normal No More - (小提琴完整版)",
+    "link": "https://music.163.com/song?id=1909414208",
+    "duration": "02:02",
+    "artists": [
+      {
+        "name": "Strictlyviolin荀博",
+        "link": "https://music.163.com/artist?id=49044240"
+      }
+    ],
+    "album": {
+      "name": "Normal No More(小提琴完整版)",
+      "link": "https://music.163.com/album?id=138399950"
+    }
+  },
+  {
+    "name": "Utopia",
+    "link": "https://music.163.com/song?id=38679061",
+    "duration": "03:45",
+    "artists": [
+      {
+        "name": "Elliot Hsu",
+        "link": "https://music.163.com/artist?id=1192214"
+      }
+    ],
+    "album": {
+      "name": "Utopia",
+      "link": "https://music.163.com/album?id=3428492"
+    }
+  },
+  {
+    "name": "Dancing In My Head (Tom Hangs Remix)",
+    "link": "https://music.163.com/song?id=27490909",
+    "duration": "03:16",
+    "artists": [
+      { "name": "Tom Hangs", "link": "https://music.163.com/artist?id=197006" }
+    ],
+    "album": {
+      "name": "Absolute Dance Winter 2013",
+      "link": "https://music.163.com/album?id=2614629"
+    }
+  },
+  {
+    "name": "Fireflies",
+    "link": "https://music.163.com/song?id=481792113",
+    "duration": "03:40",
+    "artists": [
+      { "name": "千坂", "link": "https://music.163.com/artist?id=12138261" },
+      { "name": "SaMZIng", "link": "https://music.163.com/artist?id=1203033" }
+    ],
+    "album": {
+      "name": "Fireflies",
+      "link": "https://music.163.com/album?id=35564892"
+    }
+  },
+  {
+    "name": "Year 3000",
+    "link": "https://music.163.com/song?id=4132266",
+    "duration": "03:22",
+    "artists": [
+      {
+        "name": "Jonas Brothers",
+        "link": "https://music.163.com/artist?id=94966"
+      }
+    ],
+    "album": {
+      "name": "Artist Karaoke Series: Jonas Brothers",
+      "link": "https://music.163.com/album?id=417874"
+    }
+  },
+  {
+    "name": "咸咸的(洛天依 ver.)",
+    "link": "https://music.163.com/song?id=484710046",
+    "duration": "04:09",
+    "artists": [
+      { "name": "洛天依", "link": "https://music.163.com/artist?id=906118" },
+      { "name": "純白P", "link": "https://music.163.com/artist?id=12057017" }
+    ],
+    "album": {
+      "name": "蔚蓝色",
+      "link": "https://music.163.com/album?id=35638290"
+    }
+  },
+  {
+    "name": "一点一点",
+    "link": "https://music.163.com/song?id=1414173770",
+    "duration": "03:54",
+    "artists": [
+      {
+        "name": "阿良良木健",
+        "link": "https://music.163.com/artist?id=964311"
+      },
+      { "name": "洛天依", "link": "https://music.163.com/artist?id=906118" }
+    ],
+    "album": {
+      "name": "一点一点",
+      "link": "https://music.163.com/album?id=84708637"
+    }
+  },
+  {
+    "name": "夜行者们",
+    "link": "https://music.163.com/song?id=1340000618",
+    "duration": "03:57",
+    "artists": [
+      { "name": "闹闹丶", "link": "https://music.163.com/artist?id=12357233" },
+      { "name": "洛天依", "link": "https://music.163.com/artist?id=906118" }
+    ],
+    "album": {
+      "name": "夜行者们",
+      "link": "https://music.163.com/album?id=75185069"
+    }
+  },
+  {
+    "name": "信而好古",
+    "link": "https://music.163.com/song?id=1916571422",
+    "duration": "04:18",
+    "artists": [
+      {
+        "name": "AscendUp吕昇",
+        "link": "https://music.163.com/artist?id=12649228"
+      }
+    ],
+    "album": {
+      "name": "进洞",
+      "link": "https://music.163.com/album?id=139686501"
+    }
+  },
+  {
+    "name": "理想的岛屿（Melchi Remix）",
+    "link": "https://music.163.com/song?id=1906289290",
+    "duration": "05:03",
+    "artists": [
+      {
+        "name": "TurtleDove斑鸠",
+        "link": "https://music.163.com/artist?id=12283168"
+      },
+      { "name": "Melchi", "link": "https://music.163.com/artist?id=12058010" }
+    ],
+    "album": {
+      "name": "理想的岛屿",
+      "link": "https://music.163.com/album?id=137969298"
+    }
+  }
+]
