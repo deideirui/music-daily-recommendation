@@ -1,0 +1,363 @@
+[
+  {
+    "name": "Lie",
+    "link": "https://music.163.com/song?id=1468082848",
+    "duration": "03:29",
+    "artists": [
+      {
+        "name": "Sasha Alex Sloan",
+        "link": "https://music.163.com/artist?id=12646102"
+      }
+    ],
+    "album": {
+      "name": "Lie",
+      "link": "https://music.163.com/album?id=93415128"
+    }
+  },
+  {
+    "name": "Like I Should",
+    "link": "https://music.163.com/song?id=1382909671",
+    "duration": "03:14",
+    "artists": [
+      {
+        "name": "Lulu Simon",
+        "link": "https://music.163.com/artist?id=31043892"
+      }
+    ],
+    "album": {
+      "name": "Lulu Simon",
+      "link": "https://music.163.com/album?id=80841477"
+    }
+  },
+  {
+    "name": "Sunday",
+    "link": "https://music.163.com/song?id=1438816637",
+    "duration": "02:33",
+    "artists": [
+      {
+        "name": "Sara Diamond",
+        "link": "https://music.163.com/artist?id=12011192"
+      }
+    ],
+    "album": {
+      "name": "Sunday",
+      "link": "https://music.163.com/album?id=87794909"
+    }
+  },
+  {
+    "name": "灰姑娘",
+    "link": "https://music.163.com/song?id=255589",
+    "duration": "03:32",
+    "artists": [
+      { "name": "梁咏琪", "link": "https://music.163.com/artist?id=8329" }
+    ],
+    "album": { "name": "花火", "link": "https://music.163.com/album?id=25528" }
+  },
+  {
+    "name": "Run Right Back",
+    "link": "https://music.163.com/song?id=1443165743",
+    "duration": "02:46",
+    "artists": [
+      {
+        "name": "Emily Zeck",
+        "link": "https://music.163.com/artist?id=12356669"
+      }
+    ],
+    "album": {
+      "name": "Run Right Back",
+      "link": "https://music.163.com/album?id=88490163"
+    }
+  },
+  {
+    "name": "Harvest Moon",
+    "link": "https://music.163.com/song?id=512504391",
+    "duration": "03:26",
+    "artists": [
+      { "name": "Mree", "link": "https://music.163.com/artist?id=69194" }
+    ],
+    "album": {
+      "name": "Harvest Moon",
+      "link": "https://music.163.com/album?id=36531200"
+    }
+  },
+  {
+    "name": "少女的祈祷",
+    "link": "https://music.163.com/song?id=29593497",
+    "duration": "03:31",
+    "artists": [
+      { "name": "杨千嬅", "link": "https://music.163.com/artist?id=10204" }
+    ],
+    "album": {
+      "name": "Kiss Me Soft avep1",
+      "link": "https://music.163.com/album?id=2960991"
+    }
+  },
+  {
+    "name": "喜帖街",
+    "link": "https://music.163.com/song?id=308299",
+    "duration": "03:31",
+    "artists": [
+      { "name": "谢安琪", "link": "https://music.163.com/artist?id=9952" }
+    ],
+    "album": {
+      "name": "Binary",
+      "link": "https://music.163.com/album?id=30609"
+    }
+  },
+  {
+    "name": "RU 一生中最愛",
+    "link": "https://music.163.com/song?id=1365139769",
+    "duration": "03:48",
+    "artists": [
+      { "name": "RU", "link": "https://music.163.com/artist?id=31960592" }
+    ],
+    "album": {
+      "name": "RU 一生中最愛",
+      "link": "https://music.163.com/album?id=78632531"
+    }
+  },
+  {
+    "name": "最爱",
+    "link": "https://music.163.com/song?id=329925",
+    "duration": "04:25",
+    "artists": [
+      { "name": "周慧敏", "link": "https://music.163.com/artist?id=10577" }
+    ],
+    "album": { "name": "最爱", "link": "https://music.163.com/album?id=32593" }
+  },
+  {
+    "name": "I Still Do",
+    "link": "https://music.163.com/song?id=1377261977",
+    "duration": "03:22",
+    "artists": [
+      { "name": "Mokita", "link": "https://music.163.com/artist?id=12033046" }
+    ],
+    "album": {
+      "name": "4201",
+      "link": "https://music.163.com/album?id=80333414"
+    }
+  },
+  {
+    "name": "宇宙级浪漫",
+    "link": "https://music.163.com/song?id=1835581396",
+    "duration": "03:03",
+    "artists": [
+      { "name": "曲酷", "link": "https://music.163.com/artist?id=47425225" },
+      { "name": "赵文辰", "link": "https://music.163.com/artist?id=47425996" }
+    ],
+    "album": {
+      "name": "宇宙级浪漫",
+      "link": "https://music.163.com/album?id=125700002"
+    }
+  },
+  {
+    "name": "在世界尽头 - (FLY AWAY)",
+    "link": "https://music.163.com/song?id=1826174210",
+    "duration": "03:06",
+    "artists": [
+      {
+        "name": "马也_Crabbit",
+        "link": "https://music.163.com/artist?id=13288861"
+      },
+      { "name": "Aioz", "link": "https://music.163.com/artist?id=29235210" }
+    ],
+    "album": {
+      "name": "在世界尽头",
+      "link": "https://music.163.com/album?id=124136699"
+    }
+  },
+  {
+    "name": "Right Here Waiting",
+    "link": "https://music.163.com/song?id=1457463959",
+    "duration": "03:29",
+    "artists": [
+      {
+        "name": "Music Travel Love",
+        "link": "https://music.163.com/artist?id=207962"
+      }
+    ],
+    "album": {
+      "name": "Right Here Waiting",
+      "link": "https://music.163.com/album?id=91361133"
+    }
+  },
+  {
+    "name": "草莓姜汁气泡",
+    "link": "https://music.163.com/song?id=1397254805",
+    "duration": "02:44",
+    "artists": [
+      { "name": "王唯灿", "link": "https://music.163.com/artist?id=33440585" },
+      {
+        "name": "Sine metu",
+        "link": "https://music.163.com/artist?id=12626656"
+      }
+    ],
+    "album": {
+      "name": "草莓姜汁气泡",
+      "link": "https://music.163.com/album?id=82385117"
+    }
+  },
+  {
+    "name": "爱人错过 - (Somewhere in time)",
+    "link": "https://music.163.com/song?id=1368754688",
+    "duration": "04:52",
+    "artists": [
+      { "name": "告五人", "link": "https://music.163.com/artist?id=12676697" }
+    ],
+    "album": {
+      "name": "我肯定在几百年前就说过爱你",
+      "link": "https://music.163.com/album?id=79515295"
+    }
+  },
+  {
+    "name": "Better Broken",
+    "link": "https://music.163.com/song?id=1391576970",
+    "duration": "03:10",
+    "artists": [
+      { "name": "Fintan", "link": "https://music.163.com/artist?id=30655007" }
+    ],
+    "album": {
+      "name": "Better Broken",
+      "link": "https://music.163.com/album?id=81718009"
+    }
+  },
+  {
+    "name": "呆我眼睛里",
+    "link": "https://music.163.com/song?id=1450282110",
+    "duration": "02:42",
+    "artists": [
+      {
+        "name": "张天枢Dubhe",
+        "link": "https://music.163.com/artist?id=33371675"
+      }
+    ],
+    "album": {
+      "name": "呆我眼睛里",
+      "link": "https://music.163.com/album?id=89771258"
+    }
+  },
+  {
+    "name": "Pull Up",
+    "link": "https://music.163.com/song?id=1381290206",
+    "duration": "02:03",
+    "artists": [
+      { "name": "Luh Kel", "link": "https://music.163.com/artist?id=31508096" }
+    ],
+    "album": {
+      "name": "Pull Up",
+      "link": "https://music.163.com/album?id=80712558"
+    }
+  },
+  {
+    "name": "Girl",
+    "link": "https://music.163.com/song?id=1399054231",
+    "duration": "02:01",
+    "artists": [
+      {
+        "name": "Alexander 23",
+        "link": "https://music.163.com/artist?id=31659734"
+      }
+    ],
+    "album": {
+      "name": "I'm Sorry I Love You",
+      "link": "https://music.163.com/album?id=82733215"
+    }
+  },
+  {
+    "name": "Dancing in My Room",
+    "link": "https://music.163.com/song?id=1486631924",
+    "duration": "03:00",
+    "artists": [
+      { "name": "347aidan", "link": "https://music.163.com/artist?id=34909860" }
+    ],
+    "album": {
+      "name": "Dancing in My Room",
+      "link": "https://music.163.com/album?id=96702092"
+    }
+  },
+  {
+    "name": "LoveStruck",
+    "link": "https://music.163.com/song?id=1382808527",
+    "duration": "02:57",
+    "artists": [
+      { "name": "Lambert", "link": "https://music.163.com/artist?id=31668975" },
+      { "name": "石玺彤", "link": "https://music.163.com/artist?id=31880229" }
+    ],
+    "album": {
+      "name": "LoveStruck",
+      "link": "https://music.163.com/album?id=80831351"
+    }
+  },
+  {
+    "name": "懒觉",
+    "link": "https://music.163.com/song?id=1417313969",
+    "duration": "03:00",
+    "artists": [
+      { "name": "PIggy", "link": "https://music.163.com/artist?id=32097566" }
+    ],
+    "album": {
+      "name": "昨天又睡了个懒觉",
+      "link": "https://music.163.com/album?id=84972649"
+    }
+  },
+  {
+    "name": "好辣 - (好辣的妹)",
+    "link": "https://music.163.com/song?id=1480054189",
+    "duration": "02:56",
+    "artists": [
+      { "name": "HADE", "link": "https://music.163.com/artist?id=13038022" },
+      { "name": "JumJum", "link": "https://music.163.com/artist?id=32438384" }
+    ],
+    "album": {
+      "name": "好辣",
+      "link": "https://music.163.com/album?id=95510839"
+    }
+  },
+  {
+    "name": "Calling My Phone",
+    "link": "https://music.163.com/song?id=1819036135",
+    "duration": "03:25",
+    "artists": [
+      {
+        "name": "Lil Tjay",
+        "link": "https://music.163.com/artist?id=28391620"
+      },
+      { "name": "6LACK", "link": "https://music.163.com/artist?id=12122239" }
+    ],
+    "album": {
+      "name": "Calling My Phone",
+      "link": "https://music.163.com/album?id=122794833"
+    }
+  },
+  {
+    "name": "娜啦啦捺捺",
+    "link": "https://music.163.com/song?id=1913201463",
+    "duration": "02:44",
+    "artists": [
+      {
+        "name": "你的大表哥曲甲",
+        "link": "https://music.163.com/artist?id=31062035"
+      },
+      { "name": "Am73", "link": "https://music.163.com/artist?id=12287977" }
+    ],
+    "album": {
+      "name": "你也不打听打听",
+      "link": "https://music.163.com/album?id=139084010"
+    }
+  },
+  {
+    "name": "2002",
+    "link": "https://music.163.com/song?id=554146736",
+    "duration": "03:07",
+    "artists": [
+      {
+        "name": "Anne-Marie",
+        "link": "https://music.163.com/artist?id=1102181"
+      }
+    ],
+    "album": {
+      "name": "Speak Your Mind",
+      "link": "https://music.163.com/album?id=38421362"
+    }
+  }
+]
