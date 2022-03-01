@@ -1,0 +1,481 @@
+[
+  {
+    "name": "Everything",
+    "link": "https://music.163.com/song?id=536624047",
+    "duration": "02:53",
+    "artists": [
+      { "name": "Firebeatz", "link": "https://music.163.com/artist?id=702005" },
+      {
+        "name": "Peppermint",
+        "link": "https://music.163.com/artist?id=12885527"
+      },
+      {
+        "name": "Aidan O'Brien",
+        "link": "https://music.163.com/artist?id=13372303"
+      }
+    ],
+    "album": {
+      "name": "Everything",
+      "link": "https://music.163.com/album?id=37577027"
+    }
+  },
+  {
+    "name": "Today Is What I Live For",
+    "link": "https://music.163.com/song?id=1367319643",
+    "duration": "03:11",
+    "artists": [
+      { "name": "Beatmad", "link": "https://music.163.com/artist?id=12647016" },
+      { "name": "Arsen", "link": "https://music.163.com/artist?id=12046193" },
+      {
+        "name": "Revealed Recordings",
+        "link": "https://music.163.com/artist?id=28753573"
+      },
+      { "name": "Vyel", "link": "https://music.163.com/artist?id=12931719" }
+    ],
+    "album": {
+      "name": "Today Is What I Live For",
+      "link": "https://music.163.com/album?id=79367861"
+    }
+  },
+  {
+    "name": "Into the Sea",
+    "link": "https://music.163.com/song?id=1365306313",
+    "duration": "03:06",
+    "artists": [
+      {
+        "name": "Wave Wave",
+        "link": "https://music.163.com/artist?id=12262095"
+      },
+      { "name": "Hilla", "link": "https://music.163.com/artist?id=13106679" }
+    ],
+    "album": {
+      "name": "Into the Sea",
+      "link": "https://music.163.com/album?id=79118879"
+    }
+  },
+  {
+    "name": "All On Me",
+    "link": "https://music.163.com/song?id=1442453362",
+    "duration": "02:57",
+    "artists": [
+      {
+        "name": "Armin van Buuren",
+        "link": "https://music.163.com/artist?id=27621"
+      },
+      {
+        "name": "Brennan Heart",
+        "link": "https://music.163.com/artist?id=688203"
+      },
+      { "name": "Andreas Moe", "link": "https://music.163.com/artist?id=29207" }
+    ],
+    "album": {
+      "name": "All On Me",
+      "link": "https://music.163.com/album?id=88347760"
+    }
+  },
+  {
+    "name": "exile",
+    "link": "https://music.163.com/song?id=1465114465",
+    "duration": "04:45",
+    "artists": [
+      {
+        "name": "Taylor Swift",
+        "link": "https://music.163.com/artist?id=44266"
+      },
+      { "name": "Bon Iver", "link": "https://music.163.com/artist?id=29337" }
+    ],
+    "album": {
+      "name": "folklore (deluxe version)",
+      "link": "https://music.163.com/album?id=92895788"
+    }
+  },
+  {
+    "name": "Take Back My Love",
+    "link": "https://music.163.com/song?id=864420484",
+    "duration": "02:27",
+    "artists": [
+      {
+        "name": "Frank Pole",
+        "link": "https://music.163.com/artist?id=12046116"
+      },
+      {
+        "name": "Dia Frampton",
+        "link": "https://music.163.com/artist?id=55454"
+      }
+    ],
+    "album": {
+      "name": "Take Back My Love",
+      "link": "https://music.163.com/album?id=71731405"
+    }
+  },
+  {
+    "name": "Lullaby",
+    "link": "https://music.163.com/song?id=529557738",
+    "duration": "02:40",
+    "artists": [
+      { "name": "R3HAB", "link": "https://music.163.com/artist?id=197248" },
+      {
+        "name": "Mike Williams",
+        "link": "https://music.163.com/artist?id=302020"
+      }
+    ],
+    "album": {
+      "name": "Lullaby",
+      "link": "https://music.163.com/album?id=37252068"
+    }
+  },
+  {
+    "name": "Something Strange",
+    "link": "https://music.163.com/song?id=1346473066",
+    "duration": "03:09",
+    "artists": [
+      { "name": "Vicetone", "link": "https://music.163.com/artist?id=747030" },
+      {
+        "name": "Haley Reinhart",
+        "link": "https://music.163.com/artist?id=60315"
+      }
+    ],
+    "album": {
+      "name": "Elements",
+      "link": "https://music.163.com/album?id=75589857"
+    }
+  },
+  {
+    "name": "Blame",
+    "link": "https://music.163.com/song?id=1460073034",
+    "duration": "03:31",
+    "artists": [
+      { "name": "BLÜ EYES", "link": "https://music.163.com/artist?id=14037240" }
+    ],
+    "album": {
+      "name": "Blame",
+      "link": "https://music.163.com/album?id=91907162"
+    }
+  },
+  {
+    "name": "Movin On",
+    "link": "https://music.163.com/song?id=31370681",
+    "duration": "03:25",
+    "artists": [
+      { "name": "Twax", "link": "https://music.163.com/artist?id=1182275" },
+      { "name": "Solomina", "link": "https://music.163.com/artist?id=13312229" }
+    ],
+    "album": {
+      "name": "Armada Deep House Selection, Vol. 6 (The Finest Deep House Tunes)",
+      "link": "https://music.163.com/album?id=3119108"
+    }
+  },
+  {
+    "name": "Love Your Life",
+    "link": "https://music.163.com/song?id=554110222",
+    "duration": "02:51",
+    "artists": [
+      { "name": "Klaas", "link": "https://music.163.com/artist?id=106210" }
+    ],
+    "album": {
+      "name": "Love Your Life",
+      "link": "https://music.163.com/album?id=38417639"
+    }
+  },
+  {
+    "name": "Going Round In Circles",
+    "link": "https://music.163.com/song?id=1419381645",
+    "duration": "02:21",
+    "artists": [
+      { "name": "Pionnz", "link": "https://music.163.com/artist?id=31581288" }
+    ],
+    "album": {
+      "name": "Going Round In Circles",
+      "link": "https://music.163.com/album?id=85280418"
+    }
+  },
+  {
+    "name": "Part-Time Lover",
+    "link": "https://music.163.com/song?id=1347227963",
+    "duration": "03:39",
+    "artists": [
+      { "name": "Dabin", "link": "https://music.163.com/artist?id=783446" },
+      {
+        "name": "Claire Ridgely",
+        "link": "https://music.163.com/artist?id=14935781"
+      }
+    ],
+    "album": {
+      "name": "Wild Youth",
+      "link": "https://music.163.com/album?id=75638746"
+    }
+  },
+  {
+    "name": "You",
+    "link": "https://music.163.com/song?id=1374636851",
+    "duration": "02:27",
+    "artists": [
+      { "name": "J. Lisk", "link": "https://music.163.com/artist?id=12121101" }
+    ],
+    "album": {
+      "name": "You",
+      "link": "https://music.163.com/album?id=80040834"
+    }
+  },
+  {
+    "name": "Fly",
+    "link": "https://music.163.com/song?id=543988435",
+    "duration": "03:13",
+    "artists": [
+      {
+        "name": "Marshmello",
+        "link": "https://music.163.com/artist?id=1060019"
+      },
+      {
+        "name": "Leau Culver",
+        "link": "https://music.163.com/artist?id=29653889"
+      }
+    ],
+    "album": {
+      "name": "Fly",
+      "link": "https://music.163.com/album?id=37886083"
+    }
+  },
+  {
+    "name": "Coldplay, Avicii - Atlas (PenThoX Remake) 1B",
+    "link": "https://music.163.com/song?id=500927084",
+    "duration": "03:25",
+    "artists": [{ "name": "PentagShox", "link": "" }],
+    "album": {
+      "name": "Because Of Our Love",
+      "link": "https://music.163.com/album?id=36026270"
+    }
+  },
+  {
+    "name": "Skyfall",
+    "link": "https://music.163.com/song?id=34040846",
+    "duration": "04:28",
+    "artists": [
+      { "name": "Schyzox", "link": "https://music.163.com/artist?id=1132961" }
+    ],
+    "album": {
+      "name": "Skyfall",
+      "link": "https://music.163.com/album?id=3270731"
+    }
+  },
+  {
+    "name": "UMF (Ultra Music Festival Anthem)",
+    "link": "https://music.163.com/song?id=26198297",
+    "duration": "04:36",
+    "artists": [
+      { "name": "Avicii", "link": "https://music.163.com/artist?id=45236" }
+    ],
+    "album": {
+      "name": "Ultra Music Festival 2013",
+      "link": "https://music.163.com/album?id=2419821"
+    }
+  },
+  {
+    "name": "Shape of You (Galantis Remix)",
+    "link": "https://music.163.com/song?id=458697799",
+    "duration": "03:16",
+    "artists": [
+      { "name": "Ed Sheeran", "link": "https://music.163.com/artist?id=33184" },
+      { "name": "Galantis", "link": "https://music.163.com/artist?id=851397" }
+    ],
+    "album": {
+      "name": "Shape of You (Galantis Remix)",
+      "link": "https://music.163.com/album?id=35150433"
+    }
+  },
+  {
+    "name": "Shoreline in Your Heart",
+    "link": "https://music.163.com/song?id=1439530166",
+    "duration": "06:13",
+    "artists": [
+      { "name": "Melchi", "link": "https://music.163.com/artist?id=12058010" }
+    ],
+    "album": {
+      "name": "Shoreline in Your Heart",
+      "link": "https://music.163.com/album?id=87868749"
+    }
+  },
+  {
+    "name": "Hindsight",
+    "link": "https://music.163.com/song?id=573622460",
+    "duration": "03:36",
+    "artists": [
+      { "name": "Audien", "link": "https://music.163.com/artist?id=191706" }
+    ],
+    "album": {
+      "name": "Anjunabeats Volume 11 (Bonus Track Version)",
+      "link": "https://music.163.com/album?id=39725924"
+    }
+  },
+  {
+    "name": "California",
+    "link": "https://music.163.com/song?id=1375682767",
+    "duration": "03:10",
+    "artists": [
+      {
+        "name": "Claire Ridgely",
+        "link": "https://music.163.com/artist?id=14935781"
+      }
+    ],
+    "album": {
+      "name": "California",
+      "link": "https://music.163.com/album?id=80180462"
+    }
+  },
+  {
+    "name": "999",
+    "link": "https://music.163.com/song?id=517937010",
+    "duration": "04:08",
+    "artists": [
+      { "name": "HJLL", "link": "https://music.163.com/artist?id=12271179" }
+    ],
+    "album": {
+      "name": "1000达成！！！！！！",
+      "link": "https://music.163.com/album?id=36757416"
+    }
+  },
+  {
+    "name": "Girls",
+    "link": "https://music.163.com/song?id=439121048",
+    "duration": "03:29",
+    "artists": [
+      {
+        "name": "Marcus & Martinus",
+        "link": "https://music.163.com/artist?id=1132109"
+      },
+      { "name": "Madcon", "link": "https://music.163.com/artist?id=96864" }
+    ],
+    "album": {
+      "name": "Together",
+      "link": "https://music.163.com/album?id=34928805"
+    }
+  },
+  {
+    "name": "I LOVE U",
+    "link": "https://music.163.com/song?id=28830337",
+    "duration": "04:36",
+    "artists": [
+      {
+        "name": "阿良良木健",
+        "link": "https://music.163.com/artist?id=964311"
+      },
+      { "name": "洛天依", "link": "https://music.163.com/artist?id=906118" }
+    ],
+    "album": {
+      "name": "末日DISCO",
+      "link": "https://music.163.com/album?id=2901131"
+    }
+  },
+  {
+    "name": "Atlantis (Original Mix)",
+    "link": "https://music.163.com/song?id=405377702",
+    "duration": "05:23",
+    "artists": [
+      {
+        "name": "Adriano Fuerte",
+        "link": "https://music.163.com/artist?id=12006216"
+      }
+    ],
+    "album": {
+      "name": "Atlantis",
+      "link": "https://music.163.com/album?id=34527399"
+    }
+  },
+  {
+    "name": "Atlas (Avicii Remix)",
+    "link": "https://music.163.com/song?id=31168012",
+    "duration": "03:00",
+    "artists": [
+      { "name": "Coldplay", "link": "https://music.163.com/artist?id=89365" },
+      { "name": "Avicii", "link": "https://music.163.com/artist?id=45236" }
+    ],
+    "album": {
+      "name": "最新热歌慢摇94",
+      "link": "https://music.163.com/album?id=3104432"
+    }
+  },
+  {
+    "name": "一直在一起",
+    "link": "https://music.163.com/song?id=1478826829",
+    "duration": "03:04",
+    "artists": [
+      { "name": "暗猫", "link": "https://music.163.com/artist?id=13284864" },
+      { "name": "洛天依", "link": "https://music.163.com/artist?id=906118" }
+    ],
+    "album": {
+      "name": "相誓",
+      "link": "https://music.163.com/album?id=95273194"
+    }
+  },
+  {
+    "name": "纯蓝",
+    "link": "https://music.163.com/song?id=1864974747",
+    "duration": "03:08",
+    "artists": [
+      { "name": "COP", "link": "https://music.163.com/artist?id=12002071" }
+    ],
+    "album": {
+      "name": "纯蓝",
+      "link": "https://music.163.com/album?id=131044867"
+    }
+  },
+  {
+    "name": "终有一天你会离开",
+    "link": "https://music.163.com/song?id=865344150",
+    "duration": "04:11",
+    "artists": [
+      { "name": "Lyrik_p", "link": "https://music.163.com/artist?id=12466942" },
+      { "name": "乐正绫", "link": "https://music.163.com/artist?id=1102240" },
+      { "name": "洛天依", "link": "https://music.163.com/artist?id=906118" }
+    ],
+    "album": {
+      "name": "终有一天你会离开",
+      "link": "https://music.163.com/album?id=71739474"
+    }
+  },
+  {
+    "name": "Rainy Bunny",
+    "link": "https://music.163.com/song?id=1372411347",
+    "duration": "04:12",
+    "artists": [
+      { "name": "人形兎", "link": "https://music.163.com/artist?id=12100072" }
+    ],
+    "album": {
+      "name": "Rainy Bunny",
+      "link": "https://music.163.com/album?id=79798231"
+    }
+  },
+  {
+    "name": "夜间出租车",
+    "link": "https://music.163.com/song?id=1347673545",
+    "duration": "03:54",
+    "artists": [
+      { "name": "ilem", "link": "https://music.163.com/artist?id=11975111" },
+      { "name": "洛天依", "link": "https://music.163.com/artist?id=906118" }
+    ],
+    "album": {
+      "name": "2:3",
+      "link": "https://music.163.com/album?id=75017206"
+    }
+  },
+  {
+    "name": "Peaches",
+    "link": "https://music.163.com/song?id=1830419924",
+    "duration": "03:18",
+    "artists": [
+      {
+        "name": "Justin Bieber",
+        "link": "https://music.163.com/artist?id=35531"
+      },
+      {
+        "name": "Daniel Caesar",
+        "link": "https://music.163.com/artist?id=1021293"
+      },
+      { "name": "Giveon", "link": "https://music.163.com/artist?id=32396647" }
+    ],
+    "album": {
+      "name": "Justice (中国豪华特别版)",
+      "link": "https://music.163.com/album?id=123858074"
+    }
+  }
+]
