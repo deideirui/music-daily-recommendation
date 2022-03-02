@@ -1,0 +1,464 @@
+[
+  {
+    "name": "Fool For You",
+    "link": "https://music.163.com/song?id=1817576399",
+    "duration": "03:27",
+    "artists": [
+      { "name": "KASTRA", "link": "https://music.163.com/artist?id=1105094" }
+    ],
+    "album": {
+      "name": "Fool For You",
+      "link": "https://music.163.com/album?id=122548879"
+    }
+  },
+  {
+    "name": "Bästa som hänt",
+    "link": "https://music.163.com/song?id=1836013628",
+    "duration": "03:52",
+    "artists": [
+      { "name": "BUNT.", "link": "https://music.163.com/artist?id=744145" },
+      { "name": "HON", "link": "https://music.163.com/artist?id=34733953" }
+    ],
+    "album": {
+      "name": "Bästa som hänt",
+      "link": "https://music.163.com/album?id=125797551"
+    }
+  },
+  {
+    "name": "Preoccupied",
+    "link": "https://music.163.com/song?id=1435914497",
+    "duration": "03:37",
+    "artists": [
+      {
+        "name": "Amy Peters",
+        "link": "https://music.163.com/artist?id=30291533"
+      }
+    ],
+    "album": {
+      "name": "Fever Dream",
+      "link": "https://music.163.com/album?id=87142410"
+    }
+  },
+  {
+    "name": "the first one",
+    "link": "https://music.163.com/song?id=1422597015",
+    "duration": "02:47",
+    "artists": [
+      { "name": "carobae", "link": "https://music.163.com/artist?id=141453" },
+      {
+        "name": "James Droll",
+        "link": "https://music.163.com/artist?id=12248052"
+      }
+    ],
+    "album": {
+      "name": "the first one",
+      "link": "https://music.163.com/album?id=85647701"
+    }
+  },
+  {
+    "name": "Experience",
+    "link": "https://music.163.com/song?id=26484066",
+    "duration": "05:15",
+    "artists": [
+      {
+        "name": "Ludovico Einaudi",
+        "link": "https://music.163.com/artist?id=38127"
+      }
+    ],
+    "album": {
+      "name": "In A Time Lapse",
+      "link": "https://music.163.com/album?id=2508011"
+    }
+  },
+  {
+    "name": "On a Night Like This",
+    "link": "https://music.163.com/song?id=542058515",
+    "duration": "03:20",
+    "artists": [
+      {
+        "name": "Bellhouse",
+        "link": "https://music.163.com/artist?id=13465083"
+      }
+    ],
+    "album": {
+      "name": "On a Night Like This",
+      "link": "https://music.163.com/album?id=37542692"
+    }
+  },
+  {
+    "name": "Not Meant To Be",
+    "link": "https://music.163.com/song?id=1432536455",
+    "duration": "03:02",
+    "artists": [
+      {
+        "name": "Max Oazo",
+        "link": "https://music.163.com/artist?id=13159084"
+      },
+      {
+        "name": "Alice Ella",
+        "link": "https://music.163.com/artist?id=32985409"
+      }
+    ],
+    "album": {
+      "name": "Not Meant To Be",
+      "link": "https://music.163.com/album?id=86689085"
+    }
+  },
+  {
+    "name": "are you sure?",
+    "link": "https://music.163.com/song?id=1371712205",
+    "duration": "03:24",
+    "artists": [
+      { "name": "Loote", "link": "https://music.163.com/artist?id=12408152" }
+    ],
+    "album": {
+      "name": "lost",
+      "link": "https://music.163.com/album?id=79787129"
+    }
+  },
+  {
+    "name": "8 Letters",
+    "link": "https://music.163.com/song?id=1352929828",
+    "duration": "03:10",
+    "artists": [
+      {
+        "name": "Why Don't We",
+        "link": "https://music.163.com/artist?id=12468277"
+      }
+    ],
+    "album": {
+      "name": "Easter Party",
+      "link": "https://music.163.com/album?id=75901480"
+    }
+  },
+  {
+    "name": "colorblind",
+    "link": "https://music.163.com/song?id=1401899720",
+    "duration": "03:13",
+    "artists": [
+      { "name": "Mokita", "link": "https://music.163.com/artist?id=12033046" }
+    ],
+    "album": {
+      "name": "colorblind",
+      "link": "https://music.163.com/album?id=83102480"
+    }
+  },
+  {
+    "name": "Sunburst - (云隙阳光)",
+    "link": "https://music.163.com/song?id=28830411",
+    "duration": "03:09",
+    "artists": [
+      { "name": "Tobu", "link": "https://music.163.com/artist?id=964486" },
+      { "name": "Itro", "link": "https://music.163.com/artist?id=1049096" }
+    ],
+    "album": {
+      "name": "Sunburst",
+      "link": "https://music.163.com/album?id=2901139"
+    }
+  },
+  {
+    "name": "Dynasty",
+    "link": "https://music.163.com/song?id=41643271",
+    "duration": "03:45",
+    "artists": [
+      { "name": "Miia", "link": "https://music.163.com/artist?id=1182661" }
+    ],
+    "album": {
+      "name": "Dynasty",
+      "link": "https://music.163.com/album?id=3443835"
+    }
+  },
+  {
+    "name": "Forever Right Now",
+    "link": "https://music.163.com/song?id=1320649049",
+    "duration": "02:21",
+    "artists": [
+      {
+        "name": "Conor Matthews",
+        "link": "https://music.163.com/artist?id=14658311"
+      }
+    ],
+    "album": {
+      "name": "Forever Right Now",
+      "link": "https://music.163.com/album?id=74099841"
+    }
+  },
+  {
+    "name": "Matches (Acoustic) [feat. Aaron Richards]",
+    "link": "https://music.163.com/song?id=439911153",
+    "duration": "04:18",
+    "artists": [
+      { "name": "Ephixa", "link": "https://music.163.com/artist?id=205684" },
+      {
+        "name": "Stephen Walking",
+        "link": "https://music.163.com/artist?id=101860"
+      },
+      {
+        "name": "Aaron Richards",
+        "link": "https://music.163.com/artist?id=14055238"
+      }
+    ],
+    "album": {
+      "name": "Matches (The Remixes) [Feat. Aaron Richards]",
+      "link": "https://music.163.com/album?id=34975359"
+    }
+  },
+  {
+    "name": "You're Somebody Else",
+    "link": "https://music.163.com/song?id=1353027224",
+    "duration": "03:39",
+    "artists": [
+      {
+        "name": "Flora Cash",
+        "link": "https://music.163.com/artist?id=1132016"
+      }
+    ],
+    "album": {
+      "name": "Press",
+      "link": "https://music.163.com/album?id=75908219"
+    }
+  },
+  {
+    "name": "Every Second",
+    "link": "https://music.163.com/song?id=442605044",
+    "duration": "04:12",
+    "artists": [
+      { "name": "L3V3LS", "link": "https://music.163.com/artist?id=12007340" }
+    ],
+    "album": {
+      "name": "Every Second",
+      "link": "https://music.163.com/album?id=35005460"
+    }
+  },
+  {
+    "name": "Love You Lately",
+    "link": "https://music.163.com/song?id=458013580",
+    "duration": "03:56",
+    "artists": [
+      {
+        "name": "Ariana & the Rose",
+        "link": "https://music.163.com/artist?id=894145"
+      },
+      { "name": "RKCB", "link": "https://music.163.com/artist?id=11973052" }
+    ],
+    "album": {
+      "name": "Love You Lately",
+      "link": "https://music.163.com/album?id=35150139"
+    }
+  },
+  {
+    "name": "All We Do",
+    "link": "https://music.163.com/song?id=32897951",
+    "duration": "03:34",
+    "artists": [
+      { "name": "Oh Wonder", "link": "https://music.163.com/artist?id=1050128" }
+    ],
+    "album": {
+      "name": "All We Do",
+      "link": "https://music.163.com/album?id=3109468"
+    }
+  },
+  {
+    "name": "Losing Me (Piano Version)",
+    "link": "https://music.163.com/song?id=1388503739",
+    "duration": "03:10",
+    "artists": [
+      {
+        "name": "Gabrielle Aplin",
+        "link": "https://music.163.com/artist?id=59169"
+      },
+      { "name": "JP Cooper", "link": "https://music.163.com/artist?id=415889" }
+    ],
+    "album": {
+      "name": "Losing Me (Piano Version)",
+      "link": "https://music.163.com/album?id=81341723"
+    }
+  },
+  {
+    "name": "Bliss",
+    "link": "https://music.163.com/song?id=1316691969",
+    "duration": "04:08",
+    "artists": [
+      { "name": "CelDro", "link": "https://music.163.com/artist?id=1132950" },
+      { "name": "Kantilo", "link": "https://music.163.com/artist?id=13224991" }
+    ],
+    "album": {
+      "name": "Bliss",
+      "link": "https://music.163.com/album?id=73843005"
+    }
+  },
+  {
+    "name": "all the kids are depressed",
+    "link": "https://music.163.com/song?id=550654609",
+    "duration": "02:49",
+    "artists": [
+      {
+        "name": "Jeremy Zucker",
+        "link": "https://music.163.com/artist?id=12096183"
+      }
+    ],
+    "album": {
+      "name": "all the kids are depressed",
+      "link": "https://music.163.com/album?id=38227223"
+    }
+  },
+  {
+    "name": "超度我",
+    "link": "https://music.163.com/song?id=1818820552",
+    "duration": "03:51",
+    "artists": [
+      {
+        "name": "福禄寿FloruitShow",
+        "link": "https://music.163.com/artist?id=29393033"
+      }
+    ],
+    "album": {
+      "name": "我用什么把你留住",
+      "link": "https://music.163.com/album?id=122740772"
+    }
+  },
+  {
+    "name": "Only Love (Acoustic)",
+    "link": "https://music.163.com/song?id=28475345",
+    "duration": "04:59",
+    "artists": [
+      { "name": "PVRIS", "link": "https://music.163.com/artist?id=960005" }
+    ],
+    "album": {
+      "name": "Acoustic",
+      "link": "https://music.163.com/album?id=2807560"
+    }
+  },
+  {
+    "name": "所以我选择被人讨厌",
+    "link": "https://music.163.com/song?id=1494001389",
+    "duration": "04:08",
+    "artists": [
+      { "name": "純白P", "link": "https://music.163.com/artist?id=12057017" },
+      { "name": "洛天依", "link": "https://music.163.com/artist?id=906118" }
+    ],
+    "album": {
+      "name": "所以我选择被人讨厌",
+      "link": "https://music.163.com/album?id=98025046"
+    }
+  },
+  {
+    "name": "Fragments",
+    "link": "https://music.163.com/song?id=453130276",
+    "duration": "03:18",
+    "artists": [
+      { "name": "千坂", "link": "https://music.163.com/artist?id=12138261" }
+    ],
+    "album": {
+      "name": "Fragments",
+      "link": "https://music.163.com/album?id=35117884"
+    }
+  },
+  {
+    "name": "Tears of Memories",
+    "link": "https://music.163.com/song?id=1389110709",
+    "duration": "06:59",
+    "artists": [
+      {
+        "name": "Mark & Lukas",
+        "link": "https://music.163.com/artist?id=1104097"
+      }
+    ],
+    "album": {
+      "name": "Life Is About Moments / Tears of Memories",
+      "link": "https://music.163.com/album?id=81412137"
+    }
+  },
+  {
+    "name": "Battle Scars",
+    "link": "https://music.163.com/song?id=29386030",
+    "duration": "02:58",
+    "artists": [
+      { "name": "Philter", "link": "https://music.163.com/artist?id=140830" }
+    ],
+    "album": {
+      "name": "The Legend Of Iya (Original Game Score)",
+      "link": "https://music.163.com/album?id=3015622"
+    }
+  },
+  {
+    "name": "还",
+    "link": "https://music.163.com/song?id=1474209379",
+    "duration": "04:36",
+    "artists": [
+      { "name": "闹闹丶", "link": "https://music.163.com/artist?id=12357233" },
+      { "name": "洛天依", "link": "https://music.163.com/artist?id=906118" }
+    ],
+    "album": { "name": "还", "link": "https://music.163.com/album?id=94462226" }
+  },
+  {
+    "name": "Endless War",
+    "link": "https://music.163.com/song?id=1343445127",
+    "duration": "04:09",
+    "artists": [
+      {
+        "name": "Within Temptation",
+        "link": "https://music.163.com/artist?id=105084"
+      }
+    ],
+    "album": {
+      "name": "Resist (Extended Deluxe)",
+      "link": "https://music.163.com/album?id=75403595"
+    }
+  },
+  {
+    "name": "那些我恐惧至极的事",
+    "link": "https://music.163.com/song?id=1495910047",
+    "duration": "04:22",
+    "artists": [
+      { "name": "DJ Soviet", "link": "https://music.163.com/artist?id=999451" },
+      { "name": "雨狸", "link": "https://music.163.com/artist?id=32914265" },
+      { "name": "乐正绫", "link": "https://music.163.com/artist?id=1102240" },
+      { "name": "洛天依", "link": "https://music.163.com/artist?id=906118" }
+    ],
+    "album": {
+      "name": "那些我恐惧至极的事",
+      "link": "https://music.163.com/album?id=98342263"
+    }
+  },
+  {
+    "name": "迷失的黑夜",
+    "link": "https://music.163.com/song?id=1868708210",
+    "duration": "03:41",
+    "artists": [
+      {
+        "name": "吴炳文Cookie",
+        "link": "https://music.163.com/artist?id=34357551"
+      },
+      { "name": "sea蕊", "link": "https://music.163.com/artist?id=34209078" }
+    ],
+    "album": {
+      "name": "迷失的黑夜",
+      "link": "https://music.163.com/album?id=131641431"
+    }
+  },
+  {
+    "name": "anything 4 u",
+    "link": "https://music.163.com/song?id=1817977673",
+    "duration": "03:14",
+    "artists": [
+      { "name": "LANY", "link": "https://music.163.com/artist?id=999460" }
+    ],
+    "album": {
+      "name": "mama's boy (deluxe)",
+      "link": "https://music.163.com/album?id=93938444"
+    }
+  },
+  {
+    "name": "22",
+    "link": "https://music.163.com/song?id=411213288",
+    "duration": "03:51",
+    "artists": [
+      {
+        "name": "Taylor Swift",
+        "link": "https://music.163.com/artist?id=44266"
+      }
+    ],
+    "album": { "name": "22", "link": "https://music.163.com/album?id=34682102" }
+  }
+]
