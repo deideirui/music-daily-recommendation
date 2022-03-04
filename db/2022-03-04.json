@@ -1,0 +1,498 @@
+[
+  {
+    "name": "Deep End",
+    "link": "https://music.163.com/song?id=1813060516",
+    "duration": "03:28",
+    "artists": [
+      {
+        "name": "William Black",
+        "link": "https://music.163.com/artist?id=248957"
+      }
+    ],
+    "album": {
+      "name": "Deep End",
+      "link": "https://music.163.com/album?id=121811159"
+    }
+  },
+  {
+    "name": "Little Do You Know",
+    "link": "https://music.163.com/song?id=475597495",
+    "duration": "02:48",
+    "artists": [
+      {
+        "name": "Campsite Dream",
+        "link": "https://music.163.com/artist?id=1146068"
+      }
+    ],
+    "album": {
+      "name": "Little Do You Know",
+      "link": "https://music.163.com/album?id=35371918"
+    }
+  },
+  {
+    "name": "Drive You Out 2.0",
+    "link": "https://music.163.com/song?id=1473633626",
+    "duration": "02:27",
+    "artists": [
+      { "name": "BEAUZ", "link": "https://music.163.com/artist?id=12131436" },
+      { "name": "Linney", "link": "https://music.163.com/artist?id=1193247" }
+    ],
+    "album": {
+      "name": "BEAUZWORLD, Vol.1",
+      "link": "https://music.163.com/album?id=94560727"
+    }
+  },
+  {
+    "name": "Forgiven",
+    "link": "https://music.163.com/song?id=1416193641",
+    "duration": "03:40",
+    "artists": [
+      {
+        "name": "Adrian Paul",
+        "link": "https://music.163.com/artist?id=29964186"
+      }
+    ],
+    "album": {
+      "name": "Forgiven",
+      "link": "https://music.163.com/album?id=84935101"
+    }
+  },
+  {
+    "name": "Endless Oceans (feat. Elvya)",
+    "link": "https://music.163.com/song?id=1921738329",
+    "duration": "06:24",
+    "artists": [
+      { "name": "Krisu", "link": "https://music.163.com/artist?id=38066" },
+      { "name": "Elvya", "link": "https://music.163.com/artist?id=14461952" }
+    ],
+    "album": {
+      "name": "Endless Oceans (feat. Elvya)",
+      "link": "https://music.163.com/album?id=140657167"
+    }
+  },
+  {
+    "name": "跳舞的梵谷",
+    "link": "https://music.163.com/song?id=514055051",
+    "duration": "03:08",
+    "artists": [
+      { "name": "孙燕姿", "link": "https://music.163.com/artist?id=9272" }
+    ],
+    "album": {
+      "name": "孙燕姿No. 13作品：跳舞的梵谷",
+      "link": "https://music.163.com/album?id=36714070"
+    }
+  },
+  {
+    "name": "This Is What You Came For",
+    "link": "https://music.163.com/song?id=411314681",
+    "duration": "03:42",
+    "artists": [
+      {
+        "name": "Calvin Harris",
+        "link": "https://music.163.com/artist?id=29968"
+      },
+      { "name": "Rihanna", "link": "https://music.163.com/artist?id=72724" }
+    ],
+    "album": {
+      "name": "This Is What You Came For",
+      "link": "https://music.163.com/album?id=34686251"
+    }
+  },
+  {
+    "name": "Take Me Away",
+    "link": "https://music.163.com/song?id=1366633001",
+    "duration": "02:55",
+    "artists": [
+      {
+        "name": "Seantonio",
+        "link": "https://music.163.com/artist?id=32190601"
+      }
+    ],
+    "album": {
+      "name": "The Beginning",
+      "link": "https://music.163.com/album?id=79274928"
+    }
+  },
+  {
+    "name": "Let Me Love You",
+    "link": "https://music.163.com/song?id=420922950",
+    "duration": "03:25",
+    "artists": [
+      { "name": "DJ Snake", "link": "https://music.163.com/artist?id=296416" },
+      {
+        "name": "Justin Bieber",
+        "link": "https://music.163.com/artist?id=35531"
+      }
+    ],
+    "album": {
+      "name": "Encore",
+      "link": "https://music.163.com/album?id=34751619"
+    }
+  },
+  {
+    "name": "Temporary",
+    "link": "https://music.163.com/song?id=1334775903",
+    "duration": "02:31",
+    "artists": [
+      { "name": "Ella Vos", "link": "https://music.163.com/artist?id=12121298" }
+    ],
+    "album": {
+      "name": "Watch & Wait",
+      "link": "https://music.163.com/album?id=74991484"
+    }
+  },
+  {
+    "name": "Renaissance",
+    "link": "https://music.163.com/song?id=39324743",
+    "duration": "02:57",
+    "artists": [
+      {
+        "name": "Steve James",
+        "link": "https://music.163.com/artist?id=43322"
+      },
+      { "name": "Clairity", "link": "https://music.163.com/artist?id=1060082" }
+    ],
+    "album": {
+      "name": "Renaissance",
+      "link": "https://music.163.com/album?id=3426877"
+    }
+  },
+  {
+    "name": "Move Up (Lost Gravity)",
+    "link": "https://music.163.com/song?id=406072775",
+    "duration": "03:04",
+    "artists": [
+      {
+        "name": "Mr. Polska",
+        "link": "https://music.163.com/artist?id=1161187"
+      }
+    ],
+    "album": {
+      "name": "Move Up (Lost Gravity)",
+      "link": "https://music.163.com/album?id=34526890"
+    }
+  },
+  {
+    "name": "Hung Up",
+    "link": "https://music.163.com/song?id=556066474",
+    "duration": "03:40",
+    "artists": [
+      { "name": "Tritonal", "link": "https://music.163.com/artist?id=104133" },
+      { "name": "Sj", "link": "https://music.163.com/artist?id=288146" },
+      {
+        "name": "Emma Gatsby",
+        "link": "https://music.163.com/artist?id=12086040"
+      }
+    ],
+    "album": {
+      "name": "Calabasas",
+      "link": "https://music.163.com/album?id=38519338"
+    }
+  },
+  {
+    "name": "The Spectre",
+    "link": "https://music.163.com/song?id=506092035",
+    "duration": "03:13",
+    "artists": [
+      {
+        "name": "Alan Walker",
+        "link": "https://music.163.com/artist?id=1045123"
+      }
+    ],
+    "album": {
+      "name": "The Spectre",
+      "link": "https://music.163.com/album?id=36224021"
+    }
+  },
+  {
+    "name": "Future Funk",
+    "link": "https://music.163.com/song?id=27639209",
+    "duration": "02:02",
+    "artists": [
+      { "name": "Varien", "link": "https://music.163.com/artist?id=205718" }
+    ],
+    "album": {
+      "name": "Pick Your Poison Vol. 01",
+      "link": "https://music.163.com/album?id=2650651"
+    }
+  },
+  {
+    "name": "Children",
+    "link": "https://music.163.com/song?id=1361394480",
+    "duration": "02:38",
+    "artists": [
+      { "name": "MATTN", "link": "https://music.163.com/artist?id=12061029" },
+      { "name": "Klaas", "link": "https://music.163.com/artist?id=106210" },
+      {
+        "name": "Roland Clark",
+        "link": "https://music.163.com/artist?id=130164"
+      }
+    ],
+    "album": {
+      "name": "Children",
+      "link": "https://music.163.com/album?id=78783617"
+    }
+  },
+  {
+    "name": "Dreaming",
+    "link": "https://music.163.com/song?id=30780811",
+    "duration": "04:19",
+    "artists": [
+      { "name": "Kozoro", "link": "https://music.163.com/artist?id=1050567" },
+      { "name": "Evence", "link": "https://music.163.com/artist?id=1061032" }
+    ],
+    "album": {
+      "name": "Dreaming",
+      "link": "https://music.163.com/album?id=3103332"
+    }
+  },
+  {
+    "name": "U Make Me (Natan Chaim & Asketa Remix)",
+    "link": "https://music.163.com/song?id=572763271",
+    "duration": "02:36",
+    "artists": [
+      {
+        "name": "Disco Fries",
+        "link": "https://music.163.com/artist?id=330684"
+      },
+      {
+        "name": "Raquel Castro",
+        "link": "https://music.163.com/artist?id=896205"
+      },
+      {
+        "name": "Asketa & Natan Chaim",
+        "link": "https://music.163.com/artist?id=32523005"
+      }
+    ],
+    "album": {
+      "name": "U Make Me (Remixes)",
+      "link": "https://music.163.com/album?id=39662979"
+    }
+  },
+  {
+    "name": "Wannabe",
+    "link": "https://music.163.com/song?id=501220770",
+    "duration": "03:37",
+    "artists": [
+      {
+        "name": "Why Mona",
+        "link": "https://music.163.com/artist?id=15008055"
+      },
+      {
+        "name": "Unlike Pluto",
+        "link": "https://music.163.com/artist?id=860945"
+      },
+      {
+        "name": "Joanna Jones",
+        "link": "https://music.163.com/artist?id=13932656"
+      }
+    ],
+    "album": {
+      "name": "Wannabe",
+      "link": "https://music.163.com/album?id=36030485"
+    }
+  },
+  {
+    "name": "Summertime",
+    "link": "https://music.163.com/song?id=32166628",
+    "duration": "04:45",
+    "artists": [
+      { "name": "K-391", "link": "https://music.163.com/artist?id=1049937" }
+    ],
+    "album": {
+      "name": "Sunshine",
+      "link": "https://music.163.com/album?id=3154076"
+    }
+  },
+  {
+    "name": "Bring It To Me (Guestlist4Good Anthem) (KAAZE Mix)",
+    "link": "https://music.163.com/song?id=571339303",
+    "duration": "03:08",
+    "artists": [
+      { "name": "Shaan", "link": "https://music.163.com/artist?id=204006" },
+      {
+        "name": "Nino Lucarelli",
+        "link": "https://music.163.com/artist?id=14133391"
+      },
+      { "name": "Kaaze", "link": "https://music.163.com/artist?id=952052" }
+    ],
+    "album": {
+      "name": "Bring It To Me (Guestlist4Good Anthem) (KAAZE Mix)",
+      "link": "https://music.163.com/album?id=39592097"
+    }
+  },
+  {
+    "name": "For a Better Day (KSHMR Remix)",
+    "link": "https://music.163.com/song?id=34690185",
+    "duration": "04:43",
+    "artists": [
+      { "name": "Avicii", "link": "https://music.163.com/artist?id=45236" },
+      { "name": "KSHMR", "link": "https://music.163.com/artist?id=896139" }
+    ],
+    "album": {
+      "name": "For a Better Day (KSHMR Remix)",
+      "link": "https://music.163.com/album?id=3291175"
+    }
+  },
+  {
+    "name": "Heist",
+    "link": "https://music.163.com/song?id=35331692",
+    "duration": "03:02",
+    "artists": [
+      { "name": "Noisestorm", "link": "https://music.163.com/artist?id=98081" }
+    ],
+    "album": {
+      "name": "Heist",
+      "link": "https://music.163.com/album?id=3319069"
+    }
+  },
+  {
+    "name": "All I Need",
+    "link": "https://music.163.com/song?id=1391003809",
+    "duration": "04:09",
+    "artists": [
+      { "name": "Atfort", "link": "https://music.163.com/artist?id=32719664" }
+    ],
+    "album": {
+      "name": "All I Need [No Sia Vocal]",
+      "link": "https://music.163.com/album?id=81611200"
+    }
+  },
+  {
+    "name": "Avicii - ID - Our Love (SanJin Remake)",
+    "link": "https://music.163.com/song?id=1360411961",
+    "duration": "04:25",
+    "artists": [
+      { "name": "SanJin", "link": "https://music.163.com/artist?id=12001209" }
+    ],
+    "album": {
+      "name": "Avicii - ID -《Our Love》（SanJin Remake）",
+      "link": "https://music.163.com/album?id=78620141"
+    }
+  },
+  {
+    "name": "Up at Night",
+    "link": "https://music.163.com/song?id=1860653161",
+    "duration": "03:16",
+    "artists": [
+      {
+        "name": "Sineself",
+        "link": "https://music.163.com/artist?id=32945422"
+      },
+      { "name": "Linney", "link": "https://music.163.com/artist?id=1193247" }
+    ],
+    "album": {
+      "name": "Up at Night",
+      "link": "https://music.163.com/album?id=130246037"
+    }
+  },
+  {
+    "name": "Evergreen",
+    "link": "https://music.163.com/song?id=1326153376",
+    "duration": "04:14",
+    "artists": [
+      {
+        "name": "Wasted Penguinz",
+        "link": "https://music.163.com/artist?id=816508"
+      }
+    ],
+    "album": {
+      "name": "Evergreen",
+      "link": "https://music.163.com/album?id=74452854"
+    }
+  },
+  {
+    "name": "The Supreme (Radio Edit)",
+    "link": "https://music.163.com/song?id=407459601",
+    "duration": "03:15",
+    "artists": [
+      { "name": "Cyber", "link": "https://music.163.com/artist?id=1072052" }
+    ],
+    "album": {
+      "name": "The Supreme",
+      "link": "https://music.163.com/album?id=34569402"
+    }
+  },
+  {
+    "name": "Memories",
+    "link": "https://music.163.com/song?id=1326295454",
+    "duration": "03:05",
+    "artists": [
+      { "name": "A7i", "link": "https://music.163.com/artist?id=28602931" }
+    ],
+    "album": {
+      "name": "For You",
+      "link": "https://music.163.com/album?id=74437996"
+    }
+  },
+  {
+    "name": "Avicii - Unbreakable",
+    "link": "https://music.163.com/song?id=1303276401",
+    "duration": "02:54",
+    "artists": [
+      { "name": "Hollis", "link": "https://music.163.com/artist?id=12287729" }
+    ],
+    "album": {
+      "name": "AVICII",
+      "link": "https://music.163.com/album?id=35529406"
+    }
+  },
+  {
+    "name": "青春追梦人",
+    "link": "https://music.163.com/song?id=1397651742",
+    "duration": "03:57",
+    "artists": [
+      {
+        "name": "浙江共青团",
+        "link": "https://music.163.com/artist?id=30792948"
+      }
+    ],
+    "album": {
+      "name": "青春追梦人",
+      "link": "https://music.163.com/album?id=82495705"
+    }
+  },
+  {
+    "name": "眉间不点砂",
+    "link": "https://music.163.com/song?id=1306320711",
+    "duration": "04:49",
+    "artists": [
+      { "name": "KyuRu☆", "link": "https://music.163.com/artist?id=12346007" }
+    ],
+    "album": {
+      "name": "眉间不点砂",
+      "link": "https://music.163.com/album?id=72654741"
+    }
+  },
+  {
+    "name": "PARAMOUR (feat. AURORA)",
+    "link": "https://music.163.com/song?id=1895415819",
+    "duration": "02:48",
+    "artists": [
+      {
+        "name": "Sub Urban",
+        "link": "https://music.163.com/artist?id=29722383"
+      },
+      { "name": "AURORA", "link": "https://music.163.com/artist?id=1043338" }
+    ],
+    "album": {
+      "name": "PARAMOUR (feat. AURORA)",
+      "link": "https://music.163.com/album?id=136193650"
+    }
+  },
+  {
+    "name": "不凡歌",
+    "link": "https://music.163.com/song?id=1924850422",
+    "duration": "03:28",
+    "artists": [
+      {
+        "name": "南征北战NZBZ",
+        "link": "https://music.163.com/artist?id=189873"
+      }
+    ],
+    "album": {
+      "name": "不凡歌",
+      "link": "https://music.163.com/album?id=141211863"
+    }
+  }
+]
