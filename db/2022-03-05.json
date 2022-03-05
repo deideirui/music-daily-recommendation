@@ -1,0 +1,473 @@
+[
+  {
+    "name": "Hold On",
+    "link": "https://music.163.com/song?id=485964333",
+    "duration": "03:23",
+    "artists": [
+      { "name": "Prismo", "link": "https://music.163.com/artist?id=1086041" }
+    ],
+    "album": {
+      "name": "Hold On",
+      "link": "https://music.163.com/album?id=35661029"
+    }
+  },
+  {
+    "name": "Follow You",
+    "link": "https://music.163.com/song?id=1835265185",
+    "duration": "04:00",
+    "artists": [
+      { "name": "MitiS", "link": "https://music.163.com/artist?id=40245" },
+      {
+        "name": "Rico & Miella",
+        "link": "https://music.163.com/artist?id=1050743"
+      }
+    ],
+    "album": {
+      "name": "Lost",
+      "link": "https://music.163.com/album?id=125636092"
+    }
+  },
+  {
+    "name": "Giving Me Away",
+    "link": "https://music.163.com/song?id=28391583",
+    "duration": "03:56",
+    "artists": [
+      { "name": "Betty Who", "link": "https://music.163.com/artist?id=832218" }
+    ],
+    "album": {
+      "name": "Slow Dancing",
+      "link": "https://music.163.com/album?id=2786131"
+    }
+  },
+  {
+    "name": "Somebody",
+    "link": "https://music.163.com/song?id=1437478617",
+    "duration": "03:14",
+    "artists": [
+      { "name": "Dagny", "link": "https://music.163.com/artist?id=1156155" }
+    ],
+    "album": {
+      "name": "Somebody",
+      "link": "https://music.163.com/album?id=87597200"
+    }
+  },
+  {
+    "name": "High (Don Diablo Remix)",
+    "link": "https://music.163.com/song?id=1924410570",
+    "duration": "04:01",
+    "artists": [
+      {
+        "name": "The Chainsmokers",
+        "link": "https://music.163.com/artist?id=893484"
+      },
+      { "name": "Don Diablo", "link": "https://music.163.com/artist?id=139072" }
+    ],
+    "album": {
+      "name": "High (Don Diablo Remix)",
+      "link": "https://music.163.com/album?id=141122345"
+    }
+  },
+  {
+    "name": "Infinity",
+    "link": "https://music.163.com/song?id=1335330283",
+    "duration": "03:57",
+    "artists": [
+      {
+        "name": "Jaymes Young",
+        "link": "https://music.163.com/artist?id=820322"
+      }
+    ],
+    "album": {
+      "name": "Feel Something",
+      "link": "https://music.163.com/album?id=35372595"
+    }
+  },
+  {
+    "name": "Million Miles Away",
+    "link": "https://music.163.com/song?id=1418084020",
+    "duration": "03:02",
+    "artists": [
+      { "name": "Bassic", "link": "https://music.163.com/artist?id=1124241" },
+      { "name": "Heleen", "link": "https://music.163.com/artist?id=28866940" }
+    ],
+    "album": {
+      "name": "Million Miles Away",
+      "link": "https://music.163.com/album?id=85121165"
+    }
+  },
+  {
+    "name": "For You",
+    "link": "https://music.163.com/song?id=1409288398",
+    "duration": "03:31",
+    "artists": [
+      {
+        "name": "Chill Satellite",
+        "link": "https://music.163.com/artist?id=33421944"
+      }
+    ],
+    "album": {
+      "name": "For You",
+      "link": "https://music.163.com/album?id=84069518"
+    }
+  },
+  {
+    "name": "Too Long",
+    "link": "https://music.163.com/song?id=1492656824",
+    "duration": "03:11",
+    "artists": [
+      { "name": "Holseek", "link": "https://music.163.com/artist?id=35205001" },
+      {
+        "name": "Axel Paerel",
+        "link": "https://music.163.com/artist?id=36902536"
+      }
+    ],
+    "album": {
+      "name": "Too Long",
+      "link": "https://music.163.com/album?id=97841180"
+    }
+  },
+  {
+    "name": "Be Together",
+    "link": "https://music.163.com/song?id=464377999",
+    "duration": "03:33",
+    "artists": [
+      { "name": "Zaza", "link": "https://music.163.com/artist?id=12141075" }
+    ],
+    "album": {
+      "name": "Be Together",
+      "link": "https://music.163.com/album?id=35256539"
+    }
+  },
+  {
+    "name": "Glide",
+    "link": "https://music.163.com/song?id=571315121",
+    "duration": "03:16",
+    "artists": [
+      {
+        "name": "Stephen Walking",
+        "link": "https://music.163.com/artist?id=101860"
+      }
+    ],
+    "album": {
+      "name": "Glide",
+      "link": "https://music.163.com/album?id=39586571"
+    }
+  },
+  {
+    "name": "Elysium",
+    "link": "https://music.163.com/song?id=485960380",
+    "duration": "02:51",
+    "artists": [
+      { "name": "Lostboy", "link": "https://music.163.com/artist?id=12474308" },
+      { "name": "Slashtaq", "link": "https://music.163.com/artist?id=12335232" }
+    ],
+    "album": {
+      "name": "Elysium",
+      "link": "https://music.163.com/album?id=35663016"
+    }
+  },
+  {
+    "name": "Fractal",
+    "link": "https://music.163.com/song?id=1393318072",
+    "duration": "05:17",
+    "artists": [
+      { "name": "Tinlicker", "link": "https://music.163.com/artist?id=742233" }
+    ],
+    "album": {
+      "name": "This Is Not Our Universe",
+      "link": "https://music.163.com/album?id=81940219"
+    }
+  },
+  {
+    "name": "繁",
+    "link": "https://music.163.com/song?id=1841467123",
+    "duration": "03:25",
+    "artists": [
+      { "name": "白鸿", "link": "https://music.163.com/artist?id=31008744" },
+      {
+        "name": "ANDERSTANDU",
+        "link": "https://music.163.com/artist?id=32541591"
+      }
+    ],
+    "album": {
+      "name": "繁",
+      "link": "https://music.163.com/album?id=126773477"
+    }
+  },
+  {
+    "name": "Upwards",
+    "link": "https://music.163.com/song?id=1343278877",
+    "duration": "03:07",
+    "artists": [
+      { "name": "Phily", "link": "https://music.163.com/artist?id=12496806" }
+    ],
+    "album": {
+      "name": "Upwards",
+      "link": "https://music.163.com/album?id=75305233"
+    }
+  },
+  {
+    "name": "Ignoring My Heart",
+    "link": "https://music.163.com/song?id=566436029",
+    "duration": "03:04",
+    "artists": [
+      { "name": "T-Mass", "link": "https://music.163.com/artist?id=410484" }
+    ],
+    "album": {
+      "name": "Ignoring My Heart",
+      "link": "https://music.163.com/album?id=39266012"
+    }
+  },
+  {
+    "name": "Take Me Away",
+    "link": "https://music.163.com/song?id=1817054112",
+    "duration": "03:54",
+    "artists": [
+      {
+        "name": "马丁的披萨PizzA_",
+        "link": "https://music.163.com/artist?id=34203643"
+      },
+      { "name": "Krbread", "link": "https://music.163.com/artist?id=32934907" },
+      {
+        "name": "小培lovely",
+        "link": "https://music.163.com/artist?id=32574792"
+      }
+    ],
+    "album": {
+      "name": "Take Me Away",
+      "link": "https://music.163.com/album?id=122397796"
+    }
+  },
+  {
+    "name": "Still Sleeping",
+    "link": "https://music.163.com/song?id=1356229856",
+    "duration": "04:46",
+    "artists": [
+      { "name": "Jai Wolf", "link": "https://music.163.com/artist?id=1063048" }
+    ],
+    "album": {
+      "name": "The Cure To Loneliness",
+      "link": "https://music.163.com/album?id=78300643"
+    }
+  },
+  {
+    "name": "Not Alone (feat. Player One)",
+    "link": "https://music.163.com/song?id=1380905159",
+    "duration": "05:16",
+    "artists": [
+      { "name": " Kalax ", "link": "https://music.163.com/artist?id=986263" },
+      { "name": "姜姜", "link": "https://music.163.com/artist?id=29580649" }
+    ],
+    "album": {
+      "name": "III",
+      "link": "https://music.163.com/album?id=80658988"
+    }
+  },
+  {
+    "name": "S-Suuny",
+    "link": "https://music.163.com/song?id=1808531794",
+    "duration": "04:11",
+    "artists": [
+      { "name": "昼漾", "link": "https://music.163.com/artist?id=13607523" }
+    ],
+    "album": {
+      "name": "S-Suuny",
+      "link": "https://music.163.com/album?id=121042478"
+    }
+  },
+  {
+    "name": "今天也想见到你",
+    "link": "https://music.163.com/song?id=1353194608",
+    "duration": "04:00",
+    "artists": [
+      { "name": "焦迈奇", "link": "https://music.163.com/artist?id=12084229" }
+    ],
+    "album": {
+      "name": "我的名字",
+      "link": "https://music.163.com/album?id=78720135"
+    }
+  },
+  {
+    "name": "Sunrise",
+    "link": "https://music.163.com/song?id=1392991114",
+    "duration": "03:53",
+    "artists": [
+      { "name": "Vexento", "link": "https://music.163.com/artist?id=12037010" }
+    ],
+    "album": {
+      "name": "Best of Summer Lounge Tunes",
+      "link": "https://music.163.com/album?id=81884423"
+    }
+  },
+  {
+    "name": "Dreams (No Voices) [Bonus Track]",
+    "link": "https://music.163.com/song?id=34142773",
+    "duration": "03:24",
+    "artists": [
+      {
+        "name": "BrunuhVille",
+        "link": "https://music.163.com/artist?id=851426"
+      }
+    ],
+    "album": {
+      "name": "Northwind",
+      "link": "https://music.163.com/album?id=3264722"
+    }
+  },
+  {
+    "name": "Legendary",
+    "link": "https://music.163.com/song?id=36586598",
+    "duration": "03:21",
+    "artists": [
+      {
+        "name": "Epic Soul Factory",
+        "link": "https://music.163.com/artist?id=92325"
+      },
+      {
+        "name": "Cesc Vilà",
+        "link": "https://music.163.com/artist?id=13157099"
+      },
+      {
+        "name": "Fran Soto",
+        "link": "https://music.163.com/artist?id=13157100"
+      }
+    ],
+    "album": {
+      "name": "Sigma",
+      "link": "https://music.163.com/album?id=3394605"
+    }
+  },
+  {
+    "name": "Lost Empire",
+    "link": "https://music.163.com/song?id=521324740",
+    "duration": "04:52",
+    "artists": [
+      { "name": "KWXZ", "link": "https://music.163.com/artist?id=12193637" }
+    ],
+    "album": {
+      "name": "Lost Empire",
+      "link": "https://music.163.com/album?id=36869110"
+    }
+  },
+  {
+    "name": "夜航星",
+    "link": "https://music.163.com/song?id=1808556594",
+    "duration": "04:02",
+    "artists": [
+      { "name": "洛天依", "link": "https://music.163.com/artist?id=906118" }
+    ],
+    "album": {
+      "name": "2020最美的夜 bilibili晚会",
+      "link": "https://music.163.com/album?id=121080486"
+    }
+  },
+  {
+    "name": "Growing Pains",
+    "link": "https://music.163.com/song?id=1858365222",
+    "duration": "02:54",
+    "artists": [
+      {
+        "name": "Nathan Trent",
+        "link": "https://music.163.com/artist?id=12263200"
+      }
+    ],
+    "album": {
+      "name": "Growing Pains",
+      "link": "https://music.163.com/album?id=129900726"
+    }
+  },
+  {
+    "name": "Daylight",
+    "link": "https://music.163.com/song?id=1372188635",
+    "duration": "02:42",
+    "artists": [
+      { "name": "Seredris", "link": "https://music.163.com/artist?id=29051250" }
+    ],
+    "album": {
+      "name": "Daylight",
+      "link": "https://music.163.com/album?id=79797968"
+    }
+  },
+  {
+    "name": "黑血症",
+    "link": "https://music.163.com/song?id=1356379323",
+    "duration": "04:31",
+    "artists": [
+      {
+        "name": "阿良良木健",
+        "link": "https://music.163.com/artist?id=964311"
+      },
+      { "name": "洛天依", "link": "https://music.163.com/artist?id=906118" }
+    ],
+    "album": {
+      "name": "奇爱人生 LOVE ELEGIA",
+      "link": "https://music.163.com/album?id=74829483"
+    }
+  },
+  {
+    "name": "Come Back",
+    "link": "https://music.163.com/song?id=1421519397",
+    "duration": "04:45",
+    "artists": [
+      { "name": "闹闹丶", "link": "https://music.163.com/artist?id=12357233" },
+      { "name": "洛天依", "link": "https://music.163.com/artist?id=906118" },
+      { "name": "徵羽摩柯", "link": "https://music.163.com/artist?id=29356260" }
+    ],
+    "album": {
+      "name": "Come Back",
+      "link": "https://music.163.com/album?id=85527704"
+    }
+  },
+  {
+    "name": "呼吸频率",
+    "link": "https://music.163.com/song?id=1414095194",
+    "duration": "03:04",
+    "artists": [
+      {
+        "name": "扬科YANGK",
+        "link": "https://music.163.com/artist?id=12291958"
+      }
+    ],
+    "album": {
+      "name": "呼吸频率",
+      "link": "https://music.163.com/album?id=84653413"
+    }
+  },
+  {
+    "name": "无人知晓的我",
+    "link": "https://music.163.com/song?id=507364094",
+    "duration": "03:33",
+    "artists": [
+      { "name": "黄丽玲", "link": "https://music.163.com/artist?id=7063" }
+    ],
+    "album": {
+      "name": "A-LIN同名专辑",
+      "link": "https://music.163.com/album?id=36192851"
+    }
+  },
+  {
+    "name": "Wander With Me",
+    "link": "https://music.163.com/song?id=36019234",
+    "duration": "04:47",
+    "artists": [
+      { "name": "Tom Misch", "link": "https://music.163.com/artist?id=930011" }
+    ],
+    "album": {
+      "name": "Beat Tape 2",
+      "link": "https://music.163.com/album?id=3367707"
+    }
+  },
+  {
+    "name": "Blame Myself",
+    "link": "https://music.163.com/song?id=1860988921",
+    "duration": "03:50",
+    "artists": [
+      { "name": "ILLENIUM", "link": "https://music.163.com/artist?id=1050518" },
+      { "name": "Tori Kelly", "link": "https://music.163.com/artist?id=83268" }
+    ],
+    "album": {
+      "name": "Fallen Embers",
+      "link": "https://music.163.com/album?id=130311646"
+    }
+  }
+]
