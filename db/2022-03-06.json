@@ -1,0 +1,473 @@
+[
+  {
+    "name": "Believe",
+    "link": "https://music.163.com/song?id=1845453315",
+    "duration": "03:17",
+    "artists": [
+      {
+        "name": "WildVibes",
+        "link": "https://music.163.com/artist?id=1181751"
+      },
+      {
+        "name": "Martin Miller",
+        "link": "https://music.163.com/artist?id=12534226"
+      },
+      { "name": "Loé", "link": "https://music.163.com/artist?id=48051773" }
+    ],
+    "album": {
+      "name": "Believe",
+      "link": "https://music.163.com/album?id=127491344"
+    }
+  },
+  {
+    "name": "The Long Road Home",
+    "link": "https://music.163.com/song?id=518094021",
+    "duration": "03:11",
+    "artists": [
+      { "name": "Outwild", "link": "https://music.163.com/artist?id=1115191" }
+    ],
+    "album": {
+      "name": "The Long Road Home",
+      "link": "https://music.163.com/album?id=36781029"
+    }
+  },
+  {
+    "name": "Dancing On Dangerous",
+    "link": "https://music.163.com/song?id=1831955986",
+    "duration": "02:03",
+    "artists": [
+      { "name": "Imanbek", "link": "https://music.163.com/artist?id=33251576" },
+      { "name": "Sean Paul", "link": "https://music.163.com/artist?id=43033" },
+      {
+        "name": "Sofia Reyes",
+        "link": "https://music.163.com/artist?id=999195"
+      }
+    ],
+    "album": {
+      "name": "Dancing On Dangerous",
+      "link": "https://music.163.com/album?id=125033999"
+    }
+  },
+  {
+    "name": "Nothing But Love For You",
+    "link": "https://music.163.com/song?id=1816407235",
+    "duration": "03:24",
+    "artists": [
+      { "name": "Vicetone", "link": "https://music.163.com/artist?id=747030" },
+      {
+        "name": "Lena Leon",
+        "link": "https://music.163.com/artist?id=14537825"
+      }
+    ],
+    "album": {
+      "name": "Legacy",
+      "link": "https://music.163.com/album?id=122372498"
+    }
+  },
+  {
+    "name": "The Dreams We Left Behind",
+    "link": "https://music.163.com/song?id=1918182085",
+    "duration": "04:40",
+    "artists": [
+      { "name": "Dennis Kuo", "link": "https://music.163.com/artist?id=32385" }
+    ],
+    "album": {
+      "name": "The Dreams We Left Behind",
+      "link": "https://music.163.com/album?id=140014162"
+    }
+  },
+  {
+    "name": "Rampampam",
+    "link": "https://music.163.com/song?id=1830298727",
+    "duration": "03:20",
+    "artists": [
+      { "name": "Minelli", "link": "https://music.163.com/artist?id=12535248" }
+    ],
+    "album": {
+      "name": "Rampampam",
+      "link": "https://music.163.com/album?id=124660972"
+    }
+  },
+  {
+    "name": "Runaway",
+    "link": "https://music.163.com/song?id=503206114",
+    "duration": "03:16",
+    "artists": [
+      { "name": "Halcyon", "link": "https://music.163.com/artist?id=94199" },
+      {
+        "name": "Valentina Franco",
+        "link": "https://music.163.com/artist?id=14005689"
+      }
+    ],
+    "album": {
+      "name": "Runaway",
+      "link": "https://music.163.com/album?id=36106027"
+    }
+  },
+  {
+    "name": "Why Do I?",
+    "link": "https://music.163.com/song?id=550514737",
+    "duration": "03:43",
+    "artists": [
+      {
+        "name": "Unknown Brain",
+        "link": "https://music.163.com/artist?id=12196203"
+      },
+      {
+        "name": "Bri Tolani",
+        "link": "https://music.163.com/artist?id=12203231"
+      }
+    ],
+    "album": {
+      "name": "Why Do I?",
+      "link": "https://music.163.com/album?id=38238285"
+    }
+  },
+  {
+    "name": "L'Amour Toujours (Tiesto Radio Edit)",
+    "link": "https://music.163.com/song?id=507983352",
+    "duration": "02:42",
+    "artists": [
+      {
+        "name": "Dzeko & Torres",
+        "link": "https://music.163.com/artist?id=282072"
+      },
+      {
+        "name": "Delaney Jane",
+        "link": "https://music.163.com/artist?id=1132286"
+      }
+    ],
+    "album": {
+      "name": "L'Amour Toujours",
+      "link": "https://music.163.com/album?id=36324628"
+    }
+  },
+  {
+    "name": "枯萎",
+    "link": "https://music.163.com/song?id=1385883551",
+    "duration": "03:12",
+    "artists": [
+      { "name": "张叶蕾", "link": "https://music.163.com/artist?id=12213291" },
+      { "name": "OneCandy", "link": "https://music.163.com/artist?id=12286389" }
+    ],
+    "album": {
+      "name": "枯萎",
+      "link": "https://music.163.com/album?id=81037642"
+    }
+  },
+  {
+    "name": "Breath By Breath",
+    "link": "https://music.163.com/song?id=1408646469",
+    "duration": "02:40",
+    "artists": [
+      { "name": "JLV", "link": "https://music.163.com/artist?id=12335463" },
+      { "name": "Clara Sofie", "link": "https://music.163.com/artist?id=53104" }
+    ],
+    "album": {
+      "name": "Breath By Breath",
+      "link": "https://music.163.com/album?id=83992262"
+    }
+  },
+  {
+    "name": "Lost (As I Am)",
+    "link": "https://music.163.com/song?id=414691355",
+    "duration": "03:26",
+    "artists": [
+      {
+        "name": "Superwalkers",
+        "link": "https://music.163.com/artist?id=12048281"
+      }
+    ],
+    "album": {
+      "name": "Lost (As I Am)",
+      "link": "https://music.163.com/album?id=34700743"
+    }
+  },
+  {
+    "name": "在名为未来的波浪里",
+    "link": "https://music.163.com/song?id=1412645076",
+    "duration": "03:32",
+    "artists": [
+      { "name": "原子邦妮", "link": "https://music.163.com/artist?id=1193482" }
+    ],
+    "album": {
+      "name": "在名为未来的波浪里",
+      "link": "https://music.163.com/album?id=84570434"
+    }
+  },
+  {
+    "name": "一瞬间的温柔",
+    "link": "https://music.163.com/song?id=1436212381",
+    "duration": "03:15",
+    "artists": [
+      { "name": "陆怡雯", "link": "https://music.163.com/artist?id=34283831" }
+    ],
+    "album": {
+      "name": "一瞬间的温柔",
+      "link": "https://music.163.com/album?id=87209491"
+    }
+  },
+  {
+    "name": "Time Travel",
+    "link": "https://music.163.com/song?id=1310149405",
+    "duration": "03:45",
+    "artists": [
+      { "name": "TonyZ", "link": "https://music.163.com/artist?id=28345386" }
+    ],
+    "album": {
+      "name": "Time Travel",
+      "link": "https://music.163.com/album?id=73351780"
+    }
+  },
+  {
+    "name": "1993",
+    "link": "https://music.163.com/song?id=1342647177",
+    "duration": "02:32",
+    "artists": [
+      {
+        "name": "Manila Killa",
+        "link": "https://music.163.com/artist?id=1147176"
+      }
+    ],
+    "album": {
+      "name": "1993",
+      "link": "https://music.163.com/album?id=75354305"
+    }
+  },
+  {
+    "name": "Taste the Feeling",
+    "link": "https://music.163.com/song?id=406096624",
+    "duration": "03:11",
+    "artists": [
+      { "name": "Avicii", "link": "https://music.163.com/artist?id=45236" },
+      {
+        "name": "Conrad Sewell",
+        "link": "https://music.163.com/artist?id=1050800"
+      }
+    ],
+    "album": {
+      "name": "Taste the Feeling",
+      "link": "https://music.163.com/album?id=34515681"
+    }
+  },
+  {
+    "name": "Hell and High Water",
+    "link": "https://music.163.com/song?id=1488980378",
+    "duration": "02:25",
+    "artists": [
+      {
+        "name": "Major Lazer",
+        "link": "https://music.163.com/artist?id=96309"
+      },
+      {
+        "name": "Alessia Cara",
+        "link": "https://music.163.com/artist?id=1074089"
+      }
+    ],
+    "album": {
+      "name": "Music Is The Weapon",
+      "link": "https://music.163.com/album?id=97166386"
+    }
+  },
+  {
+    "name": "The Glow",
+    "link": "https://music.163.com/song?id=32046828",
+    "duration": "04:37",
+    "artists": [
+      { "name": "Monogem", "link": "https://music.163.com/artist?id=1078007" }
+    ],
+    "album": {
+      "name": "Monogem",
+      "link": "https://music.163.com/album?id=3139754"
+    }
+  },
+  {
+    "name": "源氏(GenJi)",
+    "link": "https://music.163.com/song?id=457516012",
+    "duration": "03:35",
+    "artists": [
+      {
+        "name": "Forwe兰斯",
+        "link": "https://music.163.com/artist?id=12079166"
+      }
+    ],
+    "album": {
+      "name": "双龙(Dragons)",
+      "link": "https://music.163.com/album?id=35163260"
+    }
+  },
+  {
+    "name": "电音之梦 (original Mix)",
+    "link": "https://music.163.com/song?id=1365915369",
+    "duration": "03:14",
+    "artists": [
+      { "name": "阳山伟伟", "link": "https://music.163.com/artist?id=12641107" }
+    ],
+    "album": {
+      "name": "电音之梦 (original Mix)",
+      "link": "https://music.163.com/album?id=79193025"
+    }
+  },
+  {
+    "name": "Made in Hollywood",
+    "link": "https://music.163.com/song?id=31814116",
+    "duration": "03:34",
+    "artists": [
+      { "name": "LANY", "link": "https://music.163.com/artist?id=999460" }
+    ],
+    "album": {
+      "name": "Made in Hollywood",
+      "link": "https://music.163.com/album?id=3140026"
+    }
+  },
+  {
+    "name": "Jason",
+    "link": "https://music.163.com/song?id=426027089",
+    "duration": "05:31",
+    "artists": [
+      {
+        "name": "The Midnight",
+        "link": "https://music.163.com/artist?id=12023492"
+      },
+      {
+        "name": "Nikki Flores",
+        "link": "https://music.163.com/artist?id=70141"
+      }
+    ],
+    "album": {
+      "name": "Endless Summer",
+      "link": "https://music.163.com/album?id=34826028"
+    }
+  },
+  {
+    "name": "Takes All Night",
+    "link": "https://music.163.com/song?id=1380326327",
+    "duration": "03:21",
+    "artists": [
+      { "name": "LeBrock", "link": "https://music.163.com/artist?id=13970913" }
+    ],
+    "album": {
+      "name": "Takes All Night",
+      "link": "https://music.163.com/album?id=80624233"
+    }
+  },
+  {
+    "name": "Awaken - (英雄联盟2019新赛季宣传曲：觉醒)",
+    "link": "https://music.163.com/song?id=1341733740",
+    "duration": "03:18",
+    "artists": [
+      {
+        "name": "Valerie Broussard",
+        "link": "https://music.163.com/artist?id=11999108"
+      },
+      { "name": "陈锐", "link": "https://music.163.com/artist?id=533062" }
+    ],
+    "album": {
+      "name": "Awaken",
+      "link": "https://music.163.com/album?id=75311647"
+    }
+  },
+  {
+    "name": "Empty Love",
+    "link": "https://music.163.com/song?id=1435828582",
+    "duration": "02:50",
+    "artists": [
+      { "name": "Lulleaux", "link": "https://music.163.com/artist?id=1115185" },
+      {
+        "name": "Kid Princess",
+        "link": "https://music.163.com/artist?id=34704316"
+      }
+    ],
+    "album": {
+      "name": "Empty Love (feat. Kid Princess)",
+      "link": "https://music.163.com/album?id=87122489"
+    }
+  },
+  {
+    "name": "1000",
+    "link": "https://music.163.com/song?id=517932950",
+    "duration": "04:10",
+    "artists": [
+      { "name": "HJLL", "link": "https://music.163.com/artist?id=12271179" }
+    ],
+    "album": {
+      "name": "1000达成！！！！！！",
+      "link": "https://music.163.com/album?id=36757416"
+    }
+  },
+  {
+    "name": "泪雨",
+    "link": "https://music.163.com/song?id=1915554161",
+    "duration": "02:48",
+    "artists": [
+      { "name": "张钰", "link": "https://music.163.com/artist?id=34804565" }
+    ],
+    "album": {
+      "name": "泪雨",
+      "link": "https://music.163.com/album?id=139537808"
+    }
+  },
+  {
+    "name": "墨尔本的翡翠",
+    "link": "https://music.163.com/song?id=1386669594",
+    "duration": "04:36",
+    "artists": [
+      { "name": "李泳希", "link": "https://music.163.com/artist?id=12632289" }
+    ],
+    "album": {
+      "name": "墨尔本的翡翠",
+      "link": "https://music.163.com/album?id=81156095"
+    }
+  },
+  {
+    "name": "雪龙吟",
+    "link": "https://music.163.com/song?id=1914933323",
+    "duration": "03:27",
+    "artists": [
+      { "name": "张杰", "link": "https://music.163.com/artist?id=6472" }
+    ],
+    "album": {
+      "name": "雪龙吟",
+      "link": "https://music.163.com/album?id=139409623"
+    }
+  },
+  {
+    "name": "渺小祈愿",
+    "link": "https://music.163.com/song?id=1384527320",
+    "duration": "03:50",
+    "artists": [
+      { "name": "星葵77", "link": "https://music.163.com/artist?id=12919057" }
+    ],
+    "album": {
+      "name": "渺小祈愿【HB to COP】",
+      "link": "https://music.163.com/album?id=80934197"
+    }
+  },
+  {
+    "name": "Let Me Be Sad",
+    "link": "https://music.163.com/song?id=1355147445",
+    "duration": "03:34",
+    "artists": [
+      { "name": "I Prevail", "link": "https://music.163.com/artist?id=1045109" }
+    ],
+    "album": {
+      "name": "TRAUMA",
+      "link": "https://music.163.com/album?id=78242545"
+    }
+  },
+  {
+    "name": "Ghost",
+    "link": "https://music.163.com/song?id=1885130671",
+    "duration": "02:33",
+    "artists": [
+      {
+        "name": "Justin Bieber",
+        "link": "https://music.163.com/artist?id=35531"
+      }
+    ],
+    "album": {
+      "name": "Justice (The Complete Edition)",
+      "link": "https://music.163.com/album?id=134452379"
+    }
+  }
+]
