@@ -1,0 +1,490 @@
+[
+  {
+    "name": "Love For You",
+    "link": "https://music.163.com/song?id=1899846596",
+    "duration": "03:23",
+    "artists": [
+      {
+        "name": "Madalen Duke",
+        "link": "https://music.163.com/artist?id=12301117"
+      },
+      { "name": "Sabai", "link": "https://music.163.com/artist?id=32093901" }
+    ],
+    "album": {
+      "name": "Love For You",
+      "link": "https://music.163.com/album?id=136903799"
+    }
+  },
+  {
+    "name": "The Network",
+    "link": "https://music.163.com/song?id=1374602770",
+    "duration": "03:12",
+    "artists": [
+      {
+        "name": "FUTURECODE",
+        "link": "https://music.163.com/artist?id=31577450"
+      }
+    ],
+    "album": {
+      "name": "The Network",
+      "link": "https://music.163.com/album?id=80064840"
+    }
+  },
+  {
+    "name": "Outside",
+    "link": "https://music.163.com/song?id=37455180",
+    "duration": "03:42",
+    "artists": [
+      {
+        "name": "Ellie Goulding",
+        "link": "https://music.163.com/artist?id=56598"
+      },
+      {
+        "name": "Calvin Harris",
+        "link": "https://music.163.com/artist?id=29968"
+      }
+    ],
+    "album": {
+      "name": "Party Mixtape",
+      "link": "https://music.163.com/album?id=3417417"
+    }
+  },
+  {
+    "name": "Logical",
+    "link": "https://music.163.com/song?id=1378997726",
+    "duration": "02:33",
+    "artists": [
+      {
+        "name": "The Darkmaker",
+        "link": "https://music.163.com/artist?id=31492299"
+      },
+      { "name": "Jwillyn", "link": "https://music.163.com/artist?id=31002749" }
+    ],
+    "album": {
+      "name": "The Fairy",
+      "link": "https://music.163.com/album?id=80471989"
+    }
+  },
+  {
+    "name": "Aurora Hearts",
+    "link": "https://music.163.com/song?id=1918182086",
+    "duration": "05:38",
+    "artists": [
+      { "name": "Dennis Kuo", "link": "https://music.163.com/artist?id=32385" }
+    ],
+    "album": {
+      "name": "The Dreams We Left Behind",
+      "link": "https://music.163.com/album?id=140014162"
+    }
+  },
+  {
+    "name": "Someone You Loved",
+    "link": "https://music.163.com/song?id=1469748653",
+    "duration": "03:04",
+    "artists": [
+      {
+        "name": "Lewis Capaldi",
+        "link": "https://music.163.com/artist?id=12474140"
+      }
+    ],
+    "album": {
+      "name": "Romantic Pop Songs",
+      "link": "https://music.163.com/album?id=93729416"
+    }
+  },
+  {
+    "name": "Like I Love You",
+    "link": "https://music.163.com/song?id=1923582",
+    "duration": "03:23",
+    "artists": [
+      { "name": "R.I.O.", "link": "https://music.163.com/artist?id=42495" }
+    ],
+    "album": {
+      "name": "Sunshine",
+      "link": "https://music.163.com/album?id=193990"
+    }
+  },
+  {
+    "name": "Fire",
+    "link": "https://music.163.com/song?id=1448940936",
+    "duration": "02:53",
+    "artists": [
+      {
+        "name": "Brook Xiao",
+        "link": "https://music.163.com/artist?id=35663051"
+      },
+      {
+        "name": "Rachel Horter",
+        "link": "https://music.163.com/artist?id=33392356"
+      }
+    ],
+    "album": {
+      "name": "Fire",
+      "link": "https://music.163.com/album?id=89595564"
+    }
+  },
+  {
+    "name": "Crashing Into You (feat. Haley Maze)",
+    "link": "https://music.163.com/song?id=1825988545",
+    "duration": "03:13",
+    "artists": [
+      { "name": "4URA", "link": "https://music.163.com/artist?id=33019808" },
+      {
+        "name": "BrillLion",
+        "link": "https://music.163.com/artist?id=30688557"
+      },
+      {
+        "name": "Haley Maze",
+        "link": "https://music.163.com/artist?id=37458320"
+      }
+    ],
+    "album": {
+      "name": "Crashing Into You (feat. Haley Maze)",
+      "link": "https://music.163.com/album?id=124087601"
+    }
+  },
+  {
+    "name": "Year Of The Dragon",
+    "link": "https://music.163.com/song?id=1871054631",
+    "duration": "02:32",
+    "artists": [
+      { "name": "NWYR", "link": "https://music.163.com/artist?id=12325211" }
+    ],
+    "album": {
+      "name": "Year Of The Dragon",
+      "link": "https://music.163.com/album?id=132023895"
+    }
+  },
+  {
+    "name": "Letter",
+    "link": "https://music.163.com/song?id=1811185845",
+    "duration": "03:39",
+    "artists": [
+      { "name": "Ahxello", "link": "https://music.163.com/artist?id=1046348" }
+    ],
+    "album": {
+      "name": "Letter",
+      "link": "https://music.163.com/album?id=121486854"
+    }
+  },
+  {
+    "name": "Skydance",
+    "link": "https://music.163.com/song?id=1839284954",
+    "duration": "02:46",
+    "artists": [
+      { "name": "W&W", "link": "https://music.163.com/artist?id=46131" },
+      { "name": "AXMO", "link": "https://music.163.com/artist?id=31155422" },
+      { "name": "Giin", "link": "https://music.163.com/artist?id=14138875" }
+    ],
+    "album": {
+      "name": "Skydance",
+      "link": "https://music.163.com/album?id=126366144"
+    }
+  },
+  {
+    "name": "You",
+    "link": "https://music.163.com/song?id=1425212270",
+    "duration": "03:49",
+    "artists": [
+      { "name": "Mendum", "link": "https://music.163.com/artist?id=1045065" },
+      {
+        "name": "Brenton Mattheus",
+        "link": "https://music.163.com/artist?id=777352"
+      }
+    ],
+    "album": {
+      "name": "You",
+      "link": "https://music.163.com/album?id=85922702"
+    }
+  },
+  {
+    "name": "Red Line",
+    "link": "https://music.163.com/song?id=1382997618",
+    "duration": "04:25",
+    "artists": [
+      {
+        "name": "Anna Yvette",
+        "link": "https://music.163.com/artist?id=1150079"
+      }
+    ],
+    "album": {
+      "name": "Red Line",
+      "link": "https://music.163.com/album?id=80850786"
+    }
+  },
+  {
+    "name": "Are We Alone",
+    "link": "https://music.163.com/song?id=1414892339",
+    "duration": "03:12",
+    "artists": [
+      { "name": "NIVIRO", "link": "https://music.163.com/artist?id=12152016" }
+    ],
+    "album": {
+      "name": "Are We Alone",
+      "link": "https://music.163.com/album?id=84790482"
+    }
+  },
+  {
+    "name": "耳。语",
+    "link": "https://music.163.com/song?id=1412645077",
+    "duration": "03:53",
+    "artists": [
+      { "name": "原子邦妮", "link": "https://music.163.com/artist?id=1193482" }
+    ],
+    "album": {
+      "name": "在名为未来的波浪里",
+      "link": "https://music.163.com/album?id=84570434"
+    }
+  },
+  {
+    "name": "Head In The Clouds",
+    "link": "https://music.163.com/song?id=1878812258",
+    "duration": "03:04",
+    "artists": [
+      { "name": "Hayd", "link": "https://music.163.com/artist?id=31213402" }
+    ],
+    "album": {
+      "name": "Changes - EP",
+      "link": "https://music.163.com/album?id=133357885"
+    }
+  },
+  {
+    "name": "Aliens",
+    "link": "https://music.163.com/song?id=1381365049",
+    "duration": "04:03",
+    "artists": [
+      { "name": "Wice", "link": "https://music.163.com/artist?id=32904830" }
+    ],
+    "album": {
+      "name": "Wice",
+      "link": "https://music.163.com/album?id=80717743"
+    }
+  },
+  {
+    "name": "Peace Of Mind",
+    "link": "https://music.163.com/song?id=1370112481",
+    "duration": "03:00",
+    "artists": [
+      { "name": "Avicii", "link": "https://music.163.com/artist?id=45236" },
+      {
+        "name": "Vargas & Lagola",
+        "link": "https://music.163.com/artist?id=12279249"
+      }
+    ],
+    "album": {
+      "name": "TIM",
+      "link": "https://music.163.com/album?id=79638731"
+    }
+  },
+  {
+    "name": "极光",
+    "link": "https://music.163.com/song?id=1401064029",
+    "duration": "04:00",
+    "artists": [
+      { "name": "于果", "link": "https://music.163.com/artist?id=12262303" }
+    ],
+    "album": {
+      "name": "极光",
+      "link": "https://music.163.com/album?id=82987681"
+    }
+  },
+  {
+    "name": "Please Don't Cry",
+    "link": "https://music.163.com/song?id=1344291727",
+    "duration": "03:47",
+    "artists": [
+      { "name": "LeBrock", "link": "https://music.163.com/artist?id=13970913" }
+    ],
+    "album": {
+      "name": "Real Thing",
+      "link": "https://music.163.com/album?id=75462145"
+    }
+  },
+  {
+    "name": "Bend (Bonus Track)",
+    "link": "https://music.163.com/song?id=1852925294",
+    "duration": "04:53",
+    "artists": [
+      {
+        "name": "The Midnight",
+        "link": "https://music.163.com/artist?id=12023492"
+      }
+    ],
+    "album": {
+      "name": "Endless Summer (5 Year Anniversary Edition)",
+      "link": "https://music.163.com/album?id=128942349"
+    }
+  },
+  {
+    "name": "I Can't Sleep Anymore",
+    "link": "https://music.163.com/song?id=485347407",
+    "duration": "03:34",
+    "artists": [
+      { "name": "AK", "link": "https://music.163.com/artist?id=1192509" }
+    ],
+    "album": {
+      "name": "I Can't Sleep Anymore",
+      "link": "https://music.163.com/album?id=35645419"
+    }
+  },
+  {
+    "name": "End Of The Abyss",
+    "link": "https://music.163.com/song?id=1396261700",
+    "duration": "04:28",
+    "artists": [
+      {
+        "name": "Little End",
+        "link": "https://music.163.com/artist?id=12611210"
+      },
+      {
+        "name": "Pam_dinosaur",
+        "link": "https://music.163.com/artist?id=30960989"
+      }
+    ],
+    "album": {
+      "name": "End Of The Abyss (For メイドインアビス)",
+      "link": "https://music.163.com/album?id=82190228"
+    }
+  },
+  {
+    "name": "Too Late (Moonnight Remix)",
+    "link": "https://music.163.com/song?id=31381569",
+    "duration": "03:11",
+    "artists": [
+      {
+        "name": "Iris Dee Jay",
+        "link": "https://music.163.com/artist?id=373034"
+      },
+      {
+        "name": "Maria Opale",
+        "link": "https://music.163.com/artist?id=193070"
+      }
+    ],
+    "album": {
+      "name": "Only Chillout Vol.2 (Compiled By Seven24)",
+      "link": "https://music.163.com/album?id=3111736"
+    }
+  },
+  {
+    "name": "群光",
+    "link": "https://music.163.com/song?id=1387638483",
+    "duration": "03:30",
+    "artists": [
+      { "name": "夏璃夜", "link": "https://music.163.com/artist?id=12236114" },
+      { "name": "DE_SCC", "link": "https://music.163.com/artist?id=13196217" }
+    ],
+    "album": {
+      "name": "群光",
+      "link": "https://music.163.com/album?id=81257642"
+    }
+  },
+  {
+    "name": "Unraveled",
+    "link": "https://music.163.com/song?id=553974732",
+    "duration": "03:32",
+    "artists": [
+      {
+        "name": "Chanyü 禅玉",
+        "link": "https://music.163.com/artist?id=13908236"
+      }
+    ],
+    "album": {
+      "name": "Unraveled",
+      "link": "https://music.163.com/album?id=38380428"
+    }
+  },
+  {
+    "name": "Hollis-Can't Love You Again(Papel vs. Atfort)（Atfort Remix）",
+    "link": "https://music.163.com/song?id=1396580703",
+    "duration": "02:51",
+    "artists": [
+      { "name": "Atfort", "link": "https://music.163.com/artist?id=32719664" }
+    ],
+    "album": {
+      "name": "Can't Love You Again(Paple vs. Atfort Bootleg)",
+      "link": "https://music.163.com/album?id=82333847"
+    }
+  },
+  {
+    "name": "Lone Ranger",
+    "link": "https://music.163.com/song?id=40915127",
+    "duration": "03:10",
+    "artists": [
+      {
+        "name": "Rachel Platten",
+        "link": "https://music.163.com/artist?id=74518"
+      }
+    ],
+    "album": {
+      "name": "Wildfire",
+      "link": "https://music.163.com/album?id=3439713"
+    }
+  },
+  {
+    "name": "In Too Deep",
+    "link": "https://music.163.com/song?id=534542249",
+    "duration": "03:36",
+    "artists": [
+      { "name": "BRÍET", "link": "https://music.163.com/artist?id=13162090" }
+    ],
+    "album": {
+      "name": "In Too Deep",
+      "link": "https://music.163.com/album?id=37467100"
+    }
+  },
+  {
+    "name": "Look Down",
+    "link": "https://music.163.com/song?id=19015750",
+    "duration": "03:30",
+    "artists": [
+      { "name": "Kate McGill", "link": "https://music.163.com/artist?id=64055" }
+    ],
+    "album": {
+      "name": "Replaced",
+      "link": "https://music.163.com/album?id=1742386"
+    }
+  },
+  {
+    "name": "少年游(ft.Spylent)",
+    "link": "https://music.163.com/song?id=1843176063",
+    "duration": "03:06",
+    "artists": [
+      { "name": "INK", "link": "https://music.163.com/artist?id=34575523" }
+    ],
+    "album": {
+      "name": "少年游",
+      "link": "https://music.163.com/album?id=127078319"
+    }
+  },
+  {
+    "name": "美人鱼",
+    "link": "https://music.163.com/song?id=108931",
+    "duration": "04:14",
+    "artists": [
+      { "name": "林俊杰", "link": "https://music.163.com/artist?id=3684" }
+    ],
+    "album": {
+      "name": "第二天堂",
+      "link": "https://music.163.com/album?id=10804"
+    }
+  },
+  {
+    "name": "Wolves",
+    "link": "https://music.163.com/song?id=1805290105",
+    "duration": "03:18",
+    "artists": [
+      {
+        "name": "Selena Gomez",
+        "link": "https://music.163.com/artist?id=140196"
+      },
+      {
+        "name": "Marshmello",
+        "link": "https://music.163.com/artist?id=1060019"
+      }
+    ],
+    "album": {
+      "name": "Santai Di Pantai",
+      "link": "https://music.163.com/album?id=120605577"
+    }
+  }
+]
