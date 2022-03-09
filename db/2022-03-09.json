@@ -1,0 +1,494 @@
+[
+  {
+    "name": "Meant to Be",
+    "link": "https://music.163.com/song?id=1815902493",
+    "duration": "03:13",
+    "artists": [
+      { "name": "Baasik", "link": "https://music.163.com/artist?id=783117" },
+      {
+        "name": "Ethan Dufault",
+        "link": "https://music.163.com/artist?id=32619584"
+      }
+    ],
+    "album": {
+      "name": "Meant to Be",
+      "link": "https://music.163.com/album?id=122295384"
+    }
+  },
+  {
+    "name": "Wasted Love",
+    "link": "https://music.163.com/song?id=1475325268",
+    "duration": "02:50",
+    "artists": [
+      {
+        "name": "Nightcall",
+        "link": "https://music.163.com/artist?id=47992839"
+      },
+      {
+        "name": "Karma Child",
+        "link": "https://music.163.com/artist?id=36616274"
+      },
+      { "name": "Gia Koka", "link": "https://music.163.com/artist?id=12203281" }
+    ],
+    "album": {
+      "name": "Wasted Love",
+      "link": "https://music.163.com/album?id=94715066"
+    }
+  },
+  {
+    "name": "Don't Surrender",
+    "link": "https://music.163.com/song?id=1479380271",
+    "duration": "02:45",
+    "artists": [
+      { "name": "Egzod", "link": "https://music.163.com/artist?id=11970036" },
+      { "name": "EMM", "link": "https://music.163.com/artist?id=36313435" }
+    ],
+    "album": {
+      "name": "The Revolution",
+      "link": "https://music.163.com/album?id=95415934"
+    }
+  },
+  {
+    "name": "Look What You Made Me Do",
+    "link": "https://music.163.com/song?id=501133611",
+    "duration": "03:31",
+    "artists": [
+      {
+        "name": "Taylor Swift",
+        "link": "https://music.163.com/artist?id=44266"
+      }
+    ],
+    "album": {
+      "name": "reputation",
+      "link": "https://music.163.com/album?id=36709029"
+    }
+  },
+  {
+    "name": "Monsters",
+    "link": "https://music.163.com/song?id=1442453411",
+    "duration": "03:57",
+    "artists": [
+      {
+        "name": "Midnight Kids",
+        "link": "https://music.163.com/artist?id=13192314"
+      }
+    ],
+    "album": {
+      "name": "Monsters",
+      "link": "https://music.163.com/album?id=88347039"
+    }
+  },
+  {
+    "name": "My Friends",
+    "link": "https://music.163.com/song?id=1444903368",
+    "duration": "02:34",
+    "artists": [
+      { "name": "J. Lisk", "link": "https://music.163.com/artist?id=12121101" }
+    ],
+    "album": {
+      "name": "My Friends",
+      "link": "https://music.163.com/album?id=88771311"
+    }
+  },
+  {
+    "name": "For the Best",
+    "link": "https://music.163.com/song?id=1417510570",
+    "duration": "03:28",
+    "artists": [
+      {
+        "name": "Transviolet",
+        "link": "https://music.163.com/artist?id=1122080"
+      }
+    ],
+    "album": {
+      "name": "Born to Rule",
+      "link": "https://music.163.com/album?id=85063242"
+    }
+  },
+  {
+    "name": "With You (Ngẫu Hứng)",
+    "link": "https://music.163.com/song?id=1482104722",
+    "duration": "02:46",
+    "artists": [
+      {
+        "name": "Nick Strand",
+        "link": "https://music.163.com/artist?id=29208884"
+      },
+      { "name": "Hoaprox", "link": "https://music.163.com/artist?id=1177234" },
+      { "name": "MIO", "link": "https://music.163.com/artist?id=12826123" }
+    ],
+    "album": {
+      "name": "With You (Ngẫu Hứng)",
+      "link": "https://music.163.com/album?id=95939926"
+    }
+  },
+  {
+    "name": "Fragments",
+    "link": "https://music.163.com/song?id=566443609",
+    "duration": "03:22",
+    "artists": [
+      { "name": "FEWZ", "link": "https://music.163.com/artist?id=12008133" }
+    ],
+    "album": {
+      "name": "Fragments",
+      "link": "https://music.163.com/album?id=39263156"
+    }
+  },
+  {
+    "name": "Where We Started",
+    "link": "https://music.163.com/song?id=1389194224",
+    "duration": "03:42",
+    "artists": [
+      {
+        "name": "Lost Sky",
+        "link": "https://music.163.com/artist?id=28389556"
+      },
+      { "name": "Jex", "link": "https://music.163.com/artist?id=12007273" }
+    ],
+    "album": {
+      "name": "Where We Started",
+      "link": "https://music.163.com/album?id=81423960"
+    }
+  },
+  {
+    "name": "红衣少女",
+    "link": "https://music.163.com/song?id=1466449869",
+    "duration": "03:57",
+    "artists": [
+      { "name": "陆怡雯", "link": "https://music.163.com/artist?id=34283831" },
+      { "name": "白昼星BZX", "link": "https://music.163.com/artist?id=1185031" }
+    ],
+    "album": {
+      "name": "红衣少女",
+      "link": "https://music.163.com/album?id=93131438"
+    }
+  },
+  {
+    "name": "L'amour Toujours (Original Radio Version)",
+    "link": "https://music.163.com/song?id=1803440226",
+    "duration": "03:22",
+    "artists": [
+      {
+        "name": "Gigi D'Amour",
+        "link": "https://music.163.com/artist?id=46282435"
+      }
+    ],
+    "album": {
+      "name": "L'amour Toujours (Original Radio Version & Extended Version)",
+      "link": "https://music.163.com/album?id=120293073"
+    }
+  },
+  {
+    "name": "River",
+    "link": "https://music.163.com/song?id=1862232362",
+    "duration": "04:00",
+    "artists": [
+      {
+        "name": "Andrew Rayel",
+        "link": "https://music.163.com/artist?id=191512"
+      },
+      { "name": "AIDYL", "link": "https://music.163.com/artist?id=30999073" }
+    ],
+    "album": {
+      "name": "River",
+      "link": "https://music.163.com/album?id=130540622"
+    }
+  },
+  {
+    "name": "Into The Horizon",
+    "link": "https://music.163.com/song?id=1429478564",
+    "duration": "02:35",
+    "artists": [
+      { "name": "Navion", "link": "https://music.163.com/artist?id=12096296" },
+      { "name": "Oryon", "link": "https://music.163.com/artist?id=314651" },
+      {
+        "name": "Dirty Workz",
+        "link": "https://music.163.com/artist?id=33808957"
+      }
+    ],
+    "album": {
+      "name": "Into The Horizon",
+      "link": "https://music.163.com/album?id=86357826"
+    }
+  },
+  {
+    "name": "Play [Originally Performed by Alan Walker] (Instrumental Version)",
+    "link": "https://music.163.com/song?id=1391802941",
+    "duration": "02:44",
+    "artists": [
+      {
+        "name": "Simon Bacille",
+        "link": "https://music.163.com/artist?id=33251658"
+      }
+    ],
+    "album": {
+      "name": "Imagine Chart, Vol. 2",
+      "link": "https://music.163.com/album?id=81747436"
+    }
+  },
+  {
+    "name": "Lost & Found (Original Mix)",
+    "link": "https://music.163.com/song?id=1399770854",
+    "duration": "03:11",
+    "artists": [
+      {
+        "name": "Roman Messer",
+        "link": "https://music.163.com/artist?id=905394"
+      },
+      {
+        "name": "Roxanne Emery",
+        "link": "https://music.163.com/artist?id=74561"
+      }
+    ],
+    "album": {
+      "name": "Suanda Music Radio Top 25 (October / November 2019)",
+      "link": "https://music.163.com/album?id=82810229"
+    }
+  },
+  {
+    "name": "Eyes",
+    "link": "https://music.163.com/song?id=32102297",
+    "duration": "04:05",
+    "artists": [
+      {
+        "name": "The New Division",
+        "link": "https://music.163.com/artist?id=103368"
+      }
+    ],
+    "album": {
+      "name": "Eyes",
+      "link": "https://music.163.com/album?id=3152258"
+    }
+  },
+  {
+    "name": "Road So Far (ElementD Remix)",
+    "link": "https://music.163.com/song?id=1378048882",
+    "duration": "03:51",
+    "artists": [
+      {
+        "name": "ElementD",
+        "link": "https://music.163.com/artist?id=12192245"
+      },
+      { "name": "Urbanstep", "link": "https://music.163.com/artist?id=893364" },
+      {
+        "name": "Tytewriter",
+        "link": "https://music.163.com/artist?id=29001348"
+      }
+    ],
+    "album": {
+      "name": "Road So Far (ElementD Remix)",
+      "link": "https://music.163.com/album?id=80401569"
+    }
+  },
+  {
+    "name": "驰 Timelapse",
+    "link": "https://music.163.com/song?id=1433970975",
+    "duration": "03:13",
+    "artists": [
+      {
+        "name": "CORSAK胡梦周",
+        "link": "https://music.163.com/artist?id=28083351"
+      }
+    ],
+    "album": {
+      "name": "驰 Timelapse",
+      "link": "https://music.163.com/album?id=86832755"
+    }
+  },
+  {
+    "name": "SHADE",
+    "link": "https://music.163.com/song?id=1397701467",
+    "duration": "02:44",
+    "artists": [
+      {
+        "name": "Buy a dreamer",
+        "link": "https://music.163.com/artist?id=33249809"
+      }
+    ],
+    "album": {
+      "name": "SHADE",
+      "link": "https://music.163.com/album?id=82526119"
+    }
+  },
+  {
+    "name": "幻の夢",
+    "link": "https://music.163.com/song?id=1324617101",
+    "duration": "03:10",
+    "artists": [
+      { "name": "静风舞", "link": "https://music.163.com/artist?id=1145031" }
+    ],
+    "album": {
+      "name": "幻の夢",
+      "link": "https://music.163.com/album?id=74310599"
+    }
+  },
+  {
+    "name": "Soft Lips",
+    "link": "https://music.163.com/song?id=1490987790",
+    "duration": "02:46",
+    "artists": [
+      {
+        "name": "BlankCh3ck",
+        "link": "https://music.163.com/artist?id=37217660"
+      }
+    ],
+    "album": {
+      "name": "XOXO",
+      "link": "https://music.163.com/album?id=97543274"
+    }
+  },
+  {
+    "name": "Tales of Xin (Full Version)",
+    "link": "https://music.163.com/song?id=1404917400",
+    "duration": "03:18",
+    "artists": [
+      { "name": "Andreas B.", "link": "https://music.163.com/artist?id=299713" }
+    ],
+    "album": {
+      "name": "Tales of Xin (Full Version)",
+      "link": "https://music.163.com/album?id=83539021"
+    }
+  },
+  {
+    "name": "City Streets",
+    "link": "https://music.163.com/song?id=1357730313",
+    "duration": "03:33",
+    "artists": [
+      {
+        "name": "Charly Lownoise",
+        "link": "https://music.163.com/artist?id=14102753"
+      },
+      { "name": "Re-Style", "link": "https://music.163.com/artist?id=709052" }
+    ],
+    "album": {
+      "name": "City Streets",
+      "link": "https://music.163.com/album?id=78416502"
+    }
+  },
+  {
+    "name": "Find You",
+    "link": "https://music.163.com/song?id=1443498355",
+    "duration": "02:54",
+    "artists": [
+      { "name": "Tinoma", "link": "https://music.163.com/artist?id=34980735" }
+    ],
+    "album": {
+      "name": "Find You",
+      "link": "https://music.163.com/album?id=88548177"
+    }
+  },
+  {
+    "name": "Release Me (feat. Lotti)",
+    "link": "https://music.163.com/song?id=26541698",
+    "duration": "05:49",
+    "artists": [
+      { "name": "Foamo", "link": "https://music.163.com/artist?id=198184" }
+    ],
+    "album": {
+      "name": "Foamo EP",
+      "link": "https://music.163.com/album?id=2521447"
+    }
+  },
+  {
+    "name": "Good Bye Brave World",
+    "link": "https://music.163.com/song?id=26624722",
+    "duration": "02:02",
+    "artists": [
+      {
+        "name": "Dirk Reichardt",
+        "link": "https://music.163.com/artist?id=861517"
+      },
+      {
+        "name": "David Juergens",
+        "link": "https://music.163.com/artist?id=15016003"
+      }
+    ],
+    "album": {
+      "name": "Kokowääh 2 (Original Motion Picture Soundtrack)",
+      "link": "https://music.163.com/album?id=2536612"
+    }
+  },
+  {
+    "name": "讃歌~种山が原へ（Carwz Bootleg）",
+    "link": "https://music.163.com/song?id=1461366657",
+    "duration": "03:36",
+    "artists": [
+      { "name": "Carwz", "link": "https://music.163.com/artist?id=31089364" }
+    ],
+    "album": {
+      "name": "姬神",
+      "link": "https://music.163.com/album?id=92125621"
+    }
+  },
+  {
+    "name": "风带走的时间",
+    "link": "https://music.163.com/song?id=1396138270",
+    "duration": "02:21",
+    "artists": [
+      { "name": "N.K.杨凯", "link": "https://music.163.com/artist?id=31181589" }
+    ],
+    "album": {
+      "name": "四季钢琴集：风带走的时间",
+      "link": "https://music.163.com/album?id=82201378"
+    }
+  },
+  {
+    "name": "Out of Time (feat. Pyxis & Jay Diggs)",
+    "link": "https://music.163.com/song?id=1380905152",
+    "duration": "04:55",
+    "artists": [
+      { "name": " Kalax ", "link": "https://music.163.com/artist?id=986263" }
+    ],
+    "album": {
+      "name": "III",
+      "link": "https://music.163.com/album?id=80658988"
+    }
+  },
+  {
+    "name": "触タッチ",
+    "link": "https://music.163.com/song?id=1391091999",
+    "duration": "05:06",
+    "artists": [
+      {
+        "name": "AJonnyCool",
+        "link": "https://music.163.com/artist?id=12282902"
+      },
+      { "name": "苍子", "link": "https://music.163.com/artist?id=12622749" }
+    ],
+    "album": {
+      "name": "触れたなら（触碰）",
+      "link": "https://music.163.com/album?id=81185388"
+    }
+  },
+  {
+    "name": "春暖花开去见你",
+    "link": "https://music.163.com/song?id=1818820553",
+    "duration": "04:33",
+    "artists": [
+      {
+        "name": "福禄寿FloruitShow",
+        "link": "https://music.163.com/artist?id=29393033"
+      }
+    ],
+    "album": {
+      "name": "我用什么把你留住",
+      "link": "https://music.163.com/album?id=122740772"
+    }
+  },
+  {
+    "name": "In the End",
+    "link": "https://music.163.com/song?id=536182192",
+    "duration": "03:12",
+    "artists": [
+      {
+        "name": "Alex Lustig",
+        "link": "https://music.163.com/artist?id=12107624"
+      },
+      { "name": "AKACIA", "link": "https://music.163.com/artist?id=12263377" }
+    ],
+    "album": {
+      "name": "In the End",
+      "link": "https://music.163.com/album?id=37556013"
+    }
+  }
+]
