@@ -1,0 +1,500 @@
+[
+  {
+    "name": "Lovefool",
+    "link": "https://music.163.com/song?id=1485792093",
+    "duration": "03:10",
+    "artists": [
+      {
+        "name": "twocolors",
+        "link": "https://music.163.com/artist?id=14177760"
+      }
+    ],
+    "album": {
+      "name": "Lovefool Collection",
+      "link": "https://music.163.com/album?id=96570389"
+    }
+  },
+  {
+    "name": "限定涂鸦",
+    "link": "https://music.163.com/song?id=1851775058",
+    "duration": "03:18",
+    "artists": [
+      { "name": "摄音记", "link": "https://music.163.com/artist?id=48126846" },
+      {
+        "name": "张天奕ZTYick",
+        "link": "https://music.163.com/artist?id=12304366"
+      },
+      { "name": "杨世贸", "link": "https://music.163.com/artist?id=12571508" },
+      {
+        "name": "Vicky宣宣",
+        "link": "https://music.163.com/artist?id=33097213"
+      }
+    ],
+    "album": {
+      "name": "限定涂鸦（feat.Vicky宣宣）",
+      "link": "https://music.163.com/album?id=128687381"
+    }
+  },
+  {
+    "name": "Nevada (Vicetone Lofi Mix)",
+    "link": "https://music.163.com/song?id=1920499693",
+    "duration": "02:27",
+    "artists": [
+      {
+        "name": "Cozi Zuehlsdorff",
+        "link": "https://music.163.com/artist?id=1097153"
+      },
+      { "name": "Vicetone", "link": "https://music.163.com/artist?id=747030" }
+    ],
+    "album": {
+      "name": "Nevada (Vicetone Lofi Mix)",
+      "link": "https://music.163.com/album?id=140408976"
+    }
+  },
+  {
+    "name": "Red Eye",
+    "link": "https://music.163.com/song?id=1885130659",
+    "duration": "03:07",
+    "artists": [
+      {
+        "name": "Justin Bieber",
+        "link": "https://music.163.com/artist?id=35531"
+      },
+      { "name": "TroyBoi", "link": "https://music.163.com/artist?id=1022037" }
+    ],
+    "album": {
+      "name": "Justice (The Complete Edition)",
+      "link": "https://music.163.com/album?id=134452373"
+    }
+  },
+  {
+    "name": "Dear My Love",
+    "link": "https://music.163.com/song?id=1918182087",
+    "duration": "02:23",
+    "artists": [
+      { "name": "Dennis Kuo", "link": "https://music.163.com/artist?id=32385" }
+    ],
+    "album": {
+      "name": "The Dreams We Left Behind",
+      "link": "https://music.163.com/album?id=140014162"
+    }
+  },
+  {
+    "name": "Sunday",
+    "link": "https://music.163.com/song?id=1479985995",
+    "duration": "03:45",
+    "artists": [
+      {
+        "name": "Seantonio",
+        "link": "https://music.163.com/artist?id=32190601"
+      }
+    ],
+    "album": {
+      "name": "Sunday",
+      "link": "https://music.163.com/album?id=95556024"
+    }
+  },
+  {
+    "name": "对你上瘾 (TurtleDove斑鸠 Remix)",
+    "link": "https://music.163.com/song?id=1323304479",
+    "duration": "04:18",
+    "artists": [
+      {
+        "name": "TurtleDove斑鸠",
+        "link": "https://music.163.com/artist?id=12283168"
+      },
+      {
+        "name": "OneCandy",
+        "link": "https://music.163.com/artist?id=12286389"
+      },
+      { "name": "谢雨纯", "link": "https://music.163.com/artist?id=12605484" },
+      { "name": "Amaj", "link": "https://music.163.com/artist?id=12118628" }
+    ],
+    "album": {
+      "name": "对你上瘾FULL EP",
+      "link": "https://music.163.com/album?id=74268773"
+    }
+  },
+  {
+    "name": "Ain't My Fault (R3hab Remix)",
+    "link": "https://music.163.com/song?id=433018366",
+    "duration": "02:38",
+    "artists": [
+      {
+        "name": "Zara Larsson",
+        "link": "https://music.163.com/artist?id=816461"
+      },
+      { "name": "R3HAB", "link": "https://music.163.com/artist?id=197248" }
+    ],
+    "album": {
+      "name": "Aint My Fault (R3hab Remix)",
+      "link": "https://music.163.com/album?id=34897802"
+    }
+  },
+  {
+    "name": "星火",
+    "link": "https://music.163.com/song?id=1337778433",
+    "duration": "04:00",
+    "artists": [
+      {
+        "name": "吴赫伦Alexso",
+        "link": "https://music.163.com/artist?id=12499463"
+      },
+      { "name": "崔天琪", "link": "https://music.163.com/artist?id=7419" },
+      { "name": "Cibbs", "link": "https://music.163.com/artist?id=12316462" },
+      { "name": "孙禹", "link": "https://music.163.com/artist?id=31203163" }
+    ],
+    "album": {
+      "name": "星火",
+      "link": "https://music.163.com/album?id=75063223"
+    }
+  },
+  {
+    "name": "Cloned",
+    "link": "https://music.163.com/song?id=862694290",
+    "duration": "04:20",
+    "artists": [
+      {
+        "name": "GrunJ idle",
+        "link": "https://music.163.com/artist?id=13977801"
+      }
+    ],
+    "album": {
+      "name": "Cloned",
+      "link": "https://music.163.com/album?id=71666561"
+    }
+  },
+  {
+    "name": "Dancing In The Rain",
+    "link": "https://music.163.com/song?id=1355814875",
+    "duration": "03:00",
+    "artists": [
+      {
+        "name": "FUTURECODE",
+        "link": "https://music.163.com/artist?id=31577450"
+      },
+      {
+        "name": "Roxanne Emery",
+        "link": "https://music.163.com/artist?id=74561"
+      }
+    ],
+    "album": {
+      "name": "Dancing In The Rain",
+      "link": "https://music.163.com/album?id=78265721"
+    }
+  },
+  {
+    "name": "Paradox",
+    "link": "https://music.163.com/song?id=1406130985",
+    "duration": "03:16",
+    "artists": [
+      { "name": "TonyZ", "link": "https://music.163.com/artist?id=28345386" }
+    ],
+    "album": {
+      "name": "Paradox",
+      "link": "https://music.163.com/album?id=83690226"
+    }
+  },
+  {
+    "name": "Relativity",
+    "link": "https://music.163.com/song?id=1339205678",
+    "duration": "03:50",
+    "artists": [
+      { "name": "Menino", "link": "https://music.163.com/artist?id=14929011" }
+    ],
+    "album": {
+      "name": "Wndr",
+      "link": "https://music.163.com/album?id=75163212"
+    }
+  },
+  {
+    "name": "Waves",
+    "link": "https://music.163.com/song?id=431610360",
+    "duration": "03:49",
+    "artists": [
+      { "name": "Kat DeLuna", "link": "https://music.163.com/artist?id=62946" }
+    ],
+    "album": {
+      "name": "Waves",
+      "link": "https://music.163.com/album?id=34888191"
+    }
+  },
+  {
+    "name": "Wouldn't Change It",
+    "link": "https://music.163.com/song?id=405372499",
+    "duration": "02:46",
+    "artists": [
+      { "name": "Halvorsen", "link": "https://music.163.com/artist?id=1081367" }
+    ],
+    "album": {
+      "name": "Wouldn't Change It",
+      "link": "https://music.163.com/album?id=34526408"
+    }
+  },
+  {
+    "name": "Crash and Burn",
+    "link": "https://music.163.com/song?id=865916405",
+    "duration": "03:51",
+    "artists": [
+      { "name": "Refuzion", "link": "https://music.163.com/artist?id=1081221" }
+    ],
+    "album": {
+      "name": "Crash And Burn",
+      "link": "https://music.163.com/album?id=71802261"
+    }
+  },
+  {
+    "name": "High Up In The Sky",
+    "link": "https://music.163.com/song?id=1822579323",
+    "duration": "02:45",
+    "artists": [
+      { "name": "Quickdrop", "link": "https://music.163.com/artist?id=207524" }
+    ],
+    "album": {
+      "name": "High Up In The Sky",
+      "link": "https://music.163.com/album?id=123453684"
+    }
+  },
+  {
+    "name": "Everybody Feels (feat. Zack Gray)",
+    "link": "https://music.163.com/song?id=1840898618",
+    "duration": "03:29",
+    "artists": [
+      { "name": "ARMNHMR", "link": "https://music.163.com/artist?id=1132078" },
+      { "name": "Maazel", "link": "https://music.163.com/artist?id=12450334" },
+      {
+        "name": "Zack Gray",
+        "link": "https://music.163.com/artist?id=15206414"
+      }
+    ],
+    "album": {
+      "name": "Everybody Feels (feat. Zack Gray)",
+      "link": "https://music.163.com/album?id=126673969"
+    }
+  },
+  {
+    "name": "Shining",
+    "link": "https://music.163.com/song?id=1382990726",
+    "duration": "02:37",
+    "artists": [
+      { "name": "ROY KNOX", "link": "https://music.163.com/artist?id=33149404" }
+    ],
+    "album": {
+      "name": "Shining",
+      "link": "https://music.163.com/album?id=80849803"
+    }
+  },
+  {
+    "name": "1987",
+    "link": "https://music.163.com/song?id=1450025475",
+    "duration": "02:23",
+    "artists": [
+      {
+        "name": "Forwe兰斯",
+        "link": "https://music.163.com/artist?id=12079166"
+      },
+      { "name": "RiTon_", "link": "https://music.163.com/artist?id=13284555" },
+      {
+        "name": "JuiceRecords",
+        "link": "https://music.163.com/artist?id=31087421"
+      }
+    ],
+    "album": {
+      "name": "1987",
+      "link": "https://music.163.com/album?id=89770691"
+    }
+  },
+  {
+    "name": "You Make Me (Throttle Radio Edit)",
+    "link": "https://music.163.com/song?id=28190438",
+    "duration": "03:41",
+    "artists": [
+      { "name": "Avicii", "link": "https://music.163.com/artist?id=45236" }
+    ],
+    "album": {
+      "name": "Hey Brother / Wake Me Up / You Make Me (Remixes)",
+      "link": "https://music.163.com/album?id=2743054"
+    }
+  },
+  {
+    "name": "Here",
+    "link": "https://music.163.com/song?id=1461445180",
+    "duration": "06:55",
+    "artists": [
+      {
+        "name": "Little End",
+        "link": "https://music.163.com/artist?id=12611210"
+      }
+    ],
+    "album": {
+      "name": "Here",
+      "link": "https://music.163.com/album?id=92135780"
+    }
+  },
+  {
+    "name": "i drive me mad (Mike Shinoda Mix)",
+    "link": "https://music.163.com/song?id=1458192494",
+    "duration": "02:48",
+    "artists": [
+      {
+        "name": "renforshort",
+        "link": "https://music.163.com/artist?id=31477800"
+      },
+      {
+        "name": "Mike Shinoda",
+        "link": "https://music.163.com/artist?id=39922"
+      }
+    ],
+    "album": {
+      "name": "i drive me mad (Mike Shinoda Mix)",
+      "link": "https://music.163.com/album?id=91527888"
+    }
+  },
+  {
+    "name": "无眠帝国",
+    "link": "https://music.163.com/song?id=474293322",
+    "duration": "05:13",
+    "artists": [
+      { "name": "聂禹", "link": "https://music.163.com/artist?id=4666" }
+    ],
+    "album": {
+      "name": "太阳照不到我家 （Single SP Edition）",
+      "link": "https://music.163.com/album?id=35427275"
+    }
+  },
+  {
+    "name": "Light Years (feat. Nikki Flores)",
+    "link": "https://music.163.com/song?id=1382563369",
+    "duration": "05:21",
+    "artists": [
+      {
+        "name": "The Midnight",
+        "link": "https://music.163.com/artist?id=12023492"
+      }
+    ],
+    "album": {
+      "name": "Nocturnal",
+      "link": "https://music.163.com/album?id=80814887"
+    }
+  },
+  {
+    "name": "Teardrop",
+    "link": "https://music.163.com/song?id=22575474",
+    "duration": "05:31",
+    "artists": [
+      {
+        "name": "Massive Attack",
+        "link": "https://music.163.com/artist?id=96265"
+      }
+    ],
+    "album": {
+      "name": "Teardrop",
+      "link": "https://music.163.com/album?id=2066694"
+    }
+  },
+  {
+    "name": "Leave This Island",
+    "link": "https://music.163.com/song?id=28267932",
+    "duration": "04:01",
+    "artists": [
+      { "name": "Maxïmo Park", "link": "https://music.163.com/artist?id=38907" }
+    ],
+    "album": {
+      "name": "Leave This Island",
+      "link": "https://music.163.com/album?id=2762369"
+    }
+  },
+  {
+    "name": "In Sleep",
+    "link": "https://music.163.com/song?id=21024826",
+    "duration": "04:57",
+    "artists": [
+      { "name": "Lissie", "link": "https://music.163.com/artist?id=66028" }
+    ],
+    "album": {
+      "name": "Catching A Tiger",
+      "link": "https://music.163.com/album?id=1946009"
+    }
+  },
+  {
+    "name": "ROSS AND RACHEL",
+    "link": "https://music.163.com/song?id=1466544976",
+    "duration": "03:12",
+    "artists": [
+      {
+        "name": "Jake Miller",
+        "link": "https://music.163.com/artist?id=776761"
+      }
+    ],
+    "album": {
+      "name": "ROSS AND RACHEL",
+      "link": "https://music.163.com/album?id=93154395"
+    }
+  },
+  {
+    "name": "Little Brother",
+    "link": "https://music.163.com/song?id=440403617",
+    "duration": "03:35",
+    "artists": [
+      { "name": "Ella Vos", "link": "https://music.163.com/artist?id=12121298" }
+    ],
+    "album": {
+      "name": "Little Brother",
+      "link": "https://music.163.com/album?id=34923657"
+    }
+  },
+  {
+    "name": "Push Through (Extended Mix)",
+    "link": "https://music.163.com/song?id=548060273",
+    "duration": "08:10",
+    "artists": [
+      {
+        "name": "Fady & Mina",
+        "link": "https://music.163.com/artist?id=199560"
+      },
+      { "name": "Leolani", "link": "https://music.163.com/artist?id=13190039" }
+    ],
+    "album": {
+      "name": "Push Through",
+      "link": "https://music.163.com/album?id=38052128"
+    }
+  },
+  {
+    "name": "Rolling Dice",
+    "link": "https://music.163.com/song?id=427139726",
+    "duration": "04:47",
+    "artists": [
+      {
+        "name": "Just A Gent",
+        "link": "https://music.163.com/artist?id=893239"
+      },
+      {
+        "name": "Ella Vos",
+        "link": "https://music.163.com/artist?id=12121298"
+      },
+      {
+        "name": "Joey Chavez",
+        "link": "https://music.163.com/artist?id=15090729"
+      }
+    ],
+    "album": {
+      "name": "Rolling Dice",
+      "link": "https://music.163.com/album?id=34839496"
+    }
+  },
+  {
+    "name": "Welcome To New York",
+    "link": "https://music.163.com/song?id=29561031",
+    "duration": "03:32",
+    "artists": [
+      {
+        "name": "Taylor Swift",
+        "link": "https://music.163.com/artist?id=44266"
+      }
+    ],
+    "album": {
+      "name": "1989 (Deluxe)",
+      "link": "https://music.163.com/album?id=3029801"
+    }
+  }
+]
