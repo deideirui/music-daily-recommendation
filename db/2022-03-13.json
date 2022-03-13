@@ -1,0 +1,304 @@
+[
+  {
+    "name": "Walk Away",
+    "link": "https://music.163.com/song?id=27938326",
+    "duration": "05:12",
+    "artists": [
+      { "name": "JMSN", "link": "https://music.163.com/artist?id=37263" }
+    ],
+    "album": {
+      "name": "Pllajë",
+      "link": "https://music.163.com/album?id=2697746"
+    }
+  },
+  {
+    "name": "Paradise",
+    "link": "https://music.163.com/song?id=418603108",
+    "duration": "03:33",
+    "artists": [
+      {
+        "name": "Danelle Sandoval",
+        "link": "https://music.163.com/artist?id=12583018"
+      }
+    ],
+    "album": {
+      "name": "Paradise",
+      "link": "https://music.163.com/album?id=34750031"
+    }
+  },
+  {
+    "name": "Out of Our Minds (Radio Cut)",
+    "link": "https://music.163.com/song?id=1927003664",
+    "duration": "03:22",
+    "artists": [
+      {
+        "name": "Sunlight Project",
+        "link": "https://music.163.com/artist?id=858214"
+      }
+    ],
+    "album": {
+      "name": "Out of Our Minds",
+      "link": "https://music.163.com/album?id=141590292"
+    }
+  },
+  {
+    "name": "Before U",
+    "link": "https://music.163.com/song?id=1919737699",
+    "duration": "02:34",
+    "artists": [
+      {
+        "name": "Marshmello",
+        "link": "https://music.163.com/artist?id=1060019"
+      }
+    ],
+    "album": {
+      "name": "Before U",
+      "link": "https://music.163.com/album?id=140304987"
+    }
+  },
+  {
+    "name": "一滴泪的时间 - (完整版)",
+    "link": "https://music.163.com/song?id=1924245718",
+    "duration": "03:49",
+    "artists": [
+      { "name": "刘珉轩", "link": "https://music.163.com/artist?id=30406257" }
+    ],
+    "album": {
+      "name": "一滴泪的时间",
+      "link": "https://music.163.com/album?id=141092347"
+    }
+  },
+  {
+    "name": "STAY",
+    "link": "https://music.163.com/song?id=1859245776",
+    "duration": "02:21",
+    "artists": [
+      {
+        "name": "The Kid LAROI",
+        "link": "https://music.163.com/artist?id=32795025"
+      },
+      {
+        "name": "Justin Bieber",
+        "link": "https://music.163.com/artist?id=35531"
+      }
+    ],
+    "album": {
+      "name": "STAY",
+      "link": "https://music.163.com/album?id=130016223"
+    }
+  },
+  {
+    "name": "Normal No More",
+    "link": "https://music.163.com/song?id=1440570723",
+    "duration": "03:19",
+    "artists": [
+      { "name": "TYSM", "link": "https://music.163.com/artist?id=12278200" }
+    ],
+    "album": {
+      "name": "Normal No More",
+      "link": "https://music.163.com/album?id=88010289"
+    }
+  },
+  {
+    "name": "Love Is Gone (Acoustic)",
+    "link": "https://music.163.com/song?id=1401671455",
+    "duration": "02:56",
+    "artists": [
+      { "name": "SLANDER", "link": "https://music.163.com/artist?id=1137239" },
+      {
+        "name": "Dylan Matthew",
+        "link": "https://music.163.com/artist?id=28684353"
+      }
+    ],
+    "album": {
+      "name": "Love Is Gone (Acoustic)",
+      "link": "https://music.163.com/album?id=83079277"
+    }
+  },
+  {
+    "name": "Mood",
+    "link": "https://music.163.com/song?id=1464325108",
+    "duration": "02:20",
+    "artists": [
+      {
+        "name": "24kGoldn",
+        "link": "https://music.163.com/artist?id=31081554"
+      },
+      {
+        "name": "iann dior",
+        "link": "https://music.163.com/artist?id=31532704"
+      }
+    ],
+    "album": {
+      "name": "Mood",
+      "link": "https://music.163.com/album?id=92730778"
+    }
+  },
+  {
+    "name": "Dancing With Your Ghost",
+    "link": "https://music.163.com/song?id=1374329431",
+    "duration": "03:17",
+    "artists": [
+      {
+        "name": "Sasha Alex Sloan",
+        "link": "https://music.163.com/artist?id=12646102"
+      }
+    ],
+    "album": {
+      "name": "Dancing With Your Ghost",
+      "link": "https://music.163.com/album?id=80029518"
+    }
+  },
+  {
+    "name": "Unstoppable",
+    "link": "https://music.163.com/song?id=400876320",
+    "duration": "03:37",
+    "artists": [
+      { "name": "Sia", "link": "https://music.163.com/artist?id=74625" }
+    ],
+    "album": {
+      "name": "This Is Acting",
+      "link": "https://music.163.com/album?id=3394107"
+    }
+  },
+  {
+    "name": "Mood (Lil Ghost Remix)",
+    "link": "https://music.163.com/song?id=1840808119",
+    "duration": "03:17",
+    "artists": [
+      {
+        "name": "24kGoldn",
+        "link": "https://music.163.com/artist?id=31081554"
+      },
+      {
+        "name": "iann dior",
+        "link": "https://music.163.com/artist?id=31532704"
+      },
+      {
+        "name": "Lil Ghost小鬼",
+        "link": "https://music.163.com/artist?id=12493781"
+      }
+    ],
+    "album": {
+      "name": "Mood (Lil Ghost Remix)",
+      "link": "https://music.163.com/album?id=126647353"
+    }
+  },
+  {
+    "name": "Remember Our Summer",
+    "link": "https://music.163.com/song?id=1384450197",
+    "duration": "02:43",
+    "artists": [
+      {
+        "name": "FrogMonster",
+        "link": "https://music.163.com/artist?id=30549371"
+      }
+    ],
+    "album": {
+      "name": "Remember Our Summer",
+      "link": "https://music.163.com/album?id=80958771"
+    }
+  },
+  {
+    "name": "MELANCHOLY",
+    "link": "https://music.163.com/song?id=1297742167",
+    "duration": "02:08",
+    "artists": [
+      {
+        "name": "White Cherry",
+        "link": "https://music.163.com/artist?id=28390245"
+      }
+    ],
+    "album": {
+      "name": "MELANCHOLY",
+      "link": "https://music.163.com/album?id=72069674"
+    }
+  },
+  {
+    "name": "Temple",
+    "link": "https://music.163.com/song?id=1456677611",
+    "duration": "04:55",
+    "artists": [
+      { "name": "Zerky", "link": "https://music.163.com/artist?id=13045030" },
+      { "name": "Liu", "link": "https://music.163.com/artist?id=12046870" }
+    ],
+    "album": {
+      "name": "Temple",
+      "link": "https://music.163.com/album?id=91220170"
+    }
+  },
+  {
+    "name": "Power (In Your Soul)",
+    "link": "https://music.163.com/song?id=1843319489",
+    "duration": "03:35",
+    "artists": [
+      {
+        "name": "Interupt",
+        "link": "https://music.163.com/artist?id=33917936"
+      },
+      {
+        "name": "Luna LePage",
+        "link": "https://music.163.com/artist?id=36919245"
+      }
+    ],
+    "album": {
+      "name": "Power (In Your Soul)",
+      "link": "https://music.163.com/album?id=127100173"
+    }
+  },
+  {
+    "name": "Black Magic",
+    "link": "https://music.163.com/song?id=1805317558",
+    "duration": "02:54",
+    "artists": [
+      { "name": "Jonasu", "link": "https://music.163.com/artist?id=28527997" }
+    ],
+    "album": {
+      "name": "Black Magic",
+      "link": "https://music.163.com/album?id=120609644"
+    }
+  },
+  {
+    "name": "Fight",
+    "link": "https://music.163.com/song?id=1293913379",
+    "duration": "03:04",
+    "artists": [
+      {
+        "name": "BeatBrothers",
+        "link": "https://music.163.com/artist?id=28053402"
+      }
+    ],
+    "album": {
+      "name": "Fight",
+      "link": "https://music.163.com/album?id=71851269"
+    }
+  },
+  {
+    "name": "Something Just Like This",
+    "link": "https://music.163.com/song?id=461347998",
+    "duration": "04:07",
+    "artists": [
+      {
+        "name": "The Chainsmokers",
+        "link": "https://music.163.com/artist?id=893484"
+      },
+      { "name": "Coldplay", "link": "https://music.163.com/artist?id=89365" }
+    ],
+    "album": {
+      "name": "Something Just Like This",
+      "link": "https://music.163.com/album?id=35196287"
+    }
+  },
+  {
+    "name": "double take",
+    "link": "https://music.163.com/song?id=1369602061",
+    "duration": "02:51",
+    "artists": [
+      { "name": "dhruv", "link": "https://music.163.com/artist?id=32470128" }
+    ],
+    "album": {
+      "name": "double take",
+      "link": "https://music.163.com/album?id=79590373"
+    }
+  }
+]
