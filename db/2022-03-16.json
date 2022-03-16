@@ -1,0 +1,453 @@
+[
+  {
+    "name": "The One (feat. Zeyué)",
+    "link": "https://music.163.com/song?id=1803663018",
+    "duration": "03:53",
+    "artists": [
+      {
+        "name": "森林屿诗",
+        "link": "https://music.163.com/artist?id=13698665"
+      },
+      { "name": "L3V3LS", "link": "https://music.163.com/artist?id=12007340" },
+      { "name": "Zeyué", "link": "https://music.163.com/artist?id=35512419" }
+    ],
+    "album": {
+      "name": "The One (feat. Zeyué)",
+      "link": "https://music.163.com/album?id=120270456"
+    }
+  },
+  {
+    "name": "正在为你哭泣 (Prod.by 余威-TonyYu)",
+    "link": "https://music.163.com/song?id=556203108",
+    "duration": "03:36",
+    "artists": [
+      {
+        "name": "曾婕Joey.Z",
+        "link": "https://music.163.com/artist?id=1146112"
+      },
+      {
+        "name": "余威-TonyYu",
+        "link": "https://music.163.com/artist?id=12537134"
+      }
+    ],
+    "album": {
+      "name": "正在为你哭泣(Crying For You)",
+      "link": "https://music.163.com/album?id=38530056"
+    }
+  },
+  {
+    "name": "Hero (feat. Christina Perri) [Deep Mix]",
+    "link": "https://music.163.com/song?id=1360454878",
+    "duration": "03:38",
+    "artists": [
+      { "name": "Cash Cash", "link": "https://music.163.com/artist?id=50905" },
+      {
+        "name": "Christina Perri",
+        "link": "https://music.163.com/artist?id=52979"
+      }
+    ],
+    "album": {
+      "name": "Hero (feat. Christina Perri) [Deep Mix]",
+      "link": "https://music.163.com/album?id=78685653"
+    }
+  },
+  {
+    "name": "Letting Go",
+    "link": "https://music.163.com/song?id=208891",
+    "duration": "04:23",
+    "artists": [
+      { "name": "蔡健雅", "link": "https://music.163.com/artist?id=7214" }
+    ],
+    "album": {
+      "name": "说到爱",
+      "link": "https://music.163.com/album?id=21250"
+    }
+  },
+  {
+    "name": "Dreamer",
+    "link": "https://music.163.com/song?id=1365331138",
+    "duration": "03:42",
+    "artists": [
+      {
+        "name": "Seantonio",
+        "link": "https://music.163.com/artist?id=32190601"
+      }
+    ],
+    "album": {
+      "name": "The Travel",
+      "link": "https://music.163.com/album?id=79120526"
+    }
+  },
+  {
+    "name": "Take It Slow",
+    "link": "https://music.163.com/song?id=410654864",
+    "duration": "03:29",
+    "artists": [
+      { "name": "Monogem", "link": "https://music.163.com/artist?id=1078007" }
+    ],
+    "album": {
+      "name": "Take It Slow",
+      "link": "https://music.163.com/album?id=34609807"
+    }
+  },
+  {
+    "name": "ROSE（你的玫瑰）",
+    "link": "https://music.163.com/song?id=1821670007",
+    "duration": "03:31",
+    "artists": [
+      {
+        "name": "张天奕ZTYick",
+        "link": "https://music.163.com/artist?id=12304366"
+      },
+      { "name": "Let-love", "link": "https://music.163.com/artist?id=32563758" }
+    ],
+    "album": {
+      "name": "ROSE（你的玫瑰）",
+      "link": "https://music.163.com/album?id=123240479"
+    }
+  },
+  {
+    "name": "Never Holiday",
+    "link": "https://music.163.com/song?id=1409236150",
+    "duration": "04:31",
+    "artists": [
+      { "name": "Fe La", "link": "https://music.163.com/artist?id=33926027" }
+    ],
+    "album": {
+      "name": "Never Holiday",
+      "link": "https://music.163.com/album?id=84060872"
+    }
+  },
+  {
+    "name": "Take Everything",
+    "link": "https://music.163.com/song?id=1333128472",
+    "duration": "03:32",
+    "artists": [
+      {
+        "name": "Gareth Emery",
+        "link": "https://music.163.com/artist?id=34318"
+      },
+      { "name": "Emma Hewitt", "link": "https://music.163.com/artist?id=56751" }
+    ],
+    "album": {
+      "name": "Take Everything",
+      "link": "https://music.163.com/album?id=74869418"
+    }
+  },
+  {
+    "name": "不再 (feat. 陈宥如)",
+    "link": "https://music.163.com/song?id=1482614803",
+    "duration": "03:33",
+    "artists": [
+      { "name": "IZZI", "link": "https://music.163.com/artist?id=31762704" },
+      { "name": "MiraclE", "link": "https://music.163.com/artist?id=12953150" },
+      { "name": "陈宥如", "link": "https://music.163.com/artist?id=31677073" }
+    ],
+    "album": {
+      "name": "RE: CONNECT",
+      "link": "https://music.163.com/album?id=96023669"
+    }
+  },
+  {
+    "name": "天使的光 (Feat.陆笙)",
+    "link": "https://music.163.com/song?id=1378916675",
+    "duration": "02:59",
+    "artists": [
+      { "name": "零6", "link": "https://music.163.com/artist?id=12571830" },
+      { "name": "拆某人", "link": "https://music.163.com/artist?id=32459111" }
+    ],
+    "album": {
+      "name": "天使的光 (Feat.陆笙)",
+      "link": "https://music.163.com/album?id=80498567"
+    }
+  },
+  {
+    "name": "Don't You",
+    "link": "https://music.163.com/song?id=1495115099",
+    "duration": "04:00",
+    "artists": [
+      {
+        "name": "Morello Malt",
+        "link": "https://music.163.com/artist?id=34673676"
+      }
+    ],
+    "album": {
+      "name": "Private room",
+      "link": "https://music.163.com/album?id=95399027"
+    }
+  },
+  {
+    "name": "Oblivion (Full Version)",
+    "link": "https://music.163.com/song?id=1433528165",
+    "duration": "03:32",
+    "artists": [
+      { "name": "Andreas B.", "link": "https://music.163.com/artist?id=299713" }
+    ],
+    "album": {
+      "name": "Oblivion (Full Version)",
+      "link": "https://music.163.com/album?id=86788082"
+    }
+  },
+  {
+    "name": "Life In Reverse",
+    "link": "https://music.163.com/song?id=1468382716",
+    "duration": "02:52",
+    "artists": [
+      { "name": "NIVIRO", "link": "https://music.163.com/artist?id=12152016" }
+    ],
+    "album": {
+      "name": "Life In Reverse",
+      "link": "https://music.163.com/album?id=93494121"
+    }
+  },
+  {
+    "name": "Kingdom",
+    "link": "https://music.163.com/song?id=1842330979",
+    "duration": "02:41",
+    "artists": [
+      {
+        "name": "Jaxx & Vega",
+        "link": "https://music.163.com/artist?id=1192232"
+      }
+    ],
+    "album": {
+      "name": "Kingdom",
+      "link": "https://music.163.com/album?id=126892917"
+    }
+  },
+  {
+    "name": "Stories of Hope",
+    "link": "https://music.163.com/song?id=1349017786",
+    "duration": "02:47",
+    "artists": [
+      {
+        "name": "Steven Coltart",
+        "link": "https://music.163.com/artist?id=31593582"
+      },
+      {
+        "name": "Marcus Warner",
+        "link": "https://music.163.com/artist?id=1046308"
+      }
+    ],
+    "album": {
+      "name": "Pinnacle",
+      "link": "https://music.163.com/album?id=75731337"
+    }
+  },
+  {
+    "name": "Explorers",
+    "link": "https://music.163.com/song?id=1335952981",
+    "duration": "04:16",
+    "artists": [
+      {
+        "name": "The Midnight",
+        "link": "https://music.163.com/artist?id=12023492"
+      }
+    ],
+    "album": {
+      "name": "Kids",
+      "link": "https://music.163.com/album?id=74997854"
+    }
+  },
+  {
+    "name": "DISTANCE",
+    "link": "https://music.163.com/song?id=522511256",
+    "duration": "02:22",
+    "artists": [
+      {
+        "name": "Juriy Nikitin",
+        "link": "https://music.163.com/artist?id=12628358"
+      }
+    ],
+    "album": {
+      "name": "DISTANCE",
+      "link": "https://music.163.com/album?id=36913053"
+    }
+  },
+  {
+    "name": "Your Own Way",
+    "link": "https://music.163.com/song?id=410446135",
+    "duration": "05:39",
+    "artists": [
+      {
+        "name": "Audrey Gallagher",
+        "link": "https://music.163.com/artist?id=191513"
+      },
+      { "name": "ReOrder", "link": "https://music.163.com/artist?id=207490" }
+    ],
+    "album": {
+      "name": "Your Own Way",
+      "link": "https://music.163.com/album?id=34609571"
+    }
+  },
+  {
+    "name": "Remember to Remember ",
+    "link": "https://music.163.com/song?id=1369095956",
+    "duration": "03:44",
+    "artists": [
+      { "name": "白鸿", "link": "https://music.163.com/artist?id=31008744" }
+    ],
+    "album": {
+      "name": "Remember to Remember",
+      "link": "https://music.163.com/album?id=79496738"
+    }
+  },
+  {
+    "name": "Waiting For Sparks",
+    "link": "https://music.163.com/song?id=35031696",
+    "duration": "02:14",
+    "artists": [
+      { "name": "WAV", "link": "https://music.163.com/artist?id=1084125" }
+    ],
+    "album": { "name": "Nil", "link": "https://music.163.com/album?id=3164197" }
+  },
+  {
+    "name": "Hurricane",
+    "link": "https://music.163.com/song?id=27557163",
+    "duration": "03:46",
+    "artists": [
+      { "name": "Ms Mr", "link": "https://music.163.com/artist?id=97459" }
+    ],
+    "album": {
+      "name": "Hurricane EP",
+      "link": "https://music.163.com/album?id=2636202"
+    }
+  },
+  {
+    "name": "Conrad",
+    "link": "https://music.163.com/song?id=428423172",
+    "duration": "03:43",
+    "artists": [
+      { "name": "Sohn", "link": "https://music.163.com/artist?id=46584718" }
+    ],
+    "album": {
+      "name": "Rennen",
+      "link": "https://music.163.com/album?id=34866055"
+    }
+  },
+  {
+    "name": "Dreaming Of Me (Samuel Remix)",
+    "link": "https://music.163.com/song?id=29932757",
+    "duration": "04:38",
+    "artists": [
+      { "name": "Avicii", "link": "https://music.163.com/artist?id=45236" },
+      { "name": "Samuel", "link": "https://music.163.com/artist?id=46378417" }
+    ],
+    "album": {
+      "name": "Dreaming Of Me (Samuel Remix)",
+      "link": "https://music.163.com/album?id=3087193"
+    }
+  },
+  {
+    "name": "少年yo",
+    "link": "https://music.163.com/song?id=1853776703",
+    "duration": "03:31",
+    "artists": [
+      { "name": "MR_疯兔", "link": "https://music.163.com/artist?id=46311394" },
+      { "name": "Spylent", "link": "https://music.163.com/artist?id=34055135" }
+    ],
+    "album": {
+      "name": "少年yo",
+      "link": "https://music.163.com/album?id=129106235"
+    }
+  },
+  {
+    "name": "You Are Always On My Mind",
+    "link": "https://music.163.com/song?id=1446389670",
+    "duration": "03:15",
+    "artists": [
+      {
+        "name": "Snake City",
+        "link": "https://music.163.com/artist?id=30160356"
+      }
+    ],
+    "album": {
+      "name": "What Must You Think Of Me?",
+      "link": "https://music.163.com/album?id=89122833"
+    }
+  },
+  {
+    "name": "未来方舟(Dawn Light)",
+    "link": "https://music.163.com/song?id=1859047912",
+    "duration": "03:47",
+    "artists": [
+      {
+        "name": "Bandage_RADI8",
+        "link": "https://music.163.com/artist?id=34577457"
+      },
+      {
+        "name": "JuggShots",
+        "link": "https://music.163.com/artist?id=13005262"
+      },
+      { "name": "So Fun", "link": "https://music.163.com/artist?id=33813055" },
+      { "name": "Xylon", "link": "https://music.163.com/artist?id=31254614" }
+    ],
+    "album": {
+      "name": "未来方舟(Dawn Light)",
+      "link": "https://music.163.com/album?id=129988822"
+    }
+  },
+  {
+    "name": "Sweater Weather",
+    "link": "https://music.163.com/song?id=26231595",
+    "duration": "04:00",
+    "artists": [
+      {
+        "name": "The Neighbourhood",
+        "link": "https://music.163.com/artist?id=104437"
+      }
+    ],
+    "album": {
+      "name": "I Love You.",
+      "link": "https://music.163.com/album?id=2429822"
+    }
+  },
+  {
+    "name": "Finally (Time And Space Machine Edit)",
+    "link": "https://music.163.com/song?id=16963336",
+    "duration": "06:42",
+    "artists": [
+      {
+        "name": "Cherry Ghost",
+        "link": "https://music.163.com/artist?id=30422"
+      }
+    ],
+    "album": {
+      "name": "We Sleep On Stones",
+      "link": "https://music.163.com/album?id=1562966"
+    }
+  },
+  {
+    "name": "la la la that’s how it goes",
+    "link": "https://music.163.com/song?id=1459388782",
+    "duration": "03:39",
+    "artists": [
+      { "name": "HONNE", "link": "https://music.163.com/artist?id=1050129" }
+    ],
+    "album": {
+      "name": "no song without you",
+      "link": "https://music.163.com/album?id=91780754"
+    }
+  },
+  {
+    "name": "Heyrðu mig",
+    "link": "https://music.163.com/song?id=1449479087",
+    "duration": "03:00",
+    "artists": [
+      { "name": "BRÍET", "link": "https://music.163.com/artist?id=13162090" }
+    ],
+    "album": {
+      "name": "Heyrðu mig",
+      "link": "https://music.163.com/album?id=89692557"
+    }
+  },
+  {
+    "name": "茫",
+    "link": "https://music.163.com/song?id=1495058484",
+    "duration": "03:47",
+    "artists": [
+      { "name": "李润祺", "link": "https://music.163.com/artist?id=12929031" }
+    ],
+    "album": { "name": "茫", "link": "https://music.163.com/album?id=98268708" }
+  }
+]
