@@ -1,0 +1,393 @@
+[
+  {
+    "name": "U Are the One",
+    "link": "https://music.163.com/song?id=501266889",
+    "duration": "02:44",
+    "artists": [
+      {
+        "name": "Mari Ferrari",
+        "link": "https://music.163.com/artist?id=975252"
+      }
+    ],
+    "album": {
+      "name": "U Are the One",
+      "link": "https://music.163.com/album?id=36033097"
+    }
+  },
+  {
+    "name": "Missed Call",
+    "link": "https://music.163.com/song?id=1305776536",
+    "duration": "02:56",
+    "artists": [
+      { "name": "A.LOVE", "link": "https://music.163.com/artist?id=35012858" }
+    ],
+    "album": { "name": "01", "link": "https://music.163.com/album?id=72754416" }
+  },
+  {
+    "name": "岁月神偷",
+    "link": "https://music.163.com/song?id=28285910",
+    "duration": "04:04",
+    "artists": [
+      { "name": "金玟岐", "link": "https://music.163.com/artist?id=893259" }
+    ],
+    "album": {
+      "name": "完美世界",
+      "link": "https://music.163.com/album?id=34985451"
+    }
+  },
+  {
+    "name": "Stitches",
+    "link": "https://music.163.com/song?id=1868108285",
+    "duration": "03:26",
+    "artists": [
+      {
+        "name": "Shawn Mendes",
+        "link": "https://music.163.com/artist?id=956238"
+      }
+    ],
+    "album": {
+      "name": "Ferragosto Beach Party",
+      "link": "https://music.163.com/album?id=131538202"
+    }
+  },
+  {
+    "name": "Thanks to You",
+    "link": "https://music.163.com/song?id=1482394775",
+    "duration": "03:20",
+    "artists": [
+      { "name": "阳山伟伟", "link": "https://music.163.com/artist?id=12641107" }
+    ],
+    "album": {
+      "name": "内地电子电音 (集合)",
+      "link": "https://music.163.com/album?id=95989392"
+    }
+  },
+  {
+    "name": "哭泣",
+    "link": "https://music.163.com/song?id=1317429122",
+    "duration": "03:30",
+    "artists": [
+      {
+        "name": "Morri3on(喬凡三)",
+        "link": "https://music.163.com/artist?id=12083225"
+      },
+      {
+        "name": "林籁泉韵",
+        "link": "https://music.163.com/artist?id=30362730"
+      },
+      {
+        "name": "PurpleBattery",
+        "link": "https://music.163.com/artist?id=29591213"
+      }
+    ],
+    "album": {
+      "name": "哭泣",
+      "link": "https://music.163.com/album?id=73857923"
+    }
+  },
+  {
+    "name": "星绊",
+    "link": "https://music.163.com/song?id=1443191554",
+    "duration": "03:15",
+    "artists": [
+      { "name": "R7CKY", "link": "https://music.163.com/artist?id=1044054" },
+      {
+        "name": "ChakYoun9",
+        "link": "https://music.163.com/artist?id=12094429"
+      },
+      { "name": "兔子ST", "link": "https://music.163.com/artist?id=12287907" }
+    ],
+    "album": {
+      "name": "星绊",
+      "link": "https://music.163.com/album?id=88483688"
+    }
+  },
+  {
+    "name": "Forever",
+    "link": "https://music.163.com/song?id=1822249087",
+    "duration": "03:15",
+    "artists": [
+      {
+        "name": "Axel Johansson",
+        "link": "https://music.163.com/artist?id=12872604"
+      },
+      {
+        "name": "Ella Young",
+        "link": "https://music.163.com/artist?id=37672311"
+      }
+    ],
+    "album": {
+      "name": "Forever",
+      "link": "https://music.163.com/album?id=123393992"
+    }
+  },
+  {
+    "name": "Save Me",
+    "link": "https://music.163.com/song?id=544056373",
+    "duration": "03:15",
+    "artists": [
+      {
+        "name": "TRU Concept",
+        "link": "https://music.163.com/artist?id=1084096"
+      },
+      {
+        "name": "Pershard Owens",
+        "link": "https://music.163.com/artist?id=28354901"
+      }
+    ],
+    "album": {
+      "name": "Save Me",
+      "link": "https://music.163.com/album?id=37763654"
+    }
+  },
+  {
+    "name": "Don't Give Me A Reason",
+    "link": "https://music.163.com/song?id=1813006287",
+    "duration": "03:12",
+    "artists": [
+      {
+        "name": "Lazy Weekends",
+        "link": "https://music.163.com/artist?id=12046750"
+      }
+    ],
+    "album": {
+      "name": "Don't Give Me A Reason",
+      "link": "https://music.163.com/album?id=121806162"
+    }
+  },
+  {
+    "name": "Move On",
+    "link": "https://music.163.com/song?id=1833974851",
+    "duration": "03:02",
+    "artists": [
+      { "name": "Grant", "link": "https://music.163.com/artist?id=813362" },
+      {
+        "name": "Emily Vaughn",
+        "link": "https://music.163.com/artist?id=12049240"
+      }
+    ],
+    "album": {
+      "name": "Move On",
+      "link": "https://music.163.com/album?id=125423726"
+    }
+  },
+  {
+    "name": "还是分开",
+    "link": "https://music.163.com/song?id=465921195",
+    "duration": "03:46",
+    "artists": [
+      { "name": "张叶蕾", "link": "https://music.163.com/artist?id=12213291" }
+    ],
+    "album": {
+      "name": "还是分开",
+      "link": "https://music.163.com/album?id=35287063"
+    }
+  },
+  {
+    "name": "Sublime",
+    "link": "https://music.163.com/song?id=1330143598",
+    "duration": "02:50",
+    "artists": [
+      {
+        "name": "Ferreck Dawn",
+        "link": "https://music.163.com/artist?id=206439"
+      },
+      { "name": "Joe Stone", "link": "https://music.163.com/artist?id=1071007" }
+    ],
+    "album": {
+      "name": "Spinnin' Records Presents Joe Stone",
+      "link": "https://music.163.com/album?id=74707099"
+    }
+  },
+  {
+    "name": "We'll Be Heard",
+    "link": "https://music.163.com/song?id=479223388",
+    "duration": "03:37",
+    "artists": [
+      { "name": "Calippo", "link": "https://music.163.com/artist?id=331325" }
+    ],
+    "album": {
+      "name": "We'll Be Heard",
+      "link": "https://music.163.com/album?id=35536094"
+    }
+  },
+  {
+    "name": "水星记",
+    "link": "https://music.163.com/song?id=441491828",
+    "duration": "05:25",
+    "artists": [
+      { "name": "郭顶", "link": "https://music.163.com/artist?id=2843" }
+    ],
+    "album": {
+      "name": "飞行器的执行周期",
+      "link": "https://music.163.com/album?id=35005583"
+    }
+  },
+  {
+    "name": "The Heart of the Ocean (Radio Mix)",
+    "link": "https://music.163.com/song?id=558510224",
+    "duration": "03:01",
+    "artists": [
+      {
+        "name": "Mythos 'N DJ Cosmo",
+        "link": "https://music.163.com/artist?id=827133"
+      }
+    ],
+    "album": {
+      "name": "Trance-Classics of the 90's, Vol. 1",
+      "link": "https://music.163.com/album?id=38630180"
+    }
+  },
+  {
+    "name": "Down Under",
+    "link": "https://music.163.com/song?id=27553721",
+    "duration": "03:28",
+    "artists": [
+      { "name": "NoNoNo", "link": "https://music.163.com/artist?id=742114" }
+    ],
+    "album": {
+      "name": "Pumpin Blood",
+      "link": "https://music.163.com/album?id=2631933"
+    }
+  },
+  {
+    "name": "You Wake Me Up",
+    "link": "https://music.163.com/song?id=28730050",
+    "duration": "03:30",
+    "artists": [
+      {
+        "name": "Imperial Mammoth",
+        "link": "https://music.163.com/artist?id=94866"
+      }
+    ],
+    "album": {
+      "name": "Gold Confetti",
+      "link": "https://music.163.com/album?id=2883455"
+    }
+  },
+  {
+    "name": "Dark Star",
+    "link": "https://music.163.com/song?id=33516157",
+    "duration": "02:22",
+    "artists": [
+      { "name": "Gengahr", "link": "https://music.163.com/artist?id=918036" }
+    ],
+    "album": {
+      "name": "A Dream Outside",
+      "link": "https://music.163.com/album?id=3211375"
+    }
+  },
+  {
+    "name": "Esther Reed",
+    "link": "https://music.163.com/song?id=447926441",
+    "duration": "04:36",
+    "artists": [
+      {
+        "name": "James Supercave",
+        "link": "https://music.163.com/artist?id=900232"
+      }
+    ],
+    "album": {
+      "name": "Esther Reed",
+      "link": "https://music.163.com/album?id=35068118"
+    }
+  },
+  {
+    "name": "Siren",
+    "link": "https://music.163.com/song?id=471754918",
+    "duration": "03:36",
+    "artists": [
+      { "name": "Overcoats", "link": "https://music.163.com/artist?id=1071025" }
+    ],
+    "album": {
+      "name": "YOUNG",
+      "link": "https://music.163.com/album?id=35338654"
+    }
+  },
+  {
+    "name": "Love Songs For Robots",
+    "link": "https://music.163.com/song?id=31971293",
+    "duration": "03:37",
+    "artists": [
+      {
+        "name": "Patrick Watson",
+        "link": "https://music.163.com/artist?id=98559"
+      }
+    ],
+    "album": {
+      "name": "Love Songs For Robots",
+      "link": "https://music.163.com/album?id=3144844"
+    }
+  },
+  {
+    "name": "Nothing Without You",
+    "link": "https://music.163.com/song?id=413740106",
+    "duration": "03:25",
+    "artists": [
+      {
+        "name": "New Pharaohs",
+        "link": "https://music.163.com/artist?id=12047008"
+      }
+    ],
+    "album": {
+      "name": "Nothing Without You",
+      "link": "https://music.163.com/album?id=34700277"
+    }
+  },
+  {
+    "name": "Wild Geese",
+    "link": "https://music.163.com/song?id=29369026",
+    "duration": "05:15",
+    "artists": [
+      { "name": "The Drums", "link": "https://music.163.com/artist?id=102553" }
+    ],
+    "album": {
+      "name": "Encyclopedia",
+      "link": "https://music.163.com/album?id=3012007"
+    }
+  },
+  {
+    "name": "Nada",
+    "link": "https://music.163.com/song?id=4441280",
+    "duration": "05:34",
+    "artists": [
+      { "name": "Zoé", "link": "https://music.163.com/artist?id=105771" }
+    ],
+    "album": {
+      "name": "Reptilectric",
+      "link": "https://music.163.com/album?id=448164"
+    }
+  },
+  {
+    "name": "夏天，夏天。",
+    "link": "https://music.163.com/song?id=1864878818",
+    "duration": "04:07",
+    "artists": [
+      {
+        "name": "平生不晚",
+        "link": "https://music.163.com/artist?id=32856695"
+      },
+      { "name": "mok", "link": "https://music.163.com/artist?id=12357897" }
+    ],
+    "album": {
+      "name": "夏天，夏天。",
+      "link": "https://music.163.com/album?id=131028259"
+    }
+  },
+  {
+    "name": "Need You Right Now",
+    "link": "https://music.163.com/song?id=554217208",
+    "duration": "03:25",
+    "artists": [
+      { "name": "Hedegaard", "link": "https://music.163.com/artist?id=938013" },
+      {
+        "name": "Hayley Warner",
+        "link": "https://music.163.com/artist?id=1177251"
+      }
+    ],
+    "album": {
+      "name": "Need You Right Now",
+      "link": "https://music.163.com/album?id=38426159"
+    }
+  }
+]
