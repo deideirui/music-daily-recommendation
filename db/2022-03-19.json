@@ -1,0 +1,521 @@
+[
+  {
+    "name": "Life Of The Party",
+    "link": "https://music.163.com/song?id=1811980113",
+    "duration": "02:58",
+    "artists": [
+      {
+        "name": "Palm Trees",
+        "link": "https://music.163.com/artist?id=1135109"
+      },
+      { "name": "Susan H", "link": "https://music.163.com/artist?id=12436030" }
+    ],
+    "album": {
+      "name": "Life Of The Party",
+      "link": "https://music.163.com/album?id=121641317"
+    }
+  },
+  {
+    "name": "Every Day Is A Song",
+    "link": "https://music.163.com/song?id=1426798836",
+    "duration": "03:48",
+    "artists": [
+      { "name": "BUNT.", "link": "https://music.163.com/artist?id=744145" },
+      {
+        "name": "Austin Jenckes",
+        "link": "https://music.163.com/artist?id=837232"
+      }
+    ],
+    "album": {
+      "name": "Every Day Is A Song",
+      "link": "https://music.163.com/album?id=86089512"
+    }
+  },
+  {
+    "name": "Amazing",
+    "link": "https://music.163.com/song?id=1862753740",
+    "duration": "02:41",
+    "artists": [
+      {
+        "name": "Rnbstylerz",
+        "link": "https://music.163.com/artist?id=33200069"
+      }
+    ],
+    "album": {
+      "name": "Amazing",
+      "link": "https://music.163.com/album?id=130647786"
+    }
+  },
+  {
+    "name": "'Til the End",
+    "link": "https://music.163.com/song?id=546724456",
+    "duration": "03:36",
+    "artists": [
+      { "name": "MitiS", "link": "https://music.163.com/artist?id=40245" }
+    ],
+    "album": {
+      "name": "'Til the End",
+      "link": "https://music.163.com/album?id=37987085"
+    }
+  },
+  {
+    "name": "High (Don Diablo Remix)",
+    "link": "https://music.163.com/song?id=1928366126",
+    "duration": "04:01",
+    "artists": [
+      {
+        "name": "The Chainsmokers",
+        "link": "https://music.163.com/artist?id=893484"
+      },
+      { "name": "Don Diablo", "link": "https://music.163.com/artist?id=139072" }
+    ],
+    "album": {
+      "name": "High (Remixes)",
+      "link": "https://music.163.com/album?id=141843286"
+    }
+  },
+  {
+    "name": "Tell Me It's Okay",
+    "link": "https://music.163.com/song?id=1465383614",
+    "duration": "03:46",
+    "artists": [
+      { "name": "Fells", "link": "https://music.163.com/artist?id=57422" },
+      {
+        "name": "Kimmie Devereux",
+        "link": "https://music.163.com/artist?id=28142870"
+      }
+    ],
+    "album": {
+      "name": "Tell Me It's Okay",
+      "link": "https://music.163.com/album?id=92954313"
+    }
+  },
+  {
+    "name": "Let Me Know",
+    "link": "https://music.163.com/song?id=491294478",
+    "duration": "03:41",
+    "artists": [
+      { "name": "习谱予", "link": "https://music.163.com/artist?id=12472506" },
+      {
+        "name": "文颖秋（CΛNDY）",
+        "link": "https://music.163.com/artist?id=12122114"
+      }
+    ],
+    "album": {
+      "name": "习谱予",
+      "link": "https://music.163.com/album?id=36224336"
+    }
+  },
+  {
+    "name": "As We Ran (Bunt. Edit)",
+    "link": "https://music.163.com/song?id=1435904020",
+    "duration": "03:52",
+    "artists": [
+      {
+        "name": "The National Parks",
+        "link": "https://music.163.com/artist?id=14237630"
+      },
+      { "name": "BUNT.", "link": "https://music.163.com/artist?id=744145" }
+    ],
+    "album": {
+      "name": "As We Ran (Bunt. Edit)",
+      "link": "https://music.163.com/album?id=87140229"
+    }
+  },
+  {
+    "name": "The Real You",
+    "link": "https://music.163.com/song?id=1294731612",
+    "duration": "03:52",
+    "artists": [
+      { "name": "Andy Moor", "link": "https://music.163.com/artist?id=28854" },
+      {
+        "name": "Becky Jean Williams",
+        "link": "https://music.163.com/artist?id=283439"
+      }
+    ],
+    "album": {
+      "name": "The Real You",
+      "link": "https://music.163.com/album?id=71891492"
+    }
+  },
+  {
+    "name": "沉没",
+    "link": "https://music.163.com/song?id=1394177010",
+    "duration": "04:21",
+    "artists": [
+      { "name": "刘至佳", "link": "https://music.163.com/artist?id=1172023" },
+      { "name": "OneCandy", "link": "https://music.163.com/artist?id=12286389" }
+    ],
+    "album": {
+      "name": "沉没",
+      "link": "https://music.163.com/album?id=82041401"
+    }
+  },
+  {
+    "name": "错过",
+    "link": "https://music.163.com/song?id=1344411418",
+    "duration": "03:09",
+    "artists": [
+      { "name": "王潇", "link": "https://music.163.com/artist?id=13196409" },
+      { "name": "郭子潇", "link": "https://music.163.com/artist?id=12571129" },
+      { "name": "郑莹", "link": "https://music.163.com/artist?id=33908137" }
+    ],
+    "album": {
+      "name": "错过",
+      "link": "https://music.163.com/album?id=75436033"
+    }
+  },
+  {
+    "name": "YOU (BUNT. Remix)",
+    "link": "https://music.163.com/song?id=1394953011",
+    "duration": "03:42",
+    "artists": [
+      { "name": "Steerner", "link": "https://music.163.com/artist?id=783190" },
+      { "name": "BUNT.", "link": "https://music.163.com/artist?id=744145" }
+    ],
+    "album": {
+      "name": "YOU (Remixes)",
+      "link": "https://music.163.com/album?id=82139761"
+    }
+  },
+  {
+    "name": "МАГНИТОЛА - (播放器)",
+    "link": "https://music.163.com/song?id=1501587268",
+    "duration": "02:36",
+    "artists": [
+      {
+        "name": "ДЕТИ RAVE",
+        "link": "https://music.163.com/artist?id=27821448"
+      }
+    ],
+    "album": {
+      "name": "МАГНИТОЛА",
+      "link": "https://music.163.com/album?id=99297936"
+    }
+  },
+  {
+    "name": "放手",
+    "link": "https://music.163.com/song?id=1336558007",
+    "duration": "04:07",
+    "artists": [
+      {
+        "name": "OneCandy",
+        "link": "https://music.163.com/artist?id=12286389"
+      },
+      { "name": "何玄", "link": "https://music.163.com/artist?id=27862483" }
+    ],
+    "album": {
+      "name": "放手",
+      "link": "https://music.163.com/album?id=74927211"
+    }
+  },
+  {
+    "name": "Singing Back To Love (Original Mix)",
+    "link": "https://music.163.com/song?id=1435637851",
+    "duration": "03:51",
+    "artists": [
+      {
+        "name": "Denis Kenzo",
+        "link": "https://music.163.com/artist?id=263670"
+      },
+      {
+        "name": "Zein Hallak",
+        "link": "https://music.163.com/artist?id=31723042"
+      }
+    ],
+    "album": {
+      "name": "Singing Back To Love",
+      "link": "https://music.163.com/album?id=87076534"
+    }
+  },
+  {
+    "name": "(孤独的猫)K-ICM、APJ - Ai Mang Cô Đơn Đi",
+    "link": "https://music.163.com/song?id=1855457516",
+    "duration": "05:26",
+    "artists": [
+      { "name": "拼音师", "link": "https://music.163.com/artist?id=12038065" }
+    ],
+    "album": {
+      "name": "(孤独的猫)K-ICM、APJ - Ai Mang Cô Đơn Đi",
+      "link": "https://music.163.com/album?id=129367596"
+    }
+  },
+  {
+    "name": "Don't Be Scared",
+    "link": "https://music.163.com/song?id=446512023",
+    "duration": "03:42",
+    "artists": [
+      {
+        "name": "Luca Debonaire",
+        "link": "https://music.163.com/artist?id=896335"
+      }
+    ],
+    "album": {
+      "name": "Don't Be Scared EP",
+      "link": "https://music.163.com/album?id=35044240"
+    }
+  },
+  {
+    "name": "阿衣莫(越鼓版)",
+    "link": "https://music.163.com/song?id=1894878117",
+    "duration": "03:17",
+    "artists": [
+      { "name": "熊Baby⚜️", "link": "https://music.163.com/artist?id=49510642" }
+    ],
+    "album": {
+      "name": "心动盲点",
+      "link": "https://music.163.com/album?id=136088069"
+    }
+  },
+  {
+    "name": "Unbreakable (Extended Mix)",
+    "link": "https://music.163.com/song?id=1461411650",
+    "duration": "04:45",
+    "artists": [
+      { "name": "Whiteout", "link": "https://music.163.com/artist?id=46046" },
+      { "name": "Eximinds", "link": "https://music.163.com/artist?id=199555" },
+      { "name": "Cari", "link": "https://music.163.com/artist?id=1132863" }
+    ],
+    "album": {
+      "name": "Unbreakable",
+      "link": "https://music.163.com/album?id=92151550"
+    }
+  },
+  {
+    "name": "All Time Low (Cash Cash Remix)",
+    "link": "https://music.163.com/song?id=463159617",
+    "duration": "03:33",
+    "artists": [
+      { "name": "Cash Cash", "link": "https://music.163.com/artist?id=50905" },
+      {
+        "name": "Jon Bellion",
+        "link": "https://music.163.com/artist?id=860113"
+      }
+    ],
+    "album": {
+      "name": "All Time Low (Cash Cash Remix)",
+      "link": "https://music.163.com/album?id=35235334"
+    }
+  },
+  {
+    "name": "The Hymn Of Nivoria",
+    "link": "https://music.163.com/song?id=1869147444",
+    "duration": "03:07",
+    "artists": [
+      { "name": "NIVIRO", "link": "https://music.163.com/artist?id=12152016" }
+    ],
+    "album": {
+      "name": "The Hymn Of Nivoria",
+      "link": "https://music.163.com/album?id=131731373"
+    }
+  },
+  {
+    "name": "Z J C",
+    "link": "https://music.163.com/song?id=1364864733",
+    "duration": "02:00",
+    "artists": [
+      { "name": "HinDaNew", "link": "https://music.163.com/artist?id=12538873" }
+    ],
+    "album": {
+      "name": "Z J C",
+      "link": "https://music.163.com/album?id=78536506"
+    }
+  },
+  {
+    "name": "Lovestruck",
+    "link": "https://music.163.com/song?id=1093730",
+    "duration": "03:09",
+    "artists": [
+      {
+        "name": "Breathe Electric",
+        "link": "https://music.163.com/artist?id=29403"
+      }
+    ],
+    "album": {
+      "name": "Lovestruck",
+      "link": "https://music.163.com/album?id=113626"
+    }
+  },
+  {
+    "name": "far out of sight",
+    "link": "https://music.163.com/song?id=1358189193",
+    "duration": "02:43",
+    "artists": [
+      { "name": "Resonance", "link": "https://music.163.com/artist?id=196588" }
+    ],
+    "album": {
+      "name": "far out of sight",
+      "link": "https://music.163.com/album?id=78479687"
+    }
+  },
+  {
+    "name": "Stay With You ",
+    "link": "https://music.163.com/song?id=31010002",
+    "duration": "03:01",
+    "artists": [
+      { "name": "Avicii", "link": "https://music.163.com/artist?id=45236" },
+      { "name": "Mike Posner", "link": "https://music.163.com/artist?id=39778" }
+    ],
+    "album": {
+      "name": "Stay With You",
+      "link": "https://music.163.com/album?id=3109192"
+    }
+  },
+  {
+    "name": "Electric Glow (Arston Remix)",
+    "link": "https://music.163.com/song?id=30903820",
+    "duration": "04:31",
+    "artists": [
+      { "name": "Tritonal", "link": "https://music.163.com/artist?id=104133" },
+      {
+        "name": "Skyler Stonestreet",
+        "link": "https://music.163.com/artist?id=77899"
+      }
+    ],
+    "album": {
+      "name": "Electric Glow",
+      "link": "https://music.163.com/album?id=3106128"
+    }
+  },
+  {
+    "name": "Heartbeat (feat. Brooke Forman) [Nicky Romero Edit]",
+    "link": "https://music.163.com/song?id=31789056",
+    "duration": "05:02",
+    "artists": [
+      {
+        "name": "Nicky Romero",
+        "link": "https://music.163.com/artist?id=195142"
+      },
+      {
+        "name": "Magnificence",
+        "link": "https://music.163.com/artist?id=1078162"
+      },
+      {
+        "name": "Alec Maire",
+        "link": "https://music.163.com/artist?id=1078163"
+      },
+      {
+        "name": "Brooke Forman",
+        "link": "https://music.163.com/artist?id=1078164"
+      }
+    ],
+    "album": {
+      "name": "\tHeartbeat (feat. Brooke Forman) [Nicky Romero Edit]",
+      "link": "https://music.163.com/album?id=3138015"
+    }
+  },
+  {
+    "name": "Undone (Chillout Mix)",
+    "link": "https://music.163.com/song?id=33252435",
+    "duration": "05:12",
+    "artists": [
+      {
+        "name": "InfiniteMusic",
+        "link": "https://music.163.com/artist?id=956418"
+      },
+      {
+        "name": "Madelin Zero",
+        "link": "https://music.163.com/artist?id=179791"
+      },
+      { "name": "Easton", "link": "https://music.163.com/artist?id=12645169" },
+      {
+        "name": "Infinite Music",
+        "link": "https://music.163.com/artist?id=27992095"
+      }
+    ],
+    "album": {
+      "name": "Chill Time 2014",
+      "link": "https://music.163.com/album?id=3190418"
+    }
+  },
+  {
+    "name": "Bring Back The Summer (Not Your **** Remix)",
+    "link": "https://music.163.com/song?id=408532862",
+    "duration": "03:40",
+    "artists": [
+      {
+        "name": "Not Your Dope",
+        "link": "https://music.163.com/artist?id=11972030"
+      },
+      { "name": "Rain Man", "link": "https://music.163.com/artist?id=476110" },
+      { "name": "Oly", "link": "https://music.163.com/artist?id=12289226" }
+    ],
+    "album": {
+      "name": "Bring Back The Summer (Not Your **** Remix)",
+      "link": "https://music.163.com/album?id=34589899"
+    }
+  },
+  {
+    "name": "Air (Original Mix)",
+    "link": "https://music.163.com/song?id=30064747",
+    "duration": "06:05",
+    "artists": [
+      { "name": "LARSM", "link": "https://music.163.com/artist?id=1046372" },
+      { "name": "Mona Moua", "link": "https://music.163.com/artist?id=292048" }
+    ],
+    "album": {
+      "name": "Air(Original Mix)",
+      "link": "https://music.163.com/album?id=3093106"
+    }
+  },
+  {
+    "name": "Champions Of Red Wine",
+    "link": "https://music.163.com/song?id=28996963",
+    "duration": "03:40",
+    "artists": [
+      {
+        "name": "The New Pornographers",
+        "link": "https://music.163.com/artist?id=102095"
+      }
+    ],
+    "album": {
+      "name": "Brill Bruisers",
+      "link": "https://music.163.com/album?id=2868904"
+    }
+  },
+  {
+    "name": "Breaking the Angle Against the Tide",
+    "link": "https://music.163.com/song?id=28360336",
+    "duration": "03:49",
+    "artists": [
+      {
+        "name": "Craft Spells",
+        "link": "https://music.163.com/artist?id=90036"
+      }
+    ],
+    "album": {
+      "name": "Breaking the Angle Against the Tide",
+      "link": "https://music.163.com/album?id=2779448"
+    }
+  },
+  {
+    "name": "Waiting For",
+    "link": "https://music.163.com/song?id=491271737",
+    "duration": "03:05",
+    "artists": [
+      {
+        "name": "Joakim Lundell",
+        "link": "https://music.163.com/artist?id=12289052"
+      }
+    ],
+    "album": {
+      "name": "Feelings",
+      "link": "https://music.163.com/album?id=39791888"
+    }
+  },
+  {
+    "name": "WTF",
+    "link": "https://music.163.com/song?id=1926769350",
+    "duration": "03:02",
+    "artists": [
+      {
+        "name": "Sasha Alex Sloan",
+        "link": "https://music.163.com/artist?id=12646102"
+      }
+    ],
+    "album": {
+      "name": "WTF",
+      "link": "https://music.163.com/album?id=141540890"
+    }
+  }
+]
