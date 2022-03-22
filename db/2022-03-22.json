@@ -1,0 +1,481 @@
+[
+  {
+    "name": "No Words",
+    "link": "https://music.163.com/song?id=1421548475",
+    "duration": "03:30",
+    "artists": [
+      { "name": "ZØLA", "link": "https://music.163.com/artist?id=32190593" }
+    ],
+    "album": {
+      "name": "No Words",
+      "link": "https://music.163.com/album?id=85554662"
+    }
+  },
+  {
+    "name": "Starry Eyes (Steerner Remix)",
+    "link": "https://music.163.com/song?id=1359719100",
+    "duration": "02:57",
+    "artists": [
+      {
+        "name": "YOUNG BOMBS",
+        "link": "https://music.163.com/artist?id=1137360"
+      },
+      { "name": "Steerner", "link": "https://music.163.com/artist?id=783190" }
+    ],
+    "album": {
+      "name": "Starry Eyes (Remixes)",
+      "link": "https://music.163.com/album?id=78605203"
+    }
+  },
+  {
+    "name": "Going Crazy",
+    "link": "https://music.163.com/song?id=1428893756",
+    "duration": "03:05",
+    "artists": [
+      {
+        "name": "Flip Capella",
+        "link": "https://music.163.com/artist?id=905222"
+      },
+      { "name": "OTRAY", "link": "https://music.163.com/artist?id=12441373" },
+      { "name": "Vinze", "link": "https://music.163.com/artist?id=430603" },
+      {
+        "name": "Ashley Jana",
+        "link": "https://music.163.com/artist?id=14005654"
+      }
+    ],
+    "album": {
+      "name": "Going Crazy",
+      "link": "https://music.163.com/album?id=86303446"
+    }
+  },
+  {
+    "name": "Ferrari",
+    "link": "https://music.163.com/song?id=550936829",
+    "duration": "03:32",
+    "artists": [
+      { "name": "Bebe Rexha", "link": "https://music.163.com/artist?id=336466" }
+    ],
+    "album": {
+      "name": "Expectations",
+      "link": "https://music.163.com/album?id=39763861"
+    }
+  },
+  {
+    "name": "Nessun Dorma",
+    "link": "https://music.163.com/song?id=1929263039",
+    "duration": "02:27",
+    "artists": [
+      {
+        "name": "The Piano Guys",
+        "link": "https://music.163.com/artist?id=99093"
+      }
+    ],
+    "album": {
+      "name": "Simply Classical",
+      "link": "https://music.163.com/album?id=142026931"
+    }
+  },
+  {
+    "name": "Endless Summer",
+    "link": "https://music.163.com/song?id=1378481487",
+    "duration": "03:22",
+    "artists": [
+      { "name": "Cashae", "link": "https://music.163.com/artist?id=30024231" },
+      { "name": "Kiddo AI", "link": "https://music.163.com/artist?id=14380800" }
+    ],
+    "album": {
+      "name": "Endless Summer",
+      "link": "https://music.163.com/album?id=80439907"
+    }
+  },
+  {
+    "name": "Back to Me",
+    "link": "https://music.163.com/song?id=1426272975",
+    "duration": "03:49",
+    "artists": [
+      { "name": "Caslow", "link": "https://music.163.com/artist?id=15109745" },
+      { "name": "Xela", "link": "https://music.163.com/artist?id=32154679" }
+    ],
+    "album": {
+      "name": "Back to Me",
+      "link": "https://music.163.com/album?id=86025167"
+    }
+  },
+  {
+    "name": "Home",
+    "link": "https://music.163.com/song?id=1454873059",
+    "duration": "03:18",
+    "artists": [
+      { "name": "Steerner", "link": "https://music.163.com/artist?id=783190" },
+      {
+        "name": "Buster Moe",
+        "link": "https://music.163.com/artist?id=12048272"
+      }
+    ],
+    "album": {
+      "name": "Home",
+      "link": "https://music.163.com/album?id=90766026"
+    }
+  },
+  {
+    "name": "My Own Way",
+    "link": "https://music.163.com/song?id=1336856872",
+    "duration": "03:02",
+    "artists": [
+      { "name": "Sterkøl", "link": "https://music.163.com/artist?id=1081901" }
+    ],
+    "album": {
+      "name": "My Own Way",
+      "link": "https://music.163.com/album?id=75018123"
+    }
+  },
+  {
+    "name": "The Otherside",
+    "link": "https://music.163.com/song?id=1491071608",
+    "duration": "02:55",
+    "artists": [
+      { "name": "Cam", "link": "https://music.163.com/artist?id=51092" }
+    ],
+    "album": {
+      "name": "The Otherside",
+      "link": "https://music.163.com/album?id=97565155"
+    }
+  },
+  {
+    "name": "Diamond Heart (Dzeko Remix)",
+    "link": "https://music.163.com/song?id=1322036434",
+    "duration": "03:07",
+    "artists": [
+      {
+        "name": "Alan Walker",
+        "link": "https://music.163.com/artist?id=1045123"
+      },
+      {
+        "name": "Sophia Somajo",
+        "link": "https://music.163.com/artist?id=77713"
+      },
+      { "name": "Dzeko", "link": "https://music.163.com/artist?id=310749" }
+    ],
+    "album": {
+      "name": "Diamond Heart (Remixes)",
+      "link": "https://music.163.com/album?id=74190018"
+    }
+  },
+  {
+    "name": "Sunshine Blue",
+    "link": "https://music.163.com/song?id=412016733",
+    "duration": "03:31",
+    "artists": [
+      {
+        "name": "Denis Kenzo",
+        "link": "https://music.163.com/artist?id=263670"
+      },
+      { "name": "Sveta B.", "link": "https://music.163.com/artist?id=839779" }
+    ],
+    "album": {
+      "name": "A State Of Trance 2016",
+      "link": "https://music.163.com/album?id=34678627"
+    }
+  },
+  {
+    "name": "Signs",
+    "link": "https://music.163.com/song?id=39224890",
+    "duration": "03:15",
+    "artists": [
+      { "name": "Project 46", "link": "https://music.163.com/artist?id=776674" }
+    ],
+    "album": {
+      "name": "Signs (feat. Shantee)",
+      "link": "https://music.163.com/album?id=3428933"
+    }
+  },
+  {
+    "name": "Let's Go (Rnbstylerz Remix)",
+    "link": "https://music.163.com/song?id=1449382955",
+    "duration": "02:56",
+    "artists": [
+      { "name": "Arees", "link": "https://music.163.com/artist?id=30958604" },
+      {
+        "name": "Rnbstylerz",
+        "link": "https://music.163.com/artist?id=33200069"
+      }
+    ],
+    "album": {
+      "name": "Let's Go (Rnbstylerz Remix)",
+      "link": "https://music.163.com/album?id=89675505"
+    }
+  },
+  {
+    "name": "Freeze Time (Original Mix)",
+    "link": "https://music.163.com/song?id=31421472",
+    "duration": "04:41",
+    "artists": [
+      { "name": "Manse", "link": "https://music.163.com/artist?id=855409" }
+    ],
+    "album": {
+      "name": "Freeze Time",
+      "link": "https://music.163.com/album?id=3119401"
+    }
+  },
+  {
+    "name": "Freedom",
+    "link": "https://music.163.com/song?id=1501126567",
+    "duration": "03:03",
+    "artists": [
+      {
+        "name": "Morello Malt",
+        "link": "https://music.163.com/artist?id=34673676"
+      }
+    ],
+    "album": {
+      "name": "Ternura",
+      "link": "https://music.163.com/album?id=98522909"
+    }
+  },
+  {
+    "name": "Bang!",
+    "link": "https://music.163.com/song?id=1418877315",
+    "duration": "02:50",
+    "artists": [
+      { "name": "AJR", "link": "https://music.163.com/artist?id=88089" }
+    ],
+    "album": {
+      "name": "Bang!",
+      "link": "https://music.163.com/album?id=85213111"
+    }
+  },
+  {
+    "name": "Who I Am (Extended Mix)",
+    "link": "https://music.163.com/song?id=550890196",
+    "duration": "06:07",
+    "artists": [
+      {
+        "name": "Kate Miles",
+        "link": "https://music.163.com/artist?id=13202746"
+      },
+      { "name": "Fahjah", "link": "https://music.163.com/artist?id=12171191" },
+      {
+        "name": "Denis Kenzo",
+        "link": "https://music.163.com/artist?id=263670"
+      }
+    ],
+    "album": {
+      "name": "Who I Am",
+      "link": "https://music.163.com/album?id=38251347"
+    }
+  },
+  {
+    "name": "Don't Stop (TheFatRat Remix)",
+    "link": "https://music.163.com/song?id=29550185",
+    "duration": "03:44",
+    "artists": [
+      {
+        "name": "TheFatRat",
+        "link": "https://music.163.com/artist?id=1019952"
+      },
+      {
+        "name": "Foster The People",
+        "link": "https://music.163.com/artist?id=92856"
+      }
+    ],
+    "album": {
+      "name": "Don't Stop (TheFatRat Remix)",
+      "link": "https://music.163.com/album?id=3034267"
+    }
+  },
+  {
+    "name": "What Else Is There To Love",
+    "link": "https://music.163.com/song?id=1374281536",
+    "duration": "03:31",
+    "artists": [
+      { "name": "Aurosonic", "link": "https://music.163.com/artist?id=86532" },
+      { "name": "Bote", "link": "https://music.163.com/artist?id=33351875" },
+      {
+        "name": "Neev Kennedy",
+        "link": "https://music.163.com/artist?id=191532"
+      }
+    ],
+    "album": {
+      "name": "What Else Is There To Love",
+      "link": "https://music.163.com/album?id=80025677"
+    }
+  },
+  {
+    "name": "By My Side (Craig Connelly Remix)",
+    "link": "https://music.163.com/song?id=1320306108",
+    "duration": "03:47",
+    "artists": [
+      {
+        "name": "Bryan Kearney",
+        "link": "https://music.163.com/artist?id=148763"
+      },
+      {
+        "name": "Christina Novelli",
+        "link": "https://music.163.com/artist?id=840292"
+      },
+      {
+        "name": "Craig Connelly",
+        "link": "https://music.163.com/artist?id=191566"
+      }
+    ],
+    "album": {
+      "name": "By My Side (Craig Connelly Remix)",
+      "link": "https://music.163.com/album?id=74084216"
+    }
+  },
+  {
+    "name": "The Other Side (Tenishia Intro Mix)",
+    "link": "https://music.163.com/song?id=4396833",
+    "duration": "06:52",
+    "artists": [
+      { "name": "Susana", "link": "https://music.163.com/artist?id=77990" }
+    ],
+    "album": {
+      "name": "Trance World, Vol. 12",
+      "link": "https://music.163.com/album?id=443821"
+    }
+  },
+  {
+    "name": "所念皆星河",
+    "link": "https://music.163.com/song?id=1384026889",
+    "duration": "03:40",
+    "artists": [
+      { "name": "CMJ", "link": "https://music.163.com/artist?id=12157336" }
+    ],
+    "album": {
+      "name": "所念皆星河",
+      "link": "https://music.163.com/album?id=80887559"
+    }
+  },
+  {
+    "name": "Trespass (Album Mix)",
+    "link": "https://music.163.com/song?id=16362377",
+    "duration": "06:07",
+    "artists": [
+      { "name": "Andy Moor", "link": "https://music.163.com/artist?id=28854" },
+      {
+        "name": "Sue McLaren",
+        "link": "https://music.163.com/artist?id=191658"
+      }
+    ],
+    "album": {
+      "name": "Zero Point One",
+      "link": "https://music.163.com/album?id=1509551"
+    }
+  },
+  {
+    "name": "Away From Attack (Original Mix)",
+    "link": "https://music.163.com/song?id=29418052",
+    "duration": "05:58",
+    "artists": [
+      { "name": "Raimon", "link": "https://music.163.com/artist?id=131416" }
+    ],
+    "album": {
+      "name": "Away From Attack",
+      "link": "https://music.163.com/album?id=3021008"
+    }
+  },
+  {
+    "name": "Hide & Seek (Original Mix)",
+    "link": "https://music.163.com/song?id=440208448",
+    "duration": "03:24",
+    "artists": [
+      {
+        "name": "Jewelz & Sparks",
+        "link": "https://music.163.com/artist?id=947051"
+      }
+    ],
+    "album": {
+      "name": "Hide & Seek",
+      "link": "https://music.163.com/album?id=34985152"
+    }
+  },
+  {
+    "name": "Getaway",
+    "link": "https://music.163.com/song?id=1321916480",
+    "duration": "03:14",
+    "artists": [
+      { "name": "Syn Cole", "link": "https://music.163.com/artist?id=854432" }
+    ],
+    "album": {
+      "name": "Getaway",
+      "link": "https://music.163.com/album?id=74183138"
+    }
+  },
+  {
+    "name": "Launch",
+    "link": "https://music.163.com/song?id=407889990",
+    "duration": "05:18",
+    "artists": [
+      { "name": "Resonance", "link": "https://music.163.com/artist?id=196588" }
+    ],
+    "album": {
+      "name": "Launch",
+      "link": "https://music.163.com/album?id=34588419"
+    }
+  },
+  {
+    "name": "Back In Time",
+    "link": "https://music.163.com/song?id=484314871",
+    "duration": "03:16",
+    "artists": [
+      { "name": "WAVES", "link": "https://music.163.com/artist?id=12230013" }
+    ],
+    "album": {
+      "name": "Back In Time",
+      "link": "https://music.163.com/album?id=35622536"
+    }
+  },
+  {
+    "name": "EA7 防",
+    "link": "https://music.163.com/song?id=1843021609",
+    "duration": "04:01",
+    "artists": [
+      { "name": "陈劲生", "link": "https://music.163.com/artist?id=46503243" }
+    ],
+    "album": {
+      "name": "陈劲生 Remix",
+      "link": "https://music.163.com/album?id=122307780"
+    }
+  },
+  {
+    "name": "Superlove",
+    "link": "https://music.163.com/song?id=421203208",
+    "duration": "03:03",
+    "artists": [
+      { "name": "Tinashe", "link": "https://music.163.com/artist?id=45221" }
+    ],
+    "album": {
+      "name": "Superlove",
+      "link": "https://music.163.com/album?id=34751651"
+    }
+  },
+  {
+    "name": "One More Drink",
+    "link": "https://music.163.com/song?id=33510602",
+    "duration": "04:02",
+    "artists": [
+      { "name": "Gjan", "link": "https://music.163.com/artist?id=851014" }
+    ],
+    "album": {
+      "name": " One More Drink",
+      "link": "https://music.163.com/album?id=3222095"
+    }
+  },
+  {
+    "name": "U & Me",
+    "link": "https://music.163.com/song?id=1860988925",
+    "duration": "03:33",
+    "artists": [
+      { "name": "ILLENIUM", "link": "https://music.163.com/artist?id=1050518" },
+      {
+        "name": "Sasha Alex Sloan",
+        "link": "https://music.163.com/artist?id=12646102"
+      }
+    ],
+    "album": {
+      "name": "Fallen Embers",
+      "link": "https://music.163.com/album?id=130311646"
+    }
+  }
+]
