@@ -1,0 +1,482 @@
+[
+  {
+    "name": "The Other Side",
+    "link": "https://music.163.com/song?id=1850621822",
+    "duration": "02:50",
+    "artists": [{ "name": "AEvicii", "link": "" }],
+    "album": {
+      "name": "AVĪCI（02） (Reboot)",
+      "link": "https://music.163.com/album?id=128474241"
+    }
+  },
+  {
+    "name": "I Can Be Cool",
+    "link": "https://music.163.com/song?id=1454605980",
+    "duration": "03:20",
+    "artists": [
+      {
+        "name": "Amberlake",
+        "link": "https://music.163.com/artist?id=30262778"
+      },
+      { "name": "KELLA", "link": "https://music.163.com/artist?id=31713396" }
+    ],
+    "album": {
+      "name": "I Can Be Cool",
+      "link": "https://music.163.com/album?id=90704070"
+    }
+  },
+  {
+    "name": "Save Me Now",
+    "link": "https://music.163.com/song?id=1413981894",
+    "duration": "03:25",
+    "artists": [
+      { "name": "J3RO", "link": "https://music.163.com/artist?id=30365180" },
+      { "name": "Notbad", "link": "https://music.163.com/artist?id=34104681" },
+      {
+        "name": "Revealed Recordings",
+        "link": "https://music.163.com/artist?id=28753573"
+      },
+      {
+        "name": "Cornelia Antonijev",
+        "link": "https://music.163.com/artist?id=30364216"
+      }
+    ],
+    "album": {
+      "name": "Save Me Now",
+      "link": "https://music.163.com/album?id=84698733"
+    }
+  },
+  {
+    "name": "新地球 - (Brave New World)",
+    "link": "https://music.163.com/song?id=29774171",
+    "duration": "04:37",
+    "artists": [
+      { "name": "林俊杰", "link": "https://music.163.com/artist?id=3684" }
+    ],
+    "album": {
+      "name": "新地球 - 人 (Special Edition)",
+      "link": "https://music.163.com/album?id=3056951"
+    }
+  },
+  {
+    "name": "High (Leondis Remix)",
+    "link": "https://music.163.com/song?id=1928366128",
+    "duration": "03:02",
+    "artists": [
+      {
+        "name": "The Chainsmokers",
+        "link": "https://music.163.com/artist?id=893484"
+      },
+      { "name": "Leondis", "link": "https://music.163.com/artist?id=35507558" }
+    ],
+    "album": {
+      "name": "High (Remixes)",
+      "link": "https://music.163.com/album?id=141843286"
+    }
+  },
+  {
+    "name": "Safe & Sound (BUNT. Edit)",
+    "link": "https://music.163.com/song?id=434550728",
+    "duration": "02:49",
+    "artists": [
+      { "name": "BUNT.", "link": "https://music.163.com/artist?id=744145" }
+    ],
+    "album": {
+      "name": "Safe & Sound (BUNT. Edit)",
+      "link": "https://music.163.com/album?id=34906192"
+    }
+  },
+  {
+    "name": "Care",
+    "link": "https://music.163.com/song?id=1394311769",
+    "duration": "03:25",
+    "artists": [
+      { "name": "Hurshel", "link": "https://music.163.com/artist?id=13876977" }
+    ],
+    "album": {
+      "name": "Care",
+      "link": "https://music.163.com/album?id=82064422"
+    }
+  },
+  {
+    "name": "Diggin' U",
+    "link": "https://music.163.com/song?id=1382778055",
+    "duration": "02:59",
+    "artists": [
+      { "name": "Reboost", "link": "https://music.163.com/artist?id=12047332" }
+    ],
+    "album": {
+      "name": "Diggin' U",
+      "link": "https://music.163.com/album?id=80831665"
+    }
+  },
+  {
+    "name": "Sunray",
+    "link": "https://music.163.com/song?id=1424954598",
+    "duration": "02:11",
+    "artists": [
+      { "name": "Cuebrick", "link": "https://music.163.com/artist?id=364737" }
+    ],
+    "album": {
+      "name": "Sunray",
+      "link": "https://music.163.com/album?id=85898330"
+    }
+  },
+  {
+    "name": "In Flames",
+    "link": "https://music.163.com/song?id=1347227966",
+    "duration": "03:24",
+    "artists": [
+      { "name": "Dabin", "link": "https://music.163.com/artist?id=783446" },
+      {
+        "name": "Lexi Norton",
+        "link": "https://music.163.com/artist?id=29556490"
+      }
+    ],
+    "album": {
+      "name": "Wild Youth",
+      "link": "https://music.163.com/album?id=75638746"
+    }
+  },
+  {
+    "name": "Levels",
+    "link": "https://music.163.com/song?id=1461317556",
+    "duration": "03:38",
+    "artists": [
+      {
+        "name": "Marin Hoxha",
+        "link": "https://music.163.com/artist?id=12474391"
+      },
+      {
+        "name": "Mike Watson",
+        "link": "https://music.163.com/artist?id=13046433"
+      }
+    ],
+    "album": {
+      "name": "Levels",
+      "link": "https://music.163.com/album?id=92123563"
+    }
+  },
+  {
+    "name": "Driving Around",
+    "link": "https://music.163.com/song?id=26625677",
+    "duration": "03:30",
+    "artists": [
+      { "name": "Pitbull", "link": "https://music.163.com/artist?id=41143" },
+      {
+        "name": "David Rush",
+        "link": "https://music.163.com/artist?id=194708"
+      },
+      { "name": "Vein", "link": "https://music.163.com/artist?id=374488" }
+    ],
+    "album": {
+      "name": "International Takeover",
+      "link": "https://music.163.com/album?id=2536708"
+    }
+  },
+  {
+    "name": "Moon Rays (Original Mix)",
+    "link": "https://music.163.com/song?id=38673423",
+    "duration": "04:52",
+    "artists": [
+      { "name": "Eranga", "link": "https://music.163.com/artist?id=1124017" },
+      { "name": "Cari", "link": "https://music.163.com/artist?id=1132863" }
+    ],
+    "album": {
+      "name": "Moon Rays",
+      "link": "https://music.163.com/album?id=3427630"
+    }
+  },
+  {
+    "name": "D.T.M.",
+    "link": "https://music.163.com/song?id=1989355",
+    "duration": "03:17",
+    "artists": [
+      {
+        "name": "Simon Curtis",
+        "link": "https://music.163.com/artist?id=43692"
+      }
+    ],
+    "album": { "name": "R∆", "link": "https://music.163.com/album?id=200567" }
+  },
+  {
+    "name": "Together",
+    "link": "https://music.163.com/song?id=30780808",
+    "duration": "06:48",
+    "artists": [
+      { "name": "Kozoro", "link": "https://music.163.com/artist?id=1050567" },
+      { "name": "ZENI", "link": "https://music.163.com/artist?id=1038138" }
+    ],
+    "album": {
+      "name": "Together",
+      "link": "https://music.163.com/album?id=3103329"
+    }
+  },
+  {
+    "name": "Best Song Ever (Kat Krazy Remix)",
+    "link": "https://music.163.com/song?id=27485088",
+    "duration": "03:05",
+    "artists": [
+      {
+        "name": "One Direction",
+        "link": "https://music.163.com/artist?id=98351"
+      }
+    ],
+    "album": {
+      "name": "Best Song Ever (From THIS IS US)",
+      "link": "https://music.163.com/album?id=2569078"
+    }
+  },
+  {
+    "name": "Serenity (Original Mix)",
+    "link": "https://music.163.com/song?id=1389562206",
+    "duration": "04:22",
+    "artists": [
+      {
+        "name": "Roman Messer",
+        "link": "https://music.163.com/artist?id=905394"
+      },
+      { "name": "Cari", "link": "https://music.163.com/artist?id=1132863" }
+    ],
+    "album": {
+      "name": "Suanda Music Radio Top 25 (August / September 2019)",
+      "link": "https://music.163.com/album?id=81476790"
+    }
+  },
+  {
+    "name": "Let Me Go (Original Mix)",
+    "link": "https://music.163.com/song?id=31245468",
+    "duration": "07:07",
+    "artists": [
+      { "name": "LTN", "link": "https://music.163.com/artist?id=191742" },
+      {
+        "name": "Arielle Maren",
+        "link": "https://music.163.com/artist?id=208021"
+      }
+    ],
+    "album": {
+      "name": "The Enhanced Collection 2015, Pt. 1",
+      "link": "https://music.163.com/album?id=3111367"
+    }
+  },
+  {
+    "name": "Revelation (Original Mix)",
+    "link": "https://music.163.com/song?id=29046228",
+    "duration": "05:13",
+    "artists": [
+      { "name": "JETFIRE", "link": "https://music.163.com/artist?id=1005022" },
+      { "name": "Anabella", "link": "https://music.163.com/artist?id=458436" },
+      { "name": "SpinRox", "link": "https://music.163.com/artist?id=12734453" }
+    ],
+    "album": {
+      "name": "Revelation ",
+      "link": "https://music.163.com/album?id=2989033"
+    }
+  },
+  {
+    "name": "Through My Eyes (Original Mix)",
+    "link": "https://music.163.com/song?id=27507311",
+    "duration": "07:16",
+    "artists": [
+      {
+        "name": "Danny Chen",
+        "link": "https://music.163.com/artist?id=333054"
+      },
+      {
+        "name": "Alana Aldea",
+        "link": "https://music.163.com/artist?id=710477"
+      }
+    ],
+    "album": {
+      "name": "Through My Eyes",
+      "link": "https://music.163.com/album?id=2622475"
+    }
+  },
+  {
+    "name": "Serein (Extended Mix)",
+    "link": "https://music.163.com/song?id=410925064",
+    "duration": "07:09",
+    "artists": [
+      {
+        "name": "Arctic Moon",
+        "link": "https://music.163.com/artist?id=820034"
+      }
+    ],
+    "album": {
+      "name": "Serein",
+      "link": "https://music.163.com/album?id=34609940"
+    }
+  },
+  {
+    "name": "Every Teardrop Is A Waterfall (Avicii's 'Tour' Mix).",
+    "link": "https://music.163.com/song?id=26801862",
+    "duration": "06:30",
+    "artists": [
+      { "name": "Avicii", "link": "https://music.163.com/artist?id=45236" },
+      { "name": "Coldplay", "link": "https://music.163.com/artist?id=89365" }
+    ],
+    "album": {
+      "name": "Every Teardrop Is A Waterfall (Avicii's 'Tour' Mix)",
+      "link": "https://music.163.com/album?id=2554867"
+    }
+  },
+  {
+    "name": "Like I Love You (Vocal Club Cut)",
+    "link": "https://music.163.com/song?id=5171426",
+    "duration": "03:26",
+    "artists": [
+      { "name": "The Hitmen", "link": "https://music.163.com/artist?id=132930" }
+    ],
+    "album": {
+      "name": "Dream Dance Vol.42",
+      "link": "https://music.163.com/album?id=507185"
+    }
+  },
+  {
+    "name": "Take Me Home (Tiësto Remix)",
+    "link": "https://music.163.com/song?id=37853030",
+    "duration": "05:18",
+    "artists": [
+      { "name": "Tiësto", "link": "https://music.163.com/artist?id=688047" },
+      {
+        "name": "Jess Glynne",
+        "link": "https://music.163.com/artist?id=904046"
+      }
+    ],
+    "album": {
+      "name": "Take Me Home (Tiësto Remix)",
+      "link": "https://music.163.com/album?id=3422294"
+    }
+  },
+  {
+    "name": "Reason (Vicetone Remix) [Radio Edit]",
+    "link": "https://music.163.com/song?id=29922334",
+    "duration": "03:37",
+    "artists": [
+      { "name": "Vicetone", "link": "https://music.163.com/artist?id=747030" },
+      {
+        "name": "Hook N Sling",
+        "link": "https://music.163.com/artist?id=205452"
+      },
+      { "name": "NERVO", "link": "https://music.163.com/artist?id=97927" }
+    ],
+    "album": {
+      "name": "Reason (Vicetone Remix)",
+      "link": "https://music.163.com/album?id=3087035"
+    }
+  },
+  {
+    "name": "囍（Chinese Wedding）",
+    "link": "https://music.163.com/song?id=1303289043",
+    "duration": "03:36",
+    "artists": [
+      { "name": "葛东琪", "link": "https://music.163.com/artist?id=12136078" }
+    ],
+    "album": {
+      "name": "囍（Chinese Wedding）",
+      "link": "https://music.163.com/album?id=72363263"
+    }
+  },
+  {
+    "name": "未知",
+    "link": "https://music.163.com/song?id=1499810420",
+    "duration": "03:43",
+    "artists": [
+      { "name": "A.LOVE", "link": "https://music.163.com/artist?id=35012858" }
+    ],
+    "album": {
+      "name": "未知",
+      "link": "https://music.163.com/album?id=98923082"
+    }
+  },
+  {
+    "name": "Dance With You",
+    "link": "https://music.163.com/song?id=493276998",
+    "duration": "03:21",
+    "artists": [
+      {
+        "name": "Marcus & Martinus",
+        "link": "https://music.163.com/artist?id=1132109"
+      }
+    ],
+    "album": {
+      "name": "Dance With You",
+      "link": "https://music.163.com/album?id=35829239"
+    }
+  },
+  {
+    "name": "Put Your ****ing Hands Up(2K21 Rework)",
+    "link": "https://music.163.com/song?id=1873972351",
+    "duration": "02:23",
+    "artists": [
+      { "name": "KaChu", "link": "https://music.163.com/artist?id=30602282" },
+      { "name": "NEEKY", "link": "https://music.163.com/artist?id=46663755" }
+    ],
+    "album": {
+      "name": "Put Put Put",
+      "link": "https://music.163.com/album?id=132496256"
+    }
+  },
+  {
+    "name": "Shed Some Light",
+    "link": "https://music.163.com/song?id=512100477",
+    "duration": "03:05",
+    "artists": [
+      {
+        "name": "The Land Below",
+        "link": "https://music.163.com/artist?id=12727127"
+      }
+    ],
+    "album": {
+      "name": "And You Will Be Fine",
+      "link": "https://music.163.com/album?id=36450545"
+    }
+  },
+  {
+    "name": "Love You Better",
+    "link": "https://music.163.com/song?id=529557104",
+    "duration": "03:20",
+    "artists": [
+      {
+        "name": "Emma McGrath",
+        "link": "https://music.163.com/artist?id=13049188"
+      }
+    ],
+    "album": {
+      "name": "Love You Better",
+      "link": "https://music.163.com/album?id=37153849"
+    }
+  },
+  {
+    "name": "A Billion Stars Above (Extended Mix)",
+    "link": "https://music.163.com/song?id=503206674",
+    "duration": "07:32",
+    "artists": [
+      { "name": "RAM", "link": "https://music.163.com/artist?id=73231" },
+      {
+        "name": "Arctic Moon",
+        "link": "https://music.163.com/artist?id=820034"
+      },
+      {
+        "name": "Stine Grove",
+        "link": "https://music.163.com/artist?id=840197"
+      }
+    ],
+    "album": {
+      "name": "A Billion Stars Above",
+      "link": "https://music.163.com/album?id=36107147"
+    }
+  },
+  {
+    "name": "Memories",
+    "link": "https://music.163.com/song?id=1852069909",
+    "duration": "03:09",
+    "artists": [
+      { "name": "Maroon 5", "link": "https://music.163.com/artist?id=96266" }
+    ],
+    "album": {
+      "name": "JORDI (Deluxe)",
+      "link": "https://music.163.com/album?id=128749721"
+    }
+  }
+]
