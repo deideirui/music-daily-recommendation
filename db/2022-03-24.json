@@ -1,0 +1,520 @@
+[
+  {
+    "name": "Stupid Dumb",
+    "link": "https://music.163.com/song?id=1415735685",
+    "duration": "03:16",
+    "artists": [
+      { "name": "CMC$", "link": "https://music.163.com/artist?id=1086052" },
+      { "name": "SVEA", "link": "https://music.163.com/artist?id=14231266" }
+    ],
+    "album": {
+      "name": "Stupid Dumb",
+      "link": "https://music.163.com/album?id=84892877"
+    }
+  },
+  {
+    "name": "Why Do I Try (Nightcore)",
+    "link": "https://music.163.com/song?id=1442365701",
+    "duration": "02:44",
+    "artists": [
+      { "name": "Syrex", "link": "https://music.163.com/artist?id=34804567" },
+      {
+        "name": "Danni Carra",
+        "link": "https://music.163.com/artist?id=32029983"
+      },
+      {
+        "name": "Gill Chang",
+        "link": "https://music.163.com/artist?id=13868921"
+      }
+    ],
+    "album": {
+      "name": "Nightcore Gaming Music Vol. 1",
+      "link": "https://music.163.com/album?id=88326808"
+    }
+  },
+  {
+    "name": "Where Is The Love? (Soule Rework)",
+    "link": "https://music.163.com/song?id=34144434",
+    "duration": "05:18",
+    "artists": [
+      {
+        "name": "Clément Bcx",
+        "link": "https://music.163.com/artist?id=1078228"
+      },
+      {
+        "name": "Black Eyed Peas",
+        "link": "https://music.163.com/artist?id=88146"
+      },
+      {
+        "name": "Ellena Soule",
+        "link": "https://music.163.com/artist?id=1081902"
+      },
+      { "name": "Soule", "link": "https://music.163.com/artist?id=32964452" }
+    ],
+    "album": {
+      "name": "Where Is The Love",
+      "link": "https://music.163.com/album?id=3271445"
+    }
+  },
+  {
+    "name": "Post Malone (feat. RANI) [徐梦圆冯提莫合作版]",
+    "link": "https://music.163.com/song?id=1392742712",
+    "duration": "02:51",
+    "artists": [
+      {
+        "name": "Sam Feldt",
+        "link": "https://music.163.com/artist?id=1025255"
+      },
+      { "name": "RANI", "link": "https://music.163.com/artist?id=13774039" },
+      { "name": "徐梦圆", "link": "https://music.163.com/artist?id=1142042" },
+      { "name": "冯提莫", "link": "https://music.163.com/artist?id=12107534" }
+    ],
+    "album": {
+      "name": "Post Malone (feat. RANI) [徐梦圆冯提莫合作版]",
+      "link": "https://music.163.com/album?id=81852953"
+    }
+  },
+  {
+    "name": "Jesu Joy",
+    "link": "https://music.163.com/song?id=1929262183",
+    "duration": "03:16",
+    "artists": [
+      {
+        "name": "The Piano Guys",
+        "link": "https://music.163.com/artist?id=99093"
+      }
+    ],
+    "album": {
+      "name": "Simply Classical",
+      "link": "https://music.163.com/album?id=142026931"
+    }
+  },
+  {
+    "name": "Adrenaline Rush",
+    "link": "https://music.163.com/song?id=30621644",
+    "duration": "03:56",
+    "artists": [
+      { "name": "JJD", "link": "https://music.163.com/artist?id=472822" }
+    ],
+    "album": {
+      "name": "Adrenaline Rush",
+      "link": "https://music.163.com/album?id=3104061"
+    }
+  },
+  {
+    "name": "Andromeda",
+    "link": "https://music.163.com/song?id=1865069252",
+    "duration": "03:06",
+    "artists": [
+      { "name": "R3SPAWN", "link": "https://music.163.com/artist?id=12214203" },
+      {
+        "name": "Sammy Boyle",
+        "link": "https://music.163.com/artist?id=30984205"
+      }
+    ],
+    "album": {
+      "name": "Andromeda",
+      "link": "https://music.163.com/album?id=131069234"
+    }
+  },
+  {
+    "name": "Your Shirt",
+    "link": "https://music.163.com/song?id=461831237",
+    "duration": "03:50",
+    "artists": [
+      {
+        "name": "Chelsea Cutler",
+        "link": "https://music.163.com/artist?id=1150112"
+      }
+    ],
+    "album": {
+      "name": "Your Shirt",
+      "link": "https://music.163.com/album?id=35191710"
+    }
+  },
+  {
+    "name": "Legend Is Born",
+    "link": "https://music.163.com/song?id=1838001365",
+    "duration": "04:12",
+    "artists": [
+      { "name": "Hollis", "link": "https://music.163.com/artist?id=12287729" }
+    ],
+    "album": {
+      "name": "Legend Is Born",
+      "link": "https://music.163.com/album?id=126136044"
+    }
+  },
+  {
+    "name": "Avicii-Free feat.Wayne Hector & Kacey Musgraves（LVICII Remix）",
+    "link": "https://music.163.com/song?id=1410521570",
+    "duration": "02:17",
+    "artists": [
+      { "name": "LVICII", "link": "https://music.163.com/artist?id=33936666" }
+    ],
+    "album": {
+      "name": "FOREVER",
+      "link": "https://music.163.com/album?id=84155943"
+    }
+  },
+  {
+    "name": "One (Extended Mix)",
+    "link": "https://music.163.com/song?id=1501374116",
+    "duration": "04:30",
+    "artists": [
+      {
+        "name": "projectOne",
+        "link": "https://music.163.com/artist?id=37683386"
+      }
+    ],
+    "album": {
+      "name": "Remixed",
+      "link": "https://music.163.com/album?id=99259927"
+    }
+  },
+  {
+    "name": "Stay",
+    "link": "https://music.163.com/song?id=1431773049",
+    "duration": "03:28",
+    "artists": [
+      {
+        "name": "Bogdan Vix",
+        "link": "https://music.163.com/artist?id=837274"
+      },
+      {
+        "name": "Claudiu Adam",
+        "link": "https://music.163.com/artist?id=31633263"
+      },
+      { "name": "Mona Moua", "link": "https://music.163.com/artist?id=292048" }
+    ],
+    "album": {
+      "name": "Stay",
+      "link": "https://music.163.com/album?id=86589239"
+    }
+  },
+  {
+    "name": "SKY's Get High",
+    "link": "https://music.163.com/song?id=1888426982",
+    "duration": "02:43",
+    "artists": [
+      {
+        "name": "Gunpowder",
+        "link": "https://music.163.com/artist?id=35787507"
+      }
+    ],
+    "album": {
+      "name": "SKY's Get High",
+      "link": "https://music.163.com/album?id=135017754"
+    }
+  },
+  {
+    "name": "Stop Blaming Love (feat. Micah Martin)",
+    "link": "https://music.163.com/song?id=1845607869",
+    "duration": "03:36",
+    "artists": [
+      {
+        "name": "Jason Ross",
+        "link": "https://music.163.com/artist?id=906123"
+      },
+      {
+        "name": "Micah Martin",
+        "link": "https://music.163.com/artist?id=13723243"
+      }
+    ],
+    "album": {
+      "name": "Convergence EP",
+      "link": "https://music.163.com/album?id=127527529"
+    }
+  },
+  {
+    "name": "光",
+    "link": "https://music.163.com/song?id=520581397",
+    "duration": "03:22",
+    "artists": [
+      { "name": "OYRH", "link": "https://music.163.com/artist?id=12308092" },
+      {
+        "name": "Austin Carl",
+        "link": "https://music.163.com/artist?id=12303121"
+      }
+    ],
+    "album": { "name": "光", "link": "https://music.163.com/album?id=36839895" }
+  },
+  {
+    "name": "sonder",
+    "link": "https://music.163.com/song?id=1410210736",
+    "duration": "03:46",
+    "artists": [
+      { "name": "司南", "link": "https://music.163.com/artist?id=28863695" }
+    ],
+    "album": {
+      "name": "sonder",
+      "link": "https://music.163.com/album?id=84151253"
+    }
+  },
+  {
+    "name": "Burnin' Up (Aero Chord Remix)",
+    "link": "https://music.163.com/song?id=399405313",
+    "duration": "03:44",
+    "artists": [
+      { "name": "Jessie J", "link": "https://music.163.com/artist?id=62662" },
+      { "name": "2 Chainz", "link": "https://music.163.com/artist?id=46481" },
+      { "name": "Aero Chord", "link": "https://music.163.com/artist?id=845121" }
+    ],
+    "album": {
+      "name": "Trap Top 50",
+      "link": "https://music.163.com/album?id=34407461"
+    }
+  },
+  {
+    "name": "Just To Hear",
+    "link": "https://music.163.com/song?id=476630950",
+    "duration": "03:21",
+    "artists": [
+      {
+        "name": "Denis Kenzo",
+        "link": "https://music.163.com/artist?id=263670"
+      },
+      { "name": "Sveta B.", "link": "https://music.163.com/artist?id=839779" }
+    ],
+    "album": {
+      "name": "Just to Hear",
+      "link": "https://music.163.com/album?id=35456395"
+    }
+  },
+  {
+    "name": "Lynx",
+    "link": "https://music.163.com/song?id=1294924331",
+    "duration": "03:47",
+    "artists": [
+      {
+        "name": "ELE SHEEP",
+        "link": "https://music.163.com/artist?id=12147203"
+      }
+    ],
+    "album": {
+      "name": "Lynx",
+      "link": "https://music.163.com/album?id=71852992"
+    }
+  },
+  {
+    "name": "Searchlight",
+    "link": "https://music.163.com/song?id=501220045",
+    "duration": "03:27",
+    "artists": [
+      { "name": "Omnia", "link": "https://music.163.com/artist?id=179006" }
+    ],
+    "album": {
+      "name": "Searchlight",
+      "link": "https://music.163.com/album?id=36030297"
+    }
+  },
+  {
+    "name": "I'm A Wanted Man",
+    "link": "https://music.163.com/song?id=464373094",
+    "duration": "03:48",
+    "artists": [
+      {
+        "name": "Royal Deluxe",
+        "link": "https://music.163.com/artist?id=12062032"
+      }
+    ],
+    "album": {
+      "name": "Born for This",
+      "link": "https://music.163.com/album?id=35256286"
+    }
+  },
+  {
+    "name": "Bring The Beats (Original Mix)",
+    "link": "https://music.163.com/song?id=534126103",
+    "duration": "04:15",
+    "artists": [
+      {
+        "name": "Jonas Vogel",
+        "link": "https://music.163.com/artist?id=12008033"
+      }
+    ],
+    "album": {
+      "name": "Melbourne Bounce Vol. 8",
+      "link": "https://music.163.com/album?id=37446632"
+    }
+  },
+  {
+    "name": "Paper Stars",
+    "link": "https://music.163.com/song?id=482988290",
+    "duration": "03:06",
+    "artists": [
+      {
+        "name": "West Coast Massive",
+        "link": "https://music.163.com/artist?id=12441143"
+      },
+      { "name": "CAPPA", "link": "https://music.163.com/artist?id=1053281" }
+    ],
+    "album": {
+      "name": "Paper Stars",
+      "link": "https://music.163.com/album?id=35590467"
+    }
+  },
+  {
+    "name": "Forest (Original Mix)",
+    "link": "https://music.163.com/song?id=479029103",
+    "duration": "07:47",
+    "artists": [
+      {
+        "name": "Andrew Wu",
+        "link": "https://music.163.com/artist?id=12029132"
+      }
+    ],
+    "album": {
+      "name": "Forest",
+      "link": "https://music.163.com/album?id=35527081"
+    }
+  },
+  {
+    "name": "Where I Begin (Club Mix)",
+    "link": "https://music.163.com/song?id=34770426",
+    "duration": "04:15",
+    "artists": [
+      {
+        "name": "Dennis Sheperd",
+        "link": "https://music.163.com/artist?id=32497"
+      },
+      {
+        "name": "Katty Heath",
+        "link": "https://music.163.com/artist?id=852242"
+      }
+    ],
+    "album": {
+      "name": "A State of Trance 727",
+      "link": "https://music.163.com/album?id=3292242"
+    }
+  },
+  {
+    "name": "I Won't Fall",
+    "link": "https://music.163.com/song?id=34723363",
+    "duration": "03:05",
+    "artists": [
+      {
+        "name": "Noctilucent",
+        "link": "https://music.163.com/artist?id=1150036"
+      }
+    ],
+    "album": {
+      "name": "Stars",
+      "link": "https://music.163.com/album?id=3295088"
+    }
+  },
+  {
+    "name": "Erytheia (Original Mix)",
+    "link": "https://music.163.com/song?id=458238461",
+    "duration": "06:36",
+    "artists": [
+      {
+        "name": "Simon O'Shine",
+        "link": "https://music.163.com/artist?id=207035"
+      },
+      {
+        "name": "Ahmed Romel",
+        "link": "https://music.163.com/artist?id=191841"
+      }
+    ],
+    "album": {
+      "name": "Erytheia",
+      "link": "https://music.163.com/album?id=35158377"
+    }
+  },
+  {
+    "name": "Rhythm Is A Dancer (Extended Mix)",
+    "link": "https://music.163.com/song?id=475264043",
+    "duration": "03:34",
+    "artists": [
+      {
+        "name": "Breathe Carolina",
+        "link": "https://music.163.com/artist?id=88214"
+      },
+      {
+        "name": "Kaleena Zanders",
+        "link": "https://music.163.com/artist?id=13368664"
+      },
+      { "name": "Dropgun", "link": "https://music.163.com/artist?id=972015" }
+    ],
+    "album": {
+      "name": "Rhythm Is A Dancer",
+      "link": "https://music.163.com/album?id=35448030"
+    }
+  },
+  {
+    "name": "Disturbia",
+    "link": "https://music.163.com/song?id=3314175",
+    "duration": "03:58",
+    "artists": [
+      { "name": "Rihanna", "link": "https://music.163.com/artist?id=72724" }
+    ],
+    "album": {
+      "name": "Good Girl Gone Bad",
+      "link": "https://music.163.com/album?id=335677"
+    }
+  },
+  {
+    "name": "Something In The Way You Move (Said The Sky Remix)",
+    "link": "https://music.163.com/song?id=419250715",
+    "duration": "04:24",
+    "artists": [
+      {
+        "name": "Said The Sky",
+        "link": "https://music.163.com/artist?id=1026094"
+      },
+      {
+        "name": "Ellie Goulding",
+        "link": "https://music.163.com/artist?id=56598"
+      }
+    ],
+    "album": {
+      "name": "Something In The Way You Move (Said The Sky Remix)",
+      "link": "https://music.163.com/album?id=34754198"
+    }
+  },
+  {
+    "name": "This Time (Electus Remix)",
+    "link": "https://music.163.com/song?id=459733786",
+    "duration": "08:32",
+    "artists": [
+      { "name": "Electus", "link": "https://music.163.com/artist?id=1032300" },
+      { "name": "Murtagh", "link": "https://music.163.com/artist?id=12047047" },
+      {
+        "name": "Noctilucent",
+        "link": "https://music.163.com/artist?id=1150036"
+      }
+    ],
+    "album": {
+      "name": "This Time (Electus Remix)",
+      "link": "https://music.163.com/album?id=35174498"
+    }
+  },
+  {
+    "name": "Lady Daydream",
+    "link": "https://music.163.com/song?id=35253994",
+    "duration": "03:21",
+    "artists": [
+      {
+        "name": "Mr Twin Sister",
+        "link": "https://music.163.com/artist?id=102867"
+      }
+    ],
+    "album": {
+      "name": "Color Your Life",
+      "link": "https://music.163.com/album?id=3292991"
+    }
+  },
+  {
+    "name": "Sway",
+    "link": "https://music.163.com/song?id=475073464",
+    "duration": "03:21",
+    "artists": [
+      { "name": "Syn Cole", "link": "https://music.163.com/artist?id=854432" },
+      { "name": "Nevve", "link": "https://music.163.com/artist?id=12567101" }
+    ],
+    "album": {
+      "name": "Sway",
+      "link": "https://music.163.com/album?id=35443099"
+    }
+  }
+]
