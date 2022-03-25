@@ -1,0 +1,484 @@
+[
+  {
+    "name": "Lovers For The Weekend",
+    "link": "https://music.163.com/song?id=1443009967",
+    "duration": "02:50",
+    "artists": [
+      {
+        "name": "John De Sohn",
+        "link": "https://music.163.com/artist?id=290019"
+      }
+    ],
+    "album": {
+      "name": "Lovers For The Weekend",
+      "link": "https://music.163.com/album?id=88460216"
+    }
+  },
+  {
+    "name": "Tana High 2021",
+    "link": "https://music.163.com/song?id=1855739521",
+    "duration": "02:42",
+    "artists": [
+      {
+        "name": "Meland X Hauken",
+        "link": "https://music.163.com/artist?id=12047913"
+      }
+    ],
+    "album": {
+      "name": "Tana High 2021",
+      "link": "https://music.163.com/album?id=129427790"
+    }
+  },
+  {
+    "name": "Let Me Out",
+    "link": "https://music.163.com/song?id=1820939669",
+    "duration": "03:00",
+    "artists": [
+      {
+        "name": "Feenixpawl",
+        "link": "https://music.163.com/artist?id=290025"
+      },
+      { "name": "dreamr.", "link": "https://music.163.com/artist?id=34647366" },
+      { "name": "Anvy", "link": "https://music.163.com/artist?id=14203234" }
+    ],
+    "album": {
+      "name": "Let Me Out",
+      "link": "https://music.163.com/album?id=123173298"
+    }
+  },
+  {
+    "name": "Ride Or Die (Vicetone Remix)",
+    "link": "https://music.163.com/song?id=572720628",
+    "duration": "03:15",
+    "artists": [
+      {
+        "name": "The Knocks",
+        "link": "https://music.163.com/artist?id=271741"
+      },
+      {
+        "name": "Foster The People",
+        "link": "https://music.163.com/artist?id=92856"
+      },
+      { "name": "Vicetone", "link": "https://music.163.com/artist?id=747030" }
+    ],
+    "album": {
+      "name": "Ride Or Die (Vicetone Remix)",
+      "link": "https://music.163.com/album?id=39662258"
+    }
+  },
+  {
+    "name": "Red Skies (Evolution Mix)",
+    "link": "https://music.163.com/song?id=1930131422",
+    "duration": "03:36",
+    "artists": [
+      { "name": "Chicane", "link": "https://music.163.com/artist?id=50971" }
+    ],
+    "album": {
+      "name": "Red Skies (Evolution Mix)",
+      "link": "https://music.163.com/album?id=142152101"
+    }
+  },
+  {
+    "name": "Paint The Sky",
+    "link": "https://music.163.com/song?id=1428148984",
+    "duration": "03:20",
+    "artists": [
+      {
+        "name": "Mark Sixma",
+        "link": "https://music.163.com/artist?id=178755"
+      },
+      { "name": "Eline", "link": "https://music.163.com/artist?id=30696426" }
+    ],
+    "album": {
+      "name": "Paint The Sky",
+      "link": "https://music.163.com/album?id=86227463"
+    }
+  },
+  {
+    "name": "Dawn (Original Mix)",
+    "link": "https://music.163.com/song?id=1856007570",
+    "duration": "03:06",
+    "artists": [
+      {
+        "name": "Matisse & Sadko",
+        "link": "https://music.163.com/artist?id=947054"
+      },
+      {
+        "name": "Alex Aris",
+        "link": "https://music.163.com/artist?id=13226187"
+      }
+    ],
+    "album": {
+      "name": "Dawn",
+      "link": "https://music.163.com/album?id=129477707"
+    }
+  },
+  {
+    "name": "Let‘s Ride Away",
+    "link": "https://music.163.com/song?id=1850920584",
+    "duration": "03:02",
+    "artists": [{ "name": "AviobWicii", "link": "" }],
+    "album": {
+      "name": "AVĪCI（02） (Reboot)",
+      "link": "https://music.163.com/album?id=128474241"
+    }
+  },
+  {
+    "name": "Vauges",
+    "link": "https://music.163.com/song?id=1876730411",
+    "duration": "03:11",
+    "artists": [
+      { "name": "Yuncino", "link": "https://music.163.com/artist?id=32657320" }
+    ],
+    "album": {
+      "name": "Vauges",
+      "link": "https://music.163.com/album?id=132985995"
+    }
+  },
+  {
+    "name": "Forgotten",
+    "link": "https://music.163.com/song?id=1835265186",
+    "duration": "03:21",
+    "artists": [
+      { "name": "MitiS", "link": "https://music.163.com/artist?id=40245" },
+      {
+        "name": "Crystal Skies",
+        "link": "https://music.163.com/artist?id=1063127"
+      }
+    ],
+    "album": {
+      "name": "Lost",
+      "link": "https://music.163.com/album?id=125636092"
+    }
+  },
+  {
+    "name": "I Quit Drinking",
+    "link": "https://music.163.com/song?id=1860576772",
+    "duration": "03:34",
+    "artists": [
+      {
+        "name": "GhostDragon",
+        "link": "https://music.163.com/artist?id=12202354"
+      },
+      { "name": "Exede", "link": "https://music.163.com/artist?id=13059879" }
+    ],
+    "album": {
+      "name": "I Quit Drinking",
+      "link": "https://music.163.com/album?id=130234711"
+    }
+  },
+  {
+    "name": "Oh My Other",
+    "link": "https://music.163.com/song?id=1338918777",
+    "duration": "02:59",
+    "artists": [
+      { "name": "BUNT.", "link": "https://music.163.com/artist?id=744145" }
+    ],
+    "album": {
+      "name": "Oh My Other",
+      "link": "https://music.163.com/album?id=75133201"
+    }
+  },
+  {
+    "name": "Nothing To Hide",
+    "link": "https://music.163.com/song?id=1853805508",
+    "duration": "03:15",
+    "artists": [
+      { "name": "PETE", "link": "https://music.163.com/artist?id=37649346" },
+      {
+        "name": "Trevor Omoto",
+        "link": "https://music.163.com/artist?id=31213631"
+      }
+    ],
+    "album": {
+      "name": "Nothing To Hide",
+      "link": "https://music.163.com/album?id=129117515"
+    }
+  },
+  {
+    "name": "你已忘记但我还记得的事 - (I Remember)",
+    "link": "https://music.163.com/song?id=1494805012",
+    "duration": "03:51",
+    "artists": [
+      { "name": "原子邦妮", "link": "https://music.163.com/artist?id=1193482" }
+    ],
+    "album": {
+      "name": "乐游原",
+      "link": "https://music.163.com/album?id=99284739"
+    }
+  },
+  {
+    "name": "星之夢 pt.II",
+    "link": "https://music.163.com/song?id=1483561957",
+    "duration": "03:10",
+    "artists": [
+      { "name": "YOURSZC", "link": "https://music.163.com/artist?id=34227742" }
+    ],
+    "album": {
+      "name": "星の梦 Pt.II",
+      "link": "https://music.163.com/album?id=96104184"
+    }
+  },
+  {
+    "name": "I Want You To Know (Hella x Pegato Remix)",
+    "link": "https://music.163.com/song?id=1807177019",
+    "duration": "03:20",
+    "artists": [
+      {
+        "name": "мардан муталипзаев",
+        "link": "https://music.163.com/artist?id=36621564"
+      }
+    ],
+    "album": {
+      "name": "I Want You To Know",
+      "link": "https://music.163.com/album?id=120849491"
+    }
+  },
+  {
+    "name": "Deja Vu (Initial D)",
+    "link": "https://music.163.com/song?id=1895966169",
+    "duration": "03:04",
+    "artists": [
+      { "name": "NIVIRO", "link": "https://music.163.com/artist?id=12152016" }
+    ],
+    "album": {
+      "name": "Deja Vu (Initial D)",
+      "link": "https://music.163.com/album?id=136278695"
+    }
+  },
+  {
+    "name": "Avicii-How Many Lovers（Asaika Remix）",
+    "link": "https://music.163.com/song?id=1420203248",
+    "duration": "02:21",
+    "artists": [
+      { "name": "Asaika", "link": "https://music.163.com/artist?id=33042072" }
+    ],
+    "album": {
+      "name": "R.I.P",
+      "link": "https://music.163.com/album?id=81185565"
+    }
+  },
+  {
+    "name": "I Need Ya",
+    "link": "https://music.163.com/song?id=1821175726",
+    "duration": "03:38",
+    "artists": [
+      { "name": "Sabai", "link": "https://music.163.com/artist?id=32093901" },
+      {
+        "name": "With Løve",
+        "link": "https://music.163.com/artist?id=31641424"
+      },
+      { "name": "RYYZN", "link": "https://music.163.com/artist?id=31280623" }
+    ],
+    "album": {
+      "name": "I Need Ya",
+      "link": "https://music.163.com/album?id=123217592"
+    }
+  },
+  {
+    "name": "Avicii-SLEVEL (Avicii Levels Reverse Edit Bootleg)",
+    "link": "https://music.163.com/song?id=1436383435",
+    "duration": "04:37",
+    "artists": [
+      {
+        "name": "FROZENMIR",
+        "link": "https://music.163.com/artist?id=34678275"
+      }
+    ],
+    "album": {
+      "name": "SLEVEL",
+      "link": "https://music.163.com/album?id=86887024"
+    }
+  },
+  {
+    "name": "下沉 (JWoods Remix)",
+    "link": "https://music.163.com/song?id=1825489589",
+    "duration": "03:20",
+    "artists": [
+      { "name": "JWoods", "link": "https://music.163.com/artist?id=30959670" },
+      { "name": "白鸿", "link": "https://music.163.com/artist?id=31008744" },
+      { "name": "何羽阁", "link": "https://music.163.com/artist?id=46555490" }
+    ],
+    "album": {
+      "name": "下沉 (JWoods Remix)",
+      "link": "https://music.163.com/album?id=123955440"
+    }
+  },
+  {
+    "name": "Zombie (Bassjackers Remix)",
+    "link": "https://music.163.com/song?id=1338634385",
+    "duration": "03:31",
+    "artists": [
+      { "name": "Ran-D", "link": "https://music.163.com/artist?id=402435" },
+      {
+        "name": "Bassjackers",
+        "link": "https://music.163.com/artist?id=268447"
+      }
+    ],
+    "album": {
+      "name": "Zombie (Remixes)",
+      "link": "https://music.163.com/album?id=75113040"
+    }
+  },
+  {
+    "name": "Earthquake",
+    "link": "https://music.163.com/song?id=1382270108",
+    "duration": "03:00",
+    "artists": [
+      { "name": "Surilla", "link": "https://music.163.com/artist?id=13940280" }
+    ],
+    "album": {
+      "name": "Earthquake",
+      "link": "https://music.163.com/album?id=80788762"
+    }
+  },
+  {
+    "name": "Beast (Radio Mix)",
+    "link": "https://music.163.com/song?id=1384299504",
+    "duration": "03:09",
+    "artists": [
+      {
+        "name": "Dimitri Vegas & Like Mike",
+        "link": "https://music.163.com/artist?id=791298"
+      },
+      {
+        "name": "Brennan Heart",
+        "link": "https://music.163.com/artist?id=688203"
+      },
+      {
+        "name": "Ummet Ozcan",
+        "link": "https://music.163.com/artist?id=711465"
+      }
+    ],
+    "album": {
+      "name": "Beast (All As One)",
+      "link": "https://music.163.com/album?id=80956649"
+    }
+  },
+  {
+    "name": "Back In Time",
+    "link": "https://music.163.com/song?id=1385290135",
+    "duration": "02:54",
+    "artists": [
+      { "name": "Refuzion", "link": "https://music.163.com/artist?id=1081221" }
+    ],
+    "album": {
+      "name": "Back In Time",
+      "link": "https://music.163.com/album?id=81042637"
+    }
+  },
+  {
+    "name": "Chris & Arkins - Kokain Bounce (UFO Mix)",
+    "link": "https://music.163.com/song?id=1894320268",
+    "duration": "03:46",
+    "artists": [
+      { "name": "CHRIS", "link": "https://music.163.com/artist?id=37187111" }
+    ],
+    "album": {
+      "name": "Chris & Arkins - Kokain Bounce (UFO Mix)",
+      "link": "https://music.163.com/album?id=136041232"
+    }
+  },
+  {
+    "name": "Electronic Life (Original Radio)",
+    "link": "https://music.163.com/song?id=554127269",
+    "duration": "03:47",
+    "artists": [
+      {
+        "name": "Klubbhoppers",
+        "link": "https://music.163.com/artist?id=145908"
+      }
+    ],
+    "album": {
+      "name": "Club Love 7",
+      "link": "https://music.163.com/album?id=38418415"
+    }
+  },
+  {
+    "name": "Robotropolis",
+    "link": "https://music.163.com/song?id=29386035",
+    "duration": "03:12",
+    "artists": [
+      { "name": "Philter", "link": "https://music.163.com/artist?id=140830" }
+    ],
+    "album": {
+      "name": "The Legend Of Iya (Original Game Score)",
+      "link": "https://music.163.com/album?id=3015622"
+    }
+  },
+  {
+    "name": "Lonely Girl",
+    "link": "https://music.163.com/song?id=573596744",
+    "duration": "05:32",
+    "artists": [
+      { "name": "Oceanlab", "link": "https://music.163.com/artist?id=40869" },
+      {
+        "name": "Above & Beyond",
+        "link": "https://music.163.com/artist?id=85548"
+      }
+    ],
+    "album": {
+      "name": "Lonely Girl",
+      "link": "https://music.163.com/album?id=39725106"
+    }
+  },
+  {
+    "name": "I Pray (Extended Mix)",
+    "link": "https://music.163.com/song?id=518894158",
+    "duration": "05:13",
+    "artists": [
+      {
+        "name": "Ellie Lawson",
+        "link": "https://music.163.com/artist?id=56061"
+      },
+      {
+        "name": "Frainbreeze",
+        "link": "https://music.163.com/artist?id=11992076"
+      }
+    ],
+    "album": {
+      "name": "I Pray",
+      "link": "https://music.163.com/album?id=36812065"
+    }
+  },
+  {
+    "name": "Chinatown",
+    "link": "https://music.163.com/song?id=17407930",
+    "duration": "03:49",
+    "artists": [
+      { "name": "Destroyer", "link": "https://music.163.com/artist?id=54091" }
+    ],
+    "album": {
+      "name": "Kaputt",
+      "link": "https://music.163.com/album?id=1603836"
+    }
+  },
+  {
+    "name": "非人哉",
+    "link": "https://music.163.com/song?id=557601772",
+    "duration": "03:26",
+    "artists": [
+      { "name": "非人哉", "link": "https://music.163.com/artist?id=14080282" }
+    ],
+    "album": {
+      "name": "非人哉",
+      "link": "https://music.163.com/album?id=38553632"
+    }
+  },
+  {
+    "name": "Hero (feat. Christina Perri)",
+    "link": "https://music.163.com/song?id=418603096",
+    "duration": "03:17",
+    "artists": [
+      { "name": "Cash Cash", "link": "https://music.163.com/artist?id=50905" },
+      {
+        "name": "Christina Perri",
+        "link": "https://music.163.com/artist?id=52979"
+      }
+    ],
+    "album": {
+      "name": "Blood, Sweat & 3 Years",
+      "link": "https://music.163.com/album?id=34750025"
+    }
+  }
+]
