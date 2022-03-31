@@ -1,0 +1,437 @@
+[
+  {
+    "name": "Come Home",
+    "link": "https://music.163.com/song?id=457552130",
+    "duration": "02:38",
+    "artists": [
+      { "name": "Sad Eye", "link": "https://music.163.com/artist?id=12175215" }
+    ],
+    "album": {
+      "name": "Come Home",
+      "link": "https://music.163.com/album?id=35142913"
+    }
+  },
+  {
+    "name": "Starbright",
+    "link": "https://music.163.com/song?id=1881926936",
+    "duration": "04:03",
+    "artists": [
+      { "name": "Dabin", "link": "https://music.163.com/artist?id=783446" },
+      { "name": "Trella", "link": "https://music.163.com/artist?id=12191304" }
+    ],
+    "album": {
+      "name": "Between Broken",
+      "link": "https://music.163.com/album?id=133865923"
+    }
+  },
+  {
+    "name": "Safari",
+    "link": "https://music.163.com/song?id=409060503",
+    "duration": "02:52",
+    "artists": [
+      {
+        "name": "KevinDeJong",
+        "link": "https://music.163.com/artist?id=12024474"
+      }
+    ],
+    "album": {
+      "name": "Safari",
+      "link": "https://music.163.com/album?id=34604104"
+    }
+  },
+  {
+    "name": "小伞花",
+    "link": "https://music.163.com/song?id=502238390",
+    "duration": "04:09",
+    "artists": [
+      { "name": "秦宇子", "link": "https://music.163.com/artist?id=1024311" }
+    ],
+    "album": {
+      "name": "LUNA",
+      "link": "https://music.163.com/album?id=36149295"
+    }
+  },
+  {
+    "name": "1.0",
+    "link": "https://music.163.com/song?id=1928522944",
+    "duration": "05:32",
+    "artists": [
+      { "name": "amazarashi", "link": "https://music.163.com/artist?id=18480" }
+    ],
+    "album": {
+      "name": "1.0",
+      "link": "https://music.163.com/album?id=141867375"
+    }
+  },
+  {
+    "name": "帶著你",
+    "link": "https://music.163.com/song?id=1302449608",
+    "duration": "03:31",
+    "artists": [
+      { "name": "李腾一", "link": "https://music.163.com/artist?id=1039028" }
+    ],
+    "album": {
+      "name": "带着你",
+      "link": "https://music.163.com/album?id=72336049"
+    }
+  },
+  {
+    "name": "Old Guitar",
+    "link": "https://music.163.com/song?id=415786900",
+    "duration": "03:28",
+    "artists": [
+      { "name": "BUNT.", "link": "https://music.163.com/artist?id=744145" }
+    ],
+    "album": {
+      "name": "Old Guitar",
+      "link": "https://music.163.com/album?id=34726265"
+    }
+  },
+  {
+    "name": "Mountain Lion",
+    "link": "https://music.163.com/song?id=436147019",
+    "duration": "03:33",
+    "artists": [
+      { "name": "MKJ", "link": "https://music.163.com/artist?id=469200" },
+      {
+        "name": "Julie Elody",
+        "link": "https://music.163.com/artist?id=12644336"
+      }
+    ],
+    "album": {
+      "name": "Mountain Lion",
+      "link": "https://music.163.com/album?id=34921165"
+    }
+  },
+  {
+    "name": "忽然想你的时候",
+    "link": "https://music.163.com/song?id=1335936421",
+    "duration": "04:26",
+    "artists": [
+      { "name": "原子邦妮", "link": "https://music.163.com/artist?id=1193482" }
+    ],
+    "album": {
+      "name": "我在宇宙的边缘",
+      "link": "https://music.163.com/album?id=74994171"
+    }
+  },
+  {
+    "name": "Edge of the Sky(Original Mix)",
+    "link": "https://music.163.com/song?id=439142436",
+    "duration": "03:49",
+    "artists": [
+      { "name": "XEON", "link": "https://music.163.com/artist?id=12060047" }
+    ],
+    "album": {
+      "name": "Edge of the Sky(Original Mix)",
+      "link": "https://music.163.com/album?id=34979198"
+    }
+  },
+  {
+    "name": "Of The Night",
+    "link": "https://music.163.com/song?id=27863196",
+    "duration": "03:34",
+    "artists": [
+      { "name": "Bastille", "link": "https://music.163.com/artist?id=89090" }
+    ],
+    "album": {
+      "name": "Of The Night",
+      "link": "https://music.163.com/album?id=2687295"
+    }
+  },
+  {
+    "name": "Burn Fast (Sokko Remix)",
+    "link": "https://music.163.com/song?id=410801560",
+    "duration": "03:19",
+    "artists": [
+      { "name": "Sokko", "link": "https://music.163.com/artist?id=1192428" },
+      {
+        "name": "Bryce Fox",
+        "link": "https://music.163.com/artist?id=12023281"
+      }
+    ],
+    "album": {
+      "name": "Burn Fast (Sokko Remix)",
+      "link": "https://music.163.com/album?id=34674122"
+    }
+  },
+  {
+    "name": "Adrift",
+    "link": "https://music.163.com/song?id=30780803",
+    "duration": "03:42",
+    "artists": [
+      { "name": "Kozoro", "link": "https://music.163.com/artist?id=1050567" }
+    ],
+    "album": {
+      "name": "Adrift",
+      "link": "https://music.163.com/album?id=3103324"
+    }
+  },
+  {
+    "name": "STONES",
+    "link": "https://music.163.com/song?id=513363675",
+    "duration": "02:24",
+    "artists": [
+      { "name": "V3NUM", "link": "https://music.163.com/artist?id=12765337" },
+      {
+        "name": "Rosso Fallen",
+        "link": "https://music.163.com/artist?id=12673449"
+      }
+    ],
+    "album": {
+      "name": "Stones",
+      "link": "https://music.163.com/album?id=36581140"
+    }
+  },
+  {
+    "name": "Self",
+    "link": "https://music.163.com/song?id=435004253",
+    "duration": "03:20",
+    "artists": [
+      { "name": "Joe Lyons", "link": "https://music.163.com/artist?id=498067" }
+    ],
+    "album": {
+      "name": "Self",
+      "link": "https://music.163.com/album?id=34908147"
+    }
+  },
+  {
+    "name": "Invaders (Original Mix)",
+    "link": "https://music.163.com/song?id=408332523",
+    "duration": "03:40",
+    "artists": [
+      { "name": "Hinkik", "link": "https://music.163.com/artist?id=12023103" }
+    ],
+    "album": {
+      "name": "Invaders",
+      "link": "https://music.163.com/album?id=34589640"
+    }
+  },
+  {
+    "name": "Stonecold (BKAYE Remix)",
+    "link": "https://music.163.com/song?id=456185057",
+    "duration": "03:44",
+    "artists": [
+      { "name": "BKAYE", "link": "https://music.163.com/artist?id=12008089" },
+      {
+        "name": "machineheart",
+        "link": "https://music.163.com/artist?id=1070057"
+      }
+    ],
+    "album": {
+      "name": "Stonecold (BKAYE Remix)",
+      "link": "https://music.163.com/album?id=35158026"
+    }
+  },
+  {
+    "name": "We Dont Talk Anymore (OutaMatic Remix)",
+    "link": "https://music.163.com/song?id=406086033",
+    "duration": "03:20",
+    "artists": [
+      { "name": "OutaMatic", "link": "https://music.163.com/artist?id=1181741" }
+    ],
+    "album": {
+      "name": "We Don't Talk Anymore (OutaMatic Remix)",
+      "link": "https://music.163.com/album?id=34526755"
+    }
+  },
+  {
+    "name": "我离开，他却不习惯了",
+    "link": "https://music.163.com/song?id=1332752193",
+    "duration": "03:31",
+    "artists": [
+      { "name": "陈壹千", "link": "https://music.163.com/artist?id=12077204" }
+    ],
+    "album": {
+      "name": "我离开，他却不习惯了",
+      "link": "https://music.163.com/album?id=74760921"
+    }
+  },
+  {
+    "name": "␛４：５２　Ａ　Ｍ　✩",
+    "link": "https://music.163.com/song?id=1411109793",
+    "duration": "02:13",
+    "artists": [
+      {
+        "name": "森林中的鹿",
+        "link": "https://music.163.com/artist?id=12226717"
+      }
+    ],
+    "album": {
+      "name": "等到黎明时分太阳升起，会不会一切都将有所转机",
+      "link": "https://music.163.com/album?id=84248790"
+    }
+  },
+  {
+    "name": "时间旅行",
+    "link": "https://music.163.com/song?id=539902407",
+    "duration": "04:36",
+    "artists": [
+      { "name": "空气凝", "link": "https://music.163.com/artist?id=12078192" },
+      { "name": "洛天依", "link": "https://music.163.com/artist?id=906118" }
+    ],
+    "album": {
+      "name": "时间旅行",
+      "link": "https://music.163.com/album?id=37671515"
+    }
+  },
+  {
+    "name": "Ялюблю",
+    "link": "https://music.163.com/song?id=1810935352",
+    "duration": "03:06",
+    "artists": [
+      {
+        "name": "Alijan-上海",
+        "link": "https://music.163.com/artist?id=35886934"
+      }
+    ],
+    "album": {
+      "name": "Ялюблю",
+      "link": "https://music.163.com/album?id=121435214"
+    }
+  },
+  {
+    "name": "Safaryan （мардан муталипзаев Remix）",
+    "link": "https://music.163.com/song?id=1826537778",
+    "duration": "02:55",
+    "artists": [
+      {
+        "name": "мардан муталипзаев",
+        "link": "https://music.163.com/artist?id=36621564"
+      }
+    ],
+    "album": {
+      "name": "Technology",
+      "link": "https://music.163.com/album?id=124022482"
+    }
+  },
+  {
+    "name": "Hear me！",
+    "link": "https://music.163.com/song?id=1350304559",
+    "duration": "04:46",
+    "artists": [
+      { "name": "人形兎", "link": "https://music.163.com/artist?id=12100072" }
+    ],
+    "album": {
+      "name": "Hear me！",
+      "link": "https://music.163.com/album?id=75615931"
+    }
+  },
+  {
+    "name": "远恋",
+    "link": "https://music.163.com/song?id=430026357",
+    "duration": "03:57",
+    "artists": [
+      { "name": "洛天依", "link": "https://music.163.com/artist?id=906118" },
+      { "name": "阿良良木健", "link": "https://music.163.com/artist?id=964311" }
+    ],
+    "album": {
+      "name": "恋爱理论",
+      "link": "https://music.163.com/album?id=34778566"
+    }
+  },
+  {
+    "name": "Ga Suka Gelay Slow(Original Mix)",
+    "link": "https://music.163.com/song?id=1833093190",
+    "duration": "04:08",
+    "artists": [
+      { "name": "杨辰", "link": "https://music.163.com/artist?id=46827328" }
+    ],
+    "album": {
+      "name": "You Dont Know Me",
+      "link": "https://music.163.com/album?id=125272308"
+    }
+  },
+  {
+    "name": "未完成的乐章",
+    "link": "https://music.163.com/song?id=1294047974",
+    "duration": "04:36",
+    "artists": [
+      {
+        "name": "阿良良木健",
+        "link": "https://music.163.com/artist?id=964311"
+      },
+      { "name": "洛天依", "link": "https://music.163.com/artist?id=906118" }
+    ],
+    "album": {
+      "name": "未完成的乐章",
+      "link": "https://music.163.com/album?id=71846869"
+    }
+  },
+  {
+    "name": "Nye",
+    "link": "https://music.163.com/song?id=29401347",
+    "duration": "03:55",
+    "artists": [
+      {
+        "name": "Missy Higgins",
+        "link": "https://music.163.com/artist?id=66358"
+      }
+    ],
+    "album": { "name": "Oz", "link": "https://music.163.com/album?id=3017424" }
+  },
+  {
+    "name": "Red Light",
+    "link": "https://music.163.com/song?id=1648651",
+    "duration": "04:29",
+    "artists": [
+      { "name": "Vib Gyor", "link": "https://music.163.com/artist?id=45677" }
+    ],
+    "album": {
+      "name": "Intouchables (La Bande Originale du Film)",
+      "link": "https://music.163.com/album?id=167358"
+    }
+  },
+  {
+    "name": "The Railway",
+    "link": "https://music.163.com/song?id=430297192",
+    "duration": "03:03",
+    "artists": [
+      { "name": "ARForest", "link": "https://music.163.com/artist?id=12047297" }
+    ],
+    "album": {
+      "name": "The Railway",
+      "link": "https://music.163.com/album?id=34869575"
+    }
+  },
+  {
+    "name": "Starset",
+    "link": "https://music.163.com/song?id=455502171",
+    "duration": "03:07",
+    "artists": [
+      {
+        "name": "Cody Sorenson",
+        "link": "https://music.163.com/artist?id=12273358"
+      },
+      { "name": "Kadenza", "link": "https://music.163.com/artist?id=12068052" }
+    ],
+    "album": {
+      "name": "Starset",
+      "link": "https://music.163.com/album?id=35139474"
+    }
+  },
+  {
+    "name": "Chocolate Cat",
+    "link": "https://music.163.com/song?id=413812522",
+    "duration": "03:54",
+    "artists": [
+      { "name": "Feraz", "link": "https://music.163.com/artist?id=12049089" }
+    ],
+    "album": {
+      "name": "Chocolate Cat",
+      "link": "https://music.163.com/album?id=34701591"
+    }
+  },
+  {
+    "name": "大家一起喜羊羊 - (电影《喜羊羊与灰太狼之虎虎生威》主题曲)",
+    "link": "https://music.163.com/song?id=394987",
+    "duration": "03:30",
+    "artists": [
+      { "name": "周笔畅", "link": "https://music.163.com/artist?id=10558" }
+    ],
+    "album": {
+      "name": "喜羊羊与灰太狼之虎虎生威 电影原声大碟",
+      "link": "https://music.163.com/album?id=39119"
+    }
+  }
+]
