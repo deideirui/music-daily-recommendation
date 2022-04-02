@@ -1,0 +1,442 @@
+[
+  {
+    "name": "Kids Who Ran Away",
+    "link": "https://music.163.com/song?id=1810241759",
+    "duration": "03:01",
+    "artists": [
+      {
+        "name": "PRETTY YOUNG",
+        "link": "https://music.163.com/artist?id=32904176"
+      },
+      { "name": "Ofelia", "link": "https://music.163.com/artist?id=391727" }
+    ],
+    "album": {
+      "name": "Kids Who Ran Away",
+      "link": "https://music.163.com/album?id=121332610"
+    }
+  },
+  {
+    "name": "American Spirit (Nurko Remix)",
+    "link": "https://music.163.com/song?id=1446485384",
+    "duration": "04:05",
+    "artists": [
+      { "name": "Meg & Dia", "link": "https://music.163.com/artist?id=66393" }
+    ],
+    "album": {
+      "name": "happysad Remixes",
+      "link": "https://music.163.com/album?id=89145471"
+    }
+  },
+  {
+    "name": "Save My Mind",
+    "link": "https://music.163.com/song?id=1419697707",
+    "duration": "03:38",
+    "artists": [
+      { "name": "BUNT.", "link": "https://music.163.com/artist?id=744145" },
+      {
+        "name": "Benemy Slope",
+        "link": "https://music.163.com/artist?id=34262576"
+      }
+    ],
+    "album": {
+      "name": "Save My Mind",
+      "link": "https://music.163.com/album?id=85334425"
+    }
+  },
+  {
+    "name": "试探游戏",
+    "link": "https://music.163.com/song?id=1462362125",
+    "duration": "03:32",
+    "artists": [
+      { "name": "陈壹千", "link": "https://music.163.com/artist?id=12077204" },
+      {
+        "name": "King Loki",
+        "link": "https://music.163.com/artist?id=12083634"
+      }
+    ],
+    "album": {
+      "name": "试探游戏",
+      "link": "https://music.163.com/album?id=92338825"
+    }
+  },
+  {
+    "name": "Free Loop",
+    "link": "https://music.163.com/song?id=17271094",
+    "duration": "03:52",
+    "artists": [
+      {
+        "name": "Daniel Powter",
+        "link": "https://music.163.com/artist?id=31187"
+      }
+    ],
+    "album": {
+      "name": "Daniel Powter",
+      "link": "https://music.163.com/album?id=1592637"
+    }
+  },
+  {
+    "name": "逃生口",
+    "link": "https://music.163.com/song?id=1335930750",
+    "duration": "04:03",
+    "artists": [
+      { "name": "原子邦妮", "link": "https://music.163.com/artist?id=1193482" }
+    ],
+    "album": {
+      "name": "我在宇宙的边缘",
+      "link": "https://music.163.com/album?id=74994171"
+    }
+  },
+  {
+    "name": "Young Once",
+    "link": "https://music.163.com/song?id=460323702",
+    "duration": "03:25",
+    "artists": [
+      {
+        "name": "Fabian Mazur",
+        "link": "https://music.163.com/artist?id=952248"
+      },
+      {
+        "name": "Dia Frampton",
+        "link": "https://music.163.com/artist?id=55454"
+      }
+    ],
+    "album": {
+      "name": "Young Once",
+      "link": "https://music.163.com/album?id=35176962"
+    }
+  },
+  {
+    "name": "Sunset",
+    "link": "https://music.163.com/song?id=419254594",
+    "duration": "03:33",
+    "artists": [
+      { "name": "Canvai", "link": "https://music.163.com/artist?id=12046231" }
+    ],
+    "album": {
+      "name": "Sunset",
+      "link": "https://music.163.com/album?id=34753194"
+    }
+  },
+  {
+    "name": "Spell",
+    "link": "https://music.163.com/song?id=36569401",
+    "duration": "03:08",
+    "artists": [
+      { "name": "Sihar", "link": "https://music.163.com/artist?id=1182400" }
+    ],
+    "album": {
+      "name": "Spell",
+      "link": "https://music.163.com/album?id=3406012"
+    }
+  },
+  {
+    "name": "TheBietz",
+    "link": "https://music.163.com/song?id=410628782",
+    "duration": "03:21",
+    "artists": [
+      { "name": "Zilleq", "link": "https://music.163.com/artist?id=12011212" }
+    ],
+    "album": {
+      "name": "TheBietz",
+      "link": "https://music.163.com/album?id=34669158"
+    }
+  },
+  {
+    "name": "再次相遇",
+    "link": "https://music.163.com/song?id=1297688373",
+    "duration": "03:47",
+    "artists": [
+      {
+        "name": "清风最梦",
+        "link": "https://music.163.com/artist?id=28300845"
+      },
+      { "name": "洛天依", "link": "https://music.163.com/artist?id=906118" }
+    ],
+    "album": {
+      "name": "再次相遇",
+      "link": "https://music.163.com/album?id=72059712"
+    }
+  },
+  {
+    "name": "Sun（Original Mix）",
+    "link": "https://music.163.com/song?id=426341259",
+    "duration": "03:31",
+    "artists": [
+      { "name": "DiESi", "link": "https://music.163.com/artist?id=12001195" }
+    ],
+    "album": {
+      "name": "Sun（Original Mix）",
+      "link": "https://music.163.com/album?id=34831109"
+    }
+  },
+  {
+    "name": "Lyon",
+    "link": "https://music.163.com/song?id=570333060",
+    "duration": "06:00",
+    "artists": [
+      { "name": "Klahr", "link": "https://music.163.com/artist?id=12356135" }
+    ],
+    "album": {
+      "name": "Lyon",
+      "link": "https://music.163.com/album?id=39538029"
+    }
+  },
+  {
+    "name": "No Longer(Original Mix)",
+    "link": "https://music.163.com/song?id=426832134",
+    "duration": "04:03",
+    "artists": [
+      { "name": "Ellivs", "link": "https://music.163.com/artist?id=12038060" }
+    ],
+    "album": {
+      "name": "No Longer",
+      "link": "https://music.163.com/album?id=34836053"
+    }
+  },
+  {
+    "name": "Rags To Rings - (英雄联盟全球总决赛BP音乐)",
+    "link": "https://music.163.com/song?id=28949242",
+    "duration": "02:27",
+    "artists": [
+      { "name": "英雄联盟", "link": "https://music.163.com/artist?id=1047337" },
+      {
+        "name": "Mark Petrie",
+        "link": "https://music.163.com/artist?id=40266"
+      },
+      {
+        "name": "Danny McCarthy",
+        "link": "https://music.163.com/artist?id=1047006"
+      }
+    ],
+    "album": {
+      "name": "最新热歌慢摇76",
+      "link": "https://music.163.com/album?id=2923073"
+    }
+  },
+  {
+    "name": "Acid Rangers",
+    "link": "https://music.163.com/song?id=1894326423",
+    "duration": "03:01",
+    "artists": [
+      { "name": "Arkins", "link": "https://music.163.com/artist?id=28031546" }
+    ],
+    "album": {
+      "name": "Leaked #1",
+      "link": "https://music.163.com/album?id=136040737"
+    }
+  },
+  {
+    "name": "Lost Boy",
+    "link": "https://music.163.com/song?id=494862493",
+    "duration": "04:18",
+    "artists": [
+      {
+        "name": "Teddy Beats",
+        "link": "https://music.163.com/artist?id=12545840"
+      }
+    ],
+    "album": {
+      "name": "Lost Boy",
+      "link": "https://music.163.com/album?id=35865430"
+    }
+  },
+  {
+    "name": "牵一半",
+    "link": "https://music.163.com/song?id=1462152475",
+    "duration": "03:56",
+    "artists": [
+      { "name": "洛天依", "link": "https://music.163.com/artist?id=906118" },
+      { "name": "阿良良木健", "link": "https://music.163.com/artist?id=964311" }
+    ],
+    "album": {
+      "name": "牵一半",
+      "link": "https://music.163.com/album?id=92263114"
+    }
+  },
+  {
+    "name": "遗忘山丘",
+    "link": "https://music.163.com/song?id=1356379086",
+    "duration": "04:02",
+    "artists": [
+      {
+        "name": "阿良良木健",
+        "link": "https://music.163.com/artist?id=964311"
+      },
+      { "name": "洛天依", "link": "https://music.163.com/artist?id=906118" }
+    ],
+    "album": {
+      "name": "奇爱人生 LOVE ELEGIA",
+      "link": "https://music.163.com/album?id=74829483"
+    }
+  },
+  {
+    "name": "舞い落ちる花びら（Fallin' Flower） - (舞落的花瓣)",
+    "link": "https://music.163.com/song?id=1436264336",
+    "duration": "03:32",
+    "artists": [
+      { "name": "SEVENTEEN", "link": "https://music.163.com/artist?id=1080132" }
+    ],
+    "album": {
+      "name": "舞い落ちる花びら (Fallin' Flower)",
+      "link": "https://music.163.com/album?id=87234519"
+    }
+  },
+  {
+    "name": "Into the Battlefield - (电影《热血高校》最热配乐)",
+    "link": "https://music.163.com/song?id=4880738",
+    "duration": "04:46",
+    "artists": [
+      { "name": "大坪直樹", "link": "https://music.163.com/artist?id=12231031" }
+    ],
+    "album": {
+      "name": "クローズ ZERO オリジナル・サウンドトラック",
+      "link": "https://music.163.com/album?id=490251"
+    }
+  },
+  {
+    "name": "凉雨",
+    "link": "https://music.163.com/song?id=477137425",
+    "duration": "03:33",
+    "artists": [
+      { "name": "COP", "link": "https://music.163.com/artist?id=12002071" }
+    ],
+    "album": {
+      "name": "凉雨",
+      "link": "https://music.163.com/album?id=35459712"
+    }
+  },
+  {
+    "name": "时间日记",
+    "link": "https://music.163.com/song?id=495834939",
+    "duration": "05:11",
+    "artists": [
+      { "name": "湯ん", "link": "https://music.163.com/artist?id=12553459" }
+    ],
+    "album": {
+      "name": "时间日记",
+      "link": "https://music.163.com/album?id=35881711"
+    }
+  },
+  {
+    "name": "朝汐",
+    "link": "https://music.163.com/song?id=1315517813",
+    "duration": "04:55",
+    "artists": [
+      { "name": "音葉", "link": "https://music.163.com/artist?id=12481825" }
+    ],
+    "album": {
+      "name": "朝汐",
+      "link": "https://music.163.com/album?id=73776658"
+    }
+  },
+  {
+    "name": "My Face For The World To See",
+    "link": "https://music.163.com/song?id=19361613",
+    "duration": "03:18",
+    "artists": [
+      {
+        "name": "Trembling Blue Stars",
+        "link": "https://music.163.com/artist?id=78217"
+      }
+    ],
+    "album": {
+      "name": "Fast Trains And Telegraph Wires",
+      "link": "https://music.163.com/album?id=1780624"
+    }
+  },
+  {
+    "name": "Weightlifting",
+    "link": "https://music.163.com/song?id=3563913",
+    "duration": "04:39",
+    "artists": [
+      {
+        "name": "The Trash Can Sinatras",
+        "link": "https://music.163.com/artist?id=78264"
+      }
+    ],
+    "album": {
+      "name": "Weightlifting",
+      "link": "https://music.163.com/album?id=361089"
+    }
+  },
+  {
+    "name": "十三月",
+    "link": "https://music.163.com/song?id=1329051865",
+    "duration": "04:12",
+    "artists": [
+      { "name": "闹闹丶", "link": "https://music.163.com/artist?id=12357233" },
+      { "name": "洛天依", "link": "https://music.163.com/artist?id=906118" },
+      { "name": "乐正绫", "link": "https://music.163.com/artist?id=1102240" }
+    ],
+    "album": {
+      "name": "十三月",
+      "link": "https://music.163.com/album?id=74388083"
+    }
+  },
+  {
+    "name": "Pacific Dive",
+    "link": "https://music.163.com/song?id=428375598",
+    "duration": "03:47",
+    "artists": [
+      { "name": "Konut.", "link": "https://music.163.com/artist?id=12107577" }
+    ],
+    "album": {
+      "name": "Pacific Dive",
+      "link": "https://music.163.com/album?id=34861247"
+    }
+  },
+  {
+    "name": "Chasing the Skyline",
+    "link": "https://music.163.com/song?id=1861812678",
+    "duration": "07:15",
+    "artists": [
+      { "name": "Alexxon", "link": "https://music.163.com/artist?id=36405068" }
+    ],
+    "album": {
+      "name": "An Adventure",
+      "link": "https://music.163.com/album?id=130488628"
+    }
+  },
+  {
+    "name": "The Things We've Seen",
+    "link": "https://music.163.com/song?id=30394465",
+    "duration": "04:34",
+    "artists": [
+      { "name": "Feint", "link": "https://music.163.com/artist?id=93062" }
+    ],
+    "album": {
+      "name": "The Things We've Seen",
+      "link": "https://music.163.com/album?id=3098545"
+    }
+  },
+  {
+    "name": "很高兴能遇见你",
+    "link": "https://music.163.com/song?id=862919434",
+    "duration": "02:48",
+    "artists": [
+      {
+        "name": "TurtleDove斑鸠",
+        "link": "https://music.163.com/artist?id=12283168"
+      }
+    ],
+    "album": {
+      "name": "孤独者的避风港 3/PCS",
+      "link": "https://music.163.com/album?id=71637348"
+    }
+  },
+  {
+    "name": "Style",
+    "link": "https://music.163.com/song?id=1388967976",
+    "duration": "03:51",
+    "artists": [
+      {
+        "name": "Taylor Swift",
+        "link": "https://music.163.com/artist?id=44266"
+      }
+    ],
+    "album": {
+      "name": "Big Machine #1's, Volume 4",
+      "link": "https://music.163.com/album?id=81397474"
+    }
+  }
+]
