@@ -1,0 +1,447 @@
+[
+  {
+    "name": "Outside",
+    "link": "https://music.163.com/song?id=29561077",
+    "duration": "03:47",
+    "artists": [
+      {
+        "name": "Calvin Harris",
+        "link": "https://music.163.com/artist?id=29968"
+      },
+      {
+        "name": "Ellie Goulding",
+        "link": "https://music.163.com/artist?id=56598"
+      }
+    ],
+    "album": {
+      "name": "Motion",
+      "link": "https://music.163.com/album?id=3029170"
+    }
+  },
+  {
+    "name": "只为遇见你",
+    "link": "https://music.163.com/song?id=1380263700",
+    "duration": "03:12",
+    "artists": [
+      {
+        "name": "Peter-潘",
+        "link": "https://music.163.com/artist?id=12292467"
+      },
+      { "name": "谢雨纯", "link": "https://music.163.com/artist?id=12605484" }
+    ],
+    "album": {
+      "name": "Just to Meet You",
+      "link": "https://music.163.com/album?id=80562407"
+    }
+  },
+  {
+    "name": "Drive",
+    "link": "https://music.163.com/song?id=1377399730",
+    "duration": "06:50",
+    "artists": [
+      {
+        "name": "Roald Velden",
+        "link": "https://music.163.com/artist?id=178498"
+      }
+    ],
+    "album": {
+      "name": "Dawn",
+      "link": "https://music.163.com/album?id=80347362"
+    }
+  },
+  {
+    "name": "Visions",
+    "link": "https://music.163.com/song?id=1378858973",
+    "duration": "04:44",
+    "artists": [
+      { "name": "Resonance", "link": "https://music.163.com/artist?id=196588" }
+    ],
+    "album": {
+      "name": "Visions",
+      "link": "https://music.163.com/album?id=80494698"
+    }
+  },
+  {
+    "name": "复苏",
+    "link": "https://music.163.com/song?id=1351219567",
+    "duration": "03:33",
+    "artists": [
+      {
+        "name": "南征北战NZBZ",
+        "link": "https://music.163.com/artist?id=189873"
+      }
+    ],
+    "album": {
+      "name": "复苏",
+      "link": "https://music.163.com/album?id=75815313"
+    }
+  },
+  {
+    "name": "Next Summer (feat. Swedish Red Elephant)",
+    "link": "https://music.163.com/song?id=427542629",
+    "duration": "03:38",
+    "artists": [
+      { "name": "WHYLO", "link": "https://music.163.com/artist?id=12322304" },
+      {
+        "name": "Swedish Red Elephant",
+        "link": "https://music.163.com/artist?id=14277069"
+      }
+    ],
+    "album": {
+      "name": "Next Summer",
+      "link": "https://music.163.com/album?id=34855273"
+    }
+  },
+  {
+    "name": "Home",
+    "link": "https://music.163.com/song?id=409102911",
+    "duration": "03:57",
+    "artists": [
+      { "name": "王诗安", "link": "https://music.163.com/artist?id=805419" }
+    ],
+    "album": {
+      "name": "Diana Wang",
+      "link": "https://music.163.com/album?id=35052157"
+    }
+  },
+  {
+    "name": "Want U More (Radio Edit)",
+    "link": "https://music.163.com/song?id=1868207326",
+    "duration": "03:08",
+    "artists": [
+      { "name": "Hi Noise", "link": "https://music.163.com/artist?id=12061075" }
+    ],
+    "album": {
+      "name": "Want U More (Radio Edit)",
+      "link": "https://music.163.com/album?id=131549941"
+    }
+  },
+  {
+    "name": "再见",
+    "link": "https://music.163.com/song?id=36024806",
+    "duration": "03:26",
+    "artists": [
+      { "name": "G.E.M.邓紫棋", "link": "https://music.163.com/artist?id=7763" }
+    ],
+    "album": {
+      "name": "新的心跳",
+      "link": "https://music.163.com/album?id=3189002"
+    }
+  },
+  {
+    "name": "Pleasures",
+    "link": "https://music.163.com/song?id=1498842401",
+    "duration": "02:33",
+    "artists": [
+      { "name": "Keyfm", "link": "https://music.163.com/artist?id=34393359" }
+    ],
+    "album": {
+      "name": "Pleasures",
+      "link": "https://music.163.com/album?id=98788514"
+    }
+  },
+  {
+    "name": "Drop That Skirt (Radio Mix)",
+    "link": "https://music.163.com/song?id=566295511",
+    "duration": "02:54",
+    "artists": [
+      {
+        "name": "Croatia Squad",
+        "link": "https://music.163.com/artist?id=820489"
+      }
+    ],
+    "album": {
+      "name": "Sirup Dance Anthems Las Vegas 2015",
+      "link": "https://music.163.com/album?id=39251776"
+    }
+  },
+  {
+    "name": "Angels (Extended Mix)",
+    "link": "https://music.163.com/song?id=31477433",
+    "duration": "04:10",
+    "artists": [
+      { "name": "Vicetone", "link": "https://music.163.com/artist?id=747030" }
+    ],
+    "album": {
+      "name": "Angels (feat. Kat Nestel) ",
+      "link": "https://music.163.com/album?id=3124105"
+    }
+  },
+  {
+    "name": "Extasy (Cristian Poow Remix)",
+    "link": "https://music.163.com/song?id=30212221",
+    "duration": "06:46",
+    "artists": [
+      {
+        "name": "Phunk Investigation",
+        "link": "https://music.163.com/artist?id=663011"
+      }
+    ],
+    "album": {
+      "name": "Extasy",
+      "link": "https://music.163.com/album?id=3094230"
+    }
+  },
+  {
+    "name": "Guadalupe",
+    "link": "https://music.163.com/song?id=29402172",
+    "duration": "08:45",
+    "artists": [
+      {
+        "name": "James Woods",
+        "link": "https://music.163.com/artist?id=369295"
+      }
+    ],
+    "album": {
+      "name": "Guadalupe",
+      "link": "https://music.163.com/album?id=3019512"
+    }
+  },
+  {
+    "name": "Criminals",
+    "link": "https://music.163.com/song?id=1435850557",
+    "duration": "04:10",
+    "artists": [
+      { "name": "F.O.O.L", "link": "https://music.163.com/artist?id=93082" }
+    ],
+    "album": {
+      "name": "Revenger",
+      "link": "https://music.163.com/album?id=87128630"
+    }
+  },
+  {
+    "name": "Waterfall",
+    "link": "https://music.163.com/song?id=33911581",
+    "duration": "07:27",
+    "artists": [
+      {
+        "name": "Luigi Lusini",
+        "link": "https://music.163.com/artist?id=38282"
+      }
+    ],
+    "album": {
+      "name": "I'll Be Home",
+      "link": "https://music.163.com/album?id=3266157"
+    }
+  },
+  {
+    "name": "Toes in the Sand (Original Mix)",
+    "link": "https://music.163.com/song?id=17404319",
+    "duration": "06:48",
+    "artists": [
+      { "name": "Dinka", "link": "https://music.163.com/artist?id=55403" }
+    ],
+    "album": {
+      "name": "Innocence",
+      "link": "https://music.163.com/album?id=1603532"
+    }
+  },
+  {
+    "name": "Lake Arrowhead (Radio Mix)",
+    "link": "https://music.163.com/song?id=563129860",
+    "duration": "03:35",
+    "artists": [
+      {
+        "name": "Nora En Pure",
+        "link": "https://music.163.com/artist?id=207200"
+      }
+    ],
+    "album": {
+      "name": "Lake Arrowhead EP",
+      "link": "https://music.163.com/album?id=34678113"
+    }
+  },
+  {
+    "name": "Take Me",
+    "link": "https://music.163.com/song?id=442869978",
+    "duration": "03:11",
+    "artists": [
+      {
+        "name": "Anthony Keyrouz",
+        "link": "https://music.163.com/artist?id=12203139"
+      },
+      { "name": "LUDOMIR", "link": "https://music.163.com/artist?id=11992193" }
+    ],
+    "album": {
+      "name": "Take Me",
+      "link": "https://music.163.com/album?id=35017325"
+    }
+  },
+  {
+    "name": "These Words Between Us (Dub)",
+    "link": "https://music.163.com/song?id=33051322",
+    "duration": "07:04",
+    "artists": [
+      { "name": "Aelyn", "link": "https://music.163.com/artist?id=199554" },
+      {
+        "name": "Smooth Stab",
+        "link": "https://music.163.com/artist?id=15233716"
+      }
+    ],
+    "album": {
+      "name": "These Words Between Us",
+      "link": "https://music.163.com/album?id=3177162"
+    }
+  },
+  {
+    "name": "Hey Mama",
+    "link": "https://music.163.com/song?id=1830799856",
+    "duration": "03:16",
+    "artists": [
+      { "name": "Monk", "link": "https://music.163.com/artist?id=47007881" }
+    ],
+    "album": {
+      "name": "Hey Mama",
+      "link": "https://music.163.com/album?id=124783330"
+    }
+  },
+  {
+    "name": "Say Something (Sebastien Remix)",
+    "link": "https://music.163.com/song?id=35617718",
+    "duration": "05:55",
+    "artists": [
+      {
+        "name": "Sebastien",
+        "link": "https://music.163.com/artist?id=1171040"
+      },
+      {
+        "name": "A Great Big World",
+        "link": "https://music.163.com/artist?id=843001"
+      },
+      {
+        "name": "Christina Aguilera",
+        "link": "https://music.163.com/artist?id=50892"
+      }
+    ],
+    "album": {
+      "name": "Say Something",
+      "link": "https://music.163.com/album?id=3358124"
+    }
+  },
+  {
+    "name": "The Morning / 早上",
+    "link": "https://music.163.com/song?id=1337131900",
+    "duration": "02:44",
+    "artists": [
+      { "name": "J. Lisk", "link": "https://music.163.com/artist?id=12121101" }
+    ],
+    "album": {
+      "name": "The Morning / 早上",
+      "link": "https://music.163.com/album?id=75021840"
+    }
+  },
+  {
+    "name": "Gam Gam(Psy) 新东泰",
+    "link": "https://music.163.com/song?id=1807662016",
+    "duration": "03:05",
+    "artists": [
+      { "name": "DJ KAI", "link": "https://music.163.com/artist?id=35244973" }
+    ],
+    "album": {
+      "name": "Electro House（越南鼓）",
+      "link": "https://music.163.com/album?id=120904437"
+    }
+  },
+  {
+    "name": "我都明白 - (《追尾》官方主题曲)",
+    "link": "https://music.163.com/song?id=1809100933",
+    "duration": "04:09",
+    "artists": [
+      { "name": "范倪Liu", "link": "https://music.163.com/artist?id=37060073" }
+    ],
+    "album": {
+      "name": "我都明白",
+      "link": "https://music.163.com/album?id=121132672"
+    }
+  },
+  {
+    "name": "Fickle Game",
+    "link": "https://music.163.com/song?id=451701071",
+    "duration": "04:23",
+    "artists": [
+      { "name": "Amber Run", "link": "https://music.163.com/artist?id=855388" }
+    ],
+    "album": {
+      "name": "Fickle Game",
+      "link": "https://music.163.com/album?id=35113216"
+    }
+  },
+  {
+    "name": "Revenge",
+    "link": "https://music.163.com/song?id=1778290",
+    "duration": "04:54",
+    "artists": [
+      {
+        "name": "Wayne Coyne",
+        "link": "https://music.163.com/artist?id=179149"
+      },
+      {
+        "name": "Danger Mouse",
+        "link": "https://music.163.com/artist?id=31338"
+      },
+      {
+        "name": "Mark Linkous",
+        "link": "https://music.163.com/artist?id=40018"
+      }
+    ],
+    "album": {
+      "name": "Dark Night Of The Soul",
+      "link": "https://music.163.com/album?id=179805"
+    }
+  },
+  {
+    "name": "风吹过八千里",
+    "link": "https://music.163.com/song?id=1878620183",
+    "duration": "03:48",
+    "artists": [
+      { "name": "苏星婕", "link": "https://music.163.com/artist?id=46966451" }
+    ],
+    "album": {
+      "name": "风吹过八千里",
+      "link": "https://music.163.com/album?id=133318489"
+    }
+  },
+  {
+    "name": "Chase the Light",
+    "link": "https://music.163.com/song?id=35310220",
+    "duration": "06:33",
+    "artists": [
+      { "name": "Sundriver", "link": "https://music.163.com/artist?id=143845" }
+    ],
+    "album": {
+      "name": "Silk Royal Showcase 05",
+      "link": "https://music.163.com/album?id=3317050"
+    }
+  },
+  {
+    "name": "Edom - (iTunes Bonus Track)",
+    "link": "https://music.163.com/song?id=27713947",
+    "duration": "08:15",
+    "artists": [
+      { "name": "Avicii", "link": "https://music.163.com/artist?id=45236" }
+    ],
+    "album": {
+      "name": "True",
+      "link": "https://music.163.com/album?id=2643040"
+    }
+  },
+  {
+    "name": "Hare (Original Mix)",
+    "link": "https://music.163.com/song?id=433223928",
+    "duration": "06:27",
+    "artists": [
+      {
+        "name": "Bee Hunter",
+        "link": "https://music.163.com/artist?id=1019937"
+      },
+      {
+        "name": "Andrew Lang",
+        "link": "https://music.163.com/artist?id=745028"
+      }
+    ],
+    "album": {
+      "name": "Mangoes & Limes",
+      "link": "https://music.163.com/album?id=34886653"
+    }
+  }
+]
