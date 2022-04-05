@@ -1,0 +1,475 @@
+[
+  {
+    "name": "Reverie",
+    "link": "https://music.163.com/song?id=403710535",
+    "duration": "04:59",
+    "artists": [
+      { "name": "ILLENIUM", "link": "https://music.163.com/artist?id=1050518" },
+      {
+        "name": "Dana Salah",
+        "link": "https://music.163.com/artist?id=29433868"
+      }
+    ],
+    "album": {
+      "name": "Ashes",
+      "link": "https://music.163.com/album?id=34497141"
+    }
+  },
+  {
+    "name": "Taped Up Heart (Steerner Remix)",
+    "link": "https://music.163.com/song?id=475073409",
+    "duration": "02:30",
+    "artists": [
+      { "name": "Steerner", "link": "https://music.163.com/artist?id=783190" },
+      { "name": "KREAM", "link": "https://music.163.com/artist?id=12006260" }
+    ],
+    "album": {
+      "name": "Taped Up Heart (Steerner Remix) ",
+      "link": "https://music.163.com/album?id=35443086"
+    }
+  },
+  {
+    "name": "Hide Away",
+    "link": "https://music.163.com/song?id=1876230002",
+    "duration": "02:30",
+    "artists": [
+      { "name": "VINAI", "link": "https://music.163.com/artist?id=804422" },
+      {
+        "name": "La Vision",
+        "link": "https://music.163.com/artist?id=31259957"
+      }
+    ],
+    "album": {
+      "name": "Hide Away",
+      "link": "https://music.163.com/album?id=132879902"
+    }
+  },
+  {
+    "name": "Superstar (Dirty Rush & Gregor Es Remix)",
+    "link": "https://music.163.com/song?id=472219715",
+    "duration": "05:48",
+    "artists": [
+      { "name": "Mandee", "link": "https://music.163.com/artist?id=12171036" },
+      {
+        "name": "Dirty Rush & Gregor Es",
+        "link": "https://music.163.com/artist?id=12097106"
+      },
+      {
+        "name": "Maria Mathea",
+        "link": "https://music.163.com/artist?id=14261152"
+      }
+    ],
+    "album": {
+      "name": "Superstar (Remixes)",
+      "link": "https://music.163.com/album?id=35357399"
+    }
+  },
+  {
+    "name": "Home (Radio Edit)",
+    "link": "https://music.163.com/song?id=400075248",
+    "duration": "03:18",
+    "artists": [
+      { "name": "Dogena", "link": "https://music.163.com/artist?id=1049091" }
+    ],
+    "album": {
+      "name": "Home",
+      "link": "https://music.163.com/album?id=34428059"
+    }
+  },
+  {
+    "name": "Never Too Late",
+    "link": "https://music.163.com/song?id=1340754993",
+    "duration": "07:35",
+    "artists": [
+      { "name": "Alex H", "link": "https://music.163.com/artist?id=370950" },
+      {
+        "name": "Lumidelic",
+        "link": "https://music.163.com/artist?id=12647403"
+      }
+    ],
+    "album": {
+      "name": "Never Too Late",
+      "link": "https://music.163.com/album?id=75263178"
+    }
+  },
+  {
+    "name": "Another Day (Deluxe Edit)",
+    "link": "https://music.163.com/song?id=1855545729",
+    "duration": "02:36",
+    "artists": [
+      {
+        "name": "Rnbstylerz",
+        "link": "https://music.163.com/artist?id=33200069"
+      }
+    ],
+    "album": {
+      "name": "Another Day",
+      "link": "https://music.163.com/album?id=129380001"
+    }
+  },
+  {
+    "name": "Sunset",
+    "link": "https://music.163.com/song?id=36024371",
+    "duration": "03:00",
+    "artists": [
+      {
+        "name": "We Are One",
+        "link": "https://music.163.com/artist?id=12108040"
+      },
+      { "name": "Ennex", "link": "https://music.163.com/artist?id=1089100" },
+      { "name": "Linne", "link": "https://music.163.com/artist?id=1177226" },
+      {
+        "name": "Axel Wernberg",
+        "link": "https://music.163.com/artist?id=1178246"
+      }
+    ],
+    "album": {
+      "name": "Sunset",
+      "link": "https://music.163.com/album?id=3377426"
+    }
+  },
+  {
+    "name": "Little Things",
+    "link": "https://music.163.com/song?id=516320062",
+    "duration": "07:13",
+    "artists": [
+      {
+        "name": "Roald Velden",
+        "link": "https://music.163.com/artist?id=178498"
+      }
+    ],
+    "album": {
+      "name": "Behind Every Picture",
+      "link": "https://music.163.com/album?id=36700035"
+    }
+  },
+  {
+    "name": "Tough Love",
+    "link": "https://music.163.com/song?id=1370108694",
+    "duration": "03:11",
+    "artists": [
+      { "name": "Avicii", "link": "https://music.163.com/artist?id=45236" },
+      { "name": "Agnes", "link": "https://music.163.com/artist?id=46524" },
+      {
+        "name": "Vargas & Lagola",
+        "link": "https://music.163.com/artist?id=12279249"
+      }
+    ],
+    "album": {
+      "name": "TIM",
+      "link": "https://music.163.com/album?id=79638731"
+    }
+  },
+  {
+    "name": "Inspiration (Original Mix)",
+    "link": "https://music.163.com/song?id=33252492",
+    "duration": "05:18",
+    "artists": [
+      {
+        "name": "Radar Detector",
+        "link": "https://music.163.com/artist?id=1049453"
+      }
+    ],
+    "album": {
+      "name": "Chillout Paradise Volume 012",
+      "link": "https://music.163.com/album?id=3190422"
+    }
+  },
+  {
+    "name": "Let It Go",
+    "link": "https://music.163.com/song?id=1888795276",
+    "duration": "02:20",
+    "artists": [
+      { "name": "J. Lisk", "link": "https://music.163.com/artist?id=12121101" }
+    ],
+    "album": {
+      "name": "Let It Go",
+      "link": "https://music.163.com/album?id=135093667"
+    }
+  },
+  {
+    "name": "像我这样的人",
+    "link": "https://music.163.com/song?id=569213220",
+    "duration": "03:27",
+    "artists": [
+      { "name": "毛不易", "link": "https://music.163.com/artist?id=12138269" }
+    ],
+    "album": {
+      "name": "平凡的一天",
+      "link": "https://music.163.com/album?id=39483040"
+    }
+  },
+  {
+    "name": "年少有为",
+    "link": "https://music.163.com/song?id=1293886117",
+    "duration": "04:38",
+    "artists": [
+      { "name": "李荣浩", "link": "https://music.163.com/artist?id=4292" }
+    ],
+    "album": {
+      "name": "耳朵",
+      "link": "https://music.163.com/album?id=73914415"
+    }
+  },
+  {
+    "name": "那时窗外开满花",
+    "link": "https://music.163.com/song?id=509704150",
+    "duration": "03:35",
+    "artists": [
+      { "name": "王金金", "link": "https://music.163.com/artist?id=12258611" }
+    ],
+    "album": {
+      "name": "那时窗外开满花",
+      "link": "https://music.163.com/album?id=36412488"
+    }
+  },
+  {
+    "name": "像鱼",
+    "link": "https://music.163.com/song?id=1331819951",
+    "duration": "04:45",
+    "artists": [
+      { "name": "王贰浪", "link": "https://music.163.com/artist?id=14312549" }
+    ],
+    "album": {
+      "name": "像鱼",
+      "link": "https://music.163.com/album?id=74793881"
+    }
+  },
+  {
+    "name": "Aqua",
+    "link": "https://music.163.com/song?id=463722628",
+    "duration": "02:48",
+    "artists": [
+      {
+        "name": "Frank_Jiang",
+        "link": "https://music.163.com/artist?id=12198951"
+      }
+    ],
+    "album": {
+      "name": "Aqua",
+      "link": "https://music.163.com/album?id=35249351"
+    }
+  },
+  {
+    "name": "7 %",
+    "link": "https://music.163.com/song?id=1423241987",
+    "duration": "02:52",
+    "artists": [
+      { "name": "XMASwu", "link": "https://music.163.com/artist?id=31309410" }
+    ],
+    "album": { "name": "柒", "link": "https://music.163.com/album?id=85683316" }
+  },
+  {
+    "name": "形容",
+    "link": "https://music.163.com/song?id=1336856864",
+    "duration": "03:45",
+    "artists": [
+      { "name": "沈以诚", "link": "https://music.163.com/artist?id=12002248" }
+    ],
+    "album": {
+      "name": "初遇",
+      "link": "https://music.163.com/album?id=78232124"
+    }
+  },
+  {
+    "name": "山楂树之恋",
+    "link": "https://music.163.com/song?id=1381755293",
+    "duration": "03:04",
+    "artists": [
+      { "name": "程佳佳", "link": "https://music.163.com/artist?id=31802946" }
+    ],
+    "album": {
+      "name": "山楂树之恋 (完整版)",
+      "link": "https://music.163.com/album?id=80754209"
+    }
+  },
+  {
+    "name": "慢热",
+    "link": "https://music.163.com/song?id=1824025894",
+    "duration": "03:10",
+    "artists": [
+      { "name": "满舒克", "link": "https://music.163.com/artist?id=188141" }
+    ],
+    "album": {
+      "name": "慢热",
+      "link": "https://music.163.com/album?id=123720309"
+    }
+  },
+  {
+    "name": "你走以后1.0",
+    "link": "https://music.163.com/song?id=1363205817",
+    "duration": "03:54",
+    "artists": [
+      {
+        "name": "王恩信Est",
+        "link": "https://music.163.com/artist?id=12904290"
+      },
+      {
+        "name": "二胖u（王訫）",
+        "link": "https://music.163.com/artist?id=12923493"
+      }
+    ],
+    "album": {
+      "name": "你走以后1.0",
+      "link": "https://music.163.com/album?id=78883169"
+    }
+  },
+  {
+    "name": "踏山河",
+    "link": "https://music.163.com/song?id=1804320463",
+    "duration": "02:48",
+    "artists": [
+      {
+        "name": "七叔-叶泽浩",
+        "link": "https://music.163.com/artist?id=31002807"
+      }
+    ],
+    "album": {
+      "name": "踏山河",
+      "link": "https://music.163.com/album?id=120422780"
+    }
+  },
+  {
+    "name": "Alcastar",
+    "link": "https://music.163.com/song?id=1812008503",
+    "duration": "02:06",
+    "artists": [
+      {
+        "name": "Rustam 330",
+        "link": "https://music.163.com/artist?id=46273988"
+      }
+    ],
+    "album": {
+      "name": "Alcastar (抖音DJ热搜版)",
+      "link": "https://music.163.com/album?id=121600123"
+    }
+  },
+  {
+    "name": "Yours",
+    "link": "https://music.163.com/song?id=1410833430",
+    "duration": "03:35",
+    "artists": [
+      { "name": "A.LOVE", "link": "https://music.163.com/artist?id=35012858" }
+    ],
+    "album": {
+      "name": "Yours",
+      "link": "https://music.163.com/album?id=84240490"
+    }
+  },
+  {
+    "name": "Loucetios (feat. Oliver&鏡音レン)",
+    "link": "https://music.163.com/song?id=1376084681",
+    "duration": "03:58",
+    "artists": [
+      {
+        "name": "momocashew",
+        "link": "https://music.163.com/artist?id=30514420"
+      },
+      { "name": "Oliver", "link": "https://music.163.com/artist?id=29150371" },
+      { "name": "鏡音レン", "link": "https://music.163.com/artist?id=190527" }
+    ],
+    "album": {
+      "name": "Loucetios",
+      "link": "https://music.163.com/album?id=80234499"
+    }
+  },
+  {
+    "name": "Who Said",
+    "link": "https://music.163.com/song?id=1432572382",
+    "duration": "02:29",
+    "artists": [
+      {
+        "name": "rocstaryoshi",
+        "link": "https://music.163.com/artist?id=32713219"
+      }
+    ],
+    "album": {
+      "name": "Who Said",
+      "link": "https://music.163.com/album?id=86695713"
+    }
+  },
+  {
+    "name": "When I Grow Up",
+    "link": "https://music.163.com/song?id=17904919",
+    "duration": "03:35",
+    "artists": [
+      {
+        "name": "First Aid Kit",
+        "link": "https://music.163.com/artist?id=92449"
+      }
+    ],
+    "album": {
+      "name": "Ghost Town",
+      "link": "https://music.163.com/album?id=1647138"
+    }
+  },
+  {
+    "name": "不知者",
+    "link": "https://music.163.com/song?id=545101194",
+    "duration": "04:00",
+    "artists": [
+      { "name": "COP", "link": "https://music.163.com/artist?id=12002071" }
+    ],
+    "album": {
+      "name": "不知者",
+      "link": "https://music.163.com/album?id=37903633"
+    }
+  },
+  {
+    "name": "Up Next",
+    "link": "https://music.163.com/song?id=1435423063",
+    "duration": "04:06",
+    "artists": [
+      {
+        "name": "Robin Banks",
+        "link": "https://music.163.com/artist?id=290720"
+      }
+    ],
+    "album": {
+      "name": "The Entertainment",
+      "link": "https://music.163.com/album?id=87039580"
+    }
+  },
+  {
+    "name": "TRY",
+    "link": "https://music.163.com/song?id=1424424365",
+    "duration": "02:07",
+    "artists": [
+      {
+        "name": "Henrik Wong",
+        "link": "https://music.163.com/artist?id=32931604"
+      }
+    ],
+    "album": {
+      "name": "Try",
+      "link": "https://music.163.com/album?id=85796599"
+    }
+  },
+  {
+    "name": "Everywhere Music (Original Mix)",
+    "link": "https://music.163.com/song?id=28364825",
+    "duration": "07:45",
+    "artists": [
+      {
+        "name": "James Woods",
+        "link": "https://music.163.com/artist?id=369295"
+      }
+    ],
+    "album": {
+      "name": "Best Of 2012 WeRecommendRecords",
+      "link": "https://music.163.com/album?id=2779926"
+    }
+  },
+  {
+    "name": "第十二夜",
+    "link": "https://music.163.com/song?id=1308782725",
+    "duration": "04:35",
+    "artists": [
+      { "name": "汪苏泷", "link": "https://music.163.com/artist?id=5538" }
+    ],
+    "album": {
+      "name": "克制凶猛",
+      "link": "https://music.163.com/album?id=72797059"
+    }
+  }
+]
