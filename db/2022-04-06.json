@@ -1,0 +1,502 @@
+[
+  {
+    "name": "Bulletproof",
+    "link": "https://music.163.com/song?id=1320101186",
+    "duration": "03:27",
+    "artists": [
+      {
+        "name": "Ben Woodward",
+        "link": "https://music.163.com/artist?id=551689"
+      }
+    ],
+    "album": {
+      "name": "Bulletproof",
+      "link": "https://music.163.com/album?id=74062671"
+    }
+  },
+  {
+    "name": "Million Dollar Mood",
+    "link": "https://music.163.com/song?id=1337296869",
+    "duration": "02:55",
+    "artists": [
+      {
+        "name": "WEALTHYSELF",
+        "link": "https://music.163.com/artist?id=27864242"
+      },
+      {
+        "name": "Miranda Glory",
+        "link": "https://music.163.com/artist?id=12463504"
+      },
+      { "name": "CANCUN?", "link": "https://music.163.com/artist?id=27863745" }
+    ],
+    "album": {
+      "name": "Million Dollar Mood",
+      "link": "https://music.163.com/album?id=75042967"
+    }
+  },
+  {
+    "name": "Into You (Acoustic Version)",
+    "link": "https://music.163.com/song?id=1390728547",
+    "duration": "02:56",
+    "artists": [
+      {
+        "name": "Matisse & Sadko",
+        "link": "https://music.163.com/artist?id=947054"
+      },
+      {
+        "name": "Hanne Mjøen",
+        "link": "https://music.163.com/artist?id=12122217"
+      }
+    ],
+    "album": {
+      "name": "Into You (The Remixes)",
+      "link": "https://music.163.com/album?id=81621756"
+    }
+  },
+  {
+    "name": "Difficult",
+    "link": "https://music.163.com/song?id=1371476393",
+    "duration": "02:44",
+    "artists": [
+      {
+        "name": "Jay Bombay",
+        "link": "https://music.163.com/artist?id=327248"
+      },
+      { "name": "NEIMY", "link": "https://music.163.com/artist?id=12742289" }
+    ],
+    "album": {
+      "name": "Difficult",
+      "link": "https://music.163.com/album?id=79762476"
+    }
+  },
+  {
+    "name": "空白の車窓から",
+    "link": "https://music.163.com/song?id=1931018717",
+    "duration": "05:38",
+    "artists": [
+      { "name": "amazarashi", "link": "https://music.163.com/artist?id=18480" }
+    ],
+    "album": {
+      "name": "空白の車窓から",
+      "link": "https://music.163.com/album?id=142295677"
+    }
+  },
+  {
+    "name": "岛",
+    "link": "https://music.163.com/song?id=1308818695",
+    "duration": "03:48",
+    "artists": [
+      { "name": "汪苏泷", "link": "https://music.163.com/artist?id=5538" }
+    ],
+    "album": {
+      "name": "克制凶猛",
+      "link": "https://music.163.com/album?id=72797059"
+    }
+  },
+  {
+    "name": "Catch My Breath",
+    "link": "https://music.163.com/song?id=26613394",
+    "duration": "04:11",
+    "artists": [
+      {
+        "name": "Kelly Clarkson",
+        "link": "https://music.163.com/artist?id=62885"
+      }
+    ],
+    "album": {
+      "name": "Remixes Big Deluxe",
+      "link": "https://music.163.com/album?id=2535679"
+    }
+  },
+  {
+    "name": "Don't Let Me Down",
+    "link": "https://music.163.com/song?id=402070862",
+    "duration": "03:28",
+    "artists": [
+      {
+        "name": "The Chainsmokers",
+        "link": "https://music.163.com/artist?id=893484"
+      },
+      { "name": "Daya", "link": "https://music.163.com/artist?id=1081186" }
+    ],
+    "album": {
+      "name": "Don't Let Me Down",
+      "link": "https://music.163.com/album?id=34477274"
+    }
+  },
+  {
+    "name": "Fight Song",
+    "link": "https://music.163.com/song?id=29803675",
+    "duration": "03:22",
+    "artists": [
+      {
+        "name": "Rachel Platten",
+        "link": "https://music.163.com/artist?id=74518"
+      }
+    ],
+    "album": {
+      "name": "Fight Song",
+      "link": "https://music.163.com/album?id=3081170"
+    }
+  },
+  {
+    "name": "I'm So Tired Of Love Songs",
+    "link": "https://music.163.com/song?id=1344262001",
+    "duration": "03:10",
+    "artists": [
+      {
+        "name": "Wildflowers",
+        "link": "https://music.163.com/artist?id=12977810"
+      },
+      {
+        "name": "Megan Tibbits",
+        "link": "https://music.163.com/artist?id=30065117"
+      }
+    ],
+    "album": {
+      "name": "I'm So Tired Of Love Songs",
+      "link": "https://music.163.com/album?id=75459203"
+    }
+  },
+  {
+    "name": "In My Mind",
+    "link": "https://music.163.com/song?id=1361115586",
+    "duration": "03:21",
+    "artists": [
+      {
+        "name": "Jealous Friend",
+        "link": "https://music.163.com/artist?id=31382683"
+      },
+      {
+        "name": "Alex Parker",
+        "link": "https://music.163.com/artist?id=280735"
+      },
+      {
+        "name": "Olivia Addams",
+        "link": "https://music.163.com/artist?id=28657767"
+      }
+    ],
+    "album": {
+      "name": "In My Mind",
+      "link": "https://music.163.com/album?id=78751934"
+    }
+  },
+  {
+    "name": "My Way",
+    "link": "https://music.163.com/song?id=1839119892",
+    "duration": "03:21",
+    "artists": [
+      { "name": "Cassette", "link": "https://music.163.com/artist?id=47881667" }
+    ],
+    "album": {
+      "name": "My Way",
+      "link": "https://music.163.com/album?id=126332009"
+    }
+  },
+  {
+    "name": "House of Cards",
+    "link": "https://music.163.com/song?id=31545205",
+    "duration": "03:32",
+    "artists": [
+      {
+        "name": "Tyler Shaw",
+        "link": "https://music.163.com/artist?id=1028192"
+      }
+    ],
+    "album": {
+      "name": "House of Cards",
+      "link": "https://music.163.com/album?id=3124411"
+    }
+  },
+  {
+    "name": "Love Me Like You Never Did",
+    "link": "https://music.163.com/song?id=411349620",
+    "duration": "04:22",
+    "artists": [
+      {
+        "name": "Markus Schulz",
+        "link": "https://music.163.com/artist?id=38930"
+      },
+      {
+        "name": "Ethan Thompson",
+        "link": "https://music.163.com/artist?id=1105055"
+      }
+    ],
+    "album": {
+      "name": "Watch the World",
+      "link": "https://music.163.com/album?id=34678243"
+    }
+  },
+  {
+    "name": "Need You Now",
+    "link": "https://music.163.com/song?id=1469748657",
+    "duration": "03:55",
+    "artists": [{ "name": "Lady A1x36ntebellum", "link": "" }],
+    "album": {
+      "name": "Romantic Pop Songs",
+      "link": "https://music.163.com/album?id=93729416"
+    }
+  },
+  {
+    "name": "Hold Us Together",
+    "link": "https://music.163.com/song?id=480517594",
+    "duration": "03:41",
+    "artists": [
+      { "name": "WILD", "link": "https://music.163.com/artist?id=12074090" }
+    ],
+    "album": {
+      "name": "Hold Us Together",
+      "link": "https://music.163.com/album?id=35550333"
+    }
+  },
+  {
+    "name": "Not My Party",
+    "link": "https://music.163.com/song?id=1403374745",
+    "duration": "02:53",
+    "artists": [
+      {
+        "name": "Strandels",
+        "link": "https://music.163.com/artist?id=12171083"
+      }
+    ],
+    "album": {
+      "name": "Not My Party",
+      "link": "https://music.163.com/album?id=83316624"
+    }
+  },
+  {
+    "name": "You’ll Be Mine",
+    "link": "https://music.163.com/song?id=27836503",
+    "duration": "04:10",
+    "artists": [
+      {
+        "name": "Havana Brown",
+        "link": "https://music.163.com/artist?id=55440"
+      },
+      { "name": "R3HAB", "link": "https://music.163.com/artist?id=197248" }
+    ],
+    "album": {
+      "name": "Flashing Lights (Deluxe Version)",
+      "link": "https://music.163.com/album?id=2685073"
+    }
+  },
+  {
+    "name": "Strongest",
+    "link": "https://music.163.com/song?id=515223584",
+    "duration": "03:27",
+    "artists": [
+      {
+        "name": "Ina Wroldsen",
+        "link": "https://music.163.com/artist?id=60879"
+      }
+    ],
+    "album": {
+      "name": "Strongest",
+      "link": "https://music.163.com/album?id=36515735"
+    }
+  },
+  {
+    "name": "I'm Living to Love You",
+    "link": "https://music.163.com/song?id=17232222",
+    "duration": "03:20",
+    "artists": [
+      { "name": "DJ Bobo", "link": "https://music.163.com/artist?id=31304" }
+    ],
+    "album": {
+      "name": "Dancing Las Vegas",
+      "link": "https://music.163.com/album?id=1588613"
+    }
+  },
+  {
+    "name": "One Day",
+    "link": "https://music.163.com/song?id=27506983",
+    "duration": "03:15",
+    "artists": [
+      { "name": "Emblem3", "link": "https://music.163.com/artist?id=804398" }
+    ],
+    "album": {
+      "name": "Nothing To Lose",
+      "link": "https://music.163.com/album?id=2621296"
+    }
+  },
+  {
+    "name": "光",
+    "link": "https://music.163.com/song?id=1823421751",
+    "duration": "03:20",
+    "artists": [
+      { "name": "张维珈", "link": "https://music.163.com/artist?id=33796172" },
+      { "name": "杨雨潇", "link": "https://music.163.com/artist?id=35946962" },
+      { "name": "刘在田", "link": "https://music.163.com/artist?id=12173175" },
+      {
+        "name": "张天奕ZTYick",
+        "link": "https://music.163.com/artist?id=12304366"
+      }
+    ],
+    "album": {
+      "name": "光",
+      "link": "https://music.163.com/album?id=123548863"
+    }
+  },
+  {
+    "name": "Last Time",
+    "link": "https://music.163.com/song?id=33340018",
+    "duration": "05:48",
+    "artists": [
+      {
+        "name": "Mark & Lukas",
+        "link": "https://music.163.com/artist?id=1104097"
+      }
+    ],
+    "album": {
+      "name": "Endless Summer 2015",
+      "link": "https://music.163.com/album?id=3199043"
+    }
+  },
+  {
+    "name": "Something Just Like This (Le Boeuf Remix)",
+    "link": "https://music.163.com/song?id=462686981",
+    "duration": "02:54",
+    "artists": [
+      { "name": "Le Boeuf", "link": "https://music.163.com/artist?id=1147098" }
+    ],
+    "album": {
+      "name": "Something Just Like This (Le Boeuf Remix)",
+      "link": "https://music.163.com/album?id=35232202"
+    }
+  },
+  {
+    "name": "When Winter Comes",
+    "link": "https://music.163.com/song?id=417250199",
+    "duration": "06:31",
+    "artists": [
+      {
+        "name": "Miroslav Vrlik",
+        "link": "https://music.163.com/artist?id=96725"
+      },
+      {
+        "name": "Mark & Lukas",
+        "link": "https://music.163.com/artist?id=1104097"
+      }
+    ],
+    "album": {
+      "name": "When Winter Comes ",
+      "link": "https://music.163.com/album?id=34738081"
+    }
+  },
+  {
+    "name": "流连已逝",
+    "link": "https://music.163.com/song?id=1849056690",
+    "duration": "03:10",
+    "artists": [
+      { "name": "宁晚晚", "link": "https://music.163.com/artist?id=48215151" }
+    ],
+    "album": {
+      "name": "后来的我们断了联系",
+      "link": "https://music.163.com/album?id=128180581"
+    }
+  },
+  {
+    "name": "Weis electronic-A",
+    "link": "https://music.163.com/song?id=1351795871",
+    "duration": "03:17",
+    "artists": [
+      {
+        "name": "阳山伟伟",
+        "link": "https://music.163.com/artist?id=12641107"
+      },
+      {
+        "name": "聚合声远音乐",
+        "link": "https://music.163.com/artist?id=31613168"
+      }
+    ],
+    "album": {
+      "name": "Weis electronic-A",
+      "link": "https://music.163.com/album?id=75840587"
+    }
+  },
+  {
+    "name": "Canto Grande (Original Mix)",
+    "link": "https://music.163.com/song?id=412016384",
+    "duration": "07:22",
+    "artists": [
+      { "name": "Musty", "link": "https://music.163.com/artist?id=12080271" }
+    ],
+    "album": {
+      "name": "Elliptical Sun Sampler 016",
+      "link": "https://music.163.com/album?id=34678583"
+    }
+  },
+  {
+    "name": "MOM - (妈妈)",
+    "link": "https://music.163.com/song?id=1387581250",
+    "duration": "02:54",
+    "artists": [
+      { "name": "蜡笔小心", "link": "https://music.163.com/artist?id=1155027" }
+    ],
+    "album": {
+      "name": "MOM",
+      "link": "https://music.163.com/album?id=81213684"
+    }
+  },
+  {
+    "name": "你的答案",
+    "link": "https://music.163.com/song?id=1400256289",
+    "duration": "03:39",
+    "artists": [
+      { "name": "阿冗", "link": "https://music.163.com/artist?id=30116848" }
+    ],
+    "album": {
+      "name": "你的答案",
+      "link": "https://music.163.com/album?id=82895847"
+    }
+  },
+  {
+    "name": "狐狸的童话 - (冬天的记忆小巷里面吹过晚风)",
+    "link": "https://music.163.com/song?id=1815105886",
+    "duration": "02:36",
+    "artists": [
+      {
+        "name": "Santa_SA",
+        "link": "https://music.163.com/artist?id=34230619"
+      },
+      {
+        "name": "马也_Crabbit",
+        "link": "https://music.163.com/artist?id=13288861"
+      }
+    ],
+    "album": {
+      "name": "狐狸的童话",
+      "link": "https://music.163.com/album?id=122154939"
+    }
+  },
+  {
+    "name": "La Llorona",
+    "link": "https://music.163.com/song?id=550021891",
+    "duration": "05:48",
+    "artists": [
+      { "name": "MAIKA", "link": "https://music.163.com/artist?id=13797400" },
+      {
+        "name": "Steampianist",
+        "link": "https://music.163.com/artist?id=12369114"
+      },
+      { "name": "GUMI", "link": "https://music.163.com/artist?id=188274" },
+      { "name": "Oliver", "link": "https://music.163.com/artist?id=29150371" }
+    ],
+    "album": {
+      "name": "Assorted Vocanuts (Vocaloid)",
+      "link": "https://music.163.com/album?id=38213783"
+    }
+  },
+  {
+    "name": "Indigo",
+    "link": "https://music.163.com/song?id=514531602",
+    "duration": "03:27",
+    "artists": [
+      { "name": "DoubleV", "link": "https://music.163.com/artist?id=421143" }
+    ],
+    "album": {
+      "name": "Indigo",
+      "link": "https://music.163.com/album?id=36656503"
+    }
+  }
+]
