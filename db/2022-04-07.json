@@ -1,0 +1,437 @@
+[
+  {
+    "name": "Never Be",
+    "link": "https://music.163.com/song?id=1339331657",
+    "duration": "02:58",
+    "artists": [
+      {
+        "name": "Marin Hoxha",
+        "link": "https://music.163.com/artist?id=12474391"
+      }
+    ],
+    "album": {
+      "name": "Never Be",
+      "link": "https://music.163.com/album?id=75170698"
+    }
+  },
+  {
+    "name": "Millenia",
+    "link": "https://music.163.com/song?id=1402964946",
+    "duration": "02:46",
+    "artists": [
+      {
+        "name": "Pixel Terror",
+        "link": "https://music.163.com/artist?id=12901261"
+      }
+    ],
+    "album": {
+      "name": "Millenia",
+      "link": "https://music.163.com/album?id=83238541"
+    }
+  },
+  {
+    "name": "Gravity",
+    "link": "https://music.163.com/song?id=1369732605",
+    "duration": "03:23",
+    "artists": [
+      { "name": "Ralph", "link": "https://music.163.com/artist?id=12049282" }
+    ],
+    "album": {
+      "name": "Gravity",
+      "link": "https://music.163.com/album?id=79603585"
+    }
+  },
+  {
+    "name": "Take You Down",
+    "link": "https://music.163.com/song?id=1297747560",
+    "duration": "03:41",
+    "artists": [
+      { "name": "ILLENIUM", "link": "https://music.163.com/artist?id=1050518" }
+    ],
+    "album": {
+      "name": "Take You Down",
+      "link": "https://music.163.com/album?id=72070801"
+    }
+  },
+  {
+    "name": "City Lights",
+    "link": "https://music.163.com/song?id=1482056858",
+    "duration": "03:07",
+    "artists": [
+      { "name": "Caslow", "link": "https://music.163.com/artist?id=15109745" },
+      { "name": "Exede", "link": "https://music.163.com/artist?id=13059879" }
+    ],
+    "album": {
+      "name": "City Lights",
+      "link": "https://music.163.com/album?id=95922800"
+    }
+  },
+  {
+    "name": "Here With Me",
+    "link": "https://music.163.com/song?id=1350656778",
+    "duration": "02:36",
+    "artists": [
+      {
+        "name": "Marshmello",
+        "link": "https://music.163.com/artist?id=1060019"
+      },
+      { "name": "CHVRCHES", "link": "https://music.163.com/artist?id=694027" }
+    ],
+    "album": {
+      "name": "Here With Me",
+      "link": "https://music.163.com/album?id=75798672"
+    }
+  },
+  {
+    "name": "Destiny",
+    "link": "https://music.163.com/song?id=409031649",
+    "duration": "02:23",
+    "artists": [
+      { "name": "K3vin", "link": "https://music.163.com/artist?id=12023495" }
+    ],
+    "album": {
+      "name": "Destiny",
+      "link": "https://music.163.com/album?id=34604103"
+    }
+  },
+  {
+    "name": "Insomnia",
+    "link": "https://music.163.com/song?id=1350638256",
+    "duration": "02:59",
+    "artists": [
+      { "name": "Daya", "link": "https://music.163.com/artist?id=1081186" }
+    ],
+    "album": {
+      "name": "Insomnia",
+      "link": "https://music.163.com/album?id=75797761"
+    }
+  },
+  {
+    "name": "Stupid",
+    "link": "https://music.163.com/song?id=3780390",
+    "duration": "02:50",
+    "artists": [
+      {
+        "name": "Tone Damli Aaberge",
+        "link": "https://music.163.com/artist?id=83122"
+      }
+    ],
+    "album": {
+      "name": "Cocool",
+      "link": "https://music.163.com/album?id=382490"
+    }
+  },
+  {
+    "name": "失重 / Roche Limit",
+    "link": "https://music.163.com/song?id=1466915209",
+    "duration": "03:50",
+    "artists": [
+      {
+        "name": "Eric Chen",
+        "link": "https://music.163.com/artist?id=12605661"
+      },
+      { "name": "折", "link": "https://music.163.com/artist?id=36148045" }
+    ],
+    "album": {
+      "name": "失重 / Roche Limit",
+      "link": "https://music.163.com/album?id=93200742"
+    }
+  },
+  {
+    "name": "Let Me Down Slowly",
+    "link": "https://music.163.com/song?id=1406399438",
+    "duration": "03:11",
+    "artists": [
+      {
+        "name": "Cyan Kicks",
+        "link": "https://music.163.com/artist?id=12532906"
+      }
+    ],
+    "album": {
+      "name": "Let Me Down Slowly",
+      "link": "https://music.163.com/album?id=83732112"
+    }
+  },
+  {
+    "name": "I Do",
+    "link": "https://music.163.com/song?id=28256115",
+    "duration": "03:27",
+    "artists": [
+      { "name": "911", "link": "https://music.163.com/artist?id=46396" }
+    ],
+    "album": {
+      "name": "I Do",
+      "link": "https://music.163.com/album?id=2762022"
+    }
+  },
+  {
+    "name": "I Love It",
+    "link": "https://music.163.com/song?id=1345318197",
+    "duration": "02:40",
+    "artists": [
+      {
+        "name": "Oscar Enestad",
+        "link": "https://music.163.com/artist?id=27693458"
+      }
+    ],
+    "album": {
+      "name": "I Love It",
+      "link": "https://music.163.com/album?id=75512276"
+    }
+  },
+  {
+    "name": "Re-arrange",
+    "link": "https://music.163.com/song?id=420134926",
+    "duration": "03:38",
+    "artists": [
+      { "name": "Biffy Clyro", "link": "https://music.163.com/artist?id=88194" }
+    ],
+    "album": {
+      "name": "Ellipsis (Deluxe)",
+      "link": "https://music.163.com/album?id=34565233"
+    }
+  },
+  {
+    "name": "Fade Into Darkness (Vocal Radio Mix)",
+    "link": "https://music.163.com/song?id=2059743",
+    "duration": "03:18",
+    "artists": [
+      { "name": "Avicii", "link": "https://music.163.com/artist?id=45236" }
+    ],
+    "album": {
+      "name": "Fade Into Darkness",
+      "link": "https://music.163.com/album?id=207533"
+    }
+  },
+  {
+    "name": "Some Say",
+    "link": "https://music.163.com/song?id=1388708876",
+    "duration": "02:55",
+    "artists": [
+      { "name": "Nea", "link": "https://music.163.com/artist?id=34133567" }
+    ],
+    "album": {
+      "name": "Some Say",
+      "link": "https://music.163.com/album?id=81361670"
+    }
+  },
+  {
+    "name": "Inside Out",
+    "link": "https://music.163.com/song?id=1309975421",
+    "duration": "03:07",
+    "artists": [
+      {
+        "name": "ItaloBrothers",
+        "link": "https://music.163.com/artist?id=94730"
+      }
+    ],
+    "album": {
+      "name": "Inside Out",
+      "link": "https://music.163.com/album?id=73332809"
+    }
+  },
+  {
+    "name": "Celebrate",
+    "link": "https://music.163.com/song?id=31452996",
+    "duration": "03:25",
+    "artists": [
+      {
+        "name": "That's Right",
+        "link": "https://music.163.com/artist?id=710443"
+      },
+      { "name": "Mellina", "link": "https://music.163.com/artist?id=710470" }
+    ],
+    "album": {
+      "name": "Celebrate",
+      "link": "https://music.163.com/album?id=3121131"
+    }
+  },
+  {
+    "name": "Won't Stop",
+    "link": "https://music.163.com/song?id=1473767561",
+    "duration": "02:30",
+    "artists": [
+      { "name": "J. Lisk", "link": "https://music.163.com/artist?id=12121101" }
+    ],
+    "album": {
+      "name": "Won't Stop",
+      "link": "https://music.163.com/album?id=94404237"
+    }
+  },
+  {
+    "name": "Love You Like A Love Song - (像爱那炙热的情歌般深爱着你)",
+    "link": "https://music.163.com/song?id=5079644",
+    "duration": "03:05",
+    "artists": [
+      {
+        "name": "Selena Gomez & The Scene",
+        "link": "https://music.163.com/artist?id=100213"
+      }
+    ],
+    "album": {
+      "name": "Now That's What I Call Music! 41",
+      "link": "https://music.163.com/album?id=503099"
+    }
+  },
+  {
+    "name": "You and I",
+    "link": "https://music.163.com/song?id=1816907590",
+    "duration": "02:27",
+    "artists": [
+      {
+        "name": "Will Armex",
+        "link": "https://music.163.com/artist?id=28233667"
+      },
+      { "name": "Katy M", "link": "https://music.163.com/artist?id=46704381" }
+    ],
+    "album": {
+      "name": "You and I",
+      "link": "https://music.163.com/album?id=122434027"
+    }
+  },
+  {
+    "name": "Chameleon",
+    "link": "https://music.163.com/song?id=1381798507",
+    "duration": "03:06",
+    "artists": [
+      { "name": "Sandra N", "link": "https://music.163.com/artist?id=996599" }
+    ],
+    "album": {
+      "name": "Chameleon",
+      "link": "https://music.163.com/album?id=80758976"
+    }
+  },
+  {
+    "name": "All for You (Radio Version)",
+    "link": "https://music.163.com/song?id=3882923",
+    "duration": "03:38",
+    "artists": [
+      { "name": "Ace of Base", "link": "https://music.163.com/artist?id=85522" }
+    ],
+    "album": {
+      "name": "The Golden Ratio",
+      "link": "https://music.163.com/album?id=392826"
+    }
+  },
+  {
+    "name": "Arrival",
+    "link": "https://music.163.com/song?id=507794044",
+    "duration": "06:47",
+    "artists": [
+      {
+        "name": "James Woods",
+        "link": "https://music.163.com/artist?id=369295"
+      }
+    ],
+    "album": {
+      "name": "Arrival",
+      "link": "https://music.163.com/album?id=36303023"
+    }
+  },
+  {
+    "name": "Blind faith",
+    "link": "https://music.163.com/song?id=1426572175",
+    "duration": "02:46",
+    "artists": [
+      { "name": "LinG", "link": "https://music.163.com/artist?id=30692240" }
+    ],
+    "album": {
+      "name": "Blind faith",
+      "link": "https://music.163.com/album?id=86043909"
+    }
+  },
+  {
+    "name": "This Is the Life",
+    "link": "https://music.163.com/song?id=29732659",
+    "duration": "03:01",
+    "artists": [
+      {
+        "name": "Angie Miller",
+        "link": "https://music.163.com/artist?id=756064"
+      }
+    ],
+    "album": {
+      "name": "Weathered",
+      "link": "https://music.163.com/album?id=3069117"
+    }
+  },
+  {
+    "name": "Lost Song",
+    "link": "https://music.163.com/song?id=479423003",
+    "duration": "08:08",
+    "artists": [
+      {
+        "name": "Roald Velden",
+        "link": "https://music.163.com/artist?id=178498"
+      }
+    ],
+    "album": {
+      "name": "Lost Song",
+      "link": "https://music.163.com/album?id=35543399"
+    }
+  },
+  {
+    "name": "Rapture (Avicii New Generation Mix)",
+    "link": "https://music.163.com/song?id=571059873",
+    "duration": "03:40",
+    "artists": [
+      { "name": "Nadia Ali", "link": "https://music.163.com/artist?id=70174" },
+      { "name": "Avicii", "link": "https://music.163.com/artist?id=45236" }
+    ],
+    "album": {
+      "name": "Armada 15 Years",
+      "link": "https://music.163.com/album?id=39563203"
+    }
+  },
+  {
+    "name": "Lift (Original Mix)",
+    "link": "https://music.163.com/song?id=28877660",
+    "duration": "06:48",
+    "artists": [
+      {
+        "name": "Blood Groove & Kikis",
+        "link": "https://music.163.com/artist?id=311599"
+      }
+    ],
+    "album": {
+      "name": "Elemental Progressions Volume 1",
+      "link": "https://music.163.com/album?id=2919560"
+    }
+  },
+  {
+    "name": "You Don't Know About Me",
+    "link": "https://music.163.com/song?id=477332575",
+    "duration": "03:08",
+    "artists": [
+      { "name": "Ella Vos", "link": "https://music.163.com/artist?id=12121298" }
+    ],
+    "album": {
+      "name": "You Don't Know About Me",
+      "link": "https://music.163.com/album?id=35473143"
+    }
+  },
+  {
+    "name": "Avicii-All I Need [feat. Sia]（Atfort Remix）",
+    "link": "https://music.163.com/song?id=1391914702",
+    "duration": "04:14",
+    "artists": [
+      { "name": "Atfort", "link": "https://music.163.com/artist?id=32719664" }
+    ],
+    "album": {
+      "name": "AVĪCI (02) [UMF2016]",
+      "link": "https://music.163.com/album?id=81665556"
+    }
+  },
+  {
+    "name": "Echoes In Rain",
+    "link": "https://music.163.com/song?id=35307141",
+    "duration": "03:35",
+    "artists": [
+      { "name": "Enya", "link": "https://music.163.com/artist?id=55520" }
+    ],
+    "album": {
+      "name": "Dark Sky Island (Deluxe)",
+      "link": "https://music.163.com/album?id=3316165"
+    }
+  }
+]
