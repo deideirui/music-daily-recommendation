@@ -1,0 +1,442 @@
+[
+  {
+    "name": "Enough",
+    "link": "https://music.163.com/song?id=413077037",
+    "duration": "03:35",
+    "artists": [
+      {
+        "name": "Philippa Hanna",
+        "link": "https://music.163.com/artist?id=302064"
+      }
+    ],
+    "album": {
+      "name": "Speed of Light",
+      "link": "https://music.163.com/album?id=34700163"
+    }
+  },
+  {
+    "name": "Eclipse",
+    "link": "https://music.163.com/song?id=553815184",
+    "duration": "04:31",
+    "artists": [
+      { "name": "Burgess", "link": "https://music.163.com/artist?id=477655" },
+      { "name": "JESSIA", "link": "https://music.163.com/artist?id=15142184" }
+    ],
+    "album": {
+      "name": "Eclipse",
+      "link": "https://music.163.com/album?id=38403050"
+    }
+  },
+  {
+    "name": "Beyond Beliefs",
+    "link": "https://music.163.com/song?id=1858549602",
+    "duration": "05:13",
+    "artists": [
+      {
+        "name": "Ben Böhmer",
+        "link": "https://music.163.com/artist?id=13080362"
+      }
+    ],
+    "album": {
+      "name": "Beyond Beliefs",
+      "link": "https://music.163.com/album?id=129926483"
+    }
+  },
+  {
+    "name": "Fireflies",
+    "link": "https://music.163.com/song?id=401249750",
+    "duration": "05:09",
+    "artists": [
+      { "name": "Enzalla", "link": "https://music.163.com/artist?id=1137013" }
+    ],
+    "album": {
+      "name": "Fireflies",
+      "link": "https://music.163.com/album?id=34443134"
+    }
+  },
+  {
+    "name": "Downfalls",
+    "link": "https://music.163.com/song?id=1438808727",
+    "duration": "03:10",
+    "artists": [
+      {
+        "name": "Cally Rhodes",
+        "link": "https://music.163.com/artist?id=12603359"
+      }
+    ],
+    "album": {
+      "name": "Downfalls",
+      "link": "https://music.163.com/album?id=87793610"
+    }
+  },
+  {
+    "name": "Wicked Game",
+    "link": "https://music.163.com/song?id=1304517647",
+    "duration": "03:37",
+    "artists": [
+      {
+        "name": "Max Oazo",
+        "link": "https://music.163.com/artist?id=13159084"
+      },
+      { "name": "Cami", "link": "https://music.163.com/artist?id=283909" }
+    ],
+    "album": {
+      "name": "Wicked Game",
+      "link": "https://music.163.com/album?id=72492027"
+    }
+  },
+  {
+    "name": "Reminding Me",
+    "link": "https://music.163.com/song?id=472219602",
+    "duration": "03:29",
+    "artists": [
+      { "name": "Shawn Hook", "link": "https://music.163.com/artist?id=44247" },
+      {
+        "name": "Vanessa Hudgens",
+        "link": "https://music.163.com/artist?id=83519"
+      }
+    ],
+    "album": {
+      "name": "Reminding Me",
+      "link": "https://music.163.com/album?id=35357334"
+    }
+  },
+  {
+    "name": "Natural High",
+    "link": "https://music.163.com/song?id=29392797",
+    "duration": "03:50",
+    "artists": [
+      { "name": "Tobu", "link": "https://music.163.com/artist?id=964486" }
+    ],
+    "album": {
+      "name": "Natural High",
+      "link": "https://music.163.com/album?id=3018042"
+    }
+  },
+  {
+    "name": "This One's For You - (2016年法国欧洲杯官方主题曲)",
+    "link": "https://music.163.com/song?id=412911025",
+    "duration": "03:27",
+    "artists": [
+      {
+        "name": "David Guetta",
+        "link": "https://music.163.com/artist?id=31211"
+      },
+      {
+        "name": "Zara Larsson",
+        "link": "https://music.163.com/artist?id=816461"
+      }
+    ],
+    "album": {
+      "name": "This One's For You",
+      "link": "https://music.163.com/album?id=34701057"
+    }
+  },
+  {
+    "name": "Pillow talk",
+    "link": "https://music.163.com/song?id=29723074",
+    "duration": "03:47",
+    "artists": [
+      { "name": "Auryn", "link": "https://music.163.com/artist?id=87424" }
+    ],
+    "album": {
+      "name": "Circus Avenue (Fan Edition)",
+      "link": "https://music.163.com/album?id=3066283"
+    }
+  },
+  {
+    "name": "Team",
+    "link": "https://music.163.com/song?id=27725002",
+    "duration": "03:13",
+    "artists": [
+      { "name": "Lorde", "link": "https://music.163.com/artist?id=784001" }
+    ],
+    "album": {
+      "name": "Team",
+      "link": "https://music.163.com/album?id=2665003"
+    }
+  },
+  {
+    "name": "Burn",
+    "link": "https://music.163.com/song?id=28148942",
+    "duration": "02:02",
+    "artists": [
+      {
+        "name": "Angelika Vee",
+        "link": "https://music.163.com/artist?id=904230"
+      }
+    ],
+    "album": {
+      "name": "Nero Bianco - Best of Chill out 2013",
+      "link": "https://music.163.com/album?id=2735675"
+    }
+  },
+  {
+    "name": "Tell Me Who",
+    "link": "https://music.163.com/song?id=521954931",
+    "duration": "03:21",
+    "artists": [
+      { "name": "Vanotek", "link": "https://music.163.com/artist?id=1081048" },
+      { "name": "Eneli", "link": "https://music.163.com/artist?id=12834607" }
+    ],
+    "album": {
+      "name": "No Sleep",
+      "link": "https://music.163.com/album?id=36885733"
+    }
+  },
+  {
+    "name": "WHOOPTY (Keyfm VERSION)",
+    "link": "https://music.163.com/song?id=1842365974",
+    "duration": "03:09",
+    "artists": [
+      { "name": "Keyfm", "link": "https://music.163.com/artist?id=34393359" }
+    ],
+    "album": {
+      "name": "WHOOPTY (Keyfm VERSION)",
+      "link": "https://music.163.com/album?id=126900175"
+    }
+  },
+  {
+    "name": "I Dare You",
+    "link": "https://music.163.com/song?id=33410933",
+    "duration": "03:26",
+    "artists": [
+      { "name": "Bea Miller", "link": "https://music.163.com/artist?id=908180" }
+    ],
+    "album": {
+      "name": "Not an Apology",
+      "link": "https://music.163.com/album?id=3210110"
+    }
+  },
+  {
+    "name": "Vi Finder Hjem - (我们会找到家)",
+    "link": "https://music.163.com/song?id=28442477",
+    "duration": "03:01",
+    "artists": [
+      {
+        "name": "Emilie Moldow",
+        "link": "https://music.163.com/artist?id=906041"
+      }
+    ],
+    "album": {
+      "name": "Vi Finder Hjem",
+      "link": "https://music.163.com/album?id=2794048"
+    }
+  },
+  {
+    "name": "When Nature Is Awakening",
+    "link": "https://music.163.com/song?id=1872885922",
+    "duration": "07:36",
+    "artists": [
+      {
+        "name": "Mark & Lukas",
+        "link": "https://music.163.com/artist?id=1104097"
+      }
+    ],
+    "album": {
+      "name": "When Nature Is Awakening",
+      "link": "https://music.163.com/album?id=132315186"
+    }
+  },
+  {
+    "name": "The Upside of Down",
+    "link": "https://music.163.com/song?id=1206828",
+    "duration": "03:45",
+    "artists": [
+      {
+        "name": "Chris August",
+        "link": "https://music.163.com/artist?id=30783"
+      }
+    ],
+    "album": {
+      "name": "The Upside of Down",
+      "link": "https://music.163.com/album?id=125021"
+    }
+  },
+  {
+    "name": "What Love Is",
+    "link": "https://music.163.com/song?id=408522851",
+    "duration": "04:30",
+    "artists": [
+      { "name": "L3V3LS", "link": "https://music.163.com/artist?id=12007340" }
+    ],
+    "album": {
+      "name": "What Love Is",
+      "link": "https://music.163.com/album?id=34589884"
+    }
+  },
+  {
+    "name": "Fly",
+    "link": "https://music.163.com/song?id=411315678",
+    "duration": "03:00",
+    "artists": [
+      { "name": "CelDro", "link": "https://music.163.com/artist?id=1132950" },
+      {
+        "name": "OceansWhoLied",
+        "link": "https://music.163.com/artist?id=1132878"
+      }
+    ],
+    "album": {
+      "name": "Fly",
+      "link": "https://music.163.com/album?id=34686262"
+    }
+  },
+  {
+    "name": "Born to Do",
+    "link": "https://music.163.com/song?id=28458116",
+    "duration": "03:48",
+    "artists": [
+      {
+        "name": "Steven Cooper",
+        "link": "https://music.163.com/artist?id=908126"
+      }
+    ],
+    "album": {
+      "name": "Life & Love",
+      "link": "https://music.163.com/album?id=2802013"
+    }
+  },
+  {
+    "name": "Turn around - (转身)",
+    "link": "https://music.163.com/song?id=466695764",
+    "duration": "03:41",
+    "artists": [
+      { "name": "Worezh", "link": "https://music.163.com/artist?id=1158066" }
+    ],
+    "album": {
+      "name": "Turn around",
+      "link": "https://music.163.com/album?id=35290804"
+    }
+  },
+  {
+    "name": "傀儡",
+    "link": "https://music.163.com/song?id=1305776538",
+    "duration": "02:52",
+    "artists": [
+      { "name": "A.LOVE", "link": "https://music.163.com/artist?id=35012858" }
+    ],
+    "album": { "name": "01", "link": "https://music.163.com/album?id=72754416" }
+  },
+  {
+    "name": "Retro Romance",
+    "link": "https://music.163.com/song?id=35437597",
+    "duration": "03:32",
+    "artists": [
+      {
+        "name": "Alexx Mack",
+        "link": "https://music.163.com/artist?id=1163034"
+      }
+    ],
+    "album": {
+      "name": "Like We’re Famous ",
+      "link": "https://music.163.com/album?id=3329067"
+    }
+  },
+  {
+    "name": "Monkey Me - (像猴般的我)",
+    "link": "https://music.163.com/song?id=27879558",
+    "duration": "04:13",
+    "artists": [
+      {
+        "name": "Mylène Farmer",
+        "link": "https://music.163.com/artist?id=66380"
+      }
+    ],
+    "album": {
+      "name": "Monkey Me (Remixes)",
+      "link": "https://music.163.com/album?id=2688789"
+    }
+  },
+  {
+    "name": "Pina Colada Boy",
+    "link": "https://music.163.com/song?id=24127661",
+    "duration": "03:04",
+    "artists": [
+      {
+        "name": "Baby Alice",
+        "link": "https://music.163.com/artist?id=1049182"
+      }
+    ],
+    "album": {
+      "name": "Clubland 17",
+      "link": "https://music.163.com/album?id=2166374"
+    }
+  },
+  {
+    "name": "Dead or Alive",
+    "link": "https://music.163.com/song?id=17232223",
+    "duration": "03:11",
+    "artists": [
+      { "name": "DJ Bobo", "link": "https://music.163.com/artist?id=31304" }
+    ],
+    "album": {
+      "name": "Dancing Las Vegas",
+      "link": "https://music.163.com/album?id=1588613"
+    }
+  },
+  {
+    "name": "Quiet Minds",
+    "link": "https://music.163.com/song?id=35617449",
+    "duration": "04:08",
+    "artists": [
+      { "name": "Feki", "link": "https://music.163.com/artist?id=1122128" },
+      { "name": "Emily", "link": "https://music.163.com/artist?id=1171038" }
+    ],
+    "album": {
+      "name": "Quiet Minds",
+      "link": "https://music.163.com/album?id=3358081"
+    }
+  },
+  {
+    "name": "Curtain Call",
+    "link": "https://music.163.com/song?id=1089465",
+    "duration": "03:11",
+    "artists": [
+      { "name": "Bryan Rice", "link": "https://music.163.com/artist?id=29362" }
+    ],
+    "album": {
+      "name": "Another Piece of Me",
+      "link": "https://music.163.com/album?id=113249"
+    }
+  },
+  {
+    "name": "Sununga",
+    "link": "https://music.163.com/song?id=27937370",
+    "duration": "03:35",
+    "artists": [
+      { "name": "Bê Ignacio", "link": "https://music.163.com/artist?id=202216" }
+    ],
+    "album": {
+      "name": "Sununga",
+      "link": "https://music.163.com/album?id=2698054"
+    }
+  },
+  {
+    "name": "Josephine",
+    "link": "https://music.163.com/song?id=33911184",
+    "duration": "04:05",
+    "artists": [
+      { "name": "RITUAL", "link": "https://music.163.com/artist?id=12355563" },
+      {
+        "name": "Lisa Hannigan",
+        "link": "https://music.163.com/artist?id=64151"
+      }
+    ],
+    "album": {
+      "name": "Josephine ",
+      "link": "https://music.163.com/album?id=3266109"
+    }
+  },
+  {
+    "name": "斗罗大陆 - (动画网络剧《斗罗大陆》 主题曲)",
+    "link": "https://music.163.com/song?id=529546384",
+    "duration": "03:59",
+    "artists": [
+      { "name": "萧敬腾", "link": "https://music.163.com/artist?id=5768" }
+    ],
+    "album": {
+      "name": "斗罗大陆",
+      "link": "https://music.163.com/album?id=37049621"
+    }
+  }
+]
