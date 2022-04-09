@@ -1,0 +1,510 @@
+[
+  {
+    "name": "Moon",
+    "link": "https://music.163.com/song?id=1826133447",
+    "duration": "02:25",
+    "artists": [
+      {
+        "name": "jeonghyeon",
+        "link": "https://music.163.com/artist?id=28748581"
+      },
+      {
+        "name": "Chill Satellite",
+        "link": "https://music.163.com/artist?id=33421944"
+      }
+    ],
+    "album": {
+      "name": "Moon",
+      "link": "https://music.163.com/album?id=124130267"
+    }
+  },
+  {
+    "name": "Stay Up (feat. Andie Nora)",
+    "link": "https://music.163.com/song?id=1449539620",
+    "duration": "02:21",
+    "artists": [
+      { "name": "Wallaby", "link": "https://music.163.com/artist?id=12086070" },
+      {
+        "name": "Andie Nora",
+        "link": "https://music.163.com/artist?id=33652885"
+      }
+    ],
+    "album": {
+      "name": "Stay Up (feat. Andie Nora)",
+      "link": "https://music.163.com/album?id=89710533"
+    }
+  },
+  {
+    "name": "Skyline",
+    "link": "https://music.163.com/song?id=1441098283",
+    "duration": "02:58",
+    "artists": [
+      { "name": "Madism", "link": "https://music.163.com/artist?id=14774559" }
+    ],
+    "album": {
+      "name": "Skyline",
+      "link": "https://music.163.com/album?id=88104559"
+    }
+  },
+  {
+    "name": "New Fate",
+    "link": "https://music.163.com/song?id=1378617831",
+    "duration": "03:17",
+    "artists": [
+      { "name": "Arston", "link": "https://music.163.com/artist?id=776576" },
+      { "name": "LUX (US)", "link": "https://music.163.com/artist?id=35049288" }
+    ],
+    "album": {
+      "name": "New Fate",
+      "link": "https://music.163.com/album?id=80455339"
+    }
+  },
+  {
+    "name": "Drown",
+    "link": "https://music.163.com/song?id=517542039",
+    "duration": "03:05",
+    "artists": [
+      { "name": "ZABO", "link": "https://music.163.com/artist?id=12825010" }
+    ],
+    "album": {
+      "name": "Drown",
+      "link": "https://music.163.com/album?id=36746019"
+    }
+  },
+  {
+    "name": "No Rest",
+    "link": "https://music.163.com/song?id=1805023927",
+    "duration": "03:29",
+    "artists": [
+      { "name": "Vicetone", "link": "https://music.163.com/artist?id=747030" }
+    ],
+    "album": {
+      "name": "No Rest",
+      "link": "https://music.163.com/album?id=120550331"
+    }
+  },
+  {
+    "name": "Red Light Green Light (feat. Shaun Ross) [Extended Mix]",
+    "link": "https://music.163.com/song?id=1407531619",
+    "duration": "04:32",
+    "artists": [
+      {
+        "name": "Duke Dumont",
+        "link": "https://music.163.com/artist?id=688325"
+      },
+      {
+        "name": "Shaun Ross",
+        "link": "https://music.163.com/artist?id=31544180"
+      }
+    ],
+    "album": {
+      "name": "Defected Presents Most Rated 2020",
+      "link": "https://music.163.com/album?id=83874743"
+    }
+  },
+  {
+    "name": "Magic",
+    "link": "https://music.163.com/song?id=432698443",
+    "duration": "02:50",
+    "artists": [
+      {
+        "name": "Thomas Gold",
+        "link": "https://music.163.com/artist?id=196219"
+      },
+      {
+        "name": "Jillian Edwards",
+        "link": "https://music.163.com/artist?id=62677"
+      }
+    ],
+    "album": {
+      "name": "Magic",
+      "link": "https://music.163.com/album?id=34897577"
+    }
+  },
+  {
+    "name": "Just a Lie",
+    "link": "https://music.163.com/song?id=572393241",
+    "duration": "03:14",
+    "artists": [
+      { "name": "Zeper", "link": "https://music.163.com/artist?id=12086179" },
+      {
+        "name": "Mazen Awad",
+        "link": "https://music.163.com/artist?id=15114524"
+      }
+    ],
+    "album": {
+      "name": "Just a Lie",
+      "link": "https://music.163.com/album?id=39646321"
+    }
+  },
+  {
+    "name": "I'll Be Waiting For You",
+    "link": "https://music.163.com/song?id=1812002460",
+    "duration": "03:57",
+    "artists": [
+      {
+        "name": "Michael Morikito",
+        "link": "https://music.163.com/artist?id=46546436"
+      },
+      {
+        "name": "Kat Nestel",
+        "link": "https://music.163.com/artist?id=1066090"
+      }
+    ],
+    "album": {
+      "name": "I'll Be Waiting For You",
+      "link": "https://music.163.com/album?id=121647145"
+    }
+  },
+  {
+    "name": "Ghost (Joe Stone Remix)",
+    "link": "https://music.163.com/song?id=1407767447",
+    "duration": "02:37",
+    "artists": [
+      { "name": "Au/Ra", "link": "https://music.163.com/artist?id=12143031" },
+      {
+        "name": "Alan Walker",
+        "link": "https://music.163.com/artist?id=1045123"
+      },
+      { "name": "Joe Stone", "link": "https://music.163.com/artist?id=1071007" }
+    ],
+    "album": {
+      "name": "Ghost (Remixes)",
+      "link": "https://music.163.com/album?id=83916213"
+    }
+  },
+  {
+    "name": "Looking Back Someday",
+    "link": "https://music.163.com/song?id=1300225592",
+    "duration": "03:28",
+    "artists": [
+      {
+        "name": "ItaloBrothers",
+        "link": "https://music.163.com/artist?id=94730"
+      }
+    ],
+    "album": {
+      "name": "Looking Back Someday",
+      "link": "https://music.163.com/album?id=72217004"
+    }
+  },
+  {
+    "name": "Friendships (Lost My Love)",
+    "link": "https://music.163.com/song?id=1494985963",
+    "duration": "03:02",
+    "artists": [
+      {
+        "name": "Pascal Letoublon",
+        "link": "https://music.163.com/artist?id=12634325"
+      },
+      { "name": "Leony", "link": "https://music.163.com/artist?id=12675558" }
+    ],
+    "album": {
+      "name": "Friendships (Lost My Love)",
+      "link": "https://music.163.com/album?id=98256653"
+    }
+  },
+  {
+    "name": "Wasted",
+    "link": "https://music.163.com/song?id=1850934646",
+    "duration": "02:35",
+    "artists": [{ "name": "AHQ7kvicii", "link": "" }],
+    "album": {
+      "name": "AVĪCI（02） (Reboot)",
+      "link": "https://music.163.com/album?id=128474241"
+    }
+  },
+  {
+    "name": "Relife VIP",
+    "link": "https://music.163.com/song?id=1820137644",
+    "duration": "02:22",
+    "artists": [
+      { "name": "R7CKY", "link": "https://music.163.com/artist?id=1044054" }
+    ],
+    "album": {
+      "name": "Relife VIP",
+      "link": "https://music.163.com/album?id=122939566"
+    }
+  },
+  {
+    "name": "Lighting The Bridges",
+    "link": "https://music.163.com/song?id=1471600807",
+    "duration": "03:12",
+    "artists": [
+      {
+        "name": "Jeffrey Sutorius",
+        "link": "https://music.163.com/artist?id=31637810"
+      },
+      {
+        "name": "Roxanne Emery",
+        "link": "https://music.163.com/artist?id=74561"
+      }
+    ],
+    "album": {
+      "name": "Lighting The Bridges",
+      "link": "https://music.163.com/album?id=94047062"
+    }
+  },
+  {
+    "name": "Dusk Till Dawn (Radio Edit)",
+    "link": "https://music.163.com/song?id=504264023",
+    "duration": "03:59",
+    "artists": [
+      { "name": "ZAYN", "link": "https://music.163.com/artist?id=1108049" },
+      { "name": "Sia", "link": "https://music.163.com/artist?id=74625" }
+    ],
+    "album": {
+      "name": "Dusk Till Dawn",
+      "link": "https://music.163.com/album?id=36150011"
+    }
+  },
+  {
+    "name": "Collide",
+    "link": "https://music.163.com/song?id=1431101268",
+    "duration": "03:16",
+    "artists": [
+      {
+        "name": "The Darkmaker",
+        "link": "https://music.163.com/artist?id=31492299"
+      },
+      { "name": "赵曼伊mï", "link": "https://music.163.com/artist?id=31760557" }
+    ],
+    "album": {
+      "name": "Soul Melody Records Vol.1",
+      "link": "https://music.163.com/album?id=86517966"
+    }
+  },
+  {
+    "name": "错过",
+    "link": "https://music.163.com/song?id=1880803640",
+    "duration": "03:16",
+    "artists": [
+      {
+        "name": "张天奕ZTYick",
+        "link": "https://music.163.com/artist?id=12304366"
+      },
+      { "name": "Let-love", "link": "https://music.163.com/artist?id=32563758" }
+    ],
+    "album": {
+      "name": "错过",
+      "link": "https://music.163.com/album?id=133713767"
+    }
+  },
+  {
+    "name": "Fun（Part.II）",
+    "link": "https://music.163.com/song?id=1856437196",
+    "duration": "04:00",
+    "artists": [
+      { "name": "Satchel", "link": "https://music.163.com/artist?id=1132060" }
+    ],
+    "album": {
+      "name": "Fun（Part.II）",
+      "link": "https://music.163.com/album?id=129553341"
+    }
+  },
+  {
+    "name": "Betrayal",
+    "link": "https://music.163.com/song?id=1815599670",
+    "duration": "03:07",
+    "artists": [
+      {
+        "name": "马丁的披萨PizzA_",
+        "link": "https://music.163.com/artist?id=34203643"
+      },
+      { "name": "白鸿", "link": "https://music.163.com/artist?id=31008744" },
+      {
+        "name": "Crazy Donkey",
+        "link": "https://music.163.com/artist?id=32720055"
+      }
+    ],
+    "album": {
+      "name": "Betrayal",
+      "link": "https://music.163.com/album?id=122171363"
+    }
+  },
+  {
+    "name": "Back To Life",
+    "link": "https://music.163.com/song?id=1483394793",
+    "duration": "03:21",
+    "artists": [
+      { "name": "ReOrder", "link": "https://music.163.com/artist?id=207490" },
+      {
+        "name": "Sarah De Warren",
+        "link": "https://music.163.com/artist?id=13222653"
+      }
+    ],
+    "album": {
+      "name": "Back To Life",
+      "link": "https://music.163.com/album?id=96156745"
+    }
+  },
+  {
+    "name": "Crescent (新月)",
+    "link": "https://music.163.com/song?id=1398628590",
+    "duration": "03:06",
+    "artists": [
+      { "name": "Janji", "link": "https://music.163.com/artist?id=1032229" },
+      { "name": "R7CKY", "link": "https://music.163.com/artist?id=1044054" },
+      {
+        "name": "朱婧汐Akini Jing",
+        "link": "https://music.163.com/artist?id=10582"
+      }
+    ],
+    "album": {
+      "name": "Crescent (新月)",
+      "link": "https://music.163.com/album?id=82651101"
+    }
+  },
+  {
+    "name": "Gimme Love (Sound Rush Remix)",
+    "link": "https://music.163.com/song?id=1889959775",
+    "duration": "03:58",
+    "artists": [
+      {
+        "name": "Noisecontrollers",
+        "link": "https://music.163.com/artist?id=688258"
+      },
+      {
+        "name": "Sound Rush",
+        "link": "https://music.163.com/artist?id=1050827"
+      }
+    ],
+    "album": {
+      "name": "The Art Of Remixes EP 2021 Part II",
+      "link": "https://music.163.com/album?id=135279604"
+    }
+  },
+  {
+    "name": "Treasure",
+    "link": "https://music.163.com/song?id=1499091802",
+    "duration": "03:15",
+    "artists": [
+      { "name": "Yuncino", "link": "https://music.163.com/artist?id=32657320" },
+      { "name": "Krbread", "link": "https://music.163.com/artist?id=32934907" },
+      { "name": "Justin G", "link": "https://music.163.com/artist?id=27868283" }
+    ],
+    "album": {
+      "name": "Treasure",
+      "link": "https://music.163.com/album?id=98429312"
+    }
+  },
+  {
+    "name": "Rhythm Of The Night",
+    "link": "https://music.163.com/song?id=1364564491",
+    "duration": "03:10",
+    "artists": [
+      {
+        "name": "Sound Rush",
+        "link": "https://music.163.com/artist?id=1050827"
+      }
+    ],
+    "album": {
+      "name": "Hardstyle Favorites",
+      "link": "https://music.163.com/album?id=79056179"
+    }
+  },
+  {
+    "name": "Without You (Averion Bootleg)",
+    "link": "https://music.163.com/song?id=1305364937",
+    "duration": "04:22",
+    "artists": [
+      { "name": "Averion", "link": "https://music.163.com/artist?id=12811039" }
+    ],
+    "album": {
+      "name": "Without You (Averion Bootleg)",
+      "link": "https://music.163.com/album?id=72706918"
+    }
+  },
+  {
+    "name": "Padim's in the Night",
+    "link": "https://music.163.com/song?id=29533728",
+    "duration": "02:13",
+    "artists": [
+      {
+        "name": "Daniel Padim",
+        "link": "https://music.163.com/artist?id=1021003"
+      }
+    ],
+    "album": {
+      "name": "Looking up to Giants",
+      "link": "https://music.163.com/album?id=3039338"
+    }
+  },
+  {
+    "name": "LOSER",
+    "link": "https://music.163.com/song?id=512359195",
+    "duration": "04:03",
+    "artists": [
+      { "name": "米津玄師", "link": "https://music.163.com/artist?id=159300" }
+    ],
+    "album": {
+      "name": "BOOTLEG",
+      "link": "https://music.163.com/album?id=36529043"
+    }
+  },
+  {
+    "name": "拂晓车站",
+    "link": "https://music.163.com/song?id=32717164",
+    "duration": "03:03",
+    "artists": [
+      {
+        "name": "Candy_Wind",
+        "link": "https://music.163.com/artist?id=1084178"
+      }
+    ],
+    "album": {
+      "name": "拂晓车站",
+      "link": "https://music.163.com/album?id=3161867"
+    }
+  },
+  {
+    "name": "aLIEz - (TV动画《ALDNOAH.ZERO》ED2)",
+    "link": "https://music.163.com/song?id=29307041",
+    "duration": "04:28",
+    "artists": [
+      {
+        "name": "mizuki (瑞葵)",
+        "link": "https://music.163.com/artist?id=981205"
+      },
+      {
+        "name": "SawanoHiroyuki[nZk]",
+        "link": "https://music.163.com/artist?id=1096011"
+      }
+    ],
+    "album": {
+      "name": "A/Z|aLIEz",
+      "link": "https://music.163.com/album?id=2982127"
+    }
+  },
+  {
+    "name": "Baby",
+    "link": "https://music.163.com/song?id=1903867223",
+    "duration": "03:36",
+    "artists": [
+      {
+        "name": "Justin Bieber",
+        "link": "https://music.163.com/artist?id=35531"
+      },
+      { "name": "Ludacris", "link": "https://music.163.com/artist?id=38165" }
+    ],
+    "album": {
+      "name": "Capodanno 2021 Canzoni per bambini",
+      "link": "https://music.163.com/album?id=137561056"
+    }
+  },
+  {
+    "name": "Autumn Journey",
+    "link": "https://music.163.com/song?id=26137944",
+    "duration": "04:02",
+    "artists": [
+      {
+        "name": "Eric Chiryoku",
+        "link": "https://music.163.com/artist?id=14058"
+      }
+    ],
+    "album": {
+      "name": "Autumn Journey",
+      "link": "https://music.163.com/album?id=2394704"
+    }
+  }
+]
