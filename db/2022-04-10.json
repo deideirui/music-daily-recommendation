@@ -1,0 +1,504 @@
+[
+  {
+    "name": "Dive",
+    "link": "https://music.163.com/song?id=1410797102",
+    "duration": "02:44",
+    "artists": [
+      {
+        "name": "Hot Shade",
+        "link": "https://music.163.com/artist?id=12197226"
+      },
+      {
+        "name": "Mike Perry",
+        "link": "https://music.163.com/artist?id=195021"
+      },
+      {
+        "name": "Chris James",
+        "link": "https://music.163.com/artist?id=145038"
+      }
+    ],
+    "album": {
+      "name": "Dive",
+      "link": "https://music.163.com/album?id=84236606"
+    }
+  },
+  {
+    "name": "Walls",
+    "link": "https://music.163.com/song?id=36390006",
+    "duration": "02:55",
+    "artists": [
+      { "name": "Tez Cadey", "link": "https://music.163.com/artist?id=488571" },
+      {
+        "name": "Julia Church",
+        "link": "https://music.163.com/artist?id=1135040"
+      }
+    ],
+    "album": {
+      "name": "Walls",
+      "link": "https://music.163.com/album?id=3396321"
+    }
+  },
+  {
+    "name": "You",
+    "link": "https://music.163.com/song?id=1812367238",
+    "duration": "02:57",
+    "artists": [
+      { "name": "Axero", "link": "https://music.163.com/artist?id=1035020" }
+    ],
+    "album": {
+      "name": "You",
+      "link": "https://music.163.com/album?id=121711390"
+    }
+  },
+  {
+    "name": "Twilight Vision",
+    "link": "https://music.163.com/song?id=1834628895",
+    "duration": "03:19",
+    "artists": [
+      { "name": "Nightarc", "link": "https://music.163.com/artist?id=32930933" }
+    ],
+    "album": {
+      "name": "Twilight Vision",
+      "link": "https://music.163.com/album?id=125550932"
+    }
+  },
+  {
+    "name": "Ibiza Night (Mbnn Remix Radio Edit)",
+    "link": "https://music.163.com/song?id=504206109",
+    "duration": "03:38",
+    "artists": [
+      {
+        "name": "Pasha Lumin",
+        "link": "https://music.163.com/artist?id=12624028"
+      },
+      {
+        "name": "Alba Kras",
+        "link": "https://music.163.com/artist?id=13944391"
+      },
+      { "name": "MBNN", "link": "https://music.163.com/artist?id=12685239" }
+    ],
+    "album": {
+      "name": "Ibiza Night (The Remixes)",
+      "link": "https://music.163.com/album?id=36146039"
+    }
+  },
+  {
+    "name": "When This Is Over",
+    "link": "https://music.163.com/song?id=1842712874",
+    "duration": "03:02",
+    "artists": [
+      { "name": "Dabin", "link": "https://music.163.com/artist?id=783446" },
+      { "name": "Nurko", "link": "https://music.163.com/artist?id=11991089" },
+      {
+        "name": "Donovan Woods",
+        "link": "https://music.163.com/artist?id=28563874"
+      }
+    ],
+    "album": {
+      "name": "When This Is Over",
+      "link": "https://music.163.com/album?id=126982886"
+    }
+  },
+  {
+    "name": "Chasing Shadows",
+    "link": "https://music.163.com/song?id=1426265364",
+    "duration": "03:20",
+    "artists": [
+      { "name": "Shapov", "link": "https://music.163.com/artist?id=1058085" },
+      { "name": "Cal", "link": "https://music.163.com/artist?id=12515250" }
+    ],
+    "album": {
+      "name": "Chasing Shadows",
+      "link": "https://music.163.com/album?id=86022606"
+    }
+  },
+  {
+    "name": "In Love With Love",
+    "link": "https://music.163.com/song?id=1836162673",
+    "duration": "02:39",
+    "artists": [
+      {
+        "name": "Britt Lari",
+        "link": "https://music.163.com/artist?id=13564812"
+      },
+      {
+        "name": "Ray Le Fanue",
+        "link": "https://music.163.com/artist?id=29277984"
+      },
+      {
+        "name": "Carneyval",
+        "link": "https://music.163.com/artist?id=12425024"
+      }
+    ],
+    "album": {
+      "name": "In Love With Love",
+      "link": "https://music.163.com/album?id=125817564"
+    }
+  },
+  {
+    "name": "Reset",
+    "link": "https://music.163.com/song?id=1811345772",
+    "duration": "02:35",
+    "artists": [
+      { "name": "NATIIVE", "link": "https://music.163.com/artist?id=13775064" },
+      { "name": "Finlay", "link": "https://music.163.com/artist?id=565418" }
+    ],
+    "album": {
+      "name": "Reset",
+      "link": "https://music.163.com/album?id=121522939"
+    }
+  },
+  {
+    "name": "Sometimes",
+    "link": "https://music.163.com/song?id=1352734671",
+    "duration": "03:02",
+    "artists": [
+      { "name": "DallasK", "link": "https://music.163.com/artist?id=282095" },
+      {
+        "name": "Nicky Romero",
+        "link": "https://music.163.com/artist?id=195142"
+      },
+      { "name": "XYLØ", "link": "https://music.163.com/artist?id=1050511" }
+    ],
+    "album": {
+      "name": "Sometimes",
+      "link": "https://music.163.com/album?id=75883439"
+    }
+  },
+  {
+    "name": "Don't Let Go",
+    "link": "https://music.163.com/song?id=1879634612",
+    "duration": "02:20",
+    "artists": [
+      { "name": "OVSKY", "link": "https://music.163.com/artist?id=36560569" }
+    ],
+    "album": {
+      "name": "Don't Let Go",
+      "link": "https://music.163.com/album?id=133475678"
+    }
+  },
+  {
+    "name": "Wave",
+    "link": "https://music.163.com/song?id=485612359",
+    "duration": "02:46",
+    "artists": [
+      {
+        "name": "N i G H T S",
+        "link": "https://music.163.com/artist?id=12278516"
+      }
+    ],
+    "album": {
+      "name": "Wave",
+      "link": "https://music.163.com/album?id=35644737"
+    }
+  },
+  {
+    "name": "Up at Night",
+    "link": "https://music.163.com/song?id=1860653161",
+    "duration": "03:16",
+    "artists": [
+      {
+        "name": "Sineself",
+        "link": "https://music.163.com/artist?id=32945422"
+      },
+      { "name": "Linney", "link": "https://music.163.com/artist?id=1193247" }
+    ],
+    "album": {
+      "name": "Up at Night",
+      "link": "https://music.163.com/album?id=130246037"
+    }
+  },
+  {
+    "name": "Fire (Paris Blohm Remix)",
+    "link": "https://music.163.com/song?id=454438123",
+    "duration": "03:13",
+    "artists": [
+      { "name": "3LAU", "link": "https://music.163.com/artist?id=762511" },
+      {
+        "name": "Paris Blohm",
+        "link": "https://music.163.com/artist?id=851710"
+      },
+      {
+        "name": "NÉONHÈART",
+        "link": "https://music.163.com/artist?id=12273083"
+      },
+      {
+        "name": "Said The Sky",
+        "link": "https://music.163.com/artist?id=1026094"
+      }
+    ],
+    "album": {
+      "name": "Fire (Remixes)",
+      "link": "https://music.163.com/album?id=35123956"
+    }
+  },
+  {
+    "name": "Red Lights",
+    "link": "https://music.163.com/song?id=1462234036",
+    "duration": "03:02",
+    "artists": [
+      {
+        "name": "JigglePuff",
+        "link": "https://music.163.com/artist?id=13285528"
+      }
+    ],
+    "album": {
+      "name": "Red Lights",
+      "link": "https://music.163.com/album?id=92258396"
+    }
+  },
+  {
+    "name": "Erase You",
+    "link": "https://music.163.com/song?id=1478054205",
+    "duration": "03:44",
+    "artists": [
+      { "name": "Excision", "link": "https://music.163.com/artist?id=33221" },
+      { "name": "Wooli", "link": "https://music.163.com/artist?id=12203238" },
+      { "name": "HALIENE", "link": "https://music.163.com/artist?id=13202710" }
+    ],
+    "album": {
+      "name": "Erase You",
+      "link": "https://music.163.com/album?id=95203469"
+    }
+  },
+  {
+    "name": "Empty Space",
+    "link": "https://music.163.com/song?id=1469062040",
+    "duration": "03:26",
+    "artists": [
+      {
+        "name": "Fancy Floss",
+        "link": "https://music.163.com/artist?id=33190561"
+      },
+      { "name": "MARC", "link": "https://music.163.com/artist?id=12073436" },
+      {
+        "name": "Revealed Recordings",
+        "link": "https://music.163.com/artist?id=28753573"
+      }
+    ],
+    "album": {
+      "name": "Empty Space",
+      "link": "https://music.163.com/album?id=93616332"
+    }
+  },
+  {
+    "name": "Riot Call (feat. Nevve) (Lex Inception Remix)",
+    "link": "https://music.163.com/song?id=489998920",
+    "duration": "02:59",
+    "artists": [
+      { "name": "QUIX", "link": "https://music.163.com/artist?id=1174028" },
+      { "name": "Nevve", "link": "https://music.163.com/artist?id=12567101" },
+      {
+        "name": "Lex Inception",
+        "link": "https://music.163.com/artist?id=30070870"
+      }
+    ],
+    "album": {
+      "name": "Riot Call (feat. Nevve) (Remixes)",
+      "link": "https://music.163.com/album?id=35746300"
+    }
+  },
+  {
+    "name": "Where We Started",
+    "link": "https://music.163.com/song?id=1389194224",
+    "duration": "03:42",
+    "artists": [
+      {
+        "name": "Lost Sky",
+        "link": "https://music.163.com/artist?id=28389556"
+      },
+      { "name": "Jex", "link": "https://music.163.com/artist?id=12007273" }
+    ],
+    "album": {
+      "name": "Where We Started",
+      "link": "https://music.163.com/album?id=81423960"
+    }
+  },
+  {
+    "name": "Knowing How To Break (with RUNN)",
+    "link": "https://music.163.com/song?id=1866202305",
+    "duration": "03:07",
+    "artists": [
+      {
+        "name": "Last Heroes",
+        "link": "https://music.163.com/artist?id=11987034"
+      },
+      { "name": "RUNN", "link": "https://music.163.com/artist?id=15237536" }
+    ],
+    "album": {
+      "name": "Change It (with Liel Kolet)",
+      "link": "https://music.163.com/album?id=131232675"
+    }
+  },
+  {
+    "name": "Night seeker ID",
+    "link": "https://music.163.com/song?id=1440721565",
+    "duration": "02:43",
+    "artists": [
+      { "name": "Ennex", "link": "https://music.163.com/artist?id=1089100" }
+    ],
+    "album": {
+      "name": "Night seeker ID",
+      "link": "https://music.163.com/album?id=88035012"
+    }
+  },
+  {
+    "name": "Chasing Dragons",
+    "link": "https://music.163.com/song?id=1410294747",
+    "duration": "03:27",
+    "artists": [
+      { "name": "AhXon", "link": "https://music.163.com/artist?id=12908109" }
+    ],
+    "album": {
+      "name": "Chasing Dragons",
+      "link": "https://music.163.com/album?id=84162724"
+    }
+  },
+  {
+    "name": "How U Like Me Now",
+    "link": "https://music.163.com/song?id=501220696",
+    "duration": "03:34",
+    "artists": [
+      { "name": "SAVOY", "link": "https://music.163.com/artist?id=794001" },
+      { "name": "Roniit", "link": "https://music.163.com/artist?id=74558" }
+    ],
+    "album": {
+      "name": "How U Like Me Now",
+      "link": "https://music.163.com/album?id=36031434"
+    }
+  },
+  {
+    "name": "One Sided (feat. Mark Klaver)",
+    "link": "https://music.163.com/song?id=1822748691",
+    "duration": "03:53",
+    "artists": [
+      { "name": "ARMNHMR", "link": "https://music.163.com/artist?id=1132078" },
+      { "name": "Miles Away", "link": "https://music.163.com/artist?id=96821" },
+      {
+        "name": "Mark Klaver",
+        "link": "https://music.163.com/artist?id=33363093"
+      }
+    ],
+    "album": {
+      "name": "One Sided (feat. Mark Klaver)",
+      "link": "https://music.163.com/album?id=123491180"
+    }
+  },
+  {
+    "name": "Don't Surrender",
+    "link": "https://music.163.com/song?id=1479380271",
+    "duration": "02:45",
+    "artists": [
+      { "name": "Egzod", "link": "https://music.163.com/artist?id=11970036" },
+      { "name": "EMM", "link": "https://music.163.com/artist?id=36313435" }
+    ],
+    "album": {
+      "name": "The Revolution",
+      "link": "https://music.163.com/album?id=95415934"
+    }
+  },
+  {
+    "name": "If You Really Love Me",
+    "link": "https://music.163.com/song?id=1487433658",
+    "duration": "02:44",
+    "artists": [
+      { "name": "J. Lisk", "link": "https://music.163.com/artist?id=12121101" }
+    ],
+    "album": {
+      "name": "If You Really Love Me",
+      "link": "https://music.163.com/album?id=96794175"
+    }
+  },
+  {
+    "name": "Piece Of My Mind",
+    "link": "https://music.163.com/song?id=1833939510",
+    "duration": "02:57",
+    "artists": [
+      { "name": "Stadiumx", "link": "https://music.163.com/artist?id=1004052" },
+      { "name": "Maone", "link": "https://music.163.com/artist?id=12647083" },
+      {
+        "name": "Lukas MAX",
+        "link": "https://music.163.com/artist?id=35156836"
+      }
+    ],
+    "album": {
+      "name": "Piece Of My Mind",
+      "link": "https://music.163.com/album?id=125418123"
+    }
+  },
+  {
+    "name": "Something More",
+    "link": "https://music.163.com/song?id=464674246",
+    "duration": "03:21",
+    "artists": [
+      { "name": "Ralph", "link": "https://music.163.com/artist?id=12049282" }
+    ],
+    "album": {
+      "name": "Ralph",
+      "link": "https://music.163.com/album?id=35261060"
+    }
+  },
+  {
+    "name": "Eternity",
+    "link": "https://music.163.com/song?id=1857307752",
+    "duration": "03:25",
+    "artists": [
+      { "name": "lama", "link": "https://music.163.com/artist?id=35804813" },
+      { "name": "XimFny", "link": "https://music.163.com/artist?id=48696034" }
+    ],
+    "album": {
+      "name": "Ophelia Presents: Advent Volume 3",
+      "link": "https://music.163.com/album?id=129683482"
+    }
+  },
+  {
+    "name": "Tokyo Love",
+    "link": "https://music.163.com/song?id=1839647623",
+    "duration": "02:36",
+    "artists": [
+      {
+        "name": "Meland X Hauken",
+        "link": "https://music.163.com/artist?id=12047913"
+      }
+    ],
+    "album": {
+      "name": "Tokyo Love",
+      "link": "https://music.163.com/album?id=126442148"
+    }
+  },
+  {
+    "name": "谢谢你曾经让我悲伤 - (Loneliness, Sadness and a Thank You)",
+    "link": "https://music.163.com/song?id=524003501",
+    "duration": "03:44",
+    "artists": [
+      { "name": "原子邦妮", "link": "https://music.163.com/artist?id=1193482" }
+    ],
+    "album": {
+      "name": "谢谢你曾经让我悲伤",
+      "link": "https://music.163.com/album?id=36875928"
+    }
+  },
+  {
+    "name": "Lust For Life (The Avener Rework)",
+    "link": "https://music.163.com/song?id=501491063",
+    "duration": "04:12",
+    "artists": [
+      {
+        "name": "Lana Del Rey",
+        "link": "https://music.163.com/artist?id=66212"
+      },
+      {
+        "name": "The Weeknd",
+        "link": "https://music.163.com/artist?id=185858"
+      },
+      {
+        "name": "The Avener",
+        "link": "https://music.163.com/artist?id=1015501"
+      }
+    ],
+    "album": {
+      "name": "Lust For Life (The Avener Rework)",
+      "link": "https://music.163.com/album?id=36039294"
+    }
+  }
+]
