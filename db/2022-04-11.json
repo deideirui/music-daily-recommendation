@@ -1,0 +1,501 @@
+[
+  {
+    "name": "Last Minute",
+    "link": "https://music.163.com/song?id=545884122",
+    "duration": "03:26",
+    "artists": [
+      { "name": "Trinix", "link": "https://music.163.com/artist?id=11998064" }
+    ],
+    "album": {
+      "name": "Last Minute",
+      "link": "https://music.163.com/album?id=37767771"
+    }
+  },
+  {
+    "name": "Glow In The Dark (feat. Nevve)",
+    "link": "https://music.163.com/song?id=1864270710",
+    "duration": "04:09",
+    "artists": [
+      {
+        "name": "Friendzone",
+        "link": "https://music.163.com/artist?id=768035"
+      },
+      { "name": "Nevve", "link": "https://music.163.com/artist?id=12567101" }
+    ],
+    "album": {
+      "name": "Glow In The Dark (feat. Nevve)",
+      "link": "https://music.163.com/album?id=130908023"
+    }
+  },
+  {
+    "name": "Make Me Fall",
+    "link": "https://music.163.com/song?id=1870041256",
+    "duration": "03:38",
+    "artists": [
+      {
+        "name": "GhostDragon",
+        "link": "https://music.163.com/artist?id=12202354"
+      },
+      { "name": "GLNNA", "link": "https://music.163.com/artist?id=28693365" }
+    ],
+    "album": {
+      "name": "Make Me Fall",
+      "link": "https://music.163.com/album?id=131839741"
+    }
+  },
+  {
+    "name": "Crazy",
+    "link": "https://music.163.com/song?id=1340143947",
+    "duration": "03:08",
+    "artists": [
+      { "name": "BEAUZ", "link": "https://music.163.com/artist?id=12131436" },
+      { "name": "JVNA", "link": "https://music.163.com/artist?id=28692563" }
+    ],
+    "album": {
+      "name": "Crazy",
+      "link": "https://music.163.com/album?id=75206414"
+    }
+  },
+  {
+    "name": "Ever After",
+    "link": "https://music.163.com/song?id=1806070882",
+    "duration": "04:44",
+    "artists": [
+      { "name": "Abandoned", "link": "https://music.163.com/artist?id=28319" },
+      { "name": "Elle Vee", "link": "https://music.163.com/artist?id=1046258" }
+    ],
+    "album": {
+      "name": "Ever After",
+      "link": "https://music.163.com/album?id=120718382"
+    }
+  },
+  {
+    "name": "Flowers",
+    "link": "https://music.163.com/song?id=1369828361",
+    "duration": "03:18",
+    "artists": [
+      {
+        "name": "Dirty Palm",
+        "link": "https://music.163.com/artist?id=1155029"
+      },
+      {
+        "name": "Conor Ross",
+        "link": "https://music.163.com/artist?id=13128139"
+      },
+      {
+        "name": "Chandler Blasé",
+        "link": "https://music.163.com/artist?id=32480261"
+      }
+    ],
+    "album": {
+      "name": "Flowers",
+      "link": "https://music.163.com/album?id=79611320"
+    }
+  },
+  {
+    "name": "Essentials",
+    "link": "https://music.163.com/song?id=1819713753",
+    "duration": "04:07",
+    "artists": [
+      {
+        "name": "Wheazewolf",
+        "link": "https://music.163.com/artist?id=30704290"
+      }
+    ],
+    "album": {
+      "name": "Essentials",
+      "link": "https://music.163.com/album?id=122830932"
+    }
+  },
+  {
+    "name": "Let You Go",
+    "link": "https://music.163.com/song?id=1483123624",
+    "duration": "03:58",
+    "artists": [
+      { "name": "Awakend", "link": "https://music.163.com/artist?id=13049055" },
+      {
+        "name": "Rickie Nolls",
+        "link": "https://music.163.com/artist?id=13160075"
+      }
+    ],
+    "album": {
+      "name": "Let You Go",
+      "link": "https://music.163.com/album?id=96102126"
+    }
+  },
+  {
+    "name": "敬你春风野火",
+    "link": "https://music.163.com/song?id=1449332299",
+    "duration": "03:54",
+    "artists": [
+      { "name": "司姚", "link": "https://music.163.com/artist?id=12271227" },
+      { "name": "苏别久", "link": "https://music.163.com/artist?id=12497279" },
+      { "name": "iFreezy", "link": "https://music.163.com/artist?id=12287088" }
+    ],
+    "album": {
+      "name": "敬你春风野火",
+      "link": "https://music.163.com/album?id=89612299"
+    }
+  },
+  {
+    "name": "Stuck On You (feat. Donna Tella)",
+    "link": "https://music.163.com/song?id=1912836151",
+    "duration": "03:14",
+    "artists": [
+      { "name": "Blanke", "link": "https://music.163.com/artist?id=13369420" },
+      {
+        "name": "Donna Tella",
+        "link": "https://music.163.com/artist?id=15382106"
+      }
+    ],
+    "album": {
+      "name": "Stuck On You (feat. Donna Tella)",
+      "link": "https://music.163.com/album?id=139003634"
+    }
+  },
+  {
+    "name": "LOVE ME HARD",
+    "link": "https://music.163.com/song?id=1419165577",
+    "duration": "03:38",
+    "artists": [
+      {
+        "name": "Elley Duhé",
+        "link": "https://music.163.com/artist?id=12207014"
+      }
+    ],
+    "album": {
+      "name": "LOVE ME HARD",
+      "link": "https://music.163.com/album?id=85244304"
+    }
+  },
+  {
+    "name": "Bästa som hänt",
+    "link": "https://music.163.com/song?id=1836013628",
+    "duration": "03:52",
+    "artists": [
+      { "name": "BUNT.", "link": "https://music.163.com/artist?id=744145" },
+      { "name": "HON", "link": "https://music.163.com/artist?id=34733953" }
+    ],
+    "album": {
+      "name": "Bästa som hänt",
+      "link": "https://music.163.com/album?id=125797551"
+    }
+  },
+  {
+    "name": "No Doubt",
+    "link": "https://music.163.com/song?id=489997552",
+    "duration": "03:12",
+    "artists": [
+      {
+        "name": "Rogers & Dean",
+        "link": "https://music.163.com/artist?id=12503117"
+      }
+    ],
+    "album": {
+      "name": "No Doubt",
+      "link": "https://music.163.com/album?id=35745132"
+    }
+  },
+  {
+    "name": "Homesick (feat. SOUNDR)",
+    "link": "https://music.163.com/song?id=1835265180",
+    "duration": "05:28",
+    "artists": [
+      { "name": "MitiS", "link": "https://music.163.com/artist?id=40245" },
+      { "name": "Soundr", "link": "https://music.163.com/artist?id=14426581" }
+    ],
+    "album": {
+      "name": "Lost",
+      "link": "https://music.163.com/album?id=125636092"
+    }
+  },
+  {
+    "name": "Fall To My Grave",
+    "link": "https://music.163.com/song?id=1831452265",
+    "duration": "03:39",
+    "artists": [
+      {
+        "name": "ruindkid",
+        "link": "https://music.163.com/artist?id=47213388"
+      },
+      { "name": "SVRRIC", "link": "https://music.163.com/artist?id=31571695" },
+      {
+        "name": "Silent Child",
+        "link": "https://music.163.com/artist?id=33406241"
+      }
+    ],
+    "album": {
+      "name": "Fall To My Grave",
+      "link": "https://music.163.com/album?id=124894170"
+    }
+  },
+  {
+    "name": "Young",
+    "link": "https://music.163.com/song?id=1448434470",
+    "duration": "03:48",
+    "artists": [
+      {
+        "name": "亚哲大大",
+        "link": "https://music.163.com/artist?id=13607735"
+      },
+      {
+        "name": "Re_houseE",
+        "link": "https://music.163.com/artist?id=31320421"
+      }
+    ],
+    "album": {
+      "name": "Young",
+      "link": "https://music.163.com/album?id=89442425"
+    }
+  },
+  {
+    "name": "White Dress Black Dress",
+    "link": "https://music.163.com/song?id=1321439857",
+    "duration": "03:11",
+    "artists": [
+      {
+        "name": "Bellhouse",
+        "link": "https://music.163.com/artist?id=13465083"
+      }
+    ],
+    "album": {
+      "name": "White Dress Black Dress",
+      "link": "https://music.163.com/album?id=74155157"
+    }
+  },
+  {
+    "name": "Remember Our Summer Future Bounce VIP",
+    "link": "https://music.163.com/song?id=1461579206",
+    "duration": "02:34",
+    "artists": [
+      {
+        "name": "FrogMonster",
+        "link": "https://music.163.com/artist?id=30549371"
+      }
+    ],
+    "album": {
+      "name": "Remember Our Summer Future Bounce VIP",
+      "link": "https://music.163.com/album?id=92135990"
+    }
+  },
+  {
+    "name": "The Summer I Will Never Forget",
+    "link": "https://music.163.com/song?id=1468835046",
+    "duration": "04:12",
+    "artists": [
+      { "name": "Krbread", "link": "https://music.163.com/artist?id=32934907" },
+      {
+        "name": "Wheazewolf",
+        "link": "https://music.163.com/artist?id=30704290"
+      },
+      { "name": "Justin G", "link": "https://music.163.com/artist?id=27868283" }
+    ],
+    "album": {
+      "name": "The Summer I Will Never Forget",
+      "link": "https://music.163.com/album?id=93565692"
+    }
+  },
+  {
+    "name": "Was It You (Original Mix)",
+    "link": "https://music.163.com/song?id=1820796501",
+    "duration": "05:22",
+    "artists": [
+      { "name": "Au5", "link": "https://music.163.com/artist?id=359309" },
+      { "name": "HALIENE", "link": "https://music.163.com/artist?id=13202710" }
+    ],
+    "album": {
+      "name": "Was It You",
+      "link": "https://music.163.com/album?id=123137764"
+    }
+  },
+  {
+    "name": "The Best Of Me",
+    "link": "https://music.163.com/song?id=1329938686",
+    "duration": "04:33",
+    "artists": [
+      {
+        "name": "Dion Timmer",
+        "link": "https://music.163.com/artist?id=11998053"
+      },
+      {
+        "name": "The Arcturians",
+        "link": "https://music.163.com/artist?id=12475227"
+      }
+    ],
+    "album": {
+      "name": "Very Extra",
+      "link": "https://music.163.com/album?id=74687130"
+    }
+  },
+  {
+    "name": "Need Someone",
+    "link": "https://music.163.com/song?id=1824150152",
+    "duration": "02:57",
+    "artists": [
+      {
+        "name": "Zara Larsson",
+        "link": "https://music.163.com/artist?id=816461"
+      }
+    ],
+    "album": {
+      "name": "Poster Girl",
+      "link": "https://music.163.com/album?id=123738603"
+    }
+  },
+  {
+    "name": "Attention",
+    "link": "https://music.163.com/song?id=553946629",
+    "duration": "02:28",
+    "artists": [
+      {
+        "name": "Emma Heesters",
+        "link": "https://music.163.com/artist?id=12074643"
+      }
+    ],
+    "album": {
+      "name": "Cover Sessions, Vol. 6",
+      "link": "https://music.163.com/album?id=38412136"
+    }
+  },
+  {
+    "name": "Another Life",
+    "link": "https://music.163.com/song?id=1389848613",
+    "duration": "03:16",
+    "artists": [
+      { "name": "Sabai", "link": "https://music.163.com/artist?id=32093901" }
+    ],
+    "album": {
+      "name": "Another Life",
+      "link": "https://music.163.com/album?id=81507575"
+    }
+  },
+  {
+    "name": "Calm The Storm",
+    "link": "https://music.163.com/song?id=1468393954",
+    "duration": "03:45",
+    "artists": [
+      {
+        "name": "Super8 & Tab",
+        "link": "https://music.163.com/artist?id=100916"
+      },
+      {
+        "name": "Roxanne Emery",
+        "link": "https://music.163.com/artist?id=74561"
+      }
+    ],
+    "album": {
+      "name": "Calm The Storm",
+      "link": "https://music.163.com/album?id=93499814"
+    }
+  },
+  {
+    "name": "Hurt",
+    "link": "https://music.163.com/song?id=533471351",
+    "duration": "03:31",
+    "artists": [
+      {
+        "name": "Jeremy Vancaulart",
+        "link": "https://music.163.com/artist?id=818439"
+      },
+      {
+        "name": "Danyka Nadeau",
+        "link": "https://music.163.com/artist?id=1078277"
+      }
+    ],
+    "album": {
+      "name": "Hurt",
+      "link": "https://music.163.com/album?id=37422506"
+    }
+  },
+  {
+    "name": "the other girl (with Halsey)",
+    "link": "https://music.163.com/song?id=1432287747",
+    "duration": "03:21",
+    "artists": [
+      {
+        "name": "Kelsea Ballerini",
+        "link": "https://music.163.com/artist?id=976243"
+      },
+      { "name": "Halsey", "link": "https://music.163.com/artist?id=964321" }
+    ],
+    "album": {
+      "name": "kelsea",
+      "link": "https://music.163.com/album?id=86641273"
+    }
+  },
+  {
+    "name": "F.T.H. (From the Heart)",
+    "link": "https://music.163.com/song?id=1441132980",
+    "duration": "03:11",
+    "artists": [
+      { "name": "Menino", "link": "https://music.163.com/artist?id=14929011" }
+    ],
+    "album": {
+      "name": "F.T.H. (From the Heart)",
+      "link": "https://music.163.com/album?id=88119358"
+    }
+  },
+  {
+    "name": "共新年",
+    "link": "https://music.163.com/song?id=1834207871",
+    "duration": "03:19",
+    "artists": [
+      {
+        "name": "ReekyStive",
+        "link": "https://music.163.com/artist?id=30784551"
+      },
+      {
+        "name": "Yurium幼里安",
+        "link": "https://music.163.com/artist?id=31374204"
+      }
+    ],
+    "album": {
+      "name": "共新年",
+      "link": "https://music.163.com/album?id=125472260"
+    }
+  },
+  {
+    "name": "Alone, Pt. II (Da Tweekaz Remix)",
+    "link": "https://music.163.com/song?id=1422840657",
+    "duration": "03:42",
+    "artists": [
+      {
+        "name": "Alan Walker",
+        "link": "https://music.163.com/artist?id=1045123"
+      },
+      { "name": "Ava Max", "link": "https://music.163.com/artist?id=14486166" },
+      { "name": "Da Tweekaz", "link": "https://music.163.com/artist?id=334026" }
+    ],
+    "album": {
+      "name": "Alone, Pt. II (Remixes)",
+      "link": "https://music.163.com/album?id=85670574"
+    }
+  },
+  {
+    "name": "黎明之光",
+    "link": "https://music.163.com/song?id=1855461134",
+    "duration": "03:23",
+    "artists": [
+      { "name": "拼音师", "link": "https://music.163.com/artist?id=12038065" }
+    ],
+    "album": {
+      "name": "黎明之光",
+      "link": "https://music.163.com/album?id=129367508"
+    }
+  },
+  {
+    "name": "Realligator",
+    "link": "https://music.163.com/song?id=447925566",
+    "duration": "03:02",
+    "artists": [
+      {
+        "name": "MagnusTheMagnus",
+        "link": "https://music.163.com/artist?id=12202191"
+      }
+    ],
+    "album": {
+      "name": "Realligator",
+      "link": "https://music.163.com/album?id=35069152"
+    }
+  }
+]
