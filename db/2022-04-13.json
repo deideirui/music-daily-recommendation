@@ -1,0 +1,477 @@
+[
+  {
+    "name": "Deep End",
+    "link": "https://music.163.com/song?id=1813060516",
+    "duration": "03:28",
+    "artists": [
+      {
+        "name": "William Black",
+        "link": "https://music.163.com/artist?id=248957"
+      }
+    ],
+    "album": {
+      "name": "Deep End",
+      "link": "https://music.163.com/album?id=121811159"
+    }
+  },
+  {
+    "name": "Love Runs Out",
+    "link": "https://music.163.com/song?id=1866079925",
+    "duration": "02:44",
+    "artists": [
+      {
+        "name": "Martin Garrix",
+        "link": "https://music.163.com/artist?id=780003"
+      },
+      { "name": "G-Eazy", "link": "https://music.163.com/artist?id=820036" },
+      {
+        "name": "Sasha Alex Sloan",
+        "link": "https://music.163.com/artist?id=12646102"
+      }
+    ],
+    "album": {
+      "name": "Love Runs Out",
+      "link": "https://music.163.com/album?id=131203759"
+    }
+  },
+  {
+    "name": "karma (ft. Daye)",
+    "link": "https://music.163.com/song?id=1923310750",
+    "duration": "02:58",
+    "artists": [
+      {
+        "name": "GhostDragon",
+        "link": "https://music.163.com/artist?id=12202354"
+      },
+      { "name": "DAYE", "link": "https://music.163.com/artist?id=12110052" }
+    ],
+    "album": {
+      "name": "karma (ft. Daye)",
+      "link": "https://music.163.com/album?id=140936382"
+    }
+  },
+  {
+    "name": "Gone (feat. Kianna)",
+    "link": "https://music.163.com/song?id=1336856653",
+    "duration": "02:52",
+    "artists": [
+      { "name": "Hoang", "link": "https://music.163.com/artist?id=27694442" },
+      { "name": "Kianna", "link": "https://music.163.com/artist?id=197017" }
+    ],
+    "album": {
+      "name": "Gone (feat. Kianna)",
+      "link": "https://music.163.com/album?id=75016971"
+    }
+  },
+  {
+    "name": "Bad Habit",
+    "link": "https://music.163.com/song?id=528005152",
+    "duration": "02:50",
+    "artists": [
+      { "name": "Skela", "link": "https://music.163.com/artist?id=12087139" },
+      { "name": "Triarchy", "link": "https://music.163.com/artist?id=1144020" }
+    ],
+    "album": {
+      "name": "Bad Habit",
+      "link": "https://music.163.com/album?id=37153637"
+    }
+  },
+  {
+    "name": "Tuesday (Original Mix)",
+    "link": "https://music.163.com/song?id=506726178",
+    "duration": "04:01",
+    "artists": [
+      {
+        "name": "Burak Yeter",
+        "link": "https://music.163.com/artist?id=963635"
+      },
+      {
+        "name": "Danelle Sandoval",
+        "link": "https://music.163.com/artist?id=12583018"
+      }
+    ],
+    "album": {
+      "name": "Tuesday",
+      "link": "https://music.163.com/album?id=36247630"
+    }
+  },
+  {
+    "name": "Turn Back Time",
+    "link": "https://music.163.com/song?id=1331800077",
+    "duration": "03:09",
+    "artists": [
+      {
+        "name": "Rich Edwards",
+        "link": "https://music.163.com/artist?id=1038214"
+      },
+      { "name": "Emelie", "link": "https://music.163.com/artist?id=15352429" }
+    ],
+    "album": {
+      "name": "Turn Back Time",
+      "link": "https://music.163.com/album?id=74808833"
+    }
+  },
+  {
+    "name": "Astronomia (Never Go Home)",
+    "link": "https://music.163.com/song?id=1481127050",
+    "duration": "02:36",
+    "artists": [
+      { "name": "Tony Igy", "link": "https://music.163.com/artist?id=990184" }
+    ],
+    "album": {
+      "name": "Astronomia (Never Go Home)",
+      "link": "https://music.163.com/album?id=95738978"
+    }
+  },
+  {
+    "name": "Real",
+    "link": "https://music.163.com/song?id=1356227019",
+    "duration": "03:22",
+    "artists": [
+      { "name": "Tritonal", "link": "https://music.163.com/artist?id=104133" },
+      { "name": "Evalyn", "link": "https://music.163.com/artist?id=12646511" }
+    ],
+    "album": {
+      "name": "Real",
+      "link": "https://music.163.com/album?id=78298244"
+    }
+  },
+  {
+    "name": "With You",
+    "link": "https://music.163.com/song?id=1845817204",
+    "duration": "03:02",
+    "artists": [
+      { "name": "JLV", "link": "https://music.163.com/artist?id=12335463" },
+      { "name": "ECHŌWALL", "link": "https://music.163.com/artist?id=33394267" }
+    ],
+    "album": {
+      "name": "With You",
+      "link": "https://music.163.com/album?id=127569037"
+    }
+  },
+  {
+    "name": "Think Of Me (feat. SOUNDR)",
+    "link": "https://music.163.com/song?id=1923947530",
+    "duration": "03:52",
+    "artists": [
+      { "name": "Blanke", "link": "https://music.163.com/artist?id=13369420" },
+      { "name": "Soundr", "link": "https://music.163.com/artist?id=14426581" }
+    ],
+    "album": {
+      "name": "Think Of Me (feat. SOUNDR)",
+      "link": "https://music.163.com/album?id=141059236"
+    }
+  },
+  {
+    "name": "Won't Come Back (JVNA Remix)",
+    "link": "https://music.163.com/song?id=1300198788",
+    "duration": "03:39",
+    "artists": [
+      { "name": "ARMNHMR", "link": "https://music.163.com/artist?id=1132078" },
+      { "name": "Convex", "link": "https://music.163.com/artist?id=355739" },
+      { "name": "JVNA", "link": "https://music.163.com/artist?id=28692563" },
+      { "name": "Jex", "link": "https://music.163.com/artist?id=12007273" }
+    ],
+    "album": {
+      "name": "Won't Come Back Remixes",
+      "link": "https://music.163.com/album?id=72214836"
+    }
+  },
+  {
+    "name": "Loving You",
+    "link": "https://music.163.com/song?id=1895257625",
+    "duration": "03:37",
+    "artists": [
+      { "name": "Distrion", "link": "https://music.163.com/artist?id=1050853" },
+      {
+        "name": "Jack & James",
+        "link": "https://music.163.com/artist?id=29469070"
+      },
+      {
+        "name": "Jaime Deraz",
+        "link": "https://music.163.com/artist?id=28396902"
+      }
+    ],
+    "album": {
+      "name": "Loving You",
+      "link": "https://music.163.com/album?id=136164005"
+    }
+  },
+  {
+    "name": "Love Is Gone ft. Dylan Matthew (R3HAB Remix)",
+    "link": "https://music.163.com/song?id=1868104454",
+    "duration": "02:30",
+    "artists": [
+      { "name": "SLANDER", "link": "https://music.163.com/artist?id=1137239" },
+      {
+        "name": "Dylan Matthew",
+        "link": "https://music.163.com/artist?id=28684353"
+      },
+      { "name": "R3HAB", "link": "https://music.163.com/artist?id=197248" }
+    ],
+    "album": {
+      "name": "Love Is Gone ft. Dylan Matthew (R3HAB Remix)",
+      "link": "https://music.163.com/album?id=131537753"
+    }
+  },
+  {
+    "name": "Back to Life",
+    "link": "https://music.163.com/song?id=1910447246",
+    "duration": "03:20",
+    "artists": [
+      { "name": "Excision", "link": "https://music.163.com/artist?id=33221" },
+      {
+        "name": "Sarah De Warren",
+        "link": "https://music.163.com/artist?id=13222653"
+      }
+    ],
+    "album": {
+      "name": "Onyx",
+      "link": "https://music.163.com/album?id=138590402"
+    }
+  },
+  {
+    "name": "Daydream",
+    "link": "https://music.163.com/song?id=1486642002",
+    "duration": "02:34",
+    "artists": [
+      {
+        "name": "The Tech Thieves",
+        "link": "https://music.163.com/artist?id=12080267"
+      }
+    ],
+    "album": {
+      "name": "Daydream",
+      "link": "https://music.163.com/album?id=96706073"
+    }
+  },
+  {
+    "name": "Waiting",
+    "link": "https://music.163.com/song?id=1857489341",
+    "duration": "03:30",
+    "artists": [
+      { "name": "Kuuro", "link": "https://music.163.com/artist?id=12131546" },
+      { "name": "Bianca", "link": "https://music.163.com/artist?id=50563" }
+    ],
+    "album": {
+      "name": "Waiting",
+      "link": "https://music.163.com/album?id=129723284"
+    }
+  },
+  {
+    "name": "Mirrors",
+    "link": "https://music.163.com/song?id=1396157324",
+    "duration": "03:12",
+    "artists": [
+      { "name": "MitiS", "link": "https://music.163.com/artist?id=40245" }
+    ],
+    "album": {
+      "name": "Shattered EP",
+      "link": "https://music.163.com/album?id=82295940"
+    }
+  },
+  {
+    "name": "Crown (feat. Tyler Graves)",
+    "link": "https://music.163.com/song?id=1461687888",
+    "duration": "03:41",
+    "artists": [
+      { "name": "Bijou", "link": "https://music.163.com/artist?id=50652" },
+      {
+        "name": "Tyler Graves",
+        "link": "https://music.163.com/artist?id=31834852"
+      }
+    ],
+    "album": {
+      "name": "Diamond City",
+      "link": "https://music.163.com/album?id=92213681"
+    }
+  },
+  {
+    "name": "Good For You",
+    "link": "https://music.163.com/song?id=1349301753",
+    "duration": "03:18",
+    "artists": [
+      {
+        "name": "Arman Cekin",
+        "link": "https://music.163.com/artist?id=1132987"
+      },
+      { "name": "Glaceo", "link": "https://music.163.com/artist?id=12607200" }
+    ],
+    "album": {
+      "name": "Good For You",
+      "link": "https://music.163.com/album?id=75742842"
+    }
+  },
+  {
+    "name": "Vacation",
+    "link": "https://music.163.com/song?id=514052493",
+    "duration": "04:36",
+    "artists": [
+      { "name": "Sazu", "link": "https://music.163.com/artist?id=12475213" },
+      { "name": "Mirza", "link": "https://music.163.com/artist?id=12492026" }
+    ],
+    "album": {
+      "name": "Vacation",
+      "link": "https://music.163.com/album?id=36634080"
+    }
+  },
+  {
+    "name": "This Is What You Came For",
+    "link": "https://music.163.com/song?id=519250196",
+    "duration": "02:12",
+    "artists": [
+      { "name": "MADILYN", "link": "https://music.163.com/artist?id=69270" }
+    ],
+    "album": {
+      "name": "This Is What You Came For",
+      "link": "https://music.163.com/album?id=36784333"
+    }
+  },
+  {
+    "name": "Take Me Home",
+    "link": "https://music.163.com/song?id=1357565734",
+    "duration": "03:39",
+    "artists": [
+      {
+        "name": "Aero Chord",
+        "link": "https://music.163.com/artist?id=845121"
+      },
+      { "name": "Nevve", "link": "https://music.163.com/artist?id=12567101" }
+    ],
+    "album": {
+      "name": "Take Me Home",
+      "link": "https://music.163.com/album?id=78395826"
+    }
+  },
+  {
+    "name": "Faded Love",
+    "link": "https://music.163.com/song?id=1803417517",
+    "duration": "02:28",
+    "artists": [
+      { "name": "Leony", "link": "https://music.163.com/artist?id=12675558" }
+    ],
+    "album": {
+      "name": "Faded Love",
+      "link": "https://music.163.com/album?id=120288344"
+    }
+  },
+  {
+    "name": "Freedom",
+    "link": "https://music.163.com/song?id=1450574551",
+    "duration": "03:30",
+    "artists": [
+      {
+        "name": "Wheazewolf",
+        "link": "https://music.163.com/artist?id=30704290"
+      }
+    ],
+    "album": {
+      "name": "Freedom",
+      "link": "https://music.163.com/album?id=89848372"
+    }
+  },
+  {
+    "name": "Take My Hand",
+    "link": "https://music.163.com/song?id=1442637597",
+    "duration": "03:13",
+    "artists": [
+      {
+        "name": "Re_houseE",
+        "link": "https://music.163.com/artist?id=31320421"
+      }
+    ],
+    "album": {
+      "name": "Take My Hand",
+      "link": "https://music.163.com/album?id=88319503"
+    }
+  },
+  {
+    "name": "White Lies",
+    "link": "https://music.163.com/song?id=1806129686",
+    "duration": "03:03",
+    "artists": [
+      { "name": "VIZE", "link": "https://music.163.com/artist?id=27752357" },
+      { "name": "Tokio Hotel", "link": "https://music.163.com/artist?id=44269" }
+    ],
+    "album": {
+      "name": "White Lies",
+      "link": "https://music.163.com/album?id=120723322"
+    }
+  },
+  {
+    "name": "燃烬",
+    "link": "https://music.163.com/song?id=1808008620",
+    "duration": "04:56",
+    "artists": [
+      {
+        "name": "白昼星BZX",
+        "link": "https://music.163.com/artist?id=1185031"
+      },
+      { "name": "Bumpÿ", "link": "https://music.163.com/artist?id=33999183" }
+    ],
+    "album": {
+      "name": "燃烬",
+      "link": "https://music.163.com/album?id=120970988"
+    }
+  },
+  {
+    "name": "Ghost",
+    "link": "https://music.163.com/song?id=21375449",
+    "duration": "03:10",
+    "artists": [
+      { "name": "Philter", "link": "https://music.163.com/artist?id=140830" },
+      {
+        "name": "Miriam Vaga",
+        "link": "https://music.163.com/artist?id=321482"
+      }
+    ],
+    "album": {
+      "name": "The Blossom Chronicles",
+      "link": "https://music.163.com/album?id=1973348"
+    }
+  },
+  {
+    "name": "Play",
+    "link": "https://music.163.com/song?id=1391479812",
+    "duration": "03:09",
+    "artists": [
+      {
+        "name": "Adam Danial",
+        "link": "https://music.163.com/artist?id=32151227"
+      },
+      { "name": "Torine", "link": "https://music.163.com/artist?id=31665202" }
+    ],
+    "album": {
+      "name": "Play",
+      "link": "https://music.163.com/album?id=81706290"
+    }
+  },
+  {
+    "name": "Way Of Life",
+    "link": "https://music.163.com/song?id=1843753186",
+    "duration": "03:31",
+    "artists": [
+      {
+        "name": "Brennan Heart",
+        "link": "https://music.163.com/artist?id=688203"
+      }
+    ],
+    "album": {
+      "name": "Way Of Life",
+      "link": "https://music.163.com/album?id=127148500"
+    }
+  },
+  {
+    "name": "Fractures",
+    "link": "https://music.163.com/song?id=456185577",
+    "duration": "04:05",
+    "artists": [
+      { "name": "ILLENIUM", "link": "https://music.163.com/artist?id=1050518" },
+      { "name": "Nevve", "link": "https://music.163.com/artist?id=12567101" }
+    ],
+    "album": {
+      "name": "Fractures",
+      "link": "https://music.163.com/album?id=35157176"
+    }
+  }
+]
