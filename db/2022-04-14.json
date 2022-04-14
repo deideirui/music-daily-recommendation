@@ -1,0 +1,487 @@
+[
+  {
+    "name": "Where You Are (Caslow Remix)",
+    "link": "https://music.163.com/song?id=1917596938",
+    "duration": "03:17",
+    "artists": [
+      { "name": "JVNA", "link": "https://music.163.com/artist?id=28692563" }
+    ],
+    "album": {
+      "name": "Where You Are (Caslow Remix)",
+      "link": "https://music.163.com/album?id=139921933"
+    }
+  },
+  {
+    "name": "Waken",
+    "link": "https://music.163.com/song?id=1347200200",
+    "duration": "03:40",
+    "artists": [
+      {
+        "name": "JigglePuff",
+        "link": "https://music.163.com/artist?id=13285528"
+      }
+    ],
+    "album": {
+      "name": "Half Awake：三年一梦",
+      "link": "https://music.163.com/album?id=75612137"
+    }
+  },
+  {
+    "name": "Missing Out (feat. Lucas Ariel)",
+    "link": "https://music.163.com/song?id=1926861469",
+    "duration": "03:41",
+    "artists": [
+      {
+        "name": "Dirty Palm",
+        "link": "https://music.163.com/artist?id=1155029"
+      },
+      {
+        "name": "Lucas Ariel",
+        "link": "https://music.163.com/artist?id=31676434"
+      }
+    ],
+    "album": {
+      "name": "Missing Out (feat. Lucas Ariel)",
+      "link": "https://music.163.com/album?id=141566070"
+    }
+  },
+  {
+    "name": "Chance",
+    "link": "https://music.163.com/song?id=566436260",
+    "duration": "04:20",
+    "artists": [
+      {
+        "name": "will crockford",
+        "link": "https://music.163.com/artist?id=13222468"
+      },
+      { "name": "AKACIA", "link": "https://music.163.com/artist?id=12263377" }
+    ],
+    "album": {
+      "name": "Chance",
+      "link": "https://music.163.com/album?id=39266100"
+    }
+  },
+  {
+    "name": "Escape",
+    "link": "https://music.163.com/song?id=558007639",
+    "duration": "03:35",
+    "artists": [
+      { "name": "Satchel", "link": "https://music.163.com/artist?id=1132060" }
+    ],
+    "album": {
+      "name": "Escape",
+      "link": "https://music.163.com/album?id=38604299"
+    }
+  },
+  {
+    "name": "God Damnit",
+    "link": "https://music.163.com/song?id=1323987109",
+    "duration": "03:35",
+    "artists": [
+      { "name": "ILLENIUM", "link": "https://music.163.com/artist?id=1050518" },
+      {
+        "name": "Call Me Karizma",
+        "link": "https://music.163.com/artist?id=12047264"
+      }
+    ],
+    "album": {
+      "name": "God Damnit",
+      "link": "https://music.163.com/album?id=74321946"
+    }
+  },
+  {
+    "name": "If We Could Stay High",
+    "link": "https://music.163.com/song?id=556066472",
+    "duration": "03:41",
+    "artists": [
+      { "name": "Sj", "link": "https://music.163.com/artist?id=288146" },
+      {
+        "name": "Chelsea Lankes",
+        "link": "https://music.163.com/artist?id=53032"
+      }
+    ],
+    "album": {
+      "name": "Calabasas",
+      "link": "https://music.163.com/album?id=38519338"
+    }
+  },
+  {
+    "name": "Don't You Hold Me Down - (PUBG MOBILE合作主题曲)",
+    "link": "https://music.163.com/song?id=1870410398",
+    "duration": "02:12",
+    "artists": [
+      {
+        "name": "Alan Walker",
+        "link": "https://music.163.com/artist?id=1045123"
+      },
+      {
+        "name": "Georgia Ku",
+        "link": "https://music.163.com/artist?id=14388929"
+      }
+    ],
+    "album": {
+      "name": "Don't You Hold Me Down",
+      "link": "https://music.163.com/album?id=131903751"
+    }
+  },
+  {
+    "name": "Nothing But Love For You",
+    "link": "https://music.163.com/song?id=1816407235",
+    "duration": "03:24",
+    "artists": [
+      { "name": "Vicetone", "link": "https://music.163.com/artist?id=747030" },
+      {
+        "name": "Lena Leon",
+        "link": "https://music.163.com/artist?id=14537825"
+      }
+    ],
+    "album": {
+      "name": "Legacy",
+      "link": "https://music.163.com/album?id=122372498"
+    }
+  },
+  {
+    "name": "Genie in a Bottle",
+    "link": "https://music.163.com/song?id=865898531",
+    "duration": "02:31",
+    "artists": [
+      {
+        "name": "Campsite Dream",
+        "link": "https://music.163.com/artist?id=1146068"
+      }
+    ],
+    "album": {
+      "name": "Genie in a Bottle",
+      "link": "https://music.163.com/album?id=71802940"
+    }
+  },
+  {
+    "name": "Ocean Hill",
+    "link": "https://music.163.com/song?id=460413211",
+    "duration": "03:21",
+    "artists": [
+      { "name": "Trinix", "link": "https://music.163.com/artist?id=11998064" }
+    ],
+    "album": {
+      "name": "Hide",
+      "link": "https://music.163.com/album?id=35164883"
+    }
+  },
+  {
+    "name": "Future",
+    "link": "https://music.163.com/song?id=428599678",
+    "duration": "03:06",
+    "artists": [
+      {
+        "name": "Transviolet",
+        "link": "https://music.163.com/artist?id=1122080"
+      }
+    ],
+    "album": {
+      "name": "EPIC LIT",
+      "link": "https://music.163.com/album?id=34854530"
+    }
+  },
+  {
+    "name": "Love Me Now",
+    "link": "https://music.163.com/song?id=1868378791",
+    "duration": "03:15",
+    "artists": [
+      { "name": "Kygo", "link": "https://music.163.com/artist?id=844410" },
+      { "name": "Zoe Wees", "link": "https://music.163.com/artist?id=33000875" }
+    ],
+    "album": {
+      "name": "Love Me Now",
+      "link": "https://music.163.com/album?id=131585118"
+    }
+  },
+  {
+    "name": "Ain't Nobody Perfect",
+    "link": "https://music.163.com/song?id=1443498314",
+    "duration": "02:28",
+    "artists": [
+      { "name": "Aeden", "link": "https://music.163.com/artist?id=372253" },
+      { "name": "Um41k", "link": "https://music.163.com/artist?id=28691849" }
+    ],
+    "album": {
+      "name": "Ain't Nobody Perfect",
+      "link": "https://music.163.com/album?id=88548154"
+    }
+  },
+  {
+    "name": "Willow Tree",
+    "link": "https://music.163.com/song?id=1325079834",
+    "duration": "03:08",
+    "artists": [
+      { "name": "Rival", "link": "https://music.163.com/artist?id=12741030" },
+      { "name": "Cadmium", "link": "https://music.163.com/artist?id=12945908" },
+      { "name": "Rosendale", "link": "https://music.163.com/artist?id=1122135" }
+    ],
+    "album": {
+      "name": "Willow Tree",
+      "link": "https://music.163.com/album?id=74380958"
+    }
+  },
+  {
+    "name": "For the Moment (feat. Fletcher Mills)",
+    "link": "https://music.163.com/song?id=493041795",
+    "duration": "04:16",
+    "artists": [
+      {
+        "name": "We Are Fury",
+        "link": "https://music.163.com/artist?id=12506160"
+      },
+      {
+        "name": "Fletcher Mills",
+        "link": "https://music.163.com/artist?id=28349833"
+      }
+    ],
+    "album": {
+      "name": "Signal Fires",
+      "link": "https://music.163.com/album?id=38033261"
+    }
+  },
+  {
+    "name": ":( (sad face)",
+    "link": "https://music.163.com/song?id=1817132698",
+    "duration": "03:08",
+    "artists": [
+      { "name": "Bahari", "link": "https://music.163.com/artist?id=1044218" }
+    ],
+    "album": {
+      "name": ":( (sad face)",
+      "link": "https://music.163.com/album?id=122479311"
+    }
+  },
+  {
+    "name": "Firefly pt. II",
+    "link": "https://music.163.com/song?id=1496956269",
+    "duration": "03:45",
+    "artists": [
+      {
+        "name": "Jim Yosef",
+        "link": "https://music.163.com/artist?id=1063121"
+      },
+      { "name": "Starlyte", "link": "https://music.163.com/artist?id=12006394" }
+    ],
+    "album": {
+      "name": "Firefly pt. II",
+      "link": "https://music.163.com/album?id=98574415"
+    }
+  },
+  {
+    "name": "Don't Forget (Blaikz Remix)",
+    "link": "https://music.163.com/song?id=1396038549",
+    "duration": "02:36",
+    "artists": [
+      { "name": "LIZOT", "link": "https://music.163.com/artist?id=1137483" },
+      { "name": "Nevve", "link": "https://music.163.com/artist?id=12567101" },
+      { "name": "Blaikz", "link": "https://music.163.com/artist?id=12107651" }
+    ],
+    "album": {
+      "name": "Don't Forget (Blaikz Remix)",
+      "link": "https://music.163.com/album?id=82272661"
+    }
+  },
+  {
+    "name": "I'm Fine",
+    "link": "https://music.163.com/song?id=1458420051",
+    "duration": "02:17",
+    "artists": [
+      {
+        "name": "3rd Prototype",
+        "link": "https://music.163.com/artist?id=743388"
+      }
+    ],
+    "album": {
+      "name": "I'm Fine",
+      "link": "https://music.163.com/album?id=91569935"
+    }
+  },
+  {
+    "name": "Think of Me",
+    "link": "https://music.163.com/song?id=1449430883",
+    "duration": "02:46",
+    "artists": [
+      {
+        "name": "Olivia Lunny",
+        "link": "https://music.163.com/artist?id=29994561"
+      }
+    ],
+    "album": {
+      "name": "Think of Me",
+      "link": "https://music.163.com/album?id=89682592"
+    }
+  },
+  {
+    "name": "Andalusia (MKJ Remix)",
+    "link": "https://music.163.com/song?id=401249195",
+    "duration": "03:23",
+    "artists": [
+      {
+        "name": "Antoine Chambe",
+        "link": "https://music.163.com/artist?id=1177057"
+      },
+      {
+        "name": "Otter Berry",
+        "link": "https://music.163.com/artist?id=1132874"
+      },
+      { "name": "Hi-Ly", "link": "https://music.163.com/artist?id=1156093" },
+      { "name": "MKJ", "link": "https://music.163.com/artist?id=469200" }
+    ],
+    "album": {
+      "name": "Andalusia (MKJ Remix)",
+      "link": "https://music.163.com/album?id=34443042"
+    }
+  },
+  {
+    "name": "Times",
+    "link": "https://music.163.com/song?id=1433507298",
+    "duration": "03:40",
+    "artists": [
+      { "name": "Seffy", "link": "https://music.163.com/artist?id=12154042" }
+    ],
+    "album": {
+      "name": "Times",
+      "link": "https://music.163.com/album?id=86784577"
+    }
+  },
+  {
+    "name": "Hurricane - (狂风暴雨)",
+    "link": "https://music.163.com/song?id=1819195553",
+    "duration": "04:33",
+    "artists": [
+      {
+        "name": "Noah Stromberg",
+        "link": "https://music.163.com/artist?id=12197106"
+      },
+      {
+        "name": "STORYBOARDS",
+        "link": "https://music.163.com/artist?id=12048019"
+      },
+      { "name": "Dripice", "link": "https://music.163.com/artist?id=1050671" }
+    ],
+    "album": {
+      "name": "Hurricane",
+      "link": "https://music.163.com/album?id=122829804"
+    }
+  },
+  {
+    "name": "Bringing",
+    "link": "https://music.163.com/song?id=1442226467",
+    "duration": "02:32",
+    "artists": [
+      { "name": "WYR GEMI", "link": "https://music.163.com/artist?id=33698765" }
+    ],
+    "album": {
+      "name": "Heracles",
+      "link": "https://music.163.com/album?id=88302909"
+    }
+  },
+  {
+    "name": "Say You Love Me",
+    "link": "https://music.163.com/song?id=1899368291",
+    "duration": "04:06",
+    "artists": [
+      { "name": "Max Oazo", "link": "https://music.163.com/artist?id=13159084" }
+    ],
+    "album": {
+      "name": "Say You Love Me",
+      "link": "https://music.163.com/album?id=136806229"
+    }
+  },
+  {
+    "name": "Another High",
+    "link": "https://music.163.com/song?id=1447669504",
+    "duration": "03:52",
+    "artists": [
+      {
+        "name": "Wasted Penguinz",
+        "link": "https://music.163.com/artist?id=816508"
+      }
+    ],
+    "album": {
+      "name": "Another High",
+      "link": "https://music.163.com/album?id=89361525"
+    }
+  },
+  {
+    "name": "Savage Love",
+    "link": "https://music.163.com/song?id=1487243818",
+    "duration": "02:31",
+    "artists": [
+      { "name": "欣然丫", "link": "https://music.163.com/artist?id=36810283" }
+    ],
+    "album": {
+      "name": "Despair",
+      "link": "https://music.163.com/album?id=96832747"
+    }
+  },
+  {
+    "name": "恋のマイアヒ Dragostea Din Tei (W&W Remix - Radio Edit) - (Dragostea Din Tei (W&W Remix - Radio Edit))",
+    "link": "https://music.163.com/song?id=1813289175",
+    "duration": "02:54",
+    "artists": [
+      { "name": "O-Zone", "link": "https://music.163.com/artist?id=102077" },
+      { "name": "W&W", "link": "https://music.163.com/artist?id=46131" }
+    ],
+    "album": {
+      "name": "恋のマイアヒ Dragostea Din Tei (W&W Remix)",
+      "link": "https://music.163.com/album?id=121842206"
+    }
+  },
+  {
+    "name": "Take Me Away",
+    "link": "https://music.163.com/song?id=1398124006",
+    "duration": "03:59",
+    "artists": [
+      {
+        "name": "Da Tweekaz",
+        "link": "https://music.163.com/artist?id=334026"
+      },
+      {
+        "name": "Sound Rush",
+        "link": "https://music.163.com/artist?id=1050827"
+      },
+      {
+        "name": "Ruby Prophet",
+        "link": "https://music.163.com/artist?id=13190916"
+      }
+    ],
+    "album": {
+      "name": "Take Me Away",
+      "link": "https://music.163.com/album?id=82575200"
+    }
+  },
+  {
+    "name": "Supersonic",
+    "link": "https://music.163.com/song?id=32219599",
+    "duration": "04:29",
+    "artists": [
+      {
+        "name": "Demi Kanon",
+        "link": "https://music.163.com/artist?id=1083087"
+      }
+    ],
+    "album": {
+      "name": "Supersonic",
+      "link": "https://music.163.com/album?id=3156384"
+    }
+  },
+  {
+    "name": "Breathe",
+    "link": "https://music.163.com/song?id=1350633321",
+    "duration": "03:37",
+    "artists": [
+      {
+        "name": "Tommee Profitt",
+        "link": "https://music.163.com/artist?id=28975"
+      },
+      { "name": "Fleurie", "link": "https://music.163.com/artist?id=860929" }
+    ],
+    "album": {
+      "name": "Cinematic Songs (Vol. 2)",
+      "link": "https://music.163.com/album?id=75797023"
+    }
+  }
+]
