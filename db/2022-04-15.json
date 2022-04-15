@@ -1,0 +1,483 @@
+[
+  {
+    "name": "Lonely Nights",
+    "link": "https://music.163.com/song?id=1919116917",
+    "duration": "04:07",
+    "artists": [
+      {
+        "name": "Synymata",
+        "link": "https://music.163.com/artist?id=12031140"
+      },
+      { "name": "Medyk", "link": "https://music.163.com/artist?id=51124351" },
+      { "name": "ARMNHMR", "link": "https://music.163.com/artist?id=1132078" }
+    ],
+    "album": {
+      "name": "Waiting For Love",
+      "link": "https://music.163.com/album?id=140191263"
+    }
+  },
+  {
+    "name": "Lost & Found",
+    "link": "https://music.163.com/song?id=1907712555",
+    "duration": "03:57",
+    "artists": [
+      { "name": "Embody", "link": "https://music.163.com/artist?id=1019928" },
+      {
+        "name": "Claire Ridgely",
+        "link": "https://music.163.com/artist?id=14935781"
+      }
+    ],
+    "album": {
+      "name": "Lost & Found",
+      "link": "https://music.163.com/album?id=138158305"
+    }
+  },
+  {
+    "name": "Won't Run Away",
+    "link": "https://music.163.com/song?id=1492230371",
+    "duration": "02:40",
+    "artists": [
+      { "name": "Klaas", "link": "https://music.163.com/artist?id=106210" }
+    ],
+    "album": {
+      "name": "Won't Run Away",
+      "link": "https://music.163.com/album?id=97750540"
+    }
+  },
+  {
+    "name": "Dead",
+    "link": "https://music.163.com/song?id=1926970249",
+    "duration": "03:36",
+    "artists": [
+      { "name": "Geoxor", "link": "https://music.163.com/artist?id=12006357" },
+      { "name": "SVRGE", "link": "https://music.163.com/artist?id=30707040" }
+    ],
+    "album": {
+      "name": "Dead",
+      "link": "https://music.163.com/album?id=141584551"
+    }
+  },
+  {
+    "name": "Sunstroke (Evolution Mix)",
+    "link": "https://music.163.com/song?id=1937029440",
+    "duration": "03:23",
+    "artists": [
+      { "name": "Chicane", "link": "https://music.163.com/artist?id=50971" }
+    ],
+    "album": {
+      "name": "Sunstroke (Evolution Mixes)",
+      "link": "https://music.163.com/album?id=143296699"
+    }
+  },
+  {
+    "name": "Ever Known",
+    "link": "https://music.163.com/song?id=1921170364",
+    "duration": "03:36",
+    "artists": [
+      { "name": "AMIDY", "link": "https://music.163.com/artist?id=12203566" }
+    ],
+    "album": {
+      "name": "Ever Known",
+      "link": "https://music.163.com/album?id=140554426"
+    }
+  },
+  {
+    "name": "Crying In The Sun",
+    "link": "https://music.163.com/song?id=1316767736",
+    "duration": "03:15",
+    "artists": [
+      { "name": "Faustix", "link": "https://music.163.com/artist?id=1155054" },
+      {
+        "name": "Shannon Rani",
+        "link": "https://music.163.com/artist?id=30322971"
+      }
+    ],
+    "album": {
+      "name": "Crying In The Sun (Remixes)",
+      "link": "https://music.163.com/album?id=74501791"
+    }
+  },
+  {
+    "name": "Nobody",
+    "link": "https://music.163.com/song?id=1458359128",
+    "duration": "02:47",
+    "artists": [
+      { "name": "Axero", "link": "https://music.163.com/artist?id=1035020" }
+    ],
+    "album": {
+      "name": "Nobody",
+      "link": "https://music.163.com/album?id=91558251"
+    }
+  },
+  {
+    "name": "Rainbow Rave Parade",
+    "link": "https://music.163.com/song?id=1918783733",
+    "duration": "03:32",
+    "artists": [
+      { "name": "Chime", "link": "https://music.163.com/artist?id=417220" }
+    ],
+    "album": {
+      "name": "Rainbow Rave Parade",
+      "link": "https://music.163.com/album?id=140116065"
+    }
+  },
+  {
+    "name": "Survive (Sultan + Shepard Remix)",
+    "link": "https://music.163.com/song?id=1918214746",
+    "duration": "04:30",
+    "artists": [
+      { "name": "Lane 8", "link": "https://music.163.com/artist?id=787072" },
+      {
+        "name": "Channy Leaneagh",
+        "link": "https://music.163.com/artist?id=28201580"
+      }
+    ],
+    "album": {
+      "name": "Survive (Sultan + Shepard Remix)",
+      "link": "https://music.163.com/album?id=140023284"
+    }
+  },
+  {
+    "name": "Bipolar",
+    "link": "https://music.163.com/song?id=1356237274",
+    "duration": "02:52",
+    "artists": [
+      { "name": "BEAUZ", "link": "https://music.163.com/artist?id=12131436" },
+      {
+        "name": "ThatBehavior",
+        "link": "https://music.163.com/artist?id=12917127"
+      },
+      {
+        "name": "Luna Vexa",
+        "link": "https://music.163.com/artist?id=33169792"
+      }
+    ],
+    "album": {
+      "name": "Bipolar",
+      "link": "https://music.163.com/album?id=78301113"
+    }
+  },
+  {
+    "name": "Try (feat. RØRY)",
+    "link": "https://music.163.com/song?id=1809318323",
+    "duration": "04:12",
+    "artists": [
+      { "name": "MitiS", "link": "https://music.163.com/artist?id=40245" },
+      { "name": "RØRY", "link": "https://music.163.com/artist?id=28774080" }
+    ],
+    "album": {
+      "name": "Try (feat. RØRY)",
+      "link": "https://music.163.com/album?id=121175668"
+    }
+  },
+  {
+    "name": "Love For You",
+    "link": "https://music.163.com/song?id=1899846596",
+    "duration": "03:23",
+    "artists": [
+      {
+        "name": "Madalen Duke",
+        "link": "https://music.163.com/artist?id=12301117"
+      },
+      { "name": "Sabai", "link": "https://music.163.com/artist?id=32093901" }
+    ],
+    "album": {
+      "name": "Love For You",
+      "link": "https://music.163.com/album?id=136903799"
+    }
+  },
+  {
+    "name": "Not My Baby",
+    "link": "https://music.163.com/song?id=1434309751",
+    "duration": "02:48",
+    "artists": [
+      { "name": "INNA", "link": "https://music.163.com/artist?id=60848" }
+    ],
+    "album": {
+      "name": "Not My Baby",
+      "link": "https://music.163.com/album?id=86867305"
+    }
+  },
+  {
+    "name": "Afterlife",
+    "link": "https://music.163.com/song?id=1465360539",
+    "duration": "02:12",
+    "artists": [
+      {
+        "name": "Besomorph",
+        "link": "https://music.163.com/artist?id=13406913"
+      },
+      { "name": "EMM", "link": "https://music.163.com/artist?id=36313435" }
+    ],
+    "album": {
+      "name": "Afterlife",
+      "link": "https://music.163.com/album?id=92944767"
+    }
+  },
+  {
+    "name": "Darker Days",
+    "link": "https://music.163.com/song?id=1838533003",
+    "duration": "03:34",
+    "artists": [
+      {
+        "name": "GhostDragon",
+        "link": "https://music.163.com/artist?id=12202354"
+      },
+      { "name": "Kuo", "link": "https://music.163.com/artist?id=47503204" },
+      {
+        "name": "April Bender",
+        "link": "https://music.163.com/artist?id=13080174"
+      }
+    ],
+    "album": {
+      "name": "Darker Days",
+      "link": "https://music.163.com/album?id=126203107"
+    }
+  },
+  {
+    "name": "Out Of My Head",
+    "link": "https://music.163.com/song?id=1893489634",
+    "duration": "02:55",
+    "artists": [
+      { "name": "Rezz", "link": "https://music.163.com/artist?id=1019466" },
+      {
+        "name": "Shadow Cliq",
+        "link": "https://music.163.com/artist?id=35701258"
+      }
+    ],
+    "album": {
+      "name": "Spiral",
+      "link": "https://music.163.com/album?id=135868392"
+    }
+  },
+  {
+    "name": "Ignoring My Heart",
+    "link": "https://music.163.com/song?id=566436029",
+    "duration": "03:04",
+    "artists": [
+      { "name": "T-Mass", "link": "https://music.163.com/artist?id=410484" }
+    ],
+    "album": {
+      "name": "Ignoring My Heart",
+      "link": "https://music.163.com/album?id=39266012"
+    }
+  },
+  {
+    "name": "Disappearing Now",
+    "link": "https://music.163.com/song?id=1887414088",
+    "duration": "04:51",
+    "artists": [
+      { "name": "Nurko", "link": "https://music.163.com/artist?id=11991089" },
+      {
+        "name": "Chandler Leighton",
+        "link": "https://music.163.com/artist?id=33013223"
+      }
+    ],
+    "album": {
+      "name": "Disappearing Now",
+      "link": "https://music.163.com/album?id=134858678"
+    }
+  },
+  {
+    "name": "Million Miles Away",
+    "link": "https://music.163.com/song?id=1418084020",
+    "duration": "03:02",
+    "artists": [
+      { "name": "Bassic", "link": "https://music.163.com/artist?id=1124241" },
+      { "name": "Heleen", "link": "https://music.163.com/artist?id=28866940" }
+    ],
+    "album": {
+      "name": "Million Miles Away",
+      "link": "https://music.163.com/album?id=85121165"
+    }
+  },
+  {
+    "name": "Shockwave",
+    "link": "https://music.163.com/song?id=1330767967",
+    "duration": "04:09",
+    "artists": [
+      { "name": "Feint", "link": "https://music.163.com/artist?id=93062" },
+      {
+        "name": "Heather Sommer",
+        "link": "https://music.163.com/artist?id=13134228"
+      }
+    ],
+    "album": {
+      "name": "Shockwave",
+      "link": "https://music.163.com/album?id=74732634"
+    }
+  },
+  {
+    "name": "All Eyes On Me",
+    "link": "https://music.163.com/song?id=1490922184",
+    "duration": "03:00",
+    "artists": [
+      {
+        "name": "Fox Stevenson",
+        "link": "https://music.163.com/artist?id=794279"
+      }
+    ],
+    "album": {
+      "name": "All Eyes On Me",
+      "link": "https://music.163.com/album?id=97533326"
+    }
+  },
+  {
+    "name": "Save Me",
+    "link": "https://music.163.com/song?id=1405403060",
+    "duration": "03:24",
+    "artists": [
+      {
+        "name": "ROY KNOX",
+        "link": "https://music.163.com/artist?id=33149404"
+      },
+      {
+        "name": "Tim Beeren",
+        "link": "https://music.163.com/artist?id=33146636"
+      },
+      { "name": "Svniivan", "link": "https://music.163.com/artist?id=28693250" }
+    ],
+    "album": {
+      "name": "Save Me",
+      "link": "https://music.163.com/album?id=83613732"
+    }
+  },
+  {
+    "name": "Tim",
+    "link": "https://music.163.com/song?id=1445003223",
+    "duration": "03:43",
+    "artists": [
+      { "name": "AhXon", "link": "https://music.163.com/artist?id=12908109" },
+      { "name": "Anisko", "link": "https://music.163.com/artist?id=12426031" }
+    ],
+    "album": {
+      "name": "Tim",
+      "link": "https://music.163.com/album?id=88845129"
+    }
+  },
+  {
+    "name": "Neon Lights",
+    "link": "https://music.163.com/song?id=29759342",
+    "duration": "06:03",
+    "artists": [
+      { "name": "Nyte", "link": "https://music.163.com/artist?id=1034003" }
+    ],
+    "album": {
+      "name": "Beyond the Sky",
+      "link": "https://music.163.com/album?id=3056847"
+    }
+  },
+  {
+    "name": "月色与雪色之间，你是第三种绝色。",
+    "link": "https://music.163.com/song?id=535612106",
+    "duration": "02:59",
+    "artists": [
+      {
+        "name": "十指流玉",
+        "link": "https://music.163.com/artist?id=12021027"
+      },
+      { "name": "鲤羽Lyka", "link": "https://music.163.com/artist?id=13795800" }
+    ],
+    "album": {
+      "name": "落花流水",
+      "link": "https://music.163.com/album?id=37508043"
+    }
+  },
+  {
+    "name": "Party Shaker (Bass Prototype & Corevin Remix)",
+    "link": "https://music.163.com/song?id=1328418735",
+    "duration": "03:32",
+    "artists": [
+      { "name": "R.I.O.", "link": "https://music.163.com/artist?id=42495" },
+      { "name": "Nicco", "link": "https://music.163.com/artist?id=357111" }
+    ],
+    "album": {
+      "name": "Zooland 2018",
+      "link": "https://music.163.com/album?id=74591481"
+    }
+  },
+  {
+    "name": "Love Paradise",
+    "link": "https://music.163.com/song?id=213811",
+    "duration": "03:16",
+    "artists": [
+      { "name": "陈慧琳", "link": "https://music.163.com/artist?id=7235" }
+    ],
+    "album": {
+      "name": "Stylish Index",
+      "link": "https://music.163.com/album?id=21651"
+    }
+  },
+  {
+    "name": "我曾用向日葵花瓣形容你的眼睛",
+    "link": "https://music.163.com/song?id=1868612487",
+    "duration": "03:44",
+    "artists": [
+      { "name": "摄音记", "link": "https://music.163.com/artist?id=48126846" },
+      {
+        "name": "张天奕ZTYick",
+        "link": "https://music.163.com/artist?id=12304366"
+      },
+      { "name": "杨世贸", "link": "https://music.163.com/artist?id=12571508" }
+    ],
+    "album": {
+      "name": "我曾用向日葵花瓣形容你的眼睛",
+      "link": "https://music.163.com/album?id=131621824"
+    }
+  },
+  {
+    "name": "Lighting",
+    "link": "https://music.163.com/song?id=448316647",
+    "duration": "03:58",
+    "artists": [
+      { "name": "Dimatis", "link": "https://music.163.com/artist?id=1087344" }
+    ],
+    "album": {
+      "name": "Lighting",
+      "link": "https://music.163.com/album?id=35075166"
+    }
+  },
+  {
+    "name": "Lost Control (B2A & Anklebreaker Bootleg)",
+    "link": "https://music.163.com/song?id=1357457186",
+    "duration": "03:25",
+    "artists": [
+      { "name": "B2A", "link": "https://music.163.com/artist?id=30133713" },
+      {
+        "name": "Anklebreaker",
+        "link": "https://music.163.com/artist?id=14834960"
+      }
+    ],
+    "album": {
+      "name": "Lost Control (B2A & Anklebreaker Bootleg)",
+      "link": "https://music.163.com/album?id=78376953"
+    }
+  },
+  {
+    "name": "最爱 (Hardstyle Version)",
+    "link": "https://music.163.com/song?id=1842735238",
+    "duration": "03:15",
+    "artists": [
+      {
+        "name": "Savage Act",
+        "link": "https://music.163.com/artist?id=12037109"
+      }
+    ],
+    "album": {
+      "name": "最爱",
+      "link": "https://music.163.com/album?id=126988238"
+    }
+  },
+  {
+    "name": "纸短情长",
+    "link": "https://music.163.com/song?id=557581284",
+    "duration": "03:06",
+    "artists": [
+      { "name": "花粥", "link": "https://music.163.com/artist?id=8103" }
+    ],
+    "album": {
+      "name": "纸短情长",
+      "link": "https://music.163.com/album?id=38594130"
+    }
+  }
+]
