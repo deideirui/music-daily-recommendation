@@ -1,0 +1,494 @@
+[
+  {
+    "name": "Sunrise",
+    "link": "https://music.163.com/song?id=515608507",
+    "duration": "03:34",
+    "artists": [
+      { "name": "Kygo", "link": "https://music.163.com/artist?id=844410" },
+      {
+        "name": "Jason Walker",
+        "link": "https://music.163.com/artist?id=12869734"
+      }
+    ],
+    "album": {
+      "name": "Kids in Love",
+      "link": "https://music.163.com/album?id=36634042"
+    }
+  },
+  {
+    "name": "Here We Go Again",
+    "link": "https://music.163.com/song?id=1355149884",
+    "duration": "02:42",
+    "artists": [
+      { "name": "Sigma", "link": "https://music.163.com/artist?id=101736" },
+      {
+        "name": "Louisa Johnson",
+        "link": "https://music.163.com/artist?id=1192273"
+      }
+    ],
+    "album": {
+      "name": "Here We Go Again",
+      "link": "https://music.163.com/album?id=78243126"
+    }
+  },
+  {
+    "name": "Hear Me Say",
+    "link": "https://music.163.com/song?id=1848184993",
+    "duration": "03:10",
+    "artists": [
+      {
+        "name": "Jonas Blue",
+        "link": "https://music.163.com/artist?id=1192069"
+      },
+      { "name": "LÉON", "link": "https://music.163.com/artist?id=1178081" }
+    ],
+    "album": {
+      "name": "Hear Me Say",
+      "link": "https://music.163.com/album?id=128012417"
+    }
+  },
+  {
+    "name": "Somebody That You Loved",
+    "link": "https://music.163.com/song?id=1381704370",
+    "duration": "03:36",
+    "artists": [
+      {
+        "name": "Bruno Martini",
+        "link": "https://music.163.com/artist?id=12355546"
+      },
+      {
+        "name": "New Hope Club",
+        "link": "https://music.163.com/artist?id=12408153"
+      }
+    ],
+    "album": {
+      "name": "Somebody That You Loved",
+      "link": "https://music.163.com/album?id=80748472"
+    }
+  },
+  {
+    "name": "Sunstroke (Disco Citizens Evolution Mix)",
+    "link": "https://music.163.com/song?id=1937030264",
+    "duration": "03:12",
+    "artists": [
+      { "name": "Chicane", "link": "https://music.163.com/artist?id=50971" },
+      {
+        "name": "Disco Citizens",
+        "link": "https://music.163.com/artist?id=841185"
+      }
+    ],
+    "album": {
+      "name": "Sunstroke (Evolution Mixes)",
+      "link": "https://music.163.com/album?id=143296699"
+    }
+  },
+  {
+    "name": "Stranger Love (Original Mix)",
+    "link": "https://music.163.com/song?id=567401317",
+    "duration": "02:07",
+    "artists": [
+      {
+        "name": "Robin Novaku",
+        "link": "https://music.163.com/artist?id=13987551"
+      }
+    ],
+    "album": {
+      "name": "Stranger Love",
+      "link": "https://music.163.com/album?id=39341705"
+    }
+  },
+  {
+    "name": "Alive - (iPhone XR 广告配乐)",
+    "link": "https://music.163.com/song?id=1304788672",
+    "duration": "03:18",
+    "artists": [
+      { "name": "obylx", "link": "https://music.163.com/artist?id=29280828" }
+    ],
+    "album": {
+      "name": "Alive",
+      "link": "https://music.163.com/album?id=72568238"
+    }
+  },
+  {
+    "name": "Army",
+    "link": "https://music.163.com/song?id=1433659900",
+    "duration": "03:23",
+    "artists": [
+      {
+        "name": "Besomorph",
+        "link": "https://music.163.com/artist?id=13406913"
+      },
+      { "name": "Arcando", "link": "https://music.163.com/artist?id=11975134" },
+      { "name": "Neoni", "link": "https://music.163.com/artist?id=34392075" }
+    ],
+    "album": {
+      "name": "Army",
+      "link": "https://music.163.com/album?id=86797504"
+    }
+  },
+  {
+    "name": "Typo",
+    "link": "https://music.163.com/song?id=1409271942",
+    "duration": "02:58",
+    "artists": [
+      {
+        "name": "Discrete",
+        "link": "https://music.163.com/artist?id=31215441"
+      },
+      { "name": "Sistek", "link": "https://music.163.com/artist?id=12765268" },
+      { "name": "TUDOR", "link": "https://music.163.com/artist?id=12355078" },
+      { "name": "Voss", "link": "https://music.163.com/artist?id=244172" }
+    ],
+    "album": {
+      "name": "Typo",
+      "link": "https://music.163.com/album?id=84067871"
+    }
+  },
+  {
+    "name": "Youth",
+    "link": "https://music.163.com/song?id=414980497",
+    "duration": "03:06",
+    "artists": [
+      {
+        "name": "Manila Killa",
+        "link": "https://music.163.com/artist?id=1147176"
+      },
+      { "name": "SATICA", "link": "https://music.163.com/artist?id=12676244" }
+    ],
+    "album": {
+      "name": "Youth",
+      "link": "https://music.163.com/album?id=34720213"
+    }
+  },
+  {
+    "name": "Kuyenda",
+    "link": "https://music.163.com/song?id=500399011",
+    "duration": "02:59",
+    "artists": [
+      {
+        "name": "Lennart Schroot",
+        "link": "https://music.163.com/artist?id=1147209"
+      },
+      {
+        "name": "Unknown Brain",
+        "link": "https://music.163.com/artist?id=12196203"
+      },
+      { "name": "Sru", "link": "https://music.163.com/artist?id=14297664" }
+    ],
+    "album": {
+      "name": "Kuyenda",
+      "link": "https://music.163.com/album?id=36015013"
+    }
+  },
+  {
+    "name": "Take You On",
+    "link": "https://music.163.com/song?id=1458420054",
+    "duration": "02:59",
+    "artists": [
+      {
+        "name": "James Mercy",
+        "link": "https://music.163.com/artist?id=12218030"
+      },
+      {
+        "name": "Philosofie",
+        "link": "https://music.163.com/artist?id=29747321"
+      }
+    ],
+    "album": {
+      "name": "Take You On",
+      "link": "https://music.163.com/album?id=91569937"
+    }
+  },
+  {
+    "name": "Ride",
+    "link": "https://music.163.com/song?id=1401696102",
+    "duration": "03:01",
+    "artists": [
+      { "name": "CAPPA", "link": "https://music.163.com/artist?id=1053281" },
+      {
+        "name": "Jon Santana",
+        "link": "https://music.163.com/artist?id=14291695"
+      }
+    ],
+    "album": {
+      "name": "Ride",
+      "link": "https://music.163.com/album?id=83081863"
+    }
+  },
+  {
+    "name": "Monsters",
+    "link": "https://music.163.com/song?id=1442453411",
+    "duration": "03:57",
+    "artists": [
+      {
+        "name": "Midnight Kids",
+        "link": "https://music.163.com/artist?id=13192314"
+      }
+    ],
+    "album": {
+      "name": "Monsters",
+      "link": "https://music.163.com/album?id=88347039"
+    }
+  },
+  {
+    "name": "End Like This (Arknights Soundtrack) - (游戏《明日方舟》原声)",
+    "link": "https://music.163.com/song?id=1807756571",
+    "duration": "03:20",
+    "artists": [
+      { "name": "Steve Aoki", "link": "https://music.163.com/artist?id=43608" },
+      {
+        "name": "Yellow Claw",
+        "link": "https://music.163.com/artist?id=832880"
+      },
+      { "name": "RUNN", "link": "https://music.163.com/artist?id=15237536" }
+    ],
+    "album": {
+      "name": "End Like This",
+      "link": "https://music.163.com/album?id=120947253"
+    }
+  },
+  {
+    "name": "Sparks",
+    "link": "https://music.163.com/song?id=17152989",
+    "duration": "02:58",
+    "artists": [
+      { "name": "Cover Drive", "link": "https://music.163.com/artist?id=90177" }
+    ],
+    "album": {
+      "name": "Sparks",
+      "link": "https://music.163.com/album?id=1580300"
+    }
+  },
+  {
+    "name": "Until I Die",
+    "link": "https://music.163.com/song?id=1357947621",
+    "duration": "02:19",
+    "artists": [
+      { "name": "Tom Wilson", "link": "https://music.163.com/artist?id=81587" },
+      {
+        "name": "joegarratt",
+        "link": "https://music.163.com/artist?id=12325217"
+      }
+    ],
+    "album": {
+      "name": "Until I Die",
+      "link": "https://music.163.com/album?id=78435469"
+    }
+  },
+  {
+    "name": "Afterlife",
+    "link": "https://music.163.com/song?id=465921745",
+    "duration": "03:38",
+    "artists": [
+      {
+        "name": "Hex Cougar",
+        "link": "https://music.163.com/artist?id=1081443"
+      },
+      {
+        "name": "Jarell Perry",
+        "link": "https://music.163.com/artist?id=37473"
+      }
+    ],
+    "album": {
+      "name": "Afterlife",
+      "link": "https://music.163.com/album?id=35287197"
+    }
+  },
+  {
+    "name": "On My Own",
+    "link": "https://music.163.com/song?id=1419421861",
+    "duration": "02:39",
+    "artists": [
+      { "name": "Bran", "link": "https://music.163.com/artist?id=30110381" },
+      { "name": "BAUWZ", "link": "https://music.163.com/artist?id=30214127" }
+    ],
+    "album": {
+      "name": "On My Own",
+      "link": "https://music.163.com/album?id=85293329"
+    }
+  },
+  {
+    "name": "Step Into The Light",
+    "link": "https://music.163.com/song?id=31191040",
+    "duration": "03:36",
+    "artists": [
+      { "name": "Fabio XB", "link": "https://music.163.com/artist?id=207476" },
+      {
+        "name": "Christina Novelli",
+        "link": "https://music.163.com/artist?id=840292"
+      },
+      { "name": "Liuck", "link": "https://music.163.com/artist?id=12074296" }
+    ],
+    "album": {
+      "name": "A State Of Trance 2015",
+      "link": "https://music.163.com/album?id=3109046"
+    }
+  },
+  {
+    "name": "Silver Lining (feat. KARRA)",
+    "link": "https://music.163.com/song?id=1398699606",
+    "duration": "03:34",
+    "artists": [
+      { "name": "ARMNHMR", "link": "https://music.163.com/artist?id=1132078" },
+      { "name": "Karra", "link": "https://music.163.com/artist?id=1081582" }
+    ],
+    "album": {
+      "name": "Silver Lining (feat. KARRA)",
+      "link": "https://music.163.com/album?id=82660858"
+    }
+  },
+  {
+    "name": "Only One",
+    "link": "https://music.163.com/song?id=1474811373",
+    "duration": "04:43",
+    "artists": [
+      { "name": "MitiS", "link": "https://music.163.com/artist?id=40245" },
+      { "name": "Drowsy", "link": "https://music.163.com/artist?id=31911" }
+    ],
+    "album": {
+      "name": "All I Have",
+      "link": "https://music.163.com/album?id=94642108"
+    }
+  },
+  {
+    "name": "Another World",
+    "link": "https://music.163.com/song?id=431357991",
+    "duration": "04:03",
+    "artists": [
+      { "name": "Refuzion", "link": "https://music.163.com/artist?id=1081221" },
+      { "name": "Noiseshock", "link": "https://music.163.com/artist?id=345637" }
+    ],
+    "album": {
+      "name": "Another World",
+      "link": "https://music.163.com/album?id=34881434"
+    }
+  },
+  {
+    "name": "Breathe",
+    "link": "https://music.163.com/song?id=415063319",
+    "duration": "03:46",
+    "artists": [
+      { "name": "EMBRZ", "link": "https://music.163.com/artist?id=1173001" }
+    ],
+    "album": {
+      "name": "Ultra Chilled 2016",
+      "link": "https://music.163.com/album?id=34712444"
+    }
+  },
+  {
+    "name": "Renegade",
+    "link": "https://music.163.com/song?id=1380121010",
+    "duration": "03:48",
+    "artists": [
+      {
+        "name": "3rd Prototype",
+        "link": "https://music.163.com/artist?id=743388"
+      },
+      {
+        "name": "Harley Bird",
+        "link": "https://music.163.com/artist?id=12355691"
+      },
+      {
+        "name": "Valentina Franco",
+        "link": "https://music.163.com/artist?id=14005689"
+      }
+    ],
+    "album": {
+      "name": "Renegade",
+      "link": "https://music.163.com/album?id=80608442"
+    }
+  },
+  {
+    "name": "Dreamer (梦想家)",
+    "link": "https://music.163.com/song?id=1294856148",
+    "duration": "03:31",
+    "artists": [
+      { "name": "Andy Mei", "link": "https://music.163.com/artist?id=12074017" }
+    ],
+    "album": {
+      "name": "Dreamer",
+      "link": "https://music.163.com/album?id=71844594"
+    }
+  },
+  {
+    "name": "束手无策",
+    "link": "https://music.163.com/song?id=1474150197",
+    "duration": "03:52",
+    "artists": [
+      { "name": "钟意", "link": "https://music.163.com/artist?id=35264840" }
+    ],
+    "album": {
+      "name": "束手无策",
+      "link": "https://music.163.com/album?id=94508490"
+    }
+  },
+  {
+    "name": "History",
+    "link": "https://music.163.com/song?id=1809502606",
+    "duration": "02:58",
+    "artists": [
+      { "name": "Jonth", "link": "https://music.163.com/artist?id=12636028" }
+    ],
+    "album": {
+      "name": "History",
+      "link": "https://music.163.com/album?id=121196485"
+    }
+  },
+  {
+    "name": "他的",
+    "link": "https://music.163.com/song?id=1452568619",
+    "duration": "03:36",
+    "artists": [
+      { "name": "姚六一", "link": "https://music.163.com/artist?id=27909602" }
+    ],
+    "album": {
+      "name": "他的",
+      "link": "https://music.163.com/album?id=90232847"
+    }
+  },
+  {
+    "name": "Popsicle",
+    "link": "https://music.163.com/song?id=501214792",
+    "duration": "04:25",
+    "artists": [
+      { "name": "LFZ", "link": "https://music.163.com/artist?id=12132421" }
+    ],
+    "album": {
+      "name": "Popsicle",
+      "link": "https://music.163.com/album?id=36031457"
+    }
+  },
+  {
+    "name": "作势装腔",
+    "link": "https://music.163.com/song?id=1408983926",
+    "duration": "03:48",
+    "artists": [
+      { "name": "张韶涵", "link": "https://music.163.com/artist?id=10562" }
+    ],
+    "album": { "name": "？", "link": "https://music.163.com/album?id=84037191" }
+  },
+  {
+    "name": "轻风",
+    "link": "https://music.163.com/song?id=410715788",
+    "duration": "03:12",
+    "artists": [
+      { "name": "四季音色", "link": "https://music.163.com/artist?id=12028059" }
+    ],
+    "album": {
+      "name": "春夏之交，轻旋淡律",
+      "link": "https://music.163.com/album?id=34673374"
+    }
+  },
+  {
+    "name": "Set Sail",
+    "link": "https://music.163.com/song?id=34834414",
+    "duration": "03:51",
+    "artists": [
+      { "name": "Frances", "link": "https://music.163.com/artist?id=1105075" }
+    ],
+    "album": {
+      "name": "Let It Out",
+      "link": "https://music.163.com/album?id=3295607"
+    }
+  }
+]
