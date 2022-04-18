@@ -1,0 +1,490 @@
+[
+  {
+    "name": "One Day",
+    "link": "https://music.163.com/song?id=1363638029",
+    "duration": "02:44",
+    "artists": [
+      {
+        "name": "Diamond Pistols",
+        "link": "https://music.163.com/artist?id=806218"
+      },
+      {
+        "name": "Emily Vaughn",
+        "link": "https://music.163.com/artist?id=12049240"
+      }
+    ],
+    "album": {
+      "name": "One Day",
+      "link": "https://music.163.com/album?id=78959758"
+    }
+  },
+  {
+    "name": "Thunder",
+    "link": "https://music.163.com/song?id=1382475114",
+    "duration": "03:56",
+    "artists": [
+      { "name": "Burgess", "link": "https://music.163.com/artist?id=477655" }
+    ],
+    "album": {
+      "name": "Thunder",
+      "link": "https://music.163.com/album?id=80803613"
+    }
+  },
+  {
+    "name": "Royalty",
+    "link": "https://music.163.com/song?id=1831401994",
+    "duration": "03:43",
+    "artists": [
+      { "name": "Egzod", "link": "https://music.163.com/artist?id=11970036" },
+      {
+        "name": "Maestro Chives",
+        "link": "https://music.163.com/artist?id=12191012"
+      },
+      { "name": "Neoni", "link": "https://music.163.com/artist?id=34392075" }
+    ],
+    "album": {
+      "name": "Royalty",
+      "link": "https://music.163.com/album?id=124876373"
+    }
+  },
+  {
+    "name": "You & I",
+    "link": "https://music.163.com/song?id=1864943453",
+    "duration": "03:29",
+    "artists": [
+      {
+        "name": "Culture Code",
+        "link": "https://music.163.com/artist?id=1049930"
+      },
+      {
+        "name": "Alexis Donn",
+        "link": "https://music.163.com/artist?id=31397612"
+      }
+    ],
+    "album": {
+      "name": "You & I",
+      "link": "https://music.163.com/album?id=131039490"
+    }
+  },
+  {
+    "name": "Sandbar",
+    "link": "https://music.163.com/song?id=1935924744",
+    "duration": "03:30",
+    "artists": [
+      {
+        "name": "Approaching Nirvana",
+        "link": "https://music.163.com/artist?id=86884"
+      }
+    ],
+    "album": {
+      "name": "Sandbar",
+      "link": "https://music.163.com/album?id=143131942"
+    }
+  },
+  {
+    "name": "Used To",
+    "link": "https://music.163.com/song?id=1347814906",
+    "duration": "02:48",
+    "artists": [
+      {
+        "name": "James Carter",
+        "link": "https://music.163.com/artist?id=12047749"
+      },
+      { "name": "Kaii", "link": "https://music.163.com/artist?id=28457718" }
+    ],
+    "album": {
+      "name": "Used To",
+      "link": "https://music.163.com/album?id=75670536"
+    }
+  },
+  {
+    "name": "Licht und Schatten (From \"Tokyo Ghoul\")",
+    "link": "https://music.163.com/song?id=1316657923",
+    "duration": "04:00",
+    "artists": [
+      {
+        "name": "Shibuya Sunrise",
+        "link": "https://music.163.com/artist?id=29283376"
+      }
+    ],
+    "album": {
+      "name": "Tokyo Phantoms (A Collection of Songs from ",
+      "link": "https://music.163.com/album?id=73841213"
+    }
+  },
+  {
+    "name": "Close to Me",
+    "link": "https://music.163.com/song?id=1385566326",
+    "duration": "03:31",
+    "artists": [
+      { "name": "Max Oazo", "link": "https://music.163.com/artist?id=13159084" }
+    ],
+    "album": {
+      "name": "Close to Me",
+      "link": "https://music.163.com/album?id=81063266"
+    }
+  },
+  {
+    "name": "Shores (feat. Moonessa)",
+    "link": "https://music.163.com/song?id=1360884080",
+    "duration": "03:32",
+    "artists": [
+      { "name": "Ash", "link": "https://music.163.com/artist?id=840746" },
+      { "name": "Moonessa", "link": "https://music.163.com/artist?id=29834706" }
+    ],
+    "album": {
+      "name": "Shores (feat. Moonessa)",
+      "link": "https://music.163.com/album?id=78728056"
+    }
+  },
+  {
+    "name": "Lights Out",
+    "link": "https://music.163.com/song?id=1918558195",
+    "duration": "03:53",
+    "artists": [
+      { "name": "Blanke", "link": "https://music.163.com/artist?id=13369420" },
+      { "name": "RUNN", "link": "https://music.163.com/artist?id=15237536" }
+    ],
+    "album": {
+      "name": "Lights Out",
+      "link": "https://music.163.com/album?id=140084107"
+    }
+  },
+  {
+    "name": "Greenlights",
+    "link": "https://music.163.com/song?id=1419037400",
+    "duration": "02:42",
+    "artists": [
+      { "name": "Krewella", "link": "https://music.163.com/artist?id=208915" }
+    ],
+    "album": {
+      "name": "zer0",
+      "link": "https://music.163.com/album?id=85230027"
+    }
+  },
+  {
+    "name": "Love You Lately",
+    "link": "https://music.163.com/song?id=458013580",
+    "duration": "03:56",
+    "artists": [
+      {
+        "name": "Ariana & the Rose",
+        "link": "https://music.163.com/artist?id=894145"
+      },
+      { "name": "RKCB", "link": "https://music.163.com/artist?id=11973052" }
+    ],
+    "album": {
+      "name": "Love You Lately",
+      "link": "https://music.163.com/album?id=35150139"
+    }
+  },
+  {
+    "name": "Deep Down",
+    "link": "https://music.163.com/song?id=1351913687",
+    "duration": "02:49",
+    "artists": [
+      {
+        "name": "Johnny Orlando",
+        "link": "https://music.163.com/artist?id=590458"
+      }
+    ],
+    "album": {
+      "name": "Teenage Fever",
+      "link": "https://music.163.com/album?id=75848224"
+    }
+  },
+  {
+    "name": "Do It For Love",
+    "link": "https://music.163.com/song?id=1850925125",
+    "duration": "03:36",
+    "artists": [{ "name": "AzkHvicii", "link": "" }],
+    "album": {
+      "name": "AVĪCI（02） (Reboot)",
+      "link": "https://music.163.com/album?id=128474241"
+    }
+  },
+  {
+    "name": "Spinning over You",
+    "link": "https://music.163.com/song?id=1483682837",
+    "duration": "03:14",
+    "artists": [
+      { "name": "Reyko", "link": "https://music.163.com/artist?id=12335050" }
+    ],
+    "album": {
+      "name": "Spinning over You",
+      "link": "https://music.163.com/album?id=96213964"
+    }
+  },
+  {
+    "name": "What You’re Made Of (feat. Kiesza) (From “Azur Lane” Original Video Game Soundtrack)",
+    "link": "https://music.163.com/song?id=1467954913",
+    "duration": "03:26",
+    "artists": [
+      {
+        "name": "Lindsey Stirling",
+        "link": "https://music.163.com/artist?id=66225"
+      },
+      { "name": "Kiesza", "link": "https://music.163.com/artist?id=900145" }
+    ],
+    "album": {
+      "name": "What You’re Made Of (feat. Kiesza) (Azur Lane Soundtrack)",
+      "link": "https://music.163.com/album?id=93393731"
+    }
+  },
+  {
+    "name": "Fallen Souls",
+    "link": "https://music.163.com/song?id=1392986509",
+    "duration": "03:31",
+    "artists": [
+      {
+        "name": "Ghost Stories",
+        "link": "https://music.163.com/artist?id=58385"
+      },
+      {
+        "name": "D-Block & S-te-Fan",
+        "link": "https://music.163.com/artist?id=13594504"
+      }
+    ],
+    "album": {
+      "name": "Fallen Souls",
+      "link": "https://music.163.com/album?id=81884112"
+    }
+  },
+  {
+    "name": "青空",
+    "link": "https://music.163.com/song?id=32717172",
+    "duration": "03:21",
+    "artists": [
+      {
+        "name": "Candy_Wind",
+        "link": "https://music.163.com/artist?id=1084178"
+      }
+    ],
+    "album": {
+      "name": "拂晓车站",
+      "link": "https://music.163.com/album?id=3161867"
+    }
+  },
+  {
+    "name": "Battleborn",
+    "link": "https://music.163.com/song?id=1377207455",
+    "duration": "03:29",
+    "artists": [
+      { "name": "Ran-D", "link": "https://music.163.com/artist?id=402435" },
+      {
+        "name": "Frequencerz",
+        "link": "https://music.163.com/artist?id=366903"
+      },
+      { "name": "Adaro", "link": "https://music.163.com/artist?id=85509" }
+    ],
+    "album": {
+      "name": "Battleborn",
+      "link": "https://music.163.com/album?id=80327135"
+    }
+  },
+  {
+    "name": "Sustain",
+    "link": "https://music.163.com/song?id=1363781679",
+    "duration": "04:03",
+    "artists": [
+      { "name": "比特丧", "link": "https://music.163.com/artist?id=2104" }
+    ],
+    "album": { "name": "Vol.1", "link": "https://music.163.com/album?id=6284" }
+  },
+  {
+    "name": "瞬间",
+    "link": "https://music.163.com/song?id=1399728554",
+    "duration": "03:55",
+    "artists": [
+      { "name": "容云", "link": "https://music.163.com/artist?id=31573582" }
+    ],
+    "album": {
+      "name": "瞬间",
+      "link": "https://music.163.com/album?id=81865270"
+    }
+  },
+  {
+    "name": "Searching for a Light",
+    "link": "https://music.163.com/song?id=29759354",
+    "duration": "04:28",
+    "artists": [
+      { "name": "Nyte", "link": "https://music.163.com/artist?id=1034003" }
+    ],
+    "album": {
+      "name": "Recollections",
+      "link": "https://music.163.com/album?id=3056850"
+    }
+  },
+  {
+    "name": "Strange Noises",
+    "link": "https://music.163.com/song?id=29386024",
+    "duration": "03:17",
+    "artists": [
+      { "name": "Philter", "link": "https://music.163.com/artist?id=140830" }
+    ],
+    "album": {
+      "name": "The Legend Of Iya (Original Game Score)",
+      "link": "https://music.163.com/album?id=3015622"
+    }
+  },
+  {
+    "name": "Dancing in My Head (Tom Hangs Remix)",
+    "link": "https://music.163.com/song?id=1343995",
+    "duration": "03:17",
+    "artists": [
+      {
+        "name": "Eric Turner",
+        "link": "https://music.163.com/artist?id=33284"
+      },
+      { "name": "Avicii", "link": "https://music.163.com/artist?id=45236" },
+      { "name": "Tom Hangs", "link": "https://music.163.com/artist?id=197006" }
+    ],
+    "album": {
+      "name": "Dancing in My Head (Tom Hangs Remix)",
+      "link": "https://music.163.com/album?id=138252"
+    }
+  },
+  {
+    "name": "PLAY (ElementD Remix)",
+    "link": "https://music.163.com/song?id=1392142306",
+    "duration": "03:01",
+    "artists": [
+      {
+        "name": "ElementD",
+        "link": "https://music.163.com/artist?id=12192245"
+      },
+      { "name": "K-391", "link": "https://music.163.com/artist?id=1049937" },
+      {
+        "name": "Alan Walker",
+        "link": "https://music.163.com/artist?id=1045123"
+      },
+      {
+        "name": "Martin Tungevaag",
+        "link": "https://music.163.com/artist?id=1179138"
+      },
+      { "name": "Mangoo", "link": "https://music.163.com/artist?id=1081597" }
+    ],
+    "album": {
+      "name": "PLAY (ElementD Remix)",
+      "link": "https://music.163.com/album?id=81794731"
+    }
+  },
+  {
+    "name": "梁间燕 ( 琵琶版)",
+    "link": "https://music.163.com/song?id=30871158",
+    "duration": "04:17",
+    "artists": [
+      { "name": "洪尘", "link": "https://music.163.com/artist?id=1006030" }
+    ],
+    "album": {
+      "name": "梁间燕",
+      "link": "https://music.163.com/album?id=3105458"
+    }
+  },
+  {
+    "name": "Decoy World VIP (feat. Park Avenue)",
+    "link": "https://music.163.com/song?id=528273782",
+    "duration": "04:30",
+    "artists": [
+      {
+        "name": "Intercom",
+        "link": "https://music.163.com/artist?id=12616082"
+      },
+      {
+        "name": "Park Avenue",
+        "link": "https://music.163.com/artist?id=368447"
+      }
+    ],
+    "album": {
+      "name": "Decoy World VIP (feat. Park Avenue)",
+      "link": "https://music.163.com/album?id=37238037"
+    }
+  },
+  {
+    "name": "Walk Thru Fire ",
+    "link": "https://music.163.com/song?id=1322460396",
+    "duration": "03:14",
+    "artists": [
+      { "name": "Vicetone", "link": "https://music.163.com/artist?id=747030" },
+      {
+        "name": "Meron Ryan",
+        "link": "https://music.163.com/artist?id=1181020"
+      }
+    ],
+    "album": {
+      "name": "Monstercat Instinct Vol. 2",
+      "link": "https://music.163.com/album?id=74225629"
+    }
+  },
+  {
+    "name": "渡月桥",
+    "link": "https://music.163.com/song?id=1334866205",
+    "duration": "03:49",
+    "artists": [
+      { "name": "宫阁", "link": "https://music.163.com/artist?id=12023517" }
+    ],
+    "album": {
+      "name": "昼鸣曲",
+      "link": "https://music.163.com/album?id=74957261"
+    }
+  },
+  {
+    "name": "Stereo Love (Jay Divine Bootleg)",
+    "link": "https://music.163.com/song?id=1403510977",
+    "duration": "02:45",
+    "artists": [
+      {
+        "name": "Jay Divine",
+        "link": "https://music.163.com/artist?id=12450150"
+      }
+    ],
+    "album": {
+      "name": "Stereo Love (Jay Divine Bootleg)",
+      "link": "https://music.163.com/album?id=83340865"
+    }
+  },
+  {
+    "name": "仙 - (《仙王的日常生活》主题曲)",
+    "link": "https://music.163.com/song?id=1435507558",
+    "duration": "03:44",
+    "artists": [
+      { "name": "韦伯恩", "link": "https://music.163.com/artist?id=12118711" },
+      { "name": "杨秉音", "link": "https://music.163.com/artist?id=12293867" }
+    ],
+    "album": {
+      "name": "仙王的日常生活",
+      "link": "https://music.163.com/album?id=87053501"
+    }
+  },
+  {
+    "name": "浅缘",
+    "link": "https://music.163.com/song?id=1810993605",
+    "duration": "02:16",
+    "artists": [
+      { "name": "白鸿", "link": "https://music.163.com/artist?id=31008744" },
+      {
+        "name": "AnderstandU",
+        "link": "https://music.163.com/artist?id=32541591"
+      }
+    ],
+    "album": {
+      "name": "浅缘",
+      "link": "https://music.163.com/album?id=121437278"
+    }
+  },
+  {
+    "name": "Cruel Summer",
+    "link": "https://music.163.com/song?id=1382576173",
+    "duration": "02:58",
+    "artists": [
+      {
+        "name": "Taylor Swift",
+        "link": "https://music.163.com/artist?id=44266"
+      }
+    ],
+    "album": {
+      "name": "Lover",
+      "link": "https://music.163.com/album?id=80752440"
+    }
+  }
+]
