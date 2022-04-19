@@ -1,0 +1,468 @@
+[
+  {
+    "name": "Feelings",
+    "link": "https://music.163.com/song?id=1442172727",
+    "duration": "03:02",
+    "artists": [
+      { "name": "Bearson", "link": "https://music.163.com/artist?id=1057034" },
+      { "name": "Hart", "link": "https://music.163.com/artist?id=142037" }
+    ],
+    "album": {
+      "name": "Feelings",
+      "link": "https://music.163.com/album?id=88288644"
+    }
+  },
+  {
+    "name": "Halfway",
+    "link": "https://music.163.com/song?id=484365610",
+    "duration": "02:26",
+    "artists": [
+      {
+        "name": "Jake Miller",
+        "link": "https://music.163.com/artist?id=776761"
+      }
+    ],
+    "album": {
+      "name": "2:00am in LA",
+      "link": "https://music.163.com/album?id=35630260"
+    }
+  },
+  {
+    "name": "Rush",
+    "link": "https://music.163.com/song?id=1453258147",
+    "duration": "02:49",
+    "artists": [
+      { "name": "Syn Cole", "link": "https://music.163.com/artist?id=854432" }
+    ],
+    "album": {
+      "name": "Rush",
+      "link": "https://music.163.com/album?id=90403430"
+    }
+  },
+  {
+    "name": "Paradise",
+    "link": "https://music.163.com/song?id=1430542683",
+    "duration": "02:20",
+    "artists": [
+      {
+        "name": "Mike Perry",
+        "link": "https://music.163.com/artist?id=195021"
+      },
+      {
+        "name": "Sarah De Warren",
+        "link": "https://music.163.com/artist?id=13222653"
+      }
+    ],
+    "album": {
+      "name": "Paradise",
+      "link": "https://music.163.com/album?id=86467517"
+    }
+  },
+  {
+    "name": "Sunstroke",
+    "link": "https://music.163.com/song?id=1937030265",
+    "duration": "03:50",
+    "artists": [
+      { "name": "Chicane", "link": "https://music.163.com/artist?id=50971" }
+    ],
+    "album": {
+      "name": "Sunstroke (Evolution Mixes)",
+      "link": "https://music.163.com/album?id=143296699"
+    }
+  },
+  {
+    "name": "What U Wanted",
+    "link": "https://music.163.com/song?id=1454868789",
+    "duration": "02:37",
+    "artists": [
+      { "name": "Wiberg", "link": "https://music.163.com/artist?id=32843930" },
+      { "name": "Rentz", "link": "https://music.163.com/artist?id=12628381" }
+    ],
+    "album": {
+      "name": "What U Wanted",
+      "link": "https://music.163.com/album?id=90764518"
+    }
+  },
+  {
+    "name": "Revolution",
+    "link": "https://music.163.com/song?id=455500439",
+    "duration": "03:51",
+    "artists": [
+      { "name": "The Score", "link": "https://music.163.com/artist?id=212904" }
+    ],
+    "album": {
+      "name": "Revolution",
+      "link": "https://music.163.com/album?id=35151135"
+    }
+  },
+  {
+    "name": "Spinnin' Wheels",
+    "link": "https://music.163.com/song?id=1917592411",
+    "duration": "03:15",
+    "artists": [
+      { "name": "Nurko", "link": "https://music.163.com/artist?id=11991089" },
+      { "name": "JT Roach", "link": "https://music.163.com/artist?id=12935954" }
+    ],
+    "album": {
+      "name": "Spinnin' Wheels",
+      "link": "https://music.163.com/album?id=139921939"
+    }
+  },
+  {
+    "name": "I Still Believe",
+    "link": "https://music.163.com/song?id=1358194683",
+    "duration": "03:04",
+    "artists": [
+      { "name": "Mandee", "link": "https://music.163.com/artist?id=12171036" },
+      {
+        "name": "Abi F Jones",
+        "link": "https://music.163.com/artist?id=1137160"
+      }
+    ],
+    "album": {
+      "name": "I Still Believe",
+      "link": "https://music.163.com/album?id=78479967"
+    }
+  },
+  {
+    "name": "Follow You",
+    "link": "https://music.163.com/song?id=1835265185",
+    "duration": "04:00",
+    "artists": [
+      { "name": "MitiS", "link": "https://music.163.com/artist?id=40245" },
+      {
+        "name": "Rico & Miella",
+        "link": "https://music.163.com/artist?id=1050743"
+      }
+    ],
+    "album": {
+      "name": "Lost",
+      "link": "https://music.163.com/album?id=125636092"
+    }
+  },
+  {
+    "name": "Start Up",
+    "link": "https://music.163.com/song?id=1905852684",
+    "duration": "02:58",
+    "artists": [
+      {
+        "name": "Jonathan & Friends",
+        "link": "https://music.163.com/artist?id=37458744"
+      },
+      { "name": "Loote", "link": "https://music.163.com/artist?id=12408152" },
+      { "name": "EMMA LOV", "link": "https://music.163.com/artist?id=32454256" }
+    ],
+    "album": {
+      "name": "Start Up",
+      "link": "https://music.163.com/album?id=137890513"
+    }
+  },
+  {
+    "name": "Sweet Dreams & Dynamite",
+    "link": "https://music.163.com/song?id=1896100382",
+    "duration": "02:41",
+    "artists": [
+      { "name": "SeeB", "link": "https://music.163.com/artist?id=1182169" },
+      {
+        "name": "Nina Nesbitt",
+        "link": "https://music.163.com/artist?id=70292"
+      }
+    ],
+    "album": {
+      "name": "Sweet Dreams & Dynamite",
+      "link": "https://music.163.com/album?id=136301943"
+    }
+  },
+  {
+    "name": "Close to You (Radio Edit)",
+    "link": "https://music.163.com/song?id=562434582",
+    "duration": "02:52",
+    "artists": [
+      { "name": "Norda", "link": "https://music.163.com/artist?id=1111008" },
+      {
+        "name": "Camilla Daum",
+        "link": "https://music.163.com/artist?id=14455104"
+      }
+    ],
+    "album": {
+      "name": "Close to You",
+      "link": "https://music.163.com/album?id=38970313"
+    }
+  },
+  {
+    "name": "VIBR8",
+    "link": "https://music.163.com/song?id=1851221467",
+    "duration": "02:59",
+    "artists": [
+      {
+        "name": "Marshmello",
+        "link": "https://music.163.com/artist?id=1060019"
+      }
+    ],
+    "album": {
+      "name": "Shockwave",
+      "link": "https://music.163.com/album?id=128551827"
+    }
+  },
+  {
+    "name": "Lost with You",
+    "link": "https://music.163.com/song?id=1385542436",
+    "duration": "04:07",
+    "artists": [
+      { "name": "Far Out", "link": "https://music.163.com/artist?id=824107" },
+      {
+        "name": "Ruby Chase",
+        "link": "https://music.163.com/artist?id=29781533"
+      }
+    ],
+    "album": {
+      "name": "Lost with You",
+      "link": "https://music.163.com/album?id=81061298"
+    }
+  },
+  {
+    "name": "Desire (Original Mix)",
+    "link": "https://music.163.com/song?id=1462377448",
+    "duration": "03:11",
+    "artists": [
+      {
+        "name": "Suprafive",
+        "link": "https://music.163.com/artist?id=1022142"
+      },
+      { "name": "Eric K.", "link": "https://music.163.com/artist?id=30601629" }
+    ],
+    "album": {
+      "name": "Desire",
+      "link": "https://music.163.com/album?id=92340809"
+    }
+  },
+  {
+    "name": "Larg",
+    "link": "https://music.163.com/song?id=1393789519",
+    "duration": "03:12",
+    "artists": [
+      {
+        "name": "Elgit Doda",
+        "link": "https://music.163.com/artist?id=30035271"
+      }
+    ],
+    "album": {
+      "name": "Larg",
+      "link": "https://music.163.com/album?id=82000474"
+    }
+  },
+  {
+    "name": "The Difference",
+    "link": "https://music.163.com/song?id=1836919943",
+    "duration": "03:30",
+    "artists": [
+      { "name": "Daya", "link": "https://music.163.com/artist?id=1081186" }
+    ],
+    "album": {
+      "name": "The Difference",
+      "link": "https://music.163.com/album?id=125917589"
+    }
+  },
+  {
+    "name": "TWISTED",
+    "link": "https://music.163.com/song?id=1819512990",
+    "duration": "02:38",
+    "artists": [
+      { "name": "AViVA", "link": "https://music.163.com/artist?id=12074178" }
+    ],
+    "album": {
+      "name": "TWISTED",
+      "link": "https://music.163.com/album?id=122896003"
+    }
+  },
+  {
+    "name": "Dream in Color",
+    "link": "https://music.163.com/song?id=551339078",
+    "duration": "03:25",
+    "artists": [
+      { "name": "HALIENE", "link": "https://music.163.com/artist?id=13202710" }
+    ],
+    "album": {
+      "name": "Dream in Color",
+      "link": "https://music.163.com/album?id=38272028"
+    }
+  },
+  {
+    "name": "Love You Like A Love Song",
+    "link": "https://music.163.com/song?id=1444908687",
+    "duration": "03:00",
+    "artists": [
+      { "name": "EQRIC", "link": "https://music.163.com/artist?id=15142183" },
+      {
+        "name": "Bottle Flip",
+        "link": "https://music.163.com/artist?id=34387466"
+      }
+    ],
+    "album": {
+      "name": "Love You Like A Love Song",
+      "link": "https://music.163.com/album?id=88827422"
+    }
+  },
+  {
+    "name": "Summer of Our Lives",
+    "link": "https://music.163.com/song?id=1860609293",
+    "duration": "03:03",
+    "artists": [
+      { "name": "waykap", "link": "https://music.163.com/artist?id=30766185" },
+      { "name": "Emmi", "link": "https://music.163.com/artist?id=140606" }
+    ],
+    "album": {
+      "name": "Summer Of Our Lives",
+      "link": "https://music.163.com/album?id=130240000"
+    }
+  },
+  {
+    "name": "独 守 烟 花 渐 凉",
+    "link": "https://music.163.com/song?id=1841408508",
+    "duration": "02:56",
+    "artists": [
+      { "name": "万古", "link": "https://music.163.com/artist?id=46440557" },
+      { "name": "万古呀", "link": "https://music.163.com/artist?id=47910705" }
+    ],
+    "album": {
+      "name": "独 守 烟 花 渐 凉",
+      "link": "https://music.163.com/album?id=126756895"
+    }
+  },
+  {
+    "name": "Here With You",
+    "link": "https://music.163.com/song?id=27583305",
+    "duration": "03:45",
+    "artists": [
+      {
+        "name": "Asher Monroe",
+        "link": "https://music.163.com/artist?id=28727"
+      }
+    ],
+    "album": {
+      "name": "Here With You",
+      "link": "https://music.163.com/album?id=2641180"
+    }
+  },
+  {
+    "name": "Try",
+    "link": "https://music.163.com/song?id=27515086",
+    "duration": "04:09",
+    "artists": [
+      { "name": "P!nk", "link": "https://music.163.com/artist?id=70821" }
+    ],
+    "album": { "name": "Try", "link": "https://music.163.com/album?id=2623253" }
+  },
+  {
+    "name": "暮野之诗",
+    "link": "https://music.163.com/song?id=1821252112",
+    "duration": "02:48",
+    "artists": [
+      {
+        "name": "鹤见江野",
+        "link": "https://music.163.com/artist?id=33888645"
+      },
+      { "name": "寒柴", "link": "https://music.163.com/artist?id=32974232" }
+    ],
+    "album": {
+      "name": "暮野之诗",
+      "link": "https://music.163.com/album?id=123134697"
+    }
+  },
+  {
+    "name": "繁星似锦，终有归途",
+    "link": "https://music.163.com/song?id=1437807056",
+    "duration": "02:27",
+    "artists": [
+      { "name": "Esther", "link": "https://music.163.com/artist?id=34328870" }
+    ],
+    "album": {
+      "name": "繁星似锦，终有归途",
+      "link": "https://music.163.com/album?id=87554436"
+    }
+  },
+  {
+    "name": "Was It You (Original Mix)",
+    "link": "https://music.163.com/song?id=1842317673",
+    "duration": "05:22",
+    "artists": [
+      { "name": "Au5", "link": "https://music.163.com/artist?id=359309" },
+      { "name": "HALIENE", "link": "https://music.163.com/artist?id=13202710" }
+    ],
+    "album": {
+      "name": "Was It You (Remixes)",
+      "link": "https://music.163.com/album?id=126891296"
+    }
+  },
+  {
+    "name": "天微雨，她就像朵莲花，开满我全部的视线。",
+    "link": "https://music.163.com/song?id=524805604",
+    "duration": "03:54",
+    "artists": [
+      { "name": "十指流玉", "link": "https://music.163.com/artist?id=12021027" }
+    ],
+    "album": { "name": "心", "link": "https://music.163.com/album?id=36992642" }
+  },
+  {
+    "name": "夜航星 (Night Voyager) - (动画片《我的三体之章北海传》尾曲)",
+    "link": "https://music.163.com/song?id=1431292823",
+    "duration": "05:03",
+    "artists": [
+      { "name": "不才", "link": "https://music.163.com/artist?id=961358" },
+      { "name": "三体宇宙", "link": "https://music.163.com/artist?id=34574994" }
+    ],
+    "album": {
+      "name": "我的三体之章北海传 原声音乐集",
+      "link": "https://music.163.com/album?id=86534956"
+    }
+  },
+  {
+    "name": "Moskau",
+    "link": "https://music.163.com/song?id=1430444227",
+    "duration": "03:35",
+    "artists": [
+      {
+        "name": "Da Tweekaz",
+        "link": "https://music.163.com/artist?id=334026"
+      },
+      {
+        "name": "Harris & Ford",
+        "link": "https://music.163.com/artist?id=11985013"
+      }
+    ],
+    "album": {
+      "name": "Moskau",
+      "link": "https://music.163.com/album?id=86459983"
+    }
+  },
+  {
+    "name": "God is A Girl",
+    "link": "https://music.163.com/song?id=28952154",
+    "duration": "03:01",
+    "artists": [
+      {
+        "name": "Groove Coverage",
+        "link": "https://music.163.com/artist?id=93186"
+      }
+    ],
+    "album": {
+      "name": "100 Лирических песен для двоих",
+      "link": "https://music.163.com/album?id=2956163"
+    }
+  },
+  {
+    "name": "Champagne",
+    "link": "https://music.163.com/song?id=563733684",
+    "duration": "03:53",
+    "artists": [
+      {
+        "name": "Lia Marie Johnson",
+        "link": "https://music.163.com/artist?id=1046198"
+      }
+    ],
+    "album": {
+      "name": "Champagne",
+      "link": "https://music.163.com/album?id=39070129"
+    }
+  }
+]
