@@ -1,0 +1,507 @@
+[
+  {
+    "name": "Somebody New",
+    "link": "https://music.163.com/song?id=523001614",
+    "duration": "03:10",
+    "artists": [
+      { "name": "Faustix", "link": "https://music.163.com/artist?id=1155054" },
+      {
+        "name": "Alexander Oscar",
+        "link": "https://music.163.com/artist?id=12312150"
+      }
+    ],
+    "album": {
+      "name": "Faustix",
+      "link": "https://music.163.com/album?id=36900296"
+    }
+  },
+  {
+    "name": "Overflow",
+    "link": "https://music.163.com/song?id=456185223",
+    "duration": "03:36",
+    "artists": [
+      { "name": "SMLE", "link": "https://music.163.com/artist?id=1084201" },
+      {
+        "name": "Helen Tess",
+        "link": "https://music.163.com/artist?id=13311799"
+      }
+    ],
+    "album": {
+      "name": "Overflow (feat. Helen Tess)",
+      "link": "https://music.163.com/album?id=35158070"
+    }
+  },
+  {
+    "name": "My Dear (feat. Ollie Wade)",
+    "link": "https://music.163.com/song?id=1826115909",
+    "duration": "03:23",
+    "artists": [
+      { "name": "Axero", "link": "https://music.163.com/artist?id=1035020" },
+      {
+        "name": "Ollie Wade",
+        "link": "https://music.163.com/artist?id=13044012"
+      }
+    ],
+    "album": {
+      "name": "My Dear",
+      "link": "https://music.163.com/album?id=124123857"
+    }
+  },
+  {
+    "name": "Keep You Mine (Acoustic)",
+    "link": "https://music.163.com/song?id=1392089491",
+    "duration": "03:03",
+    "artists": [
+      { "name": "NOTD", "link": "https://music.163.com/artist?id=12262306" },
+      {
+        "name": "SHY Martin",
+        "link": "https://music.163.com/artist?id=12354062"
+      }
+    ],
+    "album": {
+      "name": "Keep You Mine (Acoustic)",
+      "link": "https://music.163.com/album?id=81786604"
+    }
+  },
+  {
+    "name": "Red Skies (Evolution Mix)",
+    "link": "https://music.163.com/song?id=1935839513",
+    "duration": "03:36",
+    "artists": [
+      { "name": "Chicane", "link": "https://music.163.com/artist?id=50971" }
+    ],
+    "album": {
+      "name": "Red Skies (Evolution Mix)",
+      "link": "https://music.163.com/album?id=143115888"
+    }
+  },
+  {
+    "name": "Falling For You",
+    "link": "https://music.163.com/song?id=1885408326",
+    "duration": "02:58",
+    "artists": [
+      { "name": "Sabai", "link": "https://music.163.com/artist?id=32093901" },
+      {
+        "name": "With Løve",
+        "link": "https://music.163.com/artist?id=31641424"
+      },
+      { "name": "Nevve", "link": "https://music.163.com/artist?id=12567101" }
+    ],
+    "album": {
+      "name": "Falling For You",
+      "link": "https://music.163.com/album?id=134510930"
+    }
+  },
+  {
+    "name": "lovely",
+    "link": "https://music.163.com/song?id=552448704",
+    "duration": "03:20",
+    "artists": [
+      {
+        "name": "Billie Eilish",
+        "link": "https://music.163.com/artist?id=11972054"
+      },
+      { "name": "Khalid", "link": "https://music.163.com/artist?id=301757" }
+    ],
+    "album": {
+      "name": "lovely",
+      "link": "https://music.163.com/album?id=38307439"
+    }
+  },
+  {
+    "name": "Ain't Nothing Like It",
+    "link": "https://music.163.com/song?id=1348835834",
+    "duration": "02:46",
+    "artists": [
+      { "name": "KLYMVX", "link": "https://music.163.com/artist?id=1149091" }
+    ],
+    "album": {
+      "name": "Ain't Nothing Like It",
+      "link": "https://music.163.com/album?id=75717310"
+    }
+  },
+  {
+    "name": "Never Gonna Let You",
+    "link": "https://music.163.com/song?id=533471294",
+    "duration": "03:17",
+    "artists": [
+      { "name": "Galavant", "link": "https://music.163.com/artist?id=858132" },
+      { "name": "Dafina", "link": "https://music.163.com/artist?id=13551498" },
+      { "name": "Max S", "link": "https://music.163.com/artist?id=13551005" }
+    ],
+    "album": {
+      "name": "Signs EP",
+      "link": "https://music.163.com/album?id=37422499"
+    }
+  },
+  {
+    "name": "Almost Home (MitiS Remix)",
+    "link": "https://music.163.com/song?id=1916366855",
+    "duration": "03:14",
+    "artists": [
+      {
+        "name": "Above & Beyond",
+        "link": "https://music.163.com/artist?id=85548"
+      },
+      {
+        "name": "Justine Suissa",
+        "link": "https://music.163.com/artist?id=37299"
+      }
+    ],
+    "album": {
+      "name": "Almost Home (The Remixes)",
+      "link": "https://music.163.com/album?id=139662495"
+    }
+  },
+  {
+    "name": "Closer",
+    "link": "https://music.163.com/song?id=1477575523",
+    "duration": "03:11",
+    "artists": [
+      { "name": "HAUS", "link": "https://music.163.com/artist?id=12028045" }
+    ],
+    "album": {
+      "name": "Closer",
+      "link": "https://music.163.com/album?id=95064034"
+    }
+  },
+  {
+    "name": "Your Eyes",
+    "link": "https://music.163.com/song?id=533018658",
+    "duration": "03:32",
+    "artists": [
+      { "name": "Neovaii", "link": "https://music.163.com/artist?id=12356095" }
+    ],
+    "album": {
+      "name": "Onward",
+      "link": "https://music.163.com/album?id=37374496"
+    }
+  },
+  {
+    "name": "Drama Free",
+    "link": "https://music.163.com/song?id=1371043420",
+    "duration": "03:05",
+    "artists": [
+      {
+        "name": "Maria Lynn",
+        "link": "https://music.163.com/artist?id=12273415"
+      },
+      {
+        "name": "Steve Reece",
+        "link": "https://music.163.com/artist?id=1147021"
+      }
+    ],
+    "album": {
+      "name": "Drama Free",
+      "link": "https://music.163.com/album?id=79711861"
+    }
+  },
+  {
+    "name": "Bored (feat. Tayler Buono)",
+    "link": "https://music.163.com/song?id=1854327105",
+    "duration": "02:54",
+    "artists": [
+      { "name": "BKAYE", "link": "https://music.163.com/artist?id=12008089" },
+      {
+        "name": "Tayler Buono",
+        "link": "https://music.163.com/artist?id=83212"
+      }
+    ],
+    "album": {
+      "name": "Bored (feat. Tayler Buono)",
+      "link": "https://music.163.com/album?id=129216056"
+    }
+  },
+  {
+    "name": "Rewriting History",
+    "link": "https://music.163.com/song?id=520525417",
+    "duration": "03:27",
+    "artists": [
+      {
+        "name": "Matt Terry",
+        "link": "https://music.163.com/artist?id=12214141"
+      }
+    ],
+    "album": {
+      "name": "Trouble",
+      "link": "https://music.163.com/album?id=36827686"
+    }
+  },
+  {
+    "name": "Be Better",
+    "link": "https://music.163.com/song?id=1909726443",
+    "duration": "02:40",
+    "artists": [
+      {
+        "name": "Raven & Kreyn",
+        "link": "https://music.163.com/artist?id=12355744"
+      },
+      { "name": "Mingue", "link": "https://music.163.com/artist?id=13678630" }
+    ],
+    "album": {
+      "name": "Be Better",
+      "link": "https://music.163.com/album?id=138466649"
+    }
+  },
+  {
+    "name": "Afterhours",
+    "link": "https://music.163.com/song?id=1363620027",
+    "duration": "03:25",
+    "artists": [
+      {
+        "name": "teamwork",
+        "link": "https://music.163.com/artist?id=32120712"
+      },
+      {
+        "name": "Nina Nesbitt",
+        "link": "https://music.163.com/artist?id=70292"
+      },
+      {
+        "name": "AJ Mitchell",
+        "link": "https://music.163.com/artist?id=12914329"
+      }
+    ],
+    "album": {
+      "name": "Afterhours",
+      "link": "https://music.163.com/album?id=78958233"
+    }
+  },
+  {
+    "name": "Drowning",
+    "link": "https://music.163.com/song?id=1381403325",
+    "duration": "02:36",
+    "artists": [
+      { "name": "Franklin", "link": "https://music.163.com/artist?id=57526" },
+      {
+        "name": "Digital Farm Animals",
+        "link": "https://music.163.com/artist?id=840929"
+      },
+      { "name": "Sorana", "link": "https://music.163.com/artist?id=427708" }
+    ],
+    "album": {
+      "name": "Drowning",
+      "link": "https://music.163.com/album?id=80720904"
+    }
+  },
+  {
+    "name": "With Me (Club Mix)",
+    "link": "https://music.163.com/song?id=1863091131",
+    "duration": "02:37",
+    "artists": [
+      {
+        "name": "Marc Benjamin",
+        "link": "https://music.163.com/artist?id=424771"
+      },
+      { "name": "Daecolm", "link": "https://music.163.com/artist?id=12492059" }
+    ],
+    "album": {
+      "name": "With Me",
+      "link": "https://music.163.com/album?id=130722769"
+    }
+  },
+  {
+    "name": "Dreams pt. II",
+    "link": "https://music.163.com/song?id=1330206725",
+    "duration": "03:35",
+    "artists": [
+      {
+        "name": "Lost Sky",
+        "link": "https://music.163.com/artist?id=28389556"
+      },
+      {
+        "name": "Sara Skinner",
+        "link": "https://music.163.com/artist?id=1132406"
+      }
+    ],
+    "album": {
+      "name": "Dreams pt. II",
+      "link": "https://music.163.com/album?id=74712350"
+    }
+  },
+  {
+    "name": "IDGAF",
+    "link": "https://music.163.com/song?id=1461556570",
+    "duration": "02:24",
+    "artists": [
+      {
+        "name": "Besomorph",
+        "link": "https://music.163.com/artist?id=13406913"
+      },
+      {
+        "name": "Silent Child",
+        "link": "https://music.163.com/artist?id=33406241"
+      }
+    ],
+    "album": {
+      "name": "IDGAF",
+      "link": "https://music.163.com/album?id=92187561"
+    }
+  },
+  {
+    "name": "Home (feat. Nick Warner)",
+    "link": "https://music.163.com/song?id=1396158062",
+    "duration": "03:45",
+    "artists": [
+      { "name": "MitiS", "link": "https://music.163.com/artist?id=40245" },
+      {
+        "name": "Nick Warner",
+        "link": "https://music.163.com/artist?id=32599887"
+      }
+    ],
+    "album": {
+      "name": "Shattered EP",
+      "link": "https://music.163.com/album?id=82295940"
+    }
+  },
+  {
+    "name": "Ballarena",
+    "link": "https://music.163.com/song?id=1314662246",
+    "duration": "03:00",
+    "artists": [
+      { "name": "Savi", "link": "https://music.163.com/artist?id=1116235" },
+      { "name": "Aleesia", "link": "https://music.163.com/artist?id=48272" },
+      {
+        "name": "Not From Mars",
+        "link": "https://music.163.com/artist?id=30252411"
+      }
+    ],
+    "album": {
+      "name": "Ballarena",
+      "link": "https://music.163.com/album?id=73742569"
+    }
+  },
+  {
+    "name": "Truest Lies",
+    "link": "https://music.163.com/song?id=507794708",
+    "duration": "03:01",
+    "artists": [
+      { "name": "Far Out", "link": "https://music.163.com/artist?id=824107" },
+      { "name": "Karra", "link": "https://music.163.com/artist?id=1081582" }
+    ],
+    "album": {
+      "name": "Truest Lies",
+      "link": "https://music.163.com/album?id=36303176"
+    }
+  },
+  {
+    "name": "Unfold",
+    "link": "https://music.163.com/song?id=1457710448",
+    "duration": "04:05",
+    "artists": [
+      { "name": "Ellis", "link": "https://music.163.com/artist?id=32932" },
+      { "name": "Tamzene", "link": "https://music.163.com/artist?id=31044724" }
+    ],
+    "album": {
+      "name": "Recollection Prospective",
+      "link": "https://music.163.com/album?id=91425690"
+    }
+  },
+  {
+    "name": "STFD",
+    "link": "https://music.163.com/song?id=454435829",
+    "duration": "03:46",
+    "artists": [
+      {
+        "name": "TeZATalks",
+        "link": "https://music.163.com/artist?id=12011097"
+      }
+    ],
+    "album": {
+      "name": "STFD",
+      "link": "https://music.163.com/album?id=35138093"
+    }
+  },
+  {
+    "name": "Seriously?",
+    "link": "https://music.163.com/song?id=1350364030",
+    "duration": "03:04",
+    "artists": [
+      { "name": "Laoise", "link": "https://music.163.com/artist?id=603947" }
+    ],
+    "album": {
+      "name": "Mad",
+      "link": "https://music.163.com/album?id=75781516"
+    }
+  },
+  {
+    "name": "By The River",
+    "link": "https://music.163.com/song?id=1346111359",
+    "duration": "03:32",
+    "artists": [
+      { "name": "FEWZ", "link": "https://music.163.com/artist?id=12008133" }
+    ],
+    "album": {
+      "name": "By The River",
+      "link": "https://music.163.com/album?id=75558383"
+    }
+  },
+  {
+    "name": "Summer In Your Eyes",
+    "link": "https://music.163.com/song?id=1456788475",
+    "duration": "03:21",
+    "artists": [
+      { "name": "Refuzion", "link": "https://music.163.com/artist?id=1081221" },
+      { "name": "rainage", "link": "https://music.163.com/artist?id=35637885" }
+    ],
+    "album": {
+      "name": "Summer In Your Eyes",
+      "link": "https://music.163.com/album?id=91244726"
+    }
+  },
+  {
+    "name": "Castle",
+    "link": "https://music.163.com/song?id=1467873415",
+    "duration": "03:16",
+    "artists": [
+      { "name": "Nightarc", "link": "https://music.163.com/artist?id=32930933" }
+    ],
+    "album": {
+      "name": "Castle",
+      "link": "https://music.163.com/album?id=93318403"
+    }
+  },
+  {
+    "name": "I'm Yours",
+    "link": "https://music.163.com/song?id=500684239",
+    "duration": "04:06",
+    "artists": [
+      { "name": "Day 7", "link": "https://music.163.com/artist?id=12009131" }
+    ],
+    "album": {
+      "name": "I'm Yours",
+      "link": "https://music.163.com/album?id=36030062"
+    }
+  },
+  {
+    "name": "Twinkle Twinkle",
+    "link": "https://music.163.com/song?id=1496577900",
+    "duration": "02:24",
+    "artists": [
+      { "name": "TBR", "link": "https://music.163.com/artist?id=12806033" },
+      { "name": "Haohinh", "link": "https://music.163.com/artist?id=12441181" },
+      {
+        "name": "ISLAND THUGS",
+        "link": "https://music.163.com/artist?id=33097102"
+      }
+    ],
+    "album": {
+      "name": "Twinkle Twinkle",
+      "link": "https://music.163.com/album?id=98515255"
+    }
+  },
+  {
+    "name": "Natural",
+    "link": "https://music.163.com/song?id=1294378245",
+    "duration": "03:09",
+    "artists": [
+      {
+        "name": "Imagine Dragons",
+        "link": "https://music.163.com/artist?id=94779"
+      }
+    ],
+    "album": {
+      "name": "Origins (Deluxe)",
+      "link": "https://music.163.com/album?id=74265645"
+    }
+  }
+]
