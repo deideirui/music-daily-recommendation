@@ -1,0 +1,466 @@
+[
+  {
+    "name": "Pitch Black",
+    "link": "https://music.163.com/song?id=35345482",
+    "duration": "03:00",
+    "artists": [
+      { "name": "Mazde", "link": "https://music.163.com/artist?id=1024181" },
+      { "name": "LissA", "link": "https://music.163.com/artist?id=66172" }
+    ],
+    "album": {
+      "name": "Mazde X LissA",
+      "link": "https://music.163.com/album?id=3319207"
+    }
+  },
+  {
+    "name": "Airplane",
+    "link": "https://music.163.com/song?id=1446962953",
+    "duration": "03:47",
+    "artists": [
+      {
+        "name": "Max Oazo",
+        "link": "https://music.163.com/artist?id=13159084"
+      },
+      { "name": "Moonessa", "link": "https://music.163.com/artist?id=29834706" }
+    ],
+    "album": {
+      "name": "Airplane",
+      "link": "https://music.163.com/album?id=89240666"
+    }
+  },
+  {
+    "name": "4U",
+    "link": "https://music.163.com/song?id=1351319693",
+    "duration": "03:11",
+    "artists": [
+      { "name": "Convex", "link": "https://music.163.com/artist?id=355739" },
+      {
+        "name": "Jex Jordyn",
+        "link": "https://music.163.com/artist?id=31647423"
+      }
+    ],
+    "album": { "name": "4U", "link": "https://music.163.com/album?id=75818619" }
+  },
+  {
+    "name": "Chains",
+    "link": "https://music.163.com/song?id=528271647",
+    "duration": "03:14",
+    "artists": [
+      { "name": "Far Out", "link": "https://music.163.com/artist?id=824107" }
+    ],
+    "album": {
+      "name": "Chains",
+      "link": "https://music.163.com/album?id=37176244"
+    }
+  },
+  {
+    "name": "Red Skies",
+    "link": "https://music.163.com/song?id=1935840451",
+    "duration": "03:54",
+    "artists": [
+      { "name": "Chicane", "link": "https://music.163.com/artist?id=50971" }
+    ],
+    "album": {
+      "name": "Red Skies (Evolution Mix)",
+      "link": "https://music.163.com/album?id=143115888"
+    }
+  },
+  {
+    "name": "Fall To Light",
+    "link": "https://music.163.com/song?id=30512852",
+    "duration": "03:01",
+    "artists": [
+      { "name": "Laszlo", "link": "https://music.163.com/artist?id=38725" }
+    ],
+    "album": {
+      "name": "Fall To Light",
+      "link": "https://music.163.com/album?id=3102526"
+    }
+  },
+  {
+    "name": "Erase Me",
+    "link": "https://music.163.com/song?id=1301861956",
+    "duration": "03:30",
+    "artists": [
+      {
+        "name": "Said The Sky",
+        "link": "https://music.163.com/artist?id=1026094"
+      }
+    ],
+    "album": {
+      "name": "Wide-Eyed",
+      "link": "https://music.163.com/album?id=72316725"
+    }
+  },
+  {
+    "name": "Gold In The Valley",
+    "link": "https://music.163.com/song?id=1474810916",
+    "duration": "05:03",
+    "artists": [
+      { "name": "MitiS", "link": "https://music.163.com/artist?id=40245" },
+      { "name": "Elle Vee", "link": "https://music.163.com/artist?id=1046258" }
+    ],
+    "album": {
+      "name": "All I Have",
+      "link": "https://music.163.com/album?id=94642108"
+    }
+  },
+  {
+    "name": "A Place In My Heart",
+    "link": "https://music.163.com/song?id=22294103",
+    "duration": "03:40",
+    "artists": [
+      { "name": "Club 8", "link": "https://music.163.com/artist?id=89361" }
+    ],
+    "album": {
+      "name": "Club 8",
+      "link": "https://music.163.com/album?id=2047290"
+    }
+  },
+  {
+    "name": "Here With You (Coone Remix)",
+    "link": "https://music.163.com/song?id=507796005",
+    "duration": "04:11",
+    "artists": [
+      { "name": "Coone", "link": "https://music.163.com/artist?id=211140" },
+      {
+        "name": "Lost Frequencies",
+        "link": "https://music.163.com/artist?id=1039114"
+      },
+      { "name": "Netsky", "link": "https://music.163.com/artist?id=40666" }
+    ],
+    "album": {
+      "name": "Here With You (Coone Remix)",
+      "link": "https://music.163.com/album?id=36304198"
+    }
+  },
+  {
+    "name": "Ce Frumoasa E Iubirea",
+    "link": "https://music.163.com/song?id=2698075",
+    "duration": "03:12",
+    "artists": [
+      { "name": "Giulia", "link": "https://music.163.com/artist?id=59153" }
+    ],
+    "album": {
+      "name": "Primul Pas",
+      "link": "https://music.163.com/album?id=272140"
+    }
+  },
+  {
+    "name": "Nekozilla",
+    "link": "https://music.163.com/song?id=41636037",
+    "duration": "02:48",
+    "artists": [
+      {
+        "name": "Different Heaven",
+        "link": "https://music.163.com/artist?id=1049917"
+      }
+    ],
+    "album": {
+      "name": "Nekozilla",
+      "link": "https://music.163.com/album?id=3443672"
+    }
+  },
+  {
+    "name": "Behind The Words",
+    "link": "https://music.163.com/song?id=412911959",
+    "duration": "02:02",
+    "artists": [
+      { "name": "Clau||M", "link": "https://music.163.com/artist?id=12048022" }
+    ],
+    "album": {
+      "name": "Behind The Words (Original C.)",
+      "link": "https://music.163.com/album?id=34702355"
+    }
+  },
+  {
+    "name": "自然光",
+    "link": "https://music.163.com/song?id=1451712766",
+    "duration": "04:44",
+    "artists": [
+      { "name": "Jiaye", "link": "https://music.163.com/artist?id=12027336" },
+      {
+        "name": "张天奕ZTYick",
+        "link": "https://music.163.com/artist?id=12304366"
+      },
+      { "name": "陆槿夕", "link": "https://music.163.com/artist?id=12968959" }
+    ],
+    "album": {
+      "name": "自然光",
+      "link": "https://music.163.com/album?id=90062890"
+    }
+  },
+  {
+    "name": "空生",
+    "link": "https://music.163.com/song?id=1456804694",
+    "duration": "03:26",
+    "artists": [
+      {
+        "name": "Daniel One",
+        "link": "https://music.163.com/artist?id=33990099"
+      }
+    ],
+    "album": {
+      "name": "空生",
+      "link": "https://music.163.com/album?id=91225792"
+    }
+  },
+  {
+    "name": "遇见（Vocal Version.）",
+    "link": "https://music.163.com/song?id=1808696297",
+    "duration": "02:51",
+    "artists": [
+      {
+        "name": "马丁的披萨PizzA_",
+        "link": "https://music.163.com/artist?id=34203643"
+      },
+      { "name": "白鸿", "link": "https://music.163.com/artist?id=31008744" }
+    ],
+    "album": {
+      "name": "遇见（Vocal Version.）",
+      "link": "https://music.163.com/album?id=121049759"
+    }
+  },
+  {
+    "name": "夏日",
+    "link": "https://music.163.com/song?id=413829862",
+    "duration": "02:58",
+    "artists": [
+      { "name": "四季音色", "link": "https://music.163.com/artist?id=12028059" }
+    ],
+    "album": {
+      "name": "春夏之交，轻旋淡律",
+      "link": "https://music.163.com/album?id=34704413"
+    }
+  },
+  {
+    "name": "Rebel (Sound Rush Remix)",
+    "link": "https://music.163.com/song?id=1386921248",
+    "duration": "03:47",
+    "artists": [
+      {
+        "name": "D-Block & S-te-Fan",
+        "link": "https://music.163.com/artist?id=13594504"
+      },
+      {
+        "name": "Sound Rush",
+        "link": "https://music.163.com/artist?id=1050827"
+      }
+    ],
+    "album": {
+      "name": "Rebel (Sound Rush Remix)",
+      "link": "https://music.163.com/album?id=81188894"
+    }
+  },
+  {
+    "name": "DOAR CU TINE",
+    "link": "https://music.163.com/song?id=25862810",
+    "duration": "03:31",
+    "artists": [
+      { "name": "Activ", "link": "https://music.163.com/artist?id=86644" }
+    ],
+    "album": {
+      "name": "苏荷酒吧",
+      "link": "https://music.163.com/album?id=2337206"
+    }
+  },
+  {
+    "name": "谎言",
+    "link": "https://music.163.com/song?id=1375583285",
+    "duration": "04:28",
+    "artists": [
+      { "name": "黄龄", "link": "https://music.163.com/artist?id=7890" }
+    ],
+    "album": { "name": "醉", "link": "https://music.163.com/album?id=80165714" }
+  },
+  {
+    "name": "Nothing Breaks Like A Heart (Original Mix)",
+    "link": "https://music.163.com/song?id=484314588",
+    "duration": "06:39",
+    "artists": [
+      {
+        "name": "Raz Nitzan",
+        "link": "https://music.163.com/artist?id=12170178"
+      },
+      {
+        "name": "Maria Nayler",
+        "link": "https://music.163.com/artist?id=273493"
+      }
+    ],
+    "album": {
+      "name": "Nothing Breaks Like A Heart",
+      "link": "https://music.163.com/album?id=35622463"
+    }
+  },
+  {
+    "name": "God Is A Girl(Fallen Remix Mzoce Edit)",
+    "link": "https://music.163.com/song?id=525072570",
+    "duration": "03:38",
+    "artists": [
+      {
+        "name": "HARDSTYLE",
+        "link": "https://music.163.com/artist?id=12236432"
+      }
+    ],
+    "album": {
+      "name": "God Is A Girl(Fallen Superhero Remix Mzoce Edit)",
+      "link": "https://music.163.com/album?id=37017239"
+    }
+  },
+  {
+    "name": "Summersong 2018",
+    "link": "https://music.163.com/song?id=573013100",
+    "duration": "03:46",
+    "artists": [
+      {
+        "name": "Elektronomia",
+        "link": "https://music.163.com/artist?id=1081540"
+      }
+    ],
+    "album": {
+      "name": "Summersong 2018",
+      "link": "https://music.163.com/album?id=39675455"
+    }
+  },
+  {
+    "name": "Fading",
+    "link": "https://music.163.com/song?id=1452233129",
+    "duration": "03:46",
+    "artists": [
+      { "name": "Ratøxi", "link": "https://music.163.com/artist?id=34339493" },
+      {
+        "name": "Alan Walker",
+        "link": "https://music.163.com/artist?id=1045123"
+      }
+    ],
+    "album": {
+      "name": "Remix",
+      "link": "https://music.163.com/album?id=90165971"
+    }
+  },
+  {
+    "name": "Hybrid",
+    "link": "https://music.163.com/song?id=31381959",
+    "duration": "04:00",
+    "artists": [
+      { "name": "Andreas B.", "link": "https://music.163.com/artist?id=299713" }
+    ],
+    "album": {
+      "name": "Hybrid",
+      "link": "https://music.163.com/album?id=3111775"
+    }
+  },
+  {
+    "name": "Sorry Seems To",
+    "link": "https://music.163.com/song?id=1413961059",
+    "duration": "03:41",
+    "artists": [
+      {
+        "name": "Nazym Itikeeva",
+        "link": "https://music.163.com/artist?id=34058058"
+      }
+    ],
+    "album": {
+      "name": "Made In Kz",
+      "link": "https://music.163.com/album?id=84694354"
+    }
+  },
+  {
+    "name": "Outside (Nüwa Bootleg)",
+    "link": "https://music.163.com/song?id=1305364961",
+    "duration": "04:28",
+    "artists": [
+      { "name": "Nüwa", "link": "https://music.163.com/artist?id=12279184" }
+    ],
+    "album": {
+      "name": "Outside",
+      "link": "https://music.163.com/album?id=72701945"
+    }
+  },
+  {
+    "name": "With Me",
+    "link": "https://music.163.com/song?id=4010902",
+    "duration": "04:41",
+    "artists": [
+      {
+        "name": "Capo Productions",
+        "link": "https://music.163.com/artist?id=90097"
+      }
+    ],
+    "album": {
+      "name": "Escape",
+      "link": "https://music.163.com/album?id=405563"
+    }
+  },
+  {
+    "name": "Takeaway (Interstellar Bootleg)",
+    "link": "https://music.163.com/song?id=1417510760",
+    "duration": "04:04",
+    "artists": [
+      {
+        "name": "Interstellar",
+        "link": "https://music.163.com/artist?id=12901191"
+      }
+    ],
+    "album": {
+      "name": "Takeaway (Interstellar Bootleg)",
+      "link": "https://music.163.com/album?id=85063309"
+    }
+  },
+  {
+    "name": "Let It Rain",
+    "link": "https://music.163.com/song?id=30870278",
+    "duration": "05:46",
+    "artists": [
+      {
+        "name": "Johnny Aves",
+        "link": "https://music.163.com/artist?id=1050696"
+      }
+    ],
+    "album": {
+      "name": "Let It Rain",
+      "link": "https://music.163.com/album?id=3104893"
+    }
+  },
+  {
+    "name": "Apollo (Dr Phunk Extended Remix)",
+    "link": "https://music.163.com/song?id=445703296",
+    "duration": "04:05",
+    "artists": [
+      { "name": "Hardwell", "link": "https://music.163.com/artist?id=34994" },
+      {
+        "name": "Amba Shepherd",
+        "link": "https://music.163.com/artist?id=191790"
+      },
+      { "name": "Dr Phunk", "link": "https://music.163.com/artist?id=334012" }
+    ],
+    "album": {
+      "name": "Dr.Phunk Remix EP",
+      "link": "https://music.163.com/album?id=35043053"
+    }
+  },
+  {
+    "name": "你",
+    "link": "https://music.163.com/song?id=1387574167",
+    "duration": "03:03",
+    "artists": [
+      { "name": "周子琰", "link": "https://music.163.com/artist?id=10959" }
+    ],
+    "album": { "name": "你", "link": "https://music.163.com/album?id=81254353" }
+  },
+  {
+    "name": "Almost Forgot",
+    "link": "https://music.163.com/song?id=559342926",
+    "duration": "03:29",
+    "artists": [
+      {
+        "name": "Against the Current",
+        "link": "https://music.163.com/artist?id=783418"
+      }
+    ],
+    "album": {
+      "name": "Almost Forgot",
+      "link": "https://music.163.com/album?id=38691097"
+    }
+  }
+]
