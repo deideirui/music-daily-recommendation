@@ -1,0 +1,296 @@
+[
+  {
+    "name": "So Good (Alex Adair Remix)",
+    "link": "https://music.163.com/song?id=441566422",
+    "duration": "03:29",
+    "artists": [
+      {
+        "name": "Louisa Johnson",
+        "link": "https://music.163.com/artist?id=1192273"
+      },
+      {
+        "name": "Alex Adair",
+        "link": "https://music.163.com/artist?id=1043131"
+      }
+    ],
+    "album": {
+      "name": "So Good (Alex Adair Remix)",
+      "link": "https://music.163.com/album?id=34970671"
+    }
+  },
+  {
+    "name": "Breath By Breath",
+    "link": "https://music.163.com/song?id=1408646469",
+    "duration": "02:40",
+    "artists": [
+      { "name": "JLV", "link": "https://music.163.com/artist?id=12335463" },
+      { "name": "Clara Sofie", "link": "https://music.163.com/artist?id=53104" }
+    ],
+    "album": {
+      "name": "Breath By Breath",
+      "link": "https://music.163.com/album?id=83992262"
+    }
+  },
+  {
+    "name": "Lapse",
+    "link": "https://music.163.com/song?id=1419388376",
+    "duration": "02:51",
+    "artists": [
+      {
+        "name": "Ordinary",
+        "link": "https://music.163.com/artist?id=34578243"
+      },
+      {
+        "name": "Arch Valentines",
+        "link": "https://music.163.com/artist?id=34250309"
+      }
+    ],
+    "album": {
+      "name": "Lapse",
+      "link": "https://music.163.com/album?id=85281511"
+    }
+  },
+  {
+    "name": "Purple Clouds",
+    "link": "https://music.163.com/song?id=1450463921",
+    "duration": "02:33",
+    "artists": [
+      { "name": "Stvcks", "link": "https://music.163.com/artist?id=12213227" },
+      { "name": "Jaxomy", "link": "https://music.163.com/artist?id=29701895" }
+    ],
+    "album": {
+      "name": "Purple Clouds",
+      "link": "https://music.163.com/album?id=89879546"
+    }
+  },
+  {
+    "name": "Shots (Broiler Remix)",
+    "link": "https://music.163.com/song?id=1810859892",
+    "duration": "03:11",
+    "artists": [
+      {
+        "name": "Imagine Dragons",
+        "link": "https://music.163.com/artist?id=94779"
+      },
+      { "name": "Broiler", "link": "https://music.163.com/artist?id=886022" }
+    ],
+    "album": {
+      "name": "Edzésre Fel!",
+      "link": "https://music.163.com/album?id=121452916"
+    }
+  },
+  {
+    "name": "Infinity",
+    "link": "https://music.163.com/song?id=1433458564",
+    "duration": "02:48",
+    "artists": [
+      {
+        "name": "Jay Eskar",
+        "link": "https://music.163.com/artist?id=12132198"
+      }
+    ],
+    "album": {
+      "name": "Infinity",
+      "link": "https://music.163.com/album?id=86782825"
+    }
+  },
+  {
+    "name": "Ain't Nobody (Loves Me Better) [feat. Jasmine Thompson]",
+    "link": "https://music.163.com/song?id=31301088",
+    "duration": "03:06",
+    "artists": [
+      {
+        "name": "Felix Jaehn",
+        "link": "https://music.163.com/artist?id=963083"
+      },
+      {
+        "name": "Jasmine Thompson",
+        "link": "https://music.163.com/artist?id=863042"
+      }
+    ],
+    "album": {
+      "name": "Ain't Nobody (Loves Me Better) [feat. Jasmine Thompson]",
+      "link": "https://music.163.com/album?id=3115887"
+    }
+  },
+  {
+    "name": "Out Of Time",
+    "link": "https://music.163.com/song?id=1407640126",
+    "duration": "02:50",
+    "artists": [
+      {
+        "name": "Why So Sad",
+        "link": "https://music.163.com/artist?id=31588006"
+      }
+    ],
+    "album": {
+      "name": "Out Of Time",
+      "link": "https://music.163.com/album?id=83890129"
+    }
+  },
+  {
+    "name": "I'm A Human",
+    "link": "https://music.163.com/song?id=1422621896",
+    "duration": "02:24",
+    "artists": [
+      { "name": "Deekey", "link": "https://music.163.com/artist?id=12883069" }
+    ],
+    "album": {
+      "name": "I'm A Human",
+      "link": "https://music.163.com/album?id=85651344"
+    }
+  },
+  {
+    "name": "What They Want",
+    "link": "https://music.163.com/song?id=1911920640",
+    "duration": "03:44",
+    "artists": [
+      {
+        "name": "DeshRoane",
+        "link": "https://music.163.com/artist?id=51198737"
+      },
+      {
+        "name": "Revealed Recordings",
+        "link": "https://music.163.com/artist?id=28753573"
+      }
+    ],
+    "album": {
+      "name": "What They Want",
+      "link": "https://music.163.com/album?id=138871267"
+    }
+  },
+  {
+    "name": "Milk & Honey",
+    "link": "https://music.163.com/song?id=463352535",
+    "duration": "02:50",
+    "artists": [
+      { "name": "G Girls", "link": "https://music.163.com/artist?id=12061090" }
+    ],
+    "album": {
+      "name": "Milk & Honey",
+      "link": "https://music.163.com/album?id=35241037"
+    }
+  },
+  {
+    "name": "Closer",
+    "link": "https://music.163.com/song?id=423228325",
+    "duration": "04:04",
+    "artists": [
+      {
+        "name": "The Chainsmokers",
+        "link": "https://music.163.com/artist?id=893484"
+      },
+      { "name": "Halsey", "link": "https://music.163.com/artist?id=964321" }
+    ],
+    "album": {
+      "name": "Closer",
+      "link": "https://music.163.com/album?id=34796273"
+    }
+  },
+  {
+    "name": "I Do",
+    "link": "https://music.163.com/song?id=28256115",
+    "duration": "03:27",
+    "artists": [
+      { "name": "911", "link": "https://music.163.com/artist?id=46396" }
+    ],
+    "album": {
+      "name": "I Do",
+      "link": "https://music.163.com/album?id=2762022"
+    }
+  },
+  {
+    "name": "Lost",
+    "link": "https://music.163.com/song?id=1874787489",
+    "duration": "03:01",
+    "artists": [
+      { "name": "Tobu", "link": "https://music.163.com/artist?id=964486" }
+    ],
+    "album": {
+      "name": "Lost",
+      "link": "https://music.163.com/album?id=132639466"
+    }
+  },
+  {
+    "name": "Salt",
+    "link": "https://music.163.com/song?id=1461843288",
+    "duration": "03:03",
+    "artists": [
+      { "name": "FSDW", "link": "https://music.163.com/artist?id=32497241" }
+    ],
+    "album": {
+      "name": "Salt",
+      "link": "https://music.163.com/album?id=92251174"
+    }
+  },
+  {
+    "name": "Warriors (PT&PT Remix)",
+    "link": "https://music.163.com/song?id=35806136",
+    "duration": "05:00",
+    "artists": [
+      { "name": "PT&PT", "link": "https://music.163.com/artist?id=1176010" },
+      {
+        "name": "Nicky Romero",
+        "link": "https://music.163.com/artist?id=195142"
+      }
+    ],
+    "album": {
+      "name": "Warriors (PT&PT Remix)",
+      "link": "https://music.163.com/album?id=3375037"
+    }
+  },
+  {
+    "name": "Nothing In The World",
+    "link": "https://music.163.com/song?id=16489796",
+    "duration": "03:58",
+    "artists": [
+      {
+        "name": "Atomic Kitten",
+        "link": "https://music.163.com/artist?id=85511"
+      }
+    ],
+    "album": {
+      "name": "The Essential Collection",
+      "link": "https://music.163.com/album?id=1520976"
+    }
+  },
+  {
+    "name": "Sorry",
+    "link": "https://music.163.com/song?id=4259981",
+    "duration": "03:31",
+    "artists": [
+      { "name": "Queensberry", "link": "https://music.163.com/artist?id=99333" }
+    ],
+    "album": {
+      "name": "Volume I",
+      "link": "https://music.163.com/album?id=430625"
+    }
+  },
+  {
+    "name": "Un Ange Frappe à Ma Porte - (天使落在我家门)",
+    "link": "https://music.163.com/song?id=3165930",
+    "duration": "04:08",
+    "artists": [
+      {
+        "name": "Natasha St. Pier",
+        "link": "https://music.163.com/artist?id=69336"
+      }
+    ],
+    "album": {
+      "name": "Tu Trouveras",
+      "link": "https://music.163.com/album?id=320353"
+    }
+  },
+  {
+    "name": "So Low",
+    "link": "https://music.163.com/song?id=1885103375",
+    "duration": "02:35",
+    "artists": [
+      { "name": "Gh064", "link": "https://music.163.com/artist?id=34149653" }
+    ],
+    "album": {
+      "name": "So Low",
+      "link": "https://music.163.com/album?id=134450465"
+    }
+  }
+]
