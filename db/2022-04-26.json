@@ -1,0 +1,452 @@
+[
+  {
+    "name": "Something Just Like This(Megamix)",
+    "link": "https://music.163.com/song?id=471565537",
+    "duration": "04:09",
+    "artists": [
+      {
+        "name": "AnDyWuMUSICLAND",
+        "link": "https://music.163.com/artist?id=11998011"
+      },
+      {
+        "name": "Worry Free Studios",
+        "link": "https://music.163.com/artist?id=46503501"
+      }
+    ],
+    "album": {
+      "name": "Something Just Like This (Megamix)",
+      "link": "https://music.163.com/album?id=35358163"
+    }
+  },
+  {
+    "name": "Until We Die",
+    "link": "https://music.163.com/song?id=1377830798",
+    "duration": "02:57",
+    "artists": [
+      { "name": "WATEVA", "link": "https://music.163.com/artist?id=12475726" },
+      {
+        "name": "Next to Neon",
+        "link": "https://music.163.com/artist?id=14470344"
+      }
+    ],
+    "album": {
+      "name": "Until We Die",
+      "link": "https://music.163.com/album?id=80383720"
+    }
+  },
+  {
+    "name": "Falling Down (feat. James Delaney)",
+    "link": "https://music.163.com/song?id=1493077219",
+    "duration": "03:27",
+    "artists": [
+      {
+        "name": "Wild Cards",
+        "link": "https://music.163.com/artist?id=12218142"
+      },
+      {
+        "name": "James Delaney",
+        "link": "https://music.163.com/artist?id=12896142"
+      }
+    ],
+    "album": {
+      "name": "Falling Down (feat. James Delaney)",
+      "link": "https://music.163.com/album?id=97930909"
+    }
+  },
+  {
+    "name": "Lovefool",
+    "link": "https://music.163.com/song?id=1478322298",
+    "duration": "03:10",
+    "artists": [
+      {
+        "name": "twocolors",
+        "link": "https://music.163.com/artist?id=14177760"
+      }
+    ],
+    "album": {
+      "name": "Party 2020",
+      "link": "https://music.163.com/album?id=95255054"
+    }
+  },
+  {
+    "name": "Octopus",
+    "link": "https://music.163.com/song?id=1439704663",
+    "duration": "02:51",
+    "artists": [
+      { "name": "ALan", "link": "https://music.163.com/artist?id=47535559" }
+    ],
+    "album": {
+      "name": "Octopus",
+      "link": "https://music.163.com/album?id=87889643"
+    }
+  },
+  {
+    "name": "Let Me Down Slowly",
+    "link": "https://music.163.com/song?id=1325349670",
+    "duration": "02:49",
+    "artists": [
+      {
+        "name": "Alec Benjamin",
+        "link": "https://music.163.com/artist?id=1028104"
+      }
+    ],
+    "album": {
+      "name": "Narrated For You",
+      "link": "https://music.163.com/album?id=74408260"
+    }
+  },
+  {
+    "name": "Nu",
+    "link": "https://music.163.com/song?id=29819848",
+    "duration": "04:01",
+    "artists": [
+      { "name": "DJ Project", "link": "https://music.163.com/artist?id=91079" },
+      { "name": "Giulia", "link": "https://music.163.com/artist?id=59153" }
+    ],
+    "album": { "name": "Nu", "link": "https://music.163.com/album?id=3084595" }
+  },
+  {
+    "name": "Nothing New",
+    "link": "https://music.163.com/song?id=519367069",
+    "duration": "02:40",
+    "artists": [
+      { "name": "Dropgun", "link": "https://music.163.com/artist?id=972015" },
+      {
+        "name": "Kaleena Zanders",
+        "link": "https://music.163.com/artist?id=13368664"
+      }
+    ],
+    "album": {
+      "name": "Nothing New",
+      "link": "https://music.163.com/album?id=36829028"
+    }
+  },
+  {
+    "name": "Umbrella(Remix)",
+    "link": "https://music.163.com/song?id=1831768247",
+    "duration": "03:24",
+    "artists": [
+      {
+        "name": "南辰Music",
+        "link": "https://music.163.com/artist?id=34492596"
+      }
+    ],
+    "album": {
+      "name": "BOOTLEG",
+      "link": "https://music.163.com/album?id=124986363"
+    }
+  },
+  {
+    "name": "Sold Out",
+    "link": "https://music.163.com/song?id=31010566",
+    "duration": "03:32",
+    "artists": [
+      { "name": "Hawk Nelson", "link": "https://music.163.com/artist?id=34518" }
+    ],
+    "album": {
+      "name": "Diamonds",
+      "link": "https://music.163.com/album?id=3109316"
+    }
+  },
+  {
+    "name": "BonBon (Monkey MO Remix)",
+    "link": "https://music.163.com/song?id=1401075289",
+    "duration": "03:29",
+    "artists": [
+      {
+        "name": "Monkey Mo",
+        "link": "https://music.163.com/artist?id=33362413"
+      }
+    ],
+    "album": {
+      "name": "BonBon (Monkey MO Remix)",
+      "link": "https://music.163.com/album?id=82988503"
+    }
+  },
+  {
+    "name": "Angetenar (Emre Kabak Remix)",
+    "link": "https://music.163.com/song?id=1432160937",
+    "duration": "03:16",
+    "artists": [
+      {
+        "name": "Emre Kabak",
+        "link": "https://music.163.com/artist?id=34605826"
+      }
+    ],
+    "album": {
+      "name": "Angetenar (Emre Kabak Remix)",
+      "link": "https://music.163.com/album?id=86631962"
+    }
+  },
+  {
+    "name": "Collapsing World",
+    "link": "https://music.163.com/song?id=38018486",
+    "duration": "03:10",
+    "artists": [
+      {
+        "name": "Lightscape",
+        "link": "https://music.163.com/artist?id=1084238"
+      }
+    ],
+    "album": {
+      "name": "Collapsing World",
+      "link": "https://music.163.com/album?id=3427126"
+    }
+  },
+  {
+    "name": "雨会感到难过吗",
+    "link": "https://music.163.com/song?id=1846218799",
+    "duration": "03:15",
+    "artists": [
+      { "name": "七结音", "link": "https://music.163.com/artist?id=34440087" }
+    ],
+    "album": {
+      "name": "雨会感到难过吗",
+      "link": "https://music.163.com/album?id=127669407"
+    }
+  },
+  {
+    "name": "寻",
+    "link": "https://music.163.com/song?id=31445474",
+    "duration": "03:12",
+    "artists": [
+      { "name": "三亩地", "link": "https://music.163.com/artist?id=1044144" }
+    ],
+    "album": { "name": "寻", "link": "https://music.163.com/album?id=3116775" }
+  },
+  {
+    "name": "独行",
+    "link": "https://music.163.com/song?id=410710596",
+    "duration": "02:46",
+    "artists": [
+      { "name": "whtlook", "link": "https://music.163.com/artist?id=12039027" }
+    ],
+    "album": {
+      "name": "存在ｘ",
+      "link": "https://music.163.com/album?id=34671257"
+    }
+  },
+  {
+    "name": "Time to Pretend",
+    "link": "https://music.163.com/song?id=1377642003",
+    "duration": "05:14",
+    "artists": [
+      {
+        "name": "Lazer Boomerang",
+        "link": "https://music.163.com/artist?id=13976294"
+      }
+    ],
+    "album": {
+      "name": "Time to Pretend",
+      "link": "https://music.163.com/album?id=80371789"
+    }
+  },
+  {
+    "name": "忆",
+    "link": "https://music.163.com/song?id=29393037",
+    "duration": "03:27",
+    "artists": [
+      { "name": "陈亮", "link": "https://music.163.com/artist?id=224360" }
+    ],
+    "album": {
+      "name": "无题",
+      "link": "https://music.163.com/album?id=3017184"
+    }
+  },
+  {
+    "name": "Love mail",
+    "link": "https://music.163.com/song?id=3203393",
+    "duration": "03:29",
+    "artists": [
+      {
+        "name": "Nicoleta Matei",
+        "link": "https://music.163.com/artist?id=70193"
+      }
+    ],
+    "album": {
+      "name": "Love Mail",
+      "link": "https://music.163.com/album?id=324173"
+    }
+  },
+  {
+    "name": "Hide From The World",
+    "link": "https://music.163.com/song?id=1467159758",
+    "duration": "02:42",
+    "artists": [
+      {
+        "name": "Luca Testa",
+        "link": "https://music.163.com/artist?id=1181227"
+      },
+      {
+        "name": "PRYVT RYN",
+        "link": "https://music.163.com/artist?id=13902661"
+      }
+    ],
+    "album": {
+      "name": "Hide From The World",
+      "link": "https://music.163.com/album?id=93264481"
+    }
+  },
+  {
+    "name": "Oops J'Aime Pas L'Anglais ! - (唉！我好讨厌英语！)",
+    "link": "https://music.163.com/song?id=25862796",
+    "duration": "02:59",
+    "artists": [
+      { "name": "Gullia", "link": "https://music.163.com/artist?id=59147" }
+    ],
+    "album": {
+      "name": "苏荷酒吧",
+      "link": "https://music.163.com/album?id=2337206"
+    }
+  },
+  {
+    "name": "我们还是做朋友吧 (深情版)",
+    "link": "https://music.163.com/song?id=1835671711",
+    "duration": "03:46",
+    "artists": [
+      {
+        "name": "巴啦啦啦噜",
+        "link": "https://music.163.com/artist?id=47132171"
+      }
+    ],
+    "album": {
+      "name": "刺客伍六七玄武国",
+      "link": "https://music.163.com/album?id=125421017"
+    }
+  },
+  {
+    "name": "一刀七段（动画《刺客伍六七》主题曲粤语版）",
+    "link": "https://music.163.com/song?id=1351973198",
+    "duration": "04:04",
+    "artists": [
+      { "name": "bermudy", "link": "https://music.163.com/artist?id=29397593" }
+    ],
+    "album": {
+      "name": "一刀七段",
+      "link": "https://music.163.com/album?id=75827180"
+    }
+  },
+  {
+    "name": "超兽武装 - (动画片《超兽武装之仁者无敌》主题曲)",
+    "link": "https://music.163.com/song?id=31835410",
+    "duration": "03:46",
+    "artists": [
+      { "name": "陈洁丽", "link": "https://music.163.com/artist?id=7244" },
+      { "name": "刘罡", "link": "https://music.163.com/artist?id=3774" }
+    ],
+    "album": {
+      "name": "超兽武装 动漫原声带",
+      "link": "https://music.163.com/album?id=3139163"
+    }
+  },
+  {
+    "name": "Young Again (Sound Energizer Remix)",
+    "link": "https://music.163.com/song?id=458238412",
+    "duration": "04:04",
+    "artists": [
+      {
+        "name": "Sound Energizer",
+        "link": "https://music.163.com/artist?id=12048077"
+      },
+      { "name": "Hardwell", "link": "https://music.163.com/artist?id=34994" },
+      { "name": "Chris Jones", "link": "https://music.163.com/artist?id=52331" }
+    ],
+    "album": {
+      "name": "Young Again (Sound Energizer Remix)",
+      "link": "https://music.163.com/album?id=35157400"
+    }
+  },
+  {
+    "name": "Just About Enough",
+    "link": "https://music.163.com/song?id=19123407",
+    "duration": "03:44",
+    "artists": [
+      {
+        "name": "Sarina Paris",
+        "link": "https://music.163.com/artist?id=75286"
+      }
+    ],
+    "album": {
+      "name": "Sarina Paris",
+      "link": "https://music.163.com/album?id=1753065"
+    }
+  },
+  {
+    "name": "Last Christmas(Frequencerz Hardstyle Edit)",
+    "link": "https://music.163.com/song?id=1410831810",
+    "duration": "02:26",
+    "artists": [
+      {
+        "name": "Frequencerz",
+        "link": "https://music.163.com/artist?id=366903"
+      }
+    ],
+    "album": {
+      "name": "Last Christmas(Frequencerz Hardstyle Edit)",
+      "link": "https://music.163.com/album?id=84240454"
+    }
+  },
+  {
+    "name": "Lullaby ",
+    "link": "https://music.163.com/song?id=508917206",
+    "duration": "02:43",
+    "artists": [
+      { "name": "Enzalla", "link": "https://music.163.com/artist?id=1137013" }
+    ],
+    "album": {
+      "name": "Lullaby",
+      "link": "https://music.163.com/album?id=36303388"
+    }
+  },
+  {
+    "name": "城市孤旅人",
+    "link": "https://music.163.com/song?id=549353137",
+    "duration": "03:25",
+    "artists": [
+      { "name": "明日未来", "link": "https://music.163.com/artist?id=12237612" }
+    ],
+    "album": {
+      "name": "城市孤旅人",
+      "link": "https://music.163.com/album?id=38104337"
+    }
+  },
+  {
+    "name": "晚霞",
+    "link": "https://music.163.com/song?id=1460003986",
+    "duration": "03:21",
+    "artists": [
+      { "name": "Kryust", "link": "https://music.163.com/artist?id=34759573" }
+    ],
+    "album": {
+      "name": "晚霞",
+      "link": "https://music.163.com/album?id=91854851"
+    }
+  },
+  {
+    "name": "Farewell",
+    "link": "https://music.163.com/song?id=34183389",
+    "duration": "03:56",
+    "artists": [
+      { "name": "Noicybino", "link": "https://music.163.com/artist?id=1074042" }
+    ],
+    "album": {
+      "name": "L.A.N.E",
+      "link": "https://music.163.com/album?id=3276152"
+    }
+  },
+  {
+    "name": "Play with Fire (feat. Yacht Money)",
+    "link": "https://music.163.com/song?id=529823784",
+    "duration": "03:00",
+    "artists": [
+      {
+        "name": "Sam Tinnesz",
+        "link": "https://music.163.com/artist?id=13057598"
+      }
+    ],
+    "album": {
+      "name": "Play with Fire (feat. Yacht Money)",
+      "link": "https://music.163.com/album?id=37253261"
+    }
+  }
+]
