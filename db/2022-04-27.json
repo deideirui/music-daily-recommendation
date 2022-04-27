@@ -1,0 +1,283 @@
+[
+  {
+    "name": "Somewhere",
+    "link": "https://music.163.com/song?id=1407659355",
+    "duration": "02:51",
+    "artists": [
+      {
+        "name": "Lucas Estrada",
+        "link": "https://music.163.com/artist?id=12409125"
+      }
+    ],
+    "album": {
+      "name": "Somewhere",
+      "link": "https://music.163.com/album?id=83892742"
+    }
+  },
+  {
+    "name": "Downfalls",
+    "link": "https://music.163.com/song?id=1438808727",
+    "duration": "03:10",
+    "artists": [
+      {
+        "name": "Cally Rhodes",
+        "link": "https://music.163.com/artist?id=12603359"
+      }
+    ],
+    "album": {
+      "name": "Downfalls",
+      "link": "https://music.163.com/album?id=87793610"
+    }
+  },
+  {
+    "name": "Cool",
+    "link": "https://music.163.com/song?id=1381883730",
+    "duration": "02:30",
+    "artists": [
+      {
+        "name": "Viva La Panda",
+        "link": "https://music.163.com/artist?id=31212960"
+      },
+      {
+        "name": "Ess Bogale",
+        "link": "https://music.163.com/artist?id=32055189"
+      }
+    ],
+    "album": {
+      "name": "Cool",
+      "link": "https://music.163.com/album?id=80765146"
+    }
+  },
+  {
+    "name": "Been A While",
+    "link": "https://music.163.com/song?id=402070863",
+    "duration": "02:43",
+    "artists": [
+      { "name": "Sam Feldt", "link": "https://music.163.com/artist?id=1025255" }
+    ],
+    "album": {
+      "name": "Been A While",
+      "link": "https://music.163.com/album?id=34477275"
+    }
+  },
+  {
+    "name": "Somebody To Love",
+    "link": "https://music.163.com/song?id=1427009474",
+    "duration": "02:52",
+    "artists": [
+      {
+        "name": "Dave Crusher",
+        "link": "https://music.163.com/artist?id=12915447"
+      },
+      { "name": "JackMar", "link": "https://music.163.com/artist?id=34343473" },
+      {
+        "name": "LEV in the Wild",
+        "link": "https://music.163.com/artist?id=46538491"
+      }
+    ],
+    "album": {
+      "name": "Somebody To Love",
+      "link": "https://music.163.com/album?id=86105525"
+    }
+  },
+  {
+    "name": "Cheap Thrills",
+    "link": "https://music.163.com/song?id=466817872",
+    "duration": "03:33",
+    "artists": [
+      { "name": "Sia", "link": "https://music.163.com/artist?id=74625" }
+    ],
+    "album": {
+      "name": "Sunday Morning Songs, Vol. 2",
+      "link": "https://music.163.com/album?id=35274398"
+    }
+  },
+  {
+    "name": "Remember Our Summer Future Bounce VIP",
+    "link": "https://music.163.com/song?id=1461579206",
+    "duration": "02:34",
+    "artists": [
+      {
+        "name": "FrogMonster",
+        "link": "https://music.163.com/artist?id=30549371"
+      }
+    ],
+    "album": {
+      "name": "Remember Our Summer Future Bounce VIP",
+      "link": "https://music.163.com/album?id=92135990"
+    }
+  },
+  {
+    "name": "What Is Love 2016",
+    "link": "https://music.163.com/song?id=436487041",
+    "duration": "03:08",
+    "artists": [
+      {
+        "name": "Lost Frequencies",
+        "link": "https://music.163.com/artist?id=1039114"
+      }
+    ],
+    "album": {
+      "name": "Less Is More",
+      "link": "https://music.163.com/album?id=34887003"
+    }
+  },
+  {
+    "name": "Tell Me Who",
+    "link": "https://music.163.com/song?id=521954931",
+    "duration": "03:21",
+    "artists": [
+      { "name": "Vanotek", "link": "https://music.163.com/artist?id=1081048" },
+      { "name": "Eneli", "link": "https://music.163.com/artist?id=12834607" }
+    ],
+    "album": {
+      "name": "No Sleep",
+      "link": "https://music.163.com/album?id=36885733"
+    }
+  },
+  {
+    "name": "Please Don't Go",
+    "link": "https://music.163.com/song?id=37653063",
+    "duration": "03:30",
+    "artists": [
+      {
+        "name": "Joel Adams",
+        "link": "https://music.163.com/artist?id=1188100"
+      }
+    ],
+    "album": {
+      "name": "Please Don't Go",
+      "link": "https://music.163.com/album?id=3415755"
+    }
+  },
+  {
+    "name": "My Love (Radio Edit)",
+    "link": "https://music.163.com/song?id=2081057",
+    "duration": "03:53",
+    "artists": [
+      { "name": "Westlife", "link": "https://music.163.com/artist?id=45839" }
+    ],
+    "album": {
+      "name": "Coast to Coast",
+      "link": "https://music.163.com/album?id=209631"
+    }
+  },
+  {
+    "name": "Sununga",
+    "link": "https://music.163.com/song?id=27937370",
+    "duration": "03:35",
+    "artists": [
+      { "name": "Bê Ignacio", "link": "https://music.163.com/artist?id=202216" }
+    ],
+    "album": {
+      "name": "Sununga",
+      "link": "https://music.163.com/album?id=2698054"
+    }
+  },
+  {
+    "name": "Right Here Waiting",
+    "link": "https://music.163.com/song?id=3313653",
+    "duration": "04:24",
+    "artists": [
+      {
+        "name": "Richard Marx",
+        "link": "https://music.163.com/artist?id=72725"
+      }
+    ],
+    "album": {
+      "name": "Ballads",
+      "link": "https://music.163.com/album?id=335631"
+    }
+  },
+  {
+    "name": "La Isla Bonita",
+    "link": "https://music.163.com/song?id=2116937",
+    "duration": "03:42",
+    "artists": [
+      { "name": "Alizée", "link": "https://music.163.com/artist?id=130638" }
+    ],
+    "album": {
+      "name": "Psychédélices",
+      "link": "https://music.163.com/album?id=213242"
+    }
+  },
+  {
+    "name": "On écrit sur les murs - (墙上之书)",
+    "link": "https://music.163.com/song?id=36607898",
+    "duration": "02:54",
+    "artists": [
+      {
+        "name": "Kids United",
+        "link": "https://music.163.com/artist?id=1181340"
+      }
+    ],
+    "album": {
+      "name": "Un monde meilleur",
+      "link": "https://music.163.com/album?id=3397416"
+    }
+  },
+  {
+    "name": "Un Ange Frappe à Ma Porte - (天使落在我家门)",
+    "link": "https://music.163.com/song?id=3166193",
+    "duration": "04:08",
+    "artists": [
+      {
+        "name": "Natasha St. Pier",
+        "link": "https://music.163.com/artist?id=69336"
+      }
+    ],
+    "album": {
+      "name": "Longueur d'Ondes",
+      "link": "https://music.163.com/album?id=320375"
+    }
+  },
+  {
+    "name": "Big Big World",
+    "link": "https://music.163.com/song?id=2534006",
+    "duration": "03:25",
+    "artists": [
+      { "name": "Emilia", "link": "https://music.163.com/artist?id=55542" }
+    ],
+    "album": {
+      "name": "Big Big World",
+      "link": "https://music.163.com/album?id=254984"
+    }
+  },
+  {
+    "name": "This Is The Summer",
+    "link": "https://music.163.com/song?id=25862798",
+    "duration": "04:21",
+    "artists": [
+      { "name": "Solid Base", "link": "https://music.163.com/artist?id=77754" }
+    ],
+    "album": {
+      "name": "苏荷酒吧",
+      "link": "https://music.163.com/album?id=2337206"
+    }
+  },
+  {
+    "name": "CALL FROM BABYLON",
+    "link": "https://music.163.com/song?id=25862802",
+    "duration": "03:31",
+    "artists": [{ "name": "Blue LagqIVToon", "link": "" }],
+    "album": {
+      "name": "苏荷酒吧",
+      "link": "https://music.163.com/album?id=2337206"
+    }
+  },
+  {
+    "name": "JUST STARTED BEING BAD",
+    "link": "https://music.163.com/song?id=25862801",
+    "duration": "03:42",
+    "artists": [
+      {
+        "name": "Sarah Connor",
+        "link": "https://music.163.com/artist?id=74616"
+      }
+    ],
+    "album": {
+      "name": "苏荷酒吧",
+      "link": "https://music.163.com/album?id=2337206"
+    }
+  }
+]
