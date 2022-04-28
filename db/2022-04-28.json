@@ -1,0 +1,337 @@
+[
+  {
+    "name": "Forget You",
+    "link": "https://music.163.com/song?id=566061139",
+    "duration": "03:05",
+    "artists": [
+      {
+        "name": "Melanie Wehbe",
+        "link": "https://music.163.com/artist?id=12086071"
+      }
+    ],
+    "album": {
+      "name": "Forget You",
+      "link": "https://music.163.com/album?id=39232119"
+    }
+  },
+  {
+    "name": "I Wanna Know (Syn Cole Remix)",
+    "link": "https://music.163.com/song?id=555974147",
+    "duration": "02:59",
+    "artists": [
+      { "name": "NOTD", "link": "https://music.163.com/artist?id=12262306" },
+      {
+        "name": "Bea Miller",
+        "link": "https://music.163.com/artist?id=908180"
+      },
+      { "name": "Syn Cole", "link": "https://music.163.com/artist?id=854432" }
+    ],
+    "album": {
+      "name": "I Wanna Know (Remixes)",
+      "link": "https://music.163.com/album?id=38513028"
+    }
+  },
+  {
+    "name": "In My Blood",
+    "link": "https://music.163.com/song?id=416531514",
+    "duration": "03:20",
+    "artists": [
+      {
+        "name": "The Veronicas",
+        "link": "https://music.163.com/artist?id=102022"
+      }
+    ],
+    "album": {
+      "name": "In My Blood",
+      "link": "https://music.163.com/album?id=34735045"
+    }
+  },
+  {
+    "name": "Insomnia",
+    "link": "https://music.163.com/song?id=1350638256",
+    "duration": "02:59",
+    "artists": [
+      { "name": "Daya", "link": "https://music.163.com/artist?id=1081186" }
+    ],
+    "album": {
+      "name": "Insomnia",
+      "link": "https://music.163.com/album?id=75797761"
+    }
+  },
+  {
+    "name": "Boss Bitch - (电影《猛禽小队和哈莉·奎茵》原声)",
+    "link": "https://music.163.com/song?id=1417673385",
+    "duration": "02:14",
+    "artists": [
+      { "name": "Doja Cat", "link": "https://music.163.com/artist?id=911131" }
+    ],
+    "album": {
+      "name": "Boss *****",
+      "link": "https://music.163.com/album?id=85070329"
+    }
+  },
+  {
+    "name": "How We Do",
+    "link": "https://music.163.com/song?id=1397748420",
+    "duration": "02:44",
+    "artists": [
+      {
+        "name": "Nigel Stately",
+        "link": "https://music.163.com/artist?id=28259766"
+      },
+      { "name": "Moonessa", "link": "https://music.163.com/artist?id=29834706" }
+    ],
+    "album": {
+      "name": "How We Do",
+      "link": "https://music.163.com/album?id=82530978"
+    }
+  },
+  {
+    "name": "Barcelona",
+    "link": "https://music.163.com/song?id=863382700",
+    "duration": "02:53",
+    "artists": [
+      {
+        "name": "Max George",
+        "link": "https://music.163.com/artist?id=27848162"
+      }
+    ],
+    "album": {
+      "name": "Barcelona",
+      "link": "https://music.163.com/album?id=71701071"
+    }
+  },
+  {
+    "name": "All Falls Down",
+    "link": "https://music.163.com/song?id=515453363",
+    "duration": "03:19",
+    "artists": [
+      {
+        "name": "Alan Walker",
+        "link": "https://music.163.com/artist?id=1045123"
+      },
+      {
+        "name": "Noah Cyrus",
+        "link": "https://music.163.com/artist?id=12175271"
+      },
+      {
+        "name": "Digital Farm Animals",
+        "link": "https://music.163.com/artist?id=840929"
+      },
+      {
+        "name": "Juliander",
+        "link": "https://music.163.com/artist?id=12647253"
+      }
+    ],
+    "album": {
+      "name": "All Falls Down",
+      "link": "https://music.163.com/album?id=36682047"
+    }
+  },
+  {
+    "name": "Simple",
+    "link": "https://music.163.com/song?id=475264065",
+    "duration": "02:49",
+    "artists": [
+      { "name": "Autograf", "link": "https://music.163.com/artist?id=47101" },
+      {
+        "name": "Victoria Zaro",
+        "link": "https://music.163.com/artist?id=13058594"
+      }
+    ],
+    "album": {
+      "name": "Simple",
+      "link": "https://music.163.com/album?id=35448042"
+    }
+  },
+  {
+    "name": "Siren (Original Mix)",
+    "link": "https://music.163.com/song?id=1407712490",
+    "duration": "02:48",
+    "artists": [
+      { "name": "Panuma", "link": "https://music.163.com/artist?id=12450239" },
+      {
+        "name": "Tokyo Project",
+        "link": "https://music.163.com/artist?id=15240796"
+      },
+      { "name": "Emiah", "link": "https://music.163.com/artist?id=30563954" }
+    ],
+    "album": {
+      "name": "Nothing But... Dance Sessions, Vol. 04",
+      "link": "https://music.163.com/album?id=83902851"
+    }
+  },
+  {
+    "name": "Some Say",
+    "link": "https://music.163.com/song?id=1388708876",
+    "duration": "02:55",
+    "artists": [
+      { "name": "Nea", "link": "https://music.163.com/artist?id=34133567" }
+    ],
+    "album": {
+      "name": "Some Say",
+      "link": "https://music.163.com/album?id=81361670"
+    }
+  },
+  {
+    "name": "Genie In a Bottle",
+    "link": "https://music.163.com/song?id=1449668615",
+    "duration": "02:40",
+    "artists": [
+      {
+        "name": "Marc Benjamin",
+        "link": "https://music.163.com/artist?id=424771"
+      }
+    ],
+    "album": {
+      "name": "Genie In a Bottle",
+      "link": "https://music.163.com/album?id=89731044"
+    }
+  },
+  {
+    "name": "Something Just Like This",
+    "link": "https://music.163.com/song?id=461347998",
+    "duration": "04:07",
+    "artists": [
+      {
+        "name": "The Chainsmokers",
+        "link": "https://music.163.com/artist?id=893484"
+      },
+      { "name": "Coldplay", "link": "https://music.163.com/artist?id=89365" }
+    ],
+    "album": {
+      "name": "Something Just Like This",
+      "link": "https://music.163.com/album?id=35196287"
+    }
+  },
+  {
+    "name": "That Girl",
+    "link": "https://music.163.com/song?id=440208476",
+    "duration": "02:56",
+    "artists": [
+      { "name": "Olly Murs", "link": "https://music.163.com/artist?id=41034" }
+    ],
+    "album": {
+      "name": "24 HRS (Deluxe)",
+      "link": "https://music.163.com/album?id=34970031"
+    }
+  },
+  {
+    "name": "Feel That Bass",
+    "link": "https://music.163.com/song?id=1493994896",
+    "duration": "02:15",
+    "artists": [
+      {
+        "name": "Chester Young",
+        "link": "https://music.163.com/artist?id=13703846"
+      },
+      { "name": "Avenax", "link": "https://music.163.com/artist?id=27818092" }
+    ],
+    "album": {
+      "name": "Feel That Bass",
+      "link": "https://music.163.com/album?id=98061704"
+    }
+  },
+  {
+    "name": "Lendo Calendo",
+    "link": "https://music.163.com/song?id=28071374",
+    "duration": "03:31",
+    "artists": [
+      { "name": "Dan Bălan", "link": "https://music.163.com/artist?id=32345" }
+    ],
+    "album": {
+      "name": "NRJ Dance 2013",
+      "link": "https://music.163.com/album?id=2722468"
+    }
+  },
+  {
+    "name": "The Boy I Used To Know",
+    "link": "https://music.163.com/song?id=5039548",
+    "duration": "02:51",
+    "artists": [
+      {
+        "name": "Marie Serneholt",
+        "link": "https://music.163.com/artist?id=66423"
+      }
+    ],
+    "album": {
+      "name": "PES2010 V2.0 (O.S.T)",
+      "link": "https://music.163.com/album?id=500568"
+    }
+  },
+  {
+    "name": "God Rest Ye Merry Gentlemen (Album Version)",
+    "link": "https://music.163.com/song?id=16483699",
+    "duration": "02:32",
+    "artists": [
+      { "name": "Aly & AJ", "link": "https://music.163.com/artist?id=85571" }
+    ],
+    "album": {
+      "name": "Acoustic Hearts Of Winter",
+      "link": "https://music.163.com/album?id=1520556"
+    }
+  },
+  {
+    "name": "Oops J'Aime Pas L'Anglais ! - (哎呀我不喜欢英语！)",
+    "link": "https://music.163.com/song?id=2697889",
+    "duration": "02:56",
+    "artists": [
+      { "name": "Gullia", "link": "https://music.163.com/artist?id=59147" }
+    ],
+    "album": {
+      "name": "Oops Jaime Pas Langlais",
+      "link": "https://music.163.com/album?id=272122"
+    }
+  },
+  {
+    "name": "Tu Me Manques - (我想你)",
+    "link": "https://music.163.com/song?id=3413713",
+    "duration": "03:56",
+    "artists": [
+      {
+        "name": "Sheryfa Luna",
+        "link": "https://music.163.com/artist?id=74680"
+      }
+    ],
+    "album": {
+      "name": "Si Tu Me Vois",
+      "link": "https://music.163.com/album?id=345890"
+    }
+  },
+  {
+    "name": "CHIKI CHIKI",
+    "link": "https://music.163.com/song?id=25862806",
+    "duration": "03:31",
+    "artists": [
+      { "name": "Starclub", "link": "https://music.163.com/artist?id=138473" }
+    ],
+    "album": {
+      "name": "苏荷酒吧",
+      "link": "https://music.163.com/album?id=2337206"
+    }
+  },
+  {
+    "name": "TEMPTATION",
+    "link": "https://music.163.com/song?id=25862809",
+    "duration": "03:39",
+    "artists": [
+      { "name": "Arash", "link": "https://music.163.com/artist?id=27642" }
+    ],
+    "album": {
+      "name": "苏荷酒吧",
+      "link": "https://music.163.com/album?id=2337206"
+    }
+  },
+  {
+    "name": "风月",
+    "link": "https://music.163.com/song?id=29775777",
+    "duration": "03:48",
+    "artists": [
+      { "name": "黄龄", "link": "https://music.163.com/artist?id=7890" }
+    ],
+    "album": {
+      "name": "龄·EP",
+      "link": "https://music.163.com/album?id=3329008"
+    }
+  }
+]
