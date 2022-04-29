@@ -1,0 +1,337 @@
+[
+  {
+    "name": "Monologue",
+    "link": "https://music.163.com/song?id=1491975907",
+    "duration": "02:38",
+    "artists": [
+      { "name": "Tobu", "link": "https://music.163.com/artist?id=964486" }
+    ],
+    "album": {
+      "name": "Monologue",
+      "link": "https://music.163.com/album?id=97708709"
+    }
+  },
+  {
+    "name": "Let's Run Away",
+    "link": "https://music.163.com/song?id=1904395553",
+    "duration": "02:46",
+    "artists": [
+      {
+        "name": "Jay Eskar",
+        "link": "https://music.163.com/artist?id=12132198"
+      },
+      { "name": "Doxed", "link": "https://music.163.com/artist?id=33214607" },
+      { "name": "Rico 56", "link": "https://music.163.com/artist?id=37200532" }
+    ],
+    "album": {
+      "name": "Let's Run Away",
+      "link": "https://music.163.com/album?id=137654487"
+    }
+  },
+  {
+    "name": "Stop! Stop! Stop!",
+    "link": "https://music.163.com/song?id=17518571",
+    "duration": "03:48",
+    "artists": [
+      { "name": "VIA Gra", "link": "https://music.163.com/artist?id=70155" }
+    ],
+    "album": {
+      "name": "Stop! Stop! Stop!",
+      "link": "https://music.163.com/album?id=1608998"
+    }
+  },
+  {
+    "name": "Moonlight Shadow",
+    "link": "https://music.163.com/song?id=29592187",
+    "duration": "04:32",
+    "artists": [
+      { "name": "Dana Winner", "link": "https://music.163.com/artist?id=54020" }
+    ],
+    "album": {
+      "name": " Lover Loving Dictionary",
+      "link": "https://music.163.com/album?id=3050223"
+    }
+  },
+  {
+    "name": "From Blue To Green (Evolution Mix)",
+    "link": "https://music.163.com/song?id=1941175465",
+    "duration": "03:47",
+    "artists": [
+      { "name": "Chicane", "link": "https://music.163.com/artist?id=50971" }
+    ],
+    "album": {
+      "name": "From Blue To Green (Evolution Mix)",
+      "link": "https://music.163.com/album?id=143935476"
+    }
+  },
+  {
+    "name": "哪吒",
+    "link": "https://music.163.com/song?id=505446392",
+    "duration": "03:12",
+    "artists": [
+      { "name": "蔡翊昇", "link": "https://music.163.com/artist?id=189955" }
+    ],
+    "album": {
+      "name": "十三夜之月",
+      "link": "https://music.163.com/album?id=36167379"
+    }
+  },
+  {
+    "name": "The magic key",
+    "link": "https://music.163.com/song?id=26783793",
+    "duration": "03:50",
+    "artists": [
+      { "name": "One-T", "link": "https://music.163.com/artist?id=70313" }
+    ],
+    "album": {
+      "name": "Bravo Hits 42",
+      "link": "https://music.163.com/album?id=2556453"
+    }
+  },
+  {
+    "name": "Stupid Man",
+    "link": "https://music.163.com/song?id=28023379",
+    "duration": "03:24",
+    "artists": [
+      { "name": "Smiley", "link": "https://music.163.com/artist?id=43418" }
+    ],
+    "album": {
+      "name": "Acasa",
+      "link": "https://music.163.com/album?id=2715226"
+    }
+  },
+  {
+    "name": "Floorfiller",
+    "link": "https://music.163.com/song?id=3560369",
+    "duration": "03:13",
+    "artists": [
+      { "name": "A*Teens", "link": "https://music.163.com/artist?id=132566" }
+    ],
+    "album": {
+      "name": "Greatest Hits",
+      "link": "https://music.163.com/album?id=360788"
+    }
+  },
+  {
+    "name": "Your Love Is My Drug",
+    "link": "https://music.163.com/song?id=2918952",
+    "duration": "03:07",
+    "artists": [
+      { "name": "Kesha", "link": "https://music.163.com/artist?id=63901" }
+    ],
+    "album": {
+      "name": "Animal (Expanded Edition)",
+      "link": "https://music.163.com/album?id=294761"
+    }
+  },
+  {
+    "name": "You Raise Me Up",
+    "link": "https://music.163.com/song?id=20707713",
+    "duration": "04:03",
+    "artists": [
+      { "name": "Westlife", "link": "https://music.163.com/artist?id=45839" }
+    ],
+    "album": {
+      "name": "You Raise Me Up",
+      "link": "https://music.163.com/album?id=1923830"
+    }
+  },
+  {
+    "name": "On the Radio",
+    "link": "https://music.163.com/song?id=5232086",
+    "duration": "03:00",
+    "artists": [
+      {
+        "name": "Groove Coverage",
+        "link": "https://music.163.com/artist?id=93186"
+      }
+    ],
+    "album": {
+      "name": "Happy Weekly THURSDAY 4(星期四)",
+      "link": "https://music.163.com/album?id=510703"
+    }
+  },
+  {
+    "name": "Because Of You",
+    "link": "https://music.163.com/song?id=5145737",
+    "duration": "03:39",
+    "artists": [
+      {
+        "name": "Kelly Clarkson",
+        "link": "https://music.163.com/artist?id=62885"
+      }
+    ],
+    "album": {
+      "name": "Strawberry Love",
+      "link": "https://music.163.com/album?id=506043"
+    }
+  },
+  {
+    "name": "Black black heart",
+    "link": "https://music.163.com/song?id=30148057",
+    "duration": "03:26",
+    "artists": [
+      { "name": "David Usher", "link": "https://music.163.com/artist?id=31247" }
+    ],
+    "album": {
+      "name": " Musical Harmony Collection",
+      "link": "https://music.163.com/album?id=3094008"
+    }
+  },
+  {
+    "name": "Faraway",
+    "link": "https://music.163.com/song?id=18059932",
+    "duration": "03:19",
+    "artists": [
+      { "name": "Gala", "link": "https://music.163.com/artist?id=59138" }
+    ],
+    "album": {
+      "name": "Tough Love (Deluxe Version)",
+      "link": "https://music.163.com/album?id=1660292"
+    }
+  },
+  {
+    "name": "All Rise",
+    "link": "https://music.163.com/song?id=5162502",
+    "duration": "03:43",
+    "artists": [
+      { "name": "Blue", "link": "https://music.163.com/artist?id=88145" }
+    ],
+    "album": {
+      "name": "Top of the Pops 2001",
+      "link": "https://music.163.com/album?id=506796"
+    }
+  },
+  {
+    "name": "Lullabye",
+    "link": "https://music.163.com/song?id=19336647",
+    "duration": "03:04",
+    "artists": [
+      {
+        "name": "Tynisha Keli",
+        "link": "https://music.163.com/artist?id=78281"
+      }
+    ],
+    "album": {
+      "name": "The Chronicles Of TK [Japanese Edition] (Japanese Std. Version)",
+      "link": "https://music.163.com/album?id=1776109"
+    }
+  },
+  {
+    "name": "THE STAR - (星星)",
+    "link": "https://music.163.com/song?id=25947783",
+    "duration": "03:33",
+    "artists": [
+      { "name": "Vitas", "link": "https://music.163.com/artist?id=45634" }
+    ],
+    "album": {
+      "name": "The Myth Of The Shaking Soul Voice",
+      "link": "https://music.163.com/album?id=2350242"
+    }
+  },
+  {
+    "name": "Like A Bird",
+    "link": "https://music.163.com/song?id=22846202",
+    "duration": "03:40",
+    "artists": [
+      {
+        "name": "Jade Valerie",
+        "link": "https://music.163.com/artist?id=162027"
+      }
+    ],
+    "album": {
+      "name": "Bittersweet Symphony",
+      "link": "https://music.163.com/album?id=2097636"
+    }
+  },
+  {
+    "name": "I'm Folle de Toi - In-Grid, Banks, C. - (嘟啊嘟)",
+    "link": "https://music.163.com/song?id=2771069",
+    "duration": "03:34",
+    "artists": [
+      { "name": "In-Grid", "link": "https://music.163.com/artist?id=60837" }
+    ],
+    "album": {
+      "name": "Rendez-Vous: The Sound of the Mediterranean",
+      "link": "https://music.163.com/album?id=279541"
+    }
+  },
+  {
+    "name": "Only Love - (电视剧《妙手仁心 II》插曲)",
+    "link": "https://music.163.com/song?id=2006865",
+    "duration": "04:06",
+    "artists": [
+      { "name": "Trademark", "link": "https://music.163.com/artist?id=44302" }
+    ],
+    "album": {
+      "name": "Only Love",
+      "link": "https://music.163.com/album?id=202222"
+    }
+  },
+  {
+    "name": "How Do You Do ?",
+    "link": "https://music.163.com/song?id=3950882",
+    "duration": "03:06",
+    "artists": [
+      { "name": "beFour", "link": "https://music.163.com/artist?id=88153" }
+    ],
+    "album": {
+      "name": "How Do You Do",
+      "link": "https://music.163.com/album?id=399681"
+    }
+  },
+  {
+    "name": "Stay",
+    "link": "https://music.163.com/song?id=25880349",
+    "duration": "05:20",
+    "artists": [
+      {
+        "name": "Tonya Mitchell",
+        "link": "https://music.163.com/artist?id=78227"
+      }
+    ],
+    "album": {
+      "name": "Lover Loving Dictionary 3",
+      "link": "https://music.163.com/album?id=2337573"
+    }
+  },
+  {
+    "name": "เจอกับตัวเอง...ถึงรู้ - (即使知道要见面)",
+    "link": "https://music.163.com/song?id=3427474",
+    "duration": "03:59",
+    "artists": [
+      {
+        "name": "Sara Nusara Poongprasert",
+        "link": "https://music.163.com/artist?id=74843"
+      }
+    ],
+    "album": {
+      "name": "Girl Friend",
+      "link": "https://music.163.com/album?id=347158"
+    }
+  },
+  {
+    "name": "American Boy (Glee Cast Version)",
+    "link": "https://music.163.com/song?id=28545104",
+    "duration": "03:50",
+    "artists": [
+      { "name": "Glee Cast", "link": "https://music.163.com/artist?id=93226" }
+    ],
+    "album": {
+      "name": " The Untitled Rachel Berry Project",
+      "link": "https://music.163.com/album?id=2822752"
+    }
+  },
+  {
+    "name": "Edge Of The Night",
+    "link": "https://music.163.com/song?id=485918020",
+    "duration": "03:24",
+    "artists": [
+      { "name": "Sheppard", "link": "https://music.163.com/artist?id=200742" }
+    ],
+    "album": {
+      "name": "Edge Of The Night",
+      "link": "https://music.163.com/album?id=35643305"
+    }
+  }
+]
