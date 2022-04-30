@@ -1,0 +1,485 @@
+[
+  {
+    "name": "Lullaby",
+    "link": "https://music.163.com/song?id=547035450",
+    "duration": "03:56",
+    "artists": [
+      {
+        "name": "Roxanne Emery",
+        "link": "https://music.163.com/artist?id=74561"
+      },
+      {
+        "name": "Roman Messer",
+        "link": "https://music.163.com/artist?id=905394"
+      }
+    ],
+    "album": {
+      "name": "A State Of Trance Top 20 - January 2018 (Selected by Armin van Buuren)",
+      "link": "https://music.163.com/album?id=38002494"
+    }
+  },
+  {
+    "name": "At That Point In Time",
+    "link": "https://music.163.com/song?id=1499953677",
+    "duration": "03:19",
+    "artists": [
+      {
+        "name": "Liam Wilson",
+        "link": "https://music.163.com/artist?id=407085"
+      }
+    ],
+    "album": {
+      "name": "At That Point In Time",
+      "link": "https://music.163.com/album?id=99034279"
+    }
+  },
+  {
+    "name": "L.I.F.E.",
+    "link": "https://music.163.com/song?id=439037024",
+    "duration": "02:59",
+    "artists": [
+      { "name": "Remady", "link": "https://music.163.com/artist?id=42785" },
+      { "name": "Manu-L", "link": "https://music.163.com/artist?id=412923" }
+    ],
+    "album": {
+      "name": "L.I.F.E.",
+      "link": "https://music.163.com/album?id=34970029"
+    }
+  },
+  {
+    "name": "What Is Love",
+    "link": "https://music.163.com/song?id=1306893003",
+    "duration": "03:05",
+    "artists": [
+      {
+        "name": "Max Oazo",
+        "link": "https://music.163.com/artist?id=13159084"
+      },
+      { "name": "Cami", "link": "https://music.163.com/artist?id=283909" }
+    ],
+    "album": {
+      "name": "What Is Love",
+      "link": "https://music.163.com/album?id=72923962"
+    }
+  },
+  {
+    "name": "Boundless",
+    "link": "https://music.163.com/song?id=1940794642",
+    "duration": "03:47",
+    "artists": [
+      {
+        "name": "Approaching Nirvana",
+        "link": "https://music.163.com/artist?id=86884"
+      }
+    ],
+    "album": {
+      "name": "Boundless",
+      "link": "https://music.163.com/album?id=143886297"
+    }
+  },
+  {
+    "name": "推开世界的门 - (央视纪录片《人生第一次》主题曲)",
+    "link": "https://music.163.com/song?id=441120217",
+    "duration": "04:42",
+    "artists": [
+      { "name": "杨乃文", "link": "https://music.163.com/artist?id=10198" }
+    ],
+    "album": {
+      "name": "离心力 ",
+      "link": "https://music.163.com/album?id=34984449"
+    }
+  },
+  {
+    "name": "Don't Say",
+    "link": "https://music.163.com/song?id=862099429",
+    "duration": "03:02",
+    "artists": [
+      { "name": "Hoang", "link": "https://music.163.com/artist?id=27694442" },
+      { "name": "Nevve", "link": "https://music.163.com/artist?id=12567101" }
+    ],
+    "album": {
+      "name": "Don't Say",
+      "link": "https://music.163.com/album?id=71614737"
+    }
+  },
+  {
+    "name": "Senorita (Relaxing Piano)",
+    "link": "https://music.163.com/song?id=1387616003",
+    "duration": "03:46",
+    "artists": [
+      {
+        "name": "Pierre Oslonn",
+        "link": "https://music.163.com/artist?id=31316731"
+      },
+      {
+        "name": "Piano Covers Club",
+        "link": "https://music.163.com/artist?id=12278971"
+      },
+      {
+        "name": "PianoDreams",
+        "link": "https://music.163.com/artist?id=12812342"
+      }
+    ],
+    "album": {
+      "name": "Chill Piano Covers: Summer Pop 2019",
+      "link": "https://music.163.com/album?id=81262061"
+    }
+  },
+  {
+    "name": "Shivers",
+    "link": "https://music.163.com/song?id=515601126",
+    "duration": "02:55",
+    "artists": [
+      {
+        "name": "Rachel Platten",
+        "link": "https://music.163.com/artist?id=74518"
+      }
+    ],
+    "album": {
+      "name": "Waves",
+      "link": "https://music.163.com/album?id=36515785"
+    }
+  },
+  {
+    "name": "Have You Never Been Mellow",
+    "link": "https://music.163.com/song?id=1418462816",
+    "duration": "02:27",
+    "artists": [
+      {
+        "name": "Keanu Silva",
+        "link": "https://music.163.com/artist?id=11974107"
+      }
+    ],
+    "album": {
+      "name": "Have You Never Been Mellow",
+      "link": "https://music.163.com/album?id=85171767"
+    }
+  },
+  {
+    "name": "Love the Way You Lie",
+    "link": "https://music.163.com/song?id=1483672581",
+    "duration": "02:44",
+    "artists": [
+      { "name": "BROHM", "link": "https://music.163.com/artist?id=35193620" },
+      { "name": "Pane", "link": "https://music.163.com/artist?id=562399" }
+    ],
+    "album": {
+      "name": "Love the Way You Lie",
+      "link": "https://music.163.com/album?id=96209722"
+    }
+  },
+  {
+    "name": "Ja Vidi",
+    "link": "https://music.163.com/song?id=1859010625",
+    "duration": "05:57",
+    "artists": [
+      {
+        "name": "Christophe Goze",
+        "link": "https://music.163.com/artist?id=51066"
+      }
+    ],
+    "album": {
+      "name": "Mediterraneo 2",
+      "link": "https://music.163.com/album?id=129980985"
+    }
+  },
+  {
+    "name": "Addict",
+    "link": "https://music.163.com/song?id=1456132713",
+    "duration": "02:45",
+    "artists": [
+      {
+        "name": "Morgan Page",
+        "link": "https://music.163.com/artist?id=39698"
+      },
+      {
+        "name": "jeonghyeon",
+        "link": "https://music.163.com/artist?id=28748581"
+      }
+    ],
+    "album": {
+      "name": "Addict",
+      "link": "https://music.163.com/album?id=91086483"
+    }
+  },
+  {
+    "name": "Lights (Single Version)",
+    "link": "https://music.163.com/song?id=27630387",
+    "duration": "03:30",
+    "artists": [
+      {
+        "name": "Ellie Goulding",
+        "link": "https://music.163.com/artist?id=56598"
+      }
+    ],
+    "album": {
+      "name": "Halcyon Days (Deluxe Edition)",
+      "link": "https://music.163.com/album?id=2622011"
+    }
+  },
+  {
+    "name": "NOT SO BAD",
+    "link": "https://music.163.com/song?id=1420917065",
+    "duration": "02:34",
+    "artists": [
+      {
+        "name": "Fecko Boltz",
+        "link": "https://music.163.com/artist?id=34293271"
+      }
+    ],
+    "album": {
+      "name": "NOT SO BAD",
+      "link": "https://music.163.com/album?id=85465373"
+    }
+  },
+  {
+    "name": "Someone You Loved (Acoustic)",
+    "link": "https://music.163.com/song?id=1401424495",
+    "duration": "03:28",
+    "artists": [
+      { "name": "Cimorelli", "link": "https://music.163.com/artist?id=90268" }
+    ],
+    "album": {
+      "name": "Someone You Loved (Acoustic)",
+      "link": "https://music.163.com/album?id=83037371"
+    }
+  },
+  {
+    "name": "Save Me",
+    "link": "https://music.163.com/song?id=478053833",
+    "duration": "02:51",
+    "artists": [
+      {
+        "name": "Mahmut Orhan",
+        "link": "https://music.163.com/artist?id=753025"
+      }
+    ],
+    "album": {
+      "name": "Save Me",
+      "link": "https://music.163.com/album?id=35497617"
+    }
+  },
+  {
+    "name": "Nevada",
+    "link": "https://music.163.com/song?id=418602088",
+    "duration": "03:28",
+    "artists": [
+      { "name": "Vicetone", "link": "https://music.163.com/artist?id=747030" },
+      {
+        "name": "Cozi Zuehlsdorff",
+        "link": "https://music.163.com/artist?id=1097153"
+      }
+    ],
+    "album": {
+      "name": "Nevada",
+      "link": "https://music.163.com/album?id=34750015"
+    }
+  },
+  {
+    "name": "Famous",
+    "link": "https://music.163.com/song?id=522647397",
+    "duration": "03:43",
+    "artists": [
+      {
+        "name": "Ivy Adara",
+        "link": "https://music.163.com/artist?id=12925126"
+      }
+    ],
+    "album": {
+      "name": "Famous",
+      "link": "https://music.163.com/album?id=36921067"
+    }
+  },
+  {
+    "name": "Floating (feat. Khalid) [filous Remix]",
+    "link": "https://music.163.com/song?id=1344440225",
+    "duration": "03:20",
+    "artists": [
+      {
+        "name": "Alina Baraz",
+        "link": "https://music.163.com/artist?id=860532"
+      },
+      { "name": "Khalid", "link": "https://music.163.com/artist?id=301757" },
+      { "name": "filous", "link": "https://music.163.com/artist?id=1081131" }
+    ],
+    "album": {
+      "name": "Floating (feat. Khalid) [filous Remix]",
+      "link": "https://music.163.com/album?id=75470773"
+    }
+  },
+  {
+    "name": "Tricks (feat Pollyanna)",
+    "link": "https://music.163.com/song?id=1472859288",
+    "duration": "02:35",
+    "artists": [
+      {
+        "name": "Bassjackers",
+        "link": "https://music.163.com/artist?id=268447"
+      },
+      { "name": "Pollyanna", "link": "https://music.163.com/artist?id=136461" }
+    ],
+    "album": {
+      "name": "Tricks",
+      "link": "https://music.163.com/album?id=94296276"
+    }
+  },
+  {
+    "name": "I Know (Radio Edit)",
+    "link": "https://music.163.com/song?id=29491453",
+    "duration": "03:14",
+    "artists": [
+      { "name": "SHIFT K3Y", "link": "https://music.163.com/artist?id=837035" }
+    ],
+    "album": {
+      "name": "I Know (Radio Edit)",
+      "link": "https://music.163.com/album?id=3034039"
+    }
+  },
+  {
+    "name": "Falling",
+    "link": "https://music.163.com/song?id=411907317",
+    "duration": "04:00",
+    "artists": [
+      { "name": "L3V3LS", "link": "https://music.163.com/artist?id=12007340" }
+    ],
+    "album": {
+      "name": "Falling",
+      "link": "https://music.163.com/album?id=34686431"
+    }
+  },
+  {
+    "name": "Free & High (Original Mix)",
+    "link": "https://music.163.com/song?id=543560947",
+    "duration": "03:34",
+    "artists": [
+      {
+        "name": "Topsy Crettz",
+        "link": "https://music.163.com/artist?id=13485084"
+      }
+    ],
+    "album": {
+      "name": "Just A Moment",
+      "link": "https://music.163.com/album?id=37859403"
+    }
+  },
+  {
+    "name": "Play Date",
+    "link": "https://music.163.com/song?id=1453282513",
+    "duration": "02:58",
+    "artists": [
+      { "name": "Metrixx", "link": "https://music.163.com/artist?id=33707968" }
+    ],
+    "album": {
+      "name": "Summer Hits 2020",
+      "link": "https://music.163.com/album?id=90407425"
+    }
+  },
+  {
+    "name": "I Like Me Better",
+    "link": "https://music.163.com/song?id=479223413",
+    "duration": "03:17",
+    "artists": [
+      { "name": "Lauv", "link": "https://music.163.com/artist?id=1057226" }
+    ],
+    "album": {
+      "name": "I Like Me Better",
+      "link": "https://music.163.com/album?id=35536102"
+    }
+  },
+  {
+    "name": "For You My Love",
+    "link": "https://music.163.com/song?id=556203260",
+    "duration": "02:52",
+    "artists": [
+      { "name": "BUNT.", "link": "https://music.163.com/artist?id=744145" },
+      { "name": "BEGINNERS", "link": "https://music.163.com/artist?id=964304" }
+    ],
+    "album": {
+      "name": "For You My Love",
+      "link": "https://music.163.com/album?id=38531089"
+    }
+  },
+  {
+    "name": "Hana",
+    "link": "https://music.163.com/song?id=32640442",
+    "duration": "03:18",
+    "artists": [
+      { "name": "Wisp X", "link": "https://music.163.com/artist?id=1046123" }
+    ],
+    "album": {
+      "name": "Hana",
+      "link": "https://music.163.com/album?id=3161768"
+    }
+  },
+  {
+    "name": "Without You (Starlyte Remix)",
+    "link": "https://music.163.com/song?id=573582374",
+    "duration": "04:08",
+    "artists": [
+      {
+        "name": "Starlyte",
+        "link": "https://music.163.com/artist?id=12006394"
+      },
+      { "name": "Avicii", "link": "https://music.163.com/artist?id=45236" },
+      {
+        "name": "Sandro Cavazza",
+        "link": "https://music.163.com/artist?id=12323230"
+      }
+    ],
+    "album": {
+      "name": "Without You (Starlyte Remix) ",
+      "link": "https://music.163.com/album?id=39720116"
+    }
+  },
+  {
+    "name": "Stitches",
+    "link": "https://music.163.com/song?id=424995318",
+    "duration": "02:42",
+    "artists": [
+      {
+        "name": "Conor Maynard",
+        "link": "https://music.163.com/artist?id=29020"
+      }
+    ],
+    "album": {
+      "name": "Covers",
+      "link": "https://music.163.com/album?id=34815049"
+    }
+  },
+  {
+    "name": "思い出は奇麗で - (美丽的回忆)",
+    "link": "https://music.163.com/song?id=1357774613",
+    "duration": "03:29",
+    "artists": [
+      { "name": "Aimer", "link": "https://music.163.com/artist?id=16152" }
+    ],
+    "album": {
+      "name": "Sun Dance",
+      "link": "https://music.163.com/album?id=78422025"
+    }
+  },
+  {
+    "name": "紅蓮華 - (红莲)",
+    "link": "https://music.163.com/song?id=1360592706",
+    "duration": "03:56",
+    "artists": [
+      { "name": "LiSA", "link": "https://music.163.com/artist?id=16995" }
+    ],
+    "album": {
+      "name": "紅蓮華",
+      "link": "https://music.163.com/album?id=78702707"
+    }
+  },
+  {
+    "name": "YOUTH",
+    "link": "https://music.163.com/song?id=36668810",
+    "duration": "03:05",
+    "artists": [
+      { "name": "Troye Sivan", "link": "https://music.163.com/artist?id=45129" }
+    ],
+    "album": {
+      "name": "Blue Neighbourhood (Deluxe)",
+      "link": "https://music.163.com/album?id=3329047"
+    }
+  }
+]
