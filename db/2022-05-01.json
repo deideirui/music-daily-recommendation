@@ -1,0 +1,503 @@
+[
+  {
+    "name": "Summer",
+    "link": "https://music.163.com/song?id=1374084004",
+    "duration": "03:06",
+    "artists": [
+      {
+        "name": "Ace Marino",
+        "link": "https://music.163.com/artist?id=30146866"
+      }
+    ],
+    "album": {
+      "name": "Summer",
+      "link": "https://music.163.com/album?id=80005714"
+    }
+  },
+  {
+    "name": "Cithara (Valentin Remix)",
+    "link": "https://music.163.com/song?id=1389404068",
+    "duration": "06:40",
+    "artists": [
+      { "name": "Z8phyR", "link": "https://music.163.com/artist?id=12551135" }
+    ],
+    "album": {
+      "name": "Cithara",
+      "link": "https://music.163.com/album?id=81457454"
+    }
+  },
+  {
+    "name": "Imagination",
+    "link": "https://music.163.com/song?id=524150174",
+    "duration": "04:10",
+    "artists": [
+      { "name": "Naron", "link": "https://music.163.com/artist?id=12946111" }
+    ],
+    "album": {
+      "name": "Imagination",
+      "link": "https://music.163.com/album?id=36981051"
+    }
+  },
+  {
+    "name": "Summer Of My Childhood (Mark & Lukas Remix)",
+    "link": "https://music.163.com/song?id=495218280",
+    "duration": "06:26",
+    "artists": [
+      {
+        "name": "George Ellinas",
+        "link": "https://music.163.com/artist?id=442621"
+      },
+      {
+        "name": "Mark & Lukas",
+        "link": "https://music.163.com/artist?id=1104097"
+      }
+    ],
+    "album": {
+      "name": "Summer Of My Childhood",
+      "link": "https://music.163.com/album?id=35878106"
+    }
+  },
+  {
+    "name": "From Blue To Green",
+    "link": "https://music.163.com/song?id=1941175466",
+    "duration": "02:40",
+    "artists": [
+      { "name": "Chicane", "link": "https://music.163.com/artist?id=50971" }
+    ],
+    "album": {
+      "name": "From Blue To Green (Evolution Mix)",
+      "link": "https://music.163.com/album?id=143935476"
+    }
+  },
+  {
+    "name": "Paradise (Deniz Koyu Festival Mix)",
+    "link": "https://music.163.com/song?id=1319011647",
+    "duration": "04:03",
+    "artists": [
+      {
+        "name": "Nicky Romero",
+        "link": "https://music.163.com/artist?id=195142"
+      },
+      {
+        "name": "Deniz Koyu",
+        "link": "https://music.163.com/artist?id=201960"
+      },
+      {
+        "name": "Walk off the Earth",
+        "link": "https://music.163.com/artist?id=105493"
+      }
+    ],
+    "album": {
+      "name": "Paradise (Deniz Koyu Festival Mix)",
+      "link": "https://music.163.com/album?id=73992945"
+    }
+  },
+  {
+    "name": "Take Me (Extended Mix)",
+    "link": "https://music.163.com/song?id=493551129",
+    "duration": "05:26",
+    "artists": [
+      {
+        "name": "Will Sparks",
+        "link": "https://music.163.com/artist?id=725093"
+      },
+      {
+        "name": "Gloria Kim",
+        "link": "https://music.163.com/artist?id=1163012"
+      }
+    ],
+    "album": {
+      "name": "Take Me",
+      "link": "https://music.163.com/album?id=35848071"
+    }
+  },
+  {
+    "name": "Zonnewende",
+    "link": "https://music.163.com/song?id=32737912",
+    "duration": "07:12",
+    "artists": [
+      {
+        "name": "Roald Velden",
+        "link": "https://music.163.com/artist?id=178498"
+      },
+      {
+        "name": "Morrison Kiers",
+        "link": "https://music.163.com/artist?id=1085068"
+      }
+    ],
+    "album": {
+      "name": "Zonnewende",
+      "link": "https://music.163.com/album?id=3171152"
+    }
+  },
+  {
+    "name": "Running In The Night (Josep & Kane Extended Mix)",
+    "link": "https://music.163.com/song?id=497218052",
+    "duration": "07:45",
+    "artists": [
+      {
+        "name": "Josep & Kane",
+        "link": "https://music.163.com/artist?id=12561594"
+      },
+      { "name": "FM-84", "link": "https://music.163.com/artist?id=12046467" },
+      {
+        "name": "Ollie Wride",
+        "link": "https://music.163.com/artist?id=14756188"
+      }
+    ],
+    "album": {
+      "name": "Running In The Night (Josep & Kane Remix)",
+      "link": "https://music.163.com/album?id=35908450"
+    }
+  },
+  {
+    "name": "Always Like This",
+    "link": "https://music.163.com/song?id=1872565224",
+    "duration": "03:33",
+    "artists": [
+      {
+        "name": "Last Heroes",
+        "link": "https://music.163.com/artist?id=11987034"
+      },
+      {
+        "name": "Mark Klaver",
+        "link": "https://music.163.com/artist?id=33363093"
+      }
+    ],
+    "album": {
+      "name": "Threads",
+      "link": "https://music.163.com/album?id=132255480"
+    }
+  },
+  {
+    "name": "Comet (Bonus Track)",
+    "link": "https://music.163.com/song?id=1852925293",
+    "duration": "05:17",
+    "artists": [
+      {
+        "name": "The Midnight",
+        "link": "https://music.163.com/artist?id=12023492"
+      }
+    ],
+    "album": {
+      "name": "Endless Summer (5 Year Anniversary Edition)",
+      "link": "https://music.163.com/album?id=128942349"
+    }
+  },
+  {
+    "name": "8 Bit Adventure",
+    "link": "https://music.163.com/song?id=26588052",
+    "duration": "04:31",
+    "artists": [
+      {
+        "name": "Adhesive Wombat",
+        "link": "https://music.163.com/artist?id=792319"
+      }
+    ],
+    "album": {
+      "name": "Marsupial Madness",
+      "link": "https://music.163.com/album?id=2528414"
+    }
+  },
+  {
+    "name": "Sedated (feat. Concrete Castles)",
+    "link": "https://music.163.com/song?id=1855330115",
+    "duration": "03:19",
+    "artists": [
+      {
+        "name": "Bear Grillz",
+        "link": "https://music.163.com/artist?id=854483"
+      },
+      { "name": "Stryer", "link": "https://music.163.com/artist?id=36633881" },
+      {
+        "name": "Concrete Castles",
+        "link": "https://music.163.com/artist?id=47617078"
+      }
+    ],
+    "album": {
+      "name": "Sedated (feat. Concrete Castles)",
+      "link": "https://music.163.com/album?id=129350966"
+    }
+  },
+  {
+    "name": "Tides",
+    "link": "https://music.163.com/song?id=1896446837",
+    "duration": "04:27",
+    "artists": [
+      { "name": "Abandoned", "link": "https://music.163.com/artist?id=28319" },
+      { "name": "Nytrix", "link": "https://music.163.com/artist?id=11996010" },
+      {
+        "name": "Dvrkcloud",
+        "link": "https://music.163.com/artist?id=31814054"
+      }
+    ],
+    "album": {
+      "name": "Tides",
+      "link": "https://music.163.com/album?id=136374978"
+    }
+  },
+  {
+    "name": "Beyond Memory (Original Mix)",
+    "link": "https://music.163.com/song?id=554284181",
+    "duration": "03:35",
+    "artists": [
+      { "name": "Nina", "link": "https://music.163.com/artist?id=149874" }
+    ],
+    "album": {
+      "name": "Pure Synthwave, Vol. 1",
+      "link": "https://music.163.com/album?id=38429768"
+    }
+  },
+  {
+    "name": "Surrender",
+    "link": "https://music.163.com/song?id=1804375759",
+    "duration": "03:13",
+    "artists": [
+      { "name": "KEVU", "link": "https://music.163.com/artist?id=12024356" },
+      {
+        "name": "Luca Testa",
+        "link": "https://music.163.com/artist?id=1181227"
+      },
+      {
+        "name": "Hellblasterz",
+        "link": "https://music.163.com/artist?id=33587994"
+      }
+    ],
+    "album": {
+      "name": "Surrender",
+      "link": "https://music.163.com/album?id=120429358"
+    }
+  },
+  {
+    "name": "My Somebody's You",
+    "link": "https://music.163.com/song?id=1484248131",
+    "duration": "03:53",
+    "artists": [
+      { "name": "Denza", "link": "https://music.163.com/artist?id=601298" },
+      { "name": "Runaground", "link": "https://music.163.com/artist?id=945002" }
+    ],
+    "album": {
+      "name": "My Somebody's You",
+      "link": "https://music.163.com/album?id=96316468"
+    }
+  },
+  {
+    "name": "Reality (Original Edit)",
+    "link": "https://music.163.com/song?id=28433990",
+    "duration": "03:31",
+    "artists": [
+      { "name": "Rebourne", "link": "https://music.163.com/artist?id=896383" },
+      { "name": "Neilio", "link": "https://music.163.com/artist?id=210417" }
+    ],
+    "album": {
+      "name": "Reality",
+      "link": "https://music.163.com/album?id=2791582"
+    }
+  },
+  {
+    "name": "Have You Ever Been In Love",
+    "link": "https://music.163.com/song?id=1357815319",
+    "duration": "03:28",
+    "artists": [
+      { "name": "The Ivy", "link": "https://music.163.com/artist?id=12080293" }
+    ],
+    "album": {
+      "name": "Have You Ever Been In Love",
+      "link": "https://music.163.com/album?id=78425212"
+    }
+  },
+  {
+    "name": "I'll Be Waiting (Edit)",
+    "link": "https://music.163.com/song?id=409872495",
+    "duration": "03:35",
+    "artists": [
+      {
+        "name": "Jennifer Rene",
+        "link": "https://music.163.com/artist?id=191687"
+      },
+      {
+        "name": "Jericho Frequency",
+        "link": "https://music.163.com/artist?id=12029200"
+      }
+    ],
+    "album": {
+      "name": "I'll Be Waiting",
+      "link": "https://music.163.com/album?id=34609366"
+    }
+  },
+  {
+    "name": "インドア系ならトラックメイカー - (内向都是作曲家)",
+    "link": "https://music.163.com/song?id=424262056",
+    "duration": "03:17",
+    "artists": [
+      { "name": "Yunomi", "link": "https://music.163.com/artist?id=1025016" },
+      { "name": "nicamoq", "link": "https://music.163.com/artist?id=12605718" }
+    ],
+    "album": {
+      "name": "インドア系ならトラックメイカー",
+      "link": "https://music.163.com/album?id=34809022"
+    }
+  },
+  {
+    "name": "One Last Kiss - (最终一吻)",
+    "link": "https://music.163.com/song?id=1824020871",
+    "duration": "04:12",
+    "artists": [
+      {
+        "name": "宇多田ヒカル",
+        "link": "https://music.163.com/artist?id=18122"
+      }
+    ],
+    "album": {
+      "name": "One Last Kiss",
+      "link": "https://music.163.com/album?id=123718729"
+    }
+  },
+  {
+    "name": "Cage <NTv> - (剧场版《机动战士高达NT》 插入曲 / 劇場版『機動戦士ガンダムNT』挿入歌)",
+    "link": "https://music.163.com/song?id=1328183119",
+    "duration": "04:39",
+    "artists": [
+      {
+        "name": "SawanoHiroyuki[nZk]",
+        "link": "https://music.163.com/artist?id=1096011"
+      },
+      { "name": "Tielle", "link": "https://music.163.com/artist?id=12629228" }
+    ],
+    "album": {
+      "name": "narrative / NOISEofRAIN",
+      "link": "https://music.163.com/album?id=74579102"
+    }
+  },
+  {
+    "name": "ツバメ (feat. ミドリーズ) - (燕子)",
+    "link": "https://music.163.com/song?id=1893590230",
+    "duration": "03:36",
+    "artists": [
+      { "name": "YOASOBI", "link": "https://music.163.com/artist?id=33927412" },
+      {
+        "name": "ミドリーズ",
+        "link": "https://music.163.com/artist?id=50083561"
+      }
+    ],
+    "album": {
+      "name": "THE BOOK 2",
+      "link": "https://music.163.com/album?id=135888000"
+    }
+  },
+  {
+    "name": "Call of Silence x YouSeeBIGGIRL",
+    "link": "https://music.163.com/song?id=496507504",
+    "duration": "08:29",
+    "artists": [
+      { "name": "EYAir", "link": "https://music.163.com/artist?id=12420556" }
+    ],
+    "album": {
+      "name": "「進撃の巨人」[进击的巨人]",
+      "link": "https://music.163.com/album?id=35890608"
+    }
+  },
+  {
+    "name": "A Letter",
+    "link": "https://music.163.com/song?id=499027",
+    "duration": "04:05",
+    "artists": [
+      { "name": "Cyua", "link": "https://music.163.com/artist?id=1181299" }
+    ],
+    "album": {
+      "name": "機動戦士ガンダムUC オリジナル・サウンドトラック",
+      "link": "https://music.163.com/album?id=47655"
+    }
+  },
+  {
+    "name": "Never Gonna Give You Up",
+    "link": "https://music.163.com/song?id=5221167",
+    "duration": "03:32",
+    "artists": [
+      { "name": "Rick Astley", "link": "https://music.163.com/artist?id=41993" }
+    ],
+    "album": {
+      "name": "Simply The Best Of The 80's",
+      "link": "https://music.163.com/album?id=509806"
+    }
+  },
+  {
+    "name": "地球ぎ - (地球仪)",
+    "link": "https://music.163.com/song?id=614150",
+    "duration": "04:05",
+    "artists": [
+      { "name": "松澤由美", "link": "https://music.163.com/artist?id=161199" }
+    ],
+    "album": {
+      "name": "聖闘士星矢 冥王ハーデス十二宮編 主題歌",
+      "link": "https://music.163.com/album?id=58412"
+    }
+  },
+  {
+    "name": "Again-横山克（Suihua Remix)",
+    "link": "https://music.163.com/song?id=865723543",
+    "duration": "03:12",
+    "artists": [
+      { "name": "虽华", "link": "https://music.163.com/artist?id=12079083" }
+    ],
+    "album": {
+      "name": "Again-横山克（Suihua Remix)",
+      "link": "https://music.163.com/album?id=71783716"
+    }
+  },
+  {
+    "name": "Річка - (小河)",
+    "link": "https://music.163.com/song?id=25862794",
+    "duration": "03:08",
+    "artists": [
+      { "name": "波丹.尤莉娅", "link": "https://music.163.com/artist?id=73708" }
+    ],
+    "album": {
+      "name": "苏荷酒吧",
+      "link": "https://music.163.com/album?id=2337206"
+    }
+  },
+  {
+    "name": "Never Say Good Bye",
+    "link": "https://music.163.com/song?id=5254474",
+    "duration": "03:59",
+    "artists": [
+      { "name": "Mario", "link": "https://music.163.com/artist?id=124316" },
+      { "name": "NasTy", "link": "https://music.163.com/artist?id=36373293" }
+    ],
+    "album": {
+      "name": "华纳新声 Vol.1",
+      "link": "https://music.163.com/album?id=512015"
+    }
+  },
+  {
+    "name": "Space Boy",
+    "link": "https://music.163.com/song?id=28715026",
+    "duration": "04:50",
+    "artists": [
+      {
+        "name": "Dave Rodgers",
+        "link": "https://music.163.com/artist?id=132283"
+      }
+    ],
+    "album": {
+      "name": "Initial D Special Stage Original Soundtracks",
+      "link": "https://music.163.com/album?id=2881652"
+    }
+  },
+  {
+    "name": "Body Funk",
+    "link": "https://music.163.com/song?id=1359235620",
+    "duration": "07:23",
+    "artists": [
+      {
+        "name": "Purple Disco Machine",
+        "link": "https://music.163.com/artist?id=202174"
+      }
+    ],
+    "album": {
+      "name": "Glitterbox - Discotheque",
+      "link": "https://music.163.com/album?id=78553202"
+    }
+  }
+]
