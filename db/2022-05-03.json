@@ -1,0 +1,498 @@
+[
+  {
+    "name": "Way To You",
+    "link": "https://music.163.com/song?id=1430240225",
+    "duration": "02:43",
+    "artists": [
+      {
+        "name": "Gareth Emery",
+        "link": "https://music.163.com/artist?id=34318"
+      }
+    ],
+    "album": {
+      "name": "THE LASERS",
+      "link": "https://music.163.com/album?id=86432931"
+    }
+  },
+  {
+    "name": "Something Comforting",
+    "link": "https://music.163.com/song?id=1839140777",
+    "duration": "04:41",
+    "artists": [
+      {
+        "name": "Porter Robinson",
+        "link": "https://music.163.com/artist?id=185871"
+      }
+    ],
+    "album": {
+      "name": "Nurture",
+      "link": "https://music.163.com/album?id=126338915"
+    }
+  },
+  {
+    "name": "Find Our Way (Midnight Kids Night Drive Edit)",
+    "link": "https://music.163.com/song?id=1341757373",
+    "duration": "03:39",
+    "artists": [
+      {
+        "name": "Midnight Kids",
+        "link": "https://music.163.com/artist?id=13192314"
+      },
+      { "name": "Klei", "link": "https://music.163.com/artist?id=12995337" }
+    ],
+    "album": {
+      "name": "Find Our Way (Remixes)",
+      "link": "https://music.163.com/album?id=75312048"
+    }
+  },
+  {
+    "name": "Collateral",
+    "link": "https://music.163.com/song?id=1382561800",
+    "duration": "05:46",
+    "artists": [
+      {
+        "name": "The Midnight",
+        "link": "https://music.163.com/artist?id=12023492"
+      }
+    ],
+    "album": {
+      "name": "Nocturnal",
+      "link": "https://music.163.com/album?id=80814887"
+    }
+  },
+  {
+    "name": "Can't See Clearly",
+    "link": "https://music.163.com/song?id=1939179300",
+    "duration": "07:40",
+    "artists": [
+      {
+        "name": "Simon O'Shine",
+        "link": "https://music.163.com/artist?id=207035"
+      },
+      {
+        "name": "Fe Malefiz",
+        "link": "https://music.163.com/artist?id=28507959"
+      }
+    ],
+    "album": {
+      "name": "Can't See Clearly",
+      "link": "https://music.163.com/album?id=143627976"
+    }
+  },
+  {
+    "name": "Yesterday On Repeat ",
+    "link": "https://music.163.com/song?id=411921492",
+    "duration": "04:04",
+    "artists": [
+      { "name": "Vexento", "link": "https://music.163.com/artist?id=12037010" }
+    ],
+    "album": {
+      "name": "Yesterday On Repeat",
+      "link": "https://music.163.com/album?id=34685473"
+    }
+  },
+  {
+    "name": "圈住你",
+    "link": "https://music.163.com/song?id=1372552573",
+    "duration": "02:58",
+    "artists": [
+      { "name": "一口甜", "link": "https://music.163.com/artist?id=30616590" }
+    ],
+    "album": {
+      "name": "圈住你",
+      "link": "https://music.163.com/album?id=79854762"
+    }
+  },
+  {
+    "name": "For You (Roald Velden Remix)",
+    "link": "https://music.163.com/song?id=1418973662",
+    "duration": "07:40",
+    "artists": [
+      {
+        "name": "Mark & Lukas",
+        "link": "https://music.163.com/artist?id=1104097"
+      },
+      {
+        "name": "Roald Velden",
+        "link": "https://music.163.com/artist?id=178498"
+      }
+    ],
+    "album": {
+      "name": "For You",
+      "link": "https://music.163.com/album?id=85221231"
+    }
+  },
+  {
+    "name": "Salt",
+    "link": "https://music.163.com/song?id=1384056805",
+    "duration": "02:58",
+    "artists": [
+      {
+        "name": "Amy Peters",
+        "link": "https://music.163.com/artist?id=30291533"
+      }
+    ],
+    "album": {
+      "name": "Salt",
+      "link": "https://music.163.com/album?id=80930972"
+    }
+  },
+  {
+    "name": "Why Do You Run",
+    "link": "https://music.163.com/song?id=548098889",
+    "duration": "03:52",
+    "artists": [
+      { "name": "Omnia", "link": "https://music.163.com/artist?id=179006" },
+      { "name": "Jonny Rose", "link": "https://music.163.com/artist?id=904226" }
+    ],
+    "album": {
+      "name": "A State Of Trance - Future Favorite Best Of 2017",
+      "link": "https://music.163.com/album?id=38057065"
+    }
+  },
+  {
+    "name": "Days Gone By",
+    "link": "https://music.163.com/song?id=32717174",
+    "duration": "04:33",
+    "artists": [
+      { "name": "Nyte", "link": "https://music.163.com/artist?id=1034003" }
+    ],
+    "album": {
+      "name": "Days Gone By",
+      "link": "https://music.163.com/album?id=3161868"
+    }
+  },
+  {
+    "name": "End Of Time",
+    "link": "https://music.163.com/song?id=1455997767",
+    "duration": "03:23",
+    "artists": [
+      { "name": "Spagbo", "link": "https://music.163.com/artist?id=30245155" }
+    ],
+    "album": {
+      "name": "End Of Time",
+      "link": "https://music.163.com/album?id=91054610"
+    }
+  },
+  {
+    "name": "Blue Sky",
+    "link": "https://music.163.com/song?id=32807699",
+    "duration": "03:33",
+    "artists": [
+      {
+        "name": "Feenixpawl",
+        "link": "https://music.163.com/artist?id=290025"
+      },
+      {
+        "name": "Mary Jane Smith",
+        "link": "https://music.163.com/artist?id=954249"
+      }
+    ],
+    "album": {
+      "name": "Blue Sky",
+      "link": "https://music.163.com/album?id=3173134"
+    }
+  },
+  {
+    "name": "Another You",
+    "link": "https://music.163.com/song?id=1329164029",
+    "duration": "02:55",
+    "artists": [
+      { "name": "ThimLife", "link": "https://music.163.com/artist?id=1046016" },
+      {
+        "name": "Bibiane Z",
+        "link": "https://music.163.com/artist?id=27883884"
+      }
+    ],
+    "album": {
+      "name": "Another You",
+      "link": "https://music.163.com/album?id=74267397"
+    }
+  },
+  {
+    "name": "Let's Talk",
+    "link": "https://music.163.com/song?id=411907929",
+    "duration": "05:02",
+    "artists": [
+      { "name": "FM-84", "link": "https://music.163.com/artist?id=12046467" },
+      {
+        "name": "Timecop1983",
+        "link": "https://music.163.com/artist?id=954496"
+      },
+      {
+        "name": "Josh Dally",
+        "link": "https://music.163.com/artist?id=33510074"
+      }
+    ],
+    "album": {
+      "name": "Atlas",
+      "link": "https://music.163.com/album?id=34686652"
+    }
+  },
+  {
+    "name": "Crumble",
+    "link": "https://music.163.com/song?id=1352962927",
+    "duration": "03:09",
+    "artists": [
+      {
+        "name": "Fairlane",
+        "link": "https://music.163.com/artist?id=12665028"
+      },
+      { "name": "Trove", "link": "https://music.163.com/artist?id=12390270" }
+    ],
+    "album": {
+      "name": "Crumble",
+      "link": "https://music.163.com/album?id=75905030"
+    }
+  },
+  {
+    "name": "Crescent (新月)",
+    "link": "https://music.163.com/song?id=1398628590",
+    "duration": "03:06",
+    "artists": [
+      { "name": "Janji", "link": "https://music.163.com/artist?id=1032229" },
+      { "name": "R7CKY", "link": "https://music.163.com/artist?id=1044054" },
+      {
+        "name": "朱婧汐Akini Jing",
+        "link": "https://music.163.com/artist?id=10582"
+      }
+    ],
+    "album": {
+      "name": "Crescent (新月)",
+      "link": "https://music.163.com/album?id=82651101"
+    }
+  },
+  {
+    "name": "TBA2",
+    "link": "https://music.163.com/song?id=1444650284",
+    "duration": "03:38",
+    "artists": [
+      { "name": "Gix", "link": "https://music.163.com/artist?id=35031665" },
+      { "name": "Cyber", "link": "https://music.163.com/artist?id=1072052" }
+    ],
+    "album": {
+      "name": "TBA2",
+      "link": "https://music.163.com/album?id=88772528"
+    }
+  },
+  {
+    "name": "Falling Again",
+    "link": "https://music.163.com/song?id=1338655840",
+    "duration": "04:28",
+    "artists": [
+      { "name": "Nurko", "link": "https://music.163.com/artist?id=11991089" },
+      { "name": "Roniit", "link": "https://music.163.com/artist?id=74558" }
+    ],
+    "album": {
+      "name": "Falling Again (feat. Roniit)",
+      "link": "https://music.163.com/album?id=75113830"
+    }
+  },
+  {
+    "name": "Messy Girl",
+    "link": "https://music.163.com/song?id=500637550",
+    "duration": "03:00",
+    "artists": [
+      {
+        "name": "Morri3on(喬凡三)",
+        "link": "https://music.163.com/artist?id=12083225"
+      },
+      {
+        "name": "Sound of Tomorrow",
+        "link": "https://music.163.com/artist?id=46463584"
+      }
+    ],
+    "album": {
+      "name": "Messy Girl",
+      "link": "https://music.163.com/album?id=35996660"
+    }
+  },
+  {
+    "name": "Broken Heart",
+    "link": "https://music.163.com/song?id=1832437000",
+    "duration": "03:12",
+    "artists": [
+      { "name": "Spars", "link": "https://music.163.com/artist?id=32279796" }
+    ],
+    "album": {
+      "name": "Broken Heart",
+      "link": "https://music.163.com/album?id=125153751"
+    }
+  },
+  {
+    "name": "Blinded",
+    "link": "https://music.163.com/song?id=1443143392",
+    "duration": "02:55",
+    "artists": [
+      {
+        "name": "Wav3motion",
+        "link": "https://music.163.com/artist?id=12031110"
+      },
+      { "name": "B2A", "link": "https://music.163.com/artist?id=30133713" },
+      {
+        "name": "Anklebreaker",
+        "link": "https://music.163.com/artist?id=14834960"
+      }
+    ],
+    "album": {
+      "name": "Blinded",
+      "link": "https://music.163.com/album?id=88483119"
+    }
+  },
+  {
+    "name": "Reverie",
+    "link": "https://music.163.com/song?id=403710535",
+    "duration": "04:59",
+    "artists": [
+      { "name": "ILLENIUM", "link": "https://music.163.com/artist?id=1050518" },
+      {
+        "name": "Dana Salah",
+        "link": "https://music.163.com/artist?id=29433868"
+      }
+    ],
+    "album": {
+      "name": "Ashes",
+      "link": "https://music.163.com/album?id=34497141"
+    }
+  },
+  {
+    "name": "Wait",
+    "link": "https://music.163.com/song?id=1428684698",
+    "duration": "04:44",
+    "artists": [
+      { "name": "MitiS", "link": "https://music.163.com/artist?id=40245" },
+      {
+        "name": "Crystal Skies",
+        "link": "https://music.163.com/artist?id=1063127"
+      },
+      {
+        "name": "Monika Santucci",
+        "link": "https://music.163.com/artist?id=13989763"
+      }
+    ],
+    "album": {
+      "name": "Wait",
+      "link": "https://music.163.com/album?id=86279740"
+    }
+  },
+  {
+    "name": "Alone",
+    "link": "https://music.163.com/song?id=412785957",
+    "duration": "04:33",
+    "artists": [
+      {
+        "name": "Marshmello",
+        "link": "https://music.163.com/artist?id=1060019"
+      }
+    ],
+    "album": {
+      "name": "Alone",
+      "link": "https://music.163.com/album?id=34700038"
+    }
+  },
+  {
+    "name": "Gold (Acoustic)",
+    "link": "https://music.163.com/song?id=27514263",
+    "duration": "03:55",
+    "artists": [
+      { "name": "Owl City", "link": "https://music.163.com/artist?id=40859" }
+    ],
+    "album": {
+      "name": "The Midsummer Station Acoustic EP",
+      "link": "https://music.163.com/album?id=2623133"
+    }
+  },
+  {
+    "name": "逆时针向 - Forever 21 (千坂 Remix)",
+    "link": "https://music.163.com/song?id=524464795",
+    "duration": "03:08",
+    "artists": [
+      { "name": "千坂", "link": "https://music.163.com/artist?id=12138261" },
+      { "name": "逆时针向", "link": "https://music.163.com/artist?id=12128251" }
+    ],
+    "album": {
+      "name": "Forever 21 (千坂 Remix)",
+      "link": "https://music.163.com/album?id=36990287"
+    }
+  },
+  {
+    "name": "Killing Me",
+    "link": "https://music.163.com/song?id=498373511",
+    "duration": "04:47",
+    "artists": [
+      { "name": "FN007", "link": "https://music.163.com/artist?id=12055058" }
+    ],
+    "album": {
+      "name": "Life Was Fading",
+      "link": "https://music.163.com/album?id=35940391"
+    }
+  },
+  {
+    "name": "4U",
+    "link": "https://music.163.com/song?id=469957690",
+    "duration": "02:44",
+    "artists": [
+      { "name": "R7CKY", "link": "https://music.163.com/artist?id=1044054" }
+    ],
+    "album": { "name": "4U", "link": "https://music.163.com/album?id=35330738" }
+  },
+  {
+    "name": "Open Your Eyes",
+    "link": "https://music.163.com/song?id=38673401",
+    "duration": "06:22",
+    "artists": [
+      { "name": "CMA", "link": "https://music.163.com/artist?id=300739" }
+    ],
+    "album": {
+      "name": "Open Your Eyes",
+      "link": "https://music.163.com/album?id=3427621"
+    }
+  },
+  {
+    "name": "Sweetheart",
+    "link": "https://music.163.com/song?id=1331357160",
+    "duration": "03:43",
+    "artists": [
+      { "name": "ANY安伟", "link": "https://music.163.com/artist?id=13012223" },
+      { "name": "邓福如 AFÜ", "link": "https://music.163.com/artist?id=7600" }
+    ],
+    "album": {
+      "name": "Sweetheart",
+      "link": "https://music.163.com/album?id=74779738"
+    }
+  },
+  {
+    "name": "ViEW",
+    "link": "https://music.163.com/song?id=507116417",
+    "duration": "03:30",
+    "artists": [
+      {
+        "name": "mizuki (瑞葵)",
+        "link": "https://music.163.com/artist?id=981205"
+      },
+      {
+        "name": "SawanoHiroyuki[nZk]",
+        "link": "https://music.163.com/artist?id=1096011"
+      }
+    ],
+    "album": {
+      "name": "2V-Alk",
+      "link": "https://music.163.com/album?id=36030720"
+    }
+  },
+  {
+    "name": "Area",
+    "link": "https://music.163.com/song?id=479398150",
+    "duration": "02:58",
+    "artists": [
+      {
+        "name": "MagnusTheMagnus",
+        "link": "https://music.163.com/artist?id=12202191"
+      }
+    ],
+    "album": {
+      "name": "Area",
+      "link": "https://music.163.com/album?id=35461717"
+    }
+  }
+]
