@@ -1,0 +1,457 @@
+[
+  {
+    "name": "Destiny - (命运)",
+    "link": "https://music.163.com/song?id=1863175633",
+    "duration": "03:41",
+    "artists": [
+      {
+        "name": "Jim Yosef",
+        "link": "https://music.163.com/artist?id=1063121"
+      },
+      {
+        "name": "Electro-Light",
+        "link": "https://music.163.com/artist?id=1192533"
+      },
+      { "name": "Tobu", "link": "https://music.163.com/artist?id=964486" },
+      {
+        "name": "Anna Yvette",
+        "link": "https://music.163.com/artist?id=1150079"
+      },
+      { "name": "DEAF KEV", "link": "https://music.163.com/artist?id=1079127" }
+    ],
+    "album": {
+      "name": "Destiny",
+      "link": "https://music.163.com/album?id=130733834"
+    }
+  },
+  {
+    "name": "Thank You",
+    "link": "https://music.163.com/song?id=30780812",
+    "duration": "03:32",
+    "artists": [
+      { "name": "Kozoro", "link": "https://music.163.com/artist?id=1050567" }
+    ],
+    "album": {
+      "name": "Thank You",
+      "link": "https://music.163.com/album?id=3103333"
+    }
+  },
+  {
+    "name": "芽＆GLOW（Pt.Zou Mashup)",
+    "link": "https://music.163.com/song?id=1819736616",
+    "duration": "03:11",
+    "artists": [
+      { "name": "Pt.Zou", "link": "https://music.163.com/artist?id=33995344" }
+    ],
+    "album": {
+      "name": "芽＆GLOW（Pt.Zou Mashup)",
+      "link": "https://music.163.com/album?id=92747443"
+    }
+  },
+  {
+    "name": "Electric",
+    "link": "https://music.163.com/song?id=408055512",
+    "duration": "04:39",
+    "artists": [
+      { "name": "Brett", "link": "https://music.163.com/artist?id=967045" }
+    ],
+    "album": {
+      "name": "Mode",
+      "link": "https://music.163.com/album?id=34588340"
+    }
+  },
+  {
+    "name": "Levitate",
+    "link": "https://music.163.com/song?id=406737893",
+    "duration": "04:04",
+    "artists": [
+      { "name": "FEWZ", "link": "https://music.163.com/artist?id=12008133" }
+    ],
+    "album": {
+      "name": "Levitate",
+      "link": "https://music.163.com/album?id=34555371"
+    }
+  },
+  {
+    "name": "Light of Nibel (feat. Aeralie Brighton)",
+    "link": "https://music.163.com/song?id=31010776",
+    "duration": "04:19",
+    "artists": [
+      {
+        "name": "Gareth Coker",
+        "link": "https://music.163.com/artist?id=1053140"
+      },
+      {
+        "name": "Aeralie Brighton",
+        "link": "https://music.163.com/artist?id=12053304"
+      }
+    ],
+    "album": {
+      "name": "Ori and the Blind Forest (Original Soundtrack)",
+      "link": "https://music.163.com/album?id=3109338"
+    }
+  },
+  {
+    "name": "Chasing the Dragon ",
+    "link": "https://music.163.com/song?id=1384484361",
+    "duration": "02:17",
+    "artists": [
+      { "name": "EnV", "link": "https://music.163.com/artist?id=836033" }
+    ],
+    "album": {
+      "name": "Electronic Super Joy 2 (Original Game Soundtrack)",
+      "link": "https://music.163.com/album?id=80979435"
+    }
+  },
+  {
+    "name": "Be Real",
+    "link": "https://music.163.com/song?id=553483887",
+    "duration": "03:46",
+    "artists": [
+      {
+        "name": "Rasmus Faber",
+        "link": "https://music.163.com/artist?id=42480"
+      },
+      { "name": "Metaxas", "link": "https://music.163.com/artist?id=29189260" }
+    ],
+    "album": {
+      "name": "Be Real",
+      "link": "https://music.163.com/album?id=38377373"
+    }
+  },
+  {
+    "name": "Miracles (Radio Edit)",
+    "link": "https://music.163.com/song?id=29732106",
+    "duration": "02:42",
+    "artists": [
+      {
+        "name": "Mike Candys",
+        "link": "https://music.163.com/artist?id=40119"
+      },
+      { "name": "Maury", "link": "https://music.163.com/artist?id=149567" }
+    ],
+    "album": {
+      "name": "Miracles",
+      "link": "https://music.163.com/album?id=3069025"
+    }
+  },
+  {
+    "name": "In Your Eyes",
+    "link": "https://music.163.com/song?id=1397502846",
+    "duration": "04:00",
+    "artists": [
+      { "name": "DG812", "link": "https://music.163.com/artist?id=12929892" }
+    ],
+    "album": {
+      "name": "In Your Eyes",
+      "link": "https://music.163.com/album?id=82500269"
+    }
+  },
+  {
+    "name": "Stranger Things (Alan Walker Remix)",
+    "link": "https://music.163.com/song?id=536243886",
+    "duration": "02:58",
+    "artists": [
+      { "name": "Kygo", "link": "https://music.163.com/artist?id=844410" },
+      {
+        "name": "OneRepublic",
+        "link": "https://music.163.com/artist?id=98105"
+      },
+      {
+        "name": "Alan Walker",
+        "link": "https://music.163.com/artist?id=1045123"
+      }
+    ],
+    "album": {
+      "name": "Kids in Love (Remixes)",
+      "link": "https://music.163.com/album?id=37561188"
+    }
+  },
+  {
+    "name": "Call Me First",
+    "link": "https://music.163.com/song?id=1844961077",
+    "duration": "02:28",
+    "artists": [
+      { "name": "DDD", "link": "https://music.163.com/artist?id=31946492" }
+    ],
+    "album": {
+      "name": "Aether Plane",
+      "link": "https://music.163.com/album?id=127415441"
+    }
+  },
+  {
+    "name": "Creed",
+    "link": "https://music.163.com/song?id=1863810578",
+    "duration": "02:53",
+    "artists": [
+      {
+        "name": "PIKASONIC",
+        "link": "https://music.163.com/artist?id=13499634"
+      }
+    ],
+    "album": {
+      "name": "Creed",
+      "link": "https://music.163.com/album?id=130836290"
+    }
+  },
+  {
+    "name": "Forever",
+    "link": "https://music.163.com/song?id=1357730882",
+    "duration": "03:13",
+    "artists": [
+      {
+        "name": "IslandWind",
+        "link": "https://music.163.com/artist?id=13537270"
+      },
+      {
+        "name": "PIKASONIC",
+        "link": "https://music.163.com/artist?id=13499634"
+      }
+    ],
+    "album": {
+      "name": "Forever",
+      "link": "https://music.163.com/album?id=78400778"
+    }
+  },
+  {
+    "name": "Reprise (Original Mix)",
+    "link": "https://music.163.com/song?id=17867237",
+    "duration": "04:06",
+    "artists": [
+      { "name": "Feint", "link": "https://music.163.com/artist?id=93062" }
+    ],
+    "album": {
+      "name": "Feint EP1",
+      "link": "https://music.163.com/album?id=1644797"
+    }
+  },
+  {
+    "name": "Down the Shore",
+    "link": "https://music.163.com/song?id=1436081783",
+    "duration": "03:23",
+    "artists": [
+      { "name": "Work Drugs", "link": "https://music.163.com/artist?id=105431" }
+    ],
+    "album": {
+      "name": "Down the Shore",
+      "link": "https://music.163.com/album?id=87183226"
+    }
+  },
+  {
+    "name": "Moments Like This",
+    "link": "https://music.163.com/song?id=26217020",
+    "duration": "03:59",
+    "artists": [
+      { "name": "The Afters", "link": "https://music.163.com/artist?id=78216" }
+    ],
+    "album": {
+      "name": "Life Is Beautiful",
+      "link": "https://music.163.com/album?id=2426002"
+    }
+  },
+  {
+    "name": "Spirits",
+    "link": "https://music.163.com/song?id=542702621",
+    "duration": "03:20",
+    "artists": [
+      { "name": "Wisp X", "link": "https://music.163.com/artist?id=1046123" }
+    ],
+    "album": {
+      "name": "Spirits",
+      "link": "https://music.163.com/album?id=37799351"
+    }
+  },
+  {
+    "name": "Titanium",
+    "link": "https://music.163.com/song?id=3406918",
+    "duration": "03:57",
+    "artists": [
+      {
+        "name": "David Guetta",
+        "link": "https://music.163.com/artist?id=31211"
+      },
+      { "name": "Sia", "link": "https://music.163.com/artist?id=74625" }
+    ],
+    "album": {
+      "name": "Best Of...",
+      "link": "https://music.163.com/album?id=345313"
+    }
+  },
+  {
+    "name": "Run Away (Original Mix)",
+    "link": "https://music.163.com/song?id=408277036",
+    "duration": "04:41",
+    "artists": [
+      { "name": "Paradox", "link": "https://music.163.com/artist?id=12023229" }
+    ],
+    "album": {
+      "name": "Run Away",
+      "link": "https://music.163.com/album?id=34588427"
+    }
+  },
+  {
+    "name": "Let It All Out (L3V3LS Remix)",
+    "link": "https://music.163.com/song?id=425828566",
+    "duration": "04:55",
+    "artists": [
+      { "name": "L3V3LS", "link": "https://music.163.com/artist?id=12007340" },
+      { "name": "Kap Slap", "link": "https://music.163.com/artist?id=761048" },
+      {
+        "name": "Angelika Vee",
+        "link": "https://music.163.com/artist?id=904230"
+      }
+    ],
+    "album": {
+      "name": "Let It All Out (L3V3LS Remix)",
+      "link": "https://music.163.com/album?id=34817750"
+    }
+  },
+  {
+    "name": "Without You × A Sky Full Of Stars × Pizza (Mashup)",
+    "link": "https://music.163.com/song?id=557812549",
+    "duration": "04:17",
+    "artists": [
+      {
+        "name": "AbletiveSkye",
+        "link": "https://music.163.com/artist?id=12235233"
+      }
+    ],
+    "album": {
+      "name": "Without You × A Sky Full Of Stars × Pizza (Mashup)",
+      "link": "https://music.163.com/album?id=38604095"
+    }
+  },
+  {
+    "name": "Hall of Fame",
+    "link": "https://music.163.com/song?id=26624703",
+    "duration": "03:21",
+    "artists": [
+      {
+        "name": "The Script",
+        "link": "https://music.163.com/artist?id=102028"
+      },
+      { "name": "will.i.am", "link": "https://music.163.com/artist?id=45838" }
+    ],
+    "album": {
+      "name": "Kokowääh 2 (Original Motion Picture Soundtrack)",
+      "link": "https://music.163.com/album?id=2536612"
+    }
+  },
+  {
+    "name": "Halcyon Days ",
+    "link": "https://music.163.com/song?id=409646068",
+    "duration": "05:49",
+    "artists": [
+      {
+        "name": "Zeraphym 六翼使徒",
+        "link": "https://music.163.com/artist?id=1083104"
+      }
+    ],
+    "album": {
+      "name": "Halcyon Days",
+      "link": "https://music.163.com/album?id=34611033"
+    }
+  },
+  {
+    "name": "老人と海 - (老人与海)",
+    "link": "https://music.163.com/song?id=1870469768",
+    "duration": "04:15",
+    "artists": [
+      { "name": "ヨルシカ", "link": "https://music.163.com/artist?id=12390232" }
+    ],
+    "album": {
+      "name": "老人と海",
+      "link": "https://music.163.com/album?id=131924570"
+    }
+  },
+  {
+    "name": "幻の命 - (虚无缥缈的生命)",
+    "link": "https://music.163.com/song?id=22814479",
+    "duration": "05:10",
+    "artists": [
+      {
+        "name": "Sekai no Owari",
+        "link": "https://music.163.com/artist?id=21463"
+      }
+    ],
+    "album": {
+      "name": "EARTH",
+      "link": "https://music.163.com/album?id=2097289"
+    }
+  },
+  {
+    "name": "梦特别娇",
+    "link": "https://music.163.com/song?id=1813831223",
+    "duration": "04:18",
+    "artists": [
+      { "name": "回春丹", "link": "https://music.163.com/artist?id=27730224" }
+    ],
+    "album": {
+      "name": "梦特别娇",
+      "link": "https://music.163.com/album?id=121904168"
+    }
+  },
+  {
+    "name": "Instant",
+    "link": "https://music.163.com/song?id=484907411",
+    "duration": "04:11",
+    "artists": [
+      { "name": "浮云心丶", "link": "https://music.163.com/artist?id=12350867" }
+    ],
+    "album": {
+      "name": "Instant",
+      "link": "https://music.163.com/album?id=35638518"
+    }
+  },
+  {
+    "name": "奏 - (かなで)",
+    "link": "https://music.163.com/song?id=28409128",
+    "duration": "05:29",
+    "artists": [
+      {
+        "name": "スキマスイッチ",
+        "link": "https://music.163.com/artist?id=21317"
+      }
+    ],
+    "album": { "name": "奏", "link": "https://music.163.com/album?id=2786525" }
+  },
+  {
+    "name": "remember - (剧场版动画《夏目友人帐: 缘结空蝉》主题曲)",
+    "link": "https://music.163.com/song?id=1311347592",
+    "duration": "05:47",
+    "artists": [
+      { "name": "Uru", "link": "https://music.163.com/artist?id=12062125" }
+    ],
+    "album": {
+      "name": "Remember",
+      "link": "https://music.163.com/album?id=73470777"
+    }
+  },
+  {
+    "name": "群青 - (BOURBON波路梦「帆船mini巧克力饼干」新CM曲)",
+    "link": "https://music.163.com/song?id=1472480890",
+    "duration": "04:08",
+    "artists": [
+      { "name": "YOASOBI", "link": "https://music.163.com/artist?id=33927412" }
+    ],
+    "album": {
+      "name": "群青",
+      "link": "https://music.163.com/album?id=94214994"
+    }
+  },
+  {
+    "name": "Damascus",
+    "link": "https://music.163.com/song?id=1306371132",
+    "duration": "01:59",
+    "artists": [
+      {
+        "name": "Oskar Schuster",
+        "link": "https://music.163.com/artist?id=41103"
+      }
+    ],
+    "album": {
+      "name": "Damascus (Solo Piano)",
+      "link": "https://music.163.com/album?id=72785393"
+    }
+  }
+]
