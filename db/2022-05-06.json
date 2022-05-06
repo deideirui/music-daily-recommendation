@@ -1,0 +1,392 @@
+[
+  {
+    "name": "Throwback",
+    "link": "https://music.163.com/song?id=1338352431",
+    "duration": "03:46",
+    "artists": [
+      {
+        "name": "Delaney Jane",
+        "link": "https://music.163.com/artist?id=1132286"
+      },
+      {
+        "name": "Shaun Frank",
+        "link": "https://music.163.com/artist?id=844064"
+      }
+    ],
+    "album": {
+      "name": "Throwback",
+      "link": "https://music.163.com/album?id=75089907"
+    }
+  },
+  {
+    "name": "Skyline",
+    "link": "https://music.163.com/song?id=1441098283",
+    "duration": "02:58",
+    "artists": [
+      { "name": "Madism", "link": "https://music.163.com/artist?id=14774559" }
+    ],
+    "album": {
+      "name": "Skyline",
+      "link": "https://music.163.com/album?id=88104559"
+    }
+  },
+  {
+    "name": "Typo",
+    "link": "https://music.163.com/song?id=1409271942",
+    "duration": "02:58",
+    "artists": [
+      {
+        "name": "Discrete",
+        "link": "https://music.163.com/artist?id=31215441"
+      },
+      { "name": "Sistek", "link": "https://music.163.com/artist?id=12765268" },
+      { "name": "TUDOR", "link": "https://music.163.com/artist?id=12355078" },
+      { "name": "Voss", "link": "https://music.163.com/artist?id=244172" }
+    ],
+    "album": {
+      "name": "Typo",
+      "link": "https://music.163.com/album?id=84067871"
+    }
+  },
+  {
+    "name": "Hung Up",
+    "link": "https://music.163.com/song?id=556066474",
+    "duration": "03:40",
+    "artists": [
+      { "name": "Tritonal", "link": "https://music.163.com/artist?id=104133" },
+      { "name": "Sj", "link": "https://music.163.com/artist?id=288146" },
+      {
+        "name": "Emma Gatsby",
+        "link": "https://music.163.com/artist?id=12086040"
+      }
+    ],
+    "album": {
+      "name": "Calabasas",
+      "link": "https://music.163.com/album?id=38519338"
+    }
+  },
+  {
+    "name": "Titan",
+    "link": "https://music.163.com/song?id=423314146",
+    "duration": "03:38",
+    "artists": [
+      { "name": "Starlyte", "link": "https://music.163.com/artist?id=12006394" }
+    ],
+    "album": {
+      "name": "Ninety9lives 93: Finish Him",
+      "link": "https://music.163.com/album?id=34790313"
+    }
+  },
+  {
+    "name": "Holy Grail (Adieu Remix)",
+    "link": "https://music.163.com/song?id=37092830",
+    "duration": "04:21",
+    "artists": [
+      { "name": "Adieu", "link": "https://music.163.com/artist?id=31000340" }
+    ],
+    "album": {
+      "name": "Holy Grail (Adieu Remix)",
+      "link": "https://music.163.com/album?id=3414455"
+    }
+  },
+  {
+    "name": "Heaven（Original Mix）",
+    "link": "https://music.163.com/song?id=567609802",
+    "duration": "04:11",
+    "artists": [
+      { "name": "三茗子", "link": "https://music.163.com/artist?id=13607438" }
+    ],
+    "album": {
+      "name": "Heaven（Original Mix）",
+      "link": "https://music.163.com/album?id=39280245"
+    }
+  },
+  {
+    "name": "洛水天依（洛天依）南亭阙 洛天依角色曲",
+    "link": "https://music.163.com/song?id=1379325093",
+    "duration": "03:30",
+    "artists": [
+      { "name": "恩雅NYA", "link": "https://music.163.com/artist?id=12037036" }
+    ],
+    "album": {
+      "name": "洛水天依（洛天依）南亭阙洛天依角色曲",
+      "link": "https://music.163.com/album?id=80472412"
+    }
+  },
+  {
+    "name": "Everybody Primetime Sexcrime(DJ-SoFun Mashup)",
+    "link": "https://music.163.com/song?id=1902186130",
+    "duration": "02:48",
+    "artists": [
+      { "name": "DJ-SoFun", "link": "https://music.163.com/artist?id=49803389" }
+    ],
+    "album": {
+      "name": "Mushup合集2",
+      "link": "https://music.163.com/album?id=137299122"
+    }
+  },
+  {
+    "name": "眉间不点砂",
+    "link": "https://music.163.com/song?id=1306320711",
+    "duration": "04:49",
+    "artists": [
+      { "name": "KyuRu☆", "link": "https://music.163.com/artist?id=12346007" }
+    ],
+    "album": {
+      "name": "眉间不点砂",
+      "link": "https://music.163.com/album?id=72654741"
+    }
+  },
+  {
+    "name": "Dazzling Girl",
+    "link": "https://music.163.com/song?id=27625394",
+    "duration": "03:30",
+    "artists": [
+      { "name": "SHINee", "link": "https://music.163.com/artist?id=127582" }
+    ],
+    "album": {
+      "name": "Dazzling Girl",
+      "link": "https://music.163.com/album?id=2649197"
+    }
+  },
+  {
+    "name": "无刃妖影 - 青城2-0",
+    "link": "https://music.163.com/song?id=477883144",
+    "duration": "03:14",
+    "artists": [
+      { "name": "无刃妖影", "link": "https://music.163.com/artist?id=12183260" }
+    ],
+    "album": {
+      "name": "《青城》",
+      "link": "https://music.163.com/album?id=35182830"
+    }
+  },
+  {
+    "name": "The Rain (Dance Swing Mix)",
+    "link": "https://music.163.com/song?id=19119844",
+    "duration": "06:15",
+    "artists": [
+      { "name": "Samira", "link": "https://music.163.com/artist?id=77945" }
+    ],
+    "album": {
+      "name": "The Rain",
+      "link": "https://music.163.com/album?id=1752753"
+    }
+  },
+  {
+    "name": "25",
+    "link": "https://music.163.com/song?id=500410133",
+    "duration": "03:07",
+    "artists": [
+      {
+        "name": "鸟撞 Birdstriking",
+        "link": "https://music.163.com/artist?id=12594165"
+      }
+    ],
+    "album": {
+      "name": "头上的洞",
+      "link": "https://music.163.com/album?id=36017064"
+    }
+  },
+  {
+    "name": "冠军",
+    "link": "https://music.163.com/song?id=29810919",
+    "duration": "05:42",
+    "artists": [
+      { "name": "钢心", "link": "https://music.163.com/artist?id=1041153" }
+    ],
+    "album": {
+      "name": "冠军",
+      "link": "https://music.163.com/album?id=3082330"
+    }
+  },
+  {
+    "name": "Send It (feat. Rich Homie Quan)",
+    "link": "https://music.163.com/song?id=426291544",
+    "duration": "03:01",
+    "artists": [
+      {
+        "name": "Austin Mahone",
+        "link": "https://music.163.com/artist?id=29121"
+      },
+      {
+        "name": "Rich Homie Quan",
+        "link": "https://music.163.com/artist?id=797253"
+      }
+    ],
+    "album": {
+      "name": "Send It (feat. Rich Homie Quan)",
+      "link": "https://music.163.com/album?id=34825395"
+    }
+  },
+  {
+    "name": "Normal No More",
+    "link": "https://music.163.com/song?id=1440570723",
+    "duration": "03:19",
+    "artists": [
+      { "name": "TYSM", "link": "https://music.163.com/artist?id=12278200" }
+    ],
+    "album": {
+      "name": "Normal No More",
+      "link": "https://music.163.com/album?id=88010289"
+    }
+  },
+  {
+    "name": "Head In The Clouds",
+    "link": "https://music.163.com/song?id=1878812258",
+    "duration": "03:04",
+    "artists": [
+      { "name": "Hayd", "link": "https://music.163.com/artist?id=31213402" }
+    ],
+    "album": {
+      "name": "Changes - EP",
+      "link": "https://music.163.com/album?id=133357885"
+    }
+  },
+  {
+    "name": "Soft Lips",
+    "link": "https://music.163.com/song?id=1490987790",
+    "duration": "02:46",
+    "artists": [
+      {
+        "name": "BlankCh3ck",
+        "link": "https://music.163.com/artist?id=37217660"
+      }
+    ],
+    "album": {
+      "name": "XOXO",
+      "link": "https://music.163.com/album?id=97543274"
+    }
+  },
+  {
+    "name": "Mystery of Love - (电影《请以你的名字呼唤我》插曲)",
+    "link": "https://music.163.com/song?id=516358164",
+    "duration": "04:09",
+    "artists": [
+      {
+        "name": "Sufjan Stevens",
+        "link": "https://music.163.com/artist?id=42955"
+      }
+    ],
+    "album": {
+      "name": "Call Me By Your Name (Original Motion Picture Soundtrack)",
+      "link": "https://music.163.com/album?id=36525952"
+    }
+  },
+  {
+    "name": "Love Yourself",
+    "link": "https://music.163.com/song?id=36496695",
+    "duration": "03:53",
+    "artists": [
+      {
+        "name": "Justin Bieber",
+        "link": "https://music.163.com/artist?id=35531"
+      }
+    ],
+    "album": {
+      "name": "Purpose",
+      "link": "https://music.163.com/album?id=3389146"
+    }
+  },
+  {
+    "name": "Everybody Dies In Their Nightmares",
+    "link": "https://music.163.com/song?id=501133800",
+    "duration": "01:35",
+    "artists": [
+      {
+        "name": "XXXTENTACION",
+        "link": "https://music.163.com/artist?id=12107961"
+      }
+    ],
+    "album": { "name": "17", "link": "https://music.163.com/album?id=36037192" }
+  },
+  {
+    "name": "Shape of You",
+    "link": "https://music.163.com/song?id=451703096",
+    "duration": "03:51",
+    "artists": [
+      { "name": "Ed Sheeran", "link": "https://music.163.com/artist?id=33184" }
+    ],
+    "album": {
+      "name": "Shape of You",
+      "link": "https://music.163.com/album?id=35114127"
+    }
+  },
+  {
+    "name": "Mad at Disney",
+    "link": "https://music.163.com/song?id=1454317928",
+    "duration": "02:16",
+    "artists": [
+      {
+        "name": "salem ilese",
+        "link": "https://music.163.com/artist?id=35501211"
+      }
+    ],
+    "album": {
+      "name": "Mad at Disney",
+      "link": "https://music.163.com/album?id=90636784"
+    }
+  },
+  {
+    "name": "Fire",
+    "link": "https://music.163.com/song?id=28923579",
+    "duration": "03:48",
+    "artists": [
+      {
+        "name": "Gavin DeGraw",
+        "link": "https://music.163.com/artist?id=33856"
+      }
+    ],
+    "album": {
+      "name": "Fire",
+      "link": "https://music.163.com/album?id=2948093"
+    }
+  },
+  {
+    "name": "Mood (Lil Ghost Remix)",
+    "link": "https://music.163.com/song?id=1840808119",
+    "duration": "03:17",
+    "artists": [
+      {
+        "name": "24kGoldn",
+        "link": "https://music.163.com/artist?id=31081554"
+      },
+      {
+        "name": "iann dior",
+        "link": "https://music.163.com/artist?id=31532704"
+      },
+      {
+        "name": "Lil Ghost小鬼",
+        "link": "https://music.163.com/artist?id=12493781"
+      }
+    ],
+    "album": {
+      "name": "Mood (Lil Ghost Remix)",
+      "link": "https://music.163.com/album?id=126647353"
+    }
+  },
+  {
+    "name": "Cheap Thrills",
+    "link": "https://music.163.com/song?id=39224884",
+    "duration": "03:31",
+    "artists": [
+      { "name": "Sia", "link": "https://music.163.com/artist?id=74625" }
+    ],
+    "album": {
+      "name": "This Is Acting",
+      "link": "https://music.163.com/album?id=3394107"
+    }
+  },
+  {
+    "name": "2 soon",
+    "link": "https://music.163.com/song?id=1303019276",
+    "duration": "03:26",
+    "artists": [
+      { "name": "keshi", "link": "https://music.163.com/artist?id=12544511" }
+    ],
+    "album": {
+      "name": "2 soon",
+      "link": "https://music.163.com/album?id=72385710"
+    }
+  }
+]
