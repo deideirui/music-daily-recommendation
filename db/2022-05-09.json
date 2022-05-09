@@ -1,0 +1,496 @@
+[
+  {
+    "name": "Somebody",
+    "link": "https://music.163.com/song?id=479219365",
+    "duration": "03:29",
+    "artists": [
+      {
+        "name": "Lush & Simon",
+        "link": "https://music.163.com/artist?id=358207"
+      },
+      { "name": "IZII", "link": "https://music.163.com/artist?id=12154276" }
+    ],
+    "album": {
+      "name": "Somebody",
+      "link": "https://music.163.com/album?id=35535115"
+    }
+  },
+  {
+    "name": "Need Someone",
+    "link": "https://music.163.com/song?id=1824150152",
+    "duration": "02:57",
+    "artists": [
+      {
+        "name": "Zara Larsson",
+        "link": "https://music.163.com/artist?id=816461"
+      }
+    ],
+    "album": {
+      "name": "Poster Girl",
+      "link": "https://music.163.com/album?id=123738603"
+    }
+  },
+  {
+    "name": "Difficult",
+    "link": "https://music.163.com/song?id=1371476393",
+    "duration": "02:44",
+    "artists": [
+      {
+        "name": "Jay Bombay",
+        "link": "https://music.163.com/artist?id=327248"
+      },
+      { "name": "NEIMY", "link": "https://music.163.com/artist?id=12742289" }
+    ],
+    "album": {
+      "name": "Difficult",
+      "link": "https://music.163.com/album?id=79762476"
+    }
+  },
+  {
+    "name": "Decoy World",
+    "link": "https://music.163.com/song?id=503207111",
+    "duration": "03:51",
+    "artists": [
+      {
+        "name": "Intercom",
+        "link": "https://music.163.com/artist?id=12616082"
+      },
+      {
+        "name": "Park Avenue",
+        "link": "https://music.163.com/artist?id=368447"
+      }
+    ],
+    "album": {
+      "name": "Decoy World",
+      "link": "https://music.163.com/album?id=36106036"
+    }
+  },
+  {
+    "name": "Walk Me Home (Blanke Remix)",
+    "link": "https://music.163.com/song?id=1945806068",
+    "duration": "05:03",
+    "artists": [
+      {
+        "name": "Said The Sky",
+        "link": "https://music.163.com/artist?id=1026094"
+      },
+      { "name": "ILLENIUM", "link": "https://music.163.com/artist?id=1050518" },
+      {
+        "name": "Chelsea Cutler",
+        "link": "https://music.163.com/artist?id=1150112"
+      },
+      { "name": "Blanke", "link": "https://music.163.com/artist?id=13369420" }
+    ],
+    "album": {
+      "name": "Walk Me Home (Blanke Remix)",
+      "link": "https://music.163.com/album?id=144673260"
+    }
+  },
+  {
+    "name": "Holy",
+    "link": "https://music.163.com/song?id=512292298",
+    "duration": "03:28",
+    "artists": [
+      {
+        "name": "Wolf Colony",
+        "link": "https://music.163.com/artist?id=818119"
+      },
+      {
+        "name": "Masters of Electronica Dance",
+        "link": "https://music.163.com/artist?id=12914436"
+      }
+    ],
+    "album": {
+      "name": "Electro Shock",
+      "link": "https://music.163.com/album?id=36524234"
+    }
+  },
+  {
+    "name": "Back To You",
+    "link": "https://music.163.com/song?id=1352962917",
+    "duration": "03:05",
+    "artists": [
+      { "name": "NATIIVE", "link": "https://music.163.com/artist?id=13775064" },
+      {
+        "name": "Cailee Rae",
+        "link": "https://music.163.com/artist?id=12448021"
+      }
+    ],
+    "album": {
+      "name": "Back To You",
+      "link": "https://music.163.com/album?id=75904612"
+    }
+  },
+  {
+    "name": "Afterlife",
+    "link": "https://music.163.com/song?id=465921745",
+    "duration": "03:38",
+    "artists": [
+      {
+        "name": "Hex Cougar",
+        "link": "https://music.163.com/artist?id=1081443"
+      },
+      {
+        "name": "Jarell Perry",
+        "link": "https://music.163.com/artist?id=37473"
+      }
+    ],
+    "album": {
+      "name": "Afterlife",
+      "link": "https://music.163.com/album?id=35287197"
+    }
+  },
+  {
+    "name": "Complexity",
+    "link": "https://music.163.com/song?id=408532744",
+    "duration": "03:06",
+    "artists": [
+      { "name": "MadEye", "link": "https://music.163.com/artist?id=12108505" }
+    ],
+    "album": {
+      "name": "Complexity",
+      "link": "https://music.163.com/album?id=34589886"
+    }
+  },
+  {
+    "name": "Fox's  tear",
+    "link": "https://music.163.com/song?id=1849608842",
+    "duration": "05:37",
+    "artists": [
+      { "name": "宁晚晚", "link": "https://music.163.com/artist?id=48215151" }
+    ],
+    "album": {
+      "name": "Fox's tear",
+      "link": "https://music.163.com/album?id=128292946"
+    }
+  },
+  {
+    "name": "I Get Black Friday",
+    "link": "https://music.163.com/song?id=1446054012",
+    "duration": "02:31",
+    "artists": [
+      {
+        "name": "Rnbstylerz",
+        "link": "https://music.163.com/artist?id=33200069"
+      }
+    ],
+    "album": {
+      "name": "I Get Black Friday",
+      "link": "https://music.163.com/album?id=89053548"
+    }
+  },
+  {
+    "name": "Không Sao Mà Em Đây Rồi - (没关系 有我在)",
+    "link": "https://music.163.com/song?id=1473704094",
+    "duration": "03:56",
+    "artists": [
+      { "name": "AREZ", "link": "https://music.163.com/artist?id=34821168" }
+    ],
+    "album": {
+      "name": "KKng",
+      "link": "https://music.163.com/album?id=94403765"
+    }
+  },
+  {
+    "name": "Uninvited (Dub Mix)",
+    "link": "https://music.163.com/song?id=506462646",
+    "duration": "05:20",
+    "artists": [
+      {
+        "name": "Mr. Monj",
+        "link": "https://music.163.com/artist?id=12637717"
+      },
+      {
+        "name": "Julia Turano",
+        "link": "https://music.163.com/artist?id=12637716"
+      }
+    ],
+    "album": {
+      "name": "Uninvited",
+      "link": "https://music.163.com/album?id=36236294"
+    }
+  },
+  {
+    "name": "Today",
+    "link": "https://music.163.com/song?id=1842561393",
+    "duration": "02:44",
+    "artists": [
+      { "name": "Foyon", "link": "https://music.163.com/artist?id=34479976" },
+      { "name": "Rumusen", "link": "https://music.163.com/artist?id=47860493" }
+    ],
+    "album": {
+      "name": "Rider",
+      "link": "https://music.163.com/album?id=126942127"
+    }
+  },
+  {
+    "name": "Way Back",
+    "link": "https://music.163.com/song?id=543987451",
+    "duration": "03:28",
+    "artists": [
+      { "name": "Vicetone", "link": "https://music.163.com/artist?id=747030" },
+      {
+        "name": "Cozi Zuehlsdorff",
+        "link": "https://music.163.com/artist?id=1097153"
+      }
+    ],
+    "album": {
+      "name": "Way Back",
+      "link": "https://music.163.com/album?id=37888075"
+    }
+  },
+  {
+    "name": "Going Home",
+    "link": "https://music.163.com/song?id=1814140540",
+    "duration": "05:50",
+    "artists": [
+      { "name": "Tom Day", "link": "https://music.163.com/artist?id=103812" }
+    ],
+    "album": {
+      "name": "2012",
+      "link": "https://music.163.com/album?id=122007390"
+    }
+  },
+  {
+    "name": "晚星",
+    "link": "https://music.163.com/song?id=1319520140",
+    "duration": "03:13",
+    "artists": [
+      { "name": "逆时针向", "link": "https://music.163.com/artist?id=12128251" }
+    ],
+    "album": {
+      "name": "晚星",
+      "link": "https://music.163.com/album?id=74009778"
+    }
+  },
+  {
+    "name": "Feeling The Rain",
+    "link": "https://music.163.com/song?id=496774187",
+    "duration": "04:02",
+    "artists": [
+      { "name": "MoreanP", "link": "https://music.163.com/artist?id=12275337" }
+    ],
+    "album": {
+      "name": "Feeling The Rain",
+      "link": "https://music.163.com/album?id=35893771"
+    }
+  },
+  {
+    "name": "Memories",
+    "link": "https://music.163.com/song?id=407002778",
+    "duration": "05:15",
+    "artists": [
+      {
+        "name": "Sappheiros",
+        "link": "https://music.163.com/artist?id=11995187"
+      }
+    ],
+    "album": {
+      "name": "Memories",
+      "link": "https://music.163.com/album?id=34567142"
+    }
+  },
+  {
+    "name": "East of Eden",
+    "link": "https://music.163.com/song?id=29009655",
+    "duration": "03:05",
+    "artists": [
+      { "name": "Zella Day", "link": "https://music.163.com/artist?id=900106" }
+    ],
+    "album": {
+      "name": "East of Eden",
+      "link": "https://music.163.com/album?id=2976629"
+    }
+  },
+  {
+    "name": "积雪",
+    "link": "https://music.163.com/song?id=1821065178",
+    "duration": "03:40",
+    "artists": [
+      { "name": "純白P", "link": "https://music.163.com/artist?id=12057017" },
+      { "name": "洛天依", "link": "https://music.163.com/artist?id=906118" }
+    ],
+    "album": {
+      "name": "积雪",
+      "link": "https://music.163.com/album?id=123113621"
+    }
+  },
+  {
+    "name": "LilaS - (紫丁香)",
+    "link": "https://music.163.com/song?id=1924858507",
+    "duration": "04:05",
+    "artists": [
+      {
+        "name": "SawanoHiroyuki[nZk]",
+        "link": "https://music.163.com/artist?id=1096011"
+      },
+      {
+        "name": "Honoka Takahashi",
+        "link": "https://music.163.com/artist?id=33309937"
+      }
+    ],
+    "album": {
+      "name": "LilaS",
+      "link": "https://music.163.com/album?id=141213314"
+    }
+  },
+  {
+    "name": "Changes",
+    "link": "https://music.163.com/song?id=451113381",
+    "duration": "03:20",
+    "artists": [
+      { "name": "No Hopes", "link": "https://music.163.com/artist?id=905780" },
+      { "name": "Kinspin", "link": "https://music.163.com/artist?id=12551115" }
+    ],
+    "album": {
+      "name": "Changes",
+      "link": "https://music.163.com/album?id=35105289"
+    }
+  },
+  {
+    "name": "Land of Silence",
+    "link": "https://music.163.com/song?id=1314975701",
+    "duration": "05:31",
+    "artists": [
+      { "name": "千坂", "link": "https://music.163.com/artist?id=12138261" },
+      { "name": "DCGO", "link": "https://music.163.com/artist?id=12037211" },
+      { "name": "S.T", "link": "https://music.163.com/artist?id=30285569" },
+      { "name": "Y.F", "link": "https://music.163.com/artist?id=29779913" }
+    ],
+    "album": {
+      "name": "Land of Silence",
+      "link": "https://music.163.com/album?id=73706445"
+    }
+  },
+  {
+    "name": "Shelter (Pure 100% Remix)",
+    "link": "https://music.163.com/song?id=441489207",
+    "duration": "06:51",
+    "artists": [
+      {
+        "name": "Pure 100%",
+        "link": "https://music.163.com/artist?id=12031260"
+      },
+      {
+        "name": "Porter Robinson",
+        "link": "https://music.163.com/artist?id=185871"
+      },
+      { "name": "Madeon", "link": "https://music.163.com/artist?id=40280" }
+    ],
+    "album": {
+      "name": "Shelter (Pure 100% Remix)",
+      "link": "https://music.163.com/album?id=35004074"
+    }
+  },
+  {
+    "name": "WITHOUT YOU",
+    "link": "https://music.163.com/song?id=407007082",
+    "duration": "04:35",
+    "artists": [
+      {
+        "name": "JENNIFER CIHI",
+        "link": "https://music.163.com/artist?id=29863687"
+      }
+    ],
+    "album": {
+      "name": "City Hunter Sound Collection Y -Insertion Tracks",
+      "link": "https://music.163.com/album?id=34569027"
+    }
+  },
+  {
+    "name": "花鳥風月 - (风花雪月)",
+    "link": "https://music.163.com/song?id=22814470",
+    "duration": "04:35",
+    "artists": [
+      {
+        "name": "Sekai no Owari",
+        "link": "https://music.163.com/artist?id=21463"
+      }
+    ],
+    "album": {
+      "name": "ENTERTAINMENT",
+      "link": "https://music.163.com/album?id=2097288"
+    }
+  },
+  {
+    "name": "手紙 〜拝啓　十五の君へ〜",
+    "link": "https://music.163.com/song?id=550661",
+    "duration": "05:14",
+    "artists": [
+      {
+        "name": "アンジェラ・アキ",
+        "link": "https://music.163.com/artist?id=15991"
+      }
+    ],
+    "album": {
+      "name": "手紙〜拝啓　十五の君へ〜",
+      "link": "https://music.163.com/album?id=51350"
+    }
+  },
+  {
+    "name": "Get Wild (City Hunter Special '97 Version)",
+    "link": "https://music.163.com/song?id=29816103",
+    "duration": "03:46",
+    "artists": [
+      { "name": "田中菜穂", "link": "https://music.163.com/artist?id=33489643" }
+    ],
+    "album": {
+      "name": "City Hunter Special ～Good-bye my sweet heart original soundtrack",
+      "link": "https://music.163.com/album?id=3081363"
+    }
+  },
+  {
+    "name": "パズル - (拼图)",
+    "link": "https://music.163.com/song?id=857606",
+    "duration": "04:25",
+    "artists": [
+      { "name": "ENE", "link": "https://music.163.com/artist?id=191323" }
+    ],
+    "album": {
+      "name": "voices in a bottle ～海を越え届いた歌声～",
+      "link": "https://music.163.com/album?id=85498"
+    }
+  },
+  {
+    "name": "咸咸的(洛天依 ver.)",
+    "link": "https://music.163.com/song?id=484710046",
+    "duration": "04:09",
+    "artists": [
+      { "name": "洛天依", "link": "https://music.163.com/artist?id=906118" },
+      { "name": "純白P", "link": "https://music.163.com/artist?id=12057017" }
+    ],
+    "album": {
+      "name": "蔚蓝色",
+      "link": "https://music.163.com/album?id=35638290"
+    }
+  },
+  {
+    "name": "China-L",
+    "link": "https://music.163.com/song?id=544944902",
+    "duration": "04:15",
+    "artists": [
+      {
+        "name": "Arealy仁辰",
+        "link": "https://music.163.com/artist?id=12537035"
+      }
+    ],
+    "album": {
+      "name": "China-L",
+      "link": "https://music.163.com/album?id=37903437"
+    }
+  },
+  {
+    "name": "我的新衣 (feat. Ty. & 王倩倩)",
+    "link": "https://music.163.com/song?id=511229030",
+    "duration": "04:04",
+    "artists": [
+      {
+        "name": "VaVa毛衍七",
+        "link": "https://music.163.com/artist?id=1038099"
+      },
+      { "name": "Ty.", "link": "https://music.163.com/artist?id=1086078" },
+      { "name": "王倩倩", "link": "https://music.163.com/artist?id=13523658" }
+    ],
+    "album": { "name": "21", "link": "https://music.163.com/album?id=36452515" }
+  }
+]
