@@ -1,0 +1,471 @@
+[
+  {
+    "name": "Odyssey",
+    "link": "https://music.163.com/song?id=28323519",
+    "duration": "04:18",
+    "artists": [
+      {
+        "name": "Dance With The Dead",
+        "link": "https://music.163.com/artist?id=999192"
+      }
+    ],
+    "album": {
+      "name": "Into the Abyss",
+      "link": "https://music.163.com/album?id=2776049"
+    }
+  },
+  {
+    "name": "Staring At The Lights",
+    "link": "https://music.163.com/song?id=429769629",
+    "duration": "03:10",
+    "artists": [
+      { "name": "Vexento", "link": "https://music.163.com/artist?id=12037010" }
+    ],
+    "album": {
+      "name": "The Silent Miracle",
+      "link": "https://music.163.com/album?id=34869372"
+    }
+  },
+  {
+    "name": "Free",
+    "link": "https://music.163.com/song?id=419250985",
+    "duration": "04:13",
+    "artists": [
+      { "name": "Kidswaste", "link": "https://music.163.com/artist?id=1116302" }
+    ],
+    "album": {
+      "name": "Free",
+      "link": "https://music.163.com/album?id=34754252"
+    }
+  },
+  {
+    "name": "Summer Up",
+    "link": "https://music.163.com/song?id=1810631740",
+    "duration": "04:22",
+    "artists": [
+      { "name": "Khiska", "link": "https://music.163.com/artist?id=46493326" }
+    ],
+    "album": {
+      "name": "Summer Up",
+      "link": "https://music.163.com/album?id=121409222"
+    }
+  },
+  {
+    "name": "さよならの夏 - (道别之夏)",
+    "link": "https://music.163.com/song?id=1329891953",
+    "duration": "04:14",
+    "artists": [
+      {
+        "name": "Cécile Corbel",
+        "link": "https://music.163.com/artist?id=51012"
+      },
+      { "name": "岩佐美咲", "link": "https://music.163.com/artist?id=16645" }
+    ],
+    "album": {
+      "name": "さよならの夏",
+      "link": "https://music.163.com/album?id=74685136"
+    }
+  },
+  {
+    "name": "Not Alone (feat. Player One)",
+    "link": "https://music.163.com/song?id=1380905159",
+    "duration": "05:16",
+    "artists": [
+      { "name": " Kalax ", "link": "https://music.163.com/artist?id=986263" },
+      {
+        "name": "Player One",
+        "link": "https://music.163.com/artist?id=30618218"
+      }
+    ],
+    "album": {
+      "name": "III",
+      "link": "https://music.163.com/album?id=80658988"
+    }
+  },
+  {
+    "name": "Never Say Die",
+    "link": "https://music.163.com/song?id=1830612384",
+    "duration": "04:23",
+    "artists": [
+      { "name": "CHVRCHES", "link": "https://music.163.com/artist?id=694027" }
+    ],
+    "album": {
+      "name": "In Search Of Darkness",
+      "link": "https://music.163.com/album?id=124742214"
+    }
+  },
+  {
+    "name": "Next To Me",
+    "link": "https://music.163.com/song?id=552575409",
+    "duration": "02:59",
+    "artists": [
+      {
+        "name": "Axel Johansson",
+        "link": "https://music.163.com/artist?id=12872604"
+      },
+      {
+        "name": "Tina Stachowiak",
+        "link": "https://music.163.com/artist?id=905727"
+      }
+    ],
+    "album": {
+      "name": "Next To Me",
+      "link": "https://music.163.com/album?id=38315215"
+    }
+  },
+  {
+    "name": "What I Need",
+    "link": "https://music.163.com/song?id=476324155",
+    "duration": "05:04",
+    "artists": [
+      {
+        "name": "Approaching Nirvana",
+        "link": "https://music.163.com/artist?id=86884"
+      }
+    ],
+    "album": {
+      "name": "Horizons",
+      "link": "https://music.163.com/album?id=37084136"
+    }
+  },
+  {
+    "name": "The Best Of Me",
+    "link": "https://music.163.com/song?id=1329938686",
+    "duration": "04:33",
+    "artists": [
+      {
+        "name": "Dion Timmer",
+        "link": "https://music.163.com/artist?id=11998053"
+      },
+      {
+        "name": "The Arcturians",
+        "link": "https://music.163.com/artist?id=12475227"
+      }
+    ],
+    "album": {
+      "name": "Very Extra",
+      "link": "https://music.163.com/album?id=74687130"
+    }
+  },
+  {
+    "name": "Like I Love You",
+    "link": "https://music.163.com/song?id=1923582",
+    "duration": "03:23",
+    "artists": [
+      { "name": "R.I.O.", "link": "https://music.163.com/artist?id=42495" }
+    ],
+    "album": {
+      "name": "Sunshine",
+      "link": "https://music.163.com/album?id=193990"
+    }
+  },
+  {
+    "name": "Forever Young",
+    "link": "https://music.163.com/song?id=1296637878",
+    "duration": "02:47",
+    "artists": [
+      {
+        "name": "John De Sohn",
+        "link": "https://music.163.com/artist?id=290019"
+      },
+      { "name": "Liamoo", "link": "https://music.163.com/artist?id=12409114" }
+    ],
+    "album": {
+      "name": "Forever Young",
+      "link": "https://music.163.com/album?id=72021852"
+    }
+  },
+  {
+    "name": "Particle Arts",
+    "link": "https://music.163.com/song?id=523251142",
+    "duration": "03:54",
+    "artists": [
+      {
+        "name": "Virtual Self",
+        "link": "https://music.163.com/artist?id=12773843"
+      }
+    ],
+    "album": {
+      "name": "Virtual Self",
+      "link": "https://music.163.com/album?id=36633233"
+    }
+  },
+  {
+    "name": "Wayside",
+    "link": "https://music.163.com/song?id=1365008607",
+    "duration": "03:05",
+    "artists": [
+      { "name": "Rafman", "link": "https://music.163.com/artist?id=14255494" }
+    ],
+    "album": {
+      "name": "Wayside",
+      "link": "https://music.163.com/album?id=79081458"
+    }
+  },
+  {
+    "name": "Cuba (Tiene Sabor)",
+    "link": "https://music.163.com/song?id=1378420108",
+    "duration": "02:48",
+    "artists": [
+      { "name": "BUNT.", "link": "https://music.163.com/artist?id=744145" },
+      {
+        "name": "Omara Portuondo",
+        "link": "https://music.163.com/artist?id=70323"
+      }
+    ],
+    "album": {
+      "name": "Cuba (Tiene Sabor)",
+      "link": "https://music.163.com/album?id=80434457"
+    }
+  },
+  {
+    "name": "Don't Say Goodbye",
+    "link": "https://music.163.com/song?id=1479254226",
+    "duration": "03:06",
+    "artists": [
+      { "name": "Alok", "link": "https://music.163.com/artist?id=1170012" },
+      {
+        "name": "Ilkay Sencan",
+        "link": "https://music.163.com/artist?id=12523484"
+      },
+      { "name": "Tove Lo", "link": "https://music.163.com/artist?id=768065" }
+    ],
+    "album": {
+      "name": "Don't Say Goodbye",
+      "link": "https://music.163.com/album?id=95397702"
+    }
+  },
+  {
+    "name": "Nostalgia",
+    "link": "https://music.163.com/song?id=1870834564",
+    "duration": "02:25",
+    "artists": [
+      {
+        "name": "PIKASONIC",
+        "link": "https://music.163.com/artist?id=13499634"
+      }
+    ],
+    "album": {
+      "name": "Nostalgia",
+      "link": "https://music.163.com/album?id=131980587"
+    }
+  },
+  {
+    "name": "Insula (Dirty Nano Remix)",
+    "link": "https://music.163.com/song?id=1490852661",
+    "duration": "06:37",
+    "artists": [
+      {
+        "name": "The Motans",
+        "link": "https://music.163.com/artist?id=12710132"
+      },
+      { "name": "Emaa", "link": "https://music.163.com/artist?id=34638264" }
+    ],
+    "album": {
+      "name": "Insula (Dirty Nano Remix)",
+      "link": "https://music.163.com/album?id=97520214"
+    }
+  },
+  {
+    "name": "Pressure",
+    "link": "https://music.163.com/song?id=1816865248",
+    "duration": "02:24",
+    "artists": [
+      {
+        "name": "Martin Garrix",
+        "link": "https://music.163.com/artist?id=780003"
+      },
+      { "name": "Tove Lo", "link": "https://music.163.com/artist?id=768065" }
+    ],
+    "album": {
+      "name": "Pressure",
+      "link": "https://music.163.com/album?id=122427082"
+    }
+  },
+  {
+    "name": "Dogs (Original Version)",
+    "link": "https://music.163.com/song?id=25773443",
+    "duration": "05:31",
+    "artists": [
+      { "name": "HVOB", "link": "https://music.163.com/artist?id=688969" }
+    ],
+    "album": {
+      "name": "Dogs",
+      "link": "https://music.163.com/album?id=2308747"
+    }
+  },
+  {
+    "name": "Cosmic Fate",
+    "link": "https://music.163.com/song?id=532267293",
+    "duration": "02:32",
+    "artists": [
+      { "name": "Wisp X", "link": "https://music.163.com/artist?id=1046123" }
+    ],
+    "album": {
+      "name": "Cosmic Fate",
+      "link": "https://music.163.com/album?id=37353614"
+    }
+  },
+  {
+    "name": "Stereo（Orginal Mix）",
+    "link": "https://music.163.com/song?id=1895439853",
+    "duration": "03:07",
+    "artists": [
+      { "name": "HSHK", "link": "https://music.163.com/artist?id=36337566" },
+      { "name": "Pnan", "link": "https://music.163.com/artist?id=46717748" },
+      { "name": "KSKV", "link": "https://music.163.com/artist?id=48852996" }
+    ],
+    "album": {
+      "name": "Stereo",
+      "link": "https://music.163.com/album?id=136198653"
+    }
+  },
+  {
+    "name": "Wicked Game",
+    "link": "https://music.163.com/song?id=1304517647",
+    "duration": "03:37",
+    "artists": [
+      {
+        "name": "Max Oazo",
+        "link": "https://music.163.com/artist?id=13159084"
+      },
+      { "name": "Cami", "link": "https://music.163.com/artist?id=283909" }
+    ],
+    "album": {
+      "name": "Wicked Game",
+      "link": "https://music.163.com/album?id=72492027"
+    }
+  },
+  {
+    "name": "Black silk",
+    "link": "https://music.163.com/song?id=1809393471",
+    "duration": "03:17",
+    "artists": [
+      { "name": "DEITIES", "link": "https://music.163.com/artist?id=33908350" },
+      { "name": "EA7_Zcq", "link": "https://music.163.com/artist?id=36337691" },
+      {
+        "name": "Sound of Tomorrow",
+        "link": "https://music.163.com/artist?id=46463584"
+      }
+    ],
+    "album": {
+      "name": "Black silk",
+      "link": "https://music.163.com/album?id=120870540"
+    }
+  },
+  {
+    "name": "Count The Hours",
+    "link": "https://music.163.com/song?id=1380022214",
+    "duration": "02:30",
+    "artists": [
+      { "name": "BEAUZ", "link": "https://music.163.com/artist?id=12131436" },
+      { "name": "Nevve", "link": "https://music.163.com/artist?id=12567101" },
+      {
+        "name": "Kastilione",
+        "link": "https://music.163.com/artist?id=12063100"
+      }
+    ],
+    "album": {
+      "name": "Count The Hours",
+      "link": "https://music.163.com/album?id=80601822"
+    }
+  },
+  {
+    "name": "Jason",
+    "link": "https://music.163.com/song?id=426027089",
+    "duration": "05:31",
+    "artists": [
+      {
+        "name": "The Midnight",
+        "link": "https://music.163.com/artist?id=12023492"
+      },
+      {
+        "name": "Nikki Flores",
+        "link": "https://music.163.com/artist?id=70141"
+      }
+    ],
+    "album": {
+      "name": "Endless Summer",
+      "link": "https://music.163.com/album?id=34826028"
+    }
+  },
+  {
+    "name": "La Ciudad",
+    "link": "https://music.163.com/song?id=1329664861",
+    "duration": "04:31",
+    "artists": [
+      { "name": "ODESZA", "link": "https://music.163.com/artist?id=839108" }
+    ],
+    "album": {
+      "name": "A Moment Apart (Deluxe Edition)",
+      "link": "https://music.163.com/album?id=74669989"
+    }
+  },
+  {
+    "name": "What About Us (Roman Müller Remix)",
+    "link": "https://music.163.com/song?id=497745495",
+    "duration": "02:56",
+    "artists": [
+      {
+        "name": "Roman Müller",
+        "link": "https://music.163.com/artist?id=12192077"
+      },
+      { "name": "PINK", "link": "https://music.163.com/artist?id=841344" }
+    ],
+    "album": {
+      "name": "What About Us (Roman Müller Remix)",
+      "link": "https://music.163.com/album?id=35908721"
+    }
+  },
+  {
+    "name": "Nu",
+    "link": "https://music.163.com/song?id=33211565",
+    "duration": "04:04",
+    "artists": [
+      { "name": "DJ Project", "link": "https://music.163.com/artist?id=91079" }
+    ],
+    "album": {
+      "name": "Best Of",
+      "link": "https://music.163.com/album?id=3190170"
+    }
+  },
+  {
+    "name": "I Blame The World",
+    "link": "https://music.163.com/song?id=1933068028",
+    "duration": "03:17",
+    "artists": [
+      {
+        "name": "Sasha Alex Sloan",
+        "link": "https://music.163.com/artist?id=12646102"
+      }
+    ],
+    "album": {
+      "name": "I Blame The World",
+      "link": "https://music.163.com/album?id=142654227"
+    }
+  },
+  {
+    "name": "Echoes",
+    "link": "https://music.163.com/song?id=1383873870",
+    "duration": "02:55",
+    "artists": [
+      { "name": "Kazukii", "link": "https://music.163.com/artist?id=12054389" }
+    ],
+    "album": {
+      "name": "Echoes",
+      "link": "https://music.163.com/album?id=80915300"
+    }
+  },
+  {
+    "name": "Hurricane",
+    "link": "https://music.163.com/song?id=34144934",
+    "duration": "03:43",
+    "artists": [
+      { "name": "Halsey", "link": "https://music.163.com/artist?id=964321" }
+    ],
+    "album": {
+      "name": "BADLANDS (Deluxe Edition)",
+      "link": "https://music.163.com/album?id=3271514"
+    }
+  }
+]
