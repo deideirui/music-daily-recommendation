@@ -1,0 +1,502 @@
+[
+  {
+    "name": "Panorama",
+    "link": "https://music.163.com/song?id=545152017",
+    "duration": "02:26",
+    "artists": [
+      { "name": "X-Ray Dog", "link": "https://music.163.com/artist?id=105618" }
+    ],
+    "album": {
+      "name": "Seeing Eye",
+      "link": "https://music.163.com/album?id=37917604"
+    }
+  },
+  {
+    "name": "Wild Side",
+    "link": "https://music.163.com/song?id=501133214",
+    "duration": "02:57",
+    "artists": [
+      {
+        "name": "Roberto Cacciapaglia",
+        "link": "https://music.163.com/artist?id=42047"
+      }
+    ],
+    "album": {
+      "name": "Atlas - Cacciapaglia Collection",
+      "link": "https://music.163.com/album?id=36037132"
+    }
+  },
+  {
+    "name": "Blackheart",
+    "link": "https://music.163.com/song?id=1467670638",
+    "duration": "04:26",
+    "artists": [
+      {
+        "name": "Two Steps From Hell",
+        "link": "https://music.163.com/artist?id=102714"
+      },
+      {
+        "name": "Thomas Bergersen",
+        "link": "https://music.163.com/artist?id=45336"
+      }
+    ],
+    "album": {
+      "name": "Skyworld",
+      "link": "https://music.163.com/album?id=93346221"
+    }
+  },
+  {
+    "name": "First Love",
+    "link": "https://music.163.com/song?id=1459849658",
+    "duration": "03:16",
+    "artists": [
+      { "name": "Jurrivh", "link": "https://music.163.com/artist?id=12090068" }
+    ],
+    "album": {
+      "name": "First Love",
+      "link": "https://music.163.com/album?id=91872850"
+    }
+  },
+  {
+    "name": "Offshore",
+    "link": "https://music.163.com/song?id=1945782367",
+    "duration": "03:19",
+    "artists": [
+      {
+        "name": "Armin van Buuren",
+        "link": "https://music.163.com/artist?id=27621"
+      },
+      { "name": "AVIRA", "link": "https://music.163.com/artist?id=34333604" },
+      { "name": "Chicane", "link": "https://music.163.com/artist?id=50971" }
+    ],
+    "album": {
+      "name": "Offshore",
+      "link": "https://music.163.com/album?id=144669427"
+    }
+  },
+  {
+    "name": "La La La",
+    "link": "https://music.163.com/song?id=26390073",
+    "duration": "03:40",
+    "artists": [
+      {
+        "name": "Naughty Boy",
+        "link": "https://music.163.com/artist?id=40648"
+      },
+      { "name": "Sam Smith", "link": "https://music.163.com/artist?id=740216" }
+    ],
+    "album": {
+      "name": "La La La",
+      "link": "https://music.163.com/album?id=2477011"
+    }
+  },
+  {
+    "name": "Legendary",
+    "link": "https://music.163.com/song?id=36586598",
+    "duration": "03:21",
+    "artists": [
+      {
+        "name": "Epic Soul Factory",
+        "link": "https://music.163.com/artist?id=92325"
+      },
+      {
+        "name": "Cesc Vilà",
+        "link": "https://music.163.com/artist?id=13157099"
+      },
+      {
+        "name": "Fran Soto",
+        "link": "https://music.163.com/artist?id=13157100"
+      }
+    ],
+    "album": {
+      "name": "Sigma",
+      "link": "https://music.163.com/album?id=3394605"
+    }
+  },
+  {
+    "name": "Moonsea",
+    "link": "https://music.163.com/song?id=26183616",
+    "duration": "04:08",
+    "artists": [
+      { "name": "Phildel", "link": "https://music.163.com/artist?id=125855" }
+    ],
+    "album": {
+      "name": "The Disappearance Of The Girl (Monsieur Adi Remix)",
+      "link": "https://music.163.com/album?id=2401884"
+    }
+  },
+  {
+    "name": "Paperman",
+    "link": "https://music.163.com/song?id=27566017",
+    "duration": "04:59",
+    "artists": [
+      {
+        "name": "Christophe Beck",
+        "link": "https://music.163.com/artist?id=52923"
+      }
+    ],
+    "album": {
+      "name": "Paperman (Original Score)",
+      "link": "https://music.163.com/album?id=2639128"
+    }
+  },
+  {
+    "name": "Sky High",
+    "link": "https://music.163.com/song?id=2060546",
+    "duration": "04:04",
+    "artists": [
+      {
+        "name": "Thomas Prime",
+        "link": "https://music.163.com/artist?id=45274"
+      }
+    ],
+    "album": {
+      "name": "Sky High",
+      "link": "https://music.163.com/album?id=207633"
+    }
+  },
+  {
+    "name": "A Closing Statement",
+    "link": "https://music.163.com/song?id=26543787",
+    "duration": "04:24",
+    "artists": [
+      {
+        "name": "Dexter Britain",
+        "link": "https://music.163.com/artist?id=784341"
+      }
+    ],
+    "album": {
+      "name": "Light of Life",
+      "link": "https://music.163.com/album?id=2521641"
+    }
+  },
+  {
+    "name": "Skyborn",
+    "link": "https://music.163.com/song?id=1338711251",
+    "duration": "03:58",
+    "artists": [
+      {
+        "name": "Ivan Torrent",
+        "link": "https://music.163.com/artist?id=816336"
+      }
+    ],
+    "album": {
+      "name": "Immortalys",
+      "link": "https://music.163.com/album?id=75117562"
+    }
+  },
+  {
+    "name": "Driftwood",
+    "link": "https://music.163.com/song?id=2116549",
+    "duration": "04:24",
+    "artists": [
+      { "name": "7AND5", "link": "https://music.163.com/artist?id=46465" }
+    ],
+    "album": {
+      "name": "Hope, Destiny, And Choice",
+      "link": "https://music.163.com/album?id=213202"
+    }
+  },
+  {
+    "name": "Not Over You",
+    "link": "https://music.163.com/song?id=1865368506",
+    "duration": "03:17",
+    "artists": [
+      { "name": "Hoang", "link": "https://music.163.com/artist?id=27694442" },
+      { "name": "Daye", "link": "https://music.163.com/artist?id=49282405" }
+    ],
+    "album": {
+      "name": "Not Over You",
+      "link": "https://music.163.com/album?id=131120454"
+    }
+  },
+  {
+    "name": "Best Is Yet To Come",
+    "link": "https://music.163.com/song?id=1850116156",
+    "duration": "03:35",
+    "artists": [
+      { "name": "Gryffin", "link": "https://music.163.com/artist?id=1181504" },
+      {
+        "name": "Kyle Reynolds",
+        "link": "https://music.163.com/artist?id=1179061"
+      }
+    ],
+    "album": {
+      "name": "Best Is Yet To Come",
+      "link": "https://music.163.com/album?id=128393916"
+    }
+  },
+  {
+    "name": "Leave This Place",
+    "link": "https://music.163.com/song?id=437605808",
+    "duration": "04:51",
+    "artists": [
+      { "name": "LIONE", "link": "https://music.163.com/artist?id=11986064" }
+    ],
+    "album": {
+      "name": "Leave This Place",
+      "link": "https://music.163.com/album?id=34944506"
+    }
+  },
+  {
+    "name": "黑白的我",
+    "link": "https://music.163.com/song?id=556459092",
+    "duration": "03:07",
+    "artists": [
+      { "name": "KYS", "link": "https://music.163.com/artist?id=14017279" },
+      {
+        "name": "Mr.16罗隽永",
+        "link": "https://music.163.com/artist?id=1060200"
+      }
+    ],
+    "album": {
+      "name": "黑白的我",
+      "link": "https://music.163.com/album?id=38537068"
+    }
+  },
+  {
+    "name": "Love Ain't Changin",
+    "link": "https://music.163.com/song?id=1396178566",
+    "duration": "03:17",
+    "artists": [
+      {
+        "name": "GhostDragon",
+        "link": "https://music.163.com/artist?id=12202354"
+      },
+      { "name": "Caslow", "link": "https://music.163.com/artist?id=15109745" },
+      {
+        "name": "Red Comet",
+        "link": "https://music.163.com/artist?id=13128065"
+      },
+      {
+        "name": "Alina Renae",
+        "link": "https://music.163.com/artist?id=844803"
+      }
+    ],
+    "album": {
+      "name": "Love Ain't Changing",
+      "link": "https://music.163.com/album?id=82299007"
+    }
+  },
+  {
+    "name": "Love Come Down (Radio Edit)",
+    "link": "https://music.163.com/song?id=28442474",
+    "duration": "03:05",
+    "artists": [
+      {
+        "name": "Bodybangers",
+        "link": "https://music.163.com/artist?id=220606"
+      }
+    ],
+    "album": {
+      "name": "Love Come Down",
+      "link": "https://music.163.com/album?id=2794044"
+    }
+  },
+  {
+    "name": "Can't Complain",
+    "link": "https://music.163.com/song?id=26492802",
+    "duration": "03:13",
+    "artists": [
+      { "name": "Relient K", "link": "https://music.163.com/artist?id=41943" }
+    ],
+    "album": {
+      "name": "Collapsible Lung",
+      "link": "https://music.163.com/album?id=2509081"
+    }
+  },
+  {
+    "name": "Tu vas me manquer (Pilule Bleue) - (我会想你（蓝色药片）)",
+    "link": "https://music.163.com/song?id=36025856",
+    "duration": "04:10",
+    "artists": [
+      { "name": "GIMS", "link": "https://music.163.com/artist?id=710267" }
+    ],
+    "album": {
+      "name": "Mon coeur avait raison",
+      "link": "https://music.163.com/album?id=3367822"
+    }
+  },
+  {
+    "name": "It’s Only (feat. Zyra) (ODESZA VIP Remix)",
+    "link": "https://music.163.com/song?id=1329664864",
+    "duration": "04:00",
+    "artists": [
+      { "name": "ODESZA", "link": "https://music.163.com/artist?id=839108" },
+      { "name": "Zyra", "link": "https://music.163.com/artist?id=1156311" }
+    ],
+    "album": {
+      "name": "A Moment Apart (Deluxe Edition)",
+      "link": "https://music.163.com/album?id=74669989"
+    }
+  },
+  {
+    "name": "I Could Be The One (Nicktim - Original Mix)",
+    "link": "https://music.163.com/song?id=425015303",
+    "duration": "07:35",
+    "artists": [
+      { "name": "Avicii", "link": "https://music.163.com/artist?id=45236" },
+      {
+        "name": "Nicky Romero",
+        "link": "https://music.163.com/artist?id=195142"
+      }
+    ],
+    "album": {
+      "name": "I Could Be The One [Avicii vs Nicky Romero]",
+      "link": "https://music.163.com/album?id=34809644"
+    }
+  },
+  {
+    "name": "权力的游戏主题曲-Main Titles(冰与火之歌)",
+    "link": "https://music.163.com/song?id=1811494024",
+    "duration": "02:02",
+    "artists": [
+      {
+        "name": "Worry Free Studios",
+        "link": "https://music.163.com/artist?id=46503501"
+      },
+      {
+        "name": "Ramin Djawadi",
+        "link": "https://music.163.com/artist?id=41992"
+      }
+    ],
+    "album": {
+      "name": "权力的游戏(冰与火之歌)",
+      "link": "https://music.163.com/album?id=121512163"
+    }
+  },
+  {
+    "name": "Breathe",
+    "link": "https://music.163.com/song?id=413812817",
+    "duration": "03:45",
+    "artists": [
+      { "name": "EMBRZ", "link": "https://music.163.com/artist?id=1173001" }
+    ],
+    "album": {
+      "name": "Breathe",
+      "link": "https://music.163.com/album?id=34702622"
+    }
+  },
+  {
+    "name": "At The Edge",
+    "link": "https://music.163.com/song?id=448596416",
+    "duration": "03:20",
+    "artists": [
+      { "name": "千坂", "link": "https://music.163.com/artist?id=12138261" }
+    ],
+    "album": {
+      "name": "At The Edge",
+      "link": "https://music.163.com/album?id=35072236"
+    }
+  },
+  {
+    "name": "春日部的告别",
+    "link": "https://music.163.com/song?id=1852326658",
+    "duration": "04:09",
+    "artists": [
+      {
+        "name": "海妖SeaMaiden",
+        "link": "https://music.163.com/artist?id=34248441"
+      }
+    ],
+    "album": {
+      "name": "Sweet Waves",
+      "link": "https://music.163.com/album?id=137056021"
+    }
+  },
+  {
+    "name": "完美夏天",
+    "link": "https://music.163.com/song?id=1483522399",
+    "duration": "04:22",
+    "artists": [
+      { "name": "霓虹花园", "link": "https://music.163.com/artist?id=13155879" }
+    ],
+    "album": {
+      "name": "完美夏天",
+      "link": "https://music.163.com/album?id=96178955"
+    }
+  },
+  {
+    "name": "千里邀月",
+    "link": "https://music.163.com/song?id=1332491711",
+    "duration": "04:05",
+    "artists": [
+      { "name": "純白P", "link": "https://music.163.com/artist?id=12057017" },
+      { "name": "乐正绫", "link": "https://music.163.com/artist?id=1102240" }
+    ],
+    "album": {
+      "name": "千里邀月",
+      "link": "https://music.163.com/album?id=74804522"
+    }
+  },
+  {
+    "name": "Twilight Rush（暮色狂奔）",
+    "link": "https://music.163.com/song?id=1373002687",
+    "duration": "06:19",
+    "artists": [
+      { "name": "结冰水", "link": "https://music.163.com/artist?id=31661567" }
+    ],
+    "album": {
+      "name": "Twilight Rush(暮色狂奔）",
+      "link": "https://music.163.com/album?id=79890676"
+    }
+  },
+  {
+    "name": "绝体绝命",
+    "link": "https://music.163.com/song?id=550059604",
+    "duration": "03:33",
+    "artists": [
+      {
+        "name": "阿良良木健",
+        "link": "https://music.163.com/artist?id=964311"
+      },
+      { "name": "洛天依", "link": "https://music.163.com/artist?id=906118" }
+    ],
+    "album": {
+      "name": "洛天依作品2号：V",
+      "link": "https://music.163.com/album?id=37964923"
+    }
+  },
+  {
+    "name": "Crime (Radio Edit)",
+    "link": "https://music.163.com/song?id=34468838",
+    "duration": "04:07",
+    "artists": [
+      {
+        "name": "Project 46",
+        "link": "https://music.163.com/artist?id=776674"
+      },
+      { "name": "Avicii", "link": "https://music.163.com/artist?id=45236" },
+      {
+        "name": "You & Daphne",
+        "link": "https://music.163.com/artist?id=29866128"
+      }
+    ],
+    "album": {
+      "name": "Crime ",
+      "link": "https://music.163.com/album?id=3286121"
+    }
+  },
+  {
+    "name": "客官不可以",
+    "link": "https://music.163.com/song?id=174963",
+    "duration": "03:50",
+    "artists": [
+      { "name": "徐良", "link": "https://music.163.com/artist?id=5929" },
+      { "name": "小凌", "link": "https://music.163.com/artist?id=29393616" }
+    ],
+    "album": { "name": "犯贱", "link": "https://music.163.com/album?id=17598" }
+  },
+  {
+    "name": "I WANNA BE YOUR SLAVE",
+    "link": "https://music.163.com/song?id=1824599691",
+    "duration": "02:53",
+    "artists": [
+      { "name": "Måneskin", "link": "https://music.163.com/artist?id=12894044" }
+    ],
+    "album": {
+      "name": "Teatro d'ira - Vol. I",
+      "link": "https://music.163.com/album?id=123825753"
+    }
+  }
+]
