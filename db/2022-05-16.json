@@ -1,0 +1,403 @@
+[
+  {
+    "name": "我无所谓",
+    "link": "https://music.163.com/song?id=1412645078",
+    "duration": "03:52",
+    "artists": [
+      { "name": "原子邦妮", "link": "https://music.163.com/artist?id=1193482" }
+    ],
+    "album": {
+      "name": "在名为未来的波浪里",
+      "link": "https://music.163.com/album?id=84570434"
+    }
+  },
+  {
+    "name": "极光",
+    "link": "https://music.163.com/song?id=1401064029",
+    "duration": "04:00",
+    "artists": [
+      { "name": "于果", "link": "https://music.163.com/artist?id=12262303" }
+    ],
+    "album": {
+      "name": "极光",
+      "link": "https://music.163.com/album?id=82987681"
+    }
+  },
+  {
+    "name": "那时窗外开满花",
+    "link": "https://music.163.com/song?id=509704150",
+    "duration": "03:35",
+    "artists": [
+      { "name": "王金金", "link": "https://music.163.com/artist?id=12258611" }
+    ],
+    "album": {
+      "name": "那时窗外开满花",
+      "link": "https://music.163.com/album?id=36412488"
+    }
+  },
+  {
+    "name": "只为遇见你",
+    "link": "https://music.163.com/song?id=1380263700",
+    "duration": "03:12",
+    "artists": [
+      {
+        "name": "Peter-潘",
+        "link": "https://music.163.com/artist?id=12292467"
+      },
+      { "name": "谢雨纯", "link": "https://music.163.com/artist?id=12605484" }
+    ],
+    "album": {
+      "name": "Just to Meet You",
+      "link": "https://music.163.com/album?id=80562407"
+    }
+  },
+  {
+    "name": "innocence",
+    "link": "https://music.163.com/song?id=1947018385",
+    "duration": "02:06",
+    "artists": [
+      { "name": "Wisp X", "link": "https://music.163.com/artist?id=1046123" }
+    ],
+    "album": {
+      "name": "aer",
+      "link": "https://music.163.com/album?id=144906873"
+    }
+  },
+  {
+    "name": "失重 / Roche Limit",
+    "link": "https://music.163.com/song?id=1466915209",
+    "duration": "03:50",
+    "artists": [
+      {
+        "name": "Eric Chen",
+        "link": "https://music.163.com/artist?id=12605661"
+      },
+      { "name": "折", "link": "https://music.163.com/artist?id=36148045" }
+    ],
+    "album": {
+      "name": "失重 / Roche Limit",
+      "link": "https://music.163.com/album?id=93200742"
+    }
+  },
+  {
+    "name": "Stepping Stone（翻自 Avicii）",
+    "link": "https://music.163.com/song?id=1814219249",
+    "duration": "03:35",
+    "artists": [
+      { "name": "Y-OUN-GT", "link": "https://music.163.com/artist?id=36083958" }
+    ],
+    "album": {
+      "name": "Avicii.Crocodile Tears（正式）",
+      "link": "https://music.163.com/album?id=96599427"
+    }
+  },
+  {
+    "name": "生还",
+    "link": "https://music.163.com/song?id=1425996983",
+    "duration": "03:39",
+    "artists": [
+      { "name": "MiraclE", "link": "https://music.163.com/artist?id=12953150" },
+      {
+        "name": "TalanTara",
+        "link": "https://music.163.com/artist?id=32744691"
+      },
+      { "name": "啜欣宇", "link": "https://music.163.com/artist?id=30436228" }
+    ],
+    "album": {
+      "name": "万物生",
+      "link": "https://music.163.com/album?id=85987813"
+    }
+  },
+  {
+    "name": "Go Away (Original Mix)",
+    "link": "https://music.163.com/song?id=1365233705",
+    "duration": "02:45",
+    "artists": [
+      { "name": "零6", "link": "https://music.163.com/artist?id=12571830" },
+      { "name": "橙子歆", "link": "https://music.163.com/artist?id=15196650" }
+    ],
+    "album": {
+      "name": "Go Away (Original Mix)",
+      "link": "https://music.163.com/album?id=79107338"
+    }
+  },
+  {
+    "name": "Clémence",
+    "link": "https://music.163.com/song?id=467166635",
+    "duration": "04:25",
+    "artists": [
+      { "name": "Umber", "link": "https://music.163.com/artist?id=104608" }
+    ],
+    "album": {
+      "name": "Split",
+      "link": "https://music.163.com/album?id=35293654"
+    }
+  },
+  {
+    "name": "沙发上的白日梦",
+    "link": "https://music.163.com/song?id=1406062963",
+    "duration": "04:02",
+    "artists": [
+      {
+        "name": "SoulFa 灵魂沙发",
+        "link": "https://music.163.com/artist?id=30110421"
+      }
+    ],
+    "album": {
+      "name": "SoulFa",
+      "link": "https://music.163.com/album?id=83679409"
+    }
+  },
+  {
+    "name": "人生浪费指南",
+    "link": "https://music.163.com/song?id=497572729",
+    "duration": "05:53",
+    "artists": [
+      {
+        "name": "夏日入侵企画",
+        "link": "https://music.163.com/artist?id=12383009"
+      }
+    ],
+    "album": { "name": "砳", "link": "https://music.163.com/album?id=84153693" }
+  },
+  {
+    "name": "十七岁少女金色心",
+    "link": "https://music.163.com/song?id=1404715631",
+    "duration": "05:29",
+    "artists": [
+      {
+        "name": "脆莓(Brickleberry)",
+        "link": "https://music.163.com/artist?id=12093668"
+      }
+    ],
+    "album": {
+      "name": "脆莓",
+      "link": "https://music.163.com/album?id=95739446"
+    }
+  },
+  {
+    "name": "巫堵",
+    "link": "https://music.163.com/song?id=483378330",
+    "duration": "03:30",
+    "artists": [
+      {
+        "name": "deca joins",
+        "link": "https://music.163.com/artist?id=12463331"
+      }
+    ],
+    "album": {
+      "name": "浴室",
+      "link": "https://music.163.com/album?id=35590687"
+    }
+  },
+  {
+    "name": "艾蜜莉",
+    "link": "https://music.163.com/song?id=1429237296",
+    "duration": "05:13",
+    "artists": [
+      { "name": "回春丹", "link": "https://music.163.com/artist?id=27730224" }
+    ],
+    "album": {
+      "name": "艾蜜莉",
+      "link": "https://music.163.com/album?id=86320065"
+    }
+  },
+  {
+    "name": "迷恋",
+    "link": "https://music.163.com/song?id=28819359",
+    "duration": "06:31",
+    "artists": [
+      { "name": "梅卡德尔", "link": "https://music.163.com/artist?id=851364" }
+    ],
+    "album": {
+      "name": "梅卡德尔",
+      "link": "https://music.163.com/album?id=2902072"
+    }
+  },
+  {
+    "name": "搁浅的人",
+    "link": "https://music.163.com/song?id=447925725",
+    "duration": "04:31",
+    "artists": [
+      {
+        "name": "康士坦的变化球",
+        "link": "https://music.163.com/artist?id=12232080"
+      }
+    ],
+    "album": {
+      "name": "搁浅的人",
+      "link": "https://music.163.com/album?id=35068186"
+    }
+  },
+  {
+    "name": "风语夜",
+    "link": "https://music.163.com/song?id=1437340896",
+    "duration": "03:30",
+    "artists": [
+      { "name": "梅十一", "link": "https://music.163.com/artist?id=34093479" }
+    ],
+    "album": {
+      "name": "风语夜",
+      "link": "https://music.163.com/album?id=87553744"
+    }
+  },
+  {
+    "name": "Bet On Me",
+    "link": "https://music.163.com/song?id=1923927650",
+    "duration": "02:52",
+    "artists": [
+      {
+        "name": "Walk off the Earth",
+        "link": "https://music.163.com/artist?id=105493"
+      },
+      { "name": "D Smoke", "link": "https://music.163.com/artist?id=33516005" }
+    ],
+    "album": {
+      "name": "Bet On Me",
+      "link": "https://music.163.com/album?id=141051895"
+    }
+  },
+  {
+    "name": "Counting Stars",
+    "link": "https://music.163.com/song?id=26060065",
+    "duration": "04:17",
+    "artists": [
+      { "name": "OneRepublic", "link": "https://music.163.com/artist?id=98105" }
+    ],
+    "album": {
+      "name": "Native (Deluxe Version)",
+      "link": "https://music.163.com/album?id=2302008"
+    }
+  },
+  {
+    "name": "50 Feet",
+    "link": "https://music.163.com/song?id=526116053",
+    "duration": "03:05",
+    "artists": [
+      { "name": "SoMo", "link": "https://music.163.com/artist?id=892040" }
+    ],
+    "album": {
+      "name": "50 Feet",
+      "link": "https://music.163.com/album?id=37026331"
+    }
+  },
+  {
+    "name": "Fatal Love",
+    "link": "https://music.163.com/song?id=32431987",
+    "duration": "03:10",
+    "artists": [
+      { "name": "Jori King", "link": "https://music.163.com/artist?id=1047246" }
+    ],
+    "album": {
+      "name": "Fatal Love",
+      "link": "https://music.163.com/album?id=142563165"
+    }
+  },
+  {
+    "name": "Dancing With Your Ghost",
+    "link": "https://music.163.com/song?id=1374329431",
+    "duration": "03:17",
+    "artists": [
+      {
+        "name": "Sasha Alex Sloan",
+        "link": "https://music.163.com/artist?id=12646102"
+      }
+    ],
+    "album": {
+      "name": "Dancing With Your Ghost",
+      "link": "https://music.163.com/album?id=80029518"
+    }
+  },
+  {
+    "name": "Five Hundred Miles - (500英里)",
+    "link": "https://music.163.com/song?id=27759600",
+    "duration": "03:26",
+    "artists": [
+      {
+        "name": "Justin Timberlake",
+        "link": "https://music.163.com/artist?id=35331"
+      },
+      {
+        "name": "Carey Mulligan",
+        "link": "https://music.163.com/artist?id=27947531"
+      },
+      {
+        "name": "Stark Sands",
+        "link": "https://music.163.com/artist?id=27947532"
+      }
+    ],
+    "album": {
+      "name": "Inside Llewyn Davis: Original Soundtrack Recording",
+      "link": "https://music.163.com/album?id=2672349"
+    }
+  },
+  {
+    "name": "We Don't Talk Anymore",
+    "link": "https://music.163.com/song?id=401249910",
+    "duration": "03:37",
+    "artists": [
+      {
+        "name": "Charlie Puth",
+        "link": "https://music.163.com/artist?id=90331"
+      },
+      {
+        "name": "Selena Gomez",
+        "link": "https://music.163.com/artist?id=140196"
+      }
+    ],
+    "album": {
+      "name": "Nine Track Mind",
+      "link": "https://music.163.com/album?id=3270972"
+    }
+  },
+  {
+    "name": "Señorita",
+    "link": "https://music.163.com/song?id=1373168742",
+    "duration": "03:10",
+    "artists": [
+      {
+        "name": "Shawn Mendes",
+        "link": "https://music.163.com/artist?id=956238"
+      },
+      {
+        "name": "Camila Cabello",
+        "link": "https://music.163.com/artist?id=12136039"
+      }
+    ],
+    "album": {
+      "name": "Señorita",
+      "link": "https://music.163.com/album?id=79920102"
+    }
+  },
+  {
+    "name": "I Like Me Better",
+    "link": "https://music.163.com/song?id=479223413",
+    "duration": "03:17",
+    "artists": [
+      { "name": "Lauv", "link": "https://music.163.com/artist?id=1057226" }
+    ],
+    "album": {
+      "name": "I Like Me Better",
+      "link": "https://music.163.com/album?id=35536102"
+    }
+  },
+  {
+    "name": "Wolves",
+    "link": "https://music.163.com/song?id=515269424",
+    "duration": "03:17",
+    "artists": [
+      {
+        "name": "Selena Gomez",
+        "link": "https://music.163.com/artist?id=140196"
+      },
+      {
+        "name": "Marshmello",
+        "link": "https://music.163.com/artist?id=1060019"
+      }
+    ],
+    "album": {
+      "name": "Wolves",
+      "link": "https://music.163.com/album?id=36672203"
+    }
+  }
+]
