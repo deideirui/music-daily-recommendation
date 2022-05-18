@@ -1,0 +1,489 @@
+[
+  {
+    "name": "Oceanic",
+    "link": "https://music.163.com/song?id=1843643898",
+    "duration": "03:45",
+    "artists": [
+      { "name": "Andreas B.", "link": "https://music.163.com/artist?id=299713" }
+    ],
+    "album": {
+      "name": "Oceanic",
+      "link": "https://music.163.com/album?id=127135710"
+    }
+  },
+  {
+    "name": "Dreaming",
+    "link": "https://music.163.com/song?id=30780811",
+    "duration": "04:19",
+    "artists": [
+      { "name": "Kozoro", "link": "https://music.163.com/artist?id=1050567" },
+      { "name": "Evence", "link": "https://music.163.com/artist?id=1061032" }
+    ],
+    "album": {
+      "name": "Dreaming",
+      "link": "https://music.163.com/album?id=3103332"
+    }
+  },
+  {
+    "name": "Kids",
+    "link": "https://music.163.com/song?id=1936762515",
+    "duration": "02:45",
+    "artists": [
+      { "name": "Deepend", "link": "https://music.163.com/artist?id=342311" },
+      { "name": "BUNT.", "link": "https://music.163.com/artist?id=744145" },
+      {
+        "name": "Leo Stannard",
+        "link": "https://music.163.com/artist?id=1055019"
+      }
+    ],
+    "album": {
+      "name": "Kids",
+      "link": "https://music.163.com/album?id=143269427"
+    }
+  },
+  {
+    "name": "Old Guitar (Folktales)",
+    "link": "https://music.163.com/song?id=1936501056",
+    "duration": "03:11",
+    "artists": [
+      { "name": "BUNT.", "link": "https://music.163.com/artist?id=744145" },
+      {
+        "name": "Josiah And The Bonnevilles",
+        "link": "https://music.163.com/artist?id=31289970"
+      }
+    ],
+    "album": {
+      "name": "Old Guitar (Folktales)",
+      "link": "https://music.163.com/album?id=143237184"
+    }
+  },
+  {
+    "name": "Stasis",
+    "link": "https://music.163.com/song?id=1947018420",
+    "duration": "03:25",
+    "artists": [
+      { "name": "Wisp X", "link": "https://music.163.com/artist?id=1046123" }
+    ],
+    "album": {
+      "name": "aer",
+      "link": "https://music.163.com/album?id=144906873"
+    }
+  },
+  {
+    "name": "讃歌~种山が原へ（Carwz Bootleg）",
+    "link": "https://music.163.com/song?id=1461366657",
+    "duration": "03:36",
+    "artists": [
+      { "name": "Mothman", "link": "https://music.163.com/artist?id=31089364" }
+    ],
+    "album": {
+      "name": "姬神",
+      "link": "https://music.163.com/album?id=92125621"
+    }
+  },
+  {
+    "name": "Like I Love You (Money G Radio Edit)",
+    "link": "https://music.163.com/song?id=1923560",
+    "duration": "03:42",
+    "artists": [
+      { "name": "R.I.O.", "link": "https://music.163.com/artist?id=42495" }
+    ],
+    "album": {
+      "name": "Turn This Club Around",
+      "link": "https://music.163.com/album?id=193984"
+    }
+  },
+  {
+    "name": "Happy Robot",
+    "link": "https://music.163.com/song?id=1440515553",
+    "duration": "03:10",
+    "artists": [
+      { "name": "Vexento", "link": "https://music.163.com/artist?id=12037010" }
+    ],
+    "album": {
+      "name": "Happy Robot",
+      "link": "https://music.163.com/album?id=87997771"
+    }
+  },
+  {
+    "name": "Polaris",
+    "link": "https://music.163.com/song?id=477936432",
+    "duration": "03:05",
+    "artists": [
+      {
+        "name": "Jordan Critz",
+        "link": "https://music.163.com/artist?id=147520"
+      }
+    ],
+    "album": {
+      "name": "Parcel & Sky",
+      "link": "https://music.163.com/album?id=35500119"
+    }
+  },
+  {
+    "name": "Down The Line",
+    "link": "https://music.163.com/song?id=1456652121",
+    "duration": "02:22",
+    "artists": [
+      {
+        "name": "Mike Perry",
+        "link": "https://music.163.com/artist?id=195021"
+      },
+      {
+        "name": "Ten Times",
+        "link": "https://music.163.com/artist?id=31930131"
+      }
+    ],
+    "album": {
+      "name": "Down The Line",
+      "link": "https://music.163.com/album?id=91213980"
+    }
+  },
+  {
+    "name": "Like It's the First Time",
+    "link": "https://music.163.com/song?id=473940857",
+    "duration": "02:52",
+    "artists": [
+      {
+        "name": "Josh Leake",
+        "link": "https://music.163.com/artist?id=12387197"
+      }
+    ],
+    "album": {
+      "name": "Benjamin",
+      "link": "https://music.163.com/album?id=35425190"
+    }
+  },
+  {
+    "name": "I Can't Sleep Anymore",
+    "link": "https://music.163.com/song?id=485347407",
+    "duration": "03:34",
+    "artists": [
+      { "name": "AK", "link": "https://music.163.com/artist?id=1192509" }
+    ],
+    "album": {
+      "name": "I Can't Sleep Anymore",
+      "link": "https://music.163.com/album?id=35645419"
+    }
+  },
+  {
+    "name": "Upwards",
+    "link": "https://music.163.com/song?id=1343278877",
+    "duration": "03:07",
+    "artists": [
+      { "name": "Phily", "link": "https://music.163.com/artist?id=12496806" }
+    ],
+    "album": {
+      "name": "Upwards",
+      "link": "https://music.163.com/album?id=75305233"
+    }
+  },
+  {
+    "name": "Forever Away",
+    "link": "https://music.163.com/song?id=1346903862",
+    "duration": "05:02",
+    "artists": [
+      {
+        "name": "Little End",
+        "link": "https://music.163.com/artist?id=12611210"
+      }
+    ],
+    "album": {
+      "name": "Forever Away",
+      "link": "https://music.163.com/album?id=75613654"
+    }
+  },
+  {
+    "name": "Atlantis",
+    "link": "https://music.163.com/song?id=26612938",
+    "duration": "04:02",
+    "artists": [
+      {
+        "name": "Postiljonen",
+        "link": "https://music.163.com/artist?id=725356"
+      }
+    ],
+    "album": {
+      "name": "Skyer",
+      "link": "https://music.163.com/album?id=2535635"
+    }
+  },
+  {
+    "name": "Serendipity（Original mix）",
+    "link": "https://music.163.com/song?id=1906503326",
+    "duration": "05:15",
+    "artists": [
+      {
+        "name": "TurtleDove斑鸠",
+        "link": "https://music.163.com/artist?id=12283168"
+      }
+    ],
+    "album": {
+      "name": "Serendipity（Original mix）",
+      "link": "https://music.163.com/album?id=129366675"
+    }
+  },
+  {
+    "name": "爱恋之夏",
+    "link": "https://music.163.com/song?id=1385849454",
+    "duration": "02:48",
+    "artists": [
+      {
+        "name": "Psyke (赛克）",
+        "link": "https://music.163.com/artist?id=27863138"
+      },
+      { "name": "鹤子Mia", "link": "https://music.163.com/artist?id=168011" }
+    ],
+    "album": {
+      "name": "爱恋之夏",
+      "link": "https://music.163.com/album?id=81057032"
+    }
+  },
+  {
+    "name": "一瞬间的温柔",
+    "link": "https://music.163.com/song?id=1436212381",
+    "duration": "03:15",
+    "artists": [
+      { "name": "陆怡雯", "link": "https://music.163.com/artist?id=34283831" }
+    ],
+    "album": {
+      "name": "一瞬间的温柔",
+      "link": "https://music.163.com/album?id=87209491"
+    }
+  },
+  {
+    "name": "引燃",
+    "link": "https://music.163.com/song?id=1444518446",
+    "duration": "03:47",
+    "artists": [
+      {
+        "name": "Tiya Manson",
+        "link": "https://music.163.com/artist?id=12025620"
+      },
+      { "name": "Sobing", "link": "https://music.163.com/artist?id=14585523" },
+      { "name": "M R U O", "link": "https://music.163.com/artist?id=1081269" },
+      { "name": "RED8红八", "link": "https://music.163.com/artist?id=29500218" }
+    ],
+    "album": {
+      "name": "引燃",
+      "link": "https://music.163.com/album?id=88737661"
+    }
+  },
+  {
+    "name": "Lost Control (Original Mix)",
+    "link": "https://music.163.com/song?id=417859039",
+    "duration": "04:29",
+    "artists": [
+      {
+        "name": "Tyron Hapi",
+        "link": "https://music.163.com/artist?id=1191114"
+      },
+      { "name": "Bianca", "link": "https://music.163.com/artist?id=50563" }
+    ],
+    "album": {
+      "name": "Lost Control (feat. Bianca)",
+      "link": "https://music.163.com/album?id=34738443"
+    }
+  },
+  {
+    "name": "Beginners",
+    "link": "https://music.163.com/song?id=1356220549",
+    "duration": "02:35",
+    "artists": [
+      {
+        "name": "Sleep Music Guys from I'm In Records",
+        "link": "https://music.163.com/artist?id=29821305"
+      }
+    ],
+    "album": {
+      "name": "Sleep, Vol. 1",
+      "link": "https://music.163.com/album?id=78296938"
+    }
+  },
+  {
+    "name": "Riding the Light",
+    "link": "https://music.163.com/song?id=36587572",
+    "duration": "03:15",
+    "artists": [
+      {
+        "name": "Epic Soul Factory",
+        "link": "https://music.163.com/artist?id=92325"
+      },
+      {
+        "name": "Cesc Vilà",
+        "link": "https://music.163.com/artist?id=13157099"
+      },
+      {
+        "name": "Fran Soto",
+        "link": "https://music.163.com/artist?id=13157100"
+      }
+    ],
+    "album": {
+      "name": "Sigma",
+      "link": "https://music.163.com/album?id=3394605"
+    }
+  },
+  {
+    "name": "Homecoming",
+    "link": "https://music.163.com/song?id=2061738",
+    "duration": "02:56",
+    "artists": [
+      {
+        "name": "Thomas Bergersen",
+        "link": "https://music.163.com/artist?id=45336"
+      }
+    ],
+    "album": {
+      "name": "Illusions",
+      "link": "https://music.163.com/album?id=207765"
+    }
+  },
+  {
+    "name": "永夏晴海",
+    "link": "https://music.163.com/song?id=1869966570",
+    "duration": "03:32",
+    "artists": [
+      { "name": "闫东炜", "link": "https://music.163.com/artist?id=4621" },
+      { "name": "散乐文化", "link": "https://music.163.com/artist?id=48401131" }
+    ],
+    "album": {
+      "name": "永夏晴海",
+      "link": "https://music.163.com/album?id=131831993"
+    }
+  },
+  {
+    "name": "Sorry",
+    "link": "https://music.163.com/song?id=1458482125",
+    "duration": "03:17",
+    "artists": [
+      { "name": "Jurrivh", "link": "https://music.163.com/artist?id=12090068" }
+    ],
+    "album": {
+      "name": "Sorry",
+      "link": "https://music.163.com/album?id=91588287"
+    }
+  },
+  {
+    "name": "If Elephants Could Fly",
+    "link": "https://music.163.com/song?id=32857560",
+    "duration": "04:58",
+    "artists": [
+      {
+        "name": "Marcus Warner",
+        "link": "https://music.163.com/artist?id=1046308"
+      }
+    ],
+    "album": {
+      "name": "Liberation",
+      "link": "https://music.163.com/album?id=3171557"
+    }
+  },
+  {
+    "name": "Rippling and Rising",
+    "link": "https://music.163.com/song?id=534625392",
+    "duration": "02:36",
+    "artists": [
+      {
+        "name": "Jamie Salisbury",
+        "link": "https://music.163.com/artist?id=1120097"
+      }
+    ],
+    "album": {
+      "name": "Cinematic Pop Rock: Epic, Exciting & Energetic",
+      "link": "https://music.163.com/album?id=37463618"
+    }
+  },
+  {
+    "name": "Sixthema - Por Una Cabeza (VIP Mix)",
+    "link": "https://music.163.com/song?id=1906309157",
+    "duration": "02:50",
+    "artists": [
+      { "name": "SIXTHEMA", "link": "https://music.163.com/artist?id=33907815" }
+    ],
+    "album": {
+      "name": "Por Una Cabeza",
+      "link": "https://music.163.com/album?id=137971435"
+    }
+  },
+  {
+    "name": "Heartbeat Song",
+    "link": "https://music.163.com/song?id=30039186",
+    "duration": "03:18",
+    "artists": [
+      {
+        "name": "Kelly Clarkson",
+        "link": "https://music.163.com/artist?id=62885"
+      }
+    ],
+    "album": {
+      "name": "Heartbeat Song",
+      "link": "https://music.163.com/album?id=3090704"
+    }
+  },
+  {
+    "name": "Brighter",
+    "link": "https://music.163.com/song?id=30706084",
+    "duration": "03:34",
+    "artists": [
+      {
+        "name": "Against the Current",
+        "link": "https://music.163.com/artist?id=783418"
+      }
+    ],
+    "album": {
+      "name": "Gravity",
+      "link": "https://music.163.com/album?id=3104189"
+    }
+  },
+  {
+    "name": "On My Head",
+    "link": "https://music.163.com/song?id=1305174455",
+    "duration": "02:50",
+    "artists": [
+      { "name": "Perlo", "link": "https://music.163.com/artist?id=28387443" }
+    ],
+    "album": {
+      "name": "Day by Day",
+      "link": "https://music.163.com/album?id=72665791"
+    }
+  },
+  {
+    "name": "GULUGULU WATER",
+    "link": "https://music.163.com/song?id=544371486",
+    "duration": "03:06",
+    "artists": [
+      {
+        "name": "Aisin Gioro_康熙",
+        "link": "https://music.163.com/artist?id=12875936"
+      }
+    ],
+    "album": {
+      "name": "GULUGULU WATER",
+      "link": "https://music.163.com/album?id=37875340"
+    }
+  },
+  {
+    "name": "Will Not Back Down",
+    "link": "https://music.163.com/song?id=1007548",
+    "duration": "04:04",
+    "artists": [
+      { "name": "Alex Band", "link": "https://music.163.com/artist?id=27703" }
+    ],
+    "album": {
+      "name": "We've All Been There",
+      "link": "https://music.163.com/album?id=105304"
+    }
+  },
+  {
+    "name": "Cornfield Chase - (原野追逐)",
+    "link": "https://music.163.com/song?id=29734857",
+    "duration": "02:06",
+    "artists": [
+      { "name": "Hans Zimmer", "link": "https://music.163.com/artist?id=34517" }
+    ],
+    "album": {
+      "name": "Interstellar (Original Motion Picture Soundtrack) [Expanded Edition]",
+      "link": "https://music.163.com/album?id=3056517"
+    }
+  }
+]
