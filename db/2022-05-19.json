@@ -1,0 +1,481 @@
+[
+  {
+    "name": "Equality 7-2521",
+    "link": "https://music.163.com/song?id=2116504",
+    "duration": "03:39",
+    "artists": [
+      { "name": "7AND5", "link": "https://music.163.com/artist?id=46465" }
+    ],
+    "album": {
+      "name": "Oceans",
+      "link": "https://music.163.com/album?id=213198"
+    }
+  },
+  {
+    "name": "Try Again Tomorrow - (永不言败)",
+    "link": "https://music.163.com/song?id=512376218",
+    "duration": "03:08",
+    "artists": [
+      {
+        "name": "Audiomachine",
+        "link": "https://music.163.com/artist?id=87066"
+      }
+    ],
+    "album": {
+      "name": "Life",
+      "link": "https://music.163.com/album?id=36528056"
+    }
+  },
+  {
+    "name": "Life Of Sin Pt. 4",
+    "link": "https://music.163.com/song?id=1373259836",
+    "duration": "04:35",
+    "artists": [
+      { "name": "MitiS", "link": "https://music.163.com/artist?id=40245" }
+    ],
+    "album": {
+      "name": "Life Of Sin Series (2019)",
+      "link": "https://music.163.com/album?id=79931476"
+    }
+  },
+  {
+    "name": "Velvet",
+    "link": "https://music.163.com/song?id=28361205",
+    "duration": "07:25",
+    "artists": [
+      {
+        "name": "Blood Groove & Kikis",
+        "link": "https://music.163.com/artist?id=311599"
+      }
+    ],
+    "album": {
+      "name": "Wonderland",
+      "link": "https://music.163.com/album?id=2779563"
+    }
+  },
+  {
+    "name": "We Were Liars (feat. Joel Sundkvist)",
+    "link": "https://music.163.com/song?id=1946198352",
+    "duration": "03:34",
+    "artists": [
+      { "name": "Janji", "link": "https://music.163.com/artist?id=1032229" },
+      {
+        "name": "Joel Sundkvist",
+        "link": "https://music.163.com/artist?id=49114391"
+      }
+    ],
+    "album": {
+      "name": "We Were Liars (feat. Joel Sundkvist)",
+      "link": "https://music.163.com/album?id=144734562"
+    }
+  },
+  {
+    "name": "After All This Time",
+    "link": "https://music.163.com/song?id=29490361",
+    "duration": "08:40",
+    "artists": [
+      {
+        "name": "Roald Velden",
+        "link": "https://music.163.com/artist?id=178498"
+      },
+      { "name": "Alex H", "link": "https://music.163.com/artist?id=370950" }
+    ],
+    "album": {
+      "name": "Last Flight Home",
+      "link": "https://music.163.com/album?id=3033342"
+    }
+  },
+  {
+    "name": "Kamin",
+    "link": "https://music.163.com/song?id=1436099140",
+    "duration": "03:07",
+    "artists": [
+      { "name": "EMIN", "link": "https://music.163.com/artist?id=33199" },
+      { "name": "JONY", "link": "https://music.163.com/artist?id=13128118" }
+    ],
+    "album": {
+      "name": "Kamin",
+      "link": "https://music.163.com/album?id=87185595"
+    }
+  },
+  {
+    "name": "Lover`s Road (Extended Mix)",
+    "link": "https://music.163.com/song?id=1844703497",
+    "duration": "07:11",
+    "artists": [
+      { "name": "Melchi", "link": "https://music.163.com/artist?id=12058010" }
+    ],
+    "album": {
+      "name": "Sunny Morning With You/Lover`s Road",
+      "link": "https://music.163.com/album?id=127356013"
+    }
+  },
+  {
+    "name": "Begin Again",
+    "link": "https://music.163.com/song?id=1879815294",
+    "duration": "02:41",
+    "artists": [
+      {
+        "name": "Ben Böhmer",
+        "link": "https://music.163.com/artist?id=13080362"
+      }
+    ],
+    "album": {
+      "name": "Begin Again",
+      "link": "https://music.163.com/album?id=133517586"
+    }
+  },
+  {
+    "name": "Hands (Diviners Remix)",
+    "link": "https://music.163.com/song?id=445153325",
+    "duration": "03:19",
+    "artists": [
+      {
+        "name": "Gareth Emery",
+        "link": "https://music.163.com/artist?id=34318"
+      },
+      {
+        "name": "London Thor",
+        "link": "https://music.163.com/artist?id=1102061"
+      },
+      { "name": "Diviners", "link": "https://music.163.com/artist?id=1192136" },
+      { "name": "Alastor", "link": "https://music.163.com/artist?id=85992" }
+    ],
+    "album": {
+      "name": "Electric For Life 2016",
+      "link": "https://music.163.com/album?id=35022832"
+    }
+  },
+  {
+    "name": "Run Away with Me",
+    "link": "https://music.163.com/song?id=17691338",
+    "duration": "05:03",
+    "artists": [
+      { "name": "Omar Akram", "link": "https://music.163.com/artist?id=41002" }
+    ],
+    "album": {
+      "name": "Secret Journey",
+      "link": "https://music.163.com/album?id=1627580"
+    }
+  },
+  {
+    "name": "Never Enough (The Midnight Remix) [feat. the Midnight]",
+    "link": "https://music.163.com/song?id=1436173652",
+    "duration": "04:52",
+    "artists": [
+      {
+        "name": "Scavenger Hunt",
+        "link": "https://music.163.com/artist?id=905051"
+      },
+      {
+        "name": "The Midnight",
+        "link": "https://music.163.com/artist?id=12023492"
+      }
+    ],
+    "album": {
+      "name": "Shapes and Outlines (Remixes)",
+      "link": "https://music.163.com/album?id=87202714"
+    }
+  },
+  {
+    "name": "Reflections",
+    "link": "https://music.163.com/song?id=434659283",
+    "duration": "05:43",
+    "artists": [
+      {
+        "name": "Artem Yegorov",
+        "link": "https://music.163.com/artist?id=12131492"
+      }
+    ],
+    "album": {
+      "name": "Right Step",
+      "link": "https://music.163.com/album?id=34898901"
+    }
+  },
+  {
+    "name": "Atlas",
+    "link": "https://music.163.com/song?id=36094113",
+    "duration": "02:53",
+    "artists": [
+      {
+        "name": "James Everingham",
+        "link": "https://music.163.com/artist?id=1178307"
+      }
+    ],
+    "album": {
+      "name": "Atlas",
+      "link": "https://music.163.com/album?id=3377567"
+    }
+  },
+  {
+    "name": "The One 2",
+    "link": "https://music.163.com/song?id=1869687871",
+    "duration": "03:36",
+    "artists": [
+      {
+        "name": "森林屿诗",
+        "link": "https://music.163.com/artist?id=13698665"
+      },
+      { "name": "Zeyué", "link": "https://music.163.com/artist?id=35512419" },
+      { "name": "L3V3LS", "link": "https://music.163.com/artist?id=12007340" }
+    ],
+    "album": {
+      "name": "The One (feat. Zeyué)",
+      "link": "https://music.163.com/album?id=120270456"
+    }
+  },
+  {
+    "name": "Do You Think About Me",
+    "link": "https://music.163.com/song?id=475597835",
+    "duration": "03:12",
+    "artists": [
+      {
+        "name": "Benjamin Ingrosso",
+        "link": "https://music.163.com/artist?id=1180073"
+      }
+    ],
+    "album": {
+      "name": "Do You Think About Me",
+      "link": "https://music.163.com/album?id=35371975"
+    }
+  },
+  {
+    "name": "Autumn",
+    "link": "https://music.163.com/song?id=535266611",
+    "duration": "03:46",
+    "artists": [
+      {
+        "name": "CASE（呆萌K）",
+        "link": "https://music.163.com/artist?id=12078075"
+      }
+    ],
+    "album": {
+      "name": "四季",
+      "link": "https://music.163.com/album?id=37487140"
+    }
+  },
+  {
+    "name": "Moments",
+    "link": "https://music.163.com/song?id=1438434064",
+    "duration": "03:42",
+    "artists": [
+      { "name": "Kazukii", "link": "https://music.163.com/artist?id=12054389" }
+    ],
+    "album": {
+      "name": "Moments",
+      "link": "https://music.163.com/album?id=87731386"
+    }
+  },
+  {
+    "name": "Outing",
+    "link": "https://music.163.com/song?id=1367618726",
+    "duration": "02:50",
+    "artists": [
+      { "name": "郑棋元", "link": "https://music.163.com/artist?id=30548630" }
+    ],
+    "album": {
+      "name": "CHINA",
+      "link": "https://music.163.com/album?id=75039176"
+    }
+  },
+  {
+    "name": "深蓝",
+    "link": "https://music.163.com/song?id=1387939336",
+    "duration": "03:13",
+    "artists": [
+      {
+        "name": "白昼星BZX",
+        "link": "https://music.163.com/artist?id=1185031"
+      },
+      { "name": "王舒", "link": "https://music.163.com/artist?id=29230472" }
+    ],
+    "album": {
+      "name": "深蓝",
+      "link": "https://music.163.com/album?id=81258044"
+    }
+  },
+  {
+    "name": "Tokyo",
+    "link": "https://music.163.com/song?id=1470148844",
+    "duration": "05:04",
+    "artists": [
+      {
+        "name": "Timecop1983",
+        "link": "https://music.163.com/artist?id=954496"
+      }
+    ],
+    "album": {
+      "name": "Night Drive",
+      "link": "https://music.163.com/album?id=93794957"
+    }
+  },
+  {
+    "name": "Out of Time (feat. Pyxis & Jay Diggs)",
+    "link": "https://music.163.com/song?id=1380905152",
+    "duration": "04:55",
+    "artists": [
+      { "name": " Kalax ", "link": "https://music.163.com/artist?id=986263" }
+    ],
+    "album": {
+      "name": "III",
+      "link": "https://music.163.com/album?id=80658988"
+    }
+  },
+  {
+    "name": "无药可救",
+    "link": "https://music.163.com/song?id=1317494313",
+    "duration": "03:30",
+    "artists": [
+      { "name": "张杰", "link": "https://music.163.com/artist?id=6472" }
+    ],
+    "album": {
+      "name": "未·LIVE",
+      "link": "https://music.163.com/album?id=73876792"
+    }
+  },
+  {
+    "name": "Obvious (Alternate Version)",
+    "link": "https://music.163.com/song?id=1363276987",
+    "duration": "05:50",
+    "artists": [
+      { "name": "CHPTRS", "link": "https://music.163.com/artist?id=31973045" }
+    ],
+    "album": {
+      "name": "Chapter Three (Alternate Versions)",
+      "link": "https://music.163.com/album?id=78930492"
+    }
+  },
+  {
+    "name": "戒不掉",
+    "link": "https://music.163.com/song?id=573359962",
+    "duration": "04:03",
+    "artists": [
+      { "name": "KYS", "link": "https://music.163.com/artist?id=14017279" },
+      { "name": "欧阳耀莹", "link": "https://music.163.com/artist?id=13451731" }
+    ],
+    "album": {
+      "name": "戒不掉",
+      "link": "https://music.163.com/album?id=39689179"
+    }
+  },
+  {
+    "name": "Boomerang",
+    "link": "https://music.163.com/song?id=29450873",
+    "duration": "03:51",
+    "artists": [
+      {
+        "name": "Anthem Lights",
+        "link": "https://music.163.com/artist?id=86862"
+      }
+    ],
+    "album": {
+      "name": "Escape",
+      "link": "https://music.163.com/album?id=3021074"
+    }
+  },
+  {
+    "name": "夜行者们",
+    "link": "https://music.163.com/song?id=1340000618",
+    "duration": "03:57",
+    "artists": [
+      { "name": "闹闹丶", "link": "https://music.163.com/artist?id=12357233" },
+      { "name": "洛天依", "link": "https://music.163.com/artist?id=906118" }
+    ],
+    "album": {
+      "name": "夜行者们",
+      "link": "https://music.163.com/album?id=75185069"
+    }
+  },
+  {
+    "name": "返夏",
+    "link": "https://music.163.com/song?id=1306928368",
+    "duration": "03:33",
+    "artists": [
+      { "name": "COP", "link": "https://music.163.com/artist?id=12002071" }
+    ],
+    "album": {
+      "name": "返夏",
+      "link": "https://music.163.com/album?id=72782188"
+    }
+  },
+  {
+    "name": "City Lights (Throttle Remix)",
+    "link": "https://music.163.com/song?id=407450612",
+    "duration": "03:10",
+    "artists": [
+      { "name": "Avicii", "link": "https://music.163.com/artist?id=45236" },
+      { "name": "Throttle", "link": "https://music.163.com/artist?id=794398" },
+      { "name": "Noonie Bao", "link": "https://music.163.com/artist?id=70298" }
+    ],
+    "album": {
+      "name": "City Lights (Throttle Remix)",
+      "link": "https://music.163.com/album?id=34569362"
+    }
+  },
+  {
+    "name": "河流",
+    "link": "https://music.163.com/song?id=1437251162",
+    "duration": "04:00",
+    "artists": [
+      { "name": "蛙池", "link": "https://music.163.com/artist?id=32432697" }
+    ],
+    "album": {
+      "name": "河流 Demo",
+      "link": "https://music.163.com/album?id=87508146"
+    }
+  },
+  {
+    "name": "Smile",
+    "link": "https://music.163.com/song?id=32341765",
+    "duration": "03:03",
+    "artists": [
+      { "name": "Dami Im", "link": "https://music.163.com/artist?id=847171" }
+    ],
+    "album": {
+      "name": "Smile",
+      "link": "https://music.163.com/album?id=3159304"
+    }
+  },
+  {
+    "name": "夜走",
+    "link": "https://music.163.com/song?id=1393632138",
+    "duration": "03:07",
+    "artists": [
+      {
+        "name": "打倒三明治",
+        "link": "https://music.163.com/artist?id=33338212"
+      }
+    ],
+    "album": {
+      "name": "Roadkill",
+      "link": "https://music.163.com/album?id=81982777"
+    }
+  },
+  {
+    "name": "Take My Hand",
+    "link": "https://music.163.com/song?id=21609195",
+    "duration": "03:51",
+    "artists": [
+      { "name": "Simple Plan", "link": "https://music.163.com/artist?id=42937" }
+    ],
+    "album": {
+      "name": "Simple Plan (Napster Exclusive)",
+      "link": "https://music.163.com/album?id=1990761"
+    }
+  },
+  {
+    "name": "Testing",
+    "link": "https://music.163.com/song?id=1946051354",
+    "duration": "03:39",
+    "artists": [
+      {
+        "name": "The Chainsmokers",
+        "link": "https://music.163.com/artist?id=893484"
+      }
+    ],
+    "album": {
+      "name": "So Far So Good",
+      "link": "https://music.163.com/album?id=144704323"
+    }
+  }
+]
