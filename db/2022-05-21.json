@@ -1,0 +1,485 @@
+[
+  {
+    "name": "Magic",
+    "link": "https://music.163.com/song?id=1834324494",
+    "duration": "03:27",
+    "artists": [
+      {
+        "name": "Thomas Bergersen",
+        "link": "https://music.163.com/artist?id=45336"
+      },
+      {
+        "name": "Kimera Morrell",
+        "link": "https://music.163.com/artist?id=29212664"
+      }
+    ],
+    "album": {
+      "name": "Humanity - Chapter III",
+      "link": "https://music.163.com/album?id=125501859"
+    }
+  },
+  {
+    "name": "Roots",
+    "link": "https://music.163.com/song?id=473940858",
+    "duration": "02:09",
+    "artists": [
+      {
+        "name": "Josh Leake",
+        "link": "https://music.163.com/artist?id=12387197"
+      }
+    ],
+    "album": {
+      "name": "Benjamin",
+      "link": "https://music.163.com/album?id=35425190"
+    }
+  },
+  {
+    "name": "Floating With You",
+    "link": "https://music.163.com/song?id=407450734",
+    "duration": "03:39",
+    "artists": [
+      { "name": "Vexento", "link": "https://music.163.com/artist?id=12037010" }
+    ],
+    "album": {
+      "name": "Floating With You",
+      "link": "https://music.163.com/album?id=34567435"
+    }
+  },
+  {
+    "name": "Swing",
+    "link": "https://music.163.com/song?id=411907329",
+    "duration": "02:48",
+    "artists": [
+      { "name": "L3V3LS", "link": "https://music.163.com/artist?id=12007340" }
+    ],
+    "album": {
+      "name": "Swing",
+      "link": "https://music.163.com/album?id=34685406"
+    }
+  },
+  {
+    "name": "Colours of Life (Extended)",
+    "link": "https://music.163.com/song?id=1946526373",
+    "duration": "06:19",
+    "artists": [
+      {
+        "name": "Sunlight Project",
+        "link": "https://music.163.com/artist?id=858214"
+      }
+    ],
+    "album": {
+      "name": "Colours of Life",
+      "link": "https://music.163.com/album?id=144800808"
+    }
+  },
+  {
+    "name": "Girl Of The Sky",
+    "link": "https://music.163.com/song?id=1401725898",
+    "duration": "04:22",
+    "artists": [
+      { "name": "Kozoro", "link": "https://music.163.com/artist?id=1050567" }
+    ],
+    "album": {
+      "name": "Girl Of The Sky",
+      "link": "https://music.163.com/album?id=83083202"
+    }
+  },
+  {
+    "name": "DNA",
+    "link": "https://music.163.com/song?id=434687198",
+    "duration": "03:37",
+    "artists": [
+      {
+        "name": "Lia Marie Johnson",
+        "link": "https://music.163.com/artist?id=1046198"
+      }
+    ],
+    "album": {
+      "name": "DNA",
+      "link": "https://music.163.com/album?id=34907266"
+    }
+  },
+  {
+    "name": "Setting Me Free",
+    "link": "https://music.163.com/song?id=1845211689",
+    "duration": "03:07",
+    "artists": [
+      { "name": "LU2VYK", "link": "https://music.163.com/artist?id=12356140" },
+      { "name": "Marmy", "link": "https://music.163.com/artist?id=30661541" }
+    ],
+    "album": {
+      "name": "Setting Me Free",
+      "link": "https://music.163.com/album?id=127455823"
+    }
+  },
+  {
+    "name": "Glosses",
+    "link": "https://music.163.com/song?id=1367845700",
+    "duration": "02:50",
+    "artists": [
+      {
+        "name": "HelloPrinz",
+        "link": "https://music.163.com/artist?id=31660247"
+      },
+      {
+        "name": "Rene Fabić",
+        "link": "https://music.163.com/artist?id=31987889"
+      }
+    ],
+    "album": {
+      "name": "Ghiaccio, Contanti, Soldi",
+      "link": "https://music.163.com/album?id=79409422"
+    }
+  },
+  {
+    "name": "Carried Home",
+    "link": "https://music.163.com/song?id=1346097720",
+    "duration": "04:03",
+    "artists": [
+      {
+        "name": "Marcus Warner",
+        "link": "https://music.163.com/artist?id=1046308"
+      }
+    ],
+    "album": {
+      "name": "39 Seconds",
+      "link": "https://music.163.com/album?id=75019225"
+    }
+  },
+  {
+    "name": "Bloom",
+    "link": "https://music.163.com/song?id=1354634080",
+    "duration": "03:45",
+    "artists": [
+      {
+        "name": "Tony Anderson",
+        "link": "https://music.163.com/artist?id=79757"
+      },
+      {
+        "name": "Bonnie Brooksbank",
+        "link": "https://music.163.com/artist?id=31484048"
+      }
+    ],
+    "album": {
+      "name": "Bloom",
+      "link": "https://music.163.com/album?id=78221666"
+    }
+  },
+  {
+    "name": "Fly Aagin (Original Mix)",
+    "link": "https://music.163.com/song?id=554186972",
+    "duration": "04:37",
+    "artists": [
+      {
+        "name": "TurtleDove斑鸠",
+        "link": "https://music.163.com/artist?id=12283168"
+      }
+    ],
+    "album": {
+      "name": "Fly again (Original Mix)",
+      "link": "https://music.163.com/album?id=38381554"
+    }
+  },
+  {
+    "name": "Fragrance",
+    "link": "https://music.163.com/song?id=461080215",
+    "duration": "04:05",
+    "artists": [
+      { "name": "Galen Crew", "link": "https://music.163.com/artist?id=34435" }
+    ],
+    "album": {
+      "name": "Fragrance",
+      "link": "https://music.163.com/album?id=35194231"
+    }
+  },
+  {
+    "name": "Through The Night",
+    "link": "https://music.163.com/song?id=571339328",
+    "duration": "03:57",
+    "artists": [
+      { "name": "PRXZM", "link": "https://music.163.com/artist?id=1189092" }
+    ],
+    "album": {
+      "name": "Come Alive",
+      "link": "https://music.163.com/album?id=39590111"
+    }
+  },
+  {
+    "name": "Open Your Eyes",
+    "link": "https://music.163.com/song?id=421807962",
+    "duration": "04:19",
+    "artists": [
+      {
+        "name": "School of Seven Bells",
+        "link": "https://music.163.com/artist?id=100058"
+      }
+    ],
+    "album": {
+      "name": "SVIIB",
+      "link": "https://music.163.com/album?id=34751897"
+    }
+  },
+  {
+    "name": "Would You Wait for Me",
+    "link": "https://music.163.com/song?id=1443118014",
+    "duration": "03:47",
+    "artists": [
+      { "name": "Max Oazo", "link": "https://music.163.com/artist?id=13159084" }
+    ],
+    "album": {
+      "name": "Would You Wait for Me",
+      "link": "https://music.163.com/album?id=88479967"
+    }
+  },
+  {
+    "name": "Here With Me",
+    "link": "https://music.163.com/song?id=1350656778",
+    "duration": "02:36",
+    "artists": [
+      {
+        "name": "Marshmello",
+        "link": "https://music.163.com/artist?id=1060019"
+      },
+      { "name": "CHVRCHES", "link": "https://music.163.com/artist?id=694027" }
+    ],
+    "album": {
+      "name": "Here With Me",
+      "link": "https://music.163.com/album?id=75798672"
+    }
+  },
+  {
+    "name": "85%",
+    "link": "https://music.163.com/song?id=1371714108",
+    "duration": "02:54",
+    "artists": [
+      { "name": "Loote", "link": "https://music.163.com/artist?id=12408152" },
+      {
+        "name": "Garrett Nash",
+        "link": "https://music.163.com/artist?id=1137226"
+      }
+    ],
+    "album": {
+      "name": "lost",
+      "link": "https://music.163.com/album?id=79787129"
+    }
+  },
+  {
+    "name": "Circles",
+    "link": "https://music.163.com/song?id=1447773945",
+    "duration": "03:27",
+    "artists": [
+      { "name": "KASTRA", "link": "https://music.163.com/artist?id=1105094" },
+      {
+        "name": "Alex Byrne",
+        "link": "https://music.163.com/artist?id=12121159"
+      }
+    ],
+    "album": {
+      "name": "Circles",
+      "link": "https://music.163.com/album?id=89388624"
+    }
+  },
+  {
+    "name": "Thinkin Bout You",
+    "link": "https://music.163.com/song?id=1397324193",
+    "duration": "02:31",
+    "artists": [
+      { "name": "Jonasu", "link": "https://music.163.com/artist?id=28527997" },
+      { "name": "Jantine", "link": "https://music.163.com/artist?id=13710625" }
+    ],
+    "album": {
+      "name": "Thinkin Bout You",
+      "link": "https://music.163.com/album?id=82468456"
+    }
+  },
+  {
+    "name": "Lone Ranger",
+    "link": "https://music.163.com/song?id=40915127",
+    "duration": "03:10",
+    "artists": [
+      {
+        "name": "Rachel Platten",
+        "link": "https://music.163.com/artist?id=74518"
+      }
+    ],
+    "album": {
+      "name": "Wildfire",
+      "link": "https://music.163.com/album?id=3439713"
+    }
+  },
+  {
+    "name": "Above and Beyond",
+    "link": "https://music.163.com/song?id=26902555",
+    "duration": "02:53",
+    "artists": [
+      {
+        "name": "Audiomachine",
+        "link": "https://music.163.com/artist?id=87066"
+      }
+    ],
+    "album": {
+      "name": "Tree of Life",
+      "link": "https://music.163.com/album?id=2569064"
+    }
+  },
+  {
+    "name": "Little Do You Know",
+    "link": "https://music.163.com/song?id=475597495",
+    "duration": "02:48",
+    "artists": [
+      {
+        "name": "Campsite Dream",
+        "link": "https://music.163.com/artist?id=1146068"
+      }
+    ],
+    "album": {
+      "name": "Little Do You Know",
+      "link": "https://music.163.com/album?id=35371918"
+    }
+  },
+  {
+    "name": "Chances",
+    "link": "https://music.163.com/song?id=489110016",
+    "duration": "03:16",
+    "artists": [
+      { "name": "Mesto", "link": "https://music.163.com/artist?id=12007184" },
+      {
+        "name": "Brielle Von Hugel",
+        "link": "https://music.163.com/artist?id=13543037"
+      }
+    ],
+    "album": {
+      "name": "Chances",
+      "link": "https://music.163.com/album?id=35726012"
+    }
+  },
+  {
+    "name": "This Feeling",
+    "link": "https://music.163.com/song?id=1333199955",
+    "duration": "03:18",
+    "artists": [
+      {
+        "name": "The Chainsmokers",
+        "link": "https://music.163.com/artist?id=893484"
+      },
+      {
+        "name": "Kelsea Ballerini",
+        "link": "https://music.163.com/artist?id=976243"
+      }
+    ],
+    "album": {
+      "name": "Sick Boy",
+      "link": "https://music.163.com/album?id=74872242"
+    }
+  },
+  {
+    "name": "Big Words",
+    "link": "https://music.163.com/song?id=569870379",
+    "duration": "03:22",
+    "artists": [
+      { "name": "Klaas", "link": "https://music.163.com/artist?id=106210" }
+    ],
+    "album": {
+      "name": "Big Words",
+      "link": "https://music.163.com/album?id=39391421"
+    }
+  },
+  {
+    "name": "You Make Me (Throttle Radio Edit)",
+    "link": "https://music.163.com/song?id=28190438",
+    "duration": "03:41",
+    "artists": [
+      { "name": "Avicii", "link": "https://music.163.com/artist?id=45236" }
+    ],
+    "album": {
+      "name": "Hey Brother / Wake Me Up / You Make Me (Remixes)",
+      "link": "https://music.163.com/album?id=2743054"
+    }
+  },
+  {
+    "name": "Give Me Your Love",
+    "link": "https://music.163.com/song?id=445666806",
+    "duration": "03:17",
+    "artists": [
+      { "name": "DEAMN", "link": "https://music.163.com/artist?id=12047335" }
+    ],
+    "album": {
+      "name": "Give Me Your Love",
+      "link": "https://music.163.com/album?id=35012727"
+    }
+  },
+  {
+    "name": "Polaroid",
+    "link": "https://music.163.com/song?id=444324728",
+    "duration": "02:48",
+    "artists": [
+      {
+        "name": "Virginia To Vegas",
+        "link": "https://music.163.com/artist?id=942191"
+      }
+    ],
+    "album": {
+      "name": "Utopian",
+      "link": "https://music.163.com/album?id=35012380"
+    }
+  },
+  {
+    "name": "One Last Time",
+    "link": "https://music.163.com/song?id=864513777",
+    "duration": "03:27",
+    "artists": [
+      { "name": "Gromee", "link": "https://music.163.com/artist?id=1023035" },
+      {
+        "name": "Jesper Jenset",
+        "link": "https://music.163.com/artist?id=1081707"
+      }
+    ],
+    "album": {
+      "name": "One Last Time",
+      "link": "https://music.163.com/album?id=71737641"
+    }
+  },
+  {
+    "name": "Oceans Away (BUNT. Remix)",
+    "link": "https://music.163.com/song?id=484730356",
+    "duration": "03:25",
+    "artists": [
+      { "name": "BUNT.", "link": "https://music.163.com/artist?id=744145" },
+      {
+        "name": "A R I Z O N A",
+        "link": "https://music.163.com/artist?id=1137065"
+      }
+    ],
+    "album": {
+      "name": "Oceans Away (BUNT. Remix)",
+      "link": "https://music.163.com/album?id=35645130"
+    }
+  },
+  {
+    "name": "桃乐茜的来信",
+    "link": "https://music.163.com/song?id=1366467511",
+    "duration": "04:11",
+    "artists": [
+      {
+        "name": "I'll call you.(ICU Band)",
+        "link": "https://music.163.com/artist?id=12626758"
+      }
+    ],
+    "album": {
+      "name": "Broken Diamond",
+      "link": "https://music.163.com/album?id=79181407"
+    }
+  },
+  {
+    "name": "烛花红",
+    "link": "https://music.163.com/song?id=505451376",
+    "duration": "03:45",
+    "artists": [
+      { "name": "音频怪物", "link": "https://music.163.com/artist?id=6290" }
+    ],
+    "album": {
+      "name": "十三夜之月",
+      "link": "https://music.163.com/album?id=36167379"
+    }
+  }
+]
