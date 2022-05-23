@@ -1,0 +1,483 @@
+[
+  {
+    "name": "Nocturne in Paris",
+    "link": "https://music.163.com/song?id=1312596790",
+    "duration": "07:15",
+    "artists": [
+      {
+        "name": "Tony Anderson",
+        "link": "https://music.163.com/artist?id=79757"
+      }
+    ],
+    "album": {
+      "name": "Chasm",
+      "link": "https://music.163.com/album?id=73595415"
+    }
+  },
+  {
+    "name": "Your Gravity",
+    "link": "https://music.163.com/song?id=1933005011",
+    "duration": "03:40",
+    "artists": [
+      { "name": "N3wport", "link": "https://music.163.com/artist?id=12408098" },
+      {
+        "name": "Casey Cook",
+        "link": "https://music.163.com/artist?id=1192549"
+      }
+    ],
+    "album": {
+      "name": "Your Gravity",
+      "link": "https://music.163.com/album?id=142638103"
+    }
+  },
+  {
+    "name": "At Least It Was Fun (Awakend Remix)",
+    "link": "https://music.163.com/song?id=1912075576",
+    "duration": "03:48",
+    "artists": [
+      { "name": "JVNA", "link": "https://music.163.com/artist?id=28692563" }
+    ],
+    "album": {
+      "name": "At Least It Was Fun (Awakend Remix)",
+      "link": "https://music.163.com/album?id=138901412"
+    }
+  },
+  {
+    "name": "Let You Go",
+    "link": "https://music.163.com/song?id=507585216",
+    "duration": "03:04",
+    "artists": [
+      { "name": "ILLENIUM", "link": "https://music.163.com/artist?id=1050518" },
+      {
+        "name": "Ember Island",
+        "link": "https://music.163.com/artist?id=1100001"
+      }
+    ],
+    "album": {
+      "name": "Awake",
+      "link": "https://music.163.com/album?id=36290028"
+    }
+  },
+  {
+    "name": "Colours of Life (Radio Edit)",
+    "link": "https://music.163.com/song?id=1946525421",
+    "duration": "03:28",
+    "artists": [
+      {
+        "name": "Sunlight Project",
+        "link": "https://music.163.com/artist?id=858214"
+      }
+    ],
+    "album": {
+      "name": "Colours of Life",
+      "link": "https://music.163.com/album?id=144800808"
+    }
+  },
+  {
+    "name": "Nostalgia",
+    "link": "https://music.163.com/song?id=408814025",
+    "duration": "04:46",
+    "artists": [
+      { "name": "Vexento", "link": "https://music.163.com/artist?id=12037010" }
+    ],
+    "album": {
+      "name": "Inspiration",
+      "link": "https://music.163.com/album?id=34594797"
+    }
+  },
+  {
+    "name": "Flightless Bird, American Mouth - (电影《暮光之城》插曲)",
+    "link": "https://music.163.com/song?id=5042924",
+    "duration": "04:00",
+    "artists": [
+      {
+        "name": "Iron & Wine",
+        "link": "https://music.163.com/artist?id=178125"
+      }
+    ],
+    "album": {
+      "name": "Twilight (Original Motion Picture Soundtrack) [Deluxe Edition]",
+      "link": "https://music.163.com/album?id=500758"
+    }
+  },
+  {
+    "name": "Breathing Again",
+    "link": "https://music.163.com/song?id=1925006272",
+    "duration": "04:18",
+    "artists": [
+      { "name": "Nurko", "link": "https://music.163.com/artist?id=11991089" },
+      {
+        "name": "skye silansky",
+        "link": "https://music.163.com/artist?id=46900246"
+      }
+    ],
+    "album": {
+      "name": "Arrival",
+      "link": "https://music.163.com/album?id=141244508"
+    }
+  },
+  {
+    "name": "Save the World",
+    "link": "https://music.163.com/song?id=1866078548",
+    "duration": "03:12",
+    "artists": [
+      {
+        "name": "Arc North",
+        "link": "https://music.163.com/artist?id=1137410"
+      },
+      { "name": "CRVN", "link": "https://music.163.com/artist?id=46566374" }
+    ],
+    "album": {
+      "name": "Save the World",
+      "link": "https://music.163.com/album?id=131204220"
+    }
+  },
+  {
+    "name": "Say My Name",
+    "link": "https://music.163.com/song?id=1924295212",
+    "duration": "04:16",
+    "artists": [
+      { "name": "Max Oazo", "link": "https://music.163.com/artist?id=13159084" }
+    ],
+    "album": {
+      "name": "Say My Name",
+      "link": "https://music.163.com/album?id=141098697"
+    }
+  },
+  {
+    "name": "Want It",
+    "link": "https://music.163.com/song?id=1446857047",
+    "duration": "02:32",
+    "artists": [
+      { "name": "J. Lisk", "link": "https://music.163.com/artist?id=12121101" }
+    ],
+    "album": {
+      "name": "Want It",
+      "link": "https://music.163.com/album?id=89120530"
+    }
+  },
+  {
+    "name": "Sail Away (feat. Jay Mason)",
+    "link": "https://music.163.com/song?id=1920572254",
+    "duration": "04:12",
+    "artists": [
+      { "name": "Trivecta", "link": "https://music.163.com/artist?id=954338" },
+      {
+        "name": "Jay Mason",
+        "link": "https://music.163.com/artist?id=37420161"
+      }
+    ],
+    "album": {
+      "name": "Sail Away (feat. Jay Mason)",
+      "link": "https://music.163.com/album?id=140429622"
+    }
+  },
+  {
+    "name": "Watermelon Wormhole",
+    "link": "https://music.163.com/song?id=1912836244",
+    "duration": "05:53",
+    "artists": [
+      { "name": "Lane 8", "link": "https://music.163.com/artist?id=787072" }
+    ],
+    "album": {
+      "name": "Reviver",
+      "link": "https://music.163.com/album?id=139003695"
+    }
+  },
+  {
+    "name": "Do Better",
+    "link": "https://music.163.com/song?id=1902483705",
+    "duration": "03:06",
+    "artists": [
+      { "name": "Feint", "link": "https://music.163.com/artist?id=93062" }
+    ],
+    "album": {
+      "name": "Best of 2021",
+      "link": "https://music.163.com/album?id=137359269"
+    }
+  },
+  {
+    "name": "Sweet Dreams & Dynamite",
+    "link": "https://music.163.com/song?id=1896100382",
+    "duration": "02:41",
+    "artists": [
+      { "name": "SeeB", "link": "https://music.163.com/artist?id=1182169" },
+      {
+        "name": "Nina Nesbitt",
+        "link": "https://music.163.com/artist?id=70292"
+      }
+    ],
+    "album": {
+      "name": "Sweet Dreams & Dynamite",
+      "link": "https://music.163.com/album?id=136301943"
+    }
+  },
+  {
+    "name": "Gone",
+    "link": "https://music.163.com/song?id=410802157",
+    "duration": "03:36",
+    "artists": [
+      { "name": "Monogem", "link": "https://music.163.com/artist?id=1078007" }
+    ],
+    "album": {
+      "name": "Gone",
+      "link": "https://music.163.com/album?id=34675051"
+    }
+  },
+  {
+    "name": "No Choice",
+    "link": "https://music.163.com/song?id=1832866118",
+    "duration": "03:51",
+    "artists": [
+      {
+        "name": "Fly By Midnight",
+        "link": "https://music.163.com/artist?id=1163027"
+      }
+    ],
+    "album": {
+      "name": "No Choice",
+      "link": "https://music.163.com/album?id=125238107"
+    }
+  },
+  {
+    "name": "This Is Not The End",
+    "link": "https://music.163.com/song?id=1922796922",
+    "duration": "03:18",
+    "artists": [
+      {
+        "name": "Gareth Emery",
+        "link": "https://music.163.com/artist?id=34318"
+      },
+      {
+        "name": "Roddy Woomble",
+        "link": "https://music.163.com/artist?id=73417"
+      }
+    ],
+    "album": {
+      "name": "This Is Not The End",
+      "link": "https://music.163.com/album?id=140829539"
+    }
+  },
+  {
+    "name": "We Are The Lights",
+    "link": "https://music.163.com/song?id=1448417251",
+    "duration": "03:14",
+    "artists": [
+      {
+        "name": "Rico & Miella",
+        "link": "https://music.163.com/artist?id=1050743"
+      }
+    ],
+    "album": {
+      "name": "We Are The Lights",
+      "link": "https://music.163.com/album?id=89512188"
+    }
+  },
+  {
+    "name": "A Million Miles (feat. Diandra Faye)",
+    "link": "https://music.163.com/song?id=1920855574",
+    "duration": "04:57",
+    "artists": [
+      { "name": "Au5", "link": "https://music.163.com/artist?id=359309" },
+      {
+        "name": "Diandra Faye",
+        "link": "https://music.163.com/artist?id=30244321"
+      }
+    ],
+    "album": {
+      "name": "A Million Miles (feat. Diandra Faye)",
+      "link": "https://music.163.com/album?id=140487419"
+    }
+  },
+  {
+    "name": "The Surface",
+    "link": "https://music.163.com/song?id=1381222976",
+    "duration": "03:22",
+    "artists": [
+      { "name": "VENIICE", "link": "https://music.163.com/artist?id=12218056" },
+      { "name": "Miles Away", "link": "https://music.163.com/artist?id=96821" },
+      { "name": "FJØRA", "link": "https://music.163.com/artist?id=31545231" }
+    ],
+    "album": {
+      "name": "Apollo EP",
+      "link": "https://music.163.com/album?id=80704561"
+    }
+  },
+  {
+    "name": "Without You",
+    "link": "https://music.163.com/song?id=1922522235",
+    "duration": "03:45",
+    "artists": [
+      {
+        "name": "Kill The Noise",
+        "link": "https://music.163.com/artist?id=38057"
+      },
+      {
+        "name": "Seven Lions",
+        "link": "https://music.163.com/artist?id=44204"
+      },
+      {
+        "name": "Julia Ross",
+        "link": "https://music.163.com/artist?id=13494076"
+      }
+    ],
+    "album": {
+      "name": "Without You",
+      "link": "https://music.163.com/album?id=140774163"
+    }
+  },
+  {
+    "name": "Shapes",
+    "link": "https://music.163.com/song?id=1909926096",
+    "duration": "03:43",
+    "artists": [
+      {
+        "name": "Fransis Derelle",
+        "link": "https://music.163.com/artist?id=1150305"
+      },
+      { "name": "Saysha", "link": "https://music.163.com/artist?id=31228943" }
+    ],
+    "album": {
+      "name": "Shapes",
+      "link": "https://music.163.com/album?id=138513902"
+    }
+  },
+  {
+    "name": "Reason For Fighting (feat. ERV ELLO)",
+    "link": "https://music.163.com/song?id=1937330707",
+    "duration": "03:58",
+    "artists": [
+      {
+        "name": "Seven Lions",
+        "link": "https://music.163.com/artist?id=44204"
+      },
+      {
+        "name": "Blastoyz",
+        "link": "https://music.163.com/artist?id=12214071"
+      },
+      { "name": "ERV ELLO", "link": "https://music.163.com/artist?id=52261301" }
+    ],
+    "album": {
+      "name": "Reason For Fighting (feat. ERV ELLO)",
+      "link": "https://music.163.com/album?id=143352858"
+    }
+  },
+  {
+    "name": "Missing",
+    "link": "https://music.163.com/song?id=1832406683",
+    "duration": "04:05",
+    "artists": [
+      { "name": "Kazukii", "link": "https://music.163.com/artist?id=12054389" }
+    ],
+    "album": {
+      "name": "Missing",
+      "link": "https://music.163.com/album?id=125150470"
+    }
+  },
+  {
+    "name": "American Spirit (Nurko Remix)",
+    "link": "https://music.163.com/song?id=1446485384",
+    "duration": "04:05",
+    "artists": [
+      { "name": "Meg & Dia", "link": "https://music.163.com/artist?id=66393" }
+    ],
+    "album": {
+      "name": "happysad Remixes",
+      "link": "https://music.163.com/album?id=89145471"
+    }
+  },
+  {
+    "name": "When & Where",
+    "link": "https://music.163.com/song?id=1928517366",
+    "duration": "02:13",
+    "artists": [
+      { "name": "Tungevaag", "link": "https://music.163.com/artist?id=962293" }
+    ],
+    "album": {
+      "name": "When & Where",
+      "link": "https://music.163.com/album?id=141867083"
+    }
+  },
+  {
+    "name": "曲率之舞",
+    "link": "https://music.163.com/song?id=1890983858",
+    "duration": "03:52",
+    "artists": [
+      { "name": "音速行星", "link": "https://music.163.com/artist?id=31320616" }
+    ],
+    "album": {
+      "name": "星河纪元",
+      "link": "https://music.163.com/album?id=135474196"
+    }
+  },
+  {
+    "name": "Say It Again",
+    "link": "https://music.163.com/song?id=1932426353",
+    "duration": "03:27",
+    "artists": [
+      {
+        "name": "Will Sparks",
+        "link": "https://music.163.com/artist?id=725093"
+      }
+    ],
+    "album": {
+      "name": "Say It Again",
+      "link": "https://music.163.com/album?id=142546087"
+    }
+  },
+  {
+    "name": "For the Best",
+    "link": "https://music.163.com/song?id=1417510570",
+    "duration": "03:28",
+    "artists": [
+      {
+        "name": "Transviolet",
+        "link": "https://music.163.com/artist?id=1122080"
+      }
+    ],
+    "album": {
+      "name": "Born to Rule",
+      "link": "https://music.163.com/album?id=85063242"
+    }
+  },
+  {
+    "name": "Promised Land",
+    "link": "https://music.163.com/song?id=1403528212",
+    "duration": "02:34",
+    "artists": [
+      {
+        "name": "Audiomachine",
+        "link": "https://music.163.com/artist?id=87066"
+      }
+    ],
+    "album": {
+      "name": "Nomad",
+      "link": "https://music.163.com/album?id=83340826"
+    }
+  },
+  {
+    "name": "Back To You (BUNT. Remix)",
+    "link": "https://music.163.com/song?id=500412393",
+    "duration": "03:31",
+    "artists": [
+      { "name": "BUNT.", "link": "https://music.163.com/artist?id=744145" },
+      { "name": "WILD", "link": "https://music.163.com/artist?id=12074090" }
+    ],
+    "album": {
+      "name": "Back To You (BUNT. Remix)",
+      "link": "https://music.163.com/album?id=36017162"
+    }
+  },
+  {
+    "name": "Apologize",
+    "link": "https://music.163.com/song?id=4224657",
+    "duration": "03:28",
+    "artists": [
+      { "name": "OneRepublic", "link": "https://music.163.com/artist?id=98105" }
+    ],
+    "album": {
+      "name": "Dreaming Out Loud (Tour Edition)",
+      "link": "https://music.163.com/album?id=427146"
+    }
+  }
+]
