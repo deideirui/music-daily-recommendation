@@ -1,0 +1,491 @@
+[
+  {
+    "name": "White Sails",
+    "link": "https://music.163.com/song?id=41666277",
+    "duration": "03:43",
+    "artists": [
+      {
+        "name": "Marcus Warner",
+        "link": "https://music.163.com/artist?id=1046308"
+      }
+    ],
+    "album": {
+      "name": "Oceans",
+      "link": "https://music.163.com/album?id=3451718"
+    }
+  },
+  {
+    "name": "First Place",
+    "link": "https://music.163.com/song?id=1932721483",
+    "duration": "03:13",
+    "artists": [
+      { "name": "Yetep", "link": "https://music.163.com/artist?id=12356399" },
+      {
+        "name": "Lexi Scatena",
+        "link": "https://music.163.com/artist?id=35606927"
+      },
+      { "name": "Caslow", "link": "https://music.163.com/artist?id=15109745" }
+    ],
+    "album": {
+      "name": "First Place",
+      "link": "https://music.163.com/album?id=142594674"
+    }
+  },
+  {
+    "name": "Night Skies",
+    "link": "https://music.163.com/song?id=569283879",
+    "duration": "04:18",
+    "artists": [
+      { "name": "AK", "link": "https://music.163.com/artist?id=1192509" }
+    ],
+    "album": {
+      "name": "Sleepless in Berlin",
+      "link": "https://music.163.com/album?id=39416232"
+    }
+  },
+  {
+    "name": "Malibu",
+    "link": "https://music.163.com/song?id=1830634740",
+    "duration": "02:28",
+    "artists": [
+      {
+        "name": "Virginia To Vegas",
+        "link": "https://music.163.com/artist?id=942191"
+      },
+      { "name": "NOTD", "link": "https://music.163.com/artist?id=12262306" }
+    ],
+    "album": {
+      "name": "Malibu",
+      "link": "https://music.163.com/album?id=124747439"
+    }
+  },
+  {
+    "name": "Illusionary Daytime - Music Lah Remix",
+    "link": "https://music.163.com/song?id=1949947347",
+    "duration": "02:55",
+    "artists": [
+      { "name": "Shirfine", "link": "https://music.163.com/artist?id=189603" },
+      {
+        "name": "Music Lah",
+        "link": "https://music.163.com/artist?id=51360088"
+      }
+    ],
+    "album": {
+      "name": "Illusionary Daytime (The Remixes) ",
+      "link": "https://music.163.com/album?id=145403487"
+    }
+  },
+  {
+    "name": "I Know What I'm Looking For",
+    "link": "https://music.163.com/song?id=1483152387",
+    "duration": "02:49",
+    "artists": [
+      { "name": "Moon", "link": "https://music.163.com/artist?id=37094140" }
+    ],
+    "album": {
+      "name": "We Are Infinity",
+      "link": "https://music.163.com/album?id=96108101"
+    }
+  },
+  {
+    "name": "春泥",
+    "link": "https://music.163.com/song?id=328002",
+    "duration": "04:22",
+    "artists": [
+      { "name": "张芸京", "link": "https://music.163.com/artist?id=10572" }
+    ],
+    "album": {
+      "name": "我要我们情人结",
+      "link": "https://music.163.com/album?id=32454"
+    }
+  },
+  {
+    "name": "Silence",
+    "link": "https://music.163.com/song?id=1323456453",
+    "duration": "03:20",
+    "artists": [
+      {
+        "name": "Before You Exit",
+        "link": "https://music.163.com/artist?id=88867"
+      }
+    ],
+    "album": {
+      "name": "001_love",
+      "link": "https://music.163.com/album?id=74278898"
+    }
+  },
+  {
+    "name": "Otherside",
+    "link": "https://music.163.com/song?id=1939129928",
+    "duration": "03:36",
+    "artists": [
+      { "name": "Mazare", "link": "https://music.163.com/artist?id=29718513" },
+      { "name": "AMIDY", "link": "https://music.163.com/artist?id=12203566" }
+    ],
+    "album": {
+      "name": "Otherside",
+      "link": "https://music.163.com/album?id=143621942"
+    }
+  },
+  {
+    "name": "I'll Wait",
+    "link": "https://music.163.com/song?id=1434419312",
+    "duration": "03:35",
+    "artists": [
+      { "name": "Kygo", "link": "https://music.163.com/artist?id=844410" },
+      {
+        "name": "Sasha Alex Sloan",
+        "link": "https://music.163.com/artist?id=12646102"
+      }
+    ],
+    "album": {
+      "name": "I'll Wait",
+      "link": "https://music.163.com/album?id=86883079"
+    }
+  },
+  {
+    "name": "The Light (Instrumental Version)",
+    "link": "https://music.163.com/song?id=1844119493",
+    "duration": "02:59",
+    "artists": [
+      {
+        "name": "Loving Caliber",
+        "link": "https://music.163.com/artist?id=13945554"
+      },
+      { "name": "Ooyy", "link": "https://music.163.com/artist?id=28767786" }
+    ],
+    "album": {
+      "name": "The Light",
+      "link": "https://music.163.com/album?id=127226319"
+    }
+  },
+  {
+    "name": "Peafowl",
+    "link": "https://music.163.com/song?id=1347199392",
+    "duration": "04:54",
+    "artists": [
+      {
+        "name": "JigglePuff",
+        "link": "https://music.163.com/artist?id=13285528"
+      },
+      { "name": "殷海燕", "link": "https://music.163.com/artist?id=51428630" }
+    ],
+    "album": {
+      "name": "Half Awake：三年一梦",
+      "link": "https://music.163.com/album?id=75612137"
+    }
+  },
+  {
+    "name": "Starlight",
+    "link": "https://music.163.com/song?id=470759406",
+    "duration": "03:43",
+    "artists": [
+      { "name": "Jai Wolf", "link": "https://music.163.com/artist?id=1063048" },
+      {
+        "name": "Mr Gabriel",
+        "link": "https://music.163.com/artist?id=29718402"
+      }
+    ],
+    "album": {
+      "name": "Starlight",
+      "link": "https://music.163.com/album?id=35346304"
+    }
+  },
+  {
+    "name": "Sapphire",
+    "link": "https://music.163.com/song?id=1434225631",
+    "duration": "03:03",
+    "artists": [
+      {
+        "name": "PIKASONIC",
+        "link": "https://music.163.com/artist?id=13499634"
+      }
+    ],
+    "album": {
+      "name": "Sapphire",
+      "link": "https://music.163.com/album?id=86860711"
+    }
+  },
+  {
+    "name": "In Too Deep",
+    "link": "https://music.163.com/song?id=1927748302",
+    "duration": "04:24",
+    "artists": [
+      { "name": "Awakend", "link": "https://music.163.com/artist?id=13049055" },
+      { "name": "Man Cub", "link": "https://music.163.com/artist?id=30816484" },
+      { "name": "TRØVES", "link": "https://music.163.com/artist?id=50866424" }
+    ],
+    "album": {
+      "name": "In Too Deep",
+      "link": "https://music.163.com/album?id=141741339"
+    }
+  },
+  {
+    "name": "千山流云",
+    "link": "https://music.163.com/song?id=1851673795",
+    "duration": "03:52",
+    "artists": [
+      { "name": "闫东炜", "link": "https://music.163.com/artist?id=4621" },
+      { "name": "散乐文化", "link": "https://music.163.com/artist?id=48401131" }
+    ],
+    "album": {
+      "name": "千山流云",
+      "link": "https://music.163.com/album?id=128673069"
+    }
+  },
+  {
+    "name": "We Should Be Sorry",
+    "link": "https://music.163.com/song?id=1435876256",
+    "duration": "03:06",
+    "artists": [
+      {
+        "name": "Axel Johansson",
+        "link": "https://music.163.com/artist?id=12872604"
+      }
+    ],
+    "album": {
+      "name": "We Should Be Sorry",
+      "link": "https://music.163.com/album?id=87134256"
+    }
+  },
+  {
+    "name": "Oceans",
+    "link": "https://music.163.com/song?id=1874528576",
+    "duration": "03:42",
+    "artists": [
+      { "name": "Dash Berlin", "link": "https://music.163.com/artist?id=32124" }
+    ],
+    "album": {
+      "name": "Oceans",
+      "link": "https://music.163.com/album?id=132589680"
+    }
+  },
+  {
+    "name": "Colours",
+    "link": "https://music.163.com/song?id=1374515407",
+    "duration": "04:33",
+    "artists": [
+      { "name": "Maduk", "link": "https://music.163.com/artist?id=361816" },
+      {
+        "name": "Diamond Eyes",
+        "link": "https://music.163.com/artist?id=292469"
+      }
+    ],
+    "album": {
+      "name": "Colours / Still In Love [UKF10 x Liquicity]",
+      "link": "https://music.163.com/album?id=80050495"
+    }
+  },
+  {
+    "name": "平行线 - (Wish You Were Here)",
+    "link": "https://music.163.com/song?id=1864898927",
+    "duration": "02:45",
+    "artists": [
+      { "name": "Vicetone", "link": "https://music.163.com/artist?id=747030" },
+      {
+        "name": "WILLIM缪维霖",
+        "link": "https://music.163.com/artist?id=12433042"
+      },
+      { "name": "黄霄雲", "link": "https://music.163.com/artist?id=14077324" }
+    ],
+    "album": {
+      "name": "平行线",
+      "link": "https://music.163.com/album?id=131031551"
+    }
+  },
+  {
+    "name": "Hiding In The Blue",
+    "link": "https://music.163.com/song?id=1852002829",
+    "duration": "03:41",
+    "artists": [
+      {
+        "name": "TheFatRat",
+        "link": "https://music.163.com/artist?id=1019952"
+      },
+      { "name": "RIELL", "link": "https://music.163.com/artist?id=30558622" }
+    ],
+    "album": {
+      "name": "Hiding In The Blue",
+      "link": "https://music.163.com/album?id=128736879"
+    }
+  },
+  {
+    "name": "Natalie",
+    "link": "https://music.163.com/song?id=1431723136",
+    "duration": "04:34",
+    "artists": [
+      {
+        "name": "Milk & Bone",
+        "link": "https://music.163.com/artist?id=1006113"
+      }
+    ],
+    "album": {
+      "name": "Break up Jams",
+      "link": "https://music.163.com/album?id=86580422"
+    }
+  },
+  {
+    "name": "Adventure Time",
+    "link": "https://music.163.com/song?id=21375446",
+    "duration": "03:25",
+    "artists": [
+      { "name": "Philter", "link": "https://music.163.com/artist?id=140830" }
+    ],
+    "album": {
+      "name": "The Blossom Chronicles",
+      "link": "https://music.163.com/album?id=1973348"
+    }
+  },
+  {
+    "name": "Hurt (feat. Zack Gray)",
+    "link": "https://music.163.com/song?id=1835265182",
+    "duration": "04:10",
+    "artists": [
+      { "name": "MitiS", "link": "https://music.163.com/artist?id=40245" },
+      {
+        "name": "Zack Gray",
+        "link": "https://music.163.com/artist?id=15206414"
+      }
+    ],
+    "album": {
+      "name": "Lost",
+      "link": "https://music.163.com/album?id=125636092"
+    }
+  },
+  {
+    "name": "Wrong Direction",
+    "link": "https://music.163.com/song?id=1442165517",
+    "duration": "03:26",
+    "artists": [
+      {
+        "name": "Ilse DeLange",
+        "link": "https://music.163.com/artist?id=60368"
+      },
+      {
+        "name": "Michael Schulte",
+        "link": "https://music.163.com/artist?id=40222"
+      }
+    ],
+    "album": {
+      "name": "Wrong Direction",
+      "link": "https://music.163.com/album?id=88286256"
+    }
+  },
+  {
+    "name": "Dancing Heart (Original mix)",
+    "link": "https://music.163.com/song?id=1329343624",
+    "duration": "07:49",
+    "artists": [
+      { "name": "Melchi", "link": "https://music.163.com/artist?id=12058010" }
+    ],
+    "album": {
+      "name": "Sunset Of The Coastline / Dancing Heart",
+      "link": "https://music.163.com/album?id=74638654"
+    }
+  },
+  {
+    "name": "Fall Into Me (feat. Dylan Matthew)",
+    "link": "https://music.163.com/song?id=1926857567",
+    "duration": "03:51",
+    "artists": [
+      { "name": "NGHTMRE", "link": "https://music.163.com/artist?id=1105063" },
+      { "name": "SLANDER", "link": "https://music.163.com/artist?id=1137239" },
+      {
+        "name": "Dylan Matthew",
+        "link": "https://music.163.com/artist?id=28684353"
+      }
+    ],
+    "album": {
+      "name": "Fall Into Me (feat. Dylan Matthew)",
+      "link": "https://music.163.com/album?id=141563324"
+    }
+  },
+  {
+    "name": "Walk On Water (feat. RØRY, Dylan Matthew)",
+    "link": "https://music.163.com/song?id=1934191192",
+    "duration": "06:23",
+    "artists": [
+      { "name": "SLANDER", "link": "https://music.163.com/artist?id=1137239" },
+      { "name": "RØRY", "link": "https://music.163.com/artist?id=28774080" },
+      {
+        "name": "Dylan Matthew",
+        "link": "https://music.163.com/artist?id=28684353"
+      }
+    ],
+    "album": {
+      "name": "Walk On Water (feat. RØRY, Dylan Matthew)",
+      "link": "https://music.163.com/album?id=142875303"
+    }
+  },
+  {
+    "name": "Enfance 80 - (80年代童年)",
+    "link": "https://music.163.com/song?id=1444595798",
+    "duration": "03:42",
+    "artists": [
+      {
+        "name": "Videoclub",
+        "link": "https://music.163.com/artist?id=30130243"
+      }
+    ],
+    "album": {
+      "name": "Enfance 80",
+      "link": "https://music.163.com/album?id=88756094"
+    }
+  },
+  {
+    "name": "Time (Official)",
+    "link": "https://music.163.com/song?id=33035611",
+    "duration": "03:56",
+    "artists": [
+      { "name": "MKJ", "link": "https://music.163.com/artist?id=469200" }
+    ],
+    "album": {
+      "name": "Time After Time",
+      "link": "https://music.163.com/album?id=74263822"
+    }
+  },
+  {
+    "name": "In Your Eyes  (Original mix)",
+    "link": "https://music.163.com/song?id=36308387",
+    "duration": "04:20",
+    "artists": [
+      { "name": "ZENI", "link": "https://music.163.com/artist?id=1038138" },
+      { "name": "Kozoro", "link": "https://music.163.com/artist?id=1050567" }
+    ],
+    "album": {
+      "name": "MrSuicideSheep Presents - Taking You Higher",
+      "link": "https://music.163.com/album?id=3394099"
+    }
+  },
+  {
+    "name": "城南雨歇处",
+    "link": "https://music.163.com/song?id=865945097",
+    "duration": "03:12",
+    "artists": [
+      {
+        "name": "萤失Hinano",
+        "link": "https://music.163.com/artist?id=12146386"
+      }
+    ],
+    "album": {
+      "name": "「城南雨歇处」",
+      "link": "https://music.163.com/album?id=71775169"
+    }
+  },
+  {
+    "name": "Rooftops (feat. Tedashii)",
+    "link": "https://music.163.com/song?id=407459600",
+    "duration": "03:07",
+    "artists": [
+      {
+        "name": "JJ Weeks Band",
+        "link": "https://music.163.com/artist?id=12007242"
+      },
+      { "name": "Tedashii", "link": "https://music.163.com/artist?id=82626" }
+    ],
+    "album": {
+      "name": "As Long as We Can Breathe",
+      "link": "https://music.163.com/album?id=34504428"
+    }
+  }
+]
