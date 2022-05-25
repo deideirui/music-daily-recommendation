@@ -1,0 +1,499 @@
+[
+  {
+    "name": "Going Home",
+    "link": "https://music.163.com/song?id=1814140540",
+    "duration": "05:50",
+    "artists": [
+      { "name": "Tom Day", "link": "https://music.163.com/artist?id=103812" }
+    ],
+    "album": {
+      "name": "2012",
+      "link": "https://music.163.com/album?id=122007390"
+    }
+  },
+  {
+    "name": "Never A Good Time",
+    "link": "https://music.163.com/song?id=1894264269",
+    "duration": "02:47",
+    "artists": [
+      { "name": "NOTD", "link": "https://music.163.com/artist?id=12262306" },
+      {
+        "name": "The Band CAMINO",
+        "link": "https://music.163.com/artist?id=12463214"
+      }
+    ],
+    "album": {
+      "name": "Never A Good Time",
+      "link": "https://music.163.com/album?id=136032070"
+    }
+  },
+  {
+    "name": "Let's Run Away",
+    "link": "https://music.163.com/song?id=408814022",
+    "duration": "03:06",
+    "artists": [
+      { "name": "Vexento", "link": "https://music.163.com/artist?id=12037010" }
+    ],
+    "album": {
+      "name": "Inspiration",
+      "link": "https://music.163.com/album?id=34594797"
+    }
+  },
+  {
+    "name": "10,000 Feet",
+    "link": "https://music.163.com/song?id=1446201045",
+    "duration": "02:40",
+    "artists": [
+      { "name": "INViDA", "link": "https://music.163.com/artist?id=33196292" },
+      {
+        "name": "Robbie Rosen",
+        "link": "https://music.163.com/artist?id=14143678"
+      }
+    ],
+    "album": {
+      "name": "10,000 Feet",
+      "link": "https://music.163.com/album?id=89084227"
+    }
+  },
+  {
+    "name": "Sea the Sky",
+    "link": "https://music.163.com/song?id=1943480634",
+    "duration": "04:39",
+    "artists": [
+      { "name": "Ryan Farish", "link": "https://music.163.com/artist?id=41966" }
+    ],
+    "album": {
+      "name": "Sea the Sky",
+      "link": "https://music.163.com/album?id=144294598"
+    }
+  },
+  {
+    "name": "Superhero In My Sleep",
+    "link": "https://music.163.com/song?id=1871253448",
+    "duration": "03:06",
+    "artists": [
+      { "name": "Rival", "link": "https://music.163.com/artist?id=12741030" },
+      {
+        "name": "Asketa & Natan Chaim",
+        "link": "https://music.163.com/artist?id=32523005"
+      }
+    ],
+    "album": {
+      "name": "Superhero In My Sleep",
+      "link": "https://music.163.com/album?id=132053407"
+    }
+  },
+  {
+    "name": "Salvatore",
+    "link": "https://music.163.com/song?id=34690881",
+    "duration": "04:41",
+    "artists": [
+      {
+        "name": "Lana Del Rey",
+        "link": "https://music.163.com/artist?id=66212"
+      }
+    ],
+    "album": {
+      "name": "Honeymoon",
+      "link": "https://music.163.com/album?id=3270943"
+    }
+  },
+  {
+    "name": "Paradise",
+    "link": "https://music.163.com/song?id=1430542683",
+    "duration": "02:20",
+    "artists": [
+      {
+        "name": "Mike Perry",
+        "link": "https://music.163.com/artist?id=195021"
+      },
+      {
+        "name": "Sarah De Warren",
+        "link": "https://music.163.com/artist?id=13222653"
+      }
+    ],
+    "album": {
+      "name": "Paradise",
+      "link": "https://music.163.com/album?id=86467517"
+    }
+  },
+  {
+    "name": "Symphony",
+    "link": "https://music.163.com/song?id=1870591735",
+    "duration": "03:10",
+    "artists": [
+      {
+        "name": "Donna Tella",
+        "link": "https://music.163.com/artist?id=15382106"
+      },
+      { "name": "Arc North", "link": "https://music.163.com/artist?id=1137410" }
+    ],
+    "album": {
+      "name": "Symphony",
+      "link": "https://music.163.com/album?id=131937229"
+    }
+  },
+  {
+    "name": "September",
+    "link": "https://music.163.com/song?id=1308080698",
+    "duration": "03:05",
+    "artists": [
+      {
+        "name": "Campsite Dream",
+        "link": "https://music.163.com/artist?id=1146068"
+      }
+    ],
+    "album": {
+      "name": "September",
+      "link": "https://music.163.com/album?id=73143599"
+    }
+  },
+  {
+    "name": "Rebirth",
+    "link": "https://music.163.com/song?id=1920573925",
+    "duration": "04:44",
+    "artists": [
+      { "name": "Tinlicker", "link": "https://music.163.com/artist?id=742233" },
+      {
+        "name": "Hero Baldwin",
+        "link": "https://music.163.com/artist?id=14037465"
+      }
+    ],
+    "album": {
+      "name": "In Another Lifetime",
+      "link": "https://music.163.com/album?id=140430566"
+    }
+  },
+  {
+    "name": "Summer Never Ends (feat. Jaime Deraz)",
+    "link": "https://music.163.com/song?id=1868783247",
+    "duration": "03:27",
+    "artists": [
+      {
+        "name": "The Spl2ndid",
+        "link": "https://music.163.com/artist?id=47132654"
+      },
+      {
+        "name": "Jaime Deraz",
+        "link": "https://music.163.com/artist?id=28396902"
+      }
+    ],
+    "album": {
+      "name": "Summer Never Ends (feat. Jaime Deraz)",
+      "link": "https://music.163.com/album?id=131669624"
+    }
+  },
+  {
+    "name": "Aurora",
+    "link": "https://music.163.com/song?id=1492079154",
+    "duration": "02:44",
+    "artists": [
+      { "name": "K-391", "link": "https://music.163.com/artist?id=1049937" },
+      { "name": "RØRY", "link": "https://music.163.com/artist?id=28774080" }
+    ],
+    "album": {
+      "name": "Aurora",
+      "link": "https://music.163.com/album?id=97724461"
+    }
+  },
+  {
+    "name": "Far From You",
+    "link": "https://music.163.com/song?id=557583017",
+    "duration": "04:39",
+    "artists": [
+      {
+        "name": "WildVibes",
+        "link": "https://music.163.com/artist?id=1181751"
+      },
+      {
+        "name": "Martin Miller",
+        "link": "https://music.163.com/artist?id=12534226"
+      },
+      {
+        "name": "Arild Aas",
+        "link": "https://music.163.com/artist?id=13436856"
+      }
+    ],
+    "album": {
+      "name": "Far From You",
+      "link": "https://music.163.com/album?id=38594012"
+    }
+  },
+  {
+    "name": "Happyland",
+    "link": "https://music.163.com/song?id=535755043",
+    "duration": "03:30",
+    "artists": [
+      { "name": "暴君de", "link": "https://music.163.com/artist?id=12599289" }
+    ],
+    "album": {
+      "name": "Happyland",
+      "link": "https://music.163.com/album?id=37485507"
+    }
+  },
+  {
+    "name": "No Matter What - (不论如何)",
+    "link": "https://music.163.com/song?id=512376226",
+    "duration": "03:01",
+    "artists": [
+      {
+        "name": "Audiomachine",
+        "link": "https://music.163.com/artist?id=87066"
+      }
+    ],
+    "album": {
+      "name": "Life",
+      "link": "https://music.163.com/album?id=36528056"
+    }
+  },
+  {
+    "name": "Dream Away",
+    "link": "https://music.163.com/song?id=534540260",
+    "duration": "03:30",
+    "artists": [
+      { "name": "Day 7", "link": "https://music.163.com/artist?id=12009131" }
+    ],
+    "album": {
+      "name": "Dream Away",
+      "link": "https://music.163.com/album?id=37465098"
+    }
+  },
+  {
+    "name": "L'amour toujours",
+    "link": "https://music.163.com/song?id=1358215248",
+    "duration": "03:41",
+    "artists": [
+      { "name": "Mayra", "link": "https://music.163.com/artist?id=356389" },
+      {
+        "name": "Bruno Martini",
+        "link": "https://music.163.com/artist?id=12355546"
+      },
+      {
+        "name": "Di Fabianno",
+        "link": "https://music.163.com/artist?id=31932264"
+      }
+    ],
+    "album": {
+      "name": "L'amour toujours",
+      "link": "https://music.163.com/album?id=78480580"
+    }
+  },
+  {
+    "name": "Break Up",
+    "link": "https://music.163.com/song?id=1940233415",
+    "duration": "02:37",
+    "artists": [
+      {
+        "name": "twocolors",
+        "link": "https://music.163.com/artist?id=14177760"
+      },
+      {
+        "name": "Pascal Letoublon",
+        "link": "https://music.163.com/artist?id=12634325"
+      }
+    ],
+    "album": {
+      "name": "Break Up",
+      "link": "https://music.163.com/album?id=143798882"
+    }
+  },
+  {
+    "name": "In My Mind",
+    "link": "https://music.163.com/song?id=1858825654",
+    "duration": "02:55",
+    "artists": [
+      { "name": "Alok", "link": "https://music.163.com/artist?id=1170012" },
+      { "name": "John Legend", "link": "https://music.163.com/artist?id=35342" }
+    ],
+    "album": {
+      "name": "In My Mind",
+      "link": "https://music.163.com/album?id=129951814"
+    }
+  },
+  {
+    "name": "Breathe",
+    "link": "https://music.163.com/song?id=1805242688",
+    "duration": "02:55",
+    "artists": [
+      { "name": "Syn Cole", "link": "https://music.163.com/artist?id=854432" },
+      { "name": "kaspara", "link": "https://music.163.com/artist?id=46843741" }
+    ],
+    "album": {
+      "name": "Breathe",
+      "link": "https://music.163.com/album?id=120590401"
+    }
+  },
+  {
+    "name": "A Thousand Miles",
+    "link": "https://music.163.com/song?id=28828078",
+    "duration": "03:57",
+    "artists": [
+      { "name": "Josh Vietti", "link": "https://music.163.com/artist?id=37065" }
+    ],
+    "album": {
+      "name": "Best of Both Worlds",
+      "link": "https://music.163.com/album?id=2902215"
+    }
+  },
+  {
+    "name": "Leaving at Midnight",
+    "link": "https://music.163.com/song?id=1397152118",
+    "duration": "03:20",
+    "artists": [
+      { "name": "waykap", "link": "https://music.163.com/artist?id=30766185" },
+      { "name": "Emmi", "link": "https://music.163.com/artist?id=140606" }
+    ],
+    "album": {
+      "name": "Leaving at Midnight",
+      "link": "https://music.163.com/album?id=82439458"
+    }
+  },
+  {
+    "name": "Starseed",
+    "link": "https://music.163.com/song?id=1860676088",
+    "duration": "04:38",
+    "artists": [
+      { "name": "Feint", "link": "https://music.163.com/artist?id=93062" },
+      { "name": "Leah Rye", "link": "https://music.163.com/artist?id=15287264" }
+    ],
+    "album": {
+      "name": "Starseed",
+      "link": "https://music.163.com/album?id=130249900"
+    }
+  },
+  {
+    "name": "All I Want",
+    "link": "https://music.163.com/song?id=1935966967",
+    "duration": "03:03",
+    "artists": [
+      {
+        "name": "Dirty Palm",
+        "link": "https://music.163.com/artist?id=1155029"
+      }
+    ],
+    "album": {
+      "name": "All I Want",
+      "link": "https://music.163.com/album?id=143138552"
+    }
+  },
+  {
+    "name": "No Sleep (DubVision Remix)",
+    "link": "https://music.163.com/song?id=1413200430",
+    "duration": "03:59",
+    "artists": [
+      {
+        "name": "Martin Garrix",
+        "link": "https://music.163.com/artist?id=780003"
+      },
+      { "name": "Bonn", "link": "https://music.163.com/artist?id=31540163" },
+      { "name": "DubVision", "link": "https://music.163.com/artist?id=357950" }
+    ],
+    "album": {
+      "name": "2019 Remixed",
+      "link": "https://music.163.com/album?id=84626334"
+    }
+  },
+  {
+    "name": "Words",
+    "link": "https://music.163.com/song?id=1940227212",
+    "duration": "02:22",
+    "artists": [
+      { "name": "Alesso", "link": "https://music.163.com/artist?id=29251" },
+      {
+        "name": "Zara Larsson",
+        "link": "https://music.163.com/artist?id=816461"
+      }
+    ],
+    "album": {
+      "name": "Words",
+      "link": "https://music.163.com/album?id=143798221"
+    }
+  },
+  {
+    "name": "Disappearing Now",
+    "link": "https://music.163.com/song?id=1925006270",
+    "duration": "04:51",
+    "artists": [
+      { "name": "Nurko", "link": "https://music.163.com/artist?id=11991089" },
+      {
+        "name": "Chandler Leighton",
+        "link": "https://music.163.com/artist?id=33013223"
+      }
+    ],
+    "album": {
+      "name": "Arrival",
+      "link": "https://music.163.com/album?id=141244508"
+    }
+  },
+  {
+    "name": "Daylight",
+    "link": "https://music.163.com/song?id=1372188635",
+    "duration": "02:42",
+    "artists": [
+      { "name": "Seredris", "link": "https://music.163.com/artist?id=29051250" }
+    ],
+    "album": {
+      "name": "Daylight",
+      "link": "https://music.163.com/album?id=79797968"
+    }
+  },
+  {
+    "name": "Back 2 U",
+    "link": "https://music.163.com/song?id=413958520",
+    "duration": "04:36",
+    "artists": [
+      { "name": "Steve Aoki", "link": "https://music.163.com/artist?id=43608" },
+      { "name": "Boehm", "link": "https://music.163.com/artist?id=805212" },
+      {
+        "name": "Walk The Moon",
+        "link": "https://music.163.com/artist?id=105441"
+      }
+    ],
+    "album": {
+      "name": "Back 2 U",
+      "link": "https://music.163.com/album?id=34707364"
+    }
+  },
+  {
+    "name": "Red Line",
+    "link": "https://music.163.com/song?id=1382997618",
+    "duration": "04:25",
+    "artists": [
+      {
+        "name": "Anna Yvette",
+        "link": "https://music.163.com/artist?id=1150079"
+      }
+    ],
+    "album": {
+      "name": "Red Line",
+      "link": "https://music.163.com/album?id=80850786"
+    }
+  },
+  {
+    "name": "Run",
+    "link": "https://music.163.com/song?id=1873098677",
+    "duration": "02:48",
+    "artists": [
+      { "name": "OneRepublic", "link": "https://music.163.com/artist?id=98105" }
+    ],
+    "album": {
+      "name": "Human (Deluxe)",
+      "link": "https://music.163.com/album?id=132360237"
+    }
+  },
+  {
+    "name": "And The Winner Is - (最终的赢家)",
+    "link": "https://music.163.com/song?id=1383639",
+    "duration": "03:52",
+    "artists": [
+      {
+        "name": "Gérard Darmon",
+        "link": "https://music.163.com/artist?id=33899"
+      }
+    ],
+    "album": {
+      "name": "On S'Aime",
+      "link": "https://music.163.com/album?id=141875"
+    }
+  }
+]
