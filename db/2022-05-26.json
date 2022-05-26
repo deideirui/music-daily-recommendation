@@ -1,0 +1,491 @@
+[
+  {
+    "name": "Don't Leave Me Behind",
+    "link": "https://music.163.com/song?id=1935785512",
+    "duration": "03:30",
+    "artists": [
+      { "name": "Rentz", "link": "https://music.163.com/artist?id=12628381" },
+      {
+        "name": "Bad Reputation",
+        "link": "https://music.163.com/artist?id=13862187"
+      },
+      { "name": "SONAM", "link": "https://music.163.com/artist?id=46679398" }
+    ],
+    "album": {
+      "name": "Don't Leave Me Behind",
+      "link": "https://music.163.com/album?id=143098273"
+    }
+  },
+  {
+    "name": "Out Loud",
+    "link": "https://music.163.com/song?id=1816141129",
+    "duration": "03:44",
+    "artists": [
+      {
+        "name": "Fairlane",
+        "link": "https://music.163.com/artist?id=12665028"
+      },
+      { "name": "ROZES", "link": "https://music.163.com/artist?id=1147101" },
+      { "name": "JT Roach", "link": "https://music.163.com/artist?id=12935954" }
+    ],
+    "album": {
+      "name": "Out Loud",
+      "link": "https://music.163.com/album?id=122330340"
+    }
+  },
+  {
+    "name": "Aurora",
+    "link": "https://music.163.com/song?id=1895124709",
+    "duration": "03:20",
+    "artists": [
+      { "name": "Geoxor", "link": "https://music.163.com/artist?id=12006357" }
+    ],
+    "album": {
+      "name": "Heal Her",
+      "link": "https://music.163.com/album?id=136138876"
+    }
+  },
+  {
+    "name": "Summer Sounds Anthem, Vol. 7",
+    "link": "https://music.163.com/song?id=1836139084",
+    "duration": "03:31",
+    "artists": [
+      {
+        "name": "Summer Sounds",
+        "link": "https://music.163.com/artist?id=13814068"
+      }
+    ],
+    "album": {
+      "name": "Summer Sounds Anthem 7.0",
+      "link": "https://music.163.com/album?id=125815947"
+    }
+  },
+  {
+    "name": "From Blue To Green (Evolution Mix)",
+    "link": "https://music.163.com/song?id=1946671707",
+    "duration": "03:47",
+    "artists": [
+      { "name": "Chicane", "link": "https://music.163.com/artist?id=50971" }
+    ],
+    "album": {
+      "name": "From Blue To Green (Evolution Mix)",
+      "link": "https://music.163.com/album?id=144839320"
+    }
+  },
+  {
+    "name": "Animal",
+    "link": "https://music.163.com/song?id=1816407234",
+    "duration": "03:16",
+    "artists": [
+      { "name": "Vicetone", "link": "https://music.163.com/artist?id=747030" },
+      {
+        "name": "Jordan Powers",
+        "link": "https://music.163.com/artist?id=14025322"
+      },
+      {
+        "name": "Bekah Novi",
+        "link": "https://music.163.com/artist?id=35152087"
+      }
+    ],
+    "album": {
+      "name": "Legacy",
+      "link": "https://music.163.com/album?id=122372498"
+    }
+  },
+  {
+    "name": "Der letzte Mohikaner",
+    "link": "https://music.163.com/song?id=16313119",
+    "duration": "04:08",
+    "artists": [
+      { "name": "Leo Rojas", "link": "https://music.163.com/artist?id=38778" }
+    ],
+    "album": {
+      "name": "Spirit Of The Hawk",
+      "link": "https://music.163.com/album?id=1503835"
+    }
+  },
+  {
+    "name": "Old",
+    "link": "https://music.163.com/song?id=1486010733",
+    "duration": "03:32",
+    "artists": [
+      { "name": "Axero", "link": "https://music.163.com/artist?id=1035020" }
+    ],
+    "album": {
+      "name": "Back To My Roots",
+      "link": "https://music.163.com/album?id=96613549"
+    }
+  },
+  {
+    "name": "Free",
+    "link": "https://music.163.com/song?id=419250985",
+    "duration": "04:13",
+    "artists": [
+      { "name": "Kidswaste", "link": "https://music.163.com/artist?id=1116302" }
+    ],
+    "album": {
+      "name": "Free",
+      "link": "https://music.163.com/album?id=34754252"
+    }
+  },
+  {
+    "name": "Scared",
+    "link": "https://music.163.com/song?id=1862975508",
+    "duration": "02:50",
+    "artists": [
+      { "name": "Sabai", "link": "https://music.163.com/artist?id=32093901" },
+      {
+        "name": "Claire Ridgely",
+        "link": "https://music.163.com/artist?id=14935781"
+      }
+    ],
+    "album": {
+      "name": "Scared",
+      "link": "https://music.163.com/album?id=130684053"
+    }
+  },
+  {
+    "name": "Never Say Die",
+    "link": "https://music.163.com/song?id=1830612384",
+    "duration": "04:23",
+    "artists": [
+      { "name": "CHVRCHES", "link": "https://music.163.com/artist?id=694027" }
+    ],
+    "album": {
+      "name": "In Search Of Darkness",
+      "link": "https://music.163.com/album?id=124742214"
+    }
+  },
+  {
+    "name": "Good Time",
+    "link": "https://music.163.com/song?id=1894219336",
+    "duration": "03:23",
+    "artists": [
+      {
+        "name": "Fox Stevenson",
+        "link": "https://music.163.com/artist?id=794279"
+      }
+    ],
+    "album": {
+      "name": "Good Time",
+      "link": "https://music.163.com/album?id=136015404"
+    }
+  },
+  {
+    "name": "Fragments",
+    "link": "https://music.163.com/song?id=566443609",
+    "duration": "03:22",
+    "artists": [
+      { "name": "FEWZ", "link": "https://music.163.com/artist?id=12008133" }
+    ],
+    "album": {
+      "name": "Fragments",
+      "link": "https://music.163.com/album?id=39263156"
+    }
+  },
+  {
+    "name": "Second Time",
+    "link": "https://music.163.com/song?id=527779637",
+    "duration": "03:09",
+    "artists": [
+      {
+        "name": "Arman Cekin",
+        "link": "https://music.163.com/artist?id=1132987"
+      },
+      { "name": "J.O.Y", "link": "https://music.163.com/artist?id=29149294" }
+    ],
+    "album": {
+      "name": "Second Time",
+      "link": "https://music.163.com/album?id=37151561"
+    }
+  },
+  {
+    "name": "Always Home",
+    "link": "https://music.163.com/song?id=1844176195",
+    "duration": "03:00",
+    "artists": [
+      {
+        "name": "Axel Johansson",
+        "link": "https://music.163.com/artist?id=12872604"
+      },
+      {
+        "name": "Amanda Collis",
+        "link": "https://music.163.com/artist?id=30296250"
+      }
+    ],
+    "album": {
+      "name": "Always Home",
+      "link": "https://music.163.com/album?id=127239826"
+    }
+  },
+  {
+    "name": "Forever Young",
+    "link": "https://music.163.com/song?id=1296637878",
+    "duration": "02:47",
+    "artists": [
+      {
+        "name": "John De Sohn",
+        "link": "https://music.163.com/artist?id=290019"
+      },
+      { "name": "Liamoo", "link": "https://music.163.com/artist?id=12409114" }
+    ],
+    "album": {
+      "name": "Forever Young",
+      "link": "https://music.163.com/album?id=72021852"
+    }
+  },
+  {
+    "name": "Inside Out",
+    "link": "https://music.163.com/song?id=1489250314",
+    "duration": "03:06",
+    "artists": [
+      { "name": "Zedd", "link": "https://music.163.com/artist?id=46376" },
+      { "name": "Griff", "link": "https://music.163.com/artist?id=33054047" }
+    ],
+    "album": {
+      "name": "Inside Out",
+      "link": "https://music.163.com/album?id=97223921"
+    }
+  },
+  {
+    "name": "Los Angeles",
+    "link": "https://music.163.com/song?id=28999945",
+    "duration": "06:29",
+    "artists": [
+      {
+        "name": "The Midnight",
+        "link": "https://music.163.com/artist?id=12023492"
+      }
+    ],
+    "album": {
+      "name": "Days of Thunder",
+      "link": "https://music.163.com/album?id=2976060"
+    }
+  },
+  {
+    "name": "红衣少女",
+    "link": "https://music.163.com/song?id=1466449869",
+    "duration": "03:57",
+    "artists": [
+      { "name": "陆怡雯", "link": "https://music.163.com/artist?id=34283831" },
+      { "name": "白昼星BZX", "link": "https://music.163.com/artist?id=1185031" }
+    ],
+    "album": {
+      "name": "红衣少女",
+      "link": "https://music.163.com/album?id=93131438"
+    }
+  },
+  {
+    "name": "Close To The Sun",
+    "link": "https://music.163.com/song?id=1392141694",
+    "duration": "03:12",
+    "artists": [
+      {
+        "name": "TheFatRat",
+        "link": "https://music.163.com/artist?id=1019952"
+      },
+      { "name": "Anjulie", "link": "https://music.163.com/artist?id=46502" }
+    ],
+    "album": {
+      "name": "Close To the Sun",
+      "link": "https://music.163.com/album?id=81794674"
+    }
+  },
+  {
+    "name": "Love To Lose",
+    "link": "https://music.163.com/song?id=1821443649",
+    "duration": "02:57",
+    "artists": [
+      {
+        "name": "Sandro Cavazza",
+        "link": "https://music.163.com/artist?id=12323230"
+      },
+      {
+        "name": "Georgia Ku",
+        "link": "https://music.163.com/artist?id=14388929"
+      }
+    ],
+    "album": {
+      "name": "Love To Lose",
+      "link": "https://music.163.com/album?id=123272971"
+    }
+  },
+  {
+    "name": "Not Alone (feat. Player One)",
+    "link": "https://music.163.com/song?id=1380905159",
+    "duration": "05:16",
+    "artists": [
+      { "name": " Kalax ", "link": "https://music.163.com/artist?id=986263" },
+      {
+        "name": "Player One",
+        "link": "https://music.163.com/artist?id=30618218"
+      }
+    ],
+    "album": {
+      "name": "III",
+      "link": "https://music.163.com/album?id=80658988"
+    }
+  },
+  {
+    "name": "Sanctuary",
+    "link": "https://music.163.com/song?id=1458199729",
+    "duration": "03:41",
+    "artists": [
+      { "name": "Kaivon", "link": "https://music.163.com/artist?id=12251018" },
+      {
+        "name": "Sarah De Warren",
+        "link": "https://music.163.com/artist?id=13222653"
+      }
+    ],
+    "album": {
+      "name": "Sanctuary",
+      "link": "https://music.163.com/album?id=91530470"
+    }
+  },
+  {
+    "name": "Cocaïn",
+    "link": "https://music.163.com/song?id=491294231",
+    "duration": "02:54",
+    "artists": [
+      { "name": "Gostan", "link": "https://music.163.com/artist?id=1102319" },
+      {
+        "name": "Shaun Barker",
+        "link": "https://music.163.com/artist?id=13852532"
+      }
+    ],
+    "album": {
+      "name": "Cocaïn",
+      "link": "https://music.163.com/album?id=35757384"
+    }
+  },
+  {
+    "name": "星芒(Feat.洛天依)",
+    "link": "https://music.163.com/song?id=1378626275",
+    "duration": "04:30",
+    "artists": [
+      {
+        "name": "HawkLegend",
+        "link": "https://music.163.com/artist?id=12272947"
+      }
+    ],
+    "album": {
+      "name": "星芒(Feat.洛天依)",
+      "link": "https://music.163.com/album?id=80420008"
+    }
+  },
+  {
+    "name": "Rock the World",
+    "link": "https://music.163.com/song?id=503020028",
+    "duration": "03:10",
+    "artists": [
+      { "name": "The Script", "link": "https://music.163.com/artist?id=102028" }
+    ],
+    "album": {
+      "name": "Freedom Child",
+      "link": "https://music.163.com/album?id=35903909"
+    }
+  },
+  {
+    "name": "Emotion Sickness (w/ Wil Anderson, Parachute)",
+    "link": "https://music.163.com/song?id=1921187938",
+    "duration": "03:22",
+    "artists": [
+      {
+        "name": "Said The Sky",
+        "link": "https://music.163.com/artist?id=1026094"
+      },
+      {
+        "name": "Wil Anderson",
+        "link": "https://music.163.com/artist?id=33140236"
+      },
+      { "name": "Parachute", "link": "https://music.163.com/artist?id=41209" }
+    ],
+    "album": {
+      "name": "Sentiment",
+      "link": "https://music.163.com/album?id=140557266"
+    }
+  },
+  {
+    "name": "Start It Over (feat. KC)",
+    "link": "https://music.163.com/song?id=1941522379",
+    "duration": "03:15",
+    "artists": [
+      {
+        "name": "Last Heroes",
+        "link": "https://music.163.com/artist?id=11987034"
+      },
+      { "name": "Man Cub", "link": "https://music.163.com/artist?id=30816484" },
+      { "name": "KC", "link": "https://music.163.com/artist?id=46991798" }
+    ],
+    "album": {
+      "name": "Start It Over (feat. KC)",
+      "link": "https://music.163.com/album?id=143994162"
+    }
+  },
+  {
+    "name": "Row",
+    "link": "https://music.163.com/song?id=1859715016",
+    "duration": "05:02",
+    "artists": [{ "name": "Avidgcii", "link": "" }],
+    "album": {
+      "name": "AVĪCI（02） (Reboot)",
+      "link": "https://music.163.com/album?id=128474241"
+    }
+  },
+  {
+    "name": "Holding Out",
+    "link": "https://music.163.com/song?id=1872181833",
+    "duration": "03:48",
+    "artists": [
+      { "name": "Kazukii", "link": "https://music.163.com/artist?id=12054389" },
+      { "name": "Defsharp", "link": "https://music.163.com/artist?id=13494451" }
+    ],
+    "album": {
+      "name": "Holding Out",
+      "link": "https://music.163.com/album?id=132184896"
+    }
+  },
+  {
+    "name": "Black Magic",
+    "link": "https://music.163.com/song?id=1854367622",
+    "duration": "02:54",
+    "artists": [
+      { "name": "Jonasu", "link": "https://music.163.com/artist?id=28527997" }
+    ],
+    "album": {
+      "name": "Racing Songs",
+      "link": "https://music.163.com/album?id=129229949"
+    }
+  },
+  {
+    "name": "Love You Right",
+    "link": "https://music.163.com/song?id=1855311653",
+    "duration": "03:01",
+    "artists": [
+      {
+        "name": "Walk off the Earth",
+        "link": "https://music.163.com/artist?id=105493"
+      },
+      {
+        "name": "Lukas Graham",
+        "link": "https://music.163.com/artist?id=38797"
+      }
+    ],
+    "album": {
+      "name": "Love You Right",
+      "link": "https://music.163.com/album?id=129346005"
+    }
+  },
+  {
+    "name": "忘记时间 - (电视剧《仙剑奇侠传三》片尾曲)",
+    "link": "https://music.163.com/song?id=92791",
+    "duration": "04:32",
+    "artists": [
+      { "name": "胡歌", "link": "https://music.163.com/artist?id=3064" }
+    ],
+    "album": {
+      "name": "蓝光 新歌+精选",
+      "link": "https://music.163.com/album?id=9113"
+    }
+  }
+]
