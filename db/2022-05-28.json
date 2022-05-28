@@ -1,0 +1,530 @@
+[
+  {
+    "name": "Just Breathe",
+    "link": "https://music.163.com/song?id=545096993",
+    "duration": "02:07",
+    "artists": [
+      { "name": "X-Ray Dog", "link": "https://music.163.com/artist?id=105618" }
+    ],
+    "album": {
+      "name": "Seeing Eye",
+      "link": "https://music.163.com/album?id=37917604"
+    }
+  },
+  {
+    "name": "繁",
+    "link": "https://music.163.com/song?id=1841467123",
+    "duration": "03:25",
+    "artists": [
+      { "name": "白鸿", "link": "https://music.163.com/artist?id=31008744" },
+      {
+        "name": "AnderstandU",
+        "link": "https://music.163.com/artist?id=32541591"
+      }
+    ],
+    "album": {
+      "name": "繁",
+      "link": "https://music.163.com/album?id=126773477"
+    }
+  },
+  {
+    "name": "Rise - Epic Music",
+    "link": "https://music.163.com/song?id=1458322526",
+    "duration": "02:18",
+    "artists": [
+      {
+        "name": "John Dreamer",
+        "link": "https://music.163.com/artist?id=896177"
+      }
+    ],
+    "album": {
+      "name": "Rise - Epic Music",
+      "link": "https://music.163.com/album?id=91551526"
+    }
+  },
+  {
+    "name": "Starry Skies",
+    "link": "https://music.163.com/song?id=1836533888",
+    "duration": "02:45",
+    "artists": [
+      {
+        "name": "The Darkmaker",
+        "link": "https://music.163.com/artist?id=31492299"
+      }
+    ],
+    "album": {
+      "name": "Starry Skies",
+      "link": "https://music.163.com/album?id=125879765"
+    }
+  },
+  {
+    "name": "Illusionary Daytime - Elton Kit Remix",
+    "link": "https://music.163.com/song?id=1949947348",
+    "duration": "04:00",
+    "artists": [
+      { "name": "Shirfine", "link": "https://music.163.com/artist?id=189603" },
+      {
+        "name": "Elton Kit",
+        "link": "https://music.163.com/artist?id=31952835"
+      }
+    ],
+    "album": {
+      "name": "Illusionary Daytime (The Remixes) ",
+      "link": "https://music.163.com/album?id=145403487"
+    }
+  },
+  {
+    "name": "薄荷",
+    "link": "https://music.163.com/song?id=1846250974",
+    "duration": "03:44",
+    "artists": [
+      { "name": "杨世贸", "link": "https://music.163.com/artist?id=12571508" },
+      {
+        "name": "张天奕ZTYick",
+        "link": "https://music.163.com/artist?id=12304366"
+      },
+      { "name": "摄音记", "link": "https://music.163.com/artist?id=48126846" }
+    ],
+    "album": {
+      "name": "薄荷",
+      "link": "https://music.163.com/album?id=127676894"
+    }
+  },
+  {
+    "name": "Outlaws of Love",
+    "link": "https://music.163.com/song?id=16343629",
+    "duration": "03:51",
+    "artists": [
+      {
+        "name": "Adam Lambert",
+        "link": "https://music.163.com/artist?id=27604"
+      }
+    ],
+    "album": {
+      "name": "Trespassing",
+      "link": "https://music.163.com/album?id=1508239"
+    }
+  },
+  {
+    "name": "Free Fall",
+    "link": "https://music.163.com/song?id=1920420066",
+    "duration": "03:28",
+    "artists": [
+      {
+        "name": "Axel Johansson",
+        "link": "https://music.163.com/artist?id=12872604"
+      },
+      {
+        "name": "Konrad Mil",
+        "link": "https://music.163.com/artist?id=12976054"
+      },
+      { "name": "Heleen", "link": "https://music.163.com/artist?id=28866940" }
+    ],
+    "album": {
+      "name": "Free Fall",
+      "link": "https://music.163.com/album?id=140391551"
+    }
+  },
+  {
+    "name": "7 Years",
+    "link": "https://music.163.com/song?id=35848582",
+    "duration": "03:58",
+    "artists": [
+      {
+        "name": "Lukas Graham",
+        "link": "https://music.163.com/artist?id=38797"
+      }
+    ],
+    "album": {
+      "name": "7 Years",
+      "link": "https://music.163.com/album?id=3377110"
+    }
+  },
+  {
+    "name": "Can You Hear Me",
+    "link": "https://music.163.com/song?id=1329940346",
+    "duration": "03:37",
+    "artists": [
+      {
+        "name": "Dion Timmer",
+        "link": "https://music.163.com/artist?id=11998053"
+      },
+      {
+        "name": "Azuria Sky",
+        "link": "https://music.163.com/artist?id=12914272"
+      }
+    ],
+    "album": {
+      "name": "Very Extra",
+      "link": "https://music.163.com/album?id=74687130"
+    }
+  },
+  {
+    "name": "4U(IDIOIT Remix)",
+    "link": "https://music.163.com/song?id=474535448",
+    "duration": "03:20",
+    "artists": [
+      {
+        "name": "Eastrover",
+        "link": "https://music.163.com/artist?id=12227403"
+      },
+      { "name": "R7CKY", "link": "https://music.163.com/artist?id=1044054" }
+    ],
+    "album": {
+      "name": "IDIOIT/R7CKY - 4U(IDIOIT Remix)(Demo.)",
+      "link": "https://music.163.com/album?id=35427562"
+    }
+  },
+  {
+    "name": "tomorrow tonight",
+    "link": "https://music.163.com/song?id=1371714109",
+    "duration": "03:22",
+    "artists": [
+      { "name": "Loote", "link": "https://music.163.com/artist?id=12408152" }
+    ],
+    "album": {
+      "name": "lost",
+      "link": "https://music.163.com/album?id=79787129"
+    }
+  },
+  {
+    "name": "I Remember",
+    "link": "https://music.163.com/song?id=1832567070",
+    "duration": "03:29",
+    "artists": [
+      {
+        "name": "Justin Mylo",
+        "link": "https://music.163.com/artist?id=12082294"
+      },
+      { "name": "STRNGRS", "link": "https://music.163.com/artist?id=861398" }
+    ],
+    "album": {
+      "name": "I Remember",
+      "link": "https://music.163.com/album?id=125184992"
+    }
+  },
+  {
+    "name": "Something Strange",
+    "link": "https://music.163.com/song?id=1320858202",
+    "duration": "03:09",
+    "artists": [
+      { "name": "Vicetone", "link": "https://music.163.com/artist?id=747030" },
+      {
+        "name": "Haley Reinhart",
+        "link": "https://music.163.com/artist?id=60315"
+      }
+    ],
+    "album": {
+      "name": "Something Strange ",
+      "link": "https://music.163.com/album?id=74120450"
+    }
+  },
+  {
+    "name": "about you",
+    "link": "https://music.163.com/song?id=1927346236",
+    "duration": "02:47",
+    "artists": [
+      { "name": "NOTD", "link": "https://music.163.com/artist?id=12262306" },
+      { "name": "Nightly", "link": "https://music.163.com/artist?id=12107608" }
+    ],
+    "album": {
+      "name": "about you",
+      "link": "https://music.163.com/album?id=141674654"
+    }
+  },
+  {
+    "name": "Don't You Wanna Play?",
+    "link": "https://music.163.com/song?id=1459862653",
+    "duration": "02:18",
+    "artists": [
+      { "name": "SeeB", "link": "https://music.163.com/artist?id=1182169" },
+      {
+        "name": "Julie Bergan",
+        "link": "https://music.163.com/artist?id=896964"
+      }
+    ],
+    "album": {
+      "name": "Don't You Wanna Play?",
+      "link": "https://music.163.com/album?id=91874346"
+    }
+  },
+  {
+    "name": "Leaving (feat. A Cerulean State)",
+    "link": "https://music.163.com/song?id=1884326194",
+    "duration": "03:13",
+    "artists": [
+      { "name": "Kazukii", "link": "https://music.163.com/artist?id=12054389" },
+      {
+        "name": "A Cerulean State",
+        "link": "https://music.163.com/artist?id=1089170"
+      }
+    ],
+    "album": {
+      "name": "Leaving (feat. A Cerulean State)",
+      "link": "https://music.163.com/album?id=134283863"
+    }
+  },
+  {
+    "name": "Follow",
+    "link": "https://music.163.com/song?id=1456174313",
+    "duration": "02:58",
+    "artists": [
+      { "name": "Vigiland", "link": "https://music.163.com/artist?id=1046407" },
+      {
+        "name": "Father Viola",
+        "link": "https://music.163.com/artist?id=35782975"
+      }
+    ],
+    "album": {
+      "name": "Follow",
+      "link": "https://music.163.com/album?id=91098842"
+    }
+  },
+  {
+    "name": "How Many Lovers",
+    "link": "https://music.163.com/song?id=1850924920",
+    "duration": "03:14",
+    "artists": [{ "name": "Avficii", "link": "" }],
+    "album": {
+      "name": "AVĪCI（02） (Reboot)",
+      "link": "https://music.163.com/album?id=128474241"
+    }
+  },
+  {
+    "name": "The Days",
+    "link": "https://music.163.com/song?id=1925330756",
+    "duration": "02:36",
+    "artists": [
+      {
+        "name": "Sandro Cavazza",
+        "link": "https://music.163.com/artist?id=12323230"
+      }
+    ],
+    "album": {
+      "name": "The Days",
+      "link": "https://music.163.com/album?id=141311219"
+    }
+  },
+  {
+    "name": "Unconditional",
+    "link": "https://music.163.com/song?id=1845572370",
+    "duration": "02:15",
+    "artists": [
+      {
+        "name": "Dillon Francis",
+        "link": "https://music.163.com/artist?id=32514"
+      },
+      { "name": "220 KID", "link": "https://music.163.com/artist?id=29468983" },
+      {
+        "name": "Bryn Christopher",
+        "link": "https://music.163.com/artist?id=29508"
+      }
+    ],
+    "album": {
+      "name": "Unconditional",
+      "link": "https://music.163.com/album?id=127514101"
+    }
+  },
+  {
+    "name": "Closure",
+    "link": "https://music.163.com/song?id=1855313574",
+    "duration": "03:04",
+    "artists": [
+      {
+        "name": "Sarcastic Sounds",
+        "link": "https://music.163.com/artist?id=12928025"
+      },
+      { "name": "Birdy", "link": "https://music.163.com/artist?id=50403" },
+      { "name": "Mishaal", "link": "https://music.163.com/artist?id=27695873" }
+    ],
+    "album": {
+      "name": "Closure",
+      "link": "https://music.163.com/album?id=129345630"
+    }
+  },
+  {
+    "name": "Knowhow",
+    "link": "https://music.163.com/song?id=573927462",
+    "duration": "04:28",
+    "artists": [
+      {
+        "name": "Fox Stevenson",
+        "link": "https://music.163.com/artist?id=794279"
+      }
+    ],
+    "album": {
+      "name": "Knowhow (Liquicity Drum & Bass 2017)",
+      "link": "https://music.163.com/album?id=39738664"
+    }
+  },
+  {
+    "name": "End Of The Abyss",
+    "link": "https://music.163.com/song?id=1396261700",
+    "duration": "04:28",
+    "artists": [
+      {
+        "name": "Little End",
+        "link": "https://music.163.com/artist?id=12611210"
+      },
+      {
+        "name": "Pam_dinosaur",
+        "link": "https://music.163.com/artist?id=30960989"
+      }
+    ],
+    "album": {
+      "name": "End Of The Abyss (For メイドインアビス)",
+      "link": "https://music.163.com/album?id=82190228"
+    }
+  },
+  {
+    "name": "Home We'll Go",
+    "link": "https://music.163.com/song?id=32526090",
+    "duration": "03:09",
+    "artists": [
+      {
+        "name": "Walk off the Earth",
+        "link": "https://music.163.com/artist?id=105493"
+      }
+    ],
+    "album": {
+      "name": "Sing It All Away",
+      "link": "https://music.163.com/album?id=3162443"
+    }
+  },
+  {
+    "name": "Pathetic",
+    "link": "https://music.163.com/song?id=1305875823",
+    "duration": "03:42",
+    "artists": [
+      {
+        "name": "Ninajirachi",
+        "link": "https://music.163.com/artist?id=12279106"
+      },
+      { "name": "NaaH", "link": "https://music.163.com/artist?id=14468402" }
+    ],
+    "album": {
+      "name": "Pathetic",
+      "link": "https://music.163.com/album?id=72762114"
+    }
+  },
+  {
+    "name": "What Isn't Here",
+    "link": "https://music.163.com/song?id=1835332555",
+    "duration": "03:05",
+    "artists": [
+      { "name": "DVDDY", "link": "https://music.163.com/artist?id=30217254" },
+      { "name": "Caslow", "link": "https://music.163.com/artist?id=15109745" },
+      {
+        "name": "Kellin Quinn",
+        "link": "https://music.163.com/artist?id=14758815"
+      }
+    ],
+    "album": {
+      "name": "What Isn't Here",
+      "link": "https://music.163.com/album?id=125649653"
+    }
+  },
+  {
+    "name": "You Are The Reason",
+    "link": "https://music.163.com/song?id=1447792160",
+    "duration": "03:23",
+    "artists": [
+      {
+        "name": "Alex Porat",
+        "link": "https://music.163.com/artist?id=29794651"
+      }
+    ],
+    "album": {
+      "name": "Alexandra Porat",
+      "link": "https://music.163.com/album?id=89388612"
+    }
+  },
+  {
+    "name": "Without You (Starlyte Remix)",
+    "link": "https://music.163.com/song?id=573582374",
+    "duration": "04:08",
+    "artists": [
+      {
+        "name": "Starlyte",
+        "link": "https://music.163.com/artist?id=12006394"
+      },
+      { "name": "Avicii", "link": "https://music.163.com/artist?id=45236" },
+      {
+        "name": "Sandro Cavazza",
+        "link": "https://music.163.com/artist?id=12323230"
+      }
+    ],
+    "album": {
+      "name": "Without You (Starlyte Remix) ",
+      "link": "https://music.163.com/album?id=39720116"
+    }
+  },
+  {
+    "name": "Road So Far (ElementD Remix)",
+    "link": "https://music.163.com/song?id=1378048882",
+    "duration": "03:51",
+    "artists": [
+      {
+        "name": "ElementD",
+        "link": "https://music.163.com/artist?id=12192245"
+      },
+      { "name": "Urbanstep", "link": "https://music.163.com/artist?id=893364" },
+      {
+        "name": "Tytewriter",
+        "link": "https://music.163.com/artist?id=29001348"
+      }
+    ],
+    "album": {
+      "name": "Road So Far (ElementD Remix)",
+      "link": "https://music.163.com/album?id=80401569"
+    }
+  },
+  {
+    "name": "Titanic",
+    "link": "https://music.163.com/song?id=1808884710",
+    "duration": "03:43",
+    "artists": [
+      { "name": "Harlow", "link": "https://music.163.com/artist?id=94133" }
+    ],
+    "album": {
+      "name": "Titanic",
+      "link": "https://music.163.com/album?id=121113975"
+    }
+  },
+  {
+    "name": "Grapevine Valentine",
+    "link": "https://music.163.com/song?id=29556039",
+    "duration": "03:21",
+    "artists": [
+      { "name": "Kingsfoil", "link": "https://music.163.com/artist?id=63287" }
+    ],
+    "album": {
+      "name": "A Beating Heart Is a Bleeding Heart",
+      "link": "https://music.163.com/album?id=3041133"
+    }
+  },
+  {
+    "name": "Wildfire  (Piano and Violin Version)",
+    "link": "https://music.163.com/song?id=533368974",
+    "duration": "03:55",
+    "artists": [
+      { "name": "SYML", "link": "https://music.163.com/artist?id=12048173" }
+    ],
+    "album": {
+      "name": "Wildfire (Instrumentals)",
+      "link": "https://music.163.com/album?id=37410018"
+    }
+  },
+  {
+    "name": "Courage",
+    "link": "https://music.163.com/song?id=1360609863",
+    "duration": "04:19",
+    "artists": [
+      { "name": "P!nk", "link": "https://music.163.com/artist?id=70821" }
+    ],
+    "album": {
+      "name": "Hurts 2B Human",
+      "link": "https://music.163.com/album?id=78703765"
+    }
+  }
+]
