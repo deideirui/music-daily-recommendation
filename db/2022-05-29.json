@@ -1,0 +1,508 @@
+[
+  {
+    "name": "Flying",
+    "link": "https://music.163.com/song?id=1846207104",
+    "duration": "03:58",
+    "artists": [
+      { "name": "Cody Fry", "link": "https://music.163.com/artist?id=31078" }
+    ],
+    "album": {
+      "name": "Flying",
+      "link": "https://music.163.com/album?id=127665546"
+    }
+  },
+  {
+    "name": "Epiphany (From \"Soul\"/Score)",
+    "link": "https://music.163.com/song?id=1805265598",
+    "duration": "03:48",
+    "artists": [
+      {
+        "name": "Trent Reznor",
+        "link": "https://music.163.com/artist?id=44996"
+      },
+      {
+        "name": "Atticus Ross",
+        "link": "https://music.163.com/artist?id=28543"
+      }
+    ],
+    "album": {
+      "name": "Soul (Banda Sonora Original en Castellano)",
+      "link": "https://music.163.com/album?id=120600919"
+    }
+  },
+  {
+    "name": "Before The Dawn - (黎明黑夜)",
+    "link": "https://music.163.com/song?id=1472808363",
+    "duration": "03:31",
+    "artists": [
+      {
+        "name": "Andrew Kawczynski",
+        "link": "https://music.163.com/artist?id=31156383"
+      }
+    ],
+    "album": {
+      "name": "The Eight Hundred (Original Movie Soundtrack)",
+      "link": "https://music.163.com/album?id=94289631"
+    }
+  },
+  {
+    "name": "Flight",
+    "link": "https://music.163.com/song?id=477933453",
+    "duration": "04:30",
+    "artists": [
+      {
+        "name": "Jordan Critz",
+        "link": "https://music.163.com/artist?id=147520"
+      }
+    ],
+    "album": {
+      "name": "Kingdom",
+      "link": "https://music.163.com/album?id=35501111"
+    }
+  },
+  {
+    "name": "Offshore (Evolution Mix)",
+    "link": "https://music.163.com/song?id=1949896895",
+    "duration": "03:46",
+    "artists": [
+      { "name": "Chicane", "link": "https://music.163.com/artist?id=50971" }
+    ],
+    "album": {
+      "name": "Offshore (Evolution Mixes)",
+      "link": "https://music.163.com/album?id=145397135"
+    }
+  },
+  {
+    "name": "The Call",
+    "link": "https://music.163.com/song?id=1300580082",
+    "duration": "03:36",
+    "artists": [
+      {
+        "name": "Aash Mehta",
+        "link": "https://music.163.com/artist?id=1094364"
+      },
+      {
+        "name": "Andy Sandrick",
+        "link": "https://music.163.com/artist?id=28752787"
+      }
+    ],
+    "album": {
+      "name": "The Call",
+      "link": "https://music.163.com/album?id=72241372"
+    }
+  },
+  {
+    "name": "Can You Feel the Love Tonight",
+    "link": "https://music.163.com/song?id=1345338338",
+    "duration": "03:54",
+    "artists": [
+      {
+        "name": "Anson Seabra",
+        "link": "https://music.163.com/artist?id=14470054"
+      }
+    ],
+    "album": {
+      "name": "Can You Feel the Love Tonight",
+      "link": "https://music.163.com/album?id=75512611"
+    }
+  },
+  {
+    "name": "1-800-273-8255 (Piano Arrangement)",
+    "link": "https://music.163.com/song?id=1442184284",
+    "duration": "03:19",
+    "artists": [
+      {
+        "name": "Costantino Carrara",
+        "link": "https://music.163.com/artist?id=14207000"
+      }
+    ],
+    "album": {
+      "name": "1-800-273-8255 (Piano Arrangement)",
+      "link": "https://music.163.com/album?id=88290574"
+    }
+  },
+  {
+    "name": "Snowman",
+    "link": "https://music.163.com/song?id=517890065",
+    "duration": "02:45",
+    "artists": [
+      { "name": "Sia", "link": "https://music.163.com/artist?id=74625" }
+    ],
+    "album": {
+      "name": "Everyday Is Christmas",
+      "link": "https://music.163.com/album?id=36674586"
+    }
+  },
+  {
+    "name": "Deep Blue (feat. Monika Santucci)",
+    "link": "https://music.163.com/song?id=1381084455",
+    "duration": "03:21",
+    "artists": [
+      {
+        "name": "William Black",
+        "link": "https://music.163.com/artist?id=248957"
+      },
+      {
+        "name": "Monika Santucci",
+        "link": "https://music.163.com/artist?id=13989763"
+      }
+    ],
+    "album": {
+      "name": "Pages",
+      "link": "https://music.163.com/album?id=80685180"
+    }
+  },
+  {
+    "name": "This Is What It Feels Like",
+    "link": "https://music.163.com/song?id=28100509",
+    "duration": "03:24",
+    "artists": [
+      {
+        "name": "Armin van Buuren",
+        "link": "https://music.163.com/artist?id=27621"
+      },
+      {
+        "name": "Trevor Guthrie",
+        "link": "https://music.163.com/artist?id=860078"
+      }
+    ],
+    "album": {
+      "name": "Intense (The More Intense Edition) [Bonus Track Version]",
+      "link": "https://music.163.com/album?id=2727582"
+    }
+  },
+  {
+    "name": "Hold Your Breath",
+    "link": "https://music.163.com/song?id=1493464849",
+    "duration": "03:25",
+    "artists": [
+      { "name": "Axero", "link": "https://music.163.com/artist?id=1035020" }
+    ],
+    "album": {
+      "name": "Hold Your Breath",
+      "link": "https://music.163.com/album?id=97991807"
+    }
+  },
+  {
+    "name": "Chernobyl 2017",
+    "link": "https://music.163.com/song?id=1838439613",
+    "duration": "03:16",
+    "artists": [
+      {
+        "name": "Meland X Hauken",
+        "link": "https://music.163.com/artist?id=12047913"
+      },
+      {
+        "name": "Benjamin Beats",
+        "link": "https://music.163.com/artist?id=11981022"
+      }
+    ],
+    "album": {
+      "name": "Yarirafi",
+      "link": "https://music.163.com/album?id=126190772"
+    }
+  },
+  {
+    "name": "Spark (with Dia Frampton)",
+    "link": "https://music.163.com/song?id=1843875721",
+    "duration": "03:26",
+    "artists": [
+      { "name": "Blanke", "link": "https://music.163.com/artist?id=13369420" },
+      {
+        "name": "Dia Frampton",
+        "link": "https://music.163.com/artist?id=55454"
+      }
+    ],
+    "album": {
+      "name": "Spark (with Dia Frampton)",
+      "link": "https://music.163.com/album?id=127174937"
+    }
+  },
+  {
+    "name": "Heroes",
+    "link": "https://music.163.com/song?id=1858063088",
+    "duration": "02:38",
+    "artists": [
+      { "name": "Klaas", "link": "https://music.163.com/artist?id=106210" },
+      {
+        "name": "Emmie Lee",
+        "link": "https://music.163.com/artist?id=35798854"
+      }
+    ],
+    "album": {
+      "name": "Heroes",
+      "link": "https://music.163.com/album?id=129842483"
+    }
+  },
+  {
+    "name": "One Life",
+    "link": "https://music.163.com/song?id=1393561591",
+    "duration": "03:24",
+    "artists": [
+      { "name": "Mike Perry", "link": "https://music.163.com/artist?id=195021" }
+    ],
+    "album": {
+      "name": "One Life",
+      "link": "https://music.163.com/album?id=81975161"
+    }
+  },
+  {
+    "name": "I Leave Again",
+    "link": "https://music.163.com/song?id=1449185043",
+    "duration": "03:58",
+    "artists": [
+      {
+        "name": "Petit Biscuit",
+        "link": "https://music.163.com/artist?id=1060063"
+      },
+      { "name": "Shallou", "link": "https://music.163.com/artist?id=12029377" }
+    ],
+    "album": {
+      "name": "I Leave Again",
+      "link": "https://music.163.com/album?id=92897131"
+    }
+  },
+  {
+    "name": "Drown (Nicky Romero Remix)",
+    "link": "https://music.163.com/song?id=1434470644",
+    "duration": "03:07",
+    "artists": [
+      {
+        "name": "Martin Garrix",
+        "link": "https://music.163.com/artist?id=780003"
+      },
+      {
+        "name": "Clinton Kane",
+        "link": "https://music.163.com/artist?id=32796183"
+      },
+      {
+        "name": "Nicky Romero",
+        "link": "https://music.163.com/artist?id=195142"
+      }
+    ],
+    "album": {
+      "name": "Drown (Nicky Romero Remix)",
+      "link": "https://music.163.com/album?id=86886536"
+    }
+  },
+  {
+    "name": "Plastic Panorama",
+    "link": "https://music.163.com/song?id=26612933",
+    "duration": "03:25",
+    "artists": [
+      {
+        "name": "Postiljonen",
+        "link": "https://music.163.com/artist?id=725356"
+      }
+    ],
+    "album": {
+      "name": "Skyer",
+      "link": "https://music.163.com/album?id=2535635"
+    }
+  },
+  {
+    "name": "Until We Leave the Ground",
+    "link": "https://music.163.com/song?id=1813713735",
+    "duration": "03:00",
+    "artists": [
+      {
+        "name": "Emmit Fenn",
+        "link": "https://music.163.com/artist?id=12006313"
+      }
+    ],
+    "album": {
+      "name": "Until We Leave the Ground",
+      "link": "https://music.163.com/album?id=121922043"
+    }
+  },
+  {
+    "name": "in a different light",
+    "link": "https://music.163.com/song?id=1431915032",
+    "duration": "02:53",
+    "artists": [
+      {
+        "name": "Tim Schaufert",
+        "link": "https://music.163.com/artist?id=12355110"
+      },
+      { "name": "Trove", "link": "https://music.163.com/artist?id=12390270" }
+    ],
+    "album": {
+      "name": "in a different light",
+      "link": "https://music.163.com/album?id=86608818"
+    }
+  },
+  {
+    "name": "Call My Number",
+    "link": "https://music.163.com/song?id=1378839359",
+    "duration": "02:57",
+    "artists": [
+      { "name": "Sickrate", "link": "https://music.163.com/artist?id=32795333" }
+    ],
+    "album": {
+      "name": "Call My Number",
+      "link": "https://music.163.com/album?id=80489936"
+    }
+  },
+  {
+    "name": "Stacy",
+    "link": "https://music.163.com/song?id=1384361802",
+    "duration": "02:48",
+    "artists": [
+      {
+        "name": "Quinn XCII",
+        "link": "https://music.163.com/artist?id=12043047"
+      }
+    ],
+    "album": {
+      "name": "Stacy (Original + Acoustic)",
+      "link": "https://music.163.com/album?id=80963866"
+    }
+  },
+  {
+    "name": "Faith",
+    "link": "https://music.163.com/song?id=1421446518",
+    "duration": "04:10",
+    "artists": [
+      { "name": "Nurko", "link": "https://music.163.com/artist?id=11991089" },
+      {
+        "name": "Dia Frampton",
+        "link": "https://music.163.com/artist?id=55454"
+      }
+    ],
+    "album": {
+      "name": "Faith",
+      "link": "https://music.163.com/album?id=85540268"
+    }
+  },
+  {
+    "name": "Someday",
+    "link": "https://music.163.com/song?id=1873098678",
+    "duration": "03:07",
+    "artists": [
+      { "name": "OneRepublic", "link": "https://music.163.com/artist?id=98105" }
+    ],
+    "album": {
+      "name": "Human (Deluxe)",
+      "link": "https://music.163.com/album?id=132360237"
+    }
+  },
+  {
+    "name": "When the End Comes",
+    "link": "https://music.163.com/song?id=546715225",
+    "duration": "05:54",
+    "artists": [
+      {
+        "name": "Andrew Belle",
+        "link": "https://music.163.com/artist?id=28562"
+      }
+    ],
+    "album": {
+      "name": "Dive Deep",
+      "link": "https://music.163.com/album?id=37873933"
+    }
+  },
+  {
+    "name": "SOS",
+    "link": "https://music.163.com/song?id=1870469704",
+    "duration": "02:37",
+    "artists": [
+      { "name": "Avicii", "link": "https://music.163.com/artist?id=45236" },
+      { "name": "Aloe Blacc", "link": "https://music.163.com/artist?id=47425" }
+    ],
+    "album": {
+      "name": "Tropical Summer",
+      "link": "https://music.163.com/album?id=131924556"
+    }
+  },
+  {
+    "name": "Flashlight (From \"Pitch Perfect 2\" Soundtrack) - (电影《完美音调2》插曲)",
+    "link": "https://music.163.com/song?id=31563546",
+    "duration": "03:29",
+    "artists": [
+      { "name": "Jessie J", "link": "https://music.163.com/artist?id=62662" }
+    ],
+    "album": {
+      "name": "Pitch Perfect 2 (Original Motion Picture Soundtrack)",
+      "link": "https://music.163.com/album?id=3127095"
+    }
+  },
+  {
+    "name": "Team",
+    "link": "https://music.163.com/song?id=27725002",
+    "duration": "03:13",
+    "artists": [
+      { "name": "Lorde", "link": "https://music.163.com/artist?id=784001" }
+    ],
+    "album": {
+      "name": "Team",
+      "link": "https://music.163.com/album?id=2665003"
+    }
+  },
+  {
+    "name": "All I Want Is Love",
+    "link": "https://music.163.com/song?id=36024887",
+    "duration": "03:11",
+    "artists": [
+      {
+        "name": "A Great Big World",
+        "link": "https://music.163.com/artist?id=843001"
+      }
+    ],
+    "album": {
+      "name": "When the Morning Comes",
+      "link": "https://music.163.com/album?id=3378069"
+    }
+  },
+  {
+    "name": "Stand By You",
+    "link": "https://music.163.com/song?id=34614275",
+    "duration": "03:38",
+    "artists": [
+      {
+        "name": "Rachel Platten",
+        "link": "https://music.163.com/artist?id=74518"
+      }
+    ],
+    "album": {
+      "name": "Stand By You",
+      "link": "https://music.163.com/album?id=3291038"
+    }
+  },
+  {
+    "name": "1000 Nights",
+    "link": "https://music.163.com/song?id=428172908",
+    "duration": "04:00",
+    "artists": [
+      { "name": "Frenship", "link": "https://music.163.com/artist?id=12031244" }
+    ],
+    "album": {
+      "name": "Truce",
+      "link": "https://music.163.com/album?id=34854441"
+    }
+  },
+  {
+    "name": "犯贱",
+    "link": "https://music.163.com/song?id=174960",
+    "duration": "03:47",
+    "artists": [
+      { "name": "徐良", "link": "https://music.163.com/artist?id=5929" },
+      { "name": "阿悄", "link": "https://music.163.com/artist?id=7100" }
+    ],
+    "album": { "name": "犯贱", "link": "https://music.163.com/album?id=17598" }
+  },
+  {
+    "name": "Memories",
+    "link": "https://music.163.com/song?id=426027093",
+    "duration": "06:19",
+    "artists": [
+      {
+        "name": "The Midnight",
+        "link": "https://music.163.com/artist?id=12023492"
+      }
+    ],
+    "album": {
+      "name": "Endless Summer",
+      "link": "https://music.163.com/album?id=34826028"
+    }
+  }
+]
