@@ -1,0 +1,476 @@
+[
+  {
+    "name": "Call of Silence (Eye-Water)",
+    "link": "https://music.163.com/song?id=1826307500",
+    "duration": "02:44",
+    "artists": [
+      {
+        "name": "Samuel Kim",
+        "link": "https://music.163.com/artist?id=30875934"
+      }
+    ],
+    "album": {
+      "name": "Attack on Titan: Final Season Tribute",
+      "link": "https://music.163.com/album?id=124155791"
+    }
+  },
+  {
+    "name": "Flemington",
+    "link": "https://music.163.com/song?id=1814178805",
+    "duration": "03:52",
+    "artists": [
+      { "name": "Tom Day", "link": "https://music.163.com/artist?id=103812" }
+    ],
+    "album": {
+      "name": "Selected Works",
+      "link": "https://music.163.com/album?id=122010595"
+    }
+  },
+  {
+    "name": "Follow Me",
+    "link": "https://music.163.com/song?id=1440751063",
+    "duration": "03:37",
+    "artists": [
+      { "name": "Warren", "link": "https://music.163.com/artist?id=34379664" },
+      {
+        "name": "Revealed Recordings",
+        "link": "https://music.163.com/artist?id=28753573"
+      }
+    ],
+    "album": {
+      "name": "Follow Me",
+      "link": "https://music.163.com/album?id=88039696"
+    }
+  },
+  {
+    "name": "Mirror Masa (I Think I'm Fallin' for Ya)",
+    "link": "https://music.163.com/song?id=1805490208",
+    "duration": "02:18",
+    "artists": [
+      { "name": "DATHAN", "link": "https://music.163.com/artist?id=1132077" }
+    ],
+    "album": {
+      "name": "Mirror Masa (I Think I'm Fallin' for Ya)",
+      "link": "https://music.163.com/album?id=120633387"
+    }
+  },
+  {
+    "name": "From Blue To Green",
+    "link": "https://music.163.com/song?id=1946671081",
+    "duration": "02:40",
+    "artists": [
+      { "name": "Chicane", "link": "https://music.163.com/artist?id=50971" }
+    ],
+    "album": {
+      "name": "From Blue To Green (Evolution Mix)",
+      "link": "https://music.163.com/album?id=144839320"
+    }
+  },
+  {
+    "name": "Go Solo",
+    "link": "https://music.163.com/song?id=1401522756",
+    "duration": "03:12",
+    "artists": [
+      { "name": "Zwette", "link": "https://music.163.com/artist?id=1050358" },
+      {
+        "name": "Tom Rosenthal",
+        "link": "https://music.163.com/artist?id=1019769"
+      }
+    ],
+    "album": {
+      "name": "Go Solo",
+      "link": "https://music.163.com/album?id=83053052"
+    }
+  },
+  {
+    "name": "Sweet Dreams (Mixed)",
+    "link": "https://music.163.com/song?id=1334248867",
+    "duration": "03:05",
+    "artists": [
+      {
+        "name": "Breathe Carolina",
+        "link": "https://music.163.com/artist?id=88214"
+      },
+      { "name": "Dropgun", "link": "https://music.163.com/artist?id=972015" },
+      {
+        "name": "Kaleena Zanders",
+        "link": "https://music.163.com/artist?id=13368664"
+      }
+    ],
+    "album": {
+      "name": "Best Of 2018 Year Mix, Pt. 1",
+      "link": "https://music.163.com/album?id=74914611"
+    }
+  },
+  {
+    "name": "Our Symphony",
+    "link": "https://music.163.com/song?id=1443011948",
+    "duration": "03:15",
+    "artists": [
+      { "name": "Manse", "link": "https://music.163.com/artist?id=855409" },
+      {
+        "name": "WildVibes",
+        "link": "https://music.163.com/artist?id=1181751"
+      },
+      { "name": "Vories", "link": "https://music.163.com/artist?id=31063065" }
+    ],
+    "album": {
+      "name": "Our Symphony",
+      "link": "https://music.163.com/album?id=88461186"
+    }
+  },
+  {
+    "name": "Driftwood",
+    "link": "https://music.163.com/song?id=2116549",
+    "duration": "04:24",
+    "artists": [
+      { "name": "7AND5", "link": "https://music.163.com/artist?id=46465" }
+    ],
+    "album": {
+      "name": "Hope, Destiny, And Choice",
+      "link": "https://music.163.com/album?id=213202"
+    }
+  },
+  {
+    "name": "The Father's Heart",
+    "link": "https://music.163.com/song?id=28718818",
+    "duration": "03:16",
+    "artists": [
+      {
+        "name": "Tony Anderson",
+        "link": "https://music.163.com/artist?id=79757"
+      }
+    ],
+    "album": {
+      "name": "Movements of the Heart",
+      "link": "https://music.163.com/album?id=2866583"
+    }
+  },
+  {
+    "name": "River",
+    "link": "https://music.163.com/song?id=1862232362",
+    "duration": "04:00",
+    "artists": [
+      {
+        "name": "Andrew Rayel",
+        "link": "https://music.163.com/artist?id=191512"
+      },
+      { "name": "AIDYL", "link": "https://music.163.com/artist?id=30999073" }
+    ],
+    "album": {
+      "name": "River",
+      "link": "https://music.163.com/album?id=130540622"
+    }
+  },
+  {
+    "name": "No Rest",
+    "link": "https://music.163.com/song?id=1805023927",
+    "duration": "03:29",
+    "artists": [
+      { "name": "Vicetone", "link": "https://music.163.com/artist?id=747030" }
+    ],
+    "album": {
+      "name": "No Rest",
+      "link": "https://music.163.com/album?id=120550331"
+    }
+  },
+  {
+    "name": "Italia e voi（Orginal Mix） - (双枪说)",
+    "link": "https://music.163.com/song?id=1493816591",
+    "duration": "02:58",
+    "artists": [
+      { "name": "HSHK", "link": "https://music.163.com/artist?id=36337566" },
+      { "name": "贰皮", "link": "https://music.163.com/artist?id=36233434" },
+      { "name": "VodKe", "link": "https://music.163.com/artist?id=47607557" },
+      { "name": "Pnan", "link": "https://music.163.com/artist?id=46717748" }
+    ],
+    "album": {
+      "name": "Italia e voi",
+      "link": "https://music.163.com/album?id=97610102"
+    }
+  },
+  {
+    "name": "Kids in Love",
+    "link": "https://music.163.com/song?id=1838965928",
+    "duration": "02:48",
+    "artists": [
+      { "name": "DEAMN", "link": "https://music.163.com/artist?id=12047335" }
+    ],
+    "album": {
+      "name": "Kids in Love",
+      "link": "https://music.163.com/album?id=126291032"
+    }
+  },
+  {
+    "name": "Clean Eyes (The Midnight Remix)",
+    "link": "https://music.163.com/song?id=1344353664",
+    "duration": "03:52",
+    "artists": [
+      { "name": "SYML", "link": "https://music.163.com/artist?id=12048173" },
+      {
+        "name": "The Midnight",
+        "link": "https://music.163.com/artist?id=12023492"
+      }
+    ],
+    "album": {
+      "name": "Clean Eyes (The Midnight Remix)",
+      "link": "https://music.163.com/album?id=75465824"
+    }
+  },
+  {
+    "name": "Dogs",
+    "link": "https://music.163.com/song?id=26469012",
+    "duration": "05:32",
+    "artists": [
+      { "name": "HVOB", "link": "https://music.163.com/artist?id=688969" }
+    ],
+    "album": {
+      "name": "HVOB",
+      "link": "https://music.163.com/album?id=2504849"
+    }
+  },
+  {
+    "name": "The Best Thing",
+    "link": "https://music.163.com/song?id=29304742",
+    "duration": "03:53",
+    "artists": [
+      {
+        "name": "Electric Youth",
+        "link": "https://music.163.com/artist?id=658235"
+      }
+    ],
+    "album": {
+      "name": "Innerworld",
+      "link": "https://music.163.com/album?id=2998213"
+    }
+  },
+  {
+    "name": "Broken Hearts",
+    "link": "https://music.163.com/song?id=1399335951",
+    "duration": "03:09",
+    "artists": [
+      {
+        "name": "Justin Caruso",
+        "link": "https://music.163.com/artist?id=1193462"
+      },
+      { "name": "Hilda", "link": "https://music.163.com/artist?id=60265" }
+    ],
+    "album": {
+      "name": "Broken Hearts",
+      "link": "https://music.163.com/album?id=82767855"
+    }
+  },
+  {
+    "name": "Into You (Matvey Emerson Extended Remix)",
+    "link": "https://music.163.com/song?id=1449935589",
+    "duration": "04:35",
+    "artists": [
+      { "name": "DubVision", "link": "https://music.163.com/artist?id=357950" }
+    ],
+    "album": {
+      "name": "Into You (Matvey Emerson Remix)",
+      "link": "https://music.163.com/album?id=89779143"
+    }
+  },
+  {
+    "name": "Umbrella",
+    "link": "https://music.163.com/song?id=1832747968",
+    "duration": "03:54",
+    "artists": [
+      {
+        "name": "Paul Wallen",
+        "link": "https://music.163.com/artist?id=13733740"
+      },
+      {
+        "name": "Gigi Nally",
+        "link": "https://music.163.com/artist?id=47266491"
+      }
+    ],
+    "album": {
+      "name": "Umbrella",
+      "link": "https://music.163.com/album?id=125210430"
+    }
+  },
+  {
+    "name": "Do It",
+    "link": "https://music.163.com/song?id=513360706",
+    "duration": "03:42",
+    "artists": [
+      { "name": "Gjan", "link": "https://music.163.com/artist?id=851014" }
+    ],
+    "album": {
+      "name": "Do It",
+      "link": "https://music.163.com/album?id=36579122"
+    }
+  },
+  {
+    "name": "Goodbye (feat. Clive Farrington)",
+    "link": "https://music.163.com/song?id=411907932",
+    "duration": "04:03",
+    "artists": [
+      { "name": "FM-84", "link": "https://music.163.com/artist?id=12046467" },
+      {
+        "name": "Clive Farrington",
+        "link": "https://music.163.com/artist?id=12976118"
+      }
+    ],
+    "album": {
+      "name": "Atlas",
+      "link": "https://music.163.com/album?id=34686652"
+    }
+  },
+  {
+    "name": "Miss(feat.J1nX)",
+    "link": "https://music.163.com/song?id=1413432525",
+    "duration": "03:31",
+    "artists": [
+      { "name": "MrxUED", "link": "https://music.163.com/artist?id=28391246" },
+      {
+        "name": "Janessa臻",
+        "link": "https://music.163.com/artist?id=34248667"
+      }
+    ],
+    "album": {
+      "name": "Miss(feat. J1nX)",
+      "link": "https://music.163.com/album?id=84633953"
+    }
+  },
+  {
+    "name": "Renaissance",
+    "link": "https://music.163.com/song?id=39324743",
+    "duration": "02:57",
+    "artists": [
+      {
+        "name": "Steve James",
+        "link": "https://music.163.com/artist?id=43322"
+      },
+      { "name": "Clairity", "link": "https://music.163.com/artist?id=1060082" }
+    ],
+    "album": {
+      "name": "Renaissance",
+      "link": "https://music.163.com/album?id=3426877"
+    }
+  },
+  {
+    "name": "Anatomy",
+    "link": "https://music.163.com/song?id=1838081036",
+    "duration": "03:12",
+    "artists": [
+      { "name": "DJRUSTAM", "link": "https://music.163.com/artist?id=36648325" }
+    ],
+    "album": {
+      "name": "Anatomy",
+      "link": "https://music.163.com/album?id=126144450"
+    }
+  },
+  {
+    "name": "What Other People Say",
+    "link": "https://music.163.com/song?id=1813007256",
+    "duration": "03:14",
+    "artists": [
+      {
+        "name": "Sam Fischer",
+        "link": "https://music.163.com/artist?id=13080112"
+      },
+      { "name": "Demi Lovato", "link": "https://music.163.com/artist?id=53236" }
+    ],
+    "album": {
+      "name": "What Other People Say",
+      "link": "https://music.163.com/album?id=121805186"
+    }
+  },
+  {
+    "name": "ANGETENAR$",
+    "link": "https://music.163.com/song?id=1902037469",
+    "duration": "03:27",
+    "artists": [
+      { "name": "tststst_", "link": "https://music.163.com/artist?id=50262200" }
+    ],
+    "album": {
+      "name": "TS7",
+      "link": "https://music.163.com/album?id=136671979"
+    }
+  },
+  {
+    "name": "Days of Thunder",
+    "link": "https://music.163.com/song?id=28999943",
+    "duration": "05:24",
+    "artists": [
+      {
+        "name": "The Midnight",
+        "link": "https://music.163.com/artist?id=31155526"
+      }
+    ],
+    "album": {
+      "name": "Days of Thunder",
+      "link": "https://music.163.com/album?id=2976060"
+    }
+  },
+  {
+    "name": "Melody (Original mix)",
+    "link": "https://music.163.com/song?id=36921285",
+    "duration": "03:47",
+    "artists": [
+      { "name": "Ash", "link": "https://music.163.com/artist?id=840746" }
+    ],
+    "album": {
+      "name": "Melody (Original Mix) ",
+      "link": "https://music.163.com/album?id=3410148"
+    }
+  },
+  {
+    "name": "Nu",
+    "link": "https://music.163.com/song?id=33211565",
+    "duration": "04:04",
+    "artists": [
+      { "name": "DJ Project", "link": "https://music.163.com/artist?id=91079" }
+    ],
+    "album": {
+      "name": "Best Of",
+      "link": "https://music.163.com/album?id=3190170"
+    }
+  },
+  {
+    "name": "怎么还不爱 (雀跃狂爱版) - (电视剧《料理高校生》片尾曲)",
+    "link": "https://music.163.com/song?id=35283509",
+    "duration": "04:07",
+    "artists": [
+      { "name": "杨凯琳", "link": "https://music.163.com/artist?id=1137021" },
+      { "name": "余枫", "link": "https://music.163.com/artist?id=1024313" }
+    ],
+    "album": {
+      "name": "一直微笑",
+      "link": "https://music.163.com/album?id=3308945"
+    }
+  },
+  {
+    "name": "Somebody That I Used to Know (Remix)",
+    "link": "https://music.163.com/song?id=1819828675",
+    "duration": "04:22",
+    "artists": [
+      { "name": "Farizki", "link": "https://music.163.com/artist?id=46319458" },
+      { "name": "Orfeo", "link": "https://music.163.com/artist?id=419437" }
+    ],
+    "album": {
+      "name": "Somebody That I Used to Know (Remix)",
+      "link": "https://music.163.com/album?id=122976525"
+    }
+  },
+  {
+    "name": "Tapage nocturne",
+    "link": "https://music.163.com/song?id=35785564",
+    "duration": "03:11",
+    "artists": [
+      {
+        "name": "Trackstorm",
+        "link": "https://music.163.com/artist?id=12751861"
+      },
+      { "name": "Black M", "link": "https://music.163.com/artist?id=905341" },
+      { "name": "Shaggy", "link": "https://music.163.com/artist?id=42980" }
+    ],
+    "album": {
+      "name": "TPMZ",
+      "link": "https://music.163.com/album?id=3371038"
+    }
+  }
+]
