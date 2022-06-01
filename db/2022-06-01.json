@@ -1,0 +1,512 @@
+[
+  {
+    "name": "World of Dreams",
+    "link": "https://music.163.com/song?id=28458427",
+    "duration": "02:47",
+    "artists": [
+      {
+        "name": "Future World Music",
+        "link": "https://music.163.com/artist?id=33430"
+      }
+    ],
+    "album": {
+      "name": "A Hero Will Rise",
+      "link": "https://music.163.com/album?id=2802039"
+    }
+  },
+  {
+    "name": "Always Present",
+    "link": "https://music.163.com/song?id=1333556784",
+    "duration": "04:16",
+    "artists": [
+      {
+        "name": "Roberto Cacciapaglia",
+        "link": "https://music.163.com/artist?id=42047"
+      },
+      {
+        "name": "Royal Philharmonic Orchestra",
+        "link": "https://music.163.com/artist?id=99412"
+      },
+      {
+        "name": "Michele Fedrigotti",
+        "link": "https://music.163.com/artist?id=12545360"
+      }
+    ],
+    "album": {
+      "name": "Diapason",
+      "link": "https://music.163.com/album?id=74890917"
+    }
+  },
+  {
+    "name": "Angel Falls",
+    "link": "https://music.163.com/song?id=1877751040",
+    "duration": "05:11",
+    "artists": [
+      {
+        "name": "I Virtuosi Italiani",
+        "link": "https://music.163.com/artist?id=12745967"
+      },
+      {
+        "name": "Roberto Cacciapaglia",
+        "link": "https://music.163.com/artist?id=42047"
+      }
+    ],
+    "album": {
+      "name": "Angel Falls",
+      "link": "https://music.163.com/album?id=133149540"
+    }
+  },
+  {
+    "name": "Watching the Sunset (AKI Amano Remix)",
+    "link": "https://music.163.com/song?id=27823660",
+    "duration": "07:33",
+    "artists": [
+      {
+        "name": "Roald Velden",
+        "link": "https://music.163.com/artist?id=178498"
+      }
+    ],
+    "album": {
+      "name": "Watching the Sunset",
+      "link": "https://music.163.com/album?id=2683123"
+    }
+  },
+  {
+    "name": "U & Me (Lemaitre Remix)",
+    "link": "https://music.163.com/song?id=1950451406",
+    "duration": "03:09",
+    "artists": [
+      { "name": "ILLENIUM", "link": "https://music.163.com/artist?id=1050518" },
+      {
+        "name": "Sasha Alex Sloan",
+        "link": "https://music.163.com/artist?id=12646102"
+      },
+      { "name": "Lemaitre", "link": "https://music.163.com/artist?id=52828066" }
+    ],
+    "album": {
+      "name": "Fallen Embers (Remixes)",
+      "link": "https://music.163.com/album?id=145485299"
+    }
+  },
+  {
+    "name": "Clearest Blue (Gryffin Remix)",
+    "link": "https://music.163.com/song?id=411921067",
+    "duration": "04:19",
+    "artists": [
+      { "name": "Gryffin", "link": "https://music.163.com/artist?id=1181504" },
+      { "name": "CHVRCHES", "link": "https://music.163.com/artist?id=694027" }
+    ],
+    "album": {
+      "name": "Clearest Blue (Gryffin Remix)",
+      "link": "https://music.163.com/album?id=34686379"
+    }
+  },
+  {
+    "name": "我看过",
+    "link": "https://music.163.com/song?id=1459935719",
+    "duration": "02:44",
+    "artists": [
+      { "name": "周星星", "link": "https://music.163.com/artist?id=12157330" }
+    ],
+    "album": {
+      "name": "我看过",
+      "link": "https://music.163.com/album?id=91887795"
+    }
+  },
+  {
+    "name": "Leviathan",
+    "link": "https://music.163.com/song?id=1458192814",
+    "duration": "02:22",
+    "artists": [
+      {
+        "name": "James Everingham",
+        "link": "https://music.163.com/artist?id=1178307"
+      }
+    ],
+    "album": {
+      "name": "Leviathan",
+      "link": "https://music.163.com/album?id=91528043"
+    }
+  },
+  {
+    "name": "Underneath The Waves (feat. Monika Santucci)",
+    "link": "https://music.163.com/song?id=1431498410",
+    "duration": "04:04",
+    "artists": [
+      {
+        "name": "Last Heroes",
+        "link": "https://music.163.com/artist?id=11987034"
+      },
+      {
+        "name": "Monika Santucci",
+        "link": "https://music.163.com/artist?id=13989763"
+      }
+    ],
+    "album": {
+      "name": "Underneath The Waves (feat. Monika Santucci)",
+      "link": "https://music.163.com/album?id=86562170"
+    }
+  },
+  {
+    "name": "That Way",
+    "link": "https://music.163.com/song?id=1922357798",
+    "duration": "02:26",
+    "artists": [
+      { "name": "VINAI", "link": "https://music.163.com/artist?id=804422" },
+      { "name": "Vamero", "link": "https://music.163.com/artist?id=35007849" },
+      {
+        "name": "Chris Crone",
+        "link": "https://music.163.com/artist?id=29688268"
+      }
+    ],
+    "album": {
+      "name": "That Way",
+      "link": "https://music.163.com/album?id=140742429"
+    }
+  },
+  {
+    "name": "Need You",
+    "link": "https://music.163.com/song?id=1436967572",
+    "duration": "03:27",
+    "artists": [
+      { "name": "Fablers", "link": "https://music.163.com/artist?id=34751307" },
+      {
+        "name": "Revealed Recordings",
+        "link": "https://music.163.com/artist?id=28753573"
+      },
+      {
+        "name": "Sam Knight",
+        "link": "https://music.163.com/artist?id=30292124"
+      }
+    ],
+    "album": {
+      "name": "Need You",
+      "link": "https://music.163.com/album?id=87507103"
+    }
+  },
+  {
+    "name": "Drivin Thru the Night (Jai Wolf Remix)",
+    "link": "https://music.163.com/song?id=1841267367",
+    "duration": "04:09",
+    "artists": [
+      {
+        "name": "Petit Biscuit",
+        "link": "https://music.163.com/artist?id=1060063"
+      }
+    ],
+    "album": {
+      "name": "Parachute Remixes",
+      "link": "https://music.163.com/album?id=126739557"
+    }
+  },
+  {
+    "name": "One Night",
+    "link": "https://music.163.com/song?id=1344292306",
+    "duration": "03:35",
+    "artists": [
+      { "name": "LeBrock", "link": "https://music.163.com/artist?id=13970913" }
+    ],
+    "album": {
+      "name": "Action & Romance",
+      "link": "https://music.163.com/album?id=75462144"
+    }
+  },
+  {
+    "name": "Wonderland",
+    "link": "https://music.163.com/song?id=1811270862",
+    "duration": "03:36",
+    "artists": [
+      {
+        "name": "Axel Johansson",
+        "link": "https://music.163.com/artist?id=12872604"
+      }
+    ],
+    "album": {
+      "name": "Wonderland",
+      "link": "https://music.163.com/album?id=121496308"
+    }
+  },
+  {
+    "name": "They Wait For Us (Radio Edit)",
+    "link": "https://music.163.com/song?id=421148924",
+    "duration": "03:39",
+    "artists": [
+      { "name": "Aurosonic", "link": "https://music.163.com/artist?id=86532" },
+      {
+        "name": "Kate Louise Smith",
+        "link": "https://music.163.com/artist?id=854450"
+      }
+    ],
+    "album": {
+      "name": "Best of Vocal Trance 2016, Vol. 2",
+      "link": "https://music.163.com/album?id=34780265"
+    }
+  },
+  {
+    "name": "Night Drive",
+    "link": "https://music.163.com/song?id=1901156054",
+    "duration": "03:07",
+    "artists": [
+      { "name": "音速行星", "link": "https://music.163.com/artist?id=31320616" }
+    ],
+    "album": {
+      "name": "Night Drive",
+      "link": "https://music.163.com/album?id=137096987"
+    }
+  },
+  {
+    "name": "Biting My Lip",
+    "link": "https://music.163.com/song?id=1465220382",
+    "duration": "03:47",
+    "artists": [
+      {
+        "name": "Thomas Gold",
+        "link": "https://music.163.com/artist?id=196219"
+      },
+      { "name": "Kosling", "link": "https://music.163.com/artist?id=29289583" },
+      {
+        "name": "Richard Judge",
+        "link": "https://music.163.com/artist?id=1147093"
+      }
+    ],
+    "album": {
+      "name": "Biting My Lip",
+      "link": "https://music.163.com/album?id=92926762"
+    }
+  },
+  {
+    "name": "Bend (Bonus Track)",
+    "link": "https://music.163.com/song?id=1852925294",
+    "duration": "04:53",
+    "artists": [
+      {
+        "name": "The Midnight",
+        "link": "https://music.163.com/artist?id=12023492"
+      }
+    ],
+    "album": {
+      "name": "Endless Summer (5 Year Anniversary Edition)",
+      "link": "https://music.163.com/album?id=128942349"
+    }
+  },
+  {
+    "name": "Head Up",
+    "link": "https://music.163.com/song?id=1857487304",
+    "duration": "02:49",
+    "artists": [
+      { "name": "The Score", "link": "https://music.163.com/artist?id=212904" }
+    ],
+    "album": {
+      "name": "Head Up",
+      "link": "https://music.163.com/album?id=129722500"
+    }
+  },
+  {
+    "name": "A Queen's Head",
+    "link": "https://music.163.com/song?id=1339189499",
+    "duration": "04:48",
+    "artists": [
+      { "name": "RAIGN", "link": "https://music.163.com/artist?id=916093" }
+    ],
+    "album": {
+      "name": "A Queen's Head - Single",
+      "link": "https://music.163.com/album?id=75161277"
+    }
+  },
+  {
+    "name": "Here Alone",
+    "link": "https://music.163.com/song?id=1461268053",
+    "duration": "02:54",
+    "artists": [
+      {
+        "name": "VARGENTA",
+        "link": "https://music.163.com/artist?id=12108656"
+      },
+      { "name": "Azaro", "link": "https://music.163.com/artist?id=34155135" },
+      {
+        "name": "Revealed Recordings",
+        "link": "https://music.163.com/artist?id=28753573"
+      }
+    ],
+    "album": {
+      "name": "Here Alone",
+      "link": "https://music.163.com/album?id=92106906"
+    }
+  },
+  {
+    "name": "Father Ocean (Ben Böhmer Remix)",
+    "link": "https://music.163.com/song?id=1330316671",
+    "duration": "07:56",
+    "artists": [
+      {
+        "name": "Monolink",
+        "link": "https://music.163.com/artist?id=12474510"
+      },
+      {
+        "name": "Ben Böhmer",
+        "link": "https://music.163.com/artist?id=13080362"
+      }
+    ],
+    "album": {
+      "name": "Father Ocean",
+      "link": "https://music.163.com/album?id=74715036"
+    }
+  },
+  {
+    "name": "Feel the Fire (Breath Vocal Mix)",
+    "link": "https://music.163.com/song?id=437859809",
+    "duration": "03:21",
+    "artists": [
+      { "name": "pluko", "link": "https://music.163.com/artist?id=15024191" },
+      {
+        "name": "pronouncedyea",
+        "link": "https://music.163.com/artist?id=30358267"
+      }
+    ],
+    "album": {
+      "name": "Feel the Fire (Breath Vocal Mix)",
+      "link": "https://music.163.com/album?id=34944760"
+    }
+  },
+  {
+    "name": "Tech Noir",
+    "link": "https://music.163.com/song?id=40157302",
+    "duration": "04:57",
+    "artists": [
+      { "name": "GUNSHIP", "link": "https://music.163.com/artist?id=1124210" }
+    ],
+    "album": {
+      "name": "GUNSHIP",
+      "link": "https://music.163.com/album?id=3439370"
+    }
+  },
+  {
+    "name": "乌桓",
+    "link": "https://music.163.com/song?id=1473518506",
+    "duration": "02:57",
+    "artists": [
+      { "name": "AirJordy", "link": "https://music.163.com/artist?id=12050049" }
+    ],
+    "album": {
+      "name": "乌桓",
+      "link": "https://music.163.com/album?id=94348489"
+    }
+  },
+  {
+    "name": "You Know",
+    "link": "https://music.163.com/song?id=403012517",
+    "duration": "03:19",
+    "artists": [
+      {
+        "name": "Jerry Folk",
+        "link": "https://music.163.com/artist?id=1115110"
+      },
+      { "name": "ELOQ", "link": "https://music.163.com/artist?id=742094" }
+    ],
+    "album": {
+      "name": "You Know",
+      "link": "https://music.163.com/album?id=34478413"
+    }
+  },
+  {
+    "name": "夏 天 ， 最 后 一 次 恋 爱",
+    "link": "https://music.163.com/song?id=1888173731",
+    "duration": "03:42",
+    "artists": [
+      {
+        "name": "海德薇乐队(THE HEDWIG)",
+        "link": "https://music.163.com/artist?id=46580141"
+      }
+    ],
+    "album": {
+      "name": "夏 天 ， 最 后 一 次 恋 爱",
+      "link": "https://music.163.com/album?id=134973472"
+    }
+  },
+  {
+    "name": "Breathin'",
+    "link": "https://music.163.com/song?id=1486529930",
+    "duration": "02:43",
+    "artists": [
+      { "name": "Castion", "link": "https://music.163.com/artist?id=27687018" },
+      {
+        "name": "Chester Young",
+        "link": "https://music.163.com/artist?id=13703846"
+      }
+    ],
+    "album": {
+      "name": "Breathin'",
+      "link": "https://music.163.com/album?id=96681576"
+    }
+  },
+  {
+    "name": "Million Eyes",
+    "link": "https://music.163.com/song?id=437116736",
+    "duration": "04:14",
+    "artists": [
+      {
+        "name": "Loïc Nottet",
+        "link": "https://music.163.com/artist?id=1057277"
+      }
+    ],
+    "album": {
+      "name": "Million Eyes",
+      "link": "https://music.163.com/album?id=34928433"
+    }
+  },
+  {
+    "name": "肖斯塔科维奇：第二圆舞曲",
+    "link": "https://music.163.com/song?id=1807783028",
+    "duration": "03:44",
+    "artists": [
+      {
+        "name": "土星皇家交响乐团",
+        "link": "https://music.163.com/artist?id=12226927"
+      }
+    ],
+    "album": {
+      "name": "古典乐选集：交响乐/管弦乐",
+      "link": "https://music.163.com/album?id=120888795"
+    }
+  },
+  {
+    "name": "A Different Way",
+    "link": "https://music.163.com/song?id=1358247909",
+    "duration": "03:11",
+    "artists": [
+      {
+        "name": "Max Oazo",
+        "link": "https://music.163.com/artist?id=13159084"
+      },
+      { "name": "Cami", "link": "https://music.163.com/artist?id=283909" }
+    ],
+    "album": {
+      "name": "A Different Way",
+      "link": "https://music.163.com/album?id=78483191"
+    }
+  },
+  {
+    "name": "G大调第一大提琴组曲: 前奏曲",
+    "link": "https://music.163.com/song?id=142420",
+    "duration": "02:55",
+    "artists": [
+      { "name": "秦立巍", "link": "https://music.163.com/artist?id=4811" }
+    ],
+    "album": {
+      "name": "Hifi大提琴",
+      "link": "https://music.163.com/album?id=14195"
+    }
+  },
+  {
+    "name": "Miami Dancefloors (Ex-Po Remix Edit)",
+    "link": "https://music.163.com/song?id=513077442",
+    "duration": "03:35",
+    "artists": [
+      { "name": "Pogee", "link": "https://music.163.com/artist?id=382127" }
+    ],
+    "album": {
+      "name": "Miami Dancefloors",
+      "link": "https://music.163.com/album?id=36558673"
+    }
+  }
+]
