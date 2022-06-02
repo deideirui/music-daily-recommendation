@@ -1,0 +1,414 @@
+[
+  {
+    "name": "Love Again",
+    "link": "https://music.163.com/song?id=1395757943",
+    "duration": "03:26",
+    "artists": [
+      {
+        "name": "WildVibes",
+        "link": "https://music.163.com/artist?id=1181751"
+      },
+      {
+        "name": "Patrick Key",
+        "link": "https://music.163.com/artist?id=31242552"
+      },
+      {
+        "name": "Stine Kristiansen",
+        "link": "https://music.163.com/artist?id=30387959"
+      }
+    ],
+    "album": {
+      "name": "Love Again",
+      "link": "https://music.163.com/album?id=82232281"
+    }
+  },
+  {
+    "name": "Anti-Everything (Jake Wolfe Remix)",
+    "link": "https://music.163.com/song?id=1359337683",
+    "duration": "02:33",
+    "artists": [
+      {
+        "name": "Lost Kings",
+        "link": "https://music.163.com/artist?id=847225"
+      },
+      {
+        "name": "Loren Gray",
+        "link": "https://music.163.com/artist?id=28802007"
+      },
+      {
+        "name": "Jake Wolfe",
+        "link": "https://music.163.com/artist?id=27982895"
+      }
+    ],
+    "album": {
+      "name": "Anti-Everything (Remixes)",
+      "link": "https://music.163.com/album?id=78568148"
+    }
+  },
+  {
+    "name": "****** Up",
+    "link": "https://music.163.com/song?id=1374155242",
+    "duration": "03:39",
+    "artists": [
+      { "name": "Bahari", "link": "https://music.163.com/artist?id=1044218" }
+    ],
+    "album": {
+      "name": "****** Up",
+      "link": "https://music.163.com/album?id=80009071"
+    }
+  },
+  {
+    "name": "Heat Waves (Shakur Remix)",
+    "link": "https://music.163.com/song?id=1470037586",
+    "duration": "03:18",
+    "artists": [
+      {
+        "name": "Glass Animals",
+        "link": "https://music.163.com/artist?id=847346"
+      }
+    ],
+    "album": {
+      "name": "Dreamland (+ Bonus Levels)",
+      "link": "https://music.163.com/album?id=93777447"
+    }
+  },
+  {
+    "name": "Billboard",
+    "link": "https://music.163.com/song?id=1409157146",
+    "duration": "02:52",
+    "artists": [
+      {
+        "name": "Jonas Blue",
+        "link": "https://music.163.com/artist?id=1192069"
+      },
+      { "name": "陈梓童", "link": "https://music.163.com/artist?id=951001" }
+    ],
+    "album": {
+      "name": "Billboard",
+      "link": "https://music.163.com/album?id=84056238"
+    }
+  },
+  {
+    "name": "一吻天荒 - (电视剧《轩辕剑之天之痕》片头曲)",
+    "link": "https://music.163.com/song?id=391566",
+    "duration": "04:10",
+    "artists": [
+      { "name": "胡歌", "link": "https://music.163.com/artist?id=3064" }
+    ],
+    "album": {
+      "name": "轩辕剑之天之痕 电视原声大碟",
+      "link": "https://music.163.com/album?id=38789"
+    }
+  },
+  {
+    "name": "Lose Myself",
+    "link": "https://music.163.com/song?id=1378843777",
+    "duration": "03:16",
+    "artists": [
+      { "name": "Reyko", "link": "https://music.163.com/artist?id=12335050" }
+    ],
+    "album": {
+      "name": "Lose Myself",
+      "link": "https://music.163.com/album?id=80491015"
+    }
+  },
+  {
+    "name": "Astronomical",
+    "link": "https://music.163.com/song?id=536099137",
+    "duration": "02:52",
+    "artists": [
+      { "name": "Svrcina", "link": "https://music.163.com/artist?id=12047724" }
+    ],
+    "album": {
+      "name": "Astronomical",
+      "link": "https://music.163.com/album?id=37545045"
+    }
+  },
+  {
+    "name": "Xion's Theme (Sadness Embrace)",
+    "link": "https://music.163.com/song?id=496870892",
+    "duration": "02:27",
+    "artists": [
+      {
+        "name": "Kingdom Hearts Is Angelic",
+        "link": "https://music.163.com/artist?id=12560529"
+      }
+    ],
+    "album": {
+      "name": "Xion's Theme",
+      "link": "https://music.163.com/album?id=35909447"
+    }
+  },
+  {
+    "name": "new heartbreak",
+    "link": "https://music.163.com/song?id=1911004649",
+    "duration": "03:14",
+    "artists": [
+      { "name": "Sad Alex", "link": "https://music.163.com/artist?id=31272939" }
+    ],
+    "album": {
+      "name": "new heartbreak",
+      "link": "https://music.163.com/album?id=138686253"
+    }
+  },
+  {
+    "name": "We've Never Met but Can We Have a Cup of Coffee or Something",
+    "link": "https://music.163.com/song?id=1398802958",
+    "duration": "03:19",
+    "artists": [
+      {
+        "name": "In Love With A Ghost",
+        "link": "https://music.163.com/artist?id=11991120"
+      }
+    ],
+    "album": {
+      "name": "Let's Go",
+      "link": "https://music.163.com/album?id=82682670"
+    }
+  },
+  {
+    "name": "All Of The Time",
+    "link": "https://music.163.com/song?id=1861128887",
+    "duration": "03:02",
+    "artists": [
+      { "name": "Jungle", "link": "https://music.163.com/artist?id=794125" }
+    ],
+    "album": {
+      "name": "All Of The Time",
+      "link": "https://music.163.com/album?id=130343625"
+    }
+  },
+  {
+    "name": "Intentions (Acoustic)",
+    "link": "https://music.163.com/song?id=1432101409",
+    "duration": "02:40",
+    "artists": [
+      {
+        "name": "Justin Bieber",
+        "link": "https://music.163.com/artist?id=35531"
+      }
+    ],
+    "album": {
+      "name": "Intentions (Acoustic)",
+      "link": "https://music.163.com/album?id=86625204"
+    }
+  },
+  {
+    "name": "Palm Springs (the way you made me feel)",
+    "link": "https://music.163.com/song?id=1865090537",
+    "duration": "02:50",
+    "artists": [
+      {
+        "name": "Virginia To Vegas",
+        "link": "https://music.163.com/artist?id=942191"
+      }
+    ],
+    "album": {
+      "name": "Summer Beach Party",
+      "link": "https://music.163.com/album?id=131073616"
+    }
+  },
+  {
+    "name": "JEWFY SAMPLE CHALLENGE",
+    "link": "https://music.163.com/song?id=467595367",
+    "duration": "02:24",
+    "artists": [
+      {
+        "name": "lil heartbreak",
+        "link": "https://music.163.com/artist?id=12261238"
+      }
+    ],
+    "album": {
+      "name": "JEWFY SAMPLE CHALLENGE",
+      "link": "https://music.163.com/album?id=35304118"
+    }
+  },
+  {
+    "name": "Ibuprofen",
+    "link": "https://music.163.com/song?id=1342743435",
+    "duration": "04:44",
+    "artists": [
+      { "name": "Alicks", "link": "https://music.163.com/artist?id=1192254" }
+    ],
+    "album": {
+      "name": "Unwritten",
+      "link": "https://music.163.com/album?id=75360076"
+    }
+  },
+  {
+    "name": "PLASTIC",
+    "link": "https://music.163.com/song?id=1307463441",
+    "duration": "03:26",
+    "artists": [
+      {
+        "name": "sakehands",
+        "link": "https://music.163.com/artist?id=29627842"
+      },
+      { "name": "LO", "link": "https://music.163.com/artist?id=35532320" },
+      {
+        "name": "Good Intent",
+        "link": "https://music.163.com/artist?id=12251176"
+      }
+    ],
+    "album": {
+      "name": "PLASTIC",
+      "link": "https://music.163.com/album?id=72993671"
+    }
+  },
+  {
+    "name": "50 Feet",
+    "link": "https://music.163.com/song?id=526116053",
+    "duration": "03:05",
+    "artists": [
+      { "name": "SoMo", "link": "https://music.163.com/artist?id=892040" }
+    ],
+    "album": {
+      "name": "50 Feet",
+      "link": "https://music.163.com/album?id=37026331"
+    }
+  },
+  {
+    "name": "Kiss Me More",
+    "link": "https://music.163.com/song?id=1835514122",
+    "duration": "03:28",
+    "artists": [
+      { "name": "Doja Cat", "link": "https://music.163.com/artist?id=911131" },
+      { "name": "SZA", "link": "https://music.163.com/artist?id=905232" }
+    ],
+    "album": {
+      "name": "Kiss Me More",
+      "link": "https://music.163.com/album?id=125688580"
+    }
+  },
+  {
+    "name": "isaac's insects",
+    "link": "https://music.163.com/song?id=1417832091",
+    "duration": "03:36",
+    "artists": [
+      {
+        "name": "Isaac Dunbar",
+        "link": "https://music.163.com/artist?id=28389583"
+      }
+    ],
+    "album": {
+      "name": "isaac's insects",
+      "link": "https://music.163.com/album?id=85084304"
+    }
+  },
+  {
+    "name": "Refuge",
+    "link": "https://music.163.com/song?id=1834005017",
+    "duration": "03:02",
+    "artists": [
+      {
+        "name": "Charlotte Jane",
+        "link": "https://music.163.com/artist?id=33139930"
+      }
+    ],
+    "album": {
+      "name": "Refuge",
+      "link": "https://music.163.com/album?id=125436021"
+    }
+  },
+  {
+    "name": "Say My Name",
+    "link": "https://music.163.com/song?id=565841054",
+    "duration": "03:12",
+    "artists": [
+      { "name": "NIKI", "link": "https://music.163.com/artist?id=473353" }
+    ],
+    "album": {
+      "name": "Zephyr",
+      "link": "https://music.163.com/album?id=39211020"
+    }
+  },
+  {
+    "name": "This Is What You Came For",
+    "link": "https://music.163.com/song?id=411314681",
+    "duration": "03:42",
+    "artists": [
+      {
+        "name": "Calvin Harris",
+        "link": "https://music.163.com/artist?id=29968"
+      },
+      { "name": "Rihanna", "link": "https://music.163.com/artist?id=72724" }
+    ],
+    "album": {
+      "name": "This Is What You Came For",
+      "link": "https://music.163.com/album?id=34686251"
+    }
+  },
+  {
+    "name": "Love Story",
+    "link": "https://music.163.com/song?id=1457707546",
+    "duration": "03:56",
+    "artists": [
+      {
+        "name": "Taylor Swift",
+        "link": "https://music.163.com/artist?id=44266"
+      }
+    ],
+    "album": {
+      "name": "Pride Month",
+      "link": "https://music.163.com/album?id=91423363"
+    }
+  },
+  {
+    "name": "Run Free (feat. IVIE)",
+    "link": "https://music.163.com/song?id=500410102",
+    "duration": "02:50",
+    "artists": [
+      {
+        "name": "Deep Chills",
+        "link": "https://music.163.com/artist?id=1063083"
+      },
+      { "name": "IVIE", "link": "https://music.163.com/artist?id=12154348" }
+    ],
+    "album": {
+      "name": "Run Free (feat. IVIE)",
+      "link": "https://music.163.com/album?id=36016054"
+    }
+  },
+  {
+    "name": "Counting Stars",
+    "link": "https://music.163.com/song?id=26060065",
+    "duration": "04:17",
+    "artists": [
+      { "name": "OneRepublic", "link": "https://music.163.com/artist?id=98105" }
+    ],
+    "album": {
+      "name": "Native (Deluxe Version)",
+      "link": "https://music.163.com/album?id=2302008"
+    }
+  },
+  {
+    "name": "Wellerman",
+    "link": "https://music.163.com/song?id=1813960297",
+    "duration": "02:35",
+    "artists": [
+      {
+        "name": "Nathan Evans",
+        "link": "https://music.163.com/artist?id=29453672"
+      }
+    ],
+    "album": {
+      "name": "Wellerman",
+      "link": "https://music.163.com/album?id=121970466"
+    }
+  },
+  {
+    "name": "Lovefool",
+    "link": "https://music.163.com/song?id=1446769897",
+    "duration": "03:10",
+    "artists": [
+      {
+        "name": "twocolors",
+        "link": "https://music.163.com/artist?id=14177760"
+      }
+    ],
+    "album": {
+      "name": "Lovefool",
+      "link": "https://music.163.com/album?id=89208199"
+    }
+  }
+]
