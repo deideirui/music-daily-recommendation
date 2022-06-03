@@ -1,0 +1,471 @@
+[
+  {
+    "name": "V.",
+    "link": "https://music.163.com/song?id=1917017512",
+    "duration": "04:10",
+    "artists": [
+      { "name": "Æsir", "link": "https://music.163.com/artist?id=14486686" }
+    ],
+    "album": {
+      "name": "Rayark 10th Anniversary Concert Collection(Original Soundtrack)",
+      "link": "https://music.163.com/album?id=139793430"
+    }
+  },
+  {
+    "name": "Heartstrings",
+    "link": "https://music.163.com/song?id=1904918719",
+    "duration": "04:55",
+    "artists": [
+      { "name": "Feint", "link": "https://music.163.com/artist?id=93062" },
+      { "name": "Boxplot", "link": "https://music.163.com/artist?id=826145" }
+    ],
+    "album": {
+      "name": "Heartstrings",
+      "link": "https://music.163.com/album?id=137728637"
+    }
+  },
+  {
+    "name": "Bring Me Back (feat. Claire Ridgely)",
+    "link": "https://music.163.com/song?id=1488212875",
+    "duration": "03:39",
+    "artists": [
+      { "name": "Miles Away", "link": "https://music.163.com/artist?id=96821" }
+    ],
+    "album": {
+      "name": "Bring Me Back (feat. Claire Ridgely)",
+      "link": "https://music.163.com/album?id=97004657"
+    }
+  },
+  {
+    "name": "aer",
+    "link": "https://music.163.com/song?id=1947019537",
+    "duration": "02:10",
+    "artists": [
+      { "name": "Wisp X", "link": "https://music.163.com/artist?id=1046123" }
+    ],
+    "album": {
+      "name": "aer",
+      "link": "https://music.163.com/album?id=144906873"
+    }
+  },
+  {
+    "name": "The Grotto",
+    "link": "https://music.163.com/song?id=1950940221",
+    "duration": "02:16",
+    "artists": [
+      {
+        "name": "Audiomachine",
+        "link": "https://music.163.com/artist?id=87066"
+      }
+    ],
+    "album": {
+      "name": "Intros 3",
+      "link": "https://music.163.com/album?id=145586627"
+    }
+  },
+  {
+    "name": "Get To U",
+    "link": "https://music.163.com/song?id=1930403948",
+    "duration": "02:56",
+    "artists": [
+      {
+        "name": "Papa Khan",
+        "link": "https://music.163.com/artist?id=13754578"
+      }
+    ],
+    "album": {
+      "name": "Get To U",
+      "link": "https://music.163.com/album?id=142198974"
+    }
+  },
+  {
+    "name": "你在终点等我 - (电影《从你的全世界路过》主题曲)",
+    "link": "https://music.163.com/song?id=431357712",
+    "duration": "04:45",
+    "artists": [
+      { "name": "王菲", "link": "https://music.163.com/artist?id=9621" }
+    ],
+    "album": {
+      "name": "你在终点等我",
+      "link": "https://music.163.com/album?id=34888014"
+    }
+  },
+  {
+    "name": "Better Apart",
+    "link": "https://music.163.com/song?id=1354608659",
+    "duration": "03:54",
+    "artists": [
+      { "name": "Jai Wolf", "link": "https://music.163.com/artist?id=1063048" },
+      {
+        "name": "Keeley Bumford",
+        "link": "https://music.163.com/artist?id=12845274"
+      }
+    ],
+    "album": {
+      "name": "The Cure To Loneliness",
+      "link": "https://music.163.com/album?id=78300643"
+    }
+  },
+  {
+    "name": "Still",
+    "link": "https://music.163.com/song?id=30375354",
+    "duration": "03:46",
+    "artists": [
+      { "name": "Timirage", "link": "https://music.163.com/artist?id=12037059" }
+    ],
+    "album": {
+      "name": "Still",
+      "link": "https://music.163.com/album?id=3091880"
+    }
+  },
+  {
+    "name": "Cruel Oath",
+    "link": "https://music.163.com/song?id=1916438201",
+    "duration": "03:12",
+    "artists": [
+      { "name": "Kotori", "link": "https://music.163.com/artist?id=12132340" }
+    ],
+    "album": {
+      "name": "Cruel Oath",
+      "link": "https://music.163.com/album?id=139671419"
+    }
+  },
+  {
+    "name": "UMBRA",
+    "link": "https://music.163.com/song?id=1919112440",
+    "duration": "03:37",
+    "artists": [
+      { "name": "Voicians", "link": "https://music.163.com/artist?id=45804" },
+      { "name": "Ace Aura", "link": "https://music.163.com/artist?id=13533033" }
+    ],
+    "album": {
+      "name": "UMBRA",
+      "link": "https://music.163.com/album?id=140190002"
+    }
+  },
+  {
+    "name": "Only One",
+    "link": "https://music.163.com/song?id=1474811373",
+    "duration": "04:43",
+    "artists": [
+      { "name": "MitiS", "link": "https://music.163.com/artist?id=40245" },
+      { "name": "Drowsy", "link": "https://music.163.com/artist?id=31911" }
+    ],
+    "album": {
+      "name": "All I Have",
+      "link": "https://music.163.com/album?id=94642108"
+    }
+  },
+  {
+    "name": "SummerTime Blood (AIKA & Kotori Remix)",
+    "link": "https://music.163.com/song?id=1937420905",
+    "duration": "03:09",
+    "artists": [
+      { "name": "AIKA", "link": "https://music.163.com/artist?id=12023360" },
+      { "name": "Kotori", "link": "https://music.163.com/artist?id=12132340" },
+      { "name": "Yung Lean", "link": "https://music.163.com/artist?id=792648" },
+      { "name": "Skrillex", "link": "https://music.163.com/artist?id=43755" },
+      { "name": "Bladee", "link": "https://music.163.com/artist?id=1097044" },
+      { "name": "Ecco2k", "link": "https://music.163.com/artist?id=12935131" }
+    ],
+    "album": {
+      "name": "SummerTime Blood (AIKA & Kotori Remix)",
+      "link": "https://music.163.com/album?id=143366833"
+    }
+  },
+  {
+    "name": "Particle Arts",
+    "link": "https://music.163.com/song?id=523251142",
+    "duration": "03:54",
+    "artists": [
+      {
+        "name": "Virtual Self",
+        "link": "https://music.163.com/artist?id=12773843"
+      }
+    ],
+    "album": {
+      "name": "Virtual Self",
+      "link": "https://music.163.com/album?id=36633233"
+    }
+  },
+  {
+    "name": "Only Now (feat. Tyler Graves)",
+    "link": "https://music.163.com/song?id=1424216182",
+    "duration": "03:31",
+    "artists": [
+      {
+        "name": "Seven Lions",
+        "link": "https://music.163.com/artist?id=44204"
+      },
+      {
+        "name": "Tyler Graves",
+        "link": "https://music.163.com/artist?id=31834852"
+      }
+    ],
+    "album": {
+      "name": "Only Now (feat. Tyler Graves)",
+      "link": "https://music.163.com/album?id=85814450"
+    }
+  },
+  {
+    "name": "Our Own (feat. Micah Martin)",
+    "link": "https://music.163.com/song?id=1422438794",
+    "duration": "04:05",
+    "artists": [
+      { "name": "Far Out", "link": "https://music.163.com/artist?id=824107" },
+      {
+        "name": "Micah Martin",
+        "link": "https://music.163.com/artist?id=13723243"
+      }
+    ],
+    "album": {
+      "name": "Bridges in Time",
+      "link": "https://music.163.com/album?id=85632176"
+    }
+  },
+  {
+    "name": "Get Your Wish",
+    "link": "https://music.163.com/song?id=1839137990",
+    "duration": "03:38",
+    "artists": [
+      {
+        "name": "Porter Robinson",
+        "link": "https://music.163.com/artist?id=185871"
+      }
+    ],
+    "album": {
+      "name": "Nurture",
+      "link": "https://music.163.com/album?id=126338915"
+    }
+  },
+  {
+    "name": "PSYCHO",
+    "link": "https://music.163.com/song?id=1396930659",
+    "duration": "03:34",
+    "artists": [
+      { "name": "AViVA", "link": "https://music.163.com/artist?id=12074178" }
+    ],
+    "album": {
+      "name": "PSYCHO",
+      "link": "https://music.163.com/album?id=82407923"
+    }
+  },
+  {
+    "name": "Burnt Sugar",
+    "link": "https://music.163.com/song?id=448317080",
+    "duration": "03:22",
+    "artists": [
+      { "name": "Felicity", "link": "https://music.163.com/artist?id=12234027" }
+    ],
+    "album": {
+      "name": "Burnt Sugar",
+      "link": "https://music.163.com/album?id=35074044"
+    }
+  },
+  {
+    "name": "Call Me",
+    "link": "https://music.163.com/song?id=506775231",
+    "duration": "04:02",
+    "artists": [
+      { "name": "LeBrock", "link": "https://music.163.com/artist?id=13970913" },
+      {
+        "name": "Michael Meadows",
+        "link": "https://music.163.com/artist?id=29976224"
+      }
+    ],
+    "album": {
+      "name": "Synthwave",
+      "link": "https://music.163.com/album?id=36251111"
+    }
+  },
+  {
+    "name": "Only Love (Acoustic)",
+    "link": "https://music.163.com/song?id=28475345",
+    "duration": "04:59",
+    "artists": [
+      { "name": "PVRIS", "link": "https://music.163.com/artist?id=960005" }
+    ],
+    "album": {
+      "name": "Acoustic",
+      "link": "https://music.163.com/album?id=2807560"
+    }
+  },
+  {
+    "name": "Outlaws",
+    "link": "https://music.163.com/song?id=1398399334",
+    "duration": "03:37",
+    "artists": [
+      { "name": "Manse", "link": "https://music.163.com/artist?id=855409" },
+      { "name": "JRL", "link": "https://music.163.com/artist?id=12995921" },
+      { "name": "Jonny Rose", "link": "https://music.163.com/artist?id=904226" }
+    ],
+    "album": {
+      "name": "Outlaws",
+      "link": "https://music.163.com/album?id=82612666"
+    }
+  },
+  {
+    "name": "Naked Soul (feat. Liel Kolet)",
+    "link": "https://music.163.com/song?id=1450894524",
+    "duration": "04:46",
+    "artists": [
+      {
+        "name": "Last Heroes",
+        "link": "https://music.163.com/artist?id=11987034"
+      },
+      {
+        "name": "Liel Kolet",
+        "link": "https://music.163.com/artist?id=14672688"
+      }
+    ],
+    "album": {
+      "name": "No Sleep // Naked Soul",
+      "link": "https://music.163.com/album?id=89947550"
+    }
+  },
+  {
+    "name": "Being in Love",
+    "link": "https://music.163.com/song?id=1423096143",
+    "duration": "03:37",
+    "artists": [
+      {
+        "name": "Synth Monsters",
+        "link": "https://music.163.com/artist?id=27728544"
+      },
+      { "name": "川岛三离", "link": "https://music.163.com/artist?id=32934444" }
+    ],
+    "album": {
+      "name": "Being in Love",
+      "link": "https://music.163.com/album?id=85696526"
+    }
+  },
+  {
+    "name": "Strawberries & Cigarettes - (电影《爱你，西蒙》插曲)",
+    "link": "https://music.163.com/song?id=544247584",
+    "duration": "03:21",
+    "artists": [
+      { "name": "Troye Sivan", "link": "https://music.163.com/artist?id=45129" }
+    ],
+    "album": {
+      "name": "Love, Simon (Original Motion Picture Soundtrack)",
+      "link": "https://music.163.com/album?id=37767398"
+    }
+  },
+  {
+    "name": "Underneath",
+    "link": "https://music.163.com/song?id=1360935072",
+    "duration": "03:41",
+    "artists": [
+      {
+        "name": "Jac & Harri",
+        "link": "https://music.163.com/artist?id=12776287"
+      },
+      {
+        "name": "Nino Lucarelli",
+        "link": "https://music.163.com/artist?id=13954602"
+      }
+    ],
+    "album": {
+      "name": "Underneath",
+      "link": "https://music.163.com/album?id=78734752"
+    }
+  },
+  {
+    "name": "The Years (Prologue)",
+    "link": "https://music.163.com/song?id=28999940",
+    "duration": "06:08",
+    "artists": [
+      {
+        "name": "The Midnight",
+        "link": "https://music.163.com/artist?id=31155526"
+      }
+    ],
+    "album": {
+      "name": "Days of Thunder",
+      "link": "https://music.163.com/album?id=2976060"
+    }
+  },
+  {
+    "name": "给你呀（又名：for ya）",
+    "link": "https://music.163.com/song?id=1497588709",
+    "duration": "02:33",
+    "artists": [
+      { "name": "蒋小呢", "link": "https://music.163.com/artist?id=37540088" }
+    ],
+    "album": {
+      "name": "for ya",
+      "link": "https://music.163.com/album?id=98659782"
+    }
+  },
+  {
+    "name": "Work It Out",
+    "link": "https://music.163.com/song?id=519935364",
+    "duration": "03:11",
+    "artists": [
+      { "name": "RYD", "link": "https://music.163.com/artist?id=12250118" }
+    ],
+    "album": {
+      "name": "Now There's Nowhere",
+      "link": "https://music.163.com/album?id=36813328"
+    }
+  },
+  {
+    "name": "Chrono",
+    "link": "https://music.163.com/song?id=1343460749",
+    "duration": "04:03",
+    "artists": [
+      {
+        "name": "Kirara Magic",
+        "link": "https://music.163.com/artist?id=30226109"
+      },
+      { "name": "Yirokos", "link": "https://music.163.com/artist?id=30237208" }
+    ],
+    "album": {
+      "name": "Chrono",
+      "link": "https://music.163.com/album?id=75383079"
+    }
+  },
+  {
+    "name": "Glad You Came",
+    "link": "https://music.163.com/song?id=29769734",
+    "duration": "03:15",
+    "artists": [
+      {
+        "name": "Boyce Avenue",
+        "link": "https://music.163.com/artist?id=29709"
+      }
+    ],
+    "album": {
+      "name": "Cover Sessions, Vol. 2",
+      "link": "https://music.163.com/album?id=83083380"
+    }
+  },
+  {
+    "name": "还是会想你",
+    "link": "https://music.163.com/song?id=1827600686",
+    "duration": "03:10",
+    "artists": [
+      { "name": "林达浪", "link": "https://music.163.com/artist?id=15199791" },
+      { "name": "h3R3", "link": "https://music.163.com/artist?id=12631485" }
+    ],
+    "album": {
+      "name": "还是会想你",
+      "link": "https://music.163.com/album?id=124309279"
+    }
+  },
+  {
+    "name": "Never Enough",
+    "link": "https://music.163.com/song?id=522429778",
+    "duration": "03:27",
+    "artists": [
+      {
+        "name": "Loren Allred",
+        "link": "https://music.163.com/artist?id=12492353"
+      }
+    ],
+    "album": {
+      "name": "The Greatest Showman (Original Motion Picture Soundtrack)",
+      "link": "https://music.163.com/album?id=36674183"
+    }
+  }
+]
