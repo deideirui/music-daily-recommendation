@@ -1,0 +1,487 @@
+[
+  {
+    "name": "02 - Outer Wilds",
+    "link": "https://music.163.com/song?id=1903401563",
+    "duration": "02:26",
+    "artists": [
+      {
+        "name": "Andrew Prahlow",
+        "link": "https://music.163.com/artist?id=50815696"
+      }
+    ],
+    "album": {
+      "name": "Outer Wilds - Original Soundtrack",
+      "link": "https://music.163.com/album?id=137470856"
+    }
+  },
+  {
+    "name": "IT HURTS!",
+    "link": "https://music.163.com/song?id=1849196930",
+    "duration": "03:48",
+    "artists": [
+      { "name": "San Holo", "link": "https://music.163.com/artist?id=1017035" }
+    ],
+    "album": {
+      "name": "bb u ok?",
+      "link": "https://music.163.com/album?id=128204234"
+    }
+  },
+  {
+    "name": "那时窗外开满花",
+    "link": "https://music.163.com/song?id=509704150",
+    "duration": "03:35",
+    "artists": [
+      { "name": "王金金", "link": "https://music.163.com/artist?id=12258611" }
+    ],
+    "album": {
+      "name": "那时窗外开满花",
+      "link": "https://music.163.com/album?id=36412488"
+    }
+  },
+  {
+    "name": "Begin Again",
+    "link": "https://music.163.com/song?id=1879815294",
+    "duration": "02:41",
+    "artists": [
+      {
+        "name": "Ben Böhmer",
+        "link": "https://music.163.com/artist?id=13080362"
+      }
+    ],
+    "album": {
+      "name": "Begin Again",
+      "link": "https://music.163.com/album?id=133517586"
+    }
+  },
+  {
+    "name": "Bittersweet Melody (Nurko Remix)",
+    "link": "https://music.163.com/song?id=1951132224",
+    "duration": "03:54",
+    "artists": [
+      {
+        "name": "Said The Sky",
+        "link": "https://music.163.com/artist?id=1026094"
+      },
+      { "name": "FRND", "link": "https://music.163.com/artist?id=12107565" },
+      { "name": "Nurko", "link": "https://music.163.com/artist?id=11991089" }
+    ],
+    "album": {
+      "name": "Bittersweet Melody (Nurko Remix)",
+      "link": "https://music.163.com/album?id=145632298"
+    }
+  },
+  {
+    "name": "引燃",
+    "link": "https://music.163.com/song?id=1444518446",
+    "duration": "03:47",
+    "artists": [
+      {
+        "name": "Tiya Manson",
+        "link": "https://music.163.com/artist?id=12025620"
+      },
+      { "name": "Sobing", "link": "https://music.163.com/artist?id=14585523" },
+      { "name": "M R U O", "link": "https://music.163.com/artist?id=1081269" },
+      { "name": "RED8红八", "link": "https://music.163.com/artist?id=29500218" }
+    ],
+    "album": {
+      "name": "引燃",
+      "link": "https://music.163.com/album?id=88737661"
+    }
+  },
+  {
+    "name": "УРЫЛ 0$ - (一无所获)",
+    "link": "https://music.163.com/song?id=1473966737",
+    "duration": "02:04",
+    "artists": [
+      {
+        "name": "ДЕТИ RAVE",
+        "link": "https://music.163.com/artist?id=27821448"
+      }
+    ],
+    "album": {
+      "name": "УРЫЛ 0$",
+      "link": "https://music.163.com/album?id=94473311"
+    }
+  },
+  {
+    "name": "All We Know",
+    "link": "https://music.163.com/song?id=432698441",
+    "duration": "03:14",
+    "artists": [
+      {
+        "name": "The Chainsmokers",
+        "link": "https://music.163.com/artist?id=893484"
+      },
+      {
+        "name": "Phoebe Ryan",
+        "link": "https://music.163.com/artist?id=854363"
+      }
+    ],
+    "album": {
+      "name": "All We Know",
+      "link": "https://music.163.com/album?id=34897575"
+    }
+  },
+  {
+    "name": "Lose Somebody",
+    "link": "https://music.163.com/song?id=1446156978",
+    "duration": "03:19",
+    "artists": [
+      { "name": "Kygo", "link": "https://music.163.com/artist?id=844410" },
+      { "name": "OneRepublic", "link": "https://music.163.com/artist?id=98105" }
+    ],
+    "album": {
+      "name": "Lose Somebody",
+      "link": "https://music.163.com/album?id=89072048"
+    }
+  },
+  {
+    "name": "Maverick",
+    "link": "https://music.163.com/song?id=1483021439",
+    "duration": "03:35",
+    "artists": [
+      { "name": "FM-84", "link": "https://music.163.com/artist?id=12046467" }
+    ],
+    "album": {
+      "name": "Maverick",
+      "link": "https://music.163.com/album?id=96077505"
+    }
+  },
+  {
+    "name": "Sleepwalker",
+    "link": "https://music.163.com/song?id=403711527",
+    "duration": "04:10",
+    "artists": [
+      { "name": "ILLENIUM", "link": "https://music.163.com/artist?id=1050518" },
+      {
+        "name": "Joni Fatora",
+        "link": "https://music.163.com/artist?id=758231"
+      }
+    ],
+    "album": {
+      "name": "Ashes",
+      "link": "https://music.163.com/album?id=34497141"
+    }
+  },
+  {
+    "name": "Everything At Your Feet (feat. The Chamanas)",
+    "link": "https://music.163.com/song?id=1329664859",
+    "duration": "03:28",
+    "artists": [
+      { "name": "ODESZA", "link": "https://music.163.com/artist?id=839108" },
+      {
+        "name": "The Chamanas",
+        "link": "https://music.163.com/artist?id=15257319"
+      }
+    ],
+    "album": {
+      "name": "A Moment Apart (Deluxe Edition)",
+      "link": "https://music.163.com/album?id=74669989"
+    }
+  },
+  {
+    "name": "Kuyenda",
+    "link": "https://music.163.com/song?id=500399011",
+    "duration": "02:59",
+    "artists": [
+      {
+        "name": "Lennart Schroot",
+        "link": "https://music.163.com/artist?id=1147209"
+      },
+      {
+        "name": "Unknown Brain",
+        "link": "https://music.163.com/artist?id=12196203"
+      },
+      { "name": "Sru", "link": "https://music.163.com/artist?id=14297664" }
+    ],
+    "album": {
+      "name": "Kuyenda",
+      "link": "https://music.163.com/album?id=36015013"
+    }
+  },
+  {
+    "name": "Decoy World",
+    "link": "https://music.163.com/song?id=503207111",
+    "duration": "03:51",
+    "artists": [
+      {
+        "name": "Intercom",
+        "link": "https://music.163.com/artist?id=12616082"
+      },
+      {
+        "name": "Park Avenue",
+        "link": "https://music.163.com/artist?id=368447"
+      }
+    ],
+    "album": {
+      "name": "Decoy World",
+      "link": "https://music.163.com/album?id=36106036"
+    }
+  },
+  {
+    "name": "深蓝",
+    "link": "https://music.163.com/song?id=1387939336",
+    "duration": "03:13",
+    "artists": [
+      {
+        "name": "白昼星BZX",
+        "link": "https://music.163.com/artist?id=1185031"
+      },
+      { "name": "王舒", "link": "https://music.163.com/artist?id=29230472" }
+    ],
+    "album": {
+      "name": "深蓝",
+      "link": "https://music.163.com/album?id=81258044"
+    }
+  },
+  {
+    "name": "After the Storm",
+    "link": "https://music.163.com/song?id=1344912574",
+    "duration": "06:08",
+    "artists": [
+      {
+        "name": "Tony Anderson",
+        "link": "https://music.163.com/artist?id=79757"
+      }
+    ],
+    "album": {
+      "name": "After the Storm",
+      "link": "https://music.163.com/album?id=75492332"
+    }
+  },
+  {
+    "name": "Dawnbreaker",
+    "link": "https://music.163.com/song?id=1312570608",
+    "duration": "05:01",
+    "artists": [
+      { "name": "Metrik", "link": "https://music.163.com/artist?id=129214" }
+    ],
+    "album": {
+      "name": "Forza Horizon 4: Hospital Soundtrack",
+      "link": "https://music.163.com/album?id=73589820"
+    }
+  },
+  {
+    "name": "Borderland Sorrows",
+    "link": "https://music.163.com/song?id=520401046",
+    "duration": "03:43",
+    "artists": [
+      {
+        "name": "Slow Meadow",
+        "link": "https://music.163.com/artist?id=1177002"
+      }
+    ],
+    "album": {
+      "name": "Costero",
+      "link": "https://music.163.com/album?id=36849025"
+    }
+  },
+  {
+    "name": "Sunshine - (动画电影《大红狗克里弗》原声)",
+    "link": "https://music.163.com/song?id=1893642594",
+    "duration": "02:43",
+    "artists": [
+      { "name": "OneRepublic", "link": "https://music.163.com/artist?id=98105" }
+    ],
+    "album": {
+      "name": "Sunshine",
+      "link": "https://music.163.com/album?id=135895070"
+    }
+  },
+  {
+    "name": "Chasers",
+    "link": "https://music.163.com/song?id=1306648317",
+    "duration": "03:00",
+    "artists": [
+      { "name": "Bahari", "link": "https://music.163.com/artist?id=1044218" }
+    ],
+    "album": {
+      "name": "Chasers",
+      "link": "https://music.163.com/album?id=72806761"
+    }
+  },
+  {
+    "name": "Catch My Breath",
+    "link": "https://music.163.com/song?id=26613394",
+    "duration": "04:11",
+    "artists": [
+      {
+        "name": "Kelly Clarkson",
+        "link": "https://music.163.com/artist?id=62885"
+      }
+    ],
+    "album": {
+      "name": "Remixes Big Deluxe",
+      "link": "https://music.163.com/album?id=2535679"
+    }
+  },
+  {
+    "name": "Shine a Light (Flight Facilities Remix)",
+    "link": "https://music.163.com/song?id=25676117",
+    "duration": "05:49",
+    "artists": [
+      { "name": "The C90s", "link": "https://music.163.com/artist?id=185444" }
+    ],
+    "album": {
+      "name": "Shine a Light",
+      "link": "https://music.163.com/album?id=2272961"
+    }
+  },
+  {
+    "name": "You’re Not Alone",
+    "link": "https://music.163.com/song?id=29460504",
+    "duration": "03:54",
+    "artists": [
+      { "name": "Owl City", "link": "https://music.163.com/artist?id=40859" },
+      {
+        "name": "Britt Nicole",
+        "link": "https://music.163.com/artist?id=48444"
+      }
+    ],
+    "album": {
+      "name": "You're Not Alone",
+      "link": "https://music.163.com/album?id=3029248"
+    }
+  },
+  {
+    "name": "Empires",
+    "link": "https://music.163.com/song?id=1333422323",
+    "duration": "03:42",
+    "artists": [
+      { "name": "Ruelle", "link": "https://music.163.com/artist?id=1047114" }
+    ],
+    "album": {
+      "name": "Emerge",
+      "link": "https://music.163.com/album?id=74881579"
+    }
+  },
+  {
+    "name": "One",
+    "link": "https://music.163.com/song?id=413961696",
+    "duration": "03:16",
+    "artists": [
+      {
+        "name": "Amy Deasismont",
+        "link": "https://music.163.com/artist?id=12049097"
+      }
+    ],
+    "album": {
+      "name": "One",
+      "link": "https://music.163.com/album?id=34700512"
+    }
+  },
+  {
+    "name": "Why We Lose",
+    "link": "https://music.163.com/song?id=32737775",
+    "duration": "03:36",
+    "artists": [
+      { "name": "Cartoon", "link": "https://music.163.com/artist?id=51293" },
+      {
+        "name": "Coleman Trapp",
+        "link": "https://music.163.com/artist?id=27743339"
+      }
+    ],
+    "album": {
+      "name": "Why We Lose",
+      "link": "https://music.163.com/album?id=3171115"
+    }
+  },
+  {
+    "name": "Crystalline",
+    "link": "https://music.163.com/song?id=1382563368",
+    "duration": "06:02",
+    "artists": [
+      {
+        "name": "The Midnight",
+        "link": "https://music.163.com/artist?id=12023492"
+      }
+    ],
+    "album": {
+      "name": "Nocturnal",
+      "link": "https://music.163.com/album?id=80814887"
+    }
+  },
+  {
+    "name": "Avicii-Promise Of Tears(Feat.Avicii)（Atfort/Rebirth Remix）",
+    "link": "https://music.163.com/song?id=1394217807",
+    "duration": "04:10",
+    "artists": [
+      { "name": "Atfort", "link": "https://music.163.com/artist?id=32719664" },
+      {
+        "name": "ハミシオルソン",
+        "link": "https://music.163.com/artist?id=33102381"
+      }
+    ],
+    "album": {
+      "name": "Promise Of Tears(Feat. Tim ",
+      "link": "https://music.163.com/album?id=81980596"
+    }
+  },
+  {
+    "name": "Obvious (Alternate Version)",
+    "link": "https://music.163.com/song?id=1363276987",
+    "duration": "05:50",
+    "artists": [
+      { "name": "CHPTRS", "link": "https://music.163.com/artist?id=31973045" }
+    ],
+    "album": {
+      "name": "Chapter Three (Alternate Versions)",
+      "link": "https://music.163.com/album?id=78930492"
+    }
+  },
+  {
+    "name": "沉沦与遐想",
+    "link": "https://music.163.com/song?id=1492584510",
+    "duration": "02:33",
+    "artists": [
+      { "name": "C.HØPE", "link": "https://music.163.com/artist?id=34172520" }
+    ],
+    "album": {
+      "name": "沉沦与遐想",
+      "link": "https://music.163.com/album?id=130342502"
+    }
+  },
+  {
+    "name": "Kingdom Hearts • Xion's Theme",
+    "link": "https://music.163.com/song?id=490602730",
+    "duration": "02:26",
+    "artists": [
+      { "name": "Jenny", "link": "https://music.163.com/artist?id=12870476" }
+    ],
+    "album": {
+      "name": "Kingdom Hearts • Xion's Theme",
+      "link": "https://music.163.com/album?id=35758205"
+    }
+  },
+  {
+    "name": "Stuck with U",
+    "link": "https://music.163.com/song?id=1446764662",
+    "duration": "03:48",
+    "artists": [
+      {
+        "name": "Ariana Grande",
+        "link": "https://music.163.com/artist?id=48161"
+      },
+      {
+        "name": "Justin Bieber",
+        "link": "https://music.163.com/artist?id=35531"
+      }
+    ],
+    "album": {
+      "name": "Stuck with U",
+      "link": "https://music.163.com/album?id=89206877"
+    }
+  },
+  {
+    "name": "煎熬",
+    "link": "https://music.163.com/song?id=406308124",
+    "duration": "04:22",
+    "artists": [
+      { "name": "李佳薇", "link": "https://music.163.com/artist?id=8753" }
+    ],
+    "album": {
+      "name": "煎熬",
+      "link": "https://music.163.com/album?id=34550415"
+    }
+  }
+]
