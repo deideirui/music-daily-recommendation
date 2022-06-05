@@ -1,0 +1,457 @@
+[
+  {
+    "name": "Thunderbird",
+    "link": "https://music.163.com/song?id=1469168121",
+    "duration": "03:29",
+    "artists": [
+      {
+        "name": "Ryan Taubert",
+        "link": "https://music.163.com/artist?id=1057026"
+      }
+    ],
+    "album": {
+      "name": "Thunderbird",
+      "link": "https://music.163.com/album?id=93632855"
+    }
+  },
+  {
+    "name": "Feelings",
+    "link": "https://music.163.com/song?id=1850965992",
+    "duration": "02:54",
+    "artists": [
+      { "name": "Diviners", "link": "https://music.163.com/artist?id=1192136" },
+      { "name": "Azertion", "link": "https://music.163.com/artist?id=48358873" }
+    ],
+    "album": {
+      "name": "Feelings",
+      "link": "https://music.163.com/album?id=128514136"
+    }
+  },
+  {
+    "name": "Overdrive",
+    "link": "https://music.163.com/song?id=1422446371",
+    "duration": "04:20",
+    "artists": [
+      { "name": "Far Out", "link": "https://music.163.com/artist?id=824107" }
+    ],
+    "album": {
+      "name": "Bridges in Time",
+      "link": "https://music.163.com/album?id=85632176"
+    }
+  },
+  {
+    "name": "かもね (feat. Natsumi) - (也许吧)",
+    "link": "https://music.163.com/song?id=1904211789",
+    "duration": "03:26",
+    "artists": [
+      {
+        "name": "JUVENILE",
+        "link": "https://music.163.com/artist?id=46310826"
+      },
+      { "name": "natsumi", "link": "https://music.163.com/artist?id=47930626" }
+    ],
+    "album": {
+      "name": "INTERWEAVE 02",
+      "link": "https://music.163.com/album?id=137625938"
+    }
+  },
+  {
+    "name": "Spotlight",
+    "link": "https://music.163.com/song?id=1861707534",
+    "duration": "03:42",
+    "artists": [
+      { "name": "Navion", "link": "https://music.163.com/artist?id=12096296" },
+      { "name": "Oryon", "link": "https://music.163.com/artist?id=314651" },
+      {
+        "name": "Summer Haze",
+        "link": "https://music.163.com/artist?id=29727079"
+      },
+      {
+        "name": "Dirty Workz",
+        "link": "https://music.163.com/artist?id=33808957"
+      }
+    ],
+    "album": {
+      "name": "Spotlight",
+      "link": "https://music.163.com/album?id=130465670"
+    }
+  },
+  {
+    "name": "Alexander Hamilton - (音乐剧《汉密尔顿》原声)",
+    "link": "https://music.163.com/song?id=35804599",
+    "duration": "03:56",
+    "artists": [
+      {
+        "name": "Lin-Manuel Miranda",
+        "link": "https://music.163.com/artist?id=38689"
+      },
+      {
+        "name": "Leslie Odom, Jr.",
+        "link": "https://music.163.com/artist?id=193835"
+      },
+      {
+        "name": "Original Broadway Cast of Hamilton",
+        "link": "https://music.163.com/artist?id=12492240"
+      },
+      {
+        "name": "Christopher Jackson",
+        "link": "https://music.163.com/artist?id=13839559"
+      }
+    ],
+    "album": {
+      "name": "Hamilton (Original Broadway Cast Recording)",
+      "link": "https://music.163.com/album?id=3367211"
+    }
+  },
+  {
+    "name": "Bullet With Butterfly Wings",
+    "link": "https://music.163.com/song?id=1444908451",
+    "duration": "02:58",
+    "artists": [
+      {
+        "name": "Tommee Profitt",
+        "link": "https://music.163.com/artist?id=28975"
+      },
+      {
+        "name": "Sam Tinnesz",
+        "link": "https://music.163.com/artist?id=13057598"
+      }
+    ],
+    "album": {
+      "name": "Covers (Vol. 1)",
+      "link": "https://music.163.com/album?id=88826540"
+    }
+  },
+  {
+    "name": "Have No Fear",
+    "link": "https://music.163.com/song?id=459720239",
+    "duration": "04:16",
+    "artists": [
+      {
+        "name": "Third Party",
+        "link": "https://music.163.com/artist?id=784231"
+      }
+    ],
+    "album": {
+      "name": "Have No Fear",
+      "link": "https://music.163.com/album?id=35174315"
+    }
+  },
+  {
+    "name": "Search",
+    "link": "https://music.163.com/song?id=30251252",
+    "duration": "04:52",
+    "artists": [
+      {
+        "name": "Approaching Nirvana",
+        "link": "https://music.163.com/artist?id=86884"
+      }
+    ],
+    "album": {
+      "name": "Reboot",
+      "link": "https://music.163.com/album?id=3095022"
+    }
+  },
+  {
+    "name": "He Said She Said",
+    "link": "https://music.163.com/song?id=1838619299",
+    "duration": "03:09",
+    "artists": [
+      { "name": "CHVRCHES", "link": "https://music.163.com/artist?id=694027" }
+    ],
+    "album": {
+      "name": "He Said She Said",
+      "link": "https://music.163.com/album?id=126214856"
+    }
+  },
+  {
+    "name": "You Got Me",
+    "link": "https://music.163.com/song?id=421423721",
+    "duration": "03:58",
+    "artists": [
+      { "name": "Feki", "link": "https://music.163.com/artist?id=1122128" },
+      { "name": "Dom Vino", "link": "https://music.163.com/artist?id=27887301" }
+    ],
+    "album": {
+      "name": "You Got Me",
+      "link": "https://music.163.com/album?id=34780540"
+    }
+  },
+  {
+    "name": "Flying with White Wings",
+    "link": "https://music.163.com/song?id=1479671465",
+    "duration": "04:52",
+    "artists": [
+      {
+        "name": "Daniel Padim",
+        "link": "https://music.163.com/artist?id=1021003"
+      }
+    ],
+    "album": {
+      "name": "Flying with White Wings",
+      "link": "https://music.163.com/album?id=95485052"
+    }
+  },
+  {
+    "name": "Elysium",
+    "link": "https://music.163.com/song?id=485960380",
+    "duration": "02:51",
+    "artists": [
+      { "name": "Lostboy", "link": "https://music.163.com/artist?id=12474308" },
+      { "name": "Slashtaq", "link": "https://music.163.com/artist?id=12335232" }
+    ],
+    "album": {
+      "name": "Elysium",
+      "link": "https://music.163.com/album?id=35663016"
+    }
+  },
+  {
+    "name": "Light Particle（Original Mix）",
+    "link": "https://music.163.com/song?id=1925396823",
+    "duration": "02:57",
+    "artists": [
+      {
+        "name": "Young Xxxg",
+        "link": "https://music.163.com/artist?id=51592006"
+      }
+    ],
+    "album": {
+      "name": "Woo（Original Mix）",
+      "link": "https://music.163.com/album?id=141320457"
+    }
+  },
+  {
+    "name": "Summer Dream (feat. Chevy)",
+    "link": "https://music.163.com/song?id=1854644975",
+    "duration": "03:36",
+    "artists": [
+      {
+        "name": "Kirara Magic",
+        "link": "https://music.163.com/artist?id=30226109"
+      }
+    ],
+    "album": {
+      "name": "Summer Dream (feat. Chevy)",
+      "link": "https://music.163.com/album?id=129271629"
+    }
+  },
+  {
+    "name": "Perfect",
+    "link": "https://music.163.com/song?id=1304875456",
+    "duration": "04:23",
+    "artists": [
+      { "name": "Ed Sheeran", "link": "https://music.163.com/artist?id=33184" }
+    ],
+    "album": { "name": "÷", "link": "https://music.163.com/album?id=72583168" }
+  },
+  {
+    "name": "无药可救",
+    "link": "https://music.163.com/song?id=1317494313",
+    "duration": "03:30",
+    "artists": [
+      { "name": "张杰", "link": "https://music.163.com/artist?id=6472" }
+    ],
+    "album": {
+      "name": "未·LIVE",
+      "link": "https://music.163.com/album?id=73876792"
+    }
+  },
+  {
+    "name": "Mermaid",
+    "link": "https://music.163.com/song?id=491604012",
+    "duration": "03:31",
+    "artists": [
+      { "name": "SKOTT", "link": "https://music.163.com/artist?id=12061139" }
+    ],
+    "album": {
+      "name": "Mermaid",
+      "link": "https://music.163.com/album?id=35789011"
+    }
+  },
+  {
+    "name": "Kick Drums & Red Wine",
+    "link": "https://music.163.com/song?id=28999944",
+    "duration": "06:21",
+    "artists": [
+      {
+        "name": "The Midnight",
+        "link": "https://music.163.com/artist?id=31155526"
+      }
+    ],
+    "album": {
+      "name": "Days of Thunder",
+      "link": "https://music.163.com/album?id=2976060"
+    }
+  },
+  {
+    "name": "The Storm",
+    "link": "https://music.163.com/song?id=1417907835",
+    "duration": "02:48",
+    "artists": [
+      {
+        "name": "TheFatRat",
+        "link": "https://music.163.com/artist?id=1019952"
+      },
+      { "name": "Maisy Kay", "link": "https://music.163.com/artist?id=1124551" }
+    ],
+    "album": {
+      "name": "The Storm",
+      "link": "https://music.163.com/album?id=85101961"
+    }
+  },
+  {
+    "name": "BLAME IT ON THE KIDS",
+    "link": "https://music.163.com/song?id=1453664190",
+    "duration": "03:16",
+    "artists": [
+      { "name": "AViVA", "link": "https://music.163.com/artist?id=12074178" }
+    ],
+    "album": {
+      "name": "VOLUME I",
+      "link": "https://music.163.com/album?id=90494506"
+    }
+  },
+  {
+    "name": "戒不掉",
+    "link": "https://music.163.com/song?id=573359962",
+    "duration": "04:03",
+    "artists": [
+      { "name": "KYS", "link": "https://music.163.com/artist?id=14017279" },
+      { "name": "欧阳耀莹", "link": "https://music.163.com/artist?id=13451731" }
+    ],
+    "album": {
+      "name": "戒不掉",
+      "link": "https://music.163.com/album?id=39689179"
+    }
+  },
+  {
+    "name": "Melagė",
+    "link": "https://music.163.com/song?id=1325905040",
+    "duration": "03:01",
+    "artists": [
+      { "name": "Gjan", "link": "https://music.163.com/artist?id=851014" }
+    ],
+    "album": {
+      "name": "Melagė",
+      "link": "https://music.163.com/album?id=74416898"
+    }
+  },
+  {
+    "name": "Down With Your Love",
+    "link": "https://music.163.com/song?id=419250255",
+    "duration": "04:08",
+    "artists": [
+      { "name": "Tinashe", "link": "https://music.163.com/artist?id=45221" },
+      { "name": "Chris Brown", "link": "https://music.163.com/artist?id=29960" }
+    ],
+    "album": {
+      "name": "Down With Your Love",
+      "link": "https://music.163.com/album?id=34754075"
+    }
+  },
+  {
+    "name": "Krewella-Alibi (BEAUZ Remix)",
+    "link": "https://music.163.com/song?id=1309007044",
+    "duration": "03:15",
+    "artists": [
+      { "name": "BEAUZ", "link": "https://music.163.com/artist?id=12131436" }
+    ],
+    "album": {
+      "name": "Alibi (BEAUZ Remix)",
+      "link": "https://music.163.com/album?id=73176044"
+    }
+  },
+  {
+    "name": "You Are My Defense",
+    "link": "https://music.163.com/song?id=27630183",
+    "duration": "03:47",
+    "artists": [
+      {
+        "name": "Christa Wells",
+        "link": "https://music.163.com/artist?id=53047"
+      }
+    ],
+    "album": {
+      "name": "Feed Your Soul",
+      "link": "https://music.163.com/album?id=2646147"
+    }
+  },
+  {
+    "name": "你迎面走来，再面无表情地离开",
+    "link": "https://music.163.com/song?id=1834118074",
+    "duration": "03:48",
+    "artists": [
+      { "name": "温室杂草", "link": "https://music.163.com/artist?id=47330155" }
+    ],
+    "album": {
+      "name": "春天有脚",
+      "link": "https://music.163.com/album?id=125455491"
+    }
+  },
+  {
+    "name": "影子",
+    "link": "https://music.163.com/song?id=1358255257",
+    "duration": "04:41",
+    "artists": [
+      { "name": "岛屿心情", "link": "https://music.163.com/artist?id=11481" }
+    ],
+    "album": {
+      "name": "？1",
+      "link": "https://music.163.com/album?id=78482497"
+    }
+  },
+  {
+    "name": "法兰西多士 - (Pain toast)",
+    "link": "https://music.163.com/song?id=1368753797",
+    "duration": "04:14",
+    "artists": [
+      { "name": "告五人", "link": "https://music.163.com/artist?id=12676697" }
+    ],
+    "album": {
+      "name": "我肯定在几百年前就说过爱你",
+      "link": "https://music.163.com/album?id=79515295"
+    }
+  },
+  {
+    "name": "In the Shadows",
+    "link": "https://music.163.com/song?id=524913814",
+    "duration": "04:23",
+    "artists": [
+      { "name": "Amy Stroup", "link": "https://music.163.com/artist?id=48088" }
+    ],
+    "album": {
+      "name": "In the Shadows",
+      "link": "https://music.163.com/album?id=36997105"
+    }
+  },
+  {
+    "name": "I Really Like You",
+    "link": "https://music.163.com/song?id=32574252",
+    "duration": "03:06",
+    "artists": [
+      {
+        "name": "Anthem Lights",
+        "link": "https://music.163.com/artist?id=86862"
+      }
+    ],
+    "album": {
+      "name": "I Really Like You",
+      "link": "https://music.163.com/album?id=3161570"
+    }
+  },
+  {
+    "name": "Old Money",
+    "link": "https://music.163.com/song?id=28660009",
+    "duration": "04:31",
+    "artists": [
+      {
+        "name": "Lana Del Rey",
+        "link": "https://music.163.com/artist?id=66212"
+      }
+    ],
+    "album": {
+      "name": "Ultraviolence (Deluxe Version)",
+      "link": "https://music.163.com/album?id=2866097"
+    }
+  }
+]
