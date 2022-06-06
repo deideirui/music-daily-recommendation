@@ -1,0 +1,452 @@
+[
+  {
+    "name": "Gratitude",
+    "link": "https://music.163.com/song?id=433681125",
+    "duration": "04:07",
+    "artists": [
+      { "name": "Nomyn", "link": "https://music.163.com/artist?id=12029121" }
+    ],
+    "album": {
+      "name": "Gratitude",
+      "link": "https://music.163.com/album?id=34897779"
+    }
+  },
+  {
+    "name": "Soul Search",
+    "link": "https://music.163.com/song?id=425136341",
+    "duration": "04:23",
+    "artists": [
+      { "name": "CloZee", "link": "https://music.163.com/artist?id=780043" },
+      { "name": "Volo", "link": "https://music.163.com/artist?id=149057" }
+    ],
+    "album": {
+      "name": "Soul Search",
+      "link": "https://music.163.com/album?id=34816121"
+    }
+  },
+  {
+    "name": "Hong Kong Story",
+    "link": "https://music.163.com/song?id=1914723467",
+    "duration": "03:56",
+    "artists": [
+      {
+        "name": "Lazer Boomerang",
+        "link": "https://music.163.com/artist?id=13976294"
+      }
+    ],
+    "album": {
+      "name": "Hong Kong Story",
+      "link": "https://music.163.com/album?id=139359997"
+    }
+  },
+  {
+    "name": "无仙",
+    "link": "https://music.163.com/song?id=556673324",
+    "duration": "02:15",
+    "artists": [
+      {
+        "name": "Candy_Wind",
+        "link": "https://music.163.com/artist?id=1084178"
+      }
+    ],
+    "album": {
+      "name": "无仙",
+      "link": "https://music.163.com/album?id=38522403"
+    }
+  },
+  {
+    "name": "Can't Get Away (feat. Emma Lundin)",
+    "link": "https://music.163.com/song?id=1952806203",
+    "duration": "03:06",
+    "artists": [
+      { "name": "Seuto", "link": "https://music.163.com/artist?id=30130787" },
+      {
+        "name": "OutaMatic",
+        "link": "https://music.163.com/artist?id=1181741"
+      },
+      {
+        "name": "Emma Lundin",
+        "link": "https://music.163.com/artist?id=52908756"
+      }
+    ],
+    "album": {
+      "name": "Can't Get Away (feat. Emma Lundin)",
+      "link": "https://music.163.com/album?id=145914862"
+    }
+  },
+  {
+    "name": "Passing",
+    "link": "https://music.163.com/song?id=1446233321",
+    "duration": "03:27",
+    "artists": [
+      { "name": "Kazukii", "link": "https://music.163.com/artist?id=12054389" }
+    ],
+    "album": {
+      "name": "Passing",
+      "link": "https://music.163.com/album?id=89092903"
+    }
+  },
+  {
+    "name": "Tears",
+    "link": "https://music.163.com/song?id=411907928",
+    "duration": "05:35",
+    "artists": [
+      { "name": "FM-84", "link": "https://music.163.com/artist?id=12046467" }
+    ],
+    "album": {
+      "name": "Atlas",
+      "link": "https://music.163.com/album?id=34686652"
+    }
+  },
+  {
+    "name": "Waiting Part II (The Answer)",
+    "link": "https://music.163.com/song?id=1848243289",
+    "duration": "04:17",
+    "artists": [
+      { "name": "Caslow", "link": "https://music.163.com/artist?id=15109745" },
+      { "name": "Foster", "link": "https://music.163.com/artist?id=37484690" },
+      { "name": "Brycian", "link": "https://music.163.com/artist?id=48215031" }
+    ],
+    "album": {
+      "name": "Waiting Part II (The Answer)",
+      "link": "https://music.163.com/album?id=128020696"
+    }
+  },
+  {
+    "name": "Teenage Lullaby",
+    "link": "https://music.163.com/song?id=1454202687",
+    "duration": "02:56",
+    "artists": [
+      { "name": "Ooyy", "link": "https://music.163.com/artist?id=28767786" }
+    ],
+    "album": {
+      "name": "Future Yellow",
+      "link": "https://music.163.com/album?id=90606892"
+    }
+  },
+  {
+    "name": "Calme",
+    "link": "https://music.163.com/song?id=1831476858",
+    "duration": "02:35",
+    "artists": [
+      {
+        "name": "Ever So Blue",
+        "link": "https://music.163.com/artist?id=32631443"
+      }
+    ],
+    "album": {
+      "name": "Calme",
+      "link": "https://music.163.com/album?id=124900226"
+    }
+  },
+  {
+    "name": "Elevate",
+    "link": "https://music.163.com/song?id=1816407237",
+    "duration": "03:35",
+    "artists": [
+      { "name": "Vicetone", "link": "https://music.163.com/artist?id=747030" }
+    ],
+    "album": {
+      "name": "Legacy",
+      "link": "https://music.163.com/album?id=122372498"
+    }
+  },
+  {
+    "name": "Shadows",
+    "link": "https://music.163.com/song?id=544000236",
+    "duration": "02:39",
+    "artists": [
+      {
+        "name": "Aero Chord",
+        "link": "https://music.163.com/artist?id=845121"
+      },
+      { "name": "Nevve", "link": "https://music.163.com/artist?id=12567101" }
+    ],
+    "album": {
+      "name": "Shadows",
+      "link": "https://music.163.com/album?id=37887044"
+    }
+  },
+  {
+    "name": "It Wouldn't Be Right",
+    "link": "https://music.163.com/song?id=29922545",
+    "duration": "04:08",
+    "artists": [
+      {
+        "name": "Chasing Jonah",
+        "link": "https://music.163.com/artist?id=1044205"
+      }
+    ],
+    "album": {
+      "name": "Prelude",
+      "link": "https://music.163.com/album?id=3087055"
+    }
+  },
+  {
+    "name": "The Story Never Ends (Piano Version)",
+    "link": "https://music.163.com/song?id=437802479",
+    "duration": "03:49",
+    "artists": [
+      { "name": "Lauv", "link": "https://music.163.com/artist?id=1057226" }
+    ],
+    "album": {
+      "name": "The Story Never Ends (Piano Version)",
+      "link": "https://music.163.com/album?id=34923230"
+    }
+  },
+  {
+    "name": "Stand By You",
+    "link": "https://music.163.com/song?id=1418382140",
+    "duration": "03:10",
+    "artists": [
+      {
+        "name": "Jac & Harri",
+        "link": "https://music.163.com/artist?id=12776287"
+      },
+      {
+        "name": "Bailey Coats",
+        "link": "https://music.163.com/artist?id=31888376"
+      }
+    ],
+    "album": {
+      "name": "Stand By You",
+      "link": "https://music.163.com/album?id=85158501"
+    }
+  },
+  {
+    "name": "Hello",
+    "link": "https://music.163.com/song?id=1473922251",
+    "duration": "03:45",
+    "artists": [
+      {
+        "name": "VARGENTA",
+        "link": "https://music.163.com/artist?id=12108656"
+      },
+      { "name": "ZENTA", "link": "https://music.163.com/artist?id=36937063" },
+      {
+        "name": "Max Landry",
+        "link": "https://music.163.com/artist?id=13493957"
+      },
+      {
+        "name": "Revealed Recordings",
+        "link": "https://music.163.com/artist?id=28753573"
+      }
+    ],
+    "album": {
+      "name": "Hello",
+      "link": "https://music.163.com/album?id=94465381"
+    }
+  },
+  {
+    "name": "Last Of Me (Arknights Soundtrack) - (游戏《明日方舟》原声)",
+    "link": "https://music.163.com/song?id=1457694617",
+    "duration": "03:01",
+    "artists": [
+      { "name": "Steve Aoki", "link": "https://music.163.com/artist?id=43608" },
+      { "name": "RUNN", "link": "https://music.163.com/artist?id=15237536" }
+    ],
+    "album": {
+      "name": "Last Of Me (Arknights Soundtrack)",
+      "link": "https://music.163.com/album?id=91418794"
+    }
+  },
+  {
+    "name": "Quiet Sound",
+    "link": "https://music.163.com/song?id=1430420634",
+    "duration": "03:22",
+    "artists": [
+      { "name": "Manse", "link": "https://music.163.com/artist?id=855409" },
+      {
+        "name": "Rich Edwards",
+        "link": "https://music.163.com/artist?id=1038214"
+      }
+    ],
+    "album": {
+      "name": "Quiet Sound",
+      "link": "https://music.163.com/album?id=86456257"
+    }
+  },
+  {
+    "name": "Au Volant",
+    "link": "https://music.163.com/song?id=426906738",
+    "duration": "03:15",
+    "artists": [
+      {
+        "name": "Elsa & Emilie",
+        "link": "https://music.163.com/artist?id=1003033"
+      }
+    ],
+    "album": {
+      "name": "Au Volant",
+      "link": "https://music.163.com/album?id=34844063"
+    }
+  },
+  {
+    "name": "Walk Through the Fire",
+    "link": "https://music.163.com/song?id=421807889",
+    "duration": "03:36",
+    "artists": [
+      {
+        "name": "Zayde Wølf",
+        "link": "https://music.163.com/artist?id=12073833"
+      },
+      { "name": "Ruelle", "link": "https://music.163.com/artist?id=1047114" }
+    ],
+    "album": {
+      "name": "Walk Through the Fire",
+      "link": "https://music.163.com/album?id=34751880"
+    }
+  },
+  {
+    "name": "The Edge ",
+    "link": "https://music.163.com/song?id=1315450595",
+    "duration": "03:13",
+    "artists": [
+      { "name": "Grant", "link": "https://music.163.com/artist?id=813362" },
+      { "name": "Nevve", "link": "https://music.163.com/artist?id=12567101" }
+    ],
+    "album": {
+      "name": "The Edge (feat. Nevve)",
+      "link": "https://music.163.com/album?id=73781583"
+    }
+  },
+  {
+    "name": "It’s Only (feat. Zyra) (ODESZA VIP Remix)",
+    "link": "https://music.163.com/song?id=1329664864",
+    "duration": "04:00",
+    "artists": [
+      { "name": "ODESZA", "link": "https://music.163.com/artist?id=839108" },
+      { "name": "Zyra", "link": "https://music.163.com/artist?id=1156311" }
+    ],
+    "album": {
+      "name": "A Moment Apart (Deluxe Edition)",
+      "link": "https://music.163.com/album?id=74669989"
+    }
+  },
+  {
+    "name": "Last Summer",
+    "link": "https://music.163.com/song?id=1351913685",
+    "duration": "02:35",
+    "artists": [
+      {
+        "name": "Johnny Orlando",
+        "link": "https://music.163.com/artist?id=590458"
+      }
+    ],
+    "album": {
+      "name": "Teenage Fever",
+      "link": "https://music.163.com/album?id=75848224"
+    }
+  },
+  {
+    "name": "Lotus",
+    "link": "https://music.163.com/song?id=1327822114",
+    "duration": "03:46",
+    "artists": [
+      {
+        "name": "Osvaldorio",
+        "link": "https://music.163.com/artist?id=12047326"
+      },
+      { "name": "Wiana", "link": "https://music.163.com/artist?id=30820516" },
+      { "name": "Galdive", "link": "https://music.163.com/artist?id=30820517" }
+    ],
+    "album": {
+      "name": "Lotus",
+      "link": "https://music.163.com/album?id=74544514"
+    }
+  },
+  {
+    "name": "Endless War",
+    "link": "https://music.163.com/song?id=1343445127",
+    "duration": "04:09",
+    "artists": [
+      {
+        "name": "Within Temptation",
+        "link": "https://music.163.com/artist?id=105084"
+      }
+    ],
+    "album": {
+      "name": "Resist (Extended Deluxe)",
+      "link": "https://music.163.com/album?id=75403595"
+    }
+  },
+  {
+    "name": "Modern Love",
+    "link": "https://music.163.com/song?id=1301474568",
+    "duration": "04:50",
+    "artists": [
+      { "name": "Kristine", "link": "https://music.163.com/artist?id=813065" }
+    ],
+    "album": {
+      "name": "Kristine",
+      "link": "https://music.163.com/album?id=72292762"
+    }
+  },
+  {
+    "name": "Take Over",
+    "link": "https://music.163.com/song?id=1334830040",
+    "duration": "02:50",
+    "artists": [
+      {
+        "name": "Hidden Citizens",
+        "link": "https://music.163.com/artist?id=1147184"
+      },
+      { "name": "Ruelle", "link": "https://music.163.com/artist?id=1047114" }
+    ],
+    "album": {
+      "name": "Take Over",
+      "link": "https://music.163.com/album?id=74955798"
+    }
+  },
+  {
+    "name": "Bottom Of The Deep Blue Sea - (游戏《狂野飙车9：竞速传奇》背景音乐)",
+    "link": "https://music.163.com/song?id=465833903",
+    "duration": "03:51",
+    "artists": [
+      { "name": "Missio", "link": "https://music.163.com/artist?id=1038292" }
+    ],
+    "album": {
+      "name": "Bottom Of The Deep Blue Sea",
+      "link": "https://music.163.com/album?id=35274135"
+    }
+  },
+  {
+    "name": "Queen",
+    "link": "https://music.163.com/song?id=1334774201",
+    "duration": "02:40",
+    "artists": [
+      {
+        "name": "Loren Gray",
+        "link": "https://music.163.com/artist?id=28802007"
+      }
+    ],
+    "album": {
+      "name": "Queen",
+      "link": "https://music.163.com/album?id=74952788"
+    }
+  },
+  {
+    "name": "Heart Shaped Box",
+    "link": "https://music.163.com/song?id=1421380899",
+    "duration": "04:50",
+    "artists": [
+      { "name": "Neovaii", "link": "https://music.163.com/artist?id=12356095" }
+    ],
+    "album": {
+      "name": "Closure",
+      "link": "https://music.163.com/album?id=85525885"
+    }
+  },
+  {
+    "name": "double take",
+    "link": "https://music.163.com/song?id=1369602061",
+    "duration": "02:51",
+    "artists": [
+      { "name": "dhruv", "link": "https://music.163.com/artist?id=32470128" }
+    ],
+    "album": {
+      "name": "double take",
+      "link": "https://music.163.com/album?id=79590373"
+    }
+  }
+]
