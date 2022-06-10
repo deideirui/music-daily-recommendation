@@ -1,0 +1,500 @@
+[
+  {
+    "name": "Desolation",
+    "link": "https://music.163.com/song?id=1358171336",
+    "duration": "03:06",
+    "artists": [
+      {
+        "name": "Tommee Profitt",
+        "link": "https://music.163.com/artist?id=28975"
+      }
+    ],
+    "album": {
+      "name": "Gloria Regali",
+      "link": "https://music.163.com/album?id=78477606"
+    }
+  },
+  {
+    "name": "Oyarsa (feat. Timbre)",
+    "link": "https://music.163.com/song?id=1312596786",
+    "duration": "06:52",
+    "artists": [
+      {
+        "name": "Tony Anderson",
+        "link": "https://music.163.com/artist?id=79757"
+      },
+      { "name": "Timbre", "link": "https://music.163.com/artist?id=83250" }
+    ],
+    "album": {
+      "name": "Chasm",
+      "link": "https://music.163.com/album?id=73595415"
+    }
+  },
+  {
+    "name": "Truth",
+    "link": "https://music.163.com/song?id=479408193",
+    "duration": "03:48",
+    "artists": [
+      { "name": "Shallou", "link": "https://music.163.com/artist?id=12029377" }
+    ],
+    "album": {
+      "name": "All Becomes Okay",
+      "link": "https://music.163.com/album?id=35544021"
+    }
+  },
+  {
+    "name": "阿尔茨海默症",
+    "link": "https://music.163.com/song?id=1863449738",
+    "duration": "02:16",
+    "artists": [
+      { "name": "盼钰", "link": "https://music.163.com/artist?id=34564983" }
+    ],
+    "album": {
+      "name": "没有尽头的葬礼",
+      "link": "https://music.163.com/album?id=130784761"
+    }
+  },
+  {
+    "name": "Always Will",
+    "link": "https://music.163.com/song?id=1954893288",
+    "duration": "03:27",
+    "artists": [
+      { "name": "SeeB", "link": "https://music.163.com/artist?id=1182169" },
+      {
+        "name": "Julie Bergan",
+        "link": "https://music.163.com/artist?id=896964"
+      }
+    ],
+    "album": {
+      "name": "Always Will",
+      "link": "https://music.163.com/album?id=146313825"
+    }
+  },
+  {
+    "name": "Late Night Melancholy",
+    "link": "https://music.163.com/song?id=1455200688",
+    "duration": "04:18",
+    "artists": [
+      { "name": "Rude Boy", "link": "https://music.163.com/artist?id=249881" }
+    ],
+    "album": {
+      "name": "Late Night Melancholy",
+      "link": "https://music.163.com/album?id=90835872"
+    }
+  },
+  {
+    "name": "Nightmare",
+    "link": "https://music.163.com/song?id=1419434850",
+    "duration": "03:25",
+    "artists": [
+      {
+        "name": "Besomorph",
+        "link": "https://music.163.com/artist?id=13406913"
+      },
+      { "name": "RIELL", "link": "https://music.163.com/artist?id=30558622" }
+    ],
+    "album": {
+      "name": "Nightmare",
+      "link": "https://music.163.com/album?id=85299249"
+    }
+  },
+  {
+    "name": "Sweet Dreams & Dynamite",
+    "link": "https://music.163.com/song?id=1896100382",
+    "duration": "02:41",
+    "artists": [
+      { "name": "SeeB", "link": "https://music.163.com/artist?id=1182169" },
+      {
+        "name": "Nina Nesbitt",
+        "link": "https://music.163.com/artist?id=70292"
+      }
+    ],
+    "album": {
+      "name": "Sweet Dreams & Dynamite",
+      "link": "https://music.163.com/album?id=136301943"
+    }
+  },
+  {
+    "name": "Light It Up",
+    "link": "https://music.163.com/song?id=1451569988",
+    "duration": "03:37",
+    "artists": [
+      { "name": "NEFFEX", "link": "https://music.163.com/artist?id=12023273" }
+    ],
+    "album": {
+      "name": "Best of Me: The Collection",
+      "link": "https://music.163.com/album?id=90074399"
+    }
+  },
+  {
+    "name": "these days will fade out",
+    "link": "https://music.163.com/song?id=1452590934",
+    "duration": "03:12",
+    "artists": [
+      { "name": "Kayou.", "link": "https://music.163.com/artist?id=31330014" },
+      {
+        "name": "Woven In Hiatus",
+        "link": "https://music.163.com/artist?id=14768602"
+      }
+    ],
+    "album": {
+      "name": "these days will fade out",
+      "link": "https://music.163.com/album?id=90257422"
+    }
+  },
+  {
+    "name": "Need Somebody",
+    "link": "https://music.163.com/song?id=1452283490",
+    "duration": "03:07",
+    "artists": [
+      {
+        "name": "Always Never",
+        "link": "https://music.163.com/artist?id=12108570"
+      }
+    ],
+    "album": {
+      "name": "Need Somebody",
+      "link": "https://music.163.com/album?id=90199349"
+    }
+  },
+  {
+    "name": "Vessel",
+    "link": "https://music.163.com/song?id=472137797",
+    "duration": "03:24",
+    "artists": [
+      {
+        "name": "Ship Wrek",
+        "link": "https://music.163.com/artist?id=1182569"
+      },
+      {
+        "name": "Zookeepers",
+        "link": "https://music.163.com/artist?id=11975054"
+      },
+      { "name": "Trauzers", "link": "https://music.163.com/artist?id=14510062" }
+    ],
+    "album": {
+      "name": "Vessel",
+      "link": "https://music.163.com/album?id=35369328"
+    }
+  },
+  {
+    "name": "Something More",
+    "link": "https://music.163.com/song?id=1830376129",
+    "duration": "02:33",
+    "artists": [
+      {
+        "name": "The Tech Thieves",
+        "link": "https://music.163.com/artist?id=12080267"
+      }
+    ],
+    "album": {
+      "name": "The Purple EP",
+      "link": "https://music.163.com/album?id=124688533"
+    }
+  },
+  {
+    "name": "Freaking Out!",
+    "link": "https://music.163.com/song?id=1390570636",
+    "duration": "03:07",
+    "artists": [
+      {
+        "name": "Caroline Kole",
+        "link": "https://music.163.com/artist?id=1169018"
+      }
+    ],
+    "album": {
+      "name": "Freaking Out! - EP",
+      "link": "https://music.163.com/album?id=81601253"
+    }
+  },
+  {
+    "name": "Zombie",
+    "link": "https://music.163.com/song?id=1366994516",
+    "duration": "03:24",
+    "artists": [
+      {
+        "name": "Ghostly Kisses",
+        "link": "https://music.163.com/artist?id=1087366"
+      }
+    ],
+    "album": {
+      "name": "The City Holds My Heart",
+      "link": "https://music.163.com/album?id=73836001"
+    }
+  },
+  {
+    "name": "Legends Are Made",
+    "link": "https://music.163.com/song?id=1456416706",
+    "duration": "02:49",
+    "artists": [
+      {
+        "name": "Sam Tinnesz",
+        "link": "https://music.163.com/artist?id=13057598"
+      }
+    ],
+    "album": {
+      "name": "Babel",
+      "link": "https://music.163.com/album?id=91166048"
+    }
+  },
+  {
+    "name": "Homage",
+    "link": "https://music.163.com/song?id=1820919333",
+    "duration": "02:58",
+    "artists": [
+      {
+        "name": "Galakuoi",
+        "link": "https://music.163.com/artist?id=46447123"
+      },
+      {
+        "name": "audentes Fortuna adiuvat",
+        "link": "https://music.163.com/artist?id=46810904"
+      },
+      { "name": "IndieHay", "link": "https://music.163.com/artist?id=46401458" }
+    ],
+    "album": {
+      "name": "Homage",
+      "link": "https://music.163.com/album?id=123165282"
+    }
+  },
+  {
+    "name": "r u ok",
+    "link": "https://music.163.com/song?id=1501365659",
+    "duration": "03:05",
+    "artists": [
+      {
+        "name": "Tate McRae",
+        "link": "https://music.163.com/artist?id=30784458"
+      }
+    ],
+    "album": {
+      "name": "r u ok",
+      "link": "https://music.163.com/album?id=99256691"
+    }
+  },
+  {
+    "name": "Abu Dhabi",
+    "link": "https://music.163.com/song?id=1343240342",
+    "duration": "02:39",
+    "artists": [
+      {
+        "name": "Mikolas Josef",
+        "link": "https://music.163.com/artist?id=12214084"
+      }
+    ],
+    "album": {
+      "name": "Abu Dhabi",
+      "link": "https://music.163.com/album?id=75388455"
+    }
+  },
+  {
+    "name": "Falling",
+    "link": "https://music.163.com/song?id=1349213794",
+    "duration": "03:53",
+    "artists": [
+      { "name": "LÉON", "link": "https://music.163.com/artist?id=1178081" }
+    ],
+    "album": {
+      "name": "LÉON",
+      "link": "https://music.163.com/album?id=75738382"
+    }
+  },
+  {
+    "name": "One I Want",
+    "link": "https://music.163.com/song?id=1417055633",
+    "duration": "02:58",
+    "artists": [
+      {
+        "name": "VARGENTA",
+        "link": "https://music.163.com/artist?id=12108656"
+      },
+      { "name": "Son", "link": "https://music.163.com/artist?id=263903" },
+      {
+        "name": "Revealed Recordings",
+        "link": "https://music.163.com/artist?id=28753573"
+      },
+      {
+        "name": "Max Landry",
+        "link": "https://music.163.com/artist?id=13493957"
+      }
+    ],
+    "album": {
+      "name": "One I Want",
+      "link": "https://music.163.com/album?id=85020161"
+    }
+  },
+  {
+    "name": "+ La vie - (这种生活)",
+    "link": "https://music.163.com/song?id=1811326006",
+    "duration": "03:49",
+    "artists": [
+      { "name": "Ichon", "link": "https://music.163.com/artist?id=12862169" }
+    ],
+    "album": {
+      "name": "+ La vie",
+      "link": "https://music.163.com/album?id=121515671"
+    }
+  },
+  {
+    "name": "Skeleton (feat. Nevve)",
+    "link": "https://music.163.com/song?id=1318511471",
+    "duration": "03:07",
+    "artists": [
+      { "name": "Tails", "link": "https://music.163.com/artist?id=13738077" },
+      { "name": "Inverness", "link": "https://music.163.com/artist?id=216883" },
+      { "name": "Nevve", "link": "https://music.163.com/artist?id=12567101" }
+    ],
+    "album": {
+      "name": "Skeleton (feat. Nevve)",
+      "link": "https://music.163.com/album?id=73950794"
+    }
+  },
+  {
+    "name": "Got A Little Crush On You",
+    "link": "https://music.163.com/song?id=1323148446",
+    "duration": "03:31",
+    "artists": [
+      {
+        "name": "Wildflowers",
+        "link": "https://music.163.com/artist?id=12977810"
+      },
+      { "name": "Emmi", "link": "https://music.163.com/artist?id=140606" }
+    ],
+    "album": {
+      "name": "Buttercup",
+      "link": "https://music.163.com/album?id=74254239"
+    }
+  },
+  {
+    "name": "Ready For Ya",
+    "link": "https://music.163.com/song?id=1426532411",
+    "duration": "03:14",
+    "artists": [
+      {
+        "name": "Sickrate",
+        "link": "https://music.163.com/artist?id=32795333"
+      },
+      { "name": "Rentz", "link": "https://music.163.com/artist?id=12628381" }
+    ],
+    "album": {
+      "name": "Ready For Ya",
+      "link": "https://music.163.com/album?id=86061829"
+    }
+  },
+  {
+    "name": "Dangerous",
+    "link": "https://music.163.com/song?id=1348447900",
+    "duration": "02:57",
+    "artists": [
+      {
+        "name": "Zayde Wølf",
+        "link": "https://music.163.com/artist?id=12073833"
+      }
+    ],
+    "album": {
+      "name": "Modern Alchemy (Deluxe)",
+      "link": "https://music.163.com/album?id=75702812"
+    }
+  },
+  {
+    "name": "Nice To Meet Ya",
+    "link": "https://music.163.com/song?id=1394977965",
+    "duration": "02:38",
+    "artists": [
+      {
+        "name": "Niall Horan",
+        "link": "https://music.163.com/artist?id=12132300"
+      }
+    ],
+    "album": {
+      "name": "Nice To Meet Ya",
+      "link": "https://music.163.com/album?id=82142069"
+    }
+  },
+  {
+    "name": "Stop!",
+    "link": "https://music.163.com/song?id=1805027206",
+    "duration": "02:28",
+    "artists": [
+      { "name": "Upsahl", "link": "https://music.163.com/artist?id=12501137" }
+    ],
+    "album": {
+      "name": "Stop!",
+      "link": "https://music.163.com/album?id=120552082"
+    }
+  },
+  {
+    "name": "Todo De Ti - (你的一切)",
+    "link": "https://music.163.com/song?id=1846290383",
+    "duration": "03:19",
+    "artists": [
+      {
+        "name": "Rauw Alejandro",
+        "link": "https://music.163.com/artist?id=13497624"
+      }
+    ],
+    "album": {
+      "name": "Todo De Ti",
+      "link": "https://music.163.com/album?id=127684051"
+    }
+  },
+  {
+    "name": "White Rabbit",
+    "link": "https://music.163.com/song?id=1419415977",
+    "duration": "02:05",
+    "artists": [
+      {
+        "name": "Lilianna Wilde",
+        "link": "https://music.163.com/artist?id=14711114"
+      }
+    ],
+    "album": {
+      "name": "White Rabbit",
+      "link": "https://music.163.com/album?id=85292510"
+    }
+  },
+  {
+    "name": "Feel That Way",
+    "link": "https://music.163.com/song?id=1424639298",
+    "duration": "03:04",
+    "artists": [
+      { "name": "Ellis", "link": "https://music.163.com/artist?id=32932" }
+    ],
+    "album": {
+      "name": "Feel That Way",
+      "link": "https://music.163.com/album?id=85856691"
+    }
+  },
+  {
+    "name": "Feel the Fire (Egzod Remix)",
+    "link": "https://music.163.com/song?id=1317592682",
+    "duration": "03:18",
+    "artists": [
+      { "name": "pluko", "link": "https://music.163.com/artist?id=15024191" },
+      {
+        "name": "pronouncedyea",
+        "link": "https://music.163.com/artist?id=30358267"
+      }
+    ],
+    "album": {
+      "name": "Feel the Fire (Remixes)",
+      "link": "https://music.163.com/album?id=73901467"
+    }
+  },
+  {
+    "name": "The Fall",
+    "link": "https://music.163.com/song?id=1954295929",
+    "duration": "03:16",
+    "artists": [
+      {
+        "name": "The Chainsmokers",
+        "link": "https://music.163.com/artist?id=893484"
+      },
+      { "name": "Ship Wrek", "link": "https://music.163.com/artist?id=1182569" }
+    ],
+    "album": {
+      "name": "The Fall",
+      "link": "https://music.163.com/album?id=146179355"
+    }
+  }
+]
