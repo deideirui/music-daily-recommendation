@@ -1,0 +1,470 @@
+[
+  {
+    "name": "唯一",
+    "link": "https://music.163.com/song?id=1807799505",
+    "duration": "04:30",
+    "artists": [
+      { "name": "告五人", "link": "https://music.163.com/artist?id=12676697" }
+    ],
+    "album": {
+      "name": "运气来得若有似无",
+      "link": "https://music.163.com/album?id=120954841"
+    }
+  },
+  {
+    "name": "Song for the Little Sparrow (Ouverture)",
+    "link": "https://music.163.com/song?id=18215916",
+    "duration": "03:24",
+    "artists": [
+      {
+        "name": "Patricia Kaas",
+        "link": "https://music.163.com/artist?id=70829"
+      }
+    ],
+    "album": {
+      "name": "Kaas chante Piaf",
+      "link": "https://music.163.com/album?id=1672815"
+    }
+  },
+  {
+    "name": "Love Me For Me",
+    "link": "https://music.163.com/song?id=1470869179",
+    "duration": "03:15",
+    "artists": [
+      {
+        "name": "Carla Wehbe",
+        "link": "https://music.163.com/artist?id=12108999"
+      }
+    ],
+    "album": {
+      "name": "Love Me For Me",
+      "link": "https://music.163.com/album?id=93926572"
+    }
+  },
+  {
+    "name": "Married to Your Melody",
+    "link": "https://music.163.com/song?id=1932880946",
+    "duration": "02:58",
+    "artists": [
+      { "name": "Imanbek", "link": "https://music.163.com/artist?id=33251576" },
+      {
+        "name": "salem ilese",
+        "link": "https://music.163.com/artist?id=35501211"
+      }
+    ],
+    "album": {
+      "name": "Married to Your Melody",
+      "link": "https://music.163.com/album?id=142620513"
+    }
+  },
+  {
+    "name": "Early (Evolution Mix)",
+    "link": "https://music.163.com/song?id=1949997993",
+    "duration": "03:49",
+    "artists": [
+      { "name": "Chicane", "link": "https://music.163.com/artist?id=50971" }
+    ],
+    "album": {
+      "name": "Far From The Maddening Crowds (Evolution Mixes)",
+      "link": "https://music.163.com/album?id=145410039"
+    }
+  },
+  {
+    "name": "sunburn",
+    "link": "https://music.163.com/song?id=1936200349",
+    "duration": "02:53",
+    "artists": [
+      {
+        "name": "almost monday",
+        "link": "https://music.163.com/artist?id=33523773"
+      }
+    ],
+    "album": {
+      "name": "sunburn",
+      "link": "https://music.163.com/album?id=143188267"
+    }
+  },
+  {
+    "name": "El Condor Pasa",
+    "link": "https://music.163.com/song?id=16313118",
+    "duration": "03:36",
+    "artists": [
+      { "name": "Leo Rojas", "link": "https://music.163.com/artist?id=38778" }
+    ],
+    "album": {
+      "name": "Spirit Of The Hawk",
+      "link": "https://music.163.com/album?id=1503835"
+    }
+  },
+  {
+    "name": "Born a Stranger（slow）",
+    "link": "https://music.163.com/song?id=455634241",
+    "duration": "03:01",
+    "artists": [
+      { "name": "Lerge", "link": "https://music.163.com/artist?id=12101079" }
+    ],
+    "album": {
+      "name": "Born a Stranger（slow）",
+      "link": "https://music.163.com/album?id=35148379"
+    }
+  },
+  {
+    "name": "Superhero",
+    "link": "https://music.163.com/song?id=1382939617",
+    "duration": "04:01",
+    "artists": [
+      { "name": "Hayd", "link": "https://music.163.com/artist?id=31213402" }
+    ],
+    "album": {
+      "name": "Superhero",
+      "link": "https://music.163.com/album?id=80845405"
+    }
+  },
+  {
+    "name": "孤勇者 - (《英雄联盟：双城之战》动画剧集中文主题曲)",
+    "link": "https://music.163.com/song?id=1901371647",
+    "duration": "04:16",
+    "artists": [
+      { "name": "陈奕迅", "link": "https://music.163.com/artist?id=2116" }
+    ],
+    "album": {
+      "name": "孤勇者",
+      "link": "https://music.163.com/album?id=137142551"
+    }
+  },
+  {
+    "name": "Lying With You",
+    "link": "https://music.163.com/song?id=1856210995",
+    "duration": "02:59",
+    "artists": [
+      {
+        "name": "Chase Wright",
+        "link": "https://music.163.com/artist?id=29807516"
+      }
+    ],
+    "album": {
+      "name": "Lying With You",
+      "link": "https://music.163.com/album?id=129516503"
+    }
+  },
+  {
+    "name": "When I´m Still Getting Over You",
+    "link": "https://music.163.com/song?id=1912804552",
+    "duration": "02:53",
+    "artists": [
+      {
+        "name": "Peder Elias",
+        "link": "https://music.163.com/artist?id=13979517"
+      },
+      { "name": "Paige", "link": "https://music.163.com/artist?id=47533146" }
+    ],
+    "album": {
+      "name": "When I´m Still Getting Over You",
+      "link": "https://music.163.com/album?id=138990752"
+    }
+  },
+  {
+    "name": "Madness",
+    "link": "https://music.163.com/song?id=1814412219",
+    "duration": "03:31",
+    "artists": [
+      {
+        "name": "Zayde Wølf",
+        "link": "https://music.163.com/artist?id=12073833"
+      }
+    ],
+    "album": {
+      "name": "Madness",
+      "link": "https://music.163.com/album?id=122057630"
+    }
+  },
+  {
+    "name": "Sleeptalking",
+    "link": "https://music.163.com/song?id=1481323654",
+    "duration": "02:59",
+    "artists": [
+      {
+        "name": "imfinenow",
+        "link": "https://music.163.com/artist?id=27693703"
+      },
+      { "name": "ÊMIA", "link": "https://music.163.com/artist?id=14232445" }
+    ],
+    "album": {
+      "name": "Sleeptalking",
+      "link": "https://music.163.com/album?id=95781633"
+    }
+  },
+  {
+    "name": "Your Gravity",
+    "link": "https://music.163.com/song?id=1933005011",
+    "duration": "03:40",
+    "artists": [
+      { "name": "N3wport", "link": "https://music.163.com/artist?id=12408098" },
+      {
+        "name": "Casey Cook",
+        "link": "https://music.163.com/artist?id=1192549"
+      }
+    ],
+    "album": {
+      "name": "Your Gravity",
+      "link": "https://music.163.com/album?id=142638103"
+    }
+  },
+  {
+    "name": "Losing Game",
+    "link": "https://music.163.com/song?id=1890653477",
+    "duration": "02:55",
+    "artists": [
+      {
+        "name": "Maximillian",
+        "link": "https://music.163.com/artist?id=235763"
+      }
+    ],
+    "album": {
+      "name": "Too Young",
+      "link": "https://music.163.com/album?id=135424822"
+    }
+  },
+  {
+    "name": "Oh Yeah",
+    "link": "https://music.163.com/song?id=1362559457",
+    "duration": "03:04",
+    "artists": [
+      {
+        "name": "Wildflowers",
+        "link": "https://music.163.com/artist?id=12977810"
+      },
+      {
+        "name": "Christine Smit",
+        "link": "https://music.163.com/artist?id=28768267"
+      }
+    ],
+    "album": {
+      "name": "Oh Yeah",
+      "link": "https://music.163.com/album?id=78875440"
+    }
+  },
+  {
+    "name": "Should've Been Me",
+    "link": "https://music.163.com/song?id=26222203",
+    "duration": "02:52",
+    "artists": [
+      {
+        "name": "Citizen Way",
+        "link": "https://music.163.com/artist?id=727006"
+      }
+    ],
+    "album": {
+      "name": "Love Is the Evidence",
+      "link": "https://music.163.com/album?id=2428018"
+    }
+  },
+  {
+    "name": "Everything Falls",
+    "link": "https://music.163.com/song?id=17804651",
+    "duration": "03:43",
+    "artists": [
+      { "name": "Fee", "link": "https://music.163.com/artist?id=57226" }
+    ],
+    "album": {
+      "name": "Hope Rising",
+      "link": "https://music.163.com/album?id=1639280"
+    }
+  },
+  {
+    "name": "if i were a friend",
+    "link": "https://music.163.com/song?id=1854332102",
+    "duration": "02:32",
+    "artists": [
+      { "name": "BLÜ EYES", "link": "https://music.163.com/artist?id=14037240" }
+    ],
+    "album": {
+      "name": "if i were a friend",
+      "link": "https://music.163.com/album?id=129217237"
+    }
+  },
+  {
+    "name": "Snowy Lullaby",
+    "link": "https://music.163.com/song?id=33190336",
+    "duration": "06:00",
+    "artists": [
+      {
+        "name": "K.S. Project",
+        "link": "https://music.163.com/artist?id=38062"
+      }
+    ],
+    "album": {
+      "name": "East Thunder",
+      "link": "https://music.163.com/album?id=3189069"
+    }
+  },
+  {
+    "name": "My 100",
+    "link": "https://music.163.com/song?id=1821462308",
+    "duration": "02:53",
+    "artists": [
+      { "name": "Kiddo", "link": "https://music.163.com/artist?id=63446" }
+    ],
+    "album": {
+      "name": "My 100",
+      "link": "https://music.163.com/album?id=123277268"
+    }
+  },
+  {
+    "name": "Feel",
+    "link": "https://music.163.com/song?id=484365112",
+    "duration": "03:24",
+    "artists": [
+      { "name": "Alivvve", "link": "https://music.163.com/artist?id=12468217" }
+    ],
+    "album": {
+      "name": "Feel",
+      "link": "https://music.163.com/album?id=35630185"
+    }
+  },
+  {
+    "name": "When We Were Younger",
+    "link": "https://music.163.com/song?id=1357713479",
+    "duration": "03:12",
+    "artists": [
+      {
+        "name": "Loving Caliber",
+        "link": "https://music.163.com/artist?id=13945554"
+      }
+    ],
+    "album": {
+      "name": "When We Were Younger",
+      "link": "https://music.163.com/album?id=78416196"
+    }
+  },
+  {
+    "name": "Hypnotise",
+    "link": "https://music.163.com/song?id=411237001",
+    "duration": "03:19",
+    "artists": [
+      { "name": "Polarheart", "link": "https://music.163.com/artist?id=964307" }
+    ],
+    "album": {
+      "name": "Hypnotise",
+      "link": "https://music.163.com/album?id=34678182"
+    }
+  },
+  {
+    "name": "Surround Me",
+    "link": "https://music.163.com/song?id=488902036",
+    "duration": "03:52",
+    "artists": [
+      { "name": "LÉON", "link": "https://music.163.com/artist?id=1178081" }
+    ],
+    "album": {
+      "name": "Surround Me",
+      "link": "https://music.163.com/album?id=35657697"
+    }
+  },
+  {
+    "name": "I NEED U",
+    "link": "https://music.163.com/song?id=1494458999",
+    "duration": "03:36",
+    "artists": [
+      {
+        "name": "Pianella Piano",
+        "link": "https://music.163.com/artist?id=37108872"
+      }
+    ],
+    "album": {
+      "name": "Piano Tribute to BTS, Vol. 1",
+      "link": "https://music.163.com/album?id=98155305"
+    }
+  },
+  {
+    "name": "Can I call you back?",
+    "link": "https://music.163.com/song?id=1811154773",
+    "duration": "02:33",
+    "artists": [
+      {
+        "name": "SHY Martin",
+        "link": "https://music.163.com/artist?id=12354062"
+      }
+    ],
+    "album": {
+      "name": "Sad Songs",
+      "link": "https://music.163.com/album?id=121483473"
+    }
+  },
+  {
+    "name": "Shelter Me (Moonnight Remix)",
+    "link": "https://music.163.com/song?id=30621822",
+    "duration": "04:45",
+    "artists": [
+      {
+        "name": "Dart Rayne",
+        "link": "https://music.163.com/artist?id=709066"
+      },
+      {
+        "name": "Cate Kanell",
+        "link": "https://music.163.com/artist?id=756015"
+      },
+      {
+        "name": "Yura Moonlight",
+        "link": "https://music.163.com/artist?id=813382"
+      }
+    ],
+    "album": {
+      "name": "Shelter Me (Moonnight Remix)",
+      "link": "https://music.163.com/album?id=3104108"
+    }
+  },
+  {
+    "name": "Hideous",
+    "link": "https://music.163.com/song?id=1451109198",
+    "duration": "03:15",
+    "artists": [
+      { "name": "mehro", "link": "https://music.163.com/artist?id=34504922" }
+    ],
+    "album": {
+      "name": "Hideous",
+      "link": "https://music.163.com/album?id=89987877"
+    }
+  },
+  {
+    "name": "I Want You Close",
+    "link": "https://music.163.com/song?id=1459922004",
+    "duration": "04:26",
+    "artists": [
+      {
+        "name": "By The Coast",
+        "link": "https://music.163.com/artist?id=33939127"
+      }
+    ],
+    "album": {
+      "name": "I Want You Close",
+      "link": "https://music.163.com/album?id=91885807"
+    }
+  },
+  {
+    "name": "90",
+    "link": "https://music.163.com/song?id=1437742803",
+    "duration": "04:30",
+    "artists": [
+      { "name": "Pompeya", "link": "https://music.163.com/artist?id=99221" }
+    ],
+    "album": {
+      "name": "Songs From The Videos",
+      "link": "https://music.163.com/album?id=87633922"
+    }
+  },
+  {
+    "name": "Да да да (Jarico Remix) - (嗯 嗯 嗯)",
+    "link": "https://music.163.com/song?id=1397021895",
+    "duration": "03:34",
+    "artists": [
+      { "name": "Tanir", "link": "https://music.163.com/artist?id=12533932" },
+      { "name": "Tyomcha", "link": "https://music.163.com/artist?id=28512500" },
+      { "name": "Jarico", "link": "https://music.163.com/artist?id=13042433" }
+    ],
+    "album": {
+      "name": "Да да да (Jarico Remix)",
+      "link": "https://music.163.com/album?id=82419070"
+    }
+  }
+]
