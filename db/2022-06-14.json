@@ -1,0 +1,466 @@
+[
+  {
+    "name": "All In",
+    "link": "https://music.163.com/song?id=1842004787",
+    "duration": "03:45",
+    "artists": [
+      {
+        "name": "The Wildcardz",
+        "link": "https://music.163.com/artist?id=30575673"
+      },
+      {
+        "name": "dazeychain",
+        "link": "https://music.163.com/artist?id=47822385"
+      }
+    ],
+    "album": {
+      "name": "Reach the Stars",
+      "link": "https://music.163.com/album?id=126835295"
+    }
+  },
+  {
+    "name": "Hard Year",
+    "link": "https://music.163.com/song?id=1843915598",
+    "duration": "03:12",
+    "artists": [
+      {
+        "name": "Aaron Kellim",
+        "link": "https://music.163.com/artist?id=14128138"
+      }
+    ],
+    "album": {
+      "name": "Hard Year",
+      "link": "https://music.163.com/album?id=127185255"
+    }
+  },
+  {
+    "name": "Illusionary Daytime - 蓝云木 Remix",
+    "link": "https://music.163.com/song?id=1949947351",
+    "duration": "04:10",
+    "artists": [
+      { "name": "Shirfine", "link": "https://music.163.com/artist?id=189603" },
+      { "name": "蓝云木", "link": "https://music.163.com/artist?id=12277201" }
+    ],
+    "album": {
+      "name": "Illusionary Daytime (The Remixes) ",
+      "link": "https://music.163.com/album?id=145403487"
+    }
+  },
+  {
+    "name": "Start Up",
+    "link": "https://music.163.com/song?id=1905852684",
+    "duration": "02:58",
+    "artists": [
+      {
+        "name": "Jonathan & Friends",
+        "link": "https://music.163.com/artist?id=37458744"
+      },
+      { "name": "Loote", "link": "https://music.163.com/artist?id=12408152" },
+      { "name": "EMMA LOV", "link": "https://music.163.com/artist?id=32454256" }
+    ],
+    "album": {
+      "name": "Start Up",
+      "link": "https://music.163.com/album?id=137890513"
+    }
+  },
+  {
+    "name": "Typhoon",
+    "link": "https://music.163.com/song?id=1846184023",
+    "duration": "02:56",
+    "artists": [
+      { "name": "Ehrling", "link": "https://music.163.com/artist?id=12048130" }
+    ],
+    "album": {
+      "name": "Give Me Summer, Pt. 2",
+      "link": "https://music.163.com/album?id=127657979"
+    }
+  },
+  {
+    "name": "Digital World",
+    "link": "https://music.163.com/song?id=29537955",
+    "duration": "03:17",
+    "artists": [
+      { "name": "Amaranthe", "link": "https://music.163.com/artist?id=86586" }
+    ],
+    "album": {
+      "name": "Massive Addictive",
+      "link": "https://music.163.com/album?id=3039582"
+    }
+  },
+  {
+    "name": "Back from the Dead",
+    "link": "https://music.163.com/song?id=1916547428",
+    "duration": "02:59",
+    "artists": [
+      {
+        "name": "Besomorph",
+        "link": "https://music.163.com/artist?id=13406913"
+      },
+      { "name": "AViVA", "link": "https://music.163.com/artist?id=12074178" },
+      { "name": "Neoni", "link": "https://music.163.com/artist?id=34392075" }
+    ],
+    "album": {
+      "name": "Back from the Dead",
+      "link": "https://music.163.com/album?id=139682149"
+    }
+  },
+  {
+    "name": "Dangerous Affairs",
+    "link": "https://music.163.com/song?id=1424715943",
+    "duration": "02:13",
+    "artists": [
+      { "name": "Inon Zur", "link": "https://music.163.com/artist?id=35105" }
+    ],
+    "album": {
+      "name": "Virtuoso",
+      "link": "https://music.163.com/album?id=85869711"
+    }
+  },
+  {
+    "name": "u love u (feat. JVKE)",
+    "link": "https://music.163.com/song?id=1941650785",
+    "duration": "02:03",
+    "artists": [
+      { "name": "Jax", "link": "https://music.163.com/artist?id=46470983" },
+      { "name": "JVKE", "link": "https://music.163.com/artist?id=32988392" }
+    ],
+    "album": {
+      "name": "u love u (feat. JVKE)",
+      "link": "https://music.163.com/album?id=144011120"
+    }
+  },
+  {
+    "name": "I Hope (feat. Charlie Puth)",
+    "link": "https://music.163.com/song?id=1440568801",
+    "duration": "03:29",
+    "artists": [
+      {
+        "name": "Gabby Barrett",
+        "link": "https://music.163.com/artist?id=14470204"
+      },
+      {
+        "name": "Charlie Puth",
+        "link": "https://music.163.com/artist?id=90331"
+      }
+    ],
+    "album": {
+      "name": "I Hope (feat. Charlie Puth)",
+      "link": "https://music.163.com/album?id=88009920"
+    }
+  },
+  {
+    "name": "CHAMPAGNE",
+    "link": "https://music.163.com/song?id=1942238169",
+    "duration": "03:00",
+    "artists": [
+      { "name": "Valley", "link": "https://music.163.com/artist?id=83684" }
+    ],
+    "album": {
+      "name": "CHAMPAGNE",
+      "link": "https://music.163.com/album?id=144127031"
+    }
+  },
+  {
+    "name": "Lacrimosa",
+    "link": "https://music.163.com/song?id=1463536807",
+    "duration": "03:20",
+    "artists": [
+      {
+        "name": "Vienna Mozart Orchestra",
+        "link": "https://music.163.com/artist?id=13438960"
+      }
+    ],
+    "album": {
+      "name": "Lacrimosa",
+      "link": "https://music.163.com/album?id=92595288"
+    }
+  },
+  {
+    "name": "Mirror",
+    "link": "https://music.163.com/song?id=1847860357",
+    "duration": "02:36",
+    "artists": [
+      { "name": "Sigrid", "link": "https://music.163.com/artist?id=205795" }
+    ],
+    "album": {
+      "name": "Mirror",
+      "link": "https://music.163.com/album?id=127939173"
+    }
+  },
+  {
+    "name": "Holiday",
+    "link": "https://music.163.com/song?id=1851048356",
+    "duration": "03:13",
+    "artists": [
+      { "name": "KSI", "link": "https://music.163.com/artist?id=1057180" }
+    ],
+    "album": {
+      "name": "Holiday",
+      "link": "https://music.163.com/album?id=128523670"
+    }
+  },
+  {
+    "name": "Classic Armstrong",
+    "link": "https://music.163.com/song?id=1855271716",
+    "duration": "03:09",
+    "artists": [
+      { "name": "BLANKS", "link": "https://music.163.com/artist?id=49482" }
+    ],
+    "album": {
+      "name": "Classic Armstrong",
+      "link": "https://music.163.com/album?id=129334742"
+    }
+  },
+  {
+    "name": "Pressure",
+    "link": "https://music.163.com/song?id=1490133877",
+    "duration": "02:44",
+    "artists": [
+      {
+        "name": "Ivy Adara",
+        "link": "https://music.163.com/artist?id=12925126"
+      }
+    ],
+    "album": {
+      "name": "Pressure",
+      "link": "https://music.163.com/album?id=97359465"
+    }
+  },
+  {
+    "name": "Swimming Pool",
+    "link": "https://music.163.com/song?id=1365139484",
+    "duration": "03:43",
+    "artists": [
+      {
+        "name": "Millie Turner",
+        "link": "https://music.163.com/artist?id=12505975"
+      }
+    ],
+    "album": {
+      "name": "Swimming Pool",
+      "link": "https://music.163.com/album?id=79097137"
+    }
+  },
+  {
+    "name": "Need Your Love",
+    "link": "https://music.163.com/song?id=1321560360",
+    "duration": "03:33",
+    "artists": [
+      {
+        "name": "Strandels",
+        "link": "https://music.163.com/artist?id=12171083"
+      }
+    ],
+    "album": {
+      "name": "Need Your Love",
+      "link": "https://music.163.com/album?id=74162580"
+    }
+  },
+  {
+    "name": "Midnight Feeling",
+    "link": "https://music.163.com/song?id=1459430649",
+    "duration": "02:13",
+    "artists": [
+      {
+        "name": "ondi vil",
+        "link": "https://music.163.com/artist?id=14098691"
+      },
+      { "name": "Teqkoi", "link": "https://music.163.com/artist?id=14470091" }
+    ],
+    "album": {
+      "name": "Midnight Feeling",
+      "link": "https://music.163.com/album?id=91792332"
+    }
+  },
+  {
+    "name": "All My Friends",
+    "link": "https://music.163.com/song?id=1348964758",
+    "duration": "02:52",
+    "artists": [
+      {
+        "name": "AJ Mitchell",
+        "link": "https://music.163.com/artist?id=12914329"
+      }
+    ],
+    "album": {
+      "name": "All My Friends",
+      "link": "https://music.163.com/album?id=75729419"
+    }
+  },
+  {
+    "name": "Wave of You",
+    "link": "https://music.163.com/song?id=1836030651",
+    "duration": "03:33",
+    "artists": [
+      { "name": "Surfaces", "link": "https://music.163.com/artist?id=31228310" }
+    ],
+    "album": {
+      "name": "Wave of You",
+      "link": "https://music.163.com/album?id=125801147"
+    }
+  },
+  {
+    "name": "Look What You've Done",
+    "link": "https://music.163.com/song?id=1820920949",
+    "duration": "03:01",
+    "artists": [
+      {
+        "name": "Zara Larsson",
+        "link": "https://music.163.com/artist?id=816461"
+      }
+    ],
+    "album": {
+      "name": "Poster Girl",
+      "link": "https://music.163.com/album?id=123738603"
+    }
+  },
+  {
+    "name": "dating myself",
+    "link": "https://music.163.com/song?id=1814379614",
+    "duration": "02:24",
+    "artists": [
+      { "name": "Sad Alex", "link": "https://music.163.com/artist?id=31272939" }
+    ],
+    "album": {
+      "name": "dating myself",
+      "link": "https://music.163.com/album?id=122054308"
+    }
+  },
+  {
+    "name": "Loving You Girl",
+    "link": "https://music.163.com/song?id=1840212359",
+    "duration": "02:51",
+    "artists": [
+      {
+        "name": "Peder Elias",
+        "link": "https://music.163.com/artist?id=13979517"
+      },
+      { "name": "Hkeem", "link": "https://music.163.com/artist?id=12450069" }
+    ],
+    "album": {
+      "name": "Loving You Girl",
+      "link": "https://music.163.com/album?id=126536423"
+    }
+  },
+  {
+    "name": "rubberband",
+    "link": "https://music.163.com/song?id=1812379880",
+    "duration": "02:27",
+    "artists": [
+      {
+        "name": "Tate McRae",
+        "link": "https://music.163.com/artist?id=30784458"
+      }
+    ],
+    "album": {
+      "name": "rubberband",
+      "link": "https://music.163.com/album?id=121715276"
+    }
+  },
+  {
+    "name": "迈 阿 密 游 记",
+    "link": "https://music.163.com/song?id=1833084091",
+    "duration": "02:29",
+    "artists": [
+      {
+        "name": "虞海游Shadow",
+        "link": "https://music.163.com/artist?id=14021254"
+      },
+      {
+        "name": "黑瘦的鱼头",
+        "link": "https://music.163.com/artist?id=47240785"
+      }
+    ],
+    "album": {
+      "name": "云宫迅音（Synthwave Remix）",
+      "link": "https://music.163.com/album?id=125268813"
+    }
+  },
+  {
+    "name": "Little Bit of Love",
+    "link": "https://music.163.com/song?id=1804723479",
+    "duration": "03:46",
+    "artists": [
+      {
+        "name": "Tom Grennan",
+        "link": "https://music.163.com/artist?id=12098162"
+      }
+    ],
+    "album": {
+      "name": "Little Bit of Love",
+      "link": "https://music.163.com/album?id=120490294"
+    }
+  },
+  {
+    "name": "Goin' On",
+    "link": "https://music.163.com/song?id=1410118416",
+    "duration": "03:16",
+    "artists": [
+      { "name": "Somme", "link": "https://music.163.com/artist?id=759208" }
+    ],
+    "album": {
+      "name": "Memories Burning",
+      "link": "https://music.163.com/album?id=84140684"
+    }
+  },
+  {
+    "name": "Dizzy",
+    "link": "https://music.163.com/song?id=1333336620",
+    "duration": "02:49",
+    "artists": [
+      {
+        "name": "Lucy Daydream",
+        "link": "https://music.163.com/artist?id=28763347"
+      }
+    ],
+    "album": {
+      "name": "Dizzy / Awake & Dreaming",
+      "link": "https://music.163.com/album?id=74878355"
+    }
+  },
+  {
+    "name": "Wish You'd Miss Me",
+    "link": "https://music.163.com/song?id=1476382990",
+    "duration": "03:21",
+    "artists": [
+      {
+        "name": "Chase Wright",
+        "link": "https://music.163.com/artist?id=29807516"
+      }
+    ],
+    "album": {
+      "name": "Wish You'd Miss Me",
+      "link": "https://music.163.com/album?id=94938074"
+    }
+  },
+  {
+    "name": "shut up",
+    "link": "https://music.163.com/song?id=1496748141",
+    "duration": "02:50",
+    "artists": [
+      {
+        "name": "Greyson Chance",
+        "link": "https://music.163.com/artist?id=34327"
+      }
+    ],
+    "album": {
+      "name": "Coffee All Day",
+      "link": "https://music.163.com/album?id=98548868"
+    }
+  },
+  {
+    "name": "Subeme La Radio",
+    "link": "https://music.163.com/song?id=493448880",
+    "duration": "03:25",
+    "artists": [
+      {
+        "name": "Robert Mendoza",
+        "link": "https://music.163.com/artist?id=1039236"
+      }
+    ],
+    "album": {
+      "name": "Subeme La Radio",
+      "link": "https://music.163.com/album?id=35844118"
+    }
+  }
+]
