@@ -1,0 +1,443 @@
+[
+  {
+    "name": "Remember Me",
+    "link": "https://music.163.com/song?id=34834953",
+    "duration": "03:25",
+    "artists": [
+      { "name": "Kozoro", "link": "https://music.163.com/artist?id=1050567" }
+    ],
+    "album": {
+      "name": "Remember Me",
+      "link": "https://music.163.com/album?id=3295700"
+    }
+  },
+  {
+    "name": "Winter Without You",
+    "link": "https://music.163.com/song?id=1352962983",
+    "duration": "03:11",
+    "artists": [
+      {
+        "name": "Gloria Kim",
+        "link": "https://music.163.com/artist?id=1163012"
+      }
+    ],
+    "album": {
+      "name": "Winter Without You",
+      "link": "https://music.163.com/album?id=75905628"
+    }
+  },
+  {
+    "name": "Shame",
+    "link": "https://music.163.com/song?id=1464774993",
+    "duration": "02:53",
+    "artists": [
+      {
+        "name": "Hearts & Colors",
+        "link": "https://music.163.com/artist?id=12399051"
+      }
+    ],
+    "album": {
+      "name": "Shame",
+      "link": "https://music.163.com/album?id=92821901"
+    }
+  },
+  {
+    "name": "Jojo",
+    "link": "https://music.163.com/song?id=1943381363",
+    "duration": "03:24",
+    "artists": [
+      {
+        "name": "Winona Oak",
+        "link": "https://music.163.com/artist?id=29738618"
+      }
+    ],
+    "album": {
+      "name": "Jojo",
+      "link": "https://music.163.com/album?id=144287150"
+    }
+  },
+  {
+    "name": "Summertime",
+    "link": "https://music.163.com/song?id=1952664104",
+    "duration": "07:52",
+    "artists": [
+      {
+        "name": "Sunlight Project",
+        "link": "https://music.163.com/artist?id=858214"
+      }
+    ],
+    "album": {
+      "name": "Summertime",
+      "link": "https://music.163.com/album?id=145880546"
+    }
+  },
+  {
+    "name": "Brand New",
+    "link": "https://music.163.com/song?id=1871345560",
+    "duration": "02:36",
+    "artists": [
+      {
+        "name": "Public Library Commute",
+        "link": "https://music.163.com/artist?id=15237730"
+      }
+    ],
+    "album": {
+      "name": "Brand New",
+      "link": "https://music.163.com/album?id=132068856"
+    }
+  },
+  {
+    "name": "Vampire At The Swimming Pool",
+    "link": "https://music.163.com/song?id=1924685088",
+    "duration": "03:34",
+    "artists": [
+      { "name": "Skylar Grey", "link": "https://music.163.com/artist?id=74801" }
+    ],
+    "album": {
+      "name": "Falling Apart",
+      "link": "https://music.163.com/album?id=141179288"
+    }
+  },
+  {
+    "name": "Hurtless",
+    "link": "https://music.163.com/song?id=1933652212",
+    "duration": "03:00",
+    "artists": [
+      {
+        "name": "Dean Lewis",
+        "link": "https://music.163.com/artist?id=12132624"
+      }
+    ],
+    "album": {
+      "name": "Hurtless",
+      "link": "https://music.163.com/album?id=142778652"
+    }
+  },
+  {
+    "name": "don't say you're ordinary",
+    "link": "https://music.163.com/song?id=1485786977",
+    "duration": "02:59",
+    "artists": [
+      {
+        "name": "almost monday",
+        "link": "https://music.163.com/artist?id=33523773"
+      }
+    ],
+    "album": {
+      "name": "don't say you're ordinary",
+      "link": "https://music.163.com/album?id=96570721"
+    }
+  },
+  {
+    "name": "Green Green Grass",
+    "link": "https://music.163.com/song?id=1930296391",
+    "duration": "02:47",
+    "artists": [
+      {
+        "name": "George Ezra",
+        "link": "https://music.163.com/artist?id=844728"
+      }
+    ],
+    "album": {
+      "name": "Green Green Grass",
+      "link": "https://music.163.com/album?id=142173249"
+    }
+  },
+  {
+    "name": "Flatline",
+    "link": "https://music.163.com/song?id=1830611385",
+    "duration": "02:54",
+    "artists": [
+      { "name": "Two Feet", "link": "https://music.163.com/artist?id=12073672" }
+    ],
+    "album": {
+      "name": "Max Maco Is Dead Right?",
+      "link": "https://music.163.com/album?id=124741334"
+    }
+  },
+  {
+    "name": "Someone You Hate",
+    "link": "https://music.163.com/song?id=1486964419",
+    "duration": "03:56",
+    "artists": [
+      {
+        "name": "Sasha Alex Sloan",
+        "link": "https://music.163.com/artist?id=12646102"
+      }
+    ],
+    "album": {
+      "name": "Only Child",
+      "link": "https://music.163.com/album?id=96769235"
+    }
+  },
+  {
+    "name": "Lonely City",
+    "link": "https://music.163.com/song?id=1874637525",
+    "duration": "02:37",
+    "artists": [
+      { "name": "Mokita", "link": "https://music.163.com/artist?id=12033046" }
+    ],
+    "album": {
+      "name": "Lonely City",
+      "link": "https://music.163.com/album?id=132616420"
+    }
+  },
+  {
+    "name": "Happy Now?",
+    "link": "https://music.163.com/song?id=1887215864",
+    "duration": "02:52",
+    "artists": [
+      { "name": "FINNEAS", "link": "https://music.163.com/artist?id=12676847" }
+    ],
+    "album": {
+      "name": "Optimist",
+      "link": "https://music.163.com/album?id=134830939"
+    }
+  },
+  {
+    "name": "Call It",
+    "link": "https://music.163.com/song?id=1358350241",
+    "duration": "02:55",
+    "artists": [
+      {
+        "name": "New Rules",
+        "link": "https://music.163.com/artist?id=31007341"
+      }
+    ],
+    "album": {
+      "name": "Call It",
+      "link": "https://music.163.com/album?id=78486372"
+    }
+  },
+  {
+    "name": "The Girl with the Northern Soul Collection",
+    "link": "https://music.163.com/song?id=22294416",
+    "duration": "03:21",
+    "artists": [
+      { "name": "Club 8", "link": "https://music.163.com/artist?id=89361" }
+    ],
+    "album": {
+      "name": "Spring Came, Rain Fell",
+      "link": "https://music.163.com/album?id=2047303"
+    }
+  },
+  {
+    "name": "In Disguise",
+    "link": "https://music.163.com/song?id=1382893008",
+    "duration": "03:22",
+    "artists": [
+      { "name": "Ashe", "link": "https://music.163.com/artist?id=12278097" }
+    ],
+    "album": {
+      "name": "Moral of the Story: Chapter 2",
+      "link": "https://music.163.com/album?id=80839201"
+    }
+  },
+  {
+    "name": "September Fades",
+    "link": "https://music.163.com/song?id=536991430",
+    "duration": "04:10",
+    "artists": [
+      { "name": "Ralph", "link": "https://music.163.com/artist?id=12049282" }
+    ],
+    "album": {
+      "name": "September Fades",
+      "link": "https://music.163.com/album?id=37590155"
+    }
+  },
+  {
+    "name": "Still Thinking of You",
+    "link": "https://music.163.com/song?id=1473972374",
+    "duration": "02:03",
+    "artists": [
+      {
+        "name": "adam youngman",
+        "link": "https://music.163.com/artist?id=35355015"
+      },
+      {
+        "name": "imfinenow",
+        "link": "https://music.163.com/artist?id=27693703"
+      }
+    ],
+    "album": {
+      "name": "Still Thinking of You",
+      "link": "https://music.163.com/album?id=94474293"
+    }
+  },
+  {
+    "name": "Red Light",
+    "link": "https://music.163.com/song?id=1312335324",
+    "duration": "02:53",
+    "artists": [
+      { "name": "Cavego", "link": "https://music.163.com/artist?id=12047877" },
+      { "name": "Arielle", "link": "https://music.163.com/artist?id=48421" }
+    ],
+    "album": {
+      "name": "Red Light",
+      "link": "https://music.163.com/album?id=73573200"
+    }
+  },
+  {
+    "name": "Next Level",
+    "link": "https://music.163.com/song?id=1348447902",
+    "duration": "03:25",
+    "artists": [
+      {
+        "name": "Zayde Wølf",
+        "link": "https://music.163.com/artist?id=12073833"
+      }
+    ],
+    "album": {
+      "name": "Modern Alchemy (Deluxe)",
+      "link": "https://music.163.com/album?id=75702812"
+    }
+  },
+  {
+    "name": "Morning Coffee",
+    "link": "https://music.163.com/song?id=1480769848",
+    "duration": "02:22",
+    "artists": [
+      { "name": "Chevy", "link": "https://music.163.com/artist?id=47992679" },
+      { "name": "Nalba", "link": "https://music.163.com/artist?id=28390394" }
+    ],
+    "album": {
+      "name": "Morning Coffee",
+      "link": "https://music.163.com/album?id=95691099"
+    }
+  },
+  {
+    "name": "Producer Man",
+    "link": "https://music.163.com/song?id=1486920080",
+    "duration": "02:21",
+    "artists": [
+      {
+        "name": "Lyn Lapid",
+        "link": "https://music.163.com/artist?id=37112532"
+      }
+    ],
+    "album": {
+      "name": "Producer Man",
+      "link": "https://music.163.com/album?id=96758377"
+    }
+  },
+  {
+    "name": "One Night",
+    "link": "https://music.163.com/song?id=1500604652",
+    "duration": "03:12",
+    "artists": [
+      {
+        "name": "Timecop1983",
+        "link": "https://music.163.com/artist?id=954496"
+      },
+      {
+        "name": "Josh Dally",
+        "link": "https://music.163.com/artist?id=33510074"
+      }
+    ],
+    "album": {
+      "name": "One Night",
+      "link": "https://music.163.com/album?id=99156496"
+    }
+  },
+  {
+    "name": "I'm Falling In Love",
+    "link": "https://music.163.com/song?id=1323148445",
+    "duration": "03:04",
+    "artists": [
+      {
+        "name": "Wildflowers",
+        "link": "https://music.163.com/artist?id=12977810"
+      },
+      { "name": "Emmi", "link": "https://music.163.com/artist?id=140606" }
+    ],
+    "album": {
+      "name": "Buttercup",
+      "link": "https://music.163.com/album?id=74254239"
+    }
+  },
+  {
+    "name": "Stuck In Love",
+    "link": "https://music.163.com/song?id=1365898307",
+    "duration": "03:22",
+    "artists": [
+      {
+        "name": "Ra Costelloe",
+        "link": "https://music.163.com/artist?id=30180137"
+      }
+    ],
+    "album": {
+      "name": "Stuck In Love",
+      "link": "https://music.163.com/album?id=79191847"
+    }
+  },
+  {
+    "name": "Kinfolks",
+    "link": "https://music.163.com/song?id=1396299139",
+    "duration": "03:01",
+    "artists": [
+      { "name": "Sam Hunt", "link": "https://music.163.com/artist?id=942264" }
+    ],
+    "album": {
+      "name": "Kinfolks",
+      "link": "https://music.163.com/album?id=82316504"
+    }
+  },
+  {
+    "name": "Slow Down",
+    "link": "https://music.163.com/song?id=1356658022",
+    "duration": "03:23",
+    "artists": [
+      { "name": "Madnap", "link": "https://music.163.com/artist?id=896042" },
+      {
+        "name": "Pauline Herr",
+        "link": "https://music.163.com/artist?id=13080654"
+      }
+    ],
+    "album": {
+      "name": "Slow Down",
+      "link": "https://music.163.com/album?id=78333509"
+    }
+  },
+  {
+    "name": "ex i never had - live from The Forum",
+    "link": "https://music.163.com/song?id=1934228453",
+    "duration": "04:07",
+    "artists": [
+      { "name": "LANY", "link": "https://music.163.com/artist?id=999460" }
+    ],
+    "album": {
+      "name": "live from The Forum",
+      "link": "https://music.163.com/album?id=142884547"
+    }
+  },
+  {
+    "name": "Bright Blue Skies",
+    "link": "https://music.163.com/song?id=1308127035",
+    "duration": "03:02",
+    "artists": [
+      {
+        "name": "Mitch James",
+        "link": "https://music.163.com/artist?id=12213110"
+      }
+    ],
+    "album": {
+      "name": "Mitch James - Deluxe Edition",
+      "link": "https://music.163.com/album?id=73147700"
+    }
+  },
+  {
+    "name": "Miss You Missing Me",
+    "link": "https://music.163.com/song?id=1812017316",
+    "duration": "02:44",
+    "artists": [
+      {
+        "name": "Jane & The Boy",
+        "link": "https://music.163.com/artist?id=46363486"
+      }
+    ],
+    "album": {
+      "name": "Starry Eyed",
+      "link": "https://music.163.com/album?id=121649502"
+    }
+  }
+]
