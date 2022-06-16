@@ -1,0 +1,482 @@
+[
+  {
+    "name": "best day ever",
+    "link": "https://music.163.com/song?id=1943455918",
+    "duration": "03:00",
+    "artists": [
+      {
+        "name": "Oscar Anton",
+        "link": "https://music.163.com/artist?id=12676790"
+      },
+      { "name": "BLANKS", "link": "https://music.163.com/artist?id=49482" }
+    ],
+    "album": {
+      "name": "postcard from Amsterdam",
+      "link": "https://music.163.com/album?id=144292463"
+    }
+  },
+  {
+    "name": "Close to the Fire",
+    "link": "https://music.163.com/song?id=1470832398",
+    "duration": "02:44",
+    "artists": [
+      {
+        "name": "Chris James",
+        "link": "https://music.163.com/artist?id=145038"
+      }
+    ],
+    "album": {
+      "name": "Close to the Fire",
+      "link": "https://music.163.com/album?id=93919264"
+    }
+  },
+  {
+    "name": "Long Lost Sunday Morning",
+    "link": "https://music.163.com/song?id=1344819664",
+    "duration": "02:32",
+    "artists": [
+      { "name": "Tep No", "link": "https://music.163.com/artist?id=956357" }
+    ],
+    "album": {
+      "name": "Long Lost Sunday Morning",
+      "link": "https://music.163.com/album?id=75489180"
+    }
+  },
+  {
+    "name": "So Hot You're Hurting My Feelings",
+    "link": "https://music.163.com/song?id=1409137721",
+    "duration": "03:03",
+    "artists": [
+      {
+        "name": "Caroline Polachek",
+        "link": "https://music.163.com/artist?id=14637786"
+      }
+    ],
+    "album": {
+      "name": "Pang",
+      "link": "https://music.163.com/album?id=84053527"
+    }
+  },
+  {
+    "name": "The Fabric of Time",
+    "link": "https://music.163.com/song?id=1950932596",
+    "duration": "03:37",
+    "artists": [
+      {
+        "name": "Audiomachine",
+        "link": "https://music.163.com/artist?id=87066"
+      }
+    ],
+    "album": {
+      "name": "Colony",
+      "link": "https://music.163.com/album?id=145586128"
+    }
+  },
+  {
+    "name": "Dancin'",
+    "link": "https://music.163.com/song?id=1375645571",
+    "duration": "03:13",
+    "artists": [
+      {
+        "name": "Neon Valley",
+        "link": "https://music.163.com/artist?id=29276806"
+      }
+    ],
+    "album": {
+      "name": "Dancin'",
+      "link": "https://music.163.com/album?id=80177798"
+    }
+  },
+  {
+    "name": "Wahran",
+    "link": "https://music.163.com/song?id=1351578862",
+    "duration": "03:51",
+    "artists": [
+      { "name": "RANDALL", "link": "https://music.163.com/artist?id=221086" }
+    ],
+    "album": {
+      "name": "Wahran",
+      "link": "https://music.163.com/album?id=75831504"
+    }
+  },
+  {
+    "name": "Boston",
+    "link": "https://music.163.com/song?id=1363675487",
+    "duration": "03:26",
+    "artists": [
+      {
+        "name": "Alec Chambers",
+        "link": "https://music.163.com/artist?id=12560692"
+      }
+    ],
+    "album": {
+      "name": "Boston",
+      "link": "https://music.163.com/album?id=78965340"
+    }
+  },
+  {
+    "name": "Change My Clothes",
+    "link": "https://music.163.com/song?id=1870113092",
+    "duration": "03:06",
+    "artists": [
+      { "name": "Dream", "link": "https://music.163.com/artist?id=48165328" },
+      {
+        "name": "Alec Benjamin",
+        "link": "https://music.163.com/artist?id=1028104"
+      }
+    ],
+    "album": {
+      "name": "Change My Clothes",
+      "link": "https://music.163.com/album?id=131852081"
+    }
+  },
+  {
+    "name": "Broken String",
+    "link": "https://music.163.com/song?id=1451894352",
+    "duration": "03:06",
+    "artists": [
+      {
+        "name": "Unlike Pluto",
+        "link": "https://music.163.com/artist?id=860945"
+      }
+    ],
+    "album": {
+      "name": "Broken String",
+      "link": "https://music.163.com/album?id=90143204"
+    }
+  },
+  {
+    "name": "The Flow",
+    "link": "https://music.163.com/song?id=1917079635",
+    "duration": "03:34",
+    "artists": [
+      {
+        "name": "Vancouver Sleep Clinic",
+        "link": "https://music.163.com/artist?id=844692"
+      }
+    ],
+    "album": {
+      "name": "The Flow",
+      "link": "https://music.163.com/album?id=139808831"
+    }
+  },
+  {
+    "name": "Boys Don't Cry",
+    "link": "https://music.163.com/song?id=1835485102",
+    "duration": "03:08",
+    "artists": [
+      { "name": "NoMBe", "link": "https://music.163.com/artist?id=1132430" }
+    ],
+    "album": {
+      "name": "Boys Don't Cry",
+      "link": "https://music.163.com/album?id=125678032"
+    }
+  },
+  {
+    "name": "Wishful Drinking",
+    "link": "https://music.163.com/song?id=1394310915",
+    "duration": "03:15",
+    "artists": [
+      {
+        "name": "Tessa Violet",
+        "link": "https://music.163.com/artist?id=897075"
+      }
+    ],
+    "album": {
+      "name": "Bad Ideas",
+      "link": "https://music.163.com/album?id=82065482"
+    }
+  },
+  {
+    "name": "Be With You",
+    "link": "https://music.163.com/song?id=1812108717",
+    "duration": "02:01",
+    "artists": [
+      {
+        "name": "imfinenow",
+        "link": "https://music.163.com/artist?id=27693703"
+      },
+      {
+        "name": "Joshua Mine",
+        "link": "https://music.163.com/artist?id=34590701"
+      }
+    ],
+    "album": {
+      "name": "Be With You",
+      "link": "https://music.163.com/album?id=121669310"
+    }
+  },
+  {
+    "name": "Positive Procrastination",
+    "link": "https://music.163.com/song?id=1861120070",
+    "duration": "02:42",
+    "artists": [
+      {
+        "name": "Gentle Bones",
+        "link": "https://music.163.com/artist?id=1132668"
+      },
+      { "name": "gamaliél", "link": "https://music.163.com/artist?id=34133495" }
+    ],
+    "album": {
+      "name": "Positive Procrastination",
+      "link": "https://music.163.com/album?id=130343191"
+    }
+  },
+  {
+    "name": "Can't Stop",
+    "link": "https://music.163.com/song?id=1361747568",
+    "duration": "04:04",
+    "artists": [
+      {
+        "name": "Luca Stricagnoli",
+        "link": "https://music.163.com/artist?id=1192360"
+      }
+    ],
+    "album": {
+      "name": "What If?",
+      "link": "https://music.163.com/album?id=78810121"
+    }
+  },
+  {
+    "name": "A Million on My Soul - (电影《星际特工：千星之城》插曲)",
+    "link": "https://music.163.com/song?id=491695768",
+    "duration": "04:07",
+    "artists": [
+      { "name": "Alexiane", "link": "https://music.163.com/artist?id=12515272" }
+    ],
+    "album": {
+      "name": "Valerian and the City of a Thousand Planets (Original Motion Picture Soundtrack)",
+      "link": "https://music.163.com/album?id=35792257"
+    }
+  },
+  {
+    "name": "The Garden of Escapism (AK Remix)",
+    "link": "https://music.163.com/song?id=409302035",
+    "duration": "03:38",
+    "artists": [
+      { "name": "AK", "link": "https://music.163.com/artist?id=1192509" },
+      { "name": "Miro", "link": "https://music.163.com/artist?id=129703" }
+    ],
+    "album": {
+      "name": "The Garden of Escapism (AK Remix)",
+      "link": "https://music.163.com/album?id=34608097"
+    }
+  },
+  {
+    "name": "gut feelings",
+    "link": "https://music.163.com/song?id=1415302877",
+    "duration": "02:51",
+    "artists": [
+      {
+        "name": "Matt Hall",
+        "link": "https://music.163.com/artist?id=12671227"
+      }
+    ],
+    "album": {
+      "name": "gut feelings",
+      "link": "https://music.163.com/album?id=84845711"
+    }
+  },
+  {
+    "name": "When She's Dancing",
+    "link": "https://music.163.com/song?id=1826412380",
+    "duration": "03:07",
+    "artists": [
+      {
+        "name": "Fly By Midnight",
+        "link": "https://music.163.com/artist?id=1163027"
+      }
+    ],
+    "album": {
+      "name": "When She's Dancing",
+      "link": "https://music.163.com/album?id=124187663"
+    }
+  },
+  {
+    "name": "Heavy s**t",
+    "link": "https://music.163.com/song?id=1379486136",
+    "duration": "03:15",
+    "artists": [
+      {
+        "name": "Blake Rose",
+        "link": "https://music.163.com/artist?id=12170014"
+      }
+    ],
+    "album": {
+      "name": "Heavy ****",
+      "link": "https://music.163.com/album?id=80539709"
+    }
+  },
+  {
+    "name": "Perfect",
+    "link": "https://music.163.com/song?id=518094139",
+    "duration": "04:19",
+    "artists": [
+      { "name": "MADILYN", "link": "https://music.163.com/artist?id=69270" }
+    ],
+    "album": {
+      "name": "Perfect",
+      "link": "https://music.163.com/album?id=36786051"
+    }
+  },
+  {
+    "name": "you're never coming back",
+    "link": "https://music.163.com/song?id=1867030206",
+    "duration": "03:07",
+    "artists": [
+      {
+        "name": "Cody Francis",
+        "link": "https://music.163.com/artist?id=28766743"
+      },
+      {
+        "name": "Cayson Renshaw",
+        "link": "https://music.163.com/artist?id=27866670"
+      }
+    ],
+    "album": {
+      "name": "you're never coming back",
+      "link": "https://music.163.com/album?id=131376612"
+    }
+  },
+  {
+    "name": "Hierba Mala",
+    "link": "https://music.163.com/song?id=1384463372",
+    "duration": "03:10",
+    "artists": [
+      { "name": "Reyko", "link": "https://music.163.com/artist?id=12335050" }
+    ],
+    "album": {
+      "name": "Hierba Mala",
+      "link": "https://music.163.com/album?id=80977099"
+    }
+  },
+  {
+    "name": "Jasper Avenue",
+    "link": "https://music.163.com/song?id=1424017573",
+    "duration": "04:34",
+    "artists": [
+      { "name": "CaRter", "link": "https://music.163.com/artist?id=12095041" }
+    ],
+    "album": {
+      "name": "Jasper Avenue",
+      "link": "https://music.163.com/album?id=85790388"
+    }
+  },
+  {
+    "name": "Lifeboats",
+    "link": "https://music.163.com/song?id=405079524",
+    "duration": "02:04",
+    "artists": [
+      { "name": "Adam Young", "link": "https://music.163.com/artist?id=191571" }
+    ],
+    "album": {
+      "name": "RMS Titanic",
+      "link": "https://music.163.com/album?id=34515187"
+    }
+  },
+  {
+    "name": "B.I.G.",
+    "link": "https://music.163.com/song?id=570275417",
+    "duration": "03:52",
+    "artists": [
+      {
+        "name": "Caitlyn Scarlett",
+        "link": "https://music.163.com/artist?id=1101064"
+      }
+    ],
+    "album": {
+      "name": "Red Tape, Vol. 2",
+      "link": "https://music.163.com/album?id=39532080"
+    }
+  },
+  {
+    "name": "My Name Isn’t",
+    "link": "https://music.163.com/song?id=1390601244",
+    "duration": "02:54",
+    "artists": [
+      { "name": "LOVA", "link": "https://music.163.com/artist?id=13163116" }
+    ],
+    "album": {
+      "name": "A Gentleman's Guide",
+      "link": "https://music.163.com/album?id=81606977"
+    }
+  },
+  {
+    "name": "Never Change (feat. Gallie Fisher)",
+    "link": "https://music.163.com/song?id=1342935707",
+    "duration": "04:09",
+    "artists": [
+      {
+        "name": "Crystal Skies",
+        "link": "https://music.163.com/artist?id=1063127"
+      },
+      {
+        "name": "Gallie Fisher",
+        "link": "https://music.163.com/artist?id=31376375"
+      }
+    ],
+    "album": {
+      "name": "Never Change",
+      "link": "https://music.163.com/album?id=75374323"
+    }
+  },
+  {
+    "name": "Hate You + Love You",
+    "link": "https://music.163.com/song?id=1816995764",
+    "duration": "03:18",
+    "artists": [
+      {
+        "name": "Cheat Codes",
+        "link": "https://music.163.com/artist?id=1078252"
+      },
+      {
+        "name": "AJ Mitchell",
+        "link": "https://music.163.com/artist?id=12914329"
+      }
+    ],
+    "album": {
+      "name": "Hate You + Love You",
+      "link": "https://music.163.com/album?id=122456527"
+    }
+  },
+  {
+    "name": "Track in Time (Piano Version) (Piano Version)",
+    "link": "https://music.163.com/song?id=1811909303",
+    "duration": "05:18",
+    "artists": [
+      { "name": "Dennis Kuo", "link": "https://music.163.com/artist?id=32385" }
+    ],
+    "album": {
+      "name": "Track in Time (Piano Version)",
+      "link": "https://music.163.com/album?id=121627847"
+    }
+  },
+  {
+    "name": "What's Done Is Done",
+    "link": "https://music.163.com/song?id=1433425152",
+    "duration": "04:50",
+    "artists": [
+      {
+        "name": "Seven Lions",
+        "link": "https://music.163.com/artist?id=44204"
+      },
+      { "name": "HALIENE", "link": "https://music.163.com/artist?id=13202710" }
+    ],
+    "album": {
+      "name": "Find Another Way",
+      "link": "https://music.163.com/album?id=86776607"
+    }
+  },
+  {
+    "name": "Hold On",
+    "link": "https://music.163.com/song?id=509726712",
+    "duration": "03:12",
+    "artists": [
+      { "name": "Fadi", "link": "https://music.163.com/artist?id=201988" }
+    ],
+    "album": {
+      "name": "Hold On",
+      "link": "https://music.163.com/album?id=36450286"
+    }
+  }
+]
