@@ -1,0 +1,470 @@
+[
+  {
+    "name": "Hope You're Not Happy",
+    "link": "https://music.163.com/song?id=1942570223",
+    "duration": "02:44",
+    "artists": [
+      { "name": "Ashe", "link": "https://music.163.com/artist?id=12278097" }
+    ],
+    "album": {
+      "name": "Hope You're Not Happy",
+      "link": "https://music.163.com/album?id=144178731"
+    }
+  },
+  {
+    "name": "Good Morning Jay",
+    "link": "https://music.163.com/song?id=1303019532",
+    "duration": "02:33",
+    "artists": [
+      {
+        "name": "TastyTreat",
+        "link": "https://music.163.com/artist?id=1081305"
+      },
+      {
+        "name": "Claire Ridgely",
+        "link": "https://music.163.com/artist?id=14935781"
+      }
+    ],
+    "album": {
+      "name": "Good Morning Jay",
+      "link": "https://music.163.com/album?id=72384802"
+    }
+  },
+  {
+    "name": "Goodmood",
+    "link": "https://music.163.com/song?id=1854618859",
+    "duration": "02:41",
+    "artists": [
+      { "name": "Nabes", "link": "https://music.163.com/artist?id=34941579" }
+    ],
+    "album": {
+      "name": "Goodmood",
+      "link": "https://music.163.com/album?id=129268483"
+    }
+  },
+  {
+    "name": "Blame It On You",
+    "link": "https://music.163.com/song?id=1844157370",
+    "duration": "02:34",
+    "artists": [
+      {
+        "name": "Jake Miller",
+        "link": "https://music.163.com/artist?id=776761"
+      }
+    ],
+    "album": {
+      "name": "Silver Lining II",
+      "link": "https://music.163.com/album?id=127237789"
+    }
+  },
+  {
+    "name": "Diamonds",
+    "link": "https://music.163.com/song?id=1955595956",
+    "duration": "02:51",
+    "artists": [
+      {
+        "name": "Orjan Nilsen",
+        "link": "https://music.163.com/artist?id=41064"
+      },
+      {
+        "name": "Nazzereene",
+        "link": "https://music.163.com/artist?id=32513137"
+      }
+    ],
+    "album": {
+      "name": "Diamonds",
+      "link": "https://music.163.com/album?id=146427747"
+    }
+  },
+  {
+    "name": "Summer Vibe",
+    "link": "https://music.163.com/song?id=1844138910",
+    "duration": "03:20",
+    "artists": [
+      {
+        "name": "Forrest Nolan",
+        "link": "https://music.163.com/artist?id=46554150"
+      }
+    ],
+    "album": {
+      "name": "Summer Vibe",
+      "link": "https://music.163.com/album?id=127232636"
+    }
+  },
+  {
+    "name": "Riverside (Reloaded)",
+    "link": "https://music.163.com/song?id=531452765",
+    "duration": "02:55",
+    "artists": [
+      { "name": "Tujamo", "link": "https://music.163.com/artist?id=205438" },
+      {
+        "name": "Sidney Samson",
+        "link": "https://music.163.com/artist?id=133235"
+      }
+    ],
+    "album": {
+      "name": "Riverside (Reloaded)",
+      "link": "https://music.163.com/album?id=37318251"
+    }
+  },
+  {
+    "name": "Humoresque",
+    "link": "https://music.163.com/song?id=1220287",
+    "duration": "04:06",
+    "artists": [
+      {
+        "name": "David Garrett",
+        "link": "https://music.163.com/artist?id=31212"
+      }
+    ],
+    "album": {
+      "name": "Classic Romance",
+      "link": "https://music.163.com/album?id=126275"
+    }
+  },
+  {
+    "name": "heart to spare",
+    "link": "https://music.163.com/song?id=1830331962",
+    "duration": "02:45",
+    "artists": [
+      { "name": "Maro", "link": "https://music.163.com/artist?id=46609937" }
+    ],
+    "album": {
+      "name": "heart to spare",
+      "link": "https://music.163.com/album?id=124669096"
+    }
+  },
+  {
+    "name": "i just want someone to love me",
+    "link": "https://music.163.com/song?id=1496268275",
+    "duration": "02:25",
+    "artists": [
+      { "name": "Sundial", "link": "https://music.163.com/artist?id=131853" }
+    ],
+    "album": {
+      "name": "i just want someone to love me",
+      "link": "https://music.163.com/album?id=98466115"
+    }
+  },
+  {
+    "name": "Black Coffee",
+    "link": "https://music.163.com/song?id=1830897694",
+    "duration": "02:24",
+    "artists": [
+      { "name": "AVIV", "link": "https://music.163.com/artist?id=47502207" }
+    ],
+    "album": {
+      "name": "Black Coffee",
+      "link": "https://music.163.com/album?id=124812026"
+    }
+  },
+  {
+    "name": "lightning",
+    "link": "https://music.163.com/song?id=1479974174",
+    "duration": "03:08",
+    "artists": [
+      { "name": "mehro", "link": "https://music.163.com/artist?id=34504922" }
+    ],
+    "album": {
+      "name": "lightning",
+      "link": "https://music.163.com/album?id=95552888"
+    }
+  },
+  {
+    "name": "First and Last",
+    "link": "https://music.163.com/song?id=473964466",
+    "duration": "03:27",
+    "artists": [
+      {
+        "name": "Josh Leake",
+        "link": "https://music.163.com/artist?id=12387197"
+      }
+    ],
+    "album": {
+      "name": "Songs for Norah",
+      "link": "https://music.163.com/album?id=35424300"
+    }
+  },
+  {
+    "name": "Soft",
+    "link": "https://music.163.com/song?id=1812100792",
+    "duration": "02:58",
+    "artists": [
+      { "name": "GRAE", "link": "https://music.163.com/artist?id=30885416" }
+    ],
+    "album": {
+      "name": "Soft",
+      "link": "https://music.163.com/album?id=121666053"
+    }
+  },
+  {
+    "name": "change ur mind",
+    "link": "https://music.163.com/song?id=1814971662",
+    "duration": "03:03",
+    "artists": [
+      {
+        "name": "Sarcastic Sounds",
+        "link": "https://music.163.com/artist?id=12928025"
+      },
+      {
+        "name": "Claire Rosinkranz",
+        "link": "https://music.163.com/artist?id=33429423"
+      },
+      {
+        "name": "Clinton Kane",
+        "link": "https://music.163.com/artist?id=32796183"
+      }
+    ],
+    "album": {
+      "name": "change ur mind",
+      "link": "https://music.163.com/album?id=122129656"
+    }
+  },
+  {
+    "name": "Shotgun",
+    "link": "https://music.163.com/song?id=1365268528",
+    "duration": "02:54",
+    "artists": [
+      {
+        "name": "Us The Duo",
+        "link": "https://music.163.com/artist?id=1049685"
+      }
+    ],
+    "album": {
+      "name": "Shotgun",
+      "link": "https://music.163.com/album?id=79112830"
+    }
+  },
+  {
+    "name": "flyby.",
+    "link": "https://music.163.com/song?id=1491120030",
+    "duration": "03:05",
+    "artists": [
+      {
+        "name": "Virginia To Vegas",
+        "link": "https://music.163.com/artist?id=942191"
+      },
+      { "name": "Mokita", "link": "https://music.163.com/artist?id=12033046" }
+    ],
+    "album": {
+      "name": "don't wake me, i'm dreaming",
+      "link": "https://music.163.com/album?id=97579775"
+    }
+  },
+  {
+    "name": "I Know",
+    "link": "https://music.163.com/song?id=2772144",
+    "duration": "03:01",
+    "artists": [
+      { "name": "Irma", "link": "https://music.163.com/artist?id=47644567" }
+    ],
+    "album": {
+      "name": "Letter to the Lord",
+      "link": "https://music.163.com/album?id=279654"
+    }
+  },
+  {
+    "name": "Forget Me Forgotten",
+    "link": "https://music.163.com/song?id=28925525",
+    "duration": "03:20",
+    "artists": [
+      {
+        "name": "Hollow Wood",
+        "link": "https://music.163.com/artist?id=985068"
+      }
+    ],
+    "album": {
+      "name": "Seasons EP",
+      "link": "https://music.163.com/album?id=2949217"
+    }
+  },
+  {
+    "name": "Summer Lover",
+    "link": "https://music.163.com/song?id=1496010880",
+    "duration": "03:07",
+    "artists": [
+      {
+        "name": "SpoonBeats",
+        "link": "https://music.163.com/artist?id=31391234"
+      },
+      {
+        "name": "Thomas Ng",
+        "link": "https://music.163.com/artist?id=33779710"
+      }
+    ],
+    "album": {
+      "name": "Transition",
+      "link": "https://music.163.com/album?id=98408272"
+    }
+  },
+  {
+    "name": "Guilty",
+    "link": "https://music.163.com/song?id=1443111805",
+    "duration": "02:17",
+    "artists": [
+      {
+        "name": "Asher Angel",
+        "link": "https://music.163.com/artist?id=12872578"
+      }
+    ],
+    "album": {
+      "name": "Guilty",
+      "link": "https://music.163.com/album?id=88477297"
+    }
+  },
+  {
+    "name": "People Watching",
+    "link": "https://music.163.com/song?id=1861293877",
+    "duration": "02:38",
+    "artists": [
+      {
+        "name": "Conan Gray",
+        "link": "https://music.163.com/artist?id=13080534"
+      }
+    ],
+    "album": {
+      "name": "People Watching",
+      "link": "https://music.163.com/album?id=130388605"
+    }
+  },
+  {
+    "name": "overshare",
+    "link": "https://music.163.com/song?id=1432290389",
+    "duration": "02:50",
+    "artists": [
+      {
+        "name": "Kelsea Ballerini",
+        "link": "https://music.163.com/artist?id=976243"
+      }
+    ],
+    "album": {
+      "name": "kelsea",
+      "link": "https://music.163.com/album?id=86641273"
+    }
+  },
+  {
+    "name": "The Moss",
+    "link": "https://music.163.com/song?id=28432684",
+    "duration": "04:02",
+    "artists": [
+      {
+        "name": "Cosmo Sheldrake",
+        "link": "https://music.163.com/artist?id=905915"
+      }
+    ],
+    "album": {
+      "name": "The Moss",
+      "link": "https://music.163.com/album?id=2793006"
+    }
+  },
+  {
+    "name": "On and On",
+    "link": "https://music.163.com/song?id=1461076697",
+    "duration": "03:29",
+    "artists": [
+      { "name": "PREP", "link": "https://music.163.com/artist?id=12031126" }
+    ],
+    "album": {
+      "name": "On and On",
+      "link": "https://music.163.com/album?id=92071667"
+    }
+  },
+  {
+    "name": "This View",
+    "link": "https://music.163.com/song?id=1336871145",
+    "duration": "02:42",
+    "artists": [
+      { "name": "Surfaces", "link": "https://music.163.com/artist?id=31228310" }
+    ],
+    "album": {
+      "name": "Where the Light Is",
+      "link": "https://music.163.com/album?id=75019699"
+    }
+  },
+  {
+    "name": "All My Friends Are Rich",
+    "link": "https://music.163.com/song?id=1351651503",
+    "duration": "03:05",
+    "artists": [
+      { "name": "filous", "link": "https://music.163.com/artist?id=1081131" },
+      {
+        "name": "Louis III",
+        "link": "https://music.163.com/artist?id=12930772"
+      }
+    ],
+    "album": {
+      "name": "All My Friends Are Rich",
+      "link": "https://music.163.com/album?id=75833585"
+    }
+  },
+  {
+    "name": "Spotlight - (香奈儿2021春夏秀场闭幕返场压轴曲)",
+    "link": "https://music.163.com/song?id=1458199766",
+    "duration": "05:31",
+    "artists": [
+      { "name": "Jessie Ware", "link": "https://music.163.com/artist?id=62826" }
+    ],
+    "album": {
+      "name": "What's Your Pleasure?",
+      "link": "https://music.163.com/album?id=91530493"
+    }
+  },
+  {
+    "name": "Hold Each Other",
+    "link": "https://music.163.com/song?id=1451141838",
+    "duration": "02:57",
+    "artists": [
+      { "name": "Rnla", "link": "https://music.163.com/artist?id=31183880" },
+      {
+        "name": "Carl Storm",
+        "link": "https://music.163.com/artist?id=33055686"
+      }
+    ],
+    "album": {
+      "name": "Hold Each Other",
+      "link": "https://music.163.com/album?id=89998203"
+    }
+  },
+  {
+    "name": "Wishing We Were More Than Friends",
+    "link": "https://music.163.com/song?id=1473019642",
+    "duration": "02:57",
+    "artists": [
+      { "name": "Push Baby", "link": "https://music.163.com/artist?id=840899" }
+    ],
+    "album": {
+      "name": "Wishing We Were More Than Friends",
+      "link": "https://music.163.com/album?id=94319799"
+    }
+  },
+  {
+    "name": "3PM",
+    "link": "https://music.163.com/song?id=1826448666",
+    "duration": "03:16",
+    "artists": [
+      {
+        "name": "Stephanie Poetri",
+        "link": "https://music.163.com/artist?id=32624368"
+      }
+    ],
+    "album": {
+      "name": "AM:PM",
+      "link": "https://music.163.com/album?id=124191813"
+    }
+  },
+  {
+    "name": "Bubble",
+    "link": "https://music.163.com/song?id=1451101256",
+    "duration": "02:37",
+    "artists": [
+      {
+        "name": "rei brown",
+        "link": "https://music.163.com/artist?id=12917017"
+      }
+    ],
+    "album": {
+      "name": "Bubble",
+      "link": "https://music.163.com/album?id=89984029"
+    }
+  }
+]
