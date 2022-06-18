@@ -1,0 +1,492 @@
+[
+  {
+    "name": "View",
+    "link": "https://music.163.com/song?id=1849676178",
+    "duration": "03:00",
+    "artists": [
+      { "name": "MADILYN", "link": "https://music.163.com/artist?id=69270" }
+    ],
+    "album": {
+      "name": "View",
+      "link": "https://music.163.com/album?id=128305909"
+    }
+  },
+  {
+    "name": "I Don't Like You",
+    "link": "https://music.163.com/song?id=1397319840",
+    "duration": "03:13",
+    "artists": [
+      {
+        "name": "Grace VanderWaal",
+        "link": "https://music.163.com/artist?id=12121122"
+      }
+    ],
+    "album": {
+      "name": "I Don't Like You",
+      "link": "https://music.163.com/album?id=82468226"
+    }
+  },
+  {
+    "name": "I Got Me",
+    "link": "https://music.163.com/song?id=1362958998",
+    "duration": "03:24",
+    "artists": [
+      {
+        "name": "Nathan Trent",
+        "link": "https://music.163.com/artist?id=12263200"
+      }
+    ],
+    "album": {
+      "name": "I Got Me",
+      "link": "https://music.163.com/album?id=78905493"
+    }
+  },
+  {
+    "name": "Pretty Little Jaguar",
+    "link": "https://music.163.com/song?id=1481126246",
+    "duration": "02:24",
+    "artists": [
+      { "name": "Bakermat", "link": "https://music.163.com/artist?id=784416" }
+    ],
+    "album": {
+      "name": "The Ringmaster",
+      "link": "https://music.163.com/album?id=95739001"
+    }
+  },
+  {
+    "name": "Take You Home (feat. Dia Frampton)",
+    "link": "https://music.163.com/song?id=1955856871",
+    "duration": "03:38",
+    "artists": [
+      {
+        "name": "Jason Ross",
+        "link": "https://music.163.com/artist?id=906123"
+      },
+      { "name": "MitiS", "link": "https://music.163.com/artist?id=40245" },
+      {
+        "name": "Dia Frampton",
+        "link": "https://music.163.com/artist?id=55454"
+      }
+    ],
+    "album": {
+      "name": "Take You Home (feat. Dia Frampton)",
+      "link": "https://music.163.com/album?id=146486092"
+    }
+  },
+  {
+    "name": "broken people",
+    "link": "https://music.163.com/song?id=1399067228",
+    "duration": "03:22",
+    "artists": [
+      {
+        "name": "almost monday",
+        "link": "https://music.163.com/artist?id=33523773"
+      }
+    ],
+    "album": {
+      "name": "broken people",
+      "link": "https://music.163.com/album?id=82735544"
+    }
+  },
+  {
+    "name": "The Greatest Show",
+    "link": "https://music.163.com/song?id=515535828",
+    "duration": "05:02",
+    "artists": [
+      {
+        "name": "Hugh Jackman",
+        "link": "https://music.163.com/artist?id=218195"
+      },
+      {
+        "name": "Keala Settle",
+        "link": "https://music.163.com/artist?id=13157135"
+      },
+      { "name": "Zac Efron", "link": "https://music.163.com/artist?id=85162" },
+      { "name": "Zendaya", "link": "https://music.163.com/artist?id=85274" },
+      {
+        "name": "The Greatest Showman Ensemble",
+        "link": "https://music.163.com/artist?id=13222411"
+      }
+    ],
+    "album": {
+      "name": "The Greatest Showman (Original Motion Picture Soundtrack)",
+      "link": "https://music.163.com/album?id=36674183"
+    }
+  },
+  {
+    "name": "You Will Be Found",
+    "link": "https://music.163.com/song?id=1859685856",
+    "duration": "03:00",
+    "artists": [
+      {
+        "name": "something human",
+        "link": "https://music.163.com/artist?id=48207291"
+      },
+      {
+        "name": "Joey Stamper",
+        "link": "https://music.163.com/artist?id=12523017"
+      },
+      {
+        "name": "Brooks Daugherty",
+        "link": "https://music.163.com/artist?id=35194942"
+      }
+    ],
+    "album": {
+      "name": "You Will Be Found",
+      "link": "https://music.163.com/album?id=130102049"
+    }
+  },
+  {
+    "name": "Keep On Dancing",
+    "link": "https://music.163.com/song?id=1441151547",
+    "duration": "03:15",
+    "artists": [
+      { "name": "Oh Wonder", "link": "https://music.163.com/artist?id=1050128" }
+    ],
+    "album": {
+      "name": "Home Tapes",
+      "link": "https://music.163.com/album?id=91529139"
+    }
+  },
+  {
+    "name": "Don't Know Why",
+    "link": "https://music.163.com/song?id=1851986650",
+    "duration": "03:09",
+    "artists": [
+      {
+        "name": "Ghostly Kisses",
+        "link": "https://music.163.com/artist?id=1087366"
+      }
+    ],
+    "album": {
+      "name": "Don't Know Why",
+      "link": "https://music.163.com/album?id=128732349"
+    }
+  },
+  {
+    "name": "I Hear a Symphony",
+    "link": "https://music.163.com/song?id=1846209641",
+    "duration": "03:05",
+    "artists": [
+      { "name": "Cody Fry", "link": "https://music.163.com/artist?id=31078" }
+    ],
+    "album": {
+      "name": "Flying",
+      "link": "https://music.163.com/album?id=127665546"
+    }
+  },
+  {
+    "name": "belong",
+    "link": "https://music.163.com/song?id=1392089775",
+    "duration": "02:53",
+    "artists": [
+      {
+        "name": "slenderbodies",
+        "link": "https://music.163.com/artist?id=12381092"
+      }
+    ],
+    "album": {
+      "name": "komorebi",
+      "link": "https://music.163.com/album?id=81787488"
+    }
+  },
+  {
+    "name": "Seabirds",
+    "link": "https://music.163.com/song?id=526604136",
+    "duration": "04:58",
+    "artists": [
+      {
+        "name": "Pizzagirl",
+        "link": "https://music.163.com/artist?id=13012166"
+      }
+    ],
+    "album": {
+      "name": "Seabirds",
+      "link": "https://music.163.com/album?id=37093045"
+    }
+  },
+  {
+    "name": "Grave",
+    "link": "https://music.163.com/song?id=1487152197",
+    "duration": "02:53",
+    "artists": [
+      {
+        "name": "Leah Kate",
+        "link": "https://music.163.com/artist?id=31822687"
+      }
+    ],
+    "album": {
+      "name": "Grave",
+      "link": "https://music.163.com/album?id=96811732"
+    }
+  },
+  {
+    "name": "Pharaoh",
+    "link": "https://music.163.com/song?id=419646662",
+    "duration": "03:24",
+    "artists": [
+      {
+        "name": "Flora Cash",
+        "link": "https://music.163.com/artist?id=1132016"
+      }
+    ],
+    "album": {
+      "name": "Can Summer Love Last Forever?",
+      "link": "https://music.163.com/album?id=34751337"
+    }
+  },
+  {
+    "name": "In the Water",
+    "link": "https://music.163.com/song?id=1834260605",
+    "duration": "02:20",
+    "artists": [
+      { "name": "Cal", "link": "https://music.163.com/artist?id=12278274" },
+      {
+        "name": "Quinn XCII",
+        "link": "https://music.163.com/artist?id=12043047"
+      }
+    ],
+    "album": {
+      "name": "In the Water",
+      "link": "https://music.163.com/album?id=125492068"
+    }
+  },
+  {
+    "name": "Earthboy",
+    "link": "https://music.163.com/song?id=1492246959",
+    "duration": "03:07",
+    "artists": [
+      {
+        "name": "Vern Matz",
+        "link": "https://music.163.com/artist?id=30882727"
+      }
+    ],
+    "album": {
+      "name": "Minnesota Dancing",
+      "link": "https://music.163.com/album?id=97757208"
+    }
+  },
+  {
+    "name": "Set for Life",
+    "link": "https://music.163.com/song?id=1446788784",
+    "duration": "04:22",
+    "artists": [
+      { "name": "Trent Dabbs", "link": "https://music.163.com/artist?id=45163" }
+    ],
+    "album": {
+      "name": "Positano",
+      "link": "https://music.163.com/album?id=89211507"
+    }
+  },
+  {
+    "name": "See You",
+    "link": "https://music.163.com/song?id=1440587485",
+    "duration": "02:55",
+    "artists": [
+      {
+        "name": "Johnny Orlando",
+        "link": "https://music.163.com/artist?id=590458"
+      }
+    ],
+    "album": {
+      "name": "See You",
+      "link": "https://music.163.com/album?id=88014840"
+    }
+  },
+  {
+    "name": "Her Life",
+    "link": "https://music.163.com/song?id=424849024",
+    "duration": "02:48",
+    "artists": [
+      { "name": "Two Feet", "link": "https://music.163.com/artist?id=12073672" }
+    ],
+    "album": {
+      "name": "First Steps",
+      "link": "https://music.163.com/album?id=34790568"
+    }
+  },
+  {
+    "name": "Rainy Day",
+    "link": "https://music.163.com/song?id=1811881459",
+    "duration": "03:11",
+    "artists": [
+      {
+        "name": "Stephan Kreussel",
+        "link": "https://music.163.com/artist?id=13021837"
+      }
+    ],
+    "album": {
+      "name": "Pollen",
+      "link": "https://music.163.com/album?id=121623898"
+    }
+  },
+  {
+    "name": "It's You",
+    "link": "https://music.163.com/song?id=1416470132",
+    "duration": "03:03",
+    "artists": [
+      { "name": "Abudy", "link": "https://music.163.com/artist?id=33112049" }
+    ],
+    "album": {
+      "name": "Cover Hit 2019",
+      "link": "https://music.163.com/album?id=84954530"
+    }
+  },
+  {
+    "name": "The Best For You",
+    "link": "https://music.163.com/song?id=1465505944",
+    "duration": "03:58",
+    "artists": [
+      {
+        "name": "Hikaru Station",
+        "link": "https://music.163.com/artist?id=12082087"
+      }
+    ],
+    "album": {
+      "name": "The Best For You",
+      "link": "https://music.163.com/album?id=92985686"
+    }
+  },
+  {
+    "name": "Limbs of Faith",
+    "link": "https://music.163.com/song?id=476987164",
+    "duration": "02:49",
+    "artists": [
+      { "name": "Beauvois", "link": "https://music.163.com/artist?id=12061205" }
+    ],
+    "album": {
+      "name": "Limbs of Faith",
+      "link": "https://music.163.com/album?id=35455445"
+    }
+  },
+  {
+    "name": "Claudia",
+    "link": "https://music.163.com/song?id=1346184546",
+    "duration": "02:41",
+    "artists": [
+      { "name": "FINNEAS", "link": "https://music.163.com/artist?id=12676847" }
+    ],
+    "album": {
+      "name": "Claudia",
+      "link": "https://music.163.com/album?id=75566424"
+    }
+  },
+  {
+    "name": "Dishes (Acoustic)",
+    "link": "https://music.163.com/song?id=1459739489",
+    "duration": "02:21",
+    "artists": [
+      { "name": "Lauv", "link": "https://music.163.com/artist?id=1057226" }
+    ],
+    "album": {
+      "name": "Without You",
+      "link": "https://music.163.com/album?id=90751748"
+    }
+  },
+  {
+    "name": "Heartbreak Hotel",
+    "link": "https://music.163.com/song?id=571948387",
+    "duration": "03:38",
+    "artists": [
+      {
+        "name": "Sophia Ayana",
+        "link": "https://music.163.com/artist?id=12446102"
+      }
+    ],
+    "album": {
+      "name": "Heartbreak Hotel",
+      "link": "https://music.163.com/album?id=39630054"
+    }
+  },
+  {
+    "name": "Lalalalalalalalalala",
+    "link": "https://music.163.com/song?id=1488312127",
+    "duration": "02:41",
+    "artists": [
+      {
+        "name": "Mikolas Josef",
+        "link": "https://music.163.com/artist?id=12214084"
+      }
+    ],
+    "album": {
+      "name": "Lalalalalalalalalala",
+      "link": "https://music.163.com/album?id=97027661"
+    }
+  },
+  {
+    "name": "Addicted",
+    "link": "https://music.163.com/song?id=1394538453",
+    "duration": "02:24",
+    "artists": [
+      {
+        "name": "Walk off the Earth",
+        "link": "https://music.163.com/artist?id=105493"
+      }
+    ],
+    "album": {
+      "name": "HERE WE GO!",
+      "link": "https://music.163.com/album?id=82099709"
+    }
+  },
+  {
+    "name": "Champagne Problems",
+    "link": "https://music.163.com/song?id=1483607841",
+    "duration": "03:00",
+    "artists": [
+      {
+        "name": "Hugo Helmig",
+        "link": "https://music.163.com/artist?id=12870029"
+      }
+    ],
+    "album": {
+      "name": "Champagne Problems",
+      "link": "https://music.163.com/album?id=96191603"
+    }
+  },
+  {
+    "name": "One Hundred & Two",
+    "link": "https://music.163.com/song?id=1416542069",
+    "duration": "03:16",
+    "artists": [
+      {
+        "name": "Barrett Marshall",
+        "link": "https://music.163.com/artist?id=12046860"
+      },
+      { "name": "Ivoris", "link": "https://music.163.com/artist?id=29403986" }
+    ],
+    "album": {
+      "name": "One Hundred & Two",
+      "link": "https://music.163.com/album?id=84966093"
+    }
+  },
+  {
+    "name": "Seven Nation Army",
+    "link": "https://music.163.com/song?id=26933374",
+    "duration": "02:56",
+    "artists": [
+      {
+        "name": "Ben l'oncle Soul",
+        "link": "https://music.163.com/artist?id=213907"
+      }
+    ],
+    "album": {
+      "name": "Vintage Pop",
+      "link": "https://music.163.com/album?id=2575334"
+    }
+  },
+  {
+    "name": "Love Me Like You Do - (电影《五十度灰》主题曲)",
+    "link": "https://music.163.com/song?id=29966565",
+    "duration": "04:10",
+    "artists": [
+      {
+        "name": "Ellie Goulding",
+        "link": "https://music.163.com/artist?id=56598"
+      }
+    ],
+    "album": {
+      "name": "Love Me Like You Do (From ",
+      "link": "https://music.163.com/album?id=3090199"
+    }
+  }
+]
