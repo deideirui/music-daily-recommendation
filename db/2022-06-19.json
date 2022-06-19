@@ -1,0 +1,466 @@
+[
+  {
+    "name": "Lion - Acoustic",
+    "link": "https://music.163.com/song?id=1491050989",
+    "duration": "02:47",
+    "artists": [
+      {
+        "name": "Hearts & Colors",
+        "link": "https://music.163.com/artist?id=12399051"
+      }
+    ],
+    "album": {
+      "name": "Lion - Acoustic",
+      "link": "https://music.163.com/album?id=97557442"
+    }
+  },
+  {
+    "name": "12:45 (Stripped)",
+    "link": "https://music.163.com/song?id=1320657876",
+    "duration": "02:59",
+    "artists": [
+      { "name": "Etham", "link": "https://music.163.com/artist?id=12551214" }
+    ],
+    "album": {
+      "name": "Stripped - EP",
+      "link": "https://music.163.com/album?id=75404988"
+    }
+  },
+  {
+    "name": "24/5",
+    "link": "https://music.163.com/song?id=1876386896",
+    "duration": "02:38",
+    "artists": [
+      {
+        "name": "Mimi Webb",
+        "link": "https://music.163.com/artist?id=32817039"
+      }
+    ],
+    "album": {
+      "name": "24/5",
+      "link": "https://music.163.com/album?id=132914201"
+    }
+  },
+  {
+    "name": "don't let me fall (feat. yaeow)",
+    "link": "https://music.163.com/song?id=1937395308",
+    "duration": "02:27",
+    "artists": [
+      { "name": "Gustixa", "link": "https://music.163.com/artist?id=36732046" },
+      { "name": "yaeow", "link": "https://music.163.com/artist?id=33979386" }
+    ],
+    "album": {
+      "name": "don't let me fall (feat. yaeow)",
+      "link": "https://music.163.com/album?id=143364220"
+    }
+  },
+  {
+    "name": "cheeze (feat. Andrew Kang)",
+    "link": "https://music.163.com/song?id=1915439799",
+    "duration": "02:38",
+    "artists": [
+      {
+        "name": "Sarah Kang",
+        "link": "https://music.163.com/artist?id=36737311"
+      },
+      {
+        "name": "Andrew Kang",
+        "link": "https://music.163.com/artist?id=612828"
+      }
+    ],
+    "album": {
+      "name": "cheeze (feat. Andrew Kang)",
+      "link": "https://music.163.com/album?id=139510750"
+    }
+  },
+  {
+    "name": "Chance",
+    "link": "https://music.163.com/song?id=536513830",
+    "duration": "03:33",
+    "artists": [
+      { "name": "Aspyer", "link": "https://music.163.com/artist?id=12409085" },
+      {
+        "name": "Kyle Reynolds",
+        "link": "https://music.163.com/artist?id=1179061"
+      },
+      {
+        "name": "Carly Jay",
+        "link": "https://music.163.com/artist?id=30395435"
+      }
+    ],
+    "album": {
+      "name": "Chance",
+      "link": "https://music.163.com/album?id=37552481"
+    }
+  },
+  {
+    "name": "A Better Day",
+    "link": "https://music.163.com/song?id=1486646455",
+    "duration": "02:08",
+    "artists": [
+      {
+        "name": "Last Heroes",
+        "link": "https://music.163.com/artist?id=11987034"
+      }
+    ],
+    "album": {
+      "name": "Finding Light",
+      "link": "https://music.163.com/album?id=96707479"
+    }
+  },
+  {
+    "name": "Lost In The Moment",
+    "link": "https://music.163.com/song?id=1922271352",
+    "duration": "02:33",
+    "artists": [
+      { "name": "BLANKS", "link": "https://music.163.com/artist?id=49482" }
+    ],
+    "album": {
+      "name": "Lost In The Moment",
+      "link": "https://music.163.com/album?id=140732290"
+    }
+  },
+  {
+    "name": "Souvenir",
+    "link": "https://music.163.com/song?id=1439184760",
+    "duration": "02:41",
+    "artists": [
+      {
+        "name": "Selena Gomez",
+        "link": "https://music.163.com/artist?id=140196"
+      }
+    ],
+    "album": {
+      "name": "Rare (Deluxe)",
+      "link": "https://music.163.com/album?id=87832777"
+    }
+  },
+  {
+    "name": "Oops!... I Did It Again (feat. Unlike Pluto)",
+    "link": "https://music.163.com/song?id=1408601186",
+    "duration": "03:20",
+    "artists": [
+      {
+        "name": "Why Mona",
+        "link": "https://music.163.com/artist?id=15008055"
+      },
+      {
+        "name": "Unlike Pluto",
+        "link": "https://music.163.com/artist?id=860945"
+      }
+    ],
+    "album": {
+      "name": "Oops!... I Did It Again (feat. Unlike Pluto)",
+      "link": "https://music.163.com/album?id=83989723"
+    }
+  },
+  {
+    "name": "Weather",
+    "link": "https://music.163.com/song?id=1300280967",
+    "duration": "03:21",
+    "artists": [
+      { "name": "Ralph", "link": "https://music.163.com/artist?id=12049282" }
+    ],
+    "album": {
+      "name": "Weather",
+      "link": "https://music.163.com/album?id=72221778"
+    }
+  },
+  {
+    "name": "lie to me",
+    "link": "https://music.163.com/song?id=1485815567",
+    "duration": "02:57",
+    "artists": [
+      {
+        "name": "Tate McRae",
+        "link": "https://music.163.com/artist?id=30784458"
+      },
+      {
+        "name": "Ali Gatie",
+        "link": "https://music.163.com/artist?id=29354247"
+      }
+    ],
+    "album": {
+      "name": "lie to me",
+      "link": "https://music.163.com/album?id=96577075"
+    }
+  },
+  {
+    "name": "In Uh Breeze",
+    "link": "https://music.163.com/song?id=1378032604",
+    "duration": "02:18",
+    "artists": [
+      {
+        "name": "Monica Riskey",
+        "link": "https://music.163.com/artist?id=32752093"
+      }
+    ],
+    "album": {
+      "name": "In Uh Breeze",
+      "link": "https://music.163.com/album?id=80399984"
+    }
+  },
+  {
+    "name": "Laugh",
+    "link": "https://music.163.com/song?id=1457445807",
+    "duration": "02:07",
+    "artists": [
+      {
+        "name": "Sarcastic Sounds",
+        "link": "https://music.163.com/artist?id=12928025"
+      }
+    ],
+    "album": {
+      "name": "Laugh",
+      "link": "https://music.163.com/album?id=91355622"
+    }
+  },
+  {
+    "name": "What your mother taught you",
+    "link": "https://music.163.com/song?id=2894790",
+    "duration": "03:52",
+    "artists": [
+      { "name": "Kingsfoil", "link": "https://music.163.com/artist?id=63287" }
+    ],
+    "album": {
+      "name": "What your mother taught you",
+      "link": "https://music.163.com/album?id=292299"
+    }
+  },
+  {
+    "name": "Before I Go",
+    "link": "https://music.163.com/song?id=1320710392",
+    "duration": "03:29",
+    "artists": [
+      {
+        "name": "Guy Sebastian",
+        "link": "https://music.163.com/artist?id=33997"
+      }
+    ],
+    "album": {
+      "name": "Before I Go",
+      "link": "https://music.163.com/album?id=74108298"
+    }
+  },
+  {
+    "name": "Hate Me",
+    "link": "https://music.163.com/song?id=1497981571",
+    "duration": "02:37",
+    "artists": [
+      { "name": "Miley Cyrus", "link": "https://music.163.com/artist?id=66361" }
+    ],
+    "album": {
+      "name": "Plastic Hearts",
+      "link": "https://music.163.com/album?id=98730915"
+    }
+  },
+  {
+    "name": "Cipi",
+    "link": "https://music.163.com/song?id=1826513014",
+    "duration": "03:07",
+    "artists": [
+      {
+        "name": "Noga Erez",
+        "link": "https://music.163.com/artist?id=12248105"
+      }
+    ],
+    "album": {
+      "name": "KIDS",
+      "link": "https://music.163.com/album?id=124200597"
+    }
+  },
+  {
+    "name": "Feel It Twice",
+    "link": "https://music.163.com/song?id=1407767521",
+    "duration": "03:08",
+    "artists": [
+      {
+        "name": "Camila Cabello",
+        "link": "https://music.163.com/artist?id=12136039"
+      }
+    ],
+    "album": {
+      "name": "Romance",
+      "link": "https://music.163.com/album?id=83916848"
+    }
+  },
+  {
+    "name": "ibtc",
+    "link": "https://music.163.com/song?id=1857598108",
+    "duration": "02:03",
+    "artists": [
+      { "name": "Sad Alex", "link": "https://music.163.com/artist?id=31272939" }
+    ],
+    "album": {
+      "name": "ibtc",
+      "link": "https://music.163.com/album?id=129741324"
+    }
+  },
+  {
+    "name": "Secret Love Song",
+    "link": "https://music.163.com/song?id=407007523",
+    "duration": "04:09",
+    "artists": [
+      { "name": "Little Mix", "link": "https://music.163.com/artist?id=96072" },
+      {
+        "name": "Jason Derulo",
+        "link": "https://music.163.com/artist?id=35511"
+      }
+    ],
+    "album": {
+      "name": "Secret Love Song",
+      "link": "https://music.163.com/album?id=34569111"
+    }
+  },
+  {
+    "name": "… Sad About You",
+    "link": "https://music.163.com/song?id=1406417199",
+    "duration": "03:55",
+    "artists": [
+      {
+        "name": "Fly By Midnight",
+        "link": "https://music.163.com/artist?id=1163027"
+      }
+    ],
+    "album": {
+      "name": "Happy About Everything Else...",
+      "link": "https://music.163.com/album?id=83737510"
+    }
+  },
+  {
+    "name": "PCH",
+    "link": "https://music.163.com/song?id=471761048",
+    "duration": "02:33",
+    "artists": [
+      { "name": "Jhameel", "link": "https://music.163.com/artist?id=37264" }
+    ],
+    "album": {
+      "name": "PCH",
+      "link": "https://music.163.com/album?id=35358257"
+    }
+  },
+  {
+    "name": "Pierre",
+    "link": "https://music.163.com/song?id=1391251170",
+    "duration": "03:26",
+    "artists": [
+      {
+        "name": "Men I Trust",
+        "link": "https://music.163.com/artist?id=1132243"
+      }
+    ],
+    "album": {
+      "name": "Oncle Jazz",
+      "link": "https://music.163.com/album?id=81677349"
+    }
+  },
+  {
+    "name": "Tainted Love",
+    "link": "https://music.163.com/song?id=1930375264",
+    "duration": "03:21",
+    "artists": [
+      {
+        "name": "Isaac Dunbar",
+        "link": "https://music.163.com/artist?id=28389583"
+      }
+    ],
+    "album": {
+      "name": "Tainted Love",
+      "link": "https://music.163.com/album?id=142187491"
+    }
+  },
+  {
+    "name": "Intuition (From The Original Television Soundtrack Blade Runner Black Lotus)",
+    "link": "https://music.163.com/song?id=1907970296",
+    "duration": "02:50",
+    "artists": [
+      {
+        "name": "salem ilese",
+        "link": "https://music.163.com/artist?id=35501211"
+      }
+    ],
+    "album": {
+      "name": "Intuition (From The Original Television Soundtrack Blade Runner Black Lotus)",
+      "link": "https://music.163.com/album?id=138195399"
+    }
+  },
+  {
+    "name": "South",
+    "link": "https://music.163.com/song?id=552463583",
+    "duration": "03:35",
+    "artists": [
+      { "name": "Galimatias", "link": "https://music.163.com/artist?id=820738" }
+    ],
+    "album": {
+      "name": "South",
+      "link": "https://music.163.com/album?id=38327579"
+    }
+  },
+  {
+    "name": "Ain't The One",
+    "link": "https://music.163.com/song?id=1311129241",
+    "duration": "03:25",
+    "artists": [
+      { "name": "illstrtd", "link": "https://music.163.com/artist?id=12412137" }
+    ],
+    "album": {
+      "name": "Ain't The One",
+      "link": "https://music.163.com/album?id=73442106"
+    }
+  },
+  {
+    "name": "Up All Night",
+    "link": "https://music.163.com/song?id=1894718495",
+    "duration": "02:29",
+    "artists": [
+      {
+        "name": "The Tech Thieves",
+        "link": "https://music.163.com/artist?id=12080267"
+      },
+      { "name": "Twoxi", "link": "https://music.163.com/artist?id=31273067" }
+    ],
+    "album": {
+      "name": "Up All Night",
+      "link": "https://music.163.com/album?id=136089873"
+    }
+  },
+  {
+    "name": "Ozean",
+    "link": "https://music.163.com/song?id=525241779",
+    "duration": "02:48",
+    "artists": [
+      { "name": "Resonance", "link": "https://music.163.com/artist?id=196588" }
+    ],
+    "album": {
+      "name": "Ozean",
+      "link": "https://music.163.com/album?id=37027253"
+    }
+  },
+  {
+    "name": "Falling",
+    "link": "https://music.163.com/song?id=1325203348",
+    "duration": "03:54",
+    "artists": [
+      { "name": "LÉON", "link": "https://music.163.com/artist?id=1178081" }
+    ],
+    "album": {
+      "name": "Falling",
+      "link": "https://music.163.com/album?id=74284601"
+    }
+  },
+  {
+    "name": "Experience",
+    "link": "https://music.163.com/song?id=26484066",
+    "duration": "05:15",
+    "artists": [
+      {
+        "name": "Ludovico Einaudi",
+        "link": "https://music.163.com/artist?id=38127"
+      }
+    ],
+    "album": {
+      "name": "In A Time Lapse",
+      "link": "https://music.163.com/album?id=2508011"
+    }
+  }
+]
