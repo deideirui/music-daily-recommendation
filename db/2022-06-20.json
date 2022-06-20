@@ -1,0 +1,470 @@
+[
+  {
+    "name": "Tell Me The Truth",
+    "link": "https://music.163.com/song?id=1928597858",
+    "duration": "04:02",
+    "artists": [
+      { "name": "Two Feet", "link": "https://music.163.com/artist?id=12073672" }
+    ],
+    "album": {
+      "name": "Tell Me The Truth",
+      "link": "https://music.163.com/album?id=141882911"
+    }
+  },
+  {
+    "name": "Could I Be Somebody",
+    "link": "https://music.163.com/song?id=1935174240",
+    "duration": "03:51",
+    "artists": [
+      {
+        "name": "rei brown",
+        "link": "https://music.163.com/artist?id=12917017"
+      }
+    ],
+    "album": {
+      "name": "Could I Be Somebody",
+      "link": "https://music.163.com/album?id=142999784"
+    }
+  },
+  {
+    "name": "Bonjour Au revoir - (早安 再见)",
+    "link": "https://music.163.com/song?id=1913900791",
+    "duration": "03:12",
+    "artists": [
+      {
+        "name": "Joyce Jonathan",
+        "link": "https://music.163.com/artist?id=36858"
+      }
+    ],
+    "album": {
+      "name": "Les p'tites jolies choses",
+      "link": "https://music.163.com/album?id=139213851"
+    }
+  },
+  {
+    "name": "Medieval",
+    "link": "https://music.163.com/song?id=1887215867",
+    "duration": "02:51",
+    "artists": [
+      { "name": "FINNEAS", "link": "https://music.163.com/artist?id=12676847" }
+    ],
+    "album": {
+      "name": "Optimist",
+      "link": "https://music.163.com/album?id=134830939"
+    }
+  },
+  {
+    "name": "**** It I Love You",
+    "link": "https://music.163.com/song?id=1936099257",
+    "duration": "03:23",
+    "artists": [
+      { "name": "Oh Wonder", "link": "https://music.163.com/artist?id=1050128" }
+    ],
+    "album": {
+      "name": "**** It I Love You",
+      "link": "https://music.163.com/album?id=143157819"
+    }
+  },
+  {
+    "name": "Young And Beautiful - (电影《了不起的盖茨比》插曲)",
+    "link": "https://music.163.com/song?id=26243686",
+    "duration": "03:56",
+    "artists": [
+      {
+        "name": "Lana Del Rey",
+        "link": "https://music.163.com/artist?id=66212"
+      }
+    ],
+    "album": {
+      "name": "Young And Beautiful",
+      "link": "https://music.163.com/album?id=2431159"
+    }
+  },
+  {
+    "name": "It Was Always You",
+    "link": "https://music.163.com/song?id=1438721918",
+    "duration": "03:49",
+    "artists": [
+      { "name": "The Ivy", "link": "https://music.163.com/artist?id=12080293" }
+    ],
+    "album": {
+      "name": "We Move Faster at Night",
+      "link": "https://music.163.com/album?id=87774398"
+    }
+  },
+  {
+    "name": "Bedhead",
+    "link": "https://music.163.com/song?id=1429857664",
+    "duration": "02:27",
+    "artists": [
+      { "name": "Shoffy", "link": "https://music.163.com/artist?id=1156094" },
+      {
+        "name": "Anna Clendening",
+        "link": "https://music.163.com/artist?id=12533901"
+      }
+    ],
+    "album": {
+      "name": "Flash",
+      "link": "https://music.163.com/album?id=86393727"
+    }
+  },
+  {
+    "name": "Peace",
+    "link": "https://music.163.com/song?id=411213133",
+    "duration": "03:51",
+    "artists": [
+      {
+        "name": "Little Oceans",
+        "link": "https://music.163.com/artist?id=12042033"
+      }
+    ],
+    "album": {
+      "name": "Peace",
+      "link": "https://music.163.com/album?id=34681060"
+    }
+  },
+  {
+    "name": "Giving In To The Love",
+    "link": "https://music.163.com/song?id=1913748924",
+    "duration": "03:01",
+    "artists": [
+      { "name": "AURORA", "link": "https://music.163.com/artist?id=1043338" }
+    ],
+    "album": {
+      "name": "The Gods We Can Touch",
+      "link": "https://music.163.com/album?id=139192502"
+    }
+  },
+  {
+    "name": "How Do You Love Somebody",
+    "link": "https://music.163.com/song?id=1951446825",
+    "duration": "03:00",
+    "artists": [
+      {
+        "name": "Why Don't We",
+        "link": "https://music.163.com/artist?id=12468277"
+      }
+    ],
+    "album": {
+      "name": "How Do You Love Somebody",
+      "link": "https://music.163.com/album?id=145687168"
+    }
+  },
+  {
+    "name": "Salut d'amour Op.12",
+    "link": "https://music.163.com/song?id=538589278",
+    "duration": "02:34",
+    "artists": [
+      {
+        "name": "Reza Najfar",
+        "link": "https://music.163.com/artist?id=13310091"
+      },
+      {
+        "name": "Fausto Quintabà",
+        "link": "https://music.163.com/artist?id=13280886"
+      }
+    ],
+    "album": {
+      "name": "Slow Motion",
+      "link": "https://music.163.com/album?id=37649726"
+    }
+  },
+  {
+    "name": "In Memoriam",
+    "link": "https://music.163.com/song?id=1393556136",
+    "duration": "03:32",
+    "artists": [
+      {
+        "name": "Kirill Richter",
+        "link": "https://music.163.com/artist?id=30568197"
+      }
+    ],
+    "album": {
+      "name": "In Memoriam",
+      "link": "https://music.163.com/album?id=81972452"
+    }
+  },
+  {
+    "name": "Changli",
+    "link": "https://music.163.com/song?id=1362559450",
+    "duration": "02:45",
+    "artists": [
+      { "name": "Ooyy", "link": "https://music.163.com/artist?id=28767786" }
+    ],
+    "album": {
+      "name": "Changli",
+      "link": "https://music.163.com/album?id=78876002"
+    }
+  },
+  {
+    "name": "Resurrect",
+    "link": "https://music.163.com/song?id=1312596793",
+    "duration": "07:03",
+    "artists": [
+      {
+        "name": "Tony Anderson",
+        "link": "https://music.163.com/artist?id=79757"
+      }
+    ],
+    "album": {
+      "name": "Chasm",
+      "link": "https://music.163.com/album?id=73595415"
+    }
+  },
+  {
+    "name": "High Water",
+    "link": "https://music.163.com/song?id=1931522742",
+    "duration": "03:09",
+    "artists": [
+      {
+        "name": "Bishop Briggs",
+        "link": "https://music.163.com/artist?id=198937"
+      }
+    ],
+    "album": {
+      "name": "High Water / Art of Survival",
+      "link": "https://music.163.com/album?id=142401056"
+    }
+  },
+  {
+    "name": "Hustle",
+    "link": "https://music.163.com/song?id=1354814132",
+    "duration": "02:55",
+    "artists": [
+      { "name": "P!nk", "link": "https://music.163.com/artist?id=70821" }
+    ],
+    "album": {
+      "name": "Hurts 2B Human",
+      "link": "https://music.163.com/album?id=78703765"
+    }
+  },
+  {
+    "name": "i can't take it back",
+    "link": "https://music.163.com/song?id=1431887645",
+    "duration": "02:41",
+    "artists": [
+      { "name": "SEA", "link": "https://music.163.com/artist?id=33173269" },
+      { "name": "yaeow", "link": "https://music.163.com/artist?id=33979386" }
+    ],
+    "album": {
+      "name": "i can't take it back",
+      "link": "https://music.163.com/album?id=86607308"
+    }
+  },
+  {
+    "name": "QUEEN OF THE FREAKS",
+    "link": "https://music.163.com/song?id=1483470524",
+    "duration": "03:34",
+    "artists": [
+      { "name": "AViVA", "link": "https://music.163.com/artist?id=12074178" }
+    ],
+    "album": {
+      "name": "QUEEN OF THE FREAKS",
+      "link": "https://music.163.com/album?id=96172584"
+    }
+  },
+  {
+    "name": "Won't Look Back",
+    "link": "https://music.163.com/song?id=482386197",
+    "duration": "04:39",
+    "artists": [
+      { "name": "Geowulf", "link": "https://music.163.com/artist?id=12087103" }
+    ],
+    "album": {
+      "name": "Relapse",
+      "link": "https://music.163.com/album?id=35578330"
+    }
+  },
+  {
+    "name": "Looking at Me",
+    "link": "https://music.163.com/song?id=1378849616",
+    "duration": "03:01",
+    "artists": [
+      {
+        "name": "Sabrina Carpenter",
+        "link": "https://music.163.com/artist?id=77993"
+      }
+    ],
+    "album": {
+      "name": "Singular Act II",
+      "link": "https://music.163.com/album?id=80492981"
+    }
+  },
+  {
+    "name": "Your Love",
+    "link": "https://music.163.com/song?id=417833891",
+    "duration": "04:11",
+    "artists": [
+      { "name": "Furns", "link": "https://music.163.com/artist?id=1132267" }
+    ],
+    "album": {
+      "name": "Your Love",
+      "link": "https://music.163.com/album?id=34739847"
+    }
+  },
+  {
+    "name": "eat u alive",
+    "link": "https://music.163.com/song?id=1427047388",
+    "duration": "03:11",
+    "artists": [
+      {
+        "name": "Marian Hill",
+        "link": "https://music.163.com/artist?id=893433"
+      },
+      {
+        "name": "Steve Davit",
+        "link": "https://music.163.com/artist?id=29740302"
+      }
+    ],
+    "album": {
+      "name": "was it not",
+      "link": "https://music.163.com/album?id=86112487"
+    }
+  },
+  {
+    "name": "Till You Love Somebody",
+    "link": "https://music.163.com/song?id=1493108729",
+    "duration": "03:02",
+    "artists": [
+      {
+        "name": "Kylie Minogue",
+        "link": "https://music.163.com/artist?id=62896"
+      }
+    ],
+    "album": {
+      "name": "DISCO (Deluxe)",
+      "link": "https://music.163.com/album?id=97934609"
+    }
+  },
+  {
+    "name": "It Ain't Easy",
+    "link": "https://music.163.com/song?id=436016380",
+    "duration": "04:11",
+    "artists": [
+      {
+        "name": "Muddy Magnolias",
+        "link": "https://music.163.com/artist?id=12073504"
+      }
+    ],
+    "album": {
+      "name": "Broken People",
+      "link": "https://music.163.com/album?id=34886934"
+    }
+  },
+  {
+    "name": "Noble Blood",
+    "link": "https://music.163.com/song?id=1358171335",
+    "duration": "03:40",
+    "artists": [
+      {
+        "name": "Tommee Profitt",
+        "link": "https://music.163.com/artist?id=28975"
+      },
+      { "name": "Fleurie", "link": "https://music.163.com/artist?id=860929" }
+    ],
+    "album": {
+      "name": "Gloria Regali",
+      "link": "https://music.163.com/album?id=78477606"
+    }
+  },
+  {
+    "name": "Photographs",
+    "link": "https://music.163.com/song?id=21563013",
+    "duration": "04:46",
+    "artists": [
+      { "name": "Rihanna", "link": "https://music.163.com/artist?id=72724" },
+      { "name": "will.i.am", "link": "https://music.163.com/artist?id=45838" }
+    ],
+    "album": {
+      "name": "Rated R",
+      "link": "https://music.163.com/album?id=1986938"
+    }
+  },
+  {
+    "name": "This Far (RudeLies Remix)",
+    "link": "https://music.163.com/song?id=1443242709",
+    "duration": "02:37",
+    "artists": [
+      {
+        "name": "Raven & Kreyn",
+        "link": "https://music.163.com/artist?id=12355744"
+      },
+      {
+        "name": "Nino Lucarelli",
+        "link": "https://music.163.com/artist?id=13954602"
+      }
+    ],
+    "album": {
+      "name": "This Far (Remixes)",
+      "link": "https://music.163.com/album?id=88502277"
+    }
+  },
+  {
+    "name": "Need You",
+    "link": "https://music.163.com/song?id=1496919994",
+    "duration": "04:37",
+    "artists": [
+      { "name": "Lost Sky", "link": "https://music.163.com/artist?id=28389556" }
+    ],
+    "album": {
+      "name": "Need You",
+      "link": "https://music.163.com/album?id=98568397"
+    }
+  },
+  {
+    "name": "Kids Who Ran Away",
+    "link": "https://music.163.com/song?id=1810241759",
+    "duration": "03:01",
+    "artists": [
+      {
+        "name": "PRETTY YOUNG",
+        "link": "https://music.163.com/artist?id=32904176"
+      },
+      { "name": "Ofelia", "link": "https://music.163.com/artist?id=391727" }
+    ],
+    "album": {
+      "name": "Kids Who Ran Away",
+      "link": "https://music.163.com/album?id=121332610"
+    }
+  },
+  {
+    "name": "TELLIN",
+    "link": "https://music.163.com/song?id=1957030975",
+    "duration": "03:07",
+    "artists": [
+      { "name": "Xi", "link": "https://music.163.com/artist?id=12084807" }
+    ],
+    "album": {
+      "name": "TELLIN",
+      "link": "https://music.163.com/album?id=146730744"
+    }
+  },
+  {
+    "name": "Ocean Quiet",
+    "link": "https://music.163.com/song?id=1864189985",
+    "duration": "02:47",
+    "artists": [
+      {
+        "name": "Lucas Estrada",
+        "link": "https://music.163.com/artist?id=12409125"
+      },
+      { "name": "NEIMY", "link": "https://music.163.com/artist?id=12742289" }
+    ],
+    "album": {
+      "name": "Ocean Quiet",
+      "link": "https://music.163.com/album?id=130880246"
+    }
+  },
+  {
+    "name": "Take Me To Church",
+    "link": "https://music.163.com/song?id=28160720",
+    "duration": "04:02",
+    "artists": [
+      { "name": "Hozier", "link": "https://music.163.com/artist?id=862014" }
+    ],
+    "album": {
+      "name": "Take Me To Church",
+      "link": "https://music.163.com/album?id=2732632"
+    }
+  }
+]
