@@ -1,0 +1,473 @@
+[
+  {
+    "name": "Thunderbird",
+    "link": "https://music.163.com/song?id=1469168121",
+    "duration": "03:29",
+    "artists": [
+      {
+        "name": "Ryan Taubert",
+        "link": "https://music.163.com/artist?id=1057026"
+      }
+    ],
+    "album": {
+      "name": "Thunderbird",
+      "link": "https://music.163.com/album?id=93632855"
+    }
+  },
+  {
+    "name": "Stones",
+    "link": "https://music.163.com/song?id=485964226",
+    "duration": "03:34",
+    "artists": [
+      {
+        "name": "Emmit Fenn",
+        "link": "https://music.163.com/artist?id=12006313"
+      }
+    ],
+    "album": {
+      "name": "Prologue",
+      "link": "https://music.163.com/album?id=35645979"
+    }
+  },
+  {
+    "name": "Bad Drugs",
+    "link": "https://music.163.com/song?id=571338563",
+    "duration": "02:46",
+    "artists": [
+      {
+        "name": "King Kavalier",
+        "link": "https://music.163.com/artist?id=12900228"
+      },
+      { "name": "ChrisLee", "link": "https://music.163.com/artist?id=14257695" }
+    ],
+    "album": {
+      "name": "Bad Drugs",
+      "link": "https://music.163.com/album?id=39590176"
+    }
+  },
+  {
+    "name": "These Are The Words",
+    "link": "https://music.163.com/song?id=18658920",
+    "duration": "03:22",
+    "artists": [
+      { "name": "James Blunt", "link": "https://music.163.com/artist?id=35329" }
+    ],
+    "album": {
+      "name": "Some Kind Of Trouble",
+      "link": "https://music.163.com/album?id=1711489"
+    }
+  },
+  {
+    "name": "Problem",
+    "link": "https://music.163.com/song?id=1955210858",
+    "duration": "02:57",
+    "artists": [
+      { "name": "FRND", "link": "https://music.163.com/artist?id=12107565" },
+      {
+        "name": "Said The Sky",
+        "link": "https://music.163.com/artist?id=1026094"
+      },
+      {
+        "name": "lil aaron",
+        "link": "https://music.163.com/artist?id=12273219"
+      },
+      {
+        "name": "Zach Hood",
+        "link": "https://music.163.com/artist?id=35595882"
+      }
+    ],
+    "album": {
+      "name": "Problem",
+      "link": "https://music.163.com/album?id=146378037"
+    }
+  },
+  {
+    "name": "Felt like playing guitar and not singing part 2",
+    "link": "https://music.163.com/song?id=1430425282",
+    "duration": "02:54",
+    "artists": [
+      { "name": "Two Feet", "link": "https://music.163.com/artist?id=12073672" }
+    ],
+    "album": {
+      "name": "Pink",
+      "link": "https://music.163.com/album?id=86455428"
+    }
+  },
+  {
+    "name": "Carol Of The Bells",
+    "link": "https://music.163.com/song?id=514195942",
+    "duration": "02:48",
+    "artists": [
+      {
+        "name": "Lindsey Stirling",
+        "link": "https://music.163.com/artist?id=66225"
+      }
+    ],
+    "album": {
+      "name": "Warmer In The Winter",
+      "link": "https://music.163.com/album?id=36641134"
+    }
+  },
+  {
+    "name": "Freedom",
+    "link": "https://music.163.com/song?id=26145413",
+    "duration": "03:56",
+    "artists": [
+      {
+        "name": "Anthony Hamilton",
+        "link": "https://music.163.com/artist?id=27661"
+      },
+      {
+        "name": "Elayna Boynton",
+        "link": "https://music.163.com/artist?id=13469625"
+      }
+    ],
+    "album": {
+      "name": "Django Unchained",
+      "link": "https://music.163.com/album?id=2397062"
+    }
+  },
+  {
+    "name": "Control",
+    "link": "https://music.163.com/song?id=1597845",
+    "duration": "03:34",
+    "artists": [
+      {
+        "name": "Jarle Bernhoft",
+        "link": "https://music.163.com/artist?id=36809"
+      }
+    ],
+    "album": {
+      "name": "Solidarity Breaks",
+      "link": "https://music.163.com/album?id=162594"
+    }
+  },
+  {
+    "name": "Free With You",
+    "link": "https://music.163.com/song?id=1425763494",
+    "duration": "02:48",
+    "artists": [
+      { "name": "Rnla", "link": "https://music.163.com/artist?id=31183880" },
+      { "name": "yaeow", "link": "https://music.163.com/artist?id=33979386" }
+    ],
+    "album": {
+      "name": "Free With You",
+      "link": "https://music.163.com/album?id=85963100"
+    }
+  },
+  {
+    "name": "Elephant",
+    "link": "https://music.163.com/song?id=29747439",
+    "duration": "03:59",
+    "artists": [
+      {
+        "name": "Guy Sebastian",
+        "link": "https://music.163.com/artist?id=33997"
+      }
+    ],
+    "album": {
+      "name": "Madness",
+      "link": "https://music.163.com/album?id=3070446"
+    }
+  },
+  {
+    "name": "onion boy",
+    "link": "https://music.163.com/song?id=1398713190",
+    "duration": "02:30",
+    "artists": [
+      {
+        "name": "Isaac Dunbar",
+        "link": "https://music.163.com/artist?id=28389583"
+      }
+    ],
+    "album": {
+      "name": "onion boy",
+      "link": "https://music.163.com/album?id=82662900"
+    }
+  },
+  {
+    "name": "Be the Man",
+    "link": "https://music.163.com/song?id=458725741",
+    "duration": "03:14",
+    "artists": [
+      {
+        "name": "Rag'N'Bone Man",
+        "link": "https://music.163.com/artist?id=1053202"
+      }
+    ],
+    "album": {
+      "name": "Human (Deluxe)",
+      "link": "https://music.163.com/album?id=35142853"
+    }
+  },
+  {
+    "name": "Tip of Your Thumb",
+    "link": "https://music.163.com/song?id=528271266",
+    "duration": "02:58",
+    "artists": [
+      { "name": "LUME", "link": "https://music.163.com/artist?id=530005" }
+    ],
+    "album": {
+      "name": "Tip of Your Thumb",
+      "link": "https://music.163.com/album?id=37176083"
+    }
+  },
+  {
+    "name": "Internet",
+    "link": "https://music.163.com/song?id=1371711644",
+    "duration": "02:14",
+    "artists": [
+      {
+        "name": "Virginia To Vegas",
+        "link": "https://music.163.com/artist?id=942191"
+      }
+    ],
+    "album": {
+      "name": "Hartland St.",
+      "link": "https://music.163.com/album?id=79787048"
+    }
+  },
+  {
+    "name": "Crazy Bird",
+    "link": "https://music.163.com/song?id=27845535",
+    "duration": "04:01",
+    "artists": [
+      {
+        "name": "Wild Child",
+        "link": "https://music.163.com/artist?id=37265018"
+      }
+    ],
+    "album": {
+      "name": "The Runaround",
+      "link": "https://music.163.com/album?id=2684836"
+    }
+  },
+  {
+    "name": "Melagė",
+    "link": "https://music.163.com/song?id=1325905040",
+    "duration": "03:01",
+    "artists": [
+      { "name": "Gjan", "link": "https://music.163.com/artist?id=851014" }
+    ],
+    "album": {
+      "name": "Melagė",
+      "link": "https://music.163.com/album?id=74416898"
+    }
+  },
+  {
+    "name": "Haunted",
+    "link": "https://music.163.com/song?id=36586982",
+    "duration": "02:43",
+    "artists": [
+      {
+        "name": "Emilio Kauderer",
+        "link": "https://music.163.com/artist?id=33127"
+      }
+    ],
+    "album": {
+      "name": "Secret in Their Eyes (Original Motion Picture Soundtrack)",
+      "link": "https://music.163.com/album?id=3394671"
+    }
+  },
+  {
+    "name": "Give Us a Little Love",
+    "link": "https://music.163.com/song?id=2638914",
+    "duration": "03:45",
+    "artists": [
+      { "name": "Fallulah", "link": "https://music.163.com/artist?id=57906" }
+    ],
+    "album": {
+      "name": "The Black Cat Neighbourhood",
+      "link": "https://music.163.com/album?id=265966"
+    }
+  },
+  {
+    "name": "Who Are You, Really?",
+    "link": "https://music.163.com/song?id=21122528",
+    "duration": "02:27",
+    "artists": [
+      { "name": "Mikky Ekko", "link": "https://music.163.com/artist?id=40141" }
+    ],
+    "album": {
+      "name": "Reds",
+      "link": "https://music.163.com/album?id=1954299"
+    }
+  },
+  {
+    "name": "Me Gusta",
+    "link": "https://music.163.com/song?id=1313705627",
+    "duration": "02:51",
+    "artists": [
+      {
+        "name": "Mikolas Josef",
+        "link": "https://music.163.com/artist?id=12214084"
+      }
+    ],
+    "album": {
+      "name": "Me Gusta",
+      "link": "https://music.163.com/album?id=73692164"
+    }
+  },
+  {
+    "name": "clown",
+    "link": "https://music.163.com/song?id=1484908727",
+    "duration": "02:17",
+    "artists": [
+      { "name": "updog", "link": "https://music.163.com/artist?id=32708051" }
+    ],
+    "album": {
+      "name": "clown",
+      "link": "https://music.163.com/album?id=96418546"
+    }
+  },
+  {
+    "name": "SAD (Clap Your Hands)",
+    "link": "https://music.163.com/song?id=1309795632",
+    "duration": "02:32",
+    "artists": [
+      {
+        "name": "Young Rising Sons",
+        "link": "https://music.163.com/artist?id=947185"
+      }
+    ],
+    "album": {
+      "name": "SAD / Scatterbrain",
+      "link": "https://music.163.com/album?id=73315634"
+    }
+  },
+  {
+    "name": "Lovit",
+    "link": "https://music.163.com/song?id=28253453",
+    "duration": "02:53",
+    "artists": [
+      {
+        "name": "Marian Hill",
+        "link": "https://music.163.com/artist?id=893433"
+      }
+    ],
+    "album": {
+      "name": "Lovit",
+      "link": "https://music.163.com/album?id=2759480"
+    }
+  },
+  {
+    "name": "Pelicans We",
+    "link": "https://music.163.com/song?id=33111368",
+    "duration": "03:27",
+    "artists": [
+      {
+        "name": "Cosmo Sheldrake",
+        "link": "https://music.163.com/artist?id=905915"
+      }
+    ],
+    "album": {
+      "name": "Pelicans We",
+      "link": "https://music.163.com/album?id=3184279"
+    }
+  },
+  {
+    "name": "Dawning of Spring",
+    "link": "https://music.163.com/song?id=1447803278",
+    "duration": "04:17",
+    "artists": [
+      {
+        "name": "Anson Seabra",
+        "link": "https://music.163.com/artist?id=14470054"
+      }
+    ],
+    "album": {
+      "name": "Songs I Wrote in My Bedroom",
+      "link": "https://music.163.com/album?id=89390158"
+    }
+  },
+  {
+    "name": "Honeypie",
+    "link": "https://music.163.com/song?id=1490294539",
+    "duration": "02:15",
+    "artists": [
+      { "name": "JAWNY", "link": "https://music.163.com/artist?id=13536299" }
+    ],
+    "album": {
+      "name": "For Abby",
+      "link": "https://music.163.com/album?id=97400712"
+    }
+  },
+  {
+    "name": "The Curse",
+    "link": "https://music.163.com/song?id=27630117",
+    "duration": "05:51",
+    "artists": [
+      { "name": "Agnes Obel", "link": "https://music.163.com/artist?id=48093" }
+    ],
+    "album": {
+      "name": "The Curse",
+      "link": "https://music.163.com/album?id=2646133"
+    }
+  },
+  {
+    "name": "Typical Me",
+    "link": "https://music.163.com/song?id=34248355",
+    "duration": "03:06",
+    "artists": [
+      { "name": "Ella Eyre", "link": "https://music.163.com/artist?id=860517" }
+    ],
+    "album": {
+      "name": "Feline",
+      "link": "https://music.163.com/album?id=3181004"
+    }
+  },
+  {
+    "name": "911",
+    "link": "https://music.163.com/song?id=1443650436",
+    "duration": "03:10",
+    "artists": [
+      { "name": "Ellise", "link": "https://music.163.com/artist?id=33495598" }
+    ],
+    "album": {
+      "name": "Can You Keep a Secret? - EP",
+      "link": "https://music.163.com/album?id=91651772"
+    }
+  },
+  {
+    "name": "Poplar St",
+    "link": "https://music.163.com/song?id=427373604",
+    "duration": "04:22",
+    "artists": [
+      {
+        "name": "Glass Animals",
+        "link": "https://music.163.com/artist?id=847346"
+      }
+    ],
+    "album": {
+      "name": "How To Be A Human Being",
+      "link": "https://music.163.com/album?id=34839708"
+    }
+  },
+  {
+    "name": "Walking On The Sun",
+    "link": "https://music.163.com/song?id=405393023",
+    "duration": "03:25",
+    "artists": [
+      { "name": "Smash Mouth", "link": "https://music.163.com/artist?id=74699" }
+    ],
+    "album": {
+      "name": "A Lot Like Love - Music From The Motion Picture (Album Version)",
+      "link": "https://music.163.com/album?id=34533740"
+    }
+  },
+  {
+    "name": "Demons",
+    "link": "https://music.163.com/song?id=19945735",
+    "duration": "02:57",
+    "artists": [
+      {
+        "name": "Imagine Dragons",
+        "link": "https://music.163.com/artist?id=94779"
+      }
+    ],
+    "album": {
+      "name": "Night Visions (Deluxe)",
+      "link": "https://music.163.com/album?id=1844256"
+    }
+  }
+]
