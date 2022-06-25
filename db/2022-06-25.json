@@ -1,0 +1,438 @@
+[
+  {
+    "name": "My Name",
+    "link": "https://music.163.com/song?id=1340419657",
+    "duration": "03:22",
+    "artists": [
+      {
+        "name": "Tom Speight",
+        "link": "https://music.163.com/artist?id=12539339"
+      }
+    ],
+    "album": {
+      "name": "My Name",
+      "link": "https://music.163.com/album?id=75221807"
+    }
+  },
+  {
+    "name": "Just Begun",
+    "link": "https://music.163.com/song?id=1314778565",
+    "duration": "03:00",
+    "artists": [
+      { "name": "WILD", "link": "https://music.163.com/artist?id=12074090" }
+    ],
+    "album": {
+      "name": "Just Begun",
+      "link": "https://music.163.com/album?id=73749767"
+    }
+  },
+  {
+    "name": "Show Me Love",
+    "link": "https://music.163.com/song?id=1906968883",
+    "duration": "02:33",
+    "artists": [
+      { "name": "Tove Styrke", "link": "https://music.163.com/artist?id=83188" }
+    ],
+    "album": {
+      "name": "Show Me Love",
+      "link": "https://music.163.com/album?id=138041804"
+    }
+  },
+  {
+    "name": "i can't",
+    "link": "https://music.163.com/song?id=1348568675",
+    "duration": "02:33",
+    "artists": [
+      {
+        "name": "pink glass",
+        "link": "https://music.163.com/artist?id=31582406"
+      }
+    ],
+    "album": {
+      "name": "i can't",
+      "link": "https://music.163.com/album?id=75709162"
+    }
+  },
+  {
+    "name": "Watch Me Work",
+    "link": "https://music.163.com/song?id=1304347114",
+    "duration": "04:29",
+    "artists": [
+      { "name": "Tinashe", "link": "https://music.163.com/artist?id=45221" }
+    ],
+    "album": {
+      "name": "Watch Me Work",
+      "link": "https://music.163.com/album?id=72470502"
+    }
+  },
+  {
+    "name": "Hush",
+    "link": "https://music.163.com/song?id=1840490719",
+    "duration": "03:01",
+    "artists": [
+      {
+        "name": "The Marías",
+        "link": "https://music.163.com/artist?id=12893077"
+      }
+    ],
+    "album": {
+      "name": "Hush",
+      "link": "https://music.163.com/album?id=126588301"
+    }
+  },
+  {
+    "name": "SECRETS",
+    "link": "https://music.163.com/song?id=1847634280",
+    "duration": "02:10",
+    "artists": [
+      { "name": "JVKE", "link": "https://music.163.com/artist?id=32988392" }
+    ],
+    "album": {
+      "name": "SECRETS",
+      "link": "https://music.163.com/album?id=127888549"
+    }
+  },
+  {
+    "name": "Another Day",
+    "link": "https://music.163.com/song?id=1868513625",
+    "duration": "02:33",
+    "artists": [
+      {
+        "name": "Fiji Blue",
+        "link": "https://music.163.com/artist?id=32648365"
+      }
+    ],
+    "album": {
+      "name": "Another Day",
+      "link": "https://music.163.com/album?id=131607835"
+    }
+  },
+  {
+    "name": "Places",
+    "link": "https://music.163.com/song?id=1323705949",
+    "duration": "03:32",
+    "artists": [
+      { "name": "Portair", "link": "https://music.163.com/artist?id=29720476" }
+    ],
+    "album": {
+      "name": "Places",
+      "link": "https://music.163.com/album?id=74293994"
+    }
+  },
+  {
+    "name": "Something In the Water",
+    "link": "https://music.163.com/song?id=426107924",
+    "duration": "03:27",
+    "artists": [
+      {
+        "name": "Tom Grennan",
+        "link": "https://music.163.com/artist?id=12098162"
+      }
+    ],
+    "album": {
+      "name": "Something In the Water",
+      "link": "https://music.163.com/album?id=34803755"
+    }
+  },
+  {
+    "name": "They Own This Town",
+    "link": "https://music.163.com/song?id=1343274203",
+    "duration": "03:46",
+    "artists": [
+      {
+        "name": "Flora Cash",
+        "link": "https://music.163.com/artist?id=1132016"
+      }
+    ],
+    "album": {
+      "name": "They Own This Town",
+      "link": "https://music.163.com/album?id=75391474"
+    }
+  },
+  {
+    "name": "Love is Pain",
+    "link": "https://music.163.com/song?id=1887216747",
+    "duration": "03:44",
+    "artists": [
+      { "name": "FINNEAS", "link": "https://music.163.com/artist?id=12676847" }
+    ],
+    "album": {
+      "name": "Optimist",
+      "link": "https://music.163.com/album?id=134830939"
+    }
+  },
+  {
+    "name": "Boxes",
+    "link": "https://music.163.com/song?id=1919367688",
+    "duration": "02:50",
+    "artists": [
+      { "name": "GRAE", "link": "https://music.163.com/artist?id=30885416" }
+    ],
+    "album": {
+      "name": "Boxes",
+      "link": "https://music.163.com/album?id=140227251"
+    }
+  },
+  {
+    "name": "Ambre",
+    "link": "https://music.163.com/song?id=479422172",
+    "duration": "04:00",
+    "artists": [
+      { "name": "Else", "link": "https://music.163.com/artist?id=1181848" }
+    ],
+    "album": {
+      "name": "Ambre",
+      "link": "https://music.163.com/album?id=35543101"
+    }
+  },
+  {
+    "name": "Up, Up & Away",
+    "link": "https://music.163.com/song?id=1427368683",
+    "duration": "02:00",
+    "artists": [
+      {
+        "name": "Chance Peña",
+        "link": "https://music.163.com/artist?id=1193198"
+      }
+    ],
+    "album": {
+      "name": "Up, Up & Away",
+      "link": "https://music.163.com/album?id=86151585"
+    }
+  },
+  {
+    "name": "just like a bird",
+    "link": "https://music.163.com/song?id=1442844066",
+    "duration": "02:10",
+    "artists": [
+      {
+        "name": "imfinenow",
+        "link": "https://music.163.com/artist?id=27693703"
+      },
+      { "name": "Sølace", "link": "https://music.163.com/artist?id=35982286" }
+    ],
+    "album": {
+      "name": "just like a bird",
+      "link": "https://music.163.com/album?id=88427035"
+    }
+  },
+  {
+    "name": "Thunder",
+    "link": "https://music.163.com/song?id=1311061940",
+    "duration": "03:09",
+    "artists": [
+      {
+        "name": "Various Artists",
+        "link": "https://music.163.com/artist?id=104700"
+      }
+    ],
+    "album": {
+      "name": "Alternative Rock Road Trip",
+      "link": "https://music.163.com/album?id=73433799"
+    }
+  },
+  {
+    "name": "Crystal Ball",
+    "link": "https://music.163.com/song?id=512377276",
+    "duration": "03:27",
+    "artists": [
+      { "name": "Lenka", "link": "https://music.163.com/artist?id=64143" }
+    ],
+    "album": {
+      "name": "Attune",
+      "link": "https://music.163.com/album?id=36530060"
+    }
+  },
+  {
+    "name": "WTF Do I Know",
+    "link": "https://music.163.com/song?id=1497981566",
+    "duration": "02:51",
+    "artists": [
+      { "name": "Miley Cyrus", "link": "https://music.163.com/artist?id=66361" }
+    ],
+    "album": {
+      "name": "Plastic Hearts",
+      "link": "https://music.163.com/album?id=98730915"
+    }
+  },
+  {
+    "name": "Making Me Nervous",
+    "link": "https://music.163.com/song?id=26749921",
+    "duration": "02:37",
+    "artists": [
+      { "name": "Brad Sucks", "link": "https://music.163.com/artist?id=805095" }
+    ],
+    "album": {
+      "name": "I Don't Know What I'm Doing",
+      "link": "https://music.163.com/album?id=2551409"
+    }
+  },
+  {
+    "name": "Come True",
+    "link": "https://music.163.com/song?id=1313558114",
+    "duration": "03:23",
+    "artists": [
+      {
+        "name": "khai dreams",
+        "link": "https://music.163.com/artist?id=12176301"
+      },
+      { "name": "Forest", "link": "https://music.163.com/artist?id=57286" }
+    ],
+    "album": {
+      "name": "Come True",
+      "link": "https://music.163.com/album?id=73473038"
+    }
+  },
+  {
+    "name": "You Broke Me First",
+    "link": "https://music.163.com/song?id=1486709437",
+    "duration": "02:40",
+    "artists": [
+      {
+        "name": "Conor Maynard",
+        "link": "https://music.163.com/artist?id=29020"
+      }
+    ],
+    "album": {
+      "name": "You Broke Me First",
+      "link": "https://music.163.com/album?id=96718054"
+    }
+  },
+  {
+    "name": "Lover / Earth Angel",
+    "link": "https://music.163.com/song?id=1454367572",
+    "duration": "02:15",
+    "artists": [
+      {
+        "name": "Joey Stamper",
+        "link": "https://music.163.com/artist?id=12523017"
+      }
+    ],
+    "album": {
+      "name": "Lover / Earth Angel",
+      "link": "https://music.163.com/album?id=90649579"
+    }
+  },
+  {
+    "name": "I Will Survive - Single Version",
+    "link": "https://music.163.com/song?id=27961752",
+    "duration": "03:11",
+    "artists": [
+      {
+        "name": "Gloria Gaynor",
+        "link": "https://music.163.com/artist?id=57967"
+      }
+    ],
+    "album": {
+      "name": "Soulstars",
+      "link": "https://music.163.com/album?id=2700904"
+    }
+  },
+  {
+    "name": "Nice to See You",
+    "link": "https://music.163.com/song?id=530057917",
+    "duration": "03:01",
+    "artists": [
+      { "name": "Vansire", "link": "https://music.163.com/artist?id=12348095" },
+      {
+        "name": "Floor Cry",
+        "link": "https://music.163.com/artist?id=13059770"
+      }
+    ],
+    "album": {
+      "name": "Nice to See You",
+      "link": "https://music.163.com/album?id=37099846"
+    }
+  },
+  {
+    "name": "Positions",
+    "link": "https://music.163.com/song?id=1497855310",
+    "duration": "03:22",
+    "artists": [
+      { "name": "Magix", "link": "https://music.163.com/artist?id=37578223" }
+    ],
+    "album": {
+      "name": "Position",
+      "link": "https://music.163.com/album?id=98707332"
+    }
+  },
+  {
+    "name": "gamble (feat. demxntia)",
+    "link": "https://music.163.com/song?id=1842902461",
+    "duration": "02:08",
+    "artists": [
+      { "name": "Alys", "link": "https://music.163.com/artist?id=36299537" },
+      {
+        "name": "Demxntia",
+        "link": "https://music.163.com/artist?id=12598596"
+      },
+      { "name": "fcj", "link": "https://music.163.com/artist?id=12646716" }
+    ],
+    "album": {
+      "name": "gamble",
+      "link": "https://music.163.com/album?id=127021186"
+    }
+  },
+  {
+    "name": "Calling (feat. Frankmusik)",
+    "link": "https://music.163.com/song?id=1380902357",
+    "duration": "04:58",
+    "artists": [
+      { "name": "Kalax", "link": "https://music.163.com/artist?id=28308321" }
+    ],
+    "album": {
+      "name": "III",
+      "link": "https://music.163.com/album?id=80658988"
+    }
+  },
+  {
+    "name": "Remember Me",
+    "link": "https://music.163.com/song?id=1810564108",
+    "duration": "03:37",
+    "artists": [
+      {
+        "name": "Rico & Miella",
+        "link": "https://music.163.com/artist?id=1050743"
+      }
+    ],
+    "album": {
+      "name": "Remember Me",
+      "link": "https://music.163.com/album?id=121397218"
+    }
+  },
+  {
+    "name": "Outside",
+    "link": "https://music.163.com/song?id=29561077",
+    "duration": "03:47",
+    "artists": [
+      {
+        "name": "Calvin Harris",
+        "link": "https://music.163.com/artist?id=29968"
+      },
+      {
+        "name": "Ellie Goulding",
+        "link": "https://music.163.com/artist?id=56598"
+      }
+    ],
+    "album": {
+      "name": "Motion",
+      "link": "https://music.163.com/album?id=3029170"
+    }
+  },
+  {
+    "name": "To Eternity",
+    "link": "https://music.163.com/song?id=1337983014",
+    "duration": "03:38",
+    "artists": [
+      {
+        "name": "Adib Sin",
+        "link": "https://music.163.com/artist?id=12244027"
+      },
+      { "name": "Cae", "link": "https://music.163.com/artist?id=513122" }
+    ],
+    "album": {
+      "name": "To Eternity",
+      "link": "https://music.163.com/album?id=75072955"
+    }
+  }
+]
