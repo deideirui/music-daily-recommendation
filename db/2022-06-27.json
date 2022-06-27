@@ -1,0 +1,473 @@
+[
+  {
+    "name": "12 Hours",
+    "link": "https://music.163.com/song?id=1944869617",
+    "duration": "02:13",
+    "artists": [
+      {
+        "name": "Chris James",
+        "link": "https://music.163.com/artist?id=145038"
+      }
+    ],
+    "album": {
+      "name": "12 Hours",
+      "link": "https://music.163.com/album?id=144539482"
+    }
+  },
+  {
+    "name": "Hue",
+    "link": "https://music.163.com/song?id=1355169880",
+    "duration": "04:06",
+    "artists": [
+      {
+        "name": "Dave Thomas Junior",
+        "link": "https://music.163.com/artist?id=32233"
+      }
+    ],
+    "album": {
+      "name": "Hue",
+      "link": "https://music.163.com/album?id=78245972"
+    }
+  },
+  {
+    "name": "Bloody You",
+    "link": "https://music.163.com/song?id=1454153832",
+    "duration": "03:32",
+    "artists": [
+      {
+        "name": "Racoon Racoon",
+        "link": "https://music.163.com/artist?id=12251121"
+      }
+    ],
+    "album": {
+      "name": "Bloody You",
+      "link": "https://music.163.com/album?id=90593554"
+    }
+  },
+  {
+    "name": "Chaperone",
+    "link": "https://music.163.com/song?id=509531459",
+    "duration": "02:51",
+    "artists": [
+      { "name": "Hurts", "link": "https://music.163.com/artist?id=94043" }
+    ],
+    "album": {
+      "name": "Desire",
+      "link": "https://music.163.com/album?id=36320086"
+    }
+  },
+  {
+    "name": "Watching You Walk Away",
+    "link": "https://music.163.com/song?id=1446193036",
+    "duration": "03:00",
+    "artists": [
+      {
+        "name": "Stephen Puth",
+        "link": "https://music.163.com/artist?id=29730940"
+      }
+    ],
+    "album": {
+      "name": "Watching You Walk Away",
+      "link": "https://music.163.com/album?id=89081997"
+    }
+  },
+  {
+    "name": "Bulletproof",
+    "link": "https://music.163.com/song?id=457761714",
+    "duration": "03:30",
+    "artists": [
+      {
+        "name": "Griffin Oskar",
+        "link": "https://music.163.com/artist?id=12279066"
+      }
+    ],
+    "album": {
+      "name": "Hostage",
+      "link": "https://music.163.com/album?id=35165131"
+    }
+  },
+  {
+    "name": "Bonfire",
+    "link": "https://music.163.com/song?id=1382830600",
+    "duration": "02:46",
+    "artists": [
+      {
+        "name": "Peder Elias",
+        "link": "https://music.163.com/artist?id=13979517"
+      }
+    ],
+    "album": {
+      "name": "Bonfire",
+      "link": "https://music.163.com/album?id=80832990"
+    }
+  },
+  {
+    "name": "Circus",
+    "link": "https://music.163.com/song?id=1399049390",
+    "duration": "03:45",
+    "artists": [
+      {
+        "name": "Nerina Pallot",
+        "link": "https://music.163.com/artist?id=69428"
+      }
+    ],
+    "album": {
+      "name": "Modern Love: Season 1 (Music From The Amazon Original Series)",
+      "link": "https://music.163.com/album?id=82732207"
+    }
+  },
+  {
+    "name": "Wish You Were Sober (Acoustic)",
+    "link": "https://music.163.com/song?id=1443262001",
+    "duration": "02:45",
+    "artists": [
+      {
+        "name": "Landon Austin",
+        "link": "https://music.163.com/artist?id=38835"
+      },
+      {
+        "name": "Jada Facer",
+        "link": "https://music.163.com/artist?id=1047221"
+      }
+    ],
+    "album": {
+      "name": "Wish You Were Sober (Acoustic)",
+      "link": "https://music.163.com/album?id=88508690"
+    }
+  },
+  {
+    "name": "Keep You Safe",
+    "link": "https://music.163.com/song?id=413077354",
+    "duration": "03:37",
+    "artists": [
+      { "name": "Eliane", "link": "https://music.163.com/artist?id=56756" }
+    ],
+    "album": {
+      "name": "Bright Lights",
+      "link": "https://music.163.com/album?id=34700211"
+    }
+  },
+  {
+    "name": "Airwaves",
+    "link": "https://music.163.com/song?id=515803398",
+    "duration": "03:12",
+    "artists": [
+      {
+        "name": "Adib Sin",
+        "link": "https://music.163.com/artist?id=12244027"
+      },
+      {
+        "name": "Azuria Sky",
+        "link": "https://music.163.com/artist?id=12914272"
+      },
+      {
+        "name": "B. L. Hav",
+        "link": "https://music.163.com/artist?id=34246038"
+      }
+    ],
+    "album": {
+      "name": "Airwaves",
+      "link": "https://music.163.com/album?id=36682228"
+    }
+  },
+  {
+    "name": "City Of Stars (From \"La La Land\" Soundtrack)",
+    "link": "https://music.163.com/song?id=456370728",
+    "duration": "02:29",
+    "artists": [
+      {
+        "name": "Emma Stone",
+        "link": "https://music.163.com/artist?id=12213050"
+      },
+      {
+        "name": "Ryan Gosling",
+        "link": "https://music.163.com/artist?id=199872"
+      }
+    ],
+    "album": {
+      "name": "Crowd Pleasers",
+      "link": "https://music.163.com/album?id=35156236"
+    }
+  },
+  {
+    "name": "What a Feeling",
+    "link": "https://music.163.com/song?id=36492611",
+    "duration": "03:20",
+    "artists": [
+      {
+        "name": "One Direction",
+        "link": "https://music.163.com/artist?id=98351"
+      }
+    ],
+    "album": {
+      "name": "Made In The A.M. (Deluxe Edition)",
+      "link": "https://music.163.com/album?id=3301010"
+    }
+  },
+  {
+    "name": "Feelin' Alright",
+    "link": "https://music.163.com/song?id=1381508805",
+    "duration": "02:55",
+    "artists": [
+      {
+        "name": "Gabriela Bee",
+        "link": "https://music.163.com/artist?id=31798212"
+      }
+    ],
+    "album": {
+      "name": "Feelin' Alright",
+      "link": "https://music.163.com/album?id=80729438"
+    }
+  },
+  {
+    "name": "Nothing",
+    "link": "https://music.163.com/song?id=1384264596",
+    "duration": "02:42",
+    "artists": [
+      {
+        "name": "Bruno Major",
+        "link": "https://music.163.com/artist?id=12250109"
+      }
+    ],
+    "album": {
+      "name": "Nothing",
+      "link": "https://music.163.com/album?id=80952884"
+    }
+  },
+  {
+    "name": "Gimme What I Want",
+    "link": "https://music.163.com/song?id=1497981569",
+    "duration": "02:31",
+    "artists": [
+      { "name": "Miley Cyrus", "link": "https://music.163.com/artist?id=66361" }
+    ],
+    "album": {
+      "name": "Plastic Hearts",
+      "link": "https://music.163.com/album?id=98730915"
+    }
+  },
+  {
+    "name": "Until We Drink",
+    "link": "https://music.163.com/song?id=1826041805",
+    "duration": "03:15",
+    "artists": [
+      {
+        "name": "Savannah Sgro",
+        "link": "https://music.163.com/artist?id=31381918"
+      }
+    ],
+    "album": {
+      "name": "Until We Drink",
+      "link": "https://music.163.com/album?id=124101892"
+    }
+  },
+  {
+    "name": "Pass Me By",
+    "link": "https://music.163.com/song?id=27599748",
+    "duration": "03:20",
+    "artists": [
+      { "name": "R5", "link": "https://music.163.com/artist?id=818671" }
+    ],
+    "album": {
+      "name": "Pass Me By",
+      "link": "https://music.163.com/album?id=2643417"
+    }
+  },
+  {
+    "name": "Paris In The Rain (Hye Sung Remix)",
+    "link": "https://music.163.com/song?id=1313102152",
+    "duration": "03:19",
+    "artists": [
+      { "name": "Lauv", "link": "https://music.163.com/artist?id=1057226" }
+    ],
+    "album": {
+      "name": "Paris In The Rain (Hye Sung Remix)",
+      "link": "https://music.163.com/album?id=73472947"
+    }
+  },
+  {
+    "name": "Footsteps",
+    "link": "https://music.163.com/song?id=26349701",
+    "duration": "04:08",
+    "artists": [
+      {
+        "name": "This Century",
+        "link": "https://music.163.com/artist?id=748154"
+      }
+    ],
+    "album": {
+      "name": "Biography of Heartbreak",
+      "link": "https://music.163.com/album?id=2462094"
+    }
+  },
+  {
+    "name": "Don't Follow Me",
+    "link": "https://music.163.com/song?id=34248357",
+    "duration": "03:29",
+    "artists": [
+      { "name": "Ella Eyre", "link": "https://music.163.com/artist?id=860517" }
+    ],
+    "album": {
+      "name": "Feline",
+      "link": "https://music.163.com/album?id=3181004"
+    }
+  },
+  {
+    "name": "Drugs",
+    "link": "https://music.163.com/song?id=1340355472",
+    "duration": "02:35",
+    "artists": [
+      { "name": "Upsahl", "link": "https://music.163.com/artist?id=12501137" }
+    ],
+    "album": {
+      "name": "Drugs",
+      "link": "https://music.163.com/album?id=75218602"
+    }
+  },
+  {
+    "name": "Нирвана - (涅槃)",
+    "link": "https://music.163.com/song?id=1361232228",
+    "duration": "02:57",
+    "artists": [
+      { "name": "Ganvest", "link": "https://music.163.com/artist?id=13875008" }
+    ],
+    "album": {
+      "name": "Нирвана",
+      "link": "https://music.163.com/album?id=78765570"
+    }
+  },
+  {
+    "name": "nowhere to hide",
+    "link": "https://music.163.com/song?id=1924990720",
+    "duration": "02:51",
+    "artists": [
+      { "name": "Kamal.", "link": "https://music.163.com/artist?id=31855805" }
+    ],
+    "album": {
+      "name": "nowhere to hide",
+      "link": "https://music.163.com/album?id=141239103"
+    }
+  },
+  {
+    "name": "Bet On Me",
+    "link": "https://music.163.com/song?id=1951583615",
+    "duration": "02:52",
+    "artists": [
+      {
+        "name": "Walk off the Earth",
+        "link": "https://music.163.com/artist?id=105493"
+      },
+      {
+        "name": "Tyler Shaw",
+        "link": "https://music.163.com/artist?id=1028192"
+      }
+    ],
+    "album": {
+      "name": "Bet On Me",
+      "link": "https://music.163.com/album?id=145701004"
+    }
+  },
+  {
+    "name": "Such a Whore (Stellular Remix)",
+    "link": "https://music.163.com/song?id=1474912883",
+    "duration": "02:27",
+    "artists": [
+      {
+        "name": "Stellular",
+        "link": "https://music.163.com/artist?id=36601255"
+      },
+      { "name": "JVLA", "link": "https://music.163.com/artist?id=33835286" }
+    ],
+    "album": {
+      "name": "Such a Whore (Stellular Remix)",
+      "link": "https://music.163.com/album?id=94655172"
+    }
+  },
+  {
+    "name": "Cash (Maga Remix)",
+    "link": "https://music.163.com/song?id=1458591704",
+    "duration": "03:26",
+    "artists": [
+      { "name": "Juicy J", "link": "https://music.163.com/artist?id=62194" },
+      { "name": "AV", "link": "https://music.163.com/artist?id=12091201" },
+      {
+        "name": "Lamborghini Gini",
+        "link": "https://music.163.com/artist?id=34711652"
+      },
+      { "name": "Maga", "link": "https://music.163.com/artist?id=47983583" }
+    ],
+    "album": {
+      "name": "Cash (Maga Remix)",
+      "link": "https://music.163.com/album?id=91605201"
+    }
+  },
+  {
+    "name": "For the Year",
+    "link": "https://music.163.com/song?id=499222068",
+    "duration": "03:44",
+    "artists": [
+      { "name": "Work Drugs", "link": "https://music.163.com/artist?id=105431" }
+    ],
+    "album": {
+      "name": "Flaunt the Imperfection",
+      "link": "https://music.163.com/album?id=35934467"
+    }
+  },
+  {
+    "name": "80's Girl (Original Mix)",
+    "link": "https://music.163.com/song?id=544820910",
+    "duration": "03:56",
+    "artists": [
+      { "name": "Nina", "link": "https://music.163.com/artist?id=149874" }
+    ],
+    "album": {
+      "name": "Sleepwalking",
+      "link": "https://music.163.com/album?id=37918088"
+    }
+  },
+  {
+    "name": "Bad Romance",
+    "link": "https://music.163.com/song?id=1855371681",
+    "duration": "02:46",
+    "artists": [
+      { "name": "J.O.Y", "link": "https://music.163.com/artist?id=29149294" }
+    ],
+    "album": {
+      "name": "Blues In Osaka",
+      "link": "https://music.163.com/album?id=129356463"
+    }
+  },
+  {
+    "name": "What You Do To Me",
+    "link": "https://music.163.com/song?id=1812323670",
+    "duration": "03:16",
+    "artists": [
+      { "name": "BLANKS", "link": "https://music.163.com/artist?id=49482" }
+    ],
+    "album": {
+      "name": "What You Do To Me",
+      "link": "https://music.163.com/album?id=121702329"
+    }
+  },
+  {
+    "name": "Out of Time (Sagan Remix)",
+    "link": "https://music.163.com/song?id=1314777725",
+    "duration": "03:20",
+    "artists": [
+      { "name": "Shane 54", "link": "https://music.163.com/artist?id=158539" },
+      {
+        "name": "Cubicore",
+        "link": "https://music.163.com/artist?id=28408444"
+      },
+      {
+        "name": "Eric Lumiere",
+        "link": "https://music.163.com/artist?id=537263"
+      },
+      { "name": "Sagan", "link": "https://music.163.com/artist?id=77502" }
+    ],
+    "album": {
+      "name": "Out of Time (Sagan Remix)",
+      "link": "https://music.163.com/album?id=73749766"
+    }
+  }
+]
