@@ -1,0 +1,445 @@
+[
+  {
+    "name": "Mr. Percocet",
+    "link": "https://music.163.com/song?id=1946051287",
+    "duration": "03:14",
+    "artists": [
+      {
+        "name": "Noah Cyrus",
+        "link": "https://music.163.com/artist?id=12175271"
+      }
+    ],
+    "album": {
+      "name": "Mr. Percocet",
+      "link": "https://music.163.com/album?id=144704313"
+    }
+  },
+  {
+    "name": "these days will fade out",
+    "link": "https://music.163.com/song?id=1452590934",
+    "duration": "03:12",
+    "artists": [
+      { "name": "Kayou.", "link": "https://music.163.com/artist?id=31330014" },
+      {
+        "name": "Woven In Hiatus",
+        "link": "https://music.163.com/artist?id=14768602"
+      }
+    ],
+    "album": {
+      "name": "these days will fade out",
+      "link": "https://music.163.com/album?id=90257422"
+    }
+  },
+  {
+    "name": "Building Chemistry",
+    "link": "https://music.163.com/song?id=1406146722",
+    "duration": "03:13",
+    "artists": [
+      {
+        "name": "Cody Francis",
+        "link": "https://music.163.com/artist?id=28766743"
+      }
+    ],
+    "album": {
+      "name": "Get to Know You",
+      "link": "https://music.163.com/album?id=83692019"
+    }
+  },
+  {
+    "name": "Best of 2021 Medley: Stay / Driver's License / Easy on Me / Leave the Door Open / Butter",
+    "link": "https://music.163.com/song?id=1901996224",
+    "duration": "02:45",
+    "artists": [
+      {
+        "name": "Anthem Lights",
+        "link": "https://music.163.com/artist?id=86862"
+      }
+    ],
+    "album": {
+      "name": "Best of 2021 Medley: Stay / Driver's License / Easy on Me / Leave the Door Open / Butter",
+      "link": "https://music.163.com/album?id=137258277"
+    }
+  },
+  {
+    "name": "All Falls Down (Acoustic)",
+    "link": "https://music.163.com/song?id=1313562402",
+    "duration": "02:50",
+    "artists": [
+      {
+        "name": "Adam Christopher",
+        "link": "https://music.163.com/artist?id=13157086"
+      }
+    ],
+    "album": {
+      "name": "All Falls Down (Acoustic)",
+      "link": "https://music.163.com/album?id=73685839"
+    }
+  },
+  {
+    "name": "Die For You",
+    "link": "https://music.163.com/song?id=442867526",
+    "duration": "04:19",
+    "artists": [
+      { "name": "The Weeknd", "link": "https://music.163.com/artist?id=185858" }
+    ],
+    "album": {
+      "name": "Starboy",
+      "link": "https://music.163.com/album?id=34881446"
+    }
+  },
+  {
+    "name": "Postcards from Rome",
+    "link": "https://music.163.com/song?id=1929168127",
+    "duration": "02:15",
+    "artists": [
+      {
+        "name": "Anthony Lazaro",
+        "link": "https://music.163.com/artist?id=28391532"
+      }
+    ],
+    "album": {
+      "name": "Postcards from Rome",
+      "link": "https://music.163.com/album?id=141993762"
+    }
+  },
+  {
+    "name": "Don't Waste My Time",
+    "link": "https://music.163.com/song?id=1467976888",
+    "duration": "03:14",
+    "artists": [
+      { "name": "Dayon", "link": "https://music.163.com/artist?id=839378" }
+    ],
+    "album": {
+      "name": "Don't Waste My Time",
+      "link": "https://music.163.com/album?id=93396239"
+    }
+  },
+  {
+    "name": "Matter To You",
+    "link": "https://music.163.com/song?id=1486964416",
+    "duration": "03:37",
+    "artists": [
+      {
+        "name": "Sasha Alex Sloan",
+        "link": "https://music.163.com/artist?id=12646102"
+      }
+    ],
+    "album": {
+      "name": "Only Child",
+      "link": "https://music.163.com/album?id=96769235"
+    }
+  },
+  {
+    "name": "No Place",
+    "link": "https://music.163.com/song?id=1336796065",
+    "duration": "02:59",
+    "artists": [
+      {
+        "name": "Backstreet Boys",
+        "link": "https://music.163.com/artist?id=88148"
+      }
+    ],
+    "album": {
+      "name": "DNA",
+      "link": "https://music.163.com/album?id=75312512"
+    }
+  },
+  {
+    "name": "Feels Like a Dream",
+    "link": "https://music.163.com/song?id=1375683808",
+    "duration": "02:50",
+    "artists": [
+      { "name": "Emilee", "link": "https://music.163.com/artist?id=34810663" }
+    ],
+    "album": {
+      "name": "Feels Like a Dream",
+      "link": "https://music.163.com/album?id=80180936"
+    }
+  },
+  {
+    "name": "Something About You",
+    "link": "https://music.163.com/song?id=1455327344",
+    "duration": "02:23",
+    "artists": [
+      { "name": "SVMP", "link": "https://music.163.com/artist?id=12107995" },
+      { "name": "Addict.", "link": "https://music.163.com/artist?id=33035101" },
+      { "name": "Laeland", "link": "https://music.163.com/artist?id=32039225" }
+    ],
+    "album": {
+      "name": "Something About You",
+      "link": "https://music.163.com/album?id=90854729"
+    }
+  },
+  {
+    "name": "At Home",
+    "link": "https://music.163.com/song?id=554457210",
+    "duration": "03:46",
+    "artists": [
+      { "name": "Jon Bryant", "link": "https://music.163.com/artist?id=36739" }
+    ],
+    "album": {
+      "name": "At Home",
+      "link": "https://music.163.com/album?id=38443135"
+    }
+  },
+  {
+    "name": "Got A Little Crush On You",
+    "link": "https://music.163.com/song?id=1323148446",
+    "duration": "03:31",
+    "artists": [
+      {
+        "name": "Wildflowers",
+        "link": "https://music.163.com/artist?id=12977810"
+      },
+      { "name": "Emmi", "link": "https://music.163.com/artist?id=140606" }
+    ],
+    "album": {
+      "name": "Buttercup",
+      "link": "https://music.163.com/album?id=74254239"
+    }
+  },
+  {
+    "name": "No Love",
+    "link": "https://music.163.com/song?id=1443165921",
+    "duration": "03:08",
+    "artists": [
+      {
+        "name": "Noak Hellsing",
+        "link": "https://music.163.com/artist?id=33498671"
+      }
+    ],
+    "album": {
+      "name": "No Love",
+      "link": "https://music.163.com/album?id=88489277"
+    }
+  },
+  {
+    "name": "January",
+    "link": "https://music.163.com/song?id=1398590962",
+    "duration": "03:06",
+    "artists": [
+      {
+        "name": "Millie Turner",
+        "link": "https://music.163.com/artist?id=12505975"
+      }
+    ],
+    "album": {
+      "name": "Hide+Seek",
+      "link": "https://music.163.com/album?id=82642191"
+    }
+  },
+  {
+    "name": "Sometime",
+    "link": "https://music.163.com/song?id=41650958",
+    "duration": "02:46",
+    "artists": [
+      {
+        "name": "YUNG BAE",
+        "link": "https://music.163.com/artist?id=11996082"
+      },
+      {
+        "name": "Brasstracks",
+        "link": "https://music.163.com/artist?id=12273216"
+      }
+    ],
+    "album": {
+      "name": "Sometime",
+      "link": "https://music.163.com/album?id=3451374"
+    }
+  },
+  {
+    "name": "watch you sleep.",
+    "link": "https://music.163.com/song?id=1384019317",
+    "duration": "03:00",
+    "artists": [
+      {
+        "name": "girl in red",
+        "link": "https://music.163.com/artist?id=28899299"
+      }
+    ],
+    "album": {
+      "name": "chapter 2",
+      "link": "https://music.163.com/album?id=80925629"
+    }
+  },
+  {
+    "name": "Who I Am",
+    "link": "https://music.163.com/song?id=17241366",
+    "duration": "03:44",
+    "artists": [
+      {
+        "name": "David Archuleta",
+        "link": "https://music.163.com/artist?id=31192"
+      }
+    ],
+    "album": {
+      "name": "The Other Side of Down (Deluxe Edition)",
+      "link": "https://music.163.com/album?id=1589191"
+    }
+  },
+  {
+    "name": "Powerline",
+    "link": "https://music.163.com/song?id=1371704842",
+    "duration": "03:24",
+    "artists": [
+      { "name": "Phangs", "link": "https://music.163.com/artist?id=12107309" }
+    ],
+    "album": {
+      "name": "_A BREAK",
+      "link": "https://music.163.com/album?id=79786162"
+    }
+  },
+  {
+    "name": "Will Not Back Down",
+    "link": "https://music.163.com/song?id=1007548",
+    "duration": "04:04",
+    "artists": [
+      { "name": "Alex Band", "link": "https://music.163.com/artist?id=27703" }
+    ],
+    "album": {
+      "name": "We've All Been There",
+      "link": "https://music.163.com/album?id=105304"
+    }
+  },
+  {
+    "name": "Fashion",
+    "link": "https://music.163.com/song?id=34144578",
+    "duration": "03:33",
+    "artists": [
+      {
+        "name": "The Royal Concept",
+        "link": "https://music.163.com/artist?id=104353"
+      }
+    ],
+    "album": {
+      "name": "Smile",
+      "link": "https://music.163.com/album?id=3271459"
+    }
+  },
+  {
+    "name": "Borrow Your Time",
+    "link": "https://music.163.com/song?id=1871068989",
+    "duration": "03:29",
+    "artists": [
+      {
+        "name": "Fly By Midnight",
+        "link": "https://music.163.com/artist?id=1163027"
+      }
+    ],
+    "album": {
+      "name": "Borrow Your Time",
+      "link": "https://music.163.com/album?id=132027823"
+    }
+  },
+  {
+    "name": "skeletons",
+    "link": "https://music.163.com/song?id=1378191814",
+    "duration": "02:32",
+    "artists": [
+      { "name": "keshi", "link": "https://music.163.com/artist?id=12544511" }
+    ],
+    "album": {
+      "name": "skeletons",
+      "link": "https://music.163.com/album?id=80416147"
+    }
+  },
+  {
+    "name": "for him.",
+    "link": "https://music.163.com/song?id=37955044",
+    "duration": "03:28",
+    "artists": [
+      {
+        "name": "Troye Sivan",
+        "link": "https://music.163.com/artist?id=45129"
+      },
+      { "name": "Allday", "link": "https://music.163.com/artist?id=784209" }
+    ],
+    "album": {
+      "name": "Blue Neighbourhood (Deluxe)",
+      "link": "https://music.163.com/album?id=3329047"
+    }
+  },
+  {
+    "name": "Drop That Skirt (Radio Mix)",
+    "link": "https://music.163.com/song?id=566295511",
+    "duration": "02:54",
+    "artists": [
+      {
+        "name": "Croatia Squad",
+        "link": "https://music.163.com/artist?id=820489"
+      }
+    ],
+    "album": {
+      "name": "Sirup Dance Anthems Las Vegas 2015",
+      "link": "https://music.163.com/album?id=39251776"
+    }
+  },
+  {
+    "name": "Soaked Through",
+    "link": "https://music.163.com/song?id=461124355",
+    "duration": "03:20",
+    "artists": [
+      { "name": "Sara", "link": "https://music.163.com/artist?id=12290338" }
+    ],
+    "album": {
+      "name": "Haunt",
+      "link": "https://music.163.com/album?id=35188501"
+    }
+  },
+  {
+    "name": "Death Note",
+    "link": "https://music.163.com/song?id=1821688853",
+    "duration": "03:24",
+    "artists": [
+      {
+        "name": "Dot Scotty",
+        "link": "https://music.163.com/artist?id=46908756"
+      }
+    ],
+    "album": {
+      "name": "Death Note",
+      "link": "https://music.163.com/album?id=123306861"
+    }
+  },
+  {
+    "name": "Castle",
+    "link": "https://music.163.com/song?id=34144930",
+    "duration": "04:37",
+    "artists": [
+      { "name": "Halsey", "link": "https://music.163.com/artist?id=964321" }
+    ],
+    "album": {
+      "name": "BADLANDS (Deluxe Edition)",
+      "link": "https://music.163.com/album?id=3271514"
+    }
+  },
+  {
+    "name": "Alibi (Far Out Remix)",
+    "link": "https://music.163.com/song?id=863515475",
+    "duration": "03:39",
+    "artists": [
+      { "name": "Far Out", "link": "https://music.163.com/artist?id=824107" },
+      { "name": "Krewella", "link": "https://music.163.com/artist?id=208915" }
+    ],
+    "album": {
+      "name": "Alibi (Far Out Remix)",
+      "link": "https://music.163.com/album?id=71722753"
+    }
+  },
+  {
+    "name": "Party Around the World (Michael Mind Project Remix Edit)",
+    "link": "https://music.163.com/song?id=28111317",
+    "duration": "03:03",
+    "artists": [
+      { "name": "Carlprit", "link": "https://music.163.com/artist?id=30916" },
+      {
+        "name": "Michael Mind Project",
+        "link": "https://music.163.com/artist?id=97036"
+      }
+    ],
+    "album": {
+      "name": "Party Around the World",
+      "link": "https://music.163.com/album?id=2732055"
+    }
+  }
+]
