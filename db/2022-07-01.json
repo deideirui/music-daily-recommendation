@@ -1,0 +1,461 @@
+[
+  {
+    "name": "IDK You Yet",
+    "link": "https://music.163.com/song?id=1821466255",
+    "duration": "03:04",
+    "artists": [
+      {
+        "name": "Alexander 23",
+        "link": "https://music.163.com/artist?id=31659734"
+      }
+    ],
+    "album": {
+      "name": "Oh No, Not Again! - EP",
+      "link": "https://music.163.com/album?id=123277819"
+    }
+  },
+  {
+    "name": "Here You Are",
+    "link": "https://music.163.com/song?id=1422926289",
+    "duration": "04:34",
+    "artists": [
+      { "name": "WAV", "link": "https://music.163.com/artist?id=1084125" }
+    ],
+    "album": {
+      "name": "Revisit",
+      "link": "https://music.163.com/album?id=85655261"
+    }
+  },
+  {
+    "name": "Daddy Issues",
+    "link": "https://music.163.com/song?id=36067371",
+    "duration": "04:20",
+    "artists": [
+      {
+        "name": "The Neighbourhood",
+        "link": "https://music.163.com/artist?id=104437"
+      }
+    ],
+    "album": {
+      "name": "Wiped Out!",
+      "link": "https://music.163.com/album?id=3385147"
+    }
+  },
+  {
+    "name": "1 to 2",
+    "link": "https://music.163.com/song?id=1317494331",
+    "duration": "03:38",
+    "artists": [
+      { "name": "Elaine", "link": "https://music.163.com/artist?id=1015123" }
+    ],
+    "album": { "name": "1", "link": "https://music.163.com/album?id=73876801" }
+  },
+  {
+    "name": "Why Can't You Wait",
+    "link": "https://music.163.com/song?id=1959585255",
+    "duration": "03:49",
+    "artists": [
+      {
+        "name": "The Chainsmokers",
+        "link": "https://music.163.com/artist?id=893484"
+      },
+      { "name": "Bob Moses", "link": "https://music.163.com/artist?id=1148041" }
+    ],
+    "album": {
+      "name": "Why Can't You Wait",
+      "link": "https://music.163.com/album?id=147184097"
+    }
+  },
+  {
+    "name": "July",
+    "link": "https://music.163.com/song?id=1410210639",
+    "duration": "03:43",
+    "artists": [
+      {
+        "name": "Far Caspian",
+        "link": "https://music.163.com/artist?id=29088881"
+      }
+    ],
+    "album": {
+      "name": "July",
+      "link": "https://music.163.com/album?id=84151213"
+    }
+  },
+  {
+    "name": "Bohemian Rhapsody (Live Aid)",
+    "link": "https://music.163.com/song?id=1318816012",
+    "duration": "02:27",
+    "artists": [
+      { "name": "Queen", "link": "https://music.163.com/artist?id=41906" }
+    ],
+    "album": {
+      "name": "Bohemian Rhapsody (The Original Soundtrack)",
+      "link": "https://music.163.com/album?id=73977486"
+    }
+  },
+  {
+    "name": "HOUNDIN PT. II",
+    "link": "https://music.163.com/song?id=1939620535",
+    "duration": "03:14",
+    "artists": [
+      { "name": "Layto", "link": "https://music.163.com/artist?id=28129508" },
+      { "name": "AViVA", "link": "https://music.163.com/artist?id=12074178" }
+    ],
+    "album": {
+      "name": "HOUNDIN PT. II",
+      "link": "https://music.163.com/album?id=143702821"
+    }
+  },
+  {
+    "name": "17",
+    "link": "https://music.163.com/song?id=4440220",
+    "duration": "03:56",
+    "artists": [
+      {
+        "name": "Youth Lagoon",
+        "link": "https://music.163.com/artist?id=105719"
+      }
+    ],
+    "album": {
+      "name": "The Year of Hibernation",
+      "link": "https://music.163.com/album?id=448058"
+    }
+  },
+  {
+    "name": "Next Best Thing",
+    "link": "https://music.163.com/song?id=1441214296",
+    "duration": "02:50",
+    "artists": [
+      {
+        "name": "Floor Cry",
+        "link": "https://music.163.com/artist?id=13059770"
+      }
+    ],
+    "album": {
+      "name": "Next Best Thing",
+      "link": "https://music.163.com/album?id=88137083"
+    }
+  },
+  {
+    "name": "Sagittarius Superstar",
+    "link": "https://music.163.com/song?id=1813066931",
+    "duration": "02:53",
+    "artists": [
+      { "name": "COIN", "link": "https://music.163.com/artist?id=1050676" },
+      {
+        "name": "Faye Webster",
+        "link": "https://music.163.com/artist?id=12450179"
+      }
+    ],
+    "album": {
+      "name": "Sagittarius Superstar",
+      "link": "https://music.163.com/album?id=121811333"
+    }
+  },
+  {
+    "name": "Hot Sugar",
+    "link": "https://music.163.com/song?id=1468927746",
+    "duration": "03:54",
+    "artists": [
+      {
+        "name": "Glass Animals",
+        "link": "https://music.163.com/artist?id=847346"
+      }
+    ],
+    "album": {
+      "name": "Dreamland",
+      "link": "https://music.163.com/album?id=93601160"
+    }
+  },
+  {
+    "name": "Tell Me (feat. Saoirse Ronan)",
+    "link": "https://music.163.com/song?id=1423669307",
+    "duration": "02:42",
+    "artists": [
+      {
+        "name": "Johnny Jewel",
+        "link": "https://music.163.com/artist?id=12154024"
+      },
+      {
+        "name": "Saoirse Ronan",
+        "link": "https://music.163.com/artist?id=30069950"
+      }
+    ],
+    "album": {
+      "name": "Tell Me (feat. Saoirse Ronan)",
+      "link": "https://music.163.com/album?id=85759433"
+    }
+  },
+  {
+    "name": "Plains",
+    "link": "https://music.163.com/song?id=19783925",
+    "duration": "03:45",
+    "artists": [
+      { "name": "Wye Oak", "link": "https://music.163.com/artist?id=45851" }
+    ],
+    "album": {
+      "name": "Civilian",
+      "link": "https://music.163.com/album?id=1823986"
+    }
+  },
+  {
+    "name": "Always You",
+    "link": "https://music.163.com/song?id=1840625175",
+    "duration": "04:19",
+    "artists": [
+      {
+        "name": "Dave Thomas Junior",
+        "link": "https://music.163.com/artist?id=32233"
+      }
+    ],
+    "album": {
+      "name": "Always You",
+      "link": "https://music.163.com/album?id=126616006"
+    }
+  },
+  {
+    "name": "We Can't Stop",
+    "link": "https://music.163.com/song?id=29480187",
+    "duration": "03:42",
+    "artists": [
+      {
+        "name": "Boyce Avenue",
+        "link": "https://music.163.com/artist?id=29709"
+      },
+      { "name": "Bea Miller", "link": "https://music.163.com/artist?id=908180" }
+    ],
+    "album": {
+      "name": "Cover Sessions, Vol. 3",
+      "link": "https://music.163.com/album?id=83082810"
+    }
+  },
+  {
+    "name": "After Midnight",
+    "link": "https://music.163.com/song?id=539227726",
+    "duration": "03:37",
+    "artists": [
+      {
+        "name": "Superheart",
+        "link": "https://music.163.com/artist?id=13486065"
+      }
+    ],
+    "album": {
+      "name": "After Midnight",
+      "link": "https://music.163.com/album?id=37590602"
+    }
+  },
+  {
+    "name": "That Thing",
+    "link": "https://music.163.com/song?id=478686330",
+    "duration": "03:08",
+    "artists": [
+      {
+        "name": "Hazel English",
+        "link": "https://music.163.com/artist?id=12108424"
+      }
+    ],
+    "album": {
+      "name": "Just Give In / Never Going Home",
+      "link": "https://music.163.com/album?id=35498298"
+    }
+  },
+  {
+    "name": "Camberwell",
+    "link": "https://music.163.com/song?id=29473749",
+    "duration": "03:49",
+    "artists": [
+      { "name": "#1 Dads", "link": "https://music.163.com/artist?id=1021336" }
+    ],
+    "album": {
+      "name": "About Face",
+      "link": "https://music.163.com/album?id=3030776"
+    }
+  },
+  {
+    "name": "I'M A FOOL",
+    "link": "https://music.163.com/song?id=1297743164",
+    "duration": "02:44",
+    "artists": [
+      { "name": "fudasca", "link": "https://music.163.com/artist?id=14470094" },
+      {
+        "name": "Thomas Reid",
+        "link": "https://music.163.com/artist?id=12261152"
+      }
+    ],
+    "album": {
+      "name": "I'M A FOOL",
+      "link": "https://music.163.com/album?id=72071670"
+    }
+  },
+  {
+    "name": "Lies",
+    "link": "https://music.163.com/song?id=33991802",
+    "duration": "04:15",
+    "artists": [
+      { "name": "Low", "link": "https://music.163.com/artist?id=95441" }
+    ],
+    "album": {
+      "name": "Ones and Sixes",
+      "link": "https://music.163.com/album?id=3233454"
+    }
+  },
+  {
+    "name": "Another Place",
+    "link": "https://music.163.com/song?id=483378483",
+    "duration": "02:49",
+    "artists": [
+      { "name": "Duumu", "link": "https://music.163.com/artist?id=12007367" }
+    ],
+    "album": {
+      "name": "Dissociated",
+      "link": "https://music.163.com/album?id=35589782"
+    }
+  },
+  {
+    "name": "Sweet Little Lies",
+    "link": "https://music.163.com/song?id=1347650968",
+    "duration": "02:55",
+    "artists": [
+      { "name": "Bülow", "link": "https://music.163.com/artist?id=12809019" }
+    ],
+    "album": {
+      "name": "Sweet Little Lies",
+      "link": "https://music.163.com/album?id=75664437"
+    }
+  },
+  {
+    "name": "Amtrak",
+    "link": "https://music.163.com/song?id=1361945896",
+    "duration": "02:56",
+    "artists": [
+      {
+        "name": "Los Retros",
+        "link": "https://music.163.com/artist?id=31535237"
+      }
+    ],
+    "album": {
+      "name": "Amtrak",
+      "link": "https://music.163.com/album?id=78825929"
+    }
+  },
+  {
+    "name": "Team",
+    "link": "https://music.163.com/song?id=27725002",
+    "duration": "03:13",
+    "artists": [
+      { "name": "Lorde", "link": "https://music.163.com/artist?id=784001" }
+    ],
+    "album": {
+      "name": "Team",
+      "link": "https://music.163.com/album?id=2665003"
+    }
+  },
+  {
+    "name": "Some Feeling",
+    "link": "https://music.163.com/song?id=551760527",
+    "duration": "03:17",
+    "artists": [
+      {
+        "name": "Mild Orange",
+        "link": "https://music.163.com/artist?id=13959173"
+      }
+    ],
+    "album": {
+      "name": "Foreplay",
+      "link": "https://music.163.com/album?id=38286435"
+    }
+  },
+  {
+    "name": "Green",
+    "link": "https://music.163.com/song?id=1371568158",
+    "duration": "04:01",
+    "artists": [
+      { "name": "haer", "link": "https://music.163.com/artist?id=31155218" }
+    ],
+    "album": {
+      "name": "Green",
+      "link": "https://music.163.com/album?id=79772492"
+    }
+  },
+  {
+    "name": "Can I Call You Tonight?",
+    "link": "https://music.163.com/song?id=1376949121",
+    "duration": "04:38",
+    "artists": [
+      { "name": "Dayglow", "link": "https://music.163.com/artist?id=32722449" }
+    ],
+    "album": {
+      "name": "Fuzzybrain",
+      "link": "https://music.163.com/album?id=82491618"
+    }
+  },
+  {
+    "name": "Punchbowl",
+    "link": "https://music.163.com/song?id=1429981130",
+    "duration": "03:50",
+    "artists": [
+      {
+        "name": "Johnny Martian",
+        "link": "https://music.163.com/artist?id=34549909"
+      }
+    ],
+    "album": {
+      "name": "Punchbowl",
+      "link": "https://music.163.com/album?id=86405610"
+    }
+  },
+  {
+    "name": "Southwark",
+    "link": "https://music.163.com/song?id=1423383586",
+    "duration": "03:22",
+    "artists": [
+      { "name": "Yumi Zouma", "link": "https://music.163.com/artist?id=893365" }
+    ],
+    "album": {
+      "name": "Southwark",
+      "link": "https://music.163.com/album?id=85735495"
+    }
+  },
+  {
+    "name": "Bloodflood",
+    "link": "https://music.163.com/song?id=16435215",
+    "duration": "04:09",
+    "artists": [
+      { "name": "Alt-J", "link": "https://music.163.com/artist?id=87966" }
+    ],
+    "album": {
+      "name": "An Awesome Wave",
+      "link": "https://music.163.com/album?id=1515373"
+    }
+  },
+  {
+    "name": "Easy",
+    "link": "https://music.163.com/song?id=1451123345",
+    "duration": "02:27",
+    "artists": [
+      {
+        "name": "Peder Elias",
+        "link": "https://music.163.com/artist?id=13979517"
+      }
+    ],
+    "album": {
+      "name": "Easy",
+      "link": "https://music.163.com/album?id=89991436"
+    }
+  },
+  {
+    "name": "Вечера - (夜晚)",
+    "link": "https://music.163.com/song?id=1317373380",
+    "duration": "03:20",
+    "artists": [
+      {
+        "name": "Rauf & Faik",
+        "link": "https://music.163.com/artist?id=28276929"
+      }
+    ],
+    "album": {
+      "name": "Я тебя люблю",
+      "link": "https://music.163.com/album?id=73887358"
+    }
+  }
+]
