@@ -1,0 +1,461 @@
+[
+  {
+    "name": "Happy Now?",
+    "link": "https://music.163.com/song?id=1887215864",
+    "duration": "02:52",
+    "artists": [
+      { "name": "FINNEAS", "link": "https://music.163.com/artist?id=12676847" }
+    ],
+    "album": {
+      "name": "Optimist",
+      "link": "https://music.163.com/album?id=134830939"
+    }
+  },
+  {
+    "name": "Jojo",
+    "link": "https://music.163.com/song?id=1943381363",
+    "duration": "03:24",
+    "artists": [
+      {
+        "name": "Winona Oak",
+        "link": "https://music.163.com/artist?id=29738618"
+      }
+    ],
+    "album": {
+      "name": "Jojo",
+      "link": "https://music.163.com/album?id=144287150"
+    }
+  },
+  {
+    "name": "Shame",
+    "link": "https://music.163.com/song?id=1464774993",
+    "duration": "02:53",
+    "artists": [
+      {
+        "name": "Hearts & Colors",
+        "link": "https://music.163.com/artist?id=12399051"
+      }
+    ],
+    "album": {
+      "name": "Shame",
+      "link": "https://music.163.com/album?id=92821901"
+    }
+  },
+  {
+    "name": "Someone You Hate",
+    "link": "https://music.163.com/song?id=1486964419",
+    "duration": "03:56",
+    "artists": [
+      {
+        "name": "Sasha Alex Sloan",
+        "link": "https://music.163.com/artist?id=12646102"
+      }
+    ],
+    "album": {
+      "name": "Only Child",
+      "link": "https://music.163.com/album?id=96769235"
+    }
+  },
+  {
+    "name": "Easy Come Easy Go",
+    "link": "https://music.163.com/song?id=1875176957",
+    "duration": "02:59",
+    "artists": [
+      {
+        "name": "Imagine Dragons",
+        "link": "https://music.163.com/artist?id=94779"
+      }
+    ],
+    "album": {
+      "name": "Mercury - Act 1",
+      "link": "https://music.163.com/album?id=132733086"
+    }
+  },
+  {
+    "name": "La Maritza - (马里查河)",
+    "link": "https://music.163.com/song?id=27184387",
+    "duration": "03:52",
+    "artists": [
+      { "name": "Therion", "link": "https://music.163.com/artist?id=78203" }
+    ],
+    "album": {
+      "name": "Les Fleurs Du Mal",
+      "link": "https://music.163.com/album?id=2590371"
+    }
+  },
+  {
+    "name": "I'm Letting Go",
+    "link": "https://music.163.com/song?id=1821462476",
+    "duration": "02:55",
+    "artists": [
+      { "name": "yaeow", "link": "https://music.163.com/artist?id=33979386" }
+    ],
+    "album": {
+      "name": "Lost In Between",
+      "link": "https://music.163.com/album?id=123276647"
+    }
+  },
+  {
+    "name": "September Fades",
+    "link": "https://music.163.com/song?id=536991430",
+    "duration": "04:10",
+    "artists": [
+      { "name": "Ralph", "link": "https://music.163.com/artist?id=12049282" }
+    ],
+    "album": {
+      "name": "September Fades",
+      "link": "https://music.163.com/album?id=37590155"
+    }
+  },
+  {
+    "name": "Serotonin",
+    "link": "https://music.163.com/song?id=1813701040",
+    "duration": "03:02",
+    "artists": [
+      {
+        "name": "girl in red",
+        "link": "https://music.163.com/artist?id=28899299"
+      }
+    ],
+    "album": {
+      "name": "if i could make it go quiet",
+      "link": "https://music.163.com/album?id=126319447"
+    }
+  },
+  {
+    "name": "How It Is",
+    "link": "https://music.163.com/song?id=518092137",
+    "duration": "03:25",
+    "artists": [
+      { "name": "Majik", "link": "https://music.163.com/artist?id=425162" }
+    ],
+    "album": {
+      "name": "Under the Influence",
+      "link": "https://music.163.com/album?id=36782064"
+    }
+  },
+  {
+    "name": "Is This Happiness",
+    "link": "https://music.163.com/song?id=28680777",
+    "duration": "03:44",
+    "artists": [
+      {
+        "name": "Lana Del Rey",
+        "link": "https://music.163.com/artist?id=66212"
+      }
+    ],
+    "album": {
+      "name": "Ultraviolence (Deluxe Version)",
+      "link": "https://music.163.com/album?id=2866097"
+    }
+  },
+  {
+    "name": "Pines",
+    "link": "https://music.163.com/song?id=1391251164",
+    "duration": "03:42",
+    "artists": [
+      {
+        "name": "Men I Trust",
+        "link": "https://music.163.com/artist?id=1132243"
+      }
+    ],
+    "album": {
+      "name": "Oncle Jazz",
+      "link": "https://music.163.com/album?id=81677349"
+    }
+  },
+  {
+    "name": "Soul Mate",
+    "link": "https://music.163.com/song?id=1835830322",
+    "duration": "03:57",
+    "artists": [
+      {
+        "name": "Flora Cash",
+        "link": "https://music.163.com/artist?id=1132016"
+      }
+    ],
+    "album": {
+      "name": "Soul Mate",
+      "link": "https://music.163.com/album?id=125754773"
+    }
+  },
+  {
+    "name": "Vampire At The Swimming Pool",
+    "link": "https://music.163.com/song?id=1924685088",
+    "duration": "03:34",
+    "artists": [
+      { "name": "Skylar Grey", "link": "https://music.163.com/artist?id=74801" }
+    ],
+    "album": {
+      "name": "Falling Apart",
+      "link": "https://music.163.com/album?id=141179288"
+    }
+  },
+  {
+    "name": "Summer Is for Falling in Love",
+    "link": "https://music.163.com/song?id=1463615238",
+    "duration": "03:06",
+    "artists": [
+      {
+        "name": "Sarah Kang",
+        "link": "https://music.163.com/artist?id=36737311"
+      },
+      {
+        "name": "Eyelovebrandon",
+        "link": "https://music.163.com/artist?id=31412911"
+      }
+    ],
+    "album": {
+      "name": "Summer Is for Falling in Love",
+      "link": "https://music.163.com/album?id=92620948"
+    }
+  },
+  {
+    "name": "The Latter Teens",
+    "link": "https://music.163.com/song?id=1484576012",
+    "duration": "03:41",
+    "artists": [
+      { "name": "Vansire", "link": "https://music.163.com/artist?id=12348095" }
+    ],
+    "album": {
+      "name": "After Fillmore County",
+      "link": "https://music.163.com/album?id=96374204"
+    }
+  },
+  {
+    "name": "Out Cold",
+    "link": "https://music.163.com/song?id=1378742137",
+    "duration": "02:46",
+    "artists": [
+      { "name": "AYEON", "link": "https://music.163.com/artist?id=30713803" }
+    ],
+    "album": {
+      "name": "Out Cold",
+      "link": "https://music.163.com/album?id=80464590"
+    }
+  },
+  {
+    "name": "Imagination",
+    "link": "https://music.163.com/song?id=1372851721",
+    "duration": "04:16",
+    "artists": [
+      {
+        "name": "Foster The People",
+        "link": "https://music.163.com/artist?id=92856"
+      }
+    ],
+    "album": {
+      "name": "Imagination",
+      "link": "https://music.163.com/album?id=79886947"
+    }
+  },
+  {
+    "name": "That's Us",
+    "link": "https://music.163.com/song?id=1372350500",
+    "duration": "04:30",
+    "artists": [
+      {
+        "name": "Anson Seabra",
+        "link": "https://music.163.com/artist?id=14470054"
+      }
+    ],
+    "album": {
+      "name": "That's Us",
+      "link": "https://music.163.com/album?id=79832811"
+    }
+  },
+  {
+    "name": "After the Moment",
+    "link": "https://music.163.com/song?id=17121111",
+    "duration": "04:00",
+    "artists": [
+      {
+        "name": "Craft Spells",
+        "link": "https://music.163.com/artist?id=90036"
+      }
+    ],
+    "album": {
+      "name": "Idle Labor",
+      "link": "https://music.163.com/album?id=1577087"
+    }
+  },
+  {
+    "name": "I Want What You Got",
+    "link": "https://music.163.com/song?id=29388971",
+    "duration": "04:02",
+    "artists": [
+      { "name": "Palace", "link": "https://music.163.com/artist?id=71017" }
+    ],
+    "album": {
+      "name": "Lost in the Night",
+      "link": "https://music.163.com/album?id=3015853"
+    }
+  },
+  {
+    "name": "summer",
+    "link": "https://music.163.com/song?id=1378192821",
+    "duration": "02:45",
+    "artists": [
+      { "name": "keshi", "link": "https://music.163.com/artist?id=12544511" }
+    ],
+    "album": {
+      "name": "skeletons",
+      "link": "https://music.163.com/album?id=80416147"
+    }
+  },
+  {
+    "name": "Space Boy",
+    "link": "https://music.163.com/song?id=1921152424",
+    "duration": "03:27",
+    "artists": [
+      { "name": "Rameses B", "link": "https://music.163.com/artist?id=42898" },
+      { "name": "Veela", "link": "https://music.163.com/artist?id=193221" },
+      { "name": "Feint", "link": "https://music.163.com/artist?id=93062" }
+    ],
+    "album": {
+      "name": "Space Boy",
+      "link": "https://music.163.com/album?id=140546783"
+    }
+  },
+  {
+    "name": "Come Around Me",
+    "link": "https://music.163.com/song?id=1496770948",
+    "duration": "03:20",
+    "artists": [
+      {
+        "name": "Justin Bieber",
+        "link": "https://music.163.com/artist?id=35531"
+      }
+    ],
+    "album": {
+      "name": "2020 Hits",
+      "link": "https://music.163.com/album?id=98552611"
+    }
+  },
+  {
+    "name": "P S Y C H O",
+    "link": "https://music.163.com/song?id=1336856180",
+    "duration": "02:25",
+    "artists": [
+      {
+        "name": "IS MAYONNAISE AN INSTRUMENT?",
+        "link": "https://music.163.com/artist?id=31209752"
+      }
+    ],
+    "album": {
+      "name": "P S Y C H O",
+      "link": "https://music.163.com/album?id=75016701"
+    }
+  },
+  {
+    "name": "I'll Be Waiting For You",
+    "link": "https://music.163.com/song?id=1812002460",
+    "duration": "03:57",
+    "artists": [
+      {
+        "name": "Michael Morikito",
+        "link": "https://music.163.com/artist?id=46546436"
+      },
+      {
+        "name": "Kat Nestel",
+        "link": "https://music.163.com/artist?id=1066090"
+      }
+    ],
+    "album": {
+      "name": "I'll Be Waiting For You",
+      "link": "https://music.163.com/album?id=121647145"
+    }
+  },
+  {
+    "name": "Remembering Who We Were",
+    "link": "https://music.163.com/song?id=29533349",
+    "duration": "07:30",
+    "artists": [
+      { "name": "jav3x", "link": "https://music.163.com/artist?id=1019866" }
+    ],
+    "album": {
+      "name": "One Last Moment EP",
+      "link": "https://music.163.com/album?id=3039280"
+    }
+  },
+  {
+    "name": "Every Day",
+    "link": "https://music.163.com/song?id=1803861473",
+    "duration": "03:19",
+    "artists": [
+      {
+        "name": "The Darkmaker",
+        "link": "https://music.163.com/artist?id=31492299"
+      },
+      { "name": "赵曼伊mï", "link": "https://music.163.com/artist?id=31760557" }
+    ],
+    "album": {
+      "name": "Every Day",
+      "link": "https://music.163.com/album?id=120270737"
+    }
+  },
+  {
+    "name": "Fake",
+    "link": "https://music.163.com/song?id=1344644402",
+    "duration": "02:21",
+    "artists": [
+      {
+        "name": "The Tech Thieves",
+        "link": "https://music.163.com/artist?id=12080267"
+      }
+    ],
+    "album": {
+      "name": "Fake",
+      "link": "https://music.163.com/album?id=75479490"
+    }
+  },
+  {
+    "name": "Color (İlkan Günüç & Osman Altun Remix)",
+    "link": "https://music.163.com/song?id=1414765912",
+    "duration": "04:39",
+    "artists": [
+      {
+        "name": "Ogün bNMDalka/Dj FubnVwnky C/İ7lkan Günüç/Om0Vsman Altun",
+        "link": ""
+      }
+    ],
+    "album": {
+      "name": "Color (İlkan Günüç & Osman Altun Remix)",
+      "link": "https://music.163.com/album?id=84709177"
+    }
+  },
+  {
+    "name": "Monster 2.0",
+    "link": "https://music.163.com/song?id=447281998",
+    "duration": "03:37",
+    "artists": [
+      {
+        "name": "Jacob Banks",
+        "link": "https://music.163.com/artist?id=1015032"
+      },
+      {
+        "name": "WESTSIDE BOOGIE",
+        "link": "https://music.163.com/artist?id=249053"
+      }
+    ],
+    "album": {
+      "name": "Monster 2.0",
+      "link": "https://music.163.com/album?id=35013009"
+    }
+  },
+  {
+    "name": "Call Me Maybe",
+    "link": "https://music.163.com/song?id=17112299",
+    "duration": "03:13",
+    "artists": [
+      {
+        "name": "Carly Rae Jepsen",
+        "link": "https://music.163.com/artist?id=50934"
+      }
+    ],
+    "album": {
+      "name": "Call Me Maybe",
+      "link": "https://music.163.com/album?id=1576473"
+    }
+  }
+]
