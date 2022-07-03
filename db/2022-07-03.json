@@ -1,0 +1,455 @@
+[
+  {
+    "name": "The Cool Kid",
+    "link": "https://music.163.com/song?id=1896526371",
+    "duration": "02:33",
+    "artists": [
+      {
+        "name": "Chris James",
+        "link": "https://music.163.com/artist?id=145038"
+      }
+    ],
+    "album": {
+      "name": "The Cool Kid",
+      "link": "https://music.163.com/album?id=136382599"
+    }
+  },
+  {
+    "name": "Lonely City",
+    "link": "https://music.163.com/song?id=1874637525",
+    "duration": "02:37",
+    "artists": [
+      { "name": "Mokita", "link": "https://music.163.com/artist?id=12033046" }
+    ],
+    "album": {
+      "name": "Lonely City",
+      "link": "https://music.163.com/album?id=132616420"
+    }
+  },
+  {
+    "name": "Not Gonna Lie",
+    "link": "https://music.163.com/song?id=1368162738",
+    "duration": "03:05",
+    "artists": [
+      {
+        "name": "Andrew Applepie",
+        "link": "https://music.163.com/artist?id=12006277"
+      }
+    ],
+    "album": {
+      "name": "California Kamala Falcon",
+      "link": "https://music.163.com/album?id=79431979"
+    }
+  },
+  {
+    "name": "L.A.M.W.",
+    "link": "https://music.163.com/song?id=1960134359",
+    "duration": "03:06",
+    "artists": [
+      {
+        "name": "Michelen米其林",
+        "link": "https://music.163.com/artist?id=27909596"
+      },
+      {
+        "name": "FADER ONE",
+        "link": "https://music.163.com/artist?id=12259963"
+      },
+      { "name": "RED8红八", "link": "https://music.163.com/artist?id=29500218" }
+    ],
+    "album": {
+      "name": "L.A.M.W.",
+      "link": "https://music.163.com/album?id=147373434"
+    }
+  },
+  {
+    "name": "Tears in Heaven",
+    "link": "https://music.163.com/song?id=1834322630",
+    "duration": "03:47",
+    "artists": [
+      {
+        "name": "Music Travel Love",
+        "link": "https://music.163.com/artist?id=207962"
+      }
+    ],
+    "album": {
+      "name": "Tears in Heaven",
+      "link": "https://music.163.com/album?id=125500631"
+    }
+  },
+  {
+    "name": "Lose Control",
+    "link": "https://music.163.com/song?id=36307815",
+    "duration": "03:46",
+    "artists": [
+      { "name": "Hedley", "link": "https://music.163.com/artist?id=93826" }
+    ],
+    "album": {
+      "name": "Hello",
+      "link": "https://music.163.com/album?id=3394198"
+    }
+  },
+  {
+    "name": "Sweet",
+    "link": "https://music.163.com/song?id=480769653",
+    "duration": "04:52",
+    "artists": [
+      {
+        "name": "Cigarettes After Sex",
+        "link": "https://music.163.com/artist?id=12023319"
+      }
+    ],
+    "album": {
+      "name": "Cigarettes After Sex",
+      "link": "https://music.163.com/album?id=35561162"
+    }
+  },
+  {
+    "name": "Blur",
+    "link": "https://music.163.com/song?id=1844343841",
+    "duration": "05:14",
+    "artists": [
+      { "name": "WAV", "link": "https://music.163.com/artist?id=1084125" },
+      { "name": "Mandark", "link": "https://music.163.com/artist?id=46764521" }
+    ],
+    "album": {
+      "name": "Blur",
+      "link": "https://music.163.com/album?id=127265196"
+    }
+  },
+  {
+    "name": "Part of Me",
+    "link": "https://music.163.com/song?id=1409981622",
+    "duration": "04:12",
+    "artists": [
+      {
+        "name": "By The Coast",
+        "link": "https://music.163.com/artist?id=33939127"
+      }
+    ],
+    "album": {
+      "name": "You",
+      "link": "https://music.163.com/album?id=84128487"
+    }
+  },
+  {
+    "name": "Sad Movies",
+    "link": "https://music.163.com/song?id=1391433956",
+    "duration": "04:03",
+    "artists": [
+      {
+        "name": "Still Corners",
+        "link": "https://music.163.com/artist?id=101335"
+      }
+    ],
+    "album": {
+      "name": "Slow Air",
+      "link": "https://music.163.com/album?id=81698598"
+    }
+  },
+  {
+    "name": "Bedroom Talks",
+    "link": "https://music.163.com/song?id=476598206",
+    "duration": "03:02",
+    "artists": [
+      {
+        "name": "Fazerdaze",
+        "link": "https://music.163.com/artist?id=12390098"
+      }
+    ],
+    "album": {
+      "name": "Morningside",
+      "link": "https://music.163.com/album?id=35445453"
+    }
+  },
+  {
+    "name": "Forest of Gold",
+    "link": "https://music.163.com/song?id=29576954",
+    "duration": "04:10",
+    "artists": [
+      { "name": "Mazde", "link": "https://music.163.com/artist?id=1024181" }
+    ],
+    "album": {
+      "name": "Shifted Thoughts",
+      "link": "https://music.163.com/album?id=3047640"
+    }
+  },
+  {
+    "name": "Wash",
+    "link": "https://music.163.com/song?id=530995601",
+    "duration": "03:07",
+    "artists": [
+      {
+        "name": "Floor Cry",
+        "link": "https://music.163.com/artist?id=13059770"
+      }
+    ],
+    "album": {
+      "name": "Wash",
+      "link": "https://music.163.com/album?id=37253572"
+    }
+  },
+  {
+    "name": "Italo Disco",
+    "link": "https://music.163.com/song?id=1351384773",
+    "duration": "03:46",
+    "artists": [
+      {
+        "name": "Last Dinosaurs",
+        "link": "https://music.163.com/artist?id=96133"
+      }
+    ],
+    "album": {
+      "name": "Yumeno Garden",
+      "link": "https://music.163.com/album?id=75822022"
+    }
+  },
+  {
+    "name": "Salt",
+    "link": "https://music.163.com/song?id=1434210634",
+    "duration": "04:07",
+    "artists": [
+      { "name": "Haux", "link": "https://music.163.com/artist?id=1078427" }
+    ],
+    "album": {
+      "name": "Violence in a Quiet Mind",
+      "link": "https://music.163.com/album?id=86858766"
+    }
+  },
+  {
+    "name": "Wide Open",
+    "link": "https://music.163.com/song?id=28291059",
+    "duration": "04:50",
+    "artists": [
+      {
+        "name": "My Sad Captains",
+        "link": "https://music.163.com/artist?id=96290"
+      }
+    ],
+    "album": {
+      "name": "Best Of Times",
+      "link": "https://music.163.com/album?id=2769101"
+    }
+  },
+  {
+    "name": "Radical (feat. Grouplove)",
+    "link": "https://music.163.com/song?id=1489216280",
+    "duration": "03:35",
+    "artists": [
+      { "name": "AWOLNATION", "link": "https://music.163.com/artist?id=87095" },
+      { "name": "Grouplove", "link": "https://music.163.com/artist?id=93502" }
+    ],
+    "album": {
+      "name": "Radical (feat. Grouplove)",
+      "link": "https://music.163.com/album?id=97216289"
+    }
+  },
+  {
+    "name": "If I Ruled The World",
+    "link": "https://music.163.com/song?id=1825788878",
+    "duration": "02:51",
+    "artists": [
+      {
+        "name": "Mike Perry",
+        "link": "https://music.163.com/artist?id=195021"
+      },
+      {
+        "name": "Mila Josef",
+        "link": "https://music.163.com/artist?id=34698062"
+      }
+    ],
+    "album": {
+      "name": "If I Ruled The World",
+      "link": "https://music.163.com/album?id=124036673"
+    }
+  },
+  {
+    "name": "Losing My Head",
+    "link": "https://music.163.com/song?id=1367095619",
+    "duration": "03:23",
+    "artists": [
+      {
+        "name": "Lizzy Land",
+        "link": "https://music.163.com/artist?id=12192259"
+      }
+    ],
+    "album": {
+      "name": "intro music plays",
+      "link": "https://music.163.com/album?id=79337749"
+    }
+  },
+  {
+    "name": "Witches",
+    "link": "https://music.163.com/song?id=1425214059",
+    "duration": "03:15",
+    "artists": [
+      {
+        "name": "Alice Phoebe Lou",
+        "link": "https://music.163.com/artist?id=14005821"
+      }
+    ],
+    "album": {
+      "name": "Witches",
+      "link": "https://music.163.com/album?id=85922023"
+    }
+  },
+  {
+    "name": "Peaky Blinders",
+    "link": "https://music.163.com/song?id=1386152432",
+    "duration": "06:11",
+    "artists": [
+      {
+        "name": "TV Themes",
+        "link": "https://music.163.com/artist?id=12833303"
+      }
+    ],
+    "album": {
+      "name": "TV Blinders - The Great Crime Drama TV Themes",
+      "link": "https://music.163.com/album?id=81113688"
+    }
+  },
+  {
+    "name": "Run the World!!!",
+    "link": "https://music.163.com/song?id=1376949118",
+    "duration": "02:56",
+    "artists": [
+      { "name": "Dayglow", "link": "https://music.163.com/artist?id=32722449" }
+    ],
+    "album": {
+      "name": "Fuzzybrain",
+      "link": "https://music.163.com/album?id=82491618"
+    }
+  },
+  {
+    "name": "San Narciso",
+    "link": "https://music.163.com/song?id=27579126",
+    "duration": "04:26",
+    "artists": [
+      {
+        "name": "Faded Paper Figures",
+        "link": "https://music.163.com/artist?id=813364"
+      }
+    ],
+    "album": {
+      "name": "The Matter",
+      "link": "https://music.163.com/album?id=2639470"
+    }
+  },
+  {
+    "name": "Nescience",
+    "link": "https://music.163.com/song?id=1461458408",
+    "duration": "03:58",
+    "artists": [
+      { "name": "Galdive", "link": "https://music.163.com/artist?id=30820517" }
+    ],
+    "album": {
+      "name": "Nescience",
+      "link": "https://music.163.com/album?id=92159012"
+    }
+  },
+  {
+    "name": "Heavens",
+    "link": "https://music.163.com/song?id=431826048",
+    "duration": "06:33",
+    "artists": [
+      {
+        "name": "Blood Groove & Kikis",
+        "link": "https://music.163.com/artist?id=311599"
+      }
+    ],
+    "album": {
+      "name": "Heavens",
+      "link": "https://music.163.com/album?id=34895022"
+    }
+  },
+  {
+    "name": "About Damn Time",
+    "link": "https://music.163.com/song?id=1938041426",
+    "duration": "03:11",
+    "artists": [
+      { "name": "Lizzo", "link": "https://music.163.com/artist?id=840165" }
+    ],
+    "album": {
+      "name": "About Damn Time",
+      "link": "https://music.163.com/album?id=143482307"
+    }
+  },
+  {
+    "name": "A Y Mạc (Remix)",
+    "link": "https://music.163.com/song?id=1900388703",
+    "duration": "06:12",
+    "artists": [
+      {
+        "name": "Terrace EDM",
+        "link": "https://music.163.com/artist?id=50703056"
+      }
+    ],
+    "album": {
+      "name": "A Y Mạc (Remix)",
+      "link": "https://music.163.com/album?id=137005842"
+    }
+  },
+  {
+    "name": "Running in the Night",
+    "link": "https://music.163.com/song?id=411921883",
+    "duration": "04:30",
+    "artists": [
+      { "name": "FM-84", "link": "https://music.163.com/artist?id=12046467" },
+      {
+        "name": "Ollie Wride",
+        "link": "https://music.163.com/artist?id=14756188"
+      }
+    ],
+    "album": {
+      "name": "Atlas",
+      "link": "https://music.163.com/album?id=34686652"
+    }
+  },
+  {
+    "name": "Black Samurai",
+    "link": "https://music.163.com/song?id=1402818475",
+    "duration": "03:18",
+    "artists": [
+      { "name": "WYR GEMI", "link": "https://music.163.com/artist?id=33698765" }
+    ],
+    "album": {
+      "name": "Black Samurai",
+      "link": "https://music.163.com/album?id=83216729"
+    }
+  },
+  {
+    "name": "Loving Strangers",
+    "link": "https://music.163.com/song?id=2788529",
+    "duration": "03:59",
+    "artists": [
+      {
+        "name": "Jocelyn Pook",
+        "link": "https://music.163.com/artist?id=61082"
+      },
+      { "name": "Russian Red", "link": "https://music.163.com/artist?id=72726" }
+    ],
+    "album": {
+      "name": "Habitación En Roma",
+      "link": "https://music.163.com/album?id=281067"
+    }
+  },
+  {
+    "name": "We Wanna (Radio Edit)",
+    "link": "https://music.163.com/song?id=32526226",
+    "duration": "03:52",
+    "artists": [
+      {
+        "name": "Alexandra Stan",
+        "link": "https://music.163.com/artist?id=48211"
+      },
+      { "name": "INNA", "link": "https://music.163.com/artist?id=60848" },
+      {
+        "name": "Daddy Yankee",
+        "link": "https://music.163.com/artist?id=31297"
+      }
+    ],
+    "album": {
+      "name": "We Wanna",
+      "link": "https://music.163.com/album?id=3162459"
+    }
+  }
+]
