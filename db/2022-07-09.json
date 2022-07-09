@@ -1,0 +1,479 @@
+[
+  {
+    "name": "Mars",
+    "link": "https://music.163.com/song?id=1399054580",
+    "duration": "02:33",
+    "artists": [
+      {
+        "name": "Alexander 23",
+        "link": "https://music.163.com/artist?id=31659734"
+      }
+    ],
+    "album": {
+      "name": "I'm Sorry I Love You",
+      "link": "https://music.163.com/album?id=82734153"
+    }
+  },
+  {
+    "name": "I Want You",
+    "link": "https://music.163.com/song?id=1317494332",
+    "duration": "03:04",
+    "artists": [
+      { "name": "Elaine", "link": "https://music.163.com/artist?id=1015123" }
+    ],
+    "album": { "name": "1", "link": "https://music.163.com/album?id=73876801" }
+  },
+  {
+    "name": "Friday",
+    "link": "https://music.163.com/song?id=1461792973",
+    "duration": "03:24",
+    "artists": [
+      {
+        "name": "Freak Slug",
+        "link": "https://music.163.com/artist?id=31991217"
+      },
+      { "name": "niquo", "link": "https://music.163.com/artist?id=30742747" }
+    ],
+    "album": {
+      "name": "Friday",
+      "link": "https://music.163.com/album?id=92235219"
+    }
+  },
+  {
+    "name": "Fancy Shoes",
+    "link": "https://music.163.com/song?id=1323304293",
+    "duration": "02:14",
+    "artists": [
+      {
+        "name": "The Walters",
+        "link": "https://music.163.com/artist?id=28085405"
+      }
+    ],
+    "album": {
+      "name": "Songs for Dads",
+      "link": "https://music.163.com/album?id=71855915"
+    }
+  },
+  {
+    "name": "Don't Let Me Let Go",
+    "link": "https://music.163.com/song?id=1962264183",
+    "duration": "03:25",
+    "artists": [
+      {
+        "name": "Dillon Francis",
+        "link": "https://music.163.com/artist?id=32514"
+      },
+      { "name": "ILLENIUM", "link": "https://music.163.com/artist?id=1050518" },
+      {
+        "name": "EVAN GIIA",
+        "link": "https://music.163.com/artist?id=12869559"
+      }
+    ],
+    "album": {
+      "name": "Don’t Let Me Let Go",
+      "link": "https://music.163.com/album?id=147805864"
+    }
+  },
+  {
+    "name": "Gameboy",
+    "link": "https://music.163.com/song?id=1417425535",
+    "duration": "02:21",
+    "artists": [
+      {
+        "name": "Jayden Bartels",
+        "link": "https://music.163.com/artist?id=29966768"
+      }
+    ],
+    "album": {
+      "name": "Gameboy",
+      "link": "https://music.163.com/album?id=85057537"
+    }
+  },
+  {
+    "name": "Break My Heart Myself (feat. Travis Barker)",
+    "link": "https://music.163.com/song?id=1842279568",
+    "duration": "02:32",
+    "artists": [
+      {
+        "name": "Bebe Rexha",
+        "link": "https://music.163.com/artist?id=336466"
+      },
+      {
+        "name": "Travis Barker",
+        "link": "https://music.163.com/artist?id=45190"
+      }
+    ],
+    "album": {
+      "name": "Better Mistakes",
+      "link": "https://music.163.com/album?id=126886823"
+    }
+  },
+  {
+    "name": "Victoria’s Secret",
+    "link": "https://music.163.com/song?id=1959431798",
+    "duration": "02:56",
+    "artists": [
+      { "name": "Jax", "link": "https://music.163.com/artist?id=46470983" }
+    ],
+    "album": {
+      "name": "Victoria’s Secret",
+      "link": "https://music.163.com/album?id=147150232"
+    }
+  },
+  {
+    "name": "peanut butter",
+    "link": "https://music.163.com/song?id=1451632464",
+    "duration": "02:40",
+    "artists": [
+      { "name": "Easy Life", "link": "https://music.163.com/artist?id=514457" }
+    ],
+    "album": {
+      "name": "see you later maybe never (demos)",
+      "link": "https://music.163.com/album?id=90092275"
+    }
+  },
+  {
+    "name": "Melatonin",
+    "link": "https://music.163.com/song?id=1320132571",
+    "duration": "04:54",
+    "artists": [
+      {
+        "name": "Carter Vail",
+        "link": "https://music.163.com/artist?id=30473489"
+      }
+    ],
+    "album": {
+      "name": "Melatonin",
+      "link": "https://music.163.com/album?id=74067014"
+    }
+  },
+  {
+    "name": "How Well Do You Know Me?",
+    "link": "https://music.163.com/song?id=1823472392",
+    "duration": "02:13",
+    "artists": [
+      { "name": "vietra", "link": "https://music.163.com/artist?id=12468266" }
+    ],
+    "album": {
+      "name": "Rewind",
+      "link": "https://music.163.com/album?id=123640798"
+    }
+  },
+  {
+    "name": "One And Only",
+    "link": "https://music.163.com/song?id=2117024",
+    "duration": "05:48",
+    "artists": [
+      { "name": "Adele", "link": "https://music.163.com/artist?id=46487" }
+    ],
+    "album": { "name": "21", "link": "https://music.163.com/album?id=213252" }
+  },
+  {
+    "name": "Sedona",
+    "link": "https://music.163.com/song?id=31066079",
+    "duration": "03:59",
+    "artists": [
+      { "name": "Houndmouth", "link": "https://music.163.com/artist?id=777127" }
+    ],
+    "album": {
+      "name": "Little Neon Limelight",
+      "link": "https://music.163.com/album?id=3109532"
+    }
+  },
+  {
+    "name": "Not Enough",
+    "link": "https://music.163.com/song?id=527520157",
+    "duration": "03:37",
+    "artists": [
+      { "name": "FUR", "link": "https://music.163.com/artist?id=35322225" }
+    ],
+    "album": {
+      "name": "Not Enough",
+      "link": "https://music.163.com/album?id=37142426"
+    }
+  },
+  {
+    "name": "Metamodernity",
+    "link": "https://music.163.com/song?id=1386693530",
+    "duration": "02:42",
+    "artists": [
+      { "name": "Vansire", "link": "https://music.163.com/artist?id=12348095" }
+    ],
+    "album": {
+      "name": "Metamodernity",
+      "link": "https://music.163.com/album?id=81157603"
+    }
+  },
+  {
+    "name": "Trouble",
+    "link": "https://music.163.com/song?id=37202373",
+    "duration": "03:46",
+    "artists": [
+      {
+        "name": "Cage the Elephant",
+        "link": "https://music.163.com/artist?id=89410"
+      }
+    ],
+    "album": {
+      "name": "Tell Me I'm Pretty",
+      "link": "https://music.163.com/album?id=3385125"
+    }
+  },
+  {
+    "name": "Borderlands 2 - This Ain't No Place For No Hero ( Short Change Hero) - Main Theme",
+    "link": "https://music.163.com/song?id=1355283511",
+    "duration": "03:56",
+    "artists": [
+      {
+        "name": "Geek Music",
+        "link": "https://music.163.com/artist?id=31361025"
+      }
+    ],
+    "album": {
+      "name": "Borderlands 2 - This Ain't No Place For No Hero ( Short Change Hero) - Main Theme",
+      "link": "https://music.163.com/album?id=78250513"
+    }
+  },
+  {
+    "name": "Düsseldorf",
+    "link": "https://music.163.com/song?id=407126531",
+    "duration": "03:47",
+    "artists": [
+      { "name": "Teleman", "link": "https://music.163.com/artist?id=791098" }
+    ],
+    "album": {
+      "name": "Brilliant Sanity",
+      "link": "https://music.163.com/album?id=34565142"
+    }
+  },
+  {
+    "name": "I Love Lady Gaga",
+    "link": "https://music.163.com/song?id=4447424",
+    "duration": "03:26",
+    "artists": [
+      {
+        "name": "77 Bombay Street",
+        "link": "https://music.163.com/artist?id=105983"
+      }
+    ],
+    "album": {
+      "name": "Up in the Sky",
+      "link": "https://music.163.com/album?id=448710"
+    }
+  },
+  {
+    "name": "Atone",
+    "link": "https://music.163.com/song?id=419646660",
+    "duration": "04:40",
+    "artists": [
+      {
+        "name": "Flora Cash",
+        "link": "https://music.163.com/artist?id=1132016"
+      }
+    ],
+    "album": {
+      "name": "Can Summer Love Last Forever?",
+      "link": "https://music.163.com/album?id=34751337"
+    }
+  },
+  {
+    "name": "You Belong To Me - (电影《怪物史莱克》插曲)",
+    "link": "https://music.163.com/song?id=5053289",
+    "duration": "02:41",
+    "artists": [
+      { "name": "Jason Wade", "link": "https://music.163.com/artist?id=36662" }
+    ],
+    "album": {
+      "name": "Shrek (Music From the Original Motion Picture)",
+      "link": "https://music.163.com/album?id=501303"
+    }
+  },
+  {
+    "name": "care less",
+    "link": "https://music.163.com/song?id=1875177023",
+    "duration": "03:18",
+    "artists": [
+      { "name": "LANY", "link": "https://music.163.com/artist?id=999460" }
+    ],
+    "album": {
+      "name": "gg bb xx",
+      "link": "https://music.163.com/album?id=132733098"
+    }
+  },
+  {
+    "name": "Universe Lovesong",
+    "link": "https://music.163.com/song?id=16590442",
+    "duration": "03:45",
+    "artists": [
+      { "name": "Laid Back", "link": "https://music.163.com/artist?id=66079" }
+    ],
+    "album": {
+      "name": "Happy Dreamer",
+      "link": "https://music.163.com/album?id=1530295"
+    }
+  },
+  {
+    "name": "She's Not Gone Yet but She's Leaving",
+    "link": "https://music.163.com/song?id=27790497",
+    "duration": "03:50",
+    "artists": [
+      {
+        "name": "The Fratellis",
+        "link": "https://music.163.com/artist?id=44279"
+      }
+    ],
+    "album": {
+      "name": "We Need Medicine",
+      "link": "https://music.163.com/album?id=2677540"
+    }
+  },
+  {
+    "name": "Lazy Sunny Days",
+    "link": "https://music.163.com/song?id=27879653",
+    "duration": "02:55",
+    "artists": [
+      {
+        "name": "The Parlotones",
+        "link": "https://music.163.com/artist?id=45052"
+      }
+    ],
+    "album": {
+      "name": "Shake It Up",
+      "link": "https://music.163.com/album?id=2688799"
+    }
+  },
+  {
+    "name": "Whiskey Fever",
+    "link": "https://music.163.com/song?id=419250870",
+    "duration": "02:37",
+    "artists": [
+      { "name": "DOROTHY", "link": "https://music.163.com/artist?id=1044136" }
+    ],
+    "album": {
+      "name": "ROCKISDEAD",
+      "link": "https://music.163.com/album?id=3443689"
+    }
+  },
+  {
+    "name": "Out Of The Way",
+    "link": "https://music.163.com/song?id=28946994",
+    "duration": "02:58",
+    "artists": [
+      {
+        "name": "The Good Sports",
+        "link": "https://music.163.com/artist?id=990217"
+      }
+    ],
+    "album": {
+      "name": "Mandarin Time EP",
+      "link": "https://music.163.com/album?id=2952717"
+    }
+  },
+  {
+    "name": "Three Rules of Discipline and the Eight Rules of Attention - (三大纪律八项注意)",
+    "link": "https://music.163.com/song?id=552175255",
+    "duration": "02:26",
+    "artists": [
+      {
+        "name": "Pete Seeger",
+        "link": "https://music.163.com/artist?id=41146"
+      },
+      {
+        "name": "Arlo Guthrie",
+        "link": "https://music.163.com/artist?id=27834"
+      }
+    ],
+    "album": {
+      "name": "Together in Concert (Remastered 1999)",
+      "link": "https://music.163.com/album?id=38319325"
+    }
+  },
+  {
+    "name": "八月",
+    "link": "https://music.163.com/song?id=29450761",
+    "duration": "05:08",
+    "artists": [
+      { "name": "七尾旅人", "link": "https://music.163.com/artist?id=14975" }
+    ],
+    "album": {
+      "name": "OMOIDE OVER DRIVE",
+      "link": "https://music.163.com/album?id=3029117"
+    }
+  },
+  {
+    "name": "No Woman No Cry",
+    "link": "https://music.163.com/song?id=16521106",
+    "duration": "05:18",
+    "artists": [
+      {
+        "name": "Bob Marley & The Wailers",
+        "link": "https://music.163.com/artist?id=129519"
+      },
+      {
+        "name": "Vincent Ford",
+        "link": "https://music.163.com/artist?id=13606708"
+      }
+    ],
+    "album": {
+      "name": "Rastaman Vibration",
+      "link": "https://music.163.com/album?id=1524355"
+    }
+  },
+  {
+    "name": "Pool",
+    "link": "https://music.163.com/song?id=1928957647",
+    "duration": "03:43",
+    "artists": [
+      {
+        "name": "Still Woozy",
+        "link": "https://music.163.com/artist?id=28085339"
+      },
+      {
+        "name": "Remi Wolf",
+        "link": "https://music.163.com/artist?id=33327163"
+      }
+    ],
+    "album": {
+      "name": "Pool",
+      "link": "https://music.163.com/album?id=141959147"
+    }
+  },
+  {
+    "name": "Cyanide",
+    "link": "https://music.163.com/song?id=1946050443",
+    "duration": "04:33",
+    "artists": [
+      {
+        "name": "The Chainsmokers",
+        "link": "https://music.163.com/artist?id=893484"
+      }
+    ],
+    "album": {
+      "name": "So Far So Good",
+      "link": "https://music.163.com/album?id=144704323"
+    }
+  },
+  {
+    "name": "Lose Yourself",
+    "link": "https://music.163.com/song?id=35301386",
+    "duration": "03:06",
+    "artists": [
+      {
+        "name": "David Garrett",
+        "link": "https://music.163.com/artist?id=31212"
+      },
+      {
+        "name": "Royal Philharmonic Orchestra",
+        "link": "https://music.163.com/artist?id=99412"
+      },
+      {
+        "name": "Franck van der Heijden",
+        "link": "https://music.163.com/artist?id=29687249"
+      }
+    ],
+    "album": {
+      "name": "Explosive (Deluxe)",
+      "link": "https://music.163.com/album?id=3309221"
+    }
+  }
+]
