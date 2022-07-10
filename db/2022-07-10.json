@@ -1,0 +1,461 @@
+[
+  {
+    "name": "Thank Me Later",
+    "link": "https://music.163.com/song?id=1370378324",
+    "duration": "03:23",
+    "artists": [
+      {
+        "name": "Anna of the North",
+        "link": "https://music.163.com/artist?id=1024012"
+      }
+    ],
+    "album": {
+      "name": "Thank Me Later",
+      "link": "https://music.163.com/album?id=79662999"
+    }
+  },
+  {
+    "name": "bliss",
+    "link": "https://music.163.com/song?id=1825802960",
+    "duration": "03:30",
+    "artists": [
+      { "name": "iogi", "link": "https://music.163.com/artist?id=27825562" }
+    ],
+    "album": {
+      "name": "everything's worth it",
+      "link": "https://music.163.com/album?id=124040784"
+    }
+  },
+  {
+    "name": "SORRY",
+    "link": "https://music.163.com/song?id=1918477133",
+    "duration": "02:19",
+    "artists": [
+      {
+        "name": "Josie Dunne",
+        "link": "https://music.163.com/artist?id=13164088"
+      },
+      { "name": "Phil Good", "link": "https://music.163.com/artist?id=757159" }
+    ],
+    "album": {
+      "name": "SORRY",
+      "link": "https://music.163.com/album?id=140058316"
+    }
+  },
+  {
+    "name": "Be the Man",
+    "link": "https://music.163.com/song?id=458725741",
+    "duration": "03:14",
+    "artists": [
+      {
+        "name": "Rag'N'Bone Man",
+        "link": "https://music.163.com/artist?id=1053202"
+      }
+    ],
+    "album": {
+      "name": "Human (Deluxe)",
+      "link": "https://music.163.com/album?id=35142853"
+    }
+  },
+  {
+    "name": "Freedom",
+    "link": "https://music.163.com/song?id=26145413",
+    "duration": "03:56",
+    "artists": [
+      {
+        "name": "Anthony Hamilton",
+        "link": "https://music.163.com/artist?id=27661"
+      },
+      {
+        "name": "Elayna Boynton",
+        "link": "https://music.163.com/artist?id=13469625"
+      }
+    ],
+    "album": {
+      "name": "Django Unchained",
+      "link": "https://music.163.com/album?id=2397062"
+    }
+  },
+  {
+    "name": "Nobody Compares To You",
+    "link": "https://music.163.com/song?id=511364880",
+    "duration": "03:51",
+    "artists": [
+      { "name": "Gryffin", "link": "https://music.163.com/artist?id=1181504" },
+      {
+        "name": "Katie Pearlman",
+        "link": "https://music.163.com/artist?id=29647208"
+      }
+    ],
+    "album": {
+      "name": "Nobody Compares To You",
+      "link": "https://music.163.com/album?id=36493248"
+    }
+  },
+  {
+    "name": "Keep Cold",
+    "link": "https://music.163.com/song?id=1405281921",
+    "duration": "03:56",
+    "artists": [
+      { "name": "Numcha", "link": "https://music.163.com/artist?id=33792055" }
+    ],
+    "album": {
+      "name": "Keep Cold",
+      "link": "https://music.163.com/album?id=83598702"
+    }
+  },
+  {
+    "name": "Barcelona Night",
+    "link": "https://music.163.com/song?id=1450328754",
+    "duration": "02:58",
+    "artists": [
+      {
+        "name": "Limón Limón",
+        "link": "https://music.163.com/artist?id=37093651"
+      }
+    ],
+    "album": {
+      "name": "Barcelona Night",
+      "link": "https://music.163.com/album?id=89852566"
+    }
+  },
+  {
+    "name": "Control",
+    "link": "https://music.163.com/song?id=1597845",
+    "duration": "03:34",
+    "artists": [
+      {
+        "name": "Jarle Bernhoft",
+        "link": "https://music.163.com/artist?id=36809"
+      }
+    ],
+    "album": {
+      "name": "Solidarity Breaks",
+      "link": "https://music.163.com/album?id=162594"
+    }
+  },
+  {
+    "name": "Walking On The Sun",
+    "link": "https://music.163.com/song?id=405393023",
+    "duration": "03:25",
+    "artists": [
+      { "name": "Smash Mouth", "link": "https://music.163.com/artist?id=74699" }
+    ],
+    "album": {
+      "name": "A Lot Like Love - Music From The Motion Picture (Album Version)",
+      "link": "https://music.163.com/album?id=34533740"
+    }
+  },
+  {
+    "name": "How Good We Had It",
+    "link": "https://music.163.com/song?id=1824012307",
+    "duration": "03:05",
+    "artists": [
+      { "name": "MADILYN", "link": "https://music.163.com/artist?id=69270" }
+    ],
+    "album": {
+      "name": "How Good We Had It",
+      "link": "https://music.163.com/album?id=123719209"
+    }
+  },
+  {
+    "name": "Crazy Bird",
+    "link": "https://music.163.com/song?id=27845535",
+    "duration": "04:01",
+    "artists": [
+      {
+        "name": "Wild Child",
+        "link": "https://music.163.com/artist?id=37265018"
+      }
+    ],
+    "album": {
+      "name": "The Runaround",
+      "link": "https://music.163.com/album?id=2684836"
+    }
+  },
+  {
+    "name": "Kids Are Born Stars",
+    "link": "https://music.163.com/song?id=1959988586",
+    "duration": "03:07",
+    "artists": [
+      { "name": "Lauv", "link": "https://music.163.com/artist?id=1057226" }
+    ],
+    "album": {
+      "name": "Kids Are Born Stars",
+      "link": "https://music.163.com/album?id=143188022"
+    }
+  },
+  {
+    "name": "Better Off",
+    "link": "https://music.163.com/song?id=16607021",
+    "duration": "02:52",
+    "artists": [
+      { "name": "Lindsey Ray", "link": "https://music.163.com/artist?id=65971" }
+    ],
+    "album": {
+      "name": "Goodbye From California",
+      "link": "https://music.163.com/album?id=1530653"
+    }
+  },
+  {
+    "name": "Revvin' My Cj7",
+    "link": "https://music.163.com/song?id=530801079",
+    "duration": "02:48",
+    "artists": [
+      {
+        "name": "Summer Salt",
+        "link": "https://music.163.com/artist?id=13057602"
+      }
+    ],
+    "album": {
+      "name": "So Polite",
+      "link": "https://music.163.com/album?id=37099877"
+    }
+  },
+  {
+    "name": "SAD (Clap Your Hands)",
+    "link": "https://music.163.com/song?id=1309795632",
+    "duration": "02:32",
+    "artists": [
+      {
+        "name": "Young Rising Sons",
+        "link": "https://music.163.com/artist?id=947185"
+      }
+    ],
+    "album": {
+      "name": "SAD / Scatterbrain",
+      "link": "https://music.163.com/album?id=73315634"
+    }
+  },
+  {
+    "name": "clown",
+    "link": "https://music.163.com/song?id=1484908727",
+    "duration": "02:17",
+    "artists": [
+      { "name": "updog", "link": "https://music.163.com/artist?id=32708051" }
+    ],
+    "album": {
+      "name": "clown",
+      "link": "https://music.163.com/album?id=96418546"
+    }
+  },
+  {
+    "name": "Freak (feat. REI AMI)",
+    "link": "https://music.163.com/song?id=1429857341",
+    "duration": "03:14",
+    "artists": [
+      {
+        "name": "Sub Urban",
+        "link": "https://music.163.com/artist?id=29722383"
+      },
+      { "name": "REI AMI", "link": "https://music.163.com/artist?id=32799796" }
+    ],
+    "album": {
+      "name": "Thrill Seeker",
+      "link": "https://music.163.com/album?id=86393157"
+    }
+  },
+  {
+    "name": "North",
+    "link": "https://music.163.com/song?id=1892220673",
+    "duration": "03:34",
+    "artists": [
+      {
+        "name": "Fly By Midnight",
+        "link": "https://music.163.com/artist?id=1163027"
+      }
+    ],
+    "album": {
+      "name": "Silver Crane",
+      "link": "https://music.163.com/album?id=135668790"
+    }
+  },
+  {
+    "name": "The Lightning I",
+    "link": "https://music.163.com/song?id=1928967007",
+    "duration": "03:01",
+    "artists": [
+      { "name": "Arcade Fire", "link": "https://music.163.com/artist?id=85525" }
+    ],
+    "album": {
+      "name": "The Lightning I, II",
+      "link": "https://music.163.com/album?id=141960696"
+    }
+  },
+  {
+    "name": "How Long Will I Love You",
+    "link": "https://music.163.com/song?id=27810037",
+    "duration": "02:34",
+    "artists": [
+      {
+        "name": "Ellie Goulding",
+        "link": "https://music.163.com/artist?id=56598"
+      }
+    ],
+    "album": {
+      "name": "About Time",
+      "link": "https://music.163.com/album?id=2678855"
+    }
+  },
+  {
+    "name": "Oh My Love",
+    "link": "https://music.163.com/song?id=1475050",
+    "duration": "02:45",
+    "artists": [
+      { "name": "John Lennon", "link": "https://music.163.com/artist?id=35333" }
+    ],
+    "album": {
+      "name": "Working Class Hero: The Definitive Lennon",
+      "link": "https://music.163.com/album?id=150929"
+    }
+  },
+  {
+    "name": "Nothing’s Gonna Stop Us Now",
+    "link": "https://music.163.com/song?id=21680418",
+    "duration": "04:26",
+    "artists": [
+      { "name": "Starship", "link": "https://music.163.com/artist?id=74939" }
+    ],
+    "album": {
+      "name": "Greatest Hits",
+      "link": "https://music.163.com/album?id=1995771"
+    }
+  },
+  {
+    "name": "The Adults Are Talking",
+    "link": "https://music.163.com/song?id=1438724761",
+    "duration": "05:09",
+    "artists": [
+      {
+        "name": "The Strokes",
+        "link": "https://music.163.com/artist?id=102015"
+      }
+    ],
+    "album": {
+      "name": "The New Abnormal",
+      "link": "https://music.163.com/album?id=87776761"
+    }
+  },
+  {
+    "name": "I'm Not the Only One",
+    "link": "https://music.163.com/song?id=28586064",
+    "duration": "03:59",
+    "artists": [
+      { "name": "Sam Smith", "link": "https://music.163.com/artist?id=740216" }
+    ],
+    "album": {
+      "name": "In The Lonely Hour",
+      "link": "https://music.163.com/album?id=2786650"
+    }
+  },
+  {
+    "name": "Stuck In The Middle",
+    "link": "https://music.163.com/song?id=25849549",
+    "duration": "04:08",
+    "artists": [
+      { "name": "Mika", "link": "https://music.163.com/artist?id=38849" }
+    ],
+    "album": {
+      "name": "Life In Cartoon Motion (Japan Edition)",
+      "link": "https://music.163.com/album?id=2335133"
+    }
+  },
+  {
+    "name": "Someday",
+    "link": "https://music.163.com/song?id=1960129750",
+    "duration": "03:01",
+    "artists": [
+      { "name": "Brooks", "link": "https://music.163.com/artist?id=49308" },
+      {
+        "name": "Isabèl Usher",
+        "link": "https://music.163.com/artist?id=53214418"
+      }
+    ],
+    "album": {
+      "name": "Someday",
+      "link": "https://music.163.com/album?id=147371448"
+    }
+  },
+  {
+    "name": "Infinity",
+    "link": "https://music.163.com/song?id=1442226465",
+    "duration": "02:36",
+    "artists": [
+      { "name": "WYR GEMI", "link": "https://music.163.com/artist?id=33698765" }
+    ],
+    "album": {
+      "name": "Heracles",
+      "link": "https://music.163.com/album?id=88302909"
+    }
+  },
+  {
+    "name": "Never Really Loved Me",
+    "link": "https://music.163.com/song?id=1959952735",
+    "duration": "03:22",
+    "artists": [
+      { "name": "Kygo", "link": "https://music.163.com/artist?id=844410" },
+      {
+        "name": "Dean Lewis",
+        "link": "https://music.163.com/artist?id=12132624"
+      }
+    ],
+    "album": {
+      "name": "Never Really Loved Me",
+      "link": "https://music.163.com/album?id=147320960"
+    }
+  },
+  {
+    "name": "Cold Night Colors",
+    "link": "https://music.163.com/song?id=1924530",
+    "duration": "02:12",
+    "artists": [
+      {
+        "name": "Robert J. P. Oberg",
+        "link": "https://music.163.com/artist?id=42531"
+      }
+    ],
+    "album": { "name": "Lu", "link": "https://music.163.com/album?id=194090" }
+  },
+  {
+    "name": "乌鸡哥 (Hadr Bounce)",
+    "link": "https://music.163.com/song?id=1907584451",
+    "duration": "02:35",
+    "artists": [
+      { "name": "DJ KAI", "link": "https://music.163.com/artist?id=35244973" }
+    ],
+    "album": {
+      "name": "VINA HOUSE (2021)",
+      "link": "https://music.163.com/album?id=137919820"
+    }
+  },
+  {
+    "name": "omg",
+    "link": "https://music.163.com/song?id=1862749173",
+    "duration": "02:30",
+    "artists": [
+      {
+        "name": "Marian Hill",
+        "link": "https://music.163.com/artist?id=893433"
+      }
+    ],
+    "album": {
+      "name": "omg",
+      "link": "https://music.163.com/album?id=130646660"
+    }
+  },
+  {
+    "name": "Beethoven's 5 Secrets",
+    "link": "https://music.163.com/song?id=19579117",
+    "duration": "05:09",
+    "artists": [
+      {
+        "name": "The Piano Guys",
+        "link": "https://music.163.com/artist?id=99093"
+      }
+    ],
+    "album": {
+      "name": "Beethoven's 5 Secrets",
+      "link": "https://music.163.com/album?id=1804059"
+    }
+  }
+]
