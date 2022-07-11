@@ -1,0 +1,453 @@
+[
+  {
+    "name": "Todo De Ti - (你的一切)",
+    "link": "https://music.163.com/song?id=1846290383",
+    "duration": "03:19",
+    "artists": [
+      {
+        "name": "Rauw Alejandro",
+        "link": "https://music.163.com/artist?id=13497624"
+      }
+    ],
+    "album": {
+      "name": "Todo De Ti",
+      "link": "https://music.163.com/album?id=127684051"
+    }
+  },
+  {
+    "name": "Thunderbird",
+    "link": "https://music.163.com/song?id=1469168121",
+    "duration": "03:29",
+    "artists": [
+      {
+        "name": "Ryan Taubert",
+        "link": "https://music.163.com/artist?id=1057026"
+      }
+    ],
+    "album": {
+      "name": "Thunderbird",
+      "link": "https://music.163.com/album?id=93632855"
+    }
+  },
+  {
+    "name": "Crying",
+    "link": "https://music.163.com/song?id=1486944078",
+    "duration": "03:28",
+    "artists": [
+      {
+        "name": "Still Corners",
+        "link": "https://music.163.com/artist?id=101335"
+      }
+    ],
+    "album": {
+      "name": "Crying",
+      "link": "https://music.163.com/album?id=96763371"
+    }
+  },
+  {
+    "name": "Stay True (feat. Helena)",
+    "link": "https://music.163.com/song?id=530057142",
+    "duration": "05:05",
+    "artists": [
+      {
+        "name": "Men I Trust",
+        "link": "https://music.163.com/artist?id=1132243"
+      },
+      { "name": "Helena", "link": "https://music.163.com/artist?id=1050707" }
+    ],
+    "album": {
+      "name": "Men I Trust",
+      "link": "https://music.163.com/album?id=37099773"
+    }
+  },
+  {
+    "name": "Wisdom",
+    "link": "https://music.163.com/song?id=4344799",
+    "duration": "03:34",
+    "artists": [
+      {
+        "name": "The Guggenheim Grotto",
+        "link": "https://music.163.com/artist?id=102059"
+      }
+    ],
+    "album": {
+      "name": "The Universe Is Laughing",
+      "link": "https://music.163.com/album?id=438665"
+    }
+  },
+  {
+    "name": "Light Switch",
+    "link": "https://music.163.com/song?id=1913421961",
+    "duration": "03:05",
+    "artists": [
+      {
+        "name": "Charlie Puth",
+        "link": "https://music.163.com/artist?id=90331"
+      }
+    ],
+    "album": {
+      "name": "Light Switch",
+      "link": "https://music.163.com/album?id=139125249"
+    }
+  },
+  {
+    "name": "summer depression",
+    "link": "https://music.163.com/song?id=1334899412",
+    "duration": "02:31",
+    "artists": [
+      {
+        "name": "girl in red",
+        "link": "https://music.163.com/artist?id=28899299"
+      }
+    ],
+    "album": {
+      "name": "chapter 1",
+      "link": "https://music.163.com/album?id=74957497"
+    }
+  },
+  {
+    "name": "Tango",
+    "link": "https://music.163.com/song?id=1318511461",
+    "duration": "03:06",
+    "artists": [
+      { "name": "ABIR", "link": "https://music.163.com/artist?id=12404116" }
+    ],
+    "album": {
+      "name": "MINT",
+      "link": "https://music.163.com/album?id=73950012"
+    }
+  },
+  {
+    "name": "Take It Back",
+    "link": "https://music.163.com/song?id=1806908274",
+    "duration": "02:40",
+    "artists": [
+      { "name": "Maro", "link": "https://music.163.com/artist?id=46609937" }
+    ],
+    "album": {
+      "name": "Take It Back",
+      "link": "https://music.163.com/album?id=120854934"
+    }
+  },
+  {
+    "name": "Honeypie",
+    "link": "https://music.163.com/song?id=1490294539",
+    "duration": "02:15",
+    "artists": [
+      { "name": "JAWNY", "link": "https://music.163.com/artist?id=13536299" }
+    ],
+    "album": {
+      "name": "For Abby",
+      "link": "https://music.163.com/album?id=97400712"
+    }
+  },
+  {
+    "name": "Vinyl is My Bible",
+    "link": "https://music.163.com/song?id=484344232",
+    "duration": "03:33",
+    "artists": [
+      {
+        "name": "Brother Strut",
+        "link": "https://music.163.com/artist?id=12532609"
+      }
+    ],
+    "album": {
+      "name": "First Strut is the Deepest",
+      "link": "https://music.163.com/album?id=35626977"
+    }
+  },
+  {
+    "name": "Who Are You, Really?",
+    "link": "https://music.163.com/song?id=21122528",
+    "duration": "02:27",
+    "artists": [
+      { "name": "Mikky Ekko", "link": "https://music.163.com/artist?id=40141" }
+    ],
+    "album": {
+      "name": "Reds",
+      "link": "https://music.163.com/album?id=1954299"
+    }
+  },
+  {
+    "name": "Miami Nights",
+    "link": "https://music.163.com/song?id=532776022",
+    "duration": "03:40",
+    "artists": [
+      { "name": "Work Drugs", "link": "https://music.163.com/artist?id=105431" }
+    ],
+    "album": {
+      "name": "Miami Nights",
+      "link": "https://music.163.com/album?id=37253695"
+    }
+  },
+  {
+    "name": "Down By The Water",
+    "link": "https://music.163.com/song?id=27713467",
+    "duration": "03:28",
+    "artists": [
+      { "name": "The Drums", "link": "https://music.163.com/artist?id=102553" }
+    ],
+    "album": {
+      "name": "I Felt Stupid / Down By The Water",
+      "link": "https://music.163.com/album?id=2603393"
+    }
+  },
+  {
+    "name": "Mister Sandman",
+    "link": "https://music.163.com/song?id=18315319",
+    "duration": "02:15",
+    "artists": [
+      { "name": "Pomplamoose", "link": "https://music.163.com/artist?id=98766" }
+    ],
+    "album": {
+      "name": "Tribute to Famous People",
+      "link": "https://music.163.com/album?id=1681143"
+    }
+  },
+  {
+    "name": "400 Trips",
+    "link": "https://music.163.com/song?id=27552642",
+    "duration": "03:35",
+    "artists": [
+      { "name": "Berndsen", "link": "https://music.163.com/artist?id=813202" }
+    ],
+    "album": {
+      "name": "Lover in the Dark",
+      "link": "https://music.163.com/album?id=2635058"
+    }
+  },
+  {
+    "name": "Stay Loose",
+    "link": "https://music.163.com/song?id=29365650",
+    "duration": "02:40",
+    "artists": [
+      { "name": "BRONCHO", "link": "https://music.163.com/artist?id=1015040" }
+    ],
+    "album": {
+      "name": "Just Enough Hip To Be Woman",
+      "link": "https://music.163.com/album?id=3011750"
+    }
+  },
+  {
+    "name": "Afterthought",
+    "link": "https://music.163.com/song?id=1481691186",
+    "duration": "03:14",
+    "artists": [
+      { "name": "Joji", "link": "https://music.163.com/artist?id=12203295" },
+      { "name": "BENEE", "link": "https://music.163.com/artist?id=32539905" }
+    ],
+    "album": {
+      "name": "Nectar",
+      "link": "https://music.163.com/album?id=95850666"
+    }
+  },
+  {
+    "name": "Good Times",
+    "link": "https://music.163.com/song?id=470601510",
+    "duration": "03:35",
+    "artists": [
+      { "name": "Mando Diao", "link": "https://music.163.com/artist?id=66359" }
+    ],
+    "album": {
+      "name": "Good Times",
+      "link": "https://music.163.com/album?id=35338173"
+    }
+  },
+  {
+    "name": "Cut ****",
+    "link": "https://music.163.com/song?id=17229083",
+    "duration": "02:51",
+    "artists": [
+      { "name": "Mr. Oizo", "link": "https://music.163.com/artist?id=67521" }
+    ],
+    "album": {
+      "name": "Lambs Anger",
+      "link": "https://music.163.com/album?id=1587275"
+    }
+  },
+  {
+    "name": "Have You Ever Seen the Rain?",
+    "link": "https://music.163.com/song?id=1142600",
+    "duration": "02:40",
+    "artists": [
+      {
+        "name": "Creedence Clearwater Revival",
+        "link": "https://music.163.com/artist?id=29964"
+      }
+    ],
+    "album": {
+      "name": "Really The Best",
+      "link": "https://music.163.com/album?id=118477"
+    }
+  },
+  {
+    "name": "White Tee",
+    "link": "https://music.163.com/song?id=1461564106",
+    "duration": "03:31",
+    "artists": [
+      {
+        "name": "Summer Walker",
+        "link": "https://music.163.com/artist?id=13806114"
+      },
+      { "name": "NO1-NOAH", "link": "https://music.163.com/artist?id=12646239" }
+    ],
+    "album": {
+      "name": "Life On Earth - EP",
+      "link": "https://music.163.com/album?id=92191232"
+    }
+  },
+  {
+    "name": "Yankee Doodle/Battle Cry Of Freedom",
+    "link": "https://music.163.com/song?id=20531567",
+    "duration": "03:43",
+    "artists": [
+      {
+        "name": "Craig Duncan",
+        "link": "https://music.163.com/artist?id=30992"
+      }
+    ],
+    "album": {
+      "name": "Country Mountain America",
+      "link": "https://music.163.com/album?id=1911253"
+    }
+  },
+  {
+    "name": "Nice to Meet You",
+    "link": "https://music.163.com/song?id=1904712686",
+    "duration": "04:10",
+    "artists": [
+      {
+        "name": "Cody Simpson",
+        "link": "https://music.163.com/artist?id=30777"
+      }
+    ],
+    "album": {
+      "name": "Nice to Meet You",
+      "link": "https://music.163.com/album?id=137704136"
+    }
+  },
+  {
+    "name": "Riptide",
+    "link": "https://music.163.com/song?id=1946051346",
+    "duration": "02:51",
+    "artists": [
+      {
+        "name": "The Chainsmokers",
+        "link": "https://music.163.com/artist?id=893484"
+      }
+    ],
+    "album": {
+      "name": "So Far So Good",
+      "link": "https://music.163.com/album?id=144704323"
+    }
+  },
+  {
+    "name": "Down on Your Knees",
+    "link": "https://music.163.com/song?id=419646661",
+    "duration": "04:08",
+    "artists": [
+      {
+        "name": "Flora Cash",
+        "link": "https://music.163.com/artist?id=1132016"
+      }
+    ],
+    "album": {
+      "name": "Can Summer Love Last Forever?",
+      "link": "https://music.163.com/album?id=34751337"
+    }
+  },
+  {
+    "name": "Gotta Let U Go",
+    "link": "https://music.163.com/song?id=1921023335",
+    "duration": "02:29",
+    "artists": [
+      {
+        "name": "Don Diablo",
+        "link": "https://music.163.com/artist?id=139072"
+      },
+      { "name": "Dominica", "link": "https://music.163.com/artist?id=53289" }
+    ],
+    "album": {
+      "name": "Gotta Let U Go",
+      "link": "https://music.163.com/album?id=140511329"
+    }
+  },
+  {
+    "name": "最好的我",
+    "link": "https://music.163.com/song?id=1409151125",
+    "duration": "05:14",
+    "artists": [
+      { "name": "龔芝怡", "link": "https://music.163.com/artist?id=28872996" }
+    ],
+    "album": {
+      "name": "55:38:07",
+      "link": "https://music.163.com/album?id=84054968"
+    }
+  },
+  {
+    "name": "Hot Shit (feat. Ye & Lil Durk)",
+    "link": "https://music.163.com/song?id=1960544752",
+    "duration": "03:31",
+    "artists": [
+      { "name": "Cardi B", "link": "https://music.163.com/artist?id=12504253" },
+      { "name": "Kanye West", "link": "https://music.163.com/artist?id=37520" },
+      { "name": "Lil Durk", "link": "https://music.163.com/artist?id=757209" }
+    ],
+    "album": {
+      "name": "Hot Shit (feat. Kanye West & Lil Durk)",
+      "link": "https://music.163.com/album?id=147476130"
+    }
+  },
+  {
+    "name": "If I Were a Boy",
+    "link": "https://music.163.com/song?id=2188283",
+    "duration": "04:09",
+    "artists": [
+      { "name": "Beyoncé", "link": "https://music.163.com/artist?id=48436" }
+    ],
+    "album": {
+      "name": "I Am... Sasha Fierce (Deluxe Version)",
+      "link": "https://music.163.com/album?id=220719"
+    }
+  },
+  {
+    "name": "Lose Control",
+    "link": "https://music.163.com/song?id=1850718535",
+    "duration": "03:46",
+    "artists": [
+      { "name": "Hedley", "link": "https://music.163.com/artist?id=93826" }
+    ],
+    "album": {
+      "name": "红心安利-欧美广告BGM Vol.1",
+      "link": "https://music.163.com/album?id=128489813"
+    }
+  },
+  {
+    "name": "Nothing's Gonna Change My Love For You",
+    "link": "https://music.163.com/song?id=2080326",
+    "duration": "03:47",
+    "artists": [
+      { "name": "Westlife", "link": "https://music.163.com/artist?id=45839" }
+    ],
+    "album": {
+      "name": "The Rose",
+      "link": "https://music.163.com/album?id=209556"
+    }
+  },
+  {
+    "name": "Flashbang dance (feat. n0thing) - (PC游戏《CS:GO》音乐盒)",
+    "link": "https://music.163.com/song?id=1882114750",
+    "duration": "02:39",
+    "artists": [
+      {
+        "name": "The Verkkars",
+        "link": "https://music.163.com/artist?id=31523273"
+      },
+      { "name": "n0thing", "link": "https://music.163.com/artist?id=49939598" }
+    ],
+    "album": {
+      "name": "Flashbang dance (feat. n0thing)",
+      "link": "https://music.163.com/album?id=133899918"
+    }
+  }
+]
