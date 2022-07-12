@@ -1,0 +1,468 @@
+[
+  {
+    "name": "Feels Good to Laugh",
+    "link": "https://music.163.com/song?id=1460105064",
+    "duration": "02:49",
+    "artists": [
+      {
+        "name": "Honeywhip",
+        "link": "https://music.163.com/artist?id=35797687"
+      }
+    ],
+    "album": {
+      "name": "Feels Good to Laugh",
+      "link": "https://music.163.com/album?id=91916800"
+    }
+  },
+  {
+    "name": "Weather Any Storm",
+    "link": "https://music.163.com/song?id=1439166578",
+    "duration": "02:40",
+    "artists": [
+      {
+        "name": "Cody Francis",
+        "link": "https://music.163.com/artist?id=28766743"
+      }
+    ],
+    "album": {
+      "name": "Weather Any Storm",
+      "link": "https://music.163.com/album?id=87830174"
+    }
+  },
+  {
+    "name": "Free With You",
+    "link": "https://music.163.com/song?id=1425763494",
+    "duration": "02:48",
+    "artists": [
+      { "name": "Rnla", "link": "https://music.163.com/artist?id=31183880" },
+      { "name": "yaeow", "link": "https://music.163.com/artist?id=33979386" }
+    ],
+    "album": {
+      "name": "Free With You",
+      "link": "https://music.163.com/album?id=85963100"
+    }
+  },
+  {
+    "name": "when was it over?",
+    "link": "https://music.163.com/song?id=1838887717",
+    "duration": "03:38",
+    "artists": [
+      {
+        "name": "Sasha Alex Sloan",
+        "link": "https://music.163.com/artist?id=12646102"
+      },
+      { "name": "Sam Hunt", "link": "https://music.163.com/artist?id=942264" }
+    ],
+    "album": {
+      "name": "when was it over?",
+      "link": "https://music.163.com/album?id=126273263"
+    }
+  },
+  {
+    "name": "Car Crash in G Major - (G大调上的车祸)",
+    "link": "https://music.163.com/song?id=1475040295",
+    "duration": "02:12",
+    "artists": [
+      {
+        "name": "fanclubwallet",
+        "link": "https://music.163.com/artist?id=35354287"
+      }
+    ],
+    "album": {
+      "name": "Car Crash in G Major",
+      "link": "https://music.163.com/album?id=94671431"
+    }
+  },
+  {
+    "name": "Carlos Gardel, Alfredo Le Pera: Por Una Cabeza - (加德尔：一步之遥)",
+    "link": "https://music.163.com/song?id=27540404",
+    "duration": "03:01",
+    "artists": [
+      { "name": "Martynas", "link": "https://music.163.com/artist?id=810011" },
+      {
+        "name": "David Garrett",
+        "link": "https://music.163.com/artist?id=31212"
+      }
+    ],
+    "album": {
+      "name": "Martynas",
+      "link": "https://music.163.com/album?id=2627983"
+    }
+  },
+  {
+    "name": "Alright, Okay",
+    "link": "https://music.163.com/song?id=1482565876",
+    "duration": "03:10",
+    "artists": [
+      {
+        "name": "Johnny Cattini",
+        "link": "https://music.163.com/artist?id=34902521"
+      }
+    ],
+    "album": {
+      "name": "Soul Ride Along EP",
+      "link": "https://music.163.com/album?id=96006969"
+    }
+  },
+  {
+    "name": "Still Here (feat. Azuria Sky)",
+    "link": "https://music.163.com/song?id=1459331815",
+    "duration": "02:38",
+    "artists": [
+      {
+        "name": "Adib Sin",
+        "link": "https://music.163.com/artist?id=12244027"
+      },
+      {
+        "name": "Azuria Sky",
+        "link": "https://music.163.com/artist?id=12914272"
+      }
+    ],
+    "album": {
+      "name": "Still Here (feat. Azuria Sky)",
+      "link": "https://music.163.com/album?id=91766388"
+    }
+  },
+  {
+    "name": "Red Light",
+    "link": "https://music.163.com/song?id=1312335324",
+    "duration": "02:53",
+    "artists": [
+      { "name": "Cavego", "link": "https://music.163.com/artist?id=12047877" },
+      { "name": "Arielle", "link": "https://music.163.com/artist?id=48421" }
+    ],
+    "album": {
+      "name": "Red Light",
+      "link": "https://music.163.com/album?id=73573200"
+    }
+  },
+  {
+    "name": "I Got to Live",
+    "link": "https://music.163.com/song?id=1470556501",
+    "duration": "03:30",
+    "artists": [
+      {
+        "name": "Sam Fischer",
+        "link": "https://music.163.com/artist?id=13080112"
+      }
+    ],
+    "album": {
+      "name": "Homework",
+      "link": "https://music.163.com/album?id=94521376"
+    }
+  },
+  {
+    "name": "Sofia",
+    "link": "https://music.163.com/song?id=1380239125",
+    "duration": "03:08",
+    "artists": [
+      { "name": "Clairo", "link": "https://music.163.com/artist?id=12191215" }
+    ],
+    "album": {
+      "name": "Immunity",
+      "link": "https://music.163.com/album?id=80748468"
+    }
+  },
+  {
+    "name": "Hot Rod",
+    "link": "https://music.163.com/song?id=1376949123",
+    "duration": "03:24",
+    "artists": [
+      { "name": "Dayglow", "link": "https://music.163.com/artist?id=32722449" }
+    ],
+    "album": {
+      "name": "Fuzzybrain",
+      "link": "https://music.163.com/album?id=82491618"
+    }
+  },
+  {
+    "name": "Limbs of Faith",
+    "link": "https://music.163.com/song?id=476987164",
+    "duration": "02:49",
+    "artists": [
+      { "name": "Beauvois", "link": "https://music.163.com/artist?id=12061205" }
+    ],
+    "album": {
+      "name": "Limbs of Faith",
+      "link": "https://music.163.com/album?id=35455445"
+    }
+  },
+  {
+    "name": "Favorite Holiday",
+    "link": "https://music.163.com/song?id=530801083",
+    "duration": "02:57",
+    "artists": [
+      {
+        "name": "Summer Salt",
+        "link": "https://music.163.com/artist?id=13057602"
+      }
+    ],
+    "album": {
+      "name": "Favorite Holiday",
+      "link": "https://music.163.com/album?id=37099879"
+    }
+  },
+  {
+    "name": "Beach Bummer",
+    "link": "https://music.163.com/song?id=40157832",
+    "duration": "02:28",
+    "artists": [
+      {
+        "name": "No Vacation",
+        "link": "https://music.163.com/artist?id=11970073"
+      }
+    ],
+    "album": {
+      "name": "Amo XO",
+      "link": "https://music.163.com/album?id=3439426"
+    }
+  },
+  {
+    "name": "Sharks",
+    "link": "https://music.163.com/song?id=1958588078",
+    "duration": "03:10",
+    "artists": [
+      {
+        "name": "Imagine Dragons",
+        "link": "https://music.163.com/artist?id=94779"
+      }
+    ],
+    "album": {
+      "name": "Sharks",
+      "link": "https://music.163.com/album?id=147011502"
+    }
+  },
+  {
+    "name": "Sthlm Sunset",
+    "link": "https://music.163.com/song?id=1825986183",
+    "duration": "03:01",
+    "artists": [
+      { "name": "Ehrling", "link": "https://music.163.com/artist?id=12048130" }
+    ],
+    "album": {
+      "name": "Give Me Summer",
+      "link": "https://music.163.com/album?id=124086450"
+    }
+  },
+  {
+    "name": "Faded",
+    "link": "https://music.163.com/song?id=1300697627",
+    "duration": "03:10",
+    "artists": [
+      { "name": "Ooyy", "link": "https://music.163.com/artist?id=28767786" }
+    ],
+    "album": {
+      "name": "Faded",
+      "link": "https://music.163.com/album?id=72249696"
+    }
+  },
+  {
+    "name": "Parties",
+    "link": "https://music.163.com/song?id=484365611",
+    "duration": "02:49",
+    "artists": [
+      {
+        "name": "Jake Miller",
+        "link": "https://music.163.com/artist?id=776761"
+      }
+    ],
+    "album": {
+      "name": "2:00am in LA",
+      "link": "https://music.163.com/album?id=35630260"
+    }
+  },
+  {
+    "name": "Another One",
+    "link": "https://music.163.com/song?id=33071094",
+    "duration": "02:40",
+    "artists": [
+      { "name": "Mac Demarco", "link": "https://music.163.com/artist?id=40276" }
+    ],
+    "album": {
+      "name": "Another One",
+      "link": "https://music.163.com/album?id=3180016"
+    }
+  },
+  {
+    "name": "New Girl",
+    "link": "https://music.163.com/song?id=1342641500",
+    "duration": "03:01",
+    "artists": [
+      { "name": "FINNEAS", "link": "https://music.163.com/artist?id=12676847" }
+    ],
+    "album": {
+      "name": "New Girl",
+      "link": "https://music.163.com/album?id=75354297"
+    }
+  },
+  {
+    "name": "Breathin'",
+    "link": "https://music.163.com/song?id=1486529930",
+    "duration": "02:43",
+    "artists": [
+      { "name": "Castion", "link": "https://music.163.com/artist?id=27687018" },
+      {
+        "name": "Chester Young",
+        "link": "https://music.163.com/artist?id=13703846"
+      }
+    ],
+    "album": {
+      "name": "Breathin'",
+      "link": "https://music.163.com/album?id=96681576"
+    }
+  },
+  {
+    "name": "Den sista sången - (落幕之曲)",
+    "link": "https://music.163.com/song?id=413834574",
+    "duration": "05:16",
+    "artists": [
+      { "name": "Kent", "link": "https://music.163.com/artist?id=95276" }
+    ],
+    "album": {
+      "name": "Då Som Nu För Alltid",
+      "link": "https://music.163.com/album?id=34701635"
+    }
+  },
+  {
+    "name": "It's 4 Am I'm Lying Here And Thinking About You...",
+    "link": "https://music.163.com/song?id=1462815867",
+    "duration": "04:09",
+    "artists": [
+      { "name": "WAV", "link": "https://music.163.com/artist?id=1084125" }
+    ],
+    "album": {
+      "name": "It's 4 Am I'm Lying Here And Thinking About You...",
+      "link": "https://music.163.com/album?id=92317561"
+    }
+  },
+  {
+    "name": "Pelicans We",
+    "link": "https://music.163.com/song?id=33111368",
+    "duration": "03:27",
+    "artists": [
+      {
+        "name": "Cosmo Sheldrake",
+        "link": "https://music.163.com/artist?id=905915"
+      }
+    ],
+    "album": {
+      "name": "Pelicans We",
+      "link": "https://music.163.com/album?id=3184279"
+    }
+  },
+  {
+    "name": "Goodbye Baby",
+    "link": "https://music.163.com/song?id=1388595295",
+    "duration": "02:32",
+    "artists": [
+      {
+        "name": "The Walters",
+        "link": "https://music.163.com/artist?id=28085405"
+      }
+    ],
+    "album": {
+      "name": "Goodbye Baby",
+      "link": "https://music.163.com/album?id=81352028"
+    }
+  },
+  {
+    "name": "Hey It's Me",
+    "link": "https://music.163.com/song?id=1827686454",
+    "duration": "02:30",
+    "artists": [
+      {
+        "name": "Chris James",
+        "link": "https://music.163.com/artist?id=145038"
+      }
+    ],
+    "album": {
+      "name": "Hey It's Me",
+      "link": "https://music.163.com/album?id=124317287"
+    }
+  },
+  {
+    "name": "Data & Picard",
+    "link": "https://music.163.com/song?id=451376031",
+    "duration": "03:05",
+    "artists": [
+      { "name": "Pogo", "link": "https://music.163.com/artist?id=41574" }
+    ],
+    "album": {
+      "name": "Weightless",
+      "link": "https://music.163.com/album?id=35104453"
+    }
+  },
+  {
+    "name": "Houndin",
+    "link": "https://music.163.com/song?id=1419416408",
+    "duration": "03:15",
+    "artists": [
+      { "name": "Layto", "link": "https://music.163.com/artist?id=28129508" }
+    ],
+    "album": {
+      "name": "Houndin",
+      "link": "https://music.163.com/album?id=85292318"
+    }
+  },
+  {
+    "name": "88",
+    "link": "https://music.163.com/song?id=567366398",
+    "duration": "03:53",
+    "artists": [
+      {
+        "name": "Inner Wave",
+        "link": "https://music.163.com/artist?id=12069093"
+      }
+    ],
+    "album": {
+      "name": "Sun Transmission",
+      "link": "https://music.163.com/album?id=39339071"
+    }
+  },
+  {
+    "name": "Life Is Beautiful",
+    "link": "https://music.163.com/song?id=34586714",
+    "duration": "02:18",
+    "artists": [
+      {
+        "name": "Tim McMorris",
+        "link": "https://music.163.com/artist?id=45527"
+      }
+    ],
+    "album": {
+      "name": "Alive",
+      "link": "https://music.163.com/album?id=3288165"
+    }
+  },
+  {
+    "name": "The Prophet",
+    "link": "https://music.163.com/song?id=1426290701",
+    "duration": "02:33",
+    "artists": [
+      {
+        "name": "Makeup and Vanity Set",
+        "link": "https://music.163.com/artist?id=725480"
+      }
+    ],
+    "album": {
+      "name": "Up and Vanished (Original Podcast Soundtrack)",
+      "link": "https://music.163.com/album?id=86026778"
+    }
+  },
+  {
+    "name": "Brave Soul",
+    "link": "https://music.163.com/song?id=1860988298",
+    "duration": "04:37",
+    "artists": [
+      { "name": "ILLENIUM", "link": "https://music.163.com/artist?id=1050518" },
+      {
+        "name": "Emma Grace",
+        "link": "https://music.163.com/artist?id=31290349"
+      }
+    ],
+    "album": {
+      "name": "Fallen Embers",
+      "link": "https://music.163.com/album?id=130311646"
+    }
+  }
+]
