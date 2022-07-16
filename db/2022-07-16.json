@@ -1,0 +1,359 @@
+[
+  {
+    "name": "Museum Of Flight",
+    "link": "https://music.163.com/song?id=17263652",
+    "duration": "02:50",
+    "artists": [
+      {
+        "name": "Damien Jurado",
+        "link": "https://music.163.com/artist?id=31234"
+      }
+    ],
+    "album": {
+      "name": "Maraqopa",
+      "link": "https://music.163.com/album?id=1592005"
+    }
+  },
+  {
+    "name": "Normal No More（0.8×）",
+    "link": "https://music.163.com/song?id=1920324156",
+    "duration": "03:59",
+    "artists": [
+      { "name": "WaN", "link": "https://music.163.com/artist?id=47192254" }
+    ],
+    "album": {
+      "name": "Normal No More（slowed edit）",
+      "link": "https://music.163.com/album?id=140377641"
+    }
+  },
+  {
+    "name": "1975(DEMO)",
+    "link": "https://music.163.com/song?id=494020372",
+    "duration": "04:33",
+    "artists": [
+      { "name": "白日密语", "link": "https://music.163.com/artist?id=12371505" }
+    ],
+    "album": {
+      "name": "1975",
+      "link": "https://music.163.com/album?id=35846584"
+    }
+  },
+  {
+    "name": "公路之歌",
+    "link": "https://music.163.com/song?id=381825",
+    "duration": "03:04",
+    "artists": [
+      { "name": "痛仰乐队", "link": "https://music.163.com/artist?id=12971" }
+    ],
+    "album": {
+      "name": "不要停止我的音乐",
+      "link": "https://music.163.com/album?id=37797"
+    }
+  },
+  {
+    "name": "Thoughts of You",
+    "link": "https://music.163.com/song?id=1962733067",
+    "duration": "03:56",
+    "artists": [
+      {
+        "name": "Approaching Nirvana",
+        "link": "https://music.163.com/artist?id=86884"
+      },
+      {
+        "name": "Sound of Tomorrow",
+        "link": "https://music.163.com/artist?id=46463584"
+      }
+    ],
+    "album": {
+      "name": "Thoughts of You",
+      "link": "https://music.163.com/album?id=147883791"
+    }
+  },
+  {
+    "name": "Till the moon's upside down(直到月亮倾覆）",
+    "link": "https://music.163.com/song?id=1396204739",
+    "duration": "04:26",
+    "artists": [
+      { "name": "结冰水", "link": "https://music.163.com/artist?id=31661567" }
+    ],
+    "album": {
+      "name": "Till the moon's upside down(直到月亮倾覆）",
+      "link": "https://music.163.com/album?id=81617256"
+    }
+  },
+  {
+    "name": "ATTITUDE",
+    "link": "https://music.163.com/song?id=1842195259",
+    "duration": "02:46",
+    "artists": [
+      {
+        "name": "ZHANG JUN",
+        "link": "https://music.163.com/artist?id=32676034"
+      }
+    ],
+    "album": {
+      "name": "ATTITUDE",
+      "link": "https://music.163.com/album?id=126872349"
+    }
+  },
+  {
+    "name": "Klub",
+    "link": "https://music.163.com/song?id=1480072347",
+    "duration": "02:18",
+    "artists": [
+      { "name": "AREZ", "link": "https://music.163.com/artist?id=34821168" }
+    ],
+    "album": {
+      "name": "Like",
+      "link": "https://music.163.com/album?id=95493979"
+    }
+  },
+  {
+    "name": "Death's End",
+    "link": "https://music.163.com/song?id=1928377491",
+    "duration": "02:57",
+    "artists": [
+      { "name": "BOY", "link": "https://music.163.com/artist?id=33322228" }
+    ],
+    "album": {
+      "name": "Death's End",
+      "link": "https://music.163.com/album?id=141844315"
+    }
+  },
+  {
+    "name": "旧社会顶穷的人",
+    "link": "https://music.163.com/song?id=1373500911",
+    "duration": "02:18",
+    "artists": [
+      { "name": "还潮", "link": "https://music.163.com/artist?id=13197192" }
+    ],
+    "album": {
+      "name": "老酒日日醉，皇帝万万岁（The Ningbonese Art of Renunciation）",
+      "link": "https://music.163.com/album?id=79886298"
+    }
+  },
+  {
+    "name": "I Put a Spell on You",
+    "link": "https://music.163.com/song?id=21697657",
+    "duration": "02:24",
+    "artists": [
+      {
+        "name": "Screamin' Jay Hawkins",
+        "link": "https://music.163.com/artist?id=75013"
+      }
+    ],
+    "album": {
+      "name": "At Home with Screamin' Jay Hawkins",
+      "link": "https://music.163.com/album?id=1997076"
+    }
+  },
+  {
+    "name": "#тамада (Сингл) - (宴会主持人)",
+    "link": "https://music.163.com/song?id=445665093",
+    "duration": "04:19",
+    "artists": [
+      { "name": "MiyaGi", "link": "https://music.163.com/artist?id=11980037" },
+      {
+        "name": "Эндшпиль",
+        "link": "https://music.163.com/artist?id=11976024"
+      },
+      {
+        "name": "Wooshendoo",
+        "link": "https://music.163.com/artist?id=12698487"
+      },
+      { "name": "Al l Bo", "link": "https://music.163.com/artist?id=11992156" }
+    ],
+    "album": {
+      "name": "#тамада",
+      "link": "https://music.163.com/album?id=35041034"
+    }
+  },
+  {
+    "name": "仗剑天涯 - (走天涯)",
+    "link": "https://music.163.com/song?id=1822537992",
+    "duration": "03:37",
+    "artists": [
+      { "name": "尘ah.", "link": "https://music.163.com/artist?id=34324924" }
+    ],
+    "album": {
+      "name": "仗剑天涯",
+      "link": "https://music.163.com/album?id=123447898"
+    }
+  },
+  {
+    "name": "荒岛",
+    "link": "https://music.163.com/song?id=1478213137",
+    "duration": "02:42",
+    "artists": [
+      { "name": "袁一凡", "link": "https://music.163.com/artist?id=33696406" }
+    ],
+    "album": {
+      "name": "Sweet Song",
+      "link": "https://music.163.com/album?id=93901875"
+    }
+  },
+  {
+    "name": "Morsmordre - (莫斯莫多)",
+    "link": "https://music.163.com/song?id=1441860073",
+    "duration": "03:37",
+    "artists": [
+      {
+        "name": "Crazy Donkey",
+        "link": "https://music.163.com/artist?id=32720055"
+      }
+    ],
+    "album": {
+      "name": "Morsmordre",
+      "link": "https://music.163.com/album?id=87892453"
+    }
+  },
+  {
+    "name": "Dancer In The Dark (Original Mix)",
+    "link": "https://music.163.com/song?id=1334059163",
+    "duration": "04:07",
+    "artists": [
+      { "name": "GRABOTE", "link": "https://music.163.com/artist?id=30476593" }
+    ],
+    "album": {
+      "name": "Dancer In The Dark (Original Mix)",
+      "link": "https://music.163.com/album?id=74896143"
+    }
+  },
+  {
+    "name": "Marlboro (VManMusic Remix)",
+    "link": "https://music.163.com/song?id=1451214941",
+    "duration": "03:32",
+    "artists": [
+      {
+        "name": "VManMusic",
+        "link": "https://music.163.com/artist?id=33987911"
+      }
+    ],
+    "album": {
+      "name": "Marlboro (VManMusic Remix)",
+      "link": "https://music.163.com/album?id=90006046"
+    }
+  },
+  {
+    "name": "Frozen",
+    "link": "https://music.163.com/song?id=1325897831",
+    "duration": "03:21",
+    "artists": [
+      {
+        "name": "Stephanskiy",
+        "link": "https://music.163.com/artist?id=30858046"
+      }
+    ],
+    "album": {
+      "name": "Knight - Single",
+      "link": "https://music.163.com/album?id=74269330"
+    }
+  },
+  {
+    "name": "The Soldiers Sweetheart",
+    "link": "https://music.163.com/song?id=2800592",
+    "duration": "03:12",
+    "artists": [
+      {
+        "name": "Jimmie Rodgers",
+        "link": "https://music.163.com/artist?id=61202"
+      }
+    ],
+    "album": {
+      "name": "Blue Yodels",
+      "link": "https://music.163.com/album?id=282431"
+    }
+  },
+  {
+    "name": "Биркин - (标签)",
+    "link": "https://music.163.com/song?id=1848253965",
+    "duration": "02:06",
+    "artists": [
+      { "name": "Ganvest", "link": "https://music.163.com/artist?id=13875008" }
+    ],
+    "album": {
+      "name": "Биркин",
+      "link": "https://music.163.com/album?id=128021426"
+    }
+  },
+  {
+    "name": "白日梦",
+    "link": "https://music.163.com/song?id=1843315603",
+    "duration": "05:02",
+    "artists": [
+      {
+        "name": "红白色乐队",
+        "link": "https://music.163.com/artist?id=12025585"
+      }
+    ],
+    "album": {
+      "name": "1519",
+      "link": "https://music.163.com/album?id=127098949"
+    }
+  },
+  {
+    "name": "Love Yourself",
+    "link": "https://music.163.com/song?id=36496695",
+    "duration": "03:53",
+    "artists": [
+      {
+        "name": "Justin Bieber",
+        "link": "https://music.163.com/artist?id=35531"
+      }
+    ],
+    "album": {
+      "name": "Purpose",
+      "link": "https://music.163.com/album?id=3389146"
+    }
+  },
+  {
+    "name": "Reality",
+    "link": "https://music.163.com/song?id=32835377",
+    "duration": "02:39",
+    "artists": [
+      {
+        "name": "Lost Frequencies",
+        "link": "https://music.163.com/artist?id=1039114"
+      },
+      { "name": "Janieck", "link": "https://music.163.com/artist?id=12132070" }
+    ],
+    "album": {
+      "name": "Reality",
+      "link": "https://music.163.com/album?id=3161845"
+    }
+  },
+  {
+    "name": "Free Loop",
+    "link": "https://music.163.com/song?id=17271094",
+    "duration": "03:52",
+    "artists": [
+      {
+        "name": "Daniel Powter",
+        "link": "https://music.163.com/artist?id=31187"
+      }
+    ],
+    "album": {
+      "name": "Daniel Powter",
+      "link": "https://music.163.com/album?id=1592637"
+    }
+  },
+  {
+    "name": "Stay The Night",
+    "link": "https://music.163.com/song?id=1376075781",
+    "duration": "02:46",
+    "artists": [
+      {
+        "name": "Just Kiddin",
+        "link": "https://music.163.com/artist?id=688618"
+      },
+      {
+        "name": "Camden Cox",
+        "link": "https://music.163.com/artist?id=13226292"
+      }
+    ],
+    "album": {
+      "name": "Stay The Night",
+      "link": "https://music.163.com/album?id=80233055"
+    }
+  }
+]
