@@ -1,0 +1,428 @@
+[
+  {
+    "name": "Teenage Blue",
+    "link": "https://music.163.com/song?id=1380104995",
+    "duration": "03:54",
+    "artists": [
+      {
+        "name": "Dreamgirl",
+        "link": "https://music.163.com/artist?id=32845535"
+      }
+    ],
+    "album": {
+      "name": "Illuminaughty - EP",
+      "link": "https://music.163.com/album?id=80608621"
+    }
+  },
+  {
+    "name": "轻风",
+    "link": "https://music.163.com/song?id=410715788",
+    "duration": "03:12",
+    "artists": [
+      { "name": "四季音色", "link": "https://music.163.com/artist?id=12028059" }
+    ],
+    "album": {
+      "name": "春夏之交，轻旋淡律",
+      "link": "https://music.163.com/album?id=34673374"
+    }
+  },
+  {
+    "name": "Cold Rain",
+    "link": "https://music.163.com/song?id=458696351",
+    "duration": "03:08",
+    "artists": [
+      { "name": "AniFace", "link": "https://music.163.com/artist?id=12259037" }
+    ],
+    "album": {
+      "name": "Cold Rain",
+      "link": "https://music.163.com/album?id=35166678"
+    }
+  },
+  {
+    "name": "海边的梦",
+    "link": "https://music.163.com/song?id=1447721226",
+    "duration": "02:50",
+    "artists": [
+      { "name": "陈越龙", "link": "https://music.163.com/artist?id=34318335" }
+    ],
+    "album": {
+      "name": "海边的梦 在听风",
+      "link": "https://music.163.com/album?id=89356656"
+    }
+  },
+  {
+    "name": "☾",
+    "link": "https://music.163.com/song?id=1348688293",
+    "duration": "03:35",
+    "artists": [
+      { "name": "沙皮", "link": "https://music.163.com/artist?id=1041026" }
+    ],
+    "album": {
+      "name": "晚安",
+      "link": "https://music.163.com/album?id=34704399"
+    }
+  },
+  {
+    "name": "夏日漱石 (Summer Cozy Rock)",
+    "link": "https://music.163.com/song?id=1359818052",
+    "duration": "04:23",
+    "artists": [
+      {
+        "name": "橘子海 (Orange Ocean)",
+        "link": "https://music.163.com/artist?id=1184074"
+      }
+    ],
+    "album": {
+      "name": "浪潮上岸 (Tears In Ocean)",
+      "link": "https://music.163.com/album?id=80222879"
+    }
+  },
+  {
+    "name": "Rise",
+    "link": "https://music.163.com/song?id=1467363772",
+    "duration": "03:26",
+    "artists": [
+      { "name": "Biscuits", "link": "https://music.163.com/artist?id=12120174" }
+    ],
+    "album": {
+      "name": "Rise (Cover)",
+      "link": "https://music.163.com/album?id=74275915"
+    }
+  },
+  {
+    "name": "comethru",
+    "link": "https://music.163.com/song?id=1351923466",
+    "duration": "03:01",
+    "artists": [
+      {
+        "name": "Jeremy Zucker",
+        "link": "https://music.163.com/artist?id=12096183"
+      },
+      { "name": "Bea Miller", "link": "https://music.163.com/artist?id=908180" }
+    ],
+    "album": {
+      "name": "comethru",
+      "link": "https://music.163.com/album?id=75848496"
+    }
+  },
+  {
+    "name": "夏之风",
+    "link": "https://music.163.com/song?id=479494742",
+    "duration": "03:16",
+    "artists": [
+      { "name": "阿铭", "link": "https://music.163.com/artist?id=12156096" }
+    ],
+    "album": {
+      "name": "夏之风",
+      "link": "https://music.163.com/album?id=35532422"
+    }
+  },
+  {
+    "name": "风的小径",
+    "link": "https://music.163.com/song?id=1455273374",
+    "duration": "02:48",
+    "artists": [
+      { "name": "万能日记", "link": "https://music.163.com/artist?id=30600219" }
+    ],
+    "album": {
+      "name": "生活限定手册",
+      "link": "https://music.163.com/album?id=90525175"
+    }
+  },
+  {
+    "name": "maybe",
+    "link": "https://music.163.com/song?id=1928873420",
+    "duration": "02:50",
+    "artists": [
+      {
+        "name": "Machine Gun Kelly",
+        "link": "https://music.163.com/artist?id=40329"
+      },
+      {
+        "name": "Bring Me the Horizon",
+        "link": "https://music.163.com/artist?id=48458"
+      }
+    ],
+    "album": {
+      "name": "maybe",
+      "link": "https://music.163.com/album?id=141931603"
+    }
+  },
+  {
+    "name": "Over That",
+    "link": "https://music.163.com/song?id=525239104",
+    "duration": "03:25",
+    "artists": [
+      {
+        "name": "Emily Vaughn",
+        "link": "https://music.163.com/artist?id=12049240"
+      }
+    ],
+    "album": {
+      "name": "Over That",
+      "link": "https://music.163.com/album?id=37026042"
+    }
+  },
+  {
+    "name": "日暮里",
+    "link": "https://music.163.com/song?id=1351183637",
+    "duration": "03:26",
+    "artists": [
+      { "name": "JINBAO", "link": "https://music.163.com/artist?id=30480423" }
+    ],
+    "album": {
+      "name": "東京物语",
+      "link": "https://music.163.com/album?id=75808773"
+    }
+  },
+  {
+    "name": "Opus 37",
+    "link": "https://music.163.com/song?id=17241428",
+    "duration": "05:22",
+    "artists": [
+      {
+        "name": "Dustin O'Halloran",
+        "link": "https://music.163.com/artist?id=31214"
+      }
+    ],
+    "album": {
+      "name": "Piano Solos Vol. 2",
+      "link": "https://music.163.com/album?id=1589198"
+    }
+  },
+  {
+    "name": "Keep Your Head Up Princess",
+    "link": "https://music.163.com/song?id=1886345442",
+    "duration": "03:18",
+    "artists": [
+      {
+        "name": "Anson Seabra",
+        "link": "https://music.163.com/artist?id=14470054"
+      }
+    ],
+    "album": {
+      "name": "Keep Your Head Up Princess",
+      "link": "https://music.163.com/album?id=134645898"
+    }
+  },
+  {
+    "name": "ζ",
+    "link": "https://music.163.com/song?id=29137872",
+    "duration": "03:07",
+    "artists": [
+      { "name": "α·Pav", "link": "https://music.163.com/artist?id=4716" }
+    ],
+    "album": {
+      "name": "Pavonis ~ Piano Collection II ~",
+      "link": "https://music.163.com/album?id=2994337"
+    }
+  },
+  {
+    "name": "还你",
+    "link": "https://music.163.com/song?id=550231922",
+    "duration": "03:18",
+    "artists": [
+      {
+        "name": "新学校废物合唱团",
+        "link": "https://music.163.com/artist?id=1199032"
+      }
+    ],
+    "album": {
+      "name": "还你",
+      "link": "https://music.163.com/album?id=38211194"
+    }
+  },
+  {
+    "name": "Shining Die",
+    "link": "https://music.163.com/song?id=1378655002",
+    "duration": "04:08",
+    "artists": [
+      { "name": "二向箔", "link": "https://music.163.com/artist?id=12965493" }
+    ],
+    "album": {
+      "name": ":-D Foil",
+      "link": "https://music.163.com/album?id=80437779"
+    }
+  },
+  {
+    "name": "Rooftop",
+    "link": "https://music.163.com/song?id=1456602326",
+    "duration": "03:13",
+    "artists": [
+      { "name": "MVRT", "link": "https://music.163.com/artist?id=35396819" },
+      {
+        "name": "Vijay & Sofia Zlatko",
+        "link": "https://music.163.com/artist?id=1155154"
+      }
+    ],
+    "album": {
+      "name": "Rooftop",
+      "link": "https://music.163.com/album?id=91205407"
+    }
+  },
+  {
+    "name": "夏夜晚风 - (Summer Night Wind)",
+    "link": "https://music.163.com/song?id=1451856375",
+    "duration": "04:17",
+    "artists": [
+      {
+        "name": "deca joins",
+        "link": "https://music.163.com/artist?id=12463331"
+      }
+    ],
+    "album": {
+      "name": "3 Songs",
+      "link": "https://music.163.com/album?id=90132177"
+    }
+  },
+  {
+    "name": "悲哀藏在现实中",
+    "link": "https://music.163.com/song?id=1860234955",
+    "duration": "04:05",
+    "artists": [
+      { "name": "刘森", "link": "https://music.163.com/artist?id=32673826" }
+    ],
+    "album": {
+      "name": "华北浪革",
+      "link": "https://music.163.com/album?id=130185746"
+    }
+  },
+  {
+    "name": "生之响往",
+    "link": "https://music.163.com/song?id=554241255",
+    "duration": "05:56",
+    "artists": [
+      { "name": "刺猬", "link": "https://music.163.com/artist?id=11238" }
+    ],
+    "album": {
+      "name": "生之响往",
+      "link": "https://music.163.com/album?id=38433092"
+    }
+  },
+  {
+    "name": "还山",
+    "link": "https://music.163.com/song?id=1340673014",
+    "duration": "04:21",
+    "artists": [
+      {
+        "name": "无边界音乐",
+        "link": "https://music.163.com/artist?id=31010647"
+      }
+    ],
+    "album": {
+      "name": "雨 RAIN RAIN RAIN",
+      "link": "https://music.163.com/album?id=74752067"
+    }
+  },
+  {
+    "name": "夏日回音",
+    "link": "https://music.163.com/song?id=1398284251",
+    "duration": "04:02",
+    "artists": [
+      { "name": "柳爽", "link": "https://music.163.com/artist?id=1060132" }
+    ],
+    "album": {
+      "name": "2nd.星球",
+      "link": "https://music.163.com/album?id=93153157"
+    }
+  },
+  {
+    "name": "怒马",
+    "link": "https://music.163.com/song?id=1439345988",
+    "duration": "02:46",
+    "artists": [
+      { "name": "羽果", "link": "https://music.163.com/artist?id=13422" }
+    ],
+    "album": {
+      "name": "怒马",
+      "link": "https://music.163.com/album?id=87837737"
+    }
+  },
+  {
+    "name": "在这个年代，找不到浪漫 - (In this Age, We Can't Find Romantics)",
+    "link": "https://music.163.com/song?id=1834118075",
+    "duration": "04:39",
+    "artists": [
+      { "name": "温室杂草", "link": "https://music.163.com/artist?id=47330155" }
+    ],
+    "album": {
+      "name": "春天有脚",
+      "link": "https://music.163.com/album?id=125455491"
+    }
+  },
+  {
+    "name": "当一切结束时",
+    "link": "https://music.163.com/song?id=353415",
+    "duration": "04:40",
+    "artists": [
+      { "name": "岛屿心情", "link": "https://music.163.com/artist?id=11481" }
+    ],
+    "album": {
+      "name": "岛屿心情",
+      "link": "https://music.163.com/album?id=34836"
+    }
+  },
+  {
+    "name": "那些我恐惧至极的事",
+    "link": "https://music.163.com/song?id=1495910047",
+    "duration": "04:22",
+    "artists": [
+      { "name": "DJ Soviet", "link": "https://music.163.com/artist?id=999451" },
+      { "name": "雨狸", "link": "https://music.163.com/artist?id=32914265" },
+      { "name": "乐正绫", "link": "https://music.163.com/artist?id=1102240" },
+      { "name": "洛天依", "link": "https://music.163.com/artist?id=906118" }
+    ],
+    "album": {
+      "name": "那些我恐惧至极的事",
+      "link": "https://music.163.com/album?id=98342263"
+    }
+  },
+  {
+    "name": "岛屿",
+    "link": "https://music.163.com/song?id=1418131335",
+    "duration": "05:02",
+    "artists": [
+      { "name": "棱镜乐队", "link": "https://music.163.com/artist?id=1085047" }
+    ],
+    "album": {
+      "name": "石头想有糖的温度",
+      "link": "https://music.163.com/album?id=94424271"
+    }
+  },
+  {
+    "name": "Escape With You",
+    "link": "https://music.163.com/song?id=1437188531",
+    "duration": "03:23",
+    "artists": [
+      { "name": "Kooma", "link": "https://music.163.com/artist?id=12726149" },
+      { "name": "Veela", "link": "https://music.163.com/artist?id=193221" }
+    ],
+    "album": {
+      "name": "Escape With You",
+      "link": "https://music.163.com/album?id=87542356"
+    }
+  },
+  {
+    "name": "孙尚香",
+    "link": "https://music.163.com/song?id=421870344",
+    "duration": "03:29",
+    "artists": [
+      { "name": "洛天依", "link": "https://music.163.com/artist?id=906118" },
+      { "name": "乐正绫", "link": "https://music.163.com/artist?id=1102240" },
+      { "name": "空气凝", "link": "https://music.163.com/artist?id=12078192" }
+    ],
+    "album": {
+      "name": "纪念",
+      "link": "https://music.163.com/album?id=34786083"
+    }
+  },
+  {
+    "name": "贝加尔湖畔",
+    "link": "https://music.163.com/song?id=109998",
+    "duration": "04:05",
+    "artists": [
+      { "name": "李健", "link": "https://music.163.com/artist?id=3695" }
+    ],
+    "album": { "name": "依然", "link": "https://music.163.com/album?id=10888" }
+  }
+]
