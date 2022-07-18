@@ -1,0 +1,331 @@
+[
+  {
+    "name": "I Know You Know I Love You",
+    "link": "https://music.163.com/song?id=344157",
+    "duration": "02:00",
+    "artists": [
+      { "name": "落日飞车", "link": "https://music.163.com/artist?id=11074" }
+    ],
+    "album": {
+      "name": "Bossa Nova",
+      "link": "https://music.163.com/album?id=33949"
+    }
+  },
+  {
+    "name": "理想三旬",
+    "link": "https://music.163.com/song?id=31445772",
+    "duration": "03:30",
+    "artists": [
+      { "name": "陈鸿宇", "link": "https://music.163.com/artist?id=1058228" }
+    ],
+    "album": {
+      "name": "浓烟下的诗歌电台",
+      "link": "https://music.163.com/album?id=3116882"
+    }
+  },
+  {
+    "name": "完美夏天",
+    "link": "https://music.163.com/song?id=1483522399",
+    "duration": "04:22",
+    "artists": [
+      { "name": "霓虹花园", "link": "https://music.163.com/artist?id=13155879" }
+    ],
+    "album": {
+      "name": "完美夏天",
+      "link": "https://music.163.com/album?id=96178955"
+    }
+  },
+  {
+    "name": "雨夜曼彻斯特 - (A rainy night in Manchester)",
+    "link": "https://music.163.com/song?id=472141618",
+    "duration": "04:13",
+    "artists": [
+      { "name": "盘尼西林", "link": "https://music.163.com/artist?id=900021" }
+    ],
+    "album": {
+      "name": "与世界温暖相拥",
+      "link": "https://music.163.com/album?id=35368335"
+    }
+  },
+  {
+    "name": "我曾",
+    "link": "https://music.163.com/song?id=1336856777",
+    "duration": "04:45",
+    "artists": [
+      { "name": "隔壁老樊", "link": "https://music.163.com/artist?id=12429072" }
+    ],
+    "album": {
+      "name": "我曾",
+      "link": "https://music.163.com/album?id=75019098"
+    }
+  },
+  {
+    "name": "耳。语",
+    "link": "https://music.163.com/song?id=1412645077",
+    "duration": "03:53",
+    "artists": [
+      { "name": "原子邦妮", "link": "https://music.163.com/artist?id=1193482" }
+    ],
+    "album": {
+      "name": "在名为未来的波浪里",
+      "link": "https://music.163.com/album?id=84570434"
+    }
+  },
+  {
+    "name": "春风十里",
+    "link": "https://music.163.com/song?id=38576323",
+    "duration": "06:15",
+    "artists": [
+      {
+        "name": "鹿先森乐队",
+        "link": "https://music.163.com/artist?id=1195028"
+      }
+    ],
+    "album": {
+      "name": "所有的酒，都不如你",
+      "link": "https://music.163.com/album?id=34976129"
+    }
+  },
+  {
+    "name": "十七岁少女金色心",
+    "link": "https://music.163.com/song?id=1404715631",
+    "duration": "05:29",
+    "artists": [
+      {
+        "name": "脆莓(Brickleberry)",
+        "link": "https://music.163.com/artist?id=12093668"
+      }
+    ],
+    "album": {
+      "name": "脆莓",
+      "link": "https://music.163.com/album?id=95739446"
+    }
+  },
+  {
+    "name": "破 Breaking feat. 谢雨纯",
+    "link": "https://music.163.com/song?id=1467099942",
+    "duration": "03:07",
+    "artists": [
+      {
+        "name": "CORSAK胡梦周",
+        "link": "https://music.163.com/artist?id=28083351"
+      },
+      { "name": "谢雨纯", "link": "https://music.163.com/artist?id=12605484" }
+    ],
+    "album": {
+      "name": "破 Breaking feat. 谢雨纯",
+      "link": "https://music.163.com/album?id=93258422"
+    }
+  },
+  {
+    "name": "搁浅的人",
+    "link": "https://music.163.com/song?id=447925725",
+    "duration": "04:31",
+    "artists": [
+      {
+        "name": "康士坦的变化球",
+        "link": "https://music.163.com/artist?id=12232080"
+      }
+    ],
+    "album": {
+      "name": "搁浅的人",
+      "link": "https://music.163.com/album?id=35068186"
+    }
+  },
+  {
+    "name": "亲爱的，这次日落",
+    "link": "https://music.163.com/song?id=1432229429",
+    "duration": "03:37",
+    "artists": [
+      {
+        "name": "帆布小镇（Canvas Townlet）",
+        "link": "https://music.163.com/artist?id=33373308"
+      }
+    ],
+    "album": {
+      "name": "今夜无法入眠",
+      "link": "https://music.163.com/album?id=86211584"
+    }
+  },
+  {
+    "name": "为你唱首歌",
+    "link": "https://music.163.com/song?id=381858",
+    "duration": "04:13",
+    "artists": [
+      { "name": "痛仰乐队", "link": "https://music.163.com/artist?id=12971" }
+    ],
+    "album": {
+      "name": "不要停止我的音乐",
+      "link": "https://music.163.com/album?id=37797"
+    }
+  },
+  {
+    "name": "极光",
+    "link": "https://music.163.com/song?id=1401064029",
+    "duration": "04:00",
+    "artists": [
+      { "name": "于果", "link": "https://music.163.com/artist?id=12262303" }
+    ],
+    "album": {
+      "name": "极光",
+      "link": "https://music.163.com/album?id=82987681"
+    }
+  },
+  {
+    "name": "No Disco",
+    "link": "https://music.163.com/song?id=1842549996",
+    "duration": "02:25",
+    "artists": [
+      {
+        "name": "春日玫瑰(Spring Roses)",
+        "link": "https://music.163.com/artist?id=47353036"
+      }
+    ],
+    "album": {
+      "name": "春日玫瑰",
+      "link": "https://music.163.com/album?id=126813278"
+    }
+  },
+  {
+    "name": "孔雀",
+    "link": "https://music.163.com/song?id=1439094767",
+    "duration": "04:15",
+    "artists": [
+      { "name": "蛙池", "link": "https://music.163.com/artist?id=32432697" }
+    ],
+    "album": {
+      "name": "孔雀 Demo",
+      "link": "https://music.163.com/album?id=87801287"
+    }
+  },
+  {
+    "name": "余香",
+    "link": "https://music.163.com/song?id=487885426",
+    "duration": "04:06",
+    "artists": [
+      { "name": "张小九", "link": "https://music.163.com/artist?id=12002056" }
+    ],
+    "album": {
+      "name": "余香",
+      "link": "https://music.163.com/album?id=35691684"
+    }
+  },
+  {
+    "name": "我不是你的宋冬野",
+    "link": "https://music.163.com/song?id=1333150792",
+    "duration": "04:00",
+    "artists": [
+      { "name": "林啟得", "link": "https://music.163.com/artist?id=12003125" }
+    ],
+    "album": {
+      "name": "我不是你的宋冬野",
+      "link": "https://music.163.com/album?id=74829281"
+    }
+  },
+  {
+    "name": "狗女孩",
+    "link": "https://music.163.com/song?id=28819357",
+    "duration": "04:35",
+    "artists": [
+      { "name": "梅卡德尔", "link": "https://music.163.com/artist?id=851364" }
+    ],
+    "album": {
+      "name": "梅卡德尔",
+      "link": "https://music.163.com/album?id=2902072"
+    }
+  },
+  {
+    "name": "闹海",
+    "link": "https://music.163.com/song?id=368913",
+    "duration": "03:39",
+    "artists": [
+      { "name": "哪吒乐队", "link": "https://music.163.com/artist?id=12441" }
+    ],
+    "album": {
+      "name": "他在时间门外",
+      "link": "https://music.163.com/album?id=36538"
+    }
+  },
+  {
+    "name": "我也喜欢你的女朋友",
+    "link": "https://music.163.com/song?id=521493347",
+    "duration": "02:17",
+    "artists": [
+      {
+        "name": "脏手指 Oh! Dirty Fingers",
+        "link": "https://music.163.com/artist?id=12235746"
+      }
+    ],
+    "album": {
+      "name": "我怎么学的这么坏",
+      "link": "https://music.163.com/album?id=36875073"
+    }
+  },
+  {
+    "name": "Do It",
+    "link": "https://music.163.com/song?id=1359357320",
+    "duration": "03:30",
+    "artists": [
+      {
+        "name": "Ilkay Sencan",
+        "link": "https://music.163.com/artist?id=12523484"
+      }
+    ],
+    "album": {
+      "name": "Do It",
+      "link": "https://music.163.com/album?id=78569281"
+    }
+  },
+  {
+    "name": "GQ",
+    "link": "https://music.163.com/song?id=410654865",
+    "duration": "02:42",
+    "artists": [
+      {
+        "name": "Lola Coca",
+        "link": "https://music.163.com/artist?id=12040030"
+      }
+    ],
+    "album": { "name": "GQ", "link": "https://music.163.com/album?id=34609808" }
+  },
+  {
+    "name": "Merry Christmas Mr. Lawrence - FYI",
+    "link": "https://music.163.com/song?id=1361336637",
+    "duration": "03:49",
+    "artists": [
+      {
+        "name": "宇多田ヒカル",
+        "link": "https://music.163.com/artist?id=18122"
+      }
+    ],
+    "album": {
+      "name": "This Is The One",
+      "link": "https://music.163.com/album?id=78779323"
+    }
+  },
+  {
+    "name": "Warm",
+    "link": "https://music.163.com/song?id=524148990",
+    "duration": "04:15",
+    "artists": [
+      { "name": "Dre'es", "link": "https://music.163.com/artist?id=12972041" },
+      { "name": "Mia", "link": "https://music.163.com/artist?id=47894378" }
+    ],
+    "album": {
+      "name": "Warm (feat. Mia)",
+      "link": "https://music.163.com/album?id=36979273"
+    }
+  },
+  {
+    "name": "Rolling in the Deep",
+    "link": "https://music.163.com/song?id=16435051",
+    "duration": "03:48",
+    "artists": [
+      { "name": "Adele", "link": "https://music.163.com/artist?id=46487" }
+    ],
+    "album": {
+      "name": "Rolling in the Deep",
+      "link": "https://music.163.com/album?id=1515350"
+    }
+  }
+]
