@@ -1,0 +1,444 @@
+[
+  {
+    "name": "Felt like playing guitar and not singing part 2",
+    "link": "https://music.163.com/song?id=1430425282",
+    "duration": "02:54",
+    "artists": [
+      { "name": "Two Feet", "link": "https://music.163.com/artist?id=12073672" }
+    ],
+    "album": {
+      "name": "Pink",
+      "link": "https://music.163.com/album?id=86455428"
+    }
+  },
+  {
+    "name": "Sweet (Single Version)",
+    "link": "https://music.163.com/song?id=513054449",
+    "duration": "04:12",
+    "artists": [
+      {
+        "name": "Cigarettes After Sex",
+        "link": "https://music.163.com/artist?id=12023319"
+      }
+    ],
+    "album": {
+      "name": "Sweet (Single Version)",
+      "link": "https://music.163.com/album?id=36515300"
+    }
+  },
+  {
+    "name": "To Edinburgh",
+    "link": "https://music.163.com/song?id=1457421954",
+    "duration": "04:26",
+    "artists": [
+      { "name": "IAN POST", "link": "https://music.163.com/artist?id=34216586" }
+    ],
+    "album": {
+      "name": "The Highlands",
+      "link": "https://music.163.com/album?id=91343241"
+    }
+  },
+  {
+    "name": "Enter",
+    "link": "https://music.163.com/song?id=522354237",
+    "duration": "02:21",
+    "artists": [
+      {
+        "name": "Otto A Totland",
+        "link": "https://music.163.com/artist?id=893498"
+      }
+    ],
+    "album": {
+      "name": "The Lost",
+      "link": "https://music.163.com/album?id=36897075"
+    }
+  },
+  {
+    "name": "perfume",
+    "link": "https://music.163.com/song?id=1420260962",
+    "duration": "02:33",
+    "artists": [
+      { "name": "mehro", "link": "https://music.163.com/artist?id=34504922" }
+    ],
+    "album": {
+      "name": "perfume",
+      "link": "https://music.163.com/album?id=85394871"
+    }
+  },
+  {
+    "name": "Letting Go",
+    "link": "https://music.163.com/song?id=208891",
+    "duration": "04:23",
+    "artists": [
+      { "name": "蔡健雅", "link": "https://music.163.com/artist?id=7214" }
+    ],
+    "album": {
+      "name": "说到爱",
+      "link": "https://music.163.com/album?id=21250"
+    }
+  },
+  {
+    "name": "Le courage d'aimer: Noël",
+    "link": "https://music.163.com/song?id=17729938",
+    "duration": "02:29",
+    "artists": [
+      { "name": "Francis Lai", "link": "https://music.163.com/artist?id=33420" }
+    ],
+    "album": {
+      "name": "Le cinéma de Francis Lai",
+      "link": "https://music.163.com/album?id=1632190"
+    }
+  },
+  {
+    "name": "These Are The Words",
+    "link": "https://music.163.com/song?id=18658920",
+    "duration": "03:22",
+    "artists": [
+      { "name": "James Blunt", "link": "https://music.163.com/artist?id=35329" }
+    ],
+    "album": {
+      "name": "Some Kind Of Trouble",
+      "link": "https://music.163.com/album?id=1711489"
+    }
+  },
+  {
+    "name": "anything 4 u",
+    "link": "https://music.163.com/song?id=1817977673",
+    "duration": "03:14",
+    "artists": [
+      { "name": "LANY", "link": "https://music.163.com/artist?id=999460" }
+    ],
+    "album": {
+      "name": "mama's boy (deluxe)",
+      "link": "https://music.163.com/album?id=93938444"
+    }
+  },
+  {
+    "name": "Drowning",
+    "link": "https://music.163.com/song?id=1360802806",
+    "duration": "02:24",
+    "artists": [
+      {
+        "name": "N i G H T S",
+        "link": "https://music.163.com/artist?id=12278516"
+      }
+    ],
+    "album": {
+      "name": "Drowning",
+      "link": "https://music.163.com/album?id=78720751"
+    }
+  },
+  {
+    "name": "Paradise...How Far?",
+    "link": "https://music.163.com/song?id=1487205170",
+    "duration": "04:27",
+    "artists": [
+      {
+        "name": "椅子乐团 The Chairs",
+        "link": "https://music.163.com/artist?id=12029112"
+      }
+    ],
+    "album": {
+      "name": "Real Love Is...",
+      "link": "https://music.163.com/album?id=96824976"
+    }
+  },
+  {
+    "name": "Run the World!!!",
+    "link": "https://music.163.com/song?id=1376949118",
+    "duration": "02:56",
+    "artists": [
+      { "name": "Dayglow", "link": "https://music.163.com/artist?id=32722449" }
+    ],
+    "album": {
+      "name": "Fuzzybrain",
+      "link": "https://music.163.com/album?id=82491618"
+    }
+  },
+  {
+    "name": "How to Use Excel",
+    "link": "https://music.163.com/song?id=1906232660",
+    "duration": "02:01",
+    "artists": [
+      {
+        "name": "橘子海 (Orange Ocean)",
+        "link": "https://music.163.com/artist?id=1184074"
+      }
+    ],
+    "album": {
+      "name": "EXCEL",
+      "link": "https://music.163.com/album?id=137961440"
+    }
+  },
+  {
+    "name": "夏夜晚风",
+    "link": "https://music.163.com/song?id=1480095069",
+    "duration": "03:28",
+    "artists": [
+      {
+        "name": "LAYTON WU",
+        "link": "https://music.163.com/artist?id=36825377"
+      }
+    ],
+    "album": {
+      "name": "夏夜晚风",
+      "link": "https://music.163.com/album?id=95575645"
+    }
+  },
+  {
+    "name": "The Ecstacy Once Told",
+    "link": "https://music.163.com/song?id=4032556",
+    "duration": "05:02",
+    "artists": [
+      {
+        "name": "Dolly Rocker Movement",
+        "link": "https://music.163.com/artist?id=90836"
+      }
+    ],
+    "album": {
+      "name": "Our Days Mind the Tyme",
+      "link": "https://music.163.com/album?id=407691"
+    }
+  },
+  {
+    "name": "When She's Gone",
+    "link": "https://music.163.com/song?id=1474035833",
+    "duration": "02:45",
+    "artists": [
+      {
+        "name": "Josh Fudge",
+        "link": "https://music.163.com/artist?id=34895286"
+      }
+    ],
+    "album": {
+      "name": "When She's Gone",
+      "link": "https://music.163.com/album?id=94495046"
+    }
+  },
+  {
+    "name": "直立行走",
+    "link": "https://music.163.com/song?id=1347526846",
+    "duration": "04:26",
+    "artists": [
+      {
+        "name": "薄荷绿乐队",
+        "link": "https://music.163.com/artist?id=12350229"
+      }
+    ],
+    "album": {
+      "name": "直立行走",
+      "link": "https://music.163.com/album?id=35315903"
+    }
+  },
+  {
+    "name": "Moscato - (莫斯卡托)",
+    "link": "https://music.163.com/song?id=1886064452",
+    "duration": "04:01",
+    "artists": [
+      { "name": "白日密语", "link": "https://music.163.com/artist?id=12371505" }
+    ],
+    "album": {
+      "name": "Moscato",
+      "link": "https://music.163.com/album?id=134584456"
+    }
+  },
+  {
+    "name": "San Narciso",
+    "link": "https://music.163.com/song?id=27579126",
+    "duration": "04:26",
+    "artists": [
+      {
+        "name": "Faded Paper Figures",
+        "link": "https://music.163.com/artist?id=813364"
+      }
+    ],
+    "album": {
+      "name": "The Matter",
+      "link": "https://music.163.com/album?id=2639470"
+    }
+  },
+  {
+    "name": "问号",
+    "link": "https://music.163.com/song?id=1495065861",
+    "duration": "02:55",
+    "artists": [
+      {
+        "name": "Vicky宣宣",
+        "link": "https://music.163.com/artist?id=33097213"
+      },
+      { "name": "零6", "link": "https://music.163.com/artist?id=12571830" }
+    ],
+    "album": {
+      "name": "问号",
+      "link": "https://music.163.com/album?id=98269054"
+    }
+  },
+  {
+    "name": "粉红泡泡梦",
+    "link": "https://music.163.com/song?id=1830737869",
+    "duration": "03:49",
+    "artists": [
+      {
+        "name": "海妖SeaMaiden",
+        "link": "https://music.163.com/artist?id=34248441"
+      }
+    ],
+    "album": {
+      "name": "Sweet Waves",
+      "link": "https://music.163.com/album?id=137056021"
+    }
+  },
+  {
+    "name": "下一个天亮",
+    "link": "https://music.163.com/song?id=1958150862",
+    "duration": "04:10",
+    "artists": [
+      { "name": "颜人中", "link": "https://music.163.com/artist?id=31376161" }
+    ],
+    "album": {
+      "name": "月光、背影与海",
+      "link": "https://music.163.com/album?id=145976397"
+    }
+  },
+  {
+    "name": "月亮里的玫瑰与故事 - (moon,rose,story)",
+    "link": "https://music.163.com/song?id=1961506634",
+    "duration": "03:23",
+    "artists": [
+      { "name": "王OK", "link": "https://music.163.com/artist?id=27871957" },
+      { "name": "DAYDREAM", "link": "https://music.163.com/artist?id=52972103" }
+    ],
+    "album": {
+      "name": "月亮里的玫瑰与故事",
+      "link": "https://music.163.com/album?id=147640888"
+    }
+  },
+  {
+    "name": "吞吐 (Puff)",
+    "link": "https://music.163.com/song?id=1811283484",
+    "duration": "04:25",
+    "artists": [
+      {
+        "name": "八仙饭店 (8 Immortals Restaurant)",
+        "link": "https://music.163.com/artist?id=46442509"
+      }
+    ],
+    "album": {
+      "name": "极乐大厦揭幕 Inauguration of the Pleasure Dome",
+      "link": "https://music.163.com/album?id=121488992"
+    }
+  },
+  {
+    "name": "深海",
+    "link": "https://music.163.com/song?id=1860234945",
+    "duration": "04:54",
+    "artists": [
+      { "name": "刘森", "link": "https://music.163.com/artist?id=32673826" }
+    ],
+    "album": {
+      "name": "华北浪革",
+      "link": "https://music.163.com/album?id=130185746"
+    }
+  },
+  {
+    "name": "Mavra Korakia (Chorus)",
+    "link": "https://music.163.com/song?id=514689472",
+    "duration": "02:48",
+    "artists": [
+      {
+        "name": "Maria Dimitriadi",
+        "link": "https://music.163.com/artist?id=156761"
+      },
+      {
+        "name": "Afroditi Manou",
+        "link": "https://music.163.com/artist?id=155892"
+      }
+    ],
+    "album": {
+      "name": "Τα Αντάρτικα (Τραγούδια Της Αντίστασης)",
+      "link": "https://music.163.com/album?id=36661650"
+    }
+  },
+  {
+    "name": "P S Y C H O",
+    "link": "https://music.163.com/song?id=1336856180",
+    "duration": "02:25",
+    "artists": [
+      {
+        "name": "IS MAYONNAISE AN INSTRUMENT?",
+        "link": "https://music.163.com/artist?id=31209752"
+      }
+    ],
+    "album": {
+      "name": "P S Y C H O",
+      "link": "https://music.163.com/album?id=75016701"
+    }
+  },
+  {
+    "name": "11",
+    "link": "https://music.163.com/song?id=1907766514",
+    "duration": "03:54",
+    "artists": [
+      { "name": "队长", "link": "https://music.163.com/artist?id=1143033" },
+      { "name": "黄礼格", "link": "https://music.163.com/artist?id=1019154" }
+    ],
+    "album": {
+      "name": "11",
+      "link": "https://music.163.com/album?id=138162415"
+    }
+  },
+  {
+    "name": "Come Around Me",
+    "link": "https://music.163.com/song?id=1496770948",
+    "duration": "03:20",
+    "artists": [
+      {
+        "name": "Justin Bieber",
+        "link": "https://music.163.com/artist?id=35531"
+      }
+    ],
+    "album": {
+      "name": "2020 Hits",
+      "link": "https://music.163.com/album?id=98552611"
+    }
+  },
+  {
+    "name": "兴奋到死的东西",
+    "link": "https://music.163.com/song?id=1369034687",
+    "duration": "04:57",
+    "artists": [
+      { "name": "回春丹", "link": "https://music.163.com/artist?id=27730224" }
+    ],
+    "album": {
+      "name": "兴奋到死的东西",
+      "link": "https://music.163.com/album?id=79496185"
+    }
+  },
+  {
+    "name": "曾 经 错 过 与 你",
+    "link": "https://music.163.com/song?id=1814779807",
+    "duration": "04:14",
+    "artists": [
+      {
+        "name": "海德薇乐队(THE HEDWIG)",
+        "link": "https://music.163.com/artist?id=46580141"
+      }
+    ],
+    "album": {
+      "name": "眩晕俱乐部Vertigo Club",
+      "link": "https://music.163.com/album?id=122043966"
+    }
+  },
+  {
+    "name": "白兰鸽巡游记",
+    "link": "https://music.163.com/song?id=29593805",
+    "duration": "04:00",
+    "artists": [
+      { "name": "丢火车", "link": "https://music.163.com/artist?id=11370" }
+    ],
+    "album": {
+      "name": "游歌",
+      "link": "https://music.163.com/album?id=3054145"
+    }
+  }
+]
