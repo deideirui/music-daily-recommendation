@@ -1,0 +1,444 @@
+[
+  {
+    "name": "生活在别处",
+    "link": "https://music.163.com/song?id=1806516962",
+    "duration": "03:19",
+    "artists": [
+      { "name": "陈婧霏", "link": "https://music.163.com/artist?id=12789956" }
+    ],
+    "album": {
+      "name": "陈婧霏",
+      "link": "https://music.163.com/album?id=120797139"
+    }
+  },
+  {
+    "name": "Never Grow Old",
+    "link": "https://music.163.com/song?id=27016133",
+    "duration": "02:37",
+    "artists": [
+      {
+        "name": "The Cranberries",
+        "link": "https://music.163.com/artist?id=101982"
+      }
+    ],
+    "album": {
+      "name": "Sus 50 Mejores Canciones",
+      "link": "https://music.163.com/album?id=2578375"
+    }
+  },
+  {
+    "name": "CACTUS",
+    "link": "https://music.163.com/song?id=1813801764",
+    "duration": "04:06",
+    "artists": [
+      { "name": "LÜCY", "link": "https://music.163.com/artist?id=46617775" }
+    ],
+    "album": {
+      "name": "CACTUS",
+      "link": "https://music.163.com/album?id=121949142"
+    }
+  },
+  {
+    "name": "Emotion",
+    "link": "https://music.163.com/song?id=1346272701",
+    "duration": "03:24",
+    "artists": [
+      {
+        "name": "hazey eyes",
+        "link": "https://music.163.com/artist?id=12047491"
+      },
+      { "name": "Panama", "link": "https://music.163.com/artist?id=308297" }
+    ],
+    "album": {
+      "name": "Love Lost - EP",
+      "link": "https://music.163.com/album?id=75579983"
+    }
+  },
+  {
+    "name": "Turpentine",
+    "link": "https://music.163.com/song?id=16783823",
+    "duration": "02:58",
+    "artists": [
+      {
+        "name": "Brandi Carlile",
+        "link": "https://music.163.com/artist?id=48515"
+      }
+    ],
+    "album": {
+      "name": "The Story",
+      "link": "https://music.163.com/album?id=1547032"
+    }
+  },
+  {
+    "name": "我的身旁是一扇亮了又暗的窗 - (Flashback)",
+    "link": "https://music.163.com/song?id=1294899223",
+    "duration": "03:52",
+    "artists": [
+      { "name": "理想后花园", "link": "https://music.163.com/artist?id=844646" }
+    ],
+    "album": {
+      "name": "这个世界让你紧张害怕吗？",
+      "link": "https://music.163.com/album?id=71852932"
+    }
+  },
+  {
+    "name": "日落大道",
+    "link": "https://music.163.com/song?id=36392029",
+    "duration": "04:35",
+    "artists": [
+      { "name": "梁博", "link": "https://music.163.com/artist?id=166010" }
+    ],
+    "album": {
+      "name": "迷藏",
+      "link": "https://music.163.com/album?id=3398023"
+    }
+  },
+  {
+    "name": "Sleep On The Floor",
+    "link": "https://music.163.com/song?id=409149449",
+    "duration": "03:31",
+    "artists": [
+      {
+        "name": "The Lumineers",
+        "link": "https://music.163.com/artist?id=96151"
+      }
+    ],
+    "album": {
+      "name": "Cleopatra (Deluxe Version)",
+      "link": "https://music.163.com/album?id=34590976"
+    }
+  },
+  {
+    "name": "我要你好好的",
+    "link": "https://music.163.com/song?id=1438463386",
+    "duration": "03:21",
+    "artists": [
+      {
+        "name": "帆布小镇（Canvas Townlet）",
+        "link": "https://music.163.com/artist?id=33373308"
+      }
+    ],
+    "album": {
+      "name": "当夜空落去，城市继续前行",
+      "link": "https://music.163.com/album?id=86886864"
+    }
+  },
+  {
+    "name": "你没问过我为什么变了",
+    "link": "https://music.163.com/song?id=1411674006",
+    "duration": "04:50",
+    "artists": [
+      { "name": "周末班车", "link": "https://music.163.com/artist?id=33400892" }
+    ],
+    "album": {
+      "name": "蓝色",
+      "link": "https://music.163.com/album?id=84281972"
+    }
+  },
+  {
+    "name": "Changes",
+    "link": "https://music.163.com/song?id=18587410",
+    "duration": "04:13",
+    "artists": [
+      {
+        "name": "Jack Savoretti",
+        "link": "https://music.163.com/artist?id=35449"
+      }
+    ],
+    "album": {
+      "name": "Before the Storm",
+      "link": "https://music.163.com/album?id=1706146"
+    }
+  },
+  {
+    "name": "Dream",
+    "link": "https://music.163.com/song?id=1841195310",
+    "duration": "05:15",
+    "artists": [
+      {
+        "name": "梦游动物园",
+        "link": "https://music.163.com/artist?id=12798669"
+      }
+    ],
+    "album": {
+      "name": "How I Crossed Your Mind",
+      "link": "https://music.163.com/album?id=126730706"
+    }
+  },
+  {
+    "name": "沙发上的白日梦",
+    "link": "https://music.163.com/song?id=1406062963",
+    "duration": "04:02",
+    "artists": [
+      {
+        "name": "SoulFa 灵魂沙发",
+        "link": "https://music.163.com/artist?id=30110421"
+      }
+    ],
+    "album": {
+      "name": "SoulFa",
+      "link": "https://music.163.com/album?id=83679409"
+    }
+  },
+  {
+    "name": "Garden",
+    "link": "https://music.163.com/song?id=25780279",
+    "duration": "03:48",
+    "artists": [
+      {
+        "name": "77 Bombay Street",
+        "link": "https://music.163.com/artist?id=105983"
+      }
+    ],
+    "album": {
+      "name": "Oko Town",
+      "link": "https://music.163.com/album?id=1779597"
+    }
+  },
+  {
+    "name": "西湖",
+    "link": "https://music.163.com/song?id=381849",
+    "duration": "04:13",
+    "artists": [
+      { "name": "痛仰乐队", "link": "https://music.163.com/artist?id=12971" }
+    ],
+    "album": {
+      "name": "不要停止我的音乐",
+      "link": "https://music.163.com/album?id=37797"
+    }
+  },
+  {
+    "name": "慈城公园交谊舞",
+    "link": "https://music.163.com/song?id=1307385071",
+    "duration": "03:18",
+    "artists": [
+      { "name": "还潮", "link": "https://music.163.com/artist?id=13197192" }
+    ],
+    "album": {
+      "name": "宁波人有三譬好譬（The Ningbonese Philosophy of Consolation）",
+      "link": "https://music.163.com/album?id=37796889"
+    }
+  },
+  {
+    "name": "Someone You Hate",
+    "link": "https://music.163.com/song?id=1486964419",
+    "duration": "03:56",
+    "artists": [
+      {
+        "name": "Sasha Alex Sloan",
+        "link": "https://music.163.com/artist?id=12646102"
+      }
+    ],
+    "album": {
+      "name": "Only Child",
+      "link": "https://music.163.com/album?id=96769235"
+    }
+  },
+  {
+    "name": "Radical (feat. Grouplove)",
+    "link": "https://music.163.com/song?id=1489216280",
+    "duration": "03:35",
+    "artists": [
+      { "name": "AWOLNATION", "link": "https://music.163.com/artist?id=87095" },
+      { "name": "Grouplove", "link": "https://music.163.com/artist?id=93502" }
+    ],
+    "album": {
+      "name": "Radical (feat. Grouplove)",
+      "link": "https://music.163.com/album?id=97216289"
+    }
+  },
+  {
+    "name": "猫的理想",
+    "link": "https://music.163.com/song?id=1494753089",
+    "duration": "05:06",
+    "artists": [
+      {
+        "name": "红白色乐队",
+        "link": "https://music.163.com/artist?id=12025585"
+      }
+    ],
+    "album": {
+      "name": "1519",
+      "link": "https://music.163.com/album?id=127098949"
+    }
+  },
+  {
+    "name": "认真地老去",
+    "link": "https://music.163.com/song?id=461080452",
+    "duration": "03:43",
+    "artists": [
+      { "name": "张希", "link": "https://music.163.com/artist?id=1085116" },
+      { "name": "曹方", "link": "https://music.163.com/artist?id=7215" }
+    ],
+    "album": {
+      "name": "认真地老去",
+      "link": "https://music.163.com/album?id=35696747"
+    }
+  },
+  {
+    "name": "安九",
+    "link": "https://music.163.com/song?id=1384356392",
+    "duration": "06:26",
+    "artists": [
+      { "name": "老王乐队", "link": "https://music.163.com/artist?id=12676071" }
+    ],
+    "album": {
+      "name": "吾日三省吾身",
+      "link": "https://music.163.com/album?id=82497735"
+    }
+  },
+  {
+    "name": "火车",
+    "link": "https://music.163.com/song?id=1389882755",
+    "duration": "02:23",
+    "artists": [
+      {
+        "name": "THE BOOTLEGS 靴腿",
+        "link": "https://music.163.com/artist?id=33139178"
+      }
+    ],
+    "album": {
+      "name": "I Feel Good",
+      "link": "https://music.163.com/album?id=81420259"
+    }
+  },
+  {
+    "name": "Wide Open",
+    "link": "https://music.163.com/song?id=28291059",
+    "duration": "04:50",
+    "artists": [
+      {
+        "name": "My Sad Captains",
+        "link": "https://music.163.com/artist?id=96290"
+      }
+    ],
+    "album": {
+      "name": "Best Of Times",
+      "link": "https://music.163.com/album?id=2769101"
+    }
+  },
+  {
+    "name": "中心地带",
+    "link": "https://music.163.com/song?id=1952295861",
+    "duration": "03:29",
+    "artists": [
+      { "name": "刘大拿", "link": "https://music.163.com/artist?id=29588305" }
+    ],
+    "album": {
+      "name": "中心地带",
+      "link": "https://music.163.com/album?id=145800654"
+    }
+  },
+  {
+    "name": "Love You When You’re Gone",
+    "link": "https://music.163.com/song?id=1950798672",
+    "duration": "03:04",
+    "artists": [
+      { "name": "Daya", "link": "https://music.163.com/artist?id=1081186" }
+    ],
+    "album": {
+      "name": "Love You When You’re Gone",
+      "link": "https://music.163.com/album?id=145564617"
+    }
+  },
+  {
+    "name": "Wonderful Tonight",
+    "link": "https://music.163.com/song?id=5048569",
+    "duration": "03:39",
+    "artists": [
+      {
+        "name": "Eric Clapton",
+        "link": "https://music.163.com/artist?id=32664"
+      }
+    ],
+    "album": {
+      "name": "Friends",
+      "link": "https://music.163.com/album?id=501035"
+    }
+  },
+  {
+    "name": "No Effort",
+    "link": "https://music.163.com/song?id=1924258689",
+    "duration": "02:48",
+    "artists": [
+      {
+        "name": "Princess Nokia",
+        "link": "https://music.163.com/artist?id=954169"
+      }
+    ],
+    "album": {
+      "name": "No Effort",
+      "link": "https://music.163.com/album?id=141094973"
+    }
+  },
+  {
+    "name": "GANGSTER-Opr（Low Speed）",
+    "link": "https://music.163.com/song?id=1902653318",
+    "duration": "04:00",
+    "artists": [
+      { "name": "Speak", "link": "https://music.163.com/artist?id=48423057" }
+    ],
+    "album": {
+      "name": "Gesaffelstein-Opr（Low Speed）",
+      "link": "https://music.163.com/album?id=136677882"
+    }
+  },
+  {
+    "name": "We Don't Talk Any more Slowed（带环绕）（AD_Gai）",
+    "link": "https://music.163.com/song?id=1842488843",
+    "duration": "03:23",
+    "artists": [
+      { "name": "AD_概", "link": "https://music.163.com/artist?id=35876989" }
+    ],
+    "album": {
+      "name": "AD_Gai",
+      "link": "https://music.163.com/album?id=126932046"
+    }
+  },
+  {
+    "name": "Mindless Bliss",
+    "link": "https://music.163.com/song?id=1444634055",
+    "duration": "03:33",
+    "artists": [
+      {
+        "name": "Unlike Pluto",
+        "link": "https://music.163.com/artist?id=860945"
+      }
+    ],
+    "album": {
+      "name": "Mindless Bliss",
+      "link": "https://music.163.com/album?id=88768233"
+    }
+  },
+  {
+    "name": "Arioso (Adagio in G) from Cantata BWV 156 (Arr. Lloyd Webber)",
+    "link": "https://music.163.com/song?id=25480736",
+    "duration": "02:51",
+    "artists": [
+      {
+        "name": "Julian Lloyd Webber",
+        "link": "https://music.163.com/artist?id=37296"
+      },
+      {
+        "name": "John Lenehan",
+        "link": "https://music.163.com/artist?id=37057"
+      }
+    ],
+    "album": {
+      "name": "Baroque Adagios",
+      "link": "https://music.163.com/album?id=2237108"
+    }
+  },
+  {
+    "name": "不要怕&啊杰咯 - (Don't be afraid)",
+    "link": "https://music.163.com/song?id=571069109",
+    "duration": "05:23",
+    "artists": [
+      { "name": "莫西子诗", "link": "https://music.163.com/artist?id=896927" }
+    ],
+    "album": {
+      "name": "不要怕&啊杰咯",
+      "link": "https://music.163.com/album?id=39577032"
+    }
+  }
+]
