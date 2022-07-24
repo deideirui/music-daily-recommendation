@@ -1,0 +1,443 @@
+[
+  {
+    "name": "问题",
+    "link": "https://music.163.com/song?id=1887031459",
+    "duration": "05:30",
+    "artists": [
+      { "name": "许钧", "link": "https://music.163.com/artist?id=1190143" }
+    ],
+    "album": {
+      "name": "美梦公司",
+      "link": "https://music.163.com/album?id=134791512"
+    }
+  },
+  {
+    "name": "Summer Ends",
+    "link": "https://music.163.com/song?id=1389882972",
+    "duration": "03:02",
+    "artists": [
+      {
+        "name": "THE BOOTLEGS 靴腿",
+        "link": "https://music.163.com/artist?id=33139178"
+      }
+    ],
+    "album": {
+      "name": "I Feel Good",
+      "link": "https://music.163.com/album?id=81420259"
+    }
+  },
+  {
+    "name": "夏日物语",
+    "link": "https://music.163.com/song?id=1840440193",
+    "duration": "04:35",
+    "artists": [
+      { "name": "卓越", "link": "https://music.163.com/artist?id=896985" }
+    ],
+    "album": {
+      "name": "夏日物语",
+      "link": "https://music.163.com/album?id=126581309"
+    }
+  },
+  {
+    "name": "妳",
+    "link": "https://music.163.com/song?id=458711231",
+    "duration": "03:44",
+    "artists": [
+      { "name": "马赛克", "link": "https://music.163.com/artist?id=12328" }
+    ],
+    "album": {
+      "name": "NO CLUB",
+      "link": "https://music.163.com/album?id=35158731"
+    }
+  },
+  {
+    "name": "The Fall",
+    "link": "https://music.163.com/song?id=1965269341",
+    "duration": "03:16",
+    "artists": [
+      {
+        "name": "The Chainsmokers",
+        "link": "https://music.163.com/artist?id=893484"
+      },
+      { "name": "Ship Wrek", "link": "https://music.163.com/artist?id=1182569" }
+    ],
+    "album": {
+      "name": "So Far So Good (+ Time Bomb)",
+      "link": "https://music.163.com/album?id=148326270"
+    }
+  },
+  {
+    "name": "新地球 - (Brave New World)",
+    "link": "https://music.163.com/song?id=29774171",
+    "duration": "04:37",
+    "artists": [
+      { "name": "林俊杰", "link": "https://music.163.com/artist?id=3684" }
+    ],
+    "album": {
+      "name": "新地球 - 人 (Special Edition)",
+      "link": "https://music.163.com/album?id=3056951"
+    }
+  },
+  {
+    "name": "月光",
+    "link": "https://music.163.com/song?id=1452668705",
+    "duration": "03:05",
+    "artists": [
+      { "name": "浅堤", "link": "https://music.163.com/artist?id=13429295" }
+    ],
+    "album": {
+      "name": "不完整的村庄",
+      "link": "https://music.163.com/album?id=90276347"
+    }
+  },
+  {
+    "name": "Advice From A Caterpillar",
+    "link": "https://music.163.com/song?id=1810072698",
+    "duration": "02:19",
+    "artists": [
+      { "name": "kidult.", "link": "https://music.163.com/artist?id=12194916" }
+    ],
+    "album": {
+      "name": "ALICE",
+      "link": "https://music.163.com/album?id=120899552"
+    }
+  },
+  {
+    "name": "嘿，请你爱我吧",
+    "link": "https://music.163.com/song?id=1899687006",
+    "duration": "03:56",
+    "artists": [
+      {
+        "name": "霓虹花园",
+        "link": "https://music.163.com/artist?id=13155879"
+      },
+      { "name": "汉堡黄", "link": "https://music.163.com/artist?id=12276200" }
+    ],
+    "album": {
+      "name": "嘿，请你爱我吧",
+      "link": "https://music.163.com/album?id=136866801"
+    }
+  },
+  {
+    "name": "海风 Ocean Breeze",
+    "link": "https://music.163.com/song?id=1850910161",
+    "duration": "03:49",
+    "artists": [
+      {
+        "name": "海德薇乐队(THE HEDWIG)",
+        "link": "https://music.163.com/artist?id=46580141"
+      }
+    ],
+    "album": {
+      "name": "open 24 hours",
+      "link": "https://music.163.com/album?id=128506737"
+    }
+  },
+  {
+    "name": "送你匕首",
+    "link": "https://music.163.com/song?id=1449559810",
+    "duration": "04:24",
+    "artists": [
+      { "name": "蛙池", "link": "https://music.163.com/artist?id=32432697" }
+    ],
+    "album": {
+      "name": "送你匕首 Demo",
+      "link": "https://music.163.com/album?id=89638554"
+    }
+  },
+  {
+    "name": "没有人能够比我们更接近对方",
+    "link": "https://music.163.com/song?id=1468592465",
+    "duration": "06:10",
+    "artists": [
+      { "name": "声音玩具", "link": "https://music.163.com/artist?id=12711" }
+    ],
+    "album": {
+      "name": "劳动之余",
+      "link": "https://music.163.com/album?id=126677649"
+    }
+  },
+  {
+    "name": "泸沽湖",
+    "link": "https://music.163.com/song?id=469073823",
+    "duration": "04:06",
+    "artists": [
+      { "name": "麻园诗人", "link": "https://music.163.com/artist?id=4556" }
+    ],
+    "album": {
+      "name": "不爱说话的人",
+      "link": "https://music.163.com/album?id=35327406"
+    }
+  },
+  {
+    "name": "Silence",
+    "link": "https://music.163.com/song?id=1311530752",
+    "duration": "03:20",
+    "artists": [
+      {
+        "name": "Before You Exit",
+        "link": "https://music.163.com/artist?id=88867"
+      }
+    ],
+    "album": {
+      "name": "Silence",
+      "link": "https://music.163.com/album?id=73495873"
+    }
+  },
+  {
+    "name": "Every Breath You Take",
+    "link": "https://music.163.com/song?id=1852878597",
+    "duration": "02:35",
+    "artists": [
+      { "name": "从和文", "link": "https://music.163.com/artist?id=32264375" }
+    ],
+    "album": {
+      "name": "sea of clouds",
+      "link": "https://music.163.com/album?id=123540034"
+    }
+  },
+  {
+    "name": "你是落日弥漫的橘，天边透亮的星",
+    "link": "https://music.163.com/song?id=1463366813",
+    "duration": "03:18",
+    "artists": [
+      { "name": "Hea2t", "link": "https://music.163.com/artist?id=12020036" }
+    ],
+    "album": {
+      "name": "你是落日弥漫的橘，天边透亮的星",
+      "link": "https://music.163.com/album?id=92445455"
+    }
+  },
+  {
+    "name": "孤寂绝尘(忧伤远行版）",
+    "link": "https://music.163.com/song?id=1855412867",
+    "duration": "02:26",
+    "artists": [
+      { "name": "侯暄楠", "link": "https://music.163.com/artist?id=12912254" }
+    ],
+    "album": {
+      "name": "四季人生",
+      "link": "https://music.163.com/album?id=38533395"
+    }
+  },
+  {
+    "name": "盛开的年华",
+    "link": "https://music.163.com/song?id=1960112167",
+    "duration": "03:30",
+    "artists": [
+      { "name": "陈伟霆", "link": "https://music.163.com/artist?id=2164" }
+    ],
+    "album": {
+      "name": "盛开的年华",
+      "link": "https://music.163.com/album?id=147370486"
+    }
+  },
+  {
+    "name": "Miss America",
+    "link": "https://music.163.com/song?id=1959789677",
+    "duration": "02:52",
+    "artists": [
+      { "name": "Bazzi", "link": "https://music.163.com/artist?id=12262073" }
+    ],
+    "album": {
+      "name": "Miss America",
+      "link": "https://music.163.com/album?id=147245466"
+    }
+  },
+  {
+    "name": "That's Why I Like You",
+    "link": "https://music.163.com/song?id=1414112307",
+    "duration": "03:33",
+    "artists": [
+      { "name": "周兴哲", "link": "https://music.163.com/artist?id=980025" }
+    ],
+    "album": {
+      "name": "小时候的我们",
+      "link": "https://music.163.com/album?id=84710447"
+    }
+  },
+  {
+    "name": "Wassuh",
+    "link": "https://music.163.com/song?id=526099067",
+    "duration": "02:21",
+    "artists": [
+      { "name": "AQVOL", "link": "https://music.163.com/artist?id=12246023" }
+    ],
+    "album": {
+      "name": "Wassuh - Single",
+      "link": "https://music.163.com/album?id=37028395"
+    }
+  },
+  {
+    "name": "death bed (coffee for your head)",
+    "link": "https://music.163.com/song?id=1410815174",
+    "duration": "02:53",
+    "artists": [
+      { "name": "Powfu", "link": "https://music.163.com/artist?id=28900371" },
+      {
+        "name": "beabadoobee",
+        "link": "https://music.163.com/artist?id=29639890"
+      }
+    ],
+    "album": {
+      "name": "death bed (coffee for your head)",
+      "link": "https://music.163.com/album?id=84238505"
+    }
+  },
+  {
+    "name": "芳华",
+    "link": "https://music.163.com/song?id=1959688546",
+    "duration": "03:54",
+    "artists": [
+      { "name": "阿云嘎", "link": "https://music.163.com/artist?id=12200490" }
+    ],
+    "album": {
+      "name": "芳华",
+      "link": "https://music.163.com/album?id=147210757"
+    }
+  },
+  {
+    "name": "Mr. Forgettable",
+    "link": "https://music.163.com/song?id=1925320391",
+    "duration": "03:07",
+    "artists": [
+      {
+        "name": "David Kushner",
+        "link": "https://music.163.com/artist?id=27984468"
+      }
+    ],
+    "album": {
+      "name": "Mr. Forgettable",
+      "link": "https://music.163.com/album?id=141308776"
+    }
+  },
+  {
+    "name": "Find My Way To You (feat. Shalom Margaret)",
+    "link": "https://music.163.com/song?id=1459065224",
+    "duration": "02:07",
+    "artists": [
+      {
+        "name": "Myles Parrish",
+        "link": "https://music.163.com/artist?id=15271597"
+      },
+      {
+        "name": "Shalom Margaret",
+        "link": "https://music.163.com/artist?id=35761468"
+      }
+    ],
+    "album": {
+      "name": "Find My Way To You (feat. Shalom Margaret)",
+      "link": "https://music.163.com/album?id=91705461"
+    }
+  },
+  {
+    "name": "Better To Lie",
+    "link": "https://music.163.com/song?id=1450888338",
+    "duration": "02:50",
+    "artists": [
+      {
+        "name": "Chris James",
+        "link": "https://music.163.com/artist?id=145038"
+      }
+    ],
+    "album": {
+      "name": "Storm Season",
+      "link": "https://music.163.com/album?id=89945075"
+    }
+  },
+  {
+    "name": "Psycho, Pt. 2",
+    "link": "https://music.163.com/song?id=440208643",
+    "duration": "02:41",
+    "artists": [
+      { "name": "Russ", "link": "https://music.163.com/artist?id=241588" }
+    ],
+    "album": {
+      "name": "Psycho, Pt. 2",
+      "link": "https://music.163.com/album?id=34985203"
+    }
+  },
+  {
+    "name": "Another Friend",
+    "link": "https://music.163.com/song?id=556064597",
+    "duration": "02:52",
+    "artists": [
+      { "name": "Kiso", "link": "https://music.163.com/artist?id=1089102" },
+      { "name": "Tep No", "link": "https://music.163.com/artist?id=956357" }
+    ],
+    "album": {
+      "name": "Another Friend",
+      "link": "https://music.163.com/album?id=38519324"
+    }
+  },
+  {
+    "name": "Ayo",
+    "link": "https://music.163.com/song?id=29809963",
+    "duration": "03:46",
+    "artists": [
+      {
+        "name": "Chris Brown",
+        "link": "https://music.163.com/artist?id=29960"
+      },
+      { "name": "Tyga", "link": "https://music.163.com/artist?id=45033" }
+    ],
+    "album": { "name": "Ayo", "link": "https://music.163.com/album?id=3081340" }
+  },
+  {
+    "name": "Talking to the Moon",
+    "link": "https://music.163.com/song?id=1325711964",
+    "duration": "02:30",
+    "artists": [
+      {
+        "name": "modernized",
+        "link": "https://music.163.com/artist?id=30867134"
+      }
+    ],
+    "album": {
+      "name": "talking to the moon",
+      "link": "https://music.163.com/album?id=74267338"
+    }
+  },
+  {
+    "name": "Because of You - (因为你)",
+    "link": "https://music.163.com/song?id=16232697",
+    "duration": "03:40",
+    "artists": [
+      {
+        "name": "Kelly Clarkson",
+        "link": "https://music.163.com/artist?id=62885"
+      }
+    ],
+    "album": {
+      "name": "Because Of You",
+      "link": "https://music.163.com/album?id=1496741"
+    }
+  },
+  {
+    "name": "So Sick",
+    "link": "https://music.163.com/song?id=1786869",
+    "duration": "03:28",
+    "artists": [
+      { "name": "Ne-Yo", "link": "https://music.163.com/artist?id=40423" }
+    ],
+    "album": {
+      "name": "The Collection",
+      "link": "https://music.163.com/album?id=180584"
+    }
+  },
+  {
+    "name": "It Only Gets Much Worse",
+    "link": "https://music.163.com/song?id=32619207",
+    "duration": "04:17",
+    "artists": [
+      {
+        "name": "Nate Ruess",
+        "link": "https://music.163.com/artist?id=1050321"
+      }
+    ],
+    "album": {
+      "name": "Grand Romantic",
+      "link": "https://music.163.com/album?id=3159444"
+    }
+  }
+]
