@@ -1,0 +1,451 @@
+[
+  {
+    "name": "Heaven.zip",
+    "link": "https://music.163.com/song?id=1833872842",
+    "duration": "02:43",
+    "artists": [
+      { "name": "LÜCY", "link": "https://music.163.com/artist?id=46617775" }
+    ],
+    "album": {
+      "name": "Heaven.zip",
+      "link": "https://music.163.com/album?id=125406226"
+    }
+  },
+  {
+    "name": "Friday",
+    "link": "https://music.163.com/song?id=1461792973",
+    "duration": "03:24",
+    "artists": [
+      {
+        "name": "Freak Slug",
+        "link": "https://music.163.com/artist?id=31991217"
+      },
+      { "name": "niquo", "link": "https://music.163.com/artist?id=30742747" }
+    ],
+    "album": {
+      "name": "Friday",
+      "link": "https://music.163.com/album?id=92235219"
+    }
+  },
+  {
+    "name": "朝 Asa - (清晨)",
+    "link": "https://music.163.com/song?id=1451700517",
+    "duration": "03:46",
+    "artists": [
+      { "name": "Mandarin", "link": "https://music.163.com/artist?id=35220943" }
+    ],
+    "album": {
+      "name": "朝 Asa",
+      "link": "https://music.163.com/album?id=90103355"
+    }
+  },
+  {
+    "name": "Lonestar",
+    "link": "https://music.163.com/song?id=1960129460",
+    "duration": "04:28",
+    "artists": [
+      {
+        "name": "椅子乐团 The Chairs",
+        "link": "https://music.163.com/artist?id=12029112"
+      }
+    ],
+    "album": {
+      "name": "Shangri-La Is Calling",
+      "link": "https://music.163.com/album?id=147371924"
+    }
+  },
+  {
+    "name": "世外桃源",
+    "link": "https://music.163.com/song?id=25657384",
+    "duration": "04:47",
+    "artists": [
+      { "name": "许巍", "link": "https://music.163.com/artist?id=5770" }
+    ],
+    "album": {
+      "name": "此时此刻",
+      "link": "https://music.163.com/album?id=2270080"
+    }
+  },
+  {
+    "name": "温情",
+    "link": "https://music.163.com/song?id=1860129265",
+    "duration": "03:06",
+    "artists": [
+      { "name": "刘森", "link": "https://music.163.com/artist?id=32673826" }
+    ],
+    "album": {
+      "name": "华北浪革",
+      "link": "https://music.163.com/album?id=130185746"
+    }
+  },
+  {
+    "name": "海边旅馆一夜",
+    "link": "https://music.163.com/song?id=1479510189",
+    "duration": "04:42",
+    "artists": [
+      {
+        "name": "Schoolgirl byebye",
+        "link": "https://music.163.com/artist?id=1194019"
+      }
+    ],
+    "album": {
+      "name": "软弱",
+      "link": "https://music.163.com/album?id=95453111"
+    }
+  },
+  {
+    "name": "Lover Song",
+    "link": "https://music.163.com/song?id=1345336709",
+    "duration": "03:47",
+    "artists": [
+      {
+        "name": "SoulFa 灵魂沙发",
+        "link": "https://music.163.com/artist?id=30110421"
+      }
+    ],
+    "album": {
+      "name": "Lover Song",
+      "link": "https://music.163.com/album?id=75512748"
+    }
+  },
+  {
+    "name": "Still Thinking of You",
+    "link": "https://music.163.com/song?id=1473972374",
+    "duration": "02:03",
+    "artists": [
+      {
+        "name": "adam youngman",
+        "link": "https://music.163.com/artist?id=35355015"
+      },
+      {
+        "name": "imfinenow",
+        "link": "https://music.163.com/artist?id=27693703"
+      }
+    ],
+    "album": {
+      "name": "Still Thinking of You",
+      "link": "https://music.163.com/album?id=94474293"
+    }
+  },
+  {
+    "name": "直到你带走我 - (Until You)",
+    "link": "https://music.163.com/song?id=1407951448",
+    "duration": "04:21",
+    "artists": [
+      {
+        "name": "甜約翰 Sweet John",
+        "link": "https://music.163.com/artist?id=12948070"
+      }
+    ],
+    "album": {
+      "name": "城市小说选集",
+      "link": "https://music.163.com/album?id=83934922"
+    }
+  },
+  {
+    "name": "I Never Know You Come To My Life（未见之见）",
+    "link": "https://music.163.com/song?id=1332686021",
+    "duration": "04:39",
+    "artists": [
+      { "name": "棱镜乐队", "link": "https://music.163.com/artist?id=1085047" }
+    ],
+    "album": {
+      "name": "我想以世纪和你在一起",
+      "link": "https://music.163.com/album?id=94448297"
+    }
+  },
+  {
+    "name": "醉生梦死",
+    "link": "https://music.163.com/song?id=1915282845",
+    "duration": "04:45",
+    "artists": [
+      {
+        "name": "聲無哀樂乐队THEWEAPONS",
+        "link": "https://music.163.com/artist?id=35881376"
+      }
+    ],
+    "album": {
+      "name": "聲無•哀樂",
+      "link": "https://music.163.com/album?id=139481533"
+    }
+  },
+  {
+    "name": "你迎面走来，再面无表情地离开 - (You Came, and You Turned a Blind Eye)",
+    "link": "https://music.163.com/song?id=1834118074",
+    "duration": "03:48",
+    "artists": [
+      { "name": "温室杂草", "link": "https://music.163.com/artist?id=47330155" }
+    ],
+    "album": {
+      "name": "春天有脚",
+      "link": "https://music.163.com/album?id=125455491"
+    }
+  },
+  {
+    "name": "当夜空落去，城市继续前行",
+    "link": "https://music.163.com/song?id=1440222808",
+    "duration": "04:48",
+    "artists": [
+      {
+        "name": "帆布小镇（Canvas Townlet）",
+        "link": "https://music.163.com/artist?id=33373308"
+      }
+    ],
+    "album": {
+      "name": "当夜空落去，城市继续前行",
+      "link": "https://music.163.com/album?id=86886864"
+    }
+  },
+  {
+    "name": "我試過了",
+    "link": "https://music.163.com/song?id=1331463763",
+    "duration": "04:07",
+    "artists": [
+      {
+        "name": "康姆士COM'Z",
+        "link": "https://music.163.com/artist?id=12090204"
+      }
+    ],
+    "album": {
+      "name": "我試過了",
+      "link": "https://music.163.com/album?id=74757253"
+    }
+  },
+  {
+    "name": "我是一只鱼 - (I’m a fish)",
+    "link": "https://music.163.com/song?id=1411718813",
+    "duration": "04:24",
+    "artists": [
+      { "name": "落日飞车", "link": "https://music.163.com/artist?id=11074" }
+    ],
+    "album": {
+      "name": "我是一只鱼",
+      "link": "https://music.163.com/album?id=84323860"
+    }
+  },
+  {
+    "name": "Replace You (feat. Thomas Reid)",
+    "link": "https://music.163.com/song?id=1468112955",
+    "duration": "02:48",
+    "artists": [
+      { "name": "Addict.", "link": "https://music.163.com/artist?id=33035101" },
+      {
+        "name": "Thomas Reid",
+        "link": "https://music.163.com/artist?id=12261152"
+      }
+    ],
+    "album": {
+      "name": "Replace You",
+      "link": "https://music.163.com/album?id=93426002"
+    }
+  },
+  {
+    "name": "我要让你心碎",
+    "link": "https://music.163.com/song?id=1885842558",
+    "duration": "03:43",
+    "artists": [
+      {
+        "name": "达闻西乐队",
+        "link": "https://music.163.com/artist?id=12037252"
+      }
+    ],
+    "album": {
+      "name": "人间姓名",
+      "link": "https://music.163.com/album?id=134554473"
+    }
+  },
+  {
+    "name": "红色的河 (旅行团 & 吴青峰)",
+    "link": "https://music.163.com/song?id=1464928350",
+    "duration": "04:47",
+    "artists": [
+      { "name": "旅行团乐队", "link": "https://music.163.com/artist?id=12111" },
+      { "name": "吴青峰", "link": "https://music.163.com/artist?id=187229" }
+    ],
+    "album": {
+      "name": "红色的河 (旅行团 & 吴青峰)",
+      "link": "https://music.163.com/album?id=92856906"
+    }
+  },
+  {
+    "name": "爱立刻有 - (ชอบเธออะ (I Like You)女生版)",
+    "link": "https://music.163.com/song?id=1965671755",
+    "duration": "02:40",
+    "artists": [
+      { "name": "Bell玲惠", "link": "https://music.163.com/artist?id=37616858" }
+    ],
+    "album": {
+      "name": "爱立刻有",
+      "link": "https://music.163.com/album?id=148410997"
+    }
+  },
+  {
+    "name": "Three Rules of Discipline and the Eight Rules of Attention - (三大纪律八项注意)",
+    "link": "https://music.163.com/song?id=552175255",
+    "duration": "02:26",
+    "artists": [
+      {
+        "name": "Pete Seeger",
+        "link": "https://music.163.com/artist?id=41146"
+      },
+      {
+        "name": "Arlo Guthrie",
+        "link": "https://music.163.com/artist?id=27834"
+      }
+    ],
+    "album": {
+      "name": "Together in Concert (Remastered 1999)",
+      "link": "https://music.163.com/album?id=38319325"
+    }
+  },
+  {
+    "name": "雨夜",
+    "link": "https://music.163.com/song?id=512623093",
+    "duration": "02:38",
+    "artists": [
+      { "name": "蓝云木", "link": "https://music.163.com/artist?id=12277201" }
+    ],
+    "album": {
+      "name": "雨夜",
+      "link": "https://music.163.com/album?id=36521705"
+    }
+  },
+  {
+    "name": "逆流时光",
+    "link": "https://music.163.com/song?id=30394202",
+    "duration": "04:03",
+    "artists": [
+      {
+        "name": "安图声乐队",
+        "link": "https://music.163.com/artist?id=1049310"
+      }
+    ],
+    "album": {
+      "name": "ANTU SOUND ROCK",
+      "link": "https://music.163.com/album?id=3098477"
+    }
+  },
+  {
+    "name": "Until",
+    "link": "https://music.163.com/song?id=26197585",
+    "duration": "03:46",
+    "artists": [
+      {
+        "name": "Lotte Kestner",
+        "link": "https://music.163.com/artist?id=64218"
+      }
+    ],
+    "album": {
+      "name": "Until",
+      "link": "https://music.163.com/album?id=2419687"
+    }
+  },
+  {
+    "name": "城のある町にて",
+    "link": "https://music.163.com/song?id=1445299762",
+    "duration": "04:34",
+    "artists": [
+      {
+        "name": "饭碗的彼岸",
+        "link": "https://music.163.com/artist?id=1138028"
+      }
+    ],
+    "album": {
+      "name": "城のある町にて",
+      "link": "https://music.163.com/album?id=88851396"
+    }
+  },
+  {
+    "name": "我常常有一种感觉",
+    "link": "https://music.163.com/song?id=1397160249",
+    "duration": "03:58",
+    "artists": [
+      {
+        "name": "当代电影大师",
+        "link": "https://music.163.com/artist?id=33452366"
+      }
+    ],
+    "album": {
+      "name": "状态",
+      "link": "https://music.163.com/album?id=82441843"
+    }
+  },
+  {
+    "name": "遠古的夢（Edit）",
+    "link": "https://music.163.com/song?id=1393760359",
+    "duration": "04:16",
+    "artists": [
+      { "name": "许明", "link": "https://music.163.com/artist?id=5797" }
+    ],
+    "album": {
+      "name": "许明音乐精选辑『2001~2016』",
+      "link": "https://music.163.com/album?id=81872433"
+    }
+  },
+  {
+    "name": "关山月",
+    "link": "https://music.163.com/song?id=1451656076",
+    "duration": "03:36",
+    "artists": [
+      { "name": "路南", "link": "https://music.163.com/artist?id=1209003" }
+    ],
+    "album": {
+      "name": "关山月",
+      "link": "https://music.163.com/album?id=90063759"
+    }
+  },
+  {
+    "name": "Off My Mind",
+    "link": "https://music.163.com/song?id=1831706732",
+    "duration": "02:14",
+    "artists": [
+      {
+        "name": "CalenRaps",
+        "link": "https://music.163.com/artist?id=34039705"
+      }
+    ],
+    "album": {
+      "name": "Off My Mind",
+      "link": "https://music.163.com/album?id=124962108"
+    }
+  },
+  {
+    "name": "千禧卡拉OK",
+    "link": "https://music.163.com/song?id=1960175115",
+    "duration": "04:20",
+    "artists": [
+      {
+        "name": "royster lee",
+        "link": "https://music.163.com/artist?id=30796325"
+      }
+    ],
+    "album": {
+      "name": "Restart The Millennium",
+      "link": "https://music.163.com/album?id=147380968"
+    }
+  },
+  {
+    "name": "Tiktok Baby",
+    "link": "https://music.163.com/song?id=1948907975",
+    "duration": "02:43",
+    "artists": [
+      { "name": "947.ASH", "link": "https://music.163.com/artist?id=12643355" }
+    ],
+    "album": {
+      "name": "Tiktok Baby",
+      "link": "https://music.163.com/album?id=145255735"
+    }
+  },
+  {
+    "name": "茶底世界 (Live) - (上海2019.12.01)",
+    "link": "https://music.163.com/song?id=1472618658",
+    "duration": "04:59",
+    "artists": [
+      { "name": "丢火车", "link": "https://music.163.com/artist?id=11370" }
+    ],
+    "album": {
+      "name": "2019“别来无恙”丢火车乐队15周年全国巡演Live",
+      "link": "https://music.163.com/album?id=94247248"
+    }
+  }
+]
