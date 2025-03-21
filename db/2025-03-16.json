@@ -1,0 +1,437 @@
+[
+  {
+    "name": "U Got Me",
+    "link": "https://music.163.com/song?id=19878392",
+    "duration": "04:33",
+    "artists": [
+      {
+        "name": "Young London",
+        "link": "https://music.163.com/artist?id=105733"
+      }
+    ],
+    "album": {
+      "name": "Young London",
+      "link": "https://music.163.com/album?id=1836044"
+    }
+  },
+  {
+    "name": "Stay Forever",
+    "link": "https://music.163.com/song?id=1911637497",
+    "duration": "03:08",
+    "artists": [
+      { "name": "Metrush", "link": "https://music.163.com/artist?id=13225328" },
+      { "name": "GSPR", "link": "https://music.163.com/artist?id=12263887" }
+    ],
+    "album": {
+      "name": "Stay Forever",
+      "link": "https://music.163.com/album?id=138816528"
+    }
+  },
+  {
+    "name": "White Sea",
+    "link": "https://music.163.com/song?id=1399784522",
+    "duration": "04:17",
+    "artists": [
+      {
+        "name": "The Sound Of Love",
+        "link": "https://music.163.com/artist?id=12616205"
+      }
+    ],
+    "album": {
+      "name": "Nathalie (EP)",
+      "link": "https://music.163.com/album?id=82814290"
+    }
+  },
+  {
+    "name": "The Desert, I Run",
+    "link": "https://music.163.com/song?id=2119043388",
+    "duration": "03:08",
+    "artists": [
+      {
+        "name": "Forester",
+        "link": "https://music.163.com/artist?id=28437684"
+      },
+      { "name": "bailey", "link": "https://music.163.com/artist?id=12031294" }
+    ],
+    "album": {
+      "name": "Moonlight",
+      "link": "https://music.163.com/album?id=183678154"
+    }
+  },
+  {
+    "name": "黎明期",
+    "link": "https://music.163.com/song?id=2681779240",
+    "duration": "03:53",
+    "artists": [
+      { "name": "amazarashi", "link": "https://music.163.com/artist?id=18480" }
+    ],
+    "album": {
+      "name": "黎明期",
+      "link": "https://music.163.com/album?id=264958610"
+    }
+  },
+  {
+    "name": "One Love",
+    "link": "https://music.163.com/song?id=36496646",
+    "duration": "04:13",
+    "artists": [
+      { "name": "Electus", "link": "https://music.163.com/artist?id=1032300" }
+    ],
+    "album": {
+      "name": "One Love",
+      "link": "https://music.163.com/album?id=3394411"
+    }
+  },
+  {
+    "name": "Reminisce",
+    "link": "https://music.163.com/song?id=35407145",
+    "duration": "04:07",
+    "artists": [
+      { "name": "Silencyde", "link": "https://music.163.com/artist?id=1156317" }
+    ],
+    "album": {
+      "name": "Hardback Memories",
+      "link": "https://music.163.com/album?id=3317262"
+    }
+  },
+  {
+    "name": "時 - (時)",
+    "link": "https://music.163.com/song?id=624865",
+    "duration": "04:30",
+    "artists": [
+      { "name": "夏川りみ", "link": "https://music.163.com/artist?id=17309" }
+    ],
+    "album": {
+      "name": "風の道",
+      "link": "https://music.163.com/album?id=59655"
+    }
+  },
+  {
+    "name": "花のように - (像花一样)",
+    "link": "https://music.163.com/song?id=610661",
+    "duration": "04:34",
+    "artists": [
+      { "name": "松たか子", "link": "https://music.163.com/artist?id=17027" }
+    ],
+    "album": {
+      "name": "花のように",
+      "link": "https://music.163.com/album?id=58035"
+    }
+  },
+  {
+    "name": "【售断】\"我 在 等 你\" - The lyric folk pop type",
+    "link": "https://music.163.com/song?id=1805954741",
+    "duration": "03:45",
+    "artists": [
+      {
+        "name": "BECU BEATZ",
+        "link": "https://music.163.com/artist?id=14119957"
+      }
+    ],
+    "album": {
+      "name": "【FREE】",
+      "link": "https://music.163.com/album?id=144428239"
+    }
+  },
+  {
+    "name": "Lost Myself",
+    "link": "https://music.163.com/song?id=1971033897",
+    "duration": "03:34",
+    "artists": [
+      { "name": "SYML", "link": "https://music.163.com/artist?id=12048173" },
+      {
+        "name": "Guy Garvey",
+        "link": "https://music.163.com/artist?id=1150193"
+      }
+    ],
+    "album": {
+      "name": "Lost Myself",
+      "link": "https://music.163.com/album?id=149472082"
+    }
+  },
+  {
+    "name": "The Devil's Tears (Goldwave Remixed)",
+    "link": "https://music.163.com/song?id=422977040",
+    "duration": "05:11",
+    "artists": [
+      { "name": "Goldwave", "link": "https://music.163.com/artist?id=314125" },
+      {
+        "name": "Angus & Julia Stone",
+        "link": "https://music.163.com/artist?id=85532"
+      }
+    ],
+    "album": {
+      "name": "The Devil's Tears (Goldwave Remix)",
+      "link": "https://music.163.com/album?id=34791259"
+    }
+  },
+  {
+    "name": "Blue Fantasy",
+    "link": "https://music.163.com/song?id=2094685940",
+    "duration": "03:26",
+    "artists": [
+      { "name": "MoreanP", "link": "https://music.163.com/artist?id=12275337" }
+    ],
+    "album": {
+      "name": "Blue Fantasy",
+      "link": "https://music.163.com/album?id=177868979"
+    }
+  },
+  {
+    "name": "不顾一切去撒野",
+    "link": "https://music.163.com/song?id=2151158078",
+    "duration": "03:59",
+    "artists": [
+      {
+        "name": "五五分fifty-fifty",
+        "link": "https://music.163.com/artist?id=56733268"
+      }
+    ],
+    "album": {
+      "name": "和陌生人一起行走",
+      "link": "https://music.163.com/album?id=247121892"
+    }
+  },
+  {
+    "name": "Splinters",
+    "link": "https://music.163.com/song?id=1473885000",
+    "duration": "04:30",
+    "artists": [
+      {
+        "name": "Ruby Haunt",
+        "link": "https://music.163.com/artist?id=12463474"
+      }
+    ],
+    "album": {
+      "name": "Tiebreaker",
+      "link": "https://music.163.com/album?id=94460305"
+    }
+  },
+  {
+    "name": "Cruel Summer",
+    "link": "https://music.163.com/song?id=1382576173",
+    "duration": "02:58",
+    "artists": [
+      {
+        "name": "Taylor Swift",
+        "link": "https://music.163.com/artist?id=44266"
+      }
+    ],
+    "album": {
+      "name": "Lover",
+      "link": "https://music.163.com/album?id=80752440"
+    }
+  },
+  {
+    "name": "Colors of Love",
+    "link": "https://music.163.com/song?id=29460372",
+    "duration": "06:29",
+    "artists": [
+      {
+        "name": "Thomas Bergersen",
+        "link": "https://music.163.com/artist?id=45336"
+      }
+    ],
+    "album": { "name": "Sun", "link": "https://music.163.com/album?id=3029236" }
+  },
+  {
+    "name": "Islands",
+    "link": "https://music.163.com/song?id=1458664775",
+    "duration": "03:53",
+    "artists": [
+      {
+        "name": "rei brown",
+        "link": "https://music.163.com/artist?id=12917017"
+      }
+    ],
+    "album": {
+      "name": "Islands",
+      "link": "https://music.163.com/album?id=91621410"
+    }
+  },
+  {
+    "name": "Nirvana",
+    "link": "https://music.163.com/song?id=2062453766",
+    "duration": "03:39",
+    "artists": [
+      { "name": "Bumpÿ", "link": "https://music.163.com/artist?id=33999183" },
+      {
+        "name": "Clear Sky",
+        "link": "https://music.163.com/artist?id=50937496"
+      }
+    ],
+    "album": {
+      "name": "Nirvana",
+      "link": "https://music.163.com/album?id=169231387"
+    }
+  },
+  {
+    "name": "相思",
+    "link": "https://music.163.com/song?id=2644948356",
+    "duration": "03:58",
+    "artists": [
+      {
+        "name": "Infinite Mask",
+        "link": "https://music.163.com/artist?id=33037476"
+      }
+    ],
+    "album": {
+      "name": "相思",
+      "link": "https://music.163.com/album?id=253305508"
+    }
+  },
+  {
+    "name": "Someone You Hate",
+    "link": "https://music.163.com/song?id=1486964419",
+    "duration": "03:56",
+    "artists": [
+      {
+        "name": "Sasha Alex Sloan",
+        "link": "https://music.163.com/artist?id=12646102"
+      }
+    ],
+    "album": {
+      "name": "Only Child",
+      "link": "https://music.163.com/album?id=96769235"
+    }
+  },
+  {
+    "name": "Bittersweet Symphony",
+    "link": "https://music.163.com/song?id=2155774610",
+    "duration": "04:29",
+    "artists": [
+      {
+        "name": "Marc Scibilia",
+        "link": "https://music.163.com/artist?id=40295"
+      }
+    ],
+    "album": {
+      "name": "Bittersweet Symphony",
+      "link": "https://music.163.com/album?id=195808802"
+    }
+  },
+  {
+    "name": "You're The Last Thing I Need",
+    "link": "https://music.163.com/song?id=1888814995",
+    "duration": "04:11",
+    "artists": [
+      { "name": "ATB", "link": "https://music.163.com/artist?id=27623" }
+    ],
+    "album": {
+      "name": "THE DJ EP (VOL. 01)",
+      "link": "https://music.163.com/album?id=135099466"
+    }
+  },
+  {
+    "name": "Don't Look The Other Way",
+    "link": "https://music.163.com/song?id=2015198991",
+    "duration": "02:39",
+    "artists": [
+      {
+        "name": "SICKOTOY",
+        "link": "https://music.163.com/artist?id=32067692"
+      },
+      {
+        "name": "Olivia Addams",
+        "link": "https://music.163.com/artist?id=28657767"
+      }
+    ],
+    "album": {
+      "name": "Don't Look The Other Way",
+      "link": "https://music.163.com/album?id=158374753"
+    }
+  },
+  {
+    "name": "I Like It",
+    "link": "https://music.163.com/song?id=2607236073",
+    "duration": "02:32",
+    "artists": [
+      { "name": "Alesso", "link": "https://music.163.com/artist?id=29251" },
+      {
+        "name": "Nate Smith",
+        "link": "https://music.163.com/artist?id=12290071"
+      }
+    ],
+    "album": {
+      "name": "I Like It",
+      "link": "https://music.163.com/album?id=241938231"
+    }
+  },
+  {
+    "name": "Middledistancerunner (Disco Citizens Rework Extended Mix)",
+    "link": "https://music.163.com/song?id=17110523",
+    "duration": "06:37",
+    "artists": [
+      { "name": "Chicane", "link": "https://music.163.com/artist?id=50971" }
+    ],
+    "album": {
+      "name": "Middledistancerunner",
+      "link": "https://music.163.com/album?id=1576393"
+    }
+  },
+  {
+    "name": "Saviour",
+    "link": "https://music.163.com/song?id=1819624896",
+    "duration": "03:14",
+    "artists": [
+      {
+        "name": "Jada Facer",
+        "link": "https://music.163.com/artist?id=1047221"
+      }
+    ],
+    "album": {
+      "name": "Saviour",
+      "link": "https://music.163.com/album?id=122929526"
+    }
+  },
+  {
+    "name": "Places I Belong",
+    "link": "https://music.163.com/song?id=2117213709",
+    "duration": "03:46",
+    "artists": [
+      {
+        "name": "Seven Lions",
+        "link": "https://music.163.com/artist?id=44204"
+      },
+      {
+        "name": "Andrew Bayer",
+        "link": "https://music.163.com/artist?id=28912"
+      },
+      { "name": "Fiora", "link": "https://music.163.com/artist?id=57924" }
+    ],
+    "album": {
+      "name": "Places I Belong",
+      "link": "https://music.163.com/album?id=183177235"
+    }
+  },
+  {
+    "name": "Count Me Out",
+    "link": "https://music.163.com/song?id=2126937193",
+    "duration": "03:13",
+    "artists": [
+      { "name": "Vicetone", "link": "https://music.163.com/artist?id=747030" },
+      {
+        "name": "Emily Falvey",
+        "link": "https://music.163.com/artist?id=31678015"
+      }
+    ],
+    "album": {
+      "name": "Count Me Out",
+      "link": "https://music.163.com/album?id=186114715"
+    }
+  },
+  {
+    "name": "I'm worried about you - (牵系于你)",
+    "link": "https://music.163.com/song?id=1501330408",
+    "duration": "02:34",
+    "artists": [
+      { "name": "Addict.", "link": "https://music.163.com/artist?id=33035101" },
+      { "name": "Rewind", "link": "https://music.163.com/artist?id=218636" },
+      { "name": "Achex", "link": "https://music.163.com/artist?id=46764836" }
+    ],
+    "album": {
+      "name": "I'm worried about you",
+      "link": "https://music.163.com/album?id=99248736"
+    }
+  }
+]
