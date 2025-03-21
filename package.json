@@ -5,18 +5,11 @@
   "license": "MIT",
   "scripts": {
     "build": "go build -o ./bin/music-taste-recommend.out server/server.go",
-    "prettier": "npx prettier ./{client,server,db}/**/*.{js,json} --write",
+    "fmt": "npx @biomejs/biome format --write",
     "test": "playwright test"
   },
-  "gitHooks": {
-    "pre-commit": "lint-staged"
-  },
-  "lint-staged": {
-    "*.{js,jsx,ts,tsx,json}": [
-      "prettier --write"
-    ]
-  },
   "devDependencies": {
-    "@playwright/test": "^1.19.1"
+    "@biomejs/biome": "^1.9.4",
+    "@playwright/test": "^1.51.0"
   }
 }

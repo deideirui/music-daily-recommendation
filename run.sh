@@ -30,7 +30,7 @@ const concatMap = (f, s = ', ') => xs => xs.map(f).join(s);
 const r = require('$db/$f');
 concatMap((x, i) => String(i + 1).padStart(2, ' ') + '. ' + x.name + ' - ' + concatMap(x => x.name, ' & ')(x.artists), '\n')(r)"
 
-npx prettier $db/$f --write
+npx @biomejs/biome format --write $db/$f
 
 cd $dir
 

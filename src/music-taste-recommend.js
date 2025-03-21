@@ -1,18 +1,20 @@
 const path = require('path')
 const http = require('http')
 const { chromium } = require('@playwright/test')
-
 ;(async () => {
   const context = await chromium.launchPersistentContext(
     path.join(__dirname, '../chromium-user-data'),
     {
-      headless: false
-    }
-  );
+      headless: false,
+    },
+  )
 
   const page = await context.newPage()
 
   await page.goto('https://music.163.com/#/discover/recommend/taste')
+
+  // uncomment this for login.
+  // await new Promise((resolve) => setTimeout(resolve, 60 * 1000))
 
   const collected = await page.evaluate(() => {
     const collect = () => {
@@ -65,7 +67,7 @@ const { chromium } = require('@playwright/test')
             artists: k3.map((x) => ({ name: x[0], link: x[1] })),
             album: { name: m3, link: m4 },
           }
-        }
+        },
       )
     }
 
@@ -86,8 +88,10 @@ const { chromium } = require('@playwright/test')
     },
     (res) => {
       res.on('data', (chunk) => debug && console.log('[data]', String(chunk)))
-      res.on('end', () => context.close())
-    }
+      res.on('end', () => {
+        context.close()
+      })
+    },
   )
 
   req.write(JSON.stringify(collected))

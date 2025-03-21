@@ -26,4 +26,5 @@ test/the-files-to-test.generated.js
 
 chromium-user-data
 playwright-report
+test-results
 /bin/*.out
