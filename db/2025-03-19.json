@@ -1,0 +1,431 @@
+[
+  {
+    "name": "My Mother's Walk",
+    "link": "https://music.163.com/song?id=2658294154",
+    "duration": "02:55",
+    "artists": [
+      { "name": "July", "link": "https://music.163.com/artist?id=123825" }
+    ],
+    "album": {
+      "name": "My Mother's Walk",
+      "link": "https://music.163.com/album?id=257446188"
+    }
+  },
+  {
+    "name": "Absolution",
+    "link": "https://music.163.com/song?id=31191532",
+    "duration": "03:55",
+    "artists": [
+      {
+        "name": "Ryan Taubert",
+        "link": "https://music.163.com/artist?id=1057026"
+      }
+    ],
+    "album": {
+      "name": "The Works of Ryan Taubert",
+      "link": "https://music.163.com/album?id=3115074"
+    }
+  },
+  {
+    "name": "Una Mattina (Radio Edit)",
+    "link": "https://music.163.com/song?id=2084415321",
+    "duration": "07:25",
+    "artists": [
+      { "name": "Kiiiu_", "link": "https://music.163.com/artist?id=54063638" }
+    ],
+    "album": {
+      "name": "Outta My Head",
+      "link": "https://music.163.com/album?id=175349203"
+    }
+  },
+  {
+    "name": "A World Apart",
+    "link": "https://music.163.com/song?id=1410403691",
+    "duration": "03:12",
+    "artists": [
+      {
+        "name": "Anne Sophie Versnaeyen",
+        "link": "https://music.163.com/artist?id=492671"
+      },
+      {
+        "name": "Gabriel Saban",
+        "link": "https://music.163.com/artist?id=14612238"
+      }
+    ],
+    "album": {
+      "name": "Soul Stories 2 (Emotional Orchestral Drama Tracks)",
+      "link": "https://music.163.com/album?id=84182475"
+    }
+  },
+  {
+    "name": "Heartstrings - (心弦)",
+    "link": "https://music.163.com/song?id=1834243182",
+    "duration": "03:09",
+    "artists": [
+      { "name": "LeBrock", "link": "https://music.163.com/artist?id=13970913" }
+    ],
+    "album": {
+      "name": "Heartstrings",
+      "link": "https://music.163.com/album?id=125487211"
+    }
+  },
+  {
+    "name": "A Long Lost Silence",
+    "link": "https://music.163.com/song?id=866245796",
+    "duration": "08:19",
+    "artists": [
+      {
+        "name": "There's a Light",
+        "link": "https://music.163.com/artist?id=104460"
+      }
+    ],
+    "album": {
+      "name": "A Long Lost Silence",
+      "link": "https://music.163.com/album?id=71821501"
+    }
+  },
+  {
+    "name": "Try",
+    "link": "https://music.163.com/song?id=1950216347",
+    "duration": "03:44",
+    "artists": [
+      { "name": "JODA", "link": "https://music.163.com/artist?id=53119420" }
+    ],
+    "album": {
+      "name": "Try / Dark Strings",
+      "link": "https://music.163.com/album?id=145453853"
+    }
+  },
+  {
+    "name": "忘れ咲き - (盛开在遗忘之后)",
+    "link": "https://music.163.com/song?id=733968",
+    "duration": "04:58",
+    "artists": [
+      { "name": "GARNET CROW", "link": "https://music.163.com/artist?id=19553" }
+    ],
+    "album": {
+      "name": "忘れ咲き",
+      "link": "https://music.163.com/album?id=71854"
+    }
+  },
+  {
+    "name": "Memoria",
+    "link": "https://music.163.com/song?id=2024507158",
+    "duration": "04:17",
+    "artists": [
+      {
+        "name": "Thomas Bergersen",
+        "link": "https://music.163.com/artist?id=45336"
+      },
+      {
+        "name": "Merethe Soltvedt",
+        "link": "https://music.163.com/artist?id=855324"
+      }
+    ],
+    "album": {
+      "name": "Memoria",
+      "link": "https://music.163.com/album?id=160534951"
+    }
+  },
+  {
+    "name": "Feeling inferior.",
+    "link": "https://music.163.com/song?id=2672279345",
+    "duration": "01:55",
+    "artists": [
+      { "name": "拿花负荷", "link": "https://music.163.com/artist?id=33428842" }
+    ],
+    "album": {
+      "name": "Feeling inferior.",
+      "link": "https://music.163.com/album?id=261854421"
+    }
+  },
+  {
+    "name": "Coping",
+    "link": "https://music.163.com/song?id=1492489729",
+    "duration": "03:10",
+    "artists": [
+      {
+        "name": "Rosie Darling",
+        "link": "https://music.163.com/artist?id=13059611"
+      }
+    ],
+    "album": {
+      "name": "Coping",
+      "link": "https://music.163.com/album?id=97806404"
+    }
+  },
+  {
+    "name": "Shadow",
+    "link": "https://music.163.com/song?id=1317362944",
+    "duration": "06:51",
+    "artists": [
+      {
+        "name": "Roald Velden",
+        "link": "https://music.163.com/artist?id=178498"
+      },
+      {
+        "name": "Sabien Bouw",
+        "link": "https://music.163.com/artist?id=30360264"
+      }
+    ],
+    "album": {
+      "name": "Shadow",
+      "link": "https://music.163.com/album?id=73886972"
+    }
+  },
+  {
+    "name": "Deja Vu",
+    "link": "https://music.163.com/song?id=2674951989",
+    "duration": "04:48",
+    "artists": [
+      {
+        "name": "Aurora Sky",
+        "link": "https://music.163.com/artist?id=35021758"
+      }
+    ],
+    "album": {
+      "name": "Deja Vu",
+      "link": "https://music.163.com/album?id=262733059"
+    }
+  },
+  {
+    "name": "NYC",
+    "link": "https://music.163.com/song?id=427542087",
+    "duration": "02:57",
+    "artists": [
+      { "name": "J. Lisk", "link": "https://music.163.com/artist?id=12121101" }
+    ],
+    "album": {
+      "name": "NYC",
+      "link": "https://music.163.com/album?id=34855046"
+    }
+  },
+  {
+    "name": "Love Is Gone",
+    "link": "https://music.163.com/song?id=2609390611",
+    "duration": "03:30",
+    "artists": [
+      { "name": "Tretone", "link": "https://music.163.com/artist?id=53548215" },
+      {
+        "name": "Moon Jelly",
+        "link": "https://music.163.com/artist?id=36657226"
+      }
+    ],
+    "album": {
+      "name": "Love Is Gone",
+      "link": "https://music.163.com/album?id=242589318"
+    }
+  },
+  {
+    "name": "Dancing",
+    "link": "https://music.163.com/song?id=2615399304",
+    "duration": "02:32",
+    "artists": [
+      { "name": "Vanished", "link": "https://music.163.com/artist?id=12288138" }
+    ],
+    "album": {
+      "name": "Dancing",
+      "link": "https://music.163.com/album?id=244403376"
+    }
+  },
+  {
+    "name": "Trespass (Album Mix)",
+    "link": "https://music.163.com/song?id=16362377",
+    "duration": "06:07",
+    "artists": [
+      { "name": "Andy Moor", "link": "https://music.163.com/artist?id=28854" },
+      {
+        "name": "Sue McLaren",
+        "link": "https://music.163.com/artist?id=191658"
+      }
+    ],
+    "album": {
+      "name": "Zero Point One",
+      "link": "https://music.163.com/album?id=1509551"
+    }
+  },
+  {
+    "name": "i changed",
+    "link": "https://music.163.com/song?id=2076876243",
+    "duration": "02:24",
+    "artists": [
+      { "name": "VOSZA", "link": "https://music.163.com/artist?id=54724267" }
+    ],
+    "album": {
+      "name": "i changed",
+      "link": "https://music.163.com/album?id=173394424"
+    }
+  },
+  {
+    "name": "In Your Light",
+    "link": "https://music.163.com/song?id=2681013343",
+    "duration": "02:32",
+    "artists": [
+      { "name": "Recall", "link": "https://music.163.com/artist?id=33068022" }
+    ],
+    "album": {
+      "name": "vocal house，自然",
+      "link": "https://music.163.com/album?id=259914146"
+    }
+  },
+  {
+    "name": "Otherside",
+    "link": "https://music.163.com/song?id=2668313663",
+    "duration": "03:48",
+    "artists": [
+      { "name": "Annd", "link": "https://music.163.com/artist?id=51497354" },
+      { "name": "lxl007", "link": "https://music.163.com/artist?id=59192174" },
+      { "name": "Nevve", "link": "https://music.163.com/artist?id=12567101" }
+    ],
+    "album": {
+      "name": "Otherside",
+      "link": "https://music.163.com/album?id=260411302"
+    }
+  },
+  {
+    "name": "July",
+    "link": "https://music.163.com/song?id=1694112",
+    "duration": "04:01",
+    "artists": [
+      { "name": "LJones", "link": "https://music.163.com/artist?id=38770" }
+    ],
+    "album": {
+      "name": "Soul Below",
+      "link": "https://music.163.com/album?id=171897"
+    }
+  },
+  {
+    "name": "From Where I Stand",
+    "link": "https://music.163.com/song?id=17110517",
+    "duration": "06:36",
+    "artists": [
+      { "name": "Chicane", "link": "https://music.163.com/artist?id=50971" }
+    ],
+    "album": {
+      "name": "Giants",
+      "link": "https://music.163.com/album?id=1576392"
+    }
+  },
+  {
+    "name": "Scared to Be Lonely (Acoustic Version)",
+    "link": "https://music.163.com/song?id=472060295",
+    "duration": "04:17",
+    "artists": [
+      {
+        "name": "Martin Garrix",
+        "link": "https://music.163.com/artist?id=780003"
+      },
+      { "name": "Dua Lipa", "link": "https://music.163.com/artist?id=1135086" }
+    ],
+    "album": {
+      "name": "The Martin Garrix China Ultimate Collection",
+      "link": "https://music.163.com/album?id=35328959"
+    }
+  },
+  {
+    "name": "Umbrella (2024 Edit)",
+    "link": "https://music.163.com/song?id=2147494801",
+    "duration": "03:54",
+    "artists": [
+      {
+        "name": "Paul Wallen",
+        "link": "https://music.163.com/artist?id=13733740"
+      },
+      {
+        "name": "Gigi Nally",
+        "link": "https://music.163.com/artist?id=47266491"
+      }
+    ],
+    "album": {
+      "name": "Best Of  2024",
+      "link": "https://music.163.com/album?id=192863623"
+    }
+  },
+  {
+    "name": "We Go Down Together",
+    "link": "https://music.163.com/song?id=1300697517",
+    "duration": "03:19",
+    "artists": [
+      { "name": "BLAEKER", "link": "https://music.163.com/artist?id=28769386" },
+      {
+        "name": "AdamAlexander",
+        "link": "https://music.163.com/artist?id=28768448"
+      }
+    ],
+    "album": {
+      "name": "9 To 5",
+      "link": "https://music.163.com/album?id=72249050"
+    }
+  },
+  {
+    "name": "Light and Wilderness (feat. Jordan Critz)",
+    "link": "https://music.163.com/song?id=1876622025",
+    "duration": "03:50",
+    "artists": [
+      {
+        "name": "Tim Halperin",
+        "link": "https://music.163.com/artist?id=45497"
+      },
+      {
+        "name": "Jordan Critz",
+        "link": "https://music.163.com/artist?id=147520"
+      }
+    ],
+    "album": {
+      "name": "Light and Wilderness (feat. Jordan Critz)",
+      "link": "https://music.163.com/album?id=132957993"
+    }
+  },
+  {
+    "name": "Divided Sky",
+    "link": "https://music.163.com/song?id=2657523603",
+    "duration": "03:26",
+    "artists": [
+      { "name": "Feint", "link": "https://music.163.com/artist?id=93062" }
+    ],
+    "album": {
+      "name": "Divided Sky",
+      "link": "https://music.163.com/album?id=257200590"
+    }
+  },
+  {
+    "name": "Back To You",
+    "link": "https://music.163.com/song?id=2143866517",
+    "duration": "03:12",
+    "artists": [
+      {
+        "name": "Cloudcage",
+        "link": "https://music.163.com/artist?id=46802061"
+      },
+      { "name": "rshand", "link": "https://music.163.com/artist?id=46521917" }
+    ],
+    "album": {
+      "name": "Back To You",
+      "link": "https://music.163.com/album?id=191617133"
+    }
+  },
+  {
+    "name": "Summer Sky",
+    "link": "https://music.163.com/song?id=2671518813",
+    "duration": "04:11",
+    "artists": [
+      { "name": "Stories", "link": "https://music.163.com/artist?id=12178030" }
+    ],
+    "album": {
+      "name": "Summer Sky",
+      "link": "https://music.163.com/album?id=261576314"
+    }
+  },
+  {
+    "name": "If I Lose Myself",
+    "link": "https://music.163.com/song?id=25729090",
+    "duration": "04:01",
+    "artists": [
+      { "name": "OneRepublic", "link": "https://music.163.com/artist?id=98105" }
+    ],
+    "album": {
+      "name": "Native (Deluxe Version)",
+      "link": "https://music.163.com/album?id=2302008"
+    }
+  }
+]
