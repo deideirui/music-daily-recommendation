@@ -1,0 +1,408 @@
+[
+  {
+    "name": "phantom pain",
+    "link": "https://music.163.com/song?id=2050162857",
+    "duration": "04:05",
+    "artists": [
+      {
+        "name": "elijah woods",
+        "link": "https://music.163.com/artist?id=46348276"
+      }
+    ],
+    "album": {
+      "name": "what if it was great?",
+      "link": "https://music.163.com/album?id=166323044"
+    }
+  },
+  {
+    "name": "If Elephants Could Fly - (如果大象也能飞)",
+    "link": "https://music.163.com/song?id=32857560",
+    "duration": "04:58",
+    "artists": [
+      {
+        "name": "Marcus Warner",
+        "link": "https://music.163.com/artist?id=1046308"
+      }
+    ],
+    "album": {
+      "name": "Liberation",
+      "link": "https://music.163.com/album?id=3171557"
+    }
+  },
+  {
+    "name": "風になれ - (化成风)",
+    "link": "https://music.163.com/song?id=22651569",
+    "duration": "05:54",
+    "artists": [
+      { "name": "大黒摩季", "link": "https://music.163.com/artist?id=17480" }
+    ],
+    "album": {
+      "name": "POWER OF DREAMS",
+      "link": "https://music.163.com/album?id=2076971"
+    }
+  },
+  {
+    "name": "溺梦",
+    "link": "https://music.163.com/song?id=2635879955",
+    "duration": "02:06",
+    "artists": [
+      { "name": "路灰气球", "link": "https://music.163.com/artist?id=33496397" }
+    ],
+    "album": {
+      "name": "溺梦",
+      "link": "https://music.163.com/album?id=250524890"
+    }
+  },
+  {
+    "name": "Spirit",
+    "link": "https://music.163.com/song?id=478736122",
+    "duration": "03:50",
+    "artists": [
+      { "name": "Fabled", "link": "https://music.163.com/artist?id=12197027" }
+    ],
+    "album": {
+      "name": "Spirit",
+      "link": "https://music.163.com/album?id=35520044"
+    }
+  },
+  {
+    "name": "Far Away - (漫无边际)",
+    "link": "https://music.163.com/song?id=424262438",
+    "duration": "05:17",
+    "artists": [
+      {
+        "name": "Sappheiros",
+        "link": "https://music.163.com/artist?id=11995187"
+      }
+    ],
+    "album": {
+      "name": "Far Away",
+      "link": "https://music.163.com/album?id=34809130"
+    }
+  },
+  {
+    "name": "Rippling and Rising",
+    "link": "https://music.163.com/song?id=534625392",
+    "duration": "02:36",
+    "artists": [
+      {
+        "name": "Jamie Salisbury",
+        "link": "https://music.163.com/artist?id=1120097"
+      }
+    ],
+    "album": {
+      "name": "Cinematic Pop Rock: Epic, Exciting & Energetic",
+      "link": "https://music.163.com/album?id=37463618"
+    }
+  },
+  {
+    "name": "【Free】洛杉矶 (Synth Pop x Lany Type Beat)",
+    "link": "https://music.163.com/song?id=2035997027",
+    "duration": "03:19",
+    "artists": [
+      {
+        "name": "NeonMusic",
+        "link": "https://music.163.com/artist?id=37337313"
+      }
+    ],
+    "album": {
+      "name": "【Free】洛杉矶 (Synth Pop x Lany Type Beat)",
+      "link": "https://music.163.com/album?id=162952637"
+    }
+  },
+  {
+    "name": "our painted sky.(JerScO Remix)",
+    "link": "https://music.163.com/song?id=2098312845",
+    "duration": "03:50",
+    "artists": [
+      { "name": "JerScO", "link": "https://music.163.com/artist?id=47309101" }
+    ],
+    "album": {
+      "name": "our painted sky.(Remixes)",
+      "link": "https://music.163.com/album?id=178716116"
+    }
+  },
+  {
+    "name": "Kick Drums & Red Wine",
+    "link": "https://music.163.com/song?id=28999944",
+    "duration": "06:21",
+    "artists": [
+      {
+        "name": "The Midnight",
+        "link": "https://music.163.com/artist?id=12023492"
+      }
+    ],
+    "album": {
+      "name": "Days of Thunder",
+      "link": "https://music.163.com/album?id=2976060"
+    }
+  },
+  {
+    "name": "tomorrow we'll be dying",
+    "link": "https://music.163.com/song?id=3939374",
+    "duration": "07:00",
+    "artists": [
+      {
+        "name": "Drawing The Endless Shore",
+        "link": "https://music.163.com/artist?id=87381"
+      }
+    ],
+    "album": {
+      "name": "don't despair",
+      "link": "https://music.163.com/album?id=398422"
+    }
+  },
+  {
+    "name": "夏日坠入爱河计划",
+    "link": "https://music.163.com/song?id=2034154810",
+    "duration": "03:42",
+    "artists": [
+      { "name": "GG啵！", "link": "https://music.163.com/artist?id=30702017" }
+    ],
+    "album": {
+      "name": "夏日坠入爱河计划",
+      "link": "https://music.163.com/album?id=162616055"
+    }
+  },
+  {
+    "name": "I Run Away (Original Mix)",
+    "link": "https://music.163.com/song?id=431080854",
+    "duration": "04:29",
+    "artists": [
+      {
+        "name": "Moonnight",
+        "link": "https://music.163.com/artist?id=1050317"
+      },
+      {
+        "name": "MarGo Lane",
+        "link": "https://music.163.com/artist?id=12659815"
+      }
+    ],
+    "album": {
+      "name": "I Run Away",
+      "link": "https://music.163.com/album?id=34869955"
+    }
+  },
+  {
+    "name": "I Watch The Moon 2",
+    "link": "https://music.163.com/song?id=2634838035",
+    "duration": "01:31",
+    "artists": [
+      { "name": "Mokika", "link": "https://music.163.com/artist?id=47248263" }
+    ],
+    "album": {
+      "name": "Watch The Moon(Sped up)",
+      "link": "https://music.163.com/album?id=250174182"
+    }
+  },
+  {
+    "name": "If I Could Fly",
+    "link": "https://music.163.com/song?id=1808826",
+    "duration": "05:12",
+    "artists": [
+      { "name": "Oceanlab", "link": "https://music.163.com/artist?id=40869" }
+    ],
+    "album": {
+      "name": "Sirens of the Sea",
+      "link": "https://music.163.com/album?id=182684"
+    }
+  },
+  {
+    "name": "Kiss Me Better",
+    "link": "https://music.163.com/song?id=2118264976",
+    "duration": "02:40",
+    "artists": [
+      {
+        "name": "Julie Bergan",
+        "link": "https://music.163.com/artist?id=896964"
+      }
+    ],
+    "album": {
+      "name": "Kiss Me Better",
+      "link": "https://music.163.com/album?id=183431491"
+    }
+  },
+  {
+    "name": "Mysteries of Baikal",
+    "link": "https://music.163.com/song?id=523397970",
+    "duration": "07:48",
+    "artists": [
+      { "name": "Pulsar", "link": "https://music.163.com/artist?id=71687" }
+    ],
+    "album": {
+      "name": "Euphoria",
+      "link": "https://music.163.com/album?id=36955010"
+    }
+  },
+  {
+    "name": "此次一别 终生相望",
+    "link": "https://music.163.com/song?id=2627324418",
+    "duration": "03:19",
+    "artists": [
+      { "name": "可有道", "link": "https://music.163.com/artist?id=30476442" }
+    ],
+    "album": {
+      "name": "此次一别 终生相望",
+      "link": "https://music.163.com/album?id=247913789"
+    }
+  },
+  {
+    "name": "Seeking Twilight",
+    "link": "https://music.163.com/song?id=1449242759",
+    "duration": "04:02",
+    "artists": [
+      {
+        "name": "Cre-sc3NT",
+        "link": "https://music.163.com/artist?id=1211009"
+      },
+      { "name": "橙沁Asa", "link": "https://music.163.com/artist?id=12258321" }
+    ],
+    "album": {
+      "name": "Seeking Twilight",
+      "link": "https://music.163.com/album?id=89640619"
+    }
+  },
+  {
+    "name": "Pixie",
+    "link": "https://music.163.com/song?id=1338929285",
+    "duration": "04:11",
+    "artists": [
+      { "name": "yitaku", "link": "https://music.163.com/artist?id=12096176" },
+      { "name": "Slyleaf", "link": "https://music.163.com/artist?id=12155045" }
+    ],
+    "album": {
+      "name": "Pixie",
+      "link": "https://music.163.com/album?id=75134084"
+    }
+  },
+  {
+    "name": "Back Where I Belong (Extended Mix)",
+    "link": "https://music.163.com/song?id=415793821",
+    "duration": "04:55",
+    "artists": [
+      {
+        "name": "Otto Knows",
+        "link": "https://music.163.com/artist?id=694019"
+      },
+      { "name": "Avicii", "link": "https://music.163.com/artist?id=45236" },
+      { "name": "LP", "link": "https://music.163.com/artist?id=66290" }
+    ],
+    "album": {
+      "name": "Back Where I Belong (feat. Avicii)",
+      "link": "https://music.163.com/album?id=34721465"
+    }
+  },
+  {
+    "name": "Skyline",
+    "link": "https://music.163.com/song?id=1928530942",
+    "duration": "04:10",
+    "artists": [
+      { "name": "Grafix", "link": "https://music.163.com/artist?id=34498" },
+      { "name": "Metrik", "link": "https://music.163.com/artist?id=129214" }
+    ],
+    "album": {
+      "name": "Skyline",
+      "link": "https://music.163.com/album?id=141867957"
+    }
+  },
+  {
+    "name": "Talk to Me Like the Sea",
+    "link": "https://music.163.com/song?id=1310063728",
+    "duration": "04:33",
+    "artists": [
+      {
+        "name": "Softer Still",
+        "link": "https://music.163.com/artist?id=12073501"
+      }
+    ],
+    "album": {
+      "name": "Junipero",
+      "link": "https://music.163.com/album?id=73345146"
+    }
+  },
+  {
+    "name": "如果忧伤（inst.）",
+    "link": "https://music.163.com/song?id=1887762195",
+    "duration": "03:25",
+    "artists": [
+      { "name": "狄奥尼索斯", "link": "https://music.163.com/artist?id=11428" }
+    ],
+    "album": {
+      "name": "如果忧伤",
+      "link": "https://music.163.com/album?id=134901227"
+    }
+  },
+  {
+    "name": "Dream x Dream - (『名探偵コナン 銀翼の奇術師』(2004年)主題歌)",
+    "link": "https://music.163.com/song?id=552408",
+    "duration": "05:17",
+    "artists": [
+      { "name": "愛内里菜", "link": "https://music.163.com/artist?id=15996" }
+    ],
+    "album": {
+      "name": "Dream x Dream",
+      "link": "https://music.163.com/album?id=51554"
+    }
+  },
+  {
+    "name": "Change",
+    "link": "https://music.163.com/song?id=34142133",
+    "duration": "03:44",
+    "artists": [
+      { "name": "Ducosy", "link": "https://music.163.com/artist?id=1135176" }
+    ],
+    "album": {
+      "name": "Change",
+      "link": "https://music.163.com/album?id=3264655"
+    }
+  },
+  {
+    "name": "Somebody Else's Heart",
+    "link": "https://music.163.com/song?id=479219599",
+    "duration": "03:32",
+    "artists": [
+      { "name": "Lady A", "link": "https://music.163.com/artist?id=95456" }
+    ],
+    "album": {
+      "name": "Heart Break",
+      "link": "https://music.163.com/album?id=35511203"
+    }
+  },
+  {
+    "name": "Free Fall (Original Mix)",
+    "link": "https://music.163.com/song?id=399354192",
+    "duration": "04:10",
+    "artists": [
+      { "name": "Bernheim", "link": "https://music.163.com/artist?id=11974060" }
+    ],
+    "album": {
+      "name": "Free Fall (Original Mix)",
+      "link": "https://music.163.com/album?id=34408094"
+    }
+  },
+  {
+    "name": "Never Over (feat. Michi)",
+    "link": "https://music.163.com/song?id=509135896",
+    "duration": "02:36",
+    "artists": [
+      { "name": "BEAUZ", "link": "https://music.163.com/artist?id=12131436" },
+      { "name": "Michi", "link": "https://music.163.com/artist?id=12390142" }
+    ],
+    "album": {
+      "name": "Never Over (feat. Michi)",
+      "link": "https://music.163.com/album?id=36412220"
+    }
+  },
+  {
+    "name": "I am - (TVアニメ「犬夜叉」OP2テーマ)",
+    "link": "https://music.163.com/song?id=540815",
+    "duration": "01:38",
+    "artists": [
+      { "name": "hitomi", "link": "https://music.163.com/artist?id=16403" }
+    ],
+    "album": {
+      "name": "TVアニメーション「犬夜叉」オリジナルサウンドトラックアルバム「犬夜叉　音楽篇　弐」",
+      "link": "https://music.163.com/album?id=50653"
+    }
+  }
+]
