@@ -1,0 +1,451 @@
+[
+  {
+    "name": "Runaway",
+    "link": "https://music.163.com/song?id=1344291728",
+    "duration": "03:52",
+    "artists": [
+      { "name": "LeBrock", "link": "https://music.163.com/artist?id=13970913" }
+    ],
+    "album": {
+      "name": "Real Thing",
+      "link": "https://music.163.com/album?id=75462145"
+    }
+  },
+  {
+    "name": "Togetherness",
+    "link": "https://music.163.com/song?id=409031984",
+    "duration": "01:52",
+    "artists": [
+      {
+        "name": "Lights & Motion",
+        "link": "https://music.163.com/artist?id=845098"
+      }
+    ],
+    "album": {
+      "name": "Wide Awake",
+      "link": "https://music.163.com/album?id=34604181"
+    }
+  },
+  {
+    "name": "Waiting for Sunrise",
+    "link": "https://music.163.com/song?id=26464078",
+    "duration": "07:27",
+    "artists": [
+      { "name": "April Rain", "link": "https://music.163.com/artist?id=572393" }
+    ],
+    "album": {
+      "name": "Waiting for Sunrise",
+      "link": "https://music.163.com/album?id=2504335"
+    }
+  },
+  {
+    "name": "Blue Sky (Mark & Lukas Remix)",
+    "link": "https://music.163.com/song?id=530986311",
+    "duration": "06:14",
+    "artists": [
+      {
+        "name": "Miroslav Vrlik",
+        "link": "https://music.163.com/artist?id=96725"
+      },
+      {
+        "name": "Mark & Lukas",
+        "link": "https://music.163.com/artist?id=1104097"
+      }
+    ],
+    "album": {
+      "name": "Blue Sky",
+      "link": "https://music.163.com/album?id=37316130"
+    }
+  },
+  {
+    "name": "[Free]\"潮湿天气\" Jay Chou & Sad Piano",
+    "link": "https://music.163.com/song?id=2137732203",
+    "duration": "03:27",
+    "artists": [
+      { "name": "ATTBEAT", "link": "https://music.163.com/artist?id=35022361" }
+    ],
+    "album": {
+      "name": "[Free]",
+      "link": "https://music.163.com/album?id=189503796"
+    }
+  },
+  {
+    "name": "Legend",
+    "link": "https://music.163.com/song?id=2108594411",
+    "duration": "03:42",
+    "artists": [
+      { "name": "Vexento", "link": "https://music.163.com/artist?id=12037010" }
+    ],
+    "album": {
+      "name": "Legend",
+      "link": "https://music.163.com/album?id=181122601"
+    }
+  },
+  {
+    "name": "Forever In My Heart - (牢记于心)",
+    "link": "https://music.163.com/song?id=33223212",
+    "duration": "04:46",
+    "artists": [
+      { "name": "CMA", "link": "https://music.163.com/artist?id=300739" }
+    ],
+    "album": {
+      "name": "Forever In My Heart",
+      "link": "https://music.163.com/album?id=3192040"
+    }
+  },
+  {
+    "name": "Dreams",
+    "link": "https://music.163.com/song?id=403012376",
+    "duration": "04:46",
+    "artists": [
+      {
+        "name": "Sappheiros",
+        "link": "https://music.163.com/artist?id=11995187"
+      },
+      { "name": "Almaa", "link": "https://music.163.com/artist?id=12040033" }
+    ],
+    "album": {
+      "name": "Dreams",
+      "link": "https://music.163.com/album?id=34477419"
+    }
+  },
+  {
+    "name": "一半一半 - (2024年末贺礼特别企划「允许一切发生」)",
+    "link": "https://music.163.com/song?id=2660262534",
+    "duration": "02:26",
+    "artists": [
+      { "name": "马晓波", "link": "https://music.163.com/artist?id=53213065" },
+      { "name": "知晏", "link": "https://music.163.com/artist?id=34515052" }
+    ],
+    "album": {
+      "name": "允许一切发生",
+      "link": "https://music.163.com/album?id=257996047"
+    }
+  },
+  {
+    "name": "Welcome Home, Son (Remastered)",
+    "link": "https://music.163.com/song?id=1395957507",
+    "duration": "04:46",
+    "artists": [
+      {
+        "name": "Radical Face",
+        "link": "https://music.163.com/artist?id=41953"
+      }
+    ],
+    "album": {
+      "name": "Ghost (Anniversary Edition)",
+      "link": "https://music.163.com/album?id=82260994"
+    }
+  },
+  {
+    "name": "Haven (feat. Dia Frampton)",
+    "link": "https://music.163.com/song?id=1887905708",
+    "duration": "04:11",
+    "artists": [
+      {
+        "name": "William Black",
+        "link": "https://music.163.com/artist?id=248957"
+      },
+      {
+        "name": "Dia Frampton",
+        "link": "https://music.163.com/artist?id=55454"
+      }
+    ],
+    "album": {
+      "name": "Pieces",
+      "link": "https://music.163.com/album?id=134921399"
+    }
+  },
+  {
+    "name": "Path",
+    "link": "https://music.163.com/song?id=2021507968",
+    "duration": "03:53",
+    "artists": [
+      { "name": "Altare", "link": "https://music.163.com/artist?id=30139335" },
+      {
+        "name": "DEVILISH TRIO",
+        "link": "https://music.163.com/artist?id=11974161"
+      }
+    ],
+    "album": {
+      "name": "Path",
+      "link": "https://music.163.com/album?id=159856963"
+    }
+  },
+  {
+    "name": "I Wish",
+    "link": "https://music.163.com/song?id=2000339975",
+    "duration": "03:35",
+    "artists": [
+      {
+        "name": "Andrew Rayel",
+        "link": "https://music.163.com/artist?id=191512"
+      },
+      {
+        "name": "Robbie Seed",
+        "link": "https://music.163.com/artist?id=351673"
+      },
+      {
+        "name": "Jimmy Chou",
+        "link": "https://music.163.com/artist?id=772102"
+      },
+      {
+        "name": "That girl",
+        "link": "https://music.163.com/artist?id=31385311"
+      }
+    ],
+    "album": {
+      "name": "I Wish",
+      "link": "https://music.163.com/album?id=155280651"
+    }
+  },
+  {
+    "name": "纸飞机Fly Away - (电影《雄狮少年2》插曲)",
+    "link": "https://music.163.com/song?id=2664813239",
+    "duration": "03:55",
+    "artists": [
+      { "name": "高玮浩", "link": "https://music.163.com/artist?id=50927245" },
+      { "name": "宋璧芸", "link": "https://music.163.com/artist?id=13838290" }
+    ],
+    "album": {
+      "name": "《雄狮少年2》电影原声音乐专辑",
+      "link": "https://music.163.com/album?id=259319878"
+    }
+  },
+  {
+    "name": "A Land So Far (Original Mix)",
+    "link": "https://music.163.com/song?id=35807051",
+    "duration": "04:36",
+    "artists": [
+      { "name": "Jawster", "link": "https://music.163.com/artist?id=1115222" }
+    ],
+    "album": {
+      "name": "A Land So Far",
+      "link": "https://music.163.com/album?id=3375018"
+    }
+  },
+  {
+    "name": "Christmas Canon Rock",
+    "link": "https://music.163.com/song?id=20463332",
+    "duration": "05:02",
+    "artists": [
+      {
+        "name": "Trans-Siberian Orchestra",
+        "link": "https://music.163.com/artist?id=102058"
+      }
+    ],
+    "album": {
+      "name": "The Lost Christmas Eve",
+      "link": "https://music.163.com/album?id=1903540"
+    }
+  },
+  {
+    "name": "Landslide",
+    "link": "https://music.163.com/song?id=2037900482",
+    "duration": "03:01",
+    "artists": [
+      { "name": "KASTRA", "link": "https://music.163.com/artist?id=1105094" },
+      {
+        "name": "Sarah De Warren",
+        "link": "https://music.163.com/artist?id=13222653"
+      }
+    ],
+    "album": {
+      "name": "Landslide",
+      "link": "https://music.163.com/album?id=163373424"
+    }
+  },
+  {
+    "name": "Moonlight Shadow",
+    "link": "https://music.163.com/song?id=1897960884",
+    "duration": "02:59",
+    "artists": [
+      { "name": "W&W", "link": "https://music.163.com/artist?id=46131" },
+      {
+        "name": "Groove Coverage",
+        "link": "https://music.163.com/artist?id=93186"
+      }
+    ],
+    "album": {
+      "name": "Moonlight Shadow",
+      "link": "https://music.163.com/album?id=136603029"
+    }
+  },
+  {
+    "name": "We Are the Light",
+    "link": "https://music.163.com/song?id=1397049785",
+    "duration": "04:57",
+    "artists": [
+      { "name": "Krisu", "link": "https://music.163.com/artist?id=38066" }
+    ],
+    "album": {
+      "name": "We Are the Light",
+      "link": "https://music.163.com/album?id=82425100"
+    }
+  },
+  {
+    "name": "I Need You Love.",
+    "link": "https://music.163.com/song?id=2638766622",
+    "duration": "02:30",
+    "artists": [
+      { "name": "AuntL", "link": "https://music.163.com/artist?id=57561447" }
+    ],
+    "album": {
+      "name": "AUNTL DEMO 小分队",
+      "link": "https://music.163.com/album?id=243353675"
+    }
+  },
+  {
+    "name": "If You Shout - (如果大喊)",
+    "link": "https://music.163.com/song?id=17538871",
+    "duration": "03:49",
+    "artists": [
+      { "name": "Era", "link": "https://music.163.com/artist?id=32670" }
+    ],
+    "album": {
+      "name": "The Mass",
+      "link": "https://music.163.com/album?id=1615342"
+    }
+  },
+  {
+    "name": "Take a While - (尚需时日)",
+    "link": "https://music.163.com/song?id=1470657694",
+    "duration": "04:00",
+    "artists": [
+      {
+        "name": "Yellow Lockdown",
+        "link": "https://music.163.com/artist?id=33815762"
+      },
+      { "name": "Licellow", "link": "https://music.163.com/artist?id=33816567" }
+    ],
+    "album": {
+      "name": "Take a While",
+      "link": "https://music.163.com/album?id=93892419"
+    }
+  },
+  {
+    "name": "オレンジ - (橘 Orange)",
+    "link": "https://music.163.com/song?id=30496836",
+    "duration": "05:51",
+    "artists": [
+      { "name": "seven oops", "link": "https://music.163.com/artist?id=22540" }
+    ],
+    "album": {
+      "name": "オレンジ(期間生産限定盤)",
+      "link": "https://music.163.com/album?id=3102277"
+    }
+  },
+  {
+    "name": "Daily",
+    "link": "https://music.163.com/song?id=483690157",
+    "duration": "03:20",
+    "artists": [
+      {
+        "name": "Rival & Cadmium",
+        "link": "https://music.163.com/artist?id=14439478"
+      },
+      {
+        "name": "Jon Becker",
+        "link": "https://music.163.com/artist?id=14296748"
+      }
+    ],
+    "album": {
+      "name": "最新热歌慢摇1",
+      "link": "https://music.163.com/album?id=2515015"
+    }
+  },
+  {
+    "name": "I'm Always Here",
+    "link": "https://music.163.com/song?id=33252074",
+    "duration": "04:51",
+    "artists": [
+      {
+        "name": "Kelly Donovan",
+        "link": "https://music.163.com/artist?id=1047052"
+      }
+    ],
+    "album": {
+      "name": "I'm Always Here",
+      "link": "https://music.163.com/album?id=3190375"
+    }
+  },
+  {
+    "name": "Don't Say (feat. Nevve)",
+    "link": "https://music.163.com/song?id=1501430322",
+    "duration": "03:02",
+    "artists": [
+      { "name": "Hoang", "link": "https://music.163.com/artist?id=27694442" },
+      { "name": "Nevve", "link": "https://music.163.com/artist?id=12567101" }
+    ],
+    "album": {
+      "name": "Don't Say (feat. Nevve)",
+      "link": "https://music.163.com/album?id=99277835"
+    }
+  },
+  {
+    "name": "Soft to Be Strong",
+    "link": "https://music.163.com/song?id=1361232625",
+    "duration": "03:47",
+    "artists": [
+      { "name": "MARINA", "link": "https://music.163.com/artist?id=68932" }
+    ],
+    "album": {
+      "name": "LOVE + FEAR",
+      "link": "https://music.163.com/album?id=78766691"
+    }
+  },
+  {
+    "name": "Falling",
+    "link": "https://music.163.com/song?id=2653043005",
+    "duration": "04:54",
+    "artists": [
+      { "name": "原子邦妮", "link": "https://music.163.com/artist?id=1193482" }
+    ],
+    "album": {
+      "name": "Falling",
+      "link": "https://music.163.com/album?id=255798993"
+    }
+  },
+  {
+    "name": "最高の片想い - (弥足珍贵的单相思)",
+    "link": "https://music.163.com/song?id=4898499",
+    "duration": "04:31",
+    "artists": [
+      {
+        "name": "タイナカ彩智",
+        "link": "https://music.163.com/artist?id=17913"
+      }
+    ],
+    "album": {
+      "name": "night words",
+      "link": "https://music.163.com/album?id=491434"
+    }
+  },
+  {
+    "name": "Never Say Die",
+    "link": "https://music.163.com/song?id=1830612384",
+    "duration": "04:23",
+    "artists": [
+      { "name": "CHVRCHES", "link": "https://music.163.com/artist?id=694027" }
+    ],
+    "album": {
+      "name": "In Search Of Darkness",
+      "link": "https://music.163.com/album?id=124742214"
+    }
+  },
+  {
+    "name": "Looking 4 A Good Time",
+    "link": "https://music.163.com/song?id=28493982",
+    "duration": "03:48",
+    "artists": [
+      {
+        "name": "Hotel Saint George",
+        "link": "https://music.163.com/artist?id=94115"
+      }
+    ],
+    "album": {
+      "name": "This Is My Life",
+      "link": "https://music.163.com/album?id=2805303"
+    }
+  }
+]
