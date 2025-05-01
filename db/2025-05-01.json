@@ -1,0 +1,428 @@
+[
+  {
+    "name": "Bloody Mary",
+    "link": "https://music.163.com/song?id=2146714069",
+    "duration": "03:33",
+    "artists": [
+      { "name": "二丙", "link": "https://music.163.com/artist?id=61311030" }
+    ],
+    "album": {
+      "name": "萝莉",
+      "link": "https://music.163.com/album?id=192495490"
+    }
+  },
+  {
+    "name": "Cold Heart",
+    "link": "https://music.163.com/song?id=1987193831",
+    "duration": "03:22",
+    "artists": [
+      { "name": "Elton John", "link": "https://music.163.com/artist?id=32671" },
+      { "name": "Dua Lipa", "link": "https://music.163.com/artist?id=1135086" }
+    ],
+    "album": {
+      "name": "HÖST",
+      "link": "https://music.163.com/album?id=152782788"
+    }
+  },
+  {
+    "name": "晨曲（morning mood）",
+    "link": "https://music.163.com/song?id=2686282515",
+    "duration": "04:27",
+    "artists": [
+      { "name": "MT1990", "link": "https://music.163.com/artist?id=12395708" }
+    ],
+    "album": {
+      "name": "晨曲（morning mood）",
+      "link": "https://music.163.com/album?id=266299738"
+    }
+  },
+  {
+    "name": "5th",
+    "link": "https://music.163.com/song?id=2109684982",
+    "duration": "03:25",
+    "artists": [
+      { "name": "石衍恺", "link": "https://music.163.com/artist?id=13282724" }
+    ],
+    "album": {
+      "name": "5th",
+      "link": "https://music.163.com/album?id=181317364"
+    }
+  },
+  {
+    "name": "Always Been You - (海海海Phonk)",
+    "link": "https://music.163.com/song?id=2689631825",
+    "duration": "02:17",
+    "artists": [
+      { "name": "Lunak", "link": "https://music.163.com/artist?id=28416428" }
+    ],
+    "album": {
+      "name": "Always Been You",
+      "link": "https://music.163.com/album?id=267443443"
+    }
+  },
+  {
+    "name": "Would You Call That Love",
+    "link": "https://music.163.com/song?id=515452361",
+    "duration": "02:58",
+    "artists": [
+      {
+        "name": "Kelly Clarkson",
+        "link": "https://music.163.com/artist?id=62885"
+      }
+    ],
+    "album": {
+      "name": "Meaning of Life",
+      "link": "https://music.163.com/album?id=36128399"
+    }
+  },
+  {
+    "name": "Scared",
+    "link": "https://music.163.com/song?id=1862975508",
+    "duration": "02:50",
+    "artists": [
+      { "name": "SABAI", "link": "https://music.163.com/artist?id=32093901" },
+      {
+        "name": "Claire Ridgely",
+        "link": "https://music.163.com/artist?id=14935781"
+      }
+    ],
+    "album": {
+      "name": "Scared",
+      "link": "https://music.163.com/album?id=130684053"
+    }
+  },
+  {
+    "name": "Aperture",
+    "link": "https://music.163.com/song?id=513357640",
+    "duration": "03:49",
+    "artists": [
+      {
+        "name": "Jordan Critz",
+        "link": "https://music.163.com/artist?id=147520"
+      }
+    ],
+    "album": {
+      "name": "Aperture",
+      "link": "https://music.163.com/album?id=36583122"
+    }
+  },
+  {
+    "name": "lunar",
+    "link": "https://music.163.com/song?id=2661066960",
+    "duration": "02:30",
+    "artists": [
+      {
+        "name": "sleepyyer",
+        "link": "https://music.163.com/artist?id=57704115"
+      }
+    ],
+    "album": {
+      "name": "lunar (明月)",
+      "link": "https://music.163.com/album?id=258161852"
+    }
+  },
+  {
+    "name": "Melantropie",
+    "link": "https://music.163.com/song?id=2012381759",
+    "duration": "05:13",
+    "artists": [
+      {
+        "name": "Ivan Torrent",
+        "link": "https://music.163.com/artist?id=816336"
+      },
+      {
+        "name": "Lara Ausensi",
+        "link": "https://music.163.com/artist?id=29162768"
+      }
+    ],
+    "album": {
+      "name": "Onyria",
+      "link": "https://music.163.com/album?id=157760695"
+    }
+  },
+  {
+    "name": "I Love This Life",
+    "link": "https://music.163.com/song?id=28481947",
+    "duration": "03:52",
+    "artists": [
+      {
+        "name": "Kim Cesarion",
+        "link": "https://music.163.com/artist?id=784158"
+      }
+    ],
+    "album": {
+      "name": "I Love This Life",
+      "link": "https://music.163.com/album?id=2774068"
+    }
+  },
+  {
+    "name": "Silent Scream",
+    "link": "https://music.163.com/song?id=567384165",
+    "duration": "03:40",
+    "artists": [
+      { "name": "Anna blue", "link": "https://music.163.com/artist?id=1102150" }
+    ],
+    "album": {
+      "name": "Silent Scream",
+      "link": "https://music.163.com/album?id=39340235"
+    }
+  },
+  {
+    "name": "春之圆舞曲",
+    "link": "https://music.163.com/song?id=2691120935",
+    "duration": "02:41",
+    "artists": [
+      { "name": "CMJ", "link": "https://music.163.com/artist?id=12157336" }
+    ],
+    "album": {
+      "name": "春之圆舞曲",
+      "link": "https://music.163.com/album?id=267887828"
+    }
+  },
+  {
+    "name": "Drive",
+    "link": "https://music.163.com/song?id=2137994531",
+    "duration": "02:50",
+    "artists": [
+      {
+        "name": "LXRY PXNK",
+        "link": "https://music.163.com/artist?id=51384865"
+      },
+      { "name": "XTOM", "link": "https://music.163.com/artist?id=55275116" }
+    ],
+    "album": {
+      "name": "Drive",
+      "link": "https://music.163.com/album?id=189700796"
+    }
+  },
+  {
+    "name": "Stop Pretending",
+    "link": "https://music.163.com/song?id=20657358",
+    "duration": "03:13",
+    "artists": [
+      {
+        "name": "Vicci Martinez",
+        "link": "https://music.163.com/artist?id=84010"
+      }
+    ],
+    "album": {
+      "name": "Vicci",
+      "link": "https://music.163.com/album?id=1920529"
+    }
+  },
+  {
+    "name": "灭",
+    "link": "https://music.163.com/song?id=2054719826",
+    "duration": "01:30",
+    "artists": [
+      { "name": "Seto", "link": "https://music.163.com/artist?id=30950035" }
+    ],
+    "album": {
+      "name": "灭",
+      "link": "https://music.163.com/album?id=167318720"
+    }
+  },
+  {
+    "name": "Face in the Crowd",
+    "link": "https://music.163.com/song?id=2020920229",
+    "duration": "03:24",
+    "artists": [
+      {
+        "name": "Freya Ridings",
+        "link": "https://music.163.com/artist?id=12408238"
+      }
+    ],
+    "album": {
+      "name": "Face in the Crowd",
+      "link": "https://music.163.com/album?id=159713387"
+    }
+  },
+  {
+    "name": "Faith",
+    "link": "https://music.163.com/song?id=1850249133",
+    "duration": "04:05",
+    "artists": [
+      { "name": "ALisa", "link": "https://music.163.com/artist?id=30379539" }
+    ],
+    "album": {
+      "name": "Faith",
+      "link": "https://music.163.com/album?id=128419893"
+    }
+  },
+  {
+    "name": "浪费(是你把我给的爱全都浪费)",
+    "link": "https://music.163.com/song?id=2643846663",
+    "duration": "03:08",
+    "artists": [
+      { "name": "刘烁七", "link": "https://music.163.com/artist?id=31053173" }
+    ],
+    "album": {
+      "name": "浪费",
+      "link": "https://music.163.com/album?id=252990524"
+    }
+  },
+  {
+    "name": "月の唄",
+    "link": "https://music.163.com/song?id=2678883594",
+    "duration": "04:03",
+    "artists": [
+      { "name": "tayori", "link": "https://music.163.com/artist?id=58681002" }
+    ],
+    "album": {
+      "name": "月の唄",
+      "link": "https://music.163.com/album?id=264062273"
+    }
+  },
+  {
+    "name": "LIFE",
+    "link": "https://music.163.com/song?id=2657613721",
+    "duration": "03:33",
+    "artists": [
+      {
+        "name": "Neuro-sama",
+        "link": "https://music.163.com/artist?id=59113854"
+      }
+    ],
+    "album": {
+      "name": "LIFE",
+      "link": "https://music.163.com/album?id=257230819"
+    }
+  },
+  {
+    "name": "Guarded",
+    "link": "https://music.163.com/song?id=2864723",
+    "duration": "03:49",
+    "artists": [
+      {
+        "name": "Jupiter Rising",
+        "link": "https://music.163.com/artist?id=62609"
+      }
+    ],
+    "album": {
+      "name": "The Quiet Hype",
+      "link": "https://music.163.com/album?id=289293"
+    }
+  },
+  {
+    "name": "Leave It",
+    "link": "https://music.163.com/song?id=2608342868",
+    "duration": "02:28",
+    "artists": [
+      {
+        "name": "Sophie Shaw",
+        "link": "https://music.163.com/artist?id=46984700"
+      },
+      {
+        "name": "Oscar Yuan",
+        "link": "https://music.163.com/artist?id=37508254"
+      }
+    ],
+    "album": {
+      "name": "Leave It",
+      "link": "https://music.163.com/album?id=242231391"
+    }
+  },
+  {
+    "name": "飞向札幌的班机",
+    "link": "https://music.163.com/song?id=360945",
+    "duration": "04:16",
+    "artists": [
+      { "name": "哥哥妹妹", "link": "https://music.163.com/artist?id=11952" }
+    ],
+    "album": {
+      "name": "Bianco 我知道你爱我",
+      "link": "https://music.163.com/album?id=35659"
+    }
+  },
+  {
+    "name": "fragment",
+    "link": "https://music.163.com/song?id=2643049430",
+    "duration": "04:15",
+    "artists": [
+      { "name": "HACHI", "link": "https://music.163.com/artist?id=47158498" }
+    ],
+    "album": {
+      "name": "for ASTRA.",
+      "link": "https://music.163.com/album?id=252747979"
+    }
+  },
+  {
+    "name": "Signs (feat. Future Punk & McRocklin)",
+    "link": "https://music.163.com/song?id=1380902355",
+    "duration": "05:28",
+    "artists": [
+      { "name": "Kalax", "link": "https://music.163.com/artist?id=28308321" }
+    ],
+    "album": {
+      "name": "III",
+      "link": "https://music.163.com/album?id=80658988"
+    }
+  },
+  {
+    "name": "Till the Sky Falls Down (Stripped)",
+    "link": "https://music.163.com/song?id=1896438434",
+    "duration": "02:32",
+    "artists": [
+      {
+        "name": "Mikey Geiger",
+        "link": "https://music.163.com/artist?id=27837698"
+      },
+      {
+        "name": "Jessie Villa",
+        "link": "https://music.163.com/artist?id=29448216"
+      }
+    ],
+    "album": {
+      "name": "Sunshine",
+      "link": "https://music.163.com/album?id=136372471"
+    }
+  },
+  {
+    "name": "Made For (feat. RUNN)",
+    "link": "https://music.163.com/song?id=2069716687",
+    "duration": "03:20",
+    "artists": [
+      { "name": "Hoang", "link": "https://music.163.com/artist?id=27694442" },
+      { "name": "nøll", "link": "https://music.163.com/artist?id=12409066" },
+      { "name": "RUNN", "link": "https://music.163.com/artist?id=15237536" }
+    ],
+    "album": {
+      "name": "Made For (feat. RUNN)",
+      "link": "https://music.163.com/album?id=171192090"
+    }
+  },
+  {
+    "name": "Long Way Home",
+    "link": "https://music.163.com/song?id=2055957243",
+    "duration": "02:37",
+    "artists": [
+      {
+        "name": "Walk off the Earth",
+        "link": "https://music.163.com/artist?id=105493"
+      },
+      {
+        "name": "Lindsey Stirling",
+        "link": "https://music.163.com/artist?id=66225"
+      }
+    ],
+    "album": {
+      "name": "Long Way Home",
+      "link": "https://music.163.com/album?id=167695677"
+    }
+  },
+  {
+    "name": "Goliath",
+    "link": "https://music.163.com/song?id=1418966202",
+    "duration": "03:24",
+    "artists": [
+      {
+        "name": "Smith & Thell",
+        "link": "https://music.163.com/artist?id=1024185"
+      }
+    ],
+    "album": {
+      "name": "Goliath",
+      "link": "https://music.163.com/album?id=85218574"
+    }
+  }
+]
